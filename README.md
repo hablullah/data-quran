@@ -76,6 +76,20 @@ All the praises and thanks be to Allah, the Lord[^1] of the 'Alamin
     which is As-Sab' Al-Mathani (i.e. the seven repeatedly recited Verses)
     and the Grand Qur'an which has been given to me." (Sahih Al-Bukhari,
     Vol.6, Hadîth No. 1).
+
+# 3
+
+The Most Gracious, the Most Merciful.
+
+# 4
+
+The Only Owner (and the Only Ruling Judge) of the Day of Recompense
+(i.e. the Day of Resurrection)
+
+# 5
+
+You (Alone) we worship, and You (Alone) we ask for help (for each and
+everything).
 ```
 
 # License
