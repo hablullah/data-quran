@@ -2,19 +2,19 @@
 
 This repository contains free dataset for everything related to Quran: from the text, translation, word-by-word, and tafseer (explanation). There are several reasons why this repository created:
 
-1. To centralize all Quran dataset in one place.
+1. **To centralize all Quran dataset in one place.**
 
    Currently, to create Quran apps, developers need to gather data from various sources manually. Not to mention each source usually has their own formatting, which means the developer also need to parse and normalize the dataset. Once this project complete, developers can simply use this repository as the single source for all Quran related data.
 
-2. To archive Quran dataset, in case the original source goes down or unreachable.
+2. **To archive Quran dataset, in case the original source goes down or unreachable.**
 
    There are several useful Quranic website that went down after being inactive for several years. Hopefully, this repository can be used as archive so those useful data doesn't vanish even after the original websites are gone.
 
-3. To make sure all dataset are legal and not infringing copyright.
+3. **To make sure all dataset are legal and not infringing copyright.**
 
-   I'm not sure how is it in other countries, but in Indonesia some of Quran translations are protected by copyright. Since copyright are recognized by Islam, in this repository all dataset must be collected legally, both by government law and Islamic law.
+   I'm not sure how is it in other countries, but in Indonesia some of Quran translations are protected by copyright. Since copyright are recognized by Islam, in this repository all dataset must be collected legally, both according to government law and Islamic law.
 
-4. To give proper attributions and explanation on how the data collected.
+4. **To give proper attributions and explanation on how the data collected.**
 
    There are several other repositories that collect the Quranic data, however as far as I know, all of them doesn't really mention why, where, when, and how the data are collected.
 
@@ -47,10 +47,35 @@ In the Name of Allâh, the Most Gracious, the Most Merciful
 
 # 2
 
-All the praises and thanks be to Allâh, the Lord[^1] of the ‘Âlamîn (mankind, jinn and all that exists).[^2]
+All the praises and thanks be to Allah, the Lord[^1] of the 'Alamin
+(mankind, jinn and all that exists).[^2]
 
-[^1]: Lord: The actual word used in the Qur’ân is Rabb There is no proper equivalent for Rabb in English language. It means the One and the Only Lord for all the universe, its Creator, Owner, Organizer, Provider, Master, Planner, Sustainer, Cherisher, and Giver of security. Rabb is also one of the Names of Allâh. We have used the word "Lord" as the nearest to Rabb . All occurrences of "Lord" in the interpretation of the meanings of the Noble Qur’ân actually mean Rabb and should be understood as such.
-[^2]: Narrated Abu Sa‘îd bin Al-Mu‘alla: While I was praying in the mosque, Allâh’s Messenger صلى الله عليه وسلم called me but I did not respond to him. Later I said, "O Allâh’s Messenger, I was praying." He said, "Didn’t Allâh say - Answer Allâh (by obeying Him) and His Messenger when he صلى الله عليه وسلم calls you." (V.8:24). He then said to me, "I will teach you a Sûrah which is the greatest Sû rah in the Qur’ân, before you leave the mosque." Then he got hold of my hand, and when he intended to leave (the mosque), I said to him, "Didn’t you say to me, "I will teach you a Sûrah which is the greatest Sûrah in the Qur’an?" He said, " Al-Hamdu lillahi Rabbil-‘âlamîn [i.e. all the praises and thanks be to Allâh, the Lord of the ‘Âlamîn (mankind, jinn and all that exists)], Sûrat Al-Fâtihah which is As-Sab‘ Al-Mathâni (i.e. the seven repeatedly recited Verses) and the Grand Qur’ân which has been given to me." (Sahih Al-Bukhâri, Vol.6, Hadîth No. 1).
+[^1]:
+    Lord: The actual word used in the Qur’ân is Rabb There is no proper
+    equivalent for Rabb in English language. It means the One and the
+    Only Lord for all the universe, its Creator, Owner, Organizer,
+    Provider, Master, Planner, Sustainer, Cherisher, and Giver of
+    security. Rabb is also one of the Names of Allâh. We have used the
+    word "Lord" as the nearest to Rabb. All occurrences of "Lord" in the
+    interpretation of the meanings of the Noble Qur’ân actually mean
+    Rabb and should be understood as such.
+
+[^2]:
+    Narrated Abu Sa'id bin Al-Mu'a'lla: While I was praying in the
+    mosque, Allah's Messenger صلى الله عليه وسلم called me but I did not
+    respond to him. Later I said, "O Allah's Messenger, I was praying."
+    He said, "Didn't Allah say - Answer Allah (by obeying Him) and His
+    Messenger when he صلى الله عليه وسلم calls you." (V.8:24). He then
+    said to me, "I will teach you a Surah which is the greatest Surah
+    in the Qur'an, before you leave the mosque." Then he got hold of
+    my hand, and when he intended to leave (the mosque), I said to him,
+    "Didn't you say to me, "I will teach you a Surah which is the
+    greatest Surah in the Qur'an?" He said, "Al-Hamdu lillahi Rabbil-
+    'alamin [i.e. all the praises and thanks be to Allah, the Lord of
+    the 'Alamin (mankind, jinn and all that exists)], Surat Al-Fatihah
+    which is As-Sab' Al-Mathani (i.e. the seven repeatedly recited Verses)
+    and the Grand Qur'an which has been given to me." (Sahih Al-Bukhari,
+    Vol.6, Hadîth No. 1).
 ```
 
 # License
