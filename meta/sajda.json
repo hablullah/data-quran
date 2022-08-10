@@ -1,0 +1,62 @@
+{
+	"1": {
+		"ayah": 1160,
+		"type": "recommended"
+	},
+	"2": {
+		"ayah": 1722,
+		"type": "recommended"
+	},
+	"3": {
+		"ayah": 1951,
+		"type": "recommended"
+	},
+	"4": {
+		"ayah": 2138,
+		"type": "recommended"
+	},
+	"5": {
+		"ayah": 2308,
+		"type": "recommended"
+	},
+	"6": {
+		"ayah": 2613,
+		"type": "recommended"
+	},
+	"7": {
+		"ayah": 2672,
+		"type": "recommended"
+	},
+	"8": {
+		"ayah": 2915,
+		"type": "recommended"
+	},
+	"9": {
+		"ayah": 3185,
+		"type": "recommended"
+	},
+	"10": {
+		"ayah": 3518,
+		"type": "obligatory"
+	},
+	"11": {
+		"ayah": 3994,
+		"type": "recommended"
+	},
+	"12": {
+		"ayah": 4256,
+		"type": "obligatory"
+	},
+	"13": {
+		"ayah": 4846,
+		"type": "obligatory"
+	},
+	"14": {
+		"ayah": 5905,
+		"type": "recommended"
+	},
+	"15": {
+		"ayah": 6125,
+		"type": "obligatory"
+	}
+}

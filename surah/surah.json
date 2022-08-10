@@ -1,0 +1,915 @@
+{
+	"1": {
+		"name": "الفاتحة",
+		"nAyah": 7,
+		"revelationOrder": 5,
+		"type": "meccan",
+		"start": 1,
+		"end": 7
+	},
+	"2": {
+		"name": "البقرة",
+		"nAyah": 286,
+		"revelationOrder": 87,
+		"type": "medinan",
+		"start": 8,
+		"end": 293
+	},
+	"3": {
+		"name": "آل عمران",
+		"nAyah": 200,
+		"revelationOrder": 89,
+		"type": "medinan",
+		"start": 294,
+		"end": 493
+	},
+	"4": {
+		"name": "النساء",
+		"nAyah": 176,
+		"revelationOrder": 92,
+		"type": "medinan",
+		"start": 494,
+		"end": 669
+	},
+	"5": {
+		"name": "المائدة",
+		"nAyah": 120,
+		"revelationOrder": 112,
+		"type": "medinan",
+		"start": 670,
+		"end": 789
+	},
+	"6": {
+		"name": "الأنعام",
+		"nAyah": 165,
+		"revelationOrder": 55,
+		"type": "meccan",
+		"start": 790,
+		"end": 954
+	},
+	"7": {
+		"name": "الأعراف",
+		"nAyah": 206,
+		"revelationOrder": 39,
+		"type": "meccan",
+		"start": 955,
+		"end": 1160
+	},
+	"8": {
+		"name": "الأنفال",
+		"nAyah": 75,
+		"revelationOrder": 88,
+		"type": "medinan",
+		"start": 1161,
+		"end": 1235
+	},
+	"9": {
+		"name": "التوبة",
+		"nAyah": 129,
+		"revelationOrder": 113,
+		"type": "medinan",
+		"start": 1236,
+		"end": 1364
+	},
+	"10": {
+		"name": "يونس",
+		"nAyah": 109,
+		"revelationOrder": 51,
+		"type": "meccan",
+		"start": 1365,
+		"end": 1473
+	},
+	"11": {
+		"name": "هود",
+		"nAyah": 123,
+		"revelationOrder": 52,
+		"type": "meccan",
+		"start": 1474,
+		"end": 1596
+	},
+	"12": {
+		"name": "يوسف",
+		"nAyah": 111,
+		"revelationOrder": 53,
+		"type": "meccan",
+		"start": 1597,
+		"end": 1707
+	},
+	"13": {
+		"name": "الرعد",
+		"nAyah": 43,
+		"revelationOrder": 96,
+		"type": "medinan",
+		"start": 1708,
+		"end": 1750
+	},
+	"14": {
+		"name": "ابراهيم",
+		"nAyah": 52,
+		"revelationOrder": 72,
+		"type": "meccan",
+		"start": 1751,
+		"end": 1802
+	},
+	"15": {
+		"name": "الحجر",
+		"nAyah": 99,
+		"revelationOrder": 54,
+		"type": "meccan",
+		"start": 1803,
+		"end": 1901
+	},
+	"16": {
+		"name": "النحل",
+		"nAyah": 128,
+		"revelationOrder": 70,
+		"type": "meccan",
+		"start": 1902,
+		"end": 2029
+	},
+	"17": {
+		"name": "الإسراء",
+		"nAyah": 111,
+		"revelationOrder": 50,
+		"type": "meccan",
+		"start": 2030,
+		"end": 2140
+	},
+	"18": {
+		"name": "الكهف",
+		"nAyah": 110,
+		"revelationOrder": 69,
+		"type": "meccan",
+		"start": 2141,
+		"end": 2250
+	},
+	"19": {
+		"name": "مريم",
+		"nAyah": 98,
+		"revelationOrder": 44,
+		"type": "meccan",
+		"start": 2251,
+		"end": 2348
+	},
+	"20": {
+		"name": "طه",
+		"nAyah": 135,
+		"revelationOrder": 45,
+		"type": "meccan",
+		"start": 2349,
+		"end": 2483
+	},
+	"21": {
+		"name": "الأنبياء",
+		"nAyah": 112,
+		"revelationOrder": 73,
+		"type": "meccan",
+		"start": 2484,
+		"end": 2595
+	},
+	"22": {
+		"name": "الحج",
+		"nAyah": 78,
+		"revelationOrder": 103,
+		"type": "medinan",
+		"start": 2596,
+		"end": 2673
+	},
+	"23": {
+		"name": "المؤمنون",
+		"nAyah": 118,
+		"revelationOrder": 74,
+		"type": "meccan",
+		"start": 2674,
+		"end": 2791
+	},
+	"24": {
+		"name": "النور",
+		"nAyah": 64,
+		"revelationOrder": 102,
+		"type": "medinan",
+		"start": 2792,
+		"end": 2855
+	},
+	"25": {
+		"name": "الفرقان",
+		"nAyah": 77,
+		"revelationOrder": 42,
+		"type": "meccan",
+		"start": 2856,
+		"end": 2932
+	},
+	"26": {
+		"name": "الشعراء",
+		"nAyah": 227,
+		"revelationOrder": 47,
+		"type": "meccan",
+		"start": 2933,
+		"end": 3159
+	},
+	"27": {
+		"name": "النمل",
+		"nAyah": 93,
+		"revelationOrder": 48,
+		"type": "meccan",
+		"start": 3160,
+		"end": 3252
+	},
+	"28": {
+		"name": "القصص",
+		"nAyah": 88,
+		"revelationOrder": 49,
+		"type": "meccan",
+		"start": 3253,
+		"end": 3340
+	},
+	"29": {
+		"name": "العنكبوت",
+		"nAyah": 69,
+		"revelationOrder": 85,
+		"type": "meccan",
+		"start": 3341,
+		"end": 3409
+	},
+	"30": {
+		"name": "الروم",
+		"nAyah": 60,
+		"revelationOrder": 84,
+		"type": "meccan",
+		"start": 3410,
+		"end": 3469
+	},
+	"31": {
+		"name": "لقمان",
+		"nAyah": 34,
+		"revelationOrder": 57,
+		"type": "meccan",
+		"start": 3470,
+		"end": 3503
+	},
+	"32": {
+		"name": "السجدة",
+		"nAyah": 30,
+		"revelationOrder": 75,
+		"type": "meccan",
+		"start": 3504,
+		"end": 3533
+	},
+	"33": {
+		"name": "الأحزاب",
+		"nAyah": 73,
+		"revelationOrder": 90,
+		"type": "medinan",
+		"start": 3534,
+		"end": 3606
+	},
+	"34": {
+		"name": "سبإ",
+		"nAyah": 54,
+		"revelationOrder": 58,
+		"type": "meccan",
+		"start": 3607,
+		"end": 3660
+	},
+	"35": {
+		"name": "فاطر",
+		"nAyah": 45,
+		"revelationOrder": 43,
+		"type": "meccan",
+		"start": 3661,
+		"end": 3705
+	},
+	"36": {
+		"name": "يس",
+		"nAyah": 83,
+		"revelationOrder": 41,
+		"type": "meccan",
+		"start": 3706,
+		"end": 3788
+	},
+	"37": {
+		"name": "الصافات",
+		"nAyah": 182,
+		"revelationOrder": 56,
+		"type": "meccan",
+		"start": 3789,
+		"end": 3970
+	},
+	"38": {
+		"name": "ص",
+		"nAyah": 88,
+		"revelationOrder": 38,
+		"type": "meccan",
+		"start": 3971,
+		"end": 4058
+	},
+	"39": {
+		"name": "الزمر",
+		"nAyah": 75,
+		"revelationOrder": 59,
+		"type": "meccan",
+		"start": 4059,
+		"end": 4133
+	},
+	"40": {
+		"name": "غافر",
+		"nAyah": 85,
+		"revelationOrder": 60,
+		"type": "meccan",
+		"start": 4134,
+		"end": 4218
+	},
+	"41": {
+		"name": "فصلت",
+		"nAyah": 54,
+		"revelationOrder": 61,
+		"type": "meccan",
+		"start": 4219,
+		"end": 4272
+	},
+	"42": {
+		"name": "الشورى",
+		"nAyah": 53,
+		"revelationOrder": 62,
+		"type": "meccan",
+		"start": 4273,
+		"end": 4325
+	},
+	"43": {
+		"name": "الزخرف",
+		"nAyah": 89,
+		"revelationOrder": 63,
+		"type": "meccan",
+		"start": 4326,
+		"end": 4414
+	},
+	"44": {
+		"name": "الدخان",
+		"nAyah": 59,
+		"revelationOrder": 64,
+		"type": "meccan",
+		"start": 4415,
+		"end": 4473
+	},
+	"45": {
+		"name": "الجاثية",
+		"nAyah": 37,
+		"revelationOrder": 65,
+		"type": "meccan",
+		"start": 4474,
+		"end": 4510
+	},
+	"46": {
+		"name": "الأحقاف",
+		"nAyah": 35,
+		"revelationOrder": 66,
+		"type": "meccan",
+		"start": 4511,
+		"end": 4545
+	},
+	"47": {
+		"name": "محمد",
+		"nAyah": 38,
+		"revelationOrder": 95,
+		"type": "medinan",
+		"start": 4546,
+		"end": 4583
+	},
+	"48": {
+		"name": "الفتح",
+		"nAyah": 29,
+		"revelationOrder": 111,
+		"type": "medinan",
+		"start": 4584,
+		"end": 4612
+	},
+	"49": {
+		"name": "الحجرات",
+		"nAyah": 18,
+		"revelationOrder": 106,
+		"type": "medinan",
+		"start": 4613,
+		"end": 4630
+	},
+	"50": {
+		"name": "ق",
+		"nAyah": 45,
+		"revelationOrder": 34,
+		"type": "meccan",
+		"start": 4631,
+		"end": 4675
+	},
+	"51": {
+		"name": "الذاريات",
+		"nAyah": 60,
+		"revelationOrder": 67,
+		"type": "meccan",
+		"start": 4676,
+		"end": 4735
+	},
+	"52": {
+		"name": "الطور",
+		"nAyah": 49,
+		"revelationOrder": 76,
+		"type": "meccan",
+		"start": 4736,
+		"end": 4784
+	},
+	"53": {
+		"name": "النجم",
+		"nAyah": 62,
+		"revelationOrder": 23,
+		"type": "meccan",
+		"start": 4785,
+		"end": 4846
+	},
+	"54": {
+		"name": "القمر",
+		"nAyah": 55,
+		"revelationOrder": 37,
+		"type": "meccan",
+		"start": 4847,
+		"end": 4901
+	},
+	"55": {
+		"name": "الرحمن",
+		"nAyah": 78,
+		"revelationOrder": 97,
+		"type": "medinan",
+		"start": 4902,
+		"end": 4979
+	},
+	"56": {
+		"name": "الواقعة",
+		"nAyah": 96,
+		"revelationOrder": 46,
+		"type": "meccan",
+		"start": 4980,
+		"end": 5075
+	},
+	"57": {
+		"name": "الحديد",
+		"nAyah": 29,
+		"revelationOrder": 94,
+		"type": "medinan",
+		"start": 5076,
+		"end": 5104
+	},
+	"58": {
+		"name": "المجادلة",
+		"nAyah": 22,
+		"revelationOrder": 105,
+		"type": "medinan",
+		"start": 5105,
+		"end": 5126
+	},
+	"59": {
+		"name": "الحشر",
+		"nAyah": 24,
+		"revelationOrder": 101,
+		"type": "medinan",
+		"start": 5127,
+		"end": 5150
+	},
+	"60": {
+		"name": "الممتحنة",
+		"nAyah": 13,
+		"revelationOrder": 91,
+		"type": "medinan",
+		"start": 5151,
+		"end": 5163
+	},
+	"61": {
+		"name": "الصف",
+		"nAyah": 14,
+		"revelationOrder": 109,
+		"type": "medinan",
+		"start": 5164,
+		"end": 5177
+	},
+	"62": {
+		"name": "الجمعة",
+		"nAyah": 11,
+		"revelationOrder": 110,
+		"type": "medinan",
+		"start": 5178,
+		"end": 5188
+	},
+	"63": {
+		"name": "المنافقون",
+		"nAyah": 11,
+		"revelationOrder": 104,
+		"type": "medinan",
+		"start": 5189,
+		"end": 5199
+	},
+	"64": {
+		"name": "التغابن",
+		"nAyah": 18,
+		"revelationOrder": 108,
+		"type": "medinan",
+		"start": 5200,
+		"end": 5217
+	},
+	"65": {
+		"name": "الطلاق",
+		"nAyah": 12,
+		"revelationOrder": 99,
+		"type": "medinan",
+		"start": 5218,
+		"end": 5229
+	},
+	"66": {
+		"name": "التحريم",
+		"nAyah": 12,
+		"revelationOrder": 107,
+		"type": "medinan",
+		"start": 5230,
+		"end": 5241
+	},
+	"67": {
+		"name": "الملك",
+		"nAyah": 30,
+		"revelationOrder": 77,
+		"type": "meccan",
+		"start": 5242,
+		"end": 5271
+	},
+	"68": {
+		"name": "القلم",
+		"nAyah": 52,
+		"revelationOrder": 2,
+		"type": "meccan",
+		"start": 5272,
+		"end": 5323
+	},
+	"69": {
+		"name": "الحاقة",
+		"nAyah": 52,
+		"revelationOrder": 78,
+		"type": "meccan",
+		"start": 5324,
+		"end": 5375
+	},
+	"70": {
+		"name": "المعارج",
+		"nAyah": 44,
+		"revelationOrder": 79,
+		"type": "meccan",
+		"start": 5376,
+		"end": 5419
+	},
+	"71": {
+		"name": "نوح",
+		"nAyah": 28,
+		"revelationOrder": 71,
+		"type": "meccan",
+		"start": 5420,
+		"end": 5447
+	},
+	"72": {
+		"name": "الجن",
+		"nAyah": 28,
+		"revelationOrder": 40,
+		"type": "meccan",
+		"start": 5448,
+		"end": 5475
+	},
+	"73": {
+		"name": "المزمل",
+		"nAyah": 20,
+		"revelationOrder": 3,
+		"type": "meccan",
+		"start": 5476,
+		"end": 5495
+	},
+	"74": {
+		"name": "المدثر",
+		"nAyah": 56,
+		"revelationOrder": 4,
+		"type": "meccan",
+		"start": 5496,
+		"end": 5551
+	},
+	"75": {
+		"name": "القيامة",
+		"nAyah": 40,
+		"revelationOrder": 31,
+		"type": "meccan",
+		"start": 5552,
+		"end": 5591
+	},
+	"76": {
+		"name": "الانسان",
+		"nAyah": 31,
+		"revelationOrder": 98,
+		"type": "medinan",
+		"start": 5592,
+		"end": 5622
+	},
+	"77": {
+		"name": "المرسلات",
+		"nAyah": 50,
+		"revelationOrder": 33,
+		"type": "meccan",
+		"start": 5623,
+		"end": 5672
+	},
+	"78": {
+		"name": "النبإ",
+		"nAyah": 40,
+		"revelationOrder": 80,
+		"type": "meccan",
+		"start": 5673,
+		"end": 5712
+	},
+	"79": {
+		"name": "النازعات",
+		"nAyah": 46,
+		"revelationOrder": 81,
+		"type": "meccan",
+		"start": 5713,
+		"end": 5758
+	},
+	"80": {
+		"name": "عبس",
+		"nAyah": 42,
+		"revelationOrder": 24,
+		"type": "meccan",
+		"start": 5759,
+		"end": 5800
+	},
+	"81": {
+		"name": "التكوير",
+		"nAyah": 29,
+		"revelationOrder": 7,
+		"type": "meccan",
+		"start": 5801,
+		"end": 5829
+	},
+	"82": {
+		"name": "الإنفطار",
+		"nAyah": 19,
+		"revelationOrder": 82,
+		"type": "meccan",
+		"start": 5830,
+		"end": 5848
+	},
+	"83": {
+		"name": "المطففين",
+		"nAyah": 36,
+		"revelationOrder": 86,
+		"type": "meccan",
+		"start": 5849,
+		"end": 5884
+	},
+	"84": {
+		"name": "الإنشقاق",
+		"nAyah": 25,
+		"revelationOrder": 83,
+		"type": "meccan",
+		"start": 5885,
+		"end": 5909
+	},
+	"85": {
+		"name": "البروج",
+		"nAyah": 22,
+		"revelationOrder": 27,
+		"type": "meccan",
+		"start": 5910,
+		"end": 5931
+	},
+	"86": {
+		"name": "الطارق",
+		"nAyah": 17,
+		"revelationOrder": 36,
+		"type": "meccan",
+		"start": 5932,
+		"end": 5948
+	},
+	"87": {
+		"name": "الأعلى",
+		"nAyah": 19,
+		"revelationOrder": 8,
+		"type": "meccan",
+		"start": 5949,
+		"end": 5967
+	},
+	"88": {
+		"name": "الغاشية",
+		"nAyah": 26,
+		"revelationOrder": 68,
+		"type": "meccan",
+		"start": 5968,
+		"end": 5993
+	},
+	"89": {
+		"name": "الفجر",
+		"nAyah": 30,
+		"revelationOrder": 10,
+		"type": "meccan",
+		"start": 5994,
+		"end": 6023
+	},
+	"90": {
+		"name": "البلد",
+		"nAyah": 20,
+		"revelationOrder": 35,
+		"type": "meccan",
+		"start": 6024,
+		"end": 6043
+	},
+	"91": {
+		"name": "الشمس",
+		"nAyah": 15,
+		"revelationOrder": 26,
+		"type": "meccan",
+		"start": 6044,
+		"end": 6058
+	},
+	"92": {
+		"name": "الليل",
+		"nAyah": 21,
+		"revelationOrder": 9,
+		"type": "meccan",
+		"start": 6059,
+		"end": 6079
+	},
+	"93": {
+		"name": "الضحى",
+		"nAyah": 11,
+		"revelationOrder": 11,
+		"type": "meccan",
+		"start": 6080,
+		"end": 6090
+	},
+	"94": {
+		"name": "الشرح",
+		"nAyah": 8,
+		"revelationOrder": 12,
+		"type": "meccan",
+		"start": 6091,
+		"end": 6098
+	},
+	"95": {
+		"name": "التين",
+		"nAyah": 8,
+		"revelationOrder": 28,
+		"type": "meccan",
+		"start": 6099,
+		"end": 6106
+	},
+	"96": {
+		"name": "العلق",
+		"nAyah": 19,
+		"revelationOrder": 1,
+		"type": "meccan",
+		"start": 6107,
+		"end": 6125
+	},
+	"97": {
+		"name": "القدر",
+		"nAyah": 5,
+		"revelationOrder": 25,
+		"type": "meccan",
+		"start": 6126,
+		"end": 6130
+	},
+	"98": {
+		"name": "البينة",
+		"nAyah": 8,
+		"revelationOrder": 100,
+		"type": "medinan",
+		"start": 6131,
+		"end": 6138
+	},
+	"99": {
+		"name": "الزلزلة",
+		"nAyah": 8,
+		"revelationOrder": 93,
+		"type": "medinan",
+		"start": 6139,
+		"end": 6146
+	},
+	"100": {
+		"name": "العاديات",
+		"nAyah": 11,
+		"revelationOrder": 14,
+		"type": "meccan",
+		"start": 6147,
+		"end": 6157
+	},
+	"101": {
+		"name": "القارعة",
+		"nAyah": 11,
+		"revelationOrder": 30,
+		"type": "meccan",
+		"start": 6158,
+		"end": 6168
+	},
+	"102": {
+		"name": "التكاثر",
+		"nAyah": 8,
+		"revelationOrder": 16,
+		"type": "meccan",
+		"start": 6169,
+		"end": 6176
+	},
+	"103": {
+		"name": "العصر",
+		"nAyah": 3,
+		"revelationOrder": 13,
+		"type": "meccan",
+		"start": 6177,
+		"end": 6179
+	},
+	"104": {
+		"name": "الهمزة",
+		"nAyah": 9,
+		"revelationOrder": 32,
+		"type": "meccan",
+		"start": 6180,
+		"end": 6188
+	},
+	"105": {
+		"name": "الفيل",
+		"nAyah": 5,
+		"revelationOrder": 19,
+		"type": "meccan",
+		"start": 6189,
+		"end": 6193
+	},
+	"106": {
+		"name": "قريش",
+		"nAyah": 4,
+		"revelationOrder": 29,
+		"type": "meccan",
+		"start": 6194,
+		"end": 6197
+	},
+	"107": {
+		"name": "الماعون",
+		"nAyah": 7,
+		"revelationOrder": 17,
+		"type": "meccan",
+		"start": 6198,
+		"end": 6204
+	},
+	"108": {
+		"name": "الكوثر",
+		"nAyah": 3,
+		"revelationOrder": 15,
+		"type": "meccan",
+		"start": 6205,
+		"end": 6207
+	},
+	"109": {
+		"name": "الكافرون",
+		"nAyah": 6,
+		"revelationOrder": 18,
+		"type": "meccan",
+		"start": 6208,
+		"end": 6213
+	},
+	"110": {
+		"name": "النصر",
+		"nAyah": 3,
+		"revelationOrder": 114,
+		"type": "medinan",
+		"start": 6214,
+		"end": 6216
+	},
+	"111": {
+		"name": "اللهب",
+		"altName": "المسد",
+		"nAyah": 5,
+		"revelationOrder": 6,
+		"type": "meccan",
+		"start": 6217,
+		"end": 6221
+	},
+	"112": {
+		"name": "الإخلاص",
+		"nAyah": 4,
+		"revelationOrder": 22,
+		"type": "meccan",
+		"start": 6222,
+		"end": 6225
+	},
+	"113": {
+		"name": "الفلق",
+		"nAyah": 5,
+		"revelationOrder": 20,
+		"type": "meccan",
+		"start": 6226,
+		"end": 6230
+	},
+	"114": {
+		"name": "الناس",
+		"nAyah": 6,
+		"revelationOrder": 21,
+		"type": "meccan",
+		"start": 6231,
+		"end": 6236
+	}
+}
