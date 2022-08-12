@@ -67,9 +67,9 @@ For the texts, we collected every text type from Tanzil:
 - Uthmani
 - Uthmani (Minimal)
 
-Every text include pause marks, sajdah signs, rub-el-hizb signs and tatweel below superscript alefs. For Uthmani, we don't include texts with sequential tanweens because some Arabic font doesn't render nicely.
+Every text include pause marks, sajdah signs, rub-el-hizb signs and tatweel below superscript alefs. For Uthmani, we don't include texts with sequential tanweens because some Arabic font doesn't render it nicely.
 
-All collected texts are the latest version, which is **version 1.1** that published in February 2021. The collected texts are located in [`ayah-text`][../ayah-text] directory.
+All collected texts are the latest version, which is **version 1.1** that published in February 2021. The collected texts are located in `ayah-text` directory.
 
 Except for format change from plain text to markdown, there are no modifications occured for the Quran texts.
 
