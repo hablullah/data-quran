@@ -17102,7 +17102,9 @@ Hâ, Mîm. 'Ain, Sîn, Qâf. Seperti gaya al-Qur'ân dalam mengawali beberapa su
 
 # 4274
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Hâ, Mîm. 'Ain, Sîn, Qâf. Seperti gaya al-Qur'ân dalam mengawali beberapa suratnya, surat ini pun diawali dengan lima huruf fonemis.
 
 # 4275
 
@@ -18346,11 +18348,15 @@ Sesungguhnya Kami telah memberikan kepadamu, hai Muhammad, kemenangan yang nyata
 
 # 4585
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Sesungguhnya Kami telah memberikan kepadamu, hai Muhammad, kemenangan yang nyata, yaitu kemenangan kebenaran melawan kebatilan, agar Allah mengampuni dosa-dosamu yang telah lalu dan yang akan datang dan menyempurnakan nikmat-Nya kepadamu dengan tersebarnya dakwahmu. Selain itu, juga agar Allah meneguhkan kamu di atas jalan yang lurus dan menolong kamu dari musuh-musuh yang menentang kerasulanmu dengan pertolongan yang kuat.
 
 # 4586
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Sesungguhnya Kami telah memberikan kepadamu, hai Muhammad, kemenangan yang nyata, yaitu kemenangan kebenaran melawan kebatilan, agar Allah mengampuni dosa-dosamu yang telah lalu dan yang akan datang dan menyempurnakan nikmat-Nya kepadamu dengan tersebarnya dakwahmu. Selain itu, juga agar Allah meneguhkan kamu di atas jalan yang lurus dan menolong kamu dari musuh-musuh yang menentang kerasulanmu dengan pertolongan yang kuat.
 
 # 4587
 
@@ -18534,7 +18540,9 @@ Qâf adalah salah satu huruf eja Arab. Surat ini diawali dengan menyebut huruf t
 
 # 4632
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Qâf adalah salah satu huruf eja Arab. Surat ini diawali dengan menyebut huruf tersebut, sebagaimana beberapa surat al-Qur'ân juga diawali dengan huruf-huruf eja, untuk tujuan menantang dan menarik perhatian. Aku bersumpah demi al-Qur'ân yang mempunyai kemuliaan dan kehormatan bahwa sesungguhnya Kami telah mengutusmu, wahai Muhammad, untuk memberi peringatan kepada manusia dengan al-Qur'ân. Tetapi penduduk Mekah tidak mau mempercayainya, bahkan mereka merasa heran bahwa akan datang seorang rasul dari kalangan mereka sendiri untuk memberi peringatan akan datangnya hari kebangkitan. Lalu orang-orang kafir berkata, "Ini adalah suatu keajaiban!
 
 # 4633
 
@@ -18714,15 +18722,21 @@ Aku bersumpah demi angin yang mendorong awan dengan sekuat-kuatnya, yang membawa
 
 # 4677
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Aku bersumpah demi angin yang mendorong awan dengan sekuat-kuatnya, yang membawa gumpalan air yang berat, yang membawa air dengan mudah karena sudah ditundukkan oleh Allah dan dengan angin yang kemudian membagikan rezeki kepada siapa saja yang dikehendaki oleh Allah.
 
 # 4678
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Aku bersumpah demi angin yang mendorong awan dengan sekuat-kuatnya, yang membawa gumpalan air yang berat, yang membawa air dengan mudah karena sudah ditundukkan oleh Allah dan dengan angin yang kemudian membagikan rezeki kepada siapa saja yang dikehendaki oleh Allah.
 
 # 4679
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Aku bersumpah demi angin yang mendorong awan dengan sekuat-kuatnya, yang membawa gumpalan air yang berat, yang membawa air dengan mudah karena sudah ditundukkan oleh Allah dan dengan angin yang kemudian membagikan rezeki kepada siapa saja yang dikehendaki oleh Allah.
 
 # 4680
 
@@ -18954,23 +18968,33 @@ Aku bersumpah demi bukit Thûr Sînâ' (Sinai), tempat Nabi Mûsâ diajak bicara
 
 # 4737
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Aku bersumpah demi bukit Thûr Sînâ' (Sinai), tempat Nabi Mûsâ diajak bicara oleh Tuhannya; demi kitab suci yang turun dari Allah dan tertulis di lembaran-lembaran yang mudah dibaca; demi al-Bayt al-Ma'mûr dengan yang berthawaf, berdiri, rukuk dan sujud di situ; demi langit yang diangkat tanpa tiang dan demi lautan yang penuh dengan air.
 
 # 4738
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Aku bersumpah demi bukit Thûr Sînâ' (Sinai), tempat Nabi Mûsâ diajak bicara oleh Tuhannya; demi kitab suci yang turun dari Allah dan tertulis di lembaran-lembaran yang mudah dibaca; demi al-Bayt al-Ma'mûr dengan yang berthawaf, berdiri, rukuk dan sujud di situ; demi langit yang diangkat tanpa tiang dan demi lautan yang penuh dengan air.
 
 # 4739
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Aku bersumpah demi bukit Thûr Sînâ' (Sinai), tempat Nabi Mûsâ diajak bicara oleh Tuhannya; demi kitab suci yang turun dari Allah dan tertulis di lembaran-lembaran yang mudah dibaca; demi al-Bayt al-Ma'mûr dengan yang berthawaf, berdiri, rukuk dan sujud di situ; demi langit yang diangkat tanpa tiang dan demi lautan yang penuh dengan air.
 
 # 4740
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Aku bersumpah demi bukit Thûr Sînâ' (Sinai), tempat Nabi Mûsâ diajak bicara oleh Tuhannya; demi kitab suci yang turun dari Allah dan tertulis di lembaran-lembaran yang mudah dibaca; demi al-Bayt al-Ma'mûr dengan yang berthawaf, berdiri, rukuk dan sujud di situ; demi langit yang diangkat tanpa tiang dan demi lautan yang penuh dengan air.
 
 # 4741
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Aku bersumpah demi bukit Thûr Sînâ' (Sinai), tempat Nabi Mûsâ diajak bicara oleh Tuhannya; demi kitab suci yang turun dari Allah dan tertulis di lembaran-lembaran yang mudah dibaca; demi al-Bayt al-Ma'mûr dengan yang berthawaf, berdiri, rukuk dan sujud di situ; demi langit yang diangkat tanpa tiang dan demi lautan yang penuh dengan air.
 
 # 4742
 
@@ -19150,7 +19174,9 @@ Demi bintang ketika turun hendak terbenam, Muhammad tidak melenceng dari kebenar
 
 # 4786
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Demi bintang ketika turun hendak terbenam, Muhammad tidak melenceng dari kebenaran dan tidak menyakini suatu kepalsuan.
 
 # 4787
 
@@ -19618,7 +19644,9 @@ Al-Rahmân, Tuhan Yang Maha Pengasih. Dia mengajarkan al-Qur'ân kepada manusia 
 
 # 4903
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Al-Rahmân, Tuhan Yang Maha Pengasih. Dia mengajarkan al-Qur'ân kepada manusia dan memudahkan jalan untuk itu.
 
 # 4904
 
@@ -19930,23 +19958,33 @@ Apabila hari kiamat terjadi, tidak seorang pun dapat mendustakan kejadiannya. Ki
 
 # 4981
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Apabila hari kiamat terjadi, tidak seorang pun dapat mendustakan kejadiannya. Kiamat itu merendahkan orang-orang yang sengsara dan meninggikan orang-orang yang bahagia. (1) Ayat ini menjelaskan betapa dahsatnya bencana yang menimpa alam ini pada hari kiamat. Di antaranya adalah bencana alam yang berdampak pada bumi dan lapisan-lapisannya. Bumi yang kita huni ini pada hakikatnya tidak tetap dan seimbang. Bumi terdiri atas lapisan-lapisan batu yang bertumpuk-tumpuk dan tidak teratur. Terkadang lapisannya tidak sama dengan sebelahnya sehingga membentuk apa yang disebut dengan rongga geologi di banyak tempat. Rongga-rongga inilah yang sejak dahulu, bahkan sampai sekarang, menjadi pusat terjadinya gempa berskala besar. Itu dimungkinkan karena rongga-rongga itu berada di bawah pengaruh daya tarik-menarik yang sangat kuat yang terjadi saat lapisan-lapisan tanah itu terbelah. Maka, apabila kekuatan ini tidak seimbang akibat pengaruh faktor-faktor eksternal lainnya, akan terjadi hentakan yang sangat kuat mengakibatkan goncangan bumi yang dapat menghancurkan permukaan bumi terdekat dari pusat gempa. Penafsiran ayat ini melalui pendekatan sains tidak jauh dari sudut pandang agama. Sebab, mungkin saja Allah menciptakan hukum alam yang demikian banyak dan beragam itu meyatu pada suatu hukum yang tidak pernah kita ketahui sebelumnya. Dengan begitu, reaksinya yang dahsyat akan merupakan penyebab langsung bagi hancurnya dunia. Dari situ, penafsiran ayat ini dengan menggunakan pendekatan ilmu pengetahuan berjalan seirama dengan ayat-ayat yang mengingatkan betapa besarnya bencana yang akan terjadi itu. Semuanya akan terjadi bila Allah berkehendak memusnahkan.
 
 # 4982
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Apabila hari kiamat terjadi, tidak seorang pun dapat mendustakan kejadiannya. Kiamat itu merendahkan orang-orang yang sengsara dan meninggikan orang-orang yang bahagia. (1) Ayat ini menjelaskan betapa dahsatnya bencana yang menimpa alam ini pada hari kiamat. Di antaranya adalah bencana alam yang berdampak pada bumi dan lapisan-lapisannya. Bumi yang kita huni ini pada hakikatnya tidak tetap dan seimbang. Bumi terdiri atas lapisan-lapisan batu yang bertumpuk-tumpuk dan tidak teratur. Terkadang lapisannya tidak sama dengan sebelahnya sehingga membentuk apa yang disebut dengan rongga geologi di banyak tempat. Rongga-rongga inilah yang sejak dahulu, bahkan sampai sekarang, menjadi pusat terjadinya gempa berskala besar. Itu dimungkinkan karena rongga-rongga itu berada di bawah pengaruh daya tarik-menarik yang sangat kuat yang terjadi saat lapisan-lapisan tanah itu terbelah. Maka, apabila kekuatan ini tidak seimbang akibat pengaruh faktor-faktor eksternal lainnya, akan terjadi hentakan yang sangat kuat mengakibatkan goncangan bumi yang dapat menghancurkan permukaan bumi terdekat dari pusat gempa. Penafsiran ayat ini melalui pendekatan sains tidak jauh dari sudut pandang agama. Sebab, mungkin saja Allah menciptakan hukum alam yang demikian banyak dan beragam itu meyatu pada suatu hukum yang tidak pernah kita ketahui sebelumnya. Dengan begitu, reaksinya yang dahsyat akan merupakan penyebab langsung bagi hancurnya dunia. Dari situ, penafsiran ayat ini dengan menggunakan pendekatan ilmu pengetahuan berjalan seirama dengan ayat-ayat yang mengingatkan betapa besarnya bencana yang akan terjadi itu. Semuanya akan terjadi bila Allah berkehendak memusnahkan.
 
 # 4983
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Apabila hari kiamat terjadi, tidak seorang pun dapat mendustakan kejadiannya. Kiamat itu merendahkan orang-orang yang sengsara dan meninggikan orang-orang yang bahagia. (1) Ayat ini menjelaskan betapa dahsatnya bencana yang menimpa alam ini pada hari kiamat. Di antaranya adalah bencana alam yang berdampak pada bumi dan lapisan-lapisannya. Bumi yang kita huni ini pada hakikatnya tidak tetap dan seimbang. Bumi terdiri atas lapisan-lapisan batu yang bertumpuk-tumpuk dan tidak teratur. Terkadang lapisannya tidak sama dengan sebelahnya sehingga membentuk apa yang disebut dengan rongga geologi di banyak tempat. Rongga-rongga inilah yang sejak dahulu, bahkan sampai sekarang, menjadi pusat terjadinya gempa berskala besar. Itu dimungkinkan karena rongga-rongga itu berada di bawah pengaruh daya tarik-menarik yang sangat kuat yang terjadi saat lapisan-lapisan tanah itu terbelah. Maka, apabila kekuatan ini tidak seimbang akibat pengaruh faktor-faktor eksternal lainnya, akan terjadi hentakan yang sangat kuat mengakibatkan goncangan bumi yang dapat menghancurkan permukaan bumi terdekat dari pusat gempa. Penafsiran ayat ini melalui pendekatan sains tidak jauh dari sudut pandang agama. Sebab, mungkin saja Allah menciptakan hukum alam yang demikian banyak dan beragam itu meyatu pada suatu hukum yang tidak pernah kita ketahui sebelumnya. Dengan begitu, reaksinya yang dahsyat akan merupakan penyebab langsung bagi hancurnya dunia. Dari situ, penafsiran ayat ini dengan menggunakan pendekatan ilmu pengetahuan berjalan seirama dengan ayat-ayat yang mengingatkan betapa besarnya bencana yang akan terjadi itu. Semuanya akan terjadi bila Allah berkehendak memusnahkan.
 
 # 4984
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Apabila hari kiamat terjadi, tidak seorang pun dapat mendustakan kejadiannya. Kiamat itu merendahkan orang-orang yang sengsara dan meninggikan orang-orang yang bahagia. (1) Ayat ini menjelaskan betapa dahsatnya bencana yang menimpa alam ini pada hari kiamat. Di antaranya adalah bencana alam yang berdampak pada bumi dan lapisan-lapisannya. Bumi yang kita huni ini pada hakikatnya tidak tetap dan seimbang. Bumi terdiri atas lapisan-lapisan batu yang bertumpuk-tumpuk dan tidak teratur. Terkadang lapisannya tidak sama dengan sebelahnya sehingga membentuk apa yang disebut dengan rongga geologi di banyak tempat. Rongga-rongga inilah yang sejak dahulu, bahkan sampai sekarang, menjadi pusat terjadinya gempa berskala besar. Itu dimungkinkan karena rongga-rongga itu berada di bawah pengaruh daya tarik-menarik yang sangat kuat yang terjadi saat lapisan-lapisan tanah itu terbelah. Maka, apabila kekuatan ini tidak seimbang akibat pengaruh faktor-faktor eksternal lainnya, akan terjadi hentakan yang sangat kuat mengakibatkan goncangan bumi yang dapat menghancurkan permukaan bumi terdekat dari pusat gempa. Penafsiran ayat ini melalui pendekatan sains tidak jauh dari sudut pandang agama. Sebab, mungkin saja Allah menciptakan hukum alam yang demikian banyak dan beragam itu meyatu pada suatu hukum yang tidak pernah kita ketahui sebelumnya. Dengan begitu, reaksinya yang dahsyat akan merupakan penyebab langsung bagi hancurnya dunia. Dari situ, penafsiran ayat ini dengan menggunakan pendekatan ilmu pengetahuan berjalan seirama dengan ayat-ayat yang mengingatkan betapa besarnya bencana yang akan terjadi itu. Semuanya akan terjadi bila Allah berkehendak memusnahkan.
 
 # 4985
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Apabila hari kiamat terjadi, tidak seorang pun dapat mendustakan kejadiannya. Kiamat itu merendahkan orang-orang yang sengsara dan meninggikan orang-orang yang bahagia. (1) Ayat ini menjelaskan betapa dahsatnya bencana yang menimpa alam ini pada hari kiamat. Di antaranya adalah bencana alam yang berdampak pada bumi dan lapisan-lapisannya. Bumi yang kita huni ini pada hakikatnya tidak tetap dan seimbang. Bumi terdiri atas lapisan-lapisan batu yang bertumpuk-tumpuk dan tidak teratur. Terkadang lapisannya tidak sama dengan sebelahnya sehingga membentuk apa yang disebut dengan rongga geologi di banyak tempat. Rongga-rongga inilah yang sejak dahulu, bahkan sampai sekarang, menjadi pusat terjadinya gempa berskala besar. Itu dimungkinkan karena rongga-rongga itu berada di bawah pengaruh daya tarik-menarik yang sangat kuat yang terjadi saat lapisan-lapisan tanah itu terbelah. Maka, apabila kekuatan ini tidak seimbang akibat pengaruh faktor-faktor eksternal lainnya, akan terjadi hentakan yang sangat kuat mengakibatkan goncangan bumi yang dapat menghancurkan permukaan bumi terdekat dari pusat gempa. Penafsiran ayat ini melalui pendekatan sains tidak jauh dari sudut pandang agama. Sebab, mungkin saja Allah menciptakan hukum alam yang demikian banyak dan beragam itu meyatu pada suatu hukum yang tidak pernah kita ketahui sebelumnya. Dengan begitu, reaksinya yang dahsyat akan merupakan penyebab langsung bagi hancurnya dunia. Dari situ, penafsiran ayat ini dengan menggunakan pendekatan ilmu pengetahuan berjalan seirama dengan ayat-ayat yang mengingatkan betapa besarnya bencana yang akan terjadi itu. Semuanya akan terjadi bila Allah berkehendak memusnahkan.
 
 # 4986
 
@@ -21306,7 +21344,9 @@ Hari kiamat yang akan terjadi itu benar. Apakah hari kiamat yang benar-benar aka
 
 # 5325
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Hari kiamat yang akan terjadi itu benar. Apakah hari kiamat yang benar-benar akan terjadi itu?
 
 # 5326
 
@@ -21514,11 +21554,15 @@ Seseorang telah meminta--dengan nada mengejek--agar disegerakan azab yang pasti 
 
 # 5377
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Seseorang telah meminta--dengan nada mengejek--agar disegerakan azab yang pasti akan diberikan Allah kepada orang-orang kafir. Tidak ada yang dapat menghalangi azab tersebut dari mereka, karena azab itu datang dari Allah, Pemilik seluruh langit yang merupakan sumber terlaksananya kekuatan dan keputusan.
 
 # 5378
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Seseorang telah meminta--dengan nada mengejek--agar disegerakan azab yang pasti akan diberikan Allah kepada orang-orang kafir. Tidak ada yang dapat menghalangi azab tersebut dari mereka, karena azab itu datang dari Allah, Pemilik seluruh langit yang merupakan sumber terlaksananya kekuatan dan keputusan.
 
 # 5379
 
@@ -21802,7 +21846,9 @@ Katakanlah kepada kaummu, hai Muhammad, "Allah telah mewahyukan kepadaku bahwa s
 
 # 5449
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Katakanlah kepada kaummu, hai Muhammad, "Allah telah mewahyukan kepadaku bahwa sekelompok jin telah memperhatikan bacaanku lalu berkata kepada kaumnya, 'Sesungguhnya kami telah mendengar al-Qur'ân yang sangat indah dan belum pernah kami dengar sebelumnya bacaan seindah itu. ' Al-Qur'ân itu mengajak kepada petunjuk dan kebenaran. Dan kami pun mempercayai al-Qur'ân yang telah kami dengar dan sekali-kali kami tidak akan menyekutukan Tuhan kami yang telah menciptakan dan memelihara kami dalam peribadatan.
 
 # 5450
 
@@ -21914,15 +21960,21 @@ Wahai orang yang melipat diri dengan selimut, bangunlah pada malam hari untuk me
 
 # 5477
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Wahai orang yang melipat diri dengan selimut, bangunlah pada malam hari untuk melakukan salat. Kurangilah waktu tidurmu. Isilah--dengan salat--seperdua malam atau kurang sedikit hingga mencapai sepertiganya. Atau tambahkanlah waktunya hingga mencapai duapertiga dari waktu malam itu. Bacalah al-Qur'ân secara perlahan-lahan sehingga jelas huruf dan saat berhentinya. Bacalah dengan bacaan yang baik dan benar.
 
 # 5478
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Wahai orang yang melipat diri dengan selimut, bangunlah pada malam hari untuk melakukan salat. Kurangilah waktu tidurmu. Isilah--dengan salat--seperdua malam atau kurang sedikit hingga mencapai sepertiganya. Atau tambahkanlah waktunya hingga mencapai duapertiga dari waktu malam itu. Bacalah al-Qur'ân secara perlahan-lahan sehingga jelas huruf dan saat berhentinya. Bacalah dengan bacaan yang baik dan benar.
 
 # 5479
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Wahai orang yang melipat diri dengan selimut, bangunlah pada malam hari untuk melakukan salat. Kurangilah waktu tidurmu. Isilah--dengan salat--seperdua malam atau kurang sedikit hingga mencapai sepertiganya. Atau tambahkanlah waktunya hingga mencapai duapertiga dari waktu malam itu. Bacalah al-Qur'ân secara perlahan-lahan sehingga jelas huruf dan saat berhentinya. Bacalah dengan bacaan yang baik dan benar.
 
 # 5480
 
@@ -21994,15 +22046,21 @@ Wahai orang yang melipat diri dengan selimut, bangunlah dari tidurmu. Peringatka
 
 # 5497
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Wahai orang yang melipat diri dengan selimut, bangunlah dari tidurmu. Peringatkanlah umat manusia tentang azab Allah yang akan ditimpakan bagi mereka yang tidak beriman. Agungkanlah Tuhanmu dan sucikanlah pakaianmu dari kotoran dengan menggunakan air.
 
 # 5498
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Wahai orang yang melipat diri dengan selimut, bangunlah dari tidurmu. Peringatkanlah umat manusia tentang azab Allah yang akan ditimpakan bagi mereka yang tidak beriman. Agungkanlah Tuhanmu dan sucikanlah pakaianmu dari kotoran dengan menggunakan air.
 
 # 5499
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Wahai orang yang melipat diri dengan selimut, bangunlah dari tidurmu. Peringatkanlah umat manusia tentang azab Allah yang akan ditimpakan bagi mereka yang tidak beriman. Agungkanlah Tuhanmu dan sucikanlah pakaianmu dari kotoran dengan menggunakan air.
 
 # 5500
 
@@ -22218,11 +22276,15 @@ Aku bersumpah dan Kutegaskan sumpah-Ku ini demi kebenaran hari kiamat. Aku bersu
 
 # 5553
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Aku bersumpah dan Kutegaskan sumpah-Ku ini demi kebenaran hari kiamat. Aku bersumpah dan Kutegaskan sumpah-Ku ini demi jiwa yang mencela pemiliknya akibat melakukan dosa dan kesalahan, bahwa kalian akan dibangkitkan setelah tulang belulang kalian dikumpulkan. Apakah manusia mengira--setelah ia Kami ciptakan dari ketiadaan--bahwa Kami tidak dapat mengumpulkan kembali tulang belulangnya yang hancur berserakan?
 
 # 5554
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Aku bersumpah dan Kutegaskan sumpah-Ku ini demi kebenaran hari kiamat. Aku bersumpah dan Kutegaskan sumpah-Ku ini demi jiwa yang mencela pemiliknya akibat melakukan dosa dan kesalahan, bahwa kalian akan dibangkitkan setelah tulang belulang kalian dikumpulkan. Apakah manusia mengira--setelah ia Kami ciptakan dari ketiadaan--bahwa Kami tidak dapat mengumpulkan kembali tulang belulangnya yang hancur berserakan?
 
 # 5555
 
@@ -22502,27 +22564,39 @@ Aku bersumpah demi ayat-ayat yang dikirim melalui Jibril kepada Muhammad untuk m
 
 # 5624
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Aku bersumpah demi ayat-ayat yang dikirim melalui Jibril kepada Muhammad untuk membawa kebaikan; demi ayat-ayat yang membuat semua agama yang batil hancur berantakan; demi ayat-ayat yang menaburkan hikmah dan petunjuk ke dalam hati alam semesta secara luas; demi pembeda antara yang hak dan yang batil secara jelas; serta demi para penyampai pelajaran kepada manusia sebagai peringatan--agar manusia tidak dapat beralasan lagi--yang membawa kebaikan. Sesungguhnya apa yang dijanjikan kepada kalian mengenai kedatangan hari kiamat adalah benar dan pasti terjadi.
 
 # 5625
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Aku bersumpah demi ayat-ayat yang dikirim melalui Jibril kepada Muhammad untuk membawa kebaikan; demi ayat-ayat yang membuat semua agama yang batil hancur berantakan; demi ayat-ayat yang menaburkan hikmah dan petunjuk ke dalam hati alam semesta secara luas; demi pembeda antara yang hak dan yang batil secara jelas; serta demi para penyampai pelajaran kepada manusia sebagai peringatan--agar manusia tidak dapat beralasan lagi--yang membawa kebaikan. Sesungguhnya apa yang dijanjikan kepada kalian mengenai kedatangan hari kiamat adalah benar dan pasti terjadi.
 
 # 5626
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Aku bersumpah demi ayat-ayat yang dikirim melalui Jibril kepada Muhammad untuk membawa kebaikan; demi ayat-ayat yang membuat semua agama yang batil hancur berantakan; demi ayat-ayat yang menaburkan hikmah dan petunjuk ke dalam hati alam semesta secara luas; demi pembeda antara yang hak dan yang batil secara jelas; serta demi para penyampai pelajaran kepada manusia sebagai peringatan--agar manusia tidak dapat beralasan lagi--yang membawa kebaikan. Sesungguhnya apa yang dijanjikan kepada kalian mengenai kedatangan hari kiamat adalah benar dan pasti terjadi.
 
 # 5627
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Aku bersumpah demi ayat-ayat yang dikirim melalui Jibril kepada Muhammad untuk membawa kebaikan; demi ayat-ayat yang membuat semua agama yang batil hancur berantakan; demi ayat-ayat yang menaburkan hikmah dan petunjuk ke dalam hati alam semesta secara luas; demi pembeda antara yang hak dan yang batil secara jelas; serta demi para penyampai pelajaran kepada manusia sebagai peringatan--agar manusia tidak dapat beralasan lagi--yang membawa kebaikan. Sesungguhnya apa yang dijanjikan kepada kalian mengenai kedatangan hari kiamat adalah benar dan pasti terjadi.
 
 # 5628
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Aku bersumpah demi ayat-ayat yang dikirim melalui Jibril kepada Muhammad untuk membawa kebaikan; demi ayat-ayat yang membuat semua agama yang batil hancur berantakan; demi ayat-ayat yang menaburkan hikmah dan petunjuk ke dalam hati alam semesta secara luas; demi pembeda antara yang hak dan yang batil secara jelas; serta demi para penyampai pelajaran kepada manusia sebagai peringatan--agar manusia tidak dapat beralasan lagi--yang membawa kebaikan. Sesungguhnya apa yang dijanjikan kepada kalian mengenai kedatangan hari kiamat adalah benar dan pasti terjadi.
 
 # 5629
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Aku bersumpah demi ayat-ayat yang dikirim melalui Jibril kepada Muhammad untuk membawa kebaikan; demi ayat-ayat yang membuat semua agama yang batil hancur berantakan; demi ayat-ayat yang menaburkan hikmah dan petunjuk ke dalam hati alam semesta secara luas; demi pembeda antara yang hak dan yang batil secara jelas; serta demi para penyampai pelajaran kepada manusia sebagai peringatan--agar manusia tidak dapat beralasan lagi--yang membawa kebaikan. Sesungguhnya apa yang dijanjikan kepada kalian mengenai kedatangan hari kiamat adalah benar dan pasti terjadi.
 
 # 5630
 
@@ -23406,11 +23480,15 @@ Kehancuranlah bagi orang-orang yang berbuat curang. Yaitu orang-orang yang kalau
 
 # 5850
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Kehancuranlah bagi orang-orang yang berbuat curang. Yaitu orang-orang yang kalau menerima timbangan dari orang lain selalu meminta ukuran yang pas atau cenderung minta dilebihkan. Akan tetapi, jika menimbang untuk orang lain, mereka berbuat curang sehingga dapat merugikan hak orang lain yang semestinya dipenuhi.
 
 # 5851
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Kehancuranlah bagi orang-orang yang berbuat curang. Yaitu orang-orang yang kalau menerima timbangan dari orang lain selalu meminta ukuran yang pas atau cenderung minta dilebihkan. Akan tetapi, jika menimbang untuk orang lain, mereka berbuat curang sehingga dapat merugikan hak orang lain yang semestinya dipenuhi.
 
 # 5852
 
@@ -24686,7 +24764,9 @@ Kalian telah disibukkan oleh anak-anak dan pendukung-pendukung kalian, oleh sika
 
 # 6170
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Kalian telah disibukkan oleh anak-anak dan pendukung-pendukung kalian, oleh sikap sombong kalian terhadap harta dengan menghitung-hitungnya dan juga oleh keturunan kalian, sehingga tidak menjalankan kewajiban dan ketaatan sampai ajal kalian datang menjemput.
 
 # 6171
 
@@ -24786,7 +24866,9 @@ Merasa herankah orang-orang suku Quraisy itu dengan kemudahan yang Aku berikan k
 
 # 6195
 
-TODO:MISSING
+TODO:DUPLICATE
+
+Merasa herankah orang-orang suku Quraisy itu dengan kemudahan yang Aku berikan kepada mereka dalam melakukan perjalanan musim dingin ke Yaman dan musim panas ke Syam, penuh rasa tenang dan aman, untuk berdagang dan mencari rezeki?
 
 # 6196
 
