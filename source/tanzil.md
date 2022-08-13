@@ -218,7 +218,7 @@ All translations from Tanzil are prefixed with `*-tanzil.md`. For more detail, h
 There are several modifications done to those translation files:
 
 - Put `TODO:MISSING` to files where there are missing translation entries.
-- Put `TODO:DUPLICATE` to files where there are missing duplicate entries.
+- Put `TODO:DUPLICATE` to files where there are duplicate entries.
 - Remove HTML formatting from `en.transliteration`.
 - Separate surah info from tafsir `id.muntakhab` and `ru.muntahab`.
 
