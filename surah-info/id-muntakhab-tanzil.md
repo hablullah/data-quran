@@ -68,7 +68,7 @@ Permulaan surat ini sama dengan permulaan surat terdahulu.
 
 # 4
 
-TODO:MISSING
+<!-- TODO:MISSING -->
 
 # 5
 
@@ -171,7 +171,7 @@ Terakhir, terdapat keterangan bahwa kalaupun orang-orang musyrik mengingkari pes
 
 # 14
 
-TODO:MISSING
+<!-- TODO:MISSING -->
 
 # 15
 

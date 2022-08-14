@@ -23194,7 +23194,7 @@ Source: Tanzil.net
 
 # 5797
 
-TODO:MISSING
+<!-- TODO:MISSING -->
 
 # 5798
 
@@ -24951,4 +24951,3 @@ TODO:MISSING
 # 6236
 
 چه از جنّیان و چه از آدمیان.
-

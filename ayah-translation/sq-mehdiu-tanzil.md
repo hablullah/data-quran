@@ -10162,7 +10162,7 @@ Ata iu përgjigjën: “Edhe të parët tanë, i kemi mbërri, u faleshin këtyr
 
 # 2539
 
-TODO:MISSING
+<!-- TODO:MISSING -->
 
 # 2540
 
@@ -22550,7 +22550,7 @@ Për Ditën e Kijametit?
 
 # 5636
 
-TODO:MISSING
+<!-- TODO:MISSING -->
 
 # 5637
 
@@ -24951,4 +24951,3 @@ I cili fut huti në zemrat e njerëzve,
 # 6236
 
 Nga exhinët dhe njerëzit.
-
