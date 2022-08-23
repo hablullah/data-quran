@@ -63,21 +63,27 @@ func parse(cacheDir string) ([]FlattenedData, error) {
 		logrus.Printf("parsing %s", f)
 
 		fPath := filepath.Join(cacheDir, f)
-		data, err := parseFile(fPath)
+		data, hasFootnote, err := parseFile(fPath)
 		if err != nil {
 			return nil, fmt.Errorf("parse %q failed: %w", f, err)
 		}
+
+		if hasFootnote {
+			logrus.Warnf("%s has footnote", f)
+			fmt.Println(createFileName(data.Meta.ID))
+		}
+
 		dataList = append(dataList, *data)
 	}
 
 	return dataList, nil
 }
 
-func parseFile(path string) (*FlattenedData, error) {
+func parseFile(path string) (*FlattenedData, bool, error) {
 	// Open file
 	f, err := os.Open(path)
 	if err != nil {
-		return nil, fmt.Errorf("open file failed: %w", err)
+		return nil, false, fmt.Errorf("open file failed: %w", err)
 	}
 	defer f.Close()
 
@@ -85,11 +91,12 @@ func parseFile(path string) (*FlattenedData, error) {
 	var data TranslationData
 	err = xml.NewDecoder(f).Decode(&data)
 	if err != nil {
-		return nil, fmt.Errorf("xml decode failed: %w", err)
+		return nil, false, fmt.Errorf("xml decode failed: %w", err)
 	}
 
 	// Flatten the data
 	var ayahID int
+	var hasFootnote bool
 
 	flatData := FlattenedData{Meta: data.Meta}
 	for _, surah := range data.SurahList {
@@ -109,6 +116,9 @@ func parseFile(path string) (*FlattenedData, error) {
 				}
 			}
 
+			// Check if it has footnote
+			hasFootnote = hasFootnote || footnotes != ""
+
 			// Save text
 			ayahID++
 			flatData.AyahList = append(flatData.AyahList, Ayah{
@@ -122,8 +132,8 @@ func parseFile(path string) (*FlattenedData, error) {
 
 	// Make sure there are 6236 ayah
 	if nAyah := len(flatData.AyahList); nAyah != 6236 {
-		return nil, fmt.Errorf("n ayah %d != 6236", nAyah)
+		return nil, false, fmt.Errorf("n ayah %d != 6236", nAyah)
 	}
 
-	return &flatData, nil
+	return &flatData, hasFootnote, nil
 }

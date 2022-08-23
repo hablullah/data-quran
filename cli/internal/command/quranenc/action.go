@@ -7,6 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
+	"github.com/sirupsen/logrus"
 	"github.com/urfave/cli/v2"
 )
 
@@ -39,6 +40,14 @@ func cliAction(c *cli.Context) error {
 	dataList, err := parse(cacheDir)
 	if err != nil {
 		return err
+	}
+
+	// Clean data
+	for i, data := range dataList {
+		if fnCleaner, exist := cleanerList[data.Meta.ID]; exist {
+			logrus.Printf("cleaning %s", data.Meta.ID)
+			dataList[i] = fnCleaner(data)
+		}
 	}
 
 	// Write to file
