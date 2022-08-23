@@ -4,7 +4,6 @@ import (
 	"data-quran-cli/internal/norm"
 	"encoding/xml"
 	"fmt"
-	"io/ioutil"
 	"os"
 	"path/filepath"
 
@@ -45,7 +44,7 @@ type FlattenedData struct {
 
 func parse(cacheDir string) ([]FlattenedData, error) {
 	// Get list of file in cache dir
-	dirItems, err := ioutil.ReadDir(cacheDir)
+	dirItems, err := os.ReadDir(cacheDir)
 	if err != nil {
 		return nil, fmt.Errorf("read dir failed: %w", err)
 	}
