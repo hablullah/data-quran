@@ -4,8 +4,8 @@ Language    : Chinese
 ID          : chinese_makin
 Source      : https://quranenc.com
 URL         : https://quranenc.com/en/browse/chinese_makin
-UpdatedAt   : 2022-08-17 10:58:49 (v1.0.1-xml.1)
-CheckUpdates: https://quranenc.com/check/chinese_makin/v1.0.1-xml.1
+UpdatedAt   : 2022-09-07 00:55:18 (v1.0.2-xml.1)
+CheckUpdates: https://quranenc.com/check/chinese_makin/v1.0.2-xml.1
 -->
 
 # 1
@@ -22792,7 +22792,7 @@ CheckUpdates: https://quranenc.com/check/chinese_makin/v1.0.1-xml.1
 
 # 5696
 
-他们在其中不能睡眠,不得饮料,
+他们在其中不得凉爽,不得饮料,
 
 # 5697
 
