@@ -170,7 +170,7 @@ Aadamiinis maqoota [waan] hundaa isa barsiiseErgasii malaa’ikoota irra isaan f
 
 # 41
 
-Yeroo Nuti malaa’ikootaan "Aadamiif sujuuda[] godhaa" jennes [yaadadhu]Ibliisa malee Isaan sujuuda godhan; [Inni] ni dide; ni boonesKaafiroota irraayis ta’e.
+Yeroo Nuti malaa’ikootaan "Aadamiif sujuuda godhaa" jennes [yaadadhu]Ibliisa malee Isaan sujuuda godhan; [Inni] ni dide; ni boonesKaafiroota irraayis ta’e.
 
 # 42
 
@@ -182,7 +182,7 @@ Shayxaannis ishee (jannata) irraa isaan mucucaachiseWaan isaan isa keessa turan 
 
 # 44
 
-Aadamis Gooftaa isaa irraa jechoota[] fudhatee sana booda [Rabbiin] dhiifama isaaf godheDhugumatti, Inni (Rabbiin) Isatu akkaan tawbaa qeebalaa, akkaan rahmata godhaadha.
+Aadamis Gooftaa isaa irraa jechoota fudhatee sana booda [Rabbiin] dhiifama isaaf godheDhugumatti, Inni (Rabbiin) Isatu akkaan tawbaa qeebalaa, akkaan rahmata godhaadha.
 
 # 45
 
@@ -194,7 +194,7 @@ Warri kafaranii keeyyattoota keenyas kijibsiisan, isaan sun warra ibiddaatiIsaan
 
 # 47
 
-Yaa Ilmaan Israa’iil! Ni’imaa kiyya kan Ani ittiin isin qanansiise yaadadhaaWaadaa kiyyas[] guutaa; Anis waadaa keessan nan guutaAna qofa sodaadhaas!
+Yaa Ilmaan Israa’iil! Ni’imaa kiyya kan Ani ittiin isin qanansiise yaadadhaaWaadaa kiyyas guutaa; Anis waadaa keessan nan guutaAna qofa sodaadhaas!
 
 # 48
 
@@ -262,11 +262,11 @@ Ergasii akka isin galateeffattaniif jecha booda du’a keessaniitii isin kaafne.
 
 # 64
 
-Duumessa isin irratti gaaddiseessineManniifi Salwiis[] isin irratti buufne"Wantoota gaggaarii Nuti isiniif kennine irraa nyaadhaa" (isiniin jenne)Isaanis homaa nu hin miine; garuu lubbuu isaanii kan miidhan turan
+Duumessa isin irratti gaaddiseessineManniifi Salwiis isin irratti buufne"Wantoota gaggaarii Nuti isiniif kennine irraa nyaadhaa" (isiniin jenne)Isaanis homaa nu hin miine; garuu lubbuu isaanii kan miidhan turan
 
 # 65
 
-Yeroo Nuti "magaalattii[] kana seenaa; ishee irraas iddoo feetanii [nyaata] bal’aa nyaadhaaBalbalichas sujuudaa seenaa"[Kadhaan keenyas badiin] nurraa harca'uudha" jedhaa, badii keessan isiniif araaramnaWarra toltuu hojjataniif [mindaa] dabaluuf jirra" jennes [yaadadhaa].
+Yeroo Nuti "magaalattii kana seenaa; ishee irraas iddoo feetanii [nyaata] bal’aa nyaadhaaBalbalichas sujuudaa seenaa"[Kadhaan keenyas badiin] nurraa harca'uudha" jedhaa, badii keessan isiniif araaramnaWarra toltuu hojjataniif [mindaa] dabaluuf jirra" jennes [yaadadhaa].
 
 # 66
 
@@ -282,11 +282,11 @@ Yeroo "Yaa Muusaa! nuti nyaata tokko irratti hin obsinuu, akka waan dachiin biqi
 
 # 69
 
-Dhugumatti warri amanan, isaan yahuudoman, kiristaanonniifi saabi’oonni,[] [isaan irraa] namni Rabbiifi Guyyaa Aakhiraatti amanee toltuus hojjate, isaaniif mindaan Gooftaa isaanii biratti qophaa’ee jiraSodaanis isaan irra hin jiru; Isaanis hin gaddanu.
+Dhugumatti warri amanan, isaan yahuudoman, kiristaanonniifi saabi’oonni, [isaan irraa] namni Rabbiifi Guyyaa Aakhiraatti amanee toltuus hojjate, isaaniif mindaan Gooftaa isaanii biratti qophaa’ee jiraSodaanis isaan irra hin jiru; Isaanis hin gaddanu.
 
 # 70
 
-[Yaa ilmaan Israa’iil!] Yeroo Nuti waadaa keessan qabanneefi [gaara] Xuuris isin gubbaatti ol kaafnee "waan Nuti isiniif kennine cimsaa qabadhaaAkka Rabbiin sodaattaniif waan isa keessa jirus yaadadhaa’ isiniin jenne [yaadadhaa]."[]
+[Yaa ilmaan Israa’iil!] Yeroo Nuti waadaa keessan qabanneefi [gaara] Xuuris isin gubbaatti ol kaafnee "waan Nuti isiniif kennine cimsaa qabadhaaAkka Rabbiin sodaattaniif waan isa keessa jirus yaadadhaa’ isiniin jenne [yaadadhaa]."
 
 # 71
 
@@ -294,7 +294,7 @@ Ergasii sana booda gara galtanOdoo tolli Rabbiitiifi rahmanni Isaa isin irra jir
 
 # 72
 
-Dhugumatti isin warra isin irraa [dhimma] Sanbataa keessatti[] daangaa dabranii, "isin jaldeeyyii salphattoota ta’aa" isaaniin jenne beektanii jirtu.
+Dhugumatti isin warra isin irraa [dhimma] Sanbataa keessatti daangaa dabranii, "isin jaldeeyyii salphattoota ta’aa" isaaniin jenne beektanii jirtu.
 
 # 73
 
@@ -578,7 +578,7 @@ Dhugumatti isheen sun ummata dabarteIsheedhaaf mindaa waan oomishteetu jira; Isi
 
 # 143
 
-(Mu’uminoonni) jedhaa: “Nuti Rabbitti amannee jirra; waan gara keenyatti buufamettis; waan gara Ibraahiim, Ismaa’iil, Isihaaq, Ya’aquubii[]fi Asbaaxitti buufametti (amannee jirra)Waan Muusaafi Iisaan kennamanittisWaan nabiyyootaaf Gooftaa isaanii irraa kennamettis (amannee jirra)Isaan irraa gidduu nama tokkoos addaan hin baafnuNutis warra Isaaf butameedha.”
+(Mu’uminoonni) jedhaa: “Nuti Rabbitti amannee jirra; waan gara keenyatti buufamettis; waan gara Ibraahiim, Ismaa’iil, Isihaaq, Ya’aquubiifi Asbaaxitti buufametti (amannee jirra)Waan Muusaafi Iisaan kennamanittisWaan nabiyyootaaf Gooftaa isaanii irraa kennamettis (amannee jirra)Isaan irraa gidduu nama tokkoos addaan hin baafnuNutis warra Isaaf butameedha.”
 
 # 144
 
@@ -952,7 +952,7 @@ Dubartoonni hiikaman xurii laguu sadi ofii isaaniitiif eeguu qabuYoo Rabbiifi Gu
 
 # 236
 
-Hiikkaan (eega isaatii deebifatamu) yeroo lama.[] Sana booda haala gaariin qabachuu yookiin bifa gaariin gadi lakkisuudhaIsin (dhiironni) waan isaaniif kennitan (mahrii) irraa isaan lamaanuu daangawwan Rabbii sirreessuu dhabuu yoo sodaatan malee homaa fudhachuun isiniif hin hayyamamuYoo isaan lamaan daangawwan Rabbii hin sirreessanu jechuu sodaattan, waan isheen ittiin of baafte fudhachuu keessatti isaan lamaan irra badiin hin jiruKun daangawwan Rabbiitii isaan hin dabrinaa; namni daangaa Rabbii dabre, isaan sun isaanumatu miidhaa hojjatoodha.
+Hiikkaan (eega isaatii deebifatamu) yeroo lama. Sana booda haala gaariin qabachuu yookiin bifa gaariin gadi lakkisuudhaIsin (dhiironni) waan isaaniif kennitan (mahrii) irraa isaan lamaanuu daangawwan Rabbii sirreessuu dhabuu yoo sodaatan malee homaa fudhachuun isiniif hin hayyamamuYoo isaan lamaan daangawwan Rabbii hin sirreessanu jechuu sodaattan, waan isheen ittiin of baafte fudhachuu keessatti isaan lamaan irra badiin hin jiruKun daangawwan Rabbiitii isaan hin dabrinaa; namni daangaa Rabbii dabre, isaan sun isaanumatu miidhaa hojjatoodha.
 
 # 237
 
@@ -1112,7 +1112,7 @@ Shayxaanni hiyyummaan isin sodaachisa, wantoota fokkataattis isin ajajaRabbiin g
 
 # 276
 
-Inni hikmaa[] nama fedheef kennaNamni hikmaa kenname, dhugumatti toltuun baay’een isaaf kennameeraWarra sammuu qaban malee eenyullee hin gorfamu.
+Inni hikmaa nama fedheef kennaNamni hikmaa kenname, dhugumatti toltuun baay’een isaaf kennameeraWarra sammuu qaban malee eenyullee hin gorfamu.
 
 # 277
 
@@ -1176,7 +1176,7 @@ Wantoonni samiifi dachii keessa jiran kan RabbiitiWaan lubbuu keessan keessa jir
 
 # 292
 
-Ergamaan (kiyya) waan Gooftaa isaa irraa gara isaatti buufametti amaneera; mu’uminoonnisHundumtuu Rabbitti, malaa’ikota Isaa, kitaabota Isaafi ergamtoota Isaatti amananiiru.[] "Nuti ergamtoota Isaa irraa tokkos adda hin baafnu" (jedhan)"Nuti dhageenye; ajajamnesGooftaa keenya! Araarama kee (barbaanna)Deebiinis garuma keeti" jedhan.
+Ergamaan (kiyya) waan Gooftaa isaa irraa gara isaatti buufametti amaneera; mu’uminoonnisHundumtuu Rabbitti, malaa’ikota Isaa, kitaabota Isaafi ergamtoota Isaatti amananiiru. "Nuti ergamtoota Isaa irraa tokkos adda hin baafnu" (jedhan)"Nuti dhageenye; ajajamnesGooftaa keenya! Araarama kee (barbaanna)Deebiinis garuma keeti" jedhan.
 
 # 293
 
@@ -1344,7 +1344,7 @@ Malaa’ikoonnis isaa mihraaba keessa sagadaaf dhaabbataa jiruu “Dhugumatti Ra
 
 # 334
 
-[Innis] “yaa Gooftaa kiyya! mallattoo naaf taasisi” jedhe(Rabbiinis) “Guyyoota sadii mallattoon malee namootatti dubbachuu dhabuu keeti.[] Gooftaa keetis baay’inaan faarsiGalgalaafi ganamas Isa qulqulleessi” jedheen.
+[Innis] “yaa Gooftaa kiyya! mallattoo naaf taasisi” jedhe(Rabbiinis) “Guyyoota sadii mallattoon malee namootatti dubbachuu dhabuu keeti. Gooftaa keetis baay’inaan faarsiGalgalaafi ganamas Isa qulqulleessi” jedheen.
 
 # 335
 
@@ -1388,7 +1388,7 @@ Dhugumatti Rabbiin Gooftaa kiyyaafi Gooftaa keessan; kanaafuu Isa gabbaraaKun ka
 
 # 345
 
-Iisaan yeroma kufrii isaan irraa hubatu “namni [waamicha ani] gara Rabbiitti godhu keessatti na tumsu eenyu?” jedheHawaariyyoonnis “nutu tumsitoota Rabbiiti.[] Rabbitti amanneerraAkka nuti Muslimoota taanes ragaa nuuf ba’i” jedhan.
+Iisaan yeroma kufrii isaan irraa hubatu “namni [waamicha ani] gara Rabbiitti godhu keessatti na tumsu eenyu?” jedheHawaariyyoonnis “nutu tumsitoota Rabbiiti. Rabbitti amanneerraAkka nuti Muslimoota taanes ragaa nuuf ba’i” jedhan.
 
 # 346
 
@@ -1400,7 +1400,7 @@ Isaanis tooftaa baasani; Rabbiinis tooftaa baaseRabbiin immoo irra caalaa warra 
 
 # 348
 
-Yeroo Rabbiin jedhes [yaadadhu]:[] “Yaa Iisaa! Ani si raffisaadhaGara kiyyattis ol si fuudhaadhaIsaan kafaran irraas si qulqulleessaadhaIsaan si hordofanis hanga Guyyaa Qiyaamatti warra kafaran irratti ol taasisaadhaErgasii deebiin keessan gara kiyya; waan isin isa keessatti wal dhabaa turtan keessattis gidduu keessanitti nan murteessa.
+Yeroo Rabbiin jedhes [yaadadhu]: “Yaa Iisaa! Ani si raffisaadhaGara kiyyattis ol si fuudhaadhaIsaan kafaran irraas si qulqulleessaadhaIsaan si hordofanis hanga Guyyaa Qiyaamatti warra kafaran irratti ol taasisaadhaErgasii deebiin keessan gara kiyya; waan isin isa keessatti wal dhabaa turtan keessattis gidduu keessanitti nan murteessa.
 
 # 349
 
@@ -1728,7 +1728,7 @@ Isaan sun mindaan isaanii araarama Gooftaa isaanii biraa ta’eefi jannata lagge
 
 # 430
 
-Dhugumatti, isiniin dura karaaleen[] darbiteettiDachii keessa deemaatii booddeen (xumurri) kijibsiiftotaa akkam akka ta’e ilaalaa.
+Dhugumatti, isiniin dura karaaleen darbiteettiDachii keessa deemaatii booddeen (xumurri) kijibsiiftotaa akkam akka ta’e ilaalaa.
 
 # 431
 
@@ -1796,7 +1796,7 @@ Odoo ergamaan duuba keessanii isin waamuu namtokkollee kan hin millanne taatanii
 
 # 447
 
-Ergasii cinqaa booda tasgabbii, hirriba garee isin irraa ta’e haguugu, isin irratti buuseGaree biraa immoo dhugumatti lubbuun isaanii isaan yaachifteettiWaan dhugaa hin ta’in, yaada jaahiliyyaa, Rabbi irratti yaadu“Sila nuti dhimmicha[] irraa qooda wahii qabnaa?” jedhu(Yaa Muhammad!) jedhi: “Dhugumatti dhimmichi hundi isaatuu kan Rabbiiti." Waan siif hin mul’ifne lubbuu isaanii keessatti dhoksu“Odoo dhimmicha irraa waan tokko qabaannee silaa asitti hin ajjeefamnu turre” jedhuJedhi “odoma manneen keessan keessa taataniiyyuu, warri duuti isaan irratti barreeffame gara iddoo itti du’anii ni bahu turan." Rabbiin waan qoma keessan keessa jiru qormaatuufi waan (badii) onnee keessan keessa jiran mul'isuuf (kana godhe)Rabbiinis waan qoma keessaa beekaadha.
+Ergasii cinqaa booda tasgabbii, hirriba garee isin irraa ta’e haguugu, isin irratti buuseGaree biraa immoo dhugumatti lubbuun isaanii isaan yaachifteettiWaan dhugaa hin ta’in, yaada jaahiliyyaa, Rabbi irratti yaadu“Sila nuti dhimmicha irraa qooda wahii qabnaa?” jedhu(Yaa Muhammad!) jedhi: “Dhugumatti dhimmichi hundi isaatuu kan Rabbiiti." Waan siif hin mul’ifne lubbuu isaanii keessatti dhoksu“Odoo dhimmicha irraa waan tokko qabaannee silaa asitti hin ajjeefamnu turre” jedhuJedhi “odoma manneen keessan keessa taataniiyyuu, warri duuti isaan irratti barreeffame gara iddoo itti du’anii ni bahu turan." Rabbiin waan qoma keessan keessa jiru qormaatuufi waan (badii) onnee keessan keessa jiran mul'isuuf (kana godhe)Rabbiinis waan qoma keessaa beekaadha.
 
 # 448
 
@@ -2884,7 +2884,7 @@ Ammas "gidduu isaaniitti waan Rabbiin buuseen murteessiFedhii lubbuu isaaniis hi
 
 # 719
 
-Sila murtii 'jaahiliyyaa'[] barbaaduu? Ummata hubannoo amantii qabaniif wanti Rabbi irra murtiin isaa miidhagaa hin jiru.
+Sila murtii 'jaahiliyyaa' barbaaduu? Ummata hubannoo amantii qabaniif wanti Rabbi irra murtiin isaa miidhagaa hin jiru.
 
 # 720
 
@@ -2960,7 +2960,7 @@ Jedhi: "Yaa warra kitaabaa! Isin hanga Tawraatiin, Injiiliifi waan Gooftaa keess
 
 # 738
 
-Isaannan amanan, isaan yahuudoman, saabi’oonnii[]fi kiristaanonnis, namni Rabbiifi guyyaa Aakhiraatti amanee, wantoota gaggaariis dalage, isaan irra sodaan hin jiru; isaan hin gaddanis.
+Isaannan amanan, isaan yahuudoman, saabi’oonniifi kiristaanonnis, namni Rabbiifi guyyaa Aakhiraatti amanee, wantoota gaggaariis dalage, isaan irra sodaan hin jiru; isaan hin gaddanis.
 
 # 739
 
@@ -3096,7 +3096,7 @@ Ummanni isiniin duraa dhugumatti ishee gaafatanii, ergasii sababaa isheetiin kaf
 
 # 772
 
-Rabbiin "Bahiiraah", "Saa’ibaa", "Wasiilaa"fi "Haam"[] karaa hin gooneGaruu warri kafaran Rabbirratti soba uumuIrra hedduun isaaniis hin xiixalanu.
+Rabbiin "Bahiiraah", "Saa’ibaa", "Wasiilaa"fi "Haam" karaa hin gooneGaruu warri kafaran Rabbirratti soba uumuIrra hedduun isaaniis hin xiixalanu.
 
 # 773
 
@@ -3640,9 +3640,9 @@ Yoo keeyyattoota Isaatti kan amantan taataniif, waan maqaan Rabbii irratti dubba
 
 # 908
 
-Sila maaltu isiniif jiraayyi waan maqaan Rabbii irratti dubbatame nyaachuu dhiiftan? Wanti gara isaatti rakkifamtan odoo hafuu dhugumatti, Inni wantoota isin irratti dhorgamaa godhe isiniif addeesseeraDhugumatti, (namoonni) baay’een beekumsaan malee fedha lubbuu isaaniitiin jallatuDhugumatti, Gooftaan kee Isaatu irra beekaa warra daangaa d
+Sila maaltu isiniif jiraayyi waan maqaan Rabbii irratti dubbatame nyaachuu dhiiftan? Wanti gara isaatti rakkifamtan odoo hafuu dhugumatti, Inni wantoota isin irratti dhorgamaa godhe isiniif addeesseeraDhugumatti, (namoonni) baay’een beekumsaan malee fedha lubbuu isaaniitiin jallatuDhugumatti, Gooftaan kee Isaatu irra beekaa warra daangaa d[^1]
 
-abraniiti.
+[^1]: abraniiti.
 
 # 909
 
@@ -4962,7 +4962,7 @@ Ji’oota afuriif dachii keessa deemaaIsin Rabbiin dadhabsiisoo akka hin ta’in
 
 # 1238
 
-(Kuni) labsii Rabbiifi ergamaa Isaa irraa guyyaa hajji guddaa,[] “Rabbiin qindeessitoota irraa qulqulluudha; Ergamaan Isaas (akkasuma)Yoo tawbattaniif, inni isiniif caalaadhaYoo garagaltan immoo isin Rabbiin dadhabsiisoo akka hin ta’in beekaa” jechuudhaan gara namaatti (qaqqabduu dha)Warra kafaranis adabbii laalessaadhaan gammachiisi.
+(Kuni) labsii Rabbiifi ergamaa Isaa irraa guyyaa hajji guddaa, “Rabbiin qindeessitoota irraa qulqulluudha; Ergamaan Isaas (akkasuma)Yoo tawbattaniif, inni isiniif caalaadhaYoo garagaltan immoo isin Rabbiin dadhabsiisoo akka hin ta’in beekaa” jechuudhaan gara namaatti (qaqqabduu dha)Warra kafaranis adabbii laalessaadhaan gammachiisi.
 
 # 1239
 
@@ -4970,9 +4970,9 @@ Garuu qindeessitoota irraa Warri waadaa walii seentanii sana booda homaa isin hi
 
 # 1240
 
-Yeroo ji’oonni kabajamoon[] dabran, mushrikoota bakka argitanitti ajjeesaa; isaan booji’aas; isaan marsaas; karaa hunda irras isaaniif taa’aaYoo tawbatanii, salaata gadi dhaabanii, zakaas kennan karaa isaaniif gadi dhiisaaDhugumatti Rabbiin araaramaa, rahmata godhaadha.
+Yeroo ji’oonni kabajamoon[^1] dabran, mushrikoota bakka argitanitti ajjeesaa; isaan booji’aas; isaan marsaas; karaa hunda irras isaaniif taa’aaYoo tawbatanii, salaata gadi dhaabanii, zakaas kennan karaa isaaniif gadi dhiisaaDhugumatti Rabbiin araaramaa, rahmata godhaadha.
 
-[1] Ji’oonni kabajamoon ji’oota afran guyyaa labsii irraa kaasee jiru, kan mushrikootaaf isaan keessa nagaan socho’uun eeyyamamee dha.
+[^1]: Ji’oonni kabajamoon ji’oota afran guyyaa labsii irraa kaasee jiru, kan mushrikootaaf isaan keessa nagaan socho’uun eeyyamamee dha.
 
 # 1241
 
@@ -5116,9 +5116,9 @@ Yoo isin isaaf tumsuu baattaniis, dhugumatti yeroo warri kafaran lammaffaa nama 
 
 # 1276
 
-Salphoo taatanii yookiin ulfaatoo[] taataniis duulaaf bahaa; Qabeenyaafi lubbuu keessaniinis karaa Rabbii keessatti lolaaYoo kan beektan taatan kanatu isiniif caalaadha.
+Salphoo taatanii yookiin ulfaatoo[^1] taataniis duulaaf bahaa; Qabeenyaafi lubbuu keessaniinis karaa Rabbii keessatti lolaaYoo kan beektan taatan kanatu isiniif caalaadha.
 
-[1]Salphoofi ulfaatoo jechuun: Haala hunda keessattuu dargaggeessas taatanii jaarsa, qabaataas taatanii dhabaa, dadhabaas taatanii danda’aa, dhukkubsataas taatanii fayyaa jechuudha. Kuni yeroo jalqabaatiif ture; booda garuu keeyyata “warra hin dandeenye irra badiin hin jiru” jedhuun shaarameera.
+[^1]: Salphoofi ulfaatoo jechuun: Haala hunda keessattuu dargaggeessas taatanii jaarsa, qabaataas taatanii dhabaa, dadhabaas taatanii danda’aa, dhukkubsataas taatanii fayyaa jechuudha. Kuni yeroo jalqabaatiif ture; booda garuu keeyyata “warra hin dandeenye irra badiin hin jiru” jedhuun shaarameera.
 
 # 1277
 
@@ -5138,9 +5138,9 @@ Isaan Rabbiifi Guyyaa Aakhiraatti amanan qabeenyaafi lubbuu isaaniitiin qabsaa�
 
 # 1281
 
-Odoo (lolaaf) bahuu fedhanii silaa qophii isaaf qophaa’u turanGaruu Rabbiin bahuu isaanii jibbee duubatti isaan hanbise; “warra taa’uu[] wajjiin taa’aa” jedhame.
+Odoo (lolaaf) bahuu fedhanii silaa qophii isaaf qophaa’u turanGaruu Rabbiin bahuu isaanii jibbee duubatti isaan hanbise; “warra taa’uu[^1] wajjiin taa’aa” jedhame.
 
-[1] Warra taa’u jechuun ijoollee, dubartootaafi dhukkubsataa wajjiin jechuu dha.
+[^1]: Warra taa’u jechuun ijoollee, dubartootaafi dhukkubsataa wajjiin jechuu dha.
 
 # 1282
 
@@ -5360,9 +5360,9 @@ Muhaajirootaafi Ansaarota irraas dursitoonni jalqabdoota ta’aniifi warri toltu
 
 # 1336
 
-Tikfattoota baadiyyaa irraa gariin warra naannoo keessan jiruu munaafiqootaWarra Madiinaa irraas (namoota) munaafiqummaa irratti ragga’an, kan ati isaan hin beeknetu jiruNuti isaan ni beeknaFuula dura yeroo lama[] isaan adabnaErgasii isaan gara adabbii guddaa deebifamu.
+Tikfattoota baadiyyaa irraa gariin warra naannoo keessan jiruu munaafiqootaWarra Madiinaa irraas (namoota) munaafiqummaa irratti ragga’an, kan ati isaan hin beeknetu jiruNuti isaan ni beeknaFuula dura yeroo lama[^1] isaan adabnaErgasii isaan gara adabbii guddaa deebifamu.
 
-[1]Adabbiin lama: tokkoffaan komii addunyaati. Inni lammaffaa immoo adabbii qabriiti.
+[^1]: Adabbiin lama: tokkoffaan komii addunyaati. Inni lammaffaa immoo adabbii qabriiti.
 
 # 1337
 
@@ -5514,7 +5514,7 @@ Dhugumatti, isaan amananii, gaggaarii hojjatan Gooftaan isaanii iimaana isaaniti
 
 # 1374
 
-Kadhaan isaanii ishee keessatti (yeroo waan tokko fedhan)[] “yaa Allaah! Qulqulliini keeti” jechuudhaKabajaan isaaniis ishee keessatti “nagayaa” jechuudhaKadhaan isaanii kan boodaas[] “faaruun hundi kan Rabbii gooftaa aalamaati” jechuudha.
+Kadhaan isaanii ishee keessatti (yeroo waan tokko fedhan) “yaa Allaah! Qulqulliini keeti” jechuudhaKabajaan isaaniis ishee keessatti “nagayaa” jechuudhaKadhaan isaanii kan boodaas “faaruun hundi kan Rabbii gooftaa aalamaati” jechuudha.
 
 # 1375
 
@@ -8362,9 +8362,9 @@ Gooftaan keenama samiifi dachii keessa jiru akkaan beekaadhaNuti dhugumatti nabi
 
 # 2086
 
-Warri isaan yaammatan sun eenyuu isaaniitu gara Rabbiitti irra dhihaataadhaan dhiheenya barbaadu.[] Rahmata isaas ni kajeeluadabbii isaas ni sodaatuDhugumatti, adabbiin Rabbii keetii sodaatamaa ta’ee jira.
+Warri isaan yaammatan sun eenyuu isaaniitu gara Rabbiitti irra dhihaataadhaan dhiheenya barbaadu.[^1] Rahmata isaas ni kajeeluadabbii isaas ni sodaatuDhugumatti, adabbiin Rabbii keetii sodaatamaa ta’ee jira.
 
-[1]Yaanni aayatichaa ‘warri gara Rabbiitti irra dhiheenya qabanuyyuu dhiheenya barbaaduu! Warri biraa immoo sanaa ol Rabbirra barbaaduu qabu!’ jechuudha.
+[^1]: Yaanni aayatichaa ‘warri gara Rabbiitti irra dhiheenya qabanuyyuu dhiheenya barbaaduu! Warri biraa immoo sanaa ol Rabbirra barbaaduu qabu!’ jechuudha.
 
 # 2087
 
@@ -8600,9 +8600,9 @@ Isaan “Rabbiin ilma qaba” jedhanis sodaachisuuf (isa buuse).
 
 # 2145
 
-Isaaniifi abbootii isaaniitiifis isa irratti beekumsi[] hin jiruJechi afaan isaanii irraa baatu waa guddatte! Soba malee homaa hin haasa’anu.
+Isaaniifi abbootii isaaniitiifis isa irratti beekumsi[^1] hin jiruJechi afaan isaanii irraa baatu waa guddatte! Soba malee homaa hin haasa’anu.
 
-[1] Wanti aayanni kun itti fedhe yeroo Rabbiin ilmoo qaba jedhanu beekumsas ta’ee ragaa homaatuu hin qabanu; yaaduma isaaniitiin dubbatan jechuudha.
+[^1]: Wanti aayanni kun itti fedhe yeroo Rabbiin ilmoo qaba jedhanu beekumsas ta’ee ragaa homaatuu hin qabanu; yaaduma isaaniitiin dubbatan jechuudha.
 
 # 2146
 
@@ -9454,9 +9454,9 @@ Sila oduun Muusaa sitti dhufeeraa?
 
 # 2358
 
-Yeroo Ibidda argu maatii isaatin “as taa’aa ani ibiddaan argee, waan irraa qabsiifatanin isinii fida yookiin ibidda biraa nama (karaa irratti) na qajeelchu argachuun kajeelaa” jedhe
+Yeroo Ibidda argu maatii isaatin “as taa’aa ani ibiddaan argee, waan irraa qabsiifatanin isinii fida yookiin ibidda biraa nama (karaa irratti) na qajeelchu argachuun kajeelaa” jedhe[^1]
 
-as taa'aa
+[^1]: as taa'aa
 
 # 2359
 
@@ -11532,7 +11532,7 @@ Warri qunnamtii keenya hin sodaanne “sila maaliif Maleykonni nutti hin buufamn
 
 # 2877
 
-Guyyaa isaan Maleykota argan, guyyaa san jallattootaaf gammachuun hin jiru[Maleykonnis] “(gammachuun kamillee isin irratti) dhorgamiinsa dhorgamaadha[]” jedhu.
+Guyyaa isaan Maleykota argan, guyyaa san jallattootaaf gammachuun hin jiru[Maleykonnis] “(gammachuun kamillee isin irratti) dhorgamiinsa dhorgamaadha” jedhu.
 
 # 2878
 
@@ -11544,7 +11544,7 @@ Warri Jannataa guyyaa san iddoo jireenyaa keessatti akkaan caalaa; iddoo boqonna
 
 # 2880
 
-Guyyaa samiin duumessaan dhodhootuufi Maleykonni[] bu’iinsa buufamanis [yaadadhaa]!
+Guyyaa samiin duumessaan dhodhootuufi Maleykonni bu’iinsa buufamanis [yaadadhaa]!
 
 # 2881
 
@@ -11596,7 +11596,7 @@ Ummata Nuuhis yeroma isaan ergamoota sobsiisan isaan dhidhimsinee namootaafis ma
 
 # 2893
 
-[Ummata] Aad, Samuud, warra Eelaa[]fi jaarrota baay’ee jidduu sana jiranis (balleesinee jira)
+[Ummata] Aad, Samuud, warra Eelaafi jaarrota baay’ee jidduu sana jiranis (balleesinee jira)
 
 # 2894
 
@@ -11624,7 +11624,7 @@ Sila ati irra baay’een isaanii ni dhaga’u yookiin (waan itti himame) ni huba
 
 # 2900
 
-Sila gara Gooftaa keetii akkamitti Gaaddisa akka diriirse hin ilaallee?[] Odoo fedhees turaa isa taasisa tureErgasii Aduu (jiraachuu) isaa (gaaddisaa) irratti ragaa taasifne
+Sila gara Gooftaa keetii akkamitti Gaaddisa akka diriirse hin ilaallee? Odoo fedhees turaa isa taasisa tureErgasii Aduu (jiraachuu) isaa (gaaddisaa) irratti ragaa taasifne
 
 # 2901
 
@@ -11688,7 +11688,7 @@ Yeroo Rahmaaniif sujuuda godhaa jedhaman “Rahmaan immoo maali? Waanuma isin nu
 
 # 2916
 
-Inni Samii keessatti buruuja[] taasisee ishee keessattis (biiftuu) ifaafi ji’a ibsaa taasise khayriin Isaa baay’ate.
+Inni Samii keessatti buruuja taasisee ishee keessattis (biiftuu) ifaafi ji’a ibsaa taasise khayriin Isaa baay’ate.
 
 # 2917
 
@@ -13144,7 +13144,7 @@ Tokkoon Isaan lamaaniis “Yaa abbaa kiyya! Isa nuuf ramadiDhugumatti, irra caal
 
 # 3280
 
-[Muusaanis] ni jedhe: “kun [walii galtee] gidduu kiyyaafi keetiitiBeellama lamaan irraa kamiyyuu yoon guute, daangaa dabruun narra hin jiru.[] Rabbii waan nuti jennu irratti ragaadha.”
+[Muusaanis] ni jedhe: “kun [walii galtee] gidduu kiyyaafi keetiitiBeellama lamaan irraa kamiyyuu yoon guute, daangaa dabruun narra hin jiru. Rabbii waan nuti jennu irratti ragaadha.”
 
 # 3281
 
@@ -13160,7 +13160,7 @@ Yeroma ishee bira ga’u moggaa lagaa gara mirgaa irraa, dachii barakeeffamtuu k
 
 # 3284
 
-“Harka kee bobaa kee keessa seensisiFokkina tokko malee adii taatee baatiSodaa irraa [bilisa ta’uuf] harka kee gara cinaacha keetiitti maxxansi.[] Isheen kun lamaan mallattoo lama kan Rabbii kee irraa gara Fir’awniifi qondaaltota isaatti ergamaniidhaDhugumatti, isaan namoota finciltoota turan.”
+“Harka kee bobaa kee keessa seensisiFokkina tokko malee adii taatee baatiSodaa irraa [bilisa ta’uuf] harka kee gara cinaacha keetiitti maxxansi. Isheen kun lamaan mallattoo lama kan Rabbii kee irraa gara Fir’awniifi qondaaltota isaatti ergamaniidhaDhugumatti, isaan namoota finciltoota turan.”
 
 # 3285
 
@@ -13264,7 +13264,7 @@ Dhugumatti, ati nama jaallatte hin qajeelchituGaruu Allaahtu nama fedhe qajeelch
 
 # 3310
 
-[Warra] gandaa irraas kan jireenya ishee keessatti boontee ishee balleessine hedduudhaIsheen sun gandoota isaanii kan isaaniin booda xiqqoo malee keessa hin jiraataminiidha.[] Nutis dhaaltota taaneerra.
+[Warra] gandaa irraas kan jireenya ishee keessatti boontee ishee balleessine hedduudhaIsheen sun gandoota isaanii kan isaaniin booda xiqqoo malee keessa hin jiraataminiidha. Nutis dhaaltota taaneerra.
 
 # 3311
 
@@ -13372,7 +13372,7 @@ Namni gaarii dalage waan san irra caalutu isaaf jiraNamni hamtuun dhufes, [fakki
 
 # 3337
 
-Dhugumatti, Inni Qur’aana si irratti buuse, gara iddoo deebiitti (Makkaatti) si deebisa.[] “Rabbiin kiyya nama qajeelumaan dhufeefi nama jallina ifa bahaa ta’e keessa jiru akkaan beekaadha” jedhi.
+Dhugumatti, Inni Qur’aana si irratti buuse, gara iddoo deebiitti (Makkaatti) si deebisa. “Rabbiin kiyya nama qajeelumaan dhufeefi nama jallina ifa bahaa ta’e keessa jiru akkaan beekaadha” jedhi.
 
 # 3338
 
@@ -15676,7 +15676,7 @@ Yeroo ummata isaatiin jedhu [yaadadhu]:“Rabbiin hin sadaattanuu?
 
 # 3913
 
-Sila ‘Ba’al’[] gabbartanii (Gooftaa) warra waa uumu hunda irra caalaa ta’e dhiiftuu?
+Sila ‘Ba’al’ gabbartanii (Gooftaa) warra waa uumu hunda irra caalaa ta’e dhiiftuu?
 
 # 3914
 
@@ -21458,15 +21458,15 @@ Hiyyeeyyii nyaachisuu irrattis (namoota) hin kakaasu ture.
 
 # 5358
 
-Har’a asitti firri isaaf hin jiru.
+Har’a asitti firri isaaf hin jiru.[^1]
 
-firrii (jaalallee)
+[^1]: firrii (jaalallee)
 
 # 5359
 
-Nyaannis malaa (warra ibiddaa) irraa malee hin jiru.
+Nyaannis malaa (warra ibiddaa) irraa malee hin jiru.[^1]
 
-malaa (---)
+[^1]: malaa (---)
 
 # 5360
 
@@ -23902,7 +23902,7 @@ Barreeffamoota Ibraahiimifi Muusaa [keessa jira]
 
 # 5968
 
-Sila oduun haguugduu[] (Qiyaamaa) sitti dhufeeraa?
+Sila oduun haguugduu (Qiyaamaa) sitti dhufeeraa?
 
 # 5969
 
@@ -24006,7 +24006,7 @@ Ergasii qormaanni isaanii Nurra jira
 
 # 5994
 
-Bariinin[] (kakadha).
+Bariinin (kakadha).
 
 # 5995
 
@@ -24110,7 +24110,7 @@ Hidhaa Isaas eenyunuu hin hidhu.
 
 # 6020
 
-“Yaa lubbuu tasgabbooftuu![]
+“Yaa lubbuu tasgabbooftuu!
 
 # 6021
 
@@ -24138,11 +24138,11 @@ Abbaafi waan inni dhaleenis (nan kakadha).
 
 # 6027
 
-Dhugumatti, Nuti nama cinqii[] keessatti uumne.
+Dhugumatti, Nuti nama cinqii keessatti uumne.
 
 # 6028
 
-Sila inni tokkolleen[] isa irratti hin danda'uu yaadaa?
+Sila inni tokkolleen isa irratti hin danda'uu yaadaa?
 
 # 6029
 
@@ -24166,7 +24166,7 @@ Karaa lama (gaariifi badaa) isaaf ibsine.
 
 # 6034
 
-Sila maaliif tulluu hin dabrine?[]
+Sila maaliif tulluu hin dabrine?
 
 # 6035
 
@@ -24202,7 +24202,7 @@ Isaan keeyyattoota keenyatti kafaran immoo isaan warra bitaati.
 
 # 6043
 
-Isaan irratti ibiddi cufamtuudha.[]
+Isaan irratti ibiddi cufamtuudha.
 
 # 6044
 
@@ -24442,7 +24442,7 @@ Dhugumatti, Nuti nama dhaabbii irra gaarii ta'e keessatti isa uumne.
 
 # 6103
 
-Ergasii bakka warra jalaa hundarra gadi aanaa ta'etti isa deebifne.[]
+Ergasii bakka warra jalaa hundarra gadi aanaa ta'etti isa deebifne.
 
 # 6104
 
@@ -24554,7 +24554,7 @@ Isheen hanga baha fajriitti nagaadha
 
 # 6131
 
-Warri abbootii kitaabaafi mushrikoota irraa kafaran odoo ragaan isaanitti hin dhufin kan dhiifamanu[] hin taane.
+Warri abbootii kitaabaafi mushrikoota irraa kafaran odoo ragaan isaanitti hin dhufin kan dhiifamanu hin taane.
 
 # 6132
 
@@ -24562,7 +24562,7 @@ Warri abbootii kitaabaafi mushrikoota irraa kafaran odoo ragaan isaanitti hin dh
 
 # 6133
 
-Ishee keessa barreeffamoota sirriitu jira.[]
+Ishee keessa barreeffamoota sirriitu jira.
 
 # 6134
 
@@ -24694,7 +24694,7 @@ Namni madaalli (hojii) isaa salphatte immoo,
 
 # 6166
 
-Haati isaa “Haawiyaa[]”dha.
+Haati isaa “Haawiyaa”dha.
 
 # 6167
 

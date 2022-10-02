@@ -110,9 +110,9 @@ Gluhi, nijemi i slijepi su oni, pa ne mogu da se povrate!
 
 # 26
 
-Ili su oni slični onima koji za vrijeme silnog pljuska s neba, uz tmine, grmljavinu i munje, zbog gromova stavljaju prste u uši bojeći se smrti. A Allah obuhvata nevjernike.
+Ili su oni slični onima koji za vrijeme silnog pljuska s neba, uz tmine, grmljavinu i munje, zbog gromova stavljaju prste u uši bojeći se smrti. A Allah obuhvata nevjernike.[^*]
 
-Allah obuhvata nevjernike Svojom moći i oni su pod Njegovom voljom.
+[^*]: Allah obuhvata nevjernike Svojom moći i oni su pod Njegovom voljom.
 
 # 27
 
@@ -120,15 +120,15 @@ Munja samo što ih ne zaslijepi: kad god im osvijetli – oni krenu, a čim ih t
 
 # 28
 
-O ljudi, ibadet činite Gospodaru svome, Koji je stvorio vas i one prije vas, da biste bogobojazni bili.
+O ljudi, ibadet činite Gospodaru svome, Koji je stvorio vas i one prije vas, da biste bogobojazni bili.[^*]
 
-Tj. da biste se grijeha sačuvali.
+[^*]: Tj. da biste se grijeha sačuvali.
 
 # 29
 
-Koji vam je Zemlju posteljom, a nebo zdanjem učinio; Koji s neba spušta vodu i s njom izvodi plodove, opskrbu vašu. Zato ne pripisujte Allahu ortake, a vi znate.
+Koji vam je Zemlju posteljom, a nebo zdanjem učinio; Koji s neba spušta vodu i s njom izvodi plodove, opskrbu vašu. Zato ne pripisujte Allahu ortake, a vi znate.[^*]
 
-Tj. znate i svjesni ste da je On pravi Stvoritelj.
+[^*]: Tj. znate i svjesni ste da je On pravi Stvoritelj.
 
 # 30
 
@@ -212,9 +212,9 @@ I ne miješajte Istinu s neistinom, a i ne tajite Istinu, a vi je znate!
 
 # 50
 
-Namaz obavljajte, zekat dajite i idite na ruku‘ zajedno s onima koji na ruku‘ idu!
+Namaz obavljajte, zekat dajite i idite na ruku‘ zajedno s onima koji na ruku‘ idu![^*]
 
-Ovdje se spominje ruku', tj. pregibanje kao sastavni dio namaza, ali se misli na cijeli namaz.
+[^*]: Ovdje se spominje ruku', tj. pregibanje kao sastavni dio namaza, ali se misli na cijeli namaz.
 
 # 51
 
@@ -234,9 +234,9 @@ O sinovi Israilovi! Sjetite se blagodati Mojih koje sam vam podario i što sam v
 
 # 55
 
-I bojte se Dana kada niko ni za koga ništa neće moći učiniti, kada se ničiji zagovor neće prihvaćati, kada se ni od koga otkup neće primati i kada nikome niko neće u pomoć priteći.
+I bojte se Dana kada niko ni za koga ništa neće moći učiniti, kada se ničiji zagovor neće prihvaćati, kada se ni od koga otkup neće primati i kada nikome niko neće u pomoć priteći.[^*]
 
-Ovim ajetom određene skupine dokazuju nepostojanje zauzimanja za velike griješnike, međutim, to nije tačno, jer postoje drugi dokazi koji to zauzimanje potvrđuju.
+[^*]: Ovim ajetom određene skupine dokazuju nepostojanje zauzimanja za velike griješnike, međutim, to nije tačno, jer postoje drugi dokazi koji to zauzimanje potvrđuju.
 
 # 56
 
@@ -292,9 +292,9 @@ I kada ste rekli: “Musa, mi ne možemo više jednu te istu hranu jesti. Zato, 
 
 # 69
 
-One koji vjeruju, te one koji su bili židovi, kršćani i sabijci, a koji su vjerovali u Allaha i Posljednji dan i dobra djela činili – doista čeka nagrada od Gospodara njihova; za njih nema straha i oni neće tugovati.
+One koji vjeruju, te one koji su bili židovi, kršćani i sabijci, a koji su vjerovali u Allaha i Posljednji dan i dobra djela činili – doista čeka nagrada od Gospodara njihova; za njih nema straha i oni neće tugovati.[^*]
 
-Ovdje se misli na narode prije pojave poslanika Muhammeda, sallallahu alejhi ve sellem, koji su ispravno vjerovali u ono što su im njihovi vjerovjesnici donijeli, odnosno na sve one koji su vjerovali i koji će povjerovati u poslanstvo Muhammeda, sallallahu alejhi ve sellem.
+[^*]: Ovdje se misli na narode prije pojave poslanika Muhammeda, sallallahu alejhi ve sellem, koji su ispravno vjerovali u ono što su im njihovi vjerovjesnici donijeli, odnosno na sve one koji su vjerovali i koji će povjerovati u poslanstvo Muhammeda, sallallahu alejhi ve sellem.
 
 # 70
 
@@ -462,9 +462,9 @@ A da su oni vjerovali i čuvali se, pa, sigurno, nagrada od Allaha bolja je – 
 
 # 111
 
-O vi koji vjerujete, ne govorite: “Ra'ina - Čuvaj nas!”, nego recite: “Unzurna - Pazi nas!” i slušajte. A nevjernicima bolna patnja pripada.
+O vi koji vjerujete, ne govorite: “Ra'ina - Čuvaj nas!”, nego recite: “Unzurna - Pazi nas!” i slušajte. A nevjernicima bolna patnja pripada.[^*]
 
-Uzvišeni Allah upućuje vjernike da biraju lijepe izraze koje će upotrebljavati, pa im kaže: "O vi koji vjerujete, ne govorite: 'Ra'ina'", a to znači: vodi računa o nama, jer židovi iskrivljuju značenje te dvosmislene riječi i njome ciljaju ružno značenje, a to je "raina" u značenju: lahkomisleno, glupo. Uzvišeni Allah je zabranio ashabima da koriste ovu riječ kako bi zatvorio ova vrata, i naredio je Svojim robovima da umjesto nje kažu: "Unzurna - Pogledaj nas", tj. sačekaj da razumijemo šta nam govoriš. To je riječ koja izvršava cilj prvobitne riječi koju su koristili, ali bez problematične dvosmislenosti. A nevjernicima u Allaha pripada bolna kazna.
+[^*]: Uzvišeni Allah upućuje vjernike da biraju lijepe izraze koje će upotrebljavati, pa im kaže: "O vi koji vjerujete, ne govorite: 'Ra'ina'", a to znači: vodi računa o nama, jer židovi iskrivljuju značenje te dvosmislene riječi i njome ciljaju ružno značenje, a to je "raina" u značenju: lahkomisleno, glupo. Uzvišeni Allah je zabranio ashabima da koriste ovu riječ kako bi zatvorio ova vrata, i naredio je Svojim robovima da umjesto nje kažu: "Unzurna - Pogledaj nas", tj. sačekaj da razumijemo šta nam govoriš. To je riječ koja izvršava cilj prvobitne riječi koju su koristili, ali bez problematične dvosmislenosti. A nevjernicima u Allaha pripada bolna kazna.
 
 # 112
 
@@ -508,9 +508,9 @@ Ima li većeg nepravednika od onoga koji brani da se u Allahovim mesdžidima ime
 
 # 122
 
-A Allahov je i istok i zapad; kuda god se okrenete, pa - tamo je Allahova kibla i strana. Allah je, doista, neizmjerno darežljiv i Sveznajući.
+A Allahov je i istok i zapad; kuda god se okrenete, pa - tamo je Allahova kibla i strana. Allah je, doista, neizmjerno darežljiv i Sveznajući.[^*]
 
-Allahu pripada vlast nad istokom i zapadom i nad onim između istoka i zapada, pa u kojem god pravcu da se okrenete, vi se ka Njemu okrećete. Ako vam naredi da se okrenete prema Kudsu ili prema Kabi, ili pogriješite u određivanju pravca kible, ili vam je teško da se okrenete ka kibli, nećete biti koreni zbog toga, jer svi pravci pripadaju Allahu. Allah je neizmjerno darežljiv, sva Svoja stvorenja obuhvata milošću i svima olakšava. On zna njihove namjere i ono što čine. Riječ vedžh koja se spominje ovdje, odnosi se, dakle na Allahovu kiblu i stranu, ali ne isključuje i značenje koje se odnosi na Allahovo lice koje je onako kako Njemu dolikuje.
+[^*]: Allahu pripada vlast nad istokom i zapadom i nad onim između istoka i zapada, pa u kojem god pravcu da se okrenete, vi se ka Njemu okrećete. Ako vam naredi da se okrenete prema Kudsu ili prema Kabi, ili pogriješite u određivanju pravca kible, ili vam je teško da se okrenete ka kibli, nećete biti koreni zbog toga, jer svi pravci pripadaju Allahu. Allah je neizmjerno darežljiv, sva Svoja stvorenja obuhvata milošću i svima olakšava. On zna njihove namjere i ono što čine. Riječ vedžh koja se spominje ovdje, odnosi se, dakle na Allahovu kiblu i stranu, ali ne isključuje i značenje koje se odnosi na Allahovo lice koje je onako kako Njemu dolikuje.
 
 # 123
 
@@ -622,9 +622,9 @@ Reći će neki ljudi kratke pameti: "Šta ih je odvratilo od kible njihove, prem
 
 # 150
 
-Tako smo vas učinili najboljom – zajednicom sredine, kako biste svjedočili o drugim ljudima i kako bi Poslanik o vama svjedočio. I Mi smo promijenili kiblu prema kojoj si se okretao samo da bismo znali one koji slijede Poslanika naspram onih koji ne vjeruju, jer to je, doista, teško bilo svima, izuzev onima koje je Allah uputio na Pravi put. Allah neće dozvoliti da propadne vjerovanje vaše – a doista je Allah prema ljudima milosrdan i milostiv.
+Tako smo vas učinili najboljom – zajednicom sredine, kako biste svjedočili o drugim ljudima i kako bi Poslanik o vama svjedočio. I Mi smo promijenili kiblu prema kojoj si se okretao samo da bismo znali one koji slijede Poslanika naspram onih koji ne vjeruju, jer to je, doista, teško bilo svima, izuzev onima koje je Allah uputio na Pravi put. Allah neće dozvoliti da propadne vjerovanje vaše – a doista je Allah prema ljudima milosrdan i milostiv.[^*]
 
-Allahove riječi: "...da bismo znali one koji slijede Poslanika naspram onih koji ne vjeruju...", odnose se na ispoljavanje Allahovog znanja među ljudima, tj. da bismo ukazali na one koji su zadovoljni Allahovim zakonom i koji su mu pokorni, pa slijede Poslanika, i na one koji će otpasti od vjere i slijediti prohtjeve, pa se ne pokoravaju Allahovom zakonu.
+[^*]: Allahove riječi: "...da bismo znali one koji slijede Poslanika naspram onih koji ne vjeruju...", odnose se na ispoljavanje Allahovog znanja među ljudima, tj. da bismo ukazali na one koji su zadovoljni Allahovim zakonom i koji su mu pokorni, pa slijede Poslanika, i na one koji će otpasti od vjere i slijediti prohtjeve, pa se ne pokoravaju Allahovom zakonu.
 
 # 151
 
@@ -684,9 +684,9 @@ To su oni kojima pripadaju blagoslovi od Gospodara njihova i milost; oni su na P
 
 # 165
 
-Safa i Merva su, doista, Allahova obredna mjesta. Zato onaj ko Kabu hodočasti ili umru obavi, ne čini nikakav prestup da se kreće između njih. A onaj koji drage volje učini kakvo dobro djelo, pa Allah je, doista, zahvalan i sve zna.
+Safa i Merva su, doista, Allahova obredna mjesta. Zato onaj ko Kabu hodočasti ili umru obavi, ne čini nikakav prestup da se kreće između njih. A onaj koji drage volje učini kakvo dobro djelo, pa Allah je, doista, zahvalan i sve zna.[^*]
 
-Zahvalan znači da nagrađuje dobročinitelja više nego što se potrudi.
+[^*]: Zahvalan znači da nagrađuje dobročinitelja više nego što se potrudi.
 
 # 166
 
@@ -818,9 +818,9 @@ I borite se na Allahovu putu protiv onih koji se bore protiv vas, ali ne prelazi
 
 # 198
 
-I ubijajte ih gdje god ih stignete, i progonite ih odakle su oni vas prognali! A smutnja je teža od ubijanja! I ne borite se protiv njih kod Časne džamije dok vas oni tu ne napadnu. Ako vas tu napadnu, onda ih ubijajte! Takva je kazna za nevjernike.
+I ubijajte ih gdje god ih stignete, i progonite ih odakle su oni vas prognali! A smutnja je teža od ubijanja! I ne borite se protiv njih kod Časne džamije dok vas oni tu ne napadnu. Ako vas tu napadnu, onda ih ubijajte! Takva je kazna za nevjernike.[^*]
 
-Ovdje smutnja označava širk.
+[^*]: Ovdje smutnja označava širk.
 
 # 199
 
@@ -1156,9 +1156,9 @@ Onima koji dijele imovinu svoju noću i danju, tajno i javno, pripada nagrada ko
 
 # 282
 
-Oni koji se kamatom hrane dići će se iz grobova svojih baš kao oni koje je šejtan dodirom izbezumio. To je zato što su govorili: "Trgovina je, doista, isto što i kamata!" A Allah je dozvolio trgovinu, a zabranio kamatu. Onome do koga dopre pouka Gospodara njegova, pa se toga okani, pripada ono što je prije stekao a njegov je slučaj Allahu prepušten. Oni, pak, koji opet to učine, bit će stanovnici Vatre u kojoj će vječno ostati.
+Oni koji se kamatom hrane dići će se iz grobova svojih baš kao oni koje je šejtan dodirom izbezumio. To je zato što su govorili: "Trgovina je, doista, isto što i kamata!" A Allah je dozvolio trgovinu, a zabranio kamatu. Onome do koga dopre pouka Gospodara njegova, pa se toga okani, pripada ono što je prije stekao a njegov je slučaj Allahu prepušten. Oni, pak, koji opet to učine, bit će stanovnici Vatre u kojoj će vječno ostati.[^*]
 
-Vječnost koja se spominje označava boravak dugo vremena ili se odnosi na one koji dozvole kamatu, pa time postanu nevjernici.
+[^*]: Vječnost koja se spominje označava boravak dugo vremena ili se odnosi na one koji dozvole kamatu, pa time postanu nevjernici.
 
 # 283
 
@@ -1198,9 +1198,9 @@ Allahu pripada sve što je na nebesima i što je na Zemlji. Pokazivali vi šta j
 
 # 292
 
-Poslanik vjeruje u ono što mu se objavljuje od Gospodara njegova, a i vjernici, svaki od njih vjeruje u Allaha, i meleke Njegove, i Knjige Njegove, i poslanike Njegove: "Mi među poslanicima Njegovim ne pravimo razliku!" I govore: "Čujemo i pokoravamo se! Molimo Te za oprost, Gospodaru naš, a kod Tebe je konačno odredište!"
+Poslanik vjeruje u ono što mu se objavljuje od Gospodara njegova, a i vjernici, svaki od njih vjeruje u Allaha, i meleke Njegove, i Knjige Njegove, i poslanike Njegove: "Mi među poslanicima Njegovim ne pravimo razliku!" I govore: "Čujemo i pokoravamo se! Molimo Te za oprost, Gospodaru naš, a kod Tebe je konačno odredište!"[^*]
 
-Riječi: "Mi među poslanicima Njegovim ne pravimo razliku!", odnose se na to da nema razlike u pogledu vjerovanja, a ne vrednovanja. Dakle, dužni smo vjerovati u sve poslanike, a ne samo u neke, i tu nema razlike, ali kada je u pitanju vrednovanje, znamo da su neki od njih na većem stepenu od drugih.
+[^*]: Riječi: "Mi među poslanicima Njegovim ne pravimo razliku!", odnose se na to da nema razlike u pogledu vjerovanja, a ne vrednovanja. Dakle, dužni smo vjerovati u sve poslanike, a ne samo u neke, i tu nema razlike, ali kada je u pitanju vrednovanje, znamo da su neki od njih na većem stepenu od drugih.
 
 # 293
 
@@ -1353,9 +1353,9 @@ sam joj ime Merjem. Ja nju i porod njezin stavljam pod Tvoju zaštitu od proklet
 
 # 330
 
-Pa je Gospodar njezin lijepo primi, i učini da lijepo izraste i da se o njoj Zekerijja brine. Kad god bi joj Zekerijja u mihrab ušao, kod nje bi hrane našao. "Odakle ti ovo, Merjema?", pitao bi on, a ona bi odgovorila: "To je od Allaha! Allah, doista, opskrbljuje koga hoće, bez ikakva računa."
+Pa je Gospodar njezin lijepo primi, i učini da lijepo izraste i da se o njoj Zekerijja brine. Kad god bi joj Zekerijja u mihrab ušao, kod nje bi hrane našao. "Odakle ti ovo, Merjema?", pitao bi on, a ona bi odgovorila: "To je od Allaha! Allah, doista, opskrbljuje koga hoće, bez ikakva računa."[^*]
 
-Mihrab: odvojena posebna osoba.
+[^*]: Mihrab: odvojena posebna osoba.
 
 # 331
 
@@ -1379,9 +1379,9 @@ I kada meleci kazaše: "O Merjem, tebe je, doista, Allah odabrao i čistom učin
 
 # 336
 
-"Merjema, budi skrušena i pokorna Gospodaru svome, i sedždu čini i sa onima koji ruku' obavljaju i ti obavljaj!”
+"Merjema, budi skrušena i pokorna Gospodaru svome, i sedždu čini i sa onima koji ruku' obavljaju i ti obavljaj!”[^*]
 
-Ovdje su sedžda i ruku' posebno izdvojeni kao sastavni dijelovi namaza.
+[^*]: Ovdje su sedžda i ruku' posebno izdvojeni kao sastavni dijelovi namaza.
 
 # 337
 
@@ -1537,9 +1537,9 @@ I kada je Allah od vjerovjesnika čvrsto obećanje uzeo: "Kad god da vam podarim
 
 # 375
 
-A oni koji se i poslije toga okrenu, doista su to griješnici.
+A oni koji se i poslije toga okrenu, doista su to griješnici.[^*]
 
-Ovaj grijeh odnosi se na nevjerovanje zbog kojeg se vječno u Vatru ide, osim ukoliko se osoba pokaje.
+[^*]: Ovaj grijeh odnosi se na nevjerovanje zbog kojeg se vječno u Vatru ide, osim ukoliko se osoba pokaje.
 
 # 376
 
@@ -1595,9 +1595,9 @@ Reci: "Allah istinu govori!" – da slijedite vjeru Ibrahimovu, koji je pravi vj
 
 # 389
 
-Prva bogomolja podignuta za ljude jeste ona u Bekki, blagoslovljena i putokaz svjetovima.
+Prva bogomolja podignuta za ljude jeste ona u Bekki, blagoslovljena i putokaz svjetovima.[^*]
 
-Bekka je drugo ime za Mekku.
+[^*]: Bekka je drugo ime za Mekku.
 
 # 390
 
@@ -1773,9 +1773,9 @@ Ne klonite duhom, i ne žalostite se! Vi ćete pobijediti, ako vjernici budete.
 
 # 433
 
-Ako vas rane spopadnu – pa sigurno su takve rane i druge spopale – i te dane pobjede Mi naizmjenice dajemo ljudima, da bi Allah znao one koji vjeruju, i odabrao neke od vas za šehide. A Allah ne voli nepravedne.
+Ako vas rane spopadnu – pa sigurno su takve rane i druge spopale – i te dane pobjede Mi naizmjenice dajemo ljudima, da bi Allah znao one koji vjeruju, i odabrao neke od vas za šehide. A Allah ne voli nepravedne.[^*]
 
-Riječi "da bi Allah znao", označavaju ispoljavanje tog znanja u praksi, na osnovu čega će se desiti nagrada ili kazna.
+[^*]: Riječi "da bi Allah znao", označavaju ispoljavanje tog znanja u praksi, na osnovu čega će se desiti nagrada ili kazna.
 
 # 434
 
@@ -2199,9 +2199,9 @@ Allah najbolje poznaje neprijatelje vaše; Allah je dovoljan zaštitnik i Allah 
 
 # 539
 
-Onima koji su judejstvo prihvatili, koji izvrću smisao riječi govoreći: "Čujemo, ali se ne pokoravamo!" i: "Slušaj, dabogda ne čuo!" i: "Čuvaj nas!", prevrćući jezicima svojim i huleći vjeru, bolje bi bilo i ispravnije da kažu: "Slušamo i pokoravamo se!" i: "Slušaj!" i: "Pogledaj na nas!" Ali, Allah je njih zbog nevjerovanja njihova prokleo i malo ko od njih vjeruje.
+Onima koji su judejstvo prihvatili, koji izvrću smisao riječi govoreći: "Čujemo, ali se ne pokoravamo!" i: "Slušaj, dabogda ne čuo!" i: "Čuvaj nas!", prevrćući jezicima svojim i huleći vjeru, bolje bi bilo i ispravnije da kažu: "Slušamo i pokoravamo se!" i: "Slušaj!" i: "Pogledaj na nas!" Ali, Allah je njih zbog nevjerovanja njihova prokleo i malo ko od njih vjeruje.[^*]
 
-Kratki komentar: Među jevrejima ima loših ljudi koji mijenjaju govor koji im je Allah objavio, pa mu daju izvankontekstualni smisao, i Poslaniku govore, kada im nešto kaže da urade: "Čujemo te, ali ti se ne pokoravamo", i ismijavajući se, govore: "Slušaj šta kažemo, sluh izgubio." I obmanjuju ljude riječima: "Ra'ina", navodeći ih da pomisle kako ti oni govore da im posvetiš pažnju, a ustvari time žele reći da si malouman. Krive svoje jezike doveći protiv Poslanika, sallallahu alejhi ve sellem, i vrijeđaju vjeru. Da su rekli: "Čujemo šta kažeš i pokoravamo se", umjesto što su rekli: "Čujemo te, ali ti se ne pokoravamo", i da su umjesto: "Slušaj šta kažemo, sluh izgubio", rekli: "Poslušaj nas", i da su umjesto: "Maloumno", rekli: "Sačekaj nas", bilo bi im bolje i pravednije, jer je u tome lijep edeb koji dolikuje ophođenju prema Poslaniku, sallallahu alejhi ve sellem. Ali njih je Allah prokleo, pa ih je udaljio od Svoje milosti zbog njihovog nevjerstva, tako da ne vjeruju vjerovanjem koje će im koristiti.
+[^*]: Kratki komentar: Među jevrejima ima loših ljudi koji mijenjaju govor koji im je Allah objavio, pa mu daju izvankontekstualni smisao, i Poslaniku govore, kada im nešto kaže da urade: "Čujemo te, ali ti se ne pokoravamo", i ismijavajući se, govore: "Slušaj šta kažemo, sluh izgubio." I obmanjuju ljude riječima: "Ra'ina", navodeći ih da pomisle kako ti oni govore da im posvetiš pažnju, a ustvari time žele reći da si malouman. Krive svoje jezike doveći protiv Poslanika, sallallahu alejhi ve sellem, i vrijeđaju vjeru. Da su rekli: "Čujemo šta kažeš i pokoravamo se", umjesto što su rekli: "Čujemo te, ali ti se ne pokoravamo", i da su umjesto: "Slušaj šta kažemo, sluh izgubio", rekli: "Poslušaj nas", i da su umjesto: "Maloumno", rekli: "Sačekaj nas", bilo bi im bolje i pravednije, jer je u tome lijep edeb koji dolikuje ophođenju prema Poslaniku, sallallahu alejhi ve sellem. Ali njih je Allah prokleo, pa ih je udaljio od Svoje milosti zbog njihovog nevjerstva, tako da ne vjeruju vjerovanjem koje će im koristiti.
 
 # 540
 
@@ -2389,9 +2389,9 @@ Vjernik ne može ubiti vjernika osim greškom, a ko ubije vjernika greškom, on 
 
 # 586
 
-A ko hotimično ubije vjernika, kazna mu je Džehennem u kojem će vječno ostati. Na njega se Allah rasrdi i proklete ga, a još mu je i patnju veliku pripremio.
+A ko hotimično ubije vjernika, kazna mu je Džehennem u kojem će vječno ostati. Na njega se Allah rasrdi i proklete ga, a još mu je i patnju veliku pripremio.[^*]
 
-Vječnost koja se ovdje spominje označava dugovremeni boravak, jer će po vjerovanju ehli sunneta, onaj koji uđe u Vatru, iz nje izaći, ako je bio vjernik, bez obzira na grijehe koje je činio, ako ga ti grijesi nisu izveli iz vjere, poput kufra i širka.
+[^*]: Vječnost koja se ovdje spominje označava dugovremeni boravak, jer će po vjerovanju ehli sunneta, onaj koji uđe u Vatru, iz nje izaći, ako je bio vjernik, bez obzira na grijehe koje je činio, ako ga ti grijesi nisu izveli iz vjere, poput kufra i širka.
 
 # 587
 
@@ -2535,9 +2535,9 @@ Ako se neka žena plaši muževe mržnje ili izbjegavanja, onda se oni neće ogr
 
 # 622
 
-Vi nećete moći potpuno jednako postupati prema suprugama svojim ma koliko to željeli. I nemojte prema nekoj sasvim naginjati pa da neku učinite kao da je bez muža, a nerazvedena. A ako se popravite i Allaha bojite, pa Allah je, uistinu, Onaj Koji oprašta grijehe i milostiv je.
+Vi nećete moći potpuno jednako postupati prema suprugama svojim ma koliko to željeli. I nemojte prema nekoj sasvim naginjati pa da neku učinite kao da je bez muža, a nerazvedena. A ako se popravite i Allaha bojite, pa Allah je, uistinu, Onaj Koji oprašta grijehe i milostiv je.[^*]
 
-Riječi: "Vi nećete moći potpuno jednako postupati prema suprugama svojim ma koliko to željeli", odnose se na srce, odnosno ljubav, tj. nije moguće jednako sve supruge voljeti na isti način, ali kada je riječ o materijalnim obavezama, čovjek je dužan biti pravedan.
+[^*]: Riječi: "Vi nećete moći potpuno jednako postupati prema suprugama svojim ma koliko to željeli", odnose se na srce, odnosno ljubav, tj. nije moguće jednako sve supruge voljeti na isti način, ali kada je riječ o materijalnim obavezama, čovjek je dužan biti pravedan.
 
 # 623
 
@@ -3001,9 +3001,9 @@ Reci: "O vi kojima je data Knjiga, vi niste ni na čemu ako se ne budete pridrž
 
 # 738
 
-Oni koji su vjerovali, i oni koji su bili jevreji, te sabijci, i kršćani – oni koji su u Allaha i u onaj svijet vjerovali i dobra djela činili – ničega se oni uistinu neće bojati i ni za čim oni neće tugovati.
+Oni koji su vjerovali, i oni koji su bili jevreji, te sabijci, i kršćani – oni koji su u Allaha i u onaj svijet vjerovali i dobra djela činili – ničega se oni uistinu neće bojati i ni za čim oni neće tugovati.[^*]
 
-Ukoliko ovakvi ne povjeruju u poslanstvo Muhammeda, sallallahu alejhi ve sellem, nakon što se pojavio kao poslanik, tj. ukoliko ne prihvate islam, na njih se ne odnosi ovaj uspjeh koji se spominje.
+[^*]: Ukoliko ovakvi ne povjeruju u poslanstvo Muhammeda, sallallahu alejhi ve sellem, nakon što se pojavio kao poslanik, tj. ukoliko ne prihvate islam, na njih se ne odnosi ovaj uspjeh koji se spominje.
 
 # 739
 
@@ -3139,9 +3139,9 @@ Neki su ljudi prije vas pitali za to, pa su poslije zbog toga postali nevjernici
 
 # 772
 
-Allah nije propisao ni behiru ni saibu ni vasilu a ni hama; to oni koji ne vjeruju govore o Allahu laži, i većina njih ne razumiju.
+Allah nije propisao ni behiru ni saibu ni vasilu a ni hama; to oni koji ne vjeruju govore o Allahu laži, i većina njih ne razumiju.[^*]
 
-Allah je halalom učinio stoku, za razliku od višebožaca koji su u ime njihovih kipova sebi zabranili sljedeće vrste stoke: 1. behiru, a to je deva kojoj presijeku uši nakon što rodi određeni broj mladunčadi; 2. saibu, a to je deva koju posvećuju kipovima i ne diraju je kada dostigne određeni broj godina; 3. vesilu, a to je deva koja rodi žensku mladunčad jedno za drugim; 4. hamu, a to je dromedar koji oplodi određeni broj deva. Višebožački nevjernici su lažno tvrdili da je Allah zabranio ove vrste životinja. To je tako, a većina nevjernika ne razlikuje istinu od zablude i haram od halala.
+[^*]: Allah je halalom učinio stoku, za razliku od višebožaca koji su u ime njihovih kipova sebi zabranili sljedeće vrste stoke: 1. behiru, a to je deva kojoj presijeku uši nakon što rodi određeni broj mladunčadi; 2. saibu, a to je deva koju posvećuju kipovima i ne diraju je kada dostigne određeni broj godina; 3. vesilu, a to je deva koja rodi žensku mladunčad jedno za drugim; 4. hamu, a to je dromedar koji oplodi određeni broj deva. Višebožački nevjernici su lažno tvrdili da je Allah zabranio ove vrste životinja. To je tako, a većina nevjernika ne razlikuje istinu od zablude i haram od halala.
 
 # 773
 
@@ -3833,9 +3833,9 @@ A ova je Knjiga koju objavljujemo blagoslovljena, zato je slijedite i Allaha se 
 
 # 945
 
-I zato, da ne kažete: "Knjiga je objavljena dvjema zajednicama prije nas, ali mi je ne znamo čitati kao oni",
+I zato, da ne kažete: "Knjiga je objavljena dvjema zajednicama prije nas, ali mi je ne znamo čitati kao oni",[^*]
 
-Dvjema zajednicima, tj. jevrejima i kršćanima.
+[^*]: Dvjema zajednicima, tj. jevrejima i kršćanima.
 
 # 946
 
@@ -4977,9 +4977,9 @@ Sad jedite ono što ste zaplijenili, kao dopušteno i lijepo, i bojte se Allaha.
 
 # 1230
 
-O Vjerovjesniče, reci zarobljenicima koji se nalaze u rukama vašim: “Ako Allah zna da u srcima vašim ima bilo šta dobro, dat će vam bolje od onoga što vam je uzeto i oprostit će vam.” – A Allah prašta i milostiv je.
+O Vjerovjesniče, reci zarobljenicima koji se nalaze u rukama vašim: “Ako Allah zna da u srcima vašim ima bilo šta dobro, dat će vam bolje od onoga što vam je uzeto i oprostit će vam.” – A Allah prašta i milostiv je.[^*]
 
-Tj. ako Allah vidi da u srcima ima neko dobro...
+[^*]: Tj. ako Allah vidi da u srcima ima neko dobro...
 
 # 1231
 
@@ -7572,9 +7572,9 @@ U tome su, zaista, znaci za one koji o tome pronicljivo razmišljaju.
 
 # 1878
 
-A naselje je baš uz postojeći put.
+A naselje je baš uz postojeći put.[^*]
 
-Naselja u kojima je živio Lutov narod nalaze se pored puta, vide ih putnici koji njime prolaze.
+[^*]: Naselja u kojima je živio Lutov narod nalaze se pored puta, vide ih putnici koji njime prolaze.
 
 # 1879
 
@@ -7630,9 +7630,9 @@ i reci: "Ja sam samo upozoritelj jasni."
 
 # 1892
 
-Kao što smo sljedbenike Knjige opomenuli,
+Kao što smo sljedbenike Knjige opomenuli,[^*]
 
-Opominjem vas kako vas ne bi zadesilo ono što je zadesilo one koji su podijelili Allahovu knjigu, pa u jedan dio povjerovali, a drugi dio porekli.
+[^*]: Opominjem vas kako vas ne bi zadesilo ono što je zadesilo one koji su podijelili Allahovu knjigu, pa u jedan dio povjerovali, a drugi dio porekli.
 
 # 1893
 
@@ -8708,9 +8708,9 @@ jer ako oni doznaju za vas, kamenovat će vas ili će vas u svoju vjeru obratiti
 
 # 2161
 
-I Mi smo, isto tako, učinili da oni za njih saznaju, da bi se uvjerili da je istinito Allahovo obećanje i da u čas oživljenja nema nikakve sumnje, kad su se između sebe o njima raspravljali, i rekli: “Sagradite na ulazu u nju ogradu, Gospodar njihov najbolje zna ko su oni.” A onda oni do čijih se riječi najviše držalo rekoše: “Napravit ćemo na ulazu u nju bogomolju!”
+I Mi smo, isto tako, učinili da oni za njih saznaju, da bi se uvjerili da je istinito Allahovo obećanje i da u čas oživljenja nema nikakve sumnje, kad su se između sebe o njima raspravljali, i rekli: “Sagradite na ulazu u nju ogradu, Gospodar njihov najbolje zna ko su oni.” A onda oni do čijih se riječi najviše držalo rekoše: “Napravit ćemo na ulazu u nju bogomolju!”[^*]
 
-Postoje pouzdana predanja o tome da je Resulullah, sallallahu alejhi ve sellem, prokleo one ljude koji kaburove pretvaraju u džamije. Poslanik, sallallahu alejhi ve sellem, zabranio je to svom umetu, kao što je zabranio građenje bilo čega na kaburovima, njihovo krečenje i pisanje po njima. Također, prokleo je jevreje i kršćane zbog toga što su kaburove svojih vjerovjesnikā pretvarali u bogomolje, s obzirom na to da je zabranjeno pretjerivanje koje čovjeka vodi u mnogoboštvo.
+[^*]: Postoje pouzdana predanja o tome da je Resulullah, sallallahu alejhi ve sellem, prokleo one ljude koji kaburove pretvaraju u džamije. Poslanik, sallallahu alejhi ve sellem, zabranio je to svom umetu, kao što je zabranio građenje bilo čega na kaburovima, njihovo krečenje i pisanje po njima. Također, prokleo je jevreje i kršćane zbog toga što su kaburove svojih vjerovjesnikā pretvarali u bogomolje, s obzirom na to da je zabranjeno pretjerivanje koje čovjeka vodi u mnogoboštvo.
 
 # 2162
 
@@ -10418,9 +10418,9 @@ Na Dan kad smotamo nebesa kao što se smota list papira za pisanje, onako kako s
 
 # 2588
 
-Mi smo u objavama, poslije Ploče pomno čuvane, napisali da će Zemlju Moji čestiti robovi naslijediti.
+Mi smo u objavama, poslije Ploče pomno čuvane, napisali da će Zemlju Moji čestiti robovi naslijediti.[^*]
 
-Allah, džellešanuhu, objavio je u knjigama, nakon što je to zapisano u Levhi-mahfuzu, da će Zemlju naslijediti Allahovi dobri robovi, oni koji Njemu istinski robuju i koji su Njemu poslušni, a to su Poslanik, sallallahu alejhi ve sellem i njegov ummet.
+[^*]: Allah, džellešanuhu, objavio je u knjigama, nakon što je to zapisano u Levhi-mahfuzu, da će Zemlju naslijediti Allahovi dobri robovi, oni koji Njemu istinski robuju i koji su Njemu poslušni, a to su Poslanik, sallallahu alejhi ve sellem i njegov ummet.
 
 # 2589
 
@@ -11412,9 +11412,9 @@ On čini da noć i dan naizmjenice nastupaju i u tome je, doista, pouka za one k
 
 # 2836
 
-Allah sva živa bića stvara od vode, neka od njih na trbuhu puze, neka idu na dvije noge, a neka, opet, hode na četiri; Allah stvara šta hoće, Allah, zaista, nad svime ima moć.
+Allah sva živa bića stvara od vode, neka od njih na trbuhu puze, neka idu na dvije noge, a neka, opet, hode na četiri; Allah stvara šta hoće, Allah, zaista, nad svime ima moć.[^*]
 
-Ovdje se misli na bića koja vidimo.
+[^*]: Ovdje se misli na bića koja vidimo.
 
 # 2837
 
@@ -15156,9 +15156,9 @@ Danas ćemo im usta zapečatiti, njihove ruke će Nam govoriti, a noge njihove �
 
 # 3771
 
-Da smo htjeli, oči bi njihove poravnali – slijepim ih učinili, pa kad bi na put pošli, kako bi vidjeli?!
+Da smo htjeli, oči bi njihove poravnali – slijepim ih učinili, pa kad bi na put pošli, kako bi vidjeli?![^*]
 
-U nekim tumačenjima misli se na Sirat ćupriju.
+[^*]: U nekim tumačenjima misli se na Sirat ćupriju.
 
 # 3772
 
@@ -15422,9 +15422,9 @@ Pored njih će biti one koje će preda se gledati, očiju prekrasnih,
 
 # 3837
 
-kao da su one jaja pokrivena.
+kao da su one jaja pokrivena.[^*]
 
-Ili po nekim tumačenjima biser pokriveni i zaštićeni.
+[^*]: Ili po nekim tumačenjima biser pokriveni i zaštićeni.
 
 # 3838
 
@@ -15728,9 +15728,9 @@ Kad on reče narodu svom: “Zar se ne bojite?
 
 # 3913
 
-Što se Ba'lu molite, a najljepšeg Stvoritelja ostavljate,
+Što se Ba'lu molite, a najljepšeg Stvoritelja ostavljate,[^*]
 
-Ba'l je po nekim tumačenjima ime za kipa.
+[^*]: Ba'l je po nekim tumačenjima ime za kipa.
 
 # 3914
 
@@ -17194,9 +17194,9 @@ Allah motri na one koji, pored Njega, zaštitnike uzimaju, a ti nisi za njihovu 
 
 # 4279
 
-Eto, tako Mi tebi objavljujemo Kur’an, na arapskom jeziku, da bi upozoravao Majku naselja i one oko nje i upozorio na Dan sakupljanja – u koji nema nikakve sumnje. Jedni će u Džennet, a drugi u Džehennem.
+Eto, tako Mi tebi objavljujemo Kur’an, na arapskom jeziku, da bi upozoravao Majku naselja i one oko nje i upozorio na Dan sakupljanja – u koji nema nikakve sumnje. Jedni će u Džennet, a drugi u Džehennem.[^*]
 
-Ummu-l-Kura (Majka svih naselja) je Mekka, a nazvana je tako jer je ona najčasnije mjesto na zemaljskoj kugli.
+[^*]: Ummu-l-Kura (Majka svih naselja) je Mekka, a nazvana je tako jer je ona najčasnije mjesto na zemaljskoj kugli.
 
 # 4280
 
@@ -18452,9 +18452,9 @@ da u Allaha i Poslanika Njegova vjerujete, i da vjeru Njegovu pomognete, i da Ga
 
 # 4593
 
-Oni koji su se zakleli na vjernost – zakleli su se, doista, na vjernost samome Allahu, Allahova je ruka iznad ruku njihovih! Onaj ko prekrši zakletvu – krši je na svoju štetu, a ko ispuni ono na šta se obavezao Allahu, On će mu dati veliku nagradu.
+Oni koji su se zakleli na vjernost – zakleli su se, doista, na vjernost samome Allahu, Allahova je ruka iznad ruku njihovih! Onaj ko prekrši zakletvu – krši je na svoju štetu, a ko ispuni ono na šta se obavezao Allahu, On će mu dati veliku nagradu.[^*]
 
-Ovaj ajet dokazuje da Allah, džellešanuhu, posjeduje svojstvo, i to onako kako to dolikuje Njegovoj uzvišenosti.
+[^*]: Ovaj ajet dokazuje da Allah, džellešanuhu, posjeduje svojstvo, i to onako kako to dolikuje Njegovoj uzvišenosti.
 
 # 4594
 
@@ -19026,9 +19026,9 @@ a, teško nevjernicima na Dan kojim im se prijeti!
 
 # 4736
 
-Tako Mi brda Tur,
+Tako Mi brda Tur,[^*]
 
-Allah se kune brdom na kojem je razgovarao sa Musaom, alejhi selam.
+[^*]: Allah se kune brdom na kojem je razgovarao sa Musaom, alejhi selam.
 
 # 4737
 
@@ -19040,9 +19040,9 @@ na koži razvijenoj,
 
 # 4739
 
-i Bejtu-l-M‘amura
+i Bejtu-l-M‘amura[^*]
 
-I kune se kućom, odnosno nebeskim hramom kojeg meleki posjećuju radi obožavanja Allaha.
+[^*]: I kune se kućom, odnosno nebeskim hramom kojeg meleki posjećuju radi obožavanja Allaha.
 
 # 4740
 
@@ -19050,9 +19050,9 @@ i svoda uzdignutog,
 
 # 4741
 
-i mora napunjenog -
+i mora napunjenog -[^*]
 
-Neki učenjaci kažu da to znači: “more vatrom napunjeno”, dok neki kažu da znači: “more puno vode”.
+[^*]: Neki učenjaci kažu da to znači: “more vatrom napunjeno”, dok neki kažu da znači: “more puno vode”.
 
 # 4742
 
@@ -19420,9 +19420,9 @@ i da On daje bogatstvo i moć da stječu,
 
 # 4833
 
-i da je On Sirijusa Gospodar,
+i da je On Sirijusa Gospodar,[^*]
 
-Sirijus je vrste zvijezde.
+[^*]: Sirijus je vrste zvijezde.
 
 # 4834
 
@@ -24878,9 +24878,9 @@ navike njihove da zimi i ljeti putuju,
 
 # 6196
 
-neka oni Gospodaru ove Kuće ibadet čine,
+neka oni Gospodaru ove Kuće ibadet čine,[^*]
 
-Ka'ba
+[^*]: Ka'ba
 
 # 6197
 
@@ -24988,9 +24988,9 @@ Reci: “On je Allah – Jedan!
 
 # 6223
 
-Allah je Es-Samed!
+Allah je Es-Samed![^*]
 
-On je Gospodar Apsolutni i savršeni u svojim svojstvima i ljepoti, Onaj kome sva stvorenja teže i kod Njega utočište traže.
+[^*]: On je Gospodar Apsolutni i savršeni u svojim svojstvima i ljepoti, Onaj kome sva stvorenja teže i kod Njega utočište traže.
 
 # 6224
 

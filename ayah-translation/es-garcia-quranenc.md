@@ -10,16 +10,17 @@ CheckUpdates: https://quranenc.com/check/spanish_garcia/v1.0.0-xml.1
 
 # 1
 
-En el nombre de Dios, el Compasivo con toda la creación, el Misericordioso con los creyentes.
+En el nombre de Dios[^1], el Compasivo con toda la creación, el Misericordioso con los creyentes[^2].
 
-Dios: Al-lah الله : Es un nombre propio exclusivo de Dios, el Único y Todopoderoso, Creador y Sustentador de los cielos y la Tierra y de todo lo que hay en ellos, el Eterno y Absoluto, el merecedor de toda forma de adoración. La forma de pronunciarlo es la siguiente: “Al-laj”, con la “jota andaluza” suave y aspirada, o la hache inglesa, enfatizando en la pronunciación de la “L”. Es sabido que cada idioma tiene uno o varios términos para referirse a Dios y, en ocasiones, para otras deidades. Éste no es el caso de “Al-lah”. “Al-lah” (del árabe al-ilah: el Dios) es el único nombre de Dios, no tiene género ni plural; por tanto, es un término que señala la unidad de lo designado. Cuando los contemporáneos del Profeta le preguntaron acerca de Dios, él recibió como revelación del capítulo 112, que resume la esencia del monoteísmo y unicidad de Dios: no ha engendrado, no ha sido engendrado, nada ni nadie es semejante a Él. El Islam rechaza cualquier intento de caracterizar a Dios, y menos aun tomando rasgos humanos que hagan prevalecer a una raza sobre las demás. 
-el Compasivo con toda la creación, el Misericordioso con los creyentes: Ar-Rahman الرحمن y Ar-Rahim الرحيم son dos palabras derivadas del árabe rahma رحم , que significa misericordia. En la lengua árabe ambos tienen el significado superlativo de “Misericordiosísimo”. Mediante la cita de ambos nombres se intenta dar un significado más completo. Ar-Rahman, traducido como el Compasivo, implica un significado más amplio, que es misericordioso hacia toda la creación. La justicia es parte de esta compasión. Ar-Rahim, traducido como Misericordioso, incluye el concepto de especificidad, es decir, una forma especial de misericordia concedida solamente a los creyentes. El perdón es parte de esta misericordia.
+[^1]: Al-lah الله : Es un nombre propio exclusivo de Dios, el Único y Todopoderoso, Creador y Sustentador de los cielos y la Tierra y de todo lo que hay en ellos, el Eterno y Absoluto, el merecedor de toda forma de adoración. La forma de pronunciarlo es la siguiente: “Al-laj”, con la “jota andaluza” suave y aspirada, o la hache inglesa, enfatizando en la pronunciación de la “L”. Es sabido que cada idioma tiene uno o varios términos para referirse a Dios y, en ocasiones, para otras deidades. Éste no es el caso de “Al-lah”. “Al-lah” (del árabe al-ilah: el Dios) es el único nombre de Dios, no tiene género ni plural; por tanto, es un término que señala la unidad de lo designado. Cuando los contemporáneos del Profeta le preguntaron acerca de Dios, él recibió como revelación del capítulo 112, que resume la esencia del monoteísmo y unicidad de Dios: no ha engendrado, no ha sido engendrado, nada ni nadie es semejante a Él. El Islam rechaza cualquier intento de caracterizar a Dios, y menos aun tomando rasgos humanos que hagan prevalecer a una raza sobre las demás.
+
+[^2]: Ar-Rahman الرحمن y Ar-Rahim الرحيم son dos palabras derivadas del árabe rahma رحم , que significa misericordia. En la lengua árabe ambos tienen el significado superlativo de “Misericordiosísimo”. Mediante la cita de ambos nombres se intenta dar un significado más completo. Ar-Rahman, traducido como el Compasivo, implica un significado más amplio, que es misericordioso hacia toda la creación. La justicia es parte de esta compasión. Ar-Rahim, traducido como Misericordioso, incluye el concepto de especificidad, es decir, una forma especial de misericordia concedida solamente a los creyentes. El perdón es parte de esta misericordia.
 
 # 2
 
-Todas las alabanzas son para Dios, Señor de todo cuanto existe,
+Todas las alabanzas son para Dios, Señor[^1] de todo cuanto existe,
 
-Señor: Cuando se refiere a Dios, el término árabe Rabb ربّ , traducido como “Señor”, incluye los significados de poseedor, amo, gobernante, controlador, sustentador, proveedor, guardián y cuidador.
+[^1]: Cuando se refiere a Dios, el término árabe Rabb ربّ , traducido como “Señor”, incluye los significados de poseedor, amo, gobernante, controlador, sustentador, proveedor, guardián y cuidador.
 
 # 3
 
@@ -43,9 +44,9 @@ El camino de los que has colmado con Tus favores, no el de los que cayeron en Tu
 
 # 8
 
-Álif. Lam. Mim.
+Álif. Lam. Mim[^1].
 
-Álif. Lam. Mim: Estas son algunas de las catorce letras que aparecen en diversas combinaciones al comienzo de veintinueve capítulos del Corán. Si bien hay muchas interpretaciones en cuanto a su significado, el mismo no fue revelado por Dios y Él sabe más sobre su verdadero significado.
+[^1]: Estas son algunas de las catorce letras que aparecen en diversas combinaciones al comienzo de veintinueve capítulos del Corán. Si bien hay muchas interpretaciones en cuanto a su significado, el mismo no fue revelado por Dios y Él sabe más sobre su verdadero significado.
 
 # 9
 
@@ -97,9 +98,9 @@ Cuando se les dice: "¡Crean como ha creído la gente!" Responden: "¿Es que vam
 
 # 21
 
-Cuando se encuentran con los creyentes les dicen: "¡Somos creyentes!" Pero cuando están a solas con los malvados de entre ellos, les aseguran: "¡Estamos con ustedes, solo nos burlábamos de ellos!"
+Cuando se encuentran con los creyentes les dicen: "¡Somos creyentes!" Pero cuando están a solas con los malvados de entre ellos[^1], les aseguran: "¡Estamos con ustedes, solo nos burlábamos de ellos!"
 
-con los malvados de entre ellos: Los líderes de la hipocresía y la incredulidad.
+[^1]: Los líderes de la hipocresía y la incredulidad.
 
 # 22
 
@@ -139,15 +140,15 @@ Si dudan de lo que le he revelado a Mi siervo traigan un capítulo [del Corán] 
 
 # 31
 
-Si no lo hacen, y por cierto que no podrán hacerlo, teman al fuego, cuyo combustible serán seres humanos y piedras, [un fuego] que ha sido preparado para los que niegan la verdad.
+Si no lo hacen, y por cierto que no podrán hacerlo, teman al fuego, cuyo combustible serán seres humanos y piedras[^1], [un fuego] que ha sido preparado para los que niegan la verdad.
 
-serán seres humanos y piedras: Con las que son construidos los ídolos que son adorados junto o en lugar de Dios.
+[^1]: Con las que son construidos los ídolos que son adorados junto o en lugar de Dios.
 
 # 32
 
-Y albricia a los creyentes que obran correctamente que tendrán como recompensa jardines por donde corren los ríos. Cuando allí reciban frutos dirán: "Esto es similar a lo que recibimos anteriormente", pero solo lo será en apariencia. Allí tendrán esposas puras, donde morarán por toda la eternidad.
+Y albricia a los creyentes que obran correctamente que tendrán como recompensa jardines por donde corren los ríos. Cuando allí reciban frutos dirán: "Esto es similar a lo que recibimos anteriormente", pero solo lo será en apariencia. Allí tendrán esposas puras, donde morarán por toda la eternidad.[^1]
 
-“Esto es similar a lo que recibimos anteriormente”: En la vida mundanal.
+[^1]: En la vida mundanal.
 
 # 33
 
@@ -163,10 +164,11 @@ los que no cumplen con el pacto establecido con Dios a pesar de haberse comprome
 
 # 36
 
-Él es Quien creó para ustedes todo cuanto hay en la Tierra, luego se volvió hacia el cielo e hizo de éste siete cielos; Él conoce todas las cosas.
+Él es Quien creó para ustedes todo cuanto hay en la Tierra, luego se volvió hacia el cielo[^1] e hizo de éste siete cielos[^2]; Él conoce todas las cosas.
 
-se volvió hacia el cielo: Dios en el Corán afirma tener ciertos atributos, como oído, vista, manos, rostro, misericordia, ira, establecerse en el Trono, etc. Pero Él se disocia de las limitaciones de los atributos humanos o la imaginación humana. La correcta creencia islámica implica tener fe en la existencia de estos atributos tal como Dios los ha descrito, sin aplicarles ningún significado alegórico ni intentar explicar cómo una cierta cualidad puede ser, ni compararlos con los seres creados ni negar dicha cualidad. Sus atributos son acordes a Su divinidad, ya que Él mismo dice “No hay nada ni nadie semejante a Dios”. (42:11) 
-hizo de éste siete cielos: Ver Corán 23:86 y su comentario.
+[^1]: Dios en el Corán afirma tener ciertos atributos, como oído, vista, manos, rostro, misericordia, ira, establecerse en el Trono, etc. Pero Él se disocia de las limitaciones de los atributos humanos o la imaginación humana. La correcta creencia islámica implica tener fe en la existencia de estos atributos tal como Dios los ha descrito, sin aplicarles ningún significado alegórico ni intentar explicar cómo una cierta cualidad puede ser, ni compararlos con los seres creados ni negar dicha cualidad. Sus atributos son acordes a Su divinidad, ya que Él mismo dice “No hay nada ni nadie semejante a Dios”. (42:11)
+
+[^2]: Ver Corán 23:86 y su comentario.
 
 # 37
 
@@ -186,10 +188,11 @@ Dijo: "¡Oh Adán! Infórmales sobre sus nombres". Y cuando les hubo informado s
 
 # 41
 
-Pero cuando dije a los ángeles: "¡Prostérnense ante Adán!" Todos se prosternaron excepto Iblís, que se negó y fue soberbio, y se convirtió en uno de los incrédulos.
+Pero cuando dije a los ángeles: "¡Prostérnense ante Adán!" Todos se prosternaron excepto Iblís[^2], que se negó y fue soberbio, y se convirtió en uno de los incrédulos.[^1]
 
-“¡Prostérnense ante Adán!”: La prosternación era para mostrar obediencia a la orden de Dios, y no para adorar a Adán. 
- Iblís: Nombre del demonio, que era originalmente un yinn (o genio) y no un ángel como algunos creen erróneamente. Tal como se menciona en 18:50.
+[^1]: La prosternación era para mostrar obediencia a la orden de Dios, y no para adorar a Adán.
+
+[^2]: Nombre del demonio, que era originalmente un yinn (o genio) y no un ángel como algunos creen erróneamente. Tal como se menciona en 18:50.
 
 # 42
 
@@ -205,9 +208,9 @@ Pero le fueron inspiradas a Adán unas palabras de su Señor [para que pudiera e
 
 # 45
 
-Dije: "¡Desciendan todos de él! Cuando les llegue de Mí una guía, quienes la sigan no habrán de sentir temor ni tristeza.
+Dije: "¡Desciendan todos de él![^1] Cuando les llegue de Mí una guía, quienes la sigan no habrán de sentir temor ni tristeza.
 
-¡Desciendan todos de él!: Del Paraíso, y habiten junto a su descendencia en la Tierra.
+[^1]: Del Paraíso, y habiten junto a su descendencia en la Tierra.
 
 # 46
 
@@ -215,16 +218,17 @@ Pero quienes no crean y desmientan Mis signos serán los habitantes del Fuego, d
 
 # 47
 
-¡Oh, Pueblo de Israel! Recuerden los beneficios con los que los agracié, y cumplan con su compromiso que Yo cumpliré con el Mío, pero tengan temor devocional solo de Mí.
+¡Oh, Pueblo de Israel[^1]! Recuerden los beneficios con los que los agracié, y cumplan con su compromiso que Yo cumpliré con el Mío, pero tengan temor devocional solo de Mí.
 
-Pueblo de Israel: Se refiere a los descendientes del Profeta Jacob, que fueron llamados judíos, y que se negaron a seguir al Profeta Jesús, la paz sea con él, y luego negaron también al Profeta Mujámmad, que la paz y bendiciones de Dios sean con él.
+[^1]: Se refiere a los descendientes del Profeta Jacob, que fueron llamados judíos, y que se negaron a seguir al Profeta Jesús, la paz sea con él, y luego negaron también al Profeta Mujámmad, que la paz y bendiciones de Dios sean con él.
 
 # 48
 
-Y crean en lo que he revelado en confirmación de lo que ya habían recibido y no sean los primeros en negarlo. No vendan Mis preceptos por un precio vil, y tengan temor devocional solo de Mí.
+Y crean en lo que he revelado[^1] en confirmación de lo que ya habían recibido[^2] y no sean los primeros en negarlo. No vendan Mis preceptos por un precio vil, y tengan temor devocional solo de Mí.
 
-lo que he revelado: El Evangelio y el Corán.
- lo que ya habían recibido: La Tora.
+[^1]: El Evangelio y el Corán.
+
+[^2]: La Tora.
 
 # 49
 
@@ -232,9 +236,9 @@ Y no mezclen la verdad con falsedades ni oculten la verdad a sabiendas.
 
 # 50
 
-Cumplan con la oración, paguen el zakat y prostérnense con los que se prosternan [adorando a Dios].
+Cumplan con la oración, paguen el zakat[^1] y prostérnense con los que se prosternan [adorando a Dios].
 
-el zakat: Contribución social anual destinada a mejorar la condición de ciertos sectores de la sociedad, como los pobres, los necesitados, los endeudados, los viajeros insolventes, etc. (ver Corán 9:60), que deben dar aquellos cuyos bienes ahorrados alcanzan un monto determinado pasado un año. El objetivo del zakat no consiste solamente en reunir bienes materiales y donárselos a los pobres y necesitados. El objetivo principal es que el ser humano logre superar su ambición por los bienes materiales; para que estén al servicio del ser humano y no el ser humano al servicio de ellos. El zakat fue prescripto para purificar a quien lo da y a quien lo recibe. Aunque el zakat parezca una disminución en los bienes de quien lo da, en realidad es un crecimiento por las bendiciones que recaen sobre los bienes restantes y el incremento en la fe de quien cumple con esta obligación. El zakat también implica un crecimiento en el carácter y en los modales de la persona, pues es esfuerzo y entrega. El zakat consiste en dar en caridad algo muy querido para la persona, como lo son sus bienes, con la esperanza de obtener algo más querido aún: la complacencia de Dios. El sistema económico en el Islam se basa en reconocer que Dios es el único y original dueño de todos los bienes materiales y que tiene la exclusiva potestad de dictar las formas de adquisición de estos bienes y los deberes y derechos que conlleva esta adquisición, su cuantificación, su especificación, sus fuentes y sus destinatarios. El zakat es un poderoso puente que une a ricos y pobres, purifica el ego, enriquece el corazón y logra el establecimiento de la justicia social, la fraternidad y la seguridad.
+[^1]: Contribución social anual destinada a mejorar la condición de ciertos sectores de la sociedad, como los pobres, los necesitados, los endeudados, los viajeros insolventes, etc. (ver Corán 9:60), que deben dar aquellos cuyos bienes ahorrados alcanzan un monto determinado pasado un año. El objetivo del zakat no consiste solamente en reunir bienes materiales y donárselos a los pobres y necesitados. El objetivo principal es que el ser humano logre superar su ambición por los bienes materiales; para que estén al servicio del ser humano y no el ser humano al servicio de ellos. El zakat fue prescripto para purificar a quien lo da y a quien lo recibe. Aunque el zakat parezca una disminución en los bienes de quien lo da, en realidad es un crecimiento por las bendiciones que recaen sobre los bienes restantes y el incremento en la fe de quien cumple con esta obligación. El zakat también implica un crecimiento en el carácter y en los modales de la persona, pues es esfuerzo y entrega. El zakat consiste en dar en caridad algo muy querido para la persona, como lo son sus bienes, con la esperanza de obtener algo más querido aún: la complacencia de Dios. El sistema económico en el Islam se basa en reconocer que Dios es el único y original dueño de todos los bienes materiales y que tiene la exclusiva potestad de dictar las formas de adquisición de estos bienes y los deberes y derechos que conlleva esta adquisición, su cuantificación, su especificación, sus fuentes y sus destinatarios. El zakat es un poderoso puente que une a ricos y pobres, purifica el ego, enriquece el corazón y logra el establecimiento de la justicia social, la fraternidad y la seguridad.
 
 # 51
 
@@ -246,9 +250,9 @@ Busquen socorro en la paciencia y la oración. El cumplimiento de la oración es
 
 # 53
 
-tienen certeza del encuentro con su Señor y saben que retornarán a Él.
+tienen certeza del encuentro con su Señor y saben que retornarán a Él.[^1]
 
-Para ser juzgados por sus creencias y acciones.
+[^1]: Para ser juzgados por sus creencias y acciones.
 
 # 54
 
@@ -256,15 +260,15 @@ Para ser juzgados por sus creencias y acciones.
 
 # 55
 
-Y teman el día en que ninguna persona pueda beneficiarse de otra ni se acepte intercesión o compensación alguna, y nadie sea auxiliado.
+Y teman el día en que ninguna persona pueda beneficiarse de otra ni se acepte intercesión o compensación alguna[^1], y nadie sea auxiliado.
 
-ni se acepte intercesión o compensación alguna: Alusión a la doctrina cristiana de la redención y a la concepción judía de que “el pueblo elegido” estaría exento del castigo en el Día del Juicio.
+[^1]: Alusión a la doctrina cristiana de la redención y a la concepción judía de que “el pueblo elegido” estaría exento del castigo en el Día del Juicio.
 
 # 56
 
-Y [recuerden] cuando salvé a sus antepasados de las huestes del Faraón, que los sometían a crueles castigos; degollaban a sus hijos varones [recién nacidos] y dejaban con vida a sus hijas mujeres [para sojuzgarlas]. Esto era una prueba difícil de su Señor.
+Y [recuerden] cuando salvé a sus antepasados de las huestes del Faraón, que los sometían a crueles castigos; degollaban a sus hijos varones [recién nacidos] y dejaban con vida a sus hijas mujeres[^1] [para sojuzgarlas]. Esto era una prueba difícil de su Señor.
 
-dejaban con vida a sus hijas mujeres: Ver en la Biblia Éxodo 1:15-22.
+[^1]: Ver en la Biblia Éxodo 1:15-22.
 
 # 57
 
@@ -272,10 +276,11 @@ Y [recuerden] cuando dividí el mar y los salvé, ahogando a las huestes del Far
 
 # 58
 
-Y [recuerden que] cité a Moisés durante cuarenta noches, y cuando se ausentó ustedes tomaron el becerro, obrando injustamente.
+Y [recuerden que] cité a Moisés durante cuarenta noches, y cuando se ausentó ustedes tomaron el becerro[^1], obrando injustamente[^2].
 
-el becerro: De oro, adorándolo. 
-obrando injustamente: Porque todos los actos de adoración y devoción se deben solo a Dios, Quien es el Creador de los cielos y de la Tierra, el Sustentador, Quien escucha las súplicas y responde a ellas, y por lo tanto es el único que merece ser adorado.
+[^1]: De oro, adorándolo.
+
+[^2]: Porque todos los actos de adoración y devoción se deben solo a Dios, Quien es el Creador de los cielos y de la Tierra, el Sustentador, Quien escucha las súplicas y responde a ellas, y por lo tanto es el único que merece ser adorado.
 
 # 59
 
@@ -319,12 +324,13 @@ Y [recuerden] cuando dijeron: "¡Oh, Moisés! No podremos seguir tolerando una s
 
 # 69
 
-Quienes creyeron, los judíos, los cristianos y los sabeos que hayan tenido fe en Dios, en el Día del Juicio Final y hayan obrado correctamente, obtendrán su recompensa junto a su Señor, y no temerán ni se entristecerán.
+Quienes creyeron[^1], los judíos, los cristianos y los sabeos[^2] que hayan tenido fe en Dios, en el Día del Juicio Final y hayan obrado correctamente, obtendrán su recompensa junto a su Señor, y no temerán ni se entristecerán[^3].
 
-Quienes creyeron: Los que fueron creyentes en los Mensajes que trajeron los profetas anteriores a Moisés. 
-los sabeos: Los Sabeos son monoteístas que vivieron antes de los primeros judíos y cristianos, o los monoteístas que no seguían una religión en particular.
- 
-no temerán ni se entristecerán: Hasta antes de la llegada del último Profeta, ya que luego de la venida de Mujámmad, que la paz y las bendiciones de Dios sean con él, Dios no aceptará otra religión que el Islam, como se menciona en el Corán (3:85).
+[^1]: Los que fueron creyentes en los Mensajes que trajeron los profetas anteriores a Moisés.
+
+[^2]: Los Sabeos son monoteístas que vivieron antes de los primeros judíos y cristianos, o los monoteístas que no seguían una religión en particular.
+
+[^3]: Hasta antes de la llegada del último Profeta, ya que luego de la venida de Mujámmad, que la paz y las bendiciones de Dios sean con él, Dios no aceptará otra religión que el Islam, como se menciona en el Corán (3:85).
 
 # 70
 
@@ -336,10 +342,11 @@ Pero luego volvieron sobre sus pasos, y si no fuera por la gracia y misericordia
 
 # 72
 
-Ellos saben lo que ocurrió a los que transgredieron el sábado; [les dije]: "Sean monos despreciables".
+Ellos saben lo que ocurrió a los que transgredieron el sábado[^1]; [les dije]: "Sean monos despreciables".[^2]
 
-el sábado: El sábado, según la ley descendida al pueblo judío, debía ser reservado a la devoción y el culto. Eran prohibidas todas las transacciones económicas, el trabajo físico, cocinar, cazar, etc. La transgresión a la que se hace referencia es sobre un engaño que intentaron hacer, al tender las redes para pescar el viernes, y recogerlas el domingo, pero Dios los condenó por jugar con la ley. 
- “Sean monos despreciables”: Este castigo fue únicamente para los que cometieron esa violación de la ley, no para todos los judíos.
+[^1]: El sábado, según la ley descendida al pueblo judío, debía ser reservado a la devoción y el culto. Eran prohibidas todas las transacciones económicas, el trabajo físico, cocinar, cazar, etc. La transgresión a la que se hace referencia es sobre un engaño que intentaron hacer, al tender las redes para pescar el viernes, y recogerlas el domingo, pero Dios los condenó por jugar con la ley.
+
+[^2]: Este castigo fue únicamente para los que cometieron esa violación de la ley, no para todos los judíos.
 
 # 73
 
@@ -367,16 +374,17 @@ Dijo [Moisés]: "Él dice que debe ser una vaca que no haya sido utilizada para 
 
 # 79
 
-Y [recuerden] cuando mataron a un hombre y disputaron, Dios reveló lo que [algunos] ocultaban.
+Y [recuerden] cuando mataron a un hombre y disputaron[^1], Dios reveló lo que [algunos] ocultaban.
 
-disputaron: Acerca del criminal, haciendo acusaciones cruzadas.
+[^1]: Acerca del criminal, haciendo acusaciones cruzadas.
 
 # 80
 
-Entonces dije: "Golpéenlo con una parte de ella". De la misma manera Dios resucita a los muertos y les muestra Sus milagros para que razonen.
+Entonces dije: "Golpéenlo[^1] con una parte de ella[^2]". De la misma manera Dios resucita a los muertos y les muestra Sus milagros para que razonen.
 
-Golpéenlo: Al cuerpo de la víctima asesinada. 
-con una parte de ella: De la vaca ofrendada, y así Dios le dio vida al cuerpo, que delató a quien lo había asesinado, y luego volvió a morir.
+[^1]: Al cuerpo de la víctima asesinada.
+
+[^2]: De la vaca ofrendada, y así Dios le dio vida al cuerpo, que delató a quien lo había asesinado, y luego volvió a morir.
 
 # 81
 
@@ -400,15 +408,15 @@ Entre ellos hay iletrados sin conocimiento que no conocen el Libro, que siguen s
 
 # 86
 
-¡Ay de aquellos que escriben el Libro con sus manos y luego dicen: "Esto proviene de Dios", para venderlo a vil precio! ¡Ay de ellos por lo que han escrito sus manos! ¡Ay de ellos por lo que obtuvieron!
+¡Ay de aquellos que escriben el Libro con sus manos y luego dicen: "Esto proviene de Dios", para venderlo a vil precio! ¡Ay de ellos por lo que han escrito sus manos! ¡Ay de ellos por lo que obtuvieron![^1]
 
-Ver Jeremías 8:8: “¿Cómo se atreven a decir: ‘Somos sabios; la ley del Señor nos apoya’, si la pluma engañosa de los escribas la ha falsificado?” (NVI)
+[^1]: 8: “¿Cómo se atreven a decir: ‘Somos sabios; la ley del Señor nos apoya’, si la pluma engañosa de los escribas la ha falsificado?” (NVI)
 
 # 87
 
-Dicen [estos hijos de Israel]: "El fuego no nos quemará sino días contados". Diles: "¿Acaso tienen una promesa de Dios?" Sepan que Dios no falta a Sus promesas. ¿O acaso están diciendo de Dios algo que no saben?
+Dicen [estos hijos de Israel]: "El fuego no nos quemará sino días contados". Diles: "¿Acaso tienen una promesa de Dios?" Sepan que Dios no falta a Sus promesas. ¿O acaso están diciendo de Dios algo que no saben?[^1]
 
-“El fuego no nos quemará sino días contados”: La mayoría de los rabinos piensan que las almas no son torturadas en el Infierno eternamente; dicen que lo más que la persona puede estar allí son once meses, como una rara excepción. Esta es la razón por la cual los judíos aun cuando están de duelo por la muerte de un ser querido, no recitarán las plegarias de duelo (kadish) por más de once meses.
+[^1]: La mayoría de los rabinos piensan que las almas no son torturadas en el Infierno eternamente; dicen que lo más que la persona puede estar allí son once meses, como una rara excepción. Esta es la razón por la cual los judíos aun cuando están de duelo por la muerte de un ser querido, no recitarán las plegarias de duelo (kadish) por más de once meses.
 
 # 88
 
@@ -424,9 +432,9 @@ Y [recuerden] cuando celebré el pacto con el Pueblo de Israel: "Adoren solo a D
 
 # 91
 
-Y [recuerden] cuando celebré un pacto con ustedes: "No derramarán su sangre ni se expulsarán de sus hogares", lo aceptaron y fueron testigos de ello.
+Y [recuerden] cuando celebré un pacto con ustedes: "No derramarán su sangre[^1] ni se expulsarán de sus hogares", lo aceptaron y fueron testigos de ello.
 
-No derramarán su sangre: Matándose unos a otros sin causa justa.
+[^1]: Matándose unos a otros sin causa justa.
 
 # 92
 
@@ -434,15 +442,15 @@ Pero fueron ustedes mismos quienes mataron y expulsaron a algunos de los suyos d
 
 # 93
 
-Esos son quienes compraron la vida mundanal a cambio de la otra. A ellos no se les aliviará el castigo ni tendrán socorredores.
+Esos son quienes compraron la vida mundanal a cambio de la otra[^1]. A ellos no se les aliviará el castigo ni tendrán socorredores.
 
-a cambio de la otra: La recompensa del más allá.
+[^1]: La recompensa del más allá.
 
 # 94
 
-Y revelé a Moisés el Libro, y después de él envié Mensajeros; y concedí a Jesús, el hijo de María, milagros evidentes y lo fortalecí con el Espíritu Santo [el ángel Gabriel]. ¿No es cierto acaso que cada vez que se les presentaba un Mensajero que no satisfacía sus deseos se comportaban con soberbia, desmintiendo a unos y matando a otros?
+Y revelé a Moisés el Libro, y después de él envié Mensajeros; y concedí a Jesús, el hijo de María, milagros evidentes y lo fortalecí con el Espíritu Santo [el ángel Gabriel]. ¿No es cierto acaso que cada vez que se les presentaba un Mensajero que no satisfacía sus deseos se comportaban con soberbia, desmintiendo a unos y matando a otros?[^1]
 
-Ver Mateo 23:37, “¡Jerusalén, Jerusalén, que matas a los profetas, y apedreas a los que son enviados a ti!”
+[^1]: 37, “¡Jerusalén, Jerusalén, que matas a los profetas, y apedreas a los que son enviados a ti!”
 
 # 95
 
@@ -502,9 +510,9 @@ Cuando se les presentó el Mensajero de Dios corroborando lo que ya se les habí
 
 # 109
 
-Pero sí seguían lo que recitaban los demonios durante el reinado de Salomón. Sepan que Salomón no cayó en la incredulidad sino que fueron los demonios quienes enseñaban a la gente la hechicería y la magia que transmitieron los ángeles Harút y Marút en Babilonia. Ellos no le enseñaban a nadie sin antes advertirle: "Nosotros somos una tentación, no caigan en la incredulidad". A pesar de la advertencia, aprendieron de ellos cómo separar al hombre de su esposa, aunque no podían perjudicar a nadie sin el permiso de Dios. Lo que aprendían los perjudicaba y no los beneficiaba. Pero los hijos de Israel sabían que quien practicara la hechicería no tendría éxito en la otra vida. ¡Qué mal vendieron sus almas! Si supieran.
+Pero sí seguían lo que recitaban los demonios durante el reinado de Salomón. Sepan que Salomón no cayó en la incredulidad[^1] sino que fueron los demonios quienes enseñaban a la gente la hechicería y la magia que transmitieron los ángeles Harút y Marút en Babilonia. Ellos no le enseñaban a nadie sin antes advertirle: "Nosotros somos una tentación, no caigan en la incredulidad". A pesar de la advertencia, aprendieron de ellos cómo separar al hombre de su esposa, aunque no podían perjudicar a nadie sin el permiso de Dios. Lo que aprendían los perjudicaba y no los beneficiaba. Pero los hijos de Israel sabían que quien practicara la hechicería no tendría éxito en la otra vida. ¡Qué mal vendieron sus almas! Si supieran.
 
-Salomón no cayó en la incredulidad: Salomón no practicó la magia ni la hechicería, así como también es inocente de las acusaciones que le hacen algunos autores de La Biblia y la literatura judía extrabíblica.
+[^1]: Salomón no practicó la magia ni la hechicería, así como también es inocente de las acusaciones que le hacen algunos autores de La Biblia y la literatura judía extrabíblica.
 
 # 110
 
@@ -512,9 +520,9 @@ Si hubieran creído y temido devocionalmente a Dios, la recompensa de Dios hubie
 
 # 111
 
-¡Oh, creyentes! No digan [al Mensajero de Dios]: "Rá‘ina", sino [que digan]: "Undhurna", y obedezcan [-lo]. Los que rechacen el mensaje recibirán un castigo doloroso.
+¡Oh, creyentes! No digan [al Mensajero de Dios][^1]: "Rá‘ina", sino [que digan]: "Undhurna", y obedezcan [-lo]. Los que rechacen el mensaje recibirán un castigo doloroso.
 
-No digan [al Mensajero de Dios]: “Rá‘ina”, sino [que digan]: “Undhurna”: La palabra rá’ina راعِنا en árabe significa literalmente “considéranos”, es decir, danos tiempo para oírte y escúchanos. Algunos judíos de Medina utilizaban la misma palabra pero como un insulto. Por lo tanto, a los creyentes se les ordenó evitar esta expresión y en su lugar utilizar la palabra undhurna أنظرنا , es decir, “espéranos [para poder comprender]”.
+[^1]: “Rá‘ina”, sino [que digan]: “Undhurna”: La palabra rá’ina راعِنا en árabe significa literalmente “considéranos”, es decir, danos tiempo para oírte y escúchanos. Algunos judíos de Medina utilizaban la misma palabra pero como un insulto. Por lo tanto, a los creyentes se les ordenó evitar esta expresión y en su lugar utilizar la palabra undhurna أنظرنا , es decir, “espéranos [para poder comprender]”.
 
 # 112
 
@@ -546,9 +554,9 @@ Y dicen: "Solo entrará al Paraíso quien sea judío o cristiano". Esos son sus 
 
 # 119
 
-Pero no es así, porque quienes sometan su voluntad a Dios y hagan el bien obtendrán su recompensa junto a su Señor, y no sentirán temor ni tristeza.
+Pero no es así, porque quienes sometan su voluntad a Dios[^1] y hagan el bien obtendrán su recompensa junto a su Señor, y no sentirán temor ni tristeza.
 
-quienes sometan su voluntad a Dios: Se entreguen a Él completamente.
+[^1]: Se entreguen a Él completamente.
 
 # 120
 
@@ -560,15 +568,15 @@ Dicen los judíos: "Los cristianos no tienen bases", y los cristianos dicen: "Lo
 
 # 122
 
-A Dios pertenece el oriente y el occidente, y adondequiera que dirijan el rostro [durante la oración], allí se encuentra el rostro de Dios. Dios es Vasto, todo lo conoce.
+A Dios pertenece el oriente y el occidente, y adondequiera que dirijan el rostro [durante la oración], allí se encuentra el rostro de Dios[^1]. Dios es Vasto, todo lo conoce.
 
-allí se encuentra el rostro de Dios: Ver Corán 2:19 y su comentario.
+[^1]: Ver Corán 2:19 y su comentario.
 
 # 123
 
-Dicen: "Dios ha tenido un hijo". ¡Glorificado sea! A Él pertenece cuanto hay en los cielos y en la Tierra, todo se somete a Él.
+Dicen: "Dios ha tenido un hijo". ¡Glorificado sea[^1]! A Él pertenece cuanto hay en los cielos y en la Tierra, todo se somete a Él.
 
-Glorificado sea: Subhanahu سُبْحَانهُ significa: “Glorificado sea, Él es inocente de cuanto Le es atribuido falsamente”.
+[^1]: Subhanahu سُبْحَانهُ significa: “Glorificado sea, Él es inocente de cuanto Le es atribuido falsamente”.
 
 # 124
 
@@ -588,9 +596,9 @@ Ni los judíos ni los cristianos estarán [completamente] satisfechos contigo ha
 
 # 128
 
-Aquellos a quienes he confiado el Libro, si fueran consecuentes con la versión original del mismo, habrían creído [en el Corán]. Pero quienes lo nieguen, ellos serán los perdedores.
+Aquellos a quienes he confiado el Libro, si fueran consecuentes con la versión original del mismo[^1], habrían creído [en el Corán]. Pero quienes lo nieguen, ellos serán los perdedores.
 
-si fueran consecuentes con la versión original del mismo: Poniendo en práctica sus preceptos y enseñanzas.
+[^1]: Poniendo en práctica sus preceptos y enseñanzas.
 
 # 129
 
@@ -598,9 +606,9 @@ si fueran consecuentes con la versión original del mismo: Poniendo en práctica
 
 # 130
 
-Teman el día que ningún alma pueda beneficiar otra alma, no se acepte compensación ni intercesión alguna, y no sean auxiliados.
+Teman el día que ningún alma pueda beneficiar otra alma[^1], no se acepte compensación ni intercesión alguna, y no sean auxiliados.
 
-el día que ningún alma pueda beneficiar otra alma: Ver Corán 2:48 y su comentario.
+[^1]: Ver Corán 2:48 y su comentario.
 
 # 131
 
@@ -608,9 +616,9 @@ Y [recuerda, oh, Mujámmad] cuando Abraham fue puesto a prueba por su Señor con
 
 # 132
 
-Y [recuerden] cuando hice de La Casa [la Ka‘bah] un lugar de reunión y refugio para la gente. "[Oh creyentes] Tomen el sitial de Abraham como lugar de oración". Y cuando indiqué a Abraham e Ismael: "Purifiquen Mi Casa para quienes vengan a hacer el rito de la circunvalación y el retiro espiritual, y los que se inclinen y prosternen durante su oración".
+Y [recuerden] cuando hice de La Casa [la Ka‘bah] un lugar de reunión y refugio para la gente. "[Oh creyentes] Tomen el sitial de Abraham[^1] como lugar de oración". Y cuando indiqué a Abraham e Ismael: "Purifiquen Mi Casa para quienes vengan a hacer el rito de la circunvalación y el retiro espiritual, y los que se inclinen y prosternen durante su oración".
 
-el sitial de Abraham: El sitial de Abraham es el lugar donde Abraham se apoyaba durante la construcción de la Ka’bah, y allí quedaron grabadas las marcas de sus pies.
+[^1]: El sitial de Abraham es el lugar donde Abraham se apoyaba durante la construcción de la Ka’bah, y allí quedaron grabadas las marcas de sus pies.
 
 # 133
 
@@ -634,15 +642,15 @@ Y [recuerden] cuando Abraham e Ismael levantaron los cimientos de La Casa, dijer
 
 # 138
 
-Y [recuerden] cuando le dijo su Señor: "Entrégame tu voluntad", respondió: "Le entrego mi voluntad al Señor del Universo".
+Y [recuerden] cuando le dijo su Señor: "Entrégame tu voluntad[^1]", respondió: "Le entrego mi voluntad al Señor del Universo".
 
-Entrégame tu voluntad: Literalmente: “Hazte musulmán”.
+[^1]: Literalmente: “Hazte musulmán”.
 
 # 139
 
-Y esto fue lo que Abraham y Jacob legaron a sus hijos: "¡Oh, hijos míos! Dios les ha elegido esta religión, y no mueran sin haber entregado su voluntad [a Dios]".
+Y esto fue lo que Abraham y Jacob legaron a sus hijos: "¡Oh, hijos míos! Dios les ha elegido esta religión, y no mueran sin haber entregado su voluntad [a Dios]".[^1]
 
-Literalmente: “No mueran sino musulmanes”, ya que todos los profetas fueron en ese sentido musulmanes, es decir, entregados a la voluntad de Dios.
+[^1]: “No mueran sino musulmanes”, ya que todos los profetas fueron en ese sentido musulmanes, es decir, entregados a la voluntad de Dios.
 
 # 140
 
@@ -650,9 +658,9 @@ Literalmente: “No mueran sino musulmanes”, ya que todos los profetas fueron 
 
 # 141
 
-Aquella nación ya desapareció y recibió lo que merecía, y ustedes recibirán lo que merezcan, y no se les preguntará por lo que ellos hicieron.
+Aquella nación ya desapareció y recibió lo que merecía, y ustedes recibirán lo que merezcan, y no se les preguntará por lo que ellos hicieron.[^1]
 
-Esto establece el principio Islámico de la responsabilidad individual. Nadie responde ni carga con los pecados cometidos por otra persona.
+[^1]: Esto establece el principio Islámico de la responsabilidad individual. Nadie responde ni carga con los pecados cometidos por otra persona.
 
 # 142
 
@@ -660,9 +668,9 @@ Dijeron [la Gente del Libro]: "Sean judíos o cristianos, que así estarán en l
 
 # 143
 
-Digan: "Creemos en Dios, en lo que nos fue revelado a nosotros, en lo que fue revelado a Abraham, a Ismael, a Isaac, a Jacob y a las tribus, y en lo que Dios reveló a Moisés, a Jesús y a los demás Profetas. No discriminamos entre ellos, y entregamos a Dios nuestra voluntad [siendo musulmanes].
+Digan: "Creemos en Dios, en lo que nos fue revelado a nosotros, en lo que fue revelado a Abraham, a Ismael, a Isaac, a Jacob y a las tribus[^1], y en lo que Dios reveló a Moisés, a Jesús y a los demás Profetas. No discriminamos entre ellos, y entregamos a Dios nuestra voluntad [siendo musulmanes].
 
-las tribus: Las doce tribus de Israel, que eran descendientes de los hijos de Jacob.
+[^1]: Las doce tribus de Israel, que eran descendientes de los hijos de Jacob.
 
 # 144
 
@@ -670,9 +678,9 @@ Si creen en lo mismo que ustedes creen habrán seguido la guía correcta; pero s
 
 # 145
 
-[Digan: "Seguimos] la religión de Dios. ¿Y qué mejor religión que la de Dios? Y nosotros solo Lo adoramos a Él".
+[Digan: "Seguimos] la religión de Dios[^1]. ¿Y qué mejor religión que la de Dios? Y nosotros solo Lo adoramos a Él".
 
-la religión de Dios: La religión primigenia que Dios colocó como innata en los seres humanos.
+[^1]: La religión primigenia que Dios colocó como innata en los seres humanos.
 
 # 146
 
@@ -680,9 +688,9 @@ Di: "¿Por qué discuten con nosotros acerca de Dios, siendo que Él es el Seño
 
 # 147
 
-¿Acaso van a decir que Abraham, Ismael, Isaac, Jacob y las doce tribus eran judíos o cristianos? Di: "¿Acaso ustedes saben más que Dios?" ¿Existe alguien más injusto que quien oculta un testimonio que ha recibido de Dios? Dios no está desatento de lo que hacen.
+¿Acaso van a decir que Abraham, Ismael, Isaac, Jacob y las doce tribus eran judíos o cristianos? Di: "¿Acaso ustedes saben más que Dios?" ¿Existe alguien más injusto que quien oculta un testimonio[^1] que ha recibido de Dios? Dios no está desatento de lo que hacen.
 
-quien oculta un testimonio: Que mencionaban las antiguas escrituras reveladas, donde figuraba la naturaleza de la religión de Dios y la venida del Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él.
+[^1]: Que mencionaban las antiguas escrituras reveladas, donde figuraba la naturaleza de la religión de Dios y la venida del Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él.
 
 # 148
 
@@ -694,9 +702,9 @@ Dirán algunas personas tontas: "¿Qué los hizo cambiar la orientación [en la 
 
 # 150
 
-Hice de ustedes una comunidad moderada y justa, a fin de que fueran testigos ante la humanidad, y fuera el Mensajero testigo de ustedes. Con el cambio del lugar hacia donde te orientabas [para orar], distinguí a los que toman partido por el Mensajero de aquellos que le dan la espalda. [Este cambio] fue algo difícil, salvo para aquellos a quienes Dios guió. Él no dejará de recompensarlos por su fe. Dios es compasivo y misericordioso con la gente.
+Hice de ustedes una comunidad moderada y justa, a fin de que fueran testigos ante la humanidad[^1], y fuera el Mensajero testigo de ustedes. Con el cambio del lugar hacia donde te orientabas [para orar], distinguí a los que toman partido por el Mensajero de aquellos que le dan la espalda. [Este cambio] fue algo difícil, salvo para aquellos a quienes Dios guió. Él no dejará de recompensarlos por su fe. Dios es compasivo y misericordioso con la gente.
 
-testigos ante la humanidad: De la llegada de los profetas anteriores y que transmitieron correctamente el mensaje del monoteísmo a sus pueblos.
+[^1]: De la llegada de los profetas anteriores y que transmitieron correctamente el mensaje del monoteísmo a sus pueblos.
 
 # 151
 
@@ -708,9 +716,9 @@ Pero aunque te presentes ante la Gente del Libro con todas las evidencias, no se
 
 # 153
 
-Aquellos a quienes concedí el Libro [judíos y cristianos] lo reconocen como reconocen a sus propios hijos. Algunos de ellos ocultan la verdad a sabiendas.
+Aquellos a quienes concedí el Libro [judíos y cristianos] lo reconocen[^1] como reconocen a sus propios hijos. Algunos de ellos ocultan la verdad a sabiendas.
 
-lo reconocen: Al Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, es decir, que saben de la veracidad de su Mensaje y que verdaderamente es un Profeta de Dios.
+[^1]: Al Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, es decir, que saben de la veracidad de su Mensaje y que verdaderamente es un Profeta de Dios.
 
 # 154
 
@@ -726,21 +734,21 @@ Y hacia donde quiera que salgas [en tus viajes] oriéntate hacia la Mezquita Sag
 
 # 157
 
-Y hacia donde quiera que salgas oriéntate hacia la Mezquita Sagrada, y dondequiera que estén oriéntense hacia ella, para que la gente no tenga argumento en su contra, excepto los injustos [idólatras de La Meca], pero no les teman a ellos, y témanme solo a Mí. Completaré sobre ustedes Mis gracias para que sean de los bien guiados.
+Y hacia donde quiera que salgas oriéntate hacia la Mezquita Sagrada, y dondequiera que estén oriéntense hacia ella, para que la gente no tenga argumento en su contra, excepto los injustos [idólatras de La Meca][^1], pero no les teman a ellos, y témanme solo a Mí. Completaré sobre ustedes Mis gracias para que sean de los bien guiados.
 
-[idólatras de La Meca]: Que argumentaban que como los musulmanes se dirigían para orar en dirección a ellos, en realidad se estaban inclinando ante sus dioses e ídolos.
+[^1]: Que argumentaban que como los musulmanes se dirigían para orar en dirección a ellos, en realidad se estaban inclinando ante sus dioses e ídolos.
 
 # 158
 
-De la misma manera envié un Mensajero de entre ustedes para que les transmitiera Mis preceptos y los purificase y enseñara el Libro y la sabiduría, y les enseñase lo que ignoraban.
+De la misma manera envié un Mensajero de entre ustedes para que les transmitiera Mis preceptos y los purificase y enseñara el Libro y la sabiduría[^1], y les enseñase lo que ignoraban.
 
-la sabiduría: La sabiduría enseñada por el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, se conoce con el nombre de Sunnah.
+[^1]: La sabiduría enseñada por el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, se conoce con el nombre de Sunnah.
 
 # 159
 
-Recuérdenme que Yo los recordaré; agradézcanme y no sean ingratos.
+Recuérdenme que Yo los recordaré; agradézcanme[^1] y no sean ingratos.
 
-agradézcanme: Los beneficios que les he concedido, especialmente la guía.
+[^1]: Los beneficios que les he concedido, especialmente la guía.
 
 # 160
 
@@ -752,11 +760,13 @@ Y no digan que quienes cayeron por la causa de Dios "están muertos", sino que e
 
 # 162
 
-Los pondremos a prueba con algo de temor, hambre, pérdida de bienes materiales, vidas y frutos, pero albricia a los pacientes.
+Los pondremos a prueba con algo de temor[^1], hambre, pérdida de bienes materiales, vidas y frutos[^2], pero albricia a los pacientes[^3].
 
-con algo de temor: A peligros inminentes. 
-pérdida de bienes materiales, vidas y frutos: Del esfuerzo personal. 
-albricia a los pacientes: Que recibirán una hermosa recompensa.
+[^1]: A peligros inminentes.
+
+[^2]: Del esfuerzo personal.
+
+[^3]: Que recibirán una hermosa recompensa.
 
 # 163
 
@@ -792,21 +802,21 @@ Su Dios es un Dios Único, no hay divinidad [con derecho a ser adorada] salvo É
 
 # 171
 
-En la creación de los cielos y de la Tierra, la sucesión de la noche y el día, el barco que surca el mar para provecho de la gente, el agua que Dios hace descender del cielo con la que da vida a la tierra árida, en la que diseminó toda clase de criaturas, y en la dirección de los vientos y el control de las nubes que están entre el cielo y la tierra, en todo ello hay signos para quienes razonan.
+En la creación de los cielos y de la Tierra, la sucesión de la noche y el día, el barco que surca el mar para provecho de la gente, el agua que Dios hace descender del cielo con la que da vida a la tierra árida, en la que diseminó toda clase de criaturas, y en la dirección de los vientos y el control de las nubes que están entre el cielo y la tierra, en todo ello hay signos[^1] para quienes razonan.
 
-hay signos: De que Él es el Creador y que solo Él merece ser adorado.
+[^1]: De que Él es el Creador y que solo Él merece ser adorado.
 
 # 172
 
-Existen personas que toman en lugar de Dios a otros que consideran iguales [a Dios], y los aman como solo debe amarse a Dios; pero los creyentes aman más a Dios [de lo que éstos aman a sus divinidades]. Ya sabrán los injustos cuando vean el suplicio que les espera, que a Dios pertenece el poder absoluto y que Dios es severo en el castigo.
+Existen personas que toman en lugar de Dios a otros que consideran iguales [a Dios][^1], y los aman como solo debe amarse a Dios; pero los creyentes aman más a Dios [de lo que éstos aman a sus divinidades]. Ya sabrán los injustos cuando vean el suplicio que les espera, que a Dios pertenece el poder absoluto y que Dios es severo en el castigo.
 
-a otros que consideran iguales [a Dios]: Los toman, es decir que dirigen a ellos lo que se debe dirigir a Dios, como las súplicas, los ruegos, el anhelo de salvación, la esperanza, el temor devocional, etc.
+[^1]: Los toman, es decir que dirigen a ellos lo que se debe dirigir a Dios, como las súplicas, los ruegos, el anhelo de salvación, la esperanza, el temor devocional, etc.
 
 # 173
 
-[Ellos deben considerar que el Día del Juicio] se desentenderán los líderes de sus seguidores, y todos verán el castigo y desaparecerá toda alianza entre ellos.
+[Ellos deben considerar que el Día del Juicio] se desentenderán los líderes[^1] de sus seguidores, y todos verán el castigo y desaparecerá toda alianza entre ellos.
 
-los líderes: De la incredulidad.
+[^1]: De la incredulidad.
 
 # 174
 
@@ -850,18 +860,21 @@ Eso [es lo que merecen] porque Dios reveló el Libro con la Verdad, pero quienes
 
 # 184
 
-La verdadera virtud no consiste en orientarse hacia el oriente o el occidente [durante la oración], sino que es piadoso quien cree en Dios, el Día del Juicio, los ángeles, el Libro, los Profetas, hace caridad a pesar del apego [que tiene por los bienes materiales] a los parientes, los huérfanos, los pobres, los viajeros insolventes, los mendigos, y colabora para liberar esclavos y cautivos. [Tiene piedad quien] hace la oración prescrita, paga el zakat, cumple con los compromisos contraídos, es paciente en la estrechez, la adversidad y ante la persecución. Ésos son los veraces en su fe y los verdaderos piadosos.
+La verdadera virtud[^1] no consiste en orientarse hacia el oriente o el occidente [durante la oración], sino que es piadoso quien cree en Dios, el Día del Juicio, los ángeles, el Libro, los Profetas, hace caridad a pesar del apego [que tiene por los bienes materiales] a los parientes, los huérfanos, los pobres, los viajeros insolventes, los mendigos, y colabora para liberar esclavos y cautivos. [Tiene piedad quien] hace la oración prescrita, paga el zakat, cumple con los compromisos contraídos, es paciente en la estrechez, la adversidad y ante la persecución. Ésos son los veraces en su fe y los verdaderos piadosos.
 
-La verdadera virtud: En árabe bir بِر : Virtud que inspira, por el amor a Dios, tierna devoción a los actos de culto y, por el amor al prójimo, actos de amor y compasión.
+[^1]: En árabe bir بِر : Virtud que inspira, por el amor a Dios, tierna devoción a los actos de culto y, por el amor al prójimo, actos de amor y compasión.
 
 # 185
 
-¡Oh, creyentes! Se ha establecido la retribución legal en caso de homicidio [doloso]: sea libre o esclavo, [sea hombre] o mujer. Pero si le es perdonada [al culpable] la pena por su hermano [en la fe], que pague la indemnización correspondiente en el plazo establecido de buena manera. Esto es una facilidad y una misericordia de su Señor. Pero quien después de eso [aceptando la indemnización] transgrediere [tratando de vengarse del homicida] tendrá un castigo doloroso.
+¡Oh, creyentes! Se ha establecido la retribución legal en caso de homicidio [doloso][^1]: sea libre o esclavo, [sea hombre] o mujer[^2]. Pero si le es perdonada [al culpable] la pena por su hermano [en la fe][^3], que pague la indemnización correspondiente en el plazo establecido de buena manera. Esto es una facilidad y una misericordia de su Señor. Pero quien después de eso [aceptando la indemnización] transgrediere [tratando de vengarse del homicida] tendrá un castigo doloroso[^4].
 
-homicidio [doloso]: El homicidio doloso es cuando una persona procede con la intención de quitar la vida a otra, empleando para ello un elemento que le sirva para matarlo. A diferencia de los homicidios preterintencional o culposo, donde no existe intensión de asesinar, sino negligencia o accidente. 
-[sea hombre] o mujer: Es decir, hombres, mujeres, libres y esclavos, todos reciben su castigo, y nadie puede pagar una pena por un crimen cometido por otra persona. 
-la pena por su hermano [en la fe]: Es decir, los familiares de la víctima o el apoderado legal pueden condonar por decisión propia la pena de muerte al culpable, accediendo a recibir una indemnización económica, o pueden perdonarlo completamente. 
- tendrá un castigo doloroso: En este mundo, por hacerse merecedor de la aplicación del castigo; o en el más allá, donde le espera el Infierno. Ver Corán 4:93.
+[^1]: El homicidio doloso es cuando una persona procede con la intención de quitar la vida a otra, empleando para ello un elemento que le sirva para matarlo. A diferencia de los homicidios preterintencional o culposo, donde no existe intensión de asesinar, sino negligencia o accidente.
+
+[^2]: Es decir, hombres, mujeres, libres y esclavos, todos reciben su castigo, y nadie puede pagar una pena por un crimen cometido por otra persona.
+
+[^3]: Es decir, los familiares de la víctima o el apoderado legal pueden condonar por decisión propia la pena de muerte al culpable, accediendo a recibir una indemnización económica, o pueden perdonarlo completamente.
+
+[^4]: En este mundo, por hacerse merecedor de la aplicación del castigo; o en el más allá, donde le espera el Infierno. Ver Corán 4:93.
 
 # 186
 
@@ -869,9 +882,9 @@ En [la aplicación de] la retribución legal está [la preservación de] la vida
 
 # 187
 
-Se ha establecido que cuando sientan la muerte acercarse y dejen bienes materiales, hagan un testamento a favor de sus padres y parientes en forma justa. Esto es una recomendación para los piadosos.
+Se ha establecido que cuando sientan la muerte acercarse y dejen bienes materiales, hagan un testamento a favor de sus padres y parientes en forma justa. Esto es una recomendación para los piadosos.[^1]
 
-La implicancia legal de este versículo fue abrogada, por la revelación en 4:11-12, que estipula porciones obligatorias en la herencia para los padres y parientes cercanos. Se permite dejar testamento, en especial para cubrir a los que no heredan por ley. Pero la validez del testamento está supeditada a las asignaciones exactas estipuladas en 4:11-12, y otros versículos del Corán que limitan la libertad del testador (para garantizar justicia) sin eliminarla. Si el testamento no se ajusta a la ley, se recurre a la conciliación entre los herederos (véase 2:182)
+[^1]: 11-12, que estipula porciones obligatorias en la herencia para los padres y parientes cercanos. Se permite dejar testamento, en especial para cubrir a los que no heredan por ley. Pero la validez del testamento está supeditada a las asignaciones exactas estipuladas en 4:11-12, y otros versículos del Corán que limitan la libertad del testador (para garantizar justicia) sin eliminarla. Si el testamento no se ajusta a la ley, se recurre a la conciliación entre los herederos (véase 2:182)
 
 # 188
 
@@ -879,9 +892,9 @@ Si los testigos al escuchar [el testamento] lo cambian después de haber oído l
 
 # 189
 
-Pero quien tema que el testador haya cometido un error o una injusticia, y haga una mediación entre las partes, no incurrirá en falta. Dios es Absolvedor, Misericordioso.
+Pero quien tema que el testador haya cometido un error o una injusticia, y haga una mediación entre las partes[^1], no incurrirá en falta. Dios es Absolvedor, Misericordioso.
 
-una mediación entre las partes: Llegando a un arreglo justo para todas las partes.
+[^1]: Llegando a un arreglo justo para todas las partes.
 
 # 190
 
@@ -901,10 +914,11 @@ Y si Mis siervos te preguntan por Mí [¡oh, Mujámmad!, diles] que estoy cerca 
 
 # 194
 
-Durante las noches del mes de ayuno les es lícito mantener relaciones [maritales] con sus mujeres. Ellas son su vestimenta, y ustedes la vestimenta de ellas. Dios sabe que se engañaban a sí mismos, por eso los perdonó y les hizo esta concesión. Ahora pueden mantener relaciones con ellas y aprovechar lo que Dios les ha prescrito. Coman y beban hasta que se distinga el hilo blanco [la luz del alba] del hilo negro [la oscuridad de la noche], y luego completen el ayuno hasta la noche, y no mantengan relaciones con ellas si están haciendo el retiro espiritual en las mezquitas. Éstos son los límites de Dios, no los transgredan. Así aclara Dios Sus signos a la gente para que alcancen la piedad.
+Durante las noches del mes de ayuno les es lícito mantener relaciones [maritales] con sus mujeres. Ellas son su vestimenta, y ustedes la vestimenta de ellas[^1]. Dios sabe que se engañaban a sí mismos[^2], por eso los perdonó y les hizo esta concesión. Ahora pueden mantener relaciones con ellas y aprovechar lo que Dios les ha prescrito. Coman y beban hasta que se distinga el hilo blanco [la luz del alba] del hilo negro [la oscuridad de la noche], y luego completen el ayuno hasta la noche, y no mantengan relaciones con ellas si están haciendo el retiro espiritual en las mezquitas. Éstos son los límites de Dios, no los transgredan. Así aclara Dios Sus signos a la gente para que alcancen la piedad.
 
-Ellas son su vestimenta, y ustedes la vestimenta de ellas: Esta bella imagen describe la relación entre el hombre y la mujer: la vestimenta es lo más cercano al cuerpo. Es lo que cubre, protege y da abrigo. Esta imagen nos habla sobre la interdependencia del uno con el otro. 
- Dios sabe que se engañaban a sí mismos: Antes de la revelación de este versículo, durante el mes del ayuno estaban prohibidas las relaciones sexuales, lo que resultaba arduo para algunos matrimonios, especialmente los jóvenes. Se daban, en consecuencia, algunas transgresiones secretas en la intimidad del hogar, que eran seguidas de remordimiento. Pero este versículo declara que las relaciones durante la noche son completamente lícitas durante Ramadán.
+[^1]: Esta bella imagen describe la relación entre el hombre y la mujer: la vestimenta es lo más cercano al cuerpo. Es lo que cubre, protege y da abrigo. Esta imagen nos habla sobre la interdependencia del uno con el otro.
+
+[^2]: Antes de la revelación de este versículo, durante el mes del ayuno estaban prohibidas las relaciones sexuales, lo que resultaba arduo para algunos matrimonios, especialmente los jóvenes. Se daban, en consecuencia, algunas transgresiones secretas en la intimidad del hogar, que eran seguidas de remordimiento. Pero este versículo declara que las relaciones durante la noche son completamente lícitas durante Ramadán.
 
 # 195
 
@@ -932,9 +946,9 @@ Combátanlos hasta que cese la opresión y puedan adorar tranquilamente a Dios [
 
 # 201
 
-Solo se puede combatir en un mes sagrado si son atacados durante el mismo, y para las violaciones [que hayan cometido] apliquen el principio de retribución igualitaria; así que si son agredidos, agredan tal como los agredieron [sin excederse]. Sigan las enseñanzas de Dios, y sepan que Dios está con los piadosos.
+Solo se puede combatir en un mes sagrado[^1] si son atacados durante el mismo, y para las violaciones [que hayan cometido] apliquen el principio de retribución igualitaria; así que si son agredidos, agredan tal como los agredieron [sin excederse]. Sigan las enseñanzas de Dios, y sepan que Dios está con los piadosos.
 
-en un mes sagrado: Los meses lunares sagrados son cuatro: Dhul-Qa’dah, Dhul-Jíyyah., Mujárram y Rayab.
+[^1]: Los meses lunares sagrados son cuatro: Dhul-Qa’dah, Dhul-Jíyyah., Mujárram y Rayab.
 
 # 202
 
@@ -942,12 +956,15 @@ Contribuyan a la causa de Dios [de buen grado] y no sean avaros, sino que hagan 
 
 # 203
 
-Completen la peregrinación mayor y menor en honor a Dios. Pero en caso de que algo les impida completarla, sacrifiquen el animal que puedan como ofrenda. No se rasuren la cabeza hasta que la ofrenda llegue al lugar de sacrificio. Si alguien está enfermo o sufre una dolencia en su cabeza [y se rasura] deberá expiar ayunando o dando limosna o sacrificando. Si hay seguridad [en el camino], entonces quien haga la peregrinación menor [durante los meses de la peregrinación mayor] y luego la peregrinación mayor, que sacrifique la ofrenda según sus posibilidades, y si no encuentra qué sacrificar o no dispone de medios, deberá ayunar tres días durante la peregrinación y siete a su regreso [a su lugar de origen]: en total diez días. Esto es para quienes no viven en las proximidades de la Mezquita Sagrada. Cumplan con los ritos y sepan que Dios es severo en el castigo.
+Completen la peregrinación mayor y menor en honor a Dios. Pero en caso de que algo les impida completarla, sacrifiquen el animal que puedan como ofrenda. No se rasuren la cabeza hasta que la ofrenda llegue al lugar de sacrificio. Si alguien está enfermo o sufre una dolencia en su cabeza [y se rasura] deberá expiar ayunando[^1] o dando limosna[^2] o sacrificando. Si hay seguridad [en el camino], entonces quien haga la peregrinación menor [durante los meses[^4] de la peregrinación mayor] y luego la peregrinación mayor, que sacrifique la ofrenda según sus posibilidades, y si no encuentra qué sacrificar o no dispone de medios, deberá ayunar tres días durante la peregrinación y siete a su regreso [a su lugar de origen]: en total diez días. Esto es para quienes no viven en las proximidades de la Mezquita Sagrada. Cumplan con los ritos y sepan que Dios es severo en el castigo.[^3]
 
-ayunando: Tres días. 
-dando limosna: Para alimentar a seis pobres. 
-Sacrificando: Un cordero. 
-durante los meses: Que son Shawal, Dhul-Qa’dah y diez días del mes de Dhul-Jíyyah.
+[^1]: Tres días.
+
+[^2]: Para alimentar a seis pobres.
+
+[^3]: Un cordero.
+
+[^4]: Que son Shawal, Dhul-Qa’dah y diez días del mes de Dhul-Jíyyah.
 
 # 204
 
@@ -955,9 +972,9 @@ La peregrinación se realiza en unos meses específicos, y quien se consagrara p
 
 # 205
 
-No cometen ninguna falta si buscan el sustento de su Señor [comerciando]. Cuando salgan en multitudes de [el valle de] ‘Arafat, y se encuentren en Al-Mash’ar Al-Harám, recuerden a Dios. Recuérdenlo en agradecimiento por haberlos guiado siendo que se encontraban extraviados.
+No cometen ninguna falta si buscan el sustento de su Señor [comerciando]. Cuando salgan en multitudes de [el valle de] ‘Arafat, y se encuentren en Al-Mash’ar Al-Harám[^1], recuerden a Dios. Recuérdenlo en agradecimiento por haberlos guiado siendo que se encontraban extraviados.
 
-Al-Mash’ar Al-Harám: El lugar sagrado, que se encuentra en el valle de Muzhdalifah.
+[^1]: El lugar sagrado, que se encuentra en el valle de Muzhdalifah.
 
 # 206
 
@@ -965,9 +982,9 @@ Luego avancen en multitudes por donde lo hace la gente e imploren el perdón de 
 
 # 207
 
-Y cuando hayan terminado con los ritos que deben realizar, celebren el nombre de Dios tal como celebran la memoria de sus padres, y más aún. [Pues] hay gente que dice: "¡Señor nuestro! Danos bienestar en esta vida"; pero no obtendrán nada en la otra vida.
+Y cuando hayan terminado con los ritos que deben realizar, celebren el nombre de Dios tal como celebran la memoria de sus padres, y más aún. [Pues] hay gente que dice: "¡Señor nuestro! Danos bienestar en esta vida[^1]"; pero no obtendrán nada en la otra vida.
 
-Danos bienestar en esta vida: Preocupándose solamente por asuntos mundanos.
+[^1]: Preocupándose solamente por asuntos mundanos.
 
 # 208
 
@@ -979,9 +996,9 @@ Pero entre ellos hay quienes dicen: "¡Señor nuestro! Danos bienestar en esta v
 
 # 210
 
-Recuerden a Dios los días determinados. Quien lo haga solo dos días no habrá incurrido en falta alguna, como tampoco quien permanezca más [hasta el tercero], siempre que tengan temor de Dios. Cumplan con lo que Dios les ha ordenado y sepan que serán congregados ante Él.
+Recuerden a Dios los días determinados[^1]. Quien lo haga solo dos días no habrá incurrido en falta alguna, como tampoco quien permanezca más [hasta el tercero], siempre que tengan temor de Dios. Cumplan con lo que Dios les ha ordenado y sepan que serán congregados ante Él.
 
-los días determinados: Los tres días posteriores al día del Eid Al-Akbar, llamados Aiám At-Tashríq.
+[^1]: Los tres días posteriores al día del Eid Al-Akbar, llamados Aiám At-Tashríq.
 
 # 211
 
@@ -1037,10 +1054,11 @@ Se les ha prescrito combatir aunque les desagrade. Es posible que les disguste a
 
 # 224
 
-Te preguntan si es lícito combatir en los meses sagrados. Diles: "Combatir en los meses sagrados es un sacrilegio, pero ante Dios es más grave aún apartar a la gente del sendero de Dios, negar Su verdad y expulsar a la gente de la Mezquita Sagrada". [Sepan] que la opresión es peor que matar [en un mes sagrado]. Y [sepan que los incrédulos] no dejarán de combatirlos, si pueden, hasta apartarlos de su religión. Y quien reniegue de su religión y muera en la incredulidad, sus obras habrán sido en vano, en esta vida y en el más allá. Ellos son los moradores del Fuego, donde permanecerán eternamente.
+Te preguntan si es lícito combatir en los meses sagrados[^1]. Diles: "Combatir en los meses sagrados es un sacrilegio, pero ante Dios es más grave aún apartar a la gente del sendero de Dios, negar Su verdad y expulsar a la gente de la Mezquita Sagrada". [Sepan] que la opresión[^2] es peor que matar [en un mes sagrado]. Y [sepan que los incrédulos] no dejarán de combatirlos, si pueden, hasta apartarlos de su religión. Y quien reniegue de su religión y muera en la incredulidad, sus obras habrán sido en vano, en esta vida y en el más allá. Ellos son los moradores del Fuego, donde permanecerán eternamente.
 
-los meses sagrados: Mujárram, Rayab, Dhul-Qa‘dah y Dhul-Jíyyah.
-la opresión: La opresión aquí significa impedir a la gente practicar libremente su religión.
+[^1]: Mujárram, Rayab, Dhul-Qa‘dah y Dhul-Jíyyah.
+
+[^2]: La opresión aquí significa impedir a la gente practicar libremente su religión.
 
 # 225
 
@@ -1048,10 +1066,11 @@ Aquellos que creyeron, emigraron y se esforzaron por la causa de Dios son quiene
 
 # 226
 
-Te preguntan acerca de los embriagantes y las apuestas. Diles: "Son de gran perjuicio, a pesar de que también hay en ellos algún beneficio para la gente, pero su perjuicio es mayor que su beneficio". Y te preguntan qué dar en caridad. Diles: "Lo que puedan permitirse". Así aclara Dios los preceptos para que reflexionen
+Te preguntan acerca de los embriagantes y las apuestas. Diles: "Son de gran perjuicio, a pesar de que también hay en ellos algún beneficio para la gente, pero su perjuicio es mayor que su beneficio[^1]". Y te preguntan qué dar en caridad. Diles: "Lo que puedan permitirse". Así aclara Dios los preceptos para que reflexionen[^2]
 
-pero su perjuicio es mayor que su beneficio: La implicancia legal de este versículo fue abrogada. Para encontrar la prohibición tajante de los embriagantes y las apuestas, ver 5:90-91. 
-“Lo que puedan permitirse”: Es decir, las caridades deben ser dadas luego de cumplir con las necesidades de quienes se tiene la responsabilidad de mantener.
+[^1]: La implicancia legal de este versículo fue abrogada. Para encontrar la prohibición tajante de los embriagantes y las apuestas, ver 5:90-91.
+
+[^2]: Es decir, las caridades deben ser dadas luego de cumplir con las necesidades de quienes se tiene la responsabilidad de mantener.
 
 # 227
 
@@ -1059,9 +1078,9 @@ sobre esta vida y el más allá. Y te preguntan acerca de cómo deben obrar quie
 
 # 228
 
-No se casen con [mujeres] idólatras a menos que ellas crean [en el monoteísmo], ya que una sierva [de Dios] creyente es mejor que una idólatra, aunque esta les atraiga más; y no casen a los idólatras con las mujeres a su cargo hasta que ellos crean [en el monoteísmo], un siervo [de Dios] creyente es mejor que un idólatra, aunque este les parezca mejor partido. Ellos [los idólatras] invitan al Infierno [a través de la idolatría], mientras que Dios les promete el Paraíso, con Su consentimiento, y el perdón, pero aclara Sus preceptos a la gente para que recapaciten.
+No se casen con [mujeres] idólatras a menos que ellas crean [en el monoteísmo], ya que una sierva [de Dios][^1] creyente es mejor que una idólatra, aunque esta les atraiga más; y no casen a los idólatras con las mujeres a su cargo hasta que ellos crean [en el monoteísmo], un siervo [de Dios] creyente es mejor que un idólatra, aunque este les parezca mejor partido. Ellos [los idólatras] invitan al Infierno [a través de la idolatría], mientras que Dios les promete el Paraíso, con Su consentimiento, y el perdón, pero aclara Sus preceptos a la gente para que recapaciten.
 
-una sierva [de Dios]: El término árabe amah أمة puede significar esclava o sierva de Dios. Cualquiera sea el caso, el versículo establece que la fe en el monoteísmo es el más alto valor que se debe considerar para contraer matrimonio.
+[^1]: El término árabe amah أمة puede significar esclava o sierva de Dios. Cualquiera sea el caso, el versículo establece que la fe en el monoteísmo es el más alto valor que se debe considerar para contraer matrimonio.
 
 # 229
 
@@ -1069,9 +1088,9 @@ Y te preguntan acerca de la menstruación. Di: "Es una impureza"; absténganse d
 
 # 230
 
-Sus mujeres son para ustedes como un campo de labranza, por tanto, siembren en su campo cuando [y como] quieran. Hagan obras de bien para que se beneficien, y tengan temor de Dios ya que se encontrarán con Él; y albricia a los creyentes [que obtendrán una hermosa recompensa].
+Sus mujeres son para ustedes como un campo de labranza, por tanto, siembren en su campo cuando [y como] quieran[^1]. Hagan obras de bien para que se beneficien, y tengan temor de Dios ya que se encontrarán con Él; y albricia a los creyentes [que obtendrán una hermosa recompensa].
 
-cuando [y como] quieran: La legislación islámica prohíbe solamente, respecto a la sexualidad en el matrimonio, el sexo contra natura y las relaciones durante la menstruación y el puerperio.
+[^1]: La legislación islámica prohíbe solamente, respecto a la sexualidad en el matrimonio, el sexo contra natura y las relaciones durante la menstruación y el puerperio.
 
 # 231
 
@@ -1079,34 +1098,35 @@ No hagan de un juramento por Dios, prestado con anterioridad, un pretexto para n
 
 # 232
 
-Dios no tomará en cuenta los juramentos que hacen sin pensar, pero sí tomará en cuenta aquellos que hagan de corazón, Dios es Absolvedor, Indulgente.
+Dios no tomará en cuenta los juramentos que hacen sin pensar[^1], pero sí tomará en cuenta aquellos que hagan de corazón[^2], Dios es Absolvedor, Indulgente.
 
-sin pensar: Es decir, en forma automática, sin pensar en las palabras y sus implicancias. 
- de corazón: Es decir, conscientes, habiendo formado la intensión de los mismos.
+[^1]: Es decir, en forma automática, sin pensar en las palabras y sus implicancias.
+
+[^2]: Es decir, conscientes, habiendo formado la intensión de los mismos.
 
 # 233
 
-Quienes juren no mantener relaciones sexuales con sus esposas tendrán un plazo [máximo] de cuatro meses; pero si se retractan [de su juramento], [sepan que] Dios es Absolvedor, Misericordioso.
+Quienes juren no mantener relaciones sexuales con sus esposas[^1] tendrán un plazo [máximo] de cuatro meses; pero si se retractan [de su juramento], [sepan que] Dios es Absolvedor, Misericordioso.
 
-Quienes juren no mantener relaciones sexuales con sus esposas: Durante una disputa conyugal.
+[^1]: Durante una disputa conyugal.
 
 # 234
 
-Y si se deciden por el divorcio, Dios todo lo oye, todo lo sabe.
+Y si se deciden por el divorcio, Dios todo lo oye, todo lo sabe.[^1]
 
-Si pasan los cuatro meses de la promesa y no hay un cambio de actitud, el juez puede requerirle el divorcio.
+[^1]: Si pasan los cuatro meses de la promesa y no hay un cambio de actitud, el juez puede requerirle el divorcio.
 
 # 235
 
-Las divorciadas deberán esperar tres menstruos [para poder volverse a casar], y no les es lícito ocultar lo que Dios creó en sus vientres, si es que creen en Dios y el Día del Juicio. Sus maridos tienen más derecho a volver con ellas durante ese plazo, si desean reconciliarse. Ellas tienen tanto el derecho al buen trato como la obligación de tratar bien a sus maridos. Y los hombres tienen un grado superior [de responsabilidad] al de ellas; Dios es Poderoso, Sabio.
+Las divorciadas[^1] deberán esperar tres menstruos [para poder volverse a casar], y no les es lícito ocultar lo que Dios creó en sus vientres, si es que creen en Dios y el Día del Juicio. Sus maridos tienen más derecho a volver con ellas durante ese plazo, si desean reconciliarse. Ellas tienen tanto el derecho al buen trato como la obligación de tratar bien a sus maridos. Y los hombres tienen un grado superior [de responsabilidad] al de ellas; Dios es Poderoso, Sabio.
 
-Las divorciadas: Aquellas mujeres a las que sus maridos hayan expresado la voluntad de divorcio, pero el proceso del mismo no haya terminado aún.
+[^1]: Aquellas mujeres a las que sus maridos hayan expresado la voluntad de divorcio, pero el proceso del mismo no haya terminado aún.
 
 # 236
 
-El divorcio puede revocarse dos veces. Luego de lo cual no cabe sino convivir dignamente o separarse definitivamente con decoro. No es permitido [a los hombres] tomar nada de lo que hayan dado [como dote]. Pero si no existe una voluntad de convivencia y temen que no se cumpla con lo que Dios ha ordenado [sobre el buen trato], no incurrirá en falta ninguno de los dos [esposos] en que la mujer llegue a un acuerdo económico con su marido para la disolución del matrimonio. Éstas son las leyes de Dios, no las quebranten. Quienes las quebrantan son los opresores.
+El divorcio puede revocarse dos veces. Luego de lo cual no cabe sino convivir dignamente[^1] o separarse definitivamente con decoro. No es permitido [a los hombres] tomar nada de lo que hayan dado [como dote]. Pero si no existe una voluntad de convivencia y temen que no se cumpla con lo que Dios ha ordenado [sobre el buen trato], no incurrirá en falta ninguno de los dos [esposos] en que la mujer llegue a un acuerdo económico con su marido para la disolución del matrimonio. Éstas son las leyes de Dios, no las quebranten. Quienes las quebrantan son los opresores.
 
-Luego de lo cual no cabe sino convivir dignamente: Bil ma’ruf بِالمَعرُوف significa acorde a lo reconocido como buen trato en cada sociedad y cultura. Es decir, que este comportamiento puede cambiar y no es definitivo, sino que cada cultura tiene sus propios estándares de lo que es el buen o mal trato.
+[^1]: Bil ma’ruf بِالمَعرُوف significa acorde a lo reconocido como buen trato en cada sociedad y cultura. Es decir, que este comportamiento puede cambiar y no es definitivo, sino que cada cultura tiene sus propios estándares de lo que es el buen o mal trato.
 
 # 237
 
@@ -1118,22 +1138,23 @@ Pero si expresan la voluntad de divorcio a sus mujeres y están cerca de cumplir
 
 # 239
 
-Si expresan la voluntad de divorcio a sus mujeres y éstas cumplen con el plazo de espera, no pueden impedirles que se casen, si lo han convenido mutuamente [sobre bases] correctas. Así exhorta [Dios] a quienes realmente creen en Dios y en el Día del Juicio. Esto es mejor y más sano. Dios sabe [todo] y ustedes no.
+Si expresan la voluntad de divorcio[^1] a sus mujeres y éstas cumplen con el plazo de espera, no pueden impedirles que se casen[^2], si lo han convenido mutuamente [sobre bases] correctas. Así exhorta [Dios] a quienes realmente creen en Dios y en el Día del Juicio. Esto es mejor y más sano. Dios sabe [todo] y ustedes no.
 
-Si expresan la voluntad de divorcio: Por primera y segunda vez. 
-no pueden impedirles que se casen: Con sus exesposos o con otro hombre.
+[^1]: Por primera y segunda vez.
+
+[^2]: Con sus exesposos o con otro hombre.
 
 # 240
 
-Las madres [divorciadas] podrán amamantar a sus hijos dos años si desean completar la lactancia. El padre tiene la obligación de sustentar y vestir a la madre [de su hijo] de acuerdo a sus recursos, a nadie se le impone más allá de sus posibilidades. Que ni la madre ni el padre utilicen a su hijo para perjudicarse mutuamente. Los familiares directos heredan esta obligación. Pero no incurren en falta si ambos [el padre y la madre], de común acuerdo, y tras consultarlo entre ellos, deciden destetar [al niño]. Si toman una nodriza para completar la lactancia no hay mal en ello, a condición de que le paguen lo correcto. Tengan temor de Dios, y sepan que Dios ve todo cuanto hacen.
+Las madres [divorciadas] podrán amamantar a sus hijos dos años si desean completar la lactancia. El padre tiene la obligación de sustentar y vestir a la madre [de su hijo] de acuerdo a sus recursos, a nadie se le impone más allá de sus posibilidades. Que ni la madre ni el padre utilicen a su hijo para perjudicarse mutuamente. Los familiares directos heredan esta obligación[^1]. Pero no incurren en falta si ambos [el padre y la madre], de común acuerdo, y tras consultarlo entre ellos, deciden destetar [al niño]. Si toman una nodriza para completar la lactancia no hay mal en ello, a condición de que le paguen lo correcto. Tengan temor de Dios, y sepan que Dios ve todo cuanto hacen.
 
-Los familiares directos heredan esta obligación: En caso de que el padre muera.
+[^1]: En caso de que el padre muera.
 
 # 241
 
-Las viudas deberán esperar cuatro meses y diez días. Luego de ese plazo no serán reprochadas por lo que dispongan hacer consigo mismas [siempre que sea] de manera correcta, y Dios sabe lo que hacen.
+Las viudas deberán esperar cuatro meses y diez días[^1]. Luego de ese plazo no serán reprochadas por lo que dispongan hacer consigo mismas [siempre que sea] de manera correcta, y Dios sabe lo que hacen.
 
-cuatro meses y diez días: Para volver a casarse.
+[^1]: Para volver a casarse.
 
 # 242
 
@@ -1157,9 +1178,9 @@ Si tienen temor [en una situación de peligro], pueden orar de pie o montados, p
 
 # 247
 
-Los casados, al morir, dejan a su viuda un legado que consiste en un año de manutención y que no sean obligadas a abandonar el domicilio conyugal; pero si lo abandonaran antes, no serán reprochados de lo que ellas dispongan hacer consigo mismas [rehaciendo sus vidas siempre que sea] de manera correcta. Dios es Poderoso, Sabio.
+Los casados, al morir, dejan a su viuda un legado que consiste en un año de manutención y que no sean obligadas a abandonar el domicilio conyugal; pero si lo abandonaran antes, no serán reprochados de lo que ellas dispongan hacer consigo mismas [rehaciendo sus vidas siempre que sea] de manera correcta[^1]. Dios es Poderoso, Sabio.
 
-de manera correcta: La implicancia legal de este versículo fue abrogada, y reglamentada definitivamente por 4:12 y 2:234
+[^1]: La implicancia legal de este versículo fue abrogada, y reglamentada definitivamente por 4:12 y 2:234
 
 # 248
 
@@ -1171,9 +1192,9 @@ Así es como Dios evidencia Sus preceptos para que usen la razón.
 
 # 250
 
-¿Acaso no reparan en los que dejaron de a miles sus hogares por temor a la muerte? Pero Dios les dijo: "¡Mueran igual!" Y luego los resucitó. Dios favorece a la gente, pero la mayoría no Le agradece.
+¿Acaso no reparan en los que dejaron de a miles sus hogares por temor a la muerte[^1]? Pero Dios les dijo: "¡Mueran igual!" Y luego los resucitó. Dios favorece a la gente, pero la mayoría no Le agradece.
 
-dejaron de a miles sus hogares por temor a la muerte: Esta gente, al ser azotada por una peste como castigo de Dios, quisieron burlar el castigo abandonando el lugar, pero no pudieron escapar al castigo de Dios.
+[^1]: Esta gente, al ser azotada por una peste como castigo de Dios, quisieron burlar el castigo abandonando el lugar, pero no pudieron escapar al castigo de Dios.
 
 # 251
 
@@ -1181,9 +1202,9 @@ Combatan [en defensa propia] por la causa de Dios, y sepan que Dios todo lo oye,
 
 # 252
 
-¿Quién hará a Dios un préstamo generoso? Dios se lo devolverá multiplicado. Dios restringe y prodiga [el sustento], y a Él volverán [para ser recompensados por sus acciones].
+¿Quién hará a Dios un préstamo generoso[^1]? Dios se lo devolverá multiplicado. Dios restringe y prodiga [el sustento], y a Él volverán [para ser recompensados por sus acciones].
 
-un préstamo generoso: Invirtiendo en obras de bien para los necesitados y por la causa de Dios.
+[^1]: Invirtiendo en obras de bien para los necesitados y por la causa de Dios.
 
 # 253
 
@@ -1195,9 +1216,9 @@ Su Profeta les dijo: "Dios les ha enviado a Saúl para que sea su rey". Exclamar
 
 # 255
 
-Su Profeta les dijo también: "La prueba de su reino será que los ángeles traerán el arca, en la que encontrarán sosiego proveniente de su Señor y una reliquia que dejó la familia de Moisés y de Aarón. En esto hay una señal, si es que son creyentes".
+Su Profeta les dijo también: "La prueba de su reino será que los ángeles traerán el arca[^1], en la que encontrarán sosiego proveniente de su Señor y una reliquia que dejó la familia de Moisés y de Aarón. En esto hay una señal, si es que son creyentes".
 
-el arca: El arca de la alianza donde, según la tradición judía, se encontraba guardada la Tora.
+[^1]: El arca de la alianza donde, según la tradición judía, se encontraba guardada la Tora.
 
 # 256
 
@@ -1225,15 +1246,15 @@ Entre los Mensajeros, distinguí a cada uno con un favor. Entre ellos hay a quie
 
 # 262
 
-¡Dios! No existe nada ni nadie con derecho a ser adorado excepto Él, el Viviente [Eterno], el Sustentador [y Gobernador de toda la creación]. No Lo afectan somnolencia ni sueño. Suyo es cuanto hay en los cielos y la Tierra. ¿Quién podrá interceder ante Él si no es con Su permiso? Conoce el pasado y el futuro [lo manifiesto y lo oculto] y nadie abarca de Su conocimiento salvo lo que Él quiere. El escabel de Su Trono abarca los cielos y la Tierra, y la custodia [y mantenimiento] de ambos no Lo agobia. Y Él es el Sublime, el Grandioso.
+¡Dios! No existe nada ni nadie con derecho a ser adorado excepto Él, el Viviente [Eterno], el Sustentador [y Gobernador de toda la creación]. No Lo afectan somnolencia ni sueño. Suyo es cuanto hay en los cielos y la Tierra. ¿Quién podrá interceder ante Él si no es con Su permiso? Conoce el pasado y el futuro [lo manifiesto y lo oculto] y nadie abarca de Su conocimiento salvo lo que Él quiere. El escabel de Su Trono[^1] abarca los cielos y la Tierra, y la custodia [y mantenimiento] de ambos no Lo agobia. Y Él es el Sublime, el Grandioso.
 
-El escabel de Su Trono: Kursi كُرْسي , es el escabel del Trono, que no debe ser confundido con el ‘Arsh عَرْش , el Trono, que es inmensamente mayor.
+[^1]: Kursi كُرْسي , es el escabel del Trono, que no debe ser confundido con el ‘Arsh عَرْش , el Trono, que es inmensamente mayor.
 
 # 263
 
-Una vez establecida la diferencia entre la guía correcta y el desvío no se puede forzar a nadie a creer. Quien descrea de las falsas divinidades y crea en Dios, se habrá aferrado al asidero más firme [el Islam], que es irrompible. Dios todo lo oye, todo lo sabe.
+Una vez establecida la diferencia entre la guía correcta y el desvío no se puede forzar a nadie a creer[^1]. Quien descrea de las falsas divinidades y crea en Dios, se habrá aferrado al asidero más firme [el Islam], que es irrompible. Dios todo lo oye, todo lo sabe.
 
-no se puede forzar a nadie a creer: No es aceptable la coacción en las creencias religiosas: El Corán prohíbe la conversión forzada, así como cualquier obstáculo a la libertad religiosa.
+[^1]: No es aceptable la coacción en las creencias religiosas: El Corán prohíbe la conversión forzada, así como cualquier obstáculo a la libertad religiosa.
 
 # 264
 
@@ -1241,10 +1262,11 @@ Dios es el protector de los creyentes, los saca de las tinieblas hacia la luz. E
 
 # 265
 
-¿Acaso no has reparado en quien discutió con Abraham acerca de su Señor valiéndose del reinado que Dios le había concedido? Dijo Abraham: "Mi Señor es Quien da la vida y da la muerte". Le replicó: "Yo también doy la vida y la muerte". Dijo Abraham: "Dios hace que el Sol salga por el oriente, haz tú que salga por el occidente". Entonces, el que había rechazado la verdad quedó confundido, porque Dios no guía a los injustos.
+¿Acaso no has reparado en quien[^1] discutió con Abraham acerca de su Señor valiéndose del reinado que Dios le había concedido? Dijo Abraham: "Mi Señor es Quien da la vida y da la muerte". Le replicó: "Yo también doy la vida y la muerte". Dijo Abraham: "Dios hace que el Sol salga por el oriente, haz tú que salga por el occidente". Entonces, el que había rechazado la verdad quedó confundido[^2], porque Dios no guía a los injustos.
 
-en quien: Referencia a Nemrod, un tiránico rey de la Mesopotamia. 
-el que había rechazado la verdad quedó confundido: A los Profetas se les concedieron mentes brillantes, gran inteligencia, expresión elocuente, fuerte intuición y otros talentos que eran esenciales para portar y transmitir el Mensaje, para ser líderes de aquellos que aceptaran el monoteísmo y sus enseñanzas. Ellos solían explicar la religión de Dios a aquellos que se les oponían, y demostraban que sus enemigos estaban equivocados. Así, Abraham derrotó con sus argumentos al tirano que se oponía a la prédica de su Mensaje.
+[^1]: Referencia a Nemrod, un tiránico rey de la Mesopotamia.
+
+[^2]: A los Profetas se les concedieron mentes brillantes, gran inteligencia, expresión elocuente, fuerte intuición y otros talentos que eran esenciales para portar y transmitir el Mensaje, para ser líderes de aquellos que aceptaran el monoteísmo y sus enseñanzas. Ellos solían explicar la religión de Dios a aquellos que se les oponían, y demostraban que sus enemigos estaban equivocados. Así, Abraham derrotó con sus argumentos al tirano que se oponía a la prédica de su Mensaje.
 
 # 266
 
@@ -1268,9 +1290,9 @@ Una palabra amable y perdonar es mejor que una caridad seguida de un agravio. Di
 
 # 271
 
-¡Oh, creyentes! No malogren sus caridades haciendo alarde de ellas u ofendiendo, como aquel que contribuye para que la gente lo vea, pero [en realidad] no cree en Dios ni en el Día del Juicio Final. Su ejemplo es como el de una roca cubierta de tierra, a la cual le cae un aguacero que la deja al descubierto. Esas personas no obtendrán recompensa alguna por sus [buenas] obras, porque Dios no guía a la gente que se niega a reconocer la verdad.
+¡Oh, creyentes! No malogren sus caridades haciendo alarde de ellas u ofendiendo, como aquel que contribuye para que la gente lo vea, pero [en realidad] no cree en Dios ni en el Día del Juicio Final. Su ejemplo es como el de una roca cubierta de tierra, a la cual le cae un aguacero que la deja al descubierto[^1]. Esas personas no obtendrán recompensa alguna por sus [buenas] obras, porque Dios no guía a la gente que se niega a reconocer la verdad.
 
-le cae un aguacero que la deja al descubierto: Este ejemplo nos habla de la dureza interior del corazón de algunas personas, que permanece oculto a la vista de las personas. Esta clase de personas, los hipócritas, bajo una delgada capa de piedad exterior, esconden un corazón duro, que no será recompensado ni tendrá beneficio de sus pocas obras, ya que jamás las ha realizado con sinceridad.
+[^1]: Este ejemplo nos habla de la dureza interior del corazón de algunas personas, que permanece oculto a la vista de las personas. Esta clase de personas, los hipócritas, bajo una delgada capa de piedad exterior, esconden un corazón duro, que no será recompensado ni tendrá beneficio de sus pocas obras, ya que jamás las ha realizado con sinceridad.
 
 # 272
 
@@ -1278,9 +1300,9 @@ El ejemplo de quienes contribuyen con sus bienes materiales anhelando complacer 
 
 # 273
 
-¿A quién complacería tener un huerto de palmeras datileras y vides por donde corren ríos, donde hay toda clase de frutos, y al alcanzar la vejez y con hijos de corta edad, ver sorprendido [su huerto] por un huracán con fuego que lo incendie reduciéndolo a cenizas? Así es como Dios les aclara Sus signos para que reflexionen.
+¿A quién complacería tener un huerto de palmeras datileras y vides por donde corren ríos, donde hay toda clase de frutos, y al alcanzar la vejez y con hijos de corta edad, ver sorprendido [su huerto] por un huracán con fuego que lo incendie reduciéndolo a cenizas[^1]? Así es como Dios les aclara Sus signos para que reflexionen.
 
-por un huracán con fuego que lo incendie reduciéndolo a cenizas: Es evidente que a nadie le agradaría esta situación. Semejante será el destino de quien no se haya aprovisionado con buenas obras. Así será el destino de los que no paguen el zakat.
+[^1]: Es evidente que a nadie le agradaría esta situación. Semejante será el destino de quien no se haya aprovisionado con buenas obras. Así será el destino de los que no paguen el zakat.
 
 # 274
 
@@ -1288,9 +1310,9 @@ por un huracán con fuego que lo incendie reduciéndolo a cenizas: Es evidente q
 
 # 275
 
-El demonio los atemoriza con la pobreza y les ordena hacer lo que es inmoral, mientras que Dios les promete Su perdón y Su generosidad. Dios es el Más Generoso, todo lo sabe.
+El demonio los atemoriza con la pobreza y les ordena hacer lo que es inmoral[^1], mientras que Dios les promete Su perdón y Su generosidad. Dios es el Más Generoso, todo lo sabe.
 
-les ordena hacer lo que es inmoral: La avaricia es inmoral, ya que previene a la persona de gastar por la causa de Dios y ser solidario con su prójimo. En un sentido general, el término también implica cualquier acto inmoral.
+[^1]: La avaricia es inmoral, ya que previene a la persona de gastar por la causa de Dios y ser solidario con su prójimo. En un sentido general, el término también implica cualquier acto inmoral.
 
 # 276
 
@@ -1298,9 +1320,9 @@ Dios concede la sabiduría a quien quiere, y sepan que a quien le haya sido conc
 
 # 277
 
-Los pagos de tus obligaciones o las promesas que hagas, Dios los conoce; pero quienes incumplan no tendrán quién los auxilie [el Día del Juicio].
+Los pagos de tus obligaciones o las promesas[^1] que hagas, Dios los conoce; pero quienes incumplan no tendrán quién los auxilie [el Día del Juicio].
 
-las promesas: La promesa hecha a Dios es religiosamente vinculante. Si es legítima en sí misma y se ha prometido solo a Dios, debe ser cumplida. Su incumplimiento es un pecado.
+[^1]: La promesa hecha a Dios es religiosamente vinculante. Si es legítima en sí misma y se ha prometido solo a Dios, debe ser cumplida. Su incumplimiento es un pecado.
 
 # 278
 
@@ -1320,9 +1342,9 @@ Quienes hagan caridad con sus bienes materiales, de noche o de día, en privado 
 
 # 282
 
-Los que lucran con la usura saldrán [de sus tumban el Día del Juicio Final] como un loco poseído por el demonio. Esto es porque dicen que el comercio es igual que la usura, pero [no, porque] Dios permitió el comercio y prohibió la usura. A quien le haya llegado de su Señor [el conocimiento de] la prohibición [de la usura] y se haya abstenido arrepintiéndose, podrá conservar lo que obtuvo en el pasado, y su asunto será juzgado por Dios. Mas si reincide, se contará entre los moradores del Fuego, en el que sufrirá eternamente.
+Los que lucran con la usura[^1] saldrán [de sus tumban el Día del Juicio Final] como un loco poseído por el demonio. Esto es porque dicen que el comercio es igual que la usura, pero [no, porque] Dios permitió el comercio y prohibió la usura. A quien le haya llegado de su Señor [el conocimiento de] la prohibición [de la usura] y se haya abstenido arrepintiéndose, podrá conservar lo que obtuvo en el pasado, y su asunto será juzgado por Dios. Mas si reincide, se contará entre los moradores del Fuego, en el que sufrirá eternamente.
 
-la usura: El dinero puede ser calificado con la justicia, la virtud y la opresión. El dinero justo es el que se obtiene con trabajo; el virtuoso, el que se gasta en una caridad; y el opresor, el que se gana con la usura. La usura es el interés que se aplica al préstamo de dinero o el precio por la extensión del tiempo estipulado para la devolución de un préstamo. Para la legislación islámica, la usura es un pecado capital y está prohibida en todas las religiones celestiales debido al gran perjuicio que ocasiona. La usura provoca la enemistad entre las personas y lleva al enriquecimiento a expensas de la apropiación del dinero o los bienes del pobre. La usura cierra las puertas de la caridad y de la benevolencia, y apaga el sentimiento de compasión y solidaridad en el ser humano. Los intereses que los bancos cobran en la actualidad por los créditos que otorgan pertenecen a la usura prohibida por el Islam, al igual que los intereses que pagan por los depósitos.
+[^1]: El dinero puede ser calificado con la justicia, la virtud y la opresión. El dinero justo es el que se obtiene con trabajo; el virtuoso, el que se gasta en una caridad; y el opresor, el que se gana con la usura. La usura es el interés que se aplica al préstamo de dinero o el precio por la extensión del tiempo estipulado para la devolución de un préstamo. Para la legislación islámica, la usura es un pecado capital y está prohibida en todas las religiones celestiales debido al gran perjuicio que ocasiona. La usura provoca la enemistad entre las personas y lleva al enriquecimiento a expensas de la apropiación del dinero o los bienes del pobre. La usura cierra las puertas de la caridad y de la benevolencia, y apaga el sentimiento de compasión y solidaridad en el ser humano. Los intereses que los bancos cobran en la actualidad por los créditos que otorgan pertenecen a la usura prohibida por el Islam, al igual que los intereses que pagan por los depósitos.
 
 # 283
 
@@ -1350,15 +1372,15 @@ Teman el día en que serán retornados a Dios, y en que cada persona reciba lo q
 
 # 289
 
-¡Oh, creyentes! Si contraen una deuda por un plazo estipulado, pónganlo por escrito ante un escribano. Ningún escribano [creyente] debe negarse a levantar esa acta conforme a lo que Dios le ha enseñado: el escribano debe registrar y el deudor debe dictar fielmente lo que adeuda, con temor de Dios. En caso de que el deudor sea declarado incompetente o sea incapaz de expresar su deuda, que lo haga en su lugar su apoderado con fidelidad. Dos hombres confiables deben ser testigos; pero si no cuentan con dos hombres, recurran a un hombre y dos mujeres, de manera que si una de ellas se olvida la otra lo recuerde. Nadie debe negarse a ser testigo ni rehusarse si son citados a atestiguar. No sean reacios a documentar las deudas, sean pequeñas o grandes, así como su vencimiento. Esto es, para Dios, lo más justo, la mejor evidencia [si existiera una disputa] y da menos lugar a dudas. A menos que se trate de una operación al contado; entonces, no hay inconveniente en que no lo pongan por escrito. Pero [es recomendable] que lo hagan ante testigos en [operaciones de] compraventa. No se debe presionar ni coartar al escribano ni al testigo, porque hacerlo es un delito. Tengan temor de Dios, que Él los agracia con el conocimiento, porque Dios es conocedor de todas las cosas.
+¡Oh, creyentes! Si contraen una deuda por un plazo estipulado, pónganlo por escrito ante un escribano. Ningún escribano [creyente] debe negarse a levantar esa acta conforme a lo que Dios le ha enseñado[^1]: el escribano debe registrar y el deudor debe dictar fielmente lo que adeuda, con temor de Dios. En caso de que el deudor sea declarado incompetente o sea incapaz de expresar su deuda, que lo haga en su lugar su apoderado con fidelidad. Dos hombres confiables deben ser testigos; pero si no cuentan con dos hombres, recurran a un hombre y dos mujeres, de manera que si una de ellas se olvida la otra lo recuerde. Nadie debe negarse a ser testigo ni rehusarse si son citados a atestiguar. No sean reacios a documentar las deudas, sean pequeñas o grandes, así como su vencimiento. Esto es, para Dios, lo más justo, la mejor evidencia [si existiera una disputa] y da menos lugar a dudas. A menos que se trate de una operación al contado; entonces, no hay inconveniente en que no lo pongan por escrito. Pero [es recomendable] que lo hagan ante testigos en [operaciones de] compraventa. No se debe presionar ni coartar al escribano ni al testigo, porque hacerlo es un delito. Tengan temor de Dios, que Él los agracia con el conocimiento, porque Dios es conocedor de todas las cosas.
 
-conforme a lo que Dios le ha enseñado: Esta frase también puede tener otro significado: Ningún musulmán que tenga la gracia de Dios de saber escribir, debería negarse a levantar esa acta en reconocimiento a que Dios le ha enseñado a escribir.
+[^1]: Esta frase también puede tener otro significado: Ningún musulmán que tenga la gracia de Dios de saber escribir, debería negarse a levantar esa acta en reconocimiento a que Dios le ha enseñado a escribir.
 
 # 290
 
-Si estuvieran de viaje y no encontraran un escribano, pueden tomar algo en garantía. Pero si existe una confianza mutua, no hacen mal en no poner por escrito la deuda ni tomar una garantía, y tengan temor de Dios. Que nadie se niegue a prestar testimonio cuando sea convocado, porque quien lo oculta tiene un corazón malvado. Y Dios sabe cuanto hacen.
+Si estuvieran de viaje y no encontraran un escribano, pueden tomar algo en garantía[^1]. Pero si existe una confianza mutua, no hacen mal en no poner por escrito la deuda ni tomar una garantía, y tengan temor de Dios. Que nadie se niegue a prestar testimonio cuando sea convocado, porque quien lo oculta tiene un corazón malvado. Y Dios sabe cuanto hacen.
 
-garantía: La garantía o prenda es lo que el deudor entrega al acreedor como señal de que la deuda será saldada y de la cual podrá cobrarse su dinero, ya sea tomando posesión del bien prendado o del valor del mismo resultante de su venta, en caso de que el deudor no pueda saldar su deuda.
+[^1]: La garantía o prenda es lo que el deudor entrega al acreedor como señal de que la deuda será saldada y de la cual podrá cobrarse su dinero, ya sea tomando posesión del bien prendado o del valor del mismo resultante de su venta, en caso de que el deudor no pueda saldar su deuda.
 
 # 291
 
@@ -1386,9 +1408,9 @@ Dios, no hay otra divinidad que Él, el Viviente, se basta a Sí mismo y se ocup
 
 # 297
 
-como guía para la gente, y reveló el criterio por el cual se discierne lo verdadero de lo falso. Quienes no crean en la palabra de Dios tendrán un castigo severo. Dios es Poderoso y Señor de la retribución Justa.
+como guía para la gente, y reveló el criterio por el cual se discierne lo verdadero de lo falso[^1]. Quienes no crean en la palabra de Dios tendrán un castigo severo. Dios es Poderoso y Señor de la retribución Justa.
 
-el criterio por el cual se discierne lo verdadero de lo falso: El Sagrado Corán.
+[^1]: El Sagrado Corán.
 
 # 298
 
@@ -1400,9 +1422,9 @@ No hay nada en la Tierra ni en el cielo que pueda esconderse de Dios.
 
 # 300
 
-Él es Quien te ha revelado el Libro [¡oh, Mujámmad!]. En él hay versículos categóricos de significado evidente, que son la base del Libro, y otros que aceptan interpretaciones. Los que tienen el corazón extraviado siguen solo los interpretables con el fin de sembrar la discordia y hacer una interpretación interesada. Pero Dios conoce su verdadero significado. Los que tienen un conocimiento afirmado, dicen: "Creemos en todos los versículos por igual, todos proceden de nuestro Señor. Aunque solo los dotados de intelecto tienen esto presente.
+Él es Quien te ha revelado el Libro [¡oh, Mujámmad!]. En él hay versículos categóricos de significado evidente, que son la base del Libro, y otros que aceptan interpretaciones. Los que tienen el corazón extraviado siguen solo los interpretables con el fin de sembrar la discordia y hacer una interpretación interesada. Pero Dios conoce su verdadero significado. Los que tienen un conocimiento afirmado, dicen: "Creemos en todos los versículos por igual, todos proceden de nuestro Señor. Aunque solo los dotados de intelecto tienen esto presente.[^1]
 
-En lengua árabe el término mujkam مُحْكَم significa perfeccionado y claro. En este sentido todo el Corán es mujkam, ya que a través de sus versículos, puede distinguirse lo verídico de lo falso. El término mutashabih مُتَشَابِه significa que tiene más de un sentido, uno que concuerda con el mujkam y otro que no. La metodología correcta según este versículo implica interpretar los versículos de esta categoría con base en los versículos mujkam. Quien hace lo contrario, comete un gran error que lo llevará al desvío. Los “arraigados en el conocimiento” son los que siguen el camino de la Verdad, interpretando los versículos mutashabih basados en los versículos mujkam. En cambio, quienes buscan interpretaciones rebuscadas basándose solamente en su comprensión y pasión, se desvían y desvían a otros. Dijo el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, después de recitar este versículo: “Cuando vean a los que buscan recurrir a los versículos mutashabih, tengan cuidado de ellos”. Registrado por Al-Bujari
+[^1]: “Cuando vean a los que buscan recurrir a los versículos mutashabih, tengan cuidado de ellos”. Registrado por Al-Bujari
 
 # 301
 
@@ -1430,9 +1452,9 @@ Ya fue una clara evidencia los dos grupos que se enfrentaron [en la batalla de B
 
 # 307
 
-Se encuentra en el corazón de las personas la inclinación por los placeres: las mujeres, los hijos, la acumulación de riquezas en oro y plata, los caballos de raza, los ganados y los campos de cultivo. Ese es el breve goce de esta vida, pero lo más hermoso se encuentra junto a Dios.
+Se encuentra en el corazón de las personas la inclinación por los placeres: las mujeres, los hijos, la acumulación de riquezas en oro y plata, los caballos de raza, los ganados y los campos de cultivo[^1]. Ese es el breve goce de esta vida, pero lo más hermoso se encuentra junto a Dios.
 
-las mujeres, los hijos, la acumulación de riquezas en oro y plata, los caballos de raza, los ganados y los campos de cultivo: Ese es el conjunto de lo que ama el ser humano: una mujer en el caso del hombre, y un hombre en el caso de la mujer; hijos que llenen de alegría el hogar, riquezas con las que obtener lujos, los mejores medios de transporte y empresas que le generen riqueza y bienestar.
+[^1]: Ese es el conjunto de lo que ama el ser humano: una mujer en el caso del hombre, y un hombre en el caso de la mujer; hijos que llenen de alegría el hogar, riquezas con las que obtener lujos, los mejores medios de transporte y empresas que le generen riqueza y bienestar.
 
 # 308
 
@@ -1452,9 +1474,9 @@ Dios atestigua, y con Él los ángeles y los dotados de cono-cimiento, que no ex
 
 # 312
 
-Para Dios la verdadera religión es el Islam. Los que habían recibido el libro anteriormente discreparon por soberbia a pesar de haberles llegado la revelación. Quienes rechacen los signos de Dios, sepan que Dios es rápido en ajustar cuentas.
+Para Dios la verdadera religión es el Islam[^1]. Los que habían recibido el libro anteriormente discreparon por soberbia a pesar de haberles llegado la revelación. Quienes rechacen los signos de Dios, sepan que Dios es rápido en ajustar cuentas.
 
-Islam: Islam إسْلام en el idioma del Corán, no es el nombre de una religión en particular, sino que es el nombre de la religión común de monoteísmo, devoción y comportamiento social correcto que predicaron todos los Profetas.
+[^1]: Islam إسْلام en el idioma del Corán, no es el nombre de una religión en particular, sino que es el nombre de la religión común de monoteísmo, devoción y comportamiento social correcto que predicaron todos los Profetas.
 
 # 313
 
@@ -1474,9 +1496,9 @@ Sus obras serán vanas en esta vida y en la otra, y no tendrán quién los auxil
 
 # 317
 
-Eso es porque dicen: "El fuego no nos tocará más que por días contados". Las falsas creencias que ellos mismos inventaron terminaron apartándolos de su religión.
+Eso es porque dicen: "El fuego no nos tocará más que por días contados". Las falsas creencias que ellos mismos inventaron terminaron apartándolos de su religión.[^1]
 
-“El fuego no nos tocará más que por días contados”: La posición judía mayoritaria actual es que el Infierno es un lugar de purificación para el malvado, en el que la mayoría de los castigados permanece hasta un año, aunque algunos estarán eternamente”. Mishnah Eduyot 2:9, Shabbat 33a.
+[^1]: La posición judía mayoritaria actual es que el Infierno es un lugar de purificación para el malvado, en el que la mayoría de los castigados permanece hasta un año, aunque algunos estarán eternamente”. Mishnah Eduyot 2:9, Shabbat 33a.
 
 # 318
 
@@ -1528,9 +1550,9 @@ Y cuando dio a luz dijo: "¡Señor mío! He tenido una hija", y Dios bien sabía
 
 # 330
 
-El Señor la aceptó complacido, e hizo que se educase correctamente y la confió a Zacarías. Cada vez que Zacarías ingresaba al templo la encontraba provista de alimentos, y le preguntaba: "¡María! ¿De dónde obtuviste eso?" Ella respondía: "Proviene de Dios, porque Dios sustenta sin medida a quien quiere".
+El Señor la aceptó complacido, e hizo que se educase correctamente y la confió a Zacarías. Cada vez que Zacarías ingresaba al templo la encontraba provista de alimentos, y le preguntaba: "¡María! ¿De dónde obtuviste eso?" Ella respondía: "Proviene de Dios, porque Dios sustenta sin medida a quien quiere[^1]".
 
-Dios sustenta sin medida a quien quiere: Dios otorga dones extraordinarios a algunos de Sus siervos para honrarlos debido a su rectitud y firmeza en la fe. Se relata que María recibía frutos de invierno en verano, y frutos de verano en invierno, y por eso el asombro de Zacarías.
+[^1]: Dios otorga dones extraordinarios a algunos de Sus siervos para honrarlos debido a su rectitud y firmeza en la fe. Se relata que María recibía frutos de invierno en verano, y frutos de verano en invierno, y por eso el asombro de Zacarías.
 
 # 331
 
@@ -1638,9 +1660,9 @@ Pero si la niegan, Dios sabe quiénes son los que siembran la desviación.
 
 # 357
 
-Di: "¡Oh, Gente del Libro! Convengamos en una creencia común: No adoraremos sino a Dios, no Le asociaremos nada y no tomaremos a nadie como divinidad fuera de Dios". Pero si no aceptan digan: "Sean testigos de que nosotros solo adoramos a Dios".
+Di: "¡Oh, Gente del Libro[^1]! Convengamos en una creencia común: No adoraremos sino a Dios, no Le asociaremos nada y no tomaremos a nadie como divinidad fuera de Dios". Pero si no aceptan digan: "Sean testigos de que nosotros solo adoramos a Dios".
 
-Gente del Libro: Ahlul-kitab أهل ألكِتَابْ : El Corán usa este término para referirse a los judíos, los cristianos y los seguidores de toda religión originalmente revelada por Dios. El objetivo de llamarlos así es recordar el concepto de la creencia común en un solo Dios trascendente, el respeto a todos los Profetas y la obligación de obedecer las reglas establecidas por Dios.
+[^1]: Ahlul-kitab أهل ألكِتَابْ : El Corán usa este término para referirse a los judíos, los cristianos y los seguidores de toda religión originalmente revelada por Dios. El objetivo de llamarlos así es recordar el concepto de la creencia común en un solo Dios trascendente, el respeto a todos los Profetas y la obligación de obedecer las reglas establecidas por Dios.
 
 # 358
 
@@ -1696,9 +1718,9 @@ Quienes vendieron por vil precio el compromiso que tomaron con Dios y faltaron a
 
 # 371
 
-Entre ellos hay quienes tergiversan el Libro cuando lo recitan para que ustedes crean que es parte de él, cuando en realidad no pertenece al Libro. Y dicen que proviene de Dios, cuando en realidad no proviene de Dios. Inventan mentiras acerca de Dios a sabiendas.
+Entre ellos hay quienes tergiversan el Libro cuando lo recitan para que ustedes crean que es parte de él, cuando en realidad no pertenece al Libro[^1]. Y dicen que proviene de Dios, cuando en realidad no proviene de Dios. Inventan mentiras acerca de Dios a sabiendas.
 
-en realidad no pertenece al Libro: Manipulan frases en la colección de libros canonizados por los hombres llamada La Biblia, agregando significados que no son los originales, reinterpretando de manera conveniente para que coincida con sus gustos y deseos.
+[^1]: Manipulan frases en la colección de libros canonizados por los hombres llamada La Biblia, agregando significados que no son los originales, reinterpretando de manera conveniente para que coincida con sus gustos y deseos.
 
 # 372
 
@@ -1726,9 +1748,9 @@ Di: "Creemos en Dios y en lo que nos ha revelado, en lo que fue revelado a Abrah
 
 # 378
 
-Quien profese una religión diferente al Islam no le será aceptada, y en la otra vida se contará entre los perdedores.
+Quien profese una religión diferente al Islam no le será aceptada, y en la otra vida se contará entre los perdedores.[^1]
 
-Este versículo se aplica a aquellas personas que escucharon el mensaje del Islam, y a pesar de haberlo comprendido correctamente, lo rechazaron, tal como lo evidencian los dos versículos siguientes. No es aplicable a aquella persona que jamás llegó a recibir el mensaje del Islam.
+[^1]: Este versículo se aplica a aquellas personas que escucharon el mensaje del Islam, y a pesar de haberlo comprendido correctamente, lo rechazaron, tal como lo evidencian los dos versículos siguientes. No es aplicable a aquella persona que jamás llegó a recibir el mensaje del Islam.
 
 # 379
 
@@ -1808,9 +1830,9 @@ Que siempre haya entre ustedes un grupo que invite al bien, ordenando lo bueno y
 
 # 398
 
-No sean como aquellos que después de haber recibido las pruebas claras, discreparon y se dividieron en sectas. Ésos tendrán un castigo severo.
+No sean como aquellos que después de haber recibido las pruebas claras, discreparon y se dividieron en sectas[^1]. Ésos tendrán un castigo severo.
 
-se dividieron en sectas: El Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, aclaró este concepto diciendo: “Se dividieron los judíos en setenta y una sectas, se dividieron los cristianos en setenta y dos sectas, y se dividirá esta comunidad en setenta y tres sectas, todas ellas merecen el fuego excepto una”; le fue preguntado: “¡¿Quiénes son, Mensajero de Dios?!” dijo: “Los que siguen el mismo camino que yo y luego mis compañeros”. Registrado por At-Tirmidhi, Abu Dawud e Ibn Mayah, el Sheij Al-Albani lo clasificó como auténtico. Es decir: aquellos que sigan la enseñanza y metodología del Profeta y sus compañeros.
+[^1]: El Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, aclaró este concepto diciendo: “Se dividieron los judíos en setenta y una sectas, se dividieron los cristianos en setenta y dos sectas, y se dividirá esta comunidad en setenta y tres sectas, todas ellas merecen el fuego excepto una”; le fue preguntado: “¡¿Quiénes son, Mensajero de Dios?!” dijo: “Los que siguen el mismo camino que yo y luego mis compañeros”. Registrado por At-Tirmidhi, Abu Dawud e Ibn Mayah, el Sheij Al-Albani lo clasificó como auténtico. Es decir: aquellos que sigan la enseñanza y metodología del Profeta y sus compañeros.
 
 # 399
 
@@ -1882,9 +1904,9 @@ Cuando dos de tus tropas estuvieron a punto de perder el coraje, pero Dios era s
 
 # 416
 
-Dios los socorrió en Bader cuando estaban en inferioridad de condiciones. Tengan temor de Dios, en señal de agradecimiento.
+Dios los socorrió en Bader[^1] cuando estaban en inferioridad de condiciones. Tengan temor de Dios, en señal de agradecimiento.
 
-Bader: La batalla de Bader غزوة بَدِر , tuvo lugar el 13 de marzo de 624 (el 17 de Ramadán del segundo año después de la Hégira en el calendario musulmán) en la región de Hiyaz en la actual Arabia Saudita. Fue una batalla clave en los primeros tiempos del Islam y un punto de inflexión en el enfrentamiento entre los creyentes y sus perseguidores. Gracias a la ayuda de Dios, los musulmanes alcanzaron la victoria ante un ejército tres veces superior en número y mucho mejor armado.
+[^1]: La batalla de Bader غزوة بَدِر , tuvo lugar el 13 de marzo de 624 (el 17 de Ramadán del segundo año después de la Hégira en el calendario musulmán) en la región de Hiyaz en la actual Arabia Saudita. Fue una batalla clave en los primeros tiempos del Islam y un punto de inflexión en el enfrentamiento entre los creyentes y sus perseguidores. Gracias a la ayuda de Dios, los musulmanes alcanzaron la victoria ante un ejército tres veces superior en número y mucho mejor armado.
 
 # 417
 
@@ -2004,9 +2026,9 @@ Dios cumplió Su promesa cuando, con Su anuencia, vencían [en la batalla de Uhu
 
 # 446
 
-Y [recuerden] cuando huían sin reparar en nadie y el Mensajero los convocaba a sus espaldas, pero no lo obedecieron. Entonces, Dios los afligió con una tribulación para que no se lamentaran por lo que habían perdido [del botín] ni padecido [la derrota]. Dios está bien informado de lo que hacen.
+Y [recuerden] cuando huían sin reparar en nadie y el Mensajero los convocaba a sus espaldas, pero no lo obedecieron. Entonces, Dios los afligió con una tribulación[^1] para que no se lamentaran por lo que habían perdido [del botín] ni padecido [la derrota]. Dios está bien informado de lo que hacen.
 
-los afligió con una tribulación: El rumor de que el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, había muerto durante el combate.
+[^1]: El rumor de que el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, había muerto durante el combate.
 
 # 447
 
@@ -2030,10 +2052,11 @@ Tanto si mueren como si caen por la causa de Dios, serán congregados ante Dios.
 
 # 452
 
-[Oh, Mujámmad] Por misericordia de Dios eres compasivo con ellos. Si hubieras sido rudo y de corazón duro se habrían alejado de ti; perdónalos, pide perdón por ellos, y consulta con ellos los asuntos [de interés público]. Pero cuando hayas tomado una decisión encomiéndate a Dios, porque Dios ama a los que se encomiendan a Él.
+[Oh, Mujámmad] Por misericordia de Dios eres compasivo con ellos. Si hubieras sido rudo y de corazón duro se habrían alejado de ti; perdónalos, pide perdón por ellos, y consulta con ellos los asuntos [de interés público][^1]. Pero cuando hayas tomado una decisión encomiéndate a Dios, porque Dios ama a los que se encomiendan a Él[^2].
 
-consulta con ellos los asuntos [de interés público]: Pedir la guía de Dios y el consejo a la gente sobre un asunto lícito es recomendable. No se arrepiente quien pide la guía a Dios o un consejo a la gente. Sobre pedir guía y consejo a Dios, el Profeta enseñó una oración para pedir el bien llamada Al-Istijarah. Yabir dijo: “El Profeta, que la paz y las bendiciones de Dios sean con él, solía enseñarnos a consultar a Dios en todos los asuntos y situaciones, tanto como nos enseñaba un capítulo del Corán, y decía: ‘Si a alguno de ustedes lo aqueja algún asunto, que realice una oración voluntaria, fuera de las oraciones obligatorias, y luego diga: ¡Oh, Dios! Te consulto por Tu sabiduría, recurro a Ti por Tu poder y Te pido de Tu generosidad infinita; Tú eres, en efecto, capaz y yo no lo soy; Tú sabes y yo no sé. Tú eres el Conocedor de lo Oculto. ¡Oh, Dios! Si Tú sabes que este asunto... es bueno para mí en mi religión y mi vida presente y futura, destínamelo, facilítamelo y bendícelo para mí; pero si sabes que este asunto es un mal para mí en mi religión y mi vida presente y futura, aléjalo de mí y aléjame de él. Destíname el bien donde se encuentre, y luego haz que yo esté complacido de él”. Registrado por Al-Bujari.
-Dios ama a los que se encomiendan a Él: La confianza en Dios es hacer el corazón dependiente de Él para conseguir lo que anhela y evitar lo que detesta. La confianza en Dios no prohíbe utilizar los medios materiales que Dios nos ha proporcionado para conseguir ese objetivo. No depositar la confianza en Dios implica una enfermedad en el monoteísmo; mientras que no utilizar los medios materiales disponibles implica falta de visión y contacto con la realidad. El momento indicado para este acto es antes de realizar una obra, y su fruto es la certeza. Existen tres tipos de confianza: 1) la obligatoria, que es la confianza en Dios, anhelando solo de Él la ayuda. 2) La permitida, que es confiar en que alguien hará algo por ti dentro de sus capacidades. 3) La prohibida, que es de dos tipos, (a) el politeísmo mayor, que es confiar totalmente en las causas y efectos, creyendo que las cosas suceden de manera independiente a la voluntad de Dios para traer beneficios o provocar daños; (b) el politeísmo menor, que es confiar en que una persona puede proveer el sustento, aunque no cree que lo hace de manera independiente a la voluntad de Dios, sino a través de un acto sobrenatural.
+[^1]: Pedir la guía de Dios y el consejo a la gente sobre un asunto lícito es recomendable. No se arrepiente quien pide la guía a Dios o un consejo a la gente. Sobre pedir guía y consejo a Dios, el Profeta enseñó una oración para pedir el bien llamada Al-Istijarah. Yabir dijo: “El Profeta, que la paz y las bendiciones de Dios sean con él, solía enseñarnos a consultar a Dios en todos los asuntos y situaciones, tanto como nos enseñaba un capítulo del Corán, y decía: ‘Si a alguno de ustedes lo aqueja algún asunto, que realice una oración voluntaria, fuera de las oraciones obligatorias, y luego diga: ¡Oh, Dios! Te consulto por Tu sabiduría, recurro a Ti por Tu poder y Te pido de Tu generosidad infinita; Tú eres, en efecto, capaz y yo no lo soy; Tú sabes y yo no sé. Tú eres el Conocedor de lo Oculto. ¡Oh, Dios! Si Tú sabes que este asunto... es bueno para mí en mi religión y mi vida presente y futura, destínamelo, facilítamelo y bendícelo para mí; pero si sabes que este asunto es un mal para mí en mi religión y mi vida presente y futura, aléjalo de mí y aléjame de él. Destíname el bien donde se encuentre, y luego haz que yo esté complacido de él”. Registrado por Al-Bujari.
+
+[^2]: La confianza en Dios es hacer el corazón dependiente de Él para conseguir lo que anhela y evitar lo que detesta. La confianza en Dios no prohíbe utilizar los medios materiales que Dios nos ha proporcionado para conseguir ese objetivo. No depositar la confianza en Dios implica una enfermedad en el monoteísmo; mientras que no utilizar los medios materiales disponibles implica falta de visión y contacto con la realidad. El momento indicado para este acto es antes de realizar una obra, y su fruto es la certeza. Existen tres tipos de confianza: 1) la obligatoria, que es la confianza en Dios, anhelando solo de Él la ayuda. 2) La permitida, que es confiar en que alguien hará algo por ti dentro de sus capacidades. 3) La prohibida, que es de dos tipos, (a) el politeísmo mayor, que es confiar totalmente en las causas y efectos, creyendo que las cosas suceden de manera independiente a la voluntad de Dios para traer beneficios o provocar daños; (b) el politeísmo menor, que es confiar en que una persona puede proveer el sustento, aunque no cree que lo hace de manera independiente a la voluntad de Dios, sino a través de un acto sobrenatural.
 
 # 453
 
@@ -2089,9 +2112,9 @@ Quienes acudieron al llamado de Dios y Su Mensajero a pesar de sus heridas [y di
 
 # 466
 
-A ellos les fue dicho: "Los enemigos se han agrupado contra ustedes, no podrán con ellos". Pero esto solo les aumentó la fe y dijeron: "Dios es suficiente para nosotros, porque Él es el mejor protector"
+A ellos les fue dicho: "Los enemigos se han agrupado contra ustedes, no podrán con ellos". Pero esto solo les aumentó la fe y dijeron: "Dios es suficiente[^1] para nosotros, porque Él es el mejor protector"
 
-Dios es suficiente: Dijo el sabio Ibn Al-Qaiim: “Dios es suficiente para quien se encomienda a Él, y Le basta a quien vuelve hacia Él. Él es Quien concede seguridad y paz al temeroso, y protege a quien se lo pide; a todo aquel que solicite Su socorro, Su ayuda, abandonándose a Él, Dios habrá de protegerlo, cuidarlo y darle una salida”.
+[^1]: Dijo el sabio Ibn Al-Qaiim: “Dios es suficiente para quien se encomienda a Él, y Le basta a quien vuelve hacia Él. Él es Quien concede seguridad y paz al temeroso, y protege a quien se lo pide; a todo aquel que solicite Su socorro, Su ayuda, abandonándose a Él, Dios habrá de protegerlo, cuidarlo y darle una salida”.
 
 # 467
 
@@ -2099,9 +2122,9 @@ y retornaron ilesos por la gracia y el favor de Dios. Ellos buscaron la complace
 
 # 468
 
-Así [es la estrategia del] demonio, que intenta atemorizar a quienes lo siguen. Pero no le teman a él, sino que témanme a Mí, si son verdaderamente creyentes.
+Así [es la estrategia del] demonio, que intenta atemorizar a quienes lo siguen. Pero no le teman a él, sino que témanme a Mí, si son verdaderamente creyentes.[^1]
 
-El temor reverencial es un acto de adoración y, por consiguiente, debe ser dedicado y entregado solamente a Dios. El temor puede dividirse en tres clases: 1. El temor reverencial que se experimenta por otro que no sea Dios, ya sea un ídolo o un Tagut, temiendo que éste cause algún perjuicio. Esto es lo que muestran los que adoran tumbas u otros ídolos, les temen y atemorizan a los monoteístas que los invitan a la adoración sincera de Dios único. Una expresión de esto es cuando una persona abandona aquello que le es obligatorio por temor a alguien, lo que muestra la imperfección de su monoteísmo (Tawhid). Dice un hadiz: “Dios ha de decirle al siervo en el Día de la Resurrección: ‘¿Qué te impidió al ver un acto reprobable intentar corregirlo?’ Contestará: ‘¡Oh Señor! Temí la reprobación de la gente’. Dirá: ‘Yo tenía más derecho a ser temido’ ”. Registrado por Ahmad. 2. El temor natural o normal que se experimenta ante el enemigo o un animal salvaje; esta clase de temor no es reprochable. Dijo Dios: “Presuroso, Moisés se alejó de la ciudad con temor y cautela”. (Corán 28:21)
+[^1]: 1. El temor reverencial que se experimenta por otro que no sea Dios, ya sea un ídolo o un Tagut, temiendo que éste cause algún perjuicio. Esto es lo que muestran los que adoran tumbas u otros ídolos, les temen y atemorizan a los monoteístas que los invitan a la adoración sincera de Dios único. Una expresión de esto es cuando una persona abandona aquello que le es obligatorio por temor a alguien, lo que muestra la imperfección de su monoteísmo (Tawhid). Dice un hadiz: “Dios ha de decirle al siervo en el Día de la Resurrección: ‘¿Qué te impidió al ver un acto reprobable intentar corregirlo?’ Contestará: ‘¡Oh Señor! Temí la reprobación de la gente’. Dirá: ‘Yo tenía más derecho a ser temido’ ”. Registrado por Ahmad. 2. El temor natural o normal que se experimenta ante el enemigo o un animal salvaje; esta clase de temor no es reprochable. Dijo Dios: “Presuroso, Moisés se alejó de la ciudad con temor y cautela”. (Corán 28:21)
 
 # 469
 
@@ -2165,9 +2188,9 @@ En la creación de los cielos y de la Tierra, y en la sucesión de la noche y el
 
 # 484
 
-que invocan a Dios de pie, sentados o recostados, que meditan en la creación de los cielos y la Tierra y dicen: "¡Señor nuestro! No has creado todo esto sin un sentido. ¡Glorificado seas! Presérvanos del castigo del Fuego.
+que invocan a Dios de pie, sentados o recostados, que meditan[^1] en la creación de los cielos y la Tierra y dicen: "¡Señor nuestro! No has creado todo esto sin un sentido. ¡Glorificado seas! Presérvanos del castigo del Fuego.
 
-que invocan a Dios de pie, sentados o recostados, que meditan: Éstas son las personas que se benefician de las señales del universo, porque no se detienen en el límite de los parámetros físicos que pueden ver; sino que ven más allá, ven el poder que creó el universo y lo hace funcionar. Ellos usan sus ojos, oídos e intelecto y siguen la guía de los versículos del Corán, los cuales ayudan a que los ojos, los oídos y el intelecto adquieran el estado más sublime que un ser humano puede alcanzar: la certeza en la fe.
+[^1]: Éstas son las personas que se benefician de las señales del universo, porque no se detienen en el límite de los parámetros físicos que pueden ver; sino que ven más allá, ven el poder que creó el universo y lo hace funcionar. Ellos usan sus ojos, oídos e intelecto y siguen la guía de los versículos del Corán, los cuales ayudan a que los ojos, los oídos y el intelecto adquieran el estado más sublime que un ser humano puede alcanzar: la certeza en la fe.
 
 # 485
 
@@ -2263,9 +2286,9 @@ Pero a quien desobedezca a Dios y a Su Mensajero y no cumpla con Sus leyes, Él 
 
 # 508
 
-Si una mujer es acusada de fornicación, deben declarar en su contra cuatro testigos [presenciales del acto]. Si los testigos confirman el hecho, condénenlas a reclusión perpetua en sus casas o hasta que Dios les conceda otra salida.
+Si una mujer es acusada de fornicación, deben declarar en su contra cuatro testigos [presenciales del acto]. Si los testigos confirman el hecho, condénenlas a reclusión perpetua en sus casas o hasta que Dios les conceda otra salida.[^1]
 
-Esta primera pena fue luego remplazada por 24:2.
+[^1]: 2.
 
 # 509
 
@@ -2281,10 +2304,11 @@ Mas no serán perdonados quienes sigan obrando mal [por rebeldía contra Dios] h
 
 # 512
 
-¡Oh, creyentes! Quedan abolidas las costumbres [paganas preislámicas] de heredar a las mujeres como un objeto y de obligarlas a casarse y retenerlas por la fuerza para recuperar parte de lo que les habían dado, a menos que ellas cometan un acto de inmoralidad. En lugar de eso, traten amablemente a las mujeres en la convivencia. Y si algo de ellas les llegara a disgustar [sean tolerantes], puede ser que les desagrade algo en lo que Dios ha puesto un bien para ustedes.
+¡Oh, creyentes! Quedan abolidas las costumbres [paganas preislámicas] de heredar a las mujeres como un objeto y de obligarlas a casarse y retenerlas por la fuerza para recuperar parte de lo que les habían dado[^1], a menos que ellas cometan un acto de inmoralidad[^2]. En lugar de eso, traten amablemente a las mujeres en la convivencia. Y si algo de ellas les llegara a disgustar [sean tolerantes], puede ser que les desagrade algo en lo que Dios ha puesto un bien para ustedes.
 
-parte de lo que les habían dado: Como dote o para heredarla cuando muera.
- un acto de inmoralidad: Si a una mujer se le comprueba la infidelidad el esposo tiene derecho a reclamar la devolución de lo que hubiese regalado como dote.
+[^1]: Como dote o para heredarla cuando muera.
+
+[^2]: Si a una mujer se le comprueba la infidelidad el esposo tiene derecho a reclamar la devolución de lo que hubiese regalado como dote.
 
 # 513
 
@@ -2308,9 +2332,9 @@ Las mujeres decentes y honestas son prohibidas, excepto que sea tomando su mano 
 
 # 518
 
-Quien no disponga de los medios necesarios para casarse con una creyente libre, podrá hacerlo con una esclava creyente. Dios conoce bien la fe de ustedes, y todos proceden de un mismo ser. Cásense con ellas con el permiso de sus tutores, y denles la dote legítima y de buen grado. Tómenlas como mujeres honestas, no como fornicadoras o amantes. Si estas mujeres se casan y cometen una deshonestidad, se les aplicará la mitad del castigo que a las mujeres libres. Esto es para los que teman caer en la fornicación, pero tener paciencia es mejor. Dios es Absolvedor, Misericordioso.
+Quien no disponga de los medios necesarios para casarse con una creyente libre, podrá hacerlo con una esclava creyente[^1]. Dios conoce bien la fe de ustedes, y todos proceden de un mismo ser. Cásense con ellas con el permiso de sus tutores, y denles la dote legítima y de buen grado. Tómenlas como mujeres honestas, no como fornicadoras o amantes. Si estas mujeres se casan y cometen una deshonestidad, se les aplicará la mitad del castigo que a las mujeres libres. Esto es para los que teman caer en la fornicación, pero tener paciencia es mejor. Dios es Absolvedor, Misericordioso.
 
-podrá hacerlo con una esclava creyente: Esta fue otra de las herramientas del Islam para dar dignidad a la mujer, que dejaba de ser esclava para ser esposa y así alcanzar la libertad.
+[^1]: Esta fue otra de las herramientas del Islam para dar dignidad a la mujer, que dejaba de ser esclava para ser esposa y así alcanzar la libertad.
 
 # 519
 
@@ -2342,21 +2366,21 @@ No codicien lo que Dios ha concedido a unos más que a otros. Los hombres obtend
 
 # 526
 
-Cada uno de ustedes tiene derecho a heredar de lo que dejen sus padres y sus parientes más cercanos. Aquellos con quienes hayan celebrado un pacto, también tienen derecho a heredar. Dios es testigo de todas las cosas.
+Cada uno de ustedes tiene derecho a heredar de lo que dejen sus padres y sus parientes más cercanos. Aquellos con quienes hayan celebrado un pacto, también tienen derecho a heredar[^1]. Dios es testigo de todas las cosas.
 
-tienen derecho a heredar: Referencia a los esposos, que no se heredan por consanguinidad, sino por el pacto de matrimonio que los une.
+[^1]: Referencia a los esposos, que no se heredan por consanguinidad, sino por el pacto de matrimonio que los une.
 
 # 527
 
-Los hombres son responsables del cuidado de las mujeres debido a las diferencias [físicas] que Dios ha puesto entre ellos, y por su obligación de mantenerlas con sus bienes materiales. Las mujeres piadosas e íntegras obedecen a Dios y en ausencia de su marido se mantienen fieles, tal como Dios manda. A aquellas de quienes teman maltrato y animadversión, exhórtenlas, tomen distancia no compartiendo el lecho, y por último pongan un límite físico; si les obedecen [en lo que Dios ordena], no les reclamen ni recriminen más. Dios es Sublime, Grande.
+Los hombres son responsables del cuidado de las mujeres debido a las diferencias [físicas] que Dios ha puesto entre ellos, y por su obligación de mantenerlas con sus bienes materiales. Las mujeres piadosas e íntegras obedecen a Dios y en ausencia de su marido se mantienen fieles, tal como Dios manda. A aquellas de quienes teman maltrato y animadversión, exhórtenlas, tomen distancia no compartiendo el lecho, y por último pongan un límite físico[^1]; si les obedecen [en lo que Dios ordena], no les reclamen ni recriminen más. Dios es Sublime, Grande.
 
-pongan un límite físico: Iniciando una separación de hecho por un tiempo, para que ambos tengan posibilidad de reflexionar.
+[^1]: Iniciando una separación de hecho por un tiempo, para que ambos tengan posibilidad de reflexionar.
 
 # 528
 
-Si temen la ruptura del matrimonio, apelen a un mediador de la familia de él y otro de la familia de ella. Si tienen el deseo íntimo de reconciliarse, Dios los ayudará a llegar a un acuerdo. Dios todo lo sabe y está bien informado.
+Si temen la ruptura del matrimonio, apelen a un mediador de la familia de él y otro de la familia de ella. Si tienen el deseo íntimo de reconciliarse, Dios los ayudará a llegar a un acuerdo. Dios todo lo sabe y está bien informado.[^1]
 
-Estos dos versículos enseñan la metodología de solución de conflictos dentro del matrimonio. Primero la exhortación, que es la comunicación, el diálogo comprensivo, la exposición de los argumentos y la clarificación de los asuntos. Si esta instancia falla, el segundo paso es dormir separados y no mantener relaciones sexuales; si eso falla, entonces el tercer paso es una separación temporal, como expresión de que el divorcio es una opción ante este problema. En caso de que nada de esto funcione, y la pareja no pueda solucionar los problemas por sí mismos, el Islam recomienda una ayuda externa, de los familiares, si son competentes, o de mediadores para intentar solucionar el problema. Si los esposos son sinceros y quieren solucionar el conflicto y reconciliarse, aceptan de buena fe esta ayuda externa.
+[^1]: Estos dos versículos enseñan la metodología de solución de conflictos dentro del matrimonio. Primero la exhortación, que es la comunicación, el diálogo comprensivo, la exposición de los argumentos y la clarificación de los asuntos. Si esta instancia falla, el segundo paso es dormir separados y no mantener relaciones sexuales; si eso falla, entonces el tercer paso es una separación temporal, como expresión de que el divorcio es una opción ante este problema. En caso de que nada de esto funcione, y la pareja no pueda solucionar los problemas por sí mismos, el Islam recomienda una ayuda externa, de los familiares, si son competentes, o de mediadores para intentar solucionar el problema. Si los esposos son sinceros y quieren solucionar el conflicto y reconciliarse, aceptan de buena fe esta ayuda externa.
 
 # 529
 
@@ -2408,9 +2432,9 @@ Algunos judíos tergiversan el sentido de las palabras sacándolas de contexto, 
 
 # 541
 
-Dios no perdona la idolatría, pero fuera de ello perdona a quien Le place. Quien asocie algo a Dios comete un pecado gravísimo.
+Dios no perdona[^1] la idolatría, pero fuera de ello perdona a quien Le place. Quien asocie algo a Dios comete un pecado gravísimo.
 
-Dios no perdona: A quien muera sin arrepentirse.
+[^1]: A quien muera sin arrepentirse.
 
 # 542
 
@@ -2454,15 +2478,15 @@ Dios les ordena que restituyan a sus dueños originales lo que se les haya confi
 
 # 552
 
-¡Oh, creyentes! Obedezcan a Dios, obedezcan al Mensajero y a aquellos de ustedes que tengan autoridad y conocimiento. Si realmente creen en Dios y en el Día del Juicio, cuando tengan discrepancias remítanlas al juicio de Dios y del Mensajero, porque en ello hay bien y es el camino correcto.
+¡Oh, creyentes! Obedezcan a Dios, obedezcan al Mensajero y a aquellos de ustedes que tengan autoridad y conocimiento. Si realmente creen en Dios y en el Día del Juicio, cuando tengan discrepancias remítanlas al juicio de Dios y del Mensajero, porque en ello hay bien y es el camino correcto.[^1]
 
-Dijo el exégeta Ibn Kazir: “Dijo Muyahid al igual que muchos de los Salaf: ‘Es decir, al Corán y la Sunnah de Su Mensajero, lo que es un mandato de Dios ante cualquier asunto por el que disputen las personas, ya sea en los fundamentos de la religión o en sus ciencias auxiliares, se debe remitir la disputa al Corán y la Sunnah’”. El Profeta, que la paz y las bendiciones de Dios sean con él, dijo: “Les he dejado dos referencias, nunca se desviarán si se aferran a ellas: el Libro de Dios y la tradición de Su Profeta”. Registrado por Ahmad. Este versículo establece que la obediencia a Dios y a Su Mensajero es absoluta, pero que la obediencia a las personas de autoridad y conocimiento es relativa, y es debida siempre que no contradiga los principios establecidos en el Corán y la Sunnah.
+[^1]: “Dijo Muyahid al igual que muchos de los Salaf: ‘Es decir, al Corán y la Sunnah de Su Mensajero, lo que es un mandato de Dios ante cualquier asunto por el que disputen las personas, ya sea en los fundamentos de la religión o en sus ciencias auxiliares, se debe remitir la disputa al Corán y la Sunnah’”. El Profeta, que la paz y las bendiciones de Dios sean con él, dijo: “Les he dejado dos referencias, nunca se desviarán si se aferran a ellas: el Libro de Dios y la tradición de Su Profeta”. Registrado por Ahmad. Este versículo establece que la obediencia a Dios y a Su Mensajero es absoluta, pero que la obediencia a las personas de autoridad y conocimiento es relativa, y es debida siempre que no contradiga los principios establecidos en el Corán y la Sunnah.
 
 # 553
 
-¿No te causan asombro quienes dicen creer en lo que se te ha revelado y en lo que había sido revelado anteriormente, y sin embargo recurren a la justicia de quienes gobiernan con principios injustos y paganos, a pesar de que se les ha ordenado no creer en eso? El demonio solo quiere que se pierdan lejos [de la fe monoteísta].
+¿No te causan asombro quienes dicen creer en lo que se te ha revelado y en lo que había sido revelado anteriormente, y sin embargo recurren a la justicia de quienes gobiernan con principios injustos y paganos[^1], a pesar de que se les ha ordenado no creer en eso? El demonio solo quiere que se pierdan lejos [de la fe monoteísta].
 
-gobiernan con principios injustos y paganos: Tagut تَغُوطْ , dijo el Imam Malik: “Tagut es todo aquello que es adorado fuera de Dios”. Dijo Ibn Kazir: “Este versículo critica y reprocha a quienes se apartan del Corán y la Sunnah, y recurren al arbitraje y juicio de sistemas falsos, y ese es el significado de Tagut aquí”. Dijo Ibn Al-Qaiim: “Esto prueba que quien es invitado al juicio del Corán y la Sunnah y se rehúsa, es un hipócrita”.
+[^1]: Tagut تَغُوطْ , dijo el Imam Malik: “Tagut es todo aquello que es adorado fuera de Dios”. Dijo Ibn Kazir: “Este versículo critica y reprocha a quienes se apartan del Corán y la Sunnah, y recurren al arbitraje y juicio de sistemas falsos, y ese es el significado de Tagut aquí”. Dijo Ibn Al-Qaiim: “Esto prueba que quien es invitado al juicio del Corán y la Sunnah y se rehúsa, es un hipócrita”.
 
 # 554
 
@@ -2510,9 +2534,9 @@ Esa es la generosidad de Dios. Y Dios es el único que todo lo sabe.
 
 # 565
 
-Habrá entre ustedes quien se rezague, y si sufren un revés dirá: "Dios me ha concedido la gracia de no estar con ellos".
+Habrá entre ustedes[^1] quien se rezague, y si sufren un revés dirá: "Dios me ha concedido la gracia de no estar con ellos".
 
-entre ustedes: Los hipócritas.
+[^1]: Los hipócritas.
 
 # 566
 
@@ -2612,9 +2636,9 @@ Son grados que Él concede, junto con Su perdón y misericordia. Dios es Indulge
 
 # 590
 
-Aquellos que mueran siendo injustos consigo mismos [cometiendo pecados influenciados por la sociedad pagana], los ángeles al tomar sus almas les preguntaran: "¿Qué les pasó?" Responderán: "Nos sentíamos débiles y oprimidos [por los incrédulos]". Les dirán: "¿Acaso la tierra de Dios no era suficientemente vasta como para que emigraran [a otra sociedad]?" Su morada será el Infierno. ¡Qué mal fin!
+Aquellos que mueran siendo injustos consigo mismos [cometiendo pecados influenciados por la sociedad pagana], los ángeles al tomar sus almas les preguntaran: "¿Qué les pasó?" Responderán: "Nos sentíamos débiles y oprimidos [por los incrédulos]". Les dirán: "¿Acaso la tierra de Dios no era suficientemente vasta como para que emigraran [a otra sociedad]?" Su morada será el Infierno. ¡Qué mal fin![^1]
 
-“¿Qué les pasó?": ¿Por qué no apoyaron claramente la causa de la verdad?
+[^1]: ¿Por qué no apoyaron claramente la causa de la verdad?
 
 # 591
 
@@ -2718,10 +2742,11 @@ Su morada será el Infierno del que no encontrarán escapatoria.
 
 # 616
 
-No se trata de lo que ustedes deseen o lo que desee la Gente del Libro. Quien haya obrado mal será retribuido por ello, y no encontrará fuera de Dios protector ni socorredor.
+No se trata de lo que ustedes deseen[^1] o lo que desee la Gente del Libro[^2]. Quien haya obrado mal será retribuido por ello, y no encontrará fuera de Dios protector ni socorredor.
 
-No se trata de lo que ustedes deseen: Dios aclara que la salvación no se alcanza por pertenecer a un grupo determinado, sino por la creencia y las buenas obras. 
-o lo que desee la Gente del Libro: Alusión tanto a la idea de los judíos de ser “el pueblo elegido de Dios” y de que, por ello, tienen asegurada Su misericordia en la otra vida, como al dogma cristiano de la “redención”, que promete la salvación a todos los que creen en Jesús como “hijo de Dios” y que este fue crucificado en la cruz para expiar los pecados de la humanidad.
+[^1]: Dios aclara que la salvación no se alcanza por pertenecer a un grupo determinado, sino por la creencia y las buenas obras.
+
+[^2]: Alusión tanto a la idea de los judíos de ser “el pueblo elegido de Dios” y de que, por ello, tienen asegurada Su misericordia en la otra vida, como al dogma cristiano de la “redención”, que promete la salvación a todos los que creen en Jesús como “hijo de Dios” y que este fue crucificado en la cruz para expiar los pecados de la humanidad.
 
 # 617
 
@@ -2865,9 +2890,9 @@ Dios lo ascendió al cielo [en cuerpo y alma]. Dios es Poderoso, Sabio.
 
 # 652
 
-La Gente del Libro comprenderá, antes de la muerte, la verdad sobre Jesús, y el Día del Juicio él testificará en contra [de quienes lo negaron y de quienes lo adoraron].
+La Gente del Libro comprenderá, antes de la muerte, la verdad sobre Jesús[^1], y el Día del Juicio él testificará en contra [de quienes lo negaron y de quienes lo adoraron].
 
-Jesús: Que no era un impostor como alegaron algunos judíos, ni una deidad, como alegan los cristianos, sino un profeta enviado por Dios.
+[^1]: Que no era un impostor como alegaron algunos judíos, ni una deidad, como alegan los cristianos, sino un profeta enviado por Dios.
 
 # 653
 
@@ -2935,9 +2960,9 @@ A quienes creyeron y se aferraron a Dios, Él tendrá compasión de ellos, los a
 
 # 669
 
-Te piden una respuesta [sobre la herencia]. Diles: "Dios dictamina sobre quien no tiene padre ni hijo. Si un hombre muere sin dejar hijos, pero sí una hermana, ésta heredará la mitad de lo que dejare, y si ella muere sin dejar hijos, él la heredará. Si el difunto deja dos hermanas, éstas heredarán dos tercios de lo que dejare. Si tiene hermanos, varones y mujeres, a cada varón le corresponderá lo mismo que a dos mujeres. Dios se los aclara para que no se desvíen [de lo que es justo]. Dios todo lo sabe.
+Te piden una respuesta [sobre la herencia]. Diles: "Dios dictamina sobre quien no tiene padre ni hijo. Si un hombre muere sin dejar hijos, pero sí una hermana, ésta heredará la mitad de lo que dejare, y si ella muere sin dejar hijos, él la heredará. Si el difunto deja dos hermanas, éstas heredarán dos tercios de lo que dejare. Si tiene hermanos, varones y mujeres, a cada varón le corresponderá lo mismo que a dos mujeres[^1]. Dios se los aclara para que no se desvíen [de lo que es justo]. Dios todo lo sabe.
 
-a cada varón le corresponderá lo mismo que a dos mujeres: La mujer en el Islam tiene asignada su parte en la división de la herencia. En este versículo se establece que las hijas reciben la mitad que sus hermanos varones. Esta mitad, aunque en apariencia pueda verse como injusto, es un porcentaje generoso y justo, ya que en la legislación islámica para la familia, los hombres son los que tienen que asumir las obligaciones de manutención de la misma. Por ejemplo, sobre el hombre pesa la responsabilidad de entregar la dote a su futura esposa, asumir los gastos de su esposa e hijos y, en algún momento, de mantener también a sus padres. En el caso de la mujer, acorde a la legislación islámica para la familia, ella no es responsable de mantener económicamente a nadie, excepto que lo haga de buena voluntad y como colaboración para el hogar, porque su padre, sus hermanos o su esposo son los responsables de mantenerla, sin importar qué tan rica sea ella. Aun así, existen escenarios en los que la mujer recibe de herencia una porción igual a la del hombre.
+[^1]: La mujer en el Islam tiene asignada su parte en la división de la herencia. En este versículo se establece que las hijas reciben la mitad que sus hermanos varones. Esta mitad, aunque en apariencia pueda verse como injusto, es un porcentaje generoso y justo, ya que en la legislación islámica para la familia, los hombres son los que tienen que asumir las obligaciones de manutención de la misma. Por ejemplo, sobre el hombre pesa la responsabilidad de entregar la dote a su futura esposa, asumir los gastos de su esposa e hijos y, en algún momento, de mantener también a sus padres. En el caso de la mujer, acorde a la legislación islámica para la familia, ella no es responsable de mantener económicamente a nadie, excepto que lo haga de buena voluntad y como colaboración para el hogar, porque su padre, sus hermanos o su esposo son los responsables de mantenerla, sin importar qué tan rica sea ella. Aun así, existen escenarios en los que la mujer recibe de herencia una porción igual a la del hombre.
 
 # 670
 
@@ -2961,9 +2986,9 @@ De hoy en adelante les es permitido todo [alimento] bueno. La carne de los [anim
 
 # 675
 
-¡Oh, creyentes! Cuando se dispongan a hacer la oración lávense el rostro y los brazos hasta los codos, pasen las manos [húmedas] por la cabeza y [laven] los pies hasta los tobillos. Si están en estado de impureza mayor, tomen un baño [completo]. Si están enfermos o de viaje o han hecho sus necesidades [biológicas] o han cohabitado con su mujer y no encuentran agua, usen [para la ablución virtual] tierra limpia y pásenla por el rostro y las manos. Dios no quiere imponerles dificultades, solo quiere purificarlos y completar Su favor sobre ustedes para que sean agradecidos.
+¡Oh, creyentes! Cuando se dispongan a hacer la oración lávense el rostro y los brazos hasta los codos, pasen las manos [húmedas] por la cabeza y [laven] los pies hasta los tobillos. Si están en estado de impureza mayor, tomen un baño [completo]. Si están enfermos o de viaje o han hecho sus necesidades [biológicas] o han cohabitado con su mujer y no encuentran agua, usen [para la ablución virtual][^1] tierra limpia y pásenla por el rostro y las manos. Dios no quiere imponerles dificultades, solo quiere purificarlos y completar Su favor sobre ustedes para que sean agradecidos.
 
-[para la ablución virtual]: Ver Corán 4:43 y su comentario.
+[^1]: Ver Corán 4:43 y su comentario.
 
 # 676
 
@@ -3015,9 +3040,9 @@ Dicen judíos y cristianos: "Somos hijos de Dios y sus predilectos". Diles: "Si 
 
 # 688
 
-¡Oh, Gente del Libro! Luego de que pasara un tiempo desde el último Mensajero, les ha llegado Mi Mensajero para aclararles la verdad, y que no puedan decir [el Día del Juicio Final]: "No se nos presentó nadie que nos albriciara [con el monoteísmo] y nos advirtiera [contra la idolatría]". Pues ahora sí tienen quien les albricia y les advierte, porque Dios es sobre toda cosa Poderoso.
+¡Oh, Gente del Libro! Luego de que pasara un tiempo desde el último Mensajero[^1], les ha llegado Mi Mensajero para aclararles la verdad, y que no puedan decir [el Día del Juicio Final]: "No se nos presentó nadie que nos albriciara [con el monoteísmo] y nos advirtiera [contra la idolatría]". Pues ahora sí tienen quien les albricia y les advierte, porque Dios es sobre toda cosa Poderoso.
 
-desde el último Mensajero: Jesús, que la paz de Dios sea con él.
+[^1]: Jesús, que la paz de Dios sea con él.
 
 # 689
 
@@ -3105,9 +3130,9 @@ Pero a quien se arrepienta luego de cometer un delito o injusticia y enmiende, D
 
 # 710
 
-¡Oh, Mensajero! No te entristezcas por quienes se precipitan a negar la verdad, como quienes dicen: "Creemos", pero sus corazones no creen. Entre los judíos hay quienes prestan oídos a cualquier falsedad que se diga, escuchan ávidamente sin venir a pedirte aclaración. Tergiversan el sentido de las palabras [reveladas] sacándolas de su contexto, y dicen: "Si se les dice así [acorde a su tergiversación] acéptenlo; caso contrario, rechácenlo". A quien Dios pone a prueba con una tentación, no podrás hacer nada para salvarlo. Dios no ha querido purificar sus corazones. Ellos serán denigrados en esta vida, y en la otra tendrán un castigo terrible.
+¡Oh, Mensajero! No te entristezcas por quienes se precipitan a negar la verdad, como quienes dicen: "Creemos", pero sus corazones no creen. Entre los judíos hay quienes prestan oídos a cualquier falsedad que se diga, escuchan ávidamente sin venir a pedirte aclaración. Tergiversan el sentido de las palabras [reveladas] sacándolas de su contexto, y dicen: "Si se les dice así [acorde a su tergiversación] acéptenlo; caso contrario, rechácenlo". A quien Dios pone a prueba con una tentación, no podrás hacer nada para salvarlo. Dios no ha querido purificar sus corazones[^1]. Ellos serán denigrados en esta vida, y en la otra tendrán un castigo terrible.
 
-Dios no ha querido purificar sus corazones: A causa de sus pecados.
+[^1]: A causa de sus pecados.
 
 # 711
 
@@ -3119,9 +3144,9 @@ Prestan oídos a la mentira y se benefician vorazmente del soborno. Si se presen
 
 # 713
 
-He revelado la Tora, en la que hay guía y luz. Los Profetas entregados [a la voluntad de Dios] juzgaban entre los judíos. Lo mismo hicieron los rabinos y juristas en cumplimiento de su misión de custodiar el Libro de Dios y ser testigos de él [en sus enseñanzas]. No teman a la gente sino que tengan temor de Mí. No vendan Mis preceptos por un precio vil. Quienes no juzgan conforme a lo que Dios ha revelado [por considerarlo inferior], ésos son los verdaderos incrédulos.
+He revelado la Tora, en la que hay guía y luz. Los Profetas entregados [a la voluntad de Dios] juzgaban entre los judíos. Lo mismo hicieron los rabinos y juristas en cumplimiento de su misión de custodiar el Libro de Dios y ser testigos de él [en sus enseñanzas]. No teman a la gente sino que tengan temor de Mí. No vendan Mis preceptos por un precio vil. Quienes no juzgan conforme a lo que Dios ha revelado [por considerarlo inferior], ésos son los verdaderos incrédulos[^1].
 
-ésos son los verdaderos incrédulos: Cita Ibn Kazir que Ibn Abbas dijo: “Quien niegue y rechace la ley de Dios deviene incrédulo, y quien la reconozca y acepte, pero no juzgue con ella en alguna ocasión, es un opresor perverso”.
+[^1]: Cita Ibn Kazir que Ibn Abbas dijo: “Quien niegue y rechace la ley de Dios deviene incrédulo, y quien la reconozca y acepte, pero no juzgue con ella en alguna ocasión, es un opresor perverso”.
 
 # 714
 
@@ -3153,9 +3178,9 @@ Juzga entre ellos conforme a lo que Dios ha revelado, no te sometas a sus deseos
 
 # 721
 
-Verás que quienes tienen una enfermedad en sus corazones [la hipocresía] se apresuran buscando su complacencia y dicen: "Tenemos miedo de que nos sorprenda una derrota". Pero puede que Dios les tenga deparada la victoria o algún otro decreto, y entonces tengan que arrepentirse de lo que pensaban.
+Verás que quienes tienen una enfermedad en sus corazones [la hipocresía] se apresuran buscando su complacencia[^1] y dicen: "Tenemos miedo de que nos sorprenda una derrota". Pero puede que Dios les tenga deparada la victoria o algún otro decreto, y entonces tengan que arrepentirse de lo que pensaban.
 
-buscando su complacencia: La de judíos, cristianos y paganos.
+[^1]: La de judíos, cristianos y paganos.
 
 # 722
 
@@ -3187,9 +3212,9 @@ Di: "¡Oh, Gente del Libro! ¿Acaso nos reprochan que creamos en Dios, en la rev
 
 # 729
 
-Di: "¿No quieren acaso que les informe quiénes tendrán peor retribución que éstos ante Dios? Son quienes maldijo Dios, los que incurrieron en Su ira, los que convirtió en monos y cerdos, y los que adoran a los falsos dioses. Esos son los que se encuentran en una situación peor y son los más extraviados del camino recto.
+Di: "¿No quieren acaso que les informe quiénes tendrán peor retribución que éstos ante Dios? Son quienes maldijo Dios, los que incurrieron en Su ira, los que convirtió en monos y cerdos[^1], y los que adoran a los falsos dioses. Esos son los que se encuentran en una situación peor y son los más extraviados del camino recto.
 
-los que convirtió en monos y cerdos: Ver Corán 2:65.
+[^1]: Ver Corán 2:65.
 
 # 730
 
@@ -3205,9 +3230,9 @@ Verás a muchos de ellos precipitarse en el pecado, la injusticia y apoderarse d
 
 # 733
 
-Estos judíos dijeron: "La mano de Dios está cerrada". Son sus manos las que se cerraron, y cayeron en la maldición de Dios por su blasfemia. Por el contrario, Sus dos manos están extendidas y dispensa [generosamente] según Su voluntad. Lo que te ha sido revelado por tu Señor acrecentará en muchos de ellos la arrogancia y la negación de la verdad. Hemos previsto entre ellos la enemistad y el odio hasta el Día de la Resurrección. Siempre que enciendan el fuego de la guerra [contra ustedes], Dios lo apagará. Ellos se esfuerzan por sembrar la corrupción en la Tierra, pero Dios no ama a los que siembran la corrupción.
+Estos judíos dijeron: "La mano de Dios está cerrada". Son sus manos las que se cerraron, y cayeron en la maldición de Dios por su blasfemia. Por el contrario, Sus dos manos están extendidas y dispensa [generosamente] según Su voluntad. Lo que te ha sido revelado por tu Señor acrecentará en muchos de ellos la arrogancia y la negación de la verdad. Hemos previsto entre ellos la enemistad y el odio hasta el Día de la Resurrección. Siempre que enciendan el fuego de la guerra [contra ustedes], Dios lo apagará. Ellos se esfuerzan por sembrar la corrupción en la Tierra, pero Dios no ama a los que siembran la corrupción.[^1]
 
-“La mano de Dios está cerrada”: Expresión árabe que indica la falta de generosidad.
+[^1]: Expresión árabe que indica la falta de generosidad.
 
 # 734
 
@@ -3227,9 +3252,9 @@ Di: "¡Oh, Gente del Libro! No tendrán fundamento alguno mientras no se atengan
 
 # 738
 
-Los creyentes [en el Islam], los judíos, los sabeos y los cristianos, quienes crean en Dios [sin asociarle nada] y en el Día del Juicio y obren rectamente, no deben sentir temor ni tristeza [por su futuro].
+Los creyentes [en el Islam], los judíos, los sabeos[^1] y los cristianos, quienes crean en Dios [sin asociarle nada] y en el Día del Juicio y obren rectamente, no deben sentir temor ni tristeza [por su futuro].
 
-los sabeos: Los monoteístas que no siguen una religión determinada.
+[^1]: Los monoteístas que no siguen una religión determinada.
 
 # 739
 
@@ -3241,9 +3266,9 @@ Creían que no les alcanzaría ninguna calamidad [por sus crímenes] y se volvie
 
 # 741
 
-Quienes dicen: "Dios y el Mesías hijo de María son una misma persona" niegan la verdad, porque el mismo Mesías dijo: "¡Oh, Hijos de Israel! Adoren solo a Dios, que es mi Señor y el suyo". A quien atribuya actos de adoración a otros además de Dios, Él le vedará el Paraíso y su morada será el Infierno. Los injustos no tendrán quién los socorra.
+Quienes dicen: "Dios y el Mesías hijo de María son una misma persona" niegan la verdad, porque el mismo Mesías dijo: "¡Oh, Hijos de Israel! Adoren solo a Dios, que es mi Señor y el suyo[^1]". A quien atribuya actos de adoración a otros además de Dios, Él le vedará el Paraíso y su morada será el Infierno. Los injustos no tendrán quién los socorra.
 
-Adoren solo a Dios, que es mi Señor y el suyo: Irónicamente los cristianos encuentran esa enseñanza en las palabras mismas de Jesús, pero prefieren seguir la deformación que hicieron otras personas de esa creencia clara y evidente en el monoteísmo. En Marcos 12:28-31 dice: “Uno de los maestros de la ley se acercó y los oyó discutiendo. Al ver lo bien que Jesús les había contestado, le preguntó: —De todos los mandamientos, ¿cuál es el más importante? —El más importante es: ‘Oye, Israel. El Señor nuestro Dios, el Señor es uno —contestó Jesús. Ama al Señor tu Dios con todo tu corazón, con toda tu alma, con toda tu mente y con todas tus fuerzas’
+[^1]: Irónicamente los cristianos encuentran esa enseñanza en las palabras mismas de Jesús, pero prefieren seguir la deformación que hicieron otras personas de esa creencia clara y evidente en el monoteísmo. En Marcos 12:28-31 dice: “Uno de los maestros de la ley se acercó y los oyó discutiendo. Al ver lo bien que Jesús les había contestado, le preguntó: —De todos los mandamientos, ¿cuál es el más importante? —El más importante es: ‘Oye, Israel. El Señor nuestro Dios, el Señor es uno —contestó Jesús. Ama al Señor tu Dios con todo tu corazón, con toda tu alma, con toda tu mente y con todas tus fuerzas’
 
 # 742
 
@@ -3311,9 +3336,9 @@ Coman de lo lícito y bueno que Dios les ha proveído, y tengan temor de Dios, e
 
 # 758
 
-Dios no va a pedirles cuentas por los juramentos [que hagan] sin intención, pero sí [va a preguntarles] por los que hayan pronunciado reflexionando sobre su implicancia. En estos casos deberán expiarlos alimentando a diez pobres como alimentan a su familia, o dándoles vestimenta, o liberando a un esclavo. Quien no encuentre los medios [económicos para una de estas tres opciones] deberá ayunar tres días. Ésta es la expiación de los juramentos [si no los cumplen]. Sean cuidadosos con sus juramentos, pero cuando los hagan deben cumplirlos. Así es cómo Dios explica Su mensaje, para que sean agradecidos.
+Dios no va a pedirles cuentas por los juramentos [que hagan] sin intención, pero sí [va a preguntarles] por los que hayan pronunciado reflexionando sobre su implicancia. En estos casos deberán expiarlos alimentando a diez pobres como alimentan a su familia, o dándoles vestimenta, o liberando a un esclavo. Quien no encuentre los medios [económicos para una de estas tres opciones] deberá ayunar tres días. Ésta es la expiación de los juramentos [si no los cumplen]. Sean cuidadosos con sus juramentos[^1], pero cuando los hagan deben cumplirlos. Así es cómo Dios explica Su mensaje, para que sean agradecidos.
 
-Sean cuidadosos con sus juramentos: Esta frase implica: 1) Solo pueden jurar por Dios. 2) Deben abandonar la costumbre de jurar por cosas sin importancia. 3) Si han jurado, cumplan con el juramento. 4) Si no pueden o no quieren cumplir con el juramento, deben cumplir con la expiación.
+[^1]: Esta frase implica: 1) Solo pueden jurar por Dios. 2) Deben abandonar la costumbre de jurar por cosas sin importancia. 3) Si han jurado, cumplan con el juramento. 4) Si no pueden o no quieren cumplir con el juramento, deben cumplir con la expiación.
 
 # 759
 
@@ -3397,9 +3422,9 @@ Esto es lo más adecuado para lograr que presten un testimonio exacto o que tema
 
 # 779
 
-Dios dirá: "¡Oh, Jesús hijo de María! Recuerda las bendiciones que te concedí a ti y a tu madre, cuando te fortalecí con el Espíritu Santo para que pudieras hablar a la gente desde la cuna y de adulto, y te enseñé la escritura, la sabiduría, la Tora y el Evangelio. Cuando modelaste con arcilla un pájaro con Mi anuencia, y luego soplaste en él y se convirtió en un pájaro real con Mi permiso, y curaste al ciego de nacimiento y al leproso con Mi permiso, y resucitaste al muerto con Mi permiso. Te protegí de los Hijos de Israel cuando te presentaste ante ellos con las evidencias, y los que negaron la verdad dijeron: "Esto es hechicería pura".
+Dios dirá: "¡Oh, Jesús hijo de María! Recuerda las bendiciones que te concedí a ti y a tu madre, cuando te fortalecí con el Espíritu Santo[^1] para que pudieras hablar a la gente desde la cuna y de adulto, y te enseñé la escritura, la sabiduría, la Tora y el Evangelio. Cuando modelaste con arcilla un pájaro con Mi anuencia, y luego soplaste en él y se convirtió en un pájaro real con Mi permiso, y curaste al ciego de nacimiento y al leproso con Mi permiso, y resucitaste al muerto con Mi permiso. Te protegí de los Hijos de Israel cuando te presentaste ante ellos con las evidencias, y los que negaron la verdad dijeron: "Esto es hechicería pura".
 
-el Espíritu Santo: Así es llamado el ángel Gabriel, encargado de hacer llegar la revelación de Dios a Sus profetas.
+[^1]: Así es llamado el ángel Gabriel, encargado de hacer llegar la revelación de Dios a Sus profetas.
 
 # 780
 
@@ -3431,9 +3456,9 @@ No les transmití sino lo que Tú me has ordenado: ‘Adoren solo a Dios, mi Se�
 
 # 787
 
-Si los castigas, lo haces con derecho, pues son Tus siervos; pero si los perdonas, Tú eres el Poderoso, el Sabio".
+Si los castigas, lo haces con derecho, pues son Tus siervos[^1]; pero si los perdonas, Tú eres el Poderoso, el Sabio".
 
-son Tus siervos: Todos los seres humanos somos siervos de Dios. Los creyentes someten espontáneamente su voluntad a la voluntad de Dios, y eso los hace Sus siervos por elección; y los que no creen en Dios o Le asocian ídolos a los que adoran, igualmente están sometidos a la predestinación y el juicio de Dios y, por lo tanto, son Sus siervos, aunque no lo acepten.
+[^1]: Todos los seres humanos somos siervos de Dios. Los creyentes someten espontáneamente su voluntad a la voluntad de Dios, y eso los hace Sus siervos por elección; y los que no creen en Dios o Le asocian ídolos a los que adoran, igualmente están sometidos a la predestinación y el juicio de Dios y, por lo tanto, son Sus siervos, aunque no lo acepten.
 
 # 788
 
@@ -3473,9 +3498,9 @@ Y aunque te hubiera hecho descender un libro escrito en un pergamino y lo hubier
 
 # 797
 
-Ellos dicen: "¿Por qué no hizo descender un ángel junto a él?" Pero si hubiese enviado un ángel el asunto habría quedado decidido, y no se les habría dado ningún plazo de espera [para creer].
+Ellos dicen: "¿Por qué no hizo descender un ángel junto a él?" Pero si hubiese enviado un ángel el asunto habría quedado decidido[^1], y no se les habría dado ningún plazo de espera [para creer].
 
-el asunto habría quedado decidido: La fe implica creer en asuntos de lo oculto. Cuando tales los asuntos se hacen manifiestos, ya no existe recompensa por “creer” en ellos. Este versículo se refiere a que cuando los ángeles se muestren a las personas y las realidades del más allá sean visibles, dejarán de ser del oculto y por lo tanto significará que su destino estará sellado, porque ya no tendrá recompensa “creer” en ello.
+[^1]: La fe implica creer en asuntos de lo oculto. Cuando tales los asuntos se hacen manifiestos, ya no existe recompensa por “creer” en ellos. Este versículo se refiere a que cuando los ángeles se muestren a las personas y las realidades del más allá sean visibles, dejarán de ser del oculto y por lo tanto significará que su destino estará sellado, porque ya no tendrá recompensa “creer” en ello.
 
 # 798
 
@@ -3671,9 +3696,9 @@ Diles: "Me fue prohibido adorar aquello que invocan en lugar de Dios". Diles: "N
 
 # 846
 
-Diles: "Yo sigo la palabra que proviene de mi Señor, que ustedes desmienten. Lo que piden que suceda pronto, no está en mis manos. La decisión pertenece solo a Dios. Él juzga con la verdad y es el mejor de los jueces".
+Diles: "Yo sigo la palabra que proviene de mi Señor, que ustedes desmienten. Lo que piden que suceda pronto[^1], no está en mis manos. La decisión pertenece solo a Dios. Él juzga con la verdad y es el mejor de los jueces".
 
-Lo que piden que suceda pronto: El castigo de Dios que desafían.
+[^1]: El castigo de Dios que desafían.
 
 # 847
 
@@ -3749,9 +3774,9 @@ Así fue que le mostré a Abraham los milagros de los cielos y de la Tierra, par
 
 # 865
 
-Al llegar la noche vio una estrella y le dijo [a su pueblo]: "¡Este es mi Señor!" Pero cuando desapareció dijo: "No adoro lo que se ausenta".
+Al llegar la noche vio una estrella y le dijo [a su pueblo][^1]: "¡Este es mi Señor!" Pero cuando desapareció dijo: "No adoro lo que se ausenta".
 
-le dijo [a su pueblo]: El Profeta Abraham, que la paz de Dios sea con él, jamás fue politeísta ni astrólatra, sino que usó el ejemplo y la ironía para mostrarle a su pueblo lo absurdo de la adoración de ídolos.
+[^1]: El Profeta Abraham, que la paz de Dios sea con él, jamás fue politeísta ni astrólatra, sino que usó el ejemplo y la ironía para mostrarle a su pueblo lo absurdo de la adoración de ídolos.
 
 # 866
 
@@ -3815,11 +3840,11 @@ Ellos son los que Dios ha guiado, sigue su ejemplo. Y diles [a los que te rechaz
 
 # 881
 
-Este es un Libro bendito que he revelado en confirmación de los Libros anteriores, y para que adviertas a la Madre de las Ciudades y a quienes viven en sus alrededores [el resto de la humanidad]. Los que creen en la otra vida creen en él y observan la oración.
+Este es un Libro bendito que he revelado en confirmación de los Libros anteriores, y para que adviertas a la Madre de las Ciudades[^1] y a quienes viven en sus alrededores [el resto de la humanidad]. Los que creen en la otra vida creen en él[^2] y observan la oración.
 
-Madre de las Ciudades: La Meca.
- 
- creen en él: El Corán.
+[^1]: La Meca.
+
+[^2]: El Corán.
 
 # 882
 
@@ -3851,9 +3876,9 @@ He hecho descender agua del cielo con la cual hago brotar toda clase de vegetaci
 
 # 889
 
-[Pero los idólatras] asocian a los yinn con Dios [en la divinidad], siendo que Él es Quien ha creado [a los yinn]. Y Le atribuyen [a Dios], en su ignorancia, hijos e hijas. ¡Glorificado y Exaltado sea! Dios está por encima de ser como Lo describen.
+[Pero los idólatras] asocian a los yinn[^1] con Dios [en la divinidad], siendo que Él es Quien ha creado [a los yinn]. Y Le atribuyen [a Dios], en su ignorancia, hijos e hijas. ¡Glorificado y Exaltado sea! Dios está por encima de ser como Lo describen.
 
-los yinn: Ver capítulo 72.
+[^1]: Ver capítulo 72.
 
 # 890
 
@@ -3869,9 +3894,9 @@ La vista [de los seres humanos] no puede abarcarlo, pero Él sí ve [a todos Sus
 
 # 893
 
-Han recibido evidencias de su Señor. Quien las comprenda será en beneficio propio, pero quien se enceguezca lo hará en detrimento propio. [Diles:] "Yo no soy su custodio".
+Han recibido evidencias de su Señor. Quien las comprenda será en beneficio propio, pero quien se enceguezca lo hará en detrimento propio. [Diles:] "Yo no soy su custodio".[^1]
 
-“Yo no soy su custodio”: No soy responsable de sus elecciones y acciones, solo se me ha encomendado transmitirles el Mensaje.
+[^1]: No soy responsable de sus elecciones y acciones, solo se me ha encomendado transmitirles el Mensaje.
 
 # 894
 
@@ -3887,9 +3912,9 @@ Si Dios hubiera querido no Le hubieran asociado nada. Pero no eres responsable d
 
 # 897
 
-Pero no insulten a quienes son invocados en lugar de Dios, porque insultarán a Dios con hostilidad sin tener real conocimiento [acerca de lo que dicen], pues he hecho que a cada pueblo le parezcan buenas sus obras, pero finalmente todos comparecerán ante su Señor, Quien les informará lo que hacían.
+Pero no insulten a quienes son invocados en lugar de Dios[^1], porque insultarán a Dios con hostilidad sin tener real conocimiento [acerca de lo que dicen], pues he hecho que a cada pueblo le parezcan buenas sus obras, pero finalmente todos comparecerán ante su Señor, Quien les informará lo que hacían.
 
-quienes son invocados en lugar de Dios: Las falsas divinidades que adoran los idólatras.
+[^1]: Las falsas divinidades que adoran los idólatras.
 
 # 898
 
@@ -3957,9 +3982,9 @@ Cuando se les presenta un milagro dicen: "No creeremos hasta que se nos conceda 
 
 # 914
 
-A quien Dios quiere guiar le abre el corazón para que acepte el Islam. En cambio, a quien Él quiere extraviar le oprime fuertemente el pecho como si subiera a un lugar muy elevado. Así es como Dios humilla a quienes se niegan a creer.
+A quien Dios quiere guiar le abre el corazón para que acepte el Islam. En cambio, a quien Él quiere extraviar le oprime fuertemente el pecho como si subiera a un lugar muy elevado. Así es como Dios humilla a quienes se niegan a creer.[^1]
 
-Este versículo hace una clara referencia a dos hechos recientemente descubiertos por la ciencia moderna: el primero es la opresión del pecho debida a la carencia de oxígeno y la disminución de presión atmosférica cuando el ser humano asciende y atraviesa las capas de la atmósfera. La segunda es el estado crítico de ahogamiento que precede a la muerte; esto ocurre cuando se sobrepasa los 9.000 metros por encima del nivel del mar, a causa de la disminución drástica de presión y la carencia extrema de oxígeno. Por otra parte, el término árabe yassa’du يَصَّعَدُ que significa “subir con dificultad”, no es más que una descripción precisa del dolor y el sufrimiento producidos por este hecho.
+[^1]: el primero es la opresión del pecho debida a la carencia de oxígeno y la disminución de presión atmosférica cuando el ser humano asciende y atraviesa las capas de la atmósfera. La segunda es el estado crítico de ahogamiento que precede a la muerte; esto ocurre cuando se sobrepasa los 9.000 metros por encima del nivel del mar, a causa de la disminución drástica de presión y la carencia extrema de oxígeno. Por otra parte, el término árabe yassa’du يَصَّعَدُ que significa “subir con dificultad”, no es más que una descripción precisa del dolor y el sufrimiento producidos por este hecho.
 
 # 915
 
@@ -4023,9 +4048,9 @@ Están perdidos quienes maten a sus hijos por necedad e ignorancia, y prohíban 
 
 # 930
 
-Él es Quien ha creado huertos, unos cultivados y otros silvestres, [y ha creado también] las palmeras, las plantas de diferentes frutos, los olivos y los granados, [todos de aspecto] similar pero distintos. Coman de sus frutos cuando maduren, pero el día de la cosecha den la parte que corresponde [a los pobres] y no derrochen, porque Dios no ama a los derrochadores.
+Él es Quien ha creado huertos, unos cultivados y otros silvestres, [y ha creado también] las palmeras, las plantas de diferentes frutos, los olivos y los granados, [todos de aspecto] similar pero distintos. Coman de sus frutos cuando maduren, pero el día de la cosecha den la parte que corresponde [a los pobres][^1] y no derrochen, porque Dios no ama a los derrochadores.
 
-den la parte que corresponde [a los pobres]: El zakat de las cosechas se paga en especies, y como se evidencia en este caso, no es entregado a una institución que alega ser representante de Dios sobre la Tierra ni se entrega a las autoridades religiosas, sino que se entrega directamente a los pobres y necesitados.
+[^1]: El zakat de las cosechas se paga en especies, y como se evidencia en este caso, no es entregado a una institución que alega ser representante de Dios sobre la Tierra ni se entrega a las autoridades religiosas, sino que se entrega directamente a los pobres y necesitados.
 
 # 931
 
@@ -4033,17 +4058,19 @@ De los ganados [Dios creó] algunos para la carga y otros para su consumo. Coman
 
 # 932
 
-[Ellos alegan falsamente que] Ocho reses en parejas [están prohibidas]: del ovino dos y del cabrío dos. Pregúntales entonces: "¿Qué les ha prohibido [Dios], los dos machos, las dos hembras, o lo que se encuentra en el vientre de las dos hembras? Fundamenten lo que afirman, si es que son sinceros".
+[Ellos alegan falsamente que] Ocho reses en parejas [están prohibidas]: del ovino dos[^1] y del cabrío dos[^2]. Pregúntales entonces: "¿Qué les ha prohibido [Dios], los dos machos, las dos hembras, o lo que se encuentra en el vientre de las dos hembras? Fundamenten lo que afirman, si es que son sinceros".
 
-del ovino dos: Oveja y carnero. 
-del cabrío dos: Cabra y macho cabrío.
+[^1]: Oveja y carnero.
+
+[^2]: Cabra y macho cabrío.
 
 # 933
 
-Y de los camélidos dos y del bovino dos. Pregúntales: "¿Qué les ha prohibido [Dios], los dos machos, las dos hembras, o lo que se encuentra en el vientre de las dos hembras? ¿Acaso estuvieron presentes cuando Dios les prescribió eso?" No hay nadie más injusto que aquél que inventa mentiras acerca de Dios sin fundamentos, para desviar a la gente. Dios no guía a los opresores.
+Y de los camélidos dos[^1] y del bovino dos[^2]. Pregúntales: "¿Qué les ha prohibido [Dios], los dos machos, las dos hembras, o lo que se encuentra en el vientre de las dos hembras? ¿Acaso estuvieron presentes cuando Dios les prescribió eso?" No hay nadie más injusto que aquél que inventa mentiras acerca de Dios sin fundamentos, para desviar a la gente. Dios no guía a los opresores.
 
-de los camélidos dos: Camella y camello. 
-del bovino dos: Vaca y toro.
+[^1]: Camella y camello.
+
+[^2]: Vaca y toro.
 
 # 934
 
@@ -4087,9 +4114,9 @@ También le he revelado el Libro a Moisés para completar Mi gracia sobre los qu
 
 # 944
 
-Este es un Libro bendito que he revelado para que lo sigan, quizás así se les tenga misericordia.
+Este es un Libro bendito[^1] que he revelado para que lo sigan, quizás así se les tenga misericordia.
 
-un Libro bendito : El Sagrado Corán.
+[^1]: El Sagrado Corán.
 
 # 945
 
@@ -4101,9 +4128,9 @@ O digan: "Si hubiéramos recibido la revelación, habríamos seguido la guía me
 
 # 947
 
-¿Acaso esperan que se presenten ante ellos los ángeles o su Señor mismo o se presente un signo de su Señor? El día que vean el signo de tu Señor, a ningún alma le servirá creer o arrepentirse si no lo ha hecho anteriormente. Diles: "Sigan esperando, que nosotros también lo hacemos".
+¿Acaso esperan que se presenten ante ellos los ángeles o su Señor mismo o se presente un signo[^1] de su Señor? El día que vean el signo de tu Señor, a ningún alma le servirá creer o arrepentirse si no lo ha hecho anteriormente. Diles: "Sigan esperando, que nosotros también lo hacemos".
 
-un signo: Un signo del fin del mundo.
+[^1]: Un signo del fin del mundo.
 
 # 948
 
@@ -4139,9 +4166,9 @@ Diles: "¿Acaso debería adorar a otro que no fuese Dios, cuando es Él el Cread
 
 # 956
 
-Éste es el Libro que te ha sido revelado, no tengas duda en tu corazón sobre ello, para que adviertas con él y como recuerdo para los creyentes.
+Éste es el Libro[^1] que te ha sido revelado, no tengas duda en tu corazón sobre ello, para que adviertas con él y como recuerdo para los creyentes.
 
-Éste es el Libro: El Corán.
+[^1]: El Corán.
 
 # 957
 
@@ -4165,9 +4192,9 @@ y les informaré acerca de todos sus actos con conocimiento, pues nunca estuve a
 
 # 962
 
-Ese día se pesarán las obras con la verdad. Aquellos cuyas [buenas] obras pesen más [en la balanza] serán los bienaventurados.
+Ese día[^1] se pesarán las obras con la verdad. Aquellos cuyas [buenas] obras pesen más [en la balanza] serán los bienaventurados.
 
-Ese día: El Día del Juicio Final.
+[^1]: El Día del Juicio Final.
 
 # 963
 
@@ -4183,15 +4210,15 @@ Creé [al ser humano] y le di forma [armoniosa]. Luego dije a los ángeles: "¡H
 
 # 966
 
-[Dios] le preguntó: "¿Qué te impidió prosternarte cuando te lo ordené?" Respondió: "Yo soy superior a él, pues a mí me creaste de fuego, mientras que a él lo creaste del barro".
+[Dios] le preguntó: "¿Qué te impidió prosternarte cuando te lo ordené?" Respondió: "Yo soy superior a él, pues a mí me creaste de fuego, mientras que a él lo creaste del barro".[^1]
 
-El demonio fue el primer ser en discriminar a otro por su origen, aduciendo que su propio origen era superior. En consecuencia, se puede afirmar que cualquier persona que discrimine a otra por el origen con el cual Dios lo creó, como género, color de su piel, nacionalidad, etc., está en realidad siguiendo el ejemplo del demonio.
+[^1]: El demonio fue el primer ser en discriminar a otro por su origen, aduciendo que su propio origen era superior. En consecuencia, se puede afirmar que cualquier persona que discrimine a otra por el origen con el cual Dios lo creó, como género, color de su piel, nacionalidad, etc., está en realidad siguiendo el ejemplo del demonio.
 
 # 967
 
-Dijo [Dios]: "¡Sal de aquí! En este lugar no se permite la soberbia. ¡Vete, pues [a partir de ahora] serás de los humillados!"
+Dijo [Dios]: "¡Sal de aquí![^1] En este lugar no se permite la soberbia. ¡Vete, pues [a partir de ahora] serás de los humillados!"
 
-¡Sal de aquí!: Es decir, del lugar honorable que Dios le había concedido en el Paraíso.
+[^1]: Es decir, del lugar honorable que Dios le había concedido en el Paraíso.
 
 # 968
 
@@ -4203,15 +4230,15 @@ Dijo [Dios]: "Serás de los que esperen [con vida hasta ese día]".
 
 # 970
 
-Dijo [el Demonio]: "Por haberme descarriado los acecharé para apartarlos de Tu sendero recto.
+Dijo [el Demonio]: "Por haberme descarriado los acecharé[^1] para apartarlos de Tu sendero recto.
 
-los acecharé: A los seres humanos.
+[^1]: A los seres humanos.
 
 # 971
 
-Los abordaré por delante, por detrás, por la derecha y por la izquierda; encontrarás que la mayoría de ellos no serán agradecidos".
+Los abordaré por delante, por detrás, por la derecha y por la izquierda[^1]; encontrarás que la mayoría de ellos no serán agradecidos".
 
-por delante, por detrás, por la derecha y por la izquierda: Al Bagawi menciona en su exégesis que Ibn ‘Abbas interpretó este versículo de la siguiente manera: “Por delante, es decir, los haré dudar sobre la vida del más allá; por detrás, es decir, los tentaré con asuntos de este mundo; por la derecha, es decir, los haré dudar sobre su religión; y por la izquierda, es decir, les embelleceré los pecados”.
+[^1]: Al Bagawi menciona en su exégesis que Ibn ‘Abbas interpretó este versículo de la siguiente manera: “Por delante, es decir, los haré dudar sobre la vida del más allá; por detrás, es decir, los tentaré con asuntos de este mundo; por la derecha, es decir, los haré dudar sobre su religión; y por la izquierda, es decir, les embelleceré los pecados”.
 
 # 972
 
@@ -4223,9 +4250,9 @@ Dijo [Dios]: "¡Sal de aquí degradado y despreciado! Llenaré el Infierno con t
 
 # 974
 
-Pero el demonio les susurró con el fin de que [desobedecieran a Dios y así] se les hiciera evidente lo que antes estaba oculto [de su desnudez] para ellos, diciéndoles: "Su Señor les prohibió acercarse a este árbol para que no se conviertan en ángeles o en seres inmortales".
+Pero el demonio les susurró con el fin de que [desobedecieran a Dios y así] se les hiciera evidente lo que antes estaba oculto [de su desnudez] para ellos, diciéndoles: "Su Señor les prohibió acercarse a este árbol para que no se conviertan en ángeles o en seres inmortales".[^1]
 
-Dijo Ibn Al Qaiim: “El demonio examinó a los padres de la humanidad (Adán y Eva) y encontró en ellos la inclinación a permanecer eternamente en el Paraíso. Supo inmediatamente que esa sería la única puerta para seducirlos”.
+[^1]: “El demonio examinó a los padres de la humanidad (Adán y Eva) y encontró en ellos la inclinación a permanecer eternamente en el Paraíso. Supo inmediatamente que esa sería la única puerta para seducirlos”.
 
 # 975
 
@@ -4269,9 +4296,9 @@ Un grupo siguió la guía, pero otro grupo se confirmó en su extravío, porque 
 
 # 985
 
-¡Oh, hijos de Adán! Vistan con elegancia cuando acudan a las mezquitas. Coman y beban con mesura, porque Dios no ama a los derrochadores.
+¡Oh, hijos de Adán! Vistan con elegancia cuando acudan a las mezquitas[^1]. Coman y beban con mesura, porque Dios no ama a los derrochadores.
 
-Vistan con elegancia cuando acudan a las mezquitas: En este versículo, Dios nos ordena vestir con elegancia. El término que se utiliza es general (zinatakum زِينَاتَكُم ), no indica una vestimenta en particular, ni túnica ni capa ni pantalón ni camisa. Este texto Coránico nos indica que la vestimenta que usemos debe ser considerada elegante y apropiada por la sociedad del lugar donde vivamos, por la identidad de esa sociedad. Ese concepto se llama, en la terminología islámica, “costumbre” (‘urf عُرْف ).
+[^1]: En este versículo, Dios nos ordena vestir con elegancia. El término que se utiliza es general (zinatakum زِينَاتَكُم ), no indica una vestimenta en particular, ni túnica ni capa ni pantalón ni camisa. Este texto Coránico nos indica que la vestimenta que usemos debe ser considerada elegante y apropiada por la sociedad del lugar donde vivamos, por la identidad de esa sociedad. Ese concepto se llama, en la terminología islámica, “costumbre” (‘urf عُرْف ).
 
 # 986
 
@@ -4299,22 +4326,23 @@ Pero quienes desmientan Mis signos y tengan una actitud soberbia, esos serán la
 
 # 992
 
-Les dirá [Dios]: "Entren al Infierno junto a las comunidades de seres humanos y yinnes que los precedieron". Cada vez que entre una comunidad, maldecirá a su hermana; y cuando todos hayan ingresado, dirán los últimos sobre los primeros: "¡Señor nuestro! Ellos son quienes nos desviaron, duplícales el castigo del Fuego". Pero dirá [Dios]: "A todos les será duplicado, aunque no lo sepan".
+Les dirá [Dios]: "Entren al Infierno junto a las comunidades de seres humanos y yinnes que los precedieron". Cada vez que entre una comunidad, maldecirá a su hermana[^1]; y cuando todos hayan ingresado, dirán los últimos sobre los primeros[^2]: "¡Señor nuestro! Ellos son quienes nos desviaron, duplícales el castigo del Fuego". Pero dirá [Dios]: "A todos les será duplicado, aunque no lo sepan".
 
-a su hermana: La generación anterior, de quien tomó sus creencias y valores. 
-los últimos sobre los primeros: Los términos “primera” y “última” aluden bien a una secuencia en el tiempo (“los primeros en entrar” y “los que llegaron después”) o bien a la categoría (“líderes” y “seguidores”). En ambos casos están relacionados, como indica la frase siguiente, con la influencia perversa que los primeros ejercieron sobre las vidas de estos últimos, o que los líderes políticos o ideológicos ejercieron sobre sus pueblos.
+[^1]: La generación anterior, de quien tomó sus creencias y valores.
+
+[^2]: Los términos “primera” y “última” aluden bien a una secuencia en el tiempo (“los primeros en entrar” y “los que llegaron después”) o bien a la categoría (“líderes” y “seguidores”). En ambos casos están relacionados, como indica la frase siguiente, con la influencia perversa que los primeros ejercieron sobre las vidas de estos últimos, o que los líderes políticos o ideológicos ejercieron sobre sus pueblos.
 
 # 993
 
-Los primeros dirán a los últimos: "Ustedes no son mejores que nosotros", [pero Dios dirá a ambos grupos]: "Sufran todos el castigo que merecen [por sus obras]".
+Los primeros dirán a los últimos: "Ustedes no son mejores que nosotros", [pero Dios dirá a ambos grupos]: "Sufran todos el castigo que merecen [por sus obras]".[^1]
 
-“Ustedes no son mejores que nosotros”: Porque siguieron ciegamente ideologías y costumbres, sin preguntarse sobre su validez y lógica.
+[^1]: Porque siguieron ciegamente ideologías y costumbres, sin preguntarse sobre su validez y lógica.
 
 # 994
 
-A quienes hayan desmentido Mis signos con soberbia no se les abrirán las puertas del cielo ni entrarán en el Paraíso hasta que un camello pase por el ojo de una aguja. Así castigo a los pecadores.
+A quienes hayan desmentido Mis signos con soberbia no se les abrirán las puertas del cielo ni entrarán en el Paraíso hasta que un camello[^1] pase por el ojo de una aguja. Así castigo a los pecadores.
 
-camello: En idioma árabe la palabra yamal جَمَل puede significar camello, como se ha traducido aquí, pero también puede significar una soga gruesa como las que se usan para los barcos, siendo que ambos significados aluden a la imposibilidad.
+[^1]: En idioma árabe la palabra yamal جَمَل puede significar camello, como se ha traducido aquí, pero también puede significar una soga gruesa como las que se usan para los barcos, siendo que ambos significados aluden a la imposibilidad.
 
 # 995
 
@@ -4338,9 +4366,9 @@ Los que apartan [a la gente] del sendero de Dios, tratando de complicarlo, y des
 
 # 1000
 
-Entre ambos [grupos] habrá una separación, y en los lugares elevados habrá personas que serán reconocidas por su aspecto [por la gente del Paraíso y la gente del Infierno], y llamarán a la gente del Paraíso saludándolos: "¡La paz sea con ustedes!" Ellos no han ingresado en él, pero están ansiosos por hacerlo.
+Entre ambos [grupos] habrá una separación, y en los lugares elevados habrá personas[^1] que serán reconocidas por su aspecto [por la gente del Paraíso y la gente del Infierno], y llamarán a la gente del Paraíso saludándolos: "¡La paz sea con ustedes!" Ellos no han ingresado en él, pero están ansiosos por hacerlo.
 
-habrá personas: Ibn Kazir interpreta que se trata de los creyentes cuyas buenas obras y malas obras se igualan, y por eso no han ingresado al Paraíso, sino que se encuentran en un lugar elevado entre el Paraíso y el Infierno.
+[^1]: Ibn Kazir interpreta que se trata de los creyentes cuyas buenas obras y malas obras se igualan, y por eso no han ingresado al Paraíso, sino que se encuentran en un lugar elevado entre el Paraíso y el Infierno.
 
 # 1001
 
@@ -4360,15 +4388,15 @@ La gente del Fuego implorará a la gente del Paraíso: "Dennos un poco de agua o
 
 # 1005
 
-Aquellos que tomaron su religión como juego y diversión, y les sedujo la vida mundanal, hoy los olvidaré así como ellos olvidaron que se encontrarían con este día, y por haber negado Mis signos.
+Aquellos que tomaron su religión como juego y diversión, y les sedujo la vida mundanal, hoy[^1] los olvidaré así como ellos olvidaron que se encontrarían con este día, y por haber negado Mis signos.
 
-hoy: El Día del Juicio Final.
+[^1]: El Día del Juicio Final.
 
 # 1006
 
-Les envié el Libro, en el que detallé todas las cosas con sabiduría, como guía y misericordia para la gente que cree.
+Les envié el Libro[^1], en el que detallé todas las cosas con sabiduría, como guía y misericordia para la gente que cree.
 
-el Libro: El Sagrado Corán.
+[^1]: El Sagrado Corán.
 
 # 1007
 
@@ -4376,9 +4404,9 @@ el Libro: El Sagrado Corán.
 
 # 1008
 
-Su Señor es Dios, Quien creó los cielos y la Tierra en seis eras, y luego se estableció sobre el Trono. Hace que la noche y el día se sucedan. Creó el Sol, la Luna y las estrellas sometiéndolas a Su voluntad. ¿Acaso no Le pertenece la creación y Él es Quien dictamina las órdenes según Él quiere? ¡Bendito sea Dios, Señor del universo!
+Su Señor es Dios, Quien creó los cielos y la Tierra en seis eras[^1], y luego se estableció sobre el Trono. Hace que la noche y el día se sucedan. Creó el Sol, la Luna y las estrellas sometiéndolas a Su voluntad. ¿Acaso no Le pertenece la creación y Él es Quien dictamina las órdenes según Él quiere? ¡Bendito sea Dios, Señor del universo!
 
-en seis eras: La palara árabe iaum يَوْم implica eras o espacios de tiempo. El detalle de ese proceso de creación es mencionado en Corán 41:9-12.
+[^1]: La palara árabe iaum يَوْم implica eras o espacios de tiempo. El detalle de ese proceso de creación es mencionado en Corán 41:9-12.
 
 # 1009
 
@@ -4390,21 +4418,21 @@ No siembren corrupción en la Tierra después de que se haya establecido en ella
 
 # 1011
 
-Él es Quien envía los vientos que albrician la llegada de Su misericordia. Cuando éstos reúnen a las nubes, las conduzco hacia una tierra azotada por la sequía donde hago descender la lluvia con la que hago brotar toda clase de frutos. De la misma manera haré resucitar a los muertos; ¡reflexionen!
+Él es Quien envía los vientos que albrician la llegada de Su misericordia[^1]. Cuando éstos reúnen a las nubes, las conduzco hacia una tierra azotada por la sequía donde hago descender la lluvia con la que hago brotar toda clase de frutos. De la misma manera haré resucitar a los muertos; ¡reflexionen!
 
-la llegada de Su misericordia: Alusión a las lluvias.
+[^1]: Alusión a las lluvias.
 
 # 1012
 
-En una buena tierra crece vegetación abundante por voluntad de su Señor, mientras que en un territorio desértico no brota sino poco. Así explico los signos a la gente agradecida.
+En una buena tierra crece vegetación abundante por voluntad de su Señor, mientras que en un territorio desértico no brota sino poco. Así explico los signos a la gente agradecida.[^1]
 
-Abu Musa relató que el Profeta, que la paz y las bendiciones de Dios sean con él, dijo: “La guía y la sabiduría que Dios envió conmigo es como una lluvia abundante que cae a la tierra. Parte de ésta tierra es fértil, absorbe el agua y produce vegetación y pastos en abundancia. Otra parte es dura y conserva el agua, conteniéndola para beneficio de la gente, que la usa para beber, para sus animales y para riego de los cultivos. Otra porción de la tierra alcanzada era tan estéril que no contuvo el agua ni produjo vegetación. (El primero) es el caso de la persona que comprende la religión de Dios y se beneficia de lo que Dios reveló a través de mí, lo aprende y lo enseña. Y la persona que no se interesa ni acepta la Guía de Dios que reveló a través de mí (es como la tierra estéril)”. Registrado por Al-Bujari
+[^1]: “La guía y la sabiduría que Dios envió conmigo es como una lluvia abundante que cae a la tierra. Parte de ésta tierra es fértil, absorbe el agua y produce vegetación y pastos en abundancia. Otra parte es dura y conserva el agua, conteniéndola para beneficio de la gente, que la usa para beber, para sus animales y para riego de los cultivos. Otra porción de la tierra alcanzada era tan estéril que no contuvo el agua ni produjo vegetación. (El primero) es el caso de la persona que comprende la religión de Dios y se beneficia de lo que Dios reveló a través de mí, lo aprende y lo enseña. Y la persona que no se interesa ni acepta la Guía de Dios que reveló a través de mí (es como la tierra estéril)”. Registrado por Al-Bujari
 
 # 1013
 
-Envié a Noé a su pueblo. Les dijo: "¡Oh, pueblo mío! Adoren solamente a Dios, pues no existe otra divinidad salvo Él. Temo que los azote un castigo terrible [si continúan en la idolatría].
+Envié a Noé a su pueblo[^1]. Les dijo: "¡Oh, pueblo mío! Adoren solamente a Dios, pues no existe otra divinidad salvo Él. Temo que los azote un castigo terrible [si continúan en la idolatría].
 
-Envié a Noé a su pueblo: La gente de Noé vivió en el sur de Irak, no muy lejos de donde se sitúa la ciudad de Kufa en la actualidad.
+[^1]: La gente de Noé vivió en el sur de Irak, no muy lejos de donde se sitúa la ciudad de Kufa en la actualidad.
 
 # 1014
 
@@ -4460,9 +4488,9 @@ Lo salvé por Mi misericordia junto a los que creyeron, pero destruí a todos lo
 
 # 1027
 
-A Zamud le envié a su hermano [el Profeta] Sálih. Les dijo: "¡Oh, pueblo mío! Adoren a Dios, pues no existe otra divinidad salvo Él. Ésta es la camella de Dios, es un milagro enviado por su Señor, déjenla comer en la tierra de Dios y no le causen ningún daño, porque si lo hacen los azotará un castigo doloroso.
+A Zamud[^1] le envié a su hermano [el Profeta] Sálih. Les dijo: "¡Oh, pueblo mío! Adoren a Dios, pues no existe otra divinidad salvo Él. Ésta es la camella de Dios, es un milagro enviado por su Señor, déjenla comer en la tierra de Dios y no le causen ningún daño, porque si lo hacen los azotará un castigo doloroso.
 
-Zamud: Las moradas de la gente de Zamud se encuentran entre Al Hiyaz y Siria, en la parte sureste de Madián, que está situada al este del Golfo de Al  ́Aqabah.
+[^1]: Las moradas de la gente de Zamud se encuentran entre Al Hiyaz y Siria, en la parte sureste de Madián, que está situada al este del Golfo de Al  ́Aqabah.
 
 # 1028
 
@@ -4506,9 +4534,9 @@ Lo salvé junto a su familia, excepto a su esposa, que se quedó atrás [y no sa
 
 # 1038
 
-Envié sobre ellos una lluvia. Observa cómo es el final de los que cometen crímenes [morales].
+Envié sobre ellos una lluvia[^1]. Observa cómo es el final de los que cometen crímenes [morales].
 
-una lluvia: Una lluvia de piedras calientes.
+[^1]: Una lluvia de piedras calientes.
 
 # 1039
 
@@ -4556,9 +4584,9 @@ Luego les cambié sus dificultades por bienestar. Pero cuando prosperaron, dijer
 
 # 1050
 
-Pero si la gente de esas ciudades hubiera creído y tenido temor [de Dios], les habría abierto las bendiciones del cielo y de la Tierra. Pero desmintieron [a Mis Profetas] y los castigué por lo que habían cometido.
+Pero si la gente de esas ciudades[^1] hubiera creído y tenido temor [de Dios], les habría abierto las bendiciones del cielo y de la Tierra. Pero desmintieron [a Mis Profetas] y los castigué por lo que habían cometido.
 
-si la gente de esas ciudades: A las que envié Mis Profetas y Mensajeros.
+[^1]: A las que envié Mis Profetas y Mensajeros.
 
 # 1051
 
@@ -4570,15 +4598,15 @@ si la gente de esas ciudades: A las que envié Mis Profetas y Mensajeros.
 
 # 1053
 
-¿Acaso se sentían a salvo del plan de Dios? Solo se sienten a salvo del plan de Dios los que están perdidos.
+¿Acaso se sentían a salvo del plan de Dios? Solo se sienten a salvo del plan de Dios los que están perdidos.[^1]
 
-El versículo muestra que sentirse seguro contra el designio de Dios y perder la esperanza en la ayuda y el socorro de Dios, representan pecados muy graves que anulan la perfección del monoteísmo. Este concepto indica también que el siervo debe dirigirse a Dios entre la esperanza y el temor. Dios nos indica a través de este versículo que los habitantes de aquel pueblo desmintieron a los Profetas, impulsados por la sensación de sentirse seguros contra los designios de Dios y por la inexistencia del temor reverencial. Dijo Al Hasan Al Basri: “A quien Dios atesta de opulencia, y no percibe que ello es una prueba, es una persona sin discernimiento”. Dijo el Profeta, que la paz y las bendiciones de Dios sean con él: “Si ven que el siervo continúa recibiendo gracias y bondades a pesar de sus continuas desobediencias, no lo duden, está siendo llevado gradualmente a la ruina”. [Ibn Yarir 7/115]
+[^1]: “A quien Dios atesta de opulencia, y no percibe que ello es una prueba, es una persona sin discernimiento”. Dijo el Profeta, que la paz y las bendiciones de Dios sean con él: “Si ven que el siervo continúa recibiendo gracias y bondades a pesar de sus continuas desobediencias, no lo duden, está siendo llevado gradualmente a la ruina”. [Ibn Yarir 7/115]
 
 # 1054
 
-¿Es que no se les ha evidenciado a quienes les sucedieron, que si quisiera los castigaría por sus pecados, sellando sus corazones para que no escucharan?
+¿Es que no se les ha evidenciado a quienes les sucedieron, que si quisiera los castigaría por sus pecados, sellando sus corazones para que no escucharan[^1]?
 
-para que no escucharan: Las advertencias de su Profeta.
+[^1]: Las advertencias de su Profeta.
 
 # 1055
 
@@ -4618,9 +4646,9 @@ Dijo la nobleza del pueblo del Faraón: "Él es un hechicero experto.
 
 # 1064
 
-[En realidad lo que] quiere es expulsarlos de su tierra". [Les preguntó el Faraón:] "¿Cuál es su consejo?"
+[En realidad lo que] quiere es expulsarlos de su tierra[^1]". [Les preguntó el Faraón:] "¿Cuál es su consejo?"
 
-expulsarlos de su tierra: En la que gobiernan, Egipto.
+[^1]: En la que gobiernan, Egipto.
 
 # 1065
 
@@ -4704,9 +4732,9 @@ Entonces azoté a la gente del Faraón con años de sequía y escasez de frutos,
 
 # 1085
 
-Pero cuando les llegó nuevamente una época de prosperidad dijeron: "Esto es lo que merecemos". Cuando les acontecía un mal le echaban la culpa a Moisés y a sus seguidores [por considerarlos de mal agüero]; pero cuanto les ocurría era porque Dios así lo decretaba, aunque la mayoría de ellos lo ignoraba.
+Pero cuando les llegó nuevamente una época de prosperidad dijeron: "Esto es lo que merecemos". Cuando les acontecía un mal le echaban la culpa a Moisés y a sus seguidores [por considerarlos de mal agüero[^1]]; pero cuanto les ocurría era porque Dios así lo decretaba, aunque la mayoría de ellos lo ignoraba.
 
-mal agüero: El agüero es una práctica de adivinación basada principalmente en la interpretación de señales como el canto o el vuelo de las aves, fenómenos meteorológicos, etc. Esta propensión es causada por temor o ignorancia, atribuyendo un carácter sobrenatural u oculto a determinados acontecimientos. Por eso Dios advirtió que tales sucesos no tienen relación con el destino y la suerte de la persona, sino que es Él quien decide y destina todas las cosas. La creencia en los agüeros anula la perfección del monoteísmo.
+[^1]: El agüero es una práctica de adivinación basada principalmente en la interpretación de señales como el canto o el vuelo de las aves, fenómenos meteorológicos, etc. Esta propensión es causada por temor o ignorancia, atribuyendo un carácter sobrenatural u oculto a determinados acontecimientos. Por eso Dios advirtió que tales sucesos no tienen relación con el destino y la suerte de la persona, sino que es Él quien decide y destina todas las cosas. La creencia en los agüeros anula la perfección del monoteísmo.
 
 # 1086
 
@@ -4762,9 +4790,9 @@ Dijo [Dios]: "¡Oh, Moisés! Te he distinguido entre las personas con la profec�
 
 # 1099
 
-Escribí para él en las tablas instrucción y explicación de todas las cosas. "Aférrate a ellas y ordena a tu pueblo que siga todo lo bueno que hay en ellas. Les mostraré [cómo quedaron] las casas de los desviados".
+Escribí para él en las tablas instrucción y explicación de todas las cosas. "Aférrate a ellas y ordena a tu pueblo que siga todo lo bueno que hay en ellas[^1]. Les mostraré [cómo quedaron] las casas de los desviados".
 
-en ellas: Las tablas.
+[^1]: Las tablas.
 
 # 1100
 
@@ -4812,18 +4840,19 @@ Concédenos bienestar en esta vida y en la otra; nos hemos vuelto a Ti arrepenti
 
 # 1111
 
-aquellos que sigan al Mensajero y Profeta iletrado [Mujámmad], quien se encuentra descrito en la Tora y el Evangelio; [el Profeta] que les ordena el bien y les prohíbe el mal, les permite todo lo beneficioso y solo les prohíbe lo perjudicial, y les abroga los preceptos difíciles que pesaban sobre ellos [la Gente del Libro]. Y quienes crean en él, lo secunden, defiendan y sigan la luz que le ha sido revelada, serán los bienaventurados".
+aquellos que sigan al Mensajero y Profeta iletrado [Mujámmad], quien se encuentra descrito en la Tora[^1] y el Evangelio[^2]; [el Profeta] que les ordena el bien y les prohíbe el mal, les permite todo lo beneficioso y solo les prohíbe lo perjudicial, y les abroga los preceptos difíciles que pesaban sobre ellos [la Gente del Libro]. Y quienes crean en él, lo secunden, defiendan y sigan la luz que le ha sido revelada[^3], serán los bienaventurados".
 
-en la Tora: La Biblia, Deuteronomio 18:15. 
-el Evangelio: La Biblia, Juan 14:16.
- 
-la luz que le ha sido revelada: El Sagrado Corán.
+[^1]: La Biblia, Deuteronomio 18:15.
+
+[^2]: La Biblia, Juan 14:16.
+
+[^3]: El Sagrado Corán.
 
 # 1112
 
-Di [oh, Mujámmad]: "¡Oh, gente! Soy el Mensajero de Dios para todos ustedes. A Él pertenece el reino de los cielos y de la Tierra, nada ni nadie merece ser adorado salvo Él, da la vida y la muerte". Crean en Dios y en Su Mensajero y Profeta iletrado que cree en Dios y en Sus palabras, síganlo, pues así estarán bien guiados.
+Di [oh, Mujámmad]: "¡Oh, gente! Soy el Mensajero de Dios para todos ustedes. A Él pertenece el reino de los cielos y de la Tierra, nada ni nadie merece ser adorado salvo Él, da la vida y la muerte". Crean en Dios y en Su Mensajero y Profeta iletrado que cree en Dios y en Sus palabras[^1], síganlo, pues así estarán bien guiados.
 
-en Sus palabras: El Sagrado Corán.
+[^1]: El Sagrado Corán.
 
 # 1113
 
@@ -4835,9 +4864,9 @@ Los dividí en doce tribus, como naciones; y le inspiré a Moisés cuando su pue
 
 # 1115
 
-Y se les dijo: "Habiten esta ciudad y coman cuanto quieran de lo que hay en ella, y digan: "¡Perdónanos!", pero entren sumisos por la puerta prosternados, que perdonaré sus pecados, y a los que hagan el bien les concederé aún más.
+Y se les dijo: "Habiten esta ciudad[^1] y coman cuanto quieran de lo que hay en ella, y digan: "¡Perdónanos!", pero entren sumisos por la puerta prosternados, que perdonaré sus pecados, y a los que hagan el bien les concederé aún más.
 
-Habiten esta ciudad: Jerusalén.
+[^1]: Jerusalén.
 
 # 1116
 
@@ -4849,9 +4878,9 @@ Y pregúntales [¡oh, Mujámmad!] por [los habitantes de] la ciudad que estaba a
 
 # 1118
 
-Un grupo de gente justa de entre ellos preguntaron [a quienes exhortaban al bien]: "¿Por qué exhortan a un pueblo al que Dios aniquilará o castigará duramente?" Respondieron: "Para que nuestro Señor no nos castigue por no haber ordenado el bien, y para que quizás tengan temor [de Dios]".
+Un grupo de gente justa de entre ellos preguntaron [a quienes exhortaban al bien]: "¿Por qué exhortan a un pueblo al que Dios aniquilará o castigará duramente?" Respondieron: "Para que nuestro Señor no nos castigue por no haber ordenado el bien, y para que quizás tengan temor [de Dios]".[^1]
 
-Y dejen de pescar los días sábados.
+[^1]: Y dejen de pescar los días sábados.
 
 # 1119
 
@@ -4895,9 +4924,9 @@ Así es como explico los signos para que recapaciten.
 
 # 1129
 
-Y relátales la historia de aquel a quien habiéndole concedido el conocimiento de Mis preceptos, los descuidó, el demonio lo sedujo y fue de los extraviados.
+Y relátales la historia de aquel[^1] a quien habiéndole concedido el conocimiento de Mis preceptos, los descuidó, el demonio lo sedujo y fue de los extraviados.
 
-la historia de aquel: Los exégetas mencionan que se trata de una persona del pueblo de Israel, llamado Balaam. Ver Números 22, 23, 24 y 31:8-16, y Deuteronomio 23:4-5.
+[^1]: Los exégetas mencionan que se trata de una persona del pueblo de Israel, llamado Balaam. Ver Números 22, 23, 24 y 31:8-16, y Deuteronomio 23:4-5.
 
 # 1130
 
@@ -4917,9 +4946,9 @@ He creado muchos yinnes y seres humanos que irán al Infierno [a causa de sus ob
 
 # 1134
 
-A Dios pertenecen los nombres más sublimes, invócalo a través de ellos, y apártate de quienes los niegan. Serán castigados por lo que hicieron.
+A Dios pertenecen los nombres más sublimes[^1], invócalo a través de ellos, y apártate de quienes los niegan. Serán castigados por lo que hicieron.
 
-los nombres más sublimes: Conocer y adorar a Dios a través de sus nombres y atributos es uno de los medios que poseemos para llegar al conocimiento de Dios, estudiando sus significados y aplicándolos a nuestra vida. El Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, dijo: “Dios tiene noventa y nueve nombres, cien menos uno; quien los enumere entrará al Paraíso”. Registrado por Al-Bujari y Muslim. El significado de enumerar los nombres de Dios es: 1) Conocer su cantidad y nombres. 2) Conocer sus significados, implicancia y creer en ellos. 3) Invocarlo a través de ellos, y esto es de dos formas: a) La súplica de elogio y alabanza, y b) la súplica de pedido ante la necesidad.
+[^1]: Conocer y adorar a Dios a través de sus nombres y atributos es uno de los medios que poseemos para llegar al conocimiento de Dios, estudiando sus significados y aplicándolos a nuestra vida. El Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, dijo: “Dios tiene noventa y nueve nombres, cien menos uno; quien los enumere entrará al Paraíso”. Registrado por Al-Bujari y Muslim. El significado de enumerar los nombres de Dios es: 1) Conocer su cantidad y nombres. 2) Conocer sus significados, implicancia y creer en ellos. 3) Invocarlo a través de ellos, y esto es de dos formas: a) La súplica de elogio y alabanza, y b) la súplica de pedido ante la necesidad.
 
 # 1135
 
@@ -4947,9 +4976,9 @@ A quien Dios extravía nadie lo podrá guiar. A éstos Dios los deja que actúen
 
 # 1141
 
-Te preguntan cuándo llegará la Hora [del Día de la Resurrección]. Diles: "Solo mi Señor lo sabe, y nadie salvo Él hará que comience en el momento decretado. Los cielos y la Tierra temen su llegada. Cuando llegue los sorprenderá". Te preguntan como si supieras [cuándo ocurrirá]. Diles: "Su conocimiento solo Le pertenece a Dios, pero la mayoría de la gente no lo sabe".
+Te preguntan cuándo llegará la Hora [del Día de la Resurrección]. Diles: "Solo mi Señor lo sabe, y nadie salvo Él hará que comience en el momento decretado[^1]. Los cielos y la Tierra temen su llegada. Cuando llegue los sorprenderá". Te preguntan como si supieras [cuándo ocurrirá]. Diles: "Su conocimiento solo Le pertenece a Dios, pero la mayoría de la gente no lo sabe".
 
-el momento decretado: Mujámmad, que la paz y las bendiciones de Dios sean con él, fue preguntado acerca de la Hora y respondió: “El que está siendo preguntado no sabe acerca de ella más de lo que sabe el que pregunta”. El que estaba preguntando era el ángel Gabriel, que se presentó ante él en forma humana. Si el más noble de los ángeles y el más noble ser humano, Mujámmad, no sabían cuándo iba a llegar el final del mundo, entonces está claro que ninguna persona ni criatura sabe cuándo ocurrirá. Este punto nos brinda una prueba importante acerca de la falsedad de la creencia en la divinidad de Jesús, porque él mismo afirmó no conocer cuándo llegará la Hora y que solo Dios conoce su tiempo: “Pero de aquel día y de la hora nadie sabe, ni aun los ángeles que están en el cielo, ni el Hijo, sino el Padre” (Marcos 13:32). Ver también en La Biblia, Mateo 24:36.
+[^1]: Mujámmad, que la paz y las bendiciones de Dios sean con él, fue preguntado acerca de la Hora y respondió: “El que está siendo preguntado no sabe acerca de ella más de lo que sabe el que pregunta”. El que estaba preguntando era el ángel Gabriel, que se presentó ante él en forma humana. Si el más noble de los ángeles y el más noble ser humano, Mujámmad, no sabían cuándo iba a llegar el final del mundo, entonces está claro que ninguna persona ni criatura sabe cuándo ocurrirá. Este punto nos brinda una prueba importante acerca de la falsedad de la creencia en la divinidad de Jesús, porque él mismo afirmó no conocer cuándo llegará la Hora y que solo Dios conoce su tiempo: “Pero de aquel día y de la hora nadie sabe, ni aun los ángeles que están en el cielo, ni el Hijo, sino el Padre” (Marcos 13:32). Ver también en La Biblia, Mateo 24:36.
 
 # 1142
 
@@ -4957,10 +4986,11 @@ Diles [oh, Mujámmad]: "No poseo ningún poder para beneficiarme ni perjudicarme
 
 # 1143
 
-Él es Quien los creó a partir de un solo ser, del cual hizo surgir a su cónyuge para que encontrara en ella sosiego. Y cuando se unió a ella, quedó embarazada y llevó en su vientre una carga liviana con la que podía andar, pero cuando ésta se hizo pesada, ambos invocaron a Dios [diciendo]: "¡Oh, Señor nuestro! Si nos agracias con un hijo sano y virtuoso seremos agradecidos".
+Él es Quien los creó a partir de un solo ser[^1], del cual hizo surgir a su cónyuge[^2] para que encontrara en ella sosiego. Y cuando se unió a ella, quedó embarazada y llevó en su vientre una carga liviana con la que podía andar, pero cuando ésta se hizo pesada, ambos invocaron a Dios [diciendo]: "¡Oh, Señor nuestro! Si nos agracias con un hijo sano y virtuoso seremos agradecidos".
 
-a partir de un solo ser: Adán, el primer hombre creado. 
-a su cónyuge: Eva, la primera mujer creada.
+[^1]: Adán, el primer hombre creado.
+
+[^2]: Eva, la primera mujer creada.
 
 # 1144
 
@@ -4972,15 +5002,15 @@ Y se les agració con lo que suplicaron, pero [sus descendientes] dedicaron acto
 
 # 1146
 
-No pueden auxiliarlos, ni tampoco auxiliarse a sí mismos.
+No pueden auxiliarlos, ni tampoco auxiliarse a sí mismos.[^1]
 
-Este argumento es un reproche de Dios a los idólatras por adorar junto a Él aquello que no puede crear, sino que ha sido creado. Lo creado no puede jamás asemejarse al Creador, ya que los objetos y los seres creados no pueden ofrecer ayuda a sus adoradores, pues ni siquiera pudieron crearse a sí mismos.
+[^1]: Este argumento es un reproche de Dios a los idólatras por adorar junto a Él aquello que no puede crear, sino que ha sido creado. Lo creado no puede jamás asemejarse al Creador, ya que los objetos y los seres creados no pueden ofrecer ayuda a sus adoradores, pues ni siquiera pudieron crearse a sí mismos.
 
 # 1147
 
-Si ustedes los invitan a seguir la guía, no lo harán. Lo mismo da que los inviten o que se queden callados.
+Si ustedes los invitan a seguir la guía, no lo harán. Lo mismo da que los inviten o que se queden callados.[^1]
 
-Pues están tan ciegamente aferrados a sus creencias que no reflexionarán en los argumentos.
+[^1]: Pues están tan ciegamente aferrados a sus creencias que no reflexionarán en los argumentos.
 
 # 1148
 
@@ -4992,9 +5022,9 @@ Lo que adoran en vez de Dios son seres creados igual que ustedes. [Los desafío:
 
 # 1150
 
-Mi protector es Dios, Quien reveló el Libro. Él es Quien protege a los justos.
+Mi protector es Dios, Quien reveló el Libro[^1]. Él es Quien protege a los justos.
 
-el Libro: El Sagrado Corán.
+[^1]: El Sagrado Corán.
 
 # 1151
 
@@ -5034,9 +5064,9 @@ Recuerda a tu Señor en tu interior con sometimiento y temor, e invócalo con vo
 
 # 1160
 
-[Los ángeles] que están junto a tu Señor no tienen ninguna soberbia que les impida adorarlo, Lo glorifican y se prosternan ante Él.
+[Los ángeles] que están junto a tu Señor no tienen ninguna soberbia que les impida adorarlo, Lo glorifican y se prosternan ante Él.[^1]
 
-Al llegar a este pasaje, el lector ha de prosternarse como símbolo de humildad por el privilegio de servir y honrar a Dios.
+[^1]: Al llegar a este pasaje, el lector ha de prosternarse como símbolo de humildad por el privilegio de servir y honrar a Dios.
 
 # 1161
 
@@ -5056,9 +5086,9 @@ Estos son los verdaderos creyentes, que alcanzarán grados elevados ante su Señ
 
 # 1165
 
-Tu Señor te hizo salir de tu casa [para luchar] por la verdad, pero eso le disgustó a un grupo de los creyentes.
+Tu Señor te hizo salir de tu casa [para luchar] por la verdad, pero eso le disgustó a un grupo de los creyentes.[^1]
 
-En un comienzo, el pequeño ejército de creyentes se había mentalizado para intervenir una caravana perteneciente a Quraish y así recuperar algunos de los bienes que la tribu de Quraish había usurpado a los creyentes que emigraron. Pero cuando se hizo evidente que en lugar de enfrentar a una caravana escasamente armada, deberían enfrentar a un ejército tres veces superior en número y mejor armado, algunos creyentes cuestionaron al Profeta, que la paz y las bendiciones de Dios sean con él. Esta revelación descendió para evidenciar lo que había en los corazones de los creyentes y corregir su actitud.
+[^1]: En un comienzo, el pequeño ejército de creyentes se había mentalizado para intervenir una caravana perteneciente a Quraish y así recuperar algunos de los bienes que la tribu de Quraish había usurpado a los creyentes que emigraron. Pero cuando se hizo evidente que en lugar de enfrentar a una caravana escasamente armada, deberían enfrentar a un ejército tres veces superior en número y mejor armado, algunos creyentes cuestionaron al Profeta, que la paz y las bendiciones de Dios sean con él. Esta revelación descendió para evidenciar lo que había en los corazones de los creyentes y corregir su actitud.
 
 # 1166
 
@@ -5066,9 +5096,9 @@ Te discuten sobre el verdadero motivo [del enfrentamiento] luego de habérseles 
 
 # 1167
 
-Pero [recuerda] cuando Dios les prometió [la victoria] sobre uno de los dos grupos. Ustedes deseaban enfrentar al menos poderoso, pero Dios quería hacer prevalecer la verdad con Sus Palabras y erradicar a los que se niegan a creer,
+Pero [recuerda] cuando Dios les prometió [la victoria] sobre uno de los dos grupos. Ustedes deseaban enfrentar al menos poderoso[^1], pero Dios quería hacer prevalecer la verdad con Sus Palabras y erradicar a los que se niegan a creer,
 
-deseaban enfrentar al menos poderoso: Los creyentes preferían enfrentar a la caravana en lugar del ejército de Quraish; pero Dios, que les había prometido una victoria, los hizo enfrentar a un enemigo muy superior, para establecer un objetivo mucho mayor que recuperar algunos bienes mundanos, el cual era evidenciar el coraje de esta nueva comunidad de creyentes, para detener el maltrato y persecución a los creyentes y fortalecerlos ante sus enemigos.
+[^1]: Los creyentes preferían enfrentar a la caravana en lugar del ejército de Quraish; pero Dios, que les había prometido una victoria, los hizo enfrentar a un enemigo muy superior, para establecer un objetivo mucho mayor que recuperar algunos bienes mundanos, el cual era evidenciar el coraje de esta nueva comunidad de creyentes, para detener el maltrato y persecución a los creyentes y fortalecerlos ante sus enemigos.
 
 # 1168
 
@@ -5088,9 +5118,9 @@ Dios los envió como una albricia y para infundir el sosiego en sus corazones, p
 
 # 1172
 
-Y cuando tu Señor inspiró a los ángeles: "Yo estoy con ustedes, denle valor a los creyentes, infundiré terror en los corazones de los que se niegan a creer. Golpeen sobre sus cuellos y golpeen todos sus dedos".
+Y cuando tu Señor inspiró a los ángeles: "Yo estoy con ustedes, denle valor a los creyentes, infundiré terror en los corazones de los que se niegan a creer. Golpeen sobre sus cuellos y golpeen todos sus dedos".[^1]
 
-La orden de Dios dirigida a los ángeles es golpear al enemigo en sus altos mandos y en sus combatientes armados.
+[^1]: La orden de Dios dirigida a los ángeles es golpear al enemigo en sus altos mandos y en sus combatientes armados.
 
 # 1173
 
@@ -5206,15 +5236,15 @@ Pero si ellos se niegan [y prefieren seguir persiguiendo a los creyentes], sepan
 
 # 1201
 
-Sepan que un quinto del botín Le corresponde a Dios, al Mensajero, a sus familiares, a los huérfanos, a los pobres y a los viajeros insolventes [y el resto a los soldados], si es que creen en Dios y en lo que le he revelado a Mi siervo el día que se evidenció la verdad de la falsedad: el día que se enfrentaron los dos ejércitos. Dios tiene poder sobre todas las cosas.
+Sepan que un quinto del botín Le corresponde a Dios, al Mensajero, a sus familiares, a los huérfanos, a los pobres y a los viajeros insolventes [y el resto a los soldados], si es que creen en Dios y en lo que le he revelado a Mi siervo el día que se evidenció la verdad de la falsedad: el día que se enfrentaron los dos ejércitos[^1]. Dios tiene poder sobre todas las cosas.
 
-los dos ejércitos: El de los creyentes y el de los incrédulos.
+[^1]: El de los creyentes y el de los incrédulos.
 
 # 1202
 
-[Recuerda] cuando se encontraban en el valle más cercano [a Medina] y el ejército de los idólatras en el más lejano, y la caravana de camellos más abajo [en dirección al mar]. Y si ustedes hubieran sabido que se habría de producir una batalla, se habrían negado a aceptar el desafío. Pero [la batalla fue provocada aun así] para que Dios llevara a cabo algo [que Él había dispuesto] que ocurriera, y para que quien hubiera de perecer [en ese día], pereciera ante una prueba clara de la verdad; y quien hubiera de sobrevivir, sobreviviera ante una prueba clara de la verdad. Dios todo lo oye, todo lo sabe.
+[Recuerda] cuando se encontraban[^1] en el valle más cercano [a Medina] y el ejército de los idólatras en el más lejano, y la caravana de camellos más abajo [en dirección al mar]. Y si ustedes hubieran sabido que se habría de producir una batalla, se habrían negado a aceptar el desafío. Pero [la batalla fue provocada aun así] para que Dios llevara a cabo algo [que Él había dispuesto] que ocurriera, y para que quien hubiera de perecer [en ese día], pereciera ante una prueba clara de la verdad; y quien hubiera de sobrevivir, sobreviviera ante una prueba clara de la verdad. Dios todo lo oye, todo lo sabe.
 
-cuando se encontraban: El día de la batalla de Bader.
+[^1]: El día de la batalla de Bader.
 
 # 1203
 
@@ -5278,9 +5308,9 @@ Si enfrentas a algunos de ellos durante la guerra, dales un escarmiento que sirv
 
 # 1218
 
-Si te traiciona un pueblo, hazles saber que rompes el pacto igual que ellos. Dios no ama a los traidores.
+Si te traiciona un pueblo[^1], hazles saber que rompes el pacto igual que ellos. Dios no ama a los traidores.
 
-un pueblo: Con el que se haya realizado un pacto de no agresión.
+[^1]: Con el que se haya realizado un pacto de no agresión.
 
 # 1219
 
@@ -5296,9 +5326,9 @@ Si [los incrédulos] se inclinan por la paz, acéptala tú también y encomiénd
 
 # 1222
 
-Pero si quieren engañarte, sabe que la protección de Dios es suficiente. Él es Quien te ha fortalecido con Su auxilio y con los creyentes,
+Pero si quieren engañarte[^1], sabe que la protección de Dios es suficiente. Él es Quien te ha fortalecido con Su auxilio y con los creyentes,
 
-si quieren engañarte: Simulando un cese de hostilidades para aprovechar la oportunidad y atacar.
+[^1]: Simulando un cese de hostilidades para aprovechar la oportunidad y atacar.
 
 # 1223
 
@@ -5310,11 +5340,11 @@ si quieren engañarte: Simulando un cese de hostilidades para aprovechar la opor
 
 # 1225
 
-¡Oh, Profeta! Exhorta a los creyentes a combatir [por la causa de Dios]. Por cada veinte pacientes y perseverantes de entre ustedes, vencerán a doscientos; y si hubiere cien, vencerán a mil de los que se negaron a creer, porque ellos no razonan.
+¡Oh, Profeta! Exhorta a los creyentes a combatir [por la causa de Dios]. Por cada veinte pacientes y perseverantes de entre ustedes, vencerán a doscientos[^1]; y si hubiere cien, vencerán a mil de los que se negaron a creer, porque ellos no razonan[^2].
 
-vencerán a doscientos: Combatientes enemigos.
- 
-porque ellos no razonan: Que su causa es injusta.
+[^1]: Combatientes enemigos.
+
+[^2]: Que su causa es injusta.
 
 # 1226
 
@@ -5322,10 +5352,11 @@ Pero Dios les alivia la carga, por compasión ante su debilidad: Por cada cien p
 
 # 1227
 
-No le es permitido al Profeta [ni a los creyentes] tomar prisioneros si antes no combaten en la Tierra. Pretenden algunos obtener un beneficio mundanal, mientras Dios quiere para ustedes la recompensa de la otra vida. Dios es Poderoso, Sabio.
+No le es permitido al Profeta [ni a los creyentes] tomar prisioneros si antes no combaten en la Tierra[^1]. Pretenden algunos obtener un beneficio mundanal[^2], mientras Dios quiere para ustedes la recompensa de la otra vida. Dios es Poderoso, Sabio.
 
-si antes no combaten en la Tierra: Este versículo prescribe que nadie puede ser tomado prisionero o cautivo, a menos que haya sido capturado durante una guerra y que, por tanto, la adquisición de un esclavo por medios “pacíficos”, y su retención una vez adquirido, están totalmente prohibidas: esto supone la prohibición de la esclavitud. Respecto a aquellos prisioneros capturados en la guerra, el Corán ordena en 47:4 que han de ser liberados una vez finalizada la guerra. 
-beneficio mundanal:Cobrando un rescate por su liberación.
+[^1]: Este versículo prescribe que nadie puede ser tomado prisionero o cautivo, a menos que haya sido capturado durante una guerra y que, por tanto, la adquisición de un esclavo por medios “pacíficos”, y su retención una vez adquirido, están totalmente prohibidas: esto supone la prohibición de la esclavitud. Respecto a aquellos prisioneros capturados en la guerra, el Corán ordena en 47:4 que han de ser liberados una vez finalizada la guerra.
+
+[^2]: Cobrando un rescate por su liberación.
 
 # 1228
 
@@ -5341,15 +5372,15 @@ Disfruten de todo lo lícito y bueno que han ganado como botín de guerra, y ten
 
 # 1231
 
-Pero si quieren engañarte aduciendo que son creyentes, recuerda que ya antes habían traicionado a Dios y Él los sometió ante ustedes. Dios todo lo sabe, es Sabio.
+Pero si quieren engañarte aduciendo que son creyentes, recuerda que ya antes habían traicionado a Dios[^1] y Él los sometió ante ustedes. Dios todo lo sabe, es Sabio.
 
-habían traicionado a Dios: Al negarse a creer en Él.
+[^1]: Al negarse a creer en Él.
 
 # 1232
 
-Los creyentes que emigraron, contribuyeron con sus bienes y combatieron por la causa de Dios, son aliados de aquellos que les dieron refugio y socorro. En cambio, a quienes no emigraron no tienen la obligación de socorrerlos hasta que emigren. Pero si piden que los auxilien para preservar su religión, deben hacerlo, salvo que se encuentren en un pueblo con el que ustedes hayan celebrado un pacto. Dios ve bien lo que hacen.
+Los creyentes que emigraron, contribuyeron con sus bienes y combatieron por la causa de Dios, son aliados de aquellos que les dieron refugio y socorro. En cambio, a quienes no emigraron no tienen la obligación de socorrerlos hasta que emigren. Pero si piden que los auxilien para preservar su religión, deben hacerlo, salvo que se encuentren en un pueblo con el que ustedes hayan celebrado un pacto[^1]. Dios ve bien lo que hacen.
 
-un pacto: Un pacto de no agresión.
+[^1]: Un pacto de no agresión.
 
 # 1233
 
@@ -5361,30 +5392,33 @@ Los creyentes que emigraron y lucharon por la causa de Dios, y aquellos que les 
 
 # 1235
 
-Y aquellos que posteriormente crean [abrazando el Islam], emigren y luchen con ustedes, serán de los suyos. Sepan que Dios ha prescrito en Su Libro que sus parientes tienen más derecho a la herencia que sus hermanos en la fe, y Dios es conocedor de todas las cosas.
+Y aquellos que posteriormente crean [abrazando el Islam], emigren y luchen con ustedes, serán de los suyos[^1]. Sepan que Dios ha prescrito en Su Libro que sus parientes tienen más derecho a la herencia que sus hermanos en la fe[^2], y Dios es conocedor de todas las cosas.
 
-serán de los suyos: Pertenecerán a la comunidad de los musulmanes. 
-la herencia que sus hermanos en la fe: Este versículo deroga una ley temporal, a comienzos del Islam, por la cual los creyentes se heredaban unos a otros a pesar de que no eran parientes. Esto era a causa de que los creyentes habían emigrado dejando a sus espaldas todos los bienes materiales, y el Islam los recompensaba de esta manera; pero luego de establecida la comunidad y afianzada tras la victoria de la batalla de Bader, Dios evidencia que la ley de Su Libro establece que los que tienen más derecho a la herencia son los familiares. Para más detalles sobre la división de la herencia, ver Corán: 4:11-12.
+[^1]: Pertenecerán a la comunidad de los musulmanes.
+
+[^2]: Este versículo deroga una ley temporal, a comienzos del Islam, por la cual los creyentes se heredaban unos a otros a pesar de que no eran parientes. Esto era a causa de que los creyentes habían emigrado dejando a sus espaldas todos los bienes materiales, y el Islam los recompensaba de esta manera; pero luego de establecida la comunidad y afianzada tras la victoria de la batalla de Bader, Dios evidencia que la ley de Su Libro establece que los que tienen más derecho a la herencia son los familiares. Para más detalles sobre la división de la herencia, ver Corán: 4:11-12.
 
 # 1236
 
-Dios y Su Mensajero están exentos de responsabilidad sobre el pacto que ustedes habían celebrado con los idólatras.
+Dios y Su Mensajero están exentos de responsabilidad sobre el pacto[^1] que ustedes habían celebrado con los idólatras[^2].
 
-el pacto: De cese de hostilidades. 
-celebrado con los idólatras: Pues ellos lo han quebrantado.
+[^1]: De cese de hostilidades.
+
+[^2]: Pues ellos lo han quebrantado.
 
 # 1237
 
-[Los que combatieron a los musulmanes en la península árabe] pueden transitar [con libertad y seguridad] por la tierra cuatro meses. Sepan que no podrán eludir a Dios, porque será Dios Quien afrente a los que se negaron a creer.
+[Los que combatieron a los musulmanes en la península árabe] pueden transitar [con libertad y seguridad] por la tierra[^1] cuatro meses. Sepan que no podrán eludir a Dios, porque será Dios Quien afrente a los que se negaron a creer.
 
-transitar [con libertad y seguridad] por la tierra: Para reflexionar y arrepentirse de su incredulidad, o para alistarse para la partida.
+[^1]: Para reflexionar y arrepentirse de su incredulidad, o para alistarse para la partida.
 
 # 1238
 
-Dios y Su Mensajero anuncian a toda la gente en el día más importante de la peregrinación, que Dios ya no tiene ningún pacto con los idólatras, ni tampoco Su Mensajero. [¡Oh, idólatras!] Si se arrepienten [y abandonan la incredulidad] será mejor para ustedes, pero si se rehúsan no podrán escapar de Dios. A los que se negaron a creer anúnciales que recibirán un castigo doloroso,
+Dios y Su Mensajero anuncian a toda la gente en el día más importante de la peregrinación[^1], que Dios ya no tiene ningún pacto con los idólatras, ni tampoco Su Mensajero. [¡Oh, idólatras!] Si se arrepienten [y abandonan la incredulidad] será mejor para ustedes, pero si se rehúsan no podrán escapar de Dios. A los que se negaron a creer anúnciales que recibirán un castigo doloroso[^2],
 
-la peregrinación: El día diez del mes de Dhul-Jíyyah, en el cual se realizan muchos de los ritos de la peregrinación, como arrojar los guijarros, circunvalar la Ka’bah y rasurarse la cabeza, entre otros. Quienes no están realizando la peregrinación, celebran en este día la festividad de Eid Al Adha. 
-recibirán un castigo doloroso: Este anuncio fue hecho en una situación especial para una gente en particular: para aquellos idólatras que persiguieron, torturaron o mataron a los musulmanes debido a su fe. El versículo que sigue hace evidente esta particularidad al hacer una excepción con aquellos idólatras que no tuvieron esa actitud de persecución contra los creyentes.
+[^1]: El día diez del mes de Dhul-Jíyyah, en el cual se realizan muchos de los ritos de la peregrinación, como arrojar los guijarros, circunvalar la Ka’bah y rasurarse la cabeza, entre otros. Quienes no están realizando la peregrinación, celebran en este día la festividad de Eid Al Adha.
+
+[^2]: Este anuncio fue hecho en una situación especial para una gente en particular: para aquellos idólatras que persiguieron, torturaron o mataron a los musulmanes debido a su fe. El versículo que sigue hace evidente esta particularidad al hacer una excepción con aquellos idólatras que no tuvieron esa actitud de persecución contra los creyentes.
 
 # 1239
 
@@ -5392,11 +5426,13 @@ excepto aquellos que no quebrantaron los pactos que ustedes celebraron con ellos
 
 # 1240
 
-Pero cuando hayan pasado los meses sagrados, maten a esos idólatras dondequiera que los encuentren, captúrenlos, sítienlos y acéchenlos en todo lugar. Pero si se arrepienten [y aceptan el Islam], cumplen con la oración prescrita y pagan el zakat, déjenlos en paz. Dios es Absolvedor, Misericordioso.
+Pero cuando hayan pasado los meses sagrados[^1], maten a esos idólatras[^2] dondequiera que los encuentren, captúrenlos, sítienlos y acéchenlos en todo lugar. Pero si se arrepienten [y aceptan el Islam], cumplen con la oración prescrita y pagan el zakat, déjenlos en paz[^3]. Dios es Absolvedor, Misericordioso.
 
-meses sagrados: Mujárram, Rayab, Dhul-Qa‘dah y Dhul-Jíyyah, en los cuales es prohibido el combate. 
- maten a esos idólatras: Los que persiguieron y mataron a los creyentes debido a su fe, ya que al ser crímenes de lesa humanidad no prescriben ni ingresan dentro de ninguna amnistía. 
-déjenlos en paz: Cada versículo del Corán debe ser leído e interpretado dentro del contexto global del Corán. Este versículo, que habla de una posible conversión al Islam por parte de “aquellos que atribuyen divinidad a otros junto con Dios” con los cuales los creyentes están en guerra, debe, por tanto, ser considerado en conjunción con varios preceptos fundamentales del Corán. Uno de ellos, “no se puede forzar a nadie a creer” (2:256), prohíbe categóricamente cualquier intento de convertir a los no musulmanes por la fuerza, lo que excluye la posibilidad de que los musulmanes exijan o esperen que un enemigo vencido acepte el Islam a cambio de inmunidad. En segundo lugar, el Corán ordena: “Combatan por la causa de Dios a quienes los agredan, pero no se excedan, porque Dios no ama a los agresores” (2:190); y: “Cada vez que su pueblo los incita a combatir contra ustedes se precipitan a agredirlos. A estos, si no dan la palabra de que no combatirán contra ustedes, proponen la paz y contienen la agresión, aprésenlos y ajustícienlos [en el curso del combate] donde quiera que los encuentren. A ellos se les permite combatirlos” (4:91). La guerra es solo permisible en defensa propia, con la condición adicional de que: “Pero si ellos cesan de combatirlos, sepan que Dios es Absolvedor, Misericordioso” (2:192), y: “Pero si ellos cesan de combatir, que no haya más hostilidades” (2:193). Los versículos 4 y 6 aclaran aún más la actitud que deben adoptar los creyentes hacia aquellos no musulmanes que no sean hostiles. Ver también Corán 60:8-9.
+[^1]: Mujárram, Rayab, Dhul-Qa‘dah y Dhul-Jíyyah, en los cuales es prohibido el combate.
+
+[^2]: Los que persiguieron y mataron a los creyentes debido a su fe, ya que al ser crímenes de lesa humanidad no prescriben ni ingresan dentro de ninguna amnistía.
+
+[^3]: Cada versículo del Corán debe ser leído e interpretado dentro del contexto global del Corán. Este versículo, que habla de una posible conversión al Islam por parte de “aquellos que atribuyen divinidad a otros junto con Dios” con los cuales los creyentes están en guerra, debe, por tanto, ser considerado en conjunción con varios preceptos fundamentales del Corán. Uno de ellos, “no se puede forzar a nadie a creer” (2:256), prohíbe categóricamente cualquier intento de convertir a los no musulmanes por la fuerza, lo que excluye la posibilidad de que los musulmanes exijan o esperen que un enemigo vencido acepte el Islam a cambio de inmunidad. En segundo lugar, el Corán ordena: “Combatan por la causa de Dios a quienes los agredan, pero no se excedan, porque Dios no ama a los agresores” (2:190); y: “Cada vez que su pueblo los incita a combatir contra ustedes se precipitan a agredirlos. A estos, si no dan la palabra de que no combatirán contra ustedes, proponen la paz y contienen la agresión, aprésenlos y ajustícienlos [en el curso del combate] donde quiera que los encuentren. A ellos se les permite combatirlos” (4:91). La guerra es solo permisible en defensa propia, con la condición adicional de que: “Pero si ellos cesan de combatirlos, sepan que Dios es Absolvedor, Misericordioso” (2:192), y: “Pero si ellos cesan de combatir, que no haya más hostilidades” (2:193). Los versículos 4 y 6 aclaran aún más la actitud que deben adoptar los creyentes hacia aquellos no musulmanes que no sean hostiles. Ver también Corán 60:8-9.
 
 # 1241
 
@@ -5420,9 +5456,9 @@ No respetan pacto ni compromiso con los creyentes. Ellos son los transgresores.
 
 # 1246
 
-Pero si se arrepienten, cumplen con la oración prescrita y pagan el zakat, entonces [perdónenlos y sepan que ahora] son sus hermanos en la religión. Así es como explico detalladamente los preceptos a quienes los comprenden.
+Pero si se arrepienten[^1], cumplen con la oración prescrita y pagan el zakat, entonces [perdónenlos y sepan que ahora] son sus hermanos en la religión. Así es como explico detalladamente los preceptos a quienes los comprenden.
 
-si se arrepienten: De su comportamiento contra los creyentes e ingresan al Islam.
+[^1]: De su comportamiento contra los creyentes e ingresan al Islam.
 
 # 1247
 
@@ -5446,9 +5482,9 @@ removiendo la ira que hay en ellos. Dios acepta el arrepentimiento de quien quie
 
 # 1252
 
-No es propio que los idólatras construyan y mantengan las mezquitas de Dios, cuando [con sus creencias y acciones] dan testimonio de su incredulidad [en Dios]. Sus obras serán en vano, y sufrirán eternamente en el Infierno.
+No es propio que los idólatras construyan y mantengan las mezquitas de Dios[^1], cuando [con sus creencias y acciones] dan testimonio de su incredulidad [en Dios]. Sus obras serán en vano, y sufrirán eternamente en el Infierno.
 
-construyan y mantengan las mezquitas de Dios: Lo que aquí se critica es la acción externa e hipócrita de construir o cuidar de una mezquita por un motivo mundano, como hacía la tribu de Quraish con la mezquita de La Meca, con el único objetivo de mantener su renombre y beneficiarse económicamente de los peregrinos.
+[^1]: Lo que aquí se critica es la acción externa e hipócrita de construir o cuidar de una mezquita por un motivo mundano, como hacía la tribu de Quraish con la mezquita de La Meca, con el único objetivo de mantener su renombre y beneficiarse económicamente de los peregrinos.
 
 # 1253
 
@@ -5472,9 +5508,9 @@ Vivirán en ellos por toda la eternidad. Dios les tiene reservada una recompensa
 
 # 1258
 
-¡Oh, creyentes! No tomen a sus padres y hermanos como aliados si estos prefieren la incredulidad a la fe; quien de ustedes los tome a ellos por aliados será de los opresores.
+¡Oh, creyentes! No tomen a sus padres y hermanos como aliados si estos prefieren la incredulidad a la fe; quien de ustedes los tome a ellos por aliados será de los opresores.[^1]
 
-La obediencia absoluta es debida únicamente a Dios, dice en el Corán: “Deben obediencia absoluta a Dios y a Su Mensajero, y tengan cuidado [de desobedecerlos]. Pero quien se rehúse, sepa que Mi Mensajero solo tiene la obligación de transmitir [el Mensaje] con claridad.” (5:92). Mientras que la obediencia a los padres, es una obediencia condicionada, como dice en el Corán: “Si tus padres se esfuerzan por hacer que caigas en la idolatría de dedicar actos de adoración a otro que Dios, lo cual es algo que no te he enseñado, no los obedezcan pero trátenlos con respeto. Sigan el camino de los piadosos, pues ante Mí comparecerán y les informaré lo que hacían” (31:15). Es decir, que debemos honrar y obedecer a los padres siempre que no nos pidan algo que claramente contradiga las normas islámicas. De lo contrario, les debemos respeto y atención permanente, pero no obediencia, porque todo lo que provenga de un ser humano debe ser analizado a la luz de las enseñanzas islámicas, ya que Dios dice en el Corán: ¡Oh, creyentes! Obedezcan a Dios, obedezcan al Mensajero y a aquellos de ustedes que tengan autoridad y conocimiento. Si realmente creen en Dios y en el Día del Juicio, cuando tengan discrepancias remítanlas al juicio de Dios y del Mensajero, porque en ello hay bien y es el camino correcto” (4:59). Lo que significa que la obediencia a los seres creados está limitada por la obediencia al Creador. Cabe mencionar también, a modo de reflexión, que Dios cuestionó severamente y criticó a aquellos que siguen a sus padres sin cuestionarse si sus enseñanzas son correctas o no, dice en el Corán: “Y cuando se les dice: “Sigan lo que Dios reveló”, argumentan: “No, seguimos la tradición de nuestros padres”. ¿Acaso imitan a sus padres a pesar de que ellos no seguían una lógica ni una revelación?” (2:170).
+[^1]: “Deben obediencia absoluta a Dios y a Su Mensajero, y tengan cuidado [de desobedecerlos]. Pero quien se rehúse, sepa que Mi Mensajero solo tiene la obligación de transmitir [el Mensaje] con claridad.” (5:92). Mientras que la obediencia a los padres, es una obediencia condicionada, como dice en el Corán: “Si tus padres se esfuerzan por hacer que caigas en la idolatría de dedicar actos de adoración a otro que Dios, lo cual es algo que no te he enseñado, no los obedezcan pero trátenlos con respeto. Sigan el camino de los piadosos, pues ante Mí comparecerán y les informaré lo que hacían” (31:15). Es decir, que debemos honrar y obedecer a los padres siempre que no nos pidan algo que claramente contradiga las normas islámicas. De lo contrario, les debemos respeto y atención permanente, pero no obediencia, porque todo lo que provenga de un ser humano debe ser analizado a la luz de las enseñanzas islámicas, ya que Dios dice en el Corán: ¡Oh, creyentes! Obedezcan a Dios, obedezcan al Mensajero y a aquellos de ustedes que tengan autoridad y conocimiento. Si realmente creen en Dios y en el Día del Juicio, cuando tengan discrepancias remítanlas al juicio de Dios y del Mensajero, porque en ello hay bien y es el camino correcto” (4:59). Lo que significa que la obediencia a los seres creados está limitada por la obediencia al Creador. Cabe mencionar también, a modo de reflexión, que Dios cuestionó severamente y criticó a aquellos que siguen a sus padres sin cuestionarse si sus enseñanzas son correctas o no, dice en el Corán: “Y cuando se les dice: “Sigan lo que Dios reveló”, argumentan: “No, seguimos la tradición de nuestros padres”. ¿Acaso imitan a sus padres a pesar de que ellos no seguían una lógica ni una revelación?” (2:170).
 
 # 1259
 
@@ -5494,35 +5530,37 @@ Luego, Dios perdonó a quienes se arrepintieron [y abrazaron el Islam]. Dios es 
 
 # 1263
 
-¡Oh, creyentes! Los idólatras son impuros, que no se acerquen a la Mezquita Sagrada después de este año. No teman padecer por ello pobreza o necesidad alguna, que si Dios quiere los proveerá con Su gracia. Dios todo lo sabe, es Sabio.
+¡Oh, creyentes! Los idólatras son impuros[^1], que no se acerquen a la Mezquita Sagrada[^2] después de este año[^3]. No teman padecer por ello pobreza o necesidad alguna, que si Dios quiere los proveerá con Su gracia. Dios todo lo sabe, es Sabio.
 
-impuros: Impureza espiritual a causa de su incredulidad o idolatría.
- que no se acerquen a la Mezquita Sagrada: No es lícito que un no musulmán entre en la Mezquita Sagrada de La Meca. En el resto de las mezquitas, en cambio, sí puede entrar, como cuando el Profeta, que la paz y las bendiciones de Dios sean con él, recibió a los cristianos de Nayrán en su Mezquita de Medina. 
- este año: Este versículo fue revelado en el año noveno de la Hégira.
+[^1]: Impureza espiritual a causa de su incredulidad o idolatría.
+
+[^2]: No es lícito que un no musulmán entre en la Mezquita Sagrada de La Meca. En el resto de las mezquitas, en cambio, sí puede entrar, como cuando el Profeta, que la paz y las bendiciones de Dios sean con él, recibió a los cristianos de Nayrán en su Mezquita de Medina.
+
+[^3]: Este versículo fue revelado en el año noveno de la Hégira.
 
 # 1264
 
-Luchen contra quienes no creen en Dios ni en el Día del Juicio, no respetan lo que Dios y Su Mensajero han vedado y no siguen la verdadera religión [el Islam] de entre aquellos de la Gente del Libro [que los hayan agredido], a menos que acepten pagar un impuesto con humildad.
+Luchen contra quienes no creen en Dios ni en el Día del Juicio, no respetan lo que Dios y Su Mensajero han vedado y no siguen la verdadera religión [el Islam] de entre aquellos de la Gente del Libro [que los hayan agredido], a menos que acepten pagar un impuesto[^1] con humildad.
 
-impuesto: Lit. Yizia جِزِية , traducido aquí como “impuesto”, aparece solo una vez en el Corán, pero su significado y propósito han sido expuestos claramente por el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él en su Sunnah. En un Estado Islámico, todo musulmán adulto y sano está obligado a tomar las armas para participar en la defensa de su sociedad, si es atacado por una potencia extranjera, y así defender el derecho a la autodeterminación de su sociedad. Dado que esto es, esencialmente, una obligación religiosa, a los ciudadanos no musulmanes que viven en una sociedad islámica, que no comparten la ideología del Islam, no se les puede exigir, por justicia, que participen de esta batalla. Solo aquellos ciudadanos no musulmanes que podrían participar de un ejército son los que están obligados a pagar este impuesto. Por consiguiente, todos aquellos ciudadanos no musulmanes cuya condición o situación personal los eximiría de ir a la guerra, están legalmente exentos del pago del yizia, como las mujeres, los que no hayan alcanzado la madurez, los ancianos, los hombres enfermos o inválidos, los sacerdotes y los monjes. Ni en el Corán ni en la Sunnah auténtica se determina la cuota a pagar en este impuesto, pero sí está establecido que se trata de una cantidad menor que el zakat (uno de los pilares del Islam) que están obligados a pagar los musulmanes y del que, por ser un deber religioso específicamente islámico, están naturalmente exentos los no musulmanes. Algunos orientalistas sugirieron equivocadamente que algunas conversiones al Islam habrían ocurrido para evitar pagar este impuesto, pero tal afirmación es falsa, porque si un no musulmán que paga el Yizia se convirtiera al Islam, tendría que pagar el zakat, que es más elevado.
+[^1]: Lit. Yizia جِزِية , traducido aquí como “impuesto”, aparece solo una vez en el Corán, pero su significado y propósito han sido expuestos claramente por el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él en su Sunnah. En un Estado Islámico, todo musulmán adulto y sano está obligado a tomar las armas para participar en la defensa de su sociedad, si es atacado por una potencia extranjera, y así defender el derecho a la autodeterminación de su sociedad. Dado que esto es, esencialmente, una obligación religiosa, a los ciudadanos no musulmanes que viven en una sociedad islámica, que no comparten la ideología del Islam, no se les puede exigir, por justicia, que participen de esta batalla. Solo aquellos ciudadanos no musulmanes que podrían participar de un ejército son los que están obligados a pagar este impuesto. Por consiguiente, todos aquellos ciudadanos no musulmanes cuya condición o situación personal los eximiría de ir a la guerra, están legalmente exentos del pago del yizia, como las mujeres, los que no hayan alcanzado la madurez, los ancianos, los hombres enfermos o inválidos, los sacerdotes y los monjes. Ni en el Corán ni en la Sunnah auténtica se determina la cuota a pagar en este impuesto, pero sí está establecido que se trata de una cantidad menor que el zakat (uno de los pilares del Islam) que están obligados a pagar los musulmanes y del que, por ser un deber religioso específicamente islámico, están naturalmente exentos los no musulmanes. Algunos orientalistas sugirieron equivocadamente que algunas conversiones al Islam habrían ocurrido para evitar pagar este impuesto, pero tal afirmación es falsa, porque si un no musulmán que paga el Yizia se convirtiera al Islam, tendría que pagar el zakat, que es más elevado.
 
 # 1265
 
-Dicen [algunos] judíos: "‘Uzeir es el hijo de Dios", y los cristianos dicen: "El Mesías es el hijo de Dios". Estas son solo palabras [sin fundamento] que salen de sus bocas, asemejándose por ello a los incrédulos que los precedieron. ¡Que Dios los destruya! ¡Cómo pueden ser tan desviados!
+Dicen [algunos] judíos: "‘Uzeir es el hijo de Dios[^1]", y los cristianos dicen: "El Mesías es el hijo de Dios". Estas son solo palabras [sin fundamento] que salen de sus bocas, asemejándose por ello a los incrédulos que los precedieron. ¡Que Dios los destruya! ¡Cómo pueden ser tan desviados!
 
-hijo de Dios: La utilización de este título, “hijo de Dios”, era muy común entre los judíos del Antiguo Testamento. Para mayor información sobre a quiénes aplicaban este término ver la Enciclopedia Católica, bajo el título Hijo de Dios.
+[^1]: La utilización de este título, “hijo de Dios”, era muy común entre los judíos del Antiguo Testamento. Para mayor información sobre a quiénes aplicaban este término ver la Enciclopedia Católica, bajo el título Hijo de Dios.
 
 # 1266
 
-Tomaron [los judíos] a sus rabinos y [los cristianos] a sus monjes y al Mesías, hijo de María, por divinidades en lugar de Dios. Pero solo se les había ordenado [en la Tora y el Evangelio] adorar a Dios, la única divinidad. No existe nada ni nadie con derecho a ser adorado salvo Él. ¡Glorificado sea! ¡Cómo pueden dedicar actos de adoración a otros!
+Tomaron [los judíos] a sus rabinos y [los cristianos] a sus monjes y al Mesías, hijo de María, por divinidades[^1] en lugar de Dios. Pero solo se les había ordenado [en la Tora y el Evangelio] adorar a Dios, la única divinidad. No existe nada ni nadie con derecho a ser adorado salvo Él. ¡Glorificado sea! ¡Cómo pueden dedicar actos de adoración a otros!
 
-por divinidades: Este versículo evidencia que quien obedece a una persona, negándose a obedecer al Corán y la Sunnah, haciendo lícito lo prohibido o viceversa, y obedeciéndolo en lo que sabe es una desobediencia a Dios, toma a esa persona como una divinidad junto a Dios, transformándolo en asociado o copartícipe, y esto anula el auténtico monoteísmo (Tauhid), porque Dios denominó tal obediencia como adoración. Dijo el Sheij Al Islam Ibn Taimiah sobre el significado de “han tomado a sus sacerdotes y a sus monjes”: “Estas personas han tomado a sus sacerdotes y monjes como divinidades por haberlos obedecido en cuanto legislaron permitiendo lo que había prohibido Dios y prohibiendo lo que había permitido Dios. Esto puede darse de dos maneras: La primera es que sepan que sus líderes han cambiado la religión tal como la reveló Dios, pero de todas maneras los siguen sabiendo que contradicen las enseñanzas proféticas, considerando lícito lo prohibido e ilícito lo permitido. Esto es, sin dudas, incredulidad (Kufr). Dios y Su Mensajero lo consideran una forma de idolatría, aunque no se postren ante ellos. De la misma manera, aquellos que sigan a algún erudito sabiendo que al hacerlo están contradiciendo a Dios y a Su Mensajero, habrán cometido, tal como los primeros, un acto de idolatría. La segunda es que consideren en su fe que lo prohibido es ilícito (haram) y lo permitido es lícito (halal), pero siguen a sus líderes sabiendo que esto es una desobediencia a Dios. Quien hace esto es igual que aquel musulmán que comete desobediencias (pecados), por lo que son pecadores desobedientes. Sobre esto dijo el Mensajero de Dios, que la paz y las bendiciones de Dios sean con él: “La obediencia es obligatoria solo en lo lícito”.
+[^1]: Este versículo evidencia que quien obedece a una persona, negándose a obedecer al Corán y la Sunnah, haciendo lícito lo prohibido o viceversa, y obedeciéndolo en lo que sabe es una desobediencia a Dios, toma a esa persona como una divinidad junto a Dios, transformándolo en asociado o copartícipe, y esto anula el auténtico monoteísmo (Tauhid), porque Dios denominó tal obediencia como adoración. Dijo el Sheij Al Islam Ibn Taimiah sobre el significado de “han tomado a sus sacerdotes y a sus monjes”: “Estas personas han tomado a sus sacerdotes y monjes como divinidades por haberlos obedecido en cuanto legislaron permitiendo lo que había prohibido Dios y prohibiendo lo que había permitido Dios. Esto puede darse de dos maneras: La primera es que sepan que sus líderes han cambiado la religión tal como la reveló Dios, pero de todas maneras los siguen sabiendo que contradicen las enseñanzas proféticas, considerando lícito lo prohibido e ilícito lo permitido. Esto es, sin dudas, incredulidad (Kufr). Dios y Su Mensajero lo consideran una forma de idolatría, aunque no se postren ante ellos. De la misma manera, aquellos que sigan a algún erudito sabiendo que al hacerlo están contradiciendo a Dios y a Su Mensajero, habrán cometido, tal como los primeros, un acto de idolatría. La segunda es que consideren en su fe que lo prohibido es ilícito (haram) y lo permitido es lícito (halal), pero siguen a sus líderes sabiendo que esto es una desobediencia a Dios. Quien hace esto es igual que aquel musulmán que comete desobediencias (pecados), por lo que son pecadores desobedientes. Sobre esto dijo el Mensajero de Dios, que la paz y las bendiciones de Dios sean con él: “La obediencia es obligatoria solo en lo lícito”.
 
 # 1267
 
-Pretenden extinguir la luz de Dios con sus palabras, pero Dios hará que Su luz prevalezca aunque esto desagrade a los que se niegan a creer.
+Pretenden extinguir la luz[^1] de Dios con sus palabras, pero Dios hará que Su luz prevalezca aunque esto desagrade a los que se niegan a creer.
 
-la luz: El Mensaje.
+[^1]: El Mensaje.
 
 # 1268
 
@@ -5530,28 +5568,29 @@ la luz: El Mensaje.
 
 # 1269
 
-¡Oh, creyentes! Muchos de los rabinos y monjes se apropian del dinero ajeno sin derecho, y desvían [a la gente] del sendero de Dios. A aquellos que atesoren el oro y la plata y no contribuyan por la causa de Dios, anúnciales un castigo doloroso.
+¡Oh, creyentes! Muchos de los rabinos y monjes se apropian del dinero ajeno sin derecho, y desvían [a la gente] del sendero de Dios. A aquellos que atesoren[^1] el oro y la plata y no contribuyan por la causa de Dios, anúnciales un castigo doloroso.
 
-A aquellos que atesoren: Significa que lo escondan y no paguen el zakat correspondiente para colaborar en la causa de Dios.
+[^1]: Significa que lo escondan y no paguen el zakat correspondiente para colaborar en la causa de Dios.
 
 # 1270
 
-El Día del Juicio, lo que atesoraron se tornará incandescente por el fuego del Infierno, y sus frentes, sus costados y sus espaldas serán marcados con ello. [Se les dirá:] "Esto es lo que atesoraron, sufran ahora su castigo".
+El Día del Juicio, lo que atesoraron[^1] se tornará incandescente por el fuego del Infierno, y sus frentes, sus costados y sus espaldas serán marcados con ello. [Se les dirá:] "Esto es lo que atesoraron, sufran ahora su castigo".
 
-lo que atesoraron: Es decir, lo que no hayan pagado sobre ello el zakat, negándoselo a los pobres y los necesitados.
+[^1]: Es decir, lo que no hayan pagado sobre ello el zakat, negándoselo a los pobres y los necesitados.
 
 # 1271
 
-El número de meses para Dios es doce, porque así Él lo decretó el día que creó los cielos y la Tierra. De ellos, cuatro son sagrados. Así es en la religión verdadera. No obren en contra de ustedes mismos durante estos meses. Combatan a los idólatras tal como ellos los combaten a ustedes, y sepan que Dios está con los piadosos.
+El número de meses para Dios es doce, porque así Él lo decretó el día que creó los cielos y la Tierra. De ellos, cuatro son sagrados[^1]. Así es en la religión verdadera. No obren en contra de ustedes mismos durante estos meses[^2]. Combatan a los idólatras tal como ellos los combaten a ustedes, y sepan que Dios está con los piadosos.
 
-cuatro son sagrados: Mujárram, Rayab, Dhul-Qa‘dah y Dhul-Jíyyah. 
-No obren en contra de ustedes mismos durante estos meses: Desobedeciendo a Dios y cometiendo pecados.
+[^1]: Mujárram, Rayab, Dhul-Qa‘dah y Dhul-Jíyyah.
+
+[^2]: Desobedeciendo a Dios y cometiendo pecados.
 
 # 1272
 
-Cambiar los meses sagrados es acrecentar aún más la incredulidad. Así se extraviaron los que se negaron a creer, unos años lo declaraban [al combate] lícito durante determinados meses, mientras que otros años lo declaraban ilícito [durante esos mismos meses], pero siempre hacían que el número de meses sagrados fuera cuatro para que de esta manera coincidiera con el número de meses que Dios había decretado que fueran sagrados. Declaraban lícito lo que Dios había prohibido. [El demonio] les hizo ver sus malas obras como buenas. Sepan que Dios no guía a la gente que se niega a creer.
+Cambiar los meses sagrados es acrecentar aún más la incredulidad[^1]. Así se extraviaron los que se negaron a creer, unos años lo declaraban [al combate] lícito durante determinados meses, mientras que otros años lo declaraban ilícito [durante esos mismos meses], pero siempre hacían que el número de meses sagrados fuera cuatro para que de esta manera coincidiera con el número de meses que Dios había decretado que fueran sagrados. Declaraban lícito lo que Dios había prohibido. [El demonio] les hizo ver sus malas obras como buenas. Sepan que Dios no guía a la gente que se niega a creer.
 
-es acrecentar aún más la incredulidad: Porque los incrédulos los cambiaban a conveniencia para poder combatir en ellos.
+[^1]: Porque los incrédulos los cambiaban a conveniencia para poder combatir en ellos.
 
 # 1273
 
@@ -5563,9 +5602,9 @@ Si no responden al llamado a combatir los azotará un castigo doloroso, y Dios l
 
 # 1275
 
-Si no lo socorren [al Mensajero], sepan que Dios [no necesita de ustedes, pues ya] lo auxilió aquella vez que los incrédulos lo expulsaron [de La Meca], cuando estando en la caverna con su compañero [Abu Bakr], le dijo: "No te entristezcas, pues Dios está con nosotros". Entonces, Dios hizo descender Su sosiego sobre él [Abu Bakr], los socorrió con un ejército [de ángeles] que ellos no veían, y dispuso que la palabra de los incrédulos se desvaneciera, y que la palabra de Dios sea la que prevalezca. Dios es Poderoso, Sabio.
+Si no lo socorren [al Mensajero], sepan que Dios [no necesita de ustedes, pues ya] lo auxilió aquella vez que los incrédulos lo expulsaron [de La Meca], cuando estando en la caverna con su compañero [Abu Bakr][^1], le dijo: "No te entristezcas, pues Dios está con nosotros". Entonces, Dios hizo descender Su sosiego sobre él [Abu Bakr], los socorrió con un ejército [de ángeles] que ellos no veían, y dispuso que la palabra de los incrédulos se desvaneciera, y que la palabra de Dios sea la que prevalezca. Dios es Poderoso, Sabio.
 
-[Abu Bakr]: Abu Bakr fue el mejor amigo del Mensajero de Dios, que la paz y las bendiciones de Dios sean con él, y el mejor de los Sahabah. Fue elegido Califa de los musulmanes tras la muerte del Profeta. Murió en el mes de Yumada Al Awal del año 13 de la Hégira, con la misma edad que el Mensajero de Dios, 63 años.
+[^1]: Abu Bakr fue el mejor amigo del Mensajero de Dios, que la paz y las bendiciones de Dios sean con él, y el mejor de los Sahabah. Fue elegido Califa de los musulmanes tras la muerte del Profeta. Murió en el mes de Yumada Al Awal del año 13 de la Hégira, con la misma edad que el Mensajero de Dios, 63 años.
 
 # 1276
 
@@ -5601,15 +5640,15 @@ Ya antes pretendieron sembrar la sedición [cuando arribaste a Medina, ¡oh, Muj
 
 # 1284
 
-Entre los hipócritas hubo quien te dijo: "[¡Oh, Mujámmad!] Permíteme quedarme y no me expongas a la tentación". ¿Acaso no cayeron en la tentación [del demonio al negarse a combatir]? El Infierno rodeará a los que se niegan a creer.
+Entre los hipócritas hubo quien te dijo: "[¡Oh, Mujámmad!] Permíteme quedarme y no me expongas a la tentación[^1]". ¿Acaso no cayeron en la tentación [del demonio al negarse a combatir]? El Infierno rodeará a los que se niegan a creer.
 
-no me expongas a la tentación: Su excusa era que las mujeres del pueblo que tenían que combatir lo podían tentar con su belleza.
+[^1]: Su excusa era que las mujeres del pueblo que tenían que combatir lo podían tentar con su belleza.
 
 # 1285
 
-Si obtienes un éxito se disgustan, pero si recibes un revés dicen: "Ya habíamos tomado nuestras precauciones", y se marchan alegres.
+Si obtienes un éxito se disgustan[^1], pero si recibes un revés dicen: "Ya habíamos tomado nuestras precauciones", y se marchan alegres.
 
-se disgustan: Porque son envidiosos y desean el mal a las personas.
+[^1]: Porque son envidiosos y desean el mal a las personas.
 
 # 1286
 
@@ -5617,9 +5656,9 @@ Diles [¡oh, Mujámmad!]: "Solo nos sucede lo que Dios decretó para nosotros. �
 
 # 1287
 
-Diles [a los hipócritas]: "Sepan que solo puede sucedernos una de dos cosas buenas, en cambio a ustedes, o bien Dios les enviará un castigo o hará que nosotros los derrotemos. Aguarden su destino, que nosotros aguardamos el nuestro".
+Diles [a los hipócritas]: "Sepan que solo puede sucedernos una de dos cosas buenas[^1], en cambio a ustedes, o bien Dios les enviará un castigo o hará que nosotros los derrotemos. Aguarden su destino, que nosotros aguardamos el nuestro".
 
-una de dos cosas buenas: El éxito en el emprendimiento o la recompensa por el intento, y en este último caso, significa morir defendiendo una causa justa, dando testimonio de su fe con su valentía.
+[^1]: El éxito en el emprendimiento o la recompensa por el intento, y en este último caso, significa morir defendiendo una causa justa, dando testimonio de su fe con su valentía.
 
 # 1288
 
@@ -5627,9 +5666,9 @@ Diles: "[¡Oh, hipócritas!] Lo que donen, de buena voluntad o por compromiso, n
 
 # 1289
 
-Sepan que sus donaciones no son aceptadas porque no creen en Dios ni en Su Mensajero. Ellos realizan la oración con desgano y hacen donaciones con desgano.
+Sepan que sus donaciones no son aceptadas[^1] porque no creen en Dios ni en Su Mensajero. Ellos realizan la oración con desgano y hacen donaciones con desgano.
 
-no son aceptadas: Por Dios como obras buenas.
+[^1]: Por Dios como obras buenas.
 
 # 1290
 
@@ -5645,9 +5684,9 @@ Si encontraran un refugio, una caverna o algún escondite, se dirigirían hacia 
 
 # 1293
 
-De entre ellos hay quienes te critican por cómo repartes las caridades [¡oh, Mujámmad!]. Si les das de ellas [todo lo que pretenden] quedan satisfechos, pero si no lo haces se molestan.
+De entre ellos[^1] hay quienes te critican por cómo repartes las caridades [¡oh, Mujámmad!]. Si les das de ellas [todo lo que pretenden] quedan satisfechos, pero si no lo haces se molestan.
 
-De entre ellos: Los hipócritas.
+[^1]: Los hipócritas.
 
 # 1294
 
@@ -5655,28 +5694,33 @@ De entre ellos: Los hipócritas.
 
 # 1295
 
-El zakat debe ser distribuido entre los pobres, los menesterosos, los que trabajan en su recaudación y distribución, aquellos de los que se desea ganar sus corazones, la liberación de los prisioneros, los endeudados, la causa de Dios y el viajero insolvente. Esto es un deber prescrito por Dios, y Dios lo sabe todo, es Sabio.
+El zakat debe ser distribuido entre los pobres[^1], los menesterosos[^2], los que trabajan en su recaudación y distribución, aquellos de los que se desea ganar sus corazones[^3], la liberación de los prisioneros[^4], los endeudados[^5], la causa de Dios[^6] y el viajero insolvente[^7]. Esto es un deber prescrito por Dios, y Dios lo sabe todo, es Sabio.
 
-los pobres: Son los que no poseen nada y no alcanzan a vivir con dignidad. 
-los menesterosos: Son los que poseen apenas lo mínimo para vivir con dignidad. 
-los que trabajan en su recaudación y distribución, aquellos de los que se desea ganar sus corazones: Son personas de prestigio entre los suyos, y de quienes se espera que acepten el Islam, detengan su hostilidad, refuercen su fe y su Islam, o se islamice alguno de los suyos.
- 
-la liberación de los prisioneros: Son los esclavos que están negociando su manumisión con sus amos. Se les ayuda del zakat para lograr su libertad. También aplicable al rescate de cautivos, secuestrados y prisioneros de guerra en campo enemigo. 
-los endeudados: Estos son de dos clases: a) Los que se han endeudado para conciliar entre dos personas en disputa. Se les entrega lo suficiente para saldar su deuda. b) Los que se han endeudado por motivos personales y no pueden saldar sus deudas. 
-la causa de Dios: Son las personas que se dedican a elevar la palabra de Dios, como los que luchan por alguna de sus causas o los que divulgan el Islam. 
-el viajero insolvente: Es el viajero que ha perdido sus posesiones durante el viaje y no puede volver a su tierra. A esta persona se le debe dar lo que necesite para poder regresar a su país, aunque sea rico en su tierra.
+[^1]: Son los que no poseen nada y no alcanzan a vivir con dignidad.
+
+[^2]: Son los que poseen apenas lo mínimo para vivir con dignidad.
+
+[^3]: Son personas de prestigio entre los suyos, y de quienes se espera que acepten el Islam, detengan su hostilidad, refuercen su fe y su Islam, o se islamice alguno de los suyos.
+
+[^4]: Son los esclavos que están negociando su manumisión con sus amos. Se les ayuda del zakat para lograr su libertad. También aplicable al rescate de cautivos, secuestrados y prisioneros de guerra en campo enemigo.
+
+[^5]: Estos son de dos clases: a) Los que se han endeudado para conciliar entre dos personas en disputa. Se les entrega lo suficiente para saldar su deuda. b) Los que se han endeudado por motivos personales y no pueden saldar sus deudas.
+
+[^6]: Son las personas que se dedican a elevar la palabra de Dios, como los que luchan por alguna de sus causas o los que divulgan el Islam.
+
+[^7]: Es el viajero que ha perdido sus posesiones durante el viaje y no puede volver a su tierra. A esta persona se le debe dar lo que necesite para poder regresar a su país, aunque sea rico en su tierra.
 
 # 1296
 
-Entre ellos hay [hipócritas] quienes critican al Profeta y dicen: "Escucha todo lo que le dicen", pero ello es para su bien. Él cree en Dios, confía en [la palabra de] los creyentes y es una misericordia para quienes de ustedes [realmente] han llegado a creer. Quienes calumnien al Mensajero de Dios recibirán un castigo doloroso.
+Entre ellos hay [hipócritas] quienes critican al Profeta y dicen: "Escucha todo lo que le dicen", pero ello es para su bien. Él[^1] cree en Dios, confía en [la palabra de] los creyentes y es una misericordia para quienes de ustedes [realmente] han llegado a creer. Quienes calumnien al Mensajero de Dios recibirán un castigo doloroso.
 
-Él: El Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él.
+[^1]: El Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él.
 
 # 1297
 
-[Un grupo de hipócritas] les juran por Dios con el fin de que ustedes se complazcan con ellos. Pero es de Dios y Su Mensajero de quienes deberían buscar su complacencia, si es que realmente son creyentes.
+[Un grupo de hipócritas] les juran por Dios con el fin de que ustedes se complazcan con ellos[^1]. Pero es de Dios y Su Mensajero de quienes deberían buscar su complacencia, si es que realmente son creyentes.
 
-les juran por Dios con el fin de que ustedes se complazcan con ellos: Que no querían maltratar al Profeta, que la paz y las bendiciones de Dios sean con él.
+[^1]: Que no querían maltratar al Profeta, que la paz y las bendiciones de Dios sean con él.
 
 # 1298
 
@@ -5688,16 +5732,17 @@ Los hipócritas temían que un capítulo [del Corán] como este fuera revelado y
 
 # 1300
 
-Pero si les preguntas, te dicen: "Solo bromeábamos y nos entreteníamos". Diles: "¿Acaso se burlaban de Dios, de Sus preceptos y de Su Mensajero?
+Pero si les preguntas[^1], te dicen: "Solo bromeábamos y nos entreteníamos". Diles: "¿Acaso se burlaban de Dios, de Sus preceptos y de Su Mensajero?
 
-si les preguntas: El porqué de sus injurias sobre el Islam, el Profeta y los creyentes.
+[^1]: El porqué de sus injurias sobre el Islam, el Profeta y los creyentes.
 
 # 1301
 
-No se excusen, han demostrado ahora su incredulidad a pesar de haber expresado su testimonio de fe anteriormente". Perdonaré a un grupo de ustedes, pero castigaré a otro grupo por haber sido transgresor.
+No se excusen, han demostrado ahora su incredulidad a pesar de haber expresado su testimonio de fe anteriormente[^1]". Perdonaré a un grupo de ustedes[^2], pero castigaré a otro grupo por haber sido transgresor.
 
-su testimonio de fe anteriormente: Mencionó Ibn Kazir en su interpretación de este versículo, que un hipócrita dijo: “No hemos visto gente como estos recitadores del Corán. Siempre tienen apetito, son mentirosos y cobardes en la batalla”. Pero sus palabras le fueron comentadas al Mensajero de Dios, que la paz y las bendiciones de Dios sean con él, quien ya había montado su camella para iniciar el viaje. Entonces el hipócrita intentó excusarse diciendo: “¡Mensajero de Dios! Solamente bromeaba, cosas que se dicen durante el viaje para distraernos”. El Mensajero de Dios, que la paz y las bendiciones de Dios sean con él, recitó entonces este versículo.
-Perdonaré a un grupo de ustedes: Porque se arrepintieron y enmendaron su error.
+[^1]: Mencionó Ibn Kazir en su interpretación de este versículo, que un hipócrita dijo: “No hemos visto gente como estos recitadores del Corán. Siempre tienen apetito, son mentirosos y cobardes en la batalla”. Pero sus palabras le fueron comentadas al Mensajero de Dios, que la paz y las bendiciones de Dios sean con él, quien ya había montado su camella para iniciar el viaje. Entonces el hipócrita intentó excusarse diciendo: “¡Mensajero de Dios! Solamente bromeaba, cosas que se dicen durante el viaje para distraernos”. El Mensajero de Dios, que la paz y las bendiciones de Dios sean con él, recitó entonces este versículo.
+
+[^2]: Porque se arrepintieron y enmendaron su error.
 
 # 1302
 
@@ -5713,9 +5758,9 @@ De la misma manera Dios castigó a otros pueblos del pasado que eran más fuerte
 
 # 1305
 
-¿Acaso no les fueron relatadas las historias de otros pueblos del pasado, como el pueblo de Noé, ‘Ad, Zamud, el pueblo de Abraham, la gente de Madián y las dos ciudades que fueron destruidas? Se les presentaron sus Mensajeros con las pruebas evidentes [pero los rechazaron]. Dios no fue injusto con ellos [al castigarlos], sino que ellos fueron injustos consigo mismos.
+¿Acaso no les fueron relatadas las historias de otros pueblos del pasado, como el pueblo de Noé, ‘Ad, Zamud, el pueblo de Abraham, la gente de Madián y las dos ciudades que fueron destruidas[^1]? Se les presentaron sus Mensajeros con las pruebas evidentes [pero los rechazaron]. Dios no fue injusto con ellos [al castigarlos], sino que ellos fueron injustos consigo mismos.
 
-las dos ciudades que fueron destruidas: Sodoma y Gomorra, a las que el Profeta Lot intentó, sin éxito, apartar de la inmoralidad del abuso homosexual.
+[^1]: Sodoma y Gomorra, a las que el Profeta Lot intentó, sin éxito, apartar de la inmoralidad del abuso homosexual.
 
 # 1306
 
@@ -5731,9 +5776,9 @@ A los creyentes y a las creyentes Dios prometió jardines [en el Paraíso] por d
 
 # 1309
 
-[Los hipócritas] juran por Dios que no dijeron nada [en contra de la religión de Dios y de Su Mensajero], y he aquí que sí dijeron palabras que evidenciaban su incredulidad, y así renegaron después de haber aceptado el Islam [exteriormente]. También se complotaron para algo que finalmente no pudieron conseguir. ¡Y nada pueden objetar [a la Fe] excepto que Dios los ha enriquecido y [ha hecho que] Su Mensajero [los enriquezca] de Su favor! Mejor sería que se arrepintieran, porque si no lo hacen, Dios les infligirá un castigo doloroso en esta vida y en la otra, y no tendrán en la Tierra protector ni defensor alguno.
+[Los hipócritas] juran por Dios que no dijeron nada [en contra de la religión de Dios y de Su Mensajero], y he aquí que sí dijeron palabras que evidenciaban su incredulidad, y así renegaron después de haber aceptado el Islam [exteriormente]. También se complotaron para algo que finalmente no pudieron conseguir[^1]. ¡Y nada pueden objetar [a la Fe] excepto que Dios los ha enriquecido y [ha hecho que] Su Mensajero [los enriquezca] de Su favor! Mejor sería que se arrepintieran, porque si no lo hacen, Dios les infligirá un castigo doloroso en esta vida y en la otra, y no tendrán en la Tierra protector ni defensor alguno.
 
-no pudieron conseguir: Asesinar al Profeta, que la paz y las bendiciones de Dios sean con él, durante la batalla de Tabuk.
+[^1]: Asesinar al Profeta, que la paz y las bendiciones de Dios sean con él, durante la batalla de Tabuk.
 
 # 1310
 
@@ -5741,9 +5786,9 @@ Entre ellos hay quienes hacen una promesa a Dios diciendo: "Si Dios nos agracia 
 
 # 1311
 
-Pero cuando Dios los bendijo con bienes materiales, se mostraron avaros y le dieron la espalda con desdén.
+Pero cuando Dios los bendijo con bienes materiales, se mostraron avaros y le dieron la espalda[^1] con desdén.
 
-le dieron la espalda: A las obras de caridad y a pagar el zakat.
+[^1]: A las obras de caridad y a pagar el zakat.
 
 # 1312
 
@@ -5755,10 +5800,11 @@ Dios les infundió la hipocresía en sus corazones, que perdurará hasta el día
 
 # 1314
 
-Ellos critican a los creyentes que hacen obras voluntarias dando donaciones generosas, y se burlan también de quienes no encuentran qué dar, salvo con un gran esfuerzo. Dios los pondrá a ellos en ridículo y recibirán un castigo doloroso.
+Ellos critican a los creyentes que hacen obras voluntarias dando donaciones generosas[^1], y se burlan también de quienes no encuentran qué dar, salvo con un gran esfuerzo[^2]. Dios los pondrá a ellos en ridículo y recibirán un castigo doloroso.
 
-dando donaciones generosas: Diciendo que lo hacen para ostentar. 
-con un gran esfuerzo: Debido a su pobreza.
+[^1]: Diciendo que lo hacen para ostentar.
+
+[^2]: Debido a su pobreza.
 
 # 1315
 
@@ -5870,15 +5916,15 @@ Otros esperan el designio de Dios, Quien los castigará [si no se arrepienten] o
 
 # 1342
 
-Quienes [de los hipócritas] construyeron una mezquita para hacer daño, difundir la incredulidad, sembrar la discordia entre los creyentes y dar refugio a quienes combaten a Dios y a Su Mensajero, desde hace tiempo juran que la construyeron para hacer un acto de beneficencia, pero Dios atestigua que mienten.
+Quienes [de los hipócritas] construyeron una mezquita para hacer daño, difundir la incredulidad, sembrar la discordia entre los creyentes y dar refugio a quienes combaten a Dios y a Su Mensajero, desde hace tiempo juran que la construyeron para hacer un acto de beneficencia, pero Dios atestigua que mienten.[^1]
 
-una discordia entre los creyentes: En el año 9 de la Hégira, justo antes de la batalla de Tabuk, un grupo de 12 hipócritas construyeron la “mezquita de la discordia (Masyid Dirar)”. El propósito fue promover la discordia y desunir a los creyentes. Le pidieron al Profeta, que la paz y las bendiciones de Dios sean con él, que rezara en esa mezquita, pero respondió: “Estoy en un viaje (por la Batalla de Tabuk) y estoy muy ocupado; si hubiera llegado (allí), hubiéramos rezado”. Pero después que partió hacia Tabuk, estos versículos fueron revelados.
+[^1]: En el año 9 de la Hégira, justo antes de la batalla de Tabuk, un grupo de 12 hipócritas construyeron la “mezquita de la discordia (Masyid Dirar)”. El propósito fue promover la discordia y desunir a los creyentes. Le pidieron al Profeta, que la paz y las bendiciones de Dios sean con él, que rezara en esa mezquita, pero respondió: “Estoy en un viaje (por la Batalla de Tabuk) y estoy muy ocupado; si hubiera llegado (allí), hubiéramos rezado”. Pero después que partió hacia Tabuk, estos versículos fueron revelados.
 
 # 1343
 
-No ores [¡oh, Mujámmad!] en ella nunca, y sabe que una mezquita construida con piedad desde el primer día es más digna de que ores en ella, pues allí hay gente que desea purificarse, y Dios ama a quienes se purifican.
+No ores [¡oh, Mujámmad!] en ella nunca, y sabe que una mezquita construida con piedad desde el primer día[^1] es más digna de que ores en ella, pues allí hay gente que desea purificarse, y Dios ama a quienes se purifican.
 
-una mezquita construida con piedad desde el primer día: La mezquita de Quba’.
+[^1]: La mezquita de Quba’.
 
 # 1344
 
@@ -5898,9 +5944,9 @@ Dios ha comprado a los creyentes, a cambio del Paraíso, sus vidas y sus bienes 
 
 # 1348
 
-No corresponde que el Profeta ni los creyentes pidan perdón por los idólatras aunque se trate de sus parientes, una vez que se haga evidente que serán de la gente del Infierno.
+No corresponde que el Profeta ni los creyentes pidan perdón por los idólatras aunque se trate de sus parientes, una vez que se haga evidente que serán de la gente del Infierno.[^1]
 
-Se hace evidente que es una persona del Infierno cuando rechaza el mensaje y lucha contra él, muriendo en esa causa injusta.
+[^1]: Se hace evidente que es una persona del Infierno cuando rechaza el mensaje y lucha contra él, muriendo en esa causa injusta.
 
 # 1349
 
@@ -5944,9 +5990,9 @@ No deben salir a combatir todos los creyentes en una expedición. Que de cada re
 
 # 1359
 
-Cuando un capítulo [del Corán] es revelado, hay entre ellos quienes dicen: "¿A quién le aumenta su fe?" Mientras que a los verdaderos creyentes sí les aumenta la fe, y se alegran por eso.
+Cuando un capítulo [del Corán] es revelado, hay entre ellos[^1] quienes dicen: "¿A quién le aumenta su fe?" Mientras que a los verdaderos creyentes sí les aumenta la fe, y se alegran por eso.
 
-entre ellos: Los hipócritas.
+[^1]: Los hipócritas.
 
 # 1360
 
@@ -5970,9 +6016,9 @@ Se les ha presentado un Mensajero de entre ustedes mismos que se apena por sus a
 
 # 1365
 
-Álif. Lam. Ra’. Éstos son los versículos del Libro sabio.
+Álif. Lam. Ra’. Éstos son los versículos del Libro sabio.[^1]
 
-Que contiene la Ley Divina de Dios.
+[^1]: Que contiene la Ley Divina de Dios.
 
 # 1366
 
@@ -5984,9 +6030,9 @@ Su Señor es Dios. Creó los cielos y la Tierra en seis eras y luego se establec
 
 # 1368
 
-Ante Él deberán comparecer todos, pues la promesa de Dios es verdadera. Él es Quien origina la creación y luego la reproduce para retribuir con equidad a los creyentes que obraron rectamente. En cambio, los que se negaron a creer beberán agua hirviendo y recibirán un castigo doloroso por su incredulidad.
+Ante Él deberán comparecer todos, pues la promesa de Dios es verdadera. Él es Quien origina la creación y luego la reproduce[^1] para retribuir con equidad a los creyentes que obraron rectamente. En cambio, los que se negaron a creer beberán agua hirviendo y recibirán un castigo doloroso por su incredulidad.
 
-luego la reproduce: En el Día de la Resurrección.
+[^1]: En el Día de la Resurrección.
 
 # 1369
 
@@ -6034,9 +6080,9 @@ Cuando se les recitan Mis versículos, quienes no esperan comparecer ante Mí di
 
 # 1380
 
-Di [oh, Mujámmad]: "Si Dios no hubiera querido, yo no les habría recitado [el Corán] y no lo hubieran conocido jamás. Viví toda mi vida entre ustedes antes de la revelación. ¿Acaso no van a reflexionar?"
+Di [oh, Mujámmad]: "Si Dios no hubiera querido, yo no les habría recitado [el Corán] y no lo hubieran conocido jamás. Viví toda mi vida entre ustedes antes de la revelación. ¿Acaso no van a reflexionar?"[^1]
 
-Antes de que su misión comenzara, los árabes de su tribu le habían puesto a Mujámmad un sobrenombre: Al-Amín (el confiable), debido a su veracidad y sinceridad. Cuando al comenzar su misión profética Mujámmad les preguntó: “Si les dijera que detrás de este valle hay un ejército que piensa atacarlos, ¿me creerían?”, le contestaron: “Sí, jamás te hemos escuchado decir una mentira”. Esto evidencia que no tiene base alguna que lo acusen de mentiroso, siendo que saben, por su personalidad y comportamiento ejemplar durante años, que no iba a mentirles, así como sabían que Mujámmad no era un poeta ni había sido discípulo de ningún monje para copiar sus ideas.
+[^1]: Al-Amín (el confiable), debido a su veracidad y sinceridad. Cuando al comenzar su misión profética Mujámmad les preguntó: “Si les dijera que detrás de este valle hay un ejército que piensa atacarlos, ¿me creerían?”, le contestaron: “Sí, jamás te hemos escuchado decir una mentira”. Esto evidencia que no tiene base alguna que lo acusen de mentiroso, siendo que saben, por su personalidad y comportamiento ejemplar durante años, que no iba a mentirles, así como sabían que Mujámmad no era un poeta ni había sido discípulo de ningún monje para copiar sus ideas.
 
 # 1381
 
@@ -6048,22 +6094,23 @@ Adoran en vez de Dios lo que no puede perjudicarles ni beneficiarles, y dicen: "
 
 # 1383
 
-La humanidad conformaba una sola nación, pero luego discreparon y se dividieron. Si no fuera por el designio de tu Señor, ya habrían sido juzgados.
+La humanidad conformaba una sola nación[^1], pero luego discreparon y se dividieron[^2]. Si no fuera por el designio de tu Señor, ya habrían sido juzgados.
 
-una sola nación: Todos eran monoteístas. 
-se dividieron: En sectas y religiones.
+[^1]: Todos eran monoteístas.
+
+[^2]: En sectas y religiones.
 
 # 1384
 
-Dicen: "¿Por qué no se le ha concedido [a Mujámmad] un milagro de su Señor?" Respóndeles: "El conocimiento de lo oculto pertenece solo a Dios. Esperen, que yo también esperaré".
+Dicen: "¿Por qué no se le ha concedido [a Mujámmad] un milagro de su Señor?" Respóndeles: "El conocimiento de lo oculto pertenece solo a Dios. Esperen[^1], que yo también esperaré".
 
-Esperen: A que se manifieste la verdad a través de un signo o un milagro de Dios.
+[^1]: A que se manifieste la verdad a través de un signo o un milagro de Dios.
 
 # 1385
 
-Cuando agracio a la gente con una misericordia después de haber padecido alguna adversidad, no agradecen Mi favor. Diles: "Dios les retribuirá por todo lo que hagan". Mis emisarios registran todo cuanto hacen.
+Cuando agracio a la gente con una misericordia después de haber padecido alguna adversidad, no agradecen Mi favor. Diles: "Dios les retribuirá por todo lo que hagan". Mis emisarios[^1] registran todo cuanto hacen.
 
-Mis emisarios: Los ángeles encargados de registrar las obras.
+[^1]: Los ángeles encargados de registrar las obras.
 
 # 1386
 
@@ -6079,16 +6126,17 @@ La vida mundanal es como el agua que hago descender del cielo con la que se rieg
 
 # 1389
 
-Dios convoca a la morada de la paz y guía a quien quiere por el sendero recto.
+Dios convoca a la morada de la paz[^1] y guía a quien quiere por el sendero recto.
 
-la morada de la paz: Uno de los nombres del Paraíso.
+[^1]: Uno de los nombres del Paraíso.
 
 # 1390
 
-Quienes obren el bien obtendrán la mejor recompensa y una gracia aún mayor. Sus rostros no serán ensombrecidos ni sentirán humillación. Ellos serán los moradores del Paraíso en el que vivirán eternamente.
+Quienes obren el bien obtendrán la mejor recompensa[^1] y una gracia aún mayor[^2]. Sus rostros no serán ensombrecidos ni sentirán humillación. Ellos serán los moradores del Paraíso en el que vivirán eternamente.
 
-la mejor recompensa: Otro de los nombres del Paraíso. 
-una gracia aún mayor: La contemplación de Dios.
+[^1]: Otro de los nombres del Paraíso.
+
+[^2]: La contemplación de Dios.
 
 # 1391
 
@@ -6132,15 +6180,15 @@ Pero la mayoría de ellos no sigue sino conjeturas. Las conjeturas no son un arg
 
 # 1401
 
-El Corán no puede provenir sino de Dios. Confirma las revelaciones anteriores y explica detalladamente Sus preceptos, no hay duda alguna que proviene del Señor del universo.
+El Corán no puede provenir sino de Dios. Confirma las revelaciones anteriores[^1] y explica detalladamente Sus preceptos, no hay duda alguna que proviene del Señor del universo.
 
-Confirma las revelaciones anteriores: Confirma lo que permanece en ellas de la revelación divina original, y expone lo que ha sido agregado o quitado por el ser humano.
+[^1]: Confirma lo que permanece en ellas de la revelación divina original, y expone lo que ha sido agregado o quitado por el ser humano.
 
 # 1402
 
-Dicen: "[Mujámmad] lo ha inventado". Diles: "Entonces produzcan un capítulo similar [a un capítulo del Corán]. Recurran para ello a quienes quieran fuera de Dios, si es que dicen la verdad".
+Dicen[^1]: "[Mujámmad] lo ha inventado". Diles: "Entonces produzcan un capítulo similar [a un capítulo del Corán]. Recurran para ello a quienes quieran fuera de Dios, si es que dicen la verdad".
 
-Dicen: Los que se niegan a creer.
+[^1]: Los que se niegan a creer.
 
 # 1403
 
@@ -6168,9 +6216,9 @@ Dios no oprime a las personas en absolutamente nada, sino que son las personas l
 
 # 1409
 
-El día que los congregue, les parecerá no haber permanecido más que una hora. Se reconocerán entre ellos. Quienes desmintieron el encuentro con Dios habrán perdido, porque no seguían la guía.
+El día que los congregue, les parecerá no haber permanecido[^1] más que una hora. Se reconocerán entre ellos. Quienes desmintieron el encuentro con Dios habrán perdido, porque no seguían la guía.
 
-no haber permanecido: En este mundo.
+[^1]: En este mundo.
 
 # 1410
 
@@ -6178,9 +6226,9 @@ Ya sea que te permita presenciar el castigo con el que los amenazo o que te haga
 
 # 1411
 
-A cada comunidad envié un Mensajero. Cada vez que lo desmintieron los destruí, salvando al Mensajero y a los creyentes, pero nadie fue castigado injustamente.
+A cada comunidad envié un Mensajero[^1]. Cada vez que lo desmintieron los destruí, salvando al Mensajero y a los creyentes, pero nadie fue castigado injustamente.
 
-envié un Mensajero: Este versículo evidencia el carácter universal de la revelación de Dios que no se limita a los Profetas y Mensajeros que son mencionados en la Biblia, sino que Dios envió a cada pueblo y nación un Profeta que hablara su propio idioma y comprendiese su idiosincrasia, para transmitirles el mensaje del monoteísmo.
+[^1]: Este versículo evidencia el carácter universal de la revelación de Dios que no se limita a los Profetas y Mensajeros que son mencionados en la Biblia, sino que Dios envió a cada pueblo y nación un Profeta que hablara su propio idioma y comprendiese su idiosincrasia, para transmitirles el mensaje del monoteísmo.
 
 # 1412
 
@@ -6228,9 +6276,9 @@ Diles: "Que se alegren por esta gracia y misericordia de Dios. Eso es superior a
 
 # 1423
 
-Diles: "Dios les ha provisto de sustento, pero consideraron lícita una parte y prohibida otra parte. Díganme: ¿Acaso Dios les dio esa orden, o están atribuyendo a Dios lo que a ustedes les parece?"
+Diles[^1]: "Dios les ha provisto de sustento, pero consideraron lícita una parte y prohibida otra parte. Díganme: ¿Acaso Dios les dio esa orden, o están atribuyendo a Dios lo que a ustedes les parece?"
 
-Diles: A los idólatras.
+[^1]: A los idólatras.
 
 # 1424
 
@@ -6238,17 +6286,19 @@ Diles: A los idólatras.
 
 # 1425
 
-No hay situación en la que se encuentren, no hay pasaje del Corán que reciten ni otra obra que realicen, sin que Yo sea testigo de lo que hacen. A tu Señor no se Le escapa nada en la Tierra ni en el cielo, ni siquiera algo del peso de un átomo. No existe nada menor o mayor a eso que no esté registrado en un Libro claro.
+No hay situación en la que se encuentren, no hay pasaje del Corán que reciten ni otra obra que realicen, sin que Yo sea testigo de lo que hacen. A tu Señor no se Le escapa nada en la Tierra ni en el cielo, ni siquiera algo del peso de un átomo. No existe nada menor[^1] o mayor a eso que no esté registrado en un Libro claro[^2].
 
-No existe nada menor: Hasta mediados del siglo XX se creía que las partículas más pequeñas eran los protones y los neutrones que componen el átomo. Más recientemente, sin embargo, partículas aún más pequeñas, de las cuales estas mismas consisten, fueron descubiertas. Una rama especializada de la física, llamada “física de partículas”, desarrolló el estudio de estas “subpartículas” y su comportamiento. Esta investigación ha revelado que los protones y los neutrones que forman los átomos en realidad están conformados por subpartículas llamadas quarks. El tamaño de estos quarks es sorprendente: 1e-18 (0.000000000000000001 de un metro). Otro punto digno de destacar es que estos versículos llaman la atención sobre el peso del átomo. La palabra mizqal مِثْقَال en la expresión traducida como “peso de un átomo” en los versículos anteriores, significa que tienen peso. De hecho, se ha descubierto que los protones, neutrones y electrones que forman los átomos también son compuestos por otros elementos que dan al átomo su peso. Por lo tanto, la afirmación de que el átomo tiene un peso, es otro milagro científico del Corán. 
- Libro claro: La Tabla Protegida.
+[^1]: Hasta mediados del siglo XX se creía que las partículas más pequeñas eran los protones y los neutrones que componen el átomo. Más recientemente, sin embargo, partículas aún más pequeñas, de las cuales estas mismas consisten, fueron descubiertas. Una rama especializada de la física, llamada “física de partículas”, desarrolló el estudio de estas “subpartículas” y su comportamiento. Esta investigación ha revelado que los protones y los neutrones que forman los átomos en realidad están conformados por subpartículas llamadas quarks. El tamaño de estos quarks es sorprendente: 1e-18 (0.000000000000000001 de un metro). Otro punto digno de destacar es que estos versículos llaman la atención sobre el peso del átomo. La palabra mizqal مِثْقَال en la expresión traducida como “peso de un átomo” en los versículos anteriores, significa que tienen peso. De hecho, se ha descubierto que los protones, neutrones y electrones que forman los átomos también son compuestos por otros elementos que dan al átomo su peso. Por lo tanto, la afirmación de que el átomo tiene un peso, es otro milagro científico del Corán.
+
+[^2]: La Tabla Protegida.
 
 # 1426
 
-Los amigos cercanos de Dios no han de temer ni estarán tristes,
+Los amigos cercanos de Dios[^1] no han de temer ni estarán tristes[^2],
 
-Los amigos cercanos de Dios: Los amigos cercanos de Dios son aquellos que creen en Su unicidad, Le adoran solo a Él, cumplen con sus obligaciones y se alejan de las prohibiciones. Ver Corán 2:257. 
-ni estarán tristes: En el Día del Juicio Final.
+[^1]: Los amigos cercanos de Dios son aquellos que creen en Su unicidad, Le adoran solo a Él, cumplen con sus obligaciones y se alejan de las prohibiciones. Ver Corán 2:257.
+
+[^2]: En el Día del Juicio Final.
 
 # 1427
 
@@ -6260,9 +6310,9 @@ Ellos recibirán la albricia en esta vida y en la otra. La promesa de Dios es in
 
 # 1429
 
-No te apenes por lo que dicen. El triunfo será de Dios, Él todo lo oye, todo lo sabe.
+No te apenes por lo que dicen[^1]. El triunfo será de Dios, Él todo lo oye, todo lo sabe.
 
-por lo que dicen: Los idólatras que rechazan tu mensaje.
+[^1]: Los idólatras que rechazan tu mensaje.
 
 # 1430
 
@@ -6270,9 +6320,9 @@ A Dios pertenece todo cuanto hay en los cielos y en la Tierra. ¿Y qué siguen, 
 
 # 1431
 
-Él es Quien ha hecho la noche para que descansen y el día para que vean. En ello hay signos para quienes reflexionan.
+Él es Quien ha hecho la noche para que descansen y el día para que vean[^1]. En ello hay signos para quienes reflexionan.
 
-para que vean: Y puedan trabajar y realizar sus actividades.
+[^1]: Y puedan trabajar y realizar sus actividades.
 
 # 1432
 
@@ -6292,16 +6342,17 @@ Relátales la historia de Noé, cuando dijo a su gente: "¡Oh, pueblo mío! Si l
 
 # 1436
 
-Pero si lo rechazan sepan que no les pido ningún pago, solo de Dios espero recompensa. Me ha sido ordenado que me cuente entre quienes se entregan a Él.
+Pero si lo rechazan[^1] sepan que no les pido ningún pago, solo de Dios espero recompensa. Me ha sido ordenado que me cuente entre quienes se entregan a Él.
 
-si lo rechazan: Al mensaje que les transmito.
+[^1]: Al mensaje que les transmito.
 
 # 1437
 
-Pero lo desmintieron, entonces lo salvé junto a sus seguidores que abordaron el arca, e hice que fueran los sucesores. Ahogué a quienes desmintieron Mi mensaje. Observa el resultado de quienes fueron advertidos.
+Pero lo desmintieron, entonces lo salvé junto a sus seguidores que abordaron el arca, e hice que fueran los sucesores[^1]. Ahogué a quienes desmintieron Mi mensaje. Observa el resultado de quienes fueron advertidos[^2].
 
-los sucesores: Que heredaron la tierra que había sido azotada por el diluvio. 
-fueron advertidos: Pero no creyeron.
+[^1]: Que heredaron la tierra que había sido azotada por el diluvio.
+
+[^2]: Pero no creyeron.
 
 # 1438
 
@@ -6321,9 +6372,9 @@ Moisés dijo: "¿Esto es lo que dicen cuando les llega la Verdad? ¿Qué es hech
 
 # 1442
 
-Dijeron: "¿Han venido para alejarnos de la religión de nuestros padres, y así ser ustedes dos quienes tengan el dominio en la tierra? Nosotros no les creeremos".
+Dijeron: "¿Han venido[^1] para alejarnos de la religión de nuestros padres, y así ser ustedes dos quienes tengan el dominio en la tierra? Nosotros no les creeremos".
 
-Han venido: Dirigiéndose a Moisés y Aarón.
+[^1]: Dirigiéndose a Moisés y Aarón.
 
 # 1443
 
@@ -6403,9 +6454,9 @@ aunque les llegara todo tipo de evidencia, hasta que finalmente les llegue el ca
 
 # 1462
 
-No hubo pueblo que al momento de azotarles el castigo, les haya beneficiado creer en ese instante, excepto el pueblo de Jonás. Cuando creyeron los salvé del castigo humillante en esta vida y los dejé disfrutar algún tiempo más.
+No hubo pueblo que al momento de azotarles el castigo, les haya beneficiado creer en ese instante, excepto el pueblo de Jonás[^1]. Cuando creyeron los salvé del castigo humillante en esta vida y los dejé disfrutar algún tiempo más.
 
-el pueblo de Jonás: El pueblo de Jonás, la paz sea con él, al ver el castigo inminente de Dios, se arrepintió sinceramente y creyó en el mensaje que les transmitía su Profeta.
+[^1]: El pueblo de Jonás, la paz sea con él, al ver el castigo inminente de Dios, se arrepintió sinceramente y creyó en el mensaje que les transmitía su Profeta.
 
 # 1463
 
@@ -6417,15 +6468,15 @@ Nadie podrá creer a menos que Dios se lo permita, y Él dejará en el extravío
 
 # 1465
 
-Diles: "Reflexionen en todo cuanto hay en los cielos y en la Tierra", pero no se benefician de los signos ni de las advertencias aquellos que se niegan a creer.
+Diles: "Reflexionen en todo cuanto hay en los cielos y en la Tierra[^1]", pero no se benefician de los signos ni de las advertencias aquellos que se niegan a creer.
 
-los cielos y en la Tierra: El Corán insta a los seres humanos a que observen y reflexionen acerca de las señales que indican la existencia de Dios en el universo –la Tierra, los cielos, todo lo que entre ellos existe– y ha hecho de esta observación y reflexión un recuerdo que vivifica los corazones de los creyentes. Es interesante la manera en que algunas personas contemporáneas llamaron a este método: “La ley de caminar y observar”, ya que frecuentemente el Corán invita al hombre a viajar por el mundo y observar, aprendiendo de la experiencia. Esta invitación bien puede comprenderse en un sentido literal, o puede significar el pensamiento y la reflexión.
+[^1]: El Corán insta a los seres humanos a que observen y reflexionen acerca de las señales que indican la existencia de Dios en el universo –la Tierra, los cielos, todo lo que entre ellos existe– y ha hecho de esta observación y reflexión un recuerdo que vivifica los corazones de los creyentes. Es interesante la manera en que algunas personas contemporáneas llamaron a este método: “La ley de caminar y observar”, ya que frecuentemente el Corán invita al hombre a viajar por el mundo y observar, aprendiendo de la experiencia. Esta invitación bien puede comprenderse en un sentido literal, o puede significar el pensamiento y la reflexión.
 
 # 1466
 
-¿Acaso esperan que lleguen días como los que cayeron sobre los pueblos que les precedieron? Diles: "Esperen, que yo también estaré con ustedes esperando.
+¿Acaso esperan que lleguen días como los que cayeron sobre los pueblos que les precedieron? Diles: "Esperen, que yo también estaré con ustedes esperando[^1].
 
-esperando: A que se cumpla la promesa de Dios.
+[^1]: A que se cumpla la promesa de Dios.
 
 # 1467
 
@@ -6453,9 +6504,9 @@ Di: "¡Oh, gente! Les ha llegado la Verdad de su Señor. Quien siga la guía lo 
 
 # 1473
 
-[¡Oh, Mujámmad!] Aférrate a lo que te ha sido revelado y sé paciente hasta que Dios juzgue. Él es el mejor de los jueces.
+[¡Oh, Mujámmad!] Aférrate a lo que te ha sido revelado y sé paciente[^1] hasta que Dios juzgue. Él es el mejor de los jueces.
 
-sé paciente: Ante las adversidades en la divulgación de tu mensaje.
+[^1]: Ante las adversidades en la divulgación de tu mensaje.
 
 # 1474
 
@@ -6463,16 +6514,17 @@ sé paciente: Ante las adversidades en la divulgación de tu mensaje.
 
 # 1475
 
-[Diles, ¡oh, Mujámmad!:] "No adoren sino a Dios, yo he sido enviado a ustedes como amonestador y albriciador.
+[Diles, ¡oh, Mujámmad!:] "No adoren sino a Dios, yo he sido enviado a ustedes como amonestador[^1] y albriciador[^2].
 
-amonestador: Para condenar la idolatría y las injusticias. 
-albriciador: De la recompensa que han de recibir los monoteístas que hagan el bien.
+[^1]: Para condenar la idolatría y las injusticias.
+
+[^2]: De la recompensa que han de recibir los monoteístas que hagan el bien.
 
 # 1476
 
-Supliquen perdón a su Señor y arrepiéntanse ante Él, pues así les concederá de Sus gracias hasta un plazo determinado, y recompensará a todo aquel que haga el bien. Temo que si rechazan [el Mensaje] los alcance el castigo de un día terrible.
+Supliquen perdón a su Señor y arrepiéntanse ante Él, pues así les concederá de Sus gracias hasta un plazo determinado, y recompensará a todo aquel que haga el bien. Temo que si rechazan [el Mensaje] los alcance el castigo de un día terrible[^1].
 
-un día terrible: El Día del Juicio Final.
+[^1]: El Día del Juicio Final.
 
 # 1477
 
@@ -6484,9 +6536,9 @@ Ellos [los hipócritas] pretenden disimular su aversión y creen poder esconders
 
 # 1479
 
-No existe criatura en la Tierra sin que sea Dios Quien la sustenta, Él conoce su morada y por donde transita; todo está registrado en un Libro evidente.
+No existe criatura en la Tierra sin que sea Dios Quien la sustenta, Él conoce su morada y por donde transita; todo está registrado en un Libro evidente[^1].
 
-Libro evidente: La Tabla Protegida.
+[^1]: La Tabla Protegida.
 
 # 1480
 
@@ -6514,9 +6566,9 @@ No se comportan así quienes fueron pacientes [ante las adversidades] y obraron 
 
 # 1486
 
-O cuando dicen: "Él lo inventó". Diles: "[Si es verdad que un ser humano puede escribir algo tan maravilloso] escriban ustedes diez suras inventadas como ésta y preséntenlas, y convoquen a quienes puedan [para que los auxilien] en vez de Dios, si es que dicen la verdad".
+O cuando dicen: "Él lo inventó[^1]". Diles: "[Si es verdad que un ser humano puede escribir algo tan maravilloso] escriban ustedes diez suras inventadas como ésta y preséntenlas, y convoquen a quienes puedan [para que los auxilien] en vez de Dios, si es que dicen la verdad".
 
-lo inventó: Al Sagrado Corán.
+[^1]: Al Sagrado Corán.
 
 # 1487
 
@@ -6524,9 +6576,9 @@ Pero si no les responden [el desafío], sepan que [el Corán] ha sido revelado c
 
 # 1488
 
-A quienes prefieran la vida mundanal y sus placeres los recompensaré por sus obras en esta vida, se los concederé y no serán defraudados.
+A quienes prefieran la vida mundanal y sus placeres los recompensaré por sus obras en esta vida[^1], se los concederé y no serán defraudados.
 
-en esta vida: A quien le dé prioridad a los gozos de este mundo sobre su deseo de obrar el bien para obtener la recompensa de Dios en el más allá, Dios ha de recompensarlo por sus buenas acciones en este mundo, porque Él es justo y no deja ninguna buena acción por recompensar.
+[^1]: A quien le dé prioridad a los gozos de este mundo sobre su deseo de obrar el bien para obtener la recompensa de Dios en el más allá, Dios ha de recompensarlo por sus buenas acciones en este mundo, porque Él es justo y no deja ninguna buena acción por recompensar.
 
 # 1489
 
@@ -6534,10 +6586,11 @@ Pero no obtendrán en la otra vida sino el castigo del Infierno. Allí, lo que h
 
 # 1490
 
-¿Acaso quien cree en el Corán y se basa en una prueba que proviene de Su Señor, que es recitada por un testigo de Dios, y que antes se encontraba mencionada en el Libro de Moisés [la Tora] que fue una guía y una misericordia, es comparable con aquellos aliados que no creen en el Corán? Ellos tendrán por morada el Infierno. No tengas dudas [de ello]. [El Corán] es la Verdad que dimana de tu Señor, aunque la mayoría de las personas no crean.
+¿Acaso quien cree en el Corán y se basa en una prueba que proviene de Su Señor, que es recitada por un testigo de Dios[^1], y que antes se encontraba mencionada en el Libro de Moisés [la Tora] que fue una guía y una misericordia, es comparable con aquellos aliados[^2] que no creen en el Corán? Ellos tendrán por morada el Infierno. No tengas dudas [de ello]. [El Corán] es la Verdad que dimana de tu Señor, aunque la mayoría de las personas no crean.
 
-testigo de Dios: El Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él.
-aliados: El término “aliados” hace referencia a aquellos que se habían unido en la causa común de desmentir, perseguir e intentar exterminar a los musulmanes.
+[^1]: El Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él.
+
+[^2]: El término “aliados” hace referencia a aquellos que se habían unido en la causa común de desmentir, perseguir e intentar exterminar a los musulmanes.
 
 # 1491
 
@@ -6581,16 +6634,17 @@ Los líderes de los que se negaron a creer de su pueblo, dijeron: "No eres más 
 
 # 1501
 
-Dijo [Noé]: "¡Oh, pueblo mío! Me he presentado ante ustedes con una prueba evidente de mi Señor, Quien me ha agraciado con Su misericordia, a la que ustedes se mantienen ciegos. ¿Acaso creen que vamos a imponerles aceptar [el Mensaje] cuando no están de acuerdo?
+Dijo [Noé]: "¡Oh, pueblo mío! Me he presentado ante ustedes con una prueba evidente de mi Señor, Quien me ha agraciado con Su misericordia[^1], a la que ustedes se mantienen ciegos. ¿Acaso creen que vamos a imponerles aceptar [el Mensaje] cuando no están de acuerdo?
 
-Su misericordia: La profecía y el Mensaje.
+[^1]: La profecía y el Mensaje.
 
 # 1502
 
-¡Oh, pueblo mío! No les pido retribución alguna a cambio [de transmitirles el Mensaje], pues Dios será Quien me recompensará, y no voy a rechazar a los creyentes [pobres como me piden], porque ellos se encontrarán con su Señor [Quien los recompensará por su fe]; y veo que son ustedes un pueblo que se comporta como los ignorantes.
+¡Oh, pueblo mío! No les pido retribución alguna a cambio [de transmitirles el Mensaje][^1], pues Dios será Quien me recompensará, y no voy a rechazar a los creyentes [pobres como me piden], porque ellos se encontrarán con su Señor [Quien los recompensará por su fe]; y veo que son ustedes un pueblo que se comporta como los ignorantes[^2].
 
-[de transmitirles el Mensaje]: Una señal de la veracidad de los Mensajeros, que puede verse al leer sus biografías, es que ellos eran ascetas respecto a los lujos transitorios de este mundo. Jamás solicitaron recompensa alguna a las personas por guiarlas al camino recto. Hicieron el bien sin esperar premio ni agradecimiento de la gente. 
-un pueblo que se comporta como los ignorantes: El Corán en este versículo condena la discriminación de las clases bajas, los pobres y los marginados sociales, así como condena que la religión se vuelva un asunto manejado por una élite que solo conforman los poderosos y adinerados.
+[^1]: Una señal de la veracidad de los Mensajeros, que puede verse al leer sus biografías, es que ellos eran ascetas respecto a los lujos transitorios de este mundo. Jamás solicitaron recompensa alguna a las personas por guiarlas al camino recto. Hicieron el bien sin esperar premio ni agradecimiento de la gente.
+
+[^2]: El Corán en este versículo condena la discriminación de las clases bajas, los pobres y los marginados sociales, así como condena que la religión se vuelva un asunto manejado por una élite que solo conforman los poderosos y adinerados.
 
 # 1503
 
@@ -6614,9 +6668,9 @@ Y aunque los quiera beneficiar con mi exhortación, tampoco les servirá de nada
 
 # 1508
 
-Dicen [los idólatras de La Meca]: "Él lo inventó". Diles [¡Oh, Mujámmad!]: "Si yo lo hubiera inventado, sobre mí recaerían las consecuencias de mi delito, y soy inocente del delito [de incredulidad] que ustedes cometen".
+Dicen [los idólatras de La Meca]: "Él lo inventó[^1]". Diles [¡Oh, Mujámmad!]: "Si yo lo hubiera inventado, sobre mí recaerían las consecuencias de mi delito, y soy inocente del delito [de incredulidad] que ustedes cometen".
 
-lo inventó: Al Sagrado Corán.
+[^1]: Al Sagrado Corán.
 
 # 1509
 
@@ -6660,9 +6714,9 @@ Noé invocó a su Señor diciendo: "¡Oh, Señor mío! Mi hijo era parte de mi f
 
 # 1519
 
-Dijo [Dios a Noé]: "¡Oh, Noé! Él no era de [los que se salvarían de] tu familia, pues sus obras no eran rectas; no Me cuestiones respecto aquello sobre lo que no tienes conocimiento. Te advierto para que no te cuentes entre los ignorantes".
+Dijo [Dios a Noé]: "¡Oh, Noé! Él no era de [los que se salvarían de] tu familia, pues sus obras no eran rectas[^1]; no Me cuestiones respecto aquello sobre lo que no tienes conocimiento. Te advierto para que no te cuentes entre los ignorantes".
 
-sus obras no eran rectas: Conservó sus creencias idólatras y no aceptó a su padre como Profeta de Dios.
+[^1]: Conservó sus creencias idólatras y no aceptó a su padre como Profeta de Dios.
 
 # 1520
 
@@ -6726,21 +6780,21 @@ Y al pueblo de Zamud le envié [como Profeta] a su hermano Sálih, quien les dij
 
 # 1535
 
-Dijeron: "¡Oh, Sálih! Teníamos esperanzas en ti [que fueras nuestro líder] antes de esto. ¿Acaso nos prohíbes que adoremos lo que adoraron nuestros padres? Eso a lo que nos invitas nos resulta muy sospechoso".
+Dijeron: "¡Oh, Sálih! Teníamos esperanzas en ti [que fueras nuestro líder] antes de esto[^1]. ¿Acaso nos prohíbes que adoremos lo que adoraron nuestros padres? Eso a lo que nos invitas nos resulta muy sospechoso".
 
-antes de esto: Que se hubiera proclamado Profeta y los invitara a abandonar la idolatría.
+[^1]: Que se hubiera proclamado Profeta y los invitara a abandonar la idolatría.
 
 # 1536
 
-Dijo [Sálih]: "¡Oh, pueblo mío! ¿Acaso no ven que poseo una prueba evidente de mi Señor y que me ha concedido una misericordia? ¿Quién me protegerá de Dios si Lo desobedezco? Lo que me ofrecen no es más que perdición para mí.
+Dijo [Sálih]: "¡Oh, pueblo mío! ¿Acaso no ven que poseo una prueba evidente de mi Señor y que me ha concedido una misericordia[^1]? ¿Quién me protegerá de Dios si Lo desobedezco? Lo que me ofrecen no es más que perdición para mí.
 
-una misericordia: La profecía.
+[^1]: La profecía.
 
 # 1537
 
-¡Oh, pueblo mío! Esta es la camella de Dios, y es para ustedes un signo [del poder divino], déjenla que paste en la tierra de Dios y no le hagan ningún daño, pues de lo contrario los azotará un castigo ineludible".
+¡Oh, pueblo mío! Esta es la camella de Dios[^1], y es para ustedes un signo [del poder divino], déjenla que paste en la tierra de Dios y no le hagan ningún daño, pues de lo contrario los azotará un castigo ineludible".
 
-la camella de Dios: Dios la hizo surgir milagrosamente de entre las rocas.
+[^1]: Dios la hizo surgir milagrosamente de entre las rocas.
 
 # 1538
 
@@ -6760,21 +6814,21 @@ como si nunca hubieran habitado en ellas. ¿Acaso los habitantes de Zamud no neg
 
 # 1542
 
-Mis [ángeles] enviados se presentaron ante Abraham para darle una albricia. Dijeron: "¡La paz sea contigo!" Respondió [Abraham]: "¡Y con ustedes!" Y no tardó en traerles un ternero asado.
+Mis [ángeles] enviados se presentaron ante Abraham para darle una albricia[^1]. Dijeron: "¡La paz sea contigo!" Respondió [Abraham]: "¡Y con ustedes!" Y no tardó en traerles un ternero asado.
 
-una albricia: Le informaron sobre el pronto nacimiento de su hijo Isaac, y que la destrucción de Dios caería sobre el pueblo de Lot.
+[^1]: Le informaron sobre el pronto nacimiento de su hijo Isaac, y que la destrucción de Dios caería sobre el pueblo de Lot.
 
 # 1543
 
-Pero cuando observó que sus manos no lo tocaban [al ternero] sospechó de ellos y sintió temor, entonces le dijeron: "No temas, nosotros fuimos enviados al pueblo de Lot".
+Pero cuando observó que sus manos no lo tocaban [al ternero] sospechó de ellos[^1] y sintió temor, entonces le dijeron: "No temas, nosotros fuimos enviados al pueblo de Lot".
 
-sospechó de ellos: Que no eran seres humanos, porque no comían.
+[^1]: Que no eran seres humanos, porque no comían.
 
 # 1544
 
-Su mujer, que estaba de pie, se sonrió [sorprendida por la noticia], y le albricié con Isaac y que Isaac tendría como hijo a Jacob.
+Su mujer[^1], que estaba de pie, se sonrió [sorprendida por la noticia], y le albricié con Isaac y que Isaac tendría como hijo a Jacob.
 
-Su mujer: La esposa de Abraham.
+[^1]: La esposa de Abraham.
 
 # 1545
 
@@ -6798,16 +6852,17 @@ Abraham era indulgente, lleno de compasión y siempre pedía perdón.
 
 # 1550
 
-Y cuando Mis emisarios se presentaron ante Lot, éste [pensando que eran viajeros] se preocupó [por lo que su pueblo pudiere hacerles] y se sintió impotente para protegerlos; exclamó: "¡Éste es un día terrible!"
+Y cuando Mis emisarios[^1] se presentaron ante Lot, éste [pensando que eran viajeros] se preocupó [por lo que su pueblo pudiere hacerles] y se sintió impotente para protegerlos[^2]; exclamó: "¡Éste es un día terrible!"
 
-Mis emisarios:Los ángeles que anteriormente habían visitado a Abraham. 
-para protegerlos:Lot sintió impotencia para proteger a sus huéspedes de la gente de Sodoma, cuyas notorias inclinaciones homosexuales han dado origen al término “sodomía”. Dado que Lot creía que sus visitantes eran tan solo unos jóvenes, estaba seguro de que serían agredidos sexualmente por los depravados habitantes de la ciudad.
+[^1]: Los ángeles que anteriormente habían visitado a Abraham.
+
+[^2]: Lot sintió impotencia para proteger a sus huéspedes de la gente de Sodoma, cuyas notorias inclinaciones homosexuales han dado origen al término “sodomía”. Dado que Lot creía que sus visitantes eran tan solo unos jóvenes, estaba seguro de que serían agredidos sexualmente por los depravados habitantes de la ciudad.
 
 # 1551
 
-La gente de su pueblo, que ya eran conocidos por sus obscenidades, se presentaron presurosamente ante él, y éste les dijo: "¡Oh, pueblo mío! Aquí están mis hijas [si desean casarse], porque eso es lo lícito y puro para ustedes. Tengan temor de Dios y no me avergüencen ante mis huéspedes. ¿Es que no hay entre ustedes ni un solo hombre recto?"
+La gente de su pueblo, que ya eran conocidos por sus obscenidades, se presentaron presurosamente ante él, y éste les dijo: "¡Oh, pueblo mío! Aquí están mis hijas[^1] [si desean casarse], porque eso es lo lícito y puro para ustedes. Tengan temor de Dios y no me avergüencen ante mis huéspedes. ¿Es que no hay entre ustedes ni un solo hombre recto?"
 
-mis hijas: Las palabras de Lot pueden referirse a sus propias hijas o a las mujeres en general, pero su implicancia más profunda apunta a la relación natural entre hombre y mujer, en contraste con la desviación sexual de los hombres de Sodoma.
+[^1]: Las palabras de Lot pueden referirse a sus propias hijas o a las mujeres en general, pero su implicancia más profunda apunta a la relación natural entre hombre y mujer, en contraste con la desviación sexual de los hombres de Sodoma.
 
 # 1552
 
@@ -6823,9 +6878,9 @@ Dijeron [los ángeles]: "¡Oh, Lot! Somos emisarios de tu Señor, y sabe que no 
 
 # 1555
 
-Cuando llegó Mi designio, volteé [sus hogares] dejando arriba sus cimientos, e hice llover sobre ellos piedras de arcilla a montones,
+Cuando llegó Mi designio, volteé [sus hogares] dejando arriba sus cimientos[^1], e hice llover sobre ellos piedras de arcilla a montones,
 
-sus cimientos: Las construcciones fueron elevadas, volteadas y posteriormente dejadas caer al revés.
+[^1]: Las construcciones fueron elevadas, volteadas y posteriormente dejadas caer al revés.
 
 # 1556
 
@@ -6833,9 +6888,9 @@ marcadas por tu Señor. Sepan [¡oh, idólatras!] que este castigo no está lejo
 
 # 1557
 
-Al pueblo de Madián le envié [como Profeta] a su hermano Jetró, quien les dijo: "¡Oh, pueblo mío! Adoren a Dios, pues no existe otra divinidad salvo Él, y no mermen en la medida ni el peso. Los veo hoy en la prosperidad, pero temo que los azote el castigo de un día ineludible.
+Al pueblo de Madián le envié [como Profeta] a su hermano Jetró, quien les dijo: "¡Oh, pueblo mío! Adoren a Dios, pues no existe otra divinidad salvo Él, y no mermen en la medida ni el peso[^1]. Los veo hoy en la prosperidad, pero temo que los azote el castigo de un día ineludible.
 
-no mermen en la medida ni el peso: Ese pueblo era conocido por el fraude en sus transacciones.
+[^1]: Ese pueblo era conocido por el fraude en sus transacciones.
 
 # 1558
 
@@ -6847,9 +6902,9 @@ Confórmense con lo que Dios los sustenta, pues ello es lo mejor para ustedes, s
 
 # 1560
 
-Le respondieron: "¡Oh, Jetró! ¿Es tu [forma de] adoración la que te ordena que dejemos aquello que adoraban nuestros padres, y dejemos de hacer con nuestros bienes lo que queramos? ¿En serio te crees afable y honrado?"
+Le respondieron: "¡Oh, Jetró! ¿Es tu [forma de] adoración la que te ordena que dejemos aquello que adoraban nuestros padres, y dejemos de hacer con nuestros bienes lo que queramos? ¿En serio te crees afable y honrado?"[^1]
 
-Esta última frase irónica demuestra que, como muchos en la actualidad, consideraban que la religión no tiene nada que decir sobre la ética en el comercio y la administración de los bienes en beneficio de los pobres y los necesitados.
+[^1]: Esta última frase irónica demuestra que, como muchos en la actualidad, consideraban que la religión no tiene nada que decir sobre la ética en el comercio y la administración de los bienes en beneficio de los pobres y los necesitados.
 
 # 1561
 
@@ -6941,9 +6996,9 @@ No tengas ninguna duda sobre lo que [los idólatras] adoran, pues lo que adoran 
 
 # 1583
 
-Concedí a Moisés el Libro, pero se opusieron a él, y de no ser porque tu Señor había decretado [retrasar el castigo hasta el Día del Juicio] ya los habría aniquilado. Ellos [los judíos] también dudan acerca del Corán.
+Concedí a Moisés el Libro[^1], pero se opusieron a él, y de no ser porque tu Señor había decretado [retrasar el castigo hasta el Día del Juicio] ya los habría aniquilado. Ellos [los judíos] también dudan acerca del Corán.
 
-el Libro: La Tora.
+[^1]: La Tora.
 
 # 1584
 
@@ -6955,9 +7010,9 @@ Mantente firme [¡oh, Mujámmad!, en el sendero recto] como se te ha ordenado, y
 
 # 1586
 
-No se inclinen hacia los opresores [aceptando su injusticia], porque [si lo hacen] los alcanzará el Fuego, y no tendrán protector fuera de Dios ni serán socorridos.
+No se inclinen hacia los opresores[^1] [aceptando su injusticia], porque [si lo hacen] los alcanzará el Fuego, y no tendrán protector fuera de Dios ni serán socorridos.
 
-No se inclinen hacia los opresores: Una de las razones por las que algunas personas entrarán al Infierno será la complicidad con los opresores.
+[^1]: Una de las razones por las que algunas personas entrarán al Infierno será la complicidad con los opresores.
 
 # 1587
 
@@ -7121,9 +7176,9 @@ Pero algunas mujeres de la ciudad comentaron: "La mujer del gobernador pretende 
 
 # 1627
 
-Cuando [la mujer del gobernador] se enteró de sus habladurías las invitó [a su casa], les preparó un banquete y dio a cada una de ellas un cuchillo [para cortar la comida]. Entonces le dijo [a José]: "Preséntate ante ellas". Cuando lo vieron quedaron tan asombradas [por su belleza] que se cortaron la mano [por la distracción], y dijeron: "¡Dios Santo! No es un ser humano, es un ángel hermoso".
+Cuando [la mujer del gobernador] se enteró de sus habladurías las invitó [a su casa], les preparó un banquete y dio a cada una de ellas un cuchillo [para cortar la comida]. Entonces le dijo [a José]: "Preséntate ante ellas". Cuando lo vieron quedaron tan asombradas [por su belleza] que se cortaron la mano [por la distracción], y dijeron: "¡Dios Santo! No es un ser humano, es un ángel hermoso[^1]".
 
-ángel hermoso: El concepto de que los ángeles son hermosos está establecido en la mente de la gente, de la misma manera que la idea de que los demonios son horribles. Por eso se asocia la idea de belleza a los ángeles, tal como las mujeres dijeron al ver al Profeta José.
+[^1]: El concepto de que los ángeles son hermosos está establecido en la mente de la gente, de la misma manera que la idea de que los demonios son horribles. Por eso se asocia la idea de belleza a los ángeles, tal como las mujeres dijeron al ver al Profeta José.
 
 # 1628
 
@@ -7167,9 +7222,9 @@ Los [ídolos] que adoran en lugar de Dios, no son sino nombres que ustedes y sus
 
 # 1638
 
-Le dijo [José] a quien supo que quedaría en libertad: "Menciona mi caso ante el rey". Pero el demonio le hizo olvidar que lo mencionara ante su amo, por lo que [José] permaneció en la cárcel varios años más.
+Le dijo [José] a quien supo que quedaría en libertad: "Menciona mi caso ante el rey[^1]". Pero el demonio le hizo olvidar que lo mencionara ante su amo, por lo que [José] permaneció en la cárcel varios años más.
 
-el rey: Es importante mencionar aquí la exactitud histórica del Corán al llamar rey al soberano de los egipcios durante esta época y al llamar Faraón al de la época de Moisés, mientras que la Biblia, en clara anacronía, llama Faraón a ambos soberanos.
+[^1]: Es importante mencionar aquí la exactitud histórica del Corán al llamar rey al soberano de los egipcios durante esta época y al llamar Faraón al de la época de Moisés, mientras que la Biblia, en clara anacronía, llama Faraón a ambos soberanos.
 
 # 1639
 
@@ -7237,9 +7292,9 @@ Pero para los creyentes piadosos la recompensa en la otra vida es superior.
 
 # 1655
 
-Cuando les hubo suministrado sus provisiones, les dijo: "[La próxima vez que vengan,] traigan a su hermano por parte de padre. ¿No ven que les he dado la medida justa y soy el mejor de los anfitriones?
+Cuando les hubo suministrado sus provisiones, les dijo: "[La próxima vez que vengan,] traigan a su hermano por parte de padre[^1]. ¿No ven que les he dado la medida justa y soy el mejor de los anfitriones?
 
-su hermano por parte de padre: Benjamín era el único hermano de padre y madre que tenía José. El resto de sus hermanos tenían el mismo padre, pero no la misma madre.
+[^1]: Benjamín era el único hermano de padre y madre que tenía José. El resto de sus hermanos tenían el mismo padre, pero no la misma madre.
 
 # 1656
 
@@ -7271,9 +7326,9 @@ Y cuando abrieron su equipaje encontraron que se les había devuelto [el valor d
 
 # 1663
 
-Dijo [Jacob]: "¡Hijos míos! No entren todos [a la ciudad] por la misma puerta, mejor ingresen por puertas diferentes, pero sepan que no puedo hacer nada contra el designio de Dios, pues Él es Quien decreta todos los asuntos. En Él he depositado mi confianza, y a Él deben encomendarse quienes en Él confían".
+Dijo [Jacob]: "¡Hijos míos! No entren todos [a la ciudad] por la misma puerta, mejor ingresen por puertas diferentes[^1], pero sepan que no puedo hacer nada contra el designio de Dios, pues Él es Quien decreta todos los asuntos. En Él he depositado mi confianza, y a Él deben encomendarse quienes en Él confían".
 
-por puertas diferentes: Para no llamar la atención.
+[^1]: Para no llamar la atención.
 
 # 1664
 
@@ -7325,9 +7380,9 @@ Dijo [José]: "¡Dios nos libre de castigar a otro que aquel al que le encontram
 
 # 1676
 
-Cuando perdieron toda esperanza de persuadirlo, se retiraron a deliberar. Dijo el mayor de ellos: "¿Recuerdan que nuestro padre nos hizo jurar solemnemente por Dios, pues ya antes habíamos fallado con respecto a José? No me moveré de esta tierra hasta que mi padre lo autorice, o Dios juzgue a mi favor, porque Él es el mejor de los jueces.
+Cuando perdieron toda esperanza de persuadirlo, se retiraron a deliberar. Dijo el mayor de ellos: "¿Recuerdan que nuestro padre nos hizo jurar solemnemente por Dios[^1], pues ya antes habíamos fallado con respecto a José? No me moveré de esta tierra hasta que mi padre lo autorice, o Dios juzgue a mi favor, porque Él es el mejor de los jueces.
 
-nos hizo jurar solemnemente por Dios: Que iban a llevar de regreso a Benjamín.
+[^1]: Que iban a llevar de regreso a Benjamín.
 
 # 1677
 
@@ -7383,9 +7438,9 @@ Vayan con mi camisa y pónganla sobre el rostro de mi padre, que así recuperar�
 
 # 1690
 
-Cuando la caravana partía, dijo su padre [Jacob a quienes estaban junto a él]: "Aunque piensen que desvarío, en este momento noto la presencia de José en el aire".
+Cuando la caravana partía[^1], dijo su padre [Jacob a quienes estaban junto a él]: "Aunque piensen que desvarío, en este momento noto la presencia de José en el aire".
 
-partía: De Egipto a Palestina.
+[^1]: De Egipto a Palestina.
 
 # 1691
 
@@ -7433,9 +7488,9 @@ Tú no pides remuneración alguna por transmitir el Mensaje, que está dirigido 
 
 # 1702
 
-La mayoría de los que creen en Dios caen en dedicarle actos de adoración a otros.
+La mayoría de los que creen en Dios caen en dedicarle actos de adoración a otros.[^1]
 
-El objetivo del monoteísmo (Tauhid) no es la sola afirmación del Dominio y el Señorío (Tauhid Ar-Rububiah), es decir, creer en la existencia de Dios y que solo Él es el Creador del Universo, tal como afirman algunos filósofos y teósofos. Éstos consideran que al afirmar este concepto con pruebas han alcanzado, de hecho, el objetivo del monoteísmo en su totalidad. Pero la persona que afirme la existencia de la divinidad y Sus atributos divinos, negando de él cualquier imperfección, no será un monoteísta verdadero hasta que afirme que nada ni nadie merece ser adorado salvo Dios, sin asociados. Porque la palabra “divinidad” implica que merece ser adorado, y no significa solamente que posee el poder de crear. Los que limitan el significado de la palabra “divinidad” al hecho de poseer el poder de crear, haciendo el objetivo del monoteísmo esta sola afirmación, no comprenden la realidad del monoteísmo que enseñó el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, porque los árabes politeístas e idólatras de su época afirmaban que Dios era el Creador de todas las cosas, y a pesar de eso el Corán seguía refiriéndose a ellos como idólatras e incrédulos, porque invocaban y adoraban a sus ídolos junto con Dios.
+[^1]: El objetivo del monoteísmo (Tauhid) no es la sola afirmación del Dominio y el Señorío (Tauhid Ar-Rububiah), es decir, creer en la existencia de Dios y que solo Él es el Creador del Universo, tal como afirman algunos filósofos y teósofos. Éstos consideran que al afirmar este concepto con pruebas han alcanzado, de hecho, el objetivo del monoteísmo en su totalidad. Pero la persona que afirme la existencia de la divinidad y Sus atributos divinos, negando de él cualquier imperfección, no será un monoteísta verdadero hasta que afirme que nada ni nadie merece ser adorado salvo Dios, sin asociados. Porque la palabra “divinidad” implica que merece ser adorado, y no significa solamente que posee el poder de crear. Los que limitan el significado de la palabra “divinidad” al hecho de poseer el poder de crear, haciendo el objetivo del monoteísmo esta sola afirmación, no comprenden la realidad del monoteísmo que enseñó el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, porque los árabes politeístas e idólatras de su época afirmaban que Dios era el Creador de todas las cosas, y a pesar de eso el Corán seguía refiriéndose a ellos como idólatras e incrédulos, porque invocaban y adoraban a sus ídolos junto con Dios.
 
 # 1703
 
@@ -7459,9 +7514,9 @@ En las historias [de los Profetas] hay un motivo de enseñanza para la gente que
 
 # 1708
 
-Álif. Lam. Ra’. Éstos son los versículos del Libro que te fue revelado [¡oh, Mujámmad!] por tu Señor, aunque la mayoría de la gente no crea.
+Álif. Lam. Ra’. Éstos son los versículos del Libro[^1] que te fue revelado [¡oh, Mujámmad!] por tu Señor, aunque la mayoría de la gente no crea.
 
-del Libro: El Corán.
+[^1]: El Corán.
 
 # 1709
 
@@ -7485,9 +7540,9 @@ Te desafían a que les adelantes el castigo en vez de pedirte ser agraciados por
 
 # 1714
 
-Dicen los que se niegan a creer: "¿Por qué no desciende con él un milagro de su Señor?" [Respóndeles, ¡oh, Mujámmad!,] que tú solo eres un amonestador y que para cada pueblo he enviado un [Profeta como] guía.
+Dicen los que se niegan a creer: "¿Por qué no desciende con él un milagro de su Señor?" [Respóndeles, ¡oh, Mujámmad!,] que tú solo eres un amonestador y que para cada pueblo he enviado un [Profeta como] guía.[^1]
 
-“¿Por qué no desciende con él un milagro de su Señor?”: Que pruebe que dice la verdad.
+[^1]: Que pruebe que dice la verdad.
 
 # 1715
 
@@ -7495,9 +7550,9 @@ Dios bien sabe qué se gesta en el vientre de cada hembra, y si completará el c
 
 # 1716
 
-Él conoce lo oculto y lo manifiesto, es el Grande, el Sublime.
+Él conoce lo oculto y lo manifiesto, es el Grande, el Sublime.[^1]
 
-Él conoce lo que los sentidos no alcanzan, y todo lo que Sus criaturas logran percibir.
+[^1]: Él conoce lo que los sentidos no alcanzan, y todo lo que Sus criaturas logran percibir.
 
 # 1717
 
@@ -7505,15 +7560,15 @@ Dios bien sabe qué se gesta en el vientre de cada hembra, y si completará el c
 
 # 1718
 
-El [ser humano] tiene [ángeles] guardianes por delante y por detrás, que lo protegen por orden de Dios. Sepan que Dios no cambia la condición de un pueblo hasta que ellos no cambien lo que hay en sí mismos. Pero si Dios decreta el castigo para un pueblo, no existe nada que lo pueda impedir, y no encontrarán fuera de Él protector alguno.
+El [ser humano] tiene [ángeles] guardianes por delante y por detrás, que lo protegen por orden de Dios. Sepan que Dios no cambia la condición de un pueblo hasta que ellos no cambien lo que hay en sí mismos[^1]. Pero si Dios decreta el castigo para un pueblo, no existe nada que lo pueda impedir, y no encontrarán fuera de Él protector alguno.
 
-no cambien lo que hay en sí mismos:Es decir, si no estás dispuesto a cambiar por Dios, no esperes que Dios cambie tu situación.
+[^1]: Es decir, si no estás dispuesto a cambiar por Dios, no esperes que Dios cambie tu situación.
 
 # 1719
 
-Él es Quien los hace ver el relámpago con temor [a su peligro] y anhelo [de las lluvias], Él es quien forma las nubes pesadas.
+Él es Quien los hace ver el relámpago con temor [a su peligro] y anhelo [de las lluvias], Él es quien forma las nubes pesadas.[^1]
 
-Estos dos versículos muestran una correlación entre la formación de nubes cargadas de lluvia o de granizo y la producción del rayo: la primera es motivo de ansias por el beneficio que representa; la segunda, motivo de temor, ya que su caída podría generar algún perjuicio. La estrecha relación entre ambos fenómenos fue demostrada por la existencia de la electricidad atmosférica. El término “pesadas” alude a un milagro científico, ya que una nube cumulonimbus puede llegar a cargar hasta 30.000 toneladas de agua.
+[^1]: la primera es motivo de ansias por el beneficio que representa; la segunda, motivo de temor, ya que su caída podría generar algún perjuicio. La estrecha relación entre ambos fenómenos fue demostrada por la existencia de la electricidad atmosférica. El término “pesadas” alude a un milagro científico, ya que una nube cumulonimbus puede llegar a cargar hasta 30.000 toneladas de agua.
 
 # 1720
 
@@ -7521,9 +7576,9 @@ El trueno Lo glorifica con su alabanza, así como los ángeles por temor a Él. 
 
 # 1721
 
-Solo Él tiene el verdadero derecho a ser invocado, y aquellos [ídolos] que invocan en lugar de Dios no podrán responder sus súplicas. [Su ejemplo] es como quien extiende sus manos [frente a un pozo profundo de agua] creyendo que ésta vendrá a su boca, pero esto es imposible. Las súplicas [a los ídolos] de los que se niegan a creer son en vano.
+Solo Él tiene el verdadero derecho a ser invocado[^1], y aquellos [ídolos] que invocan en lugar de Dios no podrán responder sus súplicas. [Su ejemplo] es como quien extiende sus manos [frente a un pozo profundo de agua] creyendo que ésta vendrá a su boca, pero esto es imposible. Las súplicas [a los ídolos] de los que se niegan a creer son en vano.
 
-derecho a ser invocado: La súplica es la expresión misma de la adoración. Por eso dijo el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él: “La súplica es la adoración por excelencia”.
+[^1]: La súplica es la expresión misma de la adoración. Por eso dijo el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él: “La súplica es la adoración por excelencia”.
 
 # 1722
 
@@ -7535,9 +7590,9 @@ Pregúntales [¡oh, Mujámmad! a los idólatras]: "¿Quién es el Señor de los 
 
 # 1724
 
-[Dios] envía el agua del cielo, que corre por los valles acorde a la capacidad de los mismos, y en su torrente acarrea espuma en su superficie, igual que la espuma que sale de la fundición para fabricar las alhajas o los utensilios. Con ello Dios les expone un ejemplo para que sepan diferenciar la verdad de lo falso: en cuanto a la espuma, se desvanece rápidamente, y aquello que beneficia a la gente permanece en la tierra [enriqueciéndola]; así es como Dios les expone los ejemplos.
+[Dios] envía el agua del cielo, que corre por los valles acorde a la capacidad de los mismos, y en su torrente acarrea espuma en su superficie, igual que la espuma que sale de la fundición para fabricar las alhajas o los utensilios. Con ello Dios les expone un ejemplo para que sepan diferenciar la verdad de lo falso: en cuanto a la espuma, se desvanece rápidamente, y aquello que beneficia a la gente permanece en la tierra [enriqueciéndola]; así es como Dios les expone los ejemplos[^1].
 
-Dios les expone los ejemplos: Dice el Sheij Al Islam Ibn Taimiah, que Dios sea misericordioso con él: “Dios asemeja al conocimiento con el agua que Él envía del cielo, porque a través de él se vivifica el corazón, al igual que el agua vivifica al cuerpo. Y asemeja a los corazones con los valles debido a que ellos son lugares donde se establece el conocimiento, como los valles conservan el agua. Existen corazones que atesoran mucho conocimiento y valles en los que se acumula el agua en abundancia, también hay corazones que pueden alcanzar poco conocimiento y valles que pueden almacenar poca agua. Nos informa el Altísimo que en la superficie del agua de las crecientes flota la espuma, y que la espuma desaparece, en cambio lo que beneficia a las personas permanece en la tierra. De la misma manera, los corazones se entremezclan con las pasiones y las dudas, pero luego éstas finalmente desaparecen, permaneciendo la fe y el Corán, que es lo que realmente beneficia a la persona”.
+[^1]: Dice el Sheij Al Islam Ibn Taimiah, que Dios sea misericordioso con él: “Dios asemeja al conocimiento con el agua que Él envía del cielo, porque a través de él se vivifica el corazón, al igual que el agua vivifica al cuerpo. Y asemeja a los corazones con los valles debido a que ellos son lugares donde se establece el conocimiento, como los valles conservan el agua. Existen corazones que atesoran mucho conocimiento y valles en los que se acumula el agua en abundancia, también hay corazones que pueden alcanzar poco conocimiento y valles que pueden almacenar poca agua. Nos informa el Altísimo que en la superficie del agua de las crecientes flota la espuma, y que la espuma desaparece, en cambio lo que beneficia a las personas permanece en la tierra. De la misma manera, los corazones se entremezclan con las pasiones y las dudas, pero luego éstas finalmente desaparecen, permaneciendo la fe y el Corán, que es lo que realmente beneficia a la persona”.
 
 # 1725
 
@@ -7569,9 +7624,9 @@ y les dirán: "¡La paz sea sobre ustedes! Porque fueron perseverantes [en la ad
 
 # 1732
 
-Pero en cambio, quienes quebrantan el compromiso que asumieron con Dios, rompen los lazos familiares que Dios ordenó respetar y siembran la corrupción en la Tierra, serán maldecidos y merecerán la peor de las moradas.
+Pero en cambio, quienes quebrantan el compromiso que asumieron con Dios, rompen los lazos familiares que Dios ordenó respetar y siembran la corrupción en la Tierra, serán maldecidos y merecerán la peor de las moradas[^1].
 
-la peor de las moradas: El Fuego del Infierno.
+[^1]: El Fuego del Infierno.
 
 # 1733
 
@@ -7591,9 +7646,9 @@ Quienes creen y obran rectamente serán los bienaventurados, tendrán un destino
 
 # 1737
 
-Te he enviado a una comunidad que fue precedida por otras, para que les recites lo que te he revelado, pero ellos no creyeron en el Compasivo. Diles: "Él es mi Señor, no hay otra divinidad salvo Dios, a Él me encomiendo y confío, y a Él he de retornar".
+Te he enviado a una comunidad que fue precedida por otras, para que les recites lo que te he revelado, pero ellos no creyeron en el Compasivo[^1]. Diles: "Él es mi Señor, no hay otra divinidad salvo Dios, a Él me encomiendo y confío, y a Él he de retornar".
 
-el Compasivo: Este versículo fue revelado cuando los idólatras de Quraish negaron por soberbia el nombre “El Compasivo”, entonces Dios descendió el siguiente versículo: “Diles: “Ya sea que Lo invoquen diciendo: ¡Oh, Dios!, ¡oh, Compasivo!, o cualquier otro nombre con el que Le invoquen, Él los oirá. Sepan que Él posee los nombres [y atributos] más sublimes.” (17:110). “El Compasivo” es uno de los nombres de Dios, y a su vez un atributo que describe su divinidad y perfección. En consecuencia, los idólatras no solo negaron la existencia de tal nombre, sino que también negaron su implicancia, es decir, el atributo divino que implica tal nombre. Quienes niegan que los nombres de Dios impliquen atributos de su Ser, caen en el mismo error que esos idólatras.
+[^1]: Este versículo fue revelado cuando los idólatras de Quraish negaron por soberbia el nombre “El Compasivo”, entonces Dios descendió el siguiente versículo: “Diles: “Ya sea que Lo invoquen diciendo: ¡Oh, Dios!, ¡oh, Compasivo!, o cualquier otro nombre con el que Le invoquen, Él los oirá. Sepan que Él posee los nombres [y atributos] más sublimes.” (17:110). “El Compasivo” es uno de los nombres de Dios, y a su vez un atributo que describe su divinidad y perfección. En consecuencia, los idólatras no solo negaron la existencia de tal nombre, sino que también negaron su implicancia, es decir, el atributo divino que implica tal nombre. Quienes niegan que los nombres de Dios impliquen atributos de su Ser, caen en el mismo error que esos idólatras.
 
 # 1738
 
@@ -7617,15 +7672,15 @@ La descripción del Paraíso que le fue prometido a los piadosos: En él correr�
 
 # 1743
 
-Aquellos a quienes concedí el Libro [el Corán] se regocijan con lo que te fue revelado [¡oh, Mujámmad!], pero entre los aliados hay quienes negaron algunas partes [del Corán]. Diles: "Me ha sido ordenado adorar a Dios y no asociarle nada [en la adoración]; a Él me encomiendo y ante Él compareceré".
+Aquellos a quienes concedí el Libro [el Corán] se regocijan con lo que te fue revelado [¡oh, Mujámmad!], pero entre los aliados[^1] hay quienes negaron algunas partes [del Corán]. Diles: "Me ha sido ordenado adorar a Dios y no asociarle nada [en la adoración]; a Él me encomiendo y ante Él compareceré".
 
-los aliados: Distintas tribus de incrédulos que se aliaron para combatir al Islam y los musulmanes.
+[^1]: Distintas tribus de incrédulos que se aliaron para combatir al Islam y los musulmanes.
 
 # 1744
 
-Así te he revelado el Corán en [idioma] árabe. Pero si tú sigues sus pasiones después de haberte llegado el conocimiento, no tendrás, fuera de Dios, defensor ni protector alguno.
+Así te he revelado el Corán en [idioma] árabe. Pero si tú sigues sus pasiones[^1] después de haberte llegado el conocimiento, no tendrás, fuera de Dios, defensor ni protector alguno.
 
-si tú sigues sus pasiones: Las opiniones de los que se negaron a creer, dando la espalda a la revelación.
+[^1]: Las opiniones de los que se negaron a creer, dando la espalda a la revelación.
 
 # 1745
 
@@ -7637,9 +7692,9 @@ Dios anula o confirma [de Su Designio] lo que quiere. Él tiene en Su poder el L
 
 # 1747
 
-[¡Oh, Mujámmad!] Puede que te haga ver parte de lo que les tengo reservado [a los incrédulos como castigo], o que te haga morir antes de ello. Tú solo tienes el deber de transmitir el Mensaje, y ante Mí comparecerán.
+[¡Oh, Mujámmad!] Puede que te haga ver parte de lo que les tengo reservado [a los incrédulos como castigo], o que te haga morir antes de ello[^1]. Tú solo tienes el deber de transmitir el Mensaje, y ante Mí comparecerán.
 
-te haga morir antes de ello: Pero ten la certeza de que el castigo les llegará tarde o temprano.
+[^1]: Pero ten la certeza de que el castigo les llegará tarde o temprano.
 
 # 1748
 
@@ -7647,15 +7702,15 @@ te haga morir antes de ello: Pero ten la certeza de que el castigo les llegará 
 
 # 1749
 
-En la antigüedad [los incrédulos] también se confabularon [contra los Mensajeros], pero Dios desbarató los planes de todos ellos. Él bien sabe lo que cada ser se propone realizar. Ya sabrán los que se niegan a creer quiénes merecerán la peor de las moradas.
+En la antigüedad [los incrédulos] también se confabularon [contra los Mensajeros], pero Dios desbarató los planes de todos ellos. Él bien sabe lo que cada ser se propone realizar. Ya sabrán los que se niegan a creer quiénes merecerán la peor de las moradas[^1].
 
-la peor de las moradas: El Infierno.
+[^1]: El Infierno.
 
 # 1750
 
-Dicen los que se niegan a creer: "Tú no eres un Mensajero". Diles [¡oh, Mujámmad!]: "Es suficiente Dios como testigo [de mi veracidad] entre ustedes y yo, y también [son testigos de ello] quienes tienen conocimiento sobre los Libros revelados anteriormente.
+Dicen los que se niegan a creer: "Tú no eres un Mensajero". Diles [¡oh, Mujámmad!]: "Es suficiente Dios como testigo [de mi veracidad] entre ustedes y yo, y también [son testigos de ello] quienes tienen conocimiento sobre los Libros revelados anteriormente[^1].
 
-Libros revelados anteriormente: Otros Libros que fueron revelados por Dios, como el Evangelio y la Tora.
+[^1]: Otros Libros que fueron revelados por Dios, como el Evangelio y la Tora.
 
 # 1751
 
@@ -7663,9 +7718,9 @@ Libros revelados anteriormente: Otros Libros que fueron revelados por Dios, como
 
 # 1752
 
-A Dios pertenece cuanto existe en los cielos y en la Tierra. ¡Ya verán los que se niegan a creer, el castigo terrible que les aguarda!
+A Dios pertenece cuanto existe en los cielos y en la Tierra. ¡Ya verán los que se niegan a creer, el castigo terrible que les aguarda![^1]
 
-En esta vida y en el Día del Juicio Final.
+[^1]: En esta vida y en el Día del Juicio Final.
 
 # 1753
 
@@ -7721,9 +7776,9 @@ Entonces [los Mensajeros] pidieron el socorro de Dios, y todo prepotente y obsti
 
 # 1766
 
-[tras el Día del Juicio] será castigado en el Infierno, donde se le dará de beber un agua de pus
+[tras el Día del Juicio] será castigado en el Infierno, donde se le dará de beber un agua de pus[^1]
 
-agua de pus: Las secreciones de las heridas de quienes son atormentados en el Infierno.
+[^1]: Las secreciones de las heridas de quienes son atormentados en el Infierno.
 
 # 1767
 
@@ -7743,15 +7798,15 @@ Eso no es difícil para Dios.
 
 # 1771
 
-[El Día de la Resurrección] saldrán de sus tumbas para comparecer ante Dios, y los más débiles dirán a los soberbios [líderes de la incredulidad]: "Nosotros fuimos sus seguidores [en la vida mundanal]. ¿Nos librarán ahora del castigo de Dios?" Dirán: "Si Dios nos hubiera guiado los habríamos conducido por el camino recto. Lo mismo da que nos desesperemos o que tengamos paciencia; hoy no podremos escapar del castigo".
+[El Día de la Resurrección] saldrán de sus tumbas para comparecer ante Dios, y los más débiles dirán a los soberbios [líderes de la incredulidad]: "Nosotros fuimos sus seguidores [en la vida mundanal]. ¿Nos librarán ahora del castigo de Dios?" Dirán: "Si Dios nos hubiera guiado los habríamos conducido por el camino recto[^1]. Lo mismo da que nos desesperemos o que tengamos paciencia; hoy no podremos escapar del castigo".
 
-los habríamos conducido por el camino recto: Esta respuesta evidencia cómo son incapaces de asumir su culpabilidad, y justifican su incredulidad argumentando que Dios no los guió. Esto evidencia que no es correcto excusarse en el Designio Divino para justificar las malas elecciones propias.
+[^1]: Esta respuesta evidencia cómo son incapaces de asumir su culpabilidad, y justifican su incredulidad argumentando que Dios no los guió. Esto evidencia que no es correcto excusarse en el Designio Divino para justificar las malas elecciones propias.
 
 # 1772
 
-Cuando todos hayan sido sentenciados, el demonio dirá: "La promesa que Dios les hizo era verdadera, en cambio yo les hice promesas que no cumplí. Yo solo tenía poder para seducirlos mediante susurros, pero fueron ustedes quienes me siguieron. No me culpen ahora, sino que repróchense a ustedes mismos. Yo no puedo socorrerlos en nada ni tampoco ustedes a mí, y hoy me desentiendo de que me hayan asociado [a Dios]". Los opresores recibirán un castigo doloroso.
+Cuando todos hayan sido sentenciados, el demonio dirá: "La promesa que Dios les hizo era verdadera, en cambio yo les hice promesas que no cumplí. Yo solo tenía poder para seducirlos mediante susurros, pero fueron ustedes quienes me siguieron. No me culpen ahora, sino que repróchense a ustedes mismos. Yo no puedo socorrerlos en nada ni tampoco ustedes a mí, y hoy me desentiendo de que me hayan asociado [a Dios]". Los opresores recibirán un castigo doloroso.[^1]
 
-En la teología islámica, el demonio es una criatura más de Dios que será juzgado y castigado en el Infierno; y a diferencia de la teología cristiana el demonio no está a cargo del Infierno ni es su reino.
+[^1]: En la teología islámica, el demonio es una criatura más de Dios que será juzgado y castigado en el Infierno; y a diferencia de la teología cristiana el demonio no está a cargo del Infierno ni es su reino.
 
 # 1773
 
@@ -7759,9 +7814,9 @@ En cambio, quienes hayan creído y obrado correctamente serán introducidos en j
 
 # 1774
 
-¿Por qué no observas el siguiente ejemplo que te propone Dios?: Una palabra buena es como un árbol bondadoso cuya raíz está firme y sus ramas se extienden hacia el cielo,
+¿Por qué no observas el siguiente ejemplo que te propone Dios?: Una palabra buena[^1] es como un árbol bondadoso cuya raíz está firme y sus ramas se extienden hacia el cielo,
 
-palabra buena: “Palabra buena” alude al testimonio del monoteísmo: nada ni nadie merece ser adorado salvo Dios.
+[^1]: “Palabra buena” alude al testimonio del monoteísmo: nada ni nadie merece ser adorado salvo Dios.
 
 # 1775
 
@@ -7769,15 +7824,15 @@ y da frutos en toda época [del año] con el permiso de su Señor. Así es como 
 
 # 1776
 
-En cambio, una palabra maligna es como un árbol dañino que ha sido arrancado de la tierra y no tiene dónde afirmarse.
+En cambio, una palabra maligna[^1] es como un árbol dañino que ha sido arrancado de la tierra y no tiene dónde afirmarse.
 
-palabra maligna:“Palabra maligna” alude al testimonio de la idolatría, afirmando que otros distintos a Dios son dioses o merecen ser adorados.
+[^1]: “Palabra maligna” alude al testimonio de la idolatría, afirmando que otros distintos a Dios son dioses o merecen ser adorados.
 
 # 1777
 
-Dios afianza a los creyentes con la palabra firme en esta vida y en la otra, y extravía a los que cometen injusticias. Dios hace lo que quiere.
+Dios afianza a los creyentes con la palabra firme[^1] en esta vida y en la otra, y extravía a los que cometen injusticias. Dios hace lo que quiere.
 
-palabra firme: “Palabra firme” alude al testimonio de fe, ya que Dios fortalece a los creyentes para que lo comprendan, lo pronuncien y vivan según sus principios en esta vida; y los fortalece en el momento de la muerte para que lo puedan pronunciar y sean sus últimas palabras al abandonar este mundo, así como su respuesta correcta ante los ángeles que lo interrogarán sobre quién es su Señor.
+[^1]: “Palabra firme” alude al testimonio de fe, ya que Dios fortalece a los creyentes para que lo comprendan, lo pronuncien y vivan según sus principios en esta vida; y los fortalece en el momento de la muerte para que lo puedan pronunciar y sean sus últimas palabras al abandonar este mundo, así como su respuesta correcta ante los ángeles que lo interrogarán sobre quién es su Señor.
 
 # 1778
 
@@ -7809,22 +7864,23 @@ Dios es Quien creó los cielos y la Tierra e hizo descender la lluvia del cielo 
 
 # 1785
 
-Y [recuerda, ¡oh, Mujámmad!] cuando Abraham dijo: "¡Oh, Señor mío! Haz que esta ciudad sea un lugar seguro, y protégeme junto a mi descendencia de caer en la adoración de ídolos.
+Y [recuerda, ¡oh, Mujámmad!] cuando Abraham dijo: "¡Oh, Señor mío! Haz que esta ciudad[^1] sea un lugar seguro, y protégeme junto a mi descendencia de caer en la adoración de ídolos[^2].
 
-esta ciudad: La ciudad de La Meca.
-ídolos: Ídolo (sanam صَنَمْ ) es lo que está representado en una imagen; mientras que una deidad (uazan وَثَن ) puede ser cualquier cosa que sea adorada. Dijo el sabio Ibrahim At-Taimi: “¿Y quién podría sentirse seguro de la idolatría, si el Profeta Abraham no se sentía a salvo de ella?”
+[^1]: La ciudad de La Meca.
+
+[^2]: Ídolo (sanam صَنَمْ ) es lo que está representado en una imagen; mientras que una deidad (uazan وَثَن ) puede ser cualquier cosa que sea adorada. Dijo el sabio Ibrahim At-Taimi: “¿Y quién podría sentirse seguro de la idolatría, si el Profeta Abraham no se sentía a salvo de ella?”
 
 # 1786
 
-¡Oh, Señor mío! La adoración a los ídolos ha extraviado a muchas personas. Todo aquel que me siga [en la fe monoteísta] será de los míos, pero quien me desobedezca [rechazando el Mensaje]... Tú eres Absolvedor, Misericordioso.
+¡Oh, Señor mío! La adoración a los ídolos[^1] ha extraviado a muchas personas. Todo aquel que me siga [en la fe monoteísta] será de los míos, pero quien me desobedezca [rechazando el Mensaje]... Tú eres Absolvedor, Misericordioso.
 
-La adoración a los ídolos : El culto idolátrico a estatuas e ídolos ha estado presente tanto en tiempos pasados como en nuestros días. Los politeístas adoran a estas representaciones al pedirles por sus necesidades. Les suplican en momentos de dificultad y momentos de aflicción ofreciéndoles promesas y votos.
+[^1]: El culto idolátrico a estatuas e ídolos ha estado presente tanto en tiempos pasados como en nuestros días. Los politeístas adoran a estas representaciones al pedirles por sus necesidades. Les suplican en momentos de dificultad y momentos de aflicción ofreciéndoles promesas y votos.
 
 # 1787
 
-¡Oh, Señor nuestro! He establecido parte de mi descendencia en un valle árido de poca vegetación junto a Tu Casa Sagrada, para que, ¡oh, Señor nuestro!, cumplan con la oración. Infunde en los corazones de la gente amor por mi descendencia, y provéelos de todo alimento para que sean agradecidos.
+¡Oh, Señor nuestro! He establecido parte de mi descendencia en un valle árido de poca vegetación junto a Tu Casa Sagrada[^1], para que, ¡oh, Señor nuestro!, cumplan con la oración. Infunde en los corazones de la gente amor por mi descendencia, y provéelos de todo alimento para que sean agradecidos.
 
-Tu Casa Sagrada: En La Meca.
+[^1]: En La Meca.
 
 # 1788
 
@@ -7844,10 +7900,11 @@ Tu Casa Sagrada: En La Meca.
 
 # 1792
 
-No pienses [¡oh, Mujámmad!] que Dios está distraído de lo que hacen los opresores. Él solo está tolerándolos hasta que llegue el día en el que sus miradas quedarán paralizadas.
+No pienses [¡oh, Mujámmad!] que Dios está distraído de lo que hacen los opresores[^1]. Él solo está tolerándolos hasta que llegue el día en el que sus miradas quedarán paralizadas[^2].
 
-lo que hacen los opresores: No es que el Mensajero de Dios, que la paz y las bendiciones de Dios sean con él, pensara que Dios estaba distraído de lo que hacían los pecadores, sino que es una ironía para que escuchen aquellos que niegan la fe y sepan que, aunque no sean castigados en esta vida, llegará el día en que abandonarán este mundo y tendrán que enfrentarse con Dios y rendir cuentas por sus malas acciones e incredulidad.
- quedarán paralizadas: El Día del Juicio Final será un día terrible; sus miradas estarán fijas y estáticas, porque el horror se habrá apoderado de ellos, no parpadearán ni se moverán del susto.
+[^1]: No es que el Mensajero de Dios, que la paz y las bendiciones de Dios sean con él, pensara que Dios estaba distraído de lo que hacían los pecadores, sino que es una ironía para que escuchen aquellos que niegan la fe y sepan que, aunque no sean castigados en esta vida, llegará el día en que abandonarán este mundo y tendrán que enfrentarse con Dios y rendir cuentas por sus malas acciones e incredulidad.
+
+[^2]: El Día del Juicio Final será un día terrible; sus miradas estarán fijas y estáticas, porque el horror se habrá apoderado de ellos, no parpadearán ni se moverán del susto.
 
 # 1793
 
@@ -7867,9 +7924,9 @@ Se confabularon [contra ti], pero Dios desbarató sus planes, a pesar de que sus
 
 # 1797
 
-No pienses [¡oh, Mujámmad!] que Dios no cumplirá con la promesa que les hizo a Sus Mensajeros; Dios es Poderoso, Dueño de la retribución.
+No pienses [¡oh, Mujámmad!] que Dios no cumplirá con la promesa que les hizo a Sus Mensajeros; Dios es Poderoso, Dueño de la retribución.[^1]
 
-Porque indefectiblemente ha de castigar con severidad a quienes se nieguen a creer en Él y desmientan a Sus Profetas.
+[^1]: Porque indefectiblemente ha de castigar con severidad a quienes se nieguen a creer en Él y desmientan a Sus Profetas.
 
 # 1798
 
@@ -7941,9 +7998,9 @@ Así es como [la burla] se adueña del corazón de los pecadores.
 
 # 1815
 
-No creerán en él a pesar del ejemplo de lo que les aconteció a los pueblos anteriores.
+No creerán en él[^1] a pesar del ejemplo de lo que les aconteció a los pueblos anteriores.
 
-No creerán en él: El Sagrado Corán.
+[^1]: El Sagrado Corán.
 
 # 1816
 
@@ -7959,9 +8016,9 @@ He dispuesto constelaciones en el cielo, y las he embellecido para quienes las c
 
 # 1819
 
-He protegido al cielo de todo demonio maldito.
+He protegido al cielo de todo demonio maldito.[^1]
 
-Que pretenda escuchar las órdenes de Dios a los ángeles, para luego transmitírselas a sus aliados, los hechiceros y los hechiceros, los adivinos y los seudo-lectores de la suerte.
+[^1]: Que pretenda escuchar las órdenes de Dios a los ángeles, para luego transmitírselas a sus aliados, los hechiceros y los hechiceros, los adivinos y los seudo-lectores de la suerte.
 
 # 1820
 
@@ -7997,15 +8054,15 @@ Tu Señor los congregará. Él es Sabio, lo sabe todo.
 
 # 1828
 
-He creado al ser humano de arcilla, un barro maleable.
+He creado al ser humano de arcilla, un barro maleable.[^1]
 
-Existen numerosas referencias en el Corán a que el ser humano ha sido “creado de arcilla (tin طِين )” o “de tierra (turab تُراب )”, y ambos términos apuntan al humilde origen biológico del ser humano, así como al hecho de que su cuerpo está compuesto de diversas substancias orgánicas e inorgánicas que existen, en otras combinaciones o en sus formas elementales, sobre la tierra o en su interior. El término salsal صَلصَال , que aparece en tres versículos de este capítulo y también en 55:14, añade una nueva dimensión a este concepto. Según la mayoría de los expertos en filología árabe, denota “arcilla seca que produce sonido” (al ser golpeada); y dado que se emplea en el Corán exclusivamente con referencia a la creación del ser humano, parece contener una alusión a su capacidad para el “lenguaje articulado”. Mientras que hama’ حَماء es un “barro” mezcla de tierra y agua, que son otros dos componentes que se mencionan en el Corán relacionados a la creación del ser humano, a lo que se suma el adjetivo masnún مَسْنُون que significa “moldeado” o “maleable”.
+[^1]: 14, añade una nueva dimensión a este concepto. Según la mayoría de los expertos en filología árabe, denota “arcilla seca que produce sonido” (al ser golpeada); y dado que se emplea en el Corán exclusivamente con referencia a la creación del ser humano, parece contener una alusión a su capacidad para el “lenguaje articulado”. Mientras que hama’ حَماء es un “barro” mezcla de tierra y agua, que son otros dos componentes que se mencionan en el Corán relacionados a la creación del ser humano, a lo que se suma el adjetivo masnún مَسْنُون que significa “moldeado” o “maleable”.
 
 # 1829
 
-Y al yinn lo había creado ya antes de fuego.
+Y al yinn lo había creado ya antes[^1] de fuego.
 
-antes: Antes que al ser humano.
+[^1]: Antes que al ser humano.
 
 # 1830
 
@@ -8033,9 +8090,9 @@ Dijo: "No he de hacerla ante un ser humano [que es inferior a mí], al que has c
 
 # 1836
 
-Dijo [Dios]: "Sal de aquí, pues te maldigo.
+Dijo [Dios]: "Sal de aquí[^1], pues te maldigo.
 
-Sal de aquí: Es decir, del lugar honorable que Dios le había concedido en el Paraíso.
+[^1]: Es decir, del lugar honorable que Dios le había concedido en el Paraíso.
 
 # 1837
 
@@ -8047,15 +8104,15 @@ Dijo: "¡Oh, Señor mío! Tolérame hasta el Día de la Resurrección".
 
 # 1839
 
-Dijo: "Te concedo la prórroga que me pides,
+Dijo: "Te concedo la prórroga que me pides,[^1]
 
-Porque Dios había decretado probar a los seres humanos a través de su seducción. Ver Corán 7:14, 17:62 y 38:70.
+[^1]: 14, 17:62 y 38:70.
 
 # 1840
 
-hasta el día cuyo término está definido".
+hasta el día cuyo término está definido".[^1]
 
-El Día de la Resurrección, entonces será enviado al Infierno, donde sufrirá el castigo eterno.
+[^1]: El Día de la Resurrección, entonces será enviado al Infierno, donde sufrirá el castigo eterno.
 
 # 1841
 
@@ -8075,9 +8132,9 @@ No tendrás poder alguno sobre Mis siervos, salvo los que se extravíen siguién
 
 # 1845
 
-El Infierno es el lugar donde se reunirán todos ellos.
+El Infierno es el lugar donde se reunirán todos ellos[^1].
 
-se reunirán todos ellos: El demonio y sus seguidores.
+[^1]: El demonio y sus seguidores.
 
 # 1846
 
@@ -8109,9 +8166,9 @@ y que Mi castigo es el verdadero castigo doloroso.
 
 # 1853
 
-Relátales sobre los huéspedes de Abraham.
+Relátales sobre los huéspedes de Abraham[^1].
 
-los huéspedes de Abraham: Los ángeles que se presentaron en forma humana.
+[^1]: Los ángeles que se presentaron en forma humana.
 
 # 1854
 
@@ -8175,9 +8232,9 @@ Entonces le revelé [a Lot Mi decreto]: "Todos ellos [los pecadores] serán dest
 
 # 1869
 
-Pero se presentaron los habitantes de la ciudad contentos.
+Pero se presentaron los habitantes de la ciudad contentos.[^1]
 
-Se presentaron ante Lot al saber de sus huéspedes, con la intención de cometer con ellos la obscenidad que tenían por costumbre.
+[^1]: Se presentaron ante Lot al saber de sus huéspedes, con la intención de cometer con ellos la obscenidad que tenían por costumbre.
 
 # 1870
 
@@ -8193,9 +8250,9 @@ Dijeron: "¿No te habíamos prohibido que protegieras gente [en tu casa de nuest
 
 # 1873
 
-Les respondió: "Cásense con las mujeres del pueblo si quieren".
+Les respondió: "Cásense con las mujeres del pueblo si quieren".[^1]
 
-Lot les mostró la forma de encaminar su deseo sexual, que es para un hombre, contrayendo matrimonio con una mujer.
+[^1]: Lot les mostró la forma de encaminar su deseo sexual, que es para un hombre, contrayendo matrimonio con una mujer.
 
 # 1874
 
@@ -8231,9 +8288,9 @@ por lo que los castigué. Ambas [ciudades, la de Lot y la de Jetró] son visible
 
 # 1882
 
-Los habitantes de Al Hiyr desmintieron a los Mensajeros.
+Los habitantes de Al Hiyr[^1] desmintieron a los Mensajeros.
 
-Los habitantes de Al Hiyr: Es el pueblo de Zamud. Ver Corán 7:73-79.
+[^1]: Es el pueblo de Zamud. Ver Corán 7:73-79.
 
 # 1883
 
@@ -8253,9 +8310,9 @@ y no los benefició en nada la riqueza que poseían.
 
 # 1887
 
-No he creado los cielos, la Tierra y cuanto hay entre ambos sino con un fin justo y verdadero. La Hora se aproxima, así que tú disculpa [a los que niegan el Mensaje] y trátalos de buena manera.
+No he creado los cielos, la Tierra y cuanto hay entre ambos sino con un fin justo y verdadero. La Hora[^1] se aproxima, así que tú disculpa [a los que niegan el Mensaje] y trátalos de buena manera.
 
-La Hora: Al Qurtubi dijo: “La Hora es una palabra en árabe que se usa para designar un periodo de tiempo limitado; la costumbre hizo que se aplique a una parte de las veinticuatro partes (horas) del día y la noche, que son la base de la temporalidad. Se la denomina así porque hace referencia al presente; y se denomina así al Día de la Resurrección en referencia a su inminencia, pues todo lo que nos sobrevendrá está cerca. También se dijo que se le denomina La Hora por que llega súbitamente, en un instante”.
+[^1]: Al Qurtubi dijo: “La Hora es una palabra en árabe que se usa para designar un periodo de tiempo limitado; la costumbre hizo que se aplique a una parte de las veinticuatro partes (horas) del día y la noche, que son la base de la temporalidad. Se la denomina así porque hace referencia al presente; y se denomina así al Día de la Resurrección en referencia a su inminencia, pues todo lo que nos sobrevendrá está cerca. También se dijo que se le denomina La Hora por que llega súbitamente, en un instante”.
 
 # 1888
 
@@ -8263,9 +8320,9 @@ Tu Señor es el Creador, el que todo lo sabe.
 
 # 1889
 
-Te he distinguido con la revelación de los siete versículos que se reiteran como parte del grandioso Corán.
+Te he distinguido con la revelación de los siete versículos que se reiteran[^1] como parte del grandioso Corán.
 
-siete versículos que se reiteran: Referencia al capítulo Al Fátihah, el primero del Corán, que se repite en cada una de las cinco oraciones diarias.
+[^1]: Referencia al capítulo Al Fátihah, el primero del Corán, que se repite en cada una de las cinco oraciones diarias.
 
 # 1890
 
@@ -8313,9 +8370,9 @@ pero glorifica con alabanzas a tu Señor y cuéntate entre quienes se prosternan
 
 # 1901
 
-y adora a tu Señor hasta que te llegue la certeza.
+y adora a tu Señor hasta que te llegue la certeza[^1].
 
-la certeza: El término “la certeza” (Al iaqin اليَقِين ) se usa en el Corán para denominar a la muerte.
+[^1]: El término “la certeza” (Al iaqin اليَقِين ) se usa en el Corán para denominar a la muerte.
 
 # 1902
 
@@ -8351,9 +8408,9 @@ Llevan sus cargas a lugares que ustedes no podrían alcanzar sino con mucha difi
 
 # 1910
 
-Dios es Quien enseña cuál es el sendero recto, del que muchos se desvían. Si hubiera querido los habría guiado a todos.
+Dios es Quien enseña cuál es el sendero recto, del que muchos se desvían. Si hubiera querido los habría guiado a todos.[^1]
 
-Pero le concedió a las personas el libre albedrio, para que cada uno elija libremente si sigue o no el camino recto de Dios.
+[^1]: Pero le concedió a las personas el libre albedrio, para que cada uno elija libremente si sigue o no el camino recto de Dios.
 
 # 1911
 
@@ -8377,9 +8434,9 @@ Dios ha creado para beneficio de ustedes la noche, el día, el Sol, la Luna y la
 
 # 1916
 
-Dios afirmó la tierra con montañas para que se estabilizara, dispuso ríos y caminos para que puedan guiarse,
+Dios afirmó la tierra con montañas para que se estabilizara[^1], dispuso ríos y caminos para que puedan guiarse,
 
-para que se estabilizara: La Geología moderna ha comprobado que las montañas tienen raíces profundas debajo de la superficie terrestre, y que esas raíces pueden superar varias veces las dimensiones de la elevación de su superficie terrestre. Por lo tanto, la palabra adecuada para describir a las montañas en base a esta información es “estaca”, siendo que la mayor parte de una estaca correctamente colocada se encuentra bajo la superficie del suelo. Las montañas desempeñan un papel importante en la estabilización de la corteza terrestre, ya que ellas impiden el estremecimiento (movimiento irregular, temblor) de la Tierra.
+[^1]: La Geología moderna ha comprobado que las montañas tienen raíces profundas debajo de la superficie terrestre, y que esas raíces pueden superar varias veces las dimensiones de la elevación de su superficie terrestre. Por lo tanto, la palabra adecuada para describir a las montañas en base a esta información es “estaca”, siendo que la mayor parte de una estaca correctamente colocada se encuentra bajo la superficie del suelo. Las montañas desempeñan un papel importante en la estabilización de la corteza terrestre, ya que ellas impiden el estremecimiento (movimiento irregular, temblor) de la Tierra.
 
 # 1917
 
@@ -8419,9 +8476,9 @@ Cuando se les pregunta [a los idólatras]: "¿Qué opinan sobre lo que ha revela
 
 # 1926
 
-Éstos cargarán con sus propios pecados el Día de la Resurrección, y con parte de los pecados de aquellos a quienes extraviaron y que los siguieron por ignorancia. ¡Qué pésima es la carga que llevarán!
+Éstos cargarán con sus propios pecados el Día de la Resurrección, y con parte de los pecados de aquellos a quienes extraviaron y que los siguieron por ignorancia. ¡Qué pésima es la carga que llevarán![^1]
 
-Este versículo indica que el ser humano cargará con el peso de los pecados que él mismo haya cometido y el pecado de quienes él haya desviado con sus acciones o sus palabras. De igual manera, los que enseñan la buena guía se beneficiarán de sus propias obras y obtendrán recompensa por todo aquel que haya seguido su ejemplo y enseñanza.
+[^1]: Este versículo indica que el ser humano cargará con el peso de los pecados que él mismo haya cometido y el pecado de quienes él haya desviado con sus acciones o sus palabras. De igual manera, los que enseñan la buena guía se beneficiarán de sus propias obras y obtendrán recompensa por todo aquel que haya seguido su ejemplo y enseñanza.
 
 # 1927
 
@@ -8549,9 +8606,9 @@ Ofrecen una parte de cuanto Dios les concede a sus ídolos, y no saben que ellos
 
 # 1958
 
-¡Glorificado sea Dios! Le atribuyen hijas, pero solo desean para sí mismos los hijos varones.
+¡Glorificado sea Dios! Le atribuyen hijas[^1], pero solo desean para sí mismos los hijos varones.
 
-Le atribuyen hijas: Estos idólatras afirmaban que los ángeles eran de sexo femenino y que eran hijas de Dios.
+[^1]: Estos idólatras afirmaban que los ángeles eran de sexo femenino y que eran hijas de Dios.
 
 # 1959
 
@@ -8559,9 +8616,9 @@ Cuando se le anuncia a uno de ellos [el nacimiento de] una niña, se refleja en 
 
 # 1960
 
-por lo que se le ha anunciado, se esconde de la gente avergonzado y duda si la dejará vivir a pesar de su deshonra o la enterrará viva. ¡Qué pésimo es lo que hacen!
+por lo que se le ha anunciado, se esconde de la gente avergonzado y duda si la dejará vivir a pesar de su deshonra o la enterrará viva[^1]. ¡Qué pésimo es lo que hacen!
 
-la enterrará viva: Ver Corán 81:9.
+[^1]: Ver Corán 81:9.
 
 # 1961
 
@@ -8573,9 +8630,9 @@ Si Dios castigara inmediatamente a la gente por sus injusticias, no dejaría nin
 
 # 1963
 
-Le atribuyen a Dios lo que detestan para sí mismos e inventan mentiras diciendo que alcanzarán el bienestar [en esta vida y en la otra]. Ellos serán los primeros en ser arrojados al Fuego.
+Le atribuyen a Dios lo que detestan para sí mismos[^1] e inventan mentiras diciendo que alcanzarán el bienestar [en esta vida y en la otra]. Ellos serán los primeros en ser arrojados al Fuego.
 
-lo que detestan para sí mismos: Referencia a las hijas mujeres.
+[^1]: Referencia a las hijas mujeres.
 
 # 1964
 
@@ -8595,21 +8652,21 @@ En los ganados tienen ustedes un ejemplo [del poder divino]. Les doy a beber de 
 
 # 1968
 
-De los frutos de las palmeras y de las vides se obtiene un embriagante y también un sustento puro. En esto hay un signo para quienes razonan.
+De los frutos de las palmeras y de las vides se obtiene un embriagante y también un sustento puro. En esto hay un signo para quienes razonan.[^1]
 
-Este versículo es cronológicamente previo al que establece la prohibición de las bebidas alcohólicas y embriagantes. Ver Corán 2:219, 4:43 y 5:90-91.
+[^1]: 219, 4:43 y 5:90-91.
 
 # 1969
 
-Tu Señor les inspiró a las abejas: "Habiten en las moradas que hayan construido en las montañas, en los árboles y en las que la gente les construya.
+Tu Señor les inspiró a las abejas[^1]: "Habiten en las moradas que hayan construido en las montañas, en los árboles y en las que la gente les construya.
 
-las abejas: Los machos o zánganos no contribuyen en la elaboración de la miel. Su única función en la colmena es inseminar a la abeja reina. Las abejas obreras tienen a su cargo producir la miel. En la lengua árabe la declinación de los verbos es completa y permite distinguir el género del sujeto, masculino o femenino. Que el Corán utilice sistemáticamente los verbos y declinaciones en femenino al referirse y dirigirse a las abejas indica que conoce que son las hembras las que trabajan en la fabricación de la miel. No debemos olvidar que es imposible que estos datos sobre las abejas fueran conocidos hace 1.400 años. Que Dios haya señalado este hecho es otro milagro del Corán.
+[^1]: Los machos o zánganos no contribuyen en la elaboración de la miel. Su única función en la colmena es inseminar a la abeja reina. Las abejas obreras tienen a su cargo producir la miel. En la lengua árabe la declinación de los verbos es completa y permite distinguir el género del sujeto, masculino o femenino. Que el Corán utilice sistemáticamente los verbos y declinaciones en femenino al referirse y dirigirse a las abejas indica que conoce que son las hembras las que trabajan en la fabricación de la miel. No debemos olvidar que es imposible que estos datos sobre las abejas fueran conocidos hace 1.400 años. Que Dios haya señalado este hecho es otro milagro del Corán.
 
 # 1970
 
-Aliméntense de los frutos y transiten por donde les ha facilitado su Señor". De su abdomen sale un jarabe de diferentes colores que es medicina para la gente. En esto hay un signo para quienes reflexionan.
+Aliméntense de los frutos y transiten por donde les ha facilitado su Señor". De su abdomen sale un jarabe de diferentes colores que es medicina para la gente[^1]. En esto hay un signo para quienes reflexionan.
 
-es medicina para la gente: La miel es una “medicina para la gente” tal como lo establece este versículo. Entre los beneficios de la miel que se conocen en la actualidad encontramos que es de fácil digestión, se difunde rápidamente a través de la sangre, ayuda en la formación de la sangre, tiene efectos positivos en la regulación de la circulación sanguínea, funciona como protección contra problemas en la circulación capilar y la arteriosclerosis, tiene propiedad bactericida, es antioxidante, fuente de vitaminas y minerales, y se utiliza para curar heridas porque la viscosidad de la miel provee una barrera protecTora que impide que las heridas se infecten. Estimula la formación de nuevos vasos capilares y el crecimiento de los fibroblastos que reemplazan el tejido conectivo en las capas más profundas de la piel, así como la producción de fibras de colágeno que fortalecen la reparación del tejido. La miel tiene una acción anti inflamatoria que reduce la hinchazón en torno de las heridas. A diferencia de los antisépticos y los antibióticos, no perjudica el proceso de cicatrización debido a efectos adversos sobre los tejidos lesionados. Se deduce de todos estos datos que la miel tiene grandes propiedades “curativas”. Sin duda es uno de los milagros del Corán que Dios, Exaltado sea, ha revelado.
+[^1]: La miel es una “medicina para la gente” tal como lo establece este versículo. Entre los beneficios de la miel que se conocen en la actualidad encontramos que es de fácil digestión, se difunde rápidamente a través de la sangre, ayuda en la formación de la sangre, tiene efectos positivos en la regulación de la circulación sanguínea, funciona como protección contra problemas en la circulación capilar y la arteriosclerosis, tiene propiedad bactericida, es antioxidante, fuente de vitaminas y minerales, y se utiliza para curar heridas porque la viscosidad de la miel provee una barrera protecTora que impide que las heridas se infecten. Estimula la formación de nuevos vasos capilares y el crecimiento de los fibroblastos que reemplazan el tejido conectivo en las capas más profundas de la piel, así como la producción de fibras de colágeno que fortalecen la reparación del tejido. La miel tiene una acción anti inflamatoria que reduce la hinchazón en torno de las heridas. A diferencia de los antisépticos y los antibióticos, no perjudica el proceso de cicatrización debido a efectos adversos sobre los tejidos lesionados. Se deduce de todos estos datos que la miel tiene grandes propiedades “curativas”. Sin duda es uno de los milagros del Corán que Dios, Exaltado sea, ha revelado.
 
 # 1971
 
@@ -8629,9 +8686,9 @@ En lugar de adorar a Dios, adoran lo que no tiene ni tendrá dominio alguno sobr
 
 # 1975
 
-No comparen a Dios. Dios sabe y ustedes no saben.
+No comparen a Dios[^1]. Dios sabe y ustedes no saben.
 
-No comparen a Dios: El Sagrado Corán establece que la esencia divina y Sus nombres y atributos deben comprenderse a la luz de tres principios. Primero: creer que Dios y Sus atributos no se asemejan a ninguno de los atributos de los seres creados (ver Corán 42:11, 112:4 y 16:74). Segundo: creer en las descripciones que Dios ha hecho de Sí mismo (ver Corán 2:140) y en las descripciones que realizó el Profeta sobre Él, ya que él hablaba con la revelación (ver Corán 53:3-4). Tercero: no pretender comprender la verdadera naturaleza de los atributos divinos, ya que dicha comprensión es imposible para nuestra mente limitada (ver Corán 20:110).
+[^1]: El Sagrado Corán establece que la esencia divina y Sus nombres y atributos deben comprenderse a la luz de tres principios. Primero: creer que Dios y Sus atributos no se asemejan a ninguno de los atributos de los seres creados (ver Corán 42:11, 112:4 y 16:74). Segundo: creer en las descripciones que Dios ha hecho de Sí mismo (ver Corán 2:140) y en las descripciones que realizó el Profeta sobre Él, ya que él hablaba con la revelación (ver Corán 53:3-4). Tercero: no pretender comprender la verdadera naturaleza de los atributos divinos, ya que dicha comprensión es imposible para nuestra mente limitada (ver Corán 20:110).
 
 # 1976
 
@@ -8683,9 +8740,9 @@ Cuando los idólatras vean a sus ídolos dirán: "¡Señor nuestro! Éstos son l
 
 # 1988
 
-Ese día serán entregados a Dios [para que los castigue], y sus mentiras se desvanecerán.
+Ese día serán entregados a Dios [para que los castigue][^1], y sus mentiras se desvanecerán.
 
-serán entregados a Dios [para que los castigue]: Los ídolos que solían adorar.
+[^1]: Los ídolos que solían adorar.
 
 # 1989
 
@@ -8749,9 +8806,9 @@ Diles: "Es el Espíritu Santo [el ángel Gabriel] quien lo ha revelado [por orde
 
 # 2004
 
-Sé muy bien que dicen: "Es un hombre quien se lo transmite [el Corán]". Pero bien saben que el idioma de quien ellos aluden no es el árabe, mientras que éste [Corán] es en árabe puro.
+Sé muy bien que dicen: "Es un hombre quien se lo transmite [el Corán]". Pero bien saben que el idioma de quien ellos aluden no es el árabe, mientras que éste [Corán] es en árabe puro.[^1]
 
-“Es un hombre quien se lo transmite [el Corán]”: Algunos idólatras acusaban a Mujámmad de que un vendedor cristiano que habitaba en La Meca, y no conocía sino poco del idioma árabe, era el que le dictaba el Corán.
+[^1]: Algunos idólatras acusaban a Mujámmad de que un vendedor cristiano que habitaba en La Meca, y no conocía sino poco del idioma árabe, era el que le dictaba el Corán.
 
 # 2005
 
@@ -8763,9 +8820,9 @@ Solamente inventan mentiras quienes no creen en los signos de Dios. Ellos son lo
 
 # 2007
 
-Quienes renieguen de la fe en Dios por haber sido forzados a ello, permaneciendo sus corazones tranquilos [y firmes] en la fe [no serán reprochados]; pero quienes lo hagan y se complazcan con la incredulidad, incurrirán en la ira de Dios y tendrán un castigo terrible,
+Quienes renieguen de la fe en Dios por haber sido forzados a ello, permaneciendo sus corazones tranquilos [y firmes] en la fe [no serán reprochados][^1]; pero quienes lo hagan y se complazcan con la incredulidad, incurrirán en la ira de Dios y tendrán un castigo terrible,
 
-[no serán reprochados]: Los politeístas de La Meca persiguieron y torturaron a uno de los compañeros del Profeta llamado  ́Ammar ibn Yasir hasta que lograron hacerlo pronunciar palabras de incredulidad. Alguna gente comenzó a decir: “ ́Ammar ha caído en la incredulidad”. Sabiendo que eso era incorrecto, el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, dijo: “De hecho,  ́Ammar está lleno de Imán (Fe) desde su cabeza hasta sus pies. Su fe se ha mezclado con su carne y sus huesos”. Luego de que  ́Ammar fue liberado por los incrédulos, fue donde el Profeta llorando. El Mensajero de Dios le preguntó: “¿En qué estado se encuentra tu corazón?”  ́Ammar le respondió: “Está complacido con la fe”. Entonces el Profeta, que la paz y las bendiciones de Dios sean con él, le dijo: “Si vuelven (a perseguirte o torturarte), entonces hazlo nuevamente (di las palabras que te requieran)”.
+[^1]: Los politeístas de La Meca persiguieron y torturaron a uno de los compañeros del Profeta llamado  ́Ammar ibn Yasir hasta que lograron hacerlo pronunciar palabras de incredulidad. Alguna gente comenzó a decir: “ ́Ammar ha caído en la incredulidad”. Sabiendo que eso era incorrecto, el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, dijo: “De hecho,  ́Ammar está lleno de Imán (Fe) desde su cabeza hasta sus pies. Su fe se ha mezclado con su carne y sus huesos”. Luego de que  ́Ammar fue liberado por los incrédulos, fue donde el Profeta llorando. El Mensajero de Dios le preguntó: “¿En qué estado se encuentra tu corazón?”  ́Ammar le respondió: “Está complacido con la fe”. Entonces el Profeta, que la paz y las bendiciones de Dios sean con él, le dijo: “Si vuelven (a perseguirte o torturarte), entonces hazlo nuevamente (di las palabras que te requieran)”.
 
 # 2008
 
@@ -8857,17 +8914,19 @@ Dios está con los piadosos y con los que hacen el bien.
 
 # 2030
 
-Glorificado sea Quien transportó a Su Siervo durante la noche, desde la mezquita sagrada a la mezquita lejana cuyos alrededores bendije, para mostrarle algunos de Mis signos. Él todo lo oye, todo lo ve.
+Glorificado sea Quien transportó a Su Siervo durante la noche, desde la mezquita[^1] sagrada[^2] a la mezquita lejana[^3] cuyos alrededores bendije, para mostrarle algunos de Mis signos. Él todo lo oye, todo lo ve.
 
-mezquita: La palabra “mezquita” (masyid مَسْجِيد ) desde el punto de vista lingüístico en idioma árabe se refiere a un lugar de postración, sin distinción alguna de índole religiosa. Desde el punto de vista jurídico islámico, la palabra “mezquita” constituye todo lugar en la tierra que es apto para postración y adoración de Dios, sea o no un edificio. Este versículo hace referencia a dos lugares santos en Jerusalén y La Meca, ya que son bendecidos independientemente de la presencia o ausencia de un edificio en el momento del viaje nocturno del Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, desde La Meca a Jerusalén, y luego su ascenso a los cielos. 
-sagrada: En La Meca. 
- mezquita lejana: En Jerusalén.
+[^1]: La palabra “mezquita” (masyid مَسْجِيد ) desde el punto de vista lingüístico en idioma árabe se refiere a un lugar de postración, sin distinción alguna de índole religiosa. Desde el punto de vista jurídico islámico, la palabra “mezquita” constituye todo lugar en la tierra que es apto para postración y adoración de Dios, sea o no un edificio. Este versículo hace referencia a dos lugares santos en Jerusalén y La Meca, ya que son bendecidos independientemente de la presencia o ausencia de un edificio en el momento del viaje nocturno del Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, desde La Meca a Jerusalén, y luego su ascenso a los cielos.
+
+[^2]: En La Meca.
+
+[^3]: En Jerusalén.
 
 # 2031
 
-He revelado a Moisés el Libro como guía para el pueblo de Israel, y les ordené: "No tomen protector fuera de Mí".
+He revelado a Moisés el Libro[^1] como guía para el pueblo de Israel, y les ordené: "No tomen protector fuera de Mí".
 
-a Moisés el Libro: La Tora.
+[^1]: La Tora.
 
 # 2032
 
@@ -8887,9 +8946,9 @@ Luego les permitiré que retornen a sus hogares [victoriosos] expulsándolos. Lo
 
 # 2036
 
-Si obran bien será en beneficio propio, pero si obran mal será en contra suya. Cuando corrompan por segunda vez, los vencerán [sus enemigos] e ingresarán al Templo como lo hicieron la primera vez y devastarán todo lo que encuentren.
+Si obran bien será en beneficio propio, pero si obran mal será en contra suya. Cuando corrompan por segunda vez, los vencerán [sus enemigos] e ingresarán al Templo[^1] como lo hicieron la primera vez y devastarán todo lo que encuentren.
 
-ingresarán al Templo: De Jerusalén.
+[^1]: De Jerusalén.
 
 # 2037
 
@@ -8905,9 +8964,9 @@ Pero a quienes no crean en la otra vida les he preparado un castigo doloroso.
 
 # 2040
 
-El ser humano ruega a Dios el mal con la misma facilidad con que ruega pidiendo el bien: el ser humano es muy precipitado.
+El ser humano ruega a Dios el mal[^1] con la misma facilidad con que ruega pidiendo el bien: el ser humano es muy precipitado.
 
-ruega a Dios el mal: Como cuando una persona maldice o reniega de su suerte.
+[^1]: Como cuando una persona maldice o reniega de su suerte.
 
 # 2041
 
@@ -8923,9 +8982,9 @@ Todo ser humano será responsable por sus actos, y el Día de la Resurrección l
 
 # 2044
 
-Quien siga la guía será en beneficio propio, pero quien se desvíe solo se perjudicará a sí mismo. Nadie cargará con pecados ajenos. No he castigado a ningún pueblo sin antes haberle enviado un Mensajero.
+Quien siga la guía será en beneficio propio, pero quien se desvíe solo se perjudicará a sí mismo. Nadie cargará con pecados ajenos. No he castigado a ningún pueblo sin antes haberle enviado un Mensajero.[^1]
 
-Acorde a la teología islámica, la persona que oye y comprende correctamente el mensaje del Islam, y conscientemente lo niega o rechaza, es considerado un incrédulo (kafir) y ha de morar eternamente en el fuego del Infierno, y no ha de tener excusa el Día de Resurrección. Pero aquellos que no alcancen a escuchar y comprender el mensaje del Islam por cualquier razón, como vivir en áreas remotas o porque tenían un impedimento físico o psicológico, o porque el mensaje del Islam los alcanzó cuando eran demasiado ancianos para comprender, no serán castigados en el Día de la Resurrección hasta que hayan sido probados. Se menciona en la Tradición Profética que el Mensajero de Dios, que la paz y las bendiciones de Dios sean con él, dijo: “Existen cuatro personas que serán excusadas en el Día de Resurrección: el sordo, el deficiente mental, el anciano, y quien no haya sido alcanzado por el mensaje. El sordo dirá: ‘¡Señor! El mensaje del Islam llegó, pero no pude oírlo’. El deficiente mental dirá: ‘¡Señor! El Islam llegó, pero los jóvenes se burlaban de mí’. El anciano dirá: ‘¡Señor! El Islam llegó, pero yo ya no podía comprender’. Aquel que no tuvo acceso al mensaje dirá: ‘¡Señor! Ningún Mensajero llegó hasta mí’. Entonces Dios les hará jurar obediencia, y luego les ordenará ingresar al fuego [esa será la prueba]. Y por aquel en cuyas manos se encuentra el alma de Mujámmad, cuando entren en él, éste será fresco y seguro para ellos”. Registrado por Ahmad en su libro Al Musnad.
+[^1]: “Existen cuatro personas que serán excusadas en el Día de Resurrección: el sordo, el deficiente mental, el anciano, y quien no haya sido alcanzado por el mensaje. El sordo dirá: ‘¡Señor! El mensaje del Islam llegó, pero no pude oírlo’. El deficiente mental dirá: ‘¡Señor! El Islam llegó, pero los jóvenes se burlaban de mí’. El anciano dirá: ‘¡Señor! El Islam llegó, pero yo ya no podía comprender’. Aquel que no tuvo acceso al mensaje dirá: ‘¡Señor! Ningún Mensajero llegó hasta mí’. Entonces Dios les hará jurar obediencia, y luego les ordenará ingresar al fuego [esa será la prueba]. Y por aquel en cuyas manos se encuentra el alma de Mujámmad, cuando entren en él, éste será fresco y seguro para ellos”. Registrado por Ahmad en su libro Al Musnad.
 
 # 2045
 
@@ -8945,10 +9004,11 @@ Mientras que a quienes anhelen la vida del más allá, sean creyentes y se esfue
 
 # 2049
 
-A todos [en esta vida] se les concederá de los favores de tu Señor, a los unos y a los otros. Sus favores no le son vedados a nadie.
+A todos [en esta vida] se les concederá de los favores de tu Señor, a los unos[^1] y a los otros[^2]. Sus favores no le son vedados a nadie.
 
-a los unos: Los creyentes
-a los otros: Los que niegan Su existencia, Su unicidad e incluso a los que Lo asocian en la divinidad y adoran falsas deidades.
+[^1]: Los creyentes
+
+[^2]: Los que niegan Su existencia, Su unicidad e incluso a los que Lo asocian en la divinidad y adoran falsas deidades.
 
 # 2050
 
@@ -8992,9 +9052,9 @@ Tu Señor concede un sustento abundante a quien quiere, y se lo restringe a quie
 
 # 2060
 
-No maten a sus hijos por temor a la pobreza. Yo los sustento a ellos y a ustedes. Matarlos es un pecado gravísimo.
+No maten a sus hijos por temor a la pobreza[^1]. Yo los sustento a ellos y a ustedes. Matarlos es un pecado gravísimo.
 
-por temor a la pobreza: Esta prohibición tiene carácter eterno, lo cual implica el aborto por “miedo a la pobreza”, es decir, por motivos económicos.
+[^1]: Esta prohibición tiene carácter eterno, lo cual implica el aborto por “miedo a la pobreza”, es decir, por motivos económicos.
 
 # 2061
 
@@ -9002,10 +9062,11 @@ No se acerquen a lo que lleve a la fornicación, pues es una inmoralidad y un ma
 
 # 2062
 
-No maten, pues Dios lo ha prohibido, salvo con motivo justo. A quien se le dé muerte injustamente le concedo a su familiar directo o apoderado el derecho, pero que éste no mate buscando venganza. Su derecho [a exigir justicia] está legalmente garantizado.
+No maten, pues Dios lo ha prohibido, salvo con motivo justo. A quien se le dé muerte injustamente le concedo a su familiar directo o apoderado el derecho[^1], pero que éste no mate buscando venganza[^2]. Su derecho [a exigir justicia] está legalmente garantizado.
 
-le concedo a su familiar directo o apoderado el derecho: Que exija y gestione justicia para castigar al culpable, para que sea ejecutado u ofrezca una indemnización según el caso. 
-no mate buscando venganza: No puede buscarse la justicia por mano propia, sino que debe recurrirse a las autoridades establecidas en cada sociedad.
+[^1]: Que exija y gestione justicia para castigar al culpable, para que sea ejecutado u ofrezca una indemnización según el caso.
+
+[^2]: No puede buscarse la justicia por mano propia, sino que debe recurrirse a las autoridades establecidas en cada sociedad.
 
 # 2063
 
@@ -9033,9 +9094,9 @@ Esto es parte de la sabiduría que tu Señor te ha revelado. No adoren a nadie j
 
 # 2069
 
-¿Acaso creen que su Señor prefirió para ustedes los hijos varones y para Sí hijas que son los ángeles? Lo que dicen es muy grave.
+¿Acaso creen que su Señor prefirió para ustedes los hijos varones y para Sí hijas que son los ángeles[^1]? Lo que dicen es muy grave.
 
-hijas que son los ángeles: Algunos idólatras paganos afirmaban que los ángeles eran las hijas de Dios.
+[^1]: Algunos idólatras paganos afirmaban que los ángeles eran las hijas de Dios.
 
 # 2070
 
@@ -9115,15 +9176,15 @@ No les envié los milagros que pedían porque los desmentirían como lo hicieron
 
 # 2089
 
-Cuando te dije [¡oh, Mujámmad!]: "Tu Señor tiene poder total sobre las personas [y Él te protegerá]". Lo que te mostré y el árbol maldito mencionado en el Corán, no es sino para probar la fe de las personas. Los atemorizo [con Mis signos], pero esto les incrementó aún más su desobediencia.
+Cuando te dije [¡oh, Mujámmad!]: "Tu Señor tiene poder total sobre las personas [y Él te protegerá]". Lo que te mostré[^1] y el árbol maldito mencionado en el Corán, no es sino para probar la fe de las personas. Los atemorizo [con Mis signos], pero esto les incrementó aún más su desobediencia.
 
-Lo que te mostré: La noche de tu ascensión a los cielos.
+[^1]: La noche de tu ascensión a los cielos.
 
 # 2090
 
-[Recuerda] cuando dije a los ángeles: "Hagan una reverencia ante Adán". Todos hicieron la reverencia excepto Iblís, quien dijo: "¿Acaso voy a hacer una reverencia ante quien has creado de barro?"
+[Recuerda] cuando dije a los ángeles: "Hagan una reverencia ante Adán". Todos hicieron la reverencia excepto Iblís, quien dijo: "¿Acaso voy a hacer una reverencia ante quien has creado de barro?"[^1]
 
-El demonio fue el primer ser en discriminar a un ser humano por su origen. La mayor enseñanza que extraemos de aquí es que quien discrimina a una persona por su origen o por la forma en que fue creada por Dios, está siguiendo el ejemplo de su antecesor, el demonio.
+[^1]: El demonio fue el primer ser en discriminar a un ser humano por su origen. La mayor enseñanza que extraemos de aquí es que quien discrimina a una persona por su origen o por la forma en que fue creada por Dios, está siguiendo el ejemplo de su antecesor, el demonio.
 
 # 2091
 
@@ -9135,9 +9196,9 @@ Dijo [Dios]: "¡Vete! Y quienes de ellos te sigan merecerán el Infierno, pues e
 
 # 2093
 
-Seduce con tus palabras a quien puedas de ellos, arremete con tu caballería y con tu infantería. Hazte su socio inseparable en sus bienes e hijos y hazles las promesas que quieras. Pero sepan que el demonio solo hace promesas falsas".
+Seduce con tus palabras a quien puedas de ellos, arremete con tu caballería y con tu infantería. Hazte su socio inseparable en sus bienes e hijos y hazles las promesas que quieras. Pero sepan que el demonio solo hace promesas falsas".[^1]
 
-Su poder sobre ellos no se basa en pruebas o argumentos, sino que simplemente los incita a cometer acciones según sus propios deseos y pasiones. Son ellos los que permiten a su verdadero enemigo, el demonio, convertirse en su aliado y amo. Cuando se entregan a él, le dan control sobre sus personas. Dios no le concedió al demonio poder sobre ningún ser humano, hasta que éste se entregue a sí mismo obedeciéndolo y asociándolo con Dios. Solo entonces Dios permite al demonio subyugar al ser humano dominándolo.
+[^1]: Su poder sobre ellos no se basa en pruebas o argumentos, sino que simplemente los incita a cometer acciones según sus propios deseos y pasiones. Son ellos los que permiten a su verdadero enemigo, el demonio, convertirse en su aliado y amo. Cuando se entregan a él, le dan control sobre sus personas. Dios no le concedió al demonio poder sobre ningún ser humano, hasta que éste se entregue a sí mismo obedeciéndolo y asociándolo con Dios. Solo entonces Dios permite al demonio subyugar al ser humano dominándolo.
 
 # 2094
 
@@ -9165,9 +9226,9 @@ He honrado a los hijos de Adán y les he facilitado los medios para viajar por l
 
 # 2100
 
-El día que convoque a todos los seres humanos junto a sus guías y les entregue sus registros, a quien le sea entregado el libro de sus obras en la derecha, [se alegrará] leyendo su libro porque verá que no ha sido defraudado en lo más mínimo.
+El día que convoque a todos los seres humanos junto a sus guías[^1] y les entregue sus registros, a quien le sea entregado el libro de sus obras en la derecha, [se alegrará] leyendo su libro porque verá que no ha sido defraudado en lo más mínimo.
 
-sus guías: Sus Profetas o los Libros Sagrados que solían seguir.
+[^1]: Sus Profetas o los Libros Sagrados que solían seguir.
 
 # 2101
 
@@ -9183,9 +9244,9 @@ Si no te hubiera fortalecido, te habrías inclinado a aceptar parte de sus petic
 
 # 2104
 
-Y si hubieras cedido en algo, te habría hecho sufrir un castigo doble en esta vida y en la otra. No hubieras encontrado quién te protegiera de Mí.
+Y si hubieras cedido en algo, te habría hecho sufrir un castigo[^1] doble en esta vida y en la otra. No hubieras encontrado quién te protegiera de Mí.
 
-te habría hecho sufrir un castigo: El hecho de que el Corán reprenda a Mujámmad y le advierta, es una prueba más de que Mujámmad no es el autor del Corán.
+[^1]: El hecho de que el Corán reprenda a Mujámmad y le advierta, es una prueba más de que Mujámmad no es el autor del Corán.
 
 # 2105
 
@@ -9205,9 +9266,9 @@ También levántate parte de la noche a realizar oraciones voluntarias, para que
 
 # 2109
 
-Di: "¡Señor mío! Concédeme una entrada y una salida dignas [en todos los asuntos de mi vida], y concédeme los medios para lograr el triunfo".
+Di: "¡Señor mío! Concédeme una entrada y una salida dignas [en todos los asuntos de mi vida], y concédeme los medios para lograr el triunfo".[^1]
 
-En este versículo Dios le ordena al Profeta, que la paz y las bendiciones de Dios sean con él, que emigre de La Meca a Medina, por lo que “una salida digna” es la salida de La Meca, y “una entrada digna” es la entrada a Medina.
+[^1]: En este versículo Dios le ordena al Profeta, que la paz y las bendiciones de Dios sean con él, que emigre de La Meca a Medina, por lo que “una salida digna” es la salida de La Meca, y “una entrada digna” es la entrada a Medina.
 
 # 2110
 
@@ -9227,15 +9288,15 @@ Diles: "Que cada uno obre como le plazca, pero sepan que su Señor conoce a quie
 
 # 2114
 
-Te preguntan acerca del espíritu. Diles: "El espíritu es una de las creaciones de Dios, de las que solo Él tiene conocimiento. No se les ha permitido acceder sino a una pequeña parte del inmenso conocimiento de Dios".
+Te preguntan acerca del espíritu. Diles: "El espíritu es una de las creaciones de Dios, de las que solo Él tiene conocimiento. No se les ha permitido acceder sino a una pequeña parte del inmenso conocimiento de Dios".[^1]
 
-Todo conocimiento descubierto será siempre pequeño comparado con la dimensión de los secretos y misterios del universo, todos abarcados por el conocimiento del Creador, el Eterno. Porque Su conocimiento es infinito, mientras que la comprensión humana es limitada.
+[^1]: Todo conocimiento descubierto será siempre pequeño comparado con la dimensión de los secretos y misterios del universo, todos abarcados por el conocimiento del Creador, el Eterno. Porque Su conocimiento es infinito, mientras que la comprensión humana es limitada.
 
 # 2115
 
-Si quisiera, borraría todo lo que te he revelado, y entonces no encontrarías quién abogara por ti ante Mí [para que lo pudieras recordar].
+Si quisiera, borraría todo lo que te he revelado[^1], y entonces no encontrarías quién abogara por ti ante Mí [para que lo pudieras recordar].
 
-todo lo que te he revelado: Tanto de los libros como de la memoria de las personas.
+[^1]: Tanto de los libros como de la memoria de las personas.
 
 # 2116
 
@@ -9263,9 +9324,9 @@ o hagas descender sobre nosotros un castigo del cielo como advertiste, o nos tra
 
 # 2122
 
-o poseas una casa de oro o asciendas al cielo, y aun así no creeremos en ti a menos que nos traigas del cielo un libro que podamos leer". Diles: "¡Glorificado sea mi Señor! Pero, ¿no soy acaso solo un ser humano enviado como Mensajero?"
+o poseas una casa de oro o asciendas al cielo, y aun así no creeremos en ti a menos que nos traigas del cielo un libro que podamos leer[^1]". Diles: "¡Glorificado sea mi Señor! Pero, ¿no soy acaso solo un ser humano enviado como Mensajero?"
 
-un libro que podamos leer: En el que se mencione que tú eres un Profeta de Dios.
+[^1]: En el que se mencione que tú eres un Profeta de Dios.
 
 # 2123
 
@@ -9305,9 +9366,9 @@ Dijo [Moisés]: "Tú sabes bien que solo el Señor de los cielos y de la Tierra 
 
 # 2132
 
-[El Faraón] quiso expulsarlos de la tierra, pero lo ahogué junto a su ejército.
+[El Faraón] quiso expulsarlos de la tierra[^1], pero lo ahogué junto a su ejército.
 
-quiso expulsarlos de la tierra: Egipto.
+[^1]: Egipto.
 
 # 2133
 
@@ -9343,9 +9404,9 @@ Di: "¡Alabado sea Dios! Él no tiene ningún hijo ni tiene asociado alguno en S
 
 # 2141
 
-¡Alabado sea Dios! Quien ha revelado a Su siervo el Libro en el que no hay contradicciones ni defectos,
+¡Alabado sea Dios! Quien ha revelado a Su siervo el Libro en el que no hay contradicciones ni defectos,[^1]
 
-Ver Corán 4:82.
+[^1]: 82.
 
 # 2142
 
@@ -9365,9 +9426,9 @@ No tienen conocimiento sobre eso ni lo tenían sus antepasados. ¡Qué graves pa
 
 # 2146
 
-¿Acaso vas a dejar que te consuma la pena si ellos se niegan a creer en estas palabras?
+¿Acaso vas a dejar que te consuma la pena si ellos se niegan a creer en estas palabras[^1]?
 
-en estas palabras: La revelación del Sagrado Corán.
+[^1]: La revelación del Sagrado Corán.
 
 # 2147
 
@@ -9379,9 +9440,9 @@ pero luego la convertiré en un terreno árido.
 
 # 2149
 
-¿Acaso consideras [¡oh, Mujámmad!] que la historia de los jóvenes de la caverna y [su devoción por] la escritura fue uno de Mis milagros más sorprendentes?
+¿Acaso consideras [¡oh, Mujámmad!] que la historia de los jóvenes de la caverna y [su devoción por] la escritura fue uno de Mis milagros más sorprendentes?[^1]
 
-Los exégetas del Corán mencionan distintas interpretaciones sobre la identidad de estos jóvenes creyentes. Una de las versiones es que se trataría de un grupo de judíos, de los siglos inmediatamente anteriores o posteriores al advenimiento de Jesús: la Hermandad de los Esenios y en particular a una de sus ramas, que tenía su asentamiento en las inmediaciones del mar Muerto, apartada de la sociedad, y a la que se ha dado, a raíz del descubrimiento de los Rollos del mar Muerto, el nombre de “la comunidad de Qumrán”. La expresión ar-raqimالرَّقيم que aparece en este versículo coránico, y que he traducido como “escritura”, confirmaría esta interpretación. Así lo menciona el exégeta At-Tabari, que Ibn Abbas consideraba esta expresión sinónima de marqum مَرْقُوم " algo escrito”, y por ende de kitab كِتَاب "una escritura” o “un libro”. Dado que está históricamente probado que los miembros de la comunidad de Qumrán estaban dedicados por entero a estudiar, copiar y preservar las sagradas escrituras.
+[^1]: la Hermandad de los Esenios y en particular a una de sus ramas, que tenía su asentamiento en las inmediaciones del mar Muerto, apartada de la sociedad, y a la que se ha dado, a raíz del descubrimiento de los Rollos del mar Muerto, el nombre de “la comunidad de Qumrán”. La expresión ar-raqimالرَّقيم que aparece en este versículo coránico, y que he traducido como “escritura”, confirmaría esta interpretación. Así lo menciona el exégeta At-Tabari, que Ibn Abbas consideraba esta expresión sinónima de marqum مَرْقُوم " algo escrito”, y por ende de kitab كِتَاب "una escritura” o “un libro”. Dado que está históricamente probado que los miembros de la comunidad de Qumrán estaban dedicados por entero a estudiar, copiar y preservar las sagradas escrituras.
 
 # 2150
 
@@ -9429,10 +9490,11 @@ porque si se enteran de nuestra presencia nos apedrearán o nos obligarán a reg
 
 # 2161
 
-Pero hice que los descubrieran para que supieran que la promesa de Dios es verdadera, y que la Hora del Juicio es indubitable [y luego los hice morir]. Fue entonces cuando los habitantes del pueblo discutieron acerca de ellos. Algunos dijeron: "Construyan una pared que bloquee la entrada de la cueva, pues solo Dios sabe la verdad sobre ellos". Pero aquellos cuya opinión prevaleció dijeron: "Construyamos sobre ellos un oratorio".
+Pero hice que los descubrieran para que supieran que la promesa de Dios es verdadera, y que la Hora del Juicio es indubitable [y luego los hice morir]. Fue entonces cuando los habitantes del pueblo discutieron acerca de ellos[^1]. Algunos dijeron: "Construyan una pared que bloquee la entrada de la cueva, pues solo Dios sabe la verdad sobre ellos". Pero aquellos cuya opinión prevaleció dijeron: "Construyamos sobre ellos un oratorio".[^2]
 
-los habitantes del pueblo discutieron acerca de ellos: Algunas personas del pueblo, al ver el milagro, creyeron en la veracidad de la historia, mientras que otras rechazaron la idea de que hubieran dormido allí más de 300 años.
-“Construyamos sobre ellos un oratorio”: Dijo Ibn Kazir en su exégesis del Corán: “Es evidente que estas palabras corresponden a los gobernantes; pero, ¿se los debe elogiar por esa opinión o no? La verdad es que no, porque el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, dijo: ‘Dios ha maldecido a aquellos judíos y cristianos que tomaron la tumba de sus profetas y santos como lugares de adoración’, advirtiendo contra esa acción.
+[^1]: Algunas personas del pueblo, al ver el milagro, creyeron en la veracidad de la historia, mientras que otras rechazaron la idea de que hubieran dormido allí más de 300 años.
+
+[^2]: Dijo Ibn Kazir en su exégesis del Corán: “Es evidente que estas palabras corresponden a los gobernantes; pero, ¿se los debe elogiar por esa opinión o no? La verdad es que no, porque el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, dijo: ‘Dios ha maldecido a aquellos judíos y cristianos que tomaron la tumba de sus profetas y santos como lugares de adoración’, advirtiendo contra esa acción.
 
 # 2162
 
@@ -9448,15 +9510,15 @@ Salvo que agregues: "¡Si Dios quiere!" Pero si te olvidas de mencionar a tu Se�
 
 # 2165
 
-Permanecieron en su caverna trescientos años y nueve más.
+Permanecieron en su caverna trescientos años y nueve más.[^1]
 
-Se consideran trescientos años en el calendario solar, pero el mismo período en el calendario lunar equivale a trescientos nueve años.
+[^1]: Se consideran trescientos años en el calendario solar, pero el mismo período en el calendario lunar equivale a trescientos nueve años.
 
 # 2166
 
-Diles: "Dios es Quien realmente sabe cuánto permanecieron. Él conoce los secretos de los cielos y de la Tierra; Él todo lo ve, todo lo oye. No tienen protector fuera de Él, y Él no asocia a nadie en Sus decisiones".
+Diles[^1]: "Dios es Quien realmente sabe cuánto permanecieron. Él conoce los secretos de los cielos y de la Tierra; Él todo lo ve, todo lo oye. No tienen protector fuera de Él, y Él no asocia a nadie en Sus decisiones".
 
-Diles: A los que discrepan y discuten sobre cuántos años permanecieron en la caverna.
+[^1]: A los que discrepan y discuten sobre cuántos años permanecieron en la caverna.
 
 # 2167
 
@@ -9480,9 +9542,9 @@ Ellos alcanzarán los Jardines del Edén por donde corren ríos. Serán engalana
 
 # 2172
 
-Exponles el ejemplo de dos hombres. Al incrédulo le concedí dos viñedos cercados con palmeras y en medio de ambos un sembrado.
+Exponles el ejemplo de dos hombres[^1]. Al incrédulo le concedí dos viñedos cercados con palmeras y en medio de ambos un sembrado.
 
-ejemplo de dos hombres: Uno idólatra desagradecido, y otro creyente agradecido con su Señor.
+[^1]: Uno idólatra desagradecido, y otro creyente agradecido con su Señor.
 
 # 2173
 
@@ -9502,9 +9564,9 @@ tampoco creo que jamás llegue la Hora [del Día del Juicio]. Pero si llego a se
 
 # 2177
 
-El creyente con quien hablaba le preguntó [haciéndolo reflexionar]: "¿No crees en Quien ha creado a tu padre de polvo, luego a toda su descendencia de un óvulo fecundado, y te ha dado la forma de un ser humano con todas sus facultades?
+El creyente con quien hablaba le preguntó [haciéndolo reflexionar]: "¿No crees en Quien ha creado a tu padre[^1] de polvo, luego a toda su descendencia de un óvulo fecundado, y te ha dado la forma de un ser humano con todas sus facultades?
 
-a tu padre: El primer ser humano creado.
+[^1]: El primer ser humano creado.
 
 # 2178
 
@@ -9524,9 +9586,9 @@ o que el agua del río que hay entre ellos sea absorbida por la tierra y no pued
 
 # 2182
 
-Y en efecto, sus frutos fueron destruidos. [Él] se golpeaba las manos lamentándose por lo que había invertido en ellos, y ahora estaban allí devastados. Entonces dijo: "No debería haber igualado a otros junto a mi Señor".
+Y en efecto, sus frutos fueron destruidos. [Él] se golpeaba las manos lamentándose por lo que había invertido en ellos, y ahora estaban allí devastados. Entonces dijo: "No debería haber igualado a otros junto a mi Señor".[^1]
 
-Porque en lugar de atribuir su prosperidad a Dios, se la atribuyó a sí mismo y rechazó que fuera a ser juzgado por Dios.
+[^1]: Porque en lugar de atribuir su prosperidad a Dios, se la atribuyó a sí mismo y rechazó que fuera a ser juzgado por Dios.
 
 # 2183
 
@@ -9598,16 +9660,17 @@ A otras ciudades de la antigüedad las destruí cuando comenzaron a cometer inju
 
 # 2200
 
-[Recuerda] cuando Moisés dijo a su fiel servidor: "No desistiré hasta que llegue a la confluencia de los dos mares, aunque esto me lleve muchos años".
+[Recuerda] cuando Moisés dijo a su fiel servidor[^1]: "No desistiré hasta que llegue a la confluencia de los dos mares[^2], aunque esto me lleve muchos años".
 
-fiel servidor: Josué, Iusha’ Bin Nun.
-a la confluencia de los dos mares: Porque Dios le había revelado que encontraría allí a un siervo Suyo a quien Él había agraciado con otros conocimientos, y la señal que le indicaría el lugar donde lo encontraría era que perderían un pescado que llevaban como alimento.
+[^1]: Josué, Iusha’ Bin Nun.
+
+[^2]: Porque Dios le había revelado que encontraría allí a un siervo Suyo a quien Él había agraciado con otros conocimientos, y la señal que le indicaría el lugar donde lo encontraría era que perderían un pescado que llevaban como alimento.
 
 # 2201
 
-Pero cuando alcanzaron la confluencia se olvidaron del pescado, al que Dios resucitó y emprendió milagrosamente el camino hacia el mar.
+Pero cuando alcanzaron la confluencia se olvidaron del pescado[^1], al que Dios resucitó y emprendió milagrosamente el camino hacia el mar.
 
-pescado: Que llevaban como alimento para el viaje.
+[^1]: Que llevaban como alimento para el viaje.
 
 # 2202
 
@@ -9623,9 +9686,9 @@ Dijo [Moisés]: "Esa es la señal que buscábamos", y regresaron sobre sus huell
 
 # 2205
 
-Encontraron a uno de Mis siervos [Al Jidr] a quien había agraciado con Mi misericordia y enseñado ciertos conocimientos [que Moisés no poseía].
+Encontraron a uno de Mis siervos [Al Jidr[^1]] a quien había agraciado con Mi misericordia y enseñado ciertos conocimientos [que Moisés no poseía].
 
-Al Jidr: Al Jidr fue un siervo piadoso que compartió un viaje con el Profeta Moisés. Los sabios consideran que se trataba de un Profeta contemporáneo a Moisés por varias causas: Primero, porque Dios dice que le concedió una misericordia y un conocimiento especial, lo que en lenguaje coránico se utiliza para describir la profecía. Segundo, porque le dijo a Moisés: “Si me sigues, no me preguntes sobre nada que haga hasta que yo te haga mención de ello”. Si no fuera Profeta, no hubiera estado protegido de cometer errores, y no hubiera tenido Moisés –que era uno de los grandes Profetas y un noble Mensajero y estaba exento de errores en la transmisión del Mensaje– que permanecer callado ante las acciones de Al Jidr, que contravenían la legislación que él había recibido de Dios. Tercero, porque Al Jidr quitó la vida a un joven, y esto no podría ser sino por revelación de Dios, porque una persona piadosa no puede decidir quitarle la vida a alguien debido a que sus pensamientos no están exentos del error. Cuarto, porque cuando Al Jidr le explicó sus acciones a Moisés, le aclaró que no había actuado por iniciativa propia, es decir, que no lo había hecho por propia decisión, sino que le había sido ordenado por inspiración.
+[^1]: Al Jidr fue un siervo piadoso que compartió un viaje con el Profeta Moisés. Los sabios consideran que se trataba de un Profeta contemporáneo a Moisés por varias causas: Primero, porque Dios dice que le concedió una misericordia y un conocimiento especial, lo que en lenguaje coránico se utiliza para describir la profecía. Segundo, porque le dijo a Moisés: “Si me sigues, no me preguntes sobre nada que haga hasta que yo te haga mención de ello”. Si no fuera Profeta, no hubiera estado protegido de cometer errores, y no hubiera tenido Moisés –que era uno de los grandes Profetas y un noble Mensajero y estaba exento de errores en la transmisión del Mensaje– que permanecer callado ante las acciones de Al Jidr, que contravenían la legislación que él había recibido de Dios. Tercero, porque Al Jidr quitó la vida a un joven, y esto no podría ser sino por revelación de Dios, porque una persona piadosa no puede decidir quitarle la vida a alguien debido a que sus pensamientos no están exentos del error. Cuarto, porque cuando Al Jidr le explicó sus acciones a Moisés, le aclaró que no había actuado por iniciativa propia, es decir, que no lo había hecho por propia decisión, sino que le había sido ordenado por inspiración.
 
 # 2206
 
@@ -9673,9 +9736,9 @@ Dijo [Moisés]: "Si volviera a preguntarte acerca de algo después de esto, ya n
 
 # 2217
 
-Partieron hasta que llegaron a un pueblo y pidieron a sus habitantes que los alimentaran, pero se negaron a darles hospitalidad. Luego encontraron en el pueblo un muro que estaba a punto de derrumbarse, y [Al Jidr] lo reconstruyó. Le dijo [Moisés]: "Si hubieras querido, podrías haber pedido una paga por ello".
+Partieron hasta que llegaron a un pueblo y pidieron a sus habitantes que los alimentaran[^1], pero se negaron a darles hospitalidad. Luego encontraron en el pueblo un muro que estaba a punto de derrumbarse, y [Al Jidr] lo reconstruyó. Le dijo [Moisés]: "Si hubieras querido, podrías haber pedido una paga por ello".
 
-que los alimentaran: Como se alimenta a los forasteros.
+[^1]: Como se alimenta a los forasteros.
 
 # 2218
 
@@ -9695,15 +9758,15 @@ Quiso su Señor concederles en su lugar otro hijo más puro y bondadoso.
 
 # 2222
 
-En cuanto al muro, pertenecía a dos jóvenes huérfanos del pueblo. Debajo de él había un tesoro que les pertenecía. Su padre había sido un hombre piadoso y tu Señor quiso que cuando alcanzaran la madurez encontraran el tesoro, como una misericordia de tu Señor. Yo no lo hice por iniciativa propia. Ésta es la interpretación de aquello sobre lo que no tuviste paciencia".
+En cuanto al muro, pertenecía a dos jóvenes huérfanos del pueblo. Debajo de él había un tesoro que les pertenecía. Su padre había sido un hombre piadoso[^1] y tu Señor quiso que cuando alcanzaran la madurez encontraran el tesoro, como una misericordia de tu Señor. Yo no lo hice por iniciativa propia. Ésta es la interpretación de aquello sobre lo que no tuviste paciencia".
 
-Su padre había sido un hombre piadoso: Como recompensa para este padre piadoso, Dios fue generoso y misericordioso con sus hijos.
+[^1]: Como recompensa para este padre piadoso, Dios fue generoso y misericordioso con sus hijos.
 
 # 2223
 
-Te preguntan [¡oh, Mujámmad!] acerca de Dhul Qarnain. Diles: "Voy a relatarles una parte de su historia".
+Te preguntan [¡oh, Mujámmad!] acerca de Dhul Qarnain[^1]. Diles: "Voy a relatarles una parte de su historia".
 
-Dhul Qarnain: Dhul Qarnain significa “el bicorne” o “el de las dos épocas”, ya que el nombre árabe qarn قَرْن significa tanto “cuerno” como “generación”, “época”, “era” o “siglo”. Los comentaristas clásicos se inclinan por el primero de estos significados. Los “dos cuernos” podrían designar las dos fuentes de poder de que estaba dotado Dhul Qarnain: el poder mundanal y la fuerza espiritual, fruto de su fe en Dios. Esto hace que sea imposible identificar a Dhul Qarnain, como hacen algunos comentaristas, con Alejandro Magno, quien aparece representado en algunos retratos o monedas de la época con dos cuernos, ya que lo que es conocido de ese personaje histórico es que era pagano y, como tal, adoraba a una pluralidad de divinidades, mientras que el Corán representa a Dhul Qarnain como un creyente firme en el Dios Único. Y Dios sabe más.
+[^1]: Dhul Qarnain significa “el bicorne” o “el de las dos épocas”, ya que el nombre árabe qarn قَرْن significa tanto “cuerno” como “generación”, “época”, “era” o “siglo”. Los comentaristas clásicos se inclinan por el primero de estos significados. Los “dos cuernos” podrían designar las dos fuentes de poder de que estaba dotado Dhul Qarnain: el poder mundanal y la fuerza espiritual, fruto de su fe en Dios. Esto hace que sea imposible identificar a Dhul Qarnain, como hacen algunos comentaristas, con Alejandro Magno, quien aparece representado en algunos retratos o monedas de la época con dos cuernos, ya que lo que es conocido de ese personaje histórico es que era pagano y, como tal, adoraba a una pluralidad de divinidades, mientras que el Corán representa a Dhul Qarnain como un creyente firme en el Dios Único. Y Dios sabe más.
 
 # 2224
 
@@ -9715,9 +9778,9 @@ Le concedí poder en la Tierra y le facilité los medios [para que siguiera el c
 
 # 2226
 
-hasta alcanzar la parte más occidental, donde vio que el Sol se ocultaba en un manantial cálido, y encontró allí un pueblo [que cometía toda clase de injusticias]. Le inspiré: "¡Oh, Dhul Qarnain! Puedes castigarlos o tratarlos con benevolencia".
+hasta alcanzar la parte más occidental, donde vio que el Sol se ocultaba en un manantial cálido, y encontró allí un pueblo [que cometía toda clase de injusticias]. Le inspiré: "¡Oh, Dhul Qarnain! Puedes castigarlos o tratarlos con benevolencia[^1]".
 
-tratarlos con benevolencia: Invitándolos a la fe y a la rectitud en la obra.
+[^1]: Invitándolos a la fe y a la rectitud en la obra.
 
 # 2227
 
@@ -9733,9 +9796,9 @@ Luego siguió otro camino
 
 # 2230
 
-hasta alcanzar el lugar más oriental, donde vio que el Sol salía sobre un pueblo que no tenía resguardo para protegerse de él.
+hasta alcanzar el lugar más oriental, donde vio que el Sol salía sobre un pueblo que no tenía resguardo para protegerse de él.[^1]
 
-Era un pueblo establecido en una zona desértica, que no tenía construcciones ni montañas ni árboles que protegieran a la gente del sol.
+[^1]: Era un pueblo establecido en una zona desértica, que no tenía construcciones ni montañas ni árboles que protegieran a la gente del sol.
 
 # 2231
 
@@ -9751,15 +9814,15 @@ hasta llegar a un valle entre dos montañas, donde encontró un pueblo que apena
 
 # 2234
 
-Dijeron: "¡Oh, Dhul Qarnain! Gog y Magog siembran la corrupción en la Tierra. ¿Podríamos pedirte que, a cambio de una retribución, levantes una muralla entre ellos y nosotros?"
+Dijeron: "¡Oh, Dhul Qarnain! Gog y Magog[^1] siembran la corrupción en la Tierra. ¿Podríamos pedirte que, a cambio de una retribución, levantes una muralla entre ellos y nosotros?"
 
-Gog y Magog: Gog (Iayuy يَجوج ) y Magog (Mayuy مَجُوج ) son dos tribus de Turkmenistán, que tienen un origen étnico Mongol. Eran personas fuertes y violentas, que atacaban y saqueaban las tierras vecinas. Saqueaban ciudades, mataban a algunos de sus habitantes y tomaban a otros como esclavos.
+[^1]: Gog (Iayuy يَجوج ) y Magog (Mayuy مَجُوج ) son dos tribus de Turkmenistán, que tienen un origen étnico Mongol. Eran personas fuertes y violentas, que atacaban y saqueaban las tierras vecinas. Saqueaban ciudades, mataban a algunos de sus habitantes y tomaban a otros como esclavos.
 
 # 2235
 
-Les dijo: "Lo que mi Señor me ha concedido es superior [a lo que puedan ofrecerme]. Ayúdenme y erigiré una muralla entre ustedes y ellos.
+Les dijo: "Lo que mi Señor me ha concedido es superior [a lo que puedan ofrecerme][^1]. Ayúdenme y erigiré una muralla entre ustedes y ellos.
 
-es superior [a lo que puedan ofrecerme]: Es decir, que lo haré para complacer a Dios, sin pedirles ninguna retribución a cambio.
+[^1]: Es decir, que lo haré para complacer a Dios, sin pedirles ninguna retribución a cambio.
 
 # 2236
 
@@ -9775,9 +9838,9 @@ Dijo [Dhul Qarnain]: "Ésta es una misericordia de mi Señor, pero cuando llegue
 
 # 2239
 
-Ese día dejaré que surjan [Gog y Magog] como oleadas chocando unas con otras [sembrando la corrupción y el exterminio], pero luego será tocada la trompeta y los congregaré a todos.
+Ese día[^1] dejaré que surjan [Gog y Magog] como oleadas chocando unas con otras [sembrando la corrupción y el exterminio], pero luego será tocada la trompeta y los congregaré a todos.
 
-Ese día: Cuando comience el fin de los tiempos.
+[^1]: Cuando comience el fin de los tiempos.
 
 # 2240
 
@@ -9789,9 +9852,9 @@ Aquellos que tenían sus ojos velados a Mi recuerdo [el Corán] y no soportaban 
 
 # 2242
 
-¿Acaso piensan los que se niegan a creer que si toman algunos de Mis siervos como protectores en Mi lugar [eso podrá protegerlos del castigo]? Tengo preparado el Infierno como castigo para los que se negaron a creer [en las enseñanzas de los Profetas].
+¿Acaso piensan los que se niegan a creer que si toman algunos de Mis siervos como protectores en Mi lugar [eso podrá protegerlos del castigo]? Tengo preparado el Infierno como castigo para los que se negaron a creer [en las enseñanzas de los Profetas].[^1]
 
-Referencia a los que toman a los profetas y a los santos como intermediarios ante Dios o como objeto de adoración.
+[^1]: Referencia a los que toman a los profetas y a los santos como intermediarios ante Dios o como objeto de adoración.
 
 # 2243
 
@@ -9851,9 +9914,9 @@ que me suceda y herede [la profecía] de la familia de Jacob. ¡Oh, Señor mío!
 
 # 2257
 
-[Le dijo un ángel:] "¡Oh, Zacarías! Te albricio con un hijo al que pondrás por nombre Juan. Nadie ha sido llamado así antes que él".
+[Le dijo un ángel:] "¡Oh, Zacarías! Te albricio con un hijo al que pondrás por nombre Juan[^1]. Nadie ha sido llamado así antes que él".
 
-Juan: Literalmente Yajia يّحِي en idioma árabe.
+[^1]: Literalmente Yajia يّحِي en idioma árabe.
 
 # 2258
 
@@ -9865,9 +9928,9 @@ Dijo [el ángel]: "Así será, pues tu Señor dice: ‘Eso es fácil para Mí, t
 
 # 2260
 
-Dijo [Zacarías]: "¡Señor mío! Concédeme una señal [de que mi esposa quedará embarazada]". Dijo: "Tu señal será que no podrás hablar a la gente durante tres noches seguidas, a pesar de no tener impedimento".
+Dijo [Zacarías]: "¡Señor mío! Concédeme una señal [de que mi esposa quedará embarazada]". Dijo: "Tu señal será que no podrás hablar a la gente durante tres noches seguidas, a pesar de no tener impedimento".[^1]
 
-A pesar de que no tenía ningún defecto o enfermedad, durante esos días y noches no podía hablar con la gente, excepto por señas, aunque sí podía pronunciar alabanzas a su Señor. Ver Corán 3:41.
+[^1]: 41.
 
 # 2261
 
@@ -9875,9 +9938,9 @@ A pesar de que no tenía ningún defecto o enfermedad, durante esos días y noch
 
 # 2262
 
-[Cuando su hijo alcanzó la pubertad, le dije:] "¡Oh, Juan! Aférrate al Libro con firmeza". Le concedí sabiduría desde su infancia,
+[Cuando su hijo alcanzó la pubertad, le dije:] "¡Oh, Juan! Aférrate al Libro[^1] con firmeza". Le concedí sabiduría desde su infancia,
 
-Aférrate al Libro: La Tora.
+[^1]: La Tora.
 
 # 2263
 
@@ -9961,10 +10024,11 @@ honrar a mi madre, y no ser arrogante ni insolente.
 
 # 2283
 
-La paz fue conmigo el día que nací, el día que muera y el día que sea resucitado".
+La paz fue conmigo el día que nací, el día que muera[^1] y el día que sea resucitado[^2]".
 
-el día que muera: En la creencia islámica, Jesús no murió crucificado en la cruz, sino que fue elevado a los cielos, de donde descenderá al final de los tiempos, y será entonces cuando muera. 
-el día que sea resucitado: Para el Día del Juicio Final.
+[^1]: En la creencia islámica, Jesús no murió crucificado en la cruz, sino que fue elevado a los cielos, de donde descenderá al final de los tiempos, y será entonces cuando muera.
+
+[^2]: Para el Día del Juicio Final.
 
 # 2284
 
@@ -9988,9 +10052,9 @@ Oirán y verán muy bien [su error] el día que comparezcan ante Mí. Pero los q
 
 # 2289
 
-Adviérteles acerca del día que se lamenten, cuando la sentencia sea cumplida. Pero ellos, a pesar de esto, siguen indiferentes y no creen.
+Adviérteles acerca del día que se lamenten[^1], cuando la sentencia sea cumplida. Pero ellos, a pesar de esto, siguen indiferentes y no creen.
 
-día que se lamenten: El Día del Juicio Final. Se le denomina así por las fuertes lamentaciones y el arrepentimiento que sobrevendrán a las criaturas en ese día. Los incrédulos lamentarán no haber creído.
+[^1]: El Día del Juicio Final. Se le denomina así por las fuertes lamentaciones y el arrepentimiento que sobrevendrán a las criaturas en ese día. Los incrédulos lamentarán no haber creído.
 
 # 2290
 
@@ -10002,9 +10066,9 @@ Nárrales [¡oh, Mujámmad!] la historia de Abraham que se menciona en el Libro.
 
 # 2292
 
-Cuando [Abraham] dijo a su padre: "¡Oh, padre mío! ¿Por qué adoras a lo que no oye ni ve ni puede beneficiarte en absoluto?
+Cuando [Abraham] dijo a su padre[^1]: "¡Oh, padre mío! ¿Por qué adoras a lo que no oye ni ve ni puede beneficiarte en absoluto?
 
-su padre: El padre de Abraham fabricaba ídolos, los cuales vendía y adoraba.
+[^1]: El padre de Abraham fabricaba ídolos, los cuales vendía y adoraba.
 
 # 2293
 
@@ -10064,9 +10128,9 @@ Nárrales la historia de Enoc que se menciona en el Libro. Fue un hombre veraz, 
 
 # 2307
 
-Lo elevé a un lugar sublime.
+Lo elevé a un lugar sublime.[^1]
 
-Las palabras árabes makanan ‘alia مكانا عاليا pueden indicar tanto un rango honrado como un lugar elevado. Ver Génesis 5:24. Al igual que el Profeta Jesús, el Profeta Enoc también fue elevado al cielo por Dios en vida, al igual que Elías, quien fue elevado por un torbellino a los cielos en un carro. Ver 2 Reyes 2:11.
+[^1]: 24. Al igual que el Profeta Jesús, el Profeta Enoc también fue elevado al cielo por Dios en vida, al igual que Elías, quien fue elevado por un torbellino a los cielos en un carro. Ver 2 Reyes 2:11.
 
 # 2308
 
@@ -10250,9 +10314,9 @@ sino que es una exhortación para quienes tienen temor [de Dios].
 
 # 2353
 
-el Compasivo, que se estableció sobre el Trono.
+el Compasivo, que se estableció sobre el Trono[^1].
 
-el Trono: El Trono es la creación más grande y colosal. Dios ha mencionado en siete oportunidades en el Corán Su establecimiento sobre el Trono. Dios nos informa que el Trono tiene portadores, y que estos piden perdón por los creyentes. Esto refuta la opinión de quienes afirmaron que el Trono representa la Soberanía o el dominio de Dios. Nosotros ignoramos cómo Dios se ha establecido sobre Su Trono, porque ignoramos cómo es la esencia misma de nuestro Señor, pero sabemos el significado lingüístico de la palabra “establecerse” (istaua إستوى ) en el idioma árabe. Cuando los árabes utilizan el vocablo istaua seguido de la preposición ‘ala, expresan cuatro posibles significados: establecerse, subirse, elevarse y ascender, tal como lo afirmó Ibn Al Qaiim. Abu Al Hasan Al Ash‘ari narró que fue la secta Mu‘tazilah la primera en interpretar la frase “Luego, se estableció sobre el Trono” (57:4) como “tomó mando del Trono”. Quien interprete esta frase coránica de esta manera debe saber que sus predecesores son precisamente la secta Mu‘tazilah. Ibn Al ‘Arabi dijo: “Él se encuentra sobre Su Trono, tal como nos ha informado”. Este le respondió: “¡Ibn Al ‘Arabi! Significa que ha tomado el dominio del Trono (istaula إستولى )”. Pero Ibn Al ‘Arabi le dijo: “¿Cómo puedes decir eso? Los árabes no dicen que alguien ha tomado el dominio de algo (istaula) a menos que se lo haya arrebatado a un adversario, y solo quien vence es aquel que toma dominio de aquello por lo que luchaba”. El exégeta Al Qurtubi dijo: “Las primeras generaciones (As-Salaf) no negaban la dirección (elevada en que se encuentra Dios), pero tampoco utilizaban esa palabra. Sino que afirmaban todo esto de la misma forma que Dios o Su Profeta lo habían descrito. Ninguno de ellos negó que Dios se hubiese elevado sobre Su Trono en realidad (y no metafóricamente), y solamente ignoraban cómo se elevó, porque sabían que ello es inalcanzable para la mente humana. Dijo el Imam Málik: “La palabra establecerse (istiua‘) es conocida (en su significado lingüístico), el cómo es desconocido, creer en ello es una obligación, pero preguntar sobre ello es una innovación”. Esta misma frase fue pronunciada por Umm Salamah (esposa del Profeta), y eso es para nosotros suficiente”. (Tafsir Al Qurtubi, 2/219)
+[^1]: El Trono es la creación más grande y colosal. Dios ha mencionado en siete oportunidades en el Corán Su establecimiento sobre el Trono. Dios nos informa que el Trono tiene portadores, y que estos piden perdón por los creyentes. Esto refuta la opinión de quienes afirmaron que el Trono representa la Soberanía o el dominio de Dios. Nosotros ignoramos cómo Dios se ha establecido sobre Su Trono, porque ignoramos cómo es la esencia misma de nuestro Señor, pero sabemos el significado lingüístico de la palabra “establecerse” (istaua إستوى ) en el idioma árabe. Cuando los árabes utilizan el vocablo istaua seguido de la preposición ‘ala, expresan cuatro posibles significados: establecerse, subirse, elevarse y ascender, tal como lo afirmó Ibn Al Qaiim. Abu Al Hasan Al Ash‘ari narró que fue la secta Mu‘tazilah la primera en interpretar la frase “Luego, se estableció sobre el Trono” (57:4) como “tomó mando del Trono”. Quien interprete esta frase coránica de esta manera debe saber que sus predecesores son precisamente la secta Mu‘tazilah. Ibn Al ‘Arabi dijo: “Él se encuentra sobre Su Trono, tal como nos ha informado”. Este le respondió: “¡Ibn Al ‘Arabi! Significa que ha tomado el dominio del Trono (istaula إستولى )”. Pero Ibn Al ‘Arabi le dijo: “¿Cómo puedes decir eso? Los árabes no dicen que alguien ha tomado el dominio de algo (istaula) a menos que se lo haya arrebatado a un adversario, y solo quien vence es aquel que toma dominio de aquello por lo que luchaba”. El exégeta Al Qurtubi dijo: “Las primeras generaciones (As-Salaf) no negaban la dirección (elevada en que se encuentra Dios), pero tampoco utilizaban esa palabra. Sino que afirmaban todo esto de la misma forma que Dios o Su Profeta lo habían descrito. Ninguno de ellos negó que Dios se hubiese elevado sobre Su Trono en realidad (y no metafóricamente), y solamente ignoraban cómo se elevó, porque sabían que ello es inalcanzable para la mente humana. Dijo el Imam Málik: “La palabra establecerse (istiua‘) es conocida (en su significado lingüístico), el cómo es desconocido, creer en ello es una obligación, pero preguntar sobre ello es una innovación”. Esta misma frase fue pronunciada por Umm Salamah (esposa del Profeta), y eso es para nosotros suficiente”. (Tafsir Al Qurtubi, 2/219)
 
 # 2354
 
@@ -10272,9 +10336,9 @@ Dios conoce lo que pronuncias en voz alta, las confidencias que dices en voz baj
 
 # 2358
 
-Cuando vio un fuego y dijo a su familia: "Permanezcan aquí, pues he visto un fuego y tal vez pueda traerles una brasa encendida o encuentre junto al fuego quién pueda indicarnos [el camino]".
+Cuando vio un fuego y dijo a su familia: "Permanezcan aquí, pues he visto un fuego y tal vez pueda traerles una brasa encendida[^1] o encuentre junto al fuego quién pueda indicarnos [el camino]".
 
-una brasa encendida: Para alumbrarse o calentarse.
+[^1]: Para alumbrarse o calentarse.
 
 # 2359
 
@@ -10282,9 +10346,9 @@ Cuando llegó a él, una voz lo llamó: "¡Oh, Moisés!
 
 # 2360
 
-Yo soy tu Señor; quítate las sandalias, pues estás en el valle sagrado de Tuwa,
+Yo soy tu Señor; quítate las sandalias, pues estás en el valle sagrado de Tuwa[^1],
 
-Tuwa: El valle de Tuwa se encuentra en el Sinaí, aunque algunos eruditos lo ubican alternativamente junto al monte Al Lawz en Madian, en la zona noroeste de Arabia Saudita.
+[^1]: El valle de Tuwa se encuentra en el Sinaí, aunque algunos eruditos lo ubican alternativamente junto al monte Al Lawz en Madian, en la zona noroeste de Arabia Saudita.
 
 # 2361
 
@@ -10344,9 +10408,9 @@ facilita mi misión,
 
 # 2375
 
-suelta el nudo que hay en mi lengua
+suelta el nudo que hay en mi lengua[^1]
 
-Para poder expresarse con elocuencia y argumentos convincentes.
+[^1]: Para poder expresarse con elocuencia y argumentos convincentes.
 
 # 2376
 
@@ -10354,9 +10418,9 @@ para que comprendan mis palabras,
 
 # 2377
 
-[¡Señor!] Designa a alguien de mi familia para que me ayude
+[¡Señor!] Designa a alguien de mi familia para que me ayude[^1]
 
-En la transmisión del Mensaje.
+[^1]: En la transmisión del Mensaje.
 
 # 2378
 
@@ -10368,9 +10432,9 @@ para que con él me sienta fortalecido,
 
 # 2380
 
-y asócialo en mi misión
+y asócialo en mi misión[^1]
 
-Es decir, te pido que lo nombres Profeta y Mensajero.
+[^1]: Es decir, te pido que lo nombres Profeta y Mensajero.
 
 # 2381
 
@@ -10402,10 +10466,11 @@ cuando le inspiré a tu madre:
 
 # 2388
 
-Cuando tu hermana, que seguía tus rastros, le dijo [al Faraón]: ‘¿Acaso quieres que te indique a alguien que puede encargarse de cuidarlo?’ Y así te devolví a tu madre para que se tranquilizara y no estuviera triste. [También te concedí una gracia] cuando [involuntariamente] mataste a un hombre [del pueblo del Faraón] y te salvé de que tomaran represalias contra ti. Te he probado con pruebas difíciles. Luego permaneciste unos años en Madián y ahora has regresado aquí, tal como estaba decretado, ¡oh, Moisés!
+Cuando tu hermana, que seguía tus rastros, le dijo [al Faraón]: ‘¿Acaso quieres que te indique a alguien que puede encargarse de cuidarlo[^1]?’ Y así te devolví a tu madre para que se tranquilizara y no estuviera triste. [También te concedí una gracia] cuando [involuntariamente] mataste a un hombre [del pueblo del Faraón] y te salvé de que tomaran represalias contra ti. Te he probado con pruebas difíciles. Luego permaneciste unos años en Madián[^2] y ahora has regresado aquí, tal como estaba decretado, ¡oh, Moisés!
 
-encargarse de cuidarlo: Cuando la esposa del Faraón lo adoptó, trajo numerosas nodrizas para que amamantaran al recién nacido, pero este las rechazó a todas, hasta que fue sugerida su propia madre que, naturalmente, no fue rechazada, y así Moisés creció seguro bajo los cuidados de su propia madre, en la casa del Faraón.
- Madián: Madián es una zona montañosa de la región de Hiyaz, en Arabia Saudita, que se extiende por la costa del mar Rojo y del golfo de Aqaba hasta llegar a la frontera jordana.
+[^1]: Cuando la esposa del Faraón lo adoptó, trajo numerosas nodrizas para que amamantaran al recién nacido, pero este las rechazó a todas, hasta que fue sugerida su propia madre que, naturalmente, no fue rechazada, y así Moisés creció seguro bajo los cuidados de su propia madre, en la casa del Faraón.
+
+[^2]: Madián es una zona montañosa de la región de Hiyaz, en Arabia Saudita, que se extiende por la costa del mar Rojo y del golfo de Aqaba hasta llegar a la frontera jordana.
 
 # 2389
 
@@ -10469,9 +10534,9 @@ De ella [la tierra] los he creado, a ella los haré retornar [cuando mueran], y 
 
 # 2404
 
-Le mostré [al Faraón] todos Mis milagros, pero los desmintió y se rehusó a creer.
+Le mostré [al Faraón] todos Mis milagros[^1], pero los desmintió y se rehusó a creer.
 
-Mis milagros: Con los que había enviado a Moisés.
+[^1]: Con los que había enviado a Moisés.
 
 # 2405
 
@@ -10491,9 +10556,9 @@ Entonces el Faraón se retiró y se dedicó a reclutar hechiceros. Luego, el dí
 
 # 2409
 
-Moisés les dijo [a los hechiceros]: "¡Ay de ustedes! No inventen mentiras contra Dios, pues los aniquilará con Su castigo: Los que inventan mentiras acerca de Dios serán los perdedores".
+Moisés les dijo [a los hechiceros]: "¡Ay de ustedes! No inventen mentiras contra Dios[^1], pues los aniquilará con Su castigo: Los que inventan mentiras acerca de Dios serán los perdedores".
 
-mentiras contra Dios: La mentira de hacer creer a la gente que pueden crear.
+[^1]: La mentira de hacer creer a la gente que pueden crear.
 
 # 2410
 
@@ -10545,9 +10610,9 @@ Creemos en nuestro Señor, para que nos perdone nuestros pecados y los hechizos 
 
 # 2422
 
-Quien se presente ante su Señor siendo culpable tendrá el Infierno como castigo, en el que no podrá morir [para librarse del tormento] ni vivir [sin padecerlo].
+Quien se presente ante su Señor siendo culpable[^1] tendrá el Infierno como castigo, en el que no podrá morir [para librarse del tormento] ni vivir [sin padecerlo].
 
-siendo culpable: De rechazar el mensaje de monoteísmo enseñado por los Profetas.
+[^1]: De rechazar el mensaje de monoteísmo enseñado por los Profetas.
 
 # 2423
 
@@ -10555,9 +10620,9 @@ En cambio, quien se presente ante su Señor creyendo en Él y habiendo obrado re
 
 # 2424
 
-Morarán eternamente en los Jardines del Edén, bajo los cuales corren ríos. Esa será la recompensa de quienes se purifiquen.
+Morarán eternamente en los Jardines del Edén, bajo los cuales corren ríos. Esa será la recompensa de quienes se purifiquen[^1].
 
-de quienes se purifiquen: De la idolatría y los pecados.
+[^1]: De la idolatría y los pecados.
 
 # 2425
 
@@ -10585,9 +10650,9 @@ Yo soy Perdonador con quienes se arrepienten, creen, obran rectamente y se encam
 
 # 2431
 
-[Cuando Moisés se presentó a la cita, Dios le dijo:] "¡Oh, Moisés! ¿Qué te ha urgido a presentarte dejando atrás a tu pueblo?"
+[Cuando Moisés se presentó a la cita, Dios le dijo:] "¡Oh, Moisés! ¿Qué te ha urgido a presentarte dejando atrás a tu pueblo?"[^1]
 
-Ver Corán 2:51. Esto ocurre cuando Moisés acude al encuentro con su Señor y permanece allí 40 días y 40 noches.
+[^1]: 51. Esto ocurre cuando Moisés acude al encuentro con su Señor y permanece allí 40 días y 40 noches.
 
 # 2432
 
@@ -10595,9 +10660,9 @@ Dijo: "Ellos vienen detrás mío; solo me adelanté para complacerte, ¡oh, Señ
 
 # 2433
 
-Dijo [Dios]: "He puesto a prueba a tu pueblo después que los dejaste, y el samaritano los extravió".
+Dijo [Dios]: "He puesto a prueba a tu pueblo después que los dejaste, y el samaritano[^1] los extravió".
 
-el samaritano: El samaritano era originario de la ciudad de Bayarma, que está situada en Siria, junto al río Éufrates, cerca de la ciudad de Ar-Raqqah. Después de ir a Egipto, el samaritano se mudó a Sinaí. Era mago e hipócrita, y su pueblo adoraba a las vacas. Mientras Moisés se encontraba ausente de su pueblo, el samaritano reunió algunas joyas y formó un becerro con ellas. Luego invitó al pueblo de Israel a que adoraran al becerro.
+[^1]: El samaritano era originario de la ciudad de Bayarma, que está situada en Siria, junto al río Éufrates, cerca de la ciudad de Ar-Raqqah. Después de ir a Egipto, el samaritano se mudó a Sinaí. Era mago e hipócrita, y su pueblo adoraba a las vacas. Mientras Moisés se encontraba ausente de su pueblo, el samaritano reunió algunas joyas y formó un becerro con ellas. Luego invitó al pueblo de Israel a que adoraran al becerro.
 
 # 2434
 
@@ -10609,9 +10674,9 @@ Dijeron: "No quebrantamos la promesa que te hicimos intencionalmente, sino que c
 
 # 2436
 
-y fundió las joyas dándoles la forma de un becerro que emitía un sonido como un mugido, y entonces exclamaron [el samaritano y sus seguidores]: ‘Esta es nuestra divinidad y la de Moisés, pero Moisés la ha olvidado’".
+y fundió las joyas dándoles la forma de un becerro que emitía un sonido como un mugido[^1], y entonces exclamaron [el samaritano y sus seguidores]: ‘Esta es nuestra divinidad y la de Moisés, pero Moisés la ha olvidado’".
 
-un becerro que emitía un sonido como un mugido: El becerro de oro tenía unos agujeros, al pasar el viento por ellos emitía un ruido similar al mugido, y los israelitas lo consideraron milagroso.
+[^1]: El becerro de oro tenía unos agujeros, al pasar el viento por ellos emitía un ruido similar al mugido, y los israelitas lo consideraron milagroso.
 
 # 2437
 
@@ -10619,9 +10684,9 @@ un becerro que emitía un sonido como un mugido: El becerro de oro tenía unos a
 
 # 2438
 
-Pero antes [que regresara Moisés] Aarón les había advertido: "¡Oh, pueblo mío! Se los está poniendo a prueba con eso. Su verdadero Señor es el Compasivo, síganme y obedezcan mis órdenes".
+Pero antes [que regresara Moisés] Aarón les había advertido: "¡Oh, pueblo mío! Se los está poniendo a prueba con eso. Su verdadero Señor es el Compasivo, síganme y obedezcan mis órdenes".[^1]
 
-La Biblia culpa a Aarón por este acto de idolatría, mientras que el Corán lo libera de esa acusación. Ver Éxodo 32 1-5.
+[^1]: La Biblia culpa a Aarón por este acto de idolatría, mientras que el Corán lo libera de esa acusación. Ver Éxodo 32 1-5.
 
 # 2439
 
@@ -10645,9 +10710,9 @@ Dijo [Moisés]: "Y tú Samaritano, ¿qué has hecho?"
 
 # 2444
 
-Dijo: "Vi algo que ellos no pudieron ver. Entonces tomé un puñado de tierra de las huellas que dejó el mensajero y lo arrojé [sobre las joyas cuando se fundían]. Así me lo sugirió mi alma".
+Dijo: "Vi algo que ellos no pudieron ver[^1]. Entonces tomé un puñado de tierra de las huellas que dejó el mensajero y lo arrojé [sobre las joyas cuando se fundían]. Así me lo sugirió mi alma".
 
-Vi algo que ellos no pudieron ver: Según algunos exégetas, se refiere al ángel Gabriel.
+[^1]: Según algunos exégetas, se refiere al ángel Gabriel.
 
 # 2445
 
@@ -10659,10 +10724,11 @@ Tu única divinidad es Dios. No existe nada ni nadie con derecho a ser adorado s
 
 # 2447
 
-Así es como te he revelado [¡oh, Mujámmad!] las historias de quienes te precedieron, porque te he concedido el Mensaje.
+Así es como te he revelado [¡oh, Mujámmad!] las historias de quienes te precedieron[^1], porque te he concedido el Mensaje[^2].
 
-quienes te precedieron: La historia de Moisés y Aarón. 
-el Mensaje: El Sagrado Corán.
+[^1]: La historia de Moisés y Aarón.
+
+[^2]: El Sagrado Corán.
 
 # 2448
 
@@ -10730,9 +10796,9 @@ Ya antes había tomado un compromiso de Adán [de no prestarse a los susurros de
 
 # 2464
 
-[Recuerda] cuando dije a los ángeles: "¡Hagan una reverencia ante Adán!" Todos la hicieron excepto Iblís.
+[Recuerda] cuando dije a los ángeles: "¡Hagan una reverencia ante Adán!" Todos la hicieron excepto Iblís[^1].
 
-Iblís: El demonio, que no era un ángel, sino un yinn. Ver Corán 18:50.
+[^1]: El demonio, que no era un ángel, sino un yinn. Ver Corán 18:50.
 
 # 2465
 
@@ -10800,9 +10866,9 @@ Ordena a tu familia practicar la oración prescrita y sé constante en su cumpli
 
 # 2481
 
-[Los que rechazan el Mensaje] dicen: "¿Por qué no nos muestra un milagro de su Señor [que compruebe su profecía]?" Pero si ya les han llegado pruebas evidentes en los primeros Libros revelados.
+[Los que rechazan el Mensaje] dicen: "¿Por qué no nos muestra un milagro de su Señor [que compruebe su profecía]?" Pero si ya les han llegado pruebas evidentes en los primeros Libros revelados[^1].
 
-primeros Libros revelados: En los libros revelados anteriormente hay señales y descripciones del Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, y sus seguidores, que evidencian que el mensaje del Islam es una revelación enviada por Dios.
+[^1]: En los libros revelados anteriormente hay señales y descripciones del Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, y sus seguidores, que evidencian que el mensaje del Islam es una revelación enviada por Dios.
 
 # 2482
 
@@ -10862,9 +10928,9 @@ Cuando sintieron que Mi tormento se desencadenaba sobre ellos, trataron de escap
 
 # 2496
 
-[Entonces se les dijo irónicamente:] "No intenten escapar, regresen a la vida placentera que llevaban y esperen en sus hogares, quizás tengan que dar explicaciones".
+[Entonces se les dijo irónicamente:] "No intenten escapar, regresen a la vida placentera que llevaban y esperen en sus hogares, quizás tengan que dar explicaciones[^1]".
 
-dar explicaciones: El Día del Juicio Final.
+[^1]: El Día del Juicio Final.
 
 # 2497
 
@@ -10880,9 +10946,9 @@ No creé el cielo y la Tierra y todo cuanto existe entre ellos solo como un jueg
 
 # 2500
 
-Si hubiera buscado divertirme, lo habría hecho por Mi cuenta [sin crear nada para ello].
+Si hubiera buscado divertirme, lo habría hecho por Mi cuenta [sin crear nada para ello].[^1]
 
-Todo lo que Dios creó tiene un motivo justo y verdadero.
+[^1]: Todo lo que Dios creó tiene un motivo justo y verdadero.
 
 # 2501
 
@@ -10906,15 +10972,15 @@ Si hubiese habido en los cielos y en la Tierra otras divinidades además de Dios
 
 # 2506
 
-Él no es interrogado por lo que hace, a diferencia de Sus siervos que sí serán interrogados.
+Él no es interrogado por lo que hace, a diferencia de Sus siervos que sí serán interrogados.[^1]
 
-Pues los seres humanos deberán responder por todas y cada una de sus obras el Día del Juicio Final.
+[^1]: Pues los seres humanos deberán responder por todas y cada una de sus obras el Día del Juicio Final.
 
 # 2507
 
-A aquellos que adoran a otras divinidades en lugar de Dios, diles: "Presenten pruebas válidas. Éste es mi Mensaje y el de quienes me siguen, y el Mensaje de quienes nos precedieron. Pero la mayoría no reconoce la Verdad y la rechazan".
+A aquellos que adoran a otras divinidades en lugar de Dios, diles: "Presenten pruebas válidas[^1]. Éste es mi Mensaje y el de quienes me siguen, y el Mensaje de quienes nos precedieron. Pero la mayoría no reconoce la Verdad y la rechazan".
 
-pruebas válidas: Para justificar su idolatría.
+[^1]: Para justificar su idolatría.
 
 # 2508
 
@@ -10922,9 +10988,9 @@ No envié en el pasado a ningún Mensajero, excepto que recibiera la misma revel
 
 # 2509
 
-[Algunos] dicen: "El Misericordioso ha tenido un hijo". ¡Glorificado sea! Por el contrario, [los ángeles y los Profetas] son solo siervos distinguidos.
+[Algunos] dicen[^1]: "El Misericordioso ha tenido un hijo". ¡Glorificado sea! Por el contrario, [los ángeles y los Profetas] son solo siervos distinguidos.
 
-dicen: “El Misericordioso ha tenido un hijo”: Algunos idólatras afirmaban que los ángeles eran hijas de Dios, otros aseguran que Jesús es hijo de Dios, otros dijeron que Uzair era hijo de Dios, etc.
+[^1]: “El Misericordioso ha tenido un hijo”: Algunos idólatras afirmaban que los ángeles eran hijas de Dios, otros aseguran que Jesús es hijo de Dios, otros dijeron que Uzair era hijo de Dios, etc.
 
 # 2510
 
@@ -10940,34 +11006,35 @@ Si uno de ellos dijera: "Yo soy un dios junto a Él", lo condenaría al Infierno
 
 # 2513
 
-¿Acaso los que se niegan a creer no reparan en que los cielos y la Tierra formaban una masa homogénea y la disgregué, y que creé del agua a todo ser vivo? ¿Es que aún después de esto no van a creer?
+¿Acaso los que se niegan a creer no reparan en que los cielos y la Tierra formaban una masa homogénea y la disgregué[^1], y que creé del agua a todo ser vivo[^2]? ¿Es que aún después de esto no van a creer?
 
-una masa homogénea y la disgregué:Esta información suministrada por el Corán concuerda exactamente con los descubrimientos de la ciencia contemporánea. La conclusión a la que la astrofísica ha llegado actualmente es que la totalidad del universo, junto con las dimensiones de materia y tiempo, se manifestaron como resultado de una gran explosión que ocurrió fuera del acontecer temporal. Este evento, conocido como el Big Bang, demuestra que el universo fue creado de la nada como resultado de la explosión de un solo punto. Antes del Big Bang no existía lo que denominamos materia. Desde una condición de no-existencia –en la cual ni la materia ni la energía ni incluso el tiempo existían, y que solo puede describirse metafísicamente– materia, energía y tiempo fueron creados en un instante. Este hecho, descubierto solo recientemente por la física moderna, nos fue anunciado en el Corán hace 1.400 años.
-creé del agua a todo ser vivo:El agua precedió la existencia de todos los seres vivos. Los estudios geológicos han probado que la edad de la Tierra es de aproximadamente 4.600 millones de años, cuando la edad de los restos fósiles más antiguos datan de 3.800 millones de años. Eso significa que nuestro planeta Tierra necesitó más de 800 millones de años de preparación para que su superficie fuera capaz de sustentar vida. Dios es capaz de todas las cosas, y si Dios hubiera querido habría podido crear a un ser humano adulto sobre una tierra completamente vacía. Sin embargo, sabemos que Dios no obra de esa manera, sino progresivamente, de una forma mucho más compleja y asombrosa. Los estudios paleontológicos indican que la vida acuática (en un entorno marino) predominó la Tierra por más de 3.360 millones de años, antes de la creación de las primeras especies de plantas sobre tierra firme. Estos son hechos que la humanidad no habría podido descubrir antes del siglo XX; sin embargo, están mencionados en el Corán de una forma breve y concisa, lo que prueba que el Corán es la palabra de Dios y que Mujámmad fue Su último Profeta, que la paz y las bendiciones de Dios sean con él.
+[^1]: Esta información suministrada por el Corán concuerda exactamente con los descubrimientos de la ciencia contemporánea. La conclusión a la que la astrofísica ha llegado actualmente es que la totalidad del universo, junto con las dimensiones de materia y tiempo, se manifestaron como resultado de una gran explosión que ocurrió fuera del acontecer temporal. Este evento, conocido como el Big Bang, demuestra que el universo fue creado de la nada como resultado de la explosión de un solo punto. Antes del Big Bang no existía lo que denominamos materia. Desde una condición de no-existencia –en la cual ni la materia ni la energía ni incluso el tiempo existían, y que solo puede describirse metafísicamente– materia, energía y tiempo fueron creados en un instante. Este hecho, descubierto solo recientemente por la física moderna, nos fue anunciado en el Corán hace 1.400 años.
+
+[^2]: El agua precedió la existencia de todos los seres vivos. Los estudios geológicos han probado que la edad de la Tierra es de aproximadamente 4.600 millones de años, cuando la edad de los restos fósiles más antiguos datan de 3.800 millones de años. Eso significa que nuestro planeta Tierra necesitó más de 800 millones de años de preparación para que su superficie fuera capaz de sustentar vida. Dios es capaz de todas las cosas, y si Dios hubiera querido habría podido crear a un ser humano adulto sobre una tierra completamente vacía. Sin embargo, sabemos que Dios no obra de esa manera, sino progresivamente, de una forma mucho más compleja y asombrosa. Los estudios paleontológicos indican que la vida acuática (en un entorno marino) predominó la Tierra por más de 3.360 millones de años, antes de la creación de las primeras especies de plantas sobre tierra firme. Estos son hechos que la humanidad no habría podido descubrir antes del siglo XX; sin embargo, están mencionados en el Corán de una forma breve y concisa, lo que prueba que el Corán es la palabra de Dios y que Mujámmad fue Su último Profeta, que la paz y las bendiciones de Dios sean con él.
 
 # 2514
 
-Afirmé la Tierra con montañas para que no tiemble, y dispuse caminos para que encuentren guía.
+Afirmé la Tierra con montañas para que no tiemble[^1], y dispuse caminos para que encuentren guía.
 
-para que no tiemble: Como podemos ver, en el versículo se afirma que las montañas tienen la función de prevenir movimientos sísmicos. Este hecho era totalmente desconocido en la época en que el Corán fue revelado. Es algo que salió a la luz recientemente debido a los hallazgos de la geología moderna. Según estos descubrimientos, las montañas emergen como resultado del movimiento y colisión de enormes placas tectónicas que conforman la corteza terrestre. Cuando dos placas chocan, la más fuerte se desliza debajo de la otra, y la que queda encima se pliega y forma alturas y montañas. La capa inferior sigue avanzando debajo del suelo y se extiende a gran profundidad. En otro versículo este rol de las montañas es descrito comparándolo con “estacas”. “¿No he hecho de la tierra un lecho y de las montañas estacas?” (Corán 78:6-7). Dicho en otras palabras, las montañas “remachan” las placas en la corteza terrestre que se extienden por encima y por debajo de la superficie, fijándolas en los puntos de conjunción de las mismas. Este rol vital de las montañas, descubierto por la geología moderna y la investigación del fenómeno sísmico, fue revelado en el Corán hace siglos, como un ejemplo de sabiduría suprema en la creación de Dios.
+[^1]: Como podemos ver, en el versículo se afirma que las montañas tienen la función de prevenir movimientos sísmicos. Este hecho era totalmente desconocido en la época en que el Corán fue revelado. Es algo que salió a la luz recientemente debido a los hallazgos de la geología moderna. Según estos descubrimientos, las montañas emergen como resultado del movimiento y colisión de enormes placas tectónicas que conforman la corteza terrestre. Cuando dos placas chocan, la más fuerte se desliza debajo de la otra, y la que queda encima se pliega y forma alturas y montañas. La capa inferior sigue avanzando debajo del suelo y se extiende a gran profundidad. En otro versículo este rol de las montañas es descrito comparándolo con “estacas”. “¿No he hecho de la tierra un lecho y de las montañas estacas?” (Corán 78:6-7). Dicho en otras palabras, las montañas “remachan” las placas en la corteza terrestre que se extienden por encima y por debajo de la superficie, fijándolas en los puntos de conjunción de las mismas. Este rol vital de las montañas, descubierto por la geología moderna y la investigación del fenómeno sísmico, fue revelado en el Corán hace siglos, como un ejemplo de sabiduría suprema en la creación de Dios.
 
 # 2515
 
-Hice del cielo un techo protector, pero aun así los que se niegan a creer rechazan reflexionar en Mis signos.
+Hice del cielo un techo protector[^1], pero aun así los que se niegan a creer rechazan reflexionar en Mis signos.
 
-un techo protector: Dios llama nuestra atención en el Corán sobre un importante atributo del cielo: Esta propiedad del cielo ha sido descubierta por la ciencia en el siglo XX. La atmósfera que rodea la tierra cumple funciones importantes en la conservación de la vida. Al destruir por la fricción muchos meteoros, grandes y pequeños, que se aproximan a la Tierra, impide que estos lleguen al suelo y dañen a los seres vivientes. Además, la atmósfera filtra las radiaciones provenientes del espacio exterior que son perjudiciales para los seres vivos. La característica más sorprendente de la atmósfera es que solo permite que pasen a través de ella radiaciones inocuas y útiles, como la luz visible, la radiación ultravioleta de baja longitud de onda y las ondas de radio. Toda esta radiación es vital para la vida. La radiación ultravioleta de baja longitud de onda, que la atmósfera deja entrar solo parcialmente, es muy importante para la fotosíntesis de las plantas y para la supervivencia de todos los seres vivos. La mayoría de la radiación ultravioleta intensa emitida por el Sol es filtrada por la capa de ozono de la atmósfera, y solo una parte limitada —y esencial— de su espectro alcanza la tierra. La función protectora de la atmósfera no termina allí. Protege también a la tierra del intenso frío del espacio exterior, que alcanza los -270° C. Aparte de ella el cinturón de Van Allen, una capa originada por el campo magnético de la Tierra, sirve también como escudo contra la radiación perjudicial que amenaza nuestro planeta. Esta radiación, emitida por el Sol y otras estrellas, es mortal para los seres vivos. Si el cinturón de Van Allen no existiera, los estallidos masivos de energía llamados erupciones solares, que ocurren frecuentemente en el Sol, destruirían toda la vida en la Tierra.
+[^1]: Dios llama nuestra atención en el Corán sobre un importante atributo del cielo: Esta propiedad del cielo ha sido descubierta por la ciencia en el siglo XX. La atmósfera que rodea la tierra cumple funciones importantes en la conservación de la vida. Al destruir por la fricción muchos meteoros, grandes y pequeños, que se aproximan a la Tierra, impide que estos lleguen al suelo y dañen a los seres vivientes. Además, la atmósfera filtra las radiaciones provenientes del espacio exterior que son perjudiciales para los seres vivos. La característica más sorprendente de la atmósfera es que solo permite que pasen a través de ella radiaciones inocuas y útiles, como la luz visible, la radiación ultravioleta de baja longitud de onda y las ondas de radio. Toda esta radiación es vital para la vida. La radiación ultravioleta de baja longitud de onda, que la atmósfera deja entrar solo parcialmente, es muy importante para la fotosíntesis de las plantas y para la supervivencia de todos los seres vivos. La mayoría de la radiación ultravioleta intensa emitida por el Sol es filtrada por la capa de ozono de la atmósfera, y solo una parte limitada —y esencial— de su espectro alcanza la tierra. La función protectora de la atmósfera no termina allí. Protege también a la tierra del intenso frío del espacio exterior, que alcanza los -270° C. Aparte de ella el cinturón de Van Allen, una capa originada por el campo magnético de la Tierra, sirve también como escudo contra la radiación perjudicial que amenaza nuestro planeta. Esta radiación, emitida por el Sol y otras estrellas, es mortal para los seres vivos. Si el cinturón de Van Allen no existiera, los estallidos masivos de energía llamados erupciones solares, que ocurren frecuentemente en el Sol, destruirían toda la vida en la Tierra.
 
 # 2516
 
-Él es Quien creó la noche y el día, el Sol y la Luna. Cada uno recorre su órbita.
+Él es Quien creó la noche y el día, el Sol y la Luna. Cada uno recorre su órbita.[^1]
 
-Dios hace referencia a que el Sol y la Luna se mueven en una órbita definida, y en otro versículo se menciona que el Sol no es estático, sino que se mueve en una órbita determinada: “El Sol orbita como le fue designado; ello es un decreto del Poderoso, el que todo lo sabe” (36:38). Dichas realidades comunicadas por el Corán han sido constatadas a través de la observación astronómica contemporánea. Según los cálculos de los especialistas, el Sol viaja a la enorme velocidad de 720 mil kilómetros por hora en dirección a su ápice, la estrella Vega. Esto significa que el Sol viaja aproximadamente 17‘280.000 km/día, al igual que todos los planetas y satélites de su sistema. El conjunto de las estrellas del universo viajan de manera similar. El Corán se refiere a que todo el cosmos está lleno de senderos y órbitas: “¡Por el cielo surcado de órbitas!” (51:7). En el universo existen alrededor de 250 mil millones de galaxias y cada una tiene unos 200 millones de estrellas. Muchas de éstas poseen planetas y la mayoría de éstos satélites. Todos los cuerpos celestes, e incluso conjuntos de cuerpos, como las galaxias, se mueven en órbitas precisas. No cabe duda alguna de que cuando fue revelado el Corán la humanidad no poseía los telescopios y las técnicas de observación de hoy, capaces de abarcar millones de kilómetros, ni los conocimientos actuales de física o astronomía. Por consiguiente, es imposible que en esa época se hubiese podido determinar que el espacio “está lleno de senderos y órbitas”, como lo expresa el versículo. Evidentemente, es una prueba más de que el Corán es la palabra de Dios.
+[^1]: “El Sol orbita como le fue designado; ello es un decreto del Poderoso, el que todo lo sabe” (36:38). Dichas realidades comunicadas por el Corán han sido constatadas a través de la observación astronómica contemporánea. Según los cálculos de los especialistas, el Sol viaja a la enorme velocidad de 720 mil kilómetros por hora en dirección a su ápice, la estrella Vega. Esto significa que el Sol viaja aproximadamente 17‘280.000 km/día, al igual que todos los planetas y satélites de su sistema. El conjunto de las estrellas del universo viajan de manera similar. El Corán se refiere a que todo el cosmos está lleno de senderos y órbitas: “¡Por el cielo surcado de órbitas!” (51:7). En el universo existen alrededor de 250 mil millones de galaxias y cada una tiene unos 200 millones de estrellas. Muchas de éstas poseen planetas y la mayoría de éstos satélites. Todos los cuerpos celestes, e incluso conjuntos de cuerpos, como las galaxias, se mueven en órbitas precisas. No cabe duda alguna de que cuando fue revelado el Corán la humanidad no poseía los telescopios y las técnicas de observación de hoy, capaces de abarcar millones de kilómetros, ni los conocimientos actuales de física o astronomía. Por consiguiente, es imposible que en esa época se hubiese podido determinar que el espacio “está lleno de senderos y órbitas”, como lo expresa el versículo. Evidentemente, es una prueba más de que el Corán es la palabra de Dios.
 
 # 2517
 
-No he concedido la inmortalidad a ningún ser humano. Si tú [¡oh, Mujámmad!] has de morir, ¿por qué razón iban ellos a ser inmortales?
+No he concedido la inmortalidad a ningún ser humano. Si tú [¡oh, Mujámmad!][^1] has de morir, ¿por qué razón iban ellos a ser inmortales?
 
-Si tú [¡oh, Mujámmad!]: Que eres Mi Profeta y amado.
+[^1]: Que eres Mi Profeta y amado.
 
 # 2518
 
@@ -10979,9 +11046,9 @@ Cuando los que se niegan a creer te ven, se burlan de ti, y dicen: "Éste es qui
 
 # 2520
 
-El ser humano es impaciente por naturaleza. Ya les mostraré Mi castigo, así que no pidan que se adelante.
+El ser humano es impaciente por naturaleza. Ya les mostraré Mi castigo[^1], así que no pidan que se adelante.
 
-Mi castigo: Con el que se les había advertido si rechazaban adorar solo a Dios y Le asociaban falsas deidades.
+[^1]: Con el que se les había advertido si rechazaban adorar solo a Dios y Le asociaban falsas deidades.
 
 # 2521
 
@@ -11029,9 +11096,9 @@ Concedí a Moisés y a Aarón el Criterio [la Tora], para iluminar y exhortar a 
 
 # 2532
 
-a los que tienen temor a su Señor en privado, y sienten temor de la Hora [del Juicio].
+a los que tienen temor a su Señor en privado[^1], y sienten temor de la Hora [del Juicio].
 
-en privado: Cuando nadie más que Dios los observa.
+[^1]: Cuando nadie más que Dios los observa.
 
 # 2533
 
@@ -11039,9 +11106,9 @@ Este [Corán] es un Mensaje bendito que he revelado. ¿Acaso van a rechazarlo?
 
 # 2534
 
-Antes [de Moisés] le concedí la guía a Abraham, a quien bien conocía.
+Antes [de Moisés] le concedí la guía a Abraham, a quien bien conocía.[^1]
 
-Dios sabía que Abraham era idóneo para la difícil tarea de llevar el Mensaje a un pueblo de fanáticos adoradores de ídolos, que intentaron asesinarlo quemándolo en una hoguera, simplemente porque les demostró lo incoherente de adorar estatuas que ellos mismos habían construido.
+[^1]: Dios sabía que Abraham era idóneo para la difícil tarea de llevar el Mensaje a un pueblo de fanáticos adoradores de ídolos, que intentaron asesinarlo quemándolo en una hoguera, simplemente porque les demostró lo incoherente de adorar estatuas que ellos mismos habían construido.
 
 # 2535
 
@@ -11093,15 +11160,15 @@ Respondió: "¡Fue ese, el mayor de todos! Pregúntenle [a sus dioses], si es qu
 
 # 2547
 
-Comenzaron a criticarse unos a otros diciendo: "Ustedes son los malhechores".
+Comenzaron a criticarse unos a otros diciendo: "Ustedes son los malhechores".[^1]
 
-Al adorar un ídolo de madera que ni siquiera puede hablar.
+[^1]: Al adorar un ídolo de madera que ni siquiera puede hablar.
 
 # 2548
 
-Pero luego volvieron a su estado anterior [y le dijeron]: "Tú bien sabes que no pueden hablar".
+Pero luego volvieron a su estado anterior[^1] [y le dijeron]: "Tú bien sabes que no pueden hablar".
 
-volvieron a su estado anterior: El apego fanático a las tradiciones de sus ancestros, a pesar de que contradecían la lógica y el razonamiento sano, pesó más en ellos, y en lugar de abandonar la idolatría, volcaron su frustración y odio sobre Abraham.
+[^1]: El apego fanático a las tradiciones de sus ancestros, a pesar de que contradecían la lógica y el razonamiento sano, pesó más en ellos, y en lugar de abandonar la idolatría, volcaron su frustración y odio sobre Abraham.
 
 # 2549
 
@@ -11125,9 +11192,9 @@ Pretendieron deshacerse de él, pero hice que fueran ellos los perdedores.
 
 # 2554
 
-Lo salvé a él y también a Lot, para que fueran a la tierra que bendije para toda la humanidad.
+Lo salvé a él y también a Lot, para que fueran a la tierra que bendije para toda la humanidad.[^1]
 
-Abraham y Lot, al abandonar sus pueblos debido al castigo de Dios sobre ellos, emigraron a Palestina, la tierra que Dios describe como bendita para TODA la humanidad, y no solo para un pueblo que se autodenomina “los elegidos de Dios”.
+[^1]: Abraham y Lot, al abandonar sus pueblos debido al castigo de Dios sobre ellos, emigraron a Palestina, la tierra que Dios describe como bendita para TODA la humanidad, y no solo para un pueblo que se autodenomina “los elegidos de Dios”.
 
 # 2555
 
@@ -11147,9 +11214,9 @@ Lo ingresé en Mi misericordia, porque era uno de los justos.
 
 # 2559
 
-Cuando antes [de Lot] Noé Me invocó, le respondí [su súplica], salvándolo junto a su familia de la gran calamidad.
+Cuando antes [de Lot] Noé Me invocó, le respondí [su súplica], salvándolo junto a su familia de la gran calamidad[^1].
 
-la gran calamidad: El diluvio.
+[^1]: El diluvio.
 
 # 2560
 
@@ -11209,10 +11276,11 @@ Respondí su súplica y le agracié con [su hijo] Juan, haciendo que su mujer fu
 
 # 2574
 
-[Recuerda] a aquella que conservó su virginidad, cuando infundí Mi espíritu en ella. Así hice de ella y su hijo un signo [de Mi poder divino] para toda la humanidad.
+[Recuerda] a aquella que conservó su virginidad[^1], cuando infundí Mi espíritu en ella[^2]. Así hice de ella y su hijo un signo [de Mi poder divino] para toda la humanidad.
 
-aquella que conservó su virginidad : La virgen María, madre de Jesús. 
-infundí Mi espíritu en ella: A través del ángel Gabriel.
+[^1]: La virgen María, madre de Jesús.
+
+[^2]: A través del ángel Gabriel.
 
 # 2575
 
@@ -11224,9 +11292,9 @@ Pero luego [las generaciones que vinieron después] se dividieron, aunque todos 
 
 # 2577
 
-Quien sea creyente y realice obras buenas sepa que no habrá ingratitud para su esfuerzo. Todo lo tengo registrado.
+Quien sea creyente y realice obras buenas sepa que no habrá ingratitud para su esfuerzo. Todo lo tengo registrado.[^1]
 
-Dios es Justo y nunca deja de reconocer las obras de bien y recompensar por ellas.
+[^1]: Dios es Justo y nunca deja de reconocer las obras de bien y recompensar por ellas.
 
 # 2578
 
@@ -11246,9 +11314,9 @@ Ustedes y cuanto adoran en vez de Dios serán combustible para el fuego del Infi
 
 # 2582
 
-Si estos [ídolos] fueran divinidades como ustedes pretenden, no ingresarían en él. Pero todos ustedes junto a lo que adoraban estarán allí por toda la eternidad.
+Si estos [ídolos] fueran divinidades como ustedes pretenden, no ingresarían en él[^1]. Pero todos ustedes junto a lo que adoraban estarán allí por toda la eternidad.
 
-no ingresarían en él: Si realmente fueran dioses, no sufrirían en el Infierno.
+[^1]: Si realmente fueran dioses, no sufrirían en el Infierno.
 
 # 2583
 
@@ -11256,9 +11324,9 @@ Allí emitirán alaridos [por el tormento], y por eso no podrán oír nada más.
 
 # 2584
 
-Pero aquellos para quienes estaba decretado que recibirían "lo más hermoso", estarán alejados del Infierno,
+Pero aquellos para quienes estaba decretado que recibirían "lo más hermoso", estarán alejados del Infierno,[^1]
 
-“lo más hermoso”: Los jardines del Paraíso.
+[^1]: Los jardines del Paraíso.
 
 # 2585
 
@@ -11286,9 +11354,9 @@ No te he enviado [¡oh, Mujámmad!] sino como misericordia para todos los seres.
 
 # 2591
 
-Diles: "Me ha sido revelado que Dios es un Dios único. ¿Acaso no van a ser musulmanes?
+Diles: "Me ha sido revelado que Dios es un Dios único. ¿Acaso no van a ser musulmanes?[^1]
 
-Que libremente someten a Él su voluntad.
+[^1]: Que libremente someten a Él su voluntad.
 
 # 2592
 
@@ -11320,21 +11388,21 @@ Hay gente que discute acerca de Dios sin conocimiento, y siguen a todo demonio r
 
 # 2599
 
-Fue decretado que a quien lo siguiese, él lo extraviará y lo conducirá al castigo del Infierno.
+Fue decretado que a quien lo siguiese[^1], él lo extraviará y lo conducirá al castigo del Infierno.
 
-a quien lo siguiese: A los susurros del demonio que lo acompaña.
+[^1]: A los susurros del demonio que lo acompaña.
 
 # 2600
 
-¡Oh, gente! Si tienen dudas de que tengo el poder para resucitarlos, sepan que he creado [a Adán] de barro, luego [a toda su descendencia] de un óvulo fecundado que luego se transforma en un embrión, luego en una masa de tejidos, algunos ya formados y otros por formarse; ello es una evidencia [de Mi poder y sabiduría]. Preservo en el útero materno a aquellos que decreté que completen su gestación. Los hago nacer, y luego de la infancia alcanzan la madurez; algunos mueren [antes de esta etapa] y otros alcanzan la vejez, y ya no recuerdan nada del conocimiento que habían adquirido. También pueden observar a la tierra árida, y cómo cuando hago que llueva sobre ella, se remueve, se hincha, y brota toda clase de plantas bellas.
+¡Oh, gente! Si tienen dudas de que tengo el poder para resucitarlos, sepan que he creado [a Adán] de barro[^1], luego [a toda su descendencia] de un óvulo fecundado que luego se transforma en un embrión, luego en una masa de tejidos, algunos ya formados y otros por formarse; ello es una evidencia [de Mi poder y sabiduría]. Preservo en el útero materno a aquellos que decreté que completen su gestación. Los hago nacer, y luego de la infancia alcanzan la madurez; algunos mueren [antes de esta etapa] y otros alcanzan la vejez, y ya no recuerdan nada del conocimiento que habían adquirido. También pueden observar a la tierra árida, y cómo cuando hago que llueva sobre ella, se remueve, se hincha, y brota toda clase de plantas bellas.
 
-he creado [a Adán] de barro: Alguien podría preguntarse: ¿Según el Corán, de qué fue creado el ser humano? De una célula embrionaria (96:1-2), del agua (21:30, 24:45, 25:54), de arcilla, un barro maleable (15:26), de polvo (3:59, 30:20, 35:11), de la nada (19:67), luego eso es negado en 52:35; de la tierra (11:61), de una gota de un óvulo fecundado (16:4, 75:37). Si tres panaderos dijeran: “El pan se hace con harina”, otro dijera: “El pan está hecho con masa”, y un tercero dijera: “El pan se hace con trigo”, ¿se consideraría una contradicción? Si un físico agregara: “El pan está compuesto de átomos”, y otro dijera: “El pan está constituido por moléculas”, ¿sería esto considerado una contradicción? La sangre de todas las criaturas vivientes está compuesta en un 55% por plasma, que a su vez está compuesto en un 90% por agua. Por otro lado, el Corán fue revelado por Dios hace catorce siglos, aunque actualmente es bien conocido el hecho de que el principal elemento en el cuerpo humano es el agua (algo enfatizado solo en el Corán, no en la Biblia). Es también bien conocido que la humanidad está hecha de “polvo”; cuando colocas un cuerpo en una tumba y lo dejas por una cierta cantidad de años, el agua se evapora y se convierte en polvo. ¿Qué es la “arcilla”? ¿No es una forma que adopta el agua y el polvo al mezclarse? Es igualmente obvio que si Dios creó todo, entonces debe haber habido un tiempo en que todo lo que vemos ahora era “nada”, incluso el ser humano.
+[^1]: Alguien podría preguntarse: ¿Según el Corán, de qué fue creado el ser humano? De una célula embrionaria (96:1-2), del agua (21:30, 24:45, 25:54), de arcilla, un barro maleable (15:26), de polvo (3:59, 30:20, 35:11), de la nada (19:67), luego eso es negado en 52:35; de la tierra (11:61), de una gota de un óvulo fecundado (16:4, 75:37). Si tres panaderos dijeran: “El pan se hace con harina”, otro dijera: “El pan está hecho con masa”, y un tercero dijera: “El pan se hace con trigo”, ¿se consideraría una contradicción? Si un físico agregara: “El pan está compuesto de átomos”, y otro dijera: “El pan está constituido por moléculas”, ¿sería esto considerado una contradicción? La sangre de todas las criaturas vivientes está compuesta en un 55% por plasma, que a su vez está compuesto en un 90% por agua. Por otro lado, el Corán fue revelado por Dios hace catorce siglos, aunque actualmente es bien conocido el hecho de que el principal elemento en el cuerpo humano es el agua (algo enfatizado solo en el Corán, no en la Biblia). Es también bien conocido que la humanidad está hecha de “polvo”; cuando colocas un cuerpo en una tumba y lo dejas por una cierta cantidad de años, el agua se evapora y se convierte en polvo. ¿Qué es la “arcilla”? ¿No es una forma que adopta el agua y el polvo al mezclarse? Es igualmente obvio que si Dios creó todo, entonces debe haber habido un tiempo en que todo lo que vemos ahora era “nada”, incluso el ser humano.
 
 # 2601
 
-Porque Dios es la Verdad. Él resucitará a los muertos, y es sobre toda cosa Poderoso.
+Porque Dios es la Verdad[^1]. Él resucitará a los muertos, y es sobre toda cosa Poderoso.
 
-Dios es la Verdad: La única divinidad, solo Él merece ser adorado. Todo lo que es adorado fuera de Dios, lo es sin derecho ni merecimiento alguno.
+[^1]: La única divinidad, solo Él merece ser adorado. Todo lo que es adorado fuera de Dios, lo es sin derecho ni merecimiento alguno.
 
 # 2602
 
@@ -11354,9 +11422,9 @@ Con arrogancia pretenden apartar a la gente del camino de Dios. Serán humillado
 
 # 2606
 
-Hay gente cuya fe está siempre al borde [de la incredulidad]. Si les ocurre un bien se sienten tranquilos; pero si les ocurre una desgracia reniegan de la fe, perdiéndose la recompensa de este mundo y el otro. Esa es la auténtica perdición.
+Hay gente cuya fe está siempre al borde [de la incredulidad][^1]. Si les ocurre un bien se sienten tranquilos; pero si les ocurre una desgracia reniegan de la fe, perdiéndose la recompensa de este mundo y el otro. Esa es la auténtica perdición.
 
-al borde [de la incredulidad]: Es gente que adora a Dios como si Le hicieran un favor.
+[^1]: Es gente que adora a Dios como si Le hicieran un favor.
 
 # 2607
 
@@ -11408,9 +11476,9 @@ Dios hará entrar en jardines por donde corren ríos a los creyentes que hayan o
 
 # 2619
 
-[En la vida mundanal] habían sido guiados hacia la bella palabra y al camino de la alabanza.
+[En la vida mundanal] habían sido guiados hacia la bella palabra[^1] y al camino de la alabanza.
 
-la bella palabra: El testimonio del monoteísmo: La ilaha illa Al-lah لا إله إلا الله (no hay nada ni nadie con derecho a ser adorado salvo Dios).
+[^1]: El testimonio del monoteísmo: La ilaha illa Al-lah لا إله إلا الله (no hay nada ni nadie con derecho a ser adorado salvo Dios).
 
 # 2620
 
@@ -11422,9 +11490,9 @@ A los que se nieguen a creer y aparten a la gente del sendero de Dios, e impidan
 
 # 2622
 
-[le dije:] "Convoca a la gente a realizar la peregrinación; vendrán a ti a pie o montados, desde todo lugar apartado".
+[le dije:] "Convoca a la gente a realizar la peregrinación[^1]; vendrán a ti a pie o montados, desde todo lugar apartado".
 
-la peregrinación: La Peregrinación (Hayy الحجّ ) es uno de los cinco pilares prácticos del Islam. Fue prescrito como obligación en el noveno año después de la Hégira. Este pilar es obligatorio para todo musulmán adulto, consciente y pudiente, una vez en la vida. Es un deber, también, no postergar el cumplimiento de este rito cuando se cuenta con los medios para realizarlo.
+[^1]: La Peregrinación (Hayy الحجّ ) es uno de los cinco pilares prácticos del Islam. Fue prescrito como obligación en el noveno año después de la Hégira. Este pilar es obligatorio para todo musulmán adulto, consciente y pudiente, una vez en la vida. Es un deber, también, no postergar el cumplimiento de este rito cuando se cuenta con los medios para realizarlo.
 
 # 2623
 
@@ -11432,16 +11500,17 @@ Para que sean testigos de todas las gracias [de la peregrinación y la casa de D
 
 # 2624
 
-Luego de cumplir los ritos, que cumplan sus votos y que circunvalen la Antigua Casa [de La Meca].
+Luego de cumplir los ritos, que cumplan sus votos[^1] y que circunvalen la Antigua Casa [de La Meca][^2].
 
-cumplan sus votos: Realicen la peregrinación menor y mayor según la modalidad que habían prometido a Dios en su intensión, y ofrezcan el sacrificio del cordero correspondiente a su rito. 
-la Antigua Casa [de La Meca]: La Ka’bah الكعبة . Fue el primer templo construido por el ser humano para la adoración de Dios. Sus bases fueron hechas por Adán, y luego el Profeta Abraham junto a su hijo Ismael elevaron la construcción por orden de Dios y llamaron a los monoteístas a peregrinar a ella. Los musulmanes de todo el mundo se orientan hacia esta construcción al realizar sus cinco oraciones diarias.
+[^1]: Realicen la peregrinación menor y mayor según la modalidad que habían prometido a Dios en su intensión, y ofrezcan el sacrificio del cordero correspondiente a su rito.
+
+[^2]: La Ka’bah الكعبة . Fue el primer templo construido por el ser humano para la adoración de Dios. Sus bases fueron hechas por Adán, y luego el Profeta Abraham junto a su hijo Ismael elevaron la construcción por orden de Dios y llamaron a los monoteístas a peregrinar a ella. Los musulmanes de todo el mundo se orientan hacia esta construcción al realizar sus cinco oraciones diarias.
 
 # 2625
 
-Así deben hacer. Quien respete los preceptos sagrados de Dios, será mejor para él ante su Señor [porque lo recompensará en esta vida y en la otra]. Sepan que les son lícitas las reses, excepto lo que se les ha mencionado [como prohibido]. Manténganse alejados de la impureza de los ídolos y apartados de las afirmaciones falsas.
+Así deben hacer. Quien respete los preceptos sagrados de Dios, será mejor para él ante su Señor [porque lo recompensará en esta vida y en la otra]. Sepan que les son lícitas las reses, excepto lo que se les ha mencionado [como prohibido][^1]. Manténganse alejados de la impureza de los ídolos y apartados de las afirmaciones falsas.
 
-mencionado [como prohibido]: Ver Corán 5:3.
+[^1]: Ver Corán 5:3.
 
 # 2626
 
@@ -11453,9 +11522,9 @@ Sepan que respetar los ritos de Dios dimana de la piedad que hay en los corazone
 
 # 2628
 
-Pueden beneficiarse de los animales hasta un plazo determinado; pero luego, su lugar [de sacrificio] es junto a la Antigua Casa.
+Pueden beneficiarse de los animales hasta un plazo determinado; pero luego, su lugar [de sacrificio] es junto a la Antigua Casa[^1].
 
-la Antigua Casa: Referencia al recinto sagrado que rodea la mezquita de La Meca, donde tienen lugar los ritos de la peregrinación.
+[^1]: Referencia al recinto sagrado que rodea la mezquita de La Meca, donde tienen lugar los ritos de la peregrinación.
 
 # 2629
 
@@ -11467,10 +11536,11 @@ aquellos cuyos corazones se emocionan cuando se menciona a Dios, son pacientes a
 
 # 2631
 
-Establecí que [el sacrificio] de los ganados sea parte de los ritos de Dios, en ello hay un bien para ustedes. Mencionen el nombre de Dios sobre ellos cuando estén dispuestos en fila [para ser sacrificados]. Luego, cuando se desplomen sobre sus costados [sin vida], coman de ellos y den de comer al mendigo y al necesitado. Así los puse a su servicio para que sean agradecidos.
+Establecí que [el sacrificio] de los ganados[^1] sea parte de los ritos de Dios, en ello hay un bien para ustedes[^2]. Mencionen el nombre de Dios sobre ellos cuando estén dispuestos en fila [para ser sacrificados]. Luego, cuando se desplomen sobre sus costados [sin vida], coman de ellos y den de comer al mendigo y al necesitado. Así los puse a su servicio para que sean agradecidos.
 
-[el sacrificio] de los ganados: Aquellos que realizan la peregrinación ofrecen como parte de los ritos el sacrificio de un cordero, o siete personas pueden ofrecer un novillo o un camello, cuya carne debe ser distribuida entre los pobres. 
-hay un bien para ustedes: Porque ayuda a quien sacrifica a desapegarse de su dinero y ayuda al pobre, quien recibe una ayuda generosa, lo que reconcilia los corazones de todos los integrantes de la sociedad y la comunidad islámica mundial.
+[^1]: Aquellos que realizan la peregrinación ofrecen como parte de los ritos el sacrificio de un cordero, o siete personas pueden ofrecer un novillo o un camello, cuya carne debe ser distribuida entre los pobres.
+
+[^2]: Porque ayuda a quien sacrifica a desapegarse de su dinero y ayuda al pobre, quien recibe una ayuda generosa, lo que reconcilia los corazones de todos los integrantes de la sociedad y la comunidad islámica mundial.
 
 # 2632
 
@@ -11486,9 +11556,9 @@ Se les ha permitido [combatir a los creyentes] que son atacados porque son víct
 
 # 2635
 
-Ellos fueron expulsados injustamente de sus hogares solo por haber dicho: "Nuestro Señor es Dios". Si Dios no se hubiera servido de algunas personas [creyentes] para combatir a otros [incrédulos], se habrían destruido monasterios, iglesias, sinagogas y mezquitas, en donde se recuerda frecuentemente el nombre de Dios. Dios socorre a quien se esfuerza denodadamente por Su religión. Dios es Fuerte, Poderoso.
+Ellos fueron expulsados injustamente de sus hogares solo por haber dicho: "Nuestro Señor es Dios". Si Dios no se hubiera servido de algunas personas [creyentes] para combatir a otros [incrédulos], se habrían destruido monasterios, iglesias, sinagogas y mezquitas, en donde se recuerda frecuentemente el nombre de Dios. Dios socorre a quien se esfuerza denodadamente por Su religión. Dios es Fuerte, Poderoso.[^1]
 
-Este versículo evidencia que el Islam promueve que los lugares de culto y adoración de todas las religiones deben ser respetados.
+[^1]: Este versículo evidencia que el Islam promueve que los lugares de culto y adoración de todas las religiones deben ser respetados.
 
 # 2636
 
@@ -11496,9 +11566,9 @@ Aquellos que, si les doy autoridad en la Tierra, cumplen con la oración, pagan 
 
 # 2637
 
-Si te desmienten [¡oh, Mujámmad!], sabe que ya antes habían desmentido los pueblos de Noé, ‘Ad, Zamud,
+Si te desmienten [¡oh, Mujámmad!], sabe que ya antes habían desmentido los pueblos de Noé, ‘Ad[^1], Zamud,
 
-‘Ad : A comienzos de 1990 aparecieron titulares en importantes periódicos con frases como: “Ha sido descubierta una legendaria ciudad árabe perdida”, “se ha encontrado la ciudad árabe de la leyenda”, “Ubar, la Atlántida de las arenas”. Lo que ha vuelto más sorprendente este hallazgo arqueológico es el hecho de que esta ciudad estaba mencionada en el Corán. Fue Nicholas Clapp, un arqueólogo aficionado, quien encontró esta ciudad legendariat mencionada en el Corán. Como amante de la civilización árabe y premiado director de documentales, Clapp se había topado con un libro muy interesante durante sus investigaciones en historia de los árabes. Ese libro era Arabia Felix, escrito por el investigador inglés Bertram Thomas en 1932. “Arabia feliz” era el nombre que los romanos le daban al extremo sur de la Península Árabe que hoy incluye al Yemen y parte de Omán. Los griegos llamaban a esta región “Eudaimon Arabia” y los eruditos árabes del medioevo la denominaban “AlYaman As-Sa’ida”. El investigador británico Thomas describía a esas “afortunadas” tribus in extenso, y afirmaba que había encontrado rastros de una ciudad antigua fundada por esos pueblos. Era la ciudad conocida como “Ubar” por los beduinos. Clapp, que examinó lo que había escrito el investigador inglés, estaba convencido de la existencia de la ciudad perdida descrita en el libro. Clapp utilizó dos caminos para probar la existencia de Ubar. Primero, encontró las sendas que los beduinos decían que existían. Recurrió a la NASA para obtener imágenes satelitales del área. Clapp siguió con el estudio de antiguos manuscritos y mapas de la Biblioteca Huntington en California. Su objetivo era encontrar un mapa de la región. Después de una breve búsqueda encontró uno. Era un mapa trazado por el conocido geógrafo greco-egipcio Ptolomeo en el 200 d.C. En el mapa figuraba la ubicación de una antigua ciudad en la región y los caminos que conducían a ella. En las fotos satelitales tomadas por la NASA se distinguían algunos senderos de caravanas que era difícil identificar a ojo desnudo y que solo podían apreciarse en su totalidad desde una visión satelital. Comparando estas fotos con el viejo mapa que tenía en sus manos, Clapp finalmente llegó al resultado que anhelaba: los senderos del mapa se correspondían con los que se veían en las fotos tomadas desde el satélite. El destino final de estos senderos era un solar amplio en donde se presumía que alguna vez hubo una ciudad. En poco tiempo empezaron las excavaciones y comenzaron a emerger de las arenas los restos de una antigua ciudad. Fue por eso que esta ciudad perdida fue descrita como “Ubar, la Atlántida de las arenas”. A partir del momento mismo en que comenzaron a desenterrarse las ruinas, quedó claro que las mismas pertenecían al pueblo de ‘Ad y eran los pilares de Iram referidos en el Corán, porque entre las estructuras desenterradas se encontraron las torres allí mencionadas. Un miembro del equipo de investigadores que conducía la excavación, el Dr. Zarins, dijo que al ser las torres la característica distintiva de Ubar, y siendo que Iram es mencionada como una ciudad caracterizada por tener pilares o torres, esto constituye la prueba más contundente de que las ruinas descubiertas pertenecían a esa ciudad del pueblo de ‘Ad descrita en el Corán. El Corán menciona a Iram como sigue: “¿No has visto cómo tu Señor castigó al pueblo de ‘Ád en Iram?, el de las [construcciones con grandes] columnas, que no tenía similar entre los otros pueblos [en su opulencia]” (Corán 89:6-8). Como puede verse, el hecho de que la información suministrada por el Corán sobre acontecimientos del pasado confirme los datos históricos recientemente obtenidos, es una evidencia más de que es la Palabra de Dios.
+[^1]: A comienzos de 1990 aparecieron titulares en importantes periódicos con frases como: “Ha sido descubierta una legendaria ciudad árabe perdida”, “se ha encontrado la ciudad árabe de la leyenda”, “Ubar, la Atlántida de las arenas”. Lo que ha vuelto más sorprendente este hallazgo arqueológico es el hecho de que esta ciudad estaba mencionada en el Corán. Fue Nicholas Clapp, un arqueólogo aficionado, quien encontró esta ciudad legendariat mencionada en el Corán. Como amante de la civilización árabe y premiado director de documentales, Clapp se había topado con un libro muy interesante durante sus investigaciones en historia de los árabes. Ese libro era Arabia Felix, escrito por el investigador inglés Bertram Thomas en 1932. “Arabia feliz” era el nombre que los romanos le daban al extremo sur de la Península Árabe que hoy incluye al Yemen y parte de Omán. Los griegos llamaban a esta región “Eudaimon Arabia” y los eruditos árabes del medioevo la denominaban “AlYaman As-Sa’ida”. El investigador británico Thomas describía a esas “afortunadas” tribus in extenso, y afirmaba que había encontrado rastros de una ciudad antigua fundada por esos pueblos. Era la ciudad conocida como “Ubar” por los beduinos. Clapp, que examinó lo que había escrito el investigador inglés, estaba convencido de la existencia de la ciudad perdida descrita en el libro. Clapp utilizó dos caminos para probar la existencia de Ubar. Primero, encontró las sendas que los beduinos decían que existían. Recurrió a la NASA para obtener imágenes satelitales del área. Clapp siguió con el estudio de antiguos manuscritos y mapas de la Biblioteca Huntington en California. Su objetivo era encontrar un mapa de la región. Después de una breve búsqueda encontró uno. Era un mapa trazado por el conocido geógrafo greco-egipcio Ptolomeo en el 200 d.C. En el mapa figuraba la ubicación de una antigua ciudad en la región y los caminos que conducían a ella. En las fotos satelitales tomadas por la NASA se distinguían algunos senderos de caravanas que era difícil identificar a ojo desnudo y que solo podían apreciarse en su totalidad desde una visión satelital. Comparando estas fotos con el viejo mapa que tenía en sus manos, Clapp finalmente llegó al resultado que anhelaba: los senderos del mapa se correspondían con los que se veían en las fotos tomadas desde el satélite. El destino final de estos senderos era un solar amplio en donde se presumía que alguna vez hubo una ciudad. En poco tiempo empezaron las excavaciones y comenzaron a emerger de las arenas los restos de una antigua ciudad. Fue por eso que esta ciudad perdida fue descrita como “Ubar, la Atlántida de las arenas”. A partir del momento mismo en que comenzaron a desenterrarse las ruinas, quedó claro que las mismas pertenecían al pueblo de ‘Ad y eran los pilares de Iram referidos en el Corán, porque entre las estructuras desenterradas se encontraron las torres allí mencionadas. Un miembro del equipo de investigadores que conducía la excavación, el Dr. Zarins, dijo que al ser las torres la característica distintiva de Ubar, y siendo que Iram es mencionada como una ciudad caracterizada por tener pilares o torres, esto constituye la prueba más contundente de que las ruinas descubiertas pertenecían a esa ciudad del pueblo de ‘Ad descrita en el Corán. El Corán menciona a Iram como sigue: “¿No has visto cómo tu Señor castigó al pueblo de ‘Ád en Iram?, el de las [construcciones con grandes] columnas, que no tenía similar entre los otros pueblos [en su opulencia]” (Corán 89:6-8). Como puede verse, el hecho de que la información suministrada por el Corán sobre acontecimientos del pasado confirme los datos históricos recientemente obtenidos, es una evidencia más de que es la Palabra de Dios.
 
 # 2638
 
@@ -11514,10 +11584,11 @@ los habitantes de Madián, y también fue desmentido Moisés. Les concedí un pl
 
 # 2641
 
-¿Acaso [los que se niegan a creer] no viajan por el mundo, y no tienen intelecto para reflexionar, ni oídos? No son sus ojos los que están ciegos, sino los corazones que están dentro de sus pechos [los que están ciegos].
+¿Acaso [los que se niegan a creer] no viajan por el mundo, y no tienen intelecto[^1] para reflexionar, ni oídos[^2]? No son sus ojos los que están ciegos, sino los corazones que están dentro de sus pechos [los que están ciegos].
 
-intelecto: Algunas personas afirman que creer en la revelación anula la razón y el intelecto, extingue la luz de la mente, tornándola ineficaz y perezosa. Ésta es una afirmación falsa. La revelación divina dirige la razón para que examine y valorice el universo. En el área del conocimiento revelado, la función de la razón es examinar la revelación para corroborar que procede de Dios, y luego usar la razón para comprender cómo aplicar mejor la revelación.
-oídos: Para escuchar la revelación, y a los historiadores que relatan lo que les sucedió a los pueblos que les precedieron.
+[^1]: Algunas personas afirman que creer en la revelación anula la razón y el intelecto, extingue la luz de la mente, tornándola ineficaz y perezosa. Ésta es una afirmación falsa. La revelación divina dirige la razón para que examine y valorice el universo. En el área del conocimiento revelado, la función de la razón es examinar la revelación para corroborar que procede de Dios, y luego usar la razón para comprender cómo aplicar mejor la revelación.
+
+[^2]: Para escuchar la revelación, y a los historiadores que relatan lo que les sucedió a los pueblos que les precedieron.
 
 # 2642
 
@@ -11553,9 +11624,9 @@ Aquellos que fueron agraciados con el conocimiento y la sabiduría, saben que el
 
 # 2650
 
-Los que se niegan a creer no cesarán de dudar sobre él hasta que los sorprenda la Hora [del Juicio], o les llegue el castigo de un día nefasto.
+Los que se niegan a creer no cesarán de dudar sobre él[^1] hasta que los sorprenda la Hora [del Juicio], o les llegue el castigo de un día nefasto.
 
-sobre él: El Mensaje del Islam.
+[^1]: El Mensaje del Islam.
 
 # 2651
 
@@ -11615,9 +11686,9 @@ Dios juzgará entre ustedes el Día del Juicio sobre lo que solían discrepar.
 
 # 2665
 
-¿Acaso no sabes que Dios conoce cuanto hay en el cielo y en la Tierra? Todo está registrado en un libro, eso es fácil para Dios.
+¿Acaso no sabes que Dios conoce cuanto hay en el cielo y en la Tierra? Todo está registrado en un libro[^1], eso es fácil para Dios.
 
-en un libro: En la Tabla Protegida o Al-Lauh Al Mahfudh اللوح المحفوظ
+[^1]: En la Tabla Protegida o Al-Lauh Al Mahfudh اللوح المحفوظ
 
 # 2666
 
@@ -11673,9 +11744,9 @@ preservan sus genitales [del adulterio y la fornicación],
 
 # 2679
 
-y solo cohabitan con sus esposas o con lo que posee su diestra, porque eso no es censurable.
+y solo cohabitan con sus esposas o con lo que posee su diestra[^1], porque eso no es censurable.
 
-lo que posee su diestra: Ver Corán 4:25.
+[^1]: Ver Corán 4:25.
 
 # 2680
 
@@ -11691,15 +11762,15 @@ y cumplen con sus oraciones.
 
 # 2683
 
-[Quienes tengan estas virtudes] serán los herederos
+[Quienes tengan estas virtudes[^1]] serán los herederos
 
-estas virtudes: Todas las virtudes mencionadas tienen como objetivo invitar a que la persona las cultive en sí mismo.
+[^1]: Todas las virtudes mencionadas tienen como objetivo invitar a que la persona las cultive en sí mismo.
 
 # 2684
 
-que heredarán el Firdaus, en el que morarán por toda la eternidad.
+que heredarán el Firdaus[^1], en el que morarán por toda la eternidad.
 
-el Firdaus: El Firdaus الفردوس es el estado más alto y sublime del Paraíso.
+[^1]: El Firdaus الفردوس es el estado más alto y sublime del Paraíso.
 
 # 2685
 
@@ -11707,9 +11778,9 @@ Creé al [primer] ser humano de barro.
 
 # 2686
 
-Luego [hice que se reprodujera por medio de la fecundación, y] preservé el óvulo fecundado dentro de una cavidad segura.
+Luego [hice que se reprodujera por medio de la fecundación, y] preservé el óvulo fecundado dentro de una cavidad segura[^1].
 
-cavidad segura: El útero.
+[^1]: El útero.
 
 # 2687
 
@@ -11729,9 +11800,9 @@ Creé siete cielos por encima de ustedes, y no he descuidado la creación.
 
 # 2691
 
-Hice descender del cielo el agua en una medida limitada para que permanezca en la tierra, pero si quisiera la podría hacer desaparecer.
+Hice descender del cielo el agua en una medida limitada[^1] para que permanezca en la tierra, pero si quisiera la podría hacer desaparecer.
 
-en una medida limitada: Ver Corán 43:11.
+[^1]: Ver Corán 43:11.
 
 # 2692
 
@@ -11775,9 +11846,9 @@ Cuando tú y quienes estén contigo se encuentren en el arca, di: ¡Alabado sea 
 
 # 2702
 
-Y di: "¡Señor mío! Hazme llegar a un destino bendito, pues Tú eres Quien mejor hace llegar a destino".
+Y di: "¡Señor mío! Hazme llegar a un destino bendito[^1], pues Tú eres Quien mejor hace llegar a destino".
 
-a un destino bendito: Para que el arca llegue a un lugar seguro y bendecido con la misericordia de Dios.
+[^1]: Para que el arca llegue a un lugar seguro y bendecido con la misericordia de Dios.
 
 # 2703
 
@@ -11789,9 +11860,9 @@ Luego [de la destrucción del pueblo de Noé], hice surgir nuevas generaciones,
 
 # 2705
 
-y les envié un Mensajero de entre ellos [que les dijo]: "Adoren solamente a Dios, ya que no existe otra divinidad salvo Él. ¿Es que no van a tener temor [de Dios]?"
+y les envié un Mensajero de entre ellos [que les dijo]: "Adoren solamente a Dios, ya que no existe otra divinidad salvo Él. ¿Es que no van a tener temor [de Dios]?"[^1]
 
-Ya que conocen la historia reciente del diluvio.
+[^1]: Ya que conocen la historia reciente del diluvio.
 
 # 2706
 
@@ -11839,9 +11910,9 @@ Ninguna comunidad puede adelantar ni retrasar su plazo.
 
 # 2717
 
-Envié a Mis Mensajeros unos tras otros. Cada comunidad a la que le llegaba su Mensajero, lo desmentía. Así que las destruí una tras otra e hice que se convirtieran en ejemplos. ¡Que sean destruidos los pueblos que se niegan a creer!
+Envié a Mis Mensajeros unos tras otros. Cada comunidad a la que le llegaba su Mensajero, lo desmentía. Así que las destruí una tras otra e hice que se convirtieran en ejemplos[^1]. ¡Que sean destruidos los pueblos que se niegan a creer!
 
-ejemplos: Casos históricos para que la gente pueda reflexionar sobre ellos.
+[^1]: Casos históricos para que la gente pueda reflexionar sobre ellos.
 
 # 2718
 
@@ -11865,9 +11936,9 @@ Le entregué a Moisés el Libro para que fueran de los bien guiados.
 
 # 2723
 
-Hice de Jesús y su madre María, un signo [de Mi poder]. A ambos les di refugio en una colina, un lugar de descanso seguro con aguas cristalinas.
+Hice de Jesús y su madre María, un signo [de Mi poder]. A ambos les di refugio en una colina, un lugar de descanso seguro con aguas cristalinas.[^1]
 
-Jerusalén.
+[^1]: Jerusalén.
 
 # 2724
 
@@ -11915,9 +11986,9 @@ ellos se apresuran a realizar obras de bien, y son los primeros en hacerlas.
 
 # 2735
 
-No exijo a nadie por encima de sus posibilidades. [Sepan que] tengo un Libro que dice la verdad, y nadie será tratado injustamente.
+No exijo a nadie por encima de sus posibilidades. [Sepan que] tengo un Libro que dice la verdad[^1], y nadie será tratado injustamente.
 
-Libro que dice la verdad: En el que se encuentran registradas todas las obras.
+[^1]: En el que se encuentran registradas todas las obras.
 
 # 2736
 
@@ -11961,9 +12032,9 @@ Si la verdad siguiera a las pasiones [de los que se negaron a creer], los cielos
 
 # 2746
 
-Tú los invitas al camino recto.
+Tú los invitas al camino recto.[^1]
 
-El mensaje monoteísta del Islam.
+[^1]: El mensaje monoteísta del Islam.
 
 # 2747
 
@@ -12015,9 +12086,9 @@ Sin duda responderán: "A Dios". Diles: "¿Acaso no van a recapacitar [en que de
 
 # 2759
 
-Pregúntales: "¿Quién es el creador de los siete cielos, y el Señor del Trono grandioso?"
+Pregúntales: "¿Quién es el creador de los siete cielos[^1], y el Señor del Trono grandioso?"
 
-cielos: La palabra “cielo/s” (sama’ / سماء samawat سماوات ), que aparece en muchos versículos del Corán, es usada tanto para referirse al cielo por encima de la tierra, como al universo en su totalidad. Dándole a la palabra el primer sentido, se deduce que el cielo de la tierra, o atmósfera, está compuesto por siete capas. Y efectivamente, hoy se sabe que la atmósfera de la tierra está compuesta de siete capas superpuestas. Para las modernas definiciones meteorológicas las siete capas o estratos de la atmósfera son los siguientes: 1-Troposfera. 2-Estratosfera. 3-Mesosfera. 4-Termosfera. 5-Exosfera. 6-Ionosfera. 7-Magnetosfera. Otro milagro importante a destacar es el mencionado en la afirmación: “y le inspiró a cada cielo su función” (Corán 41:12). En otras palabras, Dios manifiesta que le asignó a cada cielo su propio deber. Cada estrato tiene una función particular, que va desde la formación de la lluvia hasta proteger de radiaciones nocivas, desde reflejar ondas de radio hasta evitar los efectos perjudiciales de los meteoritos. Los versículos citados a continuación nos informan sobre el aspecto de estos estratos atmosféricos: “¿Acaso no han visto cómo Dios ha creado siete cielos superpuestos?” (Corán 71:15). “Él es Quien creó siete cielos superpuestos” (Corán 67:3). Es un milagro extraordinario que estos hechos, que no pudieron descubrirse sino con la tecnología del siglo XX, fueran formulados explícitamente por el Corán 1.400 años atrás.
+[^1]: La palabra “cielo/s” (sama’ / سماء samawat سماوات ), que aparece en muchos versículos del Corán, es usada tanto para referirse al cielo por encima de la tierra, como al universo en su totalidad. Dándole a la palabra el primer sentido, se deduce que el cielo de la tierra, o atmósfera, está compuesto por siete capas. Y efectivamente, hoy se sabe que la atmósfera de la tierra está compuesta de siete capas superpuestas. Para las modernas definiciones meteorológicas las siete capas o estratos de la atmósfera son los siguientes: 1-Troposfera. 2-Estratosfera. 3-Mesosfera. 4-Termosfera. 5-Exosfera. 6-Ionosfera. 7-Magnetosfera. Otro milagro importante a destacar es el mencionado en la afirmación: “y le inspiró a cada cielo su función” (Corán 41:12). En otras palabras, Dios manifiesta que le asignó a cada cielo su propio deber. Cada estrato tiene una función particular, que va desde la formación de la lluvia hasta proteger de radiaciones nocivas, desde reflejar ondas de radio hasta evitar los efectos perjudiciales de los meteoritos. Los versículos citados a continuación nos informan sobre el aspecto de estos estratos atmosféricos: “¿Acaso no han visto cómo Dios ha creado siete cielos superpuestos?” (Corán 71:15). “Él es Quien creó siete cielos superpuestos” (Corán 67:3). Es un milagro extraordinario que estos hechos, que no pudieron descubrirse sino con la tecnología del siglo XX, fueran formulados explícitamente por el Corán 1.400 años atrás.
 
 # 2760
 
@@ -12073,9 +12144,9 @@ Cuando la muerte los sorprenda [a los que se negaron a creer y vivieron en el pe
 
 # 2773
 
-para [creer en Ti y] realizar las obras buenas que no hice". Pero no se les dará otra oportunidad, pues son solo palabras [que no cumplirán]. Detrás de ellos habrá una barrera hasta que sean resucitados.
+para [creer en Ti y] realizar las obras buenas que no hice". Pero no se les dará otra oportunidad, pues son solo palabras [que no cumplirán]. Detrás de ellos habrá una barrera[^1] hasta que sean resucitados.
 
-barrera: En árabe, Barzaj البرزخ significa una barrera entre dos cosas. En la terminología islámica el Barzaj se refiere al período existente entre la muerte y el Día de la Resurrección. Ibn Al Qaiim dijo: “El tormento y las bendiciones de la tumba es otro nombre para el tormento y las bendiciones del Barzaj, que es lo que hay entre esta vida y la otra”.
+[^1]: En árabe, Barzaj البرزخ significa una barrera entre dos cosas. En la terminología islámica el Barzaj se refiere al período existente entre la muerte y el Día de la Resurrección. Ibn Al Qaiim dijo: “El tormento y las bendiciones de la tumba es otro nombre para el tormento y las bendiciones del Barzaj, que es lo que hay entre esta vida y la otra”.
 
 # 2774
 
@@ -12103,10 +12174,11 @@ Dirán: "¡Oh, Señor nuestro! Estábamos dominados por nuestras pasiones, éram
 
 # 2780
 
-¡Oh, Señor nuestro! Sácanos de él [y retórnanos a la vida], y si reincidimos [en la incredulidad] entonces sí seremos injustos".
+¡Oh, Señor nuestro! Sácanos de él[^1] [y retórnanos a la vida], y si reincidimos [en la incredulidad] entonces sí seremos injustos[^2]".
 
-Sácanos de él: El castigo.
-seremos injustos: Y merecedores de Tu castigo.
+[^1]: El castigo.
+
+[^2]: Y merecedores de Tu castigo.
 
 # 2781
 
@@ -12194,10 +12266,11 @@ Si no fuese por la gracia de Dios y Su misericordia con ustedes, y porque Dios a
 
 # 2802
 
-Los que vinieron con la calumnia son un grupo de ustedes. No piensen [¡oh, creyentes!] que esto acarreará un mal para ustedes; por el contrario, es un bien. Cada uno de los que cometieron este pecado recibirá su merecido, y el mayor responsable entre ellos tendrá un castigo severo.
+Los que vinieron con la calumnia[^1] son un grupo de ustedes. No piensen [¡oh, creyentes!] que esto acarreará un mal para ustedes; por el contrario, es un bien[^2]. Cada uno de los que cometieron este pecado recibirá su merecido, y el mayor responsable entre ellos tendrá un castigo severo.
 
-la calumnia: Referencia al hecho histórico en que un grupo de hipócritas acusaron a Aishah, la esposa del Profeta Mujámmad, de haberle sido infiel. 
-es un bien: Pues evidenciará la inocencia de Aishah, la lealtad de los creyentes y la perversidad de los hipócritas.
+[^1]: Referencia al hecho histórico en que un grupo de hipócritas acusaron a Aishah, la esposa del Profeta Mujámmad, de haberle sido infiel.
+
+[^2]: Pues evidenciará la inocencia de Aishah, la lealtad de los creyentes y la perversidad de los hipócritas.
 
 # 2803
 
@@ -12245,9 +12318,9 @@ Que los que hacen obras de bien y los que tienen riqueza no juren dejar de ayuda
 
 # 2814
 
-Quienes difamen a las mujeres honestas, inocentes y creyentes, serán maldecidos en esta vida y en la otra, y sufrirán un castigo enorme.
+Quienes difamen[^1] a las mujeres honestas, inocentes y creyentes, serán maldecidos en esta vida y en la otra, y sufrirán un castigo enorme.
 
-Quienes difamen: A sabiendas de la inocencia.
+[^1]: A sabiendas de la inocencia.
 
 # 2815
 
@@ -12267,9 +12340,9 @@ Las palabras perversas son para los perversos. Los perversos son objeto de palab
 
 # 2819
 
-Si no encuentran a nadie en ella, no ingresen hasta que se les dé permiso. Si se les dice: "¡No entren!", entonces vuelvan [sobre sus pasos], eso es lo más puro. Dios conoce bien lo que hacen.
+Si no encuentran a nadie en ella[^1], no ingresen hasta que se les dé permiso. Si se les dice: "¡No entren!", entonces vuelvan [sobre sus pasos], eso es lo más puro. Dios conoce bien lo que hacen.
 
-Si no encuentran a nadie en ella: O no se les responda.
+[^1]: O no se les responda.
 
 # 2820
 
@@ -12289,9 +12362,9 @@ Ayuden a que los solteros y los esclavos piadosos se casen. [No teman] si son po
 
 # 2824
 
-Quienes no cuenten con los medios para casarse, que tengan paciencia y se abstengan [de mantener relaciones prematrimoniales] hasta que Dios les provea los medios con Su gracia. Si alguno de los esclavos les pide la manumisión, y saben de su honestidad, otórguensela y ayúdenle [a pagar la manumisión] dándole parte de las riquezas con las que Dios los ha agraciado. No fuercen a sus esclavas a prostituirse con el fin de obtener ganancias, siendo que ellas quieren casarse. Y si [a pesar de esta prohibición] fueran forzadas a hacerlo, [que sepan ellas que] Dios es Absolvedor, Misericordioso.
+Quienes no cuenten con los medios para casarse, que tengan paciencia y se abstengan [de mantener relaciones prematrimoniales] hasta que Dios les provea los medios con Su gracia. Si alguno de los esclavos les pide la manumisión, y saben de su honestidad, otórguensela[^1] y ayúdenle [a pagar la manumisión] dándole parte de las riquezas con las que Dios los ha agraciado. No fuercen a sus esclavas a prostituirse con el fin de obtener ganancias, siendo que ellas quieren casarse. Y si [a pesar de esta prohibición] fueran forzadas a hacerlo, [que sepan ellas que] Dios es Absolvedor, Misericordioso.
 
-otórguensela: Esto implica la orden de conceder la libertad a todo esclavo que lo solicite.
+[^1]: Esto implica la orden de conceder la libertad a todo esclavo que lo solicite.
 
 # 2825
 
@@ -12303,15 +12376,15 @@ Dios es la luz de los cielos y de la Tierra. Su luz es como [la que surge de] un
 
 # 2827
 
-[Esas hornacinas están] en las casas [de oración] que Dios permitió que fueran erigidas y honradas para que se invoque Su nombre. En ellas Lo glorifican por la mañana y por la tarde.
+[Esas hornacinas están] en las casas [de oración][^1] que Dios permitió que fueran erigidas y honradas para que se invoque Su nombre. En ellas Lo glorifican por la mañana y por la tarde.
 
-en las casas [de oración]: Las mezquitas.
+[^1]: Las mezquitas.
 
 # 2828
 
-[En las mezquitas hay] hombres a los que ni los negocios ni las ventas los distraen del recuerdo de Dios, la práctica de la oración prescrita y el pago del zakat, porque temen el día en que los corazones y las miradas se estremezcan.
+[En las mezquitas hay] hombres a los que ni los negocios ni las ventas los distraen del recuerdo de Dios, la práctica de la oración prescrita y el pago del zakat, porque temen el día en que los corazones y las miradas se estremezcan.[^1]
 
-El Día de la Resurrección y el Juicio Final.
+[^1]: El Día de la Resurrección y el Juicio Final.
 
 # 2829
 
@@ -12323,9 +12396,9 @@ Las obras de los que se negaron a creer son como un espejismo en el desierto: el
 
 # 2831
 
-[El estado de los que se negaron a creer es] como tinieblas en un mar profundo cubierto de olas, unas sobre otras, que a su vez están cubiertas por nubes. Son tinieblas que se superponen unas sobre otras. Si alguien mirase su mano, apenas podría distinguirla. De este modo, a quien Dios no ilumine jamás encontrará la luz.
+[El estado de los que se negaron a creer es] como tinieblas en un mar profundo cubierto de olas, unas sobre otras, que a su vez están cubiertas por nubes. Son tinieblas que se superponen unas sobre otras. Si alguien mirase su mano, apenas podría distinguirla. De este modo, a quien Dios no ilumine jamás encontrará la luz.[^1]
 
-Este versículo menciona la oscuridad que se encuentra en los mares profundos y los océanos, donde si un hombre sumergido en sus profundidades estira su mano no puede verla. La oscuridad en los mares profundos y océanos comienza alrededor de los 200 metros de profundidad. Después de los 1.000 metros ya no existe luz en absoluto. Los seres humanos no son capaces de sumergirse a más de 40 metros sin la ayuda de submarinos o equipos especiales. Los científicos han descubierto recientemente esta oscuridad mediante equipos especiales y submarinos que les han permitido sumergirse en las profundidades del océano. Podemos entender también de este versículo que las aguas profundas de los mares y océanos están cubiertas por olas, y por encima de esas olas existen otras olas. Es claro que ese segundo grupo de olas son las de la superficie que nosotros vemos, pues el versículo menciona que por encima de las segundas olas existen nubes. Pero sobre las primeras olas los científicos han descubierto recientemente que existen olas internas que cubren las aguas profundas de los mares y océanos, porque las aguas profundas poseen una densidad más alta que la de las aguas por encima de ellas. Las olas internas actúan igual que las de la superficie. Las olas internas no pueden ser vistas por el ojo humano, pero pueden ser detectadas al estudiar las temperaturas o los cambios de salinidad en un punto dado; todo esto nos muestra el origen milagroso del Sagrado Corán.
+[^1]: Este versículo menciona la oscuridad que se encuentra en los mares profundos y los océanos, donde si un hombre sumergido en sus profundidades estira su mano no puede verla. La oscuridad en los mares profundos y océanos comienza alrededor de los 200 metros de profundidad. Después de los 1.000 metros ya no existe luz en absoluto. Los seres humanos no son capaces de sumergirse a más de 40 metros sin la ayuda de submarinos o equipos especiales. Los científicos han descubierto recientemente esta oscuridad mediante equipos especiales y submarinos que les han permitido sumergirse en las profundidades del océano. Podemos entender también de este versículo que las aguas profundas de los mares y océanos están cubiertas por olas, y por encima de esas olas existen otras olas. Es claro que ese segundo grupo de olas son las de la superficie que nosotros vemos, pues el versículo menciona que por encima de las segundas olas existen nubes. Pero sobre las primeras olas los científicos han descubierto recientemente que existen olas internas que cubren las aguas profundas de los mares y océanos, porque las aguas profundas poseen una densidad más alta que la de las aguas por encima de ellas. Las olas internas actúan igual que las de la superficie. Las olas internas no pueden ser vistas por el ojo humano, pero pueden ser detectadas al estudiar las temperaturas o los cambios de salinidad en un punto dado; todo esto nos muestra el origen milagroso del Sagrado Corán.
 
 # 2832
 
@@ -12413,11 +12486,13 @@ No es motivo de reproche que el ciego, el cojo, el enfermo ni ustedes mismos com
 
 # 2853
 
-Los verdaderos creyentes son aquellos que creen en Dios y Su Mensajero, y que cuando están reunidos con él [el Mensajero de Dios] por un motivo importante, no se retiran sin antes pedirle permiso. Los que te piden permiso son los que realmente creen en Dios y Su Mensajero. Cuando te pidan permiso [¡oh, Mujámmad!, para retirarse] por algún motivo que les concierna, dáselo a quienes quieras, y pide perdón a Dios por ellos. Dios es Absolvedor, Misericordioso.
+Los verdaderos creyentes son aquellos que creen en Dios y Su Mensajero, y que cuando están reunidos con él [el Mensajero de Dios] por un motivo importante, no se retiran sin antes pedirle permiso. Los que te piden permiso son los que realmente creen en Dios y Su Mensajero. Cuando te pidan permiso [¡oh, Mujámmad!, para retirarse] por algún motivo que les concierna, dáselo a quienes quieras, y pide perdón a Dios por ellos. Dios es Absolvedor, Misericordioso.[^1][^2][^3]
 
-No es motivo de reproche: El sentido más profundo de este versículo es el hincapié en la hermandad de todos los creyentes, expresando la compasión y el compañerismo entre todos los creyentes y, por consiguiente, dejando a un lado las formalidades innecesarias en sus relaciones mutuas. 
-un saludo bendecido y excelente, como Dios manda: En árabe: As-salamu alaikum wa rahmatul-lah 
-السلام عليكم و رحمة الله , que la paz y las bendiciones de Dios sean contigo.
+[^1]: El sentido más profundo de este versículo es el hincapié en la hermandad de todos los creyentes, expresando la compasión y el compañerismo entre todos los creyentes y, por consiguiente, dejando a un lado las formalidades innecesarias en sus relaciones mutuas.
+
+[^2]: En árabe: As-salamu alaikum wa rahmatul-lah
+
+[^3]: السلام عليكم و رحمة الله , que la paz y las bendiciones de Dios sean contigo.
 
 # 2854
 
@@ -12429,9 +12504,9 @@ No llamen al Mensajero de la misma manera que se llaman unos a otros. Dios conoc
 
 # 2856
 
-Bendito sea Quien reveló la fuente de todo criterio a Su siervo [el Profeta Mujámmad], para que con él advierta a todos los mundos.
+Bendito sea Quien reveló la fuente de todo criterio[^1] a Su siervo [el Profeta Mujámmad], para que con él advierta a todos los mundos.
 
-reveló la fuente de todo criterio: La revelación del Sagrado Corán.
+[^1]: La revelación del Sagrado Corán.
 
 # 2857
 
@@ -12459,9 +12534,9 @@ Y dicen: "¿Qué clase de Mensajero es éste? Se alimenta y anda por el mercado 
 
 # 2863
 
-¿Por qué no le es enviado un tesoro o le es concedido un huerto del que pueda comer?" Los opresores dicen: "Solo siguen a un hombre hechizado".
+¿Por qué no le es enviado un tesoro[^1] o le es concedido un huerto del que pueda comer?" Los opresores dicen: "Solo siguen a un hombre hechizado".
 
-un tesoro: Un tesoro del cielo, para que no necesite ir al mercado a procurar el sustento y eso demuestre que Dios lo secunda.
+[^1]: Un tesoro del cielo, para que no necesite ir al mercado a procurar el sustento y eso demuestre que Dios lo secunda.
 
 # 2864
 
@@ -12541,9 +12616,9 @@ El injusto morderá sus propias manos [lamentándose] y dirá: "¡Ojalá hubiera
 
 # 2883
 
-¡Ay de mí! ¡Ojalá no hubiera tomado a aquel por amigo!,
+¡Ay de mí! ¡Ojalá no hubiera tomado a aquel[^1] por amigo!,
 
-a aquel: Aquel que lo alejó del camino del monoteísmo y las enseñanzas del Profeta.
+[^1]: Aquel que lo alejó del camino del monoteísmo y las enseñanzas del Profeta.
 
 # 2884
 
@@ -12559,9 +12634,9 @@ Dijo el Mensajero: "¡Oh, Señor mío! Mi pueblo ha abandonado el Corán".
 
 # 2887
 
-Los que se negaron a creer dicen: "¿Por qué no le ha sido revelado el Corán de una sola vez?" Sabe que te lo he revelado gradualmente para dar firmeza a tu corazón.
+Los que se negaron a creer dicen: "¿Por qué no le ha sido revelado el Corán de una sola vez?" Sabe que te lo he revelado gradualmente[^1] para dar firmeza a tu corazón.
 
-te lo he revelado gradualmente: En respuesta a cada situación.
+[^1]: En respuesta a cada situación.
 
 # 2888
 
@@ -12577,16 +12652,17 @@ Le revelé a Moisés el Libro [la Tora], y le asigné a su hermano Aarón para q
 
 # 2891
 
-Y les dije: "Vayan ambos al pueblo que desmintió Mis signos". Pero finalmente lo destruí por completo.
+Y les dije: "Vayan ambos al pueblo que desmintió Mis signos[^1]". Pero finalmente lo destruí por completo[^2].
 
-pueblo que desmintió Mis signos: El pueblo del Faraón de Egipto. 
-lo destruí por completo: Porque los desmintieron e intentaron asesinar a todo un pueblo de inocentes.
+[^1]: El pueblo del Faraón de Egipto.
+
+[^2]: Porque los desmintieron e intentaron asesinar a todo un pueblo de inocentes.
 
 # 2892
 
-Al pueblo de Noé, cuando desmintieron a los Profetas, los ahogué e hice de ellos un Signo para la gente. Tengo reservado para los injustos un castigo doloroso.
+Al pueblo de Noé, cuando desmintieron a los Profetas[^1], los ahogué e hice de ellos un Signo para la gente. Tengo reservado para los injustos un castigo doloroso.
 
-cuando desmintieron a los Profetas: Considerando que todos los Profetas trajeron el mismo mensaje de monoteísmo, al desmentir a uno de ellos, se considera que se los ha desmentido a todos, y por eso el versículo utiliza la palabra en plural a pesar de que solo habían desmentido a Noé.
+[^1]: Considerando que todos los Profetas trajeron el mismo mensaje de monoteísmo, al desmentir a uno de ellos, se considera que se los ha desmentido a todos, y por eso el versículo utiliza la palabra en plural a pesar de que solo habían desmentido a Noé.
 
 # 2893
 
@@ -12598,9 +12674,9 @@ A todos les advertí de lo que sucedía [a los que se negaban a creer], pero aun
 
 # 2895
 
-Todos han visto las ruinas de la ciudad sobre la cual hice caer una lluvia de piedras, pero no recapacitan, pues no creen en la resurrección.
+Todos han visto las ruinas de la ciudad sobre la cual hice caer una lluvia de piedras[^1], pero no recapacitan, pues no creen en la resurrección.
 
-la ciudad sobre la cual hice caer una lluvia de piedras: Sodoma.
+[^1]: Sodoma.
 
 # 2896
 
@@ -12644,9 +12720,9 @@ Y distribuye el agua [entre los seres creados] para que recapaciten, pero la may
 
 # 2906
 
-Si hubiera querido, habría enviado a cada ciudad un Profeta.
+Si hubiera querido, habría enviado a cada ciudad un Profeta.[^1]
 
-Pero la sabiduría divina dispuso enviar como último Profeta y Mensajero a Mujámmad, que la paz y las bendiciones de Dios sean con él, para toda la humanidad.
+[^1]: Pero la sabiduría divina dispuso enviar como último Profeta y Mensajero a Mujámmad, que la paz y las bendiciones de Dios sean con él, para toda la humanidad.
 
 # 2907
 
@@ -12654,9 +12730,9 @@ No obedezcas a los que se niegan a creer, y lucha contra ellos esforzadamente, e
 
 # 2908
 
-Él es Quien ha hecho confluir las dos masas de agua, una dulce y la otra salada. Entre ambas puso un espacio intermedio y una barrera infranqueable.
+Él es Quien ha hecho confluir las dos masas de agua, una dulce y la otra salada. Entre ambas puso un espacio intermedio y una barrera infranqueable.[^1]
 
-La ciencia moderna ha descubierto que en los lugares donde se unen dos mares diferentes, existe una barrera entre ambos. Esa barrera divide a los dos mares para que cada mar tenga su propia temperatura, salinidad y densidad. ¿Por qué menciona el Corán al espacio intermedio cuando habla del divisor entre el agua dulce y la salada, pero no lo menciona cuando habla del divisor entre los dos mares, como en Corán 55:19-20? La ciencia moderna ha descubierto que en los estuarios, donde el agua dulce y la salada se encuentran, la situación es en cierta manera diferente a la que se encuentra en los lugares en los que dos mares se encuentran. Se ha descubierto que lo que distingue al agua dulce de la salada en los estuarios (o deltas de un río) es una zona picnoclina que posee una marcada discontinuidad en su densidad, que separa las dos capas. Esta partición o división (zona de separación), tiene una salinidad diferente a la del agua dulce y a la de la salada.
+[^1]: 19-20? La ciencia moderna ha descubierto que en los estuarios, donde el agua dulce y la salada se encuentran, la situación es en cierta manera diferente a la que se encuentra en los lugares en los que dos mares se encuentran. Se ha descubierto que lo que distingue al agua dulce de la salada en los estuarios (o deltas de un río) es una zona picnoclina que posee una marcada discontinuidad en su densidad, que separa las dos capas. Esta partición o división (zona de separación), tiene una salinidad diferente a la del agua dulce y a la de la salada.
 
 # 2909
 
@@ -12760,9 +12836,9 @@ Ta’. Sin. Mim.
 
 # 2934
 
-Estos son los signos de un Libro claro.
+Estos son los signos de un Libro claro.[^1]
 
-El Sagrado Corán.
+[^1]: El Sagrado Corán.
 
 # 2935
 
@@ -12810,9 +12886,9 @@ y entonces mi pecho se oprima y mi lengua no pueda expresarse con fluidez. Enví
 
 # 2946
 
-Ellos me acusan de un crimen y temo que me maten".
+Ellos me acusan de un crimen y temo que me maten".[^1]
 
-Ver Corán 28:15-21.
+[^1]: 15-21.
 
 # 2947
 
@@ -12972,15 +13048,15 @@ El Faraón envió emisarios a las ciudades para reclutar [hombres].
 
 # 2986
 
-[Diciendo:] "Ellos son solo unos pocos,
+[Diciendo:] "Ellos[^1] son solo unos pocos,
 
-Ellos: Los Hijos de Israel.
+[^1]: Los Hijos de Israel.
 
 # 2987
 
-pero están llenos de odio hacia nosotros.
+pero están llenos de odio hacia nosotros.[^1]
 
-Existe otra interpretación de los exégetas por lo que esta frase puede significar: “nos irritan”.
+[^1]: “nos irritan”.
 
 # 2988
 
@@ -13068,9 +13144,9 @@ tanto ustedes como sus ancestros?
 
 # 3009
 
-Ellos [los que adoran] son mis enemigos, excepto el Señor del Universo,
+Ellos [los que adoran] son mis enemigos, excepto el Señor del Universo,[^1]
 
-Abraham aclara que su pueblo adoraba a Dios y le asociaban ídolos en sus actos de devoción, y por eso dice que todo lo que adoraban es su enemigo excepto Dios.
+[^1]: Abraham aclara que su pueblo adoraba a Dios y le asociaban ídolos en sus actos de devoción, y por eso dice que todo lo que adoraban es su enemigo excepto Dios.
 
 # 3010
 
@@ -13118,9 +13194,9 @@ el día en que de nada servirán las riquezas ni los hijos,
 
 # 3021
 
-y solo estará a salvo quien tenga el corazón puro".
+y solo estará a salvo quien tenga el corazón puro".[^1]
 
-El sabio Ibn Rayab dijo: “En el caso del creyente que complete y purifique su monoteísmo siendo sincero con Dios, cumpliendo con las condiciones y estipulaciones del monoteísmo en su corazón, su lengua y su cuerpo, esto ha de garantizarle el perdón de todos los pecados, así también la salvación del Fuego del Infierno. A quien complete y purifique el monoteísmo en su corazón, le será extraído de este todo amor devocional, respeto, temor y reverencia por todo lo que no sea Dios. Entonces le serán borrados todos los pecados, aunque fueran tantos como la espuma de los mares”.
+[^1]: “En el caso del creyente que complete y purifique su monoteísmo siendo sincero con Dios, cumpliendo con las condiciones y estipulaciones del monoteísmo en su corazón, su lengua y su cuerpo, esto ha de garantizarle el perdón de todos los pecados, así también la salvación del Fuego del Infierno. A quien complete y purifique el monoteísmo en su corazón, le será extraído de este todo amor devocional, respeto, temor y reverencia por todo lo que no sea Dios. Entonces le serán borrados todos los pecados, aunque fueran tantos como la espuma de los mares”.
 
 # 3022
 
@@ -13164,9 +13240,9 @@ Pero fueron los pecadores los que nos desviaron.
 
 # 3032
 
-No tenemos a nadie que pueda interceder por nosotros,
+No tenemos a nadie que pueda interceder por nosotros,[^1]
 
-Ya que los ídolos que adoraban eran falsos, y no pueden otorgar beneficios en este mundo ni en el más allá.
+[^1]: Ya que los ídolos que adoraban eran falsos, y no pueden otorgar beneficios en este mundo ni en el más allá.
 
 # 3033
 
@@ -13186,9 +13262,9 @@ Tu Señor es el Poderoso, el Misericordioso.
 
 # 3037
 
-El pueblo de Noé desmintió a los Mensajeros.
+El pueblo de Noé desmintió a los Mensajeros.[^1]
 
-No creer en un Mensajero constituye no creer en ninguno de ellos, así como desmentir a uno solo de los Mensajeros significa desmentirlos a todos, debido a que los Mensajeros eran portadores de un solo Mensaje, exhortaban a una sola religión, y Quien los envió fue Uno solo; formaban un solo cuerpo, los primeros albriciaban la venida de quienes los sucederían, y los últimos aseveraban la veracidad de quienes los precedieron.
+[^1]: No creer en un Mensajero constituye no creer en ninguno de ellos, así como desmentir a uno solo de los Mensajeros significa desmentirlos a todos, debido a que los Mensajeros eran portadores de un solo Mensaje, exhortaban a una sola religión, y Quien los envió fue Uno solo; formaban un solo cuerpo, los primeros albriciaban la venida de quienes los sucederían, y los últimos aseveraban la veracidad de quienes los precedieron.
 
 # 3038
 
@@ -13308,9 +13384,9 @@ jardines y manantiales.
 
 # 3067
 
-Yo, en realidad, temo que los alcance el castigo de un día gravísimo".
+Yo, en realidad, temo que los alcance el castigo de un día gravísimo[^1]".
 
-de un día gravísimo: El Día del Juicio Final.
+[^1]: El Día del Juicio Final.
 
 # 3068
 
@@ -13390,9 +13466,9 @@ y eres un ser humano igual que nosotros. Tráenos una prueba [milagrosa de tu pr
 
 # 3087
 
-Dijo [Sálih: "Aquí tienen la prueba que piden,] a esta camella le corresponde beber un día y a ustedes otro.
+Dijo [Sálih: "Aquí tienen la prueba que piden[^1],] a esta camella le corresponde beber un día y a ustedes otro.
 
-la prueba que piden: Para desafiarlo, su pueblo le había exigido que hiciera salir una camella de una gran roca, y Dios le concedió el milagro.
+[^1]: Para desafiarlo, su pueblo le había exigido que hiciera salir una camella de una gran roca, y Dios le concedió el milagro.
 
 # 3088
 
@@ -13436,9 +13512,9 @@ Se orientan [por elección] a los hombres [para satisfacer sus deseos sexuales] 
 
 # 3098
 
-a la vez que se apartan de lo que su Señor creó para ustedes, su esposa [una pareja mujer]. Ustedes son un pueblo trasgresor".
+a la vez que se apartan de lo que su Señor creó para ustedes, su esposa [una pareja mujer]. Ustedes son un pueblo trasgresor".[^1]
 
-Estos versículos condenan la elección de la homosexualidad, porque contradice la naturaleza de la creación.
+[^1]: Estos versículos condenan la elección de la homosexualidad, porque contradice la naturaleza de la creación.
 
 # 3099
 
@@ -13458,9 +13534,9 @@ Los salvé a él y a toda su familia,
 
 # 3103
 
-excepto a la anciana [esposa de Lot] que estaba entre los que se quedaron.
+excepto a la anciana [esposa de Lot] que estaba entre los que se quedaron.[^1]
 
-Los que se quedaron y no abandonaron la ciudad por la noche, tal como les ordenó Dios, antes de que descendiera el castigo sobre la ciudad.
+[^1]: Los que se quedaron y no abandonaron la ciudad por la noche, tal como les ordenó Dios, antes de que descendiera el castigo sobre la ciudad.
 
 # 3104
 
@@ -13532,9 +13608,9 @@ Dijo [Jetró]: "Mi Señor conoce mejor que nadie lo que hacen".
 
 # 3121
 
-Pero lo desmintieron, y por ello los azotó el castigo el día de la sombra. Fue el castigo de un día terrible.
+Pero lo desmintieron, y por ello los azotó el castigo el día de la sombra[^1]. Fue el castigo de un día terrible.
 
-la sombra: Era la sombra de una nube desoladora, posiblemente de cenizas de una erupción volcánica, que cayó sobre ellos acabando con toda la vida en la ciudad.
+[^1]: Era la sombra de una nube desoladora, posiblemente de cenizas de una erupción volcánica, que cayó sobre ellos acabando con toda la vida en la ciudad.
 
 # 3122
 
@@ -13562,9 +13638,9 @@ Es una revelación en lengua árabe pura,
 
 # 3128
 
-que ya estaba mencionada en las primeras Escrituras.
+que ya estaba mencionada en las primeras Escrituras.[^1]
 
-Ver Corán 3:81.
+[^1]: 81.
 
 # 3129
 
@@ -13576,9 +13652,9 @@ Si se lo hubiera revelado a alguien que no hubiera sido árabe
 
 # 3131
 
-para que se los recitara, no habrían creído.
+para que se los recitara, no habrían creído.[^1]
 
-En estos versículos Dios condena el chauvinismo, el fanatismo étnico y las creencias de supremacía de una etnia sobre otra. Quien nos muestre la verdad debe ser creído, sin importar de qué zona provenga o en qué idioma se exprese. También puede significar que si una persona que no fuera árabe les hablara en otro idioma, lo rechazarían por no comprender su mensaje.
+[^1]: En estos versículos Dios condena el chauvinismo, el fanatismo étnico y las creencias de supremacía de una etnia sobre otra. Quien nos muestre la verdad debe ser creído, sin importar de qué zona provenga o en qué idioma se exprese. También puede significar que si una persona que no fuera árabe les hablara en otro idioma, lo rechazarían por no comprender su mensaje.
 
 # 3132
 
@@ -13586,9 +13662,9 @@ Así he impregnado los corazones de los que hacen el mal,
 
 # 3133
 
-porque no creerán hasta que vean el castigo doloroso.
+porque no creerán hasta que vean el castigo doloroso.[^1]
 
-Cuando comience el Día del Juicio Final, y ya creer no tenga ningún beneficio.
+[^1]: Cuando comience el Día del Juicio Final, y ya creer no tenga ningún beneficio.
 
 # 3134
 
@@ -13672,9 +13748,9 @@ y cuando realizas tus movimientos entre los que se prosternan [durante la oraci�
 
 # 3154
 
-Descienden sobre todo mentiroso perverso [que dice ser adivino].
+Descienden sobre todo mentiroso perverso [que dice ser adivino].[^1]
 
-El término affak أفاك , que primariamente denota a “un gran mentiroso” o “un mentiroso empedernido”, tiene aquí el significado de “alguien que se engaña a sí mismo”; esto queda de manifiesto en el versículo siguiente, que destaca el hecho psicológico de que la mayoría de los que se engañan a sí mismos, mienten también con gran facilidad a los demás.
+[^1]: El término affak أفاك , que primariamente denota a “un gran mentiroso” o “un mentiroso empedernido”, tiene aquí el significado de “alguien que se engaña a sí mismo”; esto queda de manifiesto en el versículo siguiente, que destaca el hecho psicológico de que la mayoría de los que se engañan a sí mismos, mienten también con gran facilidad a los demás.
 
 # 3155
 
@@ -13726,10 +13802,11 @@ Tú [¡oh, Mujámmad!] recibes el Corán que proviene del Sabio, el Conocedor.
 
 # 3167
 
-Cuando llegó a él, una voz lo llamó: "¡Bendito sea quien está donde el fuego y quienes están a su alrededor. Glorificado sea Dios, Señor del universo!
+Cuando llegó a él, una voz lo llamó: "¡Bendito sea quien está donde el fuego[^1] y quienes están a su alrededor[^2]. Glorificado sea Dios, Señor del universo!
 
-quien está donde el fuego: Alusión a Moisés. 
-quienes están a su alrededor: Alusión a los ángeles.
+[^1]: Alusión a Moisés.
+
+[^2]: Alusión a los ángeles.
 
 # 3168
 
@@ -13769,9 +13846,9 @@ Fueron concentradas ante Salomón sus tropas de yinnes, seres humanos y pájaros
 
 # 3177
 
-Al pasar por un valle donde había hormigas, una de ellas dijo: "¡Oh, hormigas! Entren en sus hormigueros, no sea que Salomón y sus tropas las pisen sin darse cuenta".
+Al pasar por un valle donde había hormigas, una de ellas dijo: "¡Oh, hormigas! Entren en sus hormigueros, no sea que Salomón y sus tropas las pisen sin darse cuenta".[^1]
 
-En este versículo se menciona un milagro científico, ya que solamente en el último siglo la ciencia ha probado que las hormigas se comunican entre sí.
+[^1]: En este versículo se menciona un milagro científico, ya que solamente en el último siglo la ciencia ha probado que las hormigas se comunican entre sí.
 
 # 3178
 
@@ -13787,15 +13864,15 @@ La castigaré severamente o la degollaré, a menos que me presente una excusa co
 
 # 3181
 
-No tardó mucho en regresar, y [al volver] dijo: "Tengo conocimiento de algo que tú ignoras. Te traigo desde Saba información fidedigna.
+No tardó mucho en regresar, y [al volver] dijo: "Tengo conocimiento de algo que tú ignoras. Te traigo desde Saba[^1] información fidedigna.
 
-Saba: La ciudad de Saba es también conocida con el nombre Ma’rib, que significa lingüísticamente “agua abundante”. Se encuentra en Yemen. Las aguas de las lluvias se unían en un valle adyacente, que es donde fue construida una presa de donde los habitantes de Saba juntaban agua para beber y para regar los jardines.
+[^1]: La ciudad de Saba es también conocida con el nombre Ma’rib, que significa lingüísticamente “agua abundante”. Se encuentra en Yemen. Las aguas de las lluvias se unían en un valle adyacente, que es donde fue construida una presa de donde los habitantes de Saba juntaban agua para beber y para regar los jardines.
 
 # 3182
 
-He descubierto que allí reina una mujer, a la que se le ha concedido mucha riqueza y poder, y posee un Trono majestuoso.
+He descubierto que allí reina una mujer[^1], a la que se le ha concedido mucha riqueza y poder, y posee un Trono majestuoso.
 
-reina una mujer: El Corán elogia el reinado de esta mujer, su forma de consultar a los expertos asesores, y elogia su decisión de guiar a su pueblo a que siga el mensaje de monoteísmo del Profeta Salomón.
+[^1]: El Corán elogia el reinado de esta mujer, su forma de consultar a los expertos asesores, y elogia su decisión de guiar a su pueblo a que siga el mensaje de monoteísmo del Profeta Salomón.
 
 # 3183
 
@@ -13819,9 +13896,9 @@ Ve con esta carta mía y entrégasela, luego mantente apartado y observa cómo r
 
 # 3188
 
-Ella [la reina de Saba] dijo: "¡Oh, nobles! Me han entregado una carta noble.
+Ella [la reina de Saba][^1] dijo: "¡Oh, nobles! Me han entregado una carta noble.
 
-Ella [la reina de Saba]: Su nombre era Bilquis.
+[^1]: Su nombre era Bilquis.
 
 # 3189
 
@@ -13869,9 +13946,9 @@ Dijo [un creyente piadoso] que tenía conocimiento del Libro: "Yo te lo traeré 
 
 # 3200
 
-Dijo [Salomón]: "Alteren la apariencia de su trono, para que cuando lo vea sepamos si se deja guiar [a la verdad] o es de aquellos que rehúsan la guía".
+Dijo [Salomón]: "Alteren la apariencia de su trono, para que cuando lo vea sepamos si se deja guiar [a la verdad] o es de aquellos que rehúsan la guía".[^1]
 
-Es decir, si queda satisfecha con la percepción de la apariencia externa de las cosas y los acontecimientos, o si intenta alcanzar su realidad espiritual. Salomón, sabedor de que la gente de Saba estaba motivada, hasta entonces, por su amor al lujo y al poder material, pretendía mostrar a la reina cómo sería el trono si estuviera inspirado por la fe en Dios.
+[^1]: Es decir, si queda satisfecha con la percepción de la apariencia externa de las cosas y los acontecimientos, o si intenta alcanzar su realidad espiritual. Salomón, sabedor de que la gente de Saba estaba motivada, hasta entonces, por su amor al lujo y al poder material, pretendía mostrar a la reina cómo sería el trono si estuviera inspirado por la fe en Dios.
 
 # 3201
 
@@ -13927,9 +14004,9 @@ Salvé a quienes creían y tenían temor [de Dios].
 
 # 3214
 
-¿Buscan hombres para satisfacer su deseo en lugar de satisfacerlo con una mujer? Son un pueblo ignorante.
+¿Buscan hombres para satisfacer su deseo en lugar de satisfacerlo con una mujer? Son un pueblo ignorante.[^1]
 
-Este versículo refuta a aquellos que alegan que el pecado del pueblo de Lot era que violaban a los hombres extranjeros para humillarlos. Porque la palabra shahua شهوة , traducida aquí como “deseo”, evidencia que los hombres de ese pueblo buscaban satisfacer su deseo sexual con otros hombres, en lugar de satisfacer su deseo “naturalmente” con una mujer, porque es impensable que Dios les recriminara por violar a un hombre extranjero implicando que no hubiera sido un crimen si en su lugar violaran a una mujer.
+[^1]: Este versículo refuta a aquellos que alegan que el pecado del pueblo de Lot era que violaban a los hombres extranjeros para humillarlos. Porque la palabra shahua شهوة , traducida aquí como “deseo”, evidencia que los hombres de ese pueblo buscaban satisfacer su deseo sexual con otros hombres, en lugar de satisfacer su deseo “naturalmente” con una mujer, porque es impensable que Dios les recriminara por violar a un hombre extranjero implicando que no hubiera sido un crimen si en su lugar violaran a una mujer.
 
 # 3215
 
@@ -14009,9 +14086,9 @@ Tu Señor conoce lo que esconden sus corazones y lo que manifiestan.
 
 # 3234
 
-Todo lo que está oculto [al conocimiento de las personas] en el cielo y en la Tierra se encuentra registrado en un libro claro.
+Todo lo que está oculto [al conocimiento de las personas] en el cielo y en la Tierra se encuentra registrado en un libro claro[^1].
 
-un libro claro: La Tabla Protegida o Al Lauh Al Mahfud.
+[^1]: La Tabla Protegida o Al Lauh Al Mahfud.
 
 # 3235
 
@@ -14039,9 +14116,9 @@ Ni puedes guiar a los ciegos [que no quieren ver] y sacarlos de su extravío. T�
 
 # 3241
 
-Cuando ocurra lo que ha sido decretado para ellos, haré salir de la Tierra una bestia que les hablará [milagrosamente diciéndoles] que la gente no estaba convencida de Mis signos.
+Cuando ocurra lo que ha sido decretado para ellos, haré salir de la Tierra una bestia que les hablará [milagrosamente diciéndoles][^1] que la gente no estaba convencida de Mis signos.
 
-una bestia que les hablará [milagrosamente diciéndoles]: El surgimiento de una bestia que hablará a la gente, será una de las señales mayores sobre el advenimiento del Fin del Mundo y el comienzo del Día del Juicio Final
+[^1]: El surgimiento de una bestia que hablará a la gente, será una de las señales mayores sobre el advenimiento del Fin del Mundo y el comienzo del Día del Juicio Final
 
 # 3242
 
@@ -14101,9 +14178,9 @@ Te narro parte de la verdadera historia de Moisés y del Faraón, para la gente 
 
 # 3256
 
-El Faraón fue un tirano en la Tierra. Dividió a sus habitantes en clases y esclavizó a un grupo de ellos, a cuyos hijos varones degolló, dejando con vida a las mujeres [para la servidumbre]. Sembró la corrupción.
+El Faraón fue un tirano en la Tierra. Dividió a sus habitantes en clases y esclavizó a un grupo de ellos[^1], a cuyos hijos varones degolló, dejando con vida a las mujeres [para la servidumbre]. Sembró la corrupción.
 
-esclavizó a un grupo de ellos: Los Hijos de Israel.
+[^1]: Los Hijos de Israel.
 
 # 3257
 
@@ -14111,9 +14188,9 @@ Quise agraciar a quienes habían sido esclavizados en la Tierra, y convertirlos 
 
 # 3258
 
-dándoles poder sobre la tierra, y hacer que el Faraón, Hamán y sus huestes vieran [hecho realidad] lo que temían.
+dándoles poder sobre la tierra[^1], y hacer que el Faraón, Hamán y sus huestes vieran [hecho realidad] lo que temían.
 
-poder sobre la tierra: De la antigua Siria y Egipto.
+[^1]: De la antigua Siria y Egipto.
 
 # 3259
 
@@ -14149,9 +14226,9 @@ Cuando se convirtió en adulto y tuvo madurez, le concedí conocimiento y sabidu
 
 # 3267
 
-[Moisés] ingresó cierta vez a la ciudad sin que sus habitantes se percataran y encontró a dos hombres que peleaban, uno era de los suyos y el otro era de sus enemigos. El que era de los suyos le pidió ayuda contra el que era de sus enemigos. Entonces Moisés lo golpeó con su puño y [sin intención de hacerlo] le causó la muerte. Exclamó [Moisés]: "Esto es obra del demonio, que es un enemigo evidente que pretende desviar a la gente".
+[Moisés] ingresó cierta vez a la ciudad sin que sus habitantes se percataran y encontró a dos hombres que peleaban, uno era de los suyos[^1] y el otro era de sus enemigos. El que era de los suyos le pidió ayuda contra el que era de sus enemigos. Entonces Moisés lo golpeó con su puño y [sin intención de hacerlo] le causó la muerte. Exclamó [Moisés]: "Esto es obra del demonio, que es un enemigo evidente que pretende desviar a la gente".
 
-uno era de los suyos: De los Hijos de Israel.
+[^1]: De los Hijos de Israel.
 
 # 3268
 
@@ -14207,9 +14284,9 @@ Dijo [Moisés]: "Eso es [un acuerdo] entre tú y yo. Cualquiera que sea el plazo
 
 # 3281
 
-Cuando Moisés hubo cumplido el plazo, partió con su familia por la noche [rumbo a Egipto] y [en el camino] divisó un fuego en la ladera de un monte y le dijo a su familia: "Permanezcan aquí, pues he divisado un fuego y quizás pueda traerles alguna noticia [del camino que debemos seguir], o bien una brasa encendida para que podamos calentarnos".
+Cuando Moisés hubo cumplido el plazo, partió con su familia por la noche [rumbo a Egipto] y [en el camino] divisó un fuego en la ladera de un monte[^1] y le dijo a su familia: "Permanezcan aquí, pues he divisado un fuego y quizás pueda traerles alguna noticia [del camino que debemos seguir], o bien una brasa encendida para que podamos calentarnos".
 
-un monte: El Monte Sinaí.
+[^1]: El Monte Sinaí.
 
 # 3282
 
@@ -14269,15 +14346,15 @@ Le he revelado a Moisés el Libro [la Tora] después de haber destruido a las an
 
 # 3296
 
-Y tú [¡oh, Mujámmad!] no estabas en la ladera occidental [del monte Sinaí] cuando ordené la misión de Moisés, ni fuiste testigo de ello.
+Y tú [¡oh, Mujámmad!] no estabas en la ladera occidental [del monte Sinaí] cuando ordené la misión de Moisés, ni fuiste testigo de ello.[^1]
 
-Sino que esa información te llegó a través de la revelación.
+[^1]: Sino que esa información te llegó a través de la revelación.
 
 # 3297
 
-Pero hice surgir otras generaciones que tuvieron larga vida. Tú no viviste [¡oh, Mujámmad!] entre la gente de Madián para transmitirles Mi Mensaje, sino que te he designado Mensajero [para toda la humanidad].
+Pero hice surgir otras generaciones que tuvieron larga vida. Tú no viviste [¡oh, Mujámmad!] entre la gente de Madián para transmitirles Mi Mensaje, sino que te he designado Mensajero [para toda la humanidad][^1].
 
-Mensajero [para toda la humanidad]: Dios le revela todas estas historias al Profeta, que la paz y las bendiciones de Dios sean con él, para que las transmita a la gente y así reflexionen.
+[^1]: Dios le revela todas estas historias al Profeta, que la paz y las bendiciones de Dios sean con él, para que las transmita a la gente y así reflexionen.
 
 # 3298
 
@@ -14293,9 +14370,9 @@ Sin embargo, cuando les llegó la Verdad proveniente de Mí dijeron: "¿Por qué
 
 # 3301
 
-Diles [¡oh, Mujámmad!]: "Traigan un libro proveniente de Dios que sea una guía mejor que estos dos y yo lo seguiré, si es que dicen la verdad.
+Diles [¡oh, Mujámmad!]: "Traigan un libro proveniente de Dios que sea una guía mejor que estos dos[^1] y yo lo seguiré, si es que dicen la verdad.
 
-que estos dos: La Tora original revelada a Moisés y el Corán revelado a Mujámmad.
+[^1]: La Tora original revelada a Moisés y el Corán revelado a Mujámmad.
 
 # 3302
 
@@ -14303,21 +14380,21 @@ Pero si aun así no responden [a tu llamado], sabe que no hacen más que seguir 
 
 # 3303
 
-Les he revelado la palabra para que reflexionen.
+Les he revelado la palabra[^1] para que reflexionen.
 
-la palabra: El Sagrado Corán.
+[^1]: El Sagrado Corán.
 
 # 3304
 
-Quienes recibieron Mi revelación antes de él, creyeron en él.
+Quienes recibieron Mi revelación antes de él[^1], creyeron en él.
 
-de él: Del Sagrado Corán.
+[^1]: Del Sagrado Corán.
 
 # 3305
 
-Cuando se les recita [el Corán] dicen: "Creemos en él; es la Verdad que proviene de nuestro Señor. Antes de escucharlo ya éramos musulmanes [sometidos a Dios]".
+Cuando se les recita[^1] [el Corán] dicen: "Creemos en él; es la Verdad que proviene de nuestro Señor. Antes de escucharlo ya éramos musulmanes [sometidos a Dios]".
 
-Cuando se les recita: A los seguidores sinceros de otras religiones que reconocen la verdad en el mensaje del Corán.
+[^1]: A los seguidores sinceros de otras religiones que reconocen la verdad en el mensaje del Corán.
 
 # 3306
 
@@ -14329,9 +14406,9 @@ y cuando oían conversaciones frívolas se apartaban de ellas y exclamaban: "Nos
 
 # 3308
 
-Tú no puedes guiar a quien amas, sino que Dios guía a quien Él quiere. Él sabe quiénes seguirán la guía.
+Tú no puedes guiar a quien amas, sino que Dios guía a quien Él quiere. Él sabe quiénes seguirán la guía.[^1]
 
-El motivo de la revelación de este versículo es la muerte del tío del Mensajero de Dios, Abu Talib, quien seguía la religión de sus ancestros. Ibn Kazir dijo: “Dice Dios a su Profeta: ¡Mujámmad! Tú no puedes guiar a quien deseas, porque la guía no está en tus manos, sino que a ti te corresponde difundir el Mensaje y Dios ha de guiar a quien Él quiera. A Dios pertenece la sabiduría infinita, tal como dijo en el Corán: ‘No es tu obligación [¡oh, Mujámmad!] que sigan la guía, sino que Dios guía a quien quiere’ (2:272); y ‘la mayoría de los seres humanos, aunque lo anheles, no serán creyentes’ (12:103)”. La guía mencionada en este versículo es la concesión de la guía (hidaiat at-taufiq), porque esta se encuentra en poder de Dios. En cuanto a la guía mencionada en el siguiente versículo: “Y tú guías a un sendero recto” (42:52), es la invitación hacia la guía (hidaiat al-irshad), porque el Mensajero de Dios es quien llama hacia Dios, Su religión y Su legislación.
+[^1]: “Dice Dios a su Profeta: ¡Mujámmad! Tú no puedes guiar a quien deseas, porque la guía no está en tus manos, sino que a ti te corresponde difundir el Mensaje y Dios ha de guiar a quien Él quiera. A Dios pertenece la sabiduría infinita, tal como dijo en el Corán: ‘No es tu obligación [¡oh, Mujámmad!] que sigan la guía, sino que Dios guía a quien quiere’ (2:272); y ‘la mayoría de los seres humanos, aunque lo anheles, no serán creyentes’ (12:103)”. La guía mencionada en este versículo es la concesión de la guía (hidaiat at-taufiq), porque esta se encuentra en poder de Dios. En cuanto a la guía mencionada en el siguiente versículo: “Y tú guías a un sendero recto” (42:52), es la invitación hacia la guía (hidaiat al-irshad), porque el Mensajero de Dios es quien llama hacia Dios, Su religión y Su legislación.
 
 # 3309
 
@@ -14375,9 +14452,9 @@ Ese día no sabrán qué argumentar ni podrán preguntarse unos a otros [qué re
 
 # 3319
 
-Pero quien se haya arrepentido, haya creído y hecho obras de bien, se contará entre quienes tendrán éxito.
+Pero quien se haya arrepentido, haya creído y hecho obras de bien, se contará entre quienes tendrán éxito[^1].
 
-tendrán éxito: En esta vida y el Día del Juicio Final.
+[^1]: En esta vida y el Día del Juicio Final.
 
 # 3320
 
@@ -14401,9 +14478,9 @@ Di: "¿Si Dios hiciera que el día durara hasta el Día de la Resurrección, qui
 
 # 3325
 
-Por misericordia fue Dios que creó la noche y el día para que ustedes pudieran descansar [durante la noche] y procurar [durante el día] Su favor. Deberían ser agradecidos.
+Por misericordia fue Dios que creó la noche y el día para que ustedes pudieran descansar [durante la noche] y procurar [durante el día] Su favor[^1]. Deberían ser agradecidos.
 
-procurar [durante el día] Su favor: El sustento.
+[^1]: El sustento.
 
 # 3326
 
@@ -14419,16 +14496,17 @@ Qarún pertenecía al pueblo de Moisés, pero abusó de ellos. Le había concedi
 
 # 3329
 
-Gánate el Paraíso con lo que Dios te ha concedido, y no te olvides que también puedes disfrutar de lo que Dios ha hecho lícito en esta vida. Sé generoso [con tu prójimo] como Dios lo es contigo, y no contamines la tierra; Dios no ama a los que contaminan [a sabiendas]".
+Gánate el Paraíso con lo que Dios te ha concedido, y no te olvides que también puedes disfrutar de lo que Dios ha hecho lícito en esta vida[^1]. Sé generoso [con tu prójimo] como Dios lo es contigo, y no contamines la tierra; Dios no ama a los que contaminan [a sabiendas]".
 
-disfrutar de lo que Dios ha hecho lícito en esta vida: El Islam es una religión racional y natural, y así como le exige al ser humano alcanzar niveles espirituales superiores, lo llama a no olvidarse de sus necesidades terrenales. No es parte del Islam el concepto de renunciar a los placeres para ser salvo.
+[^1]: El Islam es una religión racional y natural, y así como le exige al ser humano alcanzar niveles espirituales superiores, lo llama a no olvidarse de sus necesidades terrenales. No es parte del Islam el concepto de renunciar a los placeres para ser salvo.
 
 # 3330
 
-Dijo [Qarún con soberbia]: "Lo que se me ha concedido es gracias a mi conocimiento". ¿Acaso no sabía que Dios ya había destruido naciones más poderosas y con más riquezas que él? [Debido a lo terrible de sus faltas,] a los perversos no se les preguntará por sus pecados.
+Dijo [Qarún con soberbia]: "Lo que se me ha concedido es gracias a mi conocimiento[^1]". ¿Acaso no sabía que Dios ya había destruido naciones más poderosas y con más riquezas que él? [Debido a lo terrible de sus faltas,] a los perversos no se les preguntará por sus pecados[^2].
 
-gracias a mi conocimiento: Creía, en su soberbia, que todo lo que tenía era porque se lo merecía, y que la gracia de Dios nada tenía que ver y, por lo tanto, no tenía nada que agradecer. 
- no se les preguntará por sus pecados: Ya que serán reconocidos por su apariencia el Día del Juicio Final, y condenados porque no tendrán capacidad de explicar y justificar sus muchos pecados.
+[^1]: Creía, en su soberbia, que todo lo que tenía era porque se lo merecía, y que la gracia de Dios nada tenía que ver y, por lo tanto, no tenía nada que agradecer.
+
+[^2]: Ya que serán reconocidos por su apariencia el Día del Juicio Final, y condenados porque no tendrán capacidad de explicar y justificar sus muchos pecados.
 
 # 3331
 
@@ -14468,9 +14546,9 @@ No dejes que te aparten de los preceptos de Dios después de haberte sido revela
 
 # 3340
 
-No invoques a nada ni nadie junto con Dios. Nadie tiene derecho a ser adorado salvo Él. Todo ha de perecer excepto Su rostro. Suyo es el juicio y ante Él comparecerán.
+No invoques a nada ni nadie junto con Dios. Nadie tiene derecho a ser adorado salvo Él. Todo ha de perecer excepto Su rostro[^1]. Suyo es el juicio y ante Él comparecerán.
 
-Su rostro: Al igual que otros atributos, el rostro de Dios es Único y acorde a su Divinidad. Nosotros afirmamos su existencia y creemos en él, porque Dios nos ha informado sobre ello en Su Libro y Su Mensajero lo ha declarado en sus dichos. Dios dice en Corán 55:27: “Y solo el majestuoso y noble rostro de tu Señor perdurará por siempre”. El exégeta coránico Ibn Yarir At-Tabari dijo sobre este versículo: “El rostro es el que es descrito como Majestuoso y Noble”. (Tafsir AtTabari. Ver Tafsir 55:27.) Algunas personas en la antigüedad negaron que Dios tuviese rostro, y alegaron que las palabras “Majestuoso y Noble” aluden directamente a Dios y no a Su generoso Rostro. Pero esa afirmación fue refutada por Ibn Juzaimah, quien dijo: “Ésta afirmación solo puede ser hecha por un ignorante en el idioma árabe, porque Dios dice: ‘Y solo el majestuoso y noble rostro de tu Señor ha de perdurar por siempre’ (55:27); y la palabra ‘rostro’ es nominativa (marfu’), mientras que la palabra ‘Señor’ se encuentra en genitivo (mayrur)...”. At-Tauhid por Ibn Juzaimah, pág. 21. En Al-Bujari y Muslim se ha registrado de ‘Utban Ibn Málik que el Profeta, que la paz y las bendiciones de Dios sean con él, dijo: “Dios ha prohibido al Fuego tocar a aquellos que afirmen que nada ni nadie tiene derecho a ser adorado salvo Dios, si buscan con ello encontrar el Rostro de Dios”. Registrado por Al-Bujari y Muslim. El Profeta, que la paz y las bendiciones de Dios sean con él, mencionó que las palabras “una gracia aún mayor” en el siguiente versículo: “Quienes obren el bien obtendrán la mejor recompensa [el Paraíso] y una gracia aún mayor” (10:26), significan contemplar el rostro de Dios. Asimismo, se narra que Abu Bakr, Hudhaifah y muchos otros Sahabah interpretaron el versículo de igual forma. (Al Asma’ wa As-Sifat, por Al- Baihaqi)
+[^1]: Al igual que otros atributos, el rostro de Dios es Único y acorde a su Divinidad. Nosotros afirmamos su existencia y creemos en él, porque Dios nos ha informado sobre ello en Su Libro y Su Mensajero lo ha declarado en sus dichos. Dios dice en Corán 55:27: “Y solo el majestuoso y noble rostro de tu Señor perdurará por siempre”. El exégeta coránico Ibn Yarir At-Tabari dijo sobre este versículo: “El rostro es el que es descrito como Majestuoso y Noble”. (Tafsir AtTabari. Ver Tafsir 55:27.) Algunas personas en la antigüedad negaron que Dios tuviese rostro, y alegaron que las palabras “Majestuoso y Noble” aluden directamente a Dios y no a Su generoso Rostro. Pero esa afirmación fue refutada por Ibn Juzaimah, quien dijo: “Ésta afirmación solo puede ser hecha por un ignorante en el idioma árabe, porque Dios dice: ‘Y solo el majestuoso y noble rostro de tu Señor ha de perdurar por siempre’ (55:27); y la palabra ‘rostro’ es nominativa (marfu’), mientras que la palabra ‘Señor’ se encuentra en genitivo (mayrur)...”. At-Tauhid por Ibn Juzaimah, pág. 21. En Al-Bujari y Muslim se ha registrado de ‘Utban Ibn Málik que el Profeta, que la paz y las bendiciones de Dios sean con él, dijo: “Dios ha prohibido al Fuego tocar a aquellos que afirmen que nada ni nadie tiene derecho a ser adorado salvo Dios, si buscan con ello encontrar el Rostro de Dios”. Registrado por Al-Bujari y Muslim. El Profeta, que la paz y las bendiciones de Dios sean con él, mencionó que las palabras “una gracia aún mayor” en el siguiente versículo: “Quienes obren el bien obtendrán la mejor recompensa [el Paraíso] y una gracia aún mayor” (10:26), significan contemplar el rostro de Dios. Asimismo, se narra que Abu Bakr, Hudhaifah y muchos otros Sahabah interpretaron el versículo de igual forma. (Al Asma’ wa As-Sifat, por Al- Baihaqi)
 
 # 3341
 
@@ -14478,9 +14556,9 @@ Su rostro: Al igual que otros atributos, el rostro de Dios es Único y acorde a 
 
 # 3342
 
-¿Acaso piensa la gente que se los dejará decir: "¡Creemos!", y no van a ser puestos a prueba?
+¿Acaso piensa la gente que se los dejará decir: "¡Creemos!", y no van a ser puestos a prueba?[^1]
 
-Para saber si su afirmación es sincera o son meras palabras.
+[^1]: Para saber si su afirmación es sincera o son meras palabras.
 
 # 3343
 
@@ -14512,9 +14590,9 @@ A quienes hayan creído y hecho obras de bien los introduciré [al Paraíso] jun
 
 # 3350
 
-Entre la gente hay quienes dicen: "¡Creemos en Dios!"; pero cuando sufren algún perjuicio por la causa de Dios, consideran que la opresión de los hombres es un castigo de Dios [y reniegan de su fe]. En cambio, cuando tu Señor les concede un triunfo, dicen: "¡Siempre hemos estado con ustedes!" ¿Acaso no es Dios Quien mejor sabe lo que hay en los corazones de la gente?
+Entre la gente hay quienes dicen: "¡Creemos en Dios!"; pero cuando sufren algún perjuicio por la causa de Dios, consideran que la opresión de los hombres es un castigo de Dios [y reniegan de su fe][^1]. En cambio, cuando tu Señor les concede un triunfo, dicen: "¡Siempre hemos estado con ustedes!" ¿Acaso no es Dios Quien mejor sabe lo que hay en los corazones de la gente?
 
-[y reniegan de su fe]: Dijo Ibn Kazir: “Dios nos informa en este versículo sobre un grupo de personas que alegan ser creyentes con sus palabras, pero cuyo corazón aún no ha experimentado la Fe (Imaan), y si los acosa una prueba (fitnah) creen que es un castigo de Dios y reniegan del Islam”. Dijo Ibn ‘Abbas: “Su prueba es que si son molestados a causa de su religión, reniegan de esta”.
+[^1]: Dijo Ibn Kazir: “Dios nos informa en este versículo sobre un grupo de personas que alegan ser creyentes con sus palabras, pero cuyo corazón aún no ha experimentado la Fe (Imaan), y si los acosa una prueba (fitnah) creen que es un castigo de Dios y reniegan del Islam”. Dijo Ibn ‘Abbas: “Su prueba es que si son molestados a causa de su religión, reniegan de esta”.
 
 # 3351
 
@@ -14526,9 +14604,9 @@ Los que se niegan a creer dicen a los creyentes: "Sigan nuestra fe y nosotros ca
 
 # 3353
 
-Ellos no solo cargarán con sus propios pecados, sino también con los pecados que comentan aquellos que ellos extraviaron. El Día de la Resurrección se les preguntará acerca de las mentiras que inventaban.
+Ellos no solo cargarán con sus propios pecados, sino también con los pecados que comentan aquellos que ellos extraviaron[^1]. El Día de la Resurrección se les preguntará acerca de las mentiras que inventaban.
 
-los pecados que comentan aquellos que ellos extraviaron: Dijo el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él: “Quien establezca una buena costumbre en el Islam, tendrá la recompensa de su acción y la de quien siga su ejemplo, sin que disminuya en nada la recompensa de este último. Pero quien establezca una mala costumbre en el Islam, cargará con el pecado de su acción y de quien siga su ejemplo, sin que disminuya en nada el pecado de este último”. Registrado por Muslim
+[^1]: Dijo el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él: “Quien establezca una buena costumbre en el Islam, tendrá la recompensa de su acción y la de quien siga su ejemplo, sin que disminuya en nada la recompensa de este último. Pero quien establezca una mala costumbre en el Islam, cargará con el pecado de su acción y de quien siga su ejemplo, sin que disminuya en nada el pecado de este último”. Registrado por Muslim
 
 # 3354
 
@@ -14544,9 +14622,9 @@ Salvé [a Noé] y a quienes estaban en el arca. Hice de ella un signo para los u
 
 # 3357
 
-Lo que adoran en lugar de Dios son solo ídolos que ustedes mismos crean falsamente. Lo que adoran en lugar de Dios no puede proveerles ningún sustento. Así que supliquen a Dios el sustento, adórenle solo a Él y agradézcanle. Porque es ante Él que comparecerán.
+Lo que adoran en lugar de Dios son solo ídolos que ustedes mismos crean falsamente. Lo que adoran en lugar de Dios no puede proveerles ningún sustento. Así que supliquen a Dios el sustento, adórenle solo a Él y agradézcanle[^1]. Porque es ante Él que comparecerán.
 
-supliquen a Dios el sustento, adórenle solo a Él y agradézcanle: Las palabras “pidan el sustento...adórenlo... agradézcanle...” plasman la orden de buscar el sustento solo en Dios, porque fuera de Él nada ni nadie posee el dominio sobre el sustento de los seres creados. En cuanto a “adórenlo”, certifica que pedir el sustento a Dios es una forma de adoración.
+[^1]: Las palabras “pidan el sustento...adórenlo... agradézcanle...” plasman la orden de buscar el sustento solo en Dios, porque fuera de Él nada ni nadie posee el dominio sobre el sustento de los seres creados. En cuanto a “adórenlo”, certifica que pedir el sustento a Dios es una forma de adoración.
 
 # 3358
 
@@ -14558,9 +14636,9 @@ Pero si [me] desmienten, ya lo hicieron otras naciones antes que ustedes. El Men
 
 # 3360
 
-Diles [a quienes niegan la Resurrección]: "Viajen por el mundo y observen cómo [Dios] originó la creación. Luego, Dios la hará surgir nuevamente [el Día de la Resurrección]. Dios es sobre toda cosa Poderoso.
+Diles [a quienes niegan la Resurrección]: "Viajen por el mundo y observen cómo [Dios] originó la creación[^1]. Luego, Dios la hará surgir nuevamente [el Día de la Resurrección]. Dios es sobre toda cosa Poderoso.
 
-cómo [Dios] originó la creación: La importancia que el Corán otorga al estudio del universo puede ser estimada por el siguiente hecho: los versículos sobre preceptos son aproximadamente 150, mientras que los versículos sobre fenómenos naturales son aproximadamente 750.
+[^1]: La importancia que el Corán otorga al estudio del universo puede ser estimada por el siguiente hecho: los versículos sobre preceptos son aproximadamente 150, mientras que los versículos sobre fenómenos naturales son aproximadamente 750.
 
 # 3361
 
@@ -14640,12 +14718,15 @@ Pero lo desmintieron y fueron sorprendidos por un sismo estrepitoso, y amanecier
 
 # 3380
 
-A cada uno [de ellos] los aniquilé según sus pecados. A unos les envié un viento huracanado, a otros los sorprendió un estrépito, a otros hice que se los tragara la tierra, y a otros hice que se ahogaran. Dios no fue injusto con ellos, sino que ellos lo fueron consigo mismos.
+A cada uno [de ellos] los aniquilé según sus pecados. A unos les envié un viento huracanado[^1], a otros los sorprendió un estrépito[^2], a otros hice que se los tragara la tierra[^3], y a otros hice que se ahogaran[^4]. Dios no fue injusto con ellos, sino que ellos lo fueron consigo mismos.
 
-les envié un viento huracanado: Al pueblo de ‘Ad. 
-los sorprendió un estrépito: Al pueblo de Zamud. 
-se los tragara la tierra: A Qarún. 
-que se ahogaran: A Hamán, el Faraón y su ejército.
+[^1]: Al pueblo de ‘Ad.
+
+[^2]: Al pueblo de Zamud.
+
+[^3]: A Qarún.
+
+[^4]: A Hamán, el Faraón y su ejército.
 
 # 3381
 
@@ -14665,29 +14746,31 @@ Dios creó los cielos y la Tierra con un fin justo y verdadero. En ello hay un s
 
 # 3385
 
-Recita lo que se te ha revelado del Libro y cumple con la oración, porque la oración preserva de cometer actos inmorales y reprobables. Tener presente a Dios [en el corazón durante la oración] es lo más importante. Dios sabe lo que hacen.
+Recita lo que se te ha revelado del Libro[^1] y cumple con la oración, porque la oración preserva de cometer actos inmorales y reprobables. Tener presente a Dios [en el corazón durante la oración] es lo más importante. Dios sabe lo que hacen.
 
-del Libro: El Sagrado Corán.
+[^1]: El Sagrado Corán.
 
 # 3386
 
-Debatan con la Gente del Libro con buenas maneras, excepto con aquellos que cometen injusticias. Digan: "Creemos en lo que nos ha sido revelado a nosotros así como en lo que les fue revelado a ustedes. El Dios de ustedes y nuestro Dios es uno, y a Él entregamos nuestra voluntad [como musulmanes]".
+Debatan[^1] con la Gente del Libro con buenas maneras, excepto con aquellos que cometen injusticias[^2]. Digan: "Creemos en lo que nos ha sido revelado a nosotros así como en lo que les fue revelado[^3] a ustedes. El Dios de ustedes y nuestro Dios es uno, y a Él entregamos nuestra voluntad [como musulmanes]".
 
-Debatan: Muyádalah مُجادَلة : El Corán estableció una ética a esta práctica al pedir a los musulmanes mostrar respeto por el prójimo durante el debate. Esto enseña que el musulmán, ante la diferencia, dialoga de manera educada y evita el lenguaje ofensivo.
-cometen injusticias: Con aquellos que no respetan la ética de un debate o insultan, no se está obligado a mantener las buenas maneras en el debate, aunque no excederse es siempre una obligación para el musulmán.
-en lo que les fue revelado: En su forma original.
+[^1]: Muyádalah مُجادَلة : El Corán estableció una ética a esta práctica al pedir a los musulmanes mostrar respeto por el prójimo durante el debate. Esto enseña que el musulmán, ante la diferencia, dialoga de manera educada y evita el lenguaje ofensivo.
+
+[^2]: Con aquellos que no respetan la ética de un debate o insultan, no se está obligado a mantener las buenas maneras en el debate, aunque no excederse es siempre una obligación para el musulmán.
+
+[^3]: En su forma original.
 
 # 3387
 
-Te he revelado el Libro [¡oh, Mujámmad!], y entre los que recibieron Mi revelación en el pasado hay quienes creen en él [el Corán], al igual que algunos de los habitantes de La Meca. Pero solo los que se niegan a creer pueden negar Mis signos.
+Te he revelado el Libro [¡oh, Mujámmad!], y entre los que recibieron Mi revelación en el pasado[^1] hay quienes creen en él [el Corán], al igual que algunos de los habitantes de La Meca. Pero solo los que se niegan a creer pueden negar Mis signos.
 
-los que recibieron Mi revelación en el pasado: Judíos y cristianos.
+[^1]: Judíos y cristianos.
 
 # 3388
 
-Tú no sabías leer ningún tipo de escritura cuando te fue revelado [el Corán], ni tampoco escribir con tu diestra, porque de haber sido así hubieran podido sembrar dudas los que inventan mentiras.
+Tú no sabías leer ningún tipo de escritura cuando te fue revelado [el Corán], ni tampoco escribir con tu diestra, porque de haber sido así hubieran podido sembrar dudas los que inventan mentiras.[^1]
 
-Afirmando que el Corán fue redactado por Mujámmad.
+[^1]: Afirmando que el Corán fue redactado por Mujámmad.
 
 # 3389
 
@@ -14747,9 +14830,9 @@ Dios concede Su sustento en abundancia a quien quiere de Sus siervos y se lo res
 
 # 3403
 
-Si les preguntas [a los idólatras] quién hace descender agua del cielo con la que da vida a la tierra muerta [por la sequía], responderán: "¡Dios!" Di: "¡Todas las alabanzas pertenecen a Dios!" Pero la mayoría [de la gente] no razona.
+Si les preguntas [a los idólatras] quién hace descender agua del cielo con la que da vida a la tierra muerta [por la sequía], responderán: "¡Dios!" Di: "¡Todas las alabanzas pertenecen a Dios!" Pero la mayoría [de la gente] no razona[^1].
 
-no razona: El razonamiento lógico es que si es Dios Quien les concede las gracias y favores, es solo a Él que deberían adorar y agradecer, siendo monoteístas y abandonando la adoración y el agradecimiento a sus ídolos, santos y vírgenes.
+[^1]: El razonamiento lógico es que si es Dios Quien les concede las gracias y favores, es solo a Él que deberían adorar y agradecer, siendo monoteístas y abandonando la adoración y el agradecimiento a sus ídolos, santos y vírgenes.
 
 # 3404
 
@@ -14757,9 +14840,9 @@ La vida en este mundo no es más que distracción y diversión, la vida del más
 
 # 3405
 
-Cuando suben a un barco [y son azotados por una tempestad] invocan solo a Dios con sinceridad, pero cuando los pongo a salvo llevándolos a la costa, vuelven a dedicar actos de adoración a sus ídolos.
+Cuando suben a un barco [y son azotados por una tempestad] invocan solo a Dios con sinceridad[^1], pero cuando los pongo a salvo llevándolos a la costa, vuelven a dedicar actos de adoración a sus ídolos.
 
-invocan solo a Dios con sinceridad: El acto reflejo natural de todo ser humano es invocar solo a Dios en sus momentos de aflicción.
+[^1]: El acto reflejo natural de todo ser humano es invocar solo a Dios en sus momentos de aflicción.
 
 # 3406
 
@@ -14767,9 +14850,9 @@ invocan solo a Dios con sinceridad: El acto reflejo natural de todo ser humano e
 
 # 3407
 
-¿Acaso no ven que he dispuesto [para ellos] un territorio sagrado y seguro, mientras que a su alrededor se cometen todo tipo de injusticias? ¿Acaso creen en la falsedad y niegan las gracias de Dios?
+¿Acaso no ven que he dispuesto [para ellos] un territorio sagrado y seguro[^1], mientras que a su alrededor se cometen todo tipo de injusticias? ¿Acaso creen en la falsedad y niegan las gracias de Dios?
 
-territorio sagrado y seguro: La Meca.
+[^1]: La Meca.
 
 # 3408
 
@@ -14785,27 +14868,27 @@ A quienes se esfuercen por Mi causa los guiaré por Mis caminos. Dios está con 
 
 # 3411
 
-Los bizantinos fueron derrotados
+Los bizantinos fueron derrotados[^1]
 
-derrotados: Por los persas.
+[^1]: Por los persas.
 
 # 3412
 
-en el territorio [árabe] más bajo, pero después de esta derrota, ellos [los bizantinos] vencerán
+en el territorio [árabe] más bajo[^1], pero después de esta derrota, ellos [los bizantinos] vencerán
 
-más bajo: La antigua Siria. Adnal Ard أدنى الأرض se refiere a las tierras bajas de Palestina cerca del Mar Muerto, tierras que se hunden a unos 392 metros bajo el nivel del mar. En la lengua árabe, Adna significa más próxima y también puede significar más baja. El área a la que se refiere es en realidad la parte más baja de la Tierra, y era la más cercana de las tierras bizantinas a Persia y la Península Árabe.
+[^1]: La antigua Siria. Adnal Ard أدنى الأرض se refiere a las tierras bajas de Palestina cerca del Mar Muerto, tierras que se hunden a unos 392 metros bajo el nivel del mar. En la lengua árabe, Adna significa más próxima y también puede significar más baja. El área a la que se refiere es en realidad la parte más baja de la Tierra, y era la más cercana de las tierras bizantinas a Persia y la Península Árabe.
 
 # 3413
 
-dentro de tres a nueve años. Todo ocurre por voluntad de Dios, tanto la anterior derrota [de los bizantinos] como su victoria futura. Ese día los creyentes se alegrarán
+dentro de tres a nueve años[^1]. Todo ocurre por voluntad de Dios, tanto la anterior derrota [de los bizantinos] como su victoria futura. Ese día los creyentes se alegrarán
 
-de tres a nueve años: El ejército bizantino recibió una dura derrota en Antioquía en el 613 d.C., y como resultado de eso los persas empezaron a empujar y avanzar en todos los frentes. En aquel momento, hubiera sido muy difícil imaginar que los bizantinos irían a derrotar a los persas, pero el Corán prometió que ellos serían victoriosos en el espacio de 3 a 9 años. En el año 622 d.C, nueve años después de la derrota bizantina, las dos fuerzas (bizantinos y persas), se enfrentaron en las tierras de Armenia y el resultado de la batalla fue la victoria decisiva de los bizantinos sobre los persas, por primera vez, después de su derrota en el 613. La promesa fue cumplida tal y como Dios dijo. (Fuente: History of the Byzantine State [Historia del Estado Bizantino], Ostrogorsky, pp. 100-101; y History of Persia [Historia de Persia], Sykes, vol. 1, pp. 483-484.)
+[^1]: El ejército bizantino recibió una dura derrota en Antioquía en el 613 d.C., y como resultado de eso los persas empezaron a empujar y avanzar en todos los frentes. En aquel momento, hubiera sido muy difícil imaginar que los bizantinos irían a derrotar a los persas, pero el Corán prometió que ellos serían victoriosos en el espacio de 3 a 9 años. En el año 622 d.C, nueve años después de la derrota bizantina, las dos fuerzas (bizantinos y persas), se enfrentaron en las tierras de Armenia y el resultado de la batalla fue la victoria decisiva de los bizantinos sobre los persas, por primera vez, después de su derrota en el 613. La promesa fue cumplida tal y como Dios dijo. (Fuente: History of the Byzantine State [Historia del Estado Bizantino], Ostrogorsky, pp. 100-101; y History of Persia [Historia de Persia], Sykes, vol. 1, pp. 483-484.)
 
 # 3414
 
-por la victoria de Dios. Él concede la victoria a quien quiere, Él es el Poderoso, el Misericordioso.
+por la victoria de Dios[^1]. Él concede la victoria a quien quiere, Él es el Poderoso, el Misericordioso.
 
-victoria de Dios: Ya que de los dos imperios, el Bizantino era el más cercano en valores y creencias al Islam.
+[^1]: Ya que de los dos imperios, el Bizantino era el más cercano en valores y creencias al Islam.
 
 # 3415
 
@@ -14817,15 +14900,15 @@ Conocen solo lo superficial de la vida mundanal, y viven despreocupados por la o
 
 # 3417
 
-¿Acaso no reflexionan sobre sí mismos? Dios ha creado los cielos, la Tierra y lo que hay en ellos con un fin justo y verdadero, y con un plazo determinado. Pero mucha gente no cree que habrá de comparecer ante su Señor.
+¿Acaso no reflexionan sobre sí mismos[^1]? Dios ha creado los cielos, la Tierra y lo que hay en ellos con un fin justo y verdadero, y con un plazo determinado. Pero mucha gente no cree que habrá de comparecer ante su Señor.
 
-reflexionan sobre sí mismos: En la maravilla de la creación del ser humano.
+[^1]: En la maravilla de la creación del ser humano.
 
 # 3418
 
-¿Acaso no han viajado por el mundo y visto cómo fue el final de los pueblos antiguos? Eran [imperios] más poderosos, cultivaron la tierra [en forma asombrosa] y tenían construcciones más avanzadas que las suyas. Sin embargo, cuando se les presentaron los Mensajeros con las evidencias, los desmintieron. Dios no fue injusto con ellos, sino que ellos lo fueron consigo mismos.
+¿Acaso no han viajado por el mundo y visto cómo fue el final de los pueblos antiguos? Eran [imperios] más poderosos, cultivaron la tierra [en forma asombrosa] y tenían construcciones más avanzadas que las suyas. Sin embargo, cuando se les presentaron los Mensajeros con las evidencias, los desmintieron[^1]. Dios no fue injusto con ellos, sino que ellos lo fueron consigo mismos.
 
-los desmintieron: Y esa fue la causa de su declive y desaparición.
+[^1]: Y esa fue la causa de su declive y desaparición.
 
 # 3419
 
@@ -14837,9 +14920,9 @@ Dios origina la creación y luego la reproduce, y ante Él regresarán.
 
 # 3421
 
-El día que llegue la Hora los pecadores serán presa de la desesperación.
+El día que llegue la Hora[^1] los pecadores serán presa de la desesperación.
 
-la Hora: Del fin del mundo y comience el Día del Juicio Final.
+[^1]: Del fin del mundo y comience el Día del Juicio Final.
 
 # 3422
 
@@ -14879,22 +14962,23 @@ Entre Sus signos está haber creado cónyuges de entre ustedes para que encuentr
 
 # 3431
 
-Entre Sus signos está la creación de los cielos y de la Tierra, la diversidad de sus lenguas y colores. En esto hay signos para quienes comprenden.
+Entre Sus signos está la creación de los cielos y de la Tierra, la diversidad de sus lenguas y colores[^1]. En esto hay signos para quienes comprenden.
 
-lenguas y colores: Alusión a las etnias.
+[^1]: Alusión a las etnias.
 
 # 3432
 
-Entre Sus signos está [haber creado] la noche para que descansen y el día para que procuren Su favor. En esto hay signos para un pueblo que escucha.
+Entre Sus signos está [haber creado] la noche para que descansen y el día para que procuren Su favor[^1]. En esto hay signos para un pueblo que escucha.
 
-favor: El sustento.
+[^1]: El sustento.
 
 # 3433
 
-Entre Sus signos está hacer que el relámpago sea motivo de temor y anhelo, y el agua que hace descender del cielo para dar vida a la tierra árida. En eso hay signos para un pueblo que razona.
+Entre Sus signos está hacer que el relámpago sea motivo de temor[^1] y anhelo[^2], y el agua que hace descender del cielo para dar vida a la tierra árida. En eso hay signos para un pueblo que razona.
 
-temor: Por los perjuicios que podría causar.
-anhelo: Por las lluvias que generalmente vienen después.
+[^1]: Por los perjuicios que podría causar.
+
+[^2]: Por las lluvias que generalmente vienen después.
 
 # 3434
 
@@ -14954,9 +15038,9 @@ Da a los parientes, al pobre y al viajero insolvente, lo que es su derecho. Eso 
 
 # 3448
 
-Todo lo que presten con algún interés, esperando beneficiarse de los bienes ajenos, no tendrá recompensa de Dios. En cambio, aquellos que den en caridad anhelando el rostro de Dios, serán quienes tengan multiplicada la recompensa.
+Todo lo que presten con algún interés[^1], esperando beneficiarse de los bienes ajenos, no tendrá recompensa de Dios. En cambio, aquellos que den en caridad anhelando el rostro de Dios, serán quienes tengan multiplicada la recompensa.
 
-interés: Alusión a los préstamos en los que se aplica la usura, o el agregado de un interés o beneficio sobre el capital original.
+[^1]: Alusión a los préstamos en los que se aplica la usura, o el agregado de un interés o beneficio sobre el capital original.
 
 # 3449
 
@@ -14964,9 +15048,9 @@ Dios es Quien los crea, los sustenta, los hace morir y luego los resucita. ¿Aca
 
 # 3450
 
-Se puede ver la devastación en la Tierra y en el mar como consecuencia de las acciones del ser humano. Han de padecer [el resultado de] lo que cometieron, quizás así recapaciten.
+Se puede ver la devastación en la Tierra y en el mar como consecuencia de las acciones del ser humano. Han de padecer [el resultado de] lo que cometieron, quizás así recapaciten.[^1]
 
-Este versículo establece que muchas veces el ser humano actúa de forma irresponsable hacia el medio ambiente que lo rodea y en el cual vive, y que esa irresponsabilidad llega a hacerse evidente, a tal punto que todas las personas terminan sufriendo las consecuencias.
+[^1]: Este versículo establece que muchas veces el ser humano actúa de forma irresponsable hacia el medio ambiente que lo rodea y en el cual vive, y que esa irresponsabilidad llega a hacerse evidente, a tal punto que todas las personas terminan sufriendo las consecuencias.
 
 # 3451
 
@@ -14974,10 +15058,11 @@ Diles: "Viajen por el mundo y observen cuál fue el final de los pueblos antiguo
 
 # 3452
 
-Conságrate al monoteísmo auténtico, antes de que llegue el día ineludible que Dios determinó. Ese día serán divididos.
+Conságrate al monoteísmo auténtico, antes de que llegue el día ineludible[^1] que Dios determinó. Ese día serán divididos[^2].
 
-día ineludible: El Día del Juicio Final.
-serán divididos: Todas las personas serán divididas en solo dos grupos: los que irán al Paraíso y los que irán al Infierno.
+[^1]: El Día del Juicio Final.
+
+[^2]: Todas las personas serán divididas en solo dos grupos: los que irán al Paraíso y los que irán al Infierno.
 
 # 3453
 
@@ -15093,27 +15178,27 @@ Esa es la creación de Dios, muéstrenme qué han creado sus dioses. Los injusto
 
 # 3481
 
-Agracié a Luqmán con la sabiduría [y le dije]: "Sé agradecido con Dios, pues quien agradece lo hace en beneficio propio, mientras que el ingrato debe saber que Dios no precisa del agradecimiento [de las personas] y es digno de toda alabanza".
+Agracié a Luqmán[^1] con la sabiduría [y le dije]: "Sé agradecido con Dios, pues quien agradece lo hace en beneficio propio, mientras que el ingrato debe saber que Dios no precisa del agradecimiento [de las personas] y es digno de toda alabanza".
 
-Luqmán: Los sabios tienen distintas opiniones sobre si Luqmán era un Profeta o solo un hombre sabio, y la mayoría se inclina por esta última opción, ya que en el Corán Dios solo menciona que le concedió sabiduría, y no menciona la profecía ni la revelación. El ejemplo de su sabiduría lo podemos ver en el importante consejo de vida que transmite a su hijo, evidenciándole lo mejor de este mundo y el más allá.
+[^1]: Los sabios tienen distintas opiniones sobre si Luqmán era un Profeta o solo un hombre sabio, y la mayoría se inclina por esta última opción, ya que en el Corán Dios solo menciona que le concedió sabiduría, y no menciona la profecía ni la revelación. El ejemplo de su sabiduría lo podemos ver en el importante consejo de vida que transmite a su hijo, evidenciándole lo mejor de este mundo y el más allá.
 
 # 3482
 
-[Recuerda] cuando Luqmán exhortó a su hijo diciéndole: "¡Oh, hijito! No dediques actos de adoración a otro que Dios, pues la idolatría es una gran injusticia".
+[Recuerda] cuando Luqmán exhortó a su hijo diciéndole: "¡Oh, hijito! No dediques actos de adoración a otro que Dios, pues la idolatría es una gran injusticia".[^1]
 
-Asociarle en la adoración, cometer idolatría y politeísmo, es el peor de los pecados e injusticias que el ser humano puede cometer. Cuando el Profeta, que la paz y las bendiciones de Dios sean con él, fue consultado acerca de cuál era el pecado más grave, dijo: “Asociarle a Dios, siendo que solamente Él te ha creado”. Registrado por Al Bujari y Muslim.
+[^1]: “Asociarle a Dios, siendo que solamente Él te ha creado”. Registrado por Al Bujari y Muslim.
 
 # 3483
 
-Le he ordenado al ser humano hacer el bien a sus padres. Su madre lo lleva [en el vientre] soportando molestia tras molestia, y su destete es a los dos años. Sean agradecidos conmigo y con sus padres, pero sepan que ante Mí comparecerán al final.
+Le he ordenado al ser humano hacer el bien a sus padres. Su madre lo lleva [en el vientre] soportando molestia tras molestia, y su destete es a los dos años[^1]. Sean agradecidos conmigo y con sus padres, pero sepan que ante Mí comparecerán al final.
 
-a los dos años: La leche materna es una mezcla incomparable de componentes creada por Dios, que sirve como fuente excelente de nutrientes para el recién nacido e incrementa la resistencia ante las enfermedades. Uno de los hechos que la ciencia ha descubierto, es que amamantar a los niños hasta los dos años es muy beneficioso. Dios nos suministró este importante dato hace 14 siglos en el Corán.
+[^1]: La leche materna es una mezcla incomparable de componentes creada por Dios, que sirve como fuente excelente de nutrientes para el recién nacido e incrementa la resistencia ante las enfermedades. Uno de los hechos que la ciencia ha descubierto, es que amamantar a los niños hasta los dos años es muy beneficioso. Dios nos suministró este importante dato hace 14 siglos en el Corán.
 
 # 3484
 
-Si tus padres se esfuerzan por hacer que caigas en la idolatría de dedicar actos de adoración a otro que Dios, lo cual es algo que no te he enseñado, no los obedezcan pero trátenlos con respeto. Sigan el camino de los piadosos, pues ante Mí comparecerán y les informaré de lo que hacían.
+Si tus padres se esfuerzan por hacer que caigas en la idolatría de dedicar actos de adoración a otro que Dios, lo cual es algo que no te he enseñado, no los obedezcan[^1] pero trátenlos con respeto. Sigan el camino de los piadosos, pues ante Mí comparecerán y les informaré de lo que hacían.
 
-no los obedezcan: La obediencia absoluta es debida únicamente a Dios y a su Mensajero. Por ello, debemos honrar y obedecer a los padres siempre que no nos pidan algo que claramente contradiga las normas islámicas. De lo contrario, les debemos respeto y atención permanente, pero no obediencia. Porque todo lo que provenga de un ser humano debe ser analizado a la luz de las enseñanzas islámicas. Lo que significa que la obediencia a los seres creados está limitada solo a aquello que no implique desobedecer al Creador. Ver Corán 4:59.
+[^1]: La obediencia absoluta es debida únicamente a Dios y a su Mensajero. Por ello, debemos honrar y obedecer a los padres siempre que no nos pidan algo que claramente contradiga las normas islámicas. De lo contrario, les debemos respeto y atención permanente, pero no obediencia. Porque todo lo que provenga de un ser humano debe ser analizado a la luz de las enseñanzas islámicas. Lo que significa que la obediencia a los seres creados está limitada solo a aquello que no implique desobedecer al Creador. Ver Corán 4:59.
 
 # 3485
 
@@ -15149,15 +15234,15 @@ No sientas pena por la incredulidad de los que se niegan a creer, ellos comparec
 
 # 3493
 
-Los dejaré que gocen un tiempo breve y luego los llevaré a un castigo riguroso.
+Los dejaré que gocen un tiempo breve[^1] y luego los llevaré a un castigo riguroso.
 
-tiempo breve: La vida de una persona, comparada a la eternidad de Dios, es sin duda un período breve.
+[^1]: La vida de una persona, comparada a la eternidad de Dios, es sin duda un período breve.
 
 # 3494
 
-Si les preguntas [a los idólatras]: "¿Quién creó los cielos y la Tierra?" Responderán: "¡Dios!" Diles: "¡Alabado sea Dios!" Pero la mayoría de la gente lo ignora.
+Si les preguntas [a los idólatras]: "¿Quién creó los cielos y la Tierra?" Responderán: "¡Dios!" Diles: "¡Alabado sea Dios!" Pero la mayoría de la gente lo ignora.[^1]
 
-Que esa afirmación implica que deberían adorar solo a Dios y apartarse de toda idolatría.
+[^1]: Que esa afirmación implica que deberían adorar solo a Dios y apartarse de toda idolatría.
 
 # 3495
 
@@ -15189,15 +15274,15 @@ Dios es la Verdad, y todo lo que invocan fuera de Él es falso. Dios es el Subli
 
 # 3502
 
-¡Oh, gente! Teman a su Señor y [teman] el día en el que ningún padre pueda cargar las faltas de su hijo y ningún hijo pueda cargar las faltas de su padre. Lo que Dios promete se cumple. Que no los seduzcan los placeres de la vida mundanal ni los engañe el Seductor [el demonio], alejándolos de Dios.
+¡Oh, gente! Teman a su Señor y [teman] el día en el que ningún padre pueda cargar las faltas de su hijo y ningún hijo pueda cargar las faltas de su padre[^1]. Lo que Dios promete se cumple. Que no los seduzcan los placeres de la vida mundanal ni los engañe el Seductor [el demonio], alejándolos de Dios.
 
-ningún padre pueda cargar las faltas de su hijo y ningún hijo pueda cargar las faltas de su padre: Este principio establece que cada cual es responsable de sus acciones, y que nadie cargará con los pecados ajenos y, por lo tanto, nadie hereda pecados de generaciones anteriores, como sostiene el concepto del “pecado original”.
+[^1]: Este principio establece que cada cual es responsable de sus acciones, y que nadie cargará con los pecados ajenos y, por lo tanto, nadie hereda pecados de generaciones anteriores, como sostiene el concepto del “pecado original”.
 
 # 3503
 
-Solo Dios sabe cuándo llegará la hora [el Día del Juicio], cuándo hará descender lluvia y qué encierra el útero; nadie sabe qué le deparará el día siguiente ni en qué tierra ha de morir. Dios lo sabe todo y está bien informado de lo que ustedes hacen.
+Solo Dios sabe cuándo llegará la hora [el Día del Juicio], cuándo hará descender lluvia y qué encierra el útero[^1]; nadie sabe qué le deparará el día siguiente ni en qué tierra ha de morir. Dios lo sabe todo y está bien informado de lo que ustedes hacen.
 
-qué encierra el útero: En referencia a su personalidad, si será creyente o incrédulo, de los agraciados con el Paraíso o de los condenados al Infierno, porque ese conocimiento solo lo sabe Dios. Este versículo no se refiere al sexo del feto, ya que los primeros exégetas, hace más de 1.400 años mencionaron que el sexo del feto es conocido por los ángeles y, por lo tanto, no forma parte de ese conocimiento exclusivo de Dios al que hace referencia el versículo.
+[^1]: En referencia a su personalidad, si será creyente o incrédulo, de los agraciados con el Paraíso o de los condenados al Infierno, porque ese conocimiento solo lo sabe Dios. Este versículo no se refiere al sexo del feto, ya que los primeros exégetas, hace más de 1.400 años mencionaron que el sexo del feto es conocido por los ángeles y, por lo tanto, no forma parte de ese conocimiento exclusivo de Dios al que hace referencia el versículo.
 
 # 3504
 
@@ -15205,15 +15290,15 @@ qué encierra el útero: En referencia a su personalidad, si será creyente o in
 
 # 3505
 
-Este libro sin duda es una revelación del Señor del Universo.
+Este libro[^1] sin duda es una revelación del Señor del Universo.
 
-Este libro: El Sagrado Corán.
+[^1]: El Sagrado Corán.
 
 # 3506
 
-Sin embargo, dicen [los que rechazan el Mensaje]: "Él lo ha inventado". Pero el Corán es la verdad que procede de tu Señor, para que adviertas a un pueblo al que no se le ha presentado advertidor alguno antes de ti, y así se encaminen.
+Sin embargo, dicen [los que rechazan el Mensaje]: "Él[^1] lo ha inventado". Pero el Corán es la verdad que procede de tu Señor, para que adviertas a un pueblo al que no se le ha presentado advertidor alguno antes de ti, y así se encaminen.
 
-Él: Mujámmad, que la paz y las bendiciones de Dios sean con él.
+[^1]: Mujámmad, que la paz y las bendiciones de Dios sean con él.
 
 # 3507
 
@@ -15253,9 +15338,9 @@ Y verás [¡oh, Mujámmad!] cuando los pecadores inclinen sus cabezas ante su Se
 
 # 3516
 
-Si hubiera querido habría impuesto a todas las personas la guía. Pero se ha de cumplir Mi designio: "He de llenar el Infierno de yinnes y seres humanos [que rechazaron el Mensaje].
+Si hubiera querido habría impuesto a todas las personas la guía. Pero se ha de cumplir Mi designio[^1]: "He de llenar el Infierno de yinnes y seres humanos [que rechazaron el Mensaje].
 
-Mi designio: De que los seres humanos deben elegir la guía con su voluntad y libre albedrío.
+[^1]: De que los seres humanos deben elegir la guía con su voluntad y libre albedrío.
 
 # 3517
 
@@ -15271,9 +15356,9 @@ se levantan de sus lechos para invocar a su Señor con temor y anhelo [de Su res
 
 # 3520
 
-Nadie sabe la alegría que les espera [a los creyentes] como recompensa por sus obras.
+Nadie sabe la alegría que les espera [a los creyentes] como recompensa por sus obras.[^1]
 
-El Paraíso es la gran recompensa que Dios ha preparado para los creyentes. Es la alegría perfecta y el placer donde nada falta, y nada puede perturbar su pureza. Nuestra imaginación se detiene ante la imposibilidad de comprender la grandeza de tales bendiciones y maravillas. Dios dijo en una revelación (hadiz qudsi) narrada por el Profeta, que la paz y las bendiciones de Dios sean con él: “He preparado para Mis siervos virtuosos lo que ningún ojo ha visto, ningún oído ha escuchado, y nunca ha pasado siquiera por la imaginación del ser humano”. Registrado por Al Bujari.
+[^1]: “He preparado para Mis siervos virtuosos lo que ningún ojo ha visto, ningún oído ha escuchado, y nunca ha pasado siquiera por la imaginación del ser humano”. Registrado por Al Bujari.
 
 # 3521
 
@@ -15297,10 +15382,11 @@ Pero les haré probar un castigo inmediato en esta vida antes de que los azote e
 
 # 3526
 
-Le di a Moisés el Libro e hice de él guía para los Hijos de Israel; y no dudes [¡oh, Mujámmad!] que te encontrarás con él.
+Le di a Moisés el Libro[^1] e hice de él guía para los Hijos de Israel; y no dudes [¡oh, Mujámmad!] que te encontrarás con él[^2].
 
-el Libro: La Tora.
-te encontrarás con él: El Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, se encontró con el Profeta Moisés, que la paz sea con él, durante la noche del viaje nocturno.
+[^1]: La Tora.
+
+[^2]: El Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, se encontró con el Profeta Moisés, que la paz sea con él, durante la noche del viaje nocturno.
 
 # 3527
 
@@ -15344,24 +15430,27 @@ Encomiéndate a Dios, porque Dios es suficiente como protector.
 
 # 3537
 
-Dios no puso dos corazones en el interior del hombre. Dios no ha hecho que aquellas esposas que hayan repudiado diciendo "eres tan ilícita para mí como el cuerpo de mi madre" sean [realmente] sus madres, como tampoco ha hecho que sus hijos adoptivos sean [realmente] hijos suyos: estas son solo expresiones [equivocadas] de sus bocas, Dios es quien expresa la verdad [absoluta] y guía al sendero [recto].
+Dios no puso dos corazones en el interior del hombre[^1]. Dios no ha hecho que aquellas esposas que hayan repudiado diciendo "eres tan ilícita para mí como el cuerpo de mi madre" sean [realmente] sus madres, como tampoco ha hecho que sus hijos adoptivos sean [realmente] hijos suyos: estas son solo expresiones [equivocadas] de sus bocas, Dios es quien expresa la verdad [absoluta] y guía al sendero [recto].
 
-en el interior del hombre: El corazón de una persona no puede albergar la fe y la hipocresía al mismo tiempo.
+[^1]: El corazón de una persona no puede albergar la fe y la hipocresía al mismo tiempo.
 
 # 3538
 
-Llámenlos [a sus hijos adoptivos] por el apellido de sus padres verdaderos, porque eso es lo más justo ante Dios; pero si no conocen a sus padres, mejor digan que ellos son sus hermanos en la religión y sus protegidos. No será considerado un pecado si lo hubieran hecho por error, pero sí será un pecado en caso de que lo hicieran intencionadamente. Dios es Perdonador, Misericordioso.
+Llámenlos [a sus hijos adoptivos] por el apellido de sus padres verdaderos, porque eso es lo más justo ante Dios; pero si no conocen a sus padres, mejor digan que ellos son sus hermanos en la religión y sus protegidos. No será considerado un pecado si lo hubieran hecho por error[^1], pero sí será un pecado en caso de que lo hicieran intencionadamente. Dios es Perdonador, Misericordioso.
 
-hecho por error: También si se ignora que eso no era correcto.
+[^1]: También si se ignora que eso no era correcto.
 
 # 3539
 
-El Profeta es más amado para los creyentes que ellos mismos; las esposas del Profeta [deben ser respetadas como si fueran] sus madres; y según el Libro de Dios [el Corán], los parientes son quienes tienen derecho a la herencia, algunos en mayor proporción que otros, y no los creyentes y los emigrados, pero aun así pueden testar a favor de ellos. Esto ha sido decretado y registrado en el Libro.
+El Profeta es más amado para los creyentes que ellos mismos[^1]; las esposas del Profeta [deben ser respetadas como si fueran] sus madres; y según el Libro de Dios [el Corán], los parientes son quienes tienen derecho a la herencia[^2], algunos en mayor proporción que otros, y no los creyentes y los emigrados, pero aun así pueden testar a favor de ellos[^3]. Esto ha sido decretado y registrado en el Libro[^4].
 
-que ellos mismos: Dijo el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él: “Ninguno de ustedes ha de completar su fe hasta que yo le sea más amado que su hijo, su padre y todas las personas”. Registrado por Al Bujari.
-derecho a la herencia: Esta es una aclaración y abrogación, ya que en un principio los musulmanes se heredaban entre sí aunque no fueran parientes. 
-testar a favor de ellos: Un porcentaje que no exceda el tercio [33.3%].
-en el Libro: La Tabla Protegida.
+[^1]: Dijo el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él: “Ninguno de ustedes ha de completar su fe hasta que yo le sea más amado que su hijo, su padre y todas las personas”. Registrado por Al Bujari.
+
+[^2]: Esta es una aclaración y abrogación, ya que en un principio los musulmanes se heredaban entre sí aunque no fueran parientes.
+
+[^3]: Un porcentaje que no exceda el tercio [33.3%].
+
+[^4]: La Tabla Protegida.
 
 # 3540
 
@@ -15369,9 +15458,9 @@ Celebré una alianza con todos los Profetas, la misma que celebro contigo [¡oh,
 
 # 3541
 
-para preguntarles [el Día del Juicio] a los veraces acerca de su veracidad [si cumplieron con ese compromiso]. Dios tiene preparado para los que negaron la verdad un castigo doloroso.
+para preguntarles [el Día del Juicio] a los veraces[^1] acerca de su veracidad [si cumplieron con ese compromiso]. Dios tiene preparado para los que negaron la verdad un castigo doloroso.
 
-los veraces:Los Profetas y sus seguidores.
+[^1]: Los Profetas y sus seguidores.
 
 # 3542
 
@@ -15391,9 +15480,9 @@ Dijeron los hipócritas y los que tenían su corazón enfermo de dudas: "Dios y 
 
 # 3546
 
-Cuando un grupo de ellos [de los hipócritas] dijo: "¡Oh, gente de Yazrib! Esto es perjudicial para ustedes. ¡Mejor regresen [y no combatan]! Y un grupo de ellos pidió autorización al Profeta diciendo: "Nuestras casas quedaron desprotegidas", pero no estaban desprotegidas, sino que solo querían huir.
+Cuando un grupo de ellos [de los hipócritas] dijo: "¡Oh, gente de Yazrib[^1]! Esto es perjudicial para ustedes. ¡Mejor regresen [y no combatan]! Y un grupo de ellos pidió autorización al Profeta diciendo: "Nuestras casas quedaron desprotegidas", pero no estaban desprotegidas, sino que solo querían huir.
 
-Yazrib:Antiguo nombre de la ciudad de Medina.
+[^1]: Antiguo nombre de la ciudad de Medina.
 
 # 3547
 
@@ -15429,9 +15518,9 @@ En el Mensajero de Dios hay un bello ejemplo para quienes tienen esperanza en Di
 
 # 3555
 
-Cuando los creyentes vieron a los aliados dijeron: "Esto es lo que nos prometieron Dios y Su Mensajero, y la promesa de Dios y Su Mensajero es verdadera". Eso no hizo sino acrecentarles la fe y la aceptación [de las órdenes de Dios].
+Cuando los creyentes vieron a los aliados dijeron: "Esto es lo que nos prometieron Dios y Su Mensajero[^1], y la promesa de Dios y Su Mensajero es verdadera". Eso no hizo sino acrecentarles la fe y la aceptación [de las órdenes de Dios].
 
-Esto es lo que nos prometieron Dios y Su Mensajero:Porque sabían que con la llegada del ejército enemigo vendría el auxilio de Dios.
+[^1]: Porque sabían que con la llegada del ejército enemigo vendría el auxilio de Dios.
 
 # 3556
 
@@ -15439,35 +15528,37 @@ Entre los creyentes hay hombres que cumplieron el compromiso que tomaron con Dio
 
 # 3557
 
-Dios [decidió probarlos en la fe] para recompensar a los sinceros por su sinceridad y castigar a los hipócritas, si Él quiere, o perdonarlos. Dios es Perdonador, Misericordioso.
+Dios [decidió probarlos en la fe] para recompensar a los sinceros por su sinceridad y castigar a los hipócritas, si Él quiere, o perdonarlos. Dios es Perdonador, Misericordioso.[^1]
 
-En caso de que se arrepientan, acepten la guía y enmienden su comportamiento.
+[^1]: En caso de que se arrepientan, acepten la guía y enmienden su comportamiento.
 
 # 3558
 
-Dios frustró a los incrédulos que, llenos de ira, no alcanzaron lo que se proponían, e hizo que los creyentes no entraran en combate. Dios es Fuerte, Poderoso.
+Dios frustró a los incrédulos que, llenos de ira, no alcanzaron lo que se proponían, e hizo que los creyentes no entraran en combate. Dios es Fuerte, Poderoso.[^1]
 
-Porque Dios envió como milagro una tempestad que dispersó al ejército enemigo.
+[^1]: Porque Dios envió como milagro una tempestad que dispersó al ejército enemigo.
 
 # 3559
 
-Luego hizo salir de sus fortalezas a la gente del Libro que había ayudado [a los idólatras], e infundió el terror en sus corazones. Por Su orden unos fueron ejecutados y otros hechos prisioneros.
+Luego hizo salir de sus fortalezas a la gente del Libro[^1] que había ayudado [a los idólatras], e infundió el terror en sus corazones. Por Su orden unos fueron ejecutados y otros hechos prisioneros[^2].
 
-gente del Libro:Los judíos de Banu Quraidhah, que traicionaron su pacto de no agresión ni colaboración con los enemigos, y ayudaron a los aliados contra los musulmanes. 
-prisioneros:Los judíos de Banu Quraidhah habían firmado un pacto con los musulmanes de defenderse mutuamente en caso de agresión extranjera, y no solamente no lo cumplieron, sino que confabularon con los idólatras para exterminar a los musulmanes, ya que habían acordado con los idólatras atacar Medina cuando estuviera desprotegida y matar a quienes quedaran en ella, que eran unos pocos guardias y miles de mujeres, niños y ancianos, lo que hubiera significado un genocidio. Por lo que fueron juzgados y condenados por planear y confabularse para cometer un genocidio. Cuando los judíos de Banu Quraidhah se rindieron, rechazaron arrogantemente que el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, los juzgara, y pidieron que Sa’ad Ibn Mu’ad, quien había sido un aliado de ellos antes de convertirse al Islam, juzgara sobre su caso de acuerdo con las leyes de la Tora, pensando que este juzgaría a su favor, pero Sa’ad los condenó.
+[^1]: Los judíos de Banu Quraidhah, que traicionaron su pacto de no agresión ni colaboración con los enemigos, y ayudaron a los aliados contra los musulmanes.
+
+[^2]: Los judíos de Banu Quraidhah habían firmado un pacto con los musulmanes de defenderse mutuamente en caso de agresión extranjera, y no solamente no lo cumplieron, sino que confabularon con los idólatras para exterminar a los musulmanes, ya que habían acordado con los idólatras atacar Medina cuando estuviera desprotegida y matar a quienes quedaran en ella, que eran unos pocos guardias y miles de mujeres, niños y ancianos, lo que hubiera significado un genocidio. Por lo que fueron juzgados y condenados por planear y confabularse para cometer un genocidio. Cuando los judíos de Banu Quraidhah se rindieron, rechazaron arrogantemente que el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, los juzgara, y pidieron que Sa’ad Ibn Mu’ad, quien había sido un aliado de ellos antes de convertirse al Islam, juzgara sobre su caso de acuerdo con las leyes de la Tora, pensando que este juzgaría a su favor, pero Sa’ad los condenó.
 
 # 3560
 
-[Dios] los hizo heredar sus tierras, sus hogares y sus bienes, y [los hará heredar] otras tierras que todavía ni siquiera han pisado. Dios es sobre toda cosa Poderoso.
+[Dios] los hizo heredar sus tierras, sus hogares y sus bienes, y [los hará heredar] otras tierras que todavía ni siquiera han pisado. Dios es sobre toda cosa Poderoso.[^1]
 
-Otro milagro histórico que el Corán predijo, ya que en unos pocos años, los imperios de Persia y Roma cayeron ante el avance del Islam.
+[^1]: Otro milagro histórico que el Corán predijo, ya que en unos pocos años, los imperios de Persia y Roma cayeron ante el avance del Islam.
 
 # 3561
 
-¡Oh, Profeta!, diles a tus esposas: "Si prefieren la vida mundanal y sus placeres transitorios, vengan que les daré la parte de los bienes materiales que les corresponden y acordaremos un divorcio decoroso.
+¡Oh, Profeta!, diles a tus esposas[^1]: "Si prefieren la vida mundanal y sus placeres transitorios, vengan que les daré la parte de los bienes materiales que les corresponden y acordaremos un divorcio decoroso[^2].
 
-diles a tus esposas:Esta propuesta tuvo lugar cuando algunas de las esposas del Profeta, que la paz y las bendiciones de Dios sean con él, se quejaron del estilo de vida austero que llevaban y le exigieron al Profeta más dinero para sus gastos diarios. Es importante reflexionar sobre el hecho de que el Profeta, pudiendo disfrutar la vida acomodada y lujosa de cualquier líder, optó por ser austero y compartía las dificultades de los más pobres. 
-divorcio decoroso:A través de un divorcio amistoso de mutuo acuerdo.
+[^1]: Esta propuesta tuvo lugar cuando algunas de las esposas del Profeta, que la paz y las bendiciones de Dios sean con él, se quejaron del estilo de vida austero que llevaban y le exigieron al Profeta más dinero para sus gastos diarios. Es importante reflexionar sobre el hecho de que el Profeta, pudiendo disfrutar la vida acomodada y lujosa de cualquier líder, optó por ser austero y compartía las dificultades de los más pobres.
+
+[^2]: A través de un divorcio amistoso de mutuo acuerdo.
 
 # 3562
 
@@ -15487,15 +15578,15 @@ Pero a quienes de ustedes obedezcan a Dios y a su Mensajero, y obren rectamente,
 
 # 3566
 
-[Preferiblemente] permanezcan en sus casas, [y cuando salgan] no se exhiban provocativamente como lo hacían [las mujeres] en tiempos del paganismo preislámico, y hagan la oración, paguen el zakat y obedezcan a Dios y a Su Mensajero. Dios quiere apartar de ustedes todo pecado, ¡oh, familia del Profeta!, y purificarlos.
+[Preferiblemente] permanezcan en sus casas, [y cuando salgan] no se exhiban provocativamente como lo hacían [las mujeres] en tiempos del paganismo preislámico, y hagan la oración, paguen el zakat y obedezcan a Dios y a Su Mensajero. Dios quiere apartar de ustedes todo pecado, ¡oh, familia del Profeta!, y purificarlos.[^1]
 
-En esta frase, en idioma árabe puede observarse una transición del pronombre femenino al masculino sobre el final, ya que el pronombre masculino en este idioma incluye ambos sexos, siendo el objetivo incluir a todos los miembros de la casa del Profeta, y no solamente a sus esposas, como sus nietos Al Hasan y Al Husain, entre otros.
+[^1]: En esta frase, en idioma árabe puede observarse una transición del pronombre femenino al masculino sobre el final, ya que el pronombre masculino en este idioma incluye ambos sexos, siendo el objetivo incluir a todos los miembros de la casa del Profeta, y no solamente a sus esposas, como sus nietos Al Hasan y Al Husain, entre otros.
 
 # 3567
 
-[Oh, esposas del Profeta] transmitan los versículos de Dios y la sabiduría que se mencionan en sus casas. Dios es Sutil, está informado de todas las cosas.
+[Oh, esposas del Profeta] transmitan los versículos de Dios y la sabiduría que se mencionan en sus casas. Dios es Sutil, está informado de todas las cosas.[^1]
 
-Las esposas del Profeta tenían la obligación de comunicar a la comunidad los versículos del Corán que eran revelados en el interior de sus casas, su interpretación y también los dichos que pronunciara el Profeta dentro del hogar, para que su beneficio llegara a toda la comunidad.
+[^1]: Las esposas del Profeta tenían la obligación de comunicar a la comunidad los versículos del Corán que eran revelados en el interior de sus casas, su interpretación y también los dichos que pronunciara el Profeta dentro del hogar, para que su beneficio llegara a toda la comunidad.
 
 # 3568
 
@@ -15507,11 +15598,13 @@ Un verdadero creyente o a una verdadera creyente no deben, cuando Dios y Su Mens
 
 # 3570
 
-Recuerda [¡oh, Mujámmad!] cuando dijiste [a Zaid Ibn Háriza] a quien Dios había agraciado [con el Islam] y tú habías favorecido [liberándolo de la esclavitud]: "Conserva a tu esposa y teme a Dios"; intentaste ocultar lo que Dios haría manifiesto porque temiste lo que diría la gente, pero Dios es más digno de ser temido. Cuando Zaid termine con el vínculo conyugal, te la concederé en matrimonio para que los creyentes [sepan que] no hay ningún impedimento en casarse con las exesposas de sus hijos adoptivos, si es que estos deciden divorciarse de ellas. Era un asunto decidido.
+Recuerda [¡oh, Mujámmad!] cuando dijiste [a Zaid Ibn Háriza] a quien Dios había agraciado [con el Islam] y tú habías favorecido [liberándolo de la esclavitud]: "Conserva a tu esposa y teme a Dios"; intentaste ocultar lo que Dios haría manifiesto porque temiste lo que diría la gente, pero Dios es más digno de ser temido. Cuando Zaid termine con el vínculo conyugal[^1], te la concederé en matrimonio[^2] para que los creyentes [sepan que] no hay ningún impedimento en casarse con las exesposas de sus hijos adoptivos[^3], si es que estos deciden divorciarse de ellas. Era un asunto decidido.
 
-termine con el vínculo conyugal:Y ella haya concluido con el tiempo de espera luego del divorcio. 
- te la concederé en matrimonio:A Zainab, exesposa de Zaid. 
-casarse con las exesposas de sus hijos adoptivos:Para las costumbres paganas preislámicas era de mal agüero casarse con una mujer que había sido divorciada por un hijo adoptivo. Para romper esa creencia, Dios le ordenó al Profeta, que la paz y las bendiciones de Dios sean con él, que contrajera matrimonio con Zainab, y así demostrar que los únicos impedimentos en cuanto al matrimonio son los derivados de las relaciones biológicas reales entre padres e hijos.
+[^1]: Y ella haya concluido con el tiempo de espera luego del divorcio.
+
+[^2]: A Zainab, exesposa de Zaid.
+
+[^3]: Para las costumbres paganas preislámicas era de mal agüero casarse con una mujer que había sido divorciada por un hijo adoptivo. Para romper esa creencia, Dios le ordenó al Profeta, que la paz y las bendiciones de Dios sean con él, que contrajera matrimonio con Zainab, y así demostrar que los únicos impedimentos en cuanto al matrimonio son los derivados de las relaciones biológicas reales entre padres e hijos.
 
 # 3571
 
@@ -15523,9 +15616,9 @@ Quienes transmiten el Mensaje de Dios y tienen temor de Él, sin temer a nadie s
 
 # 3573
 
-Mujámmad no es el padre de ninguno de sus hombres, sino que es el Mensajero de Dios y el sello de los Profetas. Dios lo sabe todo.
+Mujámmad no es el padre de ninguno de sus hombres, sino que es el Mensajero de Dios y el sello de los Profetas. Dios lo sabe todo.[^1]
 
-El último de una larga cadena de profetas enviados a la humanidad, luego de quien no habrá ya profetas ni enviados.
+[^1]: El último de una larga cadena de profetas enviados a la humanidad, luego de quien no habrá ya profetas ni enviados.
 
 # 3574
 
@@ -15545,9 +15638,9 @@ Su saludo el día que se encuentren con Él [en el Paraíso] será: "¡Que la pa
 
 # 3578
 
-¡Oh, Profeta! Te he enviado como testigo, albriciador, amonestador,
+¡Oh, Profeta! Te he enviado como testigo[^1], albriciador, amonestador,
 
-testigo: Mujámmad es el testigo de las obras de la comunidad musulmana.
+[^1]: Mujámmad es el testigo de las obras de la comunidad musulmana.
 
 # 3579
 
@@ -15567,9 +15660,9 @@ No obedezcas a los que niegan la verdad ni a los hipócritas, no hagas caso a su
 
 # 3583
 
-¡Oh, Profeta! Te son lícitas las mujeres a las cuales diste la dote, y lo que posee tu diestra que te ha concedido Dios, y tus primas paternas y maternas que emigraron contigo, y la mujer creyente que se ofrece al Profeta [en matrimonio], si es que el Profeta quiere tomarla por esposa; es un permiso exclusivo para ti, no para los demás. Sé bien lo que les prescribí respecto a las esposas y lo que posee su diestra, para que no tengas reparo. Dios es Perdonador, Misericordioso.
+¡Oh, Profeta! Te son lícitas las mujeres a las cuales diste la dote, y lo que posee tu diestra que te ha concedido Dios, y tus primas paternas y maternas que emigraron contigo, y la mujer creyente que se ofrece al Profeta [en matrimonio], si es que el Profeta quiere tomarla por esposa; es un permiso exclusivo para ti, no para los demás. Sé bien lo que les prescribí respecto a las esposas y lo que posee su diestra, para que no tengas reparo. Dios es Perdonador, Misericordioso.[^1]
 
-Si quisieras casarte con alguna mujer de los grupos mencionados anteriormente.
+[^1]: Si quisieras casarte con alguna mujer de los grupos mencionados anteriormente.
 
 # 3584
 
@@ -15597,9 +15690,9 @@ Dios bendice al Profeta y Sus ángeles piden [a Dios] que lo bendiga. ¡Oh, crey
 
 # 3590
 
-A quienes intenten perjudicar a Dios y a Su Mensajero, Dios los maldecirá en este mundo y en el otro, donde les tiene preparado un castigo humillante.
+A quienes intenten perjudicar a Dios y a Su Mensajero, Dios los maldecirá en este mundo y en el otro, donde les tiene preparado un castigo humillante.[^1]
 
-Intentar perjudicar a Dios, significa causarle algún perjuicio a Su religión.
+[^1]: Intentar perjudicar a Dios, significa causarle algún perjuicio a Su religión.
 
 # 3591
 
@@ -15607,10 +15700,11 @@ Quienes causen daño a los creyentes y a las creyentes sin tener motivo alguno, 
 
 # 3592
 
-¡Oh, Profeta! Diles a tus mujeres, a tus hijas y a las mujeres de los creyentes, que se cubran con sus mantos; es mejor para que se las reconozca y no sean molestadas. Dios es Perdonador, Misericordioso.
+¡Oh, Profeta! Diles a tus mujeres, a tus hijas y a las mujeres de los creyentes, que se cubran con sus mantos[^1]; es mejor para que se las reconozca[^2] y no sean molestadas. Dios es Perdonador, Misericordioso.
 
-mantos:El término yilbab جلباب hace referencia a una clase de ropa similar a un manto o capa que cubre todo el cuerpo desde la cabeza, y que difiere de la vestimenta que se utiliza dentro del hogar. Acorde a la orden mencionada en este versículo, es obligatorio para las mujeres musulmanas utilizar una vestimenta, frente a hombres que no son de su familia, que cubra todas aquellas partes de su cuerpo que les requiere la legislación islámica.
-se las reconozca:Al ser reconocidas como mujeres musulmanas y religiosas, no serán molestadas por aquellos hombres que intentan seducir a mujeres que, por su vestimenta, juzgan de moralidad mundana.
+[^1]: El término yilbab جلباب hace referencia a una clase de ropa similar a un manto o capa que cubre todo el cuerpo desde la cabeza, y que difiere de la vestimenta que se utiliza dentro del hogar. Acorde a la orden mencionada en este versículo, es obligatorio para las mujeres musulmanas utilizar una vestimenta, frente a hombres que no son de su familia, que cubra todas aquellas partes de su cuerpo que les requiere la legislación islámica.
+
+[^2]: Al ser reconocidas como mujeres musulmanas y religiosas, no serán molestadas por aquellos hombres que intentan seducir a mujeres que, por su vestimenta, juzgan de moralidad mundana.
 
 # 3593
 
@@ -15618,9 +15712,9 @@ Si los hipócritas, aquellos que tienen sus corazones enfermos [de dudas] y los 
 
 # 3594
 
-Porque serán maldecidos dondequiera que se encuentren, y deberán ser apresados y ajusticiados con firmeza.
+Porque serán maldecidos dondequiera que se encuentren, y deberán ser apresados y ajusticiados con firmeza.[^1]
 
-Esta es la pena que establece el Islam para crímenes sexuales como la violación.
+[^1]: Esta es la pena que establece el Islam para crímenes sexuales como la violación.
 
 # 3595
 
@@ -15664,9 +15758,9 @@ Y dirán: "¡Oh, Señor nuestro! Seguimos a nuestros líderes y poderosos; fuero
 
 # 3605
 
-Le propuse a los cielos, a la Tierra y a las montañas revelarles el Mensaje, pero se rehusaron a cargar con ello porque sintieron temor. Pero el ser humano aceptó llevar la carga; el ser humano fue injusto [consigo mismo] e ignorante [de las consecuencias de asumir esa responsabilidad].
+Le propuse a los cielos, a la Tierra y a las montañas revelarles el Mensaje, pero se rehusaron a cargar con ello porque sintieron temor[^1]. Pero el ser humano aceptó llevar la carga; el ser humano fue injusto [consigo mismo] e ignorante [de las consecuencias de asumir esa responsabilidad].
 
-temor:De la enorme responsabilidad que implicaba ser portador del Mensaje.
+[^1]: De la enorme responsabilidad que implicaba ser portador del Mensaje.
 
 # 3606
 
@@ -15678,16 +15772,17 @@ Dios castigará a los hipócritas y a las hipócritas, a los idólatras y a las 
 
 # 3608
 
-Sabe lo que ingresa en la tierra y lo que surge de ella. Lo que desciende del cielo y lo que sube hacia él. Él es el Misericordioso, el Perdonador.
+Sabe lo que ingresa en la tierra[^1] y lo que surge de ella. Lo que desciende del cielo y lo que sube hacia él[^2]. Él es el Misericordioso, el Perdonador.
 
-ingresa en la tierra: Como la lluvia, las semillas, etc.
-lo que sube hacia él: Como los ángeles y los registros de las obras del ser humano.
+[^1]: Como la lluvia, las semillas, etc.
+
+[^2]: Como los ángeles y los registros de las obras del ser humano.
 
 # 3609
 
-Dicen los que se negaron a creer: "No habrá Día del Juicio". Diles [¡oh, Mujámmad!]: "¡Sí!, habrá, se los juro por mi Señor, Él es el Conocedor de lo oculto, no se Le escapa el conocimiento de la existencia de una pequeña partícula en los cielos o en la Tierra, ni existe nada menor ni mayor que no esté en un Libro evidente.
+Dicen los que se negaron a creer: "No habrá Día del Juicio". Diles [¡oh, Mujámmad!]: "¡Sí!, habrá, se los juro por mi Señor, Él es el Conocedor de lo oculto, no se Le escapa el conocimiento de la existencia de una pequeña partícula en los cielos o en la Tierra, ni existe nada menor ni mayor que no esté en un Libro evidente[^1].
 
-Libro evidente: La Tabla Protegida.
+[^1]: La Tabla Protegida.
 
 # 3610
 
@@ -15731,11 +15826,13 @@ Hacían para él todo lo que él deseara: templos elevados, estatuas, cántaros 
 
 # 3620
 
-Cuando decreté para él que muriera, no les advirtió de su muerte sino un insecto de la tierra que carcomió su bastón, y cuando [Salomón] se cayó, se hizo evidente [para la gente] que si los yinnes hubieran tenido conocimiento de lo oculto, no habrían permanecido en el castigo humillante [de seguir trabajando].
+Cuando decreté para él que muriera[^1], no les advirtió de su muerte sino un insecto de la tierra[^2] que carcomió su bastón, y cuando [Salomón] se cayó, se hizo evidente [para la gente] que si los yinnes hubieran tenido conocimiento de lo oculto[^3], no habrían permanecido en el castigo humillante [de seguir trabajando].
 
-que muriera:Cuando el Profeta Salomón murió, quedó sentado en su trono, apoyado en su bastón, entonces los yinnes al pasar frente a él pensaban que aún estaba con vida y seguían trabajando. 
- insecto de la tierra:Una termita.
-conocimiento de lo oculto:Es común encontrar en mucha gente el concepto errado de que los yinnes o demonios tienen conocimiento de lo oculto. Los yinnes desviados, que se convierten en demonios, ayudan a difundir esta noción. Pero Dios nos muestra la falsedad de este concepto al revelarnos la historia del Profeta Salomón.
+[^1]: Cuando el Profeta Salomón murió, quedó sentado en su trono, apoyado en su bastón, entonces los yinnes al pasar frente a él pensaban que aún estaba con vida y seguían trabajando.
+
+[^2]: Una termita.
+
+[^3]: Es común encontrar en mucha gente el concepto errado de que los yinnes o demonios tienen conocimiento de lo oculto. Los yinnes desviados, que se convierten en demonios, ayudan a difundir esta noción. Pero Dios nos muestra la falsedad de este concepto al revelarnos la historia del Profeta Salomón.
 
 # 3621
 
@@ -15755,15 +15852,15 @@ Puse entre ellos y las ciudades que había bendecido otras aldeas, e hice que tr
 
 # 3625
 
-Dijeron [con arrogancia]: "¡Señor nuestro! Alarga nuestros viajes". Y se perjudicaron a sí mismos, e hice que se convirtieran en historia y los destruí por completo. Sin duda, en esto hay un signo para todo paciente [ante momentos difíciles] agradecido [de los favores de Dios].
+Dijeron [con arrogancia]: "¡Señor nuestro! Alarga nuestros viajes". Y se perjudicaron a sí mismos, e hice que se convirtieran en historia y los destruí por completo. Sin duda, en esto hay un signo para todo paciente [ante momentos difíciles] agradecido [de los favores de Dios].[^1]
 
-Esta frase fue pronunciada con soberbia hacia Dios como un desafío, ya que Dios les había concedido viajar con seguridad entre los pueblos y que sus viajes fueran cortos y fáciles.
+[^1]: Esta frase fue pronunciada con soberbia hacia Dios como un desafío, ya que Dios les había concedido viajar con seguridad entre los pueblos y que sus viajes fueran cortos y fáciles.
 
 # 3626
 
-Así confirmó Iblís su afirmación: ya que todos lo siguieron excepto un grupo de creyentes.
+Así confirmó Iblís su afirmación: ya que todos lo siguieron excepto un grupo de creyentes.[^1]
 
-Para ver esta afirmación del demonio ir a Corán 17:62, 7:17, entre otras.
+[^1]: 62, 7:17, entre otras.
 
 # 3627
 
@@ -15867,9 +15964,9 @@ Ya desmintieron sus antecesores a Mis Mensajeros, y estos incrédulos [deberían
 
 # 3652
 
-Diles [¡oh, Mujámmad!]: "Los exhorto a que hagan una cosa [para que se les evidencie la verdad]: Pónganse ante Dios en grupo o individualmente, y reflexionen, pues su compañero no es un loco, sino que es un amonestador que les advierte de un castigo severo".
+Diles [¡oh, Mujámmad!]: "Los exhorto a que hagan una cosa [para que se les evidencie la verdad]: Pónganse ante Dios en grupo o individualmente, y reflexionen, pues su compañero[^1] no es un loco, sino que es un amonestador que les advierte de un castigo severo".
 
-su compañero: El Profeta Mujámmad es denominado así porque vivía entre ellos.
+[^1]: El Profeta Mujámmad es denominado así porque vivía entre ellos.
 
 # 3653
 
@@ -15901,9 +15998,9 @@ Antes ya habían sido incrédulos [en la vida mundanal] y refutaban lo oculto co
 
 # 3660
 
-Pero entre ellos y lo que desean se interpondrá una barrera, como ocurrió con los incrédulos que estuvieron antes de ellos, porque estaban indecisos [sobre el Mensaje].
+Pero entre ellos y lo que desean[^1] se interpondrá una barrera, como ocurrió con los incrédulos que estuvieron antes de ellos, porque estaban indecisos [sobre el Mensaje].
 
-lo que desean: Arrepentirse y volver a la vida mundanal.
+[^1]: Arrepentirse y volver a la vida mundanal.
 
 # 3661
 
@@ -15923,9 +16020,9 @@ Si te desmienten [¡oh, Mujámmad!], ya antes de ti otros Mensajeros fueron desm
 
 # 3665
 
-¡Oh, gente! La promesa de Dios es verdadera. Que no los alucine la vida mundanal, y que el Seductor no los aparte de Dios.
+¡Oh, gente! La promesa de Dios es verdadera. Que no los alucine la vida mundanal, y que el Seductor no los aparte de Dios.[^1]
 
-La promesa de la resurrección y el Juicio Final.
+[^1]: La promesa de la resurrección y el Juicio Final.
 
 # 3666
 
@@ -15949,16 +16046,17 @@ Quien desee el poder, debe saber que el poder absoluto pertenece solo a Dios. Ha
 
 # 3671
 
-Dios creó [a Adán] de la tierra, luego [a toda su descendencia] de un óvulo fecundado, luego los hace pares [hombre y mujer]. Ninguna mujer concibe ni da a luz sin que Él tenga conocimiento. A nadie se le alarga ni se le acorta la vida sin que ello conste en un Libro. Eso es fácil para Dios.
+Dios creó [a Adán] de la tierra, luego [a toda su descendencia] de un óvulo fecundado, luego los hace pares [hombre y mujer]. Ninguna mujer concibe ni da a luz sin que Él tenga conocimiento. A nadie se le alarga ni se le acorta la vida sin que ello conste en un Libro[^1]. Eso es fácil para Dios.
 
-Libro: La Tabla Protegida.
+[^1]: La Tabla Protegida.
 
 # 3672
 
-Las dos masas de agua no son iguales: una es potable, dulce y agradable para beber; la otra es salobre. De ambas comen carne fresca y obtienen adornos con los que se engalanan. Ven al barco atravesarlas para buscar Su favor: sean agradecidos [con Dios].
+Las dos masas de agua no son iguales: una es potable, dulce y agradable para beber[^1]; la otra es salobre[^2]. De ambas comen carne fresca y obtienen adornos con los que se engalanan. Ven al barco atravesarlas para buscar Su favor: sean agradecidos [con Dios].
 
-agradable para beber: Los ríos y los lagos.
-la otra es salobre: Los mares.
+[^1]: Los ríos y los lagos.
+
+[^2]: Los mares.
 
 # 3673
 
@@ -15966,9 +16064,9 @@ la otra es salobre: Los mares.
 
 # 3674
 
-Si ustedes los invocan, no oyen su invocación, y si oyeran no podrían responder. El Día de la Resurrección negarán que los hayan adorado, y no te informará nadie como Dios, Quien está bien informado de todo.
+Si ustedes los invocan, no oyen su invocación, y si oyeran no podrían responder. El Día de la Resurrección negarán que los hayan adorado, y no te informará nadie como Dios, Quien está bien informado de todo.[^1]
 
-En este versículo, Dios evidencia que aquellos ídolos a los que se invoca, ya sean ángeles, profetas o estatuas, son débiles e incapaces de contestar las súplicas, ya que carecen de los medios que sus adoradores les atribuyen: poder, dominio, capacidad de audición y posibilidad de conceder las súplicas. Dios negó a través de este versículo que tales ídolos poseyeran con qué responder a quienes les suplican cuando dijo: “Si los invocan, no oyen su invocación”, tal como dijera en otro versículo: “En lugar de adorar a Dios, adoran lo que no tiene ni tendrá dominio alguno sobre las provisiones del cielo y de la Tierra” (16:73); luego Dios negó que tales ídolos tuvieran capacidad de audición: “Si los invocan, no oyen su invocación”, y para confirmar ese concepto dijo: “y si oyeran no podrían responder”, ya que no poseen esa posibilidad, porque Dios no ha concedido a nada de su creación la capacidad de responder a las súplicas, ya sea por sí mismo o como intermediario.
+[^1]: poder, dominio, capacidad de audición y posibilidad de conceder las súplicas. Dios negó a través de este versículo que tales ídolos poseyeran con qué responder a quienes les suplican cuando dijo: “Si los invocan, no oyen su invocación”, tal como dijera en otro versículo: “En lugar de adorar a Dios, adoran lo que no tiene ni tendrá dominio alguno sobre las provisiones del cielo y de la Tierra” (16:73); luego Dios negó que tales ídolos tuvieran capacidad de audición: “Si los invocan, no oyen su invocación”, y para confirmar ese concepto dijo: “y si oyeran no podrían responder”, ya que no poseen esa posibilidad, porque Dios no ha concedido a nada de su creación la capacidad de responder a las súplicas, ya sea por sí mismo o como intermediario.
 
 # 3675
 
@@ -16004,15 +16102,15 @@ No son iguales los vivos y los muertos. Dios hace oír [y aceptar el Mensaje] a 
 
 # 3683
 
-Tú solo eres un amonestador.
+Tú solo eres un amonestador.[^1]
 
-Que debe transmitir claramente el Mensaje.
+[^1]: Que debe transmitir claramente el Mensaje.
 
 # 3684
 
-Te he enviado con la Verdad, como albriciador y amonestador; no hubo ninguna nación a la que no se le haya enviado un amonestador.
+Te he enviado con la Verdad, como albriciador y amonestador; no hubo ninguna nación a la que no se le haya enviado un amonestador.[^1]
 
-Abu Dharr preguntó: “¡Oh, Mensajero de Dios! ¿Cuántos Profetas hubo?” Respondió: “Ciento veinticuatro mil, y los Mensajeros [los que recibieron un libro revelado] de ellos fueron un poco más de trescientos veinte, fueron muy numerosos”. Registrado por Ahmad en su Musnad.
+[^1]: “¡Oh, Mensajero de Dios! ¿Cuántos Profetas hubo?” Respondió: “Ciento veinticuatro mil, y los Mensajeros [los que recibieron un libro revelado] de ellos fueron un poco más de trescientos veinte, fueron muy numerosos”. Registrado por Ahmad en su Musnad.
 
 # 3685
 
@@ -16044,9 +16142,9 @@ Lo que te he revelado del Libro [¡oh, Mujámmad!] es la Verdad que corrobora lo
 
 # 3692
 
-Luego hice que heredaran el Libro quienes elegí entre Mis siervos, pero entre ellos hay quienes son injustos consigo mismos [cometiendo pecados], otros que lo ponen en práctica con moderación, y otros que, con el permiso de Dios, se apresuran en hacer el bien. Eso es un favor inmenso.
+Luego hice que heredaran el Libro quienes elegí entre Mis siervos[^1], pero entre ellos hay quienes son injustos consigo mismos [cometiendo pecados], otros que lo ponen en práctica con moderación, y otros que, con el permiso de Dios, se apresuran en hacer el bien. Eso es un favor inmenso.
 
-Mis siervos: Los musulmanes.
+[^1]: Los musulmanes.
 
 # 3693
 
@@ -16090,9 +16188,9 @@ Dios es Quien contiene a los cielos y la Tierra para que no se desvíen [de su �
 
 # 3703
 
-Fueron soberbios en la Tierra, y se confabularon [para apartar a la gente del camino recto], pero las confabulaciones recayeron sobre ellos mismos. ¿Es que no temen que les suceda como a sus predecesores? No habrá cambios en el designio de Dios.
+Fueron soberbios en la Tierra, y se confabularon [para apartar a la gente del camino recto], pero las confabulaciones recayeron sobre ellos mismos. ¿Es que no temen que les suceda como a sus predecesores? No habrá cambios en el designio de Dios.[^1]
 
-Dios siempre socorre y recompensa a los creyentes, así como siempre castiga a los que rechazan Su Mensaje.
+[^1]: Dios siempre socorre y recompensa a los creyentes, así como siempre castiga a los que rechazan Su Mensaje.
 
 # 3704
 
@@ -16100,9 +16198,9 @@ Dios siempre socorre y recompensa a los creyentes, así como siempre castiga a l
 
 # 3705
 
-Si Dios castigara a la gente [inmediatamente] por sus pecados, no dejaría ninguna criatura sobre la faz de la Tierra. Por Su voluntad les da una prórroga hasta un plazo fijado; pero cuando llegue el plazo, Dios [los juzgará porque] está bien enterado de todo lo que hacen.
+Si Dios castigara a la gente [inmediatamente] por sus pecados, no dejaría ninguna criatura sobre la faz de la Tierra. Por Su voluntad les da una prórroga hasta un plazo fijado[^1]; pero cuando llegue el plazo, Dios [los juzgará porque] está bien enterado de todo lo que hacen.
 
-un plazo fijado: El Día del Juicio Final.
+[^1]: El Día del Juicio Final.
 
 # 3706
 
@@ -16150,15 +16248,15 @@ Solo se beneficia con tu amonestación quien sigue el Mensaje y teme al Compasiv
 
 # 3717
 
-Yo soy Quien resucita a los muertos, y registro lo que hagan de bien y lo que hagan del mal; todo lo tengo mencionado en un libro claro.
+Yo soy Quien resucita a los muertos, y registro lo que hagan de bien y lo que hagan del mal; todo lo tengo mencionado en un libro claro[^1].
 
-en un libro claro: La Tabla Protegida.
+[^1]: La Tabla Protegida.
 
 # 3718
 
-[A quienes te desmienten] menciónales el ejemplo de los habitantes de una ciudad, cuando se presentaron ante ellos los Mensajeros.
+[A quienes te desmienten] menciónales el ejemplo de los habitantes de una ciudad[^1], cuando se presentaron ante ellos los Mensajeros.
 
-los habitantes de una ciudad: Referencia a los habitantes de Antioquía, que se encontraba junto al Mar Mediterráneo. La ciudad fue construida por Selauqas el Primero en el año 307 a.C. quien la hizo la capital de su reino después de Alejandro de Macedonia.
+[^1]: Referencia a los habitantes de Antioquía, que se encontraba junto al Mar Mediterráneo. La ciudad fue construida por Selauqas el Primero en el año 307 a.C. quien la hizo la capital de su reino después de Alejandro de Macedonia.
 
 # 3719
 
@@ -16182,9 +16280,9 @@ Dijeron [los incrédulos]: "Tenemos un mal presagio con ustedes, y si no desiste
 
 # 3724
 
-Dijeron [los Mensajeros]: "Su destino [bueno o malo] depende de ustedes. Pero ustedes, por el solo hecho de que los amonestemos [dirán que les traemos mala suerte]. En realidad son un pueblo de transgresores".
+Dijeron [los Mensajeros]: "Su destino [bueno o malo] depende de ustedes[^1]. Pero ustedes, por el solo hecho de que los amonestemos [dirán que les traemos mala suerte]. En realidad son un pueblo de transgresores".
 
-depende de ustedes: Es decir, que aquello que los aflige es resultado y responsabilidad de sus actos y maldades, no a causa de que Dios quiera perjudicarlos, ni a causa de la presencia de los Mensajeros, ya que eso sería creer en supersticiones. El mal que aqueja a las personas es a causa de sus desobediencias y extralimitaciones, y es por eso que el decreto de Dios en ocasiones es adverso. Ver Corán 68:36-37.
+[^1]: Es decir, que aquello que los aflige es resultado y responsabilidad de sus actos y maldades, no a causa de que Dios quiera perjudicarlos, ni a causa de la presencia de los Mensajeros, ya que eso sería creer en supersticiones. El mal que aqueja a las personas es a causa de sus desobediencias y extralimitaciones, y es por eso que el decreto de Dios en ocasiones es adverso. Ver Corán 68:36-37.
 
 # 3725
 
@@ -16264,9 +16362,9 @@ El Sol orbita como le fue designado; ello es un decreto del Poderoso, el que tod
 
 # 3744
 
-A la Luna le decreté sus fases, hasta que [va menguando y] parece una rama seca de palmera.
+A la Luna le decreté sus fases, hasta que [va menguando y] parece una rama seca de palmera.[^1]
 
-A través de estos dos astros, el Sol y la Luna, se puede medir el paso de los días, los meses y los años.
+[^1]: A través de estos dos astros, el Sol y la Luna, se puede medir el paso de los días, los meses y los años.
 
 # 3745
 
@@ -16274,9 +16372,9 @@ No le es posible al Sol alcanzar a la Luna, ni la noche puede adelantarse al dí
 
 # 3746
 
-Otro signo [del poder divino] es que a sus padres los transporté en una barca cargada.
+Otro signo [del poder divino] es que a sus padres los transporté en una barca cargada[^1].
 
-una barca cargada: El Arca de Noé.
+[^1]: El Arca de Noé.
 
 # 3747
 
@@ -16308,9 +16406,9 @@ Y dicen [desafiantes]: "¿Cuándo se cumplirá esta advertencia, si es verdad lo
 
 # 3754
 
-No esperan sino que un solo clamor los sorprenda mientras están discutiendo.
+No esperan sino que un solo clamor[^1] los sorprenda mientras están discutiendo.
 
-un solo clamor: Cuando sea soplada la trompeta que da inicio al fin del mundo.
+[^1]: Cuando sea soplada la trompeta que da inicio al fin del mundo.
 
 # 3755
 
@@ -16346,10 +16444,11 @@ Allí tendrán frutos, y todo lo que pidan.
 
 # 3763
 
-"¡La paz sea con ustedes!", serán las palabras del Señor Misericordioso.
+"¡La paz sea con ustedes[^1]!", serán las palabras del Señor Misericordioso[^2].
 
-La paz sea con ustedes: Dijo Ibn Al Qaiim: “La palabra ‘paz’ implica dos conceptos: ‘La Paz’ es uno de los bellos nombres de Dios, y al mencionarla en el saludo significa: ‘Que las bendiciones de Dios desciendan sobre ti’. ‘Paz’ significa ‘seguridad’, y ese es el significado de la palabra en el saludo: suplicar por la seguridad de quien se saluda, así como afirmar la ‘seguridad’ por parte de quien saluda”.
-serán las palabras del Señor Misericordioso: Que les garantizarán seguridad y bienaventuranza por toda la eternidad.
+[^1]: Dijo Ibn Al Qaiim: “La palabra ‘paz’ implica dos conceptos: ‘La Paz’ es uno de los bellos nombres de Dios, y al mencionarla en el saludo significa: ‘Que las bendiciones de Dios desciendan sobre ti’. ‘Paz’ significa ‘seguridad’, y ese es el significado de la palabra en el saludo: suplicar por la seguridad de quien se saluda, así como afirmar la ‘seguridad’ por parte de quien saluda”.
+
+[^2]: Que les garantizarán seguridad y bienaventuranza por toda la eternidad.
 
 # 3764
 
@@ -16417,9 +16516,9 @@ Pero toman falsas divinidades, en lugar de Dios, para que los socorran.
 
 # 3780
 
-Las divinidades no podrán siquiera socorrerse a sí mismas, y en realidad sus seguidores son soldados a su disposición.
+Las divinidades no podrán siquiera socorrerse a sí mismas, y en realidad sus seguidores son soldados a su disposición.[^1]
 
-Los adoradores de ídolos conforman una fuerza que lucha a favor de las causas que benefician a la idolatría y el politeísmo.
+[^1]: Los adoradores de ídolos conforman una fuerza que lucha a favor de las causas que benefician a la idolatría y el politeísmo.
 
 # 3781
 
@@ -16435,15 +16534,15 @@ Y [este incrédulo] nos compara [con un ser creado] olvidando cómo ha sido crea
 
 # 3784
 
-Dile [¡oh, Mujámmad!]: "Les dará vida Quien los creó por primera vez, pues Él tiene conocimiento de todos los pasos de la creación.
+Dile [¡oh, Mujámmad!]: "Les dará vida Quien los creó por primera vez[^1], pues Él tiene conocimiento de todos los pasos de la creación.
 
-vez: Dios usa el génesis de todo como prueba de la Resurrección: la primera creación es evidencia de la segunda, pues todo ser racional sabrá con certeza que Quien pudo crear la primera vez, puede devolver todo a la vida.
+[^1]: Dios usa el génesis de todo como prueba de la Resurrección: la primera creación es evidencia de la segunda, pues todo ser racional sabrá con certeza que Quien pudo crear la primera vez, puede devolver todo a la vida.
 
 # 3785
 
-Él es Quien hace que puedan encender fuego del árbol verde".
+Él es Quien hace que puedan encender fuego del árbol verde".[^1]
 
-Dios nos informa sobre el combustible vegetal que proviene de un árbol originalmente verde, lleno de humedad y frescura. El que puede extraer algo desde un origen totalmente contrario al mismo, y tiene a su disposición los componentes y los elementos de la creación, no tiene ninguna dificultad para dar vida a los huesos y resucitar a las personas.
+[^1]: Dios nos informa sobre el combustible vegetal que proviene de un árbol originalmente verde, lleno de humedad y frescura. El que puede extraer algo desde un origen totalmente contrario al mismo, y tiene a su disposición los componentes y los elementos de la creación, no tiene ninguna dificultad para dar vida a los huesos y resucitar a las personas.
 
 # 3786
 
@@ -16475,9 +16574,9 @@ Que su divinidad es una sola,
 
 # 3793
 
-el Señor de los cielos, de la Tierra, de todo cuanto existe entre ellos; el Señor de los amaneceres.
+el Señor de los cielos, de la Tierra, de todo cuanto existe entre ellos; el Señor de los amaneceres.[^1]
 
-Ver Corán 55:17.
+[^1]: 17.
 
 # 3794
 
@@ -16557,9 +16656,9 @@ pero deténganlos [antes de arrojarlos] porque serán interrogados.
 
 # 3813
 
-[Se les preguntará:] "¿Qué sucede que no se ayudan unos a otros?"
+[Se les preguntará:] "¿Qué sucede que no se ayudan unos a otros?"[^1]
 
-Se les recrimina por qué ahora no intentan recurrir a sus ídolos para que los protejan, como hacían en la vida mundanal.
+[^1]: Se les recrimina por qué ahora no intentan recurrir a sus ídolos para que los protejan, como hacían en la vida mundanal.
 
 # 3814
 
@@ -16603,9 +16702,9 @@ Cuando se les decía: "No hay nada ni nadie con derecho a ser adorado salvo Dios
 
 # 3824
 
-diciendo: "¿Acaso vamos a dejar a nuestros ídolos por las palabras de un poeta loco?"
+diciendo: "¿Acaso vamos a dejar a nuestros ídolos por las palabras de un poeta loco[^1]?"
 
-un poeta loco: En alusión a Mujámmad, que la paz y las bendiciones de Dios sean con él.
+[^1]: En alusión a Mujámmad, que la paz y las bendiciones de Dios sean con él.
 
 # 3825
 
@@ -16661,9 +16760,9 @@ como si fueran perlas celosamente guardadas.
 
 # 3838
 
-Y se preguntarán [los creyentes en el Paraíso] unos a los otros.
+Y se preguntarán [los creyentes en el Paraíso] unos a los otros.[^1]
 
-Se preguntarán unos a otros cuáles fueron las obras que les permitieron alcanzar el ingreso al Paraíso.
+[^1]: Se preguntarán unos a otros cuáles fueron las obras que les permitieron alcanzar el ingreso al Paraíso.
 
 # 3839
 
@@ -16675,9 +16774,9 @@ que me decía: ¿Acaso tú eres de los que creen en la Resurrección?
 
 # 3841
 
-¿Acaso después que muramos y nos convirtamos en tierra y huesos vamos a ser condenados?"
+¿Acaso después que muramos y nos convirtamos en tierra y huesos vamos a ser condenados?"[^1]
 
-La pregunta de este incrédulo no es por curiosidad, sino que es en forma de burla, para desacreditar al creyente.
+[^1]: La pregunta de este incrédulo no es por curiosidad, sino que es en forma de burla, para desacreditar al creyente.
 
 # 3842
 
@@ -16701,9 +16800,9 @@ Ahora no hemos de morir
 
 # 3847
 
-después de haber pasado por la primera muerte, y no seremos castigados.
+después de haber pasado por la primera muerte[^1], y no seremos castigados.
 
-la primera muerte: La muerte al abandonar la vida mundanal.
+[^1]: La muerte al abandonar la vida mundanal.
 
 # 3848
 
@@ -16803,9 +16902,9 @@ Abraham era de los que lo siguieron [a Noé en su fe monoteísta],
 
 # 3872
 
-cuando invocó a su Señor con un corazón puro
+cuando invocó a su Señor con un corazón puro[^1]
 
-corazón puro: Puro, libre de toda idolatría.
+[^1]: Puro, libre de toda idolatría.
 
 # 3873
 
@@ -16825,9 +16924,9 @@ Entonces echó una mirada a las estrellas,
 
 # 3877
 
-y exclamó: "Estoy enfermo".
+y exclamó: "Estoy enfermo".[^1]
 
-Para excusarse de acompañar a su pueblo a una fiesta en honor a sus dioses en las afueras de la ciudad.
+[^1]: Para excusarse de acompañar a su pueblo a una fiesta en honor a sus dioses en las afueras de la ciudad.
 
 # 3878
 
@@ -16835,9 +16934,9 @@ Entonces lo abandonaron dándole la espalda.
 
 # 3879
 
-[Abraham] se dirigió hacia los ídolos [de su pueblo] y dijo: "¿Por qué no comen?
+[Abraham] se dirigió hacia los ídolos [de su pueblo] y dijo: "¿Por qué no comen?[^1]
 
-La comida que la gente del pueblo les ofrece como ofrenda.
+[^1]: La comida que la gente del pueblo les ofrece como ofrenda.
 
 # 3880
 
@@ -16941,9 +17040,9 @@ Los socorrí, y fueron ellos los vencedores.
 
 # 3905
 
-Les concedí un Libro esclarecedor,
+Les concedí un Libro esclarecedor,[^1]
 
-La Tora.
+[^1]: La Tora.
 
 # 3906
 
@@ -16975,9 +17074,9 @@ Dijo a su pueblo: "¿Es que no van a tener temor de Dios?
 
 # 3913
 
-Invocan a Ba‘l, y dejan de lado al mejor de los creadores:
+Invocan a Ba‘l[^1], y dejan de lado al mejor de los creadores:
 
-Ba‘l: Nombre de la deidad que adoraban y a la cual orientaban sus súplicas.
+[^1]: Nombre de la deidad que adoraban y a la cual orientaban sus súplicas.
 
 # 3914
 
@@ -17037,21 +17136,21 @@ Jonás también fue de Mis Mensajeros.
 
 # 3928
 
-Cuando se fugó en el barco abarrotado,
+Cuando se fugó en el barco abarrotado,[^1]
 
-Jonás perdió la paciencia con su pueblo porque lo desmentían y desesperó de la misericordia de Dios, y decidió abandonar el pueblo al que Dios lo había enviado para divulgar Su palabra.
+[^1]: Jonás perdió la paciencia con su pueblo porque lo desmentían y desesperó de la misericordia de Dios, y decidió abandonar el pueblo al que Dios lo había enviado para divulgar Su palabra.
 
 # 3929
 
-lo echaron a la suerte y él fue el perdedor.
+lo echaron a la suerte y él fue el perdedor.[^1]
 
-Durante el viaje comenzó una tormenta, y los viajeros, temiendo que el barco se hundiera debido a que tenía muchos pasajeros, echaron a la suerte quiénes serían arrojados por la borda.
+[^1]: Durante el viaje comenzó una tormenta, y los viajeros, temiendo que el barco se hundiera debido a que tenía muchos pasajeros, echaron a la suerte quiénes serían arrojados por la borda.
 
 # 3930
 
-Cuando [fue arrojado al mar] una ballena se lo tragó. Jonás cometió un acto reprochable,
+Cuando [fue arrojado al mar] una ballena se lo tragó. Jonás cometió un acto reprochable[^1],
 
-cometió un acto reprochable: Abandonar la misión en el pueblo que Dios le había encomendado.
+[^1]: Abandonar la misión en el pueblo que Dios le había encomendado.
 
 # 3931
 
@@ -17067,9 +17166,9 @@ Pero lo arrojé a un lugar desolado, y su piel estaba tan débil
 
 # 3934
 
-que ordené crecer una planta de calabaza para que lo cubriera.
+que ordené crecer una planta de calabaza para que lo cubriera.[^1]
 
-Para que lo cubriera del sol, le diera frescura a su piel y le sirviera de alimento.
+[^1]: Para que lo cubriera del sol, le diera frescura a su piel y le sirviera de alimento.
 
 # 3935
 
@@ -17081,9 +17180,9 @@ y todos creyeron, y los dejé disfrutar hasta que la muerte les llegó.
 
 # 3937
 
-Pregúntales [¡oh, Mujámmad!, a los idólatras de tu pueblo]: "¿[Qué argumentos tienen para afirmar] Que tu Señor tiene hijas mujeres y ellos los hijos varones?"
+Pregúntales [¡oh, Mujámmad!, a los idólatras de tu pueblo]: "¿[Qué argumentos tienen para afirmar] Que tu Señor tiene hijas mujeres y ellos los hijos varones?"[^1]
 
-Ver Corán 16:57.
+[^1]: 57.
 
 # 3938
 
@@ -17115,9 +17214,9 @@ Entre las mentiras que inventaron:
 
 # 3945
 
-Traigan entonces el libro, si son veraces.
+Traigan entonces el libro[^1], si son veraces.
 
-Traigan entonces el libro: Donde se encuentra mencionado lo que afirman.
+[^1]: Donde se encuentra mencionado lo que afirman.
 
 # 3946
 
@@ -17233,9 +17332,9 @@ que los que niegan la verdad están hundidos en la soberbia y la oposición [cie
 
 # 3974
 
-Se asombran de que les llegue un amonestador, y dicen los que se niegan a creer: "Es un hechicero mentiroso.
+Se asombran de que les llegue un amonestador[^1], y dicen los que se niegan a creer: "Es un hechicero mentiroso.
 
-un amonestador: El Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él.
+[^1]: El Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él.
 
 # 3975
 
@@ -17251,10 +17350,11 @@ No hemos oído que el último pueblo que recibió una revelación [los cristiano
 
 # 3978
 
-¿Por qué tendría que haber sido él el elegido entre nosotros para transmitir el Mensaje?" Pero ellos dudan de Mi revelación porque no han sufrido aún ningún castigo.
+¿Por qué tendría que haber sido él el elegido entre nosotros para transmitir el Mensaje[^1]?" Pero ellos dudan de Mi revelación[^2] porque no han sufrido aún ningún castigo.
 
-para transmitir el Mensaje: Lo rechazaban con la excusa de que los nobles tenían más derecho que él, según ellos, a recibir la revelación.
-Mi revelación: El Sagrado Corán.
+[^1]: Lo rechazaban con la excusa de que los nobles tenían más derecho que él, según ellos, a recibir la revelación.
+
+[^2]: El Sagrado Corán.
 
 # 3979
 
@@ -17274,9 +17374,9 @@ Ya antes que ellos los pueblos de Noé, de ‘Ad y del Faraón, poseedor de un e
 
 # 3983
 
-También lo hicieron los pueblos de Zamud, Lot y los habitantes del bosque. Todos estos eran pueblos poderosos.
+También lo hicieron los pueblos de Zamud, Lot y los habitantes del bosque[^1]. Todos estos eran pueblos poderosos.
 
-los habitantes del bosque: El pueblo al que fue enviado el profeta Jetró (Shu’aib).
+[^1]: El pueblo al que fue enviado el profeta Jetró (Shu’aib).
 
 # 3984
 
@@ -17312,9 +17412,9 @@ Te relataré [¡oh, Mujámmad!] la historia de los dos demandantes, cuando trepa
 
 # 3992
 
-Cuando se presentaron ante David, este se atemorizó de ellos. Le dijeron: "No temas, solo somos dos demandantes, uno ha sido injusto con el otro; juzga entre nosotros con equidad, sé imparcial y guíanos hacia el camino correcto.
+Cuando se presentaron ante David, este se atemorizó de ellos[^1]. Le dijeron: "No temas, solo somos dos demandantes, uno ha sido injusto con el otro; juzga entre nosotros con equidad, sé imparcial y guíanos hacia el camino correcto.
 
-se atemorizó de ellos: Porque ingresaron en su oratorio privado sin ser anunciados.
+[^1]: Porque ingresaron en su oratorio privado sin ser anunciados.
 
 # 3993
 
@@ -17354,15 +17454,15 @@ Una tarde fueron expuestos delante de él unos hermosos caballos,
 
 # 4002
 
-[luego de permanecer toda la tarde jugando con ellos descuidó la oración, y entonces Salomón] dijo: "Cómo he podido preferir éstos caballos al recuerdo de Dios hasta que el Sol se ocultó".
+[luego de permanecer toda la tarde jugando con ellos descuidó la oración, y entonces Salomón] dijo: "Cómo he podido preferir éstos caballos al recuerdo de Dios hasta que el Sol se ocultó".[^1]
 
-El Profeta Salomón se distrajo viendo los caballos hasta que el tiempo de la oración de la tarde terminó con el ocaso, y por eso su lamento.
+[^1]: El Profeta Salomón se distrajo viendo los caballos hasta que el tiempo de la oración de la tarde terminó con el ocaso, y por eso su lamento.
 
 # 4003
 
-[Dijo Salomón:] "Traédmelos". Y acarició sus cuellos y sus patas.
+[Dijo Salomón:] "Traédmelos". Y acarició sus cuellos y sus patas[^1].
 
-acarició sus cuellos y sus patas: Algunos exégetas interpretan que, debido a que lo hicieron olvidar la oración, el Profeta Salomón ordenó sacrificar a los caballos y que su carne fuera repartida entre los pobres.
+[^1]: Algunos exégetas interpretan que, debido a que lo hicieron olvidar la oración, el Profeta Salomón ordenó sacrificar a los caballos y que su carne fuera repartida entre los pobres.
 
 # 4004
 
@@ -17394,15 +17494,15 @@ Salomón es de Mis allegados, y por eso [en la otra vida] tendrá una bella mora
 
 # 4011
 
-Recuerda a Mi siervo [el Profeta] Job, cuando invocó a su Señor: "El demonio se aprovecha de mi enfermedad y sufrimiento [para tentarme a ser desagradecido contigo]".
+Recuerda a Mi siervo [el Profeta] Job, cuando invocó a su Señor: "El demonio se aprovecha de mi enfermedad y sufrimiento [para tentarme a ser desagradecido contigo]".[^1]
 
-Ver Corán 21:83-84.
+[^1]: 83-84.
 
 # 4012
 
-[Le dije:] "Golpea con tu pie [en la tierra], y haré surgir agua fresca para que te laves con ella y también bebas".
+[Le dije:] "Golpea con tu pie [en la tierra], y haré surgir agua fresca para que te laves con ella y también bebas".[^1]
 
-Y al hacerlo, recuperó milagrosamente la salud .
+[^1]: Y al hacerlo, recuperó milagrosamente la salud .
 
 # 4013
 
@@ -17410,9 +17510,9 @@ Lo agracié con hijos [como los que tenía] y tantos más, como una misericordia
 
 # 4014
 
-[Le ordené:] "Toma en tu mano un manojo de hierbas y golpea [simbólicamente] con él a tu esposa, para que no perjures". Job fue paciente [ante todas las adversidades]. ¡Qué excelente siervo; volvía a Dios en todos sus asuntos y se arrepentía con sinceridad!
+[Le ordené:] "Toma en tu mano un manojo de hierbas y golpea [simbólicamente] con él a tu esposa, para que no perjures[^1]". Job fue paciente [ante todas las adversidades]. ¡Qué excelente siervo; volvía a Dios en todos sus asuntos y se arrepentía con sinceridad!
 
-para que no perjures: Mientras se encontraba enfermo, en un momento de enfado, había jurado que le daría cien azotes a su esposa.
+[^1]: Mientras se encontraba enfermo, en un momento de enfado, había jurado que le daría cien azotes a su esposa.
 
 # 4015
 
@@ -17532,9 +17632,9 @@ Todos los ángeles hicieron la reverencia.
 
 # 4044
 
-Excepto Iblís, quien fue soberbio y se contó entre los incrédulos.
+Excepto Iblís[^1], quien fue soberbio y se contó entre los incrédulos.
 
-Excepto Iblís: Ver Corán 18:50.
+[^1]: Ver Corán 18:50.
 
 # 4045
 
@@ -17562,9 +17662,9 @@ Dijo Dios: "Te concedo la prórroga que Me pides,
 
 # 4051
 
-hasta el día cuyo término está prefijado".
+hasta el día cuyo término está prefijado".[^1]
 
-Dios le concedió lo que le solicitó ya que había decretado probar a los seres humanos con la seducción del demonio.
+[^1]: Dios le concedió lo que le solicitó ya que había decretado probar a los seres humanos con la seducción del demonio.
 
 # 4052
 
@@ -17604,30 +17704,33 @@ Te he revelado el Libro [¡oh, Mujámmad!] con la Verdad; adora solo a Dios rind
 
 # 4061
 
-¿Acaso no se le debe rendir culto sincero a Dios? Aquellos que toman a otros como protectores [y objeto de adoración] fuera de Él, dicen: "Solo los adoramos para que nos acerquen a Dios [e intercedan por nosotros]". Dios juzgará entre ellos [y los creyentes] acerca de lo que discrepan. Dios no guía a quien es mentiroso y niega la verdad.
+¿Acaso no se le debe rendir culto sincero a Dios? Aquellos que toman a otros como protectores [y objeto de adoración] fuera de Él, dicen: "Solo los adoramos para que nos acerquen a Dios [e intercedan por nosotros][^1]". Dios juzgará entre ellos [y los creyentes] acerca de lo que discrepan[^2]. Dios no guía a quien es mentiroso y niega la verdad.
 
-para que nos acerquen a Dios [e intercedan por nosotros]: Este versículo evidencia que, acorde a la teología islámica, quien busca la intercesión de un ser creado, esperando que la intercesión de ese ser lo acerque a Dios y de esa manera sea concedida su súplica, está en realidad “adorando” a ese ser y, por lo tanto ha caído en un acto de idolatría. Es la triste realidad de los cristianos que no piden a Dios sino a través de la intercesión de un santo, una virgen o el mismo Jesucristo. También es la triste realidad de algunos musulmanes que no se dirigen directamente a Dios, sino que piden en sus súplicas en el nombre o la intermediación del santo o Sheij fulano... quiera Dios guiarnos a la pureza del monoteísmo.
- lo que discrepan: El debate entre el monoteísmo y la idolatría.
+[^1]: Este versículo evidencia que, acorde a la teología islámica, quien busca la intercesión de un ser creado, esperando que la intercesión de ese ser lo acerque a Dios y de esa manera sea concedida su súplica, está en realidad “adorando” a ese ser y, por lo tanto ha caído en un acto de idolatría. Es la triste realidad de los cristianos que no piden a Dios sino a través de la intercesión de un santo, una virgen o el mismo Jesucristo. También es la triste realidad de algunos musulmanes que no se dirigen directamente a Dios, sino que piden en sus súplicas en el nombre o la intermediación del santo o Sheij fulano... quiera Dios guiarnos a la pureza del monoteísmo.
+
+[^2]: El debate entre el monoteísmo y la idolatría.
 
 # 4062
 
-Si Dios hubiera querido tomar a alguien como hijo, hubiera elegido a quien quisiera de entre Su creación. ¡Glorificado sea! Él es Dios, el Único, el Victorioso.
+Si Dios hubiera querido tomar a alguien como hijo, hubiera elegido a quien quisiera de entre Su creación[^1]. ¡Glorificado sea![^2] Él es Dios, el Único, el Victorioso.
 
-de entre Su creación: Otorgándole el grado de hijo, sin necesidad de compañera alguna para engendrarlo.
-¡Glorificado sea!: “¡Glorificado sea!”, significa: Dios es inocente de las falsas atribuciones que le hacen.
+[^1]: Otorgándole el grado de hijo, sin necesidad de compañera alguna para engendrarlo.
+
+[^2]: “¡Glorificado sea!”, significa: Dios es inocente de las falsas atribuciones que le hacen.
 
 # 4063
 
-Creó los cielos y la Tierra con un fin justo y verdadero. Él enrolla [envuelve] la noche en el día, y envuelve el día en la noche, y sometió al Sol y a la Luna haciendo que cada uno recorra su órbita por un plazo prefijado. ¿Acaso Él no es el Poderoso, el Perdonador?
+Creó los cielos y la Tierra con un fin justo y verdadero. Él enrolla [envuelve] la noche en el día, y envuelve el día en la noche[^1], y sometió al Sol y a la Luna haciendo que cada uno recorra su órbita por un plazo prefijado. ¿Acaso Él no es el Poderoso, el Perdonador?
 
-envuelve el día en la noche: Las palabras utilizadas en el Corán para describir el universo son realmente notables. El término árabe que se traduce aquí como “enrollar” (o “envolver”) es takwir. En español significa “hacer que una cosa sea envuelta por otra, plegándola como si fuera una tela extendida”. La descripción que da el versículo sobre el día y la noche envolviéndose mutuamente implica una información precisa sobre la forma del mundo. Esto solo puede ser verdad si la Tierra es redonda. Lo cual significa que en el Corán, revelado en el siglo VII, la redondez de la Tierra se encontraba ya insinuada.
+[^1]: Las palabras utilizadas en el Corán para describir el universo son realmente notables. El término árabe que se traduce aquí como “enrollar” (o “envolver”) es takwir. En español significa “hacer que una cosa sea envuelta por otra, plegándola como si fuera una tela extendida”. La descripción que da el versículo sobre el día y la noche envolviéndose mutuamente implica una información precisa sobre la forma del mundo. Esto solo puede ser verdad si la Tierra es redonda. Lo cual significa que en el Corán, revelado en el siglo VII, la redondez de la Tierra se encontraba ya insinuada.
 
 # 4064
 
-Él los creó a partir de un solo ser, luego de él creó a su pareja, y los agració con ocho ganados en parejas. Los creó en los vientres de sus madres en períodos sucesivos y en tres tinieblas [el vientre, el útero y la placenta]. Él es Dios, su Señor; Él posee el dominio completo. No hay nada ni nadie con derecho a ser adorado salvo Él. ¿Cómo entonces dedican actos de culto a otras deidades?
+Él los creó a partir de un solo ser, luego de él creó a su pareja, y los agració con ocho ganados en parejas[^1]. Los creó en los vientres de sus madres en períodos sucesivos y en tres tinieblas [el vientre, el útero y la placenta][^2]. Él es Dios, su Señor; Él posee el dominio completo. No hay nada ni nadie con derecho a ser adorado salvo Él. ¿Cómo entonces dedican actos de culto a otras deidades?
 
-ocho ganados en parejas: Son los machos y las hembras de cuatro clases de ganado: el bovino, el ovino, el camélido y el caprino. En el uso lingüístico árabe, los caballos no se cuentan como ganado. El porcino obviamente no es mencionado debido a su prohibición. 
-[el vientre, el útero y la placenta]: El versículo establece que el ser humano es creado en el útero materno en tres distintas etapas. La biología moderna ha descubierto que el desarrollo embriológico tiene lugar en tres regiones distintas del útero materno. Los textos de embriología que se estudian hoy en las facultades de medicina consideran esto como una información básica en la materia. El hecho de que una información tan detallada y precisa fuera suministrada por el Corán en una época en que la gente tenía muy escasa información sobre temas médicos, es una prueba incontrastable de que el Corán no es un producto humano sino la Palabra de Dios.
+[^1]: Son los machos y las hembras de cuatro clases de ganado: el bovino, el ovino, el camélido y el caprino. En el uso lingüístico árabe, los caballos no se cuentan como ganado. El porcino obviamente no es mencionado debido a su prohibición.
+
+[^2]: El versículo establece que el ser humano es creado en el útero materno en tres distintas etapas. La biología moderna ha descubierto que el desarrollo embriológico tiene lugar en tres regiones distintas del útero materno. Los textos de embriología que se estudian hoy en las facultades de medicina consideran esto como una información básica en la materia. El hecho de que una información tan detallada y precisa fuera suministrada por el Corán en una época en que la gente tenía muy escasa información sobre temas médicos, es una prueba incontrastable de que el Corán no es un producto humano sino la Palabra de Dios.
 
 # 4065
 
@@ -17643,9 +17746,9 @@ Cuando al ser humano le acontece una desgracia, invoca a su Señor y se vuelve a
 
 # 4068
 
-Diles: "¡Oh, siervos creyentes! Tengan temor de su Señor, y sepan que quienes obren bien en este mundo recibirán una bella recompensa, y que la Tierra de Dios es amplia. La recompensa para quienes sean pacientes y perseverantes no tendrá límite".
+Diles: "¡Oh, siervos creyentes! Tengan temor de su Señor, y sepan que quienes obren bien en este mundo recibirán una bella recompensa, y que la Tierra de Dios es amplia[^1]. La recompensa para quienes sean pacientes y perseverantes no tendrá límite".
 
-y que la Tierra de Dios es amplia: Este versículo establece que si al musulmán le impiden adorar a Dios y practicar su religión, debe emigrar buscando la libertad y la dignidad, y no aferrarse a un lugar simplemente por lazos emocionales.
+[^1]: Este versículo establece que si al musulmán le impiden adorar a Dios y practicar su religión, debe emigrar buscando la libertad y la dignidad, y no aferrarse a un lugar simplemente por lazos emocionales.
 
 # 4069
 
@@ -17781,9 +17884,9 @@ Sin embargo [los idólatras] toman [ídolos como] intercesores ante Dios. Diles:
 
 # 4102
 
-Diles: "Dios es Quien autoriza toda intercesión. A Él pertenece el reino de los cielos y la Tierra; ante Él comparecerán".
+Diles: "Dios es Quien autoriza toda intercesión[^1]. A Él pertenece el reino de los cielos y la Tierra; ante Él comparecerán".
 
-Dios es Quien autoriza toda intercesión: “Dios es Quien autoriza toda intercesión”, quiere decir que todas las intercesiones son de Su propiedad, y no de aquellos a los que son solicitadas. Por ello, la intercesión debe ser solicitada de su dueño, porque la súplica y la invocación es una forma de adoración, y los actos de adoración solo se deben a Dios. Para definitivamente desautorizar la toma de intercesores dijo Dios: “A Él pertenece el dominio de los cielos y de la Tierra”, y al ser el Rey soberano de todas las cosas, también lo es de la intercesión. Por ende, es impropio solicitarla de otro que no sea Él, ya que no la posee. Ver Corán 2:255 y 21:28.
+[^1]: “Dios es Quien autoriza toda intercesión”, quiere decir que todas las intercesiones son de Su propiedad, y no de aquellos a los que son solicitadas. Por ello, la intercesión debe ser solicitada de su dueño, porque la súplica y la invocación es una forma de adoración, y los actos de adoración solo se deben a Dios. Para definitivamente desautorizar la toma de intercesores dijo Dios: “A Él pertenece el dominio de los cielos y de la Tierra”, y al ser el Rey soberano de todas las cosas, también lo es de la intercesión. Por ende, es impropio solicitarla de otro que no sea Él, ya que no la posee. Ver Corán 2:255 y 21:28.
 
 # 4103
 
@@ -17819,9 +17922,9 @@ Los azotó el castigo por lo que cometieron; los opresores serán castigados por
 
 # 4111
 
-Di: "¡Oh, siervos míos que están sumidos en el pecado [perjudicándose a sí mismos]! No desesperen de la misericordia de Dios. Dios tiene poder para perdonar todos los pecados. Él es el Perdonador, el Misericordioso".
+Di: "¡Oh, siervos míos que están sumidos en el pecado [perjudicándose a sí mismos]! No desesperen de la misericordia de Dios. Dios tiene poder para perdonar todos los pecados. Él es el Perdonador, el Misericordioso".[^1]
 
-Los musulmanes que hayan cometido pecados mayores se encuentran bajo la decisión de Dios: Si quiere, los perdona por Su enorme misericordia; y si quiere, los castiga con justicia debido a sus pecados, para luego sacarlos del Infierno e introducirlos al Paraíso por Su misericordia. Ver Corán 4:48.
+[^1]: Si quiere, los perdona por Su enorme misericordia; y si quiere, los castiga con justicia debido a sus pecados, para luego sacarlos del Infierno e introducirlos al Paraíso por Su misericordia. Ver Corán 4:48.
 
 # 4112
 
@@ -17881,17 +17984,19 @@ Adora solo a Dios y sé de los agradecidos.
 
 # 4126
 
-Será soplada la trompeta y todos los que estén en los cielos y en la Tierra perecerán, excepto quien Dios quiera; luego será soplada por segunda vez y [todos resucitarán] poniéndose de pie [para ser juzgados]. Entonces verán.
+Será soplada la trompeta[^1] y todos los que estén en los cielos y en la Tierra perecerán, excepto quien Dios quiera[^2]; luego será soplada por segunda vez y [todos resucitarán] poniéndose de pie [para ser juzgados]. Entonces verán.
 
-Será soplada la trompeta: El ángel Israfil hará sonar la trompeta y dará comienzo, por orden de Dios, al fin del mundo, luego será tocada por segunda vez y tendrá comienzo la resurrección y el Día del Juicio Final.
-perecerán, excepto quien Dios quiera: Los ángeles mueren tal como los seres humanos y los yinnes. Los ángeles están incluidos en este versículo, porque ellos están en los cielos. Ibn Kazir dijo comentando este versículo: “Éste es el segundo Trompetazo, que causará el desvanecimiento de todas las criaturas, que provocará la muerte de todos los seres vivientes que están en los cielos y en la Tierra, salvo aquéllos que Dios quiera. Entonces Él tomará las almas de aquéllos que quedan, y el último en morir será el ángel de la Muerte. Luego quedará, únicamente, el Viviente, el Subsistente, Aquel que es el Primero, y Quien solamente será el Último, el Eterno. Y Él dirá tres veces: ‘¿A quién pertenece hoy la Soberanía?’ Entonces Él se contestará a Sí mismo: ‘Le pertenece a Dios, el Uno, el Victorioso’”.
+[^1]: El ángel Israfil hará sonar la trompeta y dará comienzo, por orden de Dios, al fin del mundo, luego será tocada por segunda vez y tendrá comienzo la resurrección y el Día del Juicio Final.
+
+[^2]: Los ángeles mueren tal como los seres humanos y los yinnes. Los ángeles están incluidos en este versículo, porque ellos están en los cielos. Ibn Kazir dijo comentando este versículo: “Éste es el segundo Trompetazo, que causará el desvanecimiento de todas las criaturas, que provocará la muerte de todos los seres vivientes que están en los cielos y en la Tierra, salvo aquéllos que Dios quiera. Entonces Él tomará las almas de aquéllos que quedan, y el último en morir será el ángel de la Muerte. Luego quedará, únicamente, el Viviente, el Subsistente, Aquel que es el Primero, y Quien solamente será el Último, el Eterno. Y Él dirá tres veces: ‘¿A quién pertenece hoy la Soberanía?’ Entonces Él se contestará a Sí mismo: ‘Le pertenece a Dios, el Uno, el Victorioso’”.
 
 # 4127
 
-La Tierra se iluminará con la luz de su Señor, el registro de las obras se expondrá, se hará comparecer a los Profetas y a los testigos, y [la gente] será juzgada con justicia y nadie será oprimido.
+La Tierra se iluminará con la luz de su Señor, el registro de las obras se expondrá, se hará comparecer a los Profetas[^1] y a los testigos[^2], y [la gente] será juzgada con justicia y nadie será oprimido.
 
-se hará comparecer a los Profetas: Los Profetas serán preguntados acerca de la transmisión del Mensaje y sobre quienes creyeron en ellos y quienes los rechazaron.
- y a los testigos: Los testigos son los ángeles, la Tierra y los cuerpos de las mismas personas que darán testimonio de las obras que realizaron.
+[^1]: Los Profetas serán preguntados acerca de la transmisión del Mensaje y sobre quienes creyeron en ellos y quienes los rechazaron.
+
+[^2]: Los testigos son los ángeles, la Tierra y los cuerpos de las mismas personas que darán testimonio de las obras que realizaron.
 
 # 4128
 
@@ -17959,10 +18064,11 @@ Pero a los que se negaron a creer se les dirá: "La aversión de Dios por ustede
 
 # 4144
 
-Dirán: "¡Oh, Señor nuestro! Nos diste la muerte dos veces y nos diste la vida dos veces, reconocemos nuestros pecados; ¿existe alguna forma de salir [del castigo del Infierno]?"
+Dirán: "¡Oh, Señor nuestro! Nos diste la muerte dos veces[^1] y nos diste la vida dos veces[^2], reconocemos nuestros pecados; ¿existe alguna forma de salir [del castigo del Infierno]?"
 
-dos veces: La primera es el estado de la inexistencia, y la segunda es la muerte que se experimenta en este mundo al abandonarlo.
-nos diste la vida dos veces: La primera es al recibir el espíritu, y la segunda al ser resucitados el Día del Juicio Final.
+[^1]: La primera es el estado de la inexistencia, y la segunda es la muerte que se experimenta en este mundo al abandonarlo.
+
+[^2]: La primera es al recibir el espíritu, y la segunda al ser resucitados el Día del Juicio Final.
 
 # 4145
 
@@ -18014,9 +18120,9 @@ Envié a Moisés con Mis signos y pruebas evidentes.
 
 # 4157
 
-[Lo envié] ante el Faraón, Hamán y Qarún, pero le dijeron: "Eres un hechicero mentiroso".
+[Lo envié] ante el Faraón, Hamán y Qarún[^1], pero le dijeron: "Eres un hechicero mentiroso".
 
-el Faraón, Hamán y Qarún: El Faraón fue un rey tirano, y Hamán era uno de sus ministros. En cuanto a Qarún, sobrino de Moisés, era un hombre extremadamente rico, y debido a su riqueza se consideraba superior a los demás y trataba a la gente de manera arrogante y despectiva.
+[^1]: El Faraón fue un rey tirano, y Hamán era uno de sus ministros. En cuanto a Qarún, sobrino de Moisés, era un hombre extremadamente rico, y debido a su riqueza se consideraba superior a los demás y trataba a la gente de manera arrogante y despectiva.
 
 # 4158
 
@@ -18048,9 +18154,9 @@ como ocurrió al pueblo de Noé, ‘Ad y Zamud, y los que les sucedieron [que fu
 
 # 4165
 
-¡Oh, pueblo mío! Temo que [sean castigados] el día de la convocatoria.
+¡Oh, pueblo mío! Temo que [sean castigados] el día de la convocatoria.[^1]
 
-El Día del Juicio Final se denomina así por la gran cantidad de convocatorias que habrá ese día, pues cada hombre será convocado por su nombre para rendir cuentas y ser retribuido.
+[^1]: El Día del Juicio Final se denomina así por la gran cantidad de convocatorias que habrá ese día, pues cada hombre será convocado por su nombre para rendir cuentas y ser retribuido.
 
 # 4166
 
@@ -18098,21 +18204,21 @@ No hay duda de que aquello a lo que me invitan carece de fundamento en esta vida
 
 # 4177
 
-Ya se acordarán de esto que les digo, pero [me refugio en Dios y] confío mis asuntos a Él. Dios ve bien lo que hacen Sus siervos".
+Ya se acordarán de esto que les digo[^1], pero [me refugio en Dios y] confío mis asuntos a Él. Dios ve bien lo que hacen Sus siervos".
 
-Ya se acordarán de esto que les digo: Cuando sea demasiado tarde y sean llevados al tormento del Infierno.
+[^1]: Cuando sea demasiado tarde y sean llevados al tormento del Infierno.
 
 # 4178
 
-Dios lo protegió de las maldades que tramaron contra él, mientras que el Faraón y sus seguidores fueron azotados por un castigo terrible.
+Dios lo protegió de las maldades que tramaron contra él, mientras que el Faraón y sus seguidores fueron azotados por un castigo terrible[^1].
 
-azotados por un castigo terrible: Cuando perecieron ahogados.
+[^1]: Cuando perecieron ahogados.
 
 # 4179
 
-[En la tumba] el fuego los alcanzará por la mañana y por la tarde, pero el día que llegue la Hora [del Juicio, se les ordenará a los ángeles:] "Arreen al Faraón y sus seguidores al castigo más severo".
+[En la tumba] el fuego los alcanzará por la mañana y por la tarde[^1], pero el día que llegue la Hora [del Juicio, se les ordenará a los ángeles:] "Arreen al Faraón y sus seguidores al castigo más severo".
 
-por la mañana y por la tarde: Este versículo es uno de los que evidencia un castigo temporal entre el momento de la muerte y el Día del Juicio Final, el cual es conocido como Adab al-Qabr o “el tormento de la tumba”.
+[^1]: Este versículo es uno de los que evidencia un castigo temporal entre el momento de la muerte y el Día del Juicio Final, el cual es conocido como Adab al-Qabr o “el tormento de la tumba”.
 
 # 4180
 
@@ -18120,9 +18226,9 @@ Cuando [los incrédulos] discutan en el Infierno, dirán los más débiles a los
 
 # 4181
 
-Dirán los soberbios: "Todos nosotros estamos [siendo castigados] en él, Dios juzgó entre Sus siervos [y nadie puede aminorar el tormento]".
+Dirán los soberbios: "Todos nosotros estamos [siendo castigados] en él, Dios juzgó entre Sus siervos [y nadie puede aminorar el tormento]".[^1]
 
-Estos versículos vienen después de mencionarse la tiranía del Faraón, que ordenó degollar a los recién nacidos e intentó matar a Moisés, y después de mencionar el diálogo entre el creyente que enfrentó al Faraón y refutó sus falsedades, y cómo el pueblo siguió ciegamente los deseos del tirano, lanzándose a la persecución de los creyentes. Los seguidores y ayudantes de los tiranos y opresores criminales sabrán en el Día de la Resurrección la gravedad del crimen que cometieron y pedirán a sus líderes que les aminoren el castigo, pero sus líderes no tienen capacidad siquiera de aminorarlo para ellos mismos.
+[^1]: Estos versículos vienen después de mencionarse la tiranía del Faraón, que ordenó degollar a los recién nacidos e intentó matar a Moisés, y después de mencionar el diálogo entre el creyente que enfrentó al Faraón y refutó sus falsedades, y cómo el pueblo siguió ciegamente los deseos del tirano, lanzándose a la persecución de los creyentes. Los seguidores y ayudantes de los tiranos y opresores criminales sabrán en el Día de la Resurrección la gravedad del crimen que cometieron y pedirán a sus líderes que les aminoren el castigo, pero sus líderes no tienen capacidad siquiera de aminorarlo para ellos mismos.
 
 # 4182
 
@@ -18150,9 +18256,9 @@ como guía y motivo de reflexión para los dotados de entendimiento.
 
 # 4188
 
-Sé paciente y perseverante, porque la promesa de Dios es verdadera; pide el perdón de tus faltas y glorifica con alabanzas a tu Señor por la tarde y al amanecer.
+Sé paciente y perseverante, porque la promesa de Dios es verdadera; pide el perdón de tus faltas y glorifica con alabanzas a tu Señor por la tarde y al amanecer[^1].
 
-por la tarde y al amanecer: Alusión a las oraciones del amanecer (Fayer) y la tarde (‘Asr).
+[^1]: Alusión a las oraciones del amanecer (Fayer) y la tarde (‘Asr).
 
 # 4189
 
@@ -18160,9 +18266,9 @@ por la tarde y al amanecer: Alusión a las oraciones del amanecer (Fayer) y la t
 
 # 4190
 
-La creación de los cielos y de la Tierra es más grandiosa que la creación de los seres humanos, pero la mayoría de ellos lo ignoran.
+La creación de los cielos y de la Tierra es más grandiosa que la creación de los seres humanos, pero la mayoría de ellos lo ignoran.[^1]
 
-Los conceptos de Jilafah خلافة (responsabilidad), y Amana أمانة (confianza), emergen del principio de monoteísmo. El Corán explica que el ser humano fue nombrado Jalifa, es decir, responsable de cuidar la creación de Dios. Cada individuo tiene esta tarea y privilegio por el que tiene que responder ante Dios. Pero el Corán advierte repetidamente a los creyentes acerca de la arrogancia: no son mejores que las otras criaturas, tal como lo evidencia este versículo. El Profeta enseñó que el universo y todo lo que existe en él –animales, plantas, agua, tierra y otros recursos– no fue creado para que la humanidad lo depredara, sino que el ser humano tiene permitido utilizar los recursos sin sentirse nunca su dueño absoluto.
+[^1]: no son mejores que las otras criaturas, tal como lo evidencia este versículo. El Profeta enseñó que el universo y todo lo que existe en él –animales, plantas, agua, tierra y otros recursos– no fue creado para que la humanidad lo depredara, sino que el ser humano tiene permitido utilizar los recursos sin sentirse nunca su dueño absoluto.
 
 # 4191
 
@@ -18190,9 +18296,9 @@ Así también fueron apartados [del camino recto] quienes rechazaron los signos 
 
 # 4197
 
-Dios es Quien hizo de la Tierra un lugar habitable y del cielo un techo, los dotó de una bella figura y los sustenta con cosas beneficiosas. Él es Dios, su Señor. Bendito sea Dios, Señor del Universo.
+Dios es Quien hizo de la Tierra un lugar habitable y del cielo un techo[^1], los dotó de una bella figura y los sustenta con cosas beneficiosas. Él es Dios, su Señor. Bendito sea Dios, Señor del Universo.
 
-y del cielo un techo: Ver Corán 21:32.
+[^1]: Ver Corán 21:32.
 
 # 4198
 
@@ -18204,10 +18310,11 @@ Diles [¡oh, Mujámmad!]: "Me ha sido prohibido adorar a aquellos [ídolos] que 
 
 # 4200
 
-Él es Quien los creó del polvo, y después de un óvulo fecundado que se transforma en un embrión, luego los hace surgir [al mundo] como niños para que alcancen la madurez, y luego los hace llegar a ancianos, aunque algunos fallecen antes, y así se cumple el plazo de vida que se les había prefijado para que reflexionen.
+Él es Quien los creó del polvo[^1], y después de un óvulo fecundado que se transforma en un embrión, luego los hace surgir [al mundo] como niños para que alcancen la madurez, y luego los hace llegar a ancianos, aunque algunos fallecen antes, y así se cumple el plazo de vida que se les había prefijado para que reflexionen.[^2]
 
-del polvo: Al primer ser humano.
- Después: Al resto de la creación.
+[^1]: Al primer ser humano.
+
+[^2]: Al resto de la creación.
 
 # 4201
 
@@ -18219,9 +18326,9 @@ del polvo: Al primer ser humano.
 
 # 4203
 
-Quienes desmienten el Libro [revelado] y lo que envié junto a Mis Mensajeros ya sabrán [el castigo que les aguarda],
+Quienes desmienten el Libro [revelado] y lo que envié junto a Mis Mensajeros[^1] ya sabrán [el castigo que les aguarda],
 
-lo que envié junto a Mis Mensajeros: Los milagros que los acompañaban.
+[^1]: Los milagros que los acompañaban.
 
 # 4204
 
@@ -18253,9 +18360,9 @@ Sé paciente y perseverante [¡oh, Mujámmad!], pues la promesa de Dios es verda
 
 # 4211
 
-Envié otros Mensajeros antes de ti, de algunos de ellos te he relatado su historia, y de otros no te relaté su historia. Todo Mensajero que se presentó con algún milagro fue con la anuencia de Dios. Pero cuando llegue el designio de Dios, estarán perdidos los que atribuían falsedades [a Dios].
+Envié otros Mensajeros antes de ti, de algunos de ellos te he relatado su historia, y de otros no te relaté su historia[^1]. Todo Mensajero que se presentó con algún milagro fue con la anuencia de Dios. Pero cuando llegue el designio de Dios, estarán perdidos los que atribuían falsedades [a Dios].
 
-no te relaté su historia: Esto indica que aquellos de quienes conocemos sus nombres son muy pocos, y que resta un número muy importante que desconocemos, pero creemos de manera genérica que existen muchos Profetas que fueron enviados a distintos pueblos.
+[^1]: Esto indica que aquellos de quienes conocemos sus nombres son muy pocos, y que resta un número muy importante que desconocemos, pero creemos de manera genérica que existen muchos Profetas que fueron enviados a distintos pueblos.
 
 # 4212
 
@@ -18283,9 +18390,9 @@ Pero al ver Mi castigo, dijeron: "Creemos solo en Dios, y renegamos de lo que ad
 
 # 4218
 
-Pero de nada les sirvió creer cuando vieron Mi castigo. Así es el designio de Dios, que alcanzó a quienes los precedieron. Los que se negaron a creer habrán perdido toda posibilidad [de salvación].
+Pero de nada les sirvió creer cuando vieron Mi castigo. Así es el designio de Dios[^1], que alcanzó a quienes los precedieron. Los que se negaron a creer habrán perdido toda posibilidad [de salvación].
 
-el designio de Dios: De que ya no beneficiará la fe cuando se desencadene el castigo de Dios.
+[^1]: De que ya no beneficiará la fe cuando se desencadene el castigo de Dios.
 
 # 4219
 
@@ -18301,16 +18408,17 @@ un Libro en que los signos son explicados detalladamente. Expresado en idioma á
 
 # 4222
 
-Albricia, pero también advierte. La mayoría le da la espalda y no quieren oír.
+Albricia[^1], pero también advierte. La mayoría le da la espalda y no quieren oír.[^2]
 
-Albricia: A los creyentes que serán recompensados por su creencia en el monoteísmo y sus buenas obras. 
-Advierte: A quienes se niegan a creer y obran con injusticias, que serán castigados.
+[^1]: A los creyentes que serán recompensados por su creencia en el monoteísmo y sus buenas obras.
+
+[^2]: A quienes se niegan a creer y obran con injusticias, que serán castigados.
 
 # 4223
 
-Dicen: "Nuestros corazones son insensibles a lo que nos invitas, nuestros oídos son sordos, y entre tú y nosotros hay un velo. Haz lo que quieras, que nosotros haremos lo que queramos".
+Dicen[^1]: "Nuestros corazones son insensibles a lo que nos invitas, nuestros oídos son sordos, y entre tú y nosotros hay un velo. Haz lo que quieras, que nosotros haremos lo que queramos".
 
-Dicen: Los que se niegan a creer en el Mensaje.
+[^1]: Los que se niegan a creer en el Mensaje.
 
 # 4224
 
@@ -18330,11 +18438,13 @@ Diles: "¿Cómo es que no creen en Quien creó la Tierra en dos días e inventan
 
 # 4228
 
-Dispuso sobre la Tierra montañas firmes, la bendijo y determinó el sustento en cuatro eras completas, para los que preguntan.
+Dispuso sobre la Tierra montañas firmes, la bendijo y determinó el sustento[^1] en cuatro eras completas[^2], para los que preguntan[^3].
 
-el sustento: Para todos los seres creados. 
-en cuatro eras completas: Estas cuatro eras mencionadas en este versículo son parte de las seis eras mencionadas en 7:54, 10:3, 11:7, 25:59, 32:4, 50:38 y 57:4. Es decir, que de las seis eras, se completó en cuatro eras la creación de los asuntos mencionados en este versículo. 
-para los que preguntan: Acerca de cómo fue la creación.
+[^1]: Para todos los seres creados.
+
+[^2]: Estas cuatro eras mencionadas en este versículo son parte de las seis eras mencionadas en 7:54, 10:3, 11:7, 25:59, 32:4, 50:38 y 57:4. Es decir, que de las seis eras, se completó en cuatro eras la creación de los asuntos mencionados en este versículo.
+
+[^3]: Acerca de cómo fue la creación.
 
 # 4229
 
@@ -18342,21 +18452,21 @@ Luego se dirigió al cielo, el cual era nebuloso, y le dijo al cielo y a la Tier
 
 # 4230
 
-Creó siete cielos en dos días, y le inspiró a cada cielo su función. Embelleció el cielo de este mundo con estrellas luminosas, como protección. Éste es el decreto del Poderoso, el que todo lo sabe".
+Creó siete cielos en dos días, y le inspiró a cada cielo su función. Embelleció el cielo de este mundo con estrellas luminosas, como protección[^1]. Éste es el decreto del Poderoso, el que todo lo sabe".
 
-como protección: Ver Corán 67:5.
+[^1]: Ver Corán 67:5.
 
 # 4231
 
-Pero si se apartan, diles: "Les advierto que podrían caer fulminados como ‘Ad y Zamud".
+Pero si se apartan[^1], diles: "Les advierto que podrían caer fulminados como ‘Ad y Zamud".
 
-si se apartan: Los que se niegan a creer.
+[^1]: Los que se niegan a creer.
 
 # 4232
 
-Cuando se les presentaron los Mensajeros, uno después de otro [con el mismo argumento] diciéndoles: "No adoren sino a Dios". Respondían: "Si nuestro Señor hubiera querido nos habría enviado un ángel. No creemos en su Mensaje".
+Cuando se les presentaron los Mensajeros, uno después de otro [con el mismo argumento] diciéndoles: "No adoren sino a Dios". Respondían: "Si nuestro Señor hubiera querido nos habría enviado un ángel[^1]. No creemos en su Mensaje".
 
-un ángel: Como Mensajero, y no un hombre como ellos mismos.
+[^1]: Como Mensajero, y no un hombre como ellos mismos.
 
 # 4233
 
@@ -18380,16 +18490,17 @@ El día que sean congregados los enemigos de Dios y conducidos al Infierno,
 
 # 4238
 
-y estén a punto de ser arrojados en él, entonces atestiguarán contra ellos sus propios oídos, ojos y pieles todo lo que cometieron.
+y estén a punto de ser arrojados en él, entonces atestiguarán contra ellos sus propios oídos, ojos y pieles todo lo que cometieron[^1].
 
-lo que cometieron: Porque ellos intentarán negar sus pecados.
+[^1]: Porque ellos intentarán negar sus pecados.
 
 # 4239
 
-Dirán a sus pieles: "¿Por qué atestiguan contra nosotros?" Les responderán: "Nos hizo hablar Dios, Quien hace hablar a todas las cosas". Sepan que Él los creó la primera vez, y que ante Él volverán.
+Dirán a sus pieles: "¿Por qué atestiguan contra nosotros?" Les responderán: "Nos hizo hablar Dios, Quien hace hablar a todas las cosas". Sepan que Él los creó la primera vez[^1], y que ante Él volverán.[^2]
 
-los creó la primera vez: Cuando no eran nada.
- Volverán: A presentarse tras la resurrección.
+[^1]: Cuando no eran nada.
+
+[^2]: A presentarse tras la resurrección.
 
 # 4240
 
@@ -18405,9 +18516,9 @@ Y aunque tengan paciencia, el Infierno será su morada; y aunque supliquen ser e
 
 # 4243
 
-Y les asigné compañeros, que les embellecieron lo que habían cometido y lo que iban a cometer. Entonces merecieron el castigo al igual que otras naciones anteriores de seres humanos y de yinnes que fueron destruidas. Ellos fueron los verdaderos perdedores.
+Y les asigné compañeros[^1], que les embellecieron lo que habían cometido y lo que iban a cometer. Entonces merecieron el castigo al igual que otras naciones anteriores de seres humanos y de yinnes que fueron destruidas. Ellos fueron los verdaderos perdedores.
 
-compañeros: Demonios que los incitaban al mal.
+[^1]: Demonios que los incitaban al mal.
 
 # 4244
 
@@ -18423,9 +18534,9 @@ Este es el tormento que merecen los enemigos de Dios: el Infierno, donde morará
 
 # 4247
 
-Dirán los que se negaron a creer: "¡Oh, Señor nuestro! Déjanos ver a los yinnes y a los seres humanos que nos extraviaron para que los pongamos bajo nuestros pies, y así sean ellos de los que estén más abajo".
+Dirán los que se negaron a creer: "¡Oh, Señor nuestro! Déjanos ver a los yinnes y a los seres humanos que nos extraviaron para que los pongamos bajo nuestros pies, y así sean ellos de los que estén más abajo".[^1]
 
-Sufriendo un castigo peor, porque en los niveles del Infierno, cuanto más bajos, más terrible es el castigo.
+[^1]: Sufriendo un castigo peor, porque en los niveles del Infierno, cuanto más bajos, más terrible es el castigo.
 
 # 4248
 
@@ -18441,15 +18552,15 @@ como reconocimiento del Absolvedor, Misericordioso".
 
 # 4251
 
-Quién puede expresar mejores palabras que aquel que invita a la gente a creer en Dios, obra rectamente y dice: "¡Yo soy de los musulmanes!"
+Quién puede expresar mejores palabras que aquel que invita a la gente a creer en Dios, obra rectamente y dice: "¡Yo soy de los musulmanes[^1]!"
 
-Yo soy de los musulmanes: Que se someten a la voluntad de Dios.
+[^1]: Que se someten a la voluntad de Dios.
 
 # 4252
 
-No es lo mismo obrar el bien que obrar el mal. Responde con una buena actitud, y verás que aquel con quien tenías enemistad se convierte en un amigo ferviente.
+No es lo mismo obrar el bien que obrar el mal. Responde con una buena actitud[^1], y verás que aquel con quien tenías enemistad se convierte en un amigo ferviente.
 
-Responde con una buena actitud: Si eres maltratado.
+[^1]: Si eres maltratado.
 
 # 4253
 
@@ -18461,28 +18572,29 @@ Si el demonio te susurra para hacer el mal, busca refugio en Dios, porque Él to
 
 # 4255
 
-Entre Sus signos están la noche y el día, el Sol y la Luna. Si realmente es a Él a Quien adoran, entonces no se prosternen ante el Sol ni ante la Luna, sino que prostérnense ante Dios, ya que Él es Quien los ha creado.
+Entre Sus signos están la noche y el día, el Sol y la Luna. Si realmente es a Él a Quien adoran, entonces no se prosternen ante el Sol ni ante la Luna[^1], sino que prostérnense ante Dios, ya que Él es Quien los ha creado.
 
-entonces no se prosternen ante el Sol ni ante la Luna: Este versículo contradice los alegatos de aquellos que, apelando a la ignorancia de sus fieles, intentan decir que la palabra que se utiliza en el Corán para nombrar a Dios, “Al-lah”, es en realidad el dios Luna y que, por lo tanto, los musulmanes son idólatras porque adoran a la Luna. El Corán mismo ordena no prosternarse ante la Luna, ya que es un objeto creado.
+[^1]: Este versículo contradice los alegatos de aquellos que, apelando a la ignorancia de sus fieles, intentan decir que la palabra que se utiliza en el Corán para nombrar a Dios, “Al-lah”, es en realidad el dios Luna y que, por lo tanto, los musulmanes son idólatras porque adoran a la Luna. El Corán mismo ordena no prosternarse ante la Luna, ya que es un objeto creado.
 
 # 4256
 
-Pero si se muestran soberbios, sepan que los que están próximos a su Señor Lo glorifican durante la noche y durante el día, y no se cansan de hacerlo.
+Pero si se muestran soberbios[^1], sepan que los que están próximos a su Señor[^2] Lo glorifican durante la noche y durante el día, y no se cansan de hacerlo.
 
-si se muestran soberbios: Y rechazan adorar a Dios. 
- los que están próximos a su Señor: Los ángeles.
+[^1]: Y rechazan adorar a Dios.
+
+[^2]: Los ángeles.
 
 # 4257
 
-Entre Sus signos está que puedes ver la tierra sin vegetación, pero cuando hace descender el agua sobre ella, vibra y reverdece. Aquel que le da vida es Quien resucitará a los muertos. Él es sobre toda cosa Poderoso.
+Entre Sus signos está que puedes ver la tierra sin vegetación, pero cuando hace descender el agua sobre ella, vibra y reverdece. Aquel que le da vida[^1] es Quien resucitará a los muertos. Él es sobre toda cosa Poderoso.
 
-Aquel que le da vida: A la tierra árida.
+[^1]: A la tierra árida.
 
 # 4258
 
-Quienes niegan Mis signos no pueden ocultarse de Mí. ¿Acaso quienes sean arrojados al Infierno serán mejores el Día de la Resurrección que quienes sean salvos? Hagan lo que quieran, pero sepan que Él ve todo lo que hacen.
+Quienes niegan Mis signos no pueden ocultarse de Mí. ¿Acaso quienes sean arrojados al Infierno serán mejores el Día de la Resurrección que quienes sean salvos[^1]? Hagan lo que quieran, pero sepan que Él ve todo lo que hacen.
 
-sean salvos: Del castigo.
+[^1]: Del castigo.
 
 # 4259
 
@@ -18498,17 +18610,19 @@ No dicen de ti [¡oh, Mujámmad!] sino lo que ya había sido dicho sobre los Men
 
 # 4262
 
-Si hubiera revelado el Corán en otro idioma habrían dicho [los incrédulos de entre tu pueblo]: "¿Por qué no fue explicado detalladamente en forma clara?" ¡Qué! ¿Una revelación no árabe para un Profeta árabe? Diles: "Este Libro es guía y salud para los creyentes; pero de los que se niegan a creer sus oídos son sordos y no comprenden. [Se comportan] como si se los llamara de un lugar muy lejano.
+Si hubiera revelado el Corán en otro idioma[^1] habrían dicho [los incrédulos de entre tu pueblo]: "¿Por qué no fue explicado detalladamente en forma clara?" ¡Qué! ¿Una revelación no árabe para un Profeta árabe? Diles: "Este Libro es guía y salud para los creyentes; pero de los que se niegan a creer sus oídos son sordos y no comprenden. [Se comportan] como si se los llamara de un lugar muy lejano[^2].
 
-en otro idioma: Diferente al árabe.
-de un lugar muy lejano: Y al no escuchar, no comprendieran lo que se les dice.
+[^1]: Diferente al árabe.
+
+[^2]: Y al no escuchar, no comprendieran lo que se les dice.
 
 # 4263
 
-Le revelé el Libro a Moisés, pero discreparon sobre él. Si no hubiera sido porque tu Señor lo había decretado, se les habría adelantado el castigo. Ellos tienen sobre el Corán una seria duda.
+Le revelé el Libro[^1] a Moisés, pero discreparon sobre él. Si no hubiera sido porque tu Señor lo había decretado[^2], se les habría adelantado el castigo. Ellos tienen sobre el Corán una seria duda.
 
-el Libro: La Tora. 
-lo había decretado: El momento del castigo.
+[^1]: La Tora.
+
+[^2]: El momento del castigo.
 
 # 4264
 
@@ -18516,16 +18630,17 @@ Quien obre rectamente lo hará en beneficio propio, y quien obre el mal se perju
 
 # 4265
 
-Solo Él sabe cuándo llegará la Hora. No surge ningún fruto de su cáliz, ni concibe ninguna mujer o da a luz sin que Él tenga total conocimiento de ello. El día que los llame [y pregunte a los idólatras]: "¿Dónde están los socios [en la divinidad] que Me atribuían?" Responderán: "Anunciamos que ninguno de nosotros sigue atestiguando eso".
+Solo Él sabe cuándo llegará la Hora[^1]. No surge ningún fruto de su cáliz, ni concibe ninguna mujer o da a luz sin que Él tenga total conocimiento de ello. El día que los llame [y pregunte a los idólatras]: "¿Dónde están los socios [en la divinidad] que Me atribuían?" Responderán: "Anunciamos que ninguno de nosotros sigue atestiguando eso[^2]".
 
-la Hora: Del fin del mundo y el Día de Juicio Final. 
- ninguno de nosotros sigue atestiguando eso: En ese momento todos atestiguarán que nada ni nadie comparte la divinidad con Dios, y se retractarán de sus afirmaciones politeístas hechas durante su vida mundanal.
+[^1]: Del fin del mundo y el Día de Juicio Final.
+
+[^2]: En ese momento todos atestiguarán que nada ni nadie comparte la divinidad con Dios, y se retractarán de sus afirmaciones politeístas hechas durante su vida mundanal.
 
 # 4266
 
-Los abandonará aquello que solían invocar, y sabrán que no tienen escapatoria.
+Los abandonará aquello que solían invocar[^1], y sabrán que no tienen escapatoria.
 
-aquello que solían invocar: En lugar de Dios.
+[^1]: En lugar de Dios.
 
 # 4267
 
@@ -18533,15 +18648,15 @@ El hombre no se cansa de pedir más y más bienestar, pero si le sucede alguna d
 
 # 4268
 
-Si lo agracio con Mi misericordia después de que sufriera una desgracia, dice: "Esto es lo que me merecía, y no creo que la Hora del Juicio llegue jamás; pero si compareciera ante mi Señor, seguro que Él me concedería lo más bello que existe". Pero ya les informaré a los que se negaron a creer todo lo que hicieron, y los haré sufrir un castigo terrible.
+Si lo agracio con Mi misericordia después de que sufriera una desgracia, dice: "Esto es lo que me merecía, y no creo que la Hora del Juicio llegue jamás; pero si compareciera ante mi Señor, seguro que Él me concedería lo más bello que existe[^1]". Pero ya les informaré a los que se negaron a creer todo lo que hicieron, y los haré sufrir un castigo terrible.
 
-lo más bello que existe: El Paraíso.
+[^1]: El Paraíso.
 
 # 4269
 
-Cuando agracio a la persona se aparta y se vuelve soberbio. Pero si lo azota un mal, entonces no deja de suplicar.
+Cuando agracio a la persona se aparta[^1] y se vuelve soberbio. Pero si lo azota un mal, entonces no deja de suplicar.
 
-se aparta: De su Señor.
+[^1]: De su Señor.
 
 # 4270
 
@@ -18553,9 +18668,9 @@ Los haré ver Mis signos en los horizontes y en ellos mismos, hasta que se les h
 
 # 4272
 
-¿Aún siguen dudando de la comparecencia ante su Señor? ¿No abarca Él todas las cosas?
+¿Aún siguen dudando de la comparecencia ante su Señor? ¿No abarca Él todas las cosas[^1]?
 
-abarca Él todas las cosas: Con Su conocimiento y poder.
+[^1]: Con Su conocimiento y poder.
 
 # 4273
 
@@ -18583,16 +18698,17 @@ Quienes tomaron a otros [como divinidades y objeto de adoración] en lugar de Di
 
 # 4279
 
-Te he revelado el Corán en idioma árabe para que amonestes a la madre de las ciudades y a todos los que habitan en sus alrededores. Para que adviertas acerca del día de la reunión [para el Juicio Final], sobre el cual no existe duda alguna. [Luego del Juicio,] un grupo irá al Paraíso y otro al Infierno.
+Te he revelado el Corán en idioma árabe para que amonestes a la madre de las ciudades[^1] y a todos los que habitan en sus alrededores[^2]. Para que adviertas acerca del día de la reunión [para el Juicio Final], sobre el cual no existe duda alguna. [Luego del Juicio,] un grupo irá al Paraíso y otro al Infierno.
 
-la madre de las ciudades: La Meca, ciudad natal del Profeta, que la paz y las bendiciones de Dios sean con él. 
-los que habitan en sus alrededores: A todas las personas del mundo. Este versículo, entre otros, evidencia que el Islam es un mensaje universal, dirigido a todos los pueblos del mundo. Ver Corán 16:125 y 21:107.
+[^1]: La Meca, ciudad natal del Profeta, que la paz y las bendiciones de Dios sean con él.
+
+[^2]: A todas las personas del mundo. Este versículo, entre otros, evidencia que el Islam es un mensaje universal, dirigido a todos los pueblos del mundo. Ver Corán 16:125 y 21:107.
 
 # 4280
 
-Si Dios quisiera habría decretado que todos formaran una sola nación [con un credo único], pero agracia a quien quiere con Su misericordia, mientras que los opresores no tendrán protector alguno ni socorredor.
+Si Dios quisiera habría decretado que todos formaran una sola nación [con un credo único][^1], pero agracia a quien quiere con Su misericordia, mientras que los opresores no tendrán protector alguno ni socorredor.
 
-una sola nación [con un credo único]: Dios no obliga a las personas a tener una creencia, sino que concedió al ser humano el libre albedrío, para que elija por sí mismo el camino de la fe o el camino de la negación y el rechazo a las enseñanzas de los Profetas y Mensajeros.
+[^1]: Dios no obliga a las personas a tener una creencia, sino que concedió al ser humano el libre albedrío, para que elija por sí mismo el camino de la fe o el camino de la negación y el rechazo a las enseñanzas de los Profetas y Mensajeros.
 
 # 4281
 
@@ -18600,9 +18716,9 @@ una sola nación [con un credo único]: Dios no obliga a las personas a tener un
 
 # 4282
 
-En aquello en que disputen, su juicio debe remitirse a Dios. Dios es mi Señor, a Él me encomiendo y a Él me vuelvo arrepentido.
+En aquello en que disputen, su juicio debe remitirse a Dios[^1]. Dios es mi Señor, a Él me encomiendo y a Él me vuelvo arrepentido.
 
-su juicio debe remitirse a Dios: El Juicio de Dios se encuentra en los veredictos mencionados en el Libro de Dios, el Sagrado Corán, y en las enseñanzas del Profeta Mujámmad, conocidas como Sunnah, ya que esas enseñanzas le fueron inspiradas por Dios.
+[^1]: El Juicio de Dios se encuentra en los veredictos mencionados en el Libro de Dios, el Sagrado Corán, y en las enseñanzas del Profeta Mujámmad, conocidas como Sunnah, ya que esas enseñanzas le fueron inspiradas por Dios.
 
 # 4283
 
@@ -18618,17 +18734,19 @@ Les he legislado la misma religión [monoteísta] que le había encomendado a No
 
 # 4286
 
-No se dividieron sino después de haberles llegado el conocimiento, por codicia entre ellos [acerca del liderazgo]. Si no fuese por una palabra previa de tu Señor que decidió un plazo prefijado [para el fin del mundo], todo habría sido decidido entre ellos. Quienes heredaron el Libro tienen dudas.
+No se dividieron[^1] sino después de haberles llegado el conocimiento, por codicia entre ellos [acerca del liderazgo]. Si no fuese por una palabra previa de tu Señor que decidió un plazo prefijado [para el fin del mundo], todo habría sido decidido entre ellos. Quienes heredaron el Libro[^2] tienen dudas.
 
-No se dividieron: La Gente del Libro. 
- el Libro: La Tora y el Evangelio.
+[^1]: La Gente del Libro.
+
+[^2]: La Tora y el Evangelio.
 
 # 4287
 
-Por esto [¡oh, Mujámmad!], invita [a aceptar el Islam] y obra rectamente como te fue ordenado, no sigas sus deseos y diles: "Creo en los Libros que Dios reveló [en su forma original], y me fue ordenado establecer justicia entre ustedes. Dios es nuestro Señor y también el suyo, nosotros seremos juzgados por nuestras obras y ustedes por las suyas. No hay necesidad de disputas entre nosotros y ustedes. Dios nos reunirá a todos cuando regresemos a Él para ser juzgados".
+Por esto [¡oh, Mujámmad!], invita [a aceptar el Islam] y obra rectamente como te fue ordenado, no sigas sus deseos[^1] y diles: "Creo en los Libros que Dios reveló [en su forma original], y me fue ordenado establecer justicia entre ustedes. Dios es nuestro Señor y también el suyo, nosotros seremos juzgados por nuestras obras y ustedes por las suyas. No hay necesidad de disputas entre nosotros y ustedes[^2]. Dios nos reunirá a todos cuando regresemos a Él para ser juzgados".
 
-no sigas sus deseos: De que abandones la divulgación del Mensaje. 
- disputas entre nosotros y ustedes: Pues ya se les ha evidenciado la Verdad.
+[^1]: De que abandones la divulgación del Mensaje.
+
+[^2]: Pues ya se les ha evidenciado la Verdad.
 
 # 4288
 
@@ -18636,9 +18754,9 @@ Aquellos que argumentan sobre Dios, luego de que la gente creyó [en el Islam], 
 
 # 4289
 
-Dios es Quien reveló el Libro con la verdad y la justicia. ¿Y quién sabe? Quizá la Hora esté cercana.
+Dios es Quien reveló el Libro[^1] con la verdad y la justicia. ¿Y quién sabe? Quizá la Hora esté cercana.
 
-el Libro: El Sagrado Corán.
+[^1]: El Sagrado Corán.
 
 # 4290
 
@@ -18650,10 +18768,11 @@ Dios es Bondadoso con Sus siervos, sustenta a quien quiere. Él es el Fuerte, el
 
 # 4292
 
-A aquel que busque obtener la recompensa de la otra vida [a través de obras buenas], se la multiplicaré. Pero a quien solo pretenda obtener bienes materiales en este mundo, se los concederé, pero no obtendrá recompensa alguna en la otra vida.
+A aquel que busque obtener la recompensa de la otra vida [a través de obras buenas], se la multiplicaré. Pero a quien solo pretenda obtener bienes materiales en este mundo[^1], se los concederé[^2], pero no obtendrá recompensa alguna en la otra vida.
 
-obtener bienes materiales en este mundo: Sin preocuparse por el Día del Juicio Final. 
-se los concederé: Los bienes materiales.
+[^1]: Sin preocuparse por el Día del Juicio Final.
+
+[^2]: Los bienes materiales.
 
 # 4293
 
@@ -18665,10 +18784,11 @@ Verás [el Día del Juicio a los opresores] aterrorizados [de ser juzgados] por 
 
 # 4295
 
-Esta [es la recompensa] con la que Dios albricia a Sus siervos que creen y obran rectamente. Diles [¡oh, Mujámmad!]: "No les pido ninguna remuneración, solo que amen al prójimo". A quien realice una buena obra le aumentaré con un bien mayor. Dios es Absolvedor, Agradecido.
+Esta [es la recompensa] con la que Dios albricia a Sus siervos que creen y obran rectamente. Diles [¡oh, Mujámmad!]: "No les pido ninguna remuneración[^1], solo que amen al prójimo[^2]". A quien realice una buena obra le aumentaré con un bien mayor. Dios es Absolvedor, Agradecido.
 
-ninguna remuneración: Por transmitirles el Mensaje de Dios. 
-solo que amen al prójimo: Literalmente: “Amor por los que están cerca”. Algunas personas interpretan que hace referencia a la familia del Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él: “Solo les pido que amen a mi familia”, pero es una interpretación forzada, ya que no existe ningún pronombre posesivo que indique que se refiera a una familia en particular.
+[^1]: Por transmitirles el Mensaje de Dios.
+
+[^2]: Literalmente: “Amor por los que están cerca”. Algunas personas interpretan que hace referencia a la familia del Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él: “Solo les pido que amen a mi familia”, pero es una interpretación forzada, ya que no existe ningún pronombre posesivo que indique que se refiera a una familia en particular.
 
 # 4296
 
@@ -18684,15 +18804,15 @@ Algunos dicen: "[Mujámmad] ha inventado mentiras acerca de Dios", pero si fuera
 
 # 4299
 
-Si Dios les hubiera dado a Sus siervos un sustento sin límites, se habrían extralimitado en la Tierra; pero les concede [el sustento] en la justa medida [para cada uno]. Él lo sabe todo y lo ve todo.
+Si Dios les hubiera dado a Sus siervos un sustento sin límites, se habrían extralimitado en la Tierra; pero les concede [el sustento] en la justa medida [para cada uno][^1]. Él lo sabe todo y lo ve todo.
 
-en la justa medida [para cada uno]: Ya que Dios conoce la naturaleza de cada persona, sabe lo que es bueno para cada quien.
+[^1]: Ya que Dios conoce la naturaleza de cada persona, sabe lo que es bueno para cada quien.
 
 # 4300
 
-Él es Quien hizo descender la lluvia beneficiosa cuando habían caído en la desesperación, esparciendo Su misericordia. Él es el Protector, el Digno de alabanza.
+Él es Quien hizo descender la lluvia beneficiosa cuando habían caído en la desesperación[^1], esparciendo Su misericordia. Él es el Protector, el Digno de alabanza.
 
-la desesperación: Por la sequía.
+[^1]: Por la sequía.
 
 # 4301
 
@@ -18720,9 +18840,9 @@ O podría hacerlos naufragar a causa de sus pecados, pero Dios perdona muchas de
 
 # 4307
 
-Ya sabrán quienes disputan sobre Mis signos que no tendrán escapatoria.
+Ya sabrán quienes disputan sobre Mis signos que no tendrán escapatoria[^1].
 
-no tendrán escapatoria: Del Juicio y el castigo.
+[^1]: Del Juicio y el castigo.
 
 # 4308
 
@@ -18742,9 +18862,9 @@ y cuando son víctimas de una injusticia son solidarios unos con otros [para res
 
 # 4312
 
-La ofensa debe ser retribuida por una pena equivalente, pero quienes sepan perdonar serán recompensados por Dios. Él no ama a los injustos.
+La ofensa debe ser retribuida por una pena equivalente[^1], pero quienes sepan perdonar serán recompensados por Dios. Él no ama a los injustos.
 
-debe ser retribuida por una pena equivalente: Se puede también aceptar una indemnización en compensación por el daño sufrido.
+[^1]: Se puede también aceptar una indemnización en compensación por el daño sufrido.
 
 # 4313
 
@@ -18792,9 +18912,9 @@ Dios no habla a las personas excepto por inspiración o tras un velo o enviando 
 
 # 4324
 
-Te he revelado [oh, Mujámmad] una inspiración Mía [el Corán]. Tú no conocías el Libro [revelado anteriormente] ni la fe [en sus detalles]. Entonces hice que fuera una luz con la que guío a quienes quiero, y tú [¡oh, Mujámmad!] guías al sendero recto,
+Te he revelado [oh, Mujámmad] una inspiración Mía [el Corán]. Tú no conocías el Libro [revelado anteriormente] ni la fe [en sus detalles]. Entonces hice que fuera una luz[^1] con la que guío a quienes quiero, y tú [¡oh, Mujámmad!] guías al sendero recto,
 
-una luz: El Sagrado Corán.
+[^1]: El Sagrado Corán.
 
 # 4325
 
@@ -18806,15 +18926,15 @@ Ha’. Mim.
 
 # 4327
 
-[Juro] por el Libro que clarifica,
+[Juro] por el Libro que clarifica,[^1]
 
-El Sagrado Corán es claro y evidente en sí mismo, y clarifica grandes verdades de manera sencilla.
+[^1]: El Sagrado Corán es claro y evidente en sí mismo, y clarifica grandes verdades de manera sencilla.
 
 # 4328
 
-que he revelado el Corán en idioma árabe para que lo puedan comprender,
+que he revelado el Corán en idioma árabe[^1] para que lo puedan comprender,
 
-en idioma árabe: Si bien el Profeta, que la paz y las bendiciones de Dios sean con él, era árabe y originalmente el Mensaje fue presentado a los árabes, el Islam tiene un carácter universal. Este versículo llama a reflexión a los árabes sobre el hecho de que pueden comprender perfectamente los significados de la revelación, y que el Corán no es un código incomprensible.
+[^1]: Si bien el Profeta, que la paz y las bendiciones de Dios sean con él, era árabe y originalmente el Mensaje fue presentado a los árabes, el Islam tiene un carácter universal. Este versículo llama a reflexión a los árabes sobre el hecho de que pueden comprender perfectamente los significados de la revelación, y que el Corán no es un código incomprensible.
 
 # 4329
 
@@ -18838,9 +18958,9 @@ Destruí pueblos más fuertes que ellos. El ejemplo de lo que sucedió a otros p
 
 # 4334
 
-Si les preguntas [a los que se niegan a creer y adoran ídolos] quién creó los cielos y la Tierra, te responderán sin duda: "Los creó el Poderoso, el Sabio".
+Si les preguntas [a los que se niegan a creer y adoran ídolos] quién creó los cielos y la Tierra, te responderán sin duda: "Los creó el Poderoso, el Sabio".[^1]
 
-Pero a pesar de reconocer que Dios es el Creador, irónicamente le dedican actos de adoración y devoción a ídolos falsos que no los han creado ni los sustentan, y no pueden beneficiarlos ni perjudicarlos.
+[^1]: Pero a pesar de reconocer que Dios es el Creador, irónicamente le dedican actos de adoración y devoción a ídolos falsos que no los han creado ni los sustentan, y no pueden beneficiarlos ni perjudicarlos.
 
 # 4335
 
@@ -18848,10 +18968,11 @@ Pero a pesar de reconocer que Dios es el Creador, irónicamente le dedican actos
 
 # 4336
 
-Él hace descender agua del cielo en la medida justa, y así vuelve a dar vida a un territorio árido; de la misma manera serán resucitados.
+Él hace descender agua del cielo en la medida[^1] justa, y así vuelve a dar vida a un territorio árido; de la misma manera[^2] serán resucitados.
 
-en la medida: Esa “medida” en la cantidad de lluvia ha sido descubierta por la investigación científica moderna. Se estima que en un segundo se evaporan de la superficie terrestre unos 16 millones de toneladas de agua, lo que representa unos 513 billones de toneladas por año. Una cantidad similar es la que desciende en el mismo tiempo. Esto significa que la evaporación y la precipitación se cumplen de acuerdo a una “medida”. La vida sobre la Tierra depende de ese ciclo, que los seres humanos nunca podríamos reproducir de manera artificial. Una desviación mínima en esa “medida” o equilibrio crearía un desastre ecológico capaz de exterminar la vida sobre la Tierra. Sin embargo, bajo condiciones regulares, se mantiene ese ciclo como ha revelado el Corán. 
-de la misma manera: De la misma manera que la tierra árida y muerta revive con la lluvia, los seres humanos también serán traídos de la muerte a la vida. Todo es fácil y posible para Dios.
+[^1]: Esa “medida” en la cantidad de lluvia ha sido descubierta por la investigación científica moderna. Se estima que en un segundo se evaporan de la superficie terrestre unos 16 millones de toneladas de agua, lo que representa unos 513 billones de toneladas por año. Una cantidad similar es la que desciende en el mismo tiempo. Esto significa que la evaporación y la precipitación se cumplen de acuerdo a una “medida”. La vida sobre la Tierra depende de ese ciclo, que los seres humanos nunca podríamos reproducir de manera artificial. Una desviación mínima en esa “medida” o equilibrio crearía un desastre ecológico capaz de exterminar la vida sobre la Tierra. Sin embargo, bajo condiciones regulares, se mantiene ese ciclo como ha revelado el Corán.
+
+[^2]: De la misma manera que la tierra árida y muerta revive con la lluvia, los seres humanos también serán traídos de la muerte a la vida. Todo es fácil y posible para Dios.
 
 # 4337
 
@@ -18879,9 +19000,9 @@ Pero [los idólatras] atribuyen una parte [de la divinidad] a algunos de Sus sie
 
 # 4343
 
-¿Acaso una niña pequeña criada entre adornos e incapaz de argumentar con coherencia [podría ser parte de la divinidad]?
+¿Acaso una niña pequeña criada entre adornos e incapaz de argumentar con coherencia [podría ser parte de la divinidad]?[^1]
 
-Dios critica dos argumentos falsos: primero, que algo que los politeístas desprecian, como las hijas mujeres, se las atribuyan a Dios; y segundo, que si los hijos son de la misma naturaleza de sus progenitores, entonces, ¿cómo es considerable siquiera que Dios tenga hijas que en lugar de ser divinas sean ángeles?
+[^1]: primero, que algo que los politeístas desprecian, como las hijas mujeres, se las atribuyan a Dios; y segundo, que si los hijos son de la misma naturaleza de sus progenitores, entonces, ¿cómo es considerable siquiera que Dios tenga hijas que en lugar de ser divinas sean ángeles?
 
 # 4344
 
@@ -18921,9 +19042,9 @@ Yo solo adoro a Quien me creó. Él me guiará".
 
 # 4353
 
-[Dios] hizo que esta [fe monoteísta] perdurara en su descendencia para que siempre pudiera retornar.
+[Dios] hizo que esta [fe monoteísta] perdurara en su descendencia para que siempre pudiera retornar.[^1]
 
-A la fe en Dios, toda vez que se apartaran.
+[^1]: A la fe en Dios, toda vez que se apartaran.
 
 # 4354
 
@@ -18935,15 +19056,15 @@ Pero cuando se les presentó con la Verdad dijeron [los idólatras]: "Esto es he
 
 # 4356
 
-Y dijeron también [desdeñando al Profeta]: "¿Por qué no le fue revelado este Corán [en lugar de a ti] a un hombre distinguido de alguna de las dos ciudades?"
+Y dijeron también [desdeñando al Profeta]: "¿Por qué no le fue revelado este Corán [en lugar de a ti] a un hombre distinguido de alguna de las dos ciudades[^1]?"
 
-alguna de las dos ciudades: La Meca o Tá’if.
+[^1]: La Meca o Tá’if.
 
 # 4357
 
-¿Acaso son ellos los encargados de repartir la misericordia de su Señor? Soy Yo Quien concedo el sustento en la vida mundanal y elevo en grados a algunas personas sobre otras, para que así se sirvan y beneficien unos a otros. Sepan que la misericordia de su Señor es mejor que lo que pudieran acaparar [de bienes materiales en esta vida].
+¿Acaso son ellos los encargados de repartir la misericordia de su Señor[^1]? Soy Yo Quien concedo el sustento en la vida mundanal y elevo en grados a algunas personas sobre otras, para que así se sirvan y beneficien unos a otros. Sepan que la misericordia de su Señor es mejor que lo que pudieran acaparar [de bienes materiales en esta vida].
 
-la misericordia de su Señor: La profecía es mencionada como una misericordia de Dios y, por lo tanto, Dios los recrimina preguntándoles retóricamente si acaso son ellos lo que designan Profetas a la gente o es Dios Quien lo hace.
+[^1]: La profecía es mencionada como una misericordia de Dios y, por lo tanto, Dios los recrimina preguntándoles retóricamente si acaso son ellos lo que designan Profetas a la gente o es Dios Quien lo hace.
 
 # 4358
 
@@ -18959,9 +19080,9 @@ Todo estaría adornado con oro. Sin embargo [no lo hago porque] todo eso es solo
 
 # 4361
 
-A quien deje de recordar al Misericordioso le asignaré un demonio que será su compañero inseparable.
+A quien deje de recordar al Misericordioso le asignaré un demonio que será su compañero inseparable.[^1]
 
-Y estará expuesto al susurro y al desvío.
+[^1]: Y estará expuesto al susurro y al desvío.
 
 # 4362
 
@@ -18969,9 +19090,9 @@ Ellos [los demonios] apartan del camino, pero [los incrédulos] creen que están
 
 # 4363
 
-Y cuando comparezcan ante Mí, dirán [a sus demonios]: "Ojalá entre nosotros hubiese una distancia como entre el oriente y el occidente. ¡Qué pésimo compañero [fuiste]!"
+Y cuando comparezcan ante Mí, dirán [a sus demonios]: "Ojalá entre nosotros[^1] hubiese una distancia como entre el oriente y el occidente. ¡Qué pésimo compañero [fuiste]!"
 
-entre nosotros: Entre el demonio y el incrédulo.
+[^1]: Entre el demonio y el incrédulo.
 
 # 4364
 
@@ -18991,9 +19112,9 @@ Y también, si te muestro [el castigo] que les he prometido, tengo el poder para
 
 # 4368
 
-Aférrate a lo que te fue revelado, tú estás en el sendero recto.
+Aférrate a lo que te fue revelado[^1], tú estás en el sendero recto.
 
-lo que te fue revelado: El Sagrado Corán y el Mensaje del Islam.
+[^1]: El Sagrado Corán y el Mensaje del Islam.
 
 # 4369
 
@@ -19009,9 +19130,9 @@ Envié a Moisés con Mis signos ante el Faraón y su nobleza, y les dijo: "Soy u
 
 # 4372
 
-Cuando les presentó Mis signos [los negaron y] se burlaron de ellos.
+Cuando les presentó Mis signos[^1] [los negaron y] se burlaron de ellos.
 
-Mis signos: Los milagros.
+[^1]: Los milagros.
 
 # 4373
 
@@ -19027,16 +19148,17 @@ Pero cuando aparté de ellos el tormento, no cumplieron su promesa.
 
 # 4376
 
-El Faraón convocó a su pueblo diciendo: "¡Oh, pueblo mío! ¿Acaso no me pertenece el reino de Egipto, con estos ríos que corren bajo mi palacio? ¿Acaso no ven [mi poderío]?
+El Faraón convocó a su pueblo[^1] diciendo: "¡Oh, pueblo mío! ¿Acaso no me pertenece el reino de Egipto, con estos ríos que corren bajo mi palacio? ¿Acaso no ven [mi poderío]?
 
-convocó a su pueblo: Porque tenía temor de que creyeran en Moisés.
+[^1]: Porque tenía temor de que creyeran en Moisés.
 
 # 4377
 
-Yo soy mejor que ese, que es una persona indigna y apenas puede expresarse.
+Yo soy mejor que ese[^1], que es una persona indigna y apenas puede expresarse[^2].
 
-ese: Moisés. 
-persona indigna y apenas puede expresarse: Existen dos posibilidades sobre esta expresión. La primera es que Moisés sufría algún grado de tartamudez crónica, y la segunda es que, como era muy tímido y sufría pánico al hablar en público, esto le causaba tartamudez solo en esas ocasiones. Ver Corán 20:27.
+[^1]: Moisés.
+
+[^2]: Existen dos posibilidades sobre esta expresión. La primera es que Moisés sufría algún grado de tartamudez crónica, y la segunda es que, como era muy tímido y sufría pánico al hablar en público, esto le causaba tartamudez solo en esas ocasiones. Ver Corán 20:27.
 
 # 4378
 
@@ -19056,9 +19178,9 @@ Hice de ellos un ejemplo para que reflexionen en la posteridad.
 
 # 4382
 
-Cuando se mencionó el ejemplo del hijo de María [Jesús], tu pueblo clamó indignado.
+Cuando se mencionó el ejemplo del hijo de María [Jesús], tu pueblo clamó indignado.[^1]
 
-Argumentando que Jesús era adorado, igual que sus ídolos.
+[^1]: Argumentando que Jesús era adorado, igual que sus ídolos.
 
 # 4383
 
@@ -19070,9 +19192,9 @@ Jesús es solo un siervo a quien agracié [con la profecía], y lo envié como e
 
 # 4385
 
-Si quisiera, hubiera puesto en lugar de ustedes a ángeles que se sucedieran unos a otros.
+Si quisiera, hubiera puesto en lugar de ustedes a ángeles que se sucedieran unos a otros.[^1]
 
-Y en ese caso, sí habría enviado ángeles como Profetas.
+[^1]: Y en ese caso, sí habría enviado ángeles como Profetas.
 
 # 4386
 
@@ -19084,10 +19206,11 @@ Tengan cuidado de que no los desvíe el demonio, porque él es su enemigo declar
 
 # 4388
 
-Cuando Jesús se presentó con las evidencias, dijo [a los Hijos de Israel]: "He venido con la sabiduría para aclararles sobre lo que discrepaban. Tengan temor de Dios y obedézcanme.
+Cuando Jesús se presentó con las evidencias, dijo [a los Hijos de Israel]: "He venido con la sabiduría[^2] para aclararles sobre lo que discrepaban[^1]. Tengan temor de Dios y obedézcanme.
 
-sobre lo que discrepaban: La revelación de Dios. 
-He venido con la sabiduría: Respecto a las leyes de la Tora.
+[^1]: La revelación de Dios.
+
+[^2]: Respecto a las leyes de la Tora.
 
 # 4389
 
@@ -19103,9 +19226,9 @@ Pero los grupos discreparon entre ellos. ¡Ay de los injustos! Porque han de rec
 
 # 4392
 
-Ese día los amigos serán enemigos unos de otros, excepto los que hayan tenido temor de Dios.
+Ese día los amigos[^1] serán enemigos unos de otros, excepto los que hayan tenido temor de Dios.
 
-los amigos: Los cómplices en la incredulidad y la desobediencia a Dios.
+[^1]: Los cómplices en la incredulidad y la desobediencia a Dios.
 
 # 4393
 
@@ -19145,9 +19268,9 @@ No seré injusto con ellos, sino que ellos fueron injustos consigo mismos.
 
 # 4402
 
-Y clamarán: "¡Oh, Málik! Que tu Señor acabe con nosotros [y así dejemos de sufrir]". Pero él les responderá: "Han de permanecer allí por toda la eternidad".
+Y clamarán: "¡Oh, Málik[^1]! Que tu Señor acabe con nosotros [y así dejemos de sufrir]". Pero él les responderá: "Han de permanecer allí por toda la eternidad".
 
-Málik: Nombre del ángel que custodia el Infierno.
+[^1]: Nombre del ángel que custodia el Infierno.
 
 # 4403
 
@@ -19155,9 +19278,9 @@ Málik: Nombre del ángel que custodia el Infierno.
 
 # 4404
 
-¿Acaso planeaban algo? Soy Yo Quien determina las cosas.
+¿Acaso planeaban algo? Soy Yo Quien determina las cosas.[^1]
 
-Los incrédulos se complotaron para asesinar al Profeta, pero Dios no lo permitió.
+[^1]: Los incrédulos se complotaron para asesinar al Profeta, pero Dios no lo permitió.
 
 # 4405
 
@@ -19173,9 +19296,9 @@ Diles [¡oh, Mujámmad!]: "Si el Misericordioso tuviera un hijo, yo sería el pr
 
 # 4408
 
-Déjalos que hablen en vano y jueguen hasta que les llegue el día con que se los había advertido.
+Déjalos que hablen en vano y jueguen hasta que les llegue el día con que se los había advertido.[^1]
 
-El Día del Juicio, en el que tendrán que responder por sus acciones y elecciones.
+[^1]: El Día del Juicio, en el que tendrán que responder por sus acciones y elecciones.
 
 # 4409
 
@@ -19187,15 +19310,15 @@ Bendito sea a Quien pertenece el reino de los cielos y de la Tierra y todo cuant
 
 # 4411
 
-Aquellos que son invocados en lugar de Dios no poseen la facultad de interceder por nadie. Solo pueden interceder quienes atestiguan la Verdad y tienen conocimiento.
+Aquellos que son invocados en lugar de Dios no poseen la facultad de interceder por nadie. Solo pueden interceder quienes atestiguan la Verdad[^1] y tienen conocimiento.
 
-atestiguan la Verdad: Atestiguan que nada ni nadie tiene derecho a ser adorado salvo Dios.
+[^1]: Atestiguan que nada ni nadie tiene derecho a ser adorado salvo Dios.
 
 # 4412
 
-Si les preguntas [a los que se niegan a creer] quién los ha creado, te responderán: "¡Dios!" ¿Cómo entonces se descarrían?
+Si les preguntas [a los que se niegan a creer] quién los ha creado, te responderán: "¡Dios!" ¿Cómo entonces se descarrían?[^1]
 
-Es decir, cómo es que adoran a quien no los ha creado.
+[^1]: Es decir, cómo es que adoran a quien no los ha creado.
 
 # 4413
 
@@ -19211,22 +19334,23 @@ Ha’. Mim.
 
 # 4416
 
-[Juro] por el Libro clarificador,
+[Juro] por el Libro clarificador,[^1]
 
-El Sagrado Corán.
+[^1]: El Sagrado Corán.
 
 # 4417
 
-que he revelado en una noche bendita: ¡Les he advertido!
+que he revelado en una noche bendita[^1]: ¡Les he advertido![^2]
 
-una noche bendita: La Noche del Decreto, en el mes de Ramadán.
- ¡Les he advertido!: Sobre el castigo que espera a quienes rechacen el monoteísmo y las enseñanzas de los Profetas.
+[^1]: La Noche del Decreto, en el mes de Ramadán.
+
+[^2]: Sobre el castigo que espera a quienes rechacen el monoteísmo y las enseñanzas de los Profetas.
 
 # 4418
 
-En ella se decreta sabiamente cada asunto.
+En ella[^1] se decreta sabiamente cada asunto.
 
-En ella: En esa noche.
+[^1]: En esa noche.
 
 # 4419
 
@@ -19246,9 +19370,9 @@ No hay nada ni nadie con derecho a ser adorado salvo Dios; Él da la vida y da l
 
 # 4423
 
-Pero ellos juegan con las dudas.
+Pero ellos[^1] juegan con las dudas.
 
-Pero ellos: Los que se niegan a creer y rechazan el Mensaje.
+[^1]: Los que se niegan a creer y rechazan el Mensaje.
 
 # 4424
 
@@ -19256,9 +19380,9 @@ Aguarda el día en que el cielo traiga un humo visible
 
 # 4425
 
-que cubrirá a la gente. Ese será un castigo doloroso.
+que cubrirá a la gente. Ese será un castigo doloroso.[^1]
 
-Se trata de una de las señales mayores del advenimiento del Día del Juicio Final. El Mensajero de Dios, que la paz y las bendiciones de Dios sean con él, dijo: “Su Señor les advierte acerca de tres cosas: el humo que hará que el creyente simplemente estornude, mientras que causará que el incrédulo se hinche. La segunda es la Bestia, y la tercera es el Anticristo”. Narrado por Ibn Yarir At-Tabari.
+[^1]: “Su Señor les advierte acerca de tres cosas: el humo que hará que el creyente simplemente estornude, mientras que causará que el incrédulo se hinche. La segunda es la Bestia, y la tercera es el Anticristo”. Narrado por Ibn Yarir At-Tabari.
 
 # 4426
 
@@ -19278,15 +19402,15 @@ Los libraré del castigo por un tiempo, pero reincidirán.
 
 # 4430
 
-El día que acometa con el máximo rigor, les infligiré un castigo doloroso.
+El día que acometa con el máximo rigor, les infligiré un castigo doloroso.[^1]
 
-Por haber rechazado el monoteísmo y cometido serias injusticias contra los creyentes.
+[^1]: Por haber rechazado el monoteísmo y cometido serias injusticias contra los creyentes.
 
 # 4431
 
-Antes de ellos probé al pueblo del Faraón, cuando se les presentó un Mensajero noble,
+Antes de ellos probé al pueblo del Faraón, cuando se les presentó un Mensajero noble[^1],
 
-un Mensajero noble: Moisés.
+[^1]: Moisés.
 
 # 4432
 
@@ -19294,9 +19418,9 @@ un Mensajero noble: Moisés.
 
 # 4433
 
-No sean soberbios con Dios. Les he presentado pruebas evidentes.
+No sean soberbios con Dios. Les he presentado pruebas evidentes.[^1]
 
-Que corroboran que soy un Profeta.
+[^1]: Que corroboran que soy un Profeta.
 
 # 4434
 
@@ -19308,15 +19432,15 @@ Si no creen en mí, déjenme en paz".
 
 # 4436
 
-Pero invocó a su Señor diciendo: "Éste es un pueblo de criminales".
+Pero[^1] invocó a su Señor diciendo: "Éste es un pueblo de criminales".
 
-Pero: Como no dejaron de perseguirlo a él y a su pueblo, invocó a Dios contra ellos.
+[^1]: Como no dejaron de perseguirlo a él y a su pueblo, invocó a Dios contra ellos.
 
 # 4437
 
-[Entonces Dios le respondió:] "Marcha con Mis siervos por la noche, pero sabe que ellos van a perseguirlos.
+[Entonces Dios le respondió:] "Marcha con Mis siervos por la noche, pero sabe que ellos[^1] van a perseguirlos.
 
-sabe que ellos: El Faraón y su ejército.
+[^1]: El Faraón y su ejército.
 
 # 4438
 
@@ -19324,9 +19448,9 @@ Deja el mar [luego de que se haya abierto para ti] tal como está, que el ejérc
 
 # 4439
 
-Cuántos huertos y manantiales abandonaron,
+Cuántos huertos y manantiales abandonaron,[^1]
 
-El Faraón y su ejército.
+[^1]: El Faraón y su ejército.
 
 # 4440
 
@@ -19338,15 +19462,15 @@ y una comodidad de la que disfrutaban.
 
 # 4442
 
-Así fue. Pero se lo di en herencia a otro pueblo.
+Así fue[^1]. Pero se lo di en herencia a otro pueblo.
 
-Así fue: Que se ahogaron y perdieron todas esas gracias.
+[^1]: Que se ahogaron y perdieron todas esas gracias.
 
 # 4443
 
-No lloraron por ellos ni el cielo ni la Tierra. Tampoco fueron perdonados.
+No lloraron por ellos ni el cielo ni la Tierra[^1]. Tampoco fueron perdonados.
 
-No lloraron por ellos ni el cielo ni la Tierra: Nadie lamentó su muerte, porque no eran gente que hiciera el bien.
+[^1]: Nadie lamentó su muerte, porque no eran gente que hiciera el bien.
 
 # 4444
 
@@ -19366,9 +19490,9 @@ y les concedí signos que representaban una prueba clara en su fe.
 
 # 4448
 
-Pero ellos dicen:
+Pero ellos[^1] dicen:
 
-ellos: Los que se niegan a aceptar el Mensaje de los Profetas y desmienten la resurrección y el Juicio Final.
+[^1]: Los que se niegan a aceptar el Mensaje de los Profetas y desmienten la resurrección y el Juicio Final.
 
 # 4449
 
@@ -19380,9 +19504,9 @@ Resucita a nuestros padres, si es que eres veraz".
 
 # 4451
 
-¿Acaso ellos son mejores que los pueblos que he destruido, como el pueblo de Tubba’ y los que los precedieron? Todos ellos fueron criminales.
+¿Acaso ellos son mejores que los pueblos que he destruido, como el pueblo de Tubba[^1]’ y los que los precedieron? Todos ellos fueron criminales.
 
-Tubba: Rey del Yemen.
+[^1]: Rey del Yemen.
 
 # 4452
 
@@ -19406,9 +19530,9 @@ excepto aquel de quien Dios tenga misericordia. Él es el Poderoso, el Misericor
 
 # 4457
 
-El árbol de Zaqqum
+El árbol de Zaqqum[^1]
 
-Ver Corán 37:62.
+[^1]: 62.
 
 # 4458
 
@@ -19432,9 +19556,9 @@ Luego viertan sobre su cabeza el castigo hirviente".
 
 # 4463
 
-¡Súfrelo! [Porque en la vida mundanal pensabas que] eras "el poderoso" y "el noble".
+¡Súfrelo! [Porque en la vida mundanal pensabas que] eras "el poderoso" y "el noble".[^1]
 
-Por lo que Dios no te castigaría y te salvarías, ya que creías estar por encima del bien y del mal.
+[^1]: Por lo que Dios no te castigaría y te salvarías, ya que creías estar por encima del bien y del mal.
 
 # 4464
 
@@ -19462,9 +19586,9 @@ Allí podrán pedir toda clase de frutas. Estarán en total seguridad.
 
 # 4470
 
-No experimentarán otra vez la muerte, salvo la que ya conocieron. Él los preservará del castigo infernal.
+No experimentarán otra vez la muerte, salvo la que ya conocieron[^1]. Él los preservará del castigo infernal.
 
-la que ya conocieron: En la vida mundanal.
+[^1]: En la vida mundanal.
 
 # 4471
 
@@ -19476,9 +19600,9 @@ Para facilitar su comprensión lo he revelado [al Corán] en tu lengua, para que
 
 # 4473
 
-Así que espera pacientemente, de la misma manera que ellos están esperando.
+Así que espera pacientemente, de la misma manera que ellos están esperando.[^1]
 
-Que se haga evidente quién está en la verdad.
+[^1]: Que se haga evidente quién está en la verdad.
 
 # 4474
 
@@ -19486,9 +19610,9 @@ Ha’. Mim.
 
 # 4475
 
-Este Libro es una revelación que proviene de Dios, el Poderoso, el Sabio.
+Este Libro[^1] es una revelación que proviene de Dios, el Poderoso, el Sabio.
 
-Este Libro: El Sagrado Corán.
+[^1]: El Sagrado Corán.
 
 # 4476
 
@@ -19516,21 +19640,21 @@ Que escucha los versículos de Dios cuando se le recitan, pero persiste en su so
 
 # 4482
 
-Cuando escuchan algunos de Mis versículos los toman a burla. Ellos tendrán un castigo humillante,
+Cuando escuchan algunos de Mis versículos los toman a burla. Ellos tendrán un castigo humillante,[^1]
 
-En esta vida.
+[^1]: En esta vida.
 
 # 4483
 
-los estará aguardando el Infierno y de nada les servirán los bienes materiales que ganaron, ni tampoco los ídolos protectores que tomaron en lugar de Dios. Recibirán un castigo terrible.
+los estará aguardando el Infierno[^1] y de nada les servirán los bienes materiales que ganaron, ni tampoco los ídolos protectores que tomaron en lugar de Dios. Recibirán un castigo terrible.
 
-el Infierno: En la vida del más allá.
+[^1]: En la vida del más allá.
 
 # 4484
 
-Esta es la Guía, pero quienes se nieguen a creer en los versículos de su Señor tendrán un castigo doloroso.
+Esta[^1] es la Guía, pero quienes se nieguen a creer en los versículos de su Señor tendrán un castigo doloroso.
 
-Esta: La revelación del Corán.
+[^1]: La revelación del Corán.
 
 # 4485
 
@@ -19542,9 +19666,9 @@ También puso a su servicio cuanto hay en los cielos y en la Tierra como una gra
 
 # 4487
 
-Diles [¡oh, Mujámmad!] a los creyentes que [tengan paciencia ante las agresiones y] perdonen a quienes no creen en los días de Dios, en que la gente será juzgada acorde a lo que merece.
+Diles [¡oh, Mujámmad!] a los creyentes que [tengan paciencia ante las agresiones y] perdonen a quienes no creen en los días de Dios[^1], en que la gente será juzgada acorde a lo que merece.
 
-los días de Dios: La comparecencia ante Dios el Día de la Resurrección y el Juicio Final.
+[^1]: La comparecencia ante Dios el Día de la Resurrección y el Juicio Final.
 
 # 4488
 
@@ -19552,15 +19676,15 @@ Quien obre el bien lo hará en beneficio propio, pero quien obre el mal lo hará
 
 # 4489
 
-Le di a los Hijos de Israel el Libro, la sabiduría, la profecía y un sustento generoso, y los distinguí entre sus contemporáneos.
+Le di a los Hijos de Israel el Libro[^1], la sabiduría, la profecía y un sustento generoso, y los distinguí entre sus contemporáneos.
 
-el Libro: La Tora y el Evangelio.
+[^1]: La Tora y el Evangelio.
 
 # 4490
 
-Les concedí pruebas claras, pero discreparon a pesar de haberles llegado la revelación, por simples envidias entre ellos. Tu Señor juzgará entre ellos el Día de la Resurrección sobre lo que discrepaban.
+Les concedí pruebas claras[^1], pero discreparon a pesar de haberles llegado la revelación, por simples envidias entre ellos. Tu Señor juzgará entre ellos el Día de la Resurrección sobre lo que discrepaban.
 
-pruebas claras: De la verdad.
+[^1]: De la verdad.
 
 # 4491
 
@@ -19584,27 +19708,27 @@ Dios creó los cielos y la Tierra con un fin justo y verdadero. Toda alma será 
 
 # 4496
 
-¿Acaso no reparas en aquel que sigue sus pasiones como si estas fueran una divinidad? Dios decretó por Su conocimiento divino que se extraviaría, y por ello selló sus oídos y su corazón, y puso un velo sobre sus ojos. ¿Quién lo puede guiar fuera de Dios? ¿Acaso no recapacitan?
+¿Acaso no reparas en aquel que sigue sus pasiones como si estas fueran una divinidad? Dios decretó por Su conocimiento divino que se extraviaría, y por ello selló sus oídos y su corazón, y puso un velo sobre sus ojos[^1]. ¿Quién lo puede guiar fuera de Dios? ¿Acaso no recapacitan?
 
-puso un velo sobre sus ojos: Porque se negaban a oír, ver y comprender la revelación de Dios.
+[^1]: Porque se negaban a oír, ver y comprender la revelación de Dios.
 
 # 4497
 
-Dicen: "Solo existe esta vida. Viviremos y moriremos una sola vez. El tiempo es quien acaba con nosotros". Pero no poseen un conocimiento certero sobre lo que dicen y no hacen más que conjeturar.
+Dicen[^1]: "Solo existe esta vida. Viviremos y moriremos una sola vez. El tiempo es quien acaba con nosotros". Pero no poseen un conocimiento certero sobre lo que dicen y no hacen más que conjeturar.
 
-Dicen: Quienes no creen en la Resurrección.
+[^1]: Quienes no creen en la Resurrección.
 
 # 4498
 
-Cuando se les recitan Mis claros versículos, su único argumento es: "Resuciten a nuestros ancestros, si son veraces".
+Cuando se les recitan Mis claros versículos, su único argumento[^1] es: "Resuciten a nuestros ancestros, si son veraces".
 
-su único argumento: Para permanecer en la incredulidad.
+[^1]: Para permanecer en la incredulidad.
 
 # 4499
 
-Diles: "Dios es Quien les da la vida y les da la muerte, y luego los resucitará para un día del que no hay dudas". Pero la mayoría de la gente lo ignora.
+Diles: "Dios es Quien les da la vida y les da la muerte, y luego los resucitará para un día del que no hay dudas[^1]". Pero la mayoría de la gente lo ignora.
 
-un día del que no hay dudas: El Día del Juicio Final.
+[^1]: El Día del Juicio Final.
 
 # 4500
 
@@ -19612,15 +19736,15 @@ A Dios pertenece la soberanía de los cielos y de la Tierra. El día que llegue 
 
 # 4501
 
-Y verás ese día a todas las naciones arrodilladas. Cada una de ellas será convocada para rendir cuentas según su libro. [Se les dirá:] "Hoy serán juzgados de acuerdo a sus obras".
+Y verás ese día a todas las naciones arrodilladas. Cada una de ellas será convocada para rendir cuentas según su libro[^1]. [Se les dirá:] "Hoy serán juzgados de acuerdo a sus obras".
 
-para rendir cuentas según su libro: Para ser juzgados acorde a la legislación de la revelación que recibieron de manos del Profeta que les fue enviado.
+[^1]: Para ser juzgados acorde a la legislación de la revelación que recibieron de manos del Profeta que les fue enviado.
 
 # 4502
 
-He aquí Mi Libro, que habla sobre ustedes con la verdad. Yo había ordenado registrar todo lo que hacían.
+He aquí Mi Libro[^1], que habla sobre ustedes con la verdad. Yo había ordenado registrar todo lo que hacían.
 
-Mi Libro: Donde están registradas todas las acciones de las personas.
+[^1]: Donde están registradas todas las acciones de las personas.
 
 # 4503
 
@@ -19632,16 +19756,17 @@ En cambio, a los que se negaron a creer [se les dirá:] "¿Acaso no se les recit
 
 # 4505
 
-Cuando se les dijo: "La promesa de Dios es verdadera y no hay duda sobre la Hora". Respondieron [irónicamente]: "No comprendemos qué es la Hora, nos parece una mera fantasía y no nos convence".
+Cuando se les dijo: "La promesa de Dios es verdadera y no hay duda sobre la Hora[^1]". Respondieron [irónicamente]: "No comprendemos qué es la Hora, nos parece una mera fantasía y no nos convence[^2]".
 
-la Hora: Que el Día del Juicio llegará. 
- y no nos convence: De que vayamos a ser resucitados y preguntados por nuestras acciones.
+[^1]: Que el Día del Juicio llegará.
+
+[^2]: De que vayamos a ser resucitados y preguntados por nuestras acciones.
 
 # 4506
 
-Pero se verá el resultado de sus malas obras, y merecerán el castigo del que se burlaban.
+Pero se verá el resultado de sus malas obras[^1], y merecerán el castigo del que se burlaban.
 
-el resultado de sus malas obras: El Día del Juicio.
+[^1]: El Día del Juicio.
 
 # 4507
 
@@ -19649,9 +19774,9 @@ Se dirá: "Hoy los desconoceré tal como ustedes se desentendieron de la compare
 
 # 4508
 
-Este es el resultado de haber ridiculizado los versículos de Dios y haberse dejado seducir por los placeres [prohibidos] de la vida mundanal. Hoy no serán sacados del tormento, y no se les tendrá consideración".
+Este es el resultado de haber ridiculizado los versículos de Dios y haberse dejado seducir por los placeres [prohibidos] de la vida mundanal. Hoy no serán sacados del tormento, y no se les tendrá consideración".[^1]
 
-Ya que en ese momento no serán aceptadas las disculpas ni el arrepentimiento.
+[^1]: Ya que en ese momento no serán aceptadas las disculpas ni el arrepentimiento.
 
 # 4509
 
@@ -19667,9 +19792,9 @@ Ha’. Mim.
 
 # 4512
 
-Este Libro es una revelación que proviene de Dios, el Poderoso, el Sabio.
+Este Libro[^1] es una revelación que proviene de Dios, el Poderoso, el Sabio.
 
-Este Libro: El Sagrado Corán.
+[^1]: El Sagrado Corán.
 
 # 4513
 
@@ -19677,9 +19802,9 @@ No creé los cielos y la Tierra y lo que hay entre ambos sino con la verdad y po
 
 # 4514
 
-Diles [¡oh, Mujámmad!]: "Aquellos [dioses y divinidades] que ustedes invocan en lugar de Dios, ¿acaso crearon algo en la Tierra o fueron partícipes [en la creación] de los cielos? Presenten ante Mí algún Libro revelado antes de este o algún vestigio de un [antiguo] conocimiento [que avale la idolatría] si es que dicen la verdad.
+Diles [¡oh, Mujámmad!]: "Aquellos [dioses y divinidades] que ustedes invocan en lugar de Dios, ¿acaso crearon algo en la Tierra o fueron partícipes [en la creación] de los cielos? Presenten ante Mí algún Libro revelado antes de este[^1] o algún vestigio de un [antiguo] conocimiento [que avale la idolatría] si es que dicen la verdad.
 
-antes de este: El Sagrado Corán.
+[^1]: El Sagrado Corán.
 
 # 4515
 
@@ -19699,16 +19824,17 @@ O dicen: "Él [Mujámmad] lo inventó". Diles [¡oh, Mujámmad!]: "Si lo hubiese
 
 # 4519
 
-Diles: "Yo no soy el primero de los Mensajeros [de Dios], y tampoco sé qué será de mí o de ustedes. Yo solo sigo lo que me es revelado, y no soy sino un amonestador que habla claro".
+Diles: "Yo no soy el primero de los Mensajeros [de Dios][^1], y tampoco sé qué será de mí o de ustedes[^2]. Yo solo sigo lo que me es revelado, y no soy sino un amonestador que habla claro".
 
-Yo no soy el primero de los Mensajeros [de Dios]: Y transmito el mismo Mensaje que ellos; así que, ¿de qué se sorprenden? 
-qué será de mí o de ustedes: Como Profeta, desconozco lo oculto que solo Dios conoce.
+[^1]: Y transmito el mismo Mensaje que ellos; así que, ¿de qué se sorprenden?
+
+[^2]: Como Profeta, desconozco lo oculto que solo Dios conoce.
 
 # 4520
 
-Diles: "¿Por qué no creen [en el Corán] que Dios reveló, siendo que un sabio de los Hijos de Israel atestiguó su veracidad y creyó en él? Pero ustedes actuaron con soberbia. Sepan que Dios no guía a un pueblo de injustos.
+Diles: "¿Por qué no creen [en el Corán] que Dios reveló, siendo que un sabio de los Hijos de Israel[^1] atestiguó su veracidad y creyó en él? Pero ustedes actuaron con soberbia. Sepan que Dios no guía a un pueblo de injustos.
 
-un sabio de los Hijos de Israel: Referencia a cuando el Gran Rabino de Medina, llamado ‘Abdullah Ibn Salam, se convirtió al Islam al reconocer en Mujámmad los signos del último Profeta de Dios que estaban mencionados en la Tora (Antiguo Testamento).
+[^1]: Referencia a cuando el Gran Rabino de Medina, llamado ‘Abdullah Ibn Salam, se convirtió al Islam al reconocer en Mujámmad los signos del último Profeta de Dios que estaban mencionados en la Tora (Antiguo Testamento).
 
 # 4521
 
@@ -19716,11 +19842,13 @@ Dicen los que se niegan a creer acerca de los creyentes: "Si [el Mensaje] fuera 
 
 # 4522
 
-Antes [del Corán] fue revelado el Libro de Moisés como guía y misericordia. Este es un Libro revelado en lengua árabe que corrobora [las revelaciones anteriores], y en él se advierte a los injustos y se albricia a los que hacen el bien.
+Antes [del Corán] fue revelado el Libro de Moisés[^1] como guía y misericordia. Este[^2] es un Libro revelado en lengua árabe que corrobora [las revelaciones anteriores][^3], y en él se advierte a los injustos y se albricia a los que hacen el bien.
 
-el Libro de Moisés: La Tora.
-Este: El Sagrado Corán. 
- [las revelaciones anteriores]: En su forma original e inalterada.
+[^1]: La Tora.
+
+[^2]: El Sagrado Corán.
+
+[^3]: En su forma original e inalterada.
 
 # 4523
 
@@ -19756,10 +19884,11 @@ El día que los que se negaron a creer sean expuestos al Infierno se les dirá: 
 
 # 4531
 
-Y recuerda [¡oh, Mujámmad!] al hermano de la tribu de ‘Ad, [el Profeta Hud] cuando advirtió a su pueblo en las dunas [donde habitaban]. Todos los Mensajeros que fueron enviados, antes y después de él, decían a sus pueblos: "No adoren sino a Dios, temo que los azote el castigo de un día terrible".
+Y recuerda [¡oh, Mujámmad!] al hermano de la tribu de ‘Ad, [el Profeta Hud] cuando advirtió a su pueblo en las dunas [donde habitaban]. Todos los Mensajeros que fueron enviados, antes y después de él[^1], decían a sus pueblos: "No adoren sino a Dios, temo que los azote el castigo de un día terrible[^2]".
 
-antes y después de él: Del Profeta Hud. 
- un día terrible: El Día del Juicio Final, en el que sean ingresados al Fuego del Infierno.
+[^1]: Del Profeta Hud.
+
+[^2]: El Día del Juicio Final, en el que sean ingresados al Fuego del Infierno.
 
 # 4532
 
@@ -19791,9 +19920,9 @@ Pero aquellos ídolos que adoraban como divinidades en lugar de Dios se desvanec
 
 # 4539
 
-Y cuando envié [¡oh, Mujámmad!] a un grupo de yinnes para que escucharan la recitación [del Corán]. Cuando llegaron dijeron [a sus compañeros]: "¡Guarden silencio [para que podamos escuchar]!" Y luego que culminaste [con la recitación], retornaron a su pueblo para advertirles.
+Y cuando envié [¡oh, Mujámmad!] a un grupo de yinnes para que escucharan la recitación [del Corán]. Cuando llegaron dijeron [a sus compañeros]: "¡Guarden silencio [para que podamos escuchar]!" Y luego que culminaste [con la recitación], retornaron a su pueblo para advertirles[^1].
 
-para advertirles: Y exhortarlos a creer en el Mensaje Universal que habían escuchado en el Sagrado Corán.
+[^1]: Y exhortarlos a creer en el Mensaje Universal que habían escuchado en el Sagrado Corán.
 
 # 4540
 
@@ -19809,9 +19938,9 @@ Pero sepan que quien no obedezca al Mensajero de Dios no podrá escapar [del cas
 
 # 4543
 
-¿Acaso no ven que Dios, Quien creó los cielos y la Tierra sin agotarse, también tiene poder para resucitar a los muertos? Él es sobre toda cosa Poderoso.
+¿Acaso no ven que Dios, Quien creó los cielos y la Tierra sin agotarse[^1], también tiene poder para resucitar a los muertos? Él es sobre toda cosa Poderoso.
 
-sin agotarse: Porque el cansancio y la necesidad de descansar es una cualidad de imperfección y, por lo tanto, es imposible que sea encontrada en Dios.
+[^1]: Porque el cansancio y la necesidad de descansar es una cualidad de imperfección y, por lo tanto, es imposible que sea encontrada en Dios.
 
 # 4544
 
@@ -19835,9 +19964,9 @@ Esto es así porque quienes se negaron a creer siguen lo falso, mientras que los
 
 # 4549
 
-Cuando tengan que enfrentarse en combate a los que se negaron a creer, golpéenlos en el cuello; y cuando estén fuera de combate aprésenlos. Luego, libérenlos con benevolencia o pidan un rescate, [esa debe ser la actitud] hasta que cese la guerra. [Sepan que] si Dios hubiera querido, Él mismo los hubiera derrotado, pero quiso ponerlos a prueba [y que se enfrentaran] unos contra otros. Quien caiga en combate por la causa de Dios, sus obras no habrán sido en vano.
+Cuando tengan que enfrentarse en combate a los que se negaron a creer, golpéenlos en el cuello; y cuando estén fuera de combate aprésenlos. Luego, libérenlos con benevolencia o pidan un rescate[^1], [esa debe ser la actitud] hasta que cese la guerra. [Sepan que] si Dios hubiera querido, Él mismo los hubiera derrotado, pero quiso ponerlos a prueba [y que se enfrentaran] unos contra otros. Quien caiga en combate por la causa de Dios, sus obras no habrán sido en vano.
 
-pidan un rescate: O exijan un intercambio de prisioneros.
+[^1]: O exijan un intercambio de prisioneros.
 
 # 4550
 
@@ -19849,9 +19978,9 @@ y los introducirá en el Paraíso que ya les había dado a conocer.
 
 # 4552
 
-¡Oh, creyentes! Si auxilian a Dios, Él los auxiliará y afirmará sus pasos.
+¡Oh, creyentes! Si auxilian a Dios[^1], Él los auxiliará y afirmará sus pasos.
 
-Si auxilian a Dios: Auxiliar a Dios es auxiliar al Islam y a la divulgación de su mensaje.
+[^1]: Auxiliar a Dios es auxiliar al Islam y a la divulgación de su mensaje.
 
 # 4553
 
@@ -19863,9 +19992,9 @@ porque repudiaron lo que Dios descendió en la revelación, y como consecuencia 
 
 # 4555
 
-¿Por qué no viajan por el mundo y observan cómo terminaron sus antecesores? Dios los destruyó; y sepan que todos los que se niegan a creer tienen un destino similar.
+¿Por qué no viajan por el mundo y observan cómo terminaron sus antecesores[^1]? Dios los destruyó; y sepan que todos los que se niegan a creer tienen un destino similar.
 
-sus antecesores: Los que en el pasado rechazaron a los Profetas y sus mensajes.
+[^1]: Los que en el pasado rechazaron a los Profetas y sus mensajes.
 
 # 4556
 
@@ -19873,9 +20002,9 @@ Eso es porque Dios solo es protector de los creyentes, mientras que los que se n
 
 # 4557
 
-Dios introducirá a los creyentes que obran rectamente en jardines por donde corren ríos. En cambio, los que se niegan a creer gozarán transitoriamente y comerán como lo hacen los rebaños, pero tendrán el Infierno por morada.
+Dios introducirá a los creyentes que obran rectamente en jardines por donde corren ríos. En cambio, los que se niegan a creer gozarán transitoriamente[^1] y comerán como lo hacen los rebaños, pero tendrán el Infierno por morada.
 
-gozarán transitoriamente: En esta vida.
+[^1]: En esta vida.
 
 # 4558
 
@@ -19887,16 +20016,17 @@ Muchas ciudades fueron más poderosas que la que te expulsó [¡oh, Mujámmad!],
 
 # 4560
 
-Así es la descripción del Paraíso que le fue prometido a los piadosos: hay ríos de agua que no se contaminan, ríos de leche que siempre tendrá buen sabor, ríos de vino que será un deleite para quienes lo beban, y ríos de miel pura. Tendrán en él todas las frutas que deseen. Su Señor los perdonará. ¿Acaso quien disfrutará de estas gracias puede compararse con quien morará eternamente en el Infierno y beberá agua hirviendo que carcomerá sus intestinos?
+Así es la descripción del Paraíso que le fue prometido a los piadosos: hay ríos de agua que no se contaminan, ríos de leche que siempre tendrá buen sabor, ríos de vino[^1] que será un deleite para quienes lo beban, y ríos de miel pura. Tendrán en él todas las frutas que deseen. Su Señor los perdonará. ¿Acaso quien disfrutará de estas gracias puede compararse con quien morará eternamente en el Infierno y beberá agua hirviendo que carcomerá sus intestinos?
 
-ríos de vino: El vino del Paraíso no embriaga. Ver Corán 37:45-47.
+[^1]: El vino del Paraíso no embriaga. Ver Corán 37:45-47.
 
 # 4561
 
-Algunos te escuchan [¡oh, Mujámmad!], pero cuando se retiran les dicen [burlándose] a los que fueron agraciados con el conocimiento: "¿Qué es lo que acaba de decir?" Estos son a quienes Dios ha sellado sus corazones [con la incredulidad], y solo siguen sus pasiones.
+Algunos[^1] te escuchan [¡oh, Mujámmad!], pero cuando se retiran les dicen [burlándose] a los que fueron agraciados con el conocimiento[^2]: "¿Qué es lo que acaba de decir?" Estos son a quienes Dios ha sellado sus corazones [con la incredulidad], y solo siguen sus pasiones.
 
-Algunos: Los hipócritas. 
-agraciados con el conocimiento: De entre los Compañeros del Profeta.
+[^1]: Los hipócritas.
+
+[^2]: De entre los Compañeros del Profeta.
 
 # 4562
 
@@ -19904,9 +20034,9 @@ Pero a quienes siguen la guía, Él les incrementará su fe y su piedad.
 
 # 4563
 
-¿Acaso los que se niegan a creer esperan que los sorprenda la Hora? Ya se evidenciaron algunas señales que indican su proximidad, y de nada les servirá creer cuando esta llegue.
+¿Acaso los que se niegan a creer esperan que los sorprenda la Hora[^1]? Ya se evidenciaron algunas señales que indican su proximidad, y de nada les servirá creer cuando esta llegue.
 
-la Hora: El fin del mundo.
+[^1]: El fin del mundo.
 
 # 4564
 
@@ -19914,9 +20044,9 @@ Debes saber que no hay nada ni nadie con derecho a ser adorado salvo Dios, e imp
 
 # 4565
 
-Algunos creyentes dicen: "¿Por qué no desciende un capítulo [del Corán donde se prescriba combatir]?" Pero cuando es revelado un capítulo [del Corán] con preceptos obligatorios, y se menciona en él la guerra, ves a aquellos cuyos corazones están enfermos mirarte como si estuvieran en la agonía de la muerte. Sería mejor para ellos
+Algunos creyentes dicen: "¿Por qué no desciende un capítulo [del Corán donde se prescriba combatir]?" Pero cuando es revelado un capítulo [del Corán] con preceptos obligatorios, y se menciona en él la guerra, ves a aquellos cuyos corazones están enfermos[^1] mirarte como si estuvieran en la agonía de la muerte. Sería mejor para ellos
 
-corazones están enfermos: Con la hipocresía.
+[^1]: Con la hipocresía.
 
 # 4566
 
@@ -19932,9 +20062,9 @@ A ellos Dios los ha maldecido haciendo que se comporten como sordos y ciegos.
 
 # 4569
 
-¿Acaso no meditan en el Corán, o es que sus corazones están cerrados con cerrojos?
+¿Acaso no meditan en el Corán, o es que sus corazones están cerrados con cerrojos?[^1]
 
-Y eso no les permite comprenderlo.
+[^1]: Y eso no les permite comprenderlo.
 
 # 4570
 
@@ -19942,16 +20072,17 @@ Aquellos que reniegan de su fe después de habérseles evidenciado la guía, es 
 
 # 4571
 
-Este descarrío es porque [los hipócritas] dijeron a quienes odian lo que Dios reveló [a Mujámmad]: "Les obedeceremos en algunos asuntos". Pero Dios conoce sus secretos.
+Este descarrío es porque [los hipócritas] dijeron a quienes odian lo que Dios reveló [a Mujámmad][^1]: "Les obedeceremos en algunos asuntos". Pero Dios conoce sus secretos.[^2]
 
-odian lo que Dios reveló [a Mujámmad]: Los judíos de Medina. 
- “Les obedeceremos en algunos asuntos”: Aliándonos con ustedes contra el Profeta, que la paz y las bendiciones de Dios sean con él.
+[^1]: Los judíos de Medina.
+
+[^2]: Aliándonos con ustedes contra el Profeta, que la paz y las bendiciones de Dios sean con él.
 
 # 4572
 
-¡Qué terrible será cuando los ángeles tomen sus almas y los golpeen en el rostro y la espalda!
+¡Qué terrible será cuando los ángeles tomen sus almas y los golpeen en el rostro y la espalda![^1]
 
-En el momento en que esté decretado que sea su muerte, y sean los ángeles los que tomen sus almas.
+[^1]: En el momento en que esté decretado que sea su muerte, y sean los ángeles los que tomen sus almas.
 
 # 4573
 
@@ -19959,9 +20090,9 @@ Eso será su merecido por haber seguido lo que Dios detesta y haberse apartado d
 
 # 4574
 
-¿Acaso piensan aquellos cuyos corazones están enfermos que Dios no sacará a la luz su resentimiento?
+¿Acaso piensan aquellos cuyos corazones están enfermos[^1] que Dios no sacará a la luz su resentimiento?
 
-están enfermos: De hipocresía.
+[^1]: De hipocresía.
 
 # 4575
 
@@ -19997,16 +20128,17 @@ Si se los exigiera, se mostrarían avaros y se manifestaría su rechazo.
 
 # 4583
 
-Se los invita a contribuir por la causa de Dios, pero entre ustedes hay quienes se muestran avaros. El avaro solo se perjudica a sí mismo. Porque Dios es el Rico y ustedes son los pobres. Si no creen, Dios los cambiará por otro pueblo que no será como ustedes.
+Se los invita a contribuir por la causa de Dios, pero entre ustedes hay quienes se muestran avaros. El avaro solo se perjudica a sí mismo. Porque Dios es el Rico[^1] y ustedes son los pobres[^2]. Si no creen, Dios los cambiará por otro pueblo que no será como ustedes.
 
-Dios es el Rico: Dios prescinde de toda Su creación, no necesita de los seres creados. 
- ustedes son los pobres: Que necesitan de Él.
+[^1]: Dios prescinde de toda Su creación, no necesita de los seres creados.
+
+[^2]: Que necesitan de Él.
 
 # 4584
 
-Te he concedido [¡oh, Mujámmad!] una victoria evidente.
+Te he concedido [¡oh, Mujámmad!] una victoria evidente.[^1]
 
-Referencia al pacto con los idólatras en el año seis de la Hégira, llamado Hudaibiiah, que garantizaba 10 años de no agresión.
+[^1]: Referencia al pacto con los idólatras en el año seis de la Hégira, llamado Hudaibiiah, que garantizaba 10 años de no agresión.
 
 # 4585
 
@@ -20018,9 +20150,9 @@ y te dará un auxilio grandioso.
 
 # 4587
 
-Él es Quien hizo descender el sosiego en los corazones de los creyentes para aumentarles fe a la fe que ya tenían. A Dios pertenecen los ejércitos de los cielos y de la Tierra; y Dios lo sabe todo, es Sabio.
+Él es Quien hizo descender el sosiego en los corazones de los creyentes para aumentarles fe a la fe que ya tenían. A Dios pertenecen los ejércitos de los cielos y de la Tierra[^1]; y Dios lo sabe todo, es Sabio.
 
-los ejércitos de los cielos y de la Tierra: Es decir, que todas las fuerzas del cosmos, visibles e invisibles, forman parte del plan de Dios, algo tan insignificante como una bacteria o tan gigantesco como una colisión de asteroides.
+[^1]: Es decir, que todas las fuerzas del cosmos, visibles e invisibles, forman parte del plan de Dios, algo tan insignificante como una bacteria o tan gigantesco como una colisión de asteroides.
 
 # 4588
 
@@ -20028,9 +20160,9 @@ los ejércitos de los cielos y de la Tierra: Es decir, que todas las fuerzas del
 
 # 4589
 
-En cambio, a los hipócritas y las hipócritas, y a los idólatras y las idólatras que pensaban mal de Dios, los castigará; la ira de Dios recaerá sobre ellos y los maldecirá, y les tiene reservado el castigo del Infierno. ¡Qué horrible destino!
+En cambio, a los hipócritas y las hipócritas, y a los idólatras y las idólatras que pensaban mal de Dios[^1], los castigará; la ira de Dios recaerá sobre ellos y los maldecirá, y les tiene reservado el castigo del Infierno. ¡Qué horrible destino!
 
-pensaban mal de Dios: Pensaban que Dios no daría ayuda a los creyentes y abandonaría sin apoyo a Su religión.
+[^1]: Pensaban que Dios no daría ayuda a los creyentes y abandonaría sin apoyo a Su religión.
 
 # 4590
 
@@ -20050,10 +20182,11 @@ Quienes te juran fidelidad en realidad están jurando fidelidad a Dios, pues la 
 
 # 4594
 
-[¡Oh, Mujámmad!] Los beduinos que no participaron [del viaje a La Meca y del pacto de Hudaibiiah] dirán: "Nos mantuvieron ocupados nuestros bienes materiales y nuestras familias, pídele a Dios que nos perdone". Pero solo dicen con sus lenguas lo que no sienten sus corazones. Diles: "Si Dios quisiera perjudicarlos o beneficiarlos, nadie podría impedirlo. Dios sabe lo que hacen".
+[¡Oh, Mujámmad!] Los beduinos que no participaron [del viaje a La Meca y del pacto de Hudaibiiah] dirán: "Nos mantuvieron ocupados nuestros bienes materiales y nuestras familias, pídele a Dios que nos perdone[^1]". Pero solo dicen con sus lenguas lo que no sienten sus corazones[^2]. Diles: "Si Dios quisiera perjudicarlos o beneficiarlos, nadie podría impedirlo. Dios sabe lo que hacen".
 
-que nos perdone: Por no haber participado de la expedición. 
- lo que no sienten sus corazones: Ellos pensaban que los idólatras vencerían a los creyentes, y por eso se negaron a participar de la batalla.
+[^1]: Por no haber participado de la expedición.
+
+[^2]: Ellos pensaban que los idólatras vencerían a los creyentes, y por eso se negaron a participar de la batalla.
 
 # 4595
 
@@ -20069,10 +20202,11 @@ A Dios pertenece el reino de los cielos y de la Tierra, perdona a quien Él quie
 
 # 4598
 
-Cuando salgan en busca del botín, quienes no participaron [de la expedición a La Meca] dirán: "Déjennos participar de la expedición". Pretenden cambiar el designio de Dios. Diles [¡oh, Mujámmad!]: "No participarán de ella, pues así lo decretó Dios". Entonces responderán: "En realidad nos tienen envidia", pero es poco lo que comprenden.
+Cuando salgan en busca del botín[^1], quienes no participaron [de la expedición a La Meca] dirán: "Déjennos participar de la expedición". Pretenden cambiar el designio de Dios[^2]. Diles [¡oh, Mujámmad!]: "No participarán de ella, pues así lo decretó Dios". Entonces responderán: "En realidad nos tienen envidia", pero es poco lo que comprenden.
 
-Cuando salgan en busca del botín: De la batalla de Jaibar. 
-Pretenden cambiar el designio de Dios: De que el botín de Jaibar solo sería para quienes participaron del pacto de Hudaibiiah.
+[^1]: De la batalla de Jaibar.
+
+[^2]: De que el botín de Jaibar solo sería para quienes participaron del pacto de Hudaibiiah.
 
 # 4599
 
@@ -20084,10 +20218,11 @@ No hay nada que reprochar al ciego, al lisiado y al enfermo [que no participan e
 
 # 4601
 
-Dios quedó complacido con los creyentes cuando te juraron fidelidad bajo el árbol. [Él] sabía [la fe] que había en sus corazones e hizo descender el sosiego sobre ellos y los recompensó con una victoria cercana,
+Dios quedó complacido con los creyentes cuando te juraron fidelidad bajo el árbol[^1]. [Él] sabía [la fe] que había en sus corazones e hizo descender el sosiego sobre ellos y los recompensó con una victoria cercana[^2],
 
-cuando te juraron fidelidad bajo el árbol: La complacencia de Dios, al igual que el resto de Sus nombres y atributos, tiene un carácter eterno, acorde a Su divinidad, y por eso este versículo es una prueba del aprecio y complacencia que Dios tiene por los compañeros del Profeta que formaron parte de este juramento. 
-una victoria cercana: La liberación de Jaibar.
+[^1]: La complacencia de Dios, al igual que el resto de Sus nombres y atributos, tiene un carácter eterno, acorde a Su divinidad, y por eso este versículo es una prueba del aprecio y complacencia que Dios tiene por los compañeros del Profeta que formaron parte de este juramento.
+
+[^2]: La liberación de Jaibar.
 
 # 4602
 
@@ -20095,9 +20230,9 @@ donde obtuvieron un botín cuantioso. Dios es Poderoso, Sabio.
 
 # 4603
 
-Dios les ha prometido que obtendrán muchos botines, y por eso les adelantó este [en Jaibar]. [Él] los ha protegido de las manos [opresoras] de alguna gente para que sean ustedes un signo para los creyentes, y los guiará por el sendero recto.
+Dios les ha prometido que obtendrán muchos botines, y por eso les adelantó este [en Jaibar]. [Él] los ha protegido de las manos [opresoras] de alguna gente para que sean ustedes un signo para los creyentes[^1], y los guiará por el sendero recto.
 
-un signo para los creyentes: Un signo de la veracidad de Su promesa.
+[^1]: Un signo de la veracidad de Su promesa.
 
 # 4604
 
@@ -20117,24 +20252,27 @@ Ese es el proceder de Dios que ha regido siempre en el pasado [de socorrer a los
 
 # 4608
 
-Ellos son los que se negaron a creer y no los dejaron llegar a la Mezquita Sagrada, impidiendo que los animales [que llevaban para sacrificarlos como ofrenda en La Meca] llegaran a su destino. De no haber sido porque podrían haber cometido un grave pecado si atacaban La Meca, matando o hiriendo sin darse cuenta a algunos hombres y mujeres creyentes que no conocían y que habitaban en ella, Dios se los habría permitido. Dios alcanza con Su misericordia a quien Él quiere. Si les hubiera sido posible diferenciarlos unos de otros, les habríamos hecho infligir un castigo doloroso a los que se negaron a creer.
+Ellos son los que se negaron a creer y no los dejaron llegar a la Mezquita Sagrada, impidiendo que los animales [que llevaban para sacrificarlos como ofrenda en La Meca] llegaran a su destino. De no haber sido porque podrían haber cometido un grave pecado si atacaban La Meca, matando o hiriendo sin darse cuenta a algunos hombres y mujeres creyentes que no conocían y que habitaban en ella, Dios se los habría permitido. Dios alcanza con Su misericordia a quien Él quiere. Si les hubiera sido posible diferenciarlos[^1] unos de otros, les habríamos hecho infligir un castigo doloroso a los que se negaron a creer.
 
-diferenciarlos: A los incrédulos de los creyentes.
+[^1]: A los incrédulos de los creyentes.
 
 # 4609
 
-Cuando los que se negaron a creer cerraron sus corazones con una arrogancia similar a la de la época de la ignorancia [previa al Islam], Dios hizo descender el sosiego sobre Su Mensajero y sobre los creyentes, y los hizo mantenerse leales al compromiso, pues eran los más merecedores y los más dignos de él. Dios lo sabe todo.
+Cuando los que se negaron a creer cerraron sus corazones con una arrogancia[^1] similar a la de la época de la ignorancia [previa al Islam], Dios hizo descender el sosiego sobre Su Mensajero y sobre los creyentes, y los hizo mantenerse leales al compromiso, pues eran los más merecedores y los más dignos de él. Dios lo sabe todo.[^2]
 
-con una arrogancia: Impidiéndoles a los creyentes ingresar a La Meca.
-Compromiso: Referencia al compromiso de fe, rectitud y justicia que encierra el testimonio de fe “La ilaha ila Al-lah”.
+[^1]: Impidiéndoles a los creyentes ingresar a La Meca.
+
+[^2]: Referencia al compromiso de fe, rectitud y justicia que encierra el testimonio de fe “La ilaha ila Al-lah”.
 
 # 4610
 
-Dios hará realidad la visión que tuvo Su Mensajero [en sueños] y ustedes entrarán en la Mezquita Sagrada, si Dios quiere, algunos con las cabezas rasuradas y otros con el cabello recortado, sin temer absolutamente nada. Dios sabe lo que ustedes ignoran. Él les concederá, además, una victoria cercana.
+Dios hará realidad la visión que tuvo Su Mensajero [en sueños] y ustedes entrarán en la Mezquita Sagrada, si Dios quiere, algunos con las cabezas rasuradas y otros con el cabello recortado[^1], sin temer absolutamente nada. Dios sabe lo que ustedes ignoran[^2]. Él les concederá, además, una victoria cercana[^3].
 
-cabello recortado: Rasurar la cabeza o recortar el cabello es parte del rito de la peregrinación mayor y menor. Esto implica la promesa por parte de Dios de que en un futuro cercano podrían cumplir con la peregrinación menor sin temer la persecución de los idólatras. 
- ignoran: Los beneficios a largo plazo del pacto de Hudaibiiah.
- una victoria cercana: En Jaibar.
+[^1]: Rasurar la cabeza o recortar el cabello es parte del rito de la peregrinación mayor y menor. Esto implica la promesa por parte de Dios de que en un futuro cercano podrían cumplir con la peregrinación menor sin temer la persecución de los idólatras.
+
+[^2]: Los beneficios a largo plazo del pacto de Hudaibiiah.
+
+[^3]: En Jaibar.
 
 # 4611
 
@@ -20166,10 +20304,11 @@ Mejor sería que esperaran pacientemente hasta que tú salgas; pero [sepan que] 
 
 # 4618
 
-¡Oh, creyentes! Si una persona que transgrede se les presenta con alguna noticia, corroboren su veracidad, no sea que perjudiquen a alguien por ignorancia y luego se arrepientan de lo que hayan hecho.
+¡Oh, creyentes! Si una persona que transgrede[^1] se les presenta con alguna noticia, corroboren su veracidad, no sea que perjudiquen a alguien por ignorancia y luego se arrepientan de lo que hayan hecho.[^2]
 
-transgrede: Las normas islámicas.
- Luego: De haber comprobado que era una noticia falsa.
+[^1]: Las normas islámicas.
+
+[^2]: De haber comprobado que era una noticia falsa.
 
 # 4619
 
@@ -20189,9 +20328,9 @@ Los creyentes son hermanos entre sí; reconcilien a sus hermanos y tengan temor 
 
 # 4623
 
-¡Oh, creyentes! No se burlen unos de otros, porque pudiera ser que los que son blancos de las burlas sean mejores que los que se están burlando. Que las mujeres no se burlen de otras mujeres, porque es posible que las que son el blanco de las burlas sean mejores que las que se burlan. No difamen ni pongan apodos ofensivos. ¡Qué malo es comportarse como un corrupto luego de haber sido agraciado con la fe! Quienes no se arrepientan... esos son los injustos.
+¡Oh, creyentes! No se burlen unos de otros, porque pudiera ser que los que son blancos de las burlas sean mejores que los que se están burlando. Que las mujeres no se burlen de otras mujeres, porque es posible que las que son el blanco de las burlas sean mejores que las que se burlan. No difamen ni pongan apodos ofensivos. ¡Qué malo es comportarse como un corrupto[^1] luego de haber sido agraciado con la fe! Quienes no se arrepientan... esos son los injustos.
 
-como un corrupto: Difamando y poniendo apodos ofensivos.
+[^1]: Difamando y poniendo apodos ofensivos.
 
 # 4624
 
@@ -20199,9 +20338,9 @@ como un corrupto: Difamando y poniendo apodos ofensivos.
 
 # 4625
 
-¡Oh, seres humanos! Los he creado a partir de un hombre y de una mujer, y los congregué en pueblos y tribus para que se reconozcan los unos a los otros. El mejor de ustedes ante Dios es el de más piedad. Dios todo lo sabe y está bien informado de lo que hacen.
+¡Oh, seres humanos! Los he creado a partir de un hombre y de una mujer, y los congregué en pueblos y tribus para que se reconozcan los unos a los otros. El mejor de ustedes ante Dios es el de más piedad[^1]. Dios todo lo sabe y está bien informado de lo que hacen.
 
-el de más piedad: La piedad se encuentra en el corazón, por lo tanto el único que puede juzgar cuán piadoso es alguien, es solamente Dios.
+[^1]: La piedad se encuentra en el corazón, por lo tanto el único que puede juzgar cuán piadoso es alguien, es solamente Dios.
 
 # 4626
 
@@ -20209,9 +20348,9 @@ Los beduinos dicen: "Somos creyentes". Diles [¡oh, Mujámmad!]: "Todavía no so
 
 # 4627
 
-Los verdaderos creyentes son quienes creen en Dios y en Su Mensajero, y luego no vacilan; quienes luchan por la causa de Dios con sus bienes materiales y sus personas. Esos son los sinceros.
+Los verdaderos creyentes son quienes creen en Dios y en Su Mensajero, y luego no vacilan; quienes luchan por la causa de Dios con sus bienes materiales y sus personas. Esos son los sinceros[^1].
 
-los sinceros: En la fe.
+[^1]: En la fe.
 
 # 4628
 
@@ -20219,9 +20358,9 @@ Diles [¡oh, Mujámmad!]: "¿Acaso pretenden decirle a Dios en qué creen? Dios 
 
 # 4629
 
-Piensan que te han hecho un favor al abrazar el Islam. Diles [¡oh, Mujámmad!]: "No me mencionen su conversión al Islam como si fuera un favor hacia mí. Porque si fueron sinceros, fue Dios Quien les hizo el favor de guiarlos a la fe".
+Piensan que te han hecho un favor al abrazar el Islam. Diles [¡oh, Mujámmad!]: "No me mencionen su conversión al Islam como si fuera un favor hacia mí. Porque si fueron sinceros[^1], fue Dios Quien les hizo el favor de guiarlos a la fe".
 
-Porque si fueron sinceros: Al momento de pronunciar su testimonio de fe.
+[^1]: Al momento de pronunciar su testimonio de fe.
 
 # 4630
 
@@ -20273,28 +20412,29 @@ como sustento para los siervos. Así como doy vida con la lluvia a la tierra ár
 
 # 4642
 
-Antes que ellos ya lo habían hecho el pueblo de Noé, los habitantes de Rass y Zamud,
+Antes que ellos ya lo habían hecho[^1] el pueblo de Noé, los habitantes de Rass y Zamud,
 
-ya lo habían hecho: Negarse a creer en el Mensaje de los Profetas.
+[^1]: Negarse a creer en el Mensaje de los Profetas.
 
 # 4643
 
-y los habitantes de ‘Ad, el pueblo del Faraón y los hermanos de Lot,
+y los habitantes de ‘Ad, el pueblo del Faraón y los hermanos[^1] de Lot,
 
-los hermanos: Referencia al pueblo de Lot, no a sus hermanos biológicos.
+[^1]: Referencia al pueblo de Lot, no a sus hermanos biológicos.
 
 # 4644
 
-y los habitantes de los valles boscosos y el pueblo de Tubba’. Todos desmintieron a sus Mensajeros, y entonces se cumplió Mi advertencia.
+y los habitantes de los valles boscosos[^1] y el pueblo de Tubba’[^2]. Todos desmintieron a sus Mensajeros, y entonces se cumplió Mi advertencia.
 
-habitantes de los valles boscosos: El pueblo de Jetró.
-Tubba’: Rey del Yemen.
+[^1]: El pueblo de Jetró.
+
+[^2]: Rey del Yemen.
 
 # 4645
 
-¿Acaso fallé al crearlos por primera vez? Pero a pesar de eso dudan de una nueva creación.
+¿Acaso fallé al crearlos por primera vez? Pero a pesar de eso dudan de una nueva creación.[^1]
 
-La resurrección.
+[^1]: La resurrección.
 
 # 4646
 
@@ -20326,9 +20466,9 @@ Cada hombre se presentará acompañado por un ángel que lo conduzca y otro que 
 
 # 4653
 
-El que lo acompañó durante su vida dirá: "Esto es lo que he registrado".
+El[^1] que lo acompañó durante su vida dirá: "Esto es lo que he registrado".
 
-El: El ángel que registró sus obras.
+[^1]: El ángel que registró sus obras.
 
 # 4654
 
@@ -20344,16 +20484,17 @@ y asoció divinidades a Dios [en la adoración]. ¡Arrójenlo al castigo severo!
 
 # 4657
 
-Dirá el que le susurró toda su vida: "¡Oh, Señor nuestro! Yo no lo desvié, sino que él estaba en un profundo extravío".
+Dirá el[^1] que le susurró toda su vida: "¡Oh, Señor nuestro! Yo no lo desvié, sino que él estaba en un profundo extravío".
 
-Dirá el: El demonio que lo acompañó toda su vida susurrándole.
+[^1]: El demonio que lo acompañó toda su vida susurrándole.
 
 # 4658
 
-Dirá: "No discutan ante Mí, ya les había advertido sobre esto.
+Dirá[^1]: "No discutan ante Mí, ya les había advertido sobre esto[^2].
 
-Dirá: Dios. 
-sobre esto: Sobre el Día del Juicio Final.
+[^1]: Dios.
+
+[^2]: Sobre el Día del Juicio Final.
 
 # 4659
 
@@ -20361,9 +20502,9 @@ Mi designio es irrevocable, pero Yo no soy injusto con Mis siervos.
 
 # 4660
 
-Ese día le diré al Infierno: "¿Ya te has llenado?" Y exclamará: "No. ¿Aún hay más?"
+Ese día le diré al Infierno: "¿Ya te has llenado?[^1]" Y exclamará: "No. ¿Aún hay más?"
 
-¿Ya te has llenado?: De gente que merezca estar allí.
+[^1]: De gente que merezca estar allí.
 
 # 4661
 
@@ -20371,16 +20512,17 @@ Y el Paraíso será presentado a los piadosos, y no estará distante.
 
 # 4662
 
-[Será dicho:] "Esto es lo que se había prometido para todos los que vuelven a Dios, son cumplidores,
+[Será dicho:] "Esto es lo que se había prometido para todos los que vuelven a Dios[^1], son cumplidores[^2],
 
-vuelven a Dios: Volver a Dios arrepentido luego de haber cometido un pecado. 
- son cumplidores: De los preceptos de Dios.
+[^1]: Volver a Dios arrepentido luego de haber cometido un pecado.
+
+[^2]: De los preceptos de Dios.
 
 # 4663
 
-tienen temor del Compasivo en privado, y se presentan con un corazón obediente.
+tienen temor del Compasivo en privado, y se presentan con un corazón obediente[^1].
 
-corazón obediente: A Dios.
+[^1]: A Dios.
 
 # 4664
 
@@ -20388,16 +20530,17 @@ Ingresen al Paraíso en paz, este día comienza la eternidad.
 
 # 4665
 
-Tendrán en él cuanto anhelen, y les tengo reservada una recompensa aun mayor".
+Tendrán en él cuanto anhelen, y les tengo reservada una recompensa aun mayor".[^1]
 
-La contemplación de Dios mismo.
+[^1]: La contemplación de Dios mismo.
 
 # 4666
 
-¿A cuántas generaciones más poderosas que ellos he destruido en la antigüedad? Recorrieron tierras buscando escapar, pero, ¿acaso se puede escapar?
+¿A cuántas generaciones más poderosas que ellos[^1] he destruido en la antigüedad? Recorrieron tierras buscando escapar[^2], pero, ¿acaso se puede escapar?
 
-que ellos: Los que se niegan a aceptar el Mensaje que transmite el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él.
-escapar: De Dios.
+[^1]: Los que se niegan a aceptar el Mensaje que transmite el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él.
+
+[^2]: De Dios.
 
 # 4667
 
@@ -20405,9 +20548,9 @@ En esto hay un motivo de reflexión para quienes tienen uso de razón y prestan 
 
 # 4668
 
-Creé los cielos y la Tierra y todo cuanto existe entre ambos en seis eras, sin sufrir cansancio.
+Creé los cielos y la Tierra y todo cuanto existe entre ambos en seis eras, sin sufrir cansancio.[^1]
 
-El cansancio es una cualidad de los seres imperfectos, no de Dios.
+[^1]: El cansancio es una cualidad de los seres imperfectos, no de Dios.
 
 # 4669
 
@@ -20415,15 +20558,15 @@ Ten paciencia [¡oh, Mujámmad!] ante sus palabras ofensivas, y glorifica con al
 
 # 4670
 
-y glorifícalo por la noche, y después de cada prosternación.
+y glorifícalo por la noche, y después de cada prosternación.[^1]
 
-Alusión a las cinco oraciones obligatorias diarias.
+[^1]: Alusión a las cinco oraciones obligatorias diarias.
 
 # 4671
 
-Mantente siempre alerta del día que convoque el pregonero desde un lugar cercano;
+Mantente siempre alerta del día que convoque el pregonero[^1] desde un lugar cercano;
 
-el pregonero: El ángel encargado de soplar la trompeta para dar inicio al Día de la Resurrección.
+[^1]: El ángel encargado de soplar la trompeta para dar inicio al Día de la Resurrección.
 
 # 4672
 
@@ -20435,9 +20578,9 @@ Yo doy la vida y la muerte, y a Mí será el retorno.
 
 # 4674
 
-Ese día la tierra se abrirá, y saldrán [de las tumbas] presurosos. Eso es fácil para Mí.
+Ese día la tierra se abrirá, y saldrán [de las tumbas] presurosos[^1]. Eso es fácil para Mí.
 
-saldrán [de las tumbas] presurosos: Hacia el lugar donde se desarrolla el Juicio Final.
+[^1]: Hacia el lugar donde se desarrolla el Juicio Final.
 
 # 4675
 
@@ -20469,9 +20612,9 @@ y que el juicio es inevitable.
 
 # 4682
 
-Y [juro] por el cosmos surcado de [planetas en] órbitas
+Y [juro] por el cosmos surcado de [planetas en] órbitas[^1]
 
-Ver Corán 21:33, 35:13, 36:40.
+[^1]: 33, 35:13, 36:40.
 
 # 4683
 
@@ -20483,21 +20626,21 @@ de la que solo se distancian quienes están desviados en su pensamiento.
 
 # 4685
 
-¡Pobres aquellos que solo conjeturan sobre lo que no pueden comprobar!
+¡Pobres aquellos que solo conjeturan sobre lo que no pueden comprobar![^1]
 
-Excepto a través de la revelación.
+[^1]: Excepto a través de la revelación.
 
 # 4686
 
-Los que están sumidos en la ignorancia,
+Los que están sumidos en la ignorancia,[^1]
 
-Y no piensan sobre la gravedad de la vida en el más allá.
+[^1]: Y no piensan sobre la gravedad de la vida en el más allá.
 
 # 4687
 
-y preguntan: "¿Cuándo será el Día del Juicio?"
+y preguntan[^1]: "¿Cuándo será el Día del Juicio?"
 
-y preguntan: Burlándose de ti.
+[^1]: Burlándose de ti.
 
 # 4688
 
@@ -20517,9 +20660,9 @@ Disfrutarán lo que Su Señor les conceda, porque en la vida mundanal hacían el
 
 # 4692
 
-dormían poco por las noches,
+dormían poco por las noches,[^1]
 
-Porque se dedicaban a adorar a Dios en oración y en la lectura del Corán.
+[^1]: Porque se dedicaban a adorar a Dios en oración y en la lectura del Corán.
 
 # 4693
 
@@ -20531,21 +20674,21 @@ y daban de su dinero lo que era derecho para el mendigo y el indigente.
 
 # 4695
 
-En la Tierra hay signos para quienes tienen certeza interior.
+En la Tierra hay signos[^1] para quienes tienen certeza interior.
 
-En la Tierra hay signos: Sobre la existencia y unicidad de Dios.
+[^1]: Sobre la existencia y unicidad de Dios.
 
 # 4696
 
-También en ustedes mismos. ¿Es que no ven?
+También[^1] en ustedes mismos. ¿Es que no ven?
 
-También: Hay signos.
+[^1]: Hay signos.
 
 # 4697
 
-En el cielo se encuentra [la fuente de] su sustento y lo que les fue prometido.
+En el cielo se encuentra [la fuente de] su sustento y lo que les fue prometido.[^1]
 
-Es decir, Quien les concede el sustento en este mundo y Quien los recompensará por sus buenas obras.
+[^1]: Es decir, Quien les concede el sustento en este mundo y Quien los recompensará por sus buenas obras.
 
 # 4698
 
@@ -20553,9 +20696,9 @@ Es decir, Quien les concede el sustento en este mundo y Quien los recompensará 
 
 # 4699
 
-Te relataremos la historia de los huéspedes honorables de Abraham:
+Te relataremos la historia de los huéspedes honorables[^1] de Abraham:
 
-los huéspedes honorables: Eran tres ángeles con forma humana que lo visitaron.
+[^1]: Eran tres ángeles con forma humana que lo visitaron.
 
 # 4700
 
@@ -20571,9 +20714,9 @@ y se los ofreció [asado]. Pero [al ver que no comían] les dijo: "¿Acaso no va
 
 # 4703
 
-y sintió temor de ellos. Pero le dijeron: "No temas", y le albriciaron que tendría un hijo dotado de sabiduría.
+y sintió temor de ellos. Pero le dijeron: "No temas", y le albriciaron que tendría un hijo dotado de sabiduría[^1].
 
-un hijo dotado de sabiduría: Isaac.
+[^1]: Isaac.
 
 # 4704
 
@@ -20589,9 +20732,9 @@ Dijo [Abraham]: "¡Oh, emisarios! ¿Cuál es su misión?"
 
 # 4707
 
-Dijeron: "Fuimos enviados a un pueblo de criminales
+Dijeron: "Fuimos enviados a un pueblo de criminales[^1]
 
-El pueblo de Lot.
+[^1]: El pueblo de Lot.
 
 # 4708
 
@@ -20607,9 +20750,9 @@ Pero debemos sacar de allí a los creyentes".
 
 # 4711
 
-Solo había un hogar de creyentes.
+Solo había un hogar de creyentes.[^1]
 
-La familia de Lot y sus dos hijas, excepto su esposa.
+[^1]: La familia de Lot y sus dos hijas, excepto su esposa.
 
 # 4712
 
@@ -20617,9 +20760,9 @@ Allí dejé un signo para que reflexionen quienes tienen temor del castigo dolor
 
 # 4713
 
-También en la historia de Moisés. Porque lo envié ante el Faraón con una autoridad clara.
+También en la historia de Moisés[^1]. Porque lo envié ante el Faraón con una autoridad clara.
 
-en la historia de Moisés: Hay signos para quienes reflexionan.
+[^1]: Hay signos para quienes reflexionan.
 
 # 4714
 
@@ -20627,15 +20770,15 @@ Pero él y sus partidarios lo rechazaron y le dijeron: "Eres un hechicero o un l
 
 # 4715
 
-Entonces, lo castigué a él y a sus partidarios ahogándolos en el mar; él fue el culpable.
+Entonces, lo castigué a él y a sus partidarios ahogándolos en el mar; él fue el culpable[^1].
 
-el culpable: De su propio final.
+[^1]: De su propio final.
 
 # 4716
 
-Y también en el pueblo de ‘Ad. Envié contra ellos un viento devastador,
+Y también en el pueblo de ‘Ad[^1]. Envié contra ellos un viento devastador,
 
-en el pueblo de ‘Ad: Hay signos para quienes reflexionan en la historia.
+[^1]: Hay signos para quienes reflexionan en la historia.
 
 # 4717
 
@@ -20659,9 +20802,9 @@ El pueblo de Noé [también fue castigado] porque era gente perversa.
 
 # 4722
 
-Yo soy Quien construí el universo con [Mi] poder [creador]; y soy Yo quien lo expande continuamente.
+Yo soy Quien construí el universo con [Mi] poder [creador]; y soy Yo quien lo expande continuamente.[^1]
 
-En el Corán, revelado hace catorce siglos, en una época en que la ciencia astronómica era todavía muy primitiva, la expansión del universo está descrita de esta forma: La palabra “samaa سماء “, como figura en el versículo, es utilizada en varios lugares del Corán con el significado de cielo, espacio y universo. Aquí se utiliza con este último sentido y estableciendo que el universo se “expande” como lo describe la palabra “lamusi’un لموسعون “. Y esta es precisamente la conclusión a la cual ha llegado la ciencia actualmente. A comienzos del siglo XX, el físico ruso Alexander Friedmann y el cosmólogo belga Georges Lemaitre, calcularon teóricamente que el universo está en movimiento continuo y que se está expandiendo. Este hecho fue probado también mediante observaciones directas en 1929. Observando el cielo con un telescopio, Edwin Hubble, astrónomo estadounidense, descubrió que las estrellas y galaxias están separándose constantemente unas de otras. Un universo en donde todo está separándose implica un cosmos en expansión. Las observaciones realizadas en los años siguientes corroboran que el universo está expandiéndose constantemente. Este hecho fue explicado en el Corán cuando todavía era desconocido para todos, porque el Corán es la Palabra de Dios, el Creador y Soberano del universo.
+[^1]: La palabra “samaa سماء “, como figura en el versículo, es utilizada en varios lugares del Corán con el significado de cielo, espacio y universo. Aquí se utiliza con este último sentido y estableciendo que el universo se “expande” como lo describe la palabra “lamusi’un لموسعون “. Y esta es precisamente la conclusión a la cual ha llegado la ciencia actualmente. A comienzos del siglo XX, el físico ruso Alexander Friedmann y el cosmólogo belga Georges Lemaitre, calcularon teóricamente que el universo está en movimiento continuo y que se está expandiendo. Este hecho fue probado también mediante observaciones directas en 1929. Observando el cielo con un telescopio, Edwin Hubble, astrónomo estadounidense, descubrió que las estrellas y galaxias están separándose constantemente unas de otras. Un universo en donde todo está separándose implica un cosmos en expansión. Las observaciones realizadas en los años siguientes corroboran que el universo está expandiéndose constantemente. Este hecho fue explicado en el Corán cuando todavía era desconocido para todos, porque el Corán es la Palabra de Dios, el Creador y Soberano del universo.
 
 # 4723
 
@@ -20697,9 +20840,9 @@ Y hazles recordar, porque el recuerdo beneficia a los creyentes.
 
 # 4731
 
-No he creado a los yinnes y a los seres humanos sino para que Me adoren.
+No he creado a los yinnes y a los seres humanos sino para que Me adoren.[^1]
 
-Este versículo evidencia el objetivo de la creación del ser humano y de los yinnes –las dos criaturas con libre albedrío–, que es adorar y servir a Dios.
+[^1]: Este versículo evidencia el objetivo de la creación del ser humano y de los yinnes –las dos criaturas con libre albedrío–, que es adorar y servir a Dios.
 
 # 4732
 
@@ -20715,15 +20858,15 @@ Los injustos recibirán su castigo al igual que sus antepasados, así que no Me 
 
 # 4735
 
-¡Cuán desdichados serán los que negaron la verdad el día que se les ha prometido!
+¡Cuán desdichados serán los que negaron la verdad el día que se les ha prometido![^1]
 
-El Día del Juicio Final, cuando tengan que responder por sus obras y su negativa a seguir el Mensaje.
+[^1]: El Día del Juicio Final, cuando tengan que responder por sus obras y su negativa a seguir el Mensaje.
 
 # 4736
 
-[Juro] por el monte,
+[Juro] por el monte,[^1]
 
-El Monte Sinaí, donde Moisés recibió la revelación.
+[^1]: El Monte Sinaí, donde Moisés recibió la revelación.
 
 # 4737
 
@@ -20731,15 +20874,15 @@ por el Libro escrito
 
 # 4738
 
-en un pergamino desplegado,
+en un pergamino desplegado,[^1]
 
-El Libro puede ser la Tora, originalmente revelada a Moisés o, según algunos exégetas, es la Tabla Preservada.
+[^1]: El Libro puede ser la Tora, originalmente revelada a Moisés o, según algunos exégetas, es la Tabla Preservada.
 
 # 4739
 
-por la casa frecuentada,
+por la casa frecuentada,[^1]
 
-Es una casa creada para la adoración de Dios en el Cielo, que es exactamente igual a la Ka’bah y es frecuentada por ángeles.
+[^1]: Es una casa creada para la adoración de Dios en el Cielo, que es exactamente igual a la Ka’bah y es frecuentada por ángeles.
 
 # 4740
 
@@ -20823,15 +20966,15 @@ Serán rodeados por sirvientes, bellos como perlas guardadas.
 
 # 4760
 
-Y [los bienaventurados] se preguntarán unos a otros.
+Y [los bienaventurados] se preguntarán unos a otros.[^1]
 
-Se preguntarán qué les hizo merecer el Paraíso.
+[^1]: Se preguntarán qué les hizo merecer el Paraíso.
 
 # 4761
 
-Dirán: "Cuando estábamos viviendo junto a nuestra familia, teníamos temor,
+Dirán: "Cuando estábamos viviendo junto a nuestra familia, teníamos temor,[^1]
 
-De caer en lo que desagrada a Dios.
+[^1]: De caer en lo que desagrada a Dios.
 
 # 4762
 
@@ -20843,15 +20986,15 @@ A Él le suplicábamos, pues Él es el Bondadoso, el Misericordioso".
 
 # 4764
 
-Llama al Mensaje [¡oh, Mujámmad!], tú no eres, por la gracia de tu Señor, un adivino ni un loco.
+Llama al Mensaje [¡oh, Mujámmad!], tú no eres, por la gracia de tu Señor, un adivino ni un loco.[^1]
 
-Dios defiende al Profeta de dos acusaciones que le hacían los incrédulos.
+[^1]: Dios defiende al Profeta de dos acusaciones que le hacían los incrédulos.
 
 # 4765
 
-O te acusan diciendo: "Es un poeta, esperemos a que le llegue la muerte".
+O te acusan diciendo: "Es un poeta, esperemos a que le llegue la muerte".[^1]
 
-Y así nos libraremos de él.
+[^1]: Y así nos libraremos de él.
 
 # 4766
 
@@ -20863,9 +21006,9 @@ Diles: "Sigan esperando, que yo esperaré junto a ustedes".
 
 # 4768
 
-También dicen: "Él lo ha inventado". Pero la verdad es que no creen.
+También dicen: "Él lo ha inventado". Pero la verdad es que no creen.[^1]
 
-“Él lo ha inventado”: Al Corán.
+[^1]: Al Corán.
 
 # 4769
 
@@ -20873,9 +21016,9 @@ También dicen: "Él lo ha inventado". Pero la verdad es que no creen.
 
 # 4770
 
-¿Acaso surgieron de la nada o son ellos sus propios creadores?
+¿Acaso surgieron de la nada[^1] o son ellos sus propios creadores?
 
-surgieron de la nada: Sin Creador que los creara.
+[^1]: Sin Creador que los creara.
 
 # 4771
 
@@ -20891,16 +21034,17 @@ surgieron de la nada: Sin Creador que los creara.
 
 # 4774
 
-¿Acaso a Dios Le pertenecen las hijas mujeres y a ellos los hijos varones?
+¿Acaso a Dios Le pertenecen las hijas mujeres[^1] y a ellos los hijos varones?
 
-las hijas mujeres: Ver Corán 16:57.
+[^1]: Ver Corán 16:57.
 
 # 4775
 
-¿O acaso tú [¡oh, Mujámmad!] les pides una retribución que hace que se vean abrumados por las deudas?
+¿O acaso tú [¡oh, Mujámmad!] les pides una retribución[^1] que hace que se vean abrumados por las deudas[^2]?
 
-una retribución: Por trasmitirles el Mensaje. 
- abrumados por las deudas: Y por eso se nieguen a creer.
+[^1]: Por trasmitirles el Mensaje.
+
+[^2]: Y por eso se nieguen a creer.
 
 # 4776
 
@@ -20944,9 +21088,9 @@ por la noche y al ocultarse las estrellas.
 
 # 4786
 
-que su compañero no se ha extraviado ni está en un error,
+que su compañero[^1] no se ha extraviado ni está en un error,
 
-su compañero: El Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él.
+[^1]: El Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él.
 
 # 4787
 
@@ -20962,9 +21106,9 @@ Aquello que le enseñó el dotado de poder
 
 # 4790
 
-y fortaleza, cuando se le presentó en su forma verdadera
+y fortaleza, cuando se le presentó en su forma verdadera[^1]
 
-cuando se le presentó en su forma verdadera : El ángel Gabriel.
+[^1]: El ángel Gabriel.
 
 # 4791
 
@@ -20984,9 +21128,9 @@ Entonces [Dios] le inspiró a Su siervo la revelación.
 
 # 4795
 
-El corazón no desmintió lo que había visto.
+El corazón[^1] no desmintió lo que había visto.
 
-El corazón: Del Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él.
+[^1]: Del Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él.
 
 # 4796
 
@@ -20994,9 +21138,9 @@ El corazón: Del Profeta Mujámmad, que la paz y las bendiciones de Dios sean co
 
 # 4797
 
-Sepan que ya lo había visto en otro descenso,
+Sepan que ya lo había visto[^1] en otro descenso,
 
-lo había visto: Al ángel Gabriel.
+[^1]: Al ángel Gabriel.
 
 # 4798
 
@@ -21024,9 +21168,9 @@ Porque contempló algunos de los signos más sublimes de su Señor.
 
 # 4804
 
-y a Manat, la tercera?
+y a Manat, la tercera?[^1]
 
-Estos eran los nombres de tres ídolos femeninos de los árabes paganos.
+[^1]: Estos eran los nombres de tres ídolos femeninos de los árabes paganos.
 
 # 4805
 
@@ -21046,15 +21190,15 @@ Esa es una división injusta.
 
 # 4809
 
-A Dios le pertenecen esta vida y la otra.
+A Dios le pertenecen esta vida y la otra.[^1]
 
-Dios le concede lo que quiere a quien Le place en este mundo y el otro.
+[^1]: Dios le concede lo que quiere a quien Le place en este mundo y el otro.
 
 # 4810
 
-¿Cuántos ángeles hay en los cielos cuya intercesión no servirá de nada, salvo que Dios lo permita en favor de quien Él quiera y de quien esté complacido?
+¿Cuántos ángeles hay en los cielos cuya intercesión[^1] no servirá de nada, salvo que Dios lo permita en favor de quien Él quiera y de quien esté complacido?
 
-cuya intercesión: La intercesión de los ángeles por las personas tiene lugar el Día del Juicio Final; y acorde a las reglas del monoteísmo teológico, debe ser solicitado a Dios que los ángeles intercedan por nosotros, y no se debe pedir a los ángeles directamente su intercesión.
+[^1]: La intercesión de los ángeles por las personas tiene lugar el Día del Juicio Final; y acorde a las reglas del monoteísmo teológico, debe ser solicitado a Dios que los ángeles intercedan por nosotros, y no se debe pedir a los ángeles directamente su intercesión.
 
 # 4811
 
@@ -21070,9 +21214,9 @@ Apártate de quienes rechazan Mi Mensaje y no desean sino [el materialismo de] l
 
 # 4814
 
-Ese es el único conocimiento que les interesa alcanzar. Tu Señor bien sabe quién se extravía de Su camino y quién se encamina.
+Ese es el único conocimiento que les interesa alcanzar[^1]. Tu Señor bien sabe quién se extravía de Su camino y quién se encamina.
 
-que les interesa alcanzar: El de cómo progresar en la vida mundanal para obtener más y más dinero.
+[^1]: El de cómo progresar en la vida mundanal para obtener más y más dinero.
 
 # 4815
 
@@ -21092,9 +21236,9 @@ da poco en caridad y es tacaño?
 
 # 4819
 
-¿Acaso tiene conocimiento de lo oculto y puede ver [lo que sucederá en el Más Allá]?
+¿Acaso tiene conocimiento de lo oculto y puede ver [lo que sucederá en el Más Allá]?[^1]
 
-Los últimos tres versículos relatan la historia de una persona que concierta con un pagano, a cambio de una cantidad de dinero, que este asuma sus pecados en el Más Allá; pero Dios lo recrimina porque, conociendo el Islam, lo abandona por una falsa promesa de que alguien cargaría con sus pecados, lo cual contradice la revelación.
+[^1]: Los últimos tres versículos relatan la historia de una persona que concierta con un pagano, a cambio de una cantidad de dinero, que este asuma sus pecados en el Más Allá; pero Dios lo recrimina porque, conociendo el Islam, lo abandona por una falsa promesa de que alguien cargaría con sus pecados, lo cual contradice la revelación.
 
 # 4820
 
@@ -21134,9 +21278,9 @@ y que ante tu Señor se ha de comparecer finalmente.
 
 # 4829
 
-Él ha creado la pareja: el macho y la hembra,
+Él ha creado la pareja: el macho y la hembra,[^1]
 
-Dios evidencia que esta es la naturaleza original de la creación, un hombre y una mujer, y que toda otra “elección” de pareja distinta a esta, es por lo que fue castigado el pueblo de Lot.
+[^1]: Dios evidencia que esta es la naturaleza original de la creación, un hombre y una mujer, y que toda otra “elección” de pareja distinta a esta, es por lo que fue castigado el pueblo de Lot.
 
 # 4830
 
@@ -21152,9 +21296,9 @@ de una gota de esperma eyaculada.
 
 # 4833
 
-Él es el Señor de Sirio,
+Él es el Señor de Sirio[^1],
 
-Sirio: Una estrella que era adorada por algunos árabes.
+[^1]: Una estrella que era adorada por algunos árabes.
 
 # 4834
 
@@ -21170,9 +21314,9 @@ También lo hizo antes con el pueblo de Noé, pues ellos eran más injustos y tr
 
 # 4837
 
-Y a la ciudad que cayó al revés,
+Y a la ciudad que cayó al revés,[^1]
 
-El pueblo de Lot sufrió un castigo ejemplar, en el que las casas fueron elevadas y luego dejadas caer al revés, con sus cimientos hacia arriba.
+[^1]: El pueblo de Lot sufrió un castigo ejemplar, en el que las casas fueron elevadas y luego dejadas caer al revés, con sus cimientos hacia arriba.
 
 # 4838
 
@@ -21184,15 +21328,15 @@ y la cubrió lo que la cubrió.
 
 # 4840
 
-Él es un Profeta como los que lo precedieron.
+Él es un Profeta[^1] como los que lo precedieron.
 
-un Profeta: Mujámmad, que la paz y las bendiciones de Dios sean con él.
+[^1]: Mujámmad, que la paz y las bendiciones de Dios sean con él.
 
 # 4841
 
-La llegada es inminente,
+La llegada[^1] es inminente,
 
-La llegada: Del Día del Juicio.
+[^1]: Del Día del Juicio.
 
 # 4842
 
@@ -21216,9 +21360,9 @@ pero nadie, salvo Dios, tiene conocimiento de cuándo ocurrirá.
 
 # 4847
 
-El Día del Juicio está próximo, y la Luna se parte en dos.
+El Día del Juicio está próximo, y la Luna se parte en dos.[^1]
 
-Cuando los incrédulos de La Meca le pidieron al Profeta Mujámmad ese milagro, Dios hizo que ellos, y otros testigos en el mundo, lo vieran.
+[^1]: Cuando los incrédulos de La Meca le pidieron al Profeta Mujámmad ese milagro, Dios hizo que ellos, y otros testigos en el mundo, lo vieran.
 
 # 4848
 
@@ -21226,16 +21370,17 @@ Pero cuando contemplaron el signo, se rehusaron a creer y dijeron: "Esto es un h
 
 # 4849
 
-Desmintieron y siguieron sus inclinaciones. Pero todo tiene un desenlace definitivo.
+Desmintieron[^1] y siguieron sus inclinaciones. Pero todo tiene un desenlace definitivo[^2].
 
-Desmintieron: El milagro.
-desenlace definitivo: El Día del Juicio Final.
+[^1]: El milagro.
+
+[^2]: El Día del Juicio Final.
 
 # 4850
 
-Ya han recibido suficiente información disuasiva.
+Ya han recibido suficiente información[^1] disuasiva.
 
-suficiente información: Acerca de los milagros de Dios y lo que les ocurrió a los pueblos de la antigüedad que desmintieron a los Profetas.
+[^1]: Acerca de los milagros de Dios y lo que les ocurrió a los pueblos de la antigüedad que desmintieron a los Profetas.
 
 # 4851
 
@@ -21267,9 +21412,9 @@ Entonces abrí las puertas del cielo con un agua torrencial,
 
 # 4858
 
-también hice brotar agua de la tierra y se encontraron las aguas, por un mandato que había sido decretado.
+también hice brotar agua de la tierra y se encontraron las aguas[^1], por un mandato que había sido decretado.
 
-se encontraron las aguas: Las que caían del cielo y las que brotaban de la tierra.
+[^1]: Las que caían del cielo y las que brotaban de la tierra.
 
 # 4859
 
@@ -21277,9 +21422,9 @@ Pero a él lo transporté en una embarcación construida con tablas y clavos,
 
 # 4860
 
-que navegó bajo la protección de Mis ojos. Así recompensé a quien había sido rechazado.
+que navegó bajo la protección de Mis ojos. Así recompensé a quien había sido rechazado.[^1]
 
-El Profeta Noé y su pueblo.
+[^1]: El Profeta Noé y su pueblo.
 
 # 4861
 
@@ -21315,9 +21460,9 @@ He hecho el Corán fácil de entender y memorizar. Pero, ¿habrá alguien que lo
 
 # 4869
 
-El pueblo de Zamud desmintió las advertencias.
+El pueblo de Zamud desmintió las advertencias.[^1]
 
-Que les hizo su Profeta.
+[^1]: Que les hizo su Profeta.
 
 # 4870
 
@@ -21333,16 +21478,17 @@ Dijeron: "¿Acaso vamos a seguir a un ser humano igual a nosotros? Si lo hiciér
 
 # 4873
 
-Les envié la camella como una prueba: "Obsérvalos y ten paciencia,
+Les envié la camella[^1] como una prueba: "Obsérvalos y ten paciencia[^2],
 
-la camella: Ver Corán 7:73. 
-Obsérvalos y ten paciencia : Esta fue la orden de Dios a su Profeta Sálih, enviado a ese pueblo.
+[^1]: Ver Corán 7:73.
+
+[^2]: Esta fue la orden de Dios a su Profeta Sálih, enviado a ese pueblo.
 
 # 4874
 
-e infórmales que el agua debe compartirse, y que deberán respetar su turno".
+e infórmales que el agua debe compartirse[^1], y que deberán respetar su turno".
 
-el agua debe compartirse: Un día ellos y otro la camella.
+[^1]: Un día ellos y otro la camella.
 
 # 4875
 
@@ -21362,9 +21508,9 @@ He hecho el Corán fácil de entender y memorizar. Pero, ¿habrá alguien que lo
 
 # 4879
 
-El pueblo de Lot desmintió la advertencia.
+El pueblo de Lot desmintió la advertencia[^1].
 
-la advertencia: Hecha por su Profeta.
+[^1]: Hecha por su Profeta.
 
 # 4880
 
@@ -21380,9 +21526,9 @@ como una gracia de Mi parte, porque así retribuyo a quienes son agradecidos.
 
 # 4883
 
-y le demandaron [a Lot] que les entregara a sus huéspedes, y entonces cegué sus ojos. ¡Sufran Mi castigo y Mi advertencia!
+y le demandaron [a Lot] que les entregara a sus huéspedes[^1], y entonces cegué sus ojos. ¡Sufran Mi castigo y Mi advertencia!
 
-que les entregara a sus huéspedes: Dios había enviado a la casa de Lot a tres ángeles en forma de jóvenes para anunciarle el castigo de su pueblo. Y los perversos, al saber de la presencia de estos jóvenes, instigaron a Lot para que se los entregara a fin de mantener relaciones homosexuales [no consentidas] con ellos. Por eso, Dios los castigó cegándolos primero y luego descendiendo un castigo sobre toda la ciudad.
+[^1]: Dios había enviado a la casa de Lot a tres ángeles en forma de jóvenes para anunciarle el castigo de su pueblo. Y los perversos, al saber de la presencia de estos jóvenes, instigaron a Lot para que se los entregara a fin de mantener relaciones homosexuales [no consentidas] con ellos. Por eso, Dios los castigó cegándolos primero y luego descendiendo un castigo sobre toda la ciudad.
 
 # 4884
 
@@ -21406,9 +21552,9 @@ pero desmintieron todos Mis signos, y los castigué con un castigo severo, como 
 
 # 4889
 
-¿Acaso los que se niegan a creer entre ustedes son mejores que estos? ¿O tienen alguna Escritura que les proporcione inmunidad?
+¿Acaso los que se niegan a creer entre ustedes son mejores que estos[^1]? ¿O tienen alguna Escritura que les proporcione inmunidad?
 
-mejores que estos: Que estos pueblos que anteriormente fueron destruidos por rechazar a los Profetas.
+[^1]: Que estos pueblos que anteriormente fueron destruidos por rechazar a los Profetas.
 
 # 4890
 
@@ -21420,9 +21566,9 @@ Pero todos ellos serán vencidos y huirán.
 
 # 4892
 
-Mas la Hora será su cita, y ese día será más terrible y amargo aún.
+Mas la Hora será su cita[^1], y ese día será más terrible y amargo aún.
 
-la Hora será su cita: En la cual deberán comparecer a rendir cuentas por sus obras.
+[^1]: En la cual deberán comparecer a rendir cuentas por sus obras.
 
 # 4893
 
@@ -21434,9 +21580,9 @@ El día que sean arrojados de cara al fuego [se les dirá:] "¡Sufran el torment
 
 # 4895
 
-He creado todas las cosas en su justa medida.
+He creado todas las cosas en su justa medida[^1].
 
-justa medida: La palabra árabe “qadar قَدَر ” traducida como “justa medida” también implica el concepto de “predestinación”, y su lectura podría ser: “He creado todas las cosas con una predestinación” o “con un destino”, y Dios sabe más.
+[^1]: La palabra árabe “qadar قَدَر ” traducida como “justa medida” también implica el concepto de “predestinación”, y su lectura podría ser: “He creado todas las cosas con una predestinación” o “con un destino”, y Dios sabe más.
 
 # 4896
 
@@ -21528,9 +21674,9 @@ y creó a los yinnes de fuego puro.
 
 # 4918
 
-El Señor de los dos nacientes y los dos ponientes.
+El Señor de los dos nacientes y los dos ponientes.[^1]
 
-Los solsticios de verano y de invierno, y los equinoccios de primavera y de otoño.
+[^1]: Los solsticios de verano y de invierno, y los equinoccios de primavera y de otoño.
 
 # 4919
 
@@ -21586,9 +21732,9 @@ Lo invocan suplicando todos los que habitan en los cielos y en la Tierra. Todos 
 
 # 4932
 
-Me encargaré de los que cargan con el libre albedrío.
+Me encargaré de los que cargan con el libre albedrío.[^1]
 
-Las dos creaciones que responden por sus obras son los yinnes y los seres humanos.
+[^1]: Las dos creaciones que responden por sus obras son los yinnes y los seres humanos.
 
 # 4933
 
@@ -21596,9 +21742,9 @@ Las dos creaciones que responden por sus obras son los yinnes y los seres humano
 
 # 4934
 
-¡Oh, yinnes y seres humanos! Si pueden traspasar los confines del cielo y de la Tierra, háganlo. Pero sepan que solo podrán traspasarlos con autorización [de Dios].
+¡Oh, yinnes y seres humanos! Si pueden traspasar los confines del cielo y de la Tierra[^1], háganlo. Pero sepan que solo podrán traspasarlos con autorización [de Dios].
 
-traspasar los confines del cielo y de la Tierra: Para huir de Dios.
+[^1]: Para huir de Dios.
 
 # 4935
 
@@ -21614,9 +21760,9 @@ traspasar los confines del cielo y de la Tierra: Para huir de Dios.
 
 # 4938
 
-El cielo se hendirá y se pondrá al rojo vivo como la lava.
+El cielo se hendirá y se pondrá al rojo vivo como la lava.[^1]
 
-El Día del Juicio Final.
+[^1]: El Día del Juicio Final.
 
 # 4939
 
@@ -21624,9 +21770,9 @@ El Día del Juicio Final.
 
 # 4940
 
-Ese día no será necesario preguntarles por sus pecados a los seres humanos ni a los yinnes.
+Ese día no será necesario preguntarles por sus pecados a los seres humanos ni a los yinnes.[^1]
 
-Ya que serán reconocidos por su aspecto.
+[^1]: Ya que serán reconocidos por su aspecto.
 
 # 4941
 
@@ -21634,9 +21780,9 @@ Ya que serán reconocidos por su aspecto.
 
 # 4942
 
-Los pecadores serán reconocidos por su aspecto, y se les tomará por la frente y por los pies.
+Los pecadores serán reconocidos por su aspecto, y se les tomará por la frente y por los pies.[^1]
 
-Para ser arrojados al Infierno.
+[^1]: Para ser arrojados al Infierno.
 
 # 4943
 
@@ -21788,9 +21934,9 @@ Que no fueron tocadas antes por ningún ser humano ni tampoco un yinn.
 
 # 4980
 
-Cuando sobrevenga el suceso
+Cuando sobrevenga el suceso[^1]
 
-El Día del Juicio Final.
+[^1]: El Día del Juicio Final.
 
 # 4981
 
@@ -21798,10 +21944,11 @@ no habrá quién pueda evitarlo.
 
 # 4982
 
-Algunos serán humillados y otros serán honrados.
+Algunos serán humillados[^1] y otros serán honrados[^2].
 
-serán humillados: Con el Infierno. 
- serán honrados: Con el Paraíso.
+[^1]: Con el Infierno.
+
+[^2]: Con el Paraíso.
 
 # 4983
 
@@ -21821,22 +21968,23 @@ serán divididos en tres grupos:
 
 # 4987
 
-Los compañeros de la derecha. ¡Qué afortunados serán los compañeros de la derecha!
+Los compañeros de la derecha[^1]. ¡Qué afortunados serán los compañeros de la derecha!
 
-de la derecha: Serán quienes reciban el registro de sus obras con la mano derecha en señal de aprobación.
+[^1]: Serán quienes reciban el registro de sus obras con la mano derecha en señal de aprobación.
 
 # 4988
 
-Los compañeros de la izquierda. ¡Qué desafortunados serán los compañeros de la izquierda!
+Los compañeros de la izquierda[^1]. ¡Qué desafortunados serán los compañeros de la izquierda!
 
-de la izquierda: Serán quienes reciban el registro de sus obras con la mano izquierda en señal de condena.
+[^1]: Serán quienes reciban el registro de sus obras con la mano izquierda en señal de condena.
 
 # 4989
 
-Y los adelantados. ¡Estos serán los primeros!
+Y los adelantados[^1]. ¡Estos serán los primeros[^2]!
 
-los adelantados: Serán quienes en la vida mundanal se apresuraron a creer en el monoteísmo y a realizar obras de bien. 
-serán los primeros: En entrar al Paraíso.
+[^1]: Serán quienes en la vida mundanal se apresuraron a creer en el monoteísmo y a realizar obras de bien.
+
+[^2]: En entrar al Paraíso.
 
 # 4990
 
@@ -21976,15 +22124,15 @@ que no será fresca ni agradable.
 
 # 5024
 
-Porque se entregaron a los lujos superfluos,
+Porque se entregaron a los lujos superfluos,[^1]
 
-En la vida mundanal.
+[^1]: En la vida mundanal.
 
 # 5025
 
-se aferraron al más terrible pecado
+se aferraron al más terrible pecado[^1]
 
-Atribuir divinidad a otros seres.
+[^1]: Atribuir divinidad a otros seres.
 
 # 5026
 
@@ -21992,9 +22140,9 @@ y preguntaban burlándose: "¿Acaso cuando muramos y ya seamos tierra y huesos, 
 
 # 5027
 
-¿Y nuestros ancestros también?"
+¿Y nuestros ancestros también?"[^1]
 
-¿Serán resucitados?
+[^1]: ¿Serán resucitados?
 
 # 5028
 
@@ -22010,9 +22158,9 @@ Luego, ¡oh, extraviados y desmentidores!,
 
 # 5031
 
-han de comer del árbol del Zaqqum
+han de comer del árbol del Zaqqum[^1]
 
-Un árbol del Infierno. Ver Corán 37:62
+[^1]: 62
 
 # 5032
 
@@ -22084,9 +22232,9 @@ y quedamos en la ruina".
 
 # 5049
 
-Si quisiera la habría hecho salobre, ¿por qué no son agradecidos?
+Si quisiera la habría hecho salobre, ¿por qué no son agradecidos?[^1]
 
-Con Dios.
+[^1]: Con Dios.
 
 # 5050
 
@@ -22098,9 +22246,9 @@ Con Dios.
 
 # 5052
 
-He creado el fuego para que reflexionen, y para beneficio de los viajeros.
+He creado el fuego para que reflexionen[^1], y para beneficio de los viajeros.
 
-para que reflexionen: Acerca del Infierno.
+[^1]: Acerca del Infierno.
 
 # 5053
 
@@ -22120,9 +22268,9 @@ Que este es un Corán Noble,
 
 # 5057
 
-preservado en un libro custodiado,
+preservado en un libro custodiado[^1],
 
-un libro custodiado: La Tabla Protegida o Al-Lauh Al-Mahfudh.
+[^1]: La Tabla Protegida o Al-Lauh Al-Mahfudh.
 
 # 5058
 
@@ -22146,9 +22294,9 @@ Entonces, cuando [el alma] llegue hasta la garganta,
 
 # 5063
 
-y ustedes estén mirándolo,
+y ustedes estén mirándolo,[^1]
 
-Al moribundo, pero no puedan hacer nada para salvarlo.
+[^1]: Al moribundo, pero no puedan hacer nada para salvarlo.
 
 # 5064
 
@@ -22180,9 +22328,9 @@ Y si es de los compañeros de la derecha:
 
 # 5071
 
-Pero si es de los que negaron la Verdad, de los extraviados,
+Pero si es de los que negaron la Verdad, de los extraviados[^1],
 
-de los extraviados: De los compañeros de la izquierda.
+[^1]: De los compañeros de la izquierda.
 
 # 5072
 
@@ -22230,9 +22378,9 @@ Crean en Dios y en Su Mensajero. Hagan caridad de los bienes de los que Él los 
 
 # 5083
 
-¿Qué les sucede que no creen en Dios, siendo que el Mensajero los invita a creer en su Señor y ya tenía un pacto con ustedes? Si es que son creyentes.
+¿Qué les sucede que no creen en Dios, siendo que el Mensajero los invita a creer en su Señor y ya tenía un pacto[^1] con ustedes? Si es que son creyentes.
 
-ya tenía un pacto: Ver Corán 7:172.
+[^1]: Ver Corán 7:172.
 
 # 5084
 
@@ -22240,9 +22388,9 @@ ya tenía un pacto: Ver Corán 7:172.
 
 # 5085
 
-¿Qué les sucede que no aportan a la causa de Dios, siendo que los cielos y la Tierra Le pertenecen a Él? No son iguales quienes hayan aportado y combatido antes de la liberación. Ellos tendrán un rango mayor que quienes hayan aportado y combatido después de la liberación. Pero a todos les ha prometido Dios una hermosa recompensa. Dios está bien informado de cuanto hacen.
+¿Qué les sucede que no aportan a la causa de Dios, siendo que los cielos y la Tierra Le pertenecen a Él? No son iguales quienes hayan aportado y combatido antes de la liberación[^1]. Ellos tendrán un rango mayor que quienes hayan aportado y combatido después de la liberación. Pero a todos les ha prometido Dios una hermosa recompensa. Dios está bien informado de cuanto hacen.
 
-antes de la liberación: De La Meca.
+[^1]: De La Meca.
 
 # 5086
 
@@ -22250,9 +22398,9 @@ antes de la liberación: De La Meca.
 
 # 5087
 
-Ese día verás la luz de los creyentes y de las creyentes irradiar delante de ellos y a su derecha. [Les será dicho]: "¡Hoy son bienaventurados, tendrán jardines por donde corren ríos, en donde vivirán por toda la eternidad! ¡Ese es el triunfo grandioso!"
+Ese día[^1] verás la luz de los creyentes y de las creyentes irradiar delante de ellos y a su derecha. [Les será dicho]: "¡Hoy son bienaventurados, tendrán jardines por donde corren ríos, en donde vivirán por toda la eternidad! ¡Ese es el triunfo grandioso!"
 
-Ese día: El Día del Juicio Final.
+[^1]: El Día del Juicio Final.
 
 # 5088
 
@@ -22260,25 +22408,29 @@ El día que los hipócritas y las hipócritas digan a los creyentes: "¡Aguarden
 
 # 5089
 
-Los llamarán: "¿Acaso no estábamos con ustedes?" Responderán: "¡Sí! Pero sucumbieron a la tentación, estaban vacilantes y dudaron. Se dejaron seducir por las falsas esperanzas hasta que les llegó la orden de Dios. Finalmente el Seductor los engañó acerca de Dios.
+Los llamarán[^1]: "¿Acaso no estábamos con ustedes?" Responderán[^2]: "¡Sí! Pero sucumbieron a la tentación, estaban vacilantes y dudaron[^3]. Se dejaron seducir por las falsas esperanzas hasta que les llegó la orden de Dios[^4]. Finalmente el Seductor los engañó acerca de Dios.
 
-Los llamarán: Los hipócritas a los creyentes.
-Responderán: Los creyentes. 
-dudaron: Del Mensaje.
-la orden de Dios: El momento establecido para la muerte.
+[^1]: Los hipócritas a los creyentes.
+
+[^2]: Los creyentes.
+
+[^3]: Del Mensaje.
+
+[^4]: El momento establecido para la muerte.
 
 # 5090
 
-Hoy no será aceptado ningún rescate por ustedes ni por los que se negaron a creer. Su morada será el Infierno, porque es lo que merecen. ¡Qué pésimo destino!
+Hoy no será aceptado ningún rescate[^1] por ustedes[^2] ni por los que se negaron a creer. Su morada será el Infierno, porque es lo que merecen. ¡Qué pésimo destino!
 
-ningún rescate: No será aceptado ningún rescate para que pudieran salvarse del castigo del Infierno. 
-por ustedes: Los hipócritas.
+[^1]: No será aceptado ningún rescate para que pudieran salvarse del castigo del Infierno.
+
+[^2]: Los hipócritas.
 
 # 5091
 
-¿Acaso no es hora de que los creyentes subyuguen sus corazones al recuerdo de Dios y a la Verdad que ha sido revelada, y que no sean como quienes recibieron el Libro anteriormente? A estos, a medida que transcurría el tiempo, se les endurecía el corazón. Muchos de ellos eran corruptos.
+¿Acaso no es hora de que los creyentes subyuguen sus corazones al recuerdo de Dios y a la Verdad que ha sido revelada, y que no sean como quienes recibieron el Libro anteriormente[^1]? A estos, a medida que transcurría el tiempo, se les endurecía el corazón. Muchos de ellos eran corruptos.
 
-como quienes recibieron el Libro anteriormente: Judíos y cristianos, entre otros pueblos.
+[^1]: Judíos y cristianos, entre otros pueblos.
 
 # 5092
 
@@ -22286,9 +22438,9 @@ Sepan que Dios da vida a la tierra árida. Les explico estos signos para que ref
 
 # 5093
 
-A los [hombres] que dan caridad y a las [mujeres] que dan caridad, que aportaron con sus bienes a la causa de Dios, les será multiplicado y serán recompensados generosamente.
+A los [hombres] que dan caridad y a las [mujeres] que dan caridad, que aportaron con sus bienes a la causa de Dios, les será multiplicado[^1] y serán recompensados generosamente.
 
-les será multiplicado: Recibirán más de lo que dieron.
+[^1]: Recibirán más de lo que dieron.
 
 # 5094
 
@@ -22304,9 +22456,9 @@ Sepan que la vida mundanal es juego, diversión, encanto, ostentación y rivalid
 
 # 5097
 
-No sucede ninguna desgracia en la Tierra, ni a ustedes los azota adversidad alguna sin que esté registrada en un libro antes de que suceda. Eso es fácil para Dios.
+No sucede ninguna desgracia en la Tierra, ni a ustedes los azota adversidad alguna sin que esté registrada en un libro[^1] antes de que suceda. Eso es fácil para Dios.
 
-en un libro: La Tabla Protegida o Al-Lauh Al-Mahfudh.
+[^1]: La Tabla Protegida o Al-Lauh Al-Mahfudh.
 
 # 5098
 
@@ -22314,15 +22466,15 @@ No se depriman por lo que pierdan y no se regocijen con arrogancia por lo que se
 
 # 5099
 
-que son mezquinos e incitan a la gente a ser avara. Quien rechace sepa que Dios prescinde de todas las criaturas, y Él es el Opulento, el Loable.
+que son mezquinos e incitan a la gente a ser avara. Quien rechace[^1] sepa que Dios prescinde de todas las criaturas, y Él es el Opulento, el Loable.
 
-Quien rechace: Obedecer a Dios.
+[^1]: Obedecer a Dios.
 
 # 5100
 
-Envié a Mis Mensajeros con las pruebas evidentes e hice descender con ellos el Libro y la balanza de la justicia para que la gente establezca la equidad. Hice descender el hierro, en el que hay gran poder y beneficio para la gente. Para que Dios distinga a quienes se esfuercen sinceramente por Su causa y la de Sus Mensajeros. Dios es Fortísimo, Poderoso.
+Envié a Mis Mensajeros con las pruebas evidentes e hice descender con ellos el Libro y la balanza de la justicia para que la gente establezca la equidad. Hice descender el hierro[^1], en el que hay gran poder y beneficio para la gente. Para que Dios distinga a quienes se esfuercen sinceramente por Su causa y la de Sus Mensajeros. Dios es Fortísimo, Poderoso.
 
-Hice descender el hierro: A la palabra “anzalna أنزلنا “, traducida como “hice descender” y utilizada en referencia al hierro en este versículo, podría atribuírsele un significando metafórico para explicar que el hierro ha sido concedido por Dios para beneficiar a las personas. Sin embargo, cuando tomamos en consideración el significado literal de dicha palabra, es decir, que fue enviado físicamente desde el cielo –ya que esta palabra es utilizada en el Corán únicamente en sentido literal, como cuando Dios se refiere al descender de la lluvia o de la revelación–, comprendemos que este versículo implica un milagro científico muy importante, ya que los modernos hallazgos de la astronomía demuestran que el hierro encontrado en nuestro planeta proviene de una estrella gigante del espacio exterior.
+[^1]: A la palabra “anzalna أنزلنا “, traducida como “hice descender” y utilizada en referencia al hierro en este versículo, podría atribuírsele un significando metafórico para explicar que el hierro ha sido concedido por Dios para beneficiar a las personas. Sin embargo, cuando tomamos en consideración el significado literal de dicha palabra, es decir, que fue enviado físicamente desde el cielo –ya que esta palabra es utilizada en el Corán únicamente en sentido literal, como cuando Dios se refiere al descender de la lluvia o de la revelación–, comprendemos que este versículo implica un milagro científico muy importante, ya que los modernos hallazgos de la astronomía demuestran que el hierro encontrado en nuestro planeta proviene de una estrella gigante del espacio exterior.
 
 # 5101
 
@@ -22338,9 +22490,9 @@ Después de ellos envié a Mis Mensajeros: a Jesús, hijo de María, le revelé 
 
 # 5104
 
-Que la Gente del Libro sepan que carecen de privilegios ante Dios. Los favores están en manos de Dios, y Él los concede a quien quiere. Dios es el poseedor del favor inmenso.
+Que la Gente del Libro sepan que carecen de privilegios ante Dios[^1]. Los favores están en manos de Dios, y Él los concede a quien quiere. Dios es el poseedor del favor inmenso.
 
-carecen de privilegios ante Dios: Referencia a los que se autodenominan ser los elegidos de Dios, ya sea por pertenecer a un supuesto pueblo elegido o por creer que por el simple hecho de aceptar a “Jesucristo” como su señor y salvador serán salvos, sin importar cuáles hayan sido sus obras.
+[^1]: Referencia a los que se autodenominan ser los elegidos de Dios, ya sea por pertenecer a un supuesto pueblo elegido o por creer que por el simple hecho de aceptar a “Jesucristo” como su señor y salvador serán salvos, sin importar cuáles hayan sido sus obras.
 
 # 5105
 
@@ -22352,17 +22504,19 @@ Quienes digan a sus mujeres: "¡Eres para mí tan ilícita como mi madre!" Sepan
 
 # 5107
 
-Quienes repudien a su mujer diciéndole: "¡Eres para mí tan ilícita como mi madre!", y luego se retracten, deberán liberar a un esclavo antes de poder cohabitar. Así es como se los escarmienta. Sepan que Dios está bien informado de cuanto hacen.
+Quienes repudien a su mujer diciéndole: "¡Eres para mí tan ilícita como mi madre!", y luego se retracten, deberán liberar a un esclavo[^1] antes de poder cohabitar. Así es como se los escarmienta. Sepan que Dios está bien informado de cuanto hacen.
 
-liberar a un esclavo: Como expiación.
+[^1]: Como expiación.
 
 # 5108
 
-Pero quien no pueda hacerlo, deberá ayunar dos meses consecutivos antes de poder cohabitar. Quien no pueda, deberá alimentar a sesenta pobres. Esto es para que crean [con sinceridad] en Dios y en Su Mensajero [y aprendan a respetar a la mujer]. Estos son los preceptos de Dios. Pero los que se nieguen a creer recibirán un castigo doloroso.
+Pero quien no pueda hacerlo[^1], deberá ayunar dos meses consecutivos antes de poder cohabitar. Quien no pueda[^2], deberá alimentar a sesenta pobres. Esto es para que crean [con sinceridad] en Dios y en Su Mensajero [y aprendan a respetar a la mujer]. Estos son los preceptos de Dios. Pero los que se nieguen a creer[^3] recibirán un castigo doloroso.
 
-quien no pueda hacerlo : Liberar de la esclavitud o el cautiverio a un ser humano, porque no existan en su época o porque no tenga el dinero suficiente. 
-Quien no pueda: Ayunar, por una deficiencia física o edad avanzada.
-los que se nieguen a creer: Quienes se nieguen a seguir esta reglamentación.
+[^1]: Liberar de la esclavitud o el cautiverio a un ser humano, porque no existan en su época o porque no tenga el dinero suficiente.
+
+[^2]: Ayunar, por una deficiencia física o edad avanzada.
+
+[^3]: Quienes se nieguen a seguir esta reglamentación.
 
 # 5109
 
@@ -22378,9 +22532,9 @@ El día que Dios los resucite a todos, les informará cuanto hicieron. Dios regi
 
 # 5112
 
-¿Acaso no ves a aquellos a los que se les habían prohibido los conciliábulos, pero igualmente persisten en hacerlo en secreto? Se confabulan para la maldad, la enemistad y la desobediencia al Mensajero. Cuando se presentan ante ti [¡oh, Mujámmad!] no te saludan como Dios ha ordenado que lo hagan, y se dicen ente ellos [en tono burlón]: "¿Por qué será que Dios no nos castiga por lo que decimos?" Será suficiente el Infierno al que serán arrojados. ¡Qué pésimo destino!
+¿Acaso no ves a aquellos a los que se les habían prohibido los conciliábulos, pero igualmente persisten en hacerlo en secreto? Se confabulan para la maldad, la enemistad y la desobediencia al Mensajero. Cuando se presentan ante ti [¡oh, Mujámmad!] no te saludan como Dios ha ordenado que lo hagan[^1], y se dicen ente ellos [en tono burlón]: "¿Por qué será que Dios no nos castiga por lo que decimos?" Será suficiente el Infierno al que serán arrojados. ¡Qué pésimo destino!
 
-como Dios ha ordenado que lo hagan: Sino que te insultan usando sonidos similares.
+[^1]: Sino que te insultan usando sonidos similares.
 
 # 5113
 
@@ -22392,11 +22546,13 @@ Las confabulaciones son obras del demonio para entristecer a los creyentes. Pero
 
 # 5115
 
-¡Oh, creyentes! Cuando se les dice: "Hagan un lugar en las reuniones, háganlo, para que Dios les haga a ustedes un lugar". Y si se les dice: "¡Levántense!" Levántense. Sepan que Dios elevará en grados a los creyentes y a quienes agracie con el conocimiento. Dios sabe cuanto hacen.
+¡Oh, creyentes! Cuando se les dice: "Hagan un lugar en las reuniones[^1], háganlo, para que Dios les haga a ustedes un lugar[^2]". Y si se les dice: "¡Levántense![^3]" Levántense. Sepan que Dios elevará en grados a los creyentes y a quienes agracie con el conocimiento. Dios sabe cuanto hacen.
 
-Hagan un lugar en las reuniones: Para dar lugar a otra persona. 
-les haga a ustedes un lugar: Haciendo lugar en su corazón para la fe, y dándoles un lugar en el Paraíso.
-¡Levántense!: Para hacer una buena acción.
+[^1]: Para dar lugar a otra persona.
+
+[^2]: Haciendo lugar en su corazón para la fe, y dándoles un lugar en el Paraíso.
+
+[^3]: Para hacer una buena acción.
 
 # 5116
 
@@ -22404,16 +22560,17 @@ les haga a ustedes un lugar: Haciendo lugar en su corazón para la fe, y dándol
 
 # 5117
 
-¿Acaso temen no poder ofrecer una caridad antes de consultarlo en privado? Si no pueden hacerlo Dios los absolverá, pero hagan la oración prescrita, paguen el zakat y obedezcan a Dios y a Su Mensajero. Dios está bien informado de cuanto hacen.
+¿Acaso temen no poder ofrecer una caridad antes de consultarlo[^1] en privado? Si no pueden hacerlo Dios los absolverá, pero hagan la oración prescrita, paguen el zakat y obedezcan a Dios y a Su Mensajero. Dios está bien informado de cuanto hacen.
 
-de consultarlo: Al Profeta, que la paz y las bendiciones de Dios sean con él.
+[^1]: Al Profeta, que la paz y las bendiciones de Dios sean con él.
 
 # 5118
 
-¿No has reparado en aquellos que tomaron como aliados a un pueblo que cayó en la ira de Dios? No están con unos ni con otros, y juran con mentiras a sabiendas.
+¿No has reparado en aquellos[^1] que tomaron como aliados a un pueblo que cayó en la ira de Dios[^2]? No están con unos ni con otros, y juran con mentiras a sabiendas.
 
-aquellos: Los hipócritas.
- un pueblo que cayó en la ira de Dios: Los judíos.
+[^1]: Los hipócritas.
+
+[^2]: Los judíos.
 
 # 5119
 
@@ -22453,9 +22610,9 @@ Todo lo que hay en los cielos y en la Tierra glorifica a Dios. Él es el Poderos
 
 # 5128
 
-Él es Quien hizo que los que se negaron a creer de la Gente del Libro abandonaran sus hogares en el primer destierro. Ustedes no creían que ellos saldrían, y ellos pensaban que sus fortalezas los protegerían de Dios. Pero Dios los sorprendió de donde menos lo esperaban. Infundió terror en sus corazones, y comenzaron a destruir sus casas con sus propias manos y con las manos de los creyentes. Reflexionen sobre ello, ¡oh, gente que razona!
+Él es Quien hizo que los que se negaron a creer de la Gente del Libro[^1] abandonaran sus hogares en el primer destierro. Ustedes no creían que ellos saldrían, y ellos pensaban que sus fortalezas los protegerían de Dios. Pero Dios los sorprendió de donde menos lo esperaban. Infundió terror en sus corazones, y comenzaron a destruir sus casas con sus propias manos y con las manos de los creyentes. Reflexionen sobre ello, ¡oh, gente que razona!
 
-se negaron a creer de la Gente del Libro: La tribu judía Banu Nadír fue expulsada de Medina en el año cuatro de la Hégira, debido a que había roto el pacto de no agresión ni colaboración con el enemigo, tras comprobarse que durante la batalla de Uhud, en la que los musulmanes fueron atacados en su ciudad, esta tribu colaboró con el enemigo con intrigas e información.
+[^1]: La tribu judía Banu Nadír fue expulsada de Medina en el año cuatro de la Hégira, debido a que había roto el pacto de no agresión ni colaboración con el enemigo, tras comprobarse que durante la batalla de Uhud, en la que los musulmanes fueron atacados en su ciudad, esta tribu colaboró con el enemigo con intrigas e información.
 
 # 5129
 
@@ -22475,9 +22632,9 @@ Ustedes no tuvieron la necesidad de emplear caballos ni camellos para contribuir
 
 # 5133
 
-Lo que Dios concedió de la gente de las aldeas a Su Mensajero pertenece a Dios, al Mensajero, a sus parientes, a los huérfanos, a los pobres y al viajero insolvente, para que la riqueza no sea un privilegio solo de los ricos. Lo que les ha transmitido el Mensajero tómenlo, y cuanto les haya prohibido déjenlo. Tengan temor de Dios, porque Dios es severo en el castigo.
+Lo que Dios concedió de la gente de las aldeas a Su Mensajero[^1] pertenece a Dios, al Mensajero, a sus parientes, a los huérfanos, a los pobres y al viajero insolvente, para que la riqueza no sea un privilegio solo de los ricos. Lo que les ha transmitido el Mensajero tómenlo, y cuanto les haya prohibido déjenlo. Tengan temor de Dios, porque Dios es severo en el castigo.
 
-Lo que Dios concedió de la gente de las aldeas a Su Mensajero: Como botín, sin necesidad de combatir.
+[^1]: Como botín, sin necesidad de combatir.
 
 # 5134
 
@@ -22485,9 +22642,9 @@ Lo que Dios concedió de la gente de las aldeas a Su Mensajero: Como botín, sin
 
 # 5135
 
-Quienes estaban establecidos y aceptaron la fe antes de su llegada, aman a los que emigraron, no sienten envidia alguna en sus corazones por lo que se les ha dado y los prefieren a sí mismos aunque estén en extrema necesidad. Quienes hayan sido preservados de la avaricia serán los triunfadores.
+Quienes estaban establecidos[^1] y aceptaron la fe antes de su llegada, aman a los que emigraron, no sienten envidia alguna en sus corazones por lo que se les ha dado y los prefieren a sí mismos aunque estén en extrema necesidad. Quienes hayan sido preservados de la avaricia serán los triunfadores.
 
-Quienes estaban establecidos: En la ciudad de Medina.
+[^1]: En la ciudad de Medina.
 
 # 5136
 
@@ -22511,9 +22668,9 @@ No combatirán unidos contra ustedes, salvo en aldeas fortificadas o detrás de 
 
 # 5141
 
-Son como sus más cercanos precursores, que sufrieron las consecuencias de su conducta y por ello recibirán un castigo doloroso.
+Son como sus más cercanos precursores[^1], que sufrieron las consecuencias de su conducta y por ello recibirán un castigo doloroso.
 
-sus más cercanos precursores: Los incrédulos de La Meca el día de la batalla de Bader.
+[^1]: Los incrédulos de La Meca el día de la batalla de Bader.
 
 # 5142
 
@@ -22525,15 +22682,15 @@ El final de ambos será el Infierno donde sufrirán eternamente. Este es el fina
 
 # 5144
 
-¡Oh, creyentes! Tengan temor de Dios, y que cada alma considere cuánto ha obrado para el mañana. Tengan temor de Dios, porque Dios está bien informado de cuanto hacen.
+¡Oh, creyentes! Tengan temor de Dios, y que cada alma considere cuánto ha obrado para el mañana[^1]. Tengan temor de Dios, porque Dios está bien informado de cuanto hacen.
 
-para el mañana: El Día del Juicio Final.
+[^1]: El Día del Juicio Final.
 
 # 5145
 
-No sean como quienes se olvidaron de Dios, y Dios hizo que se olvidaran de sí mismos. Esos son los perversos.
+No sean como quienes se olvidaron de Dios, y Dios hizo que se olvidaran de sí mismos[^1]. Esos son los perversos.
 
-Dios hizo que se olvidaran de sí mismos: Al alejarse de Dios, Él hizo que se olvidaran de aquello que realmente es bueno para ellos en este mundo y el Más Allá.
+[^1]: Al alejarse de Dios, Él hizo que se olvidaran de aquello que realmente es bueno para ellos en este mundo y el Más Allá.
 
 # 5146
 
@@ -22569,9 +22726,9 @@ En nada los beneficiarán sus lazos familiares ni sus hijos, el Día de la Resur
 
 # 5154
 
-Tienen un buen ejemplo en Abraham y sus seguidores, cuando dijeron a su pueblo: "Nosotros somos inocentes de ustedes y de cuanto adoran en lugar de Dios. Negamos que haya verdad en lo que ustedes creen, y comenzará la animadversión y el desacuerdo [en temas de creencia] hasta que no acepten que solamente Dios merece ser adorado". Pero no hagan como Abraham, cuando le dijo a su padre: "Pediré perdón por ti, pero no puedo hacer nada por ti ante Dios". [Abraham oraba diciendo:] "¡Oh, Señor nuestro! A Ti nos encomendamos, a Ti pedimos perdón y a Ti volveremos.
+Tienen un buen ejemplo en Abraham y sus seguidores, cuando dijeron a su pueblo: "Nosotros somos inocentes de ustedes y de cuanto adoran en lugar de Dios. Negamos que haya verdad en lo que ustedes creen, y comenzará la animadversión y el desacuerdo [en temas de creencia] hasta que no acepten que solamente Dios merece ser adorado". Pero no hagan como Abraham, cuando le dijo a su padre: "Pediré perdón por ti, pero no puedo hacer nada por ti ante Dios[^1]". [Abraham oraba diciendo:] "¡Oh, Señor nuestro! A Ti nos encomendamos, a Ti pedimos perdón y a Ti volveremos.
 
-Pediré perdón por ti, pero no puedo hacer nada por ti ante Dios: Abraham pidió perdón por su padre porque se lo había prometido, pero cuando se le evidenció que era un enemigo de Dios, se declaró inocente de él y de su adoración y servicio a los ídolos.
+[^1]: Abraham pidió perdón por su padre porque se lo había prometido, pero cuando se le evidenció que era un enemigo de Dios, se declaró inocente de él y de su adoración y servicio a los ídolos.
 
 # 5155
 
@@ -22579,15 +22736,15 @@ Pediré perdón por ti, pero no puedo hacer nada por ti ante Dios: Abraham pidi�
 
 # 5156
 
-En ellos tienen un bello ejemplo quienes anhelan el encuentro con Dios y la recompensa el Día del Juicio. Pero quien se aparte, sepa que Él es el Opulento, el Loable.
+En ellos[^1] tienen un bello ejemplo quienes anhelan el encuentro con Dios y la recompensa el Día del Juicio. Pero quien se aparte, sepa que Él es el Opulento, el Loable.
 
-En ellos: En el Profeta Abraham y los creyentes que lo siguieron.
+[^1]: En el Profeta Abraham y los creyentes que lo siguieron.
 
 # 5157
 
-Es posible que Dios haga surgir afecto mutuo entre ustedes y los que ahora son sus enemigos. Dios tiene poder para hacerlo, porque es Perdonador, Misericordioso.
+Es posible que Dios haga surgir afecto mutuo entre ustedes y los que ahora son sus enemigos[^1]. Dios tiene poder para hacerlo, porque es Perdonador, Misericordioso.
 
-entre ustedes y los que ahora son sus enemigos: Dios nos asegura aquí que no existen rencores ni enemistades eternas, sino que a través de la justicia y el reconocimiento, la reconciliación y el perdón de las personas es posible.
+[^1]: Dios nos asegura aquí que no existen rencores ni enemistades eternas, sino que a través de la justicia y el reconocimiento, la reconciliación y el perdón de las personas es posible.
 
 # 5158
 
@@ -22599,19 +22756,23 @@ Dios solo les prohíbe que tomen por aliados a quienes los combaten a causa de l
 
 # 5160
 
-¡Oh, creyentes! Cuando mujeres creyentes lleguen como emigrantes, comprueben su fe. Dios conoce su fe. Si corroboran que son creyentes, entonces no las devuelvan a los que se negaron a creer. Ellas no son lícitas para ellos ni ellos lo son para ellas. Devuelvan a sus exmaridos la dote que ellos les hayan dado, y sepan que no hay nada reprochable en que los creyentes se casen con ellas, siempre que les concedan la dote correspondiente. No deben ustedes, por su parte, retener a las mujeres que se niegan a creer, pero pueden exigir que se les devuelva lo que hayan dado como dote, como ellos también tienen derecho a exigirla. Esa es la ley de Dios que prescribió para ustedes. Dios es Sapiente, Sabio.
+¡Oh, creyentes! Cuando mujeres creyentes lleguen como emigrantes, comprueben su fe[^1]. Dios conoce su fe. Si corroboran que son creyentes, entonces no las devuelvan a los que se negaron a creer[^2]. Ellas no son lícitas para ellos ni ellos lo son para ellas. Devuelvan a sus exmaridos la dote que ellos les hayan dado, y sepan que no hay nada reprochable en que los creyentes se casen con ellas, siempre que les concedan la dote correspondiente. No deben ustedes, por su parte, retener a las mujeres que se niegan a creer[^3], pero pueden exigir que se les devuelva lo que hayan dado como dote, como ellos[^4] también tienen derecho a exigirla. Esa es la ley de Dios que prescribió para ustedes. Dios es Sapiente, Sabio.
 
-comprueben su fe: Para constatar que han emigrado sinceramente por la causa de Dios y Su Mensajero.
- no las devuelvan a los que se negaron a creer: Si la mujer emigra a tierras musulmanas porque su esposo o familia no le permiten vivir libremente su religión, los musulmanes deben obligatoriamente ofrecerle asilo y no permitir que vuelva a sufrir maltrato ni persecución a causa de sus creencias.
-retener a las mujeres que se niegan a creer: Si un hombre acepta el Islam y su esposa no quiere ingresar en la fe, y desea irse donde su familia o romper el matrimonio, el hombre musulmán no tiene derecho alguno a retenerla, pero puede solicitar que le devuelvan, en compensación, lo que invirtió en la dote.
-como ellos: Los no musulmanes.
+[^1]: Para constatar que han emigrado sinceramente por la causa de Dios y Su Mensajero.
+
+[^2]: Si la mujer emigra a tierras musulmanas porque su esposo o familia no le permiten vivir libremente su religión, los musulmanes deben obligatoriamente ofrecerle asilo y no permitir que vuelva a sufrir maltrato ni persecución a causa de sus creencias.
+
+[^3]: Si un hombre acepta el Islam y su esposa no quiere ingresar en la fe, y desea irse donde su familia o romper el matrimonio, el hombre musulmán no tiene derecho alguno a retenerla, pero puede solicitar que le devuelvan, en compensación, lo que invirtió en la dote.
+
+[^4]: Los no musulmanes.
 
 # 5161
 
-A aquellos cuyas esposas se hayan ido con los que se negaron a creer y los perjudiquen, denles una compensación acorde a lo que gastaron. Tengan temor de Dios, en Quien ustedes creen.
+A aquellos cuyas esposas se hayan ido con los que se negaron a creer y los perjudiquen[^1], denles una compensación[^2] acorde a lo que gastaron. Tengan temor de Dios, en Quien ustedes creen.
 
-con los que se negaron a creer y los perjudiquen: Y estos hayan rehusado devolverles la dote que habían entregado.
-denles una compensación: Tomándola de los bienes comunitarios o reteniendo una devolución de dote que le tocaba entregar a otro musulmán.
+[^1]: Y estos hayan rehusado devolverles la dote que habían entregado.
+
+[^2]: Tomándola de los bienes comunitarios o reteniendo una devolución de dote que le tocaba entregar a otro musulmán.
 
 # 5162
 
@@ -22643,9 +22804,9 @@ Dios ama a quienes luchan por Su causa en filas ordenadas, como si fueran una ed
 
 # 5169
 
-Y cuando Jesús, hijo de María, dijo: "¡Oh, hijos de Israel! Yo soy el Mensajero que Dios les ha enviado para corroborar la Tora y anunciar a un Mensajero que vendrá después de mí llamado Ajmad". Pero cuando les mostró los milagros, dijeron [con incredulidad manifiesta]: "¡Esto es pura hechicería!"
+Y cuando Jesús, hijo de María, dijo: "¡Oh, hijos de Israel! Yo soy el Mensajero que Dios les ha enviado para corroborar la Tora y anunciar a un Mensajero que vendrá después de mí llamado Ajmad[^1]". Pero cuando les mostró los milagros, dijeron [con incredulidad manifiesta]: "¡Esto es pura hechicería!"
 
-Ajmad: Ajmad, “el que más alaba”, uno de los nombres del Profeta Mujámmad, es la traducción casi exacta del griego períklytos. La profecía aquí pronunciada está confirmada en el Evangelio de Juan donde figura el término parákletos (“consolador” o “defensor”), que habría de venir después de Jesús. Se considera que parákletos es una deformación de períklytos, que es la forma griega del nombre arameo Mauhamana. El arameo era la lengua que hablaba Jesús, y en la que fueron redactados los textos originales —hoy perdidos— de los Evangelios. Dada la proximidad fonética entre períklytos y parákletos, no es de extrañar que el traductor —o un escribano posterior— confundiera ambos términos. Tanto el término arameo Mauhamana como el griego períklytos significan lo mismo que los dos nombres del último Profeta, Mujámmad y Ajmad, derivados ambos del verbo hamida (“alabar”) y del sustantivo hamd (“alabanza”). Pero incluso en el supuesto de que el texto original hablara efectivamente del parákletos, el pasaje es igualmente aplicable al Profeta Mujámmad, que es “una misericordia para todos los seres” (21:107) y “amable y misericordioso con los creyentes” (9:128).
+[^1]: Ajmad, “el que más alaba”, uno de los nombres del Profeta Mujámmad, es la traducción casi exacta del griego períklytos. La profecía aquí pronunciada está confirmada en el Evangelio de Juan donde figura el término parákletos (“consolador” o “defensor”), que habría de venir después de Jesús. Se considera que parákletos es una deformación de períklytos, que es la forma griega del nombre arameo Mauhamana. El arameo era la lengua que hablaba Jesús, y en la que fueron redactados los textos originales —hoy perdidos— de los Evangelios. Dada la proximidad fonética entre períklytos y parákletos, no es de extrañar que el traductor —o un escribano posterior— confundiera ambos términos. Tanto el término arameo Mauhamana como el griego períklytos significan lo mismo que los dos nombres del último Profeta, Mujámmad y Ajmad, derivados ambos del verbo hamida (“alabar”) y del sustantivo hamd (“alabanza”). Pero incluso en el supuesto de que el texto original hablara efectivamente del parákletos, el pasaje es igualmente aplicable al Profeta Mujámmad, que es “una misericordia para todos los seres” (21:107) y “amable y misericordioso con los creyentes” (9:128).
 
 # 5170
 
@@ -22685,15 +22846,15 @@ Todo cuanto existe en los cielos y en la Tierra glorifica a Dios, el Soberano Su
 
 # 5179
 
-Es Él Quien eligió de entre los que no sabían leer ni escribir un Mensajero para que les recite Sus preceptos, los purifique y les enseñe el Libro y la sabiduría; antes de ello se encontraban en un extravío evidente.
+Es Él Quien eligió de entre los que no sabían leer ni escribir[^1] un Mensajero para que les recite Sus preceptos, los purifique y les enseñe el Libro y la sabiduría; antes de ello se encontraban en un extravío evidente.
 
-los que no sabían leer ni escribir: Los árabes.
+[^1]: Los árabes.
 
 # 5180
 
-Y [para que Su Mensaje se extienda] a otros que todavía no han llegado. Dios es el Poderoso, el Sabio.
+Y [para que Su Mensaje se extienda] a otros que todavía no han llegado[^1]. Dios es el Poderoso, el Sabio.
 
-a otros que todavía no han llegado: Es decir, para las generaciones futuras que llegarán y también se beneficiarán del Mensaje transmitido por el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él.
+[^1]: Es decir, para las generaciones futuras que llegarán y también se beneficiarán del Mensaje transmitido por el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él.
 
 # 5181
 
@@ -22701,9 +22862,9 @@ Este es un favor que Dios concede a quien quiere, porque Dios es el poseedor del
 
 # 5182
 
-Aquellos a quienes les fue confiada la Tora, pero no practicaron [sus principios], se asemejan al asno que lleva una carga de libros. ¡Qué pésimo es el ejemplo de aquellos que desmienten las enseñanzas de Dios! Dios no guía a los injustos.
+Aquellos a quienes les fue confiada la Tora, pero no practicaron [sus principios], se asemejan al asno que lleva una carga de libros[^1]. ¡Qué pésimo es el ejemplo de aquellos que desmienten las enseñanzas de Dios! Dios no guía a los injustos.
 
-lleva una carga de libros: Pero no se beneficia de su sabiduría.
+[^1]: Pero no se beneficia de su sabiduría.
 
 # 5183
 
@@ -22727,9 +22888,9 @@ Cuando haya terminado la oración recorran la tierra, procuren el sustento y rec
 
 # 5188
 
-Pero a aquellos que si ven un negocio o una diversión corren hacia ello y te dejan [solo] de pie, diles: "La recompensa que Dios tiene reservada [para los piadosos] es mejor que cualquier diversión o negocio, y [sepan que] Dios es el mejor de los sustentadores".
+Pero a aquellos que si ven un negocio o una diversión corren hacia ello y te dejan [solo] de pie[^1], diles: "La recompensa que Dios tiene reservada [para los piadosos] es mejor que cualquier diversión o negocio, y [sepan que] Dios es el mejor de los sustentadores".
 
-te dejan [solo] de pie: Pronunciando el sermón.
+[^1]: Pronunciando el sermón.
 
 # 5189
 
@@ -22741,9 +22902,9 @@ Cuando los hipócritas se presentan ante ti [oh, Mujámmad], dicen: "Atestiguamo
 
 # 5191
 
-Ello es porque creyeron y luego renegaron, entonces sus corazones fueron sellados y ya no pueden discernir.
+Ello[^1] es porque creyeron y luego renegaron, entonces sus corazones fueron sellados y ya no pueden discernir.
 
-Ello: Su hipocresía.
+[^1]: Su hipocresía.
 
 # 5192
 
@@ -22763,9 +22924,9 @@ Ellos dicen: "No ayuden a los que están con el Mensajero de Dios hasta que lo a
 
 # 5196
 
-Dicen: "Si regresamos a la ciudad [de Medina], los más poderosos expulsaremos de ella a los más débiles". Pero el verdadero poder pertenece a Dios, a Su Mensajero y a los creyentes, aunque los hipócritas no lo saben.
+Dicen: "Si regresamos a la ciudad [de Medina], los más poderosos expulsaremos de ella a los más débiles[^1]". Pero el verdadero poder pertenece a Dios, a Su Mensajero y a los creyentes, aunque los hipócritas no lo saben.
 
-a los más débiles: Es decir, al Mensajero de Dios y a los creyentes.
+[^1]: Es decir, al Mensajero de Dios y a los creyentes.
 
 # 5197
 
@@ -22833,9 +22994,9 @@ Obedezcan a Dios y obedezcan al Mensajero. Pero si se rehúsan, sepan que Mi Men
 
 # 5213
 
-¡Creyentes! Sus cónyuges o sus hijos pueden convertirse en sus enemigos. Tengan precaución. Pero si pasan por alto [sus faltas], son tolerantes con ellos y los perdonan, sepan que Dios es Perdonador, Misericordioso.
+¡Creyentes! Sus cónyuges o sus hijos pueden convertirse en sus enemigos[^1]. Tengan precaución. Pero si pasan por alto [sus faltas], son tolerantes con ellos y los perdonan, sepan que Dios es Perdonador, Misericordioso.
 
-pueden convertirse en sus enemigos: Si en lugar de ser sus compañeros en el camino de la fe, se convierten en tentaciones que invitan o requieren que se violen leyes morales del Islam para obtener gustos mundanos.
+[^1]: Si en lugar de ser sus compañeros en el camino de la fe, se convierten en tentaciones que invitan o requieren que se violen leyes morales del Islam para obtener gustos mundanos.
 
 # 5214
 
@@ -22847,9 +23008,9 @@ Tengan temor de Dios tanto como puedan. Escuchen y obedezcan [la revelación], y
 
 # 5216
 
-Si hacen a Dios un préstamo generoso, Él lo devolverá multiplicado y perdonará sus faltas. Dios es Agradecido, Tolerante,
+Si hacen a Dios un préstamo generoso[^1], Él lo devolverá multiplicado y perdonará sus faltas. Dios es Agradecido, Tolerante,
 
-un préstamo generoso: Ver Corán 2:245.
+[^1]: Ver Corán 2:245.
 
 # 5217
 
@@ -22857,9 +23018,9 @@ conoce lo oculto y lo manifiesto, Él es el Poderoso, el Sabio.
 
 # 5218
 
-¡Oh, Profeta!, [haz saber a los musulmanes que] cuando divorcien a las mujeres, deben hacerlo durante el tiempo señalado. Calculen con atención los días de ese período, y tengan temor de Dios, su Señor. No las expulsen de sus hogares y que ellas tampoco lo abandonen, a menos que hayan cometido una indecencia evidente. Estas son las leyes de Dios. Quien quebrante las leyes de Dios habrá sido injusto consigo mismo. Tú no sabes si Dios, después de esa [primera ruptura], haga surgir una reconciliación.
+¡Oh, Profeta!, [haz saber a los musulmanes que] cuando divorcien a las mujeres, deben hacerlo durante el tiempo señalado[^1]. Calculen con atención los días de ese período, y tengan temor de Dios, su Señor. No las expulsen de sus hogares y que ellas tampoco lo abandonen, a menos que hayan cometido una indecencia evidente. Estas son las leyes de Dios. Quien quebrante las leyes de Dios habrá sido injusto consigo mismo. Tú no sabes si Dios, después de esa [primera ruptura], haga surgir una reconciliación.
 
-durante el tiempo señalado: La fórmula de divorcio solo puede pronunciarse fuera del ciclo menstrual en el que no se hayan mantenido relaciones sexuales.
+[^1]: La fórmula de divorcio solo puede pronunciarse fuera del ciclo menstrual en el que no se hayan mantenido relaciones sexuales.
 
 # 5219
 
@@ -22883,9 +23044,9 @@ Denle a la mujer durante ese periodo el mismo nivel de vida que ustedes tienen c
 
 # 5224
 
-Que el adinerado mantenga de acuerdo a su abundancia, pero aquel cuyo sustento es escaso que lo haga acorde a lo que Dios le ha provisto. Dios no exige a nadie por encima de sus posibilidades. Dios hará que luego de toda estrechez venga la prosperidad.
+Que el adinerado mantenga de acuerdo a su abundancia[^1], pero aquel cuyo sustento es escaso que lo haga acorde a lo que Dios le ha provisto. Dios no exige a nadie por encima de sus posibilidades. Dios hará que luego de toda estrechez venga la prosperidad.
 
-mantenga de acuerdo a su abundancia: A su hijo y a su exesposa mientras lo amamante.
+[^1]: A su hijo y a su exesposa mientras lo amamante.
 
 # 5225
 
@@ -22905,15 +23066,15 @@ y les ha enviado un Mensajero que les recita el claro Mensaje de Dios, para saca
 
 # 5229
 
-Dios creó siete cielos y la Tierra de manera similar. A través de ellos desciende Su designio para que sepan que Dios tiene poder sobre todas las cosas y que todo lo abarca en Su conocimiento.
+Dios creó siete cielos y la Tierra de manera similar[^1]. A través de ellos desciende Su designio para que sepan que Dios tiene poder sobre todas las cosas y que todo lo abarca en Su conocimiento.
 
-Dios creó siete cielos y la Tierra de manera similar: Este versículo Coránico admite una variedad amplia de interpretaciones, y Dios sabe más si lo correcto es una de ellas o si más de una es posible. La interpretación clásica afirmada por Ibn Kazir sugiere que esto significa que son siete tierras, ya que fueron mencionadas por el Profeta, que la paz y las bendiciones de Dios sean con él, en el hadiz: “Todo aquel que usurpe una parcela de tierra injustamente, se hundirá en las siete tierras el Día de la Resurrección” Registrado por Al-Bujari. Basados en esta interpretación, algunos sugieren que las siete tierras son siete capas internas geológicas, que eran desconocidas hasta su reciente descubrimiento por parte de la ciencia moderna, lo cual indicaría un milagro científico confirmado por el Corán y el Hadiz, y que desde el núcleo a la superficie son: (1) El núcleo sólido interior, (2) el núcleo líquido exterior, (3) la capa “D”, (4) el manto inferior, (5) el manto medio, (6) el manto superior, y (7) la litosfera –terrestre y oceánica–. Otras interpretaciones modernas sugieren que podría referirse a otros planetas con características similares al planeta Tierra, que podrían estar o no habitados.
+[^1]: Este versículo Coránico admite una variedad amplia de interpretaciones, y Dios sabe más si lo correcto es una de ellas o si más de una es posible. La interpretación clásica afirmada por Ibn Kazir sugiere que esto significa que son siete tierras, ya que fueron mencionadas por el Profeta, que la paz y las bendiciones de Dios sean con él, en el hadiz: “Todo aquel que usurpe una parcela de tierra injustamente, se hundirá en las siete tierras el Día de la Resurrección” Registrado por Al-Bujari. Basados en esta interpretación, algunos sugieren que las siete tierras son siete capas internas geológicas, que eran desconocidas hasta su reciente descubrimiento por parte de la ciencia moderna, lo cual indicaría un milagro científico confirmado por el Corán y el Hadiz, y que desde el núcleo a la superficie son: (1) El núcleo sólido interior, (2) el núcleo líquido exterior, (3) la capa “D”, (4) el manto inferior, (5) el manto medio, (6) el manto superior, y (7) la litosfera –terrestre y oceánica–. Otras interpretaciones modernas sugieren que podría referirse a otros planetas con características similares al planeta Tierra, que podrían estar o no habitados.
 
 # 5230
 
-¡Oh, Profeta! ¿Por qué te prohíbes a ti mismo lo que Dios te ha hecho lícito, pretendiendo con ello complacer a tus esposas? [Sabe que a pesar de ello] Dios es Absolvedor, Misericordioso.
+¡Oh, Profeta! ¿Por qué te prohíbes a ti mismo lo que Dios te ha hecho lícito, pretendiendo con ello complacer a tus esposas? [Sabe que a pesar de ello] Dios es Absolvedor, Misericordioso.[^1]
 
-El propósito de la alusión a este incidente es ofrecer una lección moral: la inadmisibilidad de considerar prohibido (haram) algo que Dios ha hecho lícito (halal), aunque sea por un deseo de complacer a otras personas.
+[^1]: la inadmisibilidad de considerar prohibido (haram) algo que Dios ha hecho lícito (halal), aunque sea por un deseo de complacer a otras personas.
 
 # 5231
 
@@ -22933,9 +23094,9 @@ Sepan que si él las divorcia, su Señor le concederá esposas mejores que usted
 
 # 5235
 
-¡Oh, creyentes! Protéjanse a sí mismos y a sus familias del Fuego [del Infierno], cuyo combustible serán los seres humanos y las piedras, y en el que habrá ángeles rigurosos y severos que no desobedecen a Dios en lo que Él les ordena, sino que ejecutan Sus órdenes.
+¡Oh, creyentes! Protéjanse a sí mismos y a sus familias del Fuego [del Infierno], cuyo combustible serán los seres humanos y las piedras[^1], y en el que habrá ángeles rigurosos y severos que no desobedecen a Dios en lo que Él les ordena, sino que ejecutan Sus órdenes.
 
-las piedras: De las que están hechos los ídolos.
+[^1]: De las que están hechos los ídolos.
 
 # 5236
 
@@ -22947,16 +23108,17 @@ las piedras: De las que están hechos los ídolos.
 
 # 5238
 
-¡Profeta! Haz frente a los que rechazaron el Mensaje y a los hipócritas, y sé riguroso con ellos. [Si no se arrepienten ante Dios] tendrán el Infierno por morada. ¡Qué pésimo destino!
+¡Profeta! Haz frente[^1] a los que rechazaron el Mensaje y a los hipócritas, y sé riguroso con ellos. [Si no se arrepienten ante Dios] tendrán el Infierno por morada. ¡Qué pésimo destino!
 
-Haz frente: Literalmente yaahid جاهد , esta palabra implica una amplia gama de significados, que van desde esforzarse intelectual y físicamente por una causa, a combatir por medio de las armas. Mi elección en este caso de la traducción “haz frente”, se basa en que el contexto habla de dos clases de personas: los hipócritas y los no musulmanes que convivían con los musulmanes en Medina, y son dos clases de personas que el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, jamás combatió por las armas, sino que los enfrentó con argumentos y razonamientos. Existe una palabra específica en el Corán para el combate armado, y esta es qaatil ( قاتل ), que puede encontrarse en: “Y combatan por la causa de Dios a quienes los agredan, pero no se excedan, porque Dios no ama a los agresores” (2:190), lo que circunscribe el combate a la defensa ante fuerzas agresoras. Esto evidencia que la idea tan promocionada de que el Islam se expandió por la espada o que los musulmanes tenemos por mandato religioso combatir a través de las armas a todos los que no sean musulmanes hasta convertirlos, no es más que un mito.
+[^1]: Literalmente yaahid جاهد , esta palabra implica una amplia gama de significados, que van desde esforzarse intelectual y físicamente por una causa, a combatir por medio de las armas. Mi elección en este caso de la traducción “haz frente”, se basa en que el contexto habla de dos clases de personas: los hipócritas y los no musulmanes que convivían con los musulmanes en Medina, y son dos clases de personas que el Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él, jamás combatió por las armas, sino que los enfrentó con argumentos y razonamientos. Existe una palabra específica en el Corán para el combate armado, y esta es qaatil ( قاتل ), que puede encontrarse en: “Y combatan por la causa de Dios a quienes los agredan, pero no se excedan, porque Dios no ama a los agresores” (2:190), lo que circunscribe el combate a la defensa ante fuerzas agresoras. Esto evidencia que la idea tan promocionada de que el Islam se expandió por la espada o que los musulmanes tenemos por mandato religioso combatir a través de las armas a todos los que no sean musulmanes hasta convertirlos, no es más que un mito.
 
 # 5239
 
-Para los que rechazaron el Mensaje, Dios les plantea como ejemplos los casos de la mujer de Noé y la de Lot: ambas estaban casadas con dos de Mis siervos justos pero no creyeron y [Noé y Lot] no pudieron hacer nada por ellas ante Dios. Y [el Día del Juicio] se les dirá: "Entren ambas en el Fuego junto con los demás condenados".
+Para los que rechazaron el Mensaje, Dios les plantea como ejemplos los casos de la mujer de Noé y la de Lot: ambas estaban casadas con dos de Mis siervos justos pero no creyeron[^1] y [Noé y Lot] no pudieron hacer nada por ellas ante Dios. Y [el Día del Juicio] se les dirá: "Entren ambas en el Fuego junto con los demás condenados".[^2]
 
-no creyeron: En el mensaje que transmitieron sus esposos.
- Del ejemplo (mazal) de estas dos mujeres, se deduce que ni siquiera la relación más íntima con una persona virtuosa —aunque sea un Profeta— puede librar a un pecador de las consecuencias de sus actos.
+[^1]: En el mensaje que transmitieron sus esposos.
+
+[^2]: Del ejemplo (mazal) de estas dos mujeres, se deduce que ni siquiera la relación más íntima con una persona virtuosa —aunque sea un Profeta— puede librar a un pecador de las consecuencias de sus actos.
 
 # 5240
 
@@ -22964,9 +23126,9 @@ Y para los creyentes como ejemplo plantea el caso de la mujer del Faraón [que e
 
 # 5241
 
-Y también el ejemplo de María, hija de ‘Imrán, quien preservó su castidad; infundí en ella de Mi Espíritu. Ella creyó en la veracidad de las Palabras de su Señor y en Sus Libros, y fue realmente una mujer devota.
+Y también el ejemplo de María, hija de ‘Imrán[^1], quien preservó su castidad; infundí en ella de Mi Espíritu. Ella creyó en la veracidad de las Palabras de su Señor y en Sus Libros, y fue realmente una mujer devota.
 
-María, hija de ‘Imrán: Madre de Jesús, que la paz de Dios sea con ambos.
+[^1]: Madre de Jesús, que la paz de Dios sea con ambos.
 
 # 5242
 
@@ -22986,9 +23148,9 @@ Luego vuelve la vista por segunda vez [buscando fallas en la creación] y tu mir
 
 # 5246
 
-Embellecí el cielo de este mundo con astros luminosos, dispuestos para castigar a los demonios, y tengo preparado para ellos un fuego abrasador.
+Embellecí el cielo de este mundo con astros luminosos, dispuestos para castigar a los demonios[^1], y tengo preparado para ellos un fuego abrasador.
 
-a los demonios: Que pretendan escuchar las órdenes que revelo a los ángeles. Ver Corán 41:12.
+[^1]: Que pretendan escuchar las órdenes que revelo a los ángeles. Ver Corán 41:12.
 
 # 5247
 
@@ -23056,9 +23218,9 @@ Otros [pueblos] en la antigüedad también desmintieron [a los Mensajeros], y qu
 
 # 5263
 
-¿Quién está mejor encaminado: el que camina cabizbajo y tropezando o el que camina erguido por el sendero recto?
+¿Quién está mejor encaminado: el que camina cabizbajo y tropezando[^1] o el que camina erguido por el sendero recto?
 
-el que camina cabizbajo y tropezando: Metáfora que muestra la negación espiritual que impide a una persona ocuparse de algo excepto de sus intereses mundanos más inmediatos.
+[^1]: Metáfora que muestra la negación espiritual que impide a una persona ocuparse de algo excepto de sus intereses mundanos más inmediatos.
 
 # 5264
 
@@ -23094,10 +23256,11 @@ Pregúntales: "¿Si el agua que tienen dejara de surgir, quién [fuera de Dios] 
 
 # 5272
 
-Nun. Juro por la pluma y por [los conocimientos que con ella] se escriben,
+Nun[^1]. Juro por la pluma[^2] y por [los conocimientos que con ella] se escriben,
 
-Nun: Ver Corán 2:1.
-la pluma: Literalmente qalam قلم o cálamo, pero como el objetivo de esta traducción es transmitir los significados más allá de los literalismos, he optado por usar la palabra pluma, ya que en nuestro idioma “la pluma”, en el campo de la literatura, simboliza la escritura y el conocimiento recogido por medio de la escritura.
+[^1]: Ver Corán 2:1.
+
+[^2]: Literalmente qalam قلم o cálamo, pero como el objetivo de esta traducción es transmitir los significados más allá de los literalismos, he optado por usar la palabra pluma, ya que en nuestro idioma “la pluma”, en el campo de la literatura, simboliza la escritura y el conocimiento recogido por medio de la escritura.
 
 # 5273
 
@@ -23129,9 +23292,9 @@ No obedezcas a los que desmienten el Mensaje.
 
 # 5280
 
-[Los idólatras] desearían que fueras condescendiente con ellos [en sus creencias idolátricas], y así ellos también serían condescendientes contigo.
+[Los idólatras] desearían que fueras condescendiente con ellos [en sus creencias idolátricas], y así ellos también serían condescendientes contigo.[^1]
 
-Aminorando su oposición al Mensaje del Islam.
+[^1]: Aminorando su oposición al Mensaje del Islam.
 
 # 5281
 
@@ -23159,9 +23322,9 @@ rechaza Mis versículos cuando se le recitan, diciendo: "Son fábulas de los anc
 
 # 5287
 
-[Como castigo] le marcaré su nariz.
+[Como castigo] le marcaré su nariz[^1].
 
-su nariz: La “nariz elevada” es el símbolo de la arrogancia, y por eso Dios dice que ha de marcarle la nariz como símbolo de humillación a causa de su arrogancia.
+[^1]: La “nariz elevada” es el símbolo de la arrogancia, y por eso Dios dice que ha de marcarle la nariz como símbolo de humillación a causa de su arrogancia.
 
 # 5288
 
@@ -23185,9 +23348,9 @@ Por la mañana, se despertaron unos a otros.
 
 # 5293
 
-Dijeron: "Vayamos temprano a nuestro campo si queremos recoger la cosecha".
+Dijeron: "Vayamos temprano a nuestro campo si queremos recoger la cosecha".[^1]
 
-Para que los pobres no se den cuenta y no les reclamen caridad.
+[^1]: Para que los pobres no se den cuenta y no les reclamen caridad.
 
 # 5294
 
@@ -23211,9 +23374,9 @@ Pero cuando vieron [el huerto devastado] dijeron: "Seguramente nos hemos equivoc
 
 # 5299
 
-Entonces, el más sensato de ellos dijo: "¿No les había dicho que recordaran?"
+Entonces, el más sensato de ellos dijo: "¿No les había dicho que recordaran?"[^1]
 
-El derecho que Dios estableció para los pobres en el momento de la cosecha.
+[^1]: El derecho que Dios estableció para los pobres en el momento de la cosecha.
 
 # 5300
 
@@ -23269,9 +23432,9 @@ Pregúntales: "¿Quién es el garante de ese pacto?"
 
 # 5313
 
-El día que se descubra la pierna [divina], manifestándose la gravedad de la situación] y sean invitados a prosternarse, pero no podrán,
+El día que se descubra la pierna [divina][^1], manifestándose la gravedad de la situación] y sean invitados a prosternarse, pero no podrán,
 
-la pierna [divina]: En los libros de exégesis puede encontrarse el siguiente relato: Narró Abu Said Al Judri que el Profeta, que la paz y las bendiciones de Dios sean con él, dijo: “Nuestro Señor ese día mostrará su pierna (saaqihi) y todo creyente, hombre o mujer, se prosternará ante Él. Pero todos aquellos que en este mundo se prosternaban por apariencia, para hacerse ver, su espalda estará firme como una tabla y no podrán prosternarse”. Registrado por Al-Bujari
+[^1]: En los libros de exégesis puede encontrarse el siguiente relato: Narró Abu Said Al Judri que el Profeta, que la paz y las bendiciones de Dios sean con él, dijo: “Nuestro Señor ese día mostrará su pierna (saaqihi) y todo creyente, hombre o mujer, se prosternará ante Él. Pero todos aquellos que en este mundo se prosternaban por apariencia, para hacerse ver, su espalda estará firme como una tabla y no podrán prosternarse”. Registrado por Al-Bujari
 
 # 5314
 
@@ -23295,9 +23458,9 @@ Los toleraré por un tiempo, pero luego Mi castigo será severo.
 
 # 5319
 
-Ten paciencia ante el designio de tu Señor y no seas como el que fue tragado por la ballena, que Me imploró angustiado.
+Ten paciencia ante el designio de tu Señor y no seas como el que fue tragado por la ballena[^1], que Me imploró angustiado.
 
-el que fue tragado por la ballena: Referencia al Profeta Jonás que, cansado de la incredulidad de su pueblo, los abandonó, incumpliendo con su misión de transmitir el Mensaje más allá de los resultados aparentes.
+[^1]: Referencia al Profeta Jonás que, cansado de la incredulidad de su pueblo, los abandonó, incumpliendo con su misión de transmitir el Mensaje más allá de los resultados aparentes.
 
 # 5320
 
@@ -23317,9 +23480,9 @@ Pero su Señor lo había escogido para que fuera uno de los piadosos.
 
 # 5324
 
-La exposición de la verdad.
+La exposición de la verdad.[^1]
 
-Uno de los nombres del Día del Juicio Final, cuando todas las verdades sean expuestas, y la realidad de los asuntos mostrados ante la gente.
+[^1]: Uno de los nombres del Día del Juicio Final, cuando todas las verdades sean expuestas, y la realidad de los asuntos mostrados ante la gente.
 
 # 5325
 
@@ -23331,9 +23494,9 @@ Uno de los nombres del Día del Juicio Final, cuando todas las verdades sean exp
 
 # 5327
 
-[Los pueblos de] Zamud y ‘Ad desmintieron el evento repentino.
+[Los pueblos de] Zamud y ‘Ad desmintieron el evento repentino[^1].
 
-el evento repentino: Otro de los nombres del Día del Juicio Final, porque llegará repentinamente cuando nadie lo espere.
+[^1]: Otro de los nombres del Día del Juicio Final, porque llegará repentinamente cuando nadie lo espere.
 
 # 5328
 
@@ -23353,9 +23516,9 @@ que los azotó durante siete noches y ocho días ininterrumpidamente. La gente q
 
 # 5332
 
-El Faraón, otros pueblos de la antigüedad y los que fueron elevados con sus casas y arrojados al revés, cometieron los pecados más graves,
+El Faraón, otros pueblos de la antigüedad y los que fueron elevados con sus casas y arrojados al revés[^1], cometieron los pecados más graves,
 
-los que fueron elevados con sus casas y arrojados al revés: Los pueblos de Sodoma y Gomorra, a los que fuera enviado el Profeta Lot.
+[^1]: Los pueblos de Sodoma y Gomorra, a los que fuera enviado el Profeta Lot.
 
 # 5333
 
@@ -23531,9 +23694,9 @@ El Corán es la verdad indubitable.
 
 # 5376
 
-Alguien pide que se desencadene el castigo prometido
+Alguien pide que se desencadene el castigo prometido[^1]
 
-Alusión a An-Nadr Ibn Al Háriz, quien, de forma desafiante y soberbia, solicitó eso como prueba de que Mujámmad decía la verdad.
+[^1]: Alusión a An-Nadr Ibn Al Háriz, quien, de forma desafiante y soberbia, solicitó eso como prueba de que Mujámmad decía la verdad.
 
 # 5377
 
@@ -23553,9 +23716,9 @@ Persevera con profunda paciencia,
 
 # 5381
 
-porque ellos lo ven lejano [al Día del Juicio],
+porque ellos lo ven lejano [al Día del Juicio],[^1]
 
-Los que desmienten y rechazan el Mensaje.
+[^1]: Los que desmienten y rechazan el Mensaje.
 
 # 5382
 
@@ -23627,9 +23790,9 @@ que son perseverantes en la oración,
 
 # 5399
 
-que de su dinero destinan un derecho establecido
+que de su dinero destinan un derecho establecido[^1]
 
-Alusión al zakat o contribución social obligatoria.
+[^1]: Alusión al zakat o contribución social obligatoria.
 
 # 5400
 
@@ -23649,9 +23812,9 @@ siendo que nadie está a salvo del castigo de su Señor.
 
 # 5404
 
-Los que preservan su sexualidad
+Los que preservan su sexualidad[^1]
 
-De cometer aquello que es ilícito, como la fornicación o el adulterio.
+[^1]: De cometer aquello que es ilícito, como la fornicación o el adulterio.
 
 # 5405
 
@@ -23683,9 +23846,9 @@ estos serán honrados con jardines del Paraíso.
 
 # 5412
 
-en grupos, por la derecha y por la izquierda?
+en grupos, por la derecha y por la izquierda?[^1]
 
-Quienes buscan por todos los medios negar a Dios, no pueden mantenerse consecuentes al no tener fundamentos sólidos para dar coherencia a su forma de vida, con su visión del mundo y con sus normas éticas, las que suelen transgredir y transformar a voluntad. Su ideología, su filosofía de vida y su política cotidiana suelen ser volubles y estar desfasadas una de otra. Por ello, se agitan (“corren de un lado a otro”) en confusión espiritual, cuando se enfrentan a la fortaleza moral de quien declara su fe en Dios. Buscan paliar esta confusión y justificar lo endeble de su cosmogonía y de su estilo de vida, intentando destruir las premisas de la fe del creyente con argumentos de gran elaboración intelectual, pero que resultan contradictorios. Su afán de “demostrar” que el creyente está errado los lleva a “dirigirse presurosos” a atacarlo, pero deben hacerlo en grupos, en tropel, pues solo pueden basarse en opiniones mayoritarias para tratar de desacreditar argumentos mucho más profundos y verdaderamente sólidos. No pueden destruir los argumentos del creyente por la vía de la lógica sencilla y la evidencia natural, así que buscan hacerlo a partir del señalamiento, la descalificación, y recurriendo a inflamar los temores y a acrecentar la ignorancia; y puesto que toda su fuerza proviene de su conformidad con opiniones superficiales pero mayoritarias, solo pueden hacer esto “en grupos”.
+[^1]: Quienes buscan por todos los medios negar a Dios, no pueden mantenerse consecuentes al no tener fundamentos sólidos para dar coherencia a su forma de vida, con su visión del mundo y con sus normas éticas, las que suelen transgredir y transformar a voluntad. Su ideología, su filosofía de vida y su política cotidiana suelen ser volubles y estar desfasadas una de otra. Por ello, se agitan (“corren de un lado a otro”) en confusión espiritual, cuando se enfrentan a la fortaleza moral de quien declara su fe en Dios. Buscan paliar esta confusión y justificar lo endeble de su cosmogonía y de su estilo de vida, intentando destruir las premisas de la fe del creyente con argumentos de gran elaboración intelectual, pero que resultan contradictorios. Su afán de “demostrar” que el creyente está errado los lleva a “dirigirse presurosos” a atacarlo, pero deben hacerlo en grupos, en tropel, pues solo pueden basarse en opiniones mayoritarias para tratar de desacreditar argumentos mucho más profundos y verdaderamente sólidos. No pueden destruir los argumentos del creyente por la vía de la lógica sencilla y la evidencia natural, así que buscan hacerlo a partir del señalamiento, la descalificación, y recurriendo a inflamar los temores y a acrecentar la ignorancia; y puesto que toda su fuerza proviene de su conformidad con opiniones superficiales pero mayoritarias, solo pueden hacer esto “en grupos”.
 
 # 5413
 
@@ -23693,9 +23856,9 @@ Quienes buscan por todos los medios negar a Dios, no pueden mantenerse consecuen
 
 # 5414
 
-No lo conseguirán. Los he creado de lo que saben.
+No lo conseguirán. Los he creado de lo que saben.[^1]
 
-Todas las personas saben que han sido creadas y concebidas de una materia despreciable –en el sentido de que si cae sobre la ropa de alguien, se apresura a limpiarlo–, y por lo tanto no tienen motivo alguno para mostrarse arrogantes y soberbios rechazando el Mensaje de su Creador.
+[^1]: Todas las personas saben que han sido creadas y concebidas de una materia despreciable –en el sentido de que si cae sobre la ropa de alguien, se apresura a limpiarlo–, y por lo tanto no tienen motivo alguno para mostrarse arrogantes y soberbios rechazando el Mensaje de su Creador.
 
 # 5415
 
@@ -23759,9 +23922,9 @@ Y les dije: ‘Pidan perdón a su Señor, porque Él es Indulgente,
 
 # 5430
 
-así les enviará del cielo bendiciones en abundancia,
+así les enviará del cielo bendiciones[^1] en abundancia,
 
-bendiciones: Literalmente “lluvia”.
+[^1]: Literalmente “lluvia”.
 
 # 5431
 
@@ -23817,9 +23980,9 @@ Y les dijeron: ‘No abandonen a nuestros ídolos. No abandonen ni a Uadd, ni a 
 
 # 5444
 
-A causa de sus pecados murieron ahogados [por el diluvio] y luego [el Día del Juicio] irán al Fuego, ya que encontrarán [que sus ídolos y poderosos] no podrán defenderlos de Dios.
+A causa de sus pecados murieron ahogados [por el diluvio][^1] y luego [el Día del Juicio] irán al Fuego, ya que encontrarán [que sus ídolos y poderosos] no podrán defenderlos de Dios.
 
-murieron ahogados [por el diluvio]: El concepto más acertado es que el diluvio no fue universal, sino local, ya que Dios dice en 7:59-65 que envió a Noé a la gente de su pueblo, y cuando estos lo desmintieron, fue sobre ellos mismos que descendió el castigo.
+[^1]: El concepto más acertado es que el diluvio no fue universal, sino local, ya que Dios dice en 7:59-65 que envió a Noé a la gente de su pueblo, y cuando estos lo desmintieron, fue sobre ellos mismos que descendió el castigo.
 
 # 5445
 
@@ -23863,9 +24026,9 @@ Ellos pensaban, como piensan ustedes, que Dios no iba a resucitar a nadie [de su
 
 # 5455
 
-Quisimos acceder al cosmos pero lo encontramos lleno de guardianes severos y meteoritos
+Quisimos acceder al cosmos pero lo encontramos lleno de guardianes severos y meteoritos[^1]
 
-Para castigar a los yinnes que quisieran robar las revelaciones que Dios hace a los ángeles.
+[^1]: Para castigar a los yinnes que quisieran robar las revelaciones que Dios hace a los ángeles.
 
 # 5456
 
@@ -23905,9 +24068,9 @@ para probarlos con ella. Porque quien se aparte del recuerdo de su Señor recibi
 
 # 5465
 
-Los lugares de culto son para adorar solo a Dios, por lo que no deben invocar a nada ni a nadie junto con Dios.
+Los lugares de culto son para adorar solo a Dios, por lo que no deben invocar a nada ni a nadie junto con Dios.[^1]
 
-El monoteísmo implica invocar solo a Dios en todos los pedidos y deseos. Siendo idolatría invocar a cualquier otro junto al Dios Creador, ya sea un santo, una virgen, o distintas “manifestaciones” de Dios, como el padre, el hijo o el espíritu santo.
+[^1]: El monoteísmo implica invocar solo a Dios en todos los pedidos y deseos. Siendo idolatría invocar a cualquier otro junto al Dios Creador, ya sea un santo, una virgen, o distintas “manifestaciones” de Dios, como el padre, el hijo o el espíritu santo.
 
 # 5466
 
@@ -24071,9 +24234,9 @@ Nada fácil para los que hoy desmienten la verdad.
 
 # 5506
 
-[Oh, Mujámmad] Deja que Yo me encargaré de aquel que he creado, y vino al mundo solo,
+[Oh, Mujámmad] Deja que Yo me encargaré de aquel que he creado, y vino al mundo solo,[^1]
 
-Estos versículos son revelados a causa de Al Walíd Ibn Al Mughira, que fuera un enemigo de la religión de Dios y del Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él. Pero en todas las épocas y lugares del mundo hay un Walíd que es incapaz de entender la revelación e intenta interpretar erróneamente su admirable influencia sobre la vida de las personas, recurriendo a conceptos tales como “la hechicería”.
+[^1]: Estos versículos son revelados a causa de Al Walíd Ibn Al Mughira, que fuera un enemigo de la religión de Dios y del Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él. Pero en todas las épocas y lugares del mundo hay un Walíd que es incapaz de entender la revelación e intenta interpretar erróneamente su admirable influencia sobre la vida de las personas, recurriendo a conceptos tales como “la hechicería”.
 
 # 5507
 
@@ -24317,9 +24480,9 @@ Y aunque intente justificarse [no podrá hacerlo].
 
 # 5567
 
-[Oh, Mujámmad] No muevas tu lengua deprisa repitiendo [la revelación],
+[Oh, Mujámmad] No muevas tu lengua deprisa repitiendo [la revelación],[^1]
 
-El Profeta, que la paz y las bendiciones de Dios sean con él, en su afán por memorizar lo que le estaba siendo revelado, movía rápidamente los labios, pero Dios le indica que se tranquilice, que Él lo grabaría en su corazón y lo preservaría de todo intento de tergiversación.
+[^1]: El Profeta, que la paz y las bendiciones de Dios sean con él, en su afán por memorizar lo que le estaba siendo revelado, movía rápidamente los labios, pero Dios le indica que se tranquilice, que Él lo grabaría en su corazón y lo preservaría de todo intento de tergiversación.
 
 # 5568
 
@@ -24487,9 +24650,9 @@ Les servirán en copas aromatizadas una bebida con jengibre
 
 # 5609
 
-extraída de una fuente del Paraíso, dulce y siempre accesible.
+extraída de una fuente del Paraíso, dulce y siempre accesible.[^1]
 
-Este versículo presenta dos opciones interpretativas respecto a la palabra árabe “salsabil سلسبيل “; la primera es la que se eligió en esta traducción: que se trata de una característica de la fuente; y la segunda es que la fuente tendría por nombre “Salsabil”. Y Dios sabe más.
+[^1]: que se trata de una característica de la fuente; y la segunda es que la fuente tendría por nombre “Salsabil”. Y Dios sabe más.
 
 # 5610
 
@@ -24673,9 +24836,9 @@ pues arroja chispas grandes como palacios.
 
 # 5655
 
-Chispas que semejan camellos pardos.
+Chispas que semejan camellos pardos.[^1]
 
-Se asemejan en su color oscuro y gran tamaño.
+[^1]: Se asemejan en su color oscuro y gran tamaño.
 
 # 5656
 
@@ -24791,9 +24954,9 @@ que el día sea para procurar el sustento,
 
 # 5684
 
-construí sobre ustedes siete cielos firmes,
+construí sobre ustedes siete cielos firmes,[^1]
 
-Ver Corán 23:86 y su comentario.
+[^1]: 86 y su comentario.
 
 # 5685
 
@@ -24869,9 +25032,9 @@ pero Yo lo registré todo en un libro.
 
 # 5703
 
-En cambio, los piadosos obtendrán la bienaventuranza
+En cambio, los piadosos obtendrán la bienaventuranza[^1]
 
-El Paraíso.
+[^1]: El Paraíso.
 
 # 5704
 
@@ -24899,9 +25062,9 @@ El Señor de los cielos, de la Tierra y de lo que hay entre ellos, el Compasivo.
 
 # 5710
 
-El día en que el Espíritu junto con los demás ángeles se pongan en fila, nadie hablará, salvo aquel a quien el Compasivo se lo permita, y solo podrá decir la verdad.
+El día en que el Espíritu[^1] junto con los demás ángeles se pongan en fila, nadie hablará, salvo aquel a quien el Compasivo se lo permita, y solo podrá decir la verdad.
 
-el Espíritu: El ángel Gabriel.
+[^1]: El ángel Gabriel.
 
 # 5711
 
@@ -24973,9 +25136,9 @@ para que todos salgan de sus tumbas.
 
 # 5728
 
-Cuando su Señor lo llamó en el valle sagrado de Tuwa
+Cuando su Señor lo llamó en el valle sagrado de Tuwa[^1]
 
-en el valle sagrado de Tuwa: Ver Corán 20:112.
+[^1]: Ver Corán 20:112.
 
 # 5729
 
@@ -24991,9 +25154,9 @@ Yo te enseñaré el sendero de tu Señor para que seas piadoso’".
 
 # 5732
 
-Y [Moisés] le mostró [al Faraón] uno de sus grandes milagros.
+Y [Moisés] le mostró [al Faraón] uno de sus grandes milagros.[^1]
 
-Referencia a cuando Moisés arrojó su vara y esta se convirtió en serpiente, y cuando introdujo su mano cerca de su corazón y esta salió blanca, resplandeciente.
+[^1]: Referencia a cuando Moisés arrojó su vara y esta se convirtió en serpiente, y cuando introdujo su mano cerca de su corazón y esta salió blanca, resplandeciente.
 
 # 5733
 
@@ -25097,9 +25260,9 @@ Tú solamente eres un advertidor para quienes tienen temor [al Juicio].
 
 # 5758
 
-El día que lo vean suceder, les parecerá haber permanecido en la vida mundanal solo el tiempo equivalente a una tarde o una mañana.
+El día que lo vean suceder, les parecerá haber permanecido en la vida mundanal solo el tiempo equivalente a una tarde o una mañana.[^1]
 
-Como en muchos otros lugares del Corán (2:259, 17:52, 18:19, 20:103-104, 23:112-113, 30:55, etc.), esto es una indicación sutil de la naturaleza terrenal e ilusoria del concepto humano de “tiempo”, un concepto que perderá todo significado en el contexto de la realidad última comprendida en el término “más allá” (Al Ájira).
+[^1]: 259, 17:52, 18:19, 20:103-104, 23:112-113, 30:55, etc.), esto es una indicación sutil de la naturaleza terrenal e ilusoria del concepto humano de “tiempo”, un concepto que perderá todo significado en el contexto de la realidad última comprendida en el término “más allá” (Al Ájira).
 
 # 5759
 
@@ -25107,9 +25270,9 @@ Como en muchos otros lugares del Corán (2:259, 17:52, 18:19, 20:103-104, 23:112
 
 # 5760
 
-al ciego cuando se presentó ante ti.
+al ciego cuando se presentó ante ti.[^1]
 
-Referencia a cuando ‘Abdullah Ibn Umm Maktum, que era ciego, interrumpió al Profeta, que la paz y las bendiciones de Dios sean con él, que estaba predicando el Islam a los nobles de la tribu de Quraish.
+[^1]: Referencia a cuando ‘Abdullah Ibn Umm Maktum, que era ciego, interrumpió al Profeta, que la paz y las bendiciones de Dios sean con él, que estaba predicando el Islam a los nobles de la tribu de Quraish.
 
 # 5761
 
@@ -25285,9 +25448,9 @@ cuando las montañas sean pulverizadas,
 
 # 5804
 
-cuando las camellas preñadas sean dejadas de lado,
+cuando las camellas preñadas[^1] sean dejadas de lado,
 
-las camellas preñadas: Imagen que representa la gravedad de la situación, ya que por su preocupación las personas abandonan aquellas cosas que les son muy preciadas.
+[^1]: Imagen que representa la gravedad de la situación, ya que por su preocupación las personas abandonan aquellas cosas que les son muy preciadas.
 
 # 5805
 
@@ -25307,9 +25470,9 @@ cuando se le pregunte a las niñas que fueron enterradas vivas
 
 # 5809
 
-por qué pecado las mataron,
+por qué pecado las mataron,[^1]
 
-Los árabes en la época preislámica enterraban a sus hijas vivas por temor a la pobreza o a que estas pudieran caer en manos de los enemigos y eso trajera deshonra a su familia.
+[^1]: Los árabes en la época preislámica enterraban a sus hijas vivas por temor a la pobreza o a que estas pudieran caer en manos de los enemigos y eso trajera deshonra a su familia.
 
 # 5810
 
@@ -25349,9 +25512,9 @@ y [juro] por la mañana cuando extiende su luminosidad,
 
 # 5819
 
-que [el Corán] es la palabra [de Dios transmitida] por un emisario noble,
+que [el Corán] es la palabra [de Dios transmitida] por un emisario noble[^1],
 
-un emisario noble: El ángel Gabriel.
+[^1]: El ángel Gabriel.
 
 # 5820
 
@@ -25527,9 +25690,9 @@ Pero no es así, sino que sus corazones están duros, llenos de herrumbre, debid
 
 # 5863
 
-No es así, sino que ese día no podrán ver a su Señor.
+No es así, sino que ese día[^1] no podrán ver a su Señor.
 
-ese día: El Día del Juicio Final.
+[^1]: El Día del Juicio Final.
 
 # 5864
 
@@ -25601,9 +25764,9 @@ Cuando ven a los suyos dicen: "Ellos son unos desviados",
 
 # 5881
 
-aunque no les fue encargado velar por ellos.
+aunque no les fue encargado velar por ellos.[^1]
 
-Por los creyentes.
+[^1]: Por los creyentes.
 
 # 5882
 
@@ -25731,9 +25894,9 @@ y por el testigo y lo atestiguado,
 
 # 5913
 
-que los que arrojaron a los creyentes al foso del fuego fueron maldecidos.
+que los que arrojaron a los creyentes al foso del fuego fueron maldecidos.[^1]
 
-Referencia a la historia de un rey incrédulo que hizo cavar un foso donde arrojó a los creyentes que no querían renegar de su fe y tomarlo a él como Dios.
+[^1]: Referencia a la historia de un rey incrédulo que hizo cavar un foso donde arrojó a los creyentes que no querían renegar de su fe y tomarlo a él como Dios.
 
 # 5914
 
@@ -26061,9 +26224,9 @@ Juro por la Aurora,
 
 # 5995
 
-por las diez noches,
+por las diez noches,[^1]
 
-Las últimas noches de Ramadán o las primeras noches de Dhul-Jíyyah.
+[^1]: Las últimas noches de Ramadán o las primeras noches de Dhul-Jíyyah.
 
 # 5996
 
@@ -26071,9 +26234,9 @@ por [las oraciones] pares e impares,
 
 # 5997
 
-y por la noche cuando transcurre.
+y por la noche cuando transcurre.[^1]
 
-Dios jura por creaciones que demuestran Su grandeza y poder infinito.
+[^1]: Dios jura por creaciones que demuestran Su grandeza y poder infinito.
 
 # 5998
 
@@ -26081,9 +26244,9 @@ Dios jura por creaciones que demuestran Su grandeza y poder infinito.
 
 # 5999
 
-¿No has visto cómo tu Señor castigó al pueblo de ‘Ád
+¿No has visto cómo tu Señor castigó al pueblo de ‘Ád[^1]
 
-Pueblo de Yemen.
+[^1]: Pueblo de Yemen.
 
 # 6000
 
@@ -26099,9 +26262,9 @@ Y al pueblo de Zamud, que esculpieron sus casas en las montañas rocosas del val
 
 # 6003
 
-Y al Faraón, el de las estacas.
+Y al Faraón, el de las estacas.[^1]
 
-Las estacas pueden tener más de una interpretación. La más evidente es que se trata de grandes estacas de madera en las que empalaba a sus enemigos, a los que torturaba hasta matarlos; una segunda opción, más lejana, es que alude a las pirámides características del Faraón de Egipto.
+[^1]: Las estacas pueden tener más de una interpretación. La más evidente es que se trata de grandes estacas de madera en las que empalaba a sus enemigos, a los que torturaba hasta matarlos; una segunda opción, más lejana, es que alude a las pirámides características del Faraón de Egipto.
 
 # 6004
 
@@ -26193,9 +26356,9 @@ en la que tú resides [¡oh, Mujámmad!],
 
 # 6026
 
-y juro por el progenitor y su descendencia,
+y juro por el progenitor y su descendencia,[^1]
 
-Algunos exégetas consideran que por el contexto de la historia de la ciudad de La Meca, el progenitor es el Profeta Abraham, y la descendencia es el Profeta Ismael, ya que padre e hijo construyeron las bases del primer templo para la adoración de Dios en La Meca.
+[^1]: Algunos exégetas consideran que por el contexto de la historia de la ciudad de La Meca, el progenitor es el Profeta Abraham, y la descendencia es el Profeta Ismael, ya que padre e hijo construyeron las bases del primer templo para la adoración de Dios en La Meca.
 
 # 6027
 
@@ -26255,15 +26418,15 @@ Y ser, además, de los creyentes que se aconsejan mutuamente ser perseverantes [
 
 # 6041
 
-Estos son los bienaventurados de la derecha.
+Estos son los bienaventurados de la derecha.[^1]
 
-Los que recibirán el libro de sus acciones en la mano derecha en el Día del Juicio Final.
+[^1]: Los que recibirán el libro de sus acciones en la mano derecha en el Día del Juicio Final.
 
 # 6042
 
-Mientras que quienes rechacen Mi revelación serán los desventurados de la izquierda
+Mientras que quienes rechacen Mi revelación serán los desventurados de la izquierda[^1]
 
-Los que recibirán el libro de sus acciones en la mano izquierda en el Día del Juicio Final.
+[^1]: Los que recibirán el libro de sus acciones en la mano izquierda en el Día del Juicio Final.
 
 # 6043
 
@@ -26467,9 +26630,9 @@ te he liberado de la carga
 
 # 6093
 
-que agobiaba tu espalda,
+que agobiaba tu espalda,[^1]
 
-Referencia a los pecados anteriores a recibir la revelación.
+[^1]: Referencia a los pecados anteriores a recibir la revelación.
 
 # 6094
 
@@ -26525,9 +26688,9 @@ En cambio, a los creyentes que obran rectamente les tengo reservada una recompen
 
 # 6107
 
-¡Lee! [¡oh, Mujámmad!] En el nombre de tu Señor, Quien creó todas las cosas.
+¡Lee![^1] [¡oh, Mujámmad!] En el nombre de tu Señor, Quien creó todas las cosas.
 
-¡Lee!: El significado del verbo Iqra en árabe es profundo, no solo significa leer, sino también, recitar y repetir, que son de las formas de aprendizaje más antiguas y universales que conoce el ser humano. Por eso se entiende que esta orden implica la búsqueda de conocimiento, y no se limita a quienes están alfabetizados: repetir para memorizar, recitar para que otros aprendan, y también leer. El Profeta, que la paz y bendiciones de Dios sean con él, era iletrado, pero recibió la orden de memorizar y recitar el Corán, que era la forma de lectura que podía practicar.
+[^1]: El significado del verbo Iqra en árabe es profundo, no solo significa leer, sino también, recitar y repetir, que son de las formas de aprendizaje más antiguas y universales que conoce el ser humano. Por eso se entiende que esta orden implica la búsqueda de conocimiento, y no se limita a quienes están alfabetizados: repetir para memorizar, recitar para que otros aprendan, y también leer. El Profeta, que la paz y bendiciones de Dios sean con él, era iletrado, pero recibió la orden de memorizar y recitar el Corán, que era la forma de lectura que podía practicar.
 
 # 6108
 
@@ -26539,9 +26702,9 @@ Creó al hombre de una célula embrionaria.
 
 # 6110
 
-Enseñó la escritura con la pluma
+Enseñó la escritura con la pluma[^1]
 
-Ver Corán 68:1.
+[^1]: 1.
 
 # 6111
 
@@ -26589,9 +26752,9 @@ Si no pone fin [a sus agresiones contra los creyentes] lo arrastraré por su fre
 
 # 6122
 
-esa frente mentirosa y perversa.
+esa frente mentirosa y perversa.[^1]
 
-Investigaciones realizadas en las últimas décadas revelaron que el área del cerebro responsable de la planificación, la motivación y el inicio del comportamiento, reside en la parte frontal del cráneo. Este hecho, que los científicos han descubierto en los últimos años, fue expresado por Dios en el Corán hace catorce siglos.
+[^1]: Investigaciones realizadas en las últimas décadas revelaron que el área del cerebro responsable de la planificación, la motivación y el inicio del comportamiento, reside en la parte frontal del cráneo. Este hecho, que los científicos han descubierto en los últimos años, fue expresado por Dios en el Corán hace catorce siglos.
 
 # 6123
 
@@ -26811,9 +26974,9 @@ Luego, ese día [del Juicio] se les preguntará por cada bendición que recibier
 
 # 6177
 
-Juro por el tiempo
+Juro por el tiempo[^1]
 
-Algunos exegetas sugieren que no es simplemente el tiempo o el transcurso del tiempo, sino que se trataría específicamente del momento de la tarde (‘asr عصر ), ya que en otros versículos del Corán también se mencionan estos tiempos de las oraciones, como por ejemplo el amanecer (fayr ).فجر
+[^1]: Algunos exegetas sugieren que no es simplemente el tiempo o el transcurso del tiempo, sino que se trataría específicamente del momento de la tarde (‘asr عصر ), ya que en otros versículos del Corán también se mencionan estos tiempos de las oraciones, como por ejemplo el amanecer (fayr ).فجر
 
 # 6178
 
@@ -26925,9 +27088,9 @@ y se niegan a prestar hasta la mínima ayuda!
 
 # 6205
 
-[¡Oh, Mujámmad!] te he agraciado con la abundancia.
+[¡Oh, Mujámmad!] te he agraciado con la abundancia.[^1]
 
-La abundancia, Al Kauzar الكوثر , es también el nombre de un río en el Paraíso que le fue concedido al Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él.
+[^1]: La abundancia, Al Kauzar الكوثر , es también el nombre de un río en el Paraíso que le fue concedido al Profeta Mujámmad, que la paz y las bendiciones de Dios sean con él.
 
 # 6206
 
@@ -26963,9 +27126,9 @@ Ustedes tienen su religión y yo la mía".
 
 # 6214
 
-[¡Oh, Mujámmad!] Cuando llegue el socorro de Dios y la victoria,
+[¡Oh, Mujámmad!] Cuando llegue el socorro de Dios y la victoria,[^1]
 
-La reconquista de la ciudad de La Meca.
+[^1]: La reconquista de la ciudad de La Meca.
 
 # 6215
 
@@ -26977,9 +27140,9 @@ glorifica alabando a tu Señor y pide Su perdón; Él es Indulgente.
 
 # 6217
 
-¡Maldito sea Abu Lahab y que perezca!
+¡Maldito sea Abu Lahab[^1] y que perezca!
 
-Abu Lahab: Tío del Profeta Mujámmad y acérrimo enemigo del Islam.
+[^1]: Tío del Profeta Mujámmad y acérrimo enemigo del Islam.
 
 # 6218
 
@@ -26991,9 +27154,9 @@ Será arrojado en el fuego llameante
 
 # 6220
 
-junto con su mujer, la que acarreaba espinas,
+junto con su mujer, la que acarreaba espinas,[^1]
 
-Porque minaba el camino del Profeta, que la paz y las bendiciones de Dios sean con él, con espinas.
+[^1]: Porque minaba el camino del Profeta, que la paz y las bendiciones de Dios sean con él, con espinas.
 
 # 6221
 
@@ -27001,15 +27164,15 @@ que llevará en su cuello una cuerda de fibras de palmera.
 
 # 6222
 
-Di: "Él es Al-lah, Uno.
+Di: "Él es Al-lah[^1], Uno.
 
-Al-lah: Ver Corán 1:1 para la aclaración sobre el nombre de Dios.
+[^1]: Ver Corán 1:1 para la aclaración sobre el nombre de Dios.
 
 # 6223
 
-Al-lah es el Absoluto.
+Al-lah es el Absoluto.[^1]
 
-De Quien todos necesitan, mientras que Él no necesita de nadie.
+[^1]: De Quien todos necesitan, mientras que Él no necesita de nadie.
 
 # 6224
 
@@ -27033,9 +27196,9 @@ del mal de la oscuridad de la noche cuando se extiende,
 
 # 6229
 
-del mal de las [hechiceras] sopladoras de nudos,
+del mal de las [hechiceras] sopladoras de nudos,[^1]
 
-Una de las formas en que las brujas y hechiceras realizan sus artilugios es haciendo unos nudos y soplando sobre ellos a la vez que pronuncian encantos.
+[^1]: Una de las formas en que las brujas y hechiceras realizan sus artilugios es haciendo unos nudos y soplando sobre ellos a la vez que pronuncian encantos.
 
 # 6230
 

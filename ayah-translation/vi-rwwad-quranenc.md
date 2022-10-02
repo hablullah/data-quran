@@ -50,9 +50,9 @@ Những người mà họ có đức tin vào điều vô hình, duy trì lễ n
 
 # 11
 
-Những người mà họ có đức tin vào những điều đã được thiên khải cho Ngươi (Muhammad), cho các vị Thiên Sứ(1) trước Ngươi và có niềm tin kiên định vào Đời Sau.
+Những người mà họ có đức tin vào những điều đã được thiên khải cho Ngươi (Muhammad), cho các vị Thiên Sứ[^1] trước Ngươi và có niềm tin kiên định vào Đời Sau.
 
-(1) Thiên Sứ và Nabi đều là người đại diện cho Allah được Ngài cử phái đến với nhân loại. Tuy nhiên, Thiên Sứ có trọng trách lớn hơn Nabi, Thiên Sứ mang đến một giáo lý hoàn toàn mới, khác với giáo lý trước đó, còn Nabi là người củng cố, tái hiện lại bộ giáo luật của Thiên Sứ tiền nhiệm. Như vậy, Thiên Sứ chính là Nabi nhưng Nabi không hẳn là Thiên Sứ.
+[^1]: Thiên Sứ và Nabi đều là người đại diện cho Allah được Ngài cử phái đến với nhân loại. Tuy nhiên, Thiên Sứ có trọng trách lớn hơn Nabi, Thiên Sứ mang đến một giáo lý hoàn toàn mới, khác với giáo lý trước đó, còn Nabi là người củng cố, tái hiện lại bộ giáo luật của Thiên Sứ tiền nhiệm. Như vậy, Thiên Sứ chính là Nabi nhưng Nabi không hẳn là Thiên Sứ.
 
 # 12
 
@@ -284,9 +284,9 @@ Tuy nhiên, những kẻ làm điều sai quấy đã thay đổi lời nói đ�
 
 # 69
 
-Quả thật, những người có đức tin (trong cộng đồng Islam) và các cộng đồng người Do Thái, người Thiên Chúa và người Sobi-un (Sabian)(2), ai trong số họ đã tin tưởng vào Allah, tin vào Đời Sau và hành thiện thì họ đã đạt được phần thưởng từ Thượng Đế của mình, họ sẽ không phải lo sợ cũng sẽ không buồn phiền.
+Quả thật, những người có đức tin (trong cộng đồng Islam) và các cộng đồng người Do Thái, người Thiên Chúa và người Sobi-un (Sabian)[^2], ai trong số họ đã tin tưởng vào Allah, tin vào Đời Sau và hành thiện thì họ đã đạt được phần thưởng từ Thượng Đế của mình, họ sẽ không phải lo sợ cũng sẽ không buồn phiền.
 
-(2) Sobi-un là danh từ mà người Ả-rập gọi chung tất cả những ai đã cải đạo sang tôn giáo khác, họ theo một số Thiên Sứ của Allah ở thời trước đây. Cố học giả Sheikh Al-Islam Ibnu Taimiyah nói: “Sobi-un có hai nhóm, một nhóm tin tưởng và thờ phượng Allah duy nhất, họ được nhắc ở câu 62 của chương Al-Baqarah và nhóm còn lại là nhóm đa thần, họ được nhắc ở câu 17 của chương Al-Hajj.”
+[^2]: Sobi-un là danh từ mà người Ả-rập gọi chung tất cả những ai đã cải đạo sang tôn giáo khác, họ theo một số Thiên Sứ của Allah ở thời trước đây. Cố học giả Sheikh Al-Islam Ibnu Taimiyah nói: “Sobi-un có hai nhóm, một nhóm tin tưởng và thờ phượng Allah duy nhất, họ được nhắc ở câu 62 của chương Al-Baqarah và nhóm còn lại là nhóm đa thần, họ được nhắc ở câu 17 của chương Al-Hajj.”
 
 # 70
 
@@ -318,9 +318,9 @@ Họ (lại yêu cầu Musa), nói: “Vậy Người hãy cầu nguyện Thư�
 
 # 77
 
-Họ (lại tiếp tục yêu cầu Musa), nói: “Người hãy cầu nguyện Thượng Đế của Người trình bày chi tiết hơn nữa về nó, bởi con bò cái đều giông giống nhau, chúng tôi khó phân biệt, In-Sha-Allah(3) lần này chúng tôi sẽ được chỉ đúng.”
+Họ (lại tiếp tục yêu cầu Musa), nói: “Người hãy cầu nguyện Thượng Đế của Người trình bày chi tiết hơn nữa về nó, bởi con bò cái đều giông giống nhau, chúng tôi khó phân biệt, In-Sha-Allah[^3] lần này chúng tôi sẽ được chỉ đúng.”
 
-(3) In-Sha-Allah nghĩa là “Nếu Allah muốn”. Đây là câu nói mà tín đồ Muslim nên nói khi muốn nói hay làm một điều gì đó ở tương lai.
+[^3]: In-Sha-Allah nghĩa là “Nếu Allah muốn”. Đây là câu nói mà tín đồ Muslim nên nói khi muốn nói hay làm một điều gì đó ở tương lai.
 
 # 78
 
@@ -392,9 +392,9 @@ Quả thật, TA đã ban cho Musa Kinh Sách và đã cử các vị Thiên S�
 
 # 95
 
-(Người Do Thái) bảo: “Con tim của chúng tôi đã bị khóa chặt rồi (không tiếp nhận thêm bất cứ điều gì nữa).” Đúng hơn là Allah đã nguyền rủa(4) họ bởi tội vô đức tin của họ nên họ chỉ tin rất ít.
+(Người Do Thái) bảo: “Con tim của chúng tôi đã bị khóa chặt rồi (không tiếp nhận thêm bất cứ điều gì nữa).” Đúng hơn là Allah đã nguyền rủa[^4] họ bởi tội vô đức tin của họ nên họ chỉ tin rất ít.
 
-(4) Allah đã trục xuất họ ra khỏi lòng thương xót và khoan dung của Ngài.
+[^4]: Allah đã trục xuất họ ra khỏi lòng thương xót và khoan dung của Ngài.
 
 # 96
 
@@ -458,9 +458,9 @@ Nếu họ có đức tin và ngoan đạo thì chắc chắn họ sẽ được
 
 # 111
 
-Hỡi những người có đức tin, các ngươi chớ nói (với Thiên Sứ Muhammad) bằng tiếng Raa’ina(5), đổi lại các ngươi hãy nói (với Y) bằng tiếng Unzhurna, và các ngươi hãy lắng nghe (lời Y dạy). Còn những kẻ vô đức tin (rồi đây) sẽ phải chịu sự trừng phạt đau đớn.
+Hỡi những người có đức tin, các ngươi chớ nói (với Thiên Sứ Muhammad) bằng tiếng Raa’ina[^5], đổi lại các ngươi hãy nói (với Y) bằng tiếng Unzhurna, và các ngươi hãy lắng nghe (lời Y dạy). Còn những kẻ vô đức tin (rồi đây) sẽ phải chịu sự trừng phạt đau đớn.
 
-(5) Những người Do Thái thường hay dùng những tiếng hay những từ ngữ có âm tiết giông giống nhau để nhạo báng hoặc nguyền rủa Thiên Sứ Muhammad. Đã có nhiều Hadith cho biết rằng những người Do Thái mỗi khi chào Salam đến Thiên Sứ Muhammad, thay vì nói Assalam Alaykum thì họ lại nói Assaam Alaykum, Assalam có nghĩa là bằng an còn Assaam có nghĩa là cái chết, ý họ muốn dùng tiếng Assaam để nguyền rủa Người. Tương tự, khi họ muốn nói với Thiên Sứ Muhammad “hãy lắng nghe chúng tôi”, thay vì họ nói “Raa’ina” thì họ lại nói “ari’na” có nghĩa là ngu ngốc, ý của họ muốn nhạo báng Người. Cho nên, Allah ra lệnh cho những người có đức tin không dùng tiếng “Raa’ina” nữa mà hãy dùng tiếng “Unzhurna” để thay thế khi nói chuyện với Thiên Sứ Muhammad.
+[^5]: Những người Do Thái thường hay dùng những tiếng hay những từ ngữ có âm tiết giông giống nhau để nhạo báng hoặc nguyền rủa Thiên Sứ Muhammad. Đã có nhiều Hadith cho biết rằng những người Do Thái mỗi khi chào Salam đến Thiên Sứ Muhammad, thay vì nói Assalam Alaykum thì họ lại nói Assaam Alaykum, Assalam có nghĩa là bằng an còn Assaam có nghĩa là cái chết, ý họ muốn dùng tiếng Assaam để nguyền rủa Người. Tương tự, khi họ muốn nói với Thiên Sứ Muhammad “hãy lắng nghe chúng tôi”, thay vì họ nói “Raa’ina” thì họ lại nói “ari’na” có nghĩa là ngu ngốc, ý của họ muốn nhạo báng Người. Cho nên, Allah ra lệnh cho những người có đức tin không dùng tiếng “Raa’ina” nữa mà hãy dùng tiếng “Unzhurna” để thay thế khi nói chuyện với Thiên Sứ Muhammad.
 
 # 112
 
@@ -500,9 +500,9 @@ Những người Do Thái thì bảo những người Thiên Chúa chẳng có g
 
 # 121
 
-Thế còn ai sai quấy hơn những kẻ đã ngăn cản thiên hạ tụng niệm Allah trong các Masjid(6) của Ngài cũng như không ngừng tìm mọi cách đập phá cho bằng được (các Masjid). Những kẻ đó, phải làm cho họ sợ mỗi khi họ muốn vào các Masjid. Họ phải bị hạ nhục ở trần gian này còn ở Đời Sau họ sẽ phải đối mặt với sự trừng phạt vô cùng khủng khiếp.
+Thế còn ai sai quấy hơn những kẻ đã ngăn cản thiên hạ tụng niệm Allah trong các Masjid[^6] của Ngài cũng như không ngừng tìm mọi cách đập phá cho bằng được (các Masjid). Những kẻ đó, phải làm cho họ sợ mỗi khi họ muốn vào các Masjid. Họ phải bị hạ nhục ở trần gian này còn ở Đời Sau họ sẽ phải đối mặt với sự trừng phạt vô cùng khủng khiếp.
 
-(6) Masjid là phiên âm của (مَسْجِدٌ) trong tiếng Ả-rập, theo nghĩa đen của từ có nghĩa là nơi quỳ lạy thờ cúng, số nhiều của tiếng này là (مَسَاجِدُ) – Masa-jid. Trong thuật ngữ Islam, Masjid được dùng để gọi ngôi nhà mà các tín đồ Muslim dâng lễ nguyện Salah tập thể trong đó. Người nói tiếng Việt khi nhắc đến ngôi nhà mà các tín đồ Muslim dâng lễ nguyện Salah tập thể thì họ thường dùng từ “thánh đường” hoặc “nhà thờ” để diễn đạt, có người kỹ hơn một chút thì kết hợp thêm cùng với từ “Hồi giáo” tức “thánh đường Hồi giáo” hoặc “nhà thờ Hồi giáo” để phân biệt với nhà thờ hoặc thánh đường của Thiên Chúa giáo. Xét về mặt ngữ nghĩa thì “nhà thờ” tương đối sát nghĩa hơn “thánh đường”, còn “thánh đường” chưa thực sự chính xác bởi vì “thánh đường” có nghĩa là ngôi nhà của thần thánh trong khi Allah không phải là thần thánh mà là Đấng Tạo Hóa, Đấng Tối Cao, Đấng Đáng Được Thờ Phượng, Thượng Đế của vũ trụ và vạn vật. Tuy nhiên, từ “thánh đường” đã trở nên phổ biến và quen thuộc trong cộng đồng Muslim nói tiếng Việt mỗi khi nhắc đến ngôi nhà mà các tín đồ Muslim dâng lễ nguyện Salah tập thể. Bản dịch Qur’an tiếng Việt này dùng luôn tiếng phiên âm mà không chuyển ngữ với mong muốn tiếng “Masjid” trở thành tiếng đặc trưng của người Muslim nói tiếng Việt khi họ gọi ngôi nhà dâng lễ nguyện Salah tập thể của mình mục đích để khỏi nhằm lẫn với các nơi thờ cúng của người ngoại đạo.
+[^6]: Masjid là phiên âm của (مَسْجِدٌ) trong tiếng Ả-rập, theo nghĩa đen của từ có nghĩa là nơi quỳ lạy thờ cúng, số nhiều của tiếng này là (مَسَاجِدُ) – Masa-jid. Trong thuật ngữ Islam, Masjid được dùng để gọi ngôi nhà mà các tín đồ Muslim dâng lễ nguyện Salah tập thể trong đó. Người nói tiếng Việt khi nhắc đến ngôi nhà mà các tín đồ Muslim dâng lễ nguyện Salah tập thể thì họ thường dùng từ “thánh đường” hoặc “nhà thờ” để diễn đạt, có người kỹ hơn một chút thì kết hợp thêm cùng với từ “Hồi giáo” tức “thánh đường Hồi giáo” hoặc “nhà thờ Hồi giáo” để phân biệt với nhà thờ hoặc thánh đường của Thiên Chúa giáo. Xét về mặt ngữ nghĩa thì “nhà thờ” tương đối sát nghĩa hơn “thánh đường”, còn “thánh đường” chưa thực sự chính xác bởi vì “thánh đường” có nghĩa là ngôi nhà của thần thánh trong khi Allah không phải là thần thánh mà là Đấng Tạo Hóa, Đấng Tối Cao, Đấng Đáng Được Thờ Phượng, Thượng Đế của vũ trụ và vạn vật. Tuy nhiên, từ “thánh đường” đã trở nên phổ biến và quen thuộc trong cộng đồng Muslim nói tiếng Việt mỗi khi nhắc đến ngôi nhà mà các tín đồ Muslim dâng lễ nguyện Salah tập thể. Bản dịch Qur’an tiếng Việt này dùng luôn tiếng phiên âm mà không chuyển ngữ với mong muốn tiếng “Masjid” trở thành tiếng đặc trưng của người Muslim nói tiếng Việt khi họ gọi ngôi nhà dâng lễ nguyện Salah tập thể của mình mục đích để khỏi nhằm lẫn với các nơi thờ cúng của người ngoại đạo.
 
 # 122
 
@@ -614,9 +614,9 @@ Hay là các ngươi cho rằng Ibrahim, Isma’il, Is-haq, Ya’qub cũng như 
 
 # 149
 
-Những kẻ hiểu biết kém cỏi trong thiên hạ (thuộc đám người Do Thái) sẽ nói: “Điều gì khiến họ (người Muslim) phải thay đổi Qiblah(7) mà họ thường hướng về đó trước đây?” Ngươi hãy nói (hỡi Muhammad): “Hướng đông lẫn hướng tây đều thuộc về Allah, Ngài hướng dẫn ai Ngài muốn đến với con đường ngay thẳng (chính đạo).”
+Những kẻ hiểu biết kém cỏi trong thiên hạ (thuộc đám người Do Thái) sẽ nói: “Điều gì khiến họ (người Muslim) phải thay đổi Qiblah[^7] mà họ thường hướng về đó trước đây?” Ngươi hãy nói (hỡi Muhammad): “Hướng đông lẫn hướng tây đều thuộc về Allah, Ngài hướng dẫn ai Ngài muốn đến với con đường ngay thẳng (chính đạo).”
 
-(7) Qiblah là hướng mà toàn thể các tín đồ Muslim phải quay mặt về đó khi thực hiện lễ nguyện Salah. Ban đầu, Qiblah của người Muslim là Baitu Al-Maqdis – Jerusalem (Palestine). Người Muslim vẫn quay mặt về Jerusalem trong lễ nguyện Salah, cho đến khi Thiên Sứ của Allah định cư ở Madinah được 16 (hoặc 17) tháng sau khi rời bỏ Makkah thì Allah ra lệnh đổi Qiblah về ngôi đền Ka’bah – Makkah. Kể từ đó ngôi đền Ka’bah trở thành Qiblah của người Muslim cho đến Ngày Tận Thế.
+[^7]: Qiblah là hướng mà toàn thể các tín đồ Muslim phải quay mặt về đó khi thực hiện lễ nguyện Salah. Ban đầu, Qiblah của người Muslim là Baitu Al-Maqdis – Jerusalem (Palestine). Người Muslim vẫn quay mặt về Jerusalem trong lễ nguyện Salah, cho đến khi Thiên Sứ của Allah định cư ở Madinah được 16 (hoặc 17) tháng sau khi rời bỏ Makkah thì Allah ra lệnh đổi Qiblah về ngôi đền Ka’bah – Makkah. Kể từ đó ngôi đền Ka’bah trở thành Qiblah của người Muslim cho đến Ngày Tận Thế.
 
 # 150
 
@@ -672,9 +672,9 @@ TA chắc chắn thử thách các ngươi với nỗi sợ hãi, với cơn đ�
 
 # 163
 
-Những ai mà họ khi gặp phải tai ương thì nói: “Quả thật, bầy tôi thuộc về Allah và bầy tôi phải quay về với Ngài!”(8)
+Những ai mà họ khi gặp phải tai ương thì nói: “Quả thật, bầy tôi thuộc về Allah và bầy tôi phải quay về với Ngài!”[^8]
 
-(8) Đây là câu nói mà người Muslim nên nói khi gặp phải tai họa hoặc bị mất mát một thứ gì đó. Nó khẳng định đức tin nơi sự sắp đặt và an bài của Allah và thể hiện lòng kiên nhẫn trước những thiệt hại và mất mát. Nếu có thể, người Muslim nên nói câu này bằng nguyên văn lời Qur’an: إِنَّا لِلّهِِ وَإِنَّا إِلَيْهِ رَ اجِعُوْنَ (In naa lil la wa in naa i lay hi ro ji ’un).
+[^8]: Đây là câu nói mà người Muslim nên nói khi gặp phải tai họa hoặc bị mất mát một thứ gì đó. Nó khẳng định đức tin nơi sự sắp đặt và an bài của Allah và thể hiện lòng kiên nhẫn trước những thiệt hại và mất mát. Nếu có thể, người Muslim nên nói câu này bằng nguyên văn lời Qur’an: إِنَّا لِلّهِِ وَإِنَّا إِلَيْهِ رَ اجِعُوْنَ (In naa lil la wa in naa i lay hi ro ji ’un).
 
 # 164
 
@@ -762,9 +762,9 @@ Sự ngoan đạo không phải ở việc các ngươi quay mặt về hướng
 
 # 185
 
-Hỡi những người có đức tin, Qisas(9) đã được sắc lệnh thành luật cho các ngươi trong vấn đề giết chóc, nó được quy định một mạng đền một mạng: người tự do bằng người tự do; người nô lệ bằng người nô lệ; một người nữ bằng một người nữ. Tuy nhiên, nếu người phạm nhân nào được người anh em của mình (từ bên phía nạn nhân) xí xóa (không đòi Qisas) thì y hãy cư xử sao cho phải lẽ và y hãy bồi thường cho nạn nhân một cách tốt nhất. Đó là sự giảm nhẹ và lòng thương xót từ Thượng Đế của các ngươi. Cho nên sau các qui định được nêu trên, ai vượt quá giới hạn thì sẽ bị trừng phạt đau đớn.
+Hỡi những người có đức tin, Qisas[^9] đã được sắc lệnh thành luật cho các ngươi trong vấn đề giết chóc, nó được quy định một mạng đền một mạng: người tự do bằng người tự do; người nô lệ bằng người nô lệ; một người nữ bằng một người nữ. Tuy nhiên, nếu người phạm nhân nào được người anh em của mình (từ bên phía nạn nhân) xí xóa (không đòi Qisas) thì y hãy cư xử sao cho phải lẽ và y hãy bồi thường cho nạn nhân một cách tốt nhất. Đó là sự giảm nhẹ và lòng thương xót từ Thượng Đế của các ngươi. Cho nên sau các qui định được nêu trên, ai vượt quá giới hạn thì sẽ bị trừng phạt đau đớn.
 
-(9) Qisas là luật trả đũa mạng đền mạng hoặc gây tổn thương phải chịu sự đáp trả tương đương.
+[^9]: Qisas là luật trả đũa mạng đền mạng hoặc gây tổn thương phải chịu sự đáp trả tương đương.
 
 # 186
 
@@ -772,9 +772,9 @@ Và trong luật Qisas, các ngươi hỡi những người hiểu biết sẽ c
 
 # 187
 
-Các ngươi được sắc lệnh: khi ai đó trong các ngươi sắp từ trần, nếu y để lại tài sản thì y phải lập di chúc cho cha mẹ và họ hàng thân thuộc một cách hợp lý.(10) Đó là bổn phận của những người ngoan đạo.
+Các ngươi được sắc lệnh: khi ai đó trong các ngươi sắp từ trần, nếu y để lại tài sản thì y phải lập di chúc cho cha mẹ và họ hàng thân thuộc một cách hợp lý.[^10] Đó là bổn phận của những người ngoan đạo.
 
-(10) Câu Kinh này được ban xuống trước các câu Kinh về giáo luật chia tài sản thừa kế. Sau khi các câu Kinh về giáo luật chia tài sản thừa kế được thiên khải thì qui định lập di chúc cho cha mẹ được xóa bỏ chỉ còn lại qui định lập di chúc cho bà con họ hàng không nằm trong nhóm thừa kế.
+[^10]: Câu Kinh này được ban xuống trước các câu Kinh về giáo luật chia tài sản thừa kế. Sau khi các câu Kinh về giáo luật chia tài sản thừa kế được thiên khải thì qui định lập di chúc cho cha mẹ được xóa bỏ chỉ còn lại qui định lập di chúc cho bà con họ hàng không nằm trong nhóm thừa kế.
 
 # 188
 
@@ -790,9 +790,9 @@ Hỡi những người có đức tin, việc nhịn chay đã được sắc l�
 
 # 191
 
-(Nhịn chay chỉ bắt buộc trong) một số ngày nhất định. Tuy nhiên, ai trong các ngươi bị bệnh hoặc là khách lữ hành thì y hãy nhịn bù lại vào những ngày khác tương ứng với số ngày đã không nhịn. Và ai có khả năng nhịn chay nhưng không muốn nhịn thì hãy nuôi ăn một người nghèo (thay thế cho một ngày nhịn chay),(11) còn ai tự nguyện (bố thí) thì đó là điều tốt đẹp cho y. Tuy nhiên, việc các ngươi nhịn chay sẽ tốt hơn cho các ngươi nếu các ngươi biết được (giá trị của việc nhịn chay).
+(Nhịn chay chỉ bắt buộc trong) một số ngày nhất định. Tuy nhiên, ai trong các ngươi bị bệnh hoặc là khách lữ hành thì y hãy nhịn bù lại vào những ngày khác tương ứng với số ngày đã không nhịn. Và ai có khả năng nhịn chay nhưng không muốn nhịn thì hãy nuôi ăn một người nghèo (thay thế cho một ngày nhịn chay),[^11] còn ai tự nguyện (bố thí) thì đó là điều tốt đẹp cho y. Tuy nhiên, việc các ngươi nhịn chay sẽ tốt hơn cho các ngươi nếu các ngươi biết được (giá trị của việc nhịn chay).
 
-(11) Đây là qui định ban đầu về giáo luật nhịn chay. Trong qui định ban đầu này, ai muốn nhịn thì nhịn còn ai không muốn có thể dùng cách nuôi ăn mỗi ngày một người nghèo cho từng ngày nhịn chay. Sau đó, qui định này bị xóa bỏ và được thay thế bằng qui định mới, đó là tất cả những ai có khả năng đều phải nhịn chay.
+[^11]: Đây là qui định ban đầu về giáo luật nhịn chay. Trong qui định ban đầu này, ai muốn nhịn thì nhịn còn ai không muốn có thể dùng cách nuôi ăn mỗi ngày một người nghèo cho từng ngày nhịn chay. Sau đó, qui định này bị xóa bỏ và được thay thế bằng qui định mới, đó là tất cả những ai có khả năng đều phải nhịn chay.
 
 # 192
 
@@ -804,9 +804,9 @@ Và khi bầy tôi của TA hỏi Ngươi (hỡi Thiên Sứ) về TA thì Ngư�
 
 # 194
 
-Các ngươi được phép gần gũi vợ của các ngươi vào ban đêm (của tháng) nhịn chay,(12) họ là y phục của các ngươi và các ngươi là y phục của họ. Allah đã biết việc các ngươi thường lén lút (gần gũi họ) nên Ngài đoái thương mà lượng thứ cho các ngươi. Giờ đây các ngươi được tự do gần gũi họ và hãy tìm kiếm những gì được Allah an bày cho các ngươi. Các ngươi được tự do ăn uống trong đêm cho đến khi các ngươi phân biệt được sợi chỉ trắng với sợi chỉ đen lúc rạng đông, khi đó các ngươi lại tiếp tục cuộc nhịn chay cho đến đêm. Các ngươi chớ gần gũi vợ của các ngươi trong suốt thời gian các ngươi đang ‘Etikaf (lánh trần tu tịnh) trong các Masjid. Đấy là những giới cấm của Allah, các ngươi chớ đến gần. Như thế đó, Allah đã trình bày rõ ràng các lời mặc khải của Ngài cho nhân loại, mong rằng họ biết sợ Ngài.
+Các ngươi được phép gần gũi vợ của các ngươi vào ban đêm (của tháng) nhịn chay,[^12] họ là y phục của các ngươi và các ngươi là y phục của họ. Allah đã biết việc các ngươi thường lén lút (gần gũi họ) nên Ngài đoái thương mà lượng thứ cho các ngươi. Giờ đây các ngươi được tự do gần gũi họ và hãy tìm kiếm những gì được Allah an bày cho các ngươi. Các ngươi được tự do ăn uống trong đêm cho đến khi các ngươi phân biệt được sợi chỉ trắng với sợi chỉ đen lúc rạng đông, khi đó các ngươi lại tiếp tục cuộc nhịn chay cho đến đêm. Các ngươi chớ gần gũi vợ của các ngươi trong suốt thời gian các ngươi đang ‘Etikaf (lánh trần tu tịnh) trong các Masjid. Đấy là những giới cấm của Allah, các ngươi chớ đến gần. Như thế đó, Allah đã trình bày rõ ràng các lời mặc khải của Ngài cho nhân loại, mong rằng họ biết sợ Ngài.
 
-(12) Luật nhịn chay được qui định lúc ban đầu là cấm người đàn ông thức dậy trong đêm Ramadan ăn uống và gần gũi vợ. Sau đó, qui định này bị xóa bỏ bởi câu Kinh này.
+[^12]: Luật nhịn chay được qui định lúc ban đầu là cấm người đàn ông thức dậy trong đêm Ramadan ăn uống và gần gũi vợ. Sau đó, qui định này bị xóa bỏ bởi câu Kinh này.
 
 # 195
 
@@ -814,9 +814,9 @@ Các ngươi chớ đừng ăn tài sản của nhau một cách bất chính v�
 
 # 196
 
-Họ hỏi Ngươi (hỡi Thiên Sứ) về các vầng trăng lưỡi liềm. Ngươi hãy bảo họ: “Các vầng trăng lưỡi liềm là những móc thời gian để con người tính toán ngày tháng và việc thi hành Hajj.” Việc ngoan đạo không thể hiện qua hành động đi vào nhà của mình từ nóc nhà (sau khi đã vào tình trạng Ehram),(13) mà sự ngoan đạo được thể hiện ở lòng kính sợ (Allah). Cho nên, các ngươi hãy vào nhà từ các cửa chính và các ngươi hãy kính sợ Allah, mong rằng các ngươi được thành công.
+Họ hỏi Ngươi (hỡi Thiên Sứ) về các vầng trăng lưỡi liềm. Ngươi hãy bảo họ: “Các vầng trăng lưỡi liềm là những móc thời gian để con người tính toán ngày tháng và việc thi hành Hajj.” Việc ngoan đạo không thể hiện qua hành động đi vào nhà của mình từ nóc nhà (sau khi đã vào tình trạng Ehram),[^13] mà sự ngoan đạo được thể hiện ở lòng kính sợ (Allah). Cho nên, các ngươi hãy vào nhà từ các cửa chính và các ngươi hãy kính sợ Allah, mong rằng các ngươi được thành công.
 
-(13) Những người Ả-rập thời tiền Islam kiêng cử vào nhà từ cửa chính, nhất là trong suốt thời gian thực hiện Hajj. Họ xem việc vào nhà theo cửa chính là hành động không ngoan đạo, họ thường đi vào nhà từ trên nóc. Islam đến xóa bỏ tập tục và quan niệm này.
+[^13]: Những người Ả-rập thời tiền Islam kiêng cử vào nhà từ cửa chính, nhất là trong suốt thời gian thực hiện Hajj. Họ xem việc vào nhà theo cửa chính là hành động không ngoan đạo, họ thường đi vào nhà từ trên nóc. Islam đến xóa bỏ tập tục và quan niệm này.
 
 # 197
 
@@ -872,9 +872,9 @@ Và trong nhân loại, có những người cầu xin “Lạy Thượng Đế 
 
 # 210
 
-Các ngươi hãy tụng niệm Allah vào những ngày nhất định,(14) nhưng ai vội vã rời đi sau hai ngày (ngày 11 và 12) thì không có tội và ai ở lại (cho đến ngày 13) thì cũng không có tội (bởi điều này) dành cho người ngoan đạo. Các ngươi hãy kính sợ Allah và các ngươi hãy biết rằng các ngươi phải trở về trình diện Ngài.
+Các ngươi hãy tụng niệm Allah vào những ngày nhất định,[^14] nhưng ai vội vã rời đi sau hai ngày (ngày 11 và 12) thì không có tội và ai ở lại (cho đến ngày 13) thì cũng không có tội (bởi điều này) dành cho người ngoan đạo. Các ngươi hãy kính sợ Allah và các ngươi hãy biết rằng các ngươi phải trở về trình diện Ngài.
 
-(14) Đó là ba ngày 11, 12 và 13 của tháng Zdul-Hijjah được gọi là những ngày Tashreeq. Một trong nghi thức của Hajj là ở lại khu vực Mina trong suốt những ngày này.
+[^14]: Đó là ba ngày 11, 12 và 13 của tháng Zdul-Hijjah được gọi là những ngày Tashreeq. Một trong nghi thức của Hajj là ở lại khu vực Mina trong suốt những ngày này.
 
 # 211
 
@@ -930,9 +930,9 @@ Lệnh chiến đấu đã được ban hành cho các ngươi và đó là đi�
 
 # 224
 
-Họ (nhân loại) hỏi Ngươi (hỡi Thiên Sứ) về việc chiến đấu trong tháng cấm kỵ.(15) Ngươi hãy trả lời họ: “Việc chiến đấu trong tháng cấm kỵ là vi phạm nghiêm trọng, nhưng việc ngăn cản con đường chính đạo của Allah, việc phủ nhận Ngài, việc cấm mọi người vào Masjid Haram cũng như việc trục xuất dân cư của (Makkah) ra khỏi (vùng đất của họ) còn nghiêm trọng hơn đối với Allah; và sự quấy nhiễu còn nghiêm trọng hơn cả sự giết chóc. Mặc dù vậy, những người đa thần vẫn không ngừng chiến đấu với các ngươi cho đến khi nào họ kéo các ngươi rời khỏi tôn giáo của các ngươi bằng mọi cách có thể. Ai trong các ngươi bỏ đạo và chết trong tình trạng vô đức tin thì mọi việc hành thiện của y bị xóa sạch ở đời này lẫn Đời Sau, họ sẽ là những người bạn của Hỏa Ngục, và họ sẽ ở trong đó mãi mãi.
+Họ (nhân loại) hỏi Ngươi (hỡi Thiên Sứ) về việc chiến đấu trong tháng cấm kỵ.[^15] Ngươi hãy trả lời họ: “Việc chiến đấu trong tháng cấm kỵ là vi phạm nghiêm trọng, nhưng việc ngăn cản con đường chính đạo của Allah, việc phủ nhận Ngài, việc cấm mọi người vào Masjid Haram cũng như việc trục xuất dân cư của (Makkah) ra khỏi (vùng đất của họ) còn nghiêm trọng hơn đối với Allah; và sự quấy nhiễu còn nghiêm trọng hơn cả sự giết chóc. Mặc dù vậy, những người đa thần vẫn không ngừng chiến đấu với các ngươi cho đến khi nào họ kéo các ngươi rời khỏi tôn giáo của các ngươi bằng mọi cách có thể. Ai trong các ngươi bỏ đạo và chết trong tình trạng vô đức tin thì mọi việc hành thiện của y bị xóa sạch ở đời này lẫn Đời Sau, họ sẽ là những người bạn của Hỏa Ngục, và họ sẽ ở trong đó mãi mãi.
 
-(15) Islam và tôn giáo của ông tổ Ibrahim luôn tôn trọng các tháng cấm kỵ, họ sẽ không gây thù hận hoặc đánh nhau trong các tháng này. Các tháng cấm kỵ gồm tháng Muharram, Rajab, Zdul-Qa’dah và Zdul-Hijjah, (tức tháng giêng, tháng 7, tháng 11 và tháng 12 theo lịch Islam).
+[^15]: Islam và tôn giáo của ông tổ Ibrahim luôn tôn trọng các tháng cấm kỵ, họ sẽ không gây thù hận hoặc đánh nhau trong các tháng này. Các tháng cấm kỵ gồm tháng Muharram, Rajab, Zdul-Qa’dah và Zdul-Hijjah, (tức tháng giêng, tháng 7, tháng 11 và tháng 12 theo lịch Islam).
 
 # 225
 
@@ -940,15 +940,15 @@ Những người có đức tin, những người di cư và anh dũng chiến �
 
 # 226
 
-Họ (những người bạn đạo của Ngươi) hỏi Ngươi (hỡi Thiên Sứ Muhammad) về rượu và cờ bạc. Ngươi hãy trả lời họ: “Trong hai thứ vừa có tội lớn vừa có lợi ích cho con người nhưng tội của chúng lớn hơn lợi ích mà chúng mang lại.” Và họ hỏi Ngươi “nên bố thí loại tài sản nào”. Ngươi hãy trả lời họ: “(Các ngươi hãy bố thí) phần tài sản còn lại (sau khi các ngươi đã sử dụng cho nhu cầu cần thiết).”(16) Như thế đó Allah đã trình bày rõ cho các ngươi các lời mặc khải của Ngài mong rằng các ngươi biết suy ngẫm.
+Họ (những người bạn đạo của Ngươi) hỏi Ngươi (hỡi Thiên Sứ Muhammad) về rượu và cờ bạc. Ngươi hãy trả lời họ: “Trong hai thứ vừa có tội lớn vừa có lợi ích cho con người nhưng tội của chúng lớn hơn lợi ích mà chúng mang lại.” Và họ hỏi Ngươi “nên bố thí loại tài sản nào”. Ngươi hãy trả lời họ: “(Các ngươi hãy bố thí) phần tài sản còn lại (sau khi các ngươi đã sử dụng cho nhu cầu cần thiết).”[^16] Như thế đó Allah đã trình bày rõ cho các ngươi các lời mặc khải của Ngài mong rằng các ngươi biết suy ngẫm.
 
-(16) Câu Kinh này xuống trước khi lệnh Zakah được thiên khải, sau đó Allah bắt buộc phải xuất Zakah theo định lượng và từng loại tài sản nhất định.
+[^16]: Câu Kinh này xuống trước khi lệnh Zakah được thiên khải, sau đó Allah bắt buộc phải xuất Zakah theo định lượng và từng loại tài sản nhất định.
 
 # 227
 
-(Để mang lại lợi ích) ở đời này và ở Đời Sau. Họ hỏi Ngươi về trẻ mồ côi.(17) Ngươi hãy trả lời họ: “Cải thiện (đời sống) cho chúng là điều tốt nhất, nhưng nếu các ngươi hùng hạp (tài sản) với chúng thì chúng vốn là anh em (đồng đạo) với các ngươi, Allah biết rõ ai là kẻ phá hoại và ai là người muốn cải thiện. Nếu muốn, Allah thừa sức gây khó khăn cho các ngươi, bởi Allah là Đấng Toàn Năng, Đấng Sáng Suốt.
+(Để mang lại lợi ích) ở đời này và ở Đời Sau. Họ hỏi Ngươi về trẻ mồ côi.[^17] Ngươi hãy trả lời họ: “Cải thiện (đời sống) cho chúng là điều tốt nhất, nhưng nếu các ngươi hùng hạp (tài sản) với chúng thì chúng vốn là anh em (đồng đạo) với các ngươi, Allah biết rõ ai là kẻ phá hoại và ai là người muốn cải thiện. Nếu muốn, Allah thừa sức gây khó khăn cho các ngươi, bởi Allah là Đấng Toàn Năng, Đấng Sáng Suốt.
 
-(17) Theo Islam những đứa trẻ chết cha trước khi trưởng thành được xem là trẻ mồ côi, còn chết mẹ thì không được xem là mồ côi.
+[^17]: Theo Islam những đứa trẻ chết cha trước khi trưởng thành được xem là trẻ mồ côi, còn chết mẹ thì không được xem là mồ côi.
 
 # 228
 
@@ -984,16 +984,17 @@ Những người vợ li dị (vì quyền lợi của bản thân) phải kiên
 
 # 236
 
-Việc li dị(18) chỉ được phép hai lần. (Sau mỗi lần li dị), hoặc là người chồng giữ vợ lại một cách tử tế hoặc là trả tự do cho vợ một cách tốt đẹp. Và các ngươi (hỡi những người chồng) không được phép lấy lại bất cứ gì từ tiền cưới đã trao tặng vợ, ngoại trừ trường hợp cả hai sợ bản thân không duy trì được giới luật của Allah(19) thì cả hai không mắc tội khi (người vợ) dùng tiền cưới chuộc sự tự do cho bản thân. Đó là những giới luật của Allah, các ngươi chớ đừng vi phạm. Ai vi phạm các giới luật của Allah thì họ chính là những kẻ sai quấy.
+Việc li dị[^18] chỉ được phép hai lần. (Sau mỗi lần li dị), hoặc là người chồng giữ vợ lại một cách tử tế hoặc là trả tự do cho vợ một cách tốt đẹp. Và các ngươi (hỡi những người chồng) không được phép lấy lại bất cứ gì từ tiền cưới đã trao tặng vợ, ngoại trừ trường hợp cả hai sợ bản thân không duy trì được giới luật của Allah[^19] thì cả hai không mắc tội khi (người vợ) dùng tiền cưới chuộc sự tự do cho bản thân. Đó là những giới luật của Allah, các ngươi chớ đừng vi phạm. Ai vi phạm các giới luật của Allah thì họ chính là những kẻ sai quấy.
 
-(18) Theo luật Islam, việc li dị được chia thành hai loại, Raj‘i và Ba-in. Raj‘i là người chồng nói li dị vợ rồi làm lành và trở lại chung sống với vợ. Người chồng được phép tối đa hai lần ở hình thức Raj‘i, và khi người chồng tuyên bố li dị lần thứ ba thì anh ta bị cấm trở lại với vợ trừ phi người vợ của anh ta đã kết hôn với người chồng mới (kết hôn thực sự chứ không phải giả dối) rồi người chồng mới lại li dị cô ta sau đó thì anh ta mới được quay lại, và lần li dị thứ ba được gọi là Ba-in. 
-(19) Trường hợp người vợ không chịu nổi tính xấu hay thói bạo hành của người chồng hoặc do ngoại hình xấu xí của người chồng nên người vợ sợ không làm tròn trách nhiệm đối với chồng mà Islam quy định thì người vợ được quyền đề nghị với người có thẩm quyển hủy hôn và đồng ý trả lại tiền cưới mà chồng đã trao tặng trước đây, lúc này người chồng được quyền nhận lại tiền cưới mà không phạm tội.
+[^18]: Theo luật Islam, việc li dị được chia thành hai loại, Raj‘i và Ba-in. Raj‘i là người chồng nói li dị vợ rồi làm lành và trở lại chung sống với vợ. Người chồng được phép tối đa hai lần ở hình thức Raj‘i, và khi người chồng tuyên bố li dị lần thứ ba thì anh ta bị cấm trở lại với vợ trừ phi người vợ của anh ta đã kết hôn với người chồng mới (kết hôn thực sự chứ không phải giả dối) rồi người chồng mới lại li dị cô ta sau đó thì anh ta mới được quay lại, và lần li dị thứ ba được gọi là Ba-in.
+
+[^19]: Trường hợp người vợ không chịu nổi tính xấu hay thói bạo hành của người chồng hoặc do ngoại hình xấu xí của người chồng nên người vợ sợ không làm tròn trách nhiệm đối với chồng mà Islam quy định thì người vợ được quyền đề nghị với người có thẩm quyển hủy hôn và đồng ý trả lại tiền cưới mà chồng đã trao tặng trước đây, lúc này người chồng được quyền nhận lại tiền cưới mà không phạm tội.
 
 # 237
 
-Nếu (người chồng) li dị vợ (lần thứ ba) thì người vợ không còn là vợ hợp pháp của y nữa cho đến khi cô vợ kết hôn với người chồng khác.(20) Sau này (người chồng mới) lại li dị cô ta thì cô ta và người chồng cũ không bị tội nếu cả hai muốn quay lại với nhau, nhất là khi cả hai tin rằng sẽ duy trì được giới luật của Allah. Đó là những giới luật của Allah, Ngài trình bày rõ ràng cho những người hiểu biết.
+Nếu (người chồng) li dị vợ (lần thứ ba) thì người vợ không còn là vợ hợp pháp của y nữa cho đến khi cô vợ kết hôn với người chồng khác.[^20] Sau này (người chồng mới) lại li dị cô ta thì cô ta và người chồng cũ không bị tội nếu cả hai muốn quay lại với nhau, nhất là khi cả hai tin rằng sẽ duy trì được giới luật của Allah. Đó là những giới luật của Allah, Ngài trình bày rõ ràng cho những người hiểu biết.
 
-(20) Sau khi Ba-in tức li dị lần thứ ba, để được trở lại sống chung với chồng cũ thì người vợ phải kết hôn với người đàn ông khác đúng với giáo luật Islam và phải trải qua giao hợp, không được phép kết hôn hình thức để hợp thức hóa việc trở lại với chồng cũ. Sau khi kết thúc hôn nhân với chồng mới do li dị hoặc chồng chết thì cô ta mới được phép kết hôn lại với chồng cũ bằng cuộc hôn lễ Islam.
+[^20]: Sau khi Ba-in tức li dị lần thứ ba, để được trở lại sống chung với chồng cũ thì người vợ phải kết hôn với người đàn ông khác đúng với giáo luật Islam và phải trải qua giao hợp, không được phép kết hôn hình thức để hợp thức hóa việc trở lại với chồng cũ. Sau khi kết thúc hôn nhân với chồng mới do li dị hoặc chồng chết thì cô ta mới được phép kết hôn lại với chồng cũ bằng cuộc hôn lễ Islam.
 
 # 238
 
@@ -1009,15 +1010,15 @@ Những bà mẹ (sau li dị) sẽ cho con bú trong hai năm tròn đối vớ
 
 # 241
 
-Đối với những người chết bỏ lại vợ, bắt buộc các bà vợ phải kiêng cữ bốn tháng và mười ngày (vì quyền lợi của bản thân).(21) Sau khi hết thời gian kiêng cữ, các ngươi (những người bảo hộ các góa phụ đó) không bị mắc tội về các hành động hợp lẽ và phải đạo mà họ làm cho bản thân mình. Quả thật, Allah thông toàn mọi điều các ngươi làm.
+Đối với những người chết bỏ lại vợ, bắt buộc các bà vợ phải kiêng cữ bốn tháng và mười ngày (vì quyền lợi của bản thân).[^21] Sau khi hết thời gian kiêng cữ, các ngươi (những người bảo hộ các góa phụ đó) không bị mắc tội về các hành động hợp lẽ và phải đạo mà họ làm cho bản thân mình. Quả thật, Allah thông toàn mọi điều các ngươi làm.
 
-(21) Trong suốt thời gian kiêng cữ, góa phụ không được rời khỏi nhà chồng, không được chưng diện và làm đẹp.
+[^21]: Trong suốt thời gian kiêng cữ, góa phụ không được rời khỏi nhà chồng, không được chưng diện và làm đẹp.
 
 # 242
 
-Các ngươi không mang tội khi nói lời ám chỉ(22) về việc đính hôn với các phụ nữ (đang trong thời gian kiêng cữ) hoặc khi các ngươi giấu kín ý định đó trong lòng. Allah biết các ngươi sẽ nghĩ đến họ nhưng các ngươi không được phép âm thầm hứa hẹn với họ ngoại trừ những câu nói thăm dò với lời lẽ lịch thiệp và đúng mực. Các ngươi không được tiến hành hôn ước với họ cho đến khi thời gian kiêng cữ của họ hoàn toàn kết thúc. Các ngươi hãy biết rằng Allah luôn hiểu rõ mọi tâm tư trong lòng của các ngươi, cho nên hãy thận trọng đối với Ngài; và các ngươi hãy biết rằng Allah là Đấng Tha Thứ, Đấng Chịu Đựng.
+Các ngươi không mang tội khi nói lời ám chỉ[^22] về việc đính hôn với các phụ nữ (đang trong thời gian kiêng cữ) hoặc khi các ngươi giấu kín ý định đó trong lòng. Allah biết các ngươi sẽ nghĩ đến họ nhưng các ngươi không được phép âm thầm hứa hẹn với họ ngoại trừ những câu nói thăm dò với lời lẽ lịch thiệp và đúng mực. Các ngươi không được tiến hành hôn ước với họ cho đến khi thời gian kiêng cữ của họ hoàn toàn kết thúc. Các ngươi hãy biết rằng Allah luôn hiểu rõ mọi tâm tư trong lòng của các ngươi, cho nên hãy thận trọng đối với Ngài; và các ngươi hãy biết rằng Allah là Đấng Tha Thứ, Đấng Chịu Đựng.
 
-(22) Lời ám chỉ chẳng hạn như nói: Khi nào cô mãn hạn kiêng cữ thì hãy cho tôi biết, nhưng không được nói thẳng thừng.
+[^22]: Lời ám chỉ chẳng hạn như nói: Khi nào cô mãn hạn kiêng cữ thì hãy cho tôi biết, nhưng không được nói thẳng thừng.
 
 # 243
 
@@ -1037,9 +1038,9 @@ Một khi các ngươi sợ (bị tấn công hoặc điều tương tự) thì 
 
 # 247
 
-Đối với những người chết bỏ lại vợ, bắt buộc các ngươi phải để lại di chúc cấp dưỡng (nhà ở và tiền bạc) cho họ một năm và không được đuổi họ ra khỏi nhà. Trường hợp họ tự nguyện rời khỏi nhà (trước thời hạn) thì các ngươi không bị tội về các hành động mà họ làm cho bản thân mình một cách hợp lẽ và phải đạo. Quả thật, Allah là Đấng Toàn Năng, Đấng Sáng Suốt.(23)
+Đối với những người chết bỏ lại vợ, bắt buộc các ngươi phải để lại di chúc cấp dưỡng (nhà ở và tiền bạc) cho họ một năm và không được đuổi họ ra khỏi nhà. Trường hợp họ tự nguyện rời khỏi nhà (trước thời hạn) thì các ngươi không bị tội về các hành động mà họ làm cho bản thân mình một cách hợp lẽ và phải đạo. Quả thật, Allah là Đấng Toàn Năng, Đấng Sáng Suốt.[^23]
 
-(23) Theo đa số học giả chuyên giảng giải Qur’an cho rằng giáo luật của câu Kinh này đã bị xóa và được thay thế bởi câu 234 của chương Al-Baqarah: {Đối với những người chết bỏ lại vợ, bắt buộc các bà vợ phải kiêng cữ trong bốn tháng và mười ngày.}
+[^23]: Theo đa số học giả chuyên giảng giải Qur’an cho rằng giáo luật của câu Kinh này đã bị xóa và được thay thế bởi câu 234 của chương Al-Baqarah: {Đối với những người chết bỏ lại vợ, bắt buộc các bà vợ phải kiêng cữ trong bốn tháng và mười ngày.}
 
 # 248
 
@@ -1099,9 +1100,9 @@ Hỡi những người có đức tin, các ngươi hãy chi dùng từ những 
 
 # 262
 
-Allah (là Thượng Đế), không có Thượng Đế (đích thực) nào ngoài Ngài, Đấng Hằng Sống, Đấng Bất Diệt, Ngài không ngủ và cũng không buồn ngủ. Tất cả vạn vật trong các tầng trời và tất cả vạn vật trong trái đất đều thuộc về Ngài. Không ai có quyền can thiệp (biện minh, cầu xin ân xá cho ai) trước Ngài trừ phi Ngài cho phép. Ngài biết hết mọi điều xảy ra phía trước họ và đằng sau họ, không một ai đủ năng lực biết được kiến thức của Ngài ngoại trừ điều nào Ngài muốn cho y biết. Kursi(24) (Bệ gác chân) của Ngài bao trùm hết cả các tầng trời và trái đất, và việc quản lý trời đất không làm Ngài mỏi mệt bởi Ngài là Đấng Tối Thượng, Vĩ Đại.
+Allah (là Thượng Đế), không có Thượng Đế (đích thực) nào ngoài Ngài, Đấng Hằng Sống, Đấng Bất Diệt, Ngài không ngủ và cũng không buồn ngủ. Tất cả vạn vật trong các tầng trời và tất cả vạn vật trong trái đất đều thuộc về Ngài. Không ai có quyền can thiệp (biện minh, cầu xin ân xá cho ai) trước Ngài trừ phi Ngài cho phép. Ngài biết hết mọi điều xảy ra phía trước họ và đằng sau họ, không một ai đủ năng lực biết được kiến thức của Ngài ngoại trừ điều nào Ngài muốn cho y biết. Kursi[^24] (Bệ gác chân) của Ngài bao trùm hết cả các tầng trời và trái đất, và việc quản lý trời đất không làm Ngài mỏi mệt bởi Ngài là Đấng Tối Thượng, Vĩ Đại.
 
-(24) Có lời Tafsir rằng Kursi là Ngai vương và Bệ gác chân. Và cũng có lời Tafsir rằng Kursi muốn nói trong câu Kinh này ám chỉ kiến thức của Allah, và đây là sự lựa chọn của học giả Al-Qurtubi.
+[^24]: Có lời Tafsir rằng Kursi là Ngai vương và Bệ gác chân. Và cũng có lời Tafsir rằng Kursi muốn nói trong câu Kinh này ám chỉ kiến thức của Allah, và đây là sự lựa chọn của học giả Al-Qurtubi.
 
 # 263
 
@@ -1113,15 +1114,15 @@ Allah là Đấng Bảo Hộ của những người có đức tin, Ngài đưa 
 
 # 265
 
-Ngươi (hỡi Thiên Sứ Muhammad) có thấy kẻ đã tranh luận với Ibrahim về Thượng Đế của Y, kẻ mà hắn đã được Allah ban cho vương quyền (vua Nimrud)? Khi Ibrahim nói: “Thượng Đế của tôi là Đấng làm cho sống và làm cho chết.” (Nimrud) bảo: “Ta cũng có thể làm cho sống và làm cho chết.”(25) Ibrahim nói: “Quả thật, Allah là Đấng làm cho mặt trời mọc lên ở hướng đông, vậy bệ hạ hãy làm cho nó mọc lên ở hướng tây xem nào.” Thế là kẻ vô đức tin đã bối rối (vì đuối lý). Quả thật, Allah không hướng dẫn đám người sai quấy.
+Ngươi (hỡi Thiên Sứ Muhammad) có thấy kẻ đã tranh luận với Ibrahim về Thượng Đế của Y, kẻ mà hắn đã được Allah ban cho vương quyền (vua Nimrud)? Khi Ibrahim nói: “Thượng Đế của tôi là Đấng làm cho sống và làm cho chết.” (Nimrud) bảo: “Ta cũng có thể làm cho sống và làm cho chết.”[^25] Ibrahim nói: “Quả thật, Allah là Đấng làm cho mặt trời mọc lên ở hướng đông, vậy bệ hạ hãy làm cho nó mọc lên ở hướng tây xem nào.” Thế là kẻ vô đức tin đã bối rối (vì đuối lý). Quả thật, Allah không hướng dẫn đám người sai quấy.
 
-(25) Vua Nimrud sau khi khẳng định với Thiên Sứ Ibrahim rằng hắn cũng làm cho sống và làm cho chết thì hắn liền ra lệnh quân lính của hắn mang hai tù nhân ra trình diện trước mặt hắn, rồi hắn ra lệnh giết chết một người và tha mạng cho một người còn lại.
+[^25]: Vua Nimrud sau khi khẳng định với Thiên Sứ Ibrahim rằng hắn cũng làm cho sống và làm cho chết thì hắn liền ra lệnh quân lính của hắn mang hai tù nhân ra trình diện trước mặt hắn, rồi hắn ra lệnh giết chết một người và tha mạng cho một người còn lại.
 
 # 266
 
-Hoặc (Ngươi có thấy ai) giống như kẻ (‘Uzair)(26) đã đi ngang qua một ngôi làng tan hoang và điêu tàn, y bảo: “Làm thế nào Allah có thể dựng sống lại ngôi làng này sau khi nó đã chết?” Thế là Allah đã làm cho y chết trong thời gian một trăm năm rồi sau đó dựng y sống lại. Ngài hỏi Y: “Ngươi đã ngủ bao lâu rồi?” Y đáp: “Thưa, bề tôi chỉ ngủ một ngày hay một buổi gì đó.” Ngài bảo Y: “Không, ngươi đã ngủ cả một trăm năm rồi đấy. Ngươi hãy nhìn vào thức ăn và thức uống của mình đi, tất cả vẫn còn nguyên vẹn không bị ôi thiu với ngần ấy thời gian. Ngươi hãy nhìn vào con lừa của ngươi (nó đã chết thành đóng xương khô), TA lấy ngươi làm một dấu hiệu lạ cho nhân loại, ngươi hãy nhìn vào những khúc xương xem TA sắp xếp chúng rồi làm cho thịt bao chúng lại như thế nào.” Do đó, sau khi mọi thứ đã được phô bày một cách rõ ràng cho y (Y đã nhận thức được thực tại), y liền thốt lên: “Giờ đây bề tôi đã biết rõ Allah toàn năng trên tất cả mọi thứ.”
+Hoặc (Ngươi có thấy ai) giống như kẻ (‘Uzair)[^26] đã đi ngang qua một ngôi làng tan hoang và điêu tàn, y bảo: “Làm thế nào Allah có thể dựng sống lại ngôi làng này sau khi nó đã chết?” Thế là Allah đã làm cho y chết trong thời gian một trăm năm rồi sau đó dựng y sống lại. Ngài hỏi Y: “Ngươi đã ngủ bao lâu rồi?” Y đáp: “Thưa, bề tôi chỉ ngủ một ngày hay một buổi gì đó.” Ngài bảo Y: “Không, ngươi đã ngủ cả một trăm năm rồi đấy. Ngươi hãy nhìn vào thức ăn và thức uống của mình đi, tất cả vẫn còn nguyên vẹn không bị ôi thiu với ngần ấy thời gian. Ngươi hãy nhìn vào con lừa của ngươi (nó đã chết thành đóng xương khô), TA lấy ngươi làm một dấu hiệu lạ cho nhân loại, ngươi hãy nhìn vào những khúc xương xem TA sắp xếp chúng rồi làm cho thịt bao chúng lại như thế nào.” Do đó, sau khi mọi thứ đã được phô bày một cách rõ ràng cho y (Y đã nhận thức được thực tại), y liền thốt lên: “Giờ đây bề tôi đã biết rõ Allah toàn năng trên tất cả mọi thứ.”
 
-(26) Đại đa số học giả chuyên giảng giải Qur’an cho rằng người đàn ông trong câu Kinh này là ‘Uzair, một số học giả thì bảo đó là ông Al-Khudhir và một số khác thì bảo rằng đó là người khác. (trích từ Tafsir Ibnu Al-Kathir).
+[^26]: Đại đa số học giả chuyên giảng giải Qur’an cho rằng người đàn ông trong câu Kinh này là ‘Uzair, một số học giả thì bảo đó là ông Al-Khudhir và một số khác thì bảo rằng đó là người khác. (trích từ Tafsir Ibnu Al-Kathir).
 
 # 267
 
@@ -1245,9 +1246,9 @@ Ngài đã ban xuống cho Ngươi (Thiên Sứ Muhammad) Kinh Sách (Qur’an).
 
 # 297
 
-(Kinh Tawrah và Kinh Injil) được ban xuống trước làm nguồn chỉ đạo cho nhân loại và (tiếp sau đó) Ngài ban xuống Furqan(1) (Kinh Qur’an). Quả thật, những kẻ đã phủ nhận các lời mặc khải của Allah sẽ phải gánh lấy sự trừng phạt khủng khiếp. Quả thật, Allah là Đấng Toàn Năng, Đấng toàn quyền trừng phạt (không thể kháng cự).
+(Kinh Tawrah và Kinh Injil) được ban xuống trước làm nguồn chỉ đạo cho nhân loại và (tiếp sau đó) Ngài ban xuống Furqan[^1] (Kinh Qur’an). Quả thật, những kẻ đã phủ nhận các lời mặc khải của Allah sẽ phải gánh lấy sự trừng phạt khủng khiếp. Quả thật, Allah là Đấng Toàn Năng, Đấng toàn quyền trừng phạt (không thể kháng cự).
 
-(1) Furqan có nghĩa là sự phân biệt, Qur’an được gọi là Furqan bởi vì Nó là chuẩn mực để phân biệt giữa cái đúng và cái sai, giữa chân lý và ngụy tạo, và giữa phúc và tội.
+[^1]: Furqan có nghĩa là sự phân biệt, Qur’an được gọi là Furqan bởi vì Nó là chuẩn mực để phân biệt giữa cái đúng và cái sai, giữa chân lý và ngụy tạo, và giữa phúc và tội.
 
 # 298
 
@@ -1283,9 +1284,9 @@ Ngươi (hỡi Thiên Sứ Muhammad) hãy nói với những kẻ vô đức tin
 
 # 306
 
-Quả thật, các ngươi đã có bằng chứng (rõ ràng) qua cuộc giao tranh giữa hai đoàn quân (tại Badr)(2), một bên là đoàn quân (Muslim) anh dũng chiến đấu vì chính nghĩa của Allah và bên còn lại là đoàn quân vô đức tin. Chúng thấy rõ quân lực của chúng đông hơn (đoàn quân Muslim) gấp bội. Tuy nhiên, Allah muốn phù hộ bất cứ ai (giành chiến thắng) là tùy ý Ngài. Quả thật, trong sự việc (số lượng ít đánh thắng số lượng đông) đó là bài học dành cho những ai biết suy ngẫm.
+Quả thật, các ngươi đã có bằng chứng (rõ ràng) qua cuộc giao tranh giữa hai đoàn quân (tại Badr)[^2], một bên là đoàn quân (Muslim) anh dũng chiến đấu vì chính nghĩa của Allah và bên còn lại là đoàn quân vô đức tin. Chúng thấy rõ quân lực của chúng đông hơn (đoàn quân Muslim) gấp bội. Tuy nhiên, Allah muốn phù hộ bất cứ ai (giành chiến thắng) là tùy ý Ngài. Quả thật, trong sự việc (số lượng ít đánh thắng số lượng đông) đó là bài học dành cho những ai biết suy ngẫm.
 
-(2) Badr là tên của một khu vực cách thành phố Madinah khoảng 150 cây số về phía nam. Nơi đây đã diễn ra một cuộc giao chiến lừng danh đầu tiên của Islam mà lịch sử Islam gọi là trận chiến Badr. Trong trận chiến này, đoàn quân Muslim chỉ gồm 313 người còn đoàn quân của những kẻ thờ đa thần Quraish gồm khoảng 1000 người nhưng Allah đã ban sự chiến thắng cho những người Muslim.
+[^2]: Badr là tên của một khu vực cách thành phố Madinah khoảng 150 cây số về phía nam. Nơi đây đã diễn ra một cuộc giao chiến lừng danh đầu tiên của Islam mà lịch sử Islam gọi là trận chiến Badr. Trong trận chiến này, đoàn quân Muslim chỉ gồm 313 người còn đoàn quân của những kẻ thờ đa thần Quraish gồm khoảng 1000 người nhưng Allah đã ban sự chiến thắng cho những người Muslim.
 
 # 307
 
@@ -1389,9 +1390,9 @@ Từ đó (nó thôi thúc) Zakariya cầu nguyện: “Lạy Thượng Đế b�
 
 # 332
 
-Thế là các Thiên Thần đã gọi (Zakariya) lúc Y đang đứng cầu nguyện trong phòng tu: “Quả thật, Allah báo cho ngươi một tin vui về (việc Ngài sẽ ban cho ngươi một đứa con trai tên là) Yahya, nhằm xác nhận lại lời phán(3) từ Allah. (Yahya) sẽ là một lãnh đạo, một người trong sạch và là một vị Nabi đạo hạnh.”
+Thế là các Thiên Thần đã gọi (Zakariya) lúc Y đang đứng cầu nguyện trong phòng tu: “Quả thật, Allah báo cho ngươi một tin vui về (việc Ngài sẽ ban cho ngươi một đứa con trai tên là) Yahya, nhằm xác nhận lại lời phán[^3] từ Allah. (Yahya) sẽ là một lãnh đạo, một người trong sạch và là một vị Nabi đạo hạnh.”
 
-(3) “كن” – “Hãy thành!” là lời phán của Allah. Khi Ngài muốn bất cứ điều gì, Ngài chỉ cần nói “كن” thì nó sẽ thành đúng như ý của Ngài.
+[^3]: “كن” – “Hãy thành!” là lời phán của Allah. Khi Ngài muốn bất cứ điều gì, Ngài chỉ cần nói “كن” thì nó sẽ thành đúng như ý của Ngài.
 
 # 333
 
@@ -1607,9 +1608,9 @@ Các ngươi (những người có đức tin) sẽ chẳng đạt được sự
 
 # 386
 
-Tất cả thức ăn đều Halal cho người dân Israel ngoại trừ những gì Israel(1) tự cấm bản thân Y trước khi Kinh Tawrah được thiên khải xuống. Ngươi (hỡi Thiên Sứ Muhammad) bảo họ: “(Nếu không đúng như vậy) thì các người hãy mang Tawrah ra đây và hãy đọc nó lên (để kiểm chứng) nếu các người là những người nói thật.”
+Tất cả thức ăn đều Halal cho người dân Israel ngoại trừ những gì Israel tự cấm bản thân Y trước khi Kinh Tawrah được thiên khải xuống. Ngươi (hỡi Thiên Sứ Muhammad) bảo họ: “(Nếu không đúng như vậy) thì các người hãy mang Tawrah ra đây và hãy đọc nó lên (để kiểm chứng) nếu các người là những người nói thật.”[^*]
 
-#_3_93 (1) Israel là tên gọi khác của Nabi Ya’qub - cầu xin bình an cho Người -.
+[^*]: #_3_93 (1) Israel là tên gọi khác của Nabi Ya’qub - cầu xin bình an cho Người -.
 
 # 387
 
@@ -1641,9 +1642,9 @@ Hỡi những người có đức tin, nếu các ngươi tuân theo một nhóm
 
 # 394
 
-Sao các ngươi lại có thể phủ nhận trong khi các ngươi được đọc cho nghe các lời phán của Allah và Thiên Sứ của Ngài vẫn đang sống cùng các ngươi? Ai bám chặt vào Allah(5) thì quả thật y đã được hướng dẫn đến con đường ngay thẳng (chính đạo).
+Sao các ngươi lại có thể phủ nhận trong khi các ngươi được đọc cho nghe các lời phán của Allah và Thiên Sứ của Ngài vẫn đang sống cùng các ngươi? Ai bám chặt vào Allah[^5] thì quả thật y đã được hướng dẫn đến con đường ngay thẳng (chính đạo).
 
-(5) Bám chặt vào Allah là bám chặt lấy Qur’an và Sunnah của Thiên Sứ Muhammad - cầu xin Allah ban bình an và phúc lành cho Người -.
+[^5]: Bám chặt vào Allah là bám chặt lấy Qur’an và Sunnah của Thiên Sứ Muhammad - cầu xin Allah ban bình an và phúc lành cho Người -.
 
 # 395
 
@@ -2043,10 +2044,11 @@ Hỡi những người có đức tin, các ngươi hãy thực sự kiên nhẫ
 
 # 494
 
-Hỡi con người, hãy kính sợ Thượng Đế của các ngươi, Đấng đã tạo hóa các ngươi từ một cá thể duy nhất (ông tổ Adam của các ngươi) và từ Y Ngài đã tạo ra người vợ (Hauwa) của Y, rồi từ hai người họ, Ngài đã rải ra khắp nơi (trên trái đất) vô số đàn ông và phụ nữ. Các ngươi hãy kính sợ Allah, Đấng mà với Ngài các ngươi đòi hỏi (quyền và lẽ phải) lẫn nhau(1) và các ngươi (hãy tôn trọng) mối quan hệ thân tộc(2), quả thật Allah luôn giám sát (mọi hành vi của) các ngươi.
+Hỡi con người, hãy kính sợ Thượng Đế của các ngươi, Đấng đã tạo hóa các ngươi từ một cá thể duy nhất (ông tổ Adam của các ngươi) và từ Y Ngài đã tạo ra người vợ (Hauwa) của Y, rồi từ hai người họ, Ngài đã rải ra khắp nơi (trên trái đất) vô số đàn ông và phụ nữ. Các ngươi hãy kính sợ Allah, Đấng mà với Ngài các ngươi đòi hỏi (quyền và lẽ phải) lẫn nhau[^1] và các ngươi (hãy tôn trọng) mối quan hệ thân tộc[^2], quả thật Allah luôn giám sát (mọi hành vi của) các ngươi.
 
-(1) Ví dụ một người nói với một người: “Thề bởi Allah, tôi không nói dối, tôi muốn anh điều này...”; 
-(2) Việc đoạn tuyệt quan hệ với bất cứ ai trong dòng tộc bị xem là đại tội trong Islam.
+[^1]: Ví dụ một người nói với một người: “Thề bởi Allah, tôi không nói dối, tôi muốn anh điều này...”;
+
+[^2]: Việc đoạn tuyệt quan hệ với bất cứ ai trong dòng tộc bị xem là đại tội trong Islam.
 
 # 495
 
@@ -2054,10 +2056,11 @@ Các ngươi hãy giao lại cho trẻ mồ côi tài sản của chúng (khi ch
 
 # 496
 
-Nếu các ngươi lo sợ không công bằng với (phụ nữ) mồ côi (khi cưới họ làm vợ)(3) thì các ngươi hãy cưới những phụ nữ khác (ngoài họ) mà các ngươi hài lòng; (các ngươi có thể cưới) hai, ba hoặc bốn (vợ). Tuy nhiên, nếu các ngươi lo sợ không thể (đối xử) công bằng (với các bà vợ) thì các ngươi hãy nên cưới một (vợ) hoặc (các ngươi có thể ăn nằm) với những phụ nữ dưới tay của các ngươi(4). Đó là cách tốt nhất để các ngươi tránh gây bất công.
+Nếu các ngươi lo sợ không công bằng với (phụ nữ) mồ côi (khi cưới họ làm vợ)[^3] thì các ngươi hãy cưới những phụ nữ khác (ngoài họ) mà các ngươi hài lòng; (các ngươi có thể cưới) hai, ba hoặc bốn (vợ). Tuy nhiên, nếu các ngươi lo sợ không thể (đối xử) công bằng (với các bà vợ) thì các ngươi hãy nên cưới một (vợ) hoặc (các ngươi có thể ăn nằm) với những phụ nữ dưới tay của các ngươi[^4]. Đó là cách tốt nhất để các ngươi tránh gây bất công.
 
-(3) Sợ không trao đủ tiền cưới bắt buộc cho họ hoặc sợ đối xử không công bằng với họ vì cho họ vốn là trẻ mồ côi.; 
-(4) Theo Islam, được quyền ăn nằm với các nữ tù binh dưới quyền kiểm soát mà không cần phải kết hôn trước và cũng không cần cho họ quyền lợi như các bà vợ. Tuy nhiên, khi họ sinh con thì lập tức họ sẽ trở thành người tự do.
+[^3]: Sợ không trao đủ tiền cưới bắt buộc cho họ hoặc sợ đối xử không công bằng với họ vì cho họ vốn là trẻ mồ côi.;
+
+[^4]: Theo Islam, được quyền ăn nằm với các nữ tù binh dưới quyền kiểm soát mà không cần phải kết hôn trước và cũng không cần cho họ quyền lợi như các bà vợ. Tuy nhiên, khi họ sinh con thì lập tức họ sẽ trở thành người tự do.
 
 # 497
 
@@ -2065,21 +2068,21 @@ Các ngươi phải trao tiền cưới bắt buộc cho phụ nữ (khi kết h
 
 # 498
 
-Các ngươi (những người giám hộ) chớ đừng giao cho những người thiếu khôn ngoan(5) tài sản mà Allah đã cho các ngươi quyền quản lý. Các ngươi hãy dùng tài sản đó cấp dưỡng cho họ, cấp quần áo cho họ và hãy nói năng tử tế với họ.
+Các ngươi (những người giám hộ) chớ đừng giao cho những người thiếu khôn ngoan[^5] tài sản mà Allah đã cho các ngươi quyền quản lý. Các ngươi hãy dùng tài sản đó cấp dưỡng cho họ, cấp quần áo cho họ và hãy nói năng tử tế với họ.
 
-(5) Người thiếu khôn ngoan là tất cả những ai sử dụng tài sản không mang lại lợi ích ở trần gian và cả Đời Sau, chẳng hạn tiêu xài vào những thứ có hại như cờ bạc, rượu chè, ma túy ...
+[^5]: Người thiếu khôn ngoan là tất cả những ai sử dụng tài sản không mang lại lợi ích ở trần gian và cả Đời Sau, chẳng hạn tiêu xài vào những thứ có hại như cờ bạc, rượu chè, ma túy ...
 
 # 499
 
-Các ngươi hãy kiểm tra(6) các trẻ mồ côi khi chúng đã đến tuổi trưởng thành, nếu các ngươi nhận thấy chúng đã khôn ngoan thì các ngươi hãy giao lại tài sản của chúng cho chúng. Các ngươi chớ đừng tiêu xài tài sản của chúng một cách phung phí vì lo sợ chúng lấy lại tài sản sau khi đã trưởng thành. (Người giám hộ) nào đã giàu có (hoặc dư dả) thì chớ tiêu pha nó, còn (người giám hộ) nào nghèo khó thì hãy chi dùng nó một cách vừa phải (không tiêu pha lãng phí). Khi các ngươi giao lại tài sản của chúng cho chúng thì các ngươi hãy tìm những người làm nhân chứng cho cuộc giao trả đó. Quả thật, một mình Allah đã đủ thanh toán và xét xử (mọi việc làm của các ngươi).
+Các ngươi hãy kiểm tra[^6] các trẻ mồ côi khi chúng đã đến tuổi trưởng thành, nếu các ngươi nhận thấy chúng đã khôn ngoan thì các ngươi hãy giao lại tài sản của chúng cho chúng. Các ngươi chớ đừng tiêu xài tài sản của chúng một cách phung phí vì lo sợ chúng lấy lại tài sản sau khi đã trưởng thành. (Người giám hộ) nào đã giàu có (hoặc dư dả) thì chớ tiêu pha nó, còn (người giám hộ) nào nghèo khó thì hãy chi dùng nó một cách vừa phải (không tiêu pha lãng phí). Khi các ngươi giao lại tài sản của chúng cho chúng thì các ngươi hãy tìm những người làm nhân chứng cho cuộc giao trả đó. Quả thật, một mình Allah đã đủ thanh toán và xét xử (mọi việc làm của các ngươi).
 
-(6) Kiểm tra bằng cách giao cho chúng một phần tài sản của chúng để chúng chi tiêu, nếu nhận thấy chúng chi tiêu đúng mực, có mục đích tốt, chứng tỏ chúng đã trưởng thành và khôn ngoan.
+[^6]: Kiểm tra bằng cách giao cho chúng một phần tài sản của chúng để chúng chi tiêu, nếu nhận thấy chúng chi tiêu đúng mực, có mục đích tốt, chứng tỏ chúng đã trưởng thành và khôn ngoan.
 
 # 500
 
-Đàn ông được quyền hưởng gia tài của cha mẹ và bà con ruột thịt để lại (sau khi họ qua đời), và phụ nữ cũng được quyền hưởng gia tài của cha mẹ và bà con ruột thịt để lại (sau khi họ qua đời), dù ít hay nhiều(7). (Đó là) giáo luật bắt buộc (từ Allah).
+Đàn ông được quyền hưởng gia tài của cha mẹ và bà con ruột thịt để lại (sau khi họ qua đời), và phụ nữ cũng được quyền hưởng gia tài của cha mẹ và bà con ruột thịt để lại (sau khi họ qua đời), dù ít hay nhiều[^7]. (Đó là) giáo luật bắt buộc (từ Allah).
 
-(7) Sở dĩ Islam quy định rõ ràng giáo luật này là bởi vì trong thời tiền Islam phụ nữ và trẻ em bị tước quyền thừa kế.
+[^7]: Sở dĩ Islam quy định rõ ràng giáo luật này là bởi vì trong thời tiền Islam phụ nữ và trẻ em bị tước quyền thừa kế.
 
 # 501
 
@@ -2095,16 +2098,17 @@ Những kẻ ăn tài sản của trẻ mồ côi một cách bất công, thậ
 
 # 504
 
-Allah quy định cho các ngươi về việc con cái của các ngươi (hưởng gia tài thừa kế) như sau: Con trai hưởng gấp đôi phần của con gái. Trường hợp (người chết bỏ lại con cái) đều là gái, nếu từ hai người trở lên thì tất cả cùng hưởng hai phần ba (2/3) gia tài để lại, còn nếu chỉ có một người duy nhất thì sẽ hưởng một nửa gia tài để lại. Nếu (người chết) có con thì cha mẹ, mỗi người hưởng một phần sáu (1/6) tài sản để lại. Nếu (người chết) không có con thì cha mẹ hưởng toàn bộ gia tài để lại, mẹ hưởng một phần ba (1/3), (còn lại là của cha). Trường hợp (người chết) có anh em thì mẹ của y hưởng một phần sáu (1/6)(8). (Tuy nhiên, việc phân chia này) được thực hiện sau khi đã hoàn tất xong phần di chúc(9) hoặc nợ. Cha mẹ của các ngươi, con cái của các ngươi, các ngươi không hề biết được ai trong số họ mới thật sự hữu ích cho các ngươi (ở trần gian và Đời Sau). (Đó là) luật định từ Allah. Quả thật, Allah là Đấng Hằng Biết, Đấng Chí Minh.
+Allah quy định cho các ngươi về việc con cái của các ngươi (hưởng gia tài thừa kế) như sau: Con trai hưởng gấp đôi phần của con gái. Trường hợp (người chết bỏ lại con cái) đều là gái, nếu từ hai người trở lên thì tất cả cùng hưởng hai phần ba (2/3) gia tài để lại, còn nếu chỉ có một người duy nhất thì sẽ hưởng một nửa gia tài để lại. Nếu (người chết) có con thì cha mẹ, mỗi người hưởng một phần sáu (1/6) tài sản để lại. Nếu (người chết) không có con thì cha mẹ hưởng toàn bộ gia tài để lại, mẹ hưởng một phần ba (1/3), (còn lại là của cha). Trường hợp (người chết) có anh em thì mẹ của y hưởng một phần sáu (1/6)[^8]. (Tuy nhiên, việc phân chia này) được thực hiện sau khi đã hoàn tất xong phần di chúc[^9] hoặc nợ. Cha mẹ của các ngươi, con cái của các ngươi, các ngươi không hề biết được ai trong số họ mới thật sự hữu ích cho các ngươi (ở trần gian và Đời Sau). (Đó là) luật định từ Allah. Quả thật, Allah là Đấng Hằng Biết, Đấng Chí Minh.
 
-(8) Trường hợp này cha thừa kế hết phần còn lại và các anh em không thừa kế bất cứ gì. Sự có mặt của các anh em chỉ làm giảm phần thừa kế của mẹ từ 1/3 xuống 1/6. Nguyên nhân cho điều này là bởi vì người cha phải có trách nhiệm chu cấp và lo tiền cưới sinh cho các con trai, còn mẹ thì không có trách nhiệm này.; 
-(9) Nếu người chết để lại di chúc, bắt buộc phải hoàn thành những điều trong di chúc (ngoại trừ những điều Haram) trước khi phân chia gia tài cho những người thừa kế. Tuy nhiên, phần trong di chúc không được quá một phần ba (1/3) gia tài để lại, và không được di chúc cho những ai nằm trong các đối tượng thừa kế.
+[^8]: Trường hợp này cha thừa kế hết phần còn lại và các anh em không thừa kế bất cứ gì. Sự có mặt của các anh em chỉ làm giảm phần thừa kế của mẹ từ 1/3 xuống 1/6. Nguyên nhân cho điều này là bởi vì người cha phải có trách nhiệm chu cấp và lo tiền cưới sinh cho các con trai, còn mẹ thì không có trách nhiệm này.;
+
+[^9]: Nếu người chết để lại di chúc, bắt buộc phải hoàn thành những điều trong di chúc (ngoại trừ những điều Haram) trước khi phân chia gia tài cho những người thừa kế. Tuy nhiên, phần trong di chúc không được quá một phần ba (1/3) gia tài để lại, và không được di chúc cho những ai nằm trong các đối tượng thừa kế.
 
 # 505
 
-Các ngươi (những người chồng) hưởng một nửa (1/2) gia tài mà các người vợ để lại nếu họ không có con, nếu họ có con thì các ngươi hưởng một phần tư (1/4) gia tài họ để lại; (tuy nhiên, việc phân chia này) được thực hiện sau khi đã hoàn tất xong phần di chúc hoặc nợ. Các bà vợ hưởng một phần tư (1/4) gia tài mà các ngươi để lại nếu các ngươi không có con, nếu các ngươi có con thì họ hưởng một phần tám (1/8) gia tài mà các ngươi để lại; (tuy nhiên, việc phân chia này) được thực hiện sau khi đã hoàn tất xong phần di chúc hoặc nợ. Trường hợp một người đàn ông hoặc một người phụ nữ qua đời (cả hai đều không có con cái lẫn cha mẹ) mà chỉ có một người anh (em) trai và một người chị (em) gái thì mỗi người hưởng một phần sáu (1/6); nếu số lượng anh chị em nhiều hơn (hai người) thì tất cả cùng hưởng chung một phần ba (1/3)(10), (tuy nhiên, việc phân chia này) được thực hiện sau khi đã hoàn tất xong phần di chúc hoặc nợ, miễn sao không gây thiệt thòi cho những người thừa kế. (Đó là) luật định từ Allah. Quả thật, Allah là Đấng Hằng Biết, Đấng Hằng Chịu Đựng.
+Các ngươi (những người chồng) hưởng một nửa (1/2) gia tài mà các người vợ để lại nếu họ không có con, nếu họ có con thì các ngươi hưởng một phần tư (1/4) gia tài họ để lại; (tuy nhiên, việc phân chia này) được thực hiện sau khi đã hoàn tất xong phần di chúc hoặc nợ. Các bà vợ hưởng một phần tư (1/4) gia tài mà các ngươi để lại nếu các ngươi không có con, nếu các ngươi có con thì họ hưởng một phần tám (1/8) gia tài mà các ngươi để lại; (tuy nhiên, việc phân chia này) được thực hiện sau khi đã hoàn tất xong phần di chúc hoặc nợ. Trường hợp một người đàn ông hoặc một người phụ nữ qua đời (cả hai đều không có con cái lẫn cha mẹ) mà chỉ có một người anh (em) trai và một người chị (em) gái thì mỗi người hưởng một phần sáu (1/6); nếu số lượng anh chị em nhiều hơn (hai người) thì tất cả cùng hưởng chung một phần ba (1/3)[^10], (tuy nhiên, việc phân chia này) được thực hiện sau khi đã hoàn tất xong phần di chúc hoặc nợ, miễn sao không gây thiệt thòi cho những người thừa kế. (Đó là) luật định từ Allah. Quả thật, Allah là Đấng Hằng Biết, Đấng Hằng Chịu Đựng.
 
-(10) Trường hợp này chia đều như nhau không phân biệt nam và nữ.
+[^10]: Trường hợp này chia đều như nhau không phân biệt nam và nữ.
 
 # 506
 
@@ -2116,15 +2120,15 @@ Ngược lại, kẻ nào nghịch Allah và Thiên Sứ (Muhammad) của Ngài,
 
 # 508
 
-Những ai trong số phụ nữ của các ngươi làm điều ô uế (thông dâm) thì các ngươi hãy đưa ra bốn nhân chứng để buộc tội họ. Nếu (cả bốn nhân chứng) đều đồng xác nhận thì các ngươi hãy giam họ trong nhà cho đến chết(11) hoặc Allah sẽ mở cho họ một lối thoát khác.
+Những ai trong số phụ nữ của các ngươi làm điều ô uế (thông dâm) thì các ngươi hãy đưa ra bốn nhân chứng để buộc tội họ. Nếu (cả bốn nhân chứng) đều đồng xác nhận thì các ngươi hãy giam họ trong nhà cho đến chết[^11] hoặc Allah sẽ mở cho họ một lối thoát khác.
 
-(11) Giáo luật bị xóa và thay thế bởi giáo luật mới, đó là ném đá đến chết.
+[^11]: Giáo luật bị xóa và thay thế bởi giáo luật mới, đó là ném đá đến chết.
 
 # 509
 
-Hai người (đàn ông và đàn bà) trong các ngươi phạm tội thông dâm thì các ngươi hãy phạt họ thật nặng(12). Tuy nhiên, khi cả hai biết ăn năn hối cải và chịu sửa mình thì các ngươi hãy bỏ mặc họ. Quả thật Allah hằng chấp nhận sự sám hối, Ngài là Đấng Khoan Dung.
+Hai người (đàn ông và đàn bà) trong các ngươi phạm tội thông dâm thì các ngươi hãy phạt họ thật nặng[^12]. Tuy nhiên, khi cả hai biết ăn năn hối cải và chịu sửa mình thì các ngươi hãy bỏ mặc họ. Quả thật Allah hằng chấp nhận sự sám hối, Ngài là Đấng Khoan Dung.
 
-(12) Giáo luật này cũng đã bị xóa và thay thế bởi giáo luật ném đá.
+[^12]: Giáo luật này cũng đã bị xóa và thay thế bởi giáo luật ném đá.
 
 # 510
 
@@ -2136,9 +2140,9 @@ Thật ra Allah chỉ chấp nhận sự ăn năn hối cải của những ai l
 
 # 512
 
-Hỡi những người có đức tin, các ngươi không được thừa hưởng các phụ nữ một cách cưỡng bức(13), các ngươi cũng không được giam họ lại hầu để lấy lại phần tiền cưới mà các ngươi đã trao cho họ trừ phi họ công khai làm điều ô uế, còn không thì các ngươi phải đối xử tử tế với họ. Bởi lẽ nếu các ngươi ghét bỏ họ thì e rằng các ngươi đã ghét bỏ một thứ mà Allah đã ban cho họ bao điều tốt đẹp.
+Hỡi những người có đức tin, các ngươi không được thừa hưởng các phụ nữ một cách cưỡng bức[^13], các ngươi cũng không được giam họ lại hầu để lấy lại phần tiền cưới mà các ngươi đã trao cho họ trừ phi họ công khai làm điều ô uế, còn không thì các ngươi phải đối xử tử tế với họ. Bởi lẽ nếu các ngươi ghét bỏ họ thì e rằng các ngươi đã ghét bỏ một thứ mà Allah đã ban cho họ bao điều tốt đẹp.
 
-(13) Trước đây theo tục lệ tại Yathrib (tức Madinah) mỗi khi người đàn ông chết đi thì vợ của anh ta bị coi là món tài sản từ gia tài để lại của anh ta, cho nên chỉ cần người anh hoặc em trai hoặc cháu trai của anh ta là người trước tiên ném cái áo của mình vào người vợ của anh ta thì xem như y hưởng cô ta mà không cần phải cưới xin gì cả, y toàn quyền quyết định số phận của cô ta và không cho phép người khác cưới cô ta.
+[^13]: Trước đây theo tục lệ tại Yathrib (tức Madinah) mỗi khi người đàn ông chết đi thì vợ của anh ta bị coi là món tài sản từ gia tài để lại của anh ta, cho nên chỉ cần người anh hoặc em trai hoặc cháu trai của anh ta là người trước tiên ném cái áo của mình vào người vợ của anh ta thì xem như y hưởng cô ta mà không cần phải cưới xin gì cả, y toàn quyền quyết định số phận của cô ta và không cho phép người khác cưới cô ta.
 
 # 513
 
@@ -2146,9 +2150,9 @@ Khi các ngươi (những người chồng) muốn li hôn vợ (hiện tại) �
 
 # 514
 
-Làm sao mà các ngươi có thể lấy lại phần tiền cưới đó trong khi các ngươi đã ăn nằm với họ và họ đã nhận lấy lời giao ước long trọng(14) của các ngươi?!
+Làm sao mà các ngươi có thể lấy lại phần tiền cưới đó trong khi các ngươi đã ăn nằm với họ và họ đã nhận lấy lời giao ước long trọng[^14] của các ngươi?!
 
-(14) Lời giao ước long trọng là chung sống tử tế hoặc li hôn đúng mực và hợp lẽ phải (Trích từ Tafsir At-Tabari).
+[^14]: Lời giao ước long trọng là chung sống tử tế hoặc li hôn đúng mực và hợp lẽ phải (Trích từ Tafsir At-Tabari).
 
 # 515
 
@@ -2160,9 +2164,9 @@ Các ngươi bị cấm (cưới các phụ nữ sau đây): mẹ; con gái; ch�
 
 # 517
 
-Và (cấm các ngươi cưới) các phụ nữ đã có chồng ngoại trừ những nữ tù binh trong tay của các ngươi(15). Đó là lệnh cấm của Allah qui định cho các ngươi. Ngoài những phụ nữ đã liệt kê thì các ngươi được phép cưới bất kỳ phụ nữ nào khác miễn sao các ngươi hài lòng cưới họ bằng tài sản của các ngươi một cách đàng hoàng (hợp thức luật hôn nhân mà Allah qui định) chứ không bằng hình thức ô uế (tình dục ngoài hôn nhân). Một khi các ngươi đã hưởng lạc từ (vợ của các ngươi) thì các ngươi phải trao tặng cho họ phần tiền cưới bắt buộc. Tuy nhiên, các ngươi sẽ không bị tội nếu đôi bên tự nguyện (cho thêm hoặc giảm bớt phần nào) số tiền cưới bắt buộc sau khi đã thống nhất trước đó. Quả thật, Allah là Đấng Hằng Biết, Đấng Sáng Suốt.
+Và (cấm các ngươi cưới) các phụ nữ đã có chồng ngoại trừ những nữ tù binh trong tay của các ngươi[^15]. Đó là lệnh cấm của Allah qui định cho các ngươi. Ngoài những phụ nữ đã liệt kê thì các ngươi được phép cưới bất kỳ phụ nữ nào khác miễn sao các ngươi hài lòng cưới họ bằng tài sản của các ngươi một cách đàng hoàng (hợp thức luật hôn nhân mà Allah qui định) chứ không bằng hình thức ô uế (tình dục ngoài hôn nhân). Một khi các ngươi đã hưởng lạc từ (vợ của các ngươi) thì các ngươi phải trao tặng cho họ phần tiền cưới bắt buộc. Tuy nhiên, các ngươi sẽ không bị tội nếu đôi bên tự nguyện (cho thêm hoặc giảm bớt phần nào) số tiền cưới bắt buộc sau khi đã thống nhất trước đó. Quả thật, Allah là Đấng Hằng Biết, Đấng Sáng Suốt.
 
-(15) Được phép cưới các nữ tù binh bị bắt trong chiến tranh dù cho đã có chồng nhưng phải xác định rõ là họ đã có kinh nguyệt, tránh việc không rõ con của ai sau này.
+[^15]: Được phép cưới các nữ tù binh bị bắt trong chiến tranh dù cho đã có chồng nhưng phải xác định rõ là họ đã có kinh nguyệt, tránh việc không rõ con của ai sau này.
 
 # 518
 
@@ -2198,9 +2202,9 @@ Các ngươi chớ đừng thèm khát những thứ mà Allah dùng để ưu �
 
 # 526
 
-Mỗi người đều được TA quy định cho phần thừa kế mà cha mẹ và họ hàng (chết) để lại; và những ai mà các ngươi đã thề thốt với nhau thì các ngươi hãy đưa cho họ phần thừa kế(16). Quả thật, Allah chứng giám cho tất cả mọi sự việc.
+Mỗi người đều được TA quy định cho phần thừa kế mà cha mẹ và họ hàng (chết) để lại; và những ai mà các ngươi đã thề thốt với nhau thì các ngươi hãy đưa cho họ phần thừa kế[^16]. Quả thật, Allah chứng giám cho tất cả mọi sự việc.
 
-(16) Thời đầu Islam, chỉ cần hai người không quan hệ thân thích thề thốt với nhau rằng cả hai sẽ thừa kế gia tài của nhau sau khi chết được xem có hiệu lực và phải được thực thi, nhưng giáo luật này đã bị xóa sau đó.
+[^16]: Thời đầu Islam, chỉ cần hai người không quan hệ thân thích thề thốt với nhau rằng cả hai sẽ thừa kế gia tài của nhau sau khi chết được xem có hiệu lực và phải được thực thi, nhưng giáo luật này đã bị xóa sau đó.
 
 # 527
 
@@ -2240,10 +2244,11 @@ Vào Ngày (Phán Xét), những kẻ vô đức tin và nghịch lại Thiên S
 
 # 536
 
-Hỡi những người có đức tin, các ngươi chớ đến gần lễ nguyện Salah trong lúc các ngươi đang say rượu cho đến khi các ngươi biết rõ điều các ngươi nói ra (tỉnh táo trở lại); các ngươi cũng chớ (dâng lễ nguyện Salah và ở trong Masjid) lúc còn trong tình trạng Junub(17) ngoại trừ việc chỉ đi ngang qua (Masjid mà thôi) cho đến khi các ngươi đã tắm rửa. Trường hợp các ngươi bị bệnh hoặc đang trên đường đi xa hoặc ai đó trong các ngươi từ nhà vệ sinh trở ra hoặc đã ăn nằm với vợ nhưng không tìm thấy nước (để tắm) thì hãy Tayammum(18) trên đất bụi sạch bằng cách lau mặt và hai tay của các ngươi. Quả thật, Allah hằng khoan dung, hằng tha thứ.
+Hỡi những người có đức tin, các ngươi chớ đến gần lễ nguyện Salah trong lúc các ngươi đang say rượu cho đến khi các ngươi biết rõ điều các ngươi nói ra (tỉnh táo trở lại); các ngươi cũng chớ (dâng lễ nguyện Salah và ở trong Masjid) lúc còn trong tình trạng Junub[^17] ngoại trừ việc chỉ đi ngang qua (Masjid mà thôi) cho đến khi các ngươi đã tắm rửa. Trường hợp các ngươi bị bệnh hoặc đang trên đường đi xa hoặc ai đó trong các ngươi từ nhà vệ sinh trở ra hoặc đã ăn nằm với vợ nhưng không tìm thấy nước (để tắm) thì hãy Tayammum[^18] trên đất bụi sạch bằng cách lau mặt và hai tay của các ngươi. Quả thật, Allah hằng khoan dung, hằng tha thứ.
 
-(17) Junub hoặc Janabah là tình trạng chưa tẩy rửa sau khi đã quan hệ tình dục, xuất tinh và dứt kỳ kinh nguyệt. Người trong tình trạng Junub cần phải tắm theo nghi thức giáo luật thì mới được xem là sạch sẽ trở lại, lúc đó y mới được phép dâng lễ nguyện Salah, đọc Qur’an, vào Masjid, ...; 
-(18) Tayammum là hình thức thay thế cho Wudu’ và tắm Junub trong trường hợp không có nước hoặc không thể dùng nước. Nghi thức Tayammum là dùng hai bàn tay vỗ một lần xuống mặt đất khô và sạch rồi lau toàn bộ gương mặt, sau đó bàn tay trái lau lên mu bàn tay phải và ngược lại.
+[^17]: Junub hoặc Janabah là tình trạng chưa tẩy rửa sau khi đã quan hệ tình dục, xuất tinh và dứt kỳ kinh nguyệt. Người trong tình trạng Junub cần phải tắm theo nghi thức giáo luật thì mới được xem là sạch sẽ trở lại, lúc đó y mới được phép dâng lễ nguyện Salah, đọc Qur’an, vào Masjid, ...;
+
+[^18]: Tayammum là hình thức thay thế cho Wudu’ và tắm Junub trong trường hợp không có nước hoặc không thể dùng nước. Nghi thức Tayammum là dùng hai bàn tay vỗ một lần xuống mặt đất khô và sạch rồi lau toàn bộ gương mặt, sau đó bàn tay trái lau lên mu bàn tay phải và ngược lại.
 
 # 537
 
@@ -2255,10 +2260,11 @@ Allah biết rõ kẻ thù của các ngươi hơn cả các ngươi (hỡi nh�
 
 # 539
 
-Trong cộng đồng Do Thái, có những người đã cố ý bóp méo lời phán (của Allah) lệch khỏi (ý nghĩa mà Ngài đã mặc khải). Họ nói: “Chúng tôi đã nghe nhưng không tuân theo; hãy nghe nhưng hãy nghe khác đi”; và họ nói: “Raa’ina”(19) với chiếc lưỡi của họ nhằm chế nhạo tôn giáo (Islam). Phải chi họ: “Chúng tôi đã nghe và vâng lệnh” (hoặc phải chi họ nói): “Xin hãy lắng nghe (chúng tôi)” thì điều đó tốt hơn cho họ và đúng đắn hơn. Tuy nhiên, bởi sự vô đức tin của họ, Allah đã nguyền rủa(20) họ nên họ đã không có đức tin ngoại trừ một số ít.
+Trong cộng đồng Do Thái, có những người đã cố ý bóp méo lời phán (của Allah) lệch khỏi (ý nghĩa mà Ngài đã mặc khải). Họ nói: “Chúng tôi đã nghe nhưng không tuân theo; hãy nghe nhưng hãy nghe khác đi”; và họ nói: “Raa’ina”[^19] với chiếc lưỡi của họ nhằm chế nhạo tôn giáo (Islam). Phải chi họ: “Chúng tôi đã nghe và vâng lệnh” (hoặc phải chi họ nói): “Xin hãy lắng nghe (chúng tôi)” thì điều đó tốt hơn cho họ và đúng đắn hơn. Tuy nhiên, bởi sự vô đức tin của họ, Allah đã nguyền rủa[^20] họ nên họ đã không có đức tin ngoại trừ một số ít.
 
-(19) Ý nghĩa của từ ngữ này đã được giải thích ở phần chú thích của câu 104 chương 2 – Al-Baqarah.; 
-(20) Nguyền rủa là trục xuất khỏi lòng thương xót, khoan dung của Allah.
+[^19]: Ý nghĩa của từ ngữ này đã được giải thích ở phần chú thích của câu 104 chương 2 – Al-Baqarah.;
+
+[^20]: Nguyền rủa là trục xuất khỏi lòng thương xót, khoan dung của Allah.
 
 # 540
 
@@ -2278,9 +2284,9 @@ Ngươi (hỡi Thiên Sứ Muhammad) hãy nhìn xem những kẻ đã nói khố
 
 # 544
 
-Lẽ nào Ngươi (hỡi Thiên Sứ Muhammad) không nhìn thấy những kẻ được ban cho chút ít kiến thức từ Kinh Sách (Do Thái)? Họ đã tin vào các bục tượng và Taghut(21) và họ bảo những người vô đức tin: “Những người (tin vào các thần linh bục tượng) này còn được hướng dẫn đúng đường hơn cả những người (Muslim) có đức tin.”
+Lẽ nào Ngươi (hỡi Thiên Sứ Muhammad) không nhìn thấy những kẻ được ban cho chút ít kiến thức từ Kinh Sách (Do Thái)? Họ đã tin vào các bục tượng và Taghut[^21] và họ bảo những người vô đức tin: “Những người (tin vào các thần linh bục tượng) này còn được hướng dẫn đúng đường hơn cả những người (Muslim) có đức tin.”
 
-(21) Taghut là những ai ra lệnh mọi người làm khác đi giáo luật của Allah và thờ phượng ngoài Allah.
+[^21]: Taghut là những ai ra lệnh mọi người làm khác đi giáo luật của Allah và thờ phượng ngoài Allah.
 
 # 545
 
@@ -2352,9 +2358,9 @@ Và TA cũng đã hướng dẫn họ đi đúng con đường chính đạo.
 
 # 562
 
-Ai tuân lệnh Allah và Thiên Sứ (Muhammad) thì họ là những người sẽ được ở cùng với những người đã được Allah ban cho ân huệ thuộc hàng ngũ các vị Nabi, các vị Siddiq (chính trực), những người Shahid(22) và những người ngoan đạo. Thật tốt đẹp thay cho sự đồng hành với những người đó!
+Ai tuân lệnh Allah và Thiên Sứ (Muhammad) thì họ là những người sẽ được ở cùng với những người đã được Allah ban cho ân huệ thuộc hàng ngũ các vị Nabi, các vị Siddiq (chính trực), những người Shahid[^22] và những người ngoan đạo. Thật tốt đẹp thay cho sự đồng hành với những người đó!
 
-(22) Shahid là những người đã anh dũng hy sinh trên con đường chiến đấu vì chính nghĩa của Allah.
+[^22]: Shahid là những người đã anh dũng hy sinh trên con đường chiến đấu vì chính nghĩa của Allah.
 
 # 563
 
@@ -2386,9 +2392,9 @@ Những người có đức tin thì chiến đấu cho con đường chính ngh
 
 # 570
 
-Phải chăng Ngươi (hỡi Thiên Sứ Muhammad) không nhìn thấy những người khi có lời bảo: “Các người hãy ngưng chiến, hãy chu đáo thiết lập lễ nguyện Salah và hãy xuất Zakah”.(23) Nhưng rồi sau đó, khi có lệnh bắt buộc họ phải chiến đấu thì một thành phần trong số họ sợ thiên hạ giống như sợ Allah, thậm chí còn sợ hơn. họ than: “Lạy Thượng Đế của bầy tôi, tại sao Ngài lại ban lệnh chiến đấu ngay lúc này vậy, phải chi Ngài trì hoãn cho bầy tôi thêm một thời gian nữa (để bầy tôi được hưởng thụ cuộc sống).” Ngươi (hỡi Thiên Sứ Muhammad) hãy nói với họ: “Vật chất của cuộc sống trần gian này chỉ là ít ỏi trong khi cõi Đời Sau tốt đẹp hơn dành cho người ngoan đạo; và các ngươi sẽ không bị đối xử bất công một chút nào.”
+Phải chăng Ngươi (hỡi Thiên Sứ Muhammad) không nhìn thấy những người khi có lời bảo: “Các người hãy ngưng chiến, hãy chu đáo thiết lập lễ nguyện Salah và hãy xuất Zakah”.[^23] Nhưng rồi sau đó, khi có lệnh bắt buộc họ phải chiến đấu thì một thành phần trong số họ sợ thiên hạ giống như sợ Allah, thậm chí còn sợ hơn. họ than: “Lạy Thượng Đế của bầy tôi, tại sao Ngài lại ban lệnh chiến đấu ngay lúc này vậy, phải chi Ngài trì hoãn cho bầy tôi thêm một thời gian nữa (để bầy tôi được hưởng thụ cuộc sống).” Ngươi (hỡi Thiên Sứ Muhammad) hãy nói với họ: “Vật chất của cuộc sống trần gian này chỉ là ít ỏi trong khi cõi Đời Sau tốt đẹp hơn dành cho người ngoan đạo; và các ngươi sẽ không bị đối xử bất công một chút nào.”
 
-(23) Mệnh lệnh này được ban xuống khi một số Sahabah của Thiên Sứ Muhammad صلى الله عليه وسلم đã yêu cầu đứng lên chiến đấu nhưng không được chấp nhận bởi lúc đó Islam chưa đủ mạnh. Mãi đến khi Thiên Sứ dời cư đến Madinah thì lệnh chiến đấu mới được ban hành vị lực lượng Islam lúc bấy giờ đã vững chắc và hùng mạnh.
+[^23]: Mệnh lệnh này được ban xuống khi một số Sahabah của Thiên Sứ Muhammad صلى الله عليه وسلم đã yêu cầu đứng lên chiến đấu nhưng không được chấp nhận bởi lúc đó Islam chưa đủ mạnh. Mãi đến khi Thiên Sứ dời cư đến Madinah thì lệnh chiến đấu mới được ban hành vị lực lượng Islam lúc bấy giờ đã vững chắc và hùng mạnh.
 
 # 571
 
@@ -2424,9 +2430,9 @@ Ai tận lực can thiệp mang lại điều tốt cho người khác thì y s�
 
 # 579
 
-Khi các ngươi được chào hỏi lịch thiệp thì các ngươi hãy đáp lại bằng lời chào tốt hơn hoặc bằng lời chào tương tự(24). Quả thật, Allah là Đấng thanh toán hết tất cả mọi thứ.
+Khi các ngươi được chào hỏi lịch thiệp thì các ngươi hãy đáp lại bằng lời chào tốt hơn hoặc bằng lời chào tương tự[^24]. Quả thật, Allah là Đấng thanh toán hết tất cả mọi thứ.
 
-(24) Khi được chào (السَّلَامُ عَلَيْكُم)-(Assalamu ’alaikum) thì phải đáp lại giống như vậy nói (وَعَلَيْكُمُ السَّلَامُ)-(Wa ‘alaikum Salam) hoặc đáp lại với câu dài hơn bằng cách thêm (وَرَحْمَةُ اللهِ)-(Wa rahmatullah) hoặc thêm nữa (وَبَرَكَاتُهُ)-(Wa barakatuh). Lời đáp lại ít nhất là phải bằng câu chào nhưng khuyến khích đáp lại dài hơn. Câu đáp lại tốt nhất là nói toàn bộ câu (وَعَلَيْكُمُ السَّلَامُ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ).
+[^24]: Khi được chào (السَّلَامُ عَلَيْكُم)-(Assalamu ’alaikum) thì phải đáp lại giống như vậy nói (وَعَلَيْكُمُ السَّلَامُ)-(Wa ‘alaikum Salam) hoặc đáp lại với câu dài hơn bằng cách thêm (وَرَحْمَةُ اللهِ)-(Wa rahmatullah) hoặc thêm nữa (وَبَرَكَاتُهُ)-(Wa barakatuh). Lời đáp lại ít nhất là phải bằng câu chào nhưng khuyến khích đáp lại dài hơn. Câu đáp lại tốt nhất là nói toàn bộ câu (وَعَلَيْكُمُ السَّلَامُ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ).
 
 # 580
 
@@ -2554,9 +2560,9 @@ Chắc chắn Allah không tha thứ cho kẻ phạm tội Shirk với Ngài, tu
 
 # 611
 
-Allah đã nguyền rủa hắn (Shaytan). Và hắn đã nói: “Bề tôi quyết sẽ bắt đi trong đám bầy tôi của Ngài một phần bắt buộc .”(25)
+Allah đã nguyền rủa hắn (Shaytan). Và hắn đã nói: “Bề tôi quyết sẽ bắt đi trong đám bầy tôi của Ngài một phần bắt buộc .”[^25]
 
-(25) Muqatil bin Hayyan nói: “Một phần bắt buộc có nghĩa là trong 1000 người thì 999 người bị dắt đi vào Hỏa Ngục và chỉ 1 người được vào Thiên Đàng”.
+[^25]: Muqatil bin Hayyan nói: “Một phần bắt buộc có nghĩa là trong 1000 người thì 999 người bị dắt đi vào Hỏa Ngục và chỉ 1 người được vào Thiên Đàng”.
 
 # 612
 
@@ -2584,9 +2590,9 @@ Người nào hành thiện, dù nam hay nữ, đồng thời là người có �
 
 # 618
 
-Ai tốt hơn người đã dâng trọn (cả thể xác lẫn tâm hồn của mình) cho Allah đồng thời là một người đức hạnh và luôn đi theo tín ngưỡng thuần túy của Ibrahim?! Quả thật, Allah đã chọn Ibrahim làm vị Khalil(26) (của Ngài).
+Ai tốt hơn người đã dâng trọn (cả thể xác lẫn tâm hồn của mình) cho Allah đồng thời là một người đức hạnh và luôn đi theo tín ngưỡng thuần túy của Ibrahim?! Quả thật, Allah đã chọn Ibrahim làm vị Khalil[^26] (của Ngài).
 
-(26) Khalil là người được Allah yêu thương nhất trong các vị Thiên Sứ và các vị Nabi. Trong số các vị Thiên Sứ, các vị Nabi của Allah, chỉ có hai vị được Allah chọn làm Khalil của Ngài, đó là Nabi Ibrahim và Thiên Sứ Muhammad.
+[^26]: Khalil là người được Allah yêu thương nhất trong các vị Thiên Sứ và các vị Nabi. Trong số các vị Thiên Sứ, các vị Nabi của Allah, chỉ có hai vị được Allah chọn làm Khalil của Ngài, đó là Nabi Ibrahim và Thiên Sứ Muhammad.
 
 # 619
 
@@ -2598,15 +2604,15 @@ Họ hỏi Ngươi (Thiên Sứ Muhammad) về (vấn đề của) phụ nữ. N
 
 # 621
 
-Trường hợp người phụ nữ sợ người chồng đối xử tệ bạc hoặc bỏ rơi thì hai bên không có tội nếu chịu hòa giải với nhau(27) và việc hòa giải luôn là điều tốt. Quả thật, lòng tham và ích kỷ đã tồn tại trong bản thân của mỗi người. Tuy nhiên, nếu các ngươi làm tốt và ngoan đạo thì quả thật Allah thông toàn tất cả những gì các ngươi làm.
+Trường hợp người phụ nữ sợ người chồng đối xử tệ bạc hoặc bỏ rơi thì hai bên không có tội nếu chịu hòa giải với nhau[^27] và việc hòa giải luôn là điều tốt. Quả thật, lòng tham và ích kỷ đã tồn tại trong bản thân của mỗi người. Tuy nhiên, nếu các ngươi làm tốt và ngoan đạo thì quả thật Allah thông toàn tất cả những gì các ngươi làm.
 
-(27) Hòa giải bằng cách chẳng hạn như người vợ đồng ý bỏ đi một số quyền lợi của mình giống như giảm tiền trợ cấp, giảm việc ăn ngủ cùng (khi là một trong nhiều vợ của người chồng), ... Mặc dù có sự thiệt thòi nhưng như thế vẫn tốt hơn việc phải li hôn, con cái phải thiếu thốn tình thương của cha mẹ.
+[^27]: Hòa giải bằng cách chẳng hạn như người vợ đồng ý bỏ đi một số quyền lợi của mình giống như giảm tiền trợ cấp, giảm việc ăn ngủ cùng (khi là một trong nhiều vợ của người chồng), ... Mặc dù có sự thiệt thòi nhưng như thế vẫn tốt hơn việc phải li hôn, con cái phải thiếu thốn tình thương của cha mẹ.
 
 # 622
 
-Các ngươi (những người chồng) sẽ chẳng thể nào công bằng (tuyệt đối trong việc đối xử) với các người vợ (của các ngươi) cho dù các ngươi có cố gắng ra sao. Tuy nhiên, các ngươi cũng chớ đừng nghiêng hẳn về người (vợ) này và bỏ mặc người (vợ) kia như là một án phạt tù treo(28). Do đó, nếu (vợ chồng) các ngươi biết cải thiện và biết kính sợ (Allah) thì chắc chắn Allah hằng tha thứ, khoan dung.
+Các ngươi (những người chồng) sẽ chẳng thể nào công bằng (tuyệt đối trong việc đối xử) với các người vợ (của các ngươi) cho dù các ngươi có cố gắng ra sao. Tuy nhiên, các ngươi cũng chớ đừng nghiêng hẳn về người (vợ) này và bỏ mặc người (vợ) kia như là một án phạt tù treo[^28]. Do đó, nếu (vợ chồng) các ngươi biết cải thiện và biết kính sợ (Allah) thì chắc chắn Allah hằng tha thứ, khoan dung.
 
-(28) Người chồng không ly dị nhưng bỏ rơi hoàn toàn, làm cho người vợ đó có chồng cũng như không, người vợ đó giống như bị giam lỏng như một án tù treo vậy.
+[^28]: Người chồng không ly dị nhưng bỏ rơi hoàn toàn, làm cho người vợ đó có chồng cũng như không, người vợ đó giống như bị giam lỏng như một án tù treo vậy.
 
 # 623
 
@@ -2630,9 +2636,9 @@ Người nào mong muốn phần thưởng của đời sống trần gian thì 
 
 # 628
 
-Hỡi những người có đức tin, các ngươi hãy hiên ngang đứng lên bênh vực công lý như là những nhân chứng của Allah, cho dù điều đó có thể chống lại bản thân các ngươi hoặc chống lại cha mẹ và bà con ruột thịt của các ngươi. Dù (ai đó) giàu hay nghèo thì (các ngươi cũng đừng quan tâm) bởi Allah quan tâm đến hai người đó nhiều hơn các ngươi.(29) Cho nên, các ngươi chớ đừng chiều theo dục vọng của các ngươi để rồi các ngươi rời xa công lý. Nếu các ngươi làm trái hoặc ngoảnh mặt với (sự thật) thì (các ngươi hãy biết rằng) quả thật Allah thông toàn mọi điều các ngươi làm.
+Hỡi những người có đức tin, các ngươi hãy hiên ngang đứng lên bênh vực công lý như là những nhân chứng của Allah, cho dù điều đó có thể chống lại bản thân các ngươi hoặc chống lại cha mẹ và bà con ruột thịt của các ngươi. Dù (ai đó) giàu hay nghèo thì (các ngươi cũng đừng quan tâm) bởi Allah quan tâm đến hai người đó nhiều hơn các ngươi.[^29] Cho nên, các ngươi chớ đừng chiều theo dục vọng của các ngươi để rồi các ngươi rời xa công lý. Nếu các ngươi làm trái hoặc ngoảnh mặt với (sự thật) thì (các ngươi hãy biết rằng) quả thật Allah thông toàn mọi điều các ngươi làm.
 
-(29) Chớ vì ai đó giàu có mà không dám nói lên sự thật cũng như không dám bênh vực cho điều chân lý; hoặc chớ vì thương cảm cho ai đó nghèo hèn mà không đành lòng thực thi theo lẽ công bằng. Người cầm cán cân công lý không được quan tâm đến tình trạng giàu nghèo của một ai đó trong việc phân xử và thi hành công lý. Kẻ giàu người nghèo đều được Allah quan tâm và Ngài biết rõ điều gì cải thiện cho họ.
+[^29]: Chớ vì ai đó giàu có mà không dám nói lên sự thật cũng như không dám bênh vực cho điều chân lý; hoặc chớ vì thương cảm cho ai đó nghèo hèn mà không đành lòng thực thi theo lẽ công bằng. Người cầm cán cân công lý không được quan tâm đến tình trạng giàu nghèo của một ai đó trong việc phân xử và thi hành công lý. Kẻ giàu người nghèo đều được Allah quan tâm và Ngài biết rõ điều gì cải thiện cho họ.
 
 # 629
 
@@ -2804,10 +2810,11 @@ Hỡi những người có đức tin, các ngươi hãy thực hiện đúng c�
 
 # 671
 
-Hỡi những người có đức tin, các ngươi chớ phạm những biểu hiệu của Allah(1), chớ phạm các tháng cấm kỵ(2), chớ phạm đến các con vật tế cũng như những con vật đeo vòng cổ (làm dấu chúng là những con vật tế) và chớ (vi phạm sự an toàn) đến những người hướng đến Ngôi Nhà Al-Haram (Ngôi Đền Ka’bah) để tìm kiếm hồng phúc và sự hài lòng của Thượng Đế của họ. Rồi khi nào các ngươi hoàn thành xong việc hành hương thì các ngươi được tự do săn bắt. Các ngươi chớ đừng vì việc bị nhóm người nào đó ngăn cản các ngươi đến Masjid Al-Haram khiến các ngươi có hành động phạm giới. Các ngươi hãy giúp nhau làm điều đạo đức và Taqwa (ngay chính, sợ Allah) và chớ tiếp tay nhau làm điều tội lỗi và gây hận thù. Các ngươi hãy kính sợ Allah, quả thật Allah thực sự nghiêm khắc trong việc trừng phạt.
+Hỡi những người có đức tin, các ngươi chớ phạm những biểu hiệu của Allah[^1], chớ phạm các tháng cấm kỵ[^2], chớ phạm đến các con vật tế cũng như những con vật đeo vòng cổ (làm dấu chúng là những con vật tế) và chớ (vi phạm sự an toàn) đến những người hướng đến Ngôi Nhà Al-Haram (Ngôi Đền Ka’bah) để tìm kiếm hồng phúc và sự hài lòng của Thượng Đế của họ. Rồi khi nào các ngươi hoàn thành xong việc hành hương thì các ngươi được tự do săn bắt. Các ngươi chớ đừng vì việc bị nhóm người nào đó ngăn cản các ngươi đến Masjid Al-Haram khiến các ngươi có hành động phạm giới. Các ngươi hãy giúp nhau làm điều đạo đức và Taqwa (ngay chính, sợ Allah) và chớ tiếp tay nhau làm điều tội lỗi và gây hận thù. Các ngươi hãy kính sợ Allah, quả thật Allah thực sự nghiêm khắc trong việc trừng phạt.
 
-(1) Là những điều cấm đối với những người hành hương Hajj và ‘Umrah như mặc đồ may sẵn, xức dầu thơm...; 
-(2) Các tháng cấm kỵ gồm bốn tháng là Zdul Qa’dah, Zdul Hijjah, Muharram và Rajab (tháng 11, tháng 12, tháng giêng và tháng 7 của Islam).
+[^1]: Là những điều cấm đối với những người hành hương Hajj và ‘Umrah như mặc đồ may sẵn, xức dầu thơm...;
+
+[^2]: Các tháng cấm kỵ gồm bốn tháng là Zdul Qa’dah, Zdul Hijjah, Muharram và Rajab (tháng 11, tháng 12, tháng giêng và tháng 7 của Islam).
 
 # 672
 
@@ -2815,23 +2822,25 @@ Các ngươi bị cấm ăn động vật chết, máu (tiết), thịt heo, nh�
 
 # 673
 
-Họ (Các vị Sahabah(3)) hỏi Ngươi (hỡi Thiên Sứ) thực phẩm nào họ được phép dùng, Ngươi hãy bảo họ: “Các ngươi được phép dùng những loại thực phẩm tốt sạch. Những thú săn mà các ngươi đã huấn luyện chúng đúng theo những gì Allah đã dạy các ngươi, các ngươi hãy ăn thịt những con vật mà chúng bắt được cho các ngươi, tuy nhiên, các ngươi hãy nhân danh Allah khi thả chúng.(4)” Các ngươi hãy kính sợ Allah, bởi quả thật, Allah rất nhanh chóng trong việc thanh toán (phán xét và thưởng phạt).
+Họ (Các vị Sahabah[^3]) hỏi Ngươi (hỡi Thiên Sứ) thực phẩm nào họ được phép dùng, Ngươi hãy bảo họ: “Các ngươi được phép dùng những loại thực phẩm tốt sạch. Những thú săn mà các ngươi đã huấn luyện chúng đúng theo những gì Allah đã dạy các ngươi, các ngươi hãy ăn thịt những con vật mà chúng bắt được cho các ngươi, tuy nhiên, các ngươi hãy nhân danh Allah khi thả chúng.[^4]” Các ngươi hãy kính sợ Allah, bởi quả thật, Allah rất nhanh chóng trong việc thanh toán (phán xét và thưởng phạt).
 
-(3) Sahabah là những ai dù nam hay nữ, già hay trẻ đã gặp được Thiên Sứ một lần, tin tưởng vào Người và chết là người Muslim. Có thể tạm dịch là bạn đạo của Thiên Sứ. 
-(4) Tất cả động vật có nanh và móng vuốt như chim ưng, đại bàng, chó, sói, linh cẩu, beo... đều được phép huấn luyện thành thú săn. Một con thú được sử dụng đi săn là con thú có thể nghe theo mệnh lệnh người chủ, nghĩa là khi người chủ ra lệnh bảo nó đi thì nó đi và khi gọi nó về thì nó sẽ trở về. Và khi thả thú săn đi săn, chỉ cần đọc “Bismillah” thì được phép ăn thịt con vật mà nó săn được (miễn sao con vật săn được thuộc những loại được phép ăn thịt); nếu con vật còn sống thì cắt tiết nó và nhân danh Allah, còn nếu con vật đã chết thì không cần cắt tiết.
+[^3]: Sahabah là những ai dù nam hay nữ, già hay trẻ đã gặp được Thiên Sứ một lần, tin tưởng vào Người và chết là người Muslim. Có thể tạm dịch là bạn đạo của Thiên Sứ.
+
+[^4]: Tất cả động vật có nanh và móng vuốt như chim ưng, đại bàng, chó, sói, linh cẩu, beo... đều được phép huấn luyện thành thú săn. Một con thú được sử dụng đi săn là con thú có thể nghe theo mệnh lệnh người chủ, nghĩa là khi người chủ ra lệnh bảo nó đi thì nó đi và khi gọi nó về thì nó sẽ trở về. Và khi thả thú săn đi săn, chỉ cần đọc “Bismillah” thì được phép ăn thịt con vật mà nó săn được (miễn sao con vật săn được thuộc những loại được phép ăn thịt); nếu con vật còn sống thì cắt tiết nó và nhân danh Allah, còn nếu con vật đã chết thì không cần cắt tiết.
 
 # 674
 
-Ngày nay, các ngươi được phép ăn các thực phẩm tốt sạch. Và thức ăn của dân Kinh Sách (Do Thái và Thiên Chúa)(5) Halal (được phép ăn) cho các ngươi và thức ăn của các ngươi Halal cho họ. (Các ngươi được phép cưới) những phụ nữ đoan chính (tự do) trong số những phụ nữ có đức tin và những phụ nữ đoan chính thuộc dân Kinh Sách (Do Thái và Thiên Chúa) thời trước các ngươi với điều kiện các ngươi phải trao tặng tiền cưới đàng hoàng cho họ vì họ là vợ của các ngươi chứ không phải món đồ tình dục hay người tình lén lút. Người nào phủ nhận đức tin thì quả thật mọi việc làm (thiện tốt) của y bị xóa sạch và ở Đời Sau y sẽ là một kẻ thất bại.
+Ngày nay, các ngươi được phép ăn các thực phẩm tốt sạch. Và thức ăn của dân Kinh Sách (Do Thái và Thiên Chúa)[^5] Halal (được phép ăn) cho các ngươi và thức ăn của các ngươi Halal cho họ. (Các ngươi được phép cưới) những phụ nữ đoan chính (tự do) trong số những phụ nữ có đức tin và những phụ nữ đoan chính thuộc dân Kinh Sách (Do Thái và Thiên Chúa) thời trước các ngươi với điều kiện các ngươi phải trao tặng tiền cưới đàng hoàng cho họ vì họ là vợ của các ngươi chứ không phải món đồ tình dục hay người tình lén lút. Người nào phủ nhận đức tin thì quả thật mọi việc làm (thiện tốt) của y bị xóa sạch và ở Đời Sau y sẽ là một kẻ thất bại.
 
-(5) Bao gồm cả động vật mà họ cắt tiết.
+[^5]: Bao gồm cả động vật mà họ cắt tiết.
 
 # 675
 
-Hỡi những người có đức tin, khi các ngươi muốn dâng lễ nguyện Salah thì các ngươi (phải làm Wudu’ bằng cách) rửa mặt của các ngươi, hai tay của các ngươi đến khỏi cùi chỏ, các ngươi hãy (dùng hai bàn tay thắm nước) vuốt đầu của các ngươi, (sau đó) các ngươi rửa hai bàn chân của các ngươi đến mắt cá. Trường hợp các ngươi trong tình trạng Junub(6) thì các ngươi phải rửa toàn thân (tắm). Trường hợp các ngươi bị bệnh hoặc đang trên đường đi xa hoặc sau khi đại tiểu tiện hoặc sau khi chung đụng (ăn nằm) với vợ nhưng không tìm thấy nước (để tẩy rửa) thì các ngươi hãy Tayammum(7) trên đất sạch, các ngươi hãy lau mặt và hai tay của các ngươi. Allah không hề muốn gây khó khăn cho các ngươi mà Ngài chỉ muốn tẩy sạch các ngươi, Ngài chỉ muốn hoàn tất ân huệ của Ngài cho các ngươi, mong rằng các ngươi biết tri ân.
+Hỡi những người có đức tin, khi các ngươi muốn dâng lễ nguyện Salah thì các ngươi (phải làm Wudu’ bằng cách) rửa mặt của các ngươi, hai tay của các ngươi đến khỏi cùi chỏ, các ngươi hãy (dùng hai bàn tay thắm nước) vuốt đầu của các ngươi, (sau đó) các ngươi rửa hai bàn chân của các ngươi đến mắt cá. Trường hợp các ngươi trong tình trạng Junub[^6] thì các ngươi phải rửa toàn thân (tắm). Trường hợp các ngươi bị bệnh hoặc đang trên đường đi xa hoặc sau khi đại tiểu tiện hoặc sau khi chung đụng (ăn nằm) với vợ nhưng không tìm thấy nước (để tẩy rửa) thì các ngươi hãy Tayammum[^7] trên đất sạch, các ngươi hãy lau mặt và hai tay của các ngươi. Allah không hề muốn gây khó khăn cho các ngươi mà Ngài chỉ muốn tẩy sạch các ngươi, Ngài chỉ muốn hoàn tất ân huệ của Ngài cho các ngươi, mong rằng các ngươi biết tri ân.
 
-(6) Junub hoặc Janabah là tình trạng chưa tẩy rửa sau khi đã quan hệ tình dục, xuất tinh hoặc dứt kỳ kinh nguyệt.; 
-(7) Tayammum là hình thức thay cho Wudu’ và tắm bắt buộc trong trường hợp không có nước, hiếm nước hoặc không thể sử dụng nước. Cách thức Tayammum theo đúng sự hướng dẫn của Thiên Sứ Muhammad: Vỗ hai bàn tay xuống đất khô, sạch một lần rồi lau mặt, sau đó bàn tay trái lau lên mu bàn tay phải và ngược lại.
+[^6]: Junub hoặc Janabah là tình trạng chưa tẩy rửa sau khi đã quan hệ tình dục, xuất tinh hoặc dứt kỳ kinh nguyệt.;
+
+[^7]: Tayammum là hình thức thay cho Wudu’ và tắm bắt buộc trong trường hợp không có nước, hiếm nước hoặc không thể sử dụng nước. Cách thức Tayammum theo đúng sự hướng dẫn của Thiên Sứ Muhammad: Vỗ hai bàn tay xuống đất khô, sạch một lần rồi lau mặt, sau đó bàn tay trái lau lên mu bàn tay phải và ngược lại.
 
 # 676
 
@@ -2855,9 +2864,9 @@ Hỡi những người có đức tin, các ngươi hãy nhớ lại ân huệ c
 
 # 681
 
-Quả thật, Allah đã nhận lấy giao ước của dân Israel và dựng lên trong số họ mười hai vị lãnh đạo. Allah phán bảo họ: “TA chắc chắn sẽ ở cùng với các ngươi nếu các ngươi duy trì lễ nguyện Salah, đóng Zakah, tin nơi các Thiên Sứ của TA, phò trợ Họ và cho Allah mượn(8) một cái mượn tốt thì TA sẽ bôi xóa tội lỗi cho các ngươi và thu nhận các ngươi vào những Ngôi Vườn Thiên Đàng bên dưới có các dòng sông chảy. Nhưng ai trong các ngươi vô đức tin sau đó thì quả thật y đã lạc khỏi con đường (ngay chính của Islam).
+Quả thật, Allah đã nhận lấy giao ước của dân Israel và dựng lên trong số họ mười hai vị lãnh đạo. Allah phán bảo họ: “TA chắc chắn sẽ ở cùng với các ngươi nếu các ngươi duy trì lễ nguyện Salah, đóng Zakah, tin nơi các Thiên Sứ của TA, phò trợ Họ và cho Allah mượn[^8] một cái mượn tốt thì TA sẽ bôi xóa tội lỗi cho các ngươi và thu nhận các ngươi vào những Ngôi Vườn Thiên Đàng bên dưới có các dòng sông chảy. Nhưng ai trong các ngươi vô đức tin sau đó thì quả thật y đã lạc khỏi con đường (ngay chính của Islam).
 
-(8) Ngụ ý chi dùng tài sản, của cải cho con đường chính nghĩa của Allah.
+[^8]: Ngụ ý chi dùng tài sản, của cải cho con đường chính nghĩa của Allah.
 
 # 682
 
@@ -2889,10 +2898,11 @@ Hỡi dân Kinh Sách, quả thật Thiên Sứ (Muhammad) của TA đã đến 
 
 # 689
 
-Ngươi (hỡi Thiên Sứ) hãy nhớ lại khi Musa (Môi-sê) nói với dân của mình: “Này hỡi dân ta, các người hãy nhớ về ân huệ mà Allah đa ban cho các người khi Ngài đã lựa chọn trong các người làm những vị Nabi, Ngài đã làm cho các người trở thành vua chúa(9) và Ngài đã ban cho các người những thứ(10) mà Ngài đã không ban cho bất kỳ ai trong thiên hạ (trong thời của các người).”
+Ngươi (hỡi Thiên Sứ) hãy nhớ lại khi Musa (Môi-sê) nói với dân của mình: “Này hỡi dân ta, các người hãy nhớ về ân huệ mà Allah đa ban cho các người khi Ngài đã lựa chọn trong các người làm những vị Nabi, Ngài đã làm cho các người trở thành vua chúa[^9] và Ngài đã ban cho các người những thứ[^10] mà Ngài đã không ban cho bất kỳ ai trong thiên hạ (trong thời của các người).”
 
-(9) Theo quan niệm của dân Israel, khi một người đàn ông có vợ, người hầu và nhà ở riêng thì được coi là vua chúa. (Theo Tafsir Ibnu Al-Kathir); 
-(10) Allah đã ban cho dân Israel thức ăn sẵn từ trên trời xuống như mật ong, chim cút, được mây che mát bất cứ đâu họ ở. Đây là những thứ mà họ được Allah ưu đãi hơn các dân tộc khác trong thời đại của họ. (Theo Tafsir Ibnu Al-Kathir)
+[^9]: Theo quan niệm của dân Israel, khi một người đàn ông có vợ, người hầu và nhà ở riêng thì được coi là vua chúa. (Theo Tafsir Ibnu Al-Kathir);
+
+[^10]: Allah đã ban cho dân Israel thức ăn sẵn từ trên trời xuống như mật ong, chim cút, được mây che mát bất cứ đâu họ ở. Đây là những thứ mà họ được Allah ưu đãi hơn các dân tộc khác trong thời đại của họ. (Theo Tafsir Ibnu Al-Kathir)
 
 # 690
 
@@ -2900,15 +2910,15 @@ Ngươi (hỡi Thiên Sứ) hãy nhớ lại khi Musa (Môi-sê) nói với dân
 
 # 691
 
-(Người dân của Musa) đáp: “Hỡi Musa, quả thật trong (Jerusalem) đó có một đám dân có sức mạnh phi thường(11). Chúng tôi sẽ không bao giờ vào đó cho tới khi nào họ rời đi. Nếu họ rời khỏi nơi đó thì chúng tôi mới đi vào.”
+(Người dân của Musa) đáp: “Hỡi Musa, quả thật trong (Jerusalem) đó có một đám dân có sức mạnh phi thường[^11]. Chúng tôi sẽ không bao giờ vào đó cho tới khi nào họ rời đi. Nếu họ rời khỏi nơi đó thì chúng tôi mới đi vào.”
 
-(11) Khi Musa được lệnh đi vào Jerusalem thì Người cùng dân Israel đến Jericho (một thị trấn nằm gần sông Jordan ở bờ tây thuộc các vùng lãnh thổ Palestine). Tại đây, Musa ra lệnh cho mười hai thủ lĩnh của mười hai bộ lạc Israel lẻn vào trong thị trấn xem tình hình trước. Sau khi vào trong thị trấn, cả nhóm bị đám người khổng lồ, có sức mạnh phi thường bắt bỏ vào trong tay áo cùng với số trái cây mà họ đang hái ở vườn. Họ bị dẫn đi trình diện nhà vua của đám người phi thường đó, nhà vua bảo: “Các ngươi hãy trở về nói lại với lãnh đạo của các ngươi những gì các ngươi đã nhìn thấy ở đây.” (Theo Tafsir Ibnu Al-Kathir)
+[^11]: Khi Musa được lệnh đi vào Jerusalem thì Người cùng dân Israel đến Jericho (một thị trấn nằm gần sông Jordan ở bờ tây thuộc các vùng lãnh thổ Palestine). Tại đây, Musa ra lệnh cho mười hai thủ lĩnh của mười hai bộ lạc Israel lẻn vào trong thị trấn xem tình hình trước. Sau khi vào trong thị trấn, cả nhóm bị đám người khổng lồ, có sức mạnh phi thường bắt bỏ vào trong tay áo cùng với số trái cây mà họ đang hái ở vườn. Họ bị dẫn đi trình diện nhà vua của đám người phi thường đó, nhà vua bảo: “Các ngươi hãy trở về nói lại với lãnh đạo của các ngươi những gì các ngươi đã nhìn thấy ở đây.” (Theo Tafsir Ibnu Al-Kathir)
 
 # 692
 
-Hai người đàn ông(12) trong số những người biết kính sợ Allah, (cả hai) được Allah ban cho ân huệ, nói: “Các người cứ việc tiến vào cổng (chính), các người chỉ cần tiến vào được bên trong thì các người chắc chắn sẽ giành chiến thắng, các người hãy phó thác cho Allah nếu các người là những người có đức tin.”
+Hai người đàn ông[^12] trong số những người biết kính sợ Allah, (cả hai) được Allah ban cho ân huệ, nói: “Các người cứ việc tiến vào cổng (chính), các người chỉ cần tiến vào được bên trong thì các người chắc chắn sẽ giành chiến thắng, các người hãy phó thác cho Allah nếu các người là những người có đức tin.”
 
-(12) Hai người đàn ông được đề cập là Yusha’ bin Nun và Kalab bin Yufana. Sau khi Musa qua đời thì Yusha’ bin Nun được Allah chọn làm Nabi.
+[^12]: Hai người đàn ông được đề cập là Yusha’ bin Nun và Kalab bin Yufana. Sau khi Musa qua đời thì Yusha’ bin Nun được Allah chọn làm Nabi.
 
 # 693
 
@@ -2924,9 +2934,9 @@ Allah phán (với Musa): “Vậy thì nơi đó (vùng đất linh thiêng Jer
 
 # 696
 
-Ngươi (hỡi Thiên Sứ) hãy đọc cho họ (dân Do Thái) nghe thông tin thật về hai đứa con trai của Adam(13), khi cả hai cùng hiến dâng lễ vật (lên Allah) thì chỉ một người trong hai người họ được chấp nhận còn người kia thì không. (Thế là Qabil tức giận nói với Habil): “Tao phải giết mày.” (Habil) đáp: “Quả thật, Allah chỉ chấp nhận từ những người ngoan đạo mà thôi.”
+Ngươi (hỡi Thiên Sứ) hãy đọc cho họ (dân Do Thái) nghe thông tin thật về hai đứa con trai của Adam[^13], khi cả hai cùng hiến dâng lễ vật (lên Allah) thì chỉ một người trong hai người họ được chấp nhận còn người kia thì không. (Thế là Qabil tức giận nói với Habil): “Tao phải giết mày.” (Habil) đáp: “Quả thật, Allah chỉ chấp nhận từ những người ngoan đạo mà thôi.”
 
-(13) Nabi Adam và Hauwa’ là hai con người đầu tiên sống trên trái đất, cho nên mỗi lần bà Hauwa mang thai thì Allah đều cho bà mang song thai một trai và một gái. Nabi Adam thường gả chéo đứa con trai của cặp song sinh này với đứa con gái của cặp song sinh kia và ngược lại. Qabil và Habil đều có một đứa em gái song sinh với mình, Qabil lớn hơn Habil và đứa em gái song sinh với Qabil có nhan sắc hơn đứa em gái song sinh với Habil. Habil muốn cưới người chị song sinh với Qabil nhưng Qabil không đồng ý. Nabi Adam cũng ra lệnh bảo Habil lấy người chị song sinh với Qabil và Qabil thì lấy người em gái song sinh với Habil nhưng Qabil quyết không đồng ý. Vậy là Nabi bảo hai đứa con dâng lễ vật cho Allah, lễ vật của ai được Allah chấp nhận thì người đó được quyền cưới người mình muốn. Habil là người chăn nuôi nên đã chọn con cừu đẹp nhất, mập nhất để làm lễ vật. Qabil là người trồng trọt, với bản tính cao ngạo và không chân thành, nên đã chọn đại một nhánh cây lương thực kém nhất làm lễ vật. Cuối cùng Allah cho lửa từ trời phóng xuống đốt lấy con cừu của Habil (đó là cách Allah chấp nhận lễ vật dâng lên Ngài trong thời đó) và bỏ lại nhánh lương thực của Qabil. Thế là Qabil tức giận đòi giết Habil để được quyền cưới em gái song sinh của mình. Con cừu của Habil được nuôi ở Thiên Đàng, sau này là con vật được ban xuống làm vật tế thế mạng cho Nabi Isma’il. (Theo Tafsir Ibnu Al-Kathir)
+[^13]: Nabi Adam và Hauwa’ là hai con người đầu tiên sống trên trái đất, cho nên mỗi lần bà Hauwa mang thai thì Allah đều cho bà mang song thai một trai và một gái. Nabi Adam thường gả chéo đứa con trai của cặp song sinh này với đứa con gái của cặp song sinh kia và ngược lại. Qabil và Habil đều có một đứa em gái song sinh với mình, Qabil lớn hơn Habil và đứa em gái song sinh với Qabil có nhan sắc hơn đứa em gái song sinh với Habil. Habil muốn cưới người chị song sinh với Qabil nhưng Qabil không đồng ý. Nabi Adam cũng ra lệnh bảo Habil lấy người chị song sinh với Qabil và Qabil thì lấy người em gái song sinh với Habil nhưng Qabil quyết không đồng ý. Vậy là Nabi bảo hai đứa con dâng lễ vật cho Allah, lễ vật của ai được Allah chấp nhận thì người đó được quyền cưới người mình muốn. Habil là người chăn nuôi nên đã chọn con cừu đẹp nhất, mập nhất để làm lễ vật. Qabil là người trồng trọt, với bản tính cao ngạo và không chân thành, nên đã chọn đại một nhánh cây lương thực kém nhất làm lễ vật. Cuối cùng Allah cho lửa từ trời phóng xuống đốt lấy con cừu của Habil (đó là cách Allah chấp nhận lễ vật dâng lên Ngài trong thời đó) và bỏ lại nhánh lương thực của Qabil. Thế là Qabil tức giận đòi giết Habil để được quyền cưới em gái song sinh của mình. Con cừu của Habil được nuôi ở Thiên Đàng, sau này là con vật được ban xuống làm vật tế thế mạng cho Nabi Isma’il. (Theo Tafsir Ibnu Al-Kathir)
 
 # 697
 
@@ -2938,15 +2948,15 @@ Ngươi (hỡi Thiên Sứ) hãy đọc cho họ (dân Do Thái) nghe thông tin
 
 # 699
 
-Bản ngã (hướng về điều xấu trong con người của Qabil) không ngừng xúi giục y nên y đã giết(14) đứa em của mình, thế là y đã trở thành một kẻ thua thiệt.
+Bản ngã (hướng về điều xấu trong con người của Qabil) không ngừng xúi giục y nên y đã giết[^14] đứa em của mình, thế là y đã trở thành một kẻ thua thiệt.
 
-(14) Mặc dù Qabil có ý định giết Habil nhưng hoàn toàn không biết như thế nào là giết. Lúc đó, Iblis xuất hiện lấy một con vật, đặt đầu của nó lên đá và cầm cục đá đập lên đầu con vật cho đến chết. Thế là Qabil hiểu được giết Habil như thế nào. Trích từ Tafsir Ibnu Al-Kathir.
+[^14]: Mặc dù Qabil có ý định giết Habil nhưng hoàn toàn không biết như thế nào là giết. Lúc đó, Iblis xuất hiện lấy một con vật, đặt đầu của nó lên đá và cầm cục đá đập lên đầu con vật cho đến chết. Thế là Qabil hiểu được giết Habil như thế nào. Trích từ Tafsir Ibnu Al-Kathir.
 
 # 700
 
-(Sau khi giết chết Habil, Qabil không biết phải xử trí thế nào). Rồi Allah gửi đến một con quạ(15) bới đất để cho y thấy cách chôn đi cái xác người em của y. (Nhìn thấy cảnh con quạ bới đất, Qabil) nói: “Mình thật khốn nạn, lẽ nào mình còn không bằng cả con quạ kia đến nỗi không biết cách chôn xác em của mình?!” Thế là y trở nên hối hận.
+(Sau khi giết chết Habil, Qabil không biết phải xử trí thế nào). Rồi Allah gửi đến một con quạ[^15] bới đất để cho y thấy cách chôn đi cái xác người em của y. (Nhìn thấy cảnh con quạ bới đất, Qabil) nói: “Mình thật khốn nạn, lẽ nào mình còn không bằng cả con quạ kia đến nỗi không biết cách chôn xác em của mình?!” Thế là y trở nên hối hận.
 
-(15) Giữa lúc Qabil không biết xử trí cái xác ra sao thì thấy hai con quạ giao chiến nhau và một trong hai con đã chết. Con quạ còn lại đã bới đất lên, tha cái xác của con quạ đã chết bỏ vào chỗ được bới và lấp đất lại. (Theo Tafsir Ibnu Al-Kathir)
+[^15]: Giữa lúc Qabil không biết xử trí cái xác ra sao thì thấy hai con quạ giao chiến nhau và một trong hai con đã chết. Con quạ còn lại đã bới đất lên, tha cái xác của con quạ đã chết bỏ vào chỗ được bới và lấp đất lại. (Theo Tafsir Ibnu Al-Kathir)
 
 # 701
 
@@ -2986,9 +2996,9 @@ Phải chăng Ngươi (Thiên Sứ) không biết Allah nắm quyền thống tr
 
 # 710
 
-Hỡi Thiên Sứ (Muhammad), Ngươi chớ đừng buồn rầu cho những ai đua nhau chạy đến với sự vô đức tin trong số những kẻ chỉ nói trên đầu môi ‘chúng tôi đã có đức tin’ còn trái tim thì không hề có đức tin. Và (Ngươi cũng đừng buồn rầu cho) đám người Do Thái, những người mà họ chỉ biết nghe theo lời giả dối của đám người khác, không chịu đến gặp Ngươi, cố ý bóp méo lời lẽ trong (Tawrah được mặc khải cho họ), họ nói: “Nếu (Muhammad) mang đến cho các ngươi những gì phù hợp với ý thích của các ngươi thì các ngươi hãy nhận lấy còn những gì khác thì hãy coi chừng.”(16) Ai mà Allah muốn cho y lầm lạc thì Ngươi (Thiên Sứ) sẽ không bao giờ có thể giúp được gì cho y. Đám người đó đã không được Allah tẩy sạch tấm lòng của họ, họ sẽ bị hạ nhục ở trần gian này còn ở Đời Sau họ sẽ phải chịu một sự trừng phạt khủng khiếp.
+Hỡi Thiên Sứ (Muhammad), Ngươi chớ đừng buồn rầu cho những ai đua nhau chạy đến với sự vô đức tin trong số những kẻ chỉ nói trên đầu môi ‘chúng tôi đã có đức tin’ còn trái tim thì không hề có đức tin. Và (Ngươi cũng đừng buồn rầu cho) đám người Do Thái, những người mà họ chỉ biết nghe theo lời giả dối của đám người khác, không chịu đến gặp Ngươi, cố ý bóp méo lời lẽ trong (Tawrah được mặc khải cho họ), họ nói: “Nếu (Muhammad) mang đến cho các ngươi những gì phù hợp với ý thích của các ngươi thì các ngươi hãy nhận lấy còn những gì khác thì hãy coi chừng.”[^16] Ai mà Allah muốn cho y lầm lạc thì Ngươi (Thiên Sứ) sẽ không bao giờ có thể giúp được gì cho y. Đám người đó đã không được Allah tẩy sạch tấm lòng của họ, họ sẽ bị hạ nhục ở trần gian này còn ở Đời Sau họ sẽ phải chịu một sự trừng phạt khủng khiếp.
 
-(16) Nguyên nhân câu Kinh này được mặc khải là rằng có một đôi nam nữ Do Thái làm điều Zina, họ xúi nhau đến gặp Thiên Sứ Muhammad để Người phân xử. Thiên Sứ hỏi họ: “Các người không thấy trong Tawrah có lệnh ném đá hay sao?” Họ đáp: “Chỉ thấy lệnh công khai tội lỗi của họ và đánh roi mà thôi.” Lúc đó ông Abdullah bin Salam (một người Do Thái đã cải đạo) lên tiếng: “Các người nói dối, trong đó thực sự có lệnh bảo ném đá.” Thế là buộc họ phải mang Kinh Tawrah đến để đối chứng. Khi đọc Kinh Tawrah thì kẻ đó lại cố tình lấy tay che một câu Kinh, rồi y chỉ đọc câu Kinh ở trên và câu Kinh ở dưới. Ông Abdullah bin Salam bảo: “Này, ngươi hãy lấy tay ra.” Tên đó lấy tay ra thì quả thật câu Kinh đó phán về lệnh ném đá. Lúc này họ mới nói: “Muhammad đã nói thật, trong Tawrah có câu Kinh ném đá.” Thế là Thiên Sứ ra lệnh ném đá đôi nam nữ kia. (Theo Tafsir Ibnu Kathir.)
+[^16]: Nguyên nhân câu Kinh này được mặc khải là rằng có một đôi nam nữ Do Thái làm điều Zina, họ xúi nhau đến gặp Thiên Sứ Muhammad để Người phân xử. Thiên Sứ hỏi họ: “Các người không thấy trong Tawrah có lệnh ném đá hay sao?” Họ đáp: “Chỉ thấy lệnh công khai tội lỗi của họ và đánh roi mà thôi.” Lúc đó ông Abdullah bin Salam (một người Do Thái đã cải đạo) lên tiếng: “Các người nói dối, trong đó thực sự có lệnh bảo ném đá.” Thế là buộc họ phải mang Kinh Tawrah đến để đối chứng. Khi đọc Kinh Tawrah thì kẻ đó lại cố tình lấy tay che một câu Kinh, rồi y chỉ đọc câu Kinh ở trên và câu Kinh ở dưới. Ông Abdullah bin Salam bảo: “Này, ngươi hãy lấy tay ra.” Tên đó lấy tay ra thì quả thật câu Kinh đó phán về lệnh ném đá. Lúc này họ mới nói: “Muhammad đã nói thật, trong Tawrah có câu Kinh ném đá.” Thế là Thiên Sứ ra lệnh ném đá đôi nam nữ kia. (Theo Tafsir Ibnu Kathir.)
 
 # 711
 
@@ -3100,9 +3110,9 @@ Ngươi (hỡi Thiên Sứ) hãy nói: “Hỡi dân Kinh Sách, các người k
 
 # 738
 
-Quả thật, những người có đức tin và các cộng đồng người Do Thái, người Sabi-un(17) (Sabian) và người Thiên Chúa, ai trong số họ có đức tin nơi Allah, nơi cõi Đời Sau và hành thiện thì họ sẽ không phải lo sợ cũng sẽ không buồn phiền.
+Quả thật, những người có đức tin và các cộng đồng người Do Thái, người Sabi-un[^17] (Sabian) và người Thiên Chúa, ai trong số họ có đức tin nơi Allah, nơi cõi Đời Sau và hành thiện thì họ sẽ không phải lo sợ cũng sẽ không buồn phiền.
 
-(17) Sobi-un là danh từ mà người Ả-rập gọi chung cho tất cả những ai đã cải đạo sang tôn giáo khác, họ theo một số Thiên Sứ của Allah ở thời trước đây. Sheikh Islam Ibnu Taimiyah nói: “Sobi-un có hai nhóm, một nhóm có đức tin và thờ phượng Allah duy nhất, họ được nhắc ở câu 62 của chương Al-Baqarah và nhóm còn lại là nhóm đa thần, họ được nhắc ở câu 17 của chương Al-Hajj.”
+[^17]: Sobi-un là danh từ mà người Ả-rập gọi chung cho tất cả những ai đã cải đạo sang tôn giáo khác, họ theo một số Thiên Sứ của Allah ở thời trước đây. Sheikh Islam Ibnu Taimiyah nói: “Sobi-un có hai nhóm, một nhóm có đức tin và thờ phượng Allah duy nhất, họ được nhắc ở câu 62 của chương Al-Baqarah và nhóm còn lại là nhóm đa thần, họ được nhắc ở câu 17 của chương Al-Hajj.”
 
 # 739
 
@@ -3118,9 +3128,9 @@ Quả thật, những ai đã nói “Allah chính là Masih con trai của Mary
 
 # 742
 
-Quả thật, những ai đã nói “Allah là ngôi thứ ba trong thuyết Ba Ngôi(18)” là những kẻ vô đức tin, (bởi lẽ) chỉ có một Thượng Đế duy nhất (là Allah). Nếu như bọn họ không chấm dứt ngay những lời nói (phạm thượng) đó thì chắc chắn những kẻ vô đức tin trong bọn họ sẽ phải bị một sự trừng phạt đau đớn.
+Quả thật, những ai đã nói “Allah là ngôi thứ ba trong thuyết Ba Ngôi[^18]” là những kẻ vô đức tin, (bởi lẽ) chỉ có một Thượng Đế duy nhất (là Allah). Nếu như bọn họ không chấm dứt ngay những lời nói (phạm thượng) đó thì chắc chắn những kẻ vô đức tin trong bọn họ sẽ phải bị một sự trừng phạt đau đớn.
 
-(18) Thuyết Ba Ngôi gồm Chúa Cha, Chúa Con và Chúa Thánh Linh (Chúa Thánh Thần).
+[^18]: Thuyết Ba Ngôi gồm Chúa Cha, Chúa Con và Chúa Thánh Linh (Chúa Thánh Thần).
 
 # 743
 
@@ -3184,9 +3194,9 @@ Các ngươi hãy ăn những thực phẩm Halal tốt sạch mà Allah đã ba
 
 # 758
 
-Allah không bắt tội các ngươi về những lời thề thốt do quen miệng mà Ngài chỉ bắt tội các ngươi về những lời thề thực sự có chủ ý. Tuy nhiên, để chuộc tội cho lời thề đã phạm(19) thì phải nuôi ăn mười người nghèo theo mức lượng trung bình mà các ngươi dùng để nuôi gia đình hoặc cấp quần áo cho họ hoặc trả tự do cho một người nô lệ (có đức tin). Đối với người nào không có khả năng thì phải nhịn chay ba ngày liên tục. Đó là cách chuộc tội cho điều đã phạm trong lời thề, và các ngươi hãy giữ lời thề của mình. Allah trình bày rõ ràng các lời mặc khải của Ngài cho các ngươi như thế, mong rằng các ngươi biết tạ ơn (Ngài).
+Allah không bắt tội các ngươi về những lời thề thốt do quen miệng mà Ngài chỉ bắt tội các ngươi về những lời thề thực sự có chủ ý. Tuy nhiên, để chuộc tội cho lời thề đã phạm[^19] thì phải nuôi ăn mười người nghèo theo mức lượng trung bình mà các ngươi dùng để nuôi gia đình hoặc cấp quần áo cho họ hoặc trả tự do cho một người nô lệ (có đức tin). Đối với người nào không có khả năng thì phải nhịn chay ba ngày liên tục. Đó là cách chuộc tội cho điều đã phạm trong lời thề, và các ngươi hãy giữ lời thề của mình. Allah trình bày rõ ràng các lời mặc khải của Ngài cho các ngươi như thế, mong rằng các ngươi biết tạ ơn (Ngài).
 
-(19) Thề không làm một điều gì đó nhưng lại làm hoặc thề làm một điều gì đó nhưng lại không làm. Đó là phạm tội trong lời thề.
+[^19]: Thề không làm một điều gì đó nhưng lại làm hoặc thề làm một điều gì đó nhưng lại không làm. Đó là phạm tội trong lời thề.
 
 # 759
 
@@ -3202,9 +3212,9 @@ Các ngươi hãy tuân lệnh Allah, vâng lời Thiên Sứ (Muhammad) và cá
 
 # 762
 
-Những người có đức tin và hành thiện sẽ không bị bắt tội về những gì (Haram) mà họ đã ăn (uống) trong quá khứ (chẳng hạn như uống rượu trước khi có lệnh cấm) nếu (hiện tại) họ giữ mình (không phạm điều Haram), có đức tin và hành thiện; sau đó, họ giữ mình hơn, có đức tin nhiều hơn, rồi họ giữ mình hơn nữa và làm tốt. Quả thật, Allah thương yêu những người làm tốt(20).
+Những người có đức tin và hành thiện sẽ không bị bắt tội về những gì (Haram) mà họ đã ăn (uống) trong quá khứ (chẳng hạn như uống rượu trước khi có lệnh cấm) nếu (hiện tại) họ giữ mình (không phạm điều Haram), có đức tin và hành thiện; sau đó, họ giữ mình hơn, có đức tin nhiều hơn, rồi họ giữ mình hơn nữa và làm tốt. Quả thật, Allah thương yêu những người làm tốt[^20].
 
-(20) Những người làm tốt là những người ngoan đạo đạt đến cảnh giới Ehsan. Và Ehsan được Thiên Sứ của Allah định nghĩa rằng đó là một người thờ phượng Allah như thể y đang nhìn thấy Ngài trước mặt nhưng nếu như y không thể nhìn thấy Ngài thì y biết rằng Ngài đang nhìn thấy y.
+[^20]: Những người làm tốt là những người ngoan đạo đạt đến cảnh giới Ehsan. Và Ehsan được Thiên Sứ của Allah định nghĩa rằng đó là một người thờ phượng Allah như thể y đang nhìn thấy Ngài trước mặt nhưng nếu như y không thể nhìn thấy Ngài thì y biết rằng Ngài đang nhìn thấy y.
 
 # 763
 
@@ -3212,9 +3222,9 @@ Hỡi những người có đức tin, Allah chắc chắn thử thách các ng�
 
 # 764
 
-Hỡi những người có đức tin, các ngươi chớ đừng giết thú săn khi các ngươi đang trong thời gian hãm mình (của nghi thức Hajj hoặc ‘Umrah). Ai trong các ngươi cố tình giết thú săn (khi đang trong tình trạng hãm mình như thế) thì hình phạt dành cho y là y phải đền một con gia súc tương đương với con thú săn mà y đã giết dưới giám sát của hai người đàn ông công bằng trong các ngươi, (con vật phải) được dắt đến Ka’bah để giết (và chia thịt cho cư dân nghèo ở đó), hoặc y phải chuộc tội bằng cách nuôi ăn(21) những người nghèo hoặc bằng cách nhịn chay tương đương với việc nuôi ăn đó, mục đích để cho y nếm hậu quả của hành vi (giết thú săn) của y. Allah sẽ lượng thứ cho việc đã qua nhưng ai tái phạm thì Allah sẽ trừng phạt y. Quả thật, Allah là Đấng Toàn Năng, Đấng toàn quyền trừng phạt (không quyền lực nào có thể kháng cự).
+Hỡi những người có đức tin, các ngươi chớ đừng giết thú săn khi các ngươi đang trong thời gian hãm mình (của nghi thức Hajj hoặc ‘Umrah). Ai trong các ngươi cố tình giết thú săn (khi đang trong tình trạng hãm mình như thế) thì hình phạt dành cho y là y phải đền một con gia súc tương đương với con thú săn mà y đã giết dưới giám sát của hai người đàn ông công bằng trong các ngươi, (con vật phải) được dắt đến Ka’bah để giết (và chia thịt cho cư dân nghèo ở đó), hoặc y phải chuộc tội bằng cách nuôi ăn[^21] những người nghèo hoặc bằng cách nhịn chay tương đương với việc nuôi ăn đó, mục đích để cho y nếm hậu quả của hành vi (giết thú săn) của y. Allah sẽ lượng thứ cho việc đã qua nhưng ai tái phạm thì Allah sẽ trừng phạt y. Quả thật, Allah là Đấng Toàn Năng, Đấng toàn quyền trừng phạt (không quyền lực nào có thể kháng cự).
 
-(21) Nuôi ăn người nghèo được thực hiện theo cách sau: Định giá tiền cho con thú săn bị giết rồi lấy giá tiền chia 1,2 kg (gạo), kết quả có được là số phần phải cho người nghèo. Nếu không có khả năng nuôi ăn người nghèo thì phải nhịn chay, số ngày nhịn chay tương ứng với số phần nuôi ăn, bao nhiêu phần là bấy nhiêu ngày nhịn chay.
+[^21]: Nuôi ăn người nghèo được thực hiện theo cách sau: Định giá tiền cho con thú săn bị giết rồi lấy giá tiền chia 1,2 kg (gạo), kết quả có được là số phần phải cho người nghèo. Nếu không có khả năng nuôi ăn người nghèo thì phải nhịn chay, số ngày nhịn chay tương ứng với số phần nuôi ăn, bao nhiêu phần là bấy nhiêu ngày nhịn chay.
 
 # 765
 
@@ -3222,9 +3232,9 @@ Các ngươi được phép săn bắt (động vật) trên biển và được
 
 # 766
 
-Allah đã qui định Ka’bah, Ngôi đền thiêng liêng, làm một nơi để nhân loại đến hành đạo (như Salah, hành hương Hajj và ‘Umrah); (Ngài quy định) những tháng cấm (giết chóc)(22), (qui định) vật giết tế và việc đeo vòng cổ (lên con vật được chọn giết tế). (Ngài qui định) như thế là để các ngươi biết rằng Allah hằng biết rõ mọi thứ trong trời đất; quả thật Allah là Đấng hằng biết mọi thứ.
+Allah đã qui định Ka’bah, Ngôi đền thiêng liêng, làm một nơi để nhân loại đến hành đạo (như Salah, hành hương Hajj và ‘Umrah); (Ngài quy định) những tháng cấm (giết chóc)[^22], (qui định) vật giết tế và việc đeo vòng cổ (lên con vật được chọn giết tế). (Ngài qui định) như thế là để các ngươi biết rằng Allah hằng biết rõ mọi thứ trong trời đất; quả thật Allah là Đấng hằng biết mọi thứ.
 
-(22) Các tháng cấm đó bao gồm: Zdul-Qa’dah, Zdul-Hijjah, Muharram, Rajab.
+[^22]: Các tháng cấm đó bao gồm: Zdul-Qa’dah, Zdul-Hijjah, Muharram, Rajab.
 
 # 767
 
@@ -3248,9 +3258,9 @@ Thật ra, trước các ngươi đã có một đám người cũng đã hỏi 
 
 # 772
 
-Allah không hề quy định về Bahirah, Sa-ibah, Wasilah hay Ham gì cả(23) mà chính những kẻ vô đức tin đã bịa đặt điều giả dối cho Allah. Quả thật, đa số bọn họ chẳng hiểu gì.
+Allah không hề quy định về Bahirah, Sa-ibah, Wasilah hay Ham gì cả[^23] mà chính những kẻ vô đức tin đã bịa đặt điều giả dối cho Allah. Quả thật, đa số bọn họ chẳng hiểu gì.
 
-(23) Người đa thần trước đây đã tự đặt ra những điều mê tín: Bahirah là con lạc đà cái, sữa của nó chỉ dành dâng cúng các thần linh bục tượng, không ai được phép vắt sữa của nó, hoặc là con lạc cái có tai bị chẻ làm đôi. Sa-ibah là con lạc đà cái được thả tự do, nó là con vật dành cúng cho thần linh, nó không được dùng để chuyên chở. Wasilah là con lạc đà cái dùng để cúng các thần linh, không được dùng để chuyên chở vì nó đều đẻ con cái trong hai lứa đầu. Ham là con lạc đà đực được dùng để phối giống, sau khi nó giao phối đến đủ số lần giao phối theo qui định thì nó được thả tự do, không được dùng chuyên chở, nó là vật cúng các thần linh. (Xem Tafsir Ibnu Jibril và Ibnu Al-Kathir)
+[^23]: Người đa thần trước đây đã tự đặt ra những điều mê tín: Bahirah là con lạc đà cái, sữa của nó chỉ dành dâng cúng các thần linh bục tượng, không ai được phép vắt sữa của nó, hoặc là con lạc cái có tai bị chẻ làm đôi. Sa-ibah là con lạc đà cái được thả tự do, nó là con vật dành cúng cho thần linh, nó không được dùng để chuyên chở. Wasilah là con lạc đà cái dùng để cúng các thần linh, không được dùng để chuyên chở vì nó đều đẻ con cái trong hai lứa đầu. Ham là con lạc đà đực được dùng để phối giống, sau khi nó giao phối đến đủ số lần giao phối theo qui định thì nó được thả tự do, không được dùng chuyên chở, nó là vật cúng các thần linh. (Xem Tafsir Ibnu Jibril và Ibnu Al-Kathir)
 
 # 773
 
@@ -3458,9 +3468,9 @@ Quả thật, các vị Thiên Sứ trước Ngươi (hỡi Thiên Sứ Muhammad
 
 # 824
 
-Nếu sự quay lưng của (những kẻ đa thần) là điều trở ngại lớn cho Ngươi (hỡi Thiên Sứ) thì với khả năng của Ngươi, hãy đào một đường hầm dưới đất hoặc hãy bắt một cái thang lên trời để mang đến cho họ một dấu hiệu (để thuyết phục họ). Quả thật, nếu Allah muốn thì chắc chắn Ngài đã tập hợp toàn bộ họ đi trên chính đạo. Cho nên, Ngươi chớ là kẻ ngu muội.(1)
+Nếu sự quay lưng của (những kẻ đa thần) là điều trở ngại lớn cho Ngươi (hỡi Thiên Sứ) thì với khả năng của Ngươi, hãy đào một đường hầm dưới đất hoặc hãy bắt một cái thang lên trời để mang đến cho họ một dấu hiệu (để thuyết phục họ). Quả thật, nếu Allah muốn thì chắc chắn Ngài đã tập hợp toàn bộ họ đi trên chính đạo. Cho nên, Ngươi chớ là kẻ ngu muội.[^1]
 
-(1) Thiên Sứ thấy rằng mặc dù đã dành một thời gian dài để khuyên nhủ người dân của mình nhưng họ hầu như không đáp lại lời kêu gọi của Người. Kết quả là đôi khi Người mong muốn sự xuất hiện một dấu hiệu lạ nào đó từ nơi Thượng Đế sẽ làm suy yếu sự ngoan cố của người dân và khiến họ chấp nhận sự hướng dẫn của Người. Câu Kinh này thể hiện phản ứng của Thượng Đế đối với mong muốn của Thiên Sứ. Người được bảo đừng nôn nóng. Người phải kiên trì phấn đấu và tiếp tục làm tròn sứ mạng phù hợp với chỉ thị của Allah. Allah thừa khả năng ban xuống những dấu hiệu lạ và thừa khả năng hướng dẫn toàn bộ đến chính đạo nhưng Ngài đã không coi đó là phương pháp thích hợp để hoàn thành cuộc cách mạng trí tuệ và đạo đức cần thiết hoặc cho sự phát triển của một nền văn minh lành mạnh. Nếu Thiên Sứ không thể kiên nhẫn chịu đựng thái độ bướng bỉnh và sự quay lưng của người dân của Người, và nếu Người nghĩ cần phải làm cho họ chứng kiến một dấu hiệu lạ hữu hình của Thượng Đế, thì Người hãy tập trung tất cả sức mạnh và cố gắng để đào một cái hầm dưới đất hoặc bắt một cái thang lên trời và mang đến một phép lạ đủ mạnh để thay đổi đức tin của những kẻ vô đức tin. Tuy nhiên, Thiên Sứ được cho biết rằng về vấn đề này, Người không nên mong đợi Thượng Đế thực hiện ước muốn của mình, vì những điều như vậy không có chỗ trong kế hoạch của Ngài. Cho nên, Thiên Sứ chớ đâm ra thoái chí và mất kiên nhẫn giống như một kẻ ngu muội.
+[^1]: Thiên Sứ thấy rằng mặc dù đã dành một thời gian dài để khuyên nhủ người dân của mình nhưng họ hầu như không đáp lại lời kêu gọi của Người. Kết quả là đôi khi Người mong muốn sự xuất hiện một dấu hiệu lạ nào đó từ nơi Thượng Đế sẽ làm suy yếu sự ngoan cố của người dân và khiến họ chấp nhận sự hướng dẫn của Người. Câu Kinh này thể hiện phản ứng của Thượng Đế đối với mong muốn của Thiên Sứ. Người được bảo đừng nôn nóng. Người phải kiên trì phấn đấu và tiếp tục làm tròn sứ mạng phù hợp với chỉ thị của Allah. Allah thừa khả năng ban xuống những dấu hiệu lạ và thừa khả năng hướng dẫn toàn bộ đến chính đạo nhưng Ngài đã không coi đó là phương pháp thích hợp để hoàn thành cuộc cách mạng trí tuệ và đạo đức cần thiết hoặc cho sự phát triển của một nền văn minh lành mạnh. Nếu Thiên Sứ không thể kiên nhẫn chịu đựng thái độ bướng bỉnh và sự quay lưng của người dân của Người, và nếu Người nghĩ cần phải làm cho họ chứng kiến một dấu hiệu lạ hữu hình của Thượng Đế, thì Người hãy tập trung tất cả sức mạnh và cố gắng để đào một cái hầm dưới đất hoặc bắt một cái thang lên trời và mang đến một phép lạ đủ mạnh để thay đổi đức tin của những kẻ vô đức tin. Tuy nhiên, Thiên Sứ được cho biết rằng về vấn đề này, Người không nên mong đợi Thượng Đế thực hiện ước muốn của mình, vì những điều như vậy không có chỗ trong kế hoạch của Ngài. Cho nên, Thiên Sứ chớ đâm ra thoái chí và mất kiên nhẫn giống như một kẻ ngu muội.
 
 # 825
 
@@ -3832,9 +3842,9 @@ Họ sẽ có được ngôi nhà bằng an (Thiên Đàng) nơi Thượng Đế
 
 # 917
 
-(Hỡi Thiên Sứ, Ngươi hãy nghĩ đến) Ngày (mà Allah) triệu tập tất cả (hai loài: con người và Jinn) và phán: “Hỡi loài Jinn, quả thật các ngươi đã dẫn nhiều (linh hồn) trong loài người (đi lạc).” Những tên đầu sỏ trong loài người nói: “Lạy Thượng Đế của bầy tôi, tất cả bầy tôi đã tận hưởng lẫn nhau(2) nhưng rồi bầy tôi đã mãn kỳ hạn mà Ngài đã ấn định cho bầy tôi.” (Allah) phán: “Vậy thì Ngục Lửa là nơi cư ngụ muôn đời cho tất cả các ngươi trừ phi Allah muốn khác hơn.” Quả thật, Thượng Đế của Ngươi (hỡi Thiên Sứ) là Đấng Chí Minh, Đấng Hằng Biết.
+(Hỡi Thiên Sứ, Ngươi hãy nghĩ đến) Ngày (mà Allah) triệu tập tất cả (hai loài: con người và Jinn) và phán: “Hỡi loài Jinn, quả thật các ngươi đã dẫn nhiều (linh hồn) trong loài người (đi lạc).” Những tên đầu sỏ trong loài người nói: “Lạy Thượng Đế của bầy tôi, tất cả bầy tôi đã tận hưởng lẫn nhau[^2] nhưng rồi bầy tôi đã mãn kỳ hạn mà Ngài đã ấn định cho bầy tôi.” (Allah) phán: “Vậy thì Ngục Lửa là nơi cư ngụ muôn đời cho tất cả các ngươi trừ phi Allah muốn khác hơn.” Quả thật, Thượng Đế của Ngươi (hỡi Thiên Sứ) là Đấng Chí Minh, Đấng Hằng Biết.
 
-(2) Loài người thờ phượng Jinn, đổi lại, loài người được thỏa mãn mọi ham muốn, dục vọng của bản thân dưới sự giúp đỡ của Jinn.
+[^2]: Loài người thờ phượng Jinn, đổi lại, loài người được thỏa mãn mọi ham muốn, dục vọng của bản thân dưới sự giúp đỡ của Jinn.
 
 # 918
 
@@ -3874,9 +3884,9 @@ Tương tự, những thần linh (Shaytan) đã làm nhiều kẻ đa thần th
 
 # 927
 
-(Những kẻ đa thần) nói theo ý của chúng: “Đây là thú nuôi và nông sản bị cấm sử dụng ngoại trừ những ai mà bọn ta cho phép. Còn đây là những thú vật(3) bị cấm dùng để chuyên chở, và đây là thú nuôi không được nhân danh Allah lúc cắt tiết.” (Đó toàn là) sự bịa đặt cho (Allah). Rồi đây, Ngài sẽ đáp trả lại chúng (sự trừng phạt xứng đáng) bởi những gì chúng đã bịa đặt.
+(Những kẻ đa thần) nói theo ý của chúng: “Đây là thú nuôi và nông sản bị cấm sử dụng ngoại trừ những ai mà bọn ta cho phép. Còn đây là những thú vật[^3] bị cấm dùng để chuyên chở, và đây là thú nuôi không được nhân danh Allah lúc cắt tiết.” (Đó toàn là) sự bịa đặt cho (Allah). Rồi đây, Ngài sẽ đáp trả lại chúng (sự trừng phạt xứng đáng) bởi những gì chúng đã bịa đặt.
 
-(3) Những kẻ đa thần trước đây đã tự quy định về thú nuôi, như Bahirah, Sa-ibah, Wasilah và Ham. (Xem lại chương 5 - Al-Ma-idah, câu 103).
+[^3]: Những kẻ đa thần trước đây đã tự quy định về thú nuôi, như Bahirah, Sa-ibah, Wasilah và Ham. (Xem lại chương 5 - Al-Ma-idah, câu 103).
 
 # 928
 
@@ -3928,9 +3938,9 @@ Ngươi (hỡi Thiên Sứ) hãy nói với họ: “Nào, các ngươi hãy đ�
 
 # 940
 
-Ngươi (hỡi Thiên Sứ) hãy nói (với thiên hạ): “(Này hỡi mọi người) hãy cùng đến đây, Ta sẽ đọc cho các ngươi những điều mà Thượng Đế của các ngươi đã cấm các ngươi, đó là: các ngươi không được tổ hợp với Ngài bất cứ thứ gì; các ngươi hãy hiếu thảo với cha mẹ; các ngươi không được giết con cái của các ngươi vì sợ cái nghèo bởi TA (Allah) mới là Đấng Cung Dưỡng cho các ngươi và bọn chúng; các ngươi không được đến gần những hành vi ô uế (tình dục ngoài hôn nhân) dù công khai hay kín đáo; các ngươi không được giết một sinh mạng mà Allah đã qui định bất khả xâm phạm trừ phi vì lý do chính đáng.(4) Đó là những điều cấm mà Ngài đã sắc lệnh cho các ngươi mong rằng các ngươi hiểu (mà tuân thủ chấp hành).”
+Ngươi (hỡi Thiên Sứ) hãy nói (với thiên hạ): “(Này hỡi mọi người) hãy cùng đến đây, Ta sẽ đọc cho các ngươi những điều mà Thượng Đế của các ngươi đã cấm các ngươi, đó là: các ngươi không được tổ hợp với Ngài bất cứ thứ gì; các ngươi hãy hiếu thảo với cha mẹ; các ngươi không được giết con cái của các ngươi vì sợ cái nghèo bởi TA (Allah) mới là Đấng Cung Dưỡng cho các ngươi và bọn chúng; các ngươi không được đến gần những hành vi ô uế (tình dục ngoài hôn nhân) dù công khai hay kín đáo; các ngươi không được giết một sinh mạng mà Allah đã qui định bất khả xâm phạm trừ phi vì lý do chính đáng.[^4] Đó là những điều cấm mà Ngài đã sắc lệnh cho các ngươi mong rằng các ngươi hiểu (mà tuân thủ chấp hành).”
 
-(4) Lý do chính đáng: áp dụng luật tử hình đối với kẻ sát nhân, kẻ phạm tội Zina sau hôn nhân, và kẻ phản đạo cũng như những kẻ phạm tội nghiêm trọng khác.
+[^4]: Lý do chính đáng: áp dụng luật tử hình đối với kẻ sát nhân, kẻ phạm tội Zina sau hôn nhân, và kẻ phản đạo cũng như những kẻ phạm tội nghiêm trọng khác.
 
 # 941
 
@@ -4090,9 +4100,9 @@ Cả hai đồng thưa: “Lạy Thượng Đế của bầy tôi, quả thật 
 
 # 980
 
-Hỡi con cháu của Adam (loài người), quả thật, TA đã ban xuống cho các ngươi y phục để các ngươi che đậy phần xấu hổ của mình và để các ngươi làm đẹp; tuy nhiên, y phục tốt nhất là lòng Taqwa(1). Đấy là một trong các dấu hiệu của Allah, mong rằng họ biết lưu tâm.
+Hỡi con cháu của Adam (loài người), quả thật, TA đã ban xuống cho các ngươi y phục để các ngươi che đậy phần xấu hổ của mình và để các ngươi làm đẹp; tuy nhiên, y phục tốt nhất là lòng Taqwa[^1]. Đấy là một trong các dấu hiệu của Allah, mong rằng họ biết lưu tâm.
 
-(1) Sự ngay chính, ngoan đạo và kính sợ Allah.
+[^1]: Sự ngay chính, ngoan đạo và kính sợ Allah.
 
 # 981
 
@@ -4172,9 +4182,9 @@ Những ai mà họ ngăn cản con đường chính đạo của Allah cũng nh
 
 # 1000
 
-Giữa họ (cư dân Thiên Đàng và cư dân Hỏa Ngục) là một vách ngăn cách (được gọi là các gò cao). Trên các gò cao (này), có những người(2) biết rõ từng người của họ (cư dân Thiên Đàng và cư dân Hỏa Ngục) qua các dấu vết (trên gương mặt) của họ. (Những người trên các gò cao này) gọi những người bạn của Thiên Đàng, chúc: “Mong bằng an cho quí vị.” (Những người trên các gò cao) vẫn chưa được vào trong đó (Thiên Đàng) nhưng họ thèm khát được vào.
+Giữa họ (cư dân Thiên Đàng và cư dân Hỏa Ngục) là một vách ngăn cách (được gọi là các gò cao). Trên các gò cao (này), có những người[^2] biết rõ từng người của họ (cư dân Thiên Đàng và cư dân Hỏa Ngục) qua các dấu vết (trên gương mặt) của họ. (Những người trên các gò cao này) gọi những người bạn của Thiên Đàng, chúc: “Mong bằng an cho quí vị.” (Những người trên các gò cao) vẫn chưa được vào trong đó (Thiên Đàng) nhưng họ thèm khát được vào.
 
-(2) Những người trên các gò cao là những người mà các việc làm thiện tốt và ngoan đạo của họ ngang bằng với các việc làm tội lỗi của họ. Hoặc Allah sẽ trừng phạt họ trong Hỏa Ngục bởi tội lỗi của họ hoặc Ngài sẽ cho họ vào Thiên Đàng bởi lòng thương xót và nhân từ của Ngài.
+[^2]: Những người trên các gò cao là những người mà các việc làm thiện tốt và ngoan đạo của họ ngang bằng với các việc làm tội lỗi của họ. Hoặc Allah sẽ trừng phạt họ trong Hỏa Ngục bởi tội lỗi của họ hoặc Ngài sẽ cho họ vào Thiên Đàng bởi lòng thương xót và nhân từ của Ngài.
 
 # 1001
 
@@ -4610,9 +4620,9 @@ Rồi khi cơn giận đã nguôi ngoai, Musa nhặt lại các tấm (ghi các 
 
 # 1109
 
-Musa đã lựa chọn bảy mươi người trong số người dân của Y đưa chúng đến chỗ hẹn của TA.(3) Rồi khi trận động đất bắt phạt chúng. (Musa) cầu nguyện: “Lạy Thượng Đế của bề tôi, nếu muốn Ngài có thể đã tiêu diệt họ và cả bề tôi trước khi đến đây. Lẽ nào Ngài lại tiêu diệt bầy tôi bởi hành động của những kẻ ngu ngốc trong bầy tôi? Chẳng qua đó chỉ là sự thử thách mà Ngài đã dùng nó để làm lạc đường kẻ nào Ngài muốn và hướng dẫn ai đi đúng đường Ngài muốn. Ngài là Đấng Bảo Hộ của bầy tôi, xin Ngài hãy tha thứ cho bầy tôi và thương xót bầy tôi, bởi Ngài là Đấng Tha Thứ tốt nhất!”
+Musa đã lựa chọn bảy mươi người trong số người dân của Y đưa chúng đến chỗ hẹn của TA.[^3] Rồi khi trận động đất bắt phạt chúng. (Musa) cầu nguyện: “Lạy Thượng Đế của bề tôi, nếu muốn Ngài có thể đã tiêu diệt họ và cả bề tôi trước khi đến đây. Lẽ nào Ngài lại tiêu diệt bầy tôi bởi hành động của những kẻ ngu ngốc trong bầy tôi? Chẳng qua đó chỉ là sự thử thách mà Ngài đã dùng nó để làm lạc đường kẻ nào Ngài muốn và hướng dẫn ai đi đúng đường Ngài muốn. Ngài là Đấng Bảo Hộ của bầy tôi, xin Ngài hãy tha thứ cho bầy tôi và thương xót bầy tôi, bởi Ngài là Đấng Tha Thứ tốt nhất!”
 
-(3) Khi đến chỗ hẹn, họ đòi được tận mắt nhìn thấy Allah, họ nói với Musa: “Này Musa, chúng tôi không thể nào tin vào Người cho đến khi chúng tôi tận mắt thấy được Allah xuất hiện.” Vậy là Allah cho trận động đất bắt lấy họ. (Xem câu 55 chương 2 – Al-Baqarah)
+[^3]: Khi đến chỗ hẹn, họ đòi được tận mắt nhìn thấy Allah, họ nói với Musa: “Này Musa, chúng tôi không thể nào tin vào Người cho đến khi chúng tôi tận mắt thấy được Allah xuất hiện.” Vậy là Allah cho trận động đất bắt lấy họ. (Xem câu 55 chương 2 – Al-Baqarah)
 
 # 1110
 
@@ -4644,9 +4654,9 @@ Tuy nhiên, những kẻ làm điều sai quấy đã thay đổi lời phán đ
 
 # 1117
 
-(Ngươi - hỡi Thiên Sứ) hãy hỏi (dân Do Thái) về một thị trấn nằm ven biển đã vi phạm (giới cấm) của ngày thứ bảy - khi cá của họ đến với họ một cách công khai vào ngày thứ bảy của họ, còn vào ngày ngoài ngày thứ bảy thì chúng không đến với họ. Như thế đó, TA (Allah) đã thử thách họ bởi những điều mà họ đã bất tuân và dấy loạn.(2)
+(Ngươi - hỡi Thiên Sứ) hãy hỏi (dân Do Thái) về một thị trấn nằm ven biển đã vi phạm (giới cấm) của ngày thứ bảy - khi cá của họ đến với họ một cách công khai vào ngày thứ bảy của họ, còn vào ngày ngoài ngày thứ bảy thì chúng không đến với họ. Như thế đó, TA (Allah) đã thử thách họ bởi những điều mà họ đã bất tuân và dấy loạn.[^*]
 
-#_7_163 (2) Do một nhóm những người Do Thái đã bất tuân Allah nên Ngài đã trừng phạt họ bằng cách Ngài cho đàn cá từ biển kéo nhau lội vào bờ chỉ vào ngày thứ bảy còn những ngày khác thì không có con cá nào và Ngài cấm họ săn bắt cá vào ngày thứ bảy. Tuy nhiên, chứng nào tật náy, với bản chất gian xảo, họ không bắt cá vào ngày thứ bảy mà vào ngày hôm đó, họ đào ao và giăng lưới giữ đàn cá lại để qua ngày chủ nhật hôm sau họ mới bắt. Thế là Allah đã biến họ thành loài khỉ.
+[^*]: #_7_163 (2) Do một nhóm những người Do Thái đã bất tuân Allah nên Ngài đã trừng phạt họ bằng cách Ngài cho đàn cá từ biển kéo nhau lội vào bờ chỉ vào ngày thứ bảy còn những ngày khác thì không có con cá nào và Ngài cấm họ săn bắt cá vào ngày thứ bảy. Tuy nhiên, chứng nào tật náy, với bản chất gian xảo, họ không bắt cá vào ngày thứ bảy mà vào ngày hôm đó, họ đào ao và giăng lưới giữ đàn cá lại để qua ngày chủ nhật hôm sau họ mới bắt. Thế là Allah đã biến họ thành loài khỉ.
 
 # 1118
 
@@ -4694,9 +4704,9 @@ TA (Allah) đã trình bày rõ các Lời Mặc Khải như thế đó, mong r�
 
 # 1129
 
-Ngươi (hỡi Thiên Sứ) hãy xướng đọc cho họ nghe chuyện về một người đàn ông(5) mà TA đã ban cho y (kiến thức về) một vài Dấu Hiệu của TA nhưng y đã gạt bỏ chúng nên Shaytan đã bám theo y, thế là y trở thành kẻ lầm lạc.
+Ngươi (hỡi Thiên Sứ) hãy xướng đọc cho họ nghe chuyện về một người đàn ông[^5] mà TA đã ban cho y (kiến thức về) một vài Dấu Hiệu của TA nhưng y đã gạt bỏ chúng nên Shaytan đã bám theo y, thế là y trở thành kẻ lầm lạc.
 
-(5) Người đàn ông được đề cấp đến thuộc dân Israel có tên gọi là Bal-‘am bin Ba-‘ura. Trong số kiến thức về các Dấu Hiệu của Allah mà Ngài đã ban cho ông ta có kiến thức về các đại danh của Ngài. Người đàn ông này đã biết được một đại danh đặc biệt của Allah. Khi ông ta cầu xin Allah bằng đại danh đó của Ngài, bất cứ điều gì ông ta cầu xin đều được Ngài chấp nhận và đáp lại. Tuy nhiên, vì quá tham vật chất thế gian nên ông ta đã trở thành một kẻ lầm lạc. Có lời nói rằng: Người đàn ông tên Bal’am bin Ba-‘ura này thuộc dân Israel vào thời của Nabi Musa. Allah đã ban cho ông ta kiến thức về các Dấu Hiệu của Ngài. Nabi Musa phái ông ta đi kêu gọi một vị vua của Madyan. Vị vua này đã trọng đãi ông ta và ban cho ông ta nhiều đặc ân khiến ông ta quên mất sứ mạng và trở thành một kẻ lầm lạc.
+[^5]: Người đàn ông được đề cấp đến thuộc dân Israel có tên gọi là Bal-‘am bin Ba-‘ura. Trong số kiến thức về các Dấu Hiệu của Allah mà Ngài đã ban cho ông ta có kiến thức về các đại danh của Ngài. Người đàn ông này đã biết được một đại danh đặc biệt của Allah. Khi ông ta cầu xin Allah bằng đại danh đó của Ngài, bất cứ điều gì ông ta cầu xin đều được Ngài chấp nhận và đáp lại. Tuy nhiên, vì quá tham vật chất thế gian nên ông ta đã trở thành một kẻ lầm lạc. Có lời nói rằng: Người đàn ông tên Bal’am bin Ba-‘ura này thuộc dân Israel vào thời của Nabi Musa. Allah đã ban cho ông ta kiến thức về các Dấu Hiệu của Ngài. Nabi Musa phái ông ta đi kêu gọi một vị vua của Madyan. Vị vua này đã trọng đãi ông ta và ban cho ông ta nhiều đặc ân khiến ông ta quên mất sứ mạng và trở thành một kẻ lầm lạc.
 
 # 1130
 
@@ -4756,9 +4766,9 @@ Ngươi (hỡi Thiên Sứ) hãy nói: “Ta không có quyền năng chi phối
 
 # 1144
 
-Tuy nhiên, khi Ngài ban cho hai vợ chồng họ đứa con tốt lành (như họ cầu mong) thì họ lại dựng lên những thần linh ngang vai với Ngài(6) về đứa con mà Ngài đã ban cho vợ chồng họ. Nhưng Allah luôn Tối Thượng vượt bên trên mọi thứ mà họ qui cho Ngài.
+Tuy nhiên, khi Ngài ban cho hai vợ chồng họ đứa con tốt lành (như họ cầu mong) thì họ lại dựng lên những thần linh ngang vai với Ngài[^6] về đứa con mà Ngài đã ban cho vợ chồng họ. Nhưng Allah luôn Tối Thượng vượt bên trên mọi thứ mà họ qui cho Ngài.
 
-(6) Có Hadith ghi lại rằng, trong những đợt con trai đầu, Adam đặt tên là ‘Abidullah và ‘Abdullah (nghĩa là nô lệ của Allah) nhưng tất cả đều chết yểu, thừa cơ hội nên Iblis đến xúi vợ chồng Adam và Hauwa, bảo: “Nếu hai ngươi đặt tên con trai mình bằng tên khác với cái tên đã từng đặt trước đây thì nó sẽ sống khỏe.” Thế là khi có con trai, Adam đã đặt tên là ‘Abdul Harith (nô lệ của Harith) và đứa con đó lại sống khỏe mạnh. (Trích từ Tafstr At-Tabari). Tuy nhiên, có nhiều Tafsir rằng, sự tổ hợp mà Allah muốn nói đến trong câu Kinh là ám chỉ một số cộng đồng loài người chứ không phải Adam và Hauwa.
+[^6]: Có Hadith ghi lại rằng, trong những đợt con trai đầu, Adam đặt tên là ‘Abidullah và ‘Abdullah (nghĩa là nô lệ của Allah) nhưng tất cả đều chết yểu, thừa cơ hội nên Iblis đến xúi vợ chồng Adam và Hauwa, bảo: “Nếu hai ngươi đặt tên con trai mình bằng tên khác với cái tên đã từng đặt trước đây thì nó sẽ sống khỏe.” Thế là khi có con trai, Adam đã đặt tên là ‘Abdul Harith (nô lệ của Harith) và đứa con đó lại sống khỏe mạnh. (Trích từ Tafstr At-Tabari). Tuy nhiên, có nhiều Tafsir rằng, sự tổ hợp mà Allah muốn nói đến trong câu Kinh là ám chỉ một số cộng đồng loài người chứ không phải Adam và Hauwa.
 
 # 1145
 
@@ -4986,9 +4996,9 @@ Còn nếu chúng từ chối thì các ngươi hãy biết rằng Allah chính 
 
 # 1201
 
-Các ngươi (những người có đức tin) hãy biết rằng bất cứ thứ gì (từ chiến lợi phẩm) mà các ngươi thu được trên chiến trường thì (các ngươi phải chia thành 5 phần, trong đó bốn phần là của những người tham chiến), một phần năm còn lại là của Allah, của Thiên Sứ (Muhammad), của dòng họ (của Thiên Sứ)(1), của trẻ mồ côi, của người nghèo và người lỡ đường, nếu các ngươi có đức tin nơi Allah và nơi những gì TA đã mặc khải cho người bề tôi (Muhammad) của TA vào ngày phân biệt (giữa chính và tà), ngày mà hai phe (những người Muslim và những kẻ đa thần Quraish) gặp nhau (tại Badr). Quả thật, Allah toàn năng trên tất cả mọi thứ.
+Các ngươi (những người có đức tin) hãy biết rằng bất cứ thứ gì (từ chiến lợi phẩm) mà các ngươi thu được trên chiến trường thì (các ngươi phải chia thành 5 phần, trong đó bốn phần là của những người tham chiến), một phần năm còn lại là của Allah, của Thiên Sứ (Muhammad), của dòng họ (của Thiên Sứ)[^1], của trẻ mồ côi, của người nghèo và người lỡ đường, nếu các ngươi có đức tin nơi Allah và nơi những gì TA đã mặc khải cho người bề tôi (Muhammad) của TA vào ngày phân biệt (giữa chính và tà), ngày mà hai phe (những người Muslim và những kẻ đa thần Quraish) gặp nhau (tại Badr). Quả thật, Allah toàn năng trên tất cả mọi thứ.
 
-(1) Dòng họ của Thiên Sứ là những người thuộc con cháu của ông cố Hashim và ông nội Al-Muttalib của Người.
+[^1]: Dòng họ của Thiên Sứ là những người thuộc con cháu của ông cố Hashim và ông nội Al-Muttalib của Người.
 
 # 1202
 
@@ -5092,9 +5102,9 @@ Giờ đây, Allah đã giảm (khó khăn) cho các ngươi bởi Ngài biết 
 
 # 1227
 
-Là một vị Nabi, Y không nên giữ lại các tù binh (trong chiến tranh) mà (hãy giết hết bọn chúng) không chừa tên nào sống trên trái đất.(2) Các ngươi muốn vật chất của trần gian còn Allah muốn (cuộc sống) Đời Sau. Quả thật Allah là Đấng Toàn Năng, Đấng Sáng Suốt.
+Là một vị Nabi, Y không nên giữ lại các tù binh (trong chiến tranh) mà (hãy giết hết bọn chúng) không chừa tên nào sống trên trái đất.[^2] Các ngươi muốn vật chất của trần gian còn Allah muốn (cuộc sống) Đời Sau. Quả thật Allah là Đấng Toàn Năng, Đấng Sáng Suốt.
 
-(2) Mệnh lệnh trong câu Kinh này đã bị xóa và được thế bằng mệnh lệnh trong câu 4 của chương 47 – Muhammad: “Vì vậy, khi các ngươi (hỡi những người có đức tin) giáp mặt với những kẻ vô đức tin (trong trận chiến) thì các ngươi hãy đánh vào cổ của chúng cho đến khi các ngươi thắng được chúng, rồi các ngươi hãy trói chặt chúng lại; sau đó, hoặc các ngươi trả tự do hoặc các ngươi bắt chúng chuộc mạng cho đến khi cuộc chiến chấm dứt. Đó (là lệnh của Allah). Và nếu muốn, Allah có thể đích thân trừng phạt chúng, tuy nhiên, Ngài muốn dùng người này để thử thách người kia. Và những ai bị giết vì con đường của Allah thì Ngài sẽ không bao giờ làm mất công lao của họ.” Thật ra, nguyên nhân câu Kinh 67 trên được mặc khải xuống là: Sau khi những người có đức tin đã giành chiến thắng những kẻ thờ đa thần Quraish trong trận Badr. Những người có đức tin đã bắt được 70 người từ phe địch làm tù binh. Thiên Sứ của Allah đã tham khảo ý kiến các vị Sahabah về việc xử trí những tù binh này như thế nào. Ông Abu Bakr thì cho rằng nên lấy tiền chuộc và thả họ. Ông Umar thì bảo rằng nên chém đầu họ tất cả để gieo nỗi sợ hãi cho kẻ thù như một sự cảnh cáo. Và cuối cùng Thiên Sứ đã lấy ý kiến của ông Abu Bakr và đã xử trí các tù binh theo ý kiến này. Thế là Allah đã mặc khải xuống câu Kinh 67 trên để khẳng định quan điểm của ông 'Umar là đúng và hợp lý trong thời điểm đó; bởi lẽ trong trận chiến Badr lực lượng của Islam vẫn còn ít, nếu xử trí các tù binh bằng cách nhận tiền chuộc và thả họ thì sẽ là bất lợi cho Islam.
+[^2]: Mệnh lệnh trong câu Kinh này đã bị xóa và được thế bằng mệnh lệnh trong câu 4 của chương 47 – Muhammad: “Vì vậy, khi các ngươi (hỡi những người có đức tin) giáp mặt với những kẻ vô đức tin (trong trận chiến) thì các ngươi hãy đánh vào cổ của chúng cho đến khi các ngươi thắng được chúng, rồi các ngươi hãy trói chặt chúng lại; sau đó, hoặc các ngươi trả tự do hoặc các ngươi bắt chúng chuộc mạng cho đến khi cuộc chiến chấm dứt. Đó (là lệnh của Allah). Và nếu muốn, Allah có thể đích thân trừng phạt chúng, tuy nhiên, Ngài muốn dùng người này để thử thách người kia. Và những ai bị giết vì con đường của Allah thì Ngài sẽ không bao giờ làm mất công lao của họ.” Thật ra, nguyên nhân câu Kinh 67 trên được mặc khải xuống là: Sau khi những người có đức tin đã giành chiến thắng những kẻ thờ đa thần Quraish trong trận Badr. Những người có đức tin đã bắt được 70 người từ phe địch làm tù binh. Thiên Sứ của Allah đã tham khảo ý kiến các vị Sahabah về việc xử trí những tù binh này như thế nào. Ông Abu Bakr thì cho rằng nên lấy tiền chuộc và thả họ. Ông Umar thì bảo rằng nên chém đầu họ tất cả để gieo nỗi sợ hãi cho kẻ thù như một sự cảnh cáo. Và cuối cùng Thiên Sứ đã lấy ý kiến của ông Abu Bakr và đã xử trí các tù binh theo ý kiến này. Thế là Allah đã mặc khải xuống câu Kinh 67 trên để khẳng định quan điểm của ông 'Umar là đúng và hợp lý trong thời điểm đó; bởi lẽ trong trận chiến Badr lực lượng của Islam vẫn còn ít, nếu xử trí các tù binh bằng cách nhận tiền chuộc và thả họ thì sẽ là bất lợi cho Islam.
 
 # 1228
 
@@ -5114,9 +5124,9 @@ Còn nếu như (những kẻ thờ đa thần ở Makkah) có ý lừa Ngươi 
 
 # 1232
 
-Quả thật, những người có đức tin và (vì đức tin của mình) đã di cư(3) và đã chiến đấu bằng tài sản và tính mạng của mình cho con đường chính nghĩa của Allah, cũng như những người đã cho họ chỗ tị nạn và giúp đỡ họ. Những người đó là đồng minh bảo vệ lẫn nhau. Còn những người có đức tin nhưng không di cư thì các ngươi (những người có đức tin) không có bất cứ trách nhiệm nào trong việc bảo vệ họ cho đến khi họ di cư cùng các ngươi. Trường hợp họ yêu cầu các ngươi trợ giúp họ về mặt tôn giáo (vì kẻ thù đàn áp họ) thì các ngươi hãy giúp đỡ họ, ngoại trừ giữa các ngươi và kẻ thù của họ có giao ước (thì các ngươi không được vi phạm giao ước). Quả thật, Allah nhìn thấy hết những gì của các ngươi làm.
+Quả thật, những người có đức tin và (vì đức tin của mình) đã di cư[^3] và đã chiến đấu bằng tài sản và tính mạng của mình cho con đường chính nghĩa của Allah, cũng như những người đã cho họ chỗ tị nạn và giúp đỡ họ. Những người đó là đồng minh bảo vệ lẫn nhau. Còn những người có đức tin nhưng không di cư thì các ngươi (những người có đức tin) không có bất cứ trách nhiệm nào trong việc bảo vệ họ cho đến khi họ di cư cùng các ngươi. Trường hợp họ yêu cầu các ngươi trợ giúp họ về mặt tôn giáo (vì kẻ thù đàn áp họ) thì các ngươi hãy giúp đỡ họ, ngoại trừ giữa các ngươi và kẻ thù của họ có giao ước (thì các ngươi không được vi phạm giao ước). Quả thật, Allah nhìn thấy hết những gì của các ngươi làm.
 
-(3) Di cư trong Islam còn gọi là Hijrah có nghĩa là dời cư từ vùng đất những người vô đức tin đến với vùng đất Islam. Cuộc Hijrah chỉ bắt buộc khi những người Muslim gặp sự khó khăn trong việc sinh hoạt thờ phượng Allah cũng như bị áp bức từ phía những người ngoại đạo.
+[^3]: Di cư trong Islam còn gọi là Hijrah có nghĩa là dời cư từ vùng đất những người vô đức tin đến với vùng đất Islam. Cuộc Hijrah chỉ bắt buộc khi những người Muslim gặp sự khó khăn trong việc sinh hoạt thờ phượng Allah cũng như bị áp bức từ phía những người ngoại đạo.
 
 # 1233
 
@@ -5136,9 +5146,9 @@ Những người có đức tin sau đó và đã di cư và đã chiến đấu
 
 # 1237
 
-Vì vậy, trong thời hạn bốn tháng(1), các ngươi (những người đa thần) được tự do đi lại trong xứ và các ngươi phải biết là các ngươi không thể thoát khỏi (sự trừng phạt của) Allah và chắc chắn Allah sẽ hạ nhục những kẻ vô đức tin.
+Vì vậy, trong thời hạn bốn tháng[^1], các ngươi (những người đa thần) được tự do đi lại trong xứ và các ngươi phải biết là các ngươi không thể thoát khỏi (sự trừng phạt của) Allah và chắc chắn Allah sẽ hạ nhục những kẻ vô đức tin.
 
-(1) Bốn tháng kể từ tháng Shauwal, Zdul-Qa’dah, Zdul-Hijjah và Muharram. Có lời nói rằng bốn tháng là tính từ ngày mồng 9 hoặc 10 tháng Zdul-Hijjah (12), tháng Muharram (1), tháng Safar (2), tháng Rabi’a Al-Awwal (3) và mười ngày đầu của tháng Rabi’a Al-Akhir (4).
+[^1]: Bốn tháng kể từ tháng Shauwal, Zdul-Qa’dah, Zdul-Hijjah và Muharram. Có lời nói rằng bốn tháng là tính từ ngày mồng 9 hoặc 10 tháng Zdul-Hijjah (12), tháng Muharram (1), tháng Safar (2), tháng Rabi’a Al-Awwal (3) và mười ngày đầu của tháng Rabi’a Al-Akhir (4).
 
 # 1238
 
@@ -5246,9 +5256,9 @@ Hỡi những người có đức tin, quả thật những kẻ thờ đa thầ
 
 # 1264
 
-Các ngươi hãy đánh những kẻ vô đức tin nơi Allah và Đời Sau, cũng như những kẻ không coi là điều cấm đối với những gì mà Allah và Thiên Sứ của Ngài đã cấm đoán và không theo tôn giáo chân lý (Islam) thuộc những người được ban cho Kinh sách (Do Thái và Thiên Chúa) cho đến khi chúng qui thuận và chịu trả Jizyah(2).
+Các ngươi hãy đánh những kẻ vô đức tin nơi Allah và Đời Sau, cũng như những kẻ không coi là điều cấm đối với những gì mà Allah và Thiên Sứ của Ngài đã cấm đoán và không theo tôn giáo chân lý (Islam) thuộc những người được ban cho Kinh sách (Do Thái và Thiên Chúa) cho đến khi chúng qui thuận và chịu trả Jizyah[^2].
 
-(2) Một loại thuế thân đánh trên các công dân không phải Muslim sống dưới chính quyền Islam.
+[^2]: Một loại thuế thân đánh trên các công dân không phải Muslim sống dưới chính quyền Islam.
 
 # 1265
 
@@ -5556,9 +5566,9 @@ Ngươi (hỡi Thiên Sứ Muhammad) hãy nói với (những người không th
 
 # 1341
 
-Còn những người không tham chiến khác (mặc dù không có lý do chính đáng) đang chờ đợi(3) phán quyết của Allah, hoặc là Ngài sẽ trừng phạt họ hoặc là Ngài chấp nhận sự sám hối của họ, bởi lẽ, Allah là Đấng Hằng Biết, Đấng Sáng Suốt.
+Còn những người không tham chiến khác (mặc dù không có lý do chính đáng) đang chờ đợi[^3] phán quyết của Allah, hoặc là Ngài sẽ trừng phạt họ hoặc là Ngài chấp nhận sự sám hối của họ, bởi lẽ, Allah là Đấng Hằng Biết, Đấng Sáng Suốt.
 
-(3) Đó là ba người đàn ông gồm Ka’ab bin Malik, Murarah bin Al-Rabi’a và Hilaal bin Umaiyah. Cả ba đã không tham chiến trận Tabuk nhưng không có lý do ngăn cản họ tham chiến. Tuy nhiên, họ là những người trung thực trong lời nói và hành động của mình.
+[^3]: Đó là ba người đàn ông gồm Ka’ab bin Malik, Murarah bin Al-Rabi’a và Hilaal bin Umaiyah. Cả ba đã không tham chiến trận Tabuk nhưng không có lý do ngăn cản họ tham chiến. Tuy nhiên, họ là những người trung thực trong lời nói và hành động của mình.
 
 # 1342
 
@@ -6682,9 +6692,9 @@ Cả hai cùng chạy ra cửa (Yusuf thì muốn thoát thân, còn người ph
 
 # 1622
 
-(Yusuf) nói: “Chính bà đã quyến rũ tôi.” Và một nhân chứng(1) thuộc người nhà của nữ ta đã làm chứng, nói: “Nếu áo của (Yusuf) bị rách từ phía trước thì bà ấy là người nói thật và Y là kẻ nói dối.”
+(Yusuf) nói: “Chính bà đã quyến rũ tôi.” Và một nhân chứng[^1] thuộc người nhà của nữ ta đã làm chứng, nói: “Nếu áo của (Yusuf) bị rách từ phía trước thì bà ấy là người nói thật và Y là kẻ nói dối.”
 
-(1) Có lời Tafsir rằng nhân chứng đó chính là một đứa trẻ còn nằm nôi, Allah đã cho đứa bé đó nói chuyện. Và đó là phép màu của Ngài.
+[^1]: Có lời Tafsir rằng nhân chứng đó chính là một đứa trẻ còn nằm nôi, Allah đã cho đứa bé đó nói chuyện. Và đó là phép màu của Ngài.
 
 # 1623
 
@@ -7716,9 +7726,9 @@ Quả thật, trong sự việc đó là dấu hiệu dành cho những người
 
 # 1880
 
-Quả thật, đám dân của Aykah(1) cũng là những kẻ làm điều sai quấy.
+Quả thật, đám dân của Aykah[^1] cũng là những kẻ làm điều sai quấy.
 
-(1) Aykah là khu rừng nhiệt đới mà người dân của Nabi Shu’aib tôn thành nơi thiêng liêng để thờ phượng. Ngày nay, nó thuộc phía tây bắc giáp tỉnh Tabuk của Ả-rập Xê-út.
+[^1]: Aykah là khu rừng nhiệt đới mà người dân của Nabi Shu’aib tôn thành nơi thiêng liêng để thờ phượng. Ngày nay, nó thuộc phía tây bắc giáp tỉnh Tabuk của Ả-rập Xê-út.
 
 # 1881
 
@@ -7726,9 +7736,9 @@ Vì vậy, TA đã trừng phạt chúng. Và thực sự cả hai thị trấn 
 
 # 1882
 
-Quả thật, đám dân của thành phố đá(2) đã phủ nhận các vị Sứ Giả (được gửi đến với họ).
+Quả thật, đám dân của thành phố đá[^2] đã phủ nhận các vị Sứ Giả (được gửi đến với họ).
 
-(2) Một thành phố của người dân Thamud thuộc cộng đồng Nabi Saleh. Thành phố này được gọi là thành phố đá hoặc đồng bằng đá do những ngôi nhà trong thành phố đều được đục từ núi. Ngày nay, nó là địa phận của lãnh thổ của Jordan.
+[^2]: Một thành phố của người dân Thamud thuộc cộng đồng Nabi Saleh. Thành phố này được gọi là thành phố đá hoặc đồng bằng đá do những ngôi nhà trong thành phố đều được đục từ núi. Ngày nay, nó là địa phận của lãnh thổ của Jordan.
 
 # 1883
 
@@ -8452,9 +8462,9 @@ Các ngươi không được giết hại bất cứ một sinh mạng nào mà 
 
 # 2063
 
-Các ngươi chớ đến gần tài sản của trẻ mồ côi(1) ngoại trừ vì mục đích tốt đẹp cho đến khi chúng trưởng thành. Các ngươi hãy thực hiện đúng theo giao ước (với Allah hoặc với con người), quả thật cuộc giao ước sẽ bị tra hỏi.
+Các ngươi chớ đến gần tài sản của trẻ mồ côi[^1] ngoại trừ vì mục đích tốt đẹp cho đến khi chúng trưởng thành. Các ngươi hãy thực hiện đúng theo giao ước (với Allah hoặc với con người), quả thật cuộc giao ước sẽ bị tra hỏi.
 
-(1) Theo giáo luật Islam trẻ mồ côi là trẻ chết cha khi chưa trưởng thành.
+[^1]: Theo giáo luật Islam trẻ mồ côi là trẻ chết cha khi chưa trưởng thành.
 
 # 2064
 
@@ -8626,23 +8636,25 @@ Họ (Quraish) đã tìm đủ mọi cách để trục xuất Ngươi khỏi v�
 
 # 2106
 
-(Đó là) đường lối(2) (mà TA) đã quy định cho các vị Thiên Sứ trong số các vị Thiên Sứ của TA được TA cử phái đến trước Ngươi (Thiên Sứ Muhammad) và Ngươi sẽ không tìm thấy sự thay đổi trong đường lối của TA.
+(Đó là) đường lối[^2] (mà TA) đã quy định cho các vị Thiên Sứ trong số các vị Thiên Sứ của TA được TA cử phái đến trước Ngươi (Thiên Sứ Muhammad) và Ngươi sẽ không tìm thấy sự thay đổi trong đường lối của TA.
 
-(2) Đường lối muốn nói trong câu Kinh là một định luật không đổi của Allah rằng bất cứ nhóm người nào dám trục xuất vị Thiên Sứ hoặc vị Nabi nào được Ngài cử phái đến với họ thì sẽ bị tiêu diệt sau khi vị Thiên Sứ hoặc vị Nabi đó bị đuổi đi.
+[^2]: Đường lối muốn nói trong câu Kinh là một định luật không đổi của Allah rằng bất cứ nhóm người nào dám trục xuất vị Thiên Sứ hoặc vị Nabi nào được Ngài cử phái đến với họ thì sẽ bị tiêu diệt sau khi vị Thiên Sứ hoặc vị Nabi đó bị đuổi đi.
 
 # 2107
 
-Ngươi (hỡi Thiên Sứ Muhammad) hãy chu đáo dâng lễ nguyện Salah lúc mặt trời nghiêng bóng cho đến đêm tối(3) và Ngươi hãy đọc Qur’an lúc hừng đông(4) bởi quả thật, việc đọc Qur’an lúc hừng đông được (hai nhóm Thiên Thần ban đêm và ban ngày) chứng giám.
+Ngươi (hỡi Thiên Sứ Muhammad) hãy chu đáo dâng lễ nguyện Salah lúc mặt trời nghiêng bóng cho đến đêm tối[^3] và Ngươi hãy đọc Qur’an lúc hừng đông[^4] bởi quả thật, việc đọc Qur’an lúc hừng đông được (hai nhóm Thiên Thần ban đêm và ban ngày) chứng giám.
 
-(3) Đó là thời gian cho các lễ nguyện Salah: Zhuhr, ‘Asr, Maghrib và ‘Isha’. 
-(4) Việc đọc Qur’an lúc hừng đông ám chỉ lễ nguyện Salah Fajr.
+[^3]: Đó là thời gian cho các lễ nguyện Salah: Zhuhr, ‘Asr, Maghrib và ‘Isha’.
+
+[^4]: Việc đọc Qur’an lúc hừng đông ám chỉ lễ nguyện Salah Fajr.
 
 # 2108
 
-Ngươi (Thiên Sứ Muhammad) hãy thức một phần trong đêm để Tahajjud(5), một việc làm thêm dành cho Ngươi(6), mong rằng Ngươi sẽ được Thượng Đế của Ngươi nâng Ngươi lên một vị trí vinh dự đáng ca ngợi.
+Ngươi (Thiên Sứ Muhammad) hãy thức một phần trong đêm để Tahajjud[^5], một việc làm thêm dành cho Ngươi[^6], mong rằng Ngươi sẽ được Thượng Đế của Ngươi nâng Ngươi lên một vị trí vinh dự đáng ca ngợi.
 
-(5) Đa số học giả nói rằng Tahajjud là lễ nguyện Salah Sunnah trong đêm từ sau lễ nguyện Salah ‘Isha’ trở đi cho đến Azdaan Fajr. Một số học giả cho rằng Tahajjud là lễ nguyện Salah Sunnah sau khi ngủ thức dậy trong đêm. Tuy nhiên, tất cả đều đồng thuận rằng lễ nguyện Salah Sunnah càng khuya càng tốt, đặc biệt là vào một phần ba cuối của đêm. 
-(6) Có hai luồng quan điểm: một luồng quan điểm giảng giải rằng lễ nguyện Salah trong đêm là Wajib (bắt buộc) dành riêng cho mỗi mình Thiên Sứ Muhammad; còn luồng quan điểm thứ hai thì nói rằng lễ nguyện Salah trong đêm là Sunnah (khuyến khích) dành riêng cho Thiên Sứ Muhammad bởi vì Người đã được tha thứ tất cả tội lội trước đây cũng như sau này, riêng đối với các tín đồ của Người thì các lễ nguyện Salah Sunnah sẽ bôi xóa các tội lỗi của họ.
+[^5]: Đa số học giả nói rằng Tahajjud là lễ nguyện Salah Sunnah trong đêm từ sau lễ nguyện Salah ‘Isha’ trở đi cho đến Azdaan Fajr. Một số học giả cho rằng Tahajjud là lễ nguyện Salah Sunnah sau khi ngủ thức dậy trong đêm. Tuy nhiên, tất cả đều đồng thuận rằng lễ nguyện Salah Sunnah càng khuya càng tốt, đặc biệt là vào một phần ba cuối của đêm.
+
+[^6]: Có hai luồng quan điểm: một luồng quan điểm giảng giải rằng lễ nguyện Salah trong đêm là Wajib (bắt buộc) dành riêng cho mỗi mình Thiên Sứ Muhammad; còn luồng quan điểm thứ hai thì nói rằng lễ nguyện Salah trong đêm là Sunnah (khuyến khích) dành riêng cho Thiên Sứ Muhammad bởi vì Người đã được tha thứ tất cả tội lội trước đây cũng như sau này, riêng đối với các tín đồ của Người thì các lễ nguyện Salah Sunnah sẽ bôi xóa các tội lỗi của họ.
 
 # 2109
 
@@ -8730,9 +8742,9 @@ Ngươi (Thiên Sứ) hãy bảo họ: “Nếu các người nắm giữ các k
 
 # 2130
 
-Quả thật, TA (Allah) đã ban cho Musa (Môi-sê) chín phép lạ rõ rệt(7). Ngươi (Thiên Sứ) hãy hỏi người dân Israel xem (có phải) khi Y (Musa) mang (các phép lạ đó) đến trình họ thì Pha-ra-ông đã bảo Y: “Này Musa, quả thật ta đoán Ngươi chính là tên phù thủy”.
+Quả thật, TA (Allah) đã ban cho Musa (Môi-sê) chín phép lạ rõ rệt[^7]. Ngươi (Thiên Sứ) hãy hỏi người dân Israel xem (có phải) khi Y (Musa) mang (các phép lạ đó) đến trình họ thì Pha-ra-ông đã bảo Y: “Này Musa, quả thật ta đoán Ngươi chính là tên phù thủy”.
 
-(7) Cây gậy, bàn tay, hạn hán, mất mùa, lũ lụt, nạn cào cào, nạn chấy rận, nạn ếch nhái và máu.
+[^7]: Cây gậy, bàn tay, hạn hán, mất mùa, lũ lụt, nạn cào cào, nạn chấy rận, nạn ếch nhái và máu.
 
 # 2131
 
@@ -8744,9 +8756,9 @@ Thế là hắn (Pha-ra-ông) muốn loại trừ họ (Musa và dân Israel) ra
 
 # 2133
 
-Và TA (Allah) đã phán bảo với dân Israel sau (khi tiêu diệt) hắn: “Các ngươi hãy định cư tại vùng đất (Sham)(8) cho đến khi lời hứa sau cùng xảy đến, TA sẽ tập trung các ngươi lại, trộn lẫn với nhau.”
+Và TA (Allah) đã phán bảo với dân Israel sau (khi tiêu diệt) hắn: “Các ngươi hãy định cư tại vùng đất (Sham)[^8] cho đến khi lời hứa sau cùng xảy đến, TA sẽ tập trung các ngươi lại, trộn lẫn với nhau.”
 
-(8) Vùng đất Sham ngày nay được chia thành 4 quốc gia, gồm: Palestine, Syria, Jordan và Li Băng.
+[^8]: Vùng đất Sham ngày nay được chia thành 4 quốc gia, gồm: Palestine, Syria, Jordan và Li Băng.
 
 # 2134
 
@@ -9106,9 +9118,9 @@ Vậy là hai người họ lại tiếp tục đi, mãi cho tới khi đến đ
 
 # 2223
 
-Và họ hỏi Ngươi (Muhammad) về Zdul-Qarnain(1). Ngươi hãy bảo họ: “Ta sẽ đọc cho các người nghe về một phần câu chuyện của Người.”
+Và họ hỏi Ngươi (Muhammad) về Zdul-Qarnain[^1]. Ngươi hãy bảo họ: “Ta sẽ đọc cho các người nghe về một phần câu chuyện của Người.”
 
-(1) Zdul-Qarnain có nghĩa là người có hai chiếc sừng. Ông được cho là một vị vua công bằng và Qur’an cho biết rằng ông chuyên đi kêu gọi thiên hạ tôn thờ Allah và thực thi theo luật lệ của Ngài. Có một số Tafsir cho rằng Zdul-Qarnain là một vị Nabi. Tuy nhiên, theo lời giảng giải đúng nhất, Zdul-Qarnain chỉ là một vị vua và một nhà kêu gọi đến với tôn giáo của Allah.
+[^1]: Zdul-Qarnain có nghĩa là người có hai chiếc sừng. Ông được cho là một vị vua công bằng và Qur’an cho biết rằng ông chuyên đi kêu gọi thiên hạ tôn thờ Allah và thực thi theo luật lệ của Ngài. Có một số Tafsir cho rằng Zdul-Qarnain là một vị Nabi. Tuy nhiên, theo lời giảng giải đúng nhất, Zdul-Qarnain chỉ là một vị vua và một nhà kêu gọi đến với tôn giáo của Allah.
 
 # 2224
 
@@ -9224,9 +9236,9 @@ Kaf. Ha. Ya. 'Ain. Sad.
 
 # 2252
 
-Nhắc lại hồng ân Thượng Đế của Ngươi được ban cho người bề tôi của Ngài, Zakariya(1).
+Nhắc lại hồng ân Thượng Đế của Ngươi được ban cho người bề tôi của Ngài, Zakariya[^1].
 
-(1) Zakariya là một vị Nabi trong các vị Nabi của Allah, Người là cha của Nabi Yahya. Trong The Bible (Kinh Thánh), Zakariya được ghi là Zacharias (phiên âm tiếng Việt: Gia-ca-ri-a).
+[^1]: Zakariya là một vị Nabi trong các vị Nabi của Allah, Người là cha của Nabi Yahya. Trong The Bible (Kinh Thánh), Zakariya được ghi là Zacharias (phiên âm tiếng Việt: Gia-ca-ri-a).
 
 # 2253
 
@@ -10706,9 +10718,9 @@ Quả thật những kẻ vô đức tin và ngăn người khác vào con đư�
 
 # 2622
 
-“Ngươi hãy thông báo kêu gọi nhân loại đến hành hương(1) (Ngôi Đền mà Ngươi đã xây). Họ sẽ đi bộ hoặc cưỡi từng con lạc đà gầy yếu đến với Ngươi từ mọi nẻo đường.”
+“Ngươi hãy thông báo kêu gọi nhân loại đến hành hương[^1] (Ngôi Đền mà Ngươi đã xây). Họ sẽ đi bộ hoặc cưỡi từng con lạc đà gầy yếu đến với Ngươi từ mọi nẻo đường.”
 
-(1) Hành hương Hajj là đến thăm viếng Ngôi Đền Ka’bah tại Makkah mang ý nghĩa thờ phượng Allah và tuân lệnh Ngài. Hành hương “Hajj” là trụ cột trong 5 trụ cột nền tảng của Islam. Mỗi tín đồ Muslim nam cũng như nữ có nghĩa vụ phải thực hiện chuyến hành hương này một lần trong đời khi có đủ điều kiện (tiền bạc, sức khỏe, phương tiện đi lại, ...). Thời gian thực hiện Hajj kéo dài ít nhất trong 6 ngày kể từ ngày mồng 8 đến ngày 13 của tháng Zdul-Hijjah (tháng 12 hijri). Cuộc hành hương “Hajj” gồm các nghi thức: 1- Định tâm vào tình trạng Ehram; 2- Tập trung tại khu vực Mina vào ngày mồng 8; 3- Tập trung tại khu vực 'Arafah vào ban ngày của ngày mồng 9 cho đến khi mặt trời lặn; 4- Ngủ đêm tại khu vực Muzdalifah sau khi tập trung tại 'Arafah; 5- Ném đá các trụ Jamarat tại khu vực Mina; 6- Cắt tiết các con vật tế; 7- Cắt tóc hoặc cạo đầu; 8- Towaf (đi vòng quanh) ngôi đền Ka’bah; 9- Sa-‘i giữa hai đồi Sofa và Marwah; 10- Ở lại Mina trong những ngày Tashriq (11, 12 hoặc 13) của tháng Zdul-Hijjah; 11- Towaf chia tay Ka’bah trước khi muốn rời đi để trở về nhà.
+[^1]: Hành hương Hajj là đến thăm viếng Ngôi Đền Ka’bah tại Makkah mang ý nghĩa thờ phượng Allah và tuân lệnh Ngài. Hành hương “Hajj” là trụ cột trong 5 trụ cột nền tảng của Islam. Mỗi tín đồ Muslim nam cũng như nữ có nghĩa vụ phải thực hiện chuyến hành hương này một lần trong đời khi có đủ điều kiện (tiền bạc, sức khỏe, phương tiện đi lại, ...). Thời gian thực hiện Hajj kéo dài ít nhất trong 6 ngày kể từ ngày mồng 8 đến ngày 13 của tháng Zdul-Hijjah (tháng 12 hijri). Cuộc hành hương “Hajj” gồm các nghi thức: 1- Định tâm vào tình trạng Ehram; 2- Tập trung tại khu vực Mina vào ngày mồng 8; 3- Tập trung tại khu vực 'Arafah vào ban ngày của ngày mồng 9 cho đến khi mặt trời lặn; 4- Ngủ đêm tại khu vực Muzdalifah sau khi tập trung tại 'Arafah; 5- Ném đá các trụ Jamarat tại khu vực Mina; 6- Cắt tiết các con vật tế; 7- Cắt tóc hoặc cạo đầu; 8- Towaf (đi vòng quanh) ngôi đền Ka’bah; 9- Sa-‘i giữa hai đồi Sofa và Marwah; 10- Ở lại Mina trong những ngày Tashriq (11, 12 hoặc 13) của tháng Zdul-Hijjah; 11- Towaf chia tay Ka’bah trước khi muốn rời đi để trở về nhà.
 
 # 2623
 
@@ -10916,9 +10928,9 @@ Các ngươi hãy đấu tranh cho Allah như một nghĩa vụ đối với Ng�
 
 # 2674
 
-Quả thật, những người có đức tin đã thành công(1).
+Quả thật, những người có đức tin đã thành công[^1].
 
-(1) Trong Musnad Al-Bazaar, Hadith số 3507, ông Abu Sa’ed thuật lại rằng Thiên Sứ của Allah nói: “Allah tạo ra Thiên Đàng, tường của Nó là những miếng gạch bằng vàng và những miếng gạch bằng bạc được kết dính với nhau bởi xạ hương. Sau khi tạo ra xong, Allah phán với Nó: Ngươi hãy nói gì đi! Thiên Đàng nói: ((Quả thật những người có đức tin đã thành công)), rồi các Thiên Thần đi vào Thiên Đàng và nói với Thiên Đàng: Thật diễm phúc cho ngươi, chỗ ở của các vị vua!” (Xem thêm giảng giải câu Kinh này trong Tafsir Ibnu Al-Kathir).
+[^1]: Trong Musnad Al-Bazaar, Hadith số 3507, ông Abu Sa’ed thuật lại rằng Thiên Sứ của Allah nói: “Allah tạo ra Thiên Đàng, tường của Nó là những miếng gạch bằng vàng và những miếng gạch bằng bạc được kết dính với nhau bởi xạ hương. Sau khi tạo ra xong, Allah phán với Nó: Ngươi hãy nói gì đi! Thiên Đàng nói: ((Quả thật những người có đức tin đã thành công)), rồi các Thiên Thần đi vào Thiên Đàng và nói với Thiên Đàng: Thật diễm phúc cho ngươi, chỗ ở của các vị vua!” (Xem thêm giảng giải câu Kinh này trong Tafsir Ibnu Al-Kathir).
 
 # 2675
 
@@ -11394,9 +11406,9 @@ Ai cầu xin một thần linh nào đó cùng với Allah mà không có bất 
 
 # 2793
 
-Nam nữ phạm tội Zina(1), các ngươi hãy đánh mỗi người một trăm roi. Các ngươi chớ động lòng thương hại họ trong việc chấp hành mệnh lệnh của Allah nếu các ngươi thực sự có đức tin nơi Allah và Ngày Sau. Và các ngươi hãy mời một nhóm người có đức tin đến chứng kiến việc trừng phạt họ.
+Nam nữ phạm tội Zina[^1], các ngươi hãy đánh mỗi người một trăm roi. Các ngươi chớ động lòng thương hại họ trong việc chấp hành mệnh lệnh của Allah nếu các ngươi thực sự có đức tin nơi Allah và Ngày Sau. Và các ngươi hãy mời một nhóm người có đức tin đến chứng kiến việc trừng phạt họ.
 
-(1) Zina là danh từ mà Islam dùng để gọi hành vi quan hệ tình dục ngoài hôn nhân dù là gian dâm hay thông dâm.
+[^1]: Zina là danh từ mà Islam dùng để gọi hành vi quan hệ tình dục ngoài hôn nhân dù là gian dâm hay thông dâm.
 
 # 2794
 
@@ -11476,9 +11488,9 @@ Hỡi những người có đức tin, các ngươi chớ đi theo bước đư�
 
 # 2813
 
-Những người giàu có và dư dả trong các ngươi chớ thề một cách dứt khoát rằng họ sẽ không bố thí cho bà con họ hàng của mình, cho những người khó khăn, và cho những người di cư vì con đường của Allah (đã liên can trong vụ phao tin đồn xấu về ‘A-ishah). Họ hãy nên đại lượng và bỏ qua. Lẽ nào các ngươi không thích được Allah tha thứ cho các ngươi hay sao?! Quả thật, Allah là Đấng Hằng Tha Thứ, Đấng Nhân Từ.(2)
+Những người giàu có và dư dả trong các ngươi chớ thề một cách dứt khoát rằng họ sẽ không bố thí cho bà con họ hàng của mình, cho những người khó khăn, và cho những người di cư vì con đường của Allah (đã liên can trong vụ phao tin đồn xấu về ‘A-ishah). Họ hãy nên đại lượng và bỏ qua. Lẽ nào các ngươi không thích được Allah tha thứ cho các ngươi hay sao?! Quả thật, Allah là Đấng Hằng Tha Thứ, Đấng Nhân Từ.[^2]
 
-(2) Câu Kinh này được mặc khải xuống để nhắc nhở ông Abu Bakr, thân phụ của bà ‘A-ishah, phu nhân của Thiên Sứ Muhammad, khi ông thề tuyên bố rằng ông sẽ không chu cấp lương thực cũng như sẽ không hỗ trợ cho Mistah (tên thật là ‘Awf) bin Uthathah bất cứ thứ gì. Mistah là một người bà con họ hàng của ông Abu Bakr, người mà trước đó ông vẫn thường chu cấp lương thực và hỗ trợ những thứ cần thiết. Do người này đã liên can trong vụ vu khống ‘A-ishah con gái mình nên ông đã thề dứt khoát như thế vì quá tức giận. Nhưng sau khi câu Kinh này được ban xuống, ông Abu Bakr đã hủy lời thề và tiếp tục chu cấp và trợ giúp cho Mistah trở lại giống như trước.
+[^2]: Câu Kinh này được mặc khải xuống để nhắc nhở ông Abu Bakr, thân phụ của bà ‘A-ishah, phu nhân của Thiên Sứ Muhammad, khi ông thề tuyên bố rằng ông sẽ không chu cấp lương thực cũng như sẽ không hỗ trợ cho Mistah (tên thật là ‘Awf) bin Uthathah bất cứ thứ gì. Mistah là một người bà con họ hàng của ông Abu Bakr, người mà trước đó ông vẫn thường chu cấp lương thực và hỗ trợ những thứ cần thiết. Do người này đã liên can trong vụ vu khống ‘A-ishah con gái mình nên ông đã thề dứt khoát như thế vì quá tức giận. Nhưng sau khi câu Kinh này được ban xuống, ông Abu Bakr đã hủy lời thề và tiếp tục chu cấp và trợ giúp cho Mistah trở lại giống như trước.
 
 # 2814
 
@@ -11642,9 +11654,9 @@ Quả thật những người có đức tin thực sự chính là những ngư
 
 # 2854
 
-Các ngươi chớ coi việc Thiên Sứ (Muhammad) mời gọi các ngươi giống như việc các ngươi mời gọi nhau.(3) Quả thật, Allah biết rõ những ai trong các ngươi lén lút bỏ đi. Do đó, những ai trái lệnh của Y hãy coi chừng gặp phải họa hoặc gặp phải sự trừng phạt đau đớn.
+Các ngươi chớ coi việc Thiên Sứ (Muhammad) mời gọi các ngươi giống như việc các ngươi mời gọi nhau.[^3] Quả thật, Allah biết rõ những ai trong các ngươi lén lút bỏ đi. Do đó, những ai trái lệnh của Y hãy coi chừng gặp phải họa hoặc gặp phải sự trừng phạt đau đớn.
 
-(3) Đoạn Kinh này cũng có lời Tafsir với ý nghĩa rằng: “Các ngươi chớ kêu gọi Thiên Sứ của Allah giống như cách các ngươi kêu gọi nhau” tức các ngươi chớ gọi Thiên Sứ của Allah bằng cách xưng hô “Này Muhammad!” hay “Này Abu Qasim!” mà hãy gọi bằng cách xưng hô trang trọng như “Hỡi Thiên Sứ của Allah!” hoặc “Hỡi Nabi của Allah!”.
+[^3]: Đoạn Kinh này cũng có lời Tafsir với ý nghĩa rằng: “Các ngươi chớ kêu gọi Thiên Sứ của Allah giống như cách các ngươi kêu gọi nhau” tức các ngươi chớ gọi Thiên Sứ của Allah bằng cách xưng hô “Này Muhammad!” hay “Này Abu Qasim!” mà hãy gọi bằng cách xưng hô trang trọng như “Hỡi Thiên Sứ của Allah!” hoặc “Hỡi Nabi của Allah!”.
 
 # 2855
 
@@ -12404,9 +12416,9 @@ Họ (đáp lại lời kêu gọi của Nuh), nói : “Lẽ nào bọn ta lạ
 
 # 3044
 
-(Nuh) bảo: “Ta không biết điều họ đã từng làm.”(1)
+(Nuh) bảo: “Ta không biết điều họ đã từng làm.”[^1]
 
-(1) Ý của Nuh: “Ta không nhất thiết phải quan tâm đến hoàn cảnh của họ, những ai đã theo Ta. Ta chỉ có nhiệm vụ là chấp nhận sự thành tâm và trung thực của họ, còn những điều bí mật ở nơi họ thì Ta phó mặc cho Allah, nó thuộc thẩm quyền của Ngài.”
+[^1]: Ý của Nuh: “Ta không nhất thiết phải quan tâm đến hoàn cảnh của họ, những ai đã theo Ta. Ta chỉ có nhiệm vụ là chấp nhận sự thành tâm và trung thực của họ, còn những điều bí mật ở nơi họ thì Ta phó mặc cho Allah, nó thuộc thẩm quyền của Ngài.”
 
 # 3045
 
@@ -12850,9 +12862,9 @@ Các ngươi có muốn TA nói cho biết ai là kẻ mà lũ Shaytan thường
 
 # 3155
 
-Chúng nói lại những thứ nghe được nhưng đa phần là bịa đặt.(2)
+Chúng nói lại những thứ nghe được nhưng đa phần là bịa đặt.[^2]
 
-(2) Những tên Jinn Shaytan nghe trộm những điều ở trên trời rồi truyền lại những gì nghe được cho những kẻ bói toán nhưng đa số những tên thầy bói đều là những kẻ nói dối. Shaytan bịa đặt một điều dối, những tên thầy bói bịa đặt thêm cả trăm điều.
+[^2]: Những tên Jinn Shaytan nghe trộm những điều ở trên trời rồi truyền lại những gì nghe được cho những kẻ bói toán nhưng đa số những tên thầy bói đều là những kẻ nói dối. Shaytan bịa đặt một điều dối, những tên thầy bói bịa đặt thêm cả trăm điều.
 
 # 3156
 
@@ -12916,9 +12928,9 @@ Rồi khi (Musa) đến chỗ ngọn lửa thì có tiếng gọi, bảo: “Ph�
 
 # 3171
 
-“Ngươi hãy cho bàn tay Ngươi vào lòng ngực mình, khi rút ra bàn tay Ngươi sẽ trở nên trắng toát nhưng không phải là bệnh. Đó là một trong số chín phép lạ(1), Ngươi hãy mang đi trình bày cho Pha-ra-ông và đám thuộc hạ của hắn. Quả thật chúng là một đám người ương ngạnh, đại nghịch và bất tuân.”
+“Ngươi hãy cho bàn tay Ngươi vào lòng ngực mình, khi rút ra bàn tay Ngươi sẽ trở nên trắng toát nhưng không phải là bệnh. Đó là một trong số chín phép lạ[^1], Ngươi hãy mang đi trình bày cho Pha-ra-ông và đám thuộc hạ của hắn. Quả thật chúng là một đám người ương ngạnh, đại nghịch và bất tuân.”
 
-(1) Những phép lạ còn lại là hạn hán, mất mùa, lũ lụt, nạn cào cào, nạn chấy rận, nạn ếch nhái và máu.
+[^1]: Những phép lạ còn lại là hạn hán, mất mùa, lũ lụt, nạn cào cào, nạn chấy rận, nạn ếch nhái và máu.
 
 # 3172
 
@@ -12950,9 +12962,9 @@ Lấy làm vui thích trước lời nói của kiến, Sulayman mỉm cười v
 
 # 3179
 
-Rồi khi (Sulayman) kiểm tra đoàn chim, Y bảo: “Sao Ta không thấy con Hudhud(2) đâu cả, phải chăng nó vắng mặt?”
+Rồi khi (Sulayman) kiểm tra đoàn chim, Y bảo: “Sao Ta không thấy con Hudhud[^2] đâu cả, phải chăng nó vắng mặt?”
 
-(2) Chim đầu rìu còn gọi là chim gõ kiến.
+[^2]: Chim đầu rìu còn gọi là chim gõ kiến.
 
 # 3180
 
@@ -13032,9 +13044,9 @@ Khi các sứ thần đến yết kiến Sulayman, Y bảo họ: “Các ngươi
 
 # 3199
 
-(Ngay lúc đó), một người (ngoan đạo) thông thạo Kinh Sách(3) cũng liền tâu (với Sulayman): “Hạ thần sẽ mang nó về cho bệ hạ chỉ trong nháy mắt.” Bởi thế, khi (Sulayman) thấy (chiếc ngai vương) được đặt ngay trước mặt mình, Y bảo: “Đây quả thật là một thiên ân mà Thượng Đế của Ta dùng để thử thách xem Ta là một người biết ơn hay là một kẻ bội ơn. Bởi ai biết tạ ơn thì việc tạ ơn đó chỉ có lợi cho bản thân mình; ngược lại, ai bội ơn thì Thượng Đế của Ta vẫn luôn giàu có và quảng đại.”
+(Ngay lúc đó), một người (ngoan đạo) thông thạo Kinh Sách[^3] cũng liền tâu (với Sulayman): “Hạ thần sẽ mang nó về cho bệ hạ chỉ trong nháy mắt.” Bởi thế, khi (Sulayman) thấy (chiếc ngai vương) được đặt ngay trước mặt mình, Y bảo: “Đây quả thật là một thiên ân mà Thượng Đế của Ta dùng để thử thách xem Ta là một người biết ơn hay là một kẻ bội ơn. Bởi ai biết tạ ơn thì việc tạ ơn đó chỉ có lợi cho bản thân mình; ngược lại, ai bội ơn thì Thượng Đế của Ta vẫn luôn giàu có và quảng đại.”
 
-(3) Các Tafsir cho biết rằng người ngoan đạo thông thạo Kinh Sách của Allah này đây đã biết được một đại danh của Allah. Khi cầu xin Allah với đại danh này của Ngài thì Ngài lập tức sẽ đáp lại.
+[^3]: Các Tafsir cho biết rằng người ngoan đạo thông thạo Kinh Sách của Allah này đây đã biết được một đại danh của Allah. Khi cầu xin Allah với đại danh này của Ngài thì Ngài lập tức sẽ đáp lại.
 
 # 3200
 
@@ -13886,9 +13898,9 @@ Người La Mã đã bị đánh bại,
 
 # 3412
 
-Tại một lãnh thổ lân cận (1). Tuy nhiên, sau cuộc chiến bại đó, họ sẽ giành lại chiến thắng,
+Tại một lãnh thổ lân cận [^1]. Tuy nhiên, sau cuộc chiến bại đó, họ sẽ giành lại chiến thắng,
 
-(1) Có lời Tafsir rằng đó là khu vực giữa xứ Syria và I-rắc, và có lời nói rằng đó là khu vực giữa Palestine và Jordan.
+[^1]: Có lời Tafsir rằng đó là khu vực giữa xứ Syria và I-rắc, và có lời nói rằng đó là khu vực giữa Palestine và Jordan.
 
 # 3413
 
@@ -13896,9 +13908,9 @@ Trong vài năm sau. Mọi việc xảy ra trước và sau đều là lệnh c�
 
 # 3414
 
-Về sự phù hộ của Allah. Quả thật, Ngài ban chiến thắng cho người nào Ngài muốn bởi Ngài là Đấng Quyền Năng, Đấng Nhân Từ.(2)
+Về sự phù hộ của Allah. Quả thật, Ngài ban chiến thắng cho người nào Ngài muốn bởi Ngài là Đấng Quyền Năng, Đấng Nhân Từ.[^2]
 
-(2) Nguyên nhân Allah mặc khải xuống bốn câu Kinh (2, 3, 4, 5) này là do đã xảy ra cuộc chiến giữa Đế quốc Ba Tư và người La Mã ở một khu vực gần Biển Chết. Trong trận chiến này, người Ba Tư đã giành chiến thắng, và đó là vào năm 619 sau Công nguyên. Những người Muslim cảm thấy buồn trước sự thất bại của người La Mã bởi vì họ là những người dân Kinh Sách và tôn giáo của họ gần với tôn giáo của Islam hơn, còn những người thờ đa thần Quraish thì vui mừng trước chiến thắng của người Ba Tư bởi vì những người Ba Tư cũng thờ đa thần giống như họ. Allah mặc khải xuống hứa với người Muslim rằng rồi đây trong vài năm sau người La Mã sẽ đánh bại Đế quốc Ba Tư trong trận chiến thứ hai. Lời hứa của Qur’an đã được xác thực, sau bảy năm, một trận chiến khác diễn ra giữa người Ba Tư và người La Mã vào năm 626 sau Công nguyên và người La Mã đã thực sự giành chiến thắng. Và đây chính là một trong những phép màu của Kinh Qur’an, khẳng định sứ mạng của Thiên Sứ Muhammad là thật. (Xem Tafsir Ibnu Al-Kathir và Tafsir Ot-Tobari).
+[^2]: Nguyên nhân Allah mặc khải xuống bốn câu Kinh (2, 3, 4, 5) này là do đã xảy ra cuộc chiến giữa Đế quốc Ba Tư và người La Mã ở một khu vực gần Biển Chết. Trong trận chiến này, người Ba Tư đã giành chiến thắng, và đó là vào năm 619 sau Công nguyên. Những người Muslim cảm thấy buồn trước sự thất bại của người La Mã bởi vì họ là những người dân Kinh Sách và tôn giáo của họ gần với tôn giáo của Islam hơn, còn những người thờ đa thần Quraish thì vui mừng trước chiến thắng của người Ba Tư bởi vì những người Ba Tư cũng thờ đa thần giống như họ. Allah mặc khải xuống hứa với người Muslim rằng rồi đây trong vài năm sau người La Mã sẽ đánh bại Đế quốc Ba Tư trong trận chiến thứ hai. Lời hứa của Qur’an đã được xác thực, sau bảy năm, một trận chiến khác diễn ra giữa người Ba Tư và người La Mã vào năm 626 sau Công nguyên và người La Mã đã thực sự giành chiến thắng. Và đây chính là một trong những phép màu của Kinh Qur’an, khẳng định sứ mạng của Thiên Sứ Muhammad là thật. (Xem Tafsir Ibnu Al-Kathir và Tafsir Ot-Tobari).
 
 # 3415
 
@@ -13998,9 +14010,9 @@ Không, những kẻ làm điều sai quấy đã chạy theo những dục vọ
 
 # 3439
 
-Bởi thế, Ngươi (hỡi Thiên Sứ) hãy hướng mặt mình về tôn giáo thuần túy (chỉ tôn thờ một mình Allah), Fit-rah (tôn giáo tự nhiên)(3) của Allah, tôn giáo mà theo đó Ngài đã tạo ra loài người, không có bất cứ sự thay đổi nào trong tạo hóa của Allah. Đó là chính đạo nhưng đa số nhân loại không biết.
+Bởi thế, Ngươi (hỡi Thiên Sứ) hãy hướng mặt mình về tôn giáo thuần túy (chỉ tôn thờ một mình Allah), Fit-rah (tôn giáo tự nhiên)[^3] của Allah, tôn giáo mà theo đó Ngài đã tạo ra loài người, không có bất cứ sự thay đổi nào trong tạo hóa của Allah. Đó là chính đạo nhưng đa số nhân loại không biết.
 
-(3) Fit-rah (tôn giáo tự nhiên) có nghĩa là chỉ thần phục và tôn thờ một mình Allah, cho nên Fit-rah suy cho cùng chính là tôn giáo Islam. Thiên Sứ của Allah nói: “Mỗi đứa trẻ sinh ra đời đều theo Fit-rah (tôn giáo tự nhiên) nhưng cha mẹ của nó dắt nó theo Do Thái giáo hoặc Thiên Chúa giáo hoặc Bái Hỏa giáo” (Al-Bukhari).
+[^3]: Fit-rah (tôn giáo tự nhiên) có nghĩa là chỉ thần phục và tôn thờ một mình Allah, cho nên Fit-rah suy cho cùng chính là tôn giáo Islam. Thiên Sứ của Allah nói: “Mỗi đứa trẻ sinh ra đời đều theo Fit-rah (tôn giáo tự nhiên) nhưng cha mẹ của nó dắt nó theo Do Thái giáo hoặc Thiên Chúa giáo hoặc Bái Hỏa giáo” (Al-Bukhari).
 
 # 3440
 
@@ -14324,9 +14336,9 @@ Họ rời giường ngủ cầu nguyện Thượng Đế của họ với tâm 
 
 # 3520
 
-Không một linh hồn nào biết được niềm vui sướng đã được giấu kín(1) (nơi Thiên Đàng) dùng làm phần thưởng cho họ về những việc thiện mà họ đã từng làm.
+Không một linh hồn nào biết được niềm vui sướng đã được giấu kín[^1] (nơi Thiên Đàng) dùng làm phần thưởng cho họ về những việc thiện mà họ đã từng làm.
 
-(1) Nói về những điều tốt đẹp ở nơi Thiên Đàng, Thiên Sứ của Allah nói: “Allah phán: TA đã chuẩn bị cho đám bề tôi ngoan đạo của TA những thứ chưa có cặp mắt nào từng nhìn thấy, chưa có đôi tai nào từng nghe qua và cũng chưa có trái tim người trần nào từng hình dung đến.” (Hadith do Al-Bukhari ghi lại).
+[^1]: Nói về những điều tốt đẹp ở nơi Thiên Đàng, Thiên Sứ của Allah nói: “Allah phán: TA đã chuẩn bị cho đám bề tôi ngoan đạo của TA những thứ chưa có cặp mắt nào từng nhìn thấy, chưa có đôi tai nào từng nghe qua và cũng chưa có trái tim người trần nào từng hình dung đến.” (Hadith do Al-Bukhari ghi lại).
 
 # 3521
 
@@ -14394,9 +14406,9 @@ Và Ngươi hãy phó thác cho Allah bởi lẽ một mình Allah đã đủ l�
 
 # 3537
 
-Allah không đặt hai quả tim vào trong lòng của một người đàn ông. Ngài không làm cho những người vợ mà các ngươi Zhihar(1) với họ thành mẹ ruột của các ngươi. Ngài cũng không làm cho con nuôi của các ngươi thành con ruột. Đó chỉ là lời nói thốt ra từ cửa miệng của các ngươi mà thôi, còn Allah thì nói sự thật và Ngài hướng dẫn đến con đường chân chính.
+Allah không đặt hai quả tim vào trong lòng của một người đàn ông. Ngài không làm cho những người vợ mà các ngươi Zhihar[^1] với họ thành mẹ ruột của các ngươi. Ngài cũng không làm cho con nuôi của các ngươi thành con ruột. Đó chỉ là lời nói thốt ra từ cửa miệng của các ngươi mà thôi, còn Allah thì nói sự thật và Ngài hướng dẫn đến con đường chân chính.
 
-(1) Zhihar là một người nói với vợ của mình “Cô giống như cái lưng của mẹ tôi” ngụ ý muốn ly dị. Đây là thói quen của những người đàn ông Ả-rập thời tiền Islam (Jahiliyah) mỗi khi giận và phật ý vợ của mình.
+[^1]: Zhihar là một người nói với vợ của mình “Cô giống như cái lưng của mẹ tôi” ngụ ý muốn ly dị. Đây là thói quen của những người đàn ông Ả-rập thời tiền Islam (Jahiliyah) mỗi khi giận và phật ý vợ của mình.
 
 # 3538
 
@@ -14416,9 +14428,9 @@ Ngươi (hỡi Thiên Sứ, hãy nhớ lại) khi TA (Allah) giao ước với c
 
 # 3542
 
-Hỡi những người có đức tin, các ngươi hãy nhớ ân huệ của Allah đã ban cho các ngươi. Khi liên quân địch kéo đến tấn công các ngươi(2), TA đã gởi một trận gió lạnh và đoàn thiên binh mà các ngươi không thể nhìn thấy đến giúp các ngươi chống lại quân địch. Quả thật, Allah thấy rõ những gì các ngươi làm.
+Hỡi những người có đức tin, các ngươi hãy nhớ ân huệ của Allah đã ban cho các ngươi. Khi liên quân địch kéo đến tấn công các ngươi[^2], TA đã gởi một trận gió lạnh và đoàn thiên binh mà các ngươi không thể nhìn thấy đến giúp các ngươi chống lại quân địch. Quả thật, Allah thấy rõ những gì các ngươi làm.
 
-(2) Vào năm thứ 5 hijr tức sau 5 năm khi Thiên Sứ Muhammad dời cư đến Madinah, liên quân gồm những người Do Thái và nhiều bộ lạc Ả-rập Makkah kéo nhau đến bao vây và tấn công Madinah. Lịch sử Islam gọi đây là Ghazwah Al-Ahzab (cuộc chiến chống lại liên quân) hay Ghazwah Al-Khandaq (trận Chiến hào).
+[^2]: Vào năm thứ 5 hijr tức sau 5 năm khi Thiên Sứ Muhammad dời cư đến Madinah, liên quân gồm những người Do Thái và nhiều bộ lạc Ả-rập Makkah kéo nhau đến bao vây và tấn công Madinah. Lịch sử Islam gọi đây là Ghazwah Al-Ahzab (cuộc chiến chống lại liên quân) hay Ghazwah Al-Khandaq (trận Chiến hào).
 
 # 3543
 
@@ -14530,11 +14542,13 @@ Người có đức tin thực sự, nam cũng như nữ, không phải là nh�
 
 # 3570
 
-Ngươi (hỡi Thiên Sứ) hãy nhớ lại khi Ngươi nói với người(3) mà Allah và Ngươi đã ban ân: “Con hãy giữ vợ(4) của con lại và hãy sợ Allah.” Trong khi đó, Ngươi cố giấu kín trong lòng mình điều(5) mà Allah sẽ tuyên bố. Ngươi sợ thiên hạ bàn tán chê cười trong lúc Allah là Đấng mà Ngươi cần phải sợ hơn cả. Cho nên, sau khi Zaid (con trai của Harithah) đã chấm dứt hoàn toàn với vợ của y thì TA gả nữ ta cho Ngươi mục đích để những người có đức tin không gặp phải trở ngại trong việc kết hôn với những người vợ của những đứa con nuôi của mình khi chúng đã hoàn toàn chấm dứt với vợ của chúng. Và mệnh lệnh của Allah thì phải được thực thi và chấp hành.
+Ngươi (hỡi Thiên Sứ) hãy nhớ lại khi Ngươi nói với người[^3] mà Allah và Ngươi đã ban ân: “Con hãy giữ vợ[^4] của con lại và hãy sợ Allah.” Trong khi đó, Ngươi cố giấu kín trong lòng mình điều[^5] mà Allah sẽ tuyên bố. Ngươi sợ thiên hạ bàn tán chê cười trong lúc Allah là Đấng mà Ngươi cần phải sợ hơn cả. Cho nên, sau khi Zaid (con trai của Harithah) đã chấm dứt hoàn toàn với vợ của y thì TA gả nữ ta cho Ngươi mục đích để những người có đức tin không gặp phải trở ngại trong việc kết hôn với những người vợ của những đứa con nuôi của mình khi chúng đã hoàn toàn chấm dứt với vợ của chúng. Và mệnh lệnh của Allah thì phải được thực thi và chấp hành.
 
-(3) Zaid con trai của Harithah. Ông đã bị bắt làm nô lệ và đã được Thiên Sứ chuộc về làm con nuôi. 
-(4) Zaynab bint Jahsh, người em họ của Thiên Sứ. 
-(5) Ý định cưới Zaynab sau khi Zaid bin Harithah đã ly dị với bà.
+[^3]: Zaid con trai của Harithah. Ông đã bị bắt làm nô lệ và đã được Thiên Sứ chuộc về làm con nuôi.
+
+[^4]: Zaynab bint Jahsh, người em họ của Thiên Sứ.
+
+[^5]: Ý định cưới Zaynab sau khi Zaid bin Harithah đã ly dị với bà.
 
 # 3571
 
@@ -14558,9 +14572,9 @@ Các ngươi hãy tán dương Ngài vào mỗi sáng và mỗi chiều.
 
 # 3576
 
-Ngài (Allah) là Đấng luôn Salawat(6) cho các ngươi và các Thiên Thần của Ngài cũng Salawat như thế, để Ngài đưa các ngươi từ nơi tối tăm ra chốn ánh sáng. Và Ngài khoan dung đối với những người có đức tin.
+Ngài (Allah) là Đấng luôn Salawat[^6] cho các ngươi và các Thiên Thần của Ngài cũng Salawat như thế, để Ngài đưa các ngươi từ nơi tối tăm ra chốn ánh sáng. Và Ngài khoan dung đối với những người có đức tin.
 
-(6) Salawat mang 3 ý nghĩa: Salawat của Allah dành cho đám bầy tôi của Ngài mang nghĩa là ban phúc lành, sự bằng ban và khen ngợi họ; Salawat của Thiên Thần cho con người mang nghĩa là cầu xin sự tha thứ từ nơi Allah cho họ; và Salawat của tín đồ Muslim cho Thiên Sứ mang nghĩa là cầu xin Allah ban bình an và phúc lành cho Người.
+[^6]: Salawat mang 3 ý nghĩa: Salawat của Allah dành cho đám bầy tôi của Ngài mang nghĩa là ban phúc lành, sự bằng ban và khen ngợi họ; Salawat của Thiên Thần cho con người mang nghĩa là cầu xin sự tha thứ từ nơi Allah cho họ; và Salawat của tín đồ Muslim cho Thiên Sứ mang nghĩa là cầu xin Allah ban bình an và phúc lành cho Người.
 
 # 3577
 
@@ -14676,9 +14690,9 @@ Ngài sẽ cải thiện việc làm của các ngươi cho các ngươi và Ng�
 
 # 3605
 
-Quả thật, TA đã giao Ama-nah(7) cho các tầng trời và trái đất và núi non nhưng chúng từ chối vì chúng cả sợ nên đã tránh xa nó; nhưng con người đã nhận lãnh nó; rõ ràng (con người) hết sức sai quấy, ngu muội.
+Quả thật, TA đã giao Ama-nah[^7] cho các tầng trời và trái đất và núi non nhưng chúng từ chối vì chúng cả sợ nên đã tránh xa nó; nhưng con người đã nhận lãnh nó; rõ ràng (con người) hết sức sai quấy, ngu muội.
 
-(7) Học giả Ibnu Al-Kathir giảng giải câu Kinh này, nói: “Ibnu 'Abbas nói: Ama-nah trong câu Kinh có nghĩa là sự phụng mệnh. (Có lời dẫn thì ghi rằng ông nói Ama-nah chính là các nghĩa vụ bắt buộc – những điều Fardh). Allah phơi bày Ama-nah cho các tầng trời, trái đất và núi non với ý nghĩa nếu chúng thực hiện thì sẽ được ban thưởng nhưng nếu chúng không thực hiện thì sẽ bị trừng phạt, thế là các tầng trời, trái đất và núi non từ chối nhận lãnh Ama-nah. Và rồi khi Allah phơi bày cho Nabi Adam Ama-nah này và Ngài bảo Adam: Ngươi có nhận lãnh nó không? Nabi Adam nói: Thưa Thượng Đế của bề tôi, Ama-nah đó là gì vậy? Allah nói: «إِنْ أَحْسَنْتَ جُزِيْتَ، وَإِنْ أَسَأْتَ عُوْقِبْتَ» “Nếu ngươi phụng mệnh và làm điều tốt ngươi sẽ được ban thưởng, còn nếu ngươi trái lệnh bất tuân và làm điều xấu thì ngươi sẽ bị trừng phạt”. Vậy là Nabi Adam đã chấp nhận lãnh Ama-nah này.”
+[^7]: Học giả Ibnu Al-Kathir giảng giải câu Kinh này, nói: “Ibnu 'Abbas nói: Ama-nah trong câu Kinh có nghĩa là sự phụng mệnh. (Có lời dẫn thì ghi rằng ông nói Ama-nah chính là các nghĩa vụ bắt buộc – những điều Fardh). Allah phơi bày Ama-nah cho các tầng trời, trái đất và núi non với ý nghĩa nếu chúng thực hiện thì sẽ được ban thưởng nhưng nếu chúng không thực hiện thì sẽ bị trừng phạt, thế là các tầng trời, trái đất và núi non từ chối nhận lãnh Ama-nah. Và rồi khi Allah phơi bày cho Nabi Adam Ama-nah này và Ngài bảo Adam: Ngươi có nhận lãnh nó không? Nabi Adam nói: Thưa Thượng Đế của bề tôi, Ama-nah đó là gì vậy? Allah nói: «إِنْ أَحْسَنْتَ جُزِيْتَ، وَإِنْ أَسَأْتَ عُوْقِبْتَ» “Nếu ngươi phụng mệnh và làm điều tốt ngươi sẽ được ban thưởng, còn nếu ngươi trái lệnh bất tuân và làm điều xấu thì ngươi sẽ bị trừng phạt”. Vậy là Nabi Adam đã chấp nhận lãnh Ama-nah này.”
 
 # 3606
 
@@ -14738,15 +14752,15 @@ Chúng (các tên Jinn hầu dịch cho Sulayman) làm ra cho Y những vật m�
 
 # 3620
 
-Khi TA cho (Sulayman) chết, chẳng có điều gì làm cho loài Jinn phát hiện ra cái chết của Y ngoại trừ côn trùng đất đã ăn mòn chiếc gậy của Y. Cho nên, khi Y ngã xuống, loài Jinn mới vỡ lẽ rằng nếu chúng biết được điều vô hình thì chúng đã không phải ở lại lâu trong sự trừng phạt nhục nhã đó.(1)
+Khi TA cho (Sulayman) chết, chẳng có điều gì làm cho loài Jinn phát hiện ra cái chết của Y ngoại trừ côn trùng đất đã ăn mòn chiếc gậy của Y. Cho nên, khi Y ngã xuống, loài Jinn mới vỡ lẽ rằng nếu chúng biết được điều vô hình thì chúng đã không phải ở lại lâu trong sự trừng phạt nhục nhã đó.[^1]
 
-(1) Sau khi Nabi Sulayman ngã xuống, các tên Jinn hầu dịch cho Người mới vỡ lẽ rằng Người đã chết và mới vỡ lẽ rằng nếu chúng biết được điều vô hình thì chúng đã không phải vất vã làm việc cho Sulayman trong suốt thời gian sau khi Người đã chết 100 năm trước.
+[^1]: Sau khi Nabi Sulayman ngã xuống, các tên Jinn hầu dịch cho Người mới vỡ lẽ rằng Người đã chết và mới vỡ lẽ rằng nếu chúng biết được điều vô hình thì chúng đã không phải vất vã làm việc cho Sulayman trong suốt thời gian sau khi Người đã chết 100 năm trước.
 
 # 3621
 
-Quả thật, tại chỗ ở của dân Sheba(2) là một dấu hiệu (cho quyền năng của Allah cũng như cho việc Ngài đã ban ân huệ cho họ). (Tại nơi ở của họ) có hai ngôi vườn nằm bên phải và bên trái. (Allah bảo họ): “Các ngươi hãy ăn bổng lộc của Thượng Đế của các ngươi và hãy biết ơn Ngài; (đây là) một xứ sở tốt đẹp, và (đây là) một Thượng Đế Hằng Tha Thứ (tội lỗi).
+Quả thật, tại chỗ ở của dân Sheba[^2] là một dấu hiệu (cho quyền năng của Allah cũng như cho việc Ngài đã ban ân huệ cho họ). (Tại nơi ở của họ) có hai ngôi vườn nằm bên phải và bên trái. (Allah bảo họ): “Các ngươi hãy ăn bổng lộc của Thượng Đế của các ngươi và hãy biết ơn Ngài; (đây là) một xứ sở tốt đẹp, và (đây là) một Thượng Đế Hằng Tha Thứ (tội lỗi).
 
-(2) Sheba là vương quốc do nữ vương Balqees cai trị nằm ở Yemen. Vương quốc này đã được Qur’an đề cập đến ở câu 22 của chương 27.
+[^2]: Sheba là vương quốc do nữ vương Balqees cai trị nằm ở Yemen. Vương quốc này đã được Qur’an đề cập đến ở câu 22 của chương 27.
 
 # 3622
 
@@ -15978,15 +15992,15 @@ Khi (Yunus) bỏ chạy đến một chiếc tàu chở đầy (người và đ�
 
 # 3929
 
-(Yunus) đã rút thăm và Y đã thua cuộc.(1)
+(Yunus) đã rút thăm và Y đã thua cuộc.[^1]
 
-(1) Con tàu chở đầy người và đồ đạc quá nhiều gần như muốn chìm mỗi khi có những con sống va vào. Họ đã ném bỏ đồ đạc xuống biển nhưng vẫn không ăn thua. Thế là mọi người trên tàu thống nhất với nhau cần phải hy sinh một người trong những người trên con tàu để cứu lấy con tàu và những người khác. Để công bằng, họ dùng hình thức rút thăm, ai rút thăm có tên mình thì người đó phải nhảy xuống biển. Nabi Yunus đã rút trúng thăm có tên mình và Người đành phải gieo mình xuống biển. Từ trong biển xanh, Allah đã gửi đến một con cá voi khổng lồ, Ngài phán bảo nó rằng chớ ăn thịt của Nabi Yunus và cũng chớ làm tổn thương đến xương cốt của Người, Người không phải là lộc ăn của nó mà Người chỉ tạm thời bị giam trong bụng của nó mà thôi. Vậy là khi Nabi Yunus vừa gieo mình xuống biển thì liền bị con cá voi khổng lồ đó nuốt gọn vào bụng của nó. (Theo Tafsir Ibnu Al-Kathir)
+[^1]: Con tàu chở đầy người và đồ đạc quá nhiều gần như muốn chìm mỗi khi có những con sống va vào. Họ đã ném bỏ đồ đạc xuống biển nhưng vẫn không ăn thua. Thế là mọi người trên tàu thống nhất với nhau cần phải hy sinh một người trong những người trên con tàu để cứu lấy con tàu và những người khác. Để công bằng, họ dùng hình thức rút thăm, ai rút thăm có tên mình thì người đó phải nhảy xuống biển. Nabi Yunus đã rút trúng thăm có tên mình và Người đành phải gieo mình xuống biển. Từ trong biển xanh, Allah đã gửi đến một con cá voi khổng lồ, Ngài phán bảo nó rằng chớ ăn thịt của Nabi Yunus và cũng chớ làm tổn thương đến xương cốt của Người, Người không phải là lộc ăn của nó mà Người chỉ tạm thời bị giam trong bụng của nó mà thôi. Vậy là khi Nabi Yunus vừa gieo mình xuống biển thì liền bị con cá voi khổng lồ đó nuốt gọn vào bụng của nó. (Theo Tafsir Ibnu Al-Kathir)
 
 # 3930
 
-Rồi một con cá đã nuốt chửng Y vì Y đã phạm một điều đáng trách.(2)
+Rồi một con cá đã nuốt chửng Y vì Y đã phạm một điều đáng trách.[^2]
 
-(2) Xem câu 87 chương 21 – Al-Ambiya’.
+[^2]: Xem câu 87 chương 21 – Al-Ambiya’.
 
 # 3931
 
@@ -16842,9 +16856,9 @@ Quả thật, những kẻ vô đức tin sẽ được bảo: “Chắc chắn 
 
 # 4144
 
-Họ sẽ nói: “Lạy Thượng Đế của bầy tôi! Ngài đã làm cho bầy tôi chết hai lần và sống hai lần(1). Giờ bầy tôi đã thú nhận tội lỗi của mình. Vậy có cách nào để thoát khỏi (Hỏa Ngục) không?”
+Họ sẽ nói: “Lạy Thượng Đế của bầy tôi! Ngài đã làm cho bầy tôi chết hai lần và sống hai lần[^1]. Giờ bầy tôi đã thú nhận tội lỗi của mình. Vậy có cách nào để thoát khỏi (Hỏa Ngục) không?”
 
-(1) Ông Ibnu Mas’ud nói: Câu Kinh này giống như lời phán của Allah ở câu 28 chương Al-Baqarah: {Sao các ngươi lại vô đức tin nơi Allah trong khi Ngài đã khởi tạo các ngươi từ không là gì, rồi Ngài cho các ngươi chết, rồi Ngài phục sinh các ngươi trở lại, sau đó các ngươi được triệu tập về trình diện Ngài?!} Ibnu ‘Abbas, Adh-Dhahaak, Qata-dah cũng nói như thế. Vì vậy, chết hai lần: Một lần lúc không là gì và một lần lúc lìa đời; sống hai lần: một lần lúc chào đời và một lần lúc được phục sinh.
+[^1]: Ông Ibnu Mas’ud nói: Câu Kinh này giống như lời phán của Allah ở câu 28 chương Al-Baqarah: {Sao các ngươi lại vô đức tin nơi Allah trong khi Ngài đã khởi tạo các ngươi từ không là gì, rồi Ngài cho các ngươi chết, rồi Ngài phục sinh các ngươi trở lại, sau đó các ngươi được triệu tập về trình diện Ngài?!} Ibnu ‘Abbas, Adh-Dhahaak, Qata-dah cũng nói như thế. Vì vậy, chết hai lần: Một lần lúc không là gì và một lần lúc lìa đời; sống hai lần: một lần lúc chào đời và một lần lúc được phục sinh.
 
 # 4145
 
@@ -17640,9 +17654,9 @@ Khi ai đó trong bọn chúng nhận được tin mừng (về sự ra đời m
 
 # 4343
 
-Lẽ nào một người (phụ nữ)(1) được nuôi dưỡng trong các món trang sức và ăn nói không rành mạch (lại là kẻ phò tá cho Allah)?!
+Lẽ nào một người (phụ nữ)[^1] được nuôi dưỡng trong các món trang sức và ăn nói không rành mạch (lại là kẻ phò tá cho Allah)?!
 
-(1) Những người Ả-rập đa thần thời tiền Islam đã tôn thờ các nữ thần như nữ thần Al-Lat, Al-‘Uzza, và Al-Manat. Họ cho rằng các Thiên Thần là những đứa con gái của Allah.
+[^1]: Những người Ả-rập đa thần thời tiền Islam đã tôn thờ các nữ thần như nữ thần Al-Lat, Al-‘Uzza, và Al-Manat. Họ cho rằng các Thiên Thần là những đứa con gái của Allah.
 
 # 4344
 
@@ -17798,9 +17812,9 @@ TA đã lấy chúng làm một tiền lệ và bài học cho hậu thế.
 
 # 4382
 
-Khi con trai (Ysa) của Maryam được đưa ra làm một hình ảnh thí dụ(2) thì người dân của Ngươi (Thiên Sứ) la ó (phản đối) về điều đó.
+Khi con trai (Ysa) của Maryam được đưa ra làm một hình ảnh thí dụ[^2] thì người dân của Ngươi (Thiên Sứ) la ó (phản đối) về điều đó.
 
-(2) Allah phán: {Quả thật, các ngươi (hỡi những kẻ thờ đa thần) và những vật mà các ngươi thờ phượng ngoài Allah sẽ là chất đốt của Hỏa Ngục, nơi mà các ngươi sẽ phải đi vào.} (Chương 23 – Al-Ambiya’, câu 98). Những kẻ đa thần Quraish cho rằng Ysa con trai của Maryam (tức Giêsu), người được các Kitô hữu tôn thờ, nằm trong lời phán này, nên chúng la lối phản đối, chúng nói: “Quả thật Ysa và các Thiên Thần đều sẽ vào Hỏa Ngục.” Thế là, Allah phán: {Quả thật, những ai mà TA đã khẳng định họ tốt thì sẽ được đưa ra xa khỏi đó.} (Chương 23 – Al-Ambiya’, câu 101).
+[^2]: Allah phán: {Quả thật, các ngươi (hỡi những kẻ thờ đa thần) và những vật mà các ngươi thờ phượng ngoài Allah sẽ là chất đốt của Hỏa Ngục, nơi mà các ngươi sẽ phải đi vào.} (Chương 23 – Al-Ambiya’, câu 98). Những kẻ đa thần Quraish cho rằng Ysa con trai của Maryam (tức Giêsu), người được các Kitô hữu tôn thờ, nằm trong lời phán này, nên chúng la lối phản đối, chúng nói: “Quả thật Ysa và các Thiên Thần đều sẽ vào Hỏa Ngục.” Thế là, Allah phán: {Quả thật, những ai mà TA đã khẳng định họ tốt thì sẽ được đưa ra xa khỏi đó.} (Chương 23 – Al-Ambiya’, câu 101).
 
 # 4383
 
@@ -19464,9 +19478,9 @@ Quả thật, (Muhammad) đã nhìn thấy (đại Thiên Thần Jibril) trong m
 
 # 4798
 
-Tại cây Sidrah Al-Muntaha(1)
+Tại cây Sidrah Al-Muntaha[^1]
 
-(1) Sidrah là tên gọi về một loại cây thuộc họ táo ta, Al-Muntaha có nghĩa là điểm tận cùng. Cây Sidrah Al-Muntaha có nghĩa là Cây ở điểm tận cùng. Nó được gọi như thế là bởi vì nó mọc ở nơi cao nhất của các tầng trời, đó là tầng trời thứ bảy; và bởi vì bất cứ những gì ở hạ giới cũng như những gì ở các tầng trời chỉ được phép lên cao đến đây là cùng, không được phép đi lên cao hơn nữa. Trong chuyến Isra’ và Mi’raj (dạ hành và thăng thiên), Thiên Sứ Muhammad được đưa đi lên đến cây Sidrah Al-Muntaha này. Thiên Sứ Muhammad đã mô tả đó là một cái cây khổng lồ được bao phủ bởi nhiều màu sắc rất đẹp. Người nói rằng trái của nó giống cái nồi đất đựng nước và lá của nó như những cái tai voi. Trong Hadith do Ahmad ghi lại, Thiên Sứ Muhammad đã mô tả về cây Sidrah Al-Muntaha, nói: “Khi Ta đến một cái cây (được gọi là) Sidrah Al-Muntaha, Ta thấy trái của nó giống như những chiếc bình, và lá của nó giống như những cái tai voi, và khi Allah ra lệnh cho nó thì nó chuyển sang màu đỏ của hồng ngọc hoặc màu xanh của ngọc lục bảo hoặc tương tự như thế.”
+[^1]: Sidrah là tên gọi về một loại cây thuộc họ táo ta, Al-Muntaha có nghĩa là điểm tận cùng. Cây Sidrah Al-Muntaha có nghĩa là Cây ở điểm tận cùng. Nó được gọi như thế là bởi vì nó mọc ở nơi cao nhất của các tầng trời, đó là tầng trời thứ bảy; và bởi vì bất cứ những gì ở hạ giới cũng như những gì ở các tầng trời chỉ được phép lên cao đến đây là cùng, không được phép đi lên cao hơn nữa. Trong chuyến Isra’ và Mi’raj (dạ hành và thăng thiên), Thiên Sứ Muhammad được đưa đi lên đến cây Sidrah Al-Muntaha này. Thiên Sứ Muhammad đã mô tả đó là một cái cây khổng lồ được bao phủ bởi nhiều màu sắc rất đẹp. Người nói rằng trái của nó giống cái nồi đất đựng nước và lá của nó như những cái tai voi. Trong Hadith do Ahmad ghi lại, Thiên Sứ Muhammad đã mô tả về cây Sidrah Al-Muntaha, nói: “Khi Ta đến một cái cây (được gọi là) Sidrah Al-Muntaha, Ta thấy trái của nó giống như những chiếc bình, và lá của nó giống như những cái tai voi, và khi Allah ra lệnh cho nó thì nó chuyển sang màu đỏ của hồng ngọc hoặc màu xanh của ngọc lục bảo hoặc tương tự như thế.”
 
 # 4799
 
@@ -20194,9 +20208,9 @@ Hồng phúc thay Đại Danh của Thượng Đế của Ngươi (Thiên Sứ M
 
 # 4980
 
-Khi Al-Waqi’ah(1) xảy ra.
+Khi Al-Waqi’ah[^1] xảy ra.
 
-(1) Một trong các tên gọi của Ngày Tận Thế.
+[^1]: Một trong các tên gọi của Ngày Tận Thế.
 
 # 4981
 
@@ -20700,9 +20714,9 @@ Quả thật, Allah đã nghe thấy lời của người phụ nữ (tên Khawl
 
 # 5106
 
-Những ai trong các ngươi thôi vợ của mình theo lối Zhihar(1) thì hãy biết rằng vợ của họ không phải là mẹ của họ. Bởi lẽ mẹ của họ là người đã sinh đẻ ra họ. Quả thật, họ đang nói một tuyên bố phản cảm và sai sự thật. Tuy nhiên, Allah thực sự là Đấng Hằng Tha Thứ, Đấng Độ Lượng.
+Những ai trong các ngươi thôi vợ của mình theo lối Zhihar[^1] thì hãy biết rằng vợ của họ không phải là mẹ của họ. Bởi lẽ mẹ của họ là người đã sinh đẻ ra họ. Quả thật, họ đang nói một tuyên bố phản cảm và sai sự thật. Tuy nhiên, Allah thực sự là Đấng Hằng Tha Thứ, Đấng Độ Lượng.
 
-(1) Zhihar là một hình thức thôi vợ của những người Ả-rập thời trước Islam bằng câu thành ngữ mà họ thường dùng để nói với vợ của mình: “Cô đối với tôi giống như cái lưng của mẹ tôi vậy!” ngụ ý không được phép ăn nằm với vợ.
+[^1]: Zhihar là một hình thức thôi vợ của những người Ả-rập thời trước Islam bằng câu thành ngữ mà họ thường dùng để nói với vợ của mình: “Cô đối với tôi giống như cái lưng của mẹ tôi vậy!” ngụ ý không được phép ăn nằm với vợ.
 
 # 5107
 
@@ -21574,9 +21588,9 @@ Nhưng Nó (Qur’an) là lời nhắc nhở cho muôn loài.
 
 # 5324
 
-Al-Haqqah(1)
+Al-Haqqah[^1]
 
-(1) Al-Haqqah là một trong các tên gọi của Ngày Tận Thế. Al-Haqqah có nghĩa là sự thật không thể chối cãi, sự thật bất khả kháng. Sở dĩ Ngày Tận Thế được gọi là Al-Haqqah bởi vì Ngày Tận Thế là sự thật, chắc chắn xảy ra, không thể phủ nhận.
+[^1]: Al-Haqqah là một trong các tên gọi của Ngày Tận Thế. Al-Haqqah có nghĩa là sự thật không thể chối cãi, sự thật bất khả kháng. Sở dĩ Ngày Tận Thế được gọi là Al-Haqqah bởi vì Ngày Tận Thế là sự thật, chắc chắn xảy ra, không thể phủ nhận.
 
 # 5325
 
@@ -21588,9 +21602,9 @@ Và điều gì làm cho ngươi biết Al-Haqqah là gì?
 
 # 5327
 
-Đám dân Thamud và đám dân ‘Ad đã phủ nhận Al-Qa-ri’ah(2)
+Đám dân Thamud và đám dân ‘Ad đã phủ nhận Al-Qa-ri’ah[^2]
 
-(2) Al-Qari’ah cũng là tên gọi của Ngày Tận Thế.
+[^2]: Al-Qari’ah cũng là tên gọi của Ngày Tận Thế.
 
 # 5328
 
@@ -23934,9 +23948,9 @@ Thề bởi người chứng kiến và điều được chứng kiến.
 
 # 5913
 
-Đám người Ukhdud(1) thật đáng bị nguyền rủa.
+Đám người Ukhdud[^1] thật đáng bị nguyền rủa.
 
-(1) Một cái hào lớn do một tên vua vô đức tin dùng để hỏa thiêu những người có đức tin nơi Allah.
+[^1]: Một cái hào lớn do một tên vua vô đức tin dùng để hỏa thiêu những người có đức tin nơi Allah.
 
 # 5914
 

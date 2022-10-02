@@ -10,9 +10,9 @@ CheckUpdates: https://quranenc.com/check/kinyarwanda_assoc/v1.0.3-xml.1
 
 # 1
 
-Ku izina rya Allah[1], Nyirimpuhwe, Nyirimbabazi.
+Ku izina rya Allah[^1], Nyirimpuhwe, Nyirimbabazi.
 
-[1] Allah: Ni izina bwite ry’Imana.
+[^1]: Allah: Ni izina bwite ry’Imana.
 
 # 2
 
@@ -40,9 +40,9 @@ Inzira y’abo wahundagajeho inema, itari iy’abo warakariye cyangwa abayobye.
 
 # 8
 
-Alif Laam Miim[2].
+Alif Laam Miim[^2].
 
-[2] Alif Laam Miim: Izi nyuguti eshatu ni zimwe mu zigize ururimi rw’icyarabu, ari na rwo Qur’an yahishuwemo. Allah yazitangije zimwe muri Sura za Qur’an, kugira ngo agaragaze ko Qur’an ari igitangaza kandi akaba ari we wenyine uzi ibisobanuro byazo.
+[^2]: Alif Laam Miim: Izi nyuguti eshatu ni zimwe mu zigize ururimi rw’icyarabu, ari na rwo Qur’an yahishuwemo. Allah yazitangije zimwe muri Sura za Qur’an, kugira ngo agaragaze ko Qur’an ari igitangaza kandi akaba ari we wenyine uzi ibisobanuro byazo.
 
 # 9
 
@@ -50,9 +50,9 @@ Icyo ni igitabo (Qur’an) kidashidikanywaho, kikaba umuyoboro ku batinyamana.
 
 # 10
 
-Ba bandi bemera ibitagaragara (byahanuwe), bagahozaho iswala[3] (z’itegeko) kandi bagatanga mu byo twabahaye.
+Ba bandi bemera ibitagaragara (byahanuwe), bagahozaho iswala[^3] (z’itegeko) kandi bagatanga mu byo twabahaye.
 
-[3] Iswala ni inyito ya Kisilamu isobanura ibikorwa runaka biherekejwe n’imvugo runaka bitangirirwa n’ijambo Allah Akbar (Imana isumba byose), bigasozwa n’ijambo Assalaam Alaykum (amahoro y’Imana ababeho) ari byo twakwita Isengesho. Iswala ikaba irimo amoko abiri: Hari iz’itegeko ari zo Umuyisilamu ategetswe gukora ku munsi, n’izitari iz’itegeko z’umugereka twita (Sunat) zisobanurwa mu bitabo by’amategeko y’idini rya Isilamu (Fiq’hi).
+[^3]: Iswala ni inyito ya Kisilamu isobanura ibikorwa runaka biherekejwe n’imvugo runaka bitangirirwa n’ijambo Allah Akbar (Imana isumba byose), bigasozwa n’ijambo Assalaam Alaykum (amahoro y’Imana ababeho) ari byo twakwita Isengesho. Iswala ikaba irimo amoko abiri: Hari iz’itegeko ari zo Umuyisilamu ategetswe gukora ku munsi, n’izitari iz’itegeko z’umugereka twita (Sunat) zisobanurwa mu bitabo by’amategeko y’idini rya Isilamu (Fiq’hi).
 
 # 11
 
@@ -148,9 +148,9 @@ Mu by’ukuri, Allah ntaterwa isoni no gutanga urugero urwo ari rwo rwose n’iy
 
 # 34
 
-Ba bandi bica isezerano rya Allah[4] nyuma yo kuryemeza, bakanatanya ibyo Allah yategetse ko byungwa (ubuvandimwe no kudatanya imiryango) kandi bagakora ubwangizi ku isi; abo ni bo banyagihombo.
+Ba bandi bica isezerano rya Allah[^4] nyuma yo kuryemeza, bakanatanya ibyo Allah yategetse ko byungwa (ubuvandimwe no kudatanya imiryango) kandi bagakora ubwangizi ku isi; abo ni bo banyagihombo.
 
-[4] Isezerano rya Allah rivugwa hano, ni uko nta yindi mana ikwiye kugaragirwa by’ukuri uretse Allah nk’uko byigishijwe n’Intumwa zose za Allah.
+[^4]: Isezerano rya Allah rivugwa hano, ni uko nta yindi mana ikwiye kugaragirwa by’ukuri uretse Allah nk’uko byigishijwe n’Intumwa zose za Allah.
 
 # 35
 
@@ -178,9 +178,9 @@ Aravuga ati “Yewe Adamu! Babwire amazina yabyo.” Nuko amaze kubabwira amazin
 
 # 41
 
-Kandi muzirikane ubwo twabwiraga abamalayika tuti “Nimwubamire[5] Adamu”, nuko bose bakubama uretse Ibilisi (Shitani) wanze akishyira hejuru nuko akaba mu bahakanyi (banze kumvira Allah).
+Kandi muzirikane ubwo twabwiraga abamalayika tuti “Nimwubamire[^5] Adamu”, nuko bose bakubama uretse Ibilisi (Shitani) wanze akishyira hejuru nuko akaba mu bahakanyi (banze kumvira Allah).
 
-[5] Ukubama kuvugwa hano ni indamutso y’icyubahiro gihebuje.
+[^5]: Ukubama kuvugwa hano ni indamutso y’icyubahiro gihebuje.
 
 # 42
 
@@ -192,9 +192,9 @@ Nuko Shitani arabashuka (barya kuri cya giti), abakura mu byo bari barimo (ubuzi
 
 # 44
 
-Nuko Adamu yakira amagambo (yo kwicuza) avuye kwa Nyagasani we[6], maze Nyagasani yakira ukwicuza kwe. Mu by’ukuri, ni We Uwakira ukwicuza, Nyirimbabazi.
+Nuko Adamu yakira amagambo (yo kwicuza) avuye kwa Nyagasani we[^6], maze Nyagasani yakira ukwicuza kwe. Mu by’ukuri, ni We Uwakira ukwicuza, Nyirimbabazi.
 
-[6] Amagambo avugwa muri uyu murongo, ni amagambo Allah yigishije Adamu kugira ngo amenye uburyo bwo kwicuza. Ayo magambo aboneka muri Qur’an, igice cya 7, umurongo wa 23.
+[^6]: Amagambo avugwa muri uyu murongo, ni amagambo Allah yigishije Adamu kugira ngo amenye uburyo bwo kwicuza. Ayo magambo aboneka muri Qur’an, igice cya 7, umurongo wa 23.
 
 # 45
 
@@ -206,9 +206,9 @@ Naho abazahakana bakanahinyura ibimenyetso byacu (amagambo, inyigisho n’ubuhan
 
 # 47
 
-Yemwe bene Isiraheli![7] Nimwibuke ingabire zanjye nabahundagajeho, maze mwuzuze isezerano ryanjye (ryo kwemera ibitabo n’Intumwa zanjye), kugira ngo nanjye nuzuze iryanyu (ryo kubagirira impuhwe ku isi no kuzabarokora ku munsi w’imperuka), kandi mube ari Njye njyenyine mutinya.
+Yemwe bene Isiraheli![^7] Nimwibuke ingabire zanjye nabahundagajeho, maze mwuzuze isezerano ryanjye (ryo kwemera ibitabo n’Intumwa zanjye), kugira ngo nanjye nuzuze iryanyu (ryo kubagirira impuhwe ku isi no kuzabarokora ku munsi w’imperuka), kandi mube ari Njye njyenyine mutinya.
 
-[7] Isiraheli ni umuhanuzi wa Allah, akaba ari we Yakobo mwene Isaka mwene Aburahamu, ari na we Abayahudi bakomokaho.
+[^7]: Isiraheli ni umuhanuzi wa Allah, akaba ari we Yakobo mwene Isaka mwene Aburahamu, ari na we Abayahudi bakomokaho.
 
 # 48
 
@@ -220,10 +220,11 @@ Kandi ntimuzavange ukuri n’ikinyoma, cyangwa ngo muhishe ukuri kandi mukuzi.
 
 # 50
 
-Munahozeho iswala (z’itegeko)[8], munatange amaturo (Zakat y’itegeko)[9] kandi mwuname hamwe n’abunama (mukora iswala).
+Munahozeho iswala (z’itegeko)[^8], munatange amaturo (Zakat y’itegeko)[^9] kandi mwuname hamwe n’abunama (mukora iswala).
 
-[8] Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
-[9] Zakat ni ituro, rikaba ari igeno rizwi Umuyisilamu ategekwa gutanga mu mitungo yabugenewe, rigahabwa abantu bari mu byiciro umunani byavuzwe muri Qur’an, igice cya 9:60.
+[^8]: Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
+
+[^9]: Zakat ni ituro, rikaba ari igeno rizwi Umuyisilamu ategekwa gutanga mu mitungo yabugenewe, rigahabwa abantu bari mu byiciro umunani byavuzwe muri Qur’an, igice cya 9:60.
 
 # 51
 
@@ -231,9 +232,9 @@ Ese mubwiriza abantu gukora ibyiza mwe mukiyibagirwa, kandi mwe musoma igitabo (
 
 # 52
 
-Kandi mujye mwifashisha (muri gahunda zanyu zose) ukwihangana n’iswala[10]; n’ubwo mu by’ukuri bigoye uretse ku bibombarika.
+Kandi mujye mwifashisha (muri gahunda zanyu zose) ukwihangana n’iswala[^10]; n’ubwo mu by’ukuri bigoye uretse ku bibombarika.
 
-[10] Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
+[^10]: Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
 
 # 53
 
@@ -269,9 +270,9 @@ Nuko nyuma y’ibyo, turabababarira kugira ngo mushimire.
 
 # 61
 
-(Munibuke) ubwo Musa yabwiraga abantu be ati “Yemwe bantu banjye! Mu by’ukuri, mwarihemukiye ubwo mwafataga akamasa (mwibumbiye) mukakagira ikigirwamana. Ngaho nimwicuze ku Muremyi wanyu, maze mwicane (abatarabangikanyije Allah muri mwe bice abamubangikanyije nk’igihano kuri bo)[11]; ibyo ni byo byiza kuri mwe imbere y’Umuremyi wanyu (aho gushyirwa mu muriro w’iteka).” Nuko Allah yakira ukwicuza kwanyu. Mu by’ukuri, ni we Uwakira ukwicuza, Nyirimbabazi.
+(Munibuke) ubwo Musa yabwiraga abantu be ati “Yemwe bantu banjye! Mu by’ukuri, mwarihemukiye ubwo mwafataga akamasa (mwibumbiye) mukakagira ikigirwamana. Ngaho nimwicuze ku Muremyi wanyu, maze mwicane (abatarabangikanyije Allah muri mwe bice abamubangikanyije nk’igihano kuri bo)[^11]; ibyo ni byo byiza kuri mwe imbere y’Umuremyi wanyu (aho gushyirwa mu muriro w’iteka).” Nuko Allah yakira ukwicuza kwanyu. Mu by’ukuri, ni we Uwakira ukwicuza, Nyirimbabazi.
 
-[11] Ubu buryo bwo kwicuza abantu babanje kwicana, ni bwo bwakoreshwaga muri icyo gihe, ariko Imana yaje kubusimbuza kwicuza habayeho gusaba Imana imbabazi ku byaha umuntu yakoze.
+[^11]: Ubu buryo bwo kwicuza abantu babanje kwicana, ni bwo bwakoreshwaga muri icyo gihe, ariko Imana yaje kubusimbuza kwicuza habayeho gusaba Imana imbabazi ku byaha umuntu yakoze.
 
 # 62
 
@@ -283,10 +284,11 @@ Nuko turabazura nyuma yo gupfa, kugira ngo mushimire.
 
 # 64
 
-Twanabugamishije mu gicucu cy’igicu (igihe mwayobagurikaga mu butayu muvuye mu Misiri), tunabamanurira amafunguro ya Manu[12] na Saluwa[13], (tubabwira tuti) “Nimurye mu byiza twabafunguriye,” (ariko babirenzeho barahakana). Nyamara ntabwo ari twe bagiriye nabi ahubwo ni bo ubwabo bihemukiye.
+Twanabugamishije mu gicucu cy’igicu (igihe mwayobagurikaga mu butayu muvuye mu Misiri), tunabamanurira amafunguro ya Manu[^12] na Saluwa[^13], (tubabwira tuti) “Nimurye mu byiza twabafunguriye,” (ariko babirenzeho barahakana). Nyamara ntabwo ari twe bagiriye nabi ahubwo ni bo ubwabo bihemukiye.
 
-[12] Manu: ni ubukozo buryohera nk’ubuki, buva mu giti cyo mu bwoko bwitwa Tamarsk cyera mu karere ka Sinayi.
-[13] Saluwa: Ni uruhuri rw’ubwoko bw’inyoni zitwarwa n’imiyaga mu burasirazuba bwa Mediterane. Izo nyoni bazohererezwaga na Allah kugira ngo bazibage bazirye.
+[^12]: Manu: ni ubukozo buryohera nk’ubuki, buva mu giti cyo mu bwoko bwitwa Tamarsk cyera mu karere ka Sinayi.
+
+[^13]: Saluwa: Ni uruhuri rw’ubwoko bw’inyoni zitwarwa n’imiyaga mu burasirazuba bwa Mediterane. Izo nyoni bazohererezwaga na Allah kugira ngo bazibage bazirye.
 
 # 65
 
@@ -306,9 +308,9 @@ Munibuke ubwo mwavugaga muti “Yewe Musa! Ntituzihanganira indyo imwe, ku bw’
 
 # 69
 
-Mu by’ukuri ba bandi bemeye (ubutumwa bwa Muhamadi), Abayahudi (abemeye ubutumwa bwa Musa ku gihe cye), Abanaswara (abemeye ubutumwa bwa Isa (Yesu) ku gihe cye)[14] n’Abaswaabi’i (abagumye kuri kamere yabo yo kwemera Imana batagira idini bayobotse muri icyo gihe), (muri abo bose) abemeye Allah by’ukuri, bakemera umunsi w’imperuka ndetse bakanakora ibitunganye, abo bazagororerwa ibihembo kwa Nyagasani wabo, kandi nta bwoba ndetse nta n’agahinda bazagira.
+Mu by’ukuri ba bandi bemeye (ubutumwa bwa Muhamadi), Abayahudi (abemeye ubutumwa bwa Musa ku gihe cye), Abanaswara (abemeye ubutumwa bwa Isa (Yesu) ku gihe cye)[^14] n’Abaswaabi’i (abagumye kuri kamere yabo yo kwemera Imana batagira idini bayobotse muri icyo gihe), (muri abo bose) abemeye Allah by’ukuri, bakemera umunsi w’imperuka ndetse bakanakora ibitunganye, abo bazagororerwa ibihembo kwa Nyagasani wabo, kandi nta bwoba ndetse nta n’agahinda bazagira.
 
-[14] Iyi nyito Abanaswara, ubusanzwe ni ijambo ry’icyarabu A-Naswara rikomoka ku izina ry’Umujyi A-Naaswirat ari wo Nazareti umwe mu mijyi igize igihugu cya Palesitina, ukaba ari na wo mujyi Yesu yakomokagamo. Bishatse gusobanura ko Abanaswara ari abakurikiye uwavukiye i Nazareti. Iyi nyito hamwe n’Abahawe igitabo (Ahlul Kitab) ni zo nyito zikoreshwa muri Qur’an no mu nyigisho z’Intumwa y’Imana (Hadithi), ndetse no mu bitabo bya Kisilamu byo hambere, zigamije kuvuga Abakurikiye ubutumwa bw’Intumwa y’Imana Yesu (Issa) Imana imuhundagazeho amahoro. Niyo mpamvu n’ahandi hose hari buvugwe abakurikiye Yesu bari buvugwe mu mirongo ya Qur’an turi bukoreshe inyito Abanaswara.
+[^14]: Iyi nyito Abanaswara, ubusanzwe ni ijambo ry’icyarabu A-Naswara rikomoka ku izina ry’Umujyi A-Naaswirat ari wo Nazareti umwe mu mijyi igize igihugu cya Palesitina, ukaba ari na wo mujyi Yesu yakomokagamo. Bishatse gusobanura ko Abanaswara ari abakurikiye uwavukiye i Nazareti. Iyi nyito hamwe n’Abahawe igitabo (Ahlul Kitab) ni zo nyito zikoreshwa muri Qur’an no mu nyigisho z’Intumwa y’Imana (Hadithi), ndetse no mu bitabo bya Kisilamu byo hambere, zigamije kuvuga Abakurikiye ubutumwa bw’Intumwa y’Imana Yesu (Issa) Imana imuhundagazeho amahoro. Niyo mpamvu n’ahandi hose hari buvugwe abakurikiye Yesu bari buvugwe mu mirongo ya Qur’an turi bukoreshe inyito Abanaswara.
 
 # 70
 
@@ -320,9 +322,9 @@ Nyuma murongera mubitera umugongo. Iyo bitaza kuba ineza n’impuhwe bya Allah k
 
 # 72
 
-Kandi mu by’ukuri mwamenye bamwe muri mwe barengereye isabato[15], nuko turababwira tuti “Nimube inkende musuzuguritse.”
+Kandi mu by’ukuri mwamenye bamwe muri mwe barengereye isabato[^15], nuko turababwira tuti “Nimube inkende musuzuguritse.”
 
-[15] Abayisiraheli bategetswe kutagira icyo bakora ku isabato uretse kugaragira Imana byonyine. Nyuma bamwe muri bo babirenzeho bakoresheje amayeri bakaraza imitego yo kuroba amafi mu nyanja kuwa gatanu bakayitegura ku cyumweru, abandi bakabikora ku mugaragaro.
+[^15]: Abayisiraheli bategetswe kutagira icyo bakora ku isabato uretse kugaragira Imana byonyine. Nyuma bamwe muri bo babirenzeho bakoresheje amayeri bakaraza imitego yo kuroba amafi mu nyanja kuwa gatanu bakayitegura ku cyumweru, abandi bakabikora ku mugaragaro.
 
 # 73
 
@@ -394,9 +396,9 @@ Na ba bandi bemeye bakanakora ibikorwa byiza; abo ni abantu bo mu ijuru, bazarib
 
 # 90
 
-Munibuke ubwo twakiraga isezerano rya bene Isiraheli (rigira riti) “Ntimuzasenge ikindi kitari Allah, muzagirire neza ababyeyi bombi, abo mufitanye isano, imfubyi n’abakene, muvugane n’abantu mukoresheje imvugo nziza, muhozeho iswala[16], kandi mutange amaturo. Nuko mutera umugongo (amategeko yacu) munirengagiza (isezerano ryacu) uretse bake muri mwe.”
+Munibuke ubwo twakiraga isezerano rya bene Isiraheli (rigira riti) “Ntimuzasenge ikindi kitari Allah, muzagirire neza ababyeyi bombi, abo mufitanye isano, imfubyi n’abakene, muvugane n’abantu mukoresheje imvugo nziza, muhozeho iswala[^16], kandi mutange amaturo. Nuko mutera umugongo (amategeko yacu) munirengagiza (isezerano ryacu) uretse bake muri mwe.”
 
-[16] Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
+[^16]: Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
 
 # 91
 
@@ -404,9 +406,9 @@ Munibuke ubwo twakiraga isezerano ryanyu ry’uko mutazamena amaraso (ya bagenzi
 
 # 92
 
-Nyuma mwe ubwanyu (mubirengaho) muricana, munamenesha bamwe muri mwe mu ngo zabo, munashyigikirana mu kubakorera ubuhemu n’ubugome. N’iyo babagannye barafatiwe ku rugamba mubatangira ingurane zo kubabohora kandi ari ikizira kuri mwe kubamenesha[17]. Ese mwemera bimwe mu gitabo (Tawurati) mugahakana ibindi? Nta kindi gihembo cy’ukora ibyo muri mwe uretse igisebo mu buzima bwo ku isi, ndetse no ku munsi w’imperuka bazashyirwa mu bihano bikomeye cyane. Kandi Allah ntabwo ayobewe ibyo mukora.
+Nyuma mwe ubwanyu (mubirengaho) muricana, munamenesha bamwe muri mwe mu ngo zabo, munashyigikirana mu kubakorera ubuhemu n’ubugome. N’iyo babagannye barafatiwe ku rugamba mubatangira ingurane zo kubabohora kandi ari ikizira kuri mwe kubamenesha[^17]. Ese mwemera bimwe mu gitabo (Tawurati) mugahakana ibindi? Nta kindi gihembo cy’ukora ibyo muri mwe uretse igisebo mu buzima bwo ku isi, ndetse no ku munsi w’imperuka bazashyirwa mu bihano bikomeye cyane. Kandi Allah ntabwo ayobewe ibyo mukora.
 
-[17] I Madina hari amoko abiri ari yo Awusi na Khaziraji, ayo moko yombi mbere y’uko ayoboka Isilamu yahoraga ashyamiranye, Abayahudi bari batuye i Madina baje gucikamo ibice bibiri, bamwe bifatanya n’ubwoko bwa Awusi abandi na bo bifatanya n’ubwoko bwa Khaziraji. Iyo ayo moko yarwanaga Abayahudi bari ku ruhande rumwe bicaga bene wabo bo ku rundi ruhande. Iyo hagiraga Abayahudi bafatwa bunyago mu ntambara ku ruhande rumwe, bene wabo bo ku rundi ruhande babatangiraga ingurane zo kubabohora. Aha niho babwirwa bati “Niba mubohoza imbohe z’Abayahudi kubera gukurikiza Tawurati, kubera iki mwicana mukanameneshanya kandi na byo bibujijwe muri Tawurati?”
+[^17]: I Madina hari amoko abiri ari yo Awusi na Khaziraji, ayo moko yombi mbere y’uko ayoboka Isilamu yahoraga ashyamiranye, Abayahudi bari batuye i Madina baje gucikamo ibice bibiri, bamwe bifatanya n’ubwoko bwa Awusi abandi na bo bifatanya n’ubwoko bwa Khaziraji. Iyo ayo moko yarwanaga Abayahudi bari ku ruhande rumwe bicaga bene wabo bo ku rundi ruhande. Iyo hagiraga Abayahudi bafatwa bunyago mu ntambara ku ruhande rumwe, bene wabo bo ku rundi ruhande babatangiraga ingurane zo kubabohora. Aha niho babwirwa bati “Niba mubohoza imbohe z’Abayahudi kubera gukurikiza Tawurati, kubera iki mwicana mukanameneshanya kandi na byo bibujijwe muri Tawurati?”
 
 # 93
 
@@ -482,9 +484,9 @@ Mu by’ukuri, iyo baza kwemera bakanagandukira Imana, ibihembo bituruka kwa All
 
 # 111
 
-Yemwe abemeye! Ntimukavuge (mubwira Intumwa Muhamadi) muti “Cisha make tukumve (Raa-inaa)”[18], ahubwo mujye muvuga muti “Twihanganire tubanze dufate ibyo watwigishije (Un’dhwurna)”, ndetse mwumve. Kandi abahakanyi bazahanishwa ibihano bibabaza.
+Yemwe abemeye! Ntimukavuge (mubwira Intumwa Muhamadi) muti “Cisha make tukumve (Raa-inaa)”[^18], ahubwo mujye muvuga muti “Twihanganire tubanze dufate ibyo watwigishije (Un’dhwurna)”, ndetse mwumve. Kandi abahakanyi bazahanishwa ibihano bibabaza.
 
-[18]Raa-inaa: Iri jambo risobanura ngo cisha make usome buhoro tukumve. Nyamara mu giheburayo ni ijambo ry’igitutsi, Abayahudi bakaba bararikoresheje bagamije gutuka Intumwa Muhamadi mu rurimi rwabo.
+[^18]: Raa-inaa: Iri jambo risobanura ngo cisha make usome buhoro tukumve. Nyamara mu giheburayo ni ijambo ry’igitutsi, Abayahudi bakaba bararikoresheje bagamije gutuka Intumwa Muhamadi mu rurimi rwabo.
 
 # 112
 
@@ -508,15 +510,15 @@ Abenshi mu bahawe igitabo bifuza ko babahindura mukongera kuba abahakanyi nyuma 
 
 # 117
 
-Munahozeho iswala[19] (muzitunganya uko bikwiye), munatange amaturo, kandi icyiza cyose mwiteganyirije imbere muzagisanga kwa Allah. Mu by’ukuri, Allah ni Ubona bihebuje ibyo mukora.
+Munahozeho iswala[^19] (muzitunganya uko bikwiye), munatange amaturo, kandi icyiza cyose mwiteganyirije imbere muzagisanga kwa Allah. Mu by’ukuri, Allah ni Ubona bihebuje ibyo mukora.
 
-[19] Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
+[^19]: Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
 
 # 118
 
-Baranavuze bati “Ntawe uzinjira mu ijuru uretse uwabaye Umuyahudi cyangwa Umunaswara[20].” Ibyo ni ibyifuzo byabo. Vuga (yewe Muhamadi) uti “Nimuzane gihamya yanyu niba koko muri abanyakuri.”
+Baranavuze bati “Ntawe uzinjira mu ijuru uretse uwabaye Umuyahudi cyangwa Umunaswara[^20].” Ibyo ni ibyifuzo byabo. Vuga (yewe Muhamadi) uti “Nimuzane gihamya yanyu niba koko muri abanyakuri.”
 
-[20] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat
+[^20]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat
 
 # 119
 
@@ -524,9 +526,9 @@ Si ko biri! Ahubwo uwiyeguriye Allah akaba n’ukora ibyiza, azabona igihembo cy
 
 # 120
 
-Abayahudi kandi baravuze bati “Abanaswara[21] nta shingiro bafite (ntibari mu idini ry’ukuri)”, n’Abanaswara baravuga bati “Abayahudi nta shingiro bafite (ntibari mu idini ry’ukuri)”; nyamara bose basoma igitabo (Tawurati n’Ivanjili). Iyo ni na yo mvugo abatabizi (ababangikanyamana b’Abarabu) bavuze. Allah ni we uzabakiranura ku munsi w’izuka mu byo batumvikanagaho.
+Abayahudi kandi baravuze bati “Abanaswara[^21] nta shingiro bafite (ntibari mu idini ry’ukuri)”, n’Abanaswara baravuga bati “Abayahudi nta shingiro bafite (ntibari mu idini ry’ukuri)”; nyamara bose basoma igitabo (Tawurati n’Ivanjili). Iyo ni na yo mvugo abatabizi (ababangikanyamana b’Abarabu) bavuze. Allah ni we uzabakiranura ku munsi w’izuka mu byo batumvikanagaho.
 
-[21] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri iyi Surat
+[^21]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri iyi Surat
 
 # 121
 
@@ -538,9 +540,9 @@ Kandi Uburasirazuba n’Uburengerazuba ni ibya Allah, aho mwakwerekera hose ubur
 
 # 123
 
-(Abayahudi, Abanaswara[22] n’ababangikanyamana) baravuze bati “Allah afite umwana.” Ubutagatifu ni ubwe (ntibibaho ko yagira umwana)! Ahubwo ibiri mu birere no mu isi byose ni ibye kandi byose biramwumvira.
+(Abayahudi, Abanaswara[^22] n’ababangikanyamana) baravuze bati “Allah afite umwana.” Ubutagatifu ni ubwe (ntibibaho ko yagira umwana)! Ahubwo ibiri mu birere no mu isi byose ni ibye kandi byose biramwumvira.
 
-[22] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat
+[^22]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat
 
 # 124
 
@@ -556,9 +558,9 @@ Mu by’ukuri, (yewe Muhamadi) twakohereje (tuguhaye ubutumwa bw’) ukuri (Isil
 
 # 127
 
-Kandi Abayahudi n’Abanaswara[23], ntibazigera bakwishimira keretse ukurikiye inzira yabo. Vuga (yewe Muhamadi) uti “Mu by’ukuri, umuyoboro wa Allah ni wo muyoboro nyawo.” Kandi uramutse ukurikiye irari ryabo nyuma y’uko ubumenyi (ubutumwa) bukugezeho, nta wundi murinzi cyangwa umutabazi wazagira kwa Allah.
+Kandi Abayahudi n’Abanaswara[^23], ntibazigera bakwishimira keretse ukurikiye inzira yabo. Vuga (yewe Muhamadi) uti “Mu by’ukuri, umuyoboro wa Allah ni wo muyoboro nyawo.” Kandi uramutse ukurikiye irari ryabo nyuma y’uko ubumenyi (ubutumwa) bukugezeho, nta wundi murinzi cyangwa umutabazi wazagira kwa Allah.
 
-[23] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat
+[^23]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat
 
 # 128
 
@@ -578,9 +580,9 @@ Unibuke ubwo Nyagasani wa Aburahamu yamugeragereshaga amategeko, akayubahiriza. 
 
 # 132
 
-Unibuke ubwo ingoro ya (Al Ka’abat) twayigiraga ahantu h’ihuriro n’amahoro ku bantu. Kandi tunabategeka ko aho Aburahamu yahagararaga (Maqam Ibrahim)[24] muhagira ahantu ho gusengera. Tunategeka Aburahamu na Isimayili (tugira tuti) “Musukure ingoro yanjye mubigiriye abayizenguruka (bakora umutambagiro), abahakorera umwiherero (Itikafu), ndetse n’abunama n’abubama (basali).
+Unibuke ubwo ingoro ya (Al Ka’abat) twayigiraga ahantu h’ihuriro n’amahoro ku bantu. Kandi tunabategeka ko aho Aburahamu yahagararaga (Maqam Ibrahim)[^24] muhagira ahantu ho gusengera. Tunategeka Aburahamu na Isimayili (tugira tuti) “Musukure ingoro yanjye mubigiriye abayizenguruka (bakora umutambagiro), abahakorera umwiherero (Itikafu), ndetse n’abunama n’abubama (basali).
 
-[24] Maqam Ibrahim: Ni ibuye Aburahamu yahagararagaho yubaka Al Ka’abat, na n’ubu haracyari ibimenyetso by’ibirenge bye.
+[^24]: Maqam Ibrahim: Ni ibuye Aburahamu yahagararagaho yubaka Al Ka’abat, na n’ubu haracyari ibimenyetso by’ibirenge bye.
 
 # 133
 
@@ -620,9 +622,9 @@ Uwo ni umuryango (Umat) wahise; ufite ibyo wakoze namwe mufite ibyo mwakoze (bur
 
 # 142
 
-Baranavuze bati “Nimube Abayahudi (Abayahudi babwira abakurikiye Intumwa Muhamadi)! Cyangwa Abanaswara[25] (Abanaswara babwira abakurikiye Intumwa Muhamadi) ni bwo muzayoboka!” Vuga (yewe Muhamadi) uti “Ahubwo (ukuyoboka nyako ni ugukurikira) idini ritunganye rya Aburahamu (Ibrahim) (ritabangikanya Imana), kandi ntiyari mu babangikanyamana.
+Baranavuze bati “Nimube Abayahudi (Abayahudi babwira abakurikiye Intumwa Muhamadi)! Cyangwa Abanaswara[^25] (Abanaswara babwira abakurikiye Intumwa Muhamadi) ni bwo muzayoboka!” Vuga (yewe Muhamadi) uti “Ahubwo (ukuyoboka nyako ni ugukurikira) idini ritunganye rya Aburahamu (Ibrahim) (ritabangikanya Imana), kandi ntiyari mu babangikanyamana.
 
-[25] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat
+[^25]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat
 
 # 143
 
@@ -642,9 +644,9 @@ Vuga (yewe Muhamadi) uti “Ese muratugisha impaka kuri Allah kandi ari we Nyaga
 
 # 147
 
-Cyangwa muvuga ko mu by’ukuri, Ibrahim, Ismail, Is’haq, Yaqub n’urubyaro rwe bari Abayahudi cyangwa Abanaswara[26]? Vuga (yewe Muhamadi) uti “Ese ni mwe mubizi cyane cyangwa ni Allah (ubizi kubarusha)?” Ni nde muhemu kurusha uhisha ubuhamya afite (buri mu gitabo cye) buturuka kwa Allah? Kandi Allah ntabwo ayobewe ibyo mukora.
+Cyangwa muvuga ko mu by’ukuri, Ibrahim, Ismail, Is’haq, Yaqub n’urubyaro rwe bari Abayahudi cyangwa Abanaswara[^26]? Vuga (yewe Muhamadi) uti “Ese ni mwe mubizi cyane cyangwa ni Allah (ubizi kubarusha)?” Ni nde muhemu kurusha uhisha ubuhamya afite (buri mu gitabo cye) buturuka kwa Allah? Kandi Allah ntabwo ayobewe ibyo mukora.
 
-[26] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
+[^26]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
 
 # 148
 
@@ -652,9 +654,9 @@ Uwo ni umuryango (Umat) wahise; ufite ibyo wakoze namwe mufite ibyo mwakoze (bur
 
 # 149
 
-Bamwe mu bantu badafite ubwenge bazavuga bati “Ni iki cyateye (Abayisilamu) kureka icyerekezo cyabo (Qibla)[27] bari basanzwe berekeramo basenga?” Vuga uti “Uburasirazuba n’Uburengerazuba ni ubwa Allah; ayobora uwo ashaka mu nzira igororotse.”
+Bamwe mu bantu badafite ubwenge bazavuga bati “Ni iki cyateye (Abayisilamu) kureka icyerekezo cyabo (Qibla)[^27] bari basanzwe berekeramo basenga?” Vuga uti “Uburasirazuba n’Uburengerazuba ni ubwa Allah; ayobora uwo ashaka mu nzira igororotse.”
 
-[27] Qibla: Ni icyerekezo Abayisilamu berekeramo basali. Mu gihe cya mbere berekeraga i Yeruzalemu nyuma yaho Allah abategeka guhindura bakajya basali berekeye ku ngoro ya Al Ka’aba i Maka. Ibyo byabaye mu mwaka wa kabiri nyuma y’uko Intumwa Muhamadi yimukiye i Madina.
+[^27]: Qibla: Ni icyerekezo Abayisilamu berekeramo basali. Mu gihe cya mbere berekeraga i Yeruzalemu nyuma yaho Allah abategeka guhindura bakajya basali berekeye ku ngoro ya Al Ka’aba i Maka. Ibyo byabaye mu mwaka wa kabiri nyuma y’uko Intumwa Muhamadi yimukiye i Madina.
 
 # 150
 
@@ -698,15 +700,15 @@ Ngaho nimunyibuke (munsingiza); nanjye nzabibuka (nzabazirikana). Kandi munshimi
 
 # 160
 
-Yemwe abemeye! Nimwifashishe ukwihangana n’iswala[28]. Mu by’ukuri, Allah ari kumwe n’abihangana (abatera inkunga ndetse anabafasha gutunganirwa).
+Yemwe abemeye! Nimwifashishe ukwihangana n’iswala[^28]. Mu by’ukuri, Allah ari kumwe n’abihangana (abatera inkunga ndetse anabafasha gutunganirwa).
 
-[28] Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
+[^28]: Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
 
 # 161
 
-Kandi ntimukavuge ko abishwe baguye mu rugamba rwo guharanira inzira ya Allah bapfuye, ahubwo ni bazima[29], nyamara mwe ntimubyiyumvisha.
+Kandi ntimukavuge ko abishwe baguye mu rugamba rwo guharanira inzira ya Allah bapfuye, ahubwo ni bazima[^29], nyamara mwe ntimubyiyumvisha.
 
-[29] Ubuzima buvugwa aha ni ubuzima bwa Roho y’uwapfuye mu nzira ya Allah, iyo roho ikomeza kubaho mu byishimo.
+[^29]: Ubuzima buvugwa aha ni ubuzima bwa Roho y’uwapfuye mu nzira ya Allah, iyo roho ikomeza kubaho mu byishimo.
 
 # 162
 
@@ -722,11 +724,13 @@ Abo bafite imigisha, impuhwe ndetse n’imbabazi bituruka kwa Nyagasani wabo, ka
 
 # 165
 
-Mu by’ukuri (imisozi ya) Swafa na Maruwa[30] ni bimwe mu bimenyetso bya Allah. Bityo uzakora umutambagiro mutagatifu wa Hija[31] cyangwa Umura[32] kuri iyo nzu (Al Kabat), nta cyo bitwaye kuri we kuyitambagira yombi (iyo misozi ya Swafa na Maruwa). N’uzakora ibyiza ku bushake bwe (amenye ko) Allah ari Ushima, Umumenyi uhebuje.
+Mu by’ukuri (imisozi ya) Swafa na Maruwa[^30] ni bimwe mu bimenyetso bya Allah. Bityo uzakora umutambagiro mutagatifu wa Hija[^31] cyangwa Umura[^32] kuri iyo nzu (Al Kabat), nta cyo bitwaye kuri we kuyitambagira yombi (iyo misozi ya Swafa na Maruwa). N’uzakora ibyiza ku bushake bwe (amenye ko) Allah ari Ushima, Umumenyi uhebuje.
 
-[30] Swafa na Maruwa: ni imisozi ibiri yegeranye n’umusigiti mutagatifu wa Maka.
-[31] Hija: Ni umutambagiro mutagatifu ku ngoro (Al Kaabat) ya Allah iri i Maka, ukahakora ibikorwa n’amagambo runaka hagamijwe kwiyegereza Allah mu gihe cyagenwe.
-[32] Umura: Ni ugusura ingoro ya Al Kaaba mu gihe icyo ari cyo cyose ukora ibikorwa byagenwe byo kwiyegereza Allah.
+[^30]: Swafa na Maruwa: ni imisozi ibiri yegeranye n’umusigiti mutagatifu wa Maka.
+
+[^31]: Hija: Ni umutambagiro mutagatifu ku ngoro (Al Kaabat) ya Allah iri i Maka, ukahakora ibikorwa n’amagambo runaka hagamijwe kwiyegereza Allah mu gihe cyagenwe.
+
+[^32]: Umura: Ni ugusura ingoro ya Al Kaaba mu gihe icyo ari cyo cyose ukora ibikorwa byagenwe byo kwiyegereza Allah.
 
 # 166
 
@@ -802,16 +806,17 @@ Ibyo (bihano) ni ukubera ko Allah yahishuye igitabo gikubiyemo ukuri (bakagihaka
 
 # 184
 
-Ibikorwa byiza ntabwo ari ukwerekeza gusa uburanga bwanyu ahagana iburasirazuba n’iburengerazuba (musali); ahubwo ukora ibyiza ni uwemera Allah, umunsi w’imperuka, abamalayika, ibitabo n’abahanuzi; akanatanga umutungo we mu nzira nziza kandi na we awukunze, afasha abo bafitanye isano, imfubyi, abakene, abari ku rugendo (bashiriwe) n’abasaba gufashwa, akabohoza abacakara, agahozaho iswala[33] (anazitunganya uko bikwiye), agatanga amaturo; abuzuza isezerano ryabo igihe basezeranye, abihanganira ubukene, uburwayi ndetse n’igihe urugamba rwakomeye. Abo ni bo bemeye by’ukuri, kandi ni na bo batinyamana (bya nyabyo).
+Ibikorwa byiza ntabwo ari ukwerekeza gusa uburanga bwanyu ahagana iburasirazuba n’iburengerazuba (musali); ahubwo ukora ibyiza ni uwemera Allah, umunsi w’imperuka, abamalayika, ibitabo n’abahanuzi; akanatanga umutungo we mu nzira nziza kandi na we awukunze, afasha abo bafitanye isano, imfubyi, abakene, abari ku rugendo (bashiriwe) n’abasaba gufashwa, akabohoza abacakara, agahozaho iswala[^33] (anazitunganya uko bikwiye), agatanga amaturo; abuzuza isezerano ryabo igihe basezeranye, abihanganira ubukene, uburwayi ndetse n’igihe urugamba rwakomeye. Abo ni bo bemeye by’ukuri, kandi ni na bo batinyamana (bya nyabyo).
 
-[33] Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
+[^33]: Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
 
 # 185
 
-Yemwe abemeye! Mwategetswe guhorera abishwe[34]; uwigenga agahorerwa uwigenga, umucakara agahorerwa umucakara n’umuntu w’igitsina gore agahorerwa undi w’igitsina gore. Ariko uwagira icyo ababarirwaho n’umuvandimwe we[35], (uwiciwe) azayikurikirane mu buryo bwiza, kandi (uwishe) na we azayitange ku neza. Uko ni ukoroherezwa n’impuhwe biturutse kwa Nyagasani wanyu. Uzarengera nyuma y’ibyo (agahora nyuma yo gutanga imbabazi no kwakira impozamarira), azahanishwa ibihano bibabaza.
+Yemwe abemeye! Mwategetswe guhorera abishwe[^34]; uwigenga agahorerwa uwigenga, umucakara agahorerwa umucakara n’umuntu w’igitsina gore agahorerwa undi w’igitsina gore. Ariko uwagira icyo ababarirwaho n’umuvandimwe we[^35], (uwiciwe) azayikurikirane mu buryo bwiza, kandi (uwishe) na we azayitange ku neza. Uko ni ukoroherezwa n’impuhwe biturutse kwa Nyagasani wanyu. Uzarengera nyuma y’ibyo (agahora nyuma yo gutanga imbabazi no kwakira impozamarira), azahanishwa ibihano bibabaza.
 
-[34] Guhora muri Isilamu (Qiswaasw) bisobanura guhanisha umuntu igihano gisa kandi kinahwanye n’ubugome yakoreye undi, hakurikijwe amategeko ya Isilamu, kandi bikanyura mu nzira y’ubutabera.
-[35] Uyu murongo uragaragaza ko hari ubwo hagati mu bantu habaho icyaha cyo kwica ubusanzwe igihano cyacyo ari uko uwishe nawe yicwa mu buryo yishemo, ariko hari ubwo habaho gutanga imbabazi ku wishe, icyo gihe rero iyo uhagarariye uwishwe ababariye uwishe ntiyihorere ahubwo akaka impozamarira, azazikurikirane ku neza, n’usabwa kuzishyura azitange mu buryo bwiza. Ikindi uyu murongo uratugaragariza ko Allah yise uwishe umuvandimwe w’uwishwe mu kwemera, bigaragaza ko icyaha gikuru icyo ari cyo cyose kitari ibangikanyamana muri Isilamu, kitagira uwagikoze umuhakanyi.
+[^34]: Guhora muri Isilamu (Qiswaasw) bisobanura guhanisha umuntu igihano gisa kandi kinahwanye n’ubugome yakoreye undi, hakurikijwe amategeko ya Isilamu, kandi bikanyura mu nzira y’ubutabera.
+
+[^35]: Uyu murongo uragaragaza ko hari ubwo hagati mu bantu habaho icyaha cyo kwica ubusanzwe igihano cyacyo ari uko uwishe nawe yicwa mu buryo yishemo, ariko hari ubwo habaho gutanga imbabazi ku wishe, icyo gihe rero iyo uhagarariye uwishwe ababariye uwishe ntiyihorere ahubwo akaka impozamarira, azazikurikirane ku neza, n’usabwa kuzishyura azitange mu buryo bwiza. Ikindi uyu murongo uratugaragariza ko Allah yise uwishe umuvandimwe w’uwishwe mu kwemera, bigaragaza ko icyaha gikuru icyo ari cyo cyose kitari ibangikanyamana muri Isilamu, kitagira uwagikoze umuhakanyi.
 
 # 186
 
@@ -819,9 +824,9 @@ Kandi yemwe abafite ubwenge, kubahiriza itegeko ryo guhora, bibaha ubuzima (ubuz
 
 # 187
 
-Mwategetswe ko igihe umwe muri mwe abona yegereje urupfu kandi hari umutungo afite, ajye atanga irage ku babyeyi[36] no ku bo bafitanye isano ya hafi mu buryo bwiza. (Ibyo) ni ngombwa ku batinya (Allah).
+Mwategetswe ko igihe umwe muri mwe abona yegereje urupfu kandi hari umutungo afite, ajye atanga irage ku babyeyi[^36] no ku bo bafitanye isano ya hafi mu buryo bwiza. (Ibyo) ni ngombwa ku batinya (Allah).
 
-[36] Uyu murongo utegeka ugiye gupfa gutanga irage ku babyeyi, wahishuwe mbere y’indi mirongo yo muri Qur’ani igena ibijyanye n’izungura. Nyuma y’aho imirongo y’izungura ihishuriwe yasimbuye itegeko ry’irage ku babyeyi n’abandi bagenerwa umugabane mu izungura, ariko irage risigaraho ku bafitanye isano n’uwatanze irage batagenewe umugabane mu izungura.
+[^36]: Uyu murongo utegeka ugiye gupfa gutanga irage ku babyeyi, wahishuwe mbere y’indi mirongo yo muri Qur’ani igena ibijyanye n’izungura. Nyuma y’aho imirongo y’izungura ihishuriwe yasimbuye itegeko ry’irage ku babyeyi n’abandi bagenerwa umugabane mu izungura, ariko irage risigaraho ku bafitanye isano n’uwatanze irage batagenewe umugabane mu izungura.
 
 # 188
 
@@ -857,9 +862,9 @@ Kandi ntimukarye imitungo ya bagenzi banyu mu buryo butemewe (nka ruswa, urusimb
 
 # 196
 
-Barakubaza (yewe Muhamadi) ku byerekeye imboneko z’ukwezi? Vuga uti “Ni ingengabihe ifasha abantu (kumenya gahunda z’ibikorwa) n’ibihe by’umutambagiro mutagatifu.” Kandi si byiza kwinjira mu mazu munyuze mu byanzu[37]. Ariko ukora ibyiza ni utinya Allah. Ahubwo mujye mwinjira mu mazu munyuze mu miryango yayo, munatinye Allah kugira ngo mukiranuke.
+Barakubaza (yewe Muhamadi) ku byerekeye imboneko z’ukwezi? Vuga uti “Ni ingengabihe ifasha abantu (kumenya gahunda z’ibikorwa) n’ibihe by’umutambagiro mutagatifu.” Kandi si byiza kwinjira mu mazu munyuze mu byanzu[^37]. Ariko ukora ibyiza ni utinya Allah. Ahubwo mujye mwinjira mu mazu munyuze mu miryango yayo, munatinye Allah kugira ngo mukiranuke.
 
-[37] Mbere ya Isilamu, abakoraga umutambagiro iyo babaga bamaze kwambara imyenda yabugenewe (Ihiramu), ntabwo bashoboraga kongera kwinjira mu mazu mbere yo gusoza igikorwa cy’umutambagiro. Iyo byabaga ngombwa ko bayinjiramo, bahitagamo kunyura mu zindi nzira batanyuze mu muryango.
+[^37]: Mbere ya Isilamu, abakoraga umutambagiro iyo babaga bamaze kwambara imyenda yabugenewe (Ihiramu), ntabwo bashoboraga kongera kwinjira mu mazu mbere yo gusoza igikorwa cy’umutambagiro. Iyo byabaga ngombwa ko bayinjiramo, bahitagamo kunyura mu zindi nzira batanyuze mu muryango.
 
 # 197
 
@@ -879,9 +884,9 @@ Munabarwanye (ba bandi babarwanya) kugeza ubwo nta toteza (nta rwango bazongera 
 
 # 201
 
-Ukwezi gutagatifu guhorwa ukwezi gutagatifu[38], n’ibiziririjwe byose birahorerwa (iyo byavogerewe ubusugire bwabyo). Bityo, uzabagirira nabi namwe muzamwiture inabi nk’iyo yabagiriye. Kandi mugandukire Allah munamenye ko mu by’ukuri Allah ari kumwe n’abamutinya.
+Ukwezi gutagatifu guhorwa ukwezi gutagatifu[^38], n’ibiziririjwe byose birahorerwa (iyo byavogerewe ubusugire bwabyo). Bityo, uzabagirira nabi namwe muzamwiture inabi nk’iyo yabagiriye. Kandi mugandukire Allah munamenye ko mu by’ukuri Allah ari kumwe n’abamutinya.
 
-[38] Amezi matagatifu hakurikijwe Kalendari ya Kisilamu ni “Ukwezi kwa karindwi (Rajabu), ukwa cumi na kumwe (Dhul Qaada), ukwa cumi n’abiri (Dhul Hija) n’ukwa mbere (Muharamu).
+[^38]: Amezi matagatifu hakurikijwe Kalendari ya Kisilamu ni “Ukwezi kwa karindwi (Rajabu), ukwa cumi na kumwe (Dhul Qaada), ukwa cumi n’abiri (Dhul Hija) n’ukwa mbere (Muharamu).
 
 # 202
 
@@ -889,9 +894,9 @@ Munatange mu nzira ya Allah, ariko ntimugashyire ubuzima bwanyu mu kaga. Munakor
 
 # 203
 
-Kandi mutunganye umutambagiro mutagatifu wa Hija na Umura[39] kubera Allah; Ariko nihabaho impamvu ituma mutabikomeza (mwari mwabitangiye), muzatange igitambo kiboroheye. Kandi ntimukogoshe imisatsi yanyu kugeza igihe itungo ry’igitambo rigereye aho ribagirwa. Ariko uzaba arwaye muri mwe cyangwa afite ikimubangamiye ku mutwe we (gituma yogosha umusatsi), agomba gutanga incungu yo gusiba, ituro cyangwa se kubaga itungo. N’igihe muzaba mutekanye, uzaba arangije gukora umutambagiro mutagatifu wa Umura yaziruriwe ibyari biziririjwe kuri we mu gihe ategereje gukora umutambagiro mutagatifu wa Hija, azatange igitambo kimworoheye, naho utazakibona azasibe iminsi itatu akiri mu mutambagiro mutagatifu wa Hija n’iminsi irindwi igihe muzaba mugarutse iwanyu. Iyo ni iminsi icumi yuzuye (mugomba gusiba). Ibyo ni kuri wa wundi umuryango we udatuye i Maka. Kandi mugandukire Allah, munamenye ko Allah ari Nyiribihano bikaze.
+Kandi mutunganye umutambagiro mutagatifu wa Hija na Umura[^39] kubera Allah; Ariko nihabaho impamvu ituma mutabikomeza (mwari mwabitangiye), muzatange igitambo kiboroheye. Kandi ntimukogoshe imisatsi yanyu kugeza igihe itungo ry’igitambo rigereye aho ribagirwa. Ariko uzaba arwaye muri mwe cyangwa afite ikimubangamiye ku mutwe we (gituma yogosha umusatsi), agomba gutanga incungu yo gusiba, ituro cyangwa se kubaga itungo. N’igihe muzaba mutekanye, uzaba arangije gukora umutambagiro mutagatifu wa Umura yaziruriwe ibyari biziririjwe kuri we mu gihe ategereje gukora umutambagiro mutagatifu wa Hija, azatange igitambo kimworoheye, naho utazakibona azasibe iminsi itatu akiri mu mutambagiro mutagatifu wa Hija n’iminsi irindwi igihe muzaba mugarutse iwanyu. Iyo ni iminsi icumi yuzuye (mugomba gusiba). Ibyo ni kuri wa wundi umuryango we udatuye i Maka. Kandi mugandukire Allah, munamenye ko Allah ari Nyiribihano bikaze.
 
-[39]Reba igisobanuro cy’ijambo Umura ku murongo (Ayat) wa 158 muri iyi Surat.
+[^39]: Reba igisobanuro cy’ijambo Umura ku murongo (Ayat) wa 158 muri iyi Surat.
 
 # 204
 
@@ -919,9 +924,9 @@ Abo (basaba batyo) bazagira umugabane (ingororano) mu byo bakoze. Kandi Allah ni
 
 # 210
 
-Munasingize Allah mu minsi mbarwa[40]. Ariko uzagira ubwira akahamara iminsi ibiri, nta cyaha kuri we, n’uzatinda (kuva Mina) nta cyaha kuri we, kuri wa wundi utinya Allah. Munatinye Allah kandi mumenye ko iwe ari ho muzakoranyirizwa.
+Munasingize Allah mu minsi mbarwa[^40]. Ariko uzagira ubwira akahamara iminsi ibiri, nta cyaha kuri we, n’uzatinda (kuva Mina) nta cyaha kuri we, kuri wa wundi utinya Allah. Munatinye Allah kandi mumenye ko iwe ari ho muzakoranyirizwa.
 
-[40] Iminsi mbarwa: ni iminsi itatu y’ukwezi kwa cumi n’abiri (Dhul Hija) kw’ikirangaminsi cya Kisilamu gishingiye ku mboneka z’ukwezi, ari yo matariki ya 11,12 na 13. Abagiye gukora umutambagiro mutagatifu (Abahaji) bamara ahitwa Mina.
+[^40]: Iminsi mbarwa: ni iminsi itatu y’ukwezi kwa cumi n’abiri (Dhul Hija) kw’ikirangaminsi cya Kisilamu gishingiye ku mboneka z’ukwezi, ari yo matariki ya 11,12 na 13. Abagiye gukora umutambagiro mutagatifu (Abahaji) bamara ahitwa Mina.
 
 # 211
 
@@ -985,9 +990,9 @@ Mu by’ukuri, ba bandi bemeye n’abimutse (kubera idini ryabo) bakanaharanira 
 
 # 226
 
-Barakubaza ku byerekeye ibisindisha n’urusimbi. Vuga uti “Muri byombi harimo ingaruka zikomeye n’inyungu ku bantu[41], ariko ingaruka zabyo ni zo zikomeye kurusha inyungu zabyo. Baranakubaza ibyo batanga (igipimo cy’ituro). Vuga uti “Ni ibisagutse (ku byo mukeneye).” Uko ni ko Allah abasobanurira amategeko kugira ngo mutekereze (ku bibafitiye akamaro),
+Barakubaza ku byerekeye ibisindisha n’urusimbi. Vuga uti “Muri byombi harimo ingaruka zikomeye n’inyungu ku bantu[^41], ariko ingaruka zabyo ni zo zikomeye kurusha inyungu zabyo. Baranakubaza ibyo batanga (igipimo cy’ituro). Vuga uti “Ni ibisagutse (ku byo mukeneye).” Uko ni ko Allah abasobanurira amategeko kugira ngo mutekereze (ku bibafitiye akamaro),
 
-[41] Mu ntangiriro za Isilamu, inzoga n’urusimbi byari bitaraziririzwa ariko nyuma y’uko hahishuwe umurongo wa 90 wo muri Surat ul Maidat, byahise biziririzwa burundu.
+[^41]: Mu ntangiriro za Isilamu, inzoga n’urusimbi byari bitaraziririzwa ariko nyuma y’uko hahishuwe umurongo wa 90 wo muri Surat ul Maidat, byahise biziririzwa burundu.
 
 # 227
 
@@ -1003,9 +1008,9 @@ Baranakubaza (yewe Muhamadi) ku byerekeranye n’imihango y’abagore, vuga uti 
 
 # 230
 
-Abagore banyu ni imirima yanyu. Ngaho nimujye mu mirima yanyu uko mushaka[42], muniteganyirize (ibyiza) ndetse munagandukire Allah. Kandi rwose mumenye ko muzahura na We. Unageze (yewe Muhamadi) inkuru nziza ku bemeramana.
+Abagore banyu ni imirima yanyu. Ngaho nimujye mu mirima yanyu uko mushaka[^42], muniteganyirize (ibyiza) ndetse munagandukire Allah. Kandi rwose mumenye ko muzahura na We. Unageze (yewe Muhamadi) inkuru nziza ku bemeramana.
 
-[42] Imirima ni ahantu umuntu abiba imbuto zikamera. Bityo Allah yagereranyije igitsina cy’umugore nk’umurima kuko ari ahashyirwa intanga ngabo zikazavamo abana; bityo ntibyemewe gukorera imibonano mpuzabitsina ahandi hatari aho.
+[^42]: Imirima ni ahantu umuntu abiba imbuto zikamera. Bityo Allah yagereranyije igitsina cy’umugore nk’umurima kuko ari ahashyirwa intanga ngabo zikazavamo abana; bityo ntibyemewe gukorera imibonano mpuzabitsina ahandi hatari aho.
 
 # 231
 
@@ -1037,9 +1042,9 @@ Kandi namusenda (ku nshuro ya gatatu), icyo gihe ntabwo azaba amuziruriwe nyuma 
 
 # 238
 
-Kandi nimusenda abagore maze bakegereza irangira ry’igihe cyabo[43], muzabagarure ku neza cyangwa mubasende ku neza. Ntimukanabagarure mugamije kubagirira nabi mukaba murengereye. Uzakora ibyo azaba yihemukiye. Kandi ntimukagire amategeko ya Allah igikinisho. Munibuke ingabire za Allah kuri mwe, n’ibyo yabahishuriye mu gitabo (Qur’an) n’imigenzo y’Intumwa abaheramo inyigisho. Bityo, mugandukire Allah munamenye ko Allah ari Umumenyi wa byose.
+Kandi nimusenda abagore maze bakegereza irangira ry’igihe cyabo[^43], muzabagarure ku neza cyangwa mubasende ku neza. Ntimukanabagarure mugamije kubagirira nabi mukaba murengereye. Uzakora ibyo azaba yihemukiye. Kandi ntimukagire amategeko ya Allah igikinisho. Munibuke ingabire za Allah kuri mwe, n’ibyo yabahishuriye mu gitabo (Qur’an) n’imigenzo y’Intumwa abaheramo inyigisho. Bityo, mugandukire Allah munamenye ko Allah ari Umumenyi wa byose.
 
-[43] Igihe cyabo kigamijwe ni ukuba umugore yahawe n’umugabo we ubutane, akaguma mu rugo igihe cy’imihango itatu, cyangwa akamara amezi atatu ku batari bajya mu mihango n’abatakiyijyamo. Naho yaba atwite akabanza akabyara.
+[^43]: Igihe cyabo kigamijwe ni ukuba umugore yahawe n’umugabo we ubutane, akaguma mu rugo igihe cy’imihango itatu, cyangwa akamara amezi atatu ku batari bajya mu mihango n’abatakiyijyamo. Naho yaba atwite akabanza akabyara.
 
 # 239
 
@@ -1067,21 +1072,21 @@ Nimunabaha ubutane mbere y’uko mukorana imibonano mpuzabitsina na bo kandi mwa
 
 # 245
 
-Mujye muhozaho iswala (z’itegeko)[44], by’umwihariko iswala yo hagati (al Aswir). Kandi mujye muhagarara (mu iswala) mwibombaritse imbere ya Allah.
+Mujye muhozaho iswala (z’itegeko)[^44], by’umwihariko iswala yo hagati (al Aswir). Kandi mujye muhagarara (mu iswala) mwibombaritse imbere ya Allah.
 
-[44] Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
+[^44]: Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
 
 # 246
 
-N’igihe muzaba mufite ubwoba (mutinya umwanzi), mujye mukora iswala[45] mugenda n’amaguru cyangwa muri ku bigenderwaho. Igihe mutekanye, mujye musingiza Allah (musali) nk’uko yabigishije ibyo mutari muzi.
+N’igihe muzaba mufite ubwoba (mutinya umwanzi), mujye mukora iswala[^45] mugenda n’amaguru cyangwa muri ku bigenderwaho. Igihe mutekanye, mujye musingiza Allah (musali) nk’uko yabigishije ibyo mutari muzi.
 
-[45] Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
+[^45]: Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
 
 # 247
 
-N’abazapfa muri mwe bagasiga abagore, bajye (basiga) umurage (ugaragaza ibizatunga) abagore babo mu gihe kingana n’umwaka badasohowe (mu ngo zabo). Ariko nibava mu ngo zabo ku bushake, nta cyaha kuri mwe (abazungura) baramutse bagize ibyo bakora igihe cyose bitanyuranyije n’amategeko (nko kuba bashaka abagabo mbere y’uko umwaka urangira).[46] Kandi Allah ni Umunyacyubahiro bihebuje, Nyirubugenge buhambaye
+N’abazapfa muri mwe bagasiga abagore, bajye (basiga) umurage (ugaragaza ibizatunga) abagore babo mu gihe kingana n’umwaka badasohowe (mu ngo zabo). Ariko nibava mu ngo zabo ku bushake, nta cyaha kuri mwe (abazungura) baramutse bagize ibyo bakora igihe cyose bitanyuranyije n’amategeko (nko kuba bashaka abagabo mbere y’uko umwaka urangira).[^46] Kandi Allah ni Umunyacyubahiro bihebuje, Nyirubugenge buhambaye
 
-[46] Itegeko rivugwa muri uyu murongo ryo kuba umugore wapfushije umugabo agomba kuguma mu rugo rw’umugabo we umwaka wose, ryasimbuwe n’itegeko rivuga ko umugore wapfushije umugabo agomba kuguma mu rugo rw’umugabo we mu gihe cy’amezi ane n’iminsi icumi, nkuko rigaragara mu murongo wa 234 muri iyi Surat.
+[^46]: Itegeko rivugwa muri uyu murongo ryo kuba umugore wapfushije umugabo agomba kuguma mu rugo rw’umugabo we umwaka wose, ryasimbuwe n’itegeko rivuga ko umugore wapfushije umugabo agomba kuguma mu rugo rw’umugabo we mu gihe cy’amezi ane n’iminsi icumi, nkuko rigaragara mu murongo wa 234 muri iyi Surat.
 
 # 248
 
@@ -1141,9 +1146,9 @@ Yemwe abemeye! Mutange mu byo twabahaye mbere y’uko hagera umunsi utazabaho ub
 
 # 262
 
-Allah (ni we Mana y’ukuri) nta yindi mana ikwiye gusengwa by’ukuri uretse We, Uhoraho (Nyirubuzima bwuzuye buzira inenge), Uwigize, akanabeshaho ibiriho byose. Ntafatwa no guhunyiza habe n’ibitotsi. Ibiri mu birere n’ibiri mu isi ni ibye. Ni inde wagira uwo avuganira iwe uretse ku burenganzira bwe? Azi ibyababayeho (ku isi) n’ibizababaho (ku mperuka). Kandi nta n’icyo bamenya mu bumenyi bwe uretse icyo ashaka. Kursiyu[47] ye ikwiriye ibirere n’isi, kandi ntananizwa no kubirinda (ibirere n’isi). Ni na We Uwikirenga, Uhambaye.
+Allah (ni we Mana y’ukuri) nta yindi mana ikwiye gusengwa by’ukuri uretse We, Uhoraho (Nyirubuzima bwuzuye buzira inenge), Uwigize, akanabeshaho ibiriho byose. Ntafatwa no guhunyiza habe n’ibitotsi. Ibiri mu birere n’ibiri mu isi ni ibye. Ni inde wagira uwo avuganira iwe uretse ku burenganzira bwe? Azi ibyababayeho (ku isi) n’ibizababaho (ku mperuka). Kandi nta n’icyo bamenya mu bumenyi bwe uretse icyo ashaka. Kursiyu[^47] ye ikwiriye ibirere n’isi, kandi ntananizwa no kubirinda (ibirere n’isi). Ni na We Uwikirenga, Uhambaye.
 
-[47] Nk’uko ijambo Kursiyu ryasobanuwe n’umusangirangendo w’Intumwa y’Imana Muhamadi (Imana imuhe amahoro n’imigisha) witwa Ibun Abass (Imana imwishimire), ni ahantu Allah ashyira ibirenge bye bijyanye n’icyubahiro cye n’ubuhambare bwe, tutagereranya cyangwa ngo dusanishe n’iby’ibiremwa.
+[^47]: Nk’uko ijambo Kursiyu ryasobanuwe n’umusangirangendo w’Intumwa y’Imana Muhamadi (Imana imuhe amahoro n’imigisha) witwa Ibun Abass (Imana imwishimire), ni ahantu Allah ashyira ibirenge bye bijyanye n’icyubahiro cye n’ubuhambare bwe, tutagereranya cyangwa ngo dusanishe n’iby’ibiremwa.
 
 # 263
 
@@ -1223,9 +1228,9 @@ Ba bandi batanga imitungo yabo ijoro n’amanywa, mu ibanga ndetse no ku mugarag
 
 # 282
 
-Ba bandi barya Riba[48] bazazuka bameze nk’uwahanzweho n’amashitani. Ibyo ni ukubera ko bavuze bati “Mu by’ukuri, Riba ni kimwe n’ubucuruzi.” Nyamara Allah yaziruye ubucuruzi aziririza Riba. Cyakora uzagerwaho n’inyigisho ziturutse kwa Nyagasani we akayireka, yemerewe kugumana umutungo yakuye muri Riba mbere y’iziririzwa ryayo, ndetse ibye (mu gihe asigaje kubaho) bizwi na Allah. Naho abazakomeza (kurya Riba), abo ni abantu bo mu muriro, bazawubamo ubuziraherezo.
+Ba bandi barya Riba[^48] bazazuka bameze nk’uwahanzweho n’amashitani. Ibyo ni ukubera ko bavuze bati “Mu by’ukuri, Riba ni kimwe n’ubucuruzi.” Nyamara Allah yaziruye ubucuruzi aziririza Riba. Cyakora uzagerwaho n’inyigisho ziturutse kwa Nyagasani we akayireka, yemerewe kugumana umutungo yakuye muri Riba mbere y’iziririzwa ryayo, ndetse ibye (mu gihe asigaje kubaho) bizwi na Allah. Naho abazakomeza (kurya Riba), abo ni abantu bo mu muriro, bazawubamo ubuziraherezo.
 
-[48]Riba: Ni inyito ya Kisilamu isobanura indonke iboneka mu gufatirana umuntu ushaka inguzanyo, ukamwaka inyungu.
+[^48]: Riba: Ni inyito ya Kisilamu isobanura indonke iboneka mu gufatirana umuntu ushaka inguzanyo, ukamwaka inyungu.
 
 # 283
 
@@ -1233,9 +1238,9 @@ Allah akura umugisha mu mutungo urimo Riba, agatubura amaturo, kandi Allah ntaku
 
 # 284
 
-Mu by’ukuri ba bandi bemeye bagakora ibikorwa byiza, bagahozaho iswala (bazitunganya uko bikwiye)[49], bakanatanga amaturo, bazagororerwa ibihembo byabo kwa Nyagasani wabo, kandi nta bwoba bazagira, habe n’agahinda.
+Mu by’ukuri ba bandi bemeye bagakora ibikorwa byiza, bagahozaho iswala (bazitunganya uko bikwiye)[^49], bakanatanga amaturo, bazagororerwa ibihembo byabo kwa Nyagasani wabo, kandi nta bwoba bazagira, habe n’agahinda.
 
-[49] Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
+[^49]: Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
 
 # 285
 
@@ -1275,9 +1280,9 @@ Allah ntawe ategeka icyo adashoboye. (Umuntu) ahemberwa ibyo yakoze akanahanirwa
 
 # 294
 
-Alif Laam Miim[50].
+Alif Laam Miim[^50].
 
-[50] Alif Laam Miim: Inyuguti nk’izi twazivuzeho mu ntangiriro ya Surat Al Baqarat.
+[^50]: Alif Laam Miim: Inyuguti nk’izi twazivuzeho mu ntangiriro ya Surat Al Baqarat.
 
 # 295
 
@@ -1417,9 +1422,9 @@ Ibuka (yewe Muhamadi) ubwo umugore wa Imurani yavugaga ati “Nyagasani wanjye! 
 
 # 329
 
-Nuko amaze kumwibaruka, aravuga ati “Nyagasani wanjye! Mu by’ukuri, nibarutse umwana w’umukobwa” -nyamara Allah yari azi neza icyo yibarutse- “kandi umuhungu si nk’umukobwa[51], kandi mu by’ukuri namwise Mariyamu (Mariya). Rwose ndamukuragije n’urubyaro rwe, ngo ubarinde Shitani wavumwe.”
+Nuko amaze kumwibaruka, aravuga ati “Nyagasani wanjye! Mu by’ukuri, nibarutse umwana w’umukobwa” -nyamara Allah yari azi neza icyo yibarutse- “kandi umuhungu si nk’umukobwa[^51], kandi mu by’ukuri namwise Mariyamu (Mariya). Rwose ndamukuragije n’urubyaro rwe, ngo ubarinde Shitani wavumwe.”
 
-[51] Haba mu kwiyegurira Imana n'iswala zihozwaho mu bihe byose, umwana w’umuhungu ntabwo ari kimwe n’uw’umukobwa. Banatandukanye kandi no mu mbaraga z'umubiri mu kwitangira urusengero rwa Yeruzalemu no kurukorera.
+[^51]: Haba mu kwiyegurira Imana n'iswala zihozwaho mu bihe byose, umwana w’umuhungu ntabwo ari kimwe n’uw’umukobwa. Banatandukanye kandi no mu mbaraga z'umubiri mu kwitangira urusengero rwa Yeruzalemu no kurukorera.
 
 # 330
 
@@ -1431,9 +1436,9 @@ Aho ni ho Zakariya yasabye Nyagasani we agira ati “Nyagasani wanjye! Mpa uruby
 
 # 332
 
-Ubwo (Zakariya) yari ahagaze asali mu cyumba cy’iswala[52], abamalayika baramuhamagaye baramubwira bati “Allah aguhaye inkuru nziza yo kuzabyara umwana w’umuhungu (uzitwa) Yahaya, uzahamya ijambo riturutse kwa Allah (iremwa rya Yesu), akazaba umunyacyubahiro, utazashaka umugore ndetse akazaba umuhanuzi n’umwe mu ntungane.”
+Ubwo (Zakariya) yari ahagaze asali mu cyumba cy’iswala[^52], abamalayika baramuhamagaye baramubwira bati “Allah aguhaye inkuru nziza yo kuzabyara umwana w’umuhungu (uzitwa) Yahaya, uzahamya ijambo riturutse kwa Allah (iremwa rya Yesu), akazaba umunyacyubahiro, utazashaka umugore ndetse akazaba umuhanuzi n’umwe mu ntungane.”
 
-[52] Reba uko twasobanuye umurongo wa 3 muri Surat Al Baqarat.
+[^52]: Reba uko twasobanuye umurongo wa 3 muri Surat Al Baqarat.
 
 # 333
 
@@ -1457,9 +1462,9 @@ Izo ni zimwe mu nkuru z’ibyihishe tuguhishurira (yewe Muhamadi). Kandi ntabwo 
 
 # 338
 
-Ibuka ubwo Malayika yavugaga ati “Yewe Mariyamu! Mu by’ukuri, Allah aguhaye inkuru nziza y’ijambo rimuturutseho[53] (ry’uko uzabyara umwana w’umuhungu). Izina rye ni Masihi Issa (Yesu) mwene Mariyamu. Azaba umunyacyubahiro ku isi no ku mperuka, kandi azaba mu bari hafi ya Allah.”
+Ibuka ubwo Malayika yavugaga ati “Yewe Mariyamu! Mu by’ukuri, Allah aguhaye inkuru nziza y’ijambo rimuturutseho[^53] (ry’uko uzabyara umwana w’umuhungu). Izina rye ni Masihi Issa (Yesu) mwene Mariyamu. Azaba umunyacyubahiro ku isi no ku mperuka, kandi azaba mu bari hafi ya Allah.”
 
-[53] Ijambo riturutse kwa Allah: Ni "Ba"- bikaba- bisobanuye ivuka rya Yesu kuri Mariya adafite umugabo.
+[^53]: Ijambo riturutse kwa Allah: Ni "Ba"- bikaba- bisobanuye ivuka rya Yesu kuri Mariya adafite umugabo.
 
 # 339
 
@@ -1547,9 +1552,9 @@ Dore mwagiye impaka ku byo mufitiye ubumenyi (ubuhanuzi bwa Muhamadi)! None se k
 
 # 360
 
-Aburahamu ntiyari Umuyahudi cyangwa Umunaswara[54], ahubwo yasengaga Imana imwe rukumbi akanicisha bugufi ku mategeko yayo (Umuyisilamu); kandi ntabwo yari mu babangikanyamana.
+Aburahamu ntiyari Umuyahudi cyangwa Umunaswara[^54], ahubwo yasengaga Imana imwe rukumbi akanicisha bugufi ku mategeko yayo (Umuyisilamu); kandi ntabwo yari mu babangikanyamana.
 
-[54] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat
+[^54]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat
 
 # 361
 
@@ -1581,9 +1586,9 @@ Kandi ntimuzagire uwo mwizera uretse ukurikira idini ryanyu. Vuga (yewe Muhamadi
 
 # 368
 
-No mu bahawe igitabo, hari uwo waragiza umutungo utubutse akawugusubiza, no muri bo kandi harimo uwo waragiza idinari[55] ntarigusubize, keretse ubanje kumutitiriza (umwishyuza ubudahwema). Ibyo babiterwa n’uko bavuze bati “Nta nkurikizi kuri twe mu guhemukira abadasobanukiwe (abatari twe).” Bakanabeshyera Allah (ko yabibaziruriye) kandi babizi (ko babeshya).
+No mu bahawe igitabo, hari uwo waragiza umutungo utubutse akawugusubiza, no muri bo kandi harimo uwo waragiza idinari[^55] ntarigusubize, keretse ubanje kumutitiriza (umwishyuza ubudahwema). Ibyo babiterwa n’uko bavuze bati “Nta nkurikizi kuri twe mu guhemukira abadasobanukiwe (abatari twe).” Bakanabeshyera Allah (ko yabibaziruriye) kandi babizi (ko babeshya).
 
-[55]Idinari: Ni igipimo cya zahabu cyakoreshwaga mu bihe byo hambere nk’ifaranga.
+[^55]: Idinari: Ni igipimo cya zahabu cyakoreshwaga mu bihe byo hambere nk’ifaranga.
 
 # 369
 
@@ -2095,9 +2100,9 @@ Munahe imfubyi (zimaze kugimbuka) imitungo yazo, kandi ikibi (mu mitungo yanyu) 
 
 # 496
 
-Kandi nimutinya kutagirira ubutabera imfubyi[56] (muzareke kuzishaka) ahubwo murongore abandi bagore babashimishije, (baba) babiri, batatu cyangwa bane; ariko nimutinya kutazagira ubutabera hagati yabo, (muzarongore) umwe gusa cyangwa abaja banyu. Ibyo ni byo byegereye kutarengera kwanyu.
+Kandi nimutinya kutagirira ubutabera imfubyi[^56] (muzareke kuzishaka) ahubwo murongore abandi bagore babashimishije, (baba) babiri, batatu cyangwa bane; ariko nimutinya kutazagira ubutabera hagati yabo, (muzarongore) umwe gusa cyangwa abaja banyu. Ibyo ni byo byegereye kutarengera kwanyu.
 
-[56] Kutagira ubutabera kugamijwe aha ni ukurongora umukobwa w’imfubyi urera, utamuhaye inkwano ze nk’abandi.
+[^56]: Kutagira ubutabera kugamijwe aha ni ukurongora umukobwa w’imfubyi urera, utamuhaye inkwano ze nk’abandi.
 
 # 497
 
@@ -2145,15 +2150,15 @@ Naho uzigomeka kuri Allah n’Intumwa Ye akanarengera imbago ze, azamwinjiza mu 
 
 # 508
 
-Na ba bandi mu bagore banyu bazakora ibikozasoni (ubusambanyi), muzabishakire abahamya bane muri mwe babibashinje. Nibabihamya, muzabafungirane mu ngo zanyu (ntibagire aho bajya) kugeza bapfuye cyangwa se Allah akabagenera ubundi buryo[57].
+Na ba bandi mu bagore banyu bazakora ibikozasoni (ubusambanyi), muzabishakire abahamya bane muri mwe babibashinje. Nibabihamya, muzabafungirane mu ngo zanyu (ntibagire aho bajya) kugeza bapfuye cyangwa se Allah akabagenera ubundi buryo[^57].
 
-[57] Ubundi buryo buvugwa muri uyu murongo, ni igihano cyo guterwa amabuye gihanishwa umugore wasambanye yarashatse umugabo, kikaba cyarashyizweho gisimbura icyo kubafungirana mu ngo kugeza bapfuye.
+[^57]: Ubundi buryo buvugwa muri uyu murongo, ni igihano cyo guterwa amabuye gihanishwa umugore wasambanye yarashatse umugabo, kikaba cyarashyizweho gisimbura icyo kubafungirana mu ngo kugeza bapfuye.
 
 # 509
 
-Na babiri (umusore n’umukobwa bakiri ingaragu) muri mwe bazakora ubusambanyi muzababuze amahoro (mubagaya mu ruhame)[58]. Nibicuza bagakora ibikorwa byiza, muzabihorere. Mu by’ukuri, Allah ni Uwakira ukwicuza, Nyirimbabazi.
+Na babiri (umusore n’umukobwa bakiri ingaragu) muri mwe bazakora ubusambanyi muzababuze amahoro (mubagaya mu ruhame)[^58]. Nibicuza bagakora ibikorwa byiza, muzabihorere. Mu by’ukuri, Allah ni Uwakira ukwicuza, Nyirimbabazi.
 
-[58] Igihano cyo kugaya mu ruhame cyakorerwaga abakiri ingaragu bakoze ubusambanyi kivugwa muri uyu murongo, cyaje gusimburwa n’igihano cyo kubakubita inkoni ijana buri wese nk’uko kigaragara muri Surat Nur (24), umurongo wayo wa 2.
+[^58]: Igihano cyo kugaya mu ruhame cyakorerwaga abakiri ingaragu bakoze ubusambanyi kivugwa muri uyu murongo, cyaje gusimburwa n’igihano cyo kubakubita inkoni ijana buri wese nk’uko kigaragara muri Surat Nur (24), umurongo wayo wa 2.
 
 # 510
 
@@ -2221,9 +2226,9 @@ Kandi ntimukifuze ibyo Allah yahaye bamwe muri mwe kurusha abandi. Abagabo bazah
 
 # 526
 
-Na buri wese twamugeneye abazungura mu byo asize; ari bo babyeyi bombi ndetse n’abo bafitanye isano. Na ba bandi mwagiranye igihango, mujye mubaha umugabane wabo[59]. Mu by’ukuri, Allah ni Umuhamya uhebuje wa buri kintu.
+Na buri wese twamugeneye abazungura mu byo asize; ari bo babyeyi bombi ndetse n’abo bafitanye isano. Na ba bandi mwagiranye igihango, mujye mubaha umugabane wabo[^59]. Mu by’ukuri, Allah ni Umuhamya uhebuje wa buri kintu.
 
-[59] Mbere y’ihishurwa ry’imirongo ya Qur’an igaragaza amategeko agenga izungura rishingiye ku isano ry’amaraso, hari ho kuzungurana hagati y’abimukira bavuye i Maka n’ababakiriye i Madina kubera amasezerano y’igihango bari baragiranye. Ariko aho amategeko agenga izungura ahishuriwe muri Qur’an, yasimbuye ubwo buryo bw’izungura rishingiye ku gihango.
+[^59]: Mbere y’ihishurwa ry’imirongo ya Qur’an igaragaza amategeko agenga izungura rishingiye ku isano ry’amaraso, hari ho kuzungurana hagati y’abimukira bavuye i Maka n’ababakiriye i Madina kubera amasezerano y’igihango bari baragiranye. Ariko aho amategeko agenga izungura ahishuriwe muri Qur’an, yasimbuye ubwo buryo bw’izungura rishingiye ku gihango.
 
 # 527
 
@@ -2263,10 +2268,11 @@ Kuri uwo munsi, ba bandi bahakanye bakanigomeka ku ntumwa (Muhamadi) bazifuza ko
 
 # 536
 
-Yemwe abemeye! Ntimukegere isengesho mwasinze[60] kugeza igihe musobanukiwe ibyo muvuga (mugaruye ubwenge) ndetse n’igihe mufite Janaba (mwagiranye imibonano n’abagore banyu cyangwa mwasohotswemo n’intanga mukaba mutariyuhagira) -keretse abanyura mu musigiti bitambukira cyangwa se abari ku rugendo-; kugeza mwiyuhagiye umubiri wose. Kandi nimuba murwaye cyangwa muri ku rugendo, cyangwa se umwe muri mwe avuye mu bwiherero, cyangwa mwabonanye n’abagore banyu ntimubone amazi, mujye mukora Tayamumu[61] mwisukure mukoresheje igitaka gisukuye, mugihanaguze uburanga bwanyu no ku maboko yanyu (ku biganza byanyu). Mu by’ukuri, Allah ni Uhanaguraho ibyaha, Umunyembabazi.
+Yemwe abemeye! Ntimukegere isengesho mwasinze[^60] kugeza igihe musobanukiwe ibyo muvuga (mugaruye ubwenge) ndetse n’igihe mufite Janaba (mwagiranye imibonano n’abagore banyu cyangwa mwasohotswemo n’intanga mukaba mutariyuhagira) -keretse abanyura mu musigiti bitambukira cyangwa se abari ku rugendo-; kugeza mwiyuhagiye umubiri wose. Kandi nimuba murwaye cyangwa muri ku rugendo, cyangwa se umwe muri mwe avuye mu bwiherero, cyangwa mwabonanye n’abagore banyu ntimubone amazi, mujye mukora Tayamumu[^61] mwisukure mukoresheje igitaka gisukuye, mugihanaguze uburanga bwanyu no ku maboko yanyu (ku biganza byanyu). Mu by’ukuri, Allah ni Uhanaguraho ibyaha, Umunyembabazi.
 
-[60] Muri uyu murongo kunywa inzoga byari bitaraziririzwa, nyuma haza guhishurwa imirongo iziziririza burundu.
-[61] Tayamumu : Ni ijambo risobanura kwisukuza igitaka cyangwa umucanga bisukuye, mu kigwi cyo gukoresha amazi iyo byabaye ngombwa.
+[^60]: Muri uyu murongo kunywa inzoga byari bitaraziririzwa, nyuma haza guhishurwa imirongo iziziririza burundu.
+
+[^61]: Tayamumu : Ni ijambo risobanura kwisukuza igitaka cyangwa umucanga bisukuye, mu kigwi cyo gukoresha amazi iyo byabaye ngombwa.
 
 # 537
 
@@ -2290,9 +2296,9 @@ Mu by’ukuri, Allah ntababarira icyaha cyo kumubangikanya, ahubwo ababarira (ib
 
 # 542
 
-Ese ntiwamenye (yewe Muhamadi) ba bandi bigira abere? Nyamara Allah yeza uwo ashaka, kandi ntibazahuguzwa (ibyiza bakoze) kabone n’iyo byaba Fatiila[62].
+Ese ntiwamenye (yewe Muhamadi) ba bandi bigira abere? Nyamara Allah yeza uwo ashaka, kandi ntibazahuguzwa (ibyiza bakoze) kabone n’iyo byaba Fatiila[^62].
 
-[62] Fatiila: umuzi muto ungana n’akadodo uba mu rubuto rw’itende
+[^62]: Fatiila: umuzi muto ungana n’akadodo uba mu rubuto rw’itende
 
 # 543
 
@@ -2404,10 +2410,11 @@ Abemera barwana mu nzira ya Allah, naho abahakanyi bakarwana mu nzira ya Shitani
 
 # 570
 
-Ese ntiwamenye (yewe Muhamadi) ba bandi babwiwe bati “Mureke kurwana ahubwo muhozeho iswala[63], munatange amaturo”, ariko ubwo bategekwaga kurwana, ni bwo agatsiko muri bo katinye abantu nk’uko kagatinye Allah cyangwa se birenzeho. Karavuga kati “Nyagasani wacu! Kuki udutegetse kurwana? Iyaba wari uturetseho igihe gito!” Vuga uti “Ibyishimo by’isi ni iby’igihe gito, naho imperuka ni nziza k’utinya (Allah), kandi ntimuzahuguzwa habe na Fatiila [64]”
+Ese ntiwamenye (yewe Muhamadi) ba bandi babwiwe bati “Mureke kurwana ahubwo muhozeho iswala[^63], munatange amaturo”, ariko ubwo bategekwaga kurwana, ni bwo agatsiko muri bo katinye abantu nk’uko kagatinye Allah cyangwa se birenzeho. Karavuga kati “Nyagasani wacu! Kuki udutegetse kurwana? Iyaba wari uturetseho igihe gito!” Vuga uti “Ibyishimo by’isi ni iby’igihe gito, naho imperuka ni nziza k’utinya (Allah), kandi ntimuzahuguzwa habe na Fatiila [^64]”
 
-[63] Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
-[64] n’ikingana n’akadodo ko mu rubuto rw’itende
+[^63]: Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
+
+[^64]: n’ikingana n’akadodo ko mu rubuto rw’itende
 
 # 571
 
@@ -2507,15 +2514,15 @@ Kandi nimujya mu rugendo, nta kosa kuri mwe kugabanya iswala (umubare wa raka z�
 
 # 595
 
-N’igihe (yewe Muhamadi) uzaba uri kumwe na bo (ku rugamba), ukabayobora mu iswala, icyo gihe itsinda rimwe muri bo rijye rihagararana na we mu iswala rinagumane intwaro zaryo. Nirimara kubama, rijye rijya inyuma yanyu mu birindiro, nuko haze irindi tsinda ritarasali naryo risali hamwe nawe, kandi ribe menge rinagumane intwaro zaryo[65]. Abahakanye bifuza ko mwarangara mukibagirwa intwaro zanyu n’imitwaro yanyu bakabagwa gitumo. Ariko nta kosa kuri mwe gushyira intwaro hasi igihe mufite imbogamizi z’imvura cyangwa murwaye, gusa mukaba menge. Mu by’ukuri, Allah yateguriye abahakanyi ibihano bisuzuguza.
+N’igihe (yewe Muhamadi) uzaba uri kumwe na bo (ku rugamba), ukabayobora mu iswala, icyo gihe itsinda rimwe muri bo rijye rihagararana na we mu iswala rinagumane intwaro zaryo. Nirimara kubama, rijye rijya inyuma yanyu mu birindiro, nuko haze irindi tsinda ritarasali naryo risali hamwe nawe, kandi ribe menge rinagumane intwaro zaryo[^65]. Abahakanye bifuza ko mwarangara mukibagirwa intwaro zanyu n’imitwaro yanyu bakabagwa gitumo. Ariko nta kosa kuri mwe gushyira intwaro hasi igihe mufite imbogamizi z’imvura cyangwa murwaye, gusa mukaba menge. Mu by’ukuri, Allah yateguriye abahakanyi ibihano bisuzuguza.
 
-[65] Uyu murongo ugaragaza uburyo bwihariye bwo gukora iswala mu gihe cy’urugamba.
+[^65]: Uyu murongo ugaragaza uburyo bwihariye bwo gukora iswala mu gihe cy’urugamba.
 
 # 596
 
-Nimurangiza gusali, mujye musingiza Allah muhagaze, mwicaye, munaryamye. Ariko mu gihe mutekanye, mujye muhozaho iswala (mu buryo busanzwe). Mu by’ukuri, iswala[66] ku bemera ni itegeko ryashyiriweho igihe kigenwe.
+Nimurangiza gusali, mujye musingiza Allah muhagaze, mwicaye, munaryamye. Ariko mu gihe mutekanye, mujye muhozaho iswala (mu buryo busanzwe). Mu by’ukuri, iswala[^66] ku bemera ni itegeko ryashyiriweho igihe kigenwe.
 
-[66] Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
+[^66]: Reba uko twasobanuye umurongo wa 3 muri iyi Surat.
 
 # 597
 
@@ -2579,9 +2586,9 @@ Allah akaba yaramuvumye. Nuko (Shitani na we) aravuga ati “Rwose (ndahiye ko) 
 
 # 612
 
-Kandi rwose nzabayobya, nzabizeza ibinyoma, kandi nzabategeka guca amatwi y’amatungo[67], nzanabategeka guhindura kamere ndemano y’ibiremwa bya Allah. Kandi uzagira Shitani inshuti aretse Allah, azaba agize igihombo kigaragara.
+Kandi rwose nzabayobya, nzabizeza ibinyoma, kandi nzabategeka guca amatwi y’amatungo[^67], nzanabategeka guhindura kamere ndemano y’ibiremwa bya Allah. Kandi uzagira Shitani inshuti aretse Allah, azaba agize igihombo kigaragara.
 
-[67]Guca amatwi y’amatungo byakorwaga n’ababangikanyamana nk’ikimenyetso cyarangaga amatungo yagombaga kumurikirwa ibigirwamana.
+[^67]: Guca amatwi y’amatungo byakorwaga n’ababangikanyamana nk’ikimenyetso cyarangaga amatungo yagombaga kumurikirwa ibigirwamana.
 
 # 613
 
@@ -2741,11 +2748,13 @@ Ahubwo Allah yamuzamuye iwe. Kandi Allah ni Umunyacyubahiro bihebuje, Nyirubugen
 
 # 652
 
-Kandi nta n’umwe mu bahawe igitabo utazamwemera mbere yo gupfa kwe[68]. Kandi no ku munsi w’imperuka azaba umuhamya wabo.
+Kandi nta n’umwe mu bahawe igitabo utazamwemera mbere yo gupfa kwe[^68]. Kandi no ku munsi w’imperuka azaba umuhamya wabo.
 
-[68]Mbere yo gupfa kwe bifite ibisobanuro bibiri:
-- Bisobanuye ko nyuma y’uko Yesu azagaruka ku isi avuye mu Ijuru aho ari ubu, nawe igihe cye cyo gupfa kizagera. Aho rero ni ho abataramwemeraga cyangwa abamwemeraga ukundi bamwita Imana, bazemera nyabyo ko ari Intumwa y’Imana atari Imana.
--Mbere yo gupfa k’uwahawe igitabo (Umuyahudi cyangwa Umunaswara); ubwo Malayika ushinzwe gukuramo roho z’ibiremwa azaba amugezeho, icyo gihe ni bwo yemera ko Yesu yari Intumwa ya Allah atari Imana, nyamara uko kwemera nta cyo kuba kukimumariye.
+[^68]: Mbere yo gupfa kwe bifite ibisobanuro bibiri:
+
+    - Bisobanuye ko nyuma y’uko Yesu azagaruka ku isi avuye mu Ijuru aho ari ubu, nawe igihe cye cyo gupfa kizagera. Aho rero ni ho abataramwemeraga cyangwa abamwemeraga ukundi bamwita Imana, bazemera nyabyo ko ari Intumwa y’Imana atari Imana.
+
+    -Mbere yo gupfa k’uwahawe igitabo (Umuyahudi cyangwa Umunaswara); ubwo Malayika ushinzwe gukuramo roho z’ibiremwa azaba amugezeho, icyo gihe ni bwo yemera ko Yesu yari Intumwa ya Allah atari Imana, nyamara uko kwemera nta cyo kuba kukimumariye.
 
 # 653
 
@@ -2753,15 +2762,15 @@ Kubera ibikorwa bibi by’Abayahudi no gukumira (abantu) cyane kugana inzira ya 
 
 # 654
 
-No kwakira Riba[69] kwabo kandi barayibujijwe, ndetse no kurya imitungo y’abantu kwabo mu buriganya. Kandi abahakanyi muri bo twabateguriye ibihano bibabaza.
+No kwakira Riba[^69] kwabo kandi barayibujijwe, ndetse no kurya imitungo y’abantu kwabo mu buriganya. Kandi abahakanyi muri bo twabateguriye ibihano bibabaza.
 
-[69] Reba ibisobanuro by’iri jambo muri Surat ul Baqarat, umurongo wa 275.
+[^69]: Reba ibisobanuro by’iri jambo muri Surat ul Baqarat, umurongo wa 275.
 
 # 655
 
-Cyakora abacengeye mu bumenyi muri bo n’abemera; bemera ibyo wahishuriwe ndetse n’ibyahishuwe mbere yawe; bagahozaho iswala[70], abatanga amaturo, ndetse n’abemera Allah n’umunsi w’imperuka; abo tuzabahemba ibihembo bihambaye.
+Cyakora abacengeye mu bumenyi muri bo n’abemera; bemera ibyo wahishuriwe ndetse n’ibyahishuwe mbere yawe; bagahozaho iswala[^70], abatanga amaturo, ndetse n’abemera Allah n’umunsi w’imperuka; abo tuzabahemba ibihembo bihambaye.
 
-[70] Reba uko twasobanuye umurongo wa 3 muri iyi Suratul Baqarat.
+[^70]: Reba uko twasobanuye umurongo wa 3 muri iyi Suratul Baqarat.
 
 # 656
 
@@ -2797,10 +2806,11 @@ Yemwe bantu! Mu by’ukuri, Intumwa (Muhamadi) yabazaniye ukuri guturutse kwa Ny
 
 # 664
 
-Yemwe abahawe igitabo (Abanaswara)![71] Ntimugakabye mu idini ryanyu, kandi ntimukavuge kuri Allah ibitari ukuri. Mu by’ukuri, Mesiya Issa (Yesu) mwene Mariyamu (Mariya) nta kindi yari cyo uretse ko yari Intumwa ya Allah akaba n’ijambo rye[72] yohereje muri Mariyamu ndetse na Roho (umwuka w’ubuzima) imuturutseho. Bityo, nimwemere Allah n’Intumwa ze kandi ntimukavuge “Ubutatu!” Musigeho! Ni byo byiza kuri mwe. Mu by’ukuri, Allah ni Imana imwe rukumbi. Ni Nyirubutagatifu, ntiyagira umwana. Ibiri mu birere n’ibiri mu isi byose ni ibye. Kandi Allah arahagije kuba Umuhagararizi.
+Yemwe abahawe igitabo (Abanaswara)![^71] Ntimugakabye mu idini ryanyu, kandi ntimukavuge kuri Allah ibitari ukuri. Mu by’ukuri, Mesiya Issa (Yesu) mwene Mariyamu (Mariya) nta kindi yari cyo uretse ko yari Intumwa ya Allah akaba n’ijambo rye[^72] yohereje muri Mariyamu ndetse na Roho (umwuka w’ubuzima) imuturutseho. Bityo, nimwemere Allah n’Intumwa ze kandi ntimukavuge “Ubutatu!” Musigeho! Ni byo byiza kuri mwe. Mu by’ukuri, Allah ni Imana imwe rukumbi. Ni Nyirubutagatifu, ntiyagira umwana. Ibiri mu birere n’ibiri mu isi byose ni ibye. Kandi Allah arahagije kuba Umuhagararizi.
 
-[71] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat
-[72] Kuba Yesu yitwa “Ijambo rya Allah” bisobanuye ko yabayeho ku bw’ijambo ry’Imana yategetse ngo “Baho”, nuko abaho; nyina amubyara nta mugabo babonanye. Iri jambo rikaba ari naryo Allah akoresha iyo aca iteka ku bintu yagennye ko bibaho; nk’uko bigaragara mu mirongo itandukanye ya Qur’an.
+[^71]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat
+
+[^72]: Kuba Yesu yitwa “Ijambo rya Allah” bisobanuye ko yabayeho ku bw’ijambo ry’Imana yategetse ngo “Baho”, nuko abaho; nyina amubyara nta mugabo babonanye. Iri jambo rikaba ari naryo Allah akoresha iyo aca iteka ku bintu yagennye ko bibaho; nk’uko bigaragara mu mirongo itandukanye ya Qur’an.
 
 # 665
 
@@ -2844,10 +2854,11 @@ Ubu muziruriwe (kurya) amafunguro meza. Muziruriwe kandi amafunguro y’abahawe 
 
 # 675
 
-Yemwe abemeye! Igihe mugiye gukora isengesho, mujye mukaraba mu buranga bwanyu n’amaboko yanyu kugeza mu nkokora, muhanagure ku mitwe yanyu ndetse munakarabe ibirenge byanyu kugeza ku tubumbankore. Nimuba mufite Janaba[73], mujye mwiyuhagira umubiri wose. Ariko nimuba murwaye (mutabasha gukoresha amazi) cyangwa muri ku rugendo, cyangwa umwe muri mwe avuye mu bwiherero, cyangwa mwakoranye imibonano n’abagore banyu ntimubone amazi, mujye mukora Tayamamu[74] mwisukure mukoresheje igitaka gisukuye; mugihanaguze mu buranga bwanyu no ku maboko yanyu (ku biganza byanyu). Allah ntashaka kubashyiriraho ibibaremereye, ahubwo arashaka kubeza no kubasenderezaho inema ze kugira ngo mushimire.
+Yemwe abemeye! Igihe mugiye gukora isengesho, mujye mukaraba mu buranga bwanyu n’amaboko yanyu kugeza mu nkokora, muhanagure ku mitwe yanyu ndetse munakarabe ibirenge byanyu kugeza ku tubumbankore. Nimuba mufite Janaba[^73], mujye mwiyuhagira umubiri wose. Ariko nimuba murwaye (mutabasha gukoresha amazi) cyangwa muri ku rugendo, cyangwa umwe muri mwe avuye mu bwiherero, cyangwa mwakoranye imibonano n’abagore banyu ntimubone amazi, mujye mukora Tayamamu[^74] mwisukure mukoresheje igitaka gisukuye; mugihanaguze mu buranga bwanyu no ku maboko yanyu (ku biganza byanyu). Allah ntashaka kubashyiriraho ibibaremereye, ahubwo arashaka kubeza no kubasenderezaho inema ze kugira ngo mushimire.
 
-[73] Igihe mwagiranye imibonano n’abagore banyu, cyangwa mwasohotswemo n’intanga mujye mwisukura, mwiyuhagira umubiri wose.
-[74]Iri jambo twararisobanuye mu mirongo yabanje (Surat Nisai: 43)
+[^73]: Igihe mwagiranye imibonano n’abagore banyu, cyangwa mwasohotswemo n’intanga mujye mwisukura, mwiyuhagira umubiri wose.
+
+[^74]: Iri jambo twararisobanuye mu mirongo yabanje (Surat Nisai: 43)
 
 # 676
 
@@ -2871,9 +2882,9 @@ Yemwe abemeye! Nimwibuke inema za Allah kuri mwe ubwo bamwe mu bantu bashakaga k
 
 # 681
 
-Rwose Allah yakiriye isezerano rya bene Isiraheli, maze tubatoranyamo abatware cumi na babiri. Nuko Allah aravuga ati “Mu by’ukuri, njye ndi kumwe namwe, nimuramuka muhojejeho iswala[75], mugatanga amaturo, mukemera Intumwa zanjye mukazishyigikira, mukanaguriza Allah inguzanyo nziza. Mu by’ukuri, nzabababarira ibyaha byanyu nzanabinjize mu busitani butembamo imigezi (Ijuru). Ariko muri mwe uzahakana nyuma y’ibyo, rwose azaba ayobye inzira igororotse.”
+Rwose Allah yakiriye isezerano rya bene Isiraheli, maze tubatoranyamo abatware cumi na babiri. Nuko Allah aravuga ati “Mu by’ukuri, njye ndi kumwe namwe, nimuramuka muhojejeho iswala[^75], mugatanga amaturo, mukemera Intumwa zanjye mukazishyigikira, mukanaguriza Allah inguzanyo nziza. Mu by’ukuri, nzabababarira ibyaha byanyu nzanabinjize mu busitani butembamo imigezi (Ijuru). Ariko muri mwe uzahakana nyuma y’ibyo, rwose azaba ayobye inzira igororotse.”
 
-[75] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
+[^75]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
 
 # 682
 
@@ -2881,9 +2892,9 @@ Bityo kubera kwica isezerano ryabo rikomeye, twarabavumye tunadanangira imitima 
 
 # 683
 
-No muri ba bandi bavuze bati “Mu by’ukuri, twe turi Abanaswara[76]”, twakiriye isezerano ryabo, ariko birengagije igice (cy’ubutumwa) bibutswaga, nuko tubateza ubugome n’urwango hagati yabo kugeza ku munsi w’imperuka; kandi Allah azabamenyesha ibyo bajyaga bakora.
+No muri ba bandi bavuze bati “Mu by’ukuri, twe turi Abanaswara[^76]”, twakiriye isezerano ryabo, ariko birengagije igice (cy’ubutumwa) bibutswaga, nuko tubateza ubugome n’urwango hagati yabo kugeza ku munsi w’imperuka; kandi Allah azabamenyesha ibyo bajyaga bakora.
 
-[76] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
+[^76]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
 
 # 684
 
@@ -2899,9 +2910,9 @@ Rwose abavuze ko Mesiya (Yesu) mwene Mariyamu (Mariya) ari Imana, barahakanye. V
 
 # 687
 
-Kandi Abayahudi n’Abanaswara[77] baravuga bati “Turi abana ba Allah tukaba n’abatoni be.” Vuga uti “None se kuki abahanira ibyaha byanyu?” Ahubwo mwe muri bamwe mu bantu yaremye, ababarira uwo ashaka akanahana uwo ashaka. Kandi ubwami bw’ibirere n’ubw’isi n’ibiri hagati yabyo ni ibya Allah; ndetse iwe ni ho (byose) bizasubira.
+Kandi Abayahudi n’Abanaswara[^77] baravuga bati “Turi abana ba Allah tukaba n’abatoni be.” Vuga uti “None se kuki abahanira ibyaha byanyu?” Ahubwo mwe muri bamwe mu bantu yaremye, ababarira uwo ashaka akanahana uwo ashaka. Kandi ubwami bw’ibirere n’ubw’isi n’ibiri hagati yabyo ni ibya Allah; ndetse iwe ni ho (byose) bizasubira.
 
-[77] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
+[^77]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
 
 # 688
 
@@ -2961,9 +2972,9 @@ Kubera ibyo, twategetse bene Isiraheli ko uzica umuntu atamuhoye ko yishe undi c
 
 # 702
 
-Mu by’ukuri igihano cy’abarwanya Allah n’Intumwa ye bakanaharanira gukora ubwononnyi ku isi; ni uko bicwa cyangwa bakabambwa, cyangwa bagacibwa amaboko n’amaguru imbusane cyangwa bakirukanwa mu gihugu[78]. Ibyo (bihano) ni igisebo kuri bo ku isi kandi ku munsi w’imperuka bazahanishwa ibihano bihambaye.
+Mu by’ukuri igihano cy’abarwanya Allah n’Intumwa ye bakanaharanira gukora ubwononnyi ku isi; ni uko bicwa cyangwa bakabambwa, cyangwa bagacibwa amaboko n’amaguru imbusane cyangwa bakirukanwa mu gihugu[^78]. Ibyo (bihano) ni igisebo kuri bo ku isi kandi ku munsi w’imperuka bazahanishwa ibihano bihambaye.
 
-[78]Abarwanya Allah n’Intumwa ye bagamijwe muri uyu murongo ni ibisambo bitegera abantu mu mayira cyangwa bitera abantu, bigamije kubatera ubwoba, kubambura ibyabo, kubyangiza ndetse bikaba byanabica.
+[^78]: Abarwanya Allah n’Intumwa ye bagamijwe muri uyu murongo ni ibisambo bitegera abantu mu mayira cyangwa bitera abantu, bigamije kubatera ubwoba, kubambura ibyabo, kubyangiza ndetse bikaba byanabica.
 
 # 703
 
@@ -3011,9 +3022,9 @@ Mu by’ukuri, twahishuye Tawurati irimo umuyoboro n’urumuri. Ni na yo Abahanu
 
 # 714
 
-Kandi twabategetse muri yo (Tawurati) ko uwishe umuntu (abigambiriye) na we yicwa, ukuyemo ijisho na we akurwemo ijisho, uciye izuru na we acibwe izuru, uciye ugutwi na we acibwe ugutwi, ukuye iryinyo na we akurwe iryinyo, n’ukomerekeje na we akomeretswe. Ariko uzababarira (ntasabe guhorerwa), ibyo bizamubera icyiru (ababarirwe ibyaha). Kandi abatazakiranura abantu bifashishije ibyo Allah yahishuye, abo ni bo nkozi z’ibibi[79].
+Kandi twabategetse muri yo (Tawurati) ko uwishe umuntu (abigambiriye) na we yicwa, ukuyemo ijisho na we akurwemo ijisho, uciye izuru na we acibwe izuru, uciye ugutwi na we acibwe ugutwi, ukuye iryinyo na we akurwe iryinyo, n’ukomerekeje na we akomeretswe. Ariko uzababarira (ntasabe guhorerwa), ibyo bizamubera icyiru (ababarirwe ibyaha). Kandi abatazakiranura abantu bifashishije ibyo Allah yahishuye, abo ni bo nkozi z’ibibi[^79].
 
-[79] Ibijyanye n’iyubahirizwa ry’ibihano byo ku isi bivugwa muri uyu murongo ndetse n’indi igaragara muri Qur’an iteganya ibihano by’ibyaha bitandukanye, ntibishyirwa mu bikorwa n’umuntu ku giti cye, ahubwo bishyirwa mu bikorwa n’ubutabera bwo mu gihugu kigendera ku mategeko ya Isilamu.
+[^79]: Ibijyanye n’iyubahirizwa ry’ibihano byo ku isi bivugwa muri uyu murongo ndetse n’indi igaragara muri Qur’an iteganya ibihano by’ibyaha bitandukanye, ntibishyirwa mu bikorwa n’umuntu ku giti cye, ahubwo bishyirwa mu bikorwa n’ubutabera bwo mu gihugu kigendera ku mategeko ya Isilamu.
 
 # 715
 
@@ -3037,9 +3048,9 @@ None se barashaka amategeko yo mu bihe by’ubujiji? Ese ni nde wakiranura neza 
 
 # 720
 
-Yemwe abemeye! Ntimukagire Abayahudi n’Abanaswara[80] inshuti zanyu (mubabitsa amabanga yanyu, kuko) bamwe ari inshuti z’abandi. Kandi uzabagira inshuti muri mwe, uwo azaba abaye umwe muri bo. Mu by’ukuri, Allah ntayobora abantu b’inkozi z’ibibi.
+Yemwe abemeye! Ntimukagire Abayahudi n’Abanaswara[^80] inshuti zanyu (mubabitsa amabanga yanyu, kuko) bamwe ari inshuti z’abandi. Kandi uzabagira inshuti muri mwe, uwo azaba abaye umwe muri bo. Mu by’ukuri, Allah ntayobora abantu b’inkozi z’ibibi.
 
-[80] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat
+[^80]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat
 
 # 721
 
@@ -3055,9 +3066,9 @@ Yemwe abemeye! Muri mwe uzava mu idini rye (Isilamu), (amenye ko) Allah azazana 
 
 # 724
 
-Mu by’ukuri, inshuti zanyu magara ni Allah, Intumwa ye ndetse n’abemeye; ba bandi bahozaho iswala[81] bakanatanga amaturo bicishije bugufi (kuri Allah).
+Mu by’ukuri, inshuti zanyu magara ni Allah, Intumwa ye ndetse n’abemeye; ba bandi bahozaho iswala[^81] bakanatanga amaturo bicishije bugufi (kuri Allah).
 
-[81] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
+[^81]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
 
 # 725
 
@@ -3165,9 +3176,9 @@ Nyamara iyo baza kuba bemera Allah n’umuhanuzi (Muhamadi) ndetse n’ibyo yahi
 
 # 751
 
-Rwose uzasanga Abayahudi n’ababangikanyamana ari bo barusha abandi kugirira abemeramana urwango rukomeye. Uzasanga kandi abiteguye gukunda abemeramana (Abayisilamu) ari abavuga bati “Mu by’ukuri, twe turi Abanaswara[82].” Ibyo ni uko muri bo harimo abamenyi n’abihaye Imana, kandi bakaba batagira ubwibone (mu kwemera ukuri).
+Rwose uzasanga Abayahudi n’ababangikanyamana ari bo barusha abandi kugirira abemeramana urwango rukomeye. Uzasanga kandi abiteguye gukunda abemeramana (Abayisilamu) ari abavuga bati “Mu by’ukuri, twe turi Abanaswara[^82].” Ibyo ni uko muri bo harimo abamenyi n’abihaye Imana, kandi bakaba batagira ubwibone (mu kwemera ukuri).
 
-[82] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat
+[^82]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat
 
 # 752
 
@@ -3251,11 +3262,15 @@ Mu by’ukuri hari abantu mbere yanyu babajije ibibazo nk’ibyo, hanyuma (babis
 
 # 772
 
-Allah ntabwo ari we washyizeho Bahira[83], Sa’ibat[84], Waswilat[85], cyangwa Hami[86]. Ahubwo ba bandi bahakanye bahimbira Allah ibinyoma kandi abenshi muri bo ntibatekereza.
+Allah ntabwo ari we washyizeho Bahira[^83], Sa’ibat[^84], Waswilat[^85], cyangwa Hami[^86]. Ahubwo ba bandi bahakanye bahimbira Allah ibinyoma kandi abenshi muri bo ntibatekereza.
 
-[83]Bahira: Ni ingamiya bacaga ugutwi iyo yabaga imaze kubyara imbyaro runaka bakayihorera ikegurirwa ibigirwamana. [84]Sa’iba: Ni ingamiya baterekeraga ibigirwamana.
-[85]Waswila: Ni ingamiya yabaga yareguriwe ibigirwamana kuko yabyaye inyagazi ku nshuro ya mbere n’iya kabiri.
-[86]Hami: Ni imfizi y’ingamiya yaterekerwaga ibigirwamana, ntikoreshwe imirimo iyo ariyo yose. Ibyo byose byabaga ari ibikorwa byo kubangikanya Allah kuko baziririzaga ibyo Allah ataziririje kandi bakabimwitirira.
+[^83]: Bahira: Ni ingamiya bacaga ugutwi iyo yabaga imaze kubyara imbyaro runaka bakayihorera ikegurirwa ibigirwamana. 
+
+[^84]: Sa’iba: Ni ingamiya baterekeraga ibigirwamana.
+
+[^85]: Waswila: Ni ingamiya yabaga yareguriwe ibigirwamana kuko yabyaye inyagazi ku nshuro ya mbere n’iya kabiri.
+
+[^86]: Hami: Ni imfizi y’ingamiya yaterekerwaga ibigirwamana, ntikoreshwe imirimo iyo ariyo yose. Ibyo byose byabaga ari ibikorwa byo kubangikanya Allah kuko baziririzaga ibyo Allah ataziririje kandi bakabimwitirira.
 
 # 773
 
@@ -3531,9 +3546,9 @@ Yikoreshe (Qur’an) uburira ba bandi bafite ubwoba bwo kuzakoranyirizwa kwa Nya
 
 # 841
 
-Kandi ntukirukane ba bandi basenga Nyagasani wabo mu gitondo na nimugoroba bashaka kwishimirwa na We[87]. Nta cyo ubazwa mu byo bakora, na bo nta cyo babazwa mu byo ukora. Nubirukana uzaba ubaye umwe mu bahemu.
+Kandi ntukirukane ba bandi basenga Nyagasani wabo mu gitondo na nimugoroba bashaka kwishimirwa na We[^87]. Nta cyo ubazwa mu byo bakora, na bo nta cyo babazwa mu byo ukora. Nubirukana uzaba ubaye umwe mu bahemu.
 
-[87] Uyu murongo wahishuwe ubwo ibikomerezwa by’Abakurayishi byasabaga Intumwa Muhamadi kwirukana abakene n’abanyantege nke bari barayemeye, kugira ngo na byo bibone kuyikurikira; nuko uyu murongo uza umubuza kubikora.
+[^87]: Uyu murongo wahishuwe ubwo ibikomerezwa by’Abakurayishi byasabaga Intumwa Muhamadi kwirukana abakene n’abanyantege nke bari barayemeye, kugira ngo na byo bibone kuyikurikira; nuko uyu murongo uza umubuza kubikora.
 
 # 842
 
@@ -3613,9 +3628,9 @@ Vuga (yewe Muhamadi) uti “Ese dusenge ibitari Allah, bidafite icyo byatumarira
 
 # 861
 
-No guhozaho iswala[88], ndetse no kumutinya (Allah); kandi iwe ni ho muzakoranyirizwa.
+No guhozaho iswala[^88], ndetse no kumutinya (Allah); kandi iwe ni ho muzakoranyirizwa.
 
-[88] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
+[^88]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
 
 # 862
 
@@ -3827,9 +3842,9 @@ N’iyo bagezweho n’ikimenyetso (giturutse kwa Allah) baravuga bati “Ntituzi
 
 # 914
 
-Kandi uwo Allah ashaka kuyobora yagurira igituza cye Isilamu, ndetse n’uwo ashaka kurekera mu buyobe, afunganya igituza cye cyane, akabura amahoro akamera nk’uwihatira kuzamuka ajya mu kirere[89]. Uko ni ko Allah ashyira mu gihano ba bandi batemera.
+Kandi uwo Allah ashaka kuyobora yagurira igituza cye Isilamu, ndetse n’uwo ashaka kurekera mu buyobe, afunganya igituza cye cyane, akabura amahoro akamera nk’uwihatira kuzamuka ajya mu kirere[^89]. Uko ni ko Allah ashyira mu gihano ba bandi batemera.
 
-[89] Bimenyerewe ko abazamuka mu kirere bagera aho umwuka bahumeka (Oxygen) ubabana muke, bagakenera kwitwaza undi w’umukorano; ibyo bikaba bishimangira ko Qur’an ari igitabo gikubiyemo ubuhanga, kandi cyabushimangiye mbere y’uko abashakashatsi babuvumbura.
+[^89]: Bimenyerewe ko abazamuka mu kirere bagera aho umwuka bahumeka (Oxygen) ubabana muke, bagakenera kwitwaza undi w’umukorano; ibyo bikaba bishimangira ko Qur’an ari igitabo gikubiyemo ubuhanga, kandi cyabushimangiye mbere y’uko abashakashatsi babuvumbura.
 
 # 915
 
@@ -3977,9 +3992,9 @@ Vuga (yewe Muhamadi) uti “Mu by’ukuri Nyagasani wanjye yanyoboye inzira igor
 
 # 951
 
-Vuga uti “Mu by’ukuri iswala[90] yanjye, ibitambo byanjye, kubaho kwanjye no gupfa kwanjye bigengwa na Allah, Nyagasani w’ibiremwa byose,
+Vuga uti “Mu by’ukuri iswala[^90] yanjye, ibitambo byanjye, kubaho kwanjye no gupfa kwanjye bigengwa na Allah, Nyagasani w’ibiremwa byose,
 
-[90] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
+[^90]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
 
 # 952
 
@@ -3995,9 +4010,9 @@ Kandi ni We wabagize abasigire ku isi, ndetse bamwe muri mwe abazamura mu nzego 
 
 # 955
 
-Alif Laam Miim Swad[91].
+Alif Laam Miim Swad[^91].
 
-[91]Reba uko twasobanuye umurongo wa mbere muri Surat ul Baqarat.
+[^91]: Reba uko twasobanuye umurongo wa mbere muri Surat ul Baqarat.
 
 # 956
 
@@ -4177,9 +4192,9 @@ Ba bandi bakumira (abantu) kugana inzira ya Allah, bakanayifuriza ko yatana kand
 
 # 1000
 
-Hagati yabo (abantu bo mu ijuru n’abo mu muriro) hazaba hari urusika, no kuri A’arafu[92] hazaba hari abantu (bahaheze kubera ko ibyiza n’ibibi byabo bizaba bingana), bazajya bamenya buri wese (uwo mu ijuru n’uwo mu muriro) kubera ibimenyetso bizaba bibaranga. Maze bahamagare abantu bo mu ijuru bababwira bati “Asalamu Alayikum (mugire amahoro!)” (Kugeza icyo gihe, abantu ba A‘arafu) bazaba batararyinjiramo kandi babyifuza.
+Hagati yabo (abantu bo mu ijuru n’abo mu muriro) hazaba hari urusika, no kuri A’arafu[^92] hazaba hari abantu (bahaheze kubera ko ibyiza n’ibibi byabo bizaba bingana), bazajya bamenya buri wese (uwo mu ijuru n’uwo mu muriro) kubera ibimenyetso bizaba bibaranga. Maze bahamagare abantu bo mu ijuru bababwira bati “Asalamu Alayikum (mugire amahoro!)” (Kugeza icyo gihe, abantu ba A‘arafu) bazaba batararyinjiramo kandi babyifuza.
 
-[92] A’arafu ni ahantu hirengeye hagati y’Ijuru n’umuriro Allah yageneye abo ibikorwa byabo byiza bizaba bingana n’ibibi bakoze. Abazaba bari aho bazaba bareba mu ijuru no mu muriro. Ariko nyuma yaho, Allah azabagirira impuhwe abinjize mu ijuru.
+[^92]: A’arafu ni ahantu hirengeye hagati y’Ijuru n’umuriro Allah yageneye abo ibikorwa byabo byiza bizaba bingana n’ibibi bakoze. Abazaba bari aho bazaba bareba mu ijuru no mu muriro. Ariko nyuma yaho, Allah azabagirira impuhwe abinjize mu ijuru.
 
 # 1001
 
@@ -4211,9 +4226,9 @@ Ese hari ikindi bategereje uretse icyo basezeranyijwe (ibihano) muri yo (Qur’a
 
 # 1008
 
-Mu by’ukuri Nyagasani wanyu ni Allah waremye ibirere n’isi mu minsi itandatu, hanyuma aganza hejuru ya Ar’shi[93]. Atwikiriza ijoro amanywa, (ijoro) rikayakurikira nta guhagarara; yanaremye izuba, ukwezi n’inyenyeri byubahiriza itegeko rye. Mu by’ukuri kurema no gutegeka ni ibye. Allah ni Nyirubutagatifu, Nyagasani w’ibiremwa byose.
+Mu by’ukuri Nyagasani wanyu ni Allah waremye ibirere n’isi mu minsi itandatu, hanyuma aganza hejuru ya Ar’shi[^93]. Atwikiriza ijoro amanywa, (ijoro) rikayakurikira nta guhagarara; yanaremye izuba, ukwezi n’inyenyeri byubahiriza itegeko rye. Mu by’ukuri kurema no gutegeka ni ibye. Allah ni Nyirubutagatifu, Nyagasani w’ibiremwa byose.
 
-[93]Ukuganza kwa Allah hejuru ya Ar’shi ni ukuganza kwihariye, kuberanye n’icyubahiro cye n’ubuhambare bwe, gutandukanye n’ukw’ibiremwa kandi kudasanishwa n’ukwabyo. Naho ijambo Ar’shi bisobanuye intebe y’icyubahiro y’ubwami bwa Allah, ifite abamalayika bayiteruye, ikaba imeze nk’umutemeri uri hejuru y’ibirere n’isi. Ar’shi ni cyo kiremwa kiruta ibindi byose mu bunini kandi ni na cyo kiremwa kiri hejuru y’ibindi biremwa byose kuko iteretse hejuru y’ijuru rya karindwi. Bityo Allah ayiganjeho kandi ni We uri hejuru y’ibintu byose.
+[^93]: Ukuganza kwa Allah hejuru ya Ar’shi ni ukuganza kwihariye, kuberanye n’icyubahiro cye n’ubuhambare bwe, gutandukanye n’ukw’ibiremwa kandi kudasanishwa n’ukwabyo. Naho ijambo Ar’shi bisobanuye intebe y’icyubahiro y’ubwami bwa Allah, ifite abamalayika bayiteruye, ikaba imeze nk’umutemeri uri hejuru y’ibirere n’isi. Ar’shi ni cyo kiremwa kiruta ibindi byose mu bunini kandi ni na cyo kiremwa kiri hejuru y’ibindi biremwa byose kuko iteretse hejuru y’ijuru rya karindwi. Bityo Allah ayiganjeho kandi ni We uri hejuru y’ibintu byose.
 
 # 1009
 
@@ -4257,9 +4272,9 @@ Ariko baramuhinyuye, maze turamurokora, we n’abari kumwe na we mu nkuge, nuko 
 
 # 1019
 
-N’abantu bo mu bwoko bwa Adi[94], twaboherereje umuvandimwe wabo Hudu. Yarababwiye ati “Yemwe bantu banjye! Nimugaragire Allah. Nta yindi mana mufite itari We (Allah). Ese ubwo ntimutinya (ibihano bye)?”
+N’abantu bo mu bwoko bwa Adi[^94], twaboherereje umuvandimwe wabo Hudu. Yarababwiye ati “Yemwe bantu banjye! Nimugaragire Allah. Nta yindi mana mufite itari We (Allah). Ese ubwo ntimutinya (ibihano bye)?”
 
-[94] Adi ni ubwoko bwari butuye Ah’qaf. Ubu ni hagati y’igihugu cya Saudi Arabia, Oman ndetse na Yemen.
+[^94]: Adi ni ubwoko bwari butuye Ah’qaf. Ubu ni hagati y’igihugu cya Saudi Arabia, Oman ndetse na Yemen.
 
 # 1020
 
@@ -4339,9 +4354,9 @@ Maze tubagushaho imvura (y’amabuye). Ngaho irebere uko iherezo ry’inkozi z�
 
 # 1039
 
-N’abantu b’i Madiyani[95], twaboherereje umuvandimwe wabo Shuwayibu, arababwira ati “Yemwe bantu banjye! Nimusenge Allah kuko nta yindi mana mufite itari We (Allah). Mu by’ukuri mwagezweho n’ikimenyetso giturutse kwa Nyagasani wanyu (kigaragaza ukuri kw’ibyo mvuga). Bityo, nimwuzuze ibipimo n’iminzani, kandi ntimugahuguze abantu mugabanya ku byabo, ndetse ntimugakore ubwangizi ku isi nyuma y’uko itunganyijwe. Ibyo ni byo byiza kuri mwe, niba koko muri abemeramana.”
+N’abantu b’i Madiyani[^95], twaboherereje umuvandimwe wabo Shuwayibu, arababwira ati “Yemwe bantu banjye! Nimusenge Allah kuko nta yindi mana mufite itari We (Allah). Mu by’ukuri mwagezweho n’ikimenyetso giturutse kwa Nyagasani wanyu (kigaragaza ukuri kw’ibyo mvuga). Bityo, nimwuzuze ibipimo n’iminzani, kandi ntimugahuguze abantu mugabanya ku byabo, ndetse ntimugakore ubwangizi ku isi nyuma y’uko itunganyijwe. Ibyo ni byo byiza kuri mwe, niba koko muri abemeramana.”
 
-[95]Madiyani ni izina ry’ahantu ryitiriwe ubwoko bwari butuye mu ishyamba ry’inzitane mu nzira z’ahitwa Hijazi ho mu gihugu cya Arabiya Sawudite.
+[^95]: Madiyani ni izina ry’ahantu ryitiriwe ubwoko bwari butuye mu ishyamba ry’inzitane mu nzira z’ahitwa Hijazi ho mu gihugu cya Arabiya Sawudite.
 
 # 1040
 
@@ -4641,10 +4656,11 @@ No mu bantu ba Musa harimo itsinda riyobora (abantu) rikoresheje ukuri, rikanagu
 
 # 1114
 
-Nuko (Abisiraheli) tubagabanyamo amoko cumi n’abiri, tunahishurira Musa ubwo abantu be bamusabaga amazi yo kunywa (tugira tuti) “Kubita inkoni yawe ku ibuye!” Nuko (arikubise) riturikamo amasoko cumi n’abiri, maze buri muryango umenya aho unywera. Twanabugamishije mu gicucu cy’igicu (igihe bayobagurikaga mu butayu bavuye mu Misiri) ndetse tunabamanurira Manu[96] na Saluwa[97] (tuvuga tuti) “Nimurye mu byiza twabafunguriye!” Si twe bahemukiye ahubwo ni bo ubwabo bihemukiye.
+Nuko (Abisiraheli) tubagabanyamo amoko cumi n’abiri, tunahishurira Musa ubwo abantu be bamusabaga amazi yo kunywa (tugira tuti) “Kubita inkoni yawe ku ibuye!” Nuko (arikubise) riturikamo amasoko cumi n’abiri, maze buri muryango umenya aho unywera. Twanabugamishije mu gicucu cy’igicu (igihe bayobagurikaga mu butayu bavuye mu Misiri) ndetse tunabamanurira Manu[^96] na Saluwa[^97] (tuvuga tuti) “Nimurye mu byiza twabafunguriye!” Si twe bahemukiye ahubwo ni bo ubwabo bihemukiye.
 
-[96]Manu: ni ubukozo buryohera nk’ubuki buva mu giti cyo mu bwoko bwitwa Tamarsk cyera mu karere ka Sinayi.
-[97]Saluwa: Ni uruhuri rw’ubwoko bw’inyoni zitwarwa n’imiyaga mu burasirazuba bwa Mediterane, mu gifaransa zitwa Cailles, bohererezwaga na Allah kugira ngo bazibage bazirye.
+[^96]: Manu: ni ubukozo buryohera nk’ubuki buva mu giti cyo mu bwoko bwitwa Tamarsk cyera mu karere ka Sinayi.
+
+[^97]: Saluwa: Ni uruhuri rw’ubwoko bw’inyoni zitwarwa n’imiyaga mu burasirazuba bwa Mediterane, mu gifaransa zitwa Cailles, bohererezwaga na Allah kugira ngo bazibage bazirye.
 
 # 1115
 
@@ -4684,9 +4700,9 @@ Nuko nyuma yabo haza abantu (babi) bazungura igitabo, ariko bihitiramo ibyiza by
 
 # 1124
 
-Naho ba bandi bashikamye ku gitabo bakanahozaho iswala[98]. Mu by’ukuri ntituburizamo ibihembo by’abakora ibyiza.
+Naho ba bandi bashikamye ku gitabo bakanahozaho iswala[^98]. Mu by’ukuri ntituburizamo ibihembo by’abakora ibyiza.
 
-[98] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
+[^98]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
 
 # 1125
 
@@ -4694,9 +4710,9 @@ Unibuke (yewe Muhamadi) ubwo twazamuraga umusozi hejuru yabo (Abayisiraheli) uka
 
 # 1126
 
-Unibuke ubwo Nyagasani wawe yazanaga (roho zose za) bene Adamu n’iz’urubyaro ruzaturuka mu migongo yabo, maze akazihuriza hamwe akazibwira agira ati “Ese si njye Nyagasani wanyu? Bakavuga bati “Ni byo, turahamya ko uri Nyagasani wacu.” (Allah aravuga ati: “ibi mbikoze) kugira ngo ku munsi w’imperuka mutazavuga muti “Mu by’ukuri ibi ntitwabimenye.[99]”
+Unibuke ubwo Nyagasani wawe yazanaga (roho zose za) bene Adamu n’iz’urubyaro ruzaturuka mu migongo yabo, maze akazihuriza hamwe akazibwira agira ati “Ese si njye Nyagasani wanyu? Bakavuga bati “Ni byo, turahamya ko uri Nyagasani wacu.” (Allah aravuga ati: “ibi mbikoze) kugira ngo ku munsi w’imperuka mutazavuga muti “Mu by’ukuri ibi ntitwabimenye.[^99]”
 
-[99] Uyu murongo ugaragaza ko kuba Allah yarahurije hamwe roho za bene Adamu bose akazibwira, ari yo nkomoko yo kuba umuntu wese avuka azi Imana kabone n’ubwo ntaho yaba yarabyigishijwe.
+[^99]: Uyu murongo ugaragaza ko kuba Allah yarahurije hamwe roho za bene Adamu bose akazibwira, ari yo nkomoko yo kuba umuntu wese avuka azi Imana kabone n’ubwo ntaho yaba yarabyigishijwe.
 
 # 1127
 
@@ -4728,9 +4744,9 @@ Mu by’ukuri umuriro wa Jahanamu twawuremeye abenshi mu majini n’abantu; bafi
 
 # 1134
 
-Kandi Allah afite amazina meza, bityo mujye muyifashisha mumusaba, kandi munitandukanye na ba bandi bakerensa (bubahuka ubutagatifu bw’) amazina ye[100]. Bazahanirwa ibyo bakoraga.
+Kandi Allah afite amazina meza, bityo mujye muyifashisha mumusaba, kandi munitandukanye na ba bandi bakerensa (bubahuka ubutagatifu bw’) amazina ye[^100]. Bazahanirwa ibyo bakoraga.
 
-[100] Abahakanyi bajyaga bagereranya amazina ya Allah n’ay’ibigirwamana byabo; izina ry’ikigirwamana Lata barigereranyaga n’izina ry’Imana Allah; Uza bakarigereranya n’izina rya Allah Al Aziz; Manata bakarigereranya n’izina rya Allah Al Mananu.
+[^100]: Abahakanyi bajyaga bagereranya amazina ya Allah n’ay’ibigirwamana byabo; izina ry’ikigirwamana Lata barigereranyaga n’izina ry’Imana Allah; Uza bakarigereranya n’izina rya Allah Al Aziz; Manata bakarigereranya n’izina rya Allah Al Mananu.
 
 # 1135
 
@@ -4846,9 +4862,9 @@ Mu by’ukuri abemeramana nyabo ni ba bandi iyo Allah avuzwe, imitima yabo ikang
 
 # 1163
 
-Ba bandi bahozaho iswala[101] kandi bagatanga mu byo twabahaye.
+Ba bandi bahozaho iswala[^101] kandi bagatanga mu byo twabahaye.
 
-[101] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
+[^101]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
 
 # 1164
 
@@ -4976,9 +4992,9 @@ None se ni iki cyatuma Allah atabahana kandi bakumira (abantu) kugana umusigiti 
 
 # 1195
 
-Kandi iswala[102] yabo ku musigiti mutagatifu (Al Ka’abat) yari ukuvugiriza no gukoma amashyi gusa (bagamije kubuza amahoro Intumwa Muhamadi). Ngaho nimwumve ububabare bw’ibihano kubera ibyo mwahakanaga.
+Kandi iswala[^102] yabo ku musigiti mutagatifu (Al Ka’abat) yari ukuvugiriza no gukoma amashyi gusa (bagamije kubuza amahoro Intumwa Muhamadi). Ngaho nimwumve ububabare bw’ibihano kubera ibyo mwahakanaga.
 
-[102] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
+[^102]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
 
 # 1196
 
@@ -5138,9 +5154,9 @@ Naho ba bandi bemeye bakanimukira (i Madina), bagaharanira inzira ya Allah, ndet
 
 # 1235
 
-Na ba bandi baje kwemera nyuma, nuko bakanimuka (bimukira i Madina), bakanifatanya namwe mu guharanira inzira ya Allah, abo bari muri mwe. Ariko abafitanye amasano, bamwe bafite uburenganzira busumba ubw’abandi (mu izungura) rishingiye ku mategeko ya Allah. Mu by’ukuri Allah ni Umumenyi wa byose[103].
+Na ba bandi baje kwemera nyuma, nuko bakanimuka (bimukira i Madina), bakanifatanya namwe mu guharanira inzira ya Allah, abo bari muri mwe. Ariko abafitanye amasano, bamwe bafite uburenganzira busumba ubw’abandi (mu izungura) rishingiye ku mategeko ya Allah. Mu by’ukuri Allah ni Umumenyi wa byose[^103].
 
-[103]-Ubwo Abayisilamu bimukiraga i Madina, Intumwa Muhamadi yunze ubuvandimwe hagati y’abimukira bari baturutse i Maka n’abasangwa b’i Madina, kugeza n’aho bazunguranaga. Ariko ubwo uyu murongo wahishurwaga wakuyeho iryo zungura ushimangira ko izungura rishingira ku isano gusa, nk‘uko bishimangirwa n’indi mirongo yo muri Qur’an, Surat Nisai.
+[^103]: -Ubwo Abayisilamu bimukiraga i Madina, Intumwa Muhamadi yunze ubuvandimwe hagati y’abimukira bari baturutse i Maka n’abasangwa b’i Madina, kugeza n’aho bazunguranaga. Ariko ubwo uyu murongo wahishurwaga wakuyeho iryo zungura ushimangira ko izungura rishingira ku isano gusa, nk‘uko bishimangirwa n’indi mirongo yo muri Qur’an, Surat Nisai.
 
 # 1236
 
@@ -5160,10 +5176,11 @@ Uretse ba babangikanyamana mwagiranye amasezerano ntibagire icyo bayicaho, cyang
 
 # 1240
 
-Ariko amezi matagatifu[104] narangira, mujye mwica ababangikanyamana (barenze ku masezerano mwagiranye bakanifatanya n’umwanzi wanyu) aho muzajya mubasanga hose[105]. Muzajye mubacakira, mubagote munabubikire muri buri bwubikiro. Ariko nibicuza (bakareka kubangikanya Imana) bagatuganya iswala, bakanatanga amaturo, muzajye mubareka. Mu by’ukuri Allah ni Ubabarira ibyaha, Nyirimpuhwe.
+Ariko amezi matagatifu[^104] narangira, mujye mwica ababangikanyamana (barenze ku masezerano mwagiranye bakanifatanya n’umwanzi wanyu) aho muzajya mubasanga hose[^105]. Muzajye mubacakira, mubagote munabubikire muri buri bwubikiro. Ariko nibicuza (bakareka kubangikanya Imana) bagatuganya iswala, bakanatanga amaturo, muzajye mubareka. Mu by’ukuri Allah ni Ubabarira ibyaha, Nyirimpuhwe.
 
-[104] Amezi matagatifu avugwa muri uyu murongo ni amezi ane akurikira: Muharam (ukwa mbere), Radjab (ukwa karindwi), Dhul Qa’adat (ukwa cumi na kumwe) na Dhul Hijat (ukwa cumi n’abiri) y’ikirangaminsi cya Kiyisilamu gishingiye ku mboneko z’ukwezi.
-[105] Uyu murongo uravuga ibirebana n’urugamba rwo kurwanya ababangikanyamana bari i Maka bari baragiranye amasezerano y’amahoro n’Intumwa Muhamadi (Imana imuhe amahoro n’imigisha), ariko baje kuyarengaho bakomeza ibikorwa by’ihohotera n’ubugizi bwa nabi bakoreraga abemeramana. Aha hakaba ari naho Imana yahereye itegeka abemeramana guha abo babangikanyamana igihe cy’amezi ane ngo babe bahagaritse ibyo bikorwa, icyo gihe cyarangira bakibikomeje abemeramana bakabarwanya.
+[^104]: Amezi matagatifu avugwa muri uyu murongo ni amezi ane akurikira: Muharam (ukwa mbere), Radjab (ukwa karindwi), Dhul Qa’adat (ukwa cumi na kumwe) na Dhul Hijat (ukwa cumi n’abiri) y’ikirangaminsi cya Kiyisilamu gishingiye ku mboneko z’ukwezi.
+
+[^105]: Uyu murongo uravuga ibirebana n’urugamba rwo kurwanya ababangikanyamana bari i Maka bari baragiranye amasezerano y’amahoro n’Intumwa Muhamadi (Imana imuhe amahoro n’imigisha), ariko baje kuyarengaho bakomeza ibikorwa by’ihohotera n’ubugizi bwa nabi bakoreraga abemeramana. Aha hakaba ari naho Imana yahereye itegeka abemeramana guha abo babangikanyamana igihe cy’amezi ane ngo babe bahagaritse ibyo bikorwa, icyo gihe cyarangira bakibikomeje abemeramana bakabarwanya.
 
 # 1241
 
@@ -5187,9 +5204,9 @@ Baguranye amagambo ya Allah igiciro gito, banakumira (abantu kugana) inzira ye. 
 
 # 1246
 
-Nibaramuka bicujije bagahozaho iswala[106], ndetse bakanatanga amaturo, ubwo bazaba babaye abavandimwe banyu mu idini. (Uko ni ko) dusobanura amagambo (yacu) ku bantu bafite ubumenyi.
+Nibaramuka bicujije bagahozaho iswala[^106], ndetse bakanatanga amaturo, ubwo bazaba babaye abavandimwe banyu mu idini. (Uko ni ko) dusobanura amagambo (yacu) ku bantu bafite ubumenyi.
 
-[106] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
+[^106]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
 
 # 1247
 
@@ -5217,9 +5234,9 @@ Ntibikwiye ko ababangikanyamana basura (basengera mu) misigiti ya Allah, kandi u
 
 # 1253
 
-Mu by’ukuri abita ku misigiti ya Allah ni ba bandi bemeye Allah n'umunsi w'imperuka, bagahozaho iswala[107], bagatanga amaturo ndetse ntibagire undi batinya utari Allah. Birashoboka ko abo bari mu bayobotse.
+Mu by’ukuri abita ku misigiti ya Allah ni ba bandi bemeye Allah n'umunsi w'imperuka, bagahozaho iswala[^107], bagatanga amaturo ndetse ntibagire undi batinya utari Allah. Birashoboka ko abo bari mu bayobotse.
 
-[107] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
+[^107]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
 
 # 1254
 
@@ -5263,15 +5280,15 @@ Yemwe abemeye! Mu by’ukuri ababangikanyamana ntibasukuye, bityo ntibazegere Um
 
 # 1264
 
-Nimurwanye ba bandi batemera Allah n’umunsi w'imperuka, batanaziririza ibyo Allah n’Intumwa ye baziririje (bakomoka) mu bahawe Igitabo. (Munarwanye) bamwe mu bahawe igitabo batayobotse idini ry’ukuri (Isilamu), kugeza batanze Jiziyat1 ubwabo (badahagarariwe) kandi baciye bugufi.
+Nimurwanye ba bandi batemera Allah n’umunsi w'imperuka, batanaziririza ibyo Allah n’Intumwa ye baziririje (bakomoka) mu bahawe Igitabo. (Munarwanye) bamwe mu bahawe igitabo batayobotse idini ry’ukuri (Isilamu), kugeza batanze Jiziyat1 ubwabo (badahagarariwe) kandi baciye bugufi.[^*]
 
-1 Jiziyat: Ni umusoro utangwa n’abatari Abayisilamu baba mu bihugu bya Kisilamu, kubera kurindirwa umutekano wabo n’ibyabo. Ukaba warashyizweho kugira ngo nabo bagire uruhare mu iterambere ry’igihugu barimo nk’uko n’abayisilamu bagituyemo batanga amaturo bategekwa n’idini ateza imbere igihugu.
+[^*]: 1 Jiziyat: Ni umusoro utangwa n’abatari Abayisilamu baba mu bihugu bya Kisilamu, kubera kurindirwa umutekano wabo n’ibyabo. Ukaba warashyizweho kugira ngo nabo bagire uruhare mu iterambere ry’igihugu barimo nk’uko n’abayisilamu bagituyemo batanga amaturo bategekwa n’idini ateza imbere igihugu.
 
 # 1265
 
-Abayahudi baravuze bati “Uzayiru (Ezira) ni umwana wa Allah”, n’Abanaswara[108] baravuga bati “Masihi (Mesiya) ni umwana wa Allah.” Ibyo ni ibyo bivugira n’iminwa yabo bigana imvugo y’abahakanye mbere. Umuvumo wa Allah ni ubabeho! Allah arakabarimbura! Ni gute bahindukizwa (bagatera umugongo ukuri)!
+Abayahudi baravuze bati “Uzayiru (Ezira) ni umwana wa Allah”, n’Abanaswara[^108] baravuga bati “Masihi (Mesiya) ni umwana wa Allah.” Ibyo ni ibyo bivugira n’iminwa yabo bigana imvugo y’abahakanye mbere. Umuvumo wa Allah ni ubabeho! Allah arakabarimbura! Ni gute bahindukizwa (bagatera umugongo ukuri)!
 
-[108] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
+[^108]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
 
 # 1266
 
@@ -5295,15 +5312,15 @@ Umunsi (iyo mitungo bahunitse) izacanirwa mu muriro wa Jahanamu, maze igatwikish
 
 # 1271
 
-Mu by’ukuri umubare w’amezi (agize umwaka) yagenwe na Allah ni amezi cumi n'abiri (nk’uko biri) mu gitabo cya Allah[109] ubwo yaremaga ibirere n'isi; muri yo harimo ane matagatifu. (Kubahiriza ayo mezi) ni ryo dini ritunganye; bityo ntimukayihemukiremo (mukora ibyaha). Kandi mujye murwanya ababangikanyamana bose nk’uko babarwanya mwese. Munamenye ko Allah ari kumwe n’abamutinya.
+Mu by’ukuri umubare w’amezi (agize umwaka) yagenwe na Allah ni amezi cumi n'abiri (nk’uko biri) mu gitabo cya Allah[^109] ubwo yaremaga ibirere n'isi; muri yo harimo ane matagatifu. (Kubahiriza ayo mezi) ni ryo dini ritunganye; bityo ntimukayihemukiremo (mukora ibyaha). Kandi mujye murwanya ababangikanyamana bose nk’uko babarwanya mwese. Munamenye ko Allah ari kumwe n’abamutinya.
 
-[109]Igitabo cya Allah kigamijwe hano ni urubaho rurinzwe rwanditsweho igeno ry’ibizaba kuzageza ku munsi w’imperuka (Lawuh ul Mah’fudhi).
+[^109]: Igitabo cya Allah kigamijwe hano ni urubaho rurinzwe rwanditsweho igeno ry’ibizaba kuzageza ku munsi w’imperuka (Lawuh ul Mah’fudhi).
 
 # 1272
 
-Mu by’ukuri guhindagura amezi matagatifu asimbuzwa atari yo[110] ni ukongera ubuhakanyi. Ibyo (Shitani) abiyobesha ba bandi bahakanye, kuko bayazirura mu mwaka umwe mu wundi bakayaziririza kugira ngo bahuze n’umubare w’ayo Allah yaziririje; ubwo bakaba baziruye ibyo Allah yaziririje. Bakundishijwe ibikorwa byabo bibi. Kandi Allah ntayobora abantu b’abahakanyi.
+Mu by’ukuri guhindagura amezi matagatifu asimbuzwa atari yo[^110] ni ukongera ubuhakanyi. Ibyo (Shitani) abiyobesha ba bandi bahakanye, kuko bayazirura mu mwaka umwe mu wundi bakayaziririza kugira ngo bahuze n’umubare w’ayo Allah yaziririje; ubwo bakaba baziruye ibyo Allah yaziririje. Bakundishijwe ibikorwa byabo bibi. Kandi Allah ntayobora abantu b’abahakanyi.
 
-[110]Ababangikanyamana bajyaga bahindagura amezi matagatifu bakayimurira mu yandi atari yo ku bw’inyungu zabo.
+[^110]: Ababangikanyamana bajyaga bahindagura amezi matagatifu bakayimurira mu yandi atari yo ku bw’inyungu zabo.
 
 # 1273
 
@@ -5439,9 +5456,9 @@ Ese inkuru ya ba bandi bababanjirije ntiyabagezeho: abantu ba Nuhu, Adi, Thamudu
 
 # 1306
 
-Abemeramana n'abemeramanakazi ni inshuti hagati yabo. Babwiriza (abantu) gukora ibyiza bakanababuza gukora ibibi, bahozaho iswala[111], bagatanga amaturo ndetse bakanumvira Allah n'Intumwa ye; abo Allah azabagirira impuhwe. Mu by’ukuri Allah ni Umunyacyubahiro bihebuje, Nyirubugenge buhambaye.
+Abemeramana n'abemeramanakazi ni inshuti hagati yabo. Babwiriza (abantu) gukora ibyiza bakanababuza gukora ibibi, bahozaho iswala[^111], bagatanga amaturo ndetse bakanumvira Allah n'Intumwa ye; abo Allah azabagirira impuhwe. Mu by’ukuri Allah ni Umunyacyubahiro bihebuje, Nyirubugenge buhambaye.
 
-[111] Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
+[^111]: Reba uko twasobanuye iyi nyito mu murongo wa 62 muri Surat ul Baqarat.
 
 # 1307
 
@@ -5585,9 +5602,9 @@ Ndetse hari n’abandi barindirijwe bategereje icyo Allah azabategeka; byaba ari
 
 # 1342
 
-Na ba bandi (indyarya) bubatse umusigiti[112] bagamije kugirira nabi (abemeramana), guhakana (Allah), no gucamo ibice abemeramana, (bakanawugira) indiri y’abarwanya Allah n’Intumwa ye na mbere hose (y’uko wubakwa), rwose bazarahira ko nta kindi bari bagambiriye kitari ibyiza. Kandi Allah ahamya ko mu by’ukuri ari abanyabinyoma.
+Na ba bandi (indyarya) bubatse umusigiti[^112] bagamije kugirira nabi (abemeramana), guhakana (Allah), no gucamo ibice abemeramana, (bakanawugira) indiri y’abarwanya Allah n’Intumwa ye na mbere hose (y’uko wubakwa), rwose bazarahira ko nta kindi bari bagambiriye kitari ibyiza. Kandi Allah ahamya ko mu by’ukuri ari abanyabinyoma.
 
-[112] Umusigiti uvugwa muri uyu murongo wa 107 na 108 ni uwubatswe n’abantu barwanyaga Intumwa y’Imana Muhamadi (Imana imuhe amahoro n’imigisha), bawubatse hafi y’umusigiti wa Quba bagamije kuwukoresha bacamo ibice Abayislamu ndetse no kuwucuririramo imigambi mibisha yo kugirira nabi Intumwa Muhamadi (Imana imuhe amahoro n’imigisha). Bamaze kuwuzuza baje gusaba Intumwa y’Imana ko yaza kuwuyoboramo iswala, maze Imana imuhishurira uyu murongo imubuza kuwusengeramo. Ni bwo Intumwa y’Imana yahise yohereza abantu bajya kuwusenya kuko utari ugamije ineza ya Isilamu.
+[^112]: Umusigiti uvugwa muri uyu murongo wa 107 na 108 ni uwubatswe n’abantu barwanyaga Intumwa y’Imana Muhamadi (Imana imuhe amahoro n’imigisha), bawubatse hafi y’umusigiti wa Quba bagamije kuwukoresha bacamo ibice Abayislamu ndetse no kuwucuririramo imigambi mibisha yo kugirira nabi Intumwa Muhamadi (Imana imuhe amahoro n’imigisha). Bamaze kuwuzuza baje gusaba Intumwa y’Imana ko yaza kuwuyoboramo iswala, maze Imana imuhishurira uyu murongo imubuza kuwusengeramo. Ni bwo Intumwa y’Imana yahise yohereza abantu bajya kuwusenya kuko utari ugamije ineza ya Isilamu.
 
 # 1343
 
@@ -5611,9 +5628,9 @@ Mu by’ukuri Allah yagiranye ubucuruzi n’abemeramana (bamuha) imitima yabo n�
 
 # 1348
 
-Ntibikwiye ku Muhanuzi (Muhamadi) na ba bandi bemeye, gusabira ababangikanyamana kubabarirwa ibyaha kabone n'iyo baba bafitanye isano, nyuma y’uko bibagaragariye ko ari abo mu muriro wa Jahimu[113] (kuko bapfuye ari ababangikanyamana).
+Ntibikwiye ku Muhanuzi (Muhamadi) na ba bandi bemeye, gusabira ababangikanyamana kubabarirwa ibyaha kabone n'iyo baba bafitanye isano, nyuma y’uko bibagaragariye ko ari abo mu muriro wa Jahimu[^113] (kuko bapfuye ari ababangikanyamana).
 
-[113]Jahimu: Ni rimwe mu mazina y’umuriro wa Jahanamu.
+[^113]: Jahimu: Ni rimwe mu mazina y’umuriro wa Jahanamu.
 
 # 1349
 
@@ -5633,9 +5650,9 @@ Rwose Allah yamaze kwakira ukwicuza k’Umuhanuzi (Muhamadi) n’abimukira (bavu
 
 # 1353
 
-Kandi (Allah yakiriye ukwicuza) kwa ba bandi batatu[114] bari barasigaye inyuma (batagiye ku rugamba bari mu kato, bategereje ko Allah yakira ukwicuza kwabo), kugeza ubwo isi ibabanye ntoya n’ukuntu ari ngari, n'imitima yabo ikabura amahwemo; nuko bamenya ko ntaho bahungira Allah usibye kuri We. Hanyuma (Allah) yakira ukwicuza kwabo kugira ngo bamugarukire. Mu by’ukuri Allah ni Uwakira ukwicuza, Nyirimbabazi.
+Kandi (Allah yakiriye ukwicuza) kwa ba bandi batatu[^114] bari barasigaye inyuma (batagiye ku rugamba bari mu kato, bategereje ko Allah yakira ukwicuza kwabo), kugeza ubwo isi ibabanye ntoya n’ukuntu ari ngari, n'imitima yabo ikabura amahwemo; nuko bamenya ko ntaho bahungira Allah usibye kuri We. Hanyuma (Allah) yakira ukwicuza kwabo kugira ngo bamugarukire. Mu by’ukuri Allah ni Uwakira ukwicuza, Nyirimbabazi.
 
-[114]Abo batatu (Hilali mwene Umaya, Ka’abu mwene Maliki na Murarat mwene Rabii) ni ba bandi bavuzwe mu murongo wa 106 muri iyi Surat. Bakoze icyaha cyo kutajya ku rugamba rwa Tabuuk kandi bari babifitiye ubushobozi, maze bicuza ku Mana ariko babwirwa ko bagomba gutegereza kuko ukwicuza kwabo kwari kutarakirwa. Muri uyu murongo baragaragarizwa ko ukwicuza kwabo kwakiriwe nyuma y’amarira n’agahinda batewe n’amakosa yabo.
+[^114]: Abo batatu (Hilali mwene Umaya, Ka’abu mwene Maliki na Murarat mwene Rabii) ni ba bandi bavuzwe mu murongo wa 106 muri iyi Surat. Bakoze icyaha cyo kutajya ku rugamba rwa Tabuuk kandi bari babifitiye ubushobozi, maze bicuza ku Mana ariko babwirwa ko bagomba gutegereza kuko ukwicuza kwabo kwari kutarakirwa. Muri uyu murongo baragaragarizwa ko ukwicuza kwabo kwakiriwe nyuma y’amarira n’agahinda batewe n’amakosa yabo.
 
 # 1354
 
@@ -5679,15 +5696,15 @@ Mu by’ukuri mwagezweho n’Intumwa ibakomokamo; iremererwa n’ingorane muhura
 
 # 1364
 
-Ariko nibatera umugongo, uvuge (yewe Muhamadi) uti “Allah arampagije.” Nta yindi mana ikwiye gusengwa uretse We. Ni We niringiye, kandi ni We Nyagasani wa Ar’shi[115] ihambaye.
+Ariko nibatera umugongo, uvuge (yewe Muhamadi) uti “Allah arampagije.” Nta yindi mana ikwiye gusengwa uretse We. Ni We niringiye, kandi ni We Nyagasani wa Ar’shi[^115] ihambaye.
 
-[115] Reba uko twasobanuye iri jambo Surat ul A’araf: 54
+[^115]: Reba uko twasobanuye iri jambo Surat ul A’araf: 54
 
 # 1365
 
-Alif Laam Ra[116]. Iyo ni imirongo (Ayat) y’igitabo cyuje ubushishozi.
+Alif Laam Ra[^116]. Iyo ni imirongo (Ayat) y’igitabo cyuje ubushishozi.
 
-[116] Alif Laam Ra: Inyuguti nk’izi twazivuzeho mu ntangiriro ya Surat Al Baqarat.
+[^116]: Alif Laam Ra: Inyuguti nk’izi twazivuzeho mu ntangiriro ya Surat Al Baqarat.
 
 # 1366
 
@@ -5695,9 +5712,9 @@ Ese ni igitangaza ku bantu kuba twarahishuriye umwe muri bo (Intumwa Muhamadi, t
 
 # 1367
 
-Mu by’ukuri Nyagasani wanyu ni Allah waremye ibirere n’isi mu minsi itandatu, hanyuma aganza hejuru ya Ar’shi[117]. Agenga gahunda z’ibintu byose. Nta muvugizi (abantu bazagira ku munsi w’imperuka) uretse nyuma y’uburenganzira bwe. Uwo ni Allah, Nyagasani wanyu; bityo nimumusenge (wenyine). Ese ntimwibuka (ngo munakure inyigisho muri ibyo bimenyetso)?
+Mu by’ukuri Nyagasani wanyu ni Allah waremye ibirere n’isi mu minsi itandatu, hanyuma aganza hejuru ya Ar’shi[^117]. Agenga gahunda z’ibintu byose. Nta muvugizi (abantu bazagira ku munsi w’imperuka) uretse nyuma y’uburenganzira bwe. Uwo ni Allah, Nyagasani wanyu; bityo nimumusenge (wenyine). Ese ntimwibuka (ngo munakure inyigisho muri ibyo bimenyetso)?
 
-[117] Reba ibisobanuro by’iri jambo muri Surat Al A’araf: 54.
+[^117]: Reba ibisobanuro by’iri jambo muri Surat Al A’araf: 54.
 
 # 1368
 
@@ -6033,9 +6050,9 @@ Maze baravuga bati “Allah wenyine ni we twiringiye. Nyagasani wacu! Ntushoboze
 
 # 1451
 
-Nuko Musa n’umuvandimwe we tubahishurira ubutumwa (tugira tuti) “Nimuhe abantu banyu amazu mu Misiri, kandi amazu yanyu muyagire aho gusengera, ndetse mujye muhozaho iswala[118]. Ngaho geza inkuru nziza ku bemera.”
+Nuko Musa n’umuvandimwe we tubahishurira ubutumwa (tugira tuti) “Nimuhe abantu banyu amazu mu Misiri, kandi amazu yanyu muyagire aho gusengera, ndetse mujye muhozaho iswala[^118]. Ngaho geza inkuru nziza ku bemera.”
 
-[118] Twararisobanuye mu mirongo yatambutse.
+[^118]: Twararisobanuye mu mirongo yatambutse.
 
 # 1452
 
@@ -6127,9 +6144,9 @@ Kandi ujye ukurikiza ibyo uhishurirwa, unihangane kugeza ubwo Allah abakiranuye 
 
 # 1474
 
-Alif Laam Raa[119]. Iki ni igitabo kigizwe n’imirongo yasobekanywe ubushishozi, hanyuma isesengurwa na Nyirubugenge buhambaye, Umumenyi wa byose.
+Alif Laam Raa[^119]. Iki ni igitabo kigizwe n’imirongo yasobekanywe ubushishozi, hanyuma isesengurwa na Nyirubugenge buhambaye, Umumenyi wa byose.
 
-[119]Alif Laam Raa: Inyuguti nk’izi twazivuzeho mu ntangiriro ya Surat Al Baqarat.
+[^119]: Alif Laam Raa: Inyuguti nk’izi twazivuzeho mu ntangiriro ya Surat Al Baqarat.
 
 # 1475
 
@@ -6153,9 +6170,9 @@ Buri kiremwa cyose kigenda ku isi, Allah yakigeneye amafunguro. Kandi azi ubutur
 
 # 1480
 
-Ni na We waremye ibirere n'isi mu minsi itandatu, kandi Ar’shi[120] ye yari hejuru y’amazi; (ibyo byose yabikoze) kugira ngo abagerageze (bityo agaragaze) muri mwe urusha abandi ibikorwa byiza. Ariko uramutse ubabwiye uti “Mu by’ukuri muzazurwa nyuma yo gupfa”, ba bandi bahakanye bavuga bati “Iyi (Qur’an) nta kindi iri cyo uretse ko ari uburozi bugaragara.”
+Ni na We waremye ibirere n'isi mu minsi itandatu, kandi Ar’shi[^120] ye yari hejuru y’amazi; (ibyo byose yabikoze) kugira ngo abagerageze (bityo agaragaze) muri mwe urusha abandi ibikorwa byiza. Ariko uramutse ubabwiye uti “Mu by’ukuri muzazurwa nyuma yo gupfa”, ba bandi bahakanye bavuga bati “Iyi (Qur’an) nta kindi iri cyo uretse ko ari uburozi bugaragara.”
 
-[120] Reba uko twasobanuye iri jambo Surat ul A’araf: 54.
+[^120]: Reba uko twasobanuye iri jambo Surat ul A’araf: 54.
 
 # 1481
 
@@ -6303,9 +6320,9 @@ Ubwo (ya nkuge) yari ibatwaye hagati mu muhengeri umeze nk'imisozi, Nuhu yahamag
 
 # 1517
 
-Maze isi irabwirwa iti “Yewe wa si we! Mira amazi yawe! Nawe wa kirere we! Hagarika (imvura yawe). Nuko amazi arakama, iteka (ryo kuboreka) riba rirasohoye. Maze (inkuge) ihagarara ku musozi witwa Judi[121]. Nuko havugwa imvugo igira iti “Ukurimbuka kubaye ku bantu b’ababangikanyamana!”
+Maze isi irabwirwa iti “Yewe wa si we! Mira amazi yawe! Nawe wa kirere we! Hagarika (imvura yawe). Nuko amazi arakama, iteka (ryo kuboreka) riba rirasohoye. Maze (inkuge) ihagarara ku musozi witwa Judi[^121]. Nuko havugwa imvugo igira iti “Ukurimbuka kubaye ku bantu b’ababangikanyamana!”
 
-[121] Umusozi witwa Judi, uherereye kuri ubu mu majyepfo y’igihugu cya Turukiya.
+[^121]: Umusozi witwa Judi, uherereye kuri ubu mu majyepfo y’igihugu cya Turukiya.
 
 # 1518
 
@@ -6625,9 +6642,9 @@ Ibitagaragara byo mu birere no mu isi ni ibya Allah, kandi iwe ni ho ibintu byos
 
 # 1597
 
-Alif Laam Raa[122]. Iyi ni imirongo y’igitabo gisobanutse.
+Alif Laam Raa[^122]. Iyi ni imirongo y’igitabo gisobanutse.
 
-[122] Inyuguti nk’izi twazivuzeho mu masura yatambutse.
+[^122]: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
 
 # 1598
 
@@ -6703,9 +6720,9 @@ Nuko haza abagenzi bohereza umuvomyi wabo (kubavomera amazi mu iriba), maze aman
 
 # 1616
 
-Nuko bamugurisha ku giciro gito; amadirihamu[123] make. Kandi ntabwo bamushakaga (baramwikijije).
+Nuko bamugurisha ku giciro gito; amadirihamu[^123] make. Kandi ntabwo bamushakaga (baramwikijije).
 
-[123] Ni ubwoko bw’amafaranga abarwa agaciro kayo muri Feza. N’ubu hari ibihugu bigikoresha amafaranga afite iyo nyito
+[^123]: Ni ubwoko bw’amafaranga abarwa agaciro kayo muri Feza. N’ubu hari ibihugu bigikoresha amafaranga afite iyo nyito
 
 # 1617
 
@@ -7073,15 +7090,15 @@ Rwose muri (izo) nkuru zabo harimo inyigisho ku banyabwenge. Ntabwo (Qur’an) a
 
 # 1708
 
-Alif Laam Miim Raa[124]. Iyi ni imirongo y’igitabo (Qur’an), kandi ibyo wahishuriwe (yewe Muhamadi) biturutse kwa Nyagasani wawe ni ukuri, ariko abenshi mu bantu ntibemera.
+Alif Laam Miim Raa[^124]. Iyi ni imirongo y’igitabo (Qur’an), kandi ibyo wahishuriwe (yewe Muhamadi) biturutse kwa Nyagasani wawe ni ukuri, ariko abenshi mu bantu ntibemera.
 
-[124] Imirongo itangirwa n’inyuguti nk’izi twazivuzeho mu masura yatambutse.
+[^124]: Imirongo itangirwa n’inyuguti nk’izi twazivuzeho mu masura yatambutse.
 
 # 1709
 
-Allah ni We wazamuye ibirere nta nkingi (zibifashe) mubona, nuko aganza hejuru ya Ar’shi[125]. Yacishije bugufi izuba n’ukwezi (ku bw’inyungu z’ibiremwa), buri cyose kigenda mu nzira yacyo kigana ku gihe cyagenwe. Agenga gahunda z’ibintu byose, akanasobanura ibimenyetso (bye) kugira ngo mwemere mudashidikanya kuzahura na Nyagasani wanyu.
+Allah ni We wazamuye ibirere nta nkingi (zibifashe) mubona, nuko aganza hejuru ya Ar’shi[^125]. Yacishije bugufi izuba n’ukwezi (ku bw’inyungu z’ibiremwa), buri cyose kigenda mu nzira yacyo kigana ku gihe cyagenwe. Agenga gahunda z’ibintu byose, akanasobanura ibimenyetso (bye) kugira ngo mwemere mudashidikanya kuzahura na Nyagasani wanyu.
 
-[125] Reba ibisobanuro by’iri jambo muri Surat ul A’araf, Aya ya 54.
+[^125]: Reba ibisobanuro by’iri jambo muri Surat ul A’araf, Aya ya 54.
 
 # 1710
 
@@ -7249,9 +7266,9 @@ Ba bandi bahakanye baravuga bati “Ntabwo (wowe Muhamadi) uri Intumwa.” Vuga 
 
 # 1751
 
-Alif Laam Raa[126]. (Iki ni) igitabo twaguhishuriye (yewe Muhamadi) kugira ngo ukure abantu mu mwijima (w’ubuhakanyi) ubaganisha ku rumuri (rwo kwemera Imana imwe), ku bw’ubushake bwa Nyagasani wabo, ubageze mu nzira ya Nyiricyubahiro gihebuje, Ukwiye ibisingizo byose,
+Alif Laam Raa[^126]. (Iki ni) igitabo twaguhishuriye (yewe Muhamadi) kugira ngo ukure abantu mu mwijima (w’ubuhakanyi) ubaganisha ku rumuri (rwo kwemera Imana imwe), ku bw’ubushake bwa Nyagasani wabo, ubageze mu nzira ya Nyiricyubahiro gihebuje, Ukwiye ibisingizo byose,
 
-[126]Ayat zitangirwa n’inyuguti nk’izi twazivuzeho mu mirongo yatambutse.
+[^126]: Ayat zitangirwa n’inyuguti nk’izi twazivuzeho mu mirongo yatambutse.
 
 # 1752
 
@@ -7459,9 +7476,9 @@ Iyi (Qur’an) ni ubutumwa ku bantu, kugira ngo bukoreshwe mu kubaburira, no kug
 
 # 1803
 
-Alif Laam Raa[127]. Iyo ni imirongo (ayat) y’igitabo, ikaba (n’imirongo ya) Qur’an isobanura neza (ibintu).
+Alif Laam Raa[^127]. Iyo ni imirongo (ayat) y’igitabo, ikaba (n’imirongo ya) Qur’an isobanura neza (ibintu).
 
-[127] Isura zitangirwa n’inyuguti nk’izi, twazivuzeho mu masura yatambutse, urugero Surat Al Baqarat.
+[^127]: Isura zitangirwa n’inyuguti nk’izi, twazivuzeho mu masura yatambutse, urugero Surat Al Baqarat.
 
 # 1804
 
@@ -7769,9 +7786,9 @@ Mu by’ukuri muri ibyo harimo inyigisho ku bemeramana.
 
 # 1880
 
-Ndetse n’abari batuye i Ayikati[128] (na bo) bari inkozi z’ibibi.
+Ndetse n’abari batuye i Ayikati[^128] (na bo) bari inkozi z’ibibi.
 
-[128] Al Ayikat: Ni ahantu hari ishyamba ry’inzitane hafi y’ahitwa Madiyani, ari naho Intumwa Shuwayibu yoherejwe.
+[^128]: Al Ayikat: Ni ahantu hari ishyamba ry’inzitane hafi y’ahitwa Madiyani, ari naho Intumwa Shuwayibu yoherejwe.
 
 # 1881
 
@@ -8535,9 +8552,9 @@ Kandi rwose twasobanuye (byinshi) muri iyi Qur’an, kugira ngo (abantu) babashe
 
 # 2071
 
-Vuga (yewe Muhamadi) uti “Iyo haza kuba hariho izindi mana (zibangikanye) na We (Allah) nk’uko (ababangikanyamana) babivuga, zari gushaka inzira izigeza kwa (Nyagasani) Nyiri Ar’shi[129] (kugira ngo zimurwanye).”
+Vuga (yewe Muhamadi) uti “Iyo haza kuba hariho izindi mana (zibangikanye) na We (Allah) nk’uko (ababangikanyamana) babivuga, zari gushaka inzira izigeza kwa (Nyagasani) Nyiri Ar’shi[^129] (kugira ngo zimurwanye).”
 
-[129] Reba uko twasobanuye iri jambo muri Surat ul A’araf: 54.
+[^129]: Reba uko twasobanuye iri jambo muri Surat ul A’araf: 54.
 
 # 2072
 
@@ -8925,9 +8942,9 @@ Unasome ibyo wahishuriwe mu gitabo cya Nyagasani wawe (yewe Muhamadi). Ntawahind
 
 # 2168
 
-Ujye unihanganira kugumana na ba bandi (b’abakene) basenga Nyagasani wabo igitondo n’ikigoroba, bashaka kwishimirwa na We, ndetse ntukabirengagize (wita ku bikomerezwa)[130] ushaka guha agaciro imitako y’ubuzima bwo ku isi. Kandi ntukumvire uwo twarekeye umutima we mu burangare maze agakurikira irari rye, nuko ibye bikaba kurengera.
+Ujye unihanganira kugumana na ba bandi (b’abakene) basenga Nyagasani wabo igitondo n’ikigoroba, bashaka kwishimirwa na We, ndetse ntukabirengagize (wita ku bikomerezwa)[^130] ushaka guha agaciro imitako y’ubuzima bwo ku isi. Kandi ntukumvire uwo twarekeye umutima we mu burangare maze agakurikira irari rye, nuko ibye bikaba kurengera.
 
-[130] Uyu murongo wahishuwe kubera ibikomerezwa by’abakurayishi, babwiye Intumwa y’Imana (Muhamadi) bati “Niba ushaka ko tukuyoboka, banza wirukane abo bakene bakuyobotse”
+[^130]: Uyu murongo wahishuwe kubera ibikomerezwa by’abakurayishi, babwiye Intumwa y’Imana (Muhamadi) bati “Niba ushaka ko tukuyoboka, banza wirukane abo bakene bakuyobotse”
 
 # 2169
 
@@ -9147,9 +9164,9 @@ Naho rwa rukuta (neguye), rwari urw’abana b’imfubyi babiri b’abahungu muri
 
 # 2223
 
-Baranakubaza (yewe Muhamadi) ku witwa Dhul Qar’nayini[131]. Vuga uti “Ndagira icyo mubabwiraho.”
+Baranakubaza (yewe Muhamadi) ku witwa Dhul Qar’nayini[^131]. Vuga uti “Ndagira icyo mubabwiraho.”
 
-[131] Dhul Qar’nayini: Ni izina ry’umuntu wavuzwe muri Qur’an, wari umwami w’umunyakuri akaba ari we wubatse urukuta rurinda abantu kugerwaho n’ibikorwa by’inkozi z’ibibi zitwa Yaajuja na Maajuja.
+[^131]: Dhul Qar’nayini: Ni izina ry’umuntu wavuzwe muri Qur’an, wari umwami w’umunyakuri akaba ari we wubatse urukuta rurinda abantu kugerwaho n’ibikorwa by’inkozi z’ibibi zitwa Yaajuja na Maajuja.
 
 # 2224
 
@@ -9193,9 +9210,9 @@ Kugeza ubwo yageze hagati y’imisozi ibiri miremire, inyuma yayo ahasanga abant
 
 # 2234
 
-Baravuga bati “Yewe Dhul Qar’nayini! Mu by’ukuri Yaajuja na Maajuja[132] bakora ubwononnyi ku isi. Ese tuguhe igihembo kugira ngo wubake urukuta hagati yacu na bo?”
+Baravuga bati “Yewe Dhul Qar’nayini! Mu by’ukuri Yaajuja na Maajuja[^132] bakora ubwononnyi ku isi. Ese tuguhe igihembo kugira ngo wubake urukuta hagati yacu na bo?”
 
-[132] Yaajuja na Maajuja: Ni amazina ya bamwe mu bantu babayeho ku isi mu gihe cy’umwami Dhul Qar’nayini igaruka ryabo rikaba ari kimwe mu bimenyetso bikuru by’umunsi w’imperuka.
+[^132]: Yaajuja na Maajuja: Ni amazina ya bamwe mu bantu babayeho ku isi mu gihe cy’umwami Dhul Qar’nayini igaruka ryabo rikaba ari kimwe mu bimenyetso bikuru by’umunsi w’imperuka.
 
 # 2235
 
@@ -9263,9 +9280,9 @@ Vuga (yewe Muhamadi) uti “Mu by’ukuri njye ndi umuntu nkamwe. Nahishuriwe ko
 
 # 2251
 
-Kaaf-Haa -Yaa -Ayin-Swaad[133].
+Kaaf-Haa -Yaa -Ayin-Swaad[^133].
 
-[133]-Kaaf-Haa-Yaa-Ayin-Swaad: Inyuguti nk’izi twazivuzeho mu ntangiriro z’amwe mu masura yabanje.
+[^133]: -Kaaf-Haa-Yaa-Ayin-Swaad: Inyuguti nk’izi twazivuzeho mu ntangiriro z’amwe mu masura yabanje.
 
 # 2252
 
@@ -9517,9 +9534,9 @@ Iryo ni ryo juru tuzaha abagaragu bacu bagandukira (Allah) ngo barizungure.
 
 # 2314
 
-Kandi (twe abamalayika) ntitujya tumanuka bitari ku itegeko rya Nyagasani wawe (yewe Muhamadi)[134]. Ni We ugenga ibiri imbere yacu, ibiri inyuma yacu ndetse no hagati yabyo ubwabyo; kandi Nyagasani wawe ntajya yibagirwa.
+Kandi (twe abamalayika) ntitujya tumanuka bitari ku itegeko rya Nyagasani wawe (yewe Muhamadi)[^134]. Ni We ugenga ibiri imbere yacu, ibiri inyuma yacu ndetse no hagati yabyo ubwabyo; kandi Nyagasani wawe ntajya yibagirwa.
 
-[134]Intumwa Muhamadi yajyaga yifuza ko Malayika Jibril yajya amugeraho kenshi amuzaniye ubutumwa (Wah’yi), nuko Jibril amubwira aya magambo.
+[^134]: Intumwa Muhamadi yajyaga yifuza ko Malayika Jibril yajya amugeraho kenshi amuzaniye ubutumwa (Wah’yi), nuko Jibril amubwira aya magambo.
 
 # 2315
 
@@ -9547,9 +9564,9 @@ Hanyuma mu by’ukuri ni twe tuzi neza abakwiye gutwikirwa mu muriro kurusha aba
 
 # 2321
 
-Nta n’umwe muri mwe utazayinyuraho (Siratwa)[135]; iryo ni ihame ntakuka rya Nyagasani wawe.
+Nta n’umwe muri mwe utazayinyuraho (Siratwa)[^135]; iryo ni ihame ntakuka rya Nyagasani wawe.
 
-[135]Siratwa: Nk’uko Gihamya zitandukanye muri Qur’an no mu nyigisho z’Intumwa y’Imana (Imana iyihe amahoro n’imigisha) zibigaragaza, ni ikiraro kizaba kiri hejuru y’umuriro wa Jahanamu cyerekeza mu ijuru, kizanyurwaho n’abemeye Imana gusa by’ukuri bagere mu ijuru. naho abemeramana b’abanyabyaha ntibazabasha kukirenga bazagwa mu muriro wa Jahanamu, nyuma y’igihe runaka Allah azashaka ko bawubamo azabakuremo. Naho abahakanyi n’ababangikanyamana bo ntibazanyura kuri icyo kiraro kuko bazaba baramaze gutabwa mu muriro.
+[^135]: Siratwa: Nk’uko Gihamya zitandukanye muri Qur’an no mu nyigisho z’Intumwa y’Imana (Imana iyihe amahoro n’imigisha) zibigaragaza, ni ikiraro kizaba kiri hejuru y’umuriro wa Jahanamu cyerekeza mu ijuru, kizanyurwaho n’abemeye Imana gusa by’ukuri bagere mu ijuru. naho abemeramana b’abanyabyaha ntibazabasha kukirenga bazagwa mu muriro wa Jahanamu, nyuma y’igihe runaka Allah azashaka ko bawubamo azabakuremo. Naho abahakanyi n’ababangikanyamana bo ntibazanyura kuri icyo kiraro kuko bazaba baramaze gutabwa mu muriro.
 
 # 2322
 
@@ -9661,9 +9678,9 @@ None se ni ibisekuru bingahe twarimbuye mbere yabo! Ese hari n’umwe muri bo uk
 
 # 2349
 
-Twa Ha[136].
+Twa Ha[^136].
 
-[136]Twa Haa: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
+[^136]: Twa Haa: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
 
 # 2350
 
@@ -9679,9 +9696,9 @@ Ahubwo (twayihishuye kugira ngo ibe) urwibutso kuri ba bandi bagandukira Allah.
 
 # 2353
 
-(Allah) Nyirimpuhwe uganje hejuru ya Ar’shi[137].
+(Allah) Nyirimpuhwe uganje hejuru ya Ar’shi[^137].
 
-[137] Nkuko iyi nkuru yaje muri Surat Al Qaswasw
+[^137]: Nkuko iyi nkuru yaje muri Surat Al Qaswasw
 
 # 2354
 
@@ -9701,9 +9718,9 @@ Ese (yewe Muhamadi) waba waragezweho n’inkuru ya Musa?
 
 # 2358
 
-Ubwo yabonaga umuriro nuko akabwira ab’iwe ati “Mugume aha! Mu by’ukuri ndabutswe umuriro, hari ubwo nabazaniraho igishirira, cyangwa kuri uwo muriro nkahasanga uwatuyobora (inzira).”[138]
+Ubwo yabonaga umuriro nuko akabwira ab’iwe ati “Mugume aha! Mu by’ukuri ndabutswe umuriro, hari ubwo nabazaniraho igishirira, cyangwa kuri uwo muriro nkahasanga uwatuyobora (inzira).”[^138]
 
-[138] Ubwo Musa yari amaze kurangiza igihe yasezeranye na Sebukwe cyo kumuragirira ihene, yagarutse mu Misiri ava i Madiyani, ari kumwe n’umugore we. Kubera ko yari amaze igihe gisaga imyaka icumi atahagera, yaje kuyobera mu butayu mu ijoro ry’umwijima n’ubukonje, ari bwo yarabukwaga umuriro.
+[^138]: Ubwo Musa yari amaze kurangiza igihe yasezeranye na Sebukwe cyo kumuragirira ihene, yagarutse mu Misiri ava i Madiyani, ari kumwe n’umugore we. Kubera ko yari amaze igihe gisaga imyaka icumi atahagera, yaje kuyobera mu butayu mu ijoro ry’umwijima n’ubukonje, ari bwo yarabukwaga umuriro.
 
 # 2359
 
@@ -9711,9 +9728,9 @@ Nuko awugezeho, yumva ijwi rimuhamagara riti “Yewe Musa!”
 
 # 2360
 
-“Mu by’ukuri ndi Nyagasani wawe, bityo kwetura inkweto zawe kuko uri mu kibaya gitagatifu cya Tuwa”,[139]
+“Mu by’ukuri ndi Nyagasani wawe, bityo kwetura inkweto zawe kuko uri mu kibaya gitagatifu cya Tuwa”,[^139]
 
-[139]Twuwa: Ni ikibaya gitagatifu kiri mu majyepfo y’umusozi wa Sinayi.
+[^139]: Twuwa: Ni ikibaya gitagatifu kiri mu majyepfo y’umusozi wa Sinayi.
 
 # 2361
 
@@ -9985,9 +10002,9 @@ Kandi Farawo yayobeje abantu be (abaganisha mu buhakanyi), ndetse ntiyabayoboye 
 
 # 2428
 
-Yemwe bene Isiraheli! Rwose twabakijije umwanzi wanyu (Farawo), tunabasezeranya (kugera amahoro) iruhande rw’iburyo ku musozi (wa Sinayi), nuko tunabamanurira (amafunguro ya) Manu na Saluwa[140],
+Yemwe bene Isiraheli! Rwose twabakijije umwanzi wanyu (Farawo), tunabasezeranya (kugera amahoro) iruhande rw’iburyo ku musozi (wa Sinayi), nuko tunabamanurira (amafunguro ya) Manu na Saluwa[^140],
 
-[140] Reba uko twasobanuye aya magambo muri Surat al Baqarat, umurongo wa 57.
+[^140]: Reba uko twasobanuye aya magambo muri Surat al Baqarat, umurongo wa 57.
 
 # 2429
 
@@ -10199,9 +10216,9 @@ Kandi ujye ubwiriza abo mu rugo iwawe gusali ndetse unabihozeho. Ntitujya tugusa
 
 # 2481
 
-(Abahakanye) baravuga bati “Kuki (Muhamadi) atatuzanira igitangaza giturutse kwa Nyagasani we?” Ese ntibagezweho n’igitangaza (Qur’an) gishimangira ibyavuzwe mu bitabo byabanje[141]?
+(Abahakanye) baravuga bati “Kuki (Muhamadi) atatuzanira igitangaza giturutse kwa Nyagasani we?” Ese ntibagezweho n’igitangaza (Qur’an) gishimangira ibyavuzwe mu bitabo byabanje[^141]?
 
-[141] Ibitabo byabanjirije Qur’an ni Suhufi yahishuriwe Intumwa Ibrahim, Zaburi yahishuriwe Intumwa Dawudi, Tawurati yahishuriwe Intumwa Musa, Injiili (Ivanjili) yahishuriwe Intumwa Issa (Yesu). Kubyemera bikaba ari inkingi ya kane mu nkingi zigize ukwemera kwa Isilamu.
+[^141]: Ibitabo byabanjirije Qur’an ni Suhufi yahishuriwe Intumwa Ibrahim, Zaburi yahishuriwe Intumwa Dawudi, Tawurati yahishuriwe Intumwa Musa, Injiili (Ivanjili) yahishuriwe Intumwa Issa (Yesu). Kubyemera bikaba ari inkingi ya kane mu nkingi zigize ukwemera kwa Isilamu.
 
 # 2482
 
@@ -10297,9 +10314,9 @@ Ese (ababangikanyamana) bishyiriyeho ibigirwamana bishobora kuzura (abapfuye) bi
 
 # 2505
 
-Iyo (mu kirere no ku isi) haza kuba hari izindi mana zitari Allah, byombi byari kuba mu kaduruvayo. Ubutungane ni ubwa Allah, Nyagasani Nyiri Ar’shi[142] ihambaye, nta ho ahuriye n’ibyo bamwitirira.
+Iyo (mu kirere no ku isi) haza kuba hari izindi mana zitari Allah, byombi byari kuba mu kaduruvayo. Ubutungane ni ubwa Allah, Nyagasani Nyiri Ar’shi[^142] ihambaye, nta ho ahuriye n’ibyo bamwitirira.
 
-[142] Reba uko twasobanuye iri jambo muri Surat ul Araf, Aya ya 54.
+[^142]: Reba uko twasobanuye iri jambo muri Surat ul Araf, Aya ya 54.
 
 # 2506
 
@@ -10495,9 +10512,9 @@ Bashaka kumugirira nabi, (tuburizamo umugambi wabo mubisha) maze baba ari bo bah
 
 # 2554
 
-Nuko tumurokorana na Lutwi (Loti) tubajyana mu gihugu (cya Shami[143]) twashyiriyemo ibiremwa byose imigisha.
+Nuko tumurokorana na Lutwi (Loti) tubajyana mu gihugu (cya Shami[^143]) twashyiriyemo ibiremwa byose imigisha.
 
-[143] Shami: Ni akarere ko mu Burasirazuba bwo hagati, kari kagizwe n’ibihugu by’ubu bya Yorudaniya, Libani, Siriya na Palesitina.
+[^143]: Shami: Ni akarere ko mu Burasirazuba bwo hagati, kari kagizwe n’ibihugu by’ubu bya Yorudaniya, Libani, Siriya na Palesitina.
 
 # 2555
 
@@ -10525,9 +10542,9 @@ Twanamukijije abantu bahakanye ibimenyetso byacu. Mu by’ukuri bari abantu babi
 
 # 2561
 
-Kandi (wibuke) Dawudi na Sulayimani igihe bacaga urubanza rw’umurima wari wonwe mu ijoro n’intama za bamwe mu bantu. Kandi twari abahamya b’uburyo barukijije[144].
+Kandi (wibuke) Dawudi na Sulayimani igihe bacaga urubanza rw’umurima wari wonwe mu ijoro n’intama za bamwe mu bantu. Kandi twari abahamya b’uburyo barukijije[^144].
 
-[144] Urubanza ruvugwa muri uyu murongo, ni igihe intama za bamwe mu bantu zonaga umurima w’abandi mu ijoro, nuko nyir’umurima akajya kurega kwa Dawudi na Sulayimani. Mu guca urwo rubanza, Dawudi yavuze ko nyir’umurima yatwara ayo matungo yamwoneye yose, naho Sulayimani we aruca avuga ko nyir’umurima yajyana ayo matungo yamwoneye akajya ayakama, akanayakuraho ifumbire n’ibindi, kugeza igihe nyir’amatungo azasubiza umurima uko wari umeze, hanyuma agasubirana amatungo ye. Uko Sulayimani yakijije urubanza ni byo Imana yishimiye.
+[^144]: Urubanza ruvugwa muri uyu murongo, ni igihe intama za bamwe mu bantu zonaga umurima w’abandi mu ijoro, nuko nyir’umurima akajya kurega kwa Dawudi na Sulayimani. Mu guca urwo rubanza, Dawudi yavuze ko nyir’umurima yatwara ayo matungo yamwoneye yose, naho Sulayimani we aruca avuga ko nyir’umurima yajyana ayo matungo yamwoneye akajya ayakama, akanayakuraho ifumbire n’ibindi, kugeza igihe nyir’amatungo azasubiza umurima uko wari umeze, hanyuma agasubirana amatungo ye. Uko Sulayimani yakijije urubanza ni byo Imana yishimiye.
 
 # 2562
 
@@ -10587,9 +10604,9 @@ Mu by’ukuri uyu muryango (Isilamu) wanyu ni umuryango umwe, nanjye nkaba Nyaga
 
 # 2576
 
-Ariko (abantu) bacitsemo ibice mu idini ryabo[145], nyamara bose bazagaruka iwacu.
+Ariko (abantu) bacitsemo ibice mu idini ryabo[^145], nyamara bose bazagaruka iwacu.
 
-[145] Idini ryabo rivugwa aha, ni ukugaragira Imana imwe rukumbi batayibangikanyije n’icyo ari cyo cyose; zikaba ari zo nyigisho z’idini rya Isilamu, ndetse bukaba ari na bwo butumwa Intumwa n’abahanuzi bose baje bigisha.
+[^145]: Idini ryabo rivugwa aha, ni ukugaragira Imana imwe rukumbi batayibangikanyije n’icyo ari cyo cyose; zikaba ari zo nyigisho z’idini rya Isilamu, ndetse bukaba ari na bwo butumwa Intumwa n’abahanuzi bose baje bigisha.
 
 # 2577
 
@@ -10621,9 +10638,9 @@ Iyo ibigirwamana mwasengaga biza kuba Imana (y’ukuri), ntibyari kwinjira mu mu
 
 # 2584
 
-Mu by’ukuri ba bandi bagezweho n’ibyiza byacu mbere, abo bazaba bari kure y’umuriro[146].
+Mu by’ukuri ba bandi bagezweho n’ibyiza byacu mbere, abo bazaba bari kure y’umuriro[^146].
 
-[146] Uyu murongo wahishuwe usubiza amagambo umwe mu babangikanyamana b’i Maka witwaga Ibun Zibaara yavuze agira ati “Niba amagambo Muhamadi avuga y’uko twe n’ibyo tugaragira tuzajya mu muriro, ubwo n’abamalayika bazawujyamo kuko na bo tubasenga, na Uzayiru awujyemo kuko Abayahudi bamusenga, ndetse na Yesu awujyemo kuko Abanaswara bamusenga.”
+[^146]: Uyu murongo wahishuwe usubiza amagambo umwe mu babangikanyamana b’i Maka witwaga Ibun Zibaara yavuze agira ati “Niba amagambo Muhamadi avuga y’uko twe n’ibyo tugaragira tuzajya mu muriro, ubwo n’abamalayika bazawujyamo kuko na bo tubasenga, na Uzayiru awujyemo kuko Abayahudi bamusenga, ndetse na Yesu awujyemo kuko Abanaswara bamusenga.”
 
 # 2585
 
@@ -10767,9 +10784,9 @@ Kandi (ku isi) bayobowe ku mvugo nziza (yo guhamya ko nta yindi mana ikwiye guse
 
 # 2620
 
-Mu by’ukuri ba bandi bahakanye bakanakumira (abantu kuyoboka) inzira ya Allah no kugana ku Musigiti Mutagatifu[147] twashyiriyeho abantu bose mu buryo bureshya; baba abawuturiye cyangwa abawugenderera (tuzabahanisha ibihano bihambaye). N’uzashaka kuwukoreramo ikibi icyo ari cyo cyose, tuzamusogongeza ku bihano bibabaza.
+Mu by’ukuri ba bandi bahakanye bakanakumira (abantu kuyoboka) inzira ya Allah no kugana ku Musigiti Mutagatifu[^147] twashyiriyeho abantu bose mu buryo bureshya; baba abawuturiye cyangwa abawugenderera (tuzabahanisha ibihano bihambaye). N’uzashaka kuwukoreramo ikibi icyo ari cyo cyose, tuzamusogongeza ku bihano bibabaza.
 
-[147]Uyu murongo ugaragaza ko habayeho igihe abahakanyi b’i Maka babuza Intumwa Muhamadi n’abasangirangendo bayo kugera ku Musigiti Mutagatifu, hari mu mwaka wa 6 w’iyimuka ry’Intumwa Muhamadi.
+[^147]: Uyu murongo ugaragaza ko habayeho igihe abahakanyi b’i Maka babuza Intumwa Muhamadi n’abasangirangendo bayo kugera ku Musigiti Mutagatifu, hari mu mwaka wa 6 w’iyimuka ry’Intumwa Muhamadi.
 
 # 2621
 
@@ -10781,9 +10798,9 @@ Unahamagarire abantu gukora umutambagiro mutagatifu (Hija). Bazakugana bagenda n
 
 # 2623
 
-(Ibyo) ni ukugira ngo babone ibibafitiye akamaro (ibihembo byo gukora Hija), ndetse banasingize izina rya Allah mu minsi izwi[148] kubera amafunguro akomoka ku matungo yabahaye. Bityo nimurye kuri ayo mafunguro munayagaburireho abatindi nyakujya.
+(Ibyo) ni ukugira ngo babone ibibafitiye akamaro (ibihembo byo gukora Hija), ndetse banasingize izina rya Allah mu minsi izwi[^148] kubera amafunguro akomoka ku matungo yabahaye. Bityo nimurye kuri ayo mafunguro munayagaburireho abatindi nyakujya.
 
-[148] Iminsi itatu izwi yavuzwe muri uyu murongo, ni iminsi ikurikira Ilayidi y’ibitambo, ari yo tariki ya 11,12 na 13 z’ukwezi kwa cumi n’abiri kwa Kisilamu (Dhul Hija).
+[^148]: Iminsi itatu izwi yavuzwe muri uyu murongo, ni iminsi ikurikira Ilayidi y’ibitambo, ari yo tariki ya 11,12 na 13 z’ukwezi kwa cumi n’abiri kwa Kisilamu (Dhul Hija).
 
 # 2624
 
@@ -10799,9 +10816,9 @@ Mugaragira Allah gusa kandi mutamubangikanya n’icyo ari cyo cyose. Naho ubangi
 
 # 2627
 
-Ibyo (Allah yategetse; ni byo umuntu ategetswe kubahiriza)[149], kandi uwubahirije imigenzo ya Allah, mu by’ukuri ni bimwe mu bituma imitima igandukira (Allah).
+Ibyo (Allah yategetse; ni byo umuntu ategetswe kubahiriza)[^149], kandi uwubahirije imigenzo ya Allah, mu by’ukuri ni bimwe mu bituma imitima igandukira (Allah).
 
-[149] Ibyo Allah yategetse bivugwa muri uyu murongo ni ibyo yategetse mu mirongo yatambutse ya 27, 28, 29, 30, 31
+[^149]: Ibyo Allah yategetse bivugwa muri uyu murongo ni ibyo yategetse mu mirongo yatambutse ya 27, 28, 29, 30, 31
 
 # 2628
 
@@ -10829,9 +10846,9 @@ Mu by’ukuri Allah arengera abemeye. Rwose Allah ntakunda umuhemu wese w’umuh
 
 # 2634
 
-(Abemeramana) bahawe uburenganzira bwo kwirwanaho igihe batewe kubera ko barenganyijwe, kandi rwose Allah ashobora kubatabara[150];
+(Abemeramana) bahawe uburenganzira bwo kwirwanaho igihe batewe kubera ko barenganyijwe, kandi rwose Allah ashobora kubatabara[^150];
 
-[150]Mu bihe bya mbere, Abayisilamu bari babujijwe kurwanya abahakanyi, ahubwo bategetswe kwihanganira itotezwa bakorerwaga. Nyuma y’aho iryo totezwa rimaze gufatira indi ntera, ndetse na nyuma y’uko Intumwa Muhamadi yimukiye i Madina n’Ubuyisilamu bumaze gukomera, Allah yahishuye uyu murongo uha Abayisilamu uburenganzira bwo kwirwanaho.
+[^150]: Mu bihe bya mbere, Abayisilamu bari babujijwe kurwanya abahakanyi, ahubwo bategetswe kwihanganira itotezwa bakorerwaga. Nyuma y’aho iryo totezwa rimaze gufatira indi ntera, ndetse na nyuma y’uko Intumwa Muhamadi yimukiye i Madina n’Ubuyisilamu bumaze gukomera, Allah yahishuye uyu murongo uha Abayisilamu uburenganzira bwo kwirwanaho.
 
 # 2635
 
@@ -11011,9 +11028,9 @@ Na ba bandi barinda ibitsina byabo (ntibishore mu busambanyi),
 
 # 2679
 
-Uretse gusa ku bagore babo cyangwa ku bo bafiteho ububasha (abaja)[151], kuko kuri bo batabigayirwa,
+Uretse gusa ku bagore babo cyangwa ku bo bafiteho ububasha (abaja)[^151], kuko kuri bo batabigayirwa,
 
-[151] Abaja bari abagore bagurwaga cyangwa bafatirwaga bunyago ku rugamba, bakamburwa uburenganzira bwo kwigenga. Icyo gihe ubwigenge bwabo bwabaga buri mu maboko ya ba Shebuja, bakaba bemerewe no kubagira abagore nta masezerano yo gushyingiranwa abayeho. Ariko iyo babaga Abayisilamu byatumaga bahabwa ubwigenge, bakava mu buja.
+[^151]: Abaja bari abagore bagurwaga cyangwa bafatirwaga bunyago ku rugamba, bakamburwa uburenganzira bwo kwigenga. Icyo gihe ubwigenge bwabo bwabaga buri mu maboko ya ba Shebuja, bakaba bemerewe no kubagira abagore nta masezerano yo gushyingiranwa abayeho. Ariko iyo babaga Abayisilamu byatumaga bahabwa ubwigenge, bakava mu buja.
 
 # 2680
 
@@ -11333,9 +11350,9 @@ Bazavuga bati “Ni ibya Allah.” Vuga uti “None se ubwo ntimwibuka?”
 
 # 2759
 
-Vuga (yewe Muhamadi) uti “Ni nde Nyagasani w’ibirere birindwi, ndetse ni na nde Nyagasani wa Ar’shi[152] ihambaye?”
+Vuga (yewe Muhamadi) uti “Ni nde Nyagasani w’ibirere birindwi, ndetse ni na nde Nyagasani wa Ar’shi[^152] ihambaye?”
 
-[152] Reba ibisobanuro by’iri jambo muri Suratul A’araf, Aya ya 54.
+[^152]: Reba ibisobanuro by’iri jambo muri Suratul A’araf, Aya ya 54.
 
 # 2760
 
@@ -11455,9 +11472,9 @@ Ese mukeka ko twabaremye dukina (nta mpamvu), kandi ko mutazagarurwa iwacu?
 
 # 2789
 
-Bityo, Allah asumba byose, Umwami w’ukuri; nta yindi mana ikwiye gusengwa by’ukuri uretse We, Nyagasani wa Ar’shi[153] y’icyubahiro.
+Bityo, Allah asumba byose, Umwami w’ukuri; nta yindi mana ikwiye gusengwa by’ukuri uretse We, Nyagasani wa Ar’shi[^153] y’icyubahiro.
 
-[153] Reba uko twasobanuye iri jambo muri Surat ul A’araf: 54.
+[^153]: Reba uko twasobanuye iri jambo muri Surat ul A’araf: 54.
 
 # 2790
 
@@ -11709,9 +11726,9 @@ Naho abagore bacuze batagifite icyizere cyo kurongorwa (kubera izabukuru), nta c
 
 # 2852
 
-Si bibi ku muntu utabona, uwamugaye, umurwayi cyangwa mwe ubwanyu kuba mwarya mu ngo zanyu, mu ngo za ba so, mu ngo za ba nyoko, mu ngo z’abavandimwe banyu, mu ngo za bashiki banyu, mu ngo za ba so wanyu, mu ngo za ba nyoko wanyu, mu ngo za ba nyokorome, mu ngo za ba nyogosenge, mu ngo (z’abo) mufitiye imfunguzo (mwarindishijwe) cyangwa mu ngo z’inshuti zanyu. Ndetse si n’ikosa kuri mwe kuba mwasangirira hamwe cyangwa se mukarya intatane. Ariko igihe mwinjiye mu mazu (atuwe ndetse n’adatuwe), mujye musuhuzanya mu ndamutso nziza ituruka kwa Allah kandi yuje imigisha[154]. Uko ni ko Allah abasobanurira amagambo ye, kugira ngo musobanukirwe.
+Si bibi ku muntu utabona, uwamugaye, umurwayi cyangwa mwe ubwanyu kuba mwarya mu ngo zanyu, mu ngo za ba so, mu ngo za ba nyoko, mu ngo z’abavandimwe banyu, mu ngo za bashiki banyu, mu ngo za ba so wanyu, mu ngo za ba nyoko wanyu, mu ngo za ba nyokorome, mu ngo za ba nyogosenge, mu ngo (z’abo) mufitiye imfunguzo (mwarindishijwe) cyangwa mu ngo z’inshuti zanyu. Ndetse si n’ikosa kuri mwe kuba mwasangirira hamwe cyangwa se mukarya intatane. Ariko igihe mwinjiye mu mazu (atuwe ndetse n’adatuwe), mujye musuhuzanya mu ndamutso nziza ituruka kwa Allah kandi yuje imigisha[^154]. Uko ni ko Allah abasobanurira amagambo ye, kugira ngo musobanukirwe.
 
-[154] Iyo ndamutso ni (Assalamu alayikum wa rah’matullahi wa barakatuhu)
+[^154]: Iyo ndamutso ni (Assalamu alayikum wa rah’matullahi wa barakatuhu)
 
 # 2853
 
@@ -11875,10 +11892,13 @@ Ndetse n’abantu ba Nuhu (Nowa) ubwo bahinyuraga Intumwa, twabaroshye mu mazi m
 
 # 2893
 
-(Twanarimbuye) aba Adi[155] ndetse n’aba Thamudu[156], n’abari baturiye iriba rya Rasi[157], ndetse n’ibisekuru byinshi byabayeho hagati aho.
+(Twanarimbuye) aba Adi[^155] ndetse n’aba Thamudu[^156], n’abari baturiye iriba rya Rasi[^157], ndetse n’ibisekuru byinshi byabayeho hagati aho.
 
-[155] Adi ni izina ry’umuntu witirirwa ubwoko bw’aba Adi, bakaba baratumweho Intumwa yitwa Hudu, ubu bwoko bukaba bwari butuye Ah’qaf muri Omani. [156] Thamudu: Ni abantu bitiriwe umukurambere wabo witwaga Thamudu, bakaba baratumweho Intumwa yitwa Swaleh, ubu bwoko bukaba bwari butuye aho bita Al Hijri ubu ni muri Arabiya Sawudite.
-[157] Abantu bari baturiye iriba rya Rasi, Qur’an nta byinshi yabavuzeho uretse kugaragaza ko ari bamwe mu bantu basengaga imana y’igiti, nuko Allah aboherereza Intumwa barayihakana maze barayica bayita muri iryo riba, nuko Allah araboreka. Bamwe mu banyamateka bavuga ko kuri ubu ari mu gihugu cya Azerbaijan, abandi bakavuga ko ari Antioche muri Turukiya, abandi bakavuga ko ari mu buhinde.
+[^155]: Adi ni izina ry’umuntu witirirwa ubwoko bw’aba Adi, bakaba baratumweho Intumwa yitwa Hudu, ubu bwoko bukaba bwari butuye Ah’qaf muri Omani. 
+
+[^156]: Thamudu: Ni abantu bitiriwe umukurambere wabo witwaga Thamudu, bakaba baratumweho Intumwa yitwa Swaleh, ubu bwoko bukaba bwari butuye aho bita Al Hijri ubu ni muri Arabiya Sawudite.
+
+[^157]: Abantu bari baturiye iriba rya Rasi, Qur’an nta byinshi yabavuzeho uretse kugaragaza ko ari bamwe mu bantu basengaga imana y’igiti, nuko Allah aboherereza Intumwa barayihakana maze barayica bayita muri iryo riba, nuko Allah araboreka. Bamwe mu banyamateka bavuga ko kuri ubu ari mu gihugu cya Azerbaijan, abandi bakavuga ko ari Antioche muri Turukiya, abandi bakavuga ko ari mu buhinde.
 
 # 2894
 
@@ -11906,9 +11926,9 @@ Cyangwa utekereza ko abenshi muri bo bumva cyangwa basobanukirwa (amagambo ya Al
 
 # 2900
 
-Ese ntubona uko Nyagasani wawe arambura igicucu? N’iyo aza kubishaka yari kukigumisha hamwe. Hanyuma izuba twarigize ikimenyetso cyacyo[158].
+Ese ntubona uko Nyagasani wawe arambura igicucu? N’iyo aza kubishaka yari kukigumisha hamwe. Hanyuma izuba twarigize ikimenyetso cyacyo[^158].
 
-[158] Iyo izuba rirashe igicucu cya buri kintu kiba ari kirekire, nuko ku manywa kikagenda kigabanuka. Maze ku gicamunsi kikongera kuba kirekire uko izuba rigenda rirenga. Iyo hataza kubaho izuba n’igicucu nticyari kubaho.
+[^158]: Iyo izuba rirashe igicucu cya buri kintu kiba ari kirekire, nuko ku manywa kikagenda kigabanuka. Maze ku gicamunsi kikongera kuba kirekire uko izuba rigenda rirenga. Iyo hataza kubaho izuba n’igicucu nticyari kubaho.
 
 # 2901
 
@@ -11964,9 +11984,9 @@ Ujye uniringira Uhoraho (Nyirubuzima bwuzuye), Udapfa, unamusingize umushima. Ka
 
 # 2914
 
-We waremye ibirere n’isi ndetse n’ibiri hagati yabyo mu minsi itandatu, hanyuma Nyirimpuhwe (Allah) aganza hejuru ya Ar’shi[159]. Bityo (yewe Muhamadi) mubaze ibijyanye na We (akwibwire kuko) ariyizi neza.
+We waremye ibirere n’isi ndetse n’ibiri hagati yabyo mu minsi itandatu, hanyuma Nyirimpuhwe (Allah) aganza hejuru ya Ar’shi[^159]. Bityo (yewe Muhamadi) mubaze ibijyanye na We (akwibwire kuko) ariyizi neza.
 
-[159] Reba uko twasobanuye iri jambo muri Surat al A’araf: 54.
+[^159]: Reba uko twasobanuye iri jambo muri Surat al A’araf: 54.
 
 # 2915
 
@@ -12042,9 +12062,9 @@ Vuga (yewe Muhamadi) uti “Iyo bitaza kuba ugusaba kwanyu, Nyagasani wanjye nti
 
 # 2933
 
-Twaa Siin Miim[160].
+Twaa Siin Miim[^160].
 
-[160] Twaa Siin Miim: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
+[^160]: Twaa Siin Miim: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
 
 # 2934
 
@@ -12192,9 +12212,9 @@ Bakuzanire buri murozi wese w’umuhanga.”
 
 # 2970
 
-Nuko abarozi barakoranywa (bahabwa) igihe n’umunsi byagenwe[161] (byo guhura na Musa).
+Nuko abarozi barakoranywa (bahabwa) igihe n’umunsi byagenwe[^161] (byo guhura na Musa).
 
-[161] Igihe bahawe cyari igihe cy’agasusuruko, ku munsi mukuru babaga baruhutseho bagateranira hamwe.
+[^161]: Igihe bahawe cyari igihe cy’agasusuruko, ku munsi mukuru babaga baruhutseho bagateranira hamwe.
 
 # 2971
 
@@ -12798,9 +12818,9 @@ Wowe nta kindi uri cyo, usibye kuba uri umuntu nkatwe. Kandi tunakeka ko uri umu
 
 # 3121
 
-Nuko baramuhinyura, maze bagerwaho n’ibihano by’umunsi w’igicucucucu[162]. Mu by’ukuri byari ibihano by’umunsi uhambaye.
+Nuko baramuhinyura, maze bagerwaho n’ibihano by’umunsi w’igicucucucu[^162]. Mu by’ukuri byari ibihano by’umunsi uhambaye.
 
-[162] Umunsi w’igicucucucu uvugwa muri uyu murongo ni igihe abari batuye ahitwa Ayikati bagerwagaho n’ubushyuhe bukabije, nuko babona igicu babuhungiramo bakeka ko ari igicucucucu gisanzwe, bamaze kwirunda munsi yacyo, Allah yohereza umuriro urabarimbura.
+[^162]: Umunsi w’igicucucucu uvugwa muri uyu murongo ni igihe abari batuye ahitwa Ayikati bagerwagaho n’ubushyuhe bukabije, nuko babona igicu babuhungiramo bakeka ko ari igicucucucu gisanzwe, bamaze kwirunda munsi yacyo, Allah yohereza umuriro urabarimbura.
 
 # 3122
 
@@ -12936,15 +12956,15 @@ Amanukira buri munyabinyoma, w’umunyabyaha,
 
 # 3155
 
-Yumviriza (amagambo avugwa n’abamalayika mu ijuru akongeramo ibyayo), nyamara amenshi muri yo ni amanyabinyoma.[163]
+Yumviriza (amagambo avugwa n’abamalayika mu ijuru akongeramo ibyayo), nyamara amenshi muri yo ni amanyabinyoma.[^163]
 
-[163] Uyu murongo mutagatifu uvuga ko amashitani atumviriza amagambo avugwa n’abamalayika ntabwo uhabanye n’uwawubanjirije wa 212 uvuga ko amashitani yakumiriwe kumva (ibivugirwa mu ijuru), ahubwo nk’uko imirongo ya Qur’ani yunganirana kugira ngo umuntu ayisobanukirwe, wifashishije isurat ya 37 (A-Swafati), Ayat ya 7 kugera kuri ayat ya 10 hagaragazwa ko ubusanzwe ikirere cyarinzwe buri shitani, bituma adashobora kumviriza ibivugwa n’abamalayika, usibye ko hari ubwo muri yo hari ayashobora kugira icyo yiba mu mabanga y’ibivugirwa mu ijuru, agakurikizwa ibishashi by’umuriro. Ibi bikaba nabyo byaje mu mvugo zitandukanye z’Intumwa y’Imana (Imana iyihe amahoro n’imigisha) ku byerekeranye n’ibi.
+[^163]: Uyu murongo mutagatifu uvuga ko amashitani atumviriza amagambo avugwa n’abamalayika ntabwo uhabanye n’uwawubanjirije wa 212 uvuga ko amashitani yakumiriwe kumva (ibivugirwa mu ijuru), ahubwo nk’uko imirongo ya Qur’ani yunganirana kugira ngo umuntu ayisobanukirwe, wifashishije isurat ya 37 (A-Swafati), Ayat ya 7 kugera kuri ayat ya 10 hagaragazwa ko ubusanzwe ikirere cyarinzwe buri shitani, bituma adashobora kumviriza ibivugwa n’abamalayika, usibye ko hari ubwo muri yo hari ayashobora kugira icyo yiba mu mabanga y’ibivugirwa mu ijuru, agakurikizwa ibishashi by’umuriro. Ibi bikaba nabyo byaje mu mvugo zitandukanye z’Intumwa y’Imana (Imana iyihe amahoro n’imigisha) ku byerekeranye n’ibi.
 
 # 3156
 
-Naho abasizi bakurikirwa n’abayobye.[164]
+Naho abasizi bakurikirwa n’abayobye.[^164]
 
-[164] Abahakanyi bajyaga bavuga ko Muhamadi ari umusizi, maze Allah arabahinyuza muri uyu murongo wa Qur’ani.
+[^164]: Abahakanyi bajyaga bavuga ko Muhamadi ari umusizi, maze Allah arabahinyuza muri uyu murongo wa Qur’ani.
 
 # 3157
 
@@ -12960,9 +12980,9 @@ Usibye gusa ba bandi bemeye bakanakora ibikorwa byiza, bagasingiza Allah cyane, 
 
 # 3160
 
-Twaa-Siin[165]; iyo ni imirongo ya Qur’an ikaba n’igitabo gisobanutse (kinashyira ibintu ku mugaragaro).
+Twaa-Siin[^165]; iyo ni imirongo ya Qur’an ikaba n’igitabo gisobanutse (kinashyira ibintu ku mugaragaro).
 
-[165] Twaa Siin Miim: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
+[^165]: Twaa Siin Miim: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
 
 # 3161
 
@@ -13062,9 +13082,9 @@ Nasanze we n’abantu be bubamira izuba mu cyimbo cya Allah. Kandi Shitani yabak
 
 # 3185
 
-Allah, nta yindi mana ibaho ikwiye gusengwa by’ukuri itari We, Nyagasani wa Ar’shi[166] ihambaye.
+Allah, nta yindi mana ibaho ikwiye gusengwa by’ukuri itari We, Nyagasani wa Ar’shi[^166] ihambaye.
 
-[166] Eba uko twasobanuye iri jabo muri Surat ul A’raf:54
+[^166]: Eba uko twasobanuye iri jabo muri Surat ul A’raf:54
 
 # 3186
 
@@ -13312,9 +13332,9 @@ Ese ntibabona ko twabashyiriyeho ijoro kugira ngo bariruhukemo, n’amanywa kugi
 
 # 3247
 
-Uzanabona imisozi wibwire ko iri hamwe, nyamara izaba igenda yihuta nk’ibicu[167]. Ibyo ni ibikorwa na Allah, We watunganyije buri kintu. Mu by’ukuri We azi byimazeyo ibyo mukora.
+Uzanabona imisozi wibwire ko iri hamwe, nyamara izaba igenda yihuta nk’ibicu[^167]. Ibyo ni ibikorwa na Allah, We watunganyije buri kintu. Mu by’ukuri We azi byimazeyo ibyo mukora.
 
-[167] Abahanga mu bumenyi bw’isi baje kumenya ko imigabane igize isi igenda yimuka gake gake yegerana cyangwa itatana mu gihe kirekire cyane. Ibi bikaba bishimangira ukuri kw’uyu murongo wa Qur’ani.
+[^167]: Abahanga mu bumenyi bw’isi baje kumenya ko imigabane igize isi igenda yimuka gake gake yegerana cyangwa itatana mu gihe kirekire cyane. Ibi bikaba bishimangira ukuri kw’uyu murongo wa Qur’ani.
 
 # 3248
 
@@ -13338,9 +13358,9 @@ Kandi (yewe Muhamadi) uvuge uti “Ishimwe n’ikuzo byuzuye ni ibya Allah. Azab
 
 # 3253
 
-Twaa Siin Miim[168]
+Twaa Siin Miim[^168]
 
-[168]-Twaa Siin Miim: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
+[^168]: -Twaa Siin Miim: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
 
 # 3254
 
@@ -13692,9 +13712,9 @@ Kandi ntuzabangikanye Allah n’uwo ari we wese. Nta yindi mana ikwiriye gusengw
 
 # 3341
 
-Alif Laam Miim[169]
+Alif Laam Miim[^169]
 
-[169] Alif Laam Miim: Inyuguti nk’izi twazivuzeho mu masura (ibice) yatambutse.
+[^169]: Alif Laam Miim: Inyuguti nk’izi twazivuzeho mu masura (ibice) yatambutse.
 
 # 3342
 
@@ -13970,21 +13990,21 @@ Kandi ba bandi bagira umuhate (mu nzira yacu itugana) kubera twe, rwose tuzabayo
 
 # 3410
 
-Alif Laam Miim[170].
+Alif Laam Miim[^170].
 
-[170] Inyuguti nk’izi twazivuzeho mu masura yatambutse.
+[^170]: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
 
 # 3411
 
-Abaroma baratsinzwe[171],
+Abaroma baratsinzwe[^171],
 
-[171] Ugutsindwa kw’Abaromani kuvugwa muri uyu murongo kwakomotse ku ntambara barwanagamo n’Abaperise. Muri icyo gihe ababangikanyamana b’i Maka bifuzaga ko Abaperise batsinda Abaromani kuko basengaga ibigirwamana nka bo, mu gihe ku rundi ruhande Abayisilamu bo bifuzaga ko Abaroma ari bo batsinda kuko bari Abanaswara.
+[^171]: Ugutsindwa kw’Abaromani kuvugwa muri uyu murongo kwakomotse ku ntambara barwanagamo n’Abaperise. Muri icyo gihe ababangikanyamana b’i Maka bifuzaga ko Abaperise batsinda Abaromani kuko basengaga ibigirwamana nka bo, mu gihe ku rundi ruhande Abayisilamu bo bifuzaga ko Abaroma ari bo batsinda kuko bari Abanaswara.
 
 # 3412
 
-Mu gihugu cyo hafi (y’Abaperise)[172]. Ariko nyuma yo gutsindwa kwabo na bo bazatsinda.
+Mu gihugu cyo hafi (y’Abaperise)[^172]. Ariko nyuma yo gutsindwa kwabo na bo bazatsinda.
 
-[172] Igihugu kiri hafi y’Abaperise iyo ntambara yabereyemo ni aho bita Al Jazira hagati y’umugezi wa Tigre na Euphrate kuri ubu ni mu bihugu bya Iraki, Siriya, Jordan na Palesitina.
+[^172]: Igihugu kiri hafi y’Abaperise iyo ntambara yabereyemo ni aho bita Al Jazira hagati y’umugezi wa Tigre na Euphrate kuri ubu ni mu bihugu bya Iraki, Siriya, Jordan na Palesitina.
 
 # 3413
 
@@ -14044,9 +14064,9 @@ Ngaho nimusingize Allah igihe mugeze nimugoroba [igihe cy’isengesho ry’umugo
 
 # 3427
 
-Kandi ishimwe n’ikuzo byuzuye ni ibye mu birere no ku isi; (munamusingize) ku gicamunsi (igihe cy’isengesho rya Al Aswir) n’igihe mugeze mu gihe cy’amanywa (igihe cy’isengesho rya Adhuhur)[173].
+Kandi ishimwe n’ikuzo byuzuye ni ibye mu birere no ku isi; (munamusingize) ku gicamunsi (igihe cy’isengesho rya Al Aswir) n’igihe mugeze mu gihe cy’amanywa (igihe cy’isengesho rya Adhuhur)[^173].
 
-[173]-Ibun Abasi yavuze ko ibi ari byo bihe by’iswala eshanu z’itegeko byavuzwe muri Qur’an.
+[^173]: -Ibun Abasi yavuze ko ibi ari byo bihe by’iswala eshanu z’itegeko byavuzwe muri Qur’an.
 
 # 3428
 
@@ -14130,9 +14150,9 @@ Bityo, umuvandimwe wawe wa hafi, umukene ndetse n’uri ku rugendo, ujye ubaha i
 
 # 3448
 
-N’ibyo mutanga nka Riba[174] kugira ngo bitubukire mu mitungo y’abandi ntibishobora gutubuka kwa Allah. Ariko ibyo mutanga mu maturo mugamije kwishimirwa na Allah, abo (abakora nk’ibyo) ni bo bazatuburirwa (imitungo).
+N’ibyo mutanga nka Riba[^174] kugira ngo bitubukire mu mitungo y’abandi ntibishobora gutubuka kwa Allah. Ariko ibyo mutanga mu maturo mugamije kwishimirwa na Allah, abo (abakora nk’ibyo) ni bo bazatuburirwa (imitungo).
 
-[174] Reba uko twasobanuye iri jambo muri Surat Al Baqarat, Ayat ya 275.
+[^174]: Reba uko twasobanuye iri jambo muri Surat Al Baqarat, Ayat ya 275.
 
 # 3449
 
@@ -14220,9 +14240,9 @@ Bityo, jya wihangana (yewe Muhamadi)! Mu by’ukuri isezerano rya Allah ni ukuri
 
 # 3470
 
-Alif Laam Miim[175]
+Alif Laam Miim[^175]
 
-[175] Alif Laam Miim: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
+[^175]: Alif Laam Miim: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
 
 # 3471
 
@@ -14358,9 +14378,9 @@ Mu by’ukuri Allah ni We ufite ubumenyi bw’igihe imperuka izabera; (ni na We)
 
 # 3504
 
-Alif Laam Miim[176].
+Alif Laam Miim[^176].
 
-[176] Inyuguti nk’izi twazivuzeho mu masura yatambutse.
+[^176]: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
 
 # 3505
 
@@ -14372,9 +14392,9 @@ Cyangwa bavuga ko (Muhamadi) ari we wayihimbye? (Si ko bimeze), ahubwo yo ni uku
 
 # 3507
 
-Allah ni We waremye ibirere n’isi n’ibiri hagati yabyo mu minsi itandatu, hanyuma aganza hejuru ya Ar’shi[177]. Nta wundi murinzi cyangwa umuvugizi muzagira utari We. Ese ntabwo mwibuka?
+Allah ni We waremye ibirere n’isi n’ibiri hagati yabyo mu minsi itandatu, hanyuma aganza hejuru ya Ar’shi[^177]. Nta wundi murinzi cyangwa umuvugizi muzagira utari We. Ese ntabwo mwibuka?
 
-[177] Reba ibisobanuro by’iri jambo muri Surat ul A’araf, aya ya 54.
+[^177]: Reba ibisobanuro by’iri jambo muri Surat ul A’araf, aya ya 54.
 
 # 3508
 
@@ -14450,9 +14470,9 @@ Ese ni nde muhemu kurusha uwibutswa amagambo ya Nyagasani we maze akayatera umug
 
 # 3526
 
-Kandi rwose twahaye Musa igitabo (Tawurati). Bityo, ntuzagire ugushidikanya ko kuzahura na we[178]. Kandi twakigize umuyoboro kuri bene Isiraheli.
+Kandi rwose twahaye Musa igitabo (Tawurati). Bityo, ntuzagire ugushidikanya ko kuzahura na we[^178]. Kandi twakigize umuyoboro kuri bene Isiraheli.
 
-[178] Abazahura bavugwa muri uyu murongo ni Musa na Muhamadi (Imana ibahe amahoro n’imigisha) ubwo bahuraga mu ijoro rya Is’ra-i na Miraji, igihe Inumwa Muhamadi yavanwaga i Maka akajyanwa i Yeruzalemu hanyuma akajyanwa mu Ijuru.
+[^178]: Abazahura bavugwa muri uyu murongo ni Musa na Muhamadi (Imana ibahe amahoro n’imigisha) ubwo bahuraga mu ijoro rya Is’ra-i na Miraji, igihe Inumwa Muhamadi yavanwaga i Maka akajyanwa i Yeruzalemu hanyuma akajyanwa mu Ijuru.
 
 # 3527
 
@@ -14496,9 +14516,9 @@ Uniringire Allah. Kandi Allah arahagije kuba Umurinzi.
 
 # 3537
 
-Allah ntiyashyize imitima ibiri mu gituza cy’umuntu, ndetse nta n’ubwo abagore banyu yabagize ba nyoko nyuma y’uko mubagereranyije na bo murahirira kutazongera kubonana na bo[179]. Nta n’ubwo abana mwareze mukabiyitirira yabagize abana banyu (b’ukuri). Ayo ni amagambo yanyu mwivugira. Kandi Allah avuga ukuri, ni na We uyobora inzira itunganye.
+Allah ntiyashyize imitima ibiri mu gituza cy’umuntu, ndetse nta n’ubwo abagore banyu yabagize ba nyoko nyuma y’uko mubagereranyije na bo murahirira kutazongera kubonana na bo[^179]. Nta n’ubwo abana mwareze mukabiyitirira yabagize abana banyu (b’ukuri). Ayo ni amagambo yanyu mwivugira. Kandi Allah avuga ukuri, ni na We uyobora inzira itunganye.
 
-[179]Muri Isilamu ntibyemewe ko umugabo yarahira ko atazongera kugirana imibonano mpuzabitsina n’umugore we amugereranyije na nyina. Iyo umugabo amaze kurahira gutyo hanyuma agashaka kongera kubonana na we, icyo gihe ategetswe kubanza kubohora umucakara, atamubona agasiba amezi abiri akurikiranye, atabishobora akagaburira abakene mirongo itandatu nk’uko bigaragara mu Isurat ya 58 (Al Mudjadilat), umurongo wa 3 kugeza ku wa 4.
+[^179]: Muri Isilamu ntibyemewe ko umugabo yarahira ko atazongera kugirana imibonano mpuzabitsina n’umugore we amugereranyije na nyina. Iyo umugabo amaze kurahira gutyo hanyuma agashaka kongera kubonana na we, icyo gihe ategetswe kubanza kubohora umucakara, atamubona agasiba amezi abiri akurikiranye, atabishobora akagaburira abakene mirongo itandatu nk’uko bigaragara mu Isurat ya 58 (Al Mudjadilat), umurongo wa 3 kugeza ku wa 4.
 
 # 3538
 
@@ -14562,9 +14582,9 @@ Babagirira ubugugu maze bagerwaho n’ubwoba (bw’intambara) ukabona bakureba b
 
 # 3553
 
-(Kubera ubwoba bwabo) bakeka ko udutsiko tw’abanzi nta ho twagiye; nyamara utwo dutsiko turamutse tugarutse, bakwifuza ko (tutabasanga i Madina) ahubwo babana n’abanyacyaro[180] babaririza amakuru yanyu. Ndetse n’iyo baza kuba bari kumwe namwe, ntibari kubafasha kurwana usibye gake cyane.
+(Kubera ubwoba bwabo) bakeka ko udutsiko tw’abanzi nta ho twagiye; nyamara utwo dutsiko turamutse tugarutse, bakwifuza ko (tutabasanga i Madina) ahubwo babana n’abanyacyaro[^180] babaririza amakuru yanyu. Ndetse n’iyo baza kuba bari kumwe namwe, ntibari kubafasha kurwana usibye gake cyane.
 
-[180] Abanyacyaro bavugwa aha ni abarabu babaga mu butayu.
+[^180]: Abanyacyaro bavugwa aha ni abarabu babaga mu butayu.
 
 # 3554
 
@@ -14588,9 +14608,9 @@ Nuko Allah asubiza inyuma ba bandi bahakanye (bajyana) uburakari bwabo nta cyiza
 
 # 3559
 
-Naho ba bandi babashyigikiye mu bahawe igitabo[181], (Allah) abamanura mu nyubako zabo (ndende) z’imitamenwa, anabateza ubwoba mu mitima. Bityo, bamwe murabica abandi mubagira ingaruzwamuheto.
+Naho ba bandi babashyigikiye mu bahawe igitabo[^181], (Allah) abamanura mu nyubako zabo (ndende) z’imitamenwa, anabateza ubwoba mu mitima. Bityo, bamwe murabica abandi mubagira ingaruzwamuheto.
 
-[181] Abahawe igitabo bavugwa aha ni Abayahudi babaga i Madina bo mu bwoko bwa Bani Qurayidhwa.
+[^181]: Abahawe igitabo bavugwa aha ni Abayahudi babaga i Madina bo mu bwoko bwa Bani Qurayidhwa.
 
 # 3560
 
@@ -14682,9 +14702,9 @@ Ntuzanumvire abahakanyi n’indyarya, kandi ntukite ku bibi byabo (ngo bikubuze 
 
 # 3582
 
-Yemwe abemeye! Nimurongora abemeramanakazi hanyuma mukabasenda mbere y’uko mukorana imibonano, (icyo gihe) nta Eda[182] mugomba kubabarira. Bityo mujye mubaha ibibanezeza (mu mitungo yanyu) hanyuma mubasezerere ku neza.
+Yemwe abemeye! Nimurongora abemeramanakazi hanyuma mukabasenda mbere y’uko mukorana imibonano, (icyo gihe) nta Eda[^182] mugomba kubabarira. Bityo mujye mubaha ibibanezeza (mu mitungo yanyu) hanyuma mubasezerere ku neza.
 
-[182]-Eda ni igihe cyagenwe n’amategeko ya Isilamu umugore wahawe ubutane cyangwa uwapfushije umugabo amara mu rugo rw’umugabo we hagamijwe kureba ko adatwite.
+[^182]: -Eda ni igihe cyagenwe n’amategeko ya Isilamu umugore wahawe ubutane cyangwa uwapfushije umugabo amara mu rugo rw’umugabo we hagamijwe kureba ko adatwite.
 
 # 3583
 
@@ -14764,9 +14784,9 @@ Bazanavuga bati “Nyagasani! Mu by’ukuri twumviye abayobozi bacu n’ibikomer
 
 # 3602
 
-Yemwe abemeye! Ntimuzabe nka ba bandi babujije amahoro (Intumwa) Musa, maze Allah akamugira umwere ku byo bamuvugagaho[183]. Kandi (Musa) yari umunyacyubahiro imbere ya Allah.
+Yemwe abemeye! Ntimuzabe nka ba bandi babujije amahoro (Intumwa) Musa, maze Allah akamugira umwere ku byo bamuvugagaho[^183]. Kandi (Musa) yari umunyacyubahiro imbere ya Allah.
 
-[183] Ibyavugwaga kuri Musa bivugwa muri uyu murongo bishingiye ku kuba Abayisiraheli barajyaga biyuhagirira hamwe bambaye ubusa, ariko kuko Musa yagiraga isoni nyinshi byatumaga ajya ahiherereye akoga wenyine, nuko bakabishingiraho bavuga ko impamvu yoga wenyine ari uko afite ubusembwa ku gitsina cye. Umunsi umwe ajya koga ashyira imyambaro ye ku ibuye, igihe amaze koga agiye kwambara, rya buye rihirimana ya myambaro, maze na we aryirukaho agira ngo afate imyambaro ye kugeza ubwo ageze imbere y’imbaga y’Abayisiraheli, nuko babona ko ibyo bamuvugagaho atari ukuri, kuko nta busembwa na bumwe bamusanganye.
+[^183]: Ibyavugwaga kuri Musa bivugwa muri uyu murongo bishingiye ku kuba Abayisiraheli barajyaga biyuhagirira hamwe bambaye ubusa, ariko kuko Musa yagiraga isoni nyinshi byatumaga ajya ahiherereye akoga wenyine, nuko bakabishingiraho bavuga ko impamvu yoga wenyine ari uko afite ubusembwa ku gitsina cye. Umunsi umwe ajya koga ashyira imyambaro ye ku ibuye, igihe amaze koga agiye kwambara, rya buye rihirimana ya myambaro, maze na we aryirukaho agira ngo afate imyambaro ye kugeza ubwo ageze imbere y’imbaga y’Abayisiraheli, nuko babona ko ibyo bamuvugagaho atari ukuri, kuko nta busembwa na bumwe bamusanganye.
 
 # 3603
 
@@ -15182,9 +15202,9 @@ N’iyo Allah aza kuba ari uhanira abantu ibyo bakoze, nta kiremwa na kimwe kige
 
 # 3706
 
-Yaa-siin[184].
+Yaa-siin[^184].
 
-[184] Inyuguti nk’izi twazivuzeho mu masura yatambutse.
+[^184]: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
 
 # 3707
 
@@ -15232,9 +15252,9 @@ Rwose ni twe tuzura abapfuye, tukanandika ibyo bakoze n’ibyo basize (ibyiza n�
 
 # 3718
 
-Unabahe urugero rw’abantu bo mu mudugudu (wa Antakiya)[185] ubwo Intumwa zabageragaho.
+Unabahe urugero rw’abantu bo mu mudugudu (wa Antakiya)[^185] ubwo Intumwa zabageragaho.
 
-[185] Antakiya kuri ubu ni mu gihugu cya Turukiya.
+[^185]: Antakiya kuri ubu ni mu gihugu cya Turukiya.
 
 # 3719
 
@@ -15262,9 +15282,9 @@ Kandi nta kindi dushinzwe kitari ugusohoza ubutumwa busobanutse.
 
 # 3725
 
-Nuko haza umugabo (Habibu Najar) [186] yihuta aturutse (kure) mu nkengero z’umujyi, aravuga ati “Bantu banjye! Nimukurikire Intumwa”;
+Nuko haza umugabo (Habibu Najar) [^186] yihuta aturutse (kure) mu nkengero z’umujyi, aravuga ati “Bantu banjye! Nimukurikire Intumwa”;
 
-[186]Habib Najar yari umwe mu bantu bakoraga ibikorwa byiza, akaba yarabuzaga abantu bo ku gihe cye kwica Intumwa z’Imana ahubwo akabashishikariza kuziyoboka.
+[^186]: Habib Najar yari umwe mu bantu bakoraga ibikorwa byiza, akaba yarabuzaga abantu bo ku gihe cye kwica Intumwa z’Imana ahubwo akabashishikariza kuziyoboka.
 
 # 3726
 
@@ -15496,9 +15516,9 @@ Ese umuntu (uhakana izuka) ntabona ko twamuremye mu ntanga, maze nyuma akaba umu
 
 # 3783
 
-Yaduhaye urugero[187] yibagirwa ukuremwa kwe, maze aravuga ati “Ni nde wazura aya magufa kandi yarabaye ubuvungukira?”
+Yaduhaye urugero[^187] yibagirwa ukuremwa kwe, maze aravuga ati “Ni nde wazura aya magufa kandi yarabaye ubuvungukira?”
 
-[187] Urugero ruvugwa muri uyu murongo; ni umuntu utaremeraga izuka waje ku Ntumwa y’Imana (Muhamadi), maze afata igufa ryashenye akarivungagura nuko akavuga ati “Ese koko Nyagasani wawe ashobora kuzura nyir’iri gufa?”
+[^187]: Urugero ruvugwa muri uyu murongo; ni umuntu utaremeraga izuka waje ku Ntumwa y’Imana (Muhamadi), maze afata igufa ryashenye akarivungagura nuko akavuga ati “Ese koko Nyagasani wawe ashobora kuzura nyir’iri gufa?”
 
 # 3784
 
@@ -15538,9 +15558,9 @@ Mu by’ukuri Imana yanyu ni imwe.
 
 # 3793
 
-Nyagasani w’ibirere n’isi ndetse n’ibiri hagati yabyo, akaba na Nyagasani w’uburasirazuba bwose[188].
+Nyagasani w’ibirere n’isi ndetse n’ibiri hagati yabyo, akaba na Nyagasani w’uburasirazuba bwose[^188].
 
-[188] Izuba rirasira mu duce 365, rikanarengera mu duce 365, ari byo bingana n’iminsi igize umwaka. Buri munsi rirasira mu gice gishya kugeza umwaka urangiye, hanyuma rikazagaruka aho ryahereye nyuma y’umwaka.
+[^188]: Izuba rirasira mu duce 365, rikanarengera mu duce 365, ari byo bingana n’iminsi igize umwaka. Buri munsi rirasira mu gice gishya kugeza umwaka urangiye, hanyuma rikazagaruka aho ryahereye nyuma y’umwaka.
 
 # 3794
 
@@ -15876,9 +15896,9 @@ Nuko (Ibrahimu) yitegereza inyenyeri.
 
 # 3877
 
-Maze aravuga ati “Mu by’ukuri njye ndarwaye”[189].
+Maze aravuga ati “Mu by’ukuri njye ndarwaye”[^189].
 
-[189] Ibyo yabikoze ari amayeri yo kugira ngo asigare aho basengeraga ibigirwamana byabo kugira ngo abijanjagure, ndetse no kugira ngo atajyana na bo mu mihango yabo ya gipagani
+[^189]: Ibyo yabikoze ari amayeri yo kugira ngo asigare aho basengeraga ibigirwamana byabo kugira ngo abijanjagure, ndetse no kugira ngo atajyana na bo mu mihango yabo ya gipagani
 
 # 3878
 
@@ -16254,9 +16274,9 @@ Kandi ishimwe n’ikuzo byuzuye ni ibya Allah, Nyagasani w’ibiremwa byose.
 
 # 3971
 
-Swad![190] Ndahiye iyi Qur’an yuje urwibutso.
+Swad![^190] Ndahiye iyi Qur’an yuje urwibutso.
 
-[190] Inyuguti nk’izi twazivuzeho mu masura yatambutse.
+[^190]: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
 
 # 3972
 
@@ -16388,9 +16408,9 @@ Nuko akavuga ati “Nakunze imitungo y’isi kugeza ubwo nibagirwa Nyagasani wan
 
 # 4004
 
-Kandi rwose twagerageje Sulayimani tujugunya ikibiri[191] ku ntebe ye y’ubwami, (bimutera gusa nk’utakaje ubwami bwe, abona ko yageragejwe) nyuma yicuza ku Mana.
+Kandi rwose twagerageje Sulayimani tujugunya ikibiri[^191] ku ntebe ye y’ubwami, (bimutera gusa nk’utakaje ubwami bwe, abona ko yageragejwe) nyuma yicuza ku Mana.
 
-[191] Ikibiri kivugwa muri uyu murongo ni igice cy’umubiri w’umwana wavutse ubwo Intumwa Sulayimani yari yagize umugambi wo kuzenguruka ingo ze zose mu ijoro rimwe aziteramo inda y’umuhungu kugira ngo azabyare ingabo, ntiyabiragiza Imana (avuga Insha Allah), nuko Imana imugerageza imuha umwana utujuje ingingo.
+[^191]: Ikibiri kivugwa muri uyu murongo ni igice cy’umubiri w’umwana wavutse ubwo Intumwa Sulayimani yari yagize umugambi wo kuzenguruka ingo ze zose mu ijoro rimwe aziteramo inda y’umuhungu kugira ngo azabyare ingabo, ntiyabiragiza Imana (avuga Insha Allah), nuko Imana imugerageza imuha umwana utujuje ingingo.
 
 # 4005
 
@@ -16430,9 +16450,9 @@ Nuko ku bw’impuhwe ziduturutseho, tumugarurira umuryango we uri kumwe n’aban
 
 # 4014
 
-Unafate umuba w’udushari mu kuboko kwawe maze uwukubitishe (umugore wawe[192]), kugira ngo udatatira indahiro. Mu by’ukuri twasanze (Ayubu) ari umuntu wihangana. Mbega ukuntu yari umugaragu mwiza! Kandi rwose yicuzaga kenshi (kuri Allah).
+Unafate umuba w’udushari mu kuboko kwawe maze uwukubitishe (umugore wawe[^192]), kugira ngo udatatira indahiro. Mu by’ukuri twasanze (Ayubu) ari umuntu wihangana. Mbega ukuntu yari umugaragu mwiza! Kandi rwose yicuzaga kenshi (kuri Allah).
 
-[192] Mu gihe cy’uburwayi bwa Ayubu, umugore we yaramukoshereje nuko arahirira kuzamukubita inkoni ijana nakira, maze Allah ategeka Ayubu gusohoza indahiro ye afata umuba w’udushari ijana akatumukubitisha icyarimwe inshuro imwe gusa.
+[^192]: Mu gihe cy’uburwayi bwa Ayubu, umugore we yaramukoshereje nuko arahirira kuzamukubita inkoni ijana nakira, maze Allah ategeka Ayubu gusohoza indahiro ye afata umuba w’udushari ijana akatumukubitisha icyarimwe inshuro imwe gusa.
 
 # 4015
 
@@ -16908,15 +16928,15 @@ Na bo bavuge bati “Ishimwe n’ikuzo ni ibya Allah, We wubahirije isezerano ry
 
 # 4133
 
-Uzabona kandi abamalayika bakikije Ar’shi[193], basingiza ikuzo n’ishimwe bya Nyagasani wabo. Kandi (ibiremwa byose) bizakiranurwa mu kuri. Nuko havugwe ngo “Ishimwe n’ikuzo byuzuye ni ibya Allah, Nyagasani w’ibiremwa byose.”
+Uzabona kandi abamalayika bakikije Ar’shi[^193], basingiza ikuzo n’ishimwe bya Nyagasani wabo. Kandi (ibiremwa byose) bizakiranurwa mu kuri. Nuko havugwe ngo “Ishimwe n’ikuzo byuzuye ni ibya Allah, Nyagasani w’ibiremwa byose.”
 
-[193] Reba uko twasobanuye iri jambo muri Surat ul A’araf, aya ya 54
+[^193]: Reba uko twasobanuye iri jambo muri Surat ul A’araf, aya ya 54
 
 # 4134
 
-Haa Miimu[194].
+Haa Miimu[^194].
 
-[194] Inyuguti nk’izi twazivuzeho mu masura yatambutse.
+[^194]: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
 
 # 4135
 
@@ -16940,9 +16960,9 @@ Ndetse uko ni ko ijambo rya Nyagasani wawe (ry’ibihano) ryabaye impamo kuri ba
 
 # 4140
 
-Ba bandi (abamalayika) bateruye Ar’shi[195] n’abayikikije, basingiza ikuzo rya Nyagasani wabo bakanamwemera, bakanasabira imbabazi ba bandi bemera (bagira bati) “Nyagasani wacu! Impuhwe n’ubumenyi byawe bigera kuri buri kintu. None babarira ibyaha ba bandi bakwicujijeho, bakanakurikira inzira yawe ndetse unabarinde ibihano byo mu muriro.”
+Ba bandi (abamalayika) bateruye Ar’shi[^195] n’abayikikije, basingiza ikuzo rya Nyagasani wabo bakanamwemera, bakanasabira imbabazi ba bandi bemera (bagira bati) “Nyagasani wacu! Impuhwe n’ubumenyi byawe bigera kuri buri kintu. None babarira ibyaha ba bandi bakwicujijeho, bakanakurikira inzira yawe ndetse unabarinde ibihano byo mu muriro.”
 
-[195] Reba ibisobanuro by’iri jambo muri Suratul A’araf, Ayat ya 54.
+[^195]: Reba ibisobanuro by’iri jambo muri Suratul A’araf, Ayat ya 54.
 
 # 4141
 
@@ -16974,9 +16994,9 @@ Bityo, nimwambaze Allah wenyine mumwegurira ibikorwa byanyu, kabone n’iyo byab
 
 # 4148
 
-(Ni We) ufite urwego rusumba izindi, Nyiri Ar’shi[196]. Ku bw’itegeko rye, yohereza Roho (Malayika Jibril) k’uwo ashaka mu bagaragu be, kugira ngo aburire (abantu) umunsi bazahurira (hamwe).
+(Ni We) ufite urwego rusumba izindi, Nyiri Ar’shi[^196]. Ku bw’itegeko rye, yohereza Roho (Malayika Jibril) k’uwo ashaka mu bagaragu be, kugira ngo aburire (abantu) umunsi bazahurira (hamwe).
 
-[196] Reba ibisobanuro by’iri jambo muri Suratul A’araf, Aya ya 54
+[^196]: Reba ibisobanuro by’iri jambo muri Suratul A’araf, Aya ya 54
 
 # 4149
 
@@ -17044,9 +17064,9 @@ Nuko wa wundi wemeye aravuga ati “Yemwe bantu banjye! Mu by’ukuri ndatinya k
 
 # 4165
 
-“Yemwe bantu banjye! Mu by’ukuri ndatinya ko mwazagerwaho (n’ibihano) ku munsi wo guhamagarana (hagati y’abantu bo mu ijuru n’abo mu muriro)[197],
+“Yemwe bantu banjye! Mu by’ukuri ndatinya ko mwazagerwaho (n’ibihano) ku munsi wo guhamagarana (hagati y’abantu bo mu ijuru n’abo mu muriro)[^197],
 
-[197] -Reba Surat ul A’araf: 44-50.
+[^197]: -Reba Surat ul A’araf: 44-50.
 
 # 4166
 
@@ -17262,9 +17282,9 @@ Ukwemera kwabo nta cyo kwabamariye nyuma yo kubona ibihano byacu. Uwo ni wo wari
 
 # 4219
 
-Haa Miim[198].
+Haa Miim[^198].
 
-[198] Inyuguti nk’izi twazivuzeho mu masura yatambutse.
+[^198]: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
 
 # 4220
 
@@ -17300,9 +17320,9 @@ Vuga (yewe Muhamadi) uti “Ese mu by’ukuri muhakana uwaremye isi mu minsi ibi
 
 # 4228
 
-Yayishimangiyeho imisozi ku buso bwayo ndetse anayiha imigisha, anayigenaho ibitunga (ibinyabuzima) biyiriho mu minsi ine ingana[199]. (Icyo ni cyo gisubizo) kubabaza (iby’iremwa ryayo).
+Yayishimangiyeho imisozi ku buso bwayo ndetse anayiha imigisha, anayigenaho ibitunga (ibinyabuzima) biyiriho mu minsi ine ingana[^199]. (Icyo ni cyo gisubizo) kubabaza (iby’iremwa ryayo).
 
-[199] Iminsi ine ingana ivugwa muri uyu murongo ihwanye n’iminsi ibiri Allah yaremyemo isi, hanyuma akarema ibiyiriho n’ibigomba gutunga ibiyiriho mu yindi minsi ibiri; yose hamwe ikaba iminsi ine.
+[^199]: Iminsi ine ingana ivugwa muri uyu murongo ihwanye n’iminsi ibiri Allah yaremyemo isi, hanyuma akarema ibiyiriho n’ibigomba gutunga ibiyiriho mu yindi minsi ibiri; yose hamwe ikaba iminsi ine.
 
 # 4229
 
@@ -17486,9 +17506,9 @@ Haa Miim
 
 # 4274
 
-A’in Siin Qaaf [200].
+A’in Siin Qaaf [^200].
 
-[200] Inyuguti nk’izi twazivuzeho mu masura yatambutse
+[^200]: Inyuguti nk’izi twazivuzeho mu masura yatambutse
 
 # 4275
 
@@ -17696,9 +17716,9 @@ Inzira ya Allah, We mugenga w’ibiri mu birere n’ibiri ku isi. Mumenye ko kwa
 
 # 4326
 
-Haa Miim[201].
+Haa Miim[^201].
 
-[201] Inyuguti nk’izi twazivuze mu bice (amasura) yatambutse.
+[^201]: Inyuguti nk’izi twazivuze mu bice (amasura) yatambutse.
 
 # 4327
 
@@ -17710,9 +17730,9 @@ Mu by’ukuri (icyo gitabo) twakigize Qur’an iri mu rurimi rw’Icyarabu kugir
 
 # 4329
 
-Kandi mu by’ukuri iyo (Qur’an) iri Iwacu mu gitabo gihatse ibindi byose[202], rwose irahambaye kandi yuje ubuhanga.
+Kandi mu by’ukuri iyo (Qur’an) iri Iwacu mu gitabo gihatse ibindi byose[^202], rwose irahambaye kandi yuje ubuhanga.
 
-[202] Igitabo gihatse ibindi kivugwa muri uyu murongo ni urubaho rurinzwe rwanditsweho igeno ry’ibizaba kuzageza ku munsi w’imperuka (Lawuh ul Mah’fudhi).
+[^202]: Igitabo gihatse ibindi kivugwa muri uyu murongo ni urubaho rurinzwe rwanditsweho igeno ry’ibizaba kuzageza ku munsi w’imperuka (Lawuh ul Mah’fudhi).
 
 # 4330
 
@@ -17760,9 +17780,9 @@ Kandi kwa Nyagasani wacu ni ho tuzasubira.”
 
 # 4341
 
-Ahubwo se (Allah) yakwigenera abakobwa mu biremwa bye[203], maze mwe akabaha umwihariko w’abahungu?
+Ahubwo se (Allah) yakwigenera abakobwa mu biremwa bye[^203], maze mwe akabaha umwihariko w’abahungu?
 
-[203] Muri uyu murongo Allah aranenga imyumvire idahwitse yari ifitwe n’ababangikanyamana b’i Maka batishimiraga kubyara abakobwa nyamara bakabitirira Allah.
+[^203]: Muri uyu murongo Allah aranenga imyumvire idahwitse yari ifitwe n’ababangikanyamana b’i Maka batishimiraga kubyara abakobwa nyamara bakabitirira Allah.
 
 # 4342
 
@@ -17926,9 +17946,9 @@ Nuko tubagira icyitegererezo n’iciro ry’umugani (ngo babe isomo) ku bazaza n
 
 # 4382
 
-Kandi ubwo hatangwaga urugero kuri mwene Mariyamu (Issa)[204], icyo gihe abantu bawe (ababangikanyamana b’i Maka, yewe Muhamadi) bararwishimiye cyane (barukwena.)
+Kandi ubwo hatangwaga urugero kuri mwene Mariyamu (Issa)[^204], icyo gihe abantu bawe (ababangikanyamana b’i Maka, yewe Muhamadi) bararwishimiye cyane (barukwena.)
 
-[204] Urugero ruvugwa aha ni igihe uyu murongo wahishurwaga ugira uti: “Mu by’ukuri mwe (abahakanyi) hamwe n’ibyo mugaragira bitari Allah, muzaba ibicanwa by’umuriro wa Jahanamu; kandi mwese muzawinjiramo.” Surat Al Anbiya-u: 98. Uyu murongo wahishuwe usubiza amagambo Ibun Zibaara yavuze agira ati “Niba amagambo Muhamadi avuga y’uko twe n’ibyo tugaragira tuzajya mu muriro, ubwo n’abamalayika bazawujyamo kuko na bo tubasenga, na Uzayiru awujyemo kuko Abayahudi bamusenga, ndetse na Yesu awujyemo kuko Abanaswara bamusenga.”
+[^204]: Urugero ruvugwa aha ni igihe uyu murongo wahishurwaga ugira uti: “Mu by’ukuri mwe (abahakanyi) hamwe n’ibyo mugaragira bitari Allah, muzaba ibicanwa by’umuriro wa Jahanamu; kandi mwese muzawinjiramo.” Surat Al Anbiya-u: 98. Uyu murongo wahishuwe usubiza amagambo Ibun Zibaara yavuze agira ati “Niba amagambo Muhamadi avuga y’uko twe n’ibyo tugaragira tuzajya mu muriro, ubwo n’abamalayika bazawujyamo kuko na bo tubasenga, na Uzayiru awujyemo kuko Abayahudi bamusenga, ndetse na Yesu awujyemo kuko Abanaswara bamusenga.”
 
 # 4383
 
@@ -18028,9 +18048,9 @@ Vuga uti “Niba (Allah) Nyirimbabazi yaragize umwana (nk’uko mubivuga), njye 
 
 # 4407
 
-Ubutagatifu ni ubwa Nyagasani w’ibirere n’isi, Nyagasani nyiri Ar’shi[205]! Nta ho ahuriye n’ibyo bamwitirira.
+Ubutagatifu ni ubwa Nyagasani w’ibirere n’isi, Nyagasani nyiri Ar’shi[^205]! Nta ho ahuriye n’ibyo bamwitirira.
 
-[205] Reba uko twasobanuye iri jambo muri Suratul A’araf, Aya ya 54.
+[^205]: Reba uko twasobanuye iri jambo muri Suratul A’araf, Aya ya 54.
 
 # 4408
 
@@ -18062,9 +18082,9 @@ Bityo, bababarire unavuge uti “mugire amahoro (Salamu)!” Rwose bidatinze baz
 
 # 4415
 
-Haa Miim[206].
+Haa Miim[^206].
 
-[206] Inyuguti nk’izi twazivuzeho mu bice (amasura) byatambutse.
+[^206]: Inyuguti nk’izi twazivuzeho mu bice (amasura) byatambutse.
 
 # 4416
 
@@ -18176,9 +18196,9 @@ Uko ni ko byagenze! (Imitungo yabo) twayizunguje abandi bantu.
 
 # 4443
 
-Ikirere n’isi ntibyigeze bibaririra[207] kandi ntibigeze bakererezwa (guhanwa).
+Ikirere n’isi ntibyigeze bibaririra[^207] kandi ntibigeze bakererezwa (guhanwa).
 
-[207] Ibn Abasi yavuze ko iyo umwemeramana apfuye, ahantu yajyaga yubama asenga ndetse n’amarembo yo mu kirere ibikorwa bye byajyaga binyuzwamo bizamuka, bigira agahinda bikamuririra. Naho iyo umuhakanyi apfuye ntibimuririra.
+[^207]: Ibn Abasi yavuze ko iyo umwemeramana apfuye, ahantu yajyaga yubama asenga ndetse n’amarembo yo mu kirere ibikorwa bye byajyaga binyuzwamo bizamuka, bigira agahinda bikamuririra. Naho iyo umuhakanyi apfuye ntibimuririra.
 
 # 4444
 
@@ -18210,9 +18230,9 @@ Ngaho nimugarure abakurambere bacu (bapfuye kera) niba muvuga ukuri (ko Allah az
 
 # 4451
 
-Ese abo (babangikanyamana) ni bo beza cyangwa se abantu ba Tubba’i[208], ndetse na ba bandi babayeho mbere yabo? (Abo bose) twaraboretse kubera ko bari abagizi ba nabi.
+Ese abo (babangikanyamana) ni bo beza cyangwa se abantu ba Tubba’i[^208], ndetse na ba bandi babayeho mbere yabo? (Abo bose) twaraboretse kubera ko bari abagizi ba nabi.
 
-[208] Tubba’i : Bari abami bo mu gihugu cya Yemen.
+[^208]: Tubba’i : Bari abami bo mu gihugu cya Yemen.
 
 # 4452
 
@@ -18304,9 +18324,9 @@ Ngaho (yewe Muhamadi) tegereza (ibyo nagusezeranyije bizababaho), mu by’ukuri 
 
 # 4474
 
-Haa Miim[209].
+Haa Miim[^209].
 
-[209] Inyuguti nk’izi twazivuzeho mu masura yatambutse.
+[^209]: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
 
 # 4475
 
@@ -18454,9 +18474,9 @@ Ni na We (wenyine) w’ikirenga mu birere n’isi, kandi ni We Munyacyubahiro uh
 
 # 4511
 
-Haa Miim[210].
+Haa Miim[^210].
 
-[210] Inyuguti nk’izi twazivuzeho mu masura yatambutse.
+[^210]: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
 
 # 4512
 
@@ -18492,9 +18512,9 @@ Vuga (yewe Muhamadi) uti “Ntabwo ndi icyaduka mu ntumwa (za Allah), ndetse sin
 
 # 4520
 
-Babaze (yewe Muhamadi) uti “Mutekereze nk’ubu iyi (Qur’an) ibaye ituruka kwa Allah mukaba muyihakana; nyamara umwe muri bene Isiraheli[211] ahamya ko ari nka yo (ari ukuri nka Tawurati), akaba anayemera mu gihe mwe mwishyira hejuru (muyihakana)!” Mu by’ukuri Allah ntayobora abantu b’abahakanyi.
+Babaze (yewe Muhamadi) uti “Mutekereze nk’ubu iyi (Qur’an) ibaye ituruka kwa Allah mukaba muyihakana; nyamara umwe muri bene Isiraheli[^211] ahamya ko ari nka yo (ari ukuri nka Tawurati), akaba anayemera mu gihe mwe mwishyira hejuru (muyihakana)!” Mu by’ukuri Allah ntayobora abantu b’abahakanyi.
 
-[211] Umwe muri bene Isiraheli uvugwa muri uyu murongo ni Abdullahi bun Salaam, Umuyahudi wabaye Umuyisilamu ndetse akaba yari n’umwe mu basangirangendo b’Intumwa y’Imana Muhamadi (Imana imuhe amahoro n’umugisha).
+[^211]: Umwe muri bene Isiraheli uvugwa muri uyu murongo ni Abdullahi bun Salaam, Umuyahudi wabaye Umuyisilamu ndetse akaba yari n’umwe mu basangirangendo b’Intumwa y’Imana Muhamadi (Imana imuhe amahoro n’umugisha).
 
 # 4521
 
@@ -18538,9 +18558,9 @@ Uzirikane n’umunsi ba bandi bahakanye bazagezwa imbere y’umuriro, maze (babw
 
 # 4531
 
-Unibuke (yewe Muhamadi) umuvandimwe w’aba Adi (Intumwa Hudu) ubwo yaburiraga abantu be bari batuye ahitwa Ah’qaf[212] -kandi mbere ye na nyuma ye haje ababurizi- avuga ati “Ntimukagire undi mugaragira utari Allah. Mu by’ukuri ndatinya ko muzabona ibihano byo ku munsi uhambaye (nimukomeza guhakana).”
+Unibuke (yewe Muhamadi) umuvandimwe w’aba Adi (Intumwa Hudu) ubwo yaburiraga abantu be bari batuye ahitwa Ah’qaf[^212] -kandi mbere ye na nyuma ye haje ababurizi- avuga ati “Ntimukagire undi mugaragira utari Allah. Mu by’ukuri ndatinya ko muzabona ibihano byo ku munsi uhambaye (nimukomeza guhakana).”
 
-[212] Ni izina ry’ahantu mu majyepfo y’umwigimbakirwa w’Abarabu, kuri ubu ni mu gihugu cya Oman.
+[^212]: Ni izina ry’ahantu mu majyepfo y’umwigimbakirwa w’Abarabu, kuri ubu ni mu gihugu cya Oman.
 
 # 4532
 
@@ -18912,9 +18932,9 @@ Yemwe abemeye! Ntihakagire abantu basuzugura abandi, kuko hari ubwo (abasuzuguwe
 
 # 4624
 
-Yemwe abemeye! Mujye mwirinda kenshi gukeka (bagenzi banyu), kuko rimwe na rimwe gukeka ari icyaha. Kandi ntimukanekane[213] cyangwa ngo musebanye. Ese umwe muri mwe yakwemera kurya inyama y’umuvandimwe we wapfuye? (Ntawabyemera!) Ngaho nimubireke kandi mugandukire Allah. Mu by’ ukuri, Allah ni Uwakira bihebuje ukwicuza, Nyirimbabazi.
+Yemwe abemeye! Mujye mwirinda kenshi gukeka (bagenzi banyu), kuko rimwe na rimwe gukeka ari icyaha. Kandi ntimukanekane[^213] cyangwa ngo musebanye. Ese umwe muri mwe yakwemera kurya inyama y’umuvandimwe we wapfuye? (Ntawabyemera!) Ngaho nimubireke kandi mugandukire Allah. Mu by’ ukuri, Allah ni Uwakira bihebuje ukwicuza, Nyirimbabazi.
 
-[213] Uyu murongo urabuza abantu gucukumbura no gushaka kumenya ibyo abandi babahishe batifuza ko babimenya.
+[^213]: Uyu murongo urabuza abantu gucukumbura no gushaka kumenya ibyo abandi babahishe batifuza ko babimenya.
 
 # 4625
 
@@ -18942,9 +18962,9 @@ Mu by’ukuri Allah azi ibitagaragara byo mu birere no mu isi. Kandi Allah ni Ub
 
 # 4631
 
-Qaaf[214]. Ndahiye iyi Qur’an yuje ikuzo.
+Qaaf[^214]. Ndahiye iyi Qur’an yuje ikuzo.
 
-[214] Inyuguti nk’izi twazivuzeho mu masura yatambutse.
+[^214]: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
 
 # 4632
 
@@ -19364,9 +19384,9 @@ Ibihano bikomeye bizaba kuri ba bandi bahakanye bitewe n’umunsi basezeranyijwe
 
 # 4736
 
-Ndahiye Umusozi wa Twuur[215].
+Ndahiye Umusozi wa Twuur[^215].
 
-[215] Twuur ni izina ry’umusozi wa Sinayi Allah yavugishirijeho Intumwa ye Musa ndetse anawumuheraho amategeko.
+[^215]: Twuur ni izina ry’umusozi wa Sinayi Allah yavugishirijeho Intumwa ye Musa ndetse anawumuheraho amategeko.
 
 # 4737
 
@@ -19614,9 +19634,9 @@ Kandi rwose (Muhamadi) yaramubonye (Malayika Jibrilu) ubwo yamanukaga ku yindi n
 
 # 4798
 
-Ubwo yari kuri Sidrat-il-Muntaha (Igiti cya nyuma)[216],
+Ubwo yari kuri Sidrat-il-Muntaha (Igiti cya nyuma)[^216],
 
-[216] Sidratil-Mun’tahaa: Ni igiti kiri hafi ya Ar’shi, cyiswe igiti cya nyuma kuko nta kiremwa na kimwe kikirenga.
+[^216]: Sidratil-Mun’tahaa: Ni igiti kiri hafi ya Ar’shi, cyiswe igiti cya nyuma kuko nta kiremwa na kimwe kikirenga.
 
 # 4799
 
@@ -19756,9 +19776,9 @@ No kuba ari We utanga ubukungu akanatuma abantu bagira ibyo bigezaho,
 
 # 4833
 
-No kuba ari We Nyagasani wa Shi’ira[217],
+No kuba ari We Nyagasani wa Shi’ira[^217],
 
-[217]Shi’ira ni inyenyeri Abarabu b’ababangikanyamana bajyaga basenga mbere y’Ubuyisilamu.
+[^217]: Shi’ira ni inyenyeri Abarabu b’ababangikanyamana bajyaga basenga mbere y’Ubuyisilamu.
 
 # 4834
 
@@ -19814,9 +19834,9 @@ Bityo, nimwubamire Allah munamugaragire (wenyine).
 
 # 4847
 
-Igihe cy’imperuka kiregereje ndetse n’ukwezi kwarasadutse[218].
+Igihe cy’imperuka kiregereje ndetse n’ukwezi kwarasadutse[^218].
 
-[218] Gusaduka k’ukwezi kuvugwa muri uyu murongo, ni kimwe mu bitangaza Intumwa y’Imana Muhamadi yeretse abahakanyi b’i Maka, ubwo bayihinyuraga bayisaba ko yabereka igitangaza; maze isaba Allah kuyiha icyo gitangaza, nuko ibereka ukwezi kwasadutse. Kikaba ari na kimwe mu bimenyetso bizabanziriza umunsi w’imperuka.
+[^218]: Gusaduka k’ukwezi kuvugwa muri uyu murongo, ni kimwe mu bitangaza Intumwa y’Imana Muhamadi yeretse abahakanyi b’i Maka, ubwo bayihinyuraga bayisaba ko yabereka igitangaza; maze isaba Allah kuyiha icyo gitangaza, nuko ibereka ukwezi kwasadutse. Kikaba ari na kimwe mu bimenyetso bizabanziriza umunsi w’imperuka.
 
 # 4848
 
@@ -20100,9 +20120,9 @@ None se (yemwe bantu namwe majini) ni iyihe mu ngabire za Nyagasani wanyu mwembi
 
 # 4918
 
-(Ni We) Nyagasani w’Uburasirazuba bubiri akaba na Nyagasani w’Uburengerazuba bubiri[219].
+(Ni We) Nyagasani w’Uburasirazuba bubiri akaba na Nyagasani w’Uburengerazuba bubiri[^219].
 
-[219] Uburasirazuba bubiri buvugwa muri uyu murongo wa Qur’an, ni ahantu izuba rirasira mu itumba n’aho rirasira mu Mpeshyi. Naho Uburengerazuba bubiri ni ahantu izuba rirengera mu itumba ndetse n’aho rirengera mu Mpeshyi.
+[^219]: Uburasirazuba bubiri buvugwa muri uyu murongo wa Qur’an, ni ahantu izuba rirasira mu itumba n’aho rirasira mu Mpeshyi. Naho Uburengerazuba bubiri ni ahantu izuba rirengera mu itumba ndetse n’aho rirengera mu Mpeshyi.
 
 # 4919
 
@@ -20122,9 +20142,9 @@ None se (yemwe bantu namwe majini) ni iyihe mu ngabire za Nyagasani wanyu mwembi
 
 # 4923
 
-Muri zo havamo amasaro arabagirana (Lu-ulu-u) na Marijani[220].
+Muri zo havamo amasaro arabagirana (Lu-ulu-u) na Marijani[^220].
 
-[220] Mar’jaani: Ni bumwe mu bwoko bw’amabuye y’agaciro aboneka mu mazi.
+[^220]: Mar’jaani: Ni bumwe mu bwoko bw’amabuye y’agaciro aboneka mu mazi.
 
 # 4924
 
@@ -20268,9 +20288,9 @@ None se (yemwe bantu namwe majini) ni iyihe mu ngabire za Nyagasani wanyu mwembi
 
 # 4959
 
-(Bazaba bafite ubwiza) nk’ubw’amabuye y’agaciro ya Yaquut[221] na Marjani.
+(Bazaba bafite ubwiza) nk’ubw’amabuye y’agaciro ya Yaquut[^221] na Marjani.
 
-[221] Yaaquut: Ni bumwe mu bwoko bw’amabuye y’agaciro rifite ibara ritukura ryererutse.
+[^221]: Yaaquut: Ni bumwe mu bwoko bw’amabuye y’agaciro rifite ibara ritukura ryererutse.
 
 # 4960
 
@@ -20382,9 +20402,9 @@ Maze ikaba umukungugu utumuka.
 
 # 4987
 
-Hari ab’iburyo[222]; abo bantu b’iburyo ni bantu ki?
+Hari ab’iburyo[^222]; abo bantu b’iburyo ni bantu ki?
 
-[222] Abantu b’iburyo ni abakoze ibikorwa byiza, bazahabwa igitabo mu kuboko kwabo kw’iburyo gikubiyemo ibikorwa bakoze bakiri ku isi. Naho ab’ibumoso ni abakoze ibikorwa bibi, bazahabwa icyo gitabo mu kuboko kw’ibumoso.
+[^222]: Abantu b’iburyo ni abakoze ibikorwa byiza, bazahabwa igitabo mu kuboko kwabo kw’iburyo gikubiyemo ibikorwa bakoze bakiri ku isi. Naho ab’ibumoso ni abakoze ibikorwa bibi, bazahabwa icyo gitabo mu kuboko kw’ibumoso.
 
 # 4988
 
@@ -20752,9 +20772,9 @@ Ni We Ntangiriro akaba n’Iherezo, Ugaragara (Uri hejuru ya buri kintu) akaba n
 
 # 5079
 
-Ni We waremye ibirere n’isi mu minsi itandatu, hanyuma aganza hejuru ya Ar’shi[223]. Azi ibyinjira mu butaka n’ibibusohokamo, ibimanuka mu kirere ndetse n’ibikizamukamo. Kandi aba ari kumwe namwe aho muri hose. Kandi Allah ni Ubona bihebuje ibyo mukora.
+Ni We waremye ibirere n’isi mu minsi itandatu, hanyuma aganza hejuru ya Ar’shi[^223]. Azi ibyinjira mu butaka n’ibibusohokamo, ibimanuka mu kirere ndetse n’ibikizamukamo. Kandi aba ari kumwe namwe aho muri hose. Kandi Allah ni Ubona bihebuje ibyo mukora.
 
-[223] Reba uko twasobanuye iri jambo muri Surat al A’araf, Ayat ya 54
+[^223]: Reba uko twasobanuye iri jambo muri Surat al A’araf, Ayat ya 54
 
 # 5080
 
@@ -20950,9 +20970,9 @@ Ibiri mu birere n’ibiri mu isi byose bisingiza Allah. Kandi (Allah) ni Umunyac
 
 # 5128
 
-Ni We wamenesheje abahakanye bo mu bahawe igitabo, abakura mu ngo zabo ku ikoraniro rya mbere[224]. Ntimwakekaga ko bagenda kandi na bo bakekaga ko inyubako zabo z’imitamenwa zabarinda (ibihano bya) Allah! Nyamara ibihano bya Allah byabagezeho biturutse aho batakekaga, nuko abateza ubwoba mu mitima kugeza ubwo bisenyeye amazu bakoresheje amaboko yabo ndetse n’amaboko y’abemeramana. Ngaho nimubikuremo isomo yemwe abashishoza!
+Ni We wamenesheje abahakanye bo mu bahawe igitabo, abakura mu ngo zabo ku ikoraniro rya mbere[^224]. Ntimwakekaga ko bagenda kandi na bo bakekaga ko inyubako zabo z’imitamenwa zabarinda (ibihano bya) Allah! Nyamara ibihano bya Allah byabagezeho biturutse aho batakekaga, nuko abateza ubwoba mu mitima kugeza ubwo bisenyeye amazu bakoresheje amaboko yabo ndetse n’amaboko y’abemeramana. Ngaho nimubikuremo isomo yemwe abashishoza!
 
-[224] Abahawe igitabo bavugwa muri uyu murongo ni Abayahudi bo mu bwoko bwa Bani Nadwir, bari batuye mu nkengero z’umujyi wa Madina, banze kwemera Intumwa Muhamadi ndetse bagerageje kumugirira nabi, bananga no gushyira mu bikorwa amasezerano bari baragiranye n’Intumwa y’Imana. Maze Intumwa ifata icyemezo cyo kubasohora mu mujyi wa Madina.
+[^224]: Abahawe igitabo bavugwa muri uyu murongo ni Abayahudi bo mu bwoko bwa Bani Nadwir, bari batuye mu nkengero z’umujyi wa Madina, banze kwemera Intumwa Muhamadi ndetse bagerageje kumugirira nabi, bananga no gushyira mu bikorwa amasezerano bari baragiranye n’Intumwa y’Imana. Maze Intumwa ifata icyemezo cyo kubasohora mu mujyi wa Madina.
 
 # 5129
 
@@ -21312,9 +21332,9 @@ Umumenyi w’ibitagaragara n’ibigaragara, Umunyacyubahiro uhebuje, Nyirubugeng
 
 # 5218
 
-Yewe Muhanuzi (Muhamadi)! Nimusenda abagore, mujye mubasenda mukurikije igihe cyabo cyagenwe (Eda)[225], ndetse mujye mubara igihe cyabo (Eda) neza, kandi munatinye Allah, Nyagasani wanyu. Ntimukabasohore mu ngo zabo cyangwa se na bo ngo bijyane, keretse bakoze icyaha cy’urukozasoni gifitiwe gihamya (ubusambanyi). Izo ni imbago zashyizweho na Allah, kandi urenze imbago za Allah, aba yihemukiye. (Wowe wasenze umugore wawe) ntiwamenya, hari ubwo nyuma y’ibyo, Allah yabihindura ukundi (mukaba mwakongera gusubirana).
+Yewe Muhanuzi (Muhamadi)! Nimusenda abagore, mujye mubasenda mukurikije igihe cyabo cyagenwe (Eda)[^225], ndetse mujye mubara igihe cyabo (Eda) neza, kandi munatinye Allah, Nyagasani wanyu. Ntimukabasohore mu ngo zabo cyangwa se na bo ngo bijyane, keretse bakoze icyaha cy’urukozasoni gifitiwe gihamya (ubusambanyi). Izo ni imbago zashyizweho na Allah, kandi urenze imbago za Allah, aba yihemukiye. (Wowe wasenze umugore wawe) ntiwamenya, hari ubwo nyuma y’ibyo, Allah yabihindura ukundi (mukaba mwakongera gusubirana).
 
-[225] Eda ni igihe cyagenwe n’amategeko ya Isilamu umugore ategereza mbere y’uko atandukana n’umugabo we.
+[^225]: Eda ni igihe cyagenwe n’amategeko ya Isilamu umugore ategereza mbere y’uko atandukana n’umugabo we.
 
 # 5219
 
@@ -21366,9 +21386,9 @@ Yewe Muhanuzi (Muhamadi)! Kuki wiziririza ibyo Allah yakuziruriye ugamije gushim
 
 # 5231
 
-Rwose (yemwe abemeramana) Allah yabategetse uburyo muzirura indahiro zanyu (mutanga icyiru)[226]. Kandi Allah ni Umurinzi wanyu akaba n’Umumenyi uhebuje, Nyirubugenge buhambaye.
+Rwose (yemwe abemeramana) Allah yabategetse uburyo muzirura indahiro zanyu (mutanga icyiru)[^226]. Kandi Allah ni Umurinzi wanyu akaba n’Umumenyi uhebuje, Nyirubugenge buhambaye.
 
-[226] Icyo cyiru twagisobanuye muri Surat ya 5 (Al Maidat): Ayat 89.
+[^226]: Icyo cyiru twagisobanuye muri Surat ya 5 (Al Maidat): Ayat 89.
 
 # 5232
 
@@ -21532,9 +21552,9 @@ Vuga (yewe Muhamadi) uti “Nimumbwire! Amazi yanyu (mukoresha) aramutse arigiti
 
 # 5272
 
-Nuuni[227] Ndahiye ikaramu n’ibyo (abamalayika n’abantu) bandika!
+Nuuni[^227] Ndahiye ikaramu n’ibyo (abamalayika n’abantu) bandika!
 
-[227] Inyuguti nk’izi twazivuzeho mu masura yatambutse.
+[^227]: Inyuguti nk’izi twazivuzeho mu masura yatambutse.
 
 # 5273
 
@@ -21582,9 +21602,9 @@ Ubuza ibyiza, urengera, umunyacyaha,
 
 # 5284
 
-Uw’umutima winangiye, hejuru y’ibyo akaba ari ikinyendaro (atazwi inkomoko ye kwa se)[228].
+Uw’umutima winangiye, hejuru y’ibyo akaba ari ikinyendaro (atazwi inkomoko ye kwa se)[^228].
 
-[228]-Umuntu uvugwa muri iyi mirongo ni uwitwa Al Walid ibun al Mughirat, umwe mu babangikanyamana b’i Maka warwanyaga Intumwa y’Imana Muhamadi.
+[^228]: -Umuntu uvugwa muri iyi mirongo ni uwitwa Al Walid ibun al Mughirat, umwe mu babangikanyamana b’i Maka warwanyaga Intumwa y’Imana Muhamadi.
 
 # 5285
 
@@ -21700,9 +21720,9 @@ Cyangwa se (abahakanyi) baba bafite ibigirwamana (bizabafasha ku munsi w’imper
 
 # 5313
 
-(Ibuka) umunsi (ibintu bizaba bikomeye kandi biteye ubwoba), ubwo igice cyo hepfo cy’ukuguru (kwa Allah) kizagaragarizwa (ibiremwa), nuko (abahakanyi) bagahamagarirwa kubamira (Allah) ariko ntibabishobore[229]
+(Ibuka) umunsi (ibintu bizaba bikomeye kandi biteye ubwoba), ubwo igice cyo hepfo cy’ukuguru (kwa Allah) kizagaragarizwa (ibiremwa), nuko (abahakanyi) bagahamagarirwa kubamira (Allah) ariko ntibabishobore[^229]
 
-[229]-Imyemerere ya Isilamu igaragaza ko Allah afite ibimuranga, bimwe bikaba bihuje inyito n’iby’ibiremwa ariko bidahuje imiterere, kuko Allah atagira icyo asa na cyo. Imvugo y’Intumwa y’Imana Muhamadi igaragaza ko ku munsi w’imperuka Allah azereka ibiremwa bye igice cyo hepfo cy’ukuguru kwe (umurundi). Icyo gihe abemeramana bazubamira Allah, ariko abajyaga bubamira Allah ku isi bagamije kwiyerekana, ntibizabashobokera.
+[^229]: -Imyemerere ya Isilamu igaragaza ko Allah afite ibimuranga, bimwe bikaba bihuje inyito n’iby’ibiremwa ariko bidahuje imiterere, kuko Allah atagira icyo asa na cyo. Imvugo y’Intumwa y’Imana Muhamadi igaragaza ko ku munsi w’imperuka Allah azereka ibiremwa bye igice cyo hepfo cy’ukuguru kwe (umurundi). Icyo gihe abemeramana bazubamira Allah, ariko abajyaga bubamira Allah ku isi bagamije kwiyerekana, ntibizabashobokera.
 
 # 5314
 
@@ -21810,9 +21830,9 @@ N’ikirere kizasatagurika, maze uwo munsi kibe cyoroshye (ku buryo cyakwiyasagu
 
 # 5340
 
-N’abamalayika bazaba bakizengurutse (ikirere) impande zacyo. Kandi kuri uwo munsi abamalayika umunani biyongera kuri abo bazaba bateruye Ar’shi[230] ya Nyagasani wawe.
+N’abamalayika bazaba bakizengurutse (ikirere) impande zacyo. Kandi kuri uwo munsi abamalayika umunani biyongera kuri abo bazaba bateruye Ar’shi[^230] ya Nyagasani wawe.
 
-[230] Reba ibisobanuro by’iri jambo muri Surat ul A’araf, Aya ya 54
+[^230]: Reba ibisobanuro by’iri jambo muri Surat ul A’araf, Aya ya 54
 
 # 5341
 
@@ -21872,9 +21892,9 @@ Maze mumutwikire mu muriro,
 
 # 5355
 
-Nyuma mumuboheshe umunyururu ufite uburebure bwa Dhira’a[231] mirongo irindwi.
+Nyuma mumuboheshe umunyururu ufite uburebure bwa Dhira’a[^231] mirongo irindwi.
 
-[231] Dhira’a ni bumwe mu buryo bwa kera bwifashishwaga mu gupima uburebure bw’ikintu. Dhira’a imwe ingana na santimetero hafi mirongo irindwi n’eshanu (75 cm).
+[^231]: Dhira’a ni bumwe mu buryo bwa kera bwifashishwaga mu gupima uburebure bw’ikintu. Dhira’a imwe ingana na santimetero hafi mirongo irindwi n’eshanu (75 cm).
 
 # 5356
 
@@ -22110,9 +22130,9 @@ Ese buri wese muri bo ararikiye kuzinjizwa mu Ijuru ryuje ingabire?
 
 # 5414
 
-Ntabwo ari ko bimeze! Mu by’ukuri twabaremye tubakomoye mu byo bazi[232] (ariko banga kwemera).
+Ntabwo ari ko bimeze! Mu by’ukuri twabaremye tubakomoye mu byo bazi[^232] (ariko banga kwemera).
 
-[232] Ibyo bazi bivugwa muri uyu murongo ni igitaka n’intanga umuntu yaremwemo.
+[^232]: Ibyo bazi bivugwa muri uyu murongo ni igitaka n’intanga umuntu yaremwemo.
 
 # 5415
 
@@ -22224,9 +22244,9 @@ Nuko (abantu be) bacura umugambi mubi (wo kubangamira ubutumwa bwe).
 
 # 5442
 
-Baranavuga bati “Rwose ntimuzareke imana zanyu, kandi ntimuzareke (kugaragira) Wadan, Suwa’a, Yagutha, Ya’uqa ndetse na Nasra[233]
+Baranavuga bati “Rwose ntimuzareke imana zanyu, kandi ntimuzareke (kugaragira) Wadan, Suwa’a, Yagutha, Ya’uqa ndetse na Nasra[^233]
 
-[233] Ayo yari amazina y’ibigirwamana abantu ba Nuhu basengaga.
+[^233]: Ayo yari amazina y’ibigirwamana abantu ba Nuhu basengaga.
 
 # 5443
 
@@ -23406,9 +23426,9 @@ Agira ati “Ni njye nyagasani wanyu w’ikirenga.”
 
 # 5737
 
-Bityo Allah amuhana by’intangarugero kubera icyaha cya nyuma (yakoze) n’icya mbere [234].
+Bityo Allah amuhana by’intangarugero kubera icyaha cya nyuma (yakoze) n’icya mbere [^234].
 
-[234] Icyaha cyo kuba Farawo yaravuze ko ari we Nyagasani w’ikirenga, nk’uko byavuzwe muri iki gice (Surat), umurongo wacyo wa 24. Naho icya mbere ni ukuba yarabwiye ibyegera bye ko atazi ko bafite indi mana itari we nk’uko byavuzwe mu gice (Surat) cya 28, umurongo wacyo wa 38.
+[^234]: Icyaha cyo kuba Farawo yaravuze ko ari we Nyagasani w’ikirenga, nk’uko byavuzwe muri iki gice (Surat), umurongo wacyo wa 24. Naho icya mbere ni ukuba yarabwiye ibyegera bye ko atazi ko bafite indi mana itari we nk’uko byavuzwe mu gice (Surat) cya 28, umurongo wacyo wa 38.
 
 # 5738
 
@@ -23692,9 +23712,9 @@ N’igihe roho zizasubizwa mu mibiri yazo (abeza bakajya ukwabo n’ababi bakajy
 
 # 5808
 
-N’igihe umwana w’umukobwa wahambwe ari muzima azabazwa [235],
+N’igihe umwana w’umukobwa wahambwe ari muzima azabazwa [^235],
 
-[235] Mbere y’uko Intumwa y’Imana Muhamadi (Imana imuhe amahoro n’imigisha) ihabwa ubutumwa, Abarabu b’icyo gihe iyo babyaraga umwana w’umukobwa, bamuhambaga ari muzima kuko byabaga ari igisebo ku muryango ngo kuko babonaga nta cyo amaze! Ariko nyuma y’aho Intumwa y’Imana iziye, ibyo byaraciwe. Kuba ari we uzabazwa ni ibigaragaza uburemere bw’icyaha cy’uwamwishe uzaba agiye guhura n’urubanza rukomeye ku munsi w’ibarura.
+[^235]: Mbere y’uko Intumwa y’Imana Muhamadi (Imana imuhe amahoro n’imigisha) ihabwa ubutumwa, Abarabu b’icyo gihe iyo babyaraga umwana w’umukobwa, bamuhambaga ari muzima kuko byabaga ari igisebo ku muryango ngo kuko babonaga nta cyo amaze! Ariko nyuma y’aho Intumwa y’Imana iziye, ibyo byaraciwe. Kuba ari we uzabazwa ni ibigaragaza uburemere bw’icyaha cy’uwamwishe uzaba agiye guhura n’urubanza rukomeye ku munsi w’ibarura.
 
 # 5809
 
@@ -23742,9 +23762,9 @@ Mu by’ukuri (Qur’an) ni ijambo ryazanywe n’Intumwa yubahitse [(Malayika Ji
 
 # 5820
 
-(Iyo ntumwa) ifite imbaraga (n’urwego rwo hejuru) yahawe na nyiri Ar’shi[236] y’icyubahiro (Allah).
+(Iyo ntumwa) ifite imbaraga (n’urwego rwo hejuru) yahawe na nyiri Ar’shi[^236] y’icyubahiro (Allah).
 
-[236] Reba uko twasobanuye iri jambo muri Surat ul A’araf, aya ya 54.
+[^236]: Reba uko twasobanuye iri jambo muri Surat ul A’araf, aya ya 54.
 
 # 5821
 
@@ -24116,9 +24136,9 @@ N’umunsi w’ubuhamya (umunsi wa Idjuma) ndetse n’umunsi w’ikoraniro (umun
 
 # 5913
 
-Abantu bacukuriye abemeramana imyobo (yo kubatwikiramo) baravumwe[237],
+Abantu bacukuriye abemeramana imyobo (yo kubatwikiramo) baravumwe[^237],
 
-[237] Muri uyu murongo wa Qur’an haravugwamo amateka y’umwami witwa Dhu Nuwasi w’ahitwa Najirani, wategekaga abantu guhakana Imana, maze abanze akabacukurira imyobo ayicanamo umuriro akajya abajugunyamo ari bazima.
+[^237]: Muri uyu murongo wa Qur’an haravugwamo amateka y’umwami witwa Dhu Nuwasi w’ahitwa Najirani, wategekaga abantu guhakana Imana, maze abanze akabacukurira imyobo ayicanamo umuriro akajya abajugunyamo ari bazima.
 
 # 5914
 
@@ -24162,9 +24182,9 @@ Kandi ni We Ubabarira ibyaha, Umukunzi (w’abemeramana),
 
 # 5924
 
-Nyiri Ar’shi[238], Nyirikuzo,
+Nyiri Ar’shi[^238], Nyirikuzo,
 
-[238] Reba uko twasobanuye iri jambo muri Surat ul A’araf, Aya ya 54.
+[^238]: Reba uko twasobanuye iri jambo muri Surat ul A’araf, Aya ya 54.
 
 # 5925
 
@@ -25336,9 +25356,9 @@ Uzasingize ikuzo rya Nyagasani wawe (aho uri hose), unamusabe imbabazi; kuko ari
 
 # 6217
 
-Amaboko yombi ya Abu Lahab[239] arakorama (kubera ko yayakoreshaga abangamira Intumwa y’Imana), ndetse na we ubwe azorame.
+Amaboko yombi ya Abu Lahab[^239] arakorama (kubera ko yayakoreshaga abangamira Intumwa y’Imana), ndetse na we ubwe azorame.
 
-[239] Abu Lahab yari se wabo w’Intumwa Muhamadi, akaba yari umwe mu banzi bakomeye b’idini rya Isilamu, barwanyije bakanatoteza Intumwa Muhamadi.
+[^239]: Abu Lahab yari se wabo w’Intumwa Muhamadi, akaba yari umwe mu banzi bakomeye b’idini rya Isilamu, barwanyije bakanatoteza Intumwa Muhamadi.
 
 # 6218
 

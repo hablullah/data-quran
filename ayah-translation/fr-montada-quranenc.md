@@ -10,9 +10,9 @@ CheckUpdates: https://quranenc.com/check/french_montada/v1.0.0-xml.1
 
 # 1
 
-Au nom d’Allah, le Tout Clément, le Tout Miséricordieux.[2]
+Au nom d’Allah, le Tout Clément, le Tout Miséricordieux.[^2]
 
-[2] La traduction par « Le Tout Miséricordieux, le Très Miséricordieux », du reste très heureuse quant à sa fidélité à la paronymie de l’expression d’origine : raḥmân, raḥîm, polyptote formé sur la racine commune « raḥama », ne bénéficie malheureusement pas de la même réussite sur le plan du rythme et de l’euphonie. La formule « Le Tout Clément, le Tout Miséricordieux », quoique moins fidèle à la dérivation littérale, nous a semblé plus naturelle et plus fluide. L’intensification deux fois par l’adverbe « Tout » plutôt que par « Très », traduit bien celle qui, propre à l’arabe, utilise le superlatif interne : « ân » dans « raḥmân », « îm » dans « raḥîm ». L’adverbe « Tout » est différent de « Très », superlatif externe qui se traduit ordinairement par جدّا ; tel n’est pas le cas de « Tout », aux valeurs sémantiques plus absolues et qui s’inscrit harmonieusement dans la nature absolue et « toute puissante » des Attributs divins.
+[^2]: La traduction par « Le Tout Miséricordieux, le Très Miséricordieux », du reste très heureuse quant à sa fidélité à la paronymie de l’expression d’origine : raḥmân, raḥîm, polyptote formé sur la racine commune « raḥama », ne bénéficie malheureusement pas de la même réussite sur le plan du rythme et de l’euphonie. La formule « Le Tout Clément, le Tout Miséricordieux », quoique moins fidèle à la dérivation littérale, nous a semblé plus naturelle et plus fluide. L’intensification deux fois par l’adverbe « Tout » plutôt que par « Très », traduit bien celle qui, propre à l’arabe, utilise le superlatif interne : « ân » dans « raḥmân », « îm » dans « raḥîm ». L’adverbe « Tout » est différent de « Très », superlatif externe qui se traduit ordinairement par جدّا ; tel n’est pas le cas de « Tout », aux valeurs sémantiques plus absolues et qui s’inscrit harmonieusement dans la nature absolue et « toute puissante » des Attributs divins.
 
 # 2
 
@@ -24,9 +24,9 @@ Le Tout Clément, le Tout Miséricordieux.
 
 # 4
 
-Souverain[3] du Jour de la Rétribution.
+Souverain[^3] du Jour de la Rétribution.
 
-[3] ملك se lit de deux façons : en allongeant la première syllabe, au sens littéral de « possesseur », ou en la raccourcissant, au sens de « roi ». La traduction par « souverain » inclut, nous semble-t-il, les deux sens. Notons que la lecture de Hafç, adoptée pour la présente traduction, opte pour la première prononciation.
+[^3]: ملك se lit de deux façons : en allongeant la première syllabe, au sens littéral de « possesseur », ou en la raccourcissant, au sens de « roi ». La traduction par « souverain » inclut, nous semble-t-il, les deux sens. Notons que la lecture de Hafç, adoptée pour la présente traduction, opte pour la première prononciation.
 
 # 5
 
@@ -38,15 +38,15 @@ Guide-nous sur la voie droite,
 
 # 7
 
-voie de ceux que Tu as comblés de Tes grâces, non celle des réprouvés,[4] ni celle des égarés.
+voie de ceux que Tu as comblés de Tes grâces, non celle des réprouvés,[^4] ni celle des égarés.
 
-[4] Par Ta colère. Nous avons préféré traduire غير المغضوب عليهم par le passif, plus fidèle à la structure du texte coranique, et en évitant de traduire par la proposition relative « ceux qui sont réprouvés », « ceux qui ont encouru Ta colère », qui sont des traductions de segments arabes introduits par الذين. Or, ce pronom relatif ne s’est produit que dans الذين أنعمت عليهم , que nous avons effectivement traduit par « ceux que Tu as comblés de Tes grâces ». Du reste, l’égalité et la symétrie des segments : « non celle des réprouvés, ni celle des égarés » évite au rythme le trébuchement dû à la structure déséquilibrée : « non de ceux qui sont réprouvés, ni des égarés », ou « non de ceux qui ont encouru Ta colère, ni des égarés ».
+[^4]: Par Ta colère. Nous avons préféré traduire غير المغضوب عليهم par le passif, plus fidèle à la structure du texte coranique, et en évitant de traduire par la proposition relative « ceux qui sont réprouvés », « ceux qui ont encouru Ta colère », qui sont des traductions de segments arabes introduits par الذين. Or, ce pronom relatif ne s’est produit que dans الذين أنعمت عليهم , que nous avons effectivement traduit par « ceux que Tu as comblés de Tes grâces ». Du reste, l’égalité et la symétrie des segments : « non celle des réprouvés, ni celle des égarés » évite au rythme le trébuchement dû à la structure déséquilibrée : « non de ceux qui sont réprouvés, ni des égarés », ou « non de ceux qui ont encouru Ta colère, ni des égarés ».
 
 # 8
 
-Alif, Lâm, Mîm.[5]
+Alif, Lâm, Mîm.[^5]
 
-[5] Ces lettres mystérieuses, pas toujours les mêmes, forment le premier verset dans nombre de sourates. Leur secret reste inviolé jusqu’à nos jours, malgré les diverses interprétations toutes les unes moins certaines que les autres. L’essentiel est d’en retenir le caractère indéchiffrable, qui confirme l’origine divine du Coran. Hâ-mîm, Alif-lâm-mîm, etc., fonctionnent comme des clés qui ouvrent les sourates mais dont les référents semblent excéder les limites de l’intelligence humaine.
+[^5]: Ces lettres mystérieuses, pas toujours les mêmes, forment le premier verset dans nombre de sourates. Leur secret reste inviolé jusqu’à nos jours, malgré les diverses interprétations toutes les unes moins certaines que les autres. L’essentiel est d’en retenir le caractère indéchiffrable, qui confirme l’origine divine du Coran. Hâ-mîm, Alif-lâm-mîm, etc., fonctionnent comme des clés qui ouvrent les sourates mais dont les référents semblent excéder les limites de l’intelligence humaine.
 
 # 9
 
@@ -54,10 +54,11 @@ Voici le Livre à propos duquel il n’y a nul doute, guide pour les gens pieux,
 
 # 10
 
-qui croient à l’Inconnaissable (ghayb),[6] accomplissent la Çalât[7] et dépensent des biens que Nous leur avons dispensés.
+qui croient à l’Inconnaissable (ghayb),[^6] accomplissent la Çalât[^7] et dépensent des biens que Nous leur avons dispensés.
 
-[6] Nous conserverons la transcription de la notion arabe lorsqu’elle n’est que partiellement traductible en français. Le mot ghayb signifie plus que l’invisible ou l’inconnaissable. Sa racine réfère aux connaissances « absentes » comme le confirme le trilitère غاب. Il s’agit de connaissances relatives à la fois au passé, au présent et à l’avenir. Ce sont les secrets et les mystères de l’univers, inaccessibles aux capacités intellectuelles ou prémonitoires de l’être humain, car cela est du ressort de la seule omniscience divine.
-[7] Nous conservons ce mot arabe qui, traduit souvent par prière, perd de son sens spécifique. La notion de « prière » est générique, qui recouvre plusieurs dénotations évoquant tantôt le recueillement, tantôt l’invocation aux sens ordinaires. Tandis que la Çalât désigne l’un des cinq piliers de l’Islam et qui consiste à accomplir le devoir sacré et rituel des cinq prières quotidiennes : à l’aube (al-fajr), vers midi (adh-dhohr), l’après-midi (al-açr), après le coucher du soleil (al-maghrib), le soir (al-ishâ’). Les gestes rituels répétés au cours de chaque Çalât sont rigoureusement déterminés selon ces cinq moments quotidiens et s’enchaînent suivant les stations suivantes : debout, buste incliné vers l’avant, génuflexion, prosternation, assis.
+[^6]: Nous conserverons la transcription de la notion arabe lorsqu’elle n’est que partiellement traductible en français. Le mot ghayb signifie plus que l’invisible ou l’inconnaissable. Sa racine réfère aux connaissances « absentes » comme le confirme le trilitère غاب. Il s’agit de connaissances relatives à la fois au passé, au présent et à l’avenir. Ce sont les secrets et les mystères de l’univers, inaccessibles aux capacités intellectuelles ou prémonitoires de l’être humain, car cela est du ressort de la seule omniscience divine.
+
+[^7]: Nous conservons ce mot arabe qui, traduit souvent par prière, perd de son sens spécifique. La notion de « prière » est générique, qui recouvre plusieurs dénotations évoquant tantôt le recueillement, tantôt l’invocation aux sens ordinaires. Tandis que la Çalât désigne l’un des cinq piliers de l’Islam et qui consiste à accomplir le devoir sacré et rituel des cinq prières quotidiennes : à l’aube (al-fajr), vers midi (adh-dhohr), l’après-midi (al-açr), après le coucher du soleil (al-maghrib), le soir (al-ishâ’). Les gestes rituels répétés au cours de chaque Çalât sont rigoureusement déterminés selon ces cinq moments quotidiens et s’enchaînent suivant les stations suivantes : debout, buste incliné vers l’avant, génuflexion, prosternation, assis.
 
 # 11
 
@@ -77,9 +78,9 @@ Allah a scellé leurs cœurs et leur ouïe, leur vue est obnubilée par un voile
 
 # 15
 
-Il est des gens qui disent : « Nous croyons en Allah et au Jour Dernier » et[8] qui ne sont point croyants.
+Il est des gens qui disent : « Nous croyons en Allah et au Jour Dernier » et[^8] qui ne sont point croyants.
 
-[8] Conformément au « waw » du texte coranique, nous avons employé la conjonction « et » avec sa valeur adversative, au sens de « mais » : وما هم بمؤمنين
+[^8]: Conformément au « waw » du texte coranique, nous avons employé la conjonction « et » avec sa valeur adversative, au sens de « mais » : وما هم بمؤمنين
 
 # 16
 
@@ -87,27 +88,27 @@ Ils cherchent à tromper Allah et ceux qui ont cru mais ils ne trompent qu’eux
 
 # 17
 
-Leurs cœurs sont minés par une maladie, alors Allah a ajouté à leur maladie[9] et ils auront un châtiment douloureux pour avoir menti.
+Leurs cœurs sont minés par une maladie, alors Allah a ajouté à leur maladie[^9] et ils auront un châtiment douloureux pour avoir menti.
 
-[9] La répétition du mot « maladie », qui qualifie le mal qui ronge les cœurs des hypocrites, est fidèle au redoublement lexical qui caractérise le verset.
+[^9]: La répétition du mot « maladie », qui qualifie le mal qui ronge les cœurs des hypocrites, est fidèle au redoublement lexical qui caractérise le verset.
 
 # 18
 
-Et s’il leur est dit : « Ne semez point la corruption sur terre », ils répondent[10] : « Nous sommes en vérité des réformateurs. »
+Et s’il leur est dit : « Ne semez point la corruption sur terre », ils répondent[^10] : « Nous sommes en vérité des réformateurs. »
 
-[10] Le verbe قال, dont la redondance est naturelle en arabe, a une valeur générique qui exprime, suivant chaque contexte, d’autres variétés spécifiques : « répondre », « répliquer », « préciser », « rétorquer », « ajouter », etc. La langue française doit tenir compte de cette variété en évitant, de temps en temps, cette répétition du même verbe « dire ». En effet, si cette reprise est parfaitement tolérée en arabe, elle peut devenir insoutenable en français.
+[^10]: Le verbe قال, dont la redondance est naturelle en arabe, a une valeur générique qui exprime, suivant chaque contexte, d’autres variétés spécifiques : « répondre », « répliquer », « préciser », « rétorquer », « ajouter », etc. La langue française doit tenir compte de cette variété en évitant, de temps en temps, cette répétition du même verbe « dire ». En effet, si cette reprise est parfaitement tolérée en arabe, elle peut devenir insoutenable en français.
 
 # 19
 
-Ce sont pourtant eux les corrupteurs mais ils ne le sentent pas.[11]
+Ce sont pourtant eux les corrupteurs mais ils ne le sentent pas.[^11]
 
-[11] L’expression arabe وما يشعرون et ولا يشعرون se traduit plus fidèlement parfois par « ils ne le sentent pas » que par « ils ne s’en rendent pas compte ». En outre, la terminaison de la formule répétée en refrain en queue des versets 12, 13 et 14 par l’adverbe « pas » sied mieux, semble-t-il, au rythme assonancé.
+[^11]: L’expression arabe وما يشعرون et ولا يشعرون se traduit plus fidèlement parfois par « ils ne le sentent pas » que par « ils ne s’en rendent pas compte ». En outre, la terminaison de la formule répétée en refrain en queue des versets 12, 13 et 14 par l’adverbe « pas » sied mieux, semble-t-il, au rythme assonancé.
 
 # 20
 
-Et quand il leur est dit : « Croyez donc comme ont cru les (autres) hommes », ils disent : « Allons-nous donc croire comme ont cru les ignares ? [12] » Ce sont bien eux les ignares mais ils ne le savent pas.
+Et quand il leur est dit : « Croyez donc comme ont cru les (autres) hommes », ils disent : « Allons-nous donc croire comme ont cru les ignares ? [^12] » Ce sont bien eux les ignares mais ils ne le savent pas.
 
-[12] Le dictionnaire arabe Lisân Al-Arab donne comme sens principal de سفيه : « ignorant ». Outre le sens fortement péjoratif de « ignare », qualificatif dont ont été indûment traités les Çahâba (Compagnons du Prophète), le choix de cette traduction favorise l’assonance (la rime) avec « croire ».
+[^12]: Le dictionnaire arabe Lisân Al-Arab donne comme sens principal de سفيه : « ignorant ». Outre le sens fortement péjoratif de « ignare », qualificatif dont ont été indûment traités les Çahâba (Compagnons du Prophète), le choix de cette traduction favorise l’assonance (la rime) avec « croire ».
 
 # 21
 
@@ -127,9 +128,9 @@ Leur cas est semblable à celui qui allume un feu (pour se diriger). Mais leur f
 
 # 25
 
-Sourds, muets, aveugles, ils ne reviendront pas.[13]
+Sourds, muets, aveugles, ils ne reviendront pas.[^13]
 
-[13] De leur erreur. Leur égarement est irréversible, arrivé comme il l’est au point de non-retour.
+[^13]: De leur erreur. Leur égarement est irréversible, arrivé comme il l’est au point de non-retour.
 
 # 26
 
@@ -149,9 +150,9 @@ C’est Lui Qui a fait de la terre une couche pour vous et du ciel un toit ; (et
 
 # 30
 
-Et si vous êtes dans le doute au sujet de ce que Nous avons fait descendre (en révélation) sur Notre Serviteur,[14] produisez donc une sourate du même genre et appelez vos témoins en dehors d’Allah, si vous êtes sincères.
+Et si vous êtes dans le doute au sujet de ce que Nous avons fait descendre (en révélation) sur Notre Serviteur,[^14] produisez donc une sourate du même genre et appelez vos témoins en dehors d’Allah, si vous êtes sincères.
 
-[14] Le Prophète Muhammad, (paix et bénédiction d’Allah sur lui).
+[^14]: Le Prophète Muhammad, (paix et bénédiction d’Allah sur lui).
 
 # 31
 
@@ -159,9 +160,9 @@ Et si vous ne le faites pas - et vous ne le ferez point - craignez le feu dont l
 
 # 32
 
-Et annonce donc (l’heureuse nouvelle)[15] à ceux qui croient et font œuvre de dévotion qu’ils auront des jardins sous lesquels coulent les rivières ; chaque fois qu’il leur en sera servi un fruit, ils diront : « C’est ce qui nous était servi auparavant. » Or ce qui leur était servi était seulement ressemblant ; ils auront là des épouses purifiées, et là ils seront immortels.
+Et annonce donc (l’heureuse nouvelle)[^15] à ceux qui croient et font œuvre de dévotion qu’ils auront des jardins sous lesquels coulent les rivières ; chaque fois qu’il leur en sera servi un fruit, ils diront : « C’est ce qui nous était servi auparavant. » Or ce qui leur était servi était seulement ressemblant ; ils auront là des épouses purifiées, et là ils seront immortels.
 
-[15] Le verbe بشّر est mélioratif alors que le verbe « annoncer », employé absolument, est neutre. Voilà pourquoi il a fallu ajouter l’expression « l’heureuse nouvelle » entre parenthèses. Encore qu’elle soit implicite d’après le contexte.
+[^15]: Le verbe بشّر est mélioratif alors que le verbe « annoncer », employé absolument, est neutre. Voilà pourquoi il a fallu ajouter l’expression « l’heureuse nouvelle » entre parenthèses. Encore qu’elle soit implicite d’après le contexte.
 
 # 33
 
@@ -173,21 +174,21 @@ qui violent le pacte d’Allah après l’avoir conclu, rompent les liens qu’A
 
 # 35
 
-Comment mécroyez-vous en Allah alors que vous étiez morts et qu’Il vous a donné la vie ? Puis Il vous fera mourir, puis vous fera revivre, puis à Lui vous serez ramenés.[16]
+Comment mécroyez-vous en Allah alors que vous étiez morts et qu’Il vous a donné la vie ? Puis Il vous fera mourir, puis vous fera revivre, puis à Lui vous serez ramenés.[^16]
 
-[16] Nous avons préféré l’emploi du passif, plus fidèle à l’expression coranique : إليه ترجعون.
+[^16]: Nous avons préféré l’emploi du passif, plus fidèle à l’expression coranique : إليه ترجعون.
 
 # 36
 
-C’est Lui Qui, pour vous, a créé Tout ce qui est sur terre, puis S’est orienté vers (la création) des cieux et en a composé sept.[17] Lui Qui Sait parfaitement Toute chose.
+C’est Lui Qui, pour vous, a créé Tout ce qui est sur terre, puis S’est orienté vers (la création) des cieux et en a composé sept.[^17] Lui Qui Sait parfaitement Toute chose.
 
-[17] Le verbe « composer » traduit bien la rigueur et la justesse de l’œuvre divine comme l’implique le verbe arabe سوّى. Du reste, il s’agit d’une rigueur et d’une justesse infinies, qui excèdent tout qualificatif, parce qu’elles sont attribuées à Allah, gloire Lui soit rendue.
+[^17]: Le verbe « composer » traduit bien la rigueur et la justesse de l’œuvre divine comme l’implique le verbe arabe سوّى. Du reste, il s’agit d’une rigueur et d’une justesse infinies, qui excèdent tout qualificatif, parce qu’elles sont attribuées à Allah, gloire Lui soit rendue.
 
 # 37
 
-Lorsque ton Seigneur dit aux Anges : « Je vais installer sur terre une succession[18]», ils dirent : « Y installeras-Tu qui y sèmera le désordre et y répandra le sang, alors que nous autres sommes là à Te rendre gloire et à Te sanctifier ? » Il dit : « Je sais ce que vous ne savez pas. »
+Lorsque ton Seigneur dit aux Anges : « Je vais installer sur terre une succession[^18]», ils dirent : « Y installeras-Tu qui y sèmera le désordre et y répandra le sang, alors que nous autres sommes là à Te rendre gloire et à Te sanctifier ? » Il dit : « Je sais ce que vous ne savez pas. »
 
-[18] Le mot خليفة est, dans ce contexte, plutôt un collectif : il ne désigne pas un seul successeur ou remplaçant mais Adam et sa filiation, qui vont s’installer sur terre pour la peupler et y répandre la foi.
+[^18]: Le mot خليفة est, dans ce contexte, plutôt un collectif : il ne désigne pas un seul successeur ou remplaçant mais Adam et sa filiation, qui vont s’installer sur terre pour la peupler et y répandre la foi.
 
 # 38
 
@@ -199,21 +200,21 @@ Ils dirent : « Gloire Te soit rendue ! Nous ne savons que ce que Tu nous as ens
 
 # 40
 
-Il dit : « Ô Adam ! Informe-les de leurs noms.[19] » Alors, une fois qu’il (Adam) les eut informés de leurs noms, Il (Allah) dit : « Ne vous ai-Je pas dit que Je Connais les mystères invisibles des cieux et de la terre et que Je Sais ce que vous révélez et ce que vous gardez secret ? »
+Il dit : « Ô Adam ! Informe-les de leurs noms.[^19] » Alors, une fois qu’il (Adam) les eut informés de leurs noms, Il (Allah) dit : « Ne vous ai-Je pas dit que Je Connais les mystères invisibles des cieux et de la terre et que Je Sais ce que vous révélez et ce que vous gardez secret ? »
 
-[19] Les noms de ces choses.
+[^19]: Les noms de ces choses.
 
 # 41
 
-Et lorsque Nous ordonnâmes aux Anges : « Prosternez-vous devant Adam ! », tous se prosternèrent excepté Iblîs [20] qui refusa, s’enfla d’orgueil et fut du nombre des mécréants.
+Et lorsque Nous ordonnâmes aux Anges : « Prosternez-vous devant Adam ! », tous se prosternèrent excepté Iblîs [^20] qui refusa, s’enfla d’orgueil et fut du nombre des mécréants.
 
-[20] Satan.
+[^20]: Satan.
 
 # 42
 
-Et Nous dîmes : « Ô Adam ! Demeurez au Paradis,[21] toi et ton épouse, mangez de tout ce qui s’y trouve autant qu’il vous plaira et partout où vous voudrez, mais n’approchez point de cet arbre, ou alors vous seriez du nombre des injustes. »
+Et Nous dîmes : « Ô Adam ! Demeurez au Paradis,[^21] toi et ton épouse, mangez de tout ce qui s’y trouve autant qu’il vous plaira et partout où vous voudrez, mais n’approchez point de cet arbre, ou alors vous seriez du nombre des injustes. »
 
-[21] Le verbe « demeurer » est employé ici au sens de « séjourner », « habiter ».
+[^21]: Le verbe « demeurer » est employé ici au sens de « séjourner », « habiter ».
 
 # 43
 
@@ -221,22 +222,23 @@ Mais Satan les fit glisser et sortir de là où ils étaient. Et Nous dîmes : �
 
 # 44
 
-Adam reçut alors de son Seigneur des paroles et (Allah) accepta son repentir. C’est Lui le Tout Absoluteur,[22] le Tout Miséricordieux.
+Adam reçut alors de son Seigneur des paroles et (Allah) accepta son repentir. C’est Lui le Tout Absoluteur,[^22] le Tout Miséricordieux.
 
-[22] On ne saurait traduire le mot « At-Tawwâb » التوّاب par « le Repentant » sous le prétexte de la fidélité au radical arabe. Le mot « repentant » n’a de sens que s’il est intransitif : l’homme peut être repentant, contrit, qui exprime le remords d’avoir péché. Allah, Lui, accepte le repentir mais ne peut être qualifié de « repentant ». Nous avons donc, faute de mieux, traduit par « Absoluteur » et, pour mieux rendre le superlatif de « At-Tawwâb », nous avons ajouté l’adverbe d’absoluité divine « Tout », employé d’ailleurs avec « Clément » et « Miséricordieux » (voir la note 2).
+[^22]: On ne saurait traduire le mot « At-Tawwâb » التوّاب par « le Repentant » sous le prétexte de la fidélité au radical arabe. Le mot « repentant » n’a de sens que s’il est intransitif : l’homme peut être repentant, contrit, qui exprime le remords d’avoir péché. Allah, Lui, accepte le repentir mais ne peut être qualifié de « repentant ». Nous avons donc, faute de mieux, traduit par « Absoluteur » et, pour mieux rendre le superlatif de « At-Tawwâb », nous avons ajouté l’adverbe d’absoluité divine « Tout », employé d’ailleurs avec « Clément » et « Miséricordieux » (voir la note 2).
 
 # 45
 
-Nous dîmes : « Descendez-en vous tous ! Et quand vous viendra de Moi un signe pour vous guider (hudâ),[23] pour ceux qui le suivront il n’y aura nulle crainte et ils n’auront aucune affliction.[24]
+Nous dîmes : « Descendez-en vous tous ! Et quand vous viendra de Moi un signe pour vous guider (hudâ),[^23] pour ceux qui le suivront il n’y aura nulle crainte et ils n’auront aucune affliction.[^24]
 
-[23] La notion de al-hudâ dénote plus que la bonne voie ou la bonne orientation. Allah oriente qui Il veut vers le chemin de la droiture. Al-hudâ et ses dérivés supposent une orientation inspirée par Allah vers le bien et vers la foi.
-[24] Cette formule coranique, répétée en divers endroits, لا خوف عليهم ولاهم يحزنون sera toujours traduite de la même façon. Le lecteur trouvera bizarre la rupture syntaxique dans notre traduction : « ceux qui la suivront, il n’y aura... » Nous utilisons en fait une figure de syntaxe appelée en rhétorique : « anacoluthe », figure qui veut être proche de l’expressivité de la formule coranique en question.
+[^23]: La notion de al-hudâ dénote plus que la bonne voie ou la bonne orientation. Allah oriente qui Il veut vers le chemin de la droiture. Al-hudâ et ses dérivés supposent une orientation inspirée par Allah vers le bien et vers la foi.
+
+[^24]: Cette formule coranique, répétée en divers endroits, لا خوف عليهم ولاهم يحزنون sera toujours traduite de la même façon. Le lecteur trouvera bizarre la rupture syntaxique dans notre traduction : « ceux qui la suivront, il n’y aura... » Nous utilisons en fait une figure de syntaxe appelée en rhétorique : « anacoluthe », figure qui veut être proche de l’expressivité de la formule coranique en question.
 
 # 46
 
-Ceux qui ont mécru et ont traité Nos Signes[25] de mensonges, ceux-là sont les hôtes du Feu, où ils demeureront pour l’éternité.
+Ceux qui ont mécru et ont traité Nos Signes[^25] de mensonges, ceux-là sont les hôtes du Feu, où ils demeureront pour l’éternité.
 
-[25] Le mot « Signe » traduit ici une autre notion particulière à certains vocables coraniques qu’il vaut mieux transcrire tels quels car, en migrant vers les autres langues, ils perdent beaucoup de leurs connotations spécifiques. Il s’agit de la notion âya آية au sens de « signe divin », « merveille divine », « miracle divin », etc. qui prouve à l’évidence qu’Il est le Créateur de Toutes choses.
+[^25]: Le mot « Signe » traduit ici une autre notion particulière à certains vocables coraniques qu’il vaut mieux transcrire tels quels car, en migrant vers les autres langues, ils perdent beaucoup de leurs connotations spécifiques. Il s’agit de la notion âya آية au sens de « signe divin », « merveille divine », « miracle divin », etc. qui prouve à l’évidence qu’Il est le Créateur de Toutes choses.
 
 # 47
 
@@ -252,9 +254,9 @@ Ne confondez pas la vérité et le mensonge, ne taisez pas la vérité quand vou
 
 # 50
 
-Observez la Çalât, acquittez-vous[26] de la Zakât et inclinez-vous avec ceux qui s’inclinent.
+Observez la Çalât, acquittez-vous[^26] de la Zakât et inclinez-vous avec ceux qui s’inclinent.
 
-[26] Le verbe pronominal « s’acquitter » est plus fort que le verbe non pronominal correspondant « acquitter ». Le premier dénote davantage le sens de la « dette » et donc de l’accomplissement du devoir. De plus, le segment « acquittez-vous » (répétition de « vous ») sied mieux au rythme assonancé, proche ici du redoublement lexical propre au style coranique.
+[^26]: Le verbe pronominal « s’acquitter » est plus fort que le verbe non pronominal correspondant « acquitter ». Le premier dénote davantage le sens de la « dette » et donc de l’accomplissement du devoir. De plus, le segment « acquittez-vous » (répétition de « vous ») sied mieux au rythme assonancé, proche ici du redoublement lexical propre au style coranique.
 
 # 51
 
@@ -278,9 +280,9 @@ Et craignez le jour où aucune âme ne rachètera de rien une autre âme, où il
 
 # 56
 
-Et (souvenez-vous)[27] lorsque Nous vous avons sauvés des gens de Pharaon, lesquels vous faisaient subir le pire des supplices, égorgeaient vos fils et laissaient vos femmes en vie. C’était là une bien terrible épreuve de la part de votre Seigneur.
+Et (souvenez-vous)[^27] lorsque Nous vous avons sauvés des gens de Pharaon, lesquels vous faisaient subir le pire des supplices, égorgeaient vos fils et laissaient vos femmes en vie. C’était là une bien terrible épreuve de la part de votre Seigneur.
 
-[27] Ce segment sous entendu sera mis en facteur. Il ne sera repris entre parenthèses que de temps à autre.
+[^27]: Ce segment sous entendu sera mis en facteur. Il ne sera repris entre parenthèses que de temps à autre.
 
 # 57
 
@@ -324,9 +326,9 @@ Ceux qui ont été injustes ont alors substitué d’autres paroles à celles qu
 
 # 67
 
-Et (souvenez-vous aussi) lorsque Moïse eut demandé de l’eau pour son peuple ; Nous dîmes[28] : «Frappe le rocher avec ton bâton ! » Alors, douze sources en jaillirent et chaque tribu sut ainsi où elle devait boire. Mangez et buvez de ces dons d’Allah et ne semez pas le désordre sur terre.
+Et (souvenez-vous aussi) lorsque Moïse eut demandé de l’eau pour son peuple ; Nous dîmes[^28] : «Frappe le rocher avec ton bâton ! » Alors, douze sources en jaillirent et chaque tribu sut ainsi où elle devait boire. Mangez et buvez de ces dons d’Allah et ne semez pas le désordre sur terre.
 
-[28] Le lecteur aura remarqué que nous employons tantôt le passé simple et tantôt le passé composé. C’est que, conformément aux valeurs actuelles du passé composé, ce dernier se substitue de plus en plus normalement au passé simple aussi bien à l’écrit qu’à l’oral. Son emploi pouvant avoir les mêmes valeurs dans le récit que le passé simple, le lecteur moderne le trouvera plus naturel. Le passé simple ne sera point éliminé. Il sera utilisé par intermittence avec certains verbes et certaines personnes et dans des contextes narratifs où il s’emploie en corrélation avec sa forme composée : le passé antérieur, exprimant l’accompli et l’antériorité.
+[^28]: Le lecteur aura remarqué que nous employons tantôt le passé simple et tantôt le passé composé. C’est que, conformément aux valeurs actuelles du passé composé, ce dernier se substitue de plus en plus normalement au passé simple aussi bien à l’écrit qu’à l’oral. Son emploi pouvant avoir les mêmes valeurs dans le récit que le passé simple, le lecteur moderne le trouvera plus naturel. Le passé simple ne sera point éliminé. Il sera utilisé par intermittence avec certains verbes et certaines personnes et dans des contextes narratifs où il s’emploie en corrélation avec sa forme composée : le passé antérieur, exprimant l’accompli et l’antériorité.
 
 # 68
 
@@ -334,9 +336,9 @@ Et lorsque vous dîtes : « Ô Moïse ! Nous ne pouvons plus supporter de manger
 
 # 69
 
-Ceux qui ont cru, ceux qui se sont judaïsés, les Nazaréens (les Chrétiens), les Sabéens,[29] quiconque a cru en Allah et au Jour Dernier et a accompli les bonnes œuvres, ceux-là auront leur récompense auprès de leur Seigneur ; il n’y aura aucune crainte pour eux et ils n’auront aucune affliction.
+Ceux qui ont cru, ceux qui se sont judaïsés, les Nazaréens (les Chrétiens), les Sabéens,[^29] quiconque a cru en Allah et au Jour Dernier et a accompli les bonnes œuvres, ceux-là auront leur récompense auprès de leur Seigneur ; il n’y aura aucune crainte pour eux et ils n’auront aucune affliction.
 
-[29] Tout comme les Juifs et les Chrétiens, les Sabéens, avant le message de Muhammad (paix et bénédiction d’Allah sur lui), étaient engagés sur la bonne voie du monothéisme. Ce n’est que lorsqu’ils eurent dévié de la religion du Prophète Idrîs (paix sur lui) que le mot « Sabéens » صابئين prit le sens péjoratif d’apostats : ceux qui apostasient et abjurent leur religion, c’est-à-dire la renient après l’avoir adoptée.
+[^29]: Tout comme les Juifs et les Chrétiens, les Sabéens, avant le message de Muhammad (paix et bénédiction d’Allah sur lui), étaient engagés sur la bonne voie du monothéisme. Ce n’est que lorsqu’ils eurent dévié de la religion du Prophète Idrîs (paix sur lui) que le mot « Sabéens » صابئين prit le sens péjoratif d’apostats : ceux qui apostasient et abjurent leur religion, c’est-à-dire la renient après l’avoir adoptée.
 
 # 70
 
@@ -344,9 +346,9 @@ Et (souvenez-vous) lorsque Nous conclûmes un pacte avec vous et dressâmes sur 
 
 # 71
 
-Puis, après cela,[30] vous vous êtes rétractés et, n’eussent été la grâce d’Allah et Sa miséricorde, vous eussiez été du nombre des perdants.
+Puis, après cela,[^30] vous vous êtes rétractés et, n’eussent été la grâce d’Allah et Sa miséricorde, vous eussiez été du nombre des perdants.
 
-[30] Après vous être engagés.
+[^30]: Après vous être engagés.
 
 # 72
 
@@ -414,9 +416,9 @@ Et ils dirent : « Le Feu ne nous touchera que pendant un nombre limité de jour
 
 # 88
 
-Oh que non ! Celui qui a commis des péchés et qui s’est fait cerner par ses propres fautes, ceux-là sont les hôtes du Feu où ils séjourneront[31] à jamais.
+Oh que non ! Celui qui a commis des péchés et qui s’est fait cerner par ses propres fautes, ceux-là sont les hôtes du Feu où ils séjourneront[^31] à jamais.
 
-[31] Le verbe « séjourner » a en principe un sémantisme provisoire. Si nous le préférons à « demeurer », utilisé dans beaucoup d’autres traductions, et à « résider » qui est d’un emploi administratif, c’est pour mieux exprimer cet aspect paradoxal d’un « séjour » mais « éternel », le temps dans l’au-delà étant infini. Notons aussi le passage du singulier au pluriel : « celui/ceux », assez fréquent dans le texte coranique.
+[^31]: Le verbe « séjourner » a en principe un sémantisme provisoire. Si nous le préférons à « demeurer », utilisé dans beaucoup d’autres traductions, et à « résider » qui est d’un emploi administratif, c’est pour mieux exprimer cet aspect paradoxal d’un « séjour » mais « éternel », le temps dans l’au-delà étant infini. Notons aussi le passage du singulier au pluriel : « celui/ceux », assez fréquent dans le texte coranique.
 
 # 89
 
@@ -444,10 +446,11 @@ Nous avons donné à Moïse le Livre et Nous avons fait se succéder après lui 
 
 # 95
 
-Ils dirent : « Nos cœurs sont hermétiquement fermés. »[32] Non ! Allah les a plutôt maudits pour leur mécréance car ils sont de peu de foi. »[33]
+Ils dirent : « Nos cœurs sont hermétiquement fermés. »[^32] Non ! Allah les a plutôt maudits pour leur mécréance car ils sont de peu de foi. »[^33]
 
-[32] Littéralement : enveloppés. Cela signifie : qui refusent de s’ouvrir à ton Message.
-[33] L’expression française « de peu de foi » est consacrée. Elle peut impliquer à la fois la rareté des croyants et la faiblesse de leur foi.
+[^32]: Littéralement : enveloppés. Cela signifie : qui refusent de s’ouvrir à ton Message.
+
+[^33]: L’expression française « de peu de foi » est consacrée. Elle peut impliquer à la fois la rareté des croyants et la faiblesse de leur foi.
 
 # 96
 
@@ -459,9 +462,9 @@ Combien vil est ce prix contre lequel ils ont vendu leurs âmes en ne croyant pa
 
 # 98
 
-Et quand il leur est dit : « Croyez en ce qu’Allah a fait descendre (en révélation) », ils disent : « Nous croyons à ce qui nous a été révélé. » Ils renient donc ce qui est (venu) après[34] et qui est la vérité même confirmant ce qu’ils avaient déjà. Dis : « Pourquoi mettiez-vous donc à mort les Prophètes d’Allah si vous étiez croyants ? »
+Et quand il leur est dit : « Croyez en ce qu’Allah a fait descendre (en révélation) », ils disent : « Nous croyons à ce qui nous a été révélé. » Ils renient donc ce qui est (venu) après[^34] et qui est la vérité même confirmant ce qu’ils avaient déjà. Dis : « Pourquoi mettiez-vous donc à mort les Prophètes d’Allah si vous étiez croyants ? »
 
-[34] Le Coran.
+[^34]: Le Coran.
 
 # 99
 
@@ -473,9 +476,9 @@ Et (souvenez-vous) lorsque Nous avons pris sur vous un engagement et dressâmes 
 
 # 101
 
-Dis : « Si l’Ultime demeure auprès d’Allah vous est réservée, à l’exclusion des autres hommes, souhaitez donc la mort, si vous êtes vraiment de bonne foi ! »[35]
+Dis : « Si l’Ultime demeure auprès d’Allah vous est réservée, à l’exclusion des autres hommes, souhaitez donc la mort, si vous êtes vraiment de bonne foi ! »[^35]
 
-[35] L’adjectif arabe صادقين est ici traduit par « être de bonne foi ». Autre part il est traduit par « véridiques, sincères ou qui dit vrai ». C’est que nous respectons les nuances qu’il contracte suivant le contexte. Ici, c’est la « sincérité » (la bonne foi) des mécréants qui est mise en cause. De plus, le mot « foi », répété avec des sens différents à la fin des versets 88, 93 et 94, convient bien au rythme assonancé du texte coranique.
+[^35]: L’adjectif arabe صادقين est ici traduit par « être de bonne foi ». Autre part il est traduit par « véridiques, sincères ou qui dit vrai ». C’est que nous respectons les nuances qu’il contracte suivant le contexte. Ici, c’est la « sincérité » (la bonne foi) des mécréants qui est mise en cause. De plus, le mot « foi », répété avec des sens différents à la fin des versets 88, 93 et 94, convient bien au rythme assonancé du texte coranique.
 
 # 102
 
@@ -483,15 +486,15 @@ Ils ne la souhaiteront jamais, étant donné ce que leurs mains ont déjà commi
 
 # 103
 
-Tu trouveras qu’ils tiennent à la vie plus que les autres hommes et plus que les associâtres.[36] Chacun d’eux voudrait vivre mille ans. Mais qu’il bénéficie d’une telle longévité ne lui fera point éviter le supplice... Et Allah Voit Tout ce qu’ils font.
+Tu trouveras qu’ils tiennent à la vie plus que les autres hommes et plus que les associâtres.[^36] Chacun d’eux voudrait vivre mille ans. Mais qu’il bénéficie d’une telle longévité ne lui fera point éviter le supplice... Et Allah Voit Tout ce qu’ils font.
 
-[36] Dérivé du mot « associâtrie », forgé à partir du verbe « associer ». À défaut d’autre mot, ce néologisme traduit approximativement le concept de « Al-Chirk » الشرك. Il désigne les païens et les polythéistes. Le mot est utilisé par le Dr. Saleh El-Enizi dans sa traduction des Leçons du Noble Coran et de la Sunna Purifiée du Cheikh et Dr. Saleh Al-Fawzan, Centre de traduction, Université du Roi Saoud, 2010, p.5. Pour éviter le mot « association » qui est ambigu, le Dr Saleh El-Enizi forge « associâtrie », néologisme assez heureux qu’il écrit pourtant sans accent circonflexe. Nous pensons, cependant, qu’il aurait dû aller jusqu’au bout et éviter « associateur ». Voilà pourquoi, nous forgeons à notre tour l’adjectif « associâtre » sur le modèle de « idolâtre ».
+[^36]: Dérivé du mot « associâtrie », forgé à partir du verbe « associer ». À défaut d’autre mot, ce néologisme traduit approximativement le concept de « Al-Chirk » الشرك. Il désigne les païens et les polythéistes. Le mot est utilisé par le Dr. Saleh El-Enizi dans sa traduction des Leçons du Noble Coran et de la Sunna Purifiée du Cheikh et Dr. Saleh Al-Fawzan, Centre de traduction, Université du Roi Saoud, 2010, p.5. Pour éviter le mot « association » qui est ambigu, le Dr Saleh El-Enizi forge « associâtrie », néologisme assez heureux qu’il écrit pourtant sans accent circonflexe. Nous pensons, cependant, qu’il aurait dû aller jusqu’au bout et éviter « associateur ». Voilà pourquoi, nous forgeons à notre tour l’adjectif « associâtre » sur le modèle de « idolâtre ».
 
 # 104
 
-Dis : « Tout ennemi de Gabriel (doit savoir que) c’est lui qui l’a fait descendre[37] (en révélation) sur ton cœur par la permission d’Allah pour confirmer (les Écritures) précédentes, servir de juste guide et annoncer l’heureuse nouvelle aux croyants. »
+Dis : « Tout ennemi de Gabriel (doit savoir que) c’est lui qui l’a fait descendre[^37] (en révélation) sur ton cœur par la permission d’Allah pour confirmer (les Écritures) précédentes, servir de juste guide et annoncer l’heureuse nouvelle aux croyants. »
 
-[37] Le Livre (le Coran).
+[^37]: Le Livre (le Coran).
 
 # 105
 
@@ -511,9 +514,9 @@ Et quand, de la part d’Allah, leur fut venu un Messager confirmant ce qu’ils
 
 # 109
 
-Ils suivirent plutôt ce que racontaient[38] les démons sur le règne de Salomon (Souleymân). Salomon, pourtant, n’a jamais mécru et ce sont bien les démons qui ont mécru, eux qui enseignent aux hommes la sorcellerie et ce qui fut révélé aux deux Anges Hârout et Mârout, à Babel. Mais ceux-là n’enseignaient rien à quelqu’un avant de (lui) dire : « Nous sommes bien une tentation, alors ne mécrois pas ! » D’eux ils ont appris ce qui sépare l’homme et son épouse. Mais ils ne sauraient nuire à personne sauf par la permission d’Allah. Ils apprennent ce qui leur nuit et ne leur profite point ; et ils savent que celui qui bénéficie (de ce pouvoir) n’aura pas sa part dans l’au-delà. Si seulement ils savaient à quel mauvais prix ils avaient vendu leurs âmes !
+Ils suivirent plutôt ce que racontaient[^38] les démons sur le règne de Salomon (Souleymân). Salomon, pourtant, n’a jamais mécru et ce sont bien les démons qui ont mécru, eux qui enseignent aux hommes la sorcellerie et ce qui fut révélé aux deux Anges Hârout et Mârout, à Babel. Mais ceux-là n’enseignaient rien à quelqu’un avant de (lui) dire : « Nous sommes bien une tentation, alors ne mécrois pas ! » D’eux ils ont appris ce qui sépare l’homme et son épouse. Mais ils ne sauraient nuire à personne sauf par la permission d’Allah. Ils apprennent ce qui leur nuit et ne leur profite point ; et ils savent que celui qui bénéficie (de ce pouvoir) n’aura pas sa part dans l’au-delà. Si seulement ils savaient à quel mauvais prix ils avaient vendu leurs âmes !
 
-[38] Le verbe « raconter » implique ici la médisance et l’invention. Il fait penser aux « racontars ». C’est pourquoi nous l’avons employé avec la locution prépositive « sur le compte de ».
+[^38]: Le verbe « raconter » implique ici la médisance et l’invention. Il fait penser aux « racontars ». C’est pourquoi nous l’avons employé avec la locution prépositive « sur le compte de ».
 
 # 110
 
@@ -521,9 +524,9 @@ Et s’ils avaient la foi et avaient la piété, une récompense d’Allah serai
 
 # 111
 
-Ô vous qui avez cru ! Ne dites point « Ra’ina »[39] mais dites plutôt « Ondhourna », et écoutez ! Aux mécréants (est promis) un terrible supplice !
+Ô vous qui avez cru ! Ne dites point « Ra’ina »[^39] mais dites plutôt « Ondhourna », et écoutez ! Aux mécréants (est promis) un terrible supplice !
 
-[39] En effet, les Juifs utilisaient ce vocable pour son ambiguïté. Les croyants l’employaient au sens de : « Prends soin de nous, tiens compte de nos conditions ». Mais les Juifs le détournaient vers un autre sens, péjoratif celui-là ; qui renvoie à la « bêtise et à la stupidité ». Allah a donc ordonné aux croyants d’éviter ce mot pour couper court au comportement des Juifs.
+[^39]: En effet, les Juifs utilisaient ce vocable pour son ambiguïté. Les croyants l’employaient au sens de : « Prends soin de nous, tiens compte de nos conditions ». Mais les Juifs le détournaient vers un autre sens, péjoratif celui-là ; qui renvoie à la « bêtise et à la stupidité ». Allah a donc ordonné aux croyants d’éviter ce mot pour couper court au comportement des Juifs.
 
 # 112
 
@@ -575,9 +578,9 @@ Et ils disent : « Allah s’est donné un fils ! » Gloire Lui soit rendue ! Or
 
 # 124
 
-Créateur Originel[40] des cieux et de la terre, Qui lorsqu’Il décrète une chose dit simplement « Sois » et cette chose est.
+Créateur Originel[^40] des cieux et de la terre, Qui lorsqu’Il décrète une chose dit simplement « Sois » et cette chose est.
 
-[40] Nous avons ajouté au mot « Créateur » le qualificatif « Originel » pour mieux exprimer le sens du mot arabe بديع. En effet, ce mot signifie à la fois le pouvoir de « créer » et la qualité première, toujours unique et sans cesse innovée de la « création ».
+[^40]: Nous avons ajouté au mot « Créateur » le qualificatif « Originel » pour mieux exprimer le sens du mot arabe بديع. En effet, ce mot signifie à la fois le pouvoir de « créer » et la qualité première, toujours unique et sans cesse innovée de la « création ».
 
 # 125
 
@@ -621,9 +624,9 @@ Et quand Abraham et Ismaël eurent élevé les fondations de la Maison (la Kaâb
 
 # 135
 
-Seigneur ! Fais que nous Te soyons Soumis[41] et que notre descendance Te soit une nation soumise. Et montre-nous nos rites et veuille accepter de nous le repentir car c’est Toi le Tout Absoluteur, le Tout Miséricordieux !
+Seigneur ! Fais que nous Te soyons Soumis[^41] et que notre descendance Te soit une nation soumise. Et montre-nous nos rites et veuille accepter de nous le repentir car c’est Toi le Tout Absoluteur, le Tout Miséricordieux !
 
-[41] C’est le sens premier du mot « Musulmans ». Le mot existe tel quel dans le texte coranique : مسلمين mais une traduction par « Musulmans » serait ici un anachronisme, le verset renvoyant à Abraham, donc à une époque bien antérieure à l’Islam.
+[^41]: C’est le sens premier du mot « Musulmans ». Le mot existe tel quel dans le texte coranique : مسلمين mais une traduction par « Musulmans » serait ici un anachronisme, le verset renvoyant à Abraham, donc à une époque bien antérieure à l’Islam.
 
 # 136
 
@@ -643,9 +646,9 @@ Ce fut là ce que recommanda Abraham à ses fils ainsi que Jacob : « Ô mes fil
 
 # 140
 
-Étiez-vous donc témoins quand Jacob, à l’article de la mort, eut dit à ses fils : « Qu’adorerez-vous après moi ? »[42] Ils répondirent : « Nous adorerons ton Dieu et le Dieu de tes pères, Abraham, Ismaël et Isaac, un Dieu Unique Auquel nous sommes (infiniment) Soumis. »
+Étiez-vous donc témoins quand Jacob, à l’article de la mort, eut dit à ses fils : « Qu’adorerez-vous après moi ? »[^42] Ils répondirent : « Nous adorerons ton Dieu et le Dieu de tes pères, Abraham, Ismaël et Isaac, un Dieu Unique Auquel nous sommes (infiniment) Soumis. »
 
-[42] Après ma mort.
+[^42]: Après ma mort.
 
 # 141
 
@@ -657,9 +660,9 @@ Ils dirent : « Soyez Juifs ou Chrétiens et vous serez alors sur la bonne voie.
 
 # 143
 
-Dites : « Nous avons cru en Allah et en ce qui nous fut révélé et révélé à Abraham, Ismaël, Isaac, Jacob et les Tribus[43] ; en ce qui fut donné à Moïse et à Jésus, et ce qui fut donné aux Prophètes de la part de leur Seigneur. Nous ne faisons entre eux aucune distinction. Et à Lui nous sommes Soumis. »
+Dites : « Nous avons cru en Allah et en ce qui nous fut révélé et révélé à Abraham, Ismaël, Isaac, Jacob et les Tribus[^43] ; en ce qui fut donné à Moïse et à Jésus, et ce qui fut donné aux Prophètes de la part de leur Seigneur. Nous ne faisons entre eux aucune distinction. Et à Lui nous sommes Soumis. »
 
-[43] Les tribus des douze fils de Jacob.
+[^43]: Les tribus des douze fils de Jacob.
 
 # 144
 
@@ -687,15 +690,15 @@ Les ignares parmi les gens diront : « Qu’est ce donc qui les a détournés de
 
 # 150
 
-Nous avons aussi fait de vous une communauté du juste milieu pour que vous soyez témoins vis-à-vis des hommes et que le Messager soit témoin vis-à-vis de vous. Nous n’avons établi la direction rituelle vers laquelle tu t’orientais[44] que pour savoir qui suivrait le Messager et qui lui tournerait les talons. Or quelque lourd que fût (ce transfert), il ne le sera point pour ceux qu’Allah a guidés. Et Allah n’aurait pas laissé perdre le prix de votre foi, car Allah est pour les hommes Tout Compatissant et Tout Miséricordieux.
+Nous avons aussi fait de vous une communauté du juste milieu pour que vous soyez témoins vis-à-vis des hommes et que le Messager soit témoin vis-à-vis de vous. Nous n’avons établi la direction rituelle vers laquelle tu t’orientais[^44] que pour savoir qui suivrait le Messager et qui lui tournerait les talons. Or quelque lourd que fût (ce transfert), il ne le sera point pour ceux qu’Allah a guidés. Et Allah n’aurait pas laissé perdre le prix de votre foi, car Allah est pour les hommes Tout Compatissant et Tout Miséricordieux.
 
-[44] Jérusalem avant la Kaâba.
+[^44]: Jérusalem avant la Kaâba.
 
 # 151
 
-Nous te voyons tourner la face vers le ciel le scrutant de tous côtés. Nous t’orientons alors vers une direction (Qibla) qui te satisfait. Tourne donc ton visage vers la Mosquée Sacrée. Où que vous soyez, vous tournerez (tous)[45] vers elle vos visages. Ceux à qui fut donné le Livre savent certainement que c’est la vérité venue de leur Seigneur. Et Allah n’est point distrait de ce qu’ils font.
+Nous te voyons tourner la face vers le ciel le scrutant de tous côtés. Nous t’orientons alors vers une direction (Qibla) qui te satisfait. Tourne donc ton visage vers la Mosquée Sacrée. Où que vous soyez, vous tournerez (tous)[^45] vers elle vos visages. Ceux à qui fut donné le Livre savent certainement que c’est la vérité venue de leur Seigneur. Et Allah n’est point distrait de ce qu’ils font.
 
-[45] Le passage de « tu » à « vous » montre qu’Allah s’adresse d’abord au Prophète, puis aux croyants.
+[^45]: Le passage de « tu » à « vous » montre qu’Allah s’adresse d’abord au Prophète, puis aux croyants.
 
 # 152
 
@@ -703,9 +706,9 @@ Quand bien même tu apporterais toutes les preuves à ceux qui ont reçu le Livr
 
 # 153
 
-Ceux à qui Nous avons donné le Livre le[46] connaissent comme ils connaissent leurs propres enfants. Nombre d’entre eux, pourtant, taisent la vérité tout en la sachant.
+Ceux à qui Nous avons donné le Livre le[^46] connaissent comme ils connaissent leurs propres enfants. Nombre d’entre eux, pourtant, taisent la vérité tout en la sachant.
 
-[46] Connaissent le Prophète Muhammad (paix et bénédiction d’Allah sur lui).
+[^46]: Connaissent le Prophète Muhammad (paix et bénédiction d’Allah sur lui).
 
 # 154
 
@@ -729,9 +732,9 @@ Nous avons ainsi envoyé vers vous un Messager des vôtres qui vous récite Nos 
 
 # 159
 
-Évoquez-Moi donc, Je vous évoquerai ![47] Rendez-Moi grâce et ne reniez pas (Mes faveurs sur vous) !
+Évoquez-Moi donc, Je vous évoquerai ![^47] Rendez-Moi grâce et ne reniez pas (Mes faveurs sur vous) !
 
-[47] L’emploi du verbe « évoquer » nous semble préférable à « se souvenir » ou « se rappeler ». En effet, l’un des sens du verbe « évoquer » est « rappeler à la mémoire » (voir le Grand Robert).
+[^47]: L’emploi du verbe « évoquer » nous semble préférable à « se souvenir » ou « se rappeler ». En effet, l’un des sens du verbe « évoquer » est « rappeler à la mémoire » (voir le Grand Robert).
 
 # 160
 
@@ -759,9 +762,9 @@ Ceux-là ont sur eux les bénédictions de leur Seigneur et Sa miséricorde, et 
 
 # 166
 
-Ceux qui taisent ce que Nous avons révélé comme preuves évidentes et comme bonnes orientations (al-hudâ), après que Nous les avons exposées clairement aux hommes dans le Livre, c’est bien ceux-là qu’Allah maudit et que maudissent les maudisseurs.[48]
+Ceux qui taisent ce que Nous avons révélé comme preuves évidentes et comme bonnes orientations (al-hudâ), après que Nous les avons exposées clairement aux hommes dans le Livre, c’est bien ceux-là qu’Allah maudit et que maudissent les maudisseurs.[^48]
 
-[48] Le mot « maudisseur » a tout l’air d’être une forgerie (mot forgé et qui n’existe pas dans le dictionnaire). En vérité, il est rare. Ici, il convient à la traduction du substantif arabe : اللاعنون. Il est cité dans le Grand Robert où il est opposé à « bénisseur ».
+[^48]: Le mot « maudisseur » a tout l’air d’être une forgerie (mot forgé et qui n’existe pas dans le dictionnaire). En vérité, il est rare. Ici, il convient à la traduction du substantif arabe : اللاعنون. Il est cité dans le Grand Robert où il est opposé à « bénisseur ».
 
 # 167
 
@@ -773,9 +776,9 @@ Ceux qui ont mécru et sont morts mécréants ont sur eux la malédiction d’Al
 
 # 169
 
-Ils l’auront éternellement[49] et leur supplice ne connaîtra ni allégement ni répit.
+Ils l’auront éternellement[^49] et leur supplice ne connaîtra ni allégement ni répit.
 
-[49] La malédiction.
+[^49]: La malédiction.
 
 # 170
 
@@ -815,24 +818,27 @@ Les mécréants sont tel ce troupeau que l’on hèle, qui n’entend qu’appel
 
 # 179
 
-Ô vous qui avez cru ! Mangez des aliments purs[50] que Nous vous avons accordés. Et rendez grâce[51] à Allah si c’est Lui (Seul) que vous adorez.
+Ô vous qui avez cru ! Mangez des aliments purs[^50] que Nous vous avons accordés. Et rendez grâce[^51] à Allah si c’est Lui (Seul) que vous adorez.
 
-[50] L’adjectif « pur » a ici à la fois le sens religieux de « licite » et le sens ordinaire de « bon à manger », voire dont le goût est « bon ». Tous ces sens se retrouvent dans le seul mot arabe du verset : طيّبات
-[51] Le mot « grâce » dans cette locution verbale s’écrit aujourd’hui plutôt au singulier. Le pluriel « rendre grâces », toujours correct, est vieilli.
+[^50]: L’adjectif « pur » a ici à la fois le sens religieux de « licite » et le sens ordinaire de « bon à manger », voire dont le goût est « bon ». Tous ces sens se retrouvent dans le seul mot arabe du verset : طيّبات
+
+[^51]: Le mot « grâce » dans cette locution verbale s’écrit aujourd’hui plutôt au singulier. Le pluriel « rendre grâces », toujours correct, est vieilli.
 
 # 180
 
-Il vous a seulement défendu[52] la chair de la bête morte, le sang, la viande de porc et tout animal égorgé sur lequel on aura invoqué un autre nom[53] que celui d’Allah. Celui qui pourtant en mange sous la contrainte, ni par abus ni par infraction, celui-là n’aura commis aucun péché, car Allah est Absoluteur[54] et Tout Miséricordieux.
+Il vous a seulement défendu[^52] la chair de la bête morte, le sang, la viande de porc et tout animal égorgé sur lequel on aura invoqué un autre nom[^53] que celui d’Allah. Celui qui pourtant en mange sous la contrainte, ni par abus ni par infraction, celui-là n’aura commis aucun péché, car Allah est Absoluteur[^54] et Tout Miséricordieux.
 
-[52] Ce verbe sied mieux au lexique religieux que les verbes « interdire » ou « prohiber ». Le Grand Robert cite justement comme exemples où le verbe « défendre » est employé, sans ambiguïté, au sens d’interdire : L’islam défend l’alcool et la viande de porc.
-[53] C’est-à-dire les bêtes immolées par les païens et les polythéistes en adoration des idoles.
-[54] Nous réservons à la traduction de غفور l’adjectif « Absoluteur » tout court. Quant à l’autre attribut divin توّاب, nous le traduisons toujours par « Tout Absoluteur ».
+[^52]: Ce verbe sied mieux au lexique religieux que les verbes « interdire » ou « prohiber ». Le Grand Robert cite justement comme exemples où le verbe « défendre » est employé, sans ambiguïté, au sens d’interdire : L’islam défend l’alcool et la viande de porc.
+
+[^53]: C’est-à-dire les bêtes immolées par les païens et les polythéistes en adoration des idoles.
+
+[^54]: Nous réservons à la traduction de غفور l’adjectif « Absoluteur » tout court. Quant à l’autre attribut divin توّاب, nous le traduisons toujours par « Tout Absoluteur ».
 
 # 181
 
-Ceux qui tiennent caché ce qu’Allah a révélé dans les Écritures[55] et le vendent à bas prix, ceux-là ne s’empiffrent que de Feu. Allah ne leur parlera point au Jour de la Résurrection ni ne les purifiera (de leurs péchés). Et ils auront un terrible supplice.
+Ceux qui tiennent caché ce qu’Allah a révélé dans les Écritures[^55] et le vendent à bas prix, ceux-là ne s’empiffrent que de Feu. Allah ne leur parlera point au Jour de la Résurrection ni ne les purifiera (de leurs péchés). Et ils auront un terrible supplice.
 
-[55] Le mot كتاب est un mot générique, un collectif qui signifie ici toutes les Écritures sacrées, qui ont été envoyées en révélation aux Prophètes et qui annonçaient déjà le Message de Muhammad (paix et bénédiction d’Allah sur lui).
+[^55]: Le mot كتاب est un mot générique, un collectif qui signifie ici toutes les Écritures sacrées, qui ont été envoyées en révélation aux Prophètes et qui annonçaient déjà le Message de Muhammad (paix et bénédiction d’Allah sur lui).
 
 # 182
 
@@ -840,21 +846,21 @@ Ceux-là ont acheté l’égarement au prix de la juste orientation (hudâ), le 
 
 # 183
 
-C’est qu’Allah a fait descendre (en révélation) le Livre de la vérité. Et ceux qui divergent à propos du Livre sont dans une scission très avancée.[56]
+C’est qu’Allah a fait descendre (en révélation) le Livre de la vérité. Et ceux qui divergent à propos du Livre sont dans une scission très avancée.[^56]
 
-[56] Nous avons traduit par « très avancée » au sens de « très avancée dans l’erreur » et donc « très éloignée de la vérité », ce qui rejoint alors le sens de بعيد. Autre traduction possible : sont allés très loin dans la scission.
+[^56]: Nous avons traduit par « très avancée » au sens de « très avancée dans l’erreur » et donc « très éloignée de la vérité », ce qui rejoint alors le sens de بعيد. Autre traduction possible : sont allés très loin dans la scission.
 
 # 184
 
-La vraie vertu n’est certes pas de tourner vos visages vers le Levant ou le Couchant. La vraie vertu est de croire en Allah, au Jour Dernier, aux Anges, aux Livres (aux Écritures célestes) et aux Prophètes ; de donner de son bien, quel que soit l’amour qu’on lui voue, aux proches, aux orphelins, aux nécessiteux, aux voyageurs de grand chemin,[57] aux mendiants, et pour le rachat de ceux qui en ont besoin ; d’accomplir la Çalât et de s’acquitter de la Zakât. Quant à ceux qui honorent leur engagement quand ils s’engagent, ceux qui sont patients à la misère, à la maladie et à la dureté des combats, ceux-là sont les véridiques et ceux-là sont certes les gens pieux.
+La vraie vertu n’est certes pas de tourner vos visages vers le Levant ou le Couchant. La vraie vertu est de croire en Allah, au Jour Dernier, aux Anges, aux Livres (aux Écritures célestes) et aux Prophètes ; de donner de son bien, quel que soit l’amour qu’on lui voue, aux proches, aux orphelins, aux nécessiteux, aux voyageurs de grand chemin,[^57] aux mendiants, et pour le rachat de ceux qui en ont besoin ; d’accomplir la Çalât et de s’acquitter de la Zakât. Quant à ceux qui honorent leur engagement quand ils s’engagent, ceux qui sont patients à la misère, à la maladie et à la dureté des combats, ceux-là sont les véridiques et ceux-là sont certes les gens pieux.
 
-[57] Nous avons employé l’expression « voyageur de grand chemin » par analogie avec l’expression consacrée « voleur de grand chemin » (dont le lieu d’intervention sont les grandes routes). L’expression est d’autant plus heureuse qu’elle s’inscrit dans une série d’assonances favorables au rythme du verset : « bien » », « orphelins », « chemin », « besoin ».
+[^57]: Nous avons employé l’expression « voyageur de grand chemin » par analogie avec l’expression consacrée « voleur de grand chemin » (dont le lieu d’intervention sont les grandes routes). L’expression est d’autant plus heureuse qu’elle s’inscrit dans une série d’assonances favorables au rythme du verset : « bien » », « orphelins », « chemin », « besoin ».
 
 # 185
 
-Ô vous qui avez cru ! Il vous a été prescrit la loi du talion concernant les tués. Homme libre pour homme libre, esclave pour esclave, femme pour femme. Cependant, celui qui est pardonné par son frère en quoi que ce soit, celui-là doit être poursuivi à l’amiable et doit s’acquitter volontiers[58] d’une rançon. C’est là un allégement de votre Seigneur et une miséricorde. Alors, quiconque, après cela, agresse (à nouveau) aura un terrible supplice.
+Ô vous qui avez cru ! Il vous a été prescrit la loi du talion concernant les tués. Homme libre pour homme libre, esclave pour esclave, femme pour femme. Cependant, celui qui est pardonné par son frère en quoi que ce soit, celui-là doit être poursuivi à l’amiable et doit s’acquitter volontiers[^58] d’une rançon. C’est là un allégement de votre Seigneur et une miséricorde. Alors, quiconque, après cela, agresse (à nouveau) aura un terrible supplice.
 
-[58] L’adverbe « volontiers » traduit bien بإحسان . On pourrait aussi traduire par « de bon cœur », « de bonne grâce ».
+[^58]: L’adverbe « volontiers » traduit bien بإحسان . On pourrait aussi traduire par « de bon cœur », « de bonne grâce ».
 
 # 186
 
@@ -882,9 +888,9 @@ Un nombre de jours (sera bien déterminé). Alors, celui qui d’entre vous est 
 
 # 192
 
-C’est en ce mois de Ramadan que fut révélé le Coran en guide (hudâ) pour les hommes (vers la juste voie), et comme preuves évidentes de la bonne orientation et du discernement. Quiconque, alors, est présent en ce mois[59] qu’il (le) jeûne ! Et si quelqu’un est malade ou parti en voyage, il (s’acquittera) d’un nombre équivalent d’autres jours. Allah veut pour vous l’aisance et ne veut pas pour vous la difficulté ; afin que vous complétiez les jours dus et que vous rendiez gloire à Allah Qui vous a bien guidés. Peut-être alors (Lui) serez-vous reconnaissants !
+C’est en ce mois de Ramadan que fut révélé le Coran en guide (hudâ) pour les hommes (vers la juste voie), et comme preuves évidentes de la bonne orientation et du discernement. Quiconque, alors, est présent en ce mois[^59] qu’il (le) jeûne ! Et si quelqu’un est malade ou parti en voyage, il (s’acquittera) d’un nombre équivalent d’autres jours. Allah veut pour vous l’aisance et ne veut pas pour vous la difficulté ; afin que vous complétiez les jours dus et que vous rendiez gloire à Allah Qui vous a bien guidés. Peut-être alors (Lui) serez-vous reconnaissants !
 
-[59] Encore présent, encore vivant, épargné par la mort. Autrement dit : n’est pas en voyage.
+[^59]: Encore présent, encore vivant, épargné par la mort. Autrement dit : n’est pas en voyage.
 
 # 193
 
@@ -892,9 +898,9 @@ Et si Mes serviteurs t’interrogent sur Moi, (dis que) Je suis Proche. Je répo
 
 # 194
 
-Il vous est permis, la nuit du jeûne (aç-ciyâm), d’avoir des rapports intimes avec vos femmes. Elles sont pour vous un vêtement[60] et vous êtes pour elles un vêtement. Allah Sait qu’(ayant eu avec vos épouses des rapports intimes la nuit) vous vous trahissiez vous-mêmes (et vous vous exposiez aux punitions). Alors, Il accepte votre repentir et vous pardonne. Et maintenant vous pouvez les approcher. Recherchez (les joies) qu’Allah a prescrites pour vous. Mangez et buvez jusqu’à ce que deviennent distincts, à vos yeux, le fil blanc de l’aube et le fil noir de la nuit. Puis accomplissez le jeûne jusqu’à la nuit. Ne les approchez point pendant que vous observez la retraite rituelle (‘âkifîn) dans les mosquées. Telles sont les limites légales (hudûd) d’Allah, ne vous en approchez point. C’est ainsi qu’Allah expose clairement Ses Signes aux hommes, afin qu’ils (Le) craignent pieusement.
+Il vous est permis, la nuit du jeûne (aç-ciyâm), d’avoir des rapports intimes avec vos femmes. Elles sont pour vous un vêtement[^60] et vous êtes pour elles un vêtement. Allah Sait qu’(ayant eu avec vos épouses des rapports intimes la nuit) vous vous trahissiez vous-mêmes (et vous vous exposiez aux punitions). Alors, Il accepte votre repentir et vous pardonne. Et maintenant vous pouvez les approcher. Recherchez (les joies) qu’Allah a prescrites pour vous. Mangez et buvez jusqu’à ce que deviennent distincts, à vos yeux, le fil blanc de l’aube et le fil noir de la nuit. Puis accomplissez le jeûne jusqu’à la nuit. Ne les approchez point pendant que vous observez la retraite rituelle (‘âkifîn) dans les mosquées. Telles sont les limites légales (hudûd) d’Allah, ne vous en approchez point. C’est ainsi qu’Allah expose clairement Ses Signes aux hommes, afin qu’ils (Le) craignent pieusement.
 
-[60] La métaphore est infiniment heureuse car elle décrit ce rapport conjugal qui se fonde sur la protection mutuelle.
+[^60]: La métaphore est infiniment heureuse car elle décrit ce rapport conjugal qui se fonde sur la protection mutuelle.
 
 # 195
 
@@ -902,9 +908,9 @@ Ne mangez pas vos biens illicitement entre vous. Ne les donnez pas aux juges dan
 
 # 196
 
-Ils t’interrogent sur les croissants des nouvelles lunes. Dis : « Ce sont des repères temporels pour les gens et pour le pèlerinage (Hajj). Et la vraie vertu n’est point d’entrer dans les maisons par derrière,[61] la vraie vertu est d’avoir la piété. Entrez donc dans les maisons par leurs portes et craignez Allah : ainsi atteindrez-vous à la réussite.
+Ils t’interrogent sur les croissants des nouvelles lunes. Dis : « Ce sont des repères temporels pour les gens et pour le pèlerinage (Hajj). Et la vraie vertu n’est point d’entrer dans les maisons par derrière,[^61] la vraie vertu est d’avoir la piété. Entrez donc dans les maisons par leurs portes et craignez Allah : ainsi atteindrez-vous à la réussite.
 
-[61] On pourra s’interroger sur le sens d’un tel détail dans un verset qui parle des nouvelles lunes comme repères du mois de Ramadan et d’autres devoirs sacrés dont le pèlerinage. En fait, il s’agit d’une allusion aux pratiques antéislamiques qui consistaient, lors du pèlerinage, à entrer dans les maisons par les portes de derrière pour contourner le dogme interdisant de rentrer chez soi avant d’avoir terminé le rite. La leçon est claire : la vraie piété consiste à accomplir ses devoirs sacrés sans hypocrisie et en appliquant à la lettre les prescriptions religieuses.
+[^61]: On pourra s’interroger sur le sens d’un tel détail dans un verset qui parle des nouvelles lunes comme repères du mois de Ramadan et d’autres devoirs sacrés dont le pèlerinage. En fait, il s’agit d’une allusion aux pratiques antéislamiques qui consistaient, lors du pèlerinage, à entrer dans les maisons par les portes de derrière pour contourner le dogme interdisant de rentrer chez soi avant d’avoir terminé le rite. La leçon est claire : la vraie piété consiste à accomplir ses devoirs sacrés sans hypocrisie et en appliquant à la lettre les prescriptions religieuses.
 
 # 197
 
@@ -912,10 +918,11 @@ Combattez pour la cause d’Allah (dans le chemin d’Allah) ceux qui vous comba
 
 # 198
 
-Tuez-les où vous les trouverez, et chassez-les d’où ils vous auront chassés : l’associâtrie (chirk)[62] est plus terrible que la tuerie.[63] Et ne les combattez point près de la Mosquée Sacrée sauf quand ils vous y auront combattus. Alors, s’ils vous combattent, tuez-les. Tel sera le châtiment des mécréants.
+Tuez-les où vous les trouverez, et chassez-les d’où ils vous auront chassés : l’associâtrie (chirk)[^62] est plus terrible que la tuerie.[^63] Et ne les combattez point près de la Mosquée Sacrée sauf quand ils vous y auront combattus. Alors, s’ils vous combattent, tuez-les. Tel sera le châtiment des mécréants.
 
-[62] Le mot فتنة signifie l’associâtrie selon Ibn Kathîr ; l’associâtrie signifie le péché majeur qui consiste à associer à Allah d’autres divinités : chirk
-[63] Le mot « tuerie » rime avec « associâtrie ». De plus, il signifie bien « carnage », « massacre », « action de tuer en masse, sauvagement », « hécatombe », « guerre meurtrière ». Voir le Grand Robert.
+[^62]: Le mot فتنة signifie l’associâtrie selon Ibn Kathîr ; l’associâtrie signifie le péché majeur qui consiste à associer à Allah d’autres divinités : chirk
+
+[^63]: Le mot « tuerie » rime avec « associâtrie ». De plus, il signifie bien « carnage », « massacre », « action de tuer en masse, sauvagement », « hécatombe », « guerre meurtrière ». Voir le Grand Robert.
 
 # 199
 
@@ -927,22 +934,23 @@ Combattez-les jusqu’à ce qu’il n’y ait plus d’associâtrie et que la re
 
 # 201
 
-Mois sacré pour mois sacré,[64] et toutes les choses sacrées (se compensent) par la loi du talion. Alors, quiconque vous agresse, agressez-le en lui rendant la pareille. Craignez Allah, et sachez qu’Allah est avec les gens pieux.
+Mois sacré pour mois sacré,[^64] et toutes les choses sacrées (se compensent) par la loi du talion. Alors, quiconque vous agresse, agressez-le en lui rendant la pareille. Craignez Allah, et sachez qu’Allah est avec les gens pieux.
 
-[64] Structure calquée sur le modèle de « œil pour œil, dent pour dent ». Cela signifie : s’ils vous attaquent pendant les mois sacrés, attaquez-les de même pendant les mois sacrés. Dès avant l’Islam, en effet, les Arabes s’interdisaient la guerre pendant les mois sacrés de Dhoulq’ida, Dhoul-hijja, Muharram et Rajab.
+[^64]: Structure calquée sur le modèle de « œil pour œil, dent pour dent ». Cela signifie : s’ils vous attaquent pendant les mois sacrés, attaquez-les de même pendant les mois sacrés. Dès avant l’Islam, en effet, les Arabes s’interdisaient la guerre pendant les mois sacrés de Dhoulq’ida, Dhoul-hijja, Muharram et Rajab.
 
 # 202
 
-Dépensez pour la cause d’Allah (dans le chemin d’Allah), ne courez pas par vos propres mains à la ruine.[65] Et faites le bien car Allah aime les bienfaiteurs.
+Dépensez pour la cause d’Allah (dans le chemin d’Allah), ne courez pas par vos propres mains à la ruine.[^65] Et faites le bien car Allah aime les bienfaiteurs.
 
-[65] Ce verset, en dépit des interprétations ordinaires, ne vise pas la témérité dans le combat mais le refus de dépenser ses biens pour la cause d’Allah.
+[^65]: Ce verset, en dépit des interprétations ordinaires, ne vise pas la témérité dans le combat mais le refus de dépenser ses biens pour la cause d’Allah.
 
 # 203
 
-Accomplissez pour Allah le pèlerinage (Hajj) et la Umra. Si vous subissez quelque empêchement, alors un sacrifice qu’il vous soit aisé de faire. Ne vous rasez pas la tête jusqu’à ce que la bête sacrificielle soit arrivée à son lieu (d’immolation licite). Et si l’un de vous est malade ou souffre de quelque lésion à la tête,[66] qu’il compense alors par un jeûne (çiyâm), par une aumône, ou par une immolation. Quand vous aurez accompli le rituel et si, étant en sécurité, quelqu’un (parmi vous) a joui des avantages de la vie normale (tamattu’), depuis la Umra jusqu’au pèlerinage,[67] alors un sacrifice qu’il lui soit aisé de faire. S’il n’en a pas les moyens, alors un jeûne de trois jours pendant le pèlerinage et sept quand il revient chez lui, soit un total de dix. Cela concerne celui dont la famille n’habite pas près de la Mosquée Sacrée. Craignez Allah. Sachez qu’Allah a le châtiment terrible.
+Accomplissez pour Allah le pèlerinage (Hajj) et la Umra. Si vous subissez quelque empêchement, alors un sacrifice qu’il vous soit aisé de faire. Ne vous rasez pas la tête jusqu’à ce que la bête sacrificielle soit arrivée à son lieu (d’immolation licite). Et si l’un de vous est malade ou souffre de quelque lésion à la tête,[^66] qu’il compense alors par un jeûne (çiyâm), par une aumône, ou par une immolation. Quand vous aurez accompli le rituel et si, étant en sécurité, quelqu’un (parmi vous) a joui des avantages de la vie normale (tamattu’), depuis la Umra jusqu’au pèlerinage,[^67] alors un sacrifice qu’il lui soit aisé de faire. S’il n’en a pas les moyens, alors un jeûne de trois jours pendant le pèlerinage et sept quand il revient chez lui, soit un total de dix. Cela concerne celui dont la famille n’habite pas près de la Mosquée Sacrée. Craignez Allah. Sachez qu’Allah a le châtiment terrible.
 
-[66] Qui est donc obligé parfois de se raser.
-[67] Ces avantages sont d’être, dans ce cas, dispensé de l’état de sacralisation (ihrâm).
+[^66]: Qui est donc obligé parfois de se raser.
+
+[^67]: Ces avantages sont d’être, dans ce cas, dispensé de l’état de sacralisation (ihrâm).
 
 # 204
 
@@ -950,15 +958,15 @@ Le pèlerinage se fait pendant des mois bien connus. Que celui qui entreprend de
 
 # 205
 
-Vous n’aurez commis aucun péché si vous convoitez une faveur[68] de votre Seigneur. Quand vous aurez déferlé de ‘Arafat, invoquez Allah à Al-Mach’âr Al-Harâm (la Station sacrée). Invoquez-Le comme Il vous a orientés vers la juste voie quoique, par le passé, vous fussiez du nombre des égarés.
+Vous n’aurez commis aucun péché si vous convoitez une faveur[^68] de votre Seigneur. Quand vous aurez déferlé de ‘Arafat, invoquez Allah à Al-Mach’âr Al-Harâm (la Station sacrée). Invoquez-Le comme Il vous a orientés vers la juste voie quoique, par le passé, vous fussiez du nombre des égarés.
 
-[68] C’est le droit au commerce qui est ici entendu. Le pèlerinage permet, entre autres activités licites, de pratiquer le commerce en dehors du rituel.
+[^68]: C’est le droit au commerce qui est ici entendu. Le pèlerinage permet, entre autres activités licites, de pratiquer le commerce en dehors du rituel.
 
 # 206
 
-Puis déferlez d’où les gens ont (toujours) déferlé,[69] et demandez le pardon d’Allah car Allah est Absoluteur et Tout Miséricordieux.
+Puis déferlez d’où les gens ont (toujours) déferlé,[^69] et demandez le pardon d’Allah car Allah est Absoluteur et Tout Miséricordieux.
 
-[69] Depuis avant l’islam.
+[^69]: Depuis avant l’islam.
 
 # 207
 
@@ -978,9 +986,9 @@ Invoquez Allah en des jours précis. Mais celui qui se hâte en deux jours n’a
 
 # 211
 
-Il est parmi les hommes celui dont te plaît le propos sur la vie en ce bas monde, qui prend Allah à témoin (pour convaincre) de ce qu’il a dans le cœur, [70] alors qu’il est le plus farouche des adversaires.
+Il est parmi les hommes celui dont te plaît le propos sur la vie en ce bas monde, qui prend Allah à témoin (pour convaincre) de ce qu’il a dans le cœur, [^70] alors qu’il est le plus farouche des adversaires.
 
-[70] Nous avons ajouté l’expression « pour convaincre » car il est question ici de ces hypocrites qui tiennent absolument à persuader les gens qu’ils sont sincères. Et ils ne se gênent pas, pour cela, de prendre à témoin Allah. Ils savent bien pourtant que c’est un péché majeur que celui de s’obstiner à défier les lois d’Allah. Mais en les défiant, n’est-ce pas défier le Créateur Lui-même, gloire Lui soit rendue ?
+[^70]: Nous avons ajouté l’expression « pour convaincre » car il est question ici de ces hypocrites qui tiennent absolument à persuader les gens qu’ils sont sincères. Et ils ne se gênent pas, pour cela, de prendre à témoin Allah. Ils savent bien pourtant que c’est un péché majeur que celui de s’obstiner à défier les lois d’Allah. Mais en les défiant, n’est-ce pas défier le Créateur Lui-même, gloire Lui soit rendue ?
 
 # 212
 
@@ -1032,9 +1040,9 @@ Le combat vous a été prescrit quoique vous le haïssiez. Or peut-être haïsse
 
 # 224
 
-Ils t’interrogent à propos du mois sacré et (se demandent) si le combat y est permis. Dis : « Le combat y est un péché majeur mais, plus grave encore que le meurtre est (le péché) d’entraver le passage vers le chemin d’Allah, de mécroire en Lui, de (profaner) la Mosquée Sacrée et d’en expulser les habitants. L’associâtrie est plus terrible que la tuerie. » Ils n’arrêteront pas de vous combattre jusqu’à ce qu’ils vous fassent, s’ils peuvent, apostasier[71] votre religion. Or celui qui d’entre vous apostasie sa religion et meurt en mécréant, nulles seront ses œuvres en ce bas monde et dans l’autre. Ceux-là sont les hôtes du Feu, où ils séjourneront pour l’éternité.
+Ils t’interrogent à propos du mois sacré et (se demandent) si le combat y est permis. Dis : « Le combat y est un péché majeur mais, plus grave encore que le meurtre est (le péché) d’entraver le passage vers le chemin d’Allah, de mécroire en Lui, de (profaner) la Mosquée Sacrée et d’en expulser les habitants. L’associâtrie est plus terrible que la tuerie. » Ils n’arrêteront pas de vous combattre jusqu’à ce qu’ils vous fassent, s’ils peuvent, apostasier[^71] votre religion. Or celui qui d’entre vous apostasie sa religion et meurt en mécréant, nulles seront ses œuvres en ce bas monde et dans l’autre. Ceux-là sont les hôtes du Feu, où ils séjourneront pour l’éternité.
 
-[71] Le verbe « apostasier » signifie se détourner de sa religion, abjurer sa foi. Celui qui fait acte d’apostasie est un apostat : مرتدّ
+[^71]: Le verbe « apostasier » signifie se détourner de sa religion, abjurer sa foi. Celui qui fait acte d’apostasie est un apostat : مرتدّ
 
 # 225
 
@@ -1058,10 +1066,11 @@ Et ils t’interrogent sur la menstruation (des femmes). Dis : « Cela est nuisi
 
 # 230
 
-Vos femmes sont pour vous un champ à labourer.[72] Alors, abordez votre (champ de) labour où[73] et quand vous voulez. Avancez (les bonnes œuvres) dans votre propre intérêt. Craignez Allah et sachez que vous allez Le rencontrer. Et annonce l’heureuse nouvelle aux croyants !
+Vos femmes sont pour vous un champ à labourer.[^72] Alors, abordez votre (champ de) labour où[^73] et quand vous voulez. Avancez (les bonnes œuvres) dans votre propre intérêt. Craignez Allah et sachez que vous allez Le rencontrer. Et annonce l’heureuse nouvelle aux croyants !
 
-[72] Cette métaphore agricole connote la notion de productivité et de procréation sur laquelle est fondé l’acte sexuel dans le cadre licite du mariage. 
-[73] Ce pronom adverbial de lieu (locatif) ne désigne pas les parties du corps où il serait permis de pénétrer l’épouse mais l’endroit où l’on est libre de copuler. De cette façon l’interprétation fautive du verset comme incitation à sodomiser la femme est exclue.
+[^72]: Cette métaphore agricole connote la notion de productivité et de procréation sur laquelle est fondé l’acte sexuel dans le cadre licite du mariage.
+
+[^73]: Ce pronom adverbial de lieu (locatif) ne désigne pas les parties du corps où il serait permis de pénétrer l’épouse mais l’endroit où l’on est libre de copuler. De cette façon l’interprétation fautive du verset comme incitation à sodomiser la femme est exclue.
 
 # 231
 
@@ -1073,42 +1082,45 @@ Allah ne vous reprochera pas les expressions abusives dans vos serments mais vou
 
 # 233
 
-Pour ceux qui font serment de ne plus approcher leurs femmes, un délai de quatre mois est fixé (pour se rétracter). Et s’ils se rétractent, alors Allah est Absoluteur et Tout Miséricordieux.[74]
+Pour ceux qui font serment de ne plus approcher leurs femmes, un délai de quatre mois est fixé (pour se rétracter). Et s’ils se rétractent, alors Allah est Absoluteur et Tout Miséricordieux.[^74]
 
-[74] Il est sous entendu par là que le délai est annulé.
+[^74]: Il est sous entendu par là que le délai est annulé.
 
 # 234
 
-Et si (au contraire) ils décident le divorce, alors Allah Entend Tout et Il est Omniscient.[75]
+Et si (au contraire) ils décident le divorce, alors Allah Entend Tout et Il est Omniscient.[^75]
 
-[75] Il est, cette fois, sous entendu que le divorce est effectif.
+[^75]: Il est, cette fois, sous entendu que le divorce est effectif.
 
 # 235
 
-Les divorcées doivent attendre que trois cycles menstruels se soient écoulés; et il n’est nullement licite pour elles de taire ce qu’Allah a créé dans leurs matrices, si elles croient en Allah et au Jour Dernier. Leurs époux, entre-temps, ont plein droit de les reprendre s’ils souhaitent une réconciliation. Les femmes, quant à elles, ont des droits comme elles ont des obligations, conformément aux bienséances.[76] Les hommes, cependant, leur sont d’un cran supérieurs ; et Allah est Tout- Puissant et Sage.
+Les divorcées doivent attendre que trois cycles menstruels se soient écoulés; et il n’est nullement licite pour elles de taire ce qu’Allah a créé dans leurs matrices, si elles croient en Allah et au Jour Dernier. Leurs époux, entre-temps, ont plein droit de les reprendre s’ils souhaitent une réconciliation. Les femmes, quant à elles, ont des droits comme elles ont des obligations, conformément aux bienséances.[^76] Les hommes, cependant, leur sont d’un cran supérieurs ; et Allah est Tout- Puissant et Sage.
 
-[76] Le mot doit être employé au pluriel. Il a le sens de: règles conformes à l’usage reconnu convenable à une époque donnée, et dans une société donnée. Employé au singulier, le mot « bienséance » tendrait à la péjoration : protocole social, apparences à sauver pour ne pas choquer l’étiquette sociale, etc. C’est pourquoi nous lui avons préféré le pluriel.
+[^76]: Le mot doit être employé au pluriel. Il a le sens de: règles conformes à l’usage reconnu convenable à une époque donnée, et dans une société donnée. Employé au singulier, le mot « bienséance » tendrait à la péjoration : protocole social, apparences à sauver pour ne pas choquer l’étiquette sociale, etc. C’est pourquoi nous lui avons préféré le pluriel.
 
 # 236
 
-Le divorce est (prononcé) deux fois, puis c’est soit le maintien avec les égards,[77] soit la libération avec bonté. Il ne vous est pas permis de reprendre quoi que ce soit de ce que vous leur avez offert (comme dot et comme présents), sauf si les deux conjoints craignent de ne pas observer les limites[78] d’Allah. Alors, si vous craignez qu’ils n’observent point les limites d’Allah, il n’y aura pas péché si la femme rachète sa liberté (par une partie de sa dot). Ce sont là les limites d’Allah. Alors ne les enfreignez pas. Car ceux qui enfreignent les limites d’Allah, ceux-là sont les injustes.
+Le divorce est (prononcé) deux fois, puis c’est soit le maintien avec les égards,[^77] soit la libération avec bonté. Il ne vous est pas permis de reprendre quoi que ce soit de ce que vous leur avez offert (comme dot et comme présents), sauf si les deux conjoints craignent de ne pas observer les limites[^78] d’Allah. Alors, si vous craignez qu’ils n’observent point les limites d’Allah, il n’y aura pas péché si la femme rachète sa liberté (par une partie de sa dot). Ce sont là les limites d’Allah. Alors ne les enfreignez pas. Car ceux qui enfreignent les limites d’Allah, ceux-là sont les injustes.
 
-[77] Égards dus aux bienséances.
-[78] Les lois d’Allah (hudûd).
+[^77]: Égards dus aux bienséances.
+
+[^78]: Les lois d’Allah (hudûd).
 
 # 237
 
-S’il divorce d’avec elle,[79] elle ne lui est plus licite jusqu’à ce qu’elle en épouse un autre. Et si celui-ci divorce d’avec elle, le (premier) couple ne commet aucun péché à revenir (à la vie conjugale), pourvu que les deux conjoints pensent pouvoir observer les limites d’Allah. Telles sont donc les limites d’Allah qu’Il expose clairement à un peuple qui sait.
+S’il divorce d’avec elle,[^79] elle ne lui est plus licite jusqu’à ce qu’elle en épouse un autre. Et si celui-ci divorce d’avec elle, le (premier) couple ne commet aucun péché à revenir (à la vie conjugale), pourvu que les deux conjoints pensent pouvoir observer les limites d’Allah. Telles sont donc les limites d’Allah qu’Il expose clairement à un peuple qui sait.
 
-[79] C’est-à-dire si le divorce est prononcé une troisième fois.
+[^79]: C’est-à-dire si le divorce est prononcé une troisième fois.
 
 # 238
 
-Une fois que vous aurez divorcé d’avec vos femmes et qu’elles auront atteint le terme de leur délai, retenez-les avec bonté ou libérez-les avec bonté.[80] Ne les retenez point avec la mauvaise intention de leur faire du tort. Celui qui agit de la sorte se lèse lui-même. Ne prenez pas les versets d’Allah pour objets de dérision. Évoquez[81] la grâce dont Allah vous a comblés, et le Livre et la Sagesse qu’Il a fait descendre sur vous en guise d’enseignement. Et craignez Allah, car Allah Sait parfaitement Toute chose.[82]
+Une fois que vous aurez divorcé d’avec vos femmes et qu’elles auront atteint le terme de leur délai, retenez-les avec bonté ou libérez-les avec bonté.[^80] Ne les retenez point avec la mauvaise intention de leur faire du tort. Celui qui agit de la sorte se lèse lui-même. Ne prenez pas les versets d’Allah pour objets de dérision. Évoquez[^81] la grâce dont Allah vous a comblés, et le Livre et la Sagesse qu’Il a fait descendre sur vous en guise d’enseignement. Et craignez Allah, car Allah Sait parfaitement Toute chose.[^82]
 
-[80] Le terme arabe معروف signe, selon le contexte, soit les convenances, le convenable pour tout le monde, les bienséances ou encore la gentillesse, les égards et la bonté. Que l’on traduise par « avec bonté » ne contredit point le sens des bienséances et de « ce qui est reconnu comme convenable », la gentillesse étant perçue de la même façon par toute la société. 
-[81] Par la mémoire et par la parole.
-[82] Nous réservons le mot « Omniscient » pour la traduction de عليم tout court, et nous traduisons par « Il Sait parfaitement Toute chose » quand l’expression utilisée dans le Coran est étendue : بكل شيء عليم.
+[^80]: Le terme arabe معروف signe, selon le contexte, soit les convenances, le convenable pour tout le monde, les bienséances ou encore la gentillesse, les égards et la bonté. Que l’on traduise par « avec bonté » ne contredit point le sens des bienséances et de « ce qui est reconnu comme convenable », la gentillesse étant perçue de la même façon par toute la société.
+
+[^81]: Par la mémoire et par la parole.
+
+[^82]: Nous réservons le mot « Omniscient » pour la traduction de عليم tout court, et nous traduisons par « Il Sait parfaitement Toute chose » quand l’expression utilisée dans le Coran est étendue : بكل شيء عليم.
 
 # 239
 
@@ -1116,9 +1128,9 @@ Une fois que vous aurez divorcé d’avec vos femmes et qu’elles auront attein
 
 # 240
 
-Les mères qui voudraient mener l’allaitement à son terme allaiteront leurs enfants deux années entières. Au père (de l’enfant), il incombe de les nourrir et de les vêtir convenablement. Nul n’est tenu de supporter au-delà de ses moyens. La mère n’a pas à se nuire à cause de son enfant, pas plus que le père (à cause) de son enfant. À l’héritier,[83] il incombe la même chose. Si, après concertation, les deux (conjoints) décident le sevrage (de leur enfant), il ne leur sera fait aucun grief. Et si vous souhaitez confier vos enfants à une nourrice, il ne vous sera fait, non plus, aucun grief, pourvu que vous remettiez ce qui est dû dans les règles convenues. Craignez Allah, et sachez qu’Allah Voit absolument ce que vous faites.
+Les mères qui voudraient mener l’allaitement à son terme allaiteront leurs enfants deux années entières. Au père (de l’enfant), il incombe de les nourrir et de les vêtir convenablement. Nul n’est tenu de supporter au-delà de ses moyens. La mère n’a pas à se nuire à cause de son enfant, pas plus que le père (à cause) de son enfant. À l’héritier,[^83] il incombe la même chose. Si, après concertation, les deux (conjoints) décident le sevrage (de leur enfant), il ne leur sera fait aucun grief. Et si vous souhaitez confier vos enfants à une nourrice, il ne vous sera fait, non plus, aucun grief, pourvu que vous remettiez ce qui est dû dans les règles convenues. Craignez Allah, et sachez qu’Allah Voit absolument ce que vous faites.
 
-[83] L’héritier du père de l’enfant.
+[^83]: L’héritier du père de l’enfant.
 
 # 241
 
@@ -1126,21 +1138,21 @@ Les mères qui voudraient mener l’allaitement à son terme allaiteront leurs e
 
 # 242
 
-Et il ne vous sera pas reproché de faire indirectement allusion au mariage devant les femmes.[84] Non plus, si vous le projetez dans le secret du cœur. Allah Sait que vous penserez à elles. Cependant, ne leur faites point de promesses secrètes, sauf à leur tenir des propos décents. Ne vous décidez pas à conclure le mariage avant que le délai prescrit ne soit arrivé à son terme. Et sachez qu’Allah Sait ce qu’il y a au fond de vous-mêmes. Prenez donc garde à Lui, et sachez qu’Allah est Absoluteur et Longanime.
+Et il ne vous sera pas reproché de faire indirectement allusion au mariage devant les femmes.[^84] Non plus, si vous le projetez dans le secret du cœur. Allah Sait que vous penserez à elles. Cependant, ne leur faites point de promesses secrètes, sauf à leur tenir des propos décents. Ne vous décidez pas à conclure le mariage avant que le délai prescrit ne soit arrivé à son terme. Et sachez qu’Allah Sait ce qu’il y a au fond de vous-mêmes. Prenez donc garde à Lui, et sachez qu’Allah est Absoluteur et Longanime.
 
-[84] Aux veuves.
+[^84]: Aux veuves.
 
 # 243
 
-Vous n’aurez pas péché si vous divorcez d’avec des femmes que vous n’avez point touchées, et auxquelles vous n’avez pas fixé de dot (faridha).[85] Faites-les bénéficier de quelque bien reconnu convenable, le nanti (parmi vous) selon ses moyens et le besogneux selon ses moyens. C’est là un devoir pour les bienfaiteurs.
+Vous n’aurez pas péché si vous divorcez d’avec des femmes que vous n’avez point touchées, et auxquelles vous n’avez pas fixé de dot (faridha).[^85] Faites-les bénéficier de quelque bien reconnu convenable, le nanti (parmi vous) selon ses moyens et le besogneux selon ses moyens. C’est là un devoir pour les bienfaiteurs.
 
-[85] En vérité, le mot « dot », comme d’autres mots spécifiques aux cultures occidentales, ne couvre pas exactement le mot arabe فريضة ou son synonyme مهر.
+[^85]: En vérité, le mot « dot », comme d’autres mots spécifiques aux cultures occidentales, ne couvre pas exactement le mot arabe فريضة ou son synonyme مهر.
 
 # 244
 
-Si vous divorcez d’avec elles avant que vous ne les ayez touchées, et que vous leur ayez déjà fixé une dot, alors vous leur verserez la moitié de cette dot, à moins qu’elles ne se désistent ou ne se désiste celui qui a en mains[86] le contrat de mariage. Mais que vous vous désistiez est certes plus proche de la piété. Et n’oubliez pas d’être bienveillants les uns envers les autres. Allah Voit absolument ce que vous faites.
+Si vous divorcez d’avec elles avant que vous ne les ayez touchées, et que vous leur ayez déjà fixé une dot, alors vous leur verserez la moitié de cette dot, à moins qu’elles ne se désistent ou ne se désiste celui qui a en mains[^86] le contrat de mariage. Mais que vous vous désistiez est certes plus proche de la piété. Et n’oubliez pas d’être bienveillants les uns envers les autres. Allah Voit absolument ce que vous faites.
 
-[86] Celui qui représente légalement la femme renonce à cette moitié de la dot, ou le mari lui-même qui renonce à l’autre moitié de la dot s’il a déjà payé une dot entière.
+[^86]: Celui qui représente légalement la femme renonce à cette moitié de la dot, ou le mari lui-même qui renonce à l’autre moitié de la dot s’il a déjà payé une dot entière.
 
 # 245
 
@@ -1148,9 +1160,9 @@ Soyez assidus aux Çalâts, et à la Çalât médiane (surtout), et levez-vous d
 
 # 246
 
-Mais s’il (vous arrive) de craindre (quelque danger), alors faites votre prière en marchant ou sur le dos de vos montures. Mais dès que vous aurez retrouvé la quiétude, invoquez[87] Allah Qui vous a enseigné ce que vous ne saviez pas.
+Mais s’il (vous arrive) de craindre (quelque danger), alors faites votre prière en marchant ou sur le dos de vos montures. Mais dès que vous aurez retrouvé la quiétude, invoquez[^87] Allah Qui vous a enseigné ce que vous ne saviez pas.
 
-[87] Accomplissez la Çalât normale.
+[^87]: Accomplissez la Çalât normale.
 
 # 247
 
@@ -1166,9 +1178,9 @@ C’est ainsi qu’Allah vous expose clairement Ses versets, pour que, peut-êtr
 
 # 250
 
-N’as-tu pas vu[88] ceux qui sont sortis de leurs maisons par milliers, craignant la mort ? Allah leur a dit : « Mourez ! » Puis Il les a fait revivre. Allah est Plein de Faveurs pour les hommes, mais la plupart des hommes ne sont pas reconnaissants.
+N’as-tu pas vu[^88] ceux qui sont sortis de leurs maisons par milliers, craignant la mort ? Allah leur a dit : « Mourez ! » Puis Il les a fait revivre. Allah est Plein de Faveurs pour les hommes, mais la plupart des hommes ne sont pas reconnaissants.
 
-[88] Cette expression ne veut pas dire littéralement : « N’as-tu pas perçu par la vue. » Elle signifie souvent « Ne t’est-il pas parvenu l’information que... »
+[^88]: Cette expression ne veut pas dire littéralement : « N’as-tu pas perçu par la vue. » Elle signifie souvent « Ne t’est-il pas parvenu l’information que... »
 
 # 251
 
@@ -1180,9 +1192,9 @@ Quiconque fait gracieusement un prêt à Allah, Il le lui multipliera un grand n
 
 # 253
 
-N’as-tu pas appris (ce qui s’est passé avec) les notables des Enfants d’Israël lorsque, après Moïse, ils dirent à un Prophète des leurs : « Désigne-nous un roi et nous combattrons dans le chemin d’Allah. »[89] Il dit : « Mais, si le combat vous était prescrit, qui sait si vous ne refuserez pas de combattre ? » Ils dirent alors : « Mais pourquoi nous ne combattrions pas dans le chemin d’Allah quand nous avons été chassés de nos maisons et privés de nos enfants ? » Puis quand le combat leur fut prescrit, ils se rétractèrent, hors un petit nombre parmi eux. Allah Connaît parfaitement les injustes.
+N’as-tu pas appris (ce qui s’est passé avec) les notables des Enfants d’Israël lorsque, après Moïse, ils dirent à un Prophète des leurs : « Désigne-nous un roi et nous combattrons dans le chemin d’Allah. »[^89] Il dit : « Mais, si le combat vous était prescrit, qui sait si vous ne refuserez pas de combattre ? » Ils dirent alors : « Mais pourquoi nous ne combattrions pas dans le chemin d’Allah quand nous avons été chassés de nos maisons et privés de nos enfants ? » Puis quand le combat leur fut prescrit, ils se rétractèrent, hors un petit nombre parmi eux. Allah Connaît parfaitement les injustes.
 
-[89] Nous employons indifféremment « dans le chemin d’Allah » ou « pour la cause d’Allah ». La première formule est plus littérale, la seconde est comprise plus facilement par le lecteur actuel.
+[^89]: Nous employons indifféremment « dans le chemin d’Allah » ou « pour la cause d’Allah ». La première formule est plus littérale, la seconde est comprise plus facilement par le lecteur actuel.
 
 # 254
 
@@ -1214,27 +1226,27 @@ Ces Messagers, nous en avons privilégié certains par rapport aux autres. Il en
 
 # 261
 
-Ô vous qui avez cru ! Donnez en aumône de ce que Nous vous avons octroyé avant qu’un jour vienne où il n’y aura point de rachat[90] ni d’amitié ni d’intercession. Et les mécréants, ce sont eux les injustes.
+Ô vous qui avez cru ! Donnez en aumône de ce que Nous vous avons octroyé avant qu’un jour vienne où il n’y aura point de rachat[^90] ni d’amitié ni d’intercession. Et les mécréants, ce sont eux les injustes.
 
-[90] Un jour où il ne sera plus possible de racheter les âmes, de les sauver par la rançon.
+[^90]: Un jour où il ne sera plus possible de racheter les âmes, de les sauver par la rançon.
 
 # 262
 
-Allah ! Point d’autre divinité que Lui, le Vivant, l’Éternel Veilleur sur Toute chose (Al-Qayyûm) ; aucun assoupissement ne Le prend ni aucun sommeil ; à Lui (appartient) ce qui est dans les cieux et sur la terre. Qui donc intercède auprès de Lui, sinon avec Sa permission ? Il Sait ce qui est devant eux et ce qui est derrière eux ; et ceux-ci n’embrassent rien de Sa science excepté ce qu’Il veut. Son Trône excède en largeur les cieux et la terre dont la garde et le maintien ne lui causent aucune peine. Car Il est le Très Haut,[91] le Très Grand.
+Allah ! Point d’autre divinité que Lui, le Vivant, l’Éternel Veilleur sur Toute chose (Al-Qayyûm) ; aucun assoupissement ne Le prend ni aucun sommeil ; à Lui (appartient) ce qui est dans les cieux et sur la terre. Qui donc intercède auprès de Lui, sinon avec Sa permission ? Il Sait ce qui est devant eux et ce qui est derrière eux ; et ceux-ci n’embrassent rien de Sa science excepté ce qu’Il veut. Son Trône excède en largeur les cieux et la terre dont la garde et le maintien ne lui causent aucune peine. Car Il est le Très Haut,[^91] le Très Grand.
 
-[91] Nous traduisons العلي par « le Très Haut » et nous traduisons الأعلى par « le Plus Haut » ou « l’Altissime », dont la dérivation suffixale exprime bien le superlatif.
+[^91]: Nous traduisons العلي par « le Très Haut » et nous traduisons الأعلى par « le Plus Haut » ou « l’Altissime », dont la dérivation suffixale exprime bien le superlatif.
 
 # 263
 
-Point de contrainte en religion ! C’est que la juste orientation se distingue clairement du fourvoiement. Quiconque mécroit à la Tyrannie du Rebelle[92] (Tâghût), et croit en Allah, aura saisi l’anse la plus solide, que rien ne saurait rompre. Allah Entend Tout et Il est Omniscient.
+Point de contrainte en religion ! C’est que la juste orientation se distingue clairement du fourvoiement. Quiconque mécroit à la Tyrannie du Rebelle[^92] (Tâghût), et croit en Allah, aura saisi l’anse la plus solide, que rien ne saurait rompre. Allah Entend Tout et Il est Omniscient.
 
-[92] Le Rebelle c’est Satan. Mais le mot « Tâghût » recouvre aussi toutes les divinités, les idoles et les tyrans de ce monde, dont on veut faire les émules et les égaux d’Allah. Le mot « Rebelle » pourrait donc s’entendre en tant que collectif, comme l’est d’ailleurs le mot « Tâghût » dont le sens pluriel sera plus évident au verset suivant.
+[^92]: Le Rebelle c’est Satan. Mais le mot « Tâghût » recouvre aussi toutes les divinités, les idoles et les tyrans de ce monde, dont on veut faire les émules et les égaux d’Allah. Le mot « Rebelle » pourrait donc s’entendre en tant que collectif, comme l’est d’ailleurs le mot « Tâghût » dont le sens pluriel sera plus évident au verset suivant.
 
 # 264
 
-Allah est le guide protecteur de ceux qui ont cru. Il les fait sortir des ténèbres vers la lumière. Ceux qui ont mécru ont pour guides protecteurs les Taghût [93] (leurs idoles tyranniques), qui les font sortir de la lumière vers les ténèbres. Ceux-là sont les hôtes du Feu, où ils séjourneront pour l’éternité.
+Allah est le guide protecteur de ceux qui ont cru. Il les fait sortir des ténèbres vers la lumière. Ceux qui ont mécru ont pour guides protecteurs les Taghût [^93] (leurs idoles tyranniques), qui les font sortir de la lumière vers les ténèbres. Ceux-là sont les hôtes du Feu, où ils séjourneront pour l’éternité.
 
-[93] Voir la note précédente.
+[^93]: Voir la note précédente.
 
 # 265
 
@@ -1242,15 +1254,15 @@ N’as-tu donc pas considéré l’histoire de celui qui, Allah l’ayant fait r
 
 # 266
 
-Ou comme celui qui, passant par un village désert et en désolation, dit : « Comment Allah saurait-t-Il faire revivre ce (village) après sa mort ? » Alors Allah le fit mourir pendant cent ans puis le ressuscita et lui dit : « Combien de temps es-tu resté ainsi ? » « Un jour, ou peut-être seulement une partie d’un jour. » « Certes non ! Tu es resté cent ans, dit Allah. Regarde un peu ta nourriture et ta boisson qui ne se sont point gâtées, et regarde aussi ton âne (mort). Cela, pour que Nous fassions de toi un Signe pour les hommes. Et regarde les ossements[94] comment Nous les assemblons (à nouveau) et comment Nous les revêtons de chair. » Se rendant à l’évidence, il dit : « Je sais qu’Allah est de Toute chose Infiniment Capable ! »
+Ou comme celui qui, passant par un village désert et en désolation, dit : « Comment Allah saurait-t-Il faire revivre ce (village) après sa mort ? » Alors Allah le fit mourir pendant cent ans puis le ressuscita et lui dit : « Combien de temps es-tu resté ainsi ? » « Un jour, ou peut-être seulement une partie d’un jour. » « Certes non ! Tu es resté cent ans, dit Allah. Regarde un peu ta nourriture et ta boisson qui ne se sont point gâtées, et regarde aussi ton âne (mort). Cela, pour que Nous fassions de toi un Signe pour les hommes. Et regarde les ossements[^94] comment Nous les assemblons (à nouveau) et comment Nous les revêtons de chair. » Se rendant à l’évidence, il dit : « Je sais qu’Allah est de Toute chose Infiniment Capable ! »
 
-[94] Les ossements de l’âne mort et décomposé.
+[^94]: Les ossements de l’âne mort et décomposé.
 
 # 267
 
-Et quand Abraham eut dit : « Seigneur, montre-moi comment Tu fais revivre[95] les morts », Allah répondit : « N’as-tu pas encore la foi ? » « Si ! dit Abraham, je veux seulement que mon cœur soit rasséréné. » « Prends alors quatre oiseaux, découpe-les, mets-en un morceau sur chaque montagne, puis appelle-les, ils voleront vers toi toutes ailes déployées. Et sache qu’Allah est Tout –Puissant et Sage. »
+Et quand Abraham eut dit : « Seigneur, montre-moi comment Tu fais revivre[^95] les morts », Allah répondit : « N’as-tu pas encore la foi ? » « Si ! dit Abraham, je veux seulement que mon cœur soit rasséréné. » « Prends alors quatre oiseaux, découpe-les, mets-en un morceau sur chaque montagne, puis appelle-les, ils voleront vers toi toutes ailes déployées. Et sache qu’Allah est Tout –Puissant et Sage. »
 
-[95] Nous traduisons toujours يحيي par « fait revivre » par fidélité au radical « vie » ; et nous laissons le verbe « ressusciter » pour la traduction du verbe بعث.
+[^95]: Nous traduisons toujours يحيي par « fait revivre » par fidélité au radical « vie » ; et nous laissons le verbe « ressusciter » pour la traduction du verbe بعث.
 
 # 268
 
@@ -1262,16 +1274,17 @@ Ceux qui dépensent leurs biens dans le chemin d’Allah puis ni ne s’en vante
 
 # 270
 
-Une parole agréable et un pardon valent bien mieux qu’une charité[96] suivie d’un tort. Allah Se passe de Toutes richesses et Il est Indulgent.[97]
+Une parole agréable et un pardon valent bien mieux qu’une charité[^96] suivie d’un tort. Allah Se passe de Toutes richesses et Il est Indulgent.[^97]
 
-[96] Le motصدقة signifie littéralement « aumône ». S’il nous arrive de le traduire par « charité », c’est par métonymie, puisqu’il se dit en français pour « donner ou demander l’aumône », « faire ou demander la charité ».
-[97] Nous traduisons حليم tantôt par « Indulgent », tantôt par « Longanime », suivant le contexte. Le deuxième adjectif ajoute à la notion d’indulgence, celle de la patience ; le longanime est celui qui fait montre d’une patience, d’une tolérance, dues à l’indulgence.
+[^96]: Le motصدقة signifie littéralement « aumône ». S’il nous arrive de le traduire par « charité », c’est par métonymie, puisqu’il se dit en français pour « donner ou demander l’aumône », « faire ou demander la charité ».
+
+[^97]: Nous traduisons حليم tantôt par « Indulgent », tantôt par « Longanime », suivant le contexte. Le deuxième adjectif ajoute à la notion d’indulgence, celle de la patience ; le longanime est celui qui fait montre d’une patience, d’une tolérance, dues à l’indulgence.
 
 # 271
 
-Ô vous qui avez cru ! N’annulez pas vos aumônes par le rappel ostentatoire (menn) ou par le tort (de la condescendance humiliante),[98] tel celui qui dépense son bien par exhibition (riya’) devant les gens, et qui ne croit pas en Allah et au Jour Dernier. Il est à l’image d’un rocher recouvert de terre : il suffit qu’une averse l’atteigne pour le mettre à nu. (Ces mécréants-là) ne pourront récolter aucun fruit de leurs œuvres, et Allah ne guide pas le peuple mécréant.
+Ô vous qui avez cru ! N’annulez pas vos aumônes par le rappel ostentatoire (menn) ou par le tort (de la condescendance humiliante),[^98] tel celui qui dépense son bien par exhibition (riya’) devant les gens, et qui ne croit pas en Allah et au Jour Dernier. Il est à l’image d’un rocher recouvert de terre : il suffit qu’une averse l’atteigne pour le mettre à nu. (Ces mécréants-là) ne pourront récolter aucun fruit de leurs œuvres, et Allah ne guide pas le peuple mécréant.
 
-[98] Deux choses annulent la validité d’une aumône : soit de la rappeler sans cesse à celui qui en a bénéficié (ostentation de charité), soit en prenant à son égard des airs condescendants qui le blessent et l’humilient.
+[^98]: Deux choses annulent la validité d’une aumône : soit de la rappeler sans cesse à celui qui en a bénéficié (ostentation de charité), soit en prenant à son égard des airs condescendants qui le blessent et l’humilient.
 
 # 272
 
@@ -1283,10 +1296,11 @@ Qui de vous voudrait avoir un jardin de palmiers et de vignes sous lesquels coul
 
 # 274
 
-Ô vous qui avez cru ! Dépensez du meilleur que vous ayez acquis et de ce que Nous avons fait sortir de la terre pour vous. Ne choisissez donc pas de dépenser de ce que vous possédez de plus vil et que vous-mêmes n’accepteriez de prendre qu’en fermant les yeux. Et sachez qu’Allah Se passe[99] de Toutes richesses et qu’Il est Digne de Toutes Louanges.[100]
+Ô vous qui avez cru ! Dépensez du meilleur que vous ayez acquis et de ce que Nous avons fait sortir de la terre pour vous. Ne choisissez donc pas de dépenser de ce que vous possédez de plus vil et que vous-mêmes n’accepteriez de prendre qu’en fermant les yeux. Et sachez qu’Allah Se passe[^99] de Toutes richesses et qu’Il est Digne de Toutes Louanges.[^100]
 
-[99] Nous traduisons souvent l’attribut divinغني par « Se passe de Toutes richesses » (ou de toutes choses). Le mot, en effet, ne signifie pas « Riche » mais « Qui n’a besoin de rien, d’aucune richesse » et, surtout, dans ce contexte, « Qui n’a pas besoin de l’aumône des hommes ».
-[100] Pour traduire la nuance superlative de l’attribut حميد nous avons ajouté l’adjectif indéfini « Toutes » avec une majuscule.
+[^99]: Nous traduisons souvent l’attribut divinغني par « Se passe de Toutes richesses » (ou de toutes choses). Le mot, en effet, ne signifie pas « Riche » mais « Qui n’a besoin de rien, d’aucune richesse » et, surtout, dans ce contexte, « Qui n’a pas besoin de l’aumône des hommes ».
+
+[^100]: Pour traduire la nuance superlative de l’attribut حميد nous avons ajouté l’adjectif indéfini « Toutes » avec une majuscule.
 
 # 275
 
@@ -1306,15 +1320,15 @@ Si vous faites ouvertement vos charités, c’est bien ; et si vous les gardez s
 
 # 279
 
-Il ne t’appartient pas de les guider (vers la juste voie), mais Allah guide qui Il veut. Tout ce que vous aurez dépensé comme biens, le sera pour vous-mêmes. Vous l’aurez dépensé pour être agréable à Allah.[101] Tout ce que vous aurez dépensé comme biens vous sera généreusement rendu. Et vous ne serez point lésés.
+Il ne t’appartient pas de les guider (vers la juste voie), mais Allah guide qui Il veut. Tout ce que vous aurez dépensé comme biens, le sera pour vous-mêmes. Vous l’aurez dépensé pour être agréable à Allah.[^101] Tout ce que vous aurez dépensé comme biens vous sera généreusement rendu. Et vous ne serez point lésés.
 
-[101] Littéralement : pour le « Visage » d’Allah (wajhillah).
+[^101]: Littéralement : pour le « Visage » d’Allah (wajhillah).
 
 # 280
 
-(Vos dépenses en aumône iront) aux pauvres qui ont été retenus sur le chemin d’Allah, incapables de sillonner librement le monde, et que l’ignorant croit riches parce que, par pudeur, (ils n’osent pas demander la charité). Tu les reconnaîtras à leurs signes particuliers : ils n’incommodent pas les gens en mendiant avec insistance. Et Tout ce que vous dépensez comme biens[102] Allah le Sait parfaitement.
+(Vos dépenses en aumône iront) aux pauvres qui ont été retenus sur le chemin d’Allah, incapables de sillonner librement le monde, et que l’ignorant croit riches parce que, par pudeur, (ils n’osent pas demander la charité). Tu les reconnaîtras à leurs signes particuliers : ils n’incommodent pas les gens en mendiant avec insistance. Et Tout ce que vous dépensez comme biens[^102] Allah le Sait parfaitement.
 
-[102] Il est toujours sous entendu par « dépenser de ses biens » que ces dépenses vont à l’aumône.
+[^102]: Il est toujours sous entendu par « dépenser de ses biens » que ces dépenses vont à l’aumône.
 
 # 281
 
@@ -1322,9 +1336,9 @@ Ceux qui dépensent leurs biens nuit et jour, discrètement et ouvertement, auro
 
 # 282
 
-Ceux qui tirent profit de l’usure[103] (ribâ), ne seront (rendus à la vie, le jour de la Résurrection) que comme celui que convulse l’emprise de Satan. Cela, parce qu’ils ont prétendu que la vente est identique à l’usure (ribâ). Mais Allah a permis la vente et a interdit l’usure (ribâ). Alors, celui qui a bien compris l’avertissement de son Seigneur et a arrêté (de pratiquer l’usure), gardera les gains déjà acquis et son cas dépendra d’Allah. Mais ceux qui récidivent, ce sont eux les hôtes du Feu, où ils séjourneront pour l’éternité.
+Ceux qui tirent profit de l’usure[^103] (ribâ), ne seront (rendus à la vie, le jour de la Résurrection) que comme celui que convulse l’emprise de Satan. Cela, parce qu’ils ont prétendu que la vente est identique à l’usure (ribâ). Mais Allah a permis la vente et a interdit l’usure (ribâ). Alors, celui qui a bien compris l’avertissement de son Seigneur et a arrêté (de pratiquer l’usure), gardera les gains déjà acquis et son cas dépendra d’Allah. Mais ceux qui récidivent, ce sont eux les hôtes du Feu, où ils séjourneront pour l’éternité.
 
-[103] L’intérêt usuraire (ribâ). Littéralement : « mangent de l’usure ».
+[^103]: L’intérêt usuraire (ribâ). Littéralement : « mangent de l’usure ».
 
 # 283
 
@@ -1344,9 +1358,9 @@ Si vous ne le faites pas, attendez-vous à une guerre de la part d’Allah et de
 
 # 287
 
-Si (l’un de vos débiteurs) est dans la gêne, accordez-lui un délai jusqu’à ce que sa situation s’améliore. Mais ce serait bien meilleur pour vous de renoncer (à votre droit) par charité,[104] si vous saviez !
+Si (l’un de vos débiteurs) est dans la gêne, accordez-lui un délai jusqu’à ce que sa situation s’améliore. Mais ce serait bien meilleur pour vous de renoncer (à votre droit) par charité,[^104] si vous saviez !
 
-[104] En lui épargnant de vous rembourser ce qu’il vous doit.
+[^104]: En lui épargnant de vous rembourser ce qu’il vous doit.
 
 # 288
 
@@ -1354,15 +1368,15 @@ Et craignez un jour où vous serez ramenés à Allah, puis où chaque âme sera 
 
 # 289
 
-Ô vous qui avez cru ! Lorsque vous contractez une dette à terme, qu’elle soit donc enregistrée par écrit. Et qu’un scripteur[105] la consigne entre vous avec équité. Aucun scripteur ne doit refuser d’écrire conformément à ce qu’Allah lui a enseigné. Qu’il écrive donc pendant que le débiteur dicte. Que ce dernier craigne Allah, son Seigneur, et ne réduise rien de sa dette. Si le débiteur est débile, faible ou incapable de dicter lui-même, que dicte alors son tuteur avec équité. Faites-vous assister par deux hommes parmi les vôtres comme témoins. Si vous n’en trouvez pas deux, que ce soit un homme et deux femmes parmi celles que vous admettez comme témoins afin que si l’une d’elles s’égare l’autre lui rappelle (les faits). Les témoins n’auront pas à refuser quand ils sont appelés à témoigner. Et n’hésitez pas à l’écrire (la dette), qu’elle soit petite ou grande, en en fixant bien le terme. Voilà qui est, aux yeux d’Allah, plus équitable, plus crédible comme témoignage, et propre à vous empêcher de douter. Mais s’il s’agit d’une marchandise présente, que vous gérez entre vous, alors vous n’aurez pas péché en omettant de la consigner par écrit. Cependant, appelez toujours des témoins pour vos transactions et qu’il ne soit fait de tort ni au scripteur ni au témoin. Si vous le faisiez, ce serait le signe de votre perfidie. Craignez Allah. Allah vous enseigne et Allah est Omniscient.
+Ô vous qui avez cru ! Lorsque vous contractez une dette à terme, qu’elle soit donc enregistrée par écrit. Et qu’un scripteur[^105] la consigne entre vous avec équité. Aucun scripteur ne doit refuser d’écrire conformément à ce qu’Allah lui a enseigné. Qu’il écrive donc pendant que le débiteur dicte. Que ce dernier craigne Allah, son Seigneur, et ne réduise rien de sa dette. Si le débiteur est débile, faible ou incapable de dicter lui-même, que dicte alors son tuteur avec équité. Faites-vous assister par deux hommes parmi les vôtres comme témoins. Si vous n’en trouvez pas deux, que ce soit un homme et deux femmes parmi celles que vous admettez comme témoins afin que si l’une d’elles s’égare l’autre lui rappelle (les faits). Les témoins n’auront pas à refuser quand ils sont appelés à témoigner. Et n’hésitez pas à l’écrire (la dette), qu’elle soit petite ou grande, en en fixant bien le terme. Voilà qui est, aux yeux d’Allah, plus équitable, plus crédible comme témoignage, et propre à vous empêcher de douter. Mais s’il s’agit d’une marchandise présente, que vous gérez entre vous, alors vous n’aurez pas péché en omettant de la consigner par écrit. Cependant, appelez toujours des témoins pour vos transactions et qu’il ne soit fait de tort ni au scripteur ni au témoin. Si vous le faisiez, ce serait le signe de votre perfidie. Craignez Allah. Allah vous enseigne et Allah est Omniscient.
 
-[105] Nous avons traduit كاتب par «scripteur » pour qu’il n’y ait pas d’ambiguïté en traduisant par « écrivain », ce dernier mot étant réservé aujourd’hui au domaine littéraire. Le mot « scripteur », quoique lui aussi forgé par les théoriciens de la littérature et dérivé de la même racine, admet qu’on lui donne cette extension dans ce contexte et nous a semblé plus moderne que « scribe ».
+[^105]: Nous avons traduit كاتب par «scripteur » pour qu’il n’y ait pas d’ambiguïté en traduisant par « écrivain », ce dernier mot étant réservé aujourd’hui au domaine littéraire. Le mot « scripteur », quoique lui aussi forgé par les théoriciens de la littérature et dérivé de la même racine, admet qu’on lui donne cette extension dans ce contexte et nous a semblé plus moderne que « scribe ».
 
 # 290
 
-Et si vous êtes en voyage et que vous ne trouviez pas de scripteur, un gage remis en main propre suffira. Et si vous vous tenez l’un l’autre en confiance, que celui à qui quelque chose a été confié le restitue ; qu’il craigne Allah, son Seigneur. Ne retenez pas[106] le témoignage : celui qui le retient a certes péché en son cœur. Et Allah Sait parfaitement ce que vous faites.
+Et si vous êtes en voyage et que vous ne trouviez pas de scripteur, un gage remis en main propre suffira. Et si vous vous tenez l’un l’autre en confiance, que celui à qui quelque chose a été confié le restitue ; qu’il craigne Allah, son Seigneur. Ne retenez pas[^106] le témoignage : celui qui le retient a certes péché en son cœur. Et Allah Sait parfaitement ce que vous faites.
 
-[106] Littéralement : « Ne cachez pas », mais il s’agit ici de ne pas se dérober au devoir de témoigner, lorsqu’on sait la vérité
+[^106]: Littéralement : « Ne cachez pas », mais il s’agit ici de ne pas se dérober au devoir de témoigner, lorsqu’on sait la vérité
 
 # 291
 
@@ -1486,9 +1500,9 @@ Tu fais entrer la nuit dans le jour, et Tu fais entrer le jour dans la nuit ; Tu
 
 # 321
 
-Que les croyants ne prennent pas les mécréants pour alliés en dehors des croyants ! Celui qui agira de la sorte ne peut se réclamer en rien d’Allah ; à moins que ce soit par crainte qu’ils ne vous nuisent. Allah vous avertit que c’est Lui qu’il faut craindre. Et c’est vers Allah que sera le devenir.[107]
+Que les croyants ne prennent pas les mécréants pour alliés en dehors des croyants ! Celui qui agira de la sorte ne peut se réclamer en rien d’Allah ; à moins que ce soit par crainte qu’ils ne vous nuisent. Allah vous avertit que c’est Lui qu’il faut craindre. Et c’est vers Allah que sera le devenir.[^107]
 
-[107] Nous traduisons toujours le mot مصير par « le devenir ». Le verbe trilitère صار signifie justement « devenir ». Substantivé, cet infinitif rend bien le sens de la « destinée en devenir », différent du sens de la « destinée » tout court, du « destin » ou du « sort », qui correspondent à d’autres notions dont القدر, القضاء, etc.
+[^107]: Nous traduisons toujours le mot مصير par « le devenir ». Le verbe trilitère صار signifie justement « devenir ». Substantivé, cet infinitif rend bien le sens de la « destinée en devenir », différent du sens de la « destinée » tout court, du « destin » ou du « sort », qui correspondent à d’autres notions dont القدر, القضاء, etc.
 
 # 322
 
@@ -1524,9 +1538,9 @@ Quand elle l’eut mise au monde, elle dit : « J’ai accouché d’une fille. 
 
 # 330
 
-Son Seigneur l’a alors accueillie[108] du meilleur accueil, l’a fait croître de la meilleure croissance et l’a confiée à la garde de Zacharie. Or chaque fois que Zacharie entrait dans le sanctuaire, il trouvait près d’elle de la nourriture. « Ô Marie ! D’où cela te vient-il ? » lui demandait-il. « Cela est d’Allah, car Allah dispense Ses biens à qui Il veut, sans compter ! »
+Son Seigneur l’a alors accueillie[^108] du meilleur accueil, l’a fait croître de la meilleure croissance et l’a confiée à la garde de Zacharie. Or chaque fois que Zacharie entrait dans le sanctuaire, il trouvait près d’elle de la nourriture. « Ô Marie ! D’où cela te vient-il ? » lui demandait-il. « Cela est d’Allah, car Allah dispense Ses biens à qui Il veut, sans compter ! »
 
-[108] Il s’agit de l’accueil de Marie qui venait de naître.
+[^108]: Il s’agit de l’accueil de Marie qui venait de naître.
 
 # 331
 
@@ -1534,21 +1548,21 @@ Zacharie invoqua alors son Seigneur en disant : « Seigneur ! Donne-moi une bonn
 
 # 332
 
-Les Anges l’appelèrent aussitôt, pendant qu’il était debout et priait dans le sanctuaire : « Allah t’annonce une heureuse nouvelle : la naissance prochaine de Yahia (Jean), qui viendra confirmer la Parole[109] d’Allah. Ce sera un homme d’une grande noblesse, chaste et un Prophète parmi les vertueux. »
+Les Anges l’appelèrent aussitôt, pendant qu’il était debout et priait dans le sanctuaire : « Allah t’annonce une heureuse nouvelle : la naissance prochaine de Yahia (Jean), qui viendra confirmer la Parole[^109] d’Allah. Ce sera un homme d’une grande noblesse, chaste et un Prophète parmi les vertueux. »
 
-[109] Nous n’avons pas traduit كلمة الله par le « Verbe d’Allah » mais par « la Parole d’Allah », bien qu’il s’agisse ici de l’ordre divin par lequel il commande « Sois ! » et la chose « est ». Dans ce contexte, il est fait allusion à l’ordre par lequel Jésus naquit sans père. Et de même Zacharie aura un enfant malgré son âge très avancé et la stérilité de sa femme.
+[^109]: Nous n’avons pas traduit كلمة الله par le « Verbe d’Allah » mais par « la Parole d’Allah », bien qu’il s’agisse ici de l’ordre divin par lequel il commande « Sois ! » et la chose « est ». Dans ce contexte, il est fait allusion à l’ordre par lequel Jésus naquit sans père. Et de même Zacharie aura un enfant malgré son âge très avancé et la stérilité de sa femme.
 
 # 333
 
-Il dit : « Seigneur ! Comment pourrait-il me naître un garçon alors que je suis atteint par le grand âge[110] et que ma femme est stérile ? » (Allah) répondit : « Ainsi en sera-t-il, Allah fait ce qu’Il veut. »
+Il dit : « Seigneur ! Comment pourrait-il me naître un garçon alors que je suis atteint par le grand âge[^110] et que ma femme est stérile ? » (Allah) répondit : « Ainsi en sera-t-il, Allah fait ce qu’Il veut. »
 
-[110] L’expression « atteindre le grand âge » signifie bien en français « atteindre le soir de sa vie », « le crépuscule de l’âge ». Nous trouvons que cette traduction sied mieux que « vieillesse » à la traduction du mot كبر .
+[^110]: L’expression « atteindre le grand âge » signifie bien en français « atteindre le soir de sa vie », « le crépuscule de l’âge ». Nous trouvons que cette traduction sied mieux que « vieillesse » à la traduction du mot كبر .
 
 # 334
 
-Il dit : « Seigneur ! Que me vienne un signe de Toi ! » – « Ton signe, répondit Allah, sera de t’abstenir de parler aux gens pendant trois jours, si ce n’est par gestes. Invoque abondamment ton Seigneur, rends-Lui gloire, matin et soir ! »[111]
+Il dit : « Seigneur ! Que me vienne un signe de Toi ! » – « Ton signe, répondit Allah, sera de t’abstenir de parler aux gens pendant trois jours, si ce n’est par gestes. Invoque abondamment ton Seigneur, rends-Lui gloire, matin et soir ! »[^111]
 
-[111] Littéralement, la traduction devrait être : « à la fin de la journée et au début de la journée ». Nous avons préféré traduire par l’expression toute faite « matin et soir », laquelle intervertit certes l’ordre des constituants dans l’expression d’origine, mais a au mois le mérite de rimer avec « gloire » sans trahir le signifié.
+[^111]: Littéralement, la traduction devrait être : « à la fin de la journée et au début de la journée ». Nous avons préféré traduire par l’expression toute faite « matin et soir », laquelle intervertit certes l’ordre des constituants dans l’expression d’origine, mais a au mois le mérite de rimer avec « gloire » sans trahir le signifié.
 
 # 335
 
@@ -1628,9 +1642,9 @@ La vérité émane de ton Seigneur, alors ne sois pas de ceux qui doutent.
 
 # 354
 
-À ceux qui disputeront avec toi à son sujet,[112] après ce que tu en as appris, tu diras : « Allons appeler nos fils et les vôtres, nos femmes et les vôtres, nous-mêmes et vous-mêmes, puis prions pour que la malédiction d’Allah tombe sur les menteurs. »
+À ceux qui disputeront avec toi à son sujet,[^112] après ce que tu en as appris, tu diras : « Allons appeler nos fils et les vôtres, nos femmes et les vôtres, nous-mêmes et vous-mêmes, puis prions pour que la malédiction d’Allah tombe sur les menteurs. »
 
-[112] Au sujet de Jésus.
+[^112]: Au sujet de Jésus.
 
 # 355
 
@@ -1654,9 +1668,9 @@ Voilà donc que vous avez disputé jusque-là de (questions) dont vous aviez que
 
 # 360
 
-Abraham ne fut ni juif ni chrétien. Il fut un authentique Soumis.[113] Et il ne fut point du nombre des associâtres.
+Abraham ne fut ni juif ni chrétien. Il fut un authentique Soumis.[^113] Et il ne fut point du nombre des associâtres.
 
-[113] Cela revient à dire qu’il fut Musulman avant la lettre. Le mot employé dans le verset est bien « Musulman » مسلم, mais nous employons le mot « Soumis » (qui du reste recouvre l’un des sens de « Musulman ») pour éviter de commettre un anachronisme.
+[^113]: Cela revient à dire qu’il fut Musulman avant la lettre. Le mot employé dans le verset est bien « Musulman » مسلم, mais nous employons le mot « Soumis » (qui du reste recouvre l’un des sens de « Musulman ») pour éviter de commettre un anachronisme.
 
 # 361
 
@@ -1676,9 +1690,9 @@ Une partie des gens du Livre aurait souhaité vous égarer. Or ils n’égarent 
 
 # 365
 
-Une partie des gens du Livre dit : « Croyez, en début de journée, à ce qui a été révélé à ceux qui ont eu la foi, et mécroyez vers sa fin, peut-être alors reviendront-ils.[114]
+Une partie des gens du Livre dit : « Croyez, en début de journée, à ce qui a été révélé à ceux qui ont eu la foi, et mécroyez vers sa fin, peut-être alors reviendront-ils.[^114]
 
-[114] Peut-être abjureront-ils cette nouvelle religion et retourneront-ils à leurs anciennes croyances.
+[^114]: Peut-être abjureront-ils cette nouvelle religion et retourneront-ils à leurs anciennes croyances.
 
 # 366
 
@@ -1690,9 +1704,9 @@ Il réserve Sa miséricorde exclusivement à qui Il veut. Car Allah est le Déte
 
 # 368
 
-Il en est qui, parmi les gens du Livre, si tu leur confies un quintal (d’or)[115] te le restitueront, et qui, en revanche, si tu leur confies un (seul) dinar ne te le restitueront que si tu n’arrêtes pas de le leur réclamer. Car ils se disent : « Nous n’aurons aucun reproche à nous faire à propos (des biens) des illettrés. » C’est qu’ils débitent au sujet d’Allah des mensonges, et ils le savent bien.
+Il en est qui, parmi les gens du Livre, si tu leur confies un quintal (d’or)[^115] te le restitueront, et qui, en revanche, si tu leur confies un (seul) dinar ne te le restitueront que si tu n’arrêtes pas de le leur réclamer. Car ils se disent : « Nous n’aurons aucun reproche à nous faire à propos (des biens) des illettrés. » C’est qu’ils débitent au sujet d’Allah des mensonges, et ils le savent bien.
 
-[115] Traduction du mot arabe قنطار, lequel a quelque rapport étymologique avec le mot « quintal ».
+[^115]: Traduction du mot arabe قنطار, lequel a quelque rapport étymologique avec le mot « quintal ».
 
 # 369
 
@@ -1728,9 +1742,9 @@ Désirent-ils donc (avoir) une autre religion que celle d’Allah, cependant que
 
 # 377
 
-Dis : « Nous avons cru en Allah, en ce qui nous fut révélé et révélé à Abraham, Ismaël, Isaac, Jacob et les Tribus,[116] et en ce qui fut donné à Moïse, Jésus et les Prophètes de la part de leur Seigneur. Nous ne faisons entre eux aucune distinction. Et à Lui nous sommes Soumis. »
+Dis : « Nous avons cru en Allah, en ce qui nous fut révélé et révélé à Abraham, Ismaël, Isaac, Jacob et les Tribus,[^116] et en ce qui fut donné à Moïse, Jésus et les Prophètes de la part de leur Seigneur. Nous ne faisons entre eux aucune distinction. Et à Lui nous sommes Soumis. »
 
-[116] Tribus des douze fils de Jacob.
+[^116]: Tribus des douze fils de Jacob.
 
 # 378
 
@@ -1774,21 +1788,21 @@ Quiconque, après cela, débitera sur le compte d’Allah des mensonges, sera du
 
 # 388
 
-Dis : « Allah dit vrai. Suivez donc la religion d’Abraham, authentique Soumis.[117] Et il ne fut point du nombre des associâtres. »
+Dis : « Allah dit vrai. Suivez donc la religion d’Abraham, authentique Soumis.[^117] Et il ne fut point du nombre des associâtres. »
 
-[117] Musulman, avant la lettre. Mais, en définitive, l’Islam n’est-il pas la religion de tous les temps ? L’entière soumission à Allah, qui est le premier sens du mot اسلام est bien la religion de la « nature première » (la fitra). Voir la note 113.
+[^117]: Musulman, avant la lettre. Mais, en définitive, l’Islam n’est-il pas la religion de tous les temps ? L’entière soumission à Allah, qui est le premier sens du mot اسلام est bien la religion de la « nature première » (la fitra). Voir la note 113.
 
 # 389
 
-La première Maison édifiée à l’intention des hommes est celle de Bakka (La Mecque), bénie et érigée en Orient Absolu[118] pour tout l’Univers.
+La première Maison édifiée à l’intention des hommes est celle de Bakka (La Mecque), bénie et érigée en Orient Absolu[^118] pour tout l’Univers.
 
-[118] Nous trouvons très heureuse cette traduction du mot hudâ, ailleurs intraductible. Car il s’agit ici de la Kaâba, vers laquelle se dirigent tous les Musulmans, où qu’ils soient et d’où qu’ils viennent. L’expression « orient absolu » est parfois utilisée en français pour signifier, par extension, le point cardinal vers lequel se tourne tout le monde (par analogie avec le sens premier de « point d’où se lève le soleil »). Quant au sens de « bonne direction » (hudâ), il est dans le fait que le mot « orient » (on a d’ailleurs tendance à l’oublier) est le radical du verbe « orienter ». Or, par définition, on oriente toujours vers la bonne direction.
+[^118]: Nous trouvons très heureuse cette traduction du mot hudâ, ailleurs intraductible. Car il s’agit ici de la Kaâba, vers laquelle se dirigent tous les Musulmans, où qu’ils soient et d’où qu’ils viennent. L’expression « orient absolu » est parfois utilisée en français pour signifier, par extension, le point cardinal vers lequel se tourne tout le monde (par analogie avec le sens premier de « point d’où se lève le soleil »). Quant au sens de « bonne direction » (hudâ), il est dans le fait que le mot « orient » (on a d’ailleurs tendance à l’oublier) est le radical du verbe « orienter ». Or, par définition, on oriente toujours vers la bonne direction.
 
 # 390
 
-S’y trouvent les Signes évidents de la station[119] d’Abraham ; quiconque y entre y sera en sécurité. Les hommes qui en ont les moyens ont le devoir, envers Allah, de se rendre à la Maison Sacrée en pèlerinage. Ceux qui mécroient (se doivent de savoir qu’) Allah Se passe de Toutes les créatures de l’Univers.
+S’y trouvent les Signes évidents de la station[^119] d’Abraham ; quiconque y entre y sera en sécurité. Les hommes qui en ont les moyens ont le devoir, envers Allah, de se rendre à la Maison Sacrée en pèlerinage. Ceux qui mécroient (se doivent de savoir qu’) Allah Se passe de Toutes les créatures de l’Univers.
 
-[119] « Station » debout pour prier, mais aussi « station » au sens de : lieu de sa prière. Et c’est aussi un lieu précis à l’intérieur du haram de La Mecque.
+[^119]: « Station » debout pour prier, mais aussi « station » au sens de : lieu de sa prière. Et c’est aussi un lieu précis à l’intérieur du haram de La Mecque.
 
 # 391
 
@@ -1808,9 +1822,9 @@ Et comment mécroyez-vous quand les versets d’Allah vous sont récités, et qu
 
 # 395
 
-Ô vous qui avez cru ! Craignez Allah comme il convient de Le craindre, et ne mourez qu’entièrement Soumis.[120]
+Ô vous qui avez cru ! Craignez Allah comme il convient de Le craindre, et ne mourez qu’entièrement Soumis.[^120]
 
-[120] Qu’en vrais Musulmans. Voir les notes 113 et 117.
+[^120]: Qu’en vrais Musulmans. Voir les notes 113 et 117.
 
 # 396
 
@@ -1846,9 +1860,9 @@ Vous êtes la meilleure communauté qui ait jamais surgi pour les hommes. Vous p
 
 # 404
 
-Ils ne vous nuiront que très peu.[121] Et s’ils vous combattent, ils tourneront vite les talons et ne seront point secourus.
+Ils ne vous nuiront que très peu.[^121] Et s’ils vous combattent, ils tourneront vite les talons et ne seront point secourus.
 
-[121] Par leurs médisances.
+[^121]: Par leurs médisances.
 
 # 405
 
@@ -1896,9 +1910,9 @@ Deux de vos groupes alors faillirent abandonner, cependant qu’Allah était leu
 
 # 416
 
-Allah vous avait bien fait triompher à Badr[122]quand vous étiez bien inférieurs. Alors, craignez Allah, peut-être serez-vous reconnaissants.
+Allah vous avait bien fait triompher à Badr[^122]quand vous étiez bien inférieurs. Alors, craignez Allah, peut-être serez-vous reconnaissants.
 
-[122] L’emploi du plus-que-parfait se justifie ici par l’antériorité de la bataille de Badr par rapport à celle de ’Uhud à laquelle il est fait allusion dans le verset précédent.
+[^122]: L’emploi du plus-que-parfait se justifie ici par l’antériorité de la bataille de Badr par rapport à celle de ’Uhud à laquelle il est fait allusion dans le verset précédent.
 
 # 417
 
@@ -1918,9 +1932,9 @@ Allah ne le fit que pour (vous annoncer) une heureuse nouvelle, afin que vos cœ
 
 # 421
 
-Tu n’as pas à te prononcer en quoi que ce soit dans l’ordre (d’Allah).[123] Ou Il accepte leur repentir, ou Il les soumet au supplice, car ils sont injustes.
+Tu n’as pas à te prononcer en quoi que ce soit dans l’ordre (d’Allah).[^123] Ou Il accepte leur repentir, ou Il les soumet au supplice, car ils sont injustes.
 
-[123] La parole est ici adressée au Prophète Muhammad (paix et bénédiction d’Allah sur lui). Ce n’est pas à lui de décider du sort des mécréants vainqueurs lors de la bataille de ’Uhud. Allah décidera de leur pardon ou de leur châtiment.
+[^123]: La parole est ici adressée au Prophète Muhammad (paix et bénédiction d’Allah sur lui). Ce n’est pas à lui de décider du sort des mécréants vainqueurs lors de la bataille de ’Uhud. Allah décidera de leur pardon ou de leur châtiment.
 
 # 422
 
@@ -1956,9 +1970,9 @@ Ceux-là, leur rétribution sera un pardon de leur Seigneur et des jardins sous 
 
 # 430
 
-Beaucoup d’événements ont été subis par les générations qui vous ont précédés. Alors, parcourez la terre et voyez quel fut le sort de ceux qui démentaient.[124]
+Beaucoup d’événements ont été subis par les générations qui vous ont précédés. Alors, parcourez la terre et voyez quel fut le sort de ceux qui démentaient.[^124]
 
-[124] Entendons : ceux qui essaient de démentir le message de vérité, le message divin, confié aux Prophètes.
+[^124]: Entendons : ceux qui essaient de démentir le message de vérité, le message divin, confié aux Prophètes.
 
 # 431
 
@@ -1990,9 +2004,9 @@ Muhammad n’est qu’un Messager que d’autres Messagers ont précédé. S’i
 
 # 438
 
-Nul ne meurt si ce n’est par la permission d’Allah et selon un délai écrit.[125] Et quiconque voudrait la récompense de ce bas monde, Nous lui en accorderons (une part), et quiconque voudrait la récompense de l’autre monde, Nous lui en accorderons (une part). Et Nous récompenserons les reconnaissants.
+Nul ne meurt si ce n’est par la permission d’Allah et selon un délai écrit.[^125] Et quiconque voudrait la récompense de ce bas monde, Nous lui en accorderons (une part), et quiconque voudrait la récompense de l’autre monde, Nous lui en accorderons (une part). Et Nous récompenserons les reconnaissants.
 
-[125] « Écrit » au sens de « prédestiné ».
+[^125]: « Écrit » au sens de « prédestiné ».
 
 # 439
 
@@ -2020,10 +2034,11 @@ Nous jetterons l’effroi dans les cœurs de ceux qui ont mécru, eux qui ont as
 
 # 445
 
-Allah a tenu Sa promesse envers vous lorsque, par Sa permission, vous les tailliez par vos épées,[126] jusqu’au moment où vous avez faibli, vous avez disputé les ordres, puis vous les avez carrément enfreints, alors qu’Il vous avait laissés entrevoir ce que vous aimiez.[127] Parmi vous, il en était qui voulaient ce bas monde, et il en était qui voulaient l’autre monde. Puis, pour vous mettre à l’épreuve, Il vous a fait fuir devant eux. Mais Il vous a déjà pardonné, car Allah est Plein de Faveurs pour les croyants.
+Allah a tenu Sa promesse envers vous lorsque, par Sa permission, vous les tailliez par vos épées,[^126] jusqu’au moment où vous avez faibli, vous avez disputé les ordres, puis vous les avez carrément enfreints, alors qu’Il vous avait laissés entrevoir ce que vous aimiez.[^127] Parmi vous, il en était qui voulaient ce bas monde, et il en était qui voulaient l’autre monde. Puis, pour vous mettre à l’épreuve, Il vous a fait fuir devant eux. Mais Il vous a déjà pardonné, car Allah est Plein de Faveurs pour les croyants.
 
-[126] Vous les frappiez d’estoc et de taille avec vos épées.
-[127] Gagner la bataille.
+[^126]: Vous les frappiez d’estoc et de taille avec vos épées.
+
+[^127]: Gagner la bataille.
 
 # 446
 
@@ -2031,9 +2046,9 @@ Allah a tenu Sa promesse envers vous lorsque, par Sa permission, vous les tailli
 
 # 447
 
-Puis Il fit descendre sur vous, après l’affliction, une quiétude et un sommeil enveloppant une partie d’entre vous, cependant qu’une autre partie, se préoccupant d’elle-même, nourrissait d’Allah des opinions autres que la vérité, (rappelant) celles du temps de l’Ignorance (antéislamique : Jahiliyya). Ceux-là disaient : « Mais quelle part avons-nous donc prise à ce commandement ? » Dis : « Le commandement tout entier revient à Allah. » Ils dissimulent au fond d’eux-mêmes ce qu’ils ne te montrent pas. Ils disent : « Si nous avions pris part au commandement, nous ne nous serions pas fait tuer ici même. » Dis : « Même si vous étiez restés dans vos maisons, ceux pour qui il était écrit[128] de mourir, seraient quand même sortis vers leurs dernières demeures. Tout cela, pour qu’Allah éprouve ce qu’il y a dans vos poitrines et purifie ce qu’il y a dans vos cœurs. Car Allah Sait parfaitement ce qu’il y a dans les poitrines.
+Puis Il fit descendre sur vous, après l’affliction, une quiétude et un sommeil enveloppant une partie d’entre vous, cependant qu’une autre partie, se préoccupant d’elle-même, nourrissait d’Allah des opinions autres que la vérité, (rappelant) celles du temps de l’Ignorance (antéislamique : Jahiliyya). Ceux-là disaient : « Mais quelle part avons-nous donc prise à ce commandement ? » Dis : « Le commandement tout entier revient à Allah. » Ils dissimulent au fond d’eux-mêmes ce qu’ils ne te montrent pas. Ils disent : « Si nous avions pris part au commandement, nous ne nous serions pas fait tuer ici même. » Dis : « Même si vous étiez restés dans vos maisons, ceux pour qui il était écrit[^128] de mourir, seraient quand même sortis vers leurs dernières demeures. Tout cela, pour qu’Allah éprouve ce qu’il y a dans vos poitrines et purifie ce qu’il y a dans vos cœurs. Car Allah Sait parfaitement ce qu’il y a dans les poitrines.
 
-[128] C’est-à-dire décidé par ordre et décret divins.
+[^128]: C’est-à-dire décidé par ordre et décret divins.
 
 # 448
 
@@ -2061,9 +2076,9 @@ Si Allah vous porte secours, nul ne pourra vous vaincre. Et s’Il vous délaiss
 
 # 454
 
-Un Prophète n’a pas à détourner une partie du butin à son profit. Quiconque aura commis pareil détournement viendra le Jour de la Résurrection avec le butin détourné. Alors, toute âme sera rétribuée à la mesure de ses œuvres acquises. Et ils ne seront point lésés.[129]
+Un Prophète n’a pas à détourner une partie du butin à son profit. Quiconque aura commis pareil détournement viendra le Jour de la Résurrection avec le butin détourné. Alors, toute âme sera rétribuée à la mesure de ses œuvres acquises. Et ils ne seront point lésés.[^129]
 
-[129] Ce passage constant du singulier au pluriel est très fréquent dans le texte coranique. Il procède de la rhétorique du Noble Coran, infiniment expressive et à nulle autre pareille. En termes ordinaires, le dernier segment serait traduit par : « Personne ne sera lésé. »
+[^129]: Ce passage constant du singulier au pluriel est très fréquent dans le texte coranique. Il procède de la rhétorique du Noble Coran, infiniment expressive et à nulle autre pareille. En termes ordinaires, le dernier segment serait traduit par : « Personne ne sera lésé. »
 
 # 455
 
@@ -2095,9 +2110,9 @@ Ce sont ceux-là même qui, restés chez eux, dirent à leurs frères : « S’i
 
 # 462
 
-Ne compte pas comme morts ceux qui ont été tués pour la cause d’Allah, non ils sont vivants et subsistants[130] auprès de leur Seigneur,
+Ne compte pas comme morts ceux qui ont été tués pour la cause d’Allah, non ils sont vivants et subsistants[^130] auprès de leur Seigneur,
 
-[130] « Vivants et subsistants » : le deuxième adjectif implique que ces martyrs reçoivent, de la part d’Allah, leur subsistance dans l’au-delà : أحياء يرزقون.
+[^130]: « Vivants et subsistants » : le deuxième adjectif implique que ces martyrs reçoivent, de la part d’Allah, leur subsistance dans l’au-delà : أحياء يرزقون.
 
 # 463
 
@@ -2173,9 +2188,9 @@ Et (souviens-toi) quand Allah fit prendre sur ceux qui avaient reçu le Livre l�
 
 # 481
 
-Ne compte pas ceux qui jubilent de ce qu’ils ont accompli (comme œuvres), ou qui aiment à être loués de ce qu’ils n’ont pas fait, ne les compte donc pas à l’abri du supplice, car ils auront un très douloureux[131] supplice.
+Ne compte pas ceux qui jubilent de ce qu’ils ont accompli (comme œuvres), ou qui aiment à être loués de ce qu’ils n’ont pas fait, ne les compte donc pas à l’abri du supplice, car ils auront un très douloureux[^131] supplice.
 
-[131] Nous traduisons عذاب أليم tantôt par « très douloureux supplice », tantôt par « terrible supplice ».
+[^131]: Nous traduisons عذاب أليم tantôt par « très douloureux supplice », tantôt par « terrible supplice ».
 
 # 482
 
@@ -2235,9 +2250,9 @@ Et restituez aux orphelins leurs biens. Ne substituez pas au bon (de leurs biens
 
 # 496
 
-Et si vous avez peur de ne pas être justes envers les orphelins,[132] épousez alors ce qu’il vous plaira comme femmes, au nombre de deux, trois ou quatre. Mais si vous avez peur encore de ne pas être justes, alors n’en prenez qu’une seule, ou alors des esclaves en votre possession. Cela vous rapprochera d’autant plus de l’équité.
+Et si vous avez peur de ne pas être justes envers les orphelins,[^132] épousez alors ce qu’il vous plaira comme femmes, au nombre de deux, trois ou quatre. Mais si vous avez peur encore de ne pas être justes, alors n’en prenez qu’une seule, ou alors des esclaves en votre possession. Cela vous rapprochera d’autant plus de l’équité.
 
-[132] Entendons : lorsque vous avez l’intention d’épouser une femme orpheline.
+[^132]: Entendons : lorsque vous avez l’intention d’épouser une femme orpheline.
 
 # 497
 
@@ -2245,15 +2260,15 @@ Remettez aux épouses leur dot (mahr) de bon cœur. Et si, de leur plein gré, e
 
 # 498
 
-Et ne cédez pas aux incapables[133] les biens qu’Allah vous a donnés comme moyen de subsistance. Prenez-en de quoi les nourrir et les vêtir et tenez-leur des propos convenables.
+Et ne cédez pas aux incapables[^133] les biens qu’Allah vous a donnés comme moyen de subsistance. Prenez-en de quoi les nourrir et les vêtir et tenez-leur des propos convenables.
 
-[133] C’est-à-dire ceux qui font preuve d’une quelconque incapacité à gérer ce genre de responsabilité. Il peut donc s’agir des débiles mentaux, des ignares, des personnes légères et irresponsables, des mineurs, etc.
+[^133]: C’est-à-dire ceux qui font preuve d’une quelconque incapacité à gérer ce genre de responsabilité. Il peut donc s’agir des débiles mentaux, des ignares, des personnes légères et irresponsables, des mineurs, etc.
 
 # 499
 
-Et mettez à l’épreuve les orphelins (pour vous assurer de leur maturité) jusqu’à ce qu’ils soient en âge de se marier. Alors, s’ils font preuve de maturité, vous leur remettrez leurs biens. Ne profitez-en pas en les dilapidant avec empressement avant que (les orphelins) ne grandissent. [134] Que celui qui est riche s’abstienne donc d’en profiter ; et que celui qui est pauvre en prenne avec modération. Et quand vous leur remettez leurs biens, faites-le devant témoins. Et Allah suffit pour tenir les comptes.
+Et mettez à l’épreuve les orphelins (pour vous assurer de leur maturité) jusqu’à ce qu’ils soient en âge de se marier. Alors, s’ils font preuve de maturité, vous leur remettrez leurs biens. Ne profitez-en pas en les dilapidant avec empressement avant que (les orphelins) ne grandissent. [^134] Que celui qui est riche s’abstienne donc d’en profiter ; et que celui qui est pauvre en prenne avec modération. Et quand vous leur remettez leurs biens, faites-le devant témoins. Et Allah suffit pour tenir les comptes.
 
-[134] Certains, en effet, s’empressent de dilapider les biens des orphelins avant que ces derniers n’atteignent l’âge de maturité
+[^134]: Certains, en effet, s’empressent de dilapider les biens des orphelins avant que ces derniers n’atteignent l’âge de maturité
 
 # 500
 
@@ -2297,9 +2312,9 @@ Si deux personnes d’entre vous la commettent (la fornication), il faudra sévi
 
 # 510
 
-Allah n’accepte le repentir que de ceux qui font le mal par ignorance puis se repentent rapidement.[135] C’est de ceux-là qu’Allah agrée le repentir. Et Allah est Omniscient et Sage.
+Allah n’accepte le repentir que de ceux qui font le mal par ignorance puis se repentent rapidement.[^135] C’est de ceux-là qu’Allah agrée le repentir. Et Allah est Omniscient et Sage.
 
-[135] Avant que la mort ne les rattrape.
+[^135]: Avant que la mort ne les rattrape.
 
 # 511
 
@@ -2311,9 +2326,9 @@ Et le repentir n’est pas accepté de ceux qui font le mal jusqu’à ce que la
 
 # 513
 
-Si vous voulez remplacer une épouse par une autre, et que vous ayez déjà donné un qintâr[136] à l’une d’elles (la première), n’en reprenez rien. Le reprendriez-vous indûment et en péchant si manifestement ?
+Si vous voulez remplacer une épouse par une autre, et que vous ayez déjà donné un qintâr[^136] à l’une d’elles (la première), n’en reprenez rien. Le reprendriez-vous indûment et en péchant si manifestement ?
 
-[136] Ce quantifiant arabe, qui rappelle le mot français « quintal », signifie « mille pièces d’or ».
+[^136]: Ce quantifiant arabe, qui rappelle le mot français « quintal », signifie « mille pièces d’or ».
 
 # 514
 
@@ -2329,9 +2344,9 @@ Vous sont défendues vos mères, vos filles, vos sœurs, vos tantes paternelles 
 
 # 517
 
-(Il vous est également défendu d’épouser) les femmes déjà mariées, sauf si elles sont vos captives de guerre.[137] Tel est l’ordre qu’Allah a décrété pour vous. En dehors des interdictions que voilà, il vous est licite, disposant de biens et de moyens, de rechercher (des épouses) pour vous unir à elles d’une façon légitime et non en concubins. À celles dont vous jouissez (dans la consommation du mariage), vous verserez une dot (mahr) obligatoire. Et il n’y aura pas de grief à vous faire si, d’un commun accord, vous vous entendez plus tard sur (une éventuelle révision de) la dot. Allah est, certes, Omniscient et Sage.
+(Il vous est également défendu d’épouser) les femmes déjà mariées, sauf si elles sont vos captives de guerre.[^137] Tel est l’ordre qu’Allah a décrété pour vous. En dehors des interdictions que voilà, il vous est licite, disposant de biens et de moyens, de rechercher (des épouses) pour vous unir à elles d’une façon légitime et non en concubins. À celles dont vous jouissez (dans la consommation du mariage), vous verserez une dot (mahr) obligatoire. Et il n’y aura pas de grief à vous faire si, d’un commun accord, vous vous entendez plus tard sur (une éventuelle révision de) la dot. Allah est, certes, Omniscient et Sage.
 
-[137] Il est licite de les épouser même si, avant l’état de guerre, elles étaient mariées. Cependant, il n’est permis de consommer avec elles le mariage qu’après le retour de leur cycle menstruel. Et si elles n’ont pas eu leurs règles, ce qui veut dire qu’elles sont enceintes, le mariage n’est consommé qu’après l’accouchement.
+[^137]: Il est licite de les épouser même si, avant l’état de guerre, elles étaient mariées. Cependant, il n’est permis de consommer avec elles le mariage qu’après le retour de leur cycle menstruel. Et si elles n’ont pas eu leurs règles, ce qui veut dire qu’elles sont enceintes, le mariage n’est consommé qu’après l’accouchement.
 
 # 518
 
@@ -2347,21 +2362,21 @@ Et Allah veut accepter votre repentir, mais ceux qui suivent leurs tentations vo
 
 # 521
 
-Allah veut alléger vos charges,[138] car l’homme a été créé faible.
+Allah veut alléger vos charges,[^138] car l’homme a été créé faible.
 
-[138] Allah entend alléger certaines obligations beaucoup trop lourdes pour les hommes, créatures faibles.
+[^138]: Allah entend alléger certaines obligations beaucoup trop lourdes pour les hommes, créatures faibles.
 
 # 522
 
-Ô vous qui avez cru ! Ne vous dépossédez pas de vos biens les uns les autres par des moyens déloyaux. Pratiquez plutôt un commerce licite approuvé mutuellement. Et ne vous tuez pas,[139] car Allah est, pour vous, Tout Miséricordieux.
+Ô vous qui avez cru ! Ne vous dépossédez pas de vos biens les uns les autres par des moyens déloyaux. Pratiquez plutôt un commerce licite approuvé mutuellement. Et ne vous tuez pas,[^139] car Allah est, pour vous, Tout Miséricordieux.
 
-[139] Ne courez pas à votre propre perte en désobéissant aux prescriptions d’Allah.
+[^139]: Ne courez pas à votre propre perte en désobéissant aux prescriptions d’Allah.
 
 # 523
 
-Et quiconque le commettra,[140] par abus et iniquité, Nous le vouerons au Feu (où il se consumera), ce qui est, pour Allah, chose vraiment aisée.
+Et quiconque le commettra,[^140] par abus et iniquité, Nous le vouerons au Feu (où il se consumera), ce qui est, pour Allah, chose vraiment aisée.
 
-[140] Quiconque commettra un tel péché.
+[^140]: Quiconque commettra un tel péché.
 
 # 524
 
@@ -2369,9 +2384,9 @@ Si vous évitez les péchés majeurs qui vous sont défendus, Nous effacerons vo
 
 # 525
 
-Ne soyez pas envieux de ce par quoi Allah a favorisé certains d’entre vous par rapport aux autres. Aux hommes revient une part de ce qu’ils auront acquis (comme actions), et aux femmes revient une part de ce qu’elles auront acquis (comme actions). Et demandez à Allah de Ses faveurs, car Allah Sait parfaitement Toute chose.[141]
+Ne soyez pas envieux de ce par quoi Allah a favorisé certains d’entre vous par rapport aux autres. Aux hommes revient une part de ce qu’ils auront acquis (comme actions), et aux femmes revient une part de ce qu’elles auront acquis (comme actions). Et demandez à Allah de Ses faveurs, car Allah Sait parfaitement Toute chose.[^141]
 
-[141] Nous traduisons toujours عليم par « Omniscient » mais nous traduisons souvent بكل شيء عليم par « Allah Sait parfaitement Toute chose». De même, nous traduisons قدير par « Omnipotent », et nous traduisons كلّ شيء قدير علىpar « de Toute chose Infiniment Capable ».
+[^141]: Nous traduisons toujours عليم par « Omniscient » mais nous traduisons souvent بكل شيء عليم par « Allah Sait parfaitement Toute chose». De même, nous traduisons قدير par « Omnipotent », et nous traduisons كلّ شيء قدير علىpar « de Toute chose Infiniment Capable ».
 
 # 526
 
@@ -2379,9 +2394,9 @@ Nous avons, pour chacun, établi des héritiers ayant droit à ce que laissent l
 
 # 527
 
-Les hommes ont sur les femmes un droit de regard, de par les avantages dont Allah a favorisé ceux-ci par rapport à celles-là, et parce qu’ils sont tenus de dépenser de leurs biens. Les femmes vertueuses sont obéissantes, qui protègent jalousement ce qui leur est confié par leurs maris absents, grâce à la protection d’Allah. Quant à celles dont vous craignez l’indiscipline, sermonnez-les, désertez leurs lits et, (s’il le faut), corrigez-les. [142] Si elles vous obéissent, finalement, ne tentez plus de leur nuire, car Allah est Très Haut et Très Grand.
+Les hommes ont sur les femmes un droit de regard, de par les avantages dont Allah a favorisé ceux-ci par rapport à celles-là, et parce qu’ils sont tenus de dépenser de leurs biens. Les femmes vertueuses sont obéissantes, qui protègent jalousement ce qui leur est confié par leurs maris absents, grâce à la protection d’Allah. Quant à celles dont vous craignez l’indiscipline, sermonnez-les, désertez leurs lits et, (s’il le faut), corrigez-les. [^142] Si elles vous obéissent, finalement, ne tentez plus de leur nuire, car Allah est Très Haut et Très Grand.
 
-[142] Ce sont les hommes qui ont la charge des dépenses familiales. Le mari a le droit et le devoir de gérer et de diriger. Mais le Coran n’incite pas à battre les femmes, voilà pourquoi nous avons traduit par « corrigez-les » et non par « frappez-les » comme on peut le trouver dans diverses traductions fautives. Il s’agit, en effet, d’un dernier recours qui consiste à les « corriger » légèrement, comme le veut d’ailleurs l’usage de la langue française qui n’emploie jamais « frapper » quand il s’agit d’un père ou d’une mère aimants qui « tapent » leur enfant, le « corrigent » et ne le « frappent » pas, ni ne le « battent ».
+[^142]: Ce sont les hommes qui ont la charge des dépenses familiales. Le mari a le droit et le devoir de gérer et de diriger. Mais le Coran n’incite pas à battre les femmes, voilà pourquoi nous avons traduit par « corrigez-les » et non par « frappez-les » comme on peut le trouver dans diverses traductions fautives. Il s’agit, en effet, d’un dernier recours qui consiste à les « corriger » légèrement, comme le veut d’ailleurs l’usage de la langue française qui n’emploie jamais « frapper » quand il s’agit d’un père ou d’une mère aimants qui « tapent » leur enfant, le « corrigent » et ne le « frappent » pas, ni ne le « battent ».
 
 # 528
 
@@ -2417,9 +2432,9 @@ Ce jour-là, ceux qui ont mécru et ont désobéi au Messager souhaiteront dispa
 
 # 536
 
-Ô vous qui avez cru ! N’approchez point la Çalât alors que vous êtes ivres, et cela jusqu’à ce que vous sachiez ce que vous dites. Et, non plus, quand vous êtes en état de souillure,[143] à moins que vous ne soyez de passage. Si vous êtes malades ou en voyage, si l’un de vous vient de satisfaire ses besoins naturels, ou si vous avez eu contact avec les femmes et que vous ne trouviez pas d’eau, alors utilisez de la terre pure ; frottez-vous en le visage et les mains. Allah est Magnanime et Absoluteur.
+Ô vous qui avez cru ! N’approchez point la Çalât alors que vous êtes ivres, et cela jusqu’à ce que vous sachiez ce que vous dites. Et, non plus, quand vous êtes en état de souillure,[^143] à moins que vous ne soyez de passage. Si vous êtes malades ou en voyage, si l’un de vous vient de satisfaire ses besoins naturels, ou si vous avez eu contact avec les femmes et que vous ne trouviez pas d’eau, alors utilisez de la terre pure ; frottez-vous en le visage et les mains. Allah est Magnanime et Absoluteur.
 
-[143] État d’impureté qui nécessite de faire ses grandes ablutions (ghusl).
+[^143]: État d’impureté qui nécessite de faire ses grandes ablutions (ghusl).
 
 # 537
 
@@ -2431,9 +2446,9 @@ Allah connaît le mieux vos ennemis. Allah vous suffit comme protecteur et Allah
 
 # 539
 
-Il en est qui, parmi ceux qui se sont judaïsés, altèrent le sens des mots en disant : « Nous avons entendu et nous avons désobéi. » et encore : « Écoute, puisses-tu ne jamais percevoir par l’ouïe ! », et « favorise-nous (par rapport aux autres) » (Ra’inâ),[144] tout cela avec des torsions de langue et pour bafouer la religion. Et s’ils avaient plutôt dit : « Nous avons entendu et nous avons obéi », « Écoute-nous » et « Regarde-nous », c’eût été, pour eux, meilleur et plus droit. Mais Allah les a maudits pour leur mécréance, eux qui sont de peu de foi.
+Il en est qui, parmi ceux qui se sont judaïsés, altèrent le sens des mots en disant : « Nous avons entendu et nous avons désobéi. » et encore : « Écoute, puisses-tu ne jamais percevoir par l’ouïe ! », et « favorise-nous (par rapport aux autres) » (Ra’inâ),[^144] tout cela avec des torsions de langue et pour bafouer la religion. Et s’ils avaient plutôt dit : « Nous avons entendu et nous avons obéi », « Écoute-nous » et « Regarde-nous », c’eût été, pour eux, meilleur et plus droit. Mais Allah les a maudits pour leur mécréance, eux qui sont de peu de foi.
 
-[144] Il s’agit de jeux de mots et de calembours que pratiquaient les Juifs en s’adressant au Prophète (paix et bénédiction d’Allah sur lui). En disant « Ra’inâ », ils donnaient l’impression de dire « favorise-nous », alors qu’en réalité ils insultaient le Prophète (Paix et bénédiction d’Allah sur lui), car ce terme arabe a un homonyme péjoratif qui signifie : « sottise » !
+[^144]: Il s’agit de jeux de mots et de calembours que pratiquaient les Juifs en s’adressant au Prophète (paix et bénédiction d’Allah sur lui). En disant « Ra’inâ », ils donnaient l’impression de dire « favorise-nous », alors qu’en réalité ils insultaient le Prophète (Paix et bénédiction d’Allah sur lui), car ce terme arabe a un homonyme péjoratif qui signifie : « sottise » !
 
 # 540
 
@@ -2445,9 +2460,9 @@ Allah ne pardonne pas que Lui soit associé quoi que ce soit et pardonne (tout a
 
 # 542
 
-N’as-tu pas considéré ceux qui se proclament purs ? Or c’est Allah Qui purifie qui Il veut. Et ils ne seront point lésés, serait-ce du poids du petit fil qui recouvre le sillon d’un noyau de datte (fatîl).[145]
+N’as-tu pas considéré ceux qui se proclament purs ? Or c’est Allah Qui purifie qui Il veut. Et ils ne seront point lésés, serait-ce du poids du petit fil qui recouvre le sillon d’un noyau de datte (fatîl).[^145]
 
-[145] Expression traduite littéralement et qui désigne la quantité infime (équivalent français : un cheveu, une goutte, une once, etc.) Le mot arabe فتيل désigne ici le petit fil, à peine perceptible, qui recouvre le sillon du noyau de la datte.
+[^145]: Expression traduite littéralement et qui désigne la quantité infime (équivalent français : un cheveu, une goutte, une once, etc.) Le mot arabe فتيل désigne ici le petit fil, à peine perceptible, qui recouvre le sillon du noyau de la datte.
 
 # 543
 
@@ -2555,15 +2570,15 @@ Et pourquoi ne combattriez-vous pas pour la cause d’Allah, et pour la cause de
 
 # 569
 
-Ceux qui ont cru se battent pour la cause d’Allah, et ceux qui ont mécru se battent dans la voie des fausses divinités (Tâghût).[146] Alors, battez-vous contre les suppôts de Satan, car les intrigues de Satan sont certes faibles.
+Ceux qui ont cru se battent pour la cause d’Allah, et ceux qui ont mécru se battent dans la voie des fausses divinités (Tâghût).[^146] Alors, battez-vous contre les suppôts de Satan, car les intrigues de Satan sont certes faibles.
 
-[146] Nous traduisons différemment l’expression في سبيل dont déjà nous proposions deux transpositions « dans le chemin » et « pour la cause » (voir la note 89). Mais, ici, la variation se justifie par le parallèle entre Allah et les fausses divinités Tâghût, parallèle disproportionnel dans la mesure où ces dernières n’ont ni chemin digne de ce nom, ni cause comparable à celle d’Allah. C’est pourquoi nous avons traduit par « dans la voie des fausses divinités (Tâghût) ». Une voie où il est certain de se « dévoyer ».
+[^146]: Nous traduisons différemment l’expression في سبيل dont déjà nous proposions deux transpositions « dans le chemin » et « pour la cause » (voir la note 89). Mais, ici, la variation se justifie par le parallèle entre Allah et les fausses divinités Tâghût, parallèle disproportionnel dans la mesure où ces dernières n’ont ni chemin digne de ce nom, ni cause comparable à celle d’Allah. C’est pourquoi nous avons traduit par « dans la voie des fausses divinités (Tâghût) ». Une voie où il est certain de se « dévoyer ».
 
 # 570
 
-N’as-tu pas considéré ceux à qui il fut dit : « Cessez de combattre, accomplissez la Çalât et acquittez-vous de la Zakât. » Puis, une fois que le combat leur est prescrit, voilà qu’une partie d’entre eux se met à redouter les hommes comme on redoute Allah ou plus encore. Ils ont dit : « Seigneur ! Pourquoi nous as-Tu prescrit le combat ? Si Tu le reportais pour un délai proche ? » Dis : « Les jouissances en ce bas monde sont de peu de poids mais l’autre monde est bien meilleur pour celui qui fait preuve de piété. » Et vous ne serez point lésés, pas même d’un fatîl.[147]
+N’as-tu pas considéré ceux à qui il fut dit : « Cessez de combattre, accomplissez la Çalât et acquittez-vous de la Zakât. » Puis, une fois que le combat leur est prescrit, voilà qu’une partie d’entre eux se met à redouter les hommes comme on redoute Allah ou plus encore. Ils ont dit : « Seigneur ! Pourquoi nous as-Tu prescrit le combat ? Si Tu le reportais pour un délai proche ? » Dis : « Les jouissances en ce bas monde sont de peu de poids mais l’autre monde est bien meilleur pour celui qui fait preuve de piété. » Et vous ne serez point lésés, pas même d’un fatîl.[^147]
 
-[147] Le fil, à peine perceptible, qui se trouve dans le sillon d’un noyau de datte. Voir la note 145. Plus haut, l’expression est traduite dans le corps du texte (voir le verset 49).
+[^147]: Le fil, à peine perceptible, qui se trouve dans le sillon d’un noyau de datte. Voir la note 145. Plus haut, l’expression est traduite dans le corps du texte (voir le verset 49).
 
 # 571
 
@@ -2607,9 +2622,9 @@ Allah ! Point d’autre divinité que Lui ! Il vous réunira inéluctablement le
 
 # 581
 
-Qu’avez-vous donc à vous partager en deux clans à propos des hypocrites ? Allah les a pourtant renvoyés (à leur mécréance) pour les mauvaises actions qu’ils ont commises. Voulez-vous donc guider ceux qu’Allah a égarés ? Mais il[148] ne se trouvera point d’issue à celui qu’Allah égare.
+Qu’avez-vous donc à vous partager en deux clans à propos des hypocrites ? Allah les a pourtant renvoyés (à leur mécréance) pour les mauvaises actions qu’ils ont commises. Voulez-vous donc guider ceux qu’Allah a égarés ? Mais il[^148] ne se trouvera point d’issue à celui qu’Allah égare.
 
-[148] Nous avons traduit « tu » par la forme impersonnelle « il ». Car nous pensons que s’il y a passage du « vous » à « tu » dans le verset, ce n’est pas pour s’adresser au Prophète après s’être adressé aux deux clans partagés à propos des hypocrites. Il s’agit plutôt d’un « tu » appelé en grammaire la personne « éthique », c’est-à-dire que l’on peut remplacer par « nous », « on », etc., et qui désigne les hommes en général.
+[^148]: Nous avons traduit « tu » par la forme impersonnelle « il ». Car nous pensons que s’il y a passage du « vous » à « tu » dans le verset, ce n’est pas pour s’adresser au Prophète après s’être adressé aux deux clans partagés à propos des hypocrites. Il s’agit plutôt d’un « tu » appelé en grammaire la personne « éthique », c’est-à-dire que l’on peut remplacer par « nous », « on », etc., et qui désigne les hommes en général.
 
 # 582
 
@@ -2637,9 +2652,9 @@ Celui qui tue délibérément un croyant aura pour punition la Géhenne, où il 
 
 # 588
 
-Ceux des croyants qui restent en arrière,[149] excepté les infirmes, ne sauraient égaler (en mérite) ceux qui luttent dans le chemin d’Allah par leurs biens et leurs vies. Allah a promu ceux qui luttent par leurs biens et leurs vies à un rang supérieur par rapport à ceux qui sont restés en arrière. Et à chacun (des croyants) Allah a promis la plus belle des récompenses ; mais Il a élevé les combattants à une dignité supérieure par rapport à ceux qui sont restés en arrière en leur réservant une récompense infiniment plus grande.
+Ceux des croyants qui restent en arrière,[^149] excepté les infirmes, ne sauraient égaler (en mérite) ceux qui luttent dans le chemin d’Allah par leurs biens et leurs vies. Allah a promu ceux qui luttent par leurs biens et leurs vies à un rang supérieur par rapport à ceux qui sont restés en arrière. Et à chacun (des croyants) Allah a promis la plus belle des récompenses ; mais Il a élevé les combattants à une dignité supérieure par rapport à ceux qui sont restés en arrière en leur réservant une récompense infiniment plus grande.
 
-[149] Entendons ici par « ceux qui restent en arrière» : ceux qui restent chez eux et ne partent pas en guerre quand les appelle le devoir sacré de lutter au service d’Allah.
+[^149]: Entendons ici par « ceux qui restent en arrière» : ceux qui restent chez eux et ne partent pas en guerre quand les appelle le devoir sacré de lutter au service d’Allah.
 
 # 589
 
@@ -2647,9 +2662,9 @@ Ceux des croyants qui restent en arrière,[149] excepté les infirmes, ne saurai
 
 # 590
 
-Ceux qui se sont lésés eux-mêmes verront les Anges reprendre leurs âmes en disant : « En quoi étiez-vous donc ? »[150] « Nous étions faibles sur terre », répondront-ils. (Les Anges demanderont alors) : « La terre d’Allah n’était-elle donc pas assez vaste pour que vous émigriez ? » Ceux-là auront pour séjour la Géhenne et quel horrible sort !
+Ceux qui se sont lésés eux-mêmes verront les Anges reprendre leurs âmes en disant : « En quoi étiez-vous donc ? »[^150] « Nous étions faibles sur terre », répondront-ils. (Les Anges demanderont alors) : « La terre d’Allah n’était-elle donc pas assez vaste pour que vous émigriez ? » Ceux-là auront pour séjour la Géhenne et quel horrible sort !
 
-[150] Nous avons traduit par « En quoi étiez-vous ? » car la question des Anges ne porte pas sur le lieu mais plutôt sur la situation des hommes auxquels ils s’adressent. La question est en vérité la suivante : « En quelle religion étiez-vous? Étiez-vous croyants ou mécréants ? »
+[^150]: Nous avons traduit par « En quoi étiez-vous ? » car la question des Anges ne porte pas sur le lieu mais plutôt sur la situation des hommes auxquels ils s’adressent. La question est en vérité la suivante : « En quelle religion étiez-vous? Étiez-vous croyants ou mécréants ? »
 
 # 591
 
@@ -2689,9 +2704,9 @@ Et implore pour toi le pardon d’Allah, car Allah est Absoluteur et Tout Misér
 
 # 600
 
-Et n’argumente pas en faveur de ceux qui se trahissent eux-mêmes. Allah n’aime pas le traître déterminé et le pécheur obstiné.[151]
+Et n’argumente pas en faveur de ceux qui se trahissent eux-mêmes. Allah n’aime pas le traître déterminé et le pécheur obstiné.[^151]
 
-[151] Nous avons ajouté les deux adjectifs « déterminé » et « obstiné » à, respectivement, « traître » خوّان et « pécheur » أثيم pour traduire la forme intensive de ces deux adjectifs arabes.
+[^151]: Nous avons ajouté les deux adjectifs « déterminé » et « obstiné » à, respectivement, « traître » خوّان et « pécheur » أثيم pour traduire la forme intensive de ces deux adjectifs arabes.
 
 # 601
 
@@ -2883,9 +2898,9 @@ Nous dressâmes au-dessus (de leurs têtes) le Mont pour avoir leur engagement, 
 
 # 648
 
-(Si nous les avons maudits, c’est parce qu’ils) ont violé leur engagement, ont mécru aux Signes d’Allah, ont tué injustement les Prophètes, et ont dit : « Nos cœurs sont hermétiquement fermés. » C’est plutôt Allah qui les a scellés (leurs cœurs), pour prix de leur mécréance, car ils sont de peu de foi.[152]
+(Si nous les avons maudits, c’est parce qu’ils) ont violé leur engagement, ont mécru aux Signes d’Allah, ont tué injustement les Prophètes, et ont dit : « Nos cœurs sont hermétiquement fermés. » C’est plutôt Allah qui les a scellés (leurs cœurs), pour prix de leur mécréance, car ils sont de peu de foi.[^152]
 
-[152] L’expression coranique peut être interprétée de deux manières : soit qu’ils sont très peu croyants, soit qu’ils sont rares à être croyants.
+[^152]: L’expression coranique peut être interprétée de deux manières : soit qu’ils sont très peu croyants, soit qu’ils sont rares à être croyants.
 
 # 649
 
@@ -2901,9 +2916,9 @@ C’est plutôt Allah Qui l’a élevé à Lui. Et Allah est Tout– Puissant et
 
 # 652
 
-Il n’y aura pas un, parmi les gens du Livre, qui ne croira en lui avant sa mort.[153] Et au Jour de la Résurrection, il sera témoin contre eux.
+Il n’y aura pas un, parmi les gens du Livre, qui ne croira en lui avant sa mort.[^153] Et au Jour de la Résurrection, il sera témoin contre eux.
 
-[153] Deux interprétations sont possibles : soit avant la mort de chaque homme parmi les gens du Livre, soit avant la mort de Jésus, la dernière après qu’il sera redescendu sur terre pour tuer l’Antéchrist.
+[^153]: Deux interprétations sont possibles : soit avant la mort de chaque homme parmi les gens du Livre, soit avant la mort de Jésus, la dernière après qu’il sera redescendu sur terre pour tuer l’Antéchrist.
 
 # 653
 
@@ -2923,9 +2938,9 @@ Nous t’avons inspiré des révélations comme nous les avons inspirées à No�
 
 # 657
 
-Il est des Messagers dont Nous t’avons fait le récit et d’autres dont Nous ne t’avons pas fait le récit.[154] Et Allah a parlé de vive voix à Moïse.
+Il est des Messagers dont Nous t’avons fait le récit et d’autres dont Nous ne t’avons pas fait le récit.[^154] Et Allah a parlé de vive voix à Moïse.
 
-[154] Entendons : dont Nous t’avons relaté l’histoire. Littéralement : que Nous t’avons contés et d’autres que Nous ne t’avons point contés.
+[^154]: Entendons : dont Nous t’avons relaté l’histoire. Littéralement : que Nous t’avons contés et d’autres que Nous ne t’avons point contés.
 
 # 658
 
@@ -2933,9 +2948,9 @@ Des Messagers qui devaient annoncer et avertir, afin que, après leur venue, il 
 
 # 659
 
-Mais Allah témoigne de ce qu’Il t’a révélé, car Il l’a révélé en le Sachant.[155] Les Anges aussi en témoignent et Allah suffit comme Témoin.
+Mais Allah témoigne de ce qu’Il t’a révélé, car Il l’a révélé en le Sachant.[^155] Les Anges aussi en témoignent et Allah suffit comme Témoin.
 
-[155] Nous mettons une majuscule quand le participe présent (ou le gérondif) du verbe « savoir » est attribué à Allah. Car il s’agit souvent d’une adaptation du substantif arabe signifiant « la Science (d’Allah) », ou de l’attribut divin « Savant » عليم. Nous mettons aussi des majuscules aux verbes « savoir », « voir », « entendre » quand ils sont attribués à Allah.
+[^155]: Nous mettons une majuscule quand le participe présent (ou le gérondif) du verbe « savoir » est attribué à Allah. Car il s’agit souvent d’une adaptation du substantif arabe signifiant « la Science (d’Allah) », ou de l’attribut divin « Savant » عليم. Nous mettons aussi des majuscules aux verbes « savoir », « voir », « entendre » quand ils sont attribués à Allah.
 
 # 660
 
@@ -3103,15 +3118,15 @@ Allah envoya un corbeau qui se mit à gratter la terre pour lui montrer comment 
 
 # 701
 
-C’est pour cela que Nous avons prescrit aux Enfants d’Israël (la loi que voici) : Quiconque aura tué une personne sans que celle-ci n’ait commis un meurtre ou semé la corruption sur terre, c’est comme s’il avait tué l’humanité entière. Et quiconque l’aura fait revivre,[156] c’est comme s’il avait fait revivre l’humanité entière. Nos Messagers leur ont apporté les preuves évidentes, et pourtant beaucoup d’entre eux se laissent aller à leurs excès sur terre.
+C’est pour cela que Nous avons prescrit aux Enfants d’Israël (la loi que voici) : Quiconque aura tué une personne sans que celle-ci n’ait commis un meurtre ou semé la corruption sur terre, c’est comme s’il avait tué l’humanité entière. Et quiconque l’aura fait revivre,[^156] c’est comme s’il avait fait revivre l’humanité entière. Nos Messagers leur ont apporté les preuves évidentes, et pourtant beaucoup d’entre eux se laissent aller à leurs excès sur terre.
 
-[156] Il n’est nullement question, ici, d’attribuer aux hommes le pouvoir de donner la vie ou de les ressusciter. C’est un pouvoir exclusif à Allah, gloire Lui soit rendue. Il ne peut s’agir, en vérité, que d’une allusion métaphorique aux interventions de certaines personnes et aux gestes humanitaires qui peuvent, effectivement, sauver des vies humaines.
+[^156]: Il n’est nullement question, ici, d’attribuer aux hommes le pouvoir de donner la vie ou de les ressusciter. C’est un pouvoir exclusif à Allah, gloire Lui soit rendue. Il ne peut s’agir, en vérité, que d’une allusion métaphorique aux interventions de certaines personnes et aux gestes humanitaires qui peuvent, effectivement, sauver des vies humaines.
 
 # 702
 
-La sanction de ceux qui font la guerre à Allah et à Son Messager, qui s’emploient à semer la corruption sur terre, est d’être eux-mêmes mis à mort ou crucifiés, d’avoir les mains et les pieds coupés par croisement,[157] ou d’être bannis du pays. Telle est l’infamie (dont ils seront marqués) en ce bas monde, et ils auront dans l’autre un terrible supplice,
+La sanction de ceux qui font la guerre à Allah et à Son Messager, qui s’emploient à semer la corruption sur terre, est d’être eux-mêmes mis à mort ou crucifiés, d’avoir les mains et les pieds coupés par croisement,[^157] ou d’être bannis du pays. Telle est l’infamie (dont ils seront marqués) en ce bas monde, et ils auront dans l’autre un terrible supplice,
 
-[157] C’est-à-dire que, par alternance, on leur coupe d’abord la main droite, puis le pied gauche, puis la main gauche, puis la main droite.
+[^157]: C’est-à-dire que, par alternance, on leur coupe d’abord la main droite, puis le pied gauche, puis la main gauche, puis la main droite.
 
 # 703
 
@@ -3143,9 +3158,9 @@ Ne sais-tu pas qu’Allah a la royauté des cieux et de la terre ? Il soumet au 
 
 # 710
 
-Ô Messager ! Ne sois point affligé par ceux qui se hâtent vers la mécréance parmi ceux qui se disent croyants par la bouche et n’ont jamais cru par le cœur ; ni ceux qui, s’étant judaïsés, écoutent attentivement le mensonge et aiment tendre l’oreille à d’autres gens qui ne sont jamais venus vers toi. Ils altèrent le sens des mots déjà établi et disent : « Si vous avez reçu ceci, prenez-le,[158] et si vous ne l’avez pas reçu, méfiez-vous en ! » Celui qu’Allah veut soumettre à l’épreuve du désarroi, tu ne pourras rien pour lui. Ceux dont Allah n’entend pas purifier les cœurs seront marqués d’infamie dans ce bas monde, et auront dans l’autre un terrible supplice.
+Ô Messager ! Ne sois point affligé par ceux qui se hâtent vers la mécréance parmi ceux qui se disent croyants par la bouche et n’ont jamais cru par le cœur ; ni ceux qui, s’étant judaïsés, écoutent attentivement le mensonge et aiment tendre l’oreille à d’autres gens qui ne sont jamais venus vers toi. Ils altèrent le sens des mots déjà établi et disent : « Si vous avez reçu ceci, prenez-le,[^158] et si vous ne l’avez pas reçu, méfiez-vous en ! » Celui qu’Allah veut soumettre à l’épreuve du désarroi, tu ne pourras rien pour lui. Ceux dont Allah n’entend pas purifier les cœurs seront marqués d’infamie dans ce bas monde, et auront dans l’autre un terrible supplice.
 
-[158] Si Muhammad (paix et bénédiction d’Allah sur lui) vous propose des prescriptions identiques aux nôtres (les Juifs) acceptez-les (soyez preneurs), sinon, soyez méfiants.
+[^158]: Si Muhammad (paix et bénédiction d’Allah sur lui) vous propose des prescriptions identiques aux nôtres (les Juifs) acceptez-les (soyez preneurs), sinon, soyez méfiants.
 
 # 711
 
@@ -3189,9 +3204,9 @@ Serait-ce donc le jugement de l’ère préislamique qu’ils souhaitent ? Est-i
 
 # 721
 
-Tu verras ceux qui ont le cœur malade[159] accourir vers eux en disant : « Nous craignons vraiment que la fortune ne se retourne contre nous. » Mais il est toujours possible qu’Allah donne la victoire (aux croyants) ou décrète un nouvel ordre de Sa part, et là ils regretteront ce qu’ils avaient pensé dans le secret du cœur.
+Tu verras ceux qui ont le cœur malade[^159] accourir vers eux en disant : « Nous craignons vraiment que la fortune ne se retourne contre nous. » Mais il est toujours possible qu’Allah donne la victoire (aux croyants) ou décrète un nouvel ordre de Sa part, et là ils regretteront ce qu’ils avaient pensé dans le secret du cœur.
 
-[159] C’est-à-dire ceux dont les cœurs sont rongés par l’hésitation et les tentations mécréantes.
+[^159]: C’est-à-dire ceux dont les cœurs sont rongés par l’hésitation et les tentations mécréantes.
 
 # 722
 
@@ -3199,11 +3214,13 @@ Et ceux qui ont cru diront : « Sont-ce là ceux qui juraient par Allah et de to
 
 # 723
 
-Ô vous qui avez cru ! Si parmi vous certains apostasient leur religion,[160] Allah fera venir des hommes qu’Il aimera et qui L’aimeront, humbles devant les croyants, féroces[161] contre les mécréants. Ils lutteront pour la cause d’Allah et ne craindront nulle récrimination d’aucun récriminateur.[162] Telle est la faveur d’Allah, qu’Il accorde à qui Il veut, car Allah est Vaste et Omniscient.
+Ô vous qui avez cru ! Si parmi vous certains apostasient leur religion,[^160] Allah fera venir des hommes qu’Il aimera et qui L’aimeront, humbles devant les croyants, féroces[^161] contre les mécréants. Ils lutteront pour la cause d’Allah et ne craindront nulle récrimination d’aucun récriminateur.[^162] Telle est la faveur d’Allah, qu’Il accorde à qui Il veut, car Allah est Vaste et Omniscient.
 
-[160] Le verbe « apostasier » est en principe intransitif. Mais le Grand Robert remarque qu’il se rencontre quelques emplois transitifs comme dans « apostasier sa foi ». Même si cette structure est rare, nous préférons dans ce contexte « apostasier » à « abjurer ». 
-[161] Le mot arabe أعزة, pluriel de عزيز, signifie à la fois « fier et puissant ». Or le mot « féroce » est étymologiquement un heureux croisement des deux sens : il signifie ordinairement « impitoyable » mais remonte à l’étymon latin « ferox », de « ferus : bête sauvage », au sens de « fier, orgueilleux, hautain. » Le mot « féroce » est donc le doublet savant de « fier », formation populaire, romane.
-[162] Ou : ne craindront accusation d’aucun accusateur.
+[^160]: Le verbe « apostasier » est en principe intransitif. Mais le Grand Robert remarque qu’il se rencontre quelques emplois transitifs comme dans « apostasier sa foi ». Même si cette structure est rare, nous préférons dans ce contexte « apostasier » à « abjurer ».
+
+[^161]: Le mot arabe أعزة, pluriel de عزيز, signifie à la fois « fier et puissant ». Or le mot « féroce » est étymologiquement un heureux croisement des deux sens : il signifie ordinairement « impitoyable » mais remonte à l’étymon latin « ferox », de « ferus : bête sauvage », au sens de « fier, orgueilleux, hautain. » Le mot « féroce » est donc le doublet savant de « fier », formation populaire, romane.
+
+[^162]: Ou : ne craindront accusation d’aucun accusateur.
 
 # 724
 
@@ -3343,16 +3360,17 @@ Mangez de ce qu’Allah a dispensé pour vous de Ses biens licites et purs. Et c
 
 # 758
 
-Allah ne vous reprochera point les serments que vous aurez proférés inconsidérément, mais Il vous reprochera les serments prononcés intentionnellement.[163] Pour expier (kaffâra) (un tel parjure), il vous faudra nourrir dix pauvres de ce que normalement vous donnez vous-mêmes à manger à vos proches ; ou les habiller, ou encore affranchir un esclave. Si vous n’en avez pas les moyens, alors jeûnez trois jours. Telle est l’expiation de vos serments lorsque vous vous êtes parjurés. Respectez vos serments. C’est ainsi qu’Allah vous expose clairement Ses Signes, peut-être serez-vous reconnaissants.
+Allah ne vous reprochera point les serments que vous aurez proférés inconsidérément, mais Il vous reprochera les serments prononcés intentionnellement.[^163] Pour expier (kaffâra) (un tel parjure), il vous faudra nourrir dix pauvres de ce que normalement vous donnez vous-mêmes à manger à vos proches ; ou les habiller, ou encore affranchir un esclave. Si vous n’en avez pas les moyens, alors jeûnez trois jours. Telle est l’expiation de vos serments lorsque vous vous êtes parjurés. Respectez vos serments. C’est ainsi qu’Allah vous expose clairement Ses Signes, peut-être serez-vous reconnaissants.
 
-[163] Avec l’intention décidée de les mettre à exécution.
+[^163]: Avec l’intention décidée de les mettre à exécution.
 
 # 759
 
-Ô vous qui avez cru ! Le vin, les jeux de hasard (maysir), les stèles[164] et les aruspices[165] sont une abjection inspirée de Satan. Évitez-les donc, peut-être réussirez-vous.
+Ô vous qui avez cru ! Le vin, les jeux de hasard (maysir), les stèles[^164] et les aruspices[^165] sont une abjection inspirée de Satan. Évitez-les donc, peut-être réussirez-vous.
 
-[164] Pierres dressées qui remontent à l’âge de la pierre polie, certainement d’origine païenne. Les historiens pensent que, d’origine obscure, elles étaient des monuments religieux en l’honneur du soleil. Par extension, le Coran interdit toute pierre qui s’y apparente et ferait penser à ce genre de culte païen.
-[165] Divination par les entrailles des victimes. On écrit aussi « haruspice ». À l’origine, l’haruspice était un prêtre romain ou étrusque qui fouillait dans les entrailles des morts ou des animaux sacrifiés avec un bâton pour prédire l’avenir. On parle alors du « bâton de l’haruspice ». Cependant, nous employons le terme par extension car l’expression coranique littérale est : « les flèches de divination ».
+[^164]: Pierres dressées qui remontent à l’âge de la pierre polie, certainement d’origine païenne. Les historiens pensent que, d’origine obscure, elles étaient des monuments religieux en l’honneur du soleil. Par extension, le Coran interdit toute pierre qui s’y apparente et ferait penser à ce genre de culte païen.
+
+[^165]: Divination par les entrailles des victimes. On écrit aussi « haruspice ». À l’origine, l’haruspice était un prêtre romain ou étrusque qui fouillait dans les entrailles des morts ou des animaux sacrifiés avec un bâton pour prédire l’avenir. On parle alors du « bâton de l’haruspice ». Cependant, nous employons le terme par extension car l’expression coranique littérale est : « les flèches de divination ».
 
 # 760
 
@@ -3364,9 +3382,9 @@ Obéissez à Allah, obéissez au Messager et soyez sur vos gardes ! Mais si vous
 
 # 762
 
-Il ne sera point fait grief à ceux qui ont cru et ont accompli les bonnes œuvres pour avoir consommé les abstèmes[166] avant qu’ils n’aient eu la piété et la foi, et n’aient accompli les bonnes œuvres ; puis qui continuent à craindre (Allah) et à croire (en Lui), puis (Le) craignent encore et font le bien. Car Allah aime ceux qui font le bien.
+Il ne sera point fait grief à ceux qui ont cru et ont accompli les bonnes œuvres pour avoir consommé les abstèmes[^166] avant qu’ils n’aient eu la piété et la foi, et n’aient accompli les bonnes œuvres ; puis qui continuent à craindre (Allah) et à croire (en Lui), puis (Le) craignent encore et font le bien. Car Allah aime ceux qui font le bien.
 
-[166] Les abstèmes sont les choses défendues par la religion islamique. Il s’agit ici du vin, des jeux de hasard etc. Le croyant n’a pas péché s’il a consommé tous ces abstèmes permis auparavant, interdits aujourd’hui.
+[^166]: Les abstèmes sont les choses défendues par la religion islamique. Il s’agit ici du vin, des jeux de hasard etc. Le croyant n’a pas péché s’il a consommé tous ces abstèmes permis auparavant, interdits aujourd’hui.
 
 # 763
 
@@ -3406,9 +3424,9 @@ Des gens avant vous avaient posé (ces questions), puis, à cause d’elles, son
 
 # 772
 
-Allah n’a rien ordonné à propos des (chamelles) Bahîra ou Sâ’iba, ni de la (brebis) Waçîla, ni encore du (chameau étalon) Hâm.[167] Ce sont les mécréants qui, sur le compte d’Allah, ont débité ces mensonges. Nombre d’entre eux sont dépourvus de raisonnement.
+Allah n’a rien ordonné à propos des (chamelles) Bahîra ou Sâ’iba, ni de la (brebis) Waçîla, ni encore du (chameau étalon) Hâm.[^167] Ce sont les mécréants qui, sur le compte d’Allah, ont débité ces mensonges. Nombre d’entre eux sont dépourvus de raisonnement.
 
-[167] Ce sont des bêtes qui, selon des habitudes païennes, étaient marquées d’interdits. Pour leur fécondité exceptionnelle, elles étaient libres de paître et n’étaient tuées qu’en l’honneur des idoles.
+[^167]: Ce sont des bêtes qui, selon des habitudes païennes, étaient marquées d’interdits. Pour leur fécondité exceptionnelle, elles étaient libres de paître et n’étaient tuées qu’en l’honneur des idoles.
 
 # 773
 
@@ -3472,9 +3490,9 @@ Si Tu les soumets au supplice, ce sont Tes serviteurs, et si Tu leur pardonnes, 
 
 # 788
 
-Allah dira alors : « Voici venu le jour où profiteront de leur sincérité les sincères : ils auront des jardins sous lesquels coulent les rivières, là ils séjourneront[168] à jamais. » Allah les aura agréés et ils L’auront agréé. Voilà le suprême succès.
+Allah dira alors : « Voici venu le jour où profiteront de leur sincérité les sincères : ils auront des jardins sous lesquels coulent les rivières, là ils séjourneront[^168] à jamais. » Allah les aura agréés et ils L’auront agréé. Voilà le suprême succès.
 
-[168] Les adverbes « éternellement », « pour l’éternité », « à jamais », souvent associés au verbe « séjourner », soulignent bien le paradoxe entre la notion de « séjour » qui est, en principe, provisoire, et l’aspect atemporel et infini de ce « séjour ». De plus, « séjourner », s’il signifie « habiter pendant une certaine période », suppose déjà que cette « période » est longue. Enfin, le verbe « résider » n’étant pas meilleur, puisqu’il a un sens plutôt administratif, nous employons alors le verbe « séjourner » avec ce trait définitoire d’un paradoxe défiant la logique de ce bas monde : « séjour mais éternel » ! (Voir aussi la note 31).
+[^168]: Les adverbes « éternellement », « pour l’éternité », « à jamais », souvent associés au verbe « séjourner », soulignent bien le paradoxe entre la notion de « séjour » qui est, en principe, provisoire, et l’aspect atemporel et infini de ce « séjour ». De plus, « séjourner », s’il signifie « habiter pendant une certaine période », suppose déjà que cette « période » est longue. Enfin, le verbe « résider » n’étant pas meilleur, puisqu’il a un sens plutôt administratif, nous employons alors le verbe « séjourner » avec ce trait définitoire d’un paradoxe défiant la logique de ce bas monde : « séjour mais éternel » ! (Voir aussi la note 31).
 
 # 789
 
@@ -3598,9 +3616,9 @@ Et ils disent : « Il n’est rien d’autre que notre vie en ce bas monde, et n
 
 # 819
 
-Si tu les voyais lorsqu’ils se présenteront debout devant leur Seigneur Qui leur dira : « Ceci n’est-il donc pas la vérité ? »[169] « Si, par notre Seigneur ! » s’écrieront-ils. Et alors, Il leur dira : « Goûtez donc le supplice pour avoir mécru ! »
+Si tu les voyais lorsqu’ils se présenteront debout devant leur Seigneur Qui leur dira : « Ceci n’est-il donc pas la vérité ? »[^169] « Si, par notre Seigneur ! » s’écrieront-ils. Et alors, Il leur dira : « Goûtez donc le supplice pour avoir mécru ! »
 
-[169] La vérité que vous refusiez obstinément sur terre, à savoir l’existence de l’autre monde et du Jour Dernier.
+[^169]: La vérité que vous refusiez obstinément sur terre, à savoir l’existence de l’autre monde et du Jour Dernier.
 
 # 820
 
@@ -3680,9 +3698,9 @@ Et ceux qui ont taxé Nos Signes de mensonges, le supplice les atteindra, car il
 
 # 839
 
-Dis : « Je ne vous dis pas que je détiens les trésors d’Allah, ni que je connais l’Inconnaissable (ghayb). Je ne vous dis pas, non plus, que je suis un Ange. Je ne fais que suivre ce qui m’est révélé. » Ajoute : « L’aveugle et le voyant[170] se valent-ils ? Pourquoi n’essayez-vous pas d’y réfléchir ? »
+Dis : « Je ne vous dis pas que je détiens les trésors d’Allah, ni que je connais l’Inconnaissable (ghayb). Je ne vous dis pas, non plus, que je suis un Ange. Je ne fais que suivre ce qui m’est révélé. » Ajoute : « L’aveugle et le voyant[^170] se valent-ils ? Pourquoi n’essayez-vous pas d’y réfléchir ? »
 
-[170] Le « voyant » n’a pas ici le sens de « devin », mais de « celui qui voit » par opposition au « non-voyant » (l’aveugle). Cet emploi est confirmé dans le Grand Robert. Le contexte contrastif plaide aussi en faveur de cet emploi, puisque le lecteur comprendra qu’il s’agit du contraire de « l’aveugle ». La même expression reviendra dans la sourate Ar-Ra ̒ad (Le Tonnerre), verset 16 et la sourate Fâtir (Le Créateur Premier), verset 19.
+[^170]: Le « voyant » n’a pas ici le sens de « devin », mais de « celui qui voit » par opposition au « non-voyant » (l’aveugle). Cet emploi est confirmé dans le Grand Robert. Le contexte contrastif plaide aussi en faveur de cet emploi, puisque le lecteur comprendra qu’il s’agit du contraire de « l’aveugle ». La même expression reviendra dans la sourate Ar-Ra ̒ad (Le Tonnerre), verset 16 et la sourate Fâtir (Le Créateur Premier), verset 19.
 
 # 840
 
@@ -3694,9 +3712,9 @@ Ne repousse pas ceux qui prient leur Seigneur matin et soir à la recherche de S
 
 # 842
 
-C’est ainsi que Nous éprouvons les uns par (la faiblesse)[171] des autres, afin qu’ils disent : « Sont-ce là ceux d’entre nous qu’Allah a comblés de Ses bonnes grâces ? » Mais Allah n’est-Il pas le Meilleur à savoir lesquels (Lui) sont reconnaissants ?
+C’est ainsi que Nous éprouvons les uns par (la faiblesse)[^171] des autres, afin qu’ils disent : « Sont-ce là ceux d’entre nous qu’Allah a comblés de Ses bonnes grâces ? » Mais Allah n’est-Il pas le Meilleur à savoir lesquels (Lui) sont reconnaissants ?
 
-[171] Le mauvais sort des uns doit servir de leçon aux autres.
+[^171]: Le mauvais sort des uns doit servir de leçon aux autres.
 
 # 843
 
@@ -3864,9 +3882,9 @@ Vous êtes venus à Nous, un par un, tels que Nous vous avions créés la premi�
 
 # 884
 
-Allah est le Fendeur[172] de la graine et du noyau. Il fait sortir le vivant du mort et le mort du vivant. Tel est Allah. Jusqu’où vous obstinerez-vous donc à ignorer (Son adoration) ?
+Allah est le Fendeur[^172] de la graine et du noyau. Il fait sortir le vivant du mort et le mort du vivant. Tel est Allah. Jusqu’où vous obstinerez-vous donc à ignorer (Son adoration) ?
 
-[172] Le mot se dit de celui qui fend le bois ou le diamant. Nous pouvons l’employer ici, par extension, pour rendre la substantivation originale de l’attribut فالق.
+[^172]: Le mot se dit de celui qui fend le bois ou le diamant. Nous pouvons l’employer ici, par extension, pour rendre la substantivation originale de l’attribut فالق.
 
 # 885
 
@@ -3878,10 +3896,11 @@ Et c’est Lui Qui a fait pour vous les étoiles afin que vous vous orientiez da
 
 # 887
 
-Et c’est Lui Qui vous a créés à partir d’un seul être.[173] Et vous voilà à la fois dans une demeure et dans un dépôt.[174] Ainsi avons-Nous détaillé les Signes pour des gens qui comprennent.
+Et c’est Lui Qui vous a créés à partir d’un seul être.[^173] Et vous voilà à la fois dans une demeure et dans un dépôt.[^174] Ainsi avons-Nous détaillé les Signes pour des gens qui comprennent.
 
-[173] C’est-à-dire Adam.
-[174] La « demeure » (مستقر) : à la fois la matrice où, embryon, l’être humain est porté, et le bas monde ; le « dépôt » : à la fois les reins du géniteur et la tombe où son corps est déposé jusqu’à la Résurrection.
+[^173]: C’est-à-dire Adam.
+
+[^174]: La « demeure » (مستقر) : à la fois la matrice où, embryon, l’être humain est porté, et le bas monde ; le « dépôt » : à la fois les reins du géniteur et la tombe où son corps est déposé jusqu’à la Résurrection.
 
 # 888
 
@@ -3893,10 +3912,11 @@ Et ils ont donné à Allah les djinns comme associés quand c’est Lui Qui les 
 
 # 890
 
-Créateur Originel[175] des cieux et de la terre, comment, quand Il n’a pas de compagne, aurait-Il un enfant ? C’est Lui Qui a créé Toute chose et de Toute chose Il est Savant.[176]
+Créateur Originel[^175] des cieux et de la terre, comment, quand Il n’a pas de compagne, aurait-Il un enfant ? C’est Lui Qui a créé Toute chose et de Toute chose Il est Savant.[^176]
 
-[175] Le mot arabe بديع inclut à la fois les notions de création et d’innovation. Voilà pourquoi nous avons ajouté au mot « Créateur » l’épithète « Originel ». 
-[176] Nous nous sommes permis, cette fois, d’utiliser l’adjectif verbal « Savant » comme attribut indirect (introduit par la préposition « de »). L’emploi, pas toujours adopté autre part, nous a semblé heureux à la fin de ce verset pour des raisons rythmiques, d’où l’assonance que nous produisons par le retour régulier des mots « comment » « enfant » et « savant ».
+[^175]: Le mot arabe بديع inclut à la fois les notions de création et d’innovation. Voilà pourquoi nous avons ajouté au mot « Créateur » l’épithète « Originel ».
+
+[^176]: Nous nous sommes permis, cette fois, d’utiliser l’adjectif verbal « Savant » comme attribut indirect (introduit par la préposition « de »). L’emploi, pas toujours adopté autre part, nous a semblé heureux à la fin de ce verset pour des raisons rythmiques, d’où l’assonance que nous produisons par le retour régulier des mots « comment » « enfant » et « savant ».
 
 # 891
 
@@ -3912,9 +3932,9 @@ Il vous est venu des Indices éclatants de votre Seigneur. Alors, quiconque voit
 
 # 894
 
-Ainsi donc varions-Nous les versets, afin qu’ils disent : « Tu as étudié cela »[177], et pour l’expliquer à des gens qui savent.
+Ainsi donc varions-Nous les versets, afin qu’ils disent : « Tu as étudié cela »[^177], et pour l’expliquer à des gens qui savent.
 
-[177] Les mécréants ont accusé Muhammad (paix et bénédiction d’Allah sur lui) de s’être inspiré des Livres antérieurs, en lui disant : « Tu as étudié cela dans les anciennes écritures. »
+[^177]: Les mécréants ont accusé Muhammad (paix et bénédiction d’Allah sur lui) de s’être inspiré des Livres antérieurs, en lui disant : « Tu as étudié cela dans les anciennes écritures. »
 
 # 895
 
@@ -4030,9 +4050,9 @@ Et ton Seigneur, Qui Se passe de Toutes richesses, Qui détient la miséricorde,
 
 # 923
 
-Ce qui vous est promis viendra sûrement. Et vous n’êtes point capables de le rendre impossible.[178]
+Ce qui vous est promis viendra sûrement. Et vous n’êtes point capables de le rendre impossible.[^178]
 
-[178] Mieux que de traduire par « réduire à l’impuissance », nous traduisons par « rendre impossible ». L’origine de « impossible » et « impuissant » étant la même : le verbe latin « posse ».
+[^178]: Mieux que de traduire par « réduire à l’impuissance », nous traduisons par « rendre impossible ». L’origine de « impossible » et « impuissant » étant la même : le verbe latin « posse ».
 
 # 924
 
@@ -4048,9 +4068,9 @@ De même leurs alliés parmi les démons ont embelli aux yeux de nombre d’asso
 
 # 927
 
-Et ils prétendent : « Ce sont là des bestiaux et des récoltes qu’il est défendu de consommer. N’en mangeront que ceux que nous voulons. » Certains de ces bestiaux ont le dos interdit,[179] et sur d’autres n’est pas prononcé le nom d’Allah. Que d’inventions contre Lui ! Il les rétribuera certainement pour les mensonges qu’ils inventaient.
+Et ils prétendent : « Ce sont là des bestiaux et des récoltes qu’il est défendu de consommer. N’en mangeront que ceux que nous voulons. » Certains de ces bestiaux ont le dos interdit,[^179] et sur d’autres n’est pas prononcé le nom d’Allah. Que d’inventions contre Lui ! Il les rétribuera certainement pour les mensonges qu’ils inventaient.
 
-[179] Sur le dos desquels il est interdit de monter.
+[^179]: Sur le dos desquels il est interdit de monter.
 
 # 928
 
@@ -4082,9 +4102,9 @@ Dis : « Je ne trouve rien, dans ce qui m’a été révélé, dont il soit déf
 
 # 935
 
-Aux Juifs, Nous avons défendu toute bête à ongle unique.[180] Des bovins et des ovins, Nous leur avons défendu les graisses, excepté celles que portent leurs dos ou qui se trouvent dans leurs boyaux, ou encore celles qui sont incorporées aux os. Nous les avons donc rétribués pour leur abus et Nous sommes Véridique.
+Aux Juifs, Nous avons défendu toute bête à ongle unique.[^180] Des bovins et des ovins, Nous leur avons défendu les graisses, excepté celles que portent leurs dos ou qui se trouvent dans leurs boyaux, ou encore celles qui sont incorporées aux os. Nous les avons donc rétribués pour leur abus et Nous sommes Véridique.
 
-[180] À ce propos, aussi bien Ibn Kathîr que Tabarî citent plusieurs ongulés, dont le chameau et l’autruche.
+[^180]: À ce propos, aussi bien Ibn Kathîr que Tabarî citent plusieurs ongulés, dont le chameau et l’autruche.
 
 # 936
 
@@ -4376,9 +4396,9 @@ N’attendent-ils que la réalisation de ses annonces ? Mais le jour où ses ann
 
 # 1008
 
-Votre Seigneur est Allah Qui créa les cieux et la terre en six jours, puis S’établit avec une infinie Majesté sur le Trône (istawâ).[182]Il recouvre le jour par la nuit, et celle-ci poursuit (le jour) en permanence. Le soleil, la lune et les étoiles, (Il les créa) soumis à Son commandement. C’est de Lui Seul que procèdent la création et le commandement. Gloire soit rendue à Allah, Seigneur de l’Univers.
+Votre Seigneur est Allah Qui créa les cieux et la terre en six jours, puis S’établit avec une infinie Majesté sur le Trône (istawâ).[^182]Il recouvre le jour par la nuit, et celle-ci poursuit (le jour) en permanence. Le soleil, la lune et les étoiles, (Il les créa) soumis à Son commandement. C’est de Lui Seul que procèdent la création et le commandement. Gloire soit rendue à Allah, Seigneur de l’Univers.
 
-[182] Comme le sens du mot « istawâ » est intraductible (nous employons ce néologisme au lieu de « intraduisible » qui pourrait avoir des connotations péjoratives), les gestes d’Allah étant indicibles et en tout point nonpareils, nous ajoutons au verbe « S’établit », faute de mieux, l’expression « avec une infinie Majesté ».
+[^182]: Comme le sens du mot « istawâ » est intraductible (nous employons ce néologisme au lieu de « intraduisible » qui pourrait avoir des connotations péjoratives), les gestes d’Allah étant indicibles et en tout point nonpareils, nous ajoutons au verbe « S’établit », faute de mieux, l’expression « avec une infinie Majesté ».
 
 # 1009
 
@@ -4490,9 +4510,9 @@ Vous recherchez les plaisirs charnels avec les hommes plutôt qu’avec les femm
 
 # 1036
 
-Ils n’eurent alors pour toute réponse que de dire : « Chassez-les de votre cité, ce sont des gens qui revendiquent la pureté.[183] »
+Ils n’eurent alors pour toute réponse que de dire : « Chassez-les de votre cité, ce sont des gens qui revendiquent la pureté.[^183] »
 
-[183] Il s’agit là d’une antiphrase: les propos du peuple de Loth sont ironiques. Voir aussi le verset 56 de la sourate An-Naml (Les Fourmis).
+[^183]: Il s’agit là d’une antiphrase: les propos du peuple de Loth sont ironiques. Voir aussi le verset 56 de la sourate An-Naml (Les Fourmis).
 
 # 1037
 
@@ -4520,9 +4540,9 @@ L’assemblée des notables de son peuple, fiers et hautains, dirent : « Nous t
 
 # 1043
 
-Nous inventerions alors des mensonges au sujet d’Allah si nous revenions à votre religion, après qu’Allah nous a sauvés. Et nous ne saurions y revenir sauf si Allah, notre Seigneur, le voulait. Notre Seigneur cerne tout de Sa vaste science. Nous nous en remettons à Allah. Seigneur ! Fais le départ[184] entre nous et notre peuple par la vérité. Car Tu es le Meilleur des arbitres. »
+Nous inventerions alors des mensonges au sujet d’Allah si nous revenions à votre religion, après qu’Allah nous a sauvés. Et nous ne saurions y revenir sauf si Allah, notre Seigneur, le voulait. Notre Seigneur cerne tout de Sa vaste science. Nous nous en remettons à Allah. Seigneur ! Fais le départ[^184] entre nous et notre peuple par la vérité. Car Tu es le Meilleur des arbitres. »
 
-[184] La locution « faire le départ entre deux points de vue » signifie « départager ».
+[^184]: La locution « faire le départ entre deux points de vue » signifie « départager ».
 
 # 1044
 
@@ -4774,9 +4794,9 @@ Il (Moïse) dit : « Seigneur ! Pardonne-moi et à mon frère ! Accueille-nous e
 
 # 1106
 
-Ceux qui prirent le Veau (pour idole) subiront de leur Seigneur un courroux et une humiliation en ce bas monde. C’est ainsi que Nous rétribuons ceux qui inventent les mensonges.[185]
+Ceux qui prirent le Veau (pour idole) subiront de leur Seigneur un courroux et une humiliation en ce bas monde. C’est ainsi que Nous rétribuons ceux qui inventent les mensonges.[^185]
 
-[185] Les mensonges qu’ils inventent sont, entre autres, les divinités illusoires qu’ils adoptent.
+[^185]: Les mensonges qu’ils inventent sont, entre autres, les divinités illusoires qu’ils adoptent.
 
 # 1107
 
@@ -4792,9 +4812,9 @@ Moïse choisit parmi son peuple soixante-dix hommes pour Notre rendez-vous. Lors
 
 # 1110
 
-Écris-nous,[186] Seigneur, une heureuse part en ce bas monde comme dans l’autre ; nous revenons à Toi, bien guidés et pleins de repentir. » Il (Allah) dit alors : « Mon supplice, Je le ferai subir à qui Je veux, et Ma miséricorde embrasse l’étendue de toute chose. Je l’écrirai donc à ceux qui craignent (Allah), qui s’acquittent de la Zakât, et à ceux qui croient en Nos Signes.
+Écris-nous,[^186] Seigneur, une heureuse part en ce bas monde comme dans l’autre ; nous revenons à Toi, bien guidés et pleins de repentir. » Il (Allah) dit alors : « Mon supplice, Je le ferai subir à qui Je veux, et Ma miséricorde embrasse l’étendue de toute chose. Je l’écrirai donc à ceux qui craignent (Allah), qui s’acquittent de la Zakât, et à ceux qui croient en Nos Signes.
 
-[186] Au sens de « destine-nous », « prédestine-nous ».
+[^186]: Au sens de « destine-nous », « prédestine-nous ».
 
 # 1111
 
@@ -4830,9 +4850,9 @@ Et lorsqu’un groupe d’entre eux dit : « Qu’avez-vous à exhorter des gens
 
 # 1119
 
-Et quand ils eurent oublié ce qui leur avait été rappelé,[187] Nous sauvâmes ceux qui proscrivaient le mal et Nous prîmes les injustes dans un supplice très dur pour prix de leurs actions perverses.
+Et quand ils eurent oublié ce qui leur avait été rappelé,[^187] Nous sauvâmes ceux qui proscrivaient le mal et Nous prîmes les injustes dans un supplice très dur pour prix de leurs actions perverses.
 
-[187] Quand les gens exhortés eurent oublié les exhortations.
+[^187]: Quand les gens exhortés eurent oublié les exhortations.
 
 # 1120
 
@@ -4920,9 +4940,9 @@ Ceux qu’Allah entend égarer n’ont point de guide. Et Il les laisse patauger
 
 # 1141
 
-Ils t’interrogent sur l’Heure et le moment de sa venue. Dis : « Sa science est du ressort de mon Seigneur. Nul autre que Lui ne la manifestera au moment qui lui est prescrit. Elle pèsera lourd dans les cieux et sur terre[188] et n’arrivera à vous que subitement. Ils t’interrogent (à son propos) comme si tu en étais prévenu. Dis : « Seul Allah en a la science. » Mais la plupart des hommes ne le savent pas.
+Ils t’interrogent sur l’Heure et le moment de sa venue. Dis : « Sa science est du ressort de mon Seigneur. Nul autre que Lui ne la manifestera au moment qui lui est prescrit. Elle pèsera lourd dans les cieux et sur terre[^188] et n’arrivera à vous que subitement. Ils t’interrogent (à son propos) comme si tu en étais prévenu. Dis : « Seul Allah en a la science. » Mais la plupart des hommes ne le savent pas.
 
-[188] Elle sera un objet de grande inquiétude aussi bien pour les hommes que pour les Anges.
+[^188]: Elle sera un objet de grande inquiétude aussi bien pour les hommes que pour les Anges.
 
 # 1142
 
@@ -4974,9 +4994,9 @@ Recherche la conciliation, ordonne le convenable et évite les ignorants.
 
 # 1154
 
-Et si Satan te tente par quelque tentation,[189] trouve refuge auprès d’Allah, car Il Entend Tout et Il est Omniscient.
+Et si Satan te tente par quelque tentation,[^189] trouve refuge auprès d’Allah, car Il Entend Tout et Il est Omniscient.
 
-[189] « Tenter par quelque tentation » est un emploi du verbe avec son complément interne (comme « vivre sa vie », « dormir son sommeil », « aller son chemin »). Nous y recourons ici pour mieux rendre la structure arabe dans le verset : ينزغنّك نزغ .
+[^189]: « Tenter par quelque tentation » est un emploi du verbe avec son complément interne (comme « vivre sa vie », « dormir son sommeil », « aller son chemin »). Nous y recourons ici pour mieux rendre la structure arabe dans le verset : ينزغنّك نزغ .
 
 # 1155
 
@@ -5000,9 +5020,9 @@ Invoque ton Seigneur en ton for intérieur, avec humilité et crainte, à voix b
 
 # 1160
 
-Ceux qui se trouvent auprès de ton Seigneur ne refusent pas, par orgueil, de L’adorer. Ils Lui rendent gloire et se prosternent devant Lui.[190]
+Ceux qui se trouvent auprès de ton Seigneur ne refusent pas, par orgueil, de L’adorer. Ils Lui rendent gloire et se prosternent devant Lui.[^190]
 
-[190] Juste après ce verset, il est recommandé de se prosterner, soit pendant la lecture ordinaire du Coran, soit pendant sa récitation au cours de la Çalât. Il s’agit de la première sur un total de quatorze prosternations recommandées durant la lecture du Coran.
+[^190]: Juste après ce verset, il est recommandé de se prosterner, soit pendant la lecture ordinaire du Coran, soit pendant sa récitation au cours de la Çalât. Il s’agit de la première sur un total de quatorze prosternations recommandées durant la lecture du Coran.
 
 # 1161
 
@@ -5099,9 +5119,9 @@ Si Allah leur avait reconnu quelque bien, Il les aurait fait entendre ; et s’I
 
 # 1184
 
-Ô vous qui avez cru ! Répondez à Allah, et au Messager lorsqu’il vous appelle à ce qui vous donne vie ; et sachez qu’Allah s’interpose entre l’homme et son cœur,[191] et que c’est vers Lui que vous serez rassemblés en foule.
+Ô vous qui avez cru ! Répondez à Allah, et au Messager lorsqu’il vous appelle à ce qui vous donne vie ; et sachez qu’Allah s’interpose entre l’homme et son cœur,[^191] et que c’est vers Lui que vous serez rassemblés en foule.
 
-[191] C’est-à-dire que, quand Il veut, Il s’interpose entre la foi du croyant et la mécréance, et entre le mécréant et la foi. Mais Il peut tout aussi bien, s’Il le veut, faire dévier le cœur du croyant en le soumettant à l’épreuve de la tentation. Voilà qui justifie l’appel adressé aux croyants au verset suivant : les croyants eux-mêmes doivent craindre la tentation, car celle-ci ne menace pas que les mécréants. « Les cœurs, disait le Prophète (paix et bénédiction d’Allah sur lui), sont entre deux Doigts d’Allah, Maître de l’Univers. » (hadîth rapporté par l’imam Ahmed d’après Anas Ibn Mâlik.)
+[^191]: C’est-à-dire que, quand Il veut, Il s’interpose entre la foi du croyant et la mécréance, et entre le mécréant et la foi. Mais Il peut tout aussi bien, s’Il le veut, faire dévier le cœur du croyant en le soumettant à l’épreuve de la tentation. Voilà qui justifie l’appel adressé aux croyants au verset suivant : les croyants eux-mêmes doivent craindre la tentation, car celle-ci ne menace pas que les mécréants. « Les cœurs, disait le Prophète (paix et bénédiction d’Allah sur lui), sont entre deux Doigts d’Allah, Maître de l’Univers. » (hadîth rapporté par l’imam Ahmed d’après Anas Ibn Mâlik.)
 
 # 1185
 
@@ -5117,9 +5137,9 @@ Et souvenez-vous quand vous étiez peu nombreux et faibles sur terre. Vous redou
 
 # 1188
 
-Et sachez que vos fortunes et vos enfants ne sont pour vous qu’une tentation[192] et qu’il y a, auprès d’Allah, une très grande récompense.
+Et sachez que vos fortunes et vos enfants ne sont pour vous qu’une tentation[^192] et qu’il y a, auprès d’Allah, une très grande récompense.
 
-[192] Une tentation qui met l’homme à l’épreuve.
+[^192]: Une tentation qui met l’homme à l’épreuve.
 
 # 1189
 
@@ -5147,9 +5167,9 @@ Mais pourquoi donc Allah ne les soumettrait-Il pas au supplice alors qu’ils re
 
 # 1195
 
-Ainsi leur prière[193] près de la Maison Sacrée (la Kaâba) n’était que sifflements et battements de mains : « Goûtez donc le supplice, pour votre mécréance ! »
+Ainsi leur prière[^193] près de la Maison Sacrée (la Kaâba) n’était que sifflements et battements de mains : « Goûtez donc le supplice, pour votre mécréance ! »
 
-[193] Leur prière n’était pas la Çalât mais un rituel païen. Selon Ibn ‘Abbâs, il s’agit de circumambulations autour de la Kaâba que les païens de Qoraïch effectuaient en étant nus, en sifflant et en battant des mains.
+[^193]: Leur prière n’était pas la Çalât mais un rituel païen. Selon Ibn ‘Abbâs, il s’agit de circumambulations autour de la Kaâba que les païens de Qoraïch effectuaient en étant nus, en sifflant et en battant des mains.
 
 # 1196
 
@@ -5173,10 +5193,11 @@ Et s’ils se détournent encore, sachez alors qu’Allah est votre Maître. Le 
 
 # 1201
 
-Et sachez que, quelque butin que vous récoltiez, il en revient le cinquième à Allah, au Messager, à ses proches, aux orphelins, aux pauvres et aux voyageurs de grand chemin, si vous croyez en Allah et à ce que Nous avons révélé à Notre serviteur[194] le jour du Discernement (Al-Furqân),[195] jour où les deux troupes (ennemies) se rencontrèrent. Allah est de Toute chose Infiniment Capable.
+Et sachez que, quelque butin que vous récoltiez, il en revient le cinquième à Allah, au Messager, à ses proches, aux orphelins, aux pauvres et aux voyageurs de grand chemin, si vous croyez en Allah et à ce que Nous avons révélé à Notre serviteur[^194] le jour du Discernement (Al-Furqân),[^195] jour où les deux troupes (ennemies) se rencontrèrent. Allah est de Toute chose Infiniment Capable.
 
-[194] Muhammad, (paix et bénédiction d’Allah sur lui).
-[195] Jour de Badr, jour de vérité où il fut possible de discerner entre le bien et le mal. Mais le mot « Al-Furqân » est aussi l’un des noms du Coran.
+[^194]: Muhammad, (paix et bénédiction d’Allah sur lui).
+
+[^195]: Jour de Badr, jour de vérité où il fut possible de discerner entre le bien et le mal. Mais le mot « Al-Furqân » est aussi l’un des noms du Coran.
 
 # 1202
 
@@ -5184,9 +5205,9 @@ Vous étiez sur le versant le plus proche, et eux étaient sur le versant le plu
 
 # 1203
 
-Et (souviens-toi) quand, en songe, Allah te les[196] montra peu nombreux. S’Il te les avait montrés nombreux, vous (les croyants) auriez lâché pied et vous vous seriez âprement disputés à propos de cette situation. Mais Allah vous épargna (cette discorde) Lui Qui Sait ce qu’il y a au fond des cœurs.
+Et (souviens-toi) quand, en songe, Allah te les[^196] montra peu nombreux. S’Il te les avait montrés nombreux, vous (les croyants) auriez lâché pied et vous vous seriez âprement disputés à propos de cette situation. Mais Allah vous épargna (cette discorde) Lui Qui Sait ce qu’il y a au fond des cœurs.
 
-[196] Les combattants ennemis.
+[^196]: Les combattants ennemis.
 
 # 1204
 
@@ -5254,9 +5275,9 @@ Que les mécréants ne s’imaginent surtout pas qu’ils Nous ont distancés (d
 
 # 1220
 
-Préparez donc, pour leur faire face, tout ce que vous pouvez comme forces et comme (impétueuse) cavalerie, pour dissuader[197] l’ennemi d’Allah et le vôtre, ainsi que d’autres (ennemis) dont vous ne savez rien mais qu’Allah connaît. Vous ne dépenserez rien pour la cause d’Allah qui ne vous soit pleinement rendu, et vous ne serez point lésés.
+Préparez donc, pour leur faire face, tout ce que vous pouvez comme forces et comme (impétueuse) cavalerie, pour dissuader[^197] l’ennemi d’Allah et le vôtre, ainsi que d’autres (ennemis) dont vous ne savez rien mais qu’Allah connaît. Vous ne dépenserez rien pour la cause d’Allah qui ne vous soit pleinement rendu, et vous ne serez point lésés.
 
-[197] Nous avons traduit ترهبون (turhibûn) par « dissuader », car c’est bien le sens visé dans ce verset. Cette traduction montre, à juste titre, que la campagne tendancieuse contre l’Islam se fonde sur une fausse interprétation du verbe dont il est question. La racine trilitère « rahaba » entendue abusivement au sens de « terrifier », et partant « terroriser », certains traducteurs ont prêté le flanc à cette campagne injuste qui voudrait faire passer ce verset pour un appel explicite au terrorisme. Il n’en est rien. L’Islam, religion de tolérance, s’inscrit contre toute violence gratuite et injuste. Il revendique seulement le droit à l’auto-défense et à la vigilance dissuasive.
+[^197]: Nous avons traduit ترهبون (turhibûn) par « dissuader », car c’est bien le sens visé dans ce verset. Cette traduction montre, à juste titre, que la campagne tendancieuse contre l’Islam se fonde sur une fausse interprétation du verbe dont il est question. La racine trilitère « rahaba » entendue abusivement au sens de « terrifier », et partant « terroriser », certains traducteurs ont prêté le flanc à cette campagne injuste qui voudrait faire passer ce verset pour un appel explicite au terrorisme. Il n’en est rien. L’Islam, religion de tolérance, s’inscrit contre toute violence gratuite et injuste. Il revendique seulement le droit à l’auto-défense et à la vigilance dissuasive.
 
 # 1221
 
@@ -5308,9 +5329,9 @@ Ceux qui ont cru, ont émigré et lutté en donnant de leurs biens et de leurs p
 
 # 1233
 
-Ceux qui ont mécru sont parents et solidaires les uns des autres. Si vous n’agissez pas de la sorte,[198] il règnera sur terre la discorde et le chaos.
+Ceux qui ont mécru sont parents et solidaires les uns des autres. Si vous n’agissez pas de la sorte,[^198] il règnera sur terre la discorde et le chaos.
 
-[198] Si vous ne combattez pas les mécréants.
+[^198]: Si vous ne combattez pas les mécréants.
 
 # 1234
 
@@ -5318,15 +5339,15 @@ Ceux qui ont cru, ont émigré et lutté pour la cause d’Allah, ceux qui leur 
 
 # 1235
 
-Et ceux qui auront cru par la suite, auront émigré et lutté avec vous pour la cause d’Allah, ceux-là seront des vôtres. Mais ceux qui sont unis par les liens du sang, ceux-là ont la préséance les uns par rapport aux autres,[199] conformément au Livre d’Allah. Allah Sait parfaitement Toute chose.
+Et ceux qui auront cru par la suite, auront émigré et lutté avec vous pour la cause d’Allah, ceux-là seront des vôtres. Mais ceux qui sont unis par les liens du sang, ceux-là ont la préséance les uns par rapport aux autres,[^199] conformément au Livre d’Allah. Allah Sait parfaitement Toute chose.
 
-[199] Avant, les Émigrés et les Alliés (Al-Muhâjirûn et Al-Ançâr), considérés comme des parents par la foi, pouvaient hériter les uns des autres. Depuis ce verset, cette pratique est, à juste raison, annulée. Car elle lésait les vrais parents (par les liens du sang).
+[^199]: Avant, les Émigrés et les Alliés (Al-Muhâjirûn et Al-Ançâr), considérés comme des parents par la foi, pouvaient hériter les uns des autres. Depuis ce verset, cette pratique est, à juste raison, annulée. Car elle lésait les vrais parents (par les liens du sang).
 
 # 1236
 
-(Voici) la proclamation de désengagement[201] d’Allah et de Son Messager (dénonçant) le pacte que vous avez conclu avec les associâtres.
+(Voici) la proclamation de désengagement[^201] d’Allah et de Son Messager (dénonçant) le pacte que vous avez conclu avec les associâtres.
 
-[201] Le termeبراءة peut signifier « dégagement de toute responsabilité ». Voilà pourquoi, faute de mieux, nous l’avons traduit par « désengagement » : c’est une rupture de pacte, une déclaration de rupture de pacte d’avec les mécréants.
+[^201]: Le termeبراءة peut signifier « dégagement de toute responsabilité ». Voilà pourquoi, faute de mieux, nous l’avons traduit par « désengagement » : c’est une rupture de pacte, une déclaration de rupture de pacte d’avec les mécréants.
 
 # 1237
 
@@ -5342,9 +5363,9 @@ Exception sera faite de ceux qui, d’entre les associâtres, vous sont liés pa
 
 # 1240
 
-Aussitôt qu’expirent les mois sacrés,[202] tuez les associâtres là où vous les trouverez. Appréhendez-les, assiégez-les et soyez à l’affût, et dressez-leur toutes sortes d’embuscades. Et s’ils se repentent, observent la Çalât et s’acquittent de la Zakât, alors laissez-les en paix, car Allah est Absoluteur et Tout Miséricordieux.
+Aussitôt qu’expirent les mois sacrés,[^202] tuez les associâtres là où vous les trouverez. Appréhendez-les, assiégez-les et soyez à l’affût, et dressez-leur toutes sortes d’embuscades. Et s’ils se repentent, observent la Çalât et s’acquittent de la Zakât, alors laissez-les en paix, car Allah est Absoluteur et Tout Miséricordieux.
 
-[202] Il s’agit des quatre mois évoqués au verset 2.
+[^202]: Il s’agit des quatre mois évoqués au verset 2.
 
 # 1241
 
@@ -5372,9 +5393,9 @@ S’ils se repentent, accomplissent la Çalât et s’acquittent de la Zakât, a
 
 # 1247
 
-Et s’ils rompent leur engagement pris sous serment[203] et dénigrent votre religion, vous combattrez alors les chefs de file de la mécréance, qui ne respectent aucun serment. Ainsi, peut-être, s’arrêteront-ils.
+Et s’ils rompent leur engagement pris sous serment[^203] et dénigrent votre religion, vous combattrez alors les chefs de file de la mécréance, qui ne respectent aucun serment. Ainsi, peut-être, s’arrêteront-ils.
 
-[203] Le terme « serment » est employé au sens d’engagement, comme l’explique Ibn Kathîr.
+[^203]: Le terme « serment » est employé au sens d’engagement, comme l’explique Ibn Kathîr.
 
 # 1248
 
@@ -5470,9 +5491,9 @@ C’est Lui Qui envoya Son Messager avec l’orientation juste (hudâ) et la rel
 
 # 1271
 
-Pour Allah, et tel qu’il fut prescrit dans Son Livre le jour où Il créa les cieux et la terre, les mois sont au nombre de douze, dont quatre sont sacrés.[204] Telle est la religion droite. Ne soyez donc pas injustes envers vous-mêmes pendant ces mois. Livrez combat, tous ensemble, à tous les associâtres, comme ils vous livrent combat, tous ensemble, et sachez qu’Allah est avec ceux qui Le craignent.
+Pour Allah, et tel qu’il fut prescrit dans Son Livre le jour où Il créa les cieux et la terre, les mois sont au nombre de douze, dont quatre sont sacrés.[^204] Telle est la religion droite. Ne soyez donc pas injustes envers vous-mêmes pendant ces mois. Livrez combat, tous ensemble, à tous les associâtres, comme ils vous livrent combat, tous ensemble, et sachez qu’Allah est avec ceux qui Le craignent.
 
-[204] Dhul-Qi’da, Dhul-Hijja, Muharram et Rajab.
+[^204]: Dhul-Qi’da, Dhul-Hijja, Muharram et Rajab.
 
 # 1272
 
@@ -5488,9 +5509,9 @@ Si vous ne vous précipitez pas vers le combat, Il vous infligera un supplice tr
 
 # 1275
 
-Et si vous ne venez pas à son secours (au secours du Prophète), Allah est déjà venu à son secours lorsque les mécréants l’avaient expulsé et qu’il était le deuxième des deux (hommes que les mécréants avaient expulsés).[205] Ils étaient alors dans la grotte et, lui, disait à son compagnon : « Ne t’afflige point, car Allah est avec nous ! » Allah fit alors descendre sur lui Sa quiétude (sakîna), l’appuya d’armées que vous ne pouviez voir, jeta bas la parole des mécréants et éleva la Parole d’Allah, car Allah est Tout-Puissant et Sage.
+Et si vous ne venez pas à son secours (au secours du Prophète), Allah est déjà venu à son secours lorsque les mécréants l’avaient expulsé et qu’il était le deuxième des deux (hommes que les mécréants avaient expulsés).[^205] Ils étaient alors dans la grotte et, lui, disait à son compagnon : « Ne t’afflige point, car Allah est avec nous ! » Allah fit alors descendre sur lui Sa quiétude (sakîna), l’appuya d’armées que vous ne pouviez voir, jeta bas la parole des mécréants et éleva la Parole d’Allah, car Allah est Tout-Puissant et Sage.
 
-[205] Car ils étaient deux : le Prophète (paix et bénédiction d’Allah sur lui) et Abu Bakr.
+[^205]: Car ils étaient deux : le Prophète (paix et bénédiction d’Allah sur lui) et Abu Bakr.
 
 # 1276
 
@@ -5526,9 +5547,9 @@ Ils ont déjà cherché, auparavant, à semer la discorde. Ils ont interverti au
 
 # 1284
 
-Il est, parmi eux, celui qui dit : « Autorise-moi (à ne pas aller au combat) et ne me livre pas à la tentation. »[206] Mais, n’est-ce pas à la tentation qu’ils ont (finalement) succombé ? La Géhenne cerne de toutes parts les mécréants.
+Il est, parmi eux, celui qui dit : « Autorise-moi (à ne pas aller au combat) et ne me livre pas à la tentation. »[^206] Mais, n’est-ce pas à la tentation qu’ils ont (finalement) succombé ? La Géhenne cerne de toutes parts les mécréants.
 
-[206] Ce sont les hypocrites qui sont ici visés, car ils ont prétexté que, s’ils vont à la guerre, ils seront tentés par la beauté des esclaves byzantines.
+[^206]: Ce sont les hypocrites qui sont ici visés, car ils ont prétexté que, s’ils vont à la guerre, ils seront tentés par la beauté des esclaves byzantines.
 
 # 1285
 
@@ -5540,9 +5561,9 @@ Dis : « Rien ne nous atteindra qu’Allah n’ait déjà écrit (prédestiné) 
 
 # 1287
 
-Dis : « Qu’attendez-vous qu’il nous arrive sinon l’une des deux meilleures (choses possibles)?[207] Nous, en revanche, attendons qu’Allah vous frappe d’un supplice venant de Sa part ou par nos mains. Attendez alors, nous attendrons avec vous ! »
+Dis : « Qu’attendez-vous qu’il nous arrive sinon l’une des deux meilleures (choses possibles)?[^207] Nous, en revanche, attendons qu’Allah vous frappe d’un supplice venant de Sa part ou par nos mains. Attendez alors, nous attendrons avec vous ! »
 
-[207] La victoire ou le martyre.
+[^207]: La victoire ou le martyre.
 
 # 1288
 
@@ -5614,10 +5635,11 @@ Tel fut le cas de ceux qui vécurent avant vous. Ils étaient dotés d’une plu
 
 # 1305
 
-Ne leur est-il pas parvenu l’histoire de ceux qui vécurent avant eux, celle des peuples de Noé, des ‘Ad et des Thamûd, ou celle encore du peuple d’Abraham, des gens de Madyan[208] et des cités renversées ?[209] Leurs Messagers leur avaient apporté les preuves évidentes. Allah ne les avait nullement lésés mais ils se lésaient eux-mêmes.
+Ne leur est-il pas parvenu l’histoire de ceux qui vécurent avant eux, celle des peuples de Noé, des ‘Ad et des Thamûd, ou celle encore du peuple d’Abraham, des gens de Madyan[^208] et des cités renversées ?[^209] Leurs Messagers leur avaient apporté les preuves évidentes. Allah ne les avait nullement lésés mais ils se lésaient eux-mêmes.
 
-[208] Le peuple de Chou ̒ayb (paix sur lui).
-[209] Le peuple de Loth y habitait. Elles furent renversées par Allah pour punir ce peuple qui pratiquait l’homosexualité
+[^208]: Le peuple de Chou ̒ayb (paix sur lui).
+
+[^209]: Le peuple de Loth y habitait. Elles furent renversées par Allah pour punir ce peuple qui pratiquait l’homosexualité
 
 # 1306
 
@@ -5793,9 +5815,9 @@ Il ne convient ni au Prophète, ni à ceux qui ont cru, d’implorer le pardon p
 
 # 1349
 
-Quant au pardon qu’Abraham implora pour son père, il ne le fit que parce qu’il le lui avait déjà promis.[210] Or, lorsqu’il eut la preuve évidente qu’il était l’ennemi d’Allah, il le désavoua. Car Abraham n’avait de cesse d’implorer et était magnanime.
+Quant au pardon qu’Abraham implora pour son père, il ne le fit que parce qu’il le lui avait déjà promis.[^210] Or, lorsqu’il eut la preuve évidente qu’il était l’ennemi d’Allah, il le désavoua. Car Abraham n’avait de cesse d’implorer et était magnanime.
 
-[210] Abraham (paix sur lui) avait promis à son père : « J’implorerai le pardon pour toi. » Il voulait l’éloigner de l’idolâtrie et le gagner à la religion d’Allah. Mais, constatant l’opiniâtreté de son père, Abraham finira par le désavouer et il renoncera à sa promesse.
+[^210]: Abraham (paix sur lui) avait promis à son père : « J’implorerai le pardon pour toi. » Il voulait l’éloigner de l’idolâtrie et le gagner à la religion d’Allah. Mais, constatant l’opiniâtreté de son père, Abraham finira par le désavouer et il renoncera à sa promesse.
 
 # 1350
 
@@ -5859,9 +5881,9 @@ S’ils se détournent, indifférents, alors dis : « Allah me suffit! Point d�
 
 # 1365
 
-Alif, Lâm, Rā. Voici les versets du Livre éminemment structuré[211].
+Alif, Lâm, Rā. Voici les versets du Livre éminemment structuré[^211].
 
-[211] Tous les exégètes ont vu que le mot arabe حكيم est employé ici au sens de محكم . Voilà pourquoi nous avons préféré de traduire par « éminemment structuré » plutôt que par «sage ».
+[^211]: Tous les exégètes ont vu que le mot arabe حكيم est employé ici au sens de محكم . Voilà pourquoi nous avons préféré de traduire par « éminemment structuré » plutôt que par «sage ».
 
 # 1366
 
@@ -5873,15 +5895,15 @@ Votre Seigneur c’est Allah, Qui créa les cieux et la terre en six jours, puis
 
 # 1368
 
-C’est vers Lui que se fera votre retour à tous. Là fut la promesse d’Allah, toute de vérité. C’est Lui Qui initie[212] la création puis la recommence, afin de récompenser en toute justice ceux qui ont cru et accompli les bonnes œuvres. Quant à ceux qui ont mécru, ils auront pour boisson une eau bouillante et un supplice très douloureux pour (punition de) leur mécréance.
+C’est vers Lui que se fera votre retour à tous. Là fut la promesse d’Allah, toute de vérité. C’est Lui Qui initie[^212] la création puis la recommence, afin de récompenser en toute justice ceux qui ont cru et accompli les bonnes œuvres. Quant à ceux qui ont mécru, ils auront pour boisson une eau bouillante et un supplice très douloureux pour (punition de) leur mécréance.
 
-[212] Nous employons le verbe « initier » au sens de « commencer ».
+[^212]: Nous employons le verbe « initier » au sens de « commencer ».
 
 # 1369
 
-C’est Lui Qui fit du soleil une clarté et de la lune une lumière. Il en a déterminé les différentes phases[213] (de la lune), afin que vous sachiez compter les années et calculer (le temps). Allah ne créa cela qu’en toute vérité. Il détaille clairement les Signes pour les gens qui savent.
+C’est Lui Qui fit du soleil une clarté et de la lune une lumière. Il en a déterminé les différentes phases[^213] (de la lune), afin que vous sachiez compter les années et calculer (le temps). Allah ne créa cela qu’en toute vérité. Il détaille clairement les Signes pour les gens qui savent.
 
-[213] Le mot « phase » est ici employé au sens qu’il a en astronomie. Les phases lunaires sont les aspects sous lesquels la lune apparaît à l’observateur terrestre, d’après le reflet lumineux du soleil. Le mot vient justement du verbe grec « pheinien », qui signifie « apparaître » et qui a donné le mot « phénomène » : ce qui apparaît.
+[^213]: Le mot « phase » est ici employé au sens qu’il a en astronomie. Les phases lunaires sont les aspects sous lesquels la lune apparaît à l’observateur terrestre, d’après le reflet lumineux du soleil. Le mot vient justement du verbe grec « pheinien », qui signifie « apparaître » et qui a donné le mot « phénomène » : ce qui apparaît.
 
 # 1370
 
@@ -5905,9 +5927,9 @@ Leur prière y sera : « Gloire Te soit rendue, ô Allah ! » et leur salutation
 
 # 1375
 
-Si Allah hâtait pour les hommes le mal à la mesure de leur empressement pour le bien, ils verraient alors survenir l’arrêt[214] du terme de leur vie. Nous laissons alors ceux qui n’aspirent nullement à Nous rencontrer, patauger aveuglément dans leur rébellion.
+Si Allah hâtait pour les hommes le mal à la mesure de leur empressement pour le bien, ils verraient alors survenir l’arrêt[^214] du terme de leur vie. Nous laissons alors ceux qui n’aspirent nullement à Nous rencontrer, patauger aveuglément dans leur rébellion.
 
-[214] Le terme « arrêt » est employé aux deux sens : au sens ordinaire de « fin » et au sens juridique de « décret ».
+[^214]: Le terme « arrêt » est employé aux deux sens : au sens ordinaire de « fin » et au sens juridique de « décret ».
 
 # 1376
 
@@ -5927,9 +5949,9 @@ Et quand Nos versets leur sont récités, explicites et clairs, ceux qui n’asp
 
 # 1380
 
-Dis encore : « Si Allah l’avait voulu, je ne vous l’aurais pas récité, et Il ne vous l’aurait pas fait connaître. Je suis bien resté parmi vous avant (sa révélation) toute une vie.[215] N’êtes-vous pas doués de raison ?
+Dis encore : « Si Allah l’avait voulu, je ne vous l’aurais pas récité, et Il ne vous l’aurait pas fait connaître. Je suis bien resté parmi vous avant (sa révélation) toute une vie.[^215] N’êtes-vous pas doués de raison ?
 
-[215] Le Prophète (paix et bénédiction d’Allah sur lui) a vécu quarante ans à La Mecque avant de recevoir la Révélation.
+[^215]: Le Prophète (paix et bénédiction d’Allah sur lui) a vécu quarante ans à La Mecque avant de recevoir la Révélation.
 
 # 1381
 
@@ -5949,9 +5971,9 @@ Et ils disent : « Si seulement il descendait sur lui un miracle de son Seigneur
 
 # 1385
 
-Quand Nous donnons à goûter aux hommes Notre miséricorde, ils se mettent à tramer les intrigues contre Nos versets. Dis : « Allah est encore plus prompt à déjouer les intrigues. » tandis que Nos émissaires[216] inscrivent ce que vous tramez comme intrigues.
+Quand Nous donnons à goûter aux hommes Notre miséricorde, ils se mettent à tramer les intrigues contre Nos versets. Dis : « Allah est encore plus prompt à déjouer les intrigues. » tandis que Nos émissaires[^216] inscrivent ce que vous tramez comme intrigues.
 
-[216] Nous employons le mot « émissaires » au lieu de « messagers » ou « envoyés » pour ne pas les confondre avec les Prophètes, le mot visant ici les Anges.
+[^216]: Nous employons le mot « émissaires » au lieu de « messagers » ou « envoyés » pour ne pas les confondre avec les Prophètes, le mot visant ici les Anges.
 
 # 1386
 
@@ -6003,9 +6025,9 @@ C’est ainsi que s’est réalisé le verdict d’Allah à l’encontre de ceux
 
 # 1398
 
-Dis : « Qui donc parmi les associés (que vous prêtez à Allah) initie[217] la création puis la recommence ? » Dis : « Allah initie la création puis la rend (à la vie). Jusqu’où vous obstinerez-vous donc à ignorer (Son adoration) ? »
+Dis : « Qui donc parmi les associés (que vous prêtez à Allah) initie[^217] la création puis la recommence ? » Dis : « Allah initie la création puis la rend (à la vie). Jusqu’où vous obstinerez-vous donc à ignorer (Son adoration) ? »
 
-[217] Voir la note 212.
+[^217]: Voir la note 212.
 
 # 1399
 
@@ -6037,9 +6059,9 @@ Et s’ils te taxent de mensonge, dis-leur : « J’ai mon œuvre et vous avez l
 
 # 1406
 
-Et parmi eux, il en est qui t’écoutent volontiers. Mais est-ce toi qui pourras faire entendre les sourds quand ils n’entendent pas[218] ?
+Et parmi eux, il en est qui t’écoutent volontiers. Mais est-ce toi qui pourras faire entendre les sourds quand ils n’entendent pas[^218] ?
 
-[218] Le verbe « entendre » est employé ici au sens étymologisant de « comprendre » (« intendere » : percevoir par l’entendement.).
+[^218]: Le verbe « entendre » est employé ici au sens étymologisant de « comprendre » (« intendere » : percevoir par l’entendement.).
 
 # 1407
 
@@ -6051,9 +6073,9 @@ Allah ne lèse les hommes en rien, mais ce sont les hommes qui se lèsent eux-m�
 
 # 1409
 
-Le jour où Il les rassemblera comme s’ils n’étaient restés (sur terre) qu’une heure (de la journée), afin qu’ils fassent connaissance les uns avec les autres, ceux qui avaient dénoncé comme mensonge la rencontre avec Allah seront perdus,[219] car ils n’auront pas été bien guidés.
+Le jour où Il les rassemblera comme s’ils n’étaient restés (sur terre) qu’une heure (de la journée), afin qu’ils fassent connaissance les uns avec les autres, ceux qui avaient dénoncé comme mensonge la rencontre avec Allah seront perdus,[^219] car ils n’auront pas été bien guidés.
 
-[219] La traduction littérale voudrait « perdants », mais, en français, le mot « perdus », malgré sa forme passive, exprime l’idée d’une responsabilité engagée dans cette « perte ». Si bien qu’un « homme perdu », signifie « celui qui a tout perdu », généralement par la faute de son propre égarement.
+[^219]: La traduction littérale voudrait « perdants », mais, en français, le mot « perdus », malgré sa forme passive, exprime l’idée d’une responsabilité engagée dans cette « perte ». Si bien qu’un « homme perdu », signifie « celui qui a tout perdu », généralement par la faute de son propre égarement.
 
 # 1410
 
@@ -6085,9 +6107,9 @@ Puis il sera dit à ceux qui auront commis des injustices : «Goûtez le supplic
 
 # 1417
 
-Et ils te demandent de les informer : « Cela est-il vrai ? »[220] Dis : « Que oui ! Par mon Seigneur ! C’est là la pure vérité et vous ne sauriez vous dérober (à la puissance d’Allah). »
+Et ils te demandent de les informer : « Cela est-il vrai ? »[^220] Dis : « Que oui ! Par mon Seigneur ! C’est là la pure vérité et vous ne sauriez vous dérober (à la puissance d’Allah). »
 
-[220] Le jour de la Résurrection et tout ce qu’il implique.
+[^220]: Le jour de la Résurrection et tout ce qu’il implique.
 
 # 1418
 
@@ -6119,9 +6141,9 @@ Et que penseront (de ce qu’il sera fait d’eux) ceux qui débitent des menson
 
 # 1425
 
-Tu n’auras à te soucier d’aucune affaire, tu ne réciteras aucun extrait du Coran et vous[221] n’accomplirez aucune action dont Nous ne soyons témoin quand vous l’entamerez. Rien n’échappe à ton Seigneur, fût-ce le poids d’un atome sur terre ou dans les cieux, ni même un poids plus petit ou plus grand, qui ne soit consigné dans un Livre explicite.
+Tu n’auras à te soucier d’aucune affaire, tu ne réciteras aucun extrait du Coran et vous[^221] n’accomplirez aucune action dont Nous ne soyons témoin quand vous l’entamerez. Rien n’échappe à ton Seigneur, fût-ce le poids d’un atome sur terre ou dans les cieux, ni même un poids plus petit ou plus grand, qui ne soit consigné dans un Livre explicite.
 
-[221] Le passage de « tu » à « vous » est très expressif. Le style coranique use fréquemment de ce procédé syntaxique que la rhétorique ancienne appelait le « zeugme » ou « l’attelage ». Tout comme, autre part, on rencontre très souvent la rupture syntaxique (ou « anacoluthe »).
+[^221]: Le passage de « tu » à « vous » est très expressif. Le style coranique use fréquemment de ce procédé syntaxique que la rhétorique ancienne appelait le « zeugme » ou « l’attelage ». Tout comme, autre part, on rencontre très souvent la rupture syntaxique (ou « anacoluthe »).
 
 # 1426
 
@@ -6145,9 +6167,9 @@ C’est à Allah que revient ce qui est dans les cieux et sur terre. Que suivent
 
 # 1431
 
-C’est Lui Qui, pour vous, a fait la nuit où vous trouvez la quiétude, et le jour où vous voyez clair. Ce sont bien là des Signes pour ceux qui entendent.[222]
+C’est Lui Qui, pour vous, a fait la nuit où vous trouvez la quiétude, et le jour où vous voyez clair. Ce sont bien là des Signes pour ceux qui entendent.[^222]
 
-[222] Le verbe « entendre » est employé au sens étymologique de « comprendre », (voir la note 218).
+[^222]: Le verbe « entendre » est employé au sens étymologique de « comprendre », (voir la note 218).
 
 # 1432
 
@@ -6231,15 +6253,15 @@ Nous révélâmes à Moïse et à son frère : « Installez, ton frère et toi, 
 
 # 1452
 
-Moïse dit : « Seigneur ! Tu as donné à Pharaon et ses dignitaires l’apparat et l’opulence en ce bas monde. Seigneur ! Voila qu’ils s’en servent pour éloigner (les gens) de Ta voie. Seigneur ! Anéantis leurs biens[223] et scelle leurs cœurs (en les rendant plus durs), au point qu’ils ne croiront qu’en voyant le supplice très douloureux. »
+Moïse dit : « Seigneur ! Tu as donné à Pharaon et ses dignitaires l’apparat et l’opulence en ce bas monde. Seigneur ! Voila qu’ils s’en servent pour éloigner (les gens) de Ta voie. Seigneur ! Anéantis leurs biens[^223] et scelle leurs cœurs (en les rendant plus durs), au point qu’ils ne croiront qu’en voyant le supplice très douloureux. »
 
-[223] Autre sens : « Transforme en pierres, pétrifie leurs richesses ».
+[^223]: Autre sens : « Transforme en pierres, pétrifie leurs richesses ».
 
 # 1453
 
-« Votre prière est exaucée, dit (Allah). Agissez avec droiture et ne suivez point le chemin de ceux qui ne savent pas. »[224]
+« Votre prière est exaucée, dit (Allah). Agissez avec droiture et ne suivez point le chemin de ceux qui ne savent pas. »[^224]
 
-[224] Allah s’adresse ici à Moïse et son frère Aaron.
+[^224]: Allah s’adresse ici à Moïse et son frère Aaron.
 
 # 1454
 
@@ -6255,9 +6277,9 @@ Aujourd’hui, Nous épargnerons ta dépouille afin qu’elle serve d’exemple 
 
 # 1457
 
-Nous installâmes les Enfants d’Israël en un lieu béni, et leur dispensâmes des nourritures les plus pures. Ils ne divergèrent ensuite que lorsque leur fut venue la science (la vérité).[225] Ton Seigneur les départagera, au Jour de la Résurrection, sur ce qui les opposait.
+Nous installâmes les Enfants d’Israël en un lieu béni, et leur dispensâmes des nourritures les plus pures. Ils ne divergèrent ensuite que lorsque leur fut venue la science (la vérité).[^225] Ton Seigneur les départagera, au Jour de la Résurrection, sur ce qui les opposait.
 
-[225] La vérité apportée par Muhammad (paix et bénédiction d’Allah sur lui).
+[^225]: La vérité apportée par Muhammad (paix et bénédiction d’Allah sur lui).
 
 # 1458
 
@@ -6265,9 +6287,9 @@ Si tu es dans le doute au sujet de ce que Nous t’avons révélé, interroge ce
 
 # 1459
 
-Et ne sois pas de ceux qui ont osé démentir[226]les Signes d’Allah, ou tu serais alors du nombre des perdants.
+Et ne sois pas de ceux qui ont osé démentir[^226]les Signes d’Allah, ou tu serais alors du nombre des perdants.
 
-[226] La traduction du verbe arabe كذّب , nécessite souvent que l’on recoure à la locution un peu lourde « traiter de mensonge ». Nous l’avons parfois évitée en utilisant le verbe « démentir ». Or, comme on ne « dément » ordinairement que ce qui est vraiment mensonge (tel n’est pas le cas du message de Muhammad), nous avons utilisé « oser démentir », pour montrer que l’entreprise des mécréants est une vaine tentative, et partant une cause perdue et une calomnie.
+[^226]: La traduction du verbe arabe كذّب , nécessite souvent que l’on recoure à la locution un peu lourde « traiter de mensonge ». Nous l’avons parfois évitée en utilisant le verbe « démentir ». Or, comme on ne « dément » ordinairement que ce qui est vraiment mensonge (tel n’est pas le cas du message de Muhammad), nous avons utilisé « oser démentir », pour montrer que l’entreprise des mécréants est une vaine tentative, et partant une cause perdue et une calomnie.
 
 # 1460
 
@@ -6371,15 +6393,15 @@ Excepté ceux qui savent prendre patience et accomplissent les bonnes œuvres, c
 
 # 1485
 
-Il peut arriver que tu omettes[227] une partie de ce qui t’est révélé et que tu aies le cœur serré quand ils disent : « Si au moins était descendu sur lui un trésor, ou était envoyé un Ange en sa compagnie ! » Tu n’es chargé que d’avertir. Allah est de Toute chose Garant.
+Il peut arriver que tu omettes[^227] une partie de ce qui t’est révélé et que tu aies le cœur serré quand ils disent : « Si au moins était descendu sur lui un trésor, ou était envoyé un Ange en sa compagnie ! » Tu n’es chargé que d’avertir. Allah est de Toute chose Garant.
 
-[227] Que tu omettes d’enseigner une partie de ton Message.
+[^227]: Que tu omettes d’enseigner une partie de ton Message.
 
 # 1486
 
-Ils diront encore : « Il l’a inventé. »[228] Dis : « Produisez donc dix sourates de semblables, qui soient inventées, et appelez (pour le faire) qui vous pourrez en dehors d’Allah, si vous dites vrai. »
+Ils diront encore : « Il l’a inventé. »[^228] Dis : « Produisez donc dix sourates de semblables, qui soient inventées, et appelez (pour le faire) qui vous pourrez en dehors d’Allah, si vous dites vrai. »
 
-[228] Le Coran.
+[^228]: Le Coran.
 
 # 1487
 
@@ -6399,9 +6421,9 @@ Celui qui détient une preuve évidente venant de son Seigneur, suivie par un t�
 
 # 1491
 
-Est-il plus injuste que ceux qui débitent des mensonges sur le compte d’Allah ? Ceux-là seront amenés à comparaître devant leur Seigneur et les témoins[229] diront alors : « Ce sont ceux qui ont menti au sujet de leur Seigneur. » Puisse la malédiction d’Allah frapper les injustes,
+Est-il plus injuste que ceux qui débitent des mensonges sur le compte d’Allah ? Ceux-là seront amenés à comparaître devant leur Seigneur et les témoins[^229] diront alors : « Ce sont ceux qui ont menti au sujet de leur Seigneur. » Puisse la malédiction d’Allah frapper les injustes,
 
-[229] Anges et Prophètes.
+[^229]: Anges et Prophètes.
 
 # 1492
 
@@ -6437,9 +6459,9 @@ de n’adorer qu’Allah ; je crains pour vous le supplice d’un jour très dou
 
 # 1500
 
-L’assemblée des notables de son peuple, qui étaient mécréants, dirent : « Nous voyons que tu n’es qu’un simple humain comme nous, et nous voyons que seule notre valetaille[230] t’a suivi du premier coup. Et nous ne vous voyons aucun mérite par rapport à nous. Nous pensons plutôt que vous êtes des menteurs. »
+L’assemblée des notables de son peuple, qui étaient mécréants, dirent : « Nous voyons que tu n’es qu’un simple humain comme nous, et nous voyons que seule notre valetaille[^230] t’a suivi du premier coup. Et nous ne vous voyons aucun mérite par rapport à nous. Nous pensons plutôt que vous êtes des menteurs. »
 
-[230] Notre racaille, notre populace, la lie d’entre nous.
+[^230]: Notre racaille, notre populace, la lie d’entre nous.
 
 # 1501
 
@@ -6471,10 +6493,11 @@ Et pour autant que je veuille vous conseiller, mes conseils ne vous serviraient 
 
 # 1508
 
-Disent-ils donc : « Il l’a inventé ! » Dis alors : « Si je l’ai inventé, je serai seul à répondre de mon crime,[231] mais je suis innocent des vôtres. »[232]
+Disent-ils donc : « Il l’a inventé ! » Dis alors : « Si je l’ai inventé, je serai seul à répondre de mon crime,[^231] mais je suis innocent des vôtres. »[^232]
 
-[231] Et à en mériter la punition devant Allah.
-[232] Je suis innocent de vos calomnies.
+[^231]: Et à en mériter la punition devant Allah.
+
+[^232]: Je suis innocent de vos calomnies.
 
 # 1509
 
@@ -6494,9 +6517,9 @@ Et vous apprendrez bientôt qui subira un supplice humiliant et encourra un châ
 
 # 1513
 
-Lorsque Notre commandement fut venu et que la fournaise se mit à bouillonner,[233] Nous dîmes : « Porte à bord (de cette Arche) un couple de chaque espèce, les membres de ta famille - excepté ceux contre qui le verdict (divin) est déjà prononcé - ainsi que ceux qui ont cru. » Mais ceux-là n’étaient pas nombreux.
+Lorsque Notre commandement fut venu et que la fournaise se mit à bouillonner,[^233] Nous dîmes : « Porte à bord (de cette Arche) un couple de chaque espèce, les membres de ta famille - excepté ceux contre qui le verdict (divin) est déjà prononcé - ainsi que ceux qui ont cru. » Mais ceux-là n’étaient pas nombreux.
 
-[233] Ce doit être un signe avant coureur qu’Allah indiqua à Noé et qui devait traduire l’ordre de peupler l’Arche d’un couple de chaque espèce. Selon Ibn Kathîr, la « fournaise qui bouillonne » renvoie ici à la terre qui sera transformée en sources jaillissantes.
+[^233]: Ce doit être un signe avant coureur qu’Allah indiqua à Noé et qui devait traduire l’ordre de peupler l’Arche d’un couple de chaque espèce. Selon Ibn Kathîr, la « fournaise qui bouillonne » renvoie ici à la terre qui sera transformée en sources jaillissantes.
 
 # 1514
 
@@ -6536,9 +6559,9 @@ Voilà des informations (provenant) de l’Inconnaissable (ghayb), que Nous te r
 
 # 1523
 
-Aux ‘Ad, (Nous envoyâmes) leur frère Hûd qui leur dit : « Ô peuple mien ! Adorez Allah. Vous n’avez point d’autre divinité que Lui. Mais vous n’êtes vraiment que des inventeurs (d’illusions).[234]
+Aux ‘Ad, (Nous envoyâmes) leur frère Hûd qui leur dit : « Ô peuple mien ! Adorez Allah. Vous n’avez point d’autre divinité que Lui. Mais vous n’êtes vraiment que des inventeurs (d’illusions).[^234]
 
-[234] C’est qu’ils ont inventé des divinités fictives.
+[^234]: C’est qu’ils ont inventé des divinités fictives.
 
 # 1524
 
@@ -6562,9 +6585,9 @@ en dehors de Lui. Complotez donc tous contre moi et ne me laissez aucun répit.
 
 # 1529
 
-Je m’en remets à Allah, mon Seigneur et le vôtre. Il n’est aucune créature qu’Il ne tienne par le toupet.[235] Mon Seigneur est sur une voie droite.
+Je m’en remets à Allah, mon Seigneur et le vôtre. Il n’est aucune créature qu’Il ne tienne par le toupet.[^235] Mon Seigneur est sur une voie droite.
 
-[235] Il s’agit d’une métaphore lexicalisée qui signifie : tenir sous sa loi.
+[^235]: Il s’agit d’une métaphore lexicalisée qui signifie : tenir sous sa loi.
 
 # 1530
 
@@ -6652,9 +6675,9 @@ Quand Nos émissaires vinrent à Loth, il s’affligea pour eux et fut gêné de
 
 # 1551
 
-Nombre de gens de son peuple accoururent vers lui, eux qui commettaient les pires turpitudes. Il dit : « Ô peuple mien ! Ce sont là mes filles,[236] et elles sont (assurément) plus pures pour vous. Craignez donc Allah et ne me couvrez pas de honte (en vous en prenant) à mes hôtes. N’y a-t-il donc pas parmi vous un homme sensé ? »
+Nombre de gens de son peuple accoururent vers lui, eux qui commettaient les pires turpitudes. Il dit : « Ô peuple mien ! Ce sont là mes filles,[^236] et elles sont (assurément) plus pures pour vous. Craignez donc Allah et ne me couvrez pas de honte (en vous en prenant) à mes hôtes. N’y a-t-il donc pas parmi vous un homme sensé ? »
 
-[236] Le peuple de Loth recherchait les rapports sexuels avec les hommes. Quant au mot « filles », il renvoie ici aux femmes de son peuple.
+[^236]: Le peuple de Loth recherchait les rapports sexuels avec les hommes. Quant au mot « filles », il renvoie ici aux femmes de son peuple.
 
 # 1552
 
@@ -6822,9 +6845,9 @@ excepté ceux auxquels ton Seigneur a accordé Sa miséricorde. Voilà pourquoi 
 
 # 1593
 
-Tout ce que Nous te relatons comme histoires à propos des Messagers vise à affermir ton cœur. Dans (cette sourate)[237] t’est parvenue la vérité, de même qu’une exhortation et un rappel pour les croyants.
+Tout ce que Nous te relatons comme histoires à propos des Messagers vise à affermir ton cœur. Dans (cette sourate)[^237] t’est parvenue la vérité, de même qu’une exhortation et un rappel pour les croyants.
 
-[237] Certains exégètes et certains traducteurs ont attribué au démonstratif arabe في هذه (« dans celle-ci ») le sens de « dans ce bas monde », ou encore « dans ces histoires racontées sur les Messagers ». Ibn Kathîr insiste cependant que le démonstratif réfère à la sourate qui va s’achever.
+[^237]: Certains exégètes et certains traducteurs ont attribué au démonstratif arabe في هذه (« dans celle-ci ») le sens de « dans ce bas monde », ou encore « dans ces histoires racontées sur les Messagers ». Ibn Kathîr insiste cependant que le démonstratif réfère à la sourate qui va s’achever.
 
 # 1594
 
@@ -6848,15 +6871,15 @@ Nous l’avons fait descendre (en révélation) : un Coran arabe, pour que, peut
 
 # 1599
 
-Nous te faisons récit de la meilleure des histoires à travers ce que Nous te révélons dans ce Coran, même si, auparavant, tu étais certes du nombre des distraits.[238]
+Nous te faisons récit de la meilleure des histoires à travers ce que Nous te révélons dans ce Coran, même si, auparavant, tu étais certes du nombre des distraits.[^238]
 
-[238] Le mot « distrait » employé dans le verset, ne contient pas la péjoration qu’il peut avoir ordinairement. Le Prophète (paix et bénédiction d’Allah sur lui) n’était pas distrait par sa propre volonté. Tout simplement, il ne pouvait savoir, avant la révélation, tout ce que le Coran lui a appris au moment de sa révélation.
+[^238]: Le mot « distrait » employé dans le verset, ne contient pas la péjoration qu’il peut avoir ordinairement. Le Prophète (paix et bénédiction d’Allah sur lui) n’était pas distrait par sa propre volonté. Tout simplement, il ne pouvait savoir, avant la révélation, tout ce que le Coran lui a appris au moment de sa révélation.
 
 # 1600
 
-(Relate, Muhammad, l’histoire de) Joseph qui dit (un jour) à son père[239] : « Père, j’ai vu en songe onze astres, ainsi que le soleil et la lune. Je les ai vus devant moi prosternés! »
+(Relate, Muhammad, l’histoire de) Joseph qui dit (un jour) à son père[^239] : « Père, j’ai vu en songe onze astres, ainsi que le soleil et la lune. Je les ai vus devant moi prosternés! »
 
-[239] Les exégètes parlent d’un verbe sous-entendu comme « relater », c’est pourquoi nous avons introduit le verset par l’expression qui se trouve entre parenthèses.
+[^239]: Les exégètes parlent d’un verbe sous-entendu comme « relater », c’est pourquoi nous avons introduit le verset par l’expression qui se trouve entre parenthèses.
 
 # 1601
 
@@ -6872,9 +6895,9 @@ Il y a certes en (l’exemple de) Joseph et ses frères des enseignements pour c
 
 # 1604
 
-(Les frères de Joseph) dirent un jour : « Joseph et son frère[240] sont plus aimés que nous de notre père, bien que nous soyons tout un groupe. Notre père est certes dans l’erreur la plus manifeste !
+(Les frères de Joseph) dirent un jour : « Joseph et son frère[^240] sont plus aimés que nous de notre père, bien que nous soyons tout un groupe. Notre père est certes dans l’erreur la plus manifeste !
 
-[240] Benjamin.
+[^240]: Benjamin.
 
 # 1605
 
@@ -6962,9 +6985,9 @@ Joseph, n’y songe plus ! Quant à toi (femme) implore le pardon pour ton péch
 
 # 1626
 
-Les femmes, dans la ville, se dirent : « L’épouse d’Al-‘Aziz[241] a tenté de séduire son esclave. Elle en est éperdument amoureuse, et nous trouvons qu’elle est dans l’erreur la plus évidente. »
+Les femmes, dans la ville, se dirent : « L’épouse d’Al-‘Aziz[^241] a tenté de séduire son esclave. Elle en est éperdument amoureuse, et nous trouvons qu’elle est dans l’erreur la plus évidente. »
 
-[241] Le ministre était appelé par ce titre en Égypte.
+[^241]: Le ministre était appelé par ce titre en Égypte.
 
 # 1627
 
@@ -7016,9 +7039,9 @@ Et il dit à celui dont il savait qu’il serait sauvé : « Évoque-moi auprès
 
 # 1639
 
-Le roi[242] dit un jour : « J’ai vu en songe sept vaches grasses que mangent sept autres maigres, et sept épis verts et sept autres desséchés. Ô vous, assemblée de notables, pourriez-vous vous prononcer sur ma vision si vous savez interpréter les songes ? »
+Le roi[^242] dit un jour : « J’ai vu en songe sept vaches grasses que mangent sept autres maigres, et sept épis verts et sept autres desséchés. Ô vous, assemblée de notables, pourriez-vous vous prononcer sur ma vision si vous savez interpréter les songes ? »
 
-[242] Il s’agit du roi d’Égypte, qui est le maître du serviteur libéré. Ce dernier en est devenu l’échanson conformément à l’interprétation de son rêve faite par Joseph.
+[^242]: Il s’agit du roi d’Égypte, qui est le maître du serviteur libéré. Ce dernier en est devenu l’échanson conformément à l’interprétation de son rêve faite par Joseph.
 
 # 1640
 
@@ -7054,9 +7077,9 @@ Le roi demanda (aux femmes) : « Quelles étaient donc vos intentions alors que 
 
 # 1648
 
-Cela, pour qu’il sache[243] que je ne l’ai effectivement point trahi en son absence, et qu’Allah ne mène point à bon terme la félonie des traîtres.
+Cela, pour qu’il sache[^243] que je ne l’ai effectivement point trahi en son absence, et qu’Allah ne mène point à bon terme la félonie des traîtres.
 
-[243] C’est toujours Zulikha, la femme d’Al-‘Aziz, qui parle. Elle avoue à celui-ci qu’elle n’a donc pas pu le trahir de fait, puisque Joseph l’en a empêchée. C’est donc un mal pour un bien, puisque l’aveu de Zulikha la culpabilise dans l’intention mais l’innocente dans les faits. Selon d’autres exégètes, cette parole serait attribuée soit à Zulikha soit à Joseph (qui déclarerait n’avoir pas trahi son maître Al-‘Aziz).
+[^243]: C’est toujours Zulikha, la femme d’Al-‘Aziz, qui parle. Elle avoue à celui-ci qu’elle n’a donc pas pu le trahir de fait, puisque Joseph l’en a empêchée. C’est donc un mal pour un bien, puisque l’aveu de Zulikha la culpabilise dans l’intention mais l’innocente dans les faits. Selon d’autres exégètes, cette parole serait attribuée soit à Zulikha soit à Joseph (qui déclarerait n’avoir pas trahi son maître Al-‘Aziz).
 
 # 1649
 
@@ -7080,9 +7103,9 @@ La récompense de l’autre monde est certes meilleure pour ceux qui auront cru 
 
 # 1654
 
-Les frères de Joseph vinrent (en Égypte)[244] et se présentèrent devant lui. Lui les reconnut alors qu’eux ne le reconnurent point.
+Les frères de Joseph vinrent (en Égypte)[^244] et se présentèrent devant lui. Lui les reconnut alors qu’eux ne le reconnurent point.
 
-[244] La disette les avait obligés à venir chercher des provisions en Égypte. Pour cela, ils devaient se rendre obligatoirement chez le maître des ressources de l’Égypte : Joseph.
+[^244]: La disette les avait obligés à venir chercher des provisions en Égypte. Pour cela, ils devaient se rendre obligatoirement chez le maître des ressources de l’Égypte : Joseph.
 
 # 1655
 
@@ -7098,9 +7121,9 @@ Ils dirent alors : « Nous tenterons de persuader son père, et nous le ferons c
 
 # 1658
 
-Il dit à ses serviteurs : «Mettez leurs marchandises[245] dans les bâts (de leurs bêtes), peut-être que s’ils les reconnaissent, une fois retournés chez eux, ils reviendront. »
+Il dit à ses serviteurs : «Mettez leurs marchandises[^245] dans les bâts (de leurs bêtes), peut-être que s’ils les reconnaissent, une fois retournés chez eux, ils reviendront. »
 
-[245] Il s’agit des marchandises qu’ils avaient apportées avec eux pour les troquer contre le blé qu’ils étaient venus obtenir.
+[^245]: Il s’agit des marchandises qu’ils avaient apportées avec eux pour les troquer contre le blé qu’ils étaient venus obtenir.
 
 # 1659
 
@@ -7156,15 +7179,15 @@ Ils répondirent : « La sanction sera (de livrer en esclave au propriétaire de
 
 # 1672
 
-Il (Joseph) commença par (fouiller) leurs sacs avant celui de son frère, puis il la sortit du sac de celui-ci. C’est ainsi que Nous inspirâmes ce stratagème à Joseph, car, selon la loi du roi, il ne pouvait retenir son frère,[246] à moins qu’Allah ne l’eût voulu. Nous élevons le rang de qui Nous voulons ; et au-dessus de tout savant, il y a plus savant encore.
+Il (Joseph) commença par (fouiller) leurs sacs avant celui de son frère, puis il la sortit du sac de celui-ci. C’est ainsi que Nous inspirâmes ce stratagème à Joseph, car, selon la loi du roi, il ne pouvait retenir son frère,[^246] à moins qu’Allah ne l’eût voulu. Nous élevons le rang de qui Nous voulons ; et au-dessus de tout savant, il y a plus savant encore.
 
-[246] La loi en vigueur pour le peuple de Jacob était la condamnation à l’esclavage du voleur au service de la victime du vol.
+[^246]: La loi en vigueur pour le peuple de Jacob était la condamnation à l’esclavage du voleur au service de la victime du vol.
 
 # 1673
 
-Ils dirent : « S’il vient de commettre un vol, un autre frère à lui, autrefois, a volé.[247] Joseph contint sa réaction et ne leur montra rien. Il dit (dans le secret du cœur) : « Votre condition est encore bien pire. Allah en Sait mieux sur ce que vous êtes en train de raconter. »
+Ils dirent : « S’il vient de commettre un vol, un autre frère à lui, autrefois, a volé.[^247] Joseph contint sa réaction et ne leur montra rien. Il dit (dans le secret du cœur) : « Votre condition est encore bien pire. Allah en Sait mieux sur ce que vous êtes en train de raconter. »
 
-[247] Ils visent Joseph. Ils ont donc ajouté au crime d’autrefois, celui de la calomnie.
+[^247]: Ils visent Joseph. Ils ont donc ajouté au crime d’autrefois, celui de la calomnie.
 
 # 1674
 
@@ -7256,9 +7279,9 @@ Lorsque (Jacob et sa famille) se présentèrent devant Joseph, celui-ci accueill
 
 # 1696
 
-Il installa son père et sa mère bien haut sur le trône et tous[248] se prosternèrent devant lui. « Père, dit Joseph, voici l’interprétation de mon rêve d’autrefois. Allah l’a rendu réel. Il a déjà été infiniment bon avec moi en me faisant libérer de prison, puis en vous faisant venir du désert, après que Satan nous eut induits à la discorde, mes frères et moi. Mon Seigneur est plein de sollicitude envers ce qu’Il veut. Et c’est Lui l’Omniscient, le Sage.
+Il installa son père et sa mère bien haut sur le trône et tous[^248] se prosternèrent devant lui. « Père, dit Joseph, voici l’interprétation de mon rêve d’autrefois. Allah l’a rendu réel. Il a déjà été infiniment bon avec moi en me faisant libérer de prison, puis en vous faisant venir du désert, après que Satan nous eut induits à la discorde, mes frères et moi. Mon Seigneur est plein de sollicitude envers ce qu’Il veut. Et c’est Lui l’Omniscient, le Sage.
 
-[248] « Tous » renvoie aux parents de Joseph et à ses frères qui étaient au nombre de onze.
+[^248]: « Tous » renvoie aux parents de Joseph et à ses frères qui étaient au nombre de onze.
 
 # 1697
 
@@ -7358,21 +7381,21 @@ Le tonnerre Lui rend gloire en célébrant Ses louanges, ainsi que les Anges, so
 
 # 1721
 
-C’est à Lui (Seul) que revient l’appel de la Vérité.[249] Ceux qu’ils invoquent en dehors de Lui n’exaucent en rien (leurs prières), sauf à faire comme celui qui tend ses mains vers l’eau (la suppliant) de parvenir à sa bouche et qui n’y parvient jamais. L’invocation des mécréants n’est que pur égarement.
+C’est à Lui (Seul) que revient l’appel de la Vérité.[^249] Ceux qu’ils invoquent en dehors de Lui n’exaucent en rien (leurs prières), sauf à faire comme celui qui tend ses mains vers l’eau (la suppliant) de parvenir à sa bouche et qui n’y parvient jamais. L’invocation des mécréants n’est que pur égarement.
 
-[249] L’appel au monothéisme, qui consiste à dire : « Point d’autre divinité que Lui. »
+[^249]: L’appel au monothéisme, qui consiste à dire : « Point d’autre divinité que Lui. »
 
 # 1722
 
-Devant Allah se prosternent, de gré ou de force, ceux qui sont dans les cieux et sur terre, de même que leurs ombres, au point du jour et à son déclin.[250]
+Devant Allah se prosternent, de gré ou de force, ceux qui sont dans les cieux et sur terre, de même que leurs ombres, au point du jour et à son déclin.[^250]
 
-[250] Une prosternation est ici recommandée.
+[^250]: Une prosternation est ici recommandée.
 
 # 1723
 
-Dis : « Qui est le Seigneur des cieux et de la terre ? » Dis : « Allah. » Dis encore : « Et vous prendriez, en dehors de Lui, des protecteurs qui, pour eux-mêmes, ne sauraient ni assurer un bien ni repousser un mal ? » Dis-leur : « L’aveugle et le voyant se valent-ils donc ? Ou alors les ténèbres valent-elles la lumière ? Ou peut-être encore que les associés qu’ils prêtent à Allah ont créé (ce qui équivaut à) Sa création, si bien que les deux créations se confondent à leurs yeux ? » Dis : « Allah est le Créateur de Toute chose, et c’est Lui l’Un[251], le Haut Dominateur. »
+Dis : « Qui est le Seigneur des cieux et de la terre ? » Dis : « Allah. » Dis encore : « Et vous prendriez, en dehors de Lui, des protecteurs qui, pour eux-mêmes, ne sauraient ni assurer un bien ni repousser un mal ? » Dis-leur : « L’aveugle et le voyant se valent-ils donc ? Ou alors les ténèbres valent-elles la lumière ? Ou peut-être encore que les associés qu’ils prêtent à Allah ont créé (ce qui équivaut à) Sa création, si bien que les deux créations se confondent à leurs yeux ? » Dis : « Allah est le Créateur de Toute chose, et c’est Lui l’Un[^251], le Haut Dominateur. »
 
-[251] Nous traduisons par « l’Un » au lieu de « l’Unique », utilisé autre part. Nous trouvons qu’en divers endroits la substantivation du numéral « un » est plus expressive et rend mieux le sens de l’attribut divin « Al-Wâhid » : الواحد
+[^251]: Nous traduisons par « l’Un » au lieu de « l’Unique », utilisé autre part. Nous trouvons qu’en divers endroits la substantivation du numéral « un » est plus expressive et rend mieux le sens de l’attribut divin « Al-Wâhid » : الواحد
 
 # 1724
 
@@ -7396,9 +7419,9 @@ ceux qui veillent à maintenir les liens qu’Allah a ordonné de maintenir, cra
 
 # 1729
 
-ceux qui prennent patience espérant la seule Satisfaction de leur Seigneur,[252] observent assidûment la Çalât, dépensent en aumône, discrètement et ouvertement, des biens que Nous leur avons dispensés et qui rattrapent les mauvaises actions par les bonnes, ceux-là auront pour demeure ultime,
+ceux qui prennent patience espérant la seule Satisfaction de leur Seigneur,[^252] observent assidûment la Çalât, dépensent en aumône, discrètement et ouvertement, des biens que Nous leur avons dispensés et qui rattrapent les mauvaises actions par les bonnes, ceux-là auront pour demeure ultime,
 
-[252] Littéralement : le Visage de leur Seigneur. La traduction mot à mot rejoindrait une deuxième interprétation : espérant voir, au Jour du Jugement Dernier, le Visage de leur Seigneur.
+[^252]: Littéralement : le Visage de leur Seigneur. La traduction mot à mot rejoindrait une deuxième interprétation : espérant voir, au Jour du Jugement Dernier, le Visage de leur Seigneur.
 
 # 1730
 
@@ -7466,9 +7489,9 @@ Nous avons envoyé avant toi des Messagers et leur avons donné des épouses et 
 
 # 1746
 
-Allah abolit[253] ou maintient ce qu’Il veut. Il détient l’Écriture matricielle.
+Allah abolit[^253] ou maintient ce qu’Il veut. Il détient l’Écriture matricielle.
 
-[253] Littéralement : efface.
+[^253]: Littéralement : efface.
 
 # 1747
 
@@ -7484,9 +7507,9 @@ Ceux qui les ont précédés ont tramé les intrigues (contre les Messagers) mai
 
 # 1750
 
-Et ceux qui ont mécru disent : « Tu n’es pas un Envoyé. »[254] Dis : « Il suffit d’Allah comme témoin entre vous et moi, ainsi que ceux qui ont la connaissance du Livre. »
+Et ceux qui ont mécru disent : « Tu n’es pas un Envoyé. »[^254] Dis : « Il suffit d’Allah comme témoin entre vous et moi, ainsi que ceux qui ont la connaissance du Livre. »
 
-[254] Nous réservons le terme « Messager » à la traduction de « rasûl » رسول et le terme « Envoyé » à « mursal » مرسل. Quand il s’agit des Anges envoyés par Allah, nous traduisons par : « émissaires ».
+[^254]: Nous réservons le terme « Messager » à la traduction de « rasûl » رسول et le terme « Envoyé » à « mursal » مرسل. Quand il s’agit des Anges envoyés par Allah, nous traduisons par : « émissaires ».
 
 # 1751
 
@@ -7582,9 +7605,9 @@ Ceux qui auront cru et auront accompli les bonnes œuvres, seront admis à entre
 
 # 1774
 
-Ne vois-tu pas comment Allah donne comme parabole une parole de bien[255] qui est tel un arbre d’une belle venue, dont les racines sont bien fixes et les branchages s’élèvent vers le ciel,
+Ne vois-tu pas comment Allah donne comme parabole une parole de bien[^255] qui est tel un arbre d’une belle venue, dont les racines sont bien fixes et les branchages s’élèvent vers le ciel,
 
-[255] Cette parole est : « Il n’est point d’autre divinité qu’Allah » : لا اله إلا الله
+[^255]: Cette parole est : « Il n’est point d’autre divinité qu’Allah » : لا اله إلا الله
 
 # 1775
 
@@ -7592,9 +7615,9 @@ et qui donne ses fruits à tout moment avec la permission de son Seigneur. Allah
 
 # 1776
 
-Tandis qu’une parole maléfique[256] ressemble à un arbre d’une mauvaise venue, (qui aurait été) arraché du sol et qui n’a point de base stable.
+Tandis qu’une parole maléfique[^256] ressemble à un arbre d’une mauvaise venue, (qui aurait été) arraché du sol et qui n’a point de base stable.
 
-[256] Littéralement : « une mauvaise parole ». Nous utilisons l’expression « parole maléfique » qui fait pendant à « parole de bien » utilisée dans le verset 24. Si la « parole de bien » est celle par laquelle l’homme reconnaît l’unicité du Créateur, la « parole maléfique » réfère à toute proclamation associâtre et mécréante.
+[^256]: Littéralement : « une mauvaise parole ». Nous utilisons l’expression « parole maléfique » qui fait pendant à « parole de bien » utilisée dans le verset 24. Si la « parole de bien » est celle par laquelle l’homme reconnaît l’unicité du Créateur, la « parole maléfique » réfère à toute proclamation associâtre et mécréante.
 
 # 1777
 
@@ -7638,9 +7661,9 @@ Seigneur ! (Les idoles) ont égaré bon nombre d’hommes. Celui qui me suivra s
 
 # 1787
 
-Ô (Toi) Seigneur ! J’ai installé une partie de ma progéniture dans une vallée inculte auprès de Ta Maison Sacrée. Seigneur ! (Je l’ai fait) pour qu’ils y accomplissent la Çalât. Fais donc que les cœurs de certains hommes soient attirés par leur (cité)[257] et donne-leur de tous les fruits pour assurer leur subsistance. Peut-être Te rendront-ils grâces.
+Ô (Toi) Seigneur ! J’ai installé une partie de ma progéniture dans une vallée inculte auprès de Ta Maison Sacrée. Seigneur ! (Je l’ai fait) pour qu’ils y accomplissent la Çalât. Fais donc que les cœurs de certains hommes soient attirés par leur (cité)[^257] et donne-leur de tous les fruits pour assurer leur subsistance. Peut-être Te rendront-ils grâces.
 
-[257] Littéralement: « attirés par eux ». Mais « eux » ici renvoie à la Maison Sacrée.
+[^257]: Littéralement: « attirés par eux ». Mais « eux » ici renvoie à la Maison Sacrée.
 
 # 1788
 
@@ -7724,9 +7747,9 @@ Aucune communauté ne saurait devancer son terme ni le différer.
 
 # 1808
 
-Ils disent : « Ô toi sur qui le Rappel (le Dhikr) est descendu [259] (en révélation) ! Tu n’es qu’un fou !
+Ils disent : « Ô toi sur qui le Rappel (le Dhikr) est descendu [^259] (en révélation) ! Tu n’es qu’un fou !
 
-[259] Le mot Dhikr, littéralement « Le Rappel », signifie ici : le Coran.
+[^259]: Le mot Dhikr, littéralement « Le Rappel », signifie ici : le Coran.
 
 # 1809
 
@@ -7734,9 +7757,9 @@ Que n’amènes-tu pas avec toi des Anges si tu dis vrai ? »
 
 # 1810
 
-Nous ne faisons descendre les Anges qu’avec la vérité[260] et quand (ils descendront) il ne sera, alors, accordé plus aucun délai aux (mécréants).
+Nous ne faisons descendre les Anges qu’avec la vérité[^260] et quand (ils descendront) il ne sera, alors, accordé plus aucun délai aux (mécréants).
 
-[260] Dans ce contexte, la « vérité » est soit une mission pour les Prophètes soit un châtiment inéluctable pour les négateurs.
+[^260]: Dans ce contexte, la « vérité » est soit une mission pour les Prophètes soit un châtiment inéluctable pour les négateurs.
 
 # 1811
 
@@ -7744,9 +7767,9 @@ C’est Nous qui avons fait descendre le Rappel (le Dhikr) et c’est Nous qui e
 
 # 1812
 
-Avant toi, Nous avons déjà envoyé des Messagers parmi les peuples premiers.[261]
+Avant toi, Nous avons déjà envoyé des Messagers parmi les peuples premiers.[^261]
 
-[261] Les peuples anciens.
+[^261]: Les peuples anciens.
 
 # 1813
 
@@ -7794,9 +7817,9 @@ Et il n’est rien dont Nous n’ayons les dépôts, encore que Nous n’en fass
 
 # 1824
 
-Et Nous envoyons les vents qui fécondent[262] et faisons descendre l’eau du ciel pour vous désaltérer alors que vous n’êtes pas capables de l’emmagasiner.
+Et Nous envoyons les vents qui fécondent[^262] et faisons descendre l’eau du ciel pour vous désaltérer alors que vous n’êtes pas capables de l’emmagasiner.
 
-[262] C’est le vent, nous apprend la science moderne, qui permet au pollen d’aller féconder les fleurs. Les vents fécondent aussi les nuages qui donnent les pluies. Enfin, comme il est dit dans ce verset, l’homme ne peut pas conserver toutes ces eaux car elles sont en quantités énormes et finissent, tôt ou tard, par s’évaporer. Qu’il suffise de songer à quel point toutes ces vérités scientifiques sont en avance par rapport à l’époque de Muhammad (paix et bénédiction d’Allah sur lui). Quel savant de cette époque eût pu initier le Messager illettré à toutes ces connaissances ? Voilà une preuve, parmi tant d’autres, que le Coran ne peut être d’origine humaine.
+[^262]: C’est le vent, nous apprend la science moderne, qui permet au pollen d’aller féconder les fleurs. Les vents fécondent aussi les nuages qui donnent les pluies. Enfin, comme il est dit dans ce verset, l’homme ne peut pas conserver toutes ces eaux car elles sont en quantités énormes et finissent, tôt ou tard, par s’évaporer. Qu’il suffise de songer à quel point toutes ces vérités scientifiques sont en avance par rapport à l’époque de Muhammad (paix et bénédiction d’Allah sur lui). Quel savant de cette époque eût pu initier le Messager illettré à toutes ces connaissances ? Voilà une preuve, parmi tant d’autres, que le Coran ne peut être d’origine humaine.
 
 # 1825
 
@@ -7940,9 +7963,9 @@ Et il ajouta : « Que voulez-vous donc, ô émissaires (d’Allah) ? »
 
 # 1860
 
-« Nous avons été envoyés vers un peuple de criminels,[263]
+« Nous avons été envoyés vers un peuple de criminels,[^263]
 
-[263] La phrase arabe est elliptique. Le segment effacé reste sous entendu. Nous le reproduisons en italiques : « Nous avons été envoyés pour détruire un peuple de criminels. »
+[^263]: La phrase arabe est elliptique. Le segment effacé reste sous entendu. Nous le reproduisons en italiques : « Nous avons été envoyés pour détruire un peuple de criminels. »
 
 # 1861
 
@@ -7978,10 +8001,11 @@ C’est alors que Nous lui fîmes part (à Loth) de Notre décision : tout son p
 
 # 1869
 
-Les habitants de la cité[264] vinrent le trouver en jubilant.[265]
+Les habitants de la cité[^264] vinrent le trouver en jubilant.[^265]
 
-[264] Sodome.
-[265] Les Sodomites, sous l’emprise de leurs fantasmes homosexuels, étaient séduits par la beauté exceptionnelle de ces hôtes dont ils ne savaient pas qu’ils étaient des Anges, car ces derniers sont arrivés chez Loth sous une apparence humaine.
+[^264]: Sodome.
+
+[^265]: Les Sodomites, sous l’emprise de leurs fantasmes homosexuels, étaient séduits par la beauté exceptionnelle de ces hôtes dont ils ne savaient pas qu’ils étaient des Anges, car ces derniers sont arrivés chez Loth sous une apparence humaine.
 
 # 1870
 
@@ -8025,15 +8049,15 @@ Il y a là un Signe pour les croyants.
 
 # 1880
 
-Les habitants d’Al-Aykah,[266] eux aussi, étaient injustes.
+Les habitants d’Al-Aykah,[^266] eux aussi, étaient injustes.
 
-[266] Le pays de Chou ̒ayb.
+[^266]: Le pays de Chou ̒ayb.
 
 # 1881
 
-Nous tirâmes d’eux vengeance, et les deux cités[267] (l’une comme l’autre) sont situées sur une voie évidente pour tous.
+Nous tirâmes d’eux vengeance, et les deux cités[^267] (l’une comme l’autre) sont situées sur une voie évidente pour tous.
 
-[267] Celle où vécut le peuple de Loth (Sodome), et celle où périt le peuple de Chou ̒ayb (Al-Aykah).
+[^267]: Celle où vécut le peuple de Loth (Sodome), et celle où périt le peuple de Chou ̒ayb (Al-Aykah).
 
 # 1882
 
@@ -8065,15 +8089,15 @@ Ton Seigneur est, Lui, le Parfait Créateur, l’Omniscient.
 
 # 1889
 
-Nous t’avons donné les sept versets que l’on réitère,[268] et le Coran Sublime.
+Nous t’avons donné les sept versets que l’on réitère,[^268] et le Coran Sublime.
 
-[268] Ce sont les sept versets de la Fâtiḥa, que l’on répète dans toute Çalât. Ibn Kathîr et Tabari rapportent également qu’il pourrait s’agir des sept plus longues sourates du Coran.
+[^268]: Ce sont les sept versets de la Fâtiḥa, que l’on répète dans toute Çalât. Ibn Kathîr et Tabari rapportent également qu’il pourrait s’agir des sept plus longues sourates du Coran.
 
 # 1890
 
-Ne porte surtout pas un regard envieux sur ces jouissances dont Nous gratifions certains groupes (parmi les mécréants), ne t’attriste pas pour eux, et sois humble et bienveillant avec les croyants.[269]
+Ne porte surtout pas un regard envieux sur ces jouissances dont Nous gratifions certains groupes (parmi les mécréants), ne t’attriste pas pour eux, et sois humble et bienveillant avec les croyants.[^269]
 
-[269] Littéralement : « Baisse ton aile pour les croyants. » Admirez l’expressivité de l’image !
+[^269]: Littéralement : « Baisse ton aile pour les croyants. » Admirez l’expressivité de l’image !
 
 # 1891
 
@@ -8145,9 +8169,9 @@ Ils vous sont source de beauté quand, le soir, vous les ramenez et quand, au pe
 
 # 1908
 
-Ils transportent vos lourds chargements vers des pays que vous ne sauriez atteindre sans peine.[270] Votre Seigneur est Tout Compatissant et Tout Miséricordieux.
+Ils transportent vos lourds chargements vers des pays que vous ne sauriez atteindre sans peine.[^270] Votre Seigneur est Tout Compatissant et Tout Miséricordieux.
 
-[270] Si vous ne vous faites pas aider par ces bêtes de somme.
+[^270]: Si vous ne vous faites pas aider par ces bêtes de somme.
 
 # 1909
 
@@ -8263,9 +8287,9 @@ Ils furent donc frappés par ces mêmes crimes qu’ils avaient commis et furent
 
 # 1937
 
-Nous avons envoyé à chaque communauté un Messager (lui transmettant) : « Adorez Allah et évitez le Tâghût.[271] » Certains furent guidés par Allah, d’autres furent voués à l’égarement. Allez donc de par le monde, et voyez quel fut le sort de ceux qui osaient Nous démentir.
+Nous avons envoyé à chaque communauté un Messager (lui transmettant) : « Adorez Allah et évitez le Tâghût.[^271] » Certains furent guidés par Allah, d’autres furent voués à l’égarement. Allez donc de par le monde, et voyez quel fut le sort de ceux qui osaient Nous démentir.
 
-[271] Tout ce qui est adoré en dehors d’Allah.
+[^271]: Tout ce qui est adoré en dehors d’Allah.
 
 # 1938
 
@@ -8293,9 +8317,9 @@ Ce sont eux qui ont su prendre patience et qui s’en sont remis à leur Seigneu
 
 # 1944
 
-Nous n’avons envoyé avant toi que des hommes à qui Nous révélions (Nos messages). Interrogez donc les gens qui, avant vous, ont reçu les Écritures,[272] si vous ne savez pas.
+Nous n’avons envoyé avant toi que des hommes à qui Nous révélions (Nos messages). Interrogez donc les gens qui, avant vous, ont reçu les Écritures,[^272] si vous ne savez pas.
 
-[272] Littéralement : les gens du Rappel. Ce sont eux, justement, qui pourront rappeler ce qu’ils avaient reçu comme Signes divins qui confirment le Message de Muhammad (paix et bénédiction d’Allah sur lui). L’expression « gens du Rappel » أهل الذكر tend à devenir une expression toute faite pour signifier : les connaisseurs, ceux que l’on peut prendre pour référence...
+[^272]: Littéralement : les gens du Rappel. Ce sont eux, justement, qui pourront rappeler ce qu’ils avaient reçu comme Signes divins qui confirment le Message de Muhammad (paix et bénédiction d’Allah sur lui). L’expression « gens du Rappel » أهل الذكر tend à devenir une expression toute faite pour signifier : les connaisseurs, ceux que l’on peut prendre pour référence...
 
 # 1945
 
@@ -8323,9 +8347,9 @@ Devant Allah se prosternent ce qu’il y a dans les cieux et toute créature sur
 
 # 1951
 
-Ils craignent leur Seigneur Qui les transcende et font ce qui leur est ordonné.[273]
+Ils craignent leur Seigneur Qui les transcende et font ce qui leur est ordonné.[^273]
 
-[273] Une prosternation est recommandée à la fin de ce verset.
+[^273]: Une prosternation est recommandée à la fin de ce verset.
 
 # 1952
 
@@ -8353,9 +8377,9 @@ Ils consacrent (en offrandes) à ceux qu’ils ne connaissent pas (les idoles) u
 
 # 1958
 
-Ils attribuent à Allah des filles, gloire Lui soit rendue ! Mais ils s’attribuent (à eux-mêmes) ce qu’ils désirent ![274]
+Ils attribuent à Allah des filles, gloire Lui soit rendue ! Mais ils s’attribuent (à eux-mêmes) ce qu’ils désirent ![^274]
 
-[274] Les associâtres prétendaient que les Anges étaient les filles d’Allah. Ils se réservaient à eux-mêmes ce qu’ils désiraient, c’est-à-dire les fils, et attribuaient à Allah - gloire Lui soit rendue- ce qu’ils détestaient et méprisaient, c’est-à-dire les filles.
+[^274]: Les associâtres prétendaient que les Anges étaient les filles d’Allah. Ils se réservaient à eux-mêmes ce qu’ils désiraient, c’est-à-dire les fils, et attribuaient à Allah - gloire Lui soit rendue- ce qu’ils détestaient et méprisaient, c’est-à-dire les filles.
 
 # 1959
 
@@ -8363,9 +8387,9 @@ Annonce-t-on à l’un d’eux la naissance d’une fille, son visage se rembrun
 
 # 1960
 
-Il ne se montre plus aux gens, honteux qu’il est de cette malheureuse nouvelle. Doit-il donc la garder[275] en la laissant vivre dans l’humiliation, ou l’enfouir sous terre ? Comme est mauvais leur jugement !
+Il ne se montre plus aux gens, honteux qu’il est de cette malheureuse nouvelle. Doit-il donc la garder[^275] en la laissant vivre dans l’humiliation, ou l’enfouir sous terre ? Comme est mauvais leur jugement !
 
-[275] La fille qui vient de naître.
+[^275]: La fille qui vient de naître.
 
 # 1961
 
@@ -8405,9 +8429,9 @@ Ton Seigneur a inspiré aux abeilles : « Prenez pour demeures les montagnes, le
 
 # 1970
 
-Puis butinez tous les fruits et suivez les chemins de votre Seigneur, déjà frayés pour vous. » De leurs ventres sort une boisson aux couleurs variées et aux vertus curatives[276] pour les hommes. Il y a bien là un Signe pour des gens qui savent réfléchir.
+Puis butinez tous les fruits et suivez les chemins de votre Seigneur, déjà frayés pour vous. » De leurs ventres sort une boisson aux couleurs variées et aux vertus curatives[^276] pour les hommes. Il y a bien là un Signe pour des gens qui savent réfléchir.
 
-[276] Littéralement : où il y a guérison pour les hommes.
+[^276]: Littéralement : où il y a guérison pour les hommes.
 
 # 1971
 
@@ -8415,9 +8439,9 @@ Allah vous a créés puis Il reprendra vos âmes ; et il en est parmi vous qui a
 
 # 1972
 
-Allah a privilégié certains d’entre vous par rapport à d’autres quant aux biens (qu’Il vous dispense). Mais ceux qu’Il a privilégiés ne sont pas prêts à partager leurs biens avec leurs esclaves[277] de sorte que ces derniers y soient associés à part égale. Renient-ils donc si ingratement les bienfaits d’Allah ?
+Allah a privilégié certains d’entre vous par rapport à d’autres quant aux biens (qu’Il vous dispense). Mais ceux qu’Il a privilégiés ne sont pas prêts à partager leurs biens avec leurs esclaves[^277] de sorte que ces derniers y soient associés à part égale. Renient-ils donc si ingratement les bienfaits d’Allah ?
 
-[277] Littéralement: ce que leurs (mains) droites possèdent.
+[^277]: Littéralement: ce que leurs (mains) droites possèdent.
 
 # 1973
 
@@ -8445,9 +8469,9 @@ C’est à Allah qu’appartiennent les secrets inconnaissables (ghayb) des cieu
 
 # 1979
 
-Allah vous a fait sortir des ventres de vos mères, dépourvus de toute science. Il vous a dotés de l’ouïe, de la vue et des cœurs,[278] peut-être Lui rendrez-vous grâces !
+Allah vous a fait sortir des ventres de vos mères, dépourvus de toute science. Il vous a dotés de l’ouïe, de la vue et des cœurs,[^278] peut-être Lui rendrez-vous grâces !
 
-[278] C’est-à-dire « de l’entendement ». En effet le cœur est aussi un siège de l’entendement fondé, non sur la raison pure et l’observation, mais sur l’intuition, la foi, etc.
+[^278]: C’est-à-dire « de l’entendement ». En effet le cœur est aussi un siège de l’entendement fondé, non sur la raison pure et l’observation, mais sur l’intuition, la foi, etc.
 
 # 1980
 
@@ -8479,9 +8503,9 @@ Quand les injustes verront le supplice, il ne leur sera accordé ni allégement 
 
 # 1987
 
-Et quand ceux qui ont prêté des associés (à Allah) verront ceux qu’ils associaient (à Allah),[279] ils diront : « Seigneur ! Ceux-là sont ceux que nous T’avons associés et que nous invoquions en dehors de Toi. » Mais (ceux qu’ils associaient à Allah) leur rétorqueront : « Vous n’êtes que des menteurs ! »
+Et quand ceux qui ont prêté des associés (à Allah) verront ceux qu’ils associaient (à Allah),[^279] ils diront : « Seigneur ! Ceux-là sont ceux que nous T’avons associés et que nous invoquions en dehors de Toi. » Mais (ceux qu’ils associaient à Allah) leur rétorqueront : « Vous n’êtes que des menteurs ! »
 
-[279] Littéralement : leurs associés.
+[^279]: Littéralement : leurs associés.
 
 # 1988
 
@@ -8493,9 +8517,9 @@ Et quand ceux qui ont prêté des associés (à Allah) verront ceux qu’ils ass
 
 # 1990
 
-(Évoque) le jour où Nous enverrons dans chaque communauté un témoin issu de son propre peuple et contre lequel il viendra témoigner, et où Nous t’appellerons en témoin contre ceux-là,[280] toi à qui Nous avons révélé le Livre, clair exposé de toute chose, juste direction (hudâ), miséricorde et heureuse annonce pour les Musulmans.
+(Évoque) le jour où Nous enverrons dans chaque communauté un témoin issu de son propre peuple et contre lequel il viendra témoigner, et où Nous t’appellerons en témoin contre ceux-là,[^280] toi à qui Nous avons révélé le Livre, clair exposé de toute chose, juste direction (hudâ), miséricorde et heureuse annonce pour les Musulmans.
 
-[280] Les mécréants parmi ton peuple, ô Muhammad.
+[^280]: Les mécréants parmi ton peuple, ô Muhammad.
 
 # 1991
 
@@ -8507,9 +8531,9 @@ Honorez l’engagement envers Allah une fois que vous l’avez pris. Ne vous par
 
 # 1993
 
-Ne soyez pas comme celle qui défait sa laine filée après l’avoir solidement enroulée (et ce) en utilisant vos serments pour vous tromper les uns les autres sous prétexte que tel clan est plus nombreux que l’autre.[281] Allah ne fait, par là, que vous mettre à l’épreuve, et le Jour de la Résurrection Il vous dévoilera clairement l’objet de vos litiges.
+Ne soyez pas comme celle qui défait sa laine filée après l’avoir solidement enroulée (et ce) en utilisant vos serments pour vous tromper les uns les autres sous prétexte que tel clan est plus nombreux que l’autre.[^281] Allah ne fait, par là, que vous mettre à l’épreuve, et le Jour de la Résurrection Il vous dévoilera clairement l’objet de vos litiges.
 
-[281] Les Arabes avaient coutume de conclure des alliances. Mais dès qu’ils trouvaient un clan plus nombreux et plus puissant, ils rompaient leurs pactes avec le premier clan et concluaient une alliance avec ceux qui étaient plus nombreux et plus puissants.
+[^281]: Les Arabes avaient coutume de conclure des alliances. Mais dès qu’ils trouvaient un clan plus nombreux et plus puissant, ils rompaient leurs pactes avec le premier clan et concluaient une alliance avec ceux qui étaient plus nombreux et plus puissants.
 
 # 1994
 
@@ -8553,10 +8577,11 @@ Dis : « Celui qui l’a fait descendre est l’Esprit Saint, de la part de ton 
 
 # 2004
 
-Et Nous savons qu’ils disent : « Ce doit être un homme qui le[282] lui enseigne. » Or la langue de celui qu’ils visent est étrangère[283] quand celle-ci est une langue arabe parfaitement claire.
+Et Nous savons qu’ils disent : « Ce doit être un homme qui le[^282] lui enseigne. » Or la langue de celui qu’ils visent est étrangère[^283] quand celle-ci est une langue arabe parfaitement claire.
 
-[282] Le Coran.
-[283] Il est ici fait allusion à un chrétien, non arabe, vivant à La Mecque, dont les mécréants de Qoraïch disaient qu’il avait enseigné les Écritures à Muhammad (paix et bénédiction d’Allah sur lui).
+[^282]: Le Coran.
+
+[^283]: Il est ici fait allusion à un chrétien, non arabe, vivant à La Mecque, dont les mécréants de Qoraïch disaient qu’il avait enseigné les Écritures à Muhammad (paix et bénédiction d’Allah sur lui).
 
 # 2005
 
@@ -8648,9 +8673,9 @@ Appelle vers le chemin de ton Seigneur par la sagesse et la bonne exhortation. A
 
 # 2027
 
-Et si vous punissez, punissez donc d’une punition égale à celle qui vous a été infligée. Mais si vous êtes patients (à la peine), cela est bien meilleur pour ceux qui savent être patients.[284]
+Et si vous punissez, punissez donc d’une punition égale à celle qui vous a été infligée. Mais si vous êtes patients (à la peine), cela est bien meilleur pour ceux qui savent être patients.[^284]
 
-[284] La vengeance est un droit (surtout quand il s’agit d’un agresseur ennemi). Mais si l’on passe outre et pardonne, cela est encore mieux.
+[^284]: La vengeance est un droit (surtout quand il s’agit d’un agresseur ennemi). Mais si l’on passe outre et pardonne, cela est encore mieux.
 
 # 2028
 
@@ -8710,9 +8735,9 @@ Nous avons fait de la nuit et du jour deux Signes. Nous avons rendu obscur le Si
 
 # 2042
 
-Nous avons attaché au cou de chaque homme son augure.[285] Et au Jour de la Résurrection, Nous sortirons pour lui un Livre qu’il trouvera déployé (devant lui).
+Nous avons attaché au cou de chaque homme son augure.[^285] Et au Jour de la Résurrection, Nous sortirons pour lui un Livre qu’il trouvera déployé (devant lui).
 
-[285] Littéralement : son oiseau (de bon ou de mauvais augure). En vérité, il s’agit là de porter au cou les œuvres que l’on aura accomplies ici-bas, et desquelles dépendra la destinée de chacun dans l’au-delà.
+[^285]: Littéralement : son oiseau (de bon ou de mauvais augure). En vérité, il s’agit là de porter au cou les œuvres que l’on aura accomplies ici-bas, et desquelles dépendra la destinée de chacun dans l’au-delà.
 
 # 2043
 
@@ -8752,15 +8777,15 @@ Ne prends pas avec Allah une autre divinité, ou alors tu seras réprouvé et d�
 
 # 2052
 
-Ton Seigneur a prononcé le décret que voici : « N’adorez que Lui et (ayez) de la bienveillance envers vos deux parents. Et si l’un d’eux, ou les deux ensemble, atteignent auprès de toi le grand âge, ne leur dis point « Fi (de vous) ! »[286] et ne les rabroue pas, mais dis-leur des mots gentils.
+Ton Seigneur a prononcé le décret que voici : « N’adorez que Lui et (ayez) de la bienveillance envers vos deux parents. Et si l’un d’eux, ou les deux ensemble, atteignent auprès de toi le grand âge, ne leur dis point « Fi (de vous) ! »[^286] et ne les rabroue pas, mais dis-leur des mots gentils.
 
-[286] Ne leur adresse nul soupir de mécontentement.
+[^286]: Ne leur adresse nul soupir de mécontentement.
 
 # 2053
 
-Abaisse vers eux, par miséricorde, l’aile de l’humilité[287] et dis : « Seigneur, veuille leur accorder miséricorde, comme ils m’ont élevé tout petit ! »
+Abaisse vers eux, par miséricorde, l’aile de l’humilité[^287] et dis : « Seigneur, veuille leur accorder miséricorde, comme ils m’ont élevé tout petit ! »
 
-[287] L’image de l’aile abaissée revient pour exprimer la tendresse, toute humble et toute profonde, que l’on doit à ses parents.
+[^287]: L’image de l’aile abaissée revient pour exprimer la tendresse, toute humble et toute profonde, que l’on doit à ses parents.
 
 # 2054
 
@@ -8776,15 +8801,15 @@ Les dilapidateurs sont les frères des démons, et Satan est outrageusement ingr
 
 # 2057
 
-Si tu te détournes d’eux,[288] parce que tu aspires à la miséricorde de ton Seigneur, tiens-leur un langage avenant.
+Si tu te détournes d’eux,[^288] parce que tu aspires à la miséricorde de ton Seigneur, tiens-leur un langage avenant.
 
-[288] Ceux qui ont besoin de ton aide.
+[^288]: Ceux qui ont besoin de ton aide.
 
 # 2058
 
-Ne garde pas ta main enchaînée à ton cou, ni ne l’étends exagérément,[289] ou tu t’en trouveras blâmé et plein de regrets.
+Ne garde pas ta main enchaînée à ton cou, ni ne l’étends exagérément,[^289] ou tu t’en trouveras blâmé et plein de regrets.
 
-[289] Ne sois ni avare ni dépensier.
+[^289]: Ne sois ni avare ni dépensier.
 
 # 2059
 
@@ -8884,9 +8909,9 @@ Dis à Mes serviteurs de tenir le meilleur langage (qui convienne), car Satan ai
 
 # 2083
 
-Votre Seigneur en Sait mieux sur vous. S’Il veut, Il vous accueille volontiers dans Sa grâce, et s’Il veut, Il vous soumet au supplice. Nous ne t’avons pas envoyé vers eux pour être leur répondant.[290]
+Votre Seigneur en Sait mieux sur vous. S’Il veut, Il vous accueille volontiers dans Sa grâce, et s’Il veut, Il vous soumet au supplice. Nous ne t’avons pas envoyé vers eux pour être leur répondant.[^290]
 
-[290] Leur garant, qui répondra d’eux au jour du Jugement Dernier.
+[^290]: Leur garant, qui répondra d’eux au jour du Jugement Dernier.
 
 # 2084
 
@@ -8906,16 +8931,17 @@ Il n’est point de cité que Nous ne fassions périr avant le Jour de la Résur
 
 # 2088
 
-Ce qui Nous empêche d’envoyer des miracles est qu’ils furent déjà traités de mensonges par les premiers (peuples). Nous avons donné au peuple des Thamûd la chamelle comme miracle évident, mais ils la maltraitèrent injustement.[291] Nous n’envoyons les miracles que pour faire peur.[292]
+Ce qui Nous empêche d’envoyer des miracles est qu’ils furent déjà traités de mensonges par les premiers (peuples). Nous avons donné au peuple des Thamûd la chamelle comme miracle évident, mais ils la maltraitèrent injustement.[^291] Nous n’envoyons les miracles que pour faire peur.[^292]
 
-[291] Ils l’abattirent.
-[292] Pour intimider, dissuader, menacer.
+[^291]: Ils l’abattirent.
+
+[^292]: Pour intimider, dissuader, menacer.
 
 # 2089
 
-(Rappelle-toi) lorsque Nous t’avons dit que Ton Seigneur cerne les hommes de toutes parts. La vision que Nous t’avons montrée n’était qu’une mise à l’épreuve pour les hommes, tout comme l’arbre maudit cité dans le Coran.[293] Nous leur faisons peur (pour les intimider) et ils n’en sont que plus rebelles.
+(Rappelle-toi) lorsque Nous t’avons dit que Ton Seigneur cerne les hommes de toutes parts. La vision que Nous t’avons montrée n’était qu’une mise à l’épreuve pour les hommes, tout comme l’arbre maudit cité dans le Coran.[^293] Nous leur faisons peur (pour les intimider) et ils n’en sont que plus rebelles.
 
-[293] Il s’agit de l’arbre Zaqqûm des fruits duquel se nourrissent les damnés de l’Enfer.
+[^293]: Il s’agit de l’arbre Zaqqûm des fruits duquel se nourrissent les damnés de l’Enfer.
 
 # 2090
 
@@ -8959,9 +8985,9 @@ Nous avons honoré les fils d’Adam. Nous les avons transportés sur terre et s
 
 # 2100
 
-Le jour (viendra) où Nous appellerons toute communauté par son chef.[294] Ceux à qui leur Livre sera mis dans la main droite le liront (avec joie) et ne seront pas lésés d’un cheveu.
+Le jour (viendra) où Nous appellerons toute communauté par son chef.[^294] Ceux à qui leur Livre sera mis dans la main droite le liront (avec joie) et ne seront pas lésés d’un cheveu.
 
-[294] Littéralement : leur imam. Le mot signifie, par extension, tout meneur d’homme. Il peut s’agir ici de plusieurs sens, assez variés d’après les exégètes. Cela peut donc renvoyer au chef dont ils se réclament, qu’il les ait appelés à la droiture ou à l’égarement, mais peut tout aussi bien renvoyer à leur Prophète, au Livre qui leur a été révélé, au Livre de leurs œuvres ou à leurs œuvres tout court.
+[^294]: Littéralement : leur imam. Le mot signifie, par extension, tout meneur d’homme. Il peut s’agir ici de plusieurs sens, assez variés d’après les exégètes. Cela peut donc renvoyer au chef dont ils se réclament, qu’il les ait appelés à la droiture ou à l’égarement, mais peut tout aussi bien renvoyer à leur Prophète, au Livre qui leur a été révélé, au Livre de leurs œuvres ou à leurs œuvres tout court.
 
 # 2101
 
@@ -9105,9 +9131,9 @@ Et (Nous avons révélé) un Coran que Nous avons partagé en fragments afin que
 
 # 2136
 
-Dis : « Que vous y croyiez ou que vous n’y croyiez pas, ceux qui ont déjà reçu la connaissance[295] avant (ce Coran) se prosternent, menton contre terre, quand il leur est récité
+Dis : « Que vous y croyiez ou que vous n’y croyiez pas, ceux qui ont déjà reçu la connaissance[^295] avant (ce Coran) se prosternent, menton contre terre, quand il leur est récité
 
-[295] Celle qui leur fut révélée par les Écritures Saintes.
+[^295]: Celle qui leur fut révélée par les Écritures Saintes.
 
 # 2137
 
@@ -9115,9 +9141,9 @@ et ils disent : "Gloire soit rendue à notre Seigneur ! Voilà accomplie la prom
 
 # 2138
 
-Et ils se jettent, menton contre terre, tout en pleurs, et cela ajoute encore à leur humilité.[296]
+Et ils se jettent, menton contre terre, tout en pleurs, et cela ajoute encore à leur humilité.[^296]
 
-[296] Une prosternation est recommandée à la lecture de ce verset.
+[^296]: Une prosternation est recommandée à la lecture de ce verset.
 
 # 2139
 
@@ -9161,9 +9187,9 @@ Mais Nous réduirons certainement tout ce qu’elle porte en un sol aride.
 
 # 2149
 
-Penserais-tu que les gens de la Caverne et de Ar-Raqîm[297] soient les plus étonnants de Nos miracles ?
+Penserais-tu que les gens de la Caverne et de Ar-Raqîm[^297] soient les plus étonnants de Nos miracles ?
 
-[297] Les exégètes ont proposé plusieurs interprétations de ce terme. Il s’agirait, selon certains d’entre eux, du nom de la vallée ou de la montagne où se trouvait la Caverne, et selon d’autres, le terme désignerait une tablette de pierre sur laquelle furent écrits l’histoire et les noms des gens de la Caverne.
+[^297]: Les exégètes ont proposé plusieurs interprétations de ce terme. Il s’agirait, selon certains d’entre eux, du nom de la vallée ou de la montagne où se trouvait la Caverne, et selon d’autres, le terme désignerait une tablette de pierre sur laquelle furent écrits l’histoire et les noms des gens de la Caverne.
 
 # 2150
 
@@ -9171,15 +9197,15 @@ Quand ces jeunes gens se réfugièrent dans la caverne ils dirent : « Seigneur 
 
 # 2151
 
-Nous avons alors frappé (de surdité) leurs oreilles[298] pendant de nombreuses années.
+Nous avons alors frappé (de surdité) leurs oreilles[^298] pendant de nombreuses années.
 
-[298] Nous avons traduit par l’expression littérale. Cela signifie : Nous les avons plongés dans le sommeil le plus profond.
+[^298]: Nous avons traduit par l’expression littérale. Cela signifie : Nous les avons plongés dans le sommeil le plus profond.
 
 # 2152
 
-Puis Nous les réveillâmes pour savoir lequel des deux partis savait compter la juste durée de leur séjour.[299]
+Puis Nous les réveillâmes pour savoir lequel des deux partis savait compter la juste durée de leur séjour.[^299]
 
-[299] Une fois réveillés, les Dormants s’étaient partagés en deux groupes pour deviner la durée de leur sommeil.
+[^299]: Une fois réveillés, les Dormants s’étaient partagés en deux groupes pour deviner la durée de leur sommeil.
 
 # 2153
 
@@ -9191,9 +9217,9 @@ Nous avons affermi leurs cœurs lorsqu’ils se sont dressés et ont dit : « No
 
 # 2155
 
-Ce sont les nôtres qui ont pris des divinités en dehors de Lui. Si au moins ils en apportaient des preuves d’autorité ![300] Est-il quelqu’un de plus injuste que celui qui débite des mensonges sur le compte d’Allah ? »
+Ce sont les nôtres qui ont pris des divinités en dehors de Lui. Si au moins ils en apportaient des preuves d’autorité ![^300] Est-il quelqu’un de plus injuste que celui qui débite des mensonges sur le compte d’Allah ? »
 
-[300] Nous employons toujours l’expression « preuve d’autorité » au sens (légèrement adapté) qu’elle avait dans l’ancienne rhétorique gréco-romaine (argument d’autorité). Nous y recourons pour rapprocher la traduction du sens du mot arabe سلطان. Il s’agit en tout cas d’une preuve qui est tellement évidente, convaincante, qu’elle s’élève au rang de l’autorité.
+[^300]: Nous employons toujours l’expression « preuve d’autorité » au sens (légèrement adapté) qu’elle avait dans l’ancienne rhétorique gréco-romaine (argument d’autorité). Nous y recourons pour rapprocher la traduction du sens du mot arabe سلطان. Il s’agit en tout cas d’une preuve qui est tellement évidente, convaincante, qu’elle s’élève au rang de l’autorité.
 
 # 2156
 
@@ -9209,9 +9235,9 @@ Tu aurais pu croire qu’ils étaient réveillés alors qu’ils étaient endorm
 
 # 2159
 
-Et c’est ainsi que Nous les avons ressuscités[301] pour qu’ils s’interrogent les uns les autres. « Combien de temps êtes-vous demeurés ici ? » demanda l’un d’eux. « Un jour, disent les uns, ou peut-être une bonne partie d’un jour. » Puis ils ajoutèrent : « Votre Seigneur Sait le mieux combien (de temps) vous êtes restés (ici). Envoyez donc quelqu’un à la ville avec ces pièces d’argent pour vous chercher de ses aliments les plus purs, de quoi vous sustenter. Qu’il soit avenant et n’attire sur vous l’attention de personne.
+Et c’est ainsi que Nous les avons ressuscités[^301] pour qu’ils s’interrogent les uns les autres. « Combien de temps êtes-vous demeurés ici ? » demanda l’un d’eux. « Un jour, disent les uns, ou peut-être une bonne partie d’un jour. » Puis ils ajoutèrent : « Votre Seigneur Sait le mieux combien (de temps) vous êtes restés (ici). Envoyez donc quelqu’un à la ville avec ces pièces d’argent pour vous chercher de ses aliments les plus purs, de quoi vous sustenter. Qu’il soit avenant et n’attire sur vous l’attention de personne.
 
-[301] Nous les avons réveillés.
+[^301]: Nous les avons réveillés.
 
 # 2160
 
@@ -9319,9 +9345,9 @@ Donne-leur en exemple la vie en ce bas monde. Elle est telle une eau que Nous fa
 
 # 2186
 
-Biens et enfants sont la parure de la vie en ce bas monde. Mais les bonnes œuvres, qui sont faites pour durer,[302] sont mieux récompensées auprès de ton Seigneur et promises à une meilleure espérance.
+Biens et enfants sont la parure de la vie en ce bas monde. Mais les bonnes œuvres, qui sont faites pour durer,[^302] sont mieux récompensées auprès de ton Seigneur et promises à une meilleure espérance.
 
-[302] Selon Ibn Kathîr, il s’agit de : Subhân Allah (gloire soit rendue à Allah), Al-hamdu lil-lâh (louange à Allah), Lâ ilâha illal-lâh (il n’y a de Dieu qu’Allah) et Allâhou Akbar (Allah est grand).
+[^302]: Selon Ibn Kathîr, il s’agit de : Subhân Allah (gloire soit rendue à Allah), Al-hamdu lil-lâh (louange à Allah), Lâ ilâha illal-lâh (il n’y a de Dieu qu’Allah) et Allâhou Akbar (Allah est grand).
 
 # 2187
 
@@ -9341,9 +9367,9 @@ Le livre (des œuvres de chacun) sera alors posé (dans sa main). Tu verras les 
 
 # 2191
 
-Je n’en ai jamais appelé à eux pour qu’ils témoignent de la création des cieux et de la terre, ni pour qu’ils témoignent de leur propre création. Et Je n’ai pas pris pour assistants les tentateurs.[303]
+Je n’en ai jamais appelé à eux pour qu’ils témoignent de la création des cieux et de la terre, ni pour qu’ils témoignent de leur propre création. Et Je n’ai pas pris pour assistants les tentateurs.[^303]
 
-[303] Littéralement : ceux qui égarent.
+[^303]: Littéralement : ceux qui égarent.
 
 # 2192
 
@@ -9367,9 +9393,9 @@ Nous n’envoyons les Messagers que pour annoncer (l’heureuse nouvelle) ou ave
 
 # 2197
 
-Est-il plus injuste que celui qui, bien que Nos Signes lui aient été rappelés, s’en détourne et oublie ce que ses mains ont commis ? Nous avons enveloppé leurs cœurs de voiles et rendu dures leurs oreilles pour qu’ils ne le[304] comprennent pas. Quand bien même tu les appellerais à (s’engager dans) la bonne direction, ils ne voudraient jamais y être guidés.
+Est-il plus injuste que celui qui, bien que Nos Signes lui aient été rappelés, s’en détourne et oublie ce que ses mains ont commis ? Nous avons enveloppé leurs cœurs de voiles et rendu dures leurs oreilles pour qu’ils ne le[^304] comprennent pas. Quand bien même tu les appellerais à (s’engager dans) la bonne direction, ils ne voudraient jamais y être guidés.
 
-[304] Le Coran.
+[^304]: Le Coran.
 
 # 2198
 
@@ -9513,9 +9539,9 @@ Puis il suivit une autre voie,
 
 # 2233
 
-jusqu’à ce que, atteignant la gorge entre les Deux Montagnes, il trouvât derrière elles un peuple qui n’entendait[305] aucun langage.
+jusqu’à ce que, atteignant la gorge entre les Deux Montagnes, il trouvât derrière elles un peuple qui n’entendait[^305] aucun langage.
 
-[305] Au sens de : ne comprenaient aucun langage.
+[^305]: Au sens de : ne comprenaient aucun langage.
 
 # 2234
 
@@ -9535,9 +9561,9 @@ Ainsi, ils (les Gog et les Magog) ne purent ni escalader (la muraille) ni la per
 
 # 2238
 
-Il dit : « Ceci[306] est un effet de la grâce de mon Seigneur. Mais le jour où arrivera la promesse de mon Seigneur, Il rasera cet ouvrage. Car la promesse de mon Seigneur est pure vérité.
+Il dit : « Ceci[^306] est un effet de la grâce de mon Seigneur. Mais le jour où arrivera la promesse de mon Seigneur, Il rasera cet ouvrage. Car la promesse de mon Seigneur est pure vérité.
 
-[306] Ce barrage.
+[^306]: Ce barrage.
 
 # 2239
 
@@ -9549,9 +9575,9 @@ Et ce jour-là, Nous présenterons la Géhenne clairement aux mécréants,
 
 # 2241
 
-ceux-là même dont les yeux étaient recouverts d’un voile les empêchant de M’évoquer[307] et qui, non plus, ne pouvaient rien entendre.
+ceux-là même dont les yeux étaient recouverts d’un voile les empêchant de M’évoquer[^307] et qui, non plus, ne pouvaient rien entendre.
 
-[307] Par l’esprit tout autant que par la parole.
+[^307]: Par l’esprit tout autant que par la parole.
 
 # 2242
 
@@ -9611,9 +9637,9 @@ Je crains (le comportement de) mes proches après (ma mort) et ma femme est sté
 
 # 2256
 
-qui tienne de moi et de la famille de Jacob[308]. Et fais, ô Seigneur, qu’il te soit agréable. »
+qui tienne de moi et de la famille de Jacob[^308]. Et fais, ô Seigneur, qu’il te soit agréable. »
 
-[308] Littéralement : qui hérite de moi. Nous avons préféré traduire par « qui tienne de moi » parce qu’il s’agit d’hériter la prophétie de Zacharie, avec tout ce qu’elle suppose de savoir et de sagesse.
+[^308]: Littéralement : qui hérite de moi. Nous avons préféré traduire par « qui tienne de moi » parce qu’il s’agit d’hériter la prophétie de Zacharie, avec tout ce qu’elle suppose de savoir et de sagesse.
 
 # 2257
 
@@ -9821,9 +9847,9 @@ Nous l’avons élevé à une place très haute.
 
 # 2308
 
-Ce sont eux qu’Allah a comblés de Ses faveurs, parmi les Prophètes de la descendance d’Adam, et parmi ceux que Nous avons transportés sur l’Arche avec Noé, mais aussi parmi la descendance d’Abraham et d’Israël ; et enfin parmi ceux que Nous avons guidés et élus. (Ceux-là), quand les versets du Tout Clément leur étaient récités, ils tombaient à terre, prosternés et en pleurs.[309]
+Ce sont eux qu’Allah a comblés de Ses faveurs, parmi les Prophètes de la descendance d’Adam, et parmi ceux que Nous avons transportés sur l’Arche avec Noé, mais aussi parmi la descendance d’Abraham et d’Israël ; et enfin parmi ceux que Nous avons guidés et élus. (Ceux-là), quand les versets du Tout Clément leur étaient récités, ils tombaient à terre, prosternés et en pleurs.[^309]
 
-[309] Une prosternation est recommandée après la lecture de ce verset.
+[^309]: Une prosternation est recommandée après la lecture de ce verset.
 
 # 2309
 
@@ -9851,9 +9877,9 @@ Tel est le Paradis dont Nous ferons hériter les êtres pieux parmi Nos serviteu
 
 # 2315
 
-(C’est Lui) le Seigneur des cieux et de la terre et de ce qu’il y a entre les deux. Adore-Le, sois patient en L’adorant. Lui connais-tu un homologue ?[310]
+(C’est Lui) le Seigneur des cieux et de la terre et de ce qu’il y a entre les deux. Adore-Le, sois patient en L’adorant. Lui connais-tu un homologue ?[^310]
 
-[310] Littéralement : homonyme. Nous préférons « homologue », car la question met au défi qui trouverait un équivalent à Allah, non pas seulement dans Son (ou Ses) nom(s) mais dans tout ce qui Le spécifie. Le mot « homonyme », quoique littéral, restreindrait le sens voulu dans le verset. « Homologue » tient à la fois de l’homonymie et de l’équivalence. Son sens rejoindrait celui de : « l’égal », « l’émule ».
+[^310]: Littéralement : homonyme. Nous préférons « homologue », car la question met au défi qui trouverait un équivalent à Allah, non pas seulement dans Son (ou Ses) nom(s) mais dans tout ce qui Le spécifie. Le mot « homonyme », quoique littéral, restreindrait le sens voulu dans le verset. « Homologue » tient à la fois de l’homonymie et de l’équivalence. Son sens rejoindrait celui de : « l’égal », « l’émule ».
 
 # 2316
 
@@ -9869,9 +9895,9 @@ Par ton Seigneur ! (Sois sûr que) Nous rassemblerons et les hommes et les démo
 
 # 2319
 
-Nous détacherons de chaque groupe ceux qui étaient les plus acharnés[311] contre le Tout Clément.
+Nous détacherons de chaque groupe ceux qui étaient les plus acharnés[^311] contre le Tout Clément.
 
-[311] Par leur insoumission et leur mécréance.
+[^311]: Par leur insoumission et leur mécréance.
 
 # 2320
 
@@ -9879,9 +9905,9 @@ C’est Nous Qui Savons le mieux quels sont ceux qui méritent les premiers d’
 
 # 2321
 
-Il n’est aucun d’entre vous qui ne s’en approchera.[312] C’est là un arrêt irréversible de ton Seigneur.
+Il n’est aucun d’entre vous qui ne s’en approchera.[^312] C’est là un arrêt irréversible de ton Seigneur.
 
-[312] Il n’est aucun d’entre vous qui ne traversera le pont (As-Sirât) qui enjambe l’Enfer.
+[^312]: Il n’est aucun d’entre vous qui ne traversera le pont (As-Sirât) qui enjambe l’Enfer.
 
 # 2322
 
@@ -9981,15 +10007,15 @@ Et tous viendront vers Lui, chacun de son côté et tout seul, au Jour de la Ré
 
 # 2346
 
-Pour ceux qui ont cru et ont accompli les bonnes œuvres, le Tout Clément sera plein de Dilection.[313]
+Pour ceux qui ont cru et ont accompli les bonnes œuvres, le Tout Clément sera plein de Dilection.[^313]
 
-[313] Le terme arabe ودّ n’est pas à traduire par « Amour » mais par « Dilection », terme religieux qui s’applique à l’amour d’Allah pour Ses créatures (voir le Grand Robert).
+[^313]: Le terme arabe ودّ n’est pas à traduire par « Amour » mais par « Dilection », terme religieux qui s’applique à l’amour d’Allah pour Ses créatures (voir le Grand Robert).
 
 # 2347
 
-Nous ne l’avons rendu si accessible en ta langue[314] que pour que tu annonces, par son moyen, l’heureuse nouvelle aux gens pieux, et avertisses un peuple intraitable.
+Nous ne l’avons rendu si accessible en ta langue[^314] que pour que tu annonces, par son moyen, l’heureuse nouvelle aux gens pieux, et avertisses un peuple intraitable.
 
-[314] Il s’agit du Coran.
+[^314]: Il s’agit du Coran.
 
 # 2348
 
@@ -10009,9 +10035,9 @@ Mais pour que ce soit un Rappel dont profite celui qui craint (Allah).
 
 # 2352
 
-(Le Coran est) une révélation de la part de Celui Qui a créé la terre et les cieux altissimes.[316]
+(Le Coran est) une révélation de la part de Celui Qui a créé la terre et les cieux altissimes.[^316]
 
-[316] Bien que parfois ironique, l’adjectif « altissime », signifiant « très haut », conserve bien ses colorations manifestement laudatives. Le Grand Robert mentionne qu’il est d’un emploi exclusivement littéraire. Voilà pourquoi nous l’utilisons pour qualifier la hauteur incommensurable des cieux. Mais le plus important est que nous l’utiliserons aussi pour traduire l’un des Beaux Nom d’Allah : الأعلى : « Le Plus Haut » ou « l’Altissime ». C’est le sens mélioratif que le mot a en espagnol et en italien : « Altissimo ».
+[^316]: Bien que parfois ironique, l’adjectif « altissime », signifiant « très haut », conserve bien ses colorations manifestement laudatives. Le Grand Robert mentionne qu’il est d’un emploi exclusivement littéraire. Voilà pourquoi nous l’utilisons pour qualifier la hauteur incommensurable des cieux. Mais le plus important est que nous l’utiliserons aussi pour traduire l’un des Beaux Nom d’Allah : الأعلى : « Le Plus Haut » ou « l’Altissime ». C’est le sens mélioratif que le mot a en espagnol et en italien : « Altissimo ».
 
 # 2353
 
@@ -10219,9 +10245,9 @@ D’elle (la terre), Nous vous avons créés, et vers elle Nous vous ferons reto
 
 # 2404
 
-Nous lui[317] fîmes (pourtant) voir tous Nos Signes. Mais il les traita de mensonges et refusa d’y croire.
+Nous lui[^317] fîmes (pourtant) voir tous Nos Signes. Mais il les traita de mensonges et refusa d’y croire.
 
-[317] À Pharaon.
+[^317]: À Pharaon.
 
 # 2405
 
@@ -10305,9 +10331,9 @@ Des Jardins d’Éden sous lesquels coulent les rivières, où ils séjourneront
 
 # 2425
 
-Nous révélâmes à Moïse : « Pars avec Mes serviteurs, de nuit. Fraie dans la mer un passage à sec.[318] Ne crains pas d’être rejoint, n’éprouve aucune peur. »
+Nous révélâmes à Moïse : « Pars avec Mes serviteurs, de nuit. Fraie dans la mer un passage à sec.[^318] Ne crains pas d’être rejoint, n’éprouve aucune peur. »
 
-[318] Un passage de terre ferme à travers la mer. C’est l’un des miracles de Moïse qui put, par la grâce d’Allah, sauver son peuple de la noyade qui emporta Pharaon et ses partisans.
+[^318]: Un passage de terre ferme à travers la mer. C’est l’un des miracles de Moïse qui put, par la grâce d’Allah, sauver son peuple de la noyade qui emporta Pharaon et ses partisans.
 
 # 2426
 
@@ -10327,9 +10353,9 @@ Mangez des délices que Nous vous avons dispensées et n’y commettez pas d’a
 
 # 2430
 
-Je suis Très Absoluteur[319] pour quiconque se repent, croit, fait le bien puis s’engage sur le droit chemin (ihtadâ).
+Je suis Très Absoluteur[^319] pour quiconque se repent, croit, fait le bien puis s’engage sur le droit chemin (ihtadâ).
 
-[319] Nous réservons le mot « Absoluteur » à la traduction de غفور, l’expression « Tout Absoluteur » à celle de توّاب, et l’expression « Très Absoluteur », ici employée, à l’autre forme superlative du trilitère « ghafara » : غفّار
+[^319]: Nous réservons le mot « Absoluteur » à la traduction de غفور, l’expression « Tout Absoluteur » à celle de توّاب, et l’expression « Très Absoluteur », ici employée, à l’autre forme superlative du trilitère « ghafara » : غفّار
 
 # 2431
 
@@ -10341,9 +10367,9 @@ Je suis Très Absoluteur[319] pour quiconque se repent, croit, fait le bien puis
 
 # 2433
 
-« Nous avons mis les tiens à l’épreuve, pendant ton absence. Le Sâmirî les a égarés. »[320]
+« Nous avons mis les tiens à l’épreuve, pendant ton absence. Le Sâmirî les a égarés. »[^320]
 
-[320] Un magicien du peuple de Moïse qui réussit à dévoyer les partisans de Moïse après son départ.
+[^320]: Un magicien du peuple de Moïse qui réussit à dévoyer les partisans de Moïse après son départ.
 
 # 2434
 
@@ -10387,9 +10413,9 @@ Et (Aaron) répondit : « Fils de ma mère, ne me prends pas par la barbe, ni pa
 
 # 2444
 
-« J’ai vu ce qu’ils n’ont pas vu, dit-il. J’ai pris une poignée (de poussière) sur les traces de l’Envoyé (l’Ange Gabriel)[321] et je l’ai jetée. C’est ce que mon âme m’a suggéré (de faire). »
+« J’ai vu ce qu’ils n’ont pas vu, dit-il. J’ai pris une poignée (de poussière) sur les traces de l’Envoyé (l’Ange Gabriel)[^321] et je l’ai jetée. C’est ce que mon âme m’a suggéré (de faire). »
 
-[321] Le Sâmirî, qui était doté de pouvoirs occultes, avait pris une poignée de terre sur les traces laissées par les sabots du cheval de l’Ange Gabriel. (Moujâhid, cité par Ibn Kathîr dans son Tafsîr, rapporte que le Sâmirî jeta cette poignée de terre sur les bijoux des Enfants d’Israël, lesquels bijoux fondirent pour prendre la forme d’un veau, un corps mugissant dont le son n’était rien de plus que celui du vent léger qui y pénétrait.)
+[^321]: Le Sâmirî, qui était doté de pouvoirs occultes, avait pris une poignée de terre sur les traces laissées par les sabots du cheval de l’Ange Gabriel. (Moujâhid, cité par Ibn Kathîr dans son Tafsîr, rapporte que le Sâmirî jeta cette poignée de terre sur les bijoux des Enfants d’Israël, lesquels bijoux fondirent pour prendre la forme d’un veau, un corps mugissant dont le son n’était rien de plus que celui du vent léger qui y pénétrait.)
 
 # 2445
 
@@ -10641,9 +10667,9 @@ Il ne saurait être questionné sur Ses œuvres, mais eux seront questionnés su
 
 # 2507
 
-Ou alors ils ont pris des divinités en dehors de Lui ? Dis : « Montrez donc votre preuve ! » Voici le Rappel de ceux qui sont avec moi et le Rappel de ceux qui étaient avant moi.[322] Pourtant, la plupart ne savent pas la vérité et s’en détournent.
+Ou alors ils ont pris des divinités en dehors de Lui ? Dis : « Montrez donc votre preuve ! » Voici le Rappel de ceux qui sont avec moi et le Rappel de ceux qui étaient avant moi.[^322] Pourtant, la plupart ne savent pas la vérité et s’en détournent.
 
-[322] Le rappel des Prophètes antérieurs et des Écritures citées dans le Coran.
+[^322]: Le rappel des Prophètes antérieurs et des Écritures citées dans le Coran.
 
 # 2508
 
@@ -10651,9 +10677,9 @@ Nous n’avons envoyé aucun Messager avant toi sans que Nous ne Lui ayons fait 
 
 # 2509
 
-Ils dirent : « Le Tout Clément S’est donné des enfants.[323] » Gloire Lui soit rendue ! Ce sont plutôt des serviteurs honorés.
+Ils dirent : « Le Tout Clément S’est donné des enfants.[^323] » Gloire Lui soit rendue ! Ce sont plutôt des serviteurs honorés.
 
-[323] Le mot ولد est ici employé comme collectif. Il exprime donc le pluriel. En effet, il s’agit dans ce verset des mécréants qui prétendaient que les Anges étaient les filles d’Allah. Autre part, le même motولد réfère à Jésus et exprime donc le singulier. Une telle concurrence aurait imposé la traduction par « fils », mais dans le verset présent nous traduisons par « enfants », au pluriel.
+[^323]: Le mot ولد est ici employé comme collectif. Il exprime donc le pluriel. En effet, il s’agit dans ce verset des mécréants qui prétendaient que les Anges étaient les filles d’Allah. Autre part, le même motولد réfère à Jésus et exprime donc le singulier. Une telle concurrence aurait imposé la traduction par « fils », mais dans le verset présent nous traduisons par « enfants », au pluriel.
 
 # 2510
 
@@ -10669,9 +10695,9 @@ Celui, parmi eux, qui dirait : « Je suis une divinité en dehors de Lui » aura
 
 # 2513
 
-Les mécréants n’ont-ils pas vu que les cieux et la terre étaient soudés (en un seul magma)?[324] Puis Nous les avons disjoints et, de l’eau, Nous avons tiré toute chose vivante. Ne croiront-ils donc pas ?
+Les mécréants n’ont-ils pas vu que les cieux et la terre étaient soudés (en un seul magma)?[^324] Puis Nous les avons disjoints et, de l’eau, Nous avons tiré toute chose vivante. Ne croiront-ils donc pas ?
 
-[324] L’astrophysique nous apprend, effectivement, qu’avant le Big Bang, il y a à peu près 15 milliards d’années, l’univers était une masse confuse, un magma informe. Depuis le Big Bang, tout se fragmente en une infinie explosion, pour former les innombrables galaxies et planètes, dont la terre.
+[^324]: L’astrophysique nous apprend, effectivement, qu’avant le Big Bang, il y a à peu près 15 milliards d’années, l’univers était une masse confuse, un magma informe. Depuis le Big Bang, tout se fragmente en une infinie explosion, pour former les innombrables galaxies et planètes, dont la terre.
 
 # 2514
 
@@ -10679,9 +10705,9 @@ Nous avons établi sur la terre des montagnes fermes pour qu’elle ne se meuve 
 
 # 2515
 
-Nous fîmes du ciel un toit imprenable,[325] mais de ses Signes ils se détournent.
+Nous fîmes du ciel un toit imprenable,[^325] mais de ses Signes ils se détournent.
 
-[325] Littéralement : gardé.
+[^325]: Littéralement : gardé.
 
 # 2516
 
@@ -10721,9 +10747,9 @@ Des Messagers avant toi furent raillés. Mais ceux qui se moquaient d’eux fure
 
 # 2525
 
-Dis : « Qui donc vous protégera, de nuit comme de jour, (du supplice) du Tout Clément ? Mais ils ne s’en détournent pas moins de l’évocation de leur Seigneur.[326]
+Dis : « Qui donc vous protégera, de nuit comme de jour, (du supplice) du Tout Clément ? Mais ils ne s’en détournent pas moins de l’évocation de leur Seigneur.[^326]
 
-[326] Nous employons le mot « évocation » au double sens de « rappel par la mémoire » et « rappel par les mots ». C’est qu’il faut sans cesse se rappeler Allah, et sans cesse prononcer Son nom.
+[^326]: Nous employons le mot « évocation » au double sens de « rappel par la mémoire » et « rappel par les mots ». C’est qu’il faut sans cesse se rappeler Allah, et sans cesse prononcer Son nom.
 
 # 2526
 
@@ -10751,9 +10777,9 @@ Nous apportâmes à Moïse et à Aaron le Discernement (Al-Furqân), lumière et
 
 # 2532
 
-qui craignent leur Seigneur sans Le voir (et sans ostentation)[327] et qui s’angoissent au souvenir de l’Heure.
+qui craignent leur Seigneur sans Le voir (et sans ostentation)[^327] et qui s’angoissent au souvenir de l’Heure.
 
-[327] Les deux interprétations se rejoignent. Le fait de craindre Allah sans Le voir ne fait qu’accentuer le mérite du croyant. Idem de celui qui Le craint dans le secret du cœur, sans ostentation ni parade. Encore que la croyance, la vraie, ait lieu, en principe, en dehors de toute vision, avec ou sans ostentation.
+[^327]: Les deux interprétations se rejoignent. Le fait de craindre Allah sans Le voir ne fait qu’accentuer le mérite du croyant. Idem de celui qui Le craint dans le secret du cœur, sans ostentation ni parade. Encore que la croyance, la vraie, ait lieu, en principe, en dehors de toute vision, avec ou sans ostentation.
 
 # 2533
 
@@ -10905,9 +10931,9 @@ Nous les reçûmes dans Notre miséricorde, car ils étaient du nombre des vertu
 
 # 2570
 
-Et Dhu-Nûn,[328] qui s’en alla dépité croyant pouvoir échapper à Nos rigueurs. Puis il appela dans les ténèbres : « Il n’est point d’autre divinité que Toi, gloire Te soit rendue, j’étais certes du nombre des injustes ! »
+Et Dhu-Nûn,[^328] qui s’en alla dépité croyant pouvoir échapper à Nos rigueurs. Puis il appela dans les ténèbres : « Il n’est point d’autre divinité que Toi, gloire Te soit rendue, j’étais certes du nombre des injustes ! »
 
-[328] Jonas, l’homme au poisson.
+[^328]: Jonas, l’homme au poisson.
 
 # 2571
 
@@ -10919,21 +10945,21 @@ Et Zacharie, qui supplia son Seigneur : « Seigneur, ne me laisse pas seul (sans
 
 # 2573
 
-Nous l’exauçâmes, (lui aussi), lui fîmes don de Yahyâ (Jean le Baptiste) et guérîmes son épouse.[329] Tous rivalisaient de vertu et Nous invoquaient pleins d’espoir et avec crainte ; tous se recueillaient, humbles devant Nous.
+Nous l’exauçâmes, (lui aussi), lui fîmes don de Yahyâ (Jean le Baptiste) et guérîmes son épouse.[^329] Tous rivalisaient de vertu et Nous invoquaient pleins d’espoir et avec crainte ; tous se recueillaient, humbles devant Nous.
 
-[329] Nous la rendîmes féconde alors qu’elle était stérile.
+[^329]: Nous la rendîmes féconde alors qu’elle était stérile.
 
 # 2574
 
-Et celle qui sut garder sa chasteté.[330] Nous insufflâmes en elle de Notre Esprit et fîmes d’elle et de son fils un Signe pour tout l’Univers.
+Et celle qui sut garder sa chasteté.[^330] Nous insufflâmes en elle de Notre Esprit et fîmes d’elle et de son fils un Signe pour tout l’Univers.
 
-[330] La Vierge Marie.
+[^330]: La Vierge Marie.
 
 # 2575
 
-Cette religion[331] est la vôtre et c’est une religion unique. Je suis votre Seigneur, alors adorez-Moi.
+Cette religion[^331] est la vôtre et c’est une religion unique. Je suis votre Seigneur, alors adorez-Moi.
 
-[331] Littéralement: votre communauté.
+[^331]: Littéralement: votre communauté.
 
 # 2576
 
@@ -10945,9 +10971,9 @@ Celui qui, étant croyant, accomplit de bonnes œuvres, nulle méconnaissance ne
 
 # 2578
 
-Il est défendu aux habitants d’une cité que Nous avons anéantie de revenir.[332]
+Il est défendu aux habitants d’une cité que Nous avons anéantie de revenir.[^332]
 
-[332] Pour avoir une seconde chance et pour se repentir avant le Jour de la Résurrection.
+[^332]: Pour avoir une seconde chance et pour se repentir avant le Jour de la Résurrection.
 
 # 2579
 
@@ -10963,15 +10989,15 @@ La promesse vraie étant alors toute proche, les regards des mécréants se fige
 
 # 2582
 
-Si celles-ci étaient de réelles divinités, elles n’y entreraient pas.[333] Tous y resteront pour l’éternité. »
+Si celles-ci étaient de réelles divinités, elles n’y entreraient pas.[^333] Tous y resteront pour l’éternité. »
 
-[333] Elles n’entreraient pas avec vous en Enfer, ô mécréants.
+[^333]: Elles n’entreraient pas avec vous en Enfer, ô mécréants.
 
 # 2583
 
-Ils y feront entendre des râles sibilants[334] mais eux n’entendront rien.
+Ils y feront entendre des râles sibilants[^334] mais eux n’entendront rien.
 
-[334] Le « râle sibilant » est une expression employée en médecine pour désigner le son qui sort des poumons de l’asthmatique et qui s’apparente à un sifflement.
+[^334]: Le « râle sibilant » est une expression employée en médecine pour désigner le son qui sort des poumons de l’asthmatique et qui s’apparente à un sifflement.
 
 # 2584
 
@@ -11063,9 +11089,9 @@ Cela, (en rétribution) pour ce que tes deux mains ont accompli à l’avance, c
 
 # 2606
 
-Et il en est qui, parmi les hommes, adore Allah avec réticence.[335] S’il lui arrive un bien, il en est rassuré, et s’il est soumis à quelque épreuve, voilà qu’il détourne son visage. Il aura ainsi perdu le bas monde et l’autre monde. Voilà la perte évidente !
+Et il en est qui, parmi les hommes, adore Allah avec réticence.[^335] S’il lui arrive un bien, il en est rassuré, et s’il est soumis à quelque épreuve, voilà qu’il détourne son visage. Il aura ainsi perdu le bas monde et l’autre monde. Voilà la perte évidente !
 
-[335] Littéralement : comme sur un « rebord » (le rebord d’un mur par exemple).
+[^335]: Littéralement : comme sur un « rebord » (le rebord d’un mur par exemple).
 
 # 2607
 
@@ -11081,9 +11107,9 @@ Allah fait entrer ceux qui ont cru et ont accompli les bonnes œuvres dans des j
 
 # 2610
 
-Celui qui croit qu’Allah ne secourra (Son Prophète) ni dans ce bas monde ni dans l’autre, qu’il cherche un moyen pour atteindre le ciel puis coupe (l’approvisionnement qui en provient),[336] et voie si ce stratagème peut dissiper sa rage.
+Celui qui croit qu’Allah ne secourra (Son Prophète) ni dans ce bas monde ni dans l’autre, qu’il cherche un moyen pour atteindre le ciel puis coupe (l’approvisionnement qui en provient),[^336] et voie si ce stratagème peut dissiper sa rage.
 
-[336] Autre interprétation non moins plausible: « qu’il tende vers le toit (de sa demeure) une corde (et s’y pende), puis la coupe et voie si ce stratagème peut dissiper sa rage. »
+[^336]: Autre interprétation non moins plausible: « qu’il tende vers le toit (de sa demeure) une corde (et s’y pende), puis la coupe et voie si ce stratagème peut dissiper sa rage. »
 
 # 2611
 
@@ -11095,9 +11121,9 @@ Ceux qui ont cru (les Musulmans), les Juifs, les Sabéens, les Nazaréens (les C
 
 # 2613
 
-Ne vois-tu pas que devant Allah se prosternent ceux qui sont dans les cieux et sur terre : le soleil, la lune, les étoiles, les montagnes, les arbres, les animaux et beaucoup d’hommes ? Beaucoup (d’autres) aussi auront mérité le supplice. Car celui qu’Allah humilie, nul ne pourra l’honorer. Allah, en effet, fait ce qu’il Lui plaît.[337]
+Ne vois-tu pas que devant Allah se prosternent ceux qui sont dans les cieux et sur terre : le soleil, la lune, les étoiles, les montagnes, les arbres, les animaux et beaucoup d’hommes ? Beaucoup (d’autres) aussi auront mérité le supplice. Car celui qu’Allah humilie, nul ne pourra l’honorer. Allah, en effet, fait ce qu’il Lui plaît.[^337]
 
-[337] Une prosternation est recommandée après la lecture de ce verset.
+[^337]: Une prosternation est recommandée après la lecture de ce verset.
 
 # 2614
 
@@ -11133,9 +11159,9 @@ Ceux qui mécroient, qui barrent le chemin d’Allah et celui de la Mosquée Sac
 
 # 2622
 
-Appelle les hommes au Hajj (le pèlerinage) : ils viendront vers toi à pied, ou à dos de monture efflanquée,[338] par les chemins les plus éloignés,
+Appelle les hommes au Hajj (le pèlerinage) : ils viendront vers toi à pied, ou à dos de monture efflanquée,[^338] par les chemins les plus éloignés,
 
-[338] Animal dont les flancs sont creusés par la maigreur, signe d’endurance et de grande activité.
+[^338]: Animal dont les flancs sont creusés par la maigreur, signe d’endurance et de grande activité.
 
 # 2623
 
@@ -11171,9 +11197,9 @@ ceux qui, lorsqu’on évoque Allah, ont les cœurs qui palpitent de crainte, ce
 
 # 2631
 
-Nous avons consacré pour vous les bêtes grasses (parmi les camélidés et les bovidés)[339] pour certains rites (prescrits par) Allah. Vous y trouvez beaucoup d’avantages. Prononcez donc le nom d’Allah sur celles qui sont sur le point d’être immolées. Une fois qu’elles gisent sur leur flanc, (inertes), mangez-en, nourrissez-en aussi le nécessiteux réservé et le mendiant avéré. C’est ainsi que Nous vous les avons soumises, peut-être Nous serez vous reconnaissants.
+Nous avons consacré pour vous les bêtes grasses (parmi les camélidés et les bovidés)[^339] pour certains rites (prescrits par) Allah. Vous y trouvez beaucoup d’avantages. Prononcez donc le nom d’Allah sur celles qui sont sur le point d’être immolées. Une fois qu’elles gisent sur leur flanc, (inertes), mangez-en, nourrissez-en aussi le nécessiteux réservé et le mendiant avéré. C’est ainsi que Nous vous les avons soumises, peut-être Nous serez vous reconnaissants.
 
-[339] Les chameaux et les bœufs. Nous avons traduit par « les bêtes grasses » pour rendre le sens du mot arabe البدن.
+[^339]: Les chameaux et les bœufs. Nous avons traduit par « les bêtes grasses » pour rendre le sens du mot arabe البدن.
 
 # 2632
 
@@ -11337,9 +11363,9 @@ Il Sait ce qu’il y a devant eux et ce qu’il y a derrière eux, et c’est ve
 
 # 2672
 
-Ô vous qui avez cru ! Inclinez-vous, prosternez-vous, adorez votre Seigneur et faites le bien, peut-être aurez-vous la réussite.[340]
+Ô vous qui avez cru ! Inclinez-vous, prosternez-vous, adorez votre Seigneur et faites le bien, peut-être aurez-vous la réussite.[^340]
 
-[340] Il est recommandé de se prosterner après la lecture de ce verset.
+[^340]: Il est recommandé de se prosterner après la lecture de ce verset.
 
 # 2673
 
@@ -11367,9 +11393,9 @@ qui préservent leur chasteté,
 
 # 2679
 
-sauf vis-à-vis de leurs épouses ou des femmes qu’ils possèdent légalement[341] - car dans ce cas, il ne peut leur être fait aucun reproche,
+sauf vis-à-vis de leurs épouses ou des femmes qu’ils possèdent légalement[^341] - car dans ce cas, il ne peut leur être fait aucun reproche,
 
-[341] Comme captives de guerre ou comme esclaves, du temps où l’esclavage était un phénomène social universellement accepté.
+[^341]: Comme captives de guerre ou comme esclaves, du temps où l’esclavage était un phénomène social universellement accepté.
 
 # 2680
 
@@ -11389,9 +11415,9 @@ Ce sont ceux-là les (vrais) héritiers,
 
 # 2684
 
-qui hériteront du Firdaws[342] où ils séjourneront pour l’éternité.
+qui hériteront du Firdaws[^342] où ils séjourneront pour l’éternité.
 
-[342] Le plus haut niveau du Paradis. Notons cependant que, étymologiquement, il s’agit du même mot, comme le prouve la prononciation anglaise du mot : paradise : Firdaws.
+[^342]: Le plus haut niveau du Paradis. Notons cependant que, étymologiquement, il s’agit du même mot, comme le prouve la prononciation anglaise du mot : paradise : Firdaws.
 
 # 2685
 
@@ -11443,9 +11469,9 @@ Nous envoyâmes Noé à son peuple : « Ô peuple mien ! dit-il. Adorez Allah, v
 
 # 2697
 
-L’assemblée des notables parmi les mécréants de son peuple dirent : « Ce n’est là qu’un humain comme vous mais qui veut paraître meilleur que vous. Si Allah l’avait voulu, Il aurait fait descendre des Anges.[343] Nous n’avons entendu rien de pareil venant de nos premiers ancêtres.
+L’assemblée des notables parmi les mécréants de son peuple dirent : « Ce n’est là qu’un humain comme vous mais qui veut paraître meilleur que vous. Si Allah l’avait voulu, Il aurait fait descendre des Anges.[^343] Nous n’avons entendu rien de pareil venant de nos premiers ancêtres.
 
-[343] Et non pas des hommes comme Messagers.
+[^343]: Et non pas des hommes comme Messagers.
 
 # 2698
 
@@ -11521,9 +11547,9 @@ Puis Nous avons créé, après eux, d’autres générations.
 
 # 2716
 
-Aucune communauté ne saurait avancer ou reculer son terme.[344]
+Aucune communauté ne saurait avancer ou reculer son terme.[^344]
 
-[344] Le terme qui lui est fixé.
+[^344]: Le terme qui lui est fixé.
 
 # 2717
 
@@ -11543,9 +11569,9 @@ vers Pharaon et son assemblée de notables, qui se montrèrent dédaigneux et ha
 
 # 2721
 
-Ils les traitèrent de menteurs et furent du nombre des perdus.[345]
+Ils les traitèrent de menteurs et furent du nombre des perdus.[^345]
 
-[345] Au sens de : anéantis.
+[^345]: Au sens de : anéantis.
 
 # 2722
 
@@ -11561,9 +11587,9 @@ Nous fîmes du fils de Marie et de sa mère un Signe (prodigieux). À tous deux,
 
 # 2725
 
-Cette religion est la vôtre et c’est une religion unique. Je suis votre Seigneur, alors craignez-Moi ! »[346]
+Cette religion est la vôtre et c’est une religion unique. Je suis votre Seigneur, alors craignez-Moi ! »[^346]
 
-[346] Voir le verset 92 de la sourate Al-Anbiyâ’.
+[^346]: Voir le verset 92 de la sourate Al-Anbiyâ’.
 
 # 2726
 
@@ -11667,9 +11693,9 @@ Nous les avons déjà châtiés par le supplice, mais ils n’ont ni humblement 
 
 # 2751
 
-C’est Lui Qui a créé pour vous l’ouïe, la vue et la raison.[347] Or vous êtes bien peu reconnaissants.
+C’est Lui Qui a créé pour vous l’ouïe, la vue et la raison.[^347] Or vous êtes bien peu reconnaissants.
 
-[347] Littéralement: les cœurs (ou les dispositions du cœur). Voir aussi la sourate As-Sajdah, verset 9, et Al-Mulk, verset 23.
+[^347]: Littéralement: les cœurs (ou les dispositions du cœur). Voir aussi la sourate As-Sajdah, verset 9, et Al-Mulk, verset 23.
 
 # 2752
 
@@ -11757,9 +11783,9 @@ Lorsque la mort vient à l’un d’eux, il dit : « Seigneur, renvoie-moi sur t
 
 # 2773
 
-Peut-être alors pourrais-je y faire le bien que je n’ai point fait. » Non, ce ne sont là que des mots que lui-même dit ; car devant eux[348] se dresse une barrière jusqu’au jour où ils seront ressuscités.
+Peut-être alors pourrais-je y faire le bien que je n’ai point fait. » Non, ce ne sont là que des mots que lui-même dit ; car devant eux[^348] se dresse une barrière jusqu’au jour où ils seront ressuscités.
 
-[348] Littéralement: derrière eux. L’interprétation de Ibn Kathîr donne cependant : devant eux.
+[^348]: Littéralement: derrière eux. L’interprétation de Ibn Kathîr donne cependant : devant eux.
 
 # 2774
 
@@ -11847,9 +11873,9 @@ Un fornicateur n’épousera qu’une fornicatrice ou une associâtre. Une forni
 
 # 2795
 
-Ceux qui portent des accusations contre des femmes chastes[349] puis ne produisent pas quatre témoins (pour les prouver), infligez-leur quatre-vingts coups de fouets et ne vous fiez plus jamais à leur témoignage. Car ceux-là sont les pervers,
+Ceux qui portent des accusations contre des femmes chastes[^349] puis ne produisent pas quatre témoins (pour les prouver), infligez-leur quatre-vingts coups de fouets et ne vous fiez plus jamais à leur témoignage. Car ceux-là sont les pervers,
 
-[349] Innocentes de toute liaison illicite.
+[^349]: Innocentes de toute liaison illicite.
 
 # 2796
 
@@ -11881,9 +11907,9 @@ Ceux qui répandent des calomnies sont un groupe parmi vous. Ne croyez pas que c
 
 # 2803
 
-Si seulement, lorsque vous l’avez entendue,[350] les croyants et les croyantes avaient eu une idée plus favorable d’eux-mêmes et avaient dit : « C’est manifestement une calomnie ! »
+Si seulement, lorsque vous l’avez entendue,[^350] les croyants et les croyantes avaient eu une idée plus favorable d’eux-mêmes et avaient dit : « C’est manifestement une calomnie ! »
 
-[350] Lorsque vous avez entendu la calomnie. Il s'agit ici de la calomnie dont fut victime Aicha, l'épouse du Prophète (paix et bénédiction d'Allah sur lui). En effet, elle fut injustement accusée d'infidélité par les Hypocrites de Médine.
+[^350]: Lorsque vous avez entendu la calomnie. Il s'agit ici de la calomnie dont fut victime Aicha, l'épouse du Prophète (paix et bénédiction d'Allah sur lui). En effet, elle fut injustement accusée d'infidélité par les Hypocrites de Médine.
 
 # 2804
 
@@ -11967,9 +11993,9 @@ Mariez ceux d’entre vous qui vivent dans le célibat, ainsi que les vertueux p
 
 # 2824
 
-Que ceux qui n’ont pas les moyens de se marier restent chastes jusqu’à ce qu’Allah les enrichisse de Ses faveurs. Ceux qui, parmi vos esclaves, désirent un contrat d’affranchissement, établissez-le avec eux si vous leur reconnaissez quelque vertu. Donnez-leur des biens qu’Allah vous a dispensés. Et, âpres aux gains passagers de ce bas monde, ne forcez pas les femmes parmi vos esclaves à se prostituer quand elles tiennent à leur chasteté. Si elles y sont forcées, Allah, après leur contrainte, est Absoluteur et Tout Miséricordieux.[351]
+Que ceux qui n’ont pas les moyens de se marier restent chastes jusqu’à ce qu’Allah les enrichisse de Ses faveurs. Ceux qui, parmi vos esclaves, désirent un contrat d’affranchissement, établissez-le avec eux si vous leur reconnaissez quelque vertu. Donnez-leur des biens qu’Allah vous a dispensés. Et, âpres aux gains passagers de ce bas monde, ne forcez pas les femmes parmi vos esclaves à se prostituer quand elles tiennent à leur chasteté. Si elles y sont forcées, Allah, après leur contrainte, est Absoluteur et Tout Miséricordieux.[^351]
 
-[351] La traduction reste fidèle à la structure syntaxique arabe marquée par une rupture de construction (une anacoluthe). La phrase est à gloser par : Si elles y sont forcées, ces femmes doivent savoir qu’Allah est Absoluteur et Miséricordieux. Autrement dit : elles n’encourent aucun châtiment pour un délit auquel elles ont été contraintes.
+[^351]: La traduction reste fidèle à la structure syntaxique arabe marquée par une rupture de construction (une anacoluthe). La phrase est à gloser par : Si elles y sont forcées, ces femmes doivent savoir qu’Allah est Absoluteur et Miséricordieux. Autrement dit : elles n’encourent aucun châtiment pour un délit auquel elles ont été contraintes.
 
 # 2825
 
@@ -12009,9 +12035,9 @@ Ne vois-tu pas qu’Allah est glorifié, par ceux qui sont dans les cieux et sur
 
 # 2834
 
-Ne vois-tu pas qu’Allah pousse peu à peu les nuages pour les accumuler[352] et en faire des amas ? Ainsi peux-tu voir la pluie filtrer à travers eux. Et du ciel, Il fait descendre de la grêle (provenant) de nuages (en forme) de montagnes. Il en atteint qui Il veut et en épargne qui Il veut. L’éclair (de ces nuages) est si éblouissant qu’il manque d’emporter la vue.
+Ne vois-tu pas qu’Allah pousse peu à peu les nuages pour les accumuler[^352] et en faire des amas ? Ainsi peux-tu voir la pluie filtrer à travers eux. Et du ciel, Il fait descendre de la grêle (provenant) de nuages (en forme) de montagnes. Il en atteint qui Il veut et en épargne qui Il veut. L’éclair (de ces nuages) est si éblouissant qu’il manque d’emporter la vue.
 
-[352] Certains nuages, ainsi entassés, sont justement appelés dans la terminologie des météorologues «cumulo- nimbus ».
+[^352]: Certains nuages, ainsi entassés, sont justement appelés dans la terminologie des météorologues «cumulo- nimbus ».
 
 # 2835
 
@@ -12019,11 +12045,13 @@ Allah fait alterner la nuit et le jour. Il y a certes là un enseignement pour c
 
 # 2836
 
-Allah a créé d’eau tous les animaux. Il en est qui marchent sur le ventre,[353] d’autres marchent sur deux pattes,[354] et d’autres encore sur quatre.[355] Allah crée ce qu’Il veut, Allah est de Toute chose Infiniment Capable.
+Allah a créé d’eau tous les animaux. Il en est qui marchent sur le ventre,[^353] d’autres marchent sur deux pattes,[^354] et d’autres encore sur quatre.[^355] Allah crée ce qu’Il veut, Allah est de Toute chose Infiniment Capable.
 
-[353] Cela réfère littéralement aux gastéropodes, mais aussi à tous les reptiles.
-[354] Les bipèdes.
-[355] Les quadrupèdes.
+[^353]: Cela réfère littéralement aux gastéropodes, mais aussi à tous les reptiles.
+
+[^354]: Les bipèdes.
+
+[^355]: Les quadrupèdes.
 
 # 2837
 
@@ -12055,9 +12083,9 @@ Celui qui obéit à Allah et à Son Messager, redoute Allah et Le craint, ceux-l
 
 # 2844
 
-Ils jurent par Allah de leurs serments les plus solennels que si tu leur en donnais l’ordre, ils sortiraient (pour aller combattre). Dis : « Ne jurez donc point. (La nature verbale)[356] de votre obéissance est connue. Allah est parfaitement Informé de ce que vous faites. »
+Ils jurent par Allah de leurs serments les plus solennels que si tu leur en donnais l’ordre, ils sortiraient (pour aller combattre). Dis : « Ne jurez donc point. (La nature verbale)[^356] de votre obéissance est connue. Allah est parfaitement Informé de ce que vous faites. »
 
-[356] Le fond de cette obéissance est contraire à sa forme. Il s’agit d’une obéissance par les mots, non par l’intention.
+[^356]: Le fond de cette obéissance est contraire à sa forme. Il s’agit d’une obéissance par les mots, non par l’intention.
 
 # 2845
 
@@ -12077,9 +12105,9 @@ Ne crois surtout pas que ceux qui ont mécru puissent jamais mettre au défi la 
 
 # 2849
 
-Ô vous qui avez cru ! Que vos domestiques,[357] ainsi que vos enfants qui n’ont pas atteint la puberté, demandent la permission avant d’entrer chez vous à trois moments (de la journée) : avant la Çalât de l’aube, quand vous enlevez vos vêtements à midi, et après la Çalât de la nuit (‘ichâ). (Ce sont là) les trois fois où vous quittez vos habits. En dehors de ces moments (d’intimité), il ne sera fait grief ni à vous ni à eux que vous alliez et veniez les uns chez les autres. Allah vous expose ainsi clairement Ses versets, Allah est Omniscient et Sage.
+Ô vous qui avez cru ! Que vos domestiques,[^357] ainsi que vos enfants qui n’ont pas atteint la puberté, demandent la permission avant d’entrer chez vous à trois moments (de la journée) : avant la Çalât de l’aube, quand vous enlevez vos vêtements à midi, et après la Çalât de la nuit (‘ichâ). (Ce sont là) les trois fois où vous quittez vos habits. En dehors de ces moments (d’intimité), il ne sera fait grief ni à vous ni à eux que vous alliez et veniez les uns chez les autres. Allah vous expose ainsi clairement Ses versets, Allah est Omniscient et Sage.
 
-[357] Littéralement : ceux que possède votre main droite.
+[^357]: Littéralement : ceux que possède votre main droite.
 
 # 2850
 
@@ -12099,9 +12127,9 @@ Les (vrais) croyants sont ceux-là même qui ont foi en Allah et en Son Messager
 
 # 2854
 
-N’appelez point le Messager comme vous vous appelez les uns les autres. Allah connaît d’ailleurs ceux qui d’entre vous se faufilent et se retirent en secret. Que ceux qui enfreignent ses ordres[358] redoutent d’être soumis à une épreuve ou de subir un supplice très douloureux.
+N’appelez point le Messager comme vous vous appelez les uns les autres. Allah connaît d’ailleurs ceux qui d’entre vous se faufilent et se retirent en secret. Que ceux qui enfreignent ses ordres[^358] redoutent d’être soumis à une épreuve ou de subir un supplice très douloureux.
 
-[358] Les ordres du Prophète (paix et bénédiction d’Allah sur lui).
+[^358]: Les ordres du Prophète (paix et bénédiction d’Allah sur lui).
 
 # 2855
 
@@ -12109,9 +12137,9 @@ Tout ce qui est dans les cieux et sur terre n’appartient certes qu’à Allah.
 
 # 2856
 
-Béni soit Celui Qui a fait descendre (en révélation) le Discernement (Al-Furqân)[359] sur Son serviteur afin qu’il avertisse tout l’Univers.
+Béni soit Celui Qui a fait descendre (en révélation) le Discernement (Al-Furqân)[^359] sur Son serviteur afin qu’il avertisse tout l’Univers.
 
-[359] « Al-Furqân » vient du trilitère arabe فرق qui signifie : séparer, différencier, distinguer. Si parmi les noms donnés au Coran « Al-Furqân » est l’un des plus connus (avec « Adh-Dhikr »), c’est qu’il est, pour le Coran, à la fois un nom et une glose : le Livre d’Allah permet de « discerner » le bien d’avec le mal, le vrai d’avec le faux.
+[^359]: « Al-Furqân » vient du trilitère arabe فرق qui signifie : séparer, différencier, distinguer. Si parmi les noms donnés au Coran « Al-Furqân » est l’un des plus connus (avec « Adh-Dhikr »), c’est qu’il est, pour le Coran, à la fois un nom et une glose : le Livre d’Allah permet de « discerner » le bien d’avec le mal, le vrai d’avec le faux.
 
 # 2857
 
@@ -12195,9 +12223,9 @@ Ceux qui n’espèrent pas Nous rencontrer disent : « Que ne sont donc envoyés
 
 # 2877
 
-Le jour où ils verront les Anges (ce jour-là) ne sera pas heureux pour les criminels, et les Anges diront : « Barrière infranchissable ! »[360]
+Le jour où ils verront les Anges (ce jour-là) ne sera pas heureux pour les criminels, et les Anges diront : « Barrière infranchissable ! »[^360]
 
-[360] L’accès au Paradis.
+[^360]: L’accès au Paradis.
 
 # 2878
 
@@ -12225,9 +12253,9 @@ Malheur à moi ! Si seulement je n’avais pas pris untel pour ami !
 
 # 2884
 
-Il m’a fourvoyé en me détournant du Rappel[361] qui m’est parvenu. » Satan abandonne l’homme après l’avoir tenté.
+Il m’a fourvoyé en me détournant du Rappel[^361] qui m’est parvenu. » Satan abandonne l’homme après l’avoir tenté.
 
-[361] Le Coran.
+[^361]: Le Coran.
 
 # 2885
 
@@ -12271,9 +12299,9 @@ Et les ‘Ad, les Thamûd, les habitants d’Ar-Rass, et plusieurs générations
 
 # 2895
 
-Ils[362] sont pourtant passés devant la cité sur laquelle s’était abattue une pluie funeste. Ne l’ont-ils donc pas vue ? C’est qu’ils ne s’attendaient pas à une résurrection.
+Ils[^362] sont pourtant passés devant la cité sur laquelle s’était abattue une pluie funeste. Ne l’ont-ils donc pas vue ? C’est qu’ils ne s’attendaient pas à une résurrection.
 
-[362] Les contemporains de Muhammad (paix et bénédiction d’Allah sur lui). Et la cité dont il est question dans ce verset est Sodome, où vivait le peuple de Loth.
+[^362]: Les contemporains de Muhammad (paix et bénédiction d’Allah sur lui). Et la cité dont il est question dans ce verset est Sodome, où vivait le peuple de Loth.
 
 # 2896
 
@@ -12353,9 +12381,9 @@ Lui Qui, en six jours, créa les cieux, la terre et ce qu’il y a entre eux, pu
 
 # 2915
 
-Quand il leur est dit : « Prosternez-vous devant le Tout Clément », ils répondent : « Qu’est-ce donc que le Tout Clément ? Allons-nous nous prosterner devant Qui tu nous ordonnes de le faire ? » Et cela ne fait qu’ajouter à leur aversion.[363]
+Quand il leur est dit : « Prosternez-vous devant le Tout Clément », ils répondent : « Qu’est-ce donc que le Tout Clément ? Allons-nous nous prosterner devant Qui tu nous ordonnes de le faire ? » Et cela ne fait qu’ajouter à leur aversion.[^363]
 
-[363] Une prosternation est recommandée après la lecture de ce verset.
+[^363]: Une prosternation est recommandée après la lecture de ce verset.
 
 # 2916
 
@@ -12499,9 +12527,9 @@ Présentez-vous à Pharaon et dites-lui : “ Nous sommes les envoyés du Seigne
 
 # 2951
 
-Puis, ingrat (comme tu l’étais), tu commis le forfait que tu sais. »[364]
+Puis, ingrat (comme tu l’étais), tu commis le forfait que tu sais. »[^364]
 
-[364] Le peuple de Pharaon reproche à Moïse d’avoir tué un Égyptien en prenant la défense d’un Juif.
+[^364]: Le peuple de Pharaon reproche à Moïse d’avoir tué un Égyptien en prenant la défense d’un Juif.
 
 # 2952
 
@@ -12809,9 +12837,9 @@ ainsi que toutes les armées d’Iblîs.
 
 # 3028
 
-Et ils diront, s’y disputant[365] :
+Et ils diront, s’y disputant[^365] :
 
-[365] Alors qu’ils sont dans le feu de la Géhenne.
+[^365]: Alors qu’ils sont dans le feu de la Géhenne.
 
 # 3029
 
@@ -12871,9 +12899,9 @@ Craignez donc Allah, obéissez-moi ! »
 
 # 3043
 
-« Allons-nous croire en toi quand seule t’a suivi la vile populace ? »[366]
+« Allons-nous croire en toi quand seule t’a suivi la vile populace ? »[^366]
 
-[366] Autre traduction : « la valetaille ».
+[^366]: Autre traduction : « la valetaille ».
 
 # 3044
 
@@ -13089,9 +13117,9 @@ Je ne vous réclame pour cela aucune récompense, car ma récompense ne relève 
 
 # 3097
 
-Rechercherez-vous donc des rapports intimes avec les mâles[367] de parmi les humains,
+Rechercherez-vous donc des rapports intimes avec les mâles[^367] de parmi les humains,
 
-[367] Recherchez-vous des rapports sexuels avec les hommes ?
+[^367]: Recherchez-vous des rapports sexuels avec les hommes ?
 
 # 3098
 
@@ -13115,9 +13143,9 @@ Nous le sauvâmes ainsi que toute sa famille.
 
 # 3103
 
-Hormis une vieille femme[368] qui fut parmi les disparus.
+Hormis une vieille femme[^368] qui fut parmi les disparus.
 
-[368] Cette vieille femme n’était autre que l’épouse de Loth.
+[^368]: Cette vieille femme n’était autre que l’épouse de Loth.
 
 # 3104
 
@@ -13189,9 +13217,9 @@ Fais donc tomber sur nous des pans du ciel, si tu dis vrai ! »
 
 # 3121
 
-Ils le traitèrent de menteur. Et le supplice du jour du Nuage sombre[369] les saisit. Ce fut le supplice d’un jour terrifiant.
+Ils le traitèrent de menteur. Et le supplice du jour du Nuage sombre[^369] les saisit. Ce fut le supplice d’un jour terrifiant.
 
-[369] Les pans du ciel qu’ils réclamaient à Chou ̒ayb sont effectivement tombés sur eux : un nuage sombre dont ils ne purent se protéger, car ce fut une tempête de feu qui les dévora jusqu’au dernier.
+[^369]: Les pans du ciel qu’ils réclamaient à Chou ̒ayb sont effectivement tombés sur eux : un nuage sombre dont ils ne purent se protéger, car ce fut une tempête de feu qui les dévora jusqu’au dernier.
 
 # 3122
 
@@ -13207,9 +13235,9 @@ Ton Seigneur est, Lui, le Tout- Puissant, le Tout Miséricordieux.
 
 # 3125
 
-que l’Esprit fidèle[370] est descendu
+que l’Esprit fidèle[^370] est descendu
 
-[370] L’Ange Gabriel.
+[^370]: L’Ange Gabriel.
 
 # 3126
 
@@ -13285,9 +13313,9 @@ Il ne leur est pas donné de le faire, et ils en sont incapables.
 
 # 3144
 
-Ils sont tenus loin pour ne point pouvoir l’écouter.[371]
+Ils sont tenus loin pour ne point pouvoir l’écouter.[^371]
 
-[371] L’écoute du Coran.
+[^371]: L’écoute du Coran.
 
 # 3145
 
@@ -13331,9 +13359,9 @@ Ils descendent sur tout calomniateur et dépravé.
 
 # 3155
 
-Ils tendent l’oreille[372] et la plupart d’entre eux sont des menteurs.
+Ils tendent l’oreille[^372] et la plupart d’entre eux sont des menteurs.
 
-[372] Deux sens sont possibles: soit ils tendent l’oreille à ce qui se dit au ciel, soit aux calomnies que colportent les humains.
+[^372]: Deux sens sont possibles: soit ils tendent l’oreille à ce qui se dit au ciel, soit aux calomnies que colportent les humains.
 
 # 3156
 
@@ -13349,9 +13377,9 @@ et qu’ils disent ce qu’ils ne font point ?
 
 # 3159
 
-Hormis ceux qui (d’entre eux) croient, accomplissent les bonnes œuvres, évoquent souvent le nom d’Allah et répondent aux attaques dont ils sont victimes[373]. Les injustes verront bientôt le sort qui sera le leur.
+Hormis ceux qui (d’entre eux) croient, accomplissent les bonnes œuvres, évoquent souvent le nom d’Allah et répondent aux attaques dont ils sont victimes[^373]. Les injustes verront bientôt le sort qui sera le leur.
 
-[373] Les poètes musulmans, et les croyants en général, étaient l’objet d’attaques versifiées de la part des poètes mécréants auxquels ils répondaient en vers pour se défendre.
+[^373]: Les poètes musulmans, et les croyants en général, étaient l’objet d’attaques versifiées de la part des poètes mécréants auxquels ils répondaient en vers pour se défendre.
 
 # 3160
 
@@ -13391,9 +13419,9 @@ Quand il y fut arrivé, il fut interpellé : « Béni soit Celui Qui (se trouve)
 
 # 3169
 
-Jette ton bâton. » Mais, lorsqu’il le[374] vit se remuer tel un serpent, il tourna les talons et s’enfuit sans se retourner. « Ô Moïse, (dit alors Allah), ne crains rien, car les Messagers ne craignent rien auprès de Moi.
+Jette ton bâton. » Mais, lorsqu’il le[^374] vit se remuer tel un serpent, il tourna les talons et s’enfuit sans se retourner. « Ô Moïse, (dit alors Allah), ne crains rien, car les Messagers ne craignent rien auprès de Moi.
 
-[374] Le bâton.
+[^374]: Le bâton.
 
 # 3170
 
@@ -13457,9 +13485,9 @@ Je l’ai trouvée, ainsi que son peuple, qui se prosternaient devant le soleil 
 
 # 3185
 
-Allah, point d’autre divinité que Lui, Seigneur du Trône sublime ! »[375]
+Allah, point d’autre divinité que Lui, Seigneur du Trône sublime ! »[^375]
 
-[375] Une prosternation est recommandée après la lecture de ce verset.
+[^375]: Une prosternation est recommandée après la lecture de ce verset.
 
 # 3186
 
@@ -13579,9 +13607,9 @@ Désirez-vous les hommes plutôt que les femmes ? Vous êtes décidément un peu
 
 # 3215
 
-Pour toute réponse, son peuple eut ces mots : « Chassez de votre cité la famille de Loth, ce sont des gens qui revendiquent la pureté ![376] »
+Pour toute réponse, son peuple eut ces mots : « Chassez de votre cité la famille de Loth, ce sont des gens qui revendiquent la pureté ![^376] »
 
-[376] Il s’agit là d’une antiphrase : les propos du peuple de Loth sont ironiques. Voir aussi le verset 82 de la sourate Al-A ̒râf .
+[^376]: Il s’agit là d’une antiphrase : les propos du peuple de Loth sont ironiques. Voir aussi le verset 82 de la sourate Al-A ̒râf .
 
 # 3216
 
@@ -13609,9 +13637,9 @@ Dis : « Louange à Allah ! Que la paix soit sur Ses serviteurs élus ! Allah es
 
 # 3222
 
-(Qui d’autre que) Lui vous éclaire le chemin au milieu des ténèbres de la terre ferme et de la haute mer, et envoie les vents en signe avant-coureur de Sa grâce? [377] Y a-t-il donc, avec Allah, une autre divinité ? Allah est infiniment plus Haut que ce qu’ils Lui associent.
+(Qui d’autre que) Lui vous éclaire le chemin au milieu des ténèbres de la terre ferme et de la haute mer, et envoie les vents en signe avant-coureur de Sa grâce? [^377] Y a-t-il donc, avec Allah, une autre divinité ? Allah est infiniment plus Haut que ce qu’ils Lui associent.
 
-[377] Les vents précèdent les pluies bénéfiques.
+[^377]: Les vents précèdent les pluies bénéfiques.
 
 # 3223
 
@@ -13775,9 +13803,9 @@ Le cœur de la mère de Moïse fut envahi d’un grand vide et elle faillit tout
 
 # 3263
 
-Elle dit à sa sœur[378] : « Va à sa suite. » Elle l’apercevait alors de loin et sans qu’ils aient pu sentir (sa présence).
+Elle dit à sa sœur[^378] : « Va à sa suite. » Elle l’apercevait alors de loin et sans qu’ils aient pu sentir (sa présence).
 
-[378] La sœur de Moïse.
+[^378]: La sœur de Moïse.
 
 # 3264
 
@@ -13809,9 +13837,9 @@ Le lendemain, au petit jour, il était dans la ville, apeuré et regardant autou
 
 # 3271
 
-Lorsqu’il voulut s’attaquer à leur ennemi commun, il lui fut dit[379] : « Ô Moïse, veux-tu donc me tuer comme tu as déjà tué un homme hier ? Tu ne veux être, décidément, qu’un tyran sur terre, et tu ne souhaites manifestement pas être parmi les hommes de bien. »
+Lorsqu’il voulut s’attaquer à leur ennemi commun, il lui fut dit[^379] : « Ô Moïse, veux-tu donc me tuer comme tu as déjà tué un homme hier ? Tu ne veux être, décidément, qu’un tyran sur terre, et tu ne souhaites manifestement pas être parmi les hommes de bien. »
 
-[379] Celui qui s’adresse à Moïse est, selon divers exégètes, soit l’Israélite qu’il avait défendu une première fois et qui croyait que Moïse, regrettant son meurtre, allait s’attaquer à lui cette fois, soit l’Égyptien, leur ennemi commun. Dans les deux cas, le résultat est le même : l’information sera parvenue à Pharaon et à son peuple.
+[^379]: Celui qui s’adresse à Moïse est, selon divers exégètes, soit l’Israélite qu’il avait défendu une première fois et qui croyait que Moïse, regrettant son meurtre, allait s’attaquer à lui cette fois, soit l’Égyptien, leur ennemi commun. Dans les deux cas, le résultat est le même : l’information sera parvenue à Pharaon et à son peuple.
 
 # 3272
 
@@ -13859,9 +13887,9 @@ Quand il fut arrivé (au feu), il fut appelé depuis le côté de la vallée qui
 
 # 3283
 
-Jette ton bâton. » Mais, lorsqu’il le[380] vit se remuer tel un serpent, il tourna les talons et s’enfuit sans se retourner. « Ô Moïse, (reprit Allah), reviens, n’aie pas peur, tu es en sécurité.
+Jette ton bâton. » Mais, lorsqu’il le[^380] vit se remuer tel un serpent, il tourna les talons et s’enfuit sans se retourner. « Ô Moïse, (reprit Allah), reviens, n’aie pas peur, tu es en sécurité.
 
-[380] Le bâton. Voir aussi la note 374.
+[^380]: Le bâton. Voir aussi la note 374.
 
 # 3284
 
@@ -13881,9 +13909,9 @@ Et puis mon frère Aaron a le verbe plus facile que moi. Envoie-le donc pour m�
 
 # 3288
 
-Lorsque, nanti de Nos Signes évidents, Moïse comparut devant eux, [381] ils dirent : « Ce n’est là que magie mise au point, et nous n’avons jamais entendu parler d’une telle chose chez nos premiers ancêtres ! »
+Lorsque, nanti de Nos Signes évidents, Moïse comparut devant eux, [^381] ils dirent : « Ce n’est là que magie mise au point, et nous n’avons jamais entendu parler d’une telle chose chez nos premiers ancêtres ! »
 
-[381] Devant Pharaon et son assemblée de notables.
+[^381]: Devant Pharaon et son assemblée de notables.
 
 # 3289
 
@@ -13891,9 +13919,9 @@ Lorsque, nanti de Nos Signes évidents, Moïse comparut devant eux, [381] ils di
 
 # 3290
 
-« Ô vous, assemblée de notables, dit Pharaon, je ne sache[382] point qu’il y ait, pour vous, une autre divinité que moi. Hâmân, fais donc cuire pour moi (des briques) d’argile, et fais bâtir pour moi une tour, peut-être alors pourrai-je monter jusqu’au Dieu de Moïse. Mais je crois plutôt qu’il est du nombre des menteurs. »
+« Ô vous, assemblée de notables, dit Pharaon, je ne sache[^382] point qu’il y ait, pour vous, une autre divinité que moi. Hâmân, fais donc cuire pour moi (des briques) d’argile, et fais bâtir pour moi une tour, peut-être alors pourrai-je monter jusqu’au Dieu de Moïse. Mais je crois plutôt qu’il est du nombre des menteurs. »
 
-[382] Cet emploi du subjonctif dans une principale n’est possible en français qu’avec le verbe « savoir ». Il est, dans le présent contexte, plus expressif que l’emploi de l’indicatif. Certains grammairiens l’appellent « subjonctif de modestie », mais la « modestie » de Pharaon est ici ironique. Cet emploi évite d’ajouter des commentaires du genre : « à ma connaissance, que je sache, d’après mes modestes connaissances, etc. »
+[^382]: Cet emploi du subjonctif dans une principale n’est possible en français qu’avec le verbe « savoir ». Il est, dans le présent contexte, plus expressif que l’emploi de l’indicatif. Certains grammairiens l’appellent « subjonctif de modestie », mais la « modestie » de Pharaon est ici ironique. Cet emploi évite d’ajouter des commentaires du genre : « à ma connaissance, que je sache, d’après mes modestes connaissances, etc. »
 
 # 3291
 
@@ -13933,9 +13961,9 @@ Sans cela, si un malheur les avait atteints, à cause de ce qu’ils avaient com
 
 # 3300
 
-Mais quand la vérité, venant de Nous, leur est parvenue, ils ont dit : « Si au moins il avait reçu ce qu’a reçu Moïse ! » Mais, n’ont-ils pas déjà renié ce qui a été donné à Moïse ? Ils ont dit alors : « Voilà deux magies complices ! »[383] Et d’ajouter : « Nous ne croyons en aucune des deux. »
+Mais quand la vérité, venant de Nous, leur est parvenue, ils ont dit : « Si au moins il avait reçu ce qu’a reçu Moïse ! » Mais, n’ont-ils pas déjà renié ce qui a été donné à Moïse ? Ils ont dit alors : « Voilà deux magies complices ! »[^383] Et d’ajouter : « Nous ne croyons en aucune des deux. »
 
-[383] Les deux magies auxquelles il est fait référence ici sont la Torah et le Coran.
+[^383]: Les deux magies auxquelles il est fait référence ici sont la Torah et le Coran.
 
 # 3301
 
@@ -13947,21 +13975,21 @@ S’ils ne répondent pas à ton défi, sache alors qu’ils ne suivent que leur
 
 # 3303
 
-Nous leur avons fait parvenir la Parole[384] afin qu’ils se souviennent.
+Nous leur avons fait parvenir la Parole[^384] afin qu’ils se souviennent.
 
-[384] Le Coran.
+[^384]: Le Coran.
 
 # 3304
 
-Ceux à qui Nous avons donné le Livre avant (le Coran), croient pourtant à celui-ci.[385]
+Ceux à qui Nous avons donné le Livre avant (le Coran), croient pourtant à celui-ci.[^385]
 
-[385] Des gens du Livre (Juifs et Chrétiens) s’étaient effectivement convertis à l’Islam.
+[^385]: Des gens du Livre (Juifs et Chrétiens) s’étaient effectivement convertis à l’Islam.
 
 # 3305
 
-Quand il leur est récité, ils disent : « Nous y croyons. Il est la pure vérité venant de notre Seigneur. Dès avant sa venue, nous étions Musulmans.[386] »
+Quand il leur est récité, ils disent : « Nous y croyons. Il est la pure vérité venant de notre Seigneur. Dès avant sa venue, nous étions Musulmans.[^386] »
 
-[386] En croyant d’emblée au Coran, les gens du Livre se sont rendus compte qu’ils avaient été Musulmans avant la lettre.
+[^386]: En croyant d’emblée au Coran, les gens du Livre se sont rendus compte qu’ils avaient été Musulmans avant la lettre.
 
 # 3306
 
@@ -13973,15 +14001,15 @@ Quand ils entendent de vains propos, ils s’en détournent en disant : « Nous 
 
 # 3308
 
-Tu[387] ne sauras guider qui tu aimes, mais Allah guide qui Il veut. Il est le Meilleur à reconnaître ceux qui sont guidés vers la bonne direction.
+Tu[^387] ne sauras guider qui tu aimes, mais Allah guide qui Il veut. Il est le Meilleur à reconnaître ceux qui sont guidés vers la bonne direction.
 
-[387] Muhammad (paix et bénédiction d’Allah sur lui).
+[^387]: Muhammad (paix et bénédiction d’Allah sur lui).
 
 # 3309
 
-Ils[388] disent : « Si nous suivons la bonne direction avec toi, nous serons chassés de notre terre. » Ne les avons-Nous pas fermement établis dans une enceinte sacrée et imprenable, vers laquelle sont acheminés, dons de Notre part, des fruits de toutes sortes ? La plupart d’entre eux, cependant, ne savent pas.
+Ils[^388] disent : « Si nous suivons la bonne direction avec toi, nous serons chassés de notre terre. » Ne les avons-Nous pas fermement établis dans une enceinte sacrée et imprenable, vers laquelle sont acheminés, dons de Notre part, des fruits de toutes sortes ? La plupart d’entre eux, cependant, ne savent pas.
 
-[388] Les Mecquois, alors mécréants.
+[^388]: Les Mecquois, alors mécréants.
 
 # 3310
 
@@ -14061,9 +14089,9 @@ Qârûn (Coré) était du peuple de Moïse. Mais il persécutait les siens, abus
 
 # 3329
 
-Recherche plutôt, avec les biens qu’Allah t’a donnés, la Demeure Ultime. N’oublie cependant pas ta part en ce bas monde.[389] Sois bienfaisant (envers autrui) comme Allah l’a été envers toi. Ne cherche pas le désordre sur terre, car Allah n’aime pas les semeurs de désordre.
+Recherche plutôt, avec les biens qu’Allah t’a donnés, la Demeure Ultime. N’oublie cependant pas ta part en ce bas monde.[^389] Sois bienfaisant (envers autrui) comme Allah l’a été envers toi. Ne cherche pas le désordre sur terre, car Allah n’aime pas les semeurs de désordre.
 
-[389] Voilà un verset qui prouve encore une fois que l’Islam, quoi qu’en disent les détracteurs aux interprétations tendancieuses, est la religion de la modération. Elle n’ordonne pas de s’intéresser uniquement aux récompenses promises dans l’autre monde, et de négliger, pour ainsi dire, les devoirs terrestres et le droit de bénéficier des avantages de la vie présente.
+[^389]: Voilà un verset qui prouve encore une fois que l’Islam, quoi qu’en disent les détracteurs aux interprétations tendancieuses, est la religion de la modération. Elle n’ordonne pas de s’intéresser uniquement aux récompenses promises dans l’autre monde, et de négliger, pour ainsi dire, les devoirs terrestres et le droit de bénéficier des avantages de la vie présente.
 
 # 3330
 
@@ -14095,15 +14123,15 @@ Celui qui viendra avec une bonne œuvre aura bien mieux encore. Et celui qui vie
 
 # 3337
 
-Celui qui t’a imposé le Coran entend te ramener au (lieu amène)[390] d’un retour. Dis : « Mon Seigneur est le Meilleur à Savoir qui indique (aux hommes) la bonne direction (hudâ) et qui est dans un égarement manifeste. »
+Celui qui t’a imposé le Coran entend te ramener au (lieu amène)[^390] d’un retour. Dis : « Mon Seigneur est le Meilleur à Savoir qui indique (aux hommes) la bonne direction (hudâ) et qui est dans un égarement manifeste. »
 
-[390] Le lieu amène (locus amoenus) est ici La Mecque. Ce sens, tout à fait plausible, prédit le retour du Prophète (paix et bénédiction d’Allah sur lui) à La Mecque. Quelques exégètes donnent une autre interprétation : Le Paradis. Les deux sens sont en harmonie avec l’idée du « lieu amène », et du retour heureux.
+[^390]: Le lieu amène (locus amoenus) est ici La Mecque. Ce sens, tout à fait plausible, prédit le retour du Prophète (paix et bénédiction d’Allah sur lui) à La Mecque. Quelques exégètes donnent une autre interprétation : Le Paradis. Les deux sens sont en harmonie avec l’idée du « lieu amène », et du retour heureux.
 
 # 3338
 
-Tu n’entretenais nul espoir que le Livre te fût envoyé.[391] Il le fut par la grâce de ton Seigneur. Ne sois donc point l’allié des mécréants !
+Tu n’entretenais nul espoir que le Livre te fût envoyé.[^391] Il le fut par la grâce de ton Seigneur. Ne sois donc point l’allié des mécréants !
 
-[391] L’emploi du subjonctif est rendu possible par la négation du verbe « espérer », lequel, à la forme affirmative, régit obligatoirement l’indicatif. En effet, la négation veut que la révélation du Coran au Prophète soit, aux yeux de ce dernier, qui ne s’attendait point à cette mission divine, un événement impossible et inespéré.
+[^391]: L’emploi du subjonctif est rendu possible par la négation du verbe « espérer », lequel, à la forme affirmative, régit obligatoirement l’indicatif. En effet, la négation veut que la révélation du Coran au Prophète soit, aux yeux de ce dernier, qui ne s’attendait point à cette mission divine, un événement impossible et inespéré.
 
 # 3339
 
@@ -14127,9 +14155,9 @@ Nous avons déjà mis à l’épreuve ceux qui les ont précédés. C’est ains
 
 # 3344
 
-Ceux qui commettent les œuvres impies s’imaginent donc pouvoir Nous distancer?[392] Combien mauvais est leur jugement !
+Ceux qui commettent les œuvres impies s’imaginent donc pouvoir Nous distancer?[^392] Combien mauvais est leur jugement !
 
-[392] C’est-à-dire, pour Nous prendre de vitesse et échapper à Notre châtiment.
+[^392]: C’est-à-dire, pour Nous prendre de vitesse et échapper à Notre châtiment.
 
 # 3345
 
@@ -14229,9 +14257,9 @@ Loth disait à son peuple : « Vous vous adonnez à un vice que personne aux mon
 
 # 3369
 
-Coucherez-vous donc avec les hommes ? Briganderez-vous sur les grands chemins ?[393] Commettrez-vous les actes condamnables au cours de vos réunions ? » Pour toute réponse, son peuple eut ces mots : « Fais que s’abatte sur nous le supplice d’Allah si tu dis vrai ! »
+Coucherez-vous donc avec les hommes ? Briganderez-vous sur les grands chemins ?[^393] Commettrez-vous les actes condamnables au cours de vos réunions ? » Pour toute réponse, son peuple eut ces mots : « Fais que s’abatte sur nous le supplice d’Allah si tu dis vrai ! »
 
-[393] La traduction française exacte de l’expression arabe قاطع الطريق est : « voleur de grand chemin ».
+[^393]: La traduction française exacte de l’expression arabe قاطع الطريق est : « voleur de grand chemin ».
 
 # 3370
 
@@ -14239,9 +14267,9 @@ Coucherez-vous donc avec les hommes ? Briganderez-vous sur les grands chemins ?[
 
 # 3371
 
-Lorsque Nos émissaires (les Anges) eurent apporté l’heureuse nouvelle à Abraham,[394] ils lui dirent : « Nous allons faire périr les habitants de cette cité, car ils sont injustes. »
+Lorsque Nos émissaires (les Anges) eurent apporté l’heureuse nouvelle à Abraham,[^394] ils lui dirent : « Nous allons faire périr les habitants de cette cité, car ils sont injustes. »
 
-[394] L’heureuse nouvelle est la venue au monde d’Isaac et de Jacob.
+[^394]: L’heureuse nouvelle est la venue au monde d’Isaac et de Jacob.
 
 # 3372
 
@@ -14305,9 +14333,9 @@ Ne disputez avec les gens du Livre que de la plus belle des manières, sauf s’
 
 # 3387
 
-C’est ainsi que Nous t’avons révélé le Livre. Ceux à qui Nous avons déjà donné les Écritures y croient. Et il en est aussi, parmi ceux-ci,[395] qui y croient. Seuls rejettent Nos versets les mécréants !
+C’est ainsi que Nous t’avons révélé le Livre. Ceux à qui Nous avons déjà donné les Écritures y croient. Et il en est aussi, parmi ceux-ci,[^395] qui y croient. Seuls rejettent Nos versets les mécréants !
 
-[395] Parmi les Mecquois et les Arabes qui n’étaient ni Juifs ni Chrétiens.
+[^395]: Parmi les Mecquois et les Arabes qui n’étaient ni Juifs ni Chrétiens.
 
 # 3388
 
@@ -14547,9 +14575,9 @@ Ne voient-ils donc pas qu’Allah dispense Ses biens à qui Il veut, avec géné
 
 # 3447
 
-Alors, donne au proche parent, au pauvre et au voyageur de grand chemin ! Cela est bien meilleur pour ceux qui espèrent (voir) le Visage d’Allah.[397] Ceux-là seront ceux qui réussissent !
+Alors, donne au proche parent, au pauvre et au voyageur de grand chemin ! Cela est bien meilleur pour ceux qui espèrent (voir) le Visage d’Allah.[^397] Ceux-là seront ceux qui réussissent !
 
-[397] Autre interprétation : d’obtenir Son agrément.
+[^397]: Autre interprétation : d’obtenir Son agrément.
 
 # 3448
 
@@ -14645,9 +14673,9 @@ Alif, Lâm, Mîm.
 
 # 3471
 
-Ce sont là les versets du Livre éminemment structuré,[399]
+Ce sont là les versets du Livre éminemment structuré,[^399]
 
-[399] Voir aussi le premier verset de la sourate Yûnus.
+[^399]: Voir aussi le premier verset de la sourate Yûnus.
 
 # 3472
 
@@ -14775,9 +14803,9 @@ Une vague les envahit-elle, aussi noire que l’ombre, que les voilà à implore
 
 # 3503
 
-Allah détient la science de l’Heure. C’est Lui Qui fait descendre la pluie bénéfique,[400] et Sait ce qu’il y a dans les matrices. Nulle âme ne sait ce qu’elle pourra acquérir demain et nulle âme ne sait en quelle terre elle mourra. Allah est certes Omniscient et parfaitement Informé.
+Allah détient la science de l’Heure. C’est Lui Qui fait descendre la pluie bénéfique,[^400] et Sait ce qu’il y a dans les matrices. Nulle âme ne sait ce qu’elle pourra acquérir demain et nulle âme ne sait en quelle terre elle mourra. Allah est certes Omniscient et parfaitement Informé.
 
-[400] Nous avons ajouté l’adjectif « bénéfique » parce que le texte coranique utilise ici : الغيث. Or il ne s’agit pas d’une simple synonymie. Chaque terme en arabe signifiant « pluie » a une nuance particulière.Ainsi الغيث, utilisé dans ce verset, désigne la pluie que les hommes désespèrent de voir tomber et qui devra les sauver de la sécheresse.
+[^400]: Nous avons ajouté l’adjectif « bénéfique » parce que le texte coranique utilise ici : الغيث. Or il ne s’agit pas d’une simple synonymie. Chaque terme en arabe signifiant « pluie » a une nuance particulière.Ainsi الغيث, utilisé dans ce verset, désigne la pluie que les hommes désespèrent de voir tomber et qui devra les sauver de la sécheresse.
 
 # 3504
 
@@ -14789,9 +14817,9 @@ La révélation du Livre à propos duquel il n’y a nul doute vient du Seigneur
 
 # 3506
 
-Ou alors disent-ils c’est lui[401] qui l’a inventé ? Non, c’est plutôt la vérité procédant de ton Seigneur, pour que tu avertisses un peuple qu’avant toi personne n’avait averti afin qu’ils soient bien guidés.
+Ou alors disent-ils c’est lui[^401] qui l’a inventé ? Non, c’est plutôt la vérité procédant de ton Seigneur, pour que tu avertisses un peuple qu’avant toi personne n’avait averti afin qu’ils soient bien guidés.
 
-[401] Muhammad (paix et bénédiction d’Allah sur lui).
+[^401]: Muhammad (paix et bénédiction d’Allah sur lui).
 
 # 3507
 
@@ -14815,9 +14843,9 @@ Puis Il a extrait sa descendance à partir d’un vulgaire liquide,
 
 # 3512
 
-l’a modelée en sa forme définitive et lui a insufflé de Son esprit. Il vous a donné l’ouïe, les yeux et la raison.[402] Mais vous n’êtes guère reconnaissants !
+l’a modelée en sa forme définitive et lui a insufflé de Son esprit. Il vous a donné l’ouïe, les yeux et la raison.[^402] Mais vous n’êtes guère reconnaissants !
 
-[402] Les dispositions du cœur (af’idah) sont diverses et incluent toutes les formes de connaissances, dont la plus importante est la connaissance intuitive, indispensable pour avoir la foi. Nous avons tout de même traduit par « raison », comme dans le verset 23 de la sourate Al-Mulk et dans le verset 78 de la sourate Al-Mu’minûn.
+[^402]: Les dispositions du cœur (af’idah) sont diverses et incluent toutes les formes de connaissances, dont la plus importante est la connaissance intuitive, indispensable pour avoir la foi. Nous avons tout de même traduit par « raison », comme dans le verset 23 de la sourate Al-Mulk et dans le verset 78 de la sourate Al-Mu’minûn.
 
 # 3513
 
@@ -14841,9 +14869,9 @@ Goûtez donc (à ce châtiment) pour avoir oublié la rencontre de ce jour qui e
 
 # 3518
 
-N’ont foi en Nos versets que ceux qui, lorsqu’ils leur sont rappelés, tombent à terre prosternés, rendent gloire à leur Seigneur et célèbrent Ses louanges, sans se montrer hautains.[403]
+N’ont foi en Nos versets que ceux qui, lorsqu’ils leur sont rappelés, tombent à terre prosternés, rendent gloire à leur Seigneur et célèbrent Ses louanges, sans se montrer hautains.[^403]
 
-[403] Une prosternation est recommandée après la lecture de ce verset.
+[^403]: Une prosternation est recommandée après la lecture de ce verset.
 
 # 3519
 
@@ -14863,9 +14891,9 @@ Ceux qui ont cru et ont accompli les bonnes œuvres auront, pour prix de ce qu�
 
 # 3523
 
-Quant à ceux qui se sont viciés,[404] leur refuge sera le Feu. Chaque fois qu’ils voudront en sortir, ils y seront reconduits, et il leur sera dit : « Goûtez le supplice du Feu que vous preniez pour un mensonge ! »
+Quant à ceux qui se sont viciés,[^404] leur refuge sera le Feu. Chaque fois qu’ils voudront en sortir, ils y seront reconduits, et il leur sera dit : « Goûtez le supplice du Feu que vous preniez pour un mensonge ! »
 
-[404] Cet emploi abstrait du verbe pronominal « se vicier » (employé d’ailleurs dans la littérature du XIXème siècle) est aujourd’hui rare. Néanmoins, il exprime bien le sens voulu dans ce contexte : se corrompre moralement par le vice. (Voir le Grand Robert).
+[^404]: Cet emploi abstrait du verbe pronominal « se vicier » (employé d’ailleurs dans la littérature du XIXème siècle) est aujourd’hui rare. Néanmoins, il exprime bien le sens voulu dans ce contexte : se corrompre moralement par le vice. (Voir le Grand Robert).
 
 # 3524
 
@@ -14901,9 +14929,9 @@ Ils disent : « À quand donc cette victoire, si ce que vous dites est vrai ? »
 
 # 3532
 
-Dis : « Au Jour de la Victoire,[405] il ne servira plus à rien aux mécréants de croire, et ils n’auront droit à plus aucun sursis.
+Dis : « Au Jour de la Victoire,[^405] il ne servira plus à rien aux mécréants de croire, et ils n’auront droit à plus aucun sursis.
 
-[405] Le contexte prouve qu’il s’agit du Jour de la Résurrection.
+[^405]: Le contexte prouve qu’il s’agit du Jour de la Résurrection.
 
 # 3533
 
@@ -14931,10 +14959,11 @@ Affiliez (ces enfants adoptifs) à leurs vrais pères : cela est plus juste pour
 
 # 3539
 
-Le Prophète a plus de droit sur les croyants que ceux-ci n’en ont sur eux-mêmes ; ses épouses sont leurs mères (dans les successions). Selon le Livre d’Allah, les liens de consanguinité sont prioritaires (en héritage) par rapport à ceux qui unissent les croyants et les Émigrés.[406] À moins pour vous de faire une donation en faveur de vos alliés (en religion). Car cela est inscrit dans le Livre.[407]
+Le Prophète a plus de droit sur les croyants que ceux-ci n’en ont sur eux-mêmes ; ses épouses sont leurs mères (dans les successions). Selon le Livre d’Allah, les liens de consanguinité sont prioritaires (en héritage) par rapport à ceux qui unissent les croyants et les Émigrés.[^406] À moins pour vous de faire une donation en faveur de vos alliés (en religion). Car cela est inscrit dans le Livre.[^407]
 
-[406] Les croyants sont les Médinois (Ançâr), les Émigrés (Al-Muhâjirûn), les Mecquois.
-[407] Il s’agit là du Livre écrit de toute éternité. Tout y est écrit et consigné, depuis les actions des hommes jusqu’aux rétributions qui les attendent le Jour de la Résurrection. Autre nom de ce Livre : la Table gardée : اللوح المحفوظ.
+[^406]: Les croyants sont les Médinois (Ançâr), les Émigrés (Al-Muhâjirûn), les Mecquois.
+
+[^407]: Il s’agit là du Livre écrit de toute éternité. Tout y est écrit et consigné, depuis les actions des hommes jusqu’aux rétributions qui les attendent le Jour de la Résurrection. Autre nom de ce Livre : la Table gardée : اللوح المحفوظ.
 
 # 3540
 
@@ -14946,9 +14975,9 @@ afin (qu’Allah) interrogeât ceux qui sont sincères sur leur sincérité. Il 
 
 # 3542
 
-Ô vous qui avez cru ! Rappelez-vous ce bienfait d’Allah envers vous, lorsque des armées vous ont assiégés et que Nous avons envoyé contre elles un vent et des troupes que vous ne pouviez voir.[408] Allah Voit clairement tout ce que vous faites.
+Ô vous qui avez cru ! Rappelez-vous ce bienfait d’Allah envers vous, lorsque des armées vous ont assiégés et que Nous avons envoyé contre elles un vent et des troupes que vous ne pouviez voir.[^408] Allah Voit clairement tout ce que vous faites.
 
-[408] Les Anges.
+[^408]: Les Anges.
 
 # 3543
 
@@ -14964,9 +14993,9 @@ Alors, les hypocrites et ceux qui avaient le cœur malade disaient : « Allah et
 
 # 3546
 
-Un groupe parmi eux disait : « Ô gens de Yathrib ![409] Il n’y a pas de place pour vous ici ! Retournez donc (chez vous). » Un (autre) groupe demandait au Prophète la permission de s’en aller en disant : « Nos maisons sont exposées (au danger). » Or elles ne l’étaient point, et ils ne pensaient qu’à prendre la fuite.
+Un groupe parmi eux disait : « Ô gens de Yathrib ![^409] Il n’y a pas de place pour vous ici ! Retournez donc (chez vous). » Un (autre) groupe demandait au Prophète la permission de s’en aller en disant : « Nos maisons sont exposées (au danger). » Or elles ne l’étaient point, et ils ne pensaient qu’à prendre la fuite.
 
-[409] Yathrib est l’ancien nom de Médine.
+[^409]: Yathrib est l’ancien nom de Médine.
 
 # 3547
 
@@ -15018,10 +15047,11 @@ Allah a repoussé les mécréants écumant de rage et sans avoir récolté aucun
 
 # 3559
 
-Il a fait descendre de leurs forteresses ceux qui, parmi les gens du Livre,[410] les[411] avaient soutenus. Il a jeté la terreur dans leurs cœurs : vous avez tué une partie d’entre eux, et vous avez tenu en captivité une autre.
+Il a fait descendre de leurs forteresses ceux qui, parmi les gens du Livre,[^410] les[^411] avaient soutenus. Il a jeté la terreur dans leurs cœurs : vous avez tué une partie d’entre eux, et vous avez tenu en captivité une autre.
 
-[410] Les Juifs.
-[411] Les coalisés.
+[^410]: Les Juifs.
+
+[^411]: Les coalisés.
 
 # 3560
 
@@ -15029,9 +15059,9 @@ Il vous a fait hériter de leur terre, de leurs demeures, de leurs biens et d’
 
 # 3561
 
-Ô Prophète ! Dis à tes épouses : « Si c’est la vie en ce bas monde que vous désirez, avec son apparat, venez donc que je vous offre en jouissance quelque bien compensatoire et que je vous libère d’une bien belle manière.[412]
+Ô Prophète ! Dis à tes épouses : « Si c’est la vie en ce bas monde que vous désirez, avec son apparat, venez donc que je vous offre en jouissance quelque bien compensatoire et que je vous libère d’une bien belle manière.[^412]
 
-[412] Par le divorce.
+[^412]: Par le divorce.
 
 # 3562
 
@@ -15079,9 +15109,9 @@ Ceux qui transmettaient les messages d’Allah, craignaient Allah et ne craignai
 
 # 3573
 
-Muhammad n’est le père d’aucun homme parmi vous,[413] mais (il est) le Messager d’Allah et le Sceau des Prophètes. Allah est de Toute chose Omniscient.
+Muhammad n’est le père d’aucun homme parmi vous,[^413] mais (il est) le Messager d’Allah et le Sceau des Prophètes. Allah est de Toute chose Omniscient.
 
-[413] Tous les enfants mâles du Prophète sont morts de son vivant. Seules ses filles survécurent assez longtemps pour assister à l’avènement de l’Islam.
+[^413]: Tous les enfants mâles du Prophète sont morts de son vivant. Seules ses filles survécurent assez longtemps pour assister à l’avènement de l’Islam.
 
 # 3574
 
@@ -15157,9 +15187,9 @@ Et ceux qui offensent les croyants et les croyantes pour ce qu’ils n’ont pas
 
 # 3592
 
-Ô Prophète ! Dis à tes épouses, à tes filles et aux femmes des croyants, de ramener sur elles une partie de leurs mantes.[414] Cela, afin qu’elles puissent être reconnues et que leur soit évité d’être importunées. Allah est Absoluteur et Tout Miséricordieux.
+Ô Prophète ! Dis à tes épouses, à tes filles et aux femmes des croyants, de ramener sur elles une partie de leurs mantes.[^414] Cela, afin qu’elles puissent être reconnues et que leur soit évité d’être importunées. Allah est Absoluteur et Tout Miséricordieux.
 
-[414] Selon Ibn Kathîr, Allah a ordonné à Son Messager d’imposer aux croyantes, mais en particulier à ses épouses et ses filles, compte tenu de leur rang, de ramener sur elles un pan de leurs mantes (jilbâb :) afin de se distinguer des femmes de la « jahiliyya » et des esclaves. Le « jilbâb » est ce grand voile, cette espèce de mante qui se porte sur le voile (khimâr) qui couvre la tête, comme l’expliquent, entre autres, Ibn Mas‘oûd, ‘Oubayda, Qatâda, Al-Hasan Al-Baçrî, Saïd Ibn Joubayr, Ibrâhîm An-Nakha‘î, ‘Atâ’ Al-Khourasânî. Al-Jawharî pour sa part, explique que le « jilbâb » est une pièce d’étoffe qui enveloppe tout le corps.
+[^414]: Selon Ibn Kathîr, Allah a ordonné à Son Messager d’imposer aux croyantes, mais en particulier à ses épouses et ses filles, compte tenu de leur rang, de ramener sur elles un pan de leurs mantes (jilbâb :) afin de se distinguer des femmes de la « jahiliyya » et des esclaves. Le « jilbâb » est ce grand voile, cette espèce de mante qui se porte sur le voile (khimâr) qui couvre la tête, comme l’expliquent, entre autres, Ibn Mas‘oûd, ‘Oubayda, Qatâda, Al-Hasan Al-Baçrî, Saïd Ibn Joubayr, Ibrâhîm An-Nakha‘î, ‘Atâ’ Al-Khourasânî. Al-Jawharî pour sa part, explique que le « jilbâb » est une pièce d’étoffe qui enveloppe tout le corps.
 
 # 3593
 
@@ -15267,21 +15297,21 @@ Ne voient-ils donc pas ce qu’il y a devant et derrière eux du ciel et de la t
 
 # 3619
 
-Ils édifiaient pour lui tous les ouvrages qu’il voulait : des sanctuaires, des statues, des plateaux (grands) comme des bassins et d’énormes chaudrons solidement installés. « Ô vous famille de David ! Travaillez et Me rendez grâces ![415] » Mais bien peu de Mes serviteurs sont reconnaissants.
+Ils édifiaient pour lui tous les ouvrages qu’il voulait : des sanctuaires, des statues, des plateaux (grands) comme des bassins et d’énormes chaudrons solidement installés. « Ô vous famille de David ! Travaillez et Me rendez grâces ![^415] » Mais bien peu de Mes serviteurs sont reconnaissants.
 
-[415] L’emploi de « Me rendez » au lieu de « rendez-Moi » est voulu. C’est une survivance de l’emploi classique de l’impératif. Nous trouvons que cet usage archaïsant sied mieux au rythme du verset.
+[^415]: L’emploi de « Me rendez » au lieu de « rendez-Moi » est voulu. C’est une survivance de l’emploi classique de l’impératif. Nous trouvons que cet usage archaïsant sied mieux au rythme du verset.
 
 # 3620
 
-Quand Nous eûmes décidé sa mort, seules les (petites) bêtes de terre[416] leur indiquèrent qu’il était mort après qu’ils eurent rongé son bâton d’appui. Lorsqu’il s’écroula devant eux, les djinns se rendirent compte que s’ils avaient la science de l’Inconnaissable (ghayb), ils n’auraient pas supporté plus longtemps le supplice de l’avilissement.
+Quand Nous eûmes décidé sa mort, seules les (petites) bêtes de terre[^416] leur indiquèrent qu’il était mort après qu’ils eurent rongé son bâton d’appui. Lorsqu’il s’écroula devant eux, les djinns se rendirent compte que s’ils avaient la science de l’Inconnaissable (ghayb), ils n’auraient pas supporté plus longtemps le supplice de l’avilissement.
 
-[416] Les termites qui avaient rongé le bâton sur lequel s’appuyait Salomon mort et que les djinns continuaient à servir, le croyant encore vivant.
+[^416]: Les termites qui avaient rongé le bâton sur lequel s’appuyait Salomon mort et que les djinns continuaient à servir, le croyant encore vivant.
 
 # 3621
 
-Il y avait, pour le peuple de Saba’, en leur pays, un Signe : deux jardins, sur la droite et sur la gauche. « Nourrissez-vous, (leur était-il dit), des biens dispensés par votre Seigneur et soyez-Lui reconnaissants : un pays si heureux et un Seigneur si Absoluteur ! »[417]
+Il y avait, pour le peuple de Saba’, en leur pays, un Signe : deux jardins, sur la droite et sur la gauche. « Nourrissez-vous, (leur était-il dit), des biens dispensés par votre Seigneur et soyez-Lui reconnaissants : un pays si heureux et un Seigneur si Absoluteur ! »[^417]
 
-[417] Le « si » que nous employons par intermittence n’est pas un adverbe intensif (Allah n’a pas besoin d’un intensif), c’est un « si » émotif et lyrique.
+[^417]: Le « si » que nous employons par intermittence n’est pas un adverbe intensif (Allah n’a pas besoin d’un intensif), c’est un « si » émotif et lyrique.
 
 # 3622
 
@@ -15293,9 +15323,9 @@ C’est ainsi que Nous les avons sanctionnés de leur mécréance. Saurions-Nous
 
 # 3624
 
-Entre eux et les cités que Nous avons bénies,[418] Nous établîmes des villes qui se prolongeaient les unes les autres. Nous avons déterminé avec mesure les distances qui les séparaient, (et Nous dîmes) : « Voyagez donc entre elles, de nuit comme de jour, en toute sûreté. »
+Entre eux et les cités que Nous avons bénies,[^418] Nous établîmes des villes qui se prolongeaient les unes les autres. Nous avons déterminé avec mesure les distances qui les séparaient, (et Nous dîmes) : « Voyagez donc entre elles, de nuit comme de jour, en toute sûreté. »
 
-[418] Selon la majorité des exégètes, les villes bénies sont celles du Cham (le Levant).
+[^418]: Selon la majorité des exégètes, les villes bénies sont celles du Cham (le Levant).
 
 # 3625
 
@@ -15371,9 +15401,9 @@ Dis : « Mon Seigneur dispense Ses biens à qui Il veut, avec générosité ou p
 
 # 3643
 
-Vos richesses, pas plus que vos enfants, ne vous rapprocheront de Nous. Seront exceptés ceux qui auront cru et auront fait le bien, ceux-là auront leur récompense décuplée pour ce qu’ils auront fait, et ils seront installés en toute sûreté dans les Sphères Élevées[419] du Paradis.
+Vos richesses, pas plus que vos enfants, ne vous rapprocheront de Nous. Seront exceptés ceux qui auront cru et auront fait le bien, ceux-là auront leur récompense décuplée pour ce qu’ils auront fait, et ils seront installés en toute sûreté dans les Sphères Élevées[^419] du Paradis.
 
-[419] Nous empruntons l’expression à certains domaines terrestres où les plus hauts rangs sociaux, professionnels et politiques sont désignés par la locution : « les hautes sphères, de la cour, de la politique, de la finance... »
+[^419]: Nous empruntons l’expression à certains domaines terrestres où les plus hauts rangs sociaux, professionnels et politiques sont désignés par la locution : « les hautes sphères, de la cour, de la politique, de la finance... »
 
 # 3644
 
@@ -15433,9 +15463,9 @@ Si seulement tu pouvais voir quand, pris de panique, ils n’auront aucune issue
 
 # 3658
 
-Ils diront : « Nous croyons en Lui ! » Mais comment sauraient-ils atteindre une foi d’aussi loin ?[420]
+Ils diront : « Nous croyons en Lui ! » Mais comment sauraient-ils atteindre une foi d’aussi loin ?[^420]
 
-[420] Dans l’espace et dans le temps.
+[^420]: Dans l’espace et dans le temps.
 
 # 3659
 
@@ -15503,9 +15533,9 @@ Si vous leur adressez des prières, ils n’entendent pas vos prières. Et les e
 
 # 3675
 
-Ô hommes ! C’est vous qui êtes les pauvres vis-à-vis d’Allah,[422] et Allah est Celui Qui Se passe de Toutes richesses, le Digne de Toute Louange
+Ô hommes ! C’est vous qui êtes les pauvres vis-à-vis d’Allah,[^422] et Allah est Celui Qui Se passe de Toutes richesses, le Digne de Toute Louange
 
-[422] C’est-à-dire : qui avez besoin d’Allah, Dont vous ne pouvez vous passer.
+[^422]: C’est-à-dire : qui avez besoin d’Allah, Dont vous ne pouvez vous passer.
 
 # 3676
 
@@ -15565,9 +15595,9 @@ Ceux qui récitent le Livre d’Allah, qui accomplissent la Çalât et dépensen
 
 # 3690
 
-afin qu’(Allah) leur attribue leur pleine récompense et leur ajoute de Ses faveurs. Il est Absoluteur et si Reconnaissant ![423]
+afin qu’(Allah) leur attribue leur pleine récompense et leur ajoute de Ses faveurs. Il est Absoluteur et si Reconnaissant ![^423]
 
-[423] Voir la note 417 concernant le verset 15 de la sourate Saba’.
+[^423]: Voir la note 417 concernant le verset 15 de la sourate Saba’.
 
 # 3691
 
@@ -15607,9 +15637,9 @@ C’est Lui Qui a fait de vous des générations qui se succèdent sur terre. Qu
 
 # 3700
 
-Dis : « Voyez-vous ces (divinités) associées que vous invoquez en dehors d’Allah ? Montrez-moi ce qu’elles ont créé de la terre. Ou peut-être ont-elles pris part à la création des cieux ! Ou peut-être encore leur avons-Nous donné un Livre dont ils[424] tirent les preuves évidentes ! Non, les injustes ne se font mutuellement que des promesses trompeuses !
+Dis : « Voyez-vous ces (divinités) associées que vous invoquez en dehors d’Allah ? Montrez-moi ce qu’elles ont créé de la terre. Ou peut-être ont-elles pris part à la création des cieux ! Ou peut-être encore leur avons-Nous donné un Livre dont ils[^424] tirent les preuves évidentes ! Non, les injustes ne se font mutuellement que des promesses trompeuses !
 
-[424] Les mécréants de La Mecque comme l’explique Al-Baghawî.
+[^424]: Les mécréants de La Mecque comme l’explique Al-Baghawî.
 
 # 3701
 
@@ -15677,9 +15707,9 @@ Tu n’avertiras que celui qui aura suivi le Rappel, et craint le Tout Clément 
 
 # 3717
 
-C’est Nous Qui faisons revivre les morts, Qui inscrivons les œuvres qu’ils ont accomplies et celles dont ils ont laissé les traces. Et Nous avons tout recensé dans un Registre évident.[426]
+C’est Nous Qui faisons revivre les morts, Qui inscrivons les œuvres qu’ils ont accomplies et celles dont ils ont laissé les traces. Et Nous avons tout recensé dans un Registre évident.[^426]
 
-[426] La Table Gardée, où tout est enregistré, depuis avant la Création.
+[^426]: La Table Gardée, où tout est enregistré, depuis avant la Création.
 
 # 3718
 
@@ -15787,9 +15817,9 @@ Le soleil poursuit sa course vers un repère qui lui est propre : voilà la dét
 
 # 3744
 
-À la lune Nous avons déterminé des phases[427] jusqu’à ce qu’elle devienne comme une vieille branche d’un régime de dattes.
+À la lune Nous avons déterminé des phases[^427] jusqu’à ce qu’elle devienne comme une vieille branche d’un régime de dattes.
 
-[427] Sur le sens du mot « phase » en astronomie, voir la note 213.
+[^427]: Sur le sens du mot « phase » en astronomie, voir la note 213.
 
 # 3745
 
@@ -15813,9 +15843,9 @@ Sauf par une miséricorde (venant) de Nous, et pour les faire jouir de (ce bas m
 
 # 3750
 
-Lorsqu’il leur est dit : « Craignez ce qu’il y a devant vous et ce qu’il y a derrière vous,[428] peut-être vous sera-t-il fait miséricorde ! » (ils n’y prêtent aucune attention).
+Lorsqu’il leur est dit : « Craignez ce qu’il y a devant vous et ce qu’il y a derrière vous,[^428] peut-être vous sera-t-il fait miséricorde ! » (ils n’y prêtent aucune attention).
 
-[428] Devant vous : le châtiment de l’autre monde ; derrière vous : les malheurs et l’adversité du bas monde.
+[^428]: Devant vous : le châtiment de l’autre monde ; derrière vous : les malheurs et l’adversité du bas monde.
 
 # 3751
 
@@ -15871,9 +15901,9 @@ Ils y auront des fruits et tout ce qu’ils demanderont.
 
 # 3764
 
-(Et aux autres, il sera dit) : « Et vous criminels ! Mettez-vous de côté,[429] aujourd’hui!
+(Et aux autres, il sera dit) : « Et vous criminels ! Mettez-vous de côté,[^429] aujourd’hui!
 
-[429] À distance des croyants, qui auront un tout autre traitement.
+[^429]: À distance des croyants, qui auront un tout autre traitement.
 
 # 3765
 
@@ -15913,10 +15943,11 @@ Celui à qui Nous donnons longue vie, Nous vouons sa création à la décrépitu
 
 # 3774
 
-Nous ne lui (Muhammad) avons jamais enseigné la poésie,[430] et cela ne lui sied point. Ce n’est qu’un Rappel et une Lecture parfaitement claire,[431]
+Nous ne lui (Muhammad) avons jamais enseigné la poésie,[^430] et cela ne lui sied point. Ce n’est qu’un Rappel et une Lecture parfaitement claire,[^431]
 
-[430] Ce verset répond aux accusations des mécréants qui prétendaient, entre autres calomnies, que le Prophète (paix et bénédiction d’Allah sur lui) était poète et que le Coran était une forme de poésie.
-[431] Le Coran.
+[^430]: Ce verset répond aux accusations des mécréants qui prétendaient, entre autres calomnies, que le Prophète (paix et bénédiction d’Allah sur lui) était poète et que le Coran était une forme de poésie.
+
+[^431]: Le Coran.
 
 # 3775
 
@@ -15992,9 +16023,9 @@ Votre Dieu est Un ;
 
 # 3793
 
-le Seigneur des cieux, de la terre, et de ce qu’il y a entre eux, le Seigneur des (divers) orients.[432]
+le Seigneur des cieux, de la terre, et de ce qu’il y a entre eux, le Seigneur des (divers) orients.[^432]
 
-[432] Il n’y a pas un seul orient mais plusieurs. Selon le lieu où l’on se trouve, mais aussi selon les saisons, le soleil se lève à différents endroits.
+[^432]: Il n’y a pas un seul orient mais plusieurs. Selon le lieu où l’on se trouve, mais aussi selon les saisons, le soleil se lève à différents endroits.
 
 # 3794
 
@@ -16006,10 +16037,11 @@ et l’avons soigneusement protégé de tout démon rebelle.
 
 # 3796
 
-Ils[433] ne peuvent écouter l’Assemblée Supérieure,[434] car ils seront assaillis de tous côtés.
+Ils[^433] ne peuvent écouter l’Assemblée Supérieure,[^434] car ils seront assaillis de tous côtés.
 
-[433] Les démons.
-[434] Les Anges.
+[^433]: Les démons.
+
+[^434]: Les Anges.
 
 # 3797
 
@@ -16225,9 +16257,9 @@ Que ceux qui œuvrent, œuvrent donc pour une chose pareille !
 
 # 3850
 
-Cela est-il meilleur accueil, ou l’arbre de Zaqqûm,[435]
+Cela est-il meilleur accueil, ou l’arbre de Zaqqûm,[^435]
 
-[435] Arbre de l’Enfer aux fruits amers.
+[^435]: Arbre de l’Enfer aux fruits amers.
 
 # 3851
 
@@ -16335,9 +16367,9 @@ Il jeta un regard vers les étoiles
 
 # 3877
 
-et dit : « Je me sens malade. »[436]
+et dit : « Je me sens malade. »[^436]
 
-[436] C’était l’excuse trouvée par Abraham pour ne pas assister aux cérémonies païennes de son peuple.
+[^436]: C’était l’excuse trouvée par Abraham pour ne pas assister aux cérémonies païennes de son peuple.
 
 # 3878
 
@@ -16389,9 +16421,9 @@ Alors, Nous lui apprîmes, en heureuse nouvelle, (la venue au monde) d’un gar�
 
 # 3890
 
-Lorsque celui-ci fut en âge de le suivre là où il allait, il lui dit : « Ô mon fils, je me suis vu en songe en train de t’égorger ! Réfléchis un peu et dis-moi ce que tu en penses. » Il[437] répondit : « Père, fais ce qui t’est ordonné, et tu me trouveras, si Allah le veut, de ceux qui savent être patients (à la peine) ! »
+Lorsque celui-ci fut en âge de le suivre là où il allait, il lui dit : « Ô mon fils, je me suis vu en songe en train de t’égorger ! Réfléchis un peu et dis-moi ce que tu en penses. » Il[^437] répondit : « Père, fais ce qui t’est ordonné, et tu me trouveras, si Allah le veut, de ceux qui savent être patients (à la peine) ! »
 
-[437] Son fils, Ismaël.
+[^437]: Son fils, Ismaël.
 
 # 3891
 
@@ -16547,15 +16579,15 @@ Il s’était enfui sur le vaisseau chargé.
 
 # 3929
 
-Désigné par le tirage au sort, il fut du nombre des perdants.[438]
+Désigné par le tirage au sort, il fut du nombre des perdants.[^438]
 
-[438] Le tirage au sort le désigna pour être jeté à la mer afin d’alléger l’embarcation qui était sur le point de couler.
+[^438]: Le tirage au sort le désigna pour être jeté à la mer afin d’alléger l’embarcation qui était sur le point de couler.
 
 # 3930
 
-Le poisson l’avala, lui qui était à blâmer.[439]
+Le poisson l’avala, lui qui était à blâmer.[^439]
 
-[439] Il était à blâmer pour avoir quitté son peuple sans l’autorisation d’Allah.
+[^439]: Il était à blâmer pour avoir quitté son peuple sans l’autorisation d’Allah.
 
 # 3931
 
@@ -16571,9 +16603,9 @@ Nous le fîmes rejeter, malade, sur une terre nue.
 
 # 3934
 
-Nous fîmes pousser au-dessus de lui un plant de courge,[440]
+Nous fîmes pousser au-dessus de lui un plant de courge,[^440]
 
-[440] Pour le protéger.
+[^440]: Pour le protéger.
 
 # 3935
 
@@ -16649,9 +16681,9 @@ hormis celui qui brûlera dans la Fournaise.
 
 # 3953
 
-Nous sommes certes ceux qui se tiennent harmonieusement alignés.[441]
+Nous sommes certes ceux qui se tiennent harmonieusement alignés.[^441]
 
-[441] Le titre de cette sourate est emprunté à ce verset.
+[^441]: Le titre de cette sourate est emprunté à ce verset.
 
 # 3954
 
@@ -16743,9 +16775,9 @@ Fera-t-il des divinités un Dieu Unique ? C’est vraiment chose étrange ! »
 
 # 3976
 
-Leur assemblée des notables s’en furent en disant : « Allez donc et persévérez (dans l’adoration) de vos divinités. Car (vous détourner d’elles) c’est ce qui est voulu.[443]
+Leur assemblée des notables s’en furent en disant : « Allez donc et persévérez (dans l’adoration) de vos divinités. Car (vous détourner d’elles) c’est ce qui est voulu.[^443]
 
-[443] C’est ce que veulent Muhammad (paix et bénédiction d’Allah sur lui) et ses compagnons.
+[^443]: C’est ce que veulent Muhammad (paix et bénédiction d’Allah sur lui) et ses compagnons.
 
 # 3977
 
@@ -16817,9 +16849,9 @@ Mon frère que voici a quatre-vingt-dix-neuf brebis et je n’en ai qu’une seu
 
 # 3994
 
-« Il t’a lésé, dit (David), en t’imposant de joindre ta brebis aux siennes. » Beaucoup d’associés agissent frauduleusement les uns envers les autres, hormis ceux qui ont cru et ont accompli les bonnes œuvres. Or ils sont peu ! David comprit que Nous le mettions à l’épreuve. Il implora donc le pardon de son Seigneur et se jeta à terre, prosterné et repentant.[444]
+« Il t’a lésé, dit (David), en t’imposant de joindre ta brebis aux siennes. » Beaucoup d’associés agissent frauduleusement les uns envers les autres, hormis ceux qui ont cru et ont accompli les bonnes œuvres. Or ils sont peu ! David comprit que Nous le mettions à l’épreuve. Il implora donc le pardon de son Seigneur et se jeta à terre, prosterné et repentant.[^444]
 
-[444] Une prosternation est recommandée après la lecture de ce verset.
+[^444]: Une prosternation est recommandée après la lecture de ce verset.
 
 # 3995
 
@@ -16847,9 +16879,9 @@ Traiterons-Nous ceux qui ont cru et ont accompli les bonnes œuvres tout comme l
 
 # 4001
 
-(Évoque) lorsque, au soir tombant, lui furent présentés d’élégants destriers.[445]
+(Évoque) lorsque, au soir tombant, lui furent présentés d’élégants destriers.[^445]
 
-[445] Ces coursiers sont décrits comme se tenant debout sur trois sabots et touchant à peine le sol du quatrième, signe d’élégance et de vélocité.
+[^445]: Ces coursiers sont décrits comme se tenant debout sur trois sabots et touchant à peine le sol du quatrième, signe d’élégance et de vélocité.
 
 # 4002
 
@@ -16861,9 +16893,9 @@ Qu’on me ramène (ces chevaux). » Et il se mit à les frapper de taille, leur
 
 # 4004
 
-Nous avons aussi éprouvé Salomon en mettant sur son trône un corps.[446] Mais il est ensuite revenu vers Nous, repentant.
+Nous avons aussi éprouvé Salomon en mettant sur son trône un corps.[^446] Mais il est ensuite revenu vers Nous, repentant.
 
-[446] Pour le punir de n’avoir pas dit « S’il Allah le veut » (inch’Allah) après avoir souhaité n’avoir que des enfants mâles, Allah fit que l’une des femmes de Salomon eût un bébé malformé. Mais, pour la plupart des exégètes, il s’agit plutôt du corps d’un démon qui a pris une apparence humaine.
+[^446]: Pour le punir de n’avoir pas dit « S’il Allah le veut » (inch’Allah) après avoir souhaité n’avoir que des enfants mâles, Allah fit que l’une des femmes de Salomon eût un bébé malformé. Mais, pour la plupart des exégètes, il s’agit plutôt du corps d’un démon qui a pris une apparence humaine.
 
 # 4005
 
@@ -16903,9 +16935,9 @@ Nous lui avons rendu sa famille et en avons doublé le nombre, miséricorde de N
 
 # 4014
 
-« Prends donc, (ô Job), un faisceau de brindilles, frappes-en (ta femme) et ne te parjure point ! »[447] Nous l’avons trouvé patient à la peine. Et quel excellent serviteur ! Il aimait tant à se repentir.
+« Prends donc, (ô Job), un faisceau de brindilles, frappes-en (ta femme) et ne te parjure point ! »[^447] Nous l’avons trouvé patient à la peine. Et quel excellent serviteur ! Il aimait tant à se repentir.
 
-[447] Selon Ibn Kathîr, Job avait juré de donner cent coups de fouet à sa femme aussitôt qu’il serait guéri, car elle lui avait désobéi. Ce verset montre bien que, contrairement aux allégations tendancieuses selon lesquelles le Coran incite à battre les femmes, il ne s’agit en vérité que de corrections légères et symboliques, que l’homme utilise d’ailleurs en dernier recours. Allah n’a pas ordonné à Job d’utiliser une matraque pour frapper sa femme mais des brindilles. De plus, certains exégètes rapportent qu’Allah aurait demandé à Job de réunir cent brindilles en un seul faisceau. Job put alors donner un seul coup à sa femme au lieu de cent, et il ne manqua pas à son serment.
+[^447]: Selon Ibn Kathîr, Job avait juré de donner cent coups de fouet à sa femme aussitôt qu’il serait guéri, car elle lui avait désobéi. Ce verset montre bien que, contrairement aux allégations tendancieuses selon lesquelles le Coran incite à battre les femmes, il ne s’agit en vérité que de corrections légères et symboliques, que l’homme utilise d’ailleurs en dernier recours. Allah n’a pas ordonné à Job d’utiliser une matraque pour frapper sa femme mais des brindilles. De plus, certains exégètes rapportent qu’Allah aurait demandé à Job de réunir cent brindilles en un seul faisceau. Job put alors donner un seul coup à sa femme au lieu de cent, et il ne manqua pas à son serment.
 
 # 4015
 
@@ -16993,15 +17025,15 @@ Dis : « Je ne suis là que pour avertir. Il n’y a point d’autre divinité q
 
 # 4036
 
-Le Seigneur des cieux, de la terre et de ce qu’il y a entre eux, le Tout-Puissant, le Très Absoluteur. »[448]
+Le Seigneur des cieux, de la terre et de ce qu’il y a entre eux, le Tout-Puissant, le Très Absoluteur. »[^448]
 
-[448] Voir la note 319.
+[^448]: Voir la note 319.
 
 # 4037
 
-Dis : « Ceci est une très grande nouvelle,[449]
+Dis : « Ceci est une très grande nouvelle,[^449]
 
-[449] Le Coran.
+[^449]: Le Coran.
 
 # 4038
 
@@ -17009,9 +17041,9 @@ dont vous vous détournez.
 
 # 4039
 
-Je n’avais aucune science de l’Assemblée Supérieure[450] quand ils se disputaient (au sujet d’Adam).
+Je n’avais aucune science de l’Assemblée Supérieure[^450] quand ils se disputaient (au sujet d’Adam).
 
-[450] Les Anges.
+[^450]: Les Anges.
 
 # 4040
 
@@ -17107,16 +17139,17 @@ Si Allah avait voulu Se donner un enfant, Il aurait choisi qui Il veut parmi Ses
 
 # 4063
 
-Il a créé les cieux et la terre par la vérité. Il fait s’enrouler la nuit sur le jour et Il fait s’enrouler le jour sur la nuit.[451] Et Il a soumis le soleil et la lune, qui poursuivent respectivement leur course vers un terme déjà nommé. C’est bien Lui le Tout-Puissant, le Très Absoluteur.[452]
+Il a créé les cieux et la terre par la vérité. Il fait s’enrouler la nuit sur le jour et Il fait s’enrouler le jour sur la nuit.[^451] Et Il a soumis le soleil et la lune, qui poursuivent respectivement leur course vers un terme déjà nommé. C’est bien Lui le Tout-Puissant, le Très Absoluteur.[^452]
 
-[451] Allusion manifeste au principe giratoire de tout le système cosmique. La terre tourne sur elle-même (d’où le jour et la nuit) et tourne autour du soleil (d’où les différentes saisons). Par ailleurs, toutes les révolutions et les phases planétaires se font selon un mouvement de rotation généralisée (et de gravitation), en suivant des orbites précises. 
-[452] Voir la note 319.
+[^451]: Allusion manifeste au principe giratoire de tout le système cosmique. La terre tourne sur elle-même (d’où le jour et la nuit) et tourne autour du soleil (d’où les différentes saisons). Par ailleurs, toutes les révolutions et les phases planétaires se font selon un mouvement de rotation généralisée (et de gravitation), en suivant des orbites précises.
+
+[^452]: Voir la note 319.
 
 # 4064
 
-Il vous a créés d’un seul être, puis a tiré de celui-ci sa propre compagne. Il a fait descendre pour vous huit catégories de bestiaux en couples. Il vous crée dans les ventres de vos mères, en vous faisant passer de création en création, dans trois sortes de ténèbres.[453] Tel est Allah, votre Seigneur, à Qui appartient la royauté. Il n’y a point d’autre divinité que Lui. Comment pouvez-vous donc vous détourner de Lui ?
+Il vous a créés d’un seul être, puis a tiré de celui-ci sa propre compagne. Il a fait descendre pour vous huit catégories de bestiaux en couples. Il vous crée dans les ventres de vos mères, en vous faisant passer de création en création, dans trois sortes de ténèbres.[^453] Tel est Allah, votre Seigneur, à Qui appartient la royauté. Il n’y a point d’autre divinité que Lui. Comment pouvez-vous donc vous détourner de Lui ?
 
-[453] Autre miracle scientifique du Coran : ces « trois ténèbres » sont l’expression métaphorique désignant les trois poches « obscures » où l’embryon humain se développe pendant les neuf mois précédant l’accouchement : le ventre, la matrice et le placenta.
+[^453]: Autre miracle scientifique du Coran : ces « trois ténèbres » sont l’expression métaphorique désignant les trois poches « obscures » où l’embryon humain se développe pendant les neuf mois précédant l’accouchement : le ventre, la matrice et le placenta.
 
 # 4065
 
@@ -17296,9 +17329,9 @@ C’est ce que disaient ceux qui les ont précédés. Or ce qu’ils avaient acq
 
 # 4109
 
-Ils furent frappés par (les conséquences) de ce qu’ils ont commis de mauvais, et les injustes parmi ceux-là[454] seront (également) frappés par (les conséquences) de ce qu’ils auront commis de mauvais. Et ils ne pourront mettre au défi la puissance (d’Allah).
+Ils furent frappés par (les conséquences) de ce qu’ils ont commis de mauvais, et les injustes parmi ceux-là[^454] seront (également) frappés par (les conséquences) de ce qu’ils auront commis de mauvais. Et ils ne pourront mettre au défi la puissance (d’Allah).
 
-[454] Les mécréants qui étaient les contemporains du Prophète (paix et bénédiction d’Allah sur lui).
+[^454]: Les mécréants qui étaient les contemporains du Prophète (paix et bénédiction d’Allah sur lui).
 
 # 4110
 
@@ -17378,9 +17411,9 @@ Chaque âme sera pleinement rétribuée selon ce qu’elle faisait, et Lui est l
 
 # 4129
 
-Ceux qui ont mécru seront menés vers la Géhenne par groupes.[455] Quand ils y seront arrivés, ses portes s’ouvriront et ses gardiens leur diront : « Des Messagers issus de vous-mêmes ne sont-ils pas venus vous réciter les versets de votre Seigneur, et vous avertir de la rencontre de ce Jour-ci qui est le vôtre ? » Ils répondront alors : « Que si ! Mais le verdict du supplice s’est justifié pour les mécréants. »
+Ceux qui ont mécru seront menés vers la Géhenne par groupes.[^455] Quand ils y seront arrivés, ses portes s’ouvriront et ses gardiens leur diront : « Des Messagers issus de vous-mêmes ne sont-ils pas venus vous réciter les versets de votre Seigneur, et vous avertir de la rencontre de ce Jour-ci qui est le vôtre ? » Ils répondront alors : « Que si ! Mais le verdict du supplice s’est justifié pour les mécréants. »
 
-[455] Le titre de cette sourate est emprunté à ce verset et aux deux versets suivants.
+[^455]: Le titre de cette sourate est emprunté à ce verset et aux deux versets suivants.
 
 # 4130
 
@@ -17392,9 +17425,9 @@ Ceux qui auront craint pieusement leur Seigneur (quant à eux) seront menés par
 
 # 4132
 
-Ils diront alors : « Louange à Allah Qui a tenu Sa promesse envers nous et Qui nous a faits les héritiers de cette terre[456] au Paradis afin que nous puissions élire domicile où bon nous semble. » Quelle magnifique récompense pour ceux qui ont bien agi !
+Ils diront alors : « Louange à Allah Qui a tenu Sa promesse envers nous et Qui nous a faits les héritiers de cette terre[^456] au Paradis afin que nous puissions élire domicile où bon nous semble. » Quelle magnifique récompense pour ceux qui ont bien agi !
 
-[456] Nous avons employé le démonstratif « cette » parce qu’il ne s’agit pas de la terre du bas monde mais de celle du Paradis.
+[^456]: Nous avons employé le démonstratif « cette » parce qu’il ne s’agit pas de la terre du bas monde mais de celle du Paradis.
 
 # 4133
 
@@ -17410,9 +17443,9 @@ La révélation du Livre émane d’Allah, le Tout-Puissant, l’Omniscient,
 
 # 4136
 
-Celui Qui Pardonne[457] les péchés, accepte le repentir, a dure la punition et détient toutes les largesses. Il n’y a point d’autre divinité que Lui, et c’est vers Lui qu’est le devenir.
+Celui Qui Pardonne[^457] les péchés, accepte le repentir, a dure la punition et détient toutes les largesses. Il n’y a point d’autre divinité que Lui, et c’est vers Lui qu’est le devenir.
 
-[457] C’est ce verset qui donne son titre à la sourate. Cette traduction a le mérite de distinguer trois dérivés du trilitère arabe « ghafara » غفر, tous les trois employés dans le Coran :غفور, que nous traduisons par « Absoluteur », غفّار, que nous traduisons par « Très Absoluteur », et غافر, par « Celui Qui Pardonne ». Et nous destinons l’expression « Tout Absoluteur » à la traduction de التوّاب. Voir aussi la note 22.
+[^457]: C’est ce verset qui donne son titre à la sourate. Cette traduction a le mérite de distinguer trois dérivés du trilitère arabe « ghafara » غفر, tous les trois employés dans le Coran :غفور, que nous traduisons par « Absoluteur », غفّار, que nous traduisons par « Très Absoluteur », et غافر, par « Celui Qui Pardonne ». Et nous destinons l’expression « Tout Absoluteur » à la traduction de التوّاب. Voir aussi la note 22.
 
 # 4137
 
@@ -17452,9 +17485,9 @@ Veuille les préserver (des conséquences) de leurs méfaits, car celui que Tu p
 
 # 4146
 
-C’est Lui Qui vous montre Ses Signes et fait descendre pour vous, du ciel, un bienfait.[458] Seul s’en souvient celui qui revient (à Allah), repentant.
+C’est Lui Qui vous montre Ses Signes et fait descendre pour vous, du ciel, un bienfait.[^458] Seul s’en souvient celui qui revient (à Allah), repentant.
 
-[458] Le mot renvoie ici à la pluie d’après Ibn Kathîr et Al-Muyassar.
+[^458]: Le mot renvoie ici à la pluie d’après Ibn Kathîr et Al-Muyassar.
 
 # 4147
 
@@ -17474,9 +17507,9 @@ Ce jour-là, chaque âme sera récompensée selon ce qu’elle aura acquis. Null
 
 # 4151
 
-Avertis-les du jour tout proche, lorsque les cœurs noueront les gorges d’angoisse. Les injustes n’auront alors ni ami chaleureux ni intercesseur crédible.[459]
+Avertis-les du jour tout proche, lorsque les cœurs noueront les gorges d’angoisse. Les injustes n’auront alors ni ami chaleureux ni intercesseur crédible.[^459]
 
-[459] Littéralement : qui est obéi (en raison de son intercession).
+[^459]: Littéralement : qui est obéi (en raison de son intercession).
 
 # 4152
 
@@ -17532,9 +17565,9 @@ Le croyant reprit : « Ô peuple mien, je crains pour vous un jour pareil à cel
 
 # 4165
 
-Ô peuple mien, je crains pour vous le jour de l’Appel Réciproque,[460]
+Ô peuple mien, je crains pour vous le jour de l’Appel Réciproque,[^460]
 
-[460] Le Jour du Jugement, les hommes s’interpelleront et s’interrogeront mutuellement.
+[^460]: Le Jour du Jugement, les hommes s’interpelleront et s’interrogeront mutuellement.
 
 # 4166
 
@@ -17586,9 +17619,9 @@ Vous vous souviendrez (un jour) de ce que je vous dis, et je m’en remets à Al
 
 # 4178
 
-Allah le[461] protégea donc du mal de leurs intrigues, et le plus dur des supplices cerna de toutes parts le peuple de Pharaon.
+Allah le[^461] protégea donc du mal de leurs intrigues, et le plus dur des supplices cerna de toutes parts le peuple de Pharaon.
 
-[461] Il protégea le croyant de la famille de Pharaon mentionné au verset 28 et suivants.
+[^461]: Il protégea le croyant de la famille de Pharaon mentionné au verset 28 et suivants.
 
 # 4179
 
@@ -17596,15 +17629,15 @@ Allah le[461] protégea donc du mal de leurs intrigues, et le plus dur des suppl
 
 # 4180
 
-Lorsqu’ils se disputeront au sein même du Feu, les plus faibles diront à ceux qui étaient arrogants : « Nous vous suivions pourtant ! Ne pourriez-vous nous épargner une part de cet Enfer ? »[462]
+Lorsqu’ils se disputeront au sein même du Feu, les plus faibles diront à ceux qui étaient arrogants : « Nous vous suivions pourtant ! Ne pourriez-vous nous épargner une part de cet Enfer ? »[^462]
 
-[462] Littéralement : de ce Feu.
+[^462]: Littéralement : de ce Feu.
 
 # 4181
 
-Ceux qui étaient arrogants leur diront alors : « Et voilà que nous y sommes tous.[463] Allah a déjà jugé entre Ses serviteurs. »
+Ceux qui étaient arrogants leur diront alors : « Et voilà que nous y sommes tous.[^463] Allah a déjà jugé entre Ses serviteurs. »
 
-[463] Nous voilà tous (dans le Feu).
+[^463]: Nous voilà tous (dans le Feu).
 
 # 4182
 
@@ -17764,9 +17797,9 @@ Voici une révélation émanant du Tout Clément, du Tout Miséricordieux,
 
 # 4221
 
-un Livre aux versets détaillés,[464] un Coran arabe pour des gens qui savent,
+un Livre aux versets détaillés,[^464] un Coran arabe pour des gens qui savent,
 
-[464] Le titre de cette sourate est emprunté à ce verset.
+[^464]: Le titre de cette sourate est emprunté à ce verset.
 
 # 4222
 
@@ -17794,9 +17827,9 @@ Dis : « Mécroirez-vous en Celui Qui a créé la terre en deux jours? Lui prêt
 
 # 4228
 
-C’est Lui Qui a placé sur elle des montagnes (fermement implantées) et l’a bénie. (Et c’est Lui Qui) a déterminé la subsistance (de Ses créatures) en juste quatre jours, (en réponse) à ceux qui questionnent (à ce sujet).[465]
+C’est Lui Qui a placé sur elle des montagnes (fermement implantées) et l’a bénie. (Et c’est Lui Qui) a déterminé la subsistance (de Ses créatures) en juste quatre jours, (en réponse) à ceux qui questionnent (à ce sujet).[^465]
 
-[465] Cette traduction reprend l’interprétation d’Ibn Kathîr. D’autres exégètes interprètent ce segment de verset en lui donnant le sens que voici : « pour ceux qui sont dans le besoin. » L’ambiguïté se justifie par le double sens du mot arabe سائلين.
+[^465]: Cette traduction reprend l’interprétation d’Ibn Kathîr. D’autres exégètes interprètent ce segment de verset en lui donnant le sens que voici : « pour ceux qui sont dans le besoin. » L’ambiguïté se justifie par le double sens du mot arabe سائلين.
 
 # 4229
 
@@ -17908,10 +17941,11 @@ Parmi Ses Signes, il y a la nuit et le jour, le soleil et la lune. Mais ne vous 
 
 # 4256
 
-Si, pleins de dédain, (les mécréants refusent de se prosterner), ceux qui sont auprès d’Allah[466] Lui rendent gloire nuit et jour et sans se lasser jamais. [467]
+Si, pleins de dédain, (les mécréants refusent de se prosterner), ceux qui sont auprès d’Allah[^466] Lui rendent gloire nuit et jour et sans se lasser jamais. [^467]
 
-[466] Les Anges.
-[467] Une prosternation est recommandée après la lecture de ce verset.
+[^466]: Les Anges.
+
+[^467]: Une prosternation est recommandée après la lecture de ce verset.
 
 # 4257
 
@@ -17971,9 +18005,9 @@ Dis : « Avez-vous considéré que si (ce Coran) provient vraiment d’Allah, et
 
 # 4271
 
-Nous leur ferons voir Nos Signes en tous pays et en eux-mêmes, jusqu’à ce qu’ils sachent, de toute évidence, que ceci[468] est la vérité même. Ne suffit-il pas que ton Seigneur soit témoin de Toute chose ?
+Nous leur ferons voir Nos Signes en tous pays et en eux-mêmes, jusqu’à ce qu’ils sachent, de toute évidence, que ceci[^468] est la vérité même. Ne suffit-il pas que ton Seigneur soit témoin de Toute chose ?
 
-[468] Le Coran.
+[^468]: Le Coran.
 
 # 4272
 
@@ -18005,9 +18039,9 @@ Les cieux manquent de se fendre depuis leur voûte, lorsque les Anges Lui renden
 
 # 4279
 
-Ainsi t’avons-Nous révélé un Coran (en langue) arabe pour que tu avertisses la Mère des cités[469] et ceux qui l’entourent ; et pour prévenir du Jour du Rassemblement à propos duquel il n’y a nul doute. Il y aura alors un groupe au Paradis, et un (autre) groupe dans la Fournaise.
+Ainsi t’avons-Nous révélé un Coran (en langue) arabe pour que tu avertisses la Mère des cités[^469] et ceux qui l’entourent ; et pour prévenir du Jour du Rassemblement à propos duquel il n’y a nul doute. Il y aura alors un groupe au Paradis, et un (autre) groupe dans la Fournaise.
 
-[469] La Mecque.
+[^469]: La Mecque.
 
 # 4280
 
@@ -18031,9 +18065,9 @@ Il détient les clefs des cieux et de la terre, et dispense Ses bienfaits à qui
 
 # 4285
 
-Il a prescrit pour vous, dans la religion, ce qu’Il a prescrit à Noé et ce que Nous t’avons révélé.[470] C’est ce que Nous avons aussi prescrit à Abraham, à Moïse et à Jésus : « Observez la religion, et qu’elle ne vous soit pas un prétexte de scission. » Ce à quoi tu invites les associâtres leur est lourd à porter. Allah choisit ceux qu’Il veut pour faire d’eux Ses préférés, et Il guide vers Lui quiconque se repent.
+Il a prescrit pour vous, dans la religion, ce qu’Il a prescrit à Noé et ce que Nous t’avons révélé.[^470] C’est ce que Nous avons aussi prescrit à Abraham, à Moïse et à Jésus : « Observez la religion, et qu’elle ne vous soit pas un prétexte de scission. » Ce à quoi tu invites les associâtres leur est lourd à porter. Allah choisit ceux qu’Il veut pour faire d’eux Ses préférés, et Il guide vers Lui quiconque se repent.
 
-[470] Le passage de « Il » à « Nous » est caractéristique du style coranique quand il s’agit de renvoyer au Créateur. Cela donne l’impression que le Coran est dit à la première personne (c’est bien là la parole d’Allah), mais le Créateur Lui-même renvoie à Sa propre Entité par la troisième personne. Les discours direct et indirect libre s’enchevêtrent dans une parole polyphonique et totale, où se manifeste parfaitement la présence absolue d’Allah, Dont la Parole assume toutes les personnes de communication (Je, Tu ,Il, Nous...) et transcende toutes les créatures.
+[^470]: Le passage de « Il » à « Nous » est caractéristique du style coranique quand il s’agit de renvoyer au Créateur. Cela donne l’impression que le Coran est dit à la première personne (c’est bien là la parole d’Allah), mais le Créateur Lui-même renvoie à Sa propre Entité par la troisième personne. Les discours direct et indirect libre s’enchevêtrent dans une parole polyphonique et totale, où se manifeste parfaitement la présence absolue d’Allah, Dont la Parole assume toutes les personnes de communication (Je, Tu ,Il, Nous...) et transcende toutes les créatures.
 
 # 4286
 
@@ -18061,9 +18095,9 @@ Allah est Subtil envers Ses serviteurs. Il dispense Ses bienfaits à qui Il veut
 
 # 4292
 
-Quiconque veut récolter[471] (la moisson) de l’autre monde, Nous accroîtrons pour lui sa récolte ; et quiconque veut récolter (la moisson) de ce bas monde, Nous lui donnerons (de ce qu’il désire), mais il n’aura (droit à) aucune part de l’autre monde.
+Quiconque veut récolter[^471] (la moisson) de l’autre monde, Nous accroîtrons pour lui sa récolte ; et quiconque veut récolter (la moisson) de ce bas monde, Nous lui donnerons (de ce qu’il désire), mais il n’aura (droit à) aucune part de l’autre monde.
 
-[471] Littéralement : labourer.
+[^471]: Littéralement : labourer.
 
 # 4293
 
@@ -18127,9 +18161,9 @@ Ou bien (s’Il le voulait), Il ferait couler (ces vaisseaux) en punition de ce 
 
 # 4308
 
-Rien ne vous a été donné qui ne soit jouissance éphémère de ce bas monde. Ce qu’il y a auprès d’Allah est bien meilleur et plus durable pour ceux qui ont cru[472] et qui s’en remettent à leur Seigneur,
+Rien ne vous a été donné qui ne soit jouissance éphémère de ce bas monde. Ce qu’il y a auprès d’Allah est bien meilleur et plus durable pour ceux qui ont cru[^472] et qui s’en remettent à leur Seigneur,
 
-[472] Nous employons souvent le temps composé pour les verbes « croire », « mécroire » « accomplir » comme ils sont employés dans le texte coranique. Cette forme ne renvoie pas à l’époque passée, il s’agit d’un présent accompli. Le contraste des deux formes employées dans le texte coranique : آمنوا vs يتوكّلون impose, nous semble-t-il que l’on conserve dans la traduction cette alternance : passé composé /présent.
+[^472]: Nous employons souvent le temps composé pour les verbes « croire », « mécroire » « accomplir » comme ils sont employés dans le texte coranique. Cette forme ne renvoie pas à l’époque passée, il s’agit d’un présent accompli. Le contraste des deux formes employées dans le texte coranique : آمنوا vs يتوكّلون impose, nous semble-t-il que l’on conserve dans la traduction cette alternance : passé composé /présent.
 
 # 4309
 
@@ -18189,9 +18223,9 @@ ou mêle à la fois garçons et filles ; et Il fait stérile qui Il veut : Il es
 
 # 4323
 
-Un humain ne peut espérer qu’Allah lui parle si ce n’est par révélation, de derrière un voile ou par l’envoi d’un émissaire[473] qui révèle, par Sa permission, ce que Lui veut. Il est certes Très Haut et Sage.
+Un humain ne peut espérer qu’Allah lui parle si ce n’est par révélation, de derrière un voile ou par l’envoi d’un émissaire[^473] qui révèle, par Sa permission, ce que Lui veut. Il est certes Très Haut et Sage.
 
-[473] Un Ange.
+[^473]: Un Ange.
 
 # 4324
 
@@ -18215,9 +18249,9 @@ Nous en avons fait un Coran en arabe, afin que vous (le) compreniez.
 
 # 4329
 
-Il est, certes, auprès de Nous, dans le Livre Matriciel,[474] bien haut et plein de sagesse.
+Il est, certes, auprès de Nous, dans le Livre Matriciel,[^474] bien haut et plein de sagesse.
 
-[474] Littéralement : le Livre-Mère (la Table Gardée).
+[^474]: Littéralement : le Livre-Mère (la Table Gardée).
 
 # 4330
 
@@ -18261,9 +18295,9 @@ Et c’est certes vers notre Seigneur que nous retournerons. »
 
 # 4340
 
-Ils Lui ont attribué une partie de Ses serviteurs.[475] L’homme est d’une ingratitude manifeste.
+Ils Lui ont attribué une partie de Ses serviteurs.[^475] L’homme est d’une ingratitude manifeste.
 
-[475] Le verset fait allusion à la croyance des associâtres selon laquelle les Anges sont les filles d’Allah (exalté soit-Il).
+[^475]: Le verset fait allusion à la croyance des associâtres selon laquelle les Anges sont les filles d’Allah (exalté soit-Il).
 
 # 4341
 
@@ -18283,9 +18317,9 @@ Ils ont fait des Anges, qui sont des serviteurs du Tout Clément, des (êtres) d
 
 # 4345
 
-Ils disent : « Si le Tout Clément avait voulu, nous ne les aurions jamais adorées. »[476] En vérité, ils n’en ont aucune connaissance, ils ne font que supposer.
+Ils disent : « Si le Tout Clément avait voulu, nous ne les aurions jamais adorées. »[^476] En vérité, ils n’en ont aucune connaissance, ils ne font que supposer.
 
-[476] Il s’agit des fausses divinités.
+[^476]: Il s’agit des fausses divinités.
 
 # 4346
 
@@ -18321,9 +18355,9 @@ Il fit que cette parole fût perpétuée par ses descendants dans l’espoir de 
 
 # 4354
 
-Or J’ai accordé à ceux-là,[477] et à leurs ancêtres, la jouissance (des biens de ce bas monde), jusqu’au jour où vinrent à eux la vérité et un Messager explicite.
+Or J’ai accordé à ceux-là,[^477] et à leurs ancêtres, la jouissance (des biens de ce bas monde), jusqu’au jour où vinrent à eux la vérité et un Messager explicite.
 
-[477] Ce pronom renvoie aux mécréants contemporains du Prophète, (paix et bénédiction d’Allah sur lui).
+[^477]: Ce pronom renvoie aux mécréants contemporains du Prophète, (paix et bénédiction d’Allah sur lui).
 
 # 4355
 
@@ -18331,9 +18365,9 @@ Mais lorsque la vérité leur fut parvenue, ils dirent : « C’est de la (pure)
 
 # 4356
 
-« Mais pourquoi, s’étonnèrent-ils, ce Coran n’est-il pas descendu (en révélation) sur un notable de l’une des deux cités ? »[478]
+« Mais pourquoi, s’étonnèrent-ils, ce Coran n’est-il pas descendu (en révélation) sur un notable de l’une des deux cités ? »[^478]
 
-[478] La Mecque et At-Ta’ïf.
+[^478]: La Mecque et At-Ta’ïf.
 
 # 4357
 
@@ -18349,9 +18383,9 @@ Si ce n’était pour éviter que tous les hommes ne se réunissent en une seule
 
 # 4360
 
-(et y aurions prévu) des ornements.[479] Mais cela n’est que jouissance de la vie en ce bas monde, alors que l’autre monde, auprès de ton Seigneur, est destiné aux gens pieux.
+(et y aurions prévu) des ornements.[^479] Mais cela n’est que jouissance de la vie en ce bas monde, alors que l’autre monde, auprès de ton Seigneur, est destiné aux gens pieux.
 
-[479] C’est cette expression qui donne son titre à cette sourate.
+[^479]: C’est cette expression qui donne son titre à cette sourate.
 
 # 4361
 
@@ -18363,9 +18397,9 @@ Ils (les démons) les repoussent loin du (droit) chemin et eux (les hommes) s’
 
 # 4363
 
-Viendra alors le jour où (tel homme), comparaîtra devant Nous et dira (à son compagnon démoniaque) : « Plût à (Allah) qu’il y eût entre toi et moi la distance séparant le Levant du Couchant ![480] Quel horrible compagnon tu fais ! »
+Viendra alors le jour où (tel homme), comparaîtra devant Nous et dira (à son compagnon démoniaque) : « Plût à (Allah) qu’il y eût entre toi et moi la distance séparant le Levant du Couchant ![^480] Quel horrible compagnon tu fais ! »
 
-[480] Le Coran emploie littéralement: « les deux Orients ».
+[^480]: Le Coran emploie littéralement: « les deux Orients ».
 
 # 4364
 
@@ -18437,9 +18471,9 @@ Irrité de leur comportement, Nous tirâmes vengeance d’eux et les noyâmes to
 
 # 4381
 
-Nous en fîmes un précédent et un exemple pour les autres (générations).[481]
+Nous en fîmes un précédent et un exemple pour les autres (générations).[^481]
 
-[481] Les générations futures.
+[^481]: Les générations futures.
 
 # 4382
 
@@ -18451,9 +18485,9 @@ en disant : « Qui de nos divinités ou de lui est meilleur ? » Mais ce n’est
 
 # 4384
 
-Il[482] n’est qu’un serviteur que Nous avons comblé de nos faveurs, et dont Nous avons fait un Signe pour les Enfants d’Israël.
+Il[^482] n’est qu’un serviteur que Nous avons comblé de nos faveurs, et dont Nous avons fait un Signe pour les Enfants d’Israël.
 
-[482] Jésus, fils de Marie.
+[^482]: Jésus, fils de Marie.
 
 # 4385
 
@@ -18469,9 +18503,9 @@ Que Satan ne vous repousse pas (loin de la foi), il est pour vous un ennemi mani
 
 # 4388
 
-Apportant avec lui les preuves évidentes, Jésus dit : « Je suis venu vers vous, muni de la sagesse, pour vous rendre claire une partie de vos différends. Craignez donc Allah et soyez envers moi obéissants. »[483]
+Apportant avec lui les preuves évidentes, Jésus dit : « Je suis venu vers vous, muni de la sagesse, pour vous rendre claire une partie de vos différends. Craignez donc Allah et soyez envers moi obéissants. »[^483]
 
-[483] Littéralement : obéissez-moi.
+[^483]: Littéralement : obéissez-moi.
 
 # 4389
 
@@ -18495,9 +18529,9 @@ Les amis seront, en ce jour, ennemis les uns des autres, à l’exception des ge
 
 # 4394
 
-vous qui avez cru en Nos Signes et étiez Musulmans,[484]
+vous qui avez cru en Nos Signes et étiez Musulmans,[^484]
 
-[484] Changement de personne grammaticale, passage de « vous » à « ils », mais il est renvoyé aux mêmes individus : les croyants qu’Allah vient de rassurer au verset précédent.
+[^484]: Changement de personne grammaticale, passage de « vous » à « ils », mais il est renvoyé aux mêmes individus : les croyants qu’Allah vient de rassurer au verset précédent.
 
 # 4395
 
@@ -18529,9 +18563,9 @@ Nous n’avons point été envers eux injustes mais ils étaient eux les injuste
 
 # 4402
 
-« Ô Mâlik,[485] s’écrieront-ils, que ton Seigneur nous anéantisse ! » Il répondra : « Vous y êtes pour toujours ! »
+« Ô Mâlik,[^485] s’écrieront-ils, que ton Seigneur nous anéantisse ! » Il répondra : « Vous y êtes pour toujours ! »
 
-[485] Nom du gardien de l’Enfer.
+[^485]: Nom du gardien de l’Enfer.
 
 # 4403
 
@@ -18591,15 +18625,15 @@ Par le Livre explicite !
 
 # 4417
 
-Nous l’avons fait descendre (en révélation) par une nuit bénie,[486] et Nous Nous devions d’avertir.
+Nous l’avons fait descendre (en révélation) par une nuit bénie,[^486] et Nous Nous devions d’avertir.
 
-[486] La Nuit du Destin.
+[^486]: La Nuit du Destin.
 
 # 4418
 
-(En cette nuit) est arrêtée toute décision.[487]
+(En cette nuit) est arrêtée toute décision.[^487]
 
-[487] L’épithète « hakîm » حكيم veut dire ici, d’après Ibn Kathîr, « tout ordre formel, qui ne peut être remplacé ou modifié par un autre », d’où notre traduction par le participe « arrêtée ».
+[^487]: L’épithète « hakîm » حكيم veut dire ici, d’après Ibn Kathîr, « tout ordre formel, qui ne peut être remplacé ou modifié par un autre », d’où notre traduction par le participe « arrêtée ».
 
 # 4419
 
@@ -18651,15 +18685,15 @@ Le jour où Nous sévirons de Notre plus grande colère, Nous aurons tiré venge
 
 # 4431
 
-Nous avons éprouvé avant eux le peuple de Pharaon, alors que leur était déjà venu un digne Messager.[488]
+Nous avons éprouvé avant eux le peuple de Pharaon, alors que leur était déjà venu un digne Messager.[^488]
 
-[488] Il s’agit de Moïse.
+[^488]: Il s’agit de Moïse.
 
 # 4432
 
-« Laissez-moi prendre (avec moi) les serviteurs d’Allah,[489] je suis pour vous un Messager fiable.
+« Laissez-moi prendre (avec moi) les serviteurs d’Allah,[^489] je suis pour vous un Messager fiable.
 
-[489] Les Enfants d’Israël qui étaient alors persécutés en Egypte et réduits en esclavage.
+[^489]: Les Enfants d’Israël qui étaient alors persécutés en Egypte et réduits en esclavage.
 
 # 4433
 
@@ -18723,9 +18757,9 @@ Nous avons produit devant eux des prodiges qui devaient leur être des épreuves
 
 # 4448
 
-Ceux-là[490] disent :
+Ceux-là[^490] disent :
 
-[490] Les mécréants contemporains du Prophète (paix et bénédiction d’Allah sur lui).
+[^490]: Les mécréants contemporains du Prophète (paix et bénédiction d’Allah sur lui).
 
 # 4449
 
@@ -18737,9 +18771,9 @@ Faites donc revenir nos ancêtres, si ce que vous dites est vrai ! »
 
 # 4451
 
-Sont-ils meilleurs que le peuple de Tubba‘ [491] et les (générations) d’avant ? Nous les avons fait périr, car ils étaient coupables.
+Sont-ils meilleurs que le peuple de Tubba‘ [^491] et les (générations) d’avant ? Nous les avons fait périr, car ils étaient coupables.
 
-[491] Il s’agit du peuple de Saba’, d’après Ibn Kathîr.
+[^491]: Il s’agit du peuple de Saba’, d’après Ibn Kathîr.
 
 # 4452
 
@@ -18763,9 +18797,9 @@ hormis ceux à qui Allah fera miséricorde, Lui le Tout-Puissant, le Tout Misér
 
 # 4457
 
-L’arbre de Zaqqûm[492]
+L’arbre de Zaqqûm[^492]
 
-[492] Voir la note 435.
+[^492]: Voir la note 435.
 
 # 4458
 
@@ -18789,9 +18823,9 @@ Puis, comme supplice, versez sur sa tête de l’eau bouillante ! »
 
 # 4463
 
-(Puis il sera dit) : « Goûte donc cela, toi (qui te disais) puissant et digne ![493]
+(Puis il sera dit) : « Goûte donc cela, toi (qui te disais) puissant et digne ![^493]
 
-[493] Les propos sont ici ironiques.
+[^493]: Les propos sont ici ironiques.
 
 # 4464
 
@@ -18799,9 +18833,9 @@ Voilà (les tourments) vous que mettiez en doute ! »
 
 # 4465
 
-Les gens pieux, quant à eux, seront en sécurité (dans un lieu amène).[494]
+Les gens pieux, quant à eux, seront en sécurité (dans un lieu amène).[^494]
 
-[494] Cet adjectif, qui signifie à la fois « agréable », « bienveillant » « paisible et sûr », a l’avantage d’être phonétiquement proche du mot arabe : أمين.
+[^494]: Cet adjectif, qui signifie à la fois « agréable », « bienveillant » « paisible et sûr », a l’avantage d’être phonétiquement proche du mot arabe : أمين.
 
 # 4466
 
@@ -18821,9 +18855,9 @@ Ils y demanderont des fruits de toutes sortes et y seront en sécurité.
 
 # 4470
 
-Ils n’y goûteront plus la mort après[495] leur première mort. Et (Allah) les préservera du supplice du Brasier,
+Ils n’y goûteront plus la mort après[^495] leur première mort. Et (Allah) les préservera du supplice du Brasier,
 
-[495] C’est l’interprétation que l’on trouve dans Al-Muyassar.
+[^495]: C’est l’interprétation que l’on trouve dans Al-Muyassar.
 
 # 4471
 
@@ -18831,9 +18865,9 @@ faveur de ton Seigneur. Tel est le succès suprême !
 
 # 4472
 
-Si Nous l’avons[496] rendu si accessible en ta propre langue, c’est pour qu’ils s’en souviennent.
+Si Nous l’avons[^496] rendu si accessible en ta propre langue, c’est pour qu’ils s’en souviennent.
 
-[496] C’est du Coran qu’il s’agit.
+[^496]: C’est du Coran qu’il s’agit.
 
 # 4473
 
@@ -18857,15 +18891,15 @@ Dans votre création (même) et dans ce qu’Il dispense comme (espèces d’) a
 
 # 4478
 
-L’alternance de la nuit et du jour, le bienfait[497] qu’Allah envoie du ciel pour faire revivre la terre déjà morte, la répartition des vents, sont autant de Signes pour des gens qui savent raisonner.
+L’alternance de la nuit et du jour, le bienfait[^497] qu’Allah envoie du ciel pour faire revivre la terre déjà morte, la répartition des vents, sont autant de Signes pour des gens qui savent raisonner.
 
-[497] Il s’agit ici de la pluie selon les exégètes.
+[^497]: Il s’agit ici de la pluie selon les exégètes.
 
 # 4479
 
-Ce sont là les versets[498] d’Allah que Nous te récitons en toute vérité. En quelle parole, après celle d’Allah et (après) Ses versets, vont-ils désormais croire ?
+Ce sont là les versets[^498] d’Allah que Nous te récitons en toute vérité. En quelle parole, après celle d’Allah et (après) Ses versets, vont-ils désormais croire ?
 
-[498] Le mot « âya » dans le texte coranique signifie la plupart du temps « Signe, prodige, miracle ». Mais il arrive qu’il signifie « verset ». C’est ici le cas, comme en témoigne le verbe « réciter » qui suit. Cela correspond d’ailleurs à l’exégèse d’Ibn Kathîr.
+[^498]: Le mot « âya » dans le texte coranique signifie la plupart du temps « Signe, prodige, miracle ». Mais il arrive qu’il signifie « verset ». C’est ici le cas, comme en témoigne le verbe « réciter » qui suit. Cela correspond d’ailleurs à l’exégèse d’Ibn Kathîr.
 
 # 4480
 
@@ -18897,9 +18931,9 @@ Et Il a soumis pour vous tout ce qu’il y a dans les cieux et sur terre, car to
 
 # 4487
 
-Dis à ceux qui ont cru de pardonner à ceux qui n’espèrent[499] aucune faveur des jours d’Allah, afin qu’Il rétribue les hommes selon leurs œuvres acquises.
+Dis à ceux qui ont cru de pardonner à ceux qui n’espèrent[^499] aucune faveur des jours d’Allah, afin qu’Il rétribue les hommes selon leurs œuvres acquises.
 
-[499] Le Coran utilise souvent des énanthiosèmes, (الأضداد) c’est-à-dire des mots qui veulent dire, d’après le contexte, soit un sens soit son contraire. Comme exemples, nous pouvons citer le verbe arabe «بشّر», le verbe «هدى », et , ici, le verbe « رجا » que nous avons traduit littéralement par « espérer ». Il s’agit encore d’une rhétorique d’ironie généralisée vis-à-vis des mécréants. « Ne pas espérer le châtiment prescrit » voudra dire « ne pas croire à ce châtiment », « ne pas en tenir compte ».
+[^499]: Le Coran utilise souvent des énanthiosèmes, (الأضداد) c’est-à-dire des mots qui veulent dire, d’après le contexte, soit un sens soit son contraire. Comme exemples, nous pouvons citer le verbe arabe «بشّر», le verbe «هدى », et , ici, le verbe « رجا » que nous avons traduit littéralement par « espérer ». Il s’agit encore d’une rhétorique d’ironie généralisée vis-à-vis des mécréants. « Ne pas espérer le châtiment prescrit » voudra dire « ne pas croire à ce châtiment », « ne pas en tenir compte ».
 
 # 4488
 
@@ -18951,16 +18985,17 @@ Dis : « C’est Allah Qui vous fait vivre puis vous fait mourir. Puis Il vous r
 
 # 4500
 
-À Allah appartient la royauté des cieux et de la terre. Et le jour où arrivera[500] l’Heure, ce jour-là, les négateurs seront perdants.
+À Allah appartient la royauté des cieux et de la terre. Et le jour où arrivera[^500] l’Heure, ce jour-là, les négateurs seront perdants.
 
-[500] Littéralement : se lèvera.
+[^500]: Littéralement : se lèvera.
 
 # 4501
 
-Tu verras chaque nation agenouillée.[501] Chacune sera appelée (à comparaître) devant son Livre.[502] En ce jour, vous serez rétribués d’après ce que vous faisiez.
+Tu verras chaque nation agenouillée.[^501] Chacune sera appelée (à comparaître) devant son Livre.[^502] En ce jour, vous serez rétribués d’après ce que vous faisiez.
 
-[501] Ce verset donne son titre à la sourate.
-[502] Livre ou seront enregistrées les actions de chacun.
+[^501]: Ce verset donne son titre à la sourate.
+
+[^502]: Livre ou seront enregistrées les actions de chacun.
 
 # 4502
 
@@ -18988,9 +19023,9 @@ Il (leur) sera dit : « Aujourd’hui Nous vous oublions comme vous avez vous-m�
 
 # 4508
 
-Cela, parce que vous tourniez les versets d’Allah en dérision et parce que vous vous laissiez séduire par la vie de ce bas monde. » Ce jour-là, nul ne pourra les en sortir[503] et il ne sera accepté d’eux plus aucune excuse.
+Cela, parce que vous tourniez les versets d’Allah en dérision et parce que vous vous laissiez séduire par la vie de ce bas monde. » Ce jour-là, nul ne pourra les en sortir[^503] et il ne sera accepté d’eux plus aucune excuse.
 
-[503] De l’Enfer.
+[^503]: De l’Enfer.
 
 # 4509
 
@@ -19042,9 +19077,9 @@ Dis : « Et s’il s’avérait qu’il (le Coran) était bien d’Allah, mais q
 
 # 4521
 
-Ceux qui ont mécru disent à ceux qui ont cru : « Si (le Coran) présentait (vraiment) quelque avantage, ils[505] ne nous y auraient jamais devancés. » Et comme ils ne se seront pas laissé guider (par lui), ils diront : « C’est là un vieux mensonge ! »
+Ceux qui ont mécru disent à ceux qui ont cru : « Si (le Coran) présentait (vraiment) quelque avantage, ils[^505] ne nous y auraient jamais devancés. » Et comme ils ne se seront pas laissé guider (par lui), ils diront : « C’est là un vieux mensonge ! »
 
-[505] Les pauvres et les faibles.
+[^505]: Les pauvres et les faibles.
 
 # 4522
 
@@ -19064,9 +19099,9 @@ Nous avons recommandé à l’homme la bienfaisance envers ses deux parents. Sa 
 
 # 4526
 
-Ceux-là, le meilleur de ce dont ils ont fait œuvre sera accepté (d’eux), et leurs méfaits seront effacés[506]. Ils comptent parmi les hôtes du Paradis – telle est la promesse de vérité qui leur a été faite.
+Ceux-là, le meilleur de ce dont ils ont fait œuvre sera accepté (d’eux), et leurs méfaits seront effacés[^506]. Ils comptent parmi les hôtes du Paradis – telle est la promesse de vérité qui leur a été faite.
 
-[506] Le mot employé dans le texte coranique est « dépassés » au sens de « passer sur », donc de « pardonner ». Nous avons préféré à l’emploi de l’actif « Nous accepterons », « Nous effacerons », l’emploi du passif, « sera accepté », « seront effacés », conformément à la voix passive utilisée dans le texte coranique, autrement plus expressive : مبني للمجهول.
+[^506]: Le mot employé dans le texte coranique est « dépassés » au sens de « passer sur », donc de « pardonner ». Nous avons préféré à l’emploi de l’actif « Nous accepterons », « Nous effacerons », l’emploi du passif, « sera accepté », « seront effacés », conformément à la voix passive utilisée dans le texte coranique, autrement plus expressive : مبني للمجهول.
 
 # 4527
 
@@ -19130,9 +19165,9 @@ Et lorsque nous amenâmes vers toi un petit groupe de djinns pour qu’ils écou
 
 # 4542
 
-Quiconque ne répond pas à celui qui appelle vers Allah ne saura mettre au défi Sa puissance sur terre,[507] et il n’aura aucun protecteur en dehors de Lui. Ceux-là sont dans un égarement manifeste.
+Quiconque ne répond pas à celui qui appelle vers Allah ne saura mettre au défi Sa puissance sur terre,[^507] et il n’aura aucun protecteur en dehors de Lui. Ceux-là sont dans un égarement manifeste.
 
-[507] La puissance d’Allah, comme l’indique la majuscule de « Sa ».
+[^507]: La puissance d’Allah, comme l’indique la majuscule de « Sa ».
 
 # 4543
 
@@ -19160,9 +19195,9 @@ Cela, parce que ceux qui ont mécru ont adopté l’erreur, et ceux qui ont cru 
 
 # 4549
 
-Quand vous rencontrez (au combat) ceux qui ont mécru, frappez-les à mort, d’estoc et de taille. Une fois que vous aurez pris le dessus sur eux, enchaînez-en solidement les captifs. Après, ce sera soit la libération gracieuse, soit la réclamation d’une rançon, jusqu’à ce que la guerre soit terminée.[508] Cela, et si Allah le voulait, c’est Lui-même Qui Se vengerait d’eux, mais (s’Il ne le fait pas) c’est pour vous éprouver les uns par les autres. Ceux qui seront tués pour la cause d’Allah, (Allah) ne rendra pas vaines leurs œuvres.
+Quand vous rencontrez (au combat) ceux qui ont mécru, frappez-les à mort, d’estoc et de taille. Une fois que vous aurez pris le dessus sur eux, enchaînez-en solidement les captifs. Après, ce sera soit la libération gracieuse, soit la réclamation d’une rançon, jusqu’à ce que la guerre soit terminée.[^508] Cela, et si Allah le voulait, c’est Lui-même Qui Se vengerait d’eux, mais (s’Il ne le fait pas) c’est pour vous éprouver les uns par les autres. Ceux qui seront tués pour la cause d’Allah, (Allah) ne rendra pas vaines leurs œuvres.
 
-[508] Littéralement : jusqu’à ce que la guerre ait déposé ses fardeaux.
+[^508]: Littéralement : jusqu’à ce que la guerre ait déposé ses fardeaux.
 
 # 4550
 
@@ -19302,9 +19337,9 @@ Vous voici appelés à dépenser pour la cause d’Allah. Il en est qui, parmi v
 
 # 4584
 
-Nous t’avons accordé une victoire évidente,[509]
+Nous t’avons accordé une victoire évidente,[^509]
 
-[509] Il s’agit ici de la trêve conclue à Al-Ḥudaybiyyah avec les mécréants. Cette trêve était une véritable victoire, qui préludait à la conquête de La Mecque.
+[^509]: Il s’agit ici de la trêve conclue à Al-Ḥudaybiyyah avec les mécréants. Cette trêve était une véritable victoire, qui préludait à la conquête de La Mecque.
 
 # 4585
 
@@ -19372,9 +19407,9 @@ Nul grief ne sera fait à l’aveugle, pas plus qu’au boiteux et au malade. Qu
 
 # 4601
 
-Allah a été satisfait des croyants qui te faisaient allégeance sous l’arbre. Il a su ce qu’il y avait au fond de leurs cœurs, a fait donc descendre sur eux la quiétude, et les a récompensés par une victoire imminente,[510]
+Allah a été satisfait des croyants qui te faisaient allégeance sous l’arbre. Il a su ce qu’il y avait au fond de leurs cœurs, a fait donc descendre sur eux la quiétude, et les a récompensés par une victoire imminente,[^510]
 
-[510] Il s’agit de la conquête, toute proche, de Khaybar, consécutive à la trêve de Al-Hudaybiyyah et précédant la conquête de La Mecque.
+[^510]: Il s’agit de la conquête, toute proche, de Khaybar, consécutive à la trêve de Al-Hudaybiyyah et précédant la conquête de La Mecque.
 
 # 4602
 
@@ -19382,21 +19417,21 @@ et par un riche butin dont ils allaient prendre possession. Allah est Tout- Puis
 
 # 4603
 
-Allah vous a promis de riches butins dont vous prendrez possession bientôt, et Il vous a accordé rapidement ce butin-ci ;[511] Il a éloigné de vous les mains (ennemies) des hommes, afin que cela soit un Signe aux croyants et pour que vous soyez guidés vers une voie droite.
+Allah vous a promis de riches butins dont vous prendrez possession bientôt, et Il vous a accordé rapidement ce butin-ci ;[^511] Il a éloigné de vous les mains (ennemies) des hommes, afin que cela soit un Signe aux croyants et pour que vous soyez guidés vers une voie droite.
 
-[511] Le butin de Khaybar, qui sera obtenu sans combat.
+[^511]: Le butin de Khaybar, qui sera obtenu sans combat.
 
 # 4604
 
-Mais Il vous en promet un autre[512] que vous êtes incapables de prendre et qu’Allah Seul cerne de Son pouvoir, car Allah est de Toute chose Infiniment Capable.
+Mais Il vous en promet un autre[^512] que vous êtes incapables de prendre et qu’Allah Seul cerne de Son pouvoir, car Allah est de Toute chose Infiniment Capable.
 
-[512] Un autre butin.
+[^512]: Un autre butin.
 
 # 4605
 
-Si ceux qui ont mécru vous combattaient,[513] ils feraient vite de battre en retraite, et ne trouveraient ni allié ni soutien.
+Si ceux qui ont mécru vous combattaient,[^513] ils feraient vite de battre en retraite, et ne trouveraient ni allié ni soutien.
 
-[513] Quand bien même ils vous combattraient à l’intérieur de La Mecque.
+[^513]: Quand bien même ils vous combattraient à l’intérieur de La Mecque.
 
 # 4606
 
@@ -19416,10 +19451,11 @@ Lorsque ceux qui ont mécru furent pris de la fureur (aveugle) et partisane, fur
 
 # 4610
 
-Allah confirme par la vérité la vision de Son Messager : « Vous entrerez, en toute sécurité, dans la Mosquée Sacrée par la volonté d’Allah, la tête rasée ou les cheveux coupés, et vous n’y aurez nulle crainte. ». Il Savait ce que vous ne saviez pas et (Allah) vous a donné, d’abord,[514] une victoire immédiate.[515]
+Allah confirme par la vérité la vision de Son Messager : « Vous entrerez, en toute sécurité, dans la Mosquée Sacrée par la volonté d’Allah, la tête rasée ou les cheveux coupés, et vous n’y aurez nulle crainte. ». Il Savait ce que vous ne saviez pas et (Allah) vous a donné, d’abord,[^514] une victoire immédiate.[^515]
 
-[514] Avant la conquête de La Mecque.
-[515] La facile victoire de Khaybar en prélude à la conquête de La Mecque.
+[^514]: Avant la conquête de La Mecque.
+
+[^515]: La facile victoire de Khaybar en prélude à la conquête de La Mecque.
 
 # 4611
 
@@ -19443,10 +19479,11 @@ Ceux qui baissent la voix auprès du Messager d’Allah, sont ceux dont Allah a 
 
 # 4616
 
-Ceux qui t’interpellent de l’extérieur[516] de (tes) appartements,[517] pour la plupart, ne raisonnent point.
+Ceux qui t’interpellent de l’extérieur[^516] de (tes) appartements,[^517] pour la plupart, ne raisonnent point.
 
-[516] Littéralement : de derrière.
-[517] C’est ce verset qui donne son titre à cette sourate.
+[^516]: Littéralement : de derrière.
+
+[^517]: C’est ce verset qui donne son titre à cette sourate.
 
 # 4617
 
@@ -19514,9 +19551,9 @@ Ils s’étonnent pourtant que l’un des leurs soit venu vers eux en avertisseu
 
 # 4633
 
-Les mécréants disent alors : « C’est une chose bien étrange ! Une fois que nous serons morts et réduits en poussière... ?[519] Voilà un retour bien peu probable ! »
+Les mécréants disent alors : « C’est une chose bien étrange ! Une fois que nous serons morts et réduits en poussière... ?[^519] Voilà un retour bien peu probable ! »
 
-[519] Ce vide que laisse le verset est un procédé rhétorique bien connu. Il s’agit d’une figure qu’il est convenu d’appeler « la réticence », « la retenue » ou « l’aposiopèse ». Une partie de ce qui doit être dit reste inexprimée. Mais dans cette figure de rhétorique, taire équivaut à tout dire, puisqu’on ne supprime que les mots que le destinataire saura sûrement deviner. Ici, les mots manquants et par lesquels le lecteur devra mentalement combler le vide, sont les suivants : serons-nous ressuscités ?
+[^519]: Ce vide que laisse le verset est un procédé rhétorique bien connu. Il s’agit d’une figure qu’il est convenu d’appeler « la réticence », « la retenue » ou « l’aposiopèse ». Une partie de ce qui doit être dit reste inexprimée. Mais dans cette figure de rhétorique, taire équivaut à tout dire, puisqu’on ne supprime que les mots que le destinataire saura sûrement deviner. Ici, les mots manquants et par lesquels le lecteur devra mentalement combler le vide, sont les suivants : serons-nous ressuscités ?
 
 # 4634
 
@@ -19612,9 +19649,9 @@ qui associait à Allah une autre divinité. Précipitez-le donc dans le terrible
 
 # 4657
 
-« Seigneur, (dira alors son autre) compagnon,[520] je ne l’ai point poussé à la rébellion, lui-même était allé loin dans l’égarement ! »
+« Seigneur, (dira alors son autre) compagnon,[^520] je ne l’ai point poussé à la rébellion, lui-même était allé loin dans l’égarement ! »
 
-[520] Son démon.
+[^520]: Son démon.
 
 # 4658
 
@@ -19702,9 +19739,9 @@ Par les coureurs avec autant d’aisance !
 
 # 4679
 
-Par les distributeurs (des biens) conformément à un ordre ![521]
+Par les distributeurs (des biens) conformément à un ordre ![^521]
 
-[521] Selon la majorité des exégètes, il s’agit respectivement des vents, des nuages, des vaisseaux (ou des étoiles) et des anges. À noter que le mot « éparpilleurs » est ici un néologisme.
+[^521]: Selon la majorité des exégètes, il s’agit respectivement des vents, des nuages, des vaisseaux (ou des étoiles) et des anges. À noter que le mot « éparpilleurs » est ici un néologisme.
 
 # 4680
 
@@ -19724,9 +19761,9 @@ Vos avis sont inconstants.
 
 # 4684
 
-(Du Coran)[522] se détournera certes celui qui s’est déjà détourné (de la foi).
+(Du Coran)[^522] se détournera certes celui qui s’est déjà détourné (de la foi).
 
-[522] Autre interprétation : du Prophète (paix et bénédiction d’Allah sur lui).
+[^522]: Autre interprétation : du Prophète (paix et bénédiction d’Allah sur lui).
 
 # 4685
 
@@ -19758,9 +19795,9 @@ y recevant ce que leur aura donné leur Seigneur, car ils étaient autrefois bie
 
 # 4692
 
-La nuit, ils dormaient peu[523]
+La nuit, ils dormaient peu[^523]
 
-[523] Ils consacraient la plus grande partie de la nuit à la prière.
+[^523]: Ils consacraient la plus grande partie de la nuit à la prière.
 
 # 4693
 
@@ -19896,9 +19933,9 @@ De toute chose, Nous avons créé un couple afin que vous y réfléchissiez.
 
 # 4726
 
-N’associez à Allah aucune autre divinité ! Je viens de Sa part en avertisseur explicite. »[524]
+N’associez à Allah aucune autre divinité ! Je viens de Sa part en avertisseur explicite. »[^524]
 
-[524] Ce qui est entre guillemets est attribué au Prophète (paix et bénédiction d’Allah sur lui).
+[^524]: Ce qui est entre guillemets est attribué au Prophète (paix et bénédiction d’Allah sur lui).
 
 # 4727
 
@@ -19954,9 +19991,9 @@ Par la Maison emplie (d’adorateurs) !
 
 # 4740
 
-Par la Voûte bien haute ![525]
+Par la Voûte bien haute ![^525]
 
-[525] Le ciel.
+[^525]: Le ciel.
 
 # 4741
 
@@ -20044,9 +20081,9 @@ Ils s’élanceront les uns vers les autres, en s’interrogeant :
 
 # 4762
 
-Allah nous a donc fait grâce en nous épargnant le tourment de As-Samûm.[526]
+Allah nous a donc fait grâce en nous épargnant le tourment de As-Samûm.[^526]
 
-[526] Le souffle brûlant de l’Enfer.
+[^526]: Le souffle brûlant de l’Enfer.
 
 # 4763
 
@@ -20070,9 +20107,9 @@ Serait-ce leur raison qui leur ordonne (de telles allégations) ? Ou bien sont-i
 
 # 4768
 
-Ou alors diront-ils : « C’est lui qui l’a inventé. »[527] Or ce sont eux qui n’y croient pas.
+Ou alors diront-ils : « C’est lui qui l’a inventé. »[^527] Or ce sont eux qui n’y croient pas.
 
-[527] Il aurait, d’après eux, inventé le Coran.
+[^527]: Il aurait, d’après eux, inventé le Coran.
 
 # 4769
 
@@ -20128,9 +20165,9 @@ Le jour où leurs intrigues ne leur seront utiles en rien, et où ils n’auront
 
 # 4782
 
-Ceux qui auront commis des injustices auront (à subir) un supplice avancé,[528] mais la plupart d’entre eux ne le savent pas.
+Ceux qui auront commis des injustices auront (à subir) un supplice avancé,[^528] mais la plupart d’entre eux ne le savent pas.
 
-[528] Avancé dans le temps : un supplice de leur vivant (dès avant leur mort).
+[^528]: Avancé dans le temps : un supplice de leur vivant (dès avant leur mort).
 
 # 4783
 
@@ -20142,9 +20179,9 @@ Et glorifie-Le durant une (bonne) partie de la nuit et quand déclinent les éto
 
 # 4785
 
-Par l’étoile quand elle choit ![529]
+Par l’étoile quand elle choit ![^529]
 
-[529] Autre interprétation : quand elle décline avec l’aube. Notre traduction est littérale (« choit » est synonyme de « tombe »). Elle englobe les deux interprétations : soit le sens propre de la chute réelle évoquant celle de la comète ou du météore, soit la chute métaphorique qui fait penser au déclin des étoiles au petit jour.
+[^529]: Autre interprétation : quand elle décline avec l’aube. Notre traduction est littérale (« choit » est synonyme de « tombe »). Elle englobe les deux interprétations : soit le sens propre de la chute réelle évoquant celle de la comète ou du météore, soit la chute métaphorique qui fait penser au déclin des étoiles au petit jour.
 
 # 4786
 
@@ -20196,9 +20233,9 @@ Il l’avait déjà vu une autre fois,
 
 # 4798
 
-près du Lotus de la Limite (Sidrat-Al-Muntahâ)[530]
+près du Lotus de la Limite (Sidrat-Al-Muntahâ)[^530]
 
-[530] Il s’agit de l’arbre céleste au-delà duquel ne peut plus aller l’Ange Gabriel (car c’est de lui qu’il s’agit dans les versets précédents).
+[^530]: Il s’agit de l’arbre céleste au-delà duquel ne peut plus aller l’Ange Gabriel (car c’est de lui qu’il s’agit dans les versets précédents).
 
 # 4799
 
@@ -20238,15 +20275,15 @@ Ce ne sont là que des noms que vous avez forgés vous-mêmes, ainsi que vos anc
 
 # 4808
 
-À moins que l’homme ne veuille avoir tout ce qu’il désire ![531]
+À moins que l’homme ne veuille avoir tout ce qu’il désire ![^531]
 
-[531] L’homme voudrait-il donc avoir les divinités qu’il décide lui-même d’avoir ?
+[^531]: L’homme voudrait-il donc avoir les divinités qu’il décide lui-même d’avoir ?
 
 # 4809
 
-À Allah appartiennent la vie dernière et la vie première.[532]
+À Allah appartiennent la vie dernière et la vie première.[^532]
 
-[532] L’autre monde et le bas monde.
+[^532]: L’autre monde et le bas monde.
 
 # 4810
 
@@ -20274,9 +20311,9 @@ Voilà jusqu’où peut aller leur savoir. Ton Seigneur Sait le mieux qui s’es
 
 # 4816
 
-ceux-là qui évitent les péchés majeurs et les turpitudes et (ne faiblissent que devant) les peccadilles.[533] Vaste est le pardon de ton Seigneur ! Il en Sait sur vous mieux (que personne) quand Il vous a créés à partir de la terre, et quand vous n’étiez que des embryons dans les ventres de vos mères. Ne vous tenez pas trop pour des gens purs (et infaillibles), car Lui Sait mieux qui (Le) craint pieusement.
+ceux-là qui évitent les péchés majeurs et les turpitudes et (ne faiblissent que devant) les peccadilles.[^533] Vaste est le pardon de ton Seigneur ! Il en Sait sur vous mieux (que personne) quand Il vous a créés à partir de la terre, et quand vous n’étiez que des embryons dans les ventres de vos mères. Ne vous tenez pas trop pour des gens purs (et infaillibles), car Lui Sait mieux qui (Le) craint pieusement.
 
-[533] Le mot vient du verbe latin « peccare » (pécher). Il signifie faute légère, péché mineur, véniel.
+[^533]: Le mot vient du verbe latin « peccare » (pécher). Il signifie faute légère, péché mineur, véniel.
 
 # 4817
 
@@ -20344,9 +20381,9 @@ et que c’est Lui Qui enrichit et Qui pourvoit aux besoins,
 
 # 4833
 
-et que c’est Lui le Seigneur de Sirius,[534]
+et que c’est Lui le Seigneur de Sirius,[^534]
 
-[534] Les païens d’alors adoraient cet astre.
+[^534]: Les païens d’alors adoraient cet astre.
 
 # 4834
 
@@ -20362,9 +20399,9 @@ et le peuple de Noé, avant eux, qui fut encore plus injuste et plus rebelle,
 
 # 4837
 
-et les villes renversées,[535] c’est Lui Qui les démolit :
+et les villes renversées,[^535] c’est Lui Qui les démolit :
 
-[535] Ce sont les villes maudites du peuple de Loth : Sodome et Gomorrhe.
+[^535]: Ce sont les villes maudites du peuple de Loth : Sodome et Gomorrhe.
 
 # 4838
 
@@ -20400,9 +20437,9 @@ Ne vous en souciant nullement?
 
 # 4846
 
-Prosternez-vous donc devant Allah et adorez-Le ![536]
+Prosternez-vous donc devant Allah et adorez-Le ![^536]
 
-[536] Une prosternation est recommandée après la lecture de ce verset.
+[^536]: Une prosternation est recommandée après la lecture de ce verset.
 
 # 4847
 
@@ -20410,9 +20447,9 @@ L’Heure approche et la lune s’est fendue.
 
 # 4848
 
-Voient-ils un Signe, ils s’en détournent en disant : « C’est une magie appelée à disparaître. »[537]
+Voient-ils un Signe, ils s’en détournent en disant : « C’est une magie appelée à disparaître. »[^537]
 
-[537] C’est la première interprétation que donnent les exégètes du mot arabe مستمر dans ce verset, la deuxième étant : « une puissante magie ».
+[^537]: C’est la première interprétation que donnent les exégètes du mot arabe مستمر dans ce verset, la deuxième étant : « une puissante magie ».
 
 # 4849
 
@@ -20604,9 +20641,9 @@ Nous avons tout créé selon un Décret.
 
 # 4896
 
-Notre ordre ne procède que d’un mot, un seul, aussi rapide que l’éclair.[538]
+Notre ordre ne procède que d’un mot, un seul, aussi rapide que l’éclair.[^538]
 
-[538] Littéralement : la promptitude instantanée du regard, le clin d’œil.
+[^538]: Littéralement : la promptitude instantanée du regard, le clin d’œil.
 
 # 4897
 
@@ -20678,9 +20715,9 @@ Et les graines (de céréales) dans leurs enveloppes, ainsi que les plantes odor
 
 # 4914
 
-Quels bienfaits de votre Seigneur, oseriez-vous donc, vous deux,[539] démentir ?
+Quels bienfaits de votre Seigneur, oseriez-vous donc, vous deux,[^539] démentir ?
 
-[539] « Vous deux » : les hommes et les djinns.
+[^539]: « Vous deux » : les hommes et les djinns.
 
 # 4915
 
@@ -20732,9 +20769,9 @@ Quels bienfaits de votre Seigneur, oseriez-vous donc, vous deux, démentir ?
 
 # 4927
 
-Tout ce qui est sur elle[540] est appelé à périr,
+Tout ce qui est sur elle[^540] est appelé à périr,
 
-[540] La terre.
+[^540]: La terre.
 
 # 4928
 
@@ -20754,9 +20791,9 @@ Quels bienfaits de votre Seigneur, oseriez-vous donc, vous deux, démentir ?
 
 # 4932
 
-Nous allons bientôt Nous occuper de votre jugement, ô vous, hommes et djinns.[541]
+Nous allons bientôt Nous occuper de votre jugement, ô vous, hommes et djinns.[^541]
 
-[541] Littéralement : ô vous les deux charges lourdes.
+[^541]: Littéralement : ô vous les deux charges lourdes.
 
 # 4933
 
@@ -20808,9 +20845,9 @@ Voici la Géhenne que ces scélérats tenaient pour mensonge !
 
 # 4945
 
-Ils circuleront entre elle[542] et une eau bouillante.
+Ils circuleront entre elle[^542] et une eau bouillante.
 
-[542] La Géhenne.
+[^542]: La Géhenne.
 
 # 4946
 
@@ -20982,9 +21019,9 @@ vous (vous diviserez) alors en trois groupes.
 
 # 4988
 
-(Puis) les gens de la senestre : mais que sont les gens de la senestre ?[543]
+(Puis) les gens de la senestre : mais que sont les gens de la senestre ?[^543]
 
-[543] Nous avons préféré employer les doublets savants et vieux : « dextre » et « senestre », au lieu de « droite » et « gauche » qui ont aujourd’hui des connotations renvoyant aux partis politiques.
+[^543]: Nous avons préféré employer les doublets savants et vieux : « dextre » et « senestre », au lieu de « droite » et « gauche » qui ont aujourd’hui des connotations renvoyant aux partis politiques.
 
 # 4989
 
@@ -21088,9 +21125,9 @@ Et (il y aura pour eux) des lits élevés.
 
 # 5014
 
-Nous les[544] avons (véritablement) créées d’une création (nouvelle),
+Nous les[^544] avons (véritablement) créées d’une création (nouvelle),
 
-[544] Les houris du Paradis.
+[^544]: Les houris du Paradis.
 
 # 5015
 
@@ -21242,9 +21279,9 @@ Est-ce vous qui avez créé l’arbre (qui permet de l’allumer) ou est-ce Nous
 
 # 5052
 
-Nous avons fait (du feu) un rappel et un élément au service des hommes.[545]
+Nous avons fait (du feu) un rappel et un élément au service des hommes.[^545]
 
-[545] Littéralement : aux voyageurs qui campent dans le désert.
+[^545]: Littéralement : aux voyageurs qui campent dans le désert.
 
 # 5053
 
@@ -21276,9 +21313,9 @@ C’est là une révélation du Seigneur de l’Univers.
 
 # 5060
 
-Est-ce donc à ce discours-là[546] que vous refusez de croire ?
+Est-ce donc à ce discours-là[^546] que vous refusez de croire ?
 
-[546] Le Coran.
+[^546]: Le Coran.
 
 # 5061
 
@@ -21306,9 +21343,9 @@ ne la faites-vous pas revenir, si vous êtes sincères (dans vos dires) ?
 
 # 5067
 
-Si (le défunt) est du nombre des privilégiés,[547]
+Si (le défunt) est du nombre des privilégiés,[^547]
 
-[547] Littéralement : des rapprochés.
+[^547]: Littéralement : des rapprochés.
 
 # 5068
 
@@ -21372,9 +21409,9 @@ Croyez en Allah et en Son Messager ! Dépensez de ce dont Il vous a faits les g�
 
 # 5083
 
-Et pourquoi ne croyez-vous pas en Allah quand le Messager vous invite à croire en votre Seigneur et qu’(Allah) a déjà obtenu de vous un engagement, si tant est que vous soyez croyants ?[548]
+Et pourquoi ne croyez-vous pas en Allah quand le Messager vous invite à croire en votre Seigneur et qu’(Allah) a déjà obtenu de vous un engagement, si tant est que vous soyez croyants ?[^548]
 
-[548] Rappelons que cet emploi de la locution conjonctive « si tant est que », exprimant l’hypothèse et entraînant nécessairement le subjonctif, est synonyme de : si vraiment...
+[^548]: Rappelons que cet emploi de la locution conjonctive « si tant est que », exprimant l’hypothèse et entraînant nécessairement le subjonctif, est synonyme de : si vraiment...
 
 # 5084
 
@@ -21434,9 +21471,9 @@ Il n’est point de catastrophe frappant la terre ou (de malheur) vous frappant 
 
 # 5098
 
-Cela, pour que vous ne vous vous lamentiez pas (trop) sur les biens qui vous auront échappé, et que vous ne vous réjouissiez pas (outre mesure) de ce qu’Il vous a donné. Car Allah n’aime pas ceux qui sont hautains et vantards,[549]
+Cela, pour que vous ne vous vous lamentiez pas (trop) sur les biens qui vous auront échappé, et que vous ne vous réjouissiez pas (outre mesure) de ce qu’Il vous a donné. Car Allah n’aime pas ceux qui sont hautains et vantards,[^549]
 
-[549] Littéralement : celui qui est...
+[^549]: Littéralement : celui qui est...
 
 # 5099
 
@@ -21460,9 +21497,9 @@ Puis Nous leur fîmes succéder Nos Messagers (ultérieurs), et envoyâmes à le
 
 # 5104
 
-Cela, afin que les gens du Livre[550] sachent qu’ils n’ont aucun pouvoir pour obtenir la faveur d’Allah. Car la faveur est dans la Main d’Allah : Il la donne à qui Il veut, Lui le Détenteur de la Faveur Suprême.
+Cela, afin que les gens du Livre[^550] sachent qu’ils n’ont aucun pouvoir pour obtenir la faveur d’Allah. Car la faveur est dans la Main d’Allah : Il la donne à qui Il veut, Lui le Détenteur de la Faveur Suprême.
 
-[550] Ceux qui, parmi les Chrétiens et les Juifs, n’avaient pas cru en Muhammad (paix et bénédiction d’Allah sur lui).
+[^550]: Ceux qui, parmi les Chrétiens et les Juifs, n’avaient pas cru en Muhammad (paix et bénédiction d’Allah sur lui).
 
 # 5105
 
@@ -21470,9 +21507,9 @@ Allah a entendu les dires de celle qui discutait avec toi au sujet de son époux
 
 # 5106
 
-Ceux d’entre vous qui répudient leurs femmes en affirmant qu’elles leurs sont désormais aussi défendues que leurs mères,[551] cependant qu’elles ne sont nullement leurs mères – leurs mères étant celles qui les ont enfantés-, ne profèrent en vérité que des paroles condamnables et fausses. Mais Allah est Indulgent et Absoluteur.
+Ceux d’entre vous qui répudient leurs femmes en affirmant qu’elles leurs sont désormais aussi défendues que leurs mères,[^551] cependant qu’elles ne sont nullement leurs mères – leurs mères étant celles qui les ont enfantés-, ne profèrent en vérité que des paroles condamnables et fausses. Mais Allah est Indulgent et Absoluteur.
 
-[551] Littéralement : aussi défendues que le dos de leur mère.
+[^551]: Littéralement : aussi défendues que le dos de leur mère.
 
 # 5107
 
@@ -21560,9 +21597,9 @@ Tout ce qui est dans les cieux et tout ce qui est sur terre rend gloire à Allah
 
 # 5128
 
-C’est Lui Qui fit sortir de leurs foyers, pour le premier exil,[552] les mécréants parmi les gens du Livre. Vous ne pensiez pas qu’ils sortiraient (jamais) et eux s’imaginaient que leurs forteresses leur étaient une protection contre Allah. Mais Allah les surprit là où ils ne s’y attendaient point. Dans leurs cœurs, Il instilla tant de terreur qu’ils se mirent à démolir leurs maisons de leurs propres mains, aidés en cela par les croyants. Tirez-en donc la leçon, ô vous qui avez claire la vision !
+C’est Lui Qui fit sortir de leurs foyers, pour le premier exil,[^552] les mécréants parmi les gens du Livre. Vous ne pensiez pas qu’ils sortiraient (jamais) et eux s’imaginaient que leurs forteresses leur étaient une protection contre Allah. Mais Allah les surprit là où ils ne s’y attendaient point. Dans leurs cœurs, Il instilla tant de terreur qu’ils se mirent à démolir leurs maisons de leurs propres mains, aidés en cela par les croyants. Tirez-en donc la leçon, ô vous qui avez claire la vision !
 
-[552] Expression dont est Tiré le titre de cette sourate.
+[^552]: Expression dont est Tiré le titre de cette sourate.
 
 # 5129
 
@@ -21590,9 +21627,9 @@ Ce qu’Allah a accordé comme butin à Son Messager (pris sur les biens) des ha
 
 # 5135
 
-(Le butin revient également) à ceux qui, avant eux déjà, se sont installés à Médine,[553] et qui, (confortés) dans la foi, aiment tous ceux qui émigrent vers eux, ne sont nullement envieux de ce que ces derniers reçoivent (comme dons à leur arrivée), et sont prêts à s’en priver les préférant à leurs propres personnes, fussent-ils eux-mêmes dans le besoin. Ceux qui sont préservés de leur propre avarice sont ceux qui réussissent.
+(Le butin revient également) à ceux qui, avant eux déjà, se sont installés à Médine,[^553] et qui, (confortés) dans la foi, aiment tous ceux qui émigrent vers eux, ne sont nullement envieux de ce que ces derniers reçoivent (comme dons à leur arrivée), et sont prêts à s’en priver les préférant à leurs propres personnes, fussent-ils eux-mêmes dans le besoin. Ceux qui sont préservés de leur propre avarice sont ceux qui réussissent.
 
-[553] Littéralement : la Maison et le pays et la foi.
+[^553]: Littéralement : la Maison et le pays et la foi.
 
 # 5136
 
@@ -21692,9 +21729,9 @@ Allah vous défend seulement de prendre pour alliés ceux qui vous ont combattus
 
 # 5160
 
-Ô vous qui avez cru ! Quand des croyantes viennent vers vous en émigrées, mettez-les à l’épreuve, car Allah en Sait mieux sur leur foi. Si vous les avez trouvées vraiment croyantes, ne les rendez pas aux (maris) mécréants. Désormais, ni elles ne seront plus licites pour eux, ni eux ne seront licites pour elles. Mais rendez-leur[554] ce qu’ils ont dépensé (comme mahr : dot). Il n’y aura alors aucun grief contre vous si vous les épousez en leur versant (à votre tour) leur mahr (dot). De même, ne conservez pas les liens du mariage avec les mécréantes. Réclamez (à votre tour) ce que vous avez dépensé comme mahr (dot), tout comme (les maris mécréants) le réclament. Tel est le Jugement d’Allah Qui décide entre vous. Allah est Omniscient et Sage.
+Ô vous qui avez cru ! Quand des croyantes viennent vers vous en émigrées, mettez-les à l’épreuve, car Allah en Sait mieux sur leur foi. Si vous les avez trouvées vraiment croyantes, ne les rendez pas aux (maris) mécréants. Désormais, ni elles ne seront plus licites pour eux, ni eux ne seront licites pour elles. Mais rendez-leur[^554] ce qu’ils ont dépensé (comme mahr : dot). Il n’y aura alors aucun grief contre vous si vous les épousez en leur versant (à votre tour) leur mahr (dot). De même, ne conservez pas les liens du mariage avec les mécréantes. Réclamez (à votre tour) ce que vous avez dépensé comme mahr (dot), tout comme (les maris mécréants) le réclament. Tel est le Jugement d’Allah Qui décide entre vous. Allah est Omniscient et Sage.
 
-[554] Aux maris mécréants.
+[^554]: Aux maris mécréants.
 
 # 5161
 
@@ -21774,9 +21811,9 @@ C’est Lui Qui envoya parmi les illettrés un Messager issu de leur peuple, qui
 
 # 5180
 
-(Il l’envoya aussi) à d’autres[555] qui ne les ont pas encore rejoints. C’est Lui le Tout-Puissant, le Sage.
+(Il l’envoya aussi) à d’autres[^555] qui ne les ont pas encore rejoints. C’est Lui le Tout-Puissant, le Sage.
 
-[555] L’expression renvoie à d’autres peuples contemporains des Arabes d’alors et qui seront appelés à se convertir à l’Islam. Mais elle renvoie aussi aux peuples à venir.
+[^555]: L’expression renvoie à d’autres peuples contemporains des Arabes d’alors et qui seront appelés à se convertir à l’Islam. Mais elle renvoie aussi aux peuples à venir.
 
 # 5181
 
@@ -21804,9 +21841,9 @@ Dis : « La mort que vous fuyez vous trouvera, puis vous serez ramenés vers Cel
 
 # 5187
 
-Puis la Çalât finie, dispersez-vous partout ailleurs ![556] Espérez les faveurs d’Allah ! Évoquez abondamment (le nom d’)Allah, peut-être réussirez-vous !
+Puis la Çalât finie, dispersez-vous partout ailleurs ![^556] Espérez les faveurs d’Allah ! Évoquez abondamment (le nom d’)Allah, peut-être réussirez-vous !
 
-[556] Littéralement : sur terre.
+[^556]: Littéralement : sur terre.
 
 # 5188
 
@@ -21846,9 +21883,9 @@ Ils disent : « Si nous revenons à Médine, le plus puissant en chassera le plu
 
 # 5197
 
-Ô vous qui avez cru ! Que vos biens et vos enfants ne vous distraient point de l’Invocation[557] d’Allah. Ceux qui le font sont eux les perdants.
+Ô vous qui avez cru ! Que vos biens et vos enfants ne vous distraient point de l’Invocation[^557] d’Allah. Ceux qui le font sont eux les perdants.
 
-[557] Le mot « dhikr », dans le texte coranique, englobe tous les actes d’obéissance à Allah. C’est pourquoi nous avons préféré l’emploi du mot Invocation, entendu au sens large du terme.
+[^557]: Le mot « dhikr », dans le texte coranique, englobe tous les actes d’obéissance à Allah. C’est pourquoi nous avons préféré l’emploi du mot Invocation, entendu au sens large du terme.
 
 # 5198
 
@@ -21892,9 +21929,9 @@ Croyez donc en Allah, en Son Messager et en la lumière que Nous avons fait desc
 
 # 5208
 
-Le jour où Il vous réunira, Jour du Rassemblement, ce sera le jour de la Déception.[558] Celui qui croit en Allah et fait le bien verra ses mauvaises actions rachetées. (Allah) le fera entrer dans des jardins sous lesquels coulent les rivières, où ils séjourneront à tout jamais. Voilà le succès suprême !
+Le jour où Il vous réunira, Jour du Rassemblement, ce sera le jour de la Déception.[^558] Celui qui croit en Allah et fait le bien verra ses mauvaises actions rachetées. (Allah) le fera entrer dans des jardins sous lesquels coulent les rivières, où ils séjourneront à tout jamais. Voilà le succès suprême !
 
-[558] La désillusion des mécréants, d’une part, sera de constater le supplice qui les attend et de regretter le Paradis qu’ils auront perdu ; celle des croyants est une désillusion positive, mais ils constateront, eux aussi, ce qu’ils auront gagné et ce qu’ils auraient pu perdre, à l’instar des mécréants.
+[^558]: La désillusion des mécréants, d’une part, sera de constater le supplice qui les attend et de regretter le Paradis qu’ils auront perdu ; celle des croyants est une désillusion positive, mais ils constateront, eux aussi, ce qu’ils auront gagné et ce qu’ils auraient pu perdre, à l’instar des mécréants.
 
 # 5209
 
@@ -21934,9 +21971,9 @@ Il Connaît aussi bien les choses insondables que les choses observables, Lui, l
 
 # 5218
 
-Ô Prophète ! Si vous divorcez d’avec les femmes, faites-le (en respectant) leur délai de viduité (‘iddah) dont vous compterez (les jours). Craignez Allah, votre Seigneur, ne les faites pas sortir de leurs maisons ! Qu’elles n’en sortent que si elles ont commis un acte immoral évident. Telles sont les limites d’Allah (hudûd). Celui qui outrepasse les limites d’Allah est injuste envers lui-même. Tu ne peux savoir si, entre-temps, Allah ne fera pas advenir une situation nouvelle.[559]
+Ô Prophète ! Si vous divorcez d’avec les femmes, faites-le (en respectant) leur délai de viduité (‘iddah) dont vous compterez (les jours). Craignez Allah, votre Seigneur, ne les faites pas sortir de leurs maisons ! Qu’elles n’en sortent que si elles ont commis un acte immoral évident. Telles sont les limites d’Allah (hudûd). Celui qui outrepasse les limites d’Allah est injuste envers lui-même. Tu ne peux savoir si, entre-temps, Allah ne fera pas advenir une situation nouvelle.[^559]
 
-[559] Ainsi, la voie à une réconciliation entre les deux époux est toujours possible.
+[^559]: Ainsi, la voie à une réconciliation entre les deux époux est toujours possible.
 
 # 5219
 
@@ -21948,9 +21985,9 @@ et lui dispensera (des biens) d’une manière à laquelle il ne s’attendait p
 
 # 5221
 
-Celles qui ont atteint la ménopause,[560] parmi vos femmes, devront observer, si vous avez des doutes (en comptant les jours de la ‘iddah), une (période) d’attente de trois mois. La même (attente est prescrite) à celles qui n’ont pas encore leurs règles. Quant à celles qui sont enceintes, leur terme de viduité est l’accouchement. Quiconque craint Allah, (Allah) lui rendra les choses plus faciles.
+Celles qui ont atteint la ménopause,[^560] parmi vos femmes, devront observer, si vous avez des doutes (en comptant les jours de la ‘iddah), une (période) d’attente de trois mois. La même (attente est prescrite) à celles qui n’ont pas encore leurs règles. Quant à celles qui sont enceintes, leur terme de viduité est l’accouchement. Quiconque craint Allah, (Allah) lui rendra les choses plus faciles.
 
-[560] Littéralement : celles qui ont désespéré d’avoir leurs menstrues.
+[^560]: Littéralement : celles qui ont désespéré d’avoir leurs menstrues.
 
 # 5222
 
@@ -21966,9 +22003,9 @@ Que le fortuné dépense selon sa fortune ; et que l’homme de condition plus m
 
 # 5225
 
-Combien de cités se sont dressées contre l’ordre de leur Seigneur et de Ses Messagers ! Nous le leur fîmes payer cher,[561] et Nous sévîmes contre elles par un supplice des plus atroces.
+Combien de cités se sont dressées contre l’ordre de leur Seigneur et de Ses Messagers ! Nous le leur fîmes payer cher,[^561] et Nous sévîmes contre elles par un supplice des plus atroces.
 
-[561] Littéralement : Nous leur demandâmes un compte très sévère.
+[^561]: Littéralement : Nous leur demandâmes un compte très sévère.
 
 # 5226
 
@@ -21976,15 +22013,15 @@ Elles goûtèrent alors le péril dû à leur conduite, et leur sort fut la ruin
 
 # 5227
 
-Allah leur a préparé un terrible supplice. Craignez Allah, ô esprits sagaces qui avez cru ! Allah a fait descendre (en révélation) pour vous un Rappel,[562]
+Allah leur a préparé un terrible supplice. Craignez Allah, ô esprits sagaces qui avez cru ! Allah a fait descendre (en révélation) pour vous un Rappel,[^562]
 
-[562] Le Coran.
+[^562]: Le Coran.
 
 # 5228
 
-(et envoyé) un Messager qui vous récite les versets explicites d’Allah, pour faire sortir ceux qui ont cru et ont accompli les bonnes œuvres des ténèbres vers la lumière. (Car) ceux qui croient en Allah et font le bien, (Allah) les fera entrer dans des jardins sous lesquels coulent les rivières, où ils séjourneront à tout jamais. Allah leur[563] dispensera ce qu’il y a de meilleur !
+(et envoyé) un Messager qui vous récite les versets explicites d’Allah, pour faire sortir ceux qui ont cru et ont accompli les bonnes œuvres des ténèbres vers la lumière. (Car) ceux qui croient en Allah et font le bien, (Allah) les fera entrer dans des jardins sous lesquels coulent les rivières, où ils séjourneront à tout jamais. Allah leur[^563] dispensera ce qu’il y a de meilleur !
 
-[563] Au singulier dans le texte coranique.
+[^563]: Au singulier dans le texte coranique.
 
 # 5229
 
@@ -22004,10 +22041,11 @@ Quand le Prophète fit une confidence à l’une de ses épouses, et que celle-c
 
 # 5233
 
-Si vous deux[564] vous vous repentez auprès d’Allah, c’est que vos cœurs ont écouté (la voix de la raison) ; et si vous vous liguez contre lui,[565] (alors sachez qu’) Allah sera Son allié, ainsi que (l’Ange) Gabriel et les meilleurs d’entre les croyants, puis les Anges, après cela, sauront le soutenir.
+Si vous deux[^564] vous vous repentez auprès d’Allah, c’est que vos cœurs ont écouté (la voix de la raison) ; et si vous vous liguez contre lui,[^565] (alors sachez qu’) Allah sera Son allié, ainsi que (l’Ange) Gabriel et les meilleurs d’entre les croyants, puis les Anges, après cela, sauront le soutenir.
 
-[564] La parole est ici adressée aux deux épouses du Prophète (paix et bénédiction d’Allah sur lui) : Aïcha et Hafça.
-[565] Contre le Prophète (paix et bénédiction d’Allah sur lui).
+[^564]: La parole est ici adressée aux deux épouses du Prophète (paix et bénédiction d’Allah sur lui) : Aïcha et Hafça.
+
+[^565]: Contre le Prophète (paix et bénédiction d’Allah sur lui).
 
 # 5234
 
@@ -22131,9 +22169,9 @@ Lequel tiendrait la direction la plus juste, celui qui se traîne, le front à m
 
 # 5264
 
-Dis : « C’est Lui Qui vous a fait être et vous a donné l’ouïe, la vue et la raison.[566] Mais vous êtes bien peu reconnaissants ! »
+Dis : « C’est Lui Qui vous a fait être et vous a donné l’ouïe, la vue et la raison.[^566] Mais vous êtes bien peu reconnaissants ! »
 
-[566] Littéralement : les cœurs.
+[^566]: Littéralement : les cœurs.
 
 # 5265
 
@@ -22149,9 +22187,9 @@ Dis : « Seul Allah en détient la Science, quant à moi, je ne suis là que pou
 
 # 5268
 
-Lorsqu’ils l’auront vu[567] de très près, les mécréants en auront le visage tout blême, et il leur sera dit : « Voici ce que vous appeliez (de vos vœux avec empressement) ! »
+Lorsqu’ils l’auront vu[^567] de très près, les mécréants en auront le visage tout blême, et il leur sera dit : « Voici ce que vous appeliez (de vos vœux avec empressement) ! »
 
-[567] Ils auront vu le supplice promis.
+[^567]: Ils auront vu le supplice promis.
 
 # 5269
 
@@ -22227,9 +22265,9 @@ il dit en entendant réciter Nos versets : « Ce ne sont que fables d’anciens 
 
 # 5287
 
-Nous lui marquerons le nez.[568]
+Nous lui marquerons le nez.[^568]
 
-[568] Littéralement : la trompe, le museau, le mufle.
+[^568]: Littéralement : la trompe, le museau, le mufle.
 
 # 5288
 
@@ -22237,9 +22275,9 @@ Nous les avons éprouvés comme Nous avions autrefois éprouvé les propriétair
 
 # 5289
 
-sans restreindre (leur serment)[569]
+sans restreindre (leur serment)[^569]
 
-[569] En prononçant la formule qui fait dépendre leur projet de la volonté d’Allah : « Si Allah le veut, s’il plaît à Allah, Inch’Allah ».
+[^569]: En prononçant la formule qui fait dépendre leur projet de la volonté d’Allah : « Si Allah le veut, s’il plaît à Allah, Inch’Allah ».
 
 # 5290
 
@@ -22335,9 +22373,9 @@ Ou alors auraient-ils des associés ? Qu’ils les amènent donc, si ce qu’ils
 
 # 5313
 
-Le jour où ils auront à affronter la Grande Peur,[570] ils seront appelés à se prosterner mais ils ne le pourront pas.
+Le jour où ils auront à affronter la Grande Peur,[^570] ils seront appelés à se prosterner mais ils ne le pourront pas.
 
-[570] Littéralement : « le jour où une jambe sera découverte. » C’est une expression signifiant « l’avènement d’une heure grave ».
+[^570]: Littéralement : « le jour où une jambe sera découverte. » C’est une expression signifiant « l’avènement d’une heure grave ».
 
 # 5314
 
@@ -22361,9 +22399,9 @@ Détiendraient-ils les clefs de l’Inconnaissable (ghayb) qui leur permettraien
 
 # 5319
 
-Supporte patiemment le Verdict de ton Seigneur ! Ne sois pas comme l’Homme au Poisson [571] quand, en pleine angoisse, il adressa sa plainte (à Allah).
+Supporte patiemment le Verdict de ton Seigneur ! Ne sois pas comme l’Homme au Poisson [^571] quand, en pleine angoisse, il adressa sa plainte (à Allah).
 
-[571] Jonas (Yûnus).
+[^571]: Jonas (Yûnus).
 
 # 5320
 
@@ -22375,9 +22413,9 @@ Son Seigneur l’élut et le fit du nombre des vertueux.
 
 # 5322
 
-Il s’en faut de peu que les mécréants ne te vrillent de leurs regards quand ils entendent le (Coran).[572] Ils disent alors : « Ce n’est qu’un dément ! »
+Il s’en faut de peu que les mécréants ne te vrillent de leurs regards quand ils entendent le (Coran).[^572] Ils disent alors : « Ce n’est qu’un dément ! »
 
-[572] Littéralement : le Rappel (Dhikr).
+[^572]: Littéralement : le Rappel (Dhikr).
 
 # 5323
 
@@ -22397,9 +22435,9 @@ Et qui te fera jamais savoir ce qu’est l’Heure de Vérité ?
 
 # 5327
 
-Les Thamûd et les ‘Ad avaient traité de mensonge (l’ultime) Fracas.[573]
+Les Thamûd et les ‘Ad avaient traité de mensonge (l’ultime) Fracas.[^573]
 
-[573] Le cataclysme de la fin du monde.
+[^573]: Le cataclysme de la fin du monde.
 
 # 5328
 
@@ -22419,9 +22457,9 @@ En vois-tu encore les moindres traces ?
 
 # 5332
 
-Pharaon, ceux qui l’avaient précédé, et les cités renversées[574], avaient commis des fautes.
+Pharaon, ceux qui l’avaient précédé, et les cités renversées[^574], avaient commis des fautes.
 
-[574] Les villes de Sodome et Gomorrhe.
+[^574]: Les villes de Sodome et Gomorrhe.
 
 # 5333
 
@@ -22545,9 +22583,9 @@ et par ce que vous ne voyez pas,
 
 # 5363
 
-ceci[575] est le propos (transmis) par un Noble Messager,
+ceci[^575] est le propos (transmis) par un Noble Messager,
 
-[575] Le Coran.
+[^575]: Le Coran.
 
 # 5364
 
@@ -22567,9 +22605,9 @@ Si (Muhammad) Nous avait attribué certaines paroles (qui n’étaient pas les N
 
 # 5368
 
-Nous l’aurions saisi en Notre Main Droite,[576]
+Nous l’aurions saisi en Notre Main Droite,[^576]
 
-[576] Formule divine par laquelle Sa Menace se veut intensifiée.
+[^576]: Formule divine par laquelle Sa Menace se veut intensifiée.
 
 # 5369
 
@@ -22609,9 +22647,9 @@ contre les mécréants, et que nul ne saurait repousser,
 
 # 5378
 
-qui viendrait de la part d’Allah, Détenteur des ascensions célestes.[577]
+qui viendrait de la part d’Allah, Détenteur des ascensions célestes.[^577]
 
-[577] C’est ce verset qui donne son titre à cette sourate.
+[^577]: C’est ce verset qui donne son titre à cette sourate.
 
 # 5379
 
@@ -22623,9 +22661,9 @@ Patiente donc, d’une belle patience.
 
 # 5381
 
-Ils le[578] voient bien loin,
+Ils le[^578] voient bien loin,
 
-[578] Le supplice.
+[^578]: Le supplice.
 
 # 5382
 
@@ -22697,9 +22735,9 @@ ceux qui accomplissent assidûment leur Çalât,
 
 # 5399
 
-qui prélèvent sur leurs biens une part déterminée,[579]
+qui prélèvent sur leurs biens une part déterminée,[^579]
 
-[579] La Zakât.
+[^579]: La Zakât.
 
 # 5400
 
@@ -22759,9 +22797,9 @@ Convoiteraient-ils, chacun de son côté, l’accès au Jardin des délices ?
 
 # 5414
 
-Il n’en sera rien. Ils savent de quoi Nous les avons créés.[580]
+Il n’en sera rien. Ils savent de quoi Nous les avons créés.[^580]
 
-[580] Ils espèrent accéder au Paradis tout en sachant que Nous les avons créés d’argile et d’une vulgaire substance aqueuse.
+[^580]: Ils espèrent accéder au Paradis tout en sachant que Nous les avons créés d’argile et d’une vulgaire substance aqueuse.
 
 # 5415
 
@@ -22873,9 +22911,9 @@ Ils ont tramé une grande intrigue.
 
 # 5442
 
-“Ne délaissez point vos divinités, ont-ils enjoint, n’abandonnez point Wadd, Suwâ‛, Yâghûth, Yâ‛ûq et Nasr ”.[581]
+“Ne délaissez point vos divinités, ont-ils enjoint, n’abandonnez point Wadd, Suwâ‛, Yâghûth, Yâ‛ûq et Nasr ”.[^581]
 
-[581] Noms de certaines idoles.
+[^581]: Noms de certaines idoles.
 
 # 5443
 
@@ -22923,9 +22961,9 @@ Mais il y avait ceux, parmi les humains, qui cherchaient refuge auprès des djin
 
 # 5454
 
-Tout comme vous, ils pensaient qu’Allah n’enverrait nul (Messager)[582].
+Tout comme vous, ils pensaient qu’Allah n’enverrait nul (Messager)[^582].
 
-[582] Autre interprétation : « Eux aussi pensaient comme vous qu’Allah ne ressusciterait personne. »
+[^582]: Autre interprétation : « Eux aussi pensaient comme vous qu’Allah ne ressusciterait personne. »
 
 # 5455
 
@@ -23013,9 +23051,9 @@ afin de savoir s’ils ont transmis les Messages de leur Seigneur. Il Cerne (de 
 
 # 5476
 
-Ô toi qui t’emmitoufles dans tes vêtements ![583]
+Ô toi qui t’emmitoufles dans tes vêtements ![^583]
 
-[583] L’Ange Gabriel étant apparu tout à coup au Prophète (paix et bénédiction d’Allah sur lui) dans la grotte de Hirâ’, celui-ci rentra chez lui tremblant de peur. Il s’enveloppa de ses vêtements et demanda à sa femme Khadija de le couvrir.
+[^583]: L’Ange Gabriel étant apparu tout à coup au Prophète (paix et bénédiction d’Allah sur lui) dans la grotte de Hirâ’, celui-ci rentra chez lui tremblant de peur. Il s’enveloppa de ses vêtements et demanda à sa femme Khadija de le couvrir.
 
 # 5477
 
@@ -23055,9 +23093,9 @@ Prends en patience ce qu’ils disent et déserte-les de la désertion la plus s
 
 # 5486
 
-Laisse-Moi avec les contradicteurs,[584] qui sont privilégiés par les biens (de ce monde). Accorde-leur quelque répit.
+Laisse-Moi avec les contradicteurs,[^584] qui sont privilégiés par les biens (de ce monde). Accorde-leur quelque répit.
 
-[584] Autre traduction : les négateurs.
+[^584]: Autre traduction : les négateurs.
 
 # 5487
 
@@ -23137,9 +23175,9 @@ nullement aisé pour les mécréants.
 
 # 5506
 
-Laisse-Moi avec celui que J’ai créé esseulé,[585]
+Laisse-Moi avec celui que J’ai créé esseulé,[^585]
 
-[585] Il s’agit de Al-Walîd Ibn Al-Mughîrah Al-Makhzoumî qui fut du nombre des négateurs. Deux interprétations sont possibles ici : soit celle que nous avons adoptée (le mécréant a été créé solitaire et abandonné) soit la suivante : Laisse-Moi avec celui que J’ai été Seul à créer.
+[^585]: Il s’agit de Al-Walîd Ibn Al-Mughîrah Al-Makhzoumî qui fut du nombre des négateurs. Deux interprétations sont possibles ici : soit celle que nous avons adoptée (le mécréant a été créé solitaire et abandonné) soit la suivante : Laisse-Moi avec celui que J’ai été Seul à créer.
 
 # 5507
 
@@ -23223,9 +23261,9 @@ Nous n’avons désigné, comme gardiens du Feu, que des Anges. Nous ne les avon
 
 # 5527
 
-Que oui ![586] Par la lune !
+Que oui ![^586] Par la lune !
 
-[586] Littéralement : « Que non ! » Il s’agit là d’une interjection qui se produit souvent au début du serment d’Allah.
+[^586]: Littéralement : « Que non ! » Il s’agit là d’une interjection qui se produit souvent au début du serment d’Allah.
 
 # 5528
 
@@ -23337,9 +23375,9 @@ L’homme s’imagine-t-il que Nous ne rassemblerons pas ses os ?
 
 # 5555
 
-Que si ! Nous sommes Capable même de reconstituer tel quel le bout de ses doigts.[587]
+Que si ! Nous sommes Capable même de reconstituer tel quel le bout de ses doigts.[^587]
 
-[587] De toutes les parties du corps, Allah cite ici le bout des doigts comme étant les plus difficiles à refaire. Pourquoi ? L’allusion aux empreintes digitales est évidente. La science contemporaine a démontré que même le clonage ne donnerait pas des empreintes digitales identiques.
+[^587]: De toutes les parties du corps, Allah cite ici le bout des doigts comme étant les plus difficiles à refaire. Pourquoi ? L’allusion aux empreintes digitales est évidente. La science contemporaine a démontré que même le clonage ne donnerait pas des empreintes digitales identiques.
 
 # 5556
 
@@ -23387,9 +23425,9 @@ quand bien même il invoquerait ses excuses.
 
 # 5567
 
-Ne le[588] tourne pas (plusieurs fois) dans ta langue, pressé que tu es de le retenir.
+Ne le[^588] tourne pas (plusieurs fois) dans ta langue, pressé que tu es de le retenir.
 
-[588] Le Coran. La parole est ici adressée à Muhammad (paix et bénédiction d’Allah sur lui).
+[^588]: Le Coran. La parole est ici adressée à Muhammad (paix et bénédiction d’Allah sur lui).
 
 # 5568
 
@@ -23521,9 +23559,9 @@ Ils donnaient la nourriture, qui leur était pourtant chère, au pauvre, à l’
 
 # 5600
 
-(et ils disaient) : « Nous ne vous donnons à manger que pour obtenir l’agrément d’Allah.[589] Nous ne voulons de vous ni récompense ni reconnaissance.
+(et ils disaient) : « Nous ne vous donnons à manger que pour obtenir l’agrément d’Allah.[^589] Nous ne voulons de vous ni récompense ni reconnaissance.
 
-[589] Littéralement : pour le Visage d’Allah.
+[^589]: Littéralement : pour le Visage d’Allah.
 
 # 5601
 
@@ -24163,15 +24201,15 @@ Il a froncé les sourcils et s’est détourné,
 
 # 5760
 
-parce que l’aveugle est venu vers lui (lui parler).[591]
+parce que l’aveugle est venu vers lui (lui parler).[^591]
 
-[591] Allusion à l’aveugle Ibn Umm Maktûm qui était venu trouver le Prophète (paix et bénédiction d’Allah sur lui) pendant qu’il discutait avec des personnages importants de La Mecque. Gêné par cette irruption inopinée, le Prophète fronça les sourcils et ne cacha pas sa contrariété. Allah le lui a reproché dans cette sourate.
+[^591]: Allusion à l’aveugle Ibn Umm Maktûm qui était venu trouver le Prophète (paix et bénédiction d’Allah sur lui) pendant qu’il discutait avec des personnages importants de La Mecque. Gêné par cette irruption inopinée, le Prophète fronça les sourcils et ne cacha pas sa contrariété. Allah le lui a reproché dans cette sourate.
 
 # 5761
 
-Qui te dit qu’il n’allait pas se purifier ?[592]
+Qui te dit qu’il n’allait pas se purifier ?[^592]
 
-[592] Se convertir à la foi musulmane.
+[^592]: Se convertir à la foi musulmane.
 
 # 5762
 
@@ -24219,9 +24257,9 @@ S’en souvienne qui voudra.
 
 # 5773
 
-entre les mains d’émissaires[593]
+entre les mains d’émissaires[^593]
 
-[593] Les Anges.
+[^593]: Les Anges.
 
 # 5774
 
@@ -24405,10 +24443,11 @@ par l’aurore quand elle respire,
 
 # 5819
 
-que c’est la parole[594] d’un noble émissaire,[595]
+que c’est la parole[^594] d’un noble émissaire,[^595]
 
-[594] Le Coran.
-[595] Nous traduisons ici par « émissaire » et non par « Messager » car il s’agit de l’Ange Gabriel et non du Prophète (paix et bénédiction d’Allah sur lui).
+[^594]: Le Coran.
+
+[^595]: Nous traduisons ici par « émissaire » et non par « Messager » car il s’agit de l’Ange Gabriel et non du Prophète (paix et bénédiction d’Allah sur lui).
 
 # 5820
 
@@ -24416,9 +24455,9 @@ fort de l’estime du Détenteur du Trône,
 
 # 5821
 
-écouté[596] et loyal.
+écouté[^596] et loyal.
 
-[596] L’Ange Gabriel est obéi des autres Anges.
+[^596]: L’Ange Gabriel est obéi des autres Anges.
 
 # 5822
 
@@ -24494,9 +24533,9 @@ Des gardiens sont là à vous surveiller,
 
 # 5840
 
-qui sont de nobles scripteurs,[597]
+qui sont de nobles scripteurs,[^597]
 
-[597] Sur le choix de ce mot, au lieu de « scribe » ou « écrivain », voir la note 105.
+[^597]: Sur le choix de ce mot, au lieu de « scribe » ou « écrivain », voir la note 105.
 
 # 5841
 
@@ -24612,9 +24651,9 @@ Un Livre (où les noms des vertueux sont) définitivement inventoriés.
 
 # 5869
 
-En seront témoins les rapprochés (d’Allah)[598]
+En seront témoins les rapprochés (d’Allah)[^598]
 
-[598] Les Anges.
+[^598]: Les Anges.
 
 # 5870
 
@@ -24642,9 +24681,9 @@ Son cachet sera de musc : voilà (un objectif) pour ceux qui voudraient rivalise
 
 # 5876
 
-source dont boivent les privilégiés.[599]
+source dont boivent les privilégiés.[^599]
 
-[599] Littéralement : les rapprochés. Si nous avons traduit ainsi, c’est pour qu’il n’y ait pas de confusion avec le sens du même mot utilisé au verset 21 (voir la note précédente). En effet, cette fois il ne s’agit pas des Anges mais des hommes vertueux, les hôtes éternels du Paradis.
+[^599]: Littéralement : les rapprochés. Si nous avons traduit ainsi, c’est pour qu’il n’y ait pas de confusion avec le sens du même mot utilisé au verset 21 (voir la note précédente). En effet, cette fois il ne s’agit pas des Anges mais des hommes vertueux, les hôtes éternels du Paradis.
 
 # 5877
 
@@ -24760,9 +24799,9 @@ Pourquoi donc ne croient-ils pas ?
 
 # 5905
 
-Et quand le Coran leur est lu ne se prosternent-ils pas ?[600]
+Et quand le Coran leur est lu ne se prosternent-ils pas ?[^600]
 
-[600] Une prosternation est recommandée après la lecture de ce verset.
+[^600]: Une prosternation est recommandée après la lecture de ce verset.
 
 # 5906
 
@@ -24794,9 +24833,9 @@ Par le témoin et son témoignage !
 
 # 5913
 
-Mort aux gens de la tranchée très longue (Al-Ukhdûd) ![601]
+Mort aux gens de la tranchée très longue (Al-Ukhdûd) ![^601]
 
-[601] Anciennement, des Arabes chrétiens du Yémen furent appelés à abjurer leur foi mais refusèrent. Ils furent alors jetés dans ce fossé et brûlés vifs.
+[^601]: Anciennement, des Arabes chrétiens du Yémen furent appelés à abjurer leur foi mais refusèrent. Ils furent alors jetés dans ce fossé et brûlés vifs.
 
 # 5914
 
@@ -24836,9 +24875,9 @@ C’est Lui Qui initie (la création) puis la recommence.
 
 # 5923
 
-C’est Lui l’Absoluteur, plein de Dilection,[602]
+C’est Lui l’Absoluteur, plein de Dilection,[^602]
 
-[602] Terme qui, dans le vocabulaire religieux, signifie « affection ». Le Grand Robert signale que le mot s’emploie naturellement à propos de Dieu. Il cite comme exemple l’énoncé suivant : « La dilection de Dieu pour Ses créatures. »
+[^602]: Terme qui, dans le vocabulaire religieux, signifie « affection ». Le Grand Robert signale que le mot s’emploie naturellement à propos de Dieu. Il cite comme exemple l’énoncé suivant : « La dilection de Dieu pour Ses créatures. »
 
 # 5924
 
@@ -24922,9 +24961,9 @@ Par la terre qui se fend (quand les graines viennent à pousser) !
 
 # 5944
 
-C’est là, certes, une parole décisive,[603]
+C’est là, certes, une parole décisive,[^603]
 
-[603] Cette parole, c’est le Coran.
+[^603]: Cette parole, c’est le Coran.
 
 # 5945
 
@@ -25040,9 +25079,9 @@ et boiront à une source d’eau bouillante.
 
 # 5973
 
-Ils n’auront pour toute nourriture que du Dhari‘,[604]
+Ils n’auront pour toute nourriture que du Dhari‘,[^604]
 
-[604] Plante hérissée d’épines.
+[^604]: Plante hérissée d’épines.
 
 # 5974
 
@@ -25246,9 +25285,9 @@ Entre dans Mon Paradis !»
 
 # 6024
 
-J’en jure par cette cité,[605]
+J’en jure par cette cité,[^605]
 
-[605] La Mecque.
+[^605]: La Mecque.
 
 # 6025
 
@@ -25256,9 +25295,9 @@ où il t’est licite (de combattre tes ennemis) !
 
 # 6026
 
-Par le primogéniteur[606] et ce qu’il a engendré !
+Par le primogéniteur[^606] et ce qu’il a engendré !
 
-[606] L’une des interprétations de cette expression coranique est, justement: Adam et ses descendants.
+[^606]: L’une des interprétations de cette expression coranique est, justement: Adam et ses descendants.
 
 # 6027
 
@@ -25290,9 +25329,9 @@ Ne lui avons-Nous pas montré les deux voies ?
 
 # 6034
 
-Or, il n’a pas osé affronter la voie pentue.[607]
+Or, il n’a pas osé affronter la voie pentue.[^607]
 
-[607] La voie pentue est l’une des deux voies, la plus facile étant celle du mal, et la plus difficile étant celle du bien.
+[^607]: La voie pentue est l’une des deux voies, la plus facile étant celle du mal, et la plus difficile étant celle du bien.
 
 # 6035
 
@@ -25348,9 +25387,9 @@ Par la nuit quand elle le voile !
 
 # 6048
 
-Par le ciel et ce qui[608] l’a bâti !
+Par le ciel et ce qui[^608] l’a bâti !
 
-[608] Deux interprétations sont possibles : le pronom relatif renvoie ici soit au Créateur soit à la création. On peut faire la même remarque à propos des versets 6 et 7.
+[^608]: Deux interprétations sont possibles : le pronom relatif renvoie ici soit au Créateur soit à la création. On peut faire la même remarque à propos des versets 6 et 7.
 
 # 6049
 
@@ -25402,9 +25441,9 @@ Par le jour quand il est dans tout son éclat !
 
 # 6061
 
-Par ce qui[609] a créé le mâle et la femelle !
+Par ce qui[^609] a créé le mâle et la femelle !
 
-[609] Sur la valeur de ce pronom relatif, voir la note précédente, qui renvoyait aux versets 5, 6 et 7 de la sourate Ach-Chams.
+[^609]: Sur la valeur de ce pronom relatif, voir la note précédente, qui renvoyait aux versets 5, 6 et 7 de la sourate Ach-Chams.
 
 # 6062
 
@@ -25472,9 +25511,9 @@ et ne le fait point pour rendre à quelqu’un la dette d’un bienfait,
 
 # 6078
 
-mais pour être agréable à son Seigneur,[610] l’Altissime.
+mais pour être agréable à son Seigneur,[^610] l’Altissime.
 
-[610] Littéralement : pour le Visage d’Allah : Wajhillah. Voir aussi le verset 272 de la sourate Al-Baqarah.
+[^610]: Littéralement : pour le Visage d’Allah : Wajhillah. Voir aussi le verset 272 de la sourate Al-Baqarah.
 
 # 6079
 
@@ -25494,9 +25533,9 @@ Ton Seigneur ne t’a point délaissé, ni ne t’a haï.
 
 # 6083
 
-Le monde dernier est pour toi meilleur que le premier.[611]
+Le monde dernier est pour toi meilleur que le premier.[^611]
 
-[611] Le monde dernier : l’autre monde, l’au-delà ; le monde premier : le bas monde, l’ici-bas.
+[^611]: Le monde dernier : l’autre monde, l’au-delà ; le monde premier : le bas monde, l’ici-bas.
 
 # 6084
 
@@ -25568,9 +25607,9 @@ Par le mont Sinaï !
 
 # 6101
 
-Par cette cité[612] si sûre !
+Par cette cité[^612] si sûre !
 
-[612] Il s’agit de La Mecque.
+[^612]: Il s’agit de La Mecque.
 
 # 6102
 
@@ -25666,9 +25705,9 @@ Nous ferons appel aux gardiens (de l’Enfer).
 
 # 6125
 
-Non ! Ne lui obéis pas ! Prosterne-toi et rapproche-toi (d’Allah) ![613]
+Non ! Ne lui obéis pas ! Prosterne-toi et rapproche-toi (d’Allah) ![^613]
 
-[613] Une prosternation est recommandée après la lecture de ce verset.
+[^613]: Une prosternation est recommandée après la lecture de ce verset.
 
 # 6126
 
@@ -25684,10 +25723,11 @@ La nuit du Destin vaut mieux que mille mois.
 
 # 6129
 
-En cette nuit, descendent les Anges et l’Esprit[614] avec la permission de leur Seigneur et avec les ordres pour toutes choses.[615]
+En cette nuit, descendent les Anges et l’Esprit[^614] avec la permission de leur Seigneur et avec les ordres pour toutes choses.[^615]
 
-[614] L’Ange Gabriel.
-[615] En cette nuit, les Anges descendent avec les ordres arrêtés par Allah pour l’année à venir.
+[^614]: L’Ange Gabriel.
+
+[^615]: En cette nuit, les Anges descendent avec les ordres arrêtés par Allah pour l’année à venir.
 
 # 6130
 
@@ -25747,9 +25787,9 @@ d’après ce que ton Seigneur lui aura ordonné.
 
 # 6144
 
-Ce jour-là, les hommes sortiront par groupes épars pour répondre de leurs œuvres.[616]
+Ce jour-là, les hommes sortiront par groupes épars pour répondre de leurs œuvres.[^616]
 
-[616] Littéralement : pour que leurs œuvres leur soient montrées.
+[^616]: Littéralement : pour que leurs œuvres leur soient montrées.
 
 # 6145
 
@@ -25829,9 +25869,9 @@ Quant à celui dont les (œuvres) seront lourdes à la balance,
 
 # 6164
 
-il aura une vie agréable,[617]
+il aura une vie agréable,[^617]
 
-[617] L’adjectif est employé ici dans son sens premier : une vie qu’il agrée, dont il est satisfait.
+[^617]: L’adjectif est employé ici dans son sens premier : une vie qu’il agrée, dont il est satisfait.
 
 # 6165
 
@@ -25907,9 +25947,9 @@ pensant que ses biens le rendront éternel.
 
 # 6183
 
-Que non ! Il sera précipité dans la Ḥutamah. [618]
+Que non ! Il sera précipité dans la Ḥutamah. [^618]
 
-[618] Du trilitère arabe « ḥatama » : détruire, briser. La Ḥutamah est l’un des noms de l’Enfer : tout ce qui y est précipité est, justement, brisé.
+[^618]: Du trilitère arabe « ḥatama » : détruire, briser. La Ḥutamah est l’un des noms de l’Enfer : tout ce qui y est précipité est, justement, brisé.
 
 # 6184
 
@@ -25961,9 +26001,9 @@ Pour les bienfaits de leurs voyages d’hiver et d’été,
 
 # 6196
 
-qu’ils adorent donc le Seigneur de cette Maison,[619]
+qu’ils adorent donc le Seigneur de cette Maison,[^619]
 
-[619] La Kaâba.
+[^619]: La Kaâba.
 
 # 6197
 
@@ -25999,9 +26039,9 @@ et s’abstiennent de prêter (à autrui) le moindre ustensile.
 
 # 6205
 
-Nous t’avons certes donné un Fleuve d’Abondance.[620]
+Nous t’avons certes donné un Fleuve d’Abondance.[^620]
 
-[620] Cette traduction a le mérite de rendre compte des deux sens du mot « kawthar » : abondance tout court dans ce bas monde, (dans ce cas l’expression « fleuve d’abondance » serait une hyperbole par métaphore, comme dans l’expression « un fleuve d’idées » ou l’expression « corne d’abondance »), et fleuve qui en porte le nom au Paradis.
+[^620]: Cette traduction a le mérite de rendre compte des deux sens du mot « kawthar » : abondance tout court dans ce bas monde, (dans ce cas l’expression « fleuve d’abondance » serait une hyperbole par métaphore, comme dans l’expression « un fleuve d’idées » ou l’expression « corne d’abondance »), et fleuve qui en porte le nom au Paradis.
 
 # 6206
 
@@ -26021,9 +26061,9 @@ Je n’adore point ce que vous adorez.
 
 # 6210
 
-Pas plus que vous n’allez adorer ce que[621] j’adore.
+Pas plus que vous n’allez adorer ce que[^621] j’adore.
 
-[621] Le pronom relatif, bien que renvoyant à un absolu et à un abstrait grammaticaux, se rapporte, en fait, à Allah Qui, Lui, est l’Absolu et l’Abstraction suprêmes.
+[^621]: Le pronom relatif, bien que renvoyant à un absolu et à un abstrait grammaticaux, se rapporte, en fait, à Allah Qui, Lui, est l’Absolu et l’Abstraction suprêmes.
 
 # 6211
 
@@ -26075,9 +26115,9 @@ Dis : « Il est Allah, l’Un.
 
 # 6223
 
-Allah, le Primultime.[622]
+Allah, le Primultime.[^622]
 
-[622] Nous recourons à ce néologisme pour condenser le maximum de nuances exprimées par le seul attribut arabe « Aç-Çamad »الصمد : le premier et le dernier à être imploré. Le premier à être et le dernier à rester (primus, ultimus).
+[^622]: Nous recourons à ce néologisme pour condenser le maximum de nuances exprimées par le seul attribut arabe « Aç-Çamad »الصمد : le premier et le dernier à être imploré. Le premier à être et le dernier à rester (primus, ultimus).
 
 # 6224
 
@@ -26129,7 +26169,7 @@ qui susurre le mal dans les cœurs des hommes,
 
 # 6236
 
-qu’il soit (quant à lui) djinn ou homme. »[623]
+qu’il soit (quant à lui) djinn ou homme. »[^623]
 
-[623] Autre lecture: « qu’ils soient djinns ou hommes », en renvoyant aux « tentés » (parmi les hommes et les djinns) plutôt qu’au « tentateur » (Satan).
+[^623]: Autre lecture: « qu’ils soient djinns ou hommes », en renvoyant aux « tentés » (parmi les hommes et les djinns) plutôt qu’au « tentateur » (Satan).
 

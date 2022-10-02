@@ -22,9 +22,9 @@ Yang Maha Pengasih, Maha Penyayang,
 
 # 4
 
-Pemilik hari pembalasan.1)
+Pemilik hari pembalasan.[^1]
 
-*1) Yaumiddīn (hari pembalasan), hari waktu manusia menerima pembalasan amalnya, baik atau buruk. Disebut juga yaumul qiyāmah, yaumul hisab dan sebagainya.
+[^1]: Yaumiddīn (hari pembalasan), hari waktu manusia menerima pembalasan amalnya, baik atau buruk. Disebut juga yaumul qiyāmah, yaumul hisab dan sebagainya.
 
 # 5
 
@@ -32,39 +32,39 @@ Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pert
 
 # 6
 
-Tunjukilah kami jalan yang lurus,2)
+Tunjukilah kami jalan yang lurus,[^2]
 
-*2) Jalan yang lurus, yaitu jalan hidup yang benar, yang dapat membuat bahagia di dunia dan di akhirat.
+[^2]: Jalan yang lurus, yaitu jalan hidup yang benar, yang dapat membuat bahagia di dunia dan di akhirat.
 
 # 7
 
-(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat.3)
+(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat.[^3]
 
-*3) Mereka yang dimurkai, adalah mereka yang sengaja menentang ajaran Islam. Mereka yang sesat adalah mereka yang sengaja mengambil jalan lain selain ajaran Islam.
+[^3]: Mereka yang dimurkai, adalah mereka yang sengaja menentang ajaran Islam. Mereka yang sesat adalah mereka yang sengaja mengambil jalan lain selain ajaran Islam.
 
 # 8
 
-Alif Lām Mīm.4)
+Alif Lām Mīm.[^4]
 
-*4) Beberapa surah dalam Al-Qur`an dibuka dengan huruf abjad seperti Alif Lām Mīm, Alif Lām Rā`, dan sebagainya. Makna huruf-huruf itu hanya Allah yang tahu. Ada yang berpendapat bahwa huruf-huruf itu adalah nama surah dan ada pula yang berpendapat bahwa gunanya untuk menarik perhatian, atau untuk mengisyaratkan bahwa Al-Qur`an itu diturunkan dalam bahasa Arab yang tersusun dari huruf-huruf abjad tersebut.
+[^4]: Beberapa surah dalam Al-Qur`an dibuka dengan huruf abjad seperti Alif Lām Mīm, Alif Lām Rā`, dan sebagainya. Makna huruf-huruf itu hanya Allah yang tahu. Ada yang berpendapat bahwa huruf-huruf itu adalah nama surah dan ada pula yang berpendapat bahwa gunanya untuk menarik perhatian, atau untuk mengisyaratkan bahwa Al-Qur`an itu diturunkan dalam bahasa Arab yang tersusun dari huruf-huruf abjad tersebut.
 
 # 9
 
-Kitab (Al-Qur`an) ini tidak ada keraguan padanya; petunjuk bagi mereka yang bertakwa,5)
+Kitab (Al-Qur`an) ini tidak ada keraguan padanya; petunjuk bagi mereka yang bertakwa,[^5]
 
-*5) Takwa yaitu mengikuti segala perintah Allah dan menjauhi segala larangan-Nya.
+[^5]: Takwa yaitu mengikuti segala perintah Allah dan menjauhi segala larangan-Nya.
 
 # 10
 
-(Yaitu) mereka yang beriman kepada yang gaib, melaksanakan salat, dan menginfakkan6) sebagian rezeki yang Kami berikan kepada mereka,
+(Yaitu) mereka yang beriman kepada yang gaib, melaksanakan salat, dan menginfakkan[^6] sebagian rezeki yang Kami berikan kepada mereka,
 
-*6) Pengertian menginfakkan harta di jalan Allah meliputi belanja untuk kepentingan jihad, pembangunan perguruan, rumah sakit, riset ilmiah dan lain-lain.
+[^6]: Pengertian menginfakkan harta di jalan Allah meliputi belanja untuk kepentingan jihad, pembangunan perguruan, rumah sakit, riset ilmiah dan lain-lain.
 
 # 11
 
-dan mereka beriman kepada (Al-Qur`an) yang diturunkan kepadamu (Muhammad) dan (kitab-kitab) yang telah diturunkan sebelum engkau,7) dan mereka yakin akan adanya akhirat.
+dan mereka beriman kepada (Al-Qur`an) yang diturunkan kepadamu (Muhammad) dan (kitab-kitab) yang telah diturunkan sebelum engkau,[^7] dan mereka yakin akan adanya akhirat.
 
-*7) Yang diturunkan kepada Nabi-nabi sebelum Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- ialah: Taurat, Zabur, Injil dan Suḥuf (lembaran-lembaran) yang tidak seperti Kitab.
+[^7]: Yang diturunkan kepada Nabi-nabi sebelum Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- ialah: Taurat, Zabur, Injil dan Suḥuf (lembaran-lembaran) yang tidak seperti Kitab.
 
 # 12
 
@@ -72,15 +72,15 @@ Merekalah yang mendapat petunjuk dari Tuhannya, dan mereka itulah orang-orang ya
 
 # 13
 
-Sesungguhnya orang-orang kafir,8) sama saja bagi mereka, engkau (Muhammad) beri peringatan atau tidak engkau beri peringatan, mereka tidak akan beriman.
+Sesungguhnya orang-orang kafir,[^8] sama saja bagi mereka, engkau (Muhammad) beri peringatan atau tidak engkau beri peringatan, mereka tidak akan beriman.
 
-*8) Kafir, jamaknya kuffār, yaitu orang yang tidak percaya kepada Allah, Rasul-rasul-Nya, Malaikat-malaikat-Nya, Kitab-kitab-Nya dan hari Kiamat.
+[^8]: Kafir, jamaknya kuffār, yaitu orang yang tidak percaya kepada Allah, Rasul-rasul-Nya, Malaikat-malaikat-Nya, Kitab-kitab-Nya dan hari Kiamat.
 
 # 14
 
-Allah telah mengunci hati dan pendengaran mereka,9) penglihatan mereka telah tertutup, dan mereka akan mendapat azab yang berat.
+Allah telah mengunci hati dan pendengaran mereka,[^9] penglihatan mereka telah tertutup, dan mereka akan mendapat azab yang berat.
 
-*9) Sehingga nasihat atau hidayah tersebut tidak bisa masuk ke dalam hati mereka.
+[^9]: Sehingga nasihat atau hidayah tersebut tidak bisa masuk ke dalam hati mereka.
 
 # 15
 
@@ -92,15 +92,15 @@ Mereka menipu Allah dan orang-orang yang beriman, padahal mereka hanyalah menipu
 
 # 17
 
-Dalam hati mereka terdapat penyakit,10) lalu Allah menambah penyakitnya itu; dan mereka mendapat azab yang pedih, karena mereka berdusta.
+Dalam hati mereka terdapat penyakit,[^10] lalu Allah menambah penyakitnya itu; dan mereka mendapat azab yang pedih, karena mereka berdusta.
 
-*10) Penyakit hati misalnya ragu dan tidak yakin akan kebenaran, munafik dan tidak beriman.
+[^10]: Penyakit hati misalnya ragu dan tidak yakin akan kebenaran, munafik dan tidak beriman.
 
 # 18
 
-Dan apabila dikatakan kepada mereka, "Janganlah berbuat kerusakan di bumi!"11) Mereka menjawab, "Sesungguhnya kami justru orang-orang yang melakukan perbaikan."
+Dan apabila dikatakan kepada mereka, "Janganlah berbuat kerusakan di bumi!"[^11] Mereka menjawab, "Sesungguhnya kami justru orang-orang yang melakukan perbaikan."
 
-*11) Melanggar nilai-nilai yang ditetapkan agama akan mengakibatkan alam ini rusak bahkan hancur.
+[^11]: Melanggar nilai-nilai yang ditetapkan agama akan mengakibatkan alam ini rusak bahkan hancur.
 
 # 19
 
@@ -132,9 +132,9 @@ Mereka tuli, bisu dan buta, sehingga mereka tidak dapat kembali.
 
 # 26
 
-Atau seperti (orang yang ditimpa) hujan lebat dari langit, yang disertai kegelapan, petir dan kilat. Mereka menyumbat telinga dengan jari-jarinya, (menghindari) suara petir itu karena takut mati. Allah meliputi orang-orang yang kafir.12)
+Atau seperti (orang yang ditimpa) hujan lebat dari langit, yang disertai kegelapan, petir dan kilat. Mereka menyumbat telinga dengan jari-jarinya, (menghindari) suara petir itu karena takut mati. Allah meliputi orang-orang yang kafir.[^12]
 
-*12) Pengetahuan dan kekuasaan Allah meliputi orang-orang kafir.
+[^12]: Pengetahuan dan kekuasaan Allah meliputi orang-orang kafir.
 
 # 27
 
@@ -162,9 +162,11 @@ Dan sampaikanlah kabar gembira kepada orang-orang yang beriman dan berbuat kebaj
 
 # 33
 
-Sesungguhnya Allah tidak segan membuat perumpamaan seekor nyamuk atau yang lebih kecil dari itu. Adapun orang-orang yang beriman, mereka tahu bahwa itu kebenaran dari Tuhan. Tetapi mereka yang kafir berkata, "Apa maksud Allah dengan perumpamaan ini?" Dengan (perumpamaan) itu banyak orang yang disesatkan-Nya,13) dan dengan itu banyak (pula) orang yang diberi-Nya petunjuk. Tetapi tidak ada yang Dia sesatkan dengan (perumpamaan) itu selain orang-orang fasik,14)
+Sesungguhnya Allah tidak segan membuat perumpamaan seekor nyamuk atau yang lebih kecil dari itu. Adapun orang-orang yang beriman, mereka tahu bahwa itu kebenaran dari Tuhan. Tetapi mereka yang kafir berkata, "Apa maksud Allah dengan perumpamaan ini?" Dengan (perumpamaan) itu banyak orang yang disesatkan-Nya,[^13] dan dengan itu banyak (pula) orang yang diberi-Nya petunjuk. Tetapi tidak ada yang Dia sesatkan dengan (perumpamaan) itu selain orang-orang fasik,[^14]
 
-*13) Orang itu sesat karena keingkarannya dan tidak mau memahami petunjuk-petunjuk Allah. Dalam ayat ini, karena mereka itu ingkar, dan tidak mau memahami apa sebabnya Allah menjadikan nyamuk sebagai perumpamaan, maka mereka itu menjadi sesat. *14) Orang fasik ialah orang yang melanggar ketentuan-ketentuan agama, baik berupa ucapan maupun perbuatan.
+[^13]: Orang itu sesat karena keingkarannya dan tidak mau memahami petunjuk-petunjuk Allah. Dalam ayat ini, karena mereka itu ingkar, dan tidak mau memahami apa sebabnya Allah menjadikan nyamuk sebagai perumpamaan, maka mereka itu menjadi sesat. 
+
+[^14]: Orang fasik ialah orang yang melanggar ketentuan-ketentuan agama, baik berupa ucapan maupun perbuatan.
 
 # 34
 
@@ -180,9 +182,9 @@ Dialah (Allah) yang menciptakan segala apa yang ada di bumi untuk kalian kemudia
 
 # 37
 
-Dan (ingatlah) ketika Tuhanmu berfirman kepada para Malaikat, "Aku hendak menjadikan khalifah15) di bumi". Mereka berkata, "Apakah Engkau hendak menjadikan orang yang merusak dan menumpahkan darah di sana, sedangkan kami bertasbih memuji-Mu dan menyucikan nama-Mu?" Dia berfirman, "Sungguh, Aku mengetahui apa yang tidak kalian ketahui."
+Dan (ingatlah) ketika Tuhanmu berfirman kepada para Malaikat, "Aku hendak menjadikan khalifah[^15] di bumi". Mereka berkata, "Apakah Engkau hendak menjadikan orang yang merusak dan menumpahkan darah di sana, sedangkan kami bertasbih memuji-Mu dan menyucikan nama-Mu?" Dia berfirman, "Sungguh, Aku mengetahui apa yang tidak kalian ketahui."
 
-*15) Khalifah bermakna pengganti, pemimpin atau penguasa.
+[^15]: Khalifah bermakna pengganti, pemimpin atau penguasa.
 
 # 38
 
@@ -198,27 +200,29 @@ Dia (Allah) berfirman, "Wahai Adam! Beritahukanlah kepada mereka nama-nama itu!"
 
 # 41
 
-Dan (ingatlah) ketika Kami berfirman kepada para malaikat, "Sujudlah kalian kepada Adam!" Maka mereka pun sujud kecuali Iblis.16) Ia menolak dan menyombongkan diri, dan ia termasuk golongan yang kafir.
+Dan (ingatlah) ketika Kami berfirman kepada para malaikat, "Sujudlah kalian kepada Adam!" Maka mereka pun sujud kecuali Iblis.[^16] Ia menolak dan menyombongkan diri, dan ia termasuk golongan yang kafir.
 
-*16) Iblis termasuk kelompok jin dan termasuk yang diperintah untuk sujud.
+[^16]: Iblis termasuk kelompok jin dan termasuk yang diperintah untuk sujud.
 
 # 42
 
-Dan Kami berfirman: "Wahai Adam! Tinggallah engkau dan istrimu di dalam surga, dan makanlah dengan nikmat (berbagai makanan) yang ada di sana sesukamu. (Tetapi) janganlah kamu dekati pohon ini,17) nanti kamu termasuk orang-orang yang zalim!"18)
+Dan Kami berfirman: "Wahai Adam! Tinggallah engkau dan istrimu di dalam surga, dan makanlah dengan nikmat (berbagai makanan) yang ada di sana sesukamu. (Tetapi) janganlah kamu dekati pohon ini,[^17] nanti kamu termasuk orang-orang yang zalim!"[^18]
 
-*17) Menurut setan, siapa yang memakan buah pohon itu, akan kekal di dalam surga (lihat surah Ṭāhā (20): 120). 18) Zalim artinya aniaya. Orang yang zalim ialah orang yang melakukan perbuatan aniaya, yang merugikan dirinya sendiri maupun orang lain.
+[^17]: Menurut setan, siapa yang memakan buah pohon itu, akan kekal di dalam surga (lihat surah Ṭāhā (20): 120)
+
+[^18]: Zalim artinya aniaya. Orang yang zalim ialah orang yang melakukan perbuatan aniaya, yang merugikan dirinya sendiri maupun orang lain.
 
 # 43
 
-Lalu setan menggelincirkan keduanya dari surga19) sehingga keduanya dikeluarkan dari (segala kenikmatan) ketika keduanya di sana (surga). Dan Kami berfirman, "Turunlah kalian! Sebagian kalian menjadi musuh bagi yang lain. Dan bagi kalian ada tempat tinggal dan kesenangan di bumi sampai waktu yang ditentukan."
+Lalu setan menggelincirkan keduanya dari surga[^19] sehingga keduanya dikeluarkan dari (segala kenikmatan) ketika keduanya di sana (surga). Dan Kami berfirman, "Turunlah kalian! Sebagian kalian menjadi musuh bagi yang lain. Dan bagi kalian ada tempat tinggal dan kesenangan di bumi sampai waktu yang ditentukan."
 
-*19) Nabi Adam -'alaihissalām- dan Hawa memakan buah pohon yang dilarang itu, yang mengakibatkan mereka diusir Allah dari surga dan diturunkan ke dunia.
+[^19]: Nabi Adam -'alaihissalām- dan Hawa memakan buah pohon yang dilarang itu, yang mengakibatkan mereka diusir Allah dari surga dan diturunkan ke dunia.
 
 # 44
 
-Kemudian Adam menerima beberapa kalimat20) dari Tuhannya, lalu Dia pun menerima tobatnya. Sungguh, Allah Maha Penerima tobat, Maha Penyayang.
+Kemudian Adam menerima beberapa kalimat[^20] dari Tuhannya, lalu Dia pun menerima tobatnya. Sungguh, Allah Maha Penerima tobat, Maha Penyayang.
 
-*20) Kalimat itu menurut sebagian mufasir adalah ucapan untuk memohon ampunan (tobat).
+[^20]: Kalimat itu menurut sebagian mufasir adalah ucapan untuk memohon ampunan (tobat).
 
 # 45
 
@@ -230,9 +234,11 @@ Adapun orang-orang yang kafir dan mendustakan ayat-ayat Kami, mereka itu penghun
 
 # 47
 
-Wahai Bani Israil!21) Ingatlah nikmat-Ku yang telah Aku berikan kepadamu. Dan penuhilah janjimu kepada-Ku,22) niscaya Aku penuhi janji-Ku kepadamu, dan takutlah kepada-Ku saja.
+Wahai Bani Israil![^21] Ingatlah nikmat-Ku yang telah Aku berikan kepadamu. Dan penuhilah janjimu kepada-Ku,[^22] niscaya Aku penuhi janji-Ku kepadamu, dan takutlah kepada-Ku saja.
 
-*21) Israil adalah sebutan bagi Nabi Yakub -'alaihissalām-. Bani Israil adalah keturunan Nabi Yakub -'alaihissalām- dan sekarang dikenal dengan nama bangsa Yahudi. 22) Di antara janji Bani Israil kepada Allah ialah hanya menyembah Allah, tidak mengadakan tandingan bagi Allah, serta beriman kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- sebagaimana yang tersebut di dalam Taurat.
+[^21]: Israil adalah sebutan bagi Nabi Yakub -'alaihissalām-. Bani Israil adalah keturunan Nabi Yakub -'alaihissalām- dan sekarang dikenal dengan nama bangsa Yahudi
+
+[^22]: Di antara janji Bani Israil kepada Allah ialah hanya menyembah Allah, tidak mengadakan tandingan bagi Allah, serta beriman kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- sebagaimana yang tersebut di dalam Taurat.
 
 # 48
 
@@ -240,9 +246,9 @@ Dan berimanlah kalian kepada apa (Al-Qur`an) yang telah Aku turunkan, yang membe
 
 # 49
 
-Dan janganlah kalian campuradukkan kebenaran dengan kebatilan23) dan (janganlah) kalian sembunyikan kebenaran, sedangkan kalian mengetahuinya.
+Dan janganlah kalian campuradukkan kebenaran dengan kebatilan[^23] dan (janganlah) kalian sembunyikan kebenaran, sedangkan kalian mengetahuinya.
 
-*23) Batil artinya kesalahan, kejahatan, kemungkaran dan sebagainya.
+[^23]: Batil artinya kesalahan, kejahatan, kemungkaran dan sebagainya.
 
 # 50
 
@@ -266,15 +272,15 @@ Wahai Bani Israil! Ingatlah nikmat-Ku yang telah Aku berikan kepadamu, dan Aku t
 
 # 55
 
-Dan takutlah kamu pada hari (ketika) tidak seorang pun dapat membela orang lain sedikit pun. Sedangkan syafaat24) dan tebusan apa pun darinya tidak diterima dan mereka tidak akan ditolong.
+Dan takutlah kamu pada hari (ketika) tidak seorang pun dapat membela orang lain sedikit pun. Sedangkan syafaat[^24] dan tebusan apa pun darinya tidak diterima dan mereka tidak akan ditolong.
 
-*24) Syafaat ialah pertolongan yang diberikan oleh rasul atau orang-orang tertentu untuk meringankan azab atau beban seseorang di akhirat, atas izin Allah.
+[^24]: Syafaat ialah pertolongan yang diberikan oleh rasul atau orang-orang tertentu untuk meringankan azab atau beban seseorang di akhirat, atas izin Allah.
 
 # 56
 
-Dan (ingatlah) ketika Kami menyelamatkan kamu dari (Fir'aun dan) pengikut-pengikut Fir'aun.25) Mereka menimpakan siksaan yang sangat berat kepadamu. Mereka menyembelih anak-anak laki-lakimu dan membiarkan hidup anak-anak perempuanmu. Dan pada yang demikian itu merupakan cobaan yang besar dari Tuhanmu.
+Dan (ingatlah) ketika Kami menyelamatkan kamu dari (Fir'aun dan) pengikut-pengikut Fir'aun.[^25] Mereka menimpakan siksaan yang sangat berat kepadamu. Mereka menyembelih anak-anak laki-lakimu dan membiarkan hidup anak-anak perempuanmu. Dan pada yang demikian itu merupakan cobaan yang besar dari Tuhanmu.
 
-*25) Fir'aun adalah gelar bagi Raja-raja Mesir pada masa lalu. Menurut sejarah, Fir'aun pada masa Nabi Musa -'alaihissalām- ialah Menephthan (1232-1224 SM) anak Ramses.
+[^25]: Fir'aun adalah gelar bagi Raja-raja Mesir pada masa lalu. Menurut sejarah, Fir'aun pada masa Nabi Musa -'alaihissalām- ialah Menephthan (1232-1224 SM) anak Ramses.
 
 # 57
 
@@ -282,9 +288,9 @@ Dan (ingatlah) ketika Kami membelah laut untukmu, sehingga kamu dapat Kami selam
 
 # 58
 
-Dan (ingatlah) ketika Kami menjanjikan kepada Musa empat puluh malam.26) Kemudian kamu (Bani Israil) menjadikan (patung) anak sapi (sebagai sesembahan) setelah (kepergian)nya, dan kamu (menjadi) orang yang zalim.
+Dan (ingatlah) ketika Kami menjanjikan kepada Musa empat puluh malam.[^26] Kemudian kamu (Bani Israil) menjadikan (patung) anak sapi (sebagai sesembahan) setelah (kepergian)nya, dan kamu (menjadi) orang yang zalim.
 
-*26) Suatu tenggang waktu yang dijanjikan Allah untuk menerima petunjuk (Taurat); tetapi umat Nabi Musa -'alaihissalām- tidak sabar menunggunya, sehingga mereka menyembah patung anak sapi yang dibuat oleh Samiri.
+[^26]: Suatu tenggang waktu yang dijanjikan Allah untuk menerima petunjuk (Taurat); tetapi umat Nabi Musa -'alaihissalām- tidak sabar menunggunya, sehingga mereka menyembah patung anak sapi yang dibuat oleh Samiri.
 
 # 59
 
@@ -292,15 +298,15 @@ Kemudian Kami memaafkan kamu setelah itu, agar kamu bersyukur.
 
 # 60
 
-Dan (ingatlah), ketika Kami memberikan kepada Musa Kitab dan Furqan, agar kamu memperoleh petunjuk.27)
+Dan (ingatlah), ketika Kami memberikan kepada Musa Kitab dan Furqan, agar kamu memperoleh petunjuk.[^27]
 
-*27) Yang dimaksud dengan Kitab adalah Taurat. Dan yang dimaksud dengan Furqan adalah keterangan-keterangan lain untuk membedakan yang baik dan yang buruk.
+[^27]: Yang dimaksud dengan Kitab adalah Taurat. Dan yang dimaksud dengan Furqan adalah keterangan-keterangan lain untuk membedakan yang baik dan yang buruk.
 
 # 61
 
-Dan (ingatlah) ketika Musa berkata kepada kaumnya, "Wahai kaumku! Kamu benar-benar telah menzalimi dirimu sendiri dengan menjadikan (patung) anak sapi (sebagai sesembahan), karena itu bertobatlah kepada Penciptamu dan bunuhlah dirimu.28) Itu lebih baik bagimu di sisi Penciptamu. Dia akan menerima tobatmu. Sungguh, Dialah Yang Maha Penerima tobat, Maha Penyayang.
+Dan (ingatlah) ketika Musa berkata kepada kaumnya, "Wahai kaumku! Kamu benar-benar telah menzalimi dirimu sendiri dengan menjadikan (patung) anak sapi (sebagai sesembahan), karena itu bertobatlah kepada Penciptamu dan bunuhlah dirimu.[^28] Itu lebih baik bagimu di sisi Penciptamu. Dia akan menerima tobatmu. Sungguh, Dialah Yang Maha Penerima tobat, Maha Penyayang.
 
-*28) "Membunuh dirimu" ada yang mengartikan, orang-orang yang tidak menyembah patung anak sapi itu membunuh orang yang menyembahnya. Ada pula yang mengartikan, orang yang menyembah patung anak sapi itu saling membunuh, dan ada pula yang mengartikan, mereka disuruh membunuh diri mereka masing-masing untuk bertobat.
+[^28]: "Membunuh dirimu" ada yang mengartikan, orang-orang yang tidak menyembah patung anak sapi itu membunuh orang yang menyembahnya. Ada pula yang mengartikan, orang yang menyembah patung anak sapi itu saling membunuh, dan ada pula yang mengartikan, mereka disuruh membunuh diri mereka masing-masing untuk bertobat.
 
 # 62
 
@@ -312,9 +318,9 @@ Kemudian, Kami membangkitkan kamu setelah kamu mati, agar kamu bersyukur.
 
 # 64
 
-Dan Kami menaungi kamu dengan awan, dan Kami menurunkan kepadamu manna dan salwa.29) Makanlah (makanan) yang baik-baik dari rezeki yang telah Kami berikan kepadamu. Mereka tidak menzalimi Kami, tetapi justru merekalah yang menzalimi diri sendiri.
+Dan Kami menaungi kamu dengan awan, dan Kami menurunkan kepadamu manna dan salwa.[^29] Makanlah (makanan) yang baik-baik dari rezeki yang telah Kami berikan kepadamu. Mereka tidak menzalimi Kami, tetapi justru merekalah yang menzalimi diri sendiri.
 
-*29) Manna ialah sejenis madu. Salwa ialah sejenis burung puyuh.
+[^29]: Manna ialah sejenis madu. Salwa ialah sejenis burung puyuh.
 
 # 65
 
@@ -326,9 +332,9 @@ Lalu orang-orang yang zalim mengganti perintah dengan (perintah lain) yang tidak
 
 # 67
 
-Dan (ingatlah) ketika Musa memohon air untuk kaumnya, lalu Kami berfirman, "Pukullah batu itu dengan tongkatmu!" Maka memacarlah darinya dua belas mata air. Setiap suku telah mengetahui tempat minumnya (masing-masing).30) Makan dan minumlah dari rezeki (yang diberikan) Allah, dan janganlah kamu melakukan kejahatan di bumi dengan berbuat kerusakan.
+Dan (ingatlah) ketika Musa memohon air untuk kaumnya, lalu Kami berfirman, "Pukullah batu itu dengan tongkatmu!" Maka memacarlah darinya dua belas mata air. Setiap suku telah mengetahui tempat minumnya (masing-masing).[^30] Makan dan minumlah dari rezeki (yang diberikan) Allah, dan janganlah kamu melakukan kejahatan di bumi dengan berbuat kerusakan.
 
-*30) Setiap suku dari 12 suku Bani Israil, sebagaimana tersebut dalam surat Al-A'raf (7) : 160.
+[^30]: Setiap suku dari 12 suku Bani Israil, sebagaimana tersebut dalam surat Al-A'raf (7) : 160.
 
 # 68
 
@@ -336,9 +342,9 @@ Dan (ingatlah), ketika kamu berkata, "Wahai Musa! Kami tidak tahan hanya (makan)
 
 # 69
 
-Sesungguhnya orang-orang yang beriman, orang-orang Yahudi, orang-orang Nasrani dan orang-orang ṣābiīn,31) siapa saja (diantara mereka) yang beriman kepada Allah dan hari akhir, dan melakukan kebajikan, mereka mendapat pahala dari Tuhannya, tidak ada rasa takut pada mereka, dan mereka tidak bersedih hati.
+Sesungguhnya orang-orang yang beriman, orang-orang Yahudi, orang-orang Nasrani dan orang-orang ṣābiīn,[^31] siapa saja (diantara mereka) yang beriman kepada Allah dan hari akhir, dan melakukan kebajikan, mereka mendapat pahala dari Tuhannya, tidak ada rasa takut pada mereka, dan mereka tidak bersedih hati.
 
-*31) Ṣābiīn ialah umat sebelum Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- yang mengetahui adanya Tuhan Yang Maha Esa, dan mempercayai adanya pengaruh bintang-bintang.
+[^31]: Ṣābiīn ialah umat sebelum Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- yang mengetahui adanya Tuhan Yang Maha Esa, dan mempercayai adanya pengaruh bintang-bintang.
 
 # 70
 
@@ -350,9 +356,11 @@ Kemudian setelah itu kamu berpaling. Maka sekiranya bukan karena karunia Allah d
 
 # 72
 
-Dan sungguh, kamu telah mengetahui orang-orang yang melakukan pelanggaran di antara kamu pada hari Sabat,32) lalu Kami katakan kepada mereka, "Jadilah kamu kera yang hina!"33)
+Dan sungguh, kamu telah mengetahui orang-orang yang melakukan pelanggaran di antara kamu pada hari Sabat,[^32] lalu Kami katakan kepada mereka, "Jadilah kamu kera yang hina!"[^33]
 
-*32) Hari Sabat ialah hari Sabtu, hari khusus bagi orang Yahudi untuk beribadah. 33) Kera : Betul-betul menjadi kera sebagai kutukan Allah. Sebagian mufasir mengartikan memiliki sifat-sifat seperti kera.
+[^32]: Hari Sabat ialah hari Sabtu, hari khusus bagi orang Yahudi untuk beribadah
+
+[^33]: Kera : Betul-betul menjadi kera sebagai kutukan Allah. Sebagian mufasir mengartikan memiliki sifat-sifat seperti kera.
 
 # 73
 
@@ -360,9 +368,9 @@ Maka Kami jadikan (yang demikian) itu peringatan bagi orang-orang pada masa itu,
 
 # 74
 
-Dan (ingatlah) ketika Musa berkata kepada kaumnya, "Allah memerintahkan kamu agar menyembelih seekor sapi betina." Mereka bertanya, "Apakah engkau akan menjadikan kami sebagai ejekan?" 34) Dia (Musa) menjawab, "Aku berlindung kepada Allah agar tidak menjadi orang-orang yang bodoh."
+Dan (ingatlah) ketika Musa berkata kepada kaumnya, "Allah memerintahkan kamu agar menyembelih seekor sapi betina." Mereka bertanya, "Apakah engkau akan menjadikan kami sebagai ejekan?" [^34] Dia (Musa) menjawab, "Aku berlindung kepada Allah agar tidak menjadi orang-orang yang bodoh."
 
-*34) Hikmah Allah menyuruh menyembelih sapi ialah agar hilang rasa pengagungan mereka kepada patung anak sapi yang pernah mereka sembah.
+[^34]: Hikmah Allah menyuruh menyembelih sapi ialah agar hilang rasa pengagungan mereka kepada patung anak sapi yang pernah mereka sembah.
 
 # 75
 
@@ -394,15 +402,15 @@ Kemudian setelah itu hatimu menjadi keras, sehingga (hatimu) seperti batu, bahka
 
 # 82
 
-Maka apakah kamu (muslimin) sangat mengharapkan mereka akan percaya kepadamu, sedangkan segolongan dari mereka mendengar firman Allah, lalu mereka mengubahnya setelah memahaminya, padahal mereka mengetahuinya? 35)
+Maka apakah kamu (muslimin) sangat mengharapkan mereka akan percaya kepadamu, sedangkan segolongan dari mereka mendengar firman Allah, lalu mereka mengubahnya setelah memahaminya, padahal mereka mengetahuinya? [^35]
 
-*35) Yang dimaksud adalah orang-orang Yahudi di Madinah yang mengubah-ubah isi Taurat terutama mengenai Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- .
+[^35]: Yang dimaksud adalah orang-orang Yahudi di Madinah yang mengubah-ubah isi Taurat terutama mengenai Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- .
 
 # 83
 
-Dan apabila mereka berjumpa dengan orang-orang yang beriman, mereka berkata, "Kami telah beriman." Tetapi apabila kembali kepada sesamanya, mereka bertanya, "Apakah akan kamu ceritakan kepada mereka apa yang telah diterangkan Allah kepadamu, sehingga mereka dapat menyanggah kamu di hadapan Tuhanmu? Tidakkah kamu mengerti?" 36)
+Dan apabila mereka berjumpa dengan orang-orang yang beriman, mereka berkata, "Kami telah beriman." Tetapi apabila kembali kepada sesamanya, mereka bertanya, "Apakah akan kamu ceritakan kepada mereka apa yang telah diterangkan Allah kepadamu, sehingga mereka dapat menyanggah kamu di hadapan Tuhanmu? Tidakkah kamu mengerti?" [^36]
 
-*36) Di dalam Taurat diterangkan tentang Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- yang akan datang sebagai nabi terakhir, tetapi keterangan itu disembunyikan oleh orang Yahudi, karena takut akan menjadi bumerang bagi mereka.
+[^36]: Di dalam Taurat diterangkan tentang Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- yang akan datang sebagai nabi terakhir, tetapi keterangan itu disembunyikan oleh orang Yahudi, karena takut akan menjadi bumerang bagi mereka.
 
 # 84
 
@@ -414,9 +422,9 @@ Dan di antara mereka ada yang buta huruf, tidak memahami Kitab (Taurat), kecuali
 
 # 86
 
-Maka celakalah orang-orang yang menulis kitab dengan tangan mereka (sendiri), kemudian berkata, "Ini dari Allah," (dengan maksud) untuk menjualnya dengan harga murah. Maka celakalah mereka, karena tulisan tangan mereka, dan celakalah mereka karena apa yang mereka perbuat.37)
+Maka celakalah orang-orang yang menulis kitab dengan tangan mereka (sendiri), kemudian berkata, "Ini dari Allah," (dengan maksud) untuk menjualnya dengan harga murah. Maka celakalah mereka, karena tulisan tangan mereka, dan celakalah mereka karena apa yang mereka perbuat.[^37]
 
-*37) Memalsukan dan mengubah ayat untuk kepentingan dan keuntungan.
+[^37]: Memalsukan dan mengubah ayat untuk kepentingan dan keuntungan.
 
 # 87
 
@@ -440,9 +448,9 @@ Dan (ingatlah) ketika Kami mengambil janji kamu, "Janganlah kamu menumpahkan dar
 
 # 92
 
-Kemudian kamu (Bani Israil) membunuh dirimu (sesamamu), dan mengusir segolongan dari kamu dari kampung halamannya. Kamu saling membantu (menghadapi) mereka dalam kejahatan dan permusuhan. Dan jika mereka datang kepadamu sebagai tawanan, kamu tebus mereka, padahal kamu dilarang mengusir mereka. Apakah kamu beriman kepada sebagian Kitab (Taurat) dan ingkar kepada sebagian (yang lain)? Maka tidak ada balasan (yang pantas) bagi orang yang berbuat demikian di antara kamu selain kenistaan dalam kehidupan dunia, dan pada hari Kiamat mereka dikembalikan kepada azab yang paling berat. Dan Allah tidak lengah terhadap apa yang kamu kerjakan.38)
+Kemudian kamu (Bani Israil) membunuh dirimu (sesamamu), dan mengusir segolongan dari kamu dari kampung halamannya. Kamu saling membantu (menghadapi) mereka dalam kejahatan dan permusuhan. Dan jika mereka datang kepadamu sebagai tawanan, kamu tebus mereka, padahal kamu dilarang mengusir mereka. Apakah kamu beriman kepada sebagian Kitab (Taurat) dan ingkar kepada sebagian (yang lain)? Maka tidak ada balasan (yang pantas) bagi orang yang berbuat demikian di antara kamu selain kenistaan dalam kehidupan dunia, dan pada hari Kiamat mereka dikembalikan kepada azab yang paling berat. Dan Allah tidak lengah terhadap apa yang kamu kerjakan.[^38]
 
-*38) Semua janji dan sumpah yang diikrarkan Bani Israil sebagaimana disebut dalam ayat 83 dan 84 di atas, mereka langgar. Kenyataan sejarah antara dua suku Yahudi di Madinah yaitu Bani Quraiẓah dan Bani Naẓīr selalu berperang. Tetapi jika ada orang Yahudi di antara kedua suku itu yang tertawan oleh suku lain, misalnya oleh suku Aus sekutu Bani Quraiẓah atau suku Khazraj sekutu Bani Naẓīr, mereka bersatu menebusnya.
+[^38]: Semua janji dan sumpah yang diikrarkan Bani Israil sebagaimana disebut dalam ayat 83 dan 84 di atas, mereka langgar. Kenyataan sejarah antara dua suku Yahudi di Madinah yaitu Bani Quraiẓah dan Bani Naẓīr selalu berperang. Tetapi jika ada orang Yahudi di antara kedua suku itu yang tertawan oleh suku lain, misalnya oleh suku Aus sekutu Bani Quraiẓah atau suku Khazraj sekutu Bani Naẓīr, mereka bersatu menebusnya.
 
 # 93
 
@@ -458,15 +466,17 @@ Dan mereka berkata, "Hati kami tertutup." Tidak! Allah telah melaknat mereka itu
 
 # 96
 
-Dan setelah sampai kepada mereka Kitab (Al-Qur`an) dari Allah yang membenarkan apa yang ada pada mereka39) sedangkan sebelumnya mereka memohon kemenangan atas orang-orang kafir, ternyata setelah sampai kepada mereka apa yang telah mereka ketahui itu, mereka mengingkarinya. Maka laknat Allah bagi orang-orang yang ingkar.
+Dan setelah sampai kepada mereka Kitab (Al-Qur`an) dari Allah yang membenarkan apa yang ada pada mereka[^39] sedangkan sebelumnya mereka memohon kemenangan atas orang-orang kafir, ternyata setelah sampai kepada mereka apa yang telah mereka ketahui itu, mereka mengingkarinya. Maka laknat Allah bagi orang-orang yang ingkar.
 
-*39) Al-Qur`an juga mengajarkan tauhid yang diajarkan Taurat.
+[^39]: Al-Qur`an juga mengajarkan tauhid yang diajarkan Taurat.
 
 # 97
 
-Sangatlah buruk (perbuatan) mereka menjual dirinya, dengan mengingkari apa yang diturunkan Allah karena dengki, bahwa Allah menurunkan karunia-Nya kepada siapa yang Dia kehendaki di antara hamba-hamba-Nya.40) Karena itulah mereka menanggung kemurkaan demi kemurkaan.41) Dan kepada orang-orang kafir (ditimpakan) azab yang menghinakan.
+Sangatlah buruk (perbuatan) mereka menjual dirinya, dengan mengingkari apa yang diturunkan Allah karena dengki, bahwa Allah menurunkan karunia-Nya kepada siapa yang Dia kehendaki di antara hamba-hamba-Nya.[^40] Karena itulah mereka menanggung kemurkaan demi kemurkaan.[^41] Dan kepada orang-orang kafir (ditimpakan) azab yang menghinakan.
 
-*40) Wahyu (kenabian) kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-. 41) Murka pertama karena membangkang kepada Nabi Musa -'alaihissalām- dan murka kedua karena mengingkari Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
+[^40]: Wahyu (kenabian) kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-
+
+[^41]: Murka pertama karena membangkang kepada Nabi Musa -'alaihissalām- dan murka kedua karena mengingkari Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
 
 # 98
 
@@ -490,9 +500,9 @@ Tetapi mereka tidak akan menginginkan kematian itu sama sekali, karena dosa-dosa
 
 # 103
 
-Dan sungguh, engkau (Muhammad) akan mendapati mereka (orang-orang Yahudi), manusia yang paling tamak akan kehidupan (dunia), bahkan (lebih tamak) dari orang-orang musyrik.42) Masing-masing dari mereka, ingin diberi umur seribu tahun, padahal umur panjang itu tidak akan menjauhkan mereka dari azab. Dan Allah Maha melihat apa yang mereka kerjakan.
+Dan sungguh, engkau (Muhammad) akan mendapati mereka (orang-orang Yahudi), manusia yang paling tamak akan kehidupan (dunia), bahkan (lebih tamak) dari orang-orang musyrik.[^42] Masing-masing dari mereka, ingin diberi umur seribu tahun, padahal umur panjang itu tidak akan menjauhkan mereka dari azab. Dan Allah Maha melihat apa yang mereka kerjakan.
 
-*42) Musyrik adalah orang yang mempersekutukan Allah dengan yang lain.
+[^42]: Musyrik adalah orang yang mempersekutukan Allah dengan yang lain.
 
 # 104
 
@@ -524,9 +534,9 @@ Dan jika mereka beriman dan bertakwa, pahala dari Allah pasti lebih baik, sekira
 
 # 111
 
-Wahai orang-orang yang beriman! Janganlah kamu katakan, "Rā'inā",43) tetapi katakanlah, "Unẓurnā", dan dengarkanlah. Dan orang-orang kafir akan mendapat azab yang pedih.
+Wahai orang-orang yang beriman! Janganlah kamu katakan, "Rā'inā",[^43] tetapi katakanlah, "Unẓurnā", dan dengarkanlah. Dan orang-orang kafir akan mendapat azab yang pedih.
 
-*43) Rā'inā artinya perhatikanlah kami. Tetapi orang Yahudi bersungut mengucapkannya, sehingga yang mereka maksud ialah Ru'ūnah yang artinya bodoh sekali, sebagai ejekan kepada Rasulullah. Itulah sebabnya Allah menyuruh sahabat-sahabat menukar Rā'inā dengan Unẓurnā yang sama artinya dengan Rā'inā.
+[^43]: Rā'inā artinya perhatikanlah kami. Tetapi orang Yahudi bersungut mengucapkannya, sehingga yang mereka maksud ialah Ru'ūnah yang artinya bodoh sekali, sebagai ejekan kepada Rasulullah. Itulah sebabnya Allah menyuruh sahabat-sahabat menukar Rā'inā dengan Unẓurnā yang sama artinya dengan Rā'inā.
 
 # 112
 
@@ -554,9 +564,9 @@ Dan laksanakanlah salat dan tunaikanlah zakat. Dan segala kebaikan yang kamu ker
 
 # 118
 
-Dan mereka (Yahudi dan Nasrani) berkata, "Tidak akan masuk surga kecuali orang Yahudi atau Nasrani."44) Itu (hanya) angan-angan mereka. Katakanlah, "Tunjukkan bukti kebenaranmu jika kamu orang yang benar."
+Dan mereka (Yahudi dan Nasrani) berkata, "Tidak akan masuk surga kecuali orang Yahudi atau Nasrani."[^44] Itu (hanya) angan-angan mereka. Katakanlah, "Tunjukkan bukti kebenaranmu jika kamu orang yang benar."
 
-*44) Orang Yahudi mengatakan, mereka saja yang akan masuk surga. Orang Nasrani mengatakan, mereka saja yang akan masuk surga.
+[^44]: Orang Yahudi mengatakan, mereka saja yang akan masuk surga. Orang Nasrani mengatakan, mereka saja yang akan masuk surga.
 
 # 119
 
@@ -612,9 +622,9 @@ Dan (ingatlah), ketika Ibrahim diuji Tuhannya dengan beberapa kalimat, lalu dia 
 
 # 132
 
-Dan (ingatlah), ketika Kami menjadikan rumah (Ka'bah) tempat berkumpul dan tempat yang aman bagi manusia. Dan jadikanlah maqam Ibrahim 45) itu tempat salat. Dan telah Kami perintahkan kepada Ibrahim dan Ismail, "Bersihkanlah rumah-Ku untuk orang-orang yang tawaf, orang yang itikaf, orang yang rukuk dan orang yang sujud!"
+Dan (ingatlah), ketika Kami menjadikan rumah (Ka'bah) tempat berkumpul dan tempat yang aman bagi manusia. Dan jadikanlah maqam Ibrahim [^45] itu tempat salat. Dan telah Kami perintahkan kepada Ibrahim dan Ismail, "Bersihkanlah rumah-Ku untuk orang-orang yang tawaf, orang yang itikaf, orang yang rukuk dan orang yang sujud!"
 
-*45) Ialah tempat Nabi Ibrahim -'alaihissalām- berdiri ketika membangun Ka'bah.
+[^45]: Ialah tempat Nabi Ibrahim -'alaihissalām- berdiri ketika membangun Ka'bah.
 
 # 133
 
@@ -666,9 +676,9 @@ Maka jika mereka telah beriman sebagaimana yang kamu imani, sungguh, mereka tela
 
 # 145
 
-"Ṣibgah Allah"46) Siapa yang lebih baik ṣibgah-nya daripada Allah? Dan hanya kepada-Nya kami menyembah.
+"Ṣibgah Allah"[^46] Siapa yang lebih baik ṣibgah-nya daripada Allah? Dan hanya kepada-Nya kami menyembah.
 
-*46) Ṣibgah Allah, artinya celupan Allah, maksudnya agama Allah.
+[^46]: Ṣibgah Allah, artinya celupan Allah, maksudnya agama Allah.
 
 # 146
 
@@ -676,9 +686,9 @@ Katakanlah (Muhammad), "Apakah kamu hendak berdebat dengan kami tentang Allah, p
 
 # 147
 
-Ataukah kamu (orang-orang Yahudi dan Nasrani) berkata bahwa Ibrahim, Ismail, Ishak, Yakub dan anak cucunya adalah penganut Yahudi atau Nasrani? Katakanlah, "Kamukah yang lebih tahu atau Allah, dan siapakah yang lebih zalim daripada orang yang menyembunyikan kesaksian dari Allah47) yang ada padanya?" Allah tidak lengah terhadap apa yang kamu kerjakan.
+Ataukah kamu (orang-orang Yahudi dan Nasrani) berkata bahwa Ibrahim, Ismail, Ishak, Yakub dan anak cucunya adalah penganut Yahudi atau Nasrani? Katakanlah, "Kamukah yang lebih tahu atau Allah, dan siapakah yang lebih zalim daripada orang yang menyembunyikan kesaksian dari Allah[^47] yang ada padanya?" Allah tidak lengah terhadap apa yang kamu kerjakan.
 
-*47) Ialah persaksian Allah yang tersebut dalam Taurat dan injil bahwa Nabi Ibrahim -'alaihissalām- dan anak cucunya bukan penganut agama Yahudi atau Nasrani dan bahwa Allah akan mengutus Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
+[^47]: Ialah persaksian Allah yang tersebut dalam Taurat dan injil bahwa Nabi Ibrahim -'alaihissalām- dan anak cucunya bukan penganut agama Yahudi atau Nasrani dan bahwa Allah akan mengutus Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
 
 # 148
 
@@ -690,9 +700,9 @@ Orang-orang yang kurang akal di antara manusia akan berkata, "Apakah yang memali
 
 # 150
 
-Dan demikian pula Kami telah menjadikan kamu (umat Islam) "umat pertengahan"48) agar kamu menjadi saksi atas (perbuatan) manusia dan agar Rasul (Muhammad) menjadi saksi atas (perbuatan) kamu. Kami tidak menjadikan kiblat yang (dahulu) kamu (berkiblat) kepadanya melainkan agar kami mengetahui siapa yang mengikuti Rasul dan siapa yang berbalik ke belakang. Sungguh, (pemindahan kiblat) itu sangat berat, kecuali bagi orang yang telah diberi petunjuk oleh Allah. Dan Allah tidak akan menyia-nyiakan imanmu. Sungguh, Allah Maha Pengasih, Maha Penyayang kepada manusia.
+Dan demikian pula Kami telah menjadikan kamu (umat Islam) "umat pertengahan"[^48] agar kamu menjadi saksi atas (perbuatan) manusia dan agar Rasul (Muhammad) menjadi saksi atas (perbuatan) kamu. Kami tidak menjadikan kiblat yang (dahulu) kamu (berkiblat) kepadanya melainkan agar kami mengetahui siapa yang mengikuti Rasul dan siapa yang berbalik ke belakang. Sungguh, (pemindahan kiblat) itu sangat berat, kecuali bagi orang yang telah diberi petunjuk oleh Allah. Dan Allah tidak akan menyia-nyiakan imanmu. Sungguh, Allah Maha Pengasih, Maha Penyayang kepada manusia.
 
-*48) Umat yang adil, yang tidak berat sebelah baik ke dunia maupun ke akhirat, tetapi seimbang antara keduanya.
+[^48]: Umat yang adil, yang tidak berat sebelah baik ke dunia maupun ke akhirat, tetapi seimbang antara keduanya.
 
 # 151
 
@@ -704,9 +714,9 @@ Dan walaupun engkau (Muhammad) memberikan semua ayat (keterangan) kepada orang-o
 
 # 153
 
-Orang-orang yang telah Kami beri Kitab (Taurat dan Injil) mengenalnya (Muhammad)49) seperti mereka mengenal anak-anak mereka sendiri. Sesungguhnya sebagian mereka pasti menyembunyikan kebenaran, padahal mereka mengetahui(nya).
+Orang-orang yang telah Kami beri Kitab (Taurat dan Injil) mengenalnya (Muhammad)[^49] seperti mereka mengenal anak-anak mereka sendiri. Sesungguhnya sebagian mereka pasti menyembunyikan kebenaran, padahal mereka mengetahui(nya).
 
-*49) Mengenal kenabian Muhammad -ṣallallāhu 'alaihi wa sallam- dan sifat-sifatnya sebagaimana yang tersebut dalam Taurat dan Injil.
+[^49]: Mengenal kenabian Muhammad -ṣallallāhu 'alaihi wa sallam- dan sifat-sifatnya sebagaimana yang tersebut dalam Taurat dan Injil.
 
 # 154
 
@@ -730,9 +740,9 @@ Sebagaimana Kami telah mengutus kepadamu seorang Rasul (Muhammad) dari (kalangan
 
 # 159
 
-Maka ingatlah kepada-Ku, Aku pun akan ingat kepadamu.50) Bersyukurlah kepada-Ku, dan janganlah kamu ingkar kepada-Ku.
+Maka ingatlah kepada-Ku, Aku pun akan ingat kepadamu.[^50] Bersyukurlah kepada-Ku, dan janganlah kamu ingkar kepada-Ku.
 
-*50) Aku limpahkan rahmat dan ampunan kepadamu.
+[^50]: Aku limpahkan rahmat dan ampunan kepadamu.
 
 # 160
 
@@ -740,9 +750,9 @@ Wahai orang-orang yang beriman! Mohonlah pertolongan (kepada Allah) dengan sabar
 
 # 161
 
-Dan janganlah kamu mengatakan orang-orang yang terbunuh di jalan Allah (mereka) telah mati. Sebenarnya (mereka) hidup, 51) tetapi kamu tidak menyadarinya.
+Dan janganlah kamu mengatakan orang-orang yang terbunuh di jalan Allah (mereka) telah mati. Sebenarnya (mereka) hidup, [^51] tetapi kamu tidak menyadarinya.
 
-*51) Hidup dalam alam lain yang bukan alam kita ini, tempat mereka mendapat kenikmatan-kenikmatan di sisi Allah, dan hanya Allah sajalah yang mengetahui bagaimana keadaan kehidupan di alam itu.
+[^51]: Hidup dalam alam lain yang bukan alam kita ini, tempat mereka mendapat kenikmatan-kenikmatan di sisi Allah, dan hanya Allah sajalah yang mengetahui bagaimana keadaan kehidupan di alam itu.
 
 # 162
 
@@ -750,9 +760,9 @@ Dan Kami pasti akan menguji kamu dengan sedikit ketakutan, kelaparan, kekurangan
 
 # 163
 
-(yaitu) orang-orang yang apabila ditimpa musibah, mereka berkata "Innā lillāhi wa innā ilaihi rāji'ūn" 52) (sesungguhnya kami milik Allah dan kepada-Nyalah kami kembali).
+(yaitu) orang-orang yang apabila ditimpa musibah, mereka berkata "Innā lillāhi wa innā ilaihi rāji'ūn" [^52] (sesungguhnya kami milik Allah dan kepada-Nyalah kami kembali).
 
-*52) Kalimat ini dinamakan kalimat istirja' (pernyataan kembali kepada Allah). Disunnahkan mengucapkannya pada waktu ditimpa musibah, baik besar atau kecil.
+[^52]: Kalimat ini dinamakan kalimat istirja' (pernyataan kembali kepada Allah). Disunnahkan mengucapkannya pada waktu ditimpa musibah, baik besar atau kecil.
 
 # 164
 
@@ -760,9 +770,13 @@ Mereka itulah yang memperoleh ampunan dan rahmat dari Tuhannya, dan mereka itula
 
 # 165
 
-Sesungguhnya Safa dan Marwah merupakan sebagian syiar (agama) Allah.53) Maka siapa yang beribadah haji ke Baitullah atau berumrah, tidak ada dosa baginya mengerjakan sai54) di antara keduanya. Dan siapa yang dengan kerelaan hati mengerjakan kebajikan, maka Allah Maha Mensyukuri, 55) Maha Mengetahui.
+Sesungguhnya Safa dan Marwah merupakan sebagian syiar (agama) Allah.[^53] Maka siapa yang beribadah haji ke Baitullah atau berumrah, tidak ada dosa baginya mengerjakan sai[^54] di antara keduanya. Dan siapa yang dengan kerelaan hati mengerjakan kebajikan, maka Allah Maha Mensyukuri, [^55] Maha Mengetahui.
 
-*53) Tempat-tempat beribadah kepada Allah. 54) Berjalan dan berlari-lari kecil tujuh kali antara Safa dan Marwah ketika melakukan ibadah haji atau umrah. Allah mengungkapkan dengan perkataan, “Tidak ada dosa” sebab sebagian sahabat merasa keberatan mengerjakan sai di situ, karena tempat itu bekas tempat berhala. Pada masa jahiliah pun tempat itu digunakan sebagai tempat sai. Untuk menghilangkan rasa keberatan itu Allah menurunkan ayat ini. 55) Allah mensyukuri hamba-Nya, memberi pahala terhadap amalnya, memaafkan kesalahannya, menambah nikmatnya dan sebagainya.
+[^53]: Tempat-tempat beribadah kepada Allah
+
+[^54]: Berjalan dan berlari-lari kecil tujuh kali antara Safa dan Marwah ketika melakukan ibadah haji atau umrah. Allah mengungkapkan dengan perkataan, “Tidak ada dosa” sebab sebagian sahabat merasa keberatan mengerjakan sai di situ, karena tempat itu bekas tempat berhala. Pada masa jahiliah pun tempat itu digunakan sebagai tempat sai. Untuk menghilangkan rasa keberatan itu Allah menurunkan ayat ini
+
+[^55]: Allah mensyukuri hamba-Nya, memberi pahala terhadap amalnya, memaafkan kesalahannya, menambah nikmatnya dan sebagainya.
 
 # 166
 
@@ -770,9 +784,9 @@ Sungguh, orang-orang yang menyembunyikan apa yang telah Kami turunkan berupa ket
 
 # 167
 
-kecuali mereka yang telah bertobat, mengadakan perbaikan dan menjelaskan(nya),56) mereka itulah yang Aku terima tobatnya dan Akulah Yang Maha Penerima tobat, Maha Penyayang.
+kecuali mereka yang telah bertobat, mengadakan perbaikan dan menjelaskan(nya),[^56] mereka itulah yang Aku terima tobatnya dan Akulah Yang Maha Penerima tobat, Maha Penyayang.
 
-*56) Berarti melakukan pekerjaan-pekerjaan yang baik untuk menghilangkan akibat-akibat yang jelek dari kesalahan-kesalahan yang telah dilakukan, dan menjelaskan kebenaran yang disembunyikannya.
+[^56]: Berarti melakukan pekerjaan-pekerjaan yang baik untuk menghilangkan akibat-akibat yang jelek dari kesalahan-kesalahan yang telah dilakukan, dan menjelaskan kebenaran yang disembunyikannya.
 
 # 168
 
@@ -792,9 +806,9 @@ Sesungguhnya pada penciptaan langit dan bumi, pergantian malam dan siang, kapal 
 
 # 172
 
-Dan di antara manusia ada orang yang menyembah tuhan selain Allah sebagai tandingan, yang mereka cintai seperti mencintai Allah. Adapun orang-orang yang beriman sangat besar cintanya kepada Allah. Sekiranya orang-orang yang berbuat zalim itu57) melihat, ketika mereka melihat azab (pada hari Kiamat), bahwa kekuatan itu semuanya milik Allah dan bahwa Allah sangat berat azab-Nya (niscaya mereka menyesal).
+Dan di antara manusia ada orang yang menyembah tuhan selain Allah sebagai tandingan, yang mereka cintai seperti mencintai Allah. Adapun orang-orang yang beriman sangat besar cintanya kepada Allah. Sekiranya orang-orang yang berbuat zalim itu[^57] melihat, ketika mereka melihat azab (pada hari Kiamat), bahwa kekuatan itu semuanya milik Allah dan bahwa Allah sangat berat azab-Nya (niscaya mereka menyesal).
 
-*57) Orang yang zalim di sini ialah orang yang menyembah selain Allah. Maksudnya, ketika orang yang zalim tersebut melihat sesembahan mereka tidak memberikan manfaat sama sekali pada hari Kiamat, mereka pasti meyakini bahwa seluruh kekuatan hanya milik Allah.
+[^57]: Orang yang zalim di sini ialah orang yang menyembah selain Allah. Maksudnya, ketika orang yang zalim tersebut melihat sesembahan mereka tidak memberikan manfaat sama sekali pada hari Kiamat, mereka pasti meyakini bahwa seluruh kekuatan hanya milik Allah.
 
 # 173
 
@@ -830,9 +844,9 @@ Sesungguhnya Dia hanya mengharamkan atasmu bangkai, darah, daging babi, dan (dag
 
 # 181
 
-Sungguh, orang-orang yang menyembunyikan apa yang telah diturunkan Allah, yaitu Kitab, dan menjualnya dengan harga murah, mereka hanya menelan api neraka ke dalam perutnya,58) dan Allah tidak akan menyapa mereka pada hari Kiamat dan tidak akan menyucikan mereka. Mereka akan mendapat azab yang sangat pedih.
+Sungguh, orang-orang yang menyembunyikan apa yang telah diturunkan Allah, yaitu Kitab, dan menjualnya dengan harga murah, mereka hanya menelan api neraka ke dalam perutnya,[^58] dan Allah tidak akan menyapa mereka pada hari Kiamat dan tidak akan menyucikan mereka. Mereka akan mendapat azab yang sangat pedih.
 
-*58) Makanan yang dimakan berasal dari hasil menjual ayat-ayat yang diturunkan Allah, menyebabkan mereka masuk api neraka.
+[^58]: Makanan yang dimakan berasal dari hasil menjual ayat-ayat yang diturunkan Allah, menyebabkan mereka masuk api neraka.
 
 # 182
 
@@ -848,9 +862,9 @@ Kebajikan itu bukanlah mengahadapkan wajahmu ke arah timur dan ke barat, tetapi 
 
 # 185
 
-Wahai orang-orang yang beriman! Diwajibkan atas kamu (melaksanakan) kisas59) berkenaan dengan orang yang dibunuh. Orang merdeka dengan orang merdeka, hamba sahaya dengan hamba sahaya, perempuan dengan perempuan. Tetapi siapa yang memperoleh maaf dari saudaranya, hendaklah dia mengikutinya dengan baik, dan membayar diat (tebusan) kepadanya dengan baik (pula). Yang demikian itu adalah keringanan dan rahmat dari Tuhanmu. Siapa saja yang melampaui batas setelah itu, maka ia akan mendapat azab yang sangat pedih.
+Wahai orang-orang yang beriman! Diwajibkan atas kamu (melaksanakan) kisas[^59] berkenaan dengan orang yang dibunuh. Orang merdeka dengan orang merdeka, hamba sahaya dengan hamba sahaya, perempuan dengan perempuan. Tetapi siapa yang memperoleh maaf dari saudaranya, hendaklah dia mengikutinya dengan baik, dan membayar diat (tebusan) kepadanya dengan baik (pula). Yang demikian itu adalah keringanan dan rahmat dari Tuhanmu. Siapa saja yang melampaui batas setelah itu, maka ia akan mendapat azab yang sangat pedih.
 
-*59) Kisas ialah hukuman yang semisal dengan kejahatan yang dilakukan atas diri manusia.
+[^59]: Kisas ialah hukuman yang semisal dengan kejahatan yang dilakukan atas diri manusia.
 
 # 186
 
@@ -858,9 +872,9 @@ Dan dalam kisas itu ada (jaminan) kehidupan bagimu, wahai orang-orang yang berak
 
 # 187
 
-Diwajibkan atas kamu, apabila maut hendak menjemput seseorang di antara kamu, jika dia meninggalkan harta, berwasiat untuk kedua orang tua dan karib kerabat dengan cara yang baik,60) (sebagai) kewajiban bagi orang-orang yang bertakwa.
+Diwajibkan atas kamu, apabila maut hendak menjemput seseorang di antara kamu, jika dia meninggalkan harta, berwasiat untuk kedua orang tua dan karib kerabat dengan cara yang baik,[^60] (sebagai) kewajiban bagi orang-orang yang bertakwa.
 
-*60) Wasiat itu tidak melebihi sepertiga dari seluruh harta orang yang berwasiat. Ayat ini khusus untuk ahli waris dinasakh (diganti hukumnya) dengan ayat tentang waris. (An-Nisa` (4) : 11).
+[^60]: Wasiat itu tidak melebihi sepertiga dari seluruh harta orang yang berwasiat. Ayat ini khusus untuk ahli waris dinasakh (diganti hukumnya) dengan ayat tentang waris. (An-Nisa` (4) : 11).
 
 # 188
 
@@ -868,9 +882,9 @@ Siapa saja yang mengubahnya (wasiat itu), setelah mendengarnya, maka sesungguhny
 
 # 189
 
-Tetapi siapa yang khawatir bahwa pemberi wasiat (berlaku) berat sebelah atau berbuat salah, lalu dia mendamaikan61) antara mereka, maka dia tidak berdosa. Sungguh, Allah Maha Pengampun, Maha Penyayang.
+Tetapi siapa yang khawatir bahwa pemberi wasiat (berlaku) berat sebelah atau berbuat salah, lalu dia mendamaikan[^61] antara mereka, maka dia tidak berdosa. Sungguh, Allah Maha Pengampun, Maha Penyayang.
 
-*61) Mendamaikan ialah menyuruh orang yang berwasiat berlaku adil dalam berwasiat sesuai dengan batas-batas yang ditentukan syarak (ketentuan agama).
+[^61]: Mendamaikan ialah menyuruh orang yang berwasiat berlaku adil dalam berwasiat sesuai dengan batas-batas yang ditentukan syarak (ketentuan agama).
 
 # 190
 
@@ -878,9 +892,11 @@ Wahai orang-orang yang beriman! Diwajibkan atas kamu berpuasa sebagaimana diwaji
 
 # 191
 
-(Yaitu) beberapa hari tertentu. Maka siapa di antara kamu sakit atau dalam perjalanan (lalu tidak berpuasa), maka (wajib mengganti) sebanyak hari (yang dia tidak berpuasa itu) pada hari-hari yang lain. Dan bagi orang yang berat menjalankannya,62) wajib membayar fidyah, yaitu memberi makan seorang miskin. Tetapi siapa yang dengan kerelaan hati mengerjakan kebajikan,63) maka itu lebih baik baginya, dan puasamu itu lebih baik bagimu jika kamu mengetahui.
+(Yaitu) beberapa hari tertentu. Maka siapa di antara kamu sakit atau dalam perjalanan (lalu tidak berpuasa), maka (wajib mengganti) sebanyak hari (yang dia tidak berpuasa itu) pada hari-hari yang lain. Dan bagi orang yang berat menjalankannya,[^62] wajib membayar fidyah, yaitu memberi makan seorang miskin. Tetapi siapa yang dengan kerelaan hati mengerjakan kebajikan,[^63] maka itu lebih baik baginya, dan puasamu itu lebih baik bagimu jika kamu mengetahui.
 
-*62) Orang sakit berat, orang yang sangat tua, orang yang hamil atau menyusui. 63) Memberi makan kepada lebih dari seorang miskin untuk satu hari.
+[^62]: Orang sakit berat, orang yang sangat tua, orang yang hamil atau menyusui
+
+[^63]: Memberi makan kepada lebih dari seorang miskin untuk satu hari.
 
 # 192
 
@@ -892,9 +908,9 @@ Dan apabila hamba-hamba-Ku bertanya kepadamu (Muhammad) tentang Aku, maka sesung
 
 # 194
 
-Dihalalkan bagimu pada malam hari puasa bercampur dengan istrimu. Mereka adalah pakaian bagimu, dan kamu adalah pakaian bagi mereka. Allah mengetahui bahwa kamu tidak dapat menahan dirimu sendiri, tetapi Dia menerima tobatmu dan memaafkanmu. Maka sekarang campurilah mereka dan carilah apa yang telah ditetapkan Allah bagimu. Makan dan minumlah hingga jelas bagimu (perbedaan) antara benang putih dan benang hitam, yaitu fajar. Kemudian sempurnakanlah puasa sampai (datang) malam. Tetapi jangan kamu campuri mereka, ketika kamu beriktikaf64) dalam masjid. Itulah ketentuan Allah, maka janganlah kamu mendekatinya. Demikianlah Allah menerangkan ayat-ayat-Nya kepada manusia, agar mereka bertakwa.
+Dihalalkan bagimu pada malam hari puasa bercampur dengan istrimu. Mereka adalah pakaian bagimu, dan kamu adalah pakaian bagi mereka. Allah mengetahui bahwa kamu tidak dapat menahan dirimu sendiri, tetapi Dia menerima tobatmu dan memaafkanmu. Maka sekarang campurilah mereka dan carilah apa yang telah ditetapkan Allah bagimu. Makan dan minumlah hingga jelas bagimu (perbedaan) antara benang putih dan benang hitam, yaitu fajar. Kemudian sempurnakanlah puasa sampai (datang) malam. Tetapi jangan kamu campuri mereka, ketika kamu beriktikaf[^64] dalam masjid. Itulah ketentuan Allah, maka janganlah kamu mendekatinya. Demikianlah Allah menerangkan ayat-ayat-Nya kepada manusia, agar mereka bertakwa.
 
-*64) Iktikaf ialah berdiam dalam masjid dengan niat beribadah dan mendekatkan diri kepada Allah.
+[^64]: Iktikaf ialah berdiam dalam masjid dengan niat beribadah dan mendekatkan diri kepada Allah.
 
 # 195
 
@@ -902,9 +918,9 @@ Dan janganlah kamu makan harta di antara kamu dengan jalan yang batil, dan (jang
 
 # 196
 
-Mereka bertanya kepadamu (Muhammad) tentang bulan sabit. Katakanlah, "Itu adalah (penunjuk) waktu bagi manusia dan (ibadah) haji." Dan bukanlah suatu kebajikan memasuki rumah dari atasnya,65) tetapi kebajikan adalah (kebajikan) orang yang bertakwa. Masukilah rumah-rumah dari pintu-pintunya, dan bertakwalah kepada Allah agar kamu beruntung.
+Mereka bertanya kepadamu (Muhammad) tentang bulan sabit. Katakanlah, "Itu adalah (penunjuk) waktu bagi manusia dan (ibadah) haji." Dan bukanlah suatu kebajikan memasuki rumah dari atasnya,[^65] tetapi kebajikan adalah (kebajikan) orang yang bertakwa. Masukilah rumah-rumah dari pintu-pintunya, dan bertakwalah kepada Allah agar kamu beruntung.
 
-*65) Pada masa jahiliah, orang yang berihram saat haji, mereka memasuki rumah dari belakang (jika rumahnya berupa tenda, dan dari atas jika rumah berdinding serta pakai atap), bukan dari depan. Hal ini ditanyakan pula oleh para sahabat kepada Rasulullah -ṣallallāhu 'alaihi wa sallam-, sehingga turunlah ayat ini.
+[^65]: Pada masa jahiliah, orang yang berihram saat haji, mereka memasuki rumah dari belakang (jika rumahnya berupa tenda, dan dari atas jika rumah berdinding serta pakai atap), bukan dari depan. Hal ini ditanyakan pula oleh para sahabat kepada Rasulullah -ṣallallāhu 'alaihi wa sallam-, sehingga turunlah ayat ini.
 
 # 197
 
@@ -912,9 +928,9 @@ Dan perangilah di jalan Allah orang-orang yang memerangi kamu, tetapi jangan mel
 
 # 198
 
-Dan bunuhlah mereka di mana kamu temui mereka, dan usirlah mereka dari mana mereka telah mengusir kamu. Dan fitnah66) itu lebih kejam daripada pembunuhan. Dan janganlah kamu perangi mereka di Masjidilharam, kecuali jika mereka memerangi kamu di tempat itu. Jika mereka memerangi kamu, maka perangilah mereka. Demikianlah balasan bagi orang kafir.
+Dan bunuhlah mereka di mana kamu temui mereka, dan usirlah mereka dari mana mereka telah mengusir kamu. Dan fitnah[^66] itu lebih kejam daripada pembunuhan. Dan janganlah kamu perangi mereka di Masjidilharam, kecuali jika mereka memerangi kamu di tempat itu. Jika mereka memerangi kamu, maka perangilah mereka. Demikianlah balasan bagi orang kafir.
 
-*66) Fitnah (menimbulkan kekacauan), seperti mengusir sahabat dari kampung halamannya, merampas harta dan menyakiti atau mengganggu kebebasan seseorang beragama.
+[^66]: Fitnah (menimbulkan kekacauan), seperti mengusir sahabat dari kampung halamannya, merampas harta dan menyakiti atau mengganggu kebebasan seseorang beragama.
 
 # 199
 
@@ -926,9 +942,11 @@ Dan perangilah mereka itu sampai tidak ada lagi fitnah, dan agama hanya bagi All
 
 # 201
 
-Bulan haram dengan bulan haram,67) dan (terhadap) sesuatu yang dihormati68) berlaku (hukum) kisas. Oleh sebab itu barang siapa menyerang kamu, maka seranglah dia setimpal dengan serangannya terhadap kamu. Bertakwalah kepada Allah dan ketahuilah bahwa Allah beserta orang-orang yang bertakwa.
+Bulan haram dengan bulan haram,[^67] dan (terhadap) sesuatu yang dihormati[^68] berlaku (hukum) kisas. Oleh sebab itu barang siapa menyerang kamu, maka seranglah dia setimpal dengan serangannya terhadap kamu. Bertakwalah kepada Allah dan ketahuilah bahwa Allah beserta orang-orang yang bertakwa.
 
-*67) Kalau umat Islam diserang di bulan haram, yang sebenarnya di bulan itu tidak boleh berperang, maka diperbolehkan membalas serangan itu di bulan itu juga. 68) Maksudnya antara lain ialah bulan haram (bulan Zulkaidah, Zulhijah, Muharram dan Rajab), tanah haram (Mekkah) dan ihram.
+[^67]: Kalau umat Islam diserang di bulan haram, yang sebenarnya di bulan itu tidak boleh berperang, maka diperbolehkan membalas serangan itu di bulan itu juga
+
+[^68]: Maksudnya antara lain ialah bulan haram (bulan Zulkaidah, Zulhijah, Muharram dan Rajab), tanah haram (Mekkah) dan ihram.
 
 # 202
 
@@ -936,15 +954,17 @@ Dan infakkanlah (hartamu) di jalan Allah, dan janganlah kamu jatuhkan (diri send
 
 # 203
 
-Dan sempurnakanlah ibadah haji dan umrah karena Allah. Tetapi jika kamu terkepung (oleh musuh), maka (sembelihlah) hadyu69) yang mudah didapat, dan jangan kamu mencukur kepalamu sebelum hadyu sampai di tempat penyembelihannya. Jika ada di antara kamu yang sakit atau ada gangguan di kepalanya (lalu dia bercukur), maka dia wajib berfidyah, yaitu berpuasa, bersedekah atau berkurban. Apabila kamu dalam keadaan aman, maka siapa yang mengerjakan umrah sebelum haji, dia (wajib menyembelih) hadyu yang mudah didapat. Tetapi jika dia tidak mendapatkannya, maka dia (wajib) berpuasa tiga hari dalam (musim) haji dan tujuh (hari) setelah kamu kembali. Itulah sepuluh (hari) yang lengkap. Demikian itu, bagi orang yang keluarganya tidak ada (tinggal) di sekitar Masjidilharam. Bertakwalah kepada Allah dan ketahuilah bahwa Allah sangat keras hukuman-Nya.
+Dan sempurnakanlah ibadah haji dan umrah karena Allah. Tetapi jika kamu terkepung (oleh musuh), maka (sembelihlah) hadyu[^69] yang mudah didapat, dan jangan kamu mencukur kepalamu sebelum hadyu sampai di tempat penyembelihannya. Jika ada di antara kamu yang sakit atau ada gangguan di kepalanya (lalu dia bercukur), maka dia wajib berfidyah, yaitu berpuasa, bersedekah atau berkurban. Apabila kamu dalam keadaan aman, maka siapa yang mengerjakan umrah sebelum haji, dia (wajib menyembelih) hadyu yang mudah didapat. Tetapi jika dia tidak mendapatkannya, maka dia (wajib) berpuasa tiga hari dalam (musim) haji dan tujuh (hari) setelah kamu kembali. Itulah sepuluh (hari) yang lengkap. Demikian itu, bagi orang yang keluarganya tidak ada (tinggal) di sekitar Masjidilharam. Bertakwalah kepada Allah dan ketahuilah bahwa Allah sangat keras hukuman-Nya.
 
-*69) Hadyu ialah hewan yang disembelih sebagi pengganti (dam) pekerjaan wajib haji yang ditinggalkan; atau sebagai denda karena melanggar hal-hal yang terlarang mengerjakannya di dalam ibadah haji.
+[^69]: Hadyu ialah hewan yang disembelih sebagi pengganti (dam) pekerjaan wajib haji yang ditinggalkan; atau sebagai denda karena melanggar hal-hal yang terlarang mengerjakannya di dalam ibadah haji.
 
 # 204
 
-(Musim) haji itu (pada) bulan-bulan yang telah dimaklumi.70) Siapa yang mengerjakan (ibadah) haji dalam (bulan-bulan) itu, maka janganlah dia berkata jorok (rafaṡ),71) berbuat maksiat dan bertengkar dalam (melakukan ibadah) haji. Segala yang baik yang kamu kerjakan, Allah mengetahuinya. Bawalah bekal, karena sesungguhnya sebaik-baik bekal adalah takwa. Dan bertakwalah kepada-Ku Wahai orang-orang yang mempunyai akal sehat!
+(Musim) haji itu (pada) bulan-bulan yang telah dimaklumi.[^70] Siapa yang mengerjakan (ibadah) haji dalam (bulan-bulan) itu, maka janganlah dia berkata jorok (rafaṡ),[^71] berbuat maksiat dan bertengkar dalam (melakukan ibadah) haji. Segala yang baik yang kamu kerjakan, Allah mengetahuinya. Bawalah bekal, karena sesungguhnya sebaik-baik bekal adalah takwa. Dan bertakwalah kepada-Ku Wahai orang-orang yang mempunyai akal sehat!
 
-*70) Ialah bulan Syawal, Zulkaidah dan Zulhijah. 71) Jorok (rafaṡ) artinya mengeluarkan perkataan yang menimbulkan birahi, perbuatan yang tidak senonoh atau hubungan seksual.
+[^70]: Ialah bulan Syawal, Zulkaidah dan Zulhijah
+
+[^71]: Jorok (rafaṡ) artinya mengeluarkan perkataan yang menimbulkan birahi, perbuatan yang tidak senonoh atau hubungan seksual.
 
 # 205
 
@@ -956,9 +976,9 @@ Kemudian bertolaklah kamu dari tempat orang banyak bertolak (Arafah) dan mohonla
 
 # 207
 
-Apabila kamu telah menyelesaikan ibadah haji, maka berzikirlah kepada Allah, sebagaimana kamu menyebut-nyebut nenek moyang kamu,72) bahkan berzikirlah lebih dari itu. Maka di antara manusia ada orang berdoa, "Ya Tuhan Kami, berilah kami (kebaikan) di dunia," dan di akhirat dia tidak memperoleh bagian apa pun.
+Apabila kamu telah menyelesaikan ibadah haji, maka berzikirlah kepada Allah, sebagaimana kamu menyebut-nyebut nenek moyang kamu,[^72] bahkan berzikirlah lebih dari itu. Maka di antara manusia ada orang berdoa, "Ya Tuhan Kami, berilah kami (kebaikan) di dunia," dan di akhirat dia tidak memperoleh bagian apa pun.
 
-*72) Kebiasaan orang-orang Arab Jahiliah setelah menunaikan haji mengagungkan kebesaran nenek moyangnya. Setelah ayat ini diturunkan, kebiasaan tersebut diganti dengan zikir kepada Allah.
+[^72]: Kebiasaan orang-orang Arab Jahiliah setelah menunaikan haji mengagungkan kebesaran nenek moyangnya. Setelah ayat ini diturunkan, kebiasaan tersebut diganti dengan zikir kepada Allah.
 
 # 208
 
@@ -970,9 +990,9 @@ Mereka itulah orang yang memperoleh bagian dari apa yang telah mereka kerjakan, 
 
 # 210
 
-Dan berzikirlah kepada Allah pada hari yang telah ditentukan jumlahnya.73) Barang siapa mempercepat (meninggalkan Mina) setelah dua hari, maka ia tak berdosa. Dan barang siapa mengakhirkannya tidak ada dosa (pula) baginya, (yakni) bagi orang yang bertakwa. Dan bertakwalah kepada Allah, dan ketahuilah bahwa kamu akan dikumpulkan pada-Nya.
+Dan berzikirlah kepada Allah pada hari yang telah ditentukan jumlahnya.[^73] Barang siapa mempercepat (meninggalkan Mina) setelah dua hari, maka ia tak berdosa. Dan barang siapa mengakhirkannya tidak ada dosa (pula) baginya, (yakni) bagi orang yang bertakwa. Dan bertakwalah kepada Allah, dan ketahuilah bahwa kamu akan dikumpulkan pada-Nya.
 
-*73) Maksud zikir di sini ialah membaca takbir, tasbih, tahmid, dan sebagainya. Beberapa hari yang berbilang ialah tiga hari setelah hari raya haji, yaitu tanggal 11, 12 dan 13 bulan Zulhijah. Hari-hari itu dinamakan hari Tasyrik.
+[^73]: Maksud zikir di sini ialah membaca takbir, tasbih, tahmid, dan sebagainya. Beberapa hari yang berbilang ialah tiga hari setelah hari raya haji, yaitu tanggal 11, 12 dan 13 bulan Zulhijah. Hari-hari itu dinamakan hari Tasyrik.
 
 # 211
 
@@ -1028,9 +1048,9 @@ Diwajibkan atas kamu berperang, padahal itu tidak menyenangkan bagimu. Tetapi bo
 
 # 224
 
-Mereka bertanya kepadamu (Muhammad) tentang berperang pada bulan haram. Katakanlah, "Berperang dalam bulan itu adalah (dosa) besar. Tetapi menghalangi (orang) dari jalan Allah, ingkar kepada-Nya, (menghalangi orang masuk) Masjidilharam, dan mengusir penduduk dari sekitarnya, lebih besar (dosanya) dalam pandangan Allah. Sedangkan fitnah74) lebih kejam daripada pembunuhan. Mereka tidak akan berhenti memerangimu sampai kamu murtad (keluar) dari agamamu, jika mereka sanggup. Barang siapa yang murtad di antara kamu dari agamanya, lalu dia mati dalam kekafiran, maka mereka itu sia-sia amalnya di dunia dan di akhirat, dan mereka itulah penghuni neraka, mereka kekal di dalamnya."
+Mereka bertanya kepadamu (Muhammad) tentang berperang pada bulan haram. Katakanlah, "Berperang dalam bulan itu adalah (dosa) besar. Tetapi menghalangi (orang) dari jalan Allah, ingkar kepada-Nya, (menghalangi orang masuk) Masjidilharam, dan mengusir penduduk dari sekitarnya, lebih besar (dosanya) dalam pandangan Allah. Sedangkan fitnah[^74] lebih kejam daripada pembunuhan. Mereka tidak akan berhenti memerangimu sampai kamu murtad (keluar) dari agamamu, jika mereka sanggup. Barang siapa yang murtad di antara kamu dari agamanya, lalu dia mati dalam kekafiran, maka mereka itu sia-sia amalnya di dunia dan di akhirat, dan mereka itulah penghuni neraka, mereka kekal di dalamnya."
 
-*74) Fitnah di sini artinya kesyirikan mereka, penganiayaan dan segala perbuatan yang dimaksudkan untuk menindas Islam dan kaum muslimin.
+[^74]: Fitnah di sini artinya kesyirikan mereka, penganiayaan dan segala perbuatan yang dimaksudkan untuk menindas Islam dan kaum muslimin.
 
 # 225
 
@@ -1038,9 +1058,9 @@ Sesungguhnya orang-orang yang beriman, dan orang-orang yang berhijrah dan berjih
 
 # 226
 
-Mereka menanyakan kepadamu (Muhammad) tentang khamar75) dan judi. Katakanlah, "Pada keduanya terdapat dosa besar dan beberapa manfaat bagi manusia. Tetapi dosanya lebih besar daripada manfaatnya." Dan mereka menanyakan kepadamu (tentang) apa yang (harus) mereka infakkan. Katakanlah, "Kelebihan (dari apa yang diperlukan)." Demikianlah Allah menerangkan ayat-ayat-Nya kepadamu agar kamu memikirkan,
+Mereka menanyakan kepadamu (Muhammad) tentang khamar[^75] dan judi. Katakanlah, "Pada keduanya terdapat dosa besar dan beberapa manfaat bagi manusia. Tetapi dosanya lebih besar daripada manfaatnya." Dan mereka menanyakan kepadamu (tentang) apa yang (harus) mereka infakkan. Katakanlah, "Kelebihan (dari apa yang diperlukan)." Demikianlah Allah menerangkan ayat-ayat-Nya kepadamu agar kamu memikirkan,
 
-*75) Segala minuman yang memabukkan.
+[^75]: Segala minuman yang memabukkan.
 
 # 227
 
@@ -1052,9 +1072,11 @@ Dan janganlah kamu nikahi perempuan musyrik, sebelum mereka beriman. Sungguh, ha
 
 # 229
 
-Dan mereka menanyakan kepadamu (Muhammad) tentang haid. Katakanlah, "Itu adalah gangguan (sesuatu yang kotor)." Karena itu jauhilah76) istri pada waktu haid; dan jangan kamu dekati mereka sebelum mereka suci.77) Apabila mereka telah suci, campurilah mereka sesuai dengan (ketentuan) yang diperintahkan Allah kepadamu. Sungguh, Allah menyukai orang yang tobat dan menyukai orang yang menyucikan diri.
+Dan mereka menanyakan kepadamu (Muhammad) tentang haid. Katakanlah, "Itu adalah gangguan (sesuatu yang kotor)." Karena itu jauhilah[^76] istri pada waktu haid; dan jangan kamu dekati mereka sebelum mereka suci.[^77] Apabila mereka telah suci, campurilah mereka sesuai dengan (ketentuan) yang diperintahkan Allah kepadamu. Sungguh, Allah menyukai orang yang tobat dan menyukai orang yang menyucikan diri.
 
-*76) Jangan bercampur dengan istri pada waktu haid. 77) Yang dimaksud suci di sini ialah setelah mandi wajib sehabis haid. Adapula yang menafsirkan setelah darah berhenti keluar.
+[^76]: Jangan bercampur dengan istri pada waktu haid
+
+[^77]: Yang dimaksud suci di sini ialah setelah mandi wajib sehabis haid. Adapula yang menafsirkan setelah darah berhenti keluar.
 
 # 230
 
@@ -1062,21 +1084,21 @@ Istri-istrimu adalah ladang bagimu, maka datangilah ladangmu itu kapan saja deng
 
 # 231
 
-Dan janganlah kamu jadikan (nama) Allah dalam sumpahmu sebagai penghalang untuk berbuat kebajikan, bertakwa dan menciptakan kedamaian di antara manusia.78) Allah Maha Mendengar, Maha Mengetahui.
+Dan janganlah kamu jadikan (nama) Allah dalam sumpahmu sebagai penghalang untuk berbuat kebajikan, bertakwa dan menciptakan kedamaian di antara manusia.[^78] Allah Maha Mendengar, Maha Mengetahui.
 
-*78) Melarang bersumpah dengan mempergunakan nama Allah untuk tidak mengerjakan yang baik, seperti: “Demi Allah, saya tidak akan membantu anak yatim”. Tetapi apabila sumpah itu telah terucapkan, haruslah dilanggar dengan membayar kafarat.
+[^78]: Melarang bersumpah dengan mempergunakan nama Allah untuk tidak mengerjakan yang baik, seperti: “Demi Allah, saya tidak akan membantu anak yatim”. Tetapi apabila sumpah itu telah terucapkan, haruslah dilanggar dengan membayar kafarat.
 
 # 232
 
-Allah tidak menghukum kamu karena sumpahmu yang tidak kamu sengaja, tetapi Dia menghukum kamu karena niat yang terkandung dalam hatimu. Allah Maha Pengampun, Maha Penyantun.79)
+Allah tidak menghukum kamu karena sumpahmu yang tidak kamu sengaja, tetapi Dia menghukum kamu karena niat yang terkandung dalam hatimu. Allah Maha Pengampun, Maha Penyantun.[^79]
 
-*79) Tidak segera menyiksa orang yang berbuat dosa.
+[^79]: Tidak segera menyiksa orang yang berbuat dosa.
 
 # 233
 
-Bagi orang yang meng-ila` istrinya80) harus menunggu empat bulan. Kemudian jika mereka kembali (kepada istrinya), maka sungguh, Allah Maha Pengampun, Maha Penyayang.
+Bagi orang yang meng-ila` istrinya[^80] harus menunggu empat bulan. Kemudian jika mereka kembali (kepada istrinya), maka sungguh, Allah Maha Pengampun, Maha Penyayang.
 
-*80) Meng-ila` istri, maksudnya bersumpah tidak akan mencampuri istri. Dengan sumpah ini seorang istri menderita, karena tidak dicampuri dan tidak pula diceraikan. Dengan turunnya ayat ini, maka suami setelah empat bulan harus memilih antara kembali mencampuri istrinya lagi dengan membayar kafarat sumpah, atau menceraikan.
+[^80]: Meng-ila` istri, maksudnya bersumpah tidak akan mencampuri istri. Dengan sumpah ini seorang istri menderita, karena tidak dicampuri dan tidak pula diceraikan. Dengan turunnya ayat ini, maka suami setelah empat bulan harus memilih antara kembali mencampuri istrinya lagi dengan membayar kafarat sumpah, atau menceraikan.
 
 # 234
 
@@ -1084,15 +1106,17 @@ Dan jika mereka berketetapan hati hendak menceraikan, maka sungguh, Allah Maha M
 
 # 235
 
-Dan para istri yang diceraikan (wajib) menahan diri mereka (menunggu) tiga kali quru`.81) Mereka tidak boleh menyembunyikan apa yang diciptakan Allah dalam rahim mereka, jika mereka beriman kepada Allah dan hari akhir. Dan para suami mereka lebih berhak kembali kepada mereka dalam (masa) itu, jika mereka menghendaki perbaikan. Dan mereka (para perempuan) mempunyai hak seimbang dengan kewajibannya menurut cara yang patut. Tetapi para suami, mempunyai kelebihan di atas mereka.82) Allah Mahaperkasa, Mahabijaksana.
+Dan para istri yang diceraikan (wajib) menahan diri mereka (menunggu) tiga kali quru`.[^81] Mereka tidak boleh menyembunyikan apa yang diciptakan Allah dalam rahim mereka, jika mereka beriman kepada Allah dan hari akhir. Dan para suami mereka lebih berhak kembali kepada mereka dalam (masa) itu, jika mereka menghendaki perbaikan. Dan mereka (para perempuan) mempunyai hak seimbang dengan kewajibannya menurut cara yang patut. Tetapi para suami, mempunyai kelebihan di atas mereka.[^82] Allah Mahaperkasa, Mahabijaksana.
 
-*81) Quru` jamak dari qar`u yang berarti suci, atau haid. 82) Diantaranya karena suami bertanggung jawab terhadap keselamatan dan kesejahteraan rumah tangga (An-Nisa` (4) : 34).
+[^81]: Quru` jamak dari qar`u yang berarti suci, atau haid
+
+[^82]: Diantaranya karena suami bertanggung jawab terhadap keselamatan dan kesejahteraan rumah tangga (An-Nisa` (4) : 34).
 
 # 236
 
-Talak (yang dapat dirujuk) itu dua kali. (Setelah itu suami dapat) menahan dengan baik, atau melepaskan dengan baik. Tidak halal bagi kamu mengambil kembali sesuatu yang telah kamu berikan kepada mereka, kecuali keduanya (suami dan istri) khawatir tidak mampu menjalankan hukum-hukum Allah. Jika kamu (wali) khawatir bahwa keduanya tidak mampu menjalankan hukum Allah, maka keduanya tidak berdosa atas bayaran yang (harus) diberikan (oleh istri) untuk menebus dirinya.83) Itulah hukum-hukum Allah, maka janganlah kamu melanggarnya. Barangsiapa melanggar hukum-hukum Allah, mereka itulah orang-orang yang zalim.
+Talak (yang dapat dirujuk) itu dua kali. (Setelah itu suami dapat) menahan dengan baik, atau melepaskan dengan baik. Tidak halal bagi kamu mengambil kembali sesuatu yang telah kamu berikan kepada mereka, kecuali keduanya (suami dan istri) khawatir tidak mampu menjalankan hukum-hukum Allah. Jika kamu (wali) khawatir bahwa keduanya tidak mampu menjalankan hukum Allah, maka keduanya tidak berdosa atas bayaran yang (harus) diberikan (oleh istri) untuk menebus dirinya.[^83] Itulah hukum-hukum Allah, maka janganlah kamu melanggarnya. Barangsiapa melanggar hukum-hukum Allah, mereka itulah orang-orang yang zalim.
 
-*83) Ayat ini menjadi dasar hukum khulu’ dan penerimaan ‘iwaḍ. Khulu’ yaitu hak istri untuk bercerai dari suaminya dengan membayar ‘iwaḍ melalui pengadilan.
+[^83]: Ayat ini menjadi dasar hukum khulu’ dan penerimaan ‘iwaḍ. Khulu’ yaitu hak istri untuk bercerai dari suaminya dengan membayar ‘iwaḍ melalui pengadilan.
 
 # 237
 
@@ -1100,15 +1124,15 @@ Kemudian jika dia menceraikannya (setelah talak yang kedua), maka perempuan itu 
 
 # 238
 
-Dan apabila kamu menceraikan istri-istri (kamu), lalu sampai (akhir) idahnya,84) maka tahanlah mereka dengan cara yang baik, atau ceraikanlah mereka dengan cara yang baik (pula). Dan janganlah kamu tahan mereka dengan maksud jahat untuk menzalimi mereka. Barang siapa melakukan demikian, maka dia telah menzalimi dirinya sendiri. Dan janganlah kamu jadikan ayat-ayat Allah sebagai bahan ejekan. Ingatlah nikmat Allah kepada kamu, dan apa yang telah diturunkan Allah kepada kamu yaitu kitab (Al-Qur`an) dan Hikmah (Sunah), untuk memberi pengajaran kepadamu. Dan bertakwalah kepada Allah dan ketahuilah bahwa Allah Maha Mengetahui segala sesuatu.
+Dan apabila kamu menceraikan istri-istri (kamu), lalu sampai (akhir) idahnya,[^84] maka tahanlah mereka dengan cara yang baik, atau ceraikanlah mereka dengan cara yang baik (pula). Dan janganlah kamu tahan mereka dengan maksud jahat untuk menzalimi mereka. Barang siapa melakukan demikian, maka dia telah menzalimi dirinya sendiri. Dan janganlah kamu jadikan ayat-ayat Allah sebagai bahan ejekan. Ingatlah nikmat Allah kepada kamu, dan apa yang telah diturunkan Allah kepada kamu yaitu kitab (Al-Qur`an) dan Hikmah (Sunah), untuk memberi pengajaran kepadamu. Dan bertakwalah kepada Allah dan ketahuilah bahwa Allah Maha Mengetahui segala sesuatu.
 
-*84) Idah ialah masa menunggu (tidak boleh menikah) bagi perempuan karena perceraian atau kematian suaminya.
+[^84]: Idah ialah masa menunggu (tidak boleh menikah) bagi perempuan karena perceraian atau kematian suaminya.
 
 # 239
 
-Dan apabila kamu menceraikan istri-istri (kamu), lalu sampai idahnya, maka jangan kamu halangi mereka menikah (lagi) dengan calon suaminya,85) apabila telah terjalin kecocokan di antara mereka dengan cara yang baik. Itulah yang dinasihatkan kepada orang-orang di antara kamu yang beriman kepada Allah dan hari akhir. Itu lebih suci bagimu dan lebih bersih. Dan Allah mengetahui, sedangkan kamu tidak mengetahui.
+Dan apabila kamu menceraikan istri-istri (kamu), lalu sampai idahnya, maka jangan kamu halangi mereka menikah (lagi) dengan calon suaminya,[^85] apabila telah terjalin kecocokan di antara mereka dengan cara yang baik. Itulah yang dinasihatkan kepada orang-orang di antara kamu yang beriman kepada Allah dan hari akhir. Itu lebih suci bagimu dan lebih bersih. Dan Allah mengetahui, sedangkan kamu tidak mengetahui.
 
-*85) Menikah lagi dengan bekas suami atau laki-laki yang lain.
+[^85]: Menikah lagi dengan bekas suami atau laki-laki yang lain.
 
 # 240
 
@@ -1116,33 +1140,35 @@ Dan ibu-ibu hendaklah menyusui anak-anaknya selama dua tahun penuh, bagi yang in
 
 # 241
 
-Dan Orang-orang yang wafat di antara kamu serta meninggalkan istri-istri hendaklah mereka (istri-istri) menunggu empat bulan sepuluh hari. Kemudian apabila telah sampai (akhir) idah mereka, maka tidak ada dosa bagimu mengenai apa yang mereka lakukan terhadap diri mereka 86) menurut cara yang patut. Dan Allah Maha Mengetahui apa yang kamu kerjakan.
+Dan Orang-orang yang wafat di antara kamu serta meninggalkan istri-istri hendaklah mereka (istri-istri) menunggu empat bulan sepuluh hari. Kemudian apabila telah sampai (akhir) idah mereka, maka tidak ada dosa bagimu mengenai apa yang mereka lakukan terhadap diri mereka [^86] menurut cara yang patut. Dan Allah Maha Mengetahui apa yang kamu kerjakan.
 
-*86) Berhias, bepergian atau menerima pinangan.
+[^86]: Berhias, bepergian atau menerima pinangan.
 
 # 242
 
-Dan tidak ada dosa bagimu meminang perempuan-perempuan itu dengan sindiran87) atau kamu sembunyikan (keinginanmu) dalam hati. Allah mengetahui bahwa kamu akan menyebut-nyebut kepada mereka. Tetapi janganlah kamu membuat perjanjian (untuk menikah) dengan mereka secara rahasia, kecuali sekedar mengucapkan kata-kata yang baik.88) Dan janganlah kamu menetapkan akad nikah, sebelum habis masa idahnya. Ketahuilah bahwa Allah mengetahui apa yang ada dalam hatimu, maka takutlah kepada-Nya. Dan ketahuilah bahwa Allah Maha Pengampun, Maha Penyantun.
+Dan tidak ada dosa bagimu meminang perempuan-perempuan itu dengan sindiran[^87] atau kamu sembunyikan (keinginanmu) dalam hati. Allah mengetahui bahwa kamu akan menyebut-nyebut kepada mereka. Tetapi janganlah kamu membuat perjanjian (untuk menikah) dengan mereka secara rahasia, kecuali sekedar mengucapkan kata-kata yang baik.[^88] Dan janganlah kamu menetapkan akad nikah, sebelum habis masa idahnya. Ketahuilah bahwa Allah mengetahui apa yang ada dalam hatimu, maka takutlah kepada-Nya. Dan ketahuilah bahwa Allah Maha Pengampun, Maha Penyantun.
 
-*87) Perempuan yang boleh dipinang secara sindiran adalah peremuan yang berada dalam masa idah karena suaminya wafat, atau karena talak bain. Sedang perempuan yang dalam idah talak raj'i tidak boleh dipinang walaupun dengan sindiran. 88) Perkataan sindiran yang baik.
+[^87]: Perempuan yang boleh dipinang secara sindiran adalah peremuan yang berada dalam masa idah karena suaminya wafat, atau karena talak bain. Sedang perempuan yang dalam idah talak raj'i tidak boleh dipinang walaupun dengan sindiran
+
+[^88]: Perkataan sindiran yang baik.
 
 # 243
 
-Tidak ada dosa bagimu jika kamu menceraikan istri-istri kamu yang belum kamu sentuh (campuri) atau belum kamu tentukan maharnya. Dan hendaklah kamu beri mereka mut'ah,89) bagi yang mampu menurut kemampuannya dan bagi yang tidak mampu menurut kesanggupannya, yaitu pemberian dengan cara yang patut, yang merupakan kewajiban bagi orang-orang yang berbuat kebaikan.
+Tidak ada dosa bagimu jika kamu menceraikan istri-istri kamu yang belum kamu sentuh (campuri) atau belum kamu tentukan maharnya. Dan hendaklah kamu beri mereka mut'ah,[^89] bagi yang mampu menurut kemampuannya dan bagi yang tidak mampu menurut kesanggupannya, yaitu pemberian dengan cara yang patut, yang merupakan kewajiban bagi orang-orang yang berbuat kebaikan.
 
-*89) Ialah sesuatu yang diberikan oleh suami kepada istri yang diceraikannya sebagi penghibur, selain nafkah sesuai dengan kemampuannya.
+[^89]: Ialah sesuatu yang diberikan oleh suami kepada istri yang diceraikannya sebagi penghibur, selain nafkah sesuai dengan kemampuannya.
 
 # 244
 
-Dan jika kamu menceraikan mereka sebelum kamu sentuh (campuri), padahal kamu sudah menentukan maharnya, maka (bayarlah) seperdua dari yang telah kamu tentukan, kecuali jika mereka (membebaskan) atau dibebaskan oleh orang yang akad nikah ada ditangannya.90) Pembebasan itu lebih dekat kepada takwa. Dan janganlah kamu melupakan kebaikan di antara kamu. Sungguh, Allah Maha Melihat apa yang kamu kerjakan.
+Dan jika kamu menceraikan mereka sebelum kamu sentuh (campuri), padahal kamu sudah menentukan maharnya, maka (bayarlah) seperdua dari yang telah kamu tentukan, kecuali jika mereka (membebaskan) atau dibebaskan oleh orang yang akad nikah ada ditangannya.[^90] Pembebasan itu lebih dekat kepada takwa. Dan janganlah kamu melupakan kebaikan di antara kamu. Sungguh, Allah Maha Melihat apa yang kamu kerjakan.
 
-*90) Ialah suami atau wali. Kalau wali yang membebaskan, maka suami dibebaskan dari membayar separuh mahar, sedang kalau suami yang membebaskan, maka dia membayar seluruh mahar.
+[^90]: Ialah suami atau wali. Kalau wali yang membebaskan, maka suami dibebaskan dari membayar separuh mahar, sedang kalau suami yang membebaskan, maka dia membayar seluruh mahar.
 
 # 245
 
-Peliharalah semua salat dan salat wusṭa.91) Dan laksanakanlah (salat) karena Allah dengan khusyuk.
+Peliharalah semua salat dan salat wusṭa.[^91] Dan laksanakanlah (salat) karena Allah dengan khusyuk.
 
-*91) Salat wusṭa menurut hadis yang sahih adalah salat Asar.
+[^91]: Salat wusṭa menurut hadis yang sahih adalah salat Asar.
 
 # 246
 
@@ -1170,15 +1196,15 @@ Dan berperanglah kamu di jalan Allah, dan ketahuilah bahwa Allah Maha Mendengar,
 
 # 252
 
-Barang siapa meminjami92) Allah dengan pinjaman yang baik maka Allah melipat gandakan ganti kepadanya dalam jumlah yang banyak. Allah menahan dan melapangkan (rezeki) dan kepada-Nyalah kamu dikembalikan.
+Barang siapa meminjami[^92] Allah dengan pinjaman yang baik maka Allah melipat gandakan ganti kepadanya dalam jumlah yang banyak. Allah menahan dan melapangkan (rezeki) dan kepada-Nyalah kamu dikembalikan.
 
-*92) Maksud meminjami Allah adalah menginfakkan hartanya di jalan Allah.
+[^92]: Maksud meminjami Allah adalah menginfakkan hartanya di jalan Allah.
 
 # 253
 
-Tidakkah kamu perhatikan para pemuka Bani Israil setelah Musa wafat ketika mereka berkata kepada seorang nabi mereka, "Angkatlah seorang raja untuk kami, niscaya kami berperang di jalan Allah." Nabi mereka menjawab, "Jangan-jangan jika diwajibkan atasmu berperang, kamu tidak akan berperang juga?" Mereka menjawab, "Mengapa kami tidak akan berperang di jalan Allah, sedangkan kami telah diusir dari kampung halaman kami dan (dipisahkan dari) anak-anak kami?"93) Tetapi ketika perang itu diwajibkan atas mereka, mereka berpaling, kecuali sebagian kecil dari mereka. Dan Allah Maha Mengetahui orang-orang yang zalim.
+Tidakkah kamu perhatikan para pemuka Bani Israil setelah Musa wafat ketika mereka berkata kepada seorang nabi mereka, "Angkatlah seorang raja untuk kami, niscaya kami berperang di jalan Allah." Nabi mereka menjawab, "Jangan-jangan jika diwajibkan atasmu berperang, kamu tidak akan berperang juga?" Mereka menjawab, "Mengapa kami tidak akan berperang di jalan Allah, sedangkan kami telah diusir dari kampung halaman kami dan (dipisahkan dari) anak-anak kami?"[^93] Tetapi ketika perang itu diwajibkan atas mereka, mereka berpaling, kecuali sebagian kecil dari mereka. Dan Allah Maha Mengetahui orang-orang yang zalim.
 
-*93) Mereka diusir dan anak-anak mereka ditawan.
+[^93]: Mereka diusir dan anak-anak mereka ditawan.
 
 # 254
 
@@ -1186,9 +1212,9 @@ Dan nabi mereka berkata kepada mereka, "Sesungguhnya Allah telah mengangkat Talu
 
 # 255
 
-Dan nabi mereka berkata kepada mereka, "Sesungguhnya tanda kerajaannya ialah datangnya Tabut94) kepadamu, yang di dalamnya terdapat ketenangan dari Tuhanmu dan sisa peninggalan keluarga Musa dan keluarga Harun, yang dibawa oleh malaikat." Sungguh, pada yang demikian itu terdapat tanda (kebesaran Allah) bagimu, jika kamu orang beriman.
+Dan nabi mereka berkata kepada mereka, "Sesungguhnya tanda kerajaannya ialah datangnya Tabut[^94] kepadamu, yang di dalamnya terdapat ketenangan dari Tuhanmu dan sisa peninggalan keluarga Musa dan keluarga Harun, yang dibawa oleh malaikat." Sungguh, pada yang demikian itu terdapat tanda (kebesaran Allah) bagimu, jika kamu orang beriman.
 
-*94) Tabut ialah peti tempat menyimpan Taurat
+[^94]: Tabut ialah peti tempat menyimpan Taurat
 
 # 256
 
@@ -1208,9 +1234,9 @@ Itulah ayat-ayat Allah, Kami bacakan kepadamu dengan benar dan engkau (Muhammad)
 
 # 260
 
-Rasul-rasul itu Kami lebihkan sebagian mereka dari sebagian yang lain. Di antara mereka ada yang (langsung) Allah berfirman dengannya dan sebagian lagi ada yang ditinggikan-Nya beberapa derajat. Dan Kami beri Isa putra Maryam beberapa mukjizat dan Kami perkuat dia dengan Rohulkudus.95) Kalau Allah menghendaki, niscaya orang-orang setelah mereka tidak akan berbunuh-bunuhan, setelah bukti-bukti sampai kepada mereka. Tetapi mereka berselisih, maka ada di antara mereka yang beriman dan ada (pula) yang kafir. Kalau Allah menghendaki, tidaklah mereka berbunuh-bunuhan. Tetapi Allah berbuat menurut kahendak-Nya.
+Rasul-rasul itu Kami lebihkan sebagian mereka dari sebagian yang lain. Di antara mereka ada yang (langsung) Allah berfirman dengannya dan sebagian lagi ada yang ditinggikan-Nya beberapa derajat. Dan Kami beri Isa putra Maryam beberapa mukjizat dan Kami perkuat dia dengan Rohulkudus.[^95] Kalau Allah menghendaki, niscaya orang-orang setelah mereka tidak akan berbunuh-bunuhan, setelah bukti-bukti sampai kepada mereka. Tetapi mereka berselisih, maka ada di antara mereka yang beriman dan ada (pula) yang kafir. Kalau Allah menghendaki, tidaklah mereka berbunuh-bunuhan. Tetapi Allah berbuat menurut kahendak-Nya.
 
-*95) Menurut para mufasir, yang dimaksud Ruhulkudus ialah Malaikat Jibril.
+[^95]: Menurut para mufasir, yang dimaksud Ruhulkudus ialah Malaikat Jibril.
 
 # 261
 
@@ -1218,15 +1244,15 @@ Wahai orang-orang yang beriman! Infakkanlah sebagian dari rezeki yang telah Kami
 
 # 262
 
-Allah, tidak ada tuhan selain Dia. Yang Mahahidup, Yang terus menerus mengurus (makhluk-Nya), tidak mengantuk dan tidak tidur. Milik-Nya apa yang ada di langit dan apa yang ada di bumi. Tidak ada yang dapat memberi syafaat di sisi-Nya tanpa izin-Nya. Dia mengetahui apa yang dihadapan mereka dan apa yang di belakang mereka, dan mereka tidak mengetahui sesuatu apa pun tentang ilmu-Nya melainkan apa yang Dia kehendaki. Kursi-Nya96) meliputi langit dan bumi. Dan Dia tidak merasa berat memelihara keduanya, dan Dia Mahatinggi, Mahabesar.
+Allah, tidak ada tuhan selain Dia. Yang Mahahidup, Yang terus menerus mengurus (makhluk-Nya), tidak mengantuk dan tidak tidur. Milik-Nya apa yang ada di langit dan apa yang ada di bumi. Tidak ada yang dapat memberi syafaat di sisi-Nya tanpa izin-Nya. Dia mengetahui apa yang dihadapan mereka dan apa yang di belakang mereka, dan mereka tidak mengetahui sesuatu apa pun tentang ilmu-Nya melainkan apa yang Dia kehendaki. Kursi-Nya[^96] meliputi langit dan bumi. Dan Dia tidak merasa berat memelihara keduanya, dan Dia Mahatinggi, Mahabesar.
 
-*96) Sebagian mufasir mengartikan dengan ilmu Allah, ada pula yang mengartikan dengan kekuasaan-Nya, ada juga yang mengartikannya dengan tempat kedua kaki-Nya, dan ada juga yang menafsirkan lain.
+[^96]: Sebagian mufasir mengartikan dengan ilmu Allah, ada pula yang mengartikan dengan kekuasaan-Nya, ada juga yang mengartikannya dengan tempat kedua kaki-Nya, dan ada juga yang menafsirkan lain.
 
 # 263
 
-Tidak ada paksaan dalam (menganut) agama (Islam), sesungguhnya telah jelas (perbedaan) antara jalan yang benar dengan jalan yang sesat. Barang siapa ingkar kepada Tagut97) dan beriman kepada Allah, maka sungguh, dia telah berpegang (teguh) pada tali yang sangat kuat yang tidak akan putus. Allah Maha Mendengar, Maha Mengetahui.
+Tidak ada paksaan dalam (menganut) agama (Islam), sesungguhnya telah jelas (perbedaan) antara jalan yang benar dengan jalan yang sesat. Barang siapa ingkar kepada Tagut[^97] dan beriman kepada Allah, maka sungguh, dia telah berpegang (teguh) pada tali yang sangat kuat yang tidak akan putus. Allah Maha Mendengar, Maha Mengetahui.
 
-*97) Setan dan apa saja yang disembah selain Allah -Subḥānahu wata'ālā-.
+[^97]: Setan dan apa saja yang disembah selain Allah -Subḥānahu wata'ālā-.
 
 # 264
 
@@ -1234,9 +1260,11 @@ Allah pelindung orang yang beriman. Dia mengeluarkan mereka dari kegelapan kepad
 
 # 265
 
-Tidakkah kamu memperhatikan orang98) yang mendebat Ibrahim mengenai Tuhannya, karena Allah telah memberinya kerajaan (kekuasaan). Ketika Ibrahim berkata, "Tuhanku ialah Yang menghidupkan dan mematikan," dia berkata, "Aku pun dapat menghidupkan dan mematikan."99) Ibrahim berkata, "Allah menerbitkan matahari dari timur, maka terbitkanlah ia dari barat." Maka orang yang kafir itupun bingung. Allah tidak memberi petunjuk kepada orang-orang yang zalim.
+Tidakkah kamu memperhatikan orang[^98] yang mendebat Ibrahim mengenai Tuhannya, karena Allah telah memberinya kerajaan (kekuasaan). Ketika Ibrahim berkata, "Tuhanku ialah Yang menghidupkan dan mematikan," dia berkata, "Aku pun dapat menghidupkan dan mematikan."[^99] Ibrahim berkata, "Allah menerbitkan matahari dari timur, maka terbitkanlah ia dari barat." Maka orang yang kafir itupun bingung. Allah tidak memberi petunjuk kepada orang-orang yang zalim.
 
-*98) Menurut sebagian riwayat adalah Namrud raja Babilonia. 99) Menghidupkan ialah membiarkan hidup, dan yang dimaksudkan dengan mematikan ialah membunuh. Perkataannya itu untuk mengejek Nabi Ibrahim -'alaihissalām-.
+[^98]: Menurut sebagian riwayat adalah Namrud raja Babilonia
+
+[^99]: Menghidupkan ialah membiarkan hidup, dan yang dimaksudkan dengan mematikan ialah membunuh. Perkataannya itu untuk mengejek Nabi Ibrahim -'alaihissalām-.
 
 # 266
 
@@ -1256,9 +1284,9 @@ Orang yang menginfakkan hartanya di jalan Allah, kemudian tidak mengiringi apa y
 
 # 270
 
-Perkataan yang baik dan pemberian maaf 100) lebih baik daripada sedekah yang diiringi tindakan yang menyakiti. Allah Mahakaya, Maha Penyantun.
+Perkataan yang baik dan pemberian maaf [^100] lebih baik daripada sedekah yang diiringi tindakan yang menyakiti. Allah Mahakaya, Maha Penyantun.
 
-*100) Perkataan yang baik, menolak dengan cara yang baik, dan pemberian maaf ialah memaafkan tingkah laku yang kurang sopan dari peminta.
+[^100]: Perkataan yang baik, menolak dengan cara yang baik, dan pemberian maaf ialah memaafkan tingkah laku yang kurang sopan dari peminta.
 
 # 271
 
@@ -1270,9 +1298,9 @@ Dan perumpamaan orang yang menginfakkan hartanya untuk mencari rida Allah dan un
 
 # 273
 
-Adakah salah seorang di antara kamu yang ingin memiliki kebun kurma dan anggur yang mengalir di bawahnya sungai-sungai, di sana dia memiliki segala macam buah-buahan, kemudian datanglah masa tuanya sedang dia memiliki keturunan yang masih kecil-kecil. Lalu kebun itu ditiup angin keras yang mengandung api, sehingga terbakar.101) Demikianlah Allah menerangkan ayat-ayat-Nya kepadamu agar kamu memikirkannya.
+Adakah salah seorang di antara kamu yang ingin memiliki kebun kurma dan anggur yang mengalir di bawahnya sungai-sungai, di sana dia memiliki segala macam buah-buahan, kemudian datanglah masa tuanya sedang dia memiliki keturunan yang masih kecil-kecil. Lalu kebun itu ditiup angin keras yang mengandung api, sehingga terbakar.[^101] Demikianlah Allah menerangkan ayat-ayat-Nya kepadamu agar kamu memikirkannya.
 
-*101) Inilah perumpamaan orang yang menginfakkan hartanya karena riya`, membangga-banggakan pemberiannya kepada orang lain dan menyakiti hati orang yang diberi.
+[^101]: Inilah perumpamaan orang yang menginfakkan hartanya karena riya`, membangga-banggakan pemberiannya kepada orang lain dan menyakiti hati orang yang diberi.
 
 # 274
 
@@ -1284,21 +1312,21 @@ Setan menjanjikan (menakut-nakuti) kemiskinan kepadamu dan menyuruh kamu berbuat
 
 # 276
 
-Dia memberikan hikmah102) kepada siapa yang Dia kehendaki. Barang siapa diberi hikmah, sesungguhnya dia telah diberi kebaikan yang banyak. Dan tidak ada yang dapat mengambil pelajaran kecuali orang-orang yang mempunyai akal sehat.
+Dia memberikan hikmah[^102] kepada siapa yang Dia kehendaki. Barang siapa diberi hikmah, sesungguhnya dia telah diberi kebaikan yang banyak. Dan tidak ada yang dapat mengambil pelajaran kecuali orang-orang yang mempunyai akal sehat.
 
-*102) Hikmah ialah kemampuan untuk memahami rahasia-rahasia syariat agama.
+[^102]: Hikmah ialah kemampuan untuk memahami rahasia-rahasia syariat agama.
 
 # 277
 
-Dan apa pun infak yang kamu berikan atau nazar103) yang kamu janjikan maka sungguh, Allah mengetahuinya. Dan bagi orang zalim tidak ada seorang penolong pun.
+Dan apa pun infak yang kamu berikan atau nazar[^103] yang kamu janjikan maka sungguh, Allah mengetahuinya. Dan bagi orang zalim tidak ada seorang penolong pun.
 
-*103) Janji untuk melakukan suatu kebajikan terhadap Allah -Subḥānahu wata'ālā- untuk mendekatkan diri kepada-Nya baik dengan syarat ataupun tidak.
+[^103]: Janji untuk melakukan suatu kebajikan terhadap Allah -Subḥānahu wata'ālā- untuk mendekatkan diri kepada-Nya baik dengan syarat ataupun tidak.
 
 # 278
 
-Jika kamu menampakkan sedekah-sedekahmu,104) maka itu baik. Dan jika kamu menyembunyikannya dan memberikannya kepada orang-orang fakir, maka itu lebih baik bagimu dan Allah akan menghapus sebagian kesalahan-kesalahanmu. Dan Allah Mahateliti atas apa yang kamu kerjakan.
+Jika kamu menampakkan sedekah-sedekahmu,[^104] maka itu baik. Dan jika kamu menyembunyikannya dan memberikannya kepada orang-orang fakir, maka itu lebih baik bagimu dan Allah akan menghapus sebagian kesalahan-kesalahanmu. Dan Allah Mahateliti atas apa yang kamu kerjakan.
 
-*104) Menampakkan sedekah dengan tujuan agar dicontoh orang lain bukan untuk riya`.
+[^104]: Menampakkan sedekah dengan tujuan agar dicontoh orang lain bukan untuk riya`.
 
 # 279
 
@@ -1314,15 +1342,19 @@ Orang-orang yang menginfakkan hartanya malam dan siang hari (secara) sembunyi-se
 
 # 282
 
-Orang-orang yang memakan riba tidak dapat berdiri melainkan seperti berdirinya orang yang kesurupan setan karena gila.105) Yang demikian itu karena mereka berkata bahwa jual beli itu sama dengan riba. Padahal Allah telah menghalalkan jual beli dan mengharamkan riba. Barang siapa mendapat peringatan dari Tuhannya, lalu dia berhenti, maka apa yang telah di perolehnya dahulu menjadi miliknya106) dan urusannya (terserah) kepada Allah. Barang siapa mengulangi, maka mereka itu penghuni neraka, mereka kekal di dalamnya.
+Orang-orang yang memakan riba tidak dapat berdiri melainkan seperti berdirinya orang yang kesurupan setan karena gila.[^105] Yang demikian itu karena mereka berkata bahwa jual beli itu sama dengan riba. Padahal Allah telah menghalalkan jual beli dan mengharamkan riba. Barang siapa mendapat peringatan dari Tuhannya, lalu dia berhenti, maka apa yang telah di perolehnya dahulu menjadi miliknya[^106] dan urusannya (terserah) kepada Allah. Barang siapa mengulangi, maka mereka itu penghuni neraka, mereka kekal di dalamnya.
 
-*105) Orang yang mengambil riba tidak tenteram jiwanya seperti orang kemasukkan setan. 106) Riba yang sudah diambil (dipungut) sebelum turun ayat ini, boleh tidak dikembalikan.
+[^105]: Orang yang mengambil riba tidak tenteram jiwanya seperti orang kemasukkan setan
+
+[^106]: Riba yang sudah diambil (dipungut) sebelum turun ayat ini, boleh tidak dikembalikan.
 
 # 283
 
-Allah memusnahkan riba dan menyuburkan sedekah.107)Allah tidak menyukai setiap orang yang tetap dalam kekafiran dan bergelimang dosa.108)
+Allah memusnahkan riba dan menyuburkan sedekah.[^107]Allah tidak menyukai setiap orang yang tetap dalam kekafiran dan bergelimang dosa.[^108]
 
-*107) Memusnahkan riba ialah memusnahkan harta itu atau meniadakan berkahnya. Dan menyuburkan sedekah ialah memperkembangkan harta yang telah dikeluarkan sedekahnya atau melipatgandakan berkahnya. 108) Orang-orang yang menghalalkan riba dan tetap melakukannya.
+[^107]: Memusnahkan riba ialah memusnahkan harta itu atau meniadakan berkahnya. Dan menyuburkan sedekah ialah memperkembangkan harta yang telah dikeluarkan sedekahnya atau melipatgandakan berkahnya
+
+[^108]: Orang-orang yang menghalalkan riba dan tetap melakukannya.
 
 # 284
 
@@ -1370,9 +1402,9 @@ Alif lām Mīm.
 
 # 295
 
-Allah, tidak ada tuhan selain Dia. Yang Mahahidup, Yang terus menerus mengurus (makhluk-Nya).109)
+Allah, tidak ada tuhan selain Dia. Yang Mahahidup, Yang terus menerus mengurus (makhluk-Nya).[^109]
 
-109) Allah mengatur langit dan bumi serta isinya.
+[^109]: Allah mengatur langit dan bumi serta isinya.
 
 # 296
 
@@ -1380,9 +1412,9 @@ Dia menurunkan Kitab (Al-Qur`an) kepadamu (Muhammad) yang mengandung kebenaran, 
 
 # 297
 
-sebelumnya, sebagai petunjuk bagi manusia, dan Dia menurunkan Al-Furqan.110) Sungguh, orang-orang yang ingkar terhadap ayat-ayat Allah akan memperoleh azab yang berat. Allah Mahaperkasa lagi mempunyai balasan (siksa).
+sebelumnya, sebagai petunjuk bagi manusia, dan Dia menurunkan Al-Furqan.[^110] Sungguh, orang-orang yang ingkar terhadap ayat-ayat Allah akan memperoleh azab yang berat. Allah Mahaperkasa lagi mempunyai balasan (siksa).
 
-110) Al-Furqān (Al-Qur`an) ialah Kitab yang membedakan antara yang benar dan yang salah.
+[^110]: Al-Furqān (Al-Qur`an) ialah Kitab yang membedakan antara yang benar dan yang salah.
 
 # 298
 
@@ -1394,9 +1426,11 @@ Dialah yang membentuk kamu dalam rahim menurut yang Dia kehendaki. Tidak ada tuh
 
 # 300
 
-Dialah yang menurunkan Kitab (Al-Qur`an) kepadamu (Muhammad). Di antaranya ada ayat-ayat yang muḥkamāt,111) itulah pokok-pokok Kitab (Al-Qur`an) dan yang lain mutasyābihāt.112) Adapun orang-orang yang dalam hatinya condong pada kesesatan, mereka mengikuti yang mutasyābihāt untuk mencari-cari fitnah dan untuk mencari-cari takwilnya, padahal tidak ada yang mengetahui takwilnya kecuali Allah. Dan orang-orang yang ilmunya mendalam berkata, "Kami beriman kepadanya (Al-Qur`an), semuanya dari sisi Tuhan kami." Tidak ada yang dapat mengambil pelajaran kecuali orang yang berakal.
+Dialah yang menurunkan Kitab (Al-Qur`an) kepadamu (Muhammad). Di antaranya ada ayat-ayat yang muḥkamāt,[^111] itulah pokok-pokok Kitab (Al-Qur`an) dan yang lain mutasyābihāt.[^112] Adapun orang-orang yang dalam hatinya condong pada kesesatan, mereka mengikuti yang mutasyābihāt untuk mencari-cari fitnah dan untuk mencari-cari takwilnya, padahal tidak ada yang mengetahui takwilnya kecuali Allah. Dan orang-orang yang ilmunya mendalam berkata, "Kami beriman kepadanya (Al-Qur`an), semuanya dari sisi Tuhan kami." Tidak ada yang dapat mengambil pelajaran kecuali orang yang berakal.
 
-111) Ayat-ayat yang terang dan tegas maksudnya, dapat dipahami dengan mudah. 112) Ayat-ayat yang mengandung beberapa pengertian, sulit dipahami atau hanya Allah yang mengetahui.
+[^111]: Ayat-ayat yang terang dan tegas maksudnya, dapat dipahami dengan mudah
+
+[^112]: Ayat-ayat yang mengandung beberapa pengertian, sulit dipahami atau hanya Allah yang mengetahui.
 
 # 301
 
@@ -1420,15 +1454,15 @@ Katakanlah (Muhammad) kepada orang-orang yang kafir, "Kamu (pasti) akan dikalahk
 
 # 306
 
-Sungguh, telah ada tanda bagi kamu pada dua golongan yang berhadap-hadapan.113) Satu golongan berperang di jalan Allah dan yang lain (golongan) kafir yang melihat dengan mata kepala, bahwa mereka (golongan muslim) dua kali lipat mereka. Allah menguatkan dengan pertolongan-Nya siapa saja yang Dia kehendaki. Sungguh, pada yang demikian itu terdapat pelajaran bagi orang-orang yang mempunyai penglihatan (mata hati).
+Sungguh, telah ada tanda bagi kamu pada dua golongan yang berhadap-hadapan.[^113] Satu golongan berperang di jalan Allah dan yang lain (golongan) kafir yang melihat dengan mata kepala, bahwa mereka (golongan muslim) dua kali lipat mereka. Allah menguatkan dengan pertolongan-Nya siapa saja yang Dia kehendaki. Sungguh, pada yang demikian itu terdapat pelajaran bagi orang-orang yang mempunyai penglihatan (mata hati).
 
-113) Pertemuan dua golongan itu antara kaum muslimin dengan kaum musyrikin, terjadi dalam perang Badar. Badar adalah nama suatu tempat yang terletak di selatan Madinah.
+[^113]: Pertemuan dua golongan itu antara kaum muslimin dengan kaum musyrikin, terjadi dalam perang Badar. Badar adalah nama suatu tempat yang terletak di selatan Madinah.
 
 # 307
 
-Dijadikan tampak indah dalam pandangan manusia cinta terhadap nafsu, berupa wanita-wanita, anak-anak, harta benda yang bertumpuk dalam bentuk emas dan perak, kuda pilihan, hewan ternak114) dan sawah ladang. Itulah kesenangan hidup di dunia, dan di sisi Allahlah tempat kembali yang baik.
+Dijadikan tampak indah dalam pandangan manusia cinta terhadap nafsu, berupa wanita-wanita, anak-anak, harta benda yang bertumpuk dalam bentuk emas dan perak, kuda pilihan, hewan ternak[^114] dan sawah ladang. Itulah kesenangan hidup di dunia, dan di sisi Allahlah tempat kembali yang baik.
 
-114) Hewan-hewan yang termasuk jenis unta, sapi, kambing, dan biri-biri.
+[^114]: Hewan-hewan yang termasuk jenis unta, sapi, kambing, dan biri-biri.
 
 # 308
 
@@ -1448,15 +1482,15 @@ Allah menyatakan bahwa tidak ada tuhan (yang berhak disembah) selain Dia; (demik
 
 # 312
 
-Sesungguhnya agama di sisi Allah ialah Islam. Tidaklah berselisih orang-orang yang telah diberi Kitab115) kecuali setelah mereka memperoleh ilmu, karena kedengkian di antara mereka. Barang siapa ingkar terhadap ayat-ayat Allah, maka sungguh, Allah sangat cepat perhitungan-Nya.
+Sesungguhnya agama di sisi Allah ialah Islam. Tidaklah berselisih orang-orang yang telah diberi Kitab[^115] kecuali setelah mereka memperoleh ilmu, karena kedengkian di antara mereka. Barang siapa ingkar terhadap ayat-ayat Allah, maka sungguh, Allah sangat cepat perhitungan-Nya.
 
-115) Ialah Kitab-kitab yang diturunkan sebelum Al-Qur`an.
+[^115]: Ialah Kitab-kitab yang diturunkan sebelum Al-Qur`an.
 
 # 313
 
-Kemudian jika mereka membantah engkau (Muhammad) katakanlah, "Aku berserah diri kepada Allah dan (demikian pula) orang-orang yang mengikutiku." Dan katakanlah kepada orang-orang yang telah diberi Kitab dan kepada orang-orang buta huruf,116) "Sudahkah kamu masuk Islam?" Jika mereka masuk Islam, berarti mereka telah mendapat petunjuk, tetapi jika mereka berpaling, maka kewajibanmu hanyalah menyampaikan. Dan Allah Maha Melihat hamba-hamba-Nya.
+Kemudian jika mereka membantah engkau (Muhammad) katakanlah, "Aku berserah diri kepada Allah dan (demikian pula) orang-orang yang mengikutiku." Dan katakanlah kepada orang-orang yang telah diberi Kitab dan kepada orang-orang buta huruf,[^116] "Sudahkah kamu masuk Islam?" Jika mereka masuk Islam, berarti mereka telah mendapat petunjuk, tetapi jika mereka berpaling, maka kewajibanmu hanyalah menyampaikan. Dan Allah Maha Melihat hamba-hamba-Nya.
 
-116) Buta huruf artinya ialah orang yang tidak tahu baca tulis. Menurut sebagian mufasir yang dimaksud dengan ummi, ialah orang musyrik Arab yang tidak tahu baca tulis. Menurut sebagian yang lain ialah orang-orang yang diberi Kitab.
+[^116]: Buta huruf artinya ialah orang yang tidak tahu baca tulis. Menurut sebagian mufasir yang dimaksud dengan ummi, ialah orang musyrik Arab yang tidak tahu baca tulis. Menurut sebagian yang lain ialah orang-orang yang diberi Kitab.
 
 # 314
 
@@ -1484,9 +1518,9 @@ Katakanlah (Muhammad), "Wahai Tuhan pemilik kekuasaan, Engkau berikan kekuasaan 
 
 # 320
 
-Engkau masukkan malam ke dalam siang dan Engkau masukkan siang ke dalam malam. Dan Engkau keluarkan yang hidup dari yang mati, dan Engkau keluarkan yang mati dari yang hidup.117) Dan Engkau berikan rezeki kepada siapa yang Engkau kehendaki tanpa perhitungan."
+Engkau masukkan malam ke dalam siang dan Engkau masukkan siang ke dalam malam. Dan Engkau keluarkan yang hidup dari yang mati, dan Engkau keluarkan yang mati dari yang hidup.[^117] Dan Engkau berikan rezeki kepada siapa yang Engkau kehendaki tanpa perhitungan."
 
-117) Sebagian mufasir memberi misal untuk ayat ini dengan mengeluarkan anak ayam dari telur, dan telur dari ayam.
+[^117]: Sebagian mufasir memberi misal untuk ayat ini dengan mengeluarkan anak ayam dari telur, dan telur dari ayam.
 
 # 321
 
@@ -1534,9 +1568,9 @@ Di sanalah Zakaria berdoa kepada Tuhannya. Dia berkata, "Ya Tuhanku, berilah aku
 
 # 332
 
-Kemudian para malaikat memanggilnya, ketika dia berdiri melaksanakan salat di mihrab, "Allah menyampaikan kabar gembira kepadamu dengan (kelahiran) Yahya, yang membenarkan suatu kalimat (firman)118) dari Allah, panutan, berkemampuan menahan diri (dari hawa nafsu) dan seorang nabi diantara orang-orang saleh."
+Kemudian para malaikat memanggilnya, ketika dia berdiri melaksanakan salat di mihrab, "Allah menyampaikan kabar gembira kepadamu dengan (kelahiran) Yahya, yang membenarkan suatu kalimat (firman)[^118] dari Allah, panutan, berkemampuan menahan diri (dari hawa nafsu) dan seorang nabi diantara orang-orang saleh."
 
-118) Membenarkan kedatangan seorang nabi yang diciptakan dengan kata “kun” (jadilah) tanpa ayah yaitu Nabi Isa -'alaihissalām-.
+[^118]: Membenarkan kedatangan seorang nabi yang diciptakan dengan kata “kun” (jadilah) tanpa ayah yaitu Nabi Isa -'alaihissalām-.
 
 # 333
 
@@ -1556,9 +1590,9 @@ Wahai Maryam! Taatilah Tuhanmu, sujud dan rukuklah bersama orang-orang yang ruku
 
 # 337
 
-Itulah sebagian dari berita-berita gaib yang Kami wahyukan kepadamu (Muhammad), padahal engkau tidak bersama mereka ketika mereka melemparkan pena119) mereka (untuk mengundi) siapa di antara mereka yang akan memelihara Maryam. Dan engkau pun tidak bersama mereka ketika mereka bertengkar.
+Itulah sebagian dari berita-berita gaib yang Kami wahyukan kepadamu (Muhammad), padahal engkau tidak bersama mereka ketika mereka melemparkan pena[^119] mereka (untuk mengundi) siapa di antara mereka yang akan memelihara Maryam. Dan engkau pun tidak bersama mereka ketika mereka bertengkar.
 
-119) Ada sebagian mufasir yang mengartikan anak panah. Artinya undian itu dilakukan dengan melempar anak panah.
+[^119]: Ada sebagian mufasir yang mengartikan anak panah. Artinya undian itu dilakukan dengan melempar anak panah.
 
 # 338
 
@@ -1574,9 +1608,9 @@ Dia (Maryam) berkata, "Ya Tuhanku, bagaimana mungkin aku akan mempunyai anak, pa
 
 # 341
 
-Dan Dia (Allah) mengajarkan kepadanya (Isa) Kitab,120) Hikmah, Taurat, dan Injil.
+Dan Dia (Allah) mengajarkan kepadanya (Isa) Kitab,[^120] Hikmah, Taurat, dan Injil.
 
-120) Al-Kitab di sini ada yang menafsirkan dengan pelajaran menulis, dan ada pula yang menafsirkannya dengan kitab-kitab yang diturunkan Allah sebelumnya selain Taurat dan Injil.
+[^120]: Al-Kitab di sini ada yang menafsirkan dengan pelajaran menulis, dan ada pula yang menafsirkannya dengan kitab-kitab yang diturunkan Allah sebelumnya selain Taurat dan Injil.
 
 # 342
 
@@ -1628,9 +1662,9 @@ Kebenaran itu dari Tuhanmu, karena itu janganlah engkau (Muhammad) termasuk oran
 
 # 354
 
-Siapa yang membantahmu dalam hal ini setelah engkau memperoleh ilmu, katakanlah (Muhammad), "Marilah kita panggil anak-anak kami dan anak-anak kamu, istri-istri kami dan istri-istrimu, kami sendiri dan diri kamu, kemudian marilah kita ber-mubahalah 121) agar laknat Allah ditimpakan kepada orang-orang yang dusta (di antara kita)."
+Siapa yang membantahmu dalam hal ini setelah engkau memperoleh ilmu, katakanlah (Muhammad), "Marilah kita panggil anak-anak kami dan anak-anak kamu, istri-istri kami dan istri-istrimu, kami sendiri dan diri kamu, kemudian marilah kita ber-mubahalah [^121] agar laknat Allah ditimpakan kepada orang-orang yang dusta (di antara kita)."
 
-121) Mubahalah ialah masing-masing pihak di antara orang-orang yang bersilang pendapat berdoa kepada Allah dengan sungguh-sungguh, agar Allah menjatuhkan laknat kepada pihak yang berdusta. Nabi mengajak utusan Nasrani Najran bermubahalah tetapi mereka tidak berani dan ini menjadi bukti kebenaran Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
+[^121]: Mubahalah ialah masing-masing pihak di antara orang-orang yang bersilang pendapat berdoa kepada Allah dengan sungguh-sungguh, agar Allah menjatuhkan laknat kepada pihak yang berdusta. Nabi mengajak utusan Nasrani Najran bermubahalah tetapi mereka tidak berani dan ini menjadi bukti kebenaran Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
 
 # 355
 
@@ -1646,21 +1680,23 @@ Katakanlah (Muhammad), "Wahai Ahli Kitab! Marilah (kita) menuju kepada satu kali
 
 # 358
 
-Wahai Ahli Kitab! Mengapa kamu berbantah-bantahan122) tentang Ibrahim, padahal Taurat dan Injil diturunkan setelah dia (Ibrahim)? Apakah kamu tidak mengerti?
+Wahai Ahli Kitab! Mengapa kamu berbantah-bantahan[^122] tentang Ibrahim, padahal Taurat dan Injil diturunkan setelah dia (Ibrahim)? Apakah kamu tidak mengerti?
 
-122) Orang Yahudi dan Nasrani masing-masing menganggap Nabi Ibrahim -'alaihissalām- itu dari golongannya. Lalu Allah membantah mereka dengan alasan bahwa Nabi Ibrahim -'alaihissalām- itu datang sebelum mereka.
+[^122]: Orang Yahudi dan Nasrani masing-masing menganggap Nabi Ibrahim -'alaihissalām- itu dari golongannya. Lalu Allah membantah mereka dengan alasan bahwa Nabi Ibrahim -'alaihissalām- itu datang sebelum mereka.
 
 # 359
 
-Begitulah kamu! Kamu berbantah-bantahan tentang apa yang kamu ketahui,123) tetapi mengapa kamu berbantah-bantahan juga tentang apa yang tidak kamu ketahui?124) Allah mengetahui sedang kamu tidak mengetahui.
+Begitulah kamu! Kamu berbantah-bantahan tentang apa yang kamu ketahui,[^123] tetapi mengapa kamu berbantah-bantahan juga tentang apa yang tidak kamu ketahui?[^124] Allah mengetahui sedang kamu tidak mengetahui.
 
-123) Yakni tentang Nabi Musa -'alaihissalām-, Nabi Isa -'alaihissalām-, dan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-. 124) Yakni tentang Nabi Ibrahim -'alaihissalām-.
+[^123]: Yakni tentang Nabi Musa -'alaihissalām-, Nabi Isa -'alaihissalām-, dan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-
+
+[^124]: Yakni tentang Nabi Ibrahim -'alaihissalām-.
 
 # 360
 
-Ibrahim bukanlah seorang Yahudi dan bukan (pula) seorang Nasrani, tetapi dia adalah seorang yang lurus,125) muslim dan dia tidaklah termasuk orang-orang musyrik.
+Ibrahim bukanlah seorang Yahudi dan bukan (pula) seorang Nasrani, tetapi dia adalah seorang yang lurus,[^125] muslim dan dia tidaklah termasuk orang-orang musyrik.
 
-125) Lurus berarti jauh dari syirik (mempersekutukan Allah) dan jauh dari kesesatan.
+[^125]: Lurus berarti jauh dari syirik (mempersekutukan Allah) dan jauh dari kesesatan.
 
 # 361
 
@@ -1672,15 +1708,17 @@ Segolongan Ahli Kitab ingin menyesatkan kamu. Padahal (sesungguhnya), mereka tid
 
 # 363
 
-Wahai Ahli Kitab! Mengapa kamu mengingkari ayat-ayat Allah,126) padahal kamu mengetahui (kebenarannya)?
+Wahai Ahli Kitab! Mengapa kamu mengingkari ayat-ayat Allah,[^126] padahal kamu mengetahui (kebenarannya)?
 
-126) Ayat-ayat Allah yang diturunkan kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
+[^126]: Ayat-ayat Allah yang diturunkan kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
 
 # 364
 
-Wahai Ahli Kitab! Mengapa kamu mencampuradukkan kebenaran dengan kebatilan,127) dan kamu menyembunyikan kebenaran,128) padahal kamu mengetahui?
+Wahai Ahli Kitab! Mengapa kamu mencampuradukkan kebenaran dengan kebatilan,[^127] dan kamu menyembunyikan kebenaran,[^128] padahal kamu mengetahui?
 
-127) Menutupi firman-firman Allah yang termaktub dalam Taurat dan Injil dengan perkataan-perkataan yang dibuat-buat mereka (Ahli Kitab) sendiri. 128) Kebenaran tentang kenabian Muhammad -ṣallallāhu 'alaihi wa sallam- yang tersebut dalam Taurat dan Injil.
+[^127]: Menutupi firman-firman Allah yang termaktub dalam Taurat dan Injil dengan perkataan-perkataan yang dibuat-buat mereka (Ahli Kitab) sendiri
+
+[^128]: Kebenaran tentang kenabian Muhammad -ṣallallāhu 'alaihi wa sallam- yang tersebut dalam Taurat dan Injil.
 
 # 365
 
@@ -1688,9 +1726,9 @@ Dan segolongan Ahli Kitab berkata (kepada sesamanya), "Berimanlah kamu kepada ap
 
 # 366
 
-Dan janganlah kamu percaya kecuali kepada orang yang mengikuti agamamu.129) Katakanlah (Muhammad), "Sesungguhnya petunjuk itu hanyalah petunjuk Allah. (Janganlah kamu percaya) bahwa seseorang akan diberi seperti apa yang diberikan kepada kamu atau bahwa mereka akan menyanggah kamu di hadapan Tuhanmu." Katakanlah (Muhammad), "Sesungguhnya karunia itu di tangan Allah, Dia memberikannya kepada siapa yang Dia kehendaki. Allah Mahaluas, Maha Mengetahui.
+Dan janganlah kamu percaya kecuali kepada orang yang mengikuti agamamu.[^129] Katakanlah (Muhammad), "Sesungguhnya petunjuk itu hanyalah petunjuk Allah. (Janganlah kamu percaya) bahwa seseorang akan diberi seperti apa yang diberikan kepada kamu atau bahwa mereka akan menyanggah kamu di hadapan Tuhanmu." Katakanlah (Muhammad), "Sesungguhnya karunia itu di tangan Allah, Dia memberikannya kepada siapa yang Dia kehendaki. Allah Mahaluas, Maha Mengetahui.
 
-129) Kepada orang yang seagama dengan kamu (Yahudi/Nasrani) agar mereka tidak jadi masuk Islam atau kepada orang-orang Islam yang berasal dari agamamu agar guncang iman mereka dan kembali kepada kekafiran.
+[^129]: Kepada orang yang seagama dengan kamu (Yahudi/Nasrani) agar mereka tidak jadi masuk Islam atau kepada orang-orang Islam yang berasal dari agamamu agar guncang iman mereka dan kembali kepada kekafiran.
 
 # 367
 
@@ -1722,9 +1760,9 @@ dan tidak (mungkin pula baginya) menyuruh kamu menjadikan para malaikat dan para
 
 # 374
 
-Dan (ingatlah), ketika Allah mengambil perjanjian dari para nabi, "Manakala Aku memberikan kitab dan hikmah kepadamu lalu datang kepada kamu seorang Rasul yang membenarkan apa yang ada pada kamu, niscaya kamu akan sungguh-sungguh beriman kepadanya dan menolongnya."130) Allah berfirman, "Apakah kamu setuju dan menerima perjanjian dengan-Ku atas yang demikian itu?" Mereka menjawab, "Kami setuju." Allah berfirman, "Kalau begitu bersaksilah kamu (para nabi) dan Aku menjadi saksi bersama kamu."
+Dan (ingatlah), ketika Allah mengambil perjanjian dari para nabi, "Manakala Aku memberikan kitab dan hikmah kepadamu lalu datang kepada kamu seorang Rasul yang membenarkan apa yang ada pada kamu, niscaya kamu akan sungguh-sungguh beriman kepadanya dan menolongnya."[^130] Allah berfirman, "Apakah kamu setuju dan menerima perjanjian dengan-Ku atas yang demikian itu?" Mereka menjawab, "Kami setuju." Allah berfirman, "Kalau begitu bersaksilah kamu (para nabi) dan Aku menjadi saksi bersama kamu."
 
-130) Para Nabi berjanji kepada Allah -ṣallallāhu 'alaihi wa sallam- bahwa bilamana datang seorang Rasul bernama Muhammad mereka akan beriman kepadanya dan menolongnya. Perjanjian Nabi-nabi ini mengikat pula para umatnya.
+[^130]: Para Nabi berjanji kepada Allah -ṣallallāhu 'alaihi wa sallam- bahwa bilamana datang seorang Rasul bernama Muhammad mereka akan beriman kepadanya dan menolongnya. Perjanjian Nabi-nabi ini mengikat pula para umatnya.
 
 # 375
 
@@ -1772,15 +1810,15 @@ Kamu tidak akan memperoleh kebajikan, sebelum kamu menginfakkan sebagian harta y
 
 # 386
 
-Semua makanan itu dahulu halal bagi Bani Israil, kecuali makanan yang diharamkan oleh Israil (Yakub) atas dirinya sebelum Taurat diturunkan.131) Katakanlah (Muhammad), "Maka bawalah Taurat lalu bacalah, jika kamu orang-orang yang benar."
+Semua makanan itu dahulu halal bagi Bani Israil, kecuali makanan yang diharamkan oleh Israil (Yakub) atas dirinya sebelum Taurat diturunkan.[^131] Katakanlah (Muhammad), "Maka bawalah Taurat lalu bacalah, jika kamu orang-orang yang benar."
 
-131) Setelah Taurat diturunkan, ada beberapa makanan yang diharamkan bagi mereka sebagai hukuman. Nama-nama makanan itu disebut di dalamnya. Selanjutnya lihat An-Nisā` (4): 160 dan Al-An'ām (6): 146.
+[^131]: Setelah Taurat diturunkan, ada beberapa makanan yang diharamkan bagi mereka sebagai hukuman. Nama-nama makanan itu disebut di dalamnya. Selanjutnya lihat An-Nisā` (4): 160 dan Al-An'ām (6): 146.
 
 # 387
 
-Maka barang siapa mengada-adakan kebohongan terhadap Allah132) setelah itu, maka mereka itulah orang-orang zalim.
+Maka barang siapa mengada-adakan kebohongan terhadap Allah[^132] setelah itu, maka mereka itulah orang-orang zalim.
 
-132) Dusta terhadap Allah ialah dengan mengatakan bahwa sebelum Taurat diturunkan, Allah telah mengharamkan beberapa makanan kepada Bani Israil.
+[^132]: Dusta terhadap Allah ialah dengan mengatakan bahwa sebelum Taurat diturunkan, Allah telah mengharamkan beberapa makanan kepada Bani Israil.
 
 # 388
 
@@ -1788,15 +1826,17 @@ Katakanlah (Muhammad), "Benarlah (segala yang difirmankan) Allah." Maka ikutilah
 
 # 389
 
-Sesungguhnya rumah (ibadah) pertama yang dibangun untuk manusia, ialah (Baitullah) yang di Bakkah (Mekah)133) yang diberkahi dan menjadi petunjuk bagi seluruh alam.
+Sesungguhnya rumah (ibadah) pertama yang dibangun untuk manusia, ialah (Baitullah) yang di Bakkah (Mekah)[^133] yang diberkahi dan menjadi petunjuk bagi seluruh alam.
 
-133) Ahli Kitab mengatakan bahwa rumah ibadah yang pertama dibangun berada di Baitulmaqdis, oleh karena itu Allah membantahnya.
+[^133]: Ahli Kitab mengatakan bahwa rumah ibadah yang pertama dibangun berada di Baitulmaqdis, oleh karena itu Allah membantahnya.
 
 # 390
 
-Di sana terdapat tanda-tanda yang jelas, (di antaranya) maqam Ibrahim.134) Barang siapa memasukinya (Baitullah) maka dia aman. Dan (di antara) kewajiban manusia terhadap Allah adalah melaksanakan ibadah haji ke Baitullah, yaitu bagi orang-orang yang mampu135) mengadakan perjalanan ke sana. Barang siapa mengingkari (kewajiban) haji, maka ketahuilah bahwa Allah Mahakaya (tidak memerlukan sesuatu) dari seluruh alam.
+Di sana terdapat tanda-tanda yang jelas, (di antaranya) maqam Ibrahim.[^134] Barang siapa memasukinya (Baitullah) maka dia aman. Dan (di antara) kewajiban manusia terhadap Allah adalah melaksanakan ibadah haji ke Baitullah, yaitu bagi orang-orang yang mampu[^135] mengadakan perjalanan ke sana. Barang siapa mengingkari (kewajiban) haji, maka ketahuilah bahwa Allah Mahakaya (tidak memerlukan sesuatu) dari seluruh alam.
 
-134) Lihat Al-Baqarah (2): 125. 135) Orang yang sanggup mendapatkan perbekalan, alat-alat pengangkutan, sehat jasmani dan perjalanan pun aman serta keluarga yang ditinggalkan terjamin kehidupannya.
+[^134]: Lihat Al-Baqarah (2): 125
+
+[^135]: Orang yang sanggup mendapatkan perbekalan, alat-alat pengangkutan, sehat jasmani dan perjalanan pun aman serta keluarga yang ditinggalkan terjamin kehidupannya.
 
 # 391
 
@@ -1804,9 +1844,9 @@ Katakanlah (Muhammad), "Wahai Ahli Kitab! Mengapa kamu mengingkari ayat-ayat All
 
 # 392
 
-Katakanlah (Muhammad), "Wahai Ahli Kitab! Mengapa kamu menghalang-halangi orang-orang yang beriman dari jalan Allah, kamu menghendakinya (jalan Allah) bengkok, padahal kamu menyaksikan?"136) Dan Allah tidak lengah terhadap apa yang kamu kerjakan.
+Katakanlah (Muhammad), "Wahai Ahli Kitab! Mengapa kamu menghalang-halangi orang-orang yang beriman dari jalan Allah, kamu menghendakinya (jalan Allah) bengkok, padahal kamu menyaksikan?"[^136] Dan Allah tidak lengah terhadap apa yang kamu kerjakan.
 
-136) Menyaksikan maksudnya mengetahui bahwa agama yang diridai Allah adalah agama Islam.
+[^136]: Menyaksikan maksudnya mengetahui bahwa agama yang diridai Allah adalah agama Islam.
 
 # 393
 
@@ -1826,9 +1866,9 @@ Dan berpegangteguhlah kamu semuanya pada tali (agama) Allah, dan janganlah kamu 
 
 # 397
 
-Dan hendaklah di antara kamu ada segolongan orang yang menyeru kepada kebajikan, menyuruh (berbuat) yang makruf, dan mencegah dari yang mungkar. 137) Dan mereka itulah orang-orang yang beruntung.
+Dan hendaklah di antara kamu ada segolongan orang yang menyeru kepada kebajikan, menyuruh (berbuat) yang makruf, dan mencegah dari yang mungkar. [^137] Dan mereka itulah orang-orang yang beruntung.
 
-137) Makruf ialah segala perbuatan yang mendekatkan diri kepada Allah, sedangkan mungkar ialah segala perbuatan yang menjauhkan diri dari Allah.
+[^137]: Makruf ialah segala perbuatan yang mendekatkan diri kepada Allah, sedangkan mungkar ialah segala perbuatan yang menjauhkan diri dari Allah.
 
 # 398
 
@@ -1864,9 +1904,9 @@ Mereka diliputi kehinaan di mana saja mereka berada, kecuali jika mereka (berpeg
 
 # 406
 
-Mereka itu tidak (seluruhnya) sama. Di antara Ahli Kitab ada golongan yang jujur,138) mereka membaca ayat-ayat Allah pada malam hari, dan mereka (juga) bersujud (salat).
+Mereka itu tidak (seluruhnya) sama. Di antara Ahli Kitab ada golongan yang jujur,[^138] mereka membaca ayat-ayat Allah pada malam hari, dan mereka (juga) bersujud (salat).
 
-138) Golongan Ahli Kitab yang telah memeluk agama Islam.
+[^138]: Golongan Ahli Kitab yang telah memeluk agama Islam.
 
 # 407
 
@@ -1898,21 +1938,21 @@ Jika kamu memperoleh kebaikan, (niscaya) mereka bersedih hati, tetapi jika kamu 
 
 # 414
 
-Dan (ingatlah), ketika engkau (Muhammad) berangkat pada pagi hari meninggalkan keluargamu untuk mengatur orang-orang beriman pada pos-pos pertempuran.139) Allah Maha Mendengar, Maha Mengetahui,
+Dan (ingatlah), ketika engkau (Muhammad) berangkat pada pagi hari meninggalkan keluargamu untuk mengatur orang-orang beriman pada pos-pos pertempuran.[^139] Allah Maha Mendengar, Maha Mengetahui,
 
-139) Peristiwa ini terjadi pada Perang Uhud yang menurut ahli sejarah terjadi pada tahun ke 3 H.
+[^139]: Peristiwa ini terjadi pada Perang Uhud yang menurut ahli sejarah terjadi pada tahun ke 3 H.
 
 # 415
 
-ketika dua golongan dari pihak kamu140) ingin (mundur) karena takut, padahal Allah adalah penolong mereka. Karena itu, hendaklah kepada Allah saja orang-orang mukmin bertawakal.
+ketika dua golongan dari pihak kamu[^140] ingin (mundur) karena takut, padahal Allah adalah penolong mereka. Karena itu, hendaklah kepada Allah saja orang-orang mukmin bertawakal.
 
-140) Yakni Bani Salamah dari suku Khazraj dan Bani Harisah dari suku Aus, keduanya dari barisan kaum muslimin.
+[^140]: Yakni Bani Salamah dari suku Khazraj dan Bani Harisah dari suku Aus, keduanya dari barisan kaum muslimin.
 
 # 416
 
-Dan sungguh, Allah telah menolong kamu dalam Perang Badar, padahal kamu dalam keadaan lemah.141) Karena itu bertakwalah kepada Allah, agar kamu mensyukuri-Nya.
+Dan sungguh, Allah telah menolong kamu dalam Perang Badar, padahal kamu dalam keadaan lemah.[^141] Karena itu bertakwalah kepada Allah, agar kamu mensyukuri-Nya.
 
-141) Keadaan kaum muslimin lemah karena mereka sedikit dan perlengkapan mereka kurang.
+[^141]: Keadaan kaum muslimin lemah karena mereka sedikit dan perlengkapan mereka kurang.
 
 # 417
 
@@ -1928,15 +1968,15 @@ Dan Allah tidak menjadikannya (pemberian bala-bantuan itu) melainkan sebagai kab
 
 # 420
 
-(Allah menolong kamu dalam perang Badar dan memberi bantuan) adalah untuk membinasakan segolongan orang kafir,142) atau untuk menjadikan mereka hina, sehingga mereka kembali tanpa memperoleh apa pun.
+(Allah menolong kamu dalam perang Badar dan memberi bantuan) adalah untuk membinasakan segolongan orang kafir,[^142] atau untuk menjadikan mereka hina, sehingga mereka kembali tanpa memperoleh apa pun.
 
-142) Yakni dengan terbunuhnya tujuh puluh pemimpin mereka dan tertawannya tujuh puluh orang lainnya.
+[^142]: Yakni dengan terbunuhnya tujuh puluh pemimpin mereka dan tertawannya tujuh puluh orang lainnya.
 
 # 421
 
-Itu bukan menjadi urusanmu (Muhammad)143) apakah Allah menerima tobat mereka, atau mengazabnya, karena sesungguhnya mereka orang-orang zalim.
+Itu bukan menjadi urusanmu (Muhammad)[^143] apakah Allah menerima tobat mereka, atau mengazabnya, karena sesungguhnya mereka orang-orang zalim.
 
-143) Menurut riwayat Bukhari mengenai turunnya ayat ini, karena Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- berdoa kepada Allah agar menyelamatkan sebagian pemuka musyrikin dan membinasakan sebagian lainnya.
+[^143]: Menurut riwayat Bukhari mengenai turunnya ayat ini, karena Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- berdoa kepada Allah agar menyelamatkan sebagian pemuka musyrikin dan membinasakan sebagian lainnya.
 
 # 422
 
@@ -1944,9 +1984,9 @@ Dan milik Allahlah apa yang ada di langit dan apa yang ada di bumi. Dia mengampu
 
 # 423
 
-Wahai orang-orang yang beriman! Janganlah kamu memakan riba dengan berlipat ganda 144) dan bertakwalah kepada Allah agar kamu beruntung.
+Wahai orang-orang yang beriman! Janganlah kamu memakan riba dengan berlipat ganda [^144] dan bertakwalah kepada Allah agar kamu beruntung.
 
-144) Yang dimaksud riba di sini ialah riba nasiah. Menurut sebagian besar ulama bahwa riba nasiah itu selamanya haram, walaupun tidak berlipat ganda.
+[^144]: Yang dimaksud riba di sini ialah riba nasiah. Menurut sebagian besar ulama bahwa riba nasiah itu selamanya haram, walaupun tidak berlipat ganda.
 
 # 424
 
@@ -1966,9 +2006,9 @@ Dan bersegeralah kamu mencari ampunan dari Tuhanmu dan mendapatkan surga yang lu
 
 # 428
 
-dan (juga) orang-orang yang apabila mengerjakan perbuatan keji atau menzalimi diri sendiri,145) (segera) mengingat Allah, lalu memohon ampun atas dosa-dosanya, dan siapa (lagi) yang dapat mengampuni dosa-dosa selain Allah? Dan mereka tidak meneruskan perbuatan dosa itu, sedang mereka mengetahui.
+dan (juga) orang-orang yang apabila mengerjakan perbuatan keji atau menzalimi diri sendiri,[^145] (segera) mengingat Allah, lalu memohon ampun atas dosa-dosanya, dan siapa (lagi) yang dapat mengampuni dosa-dosa selain Allah? Dan mereka tidak meneruskan perbuatan dosa itu, sedang mereka mengetahui.
 
-145) Yang dimaksud perbuatan keji (fahisyah) ialah dosa besar yang akibatnya tidak hanya menimpa diri sendiri tetapi juga orang lain, seperti zina, riba. Menzalimi diri sendiri ialah melakukan dosa yang akibatnya hanya menimpa diri sendiri baik besar atau kecil.
+[^145]: Yang dimaksud perbuatan keji (fahisyah) ialah dosa besar yang akibatnya tidak hanya menimpa diri sendiri tetapi juga orang lain, seperti zina, riba. Menzalimi diri sendiri ialah melakukan dosa yang akibatnya hanya menimpa diri sendiri baik besar atau kecil.
 
 # 429
 
@@ -1976,9 +2016,9 @@ Balasan bagi mereka ialah ampunan dari Tuhan mereka dan surga-surga yang mengali
 
 # 430
 
-Sungguh, telah berlalu sebelum kamu sunah-sunah (Allah),146) karena itu berjalanlah kamu ke (segenap penjuru) bumi dan perhatikanlah bagaimana kesudahan orang yang mendustakan (rasul-rasul).
+Sungguh, telah berlalu sebelum kamu sunah-sunah (Allah),[^146] karena itu berjalanlah kamu ke (segenap penjuru) bumi dan perhatikanlah bagaimana kesudahan orang yang mendustakan (rasul-rasul).
 
-146) Yang dimaksud dengan sunnah Allah di sini ialah hukuman-hukuman Allah berupa malapetaka, bencana yang ditimpakan kepada orang-orang yang mendustakan Rasul.
+[^146]: Yang dimaksud dengan sunnah Allah di sini ialah hukuman-hukuman Allah berupa malapetaka, bencana yang ditimpakan kepada orang-orang yang mendustakan Rasul.
 
 # 431
 
@@ -1998,9 +2038,9 @@ dan agar Allah membersihkan orang-orang yang beriman (dari dosa mereka) dan memb
 
 # 435
 
-Apakah kamu mengira bahwa kamu akan masuk surga, padahal belum nyata bagi Allah orang-orang yang berjihad147) di antara kamu, dan belum nyata orang-orang yang sabar.
+Apakah kamu mengira bahwa kamu akan masuk surga, padahal belum nyata bagi Allah orang-orang yang berjihad[^147] di antara kamu, dan belum nyata orang-orang yang sabar.
 
-147) Jihad dapat berarti: a). Berperang untuk menegakkan Islam dan melindungi orang Islam; b). Memerangi hawa nafsu; c). Mendermakan harta benda untuk kebaikan Islam dan umat Islam; d). Memberantas kejahatan dan menegakkan kebenaran.
+[^147]: Jihad dapat berarti: a). Berperang untuk menegakkan Islam dan melindungi orang Islam; b). Memerangi hawa nafsu; c). Mendermakan harta benda untuk kebaikan Islam dan umat Islam; d). Memberantas kejahatan dan menegakkan kebenaran.
 
 # 436
 
@@ -2008,9 +2048,9 @@ Dan kamu benar-benar mengharapkan mati (syahid) sebelum kamu menghadapinya; maka
 
 # 437
 
-Dan Muhammad hanyalah seorang Rasul; sebelumnya telah berlalu beberapa Rasul.148) Apakah jika dia wafat atau dibunuh, kamu berbalik ke belakang (murtad)? Barang siapa berbalik ke belakang, maka ia tidak akan merugikan Allah sedikit pun. Allah akan memberi balasan kepada orang yang bersyukur.
+Dan Muhammad hanyalah seorang Rasul; sebelumnya telah berlalu beberapa Rasul.[^148] Apakah jika dia wafat atau dibunuh, kamu berbalik ke belakang (murtad)? Barang siapa berbalik ke belakang, maka ia tidak akan merugikan Allah sedikit pun. Allah akan memberi balasan kepada orang yang bersyukur.
 
-148) Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- ialah seorang manusia yang diangkat Allah menjadi Rasul. Rasul-rasul sebelumnya telah wafat karena terbunuh, ada pula yang wafat karena sakit biasa. Karena itu Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- juga akan wafat seperti halnya Rasul-rasul yang terdahulu. Pada waktu Perang Uhud berkecamuk tersiar berita bahwa Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- wafat terbunuh. Berita ini mengacaukan kaum muslimin, sehingga ada yang bermaksud meminta perlindungan kepada Abu Sufyan (pemimpin kaum Quraisy). Sementara itu orang munafik mengatakan bahwa kalau Muhammad itu seorang Nabi tentulah dia tidak akan wafat terbunuh. Maka Allah menurunkan ayat ini untuk menenteramkan hati kaum muslimin dan membantah kata-kata orang munafik itu. (Sahih Bukhari bab Jihad). Abu Bakar -raḍiyallāhu 'anhu- mengemukakan ayat ini – di mana terjadi pula kegelisahan di kalangan para sahabat pada hari wafatnya Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- untuk menenteramkan Umar Ibnul Khattab -raḍiyallāhu 'anhu- dan sahabat-sahabat yang tidak percaya tentang kewafatan Nabi itu. (Sahih Bukhari bab Ketakwaan Sahabat).
+[^148]: Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- ialah seorang manusia yang diangkat Allah menjadi Rasul. Rasul-rasul sebelumnya telah wafat karena terbunuh, ada pula yang wafat karena sakit biasa. Karena itu Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- juga akan wafat seperti halnya Rasul-rasul yang terdahulu. Pada waktu Perang Uhud berkecamuk tersiar berita bahwa Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- wafat terbunuh. Berita ini mengacaukan kaum muslimin, sehingga ada yang bermaksud meminta perlindungan kepada Abu Sufyan (pemimpin kaum Quraisy). Sementara itu orang munafik mengatakan bahwa kalau Muhammad itu seorang Nabi tentulah dia tidak akan wafat terbunuh. Maka Allah menurunkan ayat ini untuk menenteramkan hati kaum muslimin dan membantah kata-kata orang munafik itu. (Sahih Bukhari bab Jihad). Abu Bakar -raḍiyallāhu 'anhu- mengemukakan ayat ini – di mana terjadi pula kegelisahan di kalangan para sahabat pada hari wafatnya Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- untuk menenteramkan Umar Ibnul Khattab -raḍiyallāhu 'anhu- dan sahabat-sahabat yang tidak percaya tentang kewafatan Nabi itu. (Sahih Bukhari bab Ketakwaan Sahabat).
 
 # 438
 
@@ -2022,15 +2062,15 @@ Dan betapa banyak nabi yang berperang didampingi sejumlah besar dari pengikut(ny
 
 # 440
 
-Dan tidak lain ucapan mereka hanyalah doa, "Ya Tuhan kami, ampunilah dosa-dosa kami dan tindakan-tindakan kami yang berlebihan (dalam) urusan kami149) dan tetapkanlah pendirian kami, dan tolonglah kami terhadap orang-orang kafir."
+Dan tidak lain ucapan mereka hanyalah doa, "Ya Tuhan kami, ampunilah dosa-dosa kami dan tindakan-tindakan kami yang berlebihan (dalam) urusan kami[^149] dan tetapkanlah pendirian kami, dan tolonglah kami terhadap orang-orang kafir."
 
-149) Melampaui batas-batas hukum yang telah ditetapkan Allah -Subḥānahu wata'ālā-.
+[^149]: Melampaui batas-batas hukum yang telah ditetapkan Allah -Subḥānahu wata'ālā-.
 
 # 441
 
-Maka Allah memberi mereka pahala di dunia150) dan pahala yang baik di akhirat. Dan Allah mencintai orang-orang yang berbuat kebaikan.
+Maka Allah memberi mereka pahala di dunia[^150] dan pahala yang baik di akhirat. Dan Allah mencintai orang-orang yang berbuat kebaikan.
 
-150) Pahala dunia dapat berupa kemenangan-kemenangan, memperoleh harta rampasan, pujian-pujian dan lain-lain.
+[^150]: Pahala dunia dapat berupa kemenangan-kemenangan, memperoleh harta rampasan, pujian-pujian dan lain-lain.
 
 # 442
 
@@ -2046,27 +2086,35 @@ Akan Kami masukkan rasa takut ke dalam hati orang-orang kafir, karena mereka mem
 
 # 445
 
-Dan sungguh, Allah telah memenuhi janji-Nya kepadamu, ketika kamu membunuh mereka dengan izin-Nya, sampai pada saat kamu lemah dan berselisih dalam urusan itu151) dan mengabaikan perintah Rasul setelah Allah memperlihatkan kepadamu apa yang kamu sukai.152) Di antara kamu ada orang yang menghendaki dunia dan di antara kamu ada (pula) orang yang menghendaki akhirat. Kemudian Allah memalingkan kamu dari mereka153) untuk mengujimu, tetapi Dia benar-benar telah memaafkan kamu. Dan Allah mempunyai karunia (yang diberikan) kepada orang-orang mukmin.
+Dan sungguh, Allah telah memenuhi janji-Nya kepadamu, ketika kamu membunuh mereka dengan izin-Nya, sampai pada saat kamu lemah dan berselisih dalam urusan itu[^151] dan mengabaikan perintah Rasul setelah Allah memperlihatkan kepadamu apa yang kamu sukai.[^152] Di antara kamu ada orang yang menghendaki dunia dan di antara kamu ada (pula) orang yang menghendaki akhirat. Kemudian Allah memalingkan kamu dari mereka[^153] untuk mengujimu, tetapi Dia benar-benar telah memaafkan kamu. Dan Allah mempunyai karunia (yang diberikan) kepada orang-orang mukmin.
 
-151) Yakni urusan pelaksanaan perintah Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- agar regu pemanah tetap bertahan pada tempat yang telah ditunjukkan dalam keadaan bagaimanapun. 152) Yakni kemenangan dan harta rampasan. 153) Kaum muslimin tidak berhasil mengalahkan mereka.
+[^151]: Yakni urusan pelaksanaan perintah Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- agar regu pemanah tetap bertahan pada tempat yang telah ditunjukkan dalam keadaan bagaimanapun
+
+[^152]: Yakni kemenangan dan harta rampasan
+
+[^153]: Kaum muslimin tidak berhasil mengalahkan mereka.
 
 # 446
 
-(Ingatlah) ketika kamu lari dan tidak menoleh kepada siapa pun, sedang Rasul (Muhammad) yang berada di antara (kawan-kawan)mu yang lain memanggil kamu (kelompok yang lari), karena itu Allah menimpakan kepadamu kesedihan demi kesedihan,154) agar kamu tidak bersedih hati (lagi) terhadap apa yang luput dari kamu dan terhadap apa yang menimpamu. Dan Allah Mahateliti atas apa yang kamu kerjakan.
+(Ingatlah) ketika kamu lari dan tidak menoleh kepada siapa pun, sedang Rasul (Muhammad) yang berada di antara (kawan-kawan)mu yang lain memanggil kamu (kelompok yang lari), karena itu Allah menimpakan kepadamu kesedihan demi kesedihan,[^154] agar kamu tidak bersedih hati (lagi) terhadap apa yang luput dari kamu dan terhadap apa yang menimpamu. Dan Allah Mahateliti atas apa yang kamu kerjakan.
 
-154) Kesedihan kaum muslimin disebabkan mereka tidak menaati perintah Rasul yang mengakibatkan kekalahan bagi mereka.
+[^154]: Kesedihan kaum muslimin disebabkan mereka tidak menaati perintah Rasul yang mengakibatkan kekalahan bagi mereka.
 
 # 447
 
-Kemudian setelah kamu ditimpa kesedihan, Dia menurunkan rasa aman kepadamu (berupa) kantuk yang meliputi segolongan dari kamu,155) sedangkan segolongan lagi156) telah dicemaskan oleh diri mereka sendiri; mereka menyangka yang tidak benar terhadap Allah seperti sangkaan jahiliah.157) Mereka berkata, "Adakah sesuatu yang dapat kita perbuat dalam urusan ini?" Katakanlah (Muhammad), "Sesungguhnya segala urusan itu di tangan Allah." Mereka menyembunyikan dalam hatinya apa yang tidak mereka terangkan kepadamu. Mereka berkata, "Sekiranya ada sesuatu yang dapat kita perbuat dalam urusan ini, niscaya kita tidak akan dibunuh (dikalahkan) di sini." Katakanlah (Muhammad), "Meskipun kamu ada di rumahmu, niscaya orang-orang yang telah ditetapkan akan mati terbunuh itu keluar (juga) ke tempat mereka terbunuh." Allah (berbuat demikian) untuk menguji apa yang ada dalam dadamu dan untuk membersihkan apa yang ada dalam hatimu. Dan Allah Maha Mengetahui isi hati.
+Kemudian setelah kamu ditimpa kesedihan, Dia menurunkan rasa aman kepadamu (berupa) kantuk yang meliputi segolongan dari kamu,[^155] sedangkan segolongan lagi[^156] telah dicemaskan oleh diri mereka sendiri; mereka menyangka yang tidak benar terhadap Allah seperti sangkaan jahiliah.[^157] Mereka berkata, "Adakah sesuatu yang dapat kita perbuat dalam urusan ini?" Katakanlah (Muhammad), "Sesungguhnya segala urusan itu di tangan Allah." Mereka menyembunyikan dalam hatinya apa yang tidak mereka terangkan kepadamu. Mereka berkata, "Sekiranya ada sesuatu yang dapat kita perbuat dalam urusan ini, niscaya kita tidak akan dibunuh (dikalahkan) di sini." Katakanlah (Muhammad), "Meskipun kamu ada di rumahmu, niscaya orang-orang yang telah ditetapkan akan mati terbunuh itu keluar (juga) ke tempat mereka terbunuh." Allah (berbuat demikian) untuk menguji apa yang ada dalam dadamu dan untuk membersihkan apa yang ada dalam hatimu. Dan Allah Maha Mengetahui isi hati.
 
-155) Orang-orang Islam yang kuat keyakinannya. 156) Orang-orang Islam yang masih ragu-ragu. 157) Sangkaan bahwa kalau Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- itu benar-benar Nabi dan Rasul Allah, tentu dia tidak akan dikalahkan dalam peperangan.
+[^155]: Orang-orang Islam yang kuat keyakinannya
+
+[^156]: Orang-orang Islam yang masih ragu-ragu
+
+[^157]: Sangkaan bahwa kalau Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- itu benar-benar Nabi dan Rasul Allah, tentu dia tidak akan dikalahkan dalam peperangan.
 
 # 448
 
-Sesungguhnya orang-orang yang berpaling di antara kamu ketika terjadi pertemuan (pertempuran) antara dua pasukan itu,158) sesungguhnya mereka digelincirkan oleh setan, disebabkan sebagian kesalahan (dosa) yang telah mereka perbuat (pada masa lampau), tetapi Allah benar-benar telah memaafkan mereka. Sungguh, Allah Maha Pengampun, Maha Penyantun.
+Sesungguhnya orang-orang yang berpaling di antara kamu ketika terjadi pertemuan (pertempuran) antara dua pasukan itu,[^158] sesungguhnya mereka digelincirkan oleh setan, disebabkan sebagian kesalahan (dosa) yang telah mereka perbuat (pada masa lampau), tetapi Allah benar-benar telah memaafkan mereka. Sungguh, Allah Maha Pengampun, Maha Penyantun.
 
-158) Dua pasukan itu ialah pasukan kaum muslimin dan pasukan kaum musyrikin dalam Perang Uhud.
+[^158]: Dua pasukan itu ialah pasukan kaum muslimin dan pasukan kaum musyrikin dalam Perang Uhud.
 
 # 449
 
@@ -2074,9 +2122,9 @@ Wahai orang-orang yang beriman! Janganlah kamu seperti orang-orang kafir yang me
 
 # 450
 
-Dan sungguh, sekiranya kamu gugur di jalan Allah atau mati,159) sungguh, pastilah ampunan Allah dan rahmat-Nya lebih baik (bagimu) daripada apa (harta rampasan) yang mereka kumpulkan.
+Dan sungguh, sekiranya kamu gugur di jalan Allah atau mati,[^159] sungguh, pastilah ampunan Allah dan rahmat-Nya lebih baik (bagimu) daripada apa (harta rampasan) yang mereka kumpulkan.
 
-159) Meninggal di jalan Allah bukan karena peperangan.
+[^159]: Meninggal di jalan Allah bukan karena peperangan.
 
 # 451
 
@@ -2084,9 +2132,9 @@ Dan sungguh, sekiranya kamu mati atau gugur, pastilah kepada Allah kamu dikumpul
 
 # 452
 
-Maka berkat rahmat Allah engkau (Muhammad) berlaku lemah lembut terhadap mereka. Sekiranya engkau bersikap keras dan berhati kasar, tentulah mereka menjauhkan diri dari sekitarmu. Karena itu maafkanlah mereka dan mohonkanlah ampunan untuk mereka, dan bermusyawarahlah dengan mereka dalam urusan itu.160) Kemudian, apabila engkau telah membulatkan tekad, maka bertawakallah kepada Allah. Sungguh, Allah mencintai orang yang bertawakal.
+Maka berkat rahmat Allah engkau (Muhammad) berlaku lemah lembut terhadap mereka. Sekiranya engkau bersikap keras dan berhati kasar, tentulah mereka menjauhkan diri dari sekitarmu. Karena itu maafkanlah mereka dan mohonkanlah ampunan untuk mereka, dan bermusyawarahlah dengan mereka dalam urusan itu.[^160] Kemudian, apabila engkau telah membulatkan tekad, maka bertawakallah kepada Allah. Sungguh, Allah mencintai orang yang bertawakal.
 
-160) Urusan peperangan dan hal-hal duniawi lainnya, seperti urusan politik, ekonomi, kemasyarakatan dan lain-lain.
+[^160]: Urusan peperangan dan hal-hal duniawi lainnya, seperti urusan politik, ekonomi, kemasyarakatan dan lain-lain.
 
 # 453
 
@@ -2118,9 +2166,9 @@ Dan apa yang menimpa kamu ketika terjadi pertemuan (pertempuran) antara dua pasu
 
 # 460
 
-dan untuk menguji orang-orang yang munafik, kepada mereka dikatakan, "Marilah berperang di jalan Allah atau pertahankanlah (dirimu)." Mereka berkata, "Sekiranya kami mengetahui (bagaimana cara) berperang, tentulah kami mengikuti kamu."161) Mereka pada hari itu lebih dekat kepada kekafiran dari pada keimanan. Mereka mengatakan dengan mulutnya apa yang tidak sesuai dengan isi hatinya. Dan Allah lebih mengetahui apa yang mereka sembunyikan.
+dan untuk menguji orang-orang yang munafik, kepada mereka dikatakan, "Marilah berperang di jalan Allah atau pertahankanlah (dirimu)." Mereka berkata, "Sekiranya kami mengetahui (bagaimana cara) berperang, tentulah kami mengikuti kamu."[^161] Mereka pada hari itu lebih dekat kepada kekafiran dari pada keimanan. Mereka mengatakan dengan mulutnya apa yang tidak sesuai dengan isi hatinya. Dan Allah lebih mengetahui apa yang mereka sembunyikan.
 
-161) Ucapan ini ditujukan kepada Nabi dan sahabat-sahabatnya sebagai ejekan, karena mereka memandang Nabi tidak tahu strategi berperang, sebab dia melakukan peperangan ketika jumlah kaum muslimin sedikit. Ucapan ini dapat digunakan untuk mengelakkan cercaan yang ditujukan kepada diri orang munafik sendiri.
+[^161]: Ucapan ini ditujukan kepada Nabi dan sahabat-sahabatnya sebagai ejekan, karena mereka memandang Nabi tidak tahu strategi berperang, sebab dia melakukan peperangan ketika jumlah kaum muslimin sedikit. Ucapan ini dapat digunakan untuk mengelakkan cercaan yang ditujukan kepada diri orang munafik sendiri.
 
 # 461
 
@@ -2128,15 +2176,15 @@ dan untuk menguji orang-orang yang munafik, kepada mereka dikatakan, "Marilah be
 
 # 462
 
-Dan jangan sekali-kali kamu mengira bahwa orang-orang yang gugur di jalan Allah itu mati; sebenarnya mereka itu hidup, di sisi Tuhannya mendapat rezeki,162)
+Dan jangan sekali-kali kamu mengira bahwa orang-orang yang gugur di jalan Allah itu mati; sebenarnya mereka itu hidup, di sisi Tuhannya mendapat rezeki,[^162]
 
-162) Hidup dalam alam lain yang bukan alam kita ini. Mereka mendapatkan berbagai kenikmatan di sisi Allah. Dan hanya Allah sajalah yang mengetahui bagaimana keadaan hidup di alam lain itu.
+[^162]: Hidup dalam alam lain yang bukan alam kita ini. Mereka mendapatkan berbagai kenikmatan di sisi Allah. Dan hanya Allah sajalah yang mengetahui bagaimana keadaan hidup di alam lain itu.
 
 # 463
 
-Mereka bergembira dengan karunia yang diberikan Allah kepadanya, dan senang hati terhadap orang yang masih tinggal di belakang yang belum menyusul mereka,163) bahwa tidak ada rasa takut pada mereka dan mereka tidak bersedih hati.
+Mereka bergembira dengan karunia yang diberikan Allah kepadanya, dan senang hati terhadap orang yang masih tinggal di belakang yang belum menyusul mereka,[^163] bahwa tidak ada rasa takut pada mereka dan mereka tidak bersedih hati.
 
-163) Teman-temannya yang masih hidup dan tetap berjihad di jalan Allah.
+[^163]: Teman-temannya yang masih hidup dan tetap berjihad di jalan Allah.
 
 # 464
 
@@ -2160,9 +2208,9 @@ Sesungguhnya mereka hanyalah setan yang menakut-nakuti (kamu) dengan teman-teman
 
 # 469
 
-Dan janganlah engkau (Muhammad) dirisaukan oleh orang-orang yang dengan mudah kembali menjadi kafir;164) sesungguhnya sedikit pun mereka tidak merugikan Allah. Allah tidak akan memberi bagian (pahala) kepada mereka di akhirat, dan mereka akan mendapat azab yang besar.
+Dan janganlah engkau (Muhammad) dirisaukan oleh orang-orang yang dengan mudah kembali menjadi kafir;[^164] sesungguhnya sedikit pun mereka tidak merugikan Allah. Allah tidak akan memberi bagian (pahala) kepada mereka di akhirat, dan mereka akan mendapat azab yang besar.
 
-164) Orang-orang kafir Mekah atau orang-orang munafik yang selalu merongrong agama Islam.
+[^164]: Orang-orang kafir Mekah atau orang-orang munafik yang selalu merongrong agama Islam.
 
 # 470
 
@@ -2170,15 +2218,17 @@ Sesungguhnya orang-orang yang membeli kekafiran dengan iman, sedikit pun tidak m
 
 # 471
 
-Dan jangan sekali-kali orang-orang kafir itu mengira bahwa tenggang waktu yang Kami berikan kepada mereka165) lebih baik baginya. Sesungguhnya tenggang waktu yang Kami berikan kepada mereka hanyalah agar dosa mereka semakin bertambah; dan mereka akan mendapat azab yang menghinakan.
+Dan jangan sekali-kali orang-orang kafir itu mengira bahwa tenggang waktu yang Kami berikan kepada mereka[^165] lebih baik baginya. Sesungguhnya tenggang waktu yang Kami berikan kepada mereka hanyalah agar dosa mereka semakin bertambah; dan mereka akan mendapat azab yang menghinakan.
 
-165) Dengan memperpanjang umur mereka dan membiarkan mereka berbuat dosa sesuka hatinya.
+[^165]: Dengan memperpanjang umur mereka dan membiarkan mereka berbuat dosa sesuka hatinya.
 
 # 472
 
-Allah tidak akan membiarkan orang-orang yang beriman sebagaimana dalam keadaan kamu sekarang ini,166) sehingga Dia membedakan yang buruk dari yang baik. Allah tidak akan memperlihatkan kepadamu hal-hal yang gaib, tetapi Allah memilih siapa yang Dia kehendaki di antara Rasul-rasul-Nya.167) Karena itu, berimanlah kepada Allah dan Rasul-rasul-Nya. Jika kamu beriman dan bertakwa, maka kamu akan mendapat pahala yang besar.
+Allah tidak akan membiarkan orang-orang yang beriman sebagaimana dalam keadaan kamu sekarang ini,[^166] sehingga Dia membedakan yang buruk dari yang baik. Allah tidak akan memperlihatkan kepadamu hal-hal yang gaib, tetapi Allah memilih siapa yang Dia kehendaki di antara Rasul-rasul-Nya.[^167] Karena itu, berimanlah kepada Allah dan Rasul-rasul-Nya. Jika kamu beriman dan bertakwa, maka kamu akan mendapat pahala yang besar.
 
-166) Keadaan kaum muslimin bercampur baur dengan kaum munafikin. 167) Di antara Rasul-rasul, Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dipilih oleh Allah dengan memberikan keistimewaan kepadanya berupa pengetahuan untuk menanggapi isi hati manusia, sehingga dia dapat menentukan siapa di antara mereka yang benar-benar beriman dan siapa pula yang munafik atau kafir.
+[^166]: Keadaan kaum muslimin bercampur baur dengan kaum munafikin
+
+[^167]: Di antara Rasul-rasul, Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dipilih oleh Allah dengan memberikan keistimewaan kepadanya berupa pengetahuan untuk menanggapi isi hati manusia, sehingga dia dapat menentukan siapa di antara mereka yang benar-benar beriman dan siapa pula yang munafik atau kafir.
 
 # 473
 
@@ -2198,9 +2248,11 @@ Demikian itu disebabkan oleh perbuatan tanganmu sendiri, dan sesungguhnya Allah 
 
 # 477
 
-Maka jika mereka mendustakan engkau (Muhammad), maka (ketahuilah) Rasul-rasul sebelum engkau pun telah didustakan (pula), mereka membawa mukjizat-mukjizat yang nyata, Zubur168) dan Kitab yang memberi penjelasan yang sempurna.169)
+Maka jika mereka mendustakan engkau (Muhammad), maka (ketahuilah) Rasul-rasul sebelum engkau pun telah didustakan (pula), mereka membawa mukjizat-mukjizat yang nyata, Zubur[^168] dan Kitab yang memberi penjelasan yang sempurna.[^169]
 
-168) Zubur ialah lembaran-lembaran yang berisi wahyu yang diberikan kepada Nabi-nabi sebelum Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- yang isinya mengandung hikmah-hikmah. 169) Kitab-kitab yang diturunkan kepada Nabi-nabi yang berisi hukum syariat seperti Taurat, Injil dan Zabur.
+[^168]: Zubur ialah lembaran-lembaran yang berisi wahyu yang diberikan kepada Nabi-nabi sebelum Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- yang isinya mengandung hikmah-hikmah
+
+[^169]: Kitab-kitab yang diturunkan kepada Nabi-nabi yang berisi hukum syariat seperti Taurat, Injil dan Zabur.
 
 # 478
 
@@ -2212,9 +2264,9 @@ Kamu pasti akan diuji dengan hartamu dan dirimu. Dan pasti kamu akan mendengar b
 
 # 480
 
-Dan (ingatlah), ketika Allah mengambil janji dari orang-orang yang telah diberi Kitab (yaitu), "Hendaklah kamu benar-benar menerangkannya (isi Kitab itu) kepada manusia, dan janganlah kamu menyembunyikannya,"170) lalu mereka melemparkan (janji itu) ke belakang punggung mereka dan menjualnya dengan harga murah. Maka itulah seburuk-buruk jual-beli yang mereka lakukan.
+Dan (ingatlah), ketika Allah mengambil janji dari orang-orang yang telah diberi Kitab (yaitu), "Hendaklah kamu benar-benar menerangkannya (isi Kitab itu) kepada manusia, dan janganlah kamu menyembunyikannya,"[^170] lalu mereka melemparkan (janji itu) ke belakang punggung mereka dan menjualnya dengan harga murah. Maka itulah seburuk-buruk jual-beli yang mereka lakukan.
 
-170) Di antara keterangan yang disembunyikan itu ialah tentang kedatangan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
+[^170]: Di antara keterangan yang disembunyikan itu ialah tentang kedatangan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
 
 # 481
 
@@ -2246,9 +2298,9 @@ Ya Tuhan kami, berilah kami apa yang telah Engkau janjikan kepada kami melalui R
 
 # 488
 
-Maka Tuhan mereka memperkenankan permohonannya (dengan berfirman), "Sesungguhnya Aku tidak menyia-nyiakan amal orang yang beramal di antara kamu, baik laki-laki maupun perempuan, (karena) sebagian kamu adalah (keturunan) dari sebagian yang lain.171) Maka orang yang berhijrah, yang diusir dari kampung halamannya, yang disakiti pada jalan-Ku, yang berperang dan yang terbunuh, pasti akan Aku hapus kesalahan mereka dan pasti Aku masukkan mereka ke dalam surga-surga yang mengalir di bawahnya sungai-sungai, sebagai pahala dari Allah. Dan di sisi Allah ada pahala yang baik."
+Maka Tuhan mereka memperkenankan permohonannya (dengan berfirman), "Sesungguhnya Aku tidak menyia-nyiakan amal orang yang beramal di antara kamu, baik laki-laki maupun perempuan, (karena) sebagian kamu adalah (keturunan) dari sebagian yang lain.[^171] Maka orang yang berhijrah, yang diusir dari kampung halamannya, yang disakiti pada jalan-Ku, yang berperang dan yang terbunuh, pasti akan Aku hapus kesalahan mereka dan pasti Aku masukkan mereka ke dalam surga-surga yang mengalir di bawahnya sungai-sungai, sebagai pahala dari Allah. Dan di sisi Allah ada pahala yang baik."
 
-171) Maksudnya sebagaimana laki-laki berasal dari laki-laki dan perempuan, maka demikian pula halnya perempuan berasal dari laki-laki dan perempuan. Kedua-duanya sama-sama manusia, tidak ada kelebihan yang satu dari yang lain tentang penilaian iman dan amalnya.
+[^171]: Maksudnya sebagaimana laki-laki berasal dari laki-laki dan perempuan, maka demikian pula halnya perempuan berasal dari laki-laki dan perempuan. Kedua-duanya sama-sama manusia, tidak ada kelebihan yang satu dari yang lain tentang penilaian iman dan amalnya.
 
 # 489
 
@@ -2272,9 +2324,9 @@ Wahai orang-orang yang beriman! Bersabarlah kamu dan kuatkanlah kesabaranmu dan 
 
 # 494
 
-Wahai manusia! Bertakwalah kepada Tuhanmu yang telah menciptakan kamu dari diri yang satu (Adam), dan (Allah) menciptakan pasangannya (Hawa) dari (diri)nya; dan dari keduanya Allah mengembangbiakkan laki-laki dan perempuan yang banyak. Bertakwalah kepada Allah yang dengan nama-Nya kamu saling meminta,172) dan (peliharalah) hubungan kekeluargaan. Sesungguhnya Allah selalu menjaga dan mengawasimu.
+Wahai manusia! Bertakwalah kepada Tuhanmu yang telah menciptakan kamu dari diri yang satu (Adam), dan (Allah) menciptakan pasangannya (Hawa) dari (diri)nya; dan dari keduanya Allah mengembangbiakkan laki-laki dan perempuan yang banyak. Bertakwalah kepada Allah yang dengan nama-Nya kamu saling meminta,[^172] dan (peliharalah) hubungan kekeluargaan. Sesungguhnya Allah selalu menjaga dan mengawasimu.
 
-172) Menurut kebiasaan orang Arab, apabila mereka menanyakan sesuatu atau meminta kepada orang lain mereka mengucapkan nama Allah seperti As-aluka billāh artinya saya bertanya atau meminta kepadamu dengan nama Allah.
+[^172]: Menurut kebiasaan orang Arab, apabila mereka menanyakan sesuatu atau meminta kepada orang lain mereka mengucapkan nama Allah seperti As-aluka billāh artinya saya bertanya atau meminta kepadamu dengan nama Allah.
 
 # 495
 
@@ -2282,27 +2334,31 @@ Dan berikanlah kepada anak-anak yatim (yang sudah dewasa) harta mereka, janganla
 
 # 496
 
-Dan jika kamu khawatir tidak akan mampu berlaku adil terhadap (hak-hak) perempuan yatim (bilamana kamu menikahinya), maka nikahilah perempuan (lain) yang kamu senangi: dua, tiga atau empat. Tetapi jika kamu khawatir tidak akan mampu berlaku adil,173) maka (nikahilah) seorang saja,174) atau hamba sahaya perempuan yang kamu miliki.175) Yang demikian itu lebih dekat agar kamu tidak berbuat zalim.
+Dan jika kamu khawatir tidak akan mampu berlaku adil terhadap (hak-hak) perempuan yatim (bilamana kamu menikahinya), maka nikahilah perempuan (lain) yang kamu senangi: dua, tiga atau empat. Tetapi jika kamu khawatir tidak akan mampu berlaku adil,[^173] maka (nikahilah) seorang saja,[^174] atau hamba sahaya perempuan yang kamu miliki.[^175] Yang demikian itu lebih dekat agar kamu tidak berbuat zalim.
 
-173) Berlaku adil ialah perlakuan yang adil dalam memenuhi kebutuhan istri seperti pakaian, tempat, giliran dan lain-lain yang bersifat lahiriah dan batiniah. 174) Islam membolehkan poligami dengan syarat-syarat tertentu. Sebelum turun ayat ini poligami sudah ada, dan pernah pula dijalankan oleh para Nabi sebelum Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-. Ayat ini membatasi poligami sampai empat orang saja. 175) Hamba sahaya dan perbudakan dalam pengertian ini pada saat sekarang sudah tidak ada.
+[^173]: Berlaku adil ialah perlakuan yang adil dalam memenuhi kebutuhan istri seperti pakaian, tempat, giliran dan lain-lain yang bersifat lahiriah dan batiniah
+
+[^174]: Islam membolehkan poligami dengan syarat-syarat tertentu. Sebelum turun ayat ini poligami sudah ada, dan pernah pula dijalankan oleh para Nabi sebelum Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-. Ayat ini membatasi poligami sampai empat orang saja
+
+[^175]: Hamba sahaya dan perbudakan dalam pengertian ini pada saat sekarang sudah tidak ada.
 
 # 497
 
-Dan berikanlah maskawin (mahar) kepada perempuan (yang kamu nikahi) sebagai pemberian yang penuh kerelaan.176) Kemudian, jika mereka menyerahkan kepada kamu sebagian dari (maskawin) itu dengan senang hati, maka terimalah dan nikmatillah pemberian itu dengan senang hati.
+Dan berikanlah maskawin (mahar) kepada perempuan (yang kamu nikahi) sebagai pemberian yang penuh kerelaan.[^176] Kemudian, jika mereka menyerahkan kepada kamu sebagian dari (maskawin) itu dengan senang hati, maka terimalah dan nikmatillah pemberian itu dengan senang hati.
 
-176) Pemberian itu ialah maskawin yang besar kecilnya ditetapkan atas persetujuan kedua pihak, karena pemberian itu harus dilakukan dengan ikhlas.
+[^176]: Pemberian itu ialah maskawin yang besar kecilnya ditetapkan atas persetujuan kedua pihak, karena pemberian itu harus dilakukan dengan ikhlas.
 
 # 498
 
-Dan janganlah kamu serahkan kepada orang yang belum sempurna akalnya,177) harta (mereka yang ada dalam kekuasaan) kamu yang dijadikan Allah sebagai pokok kehidupan. Berilah mereka belanja dan pakaian (dari hasil harta itu) dan ucapkanlah kepada mereka perkataan yang baik.
+Dan janganlah kamu serahkan kepada orang yang belum sempurna akalnya,[^177] harta (mereka yang ada dalam kekuasaan) kamu yang dijadikan Allah sebagai pokok kehidupan. Berilah mereka belanja dan pakaian (dari hasil harta itu) dan ucapkanlah kepada mereka perkataan yang baik.
 
-177) Orang yang belum sempurna akalnya ialah anak yatim yang belum balig (dewasa) atau orang dewasa yang tidak dapat mengatur harta bendanya.
+[^177]: Orang yang belum sempurna akalnya ialah anak yatim yang belum balig (dewasa) atau orang dewasa yang tidak dapat mengatur harta bendanya.
 
 # 499
 
-Dan ujilah178) anak-anak yatim itu sampai mereka cukup umur untuk menikah. Kemudian jika menurut pendapatmu mereka telah cerdas (pandai memelihara harta), maka serahkanlah kepada mereka hartanya. Dan janganlah kamu memakannya (harta anak yatim) melebihi batas kepatutan dan (janganlah kamu) tergesa-gesa (menyerahkannya) sebelum mereka dewasa. Barang siapa (di antara pemelihara itu) mampu, maka hendaklah dia menahan diri (dari memakan harta anak yatim itu) dan barang siapa miskin, maka dia boleh makan harta itu menurut cara yang patut. Kemudian, apabila kamu menyerahkan harta itu kepada mereka, maka hendaklah kamu adakan saksi-saksi. Dan cukuplah Allah sebagai pengawas.
+Dan ujilah[^178] anak-anak yatim itu sampai mereka cukup umur untuk menikah. Kemudian jika menurut pendapatmu mereka telah cerdas (pandai memelihara harta), maka serahkanlah kepada mereka hartanya. Dan janganlah kamu memakannya (harta anak yatim) melebihi batas kepatutan dan (janganlah kamu) tergesa-gesa (menyerahkannya) sebelum mereka dewasa. Barang siapa (di antara pemelihara itu) mampu, maka hendaklah dia menahan diri (dari memakan harta anak yatim itu) dan barang siapa miskin, maka dia boleh makan harta itu menurut cara yang patut. Kemudian, apabila kamu menyerahkan harta itu kepada mereka, maka hendaklah kamu adakan saksi-saksi. Dan cukuplah Allah sebagai pengawas.
 
-178) Mengadakan penyelidikan terhadap mereka tentang keagamaan, usaha-usaha mereka, kelakuan dan lain-lain sampai diketahui bahwa anak itu dapat dipercayai.
+[^178]: Mengadakan penyelidikan terhadap mereka tentang keagamaan, usaha-usaha mereka, kelakuan dan lain-lain sampai diketahui bahwa anak itu dapat dipercayai.
 
 # 500
 
@@ -2310,9 +2366,11 @@ Bagi laki-laki ada hak bagian dari harta peninggalan kedua orang tua dan kerabat
 
 # 501
 
-Dan apabila sewaktu pembagian itu hadir beberapa kerabat,179) anak-anak yatim dan orang-orang miskin, maka berilah mereka dari harta itu180) (sekedarnya) dan ucapkanlah kepada mereka perkataan yang baik.
+Dan apabila sewaktu pembagian itu hadir beberapa kerabat,[^179] anak-anak yatim dan orang-orang miskin, maka berilah mereka dari harta itu[^180] (sekedarnya) dan ucapkanlah kepada mereka perkataan yang baik.
 
-179) Kerabat yang tidak mempunyai hak waris dari harta warisan. 180) Pemberian sekedarnya tidak boleh lebih dari sepertiga harta warisan.
+[^179]: Kerabat yang tidak mempunyai hak waris dari harta warisan
+
+[^180]: Pemberian sekedarnya tidak boleh lebih dari sepertiga harta warisan.
 
 # 502
 
@@ -2324,15 +2382,15 @@ Sesungguhnya orang-orang yang memakan harta anak yatim secara zalim, sebenarnya 
 
 # 504
 
-Allah mensyariatkan (mewajibkan) kepadamu tentang (pembagian warisan untuk) anak-anakmu, (yaitu) bagian seorang anak laki-laki sama dengan bagian dua orang anak perempuan.181) Dan jika anak itu semuanya perempuan yang jumlahnya lebih dari dua, maka bagian mereka dua pertiga dari harta yang ditinggalkan. Jika dia (anak perempuan) itu seorang saja, maka dia memperoleh setengah (harta yang ditinggalkan). Dan untuk kedua ibu-bapak, bagian masing-masing seperenam dari harta yang ditinggalkan, jika dia (yang meninggal) mempunyai anak. Jika dia (yang meninggal) tidak mempunyai anak dan dia diwarisi oleh kedua ibu-bapaknya (saja), maka ibunya mendapat sepertiga. Jika dia (yang meninggal) mempunyai beberapa saudara, maka ibunya mendapat seperenam. (Pembagian-pembagian tersebut di atas) setelah (dipenuhi) wasiat yang dibuatnya atau (dan setelah dibayar) hutangnya. (Tentang) orang tuamu dan anak-anakmu, kamu tidak mengetahui siapa di antara mereka yang lebih banyak manfaatnya bagimu. Ini adalah ketetapan Allah. Sungguh, Allah Maha Mengetahui, Mahabijaksana.
+Allah mensyariatkan (mewajibkan) kepadamu tentang (pembagian warisan untuk) anak-anakmu, (yaitu) bagian seorang anak laki-laki sama dengan bagian dua orang anak perempuan.[^181] Dan jika anak itu semuanya perempuan yang jumlahnya lebih dari dua, maka bagian mereka dua pertiga dari harta yang ditinggalkan. Jika dia (anak perempuan) itu seorang saja, maka dia memperoleh setengah (harta yang ditinggalkan). Dan untuk kedua ibu-bapak, bagian masing-masing seperenam dari harta yang ditinggalkan, jika dia (yang meninggal) mempunyai anak. Jika dia (yang meninggal) tidak mempunyai anak dan dia diwarisi oleh kedua ibu-bapaknya (saja), maka ibunya mendapat sepertiga. Jika dia (yang meninggal) mempunyai beberapa saudara, maka ibunya mendapat seperenam. (Pembagian-pembagian tersebut di atas) setelah (dipenuhi) wasiat yang dibuatnya atau (dan setelah dibayar) hutangnya. (Tentang) orang tuamu dan anak-anakmu, kamu tidak mengetahui siapa di antara mereka yang lebih banyak manfaatnya bagimu. Ini adalah ketetapan Allah. Sungguh, Allah Maha Mengetahui, Mahabijaksana.
 
-181) Bagian laki-laki dua kali bagian perempuan adalah karena kewajiban laki-laki lebih berat dari perempuan, seperti kewajiban membayar maskawin dan memberi nafkah (lihat An-Nisā` (4): 34).
+[^181]: Bagian laki-laki dua kali bagian perempuan adalah karena kewajiban laki-laki lebih berat dari perempuan, seperti kewajiban membayar maskawin dan memberi nafkah (lihat An-Nisā` (4): 34).
 
 # 505
 
-Dan bagianmu (suami-suami) adalah seperdua dari harta yang ditinggalkan oleh istri-istrimu, jika mereka tidak mempunyai anak. Jika mereka (istri-istrimu) itu mempunyai anak, maka kamu mendapat seperempat dari harta yang ditinggalkannya setelah (dipenuhi) wasiat yang mereka buat atau (dan setelah dibayar) hutangnya. Para istri memperoleh seperempat harta yang kamu tinggalkan jika kamu tidak mempunyai anak. Jika kamu mempunyai anak, maka para istri memperoleh seperdelapan dari harta yang kamu tinggalkan (setelah dipenuhi) wasiat yang kamu buat atau (dan setelah dibayar) hutang-hutangmu. Jika seseorang meninggal, baik laki-laki maupun perempuan yang tidak meninggalkan ayah dan tidak meninggalkan anak, tetapi mempunyai seorang saudara laki-laki (seibu) atau seorang saudara perempuan (seibu), maka bagi masing-masing dari kedua jenis saudara itu seperenam harta. Tetapi jika saudara-saudara seibu itu lebih dari seorang, maka mereka bersama-sama dalam bagian yang sepertiga itu, setelah (dipenuhi wasiat) yang dibuatnya atau (dan setelah dibayar) hutangnya dengan tidak menyusahkan (kepada ahli waris).182) Demikianlah ketentuan Allah. Allah Maha Mengetahui, Maha Penyantun.
+Dan bagianmu (suami-suami) adalah seperdua dari harta yang ditinggalkan oleh istri-istrimu, jika mereka tidak mempunyai anak. Jika mereka (istri-istrimu) itu mempunyai anak, maka kamu mendapat seperempat dari harta yang ditinggalkannya setelah (dipenuhi) wasiat yang mereka buat atau (dan setelah dibayar) hutangnya. Para istri memperoleh seperempat harta yang kamu tinggalkan jika kamu tidak mempunyai anak. Jika kamu mempunyai anak, maka para istri memperoleh seperdelapan dari harta yang kamu tinggalkan (setelah dipenuhi) wasiat yang kamu buat atau (dan setelah dibayar) hutang-hutangmu. Jika seseorang meninggal, baik laki-laki maupun perempuan yang tidak meninggalkan ayah dan tidak meninggalkan anak, tetapi mempunyai seorang saudara laki-laki (seibu) atau seorang saudara perempuan (seibu), maka bagi masing-masing dari kedua jenis saudara itu seperenam harta. Tetapi jika saudara-saudara seibu itu lebih dari seorang, maka mereka bersama-sama dalam bagian yang sepertiga itu, setelah (dipenuhi wasiat) yang dibuatnya atau (dan setelah dibayar) hutangnya dengan tidak menyusahkan (kepada ahli waris).[^182] Demikianlah ketentuan Allah. Allah Maha Mengetahui, Maha Penyantun.
 
-182) Menyusahkan kepada ahli waris ialah tindakan-tindakan seperti: (a). Mewasiatkan lebih dari sepertiga harta peninggalan. (b). Berwasiat dengan maksud mengurangi harta warisan. Sekalipun kurang dari sepertiga jika ada niat mengurangi hak waris, juga tidak diperbolehkan.
+[^182]: Menyusahkan kepada ahli waris ialah tindakan-tindakan seperti: (a). Mewasiatkan lebih dari sepertiga harta peninggalan. (b). Berwasiat dengan maksud mengurangi harta warisan. Sekalipun kurang dari sepertiga jika ada niat mengurangi hak waris, juga tidak diperbolehkan.
 
 # 506
 
@@ -2344,9 +2402,11 @@ Dan barang siapa mendurhakai Allah dan Rasul-Nya dan melanggar batas-batas hukum
 
 # 508
 
-Dan para perempuan yang melakukan perbuatan keji183) di antara perempuan-perempuan kamu, hendaklah terhadap mereka ada empat orang saksi di antara kamu (yang menyaksikannya). Apabila mereka telah memberi kesaksian, maka kurunglah mereka (perempuan itu) dalam rumah sampai mereka menemui ajalnya, atau sampai Allah memberi jalan (yang lain) kepadanya.184)
+Dan para perempuan yang melakukan perbuatan keji[^183] di antara perempuan-perempuan kamu, hendaklah terhadap mereka ada empat orang saksi di antara kamu (yang menyaksikannya). Apabila mereka telah memberi kesaksian, maka kurunglah mereka (perempuan itu) dalam rumah sampai mereka menemui ajalnya, atau sampai Allah memberi jalan (yang lain) kepadanya.[^184]
 
-183) Menurut sebagian besar mufasir ialah perbuatan zina, sedang menurut pendapat yang lain ialah segala perbuatan mesum seperti: zina, homoseks, dan yang sejenisnya. Menurut pendapat Muslim dan Mujahid ialah musahaqah (lesbian). 184) Menurut sebagian besar mufasir jalan yang lain itu ialah dengan turunnya An-Nur (24) : 2, tentang hukum dera.
+[^183]: Menurut sebagian besar mufasir ialah perbuatan zina, sedang menurut pendapat yang lain ialah segala perbuatan mesum seperti: zina, homoseks, dan yang sejenisnya. Menurut pendapat Muslim dan Mujahid ialah musahaqah (lesbian)
+
+[^184]: Menurut sebagian besar mufasir jalan yang lain itu ialah dengan turunnya An-Nur (24) : 2, tentang hukum dera.
 
 # 509
 
@@ -2362,9 +2422,9 @@ Dan tobat itu tidaklah (diterima Allah) dari mereka yang melakukan kejahatan hin
 
 # 512
 
-Wahai orang-orang yang beriman! Tidak halal bagi kamu mewarisi perempuan dengan jalan paksa185) dan janganlah kamu menyusahkan mereka karena hendak mengambil kembali sebagian dari apa yang telah kamu berikan kepadanya, kecuali apabila mereka melakukan perbuatan keji yang nyata. Dan bergaullah dengan mereka menurut cara yang patut. Jika kamu tidak menyukai mereka, (maka bersabarlah) karena boleh jadi kamu tidak menyukai sesuatu, padahal Allah menjadikan kebaikan yang banyak padanya.
+Wahai orang-orang yang beriman! Tidak halal bagi kamu mewarisi perempuan dengan jalan paksa[^185] dan janganlah kamu menyusahkan mereka karena hendak mengambil kembali sebagian dari apa yang telah kamu berikan kepadanya, kecuali apabila mereka melakukan perbuatan keji yang nyata. Dan bergaullah dengan mereka menurut cara yang patut. Jika kamu tidak menyukai mereka, (maka bersabarlah) karena boleh jadi kamu tidak menyukai sesuatu, padahal Allah menjadikan kebaikan yang banyak padanya.
 
-185) Ayat ini tidak berarti bahwa mewariskan perempuan tidak dengan jalan paksa dibolehkan. Menurut sebagian adat Arab Jahiliah apabila seseorang meninggal, maka anaknya yang tertua atau anggota keluarganya yang lain mewarisi janda itu. Janda tersebut boleh dinikahi sendiri atau dinikahkan dengan orang lain yang maharnya diambil oleh pewaris atau tidak dibolehkan menikah lagi.
+[^185]: Ayat ini tidak berarti bahwa mewariskan perempuan tidak dengan jalan paksa dibolehkan. Menurut sebagian adat Arab Jahiliah apabila seseorang meninggal, maka anaknya yang tertua atau anggota keluarganya yang lain mewarisi janda itu. Janda tersebut boleh dinikahi sendiri atau dinikahkan dengan orang lain yang maharnya diambil oleh pewaris atau tidak dibolehkan menikah lagi.
 
 # 513
 
@@ -2380,15 +2440,19 @@ Dan janganlah kamu menikahi perempuan-perempuan yang telah dinikahi oleh ayahmu,
 
 # 516
 
-Diharamkan atas kamu (menikahi) ibu-ibumu, anak-anakmu yang perempuan, saudara-saudaramu yang perempuan, saudara-saudara ayahmu yang perempuan, saudara-saudara ibumu yang perempuan, anak-anak perempuan dari saudara-saudaramu yang laki-laki, anak-anak perempuan dari saudara-saudaramu yang perempuan, ibu-ibumu yang menyusui kamu, saudara-saudara perempuanmu sesusuan, ibu-ibu istrimu (mertua), anak-anak perempuan dari istrimu (anak tiri) yang dalam pemeliharaanmu186) dari istri yang telah kamu campuri, tetapi jika kamu belum campur dengan istrimu itu (dan sudah kamu ceraikan), maka tidak berdosa kamu (menikahinya), (dan diharamkan bagimu) istri-istri anak kandungmu (menantu), dan (diharamkan) mengumpulkan (dalam pernikahan) dua perempuan yang bersaudara, kecuali yang telah terjadi pada masa lampau. Sungguh, Allah Maha Pengampun, Maha Penyayang.
+Diharamkan atas kamu (menikahi) ibu-ibumu, anak-anakmu yang perempuan, saudara-saudaramu yang perempuan, saudara-saudara ayahmu yang perempuan, saudara-saudara ibumu yang perempuan, anak-anak perempuan dari saudara-saudaramu yang laki-laki, anak-anak perempuan dari saudara-saudaramu yang perempuan, ibu-ibumu yang menyusui kamu, saudara-saudara perempuanmu sesusuan, ibu-ibu istrimu (mertua), anak-anak perempuan dari istrimu (anak tiri) yang dalam pemeliharaanmu[^186] dari istri yang telah kamu campuri, tetapi jika kamu belum campur dengan istrimu itu (dan sudah kamu ceraikan), maka tidak berdosa kamu (menikahinya), (dan diharamkan bagimu) istri-istri anak kandungmu (menantu), dan (diharamkan) mengumpulkan (dalam pernikahan) dua perempuan yang bersaudara, kecuali yang telah terjadi pada masa lampau. Sungguh, Allah Maha Pengampun, Maha Penyayang.
 
-186) Maksud ibu di awal ayat ini ialah ibu, nenek, dan seterusnya ke atas dan yang dimaksud dengan anak-anak perempuan ialah anak perempuan, cucu perempuan dan seterusnya ke bawah, demikian juga yang lain-lainnya. Sedang yang dimaksud dengan “anak-anak isterimu yang dalam pemeliharaanmu”, menurut sebagian besar ulama termasuk juga anak tiri yang tidak dalam pemeliharaannya.
+[^186]: Maksud ibu di awal ayat ini ialah ibu, nenek, dan seterusnya ke atas dan yang dimaksud dengan anak-anak perempuan ialah anak perempuan, cucu perempuan dan seterusnya ke bawah, demikian juga yang lain-lainnya. Sedang yang dimaksud dengan “anak-anak isterimu yang dalam pemeliharaanmu”, menurut sebagian besar ulama termasuk juga anak tiri yang tidak dalam pemeliharaannya.
 
 # 517
 
-Dan (diharamkan juga kamu menikahi) perempuan yang bersuami, kecuali hamba sahaya perempuan (tawanan perang) yang kamu miliki187) sebagai ketetapan Allah atas kamu. Dan dihalalkan bagimu selain (perempuan-perempuan) yang demikian itu188) jika kamu berusaha dengan hartamu untuk menikahinya bukan untuk berzina. Maka karena kenikmatan yang telah kamu dapatkan dari mereka, berikanlah maskawinnya kepada mereka sebagai suatu kewajiban. Tetapi tidak mengapa jika ternyata di antara kamu telah saling merelakannya, setelah ditetapkan.189) Sungguh, Allah Maha Mengetahui, Mahabijaksana.
+Dan (diharamkan juga kamu menikahi) perempuan yang bersuami, kecuali hamba sahaya perempuan (tawanan perang) yang kamu miliki[^187] sebagai ketetapan Allah atas kamu. Dan dihalalkan bagimu selain (perempuan-perempuan) yang demikian itu[^188] jika kamu berusaha dengan hartamu untuk menikahinya bukan untuk berzina. Maka karena kenikmatan yang telah kamu dapatkan dari mereka, berikanlah maskawinnya kepada mereka sebagai suatu kewajiban. Tetapi tidak mengapa jika ternyata di antara kamu telah saling merelakannya, setelah ditetapkan.[^189] Sungguh, Allah Maha Mengetahui, Mahabijaksana.
 
-187) Perempuan-perempuan yang dimiliki yang suaminya tidak ikut tertawan bersamanya. Penjelasan selanjutnya lihat An-Nisā` (4): 3. 188) Selain dari perempuan yang tersebut dalam An-Nisā` (4): 23. 189) Menambah, mengurangi atau tidak membayar sama sekali maskawin yang telah ditetapkan.
+[^187]: Perempuan-perempuan yang dimiliki yang suaminya tidak ikut tertawan bersamanya. Penjelasan selanjutnya lihat An-Nisā` (4): 3
+
+[^188]: Selain dari perempuan yang tersebut dalam An-Nisā` (4): 23
+
+[^189]: Menambah, mengurangi atau tidak membayar sama sekali maskawin yang telah ditetapkan.
 
 # 518
 
@@ -2404,9 +2468,9 @@ Dan Allah hendak menerima tobatmu, sedang orang-orang yang mengikuti keinginanny
 
 # 521
 
-Allah hendak memberikan keringanan kepadamu,190) karena manusia diciptakan (bersifat) lemah.
+Allah hendak memberikan keringanan kepadamu,[^190] karena manusia diciptakan (bersifat) lemah.
 
-190) Dalam syariat di antaranya boleh menikahi hamba sahaya apabila telah cukup syarat-syaratnya.
+[^190]: Dalam syariat di antaranya boleh menikahi hamba sahaya apabila telah cukup syarat-syaratnya.
 
 # 522
 
@@ -2430,9 +2494,11 @@ Dan untuk masing-masing (laki-laki dan perempuan) Kami telah menetapkan para ahl
 
 # 527
 
-Laki-laki (suami) itu pelindung bagi perempuan (istri), karena Allah telah melebihkan sebagian mereka (laki-laki) atas sebagian yang lain (perempuan), dan karena mereka (laki-laki) telah memberikan nafkah dari hartanya. Maka perempuan-perempuan yang saleh, adalah mereka yang taat (kepada Allah) dan menjaga diri ketika (suaminya) tidak ada, karena Allah telah menjaga (mereka).191) Perempuan-perempuan yang kamu khawatirkan akan nusyuz,192) hendaklah kamu beri nasihat kepada mereka, tinggalkanlah mereka di tempat tidur (pisah ranjang), dan (kalau perlu) pukullah mereka. Tetapi jika mereka menaatimu, maka janganlah kamu mencari-cari alasan untuk menyusahkannya. Sungguh, Allah Mahatinggi, Mahabesar.
+Laki-laki (suami) itu pelindung bagi perempuan (istri), karena Allah telah melebihkan sebagian mereka (laki-laki) atas sebagian yang lain (perempuan), dan karena mereka (laki-laki) telah memberikan nafkah dari hartanya. Maka perempuan-perempuan yang saleh, adalah mereka yang taat (kepada Allah) dan menjaga diri ketika (suaminya) tidak ada, karena Allah telah menjaga (mereka).[^191] Perempuan-perempuan yang kamu khawatirkan akan nusyuz,[^192] hendaklah kamu beri nasihat kepada mereka, tinggalkanlah mereka di tempat tidur (pisah ranjang), dan (kalau perlu) pukullah mereka. Tetapi jika mereka menaatimu, maka janganlah kamu mencari-cari alasan untuk menyusahkannya. Sungguh, Allah Mahatinggi, Mahabesar.
 
-191) Allah telah mewajibkan kepada suami untuk menggauli istrinya dengan baik. 192) Nusyuz yaitu meninggalkan kewajiban selaku istri, seperti meninggalkan rumah tanpa izin suaminya.
+[^191]: Allah telah mewajibkan kepada suami untuk menggauli istrinya dengan baik
+
+[^192]: Nusyuz yaitu meninggalkan kewajiban selaku istri, seperti meninggalkan rumah tanpa izin suaminya.
 
 # 528
 
@@ -2440,9 +2506,11 @@ Dan jika kamu khawatir terjadi persengketaan antara keduanya, maka kirimlah seor
 
 # 529
 
-Dan sembahlah Allah dan janganlah kamu mempersekutukan-Nya dengan sesuatu apa pun. Dan berbuat baiklah kepada kedua orang tua, karib-kerabat, anak-anak yatim, orang-orang miskin, tetangga dekat dan tetangga jauh,193) teman sejawat, ibnu sabīl194) dan hamba sahaya yang kamu miliki. Sungguh, Allah tidak menyukai orang yang sombong dan membanggakan diri,
+Dan sembahlah Allah dan janganlah kamu mempersekutukan-Nya dengan sesuatu apa pun. Dan berbuat baiklah kepada kedua orang tua, karib-kerabat, anak-anak yatim, orang-orang miskin, tetangga dekat dan tetangga jauh,[^193] teman sejawat, ibnu sabīl[^194] dan hamba sahaya yang kamu miliki. Sungguh, Allah tidak menyukai orang yang sombong dan membanggakan diri,
 
-193) Dekat dan jauh di sini ada yang mengartikan dengan tempat, hubungan kekeluargaan, dan ada pula antara yang muslim dan yang bukan muslim. 194) Ibnu sabīl ialah orang yang dalam perjalanan yang bukan maksiat yang kehabisan bekal. Termasuk juga anak yang tidak diketahui ibu bapaknya.
+[^193]: Dekat dan jauh di sini ada yang mengartikan dengan tempat, hubungan kekeluargaan, dan ada pula antara yang muslim dan yang bukan muslim
+
+[^194]: Ibnu sabīl ialah orang yang dalam perjalanan yang bukan maksiat yang kehabisan bekal. Termasuk juga anak yang tidak diketahui ibu bapaknya.
 
 # 530
 
@@ -2458,9 +2526,9 @@ Dan apa (keberatan) bagi mereka jika mereka beriman kepada Allah dan hari kemudi
 
 # 533
 
-Sungguh, Allah tidak akan menzalimi seseorang walaupun sebesar zarah,195) dan jika ada kebajikan (sekecil zarah), niscaya Allah akan melipatgandakannya dan memberikan pahala yang besar dari sisi-Nya.
+Sungguh, Allah tidak akan menzalimi seseorang walaupun sebesar zarah,[^195] dan jika ada kebajikan (sekecil zarah), niscaya Allah akan melipatgandakannya dan memberikan pahala yang besar dari sisi-Nya.
 
-195) Zarah adalah sesuatu yang terkecil dan teringan.
+[^195]: Zarah adalah sesuatu yang terkecil dan teringan.
 
 # 534
 
@@ -2472,9 +2540,9 @@ Pada hari itu, orang yang kafir dan orang yang mendurhakai Rasul (Muhammad), ber
 
 # 536
 
-Wahai orang yang beriman! Janganlah kamu mendekati salat, ketika kamu dalam keadaan mabuk, sampai kamu sadar apa yang kamu ucapkan, dan jangan pula (kamu hampiri masjid ketika kamu) dalam keadaan junub kecuali sekedar melewati jalan saja, sebelum kamu mandi (mandi junub). Adapun jika kamu sakit atau sedang dalam perjalanan atau sehabis buang air atau kamu telah menyentuh perempuan,196) sedangkan kamu tidak mendapat air, maka bertayamumlah kamu dengan debu yang baik (suci); usaplah wajahmu dan tanganmu dengan debu itu. Sungguh, Allah Maha Pemaaf, Maha Pengampun.
+Wahai orang yang beriman! Janganlah kamu mendekati salat, ketika kamu dalam keadaan mabuk, sampai kamu sadar apa yang kamu ucapkan, dan jangan pula (kamu hampiri masjid ketika kamu) dalam keadaan junub kecuali sekedar melewati jalan saja, sebelum kamu mandi (mandi junub). Adapun jika kamu sakit atau sedang dalam perjalanan atau sehabis buang air atau kamu telah menyentuh perempuan,[^196] sedangkan kamu tidak mendapat air, maka bertayamumlah kamu dengan debu yang baik (suci); usaplah wajahmu dan tanganmu dengan debu itu. Sungguh, Allah Maha Pemaaf, Maha Pengampun.
 
-196) Sebagian besar ulama menjelaskan arti menyentuh di sini adalah bersentuhan kulit, dan sebagian lain adalah bercampur sebagai suami istri.
+[^196]: Sebagian besar ulama menjelaskan arti menyentuh di sini adalah bersentuhan kulit, dan sebagian lain adalah bercampur sebagai suami istri.
 
 # 537
 
@@ -2486,15 +2554,19 @@ Dan Allah lebih mengetahui tentang musuh-musuhmu. Cukuplah Allah menjadi pelindu
 
 # 539
 
-(Yaitu) di antara orang Yahudi, yang mengubah perkataan dari tempat-tempatnya.197) Dan mereka berkata, "Kami mendengar, tetapi kami tidak mau menurutinya." Dan (mereka mengatakan pula), "Dengarlah," sedang (engkau Muhammad sebenarnya) tidak mendengar apa pun."198) Dan (mereka mengatakan), "Rā'inā"199) dengan memutarbalikkan lidahnya dan mencela agama. Sekiranya mereka mengatakan, "Kami mendengar dan patuh, dan dengarlah, dan perhatikanlah kami," tentulah itu lebih baik bagi mereka dan lebih tepat, tetapi Allah melaknat mereka, karena kekafiran mereka. Mereka tidak beriman kecuali sedikit sekali.200)
+(Yaitu) di antara orang Yahudi, yang mengubah perkataan dari tempat-tempatnya.[^197] Dan mereka berkata, "Kami mendengar, tetapi kami tidak mau menurutinya." Dan (mereka mengatakan pula), "Dengarlah," sedang (engkau Muhammad sebenarnya) tidak mendengar apa pun."[^198] Dan (mereka mengatakan), "Rā'inā" dengan memutarbalikkan lidahnya dan mencela agama. Sekiranya mereka mengatakan, "Kami mendengar dan patuh, dan dengarlah, dan perhatikanlah kami," tentulah itu lebih baik bagi mereka dan lebih tepat, tetapi Allah melaknat mereka, karena kekafiran mereka. Mereka tidak beriman kecuali sedikit sekali.[^200]
 
-197) Mengubah arti, tempat, atau menambah dan mengurangi kata-kata. 198) Mereka mengatakan, “Dengarlah,” tetapi hati mereka mengatakan, “Mudah-mudahan kamu tidak dapat mendengarkan (tuli).” 199) Tentang kata rā'inā sama artinya dengan unẓurnā artinya perhatikan kami. Selanjutnya lihat Al-Baqarah (2) : 104. 200) Ada yang mengatakan kadar keimanannya yang tipis, dan ada yang mengatakan jumlah orangnya yang sedikit.
+[^197]: Mengubah arti, tempat, atau menambah dan mengurangi kata-kata
+
+[^198]: Mereka mengatakan, “Dengarlah,” tetapi hati mereka mengatakan, “Mudah-mudahan kamu tidak dapat mendengarkan (tuli).” 199) Tentang kata rā'inā sama artinya dengan unẓurnā artinya perhatikan kami. Selanjutnya lihat Al-Baqarah (2) : 104
+
+[^200]: Ada yang mengatakan kadar keimanannya yang tipis, dan ada yang mengatakan jumlah orangnya yang sedikit.
 
 # 540
 
-Wahai orang-orang yang telah diberi Kitab! Berimanlah kamu kepada apa yang telah Kami turunkan (Al-Qur`an) yang membenarkan Kitab yang ada pada kamu, sebelum Kami mengubah wajah-wajah(mu), lalu Kami putar ke belakang 201) atau Kami laknat mereka sebagaimana Kami melaknat orang-orang (yang berbuat maksiat) pada hari Sabat (Sabtu). Dan ketetapan Allah pasti berlaku.
+Wahai orang-orang yang telah diberi Kitab! Berimanlah kamu kepada apa yang telah Kami turunkan (Al-Qur`an) yang membenarkan Kitab yang ada pada kamu, sebelum Kami mengubah wajah-wajah(mu), lalu Kami putar ke belakang [^201] atau Kami laknat mereka sebagaimana Kami melaknat orang-orang (yang berbuat maksiat) pada hari Sabat (Sabtu). Dan ketetapan Allah pasti berlaku.
 
-201) Menurut kebanyakan mufasir, maksudnya ialah mengubah wajah mereka lalu diputar ke belakang sebagai penghinaan.
+[^201]: Menurut kebanyakan mufasir, maksudnya ialah mengubah wajah mereka lalu diputar ke belakang sebagai penghinaan.
 
 # 541
 
@@ -2510,9 +2582,9 @@ Perhatikanlah, betapa mereka mengada-adakan kebohongan terhadap Allah? Dan cukup
 
 # 544
 
-Tidakkah engkau memperhatikan orang-orang yang diberi bagian dari Kitab (Taurat)? Mereka percaya kepada Jibt dan Ṭāgūt,202) dan mengatakan kepada orang-orang kafir (musyrik Mekkah), bahwa mereka itu lebih benar jalannya daripada orang-orang yang beriman.
+Tidakkah engkau memperhatikan orang-orang yang diberi bagian dari Kitab (Taurat)? Mereka percaya kepada Jibt dan Ṭāgūt,[^202] dan mengatakan kepada orang-orang kafir (musyrik Mekkah), bahwa mereka itu lebih benar jalannya daripada orang-orang yang beriman.
 
-202) Jibt sama dengan Ṭāgūt, ialah setan dan apa saja yang disembah selain Allah -Subḥānahu wata'ālā-.
+[^202]: Jibt sama dengan Ṭāgūt, ialah setan dan apa saja yang disembah selain Allah -Subḥānahu wata'ālā-.
 
 # 545
 
@@ -2544,15 +2616,15 @@ Sungguh, Allah menyuruhmu menyampaikan amanah kepada yang berhak menerimanya, da
 
 # 552
 
-Wahai orang-orang yang beriman! Taatilah Allah dan taatilah Rasul (Muhammad), dan Ulil Amri (pemegang kekuasaan)203) di antara kamu. Kemudian, jika kamu berbeda pendapat tentang sesuatu, maka kembalikanlah kepada Allah (Al-Qur`an) dan Rasul (sunahnya), jika kamu beriman kepada Allah dan hari kemudian. Yang demikian itu, lebih utama (bagimu) dan lebih baik akibatnya.
+Wahai orang-orang yang beriman! Taatilah Allah dan taatilah Rasul (Muhammad), dan Ulil Amri (pemegang kekuasaan)[^203] di antara kamu. Kemudian, jika kamu berbeda pendapat tentang sesuatu, maka kembalikanlah kepada Allah (Al-Qur`an) dan Rasul (sunahnya), jika kamu beriman kepada Allah dan hari kemudian. Yang demikian itu, lebih utama (bagimu) dan lebih baik akibatnya.
 
-203) Selama pemegang kekuasaan berpegang pada Kitab Allah dan Sunah Rasul.
+[^203]: Selama pemegang kekuasaan berpegang pada Kitab Allah dan Sunah Rasul.
 
 # 553
 
-Tidakkah engkau (Muhammad) memperhatikan orang-orang yang mengaku bahwa mereka telah beriman kepada apa yang diturunkan kepadamu dan kepada apa yang diturunkan sebelummu? Tetapi mereka204) masih menginginkan ketetapan hukum kepada Tagut, padahal mereka telah diperintahkan untuk mengingkari Tagut itu. Dan setan bermaksud menyesatkan mereka (dengan) kesesatan yang sejauh-jauhnya.
+Tidakkah engkau (Muhammad) memperhatikan orang-orang yang mengaku bahwa mereka telah beriman kepada apa yang diturunkan kepadamu dan kepada apa yang diturunkan sebelummu? Tetapi mereka[^204] masih menginginkan ketetapan hukum kepada Tagut, padahal mereka telah diperintahkan untuk mengingkari Tagut itu. Dan setan bermaksud menyesatkan mereka (dengan) kesesatan yang sejauh-jauhnya.
 
-204) Orang yang selalu memusuhi Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dan kaum muslimin. Ada yang mengatakan Abu Barzah seorang tukang tenun pada masa Nabi, dan ada yang mengatakan Ka'ab bin Asyraf (gembong kaum munafik).
+[^204]: Orang yang selalu memusuhi Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dan kaum muslimin. Ada yang mengatakan Abu Barzah seorang tukang tenun pada masa Nabi, dan ada yang mengatakan Ka'ab bin Asyraf (gembong kaum munafik).
 
 # 554
 
@@ -2568,9 +2640,9 @@ Mereka itu adalah orang-orang yang (sesungguhnya) Allah mengetahui apa yang ada 
 
 # 557
 
-Dan Kami tidak mengutus seorang rasul melainkan untuk ditaati dengan izin Allah. Dan sungguh, sekiranya mereka setelah menzalimi dirinya205) datang kepadamu (Muhammad), lalu memohon ampunan kepada Allah, dan Rasul pun memohonkan ampunan untuk mereka, niscaya mereka mendapati Allah Maha Penerima tobat, Maha Penyayang.
+Dan Kami tidak mengutus seorang rasul melainkan untuk ditaati dengan izin Allah. Dan sungguh, sekiranya mereka setelah menzalimi dirinya[^205] datang kepadamu (Muhammad), lalu memohon ampunan kepada Allah, dan Rasul pun memohonkan ampunan untuk mereka, niscaya mereka mendapati Allah Maha Penerima tobat, Maha Penyayang.
 
-205) Berhakim kepada selain Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
+[^205]: Berhakim kepada selain Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
 
 # 558
 
@@ -2622,9 +2694,9 @@ Orang-orang yang beriman, mereka berperang di jalan Allah, dan orang-orang yang 
 
 # 570
 
-Tidakkah engkau memperhatikan orang-orang yang dikatakan kepada mereka,206) "Tahanlah tanganmu (dari berperang), laksanakanlah salat dan tunaikanlah zakat!" Ketika mereka diwajibkan berperang, tiba-tiba sebagian mereka (golongan munafik) takut kepada manusia (musuh), seperti takutnya kepada Allah, bahkan lebih takut (dari itu). Mereka berkata, "Ya Tuhan kami, mengapa Engkau wajibkan berperang kepada kami? Mengapa tidak Engkau tunda (kewajiban berperang) kepada kami beberapa waktu lagi?" Katakanlah, "Kesenangan di dunia ini hanya sedikit dan di akhirat itu lebih baik bagi orang-orang yang bertakwa dan kamu tidak akan dizalimi sedikit pun."
+Tidakkah engkau memperhatikan orang-orang yang dikatakan kepada mereka,[^206] "Tahanlah tanganmu (dari berperang), laksanakanlah salat dan tunaikanlah zakat!" Ketika mereka diwajibkan berperang, tiba-tiba sebagian mereka (golongan munafik) takut kepada manusia (musuh), seperti takutnya kepada Allah, bahkan lebih takut (dari itu). Mereka berkata, "Ya Tuhan kami, mengapa Engkau wajibkan berperang kepada kami? Mengapa tidak Engkau tunda (kewajiban berperang) kepada kami beberapa waktu lagi?" Katakanlah, "Kesenangan di dunia ini hanya sedikit dan di akhirat itu lebih baik bagi orang-orang yang bertakwa dan kamu tidak akan dizalimi sedikit pun."
 
-206) Orang yang menampakkan dirinya beriman dan minta izin berperang sebelum ada perintah berperang.
+[^206]: Orang yang menampakkan dirinya beriman dan minta izin berperang sebelum ada perintah berperang.
 
 # 571
 
@@ -2636,9 +2708,9 @@ Kebajikan apa pun yang kamu peroleh, adalah dari sisi Allah, dan keburukan apa p
 
 # 573
 
-Barang siapa menaati Rasul (Muhammad), maka sesungguhnya dia telah menaati Allah. Dan barang siapa berpaling (dari ketaatan itu), maka (ketahuilah) Kami tidak mengutusmu (Muhammad) untuk menjadi pemelihara mereka.207)
+Barang siapa menaati Rasul (Muhammad), maka sesungguhnya dia telah menaati Allah. Dan barang siapa berpaling (dari ketaatan itu), maka (ketahuilah) Kami tidak mengutusmu (Muhammad) untuk menjadi pemelihara mereka.[^207]
 
-207) Rasul tidak bertanggung jawab terhadap perbuatan-perbuatan mereka dan tidak menjamin agar mereka tidak berbuat kesalahan.
+[^207]: Rasul tidak bertanggung jawab terhadap perbuatan-perbuatan mereka dan tidak menjamin agar mereka tidak berbuat kesalahan.
 
 # 574
 
@@ -2650,15 +2722,17 @@ Maka tidakkah mereka menghayati (mendalami) Al-Qur`an? Sekiranya (Al-Qur`an) itu
 
 # 576
 
-Dan apabila sampai kepada mereka suatu berita tentang keamanan ataupun ketakutan, mereka (langsung) menyiarkannya. (Padahal) apabila mereka menyerahkannya kepada Rasul dan Ulil Amri 208) di antara mereka, tentulah orang-orang yang ingin mengetahui kebenarannya (akan dapat) mengetahuinya (secara resmi) dari mereka (Rasul dan Ulil Amri).209) Sekiranya bukan karena karunia dan rahmat Allah kepadamu, tentulah kamu mengikut setan, kecuali sebagian kecil saja (di antara kamu).
+Dan apabila sampai kepada mereka suatu berita tentang keamanan ataupun ketakutan, mereka (langsung) menyiarkannya. (Padahal) apabila mereka menyerahkannya kepada Rasul dan Ulil Amri [^208] di antara mereka, tentulah orang-orang yang ingin mengetahui kebenarannya (akan dapat) mengetahuinya (secara resmi) dari mereka (Rasul dan Ulil Amri).[^209] Sekiranya bukan karena karunia dan rahmat Allah kepadamu, tentulah kamu mengikut setan, kecuali sebagian kecil saja (di antara kamu).
 
-208) Tokoh-tokoh sahabat Rasul. 209) Menurut mufasir yang lain maksudnya ialah : kalau suatu berita tentang keamanan dan ketakutan itu disampaikan kepada Rasul dan Ulil Amri, tentulah Rasul dan Ulil Amri yang ahli dapat menetapkan kesimpulan (istimbat) dari berita itu.
+[^208]: Tokoh-tokoh sahabat Rasul
+
+[^209]: Menurut mufasir yang lain maksudnya ialah : kalau suatu berita tentang keamanan dan ketakutan itu disampaikan kepada Rasul dan Ulil Amri, tentulah Rasul dan Ulil Amri yang ahli dapat menetapkan kesimpulan (istimbat) dari berita itu.
 
 # 577
 
-Maka berperanglah engkau (Muhammad) di jalan Allah, engkau tidaklah dibebani melainkan atas dirimu sendiri.210) Kobarkanlah (semangat) orang-orang beriman (untuk berperang). Mudah-mudahan Allah menolak (mematahkan) serangan orang-orang yang kafir itu. Allah sangat besar kekuatan(-Nya) dan sangat keras siksa(-Nya).
+Maka berperanglah engkau (Muhammad) di jalan Allah, engkau tidaklah dibebani melainkan atas dirimu sendiri.[^210] Kobarkanlah (semangat) orang-orang beriman (untuk berperang). Mudah-mudahan Allah menolak (mematahkan) serangan orang-orang yang kafir itu. Allah sangat besar kekuatan(-Nya) dan sangat keras siksa(-Nya).
 
-210) Perintah berperang itu harus dilakukan oleh Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- karena yang dibebani adalah dirinya sendiri. Ayat ini berhubungan dengan keengganan sebagian besar orang Madinah untuk ikut berperang bersama Nabi ke Badar. Maka turunlah ayat ini yang memerintahkan agar Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- pergi berperang walaupun sendirian saja.
+[^210]: Perintah berperang itu harus dilakukan oleh Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- karena yang dibebani adalah dirinya sendiri. Ayat ini berhubungan dengan keengganan sebagian besar orang Madinah untuk ikut berperang bersama Nabi ke Badar. Maka turunlah ayat ini yang memerintahkan agar Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- pergi berperang walaupun sendirian saja.
 
 # 578
 
@@ -2674,21 +2748,23 @@ Allah, tidak ada tuhan (yang berhak disembah) selain Dia. Dia pasti akan mengump
 
 # 581
 
-Maka mengapa kamu (terpecah) menjadi dua golongan211) dalam (menghadapi) orang-orang munafik, padahal Allah telah mengembalikan mereka (kepada kekafiran), disebabkan usaha mereka sendiri? Apakah kamu bermaksud memberi petunjuk kepada orang yang telah disesatkan oleh Allah? Barang siapa disesatkan oleh Allah, kamu tidak akan mendapatkan jalan (untuk memberi petunjuk) baginya.
+Maka mengapa kamu (terpecah) menjadi dua golongan[^211] dalam (menghadapi) orang-orang munafik, padahal Allah telah mengembalikan mereka (kepada kekafiran), disebabkan usaha mereka sendiri? Apakah kamu bermaksud memberi petunjuk kepada orang yang telah disesatkan oleh Allah? Barang siapa disesatkan oleh Allah, kamu tidak akan mendapatkan jalan (untuk memberi petunjuk) baginya.
 
-211) Golongan orang mukmin yang membela orang munafik dan golongan orang mukmin yang memusuhi mereka.
+[^211]: Golongan orang mukmin yang membela orang munafik dan golongan orang mukmin yang memusuhi mereka.
 
 # 582
 
-Mereka ingin agar kamu menjadi kafir sebagaimana mereka telah menjadi kafir, sehingga kamu menjadi sama (dengan mereka). Janganlah kamu jadikan dari antara mereka sebagai teman-teman(mu), sebelum mereka berpindah pada jalan Allah. Apabila mereka berpaling,212) maka tawanlah mereka dan bunuhlah mereka di manapun mereka kamu temukan, dan janganlah kamu jadikan seorang pun di antara mereka sebagai teman setia dan penolong,
+Mereka ingin agar kamu menjadi kafir sebagaimana mereka telah menjadi kafir, sehingga kamu menjadi sama (dengan mereka). Janganlah kamu jadikan dari antara mereka sebagai teman-teman(mu), sebelum mereka berpindah pada jalan Allah. Apabila mereka berpaling,[^212] maka tawanlah mereka dan bunuhlah mereka di manapun mereka kamu temukan, dan janganlah kamu jadikan seorang pun di antara mereka sebagai teman setia dan penolong,
 
-212) Diriwayatkan bahwa beberapa orang Arab datang kepada Rasulullah -ṣallallāhu 'alaihi wa sallam- di Madinah, lalu mereka masuk Islam, kemudian mereka ditimpa demam Madinah, karena itu mereka kembali kafir lalu mereka keluar dari Madinah. Kemudian mereka berjumpa dengan sahabat Nabi, lalu sahabat menanyakan sebab-sebab mereka meninggalkan Madinah. Mereka menerangkan bahwa mereka ditimpa demam Madinah. Para sahabat berkata, “Mengapa kamu tidak mengambil teladan yang baik dari Rasulullah?” Para sahabat terbagi kepada dua golongan dalam hal ini. Yang sebagian berpendapat bahwa mereka telah menjadi munafik, sedang yang sebagian lagi berpendapat bahwa mereka masih Islam. Lalu turunlah ayat ini yang mencela kaum muslimin, karena menjadi dua golongan itu, dan memerintahkan agar orang Arab ditawan dan dibunuh, jika mereka tidak berhijrah ke Madinah, karena mereka disamakan dengan kaum musyrikin yang lain.
+[^212]: Diriwayatkan bahwa beberapa orang Arab datang kepada Rasulullah -ṣallallāhu 'alaihi wa sallam- di Madinah, lalu mereka masuk Islam, kemudian mereka ditimpa demam Madinah, karena itu mereka kembali kafir lalu mereka keluar dari Madinah. Kemudian mereka berjumpa dengan sahabat Nabi, lalu sahabat menanyakan sebab-sebab mereka meninggalkan Madinah. Mereka menerangkan bahwa mereka ditimpa demam Madinah. Para sahabat berkata, “Mengapa kamu tidak mengambil teladan yang baik dari Rasulullah?” Para sahabat terbagi kepada dua golongan dalam hal ini. Yang sebagian berpendapat bahwa mereka telah menjadi munafik, sedang yang sebagian lagi berpendapat bahwa mereka masih Islam. Lalu turunlah ayat ini yang mencela kaum muslimin, karena menjadi dua golongan itu, dan memerintahkan agar orang Arab ditawan dan dibunuh, jika mereka tidak berhijrah ke Madinah, karena mereka disamakan dengan kaum musyrikin yang lain.
 
 # 583
 
-kecuali orang-orang yang meminta perlindungan kepada sesuatu kaum, yang antara kamu dan kaum itu telah ada perjanjian (damai)213) atau orang yang datang kepadamu sedang hati mereka merasa keberatan untuk memerangi kamu atau memerangi kaumnya.214) Sekiranya Allah menghendaki, niscaya diberikan-Nya kekuasaan kepada mereka (dalam) menghadapi kamu, maka pastilah mereka memerangimu. Tetapi jika mereka membiarkan kamu, dan tidak memerangimu serta menawarkan perdamaian kepadamu (menyerah) maka Allah tidak memberi jalan bagimu (untuk menawan dan membunuh) mereka.
+kecuali orang-orang yang meminta perlindungan kepada sesuatu kaum, yang antara kamu dan kaum itu telah ada perjanjian (damai)[^213] atau orang yang datang kepadamu sedang hati mereka merasa keberatan untuk memerangi kamu atau memerangi kaumnya.[^214] Sekiranya Allah menghendaki, niscaya diberikan-Nya kekuasaan kepada mereka (dalam) menghadapi kamu, maka pastilah mereka memerangimu. Tetapi jika mereka membiarkan kamu, dan tidak memerangimu serta menawarkan perdamaian kepadamu (menyerah) maka Allah tidak memberi jalan bagimu (untuk menawan dan membunuh) mereka.
 
-213) Ayat ini menjadi dasar hukum suaka. 214) Tidak memihak dan telah mengadakan hubungan dengan kaum muslimin.
+[^213]: Ayat ini menjadi dasar hukum suaka
+
+[^214]: Tidak memihak dan telah mengadakan hubungan dengan kaum muslimin.
 
 # 584
 
@@ -2704,9 +2780,11 @@ Dan barang siapa membunuh seorang yang beriman dengan sengaja, maka balasannya i
 
 # 587
 
-Wahai orang-orang yang beriman! Apabila kamu pergi (berperang) di jalan Allah, maka telitilah (carilah keterangan) dan janganlah kamu mengatakan kepada orang yang mengucapkan "salam" kepadamu,215) "Kamu bukan seorang yang beriman", (lalu kamu membunuhnya), dengan maksud mencari harta benda kehidupan dunia, padahal di sisi Allah ada harta yang banyak. Begitu jugalah keadaan kamu dahulu,216) lalu Allah memberikan nikmat-Nya kepadamu, maka telitilah! Sungguh, Allah Mahateliti terhadap apa yang kamu kerjakan.
+Wahai orang-orang yang beriman! Apabila kamu pergi (berperang) di jalan Allah, maka telitilah (carilah keterangan) dan janganlah kamu mengatakan kepada orang yang mengucapkan "salam" kepadamu,[^215] "Kamu bukan seorang yang beriman", (lalu kamu membunuhnya), dengan maksud mencari harta benda kehidupan dunia, padahal di sisi Allah ada harta yang banyak. Begitu jugalah keadaan kamu dahulu,[^216] lalu Allah memberikan nikmat-Nya kepadamu, maka telitilah! Sungguh, Allah Mahateliti terhadap apa yang kamu kerjakan.
 
-215) Dimaksud juga dengan orang yang mengucapkan kalimat lā ilāha illallāh. 216) Orang itu belum tampak keislamannya bagi masyarakat, kamu pun demikian pula dahulu.
+[^215]: Dimaksud juga dengan orang yang mengucapkan kalimat lā ilāha illallāh
+
+[^216]: Orang itu belum tampak keislamannya bagi masyarakat, kamu pun demikian pula dahulu.
 
 # 588
 
@@ -2718,9 +2796,9 @@ Tidaklah sama antara orang beriman yang duduk (yang tidak turut berperang) tanpa
 
 # 590
 
-Sesungguhnya orang-orang yang dicabut nyawanya oleh malaikat dalam keadaan menzalimi sendiri,217) mereka (para malaikat) bertanya, "Bagaimana kamu ini?" Mereka menjawab, "Kami orang-orang yang tertindas di bumi (Mekkah)." Mereka (para malaikat) bertanya, "Bukankah bumi Allah itu luas, sehingga kamu dapat berhijrah (berpindah-pindah) di bumi itu?" Maka orang-orang itu tempatnya di neraka Jahanam, dan (Jahanam) itu seburuk-buruk tempat kembali,
+Sesungguhnya orang-orang yang dicabut nyawanya oleh malaikat dalam keadaan menzalimi sendiri,[^217] mereka (para malaikat) bertanya, "Bagaimana kamu ini?" Mereka menjawab, "Kami orang-orang yang tertindas di bumi (Mekkah)." Mereka (para malaikat) bertanya, "Bukankah bumi Allah itu luas, sehingga kamu dapat berhijrah (berpindah-pindah) di bumi itu?" Maka orang-orang itu tempatnya di neraka Jahanam, dan (Jahanam) itu seburuk-buruk tempat kembali,
 
-217) Muslimin Mekkah yang tidak mau hijrah bersama Nabi -ṣallallāhu 'alaihi wa sallam- sedangkan mereka sanggup. Mereka ditindas dan dipaksa oleh orang kafir untuk ikut bersama mereka pergi ke Perang Badar; akhirnya di antara mereka ada yang terbunuh (terkena panah) dalam peperangan itu.
+[^217]: Muslimin Mekkah yang tidak mau hijrah bersama Nabi -ṣallallāhu 'alaihi wa sallam- sedangkan mereka sanggup. Mereka ditindas dan dipaksa oleh orang kafir untuk ikut bersama mereka pergi ke Perang Badar; akhirnya di antara mereka ada yang terbunuh (terkena panah) dalam peperangan itu.
 
 # 591
 
@@ -2736,15 +2814,19 @@ Dan barang siapa berhijrah di jalan Allah, niscaya mereka akan mendapatkan di bu
 
 # 594
 
-Dan apabila kamu bepergian di bumi, maka tidaklah berdosa kamu meng-qasar218) salat, jika kamu takut diserang orang kafir. Sesungguhnya orang kafir itu adalah musuh yang nyata bagimu.
+Dan apabila kamu bepergian di bumi, maka tidaklah berdosa kamu meng-qasar[^218] salat, jika kamu takut diserang orang kafir. Sesungguhnya orang kafir itu adalah musuh yang nyata bagimu.
 
-218) Menurut pendapat jumhur (umum) arti qasar di sini ialah salat yang empat rakaat dijadikan dua rakaat.
+[^218]: Menurut pendapat jumhur (umum) arti qasar di sini ialah salat yang empat rakaat dijadikan dua rakaat.
 
 # 595
 
-Dan apabila engkau (Muhammad) berada di tengah-tengah mereka (sahabatmu) lalu engkau hendak melaksanakan salat bersama-sama mereka, maka hendaklah segolongan dari mereka berdiri (salat) bersamamu dan menyandang senjata mereka, kemudian apabila mereka (yang salat bersamamu) sujud (telah menyempurnakan satu rakaat),219) maka hendaklah mereka pindah dari belakangmu (untuk menghadapi musuh) dan hendaklah datang golongan yang lain yang belum salat, lalu mereka salat denganmu,220) dan hendaklah mereka bersiap siaga dan menyandang senjata mereka. Orang-orang kafir ingin agar kamu lengah terhadap senjatamu dan harta bendamu, lalu mereka menyerbu kamu sekaligus. Dan tidak mengapa kamu meletakkan senjata-senjatamu, jika kamu mendapat suatu kesusahan karena hujan atau karena kamu sakit, dan bersiapsiagalah kamu.221) Sungguh, Allah telah menyediakan azab yang menghinakan bagi orang-orang kafir.
+Dan apabila engkau (Muhammad) berada di tengah-tengah mereka (sahabatmu) lalu engkau hendak melaksanakan salat bersama-sama mereka, maka hendaklah segolongan dari mereka berdiri (salat) bersamamu dan menyandang senjata mereka, kemudian apabila mereka (yang salat bersamamu) sujud (telah menyempurnakan satu rakaat),[^219] maka hendaklah mereka pindah dari belakangmu (untuk menghadapi musuh) dan hendaklah datang golongan yang lain yang belum salat, lalu mereka salat denganmu,[^220] dan hendaklah mereka bersiap siaga dan menyandang senjata mereka. Orang-orang kafir ingin agar kamu lengah terhadap senjatamu dan harta bendamu, lalu mereka menyerbu kamu sekaligus. Dan tidak mengapa kamu meletakkan senjata-senjatamu, jika kamu mendapat suatu kesusahan karena hujan atau karena kamu sakit, dan bersiapsiagalah kamu.[^221] Sungguh, Allah telah menyediakan azab yang menghinakan bagi orang-orang kafir.
 
-219) Menurut sebagian besar mufasir bila telah selesai satu rakaat, maka diselesaikan satu rakaat lagi sendiri, dan Nabi -ṣallallāhu 'alaihi wa sallam- duduk menunggu kelompok yang kedua. 220) Rakaat yang pertama, sedang rakaat kedua mereka selesaikan sendiri pula dan mereka mengakhiri salat bersama-sama Nabi -ṣallallāhu 'alaihi wa sallam-. 221) Cara salat Khauf seperti tersebut pada ayat 102 ini dilakukan dalam keadaaan yang masih mungkin mengerjakannya. Apabila keadaan tidak memungkinkan, maka salat itu dikerjakan sebisanya, walaupun dengan mengucapkan tasbih saja.
+[^219]: Menurut sebagian besar mufasir bila telah selesai satu rakaat, maka diselesaikan satu rakaat lagi sendiri, dan Nabi -ṣallallāhu 'alaihi wa sallam- duduk menunggu kelompok yang kedua
+
+[^220]: Rakaat yang pertama, sedang rakaat kedua mereka selesaikan sendiri pula dan mereka mengakhiri salat bersama-sama Nabi -ṣallallāhu 'alaihi wa sallam-
+
+[^221]: Cara salat Khauf seperti tersebut pada ayat 102 ini dilakukan dalam keadaaan yang masih mungkin mengerjakannya. Apabila keadaan tidak memungkinkan, maka salat itu dikerjakan sebisanya, walaupun dengan mengucapkan tasbih saja.
 
 # 596
 
@@ -2756,9 +2838,9 @@ Dan janganlah kamu berhati lemah dalam mengejar mereka (musuhmu). Jika kamu mend
 
 # 598
 
-Sungguh, Kami telah menurunkan Kitab (Al-Qur`an) kepadamu (Muhammad) membawa kebenaran, agar engkau mengadili antara manusia dengan apa yang telah diajarkan Allah kepadamu, dan janganlah engkau menjadi penentang (orang yang tidak bersalah), karena (membela) orang yang berkhianat,222)
+Sungguh, Kami telah menurunkan Kitab (Al-Qur`an) kepadamu (Muhammad) membawa kebenaran, agar engkau mengadili antara manusia dengan apa yang telah diajarkan Allah kepadamu, dan janganlah engkau menjadi penentang (orang yang tidak bersalah), karena (membela) orang yang berkhianat,[^222]
 
-222) Ayat ini dan beberapa ayat berikutnya diturunkan berhubungan dengan pencurian yang dilakukan Tu'mah yang mana dia menyembunyikan barang curian itu di rumah seorang Yahudi. Tu'mah tidak mengakui perbuatannya itu malah menuduh bahwa yang mencuri barang itu orang Yahudi. Hal ini diadukan oleh kerabat-kerabat Tu'mah kepada Nabi -ṣallallāhu 'alaihi wa sallam- dan mereka meminta agar Nabi -ṣallallāhu 'alaihi wa sallam- membela Tu'mah dan menghukum orang Yahudi, kendatipun mereka tahu bahwa yang mencuri barang itu ialah Tu'mah. Nabi -ṣallallāhu 'alaihi wa sallam- sendiri hampir-hampir membenarkan tuduhan Tu'mah dan kerabatnya terhadap orang Yahudi.
+[^222]: Ayat ini dan beberapa ayat berikutnya diturunkan berhubungan dengan pencurian yang dilakukan Tu'mah yang mana dia menyembunyikan barang curian itu di rumah seorang Yahudi. Tu'mah tidak mengakui perbuatannya itu malah menuduh bahwa yang mencuri barang itu orang Yahudi. Hal ini diadukan oleh kerabat-kerabat Tu'mah kepada Nabi -ṣallallāhu 'alaihi wa sallam- dan mereka meminta agar Nabi -ṣallallāhu 'alaihi wa sallam- membela Tu'mah dan menghukum orang Yahudi, kendatipun mereka tahu bahwa yang mencuri barang itu ialah Tu'mah. Nabi -ṣallallāhu 'alaihi wa sallam- sendiri hampir-hampir membenarkan tuduhan Tu'mah dan kerabatnya terhadap orang Yahudi.
 
 # 599
 
@@ -2806,21 +2888,23 @@ Allah tidak akan mengampuni dosa syirik (mempersekutukan Allah dengan sesuatu), 
 
 # 610
 
-Yang mereka sembah selain Allah itu tidak lain hanyalah ināṡan (berhala),223) dan mereka tidak lain hanyalah menyembah setan yang durhaka,
+Yang mereka sembah selain Allah itu tidak lain hanyalah ināṡan (berhala),[^223] dan mereka tidak lain hanyalah menyembah setan yang durhaka,
 
-223) Asal makna ināṡan ialah perempuan-perempuan. Patung-patung berhala yang disembah Arab Jahiliah itu biasanya diberi nama dengan nama-nama perempuan seperti al-Lata, al-Uzza dan Manah. Dapat juga berarti di sini orang-orang mati, benda-benda yang tidak berjenis dan benda-benda yang lemah.
+[^223]: Asal makna ināṡan ialah perempuan-perempuan. Patung-patung berhala yang disembah Arab Jahiliah itu biasanya diberi nama dengan nama-nama perempuan seperti al-Lata, al-Uzza dan Manah. Dapat juga berarti di sini orang-orang mati, benda-benda yang tidak berjenis dan benda-benda yang lemah.
 
 # 611
 
-yang dilaknati Allah, dan (setan) itu mengatakan, "Aku pasti akan mengambil bagian tertentu dari hamba-hamba-Mu,224)
+yang dilaknati Allah, dan (setan) itu mengatakan, "Aku pasti akan mengambil bagian tertentu dari hamba-hamba-Mu,[^224]
 
-224) Pada setiap manusia ada potensi untuk berbuat baik dan ada potensi untuk berbuat jahat, setan akan menggunakan potensi untuk berbuat jahat dalam mencelakakan manusia.
+[^224]: Pada setiap manusia ada potensi untuk berbuat baik dan ada potensi untuk berbuat jahat, setan akan menggunakan potensi untuk berbuat jahat dalam mencelakakan manusia.
 
 # 612
 
-dan pasti akan kusesatkan mereka, dan akan kubangkitkan angan-angan kosong pada mereka dan akan kusuruh mereka memotong telinga-telinga binatang ternak, (lalu mereka benar-benar memotongnya),225) dan akan aku suruh mereka mengubah ciptaan Allah, (lalu mereka benar-benar mengubahnya)."226) Barang siapa menjadikan setan sebagai pelindung selain Allah, maka sungguh, dia menderita kerugian yang nyata.
+dan pasti akan kusesatkan mereka, dan akan kubangkitkan angan-angan kosong pada mereka dan akan kusuruh mereka memotong telinga-telinga binatang ternak, (lalu mereka benar-benar memotongnya),[^225] dan akan aku suruh mereka mengubah ciptaan Allah, (lalu mereka benar-benar mengubahnya)."[^226] Barang siapa menjadikan setan sebagai pelindung selain Allah, maka sungguh, dia menderita kerugian yang nyata.
 
-225) Menurut kepercayaan Arab Jahiliah, hewan-hewan yang akan dipersembahkan kepada patung-patung berhala, harus dipotong telinganya terlebih dahulu, dan binatang yang seperti ini tidak boleh dikendarai dan tidak boleh dipergunakan lagi, serta harus dilepas lagi. 226) Mengubah ciptaan Allah dapat berarti mengubah yang diciptakan Allah seperti mengebiri binatang. Ada yang mengartikannya dengan mengubah agama Allah.
+[^225]: Menurut kepercayaan Arab Jahiliah, hewan-hewan yang akan dipersembahkan kepada patung-patung berhala, harus dipotong telinganya terlebih dahulu, dan binatang yang seperti ini tidak boleh dikendarai dan tidak boleh dipergunakan lagi, serta harus dilepas lagi
+
+[^226]: Mengubah ciptaan Allah dapat berarti mengubah yang diciptakan Allah seperti mengebiri binatang. Ada yang mengartikannya dengan mengubah agama Allah.
 
 # 613
 
@@ -2836,9 +2920,9 @@ Dan orang yang beriman dan mengerjakan amal kebajikan, kelak akan Kami masukkan 
 
 # 616
 
-(Pahala dari Allah) itu bukanlah angan-anganmu227) dan bukan (pula) angan-angan Ahli Kitab. Barang siapa mengerjakan kejahatan, niscaya akan dibalas sesuai dengan kejahatan itu, dan dia tidak akan mendapatkan pelindung dan penolong selain Allah.
+(Pahala dari Allah) itu bukanlah angan-anganmu[^227] dan bukan (pula) angan-angan Ahli Kitab. Barang siapa mengerjakan kejahatan, niscaya akan dibalas sesuai dengan kejahatan itu, dan dia tidak akan mendapatkan pelindung dan penolong selain Allah.
 
-227) “mu” di sini ada yang mengartikan dengan kaum muslimin dan ada pula yang mengartikan kaum musyrikin. Maksudnya pahala di akhirat bukanlah menuruti angan-angan dan cita-cita mereka tetapi sesuai dengan ketentuan agama.
+[^227]: “mu” di sini ada yang mengartikan dengan kaum muslimin dan ada pula yang mengartikan kaum musyrikin. Maksudnya pahala di akhirat bukanlah menuruti angan-angan dan cita-cita mereka tetapi sesuai dengan ketentuan agama.
 
 # 617
 
@@ -2854,15 +2938,19 @@ Dan milik Allahlah apa yang ada di langit dan apa yang ada di bumi, dan (pengeta
 
 # 620
 
-Dan mereka meminta fatwa kepadamu tentang perempuan. Katakanlah, "Allah memberi fatwa kepadamu tentang mereka,228) dan apa yang dibacakan kepadamu dalam Al-Qur`an (juga memfatwakan) tentang para perempuan yatim yang tidak kamu berikan sesuatu (maskawin) yang ditetapkan untuk mereka, sedang kamu ingin menikahi mereka229) dan (tentang) anak-anak yang masih dipandang lemah. Dan (Allah menyuruh kamu) agar mengurus anak-anak yatim secara adil. Dan kebajikan apa pun yang kamu kerjakan, sesungguhnya Allah Maha Mengetahui."
+Dan mereka meminta fatwa kepadamu tentang perempuan. Katakanlah, "Allah memberi fatwa kepadamu tentang mereka,[^228] dan apa yang dibacakan kepadamu dalam Al-Qur`an (juga memfatwakan) tentang para perempuan yatim yang tidak kamu berikan sesuatu (maskawin) yang ditetapkan untuk mereka, sedang kamu ingin menikahi mereka dan (tentang) anak-anak yang masih dipandang lemah. Dan (Allah menyuruh kamu) agar mengurus anak-anak yatim secara adil. Dan kebajikan apa pun yang kamu kerjakan, sesungguhnya Allah Maha Mengetahui."
 
-228) Baca An-Nisā` (4) : 2 dan 3 229) Menurut adat Arab Jahiliah, seorang wali berkuasa atas perempuan yatim yang dalam asuhannya dan berkuasa akan hartanya. Jika perempuan yatim itu cantik dinikahi dan diambil hartanya. Jika perempuan yatim itu buruk rupanya, dihalanginya menikah dengan laki-laki yang lain agar dia tetap dapat menguasai hartanya. Kebiasaan di atas dilarang dilakukan oleh ayat ini.
+[^228]: Baca An-Nisā` (4) : 2 dan 3 229) Menurut adat Arab Jahiliah, seorang wali berkuasa atas perempuan yatim yang dalam asuhannya dan berkuasa akan hartanya. Jika perempuan yatim itu cantik dinikahi dan diambil hartanya. Jika perempuan yatim itu buruk rupanya, dihalanginya menikah dengan laki-laki yang lain agar dia tetap dapat menguasai hartanya. Kebiasaan di atas dilarang dilakukan oleh ayat ini.
 
 # 621
 
-Dan jika seorang perempuan khawatir suaminya akan nusyuz230) atau bersikap tidak acuh, maka keduanya dapat mengadakan perdamaian yang sebenarnya,231) dan perdamaian itu lebih baik (bagi mereka) walaupun manusia itu menurut tabiatnya kikir.232) Dan jika kamu memperbaiki (pergaulan dengan istrimu) dan memelihara dirimu (dari nusyuz dan sikap acuh tak acuh), maka sungguh, Allah Mahateliti terhadap apa yang kamu kerjakan.
+Dan jika seorang perempuan khawatir suaminya akan nusyuz[^230] atau bersikap tidak acuh, maka keduanya dapat mengadakan perdamaian yang sebenarnya,[^231] dan perdamaian itu lebih baik (bagi mereka) walaupun manusia itu menurut tabiatnya kikir.[^232] Dan jika kamu memperbaiki (pergaulan dengan istrimu) dan memelihara dirimu (dari nusyuz dan sikap acuh tak acuh), maka sungguh, Allah Mahateliti terhadap apa yang kamu kerjakan.
 
-230) Lihat arti nusyuz bagi pihak istri dalam catatan kaki An-Nisā` (4): 34. Nusyuz dari pihak suami ialah bersikap keras terhadap istrinya; tidak mau menggaulinya dan tidak mau memberikan haknya. 231) Seperti istri bersedia beberapa haknya dikurangi asal suaminya mau baik kembali. 232) Tabiat manusia itu tidak mau melepaskan sebagian haknya kepada orang lain dengan seikhlas hatinya, kendati pun demikian jika istri melepaskan sebagian haknya, maka boleh suami menerimanya.
+[^230]: Lihat arti nusyuz bagi pihak istri dalam catatan kaki An-Nisā` (4): 34. Nusyuz dari pihak suami ialah bersikap keras terhadap istrinya; tidak mau menggaulinya dan tidak mau memberikan haknya
+
+[^231]: Seperti istri bersedia beberapa haknya dikurangi asal suaminya mau baik kembali
+
+[^232]: Tabiat manusia itu tidak mau melepaskan sebagian haknya kepada orang lain dengan seikhlas hatinya, kendati pun demikian jika istri melepaskan sebagian haknya, maka boleh suami menerimanya.
 
 # 622
 
@@ -2914,15 +3002,17 @@ Dan sungguh, Allah telah menurunkan (ketentuan) bagimu di dalam Kitab (Al-Qur`an
 
 # 634
 
-(yaitu) orang yang menunggu-nunggu (peristiwa) yang akan terjadi pada dirimu. Apabila kamu mendapat kemenangan dari Allah mereka berkata, "Bukankah kami (turut berperang) bersama kamu?" Dan jika orang kafir mendapat bagian mereka berkata, "Bukankah kami turut memenangkanmu,233) dan membela kamu dari orang mukmin?" Maka Allah akan memberi keputusan di antara kamu pada hari Kiamat. Allah tidak akan memberi jalan kepada orang kafir untuk mengalahkan orang-orang beriman.
+(yaitu) orang yang menunggu-nunggu (peristiwa) yang akan terjadi pada dirimu. Apabila kamu mendapat kemenangan dari Allah mereka berkata, "Bukankah kami (turut berperang) bersama kamu?" Dan jika orang kafir mendapat bagian mereka berkata, "Bukankah kami turut memenangkanmu,[^233] dan membela kamu dari orang mukmin?" Maka Allah akan memberi keputusan di antara kamu pada hari Kiamat. Allah tidak akan memberi jalan kepada orang kafir untuk mengalahkan orang-orang beriman.
 
-233) Dengan jalan membuka rahasia-rahasia orang mukmin dan menyampaikan hal ihwal mereka kepada orang kafir atau kalau mereka berperang di pihak orang mukmin mereka berperang tidak sepenuh hati.
+[^233]: Dengan jalan membuka rahasia-rahasia orang mukmin dan menyampaikan hal ihwal mereka kepada orang kafir atau kalau mereka berperang di pihak orang mukmin mereka berperang tidak sepenuh hati.
 
 # 635
 
-Sesungguhnya orang munafik itu hendak menipu Allah, tetapi Allahlah yang menipu mereka. 234) Apabila mereka berdiri untuk salat mereka lakukan dengan malas. Mereka bermaksud riya` (ingin dipuji) di hadapan manusia. Dan mereka tidak mengingat Allah kecuali sedikit sekali.235)
+Sesungguhnya orang munafik itu hendak menipu Allah, tetapi Allahlah yang menipu mereka. [^234] Apabila mereka berdiri untuk salat mereka lakukan dengan malas. Mereka bermaksud riya` (ingin dipuji) di hadapan manusia. Dan mereka tidak mengingat Allah kecuali sedikit sekali.[^235]
 
-234) Allah membiarkan mereka dalam pengakuan beriman, sebab itu mereka dilayani seperti melayani para mukmin. Dalam pada itu Allah telah menyediakan neraka buat mereka sebagai balasan atas tipuan mereka itu. 235) Mereka salat hanya sekali-kali saja, yaitu apabila mereka berada di hadapan orang.
+[^234]: Allah membiarkan mereka dalam pengakuan beriman, sebab itu mereka dilayani seperti melayani para mukmin. Dalam pada itu Allah telah menyediakan neraka buat mereka sebagai balasan atas tipuan mereka itu
+
+[^235]: Mereka salat hanya sekali-kali saja, yaitu apabila mereka berada di hadapan orang.
 
 # 636
 
@@ -2938,21 +3028,21 @@ Sungguh, orang-orang munafik itu (ditempatkan) pada tingkatan yang paling bawah 
 
 # 639
 
-kecuali orang-orang yang bertobat dan memperbaiki diri236) dan berpegang teguh pada (agama) Allah dan dengan tulus ikhlas (menjalankan) agama mereka karena Allah. Maka mereka itu bersama-sama orang-orang yang beriman dan kelak Allah akan memberikan pahala yang besar kepada orang-orang yang beriman.
+kecuali orang-orang yang bertobat dan memperbaiki diri[^236] dan berpegang teguh pada (agama) Allah dan dengan tulus ikhlas (menjalankan) agama mereka karena Allah. Maka mereka itu bersama-sama orang-orang yang beriman dan kelak Allah akan memberikan pahala yang besar kepada orang-orang yang beriman.
 
-236) Mengadakan perbaikan berarti bekerja yang baik untuk menghilangkan akibat yang jelek dan kesalahan yang dilakukan.
+[^236]: Mengadakan perbaikan berarti bekerja yang baik untuk menghilangkan akibat yang jelek dan kesalahan yang dilakukan.
 
 # 640
 
-Allah tidak akan menyiksamu, jika kamu bersyukur dan beriman. Dan Allah Maha Mensyukuri,237) Maha Mengetahui.
+Allah tidak akan menyiksamu, jika kamu bersyukur dan beriman. Dan Allah Maha Mensyukuri,[^237] Maha Mengetahui.
 
-237) Memberi pahala terhadap amal hamba-Nya, memaafkan kesalahannya, menambah nikmat-Nya.
+[^237]: Memberi pahala terhadap amal hamba-Nya, memaafkan kesalahannya, menambah nikmat-Nya.
 
 # 641
 
-Allah tidak menyukai perkataan buruk, (yang diucapkan) secara terus terang kecuali oleh orang yang dizalimi.238) Dan Allah Maha Mendengar, Maha Mengetahui.
+Allah tidak menyukai perkataan buruk, (yang diucapkan) secara terus terang kecuali oleh orang yang dizalimi.[^238] Dan Allah Maha Mendengar, Maha Mengetahui.
 
-238) Orang yang dizalimi boleh mengemukakan kepada hakim atau penguasa tentang keburukan-keburukan orang yang menzaliminya.
+[^238]: Orang yang dizalimi boleh mengemukakan kepada hakim atau penguasa tentang keburukan-keburukan orang yang menzaliminya.
 
 # 642
 
@@ -2960,9 +3050,9 @@ Jika kamu menyatakan sesuatu kebajikan, menyembunyikannya atau memaafkan sesuatu
 
 # 643
 
-Sesungguhnya orang-orang yang ingkar kepada Allah dan Rasul-rasul-Nya, dan bermaksud membeda-bedakan239) antara (keimanan kepada) Allah dan Rasul-rasul-Nya, dengan mengatakan, "Kami beriman kepada sebagian dan kami mengingkari sebagian (yang lain)," serta bermaksud mengambil jalan tengah (iman atau kafir),
+Sesungguhnya orang-orang yang ingkar kepada Allah dan Rasul-rasul-Nya, dan bermaksud membeda-bedakan[^239] antara (keimanan kepada) Allah dan Rasul-rasul-Nya, dengan mengatakan, "Kami beriman kepada sebagian dan kami mengingkari sebagian (yang lain)," serta bermaksud mengambil jalan tengah (iman atau kafir),
 
-239) Beriman kepada Allah, tidak beriman kepada Rasul-rasul-Nya.
+[^239]: Beriman kepada Allah, tidak beriman kepada Rasul-rasul-Nya.
 
 # 644
 
@@ -2974,21 +3064,21 @@ Adapun orang-orang yang beriman kepada Allah dan Rasul-rasul-Nya dan tidak membe
 
 # 646
 
-(Orang-orang) Ahli Kitab meminta kepadamu (Muhammad) agar engkau menurunkan suatu Kitab dari langit kepada mereka. Sesungguhnya mereka telah meminta kepada Musa yang lebih besar dari itu. Mereka berkata, "Perlihatkanlah Allah kepada kami secara nyata." Maka mereka disambar petir karena kezalimannya. Kemudian mereka menyembah anak sapi,240) setelah mereka melihat bukti-bukti yang nyata, namun demikian Kami maafkan mereka, dan telah Kami berikan kepada Musa kekuasaan yang nyata.
+(Orang-orang) Ahli Kitab meminta kepadamu (Muhammad) agar engkau menurunkan suatu Kitab dari langit kepada mereka. Sesungguhnya mereka telah meminta kepada Musa yang lebih besar dari itu. Mereka berkata, "Perlihatkanlah Allah kepada kami secara nyata." Maka mereka disambar petir karena kezalimannya. Kemudian mereka menyembah anak sapi,[^240] setelah mereka melihat bukti-bukti yang nyata, namun demikian Kami maafkan mereka, dan telah Kami berikan kepada Musa kekuasaan yang nyata.
 
-240) Patung anak sapi itu mereka buat dari emas untuk disembah.
+[^240]: Patung anak sapi itu mereka buat dari emas untuk disembah.
 
 # 647
 
-Dan Kami angkat gunung (Sinai) di atas mereka untuk (menguatkan) perjanjian mereka. Dan Kami perintahkan kepada mereka, "Masukilah pintu gerbang (Baitulmaqdis) itu sambil bersujud," dan Kami perintahkan (pula), kepada mereka, "Janganlah kamu melanggar peraturan mengenai hari Sabat.241) Dan Kami telah mengambil dari mereka perjanjian yang kokoh.
+Dan Kami angkat gunung (Sinai) di atas mereka untuk (menguatkan) perjanjian mereka. Dan Kami perintahkan kepada mereka, "Masukilah pintu gerbang (Baitulmaqdis) itu sambil bersujud," dan Kami perintahkan (pula), kepada mereka, "Janganlah kamu melanggar peraturan mengenai hari Sabat.[^241] Dan Kami telah mengambil dari mereka perjanjian yang kokoh.
 
-241) Hari Sabat ialah hari Sabtu, hari khusus untuk beribadah bagi orang Yahudi.
+[^241]: Hari Sabat ialah hari Sabtu, hari khusus untuk beribadah bagi orang Yahudi.
 
 # 648
 
-Maka (Kami hukum mereka),242) karena mereka melanggar perjanjian itu, dan karena kekafiran mereka terhadap keterangan-keterangan Allah, serta karena mereka telah membunuh Nabi-nabi tanpa hak (alasan yang benar) dan karena mereka mengatakan, "Hati kami tertutup." Sebenarnya, Allah telah mengunci hati mereka karena kekafirannya, karena itu hanya sebagian kecil dari mereka yang beriman,
+Maka (Kami hukum mereka),[^242] karena mereka melanggar perjanjian itu, dan karena kekafiran mereka terhadap keterangan-keterangan Allah, serta karena mereka telah membunuh Nabi-nabi tanpa hak (alasan yang benar) dan karena mereka mengatakan, "Hati kami tertutup." Sebenarnya, Allah telah mengunci hati mereka karena kekafirannya, karena itu hanya sebagian kecil dari mereka yang beriman,
 
-242) Hukuman kepada mereka itu dalam bentuk melaknat mereka, mereka disambar petir, menjelmakan mereka menjadi kera dan sebagainya.
+[^242]: Hukuman kepada mereka itu dalam bentuk melaknat mereka, mereka disambar petir, menjelmakan mereka menjadi kera dan sebagainya.
 
 # 649
 
@@ -2996,21 +3086,21 @@ dan (Kami hukum juga) karena kekafiran mereka (terhadap Isa), dan tuduhan mereka
 
 # 650
 
-dan (Kami hukum juga) karena ucapan mereka, "Sesungguhnya kami telah membunuh Al-Masih, Isa putra Maryam, Rasul Allah,243) padahal mereka tidak membunuhnya dan tidak (pula) menyalibnya, tetapi (yang mereka bunuh adalah) orang yang diserupakan dengan Isa. Sesungguhnya mereka yang berselisih pendapat tentang (pembunuhan) Isa, selalu dalam keragu-raguan tentang siapa yang dibunuh. Mereka benar-benar tidak tahu (siapa sebenarnya yang dibunuh), melainkan mengikuti persangkaan belaka, jadi mereka tidak yakin telah membunuhnya,
+dan (Kami hukum juga) karena ucapan mereka, "Sesungguhnya kami telah membunuh Al-Masih, Isa putra Maryam, Rasul Allah,[^243] padahal mereka tidak membunuhnya dan tidak (pula) menyalibnya, tetapi (yang mereka bunuh adalah) orang yang diserupakan dengan Isa. Sesungguhnya mereka yang berselisih pendapat tentang (pembunuhan) Isa, selalu dalam keragu-raguan tentang siapa yang dibunuh. Mereka benar-benar tidak tahu (siapa sebenarnya yang dibunuh), melainkan mengikuti persangkaan belaka, jadi mereka tidak yakin telah membunuhnya,
 
-243) Mereka menyebut Isa putra Maryam itu Rasul Allah ialah sebagai ejekan, karena mereka sendiri tidak mempercayai kerasulan Nabi Isa -'alaihissalām-.
+[^243]: Mereka menyebut Isa putra Maryam itu Rasul Allah ialah sebagai ejekan, karena mereka sendiri tidak mempercayai kerasulan Nabi Isa -'alaihissalām-.
 
 # 651
 
-tetapi Allah telah mengangkat Isa kehadirat-Nya.244) Allah Mahaperkasa, Mahabijaksana.
+tetapi Allah telah mengangkat Isa kehadirat-Nya.[^244] Allah Mahaperkasa, Mahabijaksana.
 
-244) Ayat ini sebagai bantahan terhadap anggapan orang Yahudi, bahwa mereka telah membunuh Nabi Isa -'alaihissalām-.
+[^244]: Ayat ini sebagai bantahan terhadap anggapan orang Yahudi, bahwa mereka telah membunuh Nabi Isa -'alaihissalām-.
 
 # 652
 
-Tidak ada seorang pun di antara Ahli Kitab yang tidak beriman kepadanya (Isa) menjelang kematiannya.245) Dan pada hari Kiamat dia (Isa) akan menjadi saksi atas mereka.
+Tidak ada seorang pun di antara Ahli Kitab yang tidak beriman kepadanya (Isa) menjelang kematiannya.[^245] Dan pada hari Kiamat dia (Isa) akan menjadi saksi atas mereka.
 
-245) Setiap orang Yahudi dan Nasrani akan beriman kepada Nabi Isa -'alaihissalām- sebelum wafatnya di akhir zaman ketika dia turun nanti, bahwa dia adalah Rasulullah, bukan anak Allah. Sebagian mufasir berpendapat bahwa mereka mengimani hal itu sebelum wafat.
+[^245]: Setiap orang Yahudi dan Nasrani akan beriman kepada Nabi Isa -'alaihissalām- sebelum wafatnya di akhir zaman ketika dia turun nanti, bahwa dia adalah Rasulullah, bukan anak Allah. Sebagian mufasir berpendapat bahwa mereka mengimani hal itu sebelum wafat.
 
 # 653
 
@@ -3030,9 +3120,9 @@ Sesungguhnya Kami mewahyukan kepadamu (Muhammad) sebagaimana Kami telah mewahyuk
 
 # 657
 
-Dan ada beberapa Rasul yang telah Kami kisahkan mereka kepadamu sebelumnya dan ada beberapa Rasul (lain) yang tidak Kami kisahkan mereka kepadamu. Dan kepada Musa, Allah berfirman langsung.246)
+Dan ada beberapa Rasul yang telah Kami kisahkan mereka kepadamu sebelumnya dan ada beberapa Rasul (lain) yang tidak Kami kisahkan mereka kepadamu. Dan kepada Musa, Allah berfirman langsung.[^246]
 
-246) Allah berfirman langsung dengan Nabi Musa -'alaihissalām-, merupakan keistimewaan Nabi Musa-'alaihissalām-. Dan karenanya Nabi Musa -'alaihissalām- disebut Kalīmullāh, sedang Rasul-rasul yang lain mendapat wahyu dari Allah dengan perantaraan Jibril. Dalam pada itu Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- pernah berbicara secara langsung dengan Allah pada malam hari waktu mi'raj.
+[^246]: Allah berfirman langsung dengan Nabi Musa -'alaihissalām-, merupakan keistimewaan Nabi Musa-'alaihissalām-. Dan karenanya Nabi Musa -'alaihissalām- disebut Kalīmullāh, sedang Rasul-rasul yang lain mendapat wahyu dari Allah dengan perantaraan Jibril. Dalam pada itu Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- pernah berbicara secara langsung dengan Allah pada malam hari waktu mi'raj.
 
 # 658
 
@@ -3060,15 +3150,19 @@ Wahai manusia! Sungguh, telah datang Rasul (Muhammad) kepadamu dengan (membawa) 
 
 # 664
 
-Wahai Ahli Kitab! Janganlah kamu melampaui batas dalam agamamu,247) dan janganlah kamu mengatakan terhadap Allah kecuali yang benar. Sungguh, Al-Masih Isa putra Maryam itu, adalah utusan Allah dan (yang diciptakan dengan) kalimat-Nya248) yang disampaikan-Nya kepada Maryam, dan (dengan tiupan) roh dari-Nya.249) Maka berimanlah kepada Allah dan Rasul-rasul-Nya dan janganlah kamu mengatakan, "(Tuhan itu) tiga," berhentilah (dari ucapan itu). (Itu) lebih baik bagimu. Sesungguhnya Allah Tuhan Yang Maha Esa, Mahasuci Dia dari (anggapan) mempunyai anak. Milik-Nyalah apa yang ada di langit dan apa yang ada di bumi. Dan cukuplah Allah sebagai pelindung.
+Wahai Ahli Kitab! Janganlah kamu melampaui batas dalam agamamu,[^247] dan janganlah kamu mengatakan terhadap Allah kecuali yang benar. Sungguh, Al-Masih Isa putra Maryam itu, adalah utusan Allah dan (yang diciptakan dengan) kalimat-Nya[^248] yang disampaikan-Nya kepada Maryam, dan (dengan tiupan) roh dari-Nya.[^249] Maka berimanlah kepada Allah dan Rasul-rasul-Nya dan janganlah kamu mengatakan, "(Tuhan itu) tiga," berhentilah (dari ucapan itu). (Itu) lebih baik bagimu. Sesungguhnya Allah Tuhan Yang Maha Esa, Mahasuci Dia dari (anggapan) mempunyai anak. Milik-Nyalah apa yang ada di langit dan apa yang ada di bumi. Dan cukuplah Allah sebagai pelindung.
 
-247) Janganlah kamu mengatakan Nabi Isa -'alaihissalām- itu Tuhan, sebagaimana dikatakan oleh orang Nasrani. 248) Maksud kalimat yaitu kun, sehingga Nabi Isa -'alaihissalām- diciptakan tanpa bapak. 249) Disebut tiupan dari Allah karena tiupan itu berasal dari perintah Allah.
+[^247]: Janganlah kamu mengatakan Nabi Isa -'alaihissalām- itu Tuhan, sebagaimana dikatakan oleh orang Nasrani
+
+[^248]: Maksud kalimat yaitu kun, sehingga Nabi Isa -'alaihissalām- diciptakan tanpa bapak
+
+[^249]: Disebut tiupan dari Allah karena tiupan itu berasal dari perintah Allah.
 
 # 665
 
-Al-Masīh sama sekali tidak enggan menjadi hamba Allah, dan begitu pula para malaikat yang terdekat (kepada Allah).250) Dan barang siapa enggan menyembah-Nya dan menyombongkan diri, maka Allah akan mengumpulkan mereka semua kepada-Nya.
+Al-Masīh sama sekali tidak enggan menjadi hamba Allah, dan begitu pula para malaikat yang terdekat (kepada Allah).[^250] Dan barang siapa enggan menyembah-Nya dan menyombongkan diri, maka Allah akan mengumpulkan mereka semua kepada-Nya.
 
-250) Malaikat yang berada di sekitar Arasy seperti Jibril, Mikail dan Israfil.
+[^250]: Malaikat yang berada di sekitar Arasy seperti Jibril, Mikail dan Israfil.
 
 # 666
 
@@ -3084,51 +3178,69 @@ Adapun orang-orang yang beriman kepada Allah dan berpegang teguh kepada (agama)N
 
 # 669
 
-Mereka meminta fatwa kepadamu (tentang kalālah).251) Katakanlah, "Allah memberi fatwa kepadamu tentang kalālah (yaitu), jika seseorang mati dan dia tidak mempunyai anak tetapi mempunyai saudara perempuan, maka bagiannya (saudara perempuannya itu) separuh dari harta yang ditinggalkannya, dan saudaranya yang laki-laki mewarisi (seluruh harta saudara perempuan), jika dia tidak mempunyai anak. Tetapi jika saudara perempuan itu dua orang, maka bagi keduanya dua pertiga dari harta yang ditinggalkan. Dan jika mereka (ahli waris itu terdiri dari) saudara-saudara laki-laki dan perempuan, maka bagian seorang saudara laki-laki sama dengan bagian dua saudari perempuan. Allah menerangkan (hukum ini) kepadamu, agar kamu tidak sesat. Allah Maha Mengetahui segala sesuatu."
+Mereka meminta fatwa kepadamu (tentang kalālah).[^251] Katakanlah, "Allah memberi fatwa kepadamu tentang kalālah (yaitu), jika seseorang mati dan dia tidak mempunyai anak tetapi mempunyai saudara perempuan, maka bagiannya (saudara perempuannya itu) separuh dari harta yang ditinggalkannya, dan saudaranya yang laki-laki mewarisi (seluruh harta saudara perempuan), jika dia tidak mempunyai anak. Tetapi jika saudara perempuan itu dua orang, maka bagi keduanya dua pertiga dari harta yang ditinggalkan. Dan jika mereka (ahli waris itu terdiri dari) saudara-saudara laki-laki dan perempuan, maka bagian seorang saudara laki-laki sama dengan bagian dua saudari perempuan. Allah menerangkan (hukum ini) kepadamu, agar kamu tidak sesat. Allah Maha Mengetahui segala sesuatu."
 
-251) Kalālah ialah orang mati yang tidak meninggalkan bapak dan anak.
+[^251]: Kalālah ialah orang mati yang tidak meninggalkan bapak dan anak.
 
 # 670
 
-Wahai orang-orang yang beriman! Penuhilah janji-janji! 252) Hewan ternak dihalalkan bagimu, kecuali yang akan disebutkan kepadamu, dengan tidak menghalalkan berburu ketika kamu sedang berihram (haji atau umrah). Sesungguhnya Allah menetapkan hukum sesuai dengan yang Dia kehendaki.
+Wahai orang-orang yang beriman! Penuhilah janji-janji! [^252] Hewan ternak dihalalkan bagimu, kecuali yang akan disebutkan kepadamu, dengan tidak menghalalkan berburu ketika kamu sedang berihram (haji atau umrah). Sesungguhnya Allah menetapkan hukum sesuai dengan yang Dia kehendaki.
 
-*252) Janji di sini adalah janji setia hamba kepada Allah dan perjanjian yang dibuat oleh manusia dalam pergaulan sesamanya.
+[^252]: Janji di sini adalah janji setia hamba kepada Allah dan perjanjian yang dibuat oleh manusia dalam pergaulan sesamanya.
 
 # 671
 
-Wahai orang-orang yang beriman! Janganlah kamu melanggar syiar-syiar kesucian Allah,253) dan jangan (melanggar kehormatan) bulan-bulan haram,254) jangan (mengganggu) hadyu (hewan-hewan kurban)255) dan qalāid (hewan-hewan kurban yang diberi tanda),256) dan jangan (pula) mengganggu orang-orang yang mengunjungi Baitulharam; mereka mencari karunia dan keridaan Tuhannya.257) Tetapi apabila kamu telah menyelesaikan ihram, maka kamu boleh berburu. Jangan sampai kebencian (mu) kepada suatu kaum karena mereka menghalang-halangimu dari Masjidilharam, mendorongmu berbuat melampaui batas (kepada mereka). Dan tolong-menolonglah kamu dalam (mengerjakan) kebajikan dan takwa, dan jangan tolong-menolong dalam berbuat dosa dan permusuhan. Bertakwalah kepada Allah, sungguh, Allah sangat berat siksa-Nya.
+Wahai orang-orang yang beriman! Janganlah kamu melanggar syiar-syiar kesucian Allah,[^253] dan jangan (melanggar kehormatan) bulan-bulan haram,[^254] jangan (mengganggu) hadyu (hewan-hewan kurban)[^255] dan qalāid (hewan-hewan kurban yang diberi tanda),[^256] dan jangan (pula) mengganggu orang-orang yang mengunjungi Baitulharam; mereka mencari karunia dan keridaan Tuhannya.[^257] Tetapi apabila kamu telah menyelesaikan ihram, maka kamu boleh berburu. Jangan sampai kebencian (mu) kepada suatu kaum karena mereka menghalang-halangimu dari Masjidilharam, mendorongmu berbuat melampaui batas (kepada mereka). Dan tolong-menolonglah kamu dalam (mengerjakan) kebajikan dan takwa, dan jangan tolong-menolong dalam berbuat dosa dan permusuhan. Bertakwalah kepada Allah, sungguh, Allah sangat berat siksa-Nya.
 
-*253) Syiar-syiar kesucian Allah ialah segala amalan yang dilakukan dalam rangka ibadah haji seperti tata cara melakukan tawaf dan sai; tempat-tempat mengerjakannya, seperti Ka'bah, Safa dan Marwah. 254) Bulan haram ialah Zulkaidah, Zulhijah, Muharam dan Rajab. Pada bulan-bulan itu dilarang melakukan peperangan. 255) Hadyu ialah hewan yang disembelih sebagai pengganti (dam) pekerjaan wajib yang ditinggalkan, atau sebagai denda karena melanggar hal-hal yang terlarang mengerjakannya di dalam ibadah haji. 256) Qalāid ialah hewan hadyu yang diberi kalung, agar diketahui orang bahwa hewan itu telah diperuntukkan untuk dibawa ke Ka'bah. 257) Dimaksud dengan karunia ialah keuntungan yang diberikan Allah dalam perjalanan ibadah haji, sedangkan keridaan Allah ialah pahala amalan haji.
+[^253]: Syiar-syiar kesucian Allah ialah segala amalan yang dilakukan dalam rangka ibadah haji seperti tata cara melakukan tawaf dan sai; tempat-tempat mengerjakannya, seperti Ka'bah, Safa dan Marwah
+
+[^254]: Bulan haram ialah Zulkaidah, Zulhijah, Muharam dan Rajab. Pada bulan-bulan itu dilarang melakukan peperangan
+
+[^255]: Hadyu ialah hewan yang disembelih sebagai pengganti (dam) pekerjaan wajib yang ditinggalkan, atau sebagai denda karena melanggar hal-hal yang terlarang mengerjakannya di dalam ibadah haji
+
+[^256]: Qalāid ialah hewan hadyu yang diberi kalung, agar diketahui orang bahwa hewan itu telah diperuntukkan untuk dibawa ke Ka'bah
+
+[^257]: Dimaksud dengan karunia ialah keuntungan yang diberikan Allah dalam perjalanan ibadah haji, sedangkan keridaan Allah ialah pahala amalan haji.
 
 # 672
 
-Diharamkan bagimu (memakan) bangkai, darah,258) daging babi, dan (daging) hewan yang disembelih bukan atas (nama) Allah, yang tercekik, yang dipukul, yang jatuh, yang ditanduk, dan yang diterkam binatang buas, kecuali yang sempat kamu sembelih.259) Dan (diharamkan pula) yang disembelih untuk berhala. Dan (diharamkan pula) mengundi nasib dengan azlām (anak panah),260) (karena) itu suatu perbuatan fasik. Pada hari ini261) orang-orang kafir telah putus asa untuk (mengalahkan) agamamu, sebab itu janganlah kamu takut kepada mereka, tetapi takutlah kepada-Ku. Pada hari ini telah Aku sempurnakan agamamu untukmu, dan telah Aku cukupkan nikmat-Ku bagimu, dan telah Aku ridai Islam sebagai agamamu. Tetapi barang siapa terpaksa262) karena lapar bukan karena ingin berbuat dosa, maka sungguh, Allah Maha Pengampun, Maha Penyayang.
+Diharamkan bagimu (memakan) bangkai, darah,[^258] daging babi, dan (daging) hewan yang disembelih bukan atas (nama) Allah, yang tercekik, yang dipukul, yang jatuh, yang ditanduk, dan yang diterkam binatang buas, kecuali yang sempat kamu sembelih.[^259] Dan (diharamkan pula) yang disembelih untuk berhala. Dan (diharamkan pula) mengundi nasib dengan azlām (anak panah),[^260] (karena) itu suatu perbuatan fasik. Pada hari ini[^261] orang-orang kafir telah putus asa untuk (mengalahkan) agamamu, sebab itu janganlah kamu takut kepada mereka, tetapi takutlah kepada-Ku. Pada hari ini telah Aku sempurnakan agamamu untukmu, dan telah Aku cukupkan nikmat-Ku bagimu, dan telah Aku ridai Islam sebagai agamamu. Tetapi barang siapa terpaksa[^262] karena lapar bukan karena ingin berbuat dosa, maka sungguh, Allah Maha Pengampun, Maha Penyayang.
 
-*258) Darah yang keluar dari tubuh, sebagaimana tersebut dalam Al-An'am (6): 145. 259) Hewan yang tercekik, yang dipukul, yang jatuh, yang ditanduk dan yang diterkam binatang buas adalah halal kalau sempat disembelih sebelum mati. 260) Al-Azlām artinya anak panah yang belum memakai bulu. Orang Arab Jahiliah menggunakan anak panah yang belum memakai bulu untuk menentukan apakah mereka akan melakukan suatu perbuatan atau tidak. Caranya ialah mereka ambil tiga biji anak panah yang belum pakai bulu. Setelah ditulis masing-masing yaitu dengan "lakukanlah", "jangan lakukan", sedang yang ketiga tidak ditulis apa-apa, diletakkan dalam suatu tempat dan disimpan dalam Ka'bah. Bila mereka hendak melakukan suatu perbuatan maka mereka meminta agar juru kunci Ka'bah mengambil sebiji anak panah itu. Terserahlah nanti apakah mereka akan melakukan atau tidak melakukan sesuatu, sesuai dengan tulisan anak panah yang diambil itu. Kalau yang terambil anak panah yang tidak ada tulisannya, maka undian diulangi sekali lagi. 261) Yang dimaksud dengan hari ini ialah masa haji Wada, haji terakhir yang dilakukan oleh Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-. 262) Dibolehkan memakan makanan yang diharamkan oleh ayat ini jika terpaksa.
+[^258]: Darah yang keluar dari tubuh, sebagaimana tersebut dalam Al-An'am (6): 145
+
+[^259]: Hewan yang tercekik, yang dipukul, yang jatuh, yang ditanduk dan yang diterkam binatang buas adalah halal kalau sempat disembelih sebelum mati
+
+[^260]: Al-Azlām artinya anak panah yang belum memakai bulu. Orang Arab Jahiliah menggunakan anak panah yang belum memakai bulu untuk menentukan apakah mereka akan melakukan suatu perbuatan atau tidak. Caranya ialah mereka ambil tiga biji anak panah yang belum pakai bulu. Setelah ditulis masing-masing yaitu dengan "lakukanlah", "jangan lakukan", sedang yang ketiga tidak ditulis apa-apa, diletakkan dalam suatu tempat dan disimpan dalam Ka'bah. Bila mereka hendak melakukan suatu perbuatan maka mereka meminta agar juru kunci Ka'bah mengambil sebiji anak panah itu. Terserahlah nanti apakah mereka akan melakukan atau tidak melakukan sesuatu, sesuai dengan tulisan anak panah yang diambil itu. Kalau yang terambil anak panah yang tidak ada tulisannya, maka undian diulangi sekali lagi
+
+[^261]: Yang dimaksud dengan hari ini ialah masa haji Wada, haji terakhir yang dilakukan oleh Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-
+
+[^262]: Dibolehkan memakan makanan yang diharamkan oleh ayat ini jika terpaksa.
 
 # 673
 
-Mereka bertanya kepadamu (Muhammad), "Apakah yang dihalalkan bagi mereka?" Katakanlah, "Yang dihalalkan bagimu (adalah makanan) yang baik-baik dan (buruan yang ditangkap) oleh binatang pemburu yang telah kamu latih untuk berburu, yang kamu latih menurut apa yang telah diajarkan Allah kepadamu. Maka makanlah apa yang ditangkapnya untukmu,263) dan sebutlah nama Allah (waktu melepasnya). Dan bertakwalah kepada Allah, sungguh, Allah sangat cepat perhitungan-Nya."
+Mereka bertanya kepadamu (Muhammad), "Apakah yang dihalalkan bagi mereka?" Katakanlah, "Yang dihalalkan bagimu (adalah makanan) yang baik-baik dan (buruan yang ditangkap) oleh binatang pemburu yang telah kamu latih untuk berburu, yang kamu latih menurut apa yang telah diajarkan Allah kepadamu. Maka makanlah apa yang ditangkapnya untukmu,[^263] dan sebutlah nama Allah (waktu melepasnya). Dan bertakwalah kepada Allah, sungguh, Allah sangat cepat perhitungan-Nya."
 
-*263) Buruan yang ditangkap binatang buas semata-mata untukmu dan tidak dimakan sedikit pun oleh binatang itu.
+[^263]: Buruan yang ditangkap binatang buas semata-mata untukmu dan tidak dimakan sedikit pun oleh binatang itu.
 
 # 674
 
-Pada hari ini dihalalkan bagimu segala yang baik-baik. Makanan (sembelihan) Ahli Kitab itu halal bagimu, dan makananmu halal bagi mereka. Dan (dihalalkan bagimu menikahi) perempuan-perempuan yang menjaga kehormatan264) di antara perempuan-perempuan yang beriman dan perempuan-perempuan yang menjaga kehormatan di antara orang-orang yang diberi kitab sebelum kamu, apabila kamu membayar maskawin mereka untuk menikahinya, tidak dengan maksud berzina dan bukan untuk menjadikan perempuan piaraan. Barang siapa kafir setelah beriman maka sungguh, sia-sia amal mereka dan di akhirat dia termasuk orang-orang yang rugi.
+Pada hari ini dihalalkan bagimu segala yang baik-baik. Makanan (sembelihan) Ahli Kitab itu halal bagimu, dan makananmu halal bagi mereka. Dan (dihalalkan bagimu menikahi) perempuan-perempuan yang menjaga kehormatan[^264] di antara perempuan-perempuan yang beriman dan perempuan-perempuan yang menjaga kehormatan di antara orang-orang yang diberi kitab sebelum kamu, apabila kamu membayar maskawin mereka untuk menikahinya, tidak dengan maksud berzina dan bukan untuk menjadikan perempuan piaraan. Barang siapa kafir setelah beriman maka sungguh, sia-sia amal mereka dan di akhirat dia termasuk orang-orang yang rugi.
 
-*264) Ada yang mengatakan perempuan-perempuan yang merdeka.
+[^264]: Ada yang mengatakan perempuan-perempuan yang merdeka.
 
 # 675
 
-Wahai orang-orang yang beriman! Apabila kamu hendak melaksanakan salat, maka basuhlah wajahmu dan tanganmu sampai ke siku, dan sapulah kepalamu dan (basuh) kedua kakimu sampai ke kedua mata kaki. Jika kamu junub maka mandilah. Dan jika kamu sakit265) atau dalam perjalanan atau kembali dari tempat buang air (kakus) atau menyentuh266) perempuan, lalu kamu tidak memperoleh air, maka bertayamumlah dengan debu yang baik (suci); usaplah wajahmu dan tanganmu dengan (debu) itu. Allah tidak ingin menyulitkan kamu, tetapi Dia hendak membersihkan kamu dan menyempurnakan nikmat-Nya bagimu, agar kamu bersyukur.
+Wahai orang-orang yang beriman! Apabila kamu hendak melaksanakan salat, maka basuhlah wajahmu dan tanganmu sampai ke siku, dan sapulah kepalamu dan (basuh) kedua kakimu sampai ke kedua mata kaki. Jika kamu junub maka mandilah. Dan jika kamu sakit[^265] atau dalam perjalanan atau kembali dari tempat buang air (kakus) atau menyentuh[^266] perempuan, lalu kamu tidak memperoleh air, maka bertayamumlah dengan debu yang baik (suci); usaplah wajahmu dan tanganmu dengan (debu) itu. Allah tidak ingin menyulitkan kamu, tetapi Dia hendak membersihkan kamu dan menyempurnakan nikmat-Nya bagimu, agar kamu bersyukur.
 
-*265) Sakit yang tidak boleh kena air. 266) Menyentuh, menurut jumhur ialah "bersentuhan kulit." sedang sebagian mufasir mengartikan "bercampur sebagai suami istri."
+[^265]: Sakit yang tidak boleh kena air
+
+[^266]: Menyentuh, menurut jumhur ialah "bersentuhan kulit." sedang sebagian mufasir mengartikan "bercampur sebagai suami istri."
 
 # 676
 
-Dan ingatlah akan karunia Allah kepadamu dan perjanjian-Nya267) yang telah diikatkan kepadamu, ketika kamu mengatakan, "Kami mendengar dan kami menaati." Dan bertakwalah kepada Allah, sungguh, Allah Maha Mengetahui segala isi hati.
+Dan ingatlah akan karunia Allah kepadamu dan perjanjian-Nya[^267] yang telah diikatkan kepadamu, ketika kamu mengatakan, "Kami mendengar dan kami menaati." Dan bertakwalah kepada Allah, sungguh, Allah Maha Mengetahui segala isi hati.
 
-*267) Perjanjian akan mendengar dan mengikuti Nabi dalam segala keadaan yang diikrarkan waktu baiah (prasetia).
+[^267]: Perjanjian akan mendengar dan mengikuti Nabi dalam segala keadaan yang diikrarkan waktu baiah (prasetia).
 
 # 677
 
@@ -3148,15 +3260,15 @@ Wahai orang-orang yang beriman! Ingatlah nikmat Allah (yang diberikan) kepadamu,
 
 # 681
 
-Dan sungguh, Allah telah mengambil perjanjian dari Bani Israil dan Kami telah mengangkat dua belas orang pemimpin diantara mereka. Dan Allah berfirman, "Aku bersamamu." Sungguh, jika kamu melaksanakan salat dan menunaikan zakat serta beriman kepada rasul-rasul-Ku dan kamu bantu mereka dan kamu pinjamkan kepada Allah pinjaman yang baik,268) pasti akan Aku hapus kesalahan-kesalahanmu, dan pasti, akan Aku masukkan kamu ke dalam surga yang mengalir di bawahnya sungai-sungai. Tetapi barang siapa kafir di antaramu setelah itu, maka sesungguhnya dia telah tersesat dari jalan yang lurus."
+Dan sungguh, Allah telah mengambil perjanjian dari Bani Israil dan Kami telah mengangkat dua belas orang pemimpin diantara mereka. Dan Allah berfirman, "Aku bersamamu." Sungguh, jika kamu melaksanakan salat dan menunaikan zakat serta beriman kepada rasul-rasul-Ku dan kamu bantu mereka dan kamu pinjamkan kepada Allah pinjaman yang baik,[^268] pasti akan Aku hapus kesalahan-kesalahanmu, dan pasti, akan Aku masukkan kamu ke dalam surga yang mengalir di bawahnya sungai-sungai. Tetapi barang siapa kafir di antaramu setelah itu, maka sesungguhnya dia telah tersesat dari jalan yang lurus."
 
-*268) Menginfakkan harta untuk menunaikan kewajiban dengan hati yang ikhlas.
+[^268]: Menginfakkan harta untuk menunaikan kewajiban dengan hati yang ikhlas.
 
 # 682
 
-(Tetapi) karena mereka melanggar janjinya, maka Kami melaknat mereka, dan Kami jadikan hati mereka keras membatu. Mereka suka mengubah firman (Allah) dari tempatnya,269) dan mereka (sengaja) melupakan sebagian pesan yang telah diperingatkan kepada mereka. Engkau (Muhammad) senantiasa akan melihat pengkhianatan dari mereka kecuali sekelompok kecil di antara mereka (yang tidak berkhianat), maka maafkanlah mereka dan biarkan mereka. Sungguh, Allah menyukai orang-orang yang berbuat baik.
+(Tetapi) karena mereka melanggar janjinya, maka Kami melaknat mereka, dan Kami jadikan hati mereka keras membatu. Mereka suka mengubah firman (Allah) dari tempatnya,[^269] dan mereka (sengaja) melupakan sebagian pesan yang telah diperingatkan kepada mereka. Engkau (Muhammad) senantiasa akan melihat pengkhianatan dari mereka kecuali sekelompok kecil di antara mereka (yang tidak berkhianat), maka maafkanlah mereka dan biarkan mereka. Sungguh, Allah menyukai orang-orang yang berbuat baik.
 
-*269) Mengubah arti kata-kata, tempat atau menambah dan menguranginya.
+[^269]: Mengubah arti kata-kata, tempat atau menambah dan menguranginya.
 
 # 683
 
@@ -3164,9 +3276,9 @@ Dan di antara orang-orang yang mengatakan, "Kami ini orang Nasrani," Kami telah 
 
 # 684
 
-Wahai Ahli Kitab! Sungguh, Rasul Kami telah datang kepadamu, menjelaskan kepadamu banyak hal dari (isi) kitab yang kamu sembunyikan, dan banyak (pula) yang dibiarkannya. Sungguh, telah datang kepadamu cahaya dari Allah, dan Kitab270) yang menjelaskan,
+Wahai Ahli Kitab! Sungguh, Rasul Kami telah datang kepadamu, menjelaskan kepadamu banyak hal dari (isi) kitab yang kamu sembunyikan, dan banyak (pula) yang dibiarkannya. Sungguh, telah datang kepadamu cahaya dari Allah, dan Kitab[^270] yang menjelaskan,
 
-*270) Cahaya maksudnya Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dan Kitab maksudnya Al-Qur`an.
+[^270]: Cahaya maksudnya Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dan Kitab maksudnya Al-Qur`an.
 
 # 685
 
@@ -3190,9 +3302,9 @@ Dan (ingatlah), ketika Musa berkata kepada kaumnya, "Wahai kaumku! Ingatlah akan
 
 # 690
 
-Wahai kaumku! Masuklah ke tanah suci (Palestina) yang telah ditentukan Allah bagimu,271) dan janganlah kamu berbalik ke belakang (karena takut kepada musuh), nanti kamu menjadi orang yang rugi.
+Wahai kaumku! Masuklah ke tanah suci (Palestina) yang telah ditentukan Allah bagimu,[^271] dan janganlah kamu berbalik ke belakang (karena takut kepada musuh), nanti kamu menjadi orang yang rugi.
 
-*271) Tanah Palestina itu ditentukan Allah bagi kaum Yahudi selama mereka beriman dan taat kepada Allah.
+[^271]: Tanah Palestina itu ditentukan Allah bagi kaum Yahudi selama mereka beriman dan taat kepada Allah.
 
 # 691
 
@@ -3216,9 +3328,9 @@ Dia (Musa) berkata, "Ya Tuhanku, aku hanya menguasai diriku sendiri dan saudarak
 
 # 696
 
-Dan ceritakanlah (Muhammad) yang sebenarnya kepada mereka tentang kisah kedua putra Adam,272) ketika keduanya mempersembahkan kurban, maka (kurban) salah seorang dari mereka berdua (Habil) diterima dan dari yang lain (Qabil) tidak diterima. Dia (Qabil) berkata, "Sungguh, aku pasti membunuhmu!" Dia (Habil) berkata, "Sesungguhnya Allah hanya menerima (amal) dari orang yang bertakwa."
+Dan ceritakanlah (Muhammad) yang sebenarnya kepada mereka tentang kisah kedua putra Adam,[^272] ketika keduanya mempersembahkan kurban, maka (kurban) salah seorang dari mereka berdua (Habil) diterima dan dari yang lain (Qabil) tidak diterima. Dia (Qabil) berkata, "Sungguh, aku pasti membunuhmu!" Dia (Habil) berkata, "Sesungguhnya Allah hanya menerima (amal) dari orang yang bertakwa."
 
-*272) Para mufasir mengatakan, namanya Qabil dan Habil.
+[^272]: Para mufasir mengatakan, namanya Qabil dan Habil.
 
 # 697
 
@@ -3238,15 +3350,17 @@ Kemudian Allah mengutus seekor burung gagak menggali tanah untuk memperlihatkan 
 
 # 701
 
-Oleh karena itu Kami tetapkan (suatu hukum) bagi Bani Israil, bahwa barang siapa membunuh seseorang, bukan karena orang itu membunuh orang lain,273) atau bukan karena berbuat kerusakan di bumi, maka seakan-akan dia telah membunuh semua manusia.274) Barang siapa memelihara kehidupan seorang manusia, maka seakan-akan dia telah memelihara kehidupan semua manusia. Sesungguhnya Rasul Kami telah datang kepada mereka dengan (membawa) keterangan-keterangan yang jelas. Tetapi kemudian banyak di antara mereka setelah itu melampaui batas di bumi.
+Oleh karena itu Kami tetapkan (suatu hukum) bagi Bani Israil, bahwa barang siapa membunuh seseorang, bukan karena orang itu membunuh orang lain,[^273] atau bukan karena berbuat kerusakan di bumi, maka seakan-akan dia telah membunuh semua manusia.[^274] Barang siapa memelihara kehidupan seorang manusia, maka seakan-akan dia telah memelihara kehidupan semua manusia. Sesungguhnya Rasul Kami telah datang kepada mereka dengan (membawa) keterangan-keterangan yang jelas. Tetapi kemudian banyak di antara mereka setelah itu melampaui batas di bumi.
 
-*273) Yakni membunuh orang bukan karena kisas. 274) Hukum ini bukanlah mengenai Bani Israil saja, tetapi juga mengenai manusia semuanya. Allah memandang bahwa membunuh seseorang itu adalah seperti membunuh semua manusia, begitu juga sebaliknya.
+[^273]: Yakni membunuh orang bukan karena kisas
+
+[^274]: Hukum ini bukanlah mengenai Bani Israil saja, tetapi juga mengenai manusia semuanya. Allah memandang bahwa membunuh seseorang itu adalah seperti membunuh semua manusia, begitu juga sebaliknya.
 
 # 702
 
-Hukuman bagi orang-orang yang memerangi Allah dan Rasul-Nya dan membuat kerusakan di bumi, hanyalah dibunuh atau disalib, atau dipotong tangan dan kaki mereka secara silang,275) atau diasingkan dari tempat kediamannya. Yang demikian itu kehinaan bagi mereka di dunia, dan di akhirat mereka mendapat azab yang besar.
+Hukuman bagi orang-orang yang memerangi Allah dan Rasul-Nya dan membuat kerusakan di bumi, hanyalah dibunuh atau disalib, atau dipotong tangan dan kaki mereka secara silang,[^275] atau diasingkan dari tempat kediamannya. Yang demikian itu kehinaan bagi mereka di dunia, dan di akhirat mereka mendapat azab yang besar.
 
-*275) Memotong tangan kanan dan kaki kiri, dan kalau melakukan kejahatan sekali lagi maka dipotong tangan kiri dan kaki kanan.
+[^275]: Memotong tangan kanan dan kaki kiri, dan kalau melakukan kejahatan sekali lagi maka dipotong tangan kiri dan kaki kanan.
 
 # 703
 
@@ -3278,15 +3392,17 @@ Tidakkah kamu tahu, bahwa Allah memiliki seluruh kerajaan langit dan bumi, Dia m
 
 # 710
 
-Wahai Rasul (Muhammad)! Janganlah engkau disedihkan karena mereka berlomba-lomba dalam kekafirannya. Yaitu orang-orang (munafik) yang mengatakan dengan mulut mereka, "Kami telah beriman," padahal hati mereka belum beriman; dan juga orang-orang Yahudi yang sangat suka mendengar (berita-berita) bohong276) dan sangat suka mendengar (perkataan-perkataan) orang lain yang belum pernah datang kepadamu.277) Mereka mengubah kata-kata (Taurat) dari makna yang sebenarnya. Mereka mengatakan, "Jika ini yang diberikan kepadamu (yang sudah diubah) terimalah, dan jika kamu diberi yang bukan ini, maka hati-hatilah." Barang siapa dikehendaki Allah untuk disesatkan, maka engkau tidak akan mampu menolongnya dari Allah sedikitpun. Mereka itu adalah orang-orang yang sudah tidak dikehendaki Allah untuk menyucikan hati mereka. Di dunia mereka mendapat kehinaan dan di akhirat akan mendapat azab yang besar.
+Wahai Rasul (Muhammad)! Janganlah engkau disedihkan karena mereka berlomba-lomba dalam kekafirannya. Yaitu orang-orang (munafik) yang mengatakan dengan mulut mereka, "Kami telah beriman," padahal hati mereka belum beriman; dan juga orang-orang Yahudi yang sangat suka mendengar (berita-berita) bohong[^276] dan sangat suka mendengar (perkataan-perkataan) orang lain yang belum pernah datang kepadamu.[^277] Mereka mengubah kata-kata (Taurat) dari makna yang sebenarnya. Mereka mengatakan, "Jika ini yang diberikan kepadamu (yang sudah diubah) terimalah, dan jika kamu diberi yang bukan ini, maka hati-hatilah." Barang siapa dikehendaki Allah untuk disesatkan, maka engkau tidak akan mampu menolongnya dari Allah sedikitpun. Mereka itu adalah orang-orang yang sudah tidak dikehendaki Allah untuk menyucikan hati mereka. Di dunia mereka mendapat kehinaan dan di akhirat akan mendapat azab yang besar.
 
-*276) Orang-orang Yahudi sangat suka mendengar perkataan-perkataan pendeta mereka yang bohong, atau sangat suka mendengar perkataan-perkataan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- untuk disampaikan kepada pendeta-pendeta dan kawan-kawan mereka dengan cara yang tidak jujur. 277) Mereka sangat suka mendengar perkataan-perkataan pemimpin-pemimpin mereka yang bohong yang belum pernah bertemu dengan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- karena sangat benci kepadanya, atau sangat suka mendengar perkataan-perkataan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- untuk disampaikan secara tidak jujur kepada kawan-kawannya.
+[^276]: Orang-orang Yahudi sangat suka mendengar perkataan-perkataan pendeta mereka yang bohong, atau sangat suka mendengar perkataan-perkataan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- untuk disampaikan kepada pendeta-pendeta dan kawan-kawan mereka dengan cara yang tidak jujur
+
+[^277]: Mereka sangat suka mendengar perkataan-perkataan pemimpin-pemimpin mereka yang bohong yang belum pernah bertemu dengan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- karena sangat benci kepadanya, atau sangat suka mendengar perkataan-perkataan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- untuk disampaikan secara tidak jujur kepada kawan-kawannya.
 
 # 711
 
-Mereka sangat suka mendengar berita bohong, banyak memakan (makanan) yang haram.278) Jika mereka (orang Yahudi) datang kepadamu (Muhammad untuk meminta putusan), maka berilah putusan di antara mereka atau berpalinglah dari mereka, dan jika engkau berpaling dari mereka maka mereka tidak akan membahayakanmu sedikit pun. Tetapi jika engkau memutuskan (perkara mereka), maka putuskanlah dengan adil. Sesungguhnya Allah menyukai orang-orang yang adil.
+Mereka sangat suka mendengar berita bohong, banyak memakan (makanan) yang haram.[^278] Jika mereka (orang Yahudi) datang kepadamu (Muhammad untuk meminta putusan), maka berilah putusan di antara mereka atau berpalinglah dari mereka, dan jika engkau berpaling dari mereka maka mereka tidak akan membahayakanmu sedikit pun. Tetapi jika engkau memutuskan (perkara mereka), maka putuskanlah dengan adil. Sesungguhnya Allah menyukai orang-orang yang adil.
 
-*278) Seperti uang suap dan sebagainya.
+[^278]: Seperti uang suap dan sebagainya.
 
 # 712
 
@@ -3306,15 +3422,19 @@ Dan Kami teruskan jejak mereka dengan mengutus Isa putra Maryam, membenarkan Kit
 
 # 716
 
-Dan hendaklah pengikut Injil memutuskan perkara menurut apa yang diturunkan Allah di dalamnya.279) Barang siapa tidak memutuskan perkara menurut apa yang diturunkan Allah, maka mereka itulah orang-orang fasik.280)
+Dan hendaklah pengikut Injil memutuskan perkara menurut apa yang diturunkan Allah di dalamnya.[^279] Barang siapa tidak memutuskan perkara menurut apa yang diturunkan Allah, maka mereka itulah orang-orang fasik.[^280]
 
-*279) Pengikut-pengikut Injil itu diharuskan memutuskan perkara sesuai dengan apa yang diturunkan Allah di dalam Injil itu, sampai kepada masa diturunkan Al-Qur`an. 280) Orang yang tidak memutuskan perkara menurut hukum Allah ada tiga macam: a). karena benci dan ingkarnya kepada hukum Allah, orang yang semacam ini kafir (Al-Mā`idah (5) : 44). b). karena menurut hawa nafsu dan merugikan orang lain dinamakan zalim (Al-Mā`idah (5) : 45). c). karena fasik sebagaimana terdapat dalam ayat 47 surah ini.
+[^279]: Pengikut-pengikut Injil itu diharuskan memutuskan perkara sesuai dengan apa yang diturunkan Allah di dalam Injil itu, sampai kepada masa diturunkan Al-Qur`an
+
+[^280]: Orang yang tidak memutuskan perkara menurut hukum Allah ada tiga macam: a). karena benci dan ingkarnya kepada hukum Allah, orang yang semacam ini kafir (Al-Mā`idah (5) : 44). b). karena menurut hawa nafsu dan merugikan orang lain dinamakan zalim (Al-Mā`idah (5) : 45). c). karena fasik sebagaimana terdapat dalam ayat 47 surah ini.
 
 # 717
 
-Dan Kami telah menurunkan Kitab (Al-Qur`an) kepadamu (Muhammad) dengan membawa kebenaran, yang membenarkan kitab-kitab yang diturunkan sebelumnya dan menjaganya, 281) maka putuskanlah perkara mereka menurut apa yang di turunkan Allah dan janganlah engkau mengikuti keinginan mereka dengan meninggalkan kebenaran yang telah datang kepadamu. Untuk setiap umat di antara kamu,282) Kami berikan aturan dan jalan yang terang. Kalau Allah menghendaki, niscaya kamu dijadikan-Nya satu umat (saja), tetapi Allah hendak menguji kamu terhadap karunia yang telah di berikan-Nya kepadamu, maka berlomba-lombalah berbuat kebajikan. Hanya kepada Allah kamu semua kembali, lalu diberitahukan-Nya kepadamu terhadap apa yang dahulu kamu perselisihkan,
+Dan Kami telah menurunkan Kitab (Al-Qur`an) kepadamu (Muhammad) dengan membawa kebenaran, yang membenarkan kitab-kitab yang diturunkan sebelumnya dan menjaganya, [^281] maka putuskanlah perkara mereka menurut apa yang di turunkan Allah dan janganlah engkau mengikuti keinginan mereka dengan meninggalkan kebenaran yang telah datang kepadamu. Untuk setiap umat di antara kamu,[^282] Kami berikan aturan dan jalan yang terang. Kalau Allah menghendaki, niscaya kamu dijadikan-Nya satu umat (saja), tetapi Allah hendak menguji kamu terhadap karunia yang telah di berikan-Nya kepadamu, maka berlomba-lombalah berbuat kebajikan. Hanya kepada Allah kamu semua kembali, lalu diberitahukan-Nya kepadamu terhadap apa yang dahulu kamu perselisihkan,
 
-*281) Al-Qur`an adalah ukuran untuk menentukan benar dan tidaknya ayat-ayat yang diturunkan dalam kitab-kitab yang sebelumnya. 282) Umat Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dan umat-umat sebelumnya.
+[^281]: Al-Qur`an adalah ukuran untuk menentukan benar dan tidaknya ayat-ayat yang diturunkan dalam kitab-kitab yang sebelumnya
+
+[^282]: Umat Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dan umat-umat sebelumnya.
 
 # 718
 
@@ -3362,9 +3482,9 @@ Katakanlah, "Wahai Ahli Kitab! Apakah kamu memandang kami salah, hanya karena ka
 
 # 729
 
-Katakanlah (Muhammad), "Apakah akan aku beritakan kepadamu tentang orang yang lebih buruk pembalasannya dari (orang fasik) di sisi Allah? Yaitu, orang yang dilaknat dan dimurkai Allah, di antara mereka (ada) yang dijadikan kera dan babi283) dan (orang yang) menyembah Tagut." Mereka itu lebih buruk tempatnya dan lebih tersesat dari jalan yang lurus.
+Katakanlah (Muhammad), "Apakah akan aku beritakan kepadamu tentang orang yang lebih buruk pembalasannya dari (orang fasik) di sisi Allah? Yaitu, orang yang dilaknat dan dimurkai Allah, di antara mereka (ada) yang dijadikan kera dan babi[^283] dan (orang yang) menyembah Tagut." Mereka itu lebih buruk tempatnya dan lebih tersesat dari jalan yang lurus.
 
-*283) Orang-orang Yahudi yang melanggar kehormatan hari Sabat (lihat Al-Baqarah (2) : 65).
+[^283]: Orang-orang Yahudi yang melanggar kehormatan hari Sabat (lihat Al-Baqarah (2) : 65).
 
 # 730
 
@@ -3380,9 +3500,11 @@ Mengapa para ulama dan para pendeta mereka tidak melarang mereka mengucapkan per
 
 # 733
 
-Dan orang-orang Yahudi berkata, "Tangan Allah terbelenggu."284) Sebenarnya tangan merekalah yang dibelenggu dan merekalah yang dilaknat disebabkan apa yang telah mereka katakan itu, padahal kedua tangan Allah285) terbuka; Dia memberi rezeki sebagaimana Dia kehendaki. Dan (Al-Qur`an) yang diturunkan kepadamu dari Tuhanmu itu pasti akan menambah kedurhakaan dan kekafiran bagi kebanyakan mereka. Dan Kami timbulkan permusuhan dan kebencian di antara mereka sampai hari Kiamat. Setiap mereka menyalakan api peperangan, Allah memadamkannya. Dan mereka berusaha (menimbulkan) kerusakan di bumi. Dan Allah tidak menyukai orang-orang yang berbuat kerusakan.
+Dan orang-orang Yahudi berkata, "Tangan Allah terbelenggu."[^284] Sebenarnya tangan merekalah yang dibelenggu dan merekalah yang dilaknat disebabkan apa yang telah mereka katakan itu, padahal kedua tangan Allah[^285] terbuka; Dia memberi rezeki sebagaimana Dia kehendaki. Dan (Al-Qur`an) yang diturunkan kepadamu dari Tuhanmu itu pasti akan menambah kedurhakaan dan kekafiran bagi kebanyakan mereka. Dan Kami timbulkan permusuhan dan kebencian di antara mereka sampai hari Kiamat. Setiap mereka menyalakan api peperangan, Allah memadamkannya. Dan mereka berusaha (menimbulkan) kerusakan di bumi. Dan Allah tidak menyukai orang-orang yang berbuat kerusakan.
 
-*284) Maksudnya adalah kikir. 285) Tangan Allah tidak sama dengan tangan manusia (makhluk).
+[^284]: Maksudnya adalah kikir
+
+[^285]: Tangan Allah tidak sama dengan tangan manusia (makhluk).
 
 # 734
 
@@ -3390,15 +3512,15 @@ Dan sekiranya Ahli Kitab itu beriman dan bertakwa; niscaya Kami hapus kesalahan-
 
 # 735
 
-Dan sekiranya mereka sungguh-sungguh menjalankan (hukum) Taurat, Injil dan (Al-Qur`an) yang diturunkan kepada mereka dari Tuhannya, niscaya mereka akan mendapat makanan dari atas mereka dan dari bawah kaki mereka.286) Di antara mereka ada sekelompok yang jujur dan taat. Dan banyak di antara mereka sangat buruk apa yang mereka kerjakan.
+Dan sekiranya mereka sungguh-sungguh menjalankan (hukum) Taurat, Injil dan (Al-Qur`an) yang diturunkan kepada mereka dari Tuhannya, niscaya mereka akan mendapat makanan dari atas mereka dan dari bawah kaki mereka.[^286] Di antara mereka ada sekelompok yang jujur dan taat. Dan banyak di antara mereka sangat buruk apa yang mereka kerjakan.
 
-*286) Allah akan memberikan rahmat-Nya dari langit dengan menurunkan hujan, menumbuhkan tumbuh-tumbuhan yang buahnya melimpah ruah.
+[^286]: Allah akan memberikan rahmat-Nya dari langit dengan menurunkan hujan, menumbuhkan tumbuh-tumbuhan yang buahnya melimpah ruah.
 
 # 736
 
-Wahai Rasul! Sampaikanlah apa yang diturunkan Tuhanmu kepadamu. Jika tidak engkau lakukan (apa yang diperintahkan itu) berarti engkau tidak menyampaikan risalah-Nya. Dan Allah memelihara engkau dari (gangguan) manusia.287) Sungguh, Allah tidak memberi petunjuk kepada orang-orang kafir.
+Wahai Rasul! Sampaikanlah apa yang diturunkan Tuhanmu kepadamu. Jika tidak engkau lakukan (apa yang diperintahkan itu) berarti engkau tidak menyampaikan risalah-Nya. Dan Allah memelihara engkau dari (gangguan) manusia.[^287] Sungguh, Allah tidak memberi petunjuk kepada orang-orang kafir.
 
-*287) Tidak seorang pun yang dapat membunuh Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
+[^287]: Tidak seorang pun yang dapat membunuh Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
 
 # 737
 
@@ -3410,9 +3532,9 @@ Sesungguhnya orang-orang yang beriman, orang-orang Yahudi, Ṣābiīn dan orang-
 
 # 739
 
-Sesungguhnya Kami telah mengambil perjanjian dari Bani Israil,288) dan telah Kami utus kepada mereka Rasul-rasul. Tetapi setiap rasul datang kepada mereka dengan membawa apa yang tidak sesuai dengan keinginan mereka, (maka) sebagian (dari Rasul itu) mereka dustakan kali dan sebagian yang lain mereka bunuh.
+Sesungguhnya Kami telah mengambil perjanjian dari Bani Israil,[^288] dan telah Kami utus kepada mereka Rasul-rasul. Tetapi setiap rasul datang kepada mereka dengan membawa apa yang tidak sesuai dengan keinginan mereka, (maka) sebagian (dari Rasul itu) mereka dustakan kali dan sebagian yang lain mereka bunuh.
 
-*288) Perjanjian itu ialah mereka beriman kepada Allah dan Rasul-rasul-Nya.
+[^288]: Perjanjian itu ialah mereka beriman kepada Allah dan Rasul-rasul-Nya.
 
 # 740
 
@@ -3432,9 +3554,9 @@ Mengapa mereka tidak bertobat kepada Allah dan memohon ampunan kepada-Nya? Allah
 
 # 744
 
-Al-Masih putra Maryam hanyalah seorang Rasul. Sebelumnya pun sudah berlalu beberapa Rasul. Dan ibunya seorang yang berpegang teguh pada kebenaran. Keduanya biasa memakan makanan.289) Perhatikanlah bagaimana Kami menjelaskan ayat-ayat (tanda-tanda kekuasaan) kepada mereka (Ahli Kitab), kemudian perhatikanlah bagaimana mereka dipalingkan (oleh keinginan mereka).
+Al-Masih putra Maryam hanyalah seorang Rasul. Sebelumnya pun sudah berlalu beberapa Rasul. Dan ibunya seorang yang berpegang teguh pada kebenaran. Keduanya biasa memakan makanan.[^289] Perhatikanlah bagaimana Kami menjelaskan ayat-ayat (tanda-tanda kekuasaan) kepada mereka (Ahli Kitab), kemudian perhatikanlah bagaimana mereka dipalingkan (oleh keinginan mereka).
 
-*289) Bahwa Nabi Isa -'alaihissalām- dan ibunya adalah manusia, yang memerlukan apa yang diperlukan manusia, seperi makan, minum dan sebagainya.
+[^289]: Bahwa Nabi Isa -'alaihissalām- dan ibunya adalah manusia, yang memerlukan apa yang diperlukan manusia, seperi makan, minum dan sebagainya.
 
 # 745
 
@@ -3514,21 +3636,31 @@ Wahai orang-orang yang beriman! Allah pasti akan menguji kamu dengan hewan burua
 
 # 764
 
-Wahai orang-orang yang beriman! Janganlah kamu membunuh hewan buruan,290) ketika kamu sedang ihram (haji atau umrah). Barang siapa di antara kamu membunuhnya dengan sengaja, maka dendanya ialah mengganti dengan hewan ternak yang sepadan dengan buruan yang dibunuhnya, menurut putusan dua orang yang adil di antara kamu sebagai hadyu yang dibawa ke Ka'bah,291) atau kafarat (membayar tebusan dengan) memberi makan kepada orang-orang miskin,292) atau berpuasa, seimbang dengan makanan yang dikeluarkan itu,293) agar dia merasakan akibat buruk dari perbuatannya. Allah telah memaafkan apa yang telah lalu.294) Dan barang siapa kembali mengerjakannya, niscaya Allah akan menyiksanya. Dan Allah Mahaperkasa, memiliki (kekuasaan untuk) menyiksa.
+Wahai orang-orang yang beriman! Janganlah kamu membunuh hewan buruan,[^290] ketika kamu sedang ihram (haji atau umrah). Barang siapa di antara kamu membunuhnya dengan sengaja, maka dendanya ialah mengganti dengan hewan ternak yang sepadan dengan buruan yang dibunuhnya, menurut putusan dua orang yang adil di antara kamu sebagai hadyu yang dibawa ke Ka'bah,[^291] atau kafarat (membayar tebusan dengan) memberi makan kepada orang-orang miskin,[^292] atau berpuasa, seimbang dengan makanan yang dikeluarkan itu,[^293] agar dia merasakan akibat buruk dari perbuatannya. Allah telah memaafkan apa yang telah lalu.[^294] Dan barang siapa kembali mengerjakannya, niscaya Allah akan menyiksanya. Dan Allah Mahaperkasa, memiliki (kekuasaan untuk) menyiksa.
 
-*290) Hewan buruan, baik yang boleh dimakan atau tidak, kecuali burung gagak, burung elang, kalajengking, tikus dan anjing buas. Dalam suatu riwayat termasuk juga ular. 291) Yang dibawa sampai ke daerah haram untuk disembelih di sana dan dagingnya dibagikan kepada fakir miskin. 292) Sepadan dengan harga hewan ternak pengganti hewan yang dibunuh itu. 293) Puasa yang jumlah harinya sebanyak mud yang diberikan kepada fakir miskin, seharga hewan yang dibunuh dengan catatan, seorang fakir miskin mendapat satu mud (lebih kurang 6,5 ons). 294) Membunuh hewan sebelum turun ayat yang mengharamkan ini.
+[^290]: Hewan buruan, baik yang boleh dimakan atau tidak, kecuali burung gagak, burung elang, kalajengking, tikus dan anjing buas. Dalam suatu riwayat termasuk juga ular
+
+[^291]: Yang dibawa sampai ke daerah haram untuk disembelih di sana dan dagingnya dibagikan kepada fakir miskin
+
+[^292]: Sepadan dengan harga hewan ternak pengganti hewan yang dibunuh itu
+
+[^293]: Puasa yang jumlah harinya sebanyak mud yang diberikan kepada fakir miskin, seharga hewan yang dibunuh dengan catatan, seorang fakir miskin mendapat satu mud (lebih kurang 6,5 ons)
+
+[^294]: Membunuh hewan sebelum turun ayat yang mengharamkan ini.
 
 # 765
 
-Dihalalkan bagimu hewan buruan laut295) dan makanan (yang berasal) dari laut296) sebagai makanan yang lezat bagimu, dan bagi orang-orang yang dalam perjalanan; dan diharamkan atasmu (menangkap) hewan darat, selama kamu sedang ihram. Dan bertakwalah kepada Allah yang kepada-Nya kamu akan dikumpulkan (kembali).
+Dihalalkan bagimu hewan buruan laut[^295] dan makanan (yang berasal) dari laut[^296] sebagai makanan yang lezat bagimu, dan bagi orang-orang yang dalam perjalanan; dan diharamkan atasmu (menangkap) hewan darat, selama kamu sedang ihram. Dan bertakwalah kepada Allah yang kepada-Nya kamu akan dikumpulkan (kembali).
 
-*295) Hewan buruan laut yang diperoleh dengan jalan usaha seperti mengail, memukat dan sebagainya. Termasuk juga dalam pengertian laut di sini ialah sungai, danau, kolam dan sebagainya. 296) Ikan atau hewan laut yang diperoleh dengan mudah, karena telah mati terapung atau tedampar di pantai dan sebagainya.
+[^295]: Hewan buruan laut yang diperoleh dengan jalan usaha seperti mengail, memukat dan sebagainya. Termasuk juga dalam pengertian laut di sini ialah sungai, danau, kolam dan sebagainya
+
+[^296]: Ikan atau hewan laut yang diperoleh dengan mudah, karena telah mati terapung atau tedampar di pantai dan sebagainya.
 
 # 766
 
-Allah telah menjadikan Ka'bah, rumah suci tempat manusia berkumpul.297) Demikian pula bulan haram, hadyu dan qalā`id. Yang demikian itu agar kamu mengetahui, bahwa Allah mengetahui apa yang ada di langit dan apa yang ada di bumi dan bahwa Allah Maha Mengetahui segala sesuatu.
+Allah telah menjadikan Ka'bah, rumah suci tempat manusia berkumpul.[^297] Demikian pula bulan haram, hadyu dan qalā`id. Yang demikian itu agar kamu mengetahui, bahwa Allah mengetahui apa yang ada di langit dan apa yang ada di bumi dan bahwa Allah Maha Mengetahui segala sesuatu.
 
-*297) Ka'bah dan sekitarnya menjadi tempat yang aman bagi manusia untuk mengerjakan urusan-urusan yang berhubungan dengan dunia dan akhirat, dan pusat ibadah haji.
+[^297]: Ka'bah dan sekitarnya menjadi tempat yang aman bagi manusia untuk mengerjakan urusan-urusan yang berhubungan dengan dunia dan akhirat, dan pusat ibadah haji.
 
 # 767
 
@@ -3552,9 +3684,15 @@ Sesungguhnya sebelum kamu telah ada segolongan manusia yang menanyakan hal-hal s
 
 # 772
 
-Allah tidak pernah mensyariatkan adanya Baḥīrah,298) Sā`ibah,299) Waṣīlah300) dan Ḥām.301) Tetapi orang-orang kafir membuat-buat kedustaan terhadap Allah, dan kebanyakan mereka tidak mengerti.
+Allah tidak pernah mensyariatkan adanya Baḥīrah,[^298] Sā`ibah,[^299] Waṣīlah[^300] dan Ḥām.[^301] Tetapi orang-orang kafir membuat-buat kedustaan terhadap Allah, dan kebanyakan mereka tidak mengerti.
 
-*298) Baḥīrah: Unta betina yang telah beranak lima kali dan anak yang kelima itu jantan, lalu unta betina itu dibelah telinganya, dilepaskan, tidak boleh ditunggangi lagi dan tidak boleh diambil air susunya. 299) Sā`ibah: Unta betina yang dibiarkan pergi ke mana saja lantaran suatu nazar. Seperti, jika seorang Arab Jahiliah akan melakukan sesuatu atau perjalanan yang berat, maka dia biasa bernazar akan menjadikan untanya Sā`ibah apabila maksud atau perjalanannya berhasil dan selamat. 300) Waṣīlah: Seekor domba betina melahirkan anak kembar yang terdiri dari jantan dan betina, maka yang jantan ini disebut Waṣīlah, tidak boleh disembelih dan diserahkan kepada berhala. 301) Ḥām: Unta jantan yang tidak boleh diganggu gugat lagi, karena telah dapat membuntingkan unta betina sepuluh kali. Perlakuan terhadap Baḥīrah, Sā`ibah, Waṣīlah dan Ḥām ini adalah kepercayaan Arab Jahiliah.
+[^298]: Baḥīrah: Unta betina yang telah beranak lima kali dan anak yang kelima itu jantan, lalu unta betina itu dibelah telinganya, dilepaskan, tidak boleh ditunggangi lagi dan tidak boleh diambil air susunya
+
+[^299]: Sā`ibah: Unta betina yang dibiarkan pergi ke mana saja lantaran suatu nazar. Seperti, jika seorang Arab Jahiliah akan melakukan sesuatu atau perjalanan yang berat, maka dia biasa bernazar akan menjadikan untanya Sā`ibah apabila maksud atau perjalanannya berhasil dan selamat
+
+[^300]: Waṣīlah: Seekor domba betina melahirkan anak kembar yang terdiri dari jantan dan betina, maka yang jantan ini disebut Waṣīlah, tidak boleh disembelih dan diserahkan kepada berhala
+
+[^301]: Ḥām: Unta jantan yang tidak boleh diganggu gugat lagi, karena telah dapat membuntingkan unta betina sepuluh kali. Perlakuan terhadap Baḥīrah, Sā`ibah, Waṣīlah dan Ḥām ini adalah kepercayaan Arab Jahiliah.
 
 # 773
 
@@ -3570,15 +3708,15 @@ Wahai orang-orang yang beriman! Apabila salah seorang (di antara) kamu menghadap
 
 # 776
 
-Jika terbukti kedua saksi itu berbuat dosa,302) maka dua orang yang lain menggantikan kedudukannya, yaitu di antara ahli waris yang berhak dan lebih dekat kepada orang yang mati, lalu keduanya bersumpah dengan nama Allah, "Sungguh, kesaksian kami lebih layak diterima daripada kesaksian kedua saksi itu, dan kami tidak melanggar batas. Sesungguhnya jika kami berbuat demikian tentu kami termasuk orang-orang zalim."
+Jika terbukti kedua saksi itu berbuat dosa,[^302] maka dua orang yang lain menggantikan kedudukannya, yaitu di antara ahli waris yang berhak dan lebih dekat kepada orang yang mati, lalu keduanya bersumpah dengan nama Allah, "Sungguh, kesaksian kami lebih layak diterima daripada kesaksian kedua saksi itu, dan kami tidak melanggar batas. Sesungguhnya jika kami berbuat demikian tentu kami termasuk orang-orang zalim."
 
-*302) Melakukan kecurangan dalam persaksiannya, dan hal ini diketahui setelah dia melakukan sumpah.
+[^302]: Melakukan kecurangan dalam persaksiannya, dan hal ini diketahui setelah dia melakukan sumpah.
 
 # 777
 
-Dengan cara itu mereka lebih patut memberikan kesaksiannya menurut yang sebenarnya, dan mereka merasa takut akan dikembalikan sumpahnya (kepada ahli waris) setelah mereka bersumpah.303) Bertakwalah kepada Allah dan dengarkanlah (perintah-Nya). Dan Allah tidak memberi petunjuk kepada orang-orang yang fasik.
+Dengan cara itu mereka lebih patut memberikan kesaksiannya menurut yang sebenarnya, dan mereka merasa takut akan dikembalikan sumpahnya (kepada ahli waris) setelah mereka bersumpah.[^303] Bertakwalah kepada Allah dan dengarkanlah (perintah-Nya). Dan Allah tidak memberi petunjuk kepada orang-orang yang fasik.
 
-*303) Sumpah itu dikembalikan, maksudnya sumpah saksi-saksi yang berlainan agama itu ditolak dengan bersumpahnya saksi-saksi yang terdiri dari kerabat, atau berarti orang-orang yang bersumpah itu akan mendapat balasan di dunia dan akhirat, karena melakukan sumpah palsu.
+[^303]: Sumpah itu dikembalikan, maksudnya sumpah saksi-saksi yang berlainan agama itu ditolak dengan bersumpahnya saksi-saksi yang terdiri dari kerabat, atau berarti orang-orang yang bersumpah itu akan mendapat balasan di dunia dan akhirat, karena melakukan sumpah palsu.
 
 # 778
 
@@ -3642,9 +3780,9 @@ Dan Dialah Allah (yang disembah), di langit maupun di bumi; Dia mengetahui apa y
 
 # 793
 
-Dan setiap ayat dari ayat-ayat304) Tuhan yang sampai kepada mereka (orang kafir), semuanya selalu diingkarinya.
+Dan setiap ayat dari ayat-ayat[^304] Tuhan yang sampai kepada mereka (orang kafir), semuanya selalu diingkarinya.
 
-*304) “Ayat” di sini berarti mukjizat atau ayat Al-Qur`an atau peristiwa-peristiwa yang terjadi dalam alam yang menunjukkan kekuasaan Allah.
+[^304]: “Ayat” di sini berarti mukjizat atau ayat Al-Qur`an atau peristiwa-peristiwa yang terjadi dalam alam yang menunjukkan kekuasaan Allah.
 
 # 794
 
@@ -3660,15 +3798,17 @@ Dan sekiranya Kami turunkan kepadamu (Muhammad) tulisan di atas kertas, lalu mer
 
 # 797
 
-Dan mereka berkata, "Mengapa tidak diturunkan malaikat kepadanya (Muhammad)?"305) Jika Kami turunkan malaikat (kepadanya), tentu selesailah urusan itu,306) tetapi mereka tidak diberi penangguhan (sedikit pun).
+Dan mereka berkata, "Mengapa tidak diturunkan malaikat kepadanya (Muhammad)?"[^305] Jika Kami turunkan malaikat (kepadanya), tentu selesailah urusan itu,[^306] tetapi mereka tidak diberi penangguhan (sedikit pun).
 
-*305) Untuk menerangkan bahwa Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- itu seorang Nabi. 306) Kalau diturunkan kepada mereka malaikat, sedang mereka tidak beriman, tentulah mereka akan diazab oleh Allah, sehingga mereka binasa semuanya.
+[^305]: Untuk menerangkan bahwa Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- itu seorang Nabi
+
+[^306]: Kalau diturunkan kepada mereka malaikat, sedang mereka tidak beriman, tentulah mereka akan diazab oleh Allah, sehingga mereka binasa semuanya.
 
 # 798
 
-Dan sekiranya Rasul itu Kami jadikan (dari) malaikat, pastilah Kami jadikan dia (berwujud) laki-laki, dan (dengan demikian) pasti Kami akan menjadikan mereka tetap ragu sebagaimana kini mereka ragu.307)
+Dan sekiranya Rasul itu Kami jadikan (dari) malaikat, pastilah Kami jadikan dia (berwujud) laki-laki, dan (dengan demikian) pasti Kami akan menjadikan mereka tetap ragu sebagaimana kini mereka ragu.[^307]
 
-*307) Kalau Allah mengutus malaikat sebagai rasul tentu Allah mengutusnya dalam bentuk manusia, karena manusia tidak dapat melihat malaikat dan tentu juga mereka akan berkata, "Ini bukanlah malaikat, hanya manusia sebagaimana kami juga." Jadi mereka akan tetap ragu-ragu.
+[^307]: Kalau Allah mengutus malaikat sebagai rasul tentu Allah mengutusnya dalam bentuk manusia, karena manusia tidak dapat melihat malaikat dan tentu juga mereka akan berkata, "Ini bukanlah malaikat, hanya manusia sebagaimana kami juga." Jadi mereka akan tetap ragu-ragu.
 
 # 799
 
@@ -3680,9 +3820,9 @@ Katakanlah (Muhammad), "Jelajahilah bumi, kemudian perhatikanlah bagaimana kesud
 
 # 801
 
-Katakanlah (Muhammad), "Milik siapakah apa yang di langit dan di bumi?" Katakanlah, "Milik Allah." Dia telah menetapkan (sifat) kasih sayang pada diri-Nya.308) Dia sungguh akan mengumpulkan kamu pada hari Kiamat yang tidak diragukan lagi. Orang-orang yang merugikan dirinya, mereka itu tidak beriman.
+Katakanlah (Muhammad), "Milik siapakah apa yang di langit dan di bumi?" Katakanlah, "Milik Allah." Dia telah menetapkan (sifat) kasih sayang pada diri-Nya.[^308] Dia sungguh akan mengumpulkan kamu pada hari Kiamat yang tidak diragukan lagi. Orang-orang yang merugikan dirinya, mereka itu tidak beriman.
 
-*308) Allah telah berjanji, sebagai kemurahan dari-Nya akan melimpahkan rahmat kepada makhluk-Nya.
+[^308]: Allah telah berjanji, sebagai kemurahan dari-Nya akan melimpahkan rahmat kepada makhluk-Nya.
 
 # 802
 
@@ -3786,9 +3926,9 @@ Dan mereka (orang-orang musyrik) berkata, "Mengapa tidak diturunkan kepadanya (M
 
 # 827
 
-Dan tidak ada seekor binatang pun yang ada di bumi dan burung-burung yang terbang dengan kedua sayapnya, melainkan semuanya merupakan umat-umat (juga) seperti kamu. Tidak ada sesuatu pun yang Kami luputkan di dalam Kitab,309) kemudian kepada Tuhan mereka dikumpulkan.
+Dan tidak ada seekor binatang pun yang ada di bumi dan burung-burung yang terbang dengan kedua sayapnya, melainkan semuanya merupakan umat-umat (juga) seperti kamu. Tidak ada sesuatu pun yang Kami luputkan di dalam Kitab,[^309] kemudian kepada Tuhan mereka dikumpulkan.
 
-*309) Sebagian mufasir menafsirkan Kitab itu dengan Lauh Mahfuz yang berarti bahwa nasib semua mahluk itu sudah dituliskan (ditetapkan) dalam Lauh Mahfuz. Dan ada pula yang menafsirkannya dengan Al-Qur`an, dengan arti dalam Al-Qur`anitu telah ada pokok-pokok agama, norma-norma, hukum-hukum, hikmah-hikmah dan tuntunan untuk kebahagiaan manusia di dunia dan akhirat.
+[^309]: Sebagian mufasir menafsirkan Kitab itu dengan Lauh Mahfuz yang berarti bahwa nasib semua mahluk itu sudah dituliskan (ditetapkan) dalam Lauh Mahfuz. Dan ada pula yang menafsirkannya dengan Al-Qur`an, dengan arti dalam Al-Qur`anitu telah ada pokok-pokok agama, norma-norma, hukum-hukum, hikmah-hikmah dan tuntunan untuk kebahagiaan manusia di dunia dan akhirat.
 
 # 828
 
@@ -3844,9 +3984,9 @@ Peringatkanlah dengannya (Al-Qur`an) itu orang yang takut akan dikumpulkan mengh
 
 # 841
 
-Janganlah engkau mengusir orang-orang yang menyeru Tuhannya di pagi hari dan petang hari, mereka mengharapkan keridaan-Nya. Engkau tidak memikul tanggung jawab sedikit pun terhadap perbuatan mereka dan mereka tidak memikul tanggung jawab sedikit pun terhadap perbuatanmu, yang menyebabkan engkau (berhak) mengusir mereka, sehingga engkau termasuk orang-orang yang zalim.310)
+Janganlah engkau mengusir orang-orang yang menyeru Tuhannya di pagi hari dan petang hari, mereka mengharapkan keridaan-Nya. Engkau tidak memikul tanggung jawab sedikit pun terhadap perbuatan mereka dan mereka tidak memikul tanggung jawab sedikit pun terhadap perbuatanmu, yang menyebabkan engkau (berhak) mengusir mereka, sehingga engkau termasuk orang-orang yang zalim.[^310]
 
-*310) Ketika Rasulullah -ṣallallāhu 'alaihi wa sallam- sedang duduk-duduk bersama beberapa orang mukmin yang dianggap rendah dan miskin oleh kaum Quraisy, datanglah beberapa pemuka Quraisy hendak berbicara dengan Rasulullah, tetapi mereka enggan duduk bersama dengan orang mukmin itu, dan mereka mengusulkan agar orang-orang mukmin itu diusir saja, sehingga mereka dapat berbicara dengan Rasulullah, lalu turunlah ayat ini.
+[^310]: Ketika Rasulullah -ṣallallāhu 'alaihi wa sallam- sedang duduk-duduk bersama beberapa orang mukmin yang dianggap rendah dan miskin oleh kaum Quraisy, datanglah beberapa pemuka Quraisy hendak berbicara dengan Rasulullah, tetapi mereka enggan duduk bersama dengan orang mukmin itu, dan mereka mengusulkan agar orang-orang mukmin itu diusir saja, sehingga mereka dapat berbicara dengan Rasulullah, lalu turunlah ayat ini.
 
 # 842
 
@@ -3870,9 +4010,9 @@ Katakanlah (Muhammad), "Aku (berada) di atas keterangan yang nyata (Al-Qur`an) d
 
 # 847
 
-Katakanlah (Muhammad) "Seandainya ada padaku apa (azab) yang kamu minta agar disegerakan kedatangannya, tentu selesailah segala perkara antara aku dan kamu."311) Dan Allah lebih mengetahui tentang orang-orang yang zalim.
+Katakanlah (Muhammad) "Seandainya ada padaku apa (azab) yang kamu minta agar disegerakan kedatangannya, tentu selesailah segala perkara antara aku dan kamu."[^311] Dan Allah lebih mengetahui tentang orang-orang yang zalim.
 
-*311) Tentu Allah menurunkan azab kepadamu sampai kamu binasa.
+[^311]: Tentu Allah menurunkan azab kepadamu sampai kamu binasa.
 
 # 848
 
@@ -3900,15 +4040,17 @@ Katakanlah (Muhammad), "Allah yang menyelamatkan kamu dari bencana itu dan dari 
 
 # 854
 
-Katakanlah (Muhammad), "Dialah yang berkuasa mengirimkan azab kepadamu, dari atas atau dari bawah kakimu312) atau Dia mencampurkan kamu dalam golongan-golongan (yang saling bertentangan) dan merasakan kepada sebagian kamu keganasan sebagian yang lain." Perhatikanlah, bagaimana Kami menjelaskan berulang-ulang tanda-tanda (kekuasaan Kami)313) agar mereka memahami (nya).
+Katakanlah (Muhammad), "Dialah yang berkuasa mengirimkan azab kepadamu, dari atas atau dari bawah kakimu[^312] atau Dia mencampurkan kamu dalam golongan-golongan (yang saling bertentangan) dan merasakan kepada sebagian kamu keganasan sebagian yang lain." Perhatikanlah, bagaimana Kami menjelaskan berulang-ulang tanda-tanda (kekuasaan Kami)[^313] agar mereka memahami (nya).
 
-*312) Azab yang datang dari atas seperti hujan batu, sambaran petir dan lain-lain. Yang datang dari bawah seperti gempa bumi, banjir dan sebagainya. 313) Allah -Subḥānahu wata'ālā- menjelaskan tanda-tanda kekuasaan-Nya dalam berbagai rupa dengan cara yang bervariasi. Ada pula mufasir yang mengartikan ayat di sini dengan ayat-ayat yang berupa peringatan, cerita-cerita, hukum dan lain-lain.
+[^312]: Azab yang datang dari atas seperti hujan batu, sambaran petir dan lain-lain. Yang datang dari bawah seperti gempa bumi, banjir dan sebagainya
+
+[^313]: Allah -Subḥānahu wata'ālā- menjelaskan tanda-tanda kekuasaan-Nya dalam berbagai rupa dengan cara yang bervariasi. Ada pula mufasir yang mengartikan ayat di sini dengan ayat-ayat yang berupa peringatan, cerita-cerita, hukum dan lain-lain.
 
 # 855
 
-Dan kaummu mendustakannya (azab)314) padahal (azab) itu benar adanya. Katakanlah (Muhammad), "Aku ini bukanlah penanggung jawab kamu."
+Dan kaummu mendustakannya (azab)[^314] padahal (azab) itu benar adanya. Katakanlah (Muhammad), "Aku ini bukanlah penanggung jawab kamu."
 
-*314) Sebagian mufasir mengatakan bahwa yang didustakan itu ialah Al-Qur`an.
+[^314]: Sebagian mufasir mengatakan bahwa yang didustakan itu ialah Al-Qur`an.
 
 # 856
 
@@ -3928,9 +4070,9 @@ Tinggalkanlah orang-orang yang menjadikan agamanya sebagai permainan dan senda g
 
 # 860
 
-Katakanlah (Muhammad), "Apakah kita akan memohon kepada sesuatu selain Allah, yang tidak dapat memberi manfaat dan tidak (pula) mendatangkan mudarat kepada kita, dan (apakah) kita akan dikembalikan ke belakang,315) setelah Allah memberi petunjuk kepada kita, seperti orang yang telah disesatkan oleh setan di bumi, dalam keadaan kebingungan." Kawan-kawannya mengajaknya ke jalan yang lurus (dengan mengatakan), "Ikutilah kami." Katakanlah, "Sesungguhnya petunjuk Allah itulah petunjuk (yang sebenarnya); dan kita diperintahkan agar berserah diri kepada Tuhan seluruh alam,
+Katakanlah (Muhammad), "Apakah kita akan memohon kepada sesuatu selain Allah, yang tidak dapat memberi manfaat dan tidak (pula) mendatangkan mudarat kepada kita, dan (apakah) kita akan dikembalikan ke belakang,[^315] setelah Allah memberi petunjuk kepada kita, seperti orang yang telah disesatkan oleh setan di bumi, dalam keadaan kebingungan." Kawan-kawannya mengajaknya ke jalan yang lurus (dengan mengatakan), "Ikutilah kami." Katakanlah, "Sesungguhnya petunjuk Allah itulah petunjuk (yang sebenarnya); dan kita diperintahkan agar berserah diri kepada Tuhan seluruh alam,
 
-*315) Maksudnya adalah syirik.
+[^315]: Maksudnya adalah syirik.
 
 # 861
 
@@ -3942,9 +4084,9 @@ Dialah yang menciptakan langit dan bumi dengan hak (benar), ketika Dia berkata, 
 
 # 863
 
-Dan (ingatlah) ketika Ibrahim berkata kepada ayahnya Azar,316) "Pantaskah engkau menjadikan berhala-berhala itu sebagai tuhan? Sesungguhnya aku melihat engkau dan kaummu dalam kesesatan yang nyata."
+Dan (ingatlah) ketika Ibrahim berkata kepada ayahnya Azar,[^316] "Pantaskah engkau menjadikan berhala-berhala itu sebagai tuhan? Sesungguhnya aku melihat engkau dan kaummu dalam kesesatan yang nyata."
 
-*316) Di antara mufasir ada yang berpendapat bahwa yang dimaksud dengan Abīhi (ayahnya) ialah “pamannya”.
+[^316]: Di antara mufasir ada yang berpendapat bahwa yang dimaksud dengan Abīhi (ayahnya) ialah “pamannya”.
 
 # 864
 
@@ -3972,9 +4114,9 @@ Dan kaumnya membantahnya. Dia (Ibrahim) berkata, "Apakah kamu hendak membantahku
 
 # 870
 
-Bagaimana aku takut kepada apa yang kamu persekutukan (dengan Allah), padahal kamu tidak takut dengan apa yang Allah sendiri tidak menurunkan keterangan kepadamu untuk mempersekutukan-Nya. Manakah dari kedua golongan itu yang lebih berhak mendapat keamanan (dari malapetaka), jika kamu mengetahui?"317)
+Bagaimana aku takut kepada apa yang kamu persekutukan (dengan Allah), padahal kamu tidak takut dengan apa yang Allah sendiri tidak menurunkan keterangan kepadamu untuk mempersekutukan-Nya. Manakah dari kedua golongan itu yang lebih berhak mendapat keamanan (dari malapetaka), jika kamu mengetahui?"[^317]
 
-*317) Setelah diperlihatkan Allah kepada Nabi Ibrahim -'alaihissalām- tanda-tanda keagungan-Nya dan dengan itu teguhlah imannya kepada Allah (ayat 75), maka Nabi Ibrahim -'alaihissalām- mengajak kaumnya kepada tauhid dengan mengikuti alam pikiran mereka.
+[^317]: Setelah diperlihatkan Allah kepada Nabi Ibrahim -'alaihissalām- tanda-tanda keagungan-Nya dan dengan itu teguhlah imannya kepada Allah (ayat 75), maka Nabi Ibrahim -'alaihissalām- mengajak kaumnya kepada tauhid dengan mengikuti alam pikiran mereka.
 
 # 871
 
@@ -4014,9 +4156,9 @@ Mereka itulah (para nabi) yang telah diberi petunjuk oleh Allah, maka ikutlah pe
 
 # 880
 
-Mereka tidak mengagungkan Allah sebagaimana mestinya ketika mereka berkata, "Allah tidak menurunkan sesuatu pun kepada manusia." Katakanlah (Muhammad) "Siapakah yang menurunkan kitab (Taurat) yang dibawa Musa sebagai cahaya dan petunjuk bagi manusia, kamu jadikan Kitab itu lembaran-lembaran kertas yang bercerai-berai, kamu memperlihatkan (sebagiannya) dan banyak yang kamu sembunyikan, padahal telah diajarkan kepadamu apa yang tidak diketahui, baik olehmu maupun oleh nenek moyangmu." Katakanlah, "Allahlah (yang menurunkannya)," kemudian (setelah itu), biarkanlah mereka bermain-main dalam kesesatannya.318)
+Mereka tidak mengagungkan Allah sebagaimana mestinya ketika mereka berkata, "Allah tidak menurunkan sesuatu pun kepada manusia." Katakanlah (Muhammad) "Siapakah yang menurunkan kitab (Taurat) yang dibawa Musa sebagai cahaya dan petunjuk bagi manusia, kamu jadikan Kitab itu lembaran-lembaran kertas yang bercerai-berai, kamu memperlihatkan (sebagiannya) dan banyak yang kamu sembunyikan, padahal telah diajarkan kepadamu apa yang tidak diketahui, baik olehmu maupun oleh nenek moyangmu." Katakanlah, "Allahlah (yang menurunkannya)," kemudian (setelah itu), biarkanlah mereka bermain-main dalam kesesatannya.[^318]
 
-*318) Sebagai sindiran kepada mereka seakan-akan mereka dipandang sebagai kanak-kanak yang belum berakal.
+[^318]: Sebagai sindiran kepada mereka seakan-akan mereka dipandang sebagai kanak-kanak yang belum berakal.
 
 # 881
 
@@ -4044,9 +4186,9 @@ Dan Dialah yang menjadikan bintang-bintang bagimu, agar kamu menjadikannya petun
 
 # 887
 
-Dan Dialah yang menciptakan kamu dari diri yang satu (Adam), maka (bagimu) ada tempat menetap dan tempat simpanan.319) Sesungguhnya telah Kami jelaskan tanda-tanda (kebesaran Kami) kepada orang-orang yang mengetahui.
+Dan Dialah yang menciptakan kamu dari diri yang satu (Adam), maka (bagimu) ada tempat menetap dan tempat simpanan.[^319] Sesungguhnya telah Kami jelaskan tanda-tanda (kebesaran Kami) kepada orang-orang yang mengetahui.
 
-*319) Di antara mufasir ada yang berpendapat bahwa yang dimaksud "tempat menetap" ialah tulang sulbi bapak dan "tempat simpanan" ialah rahim ibu. Dan ada pula yang berpendapat bahwa tempat menetap ialah di atas bumi waktu manusia masih hidup dan tempat simpanan ialah di dalam bumi (kubur) waktu manusia telah mati.
+[^319]: Di antara mufasir ada yang berpendapat bahwa yang dimaksud "tempat menetap" ialah tulang sulbi bapak dan "tempat simpanan" ialah rahim ibu. Dan ada pula yang berpendapat bahwa tempat menetap ialah di atas bumi waktu manusia masih hidup dan tempat simpanan ialah di dalam bumi (kubur) waktu manusia telah mati.
 
 # 888
 
@@ -4054,9 +4196,9 @@ Dan Dialah yang menurunkan air dari langit, lalu Kami tumbuhkan dengan air itu s
 
 # 889
 
-Dan mereka (orang-orang musyrik) menjadikan Jin itu sekutu-sekutu Allah, padahal Dia yang menciptakannya (jin-jin itu), dan mereka berbohong (dengan mengatakan), "Allah mempunyai anak laki-laki dan anak perempuan," tanpa (dasar) pengetahuan.320) Maha Suci Allah dan Mahatinggi dari sifat-sifat yang mereka gambarkan.
+Dan mereka (orang-orang musyrik) menjadikan Jin itu sekutu-sekutu Allah, padahal Dia yang menciptakannya (jin-jin itu), dan mereka berbohong (dengan mengatakan), "Allah mempunyai anak laki-laki dan anak perempuan," tanpa (dasar) pengetahuan.[^320] Maha Suci Allah dan Mahatinggi dari sifat-sifat yang mereka gambarkan.
 
-*320) Mereka mengatakan bahwa Allah mempunyai anak seperti orang Yahudi mengatakan 'Uzair putera Allah, dan orang-orang musyrikin mengatakan malaikat anak-anak perempuan Allah. Mereka mengatakan demikian karena kebodohannya.
+[^320]: Mereka mengatakan bahwa Allah mempunyai anak seperti orang Yahudi mengatakan 'Uzair putera Allah, dan orang-orang musyrikin mengatakan malaikat anak-anak perempuan Allah. Mereka mengatakan demikian karena kebodohannya.
 
 # 890
 
@@ -4072,9 +4214,9 @@ Dia tidak dapat dicapai oleh penglihatan mata, sedang Dia dapat melihat segala p
 
 # 893
 
-Sungguh, bukti-bukti yang nyata telah datang dari Tuhanmu. Barang siapa melihat (kebenaran itu),321) maka (manfaatnya) bagi dirinya sendiri; dan barang siapa buta (tidak melihat kebenaran itu), maka dialah yang rugi. Dan aku (Muhammad) bukanlah penjaga(mu).
+Sungguh, bukti-bukti yang nyata telah datang dari Tuhanmu. Barang siapa melihat (kebenaran itu),[^321] maka (manfaatnya) bagi dirinya sendiri; dan barang siapa buta (tidak melihat kebenaran itu), maka dialah yang rugi. Dan aku (Muhammad) bukanlah penjaga(mu).
 
-*321) Barang siapa mengetahui kebenaran dan mengerjakan kebajikan, serta memperoleh petunjuk, maka dia telah mencapai puncak kebahagian.
+[^321]: Barang siapa mengetahui kebenaran dan mengerjakan kebajikan, serta memperoleh petunjuk, maka dia telah mencapai puncak kebahagian.
 
 # 894
 
@@ -4094,9 +4236,9 @@ Dan Janganlah kamu memaki sesembahan yang mereka sembah selain Allah, karena mer
 
 # 898
 
-Dan Mereka bersumpah atas nama Allah dengan segala kesungguhan, bahwa jika datang suatu mukjizat kepada mereka, pastilah mereka akan beriman kepada-Nya. Katakanlah, "mukjizat-mukjizat itu hanya ada pada sisi Allah." Dan tahukah kamu, bahwa apabila mukjizat (ayat-ayat) datang, mereka tidak juga akan beriman.322)
+Dan Mereka bersumpah atas nama Allah dengan segala kesungguhan, bahwa jika datang suatu mukjizat kepada mereka, pastilah mereka akan beriman kepada-Nya. Katakanlah, "mukjizat-mukjizat itu hanya ada pada sisi Allah." Dan tahukah kamu, bahwa apabila mukjizat (ayat-ayat) datang, mereka tidak juga akan beriman.[^322]
 
-*322) Orang musyrik bersumpah bahwa kalau datang dari Allah mukjizat mereka akan beriman, karena itu orang mukmin mengharap kepada Nabi agar Allah menurunkan mukjizat yang dimaksud. Maka Allah menolak pengharapan orang-orang mukmin itu dengan ayat ini.
+[^322]: Orang musyrik bersumpah bahwa kalau datang dari Allah mukjizat mereka akan beriman, karena itu orang mukmin mengharap kepada Nabi agar Allah menurunkan mukjizat yang dimaksud. Maka Allah menolak pengharapan orang-orang mukmin itu dengan ayat ini.
 
 # 899
 
@@ -4152,9 +4294,9 @@ Dan apakah orang yang sudah mati lalu Kami hidupkan dan Kami beri dia cahaya yan
 
 # 912
 
-Dan demikianlah pada setiap negeri Kami jadikan pembesar-pembesar yang jahat323) agar melakukan tipu daya di negeri itu. Tapi mereka hanya menipu diri sendiri tanpa menyadarinya.
+Dan demikianlah pada setiap negeri Kami jadikan pembesar-pembesar yang jahat[^323] agar melakukan tipu daya di negeri itu. Tapi mereka hanya menipu diri sendiri tanpa menyadarinya.
 
-*323) Menurut sebagian mufasir, Akābira mujrimīhā artinya ialah para penjahat-penjahat besar.
+[^323]: Menurut sebagian mufasir, Akābira mujrimīhā artinya ialah para penjahat-penjahat besar.
 
 # 913
 
@@ -4174,9 +4316,9 @@ Bagi mereka (disediakan) tempat yang damai (surga) di sisi Tuhannya. Dan Dialah 
 
 # 917
 
-Dan (ingatlah) pada hari ketika Dia mengumpulkan mereka semua (dan Allah berfirman), "Wahai golongan jin! Kamu telah banyak (menyesatkan) manusia." Dan kawan-kawan mereka dari golongan manusia berkata, "Ya Tuhan, kami telah saling mendapatkan kesenangan324) dan sekarang waktu yang Engkau tentukan buat kami telah datang." Allah berfirman, "Nerakalah tempat kamu selama-lamanya, kecuali jika Allah menghendaki lain." Sungguh, Tuhanmu Mahabijaksana, Maha Mengetahui.
+Dan (ingatlah) pada hari ketika Dia mengumpulkan mereka semua (dan Allah berfirman), "Wahai golongan jin! Kamu telah banyak (menyesatkan) manusia." Dan kawan-kawan mereka dari golongan manusia berkata, "Ya Tuhan, kami telah saling mendapatkan kesenangan[^324] dan sekarang waktu yang Engkau tentukan buat kami telah datang." Allah berfirman, "Nerakalah tempat kamu selama-lamanya, kecuali jika Allah menghendaki lain." Sungguh, Tuhanmu Mahabijaksana, Maha Mengetahui.
 
-*324) Jin (setan) telah berhasil memperdayakan manusia dan mengikuti bisikannya, serta menikmati berbagai kenikmatan duniawi.
+[^324]: Jin (setan) telah berhasil memperdayakan manusia dan mengikuti bisikannya, serta menikmati berbagai kenikmatan duniawi.
 
 # 918
 
@@ -4208,15 +4350,15 @@ Katakanlah (Muhammad), "Wahai kaumku! Berbuatlah menurut kedudukanmu, akupun ber
 
 # 925
 
-Dan mereka menyediakan sebagian hasil tanaman dan hewan untuk Allah sambil berkata menurut persangkaan mereka, "Ini untuk Allah dan yang ini untuk berhala-berhala kami." Bagian yang untuk berhala-berhala mereka tidak akan sampai kepada Allah, dan bagian yang untuk Allah akan sampai kepada berhala-berhala mereka.325) Sangat buruk ketetapan mereka itu.
+Dan mereka menyediakan sebagian hasil tanaman dan hewan untuk Allah sambil berkata menurut persangkaan mereka, "Ini untuk Allah dan yang ini untuk berhala-berhala kami." Bagian yang untuk berhala-berhala mereka tidak akan sampai kepada Allah, dan bagian yang untuk Allah akan sampai kepada berhala-berhala mereka.[^325] Sangat buruk ketetapan mereka itu.
 
-*325) Diriwayatkan bahwa hasil tanaman dan hewan ternak yang mereka peruntukkan kepada Allah, mereka berikan kepada fakir miskin dan amal sosial bahkan kepada berhala. Sedangkan yang diperuntukkan bagi berhala-berhala, diberikan kepada penjaga-penjaga berhala tidak untuk fakir miskin atau amal sosial. Kebiasaan itu sangat dilaknat Allah.
+[^325]: Diriwayatkan bahwa hasil tanaman dan hewan ternak yang mereka peruntukkan kepada Allah, mereka berikan kepada fakir miskin dan amal sosial bahkan kepada berhala. Sedangkan yang diperuntukkan bagi berhala-berhala, diberikan kepada penjaga-penjaga berhala tidak untuk fakir miskin atau amal sosial. Kebiasaan itu sangat dilaknat Allah.
 
 # 926
 
-Dan demikianlah sekutu-sekutu (setan) mereka menjadikan tampak indah bagi kebanyakan orang-orang musyrik membunuh anak-anak mereka, untuk membinasakan mereka dan mengacaukan agama mereka sendiri.326) Dan kalau Allah menghendaki, niscaya mereka tidak akan mengerjakannya. Biarkanlah mereka bersama apa (kebohongan) yang mereka ada-adakan.
+Dan demikianlah sekutu-sekutu (setan) mereka menjadikan tampak indah bagi kebanyakan orang-orang musyrik membunuh anak-anak mereka, untuk membinasakan mereka dan mengacaukan agama mereka sendiri.[^326] Dan kalau Allah menghendaki, niscaya mereka tidak akan mengerjakannya. Biarkanlah mereka bersama apa (kebohongan) yang mereka ada-adakan.
 
-*326) Sebagian orang Arab adalah penganut syariat Ibrahim. Nabi Ibrahim -'alaihissalām- pernah diperintah Allah mengurbankan anaknya Ismail. Kemudian pemimpin-pemimpin agama mereka mengaburkan pengertian berkurban itu, sehingga dapat menanamkan kepada pengikut-pengikutnya rasa memandang baik membunuh anak-anak mereka dengan alasan mendekatkan diri kepada Allah, padahal alasan yang sesungguhnya ialah karena takut miskin dan takut ternoda.
+[^326]: Sebagian orang Arab adalah penganut syariat Ibrahim. Nabi Ibrahim -'alaihissalām- pernah diperintah Allah mengurbankan anaknya Ismail. Kemudian pemimpin-pemimpin agama mereka mengaburkan pengertian berkurban itu, sehingga dapat menanamkan kepada pengikut-pengikutnya rasa memandang baik membunuh anak-anak mereka dengan alasan mendekatkan diri kepada Allah, padahal alasan yang sesungguhnya ialah karena takut miskin dan takut ternoda.
 
 # 927
 
@@ -4252,9 +4394,9 @@ Katakanlah, "Tidak kudapati di dalam apa yang diwahyukan kepadaku, sesuatu yang 
 
 # 935
 
-Dan untuk orang-orang Yahudi, Kami haramkan semua (hewan) yang berkuku,327) dan Kami haramkan untuk mereka lemak sapi dan domba, kecuali yang melekat di punggungnya, atau yang dalam isi perutnya, atau yang bercampur dengan tulang. Demikianlah Kami menghukum mereka karena kedurhakaannya. Dan sungguh, Kami Mahabenar.
+Dan untuk orang-orang Yahudi, Kami haramkan semua (hewan) yang berkuku,[^327] dan Kami haramkan untuk mereka lemak sapi dan domba, kecuali yang melekat di punggungnya, atau yang dalam isi perutnya, atau yang bercampur dengan tulang. Demikianlah Kami menghukum mereka karena kedurhakaannya. Dan sungguh, Kami Mahabenar.
 
-*327) Yang dimaksud dengan hewan berkuku di sini ialah hewan-hewan yang jari-jarinya tidak terpisah antara yang satu dengan yang lain, seperti: unta, itik, angsa, dan lain-lain. Sebagian mufasir mengartikan dengan hewan yang berkuku satu seperti: kuda, keledai dan lain-lain.
+[^327]: Yang dimaksud dengan hewan berkuku di sini ialah hewan-hewan yang jari-jarinya tidak terpisah antara yang satu dengan yang lain, seperti: unta, itik, angsa, dan lain-lain. Sebagian mufasir mengartikan dengan hewan yang berkuku satu seperti: kuda, keledai dan lain-lain.
 
 # 936
 
@@ -4274,9 +4416,9 @@ Katakanlah (Muhammad), "Bawalah saksi-saksimu yang dapat membuktikan bahwa Allah
 
 # 940
 
-Katakanlah (Muhammad), "Marilah aku bacakan apa yang diharamkan Tuhan kepadamu. Jangan mempersekutukan-Nya dengan apa pun, berbuat baik kepada ibu bapak, janganlah membunuh anak-anakmu karena miskin. Kamilah yang memberi rezeki kepadamu dan kepada mereka; janganlah kamu mendekati perbuatan keji, baik yang terlihat ataupun yang tersembunyi, janganlah kamu membunuh orang yang diharamkan Allah kecuali dengan alasan yang benar.328) Demikianlah Dia memerintahkan kepadamu agar kamu mengerti.
+Katakanlah (Muhammad), "Marilah aku bacakan apa yang diharamkan Tuhan kepadamu. Jangan mempersekutukan-Nya dengan apa pun, berbuat baik kepada ibu bapak, janganlah membunuh anak-anakmu karena miskin. Kamilah yang memberi rezeki kepadamu dan kepada mereka; janganlah kamu mendekati perbuatan keji, baik yang terlihat ataupun yang tersembunyi, janganlah kamu membunuh orang yang diharamkan Allah kecuali dengan alasan yang benar.[^328] Demikianlah Dia memerintahkan kepadamu agar kamu mengerti.
 
-*328) Yang dibenarkan oleh syariat seperti kisas, membunuh orang murtad, rajam dan sebagainya.
+[^328]: Yang dibenarkan oleh syariat seperti kisas, membunuh orang murtad, rajam dan sebagainya.
 
 # 941
 
@@ -4444,9 +4586,9 @@ Wahai anak cucu Adam! Janganlah sampai kamu tertipu oleh setan sebagaimana halny
 
 # 982
 
-Dan apabila mereka melakukan perbuatan keji, mereka berkata, "Kami mendapati nenek moyang kami melakukan yang demikian, dan Allah menyuruh kami mengerjakannya." Katakanlah, "Sesungguhnya Allah tidak pernah menyuruh berbuat keji.329) Mengapa kamu membicarakan tentang Allah apa yang tidak kamu ketahui?"
+Dan apabila mereka melakukan perbuatan keji, mereka berkata, "Kami mendapati nenek moyang kami melakukan yang demikian, dan Allah menyuruh kami mengerjakannya." Katakanlah, "Sesungguhnya Allah tidak pernah menyuruh berbuat keji.[^329] Mengapa kamu membicarakan tentang Allah apa yang tidak kamu ketahui?"
 
-*329) Seperti syirik, tawaf bertelanjang disekeliling Ka'bah dan sebagainya.
+[^329]: Seperti syirik, tawaf bertelanjang disekeliling Ka'bah dan sebagainya.
 
 # 983
 
@@ -4462,9 +4604,9 @@ Wahai anak cucu Adam! Pakailah pakaianmu yang bagus setiap (memasuki) masjid, ma
 
 # 986
 
-Katakanlah (Muhammad), "Siapakah yang mengharamkan perhiasan dari Allah yang telah disediakan untuk hamba-hamba-Nya dan rezeki yang baik-baik? Katakanlah, "Semua itu untuk orang-orang yang beriman dalam kehidupan dunia, dan khusus (untuk mereka saja) pada hari kiamat.330) Demikianlah Kami menjelaskan ayat-ayat itu untuk orang-orang yang mengetahui.
+Katakanlah (Muhammad), "Siapakah yang mengharamkan perhiasan dari Allah yang telah disediakan untuk hamba-hamba-Nya dan rezeki yang baik-baik? Katakanlah, "Semua itu untuk orang-orang yang beriman dalam kehidupan dunia, dan khusus (untuk mereka saja) pada hari kiamat.[^330] Demikianlah Kami menjelaskan ayat-ayat itu untuk orang-orang yang mengetahui.
 
-*330) Perhiasan-perhiasan dari Allah dan makanan yang baik itu dapat dinikmati di dunia ini oleh orang yang beriman dan orang yang tidak beriman, sedang di akhirat nanti hanya untuk orang yang beriman saja.
+[^330]: Perhiasan-perhiasan dari Allah dan makanan yang baik itu dapat dinikmati di dunia ini oleh orang yang beriman dan orang yang tidak beriman, sedang di akhirat nanti hanya untuk orang yang beriman saja.
 
 # 987
 
@@ -4496,9 +4638,11 @@ Dan orang-orang yang (masuk) terlebih dahulu berkata kepada yang (masuk) belakan
 
 # 994
 
-Sesungguhnya orang-orang yang mendustakan ayat-ayat Kami dan menyombongkan diri terhadapnya, tidak akan dibukakan pintu-pintu langit bagi mereka,331) dan mereka tidak akan masuk surga, sebelum unta masuk ke dalam lubang jarum.332) Demikianlah Kami memberi balasan kepada orang-orang yang berbuat jahat.
+Sesungguhnya orang-orang yang mendustakan ayat-ayat Kami dan menyombongkan diri terhadapnya, tidak akan dibukakan pintu-pintu langit bagi mereka,[^331] dan mereka tidak akan masuk surga, sebelum unta masuk ke dalam lubang jarum.[^332] Demikianlah Kami memberi balasan kepada orang-orang yang berbuat jahat.
 
-*331) Artinya doa dan amal mereka tidak diterima oleh Allah. 332) Artinya mereka tidak mungkin masuk surga sebagaimana tidak mungkinnya unta masuk ke dalam lubang jarum.
+[^331]: Artinya doa dan amal mereka tidak diterima oleh Allah
+
+[^332]: Artinya mereka tidak mungkin masuk surga sebagaimana tidak mungkinnya unta masuk ke dalam lubang jarum.
 
 # 995
 
@@ -4554,9 +4698,9 @@ Tidakkah mereka hanya menanti-nanti bukti kebenaran (Al-Qur`an) itu. Pada hari b
 
 # 1008
 
-Sungguh, Tuhanmu (adalah) Allah yang menciptakan langit dan bumi dalam enam masa, lalu Dia bersemayam di atas Arasy.333) Dia menutupkan malam kepada siang yang mengikutinya dengan cepat. (Dia ciptakan) matahari, bulan dan bintang-bintang tunduk kepada perintah-Nya. Ingatlah! Segala penciptaan dan urusan menjadi hak-Nya. Mahasuci Allah, Tuhan seluruh alam.
+Sungguh, Tuhanmu (adalah) Allah yang menciptakan langit dan bumi dalam enam masa, lalu Dia bersemayam di atas Arasy.[^333] Dia menutupkan malam kepada siang yang mengikutinya dengan cepat. (Dia ciptakan) matahari, bulan dan bintang-bintang tunduk kepada perintah-Nya. Ingatlah! Segala penciptaan dan urusan menjadi hak-Nya. Mahasuci Allah, Tuhan seluruh alam.
 
-*333) Bersemayam di atas Arasy ialah satu sifat Allah yang wajib kita imani, sesuai dengan keagungan Allah dan kesucian-Nya.
+[^333]: Bersemayam di atas Arasy ialah satu sifat Allah yang wajib kita imani, sesuai dengan keagungan Allah dan kesucian-Nya.
 
 # 1009
 
@@ -4820,9 +4964,9 @@ Maka mereka dikalahkan di tempat itu dan jadilah mereka orang-orang yang hina.
 
 # 1074
 
-Dan para penyihir itu serta merta menjatuhkan diri dengan bersujud,334)
+Dan para penyihir itu serta merta menjatuhkan diri dengan bersujud,[^334]
 
-*334) Mereka langsung bersujud kepada Allah karena meyakini kebenaran seruan Nabi Musa -'alaihissalām- dan bukan sihir seperti yang mereka duga semula.
+[^334]: Mereka langsung bersujud kepada Allah karena meyakini kebenaran seruan Nabi Musa -'alaihissalām- dan bukan sihir seperti yang mereka duga semula.
 
 # 1075
 
@@ -4890,9 +5034,11 @@ Maka Kami hukum sebagian di antara mereka, lalu Kami tenggelamkan mereka di laut
 
 # 1091
 
-Dan Kami wariskan kepada kaum yang tertindas itu, bumi bagian timur dan bagian baratnya335) yang telah Kami berkahi. Dan telah sempurnalah firman Tuhanmu yang baik itu (sebagai janji) untuk Bani Israil disebabkan kesabaran mereka. Dan Kami hancurkan apa yang telah dibuat Fir'aun dan kaumnya dan apa yang telah mereka bangun.336)
+Dan Kami wariskan kepada kaum yang tertindas itu, bumi bagian timur dan bagian baratnya[^335] yang telah Kami berkahi. Dan telah sempurnalah firman Tuhanmu yang baik itu (sebagai janji) untuk Bani Israil disebabkan kesabaran mereka. Dan Kami hancurkan apa yang telah dibuat Fir'aun dan kaumnya dan apa yang telah mereka bangun.[^336]
 
-*335)Negeri Syam dan Mesir dan negeri-negeri sekitar keduanya yang pernah dikuasai Fir'aun dahulu, setelah kerajaan Fir'aun runtuh negeri-negeri itu diwarisi oleh Bani Israil. 336) Yang dimaksud dengan bangunan-bangunan Fir'aun yang dihancurkan Allah ialah bangunan-bangunan yang mereka dirikan dengan menindas Bani Israil, seperti kota Ramses, menara yang dibangun Haman atas perintah Fir'aun.
+[^335]: Negeri Syam dan Mesir dan negeri-negeri sekitar keduanya yang pernah dikuasai Fir'aun dahulu, setelah kerajaan Fir'aun runtuh negeri-negeri itu diwarisi oleh Bani Israil
+
+[^336]: Yang dimaksud dengan bangunan-bangunan Fir'aun yang dihancurkan Allah ialah bangunan-bangunan yang mereka dirikan dengan menindas Bani Israil, seperti kota Ramses, menara yang dibangun Haman atas perintah Fir'aun.
 
 # 1092
 
@@ -4916,9 +5062,9 @@ Dan Kami telah menjanjikan kepada Musa (memberikan Taurat) tiga puluh malam, dan
 
 # 1097
 
-Dan ketika Musa datang untuk (munajat) pada waktu yang telah Kami tentukan dan Tuhan telah berfirman (langsung) kepadanya, (Musa) berkata, "Ya Tuhanku, tampakkanlah (diri-Mu) kepadaku agar aku dapat melihat Engkau." (Allah) berfirman, "Engkau tidak akan (sanggup) melihat-Ku, namun lihatlah ke gunung itu, jika ia tetap di tempatnya (sebagai sediakala) niscaya engkau dapat melihat-Ku." Maka ketika Tuhannya menampakkan (keagungan-Nya) kepada gunung itu,337) gunung itu hancur luluh dan Musa pun jatuh pingsan. Setelah Musa sadar, dia berkata, " Mahasuci Engkau, aku bertobat kepada Engkau dan aku adalah orang yang pertama-tama beriman."
+Dan ketika Musa datang untuk (munajat) pada waktu yang telah Kami tentukan dan Tuhan telah berfirman (langsung) kepadanya, (Musa) berkata, "Ya Tuhanku, tampakkanlah (diri-Mu) kepadaku agar aku dapat melihat Engkau." (Allah) berfirman, "Engkau tidak akan (sanggup) melihat-Ku, namun lihatlah ke gunung itu, jika ia tetap di tempatnya (sebagai sediakala) niscaya engkau dapat melihat-Ku." Maka ketika Tuhannya menampakkan (keagungan-Nya) kepada gunung itu,[^337] gunung itu hancur luluh dan Musa pun jatuh pingsan. Setelah Musa sadar, dia berkata, " Mahasuci Engkau, aku bertobat kepada Engkau dan aku adalah orang yang pertama-tama beriman."
 
-*337) Para mufasir ada yang berpendapat, pengertiannya ialah kebesaran dan kekuasaan Allah, dan ada pula yang menafsirkan bahwa yang nampak itu adalah cahaya Allah. Bagaimanapun juga tampaknya Allah itu bukanlah seperti tampaknya makhluk, hanya tampak yang sesuai sifat-sifat Allah yang tidak dapat diukur dengan ukuran manusia.
+[^337]: Para mufasir ada yang berpendapat, pengertiannya ialah kebesaran dan kekuasaan Allah, dan ada pula yang menafsirkan bahwa yang nampak itu adalah cahaya Allah. Bagaimanapun juga tampaknya Allah itu bukanlah seperti tampaknya makhluk, hanya tampak yang sesuai sifat-sifat Allah yang tidak dapat diukur dengan ukuran manusia.
 
 # 1098
 
@@ -4926,9 +5072,13 @@ Dan ketika Musa datang untuk (munajat) pada waktu yang telah Kami tentukan dan T
 
 # 1099
 
-Dan telah Kami tuliskan untuk Musa pada lauh-lauh (Taurat)338) segala sesuatu sebagai pelajaran dan penjelasan untuk segala hal; maka (Kami berfirman), "Berpegangteguhlah kepadanya dan suruhlah kaummu berpegang kepadanya dan sebaik-baiknya,339) Aku akan memperlihatkan kepadamu negeri orang-orang fasik."340)
+Dan telah Kami tuliskan untuk Musa pada lauh-lauh (Taurat)[^338] segala sesuatu sebagai pelajaran dan penjelasan untuk segala hal; maka (Kami berfirman), "Berpegangteguhlah kepadanya dan suruhlah kaummu berpegang kepadanya dan sebaik-baiknya,[^339] Aku akan memperlihatkan kepadamu negeri orang-orang fasik."[^340]
 
-*338) Lauh ialah kepingan dari batu atau kayu yang tertulis isi Taurat yang diterima Nabi Musa -'alaihissalām- setelah munajat di Gunung Sinai. 339) Utamakanlah yang wajib-wajib dahulu dari yang sunah dan mubah. 340) Allah akan memperlihatkan negeri orang-orang fasik seperti Fir'aun, 'Ād, Samud dan sebagainya yang hancur bersama mereka akibat akhir kejahatan dan kefasikan mereka.
+[^338]: Lauh ialah kepingan dari batu atau kayu yang tertulis isi Taurat yang diterima Nabi Musa -'alaihissalām- setelah munajat di Gunung Sinai
+
+[^339]: Utamakanlah yang wajib-wajib dahulu dari yang sunah dan mubah
+
+[^340]: Allah akan memperlihatkan negeri orang-orang fasik seperti Fir'aun, 'Ād, Samud dan sebagainya yang hancur bersama mereka akibat akhir kejahatan dan kefasikan mereka.
 
 # 1100
 
@@ -4940,9 +5090,9 @@ Dan orang-orang yang mendustakan tanda-tanda (kekuasaan) Kami dan (mendustakan) 
 
 # 1102
 
-Dan kaum Musa, setelah kepergian (Musa ke Gunung Sinai), mereka membuat patung anak sapi yang bertubuh dan dapat melenguh (bersuara) dari perhiasan (emas).341) Apakah mereka tidak mengetahui bahwa (patung) anak sapi itu tidak dapat berbicara dengan mereka dan tidak dapat (pula) menunjukkan jalan kepada mereka? Mereka menjadikannya (sebagai sembahan). Mereka adalah orang-orang yang zalim.
+Dan kaum Musa, setelah kepergian (Musa ke Gunung Sinai), mereka membuat patung anak sapi yang bertubuh dan dapat melenguh (bersuara) dari perhiasan (emas).[^341] Apakah mereka tidak mengetahui bahwa (patung) anak sapi itu tidak dapat berbicara dengan mereka dan tidak dapat (pula) menunjukkan jalan kepada mereka? Mereka menjadikannya (sebagai sembahan). Mereka adalah orang-orang yang zalim.
 
-*341) Mereka membuat patung anak sapi dari emas. Para mufasir berpendapat bahwa patung itu tetap patung tidak bernyawa. Suara yang seperti sapi itu hanyalah disebabkan oleh angin yang masuk ke dalam rongga patung itu dengan teknik yang dikenal oleh Samiri waktu itu. Dan sebagian mufasir ada yang menafsirkan bahwa patung yang dibuat itu kemudian menjadi tubuh yang bernyawa dan mempunyai suara sapi.
+[^341]: Mereka membuat patung anak sapi dari emas. Para mufasir berpendapat bahwa patung itu tetap patung tidak bernyawa. Suara yang seperti sapi itu hanyalah disebabkan oleh angin yang masuk ke dalam rongga patung itu dengan teknik yang dikenal oleh Samiri waktu itu. Dan sebagian mufasir ada yang menafsirkan bahwa patung yang dibuat itu kemudian menjadi tubuh yang bernyawa dan mempunyai suara sapi.
 
 # 1103
 
@@ -4950,9 +5100,9 @@ Dan setelah mereka menyesali perbuatannya dan mengetahui bahwa telah sesat, mere
 
 # 1104
 
-Dan ketika Musa telah kembali kepada kaumnya, dengan marah dan sedih hati dia berkata, "Alangkah buruknya perbuatan yang kamu kerjakan selama kepergianku! Apakah kamu hendak mendahului janji Tuhanmu?"342) Musa pun melemparkan lauh-lauh (Taurat) itu dan memegang kepala saudaranya (Harun) sambil menarik ke arahnya. (Harun) berkata, "Wahai anak ibuku! Kaum ini telah menganggapku lemah dan hampir saja mereka membunuhku, sebab itu janganlah engkau menjadikan musuh-musuh bergembira melihat kemalanganku, dan janganlah engkau jadikan aku sebagai orang-orang yang zalim."
+Dan ketika Musa telah kembali kepada kaumnya, dengan marah dan sedih hati dia berkata, "Alangkah buruknya perbuatan yang kamu kerjakan selama kepergianku! Apakah kamu hendak mendahului janji Tuhanmu?"[^342] Musa pun melemparkan lauh-lauh (Taurat) itu dan memegang kepala saudaranya (Harun) sambil menarik ke arahnya. (Harun) berkata, "Wahai anak ibuku! Kaum ini telah menganggapku lemah dan hampir saja mereka membunuhku, sebab itu janganlah engkau menjadikan musuh-musuh bergembira melihat kemalanganku, dan janganlah engkau jadikan aku sebagai orang-orang yang zalim."
 
-*342) Apakah kamu tidak sabar menanti kedatanganku kembali setelah munajat kepada Tuhan, sehingga kamu membuat patung anak sapi untuk disembah sebagaimana menyembah Allah?
+[^342]: Apakah kamu tidak sabar menanti kedatanganku kembali setelah munajat kepada Tuhan, sehingga kamu membuat patung anak sapi untuk disembah sebagaimana menyembah Allah?
 
 # 1105
 
@@ -4972,9 +5122,9 @@ Dan setelah amarah Musa mereda, diambilnya (kembali) lauh-lauh (Taurat) itu, di 
 
 # 1109
 
-Dan Musa memilih tujuh puluh orang dari kaumnya untuk (memohon tobat kepada Kami) pada waktu yang telah Kami tentukan. Ketika mereka ditimpa gempa bumi, Musa berkata, "Ya Tuhanku, jika Engkau kehendaki, tentulah Engkau binasakan mereka dan aku sebelum ini. Apakah Engkau akan membinasakan kami karena perbuatan orang-orang yang kurang berakal di antara kami? Itu hanyalah cobaan dari-Mu, Engkau sesatkan dengan cobaan itu siapa yang Engkau kehendaki dan Engkau beri petunjuk kepada siapa yang Engkau kehendaki.343) Engkaulah pemimpin kami, maka ampunilah kami dan berilah kami rahmat. Engkaulah Pemberi ampun yang terbaik."
+Dan Musa memilih tujuh puluh orang dari kaumnya untuk (memohon tobat kepada Kami) pada waktu yang telah Kami tentukan. Ketika mereka ditimpa gempa bumi, Musa berkata, "Ya Tuhanku, jika Engkau kehendaki, tentulah Engkau binasakan mereka dan aku sebelum ini. Apakah Engkau akan membinasakan kami karena perbuatan orang-orang yang kurang berakal di antara kami? Itu hanyalah cobaan dari-Mu, Engkau sesatkan dengan cobaan itu siapa yang Engkau kehendaki dan Engkau beri petunjuk kepada siapa yang Engkau kehendaki.[^343] Engkaulah pemimpin kami, maka ampunilah kami dan berilah kami rahmat. Engkaulah Pemberi ampun yang terbaik."
 
-*343) Perbuatan mereka membuat patung anak sapi dan menyembahnya itu adalah suatu cobaan dari Allah untuk menguji mereka, siapa yang sebenarnya kuat imannya dan siapa yang masih ragu-ragu. Orang yang lemah imannya itulah yang mengikuti Samiri dan menyembah patung anak sapi itu. Tetapi orang yang kuat imannya, tetap dalam keimanannya.
+[^343]: Perbuatan mereka membuat patung anak sapi dan menyembahnya itu adalah suatu cobaan dari Allah untuk menguji mereka, siapa yang sebenarnya kuat imannya dan siapa yang masih ragu-ragu. Orang yang lemah imannya itulah yang mengikuti Samiri dan menyembah patung anak sapi itu. Tetapi orang yang kuat imannya, tetap dalam keimanannya.
 
 # 1110
 
@@ -4982,9 +5132,9 @@ Dan tetapkanlah untuk kami kebaikan di dunia ini dan di akhirat. Sungguh, kami k
 
 # 1111
 
-(Yaitu) orang-orang yang mengikuti Rasul, Nabi yang ummi (tidak bisa baca tulis) yang (namanya) mereka dapati tertulis di dalam Taurat dan Injil yang ada pada mereka, yang menyuruh mereka berbuat yang makruf dan mencegah dari yang mungkar, dan yang menghalalkan segala yang baik bagi mereka dan mengharamkan segala yang buruk bagi mereka, dan membebaskan beban-beban dan belenggu-belenggu yang ada pada mereka.344) Adapun orang-orang yang beriman kepadanya, memuliakannya, menolongnya dan mengikuti cahaya yang terang yang diturunkan kepadanya (Al-Qur`an), mereka itulah orang-orang yang beruntung.
+(Yaitu) orang-orang yang mengikuti Rasul, Nabi yang ummi (tidak bisa baca tulis) yang (namanya) mereka dapati tertulis di dalam Taurat dan Injil yang ada pada mereka, yang menyuruh mereka berbuat yang makruf dan mencegah dari yang mungkar, dan yang menghalalkan segala yang baik bagi mereka dan mengharamkan segala yang buruk bagi mereka, dan membebaskan beban-beban dan belenggu-belenggu yang ada pada mereka.[^344] Adapun orang-orang yang beriman kepadanya, memuliakannya, menolongnya dan mengikuti cahaya yang terang yang diturunkan kepadanya (Al-Qur`an), mereka itulah orang-orang yang beruntung.
 
-*344) Dalam syariat yang dibawa oleh Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- tidak ada lagi beban yang berat yang dipikulkan kepada Bani Israil. Umpamanya: Mensyariatkan membunuh diri untuk keabsahan tobatnya, wajib kisas pada pembunuhan, baik yang disengaja atau tidak tanpa boleh membayar diat (ganti rugi), memotong anggota badan yang melakukan kesalahan, membuang atau menggunting kain yang kena najis.
+[^344]: Dalam syariat yang dibawa oleh Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- tidak ada lagi beban yang berat yang dipikulkan kepada Bani Israil. Umpamanya: Mensyariatkan membunuh diri untuk keabsahan tobatnya, wajib kisas pada pembunuhan, baik yang disengaja atau tidak tanpa boleh membayar diat (ganti rugi), memotong anggota badan yang melakukan kesalahan, membuang atau menggunting kain yang kena najis.
 
 # 1112
 
@@ -4992,9 +5142,9 @@ Katakanlah (Muhammad), "Wahai manusia! Sesungguhnya aku ini utusan Allah bagi ka
 
 # 1113
 
-Dan di antara kaum Musa itu terdapat suatu umat yang memberi petunjuk (kepada manusia) dengan (dasar) kebenaran dan dengan itu (pula) mereka berlaku adil.345)
+Dan di antara kaum Musa itu terdapat suatu umat yang memberi petunjuk (kepada manusia) dengan (dasar) kebenaran dan dengan itu (pula) mereka berlaku adil.[^345]
 
-*345) Mereka memberi petunjuk dan menuntun dengan berpedoman kepada petunjuk dan tuntunan yang datang dari Allah. Dan juga dalam hal mengadili perkara, mereka selalu mencari keadilan dengan berpedoman kepada petunjuk dan tuntunan Allah.
+[^345]: Mereka memberi petunjuk dan menuntun dengan berpedoman kepada petunjuk dan tuntunan yang datang dari Allah. Dan juga dalam hal mengadili perkara, mereka selalu mencari keadilan dengan berpedoman kepada petunjuk dan tuntunan Allah.
 
 # 1114
 
@@ -5006,21 +5156,23 @@ Dan (ingatlah), ketika dikatakan kepada mereka (Bani Israil), "Diamlah di negeri
 
 # 1116
 
-Maka orang-orang yang zalim di antara mereka mengganti (perkataan itu) dengan perkataan yang tidak dikatakan kepada mereka,346) maka Kami timpakan kepada mereka azab dari langit disebabkan kezaliman mereka.
+Maka orang-orang yang zalim di antara mereka mengganti (perkataan itu) dengan perkataan yang tidak dikatakan kepada mereka,[^346] maka Kami timpakan kepada mereka azab dari langit disebabkan kezaliman mereka.
 
-*346) Mereka diperintahkan untuk mengucap, “ḥiṭṭatun” (mohon dilepaskan dari dosa) namun mereka mengubah sambil mencemooh dan mengucapkan, ”ḥinṭatun” (berarti gandum).
+[^346]: Mereka diperintahkan untuk mengucap, “ḥiṭṭatun” (mohon dilepaskan dari dosa) namun mereka mengubah sambil mencemooh dan mengucapkan, ”ḥinṭatun” (berarti gandum).
 
 # 1117
 
-Dan tanyakanlah kepada Bani Israil tentang negeri347) yang terletak di dekat laut ketika mereka melanggar aturan pada hari Sabtu,348) (yaitu) ketika datang kepada mereka ikan-ikan (yang berada di sekitar) mereka terapung-apung di permukaan air, padahal pada hari-hari yang bukan Sabtu ikan-ikan itu tidak datang kepada mereka. Demikianlah Kami menguji mereka disebabkan mereka berlaku fasik.
+Dan tanyakanlah kepada Bani Israil tentang negeri[^347] yang terletak di dekat laut ketika mereka melanggar aturan pada hari Sabtu,[^348] (yaitu) ketika datang kepada mereka ikan-ikan (yang berada di sekitar) mereka terapung-apung di permukaan air, padahal pada hari-hari yang bukan Sabtu ikan-ikan itu tidak datang kepada mereka. Demikianlah Kami menguji mereka disebabkan mereka berlaku fasik.
 
-*347) Kota Eilah yang terletak di pantai Laut Merah antara kota Madyan dan gunung Sinai. 348) Menurut aturan mereka tidak boleh bekerja pada hari Sabtu, karena hari Sabtu itu dikhususkan hanya untuk beribadah.
+[^347]: Kota Eilah yang terletak di pantai Laut Merah antara kota Madyan dan gunung Sinai
+
+[^348]: Menurut aturan mereka tidak boleh bekerja pada hari Sabtu, karena hari Sabtu itu dikhususkan hanya untuk beribadah.
 
 # 1118
 
-Dan (ingatlah) ketika suatu umat di antara mereka berkata, "Mengapa kamu menasihati kaum yang akan dibinasakan atau diazab Allah dengan azab yang sangat keras?" Mereka menjawab, "Agar Kami mempunyai alasan (lepas tanggung jawab) kepada Tuhanmu,349) dan agar mereka bertakwa."
+Dan (ingatlah) ketika suatu umat di antara mereka berkata, "Mengapa kamu menasihati kaum yang akan dibinasakan atau diazab Allah dengan azab yang sangat keras?" Mereka menjawab, "Agar Kami mempunyai alasan (lepas tanggung jawab) kepada Tuhanmu,[^349] dan agar mereka bertakwa."
 
-*349) Alasan mereka itu ialah mereka telah melaksanakan perintah Allah untuk memberi peringatan.
+[^349]: Alasan mereka itu ialah mereka telah melaksanakan perintah Allah untuk memberi peringatan.
 
 # 1119
 
@@ -5056,9 +5208,9 @@ Dan (ingatlah) ketika Tuhanmu mengeluarkan dari sulbi (tulang belakang) anak cuc
 
 # 1127
 
-atau agar kamu tidak mengatakan, "Sesungguhnya nenek moyang kami telah memper­sekutukan Tuhan sejak dahulu, sedang kami adalah keturunan yang (datang) setelah mereka. Maka apakah Engkau akan membinasakan kami karena perbuatan orang-orang (dahulu) yang sesat?"350)
+atau agar kamu tidak mengatakan, "Sesungguhnya nenek moyang kami telah memper­sekutukan Tuhan sejak dahulu, sedang kami adalah keturunan yang (datang) setelah mereka. Maka apakah Engkau akan membinasakan kami karena perbuatan orang-orang (dahulu) yang sesat?"[^350]
 
-*350) Agar orang-orang musyrik itu jangan mengatakan bahwa nenek moyang mereka dahulu telah mempersekutukan Tuhan, sedang mereka tidak tahu menahu bahwa mempersekutukan Tuhan itu salah, tidak ada jalan lagi bagi mereka, hanya meniru nenek moyang mereka yang mempersekutukan Tuhan. Karena itu mereka menganggap bahwa mereka tidak patut disiksa karena kesalahan nenek moyang mereka.
+[^350]: Agar orang-orang musyrik itu jangan mengatakan bahwa nenek moyang mereka dahulu telah mempersekutukan Tuhan, sedang mereka tidak tahu menahu bahwa mempersekutukan Tuhan itu salah, tidak ada jalan lagi bagi mereka, hanya meniru nenek moyang mereka yang mempersekutukan Tuhan. Karena itu mereka menganggap bahwa mereka tidak patut disiksa karena kesalahan nenek moyang mereka.
 
 # 1128
 
@@ -5086,9 +5238,9 @@ Dan Sungguh, akan Kami isi neraka Jahanam banyak dari kalangan jin dan manusia. 
 
 # 1134
 
-Dan Allah memiliki Asmāul Ḥusnā (nama-nama yang terbaik), maka bermohonlah kepada-Nya dengan menyebut Asmāul Ḥusnā itu dan tinggalkanlah orang-orang yang menyalahartikan nama-nama-Nya351) Mereka kelak akan mendapat balasan terhadap apa yang telah mereka kerjakan.
+Dan Allah memiliki Asmāul Ḥusnā (nama-nama yang terbaik), maka bermohonlah kepada-Nya dengan menyebut Asmāul Ḥusnā itu dan tinggalkanlah orang-orang yang menyalahartikan nama-nama-Nya[^351] Mereka kelak akan mendapat balasan terhadap apa yang telah mereka kerjakan.
 
-*351) Jangan hiraukan orang-orang yang menyembah Allah dengan menyebut nama-nama yang tidak sesuai dengan sifat-sifat keagungan Allah, atau dengan memakai Asmāul Ḥusnā, tetapi dengan maksud menodai nama Allah atau mempergunakan Asmāul Ḥusnā untuk nama-nama selain Allah.
+[^351]: Jangan hiraukan orang-orang yang menyembah Allah dengan menyebut nama-nama yang tidak sesuai dengan sifat-sifat keagungan Allah, atau dengan memakai Asmāul Ḥusnā, tetapi dengan maksud menodai nama Allah atau mempergunakan Asmāul Ḥusnā untuk nama-nama selain Allah.
 
 # 1135
 
@@ -5128,9 +5280,9 @@ Dialah yang menciptakan kamu dari jiwa yang satu (Adam) dan darinya Dia mencipta
 
 # 1144
 
-Maka setelah Dia memberi kepada keduanya seorang anak yang saleh, mereka352) menjadikan sekutu bagi Allah terhadap anak yang telah dianugerahkan-Nya itu. Maka Mahatinggi Allah dari apa yang mereka persekutukan.
+Maka setelah Dia memberi kepada keduanya seorang anak yang saleh, mereka[^352] menjadikan sekutu bagi Allah terhadap anak yang telah dianugerahkan-Nya itu. Maka Mahatinggi Allah dari apa yang mereka persekutukan.
 
-*352) Orang-orang musyrik menjadikan sekutu bagi Tuhan dalam menciptakan anak itu dengan arti bahwa anak tersebut mereka pandang sebagai hamba pula bagi berhala yang mereka sembah. Karena itulah mereka menamakan anak mereka dengan Abdul Uzza, Abdul Manat, Abdus Syams, dan sebagainya.
+[^352]: Orang-orang musyrik menjadikan sekutu bagi Tuhan dalam menciptakan anak itu dengan arti bahwa anak tersebut mereka pandang sebagai hamba pula bagi berhala yang mereka sembah. Karena itulah mereka menamakan anak mereka dengan Abdul Uzza, Abdul Manat, Abdus Syams, dan sebagainya.
 
 # 1145
 
@@ -5150,9 +5302,9 @@ Sesungguhnya mereka (berhala-berhala) yang kamu seru selain Allah adalah makhluk
 
 # 1149
 
-Apakah mereka (berhala-berhala) mempunyai kaki untuk berjalan, atau mempunyai tangan untuk memegang dengan keras,353) atau mempunyai mata untuk melihat, atau mempunyai telinga untuk mendengar? Katakanlah (Muhammad) "Panggillah berhala-berhalamu yang kamu anggap sekutu Allah, kemudian lakukanlah tipu daya (untuk mencelakakan)ku, dan jangan kamu tunda lagi.
+Apakah mereka (berhala-berhala) mempunyai kaki untuk berjalan, atau mempunyai tangan untuk memegang dengan keras,[^353] atau mempunyai mata untuk melihat, atau mempunyai telinga untuk mendengar? Katakanlah (Muhammad) "Panggillah berhala-berhalamu yang kamu anggap sekutu Allah, kemudian lakukanlah tipu daya (untuk mencelakakan)ku, dan jangan kamu tunda lagi.
 
-*353) Kata Yabṭisyūn di sini diartikan dengan keras, maksudnya menampar, merusak, memukul dengan kasar dan sebagainya.
+[^353]: Kata Yabṭisyūn di sini diartikan dengan keras, maksudnya menampar, merusak, memukul dengan kasar dan sebagainya.
 
 # 1150
 
@@ -5172,9 +5324,9 @@ Jadilah pemaaf dan suruhlah orang mengerjakan yang makruf, serta jangan pedulika
 
 # 1154
 
-Dan jika setan datang menggodamu, maka berlindunglah kepada Allah354) Sungguh, Dia Maha Mendengar, Maha Mengetahui.
+Dan jika setan datang menggodamu, maka berlindunglah kepada Allah[^354] Sungguh, Dia Maha Mendengar, Maha Mengetahui.
 
-*354) Membaca A'ūżu billāhi minasy-syaiṭānir-rajīm.
+[^354]: Membaca A'ūżu billāhi minasy-syaiṭānir-rajīm.
 
 # 1155
 
@@ -5190,9 +5342,9 @@ Dan apabila engkau (Muhammad) tidak membacakan suatu ayat kepada mereka, mereka 
 
 # 1158
 
-Dan apabila dibacakan Al-Qur`an, maka dengarkanlah dan diamlah, agar kamu mendapat rahmat."355)
+Dan apabila dibacakan Al-Qur`an, maka dengarkanlah dan diamlah, agar kamu mendapat rahmat."[^355]
 
-*355) Jika dibacakan Al-Qur`an kita diwajibkan mendengar dan memperhatikan sambil berdiam diri, baik di dalam salat maupun di luar salat, kecuali dalam salat berjamaah makmum boleh membaca surah Al-Fātiḥah sendiri atau mendengarkan saja ketika imam membaca ayat-ayat Al-Qur`an.
+[^355]: Jika dibacakan Al-Qur`an kita diwajibkan mendengar dan memperhatikan sambil berdiam diri, baik di dalam salat maupun di luar salat, kecuali dalam salat berjamaah makmum boleh membaca surah Al-Fātiḥah sendiri atau mendengarkan saja ketika imam membaca ayat-ayat Al-Qur`an.
 
 # 1159
 
@@ -5200,9 +5352,9 @@ Dan ingatlah Tuhanmu dalam hatimu dengan rendah hati dan rasa takut, dan dengan 
 
 # 1160
 
-Sesungguhnya orang-orang yang ada di sisi Tuhanmu tidak merasa enggan untuk menyembah Allah dan mereka menyucikan-Nya dan hanya kepada-Nya mereka bersujud.356)
+Sesungguhnya orang-orang yang ada di sisi Tuhanmu tidak merasa enggan untuk menyembah Allah dan mereka menyucikan-Nya dan hanya kepada-Nya mereka bersujud.[^356]
 
-*356) Ini salah satu ayat sajdah yang disunahkan kita bersujud setelah pembacaannya atau mendengarnya baik di dalam salat maupun di luar salat. Sujud ini dinamakan sujud tilawah.
+[^356]: Ini salah satu ayat sajdah yang disunahkan kita bersujud setelah pembacaannya atau mendengarnya baik di dalam salat maupun di luar salat. Sujud ini dinamakan sujud tilawah.
 
 # 1161
 
@@ -5210,9 +5362,9 @@ Mereka menanyakan kepadamu (Muhammad) tentang (pembagian) harta rampasan perang.
 
 # 1162
 
-Sesungguhnya orang-orang yang beriman adalah mereka yang apabila disebut nama Allah357) gemetar hatinya, dan apabila dibacakan ayat-ayat-Nya kepada mereka, bertambah (kuat) imannya dan hanya kepada Tuhan mereka bertawakal,
+Sesungguhnya orang-orang yang beriman adalah mereka yang apabila disebut nama Allah[^357] gemetar hatinya, dan apabila dibacakan ayat-ayat-Nya kepada mereka, bertambah (kuat) imannya dan hanya kepada Tuhan mereka bertawakal,
 
-*357) Menyebut sifat-sifat yang mengagungkan dan memuliakan-Nya.
+[^357]: Menyebut sifat-sifat yang mengagungkan dan memuliakan-Nya.
 
 # 1163
 
@@ -5224,9 +5376,9 @@ Mereka itulah orang-orang yang benar-benar beriman. Mereka akan memperoleh deraj
 
 # 1165
 
-Sebagaimana Tuhanmu menyuruhmu pergi dari rumahmu dengan kebenaran,358) meskipun sesungguhnya sebagian dari orang-orang yang beriman itu tidak menyukainya,
+Sebagaimana Tuhanmu menyuruhmu pergi dari rumahmu dengan kebenaran,[^358] meskipun sesungguhnya sebagian dari orang-orang yang beriman itu tidak menyukainya,
 
-*358) Menurut Al-Maragi, Allah mengatur pembagian harta rampasan perang dengan benar, sebagaimana Allah menyuruhnya pergi dari rumah (di Madinah) untuk berperang ke Badar dengan benar pula. Menurut Al-Ma'bari, Keluar dari rumah dengan maksud berperang.
+[^358]: Menurut Al-Maragi, Allah mengatur pembagian harta rampasan perang dengan benar, sebagaimana Allah menyuruhnya pergi dari rumah (di Madinah) untuk berperang ke Badar dengan benar pula. Menurut Al-Ma'bari, Keluar dari rumah dengan maksud berperang.
 
 # 1166
 
@@ -5234,9 +5386,9 @@ mereka membantahmu (Muhammad) tentang kebenaran setelah nyata (bahwa mereka past
 
 # 1167
 
-Dan (ingatlah) ketika Allah menjanjikan kepadamu bahwa salah satu dari dua golongan (yang kamu hadapi) adalah untukmu, sedang kamu menginginkan bahwa yang tidak mempunyai kekuatan senjatalah359) untukmu. Tetapi Allah hendak membenarkan yang benar dengan ayat-ayat-Nya dan memusnahkan orang-orang kafir sampai ke akar-akarnya,
+Dan (ingatlah) ketika Allah menjanjikan kepadamu bahwa salah satu dari dua golongan (yang kamu hadapi) adalah untukmu, sedang kamu menginginkan bahwa yang tidak mempunyai kekuatan senjatalah[^359] untukmu. Tetapi Allah hendak membenarkan yang benar dengan ayat-ayat-Nya dan memusnahkan orang-orang kafir sampai ke akar-akarnya,
 
-*359) Kafilah Abu Sufyan yang membawa dagangan dari suriah. Sedangkan kelompok yang berkekuatan senjata adalah kelompok yang datang dari Mekkah di bawah pimpinan 'Utbah bin Rabi'ah bersama Abu Jahal.
+[^359]: Kafilah Abu Sufyan yang membawa dagangan dari suriah. Sedangkan kelompok yang berkekuatan senjata adalah kelompok yang datang dari Mekkah di bawah pimpinan 'Utbah bin Rabi'ah bersama Abu Jahal.
 
 # 1168
 
@@ -5256,9 +5408,9 @@ Dan tidaklah Allah menjadikannya melainkan sebagai kabar gembira agar hatimu men
 
 # 1172
 
-(Ingatlah), ketika Tuhanmu mewahyukan kepada para malaikat, "Sesungguhnya Aku bersama kamu, maka teguhkanlah (pendirian) orang-orang yang telah beriman." Kelak akan Aku berikan rasa ketakutan ke dalam hati orang-orang kafir, maka pukullah di atas leher mereka dan pukullah tiap-tiap ujung jari mereka.360)
+(Ingatlah), ketika Tuhanmu mewahyukan kepada para malaikat, "Sesungguhnya Aku bersama kamu, maka teguhkanlah (pendirian) orang-orang yang telah beriman." Kelak akan Aku berikan rasa ketakutan ke dalam hati orang-orang kafir, maka pukullah di atas leher mereka dan pukullah tiap-tiap ujung jari mereka.[^360]
 
-*360) Ini terjadi dalam peperangan, sasaran yang mematikan adalah leher. Tetapi apabila lawan memakai baju besi, sehingga sulit dikalahkan, maka tangannya yang dilumpuhkan, agar tidak dapat memegang senjata, seperti: pedang, tombak, dan lain-lainnya sehingga mudah ditawan.
+[^360]: Ini terjadi dalam peperangan, sasaran yang mematikan adalah leher. Tetapi apabila lawan memakai baju besi, sehingga sulit dikalahkan, maka tangannya yang dilumpuhkan, agar tidak dapat memegang senjata, seperti: pedang, tombak, dan lain-lainnya sehingga mudah ditawan.
 
 # 1173
 
@@ -5302,15 +5454,15 @@ Sesungguhnya makhluk bergerak yang bernyawa yang paling buruk dalam pandangan Al
 
 # 1183
 
-Dan sekiranya Allah mengetahui ada kebaikan pada mereka, tentu Dia jadikan mereka dapat mendengar.361) Dan jika Allah menjadikan mereka dapat mendengar, niscaya mereka berpaling, sedang mereka memalingkan diri.
+Dan sekiranya Allah mengetahui ada kebaikan pada mereka, tentu Dia jadikan mereka dapat mendengar.[^361] Dan jika Allah menjadikan mereka dapat mendengar, niscaya mereka berpaling, sedang mereka memalingkan diri.
 
-*361) Pengandaian dalam ayat ini bukan berarti Allah tidak tahu, tetapi Allah Mahatahu bahwa pada mereka tidak ada kebaikan.
+[^361]: Pengandaian dalam ayat ini bukan berarti Allah tidak tahu, tetapi Allah Mahatahu bahwa pada mereka tidak ada kebaikan.
 
 # 1184
 
-Wahai orang-orang yang beriman! Penuhilah seruan Allah dan Rasul apabila dia menyerumu kepada sesuatu yang memberi kehidupan kepadamu,362) dan ketahuilah bahwa sesungguhnya Allah membatasi antara manusia dan hatinya dan sesungguhnya kepada-Nyalah kamu akan dikumpulkan.
+Wahai orang-orang yang beriman! Penuhilah seruan Allah dan Rasul apabila dia menyerumu kepada sesuatu yang memberi kehidupan kepadamu,[^362] dan ketahuilah bahwa sesungguhnya Allah membatasi antara manusia dan hatinya dan sesungguhnya kepada-Nyalah kamu akan dikumpulkan.
 
-*362) Menyerumu berperang untuk meninggikan kalimat Allah dan menghidupkan Islam dan muslimin. Juga berarti menyerumu kepada iman, petunjuk, jihad, dan segala yang ada hubungannya dengan kebahagian hidup di dunia dan di akhirat.
+[^362]: Menyerumu berperang untuk meninggikan kalimat Allah dan menghidupkan Islam dan muslimin. Juga berarti menyerumu kepada iman, petunjuk, jihad, dan segala yang ada hubungannya dengan kebahagian hidup di dunia dan di akhirat.
 
 # 1185
 
@@ -5378,15 +5530,21 @@ Dan jika mereka berpaling, maka ketahuilah bahwa sesungguhnya Allah Pelindungmu.
 
 # 1201
 
-Dan ketahuilah, sesungguhnya segala yang kamu peroleh sebagai rampasan perang,363) maka seperlima untuk Allah, Rasul, kerabat Rasul, anak yatim, orang miskin dan ibnu sabil,364) (demikian) jika kamu beriman kepada Allah dan kepada apa yang Kami turunkan kepada hamba Kami (Muhammad) di hari furqan,365) yaitu pada hari bertemunya dua pasukan. Dan Allah Mahakuasa atas segala sesuatu.
+Dan ketahuilah, sesungguhnya segala yang kamu peroleh sebagai rampasan perang,[^363] maka seperlima untuk Allah, Rasul, kerabat Rasul, anak yatim, orang miskin dan ibnu sabil,[^364] (demikian) jika kamu beriman kepada Allah dan kepada apa yang Kami turunkan kepada hamba Kami (Muhammad) di hari furqan,[^365] yaitu pada hari bertemunya dua pasukan. Dan Allah Mahakuasa atas segala sesuatu.
 
-*363) Harta yang diperoleh dari orang-orang kafir melalui pertempuran, sedang yang diperoleh tidak dengan pertempuran dinamai fai`. Pembagian tersebut dalam ayat ini ialah yang berhubungan dengan ganimah saja. 364) Seperlima dari ganimah itu dibagi kepada: a). Allah dan Rasul-Nya; b). Kerabat Rasul (Bani Hasyim dan Bani Muttalib); c). Anak yatim; d).Orang miskin; e). Ibnu sabil, yaitu orang yang sedang dalam perjalanan. Sedangkan empat perlima dari ganimah itu dibagi kepada mereka yang ikut bertempur. 365) Hari bertemunya dua pasukan pada perang Badar, di hari Jumat tanggal 17 Ramadan tahun kedua Hijri. Sebagian mufasir berpendapat bahwa ayat ini mengisyaratkan kepada permulaan turunnya Al-Qur`anul Karim pada malam 17 Ramadhan.
+[^363]: Harta yang diperoleh dari orang-orang kafir melalui pertempuran, sedang yang diperoleh tidak dengan pertempuran dinamai fai`. Pembagian tersebut dalam ayat ini ialah yang berhubungan dengan ganimah saja
+
+[^364]: Seperlima dari ganimah itu dibagi kepada: a). Allah dan Rasul-Nya; b). Kerabat Rasul (Bani Hasyim dan Bani Muttalib); c). Anak yatim; d).Orang miskin; e). Ibnu sabil, yaitu orang yang sedang dalam perjalanan. Sedangkan empat perlima dari ganimah itu dibagi kepada mereka yang ikut bertempur
+
+[^365]: Hari bertemunya dua pasukan pada perang Badar, di hari Jumat tanggal 17 Ramadan tahun kedua Hijri. Sebagian mufasir berpendapat bahwa ayat ini mengisyaratkan kepada permulaan turunnya Al-Qur`anul Karim pada malam 17 Ramadhan.
 
 # 1202
 
-(Yaitu) ketika kamu berada di pinggir lembah yang dekat dan mereka berada di pinggir lembah yang jauh sedang kafilah itu berada lebih rendah dari kamu.366) Sekiranya kamu mengadakan persetujuan (untuk menentukan hari pertempuran), niscaya kamu berbeda pendapat dalam menentukan (hari pertempuran itu), tetapi Allah berkehendak melaksanakan suatu urusan yang harus dilaksanakan,367) yaitu agar orang yang binasa itu binasa dengan bukti yang nyata dan agar orang yang hidup itu hidup dengan bukti yang nyata. Sungguh, Allah Maha Mendengar, Maha Mengetahui,
+(Yaitu) ketika kamu berada di pinggir lembah yang dekat dan mereka berada di pinggir lembah yang jauh sedang kafilah itu berada lebih rendah dari kamu.[^366] Sekiranya kamu mengadakan persetujuan (untuk menentukan hari pertempuran), niscaya kamu berbeda pendapat dalam menentukan (hari pertempuran itu), tetapi Allah berkehendak melaksanakan suatu urusan yang harus dilaksanakan,[^367] yaitu agar orang yang binasa itu binasa dengan bukti yang nyata dan agar orang yang hidup itu hidup dengan bukti yang nyata. Sungguh, Allah Maha Mendengar, Maha Mengetahui,
 
-*366) Kaum muslimin waktu itu berada di pinggir lembah yang dekat ke Madinah, dan orang-orang kafir berada di pinggir lembah yang jauh dari Madinah. Sedang kafilah yang dipimpin oleh Abu Sufyan berada di tepi pantai kira-kira 5 mil dari Badar. 367) Kemenangan kaum muslimin dan kehancuran kaum musyrikin.
+[^366]: Kaum muslimin waktu itu berada di pinggir lembah yang dekat ke Madinah, dan orang-orang kafir berada di pinggir lembah yang jauh dari Madinah. Sedang kafilah yang dipimpin oleh Abu Sufyan berada di tepi pantai kira-kira 5 mil dari Badar
+
+[^367]: Kemenangan kaum muslimin dan kehancuran kaum musyrikin.
 
 # 1203
 
@@ -5478,9 +5636,9 @@ Wahai Nabi (Muhammad)! Cukuplah Allah (menjadi pelindung) bagimu dan bagi orang-
 
 # 1225
 
-Wahai Nabi (Muhammad)! Kobarkanlah semangat para mukmin untuk berperang. Jika ada dua puluh orang yang sabar di antara kamu, niscaya mereka dapat mengalahkan dua ratus orang musuh. Dan jika ada seratus orang (yang sabar) di antara kamu, niscaya mereka dapat mengalahkan seribu orang kafir, karena orang-orang kafir itu adalah kaum yang tidak mengerti.368)
+Wahai Nabi (Muhammad)! Kobarkanlah semangat para mukmin untuk berperang. Jika ada dua puluh orang yang sabar di antara kamu, niscaya mereka dapat mengalahkan dua ratus orang musuh. Dan jika ada seratus orang (yang sabar) di antara kamu, niscaya mereka dapat mengalahkan seribu orang kafir, karena orang-orang kafir itu adalah kaum yang tidak mengerti.[^368]
 
-*368) Mereka tidak mengerti bahwa berperang itu haruslah untuk membela keyakinan dan menaati perintah Allah. Mereka berperang hanya semata-mata mempertahankan tradisi jahiliah dan maksud-maksud duniawi lainnya.
+[^368]: Mereka tidak mengerti bahwa berperang itu haruslah untuk membela keyakinan dan menaati perintah Allah. Mereka berperang hanya semata-mata mempertahankan tradisi jahiliah dan maksud-maksud duniawi lainnya.
 
 # 1226
 
@@ -5532,9 +5690,9 @@ Maka berjalanlah kamu (kaum musyrikin) di bumi selama empat bulan dan ketahuilah
 
 # 1238
 
-Dan satu maklumat (pemberitahuan) dari Allah dan Rasul-Nya kepada umat manusia pada hari haji akbar,369) bahwa sesungguhnya Allah dan Rasul-Nya berlepas diri dari orang-orang musyrik. Kemudian jika kamu (kaum musyrikin) bertobat, maka itu lebih baik bagimu; dan jika kamu berpaling, maka ketahuilah bahwa kamu tidak dapat melemahkan Allah. Dan berilah kabar gembira kepada orang-orang kafir (bahwa mereka akan mendapat) azab yang pedih,
+Dan satu maklumat (pemberitahuan) dari Allah dan Rasul-Nya kepada umat manusia pada hari haji akbar,[^369] bahwa sesungguhnya Allah dan Rasul-Nya berlepas diri dari orang-orang musyrik. Kemudian jika kamu (kaum musyrikin) bertobat, maka itu lebih baik bagimu; dan jika kamu berpaling, maka ketahuilah bahwa kamu tidak dapat melemahkan Allah. Dan berilah kabar gembira kepada orang-orang kafir (bahwa mereka akan mendapat) azab yang pedih,
 
-*369) Para mufasir berbeda pendapat tentang pengertian haji akbar; ada yang mengatakan hari Nahar, ada yang mengatakan hari Arafah. Yang dimaksud dengan haji akbar di sini ialah haji yang terjadi pada tahun ke-9 Hijri.
+[^369]: Para mufasir berbeda pendapat tentang pengertian haji akbar; ada yang mengatakan hari Nahar, ada yang mengatakan hari Arafah. Yang dimaksud dengan haji akbar di sini ialah haji yang terjadi pada tahun ke-9 Hijri.
 
 # 1239
 
@@ -5542,9 +5700,9 @@ kecuali orang-orang musyrik yang telah mengadakan perjanjian dengan kamu dan mer
 
 # 1240
 
-Apabila telah habis bulan-bulan haram,370) maka perangilah orang-orang musyrik di mana saja kamu temui, tangkaplah dan kepunglah mereka, dan awasilah di tempat pengintaian. Jika mereka bertobat dan melaksanakan salat serta menunaikan zakat, maka berilah kebebasan kepada mereka. Sungguh, Allah Maha Pengampun, Maha Penyayang.
+Apabila telah habis bulan-bulan haram,[^370] maka perangilah orang-orang musyrik di mana saja kamu temui, tangkaplah dan kepunglah mereka, dan awasilah di tempat pengintaian. Jika mereka bertobat dan melaksanakan salat serta menunaikan zakat, maka berilah kebebasan kepada mereka. Sungguh, Allah Maha Pengampun, Maha Penyayang.
 
-*370) Yang dimaksud dengan bulan haram di sini ialah masa 4 bulan yang diberi tenggang waktu kepada kaum musyrikin, yaitu mulai 10 Zulhijah (hari turunnya ayat ini), sampai dengan 10 Rabiul Akhir.
+[^370]: Yang dimaksud dengan bulan haram di sini ialah masa 4 bulan yang diberi tenggang waktu kepada kaum musyrikin, yaitu mulai 10 Zulhijah (hari turunnya ayat ini), sampai dengan 10 Rabiul Akhir.
 
 # 1241
 
@@ -5636,9 +5794,9 @@ Setelah itu Allah menerima tobat orang yang Dia kehendaki. Allah Maha Pengampun,
 
 # 1263
 
-Wahai orang-orang yang beriman! Sesungguhnya orang-orang musyrik itu najis (kotor jiwa), karena itu janganlah mereka mendekati Masjidilharam setelah tahun ini.371) Dan jika kamu khawatir menjadi miskin (karena orang kafir tidak datang), maka Allah nanti akan memberikan kekayaan kepadamu dari karunia-Nya, jika Dia menghendaki. Sesungguhnya Allah Maha Mengetahui, Mahabijaksana.
+Wahai orang-orang yang beriman! Sesungguhnya orang-orang musyrik itu najis (kotor jiwa), karena itu janganlah mereka mendekati Masjidilharam setelah tahun ini.[^371] Dan jika kamu khawatir menjadi miskin (karena orang kafir tidak datang), maka Allah nanti akan memberikan kekayaan kepadamu dari karunia-Nya, jika Dia menghendaki. Sesungguhnya Allah Maha Mengetahui, Mahabijaksana.
 
-*371) Tidak dibenarkan mengerjakan haji dan umrah. Menurut pendapat sebagian mufasir ialah kaum musyrikin tidak boleh masuk daerah haram, baik untuk keperluan haji dan umrah atau untuk keperluan yang lain, setelah tahun 9 Hijriah.
+[^371]: Tidak dibenarkan mengerjakan haji dan umrah. Menurut pendapat sebagian mufasir ialah kaum musyrikin tidak boleh masuk daerah haram, baik untuk keperluan haji dan umrah atau untuk keperluan yang lain, setelah tahun 9 Hijriah.
 
 # 1264
 
@@ -5650,9 +5808,9 @@ Dan orang-orang Yahudi berkata, "Uzair putera Allah," dan orang-orang Nasrani be
 
 # 1266
 
-Mereka menjadikan orang-orang alim (Yahudi) dan rahib-rahibnya (Nasrani) sebagai tuhan selain Allah,372) dan (juga) Al-Masih putra Maryam; padahal mereka hanya disuruh menyembah Tuhan Yang Maha Esa; tidak ada tuhan yang berhak disembah selain Dia. Mahasuci Dia dari apa yang mereka persekutukan.
+Mereka menjadikan orang-orang alim (Yahudi) dan rahib-rahibnya (Nasrani) sebagai tuhan selain Allah,[^372] dan (juga) Al-Masih putra Maryam; padahal mereka hanya disuruh menyembah Tuhan Yang Maha Esa; tidak ada tuhan yang berhak disembah selain Dia. Mahasuci Dia dari apa yang mereka persekutukan.
 
-*372) Mereka mematuhi ajaran orang-orang alim dan rahib-rahib mereka dengan membabi buta, biarpun orang-orang alim dan para rahib itu menyuruh maksiat atau mengharamkan yang halal.
+[^372]: Mereka mematuhi ajaran orang-orang alim dan rahib-rahib mereka dengan membabi buta, biarpun orang-orang alim dan para rahib itu menyuruh maksiat atau mengharamkan yang halal.
 
 # 1267
 
@@ -5696,9 +5854,9 @@ Berangkatlah kamu, baik dengan rasa ringan maupun dengan rasa berat, dan berjiha
 
 # 1277
 
-Sekiranya (yang kamu serukan kepada mereka) ada keuntungan yang mudah diperoleh dan perjalanan yang tidak seberapa jauh, niscaya mereka mengikutimu, tetapi tempat yang dituju itu terasa sangat jauh bagi mereka. Mereka akan bersumpah dengan (nama) Allah, "Jikalau kami sanggup niscaya kami berangkat bersamamu." Mereka membinasakan diri sendiri373) dan Allah mengetahui bahwa mereka benar-benar orang-orang yang berdusta.
+Sekiranya (yang kamu serukan kepada mereka) ada keuntungan yang mudah diperoleh dan perjalanan yang tidak seberapa jauh, niscaya mereka mengikutimu, tetapi tempat yang dituju itu terasa sangat jauh bagi mereka. Mereka akan bersumpah dengan (nama) Allah, "Jikalau kami sanggup niscaya kami berangkat bersamamu." Mereka membinasakan diri sendiri[^373] dan Allah mengetahui bahwa mereka benar-benar orang-orang yang berdusta.
 
-*373) Mereka akan binasa disebabkan sumpah palsu mereka.
+[^373]: Mereka akan binasa disebabkan sumpah palsu mereka.
 
 # 1278
 
@@ -5826,9 +5984,9 @@ Wahai Nabi! Berjihadlah (melawan) orang-orang kafir dan orang-orang munafik, dan
 
 # 1309
 
-Mereka (orang munafik) bersumpah dengan (nama) Allah, bahwa mereka tidak mengatakan (sesuatu yang menyakiti Muhammad). Sungguh, mereka telah mengucapkan perkataan kekafiran, dan telah menjadi kafir setelah Islam, dan menginginkan apa yang mereka tidak bisa mencapainya;374) dan mereka tidak mencela (Allah dan Rasul-Nya), sekiranya Allah dan Rasul-Nya telah melimpahkan karunia-Nya kepada mereka. Maka jika mereka bertobat, itu adalah lebih baik bagi mereka, dan jika mereka berpaling, niscaya Allah akan mengazab mereka dengan azab yang pedih di dunia dan akhirat; dan mereka tidak mempunyai pelindung dan tidak (pula) penolong di bumi.
+Mereka (orang munafik) bersumpah dengan (nama) Allah, bahwa mereka tidak mengatakan (sesuatu yang menyakiti Muhammad). Sungguh, mereka telah mengucapkan perkataan kekafiran, dan telah menjadi kafir setelah Islam, dan menginginkan apa yang mereka tidak bisa mencapainya;[^374] dan mereka tidak mencela (Allah dan Rasul-Nya), sekiranya Allah dan Rasul-Nya telah melimpahkan karunia-Nya kepada mereka. Maka jika mereka bertobat, itu adalah lebih baik bagi mereka, dan jika mereka berpaling, niscaya Allah akan mengazab mereka dengan azab yang pedih di dunia dan akhirat; dan mereka tidak mempunyai pelindung dan tidak (pula) penolong di bumi.
 
-*374) Mereka ingin membunuh Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
+[^374]: Mereka ingin membunuh Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
 
 # 1310
 
@@ -5880,9 +6038,9 @@ Dan apabila diturunkan suatu surah (yang memerintahkan kepada orang-orang munafi
 
 # 1322
 
-Mereka rela berada bersama orang-orang yang tidak pergi berperang,375) dan hati mereka telah tertutup, sehingga mereka tidak memahami (kebahagiaan beriman dan berjihad).
+Mereka rela berada bersama orang-orang yang tidak pergi berperang,[^375] dan hati mereka telah tertutup, sehingga mereka tidak memahami (kebahagiaan beriman dan berjihad).
 
-*375) Perempuan, anak-anak, orang yang lemah, orang yang sakit dan orang yang sudah tua.
+[^375]: Perempuan, anak-anak, orang yang lemah, orang yang sakit dan orang yang sudah tua.
 
 # 1323
 
@@ -5946,9 +6104,11 @@ Dan (ada pula) orang lain yang mengakui dosa-dosa mereka, mereka mencampuradukka
 
 # 1338
 
-Ambillah zakat dari harta mereka, guna membersihkan376) dan menyucikan377) mereka, dan berdoalah untuk mereka. Sesungguhnya doamu itu (menumbuhkan) ketenteraman jiwa bagi mereka. Allah Maha Mendengar, Maha Mengetahui.
+Ambillah zakat dari harta mereka, guna membersihkan[^376] dan menyucikan[^377] mereka, dan berdoalah untuk mereka. Sesungguhnya doamu itu (menumbuhkan) ketenteraman jiwa bagi mereka. Allah Maha Mendengar, Maha Mengetahui.
 
-*376) Zakat membersihkan mereka dari kekikiran dan cinta yang berlebihan terhadap harta. 377) Zakat menyuburkan sifat-sifat kebaikan dalam hati mereka dan mengembangkan harta mereka.
+[^376]: Zakat membersihkan mereka dari kekikiran dan cinta yang berlebihan terhadap harta
+
+[^377]: Zakat menyuburkan sifat-sifat kebaikan dalam hati mereka dan mengembangkan harta mereka.
 
 # 1339
 
@@ -5964,9 +6124,9 @@ Dan ada (pula) orang-orang lain yang ditangguhkan sampai ada keputusan Allah; mu
 
 # 1342
 
-Dan (di antara orang-orang munafik itu) ada yang mendirikan masjid untuk menimbulkan bencana (pada orang-orang yang beriman), untuk kekafiran dan untuk memecah belah di antara orang-orang yang beriman, serta untuk menunggu kedatangan orang-orang yang telah memerangi Allah dan Rasul-Nya sejak dahulu.378) Mereka dengan pasti bersumpah, "Kami hanya menghendaki kebaikan." Dan Allah menjadi saksi bahwa mereka itu pendusta (dalam sumpahnya).
+Dan (di antara orang-orang munafik itu) ada yang mendirikan masjid untuk menimbulkan bencana (pada orang-orang yang beriman), untuk kekafiran dan untuk memecah belah di antara orang-orang yang beriman, serta untuk menunggu kedatangan orang-orang yang telah memerangi Allah dan Rasul-Nya sejak dahulu.[^378] Mereka dengan pasti bersumpah, "Kami hanya menghendaki kebaikan." Dan Allah menjadi saksi bahwa mereka itu pendusta (dalam sumpahnya).
 
-*378) Yang dimaksud dengan "orang yang telah memerangi Allah dan Rasul-Nya sejak dahulu" ialah seorang pendeta Nasrani bernama Abu 'Amir yang mereka tunggu-tunggu kedatangannya dari Syria untuk melaksanakan salat di masjid yang mereka dirikan, serta membawa tentara Romawi yang akan memerangi kaum muslimin. Tetapi Abu 'Amir tidak jadi datang, karena ia mati di Syria. Dan masjid yang didirikan kaum munafik itu diruntuhkan atas perintah Rasulullah -ṣallallāhu 'alaihi wa sallam- berkenaan dengan wahyu yang diterimanya setelah kembali dari perang Tabuk.
+[^378]: Yang dimaksud dengan "orang yang telah memerangi Allah dan Rasul-Nya sejak dahulu" ialah seorang pendeta Nasrani bernama Abu 'Amir yang mereka tunggu-tunggu kedatangannya dari Syria untuk melaksanakan salat di masjid yang mereka dirikan, serta membawa tentara Romawi yang akan memerangi kaum muslimin. Tetapi Abu 'Amir tidak jadi datang, karena ia mati di Syria. Dan masjid yang didirikan kaum munafik itu diruntuhkan atas perintah Rasulullah -ṣallallāhu 'alaihi wa sallam- berkenaan dengan wahyu yang diterimanya setelah kembali dari perang Tabuk.
 
 # 1343
 
@@ -5978,9 +6138,9 @@ Maka apakah orang-orang yang mendirikan bangunan (masjid) atas dasar takwa kepad
 
 # 1345
 
-Bangunan yang mereka dirikan itu senantiasa menjadi penyebab keraguan dalam hati mereka, sampai hati mereka hancur.379) Dan Allah Maha Mengetahui, Mahabijaksana.
+Bangunan yang mereka dirikan itu senantiasa menjadi penyebab keraguan dalam hati mereka, sampai hati mereka hancur.[^379] Dan Allah Maha Mengetahui, Mahabijaksana.
 
-*379) Sampai mereka mati. Ada yang yang menafsirkan, apabila mereka tidak dapat bertobat lagi.
+[^379]: Sampai mereka mati. Ada yang yang menafsirkan, apabila mereka tidak dapat bertobat lagi.
 
 # 1346
 
@@ -5988,9 +6148,9 @@ Sesungguhnya Allah membeli dari orang-orang mukmin, baik diri maupun harta merek
 
 # 1347
 
-Mereka itu adalah orang-orang yang bertobat, beribadah, memuji (Allah), mengembara (demi ilmu dan agama),380) rukuk, sujud, menyuruh berbuat makruf dan mencegah dari yang mungkar dan yang memelihara hukum-hukum Allah. Dan gembirakanlah orang-orang yang beriman.
+Mereka itu adalah orang-orang yang bertobat, beribadah, memuji (Allah), mengembara (demi ilmu dan agama),[^380] rukuk, sujud, menyuruh berbuat makruf dan mencegah dari yang mungkar dan yang memelihara hukum-hukum Allah. Dan gembirakanlah orang-orang yang beriman.
 
-*380) Ada pula yang menafsirkan dengan orang yang berpuasa.
+[^380]: Ada pula yang menafsirkan dengan orang yang berpuasa.
 
 # 1348
 
@@ -6002,9 +6162,9 @@ Adapun permohonan ampunan Ibrahim (kepada Allah) untuk bapaknya, tidak lain hany
 
 # 1350
 
-Dan Allah sekali-kali tidak akan menyesatkan suatu kaum, setelah mereka diberi-Nya petunjuk, sehingga dapat dijelaskan kepada mereka apa yang harus mereka jauhi.381) Sungguh, Allah Maha Mengetahui segala sesuatu.
+Dan Allah sekali-kali tidak akan menyesatkan suatu kaum, setelah mereka diberi-Nya petunjuk, sehingga dapat dijelaskan kepada mereka apa yang harus mereka jauhi.[^381] Sungguh, Allah Maha Mengetahui segala sesuatu.
 
-*381) Seorang hamba tidak akan diazab oleh Allah semata-mata karena kesesatannya, kecuali jika hamba itu melanggar perintah-perintah yang sudah dijelaskan.
+[^381]: Seorang hamba tidak akan diazab oleh Allah semata-mata karena kesesatannya, kecuali jika hamba itu melanggar perintah-perintah yang sudah dijelaskan.
 
 # 1351
 
@@ -6016,9 +6176,9 @@ Sungguh, Allah telah menerima tobat Nabi, orang-orang Muhajirin dan orang-orang 
 
 # 1353
 
-dan terhadap tiga orang382) yang ditinggalkan. Hingga ketika bumi terasa sempit bagi mereka, padahal bumi itu luas dan jiwa mereka pun telah (pula terasa) sempit bagi mereka, serta mereka telah mengetahui bahwa tidak ada tempat lari dari (siksaan) Allah, melainkan kepada-Nya saja, kemudian Allah menerima tobat mereka agar mereka tetap dalam tobatnya. Sesungguhnya Allah Maha Penerima tobat, Maha Penyayang.
+dan terhadap tiga orang[^382] yang ditinggalkan. Hingga ketika bumi terasa sempit bagi mereka, padahal bumi itu luas dan jiwa mereka pun telah (pula terasa) sempit bagi mereka, serta mereka telah mengetahui bahwa tidak ada tempat lari dari (siksaan) Allah, melainkan kepada-Nya saja, kemudian Allah menerima tobat mereka agar mereka tetap dalam tobatnya. Sesungguhnya Allah Maha Penerima tobat, Maha Penyayang.
 
-*382) Ka'ab bin Malik, Hilal bin Umayyah dan Mararah bin Rabi', mereka disalahkan karena tidak mau ikut berperang.
+[^382]: Ka'ab bin Malik, Hilal bin Umayyah dan Mararah bin Rabi', mereka disalahkan karena tidak mau ikut berperang.
 
 # 1354
 
@@ -6046,9 +6206,9 @@ Dan apabila diturunkan suatu surah, maka di antara mereka (orang-orang munafik) 
 
 # 1360
 
-Dan adapun orang-orang yang di dalam hatinya ada penyakit,383) maka (dengan surah itu) akan menambah kekafiran mereka yang telah ada dan mereka akan mati dalam keadaan kafir.
+Dan adapun orang-orang yang di dalam hatinya ada penyakit,[^383] maka (dengan surah itu) akan menambah kekafiran mereka yang telah ada dan mereka akan mati dalam keadaan kafir.
 
-*383) Penyakit batin, seperti kekafiran, kemunafikan, keragu-raguan dan sebagainya.
+[^383]: Penyakit batin, seperti kekafiran, kemunafikan, keragu-raguan dan sebagainya.
 
 # 1361
 
@@ -6136,15 +6296,15 @@ Maka siapakah yang lebih zalim daripada orang yang mengada-adakan kebohongan ter
 
 # 1382
 
-Dan mereka menyembah selain Allah, sesuatu yang tidak dapat mendatangkan bencana kepada mereka dan tidak (pula) memberi manfaat, dan mereka berkata, "Mereka itu adalah pemberi syafaat kami di hadapan Allah." Katakanlah, "Apakah kamu akan memberitahu kepada Allah sesuatu yang tidak diketahui-Nya apa yang di langit dan tidak (pula) yang di bumi?"384) Mahasuci Allah dan Mahatinggi Dia dari apa yang mereka persekutukan itu.
+Dan mereka menyembah selain Allah, sesuatu yang tidak dapat mendatangkan bencana kepada mereka dan tidak (pula) memberi manfaat, dan mereka berkata, "Mereka itu adalah pemberi syafaat kami di hadapan Allah." Katakanlah, "Apakah kamu akan memberitahu kepada Allah sesuatu yang tidak diketahui-Nya apa yang di langit dan tidak (pula) yang di bumi?"[^384] Mahasuci Allah dan Mahatinggi Dia dari apa yang mereka persekutukan itu.
 
-*384) Kalimat ini adalah ejekan terhadap orang yang menyembah berhala, yang menyangka bahwa berhala-berhala itu dapat memberi syafaat di sisi Allah.
+[^384]: Kalimat ini adalah ejekan terhadap orang yang menyembah berhala, yang menyangka bahwa berhala-berhala itu dapat memberi syafaat di sisi Allah.
 
 # 1383
 
-Dan manusia dahulunya satu umat, kemudian mereka berselisih. Kalau tidak karena suatu ketetapan yang telah ada dari Tuhanmu,385) pastilah telah diberi keputusan (di dunia) di antara mereka, tentang apa yang mereka perselisihkan itu.
+Dan manusia dahulunya satu umat, kemudian mereka berselisih. Kalau tidak karena suatu ketetapan yang telah ada dari Tuhanmu,[^385] pastilah telah diberi keputusan (di dunia) di antara mereka, tentang apa yang mereka perselisihkan itu.
 
-*385) Ketetapan Allah ialah bahwa perselisihan manusia di dunia itu akan diputuskan di akhirat.
+[^385]: Ketetapan Allah ialah bahwa perselisihan manusia di dunia itu akan diputuskan di akhirat.
 
 # 1384
 
@@ -6164,9 +6324,9 @@ Tetapi ketika Allah menyelamatkan mereka, malah mereka berbuat kezaliman di bumi
 
 # 1388
 
-Sesungguhnya perumpamaan kehidupan duniawi itu hanya seperti air (hujan) yang Kami turunkan dari langit, lalu tumbuhlah tanaman-tanaman bumi dengan subur (karena air itu), di antaranya ada yang dimakan manusia dan hewan ternak. Hingga apabila bumi itu telah sempurna keindahannya, dan berhias,386) dan pemiliknya mengira bahwa mereka pasti menguasainya (memetik hasilnya), datanglah kepadanya azab Kami pada waktu malam atau siang, lalu Kami jadikan (tanaman)nya seperti tanaman yang sudah disabit, seakan-akan belum pernah tumbuh kemarin. Demikianlah Kami menjelaskan tanda-tanda (kekuasaan Kami) kepada kaum yang berpikir.
+Sesungguhnya perumpamaan kehidupan duniawi itu hanya seperti air (hujan) yang Kami turunkan dari langit, lalu tumbuhlah tanaman-tanaman bumi dengan subur (karena air itu), di antaranya ada yang dimakan manusia dan hewan ternak. Hingga apabila bumi itu telah sempurna keindahannya, dan berhias,[^386] dan pemiliknya mengira bahwa mereka pasti menguasainya (memetik hasilnya), datanglah kepadanya azab Kami pada waktu malam atau siang, lalu Kami jadikan (tanaman)nya seperti tanaman yang sudah disabit, seakan-akan belum pernah tumbuh kemarin. Demikianlah Kami menjelaskan tanda-tanda (kekuasaan Kami) kepada kaum yang berpikir.
 
-*386) Bumi yang indah dengan gunung-gunung, dan lembah-lembahnya telah menghijau dengan tanam-tanamannya.
+[^386]: Bumi yang indah dengan gunung-gunung, dan lembah-lembahnya telah menghijau dengan tanam-tanamannya.
 
 # 1389
 
@@ -6182,9 +6342,9 @@ Adapun orang-orang yang berbuat kejahatan (akan mendapat) balasan kejahatan yang
 
 # 1392
 
-Dan (ingatlah) pada hari (ketika) itu Kami mengumpulkan mereka semuanya, kemudian Kami berkata kepada orang yang mempersekutukan (Allah), "Tetaplah di tempatmu, kamu dan para sekutumu." Lalu Kami pisahkan mereka, dan berkatalah sekutu-sekutu mereka, "kamu sekali-kali tidak pernah menyembah kami.387)
+Dan (ingatlah) pada hari (ketika) itu Kami mengumpulkan mereka semuanya, kemudian Kami berkata kepada orang yang mempersekutukan (Allah), "Tetaplah di tempatmu, kamu dan para sekutumu." Lalu Kami pisahkan mereka, dan berkatalah sekutu-sekutu mereka, "kamu sekali-kali tidak pernah menyembah kami.[^387]
 
-*387) Orang-orang yang menyembah berhala itu sebenarnya bukanlah menyembah berhala, melainkan menyembah hawa nafsu mereka sendiri, karena hawa nafsu merekalah yang menyuruh menyembah berhala.
+[^387]: Orang-orang yang menyembah berhala itu sebenarnya bukanlah menyembah berhala, melainkan menyembah hawa nafsu mereka sendiri, karena hawa nafsu merekalah yang menyuruh menyembah berhala.
 
 # 1393
 
@@ -6220,9 +6380,9 @@ Dan kebanyakan mereka hanya mengikuti dugaan. Sesungguhnya dugaan itu tidak sedi
 
 # 1401
 
-Dan tidak mungkin Al-Qur`an ini dibuat-buat oleh selain Allah; tetapi (Al-Qur`an) membenarkan (kitab-kitab) yang sebelumnya dan menjelaskan hukum-hukum yang telah ditetapkannya,388) tidak ada keraguan di dalamnya, (diturunkan) dari Tuhan seluruh alam.
+Dan tidak mungkin Al-Qur`an ini dibuat-buat oleh selain Allah; tetapi (Al-Qur`an) membenarkan (kitab-kitab) yang sebelumnya dan menjelaskan hukum-hukum yang telah ditetapkannya,[^388] tidak ada keraguan di dalamnya, (diturunkan) dari Tuhan seluruh alam.
 
-*388) Sebagian ayat-ayat Al-Qur`an itu menjelaskan secara terperinci hukum-hukum yang telah disebutkan dalam Al-Qur`an itu juga.
+[^388]: Sebagian ayat-ayat Al-Qur`an itu menjelaskan secara terperinci hukum-hukum yang telah disebutkan dalam Al-Qur`an itu juga.
 
 # 1402
 
@@ -6242,15 +6402,15 @@ Dan jika mereka (tetap) mendustakanmu (Muhammad), maka katakanlah, "Bagiku peker
 
 # 1406
 
-Dan di antara mereka ada yang mendengarkan engkau (Muhammad).389) Tetapi apakah engkau dapat menjadikan orang yang tuli itu mendengar, walaupun mereka tidak mengerti?
+Dan di antara mereka ada yang mendengarkan engkau (Muhammad).[^389] Tetapi apakah engkau dapat menjadikan orang yang tuli itu mendengar, walaupun mereka tidak mengerti?
 
-*389) Artinya mereka terlihat memperhatikan apa yang dibaca oleh Rasulullah dan apa yang diajarkannya, padahal hati mereka tidak menerimanya.
+[^389]: Artinya mereka terlihat memperhatikan apa yang dibaca oleh Rasulullah dan apa yang diajarkannya, padahal hati mereka tidak menerimanya.
 
 # 1407
 
-Dan di antara mereka ada yang melihat kepada engkau.390) Tetapi apakah engkau dapat memberi petunjuk kepada orang yang buta, walaupun mereka tidak memperhatikan?
+Dan di antara mereka ada yang melihat kepada engkau.[^390] Tetapi apakah engkau dapat memberi petunjuk kepada orang yang buta, walaupun mereka tidak memperhatikan?
 
-*390) Artinya menyaksikan tanda-tanda kenabianmu, tetapi mereka tidak mengakuinya.
+[^390]: Artinya menyaksikan tanda-tanda kenabianmu, tetapi mereka tidak mengakuinya.
 
 # 1408
 
@@ -6294,9 +6454,9 @@ Dan mereka menanyakan kepadamu (Muhammad), "Benarkah (azab yang dijanjikan) itu?
 
 # 1418
 
-Dan kalau setiap orang yang zalim itu (mempunyai) segala apa yang ada di bumi, tentu dia menebus dirinya dengan itu, dan mereka menyembunyikan391) penyesalannya ketika mereka telah menyaksikan azab. Kemudian diberi keputusan di antara mereka dengan adil, dan mereka tidak dizalimi.
+Dan kalau setiap orang yang zalim itu (mempunyai) segala apa yang ada di bumi, tentu dia menebus dirinya dengan itu, dan mereka menyembunyikan[^391] penyesalannya ketika mereka telah menyaksikan azab. Kemudian diberi keputusan di antara mereka dengan adil, dan mereka tidak dizalimi.
 
-*391) Sebagian mufasir ada yang mengartikan asarrū dengan “menampakkan.”
+[^391]: Sebagian mufasir ada yang mengartikan asarrū dengan “menampakkan.”
 
 # 1419
 
@@ -6448,9 +6608,9 @@ Mengapa baru sekarang (kamu beriman), padahal sesungguhnya engkau telah durhaka 
 
 # 1456
 
-Maka pada hari ini Kami selamatkan jasadmu392) agar engkau dapat menjadi pelajaran bagi orang-orang yang datang setelahmu, tetapi kebanyakan manusia tidak mengindahkan tanda-tanda (kekuasaan) Kami.
+Maka pada hari ini Kami selamatkan jasadmu[^392] agar engkau dapat menjadi pelajaran bagi orang-orang yang datang setelahmu, tetapi kebanyakan manusia tidak mengindahkan tanda-tanda (kekuasaan) Kami.
 
-*392) Yang diselamatkan Allah ialah tubuh kasarnya. Menurut sejarah, setelah Fir'aun tenggelam, mayatnya terdampar di pantai ditemukan oleh orang-orang Mesir lalu dibalsem sehingga utuh sampai sekarang dan dapat dilihat di museum Mesir. Selanjutnya lihat Al-Baqarah (2): 50.
+[^392]: Yang diselamatkan Allah ialah tubuh kasarnya. Menurut sejarah, setelah Fir'aun tenggelam, mayatnya terdampar di pantai ditemukan oleh orang-orang Mesir lalu dibalsem sehingga utuh sampai sekarang dan dapat dilihat di museum Mesir. Selanjutnya lihat Al-Baqarah (2): 50.
 
 # 1457
 
@@ -6522,9 +6682,9 @@ Dan ikutilah apa yang diwahyukan kepadamu, dan bersabarlah hingga Allah memberi 
 
 # 1474
 
-Alif lām Rā`. (Inilah) Kitab yang ayat-ayatnya disusun dengan rapi kemudian dijelaskan secara terperinci,393) (yang diturunkan) dari sisi (Allah) Yang Mahabijaksana, Mahateliti,
+Alif lām Rā`. (Inilah) Kitab yang ayat-ayatnya disusun dengan rapi kemudian dijelaskan secara terperinci,[^393] (yang diturunkan) dari sisi (Allah) Yang Mahabijaksana, Mahateliti,
 
-*393) Diperinci atas beberapa macam, ada yang mengenai tauhid, hukum, kisah, akhlak, ilmu pengetahuan, janji dan peringatan dan lain-lain, disusun surah demi surah, ayat demi ayat, dan seterusnya.
+[^393]: Diperinci atas beberapa macam, ada yang mengenai tauhid, hukum, kisah, akhlak, ilmu pengetahuan, janji dan peringatan dan lain-lain, disusun surah demi surah, ayat demi ayat, dan seterusnya.
 
 # 1475
 
@@ -6540,15 +6700,15 @@ Kepada Allahlah kamu kembali. Dia Mahakuasa atas segala sesuatu.
 
 # 1478
 
-Ingatlah, sesungguhnya mereka (orang-orang munafik) memalingkan dada untuk menyembunyikan diri dari dia (Muhammad).394) Ingatlah, ketika mereka menyelimuti dirinya dengan kain, Allah mengetahui apa yang mereka sembunyikan dan apa yang mereka nyatakan, sungguh, Allah Maha Mengetahui (segala) isi hati.
+Ingatlah, sesungguhnya mereka (orang-orang munafik) memalingkan dada untuk menyembunyikan diri dari dia (Muhammad).[^394] Ingatlah, ketika mereka menyelimuti dirinya dengan kain, Allah mengetahui apa yang mereka sembunyikan dan apa yang mereka nyatakan, sungguh, Allah Maha Mengetahui (segala) isi hati.
 
-*394) Menyembunyikan perasaan permusuhan dan kemunafikan mereka terhadap Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
+[^394]: Menyembunyikan perasaan permusuhan dan kemunafikan mereka terhadap Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
 
 # 1479
 
-Dan tidak satu pun makhluk bergerak (bernyawa) di bumi melainkan semuanya dijamin Allah rezekinya. Dia mengetahui tempat kediamannya dan tempat penyimpanannya.395) Semua (tertulis) dalam Kitab yang nyata (Lauḥ Maḥfūẓ).
+Dan tidak satu pun makhluk bergerak (bernyawa) di bumi melainkan semuanya dijamin Allah rezekinya. Dia mengetahui tempat kediamannya dan tempat penyimpanannya.[^395] Semua (tertulis) dalam Kitab yang nyata (Lauḥ Maḥfūẓ).
 
-*395) Menurut sebagian mufasir, yang dimaksud dengan “tempat kediaman” di sini ialah dunia, dan “tempat penyimpanan” ialah akhirat. Dan menurut sebagian mufasir lain, maksud “tempat kediaman” ialah tulang sulbi, dan “tempat penyimpanan” ialah rahim.
+[^395]: Menurut sebagian mufasir, yang dimaksud dengan “tempat kediaman” di sini ialah dunia, dan “tempat penyimpanan” ialah akhirat. Dan menurut sebagian mufasir lain, maksud “tempat kediaman” ialah tulang sulbi, dan “tempat penyimpanan” ialah rahim.
 
 # 1480
 
@@ -6592,21 +6752,21 @@ Itulah orang-orang yang tidak memperoleh (sesuatu) di akhirat kecuali neraka, da
 
 # 1490
 
-Maka apakah (orang-orang kafir itu sama dengan) orang yang sudah mempunyai bukti yang nyata (Al-Qur`an) dari Tuhannya, dan diikuti oleh saksi396) dari-Nya dan sebelumnya sudah ada pula Kitab Musa yang menjadi pedoman dan rahmat? Mereka beriman kepadanya (Al-Qur`an). Barang siapa mengingkarinya (Al-Qur`an) di antara kelompok-kelompok (orang Quraisy), maka nerakalah tempat yang diancamkan baginya, karena itu janganlah engkau ragu terhadap Al-Qur`an. Sungguh, Al-Qur`an itu benar-benar dari Tuhanmu, tetapi kebanyakan manusia tidak beriman.
+Maka apakah (orang-orang kafir itu sama dengan) orang yang sudah mempunyai bukti yang nyata (Al-Qur`an) dari Tuhannya, dan diikuti oleh saksi[^396] dari-Nya dan sebelumnya sudah ada pula Kitab Musa yang menjadi pedoman dan rahmat? Mereka beriman kepadanya (Al-Qur`an). Barang siapa mengingkarinya (Al-Qur`an) di antara kelompok-kelompok (orang Quraisy), maka nerakalah tempat yang diancamkan baginya, karena itu janganlah engkau ragu terhadap Al-Qur`an. Sungguh, Al-Qur`an itu benar-benar dari Tuhanmu, tetapi kebanyakan manusia tidak beriman.
 
-*396) Ada yang menafsirkan saksi dengan Jibril -'alaihissalām-, Al-Qur`an atau Muhammad -ṣallallāhu 'alaihi wa sallam-.
+[^396]: Ada yang menafsirkan saksi dengan Jibril -'alaihissalām-, Al-Qur`an atau Muhammad -ṣallallāhu 'alaihi wa sallam-.
 
 # 1491
 
-Dan siapakah yang lebih zalim daripada orang yang mengada-adakan suatu kebohongan terhadap Allah? Mereka itu akan dihadapkan kepada Tuhan mereka, dan para saksi397) akan berkata, "Orang-orang inilah yang telah berbohong terhadap Tuhan mereka." Ingatlah, laknat Allah (ditimpakan) kepada orang yang zalim,
+Dan siapakah yang lebih zalim daripada orang yang mengada-adakan suatu kebohongan terhadap Allah? Mereka itu akan dihadapkan kepada Tuhan mereka, dan para saksi[^397] akan berkata, "Orang-orang inilah yang telah berbohong terhadap Tuhan mereka." Ingatlah, laknat Allah (ditimpakan) kepada orang yang zalim,
 
-*397) Maksud para saksi di sini ialah malaikat, nabi-nabi, dan anggota badannya sendiri.
+[^397]: Maksud para saksi di sini ialah malaikat, nabi-nabi, dan anggota badannya sendiri.
 
 # 1492
 
-(yaitu) mereka yang menghalangi dari jalan Allah dan menghendaki agar jalan itu bengkok.398) Dan mereka itulah orang yang tidak percaya adanya hari akhirat.
+(yaitu) mereka yang menghalangi dari jalan Allah dan menghendaki agar jalan itu bengkok.[^398] Dan mereka itulah orang yang tidak percaya adanya hari akhirat.
 
-*398) Maksudnya, mereka berusaha agar orang lain mengingkari agama yang benar.
+[^398]: Maksudnya, mereka berusaha agar orang lain mengingkari agama yang benar.
 
 # 1493
 
@@ -6698,9 +6858,9 @@ Dan dia berkata, "Naiklah kamu semua ke dalamnya (kapal) dengan (menyebut) nama 
 
 # 1515
 
-Dan kapal itu berlayar membawa mereka ke dalam gelombang laksana gunung-gunung. Dan Nuh memanggil anaknya,399) ketika dia (anak itu) berada di tempat yang jauh terpencil, "Wahai anakku! Naiklah (ke kapal) bersama kami dan janganlah engkau bersama orang-orang kafir."
+Dan kapal itu berlayar membawa mereka ke dalam gelombang laksana gunung-gunung. Dan Nuh memanggil anaknya,[^399] ketika dia (anak itu) berada di tempat yang jauh terpencil, "Wahai anakku! Naiklah (ke kapal) bersama kami dan janganlah engkau bersama orang-orang kafir."
 
-*399) Nama anak Nabi Nuh -'alaihissalām- yang kafir itu Kan'an, sedang putera-puteranya yang beriman ialah Sam, Ham, & Yafis.
+[^399]: Nama anak Nabi Nuh -'alaihissalām- yang kafir itu Kan'an, sedang putera-puteranya yang beriman ialah Sam, Ham, & Yafis.
 
 # 1516
 
@@ -6708,9 +6868,11 @@ Dia (anaknya) menjawab, "Aku akan mencari perlindungan ke gunung yang dapat meng
 
 # 1517
 
-Dan difirmankan, "Wahai bumi! Telanlah airmu dan wahai langit (hujan!) berhentilah." Dan air pun disurutkan, dan perintah pun diselesaikan,400) dan kapal itu pun berlabuh di atas gunung Judi,401) dan dikatakan, "Binasalah orang-orang zalim."
+Dan difirmankan, "Wahai bumi! Telanlah airmu dan wahai langit (hujan!) berhentilah." Dan air pun disurutkan, dan perintah pun diselesaikan,[^400] dan kapal itu pun berlabuh di atas gunung Judi,[^401] dan dikatakan, "Binasalah orang-orang zalim."
 
-*400) Yakni Allah telah melaksanakan janji-Nya dengan membinasakan orang yang kafir kepada Nabi Nuh -'alaihissalām-, dan menyelamatkan orang yang beriman. 401) Gunung Judi terletak di Armenia sebelah selatan, berbatasan dengan Mesopotamia.
+[^400]: Yakni Allah telah melaksanakan janji-Nya dengan membinasakan orang yang kafir kepada Nabi Nuh -'alaihissalām-, dan menyelamatkan orang yang beriman
+
+[^401]: Gunung Judi terletak di Armenia sebelah selatan, berbatasan dengan Mesopotamia.
 
 # 1518
 
@@ -6778,9 +6940,9 @@ Dan mereka selalu diikuti dengan laknat di dunia ini dan (begitu pula) di hari K
 
 # 1534
 
-Dan kepada kaum Samud (Kami utus) saudara mereka, Saleh. Dia berkata, "Wahai kaumku! Sembahlah Allah, tidak ada tuhan bagimu selain Dia. Dia telah menciptakanmu dari bumi (tanah) dan menjadikanmu pemakmurnya,402) karena itu mohonlah ampunan kepada-Nya, kemudian bertobatlah kepada-Nya. Sesungguhnya Tuhanku sangat dekat (rahmat-Nya) dan memperkenankan (doa hamba-Nya)"
+Dan kepada kaum Samud (Kami utus) saudara mereka, Saleh. Dia berkata, "Wahai kaumku! Sembahlah Allah, tidak ada tuhan bagimu selain Dia. Dia telah menciptakanmu dari bumi (tanah) dan menjadikanmu pemakmurnya,[^402] karena itu mohonlah ampunan kepada-Nya, kemudian bertobatlah kepada-Nya. Sesungguhnya Tuhanku sangat dekat (rahmat-Nya) dan memperkenankan (doa hamba-Nya)"
 
-*402) Manusia dijadikan penghuni dunia untuk menguasai dan memakmurkan dunia.
+[^402]: Manusia dijadikan penghuni dunia untuk menguasai dan memakmurkan dunia.
 
 # 1535
 
@@ -6796,9 +6958,9 @@ Dan wahai kaumku! Inilah unta betina dari Allah, sebagai mukjizat untukmu, sebab
 
 # 1538
 
-Maka mereka menyembelih unta itu, kemudian dia (Saleh) berkata, "Bersukarialah kamu semua di rumahmu selama tiga hari.403) Itu adalah janji yang tidak dapat didustakan."
+Maka mereka menyembelih unta itu, kemudian dia (Saleh) berkata, "Bersukarialah kamu semua di rumahmu selama tiga hari.[^403] Itu adalah janji yang tidak dapat didustakan."
 
-*403) Perbuatan mereka membunuh unta itu adalah suatu pelanggaran terhadap larangan Nabi Saleh -'alaihissalām-. Oleh sebab itu Allah menjatuhkan kepada mereka hukuman yaitu membatasi hidup mereka hanya dalam tempo tiga hari, maka sebagai ejekan mereka di suruh bersuka ria selama tiga hari itu.
+[^403]: Perbuatan mereka membunuh unta itu adalah suatu pelanggaran terhadap larangan Nabi Saleh -'alaihissalām-. Oleh sebab itu Allah menjatuhkan kepada mereka hukuman yaitu membatasi hidup mereka hanya dalam tempo tiga hari, maka sebagai ejekan mereka di suruh bersuka ria selama tiga hari itu.
 
 # 1539
 
@@ -6810,9 +6972,9 @@ Kemudian suara yang mengguntur menimpa orang-orang zalim itu, sehingga mereka ma
 
 # 1541
 
-seolah-olah mereka belum pernah tinggal404) di tempat itu. Ingatlah, kaum Samud mengingkari Tuhan mereka. Ingatlah, binasalah kaum Samud.
+seolah-olah mereka belum pernah tinggal[^404] di tempat itu. Ingatlah, kaum Samud mengingkari Tuhan mereka. Ingatlah, binasalah kaum Samud.
 
-*404) Demikian cepatnya mereka dihancurkan oleh guntur itu, sehingga mereka hancur lebur, tanpa bekas, seolah-olah mereka tidak pernah ada.
+[^404]: Demikian cepatnya mereka dihancurkan oleh guntur itu, sehingga mereka hancur lebur, tanpa bekas, seolah-olah mereka tidak pernah ada.
 
 # 1542
 
@@ -6848,9 +7010,9 @@ Wahai Ibrahim! Tinggalkanlah (perbincangan) ini. Sungguh, ketetapan Tuhanmu tela
 
 # 1550
 
-Dan ketika para utusan Kami (para malaikat) itu datang kepada Luṭ, dia merasa curiga dan dadanya merasa sempit karena (kedatangan)nya. Dia (Luṭ) berkata, "Ini hari yang sangat sulit."405)
+Dan ketika para utusan Kami (para malaikat) itu datang kepada Luṭ, dia merasa curiga dan dadanya merasa sempit karena (kedatangan)nya. Dia (Luṭ) berkata, "Ini hari yang sangat sulit."[^405]
 
-*405) Nabi Luṭ -'alaihissalām- merasa gelisah akan kedatangan para utusan Allah itu karena mereka berupa pemuda yang rupawan sedangkan kaum Luṭ sangat menyukai pemuda-pemuda yang rupawan untuk melakukan homoseksual. Dia merasa tidak sanggup melindungi mereka bilamana ada gangguan dari kaumnya.
+[^405]: Nabi Luṭ -'alaihissalām- merasa gelisah akan kedatangan para utusan Allah itu karena mereka berupa pemuda yang rupawan sedangkan kaum Luṭ sangat menyukai pemuda-pemuda yang rupawan untuk melakukan homoseksual. Dia merasa tidak sanggup melindungi mereka bilamana ada gangguan dari kaumnya.
 
 # 1551
 
@@ -6890,9 +7052,9 @@ Sisa (yang halal) dari Allah adalah lebih baik bagimu jika kamu orang yang berim
 
 # 1560
 
-Mereka berkata, "Wahai Syu'aib! Apakah salatmu yang menyuruhmu agar kami meninggalkan apa yang disembah nenek moyang kami atau melarang kami mengelola harta kami menurut cara yang kami kehendaki? Sesungguhnya engkau benar-benar orang yang sangat penyantun dan pandai."406)
+Mereka berkata, "Wahai Syu'aib! Apakah salatmu yang menyuruhmu agar kami meninggalkan apa yang disembah nenek moyang kami atau melarang kami mengelola harta kami menurut cara yang kami kehendaki? Sesungguhnya engkau benar-benar orang yang sangat penyantun dan pandai."[^406]
 
-*406) Perkataan ini mereka ucapkan untuk mengejek Nabi Syu'aib -'alaihissalām-.
+[^406]: Perkataan ini mereka ucapkan untuk mengejek Nabi Syu'aib -'alaihissalām-.
 
 # 1561
 
@@ -6972,9 +7134,9 @@ Maka adapun orang-orang yang sengsara, maka (tempatnya) di dalam neraka, di sana
 
 # 1580
 
-mereka kekal di dalamnya selama ada langit dan bumi,407) kecuali jika Tuhanmu menghendaki (yang lain). Sungguh, Tuhanmu Maha Pelaksana terhadap apa yang Dia kehendaki.
+mereka kekal di dalamnya selama ada langit dan bumi,[^407] kecuali jika Tuhanmu menghendaki (yang lain). Sungguh, Tuhanmu Maha Pelaksana terhadap apa yang Dia kehendaki.
 
-*407) Ini kata kiasan yang maksudnya menjelaskan kekekalan mereka dalam neraka selama-lamanya. Alam akhirat juga mempunyai langit dan bumi tersendiri.
+[^407]: Ini kata kiasan yang maksudnya menjelaskan kekekalan mereka dalam neraka selama-lamanya. Alam akhirat juga mempunyai langit dan bumi tersendiri.
 
 # 1581
 
@@ -6986,9 +7148,9 @@ Maka janganlah engkau (Muhammad) ragu-ragu tentang apa yang mereka sembah. Merek
 
 # 1583
 
-Dan sungguh, Kami telah memberikan Kitab (Taurat) kepada Musa, lalu diperselisihkan (oleh kaumnya). Dan kalau tidak ada ketetapan yang terdahulu dari Tuhanmu, niscaya telah dilaksanakan hukuman di antara mereka.408) Sungguh, mereka (orang kafir Mekah) benar-benar dalam kebimbangan dan keraguan terhadapnya (Al-Qur`an).
+Dan sungguh, Kami telah memberikan Kitab (Taurat) kepada Musa, lalu diperselisihkan (oleh kaumnya). Dan kalau tidak ada ketetapan yang terdahulu dari Tuhanmu, niscaya telah dilaksanakan hukuman di antara mereka.[^408] Sungguh, mereka (orang kafir Mekah) benar-benar dalam kebimbangan dan keraguan terhadapnya (Al-Qur`an).
 
-*408) Sekiranya tidak ada ketetapan penundaan azab terhadap mereka sampai hari Kiamat tentulah mereka dibinasakan pada waktu itu juga.
+[^408]: Sekiranya tidak ada ketetapan penundaan azab terhadap mereka sampai hari Kiamat tentulah mereka dibinasakan pada waktu itu juga.
 
 # 1584
 
@@ -7096,9 +7258,9 @@ Dia (Yakub) berkata, "Sesungguhnya kepergian kamu bersama dia (Yusuf) sangat men
 
 # 1610
 
-Sesungguhnya mereka berkata, "Jika dia dimakan serigala, padahal kami kelompok (yang kuat), maka tentu kami menjadi orang-orang yang merugi."409)
+Sesungguhnya mereka berkata, "Jika dia dimakan serigala, padahal kami kelompok (yang kuat), maka tentu kami menjadi orang-orang yang merugi."[^409]
 
-*409) Menjadi orang pengecut yang hidupnya tidak ada artinya.
+[^409]: Menjadi orang pengecut yang hidupnya tidak ada artinya.
 
 # 1611
 
@@ -7126,9 +7288,9 @@ Dan mereka menjualnya (Yusuf) dengan harga murah, yaitu beberapa dirham saja, se
 
 # 1617
 
-Dan orang dari Mesir yang membelinya berkata kepada istrinya,410) "Berikanlah kepadanya tempat (dan layanan) yang baik, mudah-mudahan dia bermanfaat bagi kita atau kita pungut dia sebagai anak." Dan demikianlah Kami memberikan kedudukan yang baik kepada Yusuf di negeri (Mesir), dan agar Kami ajarkan kepadanya takwil mimpi. Dan Allah berkuasa terhadap urusan-Nya, tetapi kebanyakan manusia tidak mengerti.
+Dan orang dari Mesir yang membelinya berkata kepada istrinya,[^410] "Berikanlah kepadanya tempat (dan layanan) yang baik, mudah-mudahan dia bermanfaat bagi kita atau kita pungut dia sebagai anak." Dan demikianlah Kami memberikan kedudukan yang baik kepada Yusuf di negeri (Mesir), dan agar Kami ajarkan kepadanya takwil mimpi. Dan Allah berkuasa terhadap urusan-Nya, tetapi kebanyakan manusia tidak mengerti.
 
-*410) Orang dari Mesir yang membeli Yusuf itu seorang pembesar Mesir Al-Aziz, biasa dikenal dengan nama Qiṭfir. Dalam sebagian kitab tafsir disebutkan nama istrinya Rail, dan ada juga yang menyebut Zulaikha atau Zalikha. Namum riwayat yang menyebutkan nama-nama tersebut tidak dapat dipertanggungjawabkan.
+[^410]: Orang dari Mesir yang membeli Yusuf itu seorang pembesar Mesir Al-Aziz, biasa dikenal dengan nama Qiṭfir. Dalam sebagian kitab tafsir disebutkan nama istrinya Rail, dan ada juga yang menyebut Zulaikha atau Zalikha. Namum riwayat yang menyebutkan nama-nama tersebut tidak dapat dipertanggungjawabkan.
 
 # 1618
 
@@ -7140,9 +7302,9 @@ Dan perempuan yang dia (Yusuf) tinggal di rumahnya menggoda dirinya. Lalu dia me
 
 # 1620
 
-Dan Sungguh, perempuan itu telah berhasrat kepadanya (Yusuf). Dan Yusuf pun berkehendak kepadanya, sekiranya dia tidak melihat tanda (dari) Tuhannya.411) Demikianlah, Kami palingkan darinya keburukan dan kekejian. Sungguh, dia (Yusuf) termasuk hamba Kami yang terpilih.
+Dan Sungguh, perempuan itu telah berhasrat kepadanya (Yusuf). Dan Yusuf pun berkehendak kepadanya, sekiranya dia tidak melihat tanda (dari) Tuhannya.[^411] Demikianlah, Kami palingkan darinya keburukan dan kekejian. Sungguh, dia (Yusuf) termasuk hamba Kami yang terpilih.
 
-*411) Ayat ini tidaklah menunjukkan bahwa Nabi Yusuf -'alaihissalām- mempunyai keinginan yang buruk terhadap perempuan itu, tetapi godaan itu demikian besarnya sehingga sekiranya dia tidak dikuatkan dengan keimanan kepada Allah -Subḥānahu wata'ālā- tentu dia jatuh ke dalam kemaksiatan.
+[^411]: Ayat ini tidaklah menunjukkan bahwa Nabi Yusuf -'alaihissalām- mempunyai keinginan yang buruk terhadap perempuan itu, tetapi godaan itu demikian besarnya sehingga sekiranya dia tidak dikuatkan dengan keimanan kepada Allah -Subḥānahu wata'ālā- tentu dia jatuh ke dalam kemaksiatan.
 
 # 1621
 
@@ -7190,9 +7352,9 @@ Kemudian timbul pikiran pada mereka setelah melihat tanda-tanda (kebenaran Yusuf
 
 # 1632
 
-Dan bersama dia masuk pula dua orang pemuda ke dalam penjara.412) Salah satunya berkata, "Sesungguhnya aku bermimpi memeras anggur." Dan yang lainnya berkata, "Aku bermimpi, membawa roti di atas kepalaku, sebagiannya dimakan burung." Berikanlah kepada kami takwilnya. Sesungguhnya kami memandangmu termasuk orang yang berbuat baik.
+Dan bersama dia masuk pula dua orang pemuda ke dalam penjara.[^412] Salah satunya berkata, "Sesungguhnya aku bermimpi memeras anggur." Dan yang lainnya berkata, "Aku bermimpi, membawa roti di atas kepalaku, sebagiannya dimakan burung." Berikanlah kepada kami takwilnya. Sesungguhnya kami memandangmu termasuk orang yang berbuat baik.
 
-*412) Menurut riwayat, dua pemuda itu adalah pelayan-pelayan raja; seorang pelayan yang mengurusi minuman raja dan yang seorang lagi tukang membuat roti.
+[^412]: Menurut riwayat, dua pemuda itu adalah pelayan-pelayan raja; seorang pelayan yang mengurusi minuman raja dan yang seorang lagi tukang membuat roti.
 
 # 1633
 
@@ -7252,9 +7414,9 @@ Dan raja berkata, "Bawalah dia kepadaku." Ketika utusan itu datang kepadanya, di
 
 # 1647
 
-Dia (raja) berkata (kepada perempuan-perempuan itu), "Bagaimana keadaanmu413) ketika kamu menggoda Yusuf untuk menundukkan dirinya?" Mereka berkata, "Mahasempurna Allah, kami tidak mengetahui sesuatu keburukan darinya." Istri Al-Aziz berkata, "Sekarang jelaslah kebenaran itu, akulah yang menggoda dan merayunya, dan sesungguhnya dia termasuk orang yang benar."
+Dia (raja) berkata (kepada perempuan-perempuan itu), "Bagaimana keadaanmu[^413] ketika kamu menggoda Yusuf untuk menundukkan dirinya?" Mereka berkata, "Mahasempurna Allah, kami tidak mengetahui sesuatu keburukan darinya." Istri Al-Aziz berkata, "Sekarang jelaslah kebenaran itu, akulah yang menggoda dan merayunya, dan sesungguhnya dia termasuk orang yang benar."
 
-*413) Yang dimaksud dengan keadaan ialah pendapat perempuan-perempuan itu tentang Yusuf, apakah dia terpengaruh godaan itu atau tidak.
+[^413]: Yang dimaksud dengan keadaan ialah pendapat perempuan-perempuan itu tentang Yusuf, apakah dia terpengaruh godaan itu atau tidak.
 
 # 1648
 
@@ -7282,9 +7444,9 @@ Dan sungguh, pahala akhirat itu lebih baik bagi orang-orang yang beriman dan sel
 
 # 1654
 
-Dan saudara-saudara Yusuf datang (ke Mesir) lalu mereka masuk ke (tempat)nya. Maka dia (Yusuf) mengenal mereka, sedangkan mereka tidak kenal (lagi) kepadanya.414)
+Dan saudara-saudara Yusuf datang (ke Mesir) lalu mereka masuk ke (tempat)nya. Maka dia (Yusuf) mengenal mereka, sedangkan mereka tidak kenal (lagi) kepadanya.[^414]
 
-*414) Menurut sejarah terjadi musim paceklik di Mesir dan sekitarnya, maka atas anjuran Nabi Yakub -'alaihissalām-, saudara-saudara Yusuf datang dari Kan'an ke Mesir menghadap pembesar-pembesar Mesir untuk meminta bahan makanan.
+[^414]: Menurut sejarah terjadi musim paceklik di Mesir dan sekitarnya, maka atas anjuran Nabi Yakub -'alaihissalām-, saudara-saudara Yusuf datang dari Kan'an ke Mesir menghadap pembesar-pembesar Mesir untuk meminta bahan makanan.
 
 # 1655
 
@@ -7300,9 +7462,11 @@ Mereka berkata, "Kami akan membujuk ayahnya (untuk membawanya) dan kami benar-be
 
 # 1658
 
-Dan dia (Yusuf) berkata kepada pelayan-pelayannya, "Masukkanlah barang-barang (penukar) mereka415) ke dalam karung-karungnya, agar mereka mengetahuinya apabila telah kembali kepada keluarganya, mudah-mudahan mereka kembali lagi.416)
+Dan dia (Yusuf) berkata kepada pelayan-pelayannya, "Masukkanlah barang-barang (penukar) mereka ke dalam karung-karungnya, agar mereka mengetahuinya apabila telah kembali kepada keluarganya, mudah-mudahan mereka kembali lagi.[^416][^5]
 
-5) Menurut kebanyakan mufasir barang-barang dari saudara-saudara Nabi Yusuf -'alaihissalām- yang digunakan sebagai alat penukar bahan makanan itu ialah kulit atau terompah. 416) Tindakan ini di ambil sebagai siasat dengan cara menanam budi kepada mereka, agar mereka nantinya bersedia kembali ke Mesir dengan membawa Bunyamin.
+[^5]: Menurut kebanyakan mufasir barang-barang dari saudara-saudara Nabi Yusuf -'alaihissalām- yang digunakan sebagai alat penukar bahan makanan itu ialah kulit atau terompah
+
+[^416]: Tindakan ini di ambil sebagai siasat dengan cara menanam budi kepada mereka, agar mereka nantinya bersedia kembali ke Mesir dengan membawa Bunyamin.
 
 # 1659
 
@@ -7334,9 +7498,9 @@ Dan ketika mereka masuk ke (tempat) Yusuf, dia menempatkan saudaranya (Bunyamin)
 
 # 1666
 
-Maka ketika telah disiapkan bahan makanan untuk mereka, dia (Yusuf) memasukkan bejana417) ke dalam karung saudaranya. Kemudian berteriaklah seseorang yang menyerukan, "Wahai kafilah! Sesungguhnya kamu pasti pencuri."
+Maka ketika telah disiapkan bahan makanan untuk mereka, dia (Yusuf) memasukkan bejana[^417] ke dalam karung saudaranya. Kemudian berteriaklah seseorang yang menyerukan, "Wahai kafilah! Sesungguhnya kamu pasti pencuri."
 
-*417) Suatu wadah yang terbuat dari emas yang digunakan untuk minum dan dapat juga digunakan untuk menakar.
+[^417]: Suatu wadah yang terbuat dari emas yang digunakan untuk minum dan dapat juga digunakan untuk menakar.
 
 # 1667
 
@@ -7356,9 +7520,9 @@ Mereka berkata, "Tetapi apa hukumannya jika kamu dusta?"
 
 # 1671
 
-Mereka menjawab, "Hukumannya ialah pada siapa yang ditemukan dalam karungnya (barang yang hilang itu), maka dia sendirilah sebagai hukumannya.418) Demikianlah kami memberi hukuman kepada orang-orang zalim."
+Mereka menjawab, "Hukumannya ialah pada siapa yang ditemukan dalam karungnya (barang yang hilang itu), maka dia sendirilah sebagai hukumannya.[^418] Demikianlah kami memberi hukuman kepada orang-orang zalim."
 
-*418) Menurut syariat Nabi Yakub -'alaihissalām- barang siapa mencuri maka hukumannya dijadikan budak satu tahun.
+[^418]: Menurut syariat Nabi Yakub -'alaihissalām- barang siapa mencuri maka hukumannya dijadikan budak satu tahun.
 
 # 1672
 
@@ -7586,9 +7750,9 @@ Maka apakah orang yang mengetahui bahwa apa yang diturunkan Tuhan kepadamu adala
 
 # 1728
 
-dan orang-orang yang menghubungkan apa yang diperintahkan Allah agar dihubungkan,419) dan mereka takut kepada Tuhannya dan takut kepada hisab yang buruk.
+dan orang-orang yang menghubungkan apa yang diperintahkan Allah agar dihubungkan,[^419] dan mereka takut kepada Tuhannya dan takut kepada hisab yang buruk.
 
-*419) Mengadakan hubungan silaturahmi dan tali persaudaraan.
+[^419]: Mengadakan hubungan silaturahmi dan tali persaudaraan.
 
 # 1729
 
@@ -7612,9 +7776,9 @@ Allah melapangkan rezeki bagi siapa yang Dia kehendaki dan membatasi (bagi siapa
 
 # 1734
 
-Dan orang-orang kafir berkata, "Mengapa tidak diturunkan kepadanya (Muhammad) tanda (mukjizat) dari Tuhannya?" Katakanlah (Muhammad), "Sesungguhnya Allah menyesatkan420) siapa yang Dia kehendaki dan memberi petunjuk orang yang bertobat kepada-Nya,"
+Dan orang-orang kafir berkata, "Mengapa tidak diturunkan kepadanya (Muhammad) tanda (mukjizat) dari Tuhannya?" Katakanlah (Muhammad), "Sesungguhnya Allah menyesatkan[^420] siapa yang Dia kehendaki dan memberi petunjuk orang yang bertobat kepada-Nya,"
 
-*420) Allah menyesatkan berarti bahwa orang itu sesat karena keingkarannya dan tidak mau memahami petunjuk-petunjuk.
+[^420]: Allah menyesatkan berarti bahwa orang itu sesat karena keingkarannya dan tidak mau memahami petunjuk-petunjuk.
 
 # 1735
 
@@ -7650,9 +7814,9 @@ Perumpamaan surga yang dijanjikan kepada orang yang bertakwa (ialah seperti tama
 
 # 1743
 
-Dan orang yang telah Kami berikan kitab kepada mereka421) bergembira dengan apa (Kitab) yang diturunkan kepadamu (Muhammad), dan ada di antara golongan (Yahudi dan Nasrani), yang mengingkari sebagiannya. Katakanlah, "Aku hanya diperintah untuk menyembah Allah dan tidak mempersekutukan-Nya. Hanya kepada-Nya aku seru (manusia) dan hanya kepada-Nya aku kembali."
+Dan orang yang telah Kami berikan kitab kepada mereka[^421] bergembira dengan apa (Kitab) yang diturunkan kepadamu (Muhammad), dan ada di antara golongan (Yahudi dan Nasrani), yang mengingkari sebagiannya. Katakanlah, "Aku hanya diperintah untuk menyembah Allah dan tidak mempersekutukan-Nya. Hanya kepada-Nya aku seru (manusia) dan hanya kepada-Nya aku kembali."
 
-*421) Orang Yahudi dan Nasrani yang telah masuk Islam.
+[^421]: Orang Yahudi dan Nasrani yang telah masuk Islam.
 
 # 1744
 
@@ -7660,9 +7824,9 @@ Dan demikianlah Kami telah menurunkannya (Al-Qur`an) sebagai peraturan (yang ben
 
 # 1745
 
-Dan sungguh, Kami telah mengutus beberapa rasul sebelum engkau (Muhammad) dan Kami berikan kepada mereka istri-istri dan keturunan. Tidak ada hak bagi seorang rasul mendatangkan sesuatu bukti (mukjizat) melainkan dengan izin Allah. Untuk setiap masa ada Kitab (tertentu).422)
+Dan sungguh, Kami telah mengutus beberapa rasul sebelum engkau (Muhammad) dan Kami berikan kepada mereka istri-istri dan keturunan. Tidak ada hak bagi seorang rasul mendatangkan sesuatu bukti (mukjizat) melainkan dengan izin Allah. Untuk setiap masa ada Kitab (tertentu).[^422]
 
-*422) Pada setiap masa ada hukum yang diberlakukan oleh Allah atas hamba-hamba-Nya sesuai dengan garis kebijakan-Nya.
+[^422]: Pada setiap masa ada hukum yang diberlakukan oleh Allah atas hamba-hamba-Nya sesuai dengan garis kebijakan-Nya.
 
 # 1746
 
@@ -7682,9 +7846,9 @@ Dan sungguh orang sebelum mereka (kafir Mekkah) telah mengadakan tipu daya, teta
 
 # 1750
 
-Dan orang-orang kafir berkata, "Engkau (Muhammad) bukanlah seorang Rasul." Katakanlah, "Cukuplah Allah dan orang yang menguasai ilmu Al-Kitab423) menjadi saksi antara aku dan kamu."
+Dan orang-orang kafir berkata, "Engkau (Muhammad) bukanlah seorang Rasul." Katakanlah, "Cukuplah Allah dan orang yang menguasai ilmu Al-Kitab[^423] menjadi saksi antara aku dan kamu."
 
-*423) Ulama-ulama Ahli Kitab yang memeluk Islam.
+[^423]: Ulama-ulama Ahli Kitab yang memeluk Islam.
 
 # 1751
 
@@ -7700,15 +7864,15 @@ Allah yang memiliki apa yang ada di langit dan apa yang ada di bumi. Celakalah b
 
 # 1754
 
-Dan Kami tidak mengutus seorang rasul pun, melainkan dengan bahasa kaumnya,424) agar dia dapat memberi penjelasan kepada mereka. Maka Allah menyesatkan siapa yang Dia kehendaki, dan memberi petunjuk kepada siapa yang Dia kehendaki. Dia Yang Mahaperkasa, Mahabijaksana.
+Dan Kami tidak mengutus seorang rasul pun, melainkan dengan bahasa kaumnya,[^424] agar dia dapat memberi penjelasan kepada mereka. Maka Allah menyesatkan siapa yang Dia kehendaki, dan memberi petunjuk kepada siapa yang Dia kehendaki. Dia Yang Mahaperkasa, Mahabijaksana.
 
-*424) Al-Qur`an diturunkan dalam bahasa Arab, bukanlah berarti bahwa Al-Qur`an untuk bangsa Arab saja, tetapi untuk semua manusia.
+[^424]: Al-Qur`an diturunkan dalam bahasa Arab, bukanlah berarti bahwa Al-Qur`an untuk bangsa Arab saja, tetapi untuk semua manusia.
 
 # 1755
 
-Dan sungguh, Kami telah mengutus Musa dengan membawa tanda-tanda (kekuasaan) Kami, (dan Kami perintahkan kepadanya), "Keluarkanlah kaummu dari kegelapan kepada cahaya terang-benderang dan ingatkanlah mereka kepada hari-hari Allah."425) Sungguh, pada yang demikian itu terdapat tanda-tanda (kekuasaan Allah) bagi setiap orang penyabar dan banyak bersyukur.
+Dan sungguh, Kami telah mengutus Musa dengan membawa tanda-tanda (kekuasaan) Kami, (dan Kami perintahkan kepadanya), "Keluarkanlah kaummu dari kegelapan kepada cahaya terang-benderang dan ingatkanlah mereka kepada hari-hari Allah."[^425] Sungguh, pada yang demikian itu terdapat tanda-tanda (kekuasaan Allah) bagi setiap orang penyabar dan banyak bersyukur.
 
-*425) Peristiwa yang telah terjadi pada kaum-kaum terdahulu serta nikmat dan siksaan yang dialami mereka.
+[^425]: Peristiwa yang telah terjadi pada kaum-kaum terdahulu serta nikmat dan siksaan yang dialami mereka.
 
 # 1756
 
@@ -7780,15 +7944,15 @@ Dan setan berkata ketika perkara (hisab) telah diselesaikan, "Sesungguhnya Allah
 
 # 1773
 
-Dan orang yang beriman dan mengerjakan kebajikan dimasukkan ke dalam surga-surga yang mengalir di bawahnya sungai-sungai. Mereka kekal di dalamnya dengan seizin Tuhan mereka. Ucapan penghormatan mereka dalam (surga) itu ialah salām.426)
+Dan orang yang beriman dan mengerjakan kebajikan dimasukkan ke dalam surga-surga yang mengalir di bawahnya sungai-sungai. Mereka kekal di dalamnya dengan seizin Tuhan mereka. Ucapan penghormatan mereka dalam (surga) itu ialah salām.[^426]
 
-*426) Artinya selamat dari segala bencana.
+[^426]: Artinya selamat dari segala bencana.
 
 # 1774
 
-Tidakkah kamu memperhatikan bagaimana Allah telah membuat perumpamaan kalimat yang baik427) seperti pohon yang baik, akarnya kuat dan cabangnya (menjulang) ke langit,
+Tidakkah kamu memperhatikan bagaimana Allah telah membuat perumpamaan kalimat yang baik[^427] seperti pohon yang baik, akarnya kuat dan cabangnya (menjulang) ke langit,
 
-*427) Kalimat yang baik ialah kalimat tauhid, juga segala ucapan yang menyeru kepada kebajikan dan mencegah dari kemungkaran serta perbuatan baik.
+[^427]: Kalimat yang baik ialah kalimat tauhid, juga segala ucapan yang menyeru kepada kebajikan dan mencegah dari kemungkaran serta perbuatan baik.
 
 # 1775
 
@@ -7796,15 +7960,15 @@ Tidakkah kamu memperhatikan bagaimana Allah telah membuat perumpamaan kalimat ya
 
 # 1776
 
-Dan perumpamaan kalimat yang buruk428) seperti pohon yang buruk, yang telah dicabut akar-akarnya dari permukaan bumi; tidak dapat tetap (tegak) sedikit pun.
+Dan perumpamaan kalimat yang buruk[^428] seperti pohon yang buruk, yang telah dicabut akar-akarnya dari permukaan bumi; tidak dapat tetap (tegak) sedikit pun.
 
-*428) Termasuk dalam kalimat yang buruk ialah kufur, syirik, segala perkataan yang tidak benar dan perbuatan yang tidak baik.
+[^428]: Termasuk dalam kalimat yang buruk ialah kufur, syirik, segala perkataan yang tidak benar dan perbuatan yang tidak baik.
 
 # 1777
 
-Allah meneguhkan (iman) orang-orang yang beriman dengan ucapan yang teguh429) (dalam kehidupan) di dunia dan di akhirat; dan Allah menyesatkan orang-orang yang zalim dan Allah berbuat apa yang Dia kehendaki.
+Allah meneguhkan (iman) orang-orang yang beriman dengan ucapan yang teguh[^429] (dalam kehidupan) di dunia dan di akhirat; dan Allah menyesatkan orang-orang yang zalim dan Allah berbuat apa yang Dia kehendaki.
 
-*429) Yang dimaksud ucapan-ucapan yang teguh di sini ialah kalimat ṭayyibah yang disebut dalam ayat 24 di atas.
+[^429]: Yang dimaksud ucapan-ucapan yang teguh di sini ialah kalimat ṭayyibah yang disebut dalam ayat 24 di atas.
 
 # 1778
 
@@ -7880,9 +8044,9 @@ dan kamu telah tinggal di tempat orang yang menzalimi diri sendiri, dan telah ny
 
 # 1796
 
-Dan sungguh, mereka telah membuat tipu daya, padahal Allah (mengetahui dan akan membalas) tipu daya mereka. Dan sesungguhnya tipu daya mereka tidak mampu melenyapkan gunung-gunung.430)
+Dan sungguh, mereka telah membuat tipu daya, padahal Allah (mengetahui dan akan membalas) tipu daya mereka. Dan sesungguhnya tipu daya mereka tidak mampu melenyapkan gunung-gunung.[^430]
 
-*430) Ayat-ayat (syariat) Allah yang kokoh seperti gunung.
+[^430]: Ayat-ayat (syariat) Allah yang kokoh seperti gunung.
 
 # 1797
 
@@ -7930,9 +8094,9 @@ Tidak ada suatu umat pun yang dapat mendahului ajalnya, dan tidak (pula) dapat m
 
 # 1808
 
-Dan mereka berkata, "Wahai orang yang kepadanya diturunkan Al-Qur`an, sesungguhnya engkau (Muhammad) benar-benar orang yang gila.431)
+Dan mereka berkata, "Wahai orang yang kepadanya diturunkan Al-Qur`an, sesungguhnya engkau (Muhammad) benar-benar orang yang gila.[^431]
 
-*431) Kata-kata ini diucapkan oleh orang kafir Mekkah kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- sebagai ejekan.
+[^431]: Kata-kata ini diucapkan oleh orang kafir Mekkah kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- sebagai ejekan.
 
 # 1809
 
@@ -7944,9 +8108,9 @@ Kami tidak menurunkan malaikat melainkan dengan kebenaran (untuk membawa azab) d
 
 # 1811
 
-Sesungguhnya Kamilah yang menurunkan Al-Qur`an, dan pasti Kami (pula) yang memeliharanya.432)
+Sesungguhnya Kamilah yang menurunkan Al-Qur`an, dan pasti Kami (pula) yang memeliharanya.[^432]
 
-*432) Ayat ini memberikan jaminan tentang kesucian dan kemurnian Al-Qur`an selama-lamanya.
+[^432]: Ayat ini memberikan jaminan tentang kesucian dan kemurnian Al-Qur`an selama-lamanya.
 
 # 1812
 
@@ -7962,9 +8126,9 @@ Demikianlah, Kami memasukkannya (olok-olok itu) ke dalam hati orang yang berdosa
 
 # 1815
 
-mereka tidak beriman kepadanya (Al-Qur`an) padahal telah berlalu sunnatullah433) terhadap orang-orang terdahulu.
+mereka tidak beriman kepadanya (Al-Qur`an) padahal telah berlalu sunnatullah[^433] terhadap orang-orang terdahulu.
 
-*433) Sunnatullah di sini ialah membinasakan orang yang mendustakan rasul.
+[^433]: Sunnatullah di sini ialah membinasakan orang yang mendustakan rasul.
 
 # 1816
 
@@ -7996,15 +8160,15 @@ Dan Kami telah menjadikan padanya sumber-sumber kehidupan untuk keperluanmu, dan
 
 # 1823
 
-Dan tidak ada sesuatu pun, melainkan pada sisi Kamilah khazanahnya;434) Kami tidak menurunkannya melainkan dengan ukuran tertentu.
+Dan tidak ada sesuatu pun, melainkan pada sisi Kamilah khazanahnya;[^434] Kami tidak menurunkannya melainkan dengan ukuran tertentu.
 
-*434) Segala sesuatu itu sumbernya dari Allah -Subḥānahu wata'ālā-.
+[^434]: Segala sesuatu itu sumbernya dari Allah -Subḥānahu wata'ālā-.
 
 # 1824
 
-Dan Kami telah meniupkan angin untuk mengawinkan435) dan Kami turunkan hujan dari langit, lalu Kami beri kamu minum dengan (air) itu, dan bukanlah kamu yang menyimpannya.
+Dan Kami telah meniupkan angin untuk mengawinkan[^435] dan Kami turunkan hujan dari langit, lalu Kami beri kamu minum dengan (air) itu, dan bukanlah kamu yang menyimpannya.
 
-*435) Awan, tanaman, dan sebaginya.
+[^435]: Awan, tanaman, dan sebaginya.
 
 # 1825
 
@@ -8032,9 +8196,9 @@ Dan (ingatlah), ketika Tuhanmu berfirman kepada para malaikat, "Sungguh, Aku aka
 
 # 1831
 
-Maka apabila Aku telah menyempurnakan (kejadian)nya, dan Aku telah meniupkan roh (ciptaan)-Ku ke dalamnya, maka tunduklah kamu kepadanya dengan bersujud.436)
+Maka apabila Aku telah menyempurnakan (kejadian)nya, dan Aku telah meniupkan roh (ciptaan)-Ku ke dalamnya, maka tunduklah kamu kepadanya dengan bersujud.[^436]
 
-*436) Sujud di sini bukan menyembah, tetapi sebagai penghormatan.
+[^436]: Sujud di sini bukan menyembah, tetapi sebagai penghormatan.
 
 # 1832
 
@@ -8186,9 +8350,9 @@ Dan telah Kami tetapkan kepadanya (Luṭ) keputusan itu, bahwa akhirnya mereka a
 
 # 1869
 
-Dan datanglah penduduk kota itu437) (ke rumah Luṭ) dengan gembira (karena kedatangan tamu itu).
+Dan datanglah penduduk kota itu[^437] (ke rumah Luṭ) dengan gembira (karena kedatangan tamu itu).
 
-*437) Kota Sodom yang terletak dekat pantai laut Tengah.
+[^437]: Kota Sodom yang terletak dekat pantai laut Tengah.
 
 # 1870
 
@@ -8200,9 +8364,9 @@ dan bertakwalah kepada Allah dan janganlah kamu membuat aku terhina!"
 
 # 1872
 
-(Mereka) berkata, "Bukankah kami telah melarangmu dari (melindungi) manusia?"438)
+(Mereka) berkata, "Bukankah kami telah melarangmu dari (melindungi) manusia?"[^438]
 
-*438) Mereka berbuat homoseksual dengan tamu-tamu itu dan mereka memang telah pernah mengancam Luṭ, agar tidak menghalangi mereka berbuat demikian.
+[^438]: Mereka berbuat homoseksual dengan tamu-tamu itu dan mereka memang telah pernah mengancam Luṭ, agar tidak menghalangi mereka berbuat demikian.
 
 # 1873
 
@@ -8210,9 +8374,9 @@ Dia (Luṭ) berkata, "Mereka itulah putri-putri (negeri)ku (nikahlah dengan mere
 
 # 1874
 
-(Allah berfirman), "Demi umurmu439) (Muhammad), sungguh, mereka terombang-ambing dalam kemabukan (kesesatan)."
+(Allah berfirman), "Demi umurmu[^439] (Muhammad), sungguh, mereka terombang-ambing dalam kemabukan (kesesatan)."
 
-*439) Orang Arab biasa bersumpah dengan umur seseorang. Di sini Allah bersumpah dengan umur atau kehidupan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- untuk memuliakan beliau.
+[^439]: Orang Arab biasa bersumpah dengan umur seseorang. Di sini Allah bersumpah dengan umur atau kehidupan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- untuk memuliakan beliau.
 
 # 1875
 
@@ -8236,21 +8400,23 @@ Sungguh, pada yang demikian itu benar-benar terdapat tanda (kekuasaan Allah) bag
 
 # 1880
 
-Dan sesungguhnya penduduk Aikah440) itu benar-benar kaum yang zalim,
+Dan sesungguhnya penduduk Aikah[^440] itu benar-benar kaum yang zalim,
 
-*440) Penduduk Aikah ialah kaum Syuaib. Aikah ialah tempat yang berhutan di daerah Madyan.
+[^440]: Penduduk Aikah ialah kaum Syuaib. Aikah ialah tempat yang berhutan di daerah Madyan.
 
 # 1881
 
-Maka Kami membinasakan mereka. Dan sesungguhnya kedua (negeri)441) itu terletak di satu jalur jalan raya.
+Maka Kami membinasakan mereka. Dan sesungguhnya kedua (negeri)[^441] itu terletak di satu jalur jalan raya.
 
-*441) Yakni kota kaum Luṭ (Sadom) dan Aikah.
+[^441]: Yakni kota kaum Luṭ (Sadom) dan Aikah.
 
 # 1882
 
-Dan sesungguhnya penduduk negeri Hijr442) benar-benar telah mendustakan para rasul (mereka),443)
+Dan sesungguhnya penduduk negeri Hijr[^442] benar-benar telah mendustakan para rasul (mereka),[^443]
 
-*442) Penduduk kota Hijr ialah kaum Samud. Hijr itu tempat yang terletak di Wadi Qura antara Madinah dan Suriah. 443) Yang dimaksud rasul-rasul di sini ialah Saleh. Mestinya di sini disebut rasul, tetapi disebut rasul-rasul (jamak) karena mendustakan seorang rasul sama dengan mendustakan semua rasul.
+[^442]: Penduduk kota Hijr ialah kaum Samud. Hijr itu tempat yang terletak di Wadi Qura antara Madinah dan Suriah
+
+[^443]: Yang dimaksud rasul-rasul di sini ialah Saleh. Mestinya di sini disebut rasul, tetapi disebut rasul-rasul (jamak) karena mendustakan seorang rasul sama dengan mendustakan semua rasul.
 
 # 1883
 
@@ -8262,9 +8428,9 @@ dan mereka memahat rumah-rumah dari gunung batu, (yang didiami) dengan rasa aman
 
 # 1885
 
-Kemudian mereka dibinasakan oleh suara keras yang mengguntur pada pagi hari,444)
+Kemudian mereka dibinasakan oleh suara keras yang mengguntur pada pagi hari,[^444]
 
-*444) Peristiwa itu terjadi pada hari keempat, setelah datangnya peringatan kepada mereka.
+[^444]: Peristiwa itu terjadi pada hari keempat, setelah datangnya peringatan kepada mereka.
 
 # 1886
 
@@ -8280,9 +8446,9 @@ Sungguh, Tuhanmu, Dialah Yang Maha Pencipta, Maha Mengetahui.
 
 # 1889
 
-Dan sungguh, Kami telah memberikan kepadamu tujuh (ayat) yang (dibaca) berulang-ulang445) dan Al-Qur`an yang agung.
+Dan sungguh, Kami telah memberikan kepadamu tujuh (ayat) yang (dibaca) berulang-ulang[^445] dan Al-Qur`an yang agung.
 
-*445) Yang dimaksud tujuh ayat yang dibaca berulang-ulang ialah surat Al-Fātihah yang terdiri dari tujuh ayat. Sebagian mufasir mengatakan tujuh surah yang panjang yaitu Al-Baqarah, Ali 'Imrān, Al-Māidah, An-Nisā`, Al-A'rāf, Al-An'ām dan Al-Anfāl atau At-Taubah.
+[^445]: Yang dimaksud tujuh ayat yang dibaca berulang-ulang ialah surat Al-Fātihah yang terdiri dari tujuh ayat. Sebagian mufasir mengatakan tujuh surah yang panjang yaitu Al-Baqarah, Ali 'Imrān, Al-Māidah, An-Nisā`, Al-A'rāf, Al-An'ām dan Al-Anfāl atau At-Taubah.
 
 # 1890
 
@@ -8294,15 +8460,15 @@ Dan katakanlah (Muhammad), "Sesungguhnya aku adalah pemberi peringatan yang jela
 
 # 1892
 
-Sebagaimana (Kami telah memberi peringatan), Kami telah menurunkan (azab) kepada orang yang memilah-milah (Kitab Allah),446)
+Sebagaimana (Kami telah memberi peringatan), Kami telah menurunkan (azab) kepada orang yang memilah-milah (Kitab Allah),[^446]
 
-*446) Orang-orang yang menerima sebagian isi Kitab dan menolak sebagian yang lain.
+[^446]: Orang-orang yang menerima sebagian isi Kitab dan menolak sebagian yang lain.
 
 # 1893
 
-(Yaitu) orang-orang447) yang telah menjadikan Al-Qur`an itu terbagi-bagi.
+(Yaitu) orang-orang[^447] yang telah menjadikan Al-Qur`an itu terbagi-bagi.
 
-*447) Yakni orang Yahudi dan Nasrani yang membagi Al-Qur`an, ada bagian yang mereka percayai dan ada pula bagian yang mereka ingkari.
+[^447]: Yakni orang Yahudi dan Nasrani yang membagi Al-Qur`an, ada bagian yang mereka percayai dan ada pula bagian yang mereka ingkari.
 
 # 1894
 
@@ -8338,9 +8504,9 @@ dan sembahlah Tuhanmu sampai yakin (ajal) datang kepadamu.
 
 # 1902
 
-Ketetapan Allah448) pasti datang, maka janganlah kamu meminta agar dipercepat (datang)nya. Mahasuci Allah dan Mahatinggi Dia dari apa yang mereka persekutukan.
+Ketetapan Allah[^448] pasti datang, maka janganlah kamu meminta agar dipercepat (datang)nya. Mahasuci Allah dan Mahatinggi Dia dari apa yang mereka persekutukan.
 
-*448) Hari Kiamat yang telah diancamkan kepada orang musyrik.
+[^448]: Hari Kiamat yang telah diancamkan kepada orang musyrik.
 
 # 1903
 
@@ -8368,9 +8534,9 @@ Dan ia mengangkut beban-bebanmu ke suatu negeri yang kamu tidak sanggup mencapai
 
 # 1909
 
-Dan (Dia telah menciptakan) kuda, bagal,449) dan keledai, untuk kamu tunggangi dan (menjadi) perhiasan. Allah menciptakan apa yang tidak kamu ketahui.
+Dan (Dia telah menciptakan) kuda, bagal,[^449] dan keledai, untuk kamu tunggangi dan (menjadi) perhiasan. Allah menciptakan apa yang tidak kamu ketahui.
 
-*449) Bagal yaitu peranakan kuda dengan keledai.
+[^449]: Bagal yaitu peranakan kuda dengan keledai.
 
 # 1910
 
@@ -8446,9 +8612,9 @@ Sungguh, orang-orang yang sebelum mereka telah mengadakan tipu daya, maka Allah 
 
 # 1928
 
-Kemudian Allah menghinakan mereka pada hari Kiamat, dan berfirman, "Di manakah sekutu-sekutu-Ku itu yang (karena membelanya) kamu selalu memusuhi mereka (nabi-nabi dan orang yang beriman)?" Orang-orang yang diberi ilmu berkata,450) "Sesungguhnya kehinaan dan azab hari ini ditimpakan kepada orang yang kafir,"
+Kemudian Allah menghinakan mereka pada hari Kiamat, dan berfirman, "Di manakah sekutu-sekutu-Ku itu yang (karena membelanya) kamu selalu memusuhi mereka (nabi-nabi dan orang yang beriman)?" Orang-orang yang diberi ilmu berkata,[^450] "Sesungguhnya kehinaan dan azab hari ini ditimpakan kepada orang yang kafir,"
 
-*450) Para malaikat, nabi-nabi dan orang mukmin.
+[^450]: Para malaikat, nabi-nabi dan orang mukmin.
 
 # 1929
 
@@ -8468,15 +8634,17 @@ Dan kemudian dikatakan kepada orang yang bertakwa, "Apakah yang telah diturunkan
 
 # 1933
 
-(yaitu) orang yang ketika diwafatkan oleh para malaikat dalam keadaan baik,451) mereka (para malaikat) mengatakan (kepada mereka), "Salāmun 'alaikum, masuklah ke dalam surga karena apa yang telah kamu kerjakan."
+(yaitu) orang yang ketika diwafatkan oleh para malaikat dalam keadaan baik,[^451] mereka (para malaikat) mengatakan (kepada mereka), "Salāmun 'alaikum, masuklah ke dalam surga karena apa yang telah kamu kerjakan."
 
-*451) Wafat dalam keadaan suci dari kekafiran dan kemaksiatan, atau dapat juga berarti mereka mati dalam keadaan senang karena ada berita gembira dari malaikat bahwa mereka akan masuk surga.
+[^451]: Wafat dalam keadaan suci dari kekafiran dan kemaksiatan, atau dapat juga berarti mereka mati dalam keadaan senang karena ada berita gembira dari malaikat bahwa mereka akan masuk surga.
 
 # 1934
 
-Tidak ada yang ditunggu mereka (orang kafir) selain datangnya para malaikat kepada mereka452) atau datangnya perintah Tuhanmu.453) Demikianlah yang telah diperbuat oleh orang-orang (kafir) sebelum mereka. Allah tidak menzalimi mereka, justru merekalah yang (selalu) menzalimi diri mereka sendiri.
+Tidak ada yang ditunggu mereka (orang kafir) selain datangnya para malaikat kepada mereka[^452] atau datangnya perintah Tuhanmu.[^453] Demikianlah yang telah diperbuat oleh orang-orang (kafir) sebelum mereka. Allah tidak menzalimi mereka, justru merekalah yang (selalu) menzalimi diri mereka sendiri.
 
-*452) Yakni kedatangan malaikat untuk mencabut nyawa mereka. 453) Yakni kedatangan azab dari Allah untuk memusnahkan mereka.
+[^452]: Yakni kedatangan malaikat untuk mencabut nyawa mereka
+
+[^453]: Yakni kedatangan azab dari Allah untuk memusnahkan mereka.
 
 # 1935
 
@@ -8516,15 +8684,15 @@ Dan orang yang berhijrah karena Allah setelah mereka dizalimi, pasti Kami akan m
 
 # 1944
 
-Dan Kami tidak mengutus sebelum engkau (Muhammad), melainkan orang laki-laki yang Kami beri wahyu kepada mereka; maka bertanyalah kepada orang yang mempunyai pengetahuan454) jika kamu tidak mengetahui,
+Dan Kami tidak mengutus sebelum engkau (Muhammad), melainkan orang laki-laki yang Kami beri wahyu kepada mereka; maka bertanyalah kepada orang yang mempunyai pengetahuan[^454] jika kamu tidak mengetahui,
 
-*454) Yakni orang yang mempunyai pengetahuan tentang nabi dan kitab-kitab.
+[^454]: Yakni orang yang mempunyai pengetahuan tentang nabi dan kitab-kitab.
 
 # 1945
 
-(mereka Kami utus) dengan membawa keterangan-keterangan (mukjizat) dan kitab-kitab. Dan Kami turunkan Aż-Żikr (Alquran) kepadamu, agar engkau menerangkan kepada manusia apa yang telah diturunkan kepada mereka455) dan agar mereka memikirkan.
+(mereka Kami utus) dengan membawa keterangan-keterangan (mukjizat) dan kitab-kitab. Dan Kami turunkan Aż-Żikr (Alquran) kepadamu, agar engkau menerangkan kepada manusia apa yang telah diturunkan kepada mereka[^455] dan agar mereka memikirkan.
 
-*455) Yakni perintah, larangan, aturan dan lain-lain yang terdapat dalam Alquran.
+[^455]: Yakni perintah, larangan, aturan dan lain-lain yang terdapat dalam Alquran.
 
 # 1946
 
@@ -8536,9 +8704,9 @@ atau Allah mengazab mereka pada waktu mereka dalam perjalanan; sehingga mereka t
 
 # 1948
 
-atau Allah mengazab mereka dengan berangsur-angsur (sampai binasa).456) Maka sungguh, Tuhanmu Maha Pengasih, Maha Penyayang.
+atau Allah mengazab mereka dengan berangsur-angsur (sampai binasa).[^456] Maka sungguh, Tuhanmu Maha Pengasih, Maha Penyayang.
 
-*456) Menurut sebagian mufasir Takhawwuf berarti dalam keadaan takut.
+[^456]: Menurut sebagian mufasir Takhawwuf berarti dalam keadaan takut.
 
 # 1949
 
@@ -8578,9 +8746,9 @@ Dan mereka menyediakan sebagian dari rezeki yang telah Kami berikan kepada merek
 
 # 1958
 
-Dan mereka menetapkan anak perempuan bagi Allah.457) Mahasuci Dia, sedang untuk mereka sendiri apa yang mereka sukai (anak laki-laki).
+Dan mereka menetapkan anak perempuan bagi Allah.[^457] Mahasuci Dia, sedang untuk mereka sendiri apa yang mereka sukai (anak laki-laki).
 
-*457) Mereka mengatakan bahwa Allah mempunyai anak perempuan yaitu para malaikat karena mereka sangat benci kepada anak perempuan sebagaimana tersebut dalam ayat berikutnya.
+[^457]: Mereka mengatakan bahwa Allah mempunyai anak perempuan yaitu para malaikat karena mereka sangat benci kepada anak perempuan sebagaimana tersebut dalam ayat berikutnya.
 
 # 1959
 
@@ -8652,9 +8820,9 @@ Maka janganlah kamu mengadakan sekutu-sekutu bagi Allah. Sungguh, Allah mengetah
 
 # 1976
 
-Allah membuat perumpamaan seorang hamba sahaya di bawah kekuasaan orang lain, yang tak berdaya untuk berbuat sesuatu dan seorang yang Kami beri rezeki yang baik, lalu dia menginfakkan sebagian rezeki itu secara sembunyi-sembunyi dan secara terang-terangan. Samakah mereka itu? Segala puji hanya bagi Allah, tetapi kebanyakan mereka tidak mengetahui.458)
+Allah membuat perumpamaan seorang hamba sahaya di bawah kekuasaan orang lain, yang tak berdaya untuk berbuat sesuatu dan seorang yang Kami beri rezeki yang baik, lalu dia menginfakkan sebagian rezeki itu secara sembunyi-sembunyi dan secara terang-terangan. Samakah mereka itu? Segala puji hanya bagi Allah, tetapi kebanyakan mereka tidak mengetahui.[^458]
 
-*458) Maksud dari perumpamaan ini ialah untuk membantah orang musyrik yang menyamakan Allah yang memberi rezeki dengan berhala-berhala yang tidak berdaya.
+[^458]: Maksud dari perumpamaan ini ialah untuk membantah orang musyrik yang menyamakan Allah yang memberi rezeki dengan berhala-berhala yang tidak berdaya.
 
 # 1977
 
@@ -8682,9 +8850,9 @@ Dan Allah menjadikan tempat bernaung bagimu dari apa yang telah Dia ciptakan, Di
 
 # 1983
 
-Jika mereka berpaling, maka ketahuilah kewajiban yang dibebankan atasmu (Muhammad) hanyalah menyampaikan (amanat Allah) dengan terang.459)
+Jika mereka berpaling, maka ketahuilah kewajiban yang dibebankan atasmu (Muhammad) hanyalah menyampaikan (amanat Allah) dengan terang.[^459]
 
-*459) Maksudnya Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- tidak dapat memberi taufik dan hidayah kepada seseorang hingga dia beriman.
+[^459]: Maksudnya Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- tidak dapat memberi taufik dan hidayah kepada seseorang hingga dia beriman.
 
 # 1984
 
@@ -8700,15 +8868,15 @@ Dan apabila orang zalim telah menyaksikan azab, maka mereka tidak mendapat kerin
 
 # 1987
 
-Dan apabila orang yang mempersekutukan (Allah) melihat sekutu-sekutu mereka,460) mereka berkata, "Ya Tuhan kami, mereka inilah sekutu-sekutu kami yang dahulu kami sembah selain Engkau." Lalu sekutu mereka menyatakan kepada mereka, "Kamu benar-benar pendusta."
+Dan apabila orang yang mempersekutukan (Allah) melihat sekutu-sekutu mereka,[^460] mereka berkata, "Ya Tuhan kami, mereka inilah sekutu-sekutu kami yang dahulu kami sembah selain Engkau." Lalu sekutu mereka menyatakan kepada mereka, "Kamu benar-benar pendusta."
 
-*460) Yang dimaksud dengan sekutu ialah apa yang mereka sembah selain Allah atau setan yang menganjurkan mereka menyembah berhala.
+[^460]: Yang dimaksud dengan sekutu ialah apa yang mereka sembah selain Allah atau setan yang menganjurkan mereka menyembah berhala.
 
 # 1988
 
-Dan pada hari itu mereka menyatakan tunduk kepada Allah dan lenyaplah segala yang mereka ada-adakan.461)
+Dan pada hari itu mereka menyatakan tunduk kepada Allah dan lenyaplah segala yang mereka ada-adakan.[^461]
 
-*461) Kepercayaan bahwa Allah mempunyai sekutu, dan sekutu itu dapat memberi syafaat kepada mereka di samping Allah -Subḥānahu wata'ālā-.
+[^461]: Kepercayaan bahwa Allah mempunyai sekutu, dan sekutu itu dapat memberi syafaat kepada mereka di samping Allah -Subḥānahu wata'ālā-.
 
 # 1989
 
@@ -8728,9 +8896,9 @@ Dan tepatilah janji dengan Allah apabila kamu berjanji dan janganlah kamu melang
 
 # 1993
 
-Dan janganlah kamu seperti seorang perempuan yang menguraikan benangnya yang sudah dipintal dengan kuat, menjadi cerai berai kembali. Kamu menjadikan sumpah (perjanjian)mu sebagai alat penipu di antaramu, disebabkan adanya satu golongan yang lebih banyak jumlahnya dari golongan yang lain.462) Allah hanya menguji kamu dengan hal itu, dan pasti pada hari Kiamat akan dijelaskan-Nya kepadamu apa yang dahulu kamu perselisihkan.
+Dan janganlah kamu seperti seorang perempuan yang menguraikan benangnya yang sudah dipintal dengan kuat, menjadi cerai berai kembali. Kamu menjadikan sumpah (perjanjian)mu sebagai alat penipu di antaramu, disebabkan adanya satu golongan yang lebih banyak jumlahnya dari golongan yang lain.[^462] Allah hanya menguji kamu dengan hal itu, dan pasti pada hari Kiamat akan dijelaskan-Nya kepadamu apa yang dahulu kamu perselisihkan.
 
-*462) Kaum muslimin yang jumlahnya masih sedikit itu telah mengadakan perjanjian yang kuat dengan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- pada waktu mereka melihat orang Quraisy berjumlah banyak dan berpengalaman cukup, lalu timbullah keinginan mereka untuk membatalkan perjanjian dengan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-. Maka perbuatan yang demikian itu dilarang oleh Allah -Subḥānahu wata'ālā-.
+[^462]: Kaum muslimin yang jumlahnya masih sedikit itu telah mengadakan perjanjian yang kuat dengan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- pada waktu mereka melihat orang Quraisy berjumlah banyak dan berpengalaman cukup, lalu timbullah keinginan mereka untuk membatalkan perjanjian dengan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-. Maka perbuatan yang demikian itu dilarang oleh Allah -Subḥānahu wata'ālā-.
 
 # 1994
 
@@ -8750,9 +8918,9 @@ Apa yang ada di sisimu akan lenyap, dan apa yang ada di sisi Allah adalah kekal.
 
 # 1998
 
-Barangsiapa mengerjakan kebajikan, baik laki-laki maupun perempuan dalam keadaan beriman, maka pasti akan Kami berikan kepadanya kehidupan yang baik463) dan akan Kami beri balasan dengan pahala yang lebih baik dari apa yang telah mereka kerjakan.
+Barangsiapa mengerjakan kebajikan, baik laki-laki maupun perempuan dalam keadaan beriman, maka pasti akan Kami berikan kepadanya kehidupan yang baik[^463] dan akan Kami beri balasan dengan pahala yang lebih baik dari apa yang telah mereka kerjakan.
 
-*463) Ditekankan dalam ayat ini bahwa laki-laki dan perempuan dalam Islam mendapat pahala yang sama dan bahwa amal kebaikan harus disertai iman.
+[^463]: Ditekankan dalam ayat ini bahwa laki-laki dan perempuan dalam Islam mendapat pahala yang sama dan bahwa amal kebaikan harus disertai iman.
 
 # 1999
 
@@ -8776,9 +8944,9 @@ Katakanlah, "Rohulkudus (Jibril) menurunkan Alquran itu dari Tuhanmu dengan kebe
 
 # 2004
 
-Dan sesungguhnya Kami mengetahui bahwa mereka berkata, "Sesungguhnya Al-Qur`an itu hanya diajarkan oleh seorang manusia kepadanya (Muhammad)." Bahasa orang yang mereka tuduhkan (bahwa Muhammad belajar) kepadanya adalah bahasa 'Ajam,464) padahal ini (Al-Qur`an) adalah dalam bahasa Arab yang jelas.
+Dan sesungguhnya Kami mengetahui bahwa mereka berkata, "Sesungguhnya Al-Qur`an itu hanya diajarkan oleh seorang manusia kepadanya (Muhammad)." Bahasa orang yang mereka tuduhkan (bahwa Muhammad belajar) kepadanya adalah bahasa 'Ajam,[^464] padahal ini (Al-Qur`an) adalah dalam bahasa Arab yang jelas.
 
-*464) Bahasa 'Ajam ialah bahasa selain Arab dan dapat juga berarti bahasa Arab yang tidak baik, karena orang yang dituduh mengajar Muhammad -ṣallallāhu 'alaihi wa sallam- itu bukan orang Arab dan hanya tahu sedikit bahasa Arab.
+[^464]: Bahasa 'Ajam ialah bahasa selain Arab dan dapat juga berarti bahasa Arab yang tidak baik, karena orang yang dituduh mengajar Muhammad -ṣallallāhu 'alaihi wa sallam- itu bukan orang Arab dan hanya tahu sedikit bahasa Arab.
 
 # 2005
 
@@ -8814,9 +8982,9 @@ Kemudian Tuhanmu (pelindung) bagi orang yang berhijrah setelah menderita cobaan,
 
 # 2013
 
-Dan Allah telah membuat suatu perumpamaan (dengan) suatu negeri yang dahulunya aman lagi tenteram, rezeki datang kepadanya melimpah ruah dari segenap tempat, tetapi (penduduk)nya mengingkari nikmat-nikmat Allah, karena itu Allah menimpakan kepada mereka bencana kelaparan dan ketakutan,465) disebabkan apa yang mereka perbuat.
+Dan Allah telah membuat suatu perumpamaan (dengan) suatu negeri yang dahulunya aman lagi tenteram, rezeki datang kepadanya melimpah ruah dari segenap tempat, tetapi (penduduk)nya mengingkari nikmat-nikmat Allah, karena itu Allah menimpakan kepada mereka bencana kelaparan dan ketakutan,[^465] disebabkan apa yang mereka perbuat.
 
-*465) Kelaparan dan ketakutan itu meliputi mereka, seperti halnya pakaian meliputi tubuh mereka.
+[^465]: Kelaparan dan ketakutan itu meliputi mereka, seperti halnya pakaian meliputi tubuh mereka.
 
 # 2014
 
@@ -8840,9 +9008,9 @@ Dan janganlah kamu mengatakan terhadap apa yang disebut-sebut oleh lidahmu secar
 
 # 2019
 
-Dan terhadap orang Yahudi, Kami haramkan apa yang telah Kami ceritakan dahulu kepadamu (Muhammad).466) Kami tidak menzalimi mereka, justru merekalah yang menzalimi diri sendiri.
+Dan terhadap orang Yahudi, Kami haramkan apa yang telah Kami ceritakan dahulu kepadamu (Muhammad).[^466] Kami tidak menzalimi mereka, justru merekalah yang menzalimi diri sendiri.
 
-*466) Lihat Al-An'ām (6) : 146.
+[^466]: Lihat Al-An'ām (6) : 146.
 
 # 2020
 
@@ -8850,9 +9018,9 @@ Kemudian, sesungguhnya Tuhanmu (mengampuni) orang yang mengerjakan kesalahan kar
 
 # 2021
 
-Sungguh, Ibrahim adalah seorang imam (yang dapat dijadikan teladan), patuh kepada Allah dan ḥanīf.467) Dan dia bukanlah termasuk orang musyrik (yang mempersekutukan Allah),
+Sungguh, Ibrahim adalah seorang imam (yang dapat dijadikan teladan), patuh kepada Allah dan ḥanīf.[^467] Dan dia bukanlah termasuk orang musyrik (yang mempersekutukan Allah),
 
-*467) Seorang yang selalu berpegang kepada kebenaran dan tidak pernah meninggalkannya.
+[^467]: Seorang yang selalu berpegang kepada kebenaran dan tidak pernah meninggalkannya.
 
 # 2022
 
@@ -8868,15 +9036,15 @@ Kemudian Kami wahyukan kepadamu (Muhammad), "Ikutilah agama Ibrahim yang lurus, 
 
 # 2025
 
-Sesungguhnya (menghormati) hari Sabtu468)hanya diwajibkan atas orang (Yahudi) yang memperselisihkannya. Dan sesungguhnya Tuhanmu pasti akan memberi keputusan di antara mereka pada hari Kiamat terhadap apa yang telah mereka perselisihkan.
+Sesungguhnya (menghormati) hari Sabtu[^468]hanya diwajibkan atas orang (Yahudi) yang memperselisihkannya. Dan sesungguhnya Tuhanmu pasti akan memberi keputusan di antara mereka pada hari Kiamat terhadap apa yang telah mereka perselisihkan.
 
-*468) Menghormati hari Sabtu ialah dengan jalan memperbanyak ibadah dan amal saleh serta meninggalkan pekerjaan rutin.
+[^468]: Menghormati hari Sabtu ialah dengan jalan memperbanyak ibadah dan amal saleh serta meninggalkan pekerjaan rutin.
 
 # 2026
 
-Serulah (manusia) kepada jalan Tuhanmu dengan hikmah469) dan pengajaran yang baik, dan berdebatlah dengan mereka dengan cara yang baik. Sesungguhnya Tuhanmu, Dialah yang lebih mengetahui siapa yang sesat dari jalan-Nya dan Dialah yang lebih mengetahui siapa yang mendapat petunjuk.
+Serulah (manusia) kepada jalan Tuhanmu dengan hikmah[^469] dan pengajaran yang baik, dan berdebatlah dengan mereka dengan cara yang baik. Sesungguhnya Tuhanmu, Dialah yang lebih mengetahui siapa yang sesat dari jalan-Nya dan Dialah yang lebih mengetahui siapa yang mendapat petunjuk.
 
-*469) Perkataan yang tegas dan benar yang dapat membedakan antara yang hak dan yang batil.
+[^469]: Perkataan yang tegas dan benar yang dapat membedakan antara yang hak dan yang batil.
 
 # 2027
 
@@ -8892,9 +9060,9 @@ Sungguh, Allah beserta orang-orang yang bertakwa dan orang-orang yang berbuat ke
 
 # 2030
 
-Mahasuci (Allah), yang telah memperjalankan hamba-Nya (Muhammad) pada malam hari dari Masjidil Haram ke Masjidil Aqsa yang telah Kami berkahi sekelilingnya470) agar Kami perlihatkan kepadanya sebagian tanda-tanda (kebesaran) Kami. Sesungguhnya Dia Maha Mendengar, Maha Melihat.
+Mahasuci (Allah), yang telah memperjalankan hamba-Nya (Muhammad) pada malam hari dari Masjidil Haram ke Masjidil Aqsa yang telah Kami berkahi sekelilingnya[^470] agar Kami perlihatkan kepadanya sebagian tanda-tanda (kebesaran) Kami. Sesungguhnya Dia Maha Mendengar, Maha Melihat.
 
-*470) Masjidil Aqsa dan daerah sekitarnya dapat berkah dari Allah dengan diturunkan nabi-nabi di negeri itu berikut kesuburan tanahnya.
+[^470]: Masjidil Aqsa dan daerah sekitarnya dapat berkah dari Allah dengan diturunkan nabi-nabi di negeri itu berikut kesuburan tanahnya.
 
 # 2031
 
@@ -8982,9 +9150,9 @@ Janganlah engkau mengadakan tuhan yang lain di samping Allah, nanti engkau menja
 
 # 2052
 
-Dan Tuhanmu telah memerintahkan agar kamu jangan menyembah selain Dia dan hendaklah berbuat baik kepada ibu bapak. Jika salah seorang di antara keduanya atau kedua-duanya sampai berusia lanjut dalam pemeliharaanmu, maka sekali-kali janganlah engkau mengatakan kepada keduanya perkataan "ah" dan janganlah engkau membentak keduanya, dan ucapkanlah kepada keduanya perkataan yang baik471)
+Dan Tuhanmu telah memerintahkan agar kamu jangan menyembah selain Dia dan hendaklah berbuat baik kepada ibu bapak. Jika salah seorang di antara keduanya atau kedua-duanya sampai berusia lanjut dalam pemeliharaanmu, maka sekali-kali janganlah engkau mengatakan kepada keduanya perkataan "ah" dan janganlah engkau membentak keduanya, dan ucapkanlah kepada keduanya perkataan yang baik[^471]
 
-*471) Mengucapkan kata "ah" kepada orang tua tidak dibolehkan oleh agama, apalagi mengucapkan kata-kata atau memperlakukan mereka dengan lebih kasar daripada itu.
+[^471]: Mengucapkan kata "ah" kepada orang tua tidak dibolehkan oleh agama, apalagi mengucapkan kata-kata atau memperlakukan mereka dengan lebih kasar daripada itu.
 
 # 2053
 
@@ -9004,9 +9172,9 @@ Sesungguhnya orang-orang yang pemboros itu adalah saudara setan dan setan itu sa
 
 # 2057
 
-Dan jika engkau berpaling dari mereka untuk memperoleh rahmat dari Tuhanmu yang engkau harapkan, maka katakanlah kepada mereka ucapan yang lemah lembut.472)
+Dan jika engkau berpaling dari mereka untuk memperoleh rahmat dari Tuhanmu yang engkau harapkan, maka katakanlah kepada mereka ucapan yang lemah lembut.[^472]
 
-*472) Maksudnya apabila kamu tidak dapat melaksanakan perintah Allah seperti yang tersebut dalam ayat 26 maka katakanlah kepada mereka perkataan yang baik agar mereka tidak kecewa karena mereka belum mendapat bantuan dari kamu. Dalam pada itu kamu berusaha untuk mendapat rezeki (karunia) dari Tuhanmu, sehingga kamu dapat memberikan kepada mereka hak-hak mereka.
+[^472]: Maksudnya apabila kamu tidak dapat melaksanakan perintah Allah seperti yang tersebut dalam ayat 26 maka katakanlah kepada mereka perkataan yang baik agar mereka tidak kecewa karena mereka belum mendapat bantuan dari kamu. Dalam pada itu kamu berusaha untuk mendapat rezeki (karunia) dari Tuhanmu, sehingga kamu dapat memberikan kepada mereka hak-hak mereka.
 
 # 2058
 
@@ -9026,9 +9194,11 @@ Dan janganlah kamu mendekati zina; (zina) itu sungguh suatu perbuatan keji, dan 
 
 # 2062
 
-Dan janganlah kamu membunuh orang yang diharamkan Allah (membunuhnya), kecuali dengan suatu (alasan) yang benar.473) Dan barangsiapa dibunuh secara zalim, maka sungguh, Kami telah memberi kekuasaan474) kepada walinya, tetapi janganlah walinya itu melampaui batas dalam pembunuhan. Sesungguhnya dia adalah orang yang mendapat pertolongan.
+Dan janganlah kamu membunuh orang yang diharamkan Allah (membunuhnya), kecuali dengan suatu (alasan) yang benar.[^473] Dan barangsiapa dibunuh secara zalim, maka sungguh, Kami telah memberi kekuasaan[^474] kepada walinya, tetapi janganlah walinya itu melampaui batas dalam pembunuhan. Sesungguhnya dia adalah orang yang mendapat pertolongan.
 
-*473) Lihat catatan Al-An'ām (6): 151. 474) Kekuasaan di sini ialah hak ahli waris yang terbunuh atau penguasa untuk menuntut kisas atau menerima diat. Lihat Al-Baqarah (2): 178. dan An-Nisā` (4): 92.
+[^473]: Lihat catatan Al-An'ām (6): 151
+
+[^474]: Kekuasaan di sini ialah hak ahli waris yang terbunuh atau penguasa untuk menuntut kisas atau menerima diat. Lihat Al-Baqarah (2): 178. dan An-Nisā` (4): 92.
 
 # 2063
 
@@ -9048,9 +9218,9 @@ Dan janganlah engkau berjalan di bumi ini dengan sombong, karena sesungguhnya en
 
 # 2067
 
-Semua itu475) kejahatannya sangat dibenci di sisi Tuhanmu.
+Semua itu[^475] kejahatannya sangat dibenci di sisi Tuhanmu.
 
-*475) Semua larangan yang disebut pada ayat 22, 23, 26, 29, 31, 32, 33, 34, 36, dan 37 surah ini.
+[^475]: Semua larangan yang disebut pada ayat 22, 23, 26, 29, 31, 32, 33, 34, 36, dan 37 surah ini.
 
 # 2068
 
@@ -9122,15 +9292,15 @@ Dan Tuhanmu lebih mengetahui siapa yang di langit dan di bumi. Dan sungguh, Kami
 
 # 2085
 
-Katakanlah (Muhammad), "Panggillah mereka yang kamu anggap (tuhan)476) selain Allah, mereka tidak kuasa untuk menghilangkan bahaya darimu dan tidak (pula) mampu mengubahnya."
+Katakanlah (Muhammad), "Panggillah mereka yang kamu anggap (tuhan)[^476] selain Allah, mereka tidak kuasa untuk menghilangkan bahaya darimu dan tidak (pula) mampu mengubahnya."
 
-*476) Apa yang mereka anggap sebagai tuhan itu ialah berhala, malaikat, jin, dan sebagainya.
+[^476]: Apa yang mereka anggap sebagai tuhan itu ialah berhala, malaikat, jin, dan sebagainya.
 
 # 2086
 
-Orang-orang yang mereka seru itu, mereka sendiri mencari jalan kepada Tuhan,477) siapa di antara mereka yang lebih dekat (kepada Allah). Mereka mengharapkan rahmat-Nya dan takut akan azab-Nya. Sungguh, azab Tuhanmu itu sesuatu yang (harus) ditakuti."
+Orang-orang yang mereka seru itu, mereka sendiri mencari jalan kepada Tuhan,[^477] siapa di antara mereka yang lebih dekat (kepada Allah). Mereka mengharapkan rahmat-Nya dan takut akan azab-Nya. Sungguh, azab Tuhanmu itu sesuatu yang (harus) ditakuti."
 
-*477) Nabi Isa -'alaihissalām-, para malaikat dan Uzair yang mereka sembah itu menyeru dan mencari jalan mendekatkan diri kepada Allah.
+[^477]: Nabi Isa -'alaihissalām-, para malaikat dan Uzair yang mereka sembah itu menyeru dan mencari jalan mendekatkan diri kepada Allah.
 
 # 2087
 
@@ -9142,9 +9312,9 @@ Dan tidak ada yang menghalangi Kami untuk mengirimkan (kepadamu) tanda-tanda (ke
 
 # 2089
 
-Dan (ingatlah) ketika Kami wahyukan kepadamu, "Sungguh, (ilmu) Tuhanmu meliputi seluruh manusia." Dan Kami tidak menjadikan mimpi478) yang telah Kami perlihatkan kepadamu, melainkan sebagai ujian bagi manusia dan (begitu pula) pohon yang terkutuk (zaqqūm) dalam Al-Qur`an. Dan Kami menakut-nakuti mereka, tetapi yang demikian itu hanyalah menambah besar kedurhakaan mereka.
+Dan (ingatlah) ketika Kami wahyukan kepadamu, "Sungguh, (ilmu) Tuhanmu meliputi seluruh manusia." Dan Kami tidak menjadikan mimpi[^478] yang telah Kami perlihatkan kepadamu, melainkan sebagai ujian bagi manusia dan (begitu pula) pohon yang terkutuk (zaqqūm) dalam Al-Qur`an. Dan Kami menakut-nakuti mereka, tetapi yang demikian itu hanyalah menambah besar kedurhakaan mereka.
 
-*478) Mimpi adalah terjemah dari kata Ar-Ru`ya dalam ayat ini maksudnya ialah mimpi tentang Perang Badar yang dialami Rasulullah -ṣallallāhu 'alaihi wa sallam- sebelum peristiwa Perang Badar itu terjadi. Banyak pula mufasir menerjemahkan kata Ar-Ru`ya tersebut dengan penglihatan yang maksudnya, penglihatan yang dialami Rasulullah -ṣallallāhu 'alaihi wa sallam- pada waktu malam Isra` dan Mi'raj.
+[^478]: Mimpi adalah terjemah dari kata Ar-Ru`ya dalam ayat ini maksudnya ialah mimpi tentang Perang Badar yang dialami Rasulullah -ṣallallāhu 'alaihi wa sallam- sebelum peristiwa Perang Badar itu terjadi. Banyak pula mufasir menerjemahkan kata Ar-Ru`ya tersebut dengan penglihatan yang maksudnya, penglihatan yang dialami Rasulullah -ṣallallāhu 'alaihi wa sallam- pada waktu malam Isra` dan Mi'raj.
 
 # 2090
 
@@ -9208,21 +9378,21 @@ Jika demikian, tentu akan Kami rasakan kepadamu (siksaan) berlipat ganda di duni
 
 # 2105
 
-Dan sungguh, mereka hampir membuatmu (Muhammad) gelisah di negeri (Mekkah) karena engkau harus keluar dari negeri itu, dan kalau terjadi demikian, niscaya sepeninggalmu mereka tidak akan tinggal (di sana), melainkan sebentar saja.479)
+Dan sungguh, mereka hampir membuatmu (Muhammad) gelisah di negeri (Mekkah) karena engkau harus keluar dari negeri itu, dan kalau terjadi demikian, niscaya sepeninggalmu mereka tidak akan tinggal (di sana), melainkan sebentar saja.[^479]
 
-*479) Kalau sampai terjadi Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- diusir oleh penduduk Mekkah, niscaya tidak akan lama hidup di dunia, dan Allah akan segera membinasakan mereka. Hijrah Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- ke Madinah bukan karena pengusiran kaum Quraisy, melainkan semata-mata karena perintah Allah.
+[^479]: Kalau sampai terjadi Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- diusir oleh penduduk Mekkah, niscaya tidak akan lama hidup di dunia, dan Allah akan segera membinasakan mereka. Hijrah Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- ke Madinah bukan karena pengusiran kaum Quraisy, melainkan semata-mata karena perintah Allah.
 
 # 2106
 
-(Yang demikian itu) merupakan ketetapan bagi para rasul Kami yang Kami utus sebelum engkau,480) dan tidak akan engkau dapati perubahan atas ketetapan Kami.
+(Yang demikian itu) merupakan ketetapan bagi para rasul Kami yang Kami utus sebelum engkau,[^480] dan tidak akan engkau dapati perubahan atas ketetapan Kami.
 
-*480) Maksudnya setiap umat yang mengusir rasul pasti akan dibinasakan Allah. Demikian itulah sunah (ketetapan) Allah -Subḥānahu wata'ālā-.
+[^480]: Maksudnya setiap umat yang mengusir rasul pasti akan dibinasakan Allah. Demikian itulah sunah (ketetapan) Allah -Subḥānahu wata'ālā-.
 
 # 2107
 
-Laksanakanlah salat sejak matahari tergelincir sampai gelapnya malam dan (laksanakan pula salat) Subuh.481) Sungguh, salat Subuh itu disaksikan (oleh malaikat).
+Laksanakanlah salat sejak matahari tergelincir sampai gelapnya malam dan (laksanakan pula salat) Subuh.[^481] Sungguh, salat Subuh itu disaksikan (oleh malaikat).
 
-*481) Ayat ini menerangkan waktu salat yang lima. Tergelincir matahari untuk waktu salat Zuhur dan Asar, gelap malam untuk waktu Magrib, Isya dan Subuh.
+[^481]: Ayat ini menerangkan waktu salat yang lima. Tergelincir matahari untuk waktu salat Zuhur dan Asar, gelap malam untuk waktu Magrib, Isya dan Subuh.
 
 # 2108
 
@@ -9230,9 +9400,9 @@ Dan pada sebagian malam, lakukanlah salat tahajud (sebagai suatu ibadah) tambaha
 
 # 2109
 
-Dan katakanlah (Muhammad), ya Tuhanku, masukkan aku ke tempat masuk yang benar dan keluarkan (pula) aku ke tempat keluar yang benar dan berikanlah kepadaku dari sisi-Mu kekuasaan yang dapat menolong-(Ku).482)
+Dan katakanlah (Muhammad), ya Tuhanku, masukkan aku ke tempat masuk yang benar dan keluarkan (pula) aku ke tempat keluar yang benar dan berikanlah kepadaku dari sisi-Mu kekuasaan yang dapat menolong-(Ku).[^482]
 
-*482) Memohon kepada Allah agar kita memasuki suatu ibadah dan selesai mengrjakannya dengan niat yang baik dan penuh keikhlasan serta bersih dari riya` dan dari sesuatu yang merusak pahala. Ayat ini juga mengisyaratkan kepada Nabi agar berhijrah dari Mekkah ke Madinah. Dan ada juga yang menafsirkan memohon kepada Allah agar kita memasuki kubur dengan baik dan keluar darinya ketika hari berbangkit dengan baik pula.
+[^482]: Memohon kepada Allah agar kita memasuki suatu ibadah dan selesai mengrjakannya dengan niat yang baik dan penuh keikhlasan serta bersih dari riya` dan dari sesuatu yang merusak pahala. Ayat ini juga mengisyaratkan kepada Nabi agar berhijrah dari Mekkah ke Madinah. Dan ada juga yang menafsirkan memohon kepada Allah agar kita memasuki kubur dengan baik dan keluar darinya ketika hari berbangkit dengan baik pula.
 
 # 2110
 
@@ -9316,9 +9486,9 @@ Katakanlah (Muhammad), "Sekiranya kamu menguasai perbendaharaan rahmat Tuhanku, 
 
 # 2130
 
-Dan sungguh, Kami telah memberikan kepada Musa sembilan mukjizat yang nyata,483) maka tanyakanlah kepada Bani Israil, ketika Musa datang kepada mereka lalu Fir'aun berkata kepadanya, "Wahai Musa! Sesungguhnya aku benar-benar menduga engkau terkena sihir."
+Dan sungguh, Kami telah memberikan kepada Musa sembilan mukjizat yang nyata,[^483] maka tanyakanlah kepada Bani Israil, ketika Musa datang kepada mereka lalu Fir'aun berkata kepadanya, "Wahai Musa! Sesungguhnya aku benar-benar menduga engkau terkena sihir."
 
-*483) Mukjizat yang sembilan itu ialah, tongkat, tangan, belalang, kutu, katak, darah, topan, laut dan gunung (Sinai).
+[^483]: Mukjizat yang sembilan itu ialah, tongkat, tangan, belalang, kutu, katak, darah, topan, laut dan gunung (Sinai).
 
 # 2131
 
@@ -9362,9 +9532,9 @@ Dan katakanlah, "Segala puji bagi Allah yang tidak mempunyai anak dan tidak (pul
 
 # 2141
 
-Segala puji bagi Allah yang telah menurunkan Kitab (Al-Qur`an) kepada hamba-Nya dan Dia tidak menjadikannya bengkok;484)
+Segala puji bagi Allah yang telah menurunkan Kitab (Al-Qur`an) kepada hamba-Nya dan Dia tidak menjadikannya bengkok;[^484]
 
-*484) Tidak ada dalam Al-Qur`an makna yang berlawanan dan tidak ada penyimpangan dari kebenaran.
+[^484]: Tidak ada dalam Al-Qur`an makna yang berlawanan dan tidak ada penyimpangan dari kebenaran.
 
 # 2142
 
@@ -9396,9 +9566,9 @@ Dan Kami benar-benar akan menjadikan (pula) apa yang di atasnya menjadi tanah ya
 
 # 2149
 
-Apakah engkau mengira bahwa orang yang mendiami gua, dan (yang mempunyai) raqīm485) itu, termasuk tanda-tanda (kebesaran) Kami yang menakjubkan?
+Apakah engkau mengira bahwa orang yang mendiami gua, dan (yang mempunyai) raqīm[^485] itu, termasuk tanda-tanda (kebesaran) Kami yang menakjubkan?
 
-*485) Raqim, sebagian mufasir mengartikan nama anjing dan sebagian yang lain mengartikan batu bersurat.
+[^485]: Raqim, sebagian mufasir mengartikan nama anjing dan sebagian yang lain mengartikan batu bersurat.
 
 # 2150
 
@@ -9406,15 +9576,15 @@ Apakah engkau mengira bahwa orang yang mendiami gua, dan (yang mempunyai) raqīm
 
 # 2151
 
-Maka Kami tutup telinga mereka di dalam gua itu,486) selama beberapa tahun,
+Maka Kami tutup telinga mereka di dalam gua itu,[^486] selama beberapa tahun,
 
-*486) Allah menidurkan mereka selama 309 tahun qamariah dalam gua itu (lihat ayat 25 surat ini) sehingga mereka tak dapat dibangunkan oleh suara apa pun.
+[^486]: Allah menidurkan mereka selama 309 tahun qamariah dalam gua itu (lihat ayat 25 surat ini) sehingga mereka tak dapat dibangunkan oleh suara apa pun.
 
 # 2152
 
-Kemudian Kami bangunkan mereka, agar Kami mengetahui manakah di antara ke dua golongan itu487) yang lebih tepat dalam menghitung berapa lamanya mereka tinggal (dalam gua itu).
+Kemudian Kami bangunkan mereka, agar Kami mengetahui manakah di antara ke dua golongan itu[^487] yang lebih tepat dalam menghitung berapa lamanya mereka tinggal (dalam gua itu).
 
-*487) Kedua golongan itu ialah pemuda-pemuda itu sendiri yang berselisih tentang berapa lamanya mereka tinggal dalam gua itu.
+[^487]: Kedua golongan itu ialah pemuda-pemuda itu sendiri yang berselisih tentang berapa lamanya mereka tinggal dalam gua itu.
 
 # 2153
 
@@ -9422,9 +9592,9 @@ Kami ceritakan kepadamu (Muhammad) kisah mereka dengan sebenarnya. Sesungguhnya 
 
 # 2154
 
-Dan Kami teguhkan hati mereka ketika mereka berdiri488)) lalu mereka berkata, "Tuhan kami adalah Tuhan langit dan bumi; kami tidak menyeru tuhan selain Dia. Sungguh, kalau kami berbuat demikian, tentu kami telah mengucapkan perkataan yang sangat jauh dari kebenaran."
+Dan Kami teguhkan hati mereka ketika mereka berdiri[^488]) lalu mereka berkata, "Tuhan kami adalah Tuhan langit dan bumi; kami tidak menyeru tuhan selain Dia. Sungguh, kalau kami berbuat demikian, tentu kami telah mengucapkan perkataan yang sangat jauh dari kebenaran."
 
-*488) Bangun dan menghadap Raja Dikyanus yang zalim dan sombong.
+[^488]: Bangun dan menghadap Raja Dikyanus yang zalim dan sombong.
 
 # 2155
 
@@ -9432,9 +9602,9 @@ Mereka itu kaum kami yang telah menjadikan tuhan-tuhan (untuk disembah) selain D
 
 # 2156
 
-Dan apabila kamu meninggalkan mereka dan apa yang mereka sembah selain Allah, maka carilah tempat berlindung ke dalam gua itu, niscaya Tuhanmu akan melimpahkan sebagian rahmat-Nya kepadamu dan menyediakan sesuatu yang berguna bagimu dalam urusanmu.489)
+Dan apabila kamu meninggalkan mereka dan apa yang mereka sembah selain Allah, maka carilah tempat berlindung ke dalam gua itu, niscaya Tuhanmu akan melimpahkan sebagian rahmat-Nya kepadamu dan menyediakan sesuatu yang berguna bagimu dalam urusanmu.[^489]
 
-*489) Perkataan ini terjadi antara mereka itu sendiri yang timbulnya karena ilham dari Allah.
+[^489]: Perkataan ini terjadi antara mereka itu sendiri yang timbulnya karena ilham dari Allah.
 
 # 2157
 
@@ -9454,15 +9624,15 @@ Sesungguhnya jika mereka dapat mengetahui tempatmu, niscaya mereka akan melempar
 
 # 2161
 
-Dan demikian (pula) Kami perlihatkan (manusia) dengan mereka, agar mereka tahu, bahwa janji Allah benar, dan bahwa (kedatangan) hari Kiamat tidak ada keraguan padanya. Ketika mereka berselisih tentang urusan mereka,490) maka mereka berkata, "Dirikanlah suatu bangunan di atas (gua) mereka, Tuhan mereka lebih mengetahui tentang mereka." Orang yang berkuasa atas urusan mereka berkata, "Kami pasti akan mendirikan suatu rumah ibadah di atasnya."
+Dan demikian (pula) Kami perlihatkan (manusia) dengan mereka, agar mereka tahu, bahwa janji Allah benar, dan bahwa (kedatangan) hari Kiamat tidak ada keraguan padanya. Ketika mereka berselisih tentang urusan mereka,[^490] maka mereka berkata, "Dirikanlah suatu bangunan di atas (gua) mereka, Tuhan mereka lebih mengetahui tentang mereka." Orang yang berkuasa atas urusan mereka berkata, "Kami pasti akan mendirikan suatu rumah ibadah di atasnya."
 
-*490) Yang mereka perselisihkan itu tentang hari Kiamat, apakah itu akan terjadi atau tidak dan apakah dibangkitkan pada hari Kiamat dengan jasad dan roh atau roh saja. Maka Allah mempertemukan mereka dengan pemuda-pemuda dalam cerita ini untuk menjelaskan bahwa hari Kiamat itu pasti datang dan kebangkitan pada hari Kiamat itu adalah tubuh dan jiwa.
+[^490]: Yang mereka perselisihkan itu tentang hari Kiamat, apakah itu akan terjadi atau tidak dan apakah dibangkitkan pada hari Kiamat dengan jasad dan roh atau roh saja. Maka Allah mempertemukan mereka dengan pemuda-pemuda dalam cerita ini untuk menjelaskan bahwa hari Kiamat itu pasti datang dan kebangkitan pada hari Kiamat itu adalah tubuh dan jiwa.
 
 # 2162
 
-Nanti (ada orang yang akan) mengatakan,491)" (Jumlah mereka) tiga (orang), yang ke empat adalah anjingnya," dan (yang lain) mengatakan, "(Jumlah mereka) lima (orang), yang ke enam adalah anjingnya," sebagai terkaan terhadap yang gaib; dan (yang lain lagi) mengatakan, "(Jumlah mereka) tujuh (orang), yang ke delapan adalah anjingnya." Katakanlah (Muhammad), "Tuhanku lebih mengetahui jumlah mereka; tidak ada yang mengetahui (bilangan) mereka kecuali sedikit." Karena itu janganlah engkau (Muhammad) berbantah tentang hal mereka, kecuali perbantahan lahir saja dan jangan engkau menanyakan tentang mereka (pemuda-pemuda itu) kepada siapa pun.
+Nanti (ada orang yang akan) mengatakan,[^491]" (Jumlah mereka) tiga (orang), yang ke empat adalah anjingnya," dan (yang lain) mengatakan, "(Jumlah mereka) lima (orang), yang ke enam adalah anjingnya," sebagai terkaan terhadap yang gaib; dan (yang lain lagi) mengatakan, "(Jumlah mereka) tujuh (orang), yang ke delapan adalah anjingnya." Katakanlah (Muhammad), "Tuhanku lebih mengetahui jumlah mereka; tidak ada yang mengetahui (bilangan) mereka kecuali sedikit." Karena itu janganlah engkau (Muhammad) berbantah tentang hal mereka, kecuali perbantahan lahir saja dan jangan engkau menanyakan tentang mereka (pemuda-pemuda itu) kepada siapa pun.
 
-*491) Ahli Kitab dan lainnya pada zaman Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
+[^491]: Ahli Kitab dan lainnya pada zaman Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
 
 # 2163
 
@@ -9470,9 +9640,9 @@ Dan jangan sekali-kali engkau mengatakan terhadap sesuatu, "Aku pasti melakukan 
 
 # 2164
 
-kecuali (dengan mengatakan), "Insyā Allah."492) Dan ingatlah kepada Tuhanmu apabila engkau lupa dan katakanlah, "Mudah-mudahan Tuhanku akan memberi petunjuk kepadaku agar aku yang lebih dekat (kebenarannya) daripada ini."
+kecuali (dengan mengatakan), "Insyā Allah."[^492] Dan ingatlah kepada Tuhanmu apabila engkau lupa dan katakanlah, "Mudah-mudahan Tuhanku akan memberi petunjuk kepadaku agar aku yang lebih dekat (kebenarannya) daripada ini."
 
-*492) Menurut riwayat, ada beberapa orang Quraisy bertanya kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- tentang roh, kisah Ashabul Kahfi (penghuni gua) dan kisah Zulkarnain lalu beliau menjawab, datanglah besok pagi kepadaku agar aku ceritakan kepadamu. Dan beliau tidak mengucapkan Insyā Allāh (artinya jika Allah menghendaki). Tapi rupanya sampai besok harinya wahyu terlambat datang untuk menceritakan hal-hal tersebut dan Nabi tak dapat menjawabnya. Maka turunlah ayat 23-24 di atas, sebagai pelajaran kepada Nabi; Allah mengingatkan pula bilamana Nabi lupa menyebut Insyā Allāh haruslah segera menyebutkannya kemudian.
+[^492]: Menurut riwayat, ada beberapa orang Quraisy bertanya kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- tentang roh, kisah Ashabul Kahfi (penghuni gua) dan kisah Zulkarnain lalu beliau menjawab, datanglah besok pagi kepadaku agar aku ceritakan kepadamu. Dan beliau tidak mengucapkan Insyā Allāh (artinya jika Allah menghendaki). Tapi rupanya sampai besok harinya wahyu terlambat datang untuk menceritakan hal-hal tersebut dan Nabi tak dapat menjawabnya. Maka turunlah ayat 23-24 di atas, sebagai pelajaran kepada Nabi; Allah mengingatkan pula bilamana Nabi lupa menyebut Insyā Allāh haruslah segera menyebutkannya kemudian.
 
 # 2165
 
@@ -9504,9 +9674,11 @@ Mereka itulah yang memperoleh surga Aden, yang mengalir di bawahnya sungai-sunga
 
 # 2172
 
-Dan berikanlah (Muhammad) kepada mereka493) suatu perumpamaan, dua orang laki-laki,494) yang seorang (yang kafir) Kami beri dua buah kebun anggur dan Kami kelilingi kedua kebun itu dengan pohon-pohon kurma dan di antara keduanya (kebun itu) Kami buatkan ladang.
+Dan berikanlah (Muhammad) kepada mereka[^493] suatu perumpamaan, dua orang laki-laki,[^494] yang seorang (yang kafir) Kami beri dua buah kebun anggur dan Kami kelilingi kedua kebun itu dengan pohon-pohon kurma dan di antara keduanya (kebun itu) Kami buatkan ladang.
 
-*493) Kepada orang mukmin dan orang kafir. 494) Dua orang Yahudi yang satu mukmin dan yang lain kafir.
+[^493]: Kepada orang mukmin dan orang kafir
+
+[^494]: Dua orang Yahudi yang satu mukmin dan yang lain kafir.
 
 # 2173
 
@@ -9638,9 +9810,9 @@ Dia (Musa) berkata, "Itulah (tempat) yang kita cari." Lalu keduanya kembali, men
 
 # 2205
 
-lalu mereka berdua bertemu dengan seorang hamba di antara hamba-hamba Kami, yang telah Kami berikan rahmat kepadanya dari sisi Kami, dan yang telah Kami ajarkan ilmu kepadanya dari sisi Kami.495)
+lalu mereka berdua bertemu dengan seorang hamba di antara hamba-hamba Kami, yang telah Kami berikan rahmat kepadanya dari sisi Kami, dan yang telah Kami ajarkan ilmu kepadanya dari sisi Kami.[^495]
 
-*495) Menurut mufasir, berdasarkan hadis, hamba di sini ialah Khidir, dan yang dimaksud dengan rahmat di sini ialah wahyu dan kenabian. Sedang yang dimaksud dengan ilmu ialah ilmu tentang yang gaib seperti yang akan diterangkan dalam ayat berikut.
+[^495]: Menurut mufasir, berdasarkan hadis, hamba di sini ialah Khidir, dan yang dimaksud dengan rahmat di sini ialah wahyu dan kenabian. Sedang yang dimaksud dengan ilmu ialah ilmu tentang yang gaib seperti yang akan diterangkan dalam ayat berikut.
 
 # 2206
 
@@ -9724,9 +9896,9 @@ maka dia pun menempuh suatu jalan.
 
 # 2226
 
-Hingga ketika dia telah sampai di tempat matahari terbenam,496) dia melihatnya (matahari) terbenam di dalam laut yang berlumpur hitam, dan di sana ditemukannya suatu kaum (tidak beragama). Kami berfirman, "Wahai Zulkarnain! Engkau boleh menghukum atau berbuat kebaikan (mengajak beriman) kepada mereka."
+Hingga ketika dia telah sampai di tempat matahari terbenam,[^496] dia melihatnya (matahari) terbenam di dalam laut yang berlumpur hitam, dan di sana ditemukannya suatu kaum (tidak beragama). Kami berfirman, "Wahai Zulkarnain! Engkau boleh menghukum atau berbuat kebaikan (mengajak beriman) kepada mereka."
 
-*496) Sampai di pantai sebelah barat, tempat Zulkarnain melihat matahari sedang terbenam.
+[^496]: Sampai di pantai sebelah barat, tempat Zulkarnain melihat matahari sedang terbenam.
 
 # 2227
 
@@ -9742,9 +9914,9 @@ Kemudian dia menempuh suatu jalan (yang lain).
 
 # 2230
 
-Hingga ketika dia sampai di tempat terbit matahari (sebelah Timur) didapatinya (matahari) bersinar di atas suatu kaum yang tidak Kami buatkan suatu pelindung bagi mereka dari (cahaya matahari)497) itu.
+Hingga ketika dia sampai di tempat terbit matahari (sebelah Timur) didapatinya (matahari) bersinar di atas suatu kaum yang tidak Kami buatkan suatu pelindung bagi mereka dari (cahaya matahari)[^497] itu.
 
-*497) Menurut sebagian mufasir, golongan yang ditemui Zulkarnain itu umat yang miskin.
+[^497]: Menurut sebagian mufasir, golongan yang ditemui Zulkarnain itu umat yang miskin.
 
 # 2231
 
@@ -9756,15 +9928,15 @@ Kemudian dia menempuh suatu jalan (yang lain lagi).
 
 # 2233
 
-Hingga ketika dia sampai di antara dua gunung, didapatinya di belakang (kedua gunung itu) suatu kaum yang hampir tidak memahami pembicaraan.498)
+Hingga ketika dia sampai di antara dua gunung, didapatinya di belakang (kedua gunung itu) suatu kaum yang hampir tidak memahami pembicaraan.[^498]
 
-*498) Mereka tidak dapat memahami bahasa orang lain, karena bahasa mereka sangat jauh bedanya dari bahasa yang lain, dan mereka pun tidak dapat menerangkan maksud mereka dengan jelas karena kekurangcerdasan mereka.
+[^498]: Mereka tidak dapat memahami bahasa orang lain, karena bahasa mereka sangat jauh bedanya dari bahasa yang lain, dan mereka pun tidak dapat menerangkan maksud mereka dengan jelas karena kekurangcerdasan mereka.
 
 # 2234
 
-Mereka berkata, "Wahai Zulkarnain! Sungguh, Ya`jūj dan Ma`jūj499) itu (makhluk yang) berbuat kerusakan di bumi, maka bolehkah kami membayarmu imbalan agar engkau membuatkan dinding penghalang antara kami dan mereka?"
+Mereka berkata, "Wahai Zulkarnain! Sungguh, Ya`jūj dan Ma`jūj[^499] itu (makhluk yang) berbuat kerusakan di bumi, maka bolehkah kami membayarmu imbalan agar engkau membuatkan dinding penghalang antara kami dan mereka?"
 
-*499) Ya`jūj dan Ma`jūj ialah dua bangsa yang berbuat kerusakan di bumi.
+[^499]: Ya`jūj dan Ma`jūj ialah dua bangsa yang berbuat kerusakan di bumi.
 
 # 2235
 
@@ -9808,9 +9980,9 @@ Katakanlah (Muhammad), "Apakah perlu Kami beritahukan kepadamu tentang orang yan
 
 # 2245
 
-Mereka itulah orang yang mengingkari ayat-ayat Tuhan mereka dan (tidak percaya) terhadap pertemuan dengan-Nya.500) Maka sia-sia amal mereka, dan Kami tidak memberikan penimbangan terhadap (amal) mereka pada hari Kiamat.
+Mereka itulah orang yang mengingkari ayat-ayat Tuhan mereka dan (tidak percaya) terhadap pertemuan dengan-Nya.[^500] Maka sia-sia amal mereka, dan Kami tidak memberikan penimbangan terhadap (amal) mereka pada hari Kiamat.
 
-*500) Tidak beriman kepada hari Kiamat.
+[^500]: Tidak beriman kepada hari Kiamat.
 
 # 2246
 
@@ -9878,9 +10050,11 @@ Maka dia keluar dari mihrab menuju kaumnya, lalu dia memberi isyarat kepada mere
 
 # 2262
 
-"Wahai Yahya! Ambillah (pelajarilah)501) Kitab (Taurat) itu dengan sungguh-sungguh." Dan Kami berikan hikmah kepadanya (Yahya)502) selagi dia masih kanak-kanak,
+"Wahai Yahya! Ambillah (pelajarilah)[^501] Kitab (Taurat) itu dengan sungguh-sungguh." Dan Kami berikan hikmah kepadanya (Yahya)[^502] selagi dia masih kanak-kanak,
 
-*501) Pelajarilah Taurat itu, amalkan isinya, dan sampaikan kepada umatmu. 502) Pemahaman Taurat dan pendalaman agama.
+[^501]: Pelajarilah Taurat itu, amalkan isinya, dan sampaikan kepada umatmu
+
+[^502]: Pemahaman Taurat dan pendalaman agama.
 
 # 2263
 
@@ -9992,15 +10166,15 @@ Dan berilah mereka peringatan tentang hari penyesalan, (yaitu) ketika segala per
 
 # 2290
 
-Sesungguhnya Kamilah yang mewarisi bumi503) dan semua yang ada di atasnya, dan hanya kepada Kami mereka dikembalikan.
+Sesungguhnya Kamilah yang mewarisi bumi[^503] dan semua yang ada di atasnya, dan hanya kepada Kami mereka dikembalikan.
 
-*503) Setelah seluruh alam ini hancur, maka hanya Allah yang kekal.
+[^503]: Setelah seluruh alam ini hancur, maka hanya Allah yang kekal.
 
 # 2291
 
-Dan ceritakanlah (Muhammad) kisah Ibrahim di dalam Kitab (Al-Qur`an), sesungguhnya dia seorang yang sangat mencintai kebenaran,504) dan seorang nabi.
+Dan ceritakanlah (Muhammad) kisah Ibrahim di dalam Kitab (Al-Qur`an), sesungguhnya dia seorang yang sangat mencintai kebenaran,[^504] dan seorang nabi.
 
-*504) Nabi Ibrahim -'alaihissalām- adalah seorang nabi yang sangat cepat membenarkan semua hal gaib yang datang dari Allah.
+[^504]: Nabi Ibrahim -'alaihissalām- adalah seorang nabi yang sangat cepat membenarkan semua hal gaib yang datang dari Allah.
 
 # 2292
 
@@ -10056,9 +10230,9 @@ Dan ceritakanlah (Muhammad) kisah Ismail di dalam Kitab (Al-Qur`an). Dia benar-b
 
 # 2305
 
-Dan dia menyuruh keluarganya505) untuk (melaksanakan) salat dan (menunaikan) zakat, dan dia seorang yang diridai di sisi Tuhannya.
+Dan dia menyuruh keluarganya[^505] untuk (melaksanakan) salat dan (menunaikan) zakat, dan dia seorang yang diridai di sisi Tuhannya.
 
-*505) Sebagian mufasir berpendapat bahwa yang dimaksud ahlahu ialah keluarganya, dan sebagian berpendapat umatnya.
+[^505]: Sebagian mufasir berpendapat bahwa yang dimaksud ahlahu ialah keluarganya, dan sebagian berpendapat umatnya.
 
 # 2306
 
@@ -10138,9 +10312,9 @@ Dan berapa banyak umat (yang ingkar) yang telah Kami binasakan sebelum mereka, p
 
 # 2325
 
-Katakanlah (Muhammad), "Barangsiapa berada dalam kesesatan, maka biarlah Tuhan Yang Maha Pengasih memperpanjang (waktu) baginya;506) sehingga apabila mereka telah melihat apa yang diancamkan kepada mereka, baik azab maupun Kiamat, maka mereka akan mengetahui siapa yang lebih jelek kedudukannya dan lebih lemah bala tentaranya."
+Katakanlah (Muhammad), "Barangsiapa berada dalam kesesatan, maka biarlah Tuhan Yang Maha Pengasih memperpanjang (waktu) baginya;[^506] sehingga apabila mereka telah melihat apa yang diancamkan kepada mereka, baik azab maupun Kiamat, maka mereka akan mengetahui siapa yang lebih jelek kedudukannya dan lebih lemah bala tentaranya."
 
-*506) Memanjangkan umur dan membiarkan mereka hidup dalam kesenangan.
+[^506]: Memanjangkan umur dan membiarkan mereka hidup dalam kesenangan.
 
 # 2326
 
@@ -10160,9 +10334,9 @@ Sama sekali tidak! Kami akan menulis apa yang dia katakan, dan Kami akan memperp
 
 # 2330
 
-dan Kami akan mewarisi apa yang dia katakan itu,507) dan dia akan datang kepada Kami seorang diri.
+dan Kami akan mewarisi apa yang dia katakan itu,[^507] dan dia akan datang kepada Kami seorang diri.
 
-*507) Allah akan mengambil kembali harta dan anak-anaknya, sehingga dia menemui Allah seorang diri.
+[^507]: Allah akan mengambil kembali harta dan anak-anaknya, sehingga dia menemui Allah seorang diri.
 
 # 2331
 
@@ -10190,9 +10364,9 @@ dan Kami akan menggiring orang yang durhaka ke neraka Jahanam dalam keadaan daha
 
 # 2337
 
-Mereka tidak berhak mendapat syafaat (pertolongan), kecuali orang yang telah mengadakan perjanjian di sisi (Allah) Yang Maha Pengasih.508)
+Mereka tidak berhak mendapat syafaat (pertolongan), kecuali orang yang telah mengadakan perjanjian di sisi (Allah) Yang Maha Pengasih.[^508]
 
-*508) “Mengadakan perjanjian dengan Allah” ialah menjalankan segala perintah Allah dengan beriman dan bertakwa kepada-Nya.
+[^508]: “Mengadakan perjanjian dengan Allah” ialah menjalankan segala perintah Allah dengan beriman dan bertakwa kepada-Nya.
 
 # 2338
 
@@ -10256,9 +10430,9 @@ diturunkan dari (Allah) yang menciptakan bumi dan langit yang tinggi,
 
 # 2353
 
-(yaitu) Yang Maha Pengasih, yang bersemayam di atas Arasy.509)
+(yaitu) Yang Maha Pengasih, yang bersemayam di atas Arasy.[^509]
 
-*509) Sifat Allah yang wajib kita imani, sesuai dengan kebesaran Allah dan kesucian-Nya.
+[^509]: Sifat Allah yang wajib kita imani, sesuai dengan kebesaran Allah dan kesucian-Nya.
 
 # 2354
 
@@ -10266,9 +10440,9 @@ Milik-Nyalah apa yang ada di langit, apa yang ada di bumi, apa yang ada di antar
 
 # 2355
 
-Dan jika engkau mengeraskan ucapanmu, sungguh, Dia mengetahui rahasia dan yang lebih tersembunyi.510)
+Dan jika engkau mengeraskan ucapanmu, sungguh, Dia mengetahui rahasia dan yang lebih tersembunyi.[^510]
 
-*510) Maksud ayat ini ialah tidak perlu mengeraskan suara dalam berdoa karena Allah mendengar doa walaupun diucapkan dengan suara rendah.
+[^510]: Maksud ayat ini ialah tidak perlu mengeraskan suara dalam berdoa karena Allah mendengar doa walaupun diucapkan dengan suara rendah.
 
 # 2356
 
@@ -10340,9 +10514,9 @@ Pergilah kepada Fir'aun; dia benar-benar telah melampaui batas."
 
 # 2373
 
-Dia (Musa) berkata, "Ya Tuhanku, lapangkanlah dadaku,511)
+Dia (Musa) berkata, "Ya Tuhanku, lapangkanlah dadaku,[^511]
 
-*511) Nabi Musa -'alaihissalām- memohon kepada Allah agar dadanya dilapangkan untuk menghadapi Fir'aun yang terkenal sebagai seorang raja yang kejam.
+[^511]: Nabi Musa -'alaihissalām- memohon kepada Allah agar dadanya dilapangkan untuk menghadapi Fir'aun yang terkenal sebagai seorang raja yang kejam.
 
 # 2374
 
@@ -10398,15 +10572,17 @@ Dan sungguh, Kami telah memberi nikmat kepadamu pada kesempatan yang lain (sebel
 
 # 2387
 
-(yaitu), letakkanlah dia (Musa) di dalam peti, kemudian hanyutkanlah dia ke sungai (Nil), maka biarlah (arus) sungai itu membawanya ke tepi. Dia akan diambil oleh (Fir'aun) musuh-Ku dan musuhnya. Aku telah melimpahkan kepadamu kasih sayang yang datang dari-Ku;512) dan agar engkau diasuh di bawah pengawasan-Ku.
+(yaitu), letakkanlah dia (Musa) di dalam peti, kemudian hanyutkanlah dia ke sungai (Nil), maka biarlah (arus) sungai itu membawanya ke tepi. Dia akan diambil oleh (Fir'aun) musuh-Ku dan musuhnya. Aku telah melimpahkan kepadamu kasih sayang yang datang dari-Ku;[^512] dan agar engkau diasuh di bawah pengawasan-Ku.
 
-*512) Setiap orang yang memandang Nabi Musa -'alaihissalām- akan merasa kasih sayang kepadanya.
+[^512]: Setiap orang yang memandang Nabi Musa -'alaihissalām- akan merasa kasih sayang kepadanya.
 
 # 2388
 
-(Yaitu) ketika saudara perempuanmu berjalan, lalu dia berkata (kepada keluarga Fir'aun), ‘Bolehkah saya menunjukkan kepadamu orang yang akan memeliharanya?’ Maka Kami mengembalikanmu kepada ibumu, agar dia senang dan tidak bersedih hati. Dan engkau pernah membunuh seseorang,513) lalu Kami selamatkan engkau dari kesulitan (yang besar) dan Kami telah mencobamu dengan beberapa cobaan (yang berat); lalu engkau tinggal beberapa tahun di antara penduduk Madyan,514) kemudian engkau, wahai Musa, datang menurut waktu yang ditetapkan,
+(Yaitu) ketika saudara perempuanmu berjalan, lalu dia berkata (kepada keluarga Fir'aun), ‘Bolehkah saya menunjukkan kepadamu orang yang akan memeliharanya?’ Maka Kami mengembalikanmu kepada ibumu, agar dia senang dan tidak bersedih hati. Dan engkau pernah membunuh seseorang,[^513] lalu Kami selamatkan engkau dari kesulitan (yang besar) dan Kami telah mencobamu dengan beberapa cobaan (yang berat); lalu engkau tinggal beberapa tahun di antara penduduk Madyan,[^514] kemudian engkau, wahai Musa, datang menurut waktu yang ditetapkan,
 
-*513) Yang terbunuh adalah seorang bangsa Qibṭi yang sedang berkelahi dengan seorang Bani Israil sebagaimana yang telah dikisahkan dalam Al-Qaṣaṣ (28) : 15. 514) Nabi Musa -'alaihissalām- datang ke negeri Madyan untuk melarikan diri, di sana dia dinikahkan oleh Nabi Syuaib -'alaihissalām- dengan salah seorang putrinya dan menetap beberapa tahun lamanya.
+[^513]: Yang terbunuh adalah seorang bangsa Qibṭi yang sedang berkelahi dengan seorang Bani Israil sebagaimana yang telah dikisahkan dalam Al-Qaṣaṣ (28) : 15
+
+[^514]: Nabi Musa -'alaihissalām- datang ke negeri Madyan untuk melarikan diri, di sana dia dinikahkan oleh Nabi Syuaib -'alaihissalām- dengan salah seorang putrinya dan menetap beberapa tahun lamanya.
 
 # 2389
 
@@ -10434,9 +10610,9 @@ Dia (Allah) berfirman, "Janganlah kamu berdua khawatir, sesungguhnya Aku bersama
 
 # 2395
 
-Maka pergilah kamu berdua kepadanya (Fir'aun) dan katakanlah, "Sungguh, kami berdua adalah utusan Tuhanmu, maka lepaskanlah Bani Israil bersama kami dan janganlah engkau menyiksa mereka.515) Sungguh, kami datang kepadamu dengan membawa bukti (atas kerasulan kami) dari Tuhanmu. Dan keselamatan itu dilimpahkan kepada orang yang mengikuti petunjuk.
+Maka pergilah kamu berdua kepadanya (Fir'aun) dan katakanlah, "Sungguh, kami berdua adalah utusan Tuhanmu, maka lepaskanlah Bani Israil bersama kami dan janganlah engkau menyiksa mereka.[^515] Sungguh, kami datang kepadamu dengan membawa bukti (atas kerasulan kami) dari Tuhanmu. Dan keselamatan itu dilimpahkan kepada orang yang mengikuti petunjuk.
 
-*515) Bani Israil pada waktu mereka berada di Mesir adalah di bawah perbudakan Fir'aun. Mereka dipekerjakan untuk mendirikan bangunan-bangunan yang besar dan kota-kota dengan kerja paksa. Maka Nabi Musa -'alaihissalām- meminta kepada Fir'aun agar mereka dibebaskan.
+[^515]: Bani Israil pada waktu mereka berada di Mesir adalah di bawah perbudakan Fir'aun. Mereka dipekerjakan untuk mendirikan bangunan-bangunan yang besar dan kota-kota dengan kerja paksa. Maka Nabi Musa -'alaihissalām- meminta kepada Fir'aun agar mereka dibebaskan.
 
 # 2396
 
@@ -10448,9 +10624,9 @@ Dia (Fir'aun) berkata, "Siapakah Tuhanmu berdua, wahai Musa?"
 
 # 2398
 
-Dia (Musa) menjawab, "Tuhan kami ialah (Tuhan) yang telah memberikan bentuk kejadian kepada segala sesuatu, kemudian memberinya petunjuk."516)
+Dia (Musa) menjawab, "Tuhan kami ialah (Tuhan) yang telah memberikan bentuk kejadian kepada segala sesuatu, kemudian memberinya petunjuk."[^516]
 
-*516) Memberikan akal, insting (naluri) dan kodrat alamiah untuk kelanjutan hidupnya masing-masing.
+[^516]: Memberikan akal, insting (naluri) dan kodrat alamiah untuk kelanjutan hidupnya masing-masing.
 
 # 2399
 
@@ -10474,9 +10650,9 @@ Darinya (tanah) itulah Kami menciptakan kamu dan kepadanyalah Kami akan mengemba
 
 # 2404
 
-Dan sungguh, Kami telah memperlihatkan kepadanya (Fir'aun) tanda-tanda (kebesaran) Kami semuanya,517) ternyata dia mendustakan dan enggan (menerima kebenaran).
+Dan sungguh, Kami telah memperlihatkan kepadanya (Fir'aun) tanda-tanda (kebesaran) Kami semuanya,[^517] ternyata dia mendustakan dan enggan (menerima kebenaran).
 
-*517) Yang dimaksud dengan tanda-tanda di sini ialah tanda-tanda kenabian Musa -'alaihissalām-. Pada pertemuan Nabi Musa -'alaihissalām- dengan Fir'aun ini, yang diperlihatkan baru dua mukjizat, yaitu tongkat Nabi Musa -'alaihissalām- menjadi ular dan tangannya menjadi putih bercahaya.
+[^517]: Yang dimaksud dengan tanda-tanda di sini ialah tanda-tanda kenabian Musa -'alaihissalām-. Pada pertemuan Nabi Musa -'alaihissalām- dengan Fir'aun ini, yang diperlihatkan baru dua mukjizat, yaitu tongkat Nabi Musa -'alaihissalām- menjadi ular dan tangannya menjadi putih bercahaya.
 
 # 2405
 
@@ -10560,9 +10736,9 @@ Tetapi barangsiapa datang kepada-Nya dalam keadaan beriman, dan telah mengerjaka
 
 # 2425
 
-Dan sungguh, telah Kami wahyukan kepada Musa, "Pergilah bersama hamba-hamba-Ku (Bani Israil) pada malam hari, dan pukullah (buatlah) untuk mereka jalan yang kering di laut itu,518) (engkau) tidak perlu takut akan tersusul dan tidak perlu khawatir (akan tenggelam)."
+Dan sungguh, telah Kami wahyukan kepada Musa, "Pergilah bersama hamba-hamba-Ku (Bani Israil) pada malam hari, dan pukullah (buatlah) untuk mereka jalan yang kering di laut itu,[^518] (engkau) tidak perlu takut akan tersusul dan tidak perlu khawatir (akan tenggelam)."
 
-*518) Memukul laut itu dengan tongkat. Lihat Asy-Syu'arā` (26) : 63.
+[^518]: Memukul laut itu dengan tongkat. Lihat Asy-Syu'arā` (26) : 63.
 
 # 2426
 
@@ -10602,15 +10778,15 @@ Kemudian Musa kembali kepada kaumnya dengan marah dan bersedih hati. Dia (Musa) 
 
 # 2435
 
-Mereka berkata, "Kami tidak melanggar perjanjianmu dengan kemauan kami sendiri, tetapi kami harus membawa beban berat dari perhiasan kaum (Fir'aun) itu, kemudian kami melemparkannya (ke dalam api), dan demikian pula Samiri melemparkannya,519)
+Mereka berkata, "Kami tidak melanggar perjanjianmu dengan kemauan kami sendiri, tetapi kami harus membawa beban berat dari perhiasan kaum (Fir'aun) itu, kemudian kami melemparkannya (ke dalam api), dan demikian pula Samiri melemparkannya,[^519]
 
-*519) Mereka disuruh membawa perhiasan dari emas milik orang-orang Mesir, lalu oleh Samiri dianjurkan agar perhiasan itu dilemparkan ke dalam api yang telah dinyalakannya dalam suatu lubang untuk dijadikan patung berbentuk anak sapi. Kemudian mereka melemparkannya dan diikuti pula oleh Samiri.
+[^519]: Mereka disuruh membawa perhiasan dari emas milik orang-orang Mesir, lalu oleh Samiri dianjurkan agar perhiasan itu dilemparkan ke dalam api yang telah dinyalakannya dalam suatu lubang untuk dijadikan patung berbentuk anak sapi. Kemudian mereka melemparkannya dan diikuti pula oleh Samiri.
 
 # 2436
 
-kemudian (dari lubang api itu) dia (Samiri) mengeluarkan (patung) anak sapi yang bertubuh dan bersuara520) untuk mereka, maka mereka berkata, "Inilah Tuhanmu dan Tuhannya Musa, tetapi dia (Musa) telah lupa."
+kemudian (dari lubang api itu) dia (Samiri) mengeluarkan (patung) anak sapi yang bertubuh dan bersuara[^520] untuk mereka, maka mereka berkata, "Inilah Tuhanmu dan Tuhannya Musa, tetapi dia (Musa) telah lupa."
 
-*520) Lihat catatan Al-A'rāf (7) : 148.
+[^520]: Lihat catatan Al-A'rāf (7) : 148.
 
 # 2437
 
@@ -10642,15 +10818,15 @@ Dia (Musa) berkata, "Apakah yang mendorongmu (berbuat demikian) wahai Samiri?"
 
 # 2444
 
-Dia (Samiri) menjawab, "Aku mengetahui sesuatu yang tidak mereka ketahui, jadi aku ambil segenggam (tanah dari) jejak rasul521) lalu aku melemparkannya (ke dalam api itu), demikianlah nafsuku membujukku."
+Dia (Samiri) menjawab, "Aku mengetahui sesuatu yang tidak mereka ketahui, jadi aku ambil segenggam (tanah dari) jejak rasul[^521] lalu aku melemparkannya (ke dalam api itu), demikianlah nafsuku membujukku."
 
-*521) Yang dimaksud dengan “jejak rasul” di sini adalah ajaran-ajarannya. Menurut paham ini, Samiri mengambil sebagian ajaran Musa kemudian dilemparkannya ajaran-ajaran itu sehingga dia menjadi sesat. Menurut sebagian mufasir, yang dimaksud dengan “jejak rasul” ialah jejak telapak kuda Jibril -'alaihissalām- artinya Samiri mengambil segumpal tanah dari jejak telapak kuda itu lalu melemparkannya ke dalam logam yang sedang dihancurkan sehingga logam itu berbentuk anak sapi yang mengeluarkan suara.
+[^521]: Yang dimaksud dengan “jejak rasul” di sini adalah ajaran-ajarannya. Menurut paham ini, Samiri mengambil sebagian ajaran Musa kemudian dilemparkannya ajaran-ajaran itu sehingga dia menjadi sesat. Menurut sebagian mufasir, yang dimaksud dengan “jejak rasul” ialah jejak telapak kuda Jibril -'alaihissalām- artinya Samiri mengambil segumpal tanah dari jejak telapak kuda itu lalu melemparkannya ke dalam logam yang sedang dihancurkan sehingga logam itu berbentuk anak sapi yang mengeluarkan suara.
 
 # 2445
 
-Dia (Musa) berkata, "Pergilah kau! Maka sesungguhnya di dalam kehidupan (di dunia) engkau (hanya dapat) mengatakan, ‘Janganlah menyentuh (aku)’! 522) Dan engkau pasti mendapat (hukuman) yang telah dijanjikan (di akhirat) yang tidak mungkin engkau hindari, dan lihatlah tuhanmu itu yang engkau tetap menyembahnya. Kami pasti akan membakarnya, kemudian sungguh kami akan menghamburkannya (abunya) ke dalam laut (berserakan).
+Dia (Musa) berkata, "Pergilah kau! Maka sesungguhnya di dalam kehidupan (di dunia) engkau (hanya dapat) mengatakan, ‘Janganlah menyentuh (aku)’! [^522] Dan engkau pasti mendapat (hukuman) yang telah dijanjikan (di akhirat) yang tidak mungkin engkau hindari, dan lihatlah tuhanmu itu yang engkau tetap menyembahnya. Kami pasti akan membakarnya, kemudian sungguh kami akan menghamburkannya (abunya) ke dalam laut (berserakan).
 
-*522) Agar Samiri hidup terpencil, sebagai hukuman di dunia. Dan sebagai hukuman di akhirat, dia akan di tempatkan di neraka.
+[^522]: Agar Samiri hidup terpencil, sebagai hukuman di dunia. Dan sebagai hukuman di akhirat, dia akan di tempatkan di neraka.
 
 # 2446
 
@@ -10670,9 +10846,9 @@ mereka kekal di dalam keadaan itu. Dan sungguh buruk beban dosa itu bagi mereka 
 
 # 2450
 
-pada hari (Kiamat) sangkakala ditiup (yang kedua kali) 523) dan pada hari itu Kami kumpulkan orang-orang yang berdosa dengan (wajah) biru muram,
+pada hari (Kiamat) sangkakala ditiup (yang kedua kali) [^523] dan pada hari itu Kami kumpulkan orang-orang yang berdosa dengan (wajah) biru muram,
 
-*523) Tiupan sangkakala yang kedua, yaitu tiupan untuk membangkitkan manusia dari kuburnya atau menghidupkannya kembali.
+[^523]: Tiupan sangkakala yang kedua, yaitu tiupan untuk membangkitkan manusia dari kuburnya atau menghidupkannya kembali.
 
 # 2451
 
@@ -10680,9 +10856,9 @@ mereka saling berbisik satu sama lain, "Kamu tinggal (di dunia) tidak lebih dari
 
 # 2452
 
-Kami lebih mengetahui apa yang akan mereka katakan, ketika orang yang paling lurus jalannya524) mengatakan, "Kamu tinggal (di dunia), tidak lebih dari sehari saja."
+Kami lebih mengetahui apa yang akan mereka katakan, ketika orang yang paling lurus jalannya[^524] mengatakan, "Kamu tinggal (di dunia), tidak lebih dari sehari saja."
 
-*524) Orang yang lurus pikirannya atau amalnya di antara orang-orang yang berdosa.
+[^524]: Orang yang lurus pikirannya atau amalnya di antara orang-orang yang berdosa.
 
 # 2453
 
@@ -10722,15 +10898,15 @@ Dan demikianlah Kami menurunkan Al-Qur`an dalam bahasa Arab, dan Kami telah menj
 
 # 2462
 
-Maka Mahatinggi Allah, Raja yang sebenar-benarnya. Dan janganlah engkau (Muhammad) tergesa-gesa (membaca) Al-Qur`an sebelum selesai diwahyukan kepadamu,525) dan katakanlah, "Ya Tuhanku, tambahkanlah ilmu kepadaku."
+Maka Mahatinggi Allah, Raja yang sebenar-benarnya. Dan janganlah engkau (Muhammad) tergesa-gesa (membaca) Al-Qur`an sebelum selesai diwahyukan kepadamu,[^525] dan katakanlah, "Ya Tuhanku, tambahkanlah ilmu kepadaku."
 
-*525) Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dilarang oleh Allah menirukan bacaan Jibril -'alaihissalām- kalimat demi kalimat sebelum Jibril -'alaihissalām- selesai membacakannya, agar Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- menghafal dan memahami betul-betul ayat yang diturunkan.
+[^525]: Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dilarang oleh Allah menirukan bacaan Jibril -'alaihissalām- kalimat demi kalimat sebelum Jibril -'alaihissalām- selesai membacakannya, agar Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- menghafal dan memahami betul-betul ayat yang diturunkan.
 
 # 2463
 
-Dan sungguh telah Kami pesankan526) kepada Adam dahulu, tetapi dia lupa, dan Kami tidak dapati kemauan yang kuat padanya.
+Dan sungguh telah Kami pesankan[^526] kepada Adam dahulu, tetapi dia lupa, dan Kami tidak dapati kemauan yang kuat padanya.
 
-*526) Pesan Allah ini tersebut dalam surah Al-Baqarah (2) : 35.
+[^526]: Pesan Allah ini tersebut dalam surah Al-Baqarah (2) : 35.
 
 # 2464
 
@@ -10754,15 +10930,15 @@ Kemudian setan membisikkan (pikiran jahat) kepadanya, dengan berkata, "Wahai Ada
 
 # 2469
 
-Lalu keduanya memakannya, lalu tampaklah oleh keduanya aurat mereka dan mulailah keduanya menutupinya dengan daun-daun (yang ada di) surga, dan telah durhakalah Adam kepada Tuhan-Nya, dan sesatlah dia.527)
+Lalu keduanya memakannya, lalu tampaklah oleh keduanya aurat mereka dan mulailah keduanya menutupinya dengan daun-daun (yang ada di) surga, dan telah durhakalah Adam kepada Tuhan-Nya, dan sesatlah dia.[^527]
 
-*527) Yang dimaksud "durhaka" di sini ialah melanggar larangan Allah karena lupa, tidak sengaja, sebagaimana disebutkan dalam ayat 115 surah ini. Dan yang dimaksud dengan "sesat" ialah mengikuti apa yang dibisikkan setan. Kesalahan Adam -'alaihissalām- meskipun tidak begitu besar menurut ukuran manusia biasa sudah dinamai durhaka dan sesat karena tingginya martabat Adam -'alaihissalām- dan untuk menjadi teladan bagi orang besar dan pemimpin-pemimpin agar menjauhi perbuatan-perbuatan yang terlarang, bagaimanapun kecilnya.
+[^527]: Yang dimaksud "durhaka" di sini ialah melanggar larangan Allah karena lupa, tidak sengaja, sebagaimana disebutkan dalam ayat 115 surah ini. Dan yang dimaksud dengan "sesat" ialah mengikuti apa yang dibisikkan setan. Kesalahan Adam -'alaihissalām- meskipun tidak begitu besar menurut ukuran manusia biasa sudah dinamai durhaka dan sesat karena tingginya martabat Adam -'alaihissalām- dan untuk menjadi teladan bagi orang besar dan pemimpin-pemimpin agar menjauhi perbuatan-perbuatan yang terlarang, bagaimanapun kecilnya.
 
 # 2470
 
-Kemudian Tuhannya memilih dia,528) maka Dia menerima tobatnya dan memberinya petunjuk.
+Kemudian Tuhannya memilih dia,[^528] maka Dia menerima tobatnya dan memberinya petunjuk.
 
-*528) Allah memilih Nabi Adam -'alaihissalām- untuk menjadi orang yang dekat kepada-Nya.
+[^528]: Allah memilih Nabi Adam -'alaihissalām- untuk menjadi orang yang dekat kepada-Nya.
 
 # 2471
 
@@ -10826,9 +11002,9 @@ Setiap diturunkan kepada mereka ayat-ayat yang baru dari Tuhan, mereka mendengar
 
 # 2486
 
-hati mereka dalam keadaan lalai. Dan orang-orang yang zalim itu merahasiakan pembicaraan mereka, "(Orang) ini (Muhammad) tidak lain hanyalah seorang manusia (juga) seperti kamu. Apakah kamu menerimanya (sihir itu),529) padahal kamu menyaksikannya?"
+hati mereka dalam keadaan lalai. Dan orang-orang yang zalim itu merahasiakan pembicaraan mereka, "(Orang) ini (Muhammad) tidak lain hanyalah seorang manusia (juga) seperti kamu. Apakah kamu menerimanya (sihir itu),[^529] padahal kamu menyaksikannya?"
 
-*529) Maksud sihir di sini ialah ayat-ayat Al-Qur`an.
+[^529]: Maksud sihir di sini ialah ayat-ayat Al-Qur`an.
 
 # 2487
 
@@ -10884,15 +11060,15 @@ Dan Kami tidak menciptakan langit dan bumi dan segala apa yang ada di antara ked
 
 # 2500
 
-Seandainya Kami hendak membuat suatu permainan (istri dan anak), tentulah Kami membuatnya dari sisi Kami,530) jika Kami benar-benar menghendaki berbuat demikian.
+Seandainya Kami hendak membuat suatu permainan (istri dan anak), tentulah Kami membuatnya dari sisi Kami,[^530] jika Kami benar-benar menghendaki berbuat demikian.
 
-*530) “Dari sisi Kami” ialah yang sesuai dengan sifat-sifat Allah.
+[^530]: “Dari sisi Kami” ialah yang sesuai dengan sifat-sifat Allah.
 
 # 2501
 
-Sebenarnya Kami melemparkan yang hak (kebenaran) kepada yang batil (tidak benar) lalu yang hak itu menghancurkannya, maka seketika itu (yang batil) lenyap. Dan celaka kamu karena kamu menyifati (Allah dengan sifat-sifat yang tidak pantas bagi-Nya).531)
+Sebenarnya Kami melemparkan yang hak (kebenaran) kepada yang batil (tidak benar) lalu yang hak itu menghancurkannya, maka seketika itu (yang batil) lenyap. Dan celaka kamu karena kamu menyifati (Allah dengan sifat-sifat yang tidak pantas bagi-Nya).[^531]
 
-*531) Sangkaan bahwa Allah mempunyai istri dan anak.
+[^531]: Sangkaan bahwa Allah mempunyai istri dan anak.
 
 # 2502
 
@@ -11048,9 +11224,9 @@ Dia (Ibrahim) menjawab, "Sebenarnya Tuhan kamu ialah Tuhan (pemilik) langit dan 
 
 # 2540
 
-Dan demi Allah, sungguh, aku akan melakukan tipu daya terhadap berhala-berhalamu setelah kamu pergi meninggalkannya.532)
+Dan demi Allah, sungguh, aku akan melakukan tipu daya terhadap berhala-berhalamu setelah kamu pergi meninggalkannya.[^532]
 
-*532) Ucapan-ucapan itu diucapkan Nabi Ibrahim -'alaihissalām- dalam hati saja. Maksudnya, Nabi Ibrahim -'alaihissalām- akan menjalankan tipu dayanya untuk menghancurkan berhala-berhala mereka, setelah mereka meninggalkan tempat-tempat berhala itu.
+[^532]: Ucapan-ucapan itu diucapkan Nabi Ibrahim -'alaihissalām- dalam hati saja. Maksudnya, Nabi Ibrahim -'alaihissalām- akan menjalankan tipu dayanya untuk menghancurkan berhala-berhala mereka, setelah mereka meninggalkan tempat-tempat berhala itu.
 
 # 2541
 
@@ -11106,9 +11282,9 @@ Dan mereka hendak berbuat jahat terhadap Ibrahim, maka Kami menjadikan mereka it
 
 # 2554
 
-Dan Kami selamatkan dia (Ibrahim) dan Luṭ ke suatu negeri yang telah Kami berkahi untuk seluruh alam.533)
+Dan Kami selamatkan dia (Ibrahim) dan Luṭ ke suatu negeri yang telah Kami berkahi untuk seluruh alam.[^533]
 
-*533) Negeri Syam, termasuk di dalamnya Palestina. Allah memberkahi negeri itu, artinya kebanyakan nabi berasal dari negeri ini dan tanahnya pun subur.
+[^533]: Negeri Syam, termasuk di dalamnya Palestina. Allah memberkahi negeri itu, artinya kebanyakan nabi berasal dari negeri ini dan tanahnya pun subur.
 
 # 2555
 
@@ -11120,9 +11296,9 @@ Dan Kami menjadikan mereka itu sebagai pemimpin-pemimpin yang memberi petunjuk d
 
 # 2557
 
-Dan kepada Luṭ, Kami berikan hikmah dan ilmu, dan Kami selamatkan dia dari (azab yang telah menimpa penduduk) kota yang melakukan perbuatan keji.534) Sungguh, mereka orang-orang yang jahat lagi fasik,
+Dan kepada Luṭ, Kami berikan hikmah dan ilmu, dan Kami selamatkan dia dari (azab yang telah menimpa penduduk) kota yang melakukan perbuatan keji.[^534] Sungguh, mereka orang-orang yang jahat lagi fasik,
 
-*534) Homoseksual dan menyamun, dan mereka mengerjakan perbuatan tersebut dengan terang-terangan.
+[^534]: Homoseksual dan menyamun, dan mereka mengerjakan perbuatan tersebut dengan terang-terangan.
 
 # 2558
 
@@ -11142,9 +11318,9 @@ Dan (ingatlah kisah) Dawud dan Sulaiman, ketika keduanya memberikan keputusan me
 
 # 2562
 
-Maka Kami memberikan pengertian kepada Sulaiman (tentang hukum yang lebih tepat);535) dan kepada masing-masing Kami berikan hikmah dan ilmu, dan Kami tundukkan gunung-gunung dan burung-burung, semua bertasbih bersama Dawud. Dan Kamilah yang melakukannya.
+Maka Kami memberikan pengertian kepada Sulaiman (tentang hukum yang lebih tepat);[^535] dan kepada masing-masing Kami berikan hikmah dan ilmu, dan Kami tundukkan gunung-gunung dan burung-burung, semua bertasbih bersama Dawud. Dan Kamilah yang melakukannya.
 
-*535) Menurut riwayat Ibnu Abbas, ada sekelompok kambing telah merusak tanaman pada waktu malam. Pemilik tanaman mengadukan hal ini kepada Nabi Dawud -'alaihissalām-. Ia memutuskan bahwa kambing-kambing itu harus diserahkan kepada pemilik tanaman sebagai ganti tanaman yang rusak. Tetapi Nabi Sulaiman -'alaihissalām- memutuskan agar kambing-kambing itu diserahkan sementara kepada pemilik tanaman untuk diambil manfaatnya. Dan pemilik kambing diharuskan mengganti tanaman itu dengan tanaman yang baru. Apabila tanaman yang baru telah dapat diambil hasilnya, pemilik kambing itu boleh mengambil kambingnya kembali. Keputusan Nabi Sulaiman -'alaihissalām- yang lebih tepat.
+[^535]: Menurut riwayat Ibnu Abbas, ada sekelompok kambing telah merusak tanaman pada waktu malam. Pemilik tanaman mengadukan hal ini kepada Nabi Dawud -'alaihissalām-. Ia memutuskan bahwa kambing-kambing itu harus diserahkan kepada pemilik tanaman sebagai ganti tanaman yang rusak. Tetapi Nabi Sulaiman -'alaihissalām- memutuskan agar kambing-kambing itu diserahkan sementara kepada pemilik tanaman untuk diambil manfaatnya. Dan pemilik kambing diharuskan mengganti tanaman itu dengan tanaman yang baru. Apabila tanaman yang baru telah dapat diambil hasilnya, pemilik kambing itu boleh mengambil kambingnya kembali. Keputusan Nabi Sulaiman -'alaihissalām- yang lebih tepat.
 
 # 2563
 
@@ -11176,9 +11352,9 @@ dan Kami masukkan mereka ke dalam rahmat Kami. Sungguh, mereka termasuk orang-or
 
 # 2570
 
-Dan (ingatlah kisah) Żun Nūn (Yunus), ketika dia pergi dalam keadaan marah, lalu dia menyangka bahwa Kami tidak akan menyulitkannya, maka dia berdoa dalam keadaan yang sangat gelap,536) "Tidak ada tuhan selain Engkau, Mahasuci Engkau. Sungguh, aku termasuk orang-orang yang zalim."
+Dan (ingatlah kisah) Żun Nūn (Yunus), ketika dia pergi dalam keadaan marah, lalu dia menyangka bahwa Kami tidak akan menyulitkannya, maka dia berdoa dalam keadaan yang sangat gelap,[^536] "Tidak ada tuhan selain Engkau, Mahasuci Engkau. Sungguh, aku termasuk orang-orang yang zalim."
 
-*536) Di dalam perut ikan, di dalam laut, dan pada malam hari.
+[^536]: Di dalam perut ikan, di dalam laut, dan pada malam hari.
 
 # 2571
 
@@ -11186,9 +11362,9 @@ Maka kami kabulkan (doa)nya dan Kami selamatkan dia dari kedukaan. Dan demikianl
 
 # 2572
 
-Dan (ingatlah kisah) Zakaria, ketika dia berdoa kepada Tuhannya, "Ya Tuhanku, janganlah Engkau biarkan aku hidup seorang diri (tanpa keturunan) dan Engkaulah ahli waris yang terbaik.537)
+Dan (ingatlah kisah) Zakaria, ketika dia berdoa kepada Tuhannya, "Ya Tuhanku, janganlah Engkau biarkan aku hidup seorang diri (tanpa keturunan) dan Engkaulah ahli waris yang terbaik.[^537]
 
-*537) Sekiranya Allah tidak mengabulkan doanya, yakni memberi keturunan, Zakaria menyerahkan dirinya kepada Allah, sebab Allah adalah ahli waris yang terbaik.
+[^537]: Sekiranya Allah tidak mengabulkan doanya, yakni memberi keturunan, Zakaria menyerahkan dirinya kepada Allah, sebab Allah adalah ahli waris yang terbaik.
 
 # 2573
 
@@ -11252,9 +11428,9 @@ Kejutan yang dahsyat tidak membuat mereka merasa sedih, dan para malaikat akan m
 
 # 2588
 
-Dan sungguh, telah Kami tulis di dalam Zabur538) setelah (tertulis) di dalam Aż-Żikr (Lauḥ Maḥfūẓ), bahwa bumi ini akan diwarisi oleh hamba-hamba-Ku yang saleh.
+Dan sungguh, telah Kami tulis di dalam Zabur[^538] setelah (tertulis) di dalam Aż-Żikr (Lauḥ Maḥfūẓ), bahwa bumi ini akan diwarisi oleh hamba-hamba-Ku yang saleh.
 
-*538) Semua kitab yang diturunkan Allah kepada nabi-nabi-Nya. Sebagian mufasir menyatakan bahwa "Zabur" ialah kitab yang diturunkan kepada Nabi Dauwd -'alaihissalām-, sedangkan "Aż-Żikr” ialah kitab Taurat.
+[^538]: Semua kitab yang diturunkan Allah kepada nabi-nabi-Nya. Sebagian mufasir menyatakan bahwa "Zabur" ialah kitab yang diturunkan kepada Nabi Dauwd -'alaihissalām-, sedangkan "Aż-Żikr” ialah kitab Taurat.
 
 # 2589
 
@@ -11326,9 +11502,11 @@ sambil memalingkan lambungnya (dengan congkak) untuk menyesatkan manusia dari ja
 
 # 2606
 
-Dan di antara manusia ada yang menyembah Allah hanya di tepi,539) maka jika dia memperoleh kebajikan, dia merasa puas, dan jika dia ditimpa suatu cobaan, dia berbalik ke belakang.540) Dia rugi di dunia dan di akhirat. Itulah kerugian yang nyata.
+Dan di antara manusia ada yang menyembah Allah hanya di tepi,[^539] maka jika dia memperoleh kebajikan, dia merasa puas, dan jika dia ditimpa suatu cobaan, dia berbalik ke belakang.[^540] Dia rugi di dunia dan di akhirat. Itulah kerugian yang nyata.
 
-*539) Tidak dengan penuh keyakinan. 540) Kembali kafir lagi.
+[^539]: Tidak dengan penuh keyakinan
+
+[^540]: Kembali kafir lagi.
 
 # 2607
 
@@ -11344,9 +11522,9 @@ Dia berdoa kepada sesuatu yang (sebenarnya) bencananya lebih dekat daripada manf
 
 # 2610
 
-Barangsiapa menyangka bahwa Allah tidak akan menolongnya (Muhammad) di dunia dan di akhirat, maka hendaklah dia merentangkan tali ke langit-langit,541) lalu menggantung (diri), kemudian pikirkanlah apakah tipu dayanya itu dapat melenyapkan apa yang menyakitkan hatinya.
+Barangsiapa menyangka bahwa Allah tidak akan menolongnya (Muhammad) di dunia dan di akhirat, maka hendaklah dia merentangkan tali ke langit-langit,[^541] lalu menggantung (diri), kemudian pikirkanlah apakah tipu dayanya itu dapat melenyapkan apa yang menyakitkan hatinya.
 
-*541) Kata samā` di sini diartikan dengan langit-langit (atap rumah). Kalau samā` diartikan dengan langit (arti biasa), maka terjemahannya menjadi: kalau musuh Muhammad -ṣallallāhu 'alaihi wa sallam- marah karena dia mendapat pertolongan dari langit, biarlah mereka membentangkan tali ke langit, dan lihatlah, dapatkah mereka memutuskan pertolongan itu dengan cara tersebut? Dengan kata lain, bodoh sekali mereka jika mengira mereka dapat memutuskan pertolongan Allah dengan cara yang picik itu.
+[^541]: Kata samā` di sini diartikan dengan langit-langit (atap rumah). Kalau samā` diartikan dengan langit (arti biasa), maka terjemahannya menjadi: kalau musuh Muhammad -ṣallallāhu 'alaihi wa sallam- marah karena dia mendapat pertolongan dari langit, biarlah mereka membentangkan tali ke langit, dan lihatlah, dapatkah mereka memutuskan pertolongan itu dengan cara tersebut? Dengan kata lain, bodoh sekali mereka jika mengira mereka dapat memutuskan pertolongan Allah dengan cara yang picik itu.
 
 # 2611
 
@@ -11398,21 +11576,21 @@ Dan serulah manusia untuk mengerjakan haji, niscaya mereka akan datang kepadamu 
 
 # 2623
 
-agar mereka menyaksikan berbagai manfaat untuk mereka dan agar mereka menyebut nama Allah pada beberapa hari yang telah ditentukan 542) atas rezeki yang Dia berikan kepada mereka berupa hewan ternak. Maka makanlah sebagian darinya dan (sebagian lagi) berikanlah untuk dimakan orang-orang yang sengsara dan fakir.
+agar mereka menyaksikan berbagai manfaat untuk mereka dan agar mereka menyebut nama Allah pada beberapa hari yang telah ditentukan [^542] atas rezeki yang Dia berikan kepada mereka berupa hewan ternak. Maka makanlah sebagian darinya dan (sebagian lagi) berikanlah untuk dimakan orang-orang yang sengsara dan fakir.
 
-*542) Hari raya haji dan hari Tasyriq, yaitu tanggal 10, 11, 12 dan 13 Zulhijah.
+[^542]: Hari raya haji dan hari Tasyriq, yaitu tanggal 10, 11, 12 dan 13 Zulhijah.
 
 # 2624
 
-Kemudian, hendaklah mereka menghilangkan kotoran543) (yang ada di badan) mereka, menyempurnakan nazar-nazar mereka dan melakukan tawaf sekeliling rumah tua (Baitullah).
+Kemudian, hendaklah mereka menghilangkan kotoran[^543] (yang ada di badan) mereka, menyempurnakan nazar-nazar mereka dan melakukan tawaf sekeliling rumah tua (Baitullah).
 
-*543) Yang dimaksud dengan “menghilangkan kotoran” di sini ialah memotong rambut, memotong kuku dan sebagainya.
+[^543]: Yang dimaksud dengan “menghilangkan kotoran” di sini ialah memotong rambut, memotong kuku dan sebagainya.
 
 # 2625
 
-Demikianlah (perintah Allah). Dan barangsiapa mengagungkan apa yang terhormat di sisi Allah (Ḥurumāt),544) maka itu lebih baik baginya di sisi Tuhannya. Dan dihalalkan bagi kamu semua hewan ternak, kecuali yang diterangkan kepadamu (keharamannya), maka jauhilah (penyembahan) berhala-berhala yang najis itu dan jauhilah perkataan dusta.
+Demikianlah (perintah Allah). Dan barangsiapa mengagungkan apa yang terhormat di sisi Allah (Ḥurumāt),[^544] maka itu lebih baik baginya di sisi Tuhannya. Dan dihalalkan bagi kamu semua hewan ternak, kecuali yang diterangkan kepadamu (keharamannya), maka jauhilah (penyembahan) berhala-berhala yang najis itu dan jauhilah perkataan dusta.
 
-*544) Arti yang terhormat (Ḥurumāt) pada ayat ini ialah bulan haram (Muharam, Rajab, Zulkaidah, Zulhijah), tanah haram, dan maqam Ibrahim.
+[^544]: Arti yang terhormat (Ḥurumāt) pada ayat ini ialah bulan haram (Muharam, Rajab, Zulkaidah, Zulhijah), tanah haram, dan maqam Ibrahim.
 
 # 2626
 
@@ -11420,15 +11598,17 @@ Demikianlah (perintah Allah). Dan barangsiapa mengagungkan apa yang terhormat di
 
 # 2627
 
-Demikianlah (perintah Allah). Dan barangsiapa mengagungkan syiar-syiar Allah,545) maka sesungguhnya hal itu timbul dari ketakwaan hati.
+Demikianlah (perintah Allah). Dan barangsiapa mengagungkan syiar-syiar Allah,[^545] maka sesungguhnya hal itu timbul dari ketakwaan hati.
 
-*545) Syiar Allah adalah segala amalan yang dilakukan dalam rangka ibadah haji dan tempat-tempat mengerjakannya.
+[^545]: Syiar Allah adalah segala amalan yang dilakukan dalam rangka ibadah haji dan tempat-tempat mengerjakannya.
 
 # 2628
 
-Bagi kamu padanya (hewan hadyu)546) ada beberapa manfaat,547) sampai waktu yang ditentukan, kemudian tempat penyembelihannya adalah di sekitar Baitul Atiq (Baitullah).
+Bagi kamu padanya (hewan hadyu)[^546] ada beberapa manfaat,[^547] sampai waktu yang ditentukan, kemudian tempat penyembelihannya adalah di sekitar Baitul Atiq (Baitullah).
 
-*546) Lihat Al-Baqarah (2): 196. 547) Maksudnya hewan-hewan hadyu boleh kamu ambil manfaatnya seperti dikendarai, diambil susunya, dan sebagainya, sampai hari nahar.
+[^546]: Lihat Al-Baqarah (2): 196
+
+[^547]: Maksudnya hewan-hewan hadyu boleh kamu ambil manfaatnya seperti dikendarai, diambil susunya, dan sebagainya, sampai hari nahar.
 
 # 2629
 
@@ -11440,9 +11620,9 @@ Dan bagi setiap umat telah Kami syariatkan penyembelihan (kurban), agar mereka m
 
 # 2631
 
-Dan unta-unta itu Kami jadikan untukmu bagian dari syiar agama Allah, kamu banyak memperoleh kebaikan padanya. Maka sebutlah nama Allah (ketika kamu akan menyembelihnya) dalam keadaan berdiri548) (dan kaki-kaki telah terikat). Kemudian apabila telah rebah (mati), maka makanlah sebagiannya dan berilah makan orang yang merasa cukup dengan apa yang ada padanya (tidak meminta-minta) dan orang yang meminta. Demikianlah Kami tundukkan (unta-unta itu) untukmu, agar kamu bersyukur.
+Dan unta-unta itu Kami jadikan untukmu bagian dari syiar agama Allah, kamu banyak memperoleh kebaikan padanya. Maka sebutlah nama Allah (ketika kamu akan menyembelihnya) dalam keadaan berdiri[^548] (dan kaki-kaki telah terikat). Kemudian apabila telah rebah (mati), maka makanlah sebagiannya dan berilah makan orang yang merasa cukup dengan apa yang ada padanya (tidak meminta-minta) dan orang yang meminta. Demikianlah Kami tundukkan (unta-unta itu) untukmu, agar kamu bersyukur.
 
-*548) Lazimnya, unta disembelih dalam posisi berdiri.
+[^548]: Lazimnya, unta disembelih dalam posisi berdiri.
 
 # 2632
 
@@ -11506,9 +11686,9 @@ Tetapi orang-orang yang berusaha menentang ayat-ayat Kami dengan maksud melemahk
 
 # 2647
 
-Dan Kami tidak mengutus seorang rasul dan tidak (pula) seorang nabi sebelum engkau (Muhammad), melainkan apabila dia mempunyai suatu keinginan,549) setan pun memasukkan godaan-godaan ke dalam keinginannya itu. Tetapi Allah menghilangkan apa yang dimasukkan setan itu, dan Allah akan menguatkan ayat-ayat-Nya. Dan Allah Maha Mengetahui, Mahabijaksana,
+Dan Kami tidak mengutus seorang rasul dan tidak (pula) seorang nabi sebelum engkau (Muhammad), melainkan apabila dia mempunyai suatu keinginan,[^549] setan pun memasukkan godaan-godaan ke dalam keinginannya itu. Tetapi Allah menghilangkan apa yang dimasukkan setan itu, dan Allah akan menguatkan ayat-ayat-Nya. Dan Allah Maha Mengetahui, Mahabijaksana,
 
-*549) Sebagian mufasir mengartikan tamannā dengan "membaca" dan umniyyatihi dengan "bacaannya". Yaitu apabila Nabi -ṣallallāhu 'alaihi wa sallam- membaca suatu ayat yang isinya memberikan peringatan kepada orang-orang kafir, mereka segera mengikuti bacaan Nabi -ṣallallāhu 'alaihi wa sallam- dengan tambahan kata-kata yang membenarkan keyakinan mereka.
+[^549]: Sebagian mufasir mengartikan tamannā dengan "membaca" dan umniyyatihi dengan "bacaannya". Yaitu apabila Nabi -ṣallallāhu 'alaihi wa sallam- membaca suatu ayat yang isinya memberikan peringatan kepada orang-orang kafir, mereka segera mengikuti bacaan Nabi -ṣallallāhu 'alaihi wa sallam- dengan tambahan kata-kata yang membenarkan keyakinan mereka.
 
 # 2648
 
@@ -11636,9 +11816,9 @@ dan orang yang memelihara kemaluannya,
 
 # 2679
 
-kecuali terhadap istri-istri mereka atau hamba sahaya yang mereka miliki;550)maka sesungguhnya mereka tidak tercela.
+kecuali terhadap istri-istri mereka atau hamba sahaya yang mereka miliki;[^550]maka sesungguhnya mereka tidak tercela.
 
-*550) Hamba sahaya (budak-budak) yang didapat dalam peperangan dengan orang kafir, bukan budak yang didapat di luar peperangan agama, yang sekarang sudah tidak ada lagi.
+[^550]: Hamba sahaya (budak-budak) yang didapat dalam peperangan dengan orang kafir, bukan budak yang didapat di luar peperangan agama, yang sekarang sudah tidak ada lagi.
 
 # 2680
 
@@ -11762,9 +11942,9 @@ Jauh! Jauh sekali (dari kebenaran) apa yang diancamkan kepada kamu,
 
 # 2710
 
-(kehidupan itu) tidak lain hanyalah kehidupan kita di dunia ini, (di sanalah) kita mati dan hidup551) dan tidak akan dibangkitkan (lagi),
+(kehidupan itu) tidak lain hanyalah kehidupan kita di dunia ini, (di sanalah) kita mati dan hidup[^551] dan tidak akan dibangkitkan (lagi),
 
-*551) Sebagian manusia meninggal dunia, dan sebagian lain dilahirkan.
+[^551]: Sebagian manusia meninggal dunia, dan sebagian lain dilahirkan.
 
 # 2711
 
@@ -11780,9 +11960,9 @@ Dia (Allah) berfirman, "Tidak lama lagi mereka pasti akan menyesal."
 
 # 2714
 
-Lalu mereka benar-benar dimusnahkan oleh suara yang mengguntur, dan Kami jadikan mereka (seperti) sampah yang dibawa banjir.552) Maka binasalah orang-orang yang zalim.
+Lalu mereka benar-benar dimusnahkan oleh suara yang mengguntur, dan Kami jadikan mereka (seperti) sampah yang dibawa banjir.[^552] Maka binasalah orang-orang yang zalim.
 
-*552) Demikian buruknya akibat mereka, sampai mereka tidak berdaya sedikit pun, tidak ubahnya sebagai sampah yang dihanyutkan banjir, padahal mereka bertubuh besar dan kuat.
+[^552]: Demikian buruknya akibat mereka, sampai mereka tidak berdaya sedikit pun, tidak ubahnya sebagai sampah yang dihanyutkan banjir, padahal mereka bertubuh besar dan kuat.
 
 # 2715
 
@@ -11798,9 +11978,9 @@ Kemudian, Kami utus rasul-rasul Kami berturut-turut. Setiap kali seorang rasul d
 
 # 2718
 
-Kemudian Kami utus Musa dan saudaranya Harun dengan membawa tanda-tanda (kebesaran) Kami, dan bukti yang nyata,553)
+Kemudian Kami utus Musa dan saudaranya Harun dengan membawa tanda-tanda (kebesaran) Kami, dan bukti yang nyata,[^553]
 
-*553) Mukjizat Nabi Musa -'alaihissalām- yang sembilan macam.
+[^553]: Mukjizat Nabi Musa -'alaihissalām- yang sembilan macam.
 
 # 2719
 
@@ -11920,15 +12100,15 @@ Dan sungguh orang-orang yang tidak beriman kepada akhirat benar-benar telah meny
 
 # 2748
 
-Dan sekiranya mereka Kami kasihani, dan Kami lenyapkan malapetaka yang menimpa mereka,554) pasti mereka akan terus menerus terombang-ambing dalam kesesatan mereka.
+Dan sekiranya mereka Kami kasihani, dan Kami lenyapkan malapetaka yang menimpa mereka,[^554] pasti mereka akan terus menerus terombang-ambing dalam kesesatan mereka.
 
-*554) Bahaya kelaparan. Kaum musyrikin pernah mengalami kelaparan, karena tidak datangnya bahan makanan dari Yaman ke Mekkah, sedang Mekkah dan sekitarnya dalam keadaan paceklik, hingga sangat melaratlah keadaan pada waktu itu.
+[^554]: Bahaya kelaparan. Kaum musyrikin pernah mengalami kelaparan, karena tidak datangnya bahan makanan dari Yaman ke Mekkah, sedang Mekkah dan sekitarnya dalam keadaan paceklik, hingga sangat melaratlah keadaan pada waktu itu.
 
 # 2749
 
-Dan sungguh Kami telah menimpakan siksaan kepada mereka,555) tetapi mereka tidak mau tunduk kepada Tuhannya, dan (juga) tidak merendahkan diri.
+Dan sungguh Kami telah menimpakan siksaan kepada mereka,[^555] tetapi mereka tidak mau tunduk kepada Tuhannya, dan (juga) tidak merendahkan diri.
 
-*555) Antara lain kekalahan mereka pada Perang Badar, yang dalam peperangan itu orang-orang terkemuka dari mereka banyak yang terbunuh atau ditawan, dan musim kering yang menimpa mereka, sehingga mereka menderita kelaparan.
+[^555]: Antara lain kekalahan mereka pada Perang Badar, yang dalam peperangan itu orang-orang terkemuka dari mereka banyak yang terbunuh atau ditawan, dan musim kering yang menimpa mereka, sehingga mereka menderita kelaparan.
 
 # 2750
 
@@ -11956,9 +12136,9 @@ Mereka berkata, "Apakah betul, apabila kami telah mati dan telah menjadi tanah d
 
 # 2756
 
-Sungguh, yang demikian ini sudah dijanjikan kepada kami dan kepada nenek moyang kami dahulu,556) ini hanyalah dongeng orang-orang terdahulu!"
+Sungguh, yang demikian ini sudah dijanjikan kepada kami dan kepada nenek moyang kami dahulu,[^556] ini hanyalah dongeng orang-orang terdahulu!"
 
-*556) Diancam dengan hari berbangkit.
+[^556]: Diancam dengan hari berbangkit.
 
 # 2757
 
@@ -12026,9 +12206,9 @@ dan aku berlindung (pula) kepada Engkau ya Tuhanku, agar mereka tidak mendekati 
 
 # 2773
 
-agar aku dapat berbuat kebajikan yang telah aku tinggalkan." Sekali-kali tidak! Sungguh itu adalah dalih yang diucapkannya saja. Dan dihadapan mereka ada barzakh557) sampai pada hari mereka dibangkitkan.
+agar aku dapat berbuat kebajikan yang telah aku tinggalkan." Sekali-kali tidak! Sungguh itu adalah dalih yang diucapkannya saja. Dan dihadapan mereka ada barzakh[^557] sampai pada hari mereka dibangkitkan.
 
-*557) Barzakh yaitu tempat atau keadaan orang setelah mati sampai dia dibangkitkan pada hari Kiamat.
+[^557]: Barzakh yaitu tempat atau keadaan orang setelah mati sampai dia dibangkitkan pada hari Kiamat.
 
 # 2774
 
@@ -12112,9 +12292,9 @@ Pezina perempuan dan pezina laki-laki, deralah masing-masing dari keduanya serat
 
 # 2794
 
-Pezina laki-laki tidak boleh menikah kecuali dengan pezina perempuan, atau dengan perempuan musyrik; dan pezina perempuan tidak boleh menikah kecuali dengan pezina laki-laki atau dengan laki-laki musyrik; dan yang demikian itu diharamkan bagi orang-orang mukmin.558)
+Pezina laki-laki tidak boleh menikah kecuali dengan pezina perempuan, atau dengan perempuan musyrik; dan pezina perempuan tidak boleh menikah kecuali dengan pezina laki-laki atau dengan laki-laki musyrik; dan yang demikian itu diharamkan bagi orang-orang mukmin.[^558]
 
-*558) Tidak pantas orang yang beriman menikah dengan penzina, demikian pula sebaliknya.
+[^558]: Tidak pantas orang yang beriman menikah dengan penzina, demikian pula sebaliknya.
 
 # 2795
 
@@ -12130,9 +12310,9 @@ Dan orang-orang yang menuduh istrinya (berzina), padahal mereka tidak mempunyai 
 
 # 2798
 
-Dan (sumpah) yang kelima bahwa laknat Allah akan menimpanya, jika dia termasuk orang yang berdusta.559)
+Dan (sumpah) yang kelima bahwa laknat Allah akan menimpanya, jika dia termasuk orang yang berdusta.[^559]
 
-*559) Maksud ayat 6-7 ialah orang yang menuduh berbuat zina dengan tidak mengajukan empat orang saksi, haruslah bersumpah dengan nama Allah empat kali, bahwa dia adalah benar dalam tuduhannya itu. Kemudian dia bersumpah sekali lagi bahwa dia akan kena laknat Allah jika dia berdusta. Masalah ini dalam fikih dikenal dengan lian.
+[^559]: Maksud ayat 6-7 ialah orang yang menuduh berbuat zina dengan tidak mengajukan empat orang saksi, haruslah bersumpah dengan nama Allah empat kali, bahwa dia adalah benar dalam tuduhannya itu. Kemudian dia bersumpah sekali lagi bahwa dia akan kena laknat Allah jika dia berdusta. Masalah ini dalam fikih dikenal dengan lian.
 
 # 2799
 
@@ -12148,9 +12328,9 @@ Dan sekiranya bukan karena karunia Allah dan rahmat-Nya kepadamu (niscaya kamu a
 
 # 2802
 
-Sesungguhnya orang-orang yang membawa berita bohong itu adalah dari golongan kamu (juga). Janganlah kamu mengira berita itu buruk bagi kamu, bahkan itu baik bagi kamu. Setiap orang dari mereka mendapat balasan dari dosa yang diperbuatnya. Dan barangsiapa di antara mereka yang mengambil bagian terbesar (dari dosa yang diperbuatnya), dia mendapat azab yang besar (pula).560)
+Sesungguhnya orang-orang yang membawa berita bohong itu adalah dari golongan kamu (juga). Janganlah kamu mengira berita itu buruk bagi kamu, bahkan itu baik bagi kamu. Setiap orang dari mereka mendapat balasan dari dosa yang diperbuatnya. Dan barangsiapa di antara mereka yang mengambil bagian terbesar (dari dosa yang diperbuatnya), dia mendapat azab yang besar (pula).[^560]
 
-*560) Berita bohong ini mengenai istri Rasulullah -ṣallallāhu 'alaihi wa sallam- Aisyah -raḍiyallāhu 'anhā- Ummul Mukminin, setelah perang dengan Bani Musṭaliq pada bulan Syaban 5 H. Peperangan itu diikuti kaum munafik dan turut pula Aisyah -raḍiyallāhu 'anhā- dengan Nabi -ṣallallāhu 'alaihi wa sallam- berdasarkan undian yang diadakan di antara istri-istri beliau. Dalam perjalanan kembali dari peperangan, mereka berhenti pada suatu tempat. Aisyah -raḍiyallāhu 'anhā- keluar dari sekedupnya untuk suatu keperluan, kemudian kembali. Tiba-tiba dia merasa kalungnya hilang, lalu dia pergi lagi mencarinya. Sementara itu, rombongan berangkat dengan anggapan bahwa Aisyah -raḍiyallāhu 'anhā- masih ada dalam sekedup. Setelah Aisyah -raḍiyallāhu 'anhā- mengetahui sekedupnya sudah berangkat, dia duduk di tempatnya dan mengharapkan sekedup itu akan kembali menjemputnya. Kebetulan, lewat di tempat itu seorang sahabat Nabi -ṣallallāhu 'alaihi wa sallam-, Safwan ibnu Mu'aṭṭal -raḍiyallāhu 'anhu-, ditemukannya seseorang sedang tidur sendirian dan dia terkejut seraya mengucapkan, “Innā lillāhi wa innā ilaihi rāji'ūn, istri Rasul!” Aisyah terbangun. Lalu dia dipersilahkan oleh Safwan mengendarai untanya. Safwan berjalan menuntun unta sampai mereka tiba di Madinah. Orang-orang yang melihat mereka membicarakannya menurut pendapat masing-masing. Mulailah timbul desas-desus. Kemudian kaum munafik membesar-besarkannya, maka fitnah atas Aisyah -raḍiyallāhu 'anhā- itu pun bertambah luas, sehingga menimbulkan keguncangan di kalangan kaum muslimin.
+[^560]: Berita bohong ini mengenai istri Rasulullah -ṣallallāhu 'alaihi wa sallam- Aisyah -raḍiyallāhu 'anhā- Ummul Mukminin, setelah perang dengan Bani Musṭaliq pada bulan Syaban 5 H. Peperangan itu diikuti kaum munafik dan turut pula Aisyah -raḍiyallāhu 'anhā- dengan Nabi -ṣallallāhu 'alaihi wa sallam- berdasarkan undian yang diadakan di antara istri-istri beliau. Dalam perjalanan kembali dari peperangan, mereka berhenti pada suatu tempat. Aisyah -raḍiyallāhu 'anhā- keluar dari sekedupnya untuk suatu keperluan, kemudian kembali. Tiba-tiba dia merasa kalungnya hilang, lalu dia pergi lagi mencarinya. Sementara itu, rombongan berangkat dengan anggapan bahwa Aisyah -raḍiyallāhu 'anhā- masih ada dalam sekedup. Setelah Aisyah -raḍiyallāhu 'anhā- mengetahui sekedupnya sudah berangkat, dia duduk di tempatnya dan mengharapkan sekedup itu akan kembali menjemputnya. Kebetulan, lewat di tempat itu seorang sahabat Nabi -ṣallallāhu 'alaihi wa sallam-, Safwan ibnu Mu'aṭṭal -raḍiyallāhu 'anhu-, ditemukannya seseorang sedang tidur sendirian dan dia terkejut seraya mengucapkan, “Innā lillāhi wa innā ilaihi rāji'ūn, istri Rasul!” Aisyah terbangun. Lalu dia dipersilahkan oleh Safwan mengendarai untanya. Safwan berjalan menuntun unta sampai mereka tiba di Madinah. Orang-orang yang melihat mereka membicarakannya menurut pendapat masing-masing. Mulailah timbul desas-desus. Kemudian kaum munafik membesar-besarkannya, maka fitnah atas Aisyah -raḍiyallāhu 'anhā- itu pun bertambah luas, sehingga menimbulkan keguncangan di kalangan kaum muslimin.
 
 # 2803
 
@@ -12198,9 +12378,9 @@ Dan janganlah orang-orang yang mempunyai kelebihan dan kelapangan di antara kamu
 
 # 2814
 
-Sungguh, orang-orang yang menuduh perempuan-perempuan baik, yang lengah561) dan beriman (dengan tuduhan berzina), mereka dilaknat di dunia dan di akhirat, dan mereka akan mendapat azab yang besar,
+Sungguh, orang-orang yang menuduh perempuan-perempuan baik, yang lengah[^561] dan beriman (dengan tuduhan berzina), mereka dilaknat di dunia dan di akhirat, dan mereka akan mendapat azab yang besar,
 
-*561) Yang dimaksud dengan perempuan-perempuan yang lengah ialah perempuan-perempuan yang tidak pernah sekalipun teringat akan perbuatan yang keji.
+[^561]: Yang dimaksud dengan perempuan-perempuan yang lengah ialah perempuan-perempuan yang tidak pernah sekalipun teringat akan perbuatan yang keji.
 
 # 2815
 
@@ -12212,9 +12392,9 @@ Pada hari itu Allah menyempurnakan balasan yang sebenarnya bagi mereka, dan mere
 
 # 2817
 
-Perempuan-perempuan yang keji untuk laki-laki yang keji, dan laki-laki yang keji untuk perempuan-perempuan yang keji (pula), sedangkan perempuan-perempuan yang baik untuk laki-laki yang baik, dan laki-laki yang baik untuk perempuan-perempuan yang baik (pula). Mereka itu bersih dari apa yang dituduhkan orang. Mereka memperoleh ampunan dan rezeki yang mulia (surga).562)
+Perempuan-perempuan yang keji untuk laki-laki yang keji, dan laki-laki yang keji untuk perempuan-perempuan yang keji (pula), sedangkan perempuan-perempuan yang baik untuk laki-laki yang baik, dan laki-laki yang baik untuk perempuan-perempuan yang baik (pula). Mereka itu bersih dari apa yang dituduhkan orang. Mereka memperoleh ampunan dan rezeki yang mulia (surga).[^562]
 
-*562) Ayat ini menunjukkan kesucian Aisyah dan Safwan -raḍiyallāhu 'anhumā- dari segala tuduhan yang ditujukan kepada mereka. Rasulullah adalah orang yang paling baik, maka perempuan yang baik pula yang menjadi istri beliau.
+[^562]: Ayat ini menunjukkan kesucian Aisyah dan Safwan -raḍiyallāhu 'anhumā- dari segala tuduhan yang ditujukan kepada mereka. Rasulullah adalah orang yang paling baik, maka perempuan yang baik pula yang menjadi istri beliau.
 
 # 2818
 
@@ -12250,15 +12430,17 @@ Dan sungguh, Kami telah menurunkan kepadamu ayat-ayat yang memberi penjelasan, d
 
 # 2826
 
-Allah (pemberi) cahaya (kepada) langit dan bumi. Perumpamaan cahaya-Nya, seperti sebuah lubang yang tidak tembus,563) yang di dalamnya ada pelita besar. Pelita itu di dalam tabung kaca, (dan) tabung kaca itu bagaikan bintang yang berkilauan, yang dinyalakan dengan minyak dari pohon yang diberkahi, (yaitu) pohon zaitun yang tumbuh tidak di timur dan tidak pula di barat,564) yang minyaknya (saja) hampir-hampir menerangi, walaupun tidak disentuh api. Cahaya di atas cahaya (berlapis-lapis), Allah memberi petunjuk kepada cahaya-Nya bagi orang yang Dia kehendaki, dan Allah membuat perumpamaan-perumpamaan bagi manusia. Dan Allah Maha Mengetahui segala sesuatu.
+Allah (pemberi) cahaya (kepada) langit dan bumi. Perumpamaan cahaya-Nya, seperti sebuah lubang yang tidak tembus,[^563] yang di dalamnya ada pelita besar. Pelita itu di dalam tabung kaca, (dan) tabung kaca itu bagaikan bintang yang berkilauan, yang dinyalakan dengan minyak dari pohon yang diberkahi, (yaitu) pohon zaitun yang tumbuh tidak di timur dan tidak pula di barat,[^564] yang minyaknya (saja) hampir-hampir menerangi, walaupun tidak disentuh api. Cahaya di atas cahaya (berlapis-lapis), Allah memberi petunjuk kepada cahaya-Nya bagi orang yang Dia kehendaki, dan Allah membuat perumpamaan-perumpamaan bagi manusia. Dan Allah Maha Mengetahui segala sesuatu.
 
-*563) “Lubang yang tidak tembus” (misykāt), ialah suatu lubang di dinding rumah yang tidak tembus sampai ke sebelahnya, biasanya digunakan untuk tempat lampu, atau barang-barang lain. 564) Pohon zaitun itu tumbuh di puncak bukit, ia mendapat sinar matahari baik pada waktu matahari terbit maupun ketika akan terbenam, sehingga pohonnya subur dan buahnya menghasilkan minyak yang baik.
+[^563]: “Lubang yang tidak tembus” (misykāt), ialah suatu lubang di dinding rumah yang tidak tembus sampai ke sebelahnya, biasanya digunakan untuk tempat lampu, atau barang-barang lain
+
+[^564]: Pohon zaitun itu tumbuh di puncak bukit, ia mendapat sinar matahari baik pada waktu matahari terbit maupun ketika akan terbenam, sehingga pohonnya subur dan buahnya menghasilkan minyak yang baik.
 
 # 2827
 
-(Cahaya itu) di rumah-rumah yang di sana telah diperintahkan Allah untuk memuliakan dan menyebut nama-Nya, di sana bertasbih (menyucikan)565) nama-Nya pada waktu pagi dan petang,
+(Cahaya itu) di rumah-rumah yang di sana telah diperintahkan Allah untuk memuliakan dan menyebut nama-Nya, di sana bertasbih (menyucikan)[^565] nama-Nya pada waktu pagi dan petang,
 
-*565) Yang bertasbih ialah orang yang disebut pada ayat 37.
+[^565]: Yang bertasbih ialah orang yang disebut pada ayat 37.
 
 # 2828
 
@@ -12270,9 +12452,9 @@ orang yang tidak dilalaikan oleh perdagangan dan jual beli dari mengingat Allah,
 
 # 2830
 
-Dan orang-orang yang kafir, perbuatan mereka seperti fatamorgana di tanah yang datar, yang disangka air oleh orang-orang yang dahaga, tetapi apabila didatangi tidak ada apa pun. Dan didapatinya (ketetapan) Allah baginya. Lalu Allah memberikan kepadanya perhitungan (amal-amal) dengan sempurna, dan Allah sangat cepat perhitungan-Nya,566)
+Dan orang-orang yang kafir, perbuatan mereka seperti fatamorgana di tanah yang datar, yang disangka air oleh orang-orang yang dahaga, tetapi apabila didatangi tidak ada apa pun. Dan didapatinya (ketetapan) Allah baginya. Lalu Allah memberikan kepadanya perhitungan (amal-amal) dengan sempurna, dan Allah sangat cepat perhitungan-Nya,[^566]
 
-*566) Orang-orang kafir, karena amal-amal mereka tidak didasarkan atas iman, tidaklah mendapat balasan dari Allah di akhirat, walaupun di dunia mereka mengira akan mendapat balasan atas amal mereka itu.
+[^566]: Orang-orang kafir, karena amal-amal mereka tidak didasarkan atas iman, tidaklah mendapat balasan dari Allah di akhirat, walaupun di dunia mereka mengira akan mendapat balasan atas amal mereka itu.
 
 # 2831
 
@@ -12320,9 +12502,9 @@ Apakah (ketidakhadiran mereka karena) dalam hati mereka ada penyakit, atau (kare
 
 # 2842
 
-Hanya ucapan orang-orang mukmin, yang apabila mereka diajak kepada Allah dan Rasul-Nya agar Rasul memutuskan (perkara) di antara mereka,567) mereka berkata, "Kami mendengar, dan kami taat." Dan mereka itulah orang-orang yang beruntung.
+Hanya ucapan orang-orang mukmin, yang apabila mereka diajak kepada Allah dan Rasul-Nya agar Rasul memutuskan (perkara) di antara mereka,[^567] mereka berkata, "Kami mendengar, dan kami taat." Dan mereka itulah orang-orang yang beruntung.
 
-*567) Di antara kaum muslimin, dan antara kaum muslimin dengan yang non muslimin.
+[^567]: Di antara kaum muslimin, dan antara kaum muslimin dengan yang non muslimin.
 
 # 2843
 
@@ -12350,27 +12532,27 @@ Janganlah engkau mengira bahwa orang-orang yang kafir itu dapat luput dari siksa
 
 # 2849
 
-Wahai orang-orang yang beriman! Hendaklah hamba sahaya (laki-laki dan perempuan) yang kamu miliki, dan orang-orang yang belum balig (dewasa) di antara kamu, meminta izin kepada kamu pada tiga kali (kesempatan), yaitu sebelum salat Subuh, ketika kamu menanggalkan pakaian (luar)mu di tengah hari dan setelah salat Isya. (Itulah) tiga aurat (waktu) bagi kamu.568) Tidak ada dosa bagimu dan tidak (pula) bagi mereka selain dari (tiga waktu) itu, mereka keluar masuk melayani kamu, sebagian kamu atas sebagian yang lain. Demikianlah Allah menjelaskan ayat-ayat itu kepadamu. Dan Allah Maha Mengetahui, Mahabijaksana.
+Wahai orang-orang yang beriman! Hendaklah hamba sahaya (laki-laki dan perempuan) yang kamu miliki, dan orang-orang yang belum balig (dewasa) di antara kamu, meminta izin kepada kamu pada tiga kali (kesempatan), yaitu sebelum salat Subuh, ketika kamu menanggalkan pakaian (luar)mu di tengah hari dan setelah salat Isya. (Itulah) tiga aurat (waktu) bagi kamu.[^568] Tidak ada dosa bagimu dan tidak (pula) bagi mereka selain dari (tiga waktu) itu, mereka keluar masuk melayani kamu, sebagian kamu atas sebagian yang lain. Demikianlah Allah menjelaskan ayat-ayat itu kepadamu. Dan Allah Maha Mengetahui, Mahabijaksana.
 
-*568) Tiga waktu yang biasanya pada waktu-waktu itu badan banyak terbuka. Oleh sebab itu, Allah melarang hamba sahaya dan anak-anak di bawah umur untuk masuk ke kamar tidur orang dewasa tanpa izin.
+[^568]: Tiga waktu yang biasanya pada waktu-waktu itu badan banyak terbuka. Oleh sebab itu, Allah melarang hamba sahaya dan anak-anak di bawah umur untuk masuk ke kamar tidur orang dewasa tanpa izin.
 
 # 2850
 
-Dan apabila anak-anakmu telah sampai umur dewasa, maka hendaklah mereka (juga) meminta izin, seperti orang-orang yang lebih dewasa meminta izin.569) Demikianlah Allah menjelaskan ayat-ayat-Nya kepadamu. Allah Maha Mengetahui, Mahabijaksana.
+Dan apabila anak-anakmu telah sampai umur dewasa, maka hendaklah mereka (juga) meminta izin, seperti orang-orang yang lebih dewasa meminta izin.[^569] Demikianlah Allah menjelaskan ayat-ayat-Nya kepadamu. Allah Maha Mengetahui, Mahabijaksana.
 
-*569) Anak-anak dari orang merdeka yang bukan mahram yang telah balig, haruslah meminta izin terlebih dahulu jika hendak masuk ke kamar tidur orang tua, seperti cara orang-orang yang disebut dalam ayat 27 dan 28 surah ini.
+[^569]: Anak-anak dari orang merdeka yang bukan mahram yang telah balig, haruslah meminta izin terlebih dahulu jika hendak masuk ke kamar tidur orang tua, seperti cara orang-orang yang disebut dalam ayat 27 dan 28 surah ini.
 
 # 2851
 
-Dan para perempuan tua yang telah berhenti (dari haid dan mengandung) yang tidak ingin menikah (lagi), maka tidak ada dosa menanggalkan pakaian (luar)570) mereka dengan tidak (bermaksud) menampakkan perhiasan; tetapi memelihara kehormatan adalah lebih baik bagi mereka. Allah Maha Mendengar, Maha Mengetahui.
+Dan para perempuan tua yang telah berhenti (dari haid dan mengandung) yang tidak ingin menikah (lagi), maka tidak ada dosa menanggalkan pakaian (luar)[^570] mereka dengan tidak (bermaksud) menampakkan perhiasan; tetapi memelihara kehormatan adalah lebih baik bagi mereka. Allah Maha Mendengar, Maha Mengetahui.
 
-*570) Pakaian luar yang kalau dibuka tidak menampakkan aurat.
+[^570]: Pakaian luar yang kalau dibuka tidak menampakkan aurat.
 
 # 2852
 
-Tidak ada halangan bagi orang buta, tidak (pula) bagi orang pincang, tidak (pula) bagi orang sakit, dan tidak (pula) bagi dirimu, makan (bersama-sama mereka) di rumahmu atau di rumah bapak-bapakmu, di rumah ibu-ibumu, di rumah saudara-saudaramu yang laki-laki, di rumah saudara-saudaramu yang perempuan, di rumah saudara-saudara bapakmu yang laki-laki, di rumah saudara-saudara bapakmu yang perempuan, di rumah saudara-saudara ibumu yang laki-laki, di rumah saudara-saudara ibumu yang perempuan, (di rumah) yang kamu miliki kuncinya571) atau (di rumah) kawan-kawanmu. Tidak ada halangan bagi kamu makan bersama-sama mereka atau sendiri-sendiri. Apabila kamu memasuki rumah-rumah hendaklah kamu memberi salam (kepada penghuninya, yang berarti memberi salam) kepada dirimu sendiri, dengan salam yang penuh berkah dan baik dari sisi Allah. Demikianlah Allah menjelaskan ayat-ayat(-Nya) bagimu, agar kamu mengerti.
+Tidak ada halangan bagi orang buta, tidak (pula) bagi orang pincang, tidak (pula) bagi orang sakit, dan tidak (pula) bagi dirimu, makan (bersama-sama mereka) di rumahmu atau di rumah bapak-bapakmu, di rumah ibu-ibumu, di rumah saudara-saudaramu yang laki-laki, di rumah saudara-saudaramu yang perempuan, di rumah saudara-saudara bapakmu yang laki-laki, di rumah saudara-saudara bapakmu yang perempuan, di rumah saudara-saudara ibumu yang laki-laki, di rumah saudara-saudara ibumu yang perempuan, (di rumah) yang kamu miliki kuncinya[^571] atau (di rumah) kawan-kawanmu. Tidak ada halangan bagi kamu makan bersama-sama mereka atau sendiri-sendiri. Apabila kamu memasuki rumah-rumah hendaklah kamu memberi salam (kepada penghuninya, yang berarti memberi salam) kepada dirimu sendiri, dengan salam yang penuh berkah dan baik dari sisi Allah. Demikianlah Allah menjelaskan ayat-ayat(-Nya) bagimu, agar kamu mengerti.
 
-*571) Rumah yang diserahkan kepada kamu untuk mengurusnya.
+[^571]: Rumah yang diserahkan kepada kamu untuk mengurusnya.
 
 # 2853
 
@@ -12434,9 +12616,9 @@ Apabila ia (neraka) melihat mereka dari tempat yang jauh, mereka mendengar suara
 
 # 2868
 
-Dan apabila mereka dilemparkan ke tempat yang sempit di neraka dengan dibelenggu, mereka di sana berteriak mengharapkan kebinasaan.572)
+Dan apabila mereka dilemparkan ke tempat yang sempit di neraka dengan dibelenggu, mereka di sana berteriak mengharapkan kebinasaan.[^572]
 
-*572) Mereka mengharapkan kebinasaan, agar terlepas dari siksa yang sangat besar, yaitu azab di neraka yang sangat panas dengan dibelenggu, di tempat yang sangat sempit pula, sebagaimana yang dilukiskan.
+[^572]: Mereka mengharapkan kebinasaan, agar terlepas dari siksa yang sangat besar, yaitu azab di neraka yang sangat panas dengan dibelenggu, di tempat yang sangat sempit pula, sebagaimana yang dilukiskan.
 
 # 2869
 
@@ -12456,9 +12638,9 @@ Dan (ingatlah) pada hari (ketika) Allah mengumpulkan mereka bersama apa yang mer
 
 # 2873
 
-Mereka (yang disembah itu) menjawab, "Mahasuci Engkau, tidaklah pantas bagi kami mengambil pelindung selain Engkau,573) tetapi Engkau telah memberi mereka dan nenek moyang mereka kenikmatan hidup, sehingga mereka melupakan peringatan; dan mereka kaum yang binasa."
+Mereka (yang disembah itu) menjawab, "Mahasuci Engkau, tidaklah pantas bagi kami mengambil pelindung selain Engkau,[^573] tetapi Engkau telah memberi mereka dan nenek moyang mereka kenikmatan hidup, sehingga mereka melupakan peringatan; dan mereka kaum yang binasa."
 
-*573) Setelah mereka dikumpulkan bersama-sama dengan apa yang mereka sembah, yaitu malaikat, Uzair, Nabi Isa -'alaihissalām- dan berhala-berhala, dan setelah Allah menanyakan kepada yang disembah itu, apakah mereka yang menyesatkan orang-orang itu ataukah orang-orang itu yang sesat sendiri, maka yang di sembah itu menjawab bahwa tidaklah pantas bagi mereka untuk menyembah selain Allah, apalagi menyuruh orang lain menyembah selain Allah.
+[^573]: Setelah mereka dikumpulkan bersama-sama dengan apa yang mereka sembah, yaitu malaikat, Uzair, Nabi Isa -'alaihissalām- dan berhala-berhala, dan setelah Allah menanyakan kepada yang disembah itu, apakah mereka yang menyesatkan orang-orang itu ataukah orang-orang itu yang sesat sendiri, maka yang di sembah itu menjawab bahwa tidaklah pantas bagi mereka untuk menyembah selain Allah, apalagi menyuruh orang lain menyembah selain Allah.
 
 # 2874
 
@@ -12474,15 +12656,15 @@ Dan orang-orang yang tidak mengharapkan pertemuan dengan Kami (di akhirat) berka
 
 # 2877
 
-(Ingatlah) pada hari (ketika) mereka melihat para malaikat, pada hari itu tidak ada kabar gembira bagi orang-orang yang berdosa dan mereka berkata, "ḥijran maḥjūrā."574)
+(Ingatlah) pada hari (ketika) mereka melihat para malaikat, pada hari itu tidak ada kabar gembira bagi orang-orang yang berdosa dan mereka berkata, "ḥijran maḥjūrā."[^574]
 
-*574) Ini suatu ungkapan yang biasa diucapkan oleh orang Arab ketika menemui musuh yang tidak dapat dielakkan lagi, atau di timpa suatu bencana yang tidak dapat dihindari. Ungkapan ini berarti, “semoga Allah menghindarkan bahaya ini dari saya.”
+[^574]: Ini suatu ungkapan yang biasa diucapkan oleh orang Arab ketika menemui musuh yang tidak dapat dielakkan lagi, atau di timpa suatu bencana yang tidak dapat dihindari. Ungkapan ini berarti, “semoga Allah menghindarkan bahaya ini dari saya.”
 
 # 2878
 
-Dan Kami akan perlihatkan segala amal575) yang mereka kerjakan, lalu Kami akan jadikan amal itu (bagaikan) debu yang beterbangan.
+Dan Kami akan perlihatkan segala amal[^575] yang mereka kerjakan, lalu Kami akan jadikan amal itu (bagaikan) debu yang beterbangan.
 
-*575) Amal-amal baik yang mereka kerjakan di dunia. Amal-amal itu tidak dibalas oleh Allah karena mereka tidak beriman.
+[^575]: Amal-amal baik yang mereka kerjakan di dunia. Amal-amal itu tidak dibalas oleh Allah karena mereka tidak beriman.
 
 # 2879
 
@@ -12494,9 +12676,9 @@ Dan (ingatlah) pada hari (ketika) langit pecah mengeluarkan kabut putih dan para
 
 # 2881
 
-Kerajaan yang hak576) pada hari itu adalah milik Tuhan Yang Maha Pengasih. Dan itulah hari yang sulit bagi orang-orang kafir.
+Kerajaan yang hak[^576] pada hari itu adalah milik Tuhan Yang Maha Pengasih. Dan itulah hari yang sulit bagi orang-orang kafir.
 
-*576) “Kerajaan yang hak” ialah kekuasaan yang mutlak.
+[^576]: “Kerajaan yang hak” ialah kekuasaan yang mutlak.
 
 # 2882
 
@@ -12504,9 +12686,9 @@ Dan (ingatlah) pada hari (ketika) orang-orang zalim menggigit kedua tangannya, (
 
 # 2883
 
-Wahai celaka aku! Sekiranya (dulu) aku tidak menjadikan si fulan 577) itu teman akrab(ku),
+Wahai celaka aku! Sekiranya (dulu) aku tidak menjadikan si fulan [^577] itu teman akrab(ku),
 
-*577) Setan atau orang yang telah menyesatkannya di dunia.
+[^577]: Setan atau orang yang telah menyesatkannya di dunia.
 
 # 2884
 
@@ -12522,9 +12704,9 @@ Begitulah, bagi setiap nabi, telah Kami adakan musuh dari orang-orang yang berdo
 
 # 2887
 
-Dan orang-orang kafir berkata, "Mengapa Al-Qur`an itu tidak diturunkan kepadanya sekaligus?" Demikianlah,578) agar Kami memperteguh hatimu (Muhammad) dengannya dan Kami membacakannya secara tartil3 (berangsur-angsur, perlahan dan benar).
+Dan orang-orang kafir berkata, "Mengapa Al-Qur`an itu tidak diturunkan kepadanya sekaligus?" Demikianlah,[^578] agar Kami memperteguh hatimu (Muhammad) dengannya dan Kami membacakannya secara tartil3 (berangsur-angsur, perlahan dan benar).
 
-*578) Al-Qur`an itu tidak di turunkan sekaligus, tetapi diturunkan secara berangsur-angsur agar hati Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- menjadi kuat dan tetap.
+[^578]: Al-Qur`an itu tidak di turunkan sekaligus, tetapi diturunkan secara berangsur-angsur agar hati Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- menjadi kuat dan tetap.
 
 # 2888
 
@@ -12548,9 +12730,9 @@ Dan (telah Kami binasakan) kaum Nuh ketika mereka mendustakan para rasul. Kami t
 
 # 2893
 
-dan (telah Kami binasakan) kaum 'Ād dan Samud dan penduduk Rass579) serta banyak (lagi) generasi di antara (kaum-kaum) itu.
+dan (telah Kami binasakan) kaum 'Ād dan Samud dan penduduk Rass[^579] serta banyak (lagi) generasi di antara (kaum-kaum) itu.
 
-*579) Rass adalah telaga yang sudah kering airnya. Kemudian dijadikan nama suatu kaum, yaitu kaum Rass. Mereka menyembah patung, lalu Allah mengutus Nabi Syuaib -'alaihissalām- kepada mereka.
+[^579]: Rass adalah telaga yang sudah kering airnya. Kemudian dijadikan nama suatu kaum, yaitu kaum Rass. Mereka menyembah patung, lalu Allah mengutus Nabi Syuaib -'alaihissalām- kepada mereka.
 
 # 2894
 
@@ -12582,9 +12764,9 @@ Tidakkah engkau memperhatikan (penciptaan) Tuhanmu, bagaimana Dia memanjangkan (
 
 # 2901
 
-kemudian Kami menariknya (bayang-bayang itu) kepada Kami580) sedikit demi sedikit.
+kemudian Kami menariknya (bayang-bayang itu) kepada Kami[^580] sedikit demi sedikit.
 
-*580) Bayang-bayang itu Kami hapuskan dengan perlahan-lahan sesuai dengan terbenamnya matahari sedikit demi sedikit.
+[^580]: Bayang-bayang itu Kami hapuskan dengan perlahan-lahan sesuai dengan terbenamnya matahari sedikit demi sedikit.
 
 # 2902
 
@@ -12616,9 +12798,9 @@ Dan Dialah yang membiarkan dua laut mengalir (berdampingan); yang ini tawar dan 
 
 # 2909
 
-Dan Dia (pula) yang menciptakan manusia dari air, lalu Dia jadikan manusia itu (mempunyai) keturunan dan muṣāharah581) dan Tuhanmu adalah Mahakuasa.
+Dan Dia (pula) yang menciptakan manusia dari air, lalu Dia jadikan manusia itu (mempunyai) keturunan dan muṣāharah[^581] dan Tuhanmu adalah Mahakuasa.
 
-*581) Muṣāharah artinya hubungan kekeluargaan yang berasal dari hubungan pernikahan, seperti menantu, ipar, mertua, dan sebagainya.
+[^581]: Muṣāharah artinya hubungan kekeluargaan yang berasal dari hubungan pernikahan, seperti menantu, ipar, mertua, dan sebagainya.
 
 # 2910
 
@@ -12762,15 +12944,15 @@ Dia (Musa) berkata, "Ya Tuhanku, sungguh, aku takut mereka akan mendustakan aku,
 
 # 2945
 
-sehingga dadaku terasa sempit dan lidahku tidak lancar maka utuslah Harun582) (bersamaku).
+sehingga dadaku terasa sempit dan lidahku tidak lancar maka utuslah Harun[^582] (bersamaku).
 
-*582) Agar Harun diangkat menjadi rasul untuk membantunya.
+[^582]: Agar Harun diangkat menjadi rasul untuk membantunya.
 
 # 2946
 
-Sebab aku berdosa terhadap mereka,583) maka aku takut mereka akan membunuhku."
+Sebab aku berdosa terhadap mereka,[^583] maka aku takut mereka akan membunuhku."
 
-*583) Musa -'alaihissalām- mengatakan bahwa dia berdosa terhadap orang-orang Mesir adalah anggapan orang-orang Mesir. Karena sebenarnya Musa tidak berdosa, sebab dia membunuh orang Mesir itu tidak dengan sengaja. Selanjutnya lihat Al-Qaṣaṣ (28) : 15.
+[^583]: Musa -'alaihissalām- mengatakan bahwa dia berdosa terhadap orang-orang Mesir adalah anggapan orang-orang Mesir. Karena sebenarnya Musa tidak berdosa, sebab dia membunuh orang Mesir itu tidak dengan sengaja. Selanjutnya lihat Al-Qaṣaṣ (28) : 15.
 
 # 2947
 
@@ -12786,15 +12968,15 @@ lepaskanlah Bani Israil (pergi) bersama kami."
 
 # 2950
 
-Dia (Fir'aun) menjawab, "Bukankah kami telah mengasuhmu dalam lingkungan (keluarga) kami, waktu engkau masih kanak-kanak dan engkau tinggal bersama kami beberapa tahun dari umurmu.584)
+Dia (Fir'aun) menjawab, "Bukankah kami telah mengasuhmu dalam lingkungan (keluarga) kami, waktu engkau masih kanak-kanak dan engkau tinggal bersama kami beberapa tahun dari umurmu.[^584]
 
-*584) Musa tinggal bersama Fir'aun sejak kecil, lebih kurang 18 tahun.
+[^584]: Musa tinggal bersama Fir'aun sejak kecil, lebih kurang 18 tahun.
 
 # 2951
 
-Dan engkau (Musa) telah melakukan (kesalahan dari) perbuatan yang telah engkau lakukan585) dan engkau termasuk orang yang tidak tahu berterima kasih."
+Dan engkau (Musa) telah melakukan (kesalahan dari) perbuatan yang telah engkau lakukan[^585] dan engkau termasuk orang yang tidak tahu berterima kasih."
 
-*585) Perbuatan Nabi Musa -'alaihissalām- membunuh orang Qibṭi. Lihat Al-Qaṣaṣ (28): 15.
+[^585]: Perbuatan Nabi Musa -'alaihissalām- membunuh orang Qibṭi. Lihat Al-Qaṣaṣ (28): 15.
 
 # 2952
 
@@ -12898,9 +13080,9 @@ Lalu mereka melemparkan tali-temali dan tongkat-tongkat mereka seraya berkata, "
 
 # 2977
 
-Kemudian Musa melemparkan tongkatnya, maka tiba-tiba ia menelan benda-benda palsu yang mereka ada-adakan itu.586)
+Kemudian Musa melemparkan tongkatnya, maka tiba-tiba ia menelan benda-benda palsu yang mereka ada-adakan itu.[^586]
 
-*586) Tali-temali dan tongkat-tongkat yang dilemparkan para penyihir itu yang terbayang seolah-olah menjadi ular, semuanya ditelan oleh tongkat Nabi Musa -'alaihissalām- yang benar-benar menjadi ular.
+[^586]: Tali-temali dan tongkat-tongkat yang dilemparkan para penyihir itu yang terbayang seolah-olah menjadi ular, semuanya ditelan oleh tongkat Nabi Musa -'alaihissalām- yang benar-benar menjadi ular.
 
 # 2978
 
@@ -12952,15 +13134,15 @@ Kemudian, Kami keluarkan mereka (Fir'aun dan kaumnya) dari taman-taman dan mata 
 
 # 2990
 
-dan (dari) harta kekayaan dan kedudukan yang mulia,587)
+dan (dari) harta kekayaan dan kedudukan yang mulia,[^587]
 
-*587) Dengan pengejaran Fir'aun dan kaumnya untuk menyusul Nabi Musa -'alaihissalām- dan Bani Israil, maka mereka telah keluar dari negeri mereka, meninggalkan kerajaan, kebesaran, kemewahan dan sebagainya.
+[^587]: Dengan pengejaran Fir'aun dan kaumnya untuk menyusul Nabi Musa -'alaihissalām- dan Bani Israil, maka mereka telah keluar dari negeri mereka, meninggalkan kerajaan, kebesaran, kemewahan dan sebagainya.
 
 # 2991
 
-Demikianlah, dan Kami anugerahkan semuanya (itu) kepada Bani Israil.588)
+Demikianlah, dan Kami anugerahkan semuanya (itu) kepada Bani Israil.[^588]
 
-*588) Allah akan memberikan kepada Bani Israil kerajaan yang kuat, kerasulan dan sebagainya.
+[^588]: Allah akan memberikan kepada Bani Israil kerajaan yang kuat, kerasulan dan sebagainya.
 
 # 2992
 
@@ -12980,9 +13162,9 @@ Lalu Kami wahyukan kepada Musa, "Pukullah laut itu dengan tongkatmu." Maka terbe
 
 # 2996
 
-Dan di sanalah Kami dekatkan golongan yang lain.589)
+Dan di sanalah Kami dekatkan golongan yang lain.[^589]
 
-*589) Yang dimaksud “golongan yang lain” ialah Fir'aun dan kaumnya. Maksud ayat ini ialah di bagian laut yang terbelah itu Allah mendekatkan antara Fir'aun dan kaumnya dengan Nabi Musa -'alaihissalām- dan Bani Israil.
+[^589]: Yang dimaksud “golongan yang lain” ialah Fir'aun dan kaumnya. Maksud ayat ini ialah di bagian laut yang terbelah itu Allah mendekatkan antara Fir'aun dan kaumnya dengan Nabi Musa -'alaihissalām- dan Bani Israil.
 
 # 2997
 
@@ -13430,9 +13612,9 @@ Dan sungguh, Tuhanmu, Dialah Yang Mahaperkasa, Maha Penyayang.
 
 # 3108
 
-Penduduk Aikah590) telah mendustakan para rasul;
+Penduduk Aikah[^590] telah mendustakan para rasul;
 
-*590) Mereka adalah penduduk Madyan, yaitu kaum Nabi Syu'aib -'alaihissalām-.
+[^590]: Mereka adalah penduduk Madyan, yaitu kaum Nabi Syu'aib -'alaihissalām-.
 
 # 3109
 
@@ -13628,9 +13810,9 @@ Dan penyair-penyair itu diikuti oleh orang-orang yang sesat.
 
 # 3157
 
-Tidakkah engkau melihat bahwa mereka mengembara di setiap lembah,591)
+Tidakkah engkau melihat bahwa mereka mengembara di setiap lembah,[^591]
 
-*591) Yang dimaksud dengan ayat ini ialah bahwa sebagian penyair itu suka mempermainkan kata-kata, tidak mempunyai tujuan yang baik, dan tidak mempunyai pendirian.
+[^591]: Yang dimaksud dengan ayat ini ialah bahwa sebagian penyair itu suka mempermainkan kata-kata, tidak mempunyai tujuan yang baik, dan tidak mempunyai pendirian.
 
 # 3158
 
@@ -13686,9 +13868,9 @@ kecuali orang yang berlaku zalim yang kemudian mengubah (dirinya) dengan kebaika
 
 # 3171
 
-Dan masukkanlah tanganmu ke leher bajumu,592) niscaya ia akan ke luar menjadi putih (bersinar) tanpa cacat. (Kedua mukjizat ini) termasuk sembilan macam mukjizat (yang akan dikemukakan) kepada Fir'aun dan kaumnya. Mereka benar-benar orang-orang yang fasik."
+Dan masukkanlah tanganmu ke leher bajumu,[^592] niscaya ia akan ke luar menjadi putih (bersinar) tanpa cacat. (Kedua mukjizat ini) termasuk sembilan macam mukjizat (yang akan dikemukakan) kepada Fir'aun dan kaumnya. Mereka benar-benar orang-orang yang fasik."
 
-*592) Meletakkan tangan ke dada melalui leher baju.
+[^592]: Meletakkan tangan ke dada melalui leher baju.
 
 # 3172
 
@@ -13704,9 +13886,9 @@ Dan sungguh, Kami telah memberikan ilmu kepada Dawud dan Sulaiman, dan keduanya 
 
 # 3175
 
-Dan Sulaiman telah mewarisi Dawud,593) dan dia (Sulaiman) berkata, "Wahai manusia! Kami telah diajari bahasa burung dan kami diberi segala sesuatu. Sungguh, (semua) ini benar-benar karunia yang nyata."
+Dan Sulaiman telah mewarisi Dawud,[^593] dan dia (Sulaiman) berkata, "Wahai manusia! Kami telah diajari bahasa burung dan kami diberi segala sesuatu. Sungguh, (semua) ini benar-benar karunia yang nyata."
 
-*593) Nabi Sulaiman -'alaihissalām- menggantikan kenabian dan kerajaan Nabi Dawud -'alaihissalām- serta mewarisi ilmu pengetahuan dan kitab Zabur yang diturunkan kepadanya.
+[^593]: Nabi Sulaiman -'alaihissalām- menggantikan kenabian dan kerajaan Nabi Dawud -'alaihissalām- serta mewarisi ilmu pengetahuan dan kitab Zabur yang diturunkan kepadanya.
 
 # 3176
 
@@ -13722,9 +13904,9 @@ Maka dia (Sulaiman) tersenyum lalu tertawa karena (mendengar) perkataan semut it
 
 # 3179
 
-Dan dia memeriksa burung-burung lalu berkata, "Mengapa aku tidak melihat Hudhud,594) apakah ia termasuk yang absen (tidak hadir)?
+Dan dia memeriksa burung-burung lalu berkata, "Mengapa aku tidak melihat Hudhud,[^594] apakah ia termasuk yang absen (tidak hadir)?
 
-*594) Hudhud ialah sejenis burung pelatuk.
+[^594]: Hudhud ialah sejenis burung pelatuk.
 
 # 3180
 
@@ -13732,15 +13914,15 @@ Aku pasti akan menghukumnya dengan hukuman yang berat atau aku akan menyembelihn
 
 # 3181
 
-Maka tidak lama kemudian (datanglah Hudhud), lalu ia berkata, "Aku telah mengetahui sesuatu yang belum engkau ketahui. Aku datang kepadamu dari negeri Saba`595) membawa suatu berita yang meyakinkan.
+Maka tidak lama kemudian (datanglah Hudhud), lalu ia berkata, "Aku telah mengetahui sesuatu yang belum engkau ketahui. Aku datang kepadamu dari negeri Saba`[^595] membawa suatu berita yang meyakinkan.
 
-*595) Saba` ialah nama kerajaan pada zaman dahulu, ibukotanya Ma`rib, terletak di dekat kota San'a, ibukota Yaman sekarang.
+[^595]: Saba` ialah nama kerajaan pada zaman dahulu, ibukotanya Ma`rib, terletak di dekat kota San'a, ibukota Yaman sekarang.
 
 # 3182
 
-Sungguh, aku mendapati ada seorang perempuan596) yang memerintah mereka, dan dia dianugerahi segala sesuatu serta memiliki singgasana yang besar.
+Sungguh, aku mendapati ada seorang perempuan[^596] yang memerintah mereka, dan dia dianugerahi segala sesuatu serta memiliki singgasana yang besar.
 
-*596) Ratu Balqis yang memerintah kerajaan Saba`iyah pada zaman Nabi Sulaiman -'alaihissalām-.
+[^596]: Ratu Balqis yang memerintah kerajaan Saba`iyah pada zaman Nabi Sulaiman -'alaihissalām-.
 
 # 3183
 
@@ -13748,9 +13930,9 @@ Aku (burung Hudhud) mendapatinya dan kaumnya menyembah matahari, bukan kepada Al
 
 # 3184
 
-Mereka (juga) tidak menyembah Allah yang mengeluarkan apa yang terpendam di langit dan di bumi597) dan yang mengetahui apa yang kamu sembunyikan dan yang kamu tampakkan.
+Mereka (juga) tidak menyembah Allah yang mengeluarkan apa yang terpendam di langit dan di bumi[^597] dan yang mengetahui apa yang kamu sembunyikan dan yang kamu tampakkan.
 
-*597) Seperti menurunkan hujan dari langit, menumbuhkan tanam-tanaman, mengeluarkan logam dari bumi dan sebagainya.
+[^597]: Seperti menurunkan hujan dari langit, menumbuhkan tanam-tanaman, mengeluarkan logam dari bumi dan sebagainya.
 
 # 3185
 
@@ -13810,9 +13992,9 @@ Ifrit dalam golongan jin berkata, "Akulah yang akan membawanya kepadamu sebelum 
 
 # 3199
 
-Seorang yang mempunyai ilmu dari Kitab598) berkata, "Aku akan membawa singgasana itu kepadamu sebelum matamu berkedip." Maka ketika dia (Sulaiman) melihat singgasana itu terletak di hadapannya, dia pun berkata, "Ini termasuk karunia Tuhanku untuk mengujiku, apakah aku bersyukur atau mengingkari (nikmat-Nya). Barang siapa bersyukur, maka sesungguhnya dia bersyukur untuk (kebaikan) dirinya sendiri, dan barang siapa ingkar, maka sesungguhnya Tuhanku Mahakaya, Mahamulia."
+Seorang yang mempunyai ilmu dari Kitab[^598] berkata, "Aku akan membawa singgasana itu kepadamu sebelum matamu berkedip." Maka ketika dia (Sulaiman) melihat singgasana itu terletak di hadapannya, dia pun berkata, "Ini termasuk karunia Tuhanku untuk mengujiku, apakah aku bersyukur atau mengingkari (nikmat-Nya). Barang siapa bersyukur, maka sesungguhnya dia bersyukur untuk (kebaikan) dirinya sendiri, dan barang siapa ingkar, maka sesungguhnya Tuhanku Mahakaya, Mahamulia."
 
-*598) Kitab di sini maksudnya ialah kitab yang diturunkan sebelum Nabi Sulaiman -'alaihissalām- yaitu Taurat dan Zabur.
+[^598]: Kitab di sini maksudnya ialah kitab yang diturunkan sebelum Nabi Sulaiman -'alaihissalām- yaitu Taurat dan Zabur.
 
 # 3200
 
@@ -13820,9 +14002,9 @@ Dia (Sulaiman) berkata, "Ubahlah untuknya singgasananya; kita akan melihat apaka
 
 # 3201
 
-Maka ketika dia (Balqis) datang, ditanyakanlah (kepadanya), "Serupa inikah singgasanamu?" Dia (Balqis) menjawab, "Seakan-akan itulah dia." (Dan dia Balqis berkata), "Kami telah diberi pengetahuan sebelumnya599) dan kami adalah orang-orang yang berserah diri (kepada Allah)."
+Maka ketika dia (Balqis) datang, ditanyakanlah (kepadanya), "Serupa inikah singgasanamu?" Dia (Balqis) menjawab, "Seakan-akan itulah dia." (Dan dia Balqis berkata), "Kami telah diberi pengetahuan sebelumnya[^599] dan kami adalah orang-orang yang berserah diri (kepada Allah)."
 
-*599) Balqis telah mengetahui kenabian Sulaiman -'alaihissalām- sebelum singgasananya dipindahkan dari negeri Saba` ke Palestina dengan sekejap mata.
+[^599]: Balqis telah mengetahui kenabian Sulaiman -'alaihissalām- sebelum singgasananya dipindahkan dari negeri Saba` ke Palestina dengan sekejap mata.
 
 # 3202
 
@@ -13846,9 +14028,9 @@ Mereka menjawab, "Kami mendapat nasib yang malang disebabkan oleh kamu dan orang
 
 # 3207
 
-Dan di kota itu600) ada sembilan orang laki-laki yang berbuat kerusakan di bumi, mereka tidak melakukan perbaikan.
+Dan di kota itu[^600] ada sembilan orang laki-laki yang berbuat kerusakan di bumi, mereka tidak melakukan perbaikan.
 
-*600) Menurut mufasir, yang dimaksud dengan kota ini ialah kota kaum Samud, yaitu kota Al-Ḥijr.
+[^600]: Menurut mufasir, yang dimaksud dengan kota ini ialah kota kaum Samud, yaitu kota Al-Ḥijr.
 
 # 3208
 
@@ -13868,15 +14050,15 @@ Maka itulah rumah-rumah mereka yang runtuh karena kezaliman mereka. Sungguh, pad
 
 # 3212
 
-Dan Kami selamatkan orang-orang yang beriman601) dan mereka selalu bertakwa.
+Dan Kami selamatkan orang-orang yang beriman[^601] dan mereka selalu bertakwa.
 
-*601) Nabi Saleh -'alaihissalām- dan para pengikutnya.
+[^601]: Nabi Saleh -'alaihissalām- dan para pengikutnya.
 
 # 3213
 
-Dan (ingatlah kisah) Luṭ, ketika dia berkata kepada kaumnya, "Mengapa kamu mengerjakan perbuatan fāḥisyah (keji),602) padahal kamu melihatnya (kekejian perbuatan maksiat itu)?"
+Dan (ingatlah kisah) Luṭ, ketika dia berkata kepada kaumnya, "Mengapa kamu mengerjakan perbuatan fāḥisyah (keji),[^602] padahal kamu melihatnya (kekejian perbuatan maksiat itu)?"
 
-*602) Maksud fāḥisyah di sini ialah penyimpangan seks, termasuk homoseks.
+[^602]: Maksud fāḥisyah di sini ialah penyimpangan seks, termasuk homoseks.
 
 # 3214
 
@@ -13904,9 +14086,9 @@ Bukankah Dia (Allah) yang menciptakan langit dan bumi dan yang menurunkan air da
 
 # 3220
 
-Bukankah Dia (Allah) telah menjadikan bumi sebagai tempat berdiam, yang menjadikan sungai-sungai di celah-celahnya, yang menjadikan gunung-gunung untuk (mengkokohkan)nya dan menjadikan suatu pemisah antara dua laut?603) Apakah di samping Allah ada tuhan (yang lain)? Sebenarnya kebanyakan mereka tidak mengetahui.
+Bukankah Dia (Allah) telah menjadikan bumi sebagai tempat berdiam, yang menjadikan sungai-sungai di celah-celahnya, yang menjadikan gunung-gunung untuk (mengkokohkan)nya dan menjadikan suatu pemisah antara dua laut?[^603] Apakah di samping Allah ada tuhan (yang lain)? Sebenarnya kebanyakan mereka tidak mengetahui.
 
-*603) Dua laut di sini ialah laut yang asin dan sungai besar yang bermuara di laut. Sungai yang tawar itu setelah sampai di muara tidak langsung menjadi asin.
+[^603]: Dua laut di sini ialah laut yang asin dan sungai besar yang bermuara di laut. Sungai yang tawar itu setelah sampai di muara tidak langsung menjadi asin.
 
 # 3221
 
@@ -13998,9 +14180,9 @@ Dan (ingatlah) pada hari (ketika) Kami mengumpulkan dari setiap umat, segolongan
 
 # 3243
 
-Hingga apabila mereka datang, Dia (Allah) berfirman, "Mengapa kamu dulu mendustakan ayat-ayat-Ku, padahal kamu tidak mempunyai pengetahuan tentang itu,604) atau apakah yang telah kamu kerjakan?"
+Hingga apabila mereka datang, Dia (Allah) berfirman, "Mengapa kamu dulu mendustakan ayat-ayat-Ku, padahal kamu tidak mempunyai pengetahuan tentang itu,[^604] atau apakah yang telah kamu kerjakan?"
 
-*604) Orang-orang musyrik Arab mendustakan ayat-ayat Allah tanpa memikirkannya lebih dahulu.
+[^604]: Orang-orang musyrik Arab mendustakan ayat-ayat Allah tanpa memikirkannya lebih dahulu.
 
 # 3244
 
@@ -14060,9 +14242,9 @@ Dan Kami hendak memberi karunia kepada orang-orang yang tertindas di bumi (Mesir
 
 # 3258
 
-Dan Kami teguhkan kedudukan mereka di bum,i dan Kami perlihatkan kepada Fir'aun dan Haman bersama bala tentaranya apa yang selalu mereka takutkan (akan menimpa) mereka605).
+Dan Kami teguhkan kedudukan mereka di bum,i dan Kami perlihatkan kepada Fir'aun dan Haman bersama bala tentaranya apa yang selalu mereka takutkan (akan menimpa) mereka[^605].
 
-*605) Fir'aun selalu takut bahwa kerajaannya akan dihancurkan oleh Bani Israil, karena itu dia membunuh anak-anak laki-laki yang lahir di kalangan Bani Israil. Ayat ini menyatakan bahwa akan terjadi apa yang ditakutkannya itu.
+[^605]: Fir'aun selalu takut bahwa kerajaannya akan dihancurkan oleh Bani Israil, karena itu dia membunuh anak-anak laki-laki yang lahir di kalangan Bani Israil. Ayat ini menyatakan bahwa akan terjadi apa yang ditakutkannya itu.
 
 # 3259
 
@@ -14078,9 +14260,9 @@ Dan istri Fir'aun berkata, "(Dia) adalah penyejuk mata hati bagiku dan bagimu. J
 
 # 3262
 
-Dan hati ibu Musa menjadi kosong.606) Sungguh, hampir saja dia menyatakannya (rahasia tentang Musa), seandainya tidak Kami teguhkan hatinya, agar dia termasuk orang-orang yang beriman (kepada janji Allah).
+Dan hati ibu Musa menjadi kosong.[^606] Sungguh, hampir saja dia menyatakannya (rahasia tentang Musa), seandainya tidak Kami teguhkan hatinya, agar dia termasuk orang-orang yang beriman (kepada janji Allah).
 
-*606) Setelah ibunya Musa menghanyutkan Musa di sungai Nil, maka timbullah penyesalan dan kesangsian hatinya karena kekhawatiran atas keselamatan Musa. Bahkan hampir-hampir dia berteriak meminta tolong kepada orang untuk mengambil anaknya itu kembali, yang akan mengakibatkan terbukanya rahasia bahwa Musa adalah anaknya sendiri.
+[^606]: Setelah ibunya Musa menghanyutkan Musa di sungai Nil, maka timbullah penyesalan dan kesangsian hatinya karena kekhawatiran atas keselamatan Musa. Bahkan hampir-hampir dia berteriak meminta tolong kepada orang untuk mengambil anaknya itu kembali, yang akan mengakibatkan terbukanya rahasia bahwa Musa adalah anaknya sendiri.
 
 # 3263
 
@@ -14100,9 +14282,9 @@ Dan setelah dia (Musa) dewasa dan sempurna akalnya, kami anugerahkan kepadanya h
 
 # 3267
 
-Dan dia (Musa) masuk ke kota (Memphis) ketika penduduknya sedang lengah, maka dia mendapati di dalam kota itu dua orang laki-laki sedang berkelahi; yang seorang dari kaumnya (Bani Israil) dan yang seorang (lagi) dari pihak musuhnya (kaum Fir'aun). Orang yang dari golongannya meminta pertolongan kepadanya, untuk (mengalahkan) orang yang dari pihak musuhnya, lalu Musa meninjunya, dan musuhnya itu mati. Dia (Musa) berkata, "Ini adalah perbuatan setan.607) Sungguh, dia (setan itu) adalah musuh yang jelas menyesatkan."
+Dan dia (Musa) masuk ke kota (Memphis) ketika penduduknya sedang lengah, maka dia mendapati di dalam kota itu dua orang laki-laki sedang berkelahi; yang seorang dari kaumnya (Bani Israil) dan yang seorang (lagi) dari pihak musuhnya (kaum Fir'aun). Orang yang dari golongannya meminta pertolongan kepadanya, untuk (mengalahkan) orang yang dari pihak musuhnya, lalu Musa meninjunya, dan musuhnya itu mati. Dia (Musa) berkata, "Ini adalah perbuatan setan.[^607] Sungguh, dia (setan itu) adalah musuh yang jelas menyesatkan."
 
-*607) Musa -'alaihissalām- menyesal atas kematian orang itu karena pukulannya, sebab dia tidaklah bermaksud untuk membunuhnya, tetapi hanya semata-mata membela kaumnya.
+[^607]: Musa -'alaihissalām- menyesal atas kematian orang itu karena pukulannya, sebab dia tidaklah bermaksud untuk membunuhnya, tetapi hanya semata-mata membela kaumnya.
 
 # 3268
 
@@ -14158,15 +14340,15 @@ Dia (Musa) berkata, "Itu (perjanjian) antara aku dan engkau. Yang mana saja dari
 
 # 3281
 
-Maka ketika Musa telah menyelesaikan waktu yang ditentukan itu dan dia berangkat dengan keluarganya, dia melihat api di lereng gunung.608) Dia berkata kepada keluarganya, "Tunggulah (di sini), sesungguhnya aku melihat api, mudah-mudahan aku dapat membawa suatu berita kepadamu dari (tempat) api itu atau (membawa) sepercik api, agar kamu dapat menghangatkan badan."
+Maka ketika Musa telah menyelesaikan waktu yang ditentukan itu dan dia berangkat dengan keluarganya, dia melihat api di lereng gunung.[^608] Dia berkata kepada keluarganya, "Tunggulah (di sini), sesungguhnya aku melihat api, mudah-mudahan aku dapat membawa suatu berita kepadamu dari (tempat) api itu atau (membawa) sepercik api, agar kamu dapat menghangatkan badan."
 
-*608) Setelah Musa -'alaihissalām- menyelesaikan perjanjian dengan Syu'aib -'alaihissalām- dia berangkat bersama keluarganya dengan sejumlah kambing yang diberi mertuanya, maka pada suatu malam yang sangat gelap dan dingin Musa -'alaihissalām- tiba di suatu tempat, tetapi setiap dia menghidupkan api, korek api tidak mau menyala. Hal itu sangat mengherankan Musa, maka dia berkata kepada istrinya sebagaimana disebut dalam ayat 29.
+[^608]: Setelah Musa -'alaihissalām- menyelesaikan perjanjian dengan Syu'aib -'alaihissalām- dia berangkat bersama keluarganya dengan sejumlah kambing yang diberi mertuanya, maka pada suatu malam yang sangat gelap dan dingin Musa -'alaihissalām- tiba di suatu tempat, tetapi setiap dia menghidupkan api, korek api tidak mau menyala. Hal itu sangat mengherankan Musa, maka dia berkata kepada istrinya sebagaimana disebut dalam ayat 29.
 
 # 3282
 
-Maka ketika dia (Musa) sampai ke (tempat) api itu, dia diseru dari (arah) pinggir sebelah kanan lembah, dari sebatang pohon, di sebidang tanah yang diberkahi, "Wahai Musa! Sungguh, Aku adalah Allah, Tuhan seluruh alam!609)
+Maka ketika dia (Musa) sampai ke (tempat) api itu, dia diseru dari (arah) pinggir sebelah kanan lembah, dari sebatang pohon, di sebidang tanah yang diberkahi, "Wahai Musa! Sungguh, Aku adalah Allah, Tuhan seluruh alam![^609]
 
-*609) Di tempat dan saat itulah Nabi Musa -'alaihissalām- mulai diangkat menjadi rasul.
+[^609]: Di tempat dan saat itulah Nabi Musa -'alaihissalām- mulai diangkat menjadi rasul.
 
 # 3283
 
@@ -14182,9 +14364,9 @@ Dia (Musa) berkata, "Ya Tuhanku, sungguh aku telah membunuh seorang dari golonga
 
 # 3286
 
-Dan saudaraku Harun, dia lebih fasih lidahnya daripada aku,610) maka utuslah dia bersamaku sebagai pembantuku untuk membenarkan (perkataan)ku; sungguh, aku takut mereka akan mendustakanku."
+Dan saudaraku Harun, dia lebih fasih lidahnya daripada aku,[^610] maka utuslah dia bersamaku sebagai pembantuku untuk membenarkan (perkataan)ku; sungguh, aku takut mereka akan mendustakanku."
 
-*610) Nabi Musa -'alaihissalām- selain merasa takut kepada Fir'aun juga merasa dirinya kurang lancar berbicara menghadapi Fir'aun. Maka dia memohon kepada Allah agar mengutus Nabi Harun -'alaihissalām- bersamanya, yang lebih lancar bicaranya.
+[^610]: Nabi Musa -'alaihissalām- selain merasa takut kepada Fir'aun juga merasa dirinya kurang lancar berbicara menghadapi Fir'aun. Maka dia memohon kepada Allah agar mengutus Nabi Harun -'alaihissalām- bersamanya, yang lebih lancar bicaranya.
 
 # 3287
 
@@ -14240,9 +14422,9 @@ Dan agar mereka tidak mengatakan ketika azab menimpa mereka disebabkan apa yang 
 
 # 3300
 
-Maka ketika telah datang kepada mereka kebenaran (Al-Qur`an) dari sisi Kami, mereka berkata, "Mengapa tidak diberikan kepadanya (Muhammad) seperti apa yang telah diberikan kepada Musa dahulu?" Bukankah mereka itu telah ingkar (juga) kepada apa yang diberikan kepada Musa dahulu? Mereka dahulu berkata, "(Musa dan Harun adalah) dua penyihir611) yang bantu membantu." Dan mereka (juga) berkata, "Sesungguhnya kami sama sekali tidak mempercayai masing-masing mereka itu."
+Maka ketika telah datang kepada mereka kebenaran (Al-Qur`an) dari sisi Kami, mereka berkata, "Mengapa tidak diberikan kepadanya (Muhammad) seperti apa yang telah diberikan kepada Musa dahulu?" Bukankah mereka itu telah ingkar (juga) kepada apa yang diberikan kepada Musa dahulu? Mereka dahulu berkata, "(Musa dan Harun adalah) dua penyihir[^611] yang bantu membantu." Dan mereka (juga) berkata, "Sesungguhnya kami sama sekali tidak mempercayai masing-masing mereka itu."
 
-*611) Menurut sebagian mufasir, yang dimaksud siḥrān adalah Kitab Taurat dan Al-Qur`an.
+[^611]: Menurut sebagian mufasir, yang dimaksud siḥrān adalah Kitab Taurat dan Al-Qur`an.
 
 # 3301
 
@@ -14282,9 +14464,9 @@ Dan mereka berkata, "Jika kami mengikuti petunjuk bersama engkau, niscaya kami a
 
 # 3310
 
-Dan betapa banyak (penduduk) negeri yang sudah bersenang-senang dalam kehidupannya yang telah Kami binasakan, maka itulah tempat kediaman mereka yang tidak didiami (lagi) setelah mereka, kecuali sebagian kecil. Dan Kamilah yang mewarisinya."612)
+Dan betapa banyak (penduduk) negeri yang sudah bersenang-senang dalam kehidupannya yang telah Kami binasakan, maka itulah tempat kediaman mereka yang tidak didiami (lagi) setelah mereka, kecuali sebagian kecil. Dan Kamilah yang mewarisinya."[^612]
 
-*612) Setelah mereka hancur, tempat itu sudah kosong dan tidak dimakmurkan lagi, hingga kembalilah ia kepada pemiliknya yang hakiki yaitu Allah.
+[^612]: Setelah mereka hancur, tempat itu sudah kosong dan tidak dimakmurkan lagi, hingga kembalilah ia kepada pemiliknya yang hakiki yaitu Allah.
 
 # 3311
 
@@ -14296,9 +14478,9 @@ Dan apa saja (kekayaan, jabatan, keturunan) yang diberikan kepada kamu, maka itu
 
 # 3313
 
-Maka apakah sama orang yang Kami janjikan kepadanya suatu janji yang baik (surga) lalu dia memperolehnya, dengan orang yang Kami berikan kepadanya kesenangan hidup duniawi;613) kemudian pada hari Kiamat dia termasuk orang-orang yang diseret (ke dalam neraka)?
+Maka apakah sama orang yang Kami janjikan kepadanya suatu janji yang baik (surga) lalu dia memperolehnya, dengan orang yang Kami berikan kepadanya kesenangan hidup duniawi;[^613] kemudian pada hari Kiamat dia termasuk orang-orang yang diseret (ke dalam neraka)?
 
-*613) Orang yang diberi kenikmatan hidup duniawi, tetapi tidak dipergunakannya untuk mencari kebahagiaan hidup di akhirat, karena itu dia di akhirat di seret ke dalam neraka.
+[^613]: Orang yang diberi kenikmatan hidup duniawi, tetapi tidak dipergunakannya untuk mencari kebahagiaan hidup di akhirat, karena itu dia di akhirat di seret ke dalam neraka.
 
 # 3314
 
@@ -14354,15 +14536,15 @@ Dan (ingatlah) pada hari ketika Dia (Allah) menyeru mereka, dan berfirman, "Di m
 
 # 3327
 
-Dan Kami datangkan dari setiap umat seorang saksi,614) lalu Kami katakan, "Kemukakanlah bukti kebenaranmu," maka tahulah mereka bahwa yang hak (kebenaran) itu milik Allah dan lenyaplah dari mereka apa yang dahulu mereka ada-adakan.
+Dan Kami datangkan dari setiap umat seorang saksi,[^614] lalu Kami katakan, "Kemukakanlah bukti kebenaranmu," maka tahulah mereka bahwa yang hak (kebenaran) itu milik Allah dan lenyaplah dari mereka apa yang dahulu mereka ada-adakan.
 
-*614) Saksi di sini ialah rasul yang telah di utus kepada mereka pada waktu di dunia.
+[^614]: Saksi di sini ialah rasul yang telah di utus kepada mereka pada waktu di dunia.
 
 # 3328
 
-Sesungguhnya Karun termasuk kaum Musa,615) tetapi dia berlaku zalim terhadap mereka, dan Kami telah menganugerahkan kepadanya perbendaraan harta yang kunci-kuncinya sungguh berat dipikul oleh sejumlah orang yang kuat-kuat. (Ingatlah) ketika kaumnya berkata kepadanya, "Janganlah engkau terlalu bangga. Sungguh, Allah tidak menyukai orang yang membanggakan diri."
+Sesungguhnya Karun termasuk kaum Musa,[^615] tetapi dia berlaku zalim terhadap mereka, dan Kami telah menganugerahkan kepadanya perbendaraan harta yang kunci-kuncinya sungguh berat dipikul oleh sejumlah orang yang kuat-kuat. (Ingatlah) ketika kaumnya berkata kepadanya, "Janganlah engkau terlalu bangga. Sungguh, Allah tidak menyukai orang yang membanggakan diri."
 
-*615) Karun adalah salah seorang anak paman Nabi Musa -'alaihissalām-.
+[^615]: Karun adalah salah seorang anak paman Nabi Musa -'alaihissalām-.
 
 # 3329
 
@@ -14390,9 +14572,9 @@ Dan orang-orang yang kemarin mengangan-angankan kedudukannya (Karun) itu berkata
 
 # 3335
 
-Negeri akhirat itu Kami jadikan bagi orang-orang yang tidak menyombongkan diri dan tidak berbuat kerusakan di bumi. Dan kesudahan (yang baik)616) itu bagi orang-orang yang bertakwa.
+Negeri akhirat itu Kami jadikan bagi orang-orang yang tidak menyombongkan diri dan tidak berbuat kerusakan di bumi. Dan kesudahan (yang baik)[^616] itu bagi orang-orang yang bertakwa.
 
-*616) Yaitu surga.
+[^616]: Yaitu surga.
 
 # 3336
 
@@ -14400,9 +14582,9 @@ Barang siapa yang datang dengan (membawa) kebaikan, maka dia akan mendapat (paha
 
 # 3337
 
-Sesungguhnya (Allah) yang mewajibkan engkau (Muhammad) untuk (melaksanakan hukum-hukum) Al-Qur`an, benar-benar akan mengembalikanmu ke tempat kembali.617) Katakanlah (Muhammad), "Tuhanku mengetahui orang yang membawa petunjuk dan orang yang berada dalam kesesatan yang nyata."
+Sesungguhnya (Allah) yang mewajibkan engkau (Muhammad) untuk (melaksanakan hukum-hukum) Al-Qur`an, benar-benar akan mengembalikanmu ke tempat kembali.[^617] Katakanlah (Muhammad), "Tuhanku mengetahui orang yang membawa petunjuk dan orang yang berada dalam kesesatan yang nyata."
 
-*617) Kota Mekkah. Inilah suatu janji dari Tuhan bahwa Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- akan kembali ke Mekkah sebagai orang yang menang, dan ini sudah terjadi pada tahun ke-delapan Hijri, pada waktu Nabi menaklukkan Mekkah. Ini merupakan suatu mukjizat bagi Nabi -ṣallallāhu 'alaihi wa sallam-.
+[^617]: Kota Mekkah. Inilah suatu janji dari Tuhan bahwa Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- akan kembali ke Mekkah sebagai orang yang menang, dan ini sudah terjadi pada tahun ke-delapan Hijri, pada waktu Nabi menaklukkan Mekkah. Ini merupakan suatu mukjizat bagi Nabi -ṣallallāhu 'alaihi wa sallam-.
 
 # 3338
 
@@ -14454,9 +14636,9 @@ Dan orang-orang yang beriman dan mengerjakan kebajikan, mereka pasti akan Kami m
 
 # 3350
 
-Dan di antara manusia ada sebagian yang berkata, "Kami beriman kepada Allah," tetapi apabila dia disakiti (karena dia beriman) kepada Allah, dia menganggap cobaan manusia itu sebagai siksaan Allah.618) Dan jika datang pertolongan dari Tuhanmu, niscaya mereka akan berkata, "Sesungguhnya kami bersama kamu." Bukankah Allah lebih mengetahui apa yang ada di dalam dada semua manusia ?
+Dan di antara manusia ada sebagian yang berkata, "Kami beriman kepada Allah," tetapi apabila dia disakiti (karena dia beriman) kepada Allah, dia menganggap cobaan manusia itu sebagai siksaan Allah.[^618] Dan jika datang pertolongan dari Tuhanmu, niscaya mereka akan berkata, "Sesungguhnya kami bersama kamu." Bukankah Allah lebih mengetahui apa yang ada di dalam dada semua manusia ?
 
-*618) Orang itu takut kepada kezaliman manusia, seperti ketakutannya kepada azab Allah, karena itu dia tinggalkan imannya.
+[^618]: Orang itu takut kepada kezaliman manusia, seperti ketakutannya kepada azab Allah, karena itu dia tinggalkan imannya.
 
 # 3351
 
@@ -14484,9 +14666,9 @@ Dan (ingatlah) Ibrahim, ketika dia berkata kepada kaumnya, "Sembahlah Allah dan 
 
 # 3357
 
-Sesungguhnya yang kamu sembah selain Allah hanyalah berhala-berhala, dan kamu membuat kebohongan.619) Sesungguhnya apa yang kamu sembah selain Allah itu tidak mampu memberikan rezeki kepadamu; maka mintalah rezeki dari Allah, dan sembahlah Dia dan bersyukurlah kepada-Nya. Hanya kepada-Nya kamu akan dikembalikan.
+Sesungguhnya yang kamu sembah selain Allah hanyalah berhala-berhala, dan kamu membuat kebohongan.[^619] Sesungguhnya apa yang kamu sembah selain Allah itu tidak mampu memberikan rezeki kepadamu; maka mintalah rezeki dari Allah, dan sembahlah Dia dan bersyukurlah kepada-Nya. Hanya kepada-Nya kamu akan dikembalikan.
 
-*619) Mereka menyatakan bahwa berhala-berhala itu dapat memberi syafaat kepada mereka di sisi Allah, dan ini adalah kebohongan.
+[^619]: Mereka menyatakan bahwa berhala-berhala itu dapat memberi syafaat kepada mereka di sisi Allah, dan ini adalah kebohongan.
 
 # 3358
 
@@ -14498,9 +14680,9 @@ Dan apakah mereka tidak memperhatikan bagaimana Allah memulai penciptaan (makhlu
 
 # 3360
 
-Katakanlah, "Berjalanlah di bumi, maka perhatikanlah bagaimana (Allah) memulai penciptaan (makhluk), kemudian Allah menjadikan kejadian yang akhir.620) Sungguh, Allah Mahakuasa atas segala sesuatu.
+Katakanlah, "Berjalanlah di bumi, maka perhatikanlah bagaimana (Allah) memulai penciptaan (makhluk), kemudian Allah menjadikan kejadian yang akhir.[^620] Sungguh, Allah Mahakuasa atas segala sesuatu.
 
-*620) Allah membangkitkan manusia setelah mati kelak di akhirat.
+[^620]: Allah membangkitkan manusia setelah mati kelak di akhirat.
 
 # 3361
 
@@ -14528,9 +14710,9 @@ Maka Luṭ membenarkan (kenabian Ibrahim). Dan dia (Ibrahim) berkata, "Sesungguh
 
 # 3367
 
-Dan Kami anugerahkan kepada Ibrahim: Ishak dan Yakub, dan Kami jadikan kenabian dan kitab kepada keturunannya, dan Kami berikan kepadanya balasannya di dunia;621) dan sesungguhnya dia di akhirat, termasuk orang yang saleh.
+Dan Kami anugerahkan kepada Ibrahim: Ishak dan Yakub, dan Kami jadikan kenabian dan kitab kepada keturunannya, dan Kami berikan kepadanya balasannya di dunia;[^621] dan sesungguhnya dia di akhirat, termasuk orang yang saleh.
 
-*621) Dengan memberikan anak cucu yang baik, kenabian yang terus-menerus pada keturunannya, dan puji-pujian yang baik.
+[^621]: Dengan memberikan anak cucu yang baik, kenabian yang terus-menerus pada keturunannya, dan puji-pujian yang baik.
 
 # 3368
 
@@ -14538,9 +14720,9 @@ Dan (ingatlah) ketika Luṭ berkata kepada kaumnya, "Kamu benar-benar melakukan 
 
 # 3369
 
-Apakah pantas kamu mendatangi laki-laki, menyamun622) dan mengerjakan kemungkaran di tempat-tempat pertemuanmu?" Maka jawaban kaumnya tidak lain hanya mengatakan, "Datangkanlah kepada kami azab Allah, jika engkau termasuk orang-orang yang benar."
+Apakah pantas kamu mendatangi laki-laki, menyamun[^622] dan mengerjakan kemungkaran di tempat-tempat pertemuanmu?" Maka jawaban kaumnya tidak lain hanya mengatakan, "Datangkanlah kepada kami azab Allah, jika engkau termasuk orang-orang yang benar."
 
-*622) Sebagian mufasir mengartikan taqṭa'ūnas sabīl dengan “melakukan perbuatan keji terhadap orang-orang yang dalam perjalanan”, karena mereka sebagian besar melakukan homoseksual dengan tamu-tamu yang datang ke kampung mereka. Ada lagi yang mengartikan dengan “merusak jalan keturunan” karena mereka berbuat homoseksual.
+[^622]: Sebagian mufasir mengartikan taqṭa'ūnas sabīl dengan “melakukan perbuatan keji terhadap orang-orang yang dalam perjalanan”, karena mereka sebagian besar melakukan homoseksual dengan tamu-tamu yang datang ke kampung mereka. Ada lagi yang mengartikan dengan “merusak jalan keturunan” karena mereka berbuat homoseksual.
 
 # 3370
 
@@ -14548,9 +14730,9 @@ Dia (Luṭ) berdoa, "Ya Tuhanku, tolonglah aku (dengan menimpakan azab) atas gol
 
 # 3371
 
-Dan ketika utusan Kami (para malaikat) datang kepada Ibrahim dengan membawa kabar gembira,623) mereka mengatakan, "Sungguh, kami akan membinasakan penduduk kota (Sodom) ini karena penduduknya sungguh orang-orang zalim."
+Dan ketika utusan Kami (para malaikat) datang kepada Ibrahim dengan membawa kabar gembira,[^623] mereka mengatakan, "Sungguh, kami akan membinasakan penduduk kota (Sodom) ini karena penduduknya sungguh orang-orang zalim."
 
-*623) Kabar bahwa Nabi Ibrahim -'alaihissalām- akan mendapat putra.
+[^623]: Kabar bahwa Nabi Ibrahim -'alaihissalām- akan mendapat putra.
 
 # 3372
 
@@ -14558,9 +14740,9 @@ Ibrahim berkata, "Sesungguhnya di kota itu ada Luṭ." Mereka (para malaikat) be
 
 # 3373
 
-Dan ketika para utusan Kami (para malaikat) datang kepada Luṭ, dia merasa bersedih hati karena (kedatangan) mereka,624) dan (merasa) tidak mempunyai kekuatan untuk melindungi mereka, dan mereka (para utusan) berkata, "Janganlah engkau takut dan jangan (pula) bersedih hati. Sesungguhnya Kami akan menyelamatkanmu dan pengikut-pengikutmu, kecuali istrimu, dia termasuk orang-orang yang ditinggal (dibinasakan)."
+Dan ketika para utusan Kami (para malaikat) datang kepada Luṭ, dia merasa bersedih hati karena (kedatangan) mereka,[^624] dan (merasa) tidak mempunyai kekuatan untuk melindungi mereka, dan mereka (para utusan) berkata, "Janganlah engkau takut dan jangan (pula) bersedih hati. Sesungguhnya Kami akan menyelamatkanmu dan pengikut-pengikutmu, kecuali istrimu, dia termasuk orang-orang yang ditinggal (dibinasakan)."
 
-*624) Nabi Luṭ -'alaihissalām- merasa bersedih hati akan kedatangan utusan-utusan Allah itu karena mereka berupa pemuda yang rupawan, sedangkan kaum Luṭ sangat menyukai pemuda-pemuda yang rupawan untuk melakukan homoseksual. Dan dia merasa tidak sanggup melindungi mereka bilamana ada gangguan dari kaumnya.
+[^624]: Nabi Luṭ -'alaihissalām- merasa bersedih hati akan kedatangan utusan-utusan Allah itu karena mereka berupa pemuda yang rupawan, sedangkan kaum Luṭ sangat menyukai pemuda-pemuda yang rupawan untuk melakukan homoseksual. Dan dia merasa tidak sanggup melindungi mereka bilamana ada gangguan dari kaumnya.
 
 # 3374
 
@@ -14568,9 +14750,9 @@ Sesungguhnya Kami akan menurunkan azab dari langit kepada penduduk kota ini kare
 
 # 3375
 
-Dan sungguh, tentang itu telah Kami tinggalkan suatu tanda yang nyata625) bagi orang-orang yang mengerti.
+Dan sungguh, tentang itu telah Kami tinggalkan suatu tanda yang nyata[^625] bagi orang-orang yang mengerti.
 
-*625) Bekas-bekas reruntuhan kota Sodom, negeri kaum Luṭ.
+[^625]: Bekas-bekas reruntuhan kota Sodom, negeri kaum Luṭ.
 
 # 3376
 
@@ -14606,9 +14788,9 @@ Dan perumpamaan-perumpamaan ini Kami buat untuk manusia; dan tidak ada yang akan
 
 # 3384
 
-Allah menciptakan langit dan bumi dengan hak.626) Sungguh, pada yang demikian itu pasti terdapat tanda-tanda (kebesaran Allah) bagi orang-orang yang beriman.
+Allah menciptakan langit dan bumi dengan hak.[^626] Sungguh, pada yang demikian itu pasti terdapat tanda-tanda (kebesaran Allah) bagi orang-orang yang beriman.
 
-*626) Allah menciptakan semua yang disebutkan itu bukan dengan percuma, melainkan dengan penuh hikmah.
+[^626]: Allah menciptakan semua yang disebutkan itu bukan dengan percuma, melainkan dengan penuh hikmah.
 
 # 3385
 
@@ -14616,9 +14798,9 @@ Bacalah Kitab (Al-Qur`an) yang telah diwahyukan kepadamu (Muhammad) dan laksanak
 
 # 3386
 
-Dan janganlah kamu berdebat dengan Ahli Kitab, melainkan dengan cara yang baik, kecuali dengan orang-orang yang zalim di antara mereka,627) dan katakanlah, "Kami telah beriman kepada (kitab-kitab) yang diturunkan kepada kami dan yang diturunkan kepadamu; Tuhan kami dan Tuhan kamu satu; dan hanya kepada-Nya kami berserah diri."
+Dan janganlah kamu berdebat dengan Ahli Kitab, melainkan dengan cara yang baik, kecuali dengan orang-orang yang zalim di antara mereka,[^627] dan katakanlah, "Kami telah beriman kepada (kitab-kitab) yang diturunkan kepada kami dan yang diturunkan kepadamu; Tuhan kami dan Tuhan kamu satu; dan hanya kepada-Nya kami berserah diri."
 
-*627) Orang-orang yang setelah diberikan kepadanya keterangan-keterangan dan penjelasan-penjelasan dengan cara yang paling baik, mereka tetap membantah dan membangkang serta tetap menyatakan permusuhan.
+[^627]: Orang-orang yang setelah diberikan kepadanya keterangan-keterangan dan penjelasan-penjelasan dengan cara yang paling baik, mereka tetap membantah dan membangkang serta tetap menyatakan permusuhan.
 
 # 3387
 
@@ -14630,9 +14812,9 @@ Dan engkau (Muhammad) tidak pernah membaca sesuatu kitab sebelum (Al-Qur`an) dan
 
 # 3389
 
-Sebenarnya, (Al-Qur`an) itu adalah ayat-ayat yang jelas di dalam dada orang-orang yang berilmu.628) Hanya orang-orang zalim yang mengingkari ayat-ayat Kami.
+Sebenarnya, (Al-Qur`an) itu adalah ayat-ayat yang jelas di dalam dada orang-orang yang berilmu.[^628] Hanya orang-orang zalim yang mengingkari ayat-ayat Kami.
 
-*628) Ayat-ayat Al-Qur`an itu terpelihara dalam dada dengan dihapal oleh banyak kaum muslimin turun-temurun dan dipahami oleh mereka, sehingga tidak ada seorang pun yang dapat mengubahnya.
+[^628]: Ayat-ayat Al-Qur`an itu terpelihara dalam dada dengan dihapal oleh banyak kaum muslimin turun-temurun dan dipahami oleh mereka, sehingga tidak ada seorang pun yang dapat mengubahnya.
 
 # 3390
 
@@ -14648,9 +14830,9 @@ Katakanlah (Muhammad), "Cukuplah Allah menjadi saksi antara aku dan kamu. Dia me
 
 # 3393
 
-Dan mereka meminta kepadamu agar segera diturunkan azab. Kalau bukan karena waktunya yang telah ditetapkan,629) niscaya datang azab kepada mereka, dan (azab itu) pasti akan datang kepada mereka dengan tiba-tiba, sedang mereka tidak menyadarinya.
+Dan mereka meminta kepadamu agar segera diturunkan azab. Kalau bukan karena waktunya yang telah ditetapkan,[^629] niscaya datang azab kepada mereka, dan (azab itu) pasti akan datang kepada mereka dengan tiba-tiba, sedang mereka tidak menyadarinya.
 
-*629) Ditetapkan azab itu pada hari pembalasan; di akhirat.
+[^629]: Ditetapkan azab itu pada hari pembalasan; di akhirat.
 
 # 3394
 
@@ -14698,9 +14880,9 @@ Dan kehidupan dunia ini hanya senda gurau dan permainan. Dan sesungguhnya negeri
 
 # 3405
 
-Maka apabila mereka naik kapal, mereka berdoa kepada Allah dengan penuh rasa pengabdian (ikhlas) kepada-Nya,630) tetapi ketika Allah menyelamatkan mereka sampai ke darat, malah mereka (kembali) mempersekutukan (Allah).
+Maka apabila mereka naik kapal, mereka berdoa kepada Allah dengan penuh rasa pengabdian (ikhlas) kepada-Nya,[^630] tetapi ketika Allah menyelamatkan mereka sampai ke darat, malah mereka (kembali) mempersekutukan (Allah).
 
-*630) Dengan memurnikan ketaatan semata-mata kepada Allah.
+[^630]: Dengan memurnikan ketaatan semata-mata kepada Allah.
 
 # 3406
 
@@ -14712,9 +14894,9 @@ Tidakkah mereka memperhatikan, bahwa Kami telah menjadikan (negeri mereka) tanah
 
 # 3408
 
-Dan siapakah yang lebih zalim daripada orang yang mengada-adakan kebohongan kepada Allah atau orang yang mendustakan yang hak631) ketika (yang hak) itu datang kepadanya? Bukankah dalam neraka Jahanam ada tempat bagi orang-orang kafir?
+Dan siapakah yang lebih zalim daripada orang yang mengada-adakan kebohongan kepada Allah atau orang yang mendustakan yang hak[^631] ketika (yang hak) itu datang kepadanya? Bukankah dalam neraka Jahanam ada tempat bagi orang-orang kafir?
 
-*631) Mendustakan kenabian Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
+[^631]: Mendustakan kenabian Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
 
 # 3409
 
@@ -14726,21 +14908,23 @@ Alif Lām Mīm.
 
 # 3411
 
-Bangsa Romawi telah dikalahkan,632)
+Bangsa Romawi telah dikalahkan,[^632]
 
-*632) Romawi Timur yang berpusat di Konstantinopel.
+[^632]: Romawi Timur yang berpusat di Konstantinopel.
 
 # 3412
 
-di negeri yang terdekat633) dan mereka setelah kekalahannya itu akan menang,634)
+di negeri yang terdekat[^633] dan mereka setelah kekalahannya itu akan menang,[^634]
 
-*633) Terdekat ke negeri Arab yaitu Suriah dan Palestina sewaktu menjadi jajahan kerajaan Romawi Timur. 634) Bangsa Romawi (pada saat ayat ini diturunkan) adalah suatu bangsa yang beragama Nasrani yang memiliki Kitab Suci, sedang bangsa Persia adalah beragama Majusi, menyembah api dan berhala (musyrik). Kedua bangsa itu berperang. Ketika tersiar berita kekalahan bangsa Romawi oleh bangsa Persia, maka kaum musyrik Mekkah menyambutnya dengan penuh gembira karena berpihak kepada orang musyrikin Persia. Sedang kaum muslimin berduka cita karenanya. Kemudian turunlah ayat ini dan ayat yang berikutnya menerangkan bahwa bangsa Romawi setelah kalah itu akan menang dalam masa beberapa tahun saja. Hal itu benar-benar terjadi. Beberapa tahun setelah itu, menanglah bangsa Romawi dan kalahlah bangsa Persia. Dengan kejadian yang demikian nyatalah kebenaran Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- sebagai Nabi dan Rasul dan kebenaran Al-Qur`an sebagi firman Allah.
+[^633]: Terdekat ke negeri Arab yaitu Suriah dan Palestina sewaktu menjadi jajahan kerajaan Romawi Timur
+
+[^634]: Bangsa Romawi (pada saat ayat ini diturunkan) adalah suatu bangsa yang beragama Nasrani yang memiliki Kitab Suci, sedang bangsa Persia adalah beragama Majusi, menyembah api dan berhala (musyrik). Kedua bangsa itu berperang. Ketika tersiar berita kekalahan bangsa Romawi oleh bangsa Persia, maka kaum musyrik Mekkah menyambutnya dengan penuh gembira karena berpihak kepada orang musyrikin Persia. Sedang kaum muslimin berduka cita karenanya. Kemudian turunlah ayat ini dan ayat yang berikutnya menerangkan bahwa bangsa Romawi setelah kalah itu akan menang dalam masa beberapa tahun saja. Hal itu benar-benar terjadi. Beberapa tahun setelah itu, menanglah bangsa Romawi dan kalahlah bangsa Persia. Dengan kejadian yang demikian nyatalah kebenaran Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- sebagai Nabi dan Rasul dan kebenaran Al-Qur`an sebagi firman Allah.
 
 # 3413
 
-dalam beberapa tahun (lagi).635) Bagi Allah lah urusan sebelum dan setelah (mereka menang). Dan pada hari (kemenangan bangsa Romawi) itu bergembiralah orang-orang yang beriman,
+dalam beberapa tahun (lagi).[^635] Bagi Allah lah urusan sebelum dan setelah (mereka menang). Dan pada hari (kemenangan bangsa Romawi) itu bergembiralah orang-orang yang beriman,
 
-*635) Antara tiga sampai sembilan tahun. Waktu antara kekalahan bangsa Romawi (tahun 614-615) dengan kemenangannnya (tahun 622 M) ialah kira-kira tujuh tahun.
+[^635]: Antara tiga sampai sembilan tahun. Waktu antara kekalahan bangsa Romawi (tahun 614-615) dengan kemenangannnya (tahun 622 M) ialah kira-kira tujuh tahun.
 
 # 3414
 
@@ -14776,9 +14960,9 @@ Dan pada hari (ketika) terjadi Kiamat, orang-orang yang berdosa (kaum musyrik) t
 
 # 3422
 
-Dan tidak mungkin ada pemberi syafaat (pertolongan) bagi mereka dari berhala-berhala mereka, sedangkan mereka mengingkari berhala-berhala mereka itu.636)
+Dan tidak mungkin ada pemberi syafaat (pertolongan) bagi mereka dari berhala-berhala mereka, sedangkan mereka mengingkari berhala-berhala mereka itu.[^636]
 
-*636) Menurut sebagian mufasir ayat ini diartikan, “... bahkan mereka menjadi kafir, adalah disebabkan berhala-berhala.”
+[^636]: Menurut sebagian mufasir ayat ini diartikan, “... bahkan mereka menjadi kafir, adalah disebabkan berhala-berhala.”
 
 # 3423
 
@@ -14798,9 +14982,9 @@ Maka bertasbihlah kepada Allah pada petang hari dan pada pagi hari (waktu subuh)
 
 # 3427
 
-dan segala puji bagi-Nya di langit, di bumi, pada malam hari dan pada waktu zuhur (tengah hari).637)
+dan segala puji bagi-Nya di langit, di bumi, pada malam hari dan pada waktu zuhur (tengah hari).[^637]
 
-*637) Maksud bertasbih dalam ayat 17 ialah salat. Ayat 17 dan 18 menerangkan tentang waktu salat yang lima.
+[^637]: Maksud bertasbih dalam ayat 17 ialah salat. Ayat 17 dan 18 menerangkan tentang waktu salat yang lima.
 
 # 3428
 
@@ -14840,9 +15024,9 @@ Dan Dialah yang memulai penciptaan, kemudian mengulanginya kembali, dan itu lebi
 
 # 3437
 
-Dia membuat perumpamaan bagimu dari dirimu sendiri. Apakah (kamu rela jika) ada di antara hamba sahaya yang kamu miliki, menjadi sekutu bagimu dalam (memiliki) rezeki yang telah Kami berikan kepadamu, sehingga kamu menjadi setara dengan mereka dalam hal ini, lalu kamu takut kepada mereka sebagaimana kamu takut kepada sesamamu.638) Demikianlah Kami jelaskan ayat-ayat itu bagi kaum yang mengerti.
+Dia membuat perumpamaan bagimu dari dirimu sendiri. Apakah (kamu rela jika) ada di antara hamba sahaya yang kamu miliki, menjadi sekutu bagimu dalam (memiliki) rezeki yang telah Kami berikan kepadamu, sehingga kamu menjadi setara dengan mereka dalam hal ini, lalu kamu takut kepada mereka sebagaimana kamu takut kepada sesamamu.[^638] Demikianlah Kami jelaskan ayat-ayat itu bagi kaum yang mengerti.
 
-*638) Perumpamaan tersebut menggambarkan bahwa tidak pantas ada persekutuan dari unsur-unsur yang tidak setara, misalnya antara hamba sahaya dengan pemiliknya. Apalagi antara makhluk dengan Allah, tentu lebih tidak pantas lagi.
+[^638]: Perumpamaan tersebut menggambarkan bahwa tidak pantas ada persekutuan dari unsur-unsur yang tidak setara, misalnya antara hamba sahaya dengan pemiliknya. Apalagi antara makhluk dengan Allah, tentu lebih tidak pantas lagi.
 
 # 3438
 
@@ -14850,9 +15034,9 @@ Tetapi orang-orang yang zalim, mengikuti hawa nafsunya tanpa ilmu pengetahuan; m
 
 # 3439
 
-Maka hadapkanlah wajahmu dengan lurus kepada agama (Islam); (sesuai) fitrah Allah disebabkan Dia telah menciptakan manusia menurut (fitrah) itu.639) Tidak ada perubahan pada ciptaan Allah. (Itulah) agama yang lurus, tetapi kebanyakan manusia tidak mengetahui,
+Maka hadapkanlah wajahmu dengan lurus kepada agama (Islam); (sesuai) fitrah Allah disebabkan Dia telah menciptakan manusia menurut (fitrah) itu.[^639] Tidak ada perubahan pada ciptaan Allah. (Itulah) agama yang lurus, tetapi kebanyakan manusia tidak mengetahui,
 
-*639) Fitrah Allah maksudnya ciptaan Allah. Manusia diciptakan Allah mempunyai naluri beragama yaitu agama tauhid. Kalau ada manusia tidak beragama tauhid, maka hal itu tidaklah wajar.
+[^639]: Fitrah Allah maksudnya ciptaan Allah. Manusia diciptakan Allah mempunyai naluri beragama yaitu agama tauhid. Kalau ada manusia tidak beragama tauhid, maka hal itu tidaklah wajar.
 
 # 3440
 
@@ -14860,15 +15044,15 @@ dengan kembali bertobat kepada-Nya dan bertakwalah kepada-Nya serta laksanakanla
 
 # 3441
 
-yaitu orang-orang yang memecah belah agama mereka640) dan mereka menjadi beberapa golongan. Setiap golongan merasa bangga dengan apa yang ada pada golongan mereka.
+yaitu orang-orang yang memecah belah agama mereka[^640] dan mereka menjadi beberapa golongan. Setiap golongan merasa bangga dengan apa yang ada pada golongan mereka.
 
-*640) Meninggalkan agama tauhid dan menganut berbagai kepercayaan menurut keinginan mereka.
+[^640]: Meninggalkan agama tauhid dan menganut berbagai kepercayaan menurut keinginan mereka.
 
 # 3442
 
-Dan apabila manusia ditimpa oleh suatu bahaya, mereka menyeru Tuhannya dengan kembali (bertobat) kepada-Nya, kemudian apabila Dia memberikan sedikit rahmat-Nya641) kepada mereka, tiba-tiba sebagian mereka mempersekutukan Allah,
+Dan apabila manusia ditimpa oleh suatu bahaya, mereka menyeru Tuhannya dengan kembali (bertobat) kepada-Nya, kemudian apabila Dia memberikan sedikit rahmat-Nya[^641] kepada mereka, tiba-tiba sebagian mereka mempersekutukan Allah,
 
-*641) Yang dimaksud dengan “rahmat’ di sini ialah lepas dari bahaya.
+[^641]: Yang dimaksud dengan “rahmat’ di sini ialah lepas dari bahaya.
 
 # 3443
 
@@ -14908,9 +15092,9 @@ Katakanlah (Muhammad), "Bepergianlah di bumi lalu lihatlah bagaimana kesudahan o
 
 # 3452
 
-Oleh karena itu, hadapkanlah wajahmu kepada agama yang lurus (Islam) sebelum datang dari Allah suatu hari (Kiamat) yang tidak dapat ditolak, pada hari itu mereka terpisah-pisah.642)
+Oleh karena itu, hadapkanlah wajahmu kepada agama yang lurus (Islam) sebelum datang dari Allah suatu hari (Kiamat) yang tidak dapat ditolak, pada hari itu mereka terpisah-pisah.[^642]
 
-*642) Yakni sebagian mereka berada dalam surga dan sebagian lagi berada dalam neraka.
+[^642]: Yakni sebagian mereka berada dalam surga dan sebagian lagi berada dalam neraka.
 
 # 3453
 
@@ -14922,15 +15106,15 @@ agar Allah memberi balasan (pahala) kepada orang-orang yang beriman dan mengerja
 
 # 3455
 
-Dan di antara tanda-tanda (kebesaran)-Nya adalah bahwa Dia mengirimkan angin sebagai pembawa berita gembira643) dan agar kamu merasakan sebagian dari rahmat-Nya dan agar kapal dapat berlayar dengan perintah-Nya dan (juga) agar kamu dapat mencari sebagian dari karunia-Nya, dan agar kamu bersyukur.
+Dan di antara tanda-tanda (kebesaran)-Nya adalah bahwa Dia mengirimkan angin sebagai pembawa berita gembira[^643] dan agar kamu merasakan sebagian dari rahmat-Nya dan agar kapal dapat berlayar dengan perintah-Nya dan (juga) agar kamu dapat mencari sebagian dari karunia-Nya, dan agar kamu bersyukur.
 
-*643) “Pembawa berita gembira” maksudnya: Awan tebal yang ditiup angin lalu menurunkan hujan. Karenanya dapat dirasakan rahmat Allah dengan tumbuhnya biji-bijian yang telah disemaikan dan menghijaunya tanaman-tanaman serta berbuahnya tumbuh-tumbuhan dan sebagainya.
+[^643]: “Pembawa berita gembira” maksudnya: Awan tebal yang ditiup angin lalu menurunkan hujan. Karenanya dapat dirasakan rahmat Allah dengan tumbuhnya biji-bijian yang telah disemaikan dan menghijaunya tanaman-tanaman serta berbuahnya tumbuh-tumbuhan dan sebagainya.
 
 # 3456
 
-Dan sungguh, Kami telah mengutus sebelum engkau (Muhammad) beberapa orang rasul kepada kaumnya. Mereka datang kepadanya dengan membawa keterangan-keterangan (yang cukup), lalu Kami melakukan pembalasan terhadap orang-orang yang berdosa.644) Dan merupakan hak Kami untuk menolong orang-orang yang beriman.
+Dan sungguh, Kami telah mengutus sebelum engkau (Muhammad) beberapa orang rasul kepada kaumnya. Mereka datang kepadanya dengan membawa keterangan-keterangan (yang cukup), lalu Kami melakukan pembalasan terhadap orang-orang yang berdosa.[^644] Dan merupakan hak Kami untuk menolong orang-orang yang beriman.
 
-*644) Dengan kedatangan rasul-rasul membawa keterangan kepada kaumnya itu, maka sebagian mereka mempercayainya dan sebagian lagi mendustakannya bahkan sampai ada yang menyakitinya. Maka terhadap orang yang berdosa seperti itu, Allah mengazab mereka.
+[^644]: Dengan kedatangan rasul-rasul membawa keterangan kepada kaumnya itu, maka sebagian mereka mempercayainya dan sebagian lagi mendustakannya bahkan sampai ada yang menyakitinya. Maka terhadap orang yang berdosa seperti itu, Allah mengazab mereka.
 
 # 3457
 
@@ -14950,9 +15134,9 @@ Dan sungguh, jika Kami mengirimkan angin lalu mereka melihat (tumbuh-tumbuhan it
 
 # 3461
 
-Maka sungguh, engkau tidak akan sanggup menjadikan orang-orang yang mati itu dapat mendengar, dan menjadikan orang-orang yang tuli dapat mendengar seruan, apabila mereka berpaling ke belakang.645)
+Maka sungguh, engkau tidak akan sanggup menjadikan orang-orang yang mati itu dapat mendengar, dan menjadikan orang-orang yang tuli dapat mendengar seruan, apabila mereka berpaling ke belakang.[^645]
 
-*645) Orang kafir itu disamakan Allah dengan orang mati yang tidak mungkin lagi mendengarkan pelajaran-pelajaran. Begitu juga disamakan orang kafir itu dengan orang tuli yang tidak bisa mendengar panggilan sama sekali apabila mereka membelakangi kita.
+[^645]: Orang kafir itu disamakan Allah dengan orang mati yang tidak mungkin lagi mendengarkan pelajaran-pelajaran. Begitu juga disamakan orang kafir itu dengan orang tuli yang tidak bisa mendengar panggilan sama sekali apabila mereka membelakangi kita.
 
 # 3462
 
@@ -14964,9 +15148,9 @@ Allah lah yang menciptakan kamu dari keadaan lemah, kemudian Dia menjadikan (kam
 
 # 3464
 
-Dan pada hari (ketika) terjadinya Kiamat, orang-orang yang berdosa bersumpah, bahwa mereka berdiam (dalam kubur) hanya sesaat (saja). Begitulah dahulu mereka dipalingkan (dari kebenaran).646)
+Dan pada hari (ketika) terjadinya Kiamat, orang-orang yang berdosa bersumpah, bahwa mereka berdiam (dalam kubur) hanya sesaat (saja). Begitulah dahulu mereka dipalingkan (dari kebenaran).[^646]
 
-*646) Sebagaimana mereka berdusta dalam perkataan mereka ini, seperti itu pulalah mereka selalu berdusta di dunia.
+[^646]: Sebagaimana mereka berdusta dalam perkataan mereka ini, seperti itu pulalah mereka selalu berdusta di dunia.
 
 # 3465
 
@@ -15014,9 +15198,9 @@ Dan di antara manusia (ada) orang yang mempergunakan percakapan kosong untuk men
 
 # 3476
 
-Dan apabila dibacakan kepadanya647) ayat-ayat Kami, dia berpaling dengan menyombongkan diri seolah-olah dia belum mendengarnya, seakan-akan ada sumbatan di kedua telinganya, maka gembirakanlah dia dengan azab yang pedih.
+Dan apabila dibacakan kepadanya[^647] ayat-ayat Kami, dia berpaling dengan menyombongkan diri seolah-olah dia belum mendengarnya, seakan-akan ada sumbatan di kedua telinganya, maka gembirakanlah dia dengan azab yang pedih.
 
-*647) Kepada orang yang mempergunakan cerita kosong untuk menyesatkan manusia.
+[^647]: Kepada orang yang mempergunakan cerita kosong untuk menyesatkan manusia.
 
 # 3477
 
@@ -15044,9 +15228,9 @@ Dan (ingatlah) ketika Lukman berkata kepada anaknya, ketika dia memberi pelajara
 
 # 3483
 
-Dan Kami perintahkan kepada manusia (agar berbuat baik) kepada kedua orang tuanya. Ibunya telah mengandungnya dalam keadaan lemah yang bertambah-tambah, dan menyapihnya dalam usia dua tahun.648) Bersyukurlah kepada-Ku dan kepada kedua orang tuamu. Hanya kepada Aku kembalimu.
+Dan Kami perintahkan kepada manusia (agar berbuat baik) kepada kedua orang tuanya. Ibunya telah mengandungnya dalam keadaan lemah yang bertambah-tambah, dan menyapihnya dalam usia dua tahun.[^648] Bersyukurlah kepada-Ku dan kepada kedua orang tuamu. Hanya kepada Aku kembalimu.
 
-*648) Selambat-lambat waktu menyapih ialah sampai anak berumur 2 tahun.
+[^648]: Selambat-lambat waktu menyapih ialah sampai anak berumur 2 tahun.
 
 # 3484
 
@@ -15054,9 +15238,9 @@ Dan jika keduanya memaksamu untuk mempersekutukan Aku dengan sesuatu yang engkau
 
 # 3485
 
-(Lukman berkata), "Wahai anakku! Sungguh, jika ada (suatu perbuatan) seberat biji sawi, dan berada dalam batu atau di langit atau di bumi, niscaya Allah akan memberinya (balasan). Sesungguhnya Allah Mahahalus,649) Mahateliti.
+(Lukman berkata), "Wahai anakku! Sungguh, jika ada (suatu perbuatan) seberat biji sawi, dan berada dalam batu atau di langit atau di bumi, niscaya Allah akan memberinya (balasan). Sesungguhnya Allah Mahahalus,[^649] Mahateliti.
 
-*649) "Allah Mahahalus" ialah ilmu Allah itu meliputi segala sesuatu bagaimanapun kecilnya.
+[^649]: "Allah Mahahalus" ialah ilmu Allah itu meliputi segala sesuatu bagaimanapun kecilnya.
 
 # 3486
 
@@ -15068,9 +15252,9 @@ Dan janganlah kamu memalingkan wajah dari manusia (karena sombong) dan janganlah
 
 # 3488
 
-Dan sederhanakanlah dalam berjalan650) dan lunakkanlah suaramu. Sesungguhnya seburuk-buruk suara ialah suara keledai."
+Dan sederhanakanlah dalam berjalan[^650] dan lunakkanlah suaramu. Sesungguhnya seburuk-buruk suara ialah suara keledai."
 
-*650) Ketika berjalan, janganlah terlampau cepat dan jangan pula terlalu lambat.
+[^650]: Ketika berjalan, janganlah terlampau cepat dan jangan pula terlalu lambat.
 
 # 3489
 
@@ -15102,9 +15286,9 @@ Milik Allah lah apa yang di langit dan di bumi. Sesungguhnya Allah, Dialah Yang 
 
 # 3496
 
-Dan seandainya pohon-pohon di bumi menjadi pena dan lautan (menjadi tinta), ditambahkan kepadanya tujuh lautan (lagi) setelah (kering)nya, niscaya tidak akan habis-habisnya (dituliskan) kalimat-kalimat Allah.651) Sesungguhnya Allah Mahaperkasa, Mahabijaksana.
+Dan seandainya pohon-pohon di bumi menjadi pena dan lautan (menjadi tinta), ditambahkan kepadanya tujuh lautan (lagi) setelah (kering)nya, niscaya tidak akan habis-habisnya (dituliskan) kalimat-kalimat Allah.[^651] Sesungguhnya Allah Mahaperkasa, Mahabijaksana.
 
-*651) Ilmu-Nya dan hikmah-Nya, artinya semua itu tidak cukup untuk menuliskan kalimat Allah.
+[^651]: Ilmu-Nya dan hikmah-Nya, artinya semua itu tidak cukup untuk menuliskan kalimat Allah.
 
 # 3497
 
@@ -15124,9 +15308,9 @@ Tidakkah engkau memperhatikan bahwa sesungguhnya kapal itu berlayar di laut deng
 
 # 3501
 
-Dan apabila mereka digulung ombak yang besar seperti gunung, mereka menyeru Allah dengan tulus ikhlas beragama kepada-Nya. Tetapi ketika Allah menyelamatkan mereka sampai di daratan, lalu sebagian mereka tetap menempuh jalan yang lurus.652) Adapun yang mengingkari ayat-ayat Kami hanyalah pengkhianat yang tidak berterima kasih.
+Dan apabila mereka digulung ombak yang besar seperti gunung, mereka menyeru Allah dengan tulus ikhlas beragama kepada-Nya. Tetapi ketika Allah menyelamatkan mereka sampai di daratan, lalu sebagian mereka tetap menempuh jalan yang lurus.[^652] Adapun yang mengingkari ayat-ayat Kami hanyalah pengkhianat yang tidak berterima kasih.
 
-*652) Jalan yang lurus ialah mengakui keesaan Allah.
+[^652]: Jalan yang lurus ialah mengakui keesaan Allah.
 
 # 3502
 
@@ -15134,9 +15318,9 @@ Wahai manusia! Bertakwalah kepada Tuhanmu dan takutlah pada hari yang (ketika it
 
 # 3503
 
-Sesungguhnya hanya di sisi Allah ilmu tentang hari Kiamat; dan Dia yang menurunkan hujan, dan mengetahui apa yang ada dalam rahim. Dan tidak ada seorang pun yang dapat mengetahui (dengan pasti) apa yang akan dikerjakannya besok.653) Dan tidak ada seorang pun yang dapat mengetahui di bumi mana dia akan mati. Sungguh, Allah Maha Mengetahui, Maha Mengenal.
+Sesungguhnya hanya di sisi Allah ilmu tentang hari Kiamat; dan Dia yang menurunkan hujan, dan mengetahui apa yang ada dalam rahim. Dan tidak ada seorang pun yang dapat mengetahui (dengan pasti) apa yang akan dikerjakannya besok.[^653] Dan tidak ada seorang pun yang dapat mengetahui di bumi mana dia akan mati. Sungguh, Allah Maha Mengetahui, Maha Mengenal.
 
-*653) Manusia itu tidak dapat mengetahui dengan pasti apa yang akan dikerjakannya besok atau yang akan diperolehnya, namun demikian mereka diwajibkan berusaha.
+[^653]: Manusia itu tidak dapat mengetahui dengan pasti apa yang akan dikerjakannya besok atau yang akan diperolehnya, namun demikian mereka diwajibkan berusaha.
 
 # 3504
 
@@ -15152,15 +15336,17 @@ Tetapi mengapa mereka (orang kafir) mengatakan, "Dia (Muhammad) telah mengada-ad
 
 # 3507
 
-Allah yang menciptakan langit dan bumi dan apa yang ada di antara keduanya dalam enam masa, kemudian Dia bersemayam di atas Arasy.654) Bagimu tidak ada seorang pun penolong maupun pemberi syafaat655) selain Dia. Maka apakah kamu tidak memperhatikan?
+Allah yang menciptakan langit dan bumi dan apa yang ada di antara keduanya dalam enam masa, kemudian Dia bersemayam di atas Arasy.[^654] Bagimu tidak ada seorang pun penolong maupun pemberi syafaat[^655] selain Dia. Maka apakah kamu tidak memperhatikan?
 
-*654) Bersemayam di atas Arasy ialah sifat Allah yang wajib kita imani, sesuai dengan kebesaran Allah dan kesucian-Nya. 655) Syafaat ialah pertolongan yang diberikan oleh rasul atau orang-orang tertentu untuk meringankan azab atau beban seseorang di akhirat.
+[^654]: Bersemayam di atas Arasy ialah sifat Allah yang wajib kita imani, sesuai dengan kebesaran Allah dan kesucian-Nya
+
+[^655]: Syafaat ialah pertolongan yang diberikan oleh rasul atau orang-orang tertentu untuk meringankan azab atau beban seseorang di akhirat.
 
 # 3508
 
-Dia mengatur segala urusan dari langit ke bumi, kemudian (urusan) itu naik kepada-Nya656) dalam satu hari yang kadarnya (lamanya) adalah seribu tahun menurut perhitunganmu.
+Dia mengatur segala urusan dari langit ke bumi, kemudian (urusan) itu naik kepada-Nya[^656] dalam satu hari yang kadarnya (lamanya) adalah seribu tahun menurut perhitunganmu.
 
-*656) Beritanya yang dibawa oleh malaikat. Ayat ini suatu tamsil bagi kebesaran Allah dan keagungan-Nya.
+[^656]: Beritanya yang dibawa oleh malaikat. Ayat ini suatu tamsil bagi kebesaran Allah dan keagungan-Nya.
 
 # 3509
 
@@ -15180,9 +15366,9 @@ Kemudian Dia menyempurnakannya dan meniupkan roh (ciptaan)-Nya ke dalam (tubuh)n
 
 # 3513
 
-Dan mereka berkata, "Apakah apabila kami telah lenyap (hancur) di dalam tanah, kami akan berada dalam ciptaan yang baru?"657) Bahkan mereka mengingkari pertemuan dengan Tuhannya.
+Dan mereka berkata, "Apakah apabila kami telah lenyap (hancur) di dalam tanah, kami akan berada dalam ciptaan yang baru?"[^657] Bahkan mereka mengingkari pertemuan dengan Tuhannya.
 
-*657) Dihidupkan kembali untuk menerima balasan Allah pada hari Kiamat.
+[^657]: Dihidupkan kembali untuk menerima balasan Allah pada hari Kiamat.
 
 # 3514
 
@@ -15202,15 +15388,15 @@ Maka rasakanlah olehmu (azab ini) disebabkan kamu melalaikan pertemuan dengan ha
 
 # 3518
 
-Orang-orang yang beriman dengan ayat-ayat Kami, hanyalah orang-orang yang apabila diperingatkan dengannya (ayat-ayat Kami), mereka menyungkur sujud658) dan bertasbih serta memuji Tuhannya, dan mereka tidak menyombongkan diri.
+Orang-orang yang beriman dengan ayat-ayat Kami, hanyalah orang-orang yang apabila diperingatkan dengannya (ayat-ayat Kami), mereka menyungkur sujud[^658] dan bertasbih serta memuji Tuhannya, dan mereka tidak menyombongkan diri.
 
-*658) Mereka sujud tunduk patuh kepada Allah serta khusyuk. Disunahkan mengerjakan sujud tilawah apabila membaca atau mendengar ayat-ayat sajdah seperti ini.
+[^658]: Mereka sujud tunduk patuh kepada Allah serta khusyuk. Disunahkan mengerjakan sujud tilawah apabila membaca atau mendengar ayat-ayat sajdah seperti ini.
 
 # 3519
 
-Lambung mereka jauh dari tempat tidurnya,659) mereka berdoa kepada Tuhannya dengan rasa takut dan penuh harap, dan mereka menginfakkan sebagian dari rezeki yang Kami berikan kepada mereka.
+Lambung mereka jauh dari tempat tidurnya,[^659] mereka berdoa kepada Tuhannya dengan rasa takut dan penuh harap, dan mereka menginfakkan sebagian dari rezeki yang Kami berikan kepada mereka.
 
-*659) Mereka tidak tidur pada waktu biasanya orang tidur, untuk mengerjakan salat malam.
+[^659]: Mereka tidak tidur pada waktu biasanya orang tidur, untuk mengerjakan salat malam.
 
 # 3520
 
@@ -15238,15 +15424,15 @@ Dan siapakah yang lebih zalim daripada orang yang telah diperingatkan dengan aya
 
 # 3526
 
-Dan sungguh, telah Kami anugerahkan Kitab (Taurat) kepada Musa, maka janganlah engkau (Muhammad) ragu-ragu menerimanya (Al-Qur`an) dan Kami jadikan Kitab (Taurat) itu petunjuk bagi Bani Israil.660)
+Dan sungguh, telah Kami anugerahkan Kitab (Taurat) kepada Musa, maka janganlah engkau (Muhammad) ragu-ragu menerimanya (Al-Qur`an) dan Kami jadikan Kitab (Taurat) itu petunjuk bagi Bani Israil.[^660]
 
-*660) Taurat telah diberikan kepada Nabi Musa -'alaihissalām-, dan pada masanya dijadikan petunjuk bagi Bani Israil. Begitu juga Al-Qur`an telah diberikan kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dan dijadikan petunjuk bagi umat Islam.
+[^660]: Taurat telah diberikan kepada Nabi Musa -'alaihissalām-, dan pada masanya dijadikan petunjuk bagi Bani Israil. Begitu juga Al-Qur`an telah diberikan kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dan dijadikan petunjuk bagi umat Islam.
 
 # 3527
 
-Dan Kami jadikan diantara mereka itu pemimpin-pemimpin yang memberi petunjuk dengan perintah Kami selama mereka sabar.661) Mereka meyakini ayat-ayat Kami.
+Dan Kami jadikan diantara mereka itu pemimpin-pemimpin yang memberi petunjuk dengan perintah Kami selama mereka sabar.[^661] Mereka meyakini ayat-ayat Kami.
 
-*661) "Sabar" ialah sabar dalam menegakkan kebenaran.
+[^661]: "Sabar" ialah sabar dalam menegakkan kebenaran.
 
 # 3528
 
@@ -15266,15 +15452,15 @@ Dan mereka bertanya, "Kapankah kemenangan itu (datang) jika engkau orang yang be
 
 # 3532
 
-Katakanlah, "Pada hari kemenangan662) itu, tidak berguna lagi bagi orang-orang kafir keimanan mereka dan mereka tidak diberi penangguhan."
+Katakanlah, "Pada hari kemenangan[^662] itu, tidak berguna lagi bagi orang-orang kafir keimanan mereka dan mereka tidak diberi penangguhan."
 
-*662) Hari kemenangan ialah hari Kiamat.
+[^662]: Hari kemenangan ialah hari Kiamat.
 
 # 3533
 
-Maka berpalinglah engkau dari mereka dan tunggulah, sesungguhnya mereka (juga) menunggu.663)
+Maka berpalinglah engkau dari mereka dan tunggulah, sesungguhnya mereka (juga) menunggu.[^663]
 
-*663) Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- bersama orang-orang mukmin disuruh menunggu kemenangan atas orang kafir dan kehancuran mereka.
+[^663]: Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- bersama orang-orang mukmin disuruh menunggu kemenangan atas orang kafir dan kehancuran mereka.
 
 # 3534
 
@@ -15290,45 +15476,47 @@ Dan bertawakallah kepada Allah. Dan cukuplah Allah sebagai Pemelihara.
 
 # 3537
 
-Allah tidak menjadikan bagi seseorang dua hati dalam rongganya; dan Dia tidak menjadikan istri-istrimu yang kamu zihar664) itu sebagai ibumu, dan Dia tidak menjadikan anak angkatmu sebagai anak kandungmu (sendiri). Yang demikian itu hanyalah perkataan di mulutmu saja. Allah mengatakan yang sebenarnya dan Dia menujukkan jalan (yang benar).
+Allah tidak menjadikan bagi seseorang dua hati dalam rongganya; dan Dia tidak menjadikan istri-istrimu yang kamu zihar[^664] itu sebagai ibumu, dan Dia tidak menjadikan anak angkatmu sebagai anak kandungmu (sendiri). Yang demikian itu hanyalah perkataan di mulutmu saja. Allah mengatakan yang sebenarnya dan Dia menujukkan jalan (yang benar).
 
-*664) Zihar ialah perkataan seorang suami kepada istrinya, "Punggungmu haram bagiku seperti punggung ibuku," atau perkataan lain yang sama maksudnya. Adalah menjadi adat kebiasaan orang Arab Jahiliah bahwa apabila dia berkata demikian kepada istrinya maka istrinya itu haram baginya untuk selama-lamanya. Tetapi setelah Islam datang, maka yang haram untuk selama-lamanya itu dihapuskan dan istri-istri itu kembali halal baginya dengan membayar kafarat (denda).
+[^664]: Zihar ialah perkataan seorang suami kepada istrinya, "Punggungmu haram bagiku seperti punggung ibuku," atau perkataan lain yang sama maksudnya. Adalah menjadi adat kebiasaan orang Arab Jahiliah bahwa apabila dia berkata demikian kepada istrinya maka istrinya itu haram baginya untuk selama-lamanya. Tetapi setelah Islam datang, maka yang haram untuk selama-lamanya itu dihapuskan dan istri-istri itu kembali halal baginya dengan membayar kafarat (denda).
 
 # 3538
 
-Panggillah mereka (anak angkat itu) dengan (memakai) nama bapak-bapak mereka; itulah yang adil di sisi Allah. Dan jika kamu tidak mengetahui bapak mereka, maka (panggillah mereka sebagai) saudara-saudaramu seagama dan maula-maulamu.665) Dan tidak ada dosa atasmu jika kamu khilaf tentang itu, tetapi (yang ada dosanya) apa yang disengaja oleh hatimu. Allah Maha Pengampun, Maha Penyayang.
+Panggillah mereka (anak angkat itu) dengan (memakai) nama bapak-bapak mereka; itulah yang adil di sisi Allah. Dan jika kamu tidak mengetahui bapak mereka, maka (panggillah mereka sebagai) saudara-saudaramu seagama dan maula-maulamu.[^665] Dan tidak ada dosa atasmu jika kamu khilaf tentang itu, tetapi (yang ada dosanya) apa yang disengaja oleh hatimu. Allah Maha Pengampun, Maha Penyayang.
 
-*665) Maula-maula ialah hamba sahaya yang sudah dimerdekakan atau seseorang yang telah dijadikan anak angkat, seperti Salim anak angkat Hużaifah, dipanggil Maula Hużaifah.
+[^665]: Maula-maula ialah hamba sahaya yang sudah dimerdekakan atau seseorang yang telah dijadikan anak angkat, seperti Salim anak angkat Hużaifah, dipanggil Maula Hużaifah.
 
 # 3539
 
-Nabi itu lebih utama bagi orang-orang mukmin dibandingkan diri mereka sendiri666) dan istri-istrinya adalah ibu-ibu mereka. Orang-orang yang mempunyai hubungan darah satu sama lain lebih berhak (waris-mewarisi) di dalam Kitab Allah daripada orang-orang mukmin dan orang-orang Muhajirin, kecuali kalau kamu hendak berbuat baik667) kepada saudara-saudaramu (seagama). Demikianlah telah tertulis dalam Kitab (Allah).
+Nabi itu lebih utama bagi orang-orang mukmin dibandingkan diri mereka sendiri[^666] dan istri-istrinya adalah ibu-ibu mereka. Orang-orang yang mempunyai hubungan darah satu sama lain lebih berhak (waris-mewarisi) di dalam Kitab Allah daripada orang-orang mukmin dan orang-orang Muhajirin, kecuali kalau kamu hendak berbuat baik[^667] kepada saudara-saudaramu (seagama). Demikianlah telah tertulis dalam Kitab (Allah).
 
-*666) Orang-orang mukmin itu mencintai Nabi mereka, lebih dari mencintai diri mereka sendiri dalam segala urusan. 667) Berbuat baik di sini ialah berwasiat yang tidak lebih dari sepertiga harta.
+[^666]: Orang-orang mukmin itu mencintai Nabi mereka, lebih dari mencintai diri mereka sendiri dalam segala urusan
+
+[^667]: Berbuat baik di sini ialah berwasiat yang tidak lebih dari sepertiga harta.
 
 # 3540
 
-Dan (ingatlah) ketika Kami mengambil perjanjian dari para nabi dan dari engkau (sendiri), dari Nuh, Ibrahim, Musa dan Isa putra Maryam, dan Kami telah mengambil dari mereka perjanjian yang teguh,668)
+Dan (ingatlah) ketika Kami mengambil perjanjian dari para nabi dan dari engkau (sendiri), dari Nuh, Ibrahim, Musa dan Isa putra Maryam, dan Kami telah mengambil dari mereka perjanjian yang teguh,[^668]
 
-*668) Kesanggupan menyampaikan agama kepada umatnya masing-masing.
+[^668]: Kesanggupan menyampaikan agama kepada umatnya masing-masing.
 
 # 3541
 
-agar Dia menanyakan kepada orang-orang yang benar tentang kebenaran mereka.669) Dia menyediakan azab yang pedih bagi orang-orang kafir.
+agar Dia menanyakan kepada orang-orang yang benar tentang kebenaran mereka.[^669] Dia menyediakan azab yang pedih bagi orang-orang kafir.
 
-*669) Pada hari Kiamat, Allah akan menanyakan kepada rasul-rasul sampai di mana usaha mereka menyampaikan ajaran-ajaran Allah kepada umatnya dan sampai di mana umatnya melaksanakan ajaran Allah itu.
+[^669]: Pada hari Kiamat, Allah akan menanyakan kepada rasul-rasul sampai di mana usaha mereka menyampaikan ajaran-ajaran Allah kepada umatnya dan sampai di mana umatnya melaksanakan ajaran Allah itu.
 
 # 3542
 
-Wahai orang-orang yang beriman! Ingatlah akan nikmat Allah (yang telah dikaruniakan) kepadamu ketika bala tentara datang kepadamu, lalu Kami kirimkan kepada mereka angin topan dan bala tentara yang tidak dapat terlihat olehmu.670) Allah Maha Melihat apa yang kamu kerjakan.
+Wahai orang-orang yang beriman! Ingatlah akan nikmat Allah (yang telah dikaruniakan) kepadamu ketika bala tentara datang kepadamu, lalu Kami kirimkan kepada mereka angin topan dan bala tentara yang tidak dapat terlihat olehmu.[^670] Allah Maha Melihat apa yang kamu kerjakan.
 
-*670) Ayat ini menerangkan kisah Ahzab yaitu golongan-golongan yang dihancurkan dalam perang Khandaq karena menentang Allah dan rasul-Nya. Yang dimaksud dengan bala tentara yang tidak dapat kamu lihat ialah para malaikat yang sengaja didatangkan Allah untuk menghancurkan musuh-musuh Allah itu.
+[^670]: Ayat ini menerangkan kisah Ahzab yaitu golongan-golongan yang dihancurkan dalam perang Khandaq karena menentang Allah dan rasul-Nya. Yang dimaksud dengan bala tentara yang tidak dapat kamu lihat ialah para malaikat yang sengaja didatangkan Allah untuk menghancurkan musuh-musuh Allah itu.
 
 # 3543
 
-(Yaitu) ketika mereka datang kepadamu dari atas dan dari bawahmu, dan ketika penglihatan(mu) terpana dan hatimu menyesak sampai ke tenggorokan671) dan kamu berprasangka yang bukan-bukan terhadap Allah.
+(Yaitu) ketika mereka datang kepadamu dari atas dan dari bawahmu, dan ketika penglihatan(mu) terpana dan hatimu menyesak sampai ke tenggorokan[^671] dan kamu berprasangka yang bukan-bukan terhadap Allah.
 
-*671) Menggambarkan bagaimana dahsyatnya perasaan takut dan perasaan gentar pada waktu itu.
+[^671]: Menggambarkan bagaimana dahsyatnya perasaan takut dan perasaan gentar pada waktu itu.
 
 # 3544
 
@@ -15376,15 +15564,15 @@ Sungguh, telah ada pada (diri) Rasulullah itu suri teladan yang baik bagimu (yai
 
 # 3555
 
-Dan ketika orang-orang mukmin melihat golongan-golongan (yang bersekutu) itu, mereka berkata, "Inilah yang dijanjikan Allah dan Rasul-Nya672) kepada kita." Dan benarlah Allah dan Rasul-Nya. Dan yang demikian itu menambah keimanan dan keislaman mereka.
+Dan ketika orang-orang mukmin melihat golongan-golongan (yang bersekutu) itu, mereka berkata, "Inilah yang dijanjikan Allah dan Rasul-Nya[^672] kepada kita." Dan benarlah Allah dan Rasul-Nya. Dan yang demikian itu menambah keimanan dan keislaman mereka.
 
-*672) Yang dijanjikan Allah dan Rasul itu ialah kemenangan setelah mengalami kesukaran.
+[^672]: Yang dijanjikan Allah dan Rasul itu ialah kemenangan setelah mengalami kesukaran.
 
 # 3556
 
-Di antara orang-orang mukmin itu ada orang-orang yang menepati apa yang telah mereka janjikan kepada Allah. Dan di antara mereka ada yang gugur, dan di antara mereka ada (pula) yang menunggu-nunggu673) dan mereka sedikit pun tidak mengubah (janjinya).
+Di antara orang-orang mukmin itu ada orang-orang yang menepati apa yang telah mereka janjikan kepada Allah. Dan di antara mereka ada yang gugur, dan di antara mereka ada (pula) yang menunggu-nunggu[^673] dan mereka sedikit pun tidak mengubah (janjinya).
 
-*673) Menunggu apa yang telah Allah janjikan kepadanya.
+[^673]: Menunggu apa yang telah Allah janjikan kepadanya.
 
 # 3557
 
@@ -15392,21 +15580,21 @@ Agar Allah memberikan balasan kepada orang-orang yang benar itu karena kebenaran
 
 # 3558
 
-Dan Allah menghalau orang-orang kafir itu yang mereka penuh memendam kejengkelan, karena mereka (juga) tidak memperoleh keuntungan apa pun. Cukuplah Allah (yang menolong) menghindarkan orang-orang mukmin dalam peperangan.674) Dan Allah Mahakuat, Mahaperkasa.
+Dan Allah menghalau orang-orang kafir itu yang mereka penuh memendam kejengkelan, karena mereka (juga) tidak memperoleh keuntungan apa pun. Cukuplah Allah (yang menolong) menghindarkan orang-orang mukmin dalam peperangan.[^674] Dan Allah Mahakuat, Mahaperkasa.
 
-*674) Dalam Perang Khandaq, orang mukmin tidak berperang, karena Allah telah menghalau mereka dengan mengirimkan angin dan malaikat.
+[^674]: Dalam Perang Khandaq, orang mukmin tidak berperang, karena Allah telah menghalau mereka dengan mengirimkan angin dan malaikat.
 
 # 3559
 
-Dan Dia menurunkan orang-orang Ahli Kitab (Bani Quraiẓah) yang membantu mereka (golongan-golongan yang bersekutu) dari benteng-benteng mereka, dan Dia memasukkan rasa takut ke dalam hati mereka. Sebagian mereka kamu bunuh dan sebagian yang lain kamu tawan.675)
+Dan Dia menurunkan orang-orang Ahli Kitab (Bani Quraiẓah) yang membantu mereka (golongan-golongan yang bersekutu) dari benteng-benteng mereka, dan Dia memasukkan rasa takut ke dalam hati mereka. Sebagian mereka kamu bunuh dan sebagian yang lain kamu tawan.[^675]
 
-*675) Setelah golongan-golongan yang bersekutu itu kocar-kacir, maka Allah memerintahkan Nabi -ṣallallāhu 'alaihi wa sallam- untuk menghancurkan Bani Quraiẓah (salah satu kabilah Yahudi di Madinah) dan menghalau mereka dari benteng-benteng mereka, kemudian seluruh laki-laki yang ikut berperang dibunuh, perempuan dan anak-anak ditawan.
+[^675]: Setelah golongan-golongan yang bersekutu itu kocar-kacir, maka Allah memerintahkan Nabi -ṣallallāhu 'alaihi wa sallam- untuk menghancurkan Bani Quraiẓah (salah satu kabilah Yahudi di Madinah) dan menghalau mereka dari benteng-benteng mereka, kemudian seluruh laki-laki yang ikut berperang dibunuh, perempuan dan anak-anak ditawan.
 
 # 3560
 
-Dan Dia mewariskan kepadamu tanah-tanah, rumah-rumah dan harta benda mereka, dan (begitu pula) tanah yang belum kamu injak.676) Dan Allah Mahakuasa terhadap segala sesuatu.
+Dan Dia mewariskan kepadamu tanah-tanah, rumah-rumah dan harta benda mereka, dan (begitu pula) tanah yang belum kamu injak.[^676] Dan Allah Mahakuasa terhadap segala sesuatu.
 
-*676) Tanah-tanah yang akan dimasuki oleh tentara Islam.
+[^676]: Tanah-tanah yang akan dimasuki oleh tentara Islam.
 
 # 3561
 
@@ -15426,15 +15614,21 @@ Dan barangsiapa di antara kamu (istri-istri Nabi) tetap taat kepada Allah dan Ra
 
 # 3565
 
-Wahai istri-istri Nabi! Kamu tidak seperti perempuan-perempuan yang lain, jika kamu bertakwa. Maka janganlah kamu tunduk (melemah lembutkan suara)677) dalam berbicara sehingga bangkit nafsu orang yang ada penyakit dalam hatinya,678) dan ucapkanlah perkataan yang baik,
+Wahai istri-istri Nabi! Kamu tidak seperti perempuan-perempuan yang lain, jika kamu bertakwa. Maka janganlah kamu tunduk (melemah lembutkan suara)[^677] dalam berbicara sehingga bangkit nafsu orang yang ada penyakit dalam hatinya,[^678] dan ucapkanlah perkataan yang baik,
 
-*677) Berbicara dengan sikap yang menimbulkan orang bertindak yang tidak baik terhadap mereka. 678) Orang yang mempunyai niat berbuat serong dengan perempuan seperti melakukan zina.
+[^677]: Berbicara dengan sikap yang menimbulkan orang bertindak yang tidak baik terhadap mereka
+
+[^678]: Orang yang mempunyai niat berbuat serong dengan perempuan seperti melakukan zina.
 
 # 3566
 
-Dan hendaklah kamu tetap di rumahmu679) dan janganlah kamu berhias dan (bertingkah laku) seperti orang-orang jahiliah dahulu,680) dan laksanakanlah salat, tunaikanlah zakat dan taatilah Allah dan Rasul-Nya. Sesungguhnya Allah bermaksud hendak menghilangkan dosa dari kamu, wahai ahlulbait681) dan membersihkan kamu sebersih-bersihnya.
+Dan hendaklah kamu tetap di rumahmu[^679] dan janganlah kamu berhias dan (bertingkah laku) seperti orang-orang jahiliah dahulu,[^680] dan laksanakanlah salat, tunaikanlah zakat dan taatilah Allah dan Rasul-Nya. Sesungguhnya Allah bermaksud hendak menghilangkan dosa dari kamu, wahai ahlulbait[^681] dan membersihkan kamu sebersih-bersihnya.
 
-*679) Istri-istri Rasul agar tetap dirumah, dan keluar rumah bila ada keperluan yang dibenarkan oleh syarak. 680) "Jahiliah dahulu" ialah jahiliah kekafiran yang terdapat sebelum zaman Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-. Dan yang dimaksud dengan "jahiliah sekarang" ialah jahiliah kemaksiatan, yang terjadi setelah datangnya Islam. 681) Ahlulbait yaitu keluarga Rasulullah -ṣallallāhu 'alaihi wa sallam-.
+[^679]: Istri-istri Rasul agar tetap dirumah, dan keluar rumah bila ada keperluan yang dibenarkan oleh syarak
+
+[^680]: "Jahiliah dahulu" ialah jahiliah kekafiran yang terdapat sebelum zaman Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-. Dan yang dimaksud dengan "jahiliah sekarang" ialah jahiliah kemaksiatan, yang terjadi setelah datangnya Islam
+
+[^681]: Ahlulbait yaitu keluarga Rasulullah -ṣallallāhu 'alaihi wa sallam-.
 
 # 3567
 
@@ -15450,9 +15644,9 @@ Dan tidaklah pantas bagi laki-laki yang mukmin dan perempuan yang mukmin, apabil
 
 # 3570
 
-Dan (ingatlah), ketika engkau (Muhammad) berkata kepada orang yang telah diberi nikmat oleh Allah dan engkau (juga) telah memberi nikmat kepadanya, "Pertahankanlah terus istrimu dan bertakwalah kepada Allah," sedang engkau menyembunyikan di dalam hatimu apa yang akan ditampakkan oleh Allah, dan engkau takut kepada manusia, padahal Allah lebih berhak engkau takuti. Maka ketika Zaid telah mengakhiri keperluan terhadap istrinya (menceraikannya), Kami nikahkan engkau dengan dia (Zainab)682) agar tidak ada keberatan bagi orang mukmin untuk (menikahi) istri-istri anak-anak angkat mereka, apabila anak-anak angkat itu telah menyelesaikan keperluannya terhadap istrinya. Dan ketetapan Allah itu pasti terjadi.
+Dan (ingatlah), ketika engkau (Muhammad) berkata kepada orang yang telah diberi nikmat oleh Allah dan engkau (juga) telah memberi nikmat kepadanya, "Pertahankanlah terus istrimu dan bertakwalah kepada Allah," sedang engkau menyembunyikan di dalam hatimu apa yang akan ditampakkan oleh Allah, dan engkau takut kepada manusia, padahal Allah lebih berhak engkau takuti. Maka ketika Zaid telah mengakhiri keperluan terhadap istrinya (menceraikannya), Kami nikahkan engkau dengan dia (Zainab)[^682] agar tidak ada keberatan bagi orang mukmin untuk (menikahi) istri-istri anak-anak angkat mereka, apabila anak-anak angkat itu telah menyelesaikan keperluannya terhadap istrinya. Dan ketetapan Allah itu pasti terjadi.
 
-*682) Setelah habis idahnya.
+[^682]: Setelah habis idahnya.
 
 # 3571
 
@@ -15460,15 +15654,15 @@ Tidak ada keberatan apa pun pada Nabi tentang apa yang telah ditetapkan Allah ba
 
 # 3572
 
-(yaitu) orang-orang yang menyampaikan risalah-risalah Allah,683) mereka takut kepada-Nya dan tidak merasa takut kepada siapa pun selain kepada Allah. Dan cukuplah Allah sebagai pembuat perhitungan.
+(yaitu) orang-orang yang menyampaikan risalah-risalah Allah,[^683] mereka takut kepada-Nya dan tidak merasa takut kepada siapa pun selain kepada Allah. Dan cukuplah Allah sebagai pembuat perhitungan.
 
-*683) Para rasul yang menyampaikan syariat-syariat Allah kepada manusia.
+[^683]: Para rasul yang menyampaikan syariat-syariat Allah kepada manusia.
 
 # 3573
 
-Muhammad itu bukanlah bapak dari seseorang di antara kamu,684) tetapi dia adalah utusan Allah dan penutup para nabi. Dan Allah Maha Mengetahui segala sesuatu.
+Muhammad itu bukanlah bapak dari seseorang di antara kamu,[^684] tetapi dia adalah utusan Allah dan penutup para nabi. Dan Allah Maha Mengetahui segala sesuatu.
 
-*684) Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- bukanlah ayah dari salah seorang sahabat, karena itu janda Zaid (Zainab) dapat dinikahi oleh Rasulullah -ṣallallāhu 'alaihi wa sallam-.
+[^684]: Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- bukanlah ayah dari salah seorang sahabat, karena itu janda Zaid (Zainab) dapat dinikahi oleh Rasulullah -ṣallallāhu 'alaihi wa sallam-.
 
 # 3574
 
@@ -15484,9 +15678,9 @@ Dialah yang memberi rahmat kepadamu dan para malaikat-Nya (memohonkan ampunan un
 
 # 3577
 
-Penghormatan mereka (orang-orang mukmin itu) ketika mereka menemui-Nya ialah, "Salam,"685) dan Dia menyediakan pahala yang mulia bagi mereka.
+Penghormatan mereka (orang-orang mukmin itu) ketika mereka menemui-Nya ialah, "Salam,"[^685] dan Dia menyediakan pahala yang mulia bagi mereka.
 
-*685) Sejahtera dari segala bencana.
+[^685]: Sejahtera dari segala bencana.
 
 # 3578
 
@@ -15514,9 +15708,9 @@ Wahai Nabi! Sesungguhnya Kami telah menghalalkan bagimu istri-istrimu yang telah
 
 # 3584
 
-Engkau boleh menangguhkan (menggauli) siapa yang engkau kehendaki di antara mereka (para istrimu) dan (boleh pula) menggauli siapa (di antara mereka) yang engkau kehendaki. Dan siapa yang engkau ingini untuk menggaulinya kembali dari istri-istrimu yang telah engkau sisihkan, maka tidak ada dosa bagimu. Yang demikian itu lebih dekat untuk ketenangan hati mereka, dan mereka tidak merasa sedih, dan mereka rela dengan apa yang telah engkau berikan kepada mereka semuanya. Dan Allah mengetahui apa yang (tersimpan) dalam hatimu. Dan Allah Maha Mengetahui, Maha Penyantun.686)
+Engkau boleh menangguhkan (menggauli) siapa yang engkau kehendaki di antara mereka (para istrimu) dan (boleh pula) menggauli siapa (di antara mereka) yang engkau kehendaki. Dan siapa yang engkau ingini untuk menggaulinya kembali dari istri-istrimu yang telah engkau sisihkan, maka tidak ada dosa bagimu. Yang demikian itu lebih dekat untuk ketenangan hati mereka, dan mereka tidak merasa sedih, dan mereka rela dengan apa yang telah engkau berikan kepada mereka semuanya. Dan Allah mengetahui apa yang (tersimpan) dalam hatimu. Dan Allah Maha Mengetahui, Maha Penyantun.[^686]
 
-*686) Menurut riwayat, pada suatu ketika istri-istri Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- ada yang cemburu, dan ada yang meminta tambahan belanja. Maka Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- memutuskan hubungan dengan mereka sampai sebulan lamanya. Oleh karena takut diceraikan Nabi, maka mereka datang kepada Nabi menyatakan kerelaannya atas apa saja yang akan diperbuat Nabi terhadap mereka. Turunnya ayat ini memberikan izin kepada Nabi untuk menggauli siapa yang dikehendakinya dari istri-istrinya atau tidak menggaulinya; dan juga memberi izin kepada Nabi untuk rujuk kepada istri-istrinya sekiranya ada istrinya yang sudah diceraikannya.
+[^686]: Menurut riwayat, pada suatu ketika istri-istri Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- ada yang cemburu, dan ada yang meminta tambahan belanja. Maka Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- memutuskan hubungan dengan mereka sampai sebulan lamanya. Oleh karena takut diceraikan Nabi, maka mereka datang kepada Nabi menyatakan kerelaannya atas apa saja yang akan diperbuat Nabi terhadap mereka. Turunnya ayat ini memberikan izin kepada Nabi untuk menggauli siapa yang dikehendakinya dari istri-istrinya atau tidak menggaulinya; dan juga memberi izin kepada Nabi untuk rujuk kepada istri-istrinya sekiranya ada istrinya yang sudah diceraikannya.
 
 # 3585
 
@@ -15524,9 +15718,9 @@ Tidak halal bagimu (Muhammad) menikahi perempuan-perempuan (lain) setelah itu, d
 
 # 3586
 
-Wahai orang-orang yang beriman! Janganlah kamu memasuki rumah-rumah Nabi kecuali jika kamu diizinkan untuk makan tanpa menunggu waktu masak (makanannya),687) tetapi jika kamu dipanggil maka masuklah dan apabila kamu selesai makan, keluarlah kamu tanpa memperpanjang percakapan. Sesungguhnya yang demikian itu adalah mengganggu Nabi sehingga dia (Nabi) malu kepadamu (untuk menyuruhmu keluar), dan Allah tidak malu (menerangkan) yang benar. Apabila kamu meminta sesuatu (keperluan) kepada mereka (istri-istri Nabi), maka mintalah dari balik tabir. (Cara) yang demikian itu lebih suci bagi hatimu dan hati mereka. Dan tidak boleh kamu menyakiti (hati) Rasulullah dan tidak boleh (pula) menikahi istri-istrinya selama-lamanya setelahnya (Nabi wafat). Sungguh, yang demikian itu sangat besar (dosanya) di sisi Allah.
+Wahai orang-orang yang beriman! Janganlah kamu memasuki rumah-rumah Nabi kecuali jika kamu diizinkan untuk makan tanpa menunggu waktu masak (makanannya),[^687] tetapi jika kamu dipanggil maka masuklah dan apabila kamu selesai makan, keluarlah kamu tanpa memperpanjang percakapan. Sesungguhnya yang demikian itu adalah mengganggu Nabi sehingga dia (Nabi) malu kepadamu (untuk menyuruhmu keluar), dan Allah tidak malu (menerangkan) yang benar. Apabila kamu meminta sesuatu (keperluan) kepada mereka (istri-istri Nabi), maka mintalah dari balik tabir. (Cara) yang demikian itu lebih suci bagi hatimu dan hati mereka. Dan tidak boleh kamu menyakiti (hati) Rasulullah dan tidak boleh (pula) menikahi istri-istrinya selama-lamanya setelahnya (Nabi wafat). Sungguh, yang demikian itu sangat besar (dosanya) di sisi Allah.
 
-*687) Ayat ini melarang sahabat masuk ke rumah Rasulullah untuk makan sambil menunggu-nunggu waktu makannya Rasulullah.
+[^687]: Ayat ini melarang sahabat masuk ke rumah Rasulullah untuk makan sambil menunggu-nunggu waktu makannya Rasulullah.
 
 # 3587
 
@@ -15538,9 +15732,11 @@ Tidak ada dosa atas istri-istri Nabi (untuk berjumpa tanpa tabir) dengan bapak-b
 
 # 3589
 
-Sesungguhnya Allah dan para malaikat-Nya berselawat untuk Nabi.688) Wahai orang-orang yang beriman! Berselawatlah kamu untuk Nabi dan ucapkanlah salam dengan penuh penghormatan kepadanya.689)
+Sesungguhnya Allah dan para malaikat-Nya berselawat untuk Nabi.[^688] Wahai orang-orang yang beriman! Berselawatlah kamu untuk Nabi dan ucapkanlah salam dengan penuh penghormatan kepadanya.[^689]
 
-*688) Selawat dari Allah berarti memberi rahmat; dari malaikat memohonkan ampunan dan kalau dari orang-orang mukmin berarti berdoa agar diberi rahmat seperti dengan perkataan, Allāhumma salli 'alā Muhammad. 689) Dengan mengucapkan perkataan seperti Assalāmu'alaika ayyuhan Nabi, artinya semoga keselamatan kepadamu wahai Nabi.
+[^688]: Selawat dari Allah berarti memberi rahmat; dari malaikat memohonkan ampunan dan kalau dari orang-orang mukmin berarti berdoa agar diberi rahmat seperti dengan perkataan, Allāhumma salli 'alā Muhammad
+
+[^689]: Dengan mengucapkan perkataan seperti Assalāmu'alaika ayyuhan Nabi, artinya semoga keselamatan kepadamu wahai Nabi.
 
 # 3590
 
@@ -15552,9 +15748,9 @@ Dan orang-orang yang menyakiti orang-orang mukmin laki-laki dan perempuan, tanpa
 
 # 3592
 
-Wahai Nabi! Katakanlah kepada istri-istrimu, anak-anak perempuanmu dan istri-istri orang mukmin, "Hendaklah mereka menutupkan jilbabnya690) ke seluruh tubuh mereka." Yang demikian itu agar mereka lebih mudah untuk dikenali, sehingga mereka tidak diganggu. Dan Allah Maha Pengampun, Maha Penyayang.
+Wahai Nabi! Katakanlah kepada istri-istrimu, anak-anak perempuanmu dan istri-istri orang mukmin, "Hendaklah mereka menutupkan jilbabnya[^690] ke seluruh tubuh mereka." Yang demikian itu agar mereka lebih mudah untuk dikenali, sehingga mereka tidak diganggu. Dan Allah Maha Pengampun, Maha Penyayang.
 
-*690) Jilbab ialah sejenis baju kurung lapang yang dapat menutup kepala, wajah dan dada.
+[^690]: Jilbab ialah sejenis baju kurung lapang yang dapat menutup kepala, wajah dan dada.
 
 # 3593
 
@@ -15622,9 +15818,9 @@ Dia mengetahui apa yang masuk ke dalam bumi, apa yang keluar darinya, apa yang t
 
 # 3609
 
-Dan orang-orang yang kafir berkata, "Hari Kiamat itu tidak akan datang kepada kami." Katakanlah, "Pasti datang, demi Tuhanku Yang mengetahui yang gaib, Kiamat itu pasti akan datang kepadamu. Tidak ada yang tersembunyi bagi-Nya sekalipun seberat zarah691)baik yang di langit maupun yang di bumi, yang lebih kecil dari itu atau yang lebih besar, semuanya (tertulis) dalam Kitab yang jelas (Lauḥ Maḥfūẓ),"
+Dan orang-orang yang kafir berkata, "Hari Kiamat itu tidak akan datang kepada kami." Katakanlah, "Pasti datang, demi Tuhanku Yang mengetahui yang gaib, Kiamat itu pasti akan datang kepadamu. Tidak ada yang tersembunyi bagi-Nya sekalipun seberat zarah[^691]baik yang di langit maupun yang di bumi, yang lebih kecil dari itu atau yang lebih besar, semuanya (tertulis) dalam Kitab yang jelas (Lauḥ Maḥfūẓ),"
 
-*691) Zarah adalah jenis yang terkecil dari semut. Orang Arab mengungkapkan sesuatu yang paling kecil dengan sebutan zarah.
+[^691]: Zarah adalah jenis yang terkecil dari semut. Orang Arab mengungkapkan sesuatu yang paling kecil dengan sebutan zarah.
 
 # 3610
 
@@ -15640,9 +15836,9 @@ Dan orang-orang yang diberi ilmu (Ahli Kitab) berpendapat bahwa (wahyu) yang dit
 
 # 3613
 
-Dan orang-orang kafir berkata (kepada teman-temannya), "Maukah kami tunjukkan kepadamu seorang laki-laki692) yang memberitakan kepadamu bahwa apabila badanmu telah hancur sehancur-hancurnya, kamu pasti (akan dibangkitkan kembali) dalam ciptaan yang baru.
+Dan orang-orang kafir berkata (kepada teman-temannya), "Maukah kami tunjukkan kepadamu seorang laki-laki[^692] yang memberitakan kepadamu bahwa apabila badanmu telah hancur sehancur-hancurnya, kamu pasti (akan dibangkitkan kembali) dalam ciptaan yang baru.
 
-*692) Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- sebagai penghinaan mereka terhadapnya.
+[^692]: Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- sebagai penghinaan mereka terhadapnya.
 
 # 3614
 
@@ -15662,9 +15858,9 @@ Dan sungguh, telah Kami berikan kepada Dawud karunia dari Kami. (Kami berfirman)
 
 # 3618
 
-Dan Kami (tundukkan) angin bagi Sulaiman, yang perjalanannya pada waktu pagi sama dengan perjalanan sebulan dan perjalanannya pada waktu sore sama dengan perjalanan sebulan (pula)693) dan Kami alirkan cairan tembaga baginya. Dan sebagian dari jin ada yang bekerja di hadapannya (di bawah kekuasaannya) dengan izin Tuhannya. Dan siapa yang menyimpang di antara mereka dari perintah Kami, Kami rasakan kepadanya azab neraka yang apinya menyala-nyala.
+Dan Kami (tundukkan) angin bagi Sulaiman, yang perjalanannya pada waktu pagi sama dengan perjalanan sebulan dan perjalanannya pada waktu sore sama dengan perjalanan sebulan (pula)[^693] dan Kami alirkan cairan tembaga baginya. Dan sebagian dari jin ada yang bekerja di hadapannya (di bawah kekuasaannya) dengan izin Tuhannya. Dan siapa yang menyimpang di antara mereka dari perintah Kami, Kami rasakan kepadanya azab neraka yang apinya menyala-nyala.
 
-*693) Bila Nabi Sulaiman -'alaihissalām- mengadakan perjalanan dari pagi sampai tengah hari, maka jarak yang ditempuhnya sama dengan jarak perjalanan unta yang cepat dalam sebulan. Begitu pula apabila dia mengadakan perjalanan dari tengah hari sampai sore, maka kecepatannya sama dengan perjalanan sebulan.
+[^693]: Bila Nabi Sulaiman -'alaihissalām- mengadakan perjalanan dari pagi sampai tengah hari, maka jarak yang ditempuhnya sama dengan jarak perjalanan unta yang cepat dalam sebulan. Begitu pula apabila dia mengadakan perjalanan dari tengah hari sampai sore, maka kecepatannya sama dengan perjalanan sebulan.
 
 # 3619
 
@@ -15680,9 +15876,11 @@ Sungguh, bagi kaum Saba` ada tanda (kebesaran Tuhan) di tempat kediaman mereka y
 
 # 3622
 
-Tetapi mereka berpaling, maka Kami kirim kepada mereka banjir yang besar694) dan Kami ganti kedua kebun mereka dengan dua kebun yang ditumbuhi (pohon-pohon) yang berbuah pahit, pohon Aṡl dan sedikit pohon Sidr.695)
+Tetapi mereka berpaling, maka Kami kirim kepada mereka banjir yang besar[^694] dan Kami ganti kedua kebun mereka dengan dua kebun yang ditumbuhi (pohon-pohon) yang berbuah pahit, pohon Aṡl dan sedikit pohon Sidr.[^695]
 
-*694) Banjir besar yang disebabkan runtuhnya bendungan Ma`rib. 695) Pohon Aṡl ialah sejenis pohon cemara, pohon Sidr ialah sejenis pohon bidara.
+[^694]: Banjir besar yang disebabkan runtuhnya bendungan Ma`rib
+
+[^695]: Pohon Aṡl ialah sejenis pohon cemara, pohon Sidr ialah sejenis pohon bidara.
 
 # 3623
 
@@ -15690,15 +15888,15 @@ Demikianlah Kami memberi balasan kepada mereka karena kekafiran mereka. Dan Kami
 
 # 3624
 
-Dan Kami jadikan antara mereka (penduduk Saba`) dan negeri-negeri yang Kami berkahi (Syam), beberapa negeri yang berdekatan dan Kami tetapkan antara negeri-negeri itu (jarak-jarak) perjalanan. Berjalanlah kamu di negeri-negeri itu pada malam dan siang hari dengan aman.696)
+Dan Kami jadikan antara mereka (penduduk Saba`) dan negeri-negeri yang Kami berkahi (Syam), beberapa negeri yang berdekatan dan Kami tetapkan antara negeri-negeri itu (jarak-jarak) perjalanan. Berjalanlah kamu di negeri-negeri itu pada malam dan siang hari dengan aman.[^696]
 
-*696) Negeri yang berada di Syam, karena kesuburannya, dan negeri-negeri yang berdekatan ialah negeri-negeri antara Yaman dan Syam, sehingga orang-orang dapat berjalan dengan aman pada siang dan malam tanpa terpaksa berhenti di padang pasir dan tanpa mendapat kesulitan.
+[^696]: Negeri yang berada di Syam, karena kesuburannya, dan negeri-negeri yang berdekatan ialah negeri-negeri antara Yaman dan Syam, sehingga orang-orang dapat berjalan dengan aman pada siang dan malam tanpa terpaksa berhenti di padang pasir dan tanpa mendapat kesulitan.
 
 # 3625
 
-Maka mereka berkata, "Ya Tuhan kami, jauhkanlah jarak perjalanan kami,"697) dan (berarti mereka) menzalimi diri mereka sendiri; maka Kami jadikan mereka bahan pembicaraan dan Kami hancurkan mereka sehancur-hancurnya. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda (kekuasaan Allah) bagi setiap orang yang sabar dan bersyukur.
+Maka mereka berkata, "Ya Tuhan kami, jauhkanlah jarak perjalanan kami,"[^697] dan (berarti mereka) menzalimi diri mereka sendiri; maka Kami jadikan mereka bahan pembicaraan dan Kami hancurkan mereka sehancur-hancurnya. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda (kekuasaan Allah) bagi setiap orang yang sabar dan bersyukur.
 
-*697) Agar kota-kota yang berdekatan itu dihapuskan, agar perjalanan menjadi panjang dan mereka dapat melakukan monopoli dalam perdagangan itu, sehingga keuntungan lebih besar.
+[^697]: Agar kota-kota yang berdekatan itu dihapuskan, agar perjalanan menjadi panjang dan mereka dapat melakukan monopoli dalam perdagangan itu, sehingga keuntungan lebih besar.
 
 # 3626
 
@@ -15714,9 +15912,9 @@ Katakanlah (Muhammad), "Serulah mereka yang kamu anggap (sebagai tuhan) selain A
 
 # 3629
 
-Dan syafaat (pertolongan) di sisi-Nya hanya berguna bagi orang yang telah diizinkan-Nya (memperoleh syafaat itu). Sehingga apabila telah dihilangkan ketakutan dari hati mereka, mereka berkata, "Apakah yang telah difirmankan oleh Tuhanmu?" Mereka menjawab, "(Perkataan) yang benar," dan Dialah Yang Mahatinggi, Mahabesar.698)
+Dan syafaat (pertolongan) di sisi-Nya hanya berguna bagi orang yang telah diizinkan-Nya (memperoleh syafaat itu). Sehingga apabila telah dihilangkan ketakutan dari hati mereka, mereka berkata, "Apakah yang telah difirmankan oleh Tuhanmu?" Mereka menjawab, "(Perkataan) yang benar," dan Dialah Yang Mahatinggi, Mahabesar.[^698]
 
-*698) Ayat ini menerangkan bahwa pemberian syafaat (pertolongan) hanya dapat berlaku dengan izin Allah. Orang-orang yang akan diberi izin memberi syafaat dan orang-orang yang akan mendapat syafaat merasa takut dan harap-harap cemas atas izin Allah.
+[^698]: Ayat ini menerangkan bahwa pemberian syafaat (pertolongan) hanya dapat berlaku dengan izin Allah. Orang-orang yang akan diberi izin memberi syafaat dan orang-orang yang akan mendapat syafaat merasa takut dan harap-harap cemas atas izin Allah.
 
 # 3630
 
@@ -15764,9 +15962,9 @@ Dan setiap Kami mengutus seorang pemberi peringatan kepada suatu negeri, orang-o
 
 # 3641
 
-Dan mereka berkata, "Kami memiliki lebih banyak harta dan anak-anak (daripada kamu) dan kami tidak akan diazab."699)
+Dan mereka berkata, "Kami memiliki lebih banyak harta dan anak-anak (daripada kamu) dan kami tidak akan diazab."[^699]
 
-*699) Oleh karena orang-orang kafir itu mendapat nikmat yang besar di dunia, maka mereka merasa bahwa mereka dikasihi Allah dan tidak akan diazab di akhirat.
+[^699]: Oleh karena orang-orang kafir itu mendapat nikmat yang besar di dunia, maka mereka merasa bahwa mereka dikasihi Allah dan tidak akan diazab di akhirat.
 
 # 3642
 
@@ -15790,9 +15988,9 @@ Dan (ingatlah) pada hari (ketika) Allah mengumpulkan mereka semuanya kemudian Di
 
 # 3647
 
-Para malaikat itu menjawab, "Mahasuci Engkau. Engkaulah pelindung kami, bukan mereka; bahkan mereka telah menyembah jin;700) kebanyakan mereka beriman kepada jin."
+Para malaikat itu menjawab, "Mahasuci Engkau. Engkaulah pelindung kami, bukan mereka; bahkan mereka telah menyembah jin;[^700] kebanyakan mereka beriman kepada jin."
 
-*700) Jin yang durhaka yaitu setan.
+[^700]: Jin yang durhaka yaitu setan.
 
 # 3648
 
@@ -15808,21 +16006,21 @@ Dan Kami tidak pernah memberikan kepada mereka kitab-kitab yang mereka baca dan 
 
 # 3651
 
-Dan orang-orang yang sebelum mereka telah mendustakan (para rasul) sedang orang-orang (kafir Mekkah) itu belum sampai menerima sepersepuluh dari apa701) yang telah Kami berikan kepada orang-orang terdahulu, namun mereka mendustakan para rasul-Ku. Maka (lihatlah) bagaimana dahsyatnya akibat kemurkaan-Ku.
+Dan orang-orang yang sebelum mereka telah mendustakan (para rasul) sedang orang-orang (kafir Mekkah) itu belum sampai menerima sepersepuluh dari apa[^701] yang telah Kami berikan kepada orang-orang terdahulu, namun mereka mendustakan para rasul-Ku. Maka (lihatlah) bagaimana dahsyatnya akibat kemurkaan-Ku.
 
-*701) Pemberian Allah tentang kepandaian ilmu pengetahuan, umur panjang, kekuatan jasmani, kekayaan harta benda dan lain sebagainya.
+[^701]: Pemberian Allah tentang kepandaian ilmu pengetahuan, umur panjang, kekuatan jasmani, kekayaan harta benda dan lain sebagainya.
 
 # 3652
 
-Katakanlah, "Aku hendak memperingatkan kepadamu satu hal saja, yaitu agar kamu menghadap Allah (dengan ikhlas) berdua-dua atau sendiri-sendiri;702) kemudian agar kamu pikirkan (tentang Muhammad). Kawanmu itu tidak gila sedikit pun. Dia tidak lain hanyalah seorang pemberi peringatan bagi kamu sebelum (menghadapi) azab yang keras."
+Katakanlah, "Aku hendak memperingatkan kepadamu satu hal saja, yaitu agar kamu menghadap Allah (dengan ikhlas) berdua-dua atau sendiri-sendiri;[^702] kemudian agar kamu pikirkan (tentang Muhammad). Kawanmu itu tidak gila sedikit pun. Dia tidak lain hanyalah seorang pemberi peringatan bagi kamu sebelum (menghadapi) azab yang keras."
 
-*702) “Berdua-dua atau sendiri-sendiri” maksudnya ialah bahwa dalam menghadap kepada Allah, kemudian merenungkan keadaan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- sebaiknya dilakukan dalam keadaan suasana tenang, dan ini tidak dapat dilakukan dalam keadaan beramai-ramai.
+[^702]: “Berdua-dua atau sendiri-sendiri” maksudnya ialah bahwa dalam menghadap kepada Allah, kemudian merenungkan keadaan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- sebaiknya dilakukan dalam keadaan suasana tenang, dan ini tidak dapat dilakukan dalam keadaan beramai-ramai.
 
 # 3653
 
-Katakanlah (Muhammad), "Imbalan apa pun yang aku minta kepadamu, maka itu untuk kamu.703) Imbalanku hanyalah dari Allah, dan Dia Maha Mengetahui segala sesuatu."
+Katakanlah (Muhammad), "Imbalan apa pun yang aku minta kepadamu, maka itu untuk kamu.[^703] Imbalanku hanyalah dari Allah, dan Dia Maha Mengetahui segala sesuatu."
 
-*703) Rasulullah -ṣallallāhu 'alaihi wa sallam- sama sekali tidak meminta imbalan kepada mereka. Tetapi yang diminta Rasulullah -ṣallallāhu 'alaihi wa sallam- ialah agar mereka beriman kepada Allah. Dan iman itu adalah untuk kebaikan mereka sendiri.
+[^703]: Rasulullah -ṣallallāhu 'alaihi wa sallam- sama sekali tidak meminta imbalan kepada mereka. Tetapi yang diminta Rasulullah -ṣallallāhu 'alaihi wa sallam- ialah agar mereka beriman kepada Allah. Dan iman itu adalah untuk kebaikan mereka sendiri.
 
 # 3654
 
@@ -15830,9 +16028,9 @@ Katakanlah, "Sesungguhnya Tuhanku mewahyukan kebenaran. Dia Maha Mengetahui sega
 
 # 3655
 
-Katakanlah, "Kebenaran telah datang dan yang batil itu tidak akan memulai dan tidak (pula) akan mengulangi."704)
+Katakanlah, "Kebenaran telah datang dan yang batil itu tidak akan memulai dan tidak (pula) akan mengulangi."[^704]
 
-*704) Apabila kebenaran sudah datang maka kebatilan akan hancur binasa dan tidak dapat berbuat sesuatu untuk melawan dan meruntuhkan kebenaran.
+[^704]: Apabila kebenaran sudah datang maka kebatilan akan hancur binasa dan tidak dapat berbuat sesuatu untuk melawan dan meruntuhkan kebenaran.
 
 # 3656
 
@@ -15844,9 +16042,9 @@ Dan (alangkah mengerikan) sekiranya engkau melihat mereka (orang-orang kafir) ke
 
 # 3658
 
-Dan (ketika) mereka berkata, "Kami beriman kepada-Nya." Namun bagaimana mereka dapat mencapai (keimanan) dari tempat yang jauh?705)
+Dan (ketika) mereka berkata, "Kami beriman kepada-Nya." Namun bagaimana mereka dapat mencapai (keimanan) dari tempat yang jauh?[^705]
 
-*705) Setelah mereka melihat bagaimana dahsyatnya azab pada hari Kiamat, maka mereka baru mau beriman kepada Allah dan Rasul-Nya padahal tempat beriman itu sudah jauh yaitu di dunia.
+[^705]: Setelah mereka melihat bagaimana dahsyatnya azab pada hari Kiamat, maka mereka baru mau beriman kepada Allah dan Rasul-Nya padahal tempat beriman itu sudah jauh yaitu di dunia.
 
 # 3659
 
@@ -15854,9 +16052,9 @@ Dan sungguh, mereka telah mengingkari Allah sebelum itu; dan mereka mendustakan 
 
 # 3660
 
-Dan diberi penghalang antara mereka dengan apa yang mereka inginkan706) sebagaimana yang dilakukan terhadap orang-orang yang sepaham dengan mereka yang terdahulu. Sesungguhnya mereka dahulu (di dunia) dalam keraguan yang mendalam.
+Dan diberi penghalang antara mereka dengan apa yang mereka inginkan[^706] sebagaimana yang dilakukan terhadap orang-orang yang sepaham dengan mereka yang terdahulu. Sesungguhnya mereka dahulu (di dunia) dalam keraguan yang mendalam.
 
-*706) Yang mereka inginkan itu ialah beriman kepada Allah atau kembali ke dunia untuk bertobat.
+[^706]: Yang mereka inginkan itu ialah beriman kepada Allah atau kembali ke dunia untuk bertobat.
 
 # 3661
 
@@ -15896,9 +16094,11 @@ Dan Allah lah yang mengirimkan angin; lalu (angin itu) menggerakkan awan, maka K
 
 # 3670
 
-Barangsiapa menghendaki kemuliaan, maka (ketahuilah) kemuliaan itu semuanya milik Allah. Kepada-Nyalah akan naik perkataan-perkataan yang baik,707) dan amal kebajikan Dia akan mengangkatnya.708) Adapun orang-orang yang merencanakan kejahatan mereka akan mendapat azab yang sangat keras, dan rencana jahat mereka akan hancur.
+Barangsiapa menghendaki kemuliaan, maka (ketahuilah) kemuliaan itu semuanya milik Allah. Kepada-Nyalah akan naik perkataan-perkataan yang baik,[^707] dan amal kebajikan Dia akan mengangkatnya.[^708] Adapun orang-orang yang merencanakan kejahatan mereka akan mendapat azab yang sangat keras, dan rencana jahat mereka akan hancur.
 
-*707) Sebagian mufasir mengatakan bahwa perkataan yang baik itu ialah Kalimat Tauhid yaitu Lā ilāha illallāh; dan ada pula yang mengatakan zikir kepada Allah dan ada pula yang mengatakan semua perkataan yang baik yang diucapkan karena Allah.708) Perkataan baik dan amal yang baik itu dinaikkan untuk diterima dan diberi-Nya pahala.
+[^707]: Sebagian mufasir mengatakan bahwa perkataan yang baik itu ialah Kalimat Tauhid yaitu Lā ilāha illallāh; dan ada pula yang mengatakan zikir kepada Allah dan ada pula yang mengatakan semua perkataan yang baik yang diucapkan karena Allah
+
+[^708]: Perkataan baik dan amal yang baik itu dinaikkan untuk diterima dan diberi-Nya pahala.
 
 # 3671
 
@@ -15930,9 +16130,9 @@ Dan yang demikian itu tidak sulit bagi Allah.
 
 # 3678
 
-Dan orang yang berdosa tidak akan memikul dosa orang lain. Dan jika seseorang yang dibebani berat dosanya memanggil (orang lain) untuk memikul bebannya itu tidak akan dipikulkan sedikit pun, meskipun (yang dipanggilnya itu) kaum kerabatnya. Sesunggunya yang dapat engkau beri peringatan hanya orang-orang yang takut kepada (azab) Tuhannya (sekalipun) mereka tidak melihat-Nya709) dan mereka yang melaksanakan salat. Barangsiapa yang menyucikan dirinya, sesungguhnya dia menyucikan diri untuk kebaikan dirinya sendiri. Dan kepada Allah lah tempat kembali.
+Dan orang yang berdosa tidak akan memikul dosa orang lain. Dan jika seseorang yang dibebani berat dosanya memanggil (orang lain) untuk memikul bebannya itu tidak akan dipikulkan sedikit pun, meskipun (yang dipanggilnya itu) kaum kerabatnya. Sesunggunya yang dapat engkau beri peringatan hanya orang-orang yang takut kepada (azab) Tuhannya (sekalipun) mereka tidak melihat-Nya[^709] dan mereka yang melaksanakan salat. Barangsiapa yang menyucikan dirinya, sesungguhnya dia menyucikan diri untuk kebaikan dirinya sendiri. Dan kepada Allah lah tempat kembali.
 
-*709) Sebagian mufasir menafsirkan bil gaib dalam ayat ini ialah ketika orang-orang itu sendirian tanpa melihat orang lain atau dilihat.
+[^709]: Sebagian mufasir menafsirkan bil gaib dalam ayat ini ialah ketika orang-orang itu sendirian tanpa melihat orang lain atau dilihat.
 
 # 3679
 
@@ -15948,9 +16148,9 @@ dan tidak (pula) sama yang teduh dengan yang panas,
 
 # 3682
 
-dan tidak (pula) sama orang yang hidup dengan orang yang mati. Sungguh, Allah memberikan pendengaran kepada siapa yang Dia kehendaki dan engkau (Muhammad) tidak akan sanggup menjadikan orang yang di dalam kubur dapat mendengar.710)
+dan tidak (pula) sama orang yang hidup dengan orang yang mati. Sungguh, Allah memberikan pendengaran kepada siapa yang Dia kehendaki dan engkau (Muhammad) tidak akan sanggup menjadikan orang yang di dalam kubur dapat mendengar.[^710]
 
-*710) Nabi Muhammad -'alaihiṣ ṣalātu was salām- tidak dapat memberi petunjuk kepada orang-orang musyrik yang telah mati hatinya.
+[^710]: Nabi Muhammad -'alaihiṣ ṣalātu was salām- tidak dapat memberi petunjuk kepada orang-orang musyrik yang telah mati hatinya.
 
 # 3683
 
@@ -15958,15 +16158,15 @@ Engkau tidak lain hanyalah seorang pemberi peringatan.
 
 # 3684
 
-Sungguh, Kami mengutus engkau dengan membawa kebenaran711) sebagai pembawa berita gembira dan sebagai pemberi peringatan. Dan tidak ada satu pun umat melainkan di sana telah datang seorang pemberi peringatan.
+Sungguh, Kami mengutus engkau dengan membawa kebenaran[^711] sebagai pembawa berita gembira dan sebagai pemberi peringatan. Dan tidak ada satu pun umat melainkan di sana telah datang seorang pemberi peringatan.
 
-*711) Agama tauhid dan hukum-hukumnya.
+[^711]: Agama tauhid dan hukum-hukumnya.
 
 # 3685
 
-Dan jika mereka mendustakanmu, maka sungguh, orang-orang yang sebelum mereka pun telah mendustakan (rasul-rasul); ketika rasul-rasulnya datang dengan membawa keterangan yang nyata (mukjizat), zubur, dan kitab yang memberi penjelasan yang sempurna.712)
+Dan jika mereka mendustakanmu, maka sungguh, orang-orang yang sebelum mereka pun telah mendustakan (rasul-rasul); ketika rasul-rasulnya datang dengan membawa keterangan yang nyata (mukjizat), zubur, dan kitab yang memberi penjelasan yang sempurna.[^712]
 
-*712) Allah memberi petunjuk kepada siapa yang Dia kehendaki dengan memberi kesanggupan untuk mendengarkan dan menerima keterangan-keterangan.
+[^712]: Allah memberi petunjuk kepada siapa yang Dia kehendaki dengan memberi kesanggupan untuk mendengarkan dan menerima keterangan-keterangan.
 
 # 3686
 
@@ -15978,9 +16178,9 @@ Tidakkah engkau melihat bahwa Allah menurunkan air dari langit lalu dengan air i
 
 # 3688
 
-Dan demikian (pula) di antara manusia, makhluk bergerak yang bernyawa dan hewan-hewan ternak ada yang bermacam-macam warnanya (dan jenisnya). Di antara hamba-hamba Allah yang takut kepada-Nya, hanyalah para ulama.713) Sungguh, Allah Mahaperkasa, Maha Pengampun.
+Dan demikian (pula) di antara manusia, makhluk bergerak yang bernyawa dan hewan-hewan ternak ada yang bermacam-macam warnanya (dan jenisnya). Di antara hamba-hamba Allah yang takut kepada-Nya, hanyalah para ulama.[^713] Sungguh, Allah Mahaperkasa, Maha Pengampun.
 
-*713) Orang-orang yang mengetahui ilmu kebesaran dan kekuasaan Allah.
+[^713]: Orang-orang yang mengetahui ilmu kebesaran dan kekuasaan Allah.
 
 # 3689
 
@@ -15988,9 +16188,9 @@ Sesungguhnya orang-orang yang selalu membaca Kitab Allah (Al-Qur`an) dan melak­
 
 # 3690
 
-agar Allah menyempurnakan pahalanya kepada mereka dan menambah karunia-Nya. Sungguh, Allah Maha Pengampun, Maha Mensyukuri.714)
+agar Allah menyempurnakan pahalanya kepada mereka dan menambah karunia-Nya. Sungguh, Allah Maha Pengampun, Maha Mensyukuri.[^714]
 
-*714) Allah mensyukuri hamba-Nya, memberi pahala terhadap amal-amal hamba-Nya memaafkan kesalahannya, menambah nikmat-Nya dan sebagainya.
+[^714]: Allah mensyukuri hamba-Nya, memberi pahala terhadap amal-amal hamba-Nya memaafkan kesalahannya, menambah nikmat-Nya dan sebagainya.
 
 # 3691
 
@@ -15998,9 +16198,9 @@ Dan apa yang telah Kami wahyukan kepadamu (Muhammad) yaitu Kitab (Al-Qur`an) itu
 
 # 3692
 
-Kemudian Kitab itu Kami wariskan kepada orang-orang yang Kami pilih di antara hamba-hamba Kami, lalu di antara mereka ada yang menzalimi diri sendiri, ada yang pertengahan dan ada (pula) yang berlomba dalam berbuat kebaikan715) dengan izin Allah. Yang demikian itu adalah karunia yang besar.
+Kemudian Kitab itu Kami wariskan kepada orang-orang yang Kami pilih di antara hamba-hamba Kami, lalu di antara mereka ada yang menzalimi diri sendiri, ada yang pertengahan dan ada (pula) yang berlomba dalam berbuat kebaikan[^715] dengan izin Allah. Yang demikian itu adalah karunia yang besar.
 
-*715) Menzalimi diri sendiri ialah orang yang lebih banyak kesalahannya daripada kebaikannya, dan "pertengahan" ialah orang yang kebaikannya berimbang dengan kesalahannya, sedang yang dimaksud dengan "orang-orang yang berlomba dalam berbuat kebaikan" ialah orang-orang yang kebaikannya sangat banyak dan sangat jarang berbuat kesalahan.
+[^715]: Menzalimi diri sendiri ialah orang yang lebih banyak kesalahannya daripada kebaikannya, dan "pertengahan" ialah orang yang kebaikannya berimbang dengan kesalahannya, sedang yang dimaksud dengan "orang-orang yang berlomba dalam berbuat kebaikan" ialah orang-orang yang kebaikannya sangat banyak dan sangat jarang berbuat kesalahan.
 
 # 3693
 
@@ -16044,9 +16244,9 @@ Dan mereka bersumpah atas nama Allah dengan sungguh-sungguh bahwa jika datang ke
 
 # 3703
 
-karena kesombongan (mereka) di bumi dan karena rencana (mereka) yang jahat. Rencana yang jahat itu hanya akan menimpa pencetus rencananya sendiri. Mereka hanyalah menunggu (berlakunya) ketentuan pada orang-orang yang terdahulu.716) Maka kamu tidak akan mendapatkan perubahan bagi sunnah (ketentuan) Allah, dan tidak (pula) akan menemui penyimpangan bagi ketentuan Allah.
+karena kesombongan (mereka) di bumi dan karena rencana (mereka) yang jahat. Rencana yang jahat itu hanya akan menimpa pencetus rencananya sendiri. Mereka hanyalah menunggu (berlakunya) ketentuan pada orang-orang yang terdahulu.[^716] Maka kamu tidak akan mendapatkan perubahan bagi sunnah (ketentuan) Allah, dan tidak (pula) akan menemui penyimpangan bagi ketentuan Allah.
 
-*716) Yang dimaksud dengan "ketentuan orang-orang yang terdahulu" ialah turunnya azab kepada orang-orang yang mendustakan rasul.
+[^716]: Yang dimaksud dengan "ketentuan orang-orang yang terdahulu" ialah turunnya azab kepada orang-orang yang mendustakan rasul.
 
 # 3704
 
@@ -16098,9 +16298,9 @@ Dan sama saja bagi mereka, apakah engkau memberi peringatan kepada mereka atau e
 
 # 3716
 
-Sesungguhnya engkau hanya memberi peringatan kepada orang-orang yang mau mengikuti peringatan717) dan yang takut kepada Tuhan Yang Maha Pengasih, walaupun mereka tidak melihat-Nya. Maka berilah mereka kabar gembira dengan ampunan dan pahala yang mulia.
+Sesungguhnya engkau hanya memberi peringatan kepada orang-orang yang mau mengikuti peringatan[^717] dan yang takut kepada Tuhan Yang Maha Pengasih, walaupun mereka tidak melihat-Nya. Maka berilah mereka kabar gembira dengan ampunan dan pahala yang mulia.
 
-*717) Peringatan yang diberikan oleh Nabi Muhammad -'alaihiṣ ṣalātu was salām- hanyalah berguna bagi orang yang mau mengikutinya.
+[^717]: Peringatan yang diberikan oleh Nabi Muhammad -'alaihiṣ ṣalātu was salām- hanyalah berguna bagi orang yang mau mengikutinya.
 
 # 3717
 
@@ -16136,9 +16336,9 @@ Mereka (utusan-utusan) itu berkata, "Kemalangan kamu itu adalah karena kamu send
 
 # 3725
 
-Dan datanglah dari ujung kota, seorang laki-laki718) dengan bergegas dia berkata, "Wahai kaumku! Ikutilah utusan-utusan itu.
+Dan datanglah dari ujung kota, seorang laki-laki[^718] dengan bergegas dia berkata, "Wahai kaumku! Ikutilah utusan-utusan itu.
 
-*718) Menurut mufasir, laki-laki tersebut bernama Habib An-Najjār.
+[^718]: Menurut mufasir, laki-laki tersebut bernama Habib An-Najjār.
 
 # 3726
 
@@ -16162,9 +16362,9 @@ Sesungguhnya aku telah beriman kepada Tuhanmu; maka dengarkanlah (pengakuan keim
 
 # 3731
 
-Dikatakan (kepadanya), "Masuklah ke surga."719) Dia (laki-laki itu) berkata, "Alangkah baiknya sekiranya kaumku mengetahui,
+Dikatakan (kepadanya), "Masuklah ke surga."[^719] Dia (laki-laki itu) berkata, "Alangkah baiknya sekiranya kaumku mengetahui,
 
-*719) Menurut riwayat, laki-laki itu dibunuh oleh kaumnya setelah ia mengucapkan kata-katanya sebagai nasihat kepada kaumnya seperti tersebut dalam ayat 20 s/d 25. Ketika dia akan meninggal; malaikat turun memberitahukan bahwa Allah telah mengampuni dosanya dan dia akan masuk surga.
+[^719]: Menurut riwayat, laki-laki itu dibunuh oleh kaumnya setelah ia mengucapkan kata-katanya sebagai nasihat kepada kaumnya seperti tersebut dalam ayat 20 s/d 25. Ketika dia akan meninggal; malaikat turun memberitahukan bahwa Allah telah mengampuni dosanya dan dia akan masuk surga.
 
 # 3732
 
@@ -16184,9 +16384,9 @@ Alangkah besar penyesalan terhadap hamba-hamba itu, setiap datang seorang rasul 
 
 # 3736
 
-Tidakkah mereka mengetahui berapa banyak umat-umat sebelum mereka yang telah Kami binasakan. Orang-orang (yang telah Kami binasakan) itu tidak ada yang kembali kepada mereka.720)
+Tidakkah mereka mengetahui berapa banyak umat-umat sebelum mereka yang telah Kami binasakan. Orang-orang (yang telah Kami binasakan) itu tidak ada yang kembali kepada mereka.[^720]
 
-*720) Mereka itu tidak kembali ke dunia.
+[^720]: Mereka itu tidak kembali ke dunia.
 
 # 3737
 
@@ -16218,9 +16418,9 @@ dan matahari berjalan di tempat peredarannya. Demikianlah ketetapan (Allah) Yang
 
 # 3744
 
-Dan telah Kami tetapkan tempat peredaran bagi bulan, sehingga (setelah ia sampai ke tempat peredaran yang terakhir) kembalilah ia seperti bentuk tandan yang tua.721)
+Dan telah Kami tetapkan tempat peredaran bagi bulan, sehingga (setelah ia sampai ke tempat peredaran yang terakhir) kembalilah ia seperti bentuk tandan yang tua.[^721]
 
-*721) Bulan itu pada awalnya kecil berbentuk sabit, kemudian setelah menempati tempat peredaran, ia menjadi purnama, kemudian pada tempat peredaran terakhir kelihatan seperti tandan kering yang melengkung.
+[^721]: Bulan itu pada awalnya kecil berbentuk sabit, kemudian setelah menempati tempat peredaran, ia menjadi purnama, kemudian pada tempat peredaran terakhir kelihatan seperti tandan kering yang melengkung.
 
 # 3745
 
@@ -16232,9 +16432,9 @@ Dan suatu tanda (kebesaran Allah) bagi mereka adalah bahwa Kami angkut keturunan
 
 # 3747
 
-dan Kami ciptakan (juga) untuk mereka (angkutan lain) seperti apa yang mereka kendarai.722)
+dan Kami ciptakan (juga) untuk mereka (angkutan lain) seperti apa yang mereka kendarai.[^722]
 
-*722) Hewan-hewan tunggangan dan alat-alat pengangkutan umumnya.
+[^722]: Hewan-hewan tunggangan dan alat-alat pengangkutan umumnya.
 
 # 3748
 
@@ -16262,9 +16462,9 @@ Dan mereka (orang-orang kafir) berkata, "Kapan janji (hari berbangkit) itu (terj
 
 # 3754
 
-Mereka hanya menunggu satu teriakan,723) yang akan membinasakan mereka ketika mereka sedang bertengkar.
+Mereka hanya menunggu satu teriakan,[^723] yang akan membinasakan mereka ketika mereka sedang bertengkar.
 
-*723) Suara tiupan sangkakala pertama yang menghancurkan bumi ini.
+[^723]: Suara tiupan sangkakala pertama yang menghancurkan bumi ini.
 
 # 3755
 
@@ -16272,9 +16472,9 @@ Sehingga mereka tidak mampu membuat suatu wasiat dan mereka (juga) tidak dapat k
 
 # 3756
 
-Lalu ditiuplah sangkakala,724) maka seketika itu mereka keluar dari kuburnya (dalam keadaan hidup), menuju kepada Tuhannya.
+Lalu ditiuplah sangkakala,[^724] maka seketika itu mereka keluar dari kuburnya (dalam keadaan hidup), menuju kepada Tuhannya.
 
-*724) Tiupan ini adalah tiupan sangkakala kedua yang membangkitkan orang-orang dalam kubur.
+[^724]: Tiupan ini adalah tiupan sangkakala kedua yang membangkitkan orang-orang dalam kubur.
 
 # 3757
 
@@ -16342,9 +16542,9 @@ Dan jika Kami menghendaki, pastilah Kami ubah bentuk mereka di tempat mereka ber
 
 # 3773
 
-Dan barang siapa Kami panjangkan umurnya niscaya Kami kembalikan dia kepada awal kejadian(nya).725) Maka mengapa mereka tidak mengerti?
+Dan barang siapa Kami panjangkan umurnya niscaya Kami kembalikan dia kepada awal kejadian(nya).[^725] Maka mengapa mereka tidak mengerti?
 
-*725) Kembali menjadi lemah dan kurang akal, seperti anak kecil.
+[^725]: Kembali menjadi lemah dan kurang akal, seperti anak kecil.
 
 # 3774
 
@@ -16448,9 +16648,9 @@ kecuali (setan) yang mencuri (pembicaraan); maka ia dikejar oleh bintang yang me
 
 # 3799
 
-Maka tanyakanlah kepada mereka (musyrik Mekkah), "Apakah penciptaan mereka yang lebih sulit ataukah apa726) yang telah Kami ciptakan?" Sesungguhnya Kami telah menciptakan mereka dari tanah liat.
+Maka tanyakanlah kepada mereka (musyrik Mekkah), "Apakah penciptaan mereka yang lebih sulit ataukah apa[^726] yang telah Kami ciptakan?" Sesungguhnya Kami telah menciptakan mereka dari tanah liat.
 
-*726) Malaikat, langit, bumi dan lain-lain.
+[^726]: Malaikat, langit, bumi dan lain-lain.
 
 # 3800
 
@@ -16490,9 +16690,9 @@ Dan mereka berkata, "Alangkah celaka kami! (Kiranya) inilah hari pembalasan itu.
 
 # 3809
 
-Inilah hari keputusan727) yang dahulu kamu dustakan.
+Inilah hari keputusan[^727] yang dahulu kamu dustakan.
 
-*727) Hari ketika Allah memberi keputusan dan balasan kepada hamba-hamba-Nya.
+[^727]: Hari ketika Allah memberi keputusan dan balasan kepada hamba-hamba-Nya.
 
 # 3810
 
@@ -16520,9 +16720,9 @@ Dan sebagian mereka menghadap kepada sebagian yang lain saling berbantah-bantaha
 
 # 3816
 
-Sesungguhnya (pengikut-pengikut) mereka berkata (kepada pemimpin-pemimpin mereka), "Kamulah yang dahulu datang kepada kami dari kanan."728)
+Sesungguhnya (pengikut-pengikut) mereka berkata (kepada pemimpin-pemimpin mereka), "Kamulah yang dahulu datang kepada kami dari kanan."[^728]
 
-*728) Pemimpin-pemimpin itu mendatangi pengikut-pengikutnya dengan membawa tipu muslihat yang memikat hati.
+[^728]: Pemimpin-pemimpin itu mendatangi pengikut-pengikutnya dengan membawa tipu muslihat yang memikat hati.
 
 # 3817
 
@@ -16742,15 +16942,15 @@ Kemudian Kami tenggelamkan yang lain.
 
 # 3871
 
-Dan sungguh, Ibrahim termasuk golongannya (Nuh).729)
+Dan sungguh, Ibrahim termasuk golongannya (Nuh).[^729]
 
-*729) Nabi Ibrahim -'alaihissalām- termasuk golongan Nabi Nuh -'alaihissalām- dalam keimanan kepada Allah dan pokok-pokok ajaran agama.
+[^729]: Nabi Ibrahim -'alaihissalām- termasuk golongan Nabi Nuh -'alaihissalām- dalam keimanan kepada Allah dan pokok-pokok ajaran agama.
 
 # 3872
 
-(Ingatlah) ketika dia datang kepada Tuhannya dengan hati yang suci,730)
+(Ingatlah) ketika dia datang kepada Tuhannya dengan hati yang suci,[^730]
 
-*730) Mengikhlaskan hatinya kepada Allah dengan sepenuhnya.
+[^730]: Mengikhlaskan hatinya kepada Allah dengan sepenuhnya.
 
 # 3873
 
@@ -16778,9 +16978,9 @@ Lalu mereka berpaling darinya dan pergi meninggalkannya.
 
 # 3879
 
-Kemudian dia (Ibrahim) pergi dengan diam-diam kepada berhala-berhala mereka; lalu dia berkata, "Mengapa kamu tidak makan?731)
+Kemudian dia (Ibrahim) pergi dengan diam-diam kepada berhala-berhala mereka; lalu dia berkata, "Mengapa kamu tidak makan?[^731]
 
-*731) Mengejek berhala-berhala itu, karena dekat berhala itu banyak diletakkan makanan-makanan yang baik sebagai sajian-sajian.
+[^731]: Mengejek berhala-berhala itu, karena dekat berhala itu banyak diletakkan makanan-makanan yang baik sebagai sajian-sajian.
 
 # 3880
 
@@ -16812,9 +17012,9 @@ Maka mereka bermaksud memperdayainya dengan (membakar)nya, (namun Allah menyelam
 
 # 3887
 
-Dan dia (Ibrahim) berkata, "Sesungguhnya aku harus pergi (menghadap) kepada Tuhanku, Dia akan memberi petunjuk kepadaku.732)
+Dan dia (Ibrahim) berkata, "Sesungguhnya aku harus pergi (menghadap) kepada Tuhanku, Dia akan memberi petunjuk kepadaku.[^732]
 
-*732) Nabi Ibrahim -'alaihissalām- pergi ke suatu negeri untuk dapat menyembah Allah dan berdakwah.
+[^732]: Nabi Ibrahim -'alaihissalām- pergi ke suatu negeri untuk dapat menyembah Allah dan berdakwah.
 
 # 3888
 
@@ -16838,9 +17038,9 @@ Lalu Kami panggil dia, "Wahai Ibrahim!
 
 # 3893
 
-Sungguh, engkau telah membenarkan mimpi itu."733) Sungguh, demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik.
+Sungguh, engkau telah membenarkan mimpi itu."[^733] Sungguh, demikianlah Kami memberi balasan kepada orang-orang yang berbuat baik.
 
-*733) Mempercayai bahwa mimpi itu benar dari Allah -ṣallallāhu 'alaihi wa sallam- dan wajib dilaksanakan.
+[^733]: Mempercayai bahwa mimpi itu benar dari Allah -ṣallallāhu 'alaihi wa sallam- dan wajib dilaksanakan.
 
 # 3894
 
@@ -16848,9 +17048,9 @@ Sesungguhnya ini benar-benar suatu ujian yang nyata.
 
 # 3895
 
-Dan Kami tebus anak itu dengan seekor sembelihan yang besar.734)
+Dan Kami tebus anak itu dengan seekor sembelihan yang besar.[^734]
 
-*734) Setelah nyata kesabaran dan ketaatan Nabi Ibrahim dan Nabi Ismail -'alaihimassalām- maka Allah melarang menyembelih Nabi Ismail -'alaihissalām- untuk meneruskan kurban, Allah menggantinya dengan seekor sembelihan (kambing). Peristiwa ini menjadi dasar disyariatkannya kurban yang dilakukan pada Hari Raya Haji.
+[^734]: Setelah nyata kesabaran dan ketaatan Nabi Ibrahim dan Nabi Ismail -'alaihimassalām- maka Allah melarang menyembelih Nabi Ismail -'alaihissalām- untuk meneruskan kurban, Allah menggantinya dengan seekor sembelihan (kambing). Peristiwa ini menjadi dasar disyariatkannya kurban yang dilakukan pada Hari Raya Haji.
 
 # 3896
 
@@ -16922,9 +17122,9 @@ Dan sungguh, Ilyas benar-benar termasuk salah seorang rasul.
 
 # 3913
 
-Patutkah kamu menyembah Ba'l 735) dan kamu tinggalkan (Allah) sebaik-baik Pencipta,
+Patutkah kamu menyembah Ba'l [^735] dan kamu tinggalkan (Allah) sebaik-baik Pencipta,
 
-*735) Ba'l adalah nama salah satu berhala dari orang Phunicia.
+[^735]: Ba'l adalah nama salah satu berhala dari orang Phunicia.
 
 # 3914
 
@@ -16968,9 +17168,9 @@ kecuali seorang perempuan tua (istrinya) bersama-sama orang yang tinggal (di kot
 
 # 3924
 
-Kemudian Kami binasakan orang-orang yang lain.736)
+Kemudian Kami binasakan orang-orang yang lain.[^736]
 
-*736) Mereka yang tinggal di kota yang tidak ikut bersama Nabi Luṭ -'alaihissalām-.
+[^736]: Mereka yang tinggal di kota yang tidak ikut bersama Nabi Luṭ -'alaihissalām-.
 
 # 3925
 
@@ -16986,21 +17186,21 @@ Dan sungguh, Yunus benar-benar termasuk salah seorang rasul,
 
 # 3928
 
-(ingatlah) ketika dia lari,737) ke kapal yang penuh muatan,
+(ingatlah) ketika dia lari,[^737] ke kapal yang penuh muatan,
 
-*737) Pergi meninggalkan kewajiban.
+[^737]: Pergi meninggalkan kewajiban.
 
 # 3929
 
-kemudian dia ikut diundi,738) ternyata dia termasuk orang-orang yang kalah (dalam undian).
+kemudian dia ikut diundi,[^738] ternyata dia termasuk orang-orang yang kalah (dalam undian).
 
-*738) Undian diadakan karena muatan kapal sangat penuh. Kalau tidak dikurangi mungkin akan tenggelam. Oleh sebab itu diadakan undian. Siapa yang kalah dalam undian itu dilemparkan ke laut. Nabi Yunus -'alaihissalām- termasuk orang-orang yang kalah dalam undian tersebut sehingga dia dilemparkan ke laut.
+[^738]: Undian diadakan karena muatan kapal sangat penuh. Kalau tidak dikurangi mungkin akan tenggelam. Oleh sebab itu diadakan undian. Siapa yang kalah dalam undian itu dilemparkan ke laut. Nabi Yunus -'alaihissalām- termasuk orang-orang yang kalah dalam undian tersebut sehingga dia dilemparkan ke laut.
 
 # 3930
 
-Maka dia ditelan oleh ikan besar dalam keadaan tercela.739)
+Maka dia ditelan oleh ikan besar dalam keadaan tercela.[^739]
 
-*739) Tercela karena dia lari meninggalkan kaumnya.
+[^739]: Tercela karena dia lari meninggalkan kaumnya.
 
 # 3931
 
@@ -17028,9 +17228,9 @@ sehingga mereka beriman, karena itu Kami anugerahkan kenikmatan hidup kepada mer
 
 # 3937
 
-Maka tanyakanlah (Muhammad) kepada mereka (orang-orang kafir Mekkah), "Apakah anak-anak perempuan itu untuk Tuhanmu sedangkan untuk mereka anak laki-laki?740)
+Maka tanyakanlah (Muhammad) kepada mereka (orang-orang kafir Mekkah), "Apakah anak-anak perempuan itu untuk Tuhanmu sedangkan untuk mereka anak laki-laki?[^740]
 
-*740) Orang musyrik mengatakan bahwa Allah mempunyai anak-anak perempuan (malaikat), padahal mereka sendiri menganggap hina anak perempuan.
+[^740]: Orang musyrik mengatakan bahwa Allah mempunyai anak-anak perempuan (malaikat), padahal mereka sendiri menganggap hina anak perempuan.
 
 # 3938
 
@@ -17074,9 +17274,9 @@ Mahasuci Allah dari apa yang mereka sifatkan,
 
 # 3948
 
-kecuali hamba-hamba Allah741) yang disucikan (dari dosa).
+kecuali hamba-hamba Allah[^741] yang disucikan (dari dosa).
 
-*741) Golongan jin yang beriman.
+[^741]: Golongan jin yang beriman.
 
 # 3949
 
@@ -17128,15 +17328,15 @@ Dan sungguh, janji Kami telah tetap bagi hamba-hamba Kami yang menjadi rasul,
 
 # 3961
 
-Dan sesungguhnya bala tentara Kami742) itulah yang pasti menang.
+Dan sesungguhnya bala tentara Kami[^742] itulah yang pasti menang.
 
-*742) Rasul beserta pengikut-pengikutnya.
+[^742]: Rasul beserta pengikut-pengikutnya.
 
 # 3962
 
-Maka berpalinglah engkau (Muhammad) dari mereka sampai waktu tertentu,743)
+Maka berpalinglah engkau (Muhammad) dari mereka sampai waktu tertentu,[^743]
 
-*743) Sampai Rasulullah -'alaihiṣ ṣalātu was salām- mempunyai kekuatan.
+[^743]: Sampai Rasulullah -'alaihiṣ ṣalātu was salām- mempunyai kekuatan.
 
 # 3963
 
@@ -17148,9 +17348,9 @@ Maka apakah mereka meminta agar azab Kami disegerakan?
 
 # 3965
 
-Maka apabila (siksaan) itu turun di halaman mereka, maka sangat buruklah pagi hari bagi orang-orang yang diperingatkan.744)
+Maka apabila (siksaan) itu turun di halaman mereka, maka sangat buruklah pagi hari bagi orang-orang yang diperingatkan.[^744]
 
-*744) Bukan waktu pagi tetapi sembarang waktu di mana orang-orang yang menyerang itu melakukan serangannya sebelum waktu subuh; maka orang-orang yang kalah, menderita kekalahannya pada waktu pagi.
+[^744]: Bukan waktu pagi tetapi sembarang waktu di mana orang-orang yang menyerang itu melakukan serangannya sebelum waktu subuh; maka orang-orang yang kalah, menderita kekalahannya pada waktu pagi.
 
 # 3966
 
@@ -17194,15 +17394,15 @@ Apakah dia menjadikan tuhan-tuhan itu Tuhan yang satu saja? Sungguh, ini benar-b
 
 # 3976
 
-Lalu pergilah pemimpin-pemimpin mereka (seraya berkata), "Pergilah kamu dan tetaplah (menyembah) tuhan-tuhanmu, sesungguhnya ini benar-benar suatu hal yang dikehendaki.745)
+Lalu pergilah pemimpin-pemimpin mereka (seraya berkata), "Pergilah kamu dan tetaplah (menyembah) tuhan-tuhanmu, sesungguhnya ini benar-benar suatu hal yang dikehendaki.[^745]
 
-*745) Menurut orang-orang kafir bahwa menyembah tuhan-tuhan itulah yang sebenarnya dikehendaki oleh Allah.
+[^745]: Menurut orang-orang kafir bahwa menyembah tuhan-tuhan itulah yang sebenarnya dikehendaki oleh Allah.
 
 # 3977
 
-Kami tidak pernah mendengar hal ini dalam agama yang terakhir,746) ini (mengesakan Allah) tidak lain hanyalah (dusta) yang diada-adakan.
+Kami tidak pernah mendengar hal ini dalam agama yang terakhir,[^746] ini (mengesakan Allah) tidak lain hanyalah (dusta) yang diada-adakan.
 
-*746) Yang dimaksud oleh orang kafir Quraisy dengan agama yang terakhir ialah agama Nasrani.
+[^746]: Yang dimaksud oleh orang kafir Quraisy dengan agama yang terakhir ialah agama Nasrani.
 
 # 3978
 
@@ -17218,9 +17418,9 @@ Atau apakah mereka mempunyai kerajaan langit dan bumi serta apa yang ada di anta
 
 # 3981
 
-(Mereka itu) kelompok besar bala tentara yang berada di sana yang akan dikalahkan.747)
+(Mereka itu) kelompok besar bala tentara yang berada di sana yang akan dikalahkan.[^747]
 
-*747) Ayat ini menceritakan perang Khandak di mana terdapat bala tentara yang terdiri dari beberapa golongan yaitu golongan kaum musyrikin, Yahudi dan beberapa kabilah Arab yang menyerang kaum muslimin di Madinah. Peperangan ini berakhir dengan kocar-kacirnya bala tentara mereka. Sebagian mufasir mengatakan bahwa yang dimaksud di sini ialah perang Badar.
+[^747]: Ayat ini menceritakan perang Khandak di mana terdapat bala tentara yang terdiri dari beberapa golongan yaitu golongan kaum musyrikin, Yahudi dan beberapa kabilah Arab yang menyerang kaum muslimin di Madinah. Peperangan ini berakhir dengan kocar-kacirnya bala tentara mereka. Sebagian mufasir mengatakan bahwa yang dimaksud di sini ialah perang Badar.
 
 # 3982
 
@@ -17228,9 +17428,9 @@ Sebelum mereka itu, kaum Nuh, 'Ād dan Fir'aun yang mempunyai bala tentara yang 
 
 # 3983
 
-dan (begitu juga) Samud, kaum Luṭ dan penduduk Aikah.748) Mereka itulah golongan-golongan yang bersekutu (menentang rasul-rasul).
+dan (begitu juga) Samud, kaum Luṭ dan penduduk Aikah.[^748] Mereka itulah golongan-golongan yang bersekutu (menentang rasul-rasul).
 
-*748) Penduduk Madyan yaitu kaum Nabi Syuaib -'alaihissalām-.
+[^748]: Penduduk Madyan yaitu kaum Nabi Syuaib -'alaihissalām-.
 
 # 3984
 
@@ -17238,9 +17438,9 @@ Semua mereka itu mendustakan rasul-rasul, maka pantas mereka merasakan azab-Ku.
 
 # 3985
 
-Dan sebenarnya yang mereka tunggu adalah satu teriakan saja, yang tidak ada selanya.749)
+Dan sebenarnya yang mereka tunggu adalah satu teriakan saja, yang tidak ada selanya.[^749]
 
-*749) Untuk tanda hari Kiamat dan teriakan ini sangat keras dan cepat.
+[^749]: Untuk tanda hari Kiamat dan teriakan ini sangat keras dan cepat.
 
 # 3986
 
@@ -17260,9 +17460,9 @@ dan (Kami tundukkan pula) burung-burung dalam keadaan terkumpul. Masing-masing s
 
 # 3990
 
-Dan Kami kuatkan kerajaannya dan Kami berikan hikmah kepadanya750) serta kebijaksanaan dalam memutuskan perkara.
+Dan Kami kuatkan kerajaannya dan Kami berikan hikmah kepadanya[^750] serta kebijaksanaan dalam memutuskan perkara.
 
-*750) Kenabian, kesempurnaan ilmu dan ketelitian amal perbuatan.
+[^750]: Kenabian, kesempurnaan ilmu dan ketelitian amal perbuatan.
 
 # 3991
 
@@ -17310,21 +17510,21 @@ Dan kepada Dawud Kami karuniakan (anak bernama) Sulaiman; dia adalah sebaik-baik
 
 # 4002
 
-maka dia berkata, "Sesungguhnya aku menyukai segala yang baik (kuda), yang membuat aku ingat akan (kebesaran) Tuhanku, sampai matahari terbenam."751)
+maka dia berkata, "Sesungguhnya aku menyukai segala yang baik (kuda), yang membuat aku ingat akan (kebesaran) Tuhanku, sampai matahari terbenam."[^751]
 
-*751) Sebagian mufasir ada yang menerjemahkan ayat 32 demikian, Aku benar-benar menyukai barang yang baik (kuda) ini sehingga aku lalai mengingat Tuhanku sampai kuda itu hilang dari pandangan.
+[^751]: Sebagian mufasir ada yang menerjemahkan ayat 32 demikian, Aku benar-benar menyukai barang yang baik (kuda) ini sehingga aku lalai mengingat Tuhanku sampai kuda itu hilang dari pandangan.
 
 # 4003
 
-"Bawalah semua kuda itu kembali kepadaku." Lalu dia mengusap-usap kaki dan leher kuda itu.752)
+"Bawalah semua kuda itu kembali kepadaku." Lalu dia mengusap-usap kaki dan leher kuda itu.[^752]
 
-*752) Sebagian mufasir ada yang menerjemahkan ayat 33 demikian, “Bawalah kembali semua itu kepadaku, lalu dia memotong kaki dan lehernya.”
+[^752]: Sebagian mufasir ada yang menerjemahkan ayat 33 demikian, “Bawalah kembali semua itu kepadaku, lalu dia memotong kaki dan lehernya.”
 
 # 4004
 
-Dan sungguh, Kami telah menguji Sulaiman dan Kami jadikan (dia) tergeletak di atas kursinya sebagai tubuh (yang lemah karena sakit), kemudian dia bertobat.753)
+Dan sungguh, Kami telah menguji Sulaiman dan Kami jadikan (dia) tergeletak di atas kursinya sebagai tubuh (yang lemah karena sakit), kemudian dia bertobat.[^753]
 
-*753) Sebagian mufasir mengatakan bahwa yang dimaksud dengan ujian ini ialah keberantakan kerajaan Sulaiman sehingga orang lain duduk di atas singgasananya.
+[^753]: Sebagian mufasir mengatakan bahwa yang dimaksud dengan ujian ini ialah keberantakan kerajaan Sulaiman sehingga orang lain duduk di atas singgasananya.
 
 # 4005
 
@@ -17360,9 +17560,9 @@ Dan ingatlah akan hamba Kami Ayyub ketika dia menyeru Tuhannya, "Sesungguhnya ak
 
 # 4013
 
-Dan Kami anugerahi dia (dengan mengumpulkan kembali) keluarganya dan Kami lipat gandakan jumlah mereka, sebagai rahmat dari Kami dan pelajaran bagi orang-orang yang berpikiran sehat.754)
+Dan Kami anugerahi dia (dengan mengumpulkan kembali) keluarganya dan Kami lipat gandakan jumlah mereka, sebagai rahmat dari Kami dan pelajaran bagi orang-orang yang berpikiran sehat.[^754]
 
-*754) Nabi Ayyub -'alaihissalām- menderita penyakit kulit beberapa waktu lamanya dan dia memohon pertolongan kepada Allah -Subḥānahu wata'ālā-. Kemudian Allah memperkenankan doanya dan memerintahkan agar dia menghentakkan kakinya ke bumi. Nabi Ayyub -'alaihissalām- menaati perintah itu maka keluarlah air dari bekas kakinya atas petunjuk Allah, Ayyub pun mandi dan minum dari air itu, sehingga sembuhlah dia dari penyakitnya dan dia dapat berkumpul kembali dengan keluarganya. Maka mereka kemudian berkembang biak sampai jumlah mereka dua kali lipat dari jumlah sebelumnya. Pada suatu ketika, Nabi Ayyub -'alaihissalām- teringat akan sumpahnya, bahwa dia akan memukul istrinya apabila sakitnya sembuh disebabkan istrinya pernah lalai mengurusinya sewaktu dia masih sakit. Tetapi timbul dalam hatinya rasa iba dan sayang kepada istrinya sehingga dia tidak dapat memenuhi sumpahnya. Maka turunlah petunjuk Allah seperti yang tercantum dalam ayat 44 surah ini, agar dia dapat melaksanakan sumpahnya dengan tidak menyakiti istrinya, yaitu memukulnya dengan seikat rumput.
+[^754]: Nabi Ayyub -'alaihissalām- menderita penyakit kulit beberapa waktu lamanya dan dia memohon pertolongan kepada Allah -Subḥānahu wata'ālā-. Kemudian Allah memperkenankan doanya dan memerintahkan agar dia menghentakkan kakinya ke bumi. Nabi Ayyub -'alaihissalām- menaati perintah itu maka keluarlah air dari bekas kakinya atas petunjuk Allah, Ayyub pun mandi dan minum dari air itu, sehingga sembuhlah dia dari penyakitnya dan dia dapat berkumpul kembali dengan keluarganya. Maka mereka kemudian berkembang biak sampai jumlah mereka dua kali lipat dari jumlah sebelumnya. Pada suatu ketika, Nabi Ayyub -'alaihissalām- teringat akan sumpahnya, bahwa dia akan memukul istrinya apabila sakitnya sembuh disebabkan istrinya pernah lalai mengurusinya sewaktu dia masih sakit. Tetapi timbul dalam hatinya rasa iba dan sayang kepada istrinya sehingga dia tidak dapat memenuhi sumpahnya. Maka turunlah petunjuk Allah seperti yang tercantum dalam ayat 44 surah ini, agar dia dapat melaksanakan sumpahnya dengan tidak menyakiti istrinya, yaitu memukulnya dengan seikat rumput.
 
 # 4014
 
@@ -17522,9 +17722,9 @@ sampai pada hari yang telah ditentukan waktunya (hari Kiamat)."
 
 # 4053
 
-kecuali hamba-hamba-Mu yang terpilih di antara mereka."755)
+kecuali hamba-hamba-Mu yang terpilih di antara mereka."[^755]
 
-*755) Orang-orang yang telah diberi taufik untuk menaati segala petunjuk dan perintah Allah.
+[^755]: Orang-orang yang telah diberi taufik untuk menaati segala petunjuk dan perintah Allah.
 
 # 4054
 
@@ -17544,9 +17744,9 @@ Katakanlah (Muhammad), "Aku tidak meminta imbalan sedikit pun kepadamu atasnya (
 
 # 4058
 
-Dan sungguh, kamu akan mengetahui (kebenaran) beritanya (Al-Qur`an) setelah beberapa waktu lagi."756)
+Dan sungguh, kamu akan mengetahui (kebenaran) beritanya (Al-Qur`an) setelah beberapa waktu lagi."[^756]
 
-*756) Kebenaran berita-berita Al-Qur`ann itu ada yang terlaksana di dunia dan ada pula yang terlaksana di akhirat; yang terlaksana di dunia seperti kebenaran janji Allah kepada orang-orang mukmin bahwa mereka akan menang dalam peperangan dengan kaum musyrikin, dan yang terlaksana di akhirat seperti kebenaran janji Allah tentang balasan atau perhitungan yang akan dilakukan terhadap manusia.
+[^756]: Kebenaran berita-berita Al-Qur`ann itu ada yang terlaksana di dunia dan ada pula yang terlaksana di akhirat; yang terlaksana di dunia seperti kebenaran janji Allah kepada orang-orang mukmin bahwa mereka akan menang dalam peperangan dengan kaum musyrikin, dan yang terlaksana di akhirat seperti kebenaran janji Allah tentang balasan atau perhitungan yang akan dilakukan terhadap manusia.
 
 # 4059
 
@@ -17570,15 +17770,17 @@ Dia menciptakan langit dan bumi dengan (tujuan) yang benar; Dia memasukkan malam
 
 # 4064
 
-Dia menciptakan kamu dari diri yang satu (Adam), kemudian darinya Dia jadikan pasangannya. Dan Dia menurunkan delapan pasang hewan ternak untukmu. Dia menjadikan kamu dalam perut ibumu kejadian demi kejadian dalam tiga kegelapan.757) Yang (berbuat) demikian itu adalah Allah, Tuhan kamu, Tuhan Yang memiliki kerajaan. Tidak ada tuhan selain Dia; maka mengapa kamu dapat dipalingkan?
+Dia menciptakan kamu dari diri yang satu (Adam), kemudian darinya Dia jadikan pasangannya. Dan Dia menurunkan delapan pasang hewan ternak untukmu. Dia menjadikan kamu dalam perut ibumu kejadian demi kejadian dalam tiga kegelapan.[^757] Yang (berbuat) demikian itu adalah Allah, Tuhan kamu, Tuhan Yang memiliki kerajaan. Tidak ada tuhan selain Dia; maka mengapa kamu dapat dipalingkan?
 
-*757) Tiga kegelapan itu ialah kegelapan dalam perut, kegelapan dalam rahim dan kegelapan dalam selaput yang menutup anak dalam rahim.
+[^757]: Tiga kegelapan itu ialah kegelapan dalam perut, kegelapan dalam rahim dan kegelapan dalam selaput yang menutup anak dalam rahim.
 
 # 4065
 
-Jika kamu kafir, maka (ketahuilah) sesungguhnya Allah tidak memerlukanmu758) dan Dia tidak meridai kekafiran hamba-hamba-Nya. Jika kamu bersyukur, Dia meridai kesyukuranmu itu. Seseorang yang berdosa tidak memikul dosa orang lain.759) Kemudian kepada Tuhanmulah kembalimu lalu Dia beritakan kepadamu apa yang telah kamu kerjakan. Sungguh, Dia Maha Mengetahui apa yang tersimpan dalam dada(mu).
+Jika kamu kafir, maka (ketahuilah) sesungguhnya Allah tidak memerlukanmu[^758] dan Dia tidak meridai kekafiran hamba-hamba-Nya. Jika kamu bersyukur, Dia meridai kesyukuranmu itu. Seseorang yang berdosa tidak memikul dosa orang lain.[^759] Kemudian kepada Tuhanmulah kembalimu lalu Dia beritakan kepadamu apa yang telah kamu kerjakan. Sungguh, Dia Maha Mengetahui apa yang tersimpan dalam dada(mu).
 
-*758) Manusia beriman atau tidak, hal itu tidak merugikan Allah sedikit pun. 759) Masing-masing memikul dosanya sendiri-sendiri.
+[^758]: Manusia beriman atau tidak, hal itu tidak merugikan Allah sedikit pun
+
+[^759]: Masing-masing memikul dosanya sendiri-sendiri.
 
 # 4066
 
@@ -17610,9 +17812,9 @@ Katakanlah, "Hanya Allah yang aku sembah dengan penuh ketaatan kepada-Nya dalam 
 
 # 4073
 
-Maka sembahlah selain Dia sesukamu! (wahai orang-orang musyrik).760) Katakanlah, "Sesungguhnya orang-orang yang rugi ialah orang-orang yang merugikan diri mereka sendiri dan keluarganya pada hari Kiamat." Ingatlah! Yang demikian itu adalah kerugian yang nyata.
+Maka sembahlah selain Dia sesukamu! (wahai orang-orang musyrik).[^760] Katakanlah, "Sesungguhnya orang-orang yang rugi ialah orang-orang yang merugikan diri mereka sendiri dan keluarganya pada hari Kiamat." Ingatlah! Yang demikian itu adalah kerugian yang nyata.
 
-*760) Perintah ini bukanlah menurut arti yang sebenarnya, tetapi sebagai pernyataan kemurkaan Allah terhadap kaum musyrikin yang telah berkali-kali diajak kepada Tauhid tetapi mereka selalu ingkar.
+[^760]: Perintah ini bukanlah menurut arti yang sebenarnya, tetapi sebagai pernyataan kemurkaan Allah terhadap kaum musyrikin yang telah berkali-kali diajak kepada Tauhid tetapi mereka selalu ingkar.
 
 # 4074
 
@@ -17620,15 +17822,15 @@ Di atas mereka ada lapisan-lapisan dari api dan di bawahnya juga ada lapisan-lap
 
 # 4075
 
-Dan orang-orang yang menjauhi Tagut (yaitu) tidak menyembahnya761) dan kembali kepada Allah, mereka pantas mendapat berita gembira; sebab itu sampaikanlah kabar gembira itu kepada hamba-hamba-Ku,
+Dan orang-orang yang menjauhi Tagut (yaitu) tidak menyembahnya[^761] dan kembali kepada Allah, mereka pantas mendapat berita gembira; sebab itu sampaikanlah kabar gembira itu kepada hamba-hamba-Ku,
 
-*761) Tagut ialah setan dan apa saja yang disembah selain Allah -Subḥānahu wata'ālā-.
+[^761]: Tagut ialah setan dan apa saja yang disembah selain Allah -Subḥānahu wata'ālā-.
 
 # 4076
 
-(yaitu) mereka yang mendengarkan perkataan lalu mengikuti apa yang paling baik di antaranya.762) Mereka itulah orang-orang yang telah diberi petunjuk oleh Allah dan mereka itulah orang-orang yang mempunyai akal sehat.
+(yaitu) mereka yang mendengarkan perkataan lalu mengikuti apa yang paling baik di antaranya.[^762] Mereka itulah orang-orang yang telah diberi petunjuk oleh Allah dan mereka itulah orang-orang yang mempunyai akal sehat.
 
-*762) Mereka yang mendengarkan ajaran-ajaran Al-Qur`an dan ajaran-ajaran yang lain, tetapi yang diikutinya ialah ajaran-ajaran Al-Qur`an karena ia adalah yang paling baik.
+[^762]: Mereka yang mendengarkan ajaran-ajaran Al-Qur`an dan ajaran-ajaran yang lain, tetapi yang diikutinya ialah ajaran-ajaran Al-Qur`an karena ia adalah yang paling baik.
 
 # 4077
 
@@ -17648,9 +17850,9 @@ Maka apakah orang-orang yang dibukakan hatinya oleh Allah untuk (menerima) agama
 
 # 4081
 
-Allah telah menurunkan perkataan yang paling baik (yaitu) Al-Qur`an yang serupa (ayat-ayatnya) lagi berulang-ulang,763) gemetar karenanya kulit orang-orang yang takut kepada Tuhannya, kemudian menjadi tenang kulit dan hati mereka ketika mengingat Allah. Itulah petunjuk Allah, dengan Kitab itu Dia memberi petunjuk kepada siapa yang Dia kehendaki. Dan barang siapa disesatkan oleh Allah, maka tidak seorang pun yang dapat memberi petunjuk.
+Allah telah menurunkan perkataan yang paling baik (yaitu) Al-Qur`an yang serupa (ayat-ayatnya) lagi berulang-ulang,[^763] gemetar karenanya kulit orang-orang yang takut kepada Tuhannya, kemudian menjadi tenang kulit dan hati mereka ketika mengingat Allah. Itulah petunjuk Allah, dengan Kitab itu Dia memberi petunjuk kepada siapa yang Dia kehendaki. Dan barang siapa disesatkan oleh Allah, maka tidak seorang pun yang dapat memberi petunjuk.
 
-*763) Hukum-hukum, pelajaran dan kisah-kisah itu diulang-ulang menyebutnya dalam Al-Qur`an agar lebih kuat pengaruhnya dan lebih meresap. Sebagian mufasir mengatakan bahwa maksudnya itu ialah bahwa ayat-ayat Al-Qur`an itu diulang-ulang membacanya seperti tersebut dalam mukadimah surah Al-Fātiḥah.
+[^763]: Hukum-hukum, pelajaran dan kisah-kisah itu diulang-ulang menyebutnya dalam Al-Qur`an agar lebih kuat pengaruhnya dan lebih meresap. Sebagian mufasir mengatakan bahwa maksudnya itu ialah bahwa ayat-ayat Al-Qur`an itu diulang-ulang membacanya seperti tersebut dalam mukadimah surah Al-Fātiḥah.
 
 # 4082
 
@@ -17726,9 +17928,9 @@ Sungguh, Kami menurunkan kepadamu Kitab (Al-Qur`an) dengan membawa kebenaran unt
 
 # 4100
 
-Allah memegang nyawa (seseorang) pada saat kematiannya dan nyawa (seseorang) yang belum mati ketika dia tidur; maka Dia tahan nyawa (orang) yang telah Dia tetapkan kematiannya dan Dia lepaskan nyawa yang lain sampai waktu yang ditentukan.764) Sungguh, pada yang demikian itu terdapat tanda-tanda (kebesaran) Allah bagi kaum yang berpikir.
+Allah memegang nyawa (seseorang) pada saat kematiannya dan nyawa (seseorang) yang belum mati ketika dia tidur; maka Dia tahan nyawa (orang) yang telah Dia tetapkan kematiannya dan Dia lepaskan nyawa yang lain sampai waktu yang ditentukan.[^764] Sungguh, pada yang demikian itu terdapat tanda-tanda (kebesaran) Allah bagi kaum yang berpikir.
 
-*764) Orang-orang yang mati itu rohnya ditahan Allah sehingga tidak dapat kembali kepada tubuhnya; dan orang-orang yang tidak mati, hanya tidur saja, rohnya dilepaskan sehingga dapat kembali kepadanya lagi.
+[^764]: Orang-orang yang mati itu rohnya ditahan Allah sehingga tidak dapat kembali kepada tubuhnya; dan orang-orang yang tidak mati, hanya tidur saja, rohnya dilepaskan sehingga dapat kembali kepadanya lagi.
 
 # 4101
 
@@ -17772,9 +17974,9 @@ Dan tidakkah mereka mengetahui bahwa Allah melapangkan rezeki bagi siapa yang Di
 
 # 4111
 
-Katakanlah, "Wahai hamba-hamba-Ku yang melampaui batas terhadap diri mereka sendiri! Janganlah kamu berputus asa dari rahmat Allah. Sesungguhnya Allah mengampuni dosa-dosa765) semuanya. Sungguh, Dialah Yang Maha Pengampun, Maha Penyayang.
+Katakanlah, "Wahai hamba-hamba-Ku yang melampaui batas terhadap diri mereka sendiri! Janganlah kamu berputus asa dari rahmat Allah. Sesungguhnya Allah mengampuni dosa-dosa[^765] semuanya. Sungguh, Dialah Yang Maha Pengampun, Maha Penyayang.
 
-*765)Lihat surah An-Nisā` (4) : 48, kecuali dosa syirik.
+[^765]: Lihat surah An-Nisā` (4) : 48, kecuali dosa syirik.
 
 # 4112
 
@@ -17830,9 +18032,9 @@ Karena itu, hendaklah Allah saja yang engkau sembah dan hendaklah engkau termasu
 
 # 4125
 
-Dan mereka tidak mengagungkan Allah sebagaimana mestinya padahal bumi seluruhnya dalam genggaman-Nya pada hari Kiamat dan langit digulung dengan tangan kanan-Nya.766) Mahasuci Dia dan Mahatinggi Dia dari apa yang mereka persekutukan.
+Dan mereka tidak mengagungkan Allah sebagaimana mestinya padahal bumi seluruhnya dalam genggaman-Nya pada hari Kiamat dan langit digulung dengan tangan kanan-Nya.[^766] Mahasuci Dia dan Mahatinggi Dia dari apa yang mereka persekutukan.
 
-*766) Ayat ini menggambarkan kebesaran dan kekuasaan Allah dan hanya Dialah yang berkuasa pada hari Kiamat.
+[^766]: Ayat ini menggambarkan kebesaran dan kekuasaan Allah dan hanya Dialah yang berkuasa pada hari Kiamat.
 
 # 4126
 
@@ -17940,9 +18142,9 @@ Dan berilah mereka peringatan akan hari yang semakin dekat (hari Kiamat, yaitu) 
 
 # 4152
 
-Dia mengetahui (pandangan) mata yang khianat767) dan apa yang tersembunyi dalam dada.
+Dia mengetahui (pandangan) mata yang khianat[^767] dan apa yang tersembunyi dalam dada.
 
-*767) Pandangan kepada hal-hal yang terlarang, seperti memandang kepada perempuan yang bukan mahramnya.
+[^767]: Pandangan kepada hal-hal yang terlarang, seperti memandang kepada perempuan yang bukan mahramnya.
 
 # 4153
 
@@ -17954,9 +18156,9 @@ Dan apakah mereka tidak mengadakan perjalanan di bumi, lalu memperhatikan bagaim
 
 # 4155
 
-Yang demikian itu adalah karena sesungguhnya rasul-rasul telah datang kepada mereka dengan membawa bukti-bukti yang nyata768) lalu mereka ingkar; maka Allah mengazab mereka. Sungguh, Dia Mahakuat, Mahakeras hukuman-Nya.
+Yang demikian itu adalah karena sesungguhnya rasul-rasul telah datang kepada mereka dengan membawa bukti-bukti yang nyata[^768] lalu mereka ingkar; maka Allah mengazab mereka. Sungguh, Dia Mahakuat, Mahakeras hukuman-Nya.
 
-*768) Mukjizat, hukum-hukum dan ajaran-ajaran yang dibawanya.
+[^768]: Mukjizat, hukum-hukum dan ajaran-ajaran yang dibawanya.
 
 # 4156
 
@@ -17996,9 +18198,9 @@ Dan orang yang beriman itu berkata, "Wahai kaumku! Sesungguhnya aku khawatir kam
 
 # 4165
 
-Dan wahai kaumku!" Sesungguhnya aku benar-benar khawatir terhadapmu akan (siksaan) hari saling memanggil,769)
+Dan wahai kaumku!" Sesungguhnya aku benar-benar khawatir terhadapmu akan (siksaan) hari saling memanggil,[^769]
 
-*769) Hari kiamat itu dinamakan hari panggil memanggil karena orang yang berkumpul di Padang Mahsyar sebagian memanggil sebagian yang lain untuk meminta tolong.
+[^769]: Hari kiamat itu dinamakan hari panggil memanggil karena orang yang berkumpul di Padang Mahsyar sebagian memanggil sebagian yang lain untuk meminta tolong.
 
 # 4166
 
@@ -18010,9 +18212,9 @@ Dan sungguh, sebelum itu Yusuf telah datang kepadamu dengan membawa bukti-bukti 
 
 # 4168
 
-(yaitu) orang-orang yang memperdebatkan ayat-ayat Allah tanpa alasan yang sampai kepada mereka.770) Sangat besar kemurkaan (bagi mereka) di sisi Allah dan orang-orang yang beriman. Demikianlah Allah mengunci hati setiap orang yang sombong dan berlaku sewenang-wenang.
+(yaitu) orang-orang yang memperdebatkan ayat-ayat Allah tanpa alasan yang sampai kepada mereka.[^770] Sangat besar kemurkaan (bagi mereka) di sisi Allah dan orang-orang yang beriman. Demikianlah Allah mengunci hati setiap orang yang sombong dan berlaku sewenang-wenang.
 
-*770) Mereka menolak ayat-ayat Allah tanpa alasan yang datang kepada mereka.
+[^770]: Mereka menolak ayat-ayat Allah tanpa alasan yang datang kepada mereka.
 
 # 4169
 
@@ -18200,15 +18402,15 @@ Dan Dia memperlihatkan tanda-tanda (kebesaran-Nya) kepadamu. Lalu tanda-tanda (k
 
 # 4215
 
-Maka apakah mereka tidak mengadakan perjalanan di bumi, lalu mereka memperhatikan bagaimana kesudahan orang-orang yang sebelum mereka. Mereka itu lebih banyak dan lebih hebat kekuatannya serta (lebih banyak) peninggalan-peninggalan peradabannya di bumi,771) maka apa yang mereka usahakan itu tidak dapat menolong mereka.
+Maka apakah mereka tidak mengadakan perjalanan di bumi, lalu mereka memperhatikan bagaimana kesudahan orang-orang yang sebelum mereka. Mereka itu lebih banyak dan lebih hebat kekuatannya serta (lebih banyak) peninggalan-peninggalan peradabannya di bumi,[^771] maka apa yang mereka usahakan itu tidak dapat menolong mereka.
 
-*771) Peradaban seperti bangunan, benteng, istana dan alat-alat perlengkapan.
+[^771]: Peradaban seperti bangunan, benteng, istana dan alat-alat perlengkapan.
 
 # 4216
 
-Maka ketika para rasul datang kepada mereka dengan membawa bukti-bukti yang nyata, mereka merasa senang dengan ilmu yang ada pada mereka772) dan mereka dikepung oleh (azab) yang dahulu mereka memperolok-olokkannya.
+Maka ketika para rasul datang kepada mereka dengan membawa bukti-bukti yang nyata, mereka merasa senang dengan ilmu yang ada pada mereka[^772] dan mereka dikepung oleh (azab) yang dahulu mereka memperolok-olokkannya.
 
-*772) Mereka sudah merasa cukup dengan ilmu pengetahuan yang ada pada mereka dan tidak merasa perlu lagi dengan ilmu pengetahuan yang diajarkan oleh rasul-rasul mereka. Malah mereka meremehkan dan memperolok-olokkan keterangan yang dibawa para rasul itu.
+[^772]: Mereka sudah merasa cukup dengan ilmu pengetahuan yang ada pada mereka dan tidak merasa perlu lagi dengan ilmu pengetahuan yang diajarkan oleh rasul-rasul mereka. Malah mereka meremehkan dan memperolok-olokkan keterangan yang dibawa para rasul itu.
 
 # 4217
 
@@ -18272,9 +18474,9 @@ Jika mereka berpaling maka katakanlah, "Aku telah memperingatkan kamu akan (benc
 
 # 4232
 
-Ketika para rasul datang kepada mereka dari depan dan dari belakang mereka773) (dengan menyerukan), "Janganlah kamu menyembah selain Allah!" Mereka menjawab, "Kalau Tuhan kami menghendaki tentu Dia menurunkan malaikat-malaikat-Nya, maka sesungguhnya kami mengingkari wahyu yang engkau diutus menyampaikannya."
+Ketika para rasul datang kepada mereka dari depan dan dari belakang mereka[^773] (dengan menyerukan), "Janganlah kamu menyembah selain Allah!" Mereka menjawab, "Kalau Tuhan kami menghendaki tentu Dia menurunkan malaikat-malaikat-Nya, maka sesungguhnya kami mengingkari wahyu yang engkau diutus menyampaikannya."
 
-*773) Yang dimaksud “dari depan dan dari belakang” ialah dari segala jurusan.
+[^773]: Yang dimaksud “dari depan dan dari belakang” ialah dari segala jurusan.
 
 # 4233
 
@@ -18306,9 +18508,9 @@ Dan mereka berkata kepada kulit mereka, "Mengapa kamu menjadi saksi terhadap kam
 
 # 4240
 
-Dan kamu tidak dapat bersembunyi dari kesaksian pendengaran, penglihatan dan kulitmu terhadapmu774) bahkan kamu mengira Allah tidak mengetahui banyak tentang apa yang kamu lakukan.
+Dan kamu tidak dapat bersembunyi dari kesaksian pendengaran, penglihatan dan kulitmu terhadapmu[^774] bahkan kamu mengira Allah tidak mengetahui banyak tentang apa yang kamu lakukan.
 
-*774) Mereka itu melakukan dosa dengan terang-terangan karena mereka menyangka bahwa Allah tidak mengetahui perbuatan mereka dan mereka tidak menyangka bahwa pendengaran, penglihatan dan kulit mereka akan menjadi saksi di akhirat kelak atas perbuatan mereka.
+[^774]: Mereka itu melakukan dosa dengan terang-terangan karena mereka menyangka bahwa Allah tidak mengetahui perbuatan mereka dan mereka tidak menyangka bahwa pendengaran, penglihatan dan kulit mereka akan menjadi saksi di akhirat kelak atas perbuatan mereka.
 
 # 4241
 
@@ -18320,9 +18522,9 @@ Meskipun mereka bersabar (atas azab neraka) maka nerakalah tempat tinggal mereka
 
 # 4243
 
-Dan Kami tetapkan bagi mereka teman-teman (setan) yang memuji-muji apa saja yang ada di hadapan dan di belakang mereka775) dan tetaplah atas mereka putusan azab bersama umat-umat yang terdahulu sebelum mereka dari (golongan) jin dan manusia. Sungguh, mereka adalah orang-orang yang rugi.
+Dan Kami tetapkan bagi mereka teman-teman (setan) yang memuji-muji apa saja yang ada di hadapan dan di belakang mereka[^775] dan tetaplah atas mereka putusan azab bersama umat-umat yang terdahulu sebelum mereka dari (golongan) jin dan manusia. Sungguh, mereka adalah orang-orang yang rugi.
 
-*775) “Yang ada di hadapan” ialah nafsu dan kelezatan di dunia yang sedang dicapai, sedang yang dimaksud dengan “di belakang mereka” ialah angan-angan dan cita-cita yang tidak dapat dicapai.
+[^775]: “Yang ada di hadapan” ialah nafsu dan kelezatan di dunia yang sedang dicapai, sedang yang dimaksud dengan “di belakang mereka” ialah angan-angan dan cita-cita yang tidak dapat dicapai.
 
 # 4244
 
@@ -18398,9 +18600,9 @@ Apa yang dikatakan (oleh orang-orang kafir) kepadamu tidak lain adalah apa yang 
 
 # 4262
 
-Dan sekiranya Al-Qur`an Kami jadikan sebagai bacaan dalam bahasa selain bahasa Arab, niscaya mereka mengatakan, "Mengapa tidak dijelaskan ayat-ayatnya?" Apakah patut (Al-Qur`an) dalam bahasa selain bahasa Arab sedang (rasul) orang Arab? Katakanlah, "Al-Qur`an adalah petunjuk dan penyembuh bagi orang-orang yang beriman. Dan orang-orang yang tidak beriman pada telinga mereka ada sumbatan, dan (Al-Qur`an) itu merupakan kegelapan bagi mereka.776) Mereka itu (seperti) orang-orang yang dipanggil dari tempat yang jauh."
+Dan sekiranya Al-Qur`an Kami jadikan sebagai bacaan dalam bahasa selain bahasa Arab, niscaya mereka mengatakan, "Mengapa tidak dijelaskan ayat-ayatnya?" Apakah patut (Al-Qur`an) dalam bahasa selain bahasa Arab sedang (rasul) orang Arab? Katakanlah, "Al-Qur`an adalah petunjuk dan penyembuh bagi orang-orang yang beriman. Dan orang-orang yang tidak beriman pada telinga mereka ada sumbatan, dan (Al-Qur`an) itu merupakan kegelapan bagi mereka.[^776] Mereka itu (seperti) orang-orang yang dipanggil dari tempat yang jauh."
 
-*776) Tidak memberi petunjuk kepada mereka.
+[^776]: Tidak memberi petunjuk kepada mereka.
 
 # 4263
 
@@ -18412,9 +18614,11 @@ Barangsiapa mengerjakan kebajikan maka (pahalanya) untuk dirinya sendiri dan bar
 
 # 4265
 
-Kepada-Nyalah ilmu tentang hari Kiamat itu dikembalikan.777) Tidak ada buah-buahan yang keluar dari kelopaknya dan tidak seorang perempuan pun yang mengandung dan yang melahirkan, melainkan semuanya dengan sepengetahuan-Nya. Pada hari ketika Dia (Allah) menyeru mereka, "Di manakah sekutu-sekutu-Ku itu?"778) Mereka menjawab, "Kami nyatakan kepada Engkau bahwa tidak ada seorang pun di antara kami yang dapat memberi kesaksian (bahwa Engkau mempunyai sekutu)."
+Kepada-Nyalah ilmu tentang hari Kiamat itu dikembalikan.[^777] Tidak ada buah-buahan yang keluar dari kelopaknya dan tidak seorang perempuan pun yang mengandung dan yang melahirkan, melainkan semuanya dengan sepengetahuan-Nya. Pada hari ketika Dia (Allah) menyeru mereka, "Di manakah sekutu-sekutu-Ku itu?"[^778] Mereka menjawab, "Kami nyatakan kepada Engkau bahwa tidak ada seorang pun di antara kami yang dapat memberi kesaksian (bahwa Engkau mempunyai sekutu)."
 
-*777) Hanya Allah lah yang mengetahui kapan datangnya hari Kiamat itu. 778) Berhala-berhala yang mereka anggap sebagai sekutu Allah.
+[^777]: Hanya Allah lah yang mengetahui kapan datangnya hari Kiamat itu
+
+[^778]: Berhala-berhala yang mereka anggap sebagai sekutu Allah.
 
 # 4266
 
@@ -18534,9 +18738,9 @@ Kamu akan melihat orang-orang zalim itu sangat ketakutan karena (kejahatan-kejah
 
 # 4295
 
-Itulah (karunia) yang diberitahukan Allah untuk menggembirakan hamba-hamba-Nya yang beriman dan mengerjakan kebajikan. Katakanlah (Muhammad), "Aku tidak meminta kepadamu sesuatu imbalan pun atas seruanku kecuali kasih sayang dalam kekeluargaan." Dan barangsiapa mengerjakan kebaikan akan Kami tambahkan kebaikan baginya. Sungguh, Allah Maha Pengampun, Maha Mensyukuri.779)
+Itulah (karunia) yang diberitahukan Allah untuk menggembirakan hamba-hamba-Nya yang beriman dan mengerjakan kebajikan. Katakanlah (Muhammad), "Aku tidak meminta kepadamu sesuatu imbalan pun atas seruanku kecuali kasih sayang dalam kekeluargaan." Dan barangsiapa mengerjakan kebaikan akan Kami tambahkan kebaikan baginya. Sungguh, Allah Maha Pengampun, Maha Mensyukuri.[^779]
 
-*779) Allah mensyukuri hambanya, maksudnya ialah memberi pahala terhadap amal-amal hamba-Nya, memaafkan kesalahannya, menambah nikmat-Nya dan sebagainya.
+[^779]: Allah mensyukuri hambanya, maksudnya ialah memberi pahala terhadap amal-amal hamba-Nya, memaafkan kesalahannya, menambah nikmat-Nya dan sebagainya.
 
 # 4296
 
@@ -18648,9 +18852,9 @@ atau Dia menganugerahkan jenis laki-laki dan perempuan, dan menjadikan mandul si
 
 # 4323
 
-Dan tidaklah patut bagi seorang manusia bahwa Allah akan berbicara kepadanya kecuali dengan perantaraan wahyu atau dari belakang tabir780) atau dengan mengutus utusan (malaikat) lalu diwahyukan kepadanya dengan izin-Nya apa yang Dia kehendaki. Sungguh, Dia Mahatinggi, Mahabijaksana.
+Dan tidaklah patut bagi seorang manusia bahwa Allah akan berbicara kepadanya kecuali dengan perantaraan wahyu atau dari belakang tabir[^780] atau dengan mengutus utusan (malaikat) lalu diwahyukan kepadanya dengan izin-Nya apa yang Dia kehendaki. Sungguh, Dia Mahatinggi, Mahabijaksana.
 
-*780) Seseorang dapat mendengar kalam Ilahi akan tetapi dia tidak dapat melihat-Nya seperti yang terjadi pada diri Nabi Musa -'alaihissalām-.
+[^780]: Seseorang dapat mendengar kalam Ilahi akan tetapi dia tidak dapat melihat-Nya seperti yang terjadi pada diri Nabi Musa -'alaihissalām-.
 
 # 4324
 
@@ -18718,9 +18922,9 @@ dan sesungguhnya kami akan kembali kepada Tuhan kami."
 
 # 4340
 
-Dan mereka menjadikan sebagian dari hamba-hamba-Nya sebagai bagian dari-Nya.781) Sungguh, manusia itu pengingkar (nikmat Tuhan) yang nyata.
+Dan mereka menjadikan sebagian dari hamba-hamba-Nya sebagai bagian dari-Nya.[^781] Sungguh, manusia itu pengingkar (nikmat Tuhan) yang nyata.
 
-*781) Orang musyrikin mengatakan bahwa malaikat itu adalah anak perempuan Allah, padahal malaikat itu sebagian dari makhluk-Nya.
+[^781]: Orang musyrikin mengatakan bahwa malaikat itu adalah anak perempuan Allah, padahal malaikat itu sebagian dari makhluk-Nya.
 
 # 4341
 
@@ -18732,9 +18936,9 @@ Dan apabila salah seorang di antara mereka diberi kabar gembira dengan apa (kela
 
 # 4343
 
-Dan apakah patut (menjadi anak Allah) orang yang dibesarkan sebagai perhiasan sedang dia tidak mampu memberi alasan yang tegas dan jelas dalam pertengkaran.782)
+Dan apakah patut (menjadi anak Allah) orang yang dibesarkan sebagai perhiasan sedang dia tidak mampu memberi alasan yang tegas dan jelas dalam pertengkaran.[^782]
 
-*782) Ayat ini menggambarkan keadaan perempuan Arab pada waktu Al-Qur`an diturunkan. Mereka tidak diberi kesempatan dalam pendidikan, sehingga kurang kecerdasannya dan hanya dijadikan perhiasan saja. Perempuan tidak mampu bersikap tegas, berani dan jelas menyampaikan kehendaknya untuk memperoleh kemenangan.
+[^782]: Ayat ini menggambarkan keadaan perempuan Arab pada waktu Al-Qur`an diturunkan. Mereka tidak diberi kesempatan dalam pendidikan, sehingga kurang kecerdasannya dan hanya dijadikan perhiasan saja. Perempuan tidak mampu bersikap tegas, berani dan jelas menyampaikan kehendaknya untuk memperoleh kemenangan.
 
 # 4344
 
@@ -18774,15 +18978,15 @@ kecuali (kamu menyembah) Allah yang menciptakanku; karena sungguh, Dia akan memb
 
 # 4353
 
-Dan (Ibrahim) menjadikan (kalimat tauhid) itu kalimat yang kekal pada keturunannya agar mereka kembali (kepada kalimat tauhid itu).783)
+Dan (Ibrahim) menjadikan (kalimat tauhid) itu kalimat yang kekal pada keturunannya agar mereka kembali (kepada kalimat tauhid itu).[^783]
 
-*783) Nabi Ibrahim -'alaihissalām- menjadikan kalimat tauhid sebagai pegangan bagi keturunannya, sehingga kalau terdapat di antara mereka yang mempersekutukan Allah agar segera kembali kepada tauhid itu.
+[^783]: Nabi Ibrahim -'alaihissalām- menjadikan kalimat tauhid sebagai pegangan bagi keturunannya, sehingga kalau terdapat di antara mereka yang mempersekutukan Allah agar segera kembali kepada tauhid itu.
 
 # 4354
 
-Bahkan Aku telah memberikan kenikmatan hidup kepada mereka dan nenek moyang mereka sampai kebenaran (Al-Qur`an) datang kepada mereka bersama seorang Rasul yang memberi penjelasan.784)
+Bahkan Aku telah memberikan kenikmatan hidup kepada mereka dan nenek moyang mereka sampai kebenaran (Al-Qur`an) datang kepada mereka bersama seorang Rasul yang memberi penjelasan.[^784]
 
-*784) Di antara keturunan Nabi Ibrahim -'alaihissalām- ada yang melupakan tauhid dan Allah tidak mengazab mereka, tetapi memberikan kenikmatan dan kehidupan kepada mereka yang seharusnya mereka syukuri. Mereka tidak mensyukuri, bahkan menuruti keinginannya, karena itu Allah menurunkan Al-Qur`an dan mengutus seorang Rasul untuk membimbing mereka.
+[^784]: Di antara keturunan Nabi Ibrahim -'alaihissalām- ada yang melupakan tauhid dan Allah tidak mengazab mereka, tetapi memberikan kenikmatan dan kehidupan kepada mereka yang seharusnya mereka syukuri. Mereka tidak mensyukuri, bahkan menuruti keinginannya, karena itu Allah menurunkan Al-Qur`an dan mengutus seorang Rasul untuk membimbing mereka.
 
 # 4355
 
@@ -18834,9 +19038,9 @@ Maka sungguh, sekiranya Kami mewafatkanmu (sebelum engkau mencapai kemenangan), 
 
 # 4367
 
-atau Kami perlihatkan kepadamu (azab) yang telah Kami ancamkan kepada mereka.785) Maka sungguh, Kami berkuasa atas mereka.
+atau Kami perlihatkan kepadamu (azab) yang telah Kami ancamkan kepada mereka.[^785] Maka sungguh, Kami berkuasa atas mereka.
 
-*785) Kemenangan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dan kehancuran kaum musyrik.
+[^785]: Kemenangan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dan kehancuran kaum musyrik.
 
 # 4368
 
@@ -18860,15 +19064,15 @@ Maka ketika dia (Musa) datang kepada mereka membawa mukjizat-mukjizat Kami, seke
 
 # 4373
 
-Dan tidaklah Kami perlihatkan suatu mukjizat kepada mereka kecuali (mukjizat itu) lebih besar dari mukjizat-mukjizat (yang sebelumnya). Dan Kami timpakan kepada mereka azab786) agar mereka kembali (ke jalan yang benar).
+Dan tidaklah Kami perlihatkan suatu mukjizat kepada mereka kecuali (mukjizat itu) lebih besar dari mukjizat-mukjizat (yang sebelumnya). Dan Kami timpakan kepada mereka azab[^786] agar mereka kembali (ke jalan yang benar).
 
-*786) Yang dimaksud "azab" di sini ialah azab duniawi sebagai cobaan dari Allah, seperti kekurangan makanan, berjangkitnya hama tumbuh-tumbuhan, dan lain-lain.
+[^786]: Yang dimaksud "azab" di sini ialah azab duniawi sebagai cobaan dari Allah, seperti kekurangan makanan, berjangkitnya hama tumbuh-tumbuhan, dan lain-lain.
 
 # 4374
 
-Dan mereka berkata, "Wahai penyihir!787) Berdoalah kepada Tuhanmu untuk (melepaskan) kami sesuai dengan apa yang telah dijanjikan-Nya kepadamu; sesungguhnya kami (jika doamu dikabulkan) akan menjadi orang yang mendapat petunjuk."
+Dan mereka berkata, "Wahai penyihir![^787] Berdoalah kepada Tuhanmu untuk (melepaskan) kami sesuai dengan apa yang telah dijanjikan-Nya kepadamu; sesungguhnya kami (jika doamu dikabulkan) akan menjadi orang yang mendapat petunjuk."
 
-*787) Maksud mereka ialah Nabi Musa -'alaihissalām-.
+[^787]: Maksud mereka ialah Nabi Musa -'alaihissalām-.
 
 # 4375
 
@@ -18904,9 +19108,9 @@ Dan ketika putra Maryam (Isa) dijadikan perumpamaan, tiba-tiba kaummu (Suku Qura
 
 # 4383
 
-Dan mereka berkata, "Manakah yang lebih baik, tuhan-tuhan kami atau dia (Isa)?" Mereka tidak memberikan (perumpamaan itu) kepadamu melainkan dengan maksud membantah saja; sebenarnya mereka adalah kaum yang suka bertengkar.788)
+Dan mereka berkata, "Manakah yang lebih baik, tuhan-tuhan kami atau dia (Isa)?" Mereka tidak memberikan (perumpamaan itu) kepadamu melainkan dengan maksud membantah saja; sebenarnya mereka adalah kaum yang suka bertengkar.[^788]
 
-*788) Ayat 57 dan 58 di atas menceritakan kembali kejadian sewaktu Rasulullah membacakan di hadapan orang-orang Quraisy ayat 98 Surah Al-Anbiyā` (21) yang artinya, "Sesungguhnya kamu dan yang kamu sembah selain Allah adalah kayu bakar Jahanam." Maka seorang Quraisy bernama Abdullah bin Az-Zab'ari menanyakan kepada Rasulullah -ṣallallāhu 'alaihi wa sallam- tentang keadaan Isa yang disembah orang Nasrani, apakah dia juga menjadi kayu bakar neraka Jahanam seperti halnya sembahan-sembahan mereka. Rasulullah terdiam dan mereka pun menertawakannya; lalu mereka menanyakan lagi mengenai mana yang lebih baik, antara sembahan-sembahan mereka dan Nabi Isa -ṣallallāhu 'alaihi wa sallam-. Pertanyaan-pertanyaan mereka ini hanyalah mencari perbantahan saja, bukanlah mencari kebenaran. Jalan pikiran mereka adalah kesalahan yang besar. Nabi Isa -ṣallallāhu 'alaihi wa sallam- tidak mengetahui bahwa dia disembah, dan dia tidak rela dijadikan sesembahan.
+[^788]: Ayat 57 dan 58 di atas menceritakan kembali kejadian sewaktu Rasulullah membacakan di hadapan orang-orang Quraisy ayat 98 Surah Al-Anbiyā` (21) yang artinya, "Sesungguhnya kamu dan yang kamu sembah selain Allah adalah kayu bakar Jahanam." Maka seorang Quraisy bernama Abdullah bin Az-Zab'ari menanyakan kepada Rasulullah -ṣallallāhu 'alaihi wa sallam- tentang keadaan Isa yang disembah orang Nasrani, apakah dia juga menjadi kayu bakar neraka Jahanam seperti halnya sembahan-sembahan mereka. Rasulullah terdiam dan mereka pun menertawakannya; lalu mereka menanyakan lagi mengenai mana yang lebih baik, antara sembahan-sembahan mereka dan Nabi Isa -ṣallallāhu 'alaihi wa sallam-. Pertanyaan-pertanyaan mereka ini hanyalah mencari perbantahan saja, bukanlah mencari kebenaran. Jalan pikiran mereka adalah kesalahan yang besar. Nabi Isa -ṣallallāhu 'alaihi wa sallam- tidak mengetahui bahwa dia disembah, dan dia tidak rela dijadikan sesembahan.
 
 # 4384
 
@@ -18926,9 +19130,9 @@ Dan janganlah kamu sekali-kali dipalingkan oleh setan; sungguh, setan itu musuh 
 
 # 4388
 
-Dan ketika Isa datang membawa keterangan, dia berkata, "Sungguh, aku datang kepadamu dengan membawa hikmah,789) dan untuk menjelaskan kepadamu sebagian dari apa yang kamu perselisihkan; maka bertakwalah kepada Allah dan taatlah kepadaku.
+Dan ketika Isa datang membawa keterangan, dia berkata, "Sungguh, aku datang kepadamu dengan membawa hikmah,[^789] dan untuk menjelaskan kepadamu sebagian dari apa yang kamu perselisihkan; maka bertakwalah kepada Allah dan taatlah kepadaku.
 
-*789) Kenabian, Injil dan hukum.
+[^789]: Kenabian, Injil dan hukum.
 
 # 4389
 
@@ -18992,9 +19196,9 @@ Sungguh, Kami telah datang membawa kebenaran kepada kamu, tetapi kebanyakan di a
 
 # 4404
 
-Ataukah mereka telah merencanakan suatu tipu daya (jahat), maka sesungguhnya Kami telah berencana (mengatasi tipu daya mereka).790)
+Ataukah mereka telah merencanakan suatu tipu daya (jahat), maka sesungguhnya Kami telah berencana (mengatasi tipu daya mereka).[^790]
 
-*790) Kaum musyrikin Mekkah bukan saja benci kepada kebenaran, bahkan mereka juga telah merencanakan hendak membunuh Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-. Tetapi rencana itu gagal, karena Allah juga mempunyai rencana untuk menyelamatkan Nabi.
+[^790]: Kaum musyrikin Mekkah bukan saja benci kepada kebenaran, bahkan mereka juga telah merencanakan hendak membunuh Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-. Tetapi rencana itu gagal, karena Allah juga mempunyai rencana untuk menyelamatkan Nabi.
 
 # 4405
 
@@ -19046,15 +19250,15 @@ Demi Kitab (Al-Qur`an) yang jelas,
 
 # 4417
 
-Sesungguhnya Kami menurunkannya pada malam yang diberkahi.791) Sungguh, Kamilah yang memberi peringatan.
+Sesungguhnya Kami menurunkannya pada malam yang diberkahi.[^791] Sungguh, Kamilah yang memberi peringatan.
 
-*791) Malam Al-Qur`an pertama kali diturunkan.
+[^791]: Malam Al-Qur`an pertama kali diturunkan.
 
 # 4418
 
-Pada (malam itu) dijelaskan segala urusan yang penuh hikmah,792)
+Pada (malam itu) dijelaskan segala urusan yang penuh hikmah,[^792]
 
-*792) Segala perkara yang berhubungan dengan kehidupan makhluk seperti hidup, mati, rezeki, nasib baik, nasib buruk, dan sebagainya.
+[^792]: Segala perkara yang berhubungan dengan kehidupan makhluk seperti hidup, mati, rezeki, nasib baik, nasib buruk, dan sebagainya.
 
 # 4419
 
@@ -19078,9 +19282,9 @@ Tetapi mereka dalam keraguan, mereka bermain-main.
 
 # 4424
 
-Maka tunggulah pada hari ketika langit membawa kabut yang tampak jelas,793)
+Maka tunggulah pada hari ketika langit membawa kabut yang tampak jelas,[^793]
 
-*793) Bencana kelaparan yang menimpa kaum Quraisy karena mereka menentang Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
+[^793]: Bencana kelaparan yang menimpa kaum Quraisy karena mereka menentang Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
 
 # 4425
 
@@ -19096,9 +19300,9 @@ Bagaimana mereka dapat menerima peringatan, padahal (sebelumnya pun) seorang Ras
 
 # 4428
 
-kemudian mereka berpaling darinya dan berkata, "Dia itu orang yang menerima ajaran (dari orang lain) dan orang gila."794)
+kemudian mereka berpaling darinya dan berkata, "Dia itu orang yang menerima ajaran (dari orang lain) dan orang gila."[^794]
 
-*794) Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dituduh menerima pelajaran dari seorang yang bukan bangsa Arab bernama Addas yang beragama Nasrani.
+[^794]: Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dituduh menerima pelajaran dari seorang yang bukan bangsa Arab bernama Addas yang beragama Nasrani.
 
 # 4429
 
@@ -19106,9 +19310,9 @@ Sungguh, (kalau) Kami melenyapkan azab itu sedikit saja, tentu kamu akan kembali
 
 # 4430
 
-(Ingatlah) pada hari (ketika) Kami menghantam mereka dengan keras.795) Kami pasti memberi balasan.
+(Ingatlah) pada hari (ketika) Kami menghantam mereka dengan keras.[^795] Kami pasti memberi balasan.
 
-*795) Hantaman yang keras itu terjadi pada perang Badar, ketika orang-orang musyrik dipukul mundur sehingga menderita kekalahan, dan banyak di antara pemimpin mereka yang tewas.
+[^795]: Hantaman yang keras itu terjadi pada perang Badar, ketika orang-orang musyrik dipukul mundur sehingga menderita kekalahan, dan banyak di antara pemimpin mereka yang tewas.
 
 # 4431
 
@@ -19176,9 +19380,9 @@ Dan sungguh, Kami pilih mereka (Bani Israil) dengan ilmu (Kami) di atas semua ba
 
 # 4447
 
-Dan telah Kami berikan kepada mereka di antara tanda-tanda (kebesaran Kami) sesuatu yang di dalamnya terdapat nikmat yang nyata.796)
+Dan telah Kami berikan kepada mereka di antara tanda-tanda (kebesaran Kami) sesuatu yang di dalamnya terdapat nikmat yang nyata.[^796]
 
-*796) Seperti naungan awan, turunnya manna dan salwa; terpancarnya air dari batu, dan terbelahnya Laut Merah.
+[^796]: Seperti naungan awan, turunnya manna dan salwa; terpancarnya air dari batu, dan terbelahnya Laut Merah.
 
 # 4448
 
@@ -19186,9 +19390,9 @@ Sesungguhnya mereka (kaum musyrik) itu pasti akan berkata,
 
 # 4449
 
-"Tidak ada kematian selain kematian di dunia ini. Dan kami tidak akan dibangkitkan,797)
+"Tidak ada kematian selain kematian di dunia ini. Dan kami tidak akan dibangkitkan,[^797]
 
-*797) Orang-orang musyrik Mekkah mengingkari bahwa setelah mati manusia akan dihidupkan lagi.
+[^797]: Orang-orang musyrik Mekkah mengingkari bahwa setelah mati manusia akan dihidupkan lagi.
 
 # 4450
 
@@ -19196,9 +19400,9 @@ maka hadirkanlah (kembali) nenek moyang kami jika kamu orang yang benar."
 
 # 4451
 
-Apakah mereka (kaum musyrikin) yang lebih baik atau kaum Tubba',798) dan orang-orang sebelum mereka yang telah Kami binasakan karena mereka adalah orang-orang yang sungguh berdosa.
+Apakah mereka (kaum musyrikin) yang lebih baik atau kaum Tubba',[^798] dan orang-orang sebelum mereka yang telah Kami binasakan karena mereka adalah orang-orang yang sungguh berdosa.
 
-*798) Orang-orang Ḥimyar di Yaman, dan Tubba' adalah gelar bagi raja-raja mereka.
+[^798]: Orang-orang Ḥimyar di Yaman, dan Tubba' adalah gelar bagi raja-raja mereka.
 
 # 4452
 
@@ -19270,9 +19474,9 @@ Demikianlah, kemudian Kami berikan kepada mereka pasangan bidadari yang bermata 
 
 # 4469
 
-Di dalamnya mereka dapat meminta segala macam buah-buahan dengan aman dan tenteram.799)
+Di dalamnya mereka dapat meminta segala macam buah-buahan dengan aman dan tenteram.[^799]
 
-*799) Tanpa khawatir kehabisan atau khawatir sakit.
+[^799]: Tanpa khawatir kehabisan atau khawatir sakit.
 
 # 4470
 
@@ -19344,9 +19548,9 @@ Dan Dia menundukkan apa yang ada di langit dan apa yang ada di bumi untukmu semu
 
 # 4487
 
-Katakanlah (Muhammad) kepada orang-orang yang beriman, hendaklah mereka memaafkan orang-orang yang tidak takut akan hari-hari Allah,800) karena Dia akan membalas suatu kaum sesuai dengan apa yang telah mereka kerjakan.
+Katakanlah (Muhammad) kepada orang-orang yang beriman, hendaklah mereka memaafkan orang-orang yang tidak takut akan hari-hari Allah,[^800] karena Dia akan membalas suatu kaum sesuai dengan apa yang telah mereka kerjakan.
 
-*800) Hari-hari pada waktu Allah menimpakan siksaan kepada mereka.
+[^800]: Hari-hari pada waktu Allah menimpakan siksaan kepada mereka.
 
 # 4488
 
@@ -19382,9 +19586,9 @@ Dan Allah menciptakan langit dan bumi dengan tujuan yang benar, dan agar setiap 
 
 # 4496
 
-Maka pernahkah kamu melihat orang yang menjadikan hawa nafsunya sebagai tuhannya, dan Allah membiarkannya sesat dengan sepengetahuan-Nya,801) dan Allah telah mengunci pendengaran dan hatinya serta meletakkan tutup atas penglihatannya? Maka siapakah yang mampu memberinya petunjuk setelah Allah (membiarkannya sesat)? Mengapa kamu tidak mengambil pelajaran?
+Maka pernahkah kamu melihat orang yang menjadikan hawa nafsunya sebagai tuhannya, dan Allah membiarkannya sesat dengan sepengetahuan-Nya,[^801] dan Allah telah mengunci pendengaran dan hatinya serta meletakkan tutup atas penglihatannya? Maka siapakah yang mampu memberinya petunjuk setelah Allah (membiarkannya sesat)? Mengapa kamu tidak mengambil pelajaran?
 
-*801) Allah membiarkan orang itu sesat karena Allah telah mengetahui bahwa dia tidak menerima petunjuk-petunjuk yang diberikan kepadanya.
+[^801]: Allah membiarkan orang itu sesat karena Allah telah mengetahui bahwa dia tidak menerima petunjuk-petunjuk yang diberikan kepadanya.
 
 # 4497
 
@@ -19480,15 +19684,15 @@ Katakanlah (Muhammad), "Aku bukanlah Rasul yang pertama di antara rasul-rasul, d
 
 # 4520
 
-Katakanlah, "Terangkan kepadaku, bagaimana pendapatmu jika sebenarnya (Al-Qur`an) ini datang dari Allah, dan kamu mengingkarinya, padahal ada seorang saksi dari Bani Israil802) yang mengakui (kebenaran) yang serupa dengan (yang disebut dalam) Al-Qur`an lalu dia beriman; kamu menyombongkan diri. Sungguh, Allah tidak memberi petunjuk kepada orang-orang yang zalim."
+Katakanlah, "Terangkan kepadaku, bagaimana pendapatmu jika sebenarnya (Al-Qur`an) ini datang dari Allah, dan kamu mengingkarinya, padahal ada seorang saksi dari Bani Israil[^802] yang mengakui (kebenaran) yang serupa dengan (yang disebut dalam) Al-Qur`an lalu dia beriman; kamu menyombongkan diri. Sungguh, Allah tidak memberi petunjuk kepada orang-orang yang zalim."
 
-*802) Yang dimaksud dengan "seorang dari Bani Israil" ialah Abdullah bin Salam. Dia menyatakan keimanannya kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- setelah memperhatikan bahwa di antara isi Al-Qur`an ada yang sesuai dengan Taurat, seperti ajaran tauhid, janji dan ancaman, kerasulan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-, adanya kehidupan akhirat, dan sebagainya.
+[^802]: Yang dimaksud dengan "seorang dari Bani Israil" ialah Abdullah bin Salam. Dia menyatakan keimanannya kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- setelah memperhatikan bahwa di antara isi Al-Qur`an ada yang sesuai dengan Taurat, seperti ajaran tauhid, janji dan ancaman, kerasulan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-, adanya kehidupan akhirat, dan sebagainya.
 
 # 4521
 
-Dan orang-orang yang kafir berkata kepada orang-orang yang beriman, "Sekiranya Al-Qur`an itu sesuatu yang baik, tentu mereka tidak pantas mendahului kami (beriman) kepadanya.803) Tetapi karena mereka tidak mendapat petunjuk dengannya, maka mereka akan berkata, "Ini adalah dusta yang lama."
+Dan orang-orang yang kafir berkata kepada orang-orang yang beriman, "Sekiranya Al-Qur`an itu sesuatu yang baik, tentu mereka tidak pantas mendahului kami (beriman) kepadanya.[^803] Tetapi karena mereka tidak mendapat petunjuk dengannya, maka mereka akan berkata, "Ini adalah dusta yang lama."
 
-*803) Bahwa orang-orang kafir itu mengejek orang-orang Islam dengan mengatakan, "Sekiranya Al-Qur`an ini benar, tentu kami lebih dahulu beriman kepadanya daripada orang-orang miskin dan lemah, seperti Bilal, 'Ammar, Suhaib, Khabbab dan lainnya."
+[^803]: Bahwa orang-orang kafir itu mengejek orang-orang Islam dengan mengatakan, "Sekiranya Al-Qur`an ini benar, tentu kami lebih dahulu beriman kepadanya daripada orang-orang miskin dan lemah, seperti Bilal, 'Ammar, Suhaib, Khabbab dan lainnya."
 
 # 4522
 
@@ -19496,9 +19700,9 @@ Dan sebelum (Al-Qur`an) itu telah ada Kitab Musa sebagai petunjuk dan rahmat. Da
 
 # 4523
 
-Sesungguhnya orang-orang yang berkata, "Tuhan kami adalah Allah," kemudian mereka tetap istikamah,804) tidak ada rasa khawatir pada mereka, dan mereka tidak (pula) bersedih hati.
+Sesungguhnya orang-orang yang berkata, "Tuhan kami adalah Allah," kemudian mereka tetap istikamah,[^804] tidak ada rasa khawatir pada mereka, dan mereka tidak (pula) bersedih hati.
 
-*804) Teguh pendirian dalam tauhid dan tetap beramal saleh.
+[^804]: Teguh pendirian dalam tauhid dan tetap beramal saleh.
 
 # 4524
 
@@ -19514,9 +19718,9 @@ Mereka itulah orang-orang yang Kami terima amal baiknya yang telah mereka kerjak
 
 # 4527
 
-Dan orang yang berkata kepada kedua orang tuanya, "Ah."805) Apakah kamu berdua memperingatkan kepadaku bahwa aku akan dibangkitkan (dari kubur), padahal beberapa umat sebelumku telah berlalu? Lalu kedua orang tuanya itu memohon pertolongan kepada Allah (seraya berkata), "Celaka kamu, berimanlah! Sungguh, janji Allah itu benar." Lalu dia (anak itu) berkata, "Ini hanyalah dongeng orang-orang dahulu."
+Dan orang yang berkata kepada kedua orang tuanya, "Ah."[^805] Apakah kamu berdua memperingatkan kepadaku bahwa aku akan dibangkitkan (dari kubur), padahal beberapa umat sebelumku telah berlalu? Lalu kedua orang tuanya itu memohon pertolongan kepada Allah (seraya berkata), "Celaka kamu, berimanlah! Sungguh, janji Allah itu benar." Lalu dia (anak itu) berkata, "Ini hanyalah dongeng orang-orang dahulu."
 
-*805) Kata-kata, kalimat, atau isyarat, yang bernada menentang.
+[^805]: Kata-kata, kalimat, atau isyarat, yang bernada menentang.
 
 # 4528
 
@@ -19756,9 +19960,9 @@ dan agar Allah menolongmu dengan pertolongan yang kuat (banyak).
 
 # 4587
 
-Dialah yang telah menurunkan ketenangan ke dalam hati orang-orang mukmin untuk menambah keimanan atas keimanan mereka (yang telah ada). Dan milik Allah lah bala tentara langit dan bumi,806) dan Allah Maha Mengetahui, Mahabijaksana,
+Dialah yang telah menurunkan ketenangan ke dalam hati orang-orang mukmin untuk menambah keimanan atas keimanan mereka (yang telah ada). Dan milik Allah lah bala tentara langit dan bumi,[^806] dan Allah Maha Mengetahui, Mahabijaksana,
 
-*806) Penolong yang dijadikan Allah untuk orang-orang mukmin seperti malaikat, hewan-hewan, angin topan dan sebagainya.
+[^806]: Penolong yang dijadikan Allah untuk orang-orang mukmin seperti malaikat, hewan-hewan, angin topan dan sebagainya.
 
 # 4588
 
@@ -19822,9 +20026,9 @@ dan harta rampasan perang yang banyak yang akan mereka peroleh. Dan Allah Mahape
 
 # 4603
 
-Allah menjanjikan kepadamu harta rampasan perang yang banyak yang dapat kamu ambil, maka Dia segerakan (harta rampasan perang) ini untukmu,807) dan Dia menahan tangan manusia dari (membinasakan)mu (agar kamu mensyukuri-Nya), dan agar menjadi bukti bagi orang-orang mukmin, dan agar Dia menunjukkan kamu ke jalan yang lurus,
+Allah menjanjikan kepadamu harta rampasan perang yang banyak yang dapat kamu ambil, maka Dia segerakan (harta rampasan perang) ini untukmu,[^807] dan Dia menahan tangan manusia dari (membinasakan)mu (agar kamu mensyukuri-Nya), dan agar menjadi bukti bagi orang-orang mukmin, dan agar Dia menunjukkan kamu ke jalan yang lurus,
 
-*807) Allah menjanjikan harta rampasan perang yang banyak kepada kaum muslimin. Sebagai pendahuluan, Allah memberikannya, pada Perang Khaibar.
+[^807]: Allah menjanjikan harta rampasan perang yang banyak kepada kaum muslimin. Sebagai pendahuluan, Allah memberikannya, pada Perang Khaibar.
 
 # 4604
 
@@ -19848,15 +20052,15 @@ Merekalah orang-orang kafir yang menghalang-halangi kamu (masuk) Masjidilharam d
 
 # 4609
 
-Ketika orang-orang yang kafir menanamkan kesombongan dalam hati mereka (yaitu) kesombongan jahiliah, maka Allah menurunkan ketenangan kepada Rasul-Nya, dan kepada orang-orang mukmin, dan (Allah) mewajibkan kepada mereka tetap taat menjalankan kalimat takwa,808) dan mereka lebih berhak dengan itu dan patut memilikinya. Dan Allah Maha Mengetahui segala sesuatu.
+Ketika orang-orang yang kafir menanamkan kesombongan dalam hati mereka (yaitu) kesombongan jahiliah, maka Allah menurunkan ketenangan kepada Rasul-Nya, dan kepada orang-orang mukmin, dan (Allah) mewajibkan kepada mereka tetap taat menjalankan kalimat takwa,[^808] dan mereka lebih berhak dengan itu dan patut memilikinya. Dan Allah Maha Mengetahui segala sesuatu.
 
-*808) “Kalimat takwa” ialah kalimat tauhid dan memurnikan ketaatan kepada Allah.
+[^808]: “Kalimat takwa” ialah kalimat tauhid dan memurnikan ketaatan kepada Allah.
 
 # 4610
 
-Sungguh, Allah akan membuktikan kepada Rasul-Nya tentang kebenaran mimpinya bahwa kamu pasti akan memasuki Masjidilharam, jika Allah menghendaki dalam keadaan aman, dengan menggundul rambut kepala dan memendekkannya, sedang kamu tidak merasa takut. Maka Allah mengetahui apa yang tidak kamu ketahui, dan selain itu Dia telah memberikan kemenangan yang dekat.809)
+Sungguh, Allah akan membuktikan kepada Rasul-Nya tentang kebenaran mimpinya bahwa kamu pasti akan memasuki Masjidilharam, jika Allah menghendaki dalam keadaan aman, dengan menggundul rambut kepala dan memendekkannya, sedang kamu tidak merasa takut. Maka Allah mengetahui apa yang tidak kamu ketahui, dan selain itu Dia telah memberikan kemenangan yang dekat.[^809]
 
-*809) Beberapa lama sebelum terjadi Perjanjian Hudaibiyah, Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- bermimpi bahwa beliau bersama para sahabatnya memasuki kota Mekkah dan Masjidilharam dalam keadaan sebagian mereka menggundul rambut dan sebagian lagi memendekkannya. Nabi mengatakan bahwa mimpi beliau itu nanti akan terjadi. Kemudian berita ini tersiar di kalangan kaum muslimin, orang-orang munafik, serta orang-orang Yahudi dan Nasrani. Setelah terjadi “Perjanjian Hudaibiyah” dan kaum muslimin pada waktu itu tidak sampai memasuki Mekkah, maka orang-orang munafik memperolok-olokkan Nabi dan menyatakan bahwa mimpi yang beliau katakan pasti akan terjadi itu adalah bohong belaka. Maka turunlah ayat ini yang menyatakan bahwa mimpi Nabi itu pasti akan menjadi kenyataan pada tahun yang akan datang. Sekiranya pada tahun terjadinya Perjanjian Hudaibiyah itu kaum muslimin memasuki kota Mekkah, maka keselamatan orang-orang yang menyembunyikan imannya yang berada di kota Mekkah pada waktu itu merasa terancam.
+[^809]: Beberapa lama sebelum terjadi Perjanjian Hudaibiyah, Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- bermimpi bahwa beliau bersama para sahabatnya memasuki kota Mekkah dan Masjidilharam dalam keadaan sebagian mereka menggundul rambut dan sebagian lagi memendekkannya. Nabi mengatakan bahwa mimpi beliau itu nanti akan terjadi. Kemudian berita ini tersiar di kalangan kaum muslimin, orang-orang munafik, serta orang-orang Yahudi dan Nasrani. Setelah terjadi “Perjanjian Hudaibiyah” dan kaum muslimin pada waktu itu tidak sampai memasuki Mekkah, maka orang-orang munafik memperolok-olokkan Nabi dan menyatakan bahwa mimpi yang beliau katakan pasti akan terjadi itu adalah bohong belaka. Maka turunlah ayat ini yang menyatakan bahwa mimpi Nabi itu pasti akan menjadi kenyataan pada tahun yang akan datang. Sekiranya pada tahun terjadinya Perjanjian Hudaibiyah itu kaum muslimin memasuki kota Mekkah, maka keselamatan orang-orang yang menyembunyikan imannya yang berada di kota Mekkah pada waktu itu merasa terancam.
 
 # 4611
 
@@ -19868,9 +20072,9 @@ Muhammad adalah utusan Allah, dan orang-orang yang bersama dengannya bersikap ke
 
 # 4613
 
-Wahai orang-orang yang beriman! Janganlah kamu mendahului Allah dan Rasul-Nya,810) dan bertakwalah kepada Allah. Sungguh, Allah Maha Mendengar, Maha Mengetahui.
+Wahai orang-orang yang beriman! Janganlah kamu mendahului Allah dan Rasul-Nya,[^810] dan bertakwalah kepada Allah. Sungguh, Allah Maha Mendengar, Maha Mengetahui.
 
-*810) Maksudnya, orang-orang mukmin tidak boleh menetapkan suatu hukum, sebelum ada ketetapan dari Allah dan Rasul-Nya.
+[^810]: Maksudnya, orang-orang mukmin tidak boleh menetapkan suatu hukum, sebelum ada ketetapan dari Allah dan Rasul-Nya.
 
 # 4614
 
@@ -20146,15 +20350,15 @@ dan sungguh, (hari) pembalasan pasti terjadi.
 
 # 4682
 
-Demi langit yang mempunyai jalan-jalan,811)
+Demi langit yang mempunyai jalan-jalan,[^811]
 
-*811) Garis edar bintang, planet, dan benda-benda angkasa lainnya. Ada pula yang mengartikan żātil Ḥubuk dengan "mempunyai ciptaan yang bagus", "mempunyai hiasan bintang-bintang", atau "mempunyai bangunan yang kokoh".
+[^811]: Garis edar bintang, planet, dan benda-benda angkasa lainnya. Ada pula yang mengartikan żātil Ḥubuk dengan "mempunyai ciptaan yang bagus", "mempunyai hiasan bintang-bintang", atau "mempunyai bangunan yang kokoh".
 
 # 4683
 
-sungguh, kamu benar-benar dalam keadaan berbeda-beda pendapat.812)
+sungguh, kamu benar-benar dalam keadaan berbeda-beda pendapat.[^812]
 
-*812) Kaum musyrikin berbeda-beda pendapat tentang Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dan Al-Qur`an.
+[^812]: Kaum musyrikin berbeda-beda pendapat tentang Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dan Al-Qur`an.
 
 # 4684
 
@@ -20258,9 +20462,9 @@ agar kami menimpa mereka dengan batu-batu dari tanah (yang keras),
 
 # 4709
 
-yang ditandai dari Tuhanmu untuk (membinasakan) orang-orang yang melampaui batas."813)
+yang ditandai dari Tuhanmu untuk (membinasakan) orang-orang yang melampaui batas."[^813]
 
-*813) Batu-batu itu diberi tanda dengan nama orang yang akan dibinasakan.
+[^813]: Batu-batu itu diberi tanda dengan nama orang yang akan dibinasakan.
 
 # 4710
 
@@ -20272,9 +20476,9 @@ Maka Kami tidak mendapati di dalamnya (negeri itu), kecuali satu rumah dari oran
 
 # 4712
 
-Dan Kami tinggalkan padanya (negeri itu) suatu tanda814) bagi orang-orang yang takut kepada azab yang pedih.
+Dan Kami tinggalkan padanya (negeri itu) suatu tanda[^814] bagi orang-orang yang takut kepada azab yang pedih.
 
-*814) Batu-batu yang bertumpuk-tumpuk yang dipergunakan untuk membinasakan kaum Luṭ. Ada pula yang mengatakan suatu telaga yang airnya hitam dan busuk baunya.
+[^814]: Batu-batu yang bertumpuk-tumpuk yang dipergunakan untuk membinasakan kaum Luṭ. Ada pula yang mengatakan suatu telaga yang airnya hitam dan busuk baunya.
 
 # 4713
 
@@ -20382,9 +20586,9 @@ pada lembaran yang terbuka,
 
 # 4739
 
-demi Baitulma'mur,815)
+demi Baitulma'mur,[^815]
 
-*815) Riwayat Bukhari, Muslim dan Tafsir Ibnu Kasir, rumah di langit ke tujuh yang senantiasa diramaikan 70.000 malaikat yang bertasbih.
+[^815]: Riwayat Bukhari, Muslim dan Tafsir Ibnu Kasir, rumah di langit ke tujuh yang senantiasa diramaikan 70.000 malaikat yang bertasbih.
 
 # 4740
 
@@ -20556,9 +20760,9 @@ Maka biarkanlah mereka hingga mereka menemui hari (yang dijanjikan kepada) merek
 
 # 4782
 
-Dan sesungguhnya bagi orang-orang yang zalim masih ada azab selain itu. Tetapi kebanyakan mereka tidak mengetahui.816)
+Dan sesungguhnya bagi orang-orang yang zalim masih ada azab selain itu. Tetapi kebanyakan mereka tidak mengetahui.[^816]
 
-*816) Adanya musim kemarau, kelaparan, malapetaka yang menimpa mereka, azab kubur dan lain-lain.
+[^816]: Adanya musim kemarau, kelaparan, malapetaka yang menimpa mereka, azab kubur dan lain-lain.
 
 # 4783
 
@@ -20622,9 +20826,9 @@ Dan sungguh, dia (Muhammad) telah melihatnya (dalam rupanya yang asli) pada wakt
 
 # 4798
 
-(yaitu) di Sidratilmuntahā,817)
+(yaitu) di Sidratilmuntahā,[^817]
 
-*817) Sidratilmuntahā yaitu tempat yang paling atas pada langit yang ke-7, yang telah dikunjungi Nabi -ṣallallāhu 'alaihi wa sallam- ketika Mi'raj.
+[^817]: Sidratilmuntahā yaitu tempat yang paling atas pada langit yang ke-7, yang telah dikunjungi Nabi -ṣallallāhu 'alaihi wa sallam- ketika Mi'raj.
 
 # 4799
 
@@ -20764,9 +20968,9 @@ dan sesungguhnya Dialah yang memberikan kekayaan dan kecukupan.
 
 # 4833
 
-dan sesungguhnya Dialah Tuhan (yang memiliki) bintang Syi'rā,818)
+dan sesungguhnya Dialah Tuhan (yang memiliki) bintang Syi'rā,[^818]
 
-*818) Bintang yang disembah oleh orang-orang Arab pada masa Jahiliah.
+[^818]: Bintang yang disembah oleh orang-orang Arab pada masa Jahiliah.
 
 # 4834
 
@@ -21106,9 +21310,9 @@ Maka nikmat Tuhanmu yang manakah yang kamu dustakan?
 
 # 4918
 
-Tuhan (yang memelihara) dua Timur dan Tuhan (yang memelihara) dua Barat.819)
+Tuhan (yang memelihara) dua Timur dan Tuhan (yang memelihara) dua Barat.[^819]
 
-*819) Tempat terbit dan terbenam matahari pada musim panas dan pada musim dingin.
+[^819]: Tempat terbit dan terbenam matahari pada musim panas dan pada musim dingin.
 
 # 4919
 
@@ -21120,9 +21324,9 @@ Dia membiarkan dua laut mengalir yang (kemudian) keduanya bertemu,
 
 # 4921
 
-di antara keduanya ada batas yang tidak dilampaui oleh masing-masing.820)
+di antara keduanya ada batas yang tidak dilampaui oleh masing-masing.[^820]
 
-*820) Di antara mufasir ada yang berpendapat bahwa Lā yabgiyān maksudnya masing-masing tidak menghendaki. Dengan demikian maksud ayat 19 dan 20, ialah bahwa ada dua laut yang keduanya terpisah dibatasi oleh tanah genting, tetapi tanah genting itu tidaklah dikehendaki (tidak diperlukan) maka pada akhirnya, tanah genting itu dibuang (digali untuk keperluan lalu lintas), maka bertemulah kedua lautan itu. Seperti Terusan Suez dan Terusan Panama.
+[^820]: Di antara mufasir ada yang berpendapat bahwa Lā yabgiyān maksudnya masing-masing tidak menghendaki. Dengan demikian maksud ayat 19 dan 20, ialah bahwa ada dua laut yang keduanya terpisah dibatasi oleh tanah genting, tetapi tanah genting itu tidaklah dikehendaki (tidak diperlukan) maka pada akhirnya, tanah genting itu dibuang (digali untuk keperluan lalu lintas), maka bertemulah kedua lautan itu. Seperti Terusan Suez dan Terusan Panama.
 
 # 4922
 
@@ -21158,9 +21362,9 @@ Maka nikmat Tuhanmu yang manakah yang kamu dustakan?
 
 # 4930
 
-Apa yang di langit dan di bumi selalu meminta kepada-Nya. Setiap waktu Dia dalam kesibukan.821)
+Apa yang di langit dan di bumi selalu meminta kepada-Nya. Setiap waktu Dia dalam kesibukan.[^821]
 
-*821) Allah senantiasa menciptakan, menghidupkan, mematikan, memelihara, memberi rezeki dan lain-lain.
+[^821]: Allah senantiasa menciptakan, menghidupkan, mematikan, memelihara, memberi rezeki dan lain-lain.
 
 # 4931
 
@@ -21200,9 +21404,9 @@ Maka nikmat Tuhanmu yang manakah yang kamu dustakan?
 
 # 4940
 
-Maka pada hari itu manusia dan jin tidak ditanya tentang dosanya.822)
+Maka pada hari itu manusia dan jin tidak ditanya tentang dosanya.[^822]
 
-*822) Tetapi pada saatnya akan dimintai pertanggungjawaban atas segala amal perbuatannya.
+[^822]: Tetapi pada saatnya akan dimintai pertanggungjawaban atas segala amal perbuatannya.
 
 # 4941
 
@@ -21230,9 +21434,9 @@ Maka nikmat Tuhanmu yang manakah yang kamu dustakan?
 
 # 4947
 
-Dan bagi siapa yang takut akan saat menghadap Tuhannya ada dua surga.823)
+Dan bagi siapa yang takut akan saat menghadap Tuhannya ada dua surga.[^823]
 
-*823) Surga untuk manusia dan surga untuk jin. Ada juga mufasir yang berpendapat surga dunia dan surga akhirat.
+[^823]: Surga untuk manusia dan surga untuk jin. Ada juga mufasir yang berpendapat surga dunia dan surga akhirat.
 
 # 4948
 
@@ -21296,9 +21500,9 @@ Maka nikmat Tuhanmu yang manakah yang kamu dustakan?
 
 # 4963
 
-Dan selain dari dua surga itu ada dua surga lagi.824)
+Dan selain dari dua surga itu ada dua surga lagi.[^824]
 
-*824) Selain dua surga yang tersebut di atas ada lagi dua surga untuk orang-orang mukmin yang kurang derajatnya dari orang-orang mukmin yang dimasukkan ke dalam surga yang pertama.
+[^824]: Selain dua surga yang tersebut di atas ada lagi dua surga untuk orang-orang mukmin yang kurang derajatnya dari orang-orang mukmin yang dimasukkan ke dalam surga yang pertama.
 
 # 4964
 
@@ -21394,15 +21598,15 @@ dan kamu menjadi tiga golongan,
 
 # 4987
 
-yaitu golongan kanan,825) alangkah mulianya golongan kanan itu,
+yaitu golongan kanan,[^825] alangkah mulianya golongan kanan itu,
 
-*825) Orang-orang yang menerima buku catatan amal mereka dengan tangan kanan.
+[^825]: Orang-orang yang menerima buku catatan amal mereka dengan tangan kanan.
 
 # 4988
 
-dan golongan kiri,826) alangkah sengsaranya golongan kiri itu,
+dan golongan kiri,[^826] alangkah sengsaranya golongan kiri itu,
 
-*826) Orang-orang yang menerima buku catatan amal mereka dengan tangan kiri.
+[^826]: Orang-orang yang menerima buku catatan amal mereka dengan tangan kiri.
 
 # 4989
 
@@ -21418,9 +21622,9 @@ Berada dalam surga kenikmatan,
 
 # 4992
 
-segolongan besar dari orang-orang yang terdahulu,827)
+segolongan besar dari orang-orang yang terdahulu,[^827]
 
-*827) Umat nabi-nabi sebelum Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dan generasi awal dari umat Islam. Dan yang dimaksud orang yang kemudian ialah umat Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- yang datang di akhir zaman.
+[^827]: Umat nabi-nabi sebelum Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dan generasi awal dari umat Islam. Dan yang dimaksud orang yang kemudian ialah umat Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- yang datang di akhir zaman.
 
 # 4993
 
@@ -21508,9 +21712,9 @@ dan kasur-kasur yang tebal lagi empuk.
 
 # 5014
 
-Kami menciptakan mereka (bidadari-bidadari itu) secara langsung,828)
+Kami menciptakan mereka (bidadari-bidadari itu) secara langsung,[^828]
 
-*828) Mereka diciptakan tanpa melalui kelahiran dan langsung menjadi gadis.
+[^828]: Mereka diciptakan tanpa melalui kelahiran dan langsung menjadi gadis.
 
 # 5015
 
@@ -21578,9 +21782,9 @@ Kemudian sesungguhnya kamu, wahai orang-orang yang sesat lagi mendustakan!
 
 # 5031
 
-pasti akan memakan pohon zaqqum,829)
+pasti akan memakan pohon zaqqum,[^829]
 
-*829) Jenis pohon di neraka yang mengakibatkan derita yang luar biasa bagi yang memakannya.
+[^829]: Jenis pohon di neraka yang mengakibatkan derita yang luar biasa bagi yang memakannya.
 
 # 5032
 
@@ -21768,15 +21972,15 @@ Milik-Nyalah kerajaan langit dan bumi, Dia menghidupkan dan mematikan, dan Dia M
 
 # 5078
 
-Dialah Yang Awal, Yang Akhir, Yang Zahir dan Yang Batin;830) dan Dia Maha Mengetahui segala sesuatu.
+Dialah Yang Awal, Yang Akhir, Yang Zahir dan Yang Batin;[^830] dan Dia Maha Mengetahui segala sesuatu.
 
-*830) "Yang Awal" ialah yang telah ada sebelum segala sesuatu yang ada, "Yang Akhir" ialah yang tetap ada setelah segala sesuatu musnah, "Yang Zahir" ialah Yang Maha Tinggi, dan "Al-Batin" ialah tidak ada sesuatu pun yang menghalangi-Nya dan Dia lebih dekat kepada makhluk dari pada makhluk itu sendiri kepada dirinya.
+[^830]: "Yang Awal" ialah yang telah ada sebelum segala sesuatu yang ada, "Yang Akhir" ialah yang tetap ada setelah segala sesuatu musnah, "Yang Zahir" ialah Yang Maha Tinggi, dan "Al-Batin" ialah tidak ada sesuatu pun yang menghalangi-Nya dan Dia lebih dekat kepada makhluk dari pada makhluk itu sendiri kepada dirinya.
 
 # 5079
 
-Dialah yang menciptakan langit dan bumi dalam enam masa; kemudian Dia bersemayam di atas Arasy. Dia mengetahui apa yang masuk ke dalam bumi dan apa yang keluar dari dalamnya, apa yang turun dari langit dan apa yang naik ke sana .831) Dan Dia bersama kamu di mana saja kamu berada. Dan Allah Maha Melihat apa yang kamu kerjakan.
+Dialah yang menciptakan langit dan bumi dalam enam masa; kemudian Dia bersemayam di atas Arasy. Dia mengetahui apa yang masuk ke dalam bumi dan apa yang keluar dari dalamnya, apa yang turun dari langit dan apa yang naik ke sana .[^831] Dan Dia bersama kamu di mana saja kamu berada. Dan Allah Maha Melihat apa yang kamu kerjakan.
 
-*831) Yang dimaksud dengan "yang naik" antara lain amal-amal dan doa-doa hamba-Nya.
+[^831]: Yang dimaksud dengan "yang naik" antara lain amal-amal dan doa-doa hamba-Nya.
 
 # 5080
 
@@ -21868,9 +22072,9 @@ Dan sungguh, Kami telah mengutus Nuh dan Ibrahim, dan Kami berikan kenabian dan 
 
 # 5102
 
-Kemudian Kami susulkan rasul-rasul Kami mengikuti jejak mereka dan Kami susulkan (pula) Isa putra Maryam; Dan Kami berikan Injil kepadanya dan Kami jadikan rasa santun dan kasih sayang dalam hati orang-orang yang mengikutinya. Mereka mengada-adakan raḥbāniyyah,832) padahal Kami tidak mewajibkannya kepada mereka, (yang Kami wajibkan hanyalah) mencari keridaan Allah, tetapi tidak mereka pelihara dengan semestinya. Maka kepada orang-orang yang beriman di antara mereka Kami berikan pahalanya, dan banyak di antara mereka yang fasik.
+Kemudian Kami susulkan rasul-rasul Kami mengikuti jejak mereka dan Kami susulkan (pula) Isa putra Maryam; Dan Kami berikan Injil kepadanya dan Kami jadikan rasa santun dan kasih sayang dalam hati orang-orang yang mengikutinya. Mereka mengada-adakan raḥbāniyyah,[^832] padahal Kami tidak mewajibkannya kepada mereka, (yang Kami wajibkan hanyalah) mencari keridaan Allah, tetapi tidak mereka pelihara dengan semestinya. Maka kepada orang-orang yang beriman di antara mereka Kami berikan pahalanya, dan banyak di antara mereka yang fasik.
 
-*832) Tidak beristri atau tidak bersuami dan mengurung diri dalam biara.
+[^832]: Tidak beristri atau tidak bersuami dan mengurung diri dalam biara.
 
 # 5103
 
@@ -21882,9 +22086,9 @@ Agar Ahli Kitab mengetahui bahwa sedikit pun mereka tidak akan mendapat karunia 
 
 # 5105
 
-Sungguh, Allah telah mendengar ucapan perempuan yang mengajukan gugatan kepadamu (Muhammad) tentang suaminya, dan mengadukan (halnya) kepada Allah, dan Allah mendengar percakapan antara kamu berdua. Sesungguhnya Allah Maha Mendengar, Maha Melihat.833)
+Sungguh, Allah telah mendengar ucapan perempuan yang mengajukan gugatan kepadamu (Muhammad) tentang suaminya, dan mengadukan (halnya) kepada Allah, dan Allah mendengar percakapan antara kamu berdua. Sesungguhnya Allah Maha Mendengar, Maha Melihat.[^833]
 
-*833) Ayat ini turun berhubungan dengan persoalan seorang perempuan yang bernama Khaulah binti Ṡa'Iabah yang telah dizihar oleh suaminya ,Aus bin Ṣamit. Dia mengatakan kepada istrinya, "Kamu bagiku sudah seperti punggung ibuku", dengan maksud dia tidak boleh lagi menggauli istrinya, sebagaimana dia tidak boleh menggauli ibunya. Menurut adat Jahiliah, kalimat zihar seperti ini sudah sama dengan mentalak istri. Maka Khaulah mengadukan halnya itu kepada Rasulullah -ṣallallāhu 'alaihi wa sallam-. Rasulullah menjawab bahwa dalam hal ini belum ada keputusan Allah. Dan dalam riwayat yang lain, Rasulullah mengatakan, "Engkau telah diharamkan menggauli dia." Lalu Khaulah berkata, "Suamiku belum menyebut kata-kata talak", kemudian Khaulah berulang-ulang mendesak Rasulullah agar menetapkan suatu keputusan dalam hal ini, sehingga kemudian turunlah ayat ini dan ayat-ayat berikutnya.
+[^833]: Ayat ini turun berhubungan dengan persoalan seorang perempuan yang bernama Khaulah binti Ṡa'Iabah yang telah dizihar oleh suaminya ,Aus bin Ṣamit. Dia mengatakan kepada istrinya, "Kamu bagiku sudah seperti punggung ibuku", dengan maksud dia tidak boleh lagi menggauli istrinya, sebagaimana dia tidak boleh menggauli ibunya. Menurut adat Jahiliah, kalimat zihar seperti ini sudah sama dengan mentalak istri. Maka Khaulah mengadukan halnya itu kepada Rasulullah -ṣallallāhu 'alaihi wa sallam-. Rasulullah menjawab bahwa dalam hal ini belum ada keputusan Allah. Dan dalam riwayat yang lain, Rasulullah mengatakan, "Engkau telah diharamkan menggauli dia." Lalu Khaulah berkata, "Suamiku belum menyebut kata-kata talak", kemudian Khaulah berulang-ulang mendesak Rasulullah agar menetapkan suatu keputusan dalam hal ini, sehingga kemudian turunlah ayat ini dan ayat-ayat berikutnya.
 
 # 5106
 
@@ -21968,9 +22172,9 @@ Allah telah menetapkan, "Aku dan rasul-rasul-Ku pasti menang." Sungguh, Allah Ma
 
 # 5126
 
-Engkau (Muhammad) tidak akan mendapatkan suatu kaum yang beriman kepada Allah dan hari akhirat, saling berkasih sayang dengan orang-orang yang menentang Allah dan Rasul-Nya, sekalipun orang-orang itu bapaknya, anaknya, saudaranya atau keluarganya. Mereka itulah orang-orang yang dalam hatinya telah ditanamkan Allah keimanan, dan Allah telah menguatkan mereka dengan pertolongan834) yang datang dari Dia. Lalu Dia (Allah) memasukkan mereka ke dalam surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya. Allah rida terhadap mereka dan mereka pun merasa puas terhadap (limpahan rahmat)-Nya. Merekalah golongan Allah. Ingatlah, sesungguhnya golongan Allah itulah yang beruntung.
+Engkau (Muhammad) tidak akan mendapatkan suatu kaum yang beriman kepada Allah dan hari akhirat, saling berkasih sayang dengan orang-orang yang menentang Allah dan Rasul-Nya, sekalipun orang-orang itu bapaknya, anaknya, saudaranya atau keluarganya. Mereka itulah orang-orang yang dalam hatinya telah ditanamkan Allah keimanan, dan Allah telah menguatkan mereka dengan pertolongan[^834] yang datang dari Dia. Lalu Dia (Allah) memasukkan mereka ke dalam surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya. Allah rida terhadap mereka dan mereka pun merasa puas terhadap (limpahan rahmat)-Nya. Merekalah golongan Allah. Ingatlah, sesungguhnya golongan Allah itulah yang beruntung.
 
-*834) Kemauan dan kekuatan batin, kebersihan hati, kemenangan terhadap musuh dan lain-lain.
+[^834]: Kemauan dan kekuatan batin, kebersihan hati, kemenangan terhadap musuh dan lain-lain.
 
 # 5127
 
@@ -21978,9 +22182,9 @@ Apa yang ada di langit dan apa yang ada di bumi bertasbih kepada Allah; dan Dial
 
 # 5128
 
-Dialah yang mengeluarkan orang-orang kafir di antara Ahli Kitab dari kampung halamannya pada saat pengusiran yang pertama.835) Kamu tidak menyangka, bahwa mereka akan keluar, dan mereka pun yakin benteng-benteng mereka akan dapat mempertahankan mereka dari (siksaan) Allah; maka Allah mendatangkan (siksaan) kepada mereka dari arah yang tidak mereka sangka-sangka. Dan Allah menanamkan rasa takut ke dalam hati mereka; sehingga mereka memusnahkan rumah-rumah mereka dengan tangannya sendiri dan tangan orang-orang mukmin. Maka ambillah (kejadian itu) untuk menjadi pelajaran, wahai orang-orang yang mempunyai pandangan!
+Dialah yang mengeluarkan orang-orang kafir di antara Ahli Kitab dari kampung halamannya pada saat pengusiran yang pertama.[^835] Kamu tidak menyangka, bahwa mereka akan keluar, dan mereka pun yakin benteng-benteng mereka akan dapat mempertahankan mereka dari (siksaan) Allah; maka Allah mendatangkan (siksaan) kepada mereka dari arah yang tidak mereka sangka-sangka. Dan Allah menanamkan rasa takut ke dalam hati mereka; sehingga mereka memusnahkan rumah-rumah mereka dengan tangannya sendiri dan tangan orang-orang mukmin. Maka ambillah (kejadian itu) untuk menjadi pelajaran, wahai orang-orang yang mempunyai pandangan!
 
-*835) Orang-orang Yahudi Bani Nadir, merekalah yang mula-mula dikumpulkan untuk diusir keluar dari kota Madinah.
+[^835]: Orang-orang Yahudi Bani Nadir, merekalah yang mula-mula dikumpulkan untuk diusir keluar dari kota Madinah.
 
 # 5129
 
@@ -21996,9 +22200,9 @@ Apa yang kamu tebang di antara pohon kurma (milik orang-orang kafir) atau yang k
 
 # 5132
 
-Dan harta rampasan fai`836) dari mereka yang diberikan Allah kepada Rasul-Nya, kamu tidak memerlukan kuda atau unta untuk mendapatkannya, tetapi Allah memberikan kekuasaan kepada rasul-rasul-Nya terhadap siapa yang Dia kehendaki. Dan Allah Mahakuasa atas segala sesuatu.
+Dan harta rampasan fai`[^836] dari mereka yang diberikan Allah kepada Rasul-Nya, kamu tidak memerlukan kuda atau unta untuk mendapatkannya, tetapi Allah memberikan kekuasaan kepada rasul-rasul-Nya terhadap siapa yang Dia kehendaki. Dan Allah Mahakuasa atas segala sesuatu.
 
-*836) Harta rampasan yang diperoleh dari musuh tanpa terjadinya pertempuran. Pembagiannya berlainan dengan pembagian ganimah. Ganimah ialah harta rampasan yang diperoleh dari musuh setelah terjadi pertempuran. Pembagian Fai` seperti yang tersebut pada ayat 7. Sedang pembagian ganimah tersebut pada ayat 41 surah Al-Anfal.
+[^836]: Harta rampasan yang diperoleh dari musuh tanpa terjadinya pertempuran. Pembagiannya berlainan dengan pembagian ganimah. Ganimah ialah harta rampasan yang diperoleh dari musuh setelah terjadi pertempuran. Pembagian Fai` seperti yang tersebut pada ayat 7. Sedang pembagian ganimah tersebut pada ayat 41 surah Al-Anfal.
 
 # 5133
 
@@ -22006,9 +22210,9 @@ Harta rampasan fai` yang diberikan Allah kepada Rasul-Nya (yang berasal) dari pe
 
 # 5134
 
-(Harta rampasan itu juga) untuk orang-orang fakir yang berhijrah837) yang terusir dari kampung halamannya dan meninggalkan harta bendanya demi mencari karunia dari Allah dan keridaan(-Nya) dan (demi) menolong (agama) Allah dan Rasul-Nya. Mereka itulah orang-orang yang benar.
+(Harta rampasan itu juga) untuk orang-orang fakir yang berhijrah[^837] yang terusir dari kampung halamannya dan meninggalkan harta bendanya demi mencari karunia dari Allah dan keridaan(-Nya) dan (demi) menolong (agama) Allah dan Rasul-Nya. Mereka itulah orang-orang yang benar.
 
-*837) Kerabat Nabi, anak-anak yatim, orang-orang miskin, dan orang yang dalam perjalanan yang kesemuanya orang fakir dan berhijrah.
+[^837]: Kerabat Nabi, anak-anak yatim, orang-orang miskin, dan orang yang dalam perjalanan yang kesemuanya orang fakir dan berhijrah.
 
 # 5135
 
@@ -22088,9 +22292,9 @@ Kaum kerabatmu dan anak-anakmu tidak akan bermanfaat bagimu pada hari Kiamat. Di
 
 # 5154
 
-Sungguh, telah ada suri teladan yang baik bagimu pada Ibrahim dan orang-orang yang bersama dengannya, ketika mereka berkata kepada kaumnya, "Sesungguhnya kami berlepas diri dari kamu dan dari apa yang kamu sembah selain Allah, kami mengingkari (kekafiran)mu, dan telah nyata antara kami dan kamu ada permusuhan dan kebencian buat selama-lamanya sampai kamu beriman kepada Allah saja," kecuali perkataan Ibrahim kepada ayahnya,838) "Sungguh, aku akan memohonkan ampunan bagimu, namun aku sama sekali tidak dapat menolak (siksaan) Allah terhadapmu." (Ibrahim berkata), "Ya Tuhan kami, hanya kepada Engkau kami bertawakal dan hanya kepada Engkau kami bertobat serta hanya kepada Engkaulah kami kembali,
+Sungguh, telah ada suri teladan yang baik bagimu pada Ibrahim dan orang-orang yang bersama dengannya, ketika mereka berkata kepada kaumnya, "Sesungguhnya kami berlepas diri dari kamu dan dari apa yang kamu sembah selain Allah, kami mengingkari (kekafiran)mu, dan telah nyata antara kami dan kamu ada permusuhan dan kebencian buat selama-lamanya sampai kamu beriman kepada Allah saja," kecuali perkataan Ibrahim kepada ayahnya,[^838] "Sungguh, aku akan memohonkan ampunan bagimu, namun aku sama sekali tidak dapat menolak (siksaan) Allah terhadapmu." (Ibrahim berkata), "Ya Tuhan kami, hanya kepada Engkau kami bertawakal dan hanya kepada Engkau kami bertobat serta hanya kepada Engkaulah kami kembali,
 
-*838) Nabi Ibrahim pernah memintakan ampunan untuk ayahnya yang musyrik kepada Allah. Ini tidak boleh ditiru, karena Allah tidak membenarkan orang mukmin memintakan ampunan untuk orang-orang kafir (lihat surah An-Nisā`: 48).
+[^838]: Nabi Ibrahim pernah memintakan ampunan untuk ayahnya yang musyrik kepada Allah. Ini tidak boleh ditiru, karena Allah tidak membenarkan orang mukmin memintakan ampunan untuk orang-orang kafir (lihat surah An-Nisā`: 48).
 
 # 5155
 
@@ -22118,15 +22322,15 @@ Wahai orang-orang yang beriman! Apabila perempuan-perempuan mukmin datang berhij
 
 # 5161
 
-Dan jika ada sesuatu (pengembalian mahar) yang belum kamu selesaikan dari istri-istrimu yang lari kepada orang-orang kafir, lalu kamu dapat mengalahkan mereka, maka berikanlah (dari harta rampasan) kepada orang-orang yang istrinya lari itu sebanyak mahar yang telah mereka berikan.839) Dan bertakwalah kamu kepada Allah yang kepada-Nya kamu beriman.
+Dan jika ada sesuatu (pengembalian mahar) yang belum kamu selesaikan dari istri-istrimu yang lari kepada orang-orang kafir, lalu kamu dapat mengalahkan mereka, maka berikanlah (dari harta rampasan) kepada orang-orang yang istrinya lari itu sebanyak mahar yang telah mereka berikan.[^839] Dan bertakwalah kamu kepada Allah yang kepada-Nya kamu beriman.
 
-*839) Sebelum ganimah dibagikan kepada lima golongan yang berhak, dibayarkan lebih dahulu mahar-mahar kepada suami-suami yang istri-istri mereka lari ke daerah kaum kafir.
+[^839]: Sebelum ganimah dibagikan kepada lima golongan yang berhak, dibayarkan lebih dahulu mahar-mahar kepada suami-suami yang istri-istri mereka lari ke daerah kaum kafir.
 
 # 5162
 
-Wahai Nabi! Apabila perempuan-perempuan mukmin datang kepadamu untuk mengadakan baiat (janji setia), bahwa mereka tidak akan mempersekutukan sesuatu apa pun dengan Allah, tidak akan mencuri, tidak akan berzina, tidak akan membunuh anak-anaknya, tidak akan berbuat dusta yang mereka ada-adakan antara tangan dan kaki mereka,840) dan tidak akan mendurhakaimu dalam urusan yang baik, maka terimalah janji setia mereka dan mohonkanlah ampunan untuk mereka kepada Allah. Sungguh, Allah Maha Pengampun, Maha Penyayang.
+Wahai Nabi! Apabila perempuan-perempuan mukmin datang kepadamu untuk mengadakan baiat (janji setia), bahwa mereka tidak akan mempersekutukan sesuatu apa pun dengan Allah, tidak akan mencuri, tidak akan berzina, tidak akan membunuh anak-anaknya, tidak akan berbuat dusta yang mereka ada-adakan antara tangan dan kaki mereka,[^840] dan tidak akan mendurhakaimu dalam urusan yang baik, maka terimalah janji setia mereka dan mohonkanlah ampunan untuk mereka kepada Allah. Sungguh, Allah Maha Pengampun, Maha Penyayang.
 
-*840) Perbuatan yang mereka ada-adakan antara tangan dan kaki mereka itu maksudnya ialah mengadakan pengakuan-pengakuan palsu mengenai hubungan antara laki-laki dan perempuan seperti tuduhan berzina, tuduhan bahwa anak si Fulan bukan anak suaminya dan sebagainya.
+[^840]: Perbuatan yang mereka ada-adakan antara tangan dan kaki mereka itu maksudnya ialah mengadakan pengakuan-pengakuan palsu mengenai hubungan antara laki-laki dan perempuan seperti tuduhan berzina, tuduhan bahwa anak si Fulan bukan anak suaminya dan sebagainya.
 
 # 5163
 
@@ -22150,9 +22354,9 @@ Sesungguhnya Allah mencintai orang-orang yang berperang di jalan-Nya dalam baris
 
 # 5168
 
-Dan (ingatlah) ketika Musa berkata kepada kaumnya, "Wahai kaumku! Mengapa kamu menyakitiku, padahal kamu sungguh mengetahui bahwa sesungguhnya aku utusan Allah kepadamu?" Maka ketika mereka berpaling (dari kebenaran), Allah memalingkan hati mereka.841) Dan Allah tidak memberi petunjuk kepada kaum yang fasik.
+Dan (ingatlah) ketika Musa berkata kepada kaumnya, "Wahai kaumku! Mengapa kamu menyakitiku, padahal kamu sungguh mengetahui bahwa sesungguhnya aku utusan Allah kepadamu?" Maka ketika mereka berpaling (dari kebenaran), Allah memalingkan hati mereka.[^841] Dan Allah tidak memberi petunjuk kepada kaum yang fasik.
 
-*841) Karena mereka berpaling dari kebenaran, maka Allah membiarkan sesat hati mereka sehingga mereka bertambah jauh dari kebenaran.
+[^841]: Karena mereka berpaling dari kebenaran, maka Allah membiarkan sesat hati mereka sehingga mereka bertambah jauh dari kebenaran.
 
 # 5169
 
@@ -22240,9 +22444,9 @@ Apabila orang-orang munafik datang kepadamu (Muhammad), mereka berkata, "Kami me
 
 # 5190
 
-Mereka menjadikan sumpah-sumpah mereka sebagai perisai,842) lalu mereka menghalang-halangi (manusia) dari jalan Allah. Sungguh, betapa buruknya apa yang telah mereka kerjakan.
+Mereka menjadikan sumpah-sumpah mereka sebagai perisai,[^842] lalu mereka menghalang-halangi (manusia) dari jalan Allah. Sungguh, betapa buruknya apa yang telah mereka kerjakan.
 
-*842) Mereka bersumpah bahwa mereka beriman untuk menjaga harta dan diri mereka agar jangan dibunuh atau ditawan atau dirampas hartanya.
+[^842]: Mereka bersumpah bahwa mereka beriman untuk menjaga harta dan diri mereka agar jangan dibunuh atau ditawan atau dirampas hartanya.
 
 # 5191
 
@@ -22250,9 +22454,9 @@ Yang demikian itu karena sesungguhnya mereka telah beriman, kemudian menjadi kaf
 
 # 5192
 
-Dan apabila engkau melihat mereka, tubuh mereka mengagumkanmu. Dan jika mereka berkata, engkau mendengarkan tutur katanya. Mereka seakan-akan kayu yang tersandar.843) Mereka mengira bahwa setiap teriakan ditujukan kepada mereka. Mereka itulah musuh (yang sebenarnya), maka waspadalah terhadap mereka; semoga Allah membinasakan mereka. Bagaimanakah mereka dapat dipalingkan (dari kebenaran)?
+Dan apabila engkau melihat mereka, tubuh mereka mengagumkanmu. Dan jika mereka berkata, engkau mendengarkan tutur katanya. Mereka seakan-akan kayu yang tersandar.[^843] Mereka mengira bahwa setiap teriakan ditujukan kepada mereka. Mereka itulah musuh (yang sebenarnya), maka waspadalah terhadap mereka; semoga Allah membinasakan mereka. Bagaimanakah mereka dapat dipalingkan (dari kebenaran)?
 
-*843) Mereka diumpamakan seperti kayu yang tersandar, maksudnya ialah untuk menyatakan sifat mereka yang jelek meskipun tubuh mereka bagus-bagus dan mereka pandai berbicara tetapi sebenarnya otak mereka adalah kosong tidak dapat memahami kebenaran.
+[^843]: Mereka diumpamakan seperti kayu yang tersandar, maksudnya ialah untuk menyatakan sifat mereka yang jelek meskipun tubuh mereka bagus-bagus dan mereka pandai berbicara tetapi sebenarnya otak mereka adalah kosong tidak dapat memahami kebenaran.
 
 # 5193
 
@@ -22336,9 +22540,9 @@ Dan taatlah kepada Allah dan taatlah kepada Rasul. Jika kamu berpaling maka sesu
 
 # 5213
 
-Wahai orang-orang yang beriman! Sesungguhnya di antara istri-istrimu dan anak-anakmu ada yang menjadi musuh bagimu,844) maka berhati-hatilah kamu terhadap mereka; dan jika kamu maafkan dan kamu santuni serta ampuni (mereka), maka sungguh, Allah Maha Pengampun, Maha Penyayang.
+Wahai orang-orang yang beriman! Sesungguhnya di antara istri-istrimu dan anak-anakmu ada yang menjadi musuh bagimu,[^844] maka berhati-hatilah kamu terhadap mereka; dan jika kamu maafkan dan kamu santuni serta ampuni (mereka), maka sungguh, Allah Maha Pengampun, Maha Penyayang.
 
-*844) Kadang-kadang istri atau anak dapat menjerumuskan suami atau bapaknya untuk melakukan perbuatan-perbuatan yang tidak dibenarkan oleh agama.
+[^844]: Kadang-kadang istri atau anak dapat menjerumuskan suami atau bapaknya untuk melakukan perbuatan-perbuatan yang tidak dibenarkan oleh agama.
 
 # 5214
 
@@ -22626,9 +22830,9 @@ yang bertabiat kasar, selain itu juga terkenal kejahatannya,
 
 # 5285
 
-karena dia kaya dan banyak anak.845)
+karena dia kaya dan banyak anak.[^845]
 
-*845) Orang yang mempunyai anak dan kaya lebih mudah mendapat pengikut. Tetapi jika dia mempunyai sifat-sifat seperti tersebut pada ayat 13 tidak boleh diikuti.
+[^845]: Orang yang mempunyai anak dan kaya lebih mudah mendapat pengikut. Tetapi jika dia mempunyai sifat-sifat seperti tersebut pada ayat 13 tidak boleh diikuti.
 
 # 5286
 
@@ -22636,9 +22840,9 @@ Apabila ayat-ayat Kami dibacakan kepadanya, dia berkata, "(Ini adalah) dongeng-d
 
 # 5287
 
-Kelak dia akan Kami beri tanda pada belalai(nya).846)
+Kelak dia akan Kami beri tanda pada belalai(nya).[^846]
 
-*846) Yang dimaksud dengan "belalai"di sini ialah hidung. Dipakai kata belalai di sini sebagai penghinaan.
+[^846]: Yang dimaksud dengan "belalai"di sini ialah hidung. Dipakai kata belalai di sini sebagai penghinaan.
 
 # 5288
 
@@ -22654,9 +22858,9 @@ Lalu kebun itu ditimpa bencana (yang datang) dari Tuhanmu ketika mereka sedang t
 
 # 5291
 
-Maka jadilah kebun itu hitam seperti malam yang gelap gulita,847)
+Maka jadilah kebun itu hitam seperti malam yang gelap gulita,[^847]
 
-*847) Maka terbakarlah kebun itu dan tinggallah arang-arangnya yang hitam seperti malam.
+[^847]: Maka terbakarlah kebun itu dan tinggallah arang-arangnya yang hitam seperti malam.
 
 # 5292
 
@@ -22688,9 +22892,9 @@ bahkan kita tak memperoleh apa pun."
 
 # 5299
 
-Berkatalah seorang yang paling bijak di antara mereka, "Bukankah aku telah mengatakan kepadamu, mengapa kamu tidak bertasbih (kepada Tuhanmu)."848)
+Berkatalah seorang yang paling bijak di antara mereka, "Bukankah aku telah mengatakan kepadamu, mengapa kamu tidak bertasbih (kepada Tuhanmu)."[^848]
 
-*848) Mensyukuri nikmat-Nya dan tidak meniatkan sesuatu yang bertentangan dengan perintah Allah seperti: meniatkan tidak akan memberi fakir miskin.
+[^848]: Mensyukuri nikmat-Nya dan tidak meniatkan sesuatu yang bertentangan dengan perintah Allah seperti: meniatkan tidak akan memberi fakir miskin.
 
 # 5300
 
@@ -22710,9 +22914,9 @@ Mudah-mudahan Tuhan memberikan ganti kepada kita dengan (kebun) yang lebih baik 
 
 # 5304
 
-Seperti itulah azab (di dunia). Dan sungguh, azab akhirat lebih besar sekiranya mereka mengetahui.849)
+Seperti itulah azab (di dunia). Dan sungguh, azab akhirat lebih besar sekiranya mereka mengetahui.[^849]
 
-*849) Allah menerangkan bahwa Dia menguji penduduk Mekkah dengan menganugerahi nikmat yang banyak untuk mengetahui apakah mereka bersyukur atau tidak, sebagaimana Allah telah menguji pemilik-pemilik kebun. Akhirnya pemilik kebun itu insaf dan bertobat kepada Allah. Demikian pula penduduk Mekkah yang kemudian menjadi insaf dan masuk Islam berbondong-bondong setelah penaklukan Mekkah.
+[^849]: Allah menerangkan bahwa Dia menguji penduduk Mekkah dengan menganugerahi nikmat yang banyak untuk mengetahui apakah mereka bersyukur atau tidak, sebagaimana Allah telah menguji pemilik-pemilik kebun. Akhirnya pemilik kebun itu insaf dan bertobat kepada Allah. Demikian pula penduduk Mekkah yang kemudian menjadi insaf dan masuk Islam berbondong-bondong setelah penaklukan Mekkah.
 
 # 5305
 
@@ -22720,9 +22924,9 @@ Sungguh, bagi orang-orang yang bertakwa (disediakan) surga yang penuh kenikmatan
 
 # 5306
 
-Apakah patut Kami memperlakukan orang-orang Islam itu seperti orang-orang yang berdosa (orang kafir)?850)
+Apakah patut Kami memperlakukan orang-orang Islam itu seperti orang-orang yang berdosa (orang kafir)?[^850]
 
-*850) Maksudnya, sama tentang balasan yang disediakan Allah untuk mereka masing-masing.
+[^850]: Maksudnya, sama tentang balasan yang disediakan Allah untuk mereka masing-masing.
 
 # 5307
 
@@ -22750,9 +22954,11 @@ Atau apakah mereka mempunyai sekutu-sekutu? Kalau begitu hendaklah mereka mendat
 
 # 5313
 
-(Ingatlah) pada hari ketika betis disingkapkan851) dan mereka diseru untuk bersujud; maka mereka tidak mampu,852)
+(Ingatlah) pada hari ketika betis disingkapkan[^851] dan mereka diseru untuk bersujud; maka mereka tidak mampu,[^852]
 
-*851) Menggambarkan keadaan orang yang sedang ketakutan yang hendak lari karena hebatnya huru-hara hari Kiamat. 852) Mereka diminta sujud itu adalah untuk menguji keimanan mereka padahal mereka tidak sanggup lagi karena persendian tulang-tulang mereka telah lemah dan azab sudah mengepung mereka.
+[^851]: Menggambarkan keadaan orang yang sedang ketakutan yang hendak lari karena hebatnya huru-hara hari Kiamat
+
+[^852]: Mereka diminta sujud itu adalah untuk menguji keimanan mereka padahal mereka tidak sanggup lagi karena persendian tulang-tulang mereka telah lemah dan azab sudah mengepung mereka.
 
 # 5314
 
@@ -22788,9 +22994,9 @@ Lalu Tuhannya memilihnya dan menjadikannya termasuk orang yang saleh.
 
 # 5322
 
-Dan sungguh, orang-orang kafir itu hampir-hampir menggelincirkanmu dengan pandangan mata mereka, ketika mereka mendengar Al-Qur`an dan mereka berkata, "Dia (Muhammad) itu benar-benar orang gila."853)
+Dan sungguh, orang-orang kafir itu hampir-hampir menggelincirkanmu dengan pandangan mata mereka, ketika mereka mendengar Al-Qur`an dan mereka berkata, "Dia (Muhammad) itu benar-benar orang gila."[^853]
 
-*853) Menurut kebiasaan yang terjadi di tanah Arab, seseorang dapat membinasakan hewan atau manusia dengan menujukan pandangannya yang tajam. Hal ini hendak dilakukan pula kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-, tetapi Allah memeliharanya, sehingga terhindar dari bahaya itu, sebagaimana dijanjikan Allah dalam Al-Mā`idah ayat 67. Kekuatan pandangan mata itu pada masa sekarang dikenal dengan hipnotis.
+[^853]: Menurut kebiasaan yang terjadi di tanah Arab, seseorang dapat membinasakan hewan atau manusia dengan menujukan pandangannya yang tajam. Hal ini hendak dilakukan pula kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-, tetapi Allah memeliharanya, sehingga terhindar dari bahaya itu, sebagaimana dijanjikan Allah dalam Al-Mā`idah ayat 67. Kekuatan pandangan mata itu pada masa sekarang dikenal dengan hipnotis.
 
 # 5323
 
@@ -22798,9 +23004,9 @@ Padahal Al-Qur`an itu tidak lain adalah peringatan bagi seluruh alam.
 
 # 5324
 
-Hari kiamat,854)
+Hari kiamat,[^854]
 
-*854) Al-Ḥāqqah menurut bahasa berarti "yang pasti terjadi", hari Kiamat dinamai Al-Ḥāqqah karena pasti terjadi.
+[^854]: Al-Ḥāqqah menurut bahasa berarti "yang pasti terjadi", hari Kiamat dinamai Al-Ḥāqqah karena pasti terjadi.
 
 # 5325
 
@@ -22812,15 +23018,15 @@ Dan tahukah kamu apakah hari Kiamat itu?
 
 # 5327
 
-Kaum Samud, dan 'Ād telah mendustakan hari Kiamat.855)
+Kaum Samud, dan 'Ād telah mendustakan hari Kiamat.[^855]
 
-*855) Al-Qāri'ah menurut bahasa berarti "yang menggetarkan hati", hari Kiamat dinamai Al-Qāri'ah karena menggetarkan hati.
+[^855]: Al-Qāri'ah menurut bahasa berarti "yang menggetarkan hati", hari Kiamat dinamai Al-Qāri'ah karena menggetarkan hati.
 
 # 5328
 
-Maka adapun kaum Samud, mereka telah dibinasakan dengan suara yang sangat keras,856)
+Maka adapun kaum Samud, mereka telah dibinasakan dengan suara yang sangat keras,[^856]
 
-*856) Petir yang sangat keras yang menyebabkan suara yang mengguntur dapat menghancurkan.
+[^856]: Petir yang sangat keras yang menyebabkan suara yang mengguntur dapat menghancurkan.
 
 # 5329
 
@@ -22832,15 +23038,15 @@ Allah menimpakan angin itu kepada mereka selama tujuh malam delapan hari terus-m
 
 # 5331
 
-Maka adakah kamu melihat seorang pun yang masih tersisa di antara mereka? 857)
+Maka adakah kamu melihat seorang pun yang masih tersisa di antara mereka? [^857]
 
-*857) Mereka habis dihancurkan sama sekali dan tidak punya keturunan.
+[^857]: Mereka habis dihancurkan sama sekali dan tidak punya keturunan.
 
 # 5332
 
-Kemudian datang Fir'aun dan orang-orang yang sebelumnya dan (penduduk) negeri-negeri yang dijungkir balikkan karena kesalahan yang besar. 858)
+Kemudian datang Fir'aun dan orang-orang yang sebelumnya dan (penduduk) negeri-negeri yang dijungkir balikkan karena kesalahan yang besar. [^858]
 
-*858) Umat-umat dahulu yang mengingkari nabi-nabi seperti kaum Saleh, kaum Syuaib dan lain-lain serta negeri-negeri yang dijungkir balikkan ialah negeri-negeri kaum Luṭ. Sedangkan kesalahan yang dilakukan mereka ialah mendustakan para rasul.
+[^858]: Umat-umat dahulu yang mengingkari nabi-nabi seperti kaum Saleh, kaum Syuaib dan lain-lain serta negeri-negeri yang dijungkir balikkan ialah negeri-negeri kaum Luṭ. Sedangkan kesalahan yang dilakukan mereka ialah mendustakan para rasul.
 
 # 5333
 
@@ -22848,9 +23054,9 @@ Maka mereka mendurhakai utusan Tuhannya, Allah menyiksa mereka dengan siksaan ya
 
 # 5334
 
-Sesungguhnya ketika air naik (sampai ke gunung), Kami membawa (nenek moyang) kamu859) ke dalam kapal,
+Sesungguhnya ketika air naik (sampai ke gunung), Kami membawa (nenek moyang) kamu[^859] ke dalam kapal,
 
-*859) Yang dibawa ke dalam kapal Nabi Nuh untuk diselamatkan ialah keluarga Nabi Nuh dan orang-orang yang beriman, tidak termasuk anaknya yang durhaka.
+[^859]: Yang dibawa ke dalam kapal Nabi Nuh untuk diselamatkan ialah keluarga Nabi Nuh dan orang-orang yang beriman, tidak termasuk anaknya yang durhaka.
 
 # 5335
 
@@ -22858,9 +23064,9 @@ agar Kami jadikan (peristiwa itu) sebagai peringatan bagi kamu dan agar diperhat
 
 # 5336
 
-Maka apabila sangkakala ditiup sekali tiup,860)
+Maka apabila sangkakala ditiup sekali tiup,[^860]
 
-*860) Tiupan pertama yang pada waktu itu seluruh alam menjadi hancur.
+[^860]: Tiupan pertama yang pada waktu itu seluruh alam menjadi hancur.
 
 # 5337
 
@@ -22884,9 +23090,9 @@ Pada hari itu kamu dihadapkan (kepada Tuhanmu), tidak ada sesuatu pun dari kamu 
 
 # 5342
 
-Adapun orang yang kitabnya861) diberikan di tangan kanannya, maka dia berkata, "Ambillah, bacalah kitabku (ini)."
+Adapun orang yang kitabnya[^861] diberikan di tangan kanannya, maka dia berkata, "Ambillah, bacalah kitabku (ini)."
 
-*861) Catatan amalan perbuatan.
+[^861]: Catatan amalan perbuatan.
 
 # 5343
 
@@ -22990,9 +23196,9 @@ Dan sekiranya dia (Muhammad) mengada-adakan sebagian perkataan atas (nama) Kami,
 
 # 5368
 
-pasti Kami pegang dia pada tangan kanannya.862)
+pasti Kami pegang dia pada tangan kanannya.[^862]
 
-*862) Kami beri tindakan sekeras-kerasnya.
+[^862]: Kami beri tindakan sekeras-kerasnya.
 
 # 5369
 
@@ -23036,9 +23242,9 @@ Bagi orang-orang kafir, yang tidak seorang pun dapat menolaknya,
 
 # 5379
 
-Para malaikat dan Jibril naik (menghadap) kepada Tuhan, dalam sehari setara dengan lima puluh ribu tahun.863)
+Para malaikat dan Jibril naik (menghadap) kepada Tuhan, dalam sehari setara dengan lima puluh ribu tahun.[^863]
 
-*863) Para malaikat dan Jibril jika menghadap Tuhan memakan waktu satu hari. Apabila dilakukan oleh manusia, memakan waktu lima puluh ribu tahun.
+[^863]: Para malaikat dan Jibril jika menghadap Tuhan memakan waktu satu hari. Apabila dilakukan oleh manusia, memakan waktu lima puluh ribu tahun.
 
 # 5380
 
@@ -23094,9 +23300,9 @@ Yang memanggil orang yang membelakangi dan yang berpaling (dari agama),
 
 # 5393
 
-dan orang yang mengumpulkan (harta benda) lalu menyimpannya.864)
+dan orang yang mengumpulkan (harta benda) lalu menyimpannya.[^864]
 
-*864) Orang yang menyimpan hartanya dan tidak mau mengeluarkan zakat dan tidak pula menginfakkannya ke jalan yang benar.
+[^864]: Orang yang menyimpan hartanya dan tidak mau mengeluarkan zakat dan tidak pula menginfakkannya ke jalan yang benar.
 
 # 5394
 
@@ -23144,9 +23350,9 @@ dan orang-orang yang memelihara kemaluannya,
 
 # 5405
 
-kecuali terhadap istri-istri mereka atau hamba sahaya yang mereka miliki865) maka sesungguhnya mereka tidak tercela.
+kecuali terhadap istri-istri mereka atau hamba sahaya yang mereka miliki[^865] maka sesungguhnya mereka tidak tercela.
 
-*865) Hamba sahaya yang didapat dalam peperangan dengan orang kafir. Dalam peperangan dengan orang-orang kafir itu, perempuan-perempuan yang ditawan biasanya dibagi-bagikan kepada kaum muslimin yang ikut dalam peperangan, dan kebiasaan ini bukanlah sesuatu yang diwajibkan.
+[^865]: Hamba sahaya yang didapat dalam peperangan dengan orang kafir. Dalam peperangan dengan orang-orang kafir itu, perempuan-perempuan yang ditawan biasanya dibagi-bagikan kepada kaum muslimin yang ikut dalam peperangan, dan kebiasaan ini bukanlah sesuatu yang diwajibkan.
 
 # 5406
 
@@ -23174,9 +23380,9 @@ Maka mengapa orang-orang kafir itu datang bergegas ke hadapanmu (Muhammad),
 
 # 5412
 
-dari kanan dan dari kiri dengan berkelompok-kelompok?866)
+dari kanan dan dari kiri dengan berkelompok-kelompok?[^866]
 
-*866) Menurut keterangan sebagian mufasir ayat ini berhubungan dengan peristiwa ketika Rasulullah salat dan membaca Al-Qur`an di dekat Ka'bah lalu orang-orang musyrik berkumpul berkelompok-kelompok di hadapannya sambil mengejek dan mengatakan, "Jika orang-orang mukmin benar-benar akan masuk surga sebagaimana kata Muhammad kitalah yang akan masuk terlebih dahulu." Maka turunlah ayat 38.
+[^866]: Menurut keterangan sebagian mufasir ayat ini berhubungan dengan peristiwa ketika Rasulullah salat dan membaca Al-Qur`an di dekat Ka'bah lalu orang-orang musyrik berkumpul berkelompok-kelompok di hadapannya sambil mengejek dan mengatakan, "Jika orang-orang mukmin benar-benar akan masuk surga sebagaimana kata Muhammad kitalah yang akan masuk terlebih dahulu." Maka turunlah ayat 38.
 
 # 5413
 
@@ -23184,9 +23390,9 @@ Apakah setiap orang dari orang-orang kafir itu ingin masuk surga yang penuh keni
 
 # 5414
 
-tidak mungkin! Sesungguhnya Kami menciptakan mereka dari apa yang mereka ketahui.867)
+tidak mungkin! Sesungguhnya Kami menciptakan mereka dari apa yang mereka ketahui.[^867]
 
-*867) Bahwa mereka orang-orang kafir diciptakan Allah dari air mani untuk beriman dan bertakwa kepada-Nya, sebagaimana yang disampaikan oleh Rasul. Jadi kalau mereka tidak beriman tidak berhak masuk surga.
+[^867]: Bahwa mereka orang-orang kafir diciptakan Allah dari air mani untuk beriman dan bertakwa kepada-Nya, sebagaimana yang disampaikan oleh Rasul. Jadi kalau mereka tidak beriman tidak berhak masuk surga.
 
 # 5415
 
@@ -23238,15 +23444,15 @@ Dan sesungguhnya aku setiap kali menyeru mereka (untuk beriman) agar Engkau meng
 
 # 5427
 
-Lalu sesungguhnya aku menyeru mereka dengan cara terang-terangan.868)
+Lalu sesungguhnya aku menyeru mereka dengan cara terang-terangan.[^868]
 
-*868) Dakwah ini dilakukan setelah dakwah dengan cara diam-diam tidak berhasil.
+[^868]: Dakwah ini dilakukan setelah dakwah dengan cara diam-diam tidak berhasil.
 
 # 5428
 
-Kemudian aku menyeru mereka secara terbuka dan dengan diam-diam,869)
+Kemudian aku menyeru mereka secara terbuka dan dengan diam-diam,[^869]
 
-*869) Setelah melakukan dakwah secara diam-diam kemudian secara terang-terangan namun tidak juga berhasil, maka Nabi Nuh -'alaihissalām- melakukan kedua cara itu sekaligus.
+[^869]: Setelah melakukan dakwah secara diam-diam kemudian secara terang-terangan namun tidak juga berhasil, maka Nabi Nuh -'alaihissalām- melakukan kedua cara itu sekaligus.
 
 # 5429
 
@@ -23266,9 +23472,9 @@ Mengapa kamu tidak takut akan kebesaran Allah?
 
 # 5433
 
-Dan sungguh, Dia telah menciptakan kamu dalam beberapa fase (kejadian).870)
+Dan sungguh, Dia telah menciptakan kamu dalam beberapa fase (kejadian).[^870]
 
-*870) Lihat surah Al-Mu`minūn (23) ayat 12, 13 dan 14.
+[^870]: Lihat surah Al-Mu`minūn (23) ayat 12, 13 dan 14.
 
 # 5434
 
@@ -23304,9 +23510,9 @@ dan mereka melakukan tipu daya yang sangat besar."
 
 # 5442
 
-Dan mereka berkata, "Jangan sekali-kali kamu meninggalkan (penyembahan) tuhan-tuhan kamu dan jangan pula sekali-kali kamu meninggalkan (penyembahan) Wadd, dan jangan pula Suwā', Yagūṡ, Ya'ūq dan Nasr."871)
+Dan mereka berkata, "Jangan sekali-kali kamu meninggalkan (penyembahan) tuhan-tuhan kamu dan jangan pula sekali-kali kamu meninggalkan (penyembahan) Wadd, dan jangan pula Suwā', Yagūṡ, Ya'ūq dan Nasr."[^871]
 
-*871) Wadd, Suwā', Yagūṡ, Ya'ūq dan Nasr adalah nama-nama berhala yang terbesar pada kabilah-kabilah kaum Nuh, yang semula adalah nama-nama orang saleh.
+[^871]: Wadd, Suwā', Yagūṡ, Ya'ūq dan Nasr adalah nama-nama berhala yang terbesar pada kabilah-kabilah kaum Nuh, yang semula adalah nama-nama orang saleh.
 
 # 5443
 
@@ -23342,9 +23548,9 @@ dan sesungguhnya Mahatinggi keagungan Tuhan kami, Dia tidak beristri dan tidak b
 
 # 5451
 
-Dan sesungguhnya orang yang bodoh di antara kami dahulu selalu mengucapkan (perkataan) yang melampaui batas terhadap Allah,872)
+Dan sesungguhnya orang yang bodoh di antara kami dahulu selalu mengucapkan (perkataan) yang melampaui batas terhadap Allah,[^872]
 
-*872) Mengatakan bahwa Allah mempunyai istri dan anak. Menurut Ibnu Kasir, perkataan ini diucapkan sebelum jin itu masuk Islam.
+[^872]: Mengatakan bahwa Allah mempunyai istri dan anak. Menurut Ibnu Kasir, perkataan ini diucapkan sebelum jin itu masuk Islam.
 
 # 5452
 
@@ -23352,9 +23558,9 @@ dan sesungguhnya kami mengira, bahwa manusia dan jin itu tidak akan mengatakan p
 
 # 5453
 
-dan sesungguhnya ada beberapa orang laki-laki dari kalangan manusia yang meminta perlindungan873) kepada beberapa laki-laki dari jin, tetapi mereka (jin) menjadikan mereka (manusia) bertambah sesat.
+dan sesungguhnya ada beberapa orang laki-laki dari kalangan manusia yang meminta perlindungan[^873] kepada beberapa laki-laki dari jin, tetapi mereka (jin) menjadikan mereka (manusia) bertambah sesat.
 
-*873) Ada di antara orang-orang Arab apabila mereka melintasi tempat yang sunyi, mereka minta perlindungan kepada jin yang mereka anggap berkuasa di tempat itu.
+[^873]: Ada di antara orang-orang Arab apabila mereka melintasi tempat yang sunyi, mereka minta perlindungan kepada jin yang mereka anggap berkuasa di tempat itu.
 
 # 5454
 
@@ -23366,9 +23572,9 @@ Dan sesungguhnya kami (jin) telah mencoba mengetahui (rahasia) langit, maka kami
 
 # 5456
 
-dan sesungguhnya kami (jin) dahulu dapat menduduki beberapa tempat di langit itu untuk mencuri dengar (berita-beritanya). Tetapi sekarang874) siapa (mencoba) mencuri dengar (seperti itu) pasti akan menjumpai panah-panah api yang mengintai (untuk membakarnya).
+dan sesungguhnya kami (jin) dahulu dapat menduduki beberapa tempat di langit itu untuk mencuri dengar (berita-beritanya). Tetapi sekarang[^874] siapa (mencoba) mencuri dengar (seperti itu) pasti akan menjumpai panah-panah api yang mengintai (untuk membakarnya).
 
-*874) Waktu setelah Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- diutus menjadi rasul.
+[^874]: Waktu setelah Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- diutus menjadi rasul.
 
 # 5457
 
@@ -23452,9 +23658,9 @@ Wahai orang yang berselimut (Muhammad)!
 
 # 5477
 
-Bangunlah (untuk salat) pada malam hari, kecuali875) sebagian kecil.
+Bangunlah (untuk salat) pada malam hari, kecuali[^875] sebagian kecil.
 
-*875) Salat malam ini mula-mulanya wajib, sebelum turun ayat ke 20 dalam surah ini. Setelah turunnya ayat ke 20 ini hukumnya menjadi sunah.
+[^875]: Salat malam ini mula-mulanya wajib, sebelum turun ayat ke 20 dalam surah ini. Setelah turunnya ayat ke 20 ini hukumnya menjadi sunah.
 
 # 5478
 
@@ -23570,9 +23776,9 @@ bagi orang-orang kafir tidak mudah.
 
 # 5506
 
-Biarkanlah Aku (yang bertindak) terhadap orang yang Aku sendiri telah menciptakannya,876)
+Biarkanlah Aku (yang bertindak) terhadap orang yang Aku sendiri telah menciptakannya,[^876]
 
-*876) Ayat ini dan beberapa ayat berikutnya diturunkan mengenai seorang kafir Mekkah, pemimpin Quraisy bernama Al-Walīd bin Mugīrah.
+[^876]: Ayat ini dan beberapa ayat berikutnya diturunkan mengenai seorang kafir Mekkah, pemimpin Quraisy bernama Al-Walīd bin Mugīrah.
 
 # 5507
 
@@ -23640,9 +23846,9 @@ Dan tahukah kamu apa (neraka) Saqar itu?
 
 # 5523
 
-Ia (Saqar itu) tidak meninggalkan dan tidak membiarkan,877)
+Ia (Saqar itu) tidak meninggalkan dan tidak membiarkan,[^877]
 
-*877) Apa yang dilemparkan ke dalam neraka itu diazabnya sampai binasa kemudian dikembalikannya seperti semula untuk diazab kembali.
+[^877]: Apa yang dilemparkan ke dalam neraka itu diazabnya sampai binasa kemudian dikembalikannya seperti semula untuk diazab kembali.
 
 # 5524
 
@@ -23658,9 +23864,9 @@ Dan yang Kami jadikan penjaga neraka itu hanya dari malaikat; dan Kami menentuka
 
 # 5527
 
-Tidak!878) Demi bulan,
+Tidak![^878] Demi bulan,
 
-*878) "Tidak" adalah bantahan terhadap ucapan-ucapan orang-orang musyrik yang mengingkari hal-hal tersebut di atas.
+[^878]: "Tidak" adalah bantahan terhadap ucapan-ucapan orang-orang musyrik yang mengingkari hal-hal tersebut di atas.
 
 # 5528
 
@@ -23680,9 +23886,9 @@ sebagai peringatan bagi manusia,
 
 # 5532
 
-(yaitu) bagi siapa di antara kamu yang ingin maju atau mundur.879)
+(yaitu) bagi siapa di antara kamu yang ingin maju atau mundur.[^879]
 
-*879) Maju menerima peringatan, dan yang dimaksud dengan mundur ialah tidak mau menerima peringatan.
+[^879]: Maju menerima peringatan, dan yang dimaksud dengan mundur ialah tidak mau menerima peringatan.
 
 # 5533
 
@@ -23814,9 +24020,9 @@ Pada hari itu diberitakan kepada manusia apa yang telah dikerjakannya dan apa ya
 
 # 5565
 
-Bahkan manusia menjadi saksi atas dirinya sendiri,880)
+Bahkan manusia menjadi saksi atas dirinya sendiri,[^880]
 
-*880) Anggota badan manusia menjadi saksi terhadap pekerjaan yang telah mereka lakukan seperti tersebut dalam surah An-Nur (24) ayat 24.
+[^880]: Anggota badan manusia menjadi saksi terhadap pekerjaan yang telah mereka lakukan seperti tersebut dalam surah An-Nur (24) ayat 24.
 
 # 5566
 
@@ -23876,9 +24082,9 @@ dan dia yakin bahwa itulah waktu perpisahan (dengan dunia),
 
 # 5580
 
-dan bertaut betis (kiri) dengan betis (kanan),881)
+dan bertaut betis (kiri) dengan betis (kanan),[^881]
 
-*881) Karena hebatnya penderitaan pada saat akan mati dan ketakutan akan meninggalkan dunia dan menghadapi akhirat.
+[^881]: Karena hebatnya penderitaan pada saat akan mati dan ketakutan akan meninggalkan dunia dan menghadapi akhirat.
 
 # 5581
 
@@ -23930,9 +24136,9 @@ Bukankah pernah datang kepada manusia waktu dari masa, yang ketika itu belum mer
 
 # 5593
 
-Sungguh, Kami telah menciptakan manusia dari setetes mani yang bercampur882) yang Kami hendak mengujinya (dengan perintah dan larangan), karena itu Kami jadikan dia mendengar dan melihat.
+Sungguh, Kami telah menciptakan manusia dari setetes mani yang bercampur[^882] yang Kami hendak mengujinya (dengan perintah dan larangan), karena itu Kami jadikan dia mendengar dan melihat.
 
-*882) Bercampur antara benih laki-laki dengan perempuan.
+[^882]: Bercampur antara benih laki-laki dengan perempuan.
 
 # 5594
 
@@ -23944,9 +24150,9 @@ Sungguh, Kami telah menyediakan bagi orang-orang kafir rantai, belenggu dan nera
 
 # 5596
 
-Sungguh, orang-orang yang berbuat kebajikan akan minum dari gelas (berisi minuman) yang campurannya adalah air kafur,883)
+Sungguh, orang-orang yang berbuat kebajikan akan minum dari gelas (berisi minuman) yang campurannya adalah air kafur,[^883]
 
-*883) Nama suatu mata air di surga yang airnya putih dan baunya sedap serta enak sekali rasanya.
+[^883]: Nama suatu mata air di surga yang airnya putih dan baunya sedap serta enak sekali rasanya.
 
 # 5597
 
@@ -23954,9 +24160,9 @@ Sungguh, orang-orang yang berbuat kebajikan akan minum dari gelas (berisi minuma
 
 # 5598
 
-Mereka memenuhi nazar884) dan takut akan suatu hari yang azabnya merata di mana-mana.
+Mereka memenuhi nazar[^884] dan takut akan suatu hari yang azabnya merata di mana-mana.
 
-*884) Adalah berniat dan berjanji akan melaksanakan sesuatu yang dikaitkan dengan sesuatu yang diharapkan, misalnya apabila sembuh dari sakit atau lulus ujian seseorang akan puasa 3 hari atau bersedekah.
+[^884]: Adalah berniat dan berjanji akan melaksanakan sesuatu yang dikaitkan dengan sesuatu yang diharapkan, misalnya apabila sembuh dari sakit atau lulus ujian seseorang akan puasa 3 hari atau bersedekah.
 
 # 5599
 
@@ -24056,21 +24262,21 @@ Dia memasukkan siapa pun yang Dia kehendaki ke dalam rahmat-Nya (surga). Adapun 
 
 # 5623
 
-Demi (malaikat-malaikat)885) yang diutus untuk membawa kebaikan,
+Demi (malaikat-malaikat)[^885] yang diutus untuk membawa kebaikan,
 
-*885) Sebagian mufasir mengartikan “Demi angin yang dikirim.”
+[^885]: Sebagian mufasir mengartikan “Demi angin yang dikirim.”
 
 # 5624
 
-dan (malaikat-malaikat) yang terbang dengan kencangnya,886)
+dan (malaikat-malaikat) yang terbang dengan kencangnya,[^886]
 
-*886) Terbang untuk melaksanakan perintah Allah.
+[^886]: Terbang untuk melaksanakan perintah Allah.
 
 # 5625
 
-dan (malaikat-malaikat) yang menyebarkan (rahmat Allah) dengan seluas-luasnya,887)
+dan (malaikat-malaikat) yang menyebarkan (rahmat Allah) dengan seluas-luasnya,[^887]
 
-*887) Pada waktu malaikat turun untuk membawa wahyu, sebagian mufasir berpendapat bahwa yang dimaksud dengan an-nāsyirāt ialah angin yang bertiup disertai hujan.
+[^887]: Pada waktu malaikat turun untuk membawa wahyu, sebagian mufasir berpendapat bahwa yang dimaksud dengan an-nāsyirāt ialah angin yang bertiup disertai hujan.
 
 # 5626
 
@@ -24102,9 +24308,9 @@ dan apabila gunung-gunung dihancurkan menjadi debu,
 
 # 5633
 
-dan apabila rasul-rasul telah ditetapkan waktunya.888)
+dan apabila rasul-rasul telah ditetapkan waktunya.[^888]
 
-*888) Waktu untuk berkumpul bersama umat mereka masing-masing.
+[^888]: Waktu untuk berkumpul bersama umat mereka masing-masing.
 
 # 5634
 
@@ -24164,9 +24370,9 @@ Bukankah Kami jadikan bumi untuk (tempat) berkumpul,
 
 # 5648
 
-bagi yang masih hidup dan yang sudah mati?889)
+bagi yang masih hidup dan yang sudah mati?[^889]
 
-*889) Bumi mengumpulkan orang-orang hidup di permukaannya dan orang-orang mati dalam perutnya.
+[^889]: Bumi mengumpulkan orang-orang hidup di permukaannya dan orang-orang mati dalam perutnya.
 
 # 5649
 
@@ -24182,9 +24388,9 @@ Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran).
 
 # 5652
 
-Pergilah kamu mendapatkan naungan (asap api neraka) yang mempunyai tiga cabang,890)
+Pergilah kamu mendapatkan naungan (asap api neraka) yang mempunyai tiga cabang,[^890]
 
-*890) Adalah yang mempunyai tiga gejolak, yaitu di kanan, di kiri dan di atas. Ini berarti bahwa azab itu mengepung orang-orang kafir dari segala penjuru.
+[^890]: Adalah yang mempunyai tiga gejolak, yaitu di kanan, di kiri dan di atas. Ini berarti bahwa azab itu mengepung orang-orang kafir dari segala penjuru.
 
 # 5653
 
@@ -24256,9 +24462,9 @@ Celakalah pada hari itu, bagi mereka yang mendustakan (kebenaran).
 
 # 5670
 
-Dan apabila dikatakan kepada mereka, "Rukuklah," mereka tidak mau rukuk.891)
+Dan apabila dikatakan kepada mereka, "Rukuklah," mereka tidak mau rukuk.[^891]
 
-*891) Sebagian mufasir mengatakan, bahwa yang dimaksud dengan rukuk di sini ialah tunduk kepada perintah Allah; dan sebagian yang lainnya mengatakan, maksudnya ialah salat.
+[^891]: Sebagian mufasir mengatakan, bahwa yang dimaksud dengan rukuk di sini ialah tunduk kepada perintah Allah; dan sebagian yang lainnya mengatakan, maksudnya ialah salat.
 
 # 5671
 
@@ -24282,9 +24488,9 @@ yang dalam hal itu mereka berselisih.
 
 # 5676
 
-Tidak!892) Kelak mereka akan mengetahui,
+Tidak![^892] Kelak mereka akan mengetahui,
 
-*892) Sanggahan terhadap pendapat orang-orang kafir Mekkah yang mengingkari hari berbangkit dan hari Kiamat.
+[^892]: Sanggahan terhadap pendapat orang-orang kafir Mekkah yang mengingkari hari berbangkit dan hari Kiamat.
 
 # 5677
 
@@ -24308,9 +24514,9 @@ dan Kami menjadikan tidurmu untuk istirahat,
 
 # 5682
 
-dan Kami menjadikan malam sebagai pakaian,893)
+dan Kami menjadikan malam sebagai pakaian,[^893]
 
-*893) Malam itu disebut sebagai "pakaian" karena malam itu gelap menutupi jagat sebagaimana pakaian menutupi tubuh manusia.
+[^893]: Malam itu disebut sebagai "pakaian" karena malam itu gelap menutupi jagat sebagaimana pakaian menutupi tubuh manusia.
 
 # 5683
 
@@ -24422,9 +24628,9 @@ Tuhan (yang memelihara) langit dan bumi serta apa yang ada di antara keduanya; Y
 
 # 5710
 
-Pada hari, ketika rūḥ894) dan para malaikat berdiri bersaf-saf, mereka tidak berkata-kata, kecuali siapa yang telah diberi izin kepadanya oleh Tuhan Yang Maha Pengasih dan dia hanya mengatakan yang benar.
+Pada hari, ketika rūḥ[^894] dan para malaikat berdiri bersaf-saf, mereka tidak berkata-kata, kecuali siapa yang telah diberi izin kepadanya oleh Tuhan Yang Maha Pengasih dan dia hanya mengatakan yang benar.
 
-*894) Para mufasir mempunyai pendapat yang berbeda tentang maksud "rūḥ" dalam ayat ini. Ada yang mengatakan "Jibril" ada yang mengatakan "tentara Allah" dan ada pula yang mengatakan "roh manusia."
+[^894]: Para mufasir mempunyai pendapat yang berbeda tentang maksud "rūḥ" dalam ayat ini. Ada yang mengatakan "Jibril" ada yang mengatakan "tentara Allah" dan ada pula yang mengatakan "roh manusia."
 
 # 5711
 
@@ -24452,9 +24658,9 @@ dan (malaikat) yang mendahului dengan kencang,
 
 # 5717
 
-dan (malaikat) yang mengatur urusan (dunia).895)
+dan (malaikat) yang mengatur urusan (dunia).[^895]
 
-*895) Dalam ayat 1-5 Allah bersumpah dengan malaikat-malaikat yang bermacam-macam sifat dan urusannya bahwa manusia akan dibangkitkan pada hari Kiamat. Sebagian mufasir berpendapat, bahwa dalam ayat-ayat ini, kecuali ayat 5, Allah bersumpah dengan bintang-bintang.
+[^895]: Dalam ayat 1-5 Allah bersumpah dengan malaikat-malaikat yang bermacam-macam sifat dan urusannya bahwa manusia akan dibangkitkan pada hari Kiamat. Sebagian mufasir berpendapat, bahwa dalam ayat-ayat ini, kecuali ayat 5, Allah bersumpah dengan bintang-bintang.
 
 # 5718
 
@@ -24474,9 +24680,9 @@ pandangannya tunduk.
 
 # 5722
 
-(orang-orang kafir) berkata, "Apakah kita benar-benar akan dikembalikan kepada kehidupan yang semula?896)
+(orang-orang kafir) berkata, "Apakah kita benar-benar akan dikembalikan kepada kehidupan yang semula?[^896]
 
-*896) Setelah orang-orang kafir mendengar adanya hari kebangkitan setelah mati mereka merasa heran dan mengejek sebab menurut keyakinan mereka tidak ada hari kebangkitan. Itulah sebabnya mereka bertanya.
+[^896]: Setelah orang-orang kafir mendengar adanya hari kebangkitan setelah mati mereka merasa heran dan mengejek sebab menurut keyakinan mereka tidak ada hari kebangkitan. Itulah sebabnya mereka bertanya.
 
 # 5723
 
@@ -24696,15 +24902,15 @@ Dari apakah Dia (Allah) menciptakannya?
 
 # 5777
 
-Dari setetes mani, Dia menciptakannya lalu menentukannya.897)
+Dari setetes mani, Dia menciptakannya lalu menentukannya.[^897]
 
-*897) Menentukan fase-fase kejadiannya, umurnya, rezekinya dan nasibnya.
+[^897]: Menentukan fase-fase kejadiannya, umurnya, rezekinya dan nasibnya.
 
 # 5778
 
-Kemudian jalannya Dia mudahkan,898)
+Kemudian jalannya Dia mudahkan,[^898]
 
-*898) Memudahkan kelahirannya atau memberi persediaan kepadanya untuk menjalani jalan yang benar atau jalan yang sesat.
+[^898]: Memudahkan kelahirannya atau memberi persediaan kepadanya untuk menjalani jalan yang benar atau jalan yang sesat.
 
 # 5779
 
@@ -24896,9 +25102,9 @@ Dan (Al-Qur`an) itu bukanlah perkataan setan yang terkutuk,
 
 # 5826
 
-maka ke manakah kamu akan pergi?899)
+maka ke manakah kamu akan pergi?[^899]
 
-*899) Setelah diterangkan bahwa Al-Qur`an itu benar-benar datang dari Allah, dan di dalamnya ada pelajaran dan petunjuk yang memimpin manusia ke jalan yang lurus, ditanyakanlah kepada orang-orang kafir itu, "Jalan manakah yang akan kamu tempuh lagi?"
+[^899]: Setelah diterangkan bahwa Al-Qur`an itu benar-benar datang dari Allah, dan di dalamnya ada pelajaran dan petunjuk yang memimpin manusia ke jalan yang lurus, ditanyakanlah kepada orang-orang kafir itu, "Jalan manakah yang akan kamu tempuh lagi?"
 
 # 5827
 
@@ -25014,9 +25220,9 @@ pada suatu hari yang besar,
 
 # 5855
 
-Sekali-kali jangan begitu! Sesungguhnya catatan orang yang durhaka benar-benar tersimpan dalam Sijjīn.900)
+Sekali-kali jangan begitu! Sesungguhnya catatan orang yang durhaka benar-benar tersimpan dalam Sijjīn.[^900]
 
-*900) Nama kitab yang mencatat segala perbuatan orang-orang yang durhaka.
+[^900]: Nama kitab yang mencatat segala perbuatan orang-orang yang durhaka.
 
 # 5856
 
@@ -25048,9 +25254,9 @@ Sekali-kali tidak! Bahkan apa yang mereka kerjakan itu telah menutupi hati merek
 
 # 5863
 
-Sekali-kali tidak!901) Sesungguhnya mereka pada hari itu benar-benar terhalang dari (melihat) Tuhannya.
+Sekali-kali tidak![^901] Sesungguhnya mereka pada hari itu benar-benar terhalang dari (melihat) Tuhannya.
 
-*901) Sekali-kali tidak seperti apa yang mereka katakan bahwa mereka dekat pada sisi Tuhan.
+[^901]: Sekali-kali tidak seperti apa yang mereka katakan bahwa mereka dekat pada sisi Tuhan.
 
 # 5864
 
@@ -25062,9 +25268,9 @@ Kemudian, dikatakan (kepada mereka), "Inilah (azab) yang dahulu kamu dustakan."
 
 # 5866
 
-Sekali-kali tidak! Sesungguhnya catatan orang-orang yang berbakti benar-benar tersimpan dalam 'Illiyyīn.902)
+Sekali-kali tidak! Sesungguhnya catatan orang-orang yang berbakti benar-benar tersimpan dalam 'Illiyyīn.[^902]
 
-*902) Nama kitab yang mencatat segala perbuatan orang-orang yang berbakti.
+[^902]: Nama kitab yang mencatat segala perbuatan orang-orang yang berbakti.
 
 # 5867
 
@@ -25160,9 +25366,9 @@ dan patuh kepada Tuhannya, dan sudah semestinya patuh.
 
 # 5890
 
-Wahai manusia! Sesungguhnya kamu telah bekerja keras menuju Tuhanmu, maka kamu akan menemui-Nya.903)
+Wahai manusia! Sesungguhnya kamu telah bekerja keras menuju Tuhanmu, maka kamu akan menemui-Nya.[^903]
 
-*903) Manusia di dunia ini baik disadari atau tidak adalah dalam perjalanan kepada Tuhannya. Dan pasti dia akan menemui Tuhannya untuk menerima pembalasan-Nya dari perbuatannya yang buruk maupun yang baik.
+[^903]: Manusia di dunia ini baik disadari atau tidak adalah dalam perjalanan kepada Tuhannya. Dan pasti dia akan menemui Tuhannya untuk menerima pembalasan-Nya dari perbuatannya yang buruk maupun yang baik.
 
 # 5891
 
@@ -25214,9 +25420,9 @@ demi bulan apabila jadi purnama,
 
 # 5903
 
-sungguh, akan kamu jalani tingkat demi tingkat (dalam kehidupan).904)
+sungguh, akan kamu jalani tingkat demi tingkat (dalam kehidupan).[^904]
 
-*904) Dari setetes mani sampai dilahirkan, kemudian melalui masa kanak-kanak, remaja dan sampai dewasa. Dari hidup menjadi mati kemudian dibangkitkan kembali.
+[^904]: Dari setetes mani sampai dilahirkan, kemudian melalui masa kanak-kanak, remaja dan sampai dewasa. Dari hidup menjadi mati kemudian dibangkitkan kembali.
 
 # 5904
 
@@ -25372,9 +25578,9 @@ maka manusia tidak lagi mempunyai suatu kekuatan dan tidak (pula) ada penolong.
 
 # 5942
 
-Demi langit yang mengandung hujan,905)
+Demi langit yang mengandung hujan,[^905]
 
-*905) Raj'i berarti kembali berputar. Hujan dinamakan raj'i dalam ayat ini, karena hujan itu berasal dari uap yang naik dari bumi ke udara, kemudian turun ke bumi, kemudian kembali ke atas, dan dari atas kembali ke bumi, dan begitulah seterusnya.
+[^905]: Raj'i berarti kembali berputar. Hujan dinamakan raj'i dalam ayat ini, karena hujan itu berasal dari uap yang naik dari bumi ke udara, kemudian turun ke bumi, kemudian kembali ke atas, dan dari atas kembali ke bumi, dan begitulah seterusnya.
 
 # 5943
 
@@ -25586,9 +25792,9 @@ Demi fajar,
 
 # 5995
 
-demi malam yang sepuluh,906)
+demi malam yang sepuluh,[^906]
 
-*906) Maksudnya sepuluh pertama pada bulan Zulhijah. Ada juga yang mengatakan malam sepuluh terakhir dari bulan Ramadan. Dan ada pula yang mengatakan sepuluh yang pertama dari bulan Muharam termasuk di dalamnya hari Asyura.
+[^906]: Maksudnya sepuluh pertama pada bulan Zulhijah. Ada juga yang mengatakan malam sepuluh terakhir dari bulan Ramadan. Dan ada pula yang mengatakan sepuluh yang pertama dari bulan Muharam termasuk di dalamnya hari Asyura.
 
 # 5996
 
@@ -25616,9 +25822,9 @@ yang belum pernah dibangun (suatu kota) seperti itu, di negeri-negeri lain,
 
 # 6002
 
-dan (terhadap) kaum Samud yang memotong batu-batu besar di lembah,907)
+dan (terhadap) kaum Samud yang memotong batu-batu besar di lembah,[^907]
 
-*907) Lembah ini terletak di bagian utara Jazirah Arab antara kota Madinah dan Syam. Mereka memotong-motong batu gunung untuk membangun gedung-gedung tempat tinggal mereka dan ada pula yang melubangi gunung-gunung untuk tempat tinggal mereka dan tempat berlindung.
+[^907]: Lembah ini terletak di bagian utara Jazirah Arab antara kota Madinah dan Syam. Mereka memotong-motong batu gunung untuk membangun gedung-gedung tempat tinggal mereka dan ada pula yang melubangi gunung-gunung untuk tempat tinggal mereka dan tempat berlindung.
 
 # 6003
 
@@ -25646,15 +25852,15 @@ Adapun manusia, apabila Tuhan mengujinya lalu memuliakannya dan memberinya kesen
 
 # 6009
 
-Namun apabila Tuhan mengujinya lalu membatasi rezekinya, maka dia berkata, "Tuhanku telah menghinaku."908)
+Namun apabila Tuhan mengujinya lalu membatasi rezekinya, maka dia berkata, "Tuhanku telah menghinaku."[^908]
 
-*908) Allah menyalahkan orang yang mengatakan bahwa kekayaan itu adalah suatu kemuliaan, dan kemiskinan adalah suatu kehinaan seperti yang tersebut pada ayat 15 dan 16. Tetapi sebenarnya kekayaan dan kemiskinan adalah ujian Allah bagi hamba-hamba-Nya.
+[^908]: Allah menyalahkan orang yang mengatakan bahwa kekayaan itu adalah suatu kemuliaan, dan kemiskinan adalah suatu kehinaan seperti yang tersebut pada ayat 15 dan 16. Tetapi sebenarnya kekayaan dan kemiskinan adalah ujian Allah bagi hamba-hamba-Nya.
 
 # 6010
 
-Sekali-kali tidak! Bahkan kamu tidak memuliakan anak yatim,909)
+Sekali-kali tidak! Bahkan kamu tidak memuliakan anak yatim,[^909]
 
-*909) Tidak memberikan hak-hak anak yatim dan tidak berbuat baik kepadanya.
+[^909]: Tidak memberikan hak-hak anak yatim dan tidak berbuat baik kepadanya.
 
 # 6011
 
@@ -25942,15 +26148,15 @@ Dan demi malam apabila telah sunyi.
 
 # 6082
 
-Tuhanmu tidak meninggalkan engkau (Muhammad) dan tidak (pula) membencimu.910)
+Tuhanmu tidak meninggalkan engkau (Muhammad) dan tidak (pula) membencimu.[^910]
 
-*910) Ketika turunnya wahyu kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- terhenti untuk sementara waktu, orang-orang musyrik berkata, "Tuhannya (Muhammad) telah meninggalkannya dan benci kepadanya." Maka turunlah ayat ini untuk membantah perkataan orang-orang musyrik.
+[^910]: Ketika turunnya wahyu kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- terhenti untuk sementara waktu, orang-orang musyrik berkata, "Tuhannya (Muhammad) telah meninggalkannya dan benci kepadanya." Maka turunlah ayat ini untuk membantah perkataan orang-orang musyrik.
 
 # 6083
 
-Dan sungguh, yang kemudian itu lebih baik bagimu daripada yang permulaan.911)
+Dan sungguh, yang kemudian itu lebih baik bagimu daripada yang permulaan.[^911]
 
-*911) Akhir perjuangan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- itu akan menjumpai kemenangan-kemenangan, sedang permulaannya penuh dengan kesulitan-kesulitan. Ada pula sebagian mufasir yang mengartikan ākhiratu dengan "kehidupan akhirat" beserta segala kesenangannya dan ūlā dengan arti "kehidupan dunia".
+[^911]: Akhir perjuangan Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- itu akan menjumpai kemenangan-kemenangan, sedang permulaannya penuh dengan kesulitan-kesulitan. Ada pula sebagian mufasir yang mengartikan ākhiratu dengan "kehidupan akhirat" beserta segala kesenangannya dan ūlā dengan arti "kehidupan dunia".
 
 # 6084
 
@@ -25962,9 +26168,9 @@ Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungi(mu).
 
 # 6086
 
-Dan Dia mendapatimu sebagai seorang yang bingung,912) lalu Dia memberikan petunjuk.
+Dan Dia mendapatimu sebagai seorang yang bingung,[^912] lalu Dia memberikan petunjuk.
 
-*912) Kebingungan untuk mendapatkan kebenaran yang tidak bisa dicapai oleh akal. Lalu Allah menurunkan wahyu kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
+[^912]: Kebingungan untuk mendapatkan kebenaran yang tidak bisa dicapai oleh akal. Lalu Allah menurunkan wahyu kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
 
 # 6087
 
@@ -25988,9 +26194,9 @@ Bukankah kami telah melapangkan dadamu (Muhammad)?
 
 # 6092
 
-Dan kami pun telah menurunkan beban darimu,913)
+Dan kami pun telah menurunkan beban darimu,[^913]
 
-*913) Kesusahan-kesusahan yang diderita Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dalam menyampaikan risalah.
+[^913]: Kesusahan-kesusahan yang diderita Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dalam menyampaikan risalah.
 
 # 6093
 
@@ -25998,9 +26204,9 @@ yang memberatkan punggungmu,
 
 # 6094
 
-dan kami tinggikan sebutan (nama)mu914) bagimu.
+dan kami tinggikan sebutan (nama)mu[^914] bagimu.
 
-*914) Meninggikan derajat dan menggandengkan namanya dengan nama Allah dalam kalimat syahadat, menjadikan taat kepada Nabi termasuk taat kepada Allah.
+[^914]: Meninggikan derajat dan menggandengkan namanya dengan nama Allah dalam kalimat syahadat, menjadikan taat kepada Nabi termasuk taat kepada Allah.
 
 # 6095
 
@@ -26012,9 +26218,9 @@ sesungguhnya bersama kesulitan ada kemudahan.
 
 # 6097
 
-Maka apabila engkau telah selesai (dari suatu urusan), tetaplah bekerja keras (untuk urusan yang lain),915)
+Maka apabila engkau telah selesai (dari suatu urusan), tetaplah bekerja keras (untuk urusan yang lain),[^915]
 
-*915) Sebagian mufasir menafsirkan apabila engkau (Muhammad) telah selesai berdakwah maka beribadahlah kepada Allah; apabila engkau telah selesai melaksanakan urusan dunia maka kerjakanlah urusan akhirat dan ada lagi yang mengatakan, "Apabila telah mengerjakan salat maka berdoalah".
+[^915]: Sebagian mufasir menafsirkan apabila engkau (Muhammad) telah selesai berdakwah maka beribadahlah kepada Allah; apabila engkau telah selesai melaksanakan urusan dunia maka kerjakanlah urusan akhirat dan ada lagi yang mengatakan, "Apabila telah mengerjakan salat maka berdoalah".
 
 # 6098
 
@@ -26022,15 +26228,15 @@ dan hanya kepada Tuhanmulah engkau berharap.
 
 # 6099
 
-Demi (buah) Tin dan (buah) Zaitun.916)
+Demi (buah) Tin dan (buah) Zaitun.[^916]
 
-*916) Yang dimaksud dengan "Tin" oleh sebagian mufasir ialah tempat tinggal Nabi Nuh -'alaihissalām-, yaitu Damaskus yang banyak tumbuh pohon Tin; dan "zaitun" ialah Baitulmaqdis yang banyak tumbuh zaitun.
+[^916]: Yang dimaksud dengan "Tin" oleh sebagian mufasir ialah tempat tinggal Nabi Nuh -'alaihissalām-, yaitu Damaskus yang banyak tumbuh pohon Tin; dan "zaitun" ialah Baitulmaqdis yang banyak tumbuh zaitun.
 
 # 6100
 
-Demi gunung Sinai. 917)
+Demi gunung Sinai. [^917]
 
-*917) Gunung Sinai adalah tempat Nabi Musa -'alaihissalām- menerima wahyu.
+[^917]: Gunung Sinai adalah tempat Nabi Musa -'alaihissalām- menerima wahyu.
 
 # 6101
 
@@ -26094,9 +26300,9 @@ Bagaimana pendapatmu tentang orang yang melarang,
 
 # 6116
 
-seorang hamba ketika dia melaksanakan salat?918)
+seorang hamba ketika dia melaksanakan salat?[^918]
 
-*918) Yang melarang adalah Abu Jahal dan yang dilarang ialah Rasululllah. Tetapi usaha ini tidak berhasil karena Abu Jahal melihat sesuatu yang menakutkannya. Setelah Rasulullah selesai salat, disampaikannya berita itu kepada Rasulullah. Kemudian Rasulullah mengatakan, "Kalau Abu Jahal berbuat demikian, niscaya dia akan dibinasakan oleh malaikat".
+[^918]: Yang melarang adalah Abu Jahal dan yang dilarang ialah Rasululllah. Tetapi usaha ini tidak berhasil karena Abu Jahal melihat sesuatu yang menakutkannya. Setelah Rasulullah selesai salat, disampaikannya berita itu kepada Rasulullah. Kemudian Rasulullah mengatakan, "Kalau Abu Jahal berbuat demikian, niscaya dia akan dibinasakan oleh malaikat".
 
 # 6117
 
@@ -26136,9 +26342,9 @@ Sekali-kali tidak! Janganlah kamu patuh kepadanya; dan sujudlah serta dekatkanla
 
 # 6126
 
-Sesungguhnya Kami telah menurunkannya (Al-Qur`an) pada malam qadar.919)
+Sesungguhnya Kami telah menurunkannya (Al-Qur`an) pada malam qadar.[^919]
 
-*919) Malam qadar mempunyai beberapa arti, di antaranya malam kemuliaan, karena pada malam itu permulaan diturunkannya Al-Qur`an dari Lauḥ Maḥfūẓ kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
+[^919]: Malam qadar mempunyai beberapa arti, di antaranya malam kemuliaan, karena pada malam itu permulaan diturunkannya Al-Qur`an dari Lauḥ Maḥfūẓ kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.
 
 # 6127
 
@@ -26166,9 +26372,9 @@ Orang-orang yang kafir dari golongan Ahli Kitab dan orang-orang musyrik tidak ak
 
 # 6133
 
-di dalamnya terdapat (isi) kitab-kitab yang lurus (benar).920)
+di dalamnya terdapat (isi) kitab-kitab yang lurus (benar).[^920]
 
-*920) Isi kitab-kitab yang diturunkan kepada nabi-nabi seperti Taurat, Zabur dan Injil yang murni.
+[^920]: Isi kitab-kitab yang diturunkan kepada nabi-nabi seperti Taurat, Zabur dan Injil yang murni.
 
 # 6134
 
@@ -26176,9 +26382,9 @@ Dan tidaklah terpecah belah orang-orang Ahli Kitab melainkan setelah datang kepa
 
 # 6135
 
-Padahal mereka hanya diperintah menyembah Allah dengan ikhlas menaati-Nya semata-mata karena (menjalankan) agama, dan juga agar melaksanakan salat dan menunaikan zakat; dan yang demikian itulah agama yang lurus (benar).921)
+Padahal mereka hanya diperintah menyembah Allah dengan ikhlas menaati-Nya semata-mata karena (menjalankan) agama, dan juga agar melaksanakan salat dan menunaikan zakat; dan yang demikian itulah agama yang lurus (benar).[^921]
 
-*921) Lurus, berarti jauh dari syirik dan jauh dari kesesatan.
+[^921]: Lurus, berarti jauh dari syirik dan jauh dari kesesatan.
 
 # 6136
 
@@ -26214,9 +26420,9 @@ karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) padanya.
 
 # 6144
 
-Pada hari itu manusia keluar dari kuburnya dalam keadaan berkelompok-kelompok,922) untuk diperlihatkan kepada mereka (balasan) semua amal perbuatannya.
+Pada hari itu manusia keluar dari kuburnya dalam keadaan berkelompok-kelompok,[^922] untuk diperlihatkan kepada mereka (balasan) semua amal perbuatannya.
 
-*922) Ada yang beruntung dan ada yang celaka.
+[^922]: Ada yang beruntung dan ada yang celaka.
 
 # 6145
 
@@ -26316,9 +26522,9 @@ Dan tahukah kamu apakah neraka Hāwiyah itu?
 
 # 6169
 
-Bermegah-megahan telah melalaikan kamu,923)
+Bermegah-megahan telah melalaikan kamu,[^923]
 
-*923) Bermegah-megahan dalam soal banyak anak, harta, pengikut, kemuliaan dan sebagainya, telah melalaikan kamu dari ketaatan kepada Allah.
+[^923]: Bermegah-megahan dalam soal banyak anak, harta, pengikut, kemuliaan dan sebagainya, telah melalaikan kamu dari ketaatan kepada Allah.
 
 # 6170
 
@@ -26366,9 +26572,9 @@ Celakalah bagi setiap pengumpat dan pencela,
 
 # 6181
 
-yang mengumpulkan harta dan menghitung-hitungnya,924)
+yang mengumpulkan harta dan menghitung-hitungnya,[^924]
 
-*924) Mengumpulkan dan menghitung-hitung harta yang menyebabkan dia menjadi kikir dan tidak mau menginfakkannya di jalan Allah.
+[^924]: Mengumpulkan dan menghitung-hitung harta yang menyebabkan dia menjadi kikir dan tidak mau menginfakkannya di jalan Allah.
 
 # 6182
 
@@ -26400,9 +26606,9 @@ Sungguh, api itu ditutup rapat atas (diri) mereka,
 
 # 6189
 
-Tidakkah engkau (Muhammad) perhatikan bagaimana Tuhanmu telah bertindak terhadap pasukan bergajah?925)
+Tidakkah engkau (Muhammad) perhatikan bagaimana Tuhanmu telah bertindak terhadap pasukan bergajah?[^925]
 
-*925) Pasukan yang dipimpin oleh Abrahah, Gubernur Yaman yang hendak menghancurkan Ka'bah. Sebelum masuk ke kota Mekkah, pasukan tersebut diserang burung-burung yang melemparinya dengan batu-batu kecil sehingga mereka musnah.
+[^925]: Pasukan yang dipimpin oleh Abrahah, Gubernur Yaman yang hendak menghancurkan Ka'bah. Sebelum masuk ke kota Mekkah, pasukan tersebut diserang burung-burung yang melemparinya dengan batu-batu kecil sehingga mereka musnah.
 
 # 6190
 
@@ -26426,9 +26632,9 @@ Karena kebiasaan orang-orang Quraisy,
 
 # 6195
 
-(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas.926)
+(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas.[^926]
 
-*926) Orang Quraisy biasa mengadakan perjalanan terutama untuk berdagang ke negeri Syam pada musim panas dan ke negeri Yaman pada musim dingin. Dalam perjalanan itu mereka mendapat jaminan keamanan dari penguasa negeri-negeri yang dilaluinya. Ini adalah suatu nikmat yang sangat besar dari Allah kepada mereka. Oleh karena itu sewajarnyalah mereka menyembah Allah yang telah memberikan nikmat itu kepada mereka.
+[^926]: Orang Quraisy biasa mengadakan perjalanan terutama untuk berdagang ke negeri Syam pada musim panas dan ke negeri Yaman pada musim dingin. Dalam perjalanan itu mereka mendapat jaminan keamanan dari penguasa negeri-negeri yang dilaluinya. Ini adalah suatu nikmat yang sangat besar dari Allah kepada mereka. Oleh karena itu sewajarnyalah mereka menyembah Allah yang telah memberikan nikmat itu kepada mereka.
 
 # 6196
 
@@ -26456,21 +26662,21 @@ Maka celakalah orang yang salat,
 
 # 6202
 
-(yaitu) orang-orang yang lalai terhadap salatnya,927)
+(yaitu) orang-orang yang lalai terhadap salatnya,[^927]
 
-*927) Orang-orang yang tidak menghargai serta melalaikan pelaksanaan dan waktu-waktu salat.
+[^927]: Orang-orang yang tidak menghargai serta melalaikan pelaksanaan dan waktu-waktu salat.
 
 # 6203
 
-yang berbuat riya,928)
+yang berbuat riya,[^928]
 
-*928) Riya ialah melakukan perbuatan tidak untuk mencari keridaan Allah, melainkan untuk mencari pujian atau kamasyhuran di masyarakat.
+[^928]: Riya ialah melakukan perbuatan tidak untuk mencari keridaan Allah, melainkan untuk mencari pujian atau kamasyhuran di masyarakat.
 
 # 6204
 
-dan enggan (memberikan) bantuan.929)
+dan enggan (memberikan) bantuan.[^929]
 
-*929) Sebagian mufasir mengartikan dengan "enggan membayar zakat".
+[^929]: Sebagian mufasir mengartikan dengan "enggan membayar zakat".
 
 # 6205
 
@@ -26522,9 +26728,9 @@ Maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampunan kepada-Nya. Sungguh
 
 # 6217
 
-Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia!930)
+Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia![^930]
 
-*930) Yang dimaksud dengan "kedua tangan Abu Lahab" ialah Abu Lahab.
+[^930]: Yang dimaksud dengan "kedua tangan Abu Lahab" ialah Abu Lahab.
 
 # 6218
 

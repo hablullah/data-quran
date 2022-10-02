@@ -10,9 +10,9 @@ CheckUpdates: https://quranenc.com/check/albanian_nahi/v1.1.0-xml.1
 
 # 1
 
-Me emrin e Allahut, të Gjithëmëshirshmit, Mëshirëplotit![1]
+Me emrin e Allahut, të Gjithëmëshirshmit, Mëshirëplotit![^1]
 
-[1] Kjo formulë quhet El-Besmele në terminologjinë islame dhe ndodhet në fillim të çdo sureje të Kuranit, përveç sures së nëntë. Ajo është një thirrje që i drejtohet Allahut të Madhëruar, në mënyrë që Ai ta pranojë dhe ta bekojë veprimin që nis me këtë formulë. Besmele-ja përbëhet nga dy pjesë: përmendja e emrit të Allahut (bismil-lâh) dhe përmendja e dy prej cilësive të Tij, me të cilat Ai ka dashur që robërit e Vet ta identifikojnë: Er-Rahmân dhe Er-Rahîm (i Gjithëmëshirshmi, Mëshirëploti). Kur shqipton pjesën e parë të formulës, myslimani thotë: “Me emrin e Allahut e nis leximin”. Më pas vazhdon me dy cilësitë: Er-Rahmân dhe Er-Rahîm, të cilët rrjedhin nga e njëjta rrënjë rahima që do të thotë “të mëshirosh”. Në lidhje me dallimin midis këtyre dy emrave të Allahut janë bërë trajtesa të shumta e të gjata, sepse, siç ndodh gjithmonë, para Madhështisë së Allahut dituria dhe njohuria njerëzore kanë gjithnjë diçka për të thënë. Sipas disa komenteve, emri Er-Rahmân do të thotë “i Mëshirshëm dhe Përdëllyes për të gjitha krijesat”, prandaj është përkthyer “I Gjithëmëshirshmi”, kurse emri Er-Rahîm, edhe pse tregon një mëshirë të pakufishme, sipas komentuesve të Kuranit, kjo mëshirë është e veçantë vetëm për besimtarët. Ky emër është përkthyer “Mëshirëploti”.
+[^1]: Kjo formulë quhet El-Besmele në terminologjinë islame dhe ndodhet në fillim të çdo sureje të Kuranit, përveç sures së nëntë. Ajo është një thirrje që i drejtohet Allahut të Madhëruar, në mënyrë që Ai ta pranojë dhe ta bekojë veprimin që nis me këtë formulë. Besmele-ja përbëhet nga dy pjesë: përmendja e emrit të Allahut (bismil-lâh) dhe përmendja e dy prej cilësive të Tij, me të cilat Ai ka dashur që robërit e Vet ta identifikojnë: Er-Rahmân dhe Er-Rahîm (i Gjithëmëshirshmi, Mëshirëploti). Kur shqipton pjesën e parë të formulës, myslimani thotë: “Me emrin e Allahut e nis leximin”. Më pas vazhdon me dy cilësitë: Er-Rahmân dhe Er-Rahîm, të cilët rrjedhin nga e njëjta rrënjë rahima që do të thotë “të mëshirosh”. Në lidhje me dallimin midis këtyre dy emrave të Allahut janë bërë trajtesa të shumta e të gjata, sepse, siç ndodh gjithmonë, para Madhështisë së Allahut dituria dhe njohuria njerëzore kanë gjithnjë diçka për të thënë. Sipas disa komenteve, emri Er-Rahmân do të thotë “i Mëshirshëm dhe Përdëllyes për të gjitha krijesat”, prandaj është përkthyer “I Gjithëmëshirshmi”, kurse emri Er-Rahîm, edhe pse tregon një mëshirë të pakufishme, sipas komentuesve të Kuranit, kjo mëshirë është e veçantë vetëm për besimtarët. Ky emër është përkthyer “Mëshirëploti”.
 
 # 2
 
@@ -28,45 +28,51 @@ Sunduesit të Ditës së Gjykimit.
 
 # 5
 
-Vetëm Ty të adhurojmë dhe vetëm prej Teje ndihmë kërkojmë.[2]
+Vetëm Ty të adhurojmë dhe vetëm prej Teje ndihmë kërkojmë.[^2]
 
-[2] Vini re kumbimin e rreptë monoteist të lutjeve islame. Në Islam, jo vetëm që nuk duhet adhuruar asnjë krijesë, por edhe t’i lutesh për ndihmë ndonjë shenjtori, profeti apo çfarëdo krijese tjetër, është rreptësisht e ndaluar. Njeriu duhet t’i lutet për ndihmë vetëm Allahut.
+[^2]: Vini re kumbimin e rreptë monoteist të lutjeve islame. Në Islam, jo vetëm që nuk duhet adhuruar asnjë krijesë, por edhe t’i lutesh për ndihmë ndonjë shenjtori, profeti apo çfarëdo krijese tjetër, është rreptësisht e ndaluar. Njeriu duhet t’i lutet për ndihmë vetëm Allahut.
 
 # 6
 
-Udhëzona në rrugën e drejtë![3]
+Udhëzona në rrugën e drejtë![^3]
 
-[3] Pas lavdërimit të Allahut, pas njohjes së sundimit të Tij hyjnor mbi gjithësinë dhe mbi Ditën e Gjykimit dhe pas deklarimit të nënshtrimit të tërësishëm ndaj Allahut, që konkretizohet në adhurimin kushtuar Atij dhe në heqjen dorë nga çdo lloj ndihmësi e mbrojtësi tjetër përveç Atij, njeriu i kërkon Zotit të Tij që t’i japë një udhëzim për në rrugën e drejtë, një sistem doktrinar, shpirtëror dhe ligjor që do ta udhëheqë përmes kësaj prove tokësore deri në jetën e përtejme.
+[^3]: Pas lavdërimit të Allahut, pas njohjes së sundimit të Tij hyjnor mbi gjithësinë dhe mbi Ditën e Gjykimit dhe pas deklarimit të nënshtrimit të tërësishëm ndaj Allahut, që konkretizohet në adhurimin kushtuar Atij dhe në heqjen dorë nga çdo lloj ndihmësi e mbrojtësi tjetër përveç Atij, njeriu i kërkon Zotit të Tij që t’i japë një udhëzim për në rrugën e drejtë, një sistem doktrinar, shpirtëror dhe ligjor që do ta udhëheqë përmes kësaj prove tokësore deri në jetën e përtejme.
 
 # 7
 
-Në rrugën e atyre që u ke dhuruar mirësi[4] e jo në të atyre që kanë shkaktuar zemërimin Tënd,[5] as në të atyre që janë të humbur![6]
+Në rrugën e atyre që u ke dhuruar mirësi[^4] e jo në të atyre që kanë shkaktuar zemërimin Tënd,[^5] as në të atyre që janë të humbur![^6]
 
-[4] Vargu i fundit përmban pohimin se edhe para shpalljes së Kuranit, mëshira e Allahut të Madhëruar vepronte midis njerëzve, duke prodhuar sjellje të ndriçuara nga besimi dhe të udhëhequra nga frika ndaj Zotit. Sipas komentuesit më të njohur të Kuranit, Ibn Abbasit (r.a.), ata njerëz të cilëve Allahu u ka dhuruar mirësi, janë: profetët, besimtarët e sinqertë e të drejtë (siddikûn), martirët për çështjen e besimit (shuhadâ’) dhe besimtarët e mirë e të drejtë (sâlihûn). 
-[5] Njerëzit e tillë janë ata që e njohin rrugën e drejtë, por që nuk e ndjekin atë.
-[6] Njerëzit e tillë janë ata që kanë gabuar rrugë, duke kujtuar se ndjekin rrugën e drejtë.
+[^4]: Vargu i fundit përmban pohimin se edhe para shpalljes së Kuranit, mëshira e Allahut të Madhëruar vepronte midis njerëzve, duke prodhuar sjellje të ndriçuara nga besimi dhe të udhëhequra nga frika ndaj Zotit. Sipas komentuesit më të njohur të Kuranit, Ibn Abbasit (r.a.), ata njerëz të cilëve Allahu u ka dhuruar mirësi, janë: profetët, besimtarët e sinqertë e të drejtë (siddikûn), martirët për çështjen e besimit (shuhadâ’) dhe besimtarët e mirë e të drejtë (sâlihûn).
+
+[^5]: Njerëzit e tillë janë ata që e njohin rrugën e drejtë, por që nuk e ndjekin atë.
+
+[^6]: Njerëzit e tillë janë ata që kanë gabuar rrugë, duke kujtuar se ndjekin rrugën e drejtë.
 
 # 8
 
-Elif, Lâm, Mîm.[7]
+Elif, Lâm, Mîm.[^7]
 
-[7] Elif-i, Lâm-i dhe Mîm-i janë tri shkronja të veçanta të alfabetit arab. Shkronja të tilla të veçanta ndodhen në të njëjtin pozicion në 29 sure të tjera. Në lidhje me kuptimin e tyre, dijetarët komentues të Kuranit, kanë dhënë shumë interpretime, por asnjëri prej tyre nuk ka arritur një konsensus të tillë të përgjithshëm që të konsiderohet si interpretimi më i besueshëm. Gjithsesi, shumë komentues kanë mendimin se kuptimin e vërtetë të këtyre shkronjave e di vetëm Allahu dhe se ato bëjnë pjesë në ato vargje, për të cilat vargu i shtatë i sures Ali Imran thotë: “Është Ai që të ka shpallur ty (Muhamed) Librin, disa vargje të të cilit janë të qarta e me kuptim të drejtpërdrejtë. Ato janë themelet e Librit. Kurse disa (vargje) të tjera janë jo krejtësisht të qarta (me kuptime alegorike). Ata, zemrat e të cilëve priren nga e pavërteta, ndjekin vargjet më pak të qarta, duke kërkuar të krijojnë pështjellim dhe duke kërkuar t’i komentojnë sipas dëshirës së vet. Por, kuptimin e tyre të vërtetë e di vetëm Allahu. Ndërsa ata që janë thelluar në dijeni, thonë: “Ne i besojmë (Kuranit). Të gjitha këto (vargje të qarta e alegorike) janë nga Zoti ynë!” Nëse secila nga shkronjat e veçanta të përdorura në fillimet e 30 sureve, llogaritet vetëm një herë, atëherë numri i tyre është katërmbëdhjetë, po aq sa gjysma e shkronjave të alfabetit arab.
+[^7]: Elif-i, Lâm-i dhe Mîm-i janë tri shkronja të veçanta të alfabetit arab. Shkronja të tilla të veçanta ndodhen në të njëjtin pozicion në 29 sure të tjera. Në lidhje me kuptimin e tyre, dijetarët komentues të Kuranit, kanë dhënë shumë interpretime, por asnjëri prej tyre nuk ka arritur një konsensus të tillë të përgjithshëm që të konsiderohet si interpretimi më i besueshëm. Gjithsesi, shumë komentues kanë mendimin se kuptimin e vërtetë të këtyre shkronjave e di vetëm Allahu dhe se ato bëjnë pjesë në ato vargje, për të cilat vargu i shtatë i sures Ali Imran thotë: “Është Ai që të ka shpallur ty (Muhamed) Librin, disa vargje të të cilit janë të qarta e me kuptim të drejtpërdrejtë. Ato janë themelet e Librit. Kurse disa (vargje) të tjera janë jo krejtësisht të qarta (me kuptime alegorike). Ata, zemrat e të cilëve priren nga e pavërteta, ndjekin vargjet më pak të qarta, duke kërkuar të krijojnë pështjellim dhe duke kërkuar t’i komentojnë sipas dëshirës së vet. Por, kuptimin e tyre të vërtetë e di vetëm Allahu. Ndërsa ata që janë thelluar në dijeni, thonë: “Ne i besojmë (Kuranit). Të gjitha këto (vargje të qarta e alegorike) janë nga Zoti ynë!” Nëse secila nga shkronjat e veçanta të përdorura në fillimet e 30 sureve, llogaritet vetëm një herë, atëherë numri i tyre është katërmbëdhjetë, po aq sa gjysma e shkronjave të alfabetit arab.
 
 # 9
 
-Ky është Libri në të cilin nuk ka dyshim[8]. Ai është udhërrëfyes[9] për të devotshmit,[10]
+Ky është Libri në të cilin nuk ka dyshim[^8]. Ai është udhërrëfyes[^9] për të devotshmit,[^10]
 
-[8] Pra, nuk ka dyshim se ky Libër – Kurani – është Fjala e Allahut. Kurani ndryshon nga shkrimet e tjera të shenjta, sepse çdo shkronjë dhe çdo fjalë e tij është e Zotit dhe se ai është i ruajtur në pastërtinë e vet origjinale.
-[9] Pra, Kurani është libër ndriçues që tregon rrugën e drejtë të besimit dhe të sjelljes dhe jo libër letërsie, historie apo shkencash fizike. Edhe pse ai është shkruar në stilin më të lartë letrar në gjuhën arabe, edhe pse përmban të dhëna të sakta historike apo shkencore, para së gjithash ai është një libër i shenjtë që përmban urdhërime, ligje dhe mësime hyjnore, sipas të cilave njerëzit duhet të formojnë jetën e tyre.
-[10] “të devotshmit”: ky është përkthimi i fjalës “muttekûn”, e cila fjalë për fjalë do të thotë: “ata që i ruhen Allahut dhe që kanë frikë prej Atij”. Frika prej Allahut nuk është e tillë që ta tmerrojë besimtarin apo ta terrorizojë atë, por është një frikë e përzier me ndjenjën e dashurisë, adhurimit, respektit dhe dorëzimit para Atij. Myslimani qan nga frika prej Allahut, por më së shumti është ëmbëlsia që ndien nga dashuria për Atë, dhe jo ankthi, ajo që ia shkrin zemrën, ia djeg kraharorin dhe e bën që t’i rrjedhin lotët.
+[^8]: Pra, nuk ka dyshim se ky Libër – Kurani – është Fjala e Allahut. Kurani ndryshon nga shkrimet e tjera të shenjta, sepse çdo shkronjë dhe çdo fjalë e tij është e Zotit dhe se ai është i ruajtur në pastërtinë e vet origjinale.
+
+[^9]: Pra, Kurani është libër ndriçues që tregon rrugën e drejtë të besimit dhe të sjelljes dhe jo libër letërsie, historie apo shkencash fizike. Edhe pse ai është shkruar në stilin më të lartë letrar në gjuhën arabe, edhe pse përmban të dhëna të sakta historike apo shkencore, para së gjithash ai është një libër i shenjtë që përmban urdhërime, ligje dhe mësime hyjnore, sipas të cilave njerëzit duhet të formojnë jetën e tyre.
+
+[^10]: “të devotshmit”: ky është përkthimi i fjalës “muttekûn”, e cila fjalë për fjalë do të thotë: “ata që i ruhen Allahut dhe që kanë frikë prej Atij”. Frika prej Allahut nuk është e tillë që ta tmerrojë besimtarin apo ta terrorizojë atë, por është një frikë e përzier me ndjenjën e dashurisë, adhurimit, respektit dhe dorëzimit para Atij. Myslimani qan nga frika prej Allahut, por më së shumti është ëmbëlsia që ndien nga dashuria për Atë, dhe jo ankthi, ajo që ia shkrin zemrën, ia djeg kraharorin dhe e bën që t’i rrjedhin lotët.
 
 # 10
 
-të cilët besojnë në të fshehtën,[11] falin namazin[12] dhe japin[13] nga ajo që u kemi dhënë Ne;
+të cilët besojnë në të fshehtën,[^11] falin namazin[^12] dhe japin[^13] nga ajo që u kemi dhënë Ne;
 
-[11] “të fshehtën”: ky është përkthimi i fjalës “gajb” që përfshin gjithçka që është përtej perceptimeve njerëzore dhe e pakapshme nga arsyeja e thjeshtë, si p.sh.: ringjallja, Xheneti (Parajsa), Xhehenemi (Ferri), paracaktimi hyjnor etj. Të gjitha këto gjëra janë përtej mendjes sonë dhe zbulohen vetëm nëpërmjet Shpalljes Hyjnore.
-[12] Namazi është shtylla e dytë e Islamit. Ai është një ritual i posaçëm i përbërë nga leximi i pjesëve të caktuara prej Kuranit dhe nga recitime lavdesh e lutjesh për Zotin, të kombinuara me lëvizje të veçanta. Namazi është i detyrueshëm të kryhet nga çdo besimtar pesë herë në ditë në kohë të caktuara.
-[13] Vargu bën fjalë për çdo lloj shpenzimi në të mirë të njerëzve, përfshirë këtu edhe zekatin – 1/40 e pasurisë –, që është detyrim financiar për çdo mysliman të pasur.
+[^11]: “të fshehtën”: ky është përkthimi i fjalës “gajb” që përfshin gjithçka që është përtej perceptimeve njerëzore dhe e pakapshme nga arsyeja e thjeshtë, si p.sh.: ringjallja, Xheneti (Parajsa), Xhehenemi (Ferri), paracaktimi hyjnor etj. Të gjitha këto gjëra janë përtej mendjes sonë dhe zbulohen vetëm nëpërmjet Shpalljes Hyjnore.
+
+[^12]: Namazi është shtylla e dytë e Islamit. Ai është një ritual i posaçëm i përbërë nga leximi i pjesëve të caktuara prej Kuranit dhe nga recitime lavdesh e lutjesh për Zotin, të kombinuara me lëvizje të veçanta. Namazi është i detyrueshëm të kryhet nga çdo besimtar pesë herë në ditë në kohë të caktuara.
+
+[^13]: Vargu bën fjalë për çdo lloj shpenzimi në të mirë të njerëzve, përfshirë këtu edhe zekatin – 1/40 e pasurisë –, që është detyrim financiar për çdo mysliman të pasur.
 
 # 11
 
@@ -74,9 +80,9 @@ dhe të cilët besojnë në atë që të është shpallur ty (o Muhamed), në at
 
 # 12
 
-Ata janë udhëzuar në rrugë të drejtë nga Zoti i tyre dhe pikërisht ata janë të shpëtuarit.[14]
+Ata janë udhëzuar në rrugë të drejtë nga Zoti i tyre dhe pikërisht ata janë të shpëtuarit.[^14]
 
-[14] Për ta përmbledhur, të udhëzuarit në rrugën e drejtë dhe të devotshmit dallohen për: 1) besimin në të padukshmen; 2) faljen e rregullt të namazeve; 3) shpenzimin në të mirë të të tjerëve; 4) besimin në Mesazhin që i është shpallur Profetit Muhamed (a.s.); 5) besimin në të gjithë Librat e mëparshëm Hyjnorë dhe 6) besimin e patundur në jetën e përtejme.
+[^14]: Për ta përmbledhur, të udhëzuarit në rrugën e drejtë dhe të devotshmit dallohen për: 1) besimin në të padukshmen; 2) faljen e rregullt të namazeve; 3) shpenzimin në të mirë të të tjerëve; 4) besimin në Mesazhin që i është shpallur Profetit Muhamed (a.s.); 5) besimin në të gjithë Librat e mëparshëm Hyjnorë dhe 6) besimin e patundur në jetën e përtejme.
 
 # 13
 
@@ -136,9 +142,9 @@ Ose shëmbëllen me ata që, gjatë shtrëngatës nga qielli, shoqëruar me err�
 
 # 27
 
-Shkreptima, pothuaj, ua merr shikimin. Sa herë që ajo ua ndriçon rrugën, ata ecin dhe, kur i kaplon errësira, ndalen. Sikur të donte Allahu, do t’ua merrte dëgjimin dhe shikimin. Pa dyshim, Allahu është i Fuqishëm për çdo gjë.[15]
+Shkreptima, pothuaj, ua merr shikimin. Sa herë që ajo ua ndriçon rrugën, ata ecin dhe, kur i kaplon errësira, ndalen. Sikur të donte Allahu, do t’ua merrte dëgjimin dhe shikimin. Pa dyshim, Allahu është i Fuqishëm për çdo gjë.[^15]
 
-[15] Vargjet 6-20 bëjnë fjalë për një kategori të caktuar njerëzish që hiqen si besimtarë, por që në të vërtetë nuk janë të tillë. Këta njerëz përmenden në Kuran me termin munâfikûn, hipokritë, dhe në zemrat e veta kanë sëmundjen e dyshimit në të vërtetat fetare.
+[^15]: Vargjet 6-20 bëjnë fjalë për një kategori të caktuar njerëzish që hiqen si besimtarë, por që në të vërtetë nuk janë të tillë. Këta njerëz përmenden në Kuran me termin munâfikûn, hipokritë, dhe në zemrat e veta kanë sëmundjen e dyshimit në të vërtetat fetare.
 
 # 28
 
@@ -166,9 +172,9 @@ Allahu nuk ngurron të japë shembull mushkonjën ose diçka më të madhe se aj
 
 # 34
 
-të cilët shkelin besën e Allahut, pasi e patën dhënë, ndërpresin atë që ka urdhëruar Allahu për ta mbajtur lidhur[16] dhe bëjnë ngatërresa në Tokë; ata janë njëmend të shkatërruar.
+të cilët shkelin besën e Allahut, pasi e patën dhënë, ndërpresin atë që ka urdhëruar Allahu për ta mbajtur lidhur[^16] dhe bëjnë ngatërresa në Tokë; ata janë njëmend të shkatërruar.
 
-[16] “ndërpresin atë që ka urdhëruar Allahu për ta mbajtur lidhur” - Allahu i Madhëruar na ka urdhëruar të mbajmë lidhjet me Të, duke besuar tek Ai dhe duke e adhuruar Atë; të mbajmë lidhjet me Profetin e Tij, duke e besuar atë, duke e dashur dhe duke ndjekur shembullin e tij; pastaj të mbajmë lidhjet me prindërit, të afërmit, shokët dhe njerëzit e tjerë dhe duke zbatuar detyrimet që kemi kundrejt atyre.
+[^16]: “ndërpresin atë që ka urdhëruar Allahu për ta mbajtur lidhur” - Allahu i Madhëruar na ka urdhëruar të mbajmë lidhjet me Të, duke besuar tek Ai dhe duke e adhuruar Atë; të mbajmë lidhjet me Profetin e Tij, duke e besuar atë, duke e dashur dhe duke ndjekur shembullin e tij; pastaj të mbajmë lidhjet me prindërit, të afërmit, shokët dhe njerëzit e tjerë dhe duke zbatuar detyrimet që kemi kundrejt atyre.
 
 # 35
 
@@ -272,15 +278,15 @@ Pastaj Ne ju falëm, që të bëheni mirënjohës.
 
 # 60
 
-Kujtoni kur Musait i dhamë Librin dhe Dalluesin[17], që të udhëzoheni (në rrugën e drejtë)
+Kujtoni kur Musait i dhamë Librin dhe Dalluesin[^17], që të udhëzoheni (në rrugën e drejtë)
 
-[17] Pra, Libri i shenjtë i hebrenjve, Teurati dhe dituria për të dalluar të mirën nga e keqja.
+[^17]: Pra, Libri i shenjtë i hebrenjve, Teurati dhe dituria për të dalluar të mirën nga e keqja.
 
 # 61
 
-dhe, kur ai i tha popullit të vet: “O populli im, ju vetëm vetes i bëtë keq, kur e adhuruat viçin si zot! Prandaj kthehuni të penduar te Krijuesi juaj dhe vritni njëri-tjetrin! Kjo është më mirë për ju në sy të Krijuesit tuaj. Ai jua fali gabimin, sepse Ai i pranon shumë pendimet dhe është Mëshirëploti”.[18]
+dhe, kur ai i tha popullit të vet: “O populli im, ju vetëm vetes i bëtë keq, kur e adhuruat viçin si zot! Prandaj kthehuni të penduar te Krijuesi juaj dhe vritni njëri-tjetrin! Kjo është më mirë për ju në sy të Krijuesit tuaj. Ai jua fali gabimin, sepse Ai i pranon shumë pendimet dhe është Mëshirëploti”.[^18]
 
-[18] Ky varg tregon dënimin e hebrenjve në këtë jetë, për të këqijat që kishin bërë, si për shembull konsiderimi i viçit zot dhe kundërshtimi i Profetit Musa (a.s.) nga ana e tyre. Ky varg i dënoi, duke iu thënë “vritni njëri-tjetrin” për të shprehur pendimin për këto gabime. Kjo ngjarje ka qenë kështu: Zoti iu zbriti atyre një mjegull, në të cilën ata ishin të detyruar që të nxirrnin e të vringëllonin shpatat. Pastaj, Ai e ngriti mjegullën dhe u pa se kush ishte vrarë. Me kaq mori fund ky dënim dhe u pranua pendimi i mbarë popullit. Por, kjo nuk do të thotë se njeriu duhet të bëjë vetëvrasje, sepse vetëvrasjen e mallkojnë të gjitha librat fetarë, prej Ademit e këndej (përkthyesi).
+[^18]: Ky varg tregon dënimin e hebrenjve në këtë jetë, për të këqijat që kishin bërë, si për shembull konsiderimi i viçit zot dhe kundërshtimi i Profetit Musa (a.s.) nga ana e tyre. Ky varg i dënoi, duke iu thënë “vritni njëri-tjetrin” për të shprehur pendimin për këto gabime. Kjo ngjarje ka qenë kështu: Zoti iu zbriti atyre një mjegull, në të cilën ata ishin të detyruar që të nxirrnin e të vringëllonin shpatat. Pastaj, Ai e ngriti mjegullën dhe u pa se kush ishte vrarë. Me kaq mori fund ky dënim dhe u pranua pendimi i mbarë popullit. Por, kjo nuk do të thotë se njeriu duhet të bëjë vetëvrasje, sepse vetëvrasjen e mallkojnë të gjitha librat fetarë, prej Ademit e këndej (përkthyesi).
 
 # 62
 
@@ -292,9 +298,9 @@ Pas vdekjes suaj, Ne ju ringjallëm, që të bëheni falënderues.
 
 # 64
 
-Pastaj bëmë që retë t’ju bënin hije dhe ju zbritëm manën[19] dhe thëllëza, duke thënë: “Hani nga ushqimet e mira, që ju kemi dhënë!” (Ata nuk ishin mirënjohës dhe kështu) nuk na bënë keq Neve, por i bënë keq vetes.
+Pastaj bëmë që retë t’ju bënin hije dhe ju zbritëm manën[^19] dhe thëllëza, duke thënë: “Hani nga ushqimet e mira, që ju kemi dhënë!” (Ata nuk ishin mirënjohës dhe kështu) nuk na bënë keq Neve, por i bënë keq vetes.
 
-[19] Një rrëshirë e ëmbël si mjalti.
+[^19]: Një rrëshirë e ëmbël si mjalti.
 
 # 65
 
@@ -314,9 +320,9 @@ Kujtoni kur i thatë: “O Musa! Ne nuk mund të kënaqemi vetëm me një lloj u
 
 # 69
 
-Ata që besojnë (në Kuran), hebrenjtë, të krishterët dhe sabi’inët[20] - kushdo prej tyre që beson Allahun dhe jetën tjetër (sipas Kuranit), dhe bën vepra të mira (sipas Islamit), do të shpërblehen nga Zoti i tyre; ata nuk do të kenë pse të frikësohen apo të pikëllohen!
+Ata që besojnë (në Kuran), hebrenjtë, të krishterët dhe sabi’inët[^20] - kushdo prej tyre që beson Allahun dhe jetën tjetër (sipas Kuranit), dhe bën vepra të mira (sipas Islamit), do të shpërblehen nga Zoti i tyre; ata nuk do të kenë pse të frikësohen apo të pikëllohen!
 
-[20] Një sekt i përzier judeo-kristian.
+[^20]: Një sekt i përzier judeo-kristian.
 
 # 70
 
@@ -328,9 +334,9 @@ Por më pas, ju i kthyet shpinën (besëlidhjes) dhe, sikur të mos ishte mirës
 
 # 72
 
-Sigurisht që ju keni dëgjuar për ata prej jush që shkelën Sabatin[21] dhe të cilëve Ne u thamë: “Bëhuni majmunë të përçmuar e të urryer!”.
+Sigurisht që ju keni dëgjuar për ata prej jush që shkelën Sabatin[^21] dhe të cilëve Ne u thamë: “Bëhuni majmunë të përçmuar e të urryer!”.
 
-[21] Sabati është dita e shtunë, gjatë së cilës Allahu ua ndaloi hebrenjve të peshkonin, si sprovë dhe ndëshkim për gjynahet e tyre.
+[^21]: Sabati është dita e shtunë, gjatë së cilës Allahu ua ndaloi hebrenjve të peshkonin, si sprovë dhe ndëshkim për gjynahet e tyre.
 
 # 73
 
@@ -362,9 +368,9 @@ Dhe, pasi vratë një njeri e u grindët me njëri-tjetrin në lidhje me të, Al
 
 # 80
 
-Ne ju thamë: “Prekeni të vrarin me një copë të lopës së flijuar!”[22] Dhe kështu, Allahu do t’i ngjallë të vdekurit dhe do t’ju tregojë mrekullitë e veta, që ju të kuptoni.
+Ne ju thamë: “Prekeni të vrarin me një copë të lopës së flijuar!”[^22] Dhe kështu, Allahu do t’i ngjallë të vdekurit dhe do t’ju tregojë mrekullitë e veta, që ju të kuptoni.
 
-[22] Sipas komentuesve, një nga bijtë e Israilit vrau të birin e xhaxhait, për t’i marrë pasurinë dhe këtë vrasje ia veshi një fisi tjetër. Këto dy fise u çuan për të luftuar njëri-tjetrin dhe përbënin një të gjashtën e bijve të Israilit. Ata iu drejtuan Musait (a.s.) për ta sqaruar këtë çështje. Në fillim, duke u mbështetur në mendimin e vet të natyrshëm, populli nuk e pranoi menjëherë urdhrin e Zotit për të therur një lopë. Pastaj, u detyrua dhe e pranoi atë. Ata e therën lopën dhe e prekën të vrarin me mishin e saj. Ai u ngjall dhe tregoi se kush e kishte vrarë. Nga kjo ngjarje kuptojmë se Zoti është Fuqiplotë, ka fuqi t’i ringjallë të vdekurit; është Mëshirues i Madh dhe dërgon profetë për t’i udhëzuar njerëzit. Po ashtu, historia na tregon se populli i bijve të Israilit shpesh nuk e dëgjonte profetin e vet, Musain a.s. (përkthyesi).
+[^22]: Sipas komentuesve, një nga bijtë e Israilit vrau të birin e xhaxhait, për t’i marrë pasurinë dhe këtë vrasje ia veshi një fisi tjetër. Këto dy fise u çuan për të luftuar njëri-tjetrin dhe përbënin një të gjashtën e bijve të Israilit. Ata iu drejtuan Musait (a.s.) për ta sqaruar këtë çështje. Në fillim, duke u mbështetur në mendimin e vet të natyrshëm, populli nuk e pranoi menjëherë urdhrin e Zotit për të therur një lopë. Pastaj, u detyrua dhe e pranoi atë. Ata e therën lopën dhe e prekën të vrarin me mishin e saj. Ai u ngjall dhe tregoi se kush e kishte vrarë. Nga kjo ngjarje kuptojmë se Zoti është Fuqiplotë, ka fuqi t’i ringjallë të vdekurit; është Mëshirues i Madh dhe dërgon profetë për t’i udhëzuar njerëzit. Po ashtu, historia na tregon se populli i bijve të Israilit shpesh nuk e dëgjonte profetin e vet, Musain a.s. (përkthyesi).
 
 # 81
 
@@ -400,9 +406,9 @@ Nuk është kështu si thoni ju! Ata që bëjnë vepra të këqija dhe mbulohen 
 
 # 89
 
-Kurse ata që besojnë e bëjnë vepra të mira, do të jenë banorë të Xhenetit, ku do të qëndrojnë përgjithmonë.[23]
+Kurse ata që besojnë e bëjnë vepra të mira, do të jenë banorë të Xhenetit, ku do të qëndrojnë përgjithmonë.[^23]
 
-[23] Në Kuran përmendet shpesh Xheneti (parajsa). Po ashtu, përmendet edhe Xhehenemi (ferri apo skëterra) - me shumë emra. Kjo është kështu sepse njeriu përmendet shumë herë për cilësi të mira dhe, për çdo cilësi të cekur, përmendet edhe dhurata që e meriton - Xheneti. Nga ana tjetër, kur përmenden cilësitë e këqija të njeriut, ceket edhe dënimi për të - Xhehenemi ose dënimi me zjarr (përkthyesi).
+[^23]: Në Kuran përmendet shpesh Xheneti (parajsa). Po ashtu, përmendet edhe Xhehenemi (ferri apo skëterra) - me shumë emra. Kjo është kështu sepse njeriu përmendet shumë herë për cilësi të mira dhe, për çdo cilësi të cekur, përmendet edhe dhurata që e meriton - Xheneti. Nga ana tjetër, kur përmenden cilësitë e këqija të njeriut, ceket edhe dënimi për të - Xhehenemi ose dënimi me zjarr (përkthyesi).
 
 # 90
 
@@ -430,9 +436,9 @@ Ata thonë: “Zemrat tona janë të vulosura”. Jo, s’është ashtu, por ata
 
 # 96
 
-Dhe, kur një Libër që vërtetonte Shkrimet e tyre, u erdhi atyre nga Allahu, ndonëse përpara luteshin për ndihmë kundër jobesimtarëve, pra, kur u erdhi ajo që e dinin se është e vërtetë, ata e mohuan atë![24] Prandaj mallkimi i Allahut qoftë mbi mohuesit!
+Dhe, kur një Libër që vërtetonte Shkrimet e tyre, u erdhi atyre nga Allahu, ndonëse përpara luteshin për ndihmë kundër jobesimtarëve, pra, kur u erdhi ajo që e dinin se është e vërtetë, ata e mohuan atë![^24] Prandaj mallkimi i Allahut qoftë mbi mohuesit!
 
-[24] Sipas Ibn Abbasit, para ardhjes së Profetit Muhamed (a.s.), hebrenjtë e Medinës i kërkonin Allahut t’u dërgonte një profet në ndihmë kundër fiseve arabe të Medinës Eus dhe Hazraxh. Por, kur Allahu e zgjodhi Profetin nga radhët e arabëve, ata nuk e pranuan atë.
+[^24]: Sipas Ibn Abbasit, para ardhjes së Profetit Muhamed (a.s.), hebrenjtë e Medinës i kërkonin Allahut t’u dërgonte një profet në ndihmë kundër fiseve arabe të Medinës Eus dhe Hazraxh. Por, kur Allahu e zgjodhi Profetin nga radhët e arabëve, ata nuk e pranuan atë.
 
 # 97
 
@@ -492,15 +498,15 @@ Sikur ata të besonin dhe të ruheshin (nga gjynahet), shpërblimi i Allahut do 
 
 # 111
 
-O besimtarë! Mos thoni: “Rá‘iná”[25], por thoni: “Undhurná! - “Na shiko!” dhe dëgjoni! Për mohuesit ka dënim pikëllues.
+O besimtarë! Mos thoni: “Rá‘iná”[^25], por thoni: “Undhurná! - “Na shiko!” dhe dëgjoni! Për mohuesit ka dënim pikëllues.
 
-[25] Në këtë varg Zoti na urdhëron të bisedojmë me njerëzit me fjalë të sinqerta, të mira, pa hipokrizi dhe që nuk kanë përmbajtje fyese. Fjala râina, në shembullin e këtushëm, në arabisht do të thotë “na dëgjo” ose “na shiko me respekt”, por në hebraishten-arabe të shekullit të shtatë ishte sharje me kuptimin “O i keqi ynë”.
+[^25]: Në këtë varg Zoti na urdhëron të bisedojmë me njerëzit me fjalë të sinqerta, të mira, pa hipokrizi dhe që nuk kanë përmbajtje fyese. Fjala râina, në shembullin e këtushëm, në arabisht do të thotë “na dëgjo” ose “na shiko me respekt”, por në hebraishten-arabe të shekullit të shtatë ishte sharje me kuptimin “O i keqi ynë”.
 
 # 112
 
-Ata që mohojnë, si ithtarët e Librit[26], ashtu edhe paganët, nuk dëshirojnë që t’ju zbresë ndonjë e mirë nga Zoti juaj. Por Allahu ia dhuron mëshirën e Vet kujt të dojë. Allahu zotëron mirësi të madhe.
+Ata që mohojnë, si ithtarët e Librit[^26], ashtu edhe paganët, nuk dëshirojnë që t’ju zbresë ndonjë e mirë nga Zoti juaj. Por Allahu ia dhuron mëshirën e Vet kujt të dojë. Allahu zotëron mirësi të madhe.
 
-[26] Ithtarët e Librit janë hebrenjtë dhe të krishterët. Janë quajtur kështu, sepse në themel të fesë së tyre ata kanë nga një libër të shpallur nga Zoti, përkatësisht Teuratin/Torahun dhe Inxhilin/Ungjillin, të cilët besohet se kanë pësuar ndryshime nga njerëzit me kalimin e kohës.
+[^26]: Ithtarët e Librit janë hebrenjtë dhe të krishterët. Janë quajtur kështu, sepse në themel të fesë së tyre ata kanë nga një libër të shpallur nga Zoti, përkatësisht Teuratin/Torahun dhe Inxhilin/Ungjillin, të cilët besohet se kanë pësuar ndryshime nga njerëzit me kalimin e kohës.
 
 # 113
 
@@ -516,9 +522,9 @@ A mos doni të pyesni të Dërguarin tuaj, ashtu siç u pyet Musai më parë? Ci
 
 # 116
 
-Shumë nga ithtarët e Librit,[27] prej zilisë që kanë në vete, dëshirojnë që t’ju kthejnë nga besimi në mosbesim, tani që e vërteta është e qartë për ata. Por ju falini ata dhe lërini, derisa të arrijë urdhri i Allahut. Vërtet, Allahu është i Fuqishëm për çdo gjë.
+Shumë nga ithtarët e Librit,[^27] prej zilisë që kanë në vete, dëshirojnë që t’ju kthejnë nga besimi në mosbesim, tani që e vërteta është e qartë për ata. Por ju falini ata dhe lërini, derisa të arrijë urdhri i Allahut. Vërtet, Allahu është i Fuqishëm për çdo gjë.
 
-[27] Allahu i Lartmadhëruar u tërheq vëmendjen myslimanëve të jenë vigjilentë në lidhje me armiqësinë që pjesëtarë të traditave të mëparshme fetare do të kenë kundër atyre që do të ndjekin mësimet e Muhamedit (a.s.). Duhet të jetë e qartë se kjo nuk është një armiqësi që vjen thjesht për arsye shpirtërore, por për arsye të pushtetit. Islami, me rreptësinë e tij morale tradicionalisht të konsoliduar, imponohet edhe sot si e vetmja shpresë për çlirimin e njeriut nga të gjitha format e sundimit njerëzor. Kur pranohet të qenët rob i Allahut, atëherë nuk mund të jesh më skllav i njeriut, i ideologjive, i pasurisë, i pasioneve dhe i iluzioneve të tij.
+[^27]: Allahu i Lartmadhëruar u tërheq vëmendjen myslimanëve të jenë vigjilentë në lidhje me armiqësinë që pjesëtarë të traditave të mëparshme fetare do të kenë kundër atyre që do të ndjekin mësimet e Muhamedit (a.s.). Duhet të jetë e qartë se kjo nuk është një armiqësi që vjen thjesht për arsye shpirtërore, por për arsye të pushtetit. Islami, me rreptësinë e tij morale tradicionalisht të konsoliduar, imponohet edhe sot si e vetmja shpresë për çlirimin e njeriut nga të gjitha format e sundimit njerëzor. Kur pranohet të qenët rob i Allahut, atëherë nuk mund të jesh më skllav i njeriut, i ideologjive, i pasurisë, i pasioneve dhe i iluzioneve të tij.
 
 # 117
 
@@ -542,9 +548,9 @@ Kush është më fajtor se ai që pengon të përmendet nëpër xhamitë e Allah
 
 # 122
 
-Të Allahut janë Lindja dhe Perëndimi, pra, ngado që të ktheheni është Fytyra (ana) e Allahut. Vërtet, Allahu është Gjithëpërfshirës dhe i Gjithëdijshëm.[28]
+Të Allahut janë Lindja dhe Perëndimi, pra, ngado që të ktheheni është Fytyra (ana) e Allahut. Vërtet, Allahu është Gjithëpërfshirës dhe i Gjithëdijshëm.[^28]
 
-[28] Në këtë varg na urdhërohet t’i marrim porositë e të veprojmë si urdhërohet. Myslimanët, në fillim faleshin duke u drejtuar nga Jerusalemi, siç bënin edhe hebrenjtë. Më pas, kur mërguan në Medinë, Zoti i urdhëroi që të faleshin në drejtim të Qabesë (Mekës). Atëherë hebrenjtë u revoltuan dhe e kundërshtuan këtë kthesë. Zoti, u tha: “Lindja dhe Perëndimi janë të Zotit, (po ashtu, e tërë Gjithësia është e Zotit)”. Andaj, duhet për t’u kthyer në lutje nga urdhëron Zoti, pa kurrfarë kundërshtimi. Në këtë mënyrë mund t’i fitojmë dhuratat e Tij (përkthyesi).
+[^28]: Në këtë varg na urdhërohet t’i marrim porositë e të veprojmë si urdhërohet. Myslimanët, në fillim faleshin duke u drejtuar nga Jerusalemi, siç bënin edhe hebrenjtë. Më pas, kur mërguan në Medinë, Zoti i urdhëroi që të faleshin në drejtim të Qabesë (Mekës). Atëherë hebrenjtë u revoltuan dhe e kundërshtuan këtë kthesë. Zoti, u tha: “Lindja dhe Perëndimi janë të Zotit, (po ashtu, e tërë Gjithësia është e Zotit)”. Andaj, duhet për t’u kthyer në lutje nga urdhëron Zoti, pa kurrfarë kundërshtimi. Në këtë mënyrë mund t’i fitojmë dhuratat e Tij (përkthyesi).
 
 # 123
 
@@ -652,9 +658,9 @@ Ata njerëz tashmë kanë kaluar. Ata do të kenë çfarë kanë merituar dhe ju
 
 # 149
 
-Disa mendjelehtë (nga ithtarët e Librit) do të thonë: “Ç’i ktheu ata prej kiblës së tyre?”[29] Thuaju: “Të Allahut janë Lindja dhe Perëndimi. Ai udhëzon kë të dojë në rrugën e drejtë”.
+Disa mendjelehtë (nga ithtarët e Librit) do të thonë: “Ç’i ktheu ata prej kiblës së tyre?”[^29] Thuaju: “Të Allahut janë Lindja dhe Perëndimi. Ai udhëzon kë të dojë në rrugën e drejtë”.
 
-[29] Kibla quhet drejtimi nga kthehen myslimanët gjatë faljes së namazit. Ky drejtim ka qenë fillimisht nga Jerusalemi dhe më pas është ndryshuar drejt Mekës. Për këtë ngjarje flet edhe vargu i mësipërm.
+[^29]: Kibla quhet drejtimi nga kthehen myslimanët gjatë faljes së namazit. Ky drejtim ka qenë fillimisht nga Jerusalemi dhe më pas është ndryshuar drejt Mekës. Për këtë ngjarje flet edhe vargu i mësipërm.
 
 # 150
 
@@ -702,9 +708,9 @@ O besimtarë! Kërkoni ndihmë për veten nëpërmjet durimit dhe namazit! Në t
 
 # 161
 
-Dhe mos thoni për ata që vriten në rrugën e Allahut[30] se janë të vdekur! Jo! Ata janë të gjallë, ndonëse ju nuk e ndieni!
+Dhe mos thoni për ata që vriten në rrugën e Allahut[^30] se janë të vdekur! Jo! Ata janë të gjallë, ndonëse ju nuk e ndieni!
 
-[30] Shprehja “në rrugën e Allahut” (fî sebîlil-lâh) do të thotë: “për çështjen e Allahut”, “në shërbim të Allahut” etj.
+[^30]: Shprehja “në rrugën e Allahut” (fî sebîlil-lâh) do të thotë: “për çështjen e Allahut”, “në shërbim të Allahut” etj.
 
 # 162
 
@@ -720,9 +726,9 @@ Ata do të shpërblehen me bekim dhe mëshirë nga Zoti i tyre; ata janë në rr
 
 # 165
 
-Kodrinat Safa dhe Merva (në Mekë) janë pjesë e Simboleve të Allahut, prandaj ai që viziton Qaben për haxh ose për umre[31], s’ka kurrfarë gjynahu nëse sillet mes tyre. Kush bën vepra të mira vullnetare, ta dijë se Allahu është njëmend Falënderues dhe i Gjithëdijshëm.
+Kodrinat Safa dhe Merva (në Mekë) janë pjesë e Simboleve të Allahut, prandaj ai që viziton Qaben për haxh ose për umre[^31], s’ka kurrfarë gjynahu nëse sillet mes tyre. Kush bën vepra të mira vullnetare, ta dijë se Allahu është njëmend Falënderues dhe i Gjithëdijshëm.
 
-[31] Një lloj pelegrinazhi më i vogël se haxhillëku.
+[^31]: Një lloj pelegrinazhi më i vogël se haxhillëku.
 
 # 166
 
@@ -758,9 +764,9 @@ Ah, sikur ta shihnin çastin kur të adhuruarit do t’i braktisin adhuruesit e 
 
 # 174
 
-Atëherë adhuruesit do të thonë: “Ah, sikur të ktheheshim edhe një herë (në jetën e Tokës) e t’i braktisnim ata[32], ashtu siç na braktisën ne!” Kështu, Allahu do t’ua tregojë veprat e tyre si burim hidhërimi për ta dhe ata s’kanë për të dalë kurrë nga zjarri.
+Atëherë adhuruesit do të thonë: “Ah, sikur të ktheheshim edhe një herë (në jetën e Tokës) e t’i braktisnim ata[^32], ashtu siç na braktisën ne!” Kështu, Allahu do t’ua tregojë veprat e tyre si burim hidhërimi për ta dhe ata s’kanë për të dalë kurrë nga zjarri.
 
-[32] Të adhuruarit.
+[^32]: Të adhuruarit.
 
 # 175
 
@@ -772,9 +778,9 @@ Ai ju nxit vetëm në të këqija, në vepra të turpshme dhe të flisni për Al
 
 # 177
 
-Kur atyre[33] u thuhet: “Ndiqni atë që ka shpallur Allahu!” ata përgjigjen: “Jo! Ne do të ndjekim atë udhë në të cilën i kemi gjetur të parët tanë” - Vallë, edhe atëherë kur të parët e tyre nuk kuptonin gjë e nuk ishin të udhëzuar?!
+Kur atyre[^33] u thuhet: “Ndiqni atë që ka shpallur Allahu!” ata përgjigjen: “Jo! Ne do të ndjekim atë udhë në të cilën i kemi gjetur të parët tanë” - Vallë, edhe atëherë kur të parët e tyre nuk kuptonin gjë e nuk ishin të udhëzuar?!
 
-[33] Idhujtarëve të Mekës.
+[^33]: Idhujtarëve të Mekës.
 
 # 178
 
@@ -806,9 +812,9 @@ Mirësia nuk është të kthyerit e fytyrës suaj nga lindja dhe perëndimi, por
 
 # 185
 
-O besimtarë! Është caktuar për ju kisasi[34] për vrasje: I liri për të lirin, skllavi për skllavin dhe femra për femrën. Ai (vrasës) që falet nga farefisi i të vrarit, duhet të sillet njerëzishëm dhe le të zbatojë dëmshpërblimin me të mirë. Kjo (falje) është një lehtësi dhe mëshirë nga ana e Zotit. E kushdo që pas kësaj (faljes), e kapërcen kufirin, do të marrë një dënim të dhembshëm.
+O besimtarë! Është caktuar për ju kisasi[^34] për vrasje: I liri për të lirin, skllavi për skllavin dhe femra për femrën. Ai (vrasës) që falet nga farefisi i të vrarit, duhet të sillet njerëzishëm dhe le të zbatojë dëmshpërblimin me të mirë. Kjo (falje) është një lehtësi dhe mëshirë nga ana e Zotit. E kushdo që pas kësaj (faljes), e kapërcen kufirin, do të marrë një dënim të dhembshëm.
 
-[34] Kisasi në të drejtën juridike islame është ligji i barazisë në ndëshkim.
+[^34]: Kisasi në të drejtën juridike islame është ligji i barazisë në ndëshkim.
 
 # 186
 
@@ -884,9 +890,9 @@ Kryeni haxhin dhe umren për hir të Allahut! Nëse në këtë rrugë pengoheni,
 
 # 204
 
-Koha e haxhillëkut është në muaj të caktuar.[35] Kush vendos të kryejë haxhillëkun, le të largohet nga marrëdhëniet (me gruan), grindjet dhe sharjet. Ndërkaq, çdo vepër të mirë që bëni, Allahu e di. Pajisuni me gjërat që ju nevojiten për rrugë dhe dijeni se pajisja më e mirë është devotshmëria. Prandaj, kini frikë prej Meje, o njerëz të mençur!
+Koha e haxhillëkut është në muaj të caktuar.[^35] Kush vendos të kryejë haxhillëkun, le të largohet nga marrëdhëniet (me gruan), grindjet dhe sharjet. Ndërkaq, çdo vepër të mirë që bëni, Allahu e di. Pajisuni me gjërat që ju nevojiten për rrugë dhe dijeni se pajisja më e mirë është devotshmëria. Prandaj, kini frikë prej Meje, o njerëz të mençur!
 
-[35] Muajt, kur mund të shkohet për haxhillëk, janë: Sheval, Dhul-Kade dhe Dhul- Hixhe. Vizita mund të bëhet që në ditën e parë të Shevalit, por duhet pritur dita e tetë e Dhul-Hixhes për të filluar haxhillëkun.
+[^35]: Muajt, kur mund të shkohet për haxhillëk, janë: Sheval, Dhul-Kade dhe Dhul- Hixhe. Vizita mund të bëhet që në ditën e parë të Shevalit, por duhet pritur dita e tetë e Dhul-Hixhes për të filluar haxhillëkun.
 
 # 205
 
@@ -974,9 +980,9 @@ Vërtet, ata që besuan dhe ata që mërguan e luftuan në rrugë të Allahut, p
 
 # 226
 
-Të pyesin ty për verën[36] dhe kumarin. Thuaju: “Ato sjellin dëme të mëdha (gjynahe), por edhe dobi për njerëzit. Megjithatë, dëmi i tyre është më i madh se dobia”. Të pyesin se çfarë duhet të japin si lëmoshë. Thuaju: “Tepricën!” Ja, kështu jua shpjegon Allahu shpalljet e Tij, që të mund të mendoni
+Të pyesin ty për verën[^36] dhe kumarin. Thuaju: “Ato sjellin dëme të mëdha (gjynahe), por edhe dobi për njerëzit. Megjithatë, dëmi i tyre është më i madh se dobia”. Të pyesin se çfarë duhet të japin si lëmoshë. Thuaju: “Tepricën!” Ja, kështu jua shpjegon Allahu shpalljet e Tij, që të mund të mendoni
 
-[36] Vera nënkupton të gjitha pijet dhe lëndët dehëse.
+[^36]: Vera nënkupton të gjitha pijet dhe lëndët dehëse.
 
 # 227
 
@@ -1012,15 +1018,15 @@ E, nëse vendosin të ndahen, vërtet, Allahu dëgjon dhe di çdo gjë.
 
 # 235
 
-Gratë e ndara duhet të presin tri cikle mujore dhe nuk është e lejueshme ta fshehin atë që ka krijuar Allahu në mitrën e tyre, nëse besojnë Allahun dhe Ditën e Kiametit. Burrat e tyre, nëse dëshirojnë mirësi dhe qetësi, kanë të drejtë t’i kthejnë gjatë këtij afati. Gratë kanë aq të drejta sa kanë edhe detyra, sipas arsyes së shëndoshë, ndonëse burrat kanë një shkallë (më shumë përgjegjësie) mbi ato.[37] Allahu është i Plotfuqishëm dhe i Urtë.
+Gratë e ndara duhet të presin tri cikle mujore dhe nuk është e lejueshme ta fshehin atë që ka krijuar Allahu në mitrën e tyre, nëse besojnë Allahun dhe Ditën e Kiametit. Burrat e tyre, nëse dëshirojnë mirësi dhe qetësi, kanë të drejtë t’i kthejnë gjatë këtij afati. Gratë kanë aq të drejta sa kanë edhe detyra, sipas arsyes së shëndoshë, ndonëse burrat kanë një shkallë (më shumë përgjegjësie) mbi ato.[^37] Allahu është i Plotfuqishëm dhe i Urtë.
 
-[37] Te Zoti nuk humb asgjë. Edhe pse meshkujt e femrat janë të barabartë, në pikëpamje të fuqisë fizike meshkujt janë më të fortë. Për këtë arsye, Zoti i ka ngritur meshkujt për një shkallë më lartë. Kjo është e njohur, madje, edhe në botën bashkëkohore si p.sh. përmes kohëzgjatjes së stazhit të punës, që duhet të kryejnë meshkujt dhe femrat (përkthyesi).
+[^37]: Te Zoti nuk humb asgjë. Edhe pse meshkujt e femrat janë të barabartë, në pikëpamje të fuqisë fizike meshkujt janë më të fortë. Për këtë arsye, Zoti i ka ngritur meshkujt për një shkallë më lartë. Kjo është e njohur, madje, edhe në botën bashkëkohore si p.sh. përmes kohëzgjatjes së stazhit të punës, që duhet të kryejnë meshkujt dhe femrat (përkthyesi).
 
 # 236
 
-Ndarja mund të bëhet dy herë. Më pas, gruaja ose të mbahet me të mirë, ose të lejohet të ikë me të mirë. Burrave nuk u lejohet të marrin gjë nga ajo që iu kanë dhënë atyre, vetëm nëse të dyja palët frikësohen se nuk do t’i zbatojnë kufijtë e Allahut.[38] Pra, nëse të dy frikësohen se nuk do të mund t’u përmbahen kufijve të Allahut, atëherë nuk është gjynah për asnjërin, nëse gruaja i jep diçka burrit (për t’u ndarë nga ai). Këta janë kufijtë e Allahut, andaj mos i shkelni ata! Ata që shkelin kufijtë e Allahut, pikërisht ata janë keqbërësit.
+Ndarja mund të bëhet dy herë. Më pas, gruaja ose të mbahet me të mirë, ose të lejohet të ikë me të mirë. Burrave nuk u lejohet të marrin gjë nga ajo që iu kanë dhënë atyre, vetëm nëse të dyja palët frikësohen se nuk do t’i zbatojnë kufijtë e Allahut.[^38] Pra, nëse të dy frikësohen se nuk do të mund t’u përmbahen kufijve të Allahut, atëherë nuk është gjynah për asnjërin, nëse gruaja i jep diçka burrit (për t’u ndarë nga ai). Këta janë kufijtë e Allahut, andaj mos i shkelni ata! Ata që shkelin kufijtë e Allahut, pikërisht ata janë keqbërësit.
 
-[38] “Kufijtë e Allahut”: në këtë rast bëhet fjalë për pranimin e ndërsjellë midis të dyja palëve.
+[^38]: “Kufijtë e Allahut”: në këtë rast bëhet fjalë për pranimin e ndërsjellë midis të dyja palëve.
 
 # 237
 
@@ -1052,15 +1058,15 @@ Nuk është gjynah për ju nëse i ndani gratë para se të keni marrëdhënie m
 
 # 244
 
-Në qoftë se i ndani gratë para se të keni marrëdhënie me to, por ia keni caktuar shumën e dhuratës martesore, atëherë atyre u përket gjysma e dhuratës, veç nëse ua falin ato ose ua falin ata që kanë në dorë lidhjen e martesës[39]. Por që të falni është më pranë devotshmërisë. Mos harroni që të bëheni bamirës midis jush! Vërtet, Allahu e sheh mirë se çfarë bëni.
+Në qoftë se i ndani gratë para se të keni marrëdhënie me to, por ia keni caktuar shumën e dhuratës martesore, atëherë atyre u përket gjysma e dhuratës, veç nëse ua falin ato ose ua falin ata që kanë në dorë lidhjen e martesës[^39]. Por që të falni është më pranë devotshmërisë. Mos harroni që të bëheni bamirës midis jush! Vërtet, Allahu e sheh mirë se çfarë bëni.
 
-[39] Sipas shkollave malikite dhe shafiite, fraza “ata që kanë në dorë lidhjen e martesës” nënkupton kujdestarët e grave, ndërsa sipas shkollës hanefite, kjo frazë nënkupton bashkëshortët e grave. Sipas interpretimit të dytë, vargu do të thoshte: “veç nëse ua falin ato ose burrat heqin dorë nga gjysma e tyre”.
+[^39]: Sipas shkollave malikite dhe shafiite, fraza “ata që kanë në dorë lidhjen e martesës” nënkupton kujdestarët e grave, ndërsa sipas shkollës hanefite, kjo frazë nënkupton bashkëshortët e grave. Sipas interpretimit të dytë, vargu do të thoshte: “veç nëse ua falin ato ose burrat heqin dorë nga gjysma e tyre”.
 
 # 245
 
-Faleni rregullisht namazin, sidomos atë të mesmin dhe qëndroni me devotshmëri para Allahut, duke iu lutur Atij.[40]
+Faleni rregullisht namazin, sidomos atë të mesmin dhe qëndroni me devotshmëri para Allahut, duke iu lutur Atij.[^40]
 
-[40] Me këtë varg Zoti na urdhëron të falim namazin, sepse, mosfalja e tij është gjynah i madh. Duhet penduar dhe kërkuar falje shumë herë prej Zotit. Ndër kushtet e fesë islame, i pari është besimi që Zoti është Një dhe se Muhamedi (a.s.), është Profeti i Tij. Kushti i dytë, është falja e namazit; kushti i tretë është dhënia e zekatit (lëmoshës së detyrueshme). Falja e namazit është lutja më e madhe e anës shpirtërore. Zekati është mirësia më e madhe shoqërore. Ai që e studion domethënien e zekatit, e kupton hollësisht këtë gjest të madh shoqëror e fetar të pashembullt. Prandaj, zekati e namazi përmenden krahas në Kuran, në më se 60 vende. Në shumë pjesë të tjera të Kuranit, ato përmenden veç e veç (përkthyesi).
+[^40]: Me këtë varg Zoti na urdhëron të falim namazin, sepse, mosfalja e tij është gjynah i madh. Duhet penduar dhe kërkuar falje shumë herë prej Zotit. Ndër kushtet e fesë islame, i pari është besimi që Zoti është Një dhe se Muhamedi (a.s.), është Profeti i Tij. Kushti i dytë, është falja e namazit; kushti i tretë është dhënia e zekatit (lëmoshës së detyrueshme). Falja e namazit është lutja më e madhe e anës shpirtërore. Zekati është mirësia më e madhe shoqërore. Ai që e studion domethënien e zekatit, e kupton hollësisht këtë gjest të madh shoqëror e fetar të pashembullt. Prandaj, zekati e namazi përmenden krahas në Kuran, në më se 60 vende. Në shumë pjesë të tjera të Kuranit, ato përmenden veç e veç (përkthyesi).
 
 # 246
 
@@ -1080,9 +1086,9 @@ Kështu jua shpjegon Allahu shpalljet e Veta, në mënyrë që të kuptoni.
 
 # 250
 
-Mendo (o Muhamed) për ata që me mijëra ikën nga qytetet e tyre nga frika e vdekjes.[41] Allahu u tha atyre “Vdisni!” pastaj, i ringjalli ata. Vërtet, Allahu zotëron mirësi të mëdha për njerëzit, por shumica e tyre nuk e falënderojnë.
+Mendo (o Muhamed) për ata që me mijëra ikën nga qytetet e tyre nga frika e vdekjes.[^41] Allahu u tha atyre “Vdisni!” pastaj, i ringjalli ata. Vërtet, Allahu zotëron mirësi të mëdha për njerëzit, por shumica e tyre nuk e falënderojnë.
 
-[41] Sipas komentuesve të Kuranit, vargu bën fjalë për një qytet hebrenjsh, banorët e të cilit u larguan prej tij nga frika e një epidemie. Allahu i Madhëruar i bëri të vdesin, pastaj i ringjalli sërish.
+[^41]: Sipas komentuesve të Kuranit, vargu bën fjalë për një qytet hebrenjsh, banorët e të cilit u larguan prej tij nga frika e një epidemie. Allahu i Madhëruar i bëri të vdesin, pastaj i ringjalli sërish.
 
 # 251
 
@@ -1102,15 +1108,15 @@ Profeti i tyre u tha: “Allahu ka dërguar Talutin si mbretin tuaj.” Ata than
 
 # 255
 
-Profeti u tha atyre: “Shenjë e sundimit të tij është ardhja e Arkës. Aty ka qetësi[42] për ju nga Zoti juaj dhe relikte të lëna nga familja e Musait dhe Harunit. Atë e bartin engjëjt. Sigurisht që kjo është një shenjë për ju, nëse jeni besimtarë!”
+Profeti u tha atyre: “Shenjë e sundimit të tij është ardhja e Arkës. Aty ka qetësi[^42] për ju nga Zoti juaj dhe relikte të lëna nga familja e Musait dhe Harunit. Atë e bartin engjëjt. Sigurisht që kjo është një shenjë për ju, nëse jeni besimtarë!”
 
-[42] Qetësia e përmendur në këtë varg është përkthim i fjalës arabe “sekîne”. Sipas disa thënieve të Profetit Muhamed (a.s.) të regjistruara në librat e Buhariut dhe të Muslimit, “sekîne” është një prani shpirtërore që zbret së bashku me engjëjt për të sjellë qetësi në shpirtrat e besimtarëve të devotshëm.
+[^42]: Qetësia e përmendur në këtë varg është përkthim i fjalës arabe “sekîne”. Sipas disa thënieve të Profetit Muhamed (a.s.) të regjistruara në librat e Buhariut dhe të Muslimit, “sekîne” është një prani shpirtërore që zbret së bashku me engjëjt për të sjellë qetësi në shpirtrat e besimtarëve të devotshëm.
 
 # 256
 
-Kur Taluti u nis për luftë bashkë me ushtrinë, u tha atyre: “Allahu do t’ju provojë me një lumë. Kush pi ujë në të, nuk është ushtari im. Ndërsa kush nuk pi ujë në të ose kënaqet vetëm me një grusht ujë, është ushtari im”[43]. Por të gjithë pinë, përveç një pakice. Pasi ai me ata (ushtarë) që ishin besimtarë kaluan lumin, shumë prej tyre thanë: “Ne sot nuk kemi fuqi të luftojmë me Xhalutin dhe ushtrinë e tij”. Por ata që ishin të bindur se do të takoheshin me Allahun, thanë: “Sa herë, me ndihmën e Allahut, një ushtri e vogël ka ngadhënjyer mbi një ushtri të madhe! Allahu është me të durueshmit”.
+Kur Taluti u nis për luftë bashkë me ushtrinë, u tha atyre: “Allahu do t’ju provojë me një lumë. Kush pi ujë në të, nuk është ushtari im. Ndërsa kush nuk pi ujë në të ose kënaqet vetëm me një grusht ujë, është ushtari im”[^43]. Por të gjithë pinë, përveç një pakice. Pasi ai me ata (ushtarë) që ishin besimtarë kaluan lumin, shumë prej tyre thanë: “Ne sot nuk kemi fuqi të luftojmë me Xhalutin dhe ushtrinë e tij”. Por ata që ishin të bindur se do të takoheshin me Allahun, thanë: “Sa herë, me ndihmën e Allahut, një ushtri e vogël ka ngadhënjyer mbi një ushtri të madhe! Allahu është me të durueshmit”.
 
-[43] Përballë kundërshtimeve që ishin bërë në lidhje me emërimin e tij si mbret, Taluti kishte nevojë të verifikonte shkallën e besnikërisë dhe të bindjes së ushtarëve të tij. Kësisoj, prova e ujit kishte për qëllim të zbulonte pranimin nga ana e bijve të Israilit, të vullnetit të Allahut, i Cili, përmes Profetit të Vet Samuel, kishte caktuar Talutin si mbretin e tyre.
+[^43]: Përballë kundërshtimeve që ishin bërë në lidhje me emërimin e tij si mbret, Taluti kishte nevojë të verifikonte shkallën e besnikërisë dhe të bindjes së ushtarëve të tij. Kësisoj, prova e ujit kishte për qëllim të zbulonte pranimin nga ana e bijve të Israilit, të vullnetit të Allahut, i Cili, përmes Profetit të Vet Samuel, kishte caktuar Talutin si mbretin e tyre.
 
 # 257
 
@@ -1134,9 +1140,9 @@ O besimtarë! Jepni pa u kursyer nga të mirat që ju kemi dhënë Ne, para se t
 
 # 262
 
-Allahu! Nuk ka zot tjetër (që meriton adhurimin) përveç Tij, të Gjallit, të Përjetshmit, Mbajtësit të gjithçkaje! Atë nuk e kaplon as dremitja, as gjumi! Atij i përket gjithçka që gjendet në qiej dhe gjithçka që gjendet në Tokë. Kush mund të ndërhyjë tek Ai për ndokënd pa lejen e Tij? Ai di çdo gjë që ka ndodhur përpara dhe çdo gjë që do të ndodhë pas njerëzve, kurse ata nuk mund të përvetësojnë asgjë nga Dituria e Tij, përveçse aq sa Ai dëshiron. Kursi-u[44] i Tij shtrihet mbi qiejt dhe Tokën dhe Ai nuk e ka të rëndë t’i ruajë ato. Ai është i Larti, Madhështori!
+Allahu! Nuk ka zot tjetër (që meriton adhurimin) përveç Tij, të Gjallit, të Përjetshmit, Mbajtësit të gjithçkaje! Atë nuk e kaplon as dremitja, as gjumi! Atij i përket gjithçka që gjendet në qiej dhe gjithçka që gjendet në Tokë. Kush mund të ndërhyjë tek Ai për ndokënd pa lejen e Tij? Ai di çdo gjë që ka ndodhur përpara dhe çdo gjë që do të ndodhë pas njerëzve, kurse ata nuk mund të përvetësojnë asgjë nga Dituria e Tij, përveçse aq sa Ai dëshiron. Kursi-u[^44] i Tij shtrihet mbi qiejt dhe Tokën dhe Ai nuk e ka të rëndë t’i ruajë ato. Ai është i Larti, Madhështori!
 
-[44] Termi Kursi fjalë për fjalë përkthehet: stol, karrige, ndenjëse. Kursi-u është një krijesë madhështore e Allahut me formën e treguar nga kuptimi i saj gjuhësor dhe që ndodhet në këmbët e Fronit të Allahut. Ai shtrihet mbi qiejt dhe tokën dhe, sipas transmetimeve autentike nga Profeti Muhamed (a.s.), përmasat e tij janë aq të mëdha, saqë qiejt dhe toka në krahasim me atë ngjajnë si unaza në shkretëtirë.
+[^44]: Termi Kursi fjalë për fjalë përkthehet: stol, karrige, ndenjëse. Kursi-u është një krijesë madhështore e Allahut me formën e treguar nga kuptimi i saj gjuhësor dhe që ndodhet në këmbët e Fronit të Allahut. Ai shtrihet mbi qiejt dhe tokën dhe, sipas transmetimeve autentike nga Profeti Muhamed (a.s.), përmasat e tij janë aq të mëdha, saqë qiejt dhe toka në krahasim me atë ngjajnë si unaza në shkretëtirë.
 
 # 263
 
@@ -1208,9 +1214,9 @@ Ti (Muhamed) nuk e ke për detyrë t’i udhëzosh ata në rrugë të drejtë, p
 
 # 280
 
-(Lëmosha) u takon të varfërve, të cilët kanë hyrë në rrugën e Zotit e nuk janë në gjendje të udhëtojnë (për të fituar). Kush nuk i njeh ata, kujton se janë të kamur, për shkak se ata nuk lypin. Do t’i njohësh nga pamja e tyre. Ata nuk i mërzisin njerëzit duke lypur.[45] E çdo gjë që shpenzoni prej të mirave, Allahu i di ato.
+(Lëmosha) u takon të varfërve, të cilët kanë hyrë në rrugën e Zotit e nuk janë në gjendje të udhëtojnë (për të fituar). Kush nuk i njeh ata, kujton se janë të kamur, për shkak se ata nuk lypin. Do t’i njohësh nga pamja e tyre. Ata nuk i mërzisin njerëzit duke lypur.[^45] E çdo gjë që shpenzoni prej të mirave, Allahu i di ato.
 
-[45] Vargu, për kohën e shpalljes së tij, i referohej një grupi jo të vogël myslimanësh që kishin ikur nga Meka për të qëndruar me Profetin (a.s.) në Medinë. Ata quheshin as-hâbus-suffe (njerëzit e portikut), sepse banonin në hyrje të Xhamisë së Profetit në kushtet e një varfërie absolute.
+[^45]: Vargu, për kohën e shpalljes së tij, i referohej një grupi jo të vogël myslimanësh që kishin ikur nga Meka për të qëndruar me Profetin (a.s.) në Medinë. Ata quheshin as-hâbus-suffe (njerëzit e portikut), sepse banonin në hyrje të Xhamisë së Profetit në kushtet e një varfërie absolute.
 
 # 281
 
@@ -1246,9 +1252,9 @@ Dhe ruajuni asaj Dite që do të ktheheni tek Allahu, kur çdokujt do t’i jepe
 
 # 289
 
-O besimtarë! Shkruajeni huan që ia jepni njëri-tjetrit për një afat të caktuar. Le ta shënojë atë me drejtësi një shkrues ndërmjet jush; asnjë shkrues të mos ngurrojë që ta shënojë ashtu siç e ka mësuar Allahu. Ai le të shënojë, kurse borxhliu le të diktojë dhe le t’i frikësohet Allahut, Zotit të vet, duke mos lënë mangët asgjë nga borxhi! Në qoftë se borxhliu është mendjelehtë ose i mitur, ose i tillë që nuk është në gjendje të diktojë, atëherë le të diktojë saktësisht kujdestari i tij. Thirrni dy dëshmitarë prej njerëzve tuaj e, nëse nuk gjeni dy dëshmitarë burra, atëherë thirrni për dëshmitarë një burrë dhe dy gra, nga ata që i quani të përshtatshëm; në mënyrë që, nëse njëra grua harron, t’ia kujtojë tjetra. Dëshmitarët nuk duhet të kundërshtojnë kurdo që të thirren. Mos e lini pa e shënuar borxhin, qoftë i vogël apo i madh, duke shënuar edhe afatin e pagimit. Kjo mënyrë është më e drejtë para Allahut, më e saktë për dëshmi dhe më e përshtatshme për të mos dyshuar. Por, nëse është fjala për mallin që qarkullon nga dora në dorë, atëherë nuk do të keni gjynah nëse nuk e shënoni atë. Thirrni dëshmitarë edhe kur të lidhni kontrata për shitblerje dhe të mos dëmtohet as shkruesi, as dëshmitari. Nëse bëni të kundërtën, atëherë keni bërë gjynah, prandaj ruajuni Allahut! Allahu ju mëson ju; Allahu është i Dijshëm për çdo gjë.[46]
+O besimtarë! Shkruajeni huan që ia jepni njëri-tjetrit për një afat të caktuar. Le ta shënojë atë me drejtësi një shkrues ndërmjet jush; asnjë shkrues të mos ngurrojë që ta shënojë ashtu siç e ka mësuar Allahu. Ai le të shënojë, kurse borxhliu le të diktojë dhe le t’i frikësohet Allahut, Zotit të vet, duke mos lënë mangët asgjë nga borxhi! Në qoftë se borxhliu është mendjelehtë ose i mitur, ose i tillë që nuk është në gjendje të diktojë, atëherë le të diktojë saktësisht kujdestari i tij. Thirrni dy dëshmitarë prej njerëzve tuaj e, nëse nuk gjeni dy dëshmitarë burra, atëherë thirrni për dëshmitarë një burrë dhe dy gra, nga ata që i quani të përshtatshëm; në mënyrë që, nëse njëra grua harron, t’ia kujtojë tjetra. Dëshmitarët nuk duhet të kundërshtojnë kurdo që të thirren. Mos e lini pa e shënuar borxhin, qoftë i vogël apo i madh, duke shënuar edhe afatin e pagimit. Kjo mënyrë është më e drejtë para Allahut, më e saktë për dëshmi dhe më e përshtatshme për të mos dyshuar. Por, nëse është fjala për mallin që qarkullon nga dora në dorë, atëherë nuk do të keni gjynah nëse nuk e shënoni atë. Thirrni dëshmitarë edhe kur të lidhni kontrata për shitblerje dhe të mos dëmtohet as shkruesi, as dëshmitari. Nëse bëni të kundërtën, atëherë keni bërë gjynah, prandaj ruajuni Allahut! Allahu ju mëson ju; Allahu është i Dijshëm për çdo gjë.[^46]
 
-[46] Islami synon të parandalojë gjithçka që mund të shkaktojë trazira në gjirin e bashkësisë së myslimanëve. Çështjet që kanë të bëjnë me paranë, janë nga shkaqet kryesore të kontradiktave midis njerëzve, prandaj Allahu i Madhërishëm na urdhëron që t’i rregullojmë ato nëpërmjet dokumenteve të shkruara dhe dëshmitarëve.
+[^46]: Islami synon të parandalojë gjithçka që mund të shkaktojë trazira në gjirin e bashkësisë së myslimanëve. Çështjet që kanë të bëjnë me paranë, janë nga shkaqet kryesore të kontradiktave midis njerëzve, prandaj Allahu i Madhërishëm na urdhëron që t’i rregullojmë ato nëpërmjet dokumenteve të shkruara dhe dëshmitarëve.
 
 # 290
 
@@ -1316,9 +1322,9 @@ Thuaju (o Muhamed) atyre që mohuan: “Ju do të mposhteni dhe do të tuboheni 
 
 # 306
 
-Sigurisht që kishte shenjë për ju në dy ushtritë që u ndeshën: njëra që luftonte në rrugën e Allahut dhe tjetra - e mohuesve, së cilës i dukej se para vetes kishte dy herë më shumë kundërshtarë.[47] Allahu me ndihmën e Vet forcon kë të dëshirojë. Kjo, me të vërtetë, është mësim për largpamësit.
+Sigurisht që kishte shenjë për ju në dy ushtritë që u ndeshën: njëra që luftonte në rrugën e Allahut dhe tjetra - e mohuesve, së cilës i dukej se para vetes kishte dy herë më shumë kundërshtarë.[^47] Allahu me ndihmën e Vet forcon kë të dëshirojë. Kjo, me të vërtetë, është mësim për largpamësit.
 
-[47] Vargu bën fjalë për betejën e Bedrit që shënoi suksesin e parë të rëndësishëm për ushtritë myslimane. Historia na tregon këtë epope të 313 heronjve të besimit që, në këmbë (përveç dy vetëve), u përballën me një ushtri prej një mijë këmbësorësh dhe njëqind kalorësish kurejshë. Allahu bëri që besimtarët të dukeshin më shumë se ç’ishin në sytë e ushtrisë armike. Nën udhëheqjen e Profetit Muhamed (a.s.) dhe të frymëzuar nga shembujt e trimërisë që shpalosën Ali Ibn Ebi Tâlibi, Hamza Ibn Abd-ul Muttalibi dhe Mus‘ab Ibn ‘Umejri, myslimanët i thyen idhujtarët.
+[^47]: Vargu bën fjalë për betejën e Bedrit që shënoi suksesin e parë të rëndësishëm për ushtritë myslimane. Historia na tregon këtë epope të 313 heronjve të besimit që, në këmbë (përveç dy vetëve), u përballën me një ushtri prej një mijë këmbësorësh dhe njëqind kalorësish kurejshë. Allahu bëri që besimtarët të dukeshin më shumë se ç’ishin në sytë e ushtrisë armike. Nën udhëheqjen e Profetit Muhamed (a.s.) dhe të frymëzuar nga shembujt e trimërisë që shpalosën Ali Ibn Ebi Tâlibi, Hamza Ibn Abd-ul Muttalibi dhe Mus‘ab Ibn ‘Umejri, myslimanët i thyen idhujtarët.
 
 # 307
 
@@ -1342,15 +1348,15 @@ Allahu dëshmon, e po ashtu edhe engjëjt, edhe njerëzit e dijes, se nuk ka zot
 
 # 312
 
-Feja e vërtetë tek Allahu është vetëm Islami. Ata që u është dhënë Libri[48], patën mospajtime nga zilia që kishin midis tyre, vetëm pasi u erdhi dituria. Por kushdo që i mohon udhëzimet e Allahut, ta dijë se Allahu është i shpejtë në llogari.
+Feja e vërtetë tek Allahu është vetëm Islami. Ata që u është dhënë Libri[^48], patën mospajtime nga zilia që kishin midis tyre, vetëm pasi u erdhi dituria. Por kushdo që i mohon udhëzimet e Allahut, ta dijë se Allahu është i shpejtë në llogari.
 
-[48] Hebrenjtë dhe të krishterët.
+[^48]: Hebrenjtë dhe të krishterët.
 
 # 313
 
-Nëse ata të kundërshtojnë ty (o Muhamed) thuaju: “Unë i përulem vetëm Allahut, e po ashtu edhe ata që më pasojnë mua”. Dhe thuaju atyre që u është dhënë Libri si dhe analfabetëve[49]: “A i përuleni Allahut?” Nëse e pranojnë Islamin, atëherë kanë gjetur udhën e drejtë. Por, nëse refuzojnë, detyra jote është vetëm që t’ua përcjellësh dijen. Allahu i vrojton robërit e Vet.
+Nëse ata të kundërshtojnë ty (o Muhamed) thuaju: “Unë i përulem vetëm Allahut, e po ashtu edhe ata që më pasojnë mua”. Dhe thuaju atyre që u është dhënë Libri si dhe analfabetëve[^49]: “A i përuleni Allahut?” Nëse e pranojnë Islamin, atëherë kanë gjetur udhën e drejtë. Por, nëse refuzojnë, detyra jote është vetëm që t’ua përcjellësh dijen. Allahu i vrojton robërit e Vet.
 
-[49] Idhujtarëve arabë.
+[^49]: Idhujtarëve arabë.
 
 # 314
 
@@ -1486,9 +1492,9 @@ Zoti ynë! Ne besojmë atë që na ke shpallur dhe pasojmë të Dërguarin (Isai
 
 # 347
 
-Dhe ata[50] i përgatitën një kurth, por edhe Allahu u përgatiti kurth (dënim), se Allahu është strategu më i mirë.
+Dhe ata[^50] i përgatitën një kurth, por edhe Allahu u përgatiti kurth (dënim), se Allahu është strategu më i mirë.
 
-[50] D.m.th. jobesimtarët armiq të Isait a.s.
+[^50]: D.m.th. jobesimtarët armiq të Isait a.s.
 
 # 348
 
@@ -1544,9 +1550,9 @@ Ibrahimi nuk ka qenë as hebre, as i krishterë, por ka qenë besimtar i vërtet
 
 # 361
 
-Pa dyshim, njerëzit më të afërt me Ibrahimin janë ata që e pasuan atë dhe ky Profet[51] me besimtarët (e tij). Allahu është mbrojtës i besimtarëve.
+Pa dyshim, njerëzit më të afërt me Ibrahimin janë ata që e pasuan atë dhe ky Profet[^51] me besimtarët (e tij). Allahu është mbrojtës i besimtarëve.
 
-[51] Profeti Muhamed (a.s.).
+[^51]: Profeti Muhamed (a.s.).
 
 # 362
 
@@ -1614,9 +1620,9 @@ Thuaj (o Muhamed): “Ne besojmë Allahun, atë që na është shpallur neve, at
 
 # 378
 
-Kush kërkon tjetër fe përveç Islamit, nuk do t’i pranohet dhe ai në botën tjetër do të jetë i humbur.[52]
+Kush kërkon tjetër fe përveç Islamit, nuk do t’i pranohet dhe ai në botën tjetër do të jetë i humbur.[^52]
 
-[52] Feja islame ka ardhur me të gjitha mirësitë shpirtërore, trupore, jetësore dhe shoqërore. Këto cilësi, nuk janë paraqitur tërësisht në asnjë libër, përveçse në Kuranin Fisnik. Nga këto të mira nuk bën të zmbrapsemi, sepse feja islame nuk e lejon kthimin e njerëzve mbrapa. Ka shumë shembuj që tregojnë se Profeti Muhamed (a.s.) nuk e ka ngarkuar popullin me aq shumë vepra të tepërta, të cilat do të shkaktonin kthimin e tij mbrapa (përkthyesi).
+[^52]: Feja islame ka ardhur me të gjitha mirësitë shpirtërore, trupore, jetësore dhe shoqërore. Këto cilësi, nuk janë paraqitur tërësisht në asnjë libër, përveçse në Kuranin Fisnik. Nga këto të mira nuk bën të zmbrapsemi, sepse feja islame nuk e lejon kthimin e njerëzve mbrapa. Ka shumë shembuj që tregojnë se Profeti Muhamed (a.s.) nuk e ka ngarkuar popullin me aq shumë vepra të tepërta, të cilat do të shkaktonin kthimin e tij mbrapa (përkthyesi).
 
 # 379
 
@@ -1656,9 +1662,9 @@ E kushdo që shpif gënjeshtra për Allahun, pas kësaj ai ka kaluar nga e drejt
 
 # 388
 
-Thuaj (o Muhamed!): “Allahu thotë të vërtetën, prandaj ndiqeni fenë e pastër të Ibrahimit[53], i cili nuk ishte idhujtar”.
+Thuaj (o Muhamed!): “Allahu thotë të vërtetën, prandaj ndiqeni fenë e pastër të Ibrahimit[^53], i cili nuk ishte idhujtar”.
 
-[53] D.m.th. monoteizmin islam.
+[^53]: D.m.th. monoteizmin islam.
 
 # 389
 
@@ -1694,9 +1700,9 @@ Të gjithë mbahuni fort për litarin e Allahut (Kuranin) dhe mos u përçani! K
 
 # 397
 
-Le të dalë prej jush një grup që të thërrasë për në mirësi[54], të urdhërojë për vepra të mira e të ndalojë prej veprave të shëmtuara! Këta njerëz do të jenë të shpëtuarit.
+Le të dalë prej jush një grup që të thërrasë për në mirësi[^54], të urdhërojë për vepra të mira e të ndalojë prej veprave të shëmtuara! Këta njerëz do të jenë të shpëtuarit.
 
-[54] D.m.th. për në fenë e pastër islame.
+[^54]: D.m.th. për në fenë e pastër islame.
 
 # 398
 
@@ -1764,9 +1770,9 @@ Nëse ju vjen ndonjë e mirë, ata i brengos e, nëse ju gjen ndonjë e keqe, at
 
 # 414
 
-Atë mëngjes, kur ti (o Muhamed) dole nga shtëpia jote për t’u caktuar besimtarëve vendet e luftës[55] - e Allahu dëgjon dhe di çdo gjë -,
+Atë mëngjes, kur ti (o Muhamed) dole nga shtëpia jote për t’u caktuar besimtarëve vendet e luftës[^55] - e Allahu dëgjon dhe di çdo gjë -,
 
-[55] Bëhet fjalë për betejën e Uhudit.
+[^55]: Bëhet fjalë për betejën e Uhudit.
 
 # 415
 
@@ -1890,9 +1896,9 @@ Ne do të mbjellim frikë në zemrat e jobesimtarëve, sepse ata adhurojnë veç
 
 # 445
 
-Vërtet Allahu e plotësoi premtimin e Vet, kur ju me vullnetin e Tij e thyet armikun. Por, kur ju u frikësuat, u grindët midis jush dhe kundërshtuat (Profetin a.s.), pasi Ai ju tregoi atë që pëlqenit[56], (Allahu e tërhoqi ndihmën e Vet). Disa nga ju dëshirojnë këtë botë, ndërsa të tjerë nga ju dëshirojnë botën tjetër. Pastaj Ai, për t’ju provuar, bëri që të zmbrapseni para armikut dhe pastaj, sigurisht që jua fali atë gabim. Allahu ka mirësi të madhe për besimtarët.
+Vërtet Allahu e plotësoi premtimin e Vet, kur ju me vullnetin e Tij e thyet armikun. Por, kur ju u frikësuat, u grindët midis jush dhe kundërshtuat (Profetin a.s.), pasi Ai ju tregoi atë që pëlqenit[^56], (Allahu e tërhoqi ndihmën e Vet). Disa nga ju dëshirojnë këtë botë, ndërsa të tjerë nga ju dëshirojnë botën tjetër. Pastaj Ai, për t’ju provuar, bëri që të zmbrapseni para armikut dhe pastaj, sigurisht që jua fali atë gabim. Allahu ka mirësi të madhe për besimtarët.
 
-[56] Plaçkën e luftës.
+[^56]: Plaçkën e luftës.
 
 # 446
 
@@ -2104,9 +2110,9 @@ Dhe jepuni me gjithë zemër grave tuaja dhuratën e kurorëzimit. Në qoftë se
 
 # 498
 
-Mos e lini në dorë të të paaftëve mendërisht pasurinë tuaj që Allahu jua ka dhënë si mjet jetese për ju; ushqejini dhe vishini ata prej saj dhe u thoni atyre fjalë të mira.[57]
+Mos e lini në dorë të të paaftëve mendërisht pasurinë tuaj që Allahu jua ka dhënë si mjet jetese për ju; ushqejini dhe vishini ata prej saj dhe u thoni atyre fjalë të mira.[^57]
 
-[57] Ky varg tregon se pasuria është për t’u shfrytëzuar për jetesë e jo për luks e shpenzime të kota. Pra, ajo nevojitet për ekzistencën jetësore të njerëzve (përkthyesi).
+[^57]: Ky varg tregon se pasuria është për t’u shfrytëzuar për jetesë e jo për luks e shpenzime të kota. Pra, ajo nevojitet për ekzistencën jetësore të njerëzve (përkthyesi).
 
 # 499
 
@@ -2166,9 +2172,9 @@ O besimtarë! - nuk ju lejohet që t'i merrni në trashëgim gratë me forcë. M
 
 # 513
 
-Në qoftë se dëshironi të ndërroni grua, duke e lëshuar njërën për të marrë një tjetër, asaj që i keni dhënë pasuri[58], mos i merrni nga ajo (pasuri) asgjë. A do ta merrnit atë padrejtësisht, duke bërë gjynah të qartë?!
+Në qoftë se dëshironi të ndërroni grua, duke e lëshuar njërën për të marrë një tjetër, asaj që i keni dhënë pasuri[^58], mos i merrni nga ajo (pasuri) asgjë. A do ta merrnit atë padrejtësisht, duke bërë gjynah të qartë?!
 
-[58] Pra, gruas me të cilën po ndaheni.
+[^58]: Pra, gruas me të cilën po ndaheni.
 
 # 514
 
@@ -2212,15 +2218,15 @@ Këdo prej jush që e bën këtë përdhunisht dhe padrejtësisht, Ne, pa dyshim
 
 # 524
 
-Në qoftë se ju u shmangeni gjynaheve të mëdha, që ju janë ndaluar, Ne do t’jua falim gabimet tuaja të vogla dhe do t’ju shpiem në një vend të nderuar.[59]
+Në qoftë se ju u shmangeni gjynaheve të mëdha, që ju janë ndaluar, Ne do t’jua falim gabimet tuaja të vogla dhe do t’ju shpiem në një vend të nderuar.[^59]
 
-[59] Ky varg na këshillon dhe na urdhëron për t’u frenuar nga gjynahet e mëdha. Lidhur me këto çështje, ka shumë studime nga teologët e mëdhenj. Atij që frenohet prej këtyre gjynaheve Zoti i ka premtuar se do t’i falen gjynahet e vogla. Duhet theksuar se një e mirë e thjeshtë ose një e keqe e vogël nuk bën të nënçmohen e të mohohen, sepse atëherë shndërrohen në gjynahe të mëdha (përkthyesi).
+[^59]: Ky varg na këshillon dhe na urdhëron për t’u frenuar nga gjynahet e mëdha. Lidhur me këto çështje, ka shumë studime nga teologët e mëdhenj. Atij që frenohet prej këtyre gjynaheve Zoti i ka premtuar se do t’i falen gjynahet e vogla. Duhet theksuar se një e mirë e thjeshtë ose një e keqe e vogël nuk bën të nënçmohen e të mohohen, sepse atëherë shndërrohen në gjynahe të mëdha (përkthyesi).
 
 # 525
 
-Mos i lakmoni ato gjëra, me anë të të cilave Allahu i ka bërë disa nga ju të dallohen mbi të tjerët: meshkujt do të kenë pjesë prej asaj që kanë punuar e po ashtu edhe femrat do të kenë pjesë prej asaj që kanë punuar. Kërkoni prej Allahut nga mirësitë e Tij. Vërtet, Allahu është i Dijshëm për çdo gjë.[60]
+Mos i lakmoni ato gjëra, me anë të të cilave Allahu i ka bërë disa nga ju të dallohen mbi të tjerët: meshkujt do të kenë pjesë prej asaj që kanë punuar e po ashtu edhe femrat do të kenë pjesë prej asaj që kanë punuar. Kërkoni prej Allahut nga mirësitë e Tij. Vërtet, Allahu është i Dijshëm për çdo gjë.[^60]
 
-[60] Burrat janë drejtues të grave. Me këtë varg konfirmohet se fizikisht femrat janë më të dobëta, kurse meshkujt janë më të fortë; andaj e kanë për detyrë të shpenzojnë për t’i mbajtur ato. Mirëpo, në pikëpamje shpirtërore, në të gjitha cilësitë, femrat janë të barabarta me meshkujt. Megjithatë, në rastet kur të dy prindërit, nëna dhe babai, e thërrasin njëkohësisht fëmijën e vet, - ai, së pari, duhet t’i përgjigjet nënës (përkthyesi).
+[^60]: Burrat janë drejtues të grave. Me këtë varg konfirmohet se fizikisht femrat janë më të dobëta, kurse meshkujt janë më të fortë; andaj e kanë për detyrë të shpenzojnë për t’i mbajtur ato. Mirëpo, në pikëpamje shpirtërore, në të gjitha cilësitë, femrat janë të barabarta me meshkujt. Megjithatë, në rastet kur të dy prindërit, nëna dhe babai, e thërrasin njëkohësisht fëmijën e vet, - ai, së pari, duhet t’i përgjigjet nënës (përkthyesi).
 
 # 526
 
@@ -2228,9 +2234,9 @@ Gjithkujt Ne i kemi caktuar trashëgimtarët për çdo gjë që lënë prindëri
 
 # 527
 
-Meshkujt kanë autoritet mbi gratë, meqë Allahu u ka dhënë disa cilësi mbi ato dhe, meqë ata shpenzojnë për mbajtjen e tyre. Gra të mira janë ato të dëgjueshmet, që ruajnë fshehtësitë që ka urdhëruar Allahu. Sa i përket grave që ju i druheni mosbindjes dhe sjelljes së keqe nga ana e tyre, këshillojini, (e, nëse kjo s’bën dobi) mos i pranoni në shtrat dhe (në fund) i rrihni ato (lehtas). Por, nëse ato ju binden, atëherë mos i ndëshkoni më. Allahu, me të vërtetë, është i Lartësuar dhe i Madhëruar![61]
+Meshkujt kanë autoritet mbi gratë, meqë Allahu u ka dhënë disa cilësi mbi ato dhe, meqë ata shpenzojnë për mbajtjen e tyre. Gra të mira janë ato të dëgjueshmet, që ruajnë fshehtësitë që ka urdhëruar Allahu. Sa i përket grave që ju i druheni mosbindjes dhe sjelljes së keqe nga ana e tyre, këshillojini, (e, nëse kjo s’bën dobi) mos i pranoni në shtrat dhe (në fund) i rrihni ato (lehtas). Por, nëse ato ju binden, atëherë mos i ndëshkoni më. Allahu, me të vërtetë, është i Lartësuar dhe i Madhëruar![^61]
 
-[61] Deri para disa kohësh, në shumë vende të botës ndalohej shkurorëzimi (i gruas), kurse feja islame e ka lejuar shkurorëzimin (e gruas), qysh para 14 shekujsh. Por, kjo vepër është shumë e urryer nga Zoti dhe Ai ka përcaktuar disa norma për ta penguar këtë akt. Këto janë: 1. këshillimi i gruas; 2. të larguarit prej dhomës së saj, për një kohë të shkurtër; 3. qortimi i gruas në mënyrë edukuese; 4. nëse mosmarrëveshja është më e madhe ndërmjet tyre, duhet formuar një këshill të përbashkët pajtimi prej anës së burrit e të gruas, për t’i pajtuar ata; 5. nëse nuk kanë sukses as këto masa, atëherë arsyetohet shkurorëzimi; 6. nëse pajtohen e kurorëzohen përsëri, ndërsa pas pak kohe shkurorëzohen për së dyti, prapë lejohet kurorëzimi. Nëse shkurorëzimi ndodh tri herë, ata nuk mund të kurorëzohen për të katërtën herë, pa u martuar me njerëz prej familjesh të tjera (përkthyesi).
+[^61]: Deri para disa kohësh, në shumë vende të botës ndalohej shkurorëzimi (i gruas), kurse feja islame e ka lejuar shkurorëzimin (e gruas), qysh para 14 shekujsh. Por, kjo vepër është shumë e urryer nga Zoti dhe Ai ka përcaktuar disa norma për ta penguar këtë akt. Këto janë: 1. këshillimi i gruas; 2. të larguarit prej dhomës së saj, për një kohë të shkurtër; 3. qortimi i gruas në mënyrë edukuese; 4. nëse mosmarrëveshja është më e madhe ndërmjet tyre, duhet formuar një këshill të përbashkët pajtimi prej anës së burrit e të gruas, për t’i pajtuar ata; 5. nëse nuk kanë sukses as këto masa, atëherë arsyetohet shkurorëzimi; 6. nëse pajtohen e kurorëzohen përsëri, ndërsa pas pak kohe shkurorëzohen për së dyti, prapë lejohet kurorëzimi. Nëse shkurorëzimi ndodh tri herë, ata nuk mund të kurorëzohen për të katërtën herë, pa u martuar me njerëz prej familjesh të tjera (përkthyesi).
 
 # 528
 
@@ -2266,9 +2272,9 @@ Atë ditë, ata që nuk kanë besuar dhe që nuk i janë bindur të Dërguarit, 
 
 # 536
 
-O besimtarë! Mos u falni kur jeni të dehur, prisni të kthjelloheni e të dini se ç’flisni; as kur jeni të papastër[62] (xhunub) - përveçse nëse jeni duke udhëtuar, derisa të laheni. Dhe, nëse jeni të sëmurë ose gjendeni në rrugë ose keni kryer nevojën natyrore, ose keni bërë marrëdhënie me gra dhe nuk gjeni ujë, atëherë fërkoni fytyrën dhe duart tuaja me dhé të pastër. Allahu, me të vërtetë, është Shlyes dhe Falës i gjynaheve.
+O besimtarë! Mos u falni kur jeni të dehur, prisni të kthjelloheni e të dini se ç’flisni; as kur jeni të papastër[^62] (xhunub) - përveçse nëse jeni duke udhëtuar, derisa të laheni. Dhe, nëse jeni të sëmurë ose gjendeni në rrugë ose keni kryer nevojën natyrore, ose keni bërë marrëdhënie me gra dhe nuk gjeni ujë, atëherë fërkoni fytyrën dhe duart tuaja me dhé të pastër. Allahu, me të vërtetë, është Shlyes dhe Falës i gjynaheve.
 
-[62] D.m.th. pas kryerjes së marrëdhënieve seksuale ose pas derdhjes së farës.
+[^62]: D.m.th. pas kryerjes së marrëdhënieve seksuale ose pas derdhjes së farës.
 
 # 537
 
@@ -2280,9 +2286,9 @@ Allahu i di më së miri armiqtë tuaj. Allahu mjafton si Mbrojtës për ju. All
 
 # 539
 
-Në mesin e hebrenjve ka nga ata që i nxjerrin fjalët nga konteksti i tyre dhe i thonë Profetit: “Dëgjuam, por nuk të bindemi”! dhe “Dëgjo, mos dëgjofsh!” dhe “Ra’iná!”[63], duke shtrembëruar (shprehjet) me gjuhën e tyre dhe duke shpifur për fenë. Po sikur ata të kishin thënë: “Dëgjuam dhe u bindëm!” dhe “Dëgjo!” e “Shikona ne!”, kjo do të ishte më e mirë dhe më e drejtë për ata. Allahu i mallkoi ata për shkak të mohimit të tyre, prandaj ata nuk besojnë, përveç një numri të vogël.
+Në mesin e hebrenjve ka nga ata që i nxjerrin fjalët nga konteksti i tyre dhe i thonë Profetit: “Dëgjuam, por nuk të bindemi”! dhe “Dëgjo, mos dëgjofsh!” dhe “Ra’iná!”[^63], duke shtrembëruar (shprehjet) me gjuhën e tyre dhe duke shpifur për fenë. Po sikur ata të kishin thënë: “Dëgjuam dhe u bindëm!” dhe “Dëgjo!” e “Shikona ne!”, kjo do të ishte më e mirë dhe më e drejtë për ata. Allahu i mallkoi ata për shkak të mohimit të tyre, prandaj ata nuk besojnë, përveç një numri të vogël.
 
-[63] Kjo fjalë në arabisht do të thotë “na dëgjo” ose “na shiko me respekt”, por në hebraishten-arabe të shekullit të shtatë ishte sharje me kuptimin “O i keqi ynë”.
+[^63]: Kjo fjalë në arabisht do të thotë “na dëgjo” ose “na shiko me respekt”, por në hebraishten-arabe të shekullit të shtatë ishte sharje me kuptimin “O i keqi ynë”.
 
 # 540
 
@@ -2294,9 +2300,9 @@ Vërtet, Allahu nuk fal që të adhurohet dikush apo diçka tjetër veç Atij, p
 
 # 542
 
-A nuk i ke parë ata që e kujtojnë veten të dëlirë?[64] Jo, Allahu dëlir kë të dojë dhe askush nuk do të pësojë as padrejtësinë më të vogël.
+A nuk i ke parë ata që e kujtojnë veten të dëlirë?[^64] Jo, Allahu dëlir kë të dojë dhe askush nuk do të pësojë as padrejtësinë më të vogël.
 
-[64] Askush nuk është i dëlirë nga vetvetja, por është Allahu Ai që e dëlir atë.
+[^64]: Askush nuk është i dëlirë nga vetvetja, por është Allahu Ai që e dëlir atë.
 
 # 543
 
@@ -2304,9 +2310,9 @@ Shiko si shpifin ata gënjeshtra kundër Allahut. Mjafton kjo shpifje si gjynah 
 
 # 544
 
-A nuk i ke parë ata që u është dhënë një pjesë e Librit? Besojnë në idhuj dhe hyjni të rreme dhe thonë për jobesimtarët: “Këta janë në rrugë më të drejtë se ata që besojnë[65]”.
+A nuk i ke parë ata që u është dhënë një pjesë e Librit? Besojnë në idhuj dhe hyjni të rreme dhe thonë për jobesimtarët: “Këta janë në rrugë më të drejtë se ata që besojnë[^65]”.
 
-[65] Myslimanët.
+[^65]: Myslimanët.
 
 # 545
 
@@ -2322,9 +2328,9 @@ A mos i kanë zili njerëzit për çfarë u ka dhuruar Allahu nga të mirat e Ve
 
 # 548
 
-Disa prej tyre e besuan atë[66] e disa iu shmangën atij. Për ata mjafton Xhehenemi përcëllues.
+Disa prej tyre e besuan atë[^66] e disa iu shmangën atij. Për ata mjafton Xhehenemi përcëllues.
 
-[66] Profetin Muhamed (a.s.).
+[^66]: Profetin Muhamed (a.s.).
 
 # 549
 
@@ -2336,15 +2342,15 @@ Sa për ata që besojnë dhe punojnë vepra të mira, Ne do t’i shpiem në kop
 
 # 551
 
-Allahu ju urdhëron që amanetet t’ua ktheni atyre që u përkasin dhe, kur të gjykoni midis njerëzve, të gjykoni drejt. Vërtet, Allahu ju këshillon mrekullueshëm dhe vërtet, Allahu dëgjon çdo gjë dhe vështron të gjitha punët![67]
+Allahu ju urdhëron që amanetet t’ua ktheni atyre që u përkasin dhe, kur të gjykoni midis njerëzve, të gjykoni drejt. Vërtet, Allahu ju këshillon mrekullueshëm dhe vërtet, Allahu dëgjon çdo gjë dhe vështron të gjitha punët![^67]
 
-[67] Ky varg na urdhëron që njeriut të merituar i duhet shprehur mirënjohje dhe besim për udhëheqje të suksesshme. Po ashtu, duhet gjykuar me drejtësi midis njerëzve (përkthyesi).
+[^67]: Ky varg na urdhëron që njeriut të merituar i duhet shprehur mirënjohje dhe besim për udhëheqje të suksesshme. Po ashtu, duhet gjykuar me drejtësi midis njerëzve (përkthyesi).
 
 # 552
 
-O besimtarë! Bindjuni Allahut, bindjuni të Dërguarit dhe atyre që drejtojnë punët tuaja. Nëse nuk pajtoheni në ndonjë gjë, drejtojuni Allahut dhe të Dërguarit[68], nëse besoni Allahun dhe Ditën e Kiametit. Kjo për ju është më e mira dhe shpjegimi më i bukur.
+O besimtarë! Bindjuni Allahut, bindjuni të Dërguarit dhe atyre që drejtojnë punët tuaja. Nëse nuk pajtoheni në ndonjë gjë, drejtojuni Allahut dhe të Dërguarit[^68], nëse besoni Allahun dhe Ditën e Kiametit. Kjo për ju është më e mira dhe shpjegimi më i bukur.
 
-[68] Pra, drejtojuni Kuranit dhe Sunetit (Traditës së regjistruar të Profetit Muhamed a.s.).
+[^68]: Pra, drejtojuni Kuranit dhe Sunetit (Traditës së regjistruar të Profetit Muhamed a.s.).
 
 # 553
 
@@ -2364,9 +2370,9 @@ Këta janë ata për të cilët Allahu e di se ç’kanë në zemrat e tyre. Lar
 
 # 557
 
-Ne i kemi nisur të dërguarit vetëm me qëllimin që njerëzit, me lejen e Allahut, t’u binden atyre. Dhe në qoftë se ata[69], kurdo që ta ngarkonin veten (me gjynahe), të vinin te ti për t’i kërkuar falje Allahut dhe i Dërguari t’i lutej Allahut për shfajësimin e tyre, do ta vërenin, se Allahu, me të vërtetë, është Pranues i pendimit dhe Mëshirëplotë.
+Ne i kemi nisur të dërguarit vetëm me qëllimin që njerëzit, me lejen e Allahut, t’u binden atyre. Dhe në qoftë se ata[^69], kurdo që ta ngarkonin veten (me gjynahe), të vinin te ti për t’i kërkuar falje Allahut dhe i Dërguari t’i lutej Allahut për shfajësimin e tyre, do ta vërenin, se Allahu, me të vërtetë, është Pranues i pendimit dhe Mëshirëplotë.
 
-[69] D.m.th. hipokritët.
+[^69]: D.m.th. hipokritët.
 
 # 558
 
@@ -2386,9 +2392,9 @@ dhe me siguri do t’i udhëzonim në rrugë të drejtë.
 
 # 562
 
-Kushdo që i bindet Allahut dhe të Dërguarit, do të jetë me ata të cilëve Allahu u ka dhënë shumë dhunti: me profetët, me të sinqertët[70], me dëshmorët dhe me të drejtët! Eh sa shokë të mrekullueshëm janë këta!
+Kushdo që i bindet Allahut dhe të Dërguarit, do të jetë me ata të cilëve Allahu u ka dhënë shumë dhunti: me profetët, me të sinqertët[^70], me dëshmorët dhe me të drejtët! Eh sa shokë të mrekullueshëm janë këta!
 
-[70] Termi kuranor i përdorur për epitetin “i sinqertë”, është fjala “siddîk”. Ajo nënkupton ata ndjekës të profetëve, të cilët ishin më të parët që u besuan atyre. Kjo është grada më e lartë që mund të arrijë një besimtar.
+[^70]: Termi kuranor i përdorur për epitetin “i sinqertë”, është fjala “siddîk”. Ajo nënkupton ata ndjekës të profetëve, të cilët ishin më të parët që u besuan atyre. Kjo është grada më e lartë që mund të arrijë një besimtar.
 
 # 563
 
@@ -2424,9 +2430,9 @@ A nuk i ke parë (o Muhamed) ata që janë porositur: “Tërhiqni duart tuaja n
 
 # 571
 
-Kudo që të gjendeni, do t’ju arrijë vdekja, madje, qofshi edhe në kështjellat më të forta!” Sa herë që u vjen ndonjë e mirë, ata thonë: “Kjo është nga ana e Allahut”. Por, nëse i godet ndonjë e ligë, ata[71] thonë: “Kjo është prej teje (o Muhamed)!” Thuaju: “Të gjitha janë prej Allahut”. Ç’është kështu me këtë popull, që nuk kupton asgjë?
+Kudo që të gjendeni, do t’ju arrijë vdekja, madje, qofshi edhe në kështjellat më të forta!” Sa herë që u vjen ndonjë e mirë, ata thonë: “Kjo është nga ana e Allahut”. Por, nëse i godet ndonjë e ligë, ata[^71] thonë: “Kjo është prej teje (o Muhamed)!” Thuaju: “Të gjitha janë prej Allahut”. Ç’është kështu me këtë popull, që nuk kupton asgjë?
 
-[71] D.m.th. hipokritët dhe banorët hebrenj të Medinës.
+[^71]: D.m.th. hipokritët dhe banorët hebrenj të Medinës.
 
 # 572
 
@@ -2446,9 +2452,9 @@ A nuk përsiatin ata për Kuranin! Sikur ai të mos ishte prej Allahut, do të g
 
 # 576
 
-Kur atyre[72] u vjen ndonjë lajm i rëndësishëm që ka të bëjë me sigurinë ose frikën, ata e përhapin (pa e vërtetuar mirë). Por, në qoftë se këtë lajm do t’ia përcillnin (për shqyrtim) të Dërguarit dhe parisë, hulumtuesit do ta merrnin vesh prej tyre (se çfarë lajmi duhet përhapur e çfarë jo). Sikur të mos ishte mirësia e Allahut dhe mëshira e Tij, ju të gjithë do të ndiqnit djallin, përveç një numri të vogël.
+Kur atyre[^72] u vjen ndonjë lajm i rëndësishëm që ka të bëjë me sigurinë ose frikën, ata e përhapin (pa e vërtetuar mirë). Por, në qoftë se këtë lajm do t’ia përcillnin (për shqyrtim) të Dërguarit dhe parisë, hulumtuesit do ta merrnin vesh prej tyre (se çfarë lajmi duhet përhapur e çfarë jo). Sikur të mos ishte mirësia e Allahut dhe mëshira e Tij, ju të gjithë do të ndiqnit djallin, përveç një numri të vogël.
 
-[72] Hipokritëve ose myslimanëve të dobët.
+[^72]: Hipokritëve ose myslimanëve të dobët.
 
 # 577
 
@@ -2460,9 +2466,9 @@ Kush ndërmjetëson për një çështje të mirë, do të ketë pjesë në shpë
 
 # 579
 
-Kur ju përshëndet dikush me respekt, kthejani me një përshëndetje më të mirë ose në të njëjtën mënyrë! Pa dyshim, Allahu llogarit çdo gjë.[73]
+Kur ju përshëndet dikush me respekt, kthejani me një përshëndetje më të mirë ose në të njëjtën mënyrë! Pa dyshim, Allahu llogarit çdo gjë.[^73]
 
-[73] Ky varg na urdhëron që, kur të përshëndet dikush, duhet t’i përgjigjesh me një mënyrë edhe më të mirë ose me të njëjtën mënyrë. Kjo është detyrë e secilit musliman. Është e nevojshme që ndërmjet besimtarëve e ateistëve të ketë përshëndetje të arsyeshme, në mënyrë që të mos e urrejnë njëri-tjetrin. Jemi të urdhëruar që të bisedojmë me njerëz në mënyrë të sjellshme (përkthyesi).
+[^73]: Ky varg na urdhëron që, kur të përshëndet dikush, duhet t’i përgjigjesh me një mënyrë edhe më të mirë ose me të njëjtën mënyrë. Kjo është detyrë e secilit musliman. Është e nevojshme që ndërmjet besimtarëve e ateistëve të ketë përshëndetje të arsyeshme, në mënyrë që të mos e urrejnë njëri-tjetrin. Jemi të urdhëruar që të bisedojmë me njerëz në mënyrë të sjellshme (përkthyesi).
 
 # 580
 
@@ -2490,9 +2496,9 @@ Nuk bën që besimtari të vrasë besimtarin, përveçse gabimisht. Kush vret nj
 
 # 586
 
-Kushdo që vret një besimtar me qëllim, ndëshkimi i tij është Xhehenemi, në të cilin do të qëndrojë përgjithmonë.[74] Allahu është zemëruar me atë, e ka mallkuar dhe i ka përgatitur një dënim të madh.
+Kushdo që vret një besimtar me qëllim, ndëshkimi i tij është Xhehenemi, në të cilin do të qëndrojë përgjithmonë.[^74] Allahu është zemëruar me atë, e ka mallkuar dhe i ka përgatitur një dënim të madh.
 
-[74] Ndajfolja “përgjithmonë” është përdorur në mënyrë figurative në këtë kontekst dhe nënkupton një kohë shumë të gjatë, por jo të pafundme. Kjo është bërë për të theksuar rrezikun që paraqet vrasja e qëllimtë e një myslimani, e cila është një nga gjynahet më të mëdha pas idhujtarisë.
+[^74]: Ndajfolja “përgjithmonë” është përdorur në mënyrë figurative në këtë kontekst dhe nënkupton një kohë shumë të gjatë, por jo të pafundme. Kjo është bërë për të theksuar rrezikun që paraqet vrasja e qëllimtë e një myslimani, e cila është një nga gjynahet më të mëdha pas idhujtarisë.
 
 # 587
 
@@ -2540,9 +2546,9 @@ Mos u tregoni të dobët në përndjekjen e armikut! Nëse ndieni dhembje prej l
 
 # 598
 
-Vërtet, Ne (o Muhamed) ta kemi zbritur Kuranin me të drejtën, në mënyrë që ti të gjykosh ndërmjet njerëzve sipas asaj që të ka shpallur Allahu. Dhe mos u bëj mbrojtës i tradhtarëve![75]
+Vërtet, Ne (o Muhamed) ta kemi zbritur Kuranin me të drejtën, në mënyrë që ti të gjykosh ndërmjet njerëzve sipas asaj që të ka shpallur Allahu. Dhe mos u bëj mbrojtës i tradhtarëve![^75]
 
-[75] Komentuesit klasikë të Kuranit (Taberiu) bëjnë të ditur se ky varg dhe ata të mëpasshëm, deri në vargun 113, kanë lidhje me çështjen e një njeriu që quhej Ibn Ubejrik. Ai akuzohej se kishte vjedhur, por mbrohej nga i Dërguari i Allahut, i cili ishte bindur nga ndërmjetësimi i familjes së të pandehurit, se vjedhjen e kishte bërë një hebre. Shpallja Hyjnore e shfajësoi hebreun, kurse Ibn Ubejriku mohoi besimin dhe u arratis në Mekë, ku vazhdoi jetën e tij si keqbërës, derisa e gurëzuan.
+[^75]: Komentuesit klasikë të Kuranit (Taberiu) bëjnë të ditur se ky varg dhe ata të mëpasshëm, deri në vargun 113, kanë lidhje me çështjen e një njeriu që quhej Ibn Ubejrik. Ai akuzohej se kishte vjedhur, por mbrohej nga i Dërguari i Allahut, i cili ishte bindur nga ndërmjetësimi i familjes së të pandehurit, se vjedhjen e kishte bërë një hebre. Shpallja Hyjnore e shfajësoi hebreun, kurse Ibn Ubejriku mohoi besimin dhe u arratis në Mekë, ku vazhdoi jetën e tij si keqbërës, derisa e gurëzuan.
 
 # 599
 
@@ -2574,9 +2580,9 @@ Kush bën ndonjë gjynah ose të keqe, pastaj ia vesh atë një të pafajshmi, a
 
 # 606
 
-Sikur të mos e kishe mirësinë e Allahut dhe mëshirën e Tij, një grup i atyre do të përpiqej që të të nxirrte nga udha e drejtë.[76] Ata me këtë e humbin vetëm vetveten, kurse ty nuk të bëjnë kurrfarë dëmi. Allahu të shpalli ty Librin (Kuranin) dhe Urtësinë e plotë, si dhe të mësoi atë që nuk e ke ditur. Dhuntia e Allahut për ty është shumë e madhe.
+Sikur të mos e kishe mirësinë e Allahut dhe mëshirën e Tij, një grup i atyre do të përpiqej që të të nxirrte nga udha e drejtë.[^76] Ata me këtë e humbin vetëm vetveten, kurse ty nuk të bëjnë kurrfarë dëmi. Allahu të shpalli ty Librin (Kuranin) dhe Urtësinë e plotë, si dhe të mësoi atë që nuk e ke ditur. Dhuntia e Allahut për ty është shumë e madhe.
 
-[76] Pra, ata do të të nxirrnin nga udha e drejtë, duke bërë që ti Muhamed të akuzoje padrejtësisht një njeri të pafajshëm.
+[^76]: Pra, ata do të të nxirrnin nga udha e drejtë, duke bërë që ti Muhamed të akuzoje padrejtësisht një njeri të pafajshëm.
 
 # 607
 
@@ -2592,9 +2598,9 @@ Vërtet, Allahu nuk fal që të adhurohet dikush apo diçka tjetër veç Atij, p
 
 # 610
 
-Ata[77] nuk adhurojnë tjetër veçse idhuj femërorë dhe nuk thërrasin tjetër përveç djallit kryengritës.
+Ata[^77] nuk adhurojnë tjetër veçse idhuj femërorë dhe nuk thërrasin tjetër përveç djallit kryengritës.
 
-[77] Paganët e Mekës.
+[^77]: Paganët e Mekës.
 
 # 611
 
@@ -2634,9 +2640,9 @@ Allahut i përket gjithçka që gjendet në qiej dhe gjithçka që gjendet në T
 
 # 620
 
-Ata[78] kërkojnë prej teje (o Muhamed) që t’i sqarosh lidhur me çështjet e grave. Thuaju: “Për çështjet e tyre ju sqarojnë Allahu dhe Libri që ju lexohet[79], si për femrat jetime, të cilave nuk u jepni dhuratën e caktuar për ato edhe pse dëshironi të martoheni me to, ashtu edhe për fëmijët e mitur. Allahu ju udhëzon që të silleni drejt me jetimët. Allahu është në dijeni të çdo të mire që bëni.”
+Ata[^78] kërkojnë prej teje (o Muhamed) që t’i sqarosh lidhur me çështjet e grave. Thuaju: “Për çështjet e tyre ju sqarojnë Allahu dhe Libri që ju lexohet[^79], si për femrat jetime, të cilave nuk u jepni dhuratën e caktuar për ato edhe pse dëshironi të martoheni me to, ashtu edhe për fëmijët e mitur. Allahu ju udhëzon që të silleni drejt me jetimët. Allahu është në dijeni të çdo të mire që bëni.”
 
-[78] Disa nga shokët e Profetit (a.s.). [79] D.m.th. vargjet e para të kësaj sureje.
+[^78]: Disa nga shokët e Profetit (a.s.). [^79]: D.m.th. vargjet e para të kësaj sureje.
 
 # 621
 
@@ -2688,9 +2694,9 @@ ata që miqësohen me mohuesit e jo me besimtarët! Vallë, tek ata kërkojnë f
 
 # 633
 
-Ai jua ka shpallur në Libër[80]: Kur të dëgjoni se mohohen fjalët e Allahut dhe bëhet tallje me to, atëherë mos rrini me ata (njerëz që veprojnë kështu), derisa të ndërrojnë bisedë, përndryshe do të ishit si ata. Allahu do t’i tubojë në Xhehenem të gjithë hipokritët dhe mohuesit.
+Ai jua ka shpallur në Libër[^80]: Kur të dëgjoni se mohohen fjalët e Allahut dhe bëhet tallje me to, atëherë mos rrini me ata (njerëz që veprojnë kështu), derisa të ndërrojnë bisedë, përndryshe do të ishit si ata. Allahu do t’i tubojë në Xhehenem të gjithë hipokritët dhe mohuesit.
 
-[80] D.m.th. në Kuran.
+[^80]: D.m.th. në Kuran.
 
 # 634
 
@@ -2742,9 +2748,9 @@ Ndërsa atyre që besojnë Allahun dhe të dërguarit e Tij dhe nuk bëjnë dall
 
 # 646
 
-Ithtarët e Librit[81] kërkojnë prej teje (o Muhamed) që t’u zbresësh një libër prej qiellit. Në fakt, ata i kërkuan Musait diçka edhe më të madhe (duke i thënë): “Na e trego Allahun haptazi!” Atëherë i shkatërroi rrufeja, për shkak të poshtërsisë që bënë. Pastaj zgjodhën viçin (për adhurim) pas shenjave të qarta që iu patën ardhur. Ne ua falëm atë dhe i dhamë Musait pushtet të dukshëm.
+Ithtarët e Librit[^81] kërkojnë prej teje (o Muhamed) që t’u zbresësh një libër prej qiellit. Në fakt, ata i kërkuan Musait diçka edhe më të madhe (duke i thënë): “Na e trego Allahun haptazi!” Atëherë i shkatërroi rrufeja, për shkak të poshtërsisë që bënë. Pastaj zgjodhën viçin (për adhurim) pas shenjave të qarta që iu patën ardhur. Ne ua falëm atë dhe i dhamë Musait pushtet të dukshëm.
 
-[81] Disa hebrenj.
+[^81]: Disa hebrenj.
 
 # 647
 
@@ -2816,9 +2822,9 @@ O njerëz! I Dërguari ju ka sjellë të vërtetën nga Zoti juaj, prandaj beson
 
 # 664
 
-O ithtarët e Librit! Mos e kaloni kufirin në besimin tuaj dhe për Allahun thoni vetëm të vërtetën! Mesihu - Isai, i biri i Merjemes, është vetëm i Dërguar i Allahut dhe Fjala e Tij, të cilën ia ka dërguar Merjemes, si dhe shpirt (i krijuar) nga Ai. Pra, besojini Allahut dhe të dërguarve të Tij! Dhe mos thoni: “Tre zota”! Hiqni dorë, se është më mirë për ju! Allahu është vetëm një Zot - qoftë lavdëruar Ai! Ai është tepër i lartësuar për të pasur fëmijë. E Tij është gjithçka që gjendet në qiej dhe në Tokë. Allahu mjafton për rregullimin e gjithësisë.[82]
+O ithtarët e Librit! Mos e kaloni kufirin në besimin tuaj dhe për Allahun thoni vetëm të vërtetën! Mesihu - Isai, i biri i Merjemes, është vetëm i Dërguar i Allahut dhe Fjala e Tij, të cilën ia ka dërguar Merjemes, si dhe shpirt (i krijuar) nga Ai. Pra, besojini Allahut dhe të dërguarve të Tij! Dhe mos thoni: “Tre zota”! Hiqni dorë, se është më mirë për ju! Allahu është vetëm një Zot - qoftë lavdëruar Ai! Ai është tepër i lartësuar për të pasur fëmijë. E Tij është gjithçka që gjendet në qiej dhe në Tokë. Allahu mjafton për rregullimin e gjithësisë.[^82]
 
-[82] Zoti - me fuqinë e Vet të plotë, e ka lindur Isain (a.s.) pa baba. Kështu, Zoti ka fuqi për ta krijuar njeriun, pa baba e pa nënë, siç e ka krijuar Ademin (a.s.), në kundërshtim me natyrën. Po ashtu, në kundërshtim me natyrën, Ai e ka krijuar Is’hakun (a.s.) prej një nëne që nuk ka lindur fëmijë në rini. Ajo ka lindur fëmijë në moshën 90-vjeçare. Edhe Jahjai (a.s.) ka lindur nga një baba plak dhe një nënë plakë. Hebrenjtë, pa kurrfarë logjike e mohojnë këtë dukuri të Isait, kurse rastin e Is’hakut e pranojnë, edhe pse që të dyja rastet janë të një lloji, kundër natyrës (përkthyesi).
+[^82]: Zoti - me fuqinë e Vet të plotë, e ka lindur Isain (a.s.) pa baba. Kështu, Zoti ka fuqi për ta krijuar njeriun, pa baba e pa nënë, siç e ka krijuar Ademin (a.s.), në kundërshtim me natyrën. Po ashtu, në kundërshtim me natyrën, Ai e ka krijuar Is’hakun (a.s.) prej një nëne që nuk ka lindur fëmijë në rini. Ajo ka lindur fëmijë në moshën 90-vjeçare. Edhe Jahjai (a.s.) ka lindur nga një baba plak dhe një nënë plakë. Hebrenjtë, pa kurrfarë logjike e mohojnë këtë dukuri të Isait, kurse rastin e Is’hakut e pranojnë, edhe pse që të dyja rastet janë të një lloji, kundër natyrës (përkthyesi).
 
 # 665
 
@@ -2834,21 +2840,21 @@ O njerëz! Me të vërtetë, juve ju ka ardhur një provë bindëse (Muhamedi a.
 
 # 668
 
-Kështu, ata që besojnë Allahun dhe mbështeten fort tek Ai, (ta dinë se) Ai do t’i fusë në mëshirën dhe mirësinë e Vet[83] dhe do t’i udhëzojë drejt Vetes përmes rrugës së drejtë.
+Kështu, ata që besojnë Allahun dhe mbështeten fort tek Ai, (ta dinë se) Ai do t’i fusë në mëshirën dhe mirësinë e Vet[^83] dhe do t’i udhëzojë drejt Vetes përmes rrugës së drejtë.
 
-[83] Pra, do t’i fusë në Xhenet.
+[^83]: Pra, do t’i fusë në Xhenet.
 
 # 669
 
-Ata kërkojnë nga ti (Muhamed) gjykim (për dikë që vdes pa pasur trashëgimtarë). Thuaju: “Allahu ju udhëzon ju për një njeri të tillë. Nëse një burrë vdes pa pasur fëmijë (dhe prindër), ndërkohë që ka një motër, atëherë asaj i takon gjysma e trashëgimisë. Në qoftë se një grua vdes pa pasur fëmijë (dhe prindër), atëherë vëllai i saj është i vetmi që do ta trashëgojë. Në qoftë se një burrë pa fëmijë (dhe prindër) ka dy motra, atëherë ato do të trashëgojnë dy të tretat e pasurisë; por, nëse ai ka edhe vëllezër edhe motra, atëherë mashkullit i takon trashëgim sa pjesa e dy femrave. Kështu Allahu ju sqaron juve, në mënyrë që të mos humbisni. Allahu është i Dijshëm për çdo gjë.[84]
+Ata kërkojnë nga ti (Muhamed) gjykim (për dikë që vdes pa pasur trashëgimtarë). Thuaju: “Allahu ju udhëzon ju për një njeri të tillë. Nëse një burrë vdes pa pasur fëmijë (dhe prindër), ndërkohë që ka një motër, atëherë asaj i takon gjysma e trashëgimisë. Në qoftë se një grua vdes pa pasur fëmijë (dhe prindër), atëherë vëllai i saj është i vetmi që do ta trashëgojë. Në qoftë se një burrë pa fëmijë (dhe prindër) ka dy motra, atëherë ato do të trashëgojnë dy të tretat e pasurisë; por, nëse ai ka edhe vëllezër edhe motra, atëherë mashkullit i takon trashëgim sa pjesa e dy femrave. Kështu Allahu ju sqaron juve, në mënyrë që të mos humbisni. Allahu është i Dijshëm për çdo gjë.[^84]
 
-[84] Nuk është poshtërim për femrën që merr për trashëgim një pjesë të pasurisë, kurse mashkulli dy pjesë, sepse pasuria është për ekzistencë. Mashkulli, me këtë trashëgim, duhet të mbajë veten dhe gruan. Ndërkaq, gruaja e ka jetesën të siguruar ose nga ana e burrit, ose nga ana e kujdestarit të saj, ndërsa trashëgimia që merr prej babait, është vetëm për krenari e jo për nevojë. Kështu pra, për mashkullin trashëgimia ka kuptim tjetër (përkthyesi).
+[^84]: Nuk është poshtërim për femrën që merr për trashëgim një pjesë të pasurisë, kurse mashkulli dy pjesë, sepse pasuria është për ekzistencë. Mashkulli, me këtë trashëgim, duhet të mbajë veten dhe gruan. Ndërkaq, gruaja e ka jetesën të siguruar ose nga ana e burrit, ose nga ana e kujdestarit të saj, ndërsa trashëgimia që merr prej babait, është vetëm për krenari e jo për nevojë. Kështu pra, për mashkullin trashëgimia ka kuptim tjetër (përkthyesi).
 
 # 670
 
-O besimtarë! Plotësoni detyrimet! Ju është lejuar ngrënia e kafshëve, përveç atyre që do t’ju njoftohen. Derisa të gjendeni në ihram[85] gjatë haxhit, nuk ju lejohet gjuetia. Vërtet, Allahu vendos çfarë të dëshirojë.
+O besimtarë! Plotësoni detyrimet! Ju është lejuar ngrënia e kafshëve, përveç atyre që do t’ju njoftohen. Derisa të gjendeni në ihram[^85] gjatë haxhit, nuk ju lejohet gjuetia. Vërtet, Allahu vendos çfarë të dëshirojë.
 
-[85] Ihrami është gjendje e caktuar e haxhiut, gjatë së cilës ai mban një veshje të posaçme dhe i ndalohen disa gjëra të zakonshme.
+[^85]: Ihrami është gjendje e caktuar e haxhiut, gjatë së cilës ai mban një veshje të posaçme dhe i ndalohen disa gjëra të zakonshme.
 
 # 671
 
@@ -2856,9 +2862,9 @@ O besimtarë! Mos e cenoni shenjtërinë e simboleve të Allahut, as të muajve 
 
 # 672
 
-Është e ndaluar për ju ngrënia e cofëtinës, e gjakut, e mishit të derrit, e mishit të kafshës që është therur jo në emër të Allahut, e mishit të kafshës së mbytur lidhur në fyt, e mishit të kafshës që është rrahur dhe ka ngordhur, e mishit të kafshës që është vrarë nga rrëzimi apo nga brirët e kafshëve të tjera, e mishit të asaj që është kafshuar nga egërsirat - përveç atyre që i therni ju para se të ngordhin. Gjithashtu, është e ndaluar për ju edhe ngrënia e mishit të kafshëve që janë therur për nder të idhujve apo për të kërkuar fatin në fall. Të gjitha këto që u përmendën, janë gjynah. Sot, dëshpërohen ata që nuk besojnë dhe kanë humbur çdo shpresë, që t’ju largojnë prej fesë suaj. Mos u frikësoni prej tyre, por kini frikë prej Meje! Sot jua përsosa fenë tuaj, e plotësova dhuntinë Time ndaj jush dhe zgjodha që Islami të jetë feja juaj.[86] Por kushdo që është i shtrënguar nga uria (dhe ha çfarë është e ndaluar), pa pasur qëllim të bëjë gjynah, do ta shohë se Allahu është Falës e Mëshirëplotë.
+Është e ndaluar për ju ngrënia e cofëtinës, e gjakut, e mishit të derrit, e mishit të kafshës që është therur jo në emër të Allahut, e mishit të kafshës së mbytur lidhur në fyt, e mishit të kafshës që është rrahur dhe ka ngordhur, e mishit të kafshës që është vrarë nga rrëzimi apo nga brirët e kafshëve të tjera, e mishit të asaj që është kafshuar nga egërsirat - përveç atyre që i therni ju para se të ngordhin. Gjithashtu, është e ndaluar për ju edhe ngrënia e mishit të kafshëve që janë therur për nder të idhujve apo për të kërkuar fatin në fall. Të gjitha këto që u përmendën, janë gjynah. Sot, dëshpërohen ata që nuk besojnë dhe kanë humbur çdo shpresë, që t’ju largojnë prej fesë suaj. Mos u frikësoni prej tyre, por kini frikë prej Meje! Sot jua përsosa fenë tuaj, e plotësova dhuntinë Time ndaj jush dhe zgjodha që Islami të jetë feja juaj.[^86] Por kushdo që është i shtrënguar nga uria (dhe ha çfarë është e ndaluar), pa pasur qëllim të bëjë gjynah, do ta shohë se Allahu është Falës e Mëshirëplotë.
 
-[86] Ky varg thekson se të gjitha cilësitë që i nevojiten njeriut, - ato shpirtërore, trupore e shoqërore, janë plotësuar me ardhjen e Kuranit Fisnik (përkthyesi).
+[^86]: Ky varg thekson se të gjitha cilësitë që i nevojiten njeriut, - ato shpirtërore, trupore e shoqërore, janë plotësuar me ardhjen e Kuranit Fisnik (përkthyesi).
 
 # 673
 
@@ -2878,9 +2884,9 @@ Kujtoni dhuntinë e Allahut dhe besëlidhjen me të cilën ju ka vënë detyrime
 
 # 677
 
-O besimtarë! Bëhuni të qëndrueshëm në urdhrat e Allahut dhe bëhuni dëshmues me drejtësi! Le të mos ju nxisë urrejtja ndaj njerëzve për të bërë padrejtësi. Bëhuni të drejtë, se kjo është më afër devotshmërisë dhe frikësojuni Allahut! Pa dyshim, Allahu është i Dijshëm për çdo gjë që punoni ju.[87]
+O besimtarë! Bëhuni të qëndrueshëm në urdhrat e Allahut dhe bëhuni dëshmues me drejtësi! Le të mos ju nxisë urrejtja ndaj njerëzve për të bërë padrejtësi. Bëhuni të drejtë, se kjo është më afër devotshmërisë dhe frikësojuni Allahut! Pa dyshim, Allahu është i Dijshëm për çdo gjë që punoni ju.[^87]
 
-[87] Ky varg na urdhëron për mirësi në shoqëri. Po të mos zbatohet kjo mirësi, shoqëria do të shkatërrohet plotësisht, kurse po të zbatohet plotësisht ndër njerëz, përparimi dhe mirëqenia e shoqërisë do të arrijë kulmin (përkthyesi).
+[^87]: Ky varg na urdhëron për mirësi në shoqëri. Po të mos zbatohet kjo mirësi, shoqëria do të shkatërrohet plotësisht, kurse po të zbatohet plotësisht ndër njerëz, përparimi dhe mirëqenia e shoqërisë do të arrijë kulmin (përkthyesi).
 
 # 678
 
@@ -2900,15 +2906,15 @@ Me të vërtetë, Allahu mori besëlidhjen e bijve të Israilit dhe nga mesi i t
 
 # 682
 
-Për shkak se ata e thyen besëlidhjen e tyre, Ne i mallkuam ata dhe ua bëmë zemrat të ashpra. Ata i kanë shtrembëruar fjalët e Shkrimeve të shenjta dhe kanë harruar një pjesë të mirë nga ato këshilla[88]. Ti (Muhamed) përherë do ta vëresh tradhtinë e tyre, përveç një pakice të tyre; pra, falua fajet dhe mos i qorto! Se, Allahu i do bamirësit.
+Për shkak se ata e thyen besëlidhjen e tyre, Ne i mallkuam ata dhe ua bëmë zemrat të ashpra. Ata i kanë shtrembëruar fjalët e Shkrimeve të shenjta dhe kanë harruar një pjesë të mirë nga ato këshilla[^88]. Ti (Muhamed) përherë do ta vëresh tradhtinë e tyre, përveç një pakice të tyre; pra, falua fajet dhe mos i qorto! Se, Allahu i do bamirësit.
 
-[88] Kanë harruar atë pjesë të Shpalljes që lajmëronte ardhjen e Profetit Muhamed (a.s.).
+[^88]: Kanë harruar atë pjesë të Shpalljes që lajmëronte ardhjen e Profetit Muhamed (a.s.).
 
 # 683
 
-Ne kemi marrë besëlidhje edhe prej atyre që thanë: “Jemi të krishterë”, por edhe ata kanë harruar një pjesë të mirë nga ato që janë këshilluar[89], prandaj ua shtiem armiqësinë dhe urrejtjen midis tyre deri në Ditën e Kiametit. Allahu do t’i lajmërojë ata për veprat që kanë bërë.
+Ne kemi marrë besëlidhje edhe prej atyre që thanë: “Jemi të krishterë”, por edhe ata kanë harruar një pjesë të mirë nga ato që janë këshilluar[^89], prandaj ua shtiem armiqësinë dhe urrejtjen midis tyre deri në Ditën e Kiametit. Allahu do t’i lajmërojë ata për veprat që kanë bërë.
 
-[89] Edhe të krishterët e kanë lënë pas dore fajësisht atë pjesë të Shpalljes që i zbriti Isait (a.s.) rreth ardhjes së Profetit Muhamed (a.s.).
+[^89]: Edhe të krishterët e kanë lënë pas dore fajësisht atë pjesë të Shpalljes që i zbriti Isait (a.s.) rreth ardhjes së Profetit Muhamed (a.s.).
 
 # 684
 
@@ -3172,9 +3178,9 @@ dhe nuk e ndalonin njëri-tjetrin të bënin vepra të këqija. Eh, sa të shëm
 
 # 749
 
-Ti e sheh se shumë prej tyre[90] miqësohen me jobesimtarët. Me të vërtetë, e keqe është ajo që i përgatisin ata vetes: që Allahu të zemërohet me ta dhe të mbesin në dënim përjetësisht.
+Ti e sheh se shumë prej tyre[^90] miqësohen me jobesimtarët. Me të vërtetë, e keqe është ajo që i përgatisin ata vetes: që Allahu të zemërohet me ta dhe të mbesin në dënim përjetësisht.
 
-[90] D.m.th. hipokritëve.
+[^90]: D.m.th. hipokritëve.
 
 # 750
 
@@ -3266,9 +3272,9 @@ Disa njerëz i kanë bërë pyetje të tilla para jush e pastaj u bënë jobesim
 
 # 772
 
-Allahu nuk e përligj as Behirën, as Saibën, as Vesilën, as Hamin[91]. Por femohuesit trillojnë gënjeshtra për Allahun! Shumica syresh nuk kanë mend.
+Allahu nuk e përligj as Behirën, as Saibën, as Vesilën, as Hamin[^91]. Por femohuesit trillojnë gënjeshtra për Allahun! Shumica syresh nuk kanë mend.
 
-[91] Këta janë emra që arabët paganë ua ngjisnin deveve apo bagëtive të tjera, që i shenjtëronin apo që i përdornin si flijime për idhujt e tyre në Qabe.
+[^91]: Këta janë emra që arabët paganë ua ngjisnin deveve apo bagëtive të tjera, që i shenjtëronin apo që i përdornin si flijime për idhujt e tyre në Qabe.
 
 # 773
 
@@ -3416,9 +3422,9 @@ Thuaj: “Cila është dëshmia më e madhe (që ti je profet)?” dhe përgjigj
 
 # 809
 
-Ata që ua kemi dhënë Librin[92], e njohin (Muhamedin), ashtu si i njohin fëmijët e tyre. Por ata që kanë humbur shpirtrat e tyre, nuk do të besojnë kurrë.
+Ata që ua kemi dhënë Librin[^92], e njohin (Muhamedin), ashtu si i njohin fëmijët e tyre. Por ata që kanë humbur shpirtrat e tyre, nuk do të besojnë kurrë.
 
-[92] Të krishterët dhe hebrenjtë.
+[^92]: Të krishterët dhe hebrenjtë.
 
 # 810
 
@@ -3438,9 +3444,9 @@ Shiko se si gënjejnë kundër vetes, por zotat që ata i trilluan, do t’i lë
 
 # 814
 
-Disa prej tyre[93] duket sikur të dëgjojnë, por Ne kemi vënë perde në zemrat e tyre dhe ua kemi rënduar dëgjimin, në mënyrë që ata të mos kuptojnë. Edhe nëse do të shihnin ndonjë prej shenjave Tona, ata sërish nuk do të besonin. Kur vijnë tek ti për të të kundërshtuar, jobesimtarët thonë: “Këto janë vetëm trillime të popujve të lashtë”!
+Disa prej tyre[^93] duket sikur të dëgjojnë, por Ne kemi vënë perde në zemrat e tyre dhe ua kemi rënduar dëgjimin, në mënyrë që ata të mos kuptojnë. Edhe nëse do të shihnin ndonjë prej shenjave Tona, ata sërish nuk do të besonin. Kur vijnë tek ti për të të kundërshtuar, jobesimtarët thonë: “Këto janë vetëm trillime të popujve të lashtë”!
 
-[93] Idhujtarëve të Mekës.
+[^93]: Idhujtarëve të Mekës.
 
 # 815
 
@@ -3632,9 +3638,9 @@ të falim namazin dhe ta kemi frikë Atë.” Dhe është Ai, para të Cilit do 
 
 # 862
 
-Është Ai që i ka krijuar qiejt dhe Tokën për një qëllim. Ditën kur Ai thotë “Bëhu”, ajo bëhet. Fjala e Tij është e Vërteta dhe Atij i përket pushteti Ditën kur fryhet në Sur[94]. Ai e di të padukshmen dhe të dukshmen dhe Ai është i Urti dhe i Gjithëdijshmi”.
+Është Ai që i ka krijuar qiejt dhe Tokën për një qëllim. Ditën kur Ai thotë “Bëhu”, ajo bëhet. Fjala e Tij është e Vërteta dhe Atij i përket pushteti Ditën kur fryhet në Sur[^94]. Ai e di të padukshmen dhe të dukshmen dhe Ai është i Urti dhe i Gjithëdijshmi”.
 
-[94] Suri është një bri që do të fryhet nga engjëlli Israfil dy herë: herën e parë për të lajmëruar ardhjen e Kiametit; dhe herën e dytë për të lajmëruar fillimin e ringjalljes.
+[^94]: Suri është një bri që do të fryhet nga engjëlli Israfil dy herë: herën e parë për të lajmëruar ardhjen e Kiametit; dhe herën e dytë për të lajmëruar fillimin e ringjalljes.
 
 # 863
 
@@ -3706,9 +3712,9 @@ Këta janë ata, të cilët Allahu i ka udhëzuar në rrugën e drejtë, andaj e
 
 # 880
 
-Ata nuk e vlerësojnë siç duhet Allahun, kur thonë: “Allahu nuk i ka zbritur asgjë njeriut”[95]. Thuaj: “Atëherë, kush e shpalli Librin që solli Musai si dritë dhe udhërrëfyes për njerëzit?! Librin që ju e keni shpërndarë në fletë, ca prej të cilave i tregoni, ndërsa shumicën e fshihni, ndonëse tani keni mësuar diçka që as ju, as etërit tuaj nuk e keni ditur më parë?! Thuaj: “Allahu e ka shpallur (atë Libër)!” Pastaj lëri ata që të argëtohen me gënjeshtrat e tyre.
+Ata nuk e vlerësojnë siç duhet Allahun, kur thonë: “Allahu nuk i ka zbritur asgjë njeriut”[^95]. Thuaj: “Atëherë, kush e shpalli Librin që solli Musai si dritë dhe udhërrëfyes për njerëzit?! Librin që ju e keni shpërndarë në fletë, ca prej të cilave i tregoni, ndërsa shumicën e fshihni, ndonëse tani keni mësuar diçka që as ju, as etërit tuaj nuk e keni ditur më parë?! Thuaj: “Allahu e ka shpallur (atë Libër)!” Pastaj lëri ata që të argëtohen me gënjeshtrat e tyre.
 
-[95] Sipas disa komentuesve të Kuranit, bëhet fjalë për disa hebrenj që polemizuan me Profetin Muhamed (a.s.).
+[^95]: Sipas disa komentuesve të Kuranit, bëhet fjalë për disa hebrenj që polemizuan me Profetin Muhamed (a.s.).
 
 # 881
 
@@ -3888,9 +3894,9 @@ Thuaj: “O populli im, punoni në drejtimin tuaj, ndërkohë që edhe unë bëj
 
 # 925
 
-Ata[96] kanë caktuar për Allahun pjesë nga drithi dhe kafshët shtëpiake, të cilat i ka krijuar Ai dhe thonë sipas hamendjes së tyre: “Kjo është për Allahun, ndërsa kjo është për idhujt tanë”. Mirëpo ajo pjesë që është për idhujt e tyre, nuk arrin te Zoti, kurse ajo që ata e kanë caktuar për Allahun - ajo arrin te idhujt e tyre. Sa gjykim të shëmtuar bëjnë ata!
+Ata[^96] kanë caktuar për Allahun pjesë nga drithi dhe kafshët shtëpiake, të cilat i ka krijuar Ai dhe thonë sipas hamendjes së tyre: “Kjo është për Allahun, ndërsa kjo është për idhujt tanë”. Mirëpo ajo pjesë që është për idhujt e tyre, nuk arrin te Zoti, kurse ajo që ata e kanë caktuar për Allahun - ajo arrin te idhujt e tyre. Sa gjykim të shëmtuar bëjnë ata!
 
-[96] Paganët arabë.
+[^96]: Paganët arabë.
 
 # 926
 
@@ -3918,9 +3924,9 @@ Ai ka krijuar disa bagëti për ngarkim dhe për ushqim. Hani nga ato që jua ka
 
 # 932
 
-Ai ju ka dhënë tetë lloje bagëtish në çifte. Merr dy llojet[97] për dhentë dhe dy për dhitë. Thuaju[98]: “A i ka ndaluar Allahu dy meshkujt ose dy femrat, ose atë që mbajnë në bark dy femrat?” Lajmëromëni mua me dije të saktë, nëse ajo që thoni është e vërtetë!
+Ai ju ka dhënë tetë lloje bagëtish në çifte. Merr dy llojet[^97] për dhentë dhe dy për dhitë. Thuaju[^98]: “A i ka ndaluar Allahu dy meshkujt ose dy femrat, ose atë që mbajnë në bark dy femrat?” Lajmëromëni mua me dije të saktë, nëse ajo që thoni është e vërtetë!
 
-[97] Llojin mashkull dhe llojin femër. [98] Pra, thuaju paganëve, o Muhamed!
+[^97]: Llojin mashkull dhe llojin femër. [^98]: Pra, thuaju paganëve, o Muhamed!
 
 # 933
 
@@ -3972,9 +3978,9 @@ Ky Libër që kemi shpallur, është i bekuar, prandaj ndiqeni dhe druajuni kund
 
 # 945
 
-dhe që të mos thoni: “Shkrimet e shenjta u janë shpallur vetëm dy sekteve[99] para nesh, ndërsa Ne nuk kemi ditur gjë çfarë mësonin ata”.
+dhe që të mos thoni: “Shkrimet e shenjta u janë shpallur vetëm dy sekteve[^99] para nesh, ndërsa Ne nuk kemi ditur gjë çfarë mësonin ata”.
 
-[99] Hebrenjve dhe të krishterëve.
+[^99]: Hebrenjve dhe të krishterëve.
 
 # 946
 
@@ -4122,9 +4128,9 @@ O bijtë e Ademit, le të mos ju mashtrojë kurrsesi djalli, ashtu si i nxori pr
 
 # 982
 
-Kur ata[100] bëjnë një vepër të shëmtuar, thonë: “Ne i kemi gjetur prindërit tanë që i bënin, por edhe Allahu na ka urdhëruar kështu”. Thuaj: “Allahu nuk urdhëron të bëhen vepra të pahijshme! Përse thoni për Allahun atë që nuk e dini?”
+Kur ata[^100] bëjnë një vepër të shëmtuar, thonë: “Ne i kemi gjetur prindërit tanë që i bënin, por edhe Allahu na ka urdhëruar kështu”. Thuaj: “Allahu nuk urdhëron të bëhen vepra të pahijshme! Përse thoni për Allahun atë që nuk e dini?”
 
-[100] Paganët arabë.
+[^100]: Paganët arabë.
 
 # 983
 
@@ -4196,9 +4202,9 @@ të cilët i kanë penguar të tjerët nga rruga e Allahut, duke dashur ta shtre
 
 # 1000
 
-Një mur do t’i ndajë ata[101], ndërsa në lartësitë e tij do të ndodhen njerëz, të cilët i njohin të dyja palët sipas tipareve. Ata do t’u thërrasin banorëve të Xhenetit: “Paqja qoftë mbi ju!” Ata nuk do të kenë hyrë ende në Xhenet, ndonëse shpresojnë.
+Një mur do t’i ndajë ata[^101], ndërsa në lartësitë e tij do të ndodhen njerëz, të cilët i njohin të dyja palët sipas tipareve. Ata do t’u thërrasin banorëve të Xhenetit: “Paqja qoftë mbi ju!” Ata nuk do të kenë hyrë ende në Xhenet, ndonëse shpresojnë.
 
-[101] Banorët e Xhenetit dhe të Xhehenemit.
+[^101]: Banorët e Xhenetit dhe të Xhehenemit.
 
 # 1001
 
@@ -4274,9 +4280,9 @@ Ata e quajtën gënjeshtar Nuhun. Kështu që Ne shpëtuam me anë të barkës a
 
 # 1019
 
-Fisit Ad[102] i dërguam vëllanë e tyre - Hudin. Ai tha: “O populli im! Adhuroni Allahun, ju nuk keni zot tjetër përveç Tij. A nuk po i ruheni dënimit?”
+Fisit Ad[^102] i dërguam vëllanë e tyre - Hudin. Ai tha: “O populli im! Adhuroni Allahun, ju nuk keni zot tjetër përveç Tij. A nuk po i ruheni dënimit?”
 
-[102] Adi është një fis i lashtë që ka jetuar pas Nuhut.
+[^102]: Adi është një fis i lashtë që ka jetuar pas Nuhut.
 
 # 1020
 
@@ -4308,9 +4314,9 @@ Me mëshirën Tonë, Ne e shpëtuam Hudin dhe të gjithë besimtarët që ishin 
 
 # 1027
 
-Ndërsa fisit Themud[103] Ne i dërguam vëllanë e tyre, Salihun. Ai tha: “O populli im! Adhuroni Allahun, ju nuk keni zot tjetër përveç Tij. Në të vërtetë, juve ju është dhënë një shenjë e qartë nga Zoti juaj: kjo deve e Allahut për ju është një mrekulli. Lëreni të kullosë në tokën e Allahut dhe mos i bëni ndonjë të keqe, se ju pret ndëshkimi i ashpër!
+Ndërsa fisit Themud[^103] Ne i dërguam vëllanë e tyre, Salihun. Ai tha: “O populli im! Adhuroni Allahun, ju nuk keni zot tjetër përveç Tij. Në të vërtetë, juve ju është dhënë një shenjë e qartë nga Zoti juaj: kjo deve e Allahut për ju është një mrekulli. Lëreni të kullosë në tokën e Allahut dhe mos i bëni ndonjë të keqe, se ju pret ndëshkimi i ashpër!
 
-[103] Një tjetër fis i lashtë, pasardhës i fisit Ad.
+[^103]: Një tjetër fis i lashtë, pasardhës i fisit Ad.
 
 # 1028
 
@@ -4406,9 +4412,9 @@ Sikur banorët e atyre qyteteve të besonin dhe të ruheshin prej gjynaheve, Ne 
 
 # 1051
 
-A janë të sigurt banorët e këtyre qyteteve[104] se nuk do t’iu vijë dënimi Ynë natën, ndërkohë që flenë?!
+A janë të sigurt banorët e këtyre qyteteve[^104] se nuk do t’iu vijë dënimi Ynë natën, ndërkohë që flenë?!
 
-[104] Mekës dhe rrethinave të saj.
+[^104]: Mekës dhe rrethinave të saj.
 
 # 1052
 
@@ -4648,9 +4654,9 @@ Na cakto të mira në këtë botë dhe në tjetrën, sepse veç tek Ti ne kthehe
 
 # 1111
 
-dhe që ndjekin të Dërguarin Tonë, Profetin[105] që nuk di shkrim e lexim, të cilin ata do ta gjejnë të shënuar në shkrimet e tyre, në Teurat dhe Ungjill. Ai do t’i urdhërojë ata të bëjnë vepra të mira dhe do t’i ndalojë nga të këqijat; do t’ua lejojë të mirat e do t’ua ndalojë të këqijat, duke i liruar nga barrët e rënda dhe vështirësitë që kanë pasur. Prandaj, ata që do ta besojnë, përkrahin dhe nderojnë atë, duke ndjekur dritën që është zbritur me të, pikërisht ata janë të fituarit.”
+dhe që ndjekin të Dërguarin Tonë, Profetin[^105] që nuk di shkrim e lexim, të cilin ata do ta gjejnë të shënuar në shkrimet e tyre, në Teurat dhe Ungjill. Ai do t’i urdhërojë ata të bëjnë vepra të mira dhe do t’i ndalojë nga të këqijat; do t’ua lejojë të mirat e do t’ua ndalojë të këqijat, duke i liruar nga barrët e rënda dhe vështirësitë që kanë pasur. Prandaj, ata që do ta besojnë, përkrahin dhe nderojnë atë, duke ndjekur dritën që është zbritur me të, pikërisht ata janë të fituarit.”
 
-[105] Muhamedin (a.s.).
+[^105]: Muhamedin (a.s.).
 
 # 1112
 
@@ -4662,9 +4668,9 @@ Te populli i Musait ka pasur disa njerëz që udhëhiqnin dhe zbatonin drejtësi
 
 # 1114
 
-Ne i ndamë hebrenjtë në dymbëdhjetë fise, secili komb më vete. Kur populli i tij i kërkoi ujë, Ne i kumtuam Musait: “Bjeri me shkopin tënd shkëmbit!” dhe prej tij shpërthyen dymbëdhjetë burime. Çdo fis e dinte burimin e vet. Dhe Ne u bëmë hije me retë dhe u zbritëm manën[106] dhe thëllëza, duke iu thënë: “Hani ushqimet e mira që jua kemi dhënë!” Ata nuk na dëmtuan Ne, por i bënë dëm vetvetes.
+Ne i ndamë hebrenjtë në dymbëdhjetë fise, secili komb më vete. Kur populli i tij i kërkoi ujë, Ne i kumtuam Musait: “Bjeri me shkopin tënd shkëmbit!” dhe prej tij shpërthyen dymbëdhjetë burime. Çdo fis e dinte burimin e vet. Dhe Ne u bëmë hije me retë dhe u zbritëm manën[^106] dhe thëllëza, duke iu thënë: “Hani ushqimet e mira që jua kemi dhënë!” Ata nuk na dëmtuan Ne, por i bënë dëm vetvetes.
 
-[106] Shih shënimin në vargun 57 të sures së dytë.
+[^106]: Shih shënimin në vargun 57 të sures së dytë.
 
 # 1115
 
@@ -4676,15 +4682,15 @@ keqbërësit nga radhët e tyre, i ndërruan fjalët me të tjera që nuk u ishi
 
 # 1117
 
-Pyeti ata për qytetin që gjendej në bregdet dhe për çfarë i gjeti banorët e tij kur thyen urdhëresën e Sabatit (së shtunës)! Atë ditë u vinin peshqit me shumicë, ndërsa ditëve tjera që nuk i kremtonin, nuk u vinin. Kështu, Ne i vumë në provë, sepse bënin punë të mbrapshta.[107]
+Pyeti ata për qytetin që gjendej në bregdet dhe për çfarë i gjeti banorët e tij kur thyen urdhëresën e Sabatit (së shtunës)! Atë ditë u vinin peshqit me shumicë, ndërsa ditëve tjera që nuk i kremtonin, nuk u vinin. Kështu, Ne i vumë në provë, sepse bënin punë të mbrapshta.[^107]
 
-[107] Feja hebraike e ndalon në mënyrë absolute punën në ditën e shtunë, qoftë edhe për të siguruar ushqim. Në qytetin në fjalë, që, sipas disa komentuesve, është qyteti i Eilatit në Gjirin e Akabasë, ndodhte që peshqit i afroheshin bregdetit me shumicë ditën e shtunë, kurse ditëve të tjera qëndronin larg dhe në thellësitë e detit, duke e bërë të vështirë punën e peshkatarëve. Kjo ishte një provë nga Allahu, për të verifikuar bindjen ndaj urdhrave të Tij. Shih vargun 65 të sures së dytë dhe shënimin përkatës.
+[^107]: Feja hebraike e ndalon në mënyrë absolute punën në ditën e shtunë, qoftë edhe për të siguruar ushqim. Në qytetin në fjalë, që, sipas disa komentuesve, është qyteti i Eilatit në Gjirin e Akabasë, ndodhte që peshqit i afroheshin bregdetit me shumicë ditën e shtunë, kurse ditëve të tjera qëndronin larg dhe në thellësitë e detit, duke e bërë të vështirë punën e peshkatarëve. Kjo ishte një provë nga Allahu, për të verifikuar bindjen ndaj urdhrave të Tij. Shih vargun 65 të sures së dytë dhe shënimin përkatës.
 
 # 1118
 
-Kur disa prej tyre thanë[108]: “Përse këshilloni, kur e dini se Allahu do t’na zhdukë ose do të na ndëshkojë ashpër?!” Këshilltarët u përgjigjën: “Për t’u arsyetuar para Zotit tuaj dhe që ju të mund të ruheni nga gjynahet”.
+Kur disa prej tyre thanë[^108]: “Përse këshilloni, kur e dini se Allahu do t’na zhdukë ose do të na ndëshkojë ashpër?!” Këshilltarët u përgjigjën: “Për t’u arsyetuar para Zotit tuaj dhe që ju të mund të ruheni nga gjynahet”.
 
-[108] Pra, shkelësit e Sabatit u thanë atyre që i këshillonin të hiqnin dorë nga shkelja e Sabatit.
+[^108]: Pra, shkelësit e Sabatit u thanë atyre që i këshillonin të hiqnin dorë nga shkelja e Sabatit.
 
 # 1119
 
@@ -4704,9 +4710,9 @@ Dhe Ne i shpërndamë ata në Tokë grupe-grupe. Disa prej tyre ishin të mirë 
 
 # 1123
 
-Pas tyre, erdhi një brezni e cila e trashëgoi Librin (Teuratin), por duke marrë gjërat e pavlefshme të kësaj bote[109] dhe duke thënë: “Do të na falet çdo gjë!” Edhe nëse u binin në dorë gjëra të ngjashme, prapë i merrnin ato. Vallë, a nuk e kishin pranuar besëlidhjen në Libër – që për Allahun të thoshin vetëm të vërtetën?! Pikërisht ata, që e kishin studiuar ç’përmbante ai? Bota tjetër është më e mirë për besimtarët që i frikësohen Allahut; akoma nuk e kuptoni këtë?!
+Pas tyre, erdhi një brezni e cila e trashëgoi Librin (Teuratin), por duke marrë gjërat e pavlefshme të kësaj bote[^109] dhe duke thënë: “Do të na falet çdo gjë!” Edhe nëse u binin në dorë gjëra të ngjashme, prapë i merrnin ato. Vallë, a nuk e kishin pranuar besëlidhjen në Libër – që për Allahun të thoshin vetëm të vërtetën?! Pikërisht ata, që e kishin studiuar ç’përmbante ai? Bota tjetër është më e mirë për besimtarët që i frikësohen Allahut; akoma nuk e kuptoni këtë?!
 
-[109] Vargu aludon për ryshfetet që merrnin gjykatësit e Ligjit Judaik.
+[^109]: Vargu aludon për ryshfetet që merrnin gjykatësit e Ligjit Judaik.
 
 # 1124
 
@@ -4714,9 +4720,9 @@ Ata që u përmbahen thënieve të Librit dhe që e kryejnë namazin, ta dinë s
 
 # 1125
 
-Ne ngritëm sipër tyre malin, që dukej si hije e ata besonin se do të binte mbi ta, dhe u thamë: “Mbajeni fort atë[110] që ju dhamë dhe kujtoni çfarë përmban ajo, që të ruheni nga gjynahet.”
+Ne ngritëm sipër tyre malin, që dukej si hije e ata besonin se do të binte mbi ta, dhe u thamë: “Mbajeni fort atë[^110] që ju dhamë dhe kujtoni çfarë përmban ajo, që të ruheni nga gjynahet.”
 
-[110] Tabelat e Teuratit.
+[^110]: Tabelat e Teuratit.
 
 # 1126
 
@@ -4732,9 +4738,9 @@ Kështu, Ne i shpjegojmë hollësisht shpalljet, që ata të kthehen (në rrugë
 
 # 1129
 
-Tregoju atyre (hebrenjve) për njeriun, të cilit Ne i mësuam shpalljet Tona, por u largua prej tyre. Kështu, djalli e pushtoi atë dhe ai u bë nga të humburit.[111]
+Tregoju atyre (hebrenjve) për njeriun, të cilit Ne i mësuam shpalljet Tona, por u largua prej tyre. Kështu, djalli e pushtoi atë dhe ai u bë nga të humburit.[^111]
 
-[111] Sipas shumë komentuesve të Kuranit, vargu aludon për një dijetar hebre bashkëkohës të Musait (a.s.), që quhej Bal‘am Ibn Bâ‘ûra. Zoti i kishte mësuar atij emrin e Vet më të madh, nëpërmjet të cilit atij i plotësohej çdo lutje. Një herë, Musai e dërgoi Bal‘amin tek mbreti i Medjenit, për ta ftuar në besimin tek Allahu. Mbreti nuk e pranoi këtë ftesë, por e joshi Bal‘amin me pasuri dhe e ktheu në fenë vet. Kështu, ai hoqi dorë nga feja e Musait dhe u bë pagan.
+[^111]: Sipas shumë komentuesve të Kuranit, vargu aludon për një dijetar hebre bashkëkohës të Musait (a.s.), që quhej Bal‘am Ibn Bâ‘ûra. Zoti i kishte mësuar atij emrin e Vet më të madh, nëpërmjet të cilit atij i plotësohej çdo lutje. Një herë, Musai e dërgoi Bal‘amin tek mbreti i Medjenit, për ta ftuar në besimin tek Allahu. Mbreti nuk e pranoi këtë ftesë, por e joshi Bal‘amin me pasuri dhe e ktheu në fenë vet. Kështu, ai hoqi dorë nga feja e Musait dhe u bë pagan.
 
 # 1130
 
@@ -4770,10 +4776,11 @@ e do t’u japim afat. Me të vërtetë, plani Ynë është i fortë.
 
 # 1138
 
-A nuk u ka vajtur ndonjëherë në mendje atyre[112] se shoku i tyre[113] nuk ka kurrfarë marrëzie?! Ai është vetëm paralajmërues i hapët.
+A nuk u ka vajtur ndonjëherë në mendje atyre[^112] se shoku i tyre[^113] nuk ka kurrfarë marrëzie?! Ai është vetëm paralajmërues i hapët.
 
-[112] Jobesimtarëve të Mekës.
-[113] Muhamedi (a.s.).
+[^112]: Jobesimtarëve të Mekës.
+
+[^113]: Muhamedi (a.s.).
 
 # 1139
 
@@ -4845,15 +4852,15 @@ Ata që i frikësohen Allahut, kur u vjen ndonjë mendim i lig nga djalli, i kuj
 
 # 1156
 
-Ndërsa vëllezërit e vet (prej njerëzve), ata[114] i shpien edhe më tej në humbje pa pushuar.
+Ndërsa vëllezërit e vet (prej njerëzve), ata[^114] i shpien edhe më tej në humbje pa pushuar.
 
-[114] Djajtë.
+[^114]: Djajtë.
 
 # 1157
 
-Kur ti (Muhamed) nuk u lexon atyre[115] ndonjë varg nga Shpallja, ata thonë: “Ah! Sikur ta bëje ti vetë”! Thuaju: “Unë ndjek vetëm atë që më ka shpallur Zoti im. Ky (Kuran) është vetëm dëshmi ndriçuese nga Zoti juaj, udhërrëfim dhe mëshirë për njerëzit që besojnë.”
+Kur ti (Muhamed) nuk u lexon atyre[^115] ndonjë varg nga Shpallja, ata thonë: “Ah! Sikur ta bëje ti vetë”! Thuaju: “Unë ndjek vetëm atë që më ka shpallur Zoti im. Ky (Kuran) është vetëm dëshmi ndriçuese nga Zoti juaj, udhërrëfim dhe mëshirë për njerëzit që besojnë.”
 
-[115] Jobesimtarëve të Mekës.
+[^115]: Jobesimtarëve të Mekës.
 
 # 1158
 
@@ -4885,9 +4892,9 @@ Njëmend, ata janë besimtarë të vërtetë. Ata do të kenë shkallë përnder
 
 # 1165
 
-Zoti yt të nxori nga shtëpia jote (për të luftuar) për të Vërtetën edhe pse kjo nuk i pëlqeu një grupi prej besimtarëve.[116]
+Zoti yt të nxori nga shtëpia jote (për të luftuar) për të Vërtetën edhe pse kjo nuk i pëlqeu një grupi prej besimtarëve.[^116]
 
-[116] Vargu bën fjalë për betejën e Bedrit (2 H / 624). Pasi kishin mërguar në Medinë për shkak të persekutimit që pësuan në Mekë, myslimanët kishin krijuar atje një bashkësi të re besimtarësh. Në vitin e dytë të këtij mërgimi, Profeti Muhamed (a.s.) vendosi të sulmonte një karvan tregtar të Mekës që po kthehej nga Siria, në mënyrë që të kompensonte pasuritë që paria e Mekës ua kishte konfiskuar myslimanëve mekas që kishin mërguar në Medinë. Për këtë arsye, ai përgatiti një ushtri të vogël prej 300 vetash. Ndërkohë, karvanit i erdhi lajmi për sulmin që e priste, prandaj ndërroi rrugë, ndërsa nga Meka u nis një ushtri prej një mijë vetash e pajisur mirë ushtarakisht në mbrojtje të karvanit. Atëherë, myslimanët ishin në mëdyshje, a të ndiqnin karvanin apo të prisnin ushtrinë mekase? Në këtë varg, Allahu bën të ditur se Ai e nxori Profetin (a.s.) nga shtëpia e tij, për të luftuar për të Vërtetën, pra, për çështjen e Allahut dhe jo për të sulmuar karvanin edhe pse kjo gjë mund të mos u pëlqente disa besimtarëve. Ata parapëlqenin të luftonin kundër një karvani me pak luftëtarë, sesa të luftonin kundër një ushtrie të pajisur më mirë dhe trefish më të madhe në numër. Megjithatë, me ndihmën e Allahut të Madhëruar, i cili dërgoi në përkrahje të ushtrisë myslimane një ushtri me engjëj, myslimanët korrën një fitore të shkëlqyer ndaj ushtrisë pagane, duke shfaqur shembuj të lartë heroizmi në këtë betejë.
+[^116]: Vargu bën fjalë për betejën e Bedrit (2 H / 624). Pasi kishin mërguar në Medinë për shkak të persekutimit që pësuan në Mekë, myslimanët kishin krijuar atje një bashkësi të re besimtarësh. Në vitin e dytë të këtij mërgimi, Profeti Muhamed (a.s.) vendosi të sulmonte një karvan tregtar të Mekës që po kthehej nga Siria, në mënyrë që të kompensonte pasuritë që paria e Mekës ua kishte konfiskuar myslimanëve mekas që kishin mërguar në Medinë. Për këtë arsye, ai përgatiti një ushtri të vogël prej 300 vetash. Ndërkohë, karvanit i erdhi lajmi për sulmin që e priste, prandaj ndërroi rrugë, ndërsa nga Meka u nis një ushtri prej një mijë vetash e pajisur mirë ushtarakisht në mbrojtje të karvanit. Atëherë, myslimanët ishin në mëdyshje, a të ndiqnin karvanin apo të prisnin ushtrinë mekase? Në këtë varg, Allahu bën të ditur se Ai e nxori Profetin (a.s.) nga shtëpia e tij, për të luftuar për të Vërtetën, pra, për çështjen e Allahut dhe jo për të sulmuar karvanin edhe pse kjo gjë mund të mos u pëlqente disa besimtarëve. Ata parapëlqenin të luftonin kundër një karvani me pak luftëtarë, sesa të luftonin kundër një ushtrie të pajisur më mirë dhe trefish më të madhe në numër. Megjithatë, me ndihmën e Allahut të Madhëruar, i cili dërgoi në përkrahje të ushtrisë myslimane një ushtri me engjëj, myslimanët korrën një fitore të shkëlqyer ndaj ushtrisë pagane, duke shfaqur shembuj të lartë heroizmi në këtë betejë.
 
 # 1166
 
@@ -4963,9 +4970,9 @@ Sikur Allahu të dinte ndonjë të mirë tek ata, Ai do t’ua jepte dëgjimin. 
 
 # 1184
 
-O besimtarë! Bindjuni Allahut dhe të Dërguarit kur ju thërret drejt asaj që ju jep jetë[117]! Dhe ta dini se Allahu ndërhyn midis njeriut dhe zemrës së tij dhe se tek Ai do të mblidheni të gjithë!
+O besimtarë! Bindjuni Allahut dhe të Dërguarit kur ju thërret drejt asaj që ju jep jetë[^117]! Dhe ta dini se Allahu ndërhyn midis njeriut dhe zemrës së tij dhe se tek Ai do të mblidheni të gjithë!
 
-[117] D.m.th. drejt besimit.
+[^117]: D.m.th. drejt besimit.
 
 # 1185
 
@@ -5137,9 +5144,9 @@ Tani, Allahu ju ka lehtësuar ju, ngaqë Ai e di se keni dobësi. Kështu, nëse
 
 # 1227
 
-Asnjë profet s’ka të drejtë të ketë robër për vete, derisa të arrijë fitore të plotë në Tokë. Ju[118] dëshironi të mirat kalimtare të kësaj bote, kurse Allahu dëshiron botën tjetër. Allahu është i Plotfuqishëm dhe i Urtë.
+Asnjë profet s’ka të drejtë të ketë robër për vete, derisa të arrijë fitore të plotë në Tokë. Ju[^118] dëshironi të mirat kalimtare të kësaj bote, kurse Allahu dëshiron botën tjetër. Allahu është i Plotfuqishëm dhe i Urtë.
 
-[118] Pasuesit e Muhamedit (a.s.).
+[^118]: Pasuesit e Muhamedit (a.s.).
 
 # 1228
 
@@ -5163,9 +5170,9 @@ Vërtet, ata që besuan dhe mërguan (për hir të besimit), e më pas luftuan m
 
 # 1233
 
-Kurse jobesimtarët janë miq e mbrojtës të njëri-tjetrit. Nëse nuk veproni ashtu siç jeni urdhëruar[119], do të bëhet ngatërresë dhe shkatërrim i madh në Tokë.
+Kurse jobesimtarët janë miq e mbrojtës të njëri-tjetrit. Nëse nuk veproni ashtu siç jeni urdhëruar[^119], do të bëhet ngatërresë dhe shkatërrim i madh në Tokë.
 
-[119] Pra, të mbroni njëri-tjetrin kundër jobesimtarëve.
+[^119]: Pra, të mbroni njëri-tjetrin kundër jobesimtarëve.
 
 # 1234
 
@@ -5277,9 +5284,9 @@ Në të vërtetë, Allahu ju ka ndihmuar në shumë beteja, si dhe në ditën e 
 
 # 1261
 
-Pastaj, Allahu zbriti qetësinë[120] e Tij mbi të Dërguarin e Vet dhe mbi besimtarët, si dhe zbriti luftëtarë (engjëj), të cilët ju nuk i patë dot e i dënoi jobesimtarët. Kështu u “shpërblyen” mohuesit.
+Pastaj, Allahu zbriti qetësinë[^120] e Tij mbi të Dërguarin e Vet dhe mbi besimtarët, si dhe zbriti luftëtarë (engjëj), të cilët ju nuk i patë dot e i dënoi jobesimtarët. Kështu u “shpërblyen” mohuesit.
 
-[120] Shih shënimin në vargun 248 të sures 2.
+[^120]: Shih shënimin në vargun 248 të sures 2.
 
 # 1262
 
@@ -5287,15 +5294,15 @@ Pas kësaj, Allahu e pranon pendimin për kë të dojë. Allahu është Falës d
 
 # 1263
 
-O besimtarë! Në të vërtetë, idhujtarët janë të papastër (për shkak të besimit të kotë), prandaj të mos i afrohen më Xhamisë së Shenjtë pas këtij viti. Dhe mos kini frikë nga varfëria, sepse, po deshi, Allahu ju bën të pasur me dhuntitë e veta.[121] Vërtet, Allahu është i Gjithëdijshëm dhe i Urtë.
+O besimtarë! Në të vërtetë, idhujtarët janë të papastër (për shkak të besimit të kotë), prandaj të mos i afrohen më Xhamisë së Shenjtë pas këtij viti. Dhe mos kini frikë nga varfëria, sepse, po deshi, Allahu ju bën të pasur me dhuntitë e veta.[^121] Vërtet, Allahu është i Gjithëdijshëm dhe i Urtë.
 
-[121] Frika se vendimi për të mos i lejuar më jomyslimanët të hyjnë në Mekë mund të shkaktonte rënie të tregtisë, i shqetësonte jo pak mekasit. Prandaj, Allahu i Lartmadhëruar i siguron besimtarët se do t’i pasurojë me begatitë e Veta.
+[^121]: Frika se vendimi për të mos i lejuar më jomyslimanët të hyjnë në Mekë mund të shkaktonte rënie të tregtisë, i shqetësonte jo pak mekasit. Prandaj, Allahu i Lartmadhëruar i siguron besimtarët se do t’i pasurojë me begatitë e Veta.
 
 # 1264
 
-Luftojini ata që nuk besojnë në Allahun e as në Ditën e Kiametit, që nuk e marrin për të ndaluar atë që e ka ndaluar Allahu dhe i Dërguari i Tij, dhe ata, midis atyre që u është dhënë Libri, që nuk e pranojnë fenë e vërtetë, derisa të japin xhizjen (taksën)[122] me dorën e tyre, duke qenë të përulur.
+Luftojini ata që nuk besojnë në Allahun e as në Ditën e Kiametit, që nuk e marrin për të ndaluar atë që e ka ndaluar Allahu dhe i Dërguari i Tij, dhe ata, midis atyre që u është dhënë Libri, që nuk e pranojnë fenë e vërtetë, derisa të japin xhizjen (taksën)[^122] me dorën e tyre, duke qenë të përulur.
 
-[122] “Xhizje” quhet taksa vjetore, nëpërmjet së cilës hebrenjtë dhe të krishterët shprehin njohjen e tyre për shtetin islam. Pagimi i kësaj takse u jepte atyre statusin e “dhimmi-ut” - të mbrojturit, përmes të cilit fitonin të drejtën të jetonin në paqe dhe siguri në shtetin islam dhe të ushtronin pa pengesë fenë e tyre. Sigurisht që kjo taksë nuk ishte diskriminuese, sepse hebrenjtë dhe të krishterët ishin të përjashtuar nga dhënia e zekatit, që, për shkak të veçorive të tij, ishte detyrim vetëm për besimtarët. Në kohën e Profetit Muhamed (a.s.), sasia e xhizjes ishte dhjetë derhemë (rreth 30 gr argjend) për çdo mashkull të rritur, që në kohën tonë është e barasvlefshme me shpenzimet ushqimore të dhjetë ditëve. Gjithsesi, gratë, fëmijët, skllevërit dhe të varfrit ishin të përjashtuar nga kjo taksë.
+[^122]: “Xhizje” quhet taksa vjetore, nëpërmjet së cilës hebrenjtë dhe të krishterët shprehin njohjen e tyre për shtetin islam. Pagimi i kësaj takse u jepte atyre statusin e “dhimmi-ut” - të mbrojturit, përmes të cilit fitonin të drejtën të jetonin në paqe dhe siguri në shtetin islam dhe të ushtronin pa pengesë fenë e tyre. Sigurisht që kjo taksë nuk ishte diskriminuese, sepse hebrenjtë dhe të krishterët ishin të përjashtuar nga dhënia e zekatit, që, për shkak të veçorive të tij, ishte detyrim vetëm për besimtarët. Në kohën e Profetit Muhamed (a.s.), sasia e xhizjes ishte dhjetë derhemë (rreth 30 gr argjend) për çdo mashkull të rritur, që në kohën tonë është e barasvlefshme me shpenzimet ushqimore të dhjetë ditëve. Gjithsesi, gratë, fëmijët, skllevërit dhe të varfrit ishin të përjashtuar nga kjo taksë.
 
 # 1265
 
@@ -5311,9 +5318,9 @@ Ata dëshirojnë ta fikin dritën (fenë) e Allahut me gojën e tyre, por Allahu
 
 # 1268
 
-(Allahu) Është Ai që e ka dërguar të Dërguarin e Tij me udhërrëfimin (Kuranin) dhe fenë e së vërtetës, për ta lartësuar atë mbi të gjitha fetë[123], edhe sikur idhujtarët ta urrejnë këtë gjë.
+(Allahu) Është Ai që e ka dërguar të Dërguarin e Tij me udhërrëfimin (Kuranin) dhe fenë e së vërtetës, për ta lartësuar atë mbi të gjitha fetë[^123], edhe sikur idhujtarët ta urrejnë këtë gjë.
 
-[123] D. m. th. për ta lartësuar me anë të suksesit të qëndrueshëm dhe argumentit të qartë. Vini re se feja islame është e tillë që i lë pas të gjitha fetë e tjera dhe se nuk ka një lidhje të domosdoshme ndërmjet epërsisë fetare të Islamit dhe supremacisë politike të shteteve myslimane.
+[^123]: D. m. th. për ta lartësuar me anë të suksesit të qëndrueshëm dhe argumentit të qartë. Vini re se feja islame është e tillë që i lë pas të gjitha fetë e tjera dhe se nuk ka një lidhje të domosdoshme ndërmjet epërsisë fetare të Islamit dhe supremacisë politike të shteteve myslimane.
 
 # 1269
 
@@ -5329,9 +5336,9 @@ Vërtet, numri i muajve tek Allahu është dymbëdhjetë, sipas Librit të Allah
 
 # 1272
 
-Vërtet, muaji shtesë është vetëm shtesë në mosbesim. Për shkak të tij jobesimtarët shkojnë në humbje: një vit e quajnë të lejueshëm e vitin tjetër, të ndaluar, për të plotësuar numrin e muajve që i ka ndaluar Allahu.[124] Kështu, ata lejojnë atë që ka ndaluar Allahu. Atyre u duken të bukura veprat e tyre të shëmtuara. Allahu nuk i udhëzon në rrugë të drejtë njerëzit jobesimtarë.
+Vërtet, muaji shtesë është vetëm shtesë në mosbesim. Për shkak të tij jobesimtarët shkojnë në humbje: një vit e quajnë të lejueshëm e vitin tjetër, të ndaluar, për të plotësuar numrin e muajve që i ka ndaluar Allahu.[^124] Kështu, ata lejojnë atë që ka ndaluar Allahu. Atyre u duken të bukura veprat e tyre të shëmtuara. Allahu nuk i udhëzon në rrugë të drejtë njerëzit jobesimtarë.
 
-[124] Ky varg është themelor për sa i përket përkufizimit islam të ndarjes së kohës. Kalendari hënor përmban 354 ditë, 11 më pak se ai diellor (12 kur viti është i brishtë). Për këtë arsye, astronomët e periudhës paraislame shtonin një muaj në çdo tre vjet, duke rivënë harmoninë midis kalendarit hënor dhe atij diellor. Përveç arsyeve astronomike, ky muaj shtesë shërbente për t’u ndërfutur edhe midis muajve të shenjtë – gjatë të cilëve nuk lejohej lufta – me qëllim që plaçkitësit të kishin pretekst për të sulmuar karvanët e haxhilerëve, duke pretenduar se ishin në kohën që lejohej lufta. Një aspekt tjetër i kësaj reforme të kalendarit, është muaji i agjërimit, ramazani, i cili çdo vit fillon 11-12 ditë më herët se vitin paraardhës, duke bërë që në 33 vjet, ai të bëjë një xhiro të plotë të kalendarit diellor. Me vendosjen e këtij ligji që ka vlerë të përgjithshme, Allahu i Madhëruar, me dijen e Tij, ka zhdukur çdo mundësi pabarazie në trajtim midis myslimanëve që jetojnë në pjesë të ndryshme të botës. Nëse muaji i agjërimit do të ecte sipas kalendarit diellor, disa besimtarë do të agjëronin gjithnjë në periudha të nxehta me ditë të gjata, kurse disa të tjerë do të agjëronin në ditë të freskëta e të shkurtra, pra, me më pak angazhim dhe meritë.
+[^124]: Ky varg është themelor për sa i përket përkufizimit islam të ndarjes së kohës. Kalendari hënor përmban 354 ditë, 11 më pak se ai diellor (12 kur viti është i brishtë). Për këtë arsye, astronomët e periudhës paraislame shtonin një muaj në çdo tre vjet, duke rivënë harmoninë midis kalendarit hënor dhe atij diellor. Përveç arsyeve astronomike, ky muaj shtesë shërbente për t’u ndërfutur edhe midis muajve të shenjtë – gjatë të cilëve nuk lejohej lufta – me qëllim që plaçkitësit të kishin pretekst për të sulmuar karvanët e haxhilerëve, duke pretenduar se ishin në kohën që lejohej lufta. Një aspekt tjetër i kësaj reforme të kalendarit, është muaji i agjërimit, ramazani, i cili çdo vit fillon 11-12 ditë më herët se vitin paraardhës, duke bërë që në 33 vjet, ai të bëjë një xhiro të plotë të kalendarit diellor. Me vendosjen e këtij ligji që ka vlerë të përgjithshme, Allahu i Madhëruar, me dijen e Tij, ka zhdukur çdo mundësi pabarazie në trajtim midis myslimanëve që jetojnë në pjesë të ndryshme të botës. Nëse muaji i agjërimit do të ecte sipas kalendarit diellor, disa besimtarë do të agjëronin gjithnjë në periudha të nxehta me ditë të gjata, kurse disa të tjerë do të agjëronin në ditë të freskëta e të shkurtra, pra, me më pak angazhim dhe meritë.
 
 # 1273
 
@@ -5471,9 +5478,9 @@ Besimtarët dhe besimtaret janë miq për njëri-tjetrin. Ata urdhërojnë që t
 
 # 1307
 
-Allahu u ka premtuar besimtarëve dhe besimtareve kopshte, nëpër të cilat rrjedhin lumenj dhe ku do të banojnë përgjithmonë, si dhe pallate të mrekullueshme në Xhenetin e Adnit. Por kënaqësia prej Allahut është shpërblimi më i madh.[125] Kjo është fitorja madhështore.
+Allahu u ka premtuar besimtarëve dhe besimtareve kopshte, nëpër të cilat rrjedhin lumenj dhe ku do të banojnë përgjithmonë, si dhe pallate të mrekullueshme në Xhenetin e Adnit. Por kënaqësia prej Allahut është shpërblimi më i madh.[^125] Kjo është fitorja madhështore.
 
-[125] “por kënaqësia prej Allahut është shpërblimi më i madh...”: Ky varg është shumë i rëndësishëm për të kuptuar drejt realitetin në Xhenet. Përtej përshkrimeve të kënaqësive ndjesore, theksohet vlera më e madhe për ata që do të hyjnë në Xhenet: kënaqësia dhe miratimi i Zotit të tyre, Allahut të Lartmadhëruar, vlera më e madhe për besimtarët.
+[^125]: “por kënaqësia prej Allahut është shpërblimi më i madh...”: Ky varg është shumë i rëndësishëm për të kuptuar drejt realitetin në Xhenet. Përtej përshkrimeve të kënaqësive ndjesore, theksohet vlera më e madhe për ata që do të hyjnë në Xhenet: kënaqësia dhe miratimi i Zotit të tyre, Allahut të Lartmadhëruar, vlera më e madhe për besimtarët.
 
 # 1308
 
@@ -5585,15 +5592,15 @@ Po ka nga beduinët të atillë që besojnë Allahun dhe Ditën e Kiametit dhe s
 
 # 1335
 
-Sa u përket besimtarëve të parë, prej muhaxhirëve[126] dhe ensarëve[127], Allahu është i kënaqur me ata dhe me të gjithë të tjerët që i pasuan me vendosmëri e përkushtim në besim; edhe ata janë të kënaqur me Atë. Allahu ka përgatitur për ata kopshte nëpër të cilat rrjedhin lumenj dhe ku do të jetojnë përgjithmonë. Kjo është fitorja madhështore!
+Sa u përket besimtarëve të parë, prej muhaxhirëve[^126] dhe ensarëve[^127], Allahu është i kënaqur me ata dhe me të gjithë të tjerët që i pasuan me vendosmëri e përkushtim në besim; edhe ata janë të kënaqur me Atë. Allahu ka përgatitur për ata kopshte nëpër të cilat rrjedhin lumenj dhe ku do të jetojnë përgjithmonë. Kjo është fitorja madhështore!
 
-[126] Muhaxhirët janë myslimanët e Mekës që emigruan nga Meka në Medinë gjatë viteve të para të Islamit, për shkak të persekutimit që pësuan nga banorët e Mekës. [127] Ensarët janë myslimanët e Medinës që strehuan dhe ndihmuan Profetin Muhamed (a.s.) dhe muhaxhirët e tjerë myslimanë që erdhën nga Meka.
+[^126]: Muhaxhirët janë myslimanët e Mekës që emigruan nga Meka në Medinë gjatë viteve të para të Islamit, për shkak të persekutimit që pësuan nga banorët e Mekës. [^127]: Ensarët janë myslimanët e Medinës që strehuan dhe ndihmuan Profetin Muhamed (a.s.) dhe muhaxhirët e tjerë myslimanë që erdhën nga Meka.
 
 # 1336
 
-Ka beduinë në mjedisin tuaj, që janë hipokritë, por ka edhe ndër banorët e Medinës të atillë që janë këmbëngulës në hipokrizi. Ti nuk i di ata. Ne i dimë. Ne do t’i dënojmë dy herë[128] e pastaj, do të kthehen në dënimin e madh (në Xhehenem).
+Ka beduinë në mjedisin tuaj, që janë hipokritë, por ka edhe ndër banorët e Medinës të atillë që janë këmbëngulës në hipokrizi. Ti nuk i di ata. Ne i dimë. Ne do t’i dënojmë dy herë[^128] e pastaj, do të kthehen në dënimin e madh (në Xhehenem).
 
-[128] D. m. th. në këtë botë e në varr.
+[^128]: D. m. th. në këtë botë e në varr.
 
 # 1337
 
@@ -5657,15 +5664,15 @@ Njëmend, Allahut i takon sundimi i qiejve dhe i Tokës; Ai e jep jetën dhe vde
 
 # 1352
 
-Pa dyshim, Allahu e pranoi pendimin e të Dërguarit, të muhaxhirëve dhe të ensarëve, të cilët shkuan pas atij në çastin e vështirë, pasi zemrat e disave prej tyre për një fije qenë afër shmangies (nga detyra), pastaj Allahu pranoi pendimin e tyre[129]. Vërtet, Ai është i Butë dhe i Mëshirshëm me ta.
+Pa dyshim, Allahu e pranoi pendimin e të Dërguarit, të muhaxhirëve dhe të ensarëve, të cilët shkuan pas atij në çastin e vështirë, pasi zemrat e disave prej tyre për një fije qenë afër shmangies (nga detyra), pastaj Allahu pranoi pendimin e tyre[^129]. Vërtet, Ai është i Butë dhe i Mëshirshëm me ta.
 
-[129] Bëhet fjalë për fushatën e Tebukut, e cila ka ndodhur në vitin 9 H / 631 e.s.
+[^129]: Bëhet fjalë për fushatën e Tebukut, e cila ka ndodhur në vitin 9 H / 631 e.s.
 
 # 1353
 
-Ai ua pranoi pendimin edhe atyre të treve[130], që mbetën prapa atëherë, kur toka, sado e gjerë, iu duk e ngushtë dhe iu shtrënguan shpirtrat, aq sa u bindën se nuk ka strehim tjetër përveç Allahut e pastaj Allahu u dha mëshirë që të pendohen. Me të vërtetë, Allahu pranon pendimin dhe është Mëshirëplotë.
+Ai ua pranoi pendimin edhe atyre të treve[^130], që mbetën prapa atëherë, kur toka, sado e gjerë, iu duk e ngushtë dhe iu shtrënguan shpirtrat, aq sa u bindën se nuk ka strehim tjetër përveç Allahut e pastaj Allahu u dha mëshirë që të pendohen. Me të vërtetë, Allahu pranon pendimin dhe është Mëshirëplotë.
 
-[130] Bëhet fjalë për tre nga shokët e Profetit Muhamed (a.s.) që u tërhoqën dhe nuk morën pjesë bashkë me të në fushatën e Tebukut.
+[^130]: Bëhet fjalë për tre nga shokët e Profetit Muhamed (a.s.) që u tërhoqën dhe nuk morën pjesë bashkë me të në fushatën e Tebukut.
 
 # 1354
 
@@ -5701,9 +5708,9 @@ Vallë, a nuk e shohin ata se çdo vit vihen në provë një ose dy herë e prap
 
 # 1362
 
-Kur shpallet ndonjë sure (që u tërheq vërejtje), ata shikojnë njëri-tjetrin (duke thënë): “A po ju sheh ndokush?”[131], pastaj largohen. Allahu i shmang zemrat e tyre, sepse ata janë njerëz që nuk kuptojnë!
+Kur shpallet ndonjë sure (që u tërheq vërejtje), ata shikojnë njëri-tjetrin (duke thënë): “A po ju sheh ndokush?”[^131], pastaj largohen. Allahu i shmang zemrat e tyre, sepse ata janë njerëz që nuk kuptojnë!
 
-[131] “A po ju sheh ndokush?”: Jobesimtarët mohojnë praninë e Allahut, duke mohuar kështu faktin që një sure mund të flasë për ata apo mund të kritikojë sjelljet e tyre.
+[^131]: “A po ju sheh ndokush?”: Jobesimtarët mohojnë praninë e Allahut, duke mohuar kështu faktin që një sure mund të flasë për ata apo mund të kritikojë sjelljet e tyre.
 
 # 1363
 
@@ -5787,10 +5794,11 @@ Ata adhurojnë në vend të Allahut atë që as nuk u bën dëm, as nuk u sjell 
 
 # 1383
 
-Të gjithë njerëzit kanë qenë të një feje të vetme,[132] pastaj u përçanë. Sikur të mos ishte thënë më parë fjala nga Zoti yt, atëherë do të gjykohej midis tyre, për atë që nuk u pajtuan.[133]
+Të gjithë njerëzit kanë qenë të një feje të vetme,[^132] pastaj u përçanë. Sikur të mos ishte thënë më parë fjala nga Zoti yt, atëherë do të gjykohej midis tyre, për atë që nuk u pajtuan.[^133]
 
-[132] Sipas dijetarëve komentues të Kuranit, brezat e parë të njerëzimit kanë qenë të gjithë myslimanë, pra, monoteistë. Më pas filluan të shfaqen idhujtaria dhe rrymat e ndryshme fetare.
-[133] Pra, sikur Allahu të mos e kishte caktuar shtyrjen e gjykimit deri në Ditën e Kiametit, njerëzit do të gjykoheshin që në këtë botë për mospajtimet në lidhje me fenë e drejtë.
+[^132]: Sipas dijetarëve komentues të Kuranit, brezat e parë të njerëzimit kanë qenë të gjithë myslimanë, pra, monoteistë. Më pas filluan të shfaqen idhujtaria dhe rrymat e ndryshme fetare.
+
+[^133]: Pra, sikur Allahu të mos e kishte caktuar shtyrjen e gjykimit deri në Ditën e Kiametit, njerëzit do të gjykoheshin që në këtë botë për mospajtimet në lidhje me fenë e drejtë.
 
 # 1384
 
@@ -5870,9 +5878,9 @@ Nëse ata thonë: “Ai (Muhamedi) e ka trilluar atë (Kuranin)”, thuaju: “A
 
 # 1403
 
-Por ata e mohojnë atë që nuk e njohin plotësisht,[134] ndërkohë që nuk u ka ardhur ende përmbushja e (premtimeve të) tij. Kështu kanë mohuar edhe popujt që ishin para tyre; prandaj shiko si kanë përfunduar keqbërësit!
+Por ata e mohojnë atë që nuk e njohin plotësisht,[^134] ndërkohë që nuk u ka ardhur ende përmbushja e (premtimeve të) tij. Kështu kanë mohuar edhe popujt që ishin para tyre; prandaj shiko si kanë përfunduar keqbërësit!
 
-[134] Pra, Kuranin.
+[^134]: Pra, Kuranin.
 
 # 1404
 
@@ -5928,9 +5936,9 @@ E pastaj, do t’u thuhet keqbërësve: “Shijoni dënimin e përhershëm! Nuk 
 
 # 1417
 
-Ata kërkojnë shpjegim prej teje: “A është e vërtetë ajo?”[135] Thuaj: “Po, për Zotin tim, pa dyshim që është e vërtetë e ju nuk do të mund ta pengoni atë”!
+Ata kërkojnë shpjegim prej teje: “A është e vërtetë ajo?”[^135] Thuaj: “Po, për Zotin tim, pa dyshim që është e vërtetë e ju nuk do të mund ta pengoni atë”!
 
-[135] “A është e vërtetë ajo” - pra, a është e vërtetë ringjallja dhe dhënia e llogarisë.
+[^135]: “A është e vërtetë ajo” - pra, a është e vërtetë ringjallja dhe dhënia e llogarisë.
 
 # 1418
 
@@ -5974,9 +5982,9 @@ Pa dyshim, miqtë e Allahut nuk do të kenë arsye për t’u frikësuar dhe as 
 
 # 1428
 
-Ata i pret lajmi i mirë në këtë jetë dhe në tjetrën.[136] S’ka ndryshim në fjalët e Allahut; kjo është fitorja madhështore.
+Ata i pret lajmi i mirë në këtë jetë dhe në tjetrën.[^136] S’ka ndryshim në fjalët e Allahut; kjo është fitorja madhështore.
 
-[136] Lajmi i mirë që i pret në këtë jetë, sipas një thënieje të Profetit (a.s.), është ëndrra e mirë e vërtetë. Ndërsa lajmi i mirë që i pret në jetën tjetër, është Xheneti.
+[^136]: Lajmi i mirë që i pret në këtë jetë, sipas një thënieje të Profetit (a.s.), është ëndrra e mirë e vërtetë. Ndërsa lajmi i mirë që i pret në jetën tjetër, është Xheneti.
 
 # 1429
 
@@ -5992,9 +6000,9 @@ Ai jua krijoi natën për të pushuar në të, kurse ditën për të parë dhe k
 
 # 1432
 
-Ata[137] thonë: “Allahu ka një bir”. Qoftë i lartësuar Ai! Ai është i Vetëmjaftueshëm, s’ka nevojë për asgjë. Atij i përket gjithçka që gjendet në qiej dhe në Tokë. Ju nuk keni asnjë provë për atë që thoni. Pse thoni për Allahun atë që nuk e dini?!
+Ata[^137] thonë: “Allahu ka një bir”. Qoftë i lartësuar Ai! Ai është i Vetëmjaftueshëm, s’ka nevojë për asgjë. Atij i përket gjithçka që gjendet në qiej dhe në Tokë. Ju nuk keni asnjë provë për atë që thoni. Pse thoni për Allahun atë që nuk e dini?!
 
-[137] Të krishterët dhe paganët.
+[^137]: Të krishterët dhe paganët.
 
 # 1433
 
@@ -6022,9 +6030,9 @@ Pastaj, pas tij u çuam të dërguar popujve të tyre e ata u sollën prova atyr
 
 # 1439
 
-Pastaj, Faraonit dhe parisë së tij pas tyre, u dërguam Musain dhe Harunin me mrekullitë Tona, por ata[138] u sollën me mendjemadhësi, sepse ishin popull keqbërës.
+Pastaj, Faraonit dhe parisë së tij pas tyre, u dërguam Musain dhe Harunin me mrekullitë Tona, por ata[^138] u sollën me mendjemadhësi, sepse ishin popull keqbërës.
 
-[138] D.m.th. Faraoni dhe njerëzit e tij.
+[^138]: D.m.th. Faraoni dhe njerëzit e tij.
 
 # 1440
 
@@ -6096,9 +6104,9 @@ Sot do të shpëtojmë vetëm trupin tënd, që të bëhesh mësim për ata që 
 
 # 1457
 
-Ne i vendosëm bijtë e Israilit në një vend të mirë të dhe u dhamë ushqim të këndshëm. Ata nuk u përçanë në mendime, derisa u erdhi dituria.[139] Me të vërtetë, Zoti yt do t’i gjykojë ata në Ditën e Kiametit në lidhje me përçarjet e tyre.
+Ne i vendosëm bijtë e Israilit në një vend të mirë të dhe u dhamë ushqim të këndshëm. Ata nuk u përçanë në mendime, derisa u erdhi dituria.[^139] Me të vërtetë, Zoti yt do t’i gjykojë ata në Ditën e Kiametit në lidhje me përçarjet e tyre.
 
-[139] Sipas interpretimit klasik, “dituria” është Kurani. Profecia që i zbriti Muhamedit (a.s.), i përçau bijtë e Israilit. Një pjesë e njohu atë si Profetin e lajmëruar në Shkrimet e Shenjta dhe e ndoqi. Ndërsa një pjesë tjetër, edhe duke e njohur si Profetin e paralajmëruar, e refuzoi dhe e luftoi atë. Një interpretim tjetër thekson se vargu i referohet mospajtimeve të shumta dogmatike që ekzistonin ndërmjet hebrenjve, kështu që në këtë rast, “dituria” do të ishte Teurati.
+[^139]: Sipas interpretimit klasik, “dituria” është Kurani. Profecia që i zbriti Muhamedit (a.s.), i përçau bijtë e Israilit. Një pjesë e njohu atë si Profetin e lajmëruar në Shkrimet e Shenjta dhe e ndoqi. Ndërsa një pjesë tjetër, edhe duke e njohur si Profetin e paralajmëruar, e refuzoi dhe e luftoi atë. Një interpretim tjetër thekson se vargu i referohet mospajtimeve të shumta dogmatike që ekzistonin ndërmjet hebrenjve, kështu që në këtë rast, “dituria” do të ishte Teurati.
 
 # 1458
 
@@ -6110,9 +6118,9 @@ Dhe mos u bëj nga ata që i përgënjeshtrojnë shenjat Tona, përndryshe do t�
 
 # 1460
 
-Vërtet, ata që merituan Fjalën[140] e Zotit tënd, nuk besojnë,
+Vërtet, ata që merituan Fjalën[^140] e Zotit tënd, nuk besojnë,
 
-[140] D.m.th. zemërimin dhe dënimin e Tij.
+[^140]: D.m.th. zemërimin dhe dënimin e Tij.
 
 # 1461
 
@@ -6128,9 +6136,9 @@ Sikur të donte Zoti yt, do të besonin të gjithë ata që gjenden në tokë. V
 
 # 1464
 
-Askush nuk mund të besojë, përveçse me vullnetin e Allahut. Ai e zbret zemërimin e Tij mbi ata që s’mendojnë[141].
+Askush nuk mund të besojë, përveçse me vullnetin e Allahut. Ai e zbret zemërimin e Tij mbi ata që s’mendojnë[^141].
 
-[141] Pra, mbi ata që nuk mendojnë rreth këshillave dhe urdhrave të Tij.
+[^141]: Pra, mbi ata që nuk mendojnë rreth këshillave dhe urdhrave të Tij.
 
 # 1465
 
@@ -6218,9 +6226,9 @@ Mund të ndodhë që ti (Muhamed) të lësh mënjanë diçka nga ato që të jan
 
 # 1486
 
-Nëse ata thonë: “Ai[142] e ka trilluar atë[143]!” Thuaju (o Muhamed!): “Sillni dhjetë sure të ngjashme (në bukuri dhe elokuencë) të trilluara dhe thirrni në ndihmë kë të mundni, përveç Allahut, nëse thoni të vërtetën!”
+Nëse ata thonë: “Ai[^142] e ka trilluar atë[^143]!” Thuaju (o Muhamed!): “Sillni dhjetë sure të ngjashme (në bukuri dhe elokuencë) të trilluara dhe thirrni në ndihmë kë të mundni, përveç Allahut, nëse thoni të vërtetën!”
 
-[142] D.m.th. Profeti Muhamed (a.s.). [143] D.m.th. Kuranin.
+[^142]: D.m.th. Profeti Muhamed (a.s.). [^143]: D.m.th. Kuranin.
 
 # 1487
 
@@ -6236,9 +6244,9 @@ Këta janë ata për të cilët në botën tjetër nuk do të ketë kurrgjë, p�
 
 # 1490
 
-A janë (të barabartë me jobesimtarët), ata, që mbështeten në provë të qartë nga Zoti i tyre[144], që ndiqet nga një dëshmitar prej Tij (Kurani), para të cilit ishte Libri i Musait (dëshmitar) udhërrëfyes dhe mëshirë? Këta besojnë Kuranin. Dhe për cilindo nga grupet (sektet) që e mohojnë atë, zjarri do të jetë vend i premtuar. Andaj, ti kurrsesi mos dysho në atë; se ai, pa dyshim, është e vërteta prej Zotit tënd, ndonëse shumica e njerëzve nuk besojnë.
+A janë (të barabartë me jobesimtarët), ata, që mbështeten në provë të qartë nga Zoti i tyre[^144], që ndiqet nga një dëshmitar prej Tij (Kurani), para të cilit ishte Libri i Musait (dëshmitar) udhërrëfyes dhe mëshirë? Këta besojnë Kuranin. Dhe për cilindo nga grupet (sektet) që e mohojnë atë, zjarri do të jetë vend i premtuar. Andaj, ti kurrsesi mos dysho në atë; se ai, pa dyshim, është e vërteta prej Zotit tënd, ndonëse shumica e njerëzve nuk besojnë.
 
-[144] Prova është natyra monoteiste në të cilën është krijuar çdo njeri.
+[^144]: Prova është natyra monoteiste në të cilën është krijuar çdo njeri.
 
 # 1491
 
@@ -6310,9 +6318,9 @@ Këshilla ime nuk do t’ju bëjë dobi edhe sikur të doja t’ju këshilloja, 
 
 # 1508
 
-Nëse ata thonë: “Ai[145] e ka trilluar atë[146]”. Thuaj: “E nëse unë e kam trilluar, gjynahu im bie mbi mua e unë jam larg nga gjynahet që bëni ju”.
+Nëse ata thonë: “Ai[^145] e ka trilluar atë[^146]”. Thuaj: “E nëse unë e kam trilluar, gjynahu im bie mbi mua e unë jam larg nga gjynahet që bëni ju”.
 
-[145] D.m.th. Profeti Muhamed (a.s.). [146] D.m.th. Kuranin.
+[^145]: D.m.th. Profeti Muhamed (a.s.). [^146]: D.m.th. Kuranin.
 
 # 1509
 
@@ -6428,9 +6436,9 @@ Ai tha: “O populli im, mendoni pak! Nëse Zoti im më ka dhënë provë të qa
 
 # 1537
 
-O populli im! Kjo është deveja e Allahut,[147] shenjë e qartë për ju, prandaj lëreni të kullosë në tokën e Allahut dhe mos i bëni ndonjë të keqe, se ju godet ndëshkimi menjëherë”.
+O populli im! Kjo është deveja e Allahut,[^147] shenjë e qartë për ju, prandaj lëreni të kullosë në tokën e Allahut dhe mos i bëni ndonjë të keqe, se ju godet ndëshkimi menjëherë”.
 
-[147] “Kjo është deveja e Allahut”: Sipas disa komentuesve të Kuranit, kjo deve doli nga shkëmbi. Ajo ishte një kafshë e mrekullueshme, që Allahu ua paraqiti themudasve si provë për Profecinë e Salihut. Në mënyrë që edhe kafsha të pinte, u vendos që burimi i vetëm i ujit për atë popull, të shfrytëzohej me radhë: një herë deveja, një herë njerëzit. Kjo nxiti mërinë e jobesimtarëve, të cilët vendosën ta vrisnin atë.
+[^147]: “Kjo është deveja e Allahut”: Sipas disa komentuesve të Kuranit, kjo deve doli nga shkëmbi. Ajo ishte një kafshë e mrekullueshme, që Allahu ua paraqiti themudasve si provë për Profecinë e Salihut. Në mënyrë që edhe kafsha të pinte, u vendos që burimi i vetëm i ujit për atë popull, të shfrytëzohej me radhë: një herë deveja, një herë njerëzit. Kjo nxiti mërinë e jobesimtarëve, të cilët vendosën ta vrisnin atë.
 
 # 1538
 
@@ -6678,9 +6686,9 @@ Ne e zbritëm këtë Kuran në gjuhën arabe, për ta kuptuar ju.
 
 # 1599
 
-Ne të tregojmë ty (Muhamed) historinë më të bukur[148] përmes shpalljes së këtij Kurani, ndonëse ti, me të vërtetë, nuk ke qenë në dijeni më parë.
+Ne të tregojmë ty (Muhamed) historinë më të bukur[^148] përmes shpalljes së këtij Kurani, ndonëse ti, me të vërtetë, nuk ke qenë në dijeni më parë.
 
-[148] Vargu “Ne të tregojmë ty (Muhamed) historinë më të bukur”, mund të përkthehet edhe “Ne të tregojmë ty (Muhamed) në mënyrën më të bukur”.
+[^148]: Vargu “Ne të tregojmë ty (Muhamed) historinë më të bukur”, mund të përkthehet edhe “Ne të tregojmë ty (Muhamed) në mënyrën më të bukur”.
 
 # 1600
 
@@ -6704,9 +6712,9 @@ Vëllezërit e tij thanë: “Jusufi dhe vëllai i tij, janë më të dashur se 
 
 # 1605
 
-Vriteni Jusufin ose braktiseni në ndonjë vend të largët,[149] se pastaj babai juaj do të kthehet nga ju dhe, pas kësaj, do të bëheni njerëz të mirë”.
+Vriteni Jusufin ose braktiseni në ndonjë vend të largët,[^149] se pastaj babai juaj do të kthehet nga ju dhe, pas kësaj, do të bëheni njerëz të mirë”.
 
-[149] “Vriteni ...”: Vëllezërit e Jusufit flasin midis tyre, por, për t’i qëndruar besnik stilit kuranor, ligjërata është përkthyer në vetën e dytë të numrit shumës. Kjo formë është përdorur shpesh në Kuran dhe mund të japë përshtypjen se personi që flet është një i huaj, jashtë grupit të cilit i drejtohet fjala. Ndërkohë, ne do të thoshim “Ta vrasim Jusufin ose ta braktisim...”.
+[^149]: “Vriteni ...”: Vëllezërit e Jusufit flasin midis tyre, por, për t’i qëndruar besnik stilit kuranor, ligjërata është përkthyer në vetën e dytë të numrit shumës. Kjo formë është përdorur shpesh në Kuran dhe mund të japë përshtypjen se personi që flet është një i huaj, jashtë grupit të cilit i drejtohet fjala. Ndërkohë, ne do të thoshim “Ta vrasim Jusufin ose ta braktisim...”.
 
 # 1606
 
@@ -6810,9 +6818,9 @@ Dhe Zoti e plotësoi lutjen e tij dhe e shmangu nga dredhitë e tyre. Me të vë
 
 # 1631
 
-Pastaj u ra ndërmend atyre[150], pasi i panë shenjat (e pafajësisë së Jusufit) që ta burgosin për një kohë (në mënyrë që ngjarja të mos përhapej në popull).
+Pastaj u ra ndërmend atyre[^150], pasi i panë shenjat (e pafajësisë së Jusufit) që ta burgosin për një kohë (në mënyrë që ngjarja të mos përhapej në popull).
 
-[150] D.m.th. familjes së Azizit.
+[^150]: D.m.th. familjes së Azizit.
 
 # 1632
 
@@ -6880,9 +6888,9 @@ Mbreti u tha (grave): “Si qe puna juaj kur deshët ta joshnit Jusufin?”. Ato
 
 # 1648
 
-(Jusufi) tha: “(E kërkova këtë hetim) që ta dijë ai[151], se unë nuk e kam tradhtuar gjatë kohës së mungesës së tij. Vërtet, Allahu nuk u jep fund të mirë dredhive të tradhtarëve.
+(Jusufi) tha: “(E kërkova këtë hetim) që ta dijë ai[^151], se unë nuk e kam tradhtuar gjatë kohës së mungesës së tij. Vërtet, Allahu nuk u jep fund të mirë dredhive të tradhtarëve.
 
-[151] Ministri.
+[^151]: Ministri.
 
 # 1649
 
@@ -6982,9 +6990,9 @@ Dhe nisi të kontrollojë barrët e tyre para barrës së vëllait të Jusufit. 
 
 # 1673
 
-(Bijtë e Jakubit) thanë: “Nëse ka vjedhur, më parë ka vjedhur edhe vëllai i tij!”[152] Jusufi heshti për këtë dhe nuk shpalli gjë, por mendoi në vetvete: “Ju jeni në pozitë më të keqe. Allahu është më i dijshëm për ato që thoni ju”.
+(Bijtë e Jakubit) thanë: “Nëse ka vjedhur, më parë ka vjedhur edhe vëllai i tij!”[^152] Jusufi heshti për këtë dhe nuk shpalli gjë, por mendoi në vetvete: “Ju jeni në pozitë më të keqe. Allahu është më i dijshëm për ato që thoni ju”.
 
-[152] Disa komentues të Kuranit (midis të cilëve edhe Taberiu), thonë se ky pohim i referohet një ngjarjeje, kur Jusufi ishte i vogël. Atë kohë ai i kishte vjedhur gjyshit nga nëna, që ishte pagan, një statujë të vogël idhulli dhe ia kishte thyer.
+[^152]: Disa komentues të Kuranit (midis të cilëve edhe Taberiu), thonë se ky pohim i referohet një ngjarjeje, kur Jusufi ishte i vogël. Atë kohë ai i kishte vjedhur gjyshit nga nëna, që ishte pagan, një statujë të vogël idhulli dhe ia kishte thyer.
 
 # 1674
 
@@ -7000,9 +7008,9 @@ Meqë e humbën shpresën në të (Jusufin), u shpërndanë dhe u këshilluan fs
 
 # 1677
 
-Kthehuni te babai juaj dhe thoni: “O babai ynë, djali yt ka vjedhur. Ne dëshmojmë vetëm për atë që dimë. Ne nuk mund ta parashikonim të panjohurën[153].
+Kthehuni te babai juaj dhe thoni: “O babai ynë, djali yt ka vjedhur. Ne dëshmojmë vetëm për atë që dimë. Ne nuk mund ta parashikonim të panjohurën[^153].
 
-[153] Pra, nuk mund ta dinim faktin se Beniamini do të vidhte.
+[^153]: Pra, nuk mund ta dinim faktin se Beniamini do të vidhte.
 
 # 1678
 
@@ -7150,9 +7158,9 @@ Ata të kërkojnë ty me ngut t’u sjellësh të keqen para së mirës, ndonës
 
 # 1714
 
-Jobesimtarët thonë: “Sikur t’i ishte dërguar atij[154] një mrekulli nga Zoti i tij?” Në të vërtetë, ti je vetëm paralajmërues. E, për çdo popull ka udhërrëfyes.
+Jobesimtarët thonë: “Sikur t’i ishte dërguar atij[^154] një mrekulli nga Zoti i tij?” Në të vërtetë, ti je vetëm paralajmërues. E, për çdo popull ka udhërrëfyes.
 
-[154] Profetit Muhamed (a.s.).
+[^154]: Profetit Muhamed (a.s.).
 
 # 1715
 
@@ -7248,10 +7256,11 @@ Dhe, kështu Ne të dërguam ty tek një popull, para të cilit kanë kaluar shu
 
 # 1738
 
-(Idhujtarët e Mekës thonë:) Sikur të kishte një Kuran me të cilin të lëviznin malet ose të copëtohej toka, ose të flisnin të vdekurit (që të besojmë Muhamedin)? Jo, e gjithë çështja[155] i takon (vetëm) Allahut. Vallë, a nuk e dinë ata që besojnë se sikur të donte Allahu, do t’i kishte udhëzuar të gjithë njerëzit (në besim)?! Kurse, jobesimtarët (e Mekës), për atë që kanë bërë, vazhdon t’i godasë shkatërrimi apo të bjerë pranë shtëpive të tyre, derisa të kryhet premtimi i Allahut[156]. Nuk ka dyshim se Allahu e kryen premtimin e Tij.
+(Idhujtarët e Mekës thonë:) Sikur të kishte një Kuran me të cilin të lëviznin malet ose të copëtohej toka, ose të flisnin të vdekurit (që të besojmë Muhamedin)? Jo, e gjithë çështja[^155] i takon (vetëm) Allahut. Vallë, a nuk e dinë ata që besojnë se sikur të donte Allahu, do t’i kishte udhëzuar të gjithë njerëzit (në besim)?! Kurse, jobesimtarët (e Mekës), për atë që kanë bërë, vazhdon t’i godasë shkatërrimi apo të bjerë pranë shtëpive të tyre, derisa të kryhet premtimi i Allahut[^156]. Nuk ka dyshim se Allahu e kryen premtimin e Tij.
 
-[155] D.m.th. besimi apo mosbesimi i idhujtarëve.
-[156] Çlirimi i Mekës.
+[^155]: D.m.th. besimi apo mosbesimi i idhujtarëve.
+
+[^156]: Çlirimi i Mekës.
 
 # 1739
 
@@ -7291,9 +7300,9 @@ Edhe nëse Ne të tregojmë ty nga dënimi që u kemi premtuar atyre apo ta marr
 
 # 1748
 
-A nuk e shohin ata se Ne po ua zvogëlojmë tokën[157] nga skajet e saj? Allahu gjykon, dhe askush nuk mund ta thyejë gjykimin e Tij; Ai është i shpejtë në llogari.
+A nuk e shohin ata se Ne po ua zvogëlojmë tokën[^157] nga skajet e saj? Allahu gjykon, dhe askush nuk mund ta thyejë gjykimin e Tij; Ai është i shpejtë në llogari.
 
-[157] D.m.th. po ua zvogëlojmë idhujtarëve të Mekës territorin ku shtrihet pushteti i tyre.
+[^157]: D.m.th. po ua zvogëlojmë idhujtarëve të Mekës territorin ku shtrihet pushteti i tyre.
 
 # 1749
 
@@ -7321,9 +7330,9 @@ Ne nuk kemi çuar asnjë të dërguar, përveçse në gjuhën e popullit të tij
 
 # 1755
 
-Ne e dërguam Musain me shenjat Tona (dhe i thamë): “Nxirre popullin tënd nga errësira në dritë dhe përkujtoju atyre ditët e Allahut[158]!” Vërtet, në këtë ka shenja për çdo njeri që është i durueshëm dhe falënderues.
+Ne e dërguam Musain me shenjat Tona (dhe i thamë): “Nxirre popullin tënd nga errësira në dritë dhe përkujtoju atyre ditët e Allahut[^158]!” Vërtet, në këtë ka shenja për çdo njeri që është i durueshëm dhe falënderues.
 
-[158] D.m.th. ditët e begative dhe të vështirësive që u ka dhuruar Allahu.
+[^158]: D.m.th. ditët e begative dhe të vështirësive që u ka dhuruar Allahu.
 
 # 1756
 
@@ -7443,9 +7452,9 @@ Ai ju jep gjithçka që i kërkoni. Edhe nëse përpiqeni t’i numëroni dhunti
 
 # 1785
 
-(Kujtoje) kur Ibrahimi tha: “O Zoti im, bëje të sigurt këtë qytet[159] dhe më ruaj mua dhe pasardhësit e mi nga adhurimi i idhujve!
+(Kujtoje) kur Ibrahimi tha: “O Zoti im, bëje të sigurt këtë qytet[^159] dhe më ruaj mua dhe pasardhësit e mi nga adhurimi i idhujve!
 
-[159] Mekën.
+[^159]: Mekën.
 
 # 1786
 
@@ -7549,9 +7558,9 @@ Ne i dërgojmë engjëjt vetëm me shpallje dhe dënim e atëherë (të dënuarv
 
 # 1811
 
-Sigurisht, Ne e kemi shpallur Kuranin dhe, sigurisht, Ne do ta ruajmë atë.[160]
+Sigurisht, Ne e kemi shpallur Kuranin dhe, sigurisht, Ne do ta ruajmë atë.[^160]
 
-[160] Ky varg na tregon se Zoti është mbrojtës i Kuranit Fisnik deri në Ditën e Kiametit. Ne e shohim se si ka vazhduar dhe po vazhdon porosia e Profetit a.s., kur ka thënë: “Unë ju kam lënë juve Kuranin dhe fjalët (hadithet) e mia. Mbështetuni në to, se kurrë nuk do të humbni.” Edhe në këtë kohë, kur dijetarët e njohur myslimanë të botës, i pyesin për një çështje, ata duhet të përmendin një varg kuranor ose një hadith, në bazë të të cilëve jepet përgjigjja. Anasjelltas, nëse përgjigjen pa përmendur një varg kuranor ose hadith, fjalët e tyre nuk e kanë vlerën e duhur. Dijetarët e botës islame kanë për detyrë t’i studiojnë vargjet e Kuranit dhe hadithet, në mënyrë që të mos imitojnë dhe kopjojnë askënd, sepse imitimi dhe kopjimi urrehen në Fenë Islame (përkthyesi).
+[^160]: Ky varg na tregon se Zoti është mbrojtës i Kuranit Fisnik deri në Ditën e Kiametit. Ne e shohim se si ka vazhduar dhe po vazhdon porosia e Profetit a.s., kur ka thënë: “Unë ju kam lënë juve Kuranin dhe fjalët (hadithet) e mia. Mbështetuni në to, se kurrë nuk do të humbni.” Edhe në këtë kohë, kur dijetarët e njohur myslimanë të botës, i pyesin për një çështje, ata duhet të përmendin një varg kuranor ose një hadith, në bazë të të cilëve jepet përgjigjja. Anasjelltas, nëse përgjigjen pa përmendur një varg kuranor ose hadith, fjalët e tyre nuk e kanë vlerën e duhur. Dijetarët e botës islame kanë për detyrë t’i studiojnë vargjet e Kuranit dhe hadithet, në mënyrë që të mos imitojnë dhe kopjojnë askënd, sepse imitimi dhe kopjimi urrehen në Fenë Islame (përkthyesi).
 
 # 1812
 
@@ -7567,9 +7576,9 @@ Ja, kështu Ne e bëjmë mohimin të futet në zemrat e gjynahqarëve.
 
 # 1815
 
-Ata nuk e besojnë atë[161], me gjithë shembujt e popujve të kaluar.
+Ata nuk e besojnë atë[^161], me gjithë shembujt e popujve të kaluar.
 
-[161] Muhamedin (a.s.).
+[^161]: Muhamedin (a.s.).
 
 # 1816
 
@@ -7585,9 +7594,9 @@ Ne kemi krijuar yjësi në qiell dhe e kemi zbukuruar atë për shikuesin.
 
 # 1819
 
-Ne e ruajmë atë (qiellin) nga çdo djall i mallkuar[162],
+Ne e ruajmë atë (qiellin) nga çdo djall i mallkuar[^162],
 
-[162] Allahu e ruan qiellin me yje, që djajtë të mos dëgjojnë lajmet që përcjellin engjëjt për çfarë do të ndodhë në Tokë.
+[^162]: Allahu e ruan qiellin me yje, që djajtë të mos dëgjojnë lajmet që përcjellin engjëjt për çfarë do të ndodhë në Tokë.
 
 # 1820
 
@@ -7635,9 +7644,9 @@ Kur Zoti yt u tha engjëjve: “Unë do të krijoj një njeri prej baltës së t
 
 # 1831
 
-Kur t’i jap formën dhe t’i fryj prej shpirtit Tim[163], ju t’i përuleni atij në sexhde”,
+Kur t’i jap formën dhe t’i fryj prej shpirtit Tim[^163], ju t’i përuleni atij në sexhde”,
 
-[163] “t’i fryj prej shpirtit Tim”: pra, prej shpirtit të krijuar nga Allahu posaçërisht për njeriun. Shpirti i njeriut është krijesë e Allahut dhe jo pjesë e Qenies së Tij Hyjnore.
+[^163]: “t’i fryj prej shpirtit Tim”: pra, prej shpirtit të krijuar nga Allahu posaçërisht për njeriun. Shpirti i njeriut është krijesë e Allahut dhe jo pjesë e Qenies së Tij Hyjnore.
 
 # 1832
 
@@ -7673,9 +7682,9 @@ Zoti tha: “Sigurisht që do të të jepet afat
 
 # 1840
 
-deri në një ditë të caktuar."[164]
+deri në një ditë të caktuar."[^164]
 
-[164] Sipas komentuesve të Kuranit, kjo ditë mund të jetë dita kur i fryhet Surit për herë të parë, për të lajmëruar shkatërrimin e të gjithë krijesave ose një ditë tjetër të cilën e di vetëm Allahu.
+[^164]: Sipas komentuesve të Kuranit, kjo ditë mund të jetë dita kur i fryhet Surit për herë të parë, për të lajmëruar shkatërrimin e të gjithë krijesave ose një ditë tjetër të cilën e di vetëm Allahu.
 
 # 1841
 
@@ -7815,9 +7824,9 @@ Betohem për jetën tënde (o Muhamed), se ata ishin vërtet të përhumbur në 
 
 # 1875
 
-Ata i kaploi zëri i tmerrshëm (i Xhebrailit) kur lindi Dielli,[165]
+Ata i kaploi zëri i tmerrshëm (i Xhebrailit) kur lindi Dielli,[^165]
 
-[165] Banorët e Sodomës, qytetit të Lutit, pësuan një sërë dënimesh, deri në shkatërrimin e plotë. Dënimi i parë ishte britma shurdhuese e engjëllit Xhebrail, në të lindur të diellit.
+[^165]: Banorët e Sodomës, qytetit të Lutit, pësuan një sërë dënimesh, deri në shkatërrimin e plotë. Dënimi i parë ishte britma shurdhuese e engjëllit Xhebrail, në të lindur të diellit.
 
 # 1876
 
@@ -8017,9 +8026,9 @@ S’ka dyshim se Allahu di gjithçka që ata fshehin dhe që shfaqin haptazi. Me
 
 # 1925
 
-Kur atyre[166] u thuhet: “Çfarë ka shpallur Zoti juaj?” Ata thonë: “Përrallat e popujve të lashtë”!
+Kur atyre[^166] u thuhet: “Çfarë ka shpallur Zoti juaj?” Ata thonë: “Përrallat e popujve të lashtë”!
 
-[166] Paganëve të Mekës.
+[^166]: Paganëve të Mekës.
 
 # 1926
 
@@ -8055,9 +8064,9 @@ të cilëve engjëjt ua marrin shpirtrat, duke qenë të pastër. U thonë atyre
 
 # 1934
 
-A mos presin ata gjë tjetër, veç ardhjes së engjëjve apo të urdhrit të Zotit tënd[167]?! Kështu bënë edhe ata që qenë para këtyre. Allahu nuk u bëri atyre padrejtësi, por ata i bënë të keqen vetes.
+A mos presin ata gjë tjetër, veç ardhjes së engjëjve apo të urdhrit të Zotit tënd[^167]?! Kështu bënë edhe ata që qenë para këtyre. Allahu nuk u bëri atyre padrejtësi, por ata i bënë të keqen vetes.
 
-[167] Pra, Ditës së Kiametit.
+[^167]: Pra, Ditës së Kiametit.
 
 # 1935
 
@@ -8173,9 +8182,9 @@ Sikur Allahu t’i dënonte njerëzit për shkak të mbrapshtive të tyre, nuk d
 
 # 1963
 
-Ata i veshin Allahut atë që për vete nuk e dëshirojnë[168], kurse gjuhët e tyre flasin gënjeshtra, kur thonë se ata do të kenë shpërblimin më të mirë. Nuk ka dyshim se ata i pret Zjarri, ku do të jenë të parët që do të prijnë.
+Ata i veshin Allahut atë që për vete nuk e dëshirojnë[^168], kurse gjuhët e tyre flasin gënjeshtra, kur thonë se ata do të kenë shpërblimin më të mirë. Nuk ka dyshim se ata i pret Zjarri, ku do të jenë të parët që do të prijnë.
 
-[168] Paganët e Mekës thoshin se Allahu ka vajza, ndërsa për vete nuk i dëshironin vajzat.
+[^168]: Paganët e Mekës thoshin se Allahu ka vajza, ndërsa për vete nuk i dëshironin vajzat.
 
 # 1964
 
@@ -8339,11 +8348,13 @@ Thuaj: “Atë (Kuranin) e ka zbritur Shpirti i Shenjtërisë nga Zoti yt me të
 
 # 2004
 
-Ne e dimë mirë që ata[169] thonë: “Atë[170] e mëson një njeri”! Por ai për të cilin flasin, flet në gjuhën e të huajve, kurse ky (Kurani) është në gjuhën e qartë arabe.[171]
+Ne e dimë mirë që ata[^169] thonë: “Atë[^170] e mëson një njeri”! Por ai për të cilin flasin, flet në gjuhën e të huajve, kurse ky (Kurani) është në gjuhën e qartë arabe.[^171]
 
-[169] Paganët e Mekës.
-[170] Muhamedin (a.s.).
-[171] Sipas komentuesve të Kuranit, ky varg bën fjalë për një skllav të krishterë që jetonte në Mekë e të cilit Profeti Muhamed (a.s.) i fliste herë pas here. Për këtë arsye, paganët e Mekës thoshin se ishte ky skllav që ia mësonte Muhamedit (a.s.) Kuranin. Mirëpo ai ishte i huaj dhe nuk dinte mirë arabisht, prandaj nuk kishte mundësi që t’i mësonte Profetit (a.s.) Kuranin, që është në gjuhë arabe të kulluar.
+[^169]: Paganët e Mekës.
+
+[^170]: Muhamedin (a.s.).
+
+[^171]: Sipas komentuesve të Kuranit, ky varg bën fjalë për një skllav të krishterë që jetonte në Mekë e të cilit Profeti Muhamed (a.s.) i fliste herë pas here. Për këtë arsye, paganët e Mekës thoshin se ishte ky skllav që ia mësonte Muhamedit (a.s.) Kuranin. Mirëpo ai ishte i huaj dhe nuk dinte mirë arabisht, prandaj nuk kishte mundësi që t’i mësonte Profetit (a.s.) Kuranin, që është në gjuhë arabe të kulluar.
 
 # 2005
 
@@ -8427,9 +8438,9 @@ Pastaj ty të shpallëm: “Paso me sinqeritet fenë e Ibrahimit, që nuk ka qen
 
 # 2025
 
-Në të vërtetë, e Shtuna u caktua për ata që patën kundërshti në lidhje me të.[172] Sigurisht që Zoti yt do t’i gjykojë ata në Ditën e Kiametit, për çështjet, që ata nuk pajtoheshin.
+Në të vërtetë, e Shtuna u caktua për ata që patën kundërshti në lidhje me të.[^172] Sigurisht që Zoti yt do t’i gjykojë ata në Ditën e Kiametit, për çështjet, që ata nuk pajtoheshin.
 
-[172] Tradita islame tregon se, në lashtësi, dita e vërtetë e kremtes fetare ka qenë dita e premte. Pikërisht në këtë ditë, Allahu i Madhërishëm pranoi pendimin e Ademit. “Sabati”, dita e pushimit absolut për hebrenjtë, u caktua nga Allahu në një mënyrë të tillë të ashpër, si ndëshkim për bijtë e Israilit, sepse kishin kundërshti në lidhje me të premten. Të krishterët kremtuan të dielën, si gjoja dita e ringjalljes së Isait, birit të Merjemes. Ndërsa Islami e riktheu kremten e ditës së premte, por me dimensionin shpirtëror të namazit të përbashkët të xhumasë. Ndërkaq, veprimtaritë e tjera të ligjshme në këtë ditë, janë të lejuara.
+[^172]: Tradita islame tregon se, në lashtësi, dita e vërtetë e kremtes fetare ka qenë dita e premte. Pikërisht në këtë ditë, Allahu i Madhërishëm pranoi pendimin e Ademit. “Sabati”, dita e pushimit absolut për hebrenjtë, u caktua nga Allahu në një mënyrë të tillë të ashpër, si ndëshkim për bijtë e Israilit, sepse kishin kundërshti në lidhje me të premten. Të krishterët kremtuan të dielën, si gjoja dita e ringjalljes së Isait, birit të Merjemes. Ndërsa Islami e riktheu kremten e ditës së premte, por me dimensionin shpirtëror të namazit të përbashkët të xhumasë. Ndërkaq, veprimtaritë e tjera të ligjshme në këtë ditë, janë të lejuara.
 
 # 2026
 
@@ -8449,9 +8460,9 @@ Vërtet, Allahu është me ata që e kanë frikë dhe që janë punëmirë.
 
 # 2030
 
-I lavdëruar qoftë Ai që e mbarti robin e Tij (Muhamedin) natën nga Xhamia e Shenjtë (në Mekë) në Xhaminë e Largët (të Jerusalemit), rrethinën e së cilës e kemi bekuar, për t’i treguar atij disa nga mrekullitë Tona.[173] Ai, me të vërtetë, dëgjon çdo gjë dhe sheh çdo gjë.
+I lavdëruar qoftë Ai që e mbarti robin e Tij (Muhamedin) natën nga Xhamia e Shenjtë (në Mekë) në Xhaminë e Largët (të Jerusalemit), rrethinën e së cilës e kemi bekuar, për t’i treguar atij disa nga mrekullitë Tona.[^173] Ai, me të vërtetë, dëgjon çdo gjë dhe sheh çdo gjë.
 
-[173] Vargu bën fjalë për udhëtimin e mrekullueshëm që pati Profeti Muhamed (a.s.) i shoqëruar nga engjëlli Xhebrail (a.s.) brenda një nate prej Mekës në Jerusalem (e prej këtej deri në Fronin e Allahut të Madhëruar, ku u takua me Zotin).
+[^173]: Vargu bën fjalë për udhëtimin e mrekullueshëm që pati Profeti Muhamed (a.s.) i shoqëruar nga engjëlli Xhebrail (a.s.) brenda një nate prej Mekës në Jerusalem (e prej këtej deri në Fronin e Allahut të Madhëruar, ku u takua me Zotin).
 
 # 2031
 
@@ -8675,9 +8686,9 @@ Thuaj: “Thirrini ata që ju i hyjnizoni përveç Tij! Ata nuk mund t’jua lar
 
 # 2086
 
-Vetë ata që idhujtarët u luten, kërkojnë t’i afrohen Zotit të tyre, madje edhe më të afërtit, duke shpresuar mëshirën e Tij dhe duke iu frikësuar dënimit të Tij.[174] Me të vërtetë, nga dënimi i Zotit tënd duhet të ruhet gjithkush.
+Vetë ata që idhujtarët u luten, kërkojnë t’i afrohen Zotit të tyre, madje edhe më të afërtit, duke shpresuar mëshirën e Tij dhe duke iu frikësuar dënimit të Tij.[^174] Me të vërtetë, nga dënimi i Zotit tënd duhet të ruhet gjithkush.
 
-[174] Vargjet 56-57 aludojnë për engjëjt, profetët ose shenjtorët që politeistët i hyjnizojnë, duke menduar se ata mund të jenë ndërmjetës për të fituar mëshirën e Allahut.
+[^174]: Vargjet 56-57 aludojnë për engjëjt, profetët ose shenjtorët që politeistët i hyjnizojnë, duke menduar se ata mund të jenë ndërmjetës për të fituar mëshirën e Allahut.
 
 # 2087
 
@@ -8685,16 +8696,17 @@ Dhe s’ka asnjë vend që Ne nuk do ta zhdukim para Ditës së Kiametit apo që
 
 # 2088
 
-Neve nuk na pengon asgjë që të dërgojmë shenja, mirëpo ato i kanë përgënjeshtruar popujt e lashtë. Ne i dhamë fisit Themud devenë si shenjë të qartë, por ai u soll keq me atë. Ne dërgojmë shenja vetëm për t’i frikësuar njerëzit.[175]
+Neve nuk na pengon asgjë që të dërgojmë shenja, mirëpo ato i kanë përgënjeshtruar popujt e lashtë. Ne i dhamë fisit Themud devenë si shenjë të qartë, por ai u soll keq me atë. Ne dërgojmë shenja vetëm për t’i frikësuar njerëzit.[^175]
 
-[175] Fjalët e fundit të këtij vargu duket se thonë që pas Kuranit, shenjat e vetme që Allahu do të dërgojë, do të jenë kataklizmat dhe fatkeqësitë për të frikësuar njerëzit.
+[^175]: Fjalët e fundit të këtij vargu duket se thonë që pas Kuranit, shenjat e vetme që Allahu do të dërgojë, do të jenë kataklizmat dhe fatkeqësitë për të frikësuar njerëzit.
 
 # 2089
 
-(Kujto) kur Ne të thamë: “Me të vërtetë, Zoti yt, do të të mbrojë nga njerëzit”![176] Vizionin që ta treguam, e bëmë vetëm sprovë për njerëzit, ashtu si dhe pemën e mallkuar në Kuran[177]. Dhe Ne i frikësojmë (paralajmërojmë) ata, por kjo vetëm u shton mohimin e madh.
+(Kujto) kur Ne të thamë: “Me të vërtetë, Zoti yt, do të të mbrojë nga njerëzit”![^176] Vizionin që ta treguam, e bëmë vetëm sprovë për njerëzit, ashtu si dhe pemën e mallkuar në Kuran[^177]. Dhe Ne i frikësojmë (paralajmërojmë) ata, por kjo vetëm u shton mohimin e madh.
 
-[176] Fjalë për fjalë: “Me të vërtetë, Zoti yt i ka përfshirë të gjithë njerëzit.”
-[177] Bëhet fjalë për vizionet që pati Profeti Muhamed (a.s.) gjatë udhëtimit për të cilin bën fjalë vargu i parë i kësaj sureje. Rrëfimi për këtë udhëtim shkaktoi shumë të qeshura te jobesimtarët mekas. Po ashtu, jobesimtarët mekas qeshnin edhe me pemën e mallkuar të zekum-it, që Allahu e përmend shpesh në Kuran, si pemë, frutat e neveritshme të së cilës do të jenë ushqim për të dënuarit në zjarrin e Xhehenemit. Mekasit thoshin se si kishte mundësi, që në mes të një zjarri, që shkrin gurët dhe metalet, të rritet një pemë dhe me fodullëk e mohonin Fjalën dhe fuqinë e pakufishme të Allahut për të bërë gjithçka.
+[^176]: Fjalë për fjalë: “Me të vërtetë, Zoti yt i ka përfshirë të gjithë njerëzit.”
+
+[^177]: Bëhet fjalë për vizionet që pati Profeti Muhamed (a.s.) gjatë udhëtimit për të cilin bën fjalë vargu i parë i kësaj sureje. Rrëfimi për këtë udhëtim shkaktoi shumë të qeshura te jobesimtarët mekas. Po ashtu, jobesimtarët mekas qeshnin edhe me pemën e mallkuar të zekum-it, që Allahu e përmend shpesh në Kuran, si pemë, frutat e neveritshme të së cilës do të jenë ushqim për të dënuarit në zjarrin e Xhehenemit. Mekasit thoshin se si kishte mundësi, që në mes të një zjarri, që shkrin gurët dhe metalet, të rritet një pemë dhe me fodullëk e mohonin Fjalën dhe fuqinë e pakufishme të Allahut për të bërë gjithçka.
 
 # 2090
 
@@ -8750,9 +8762,9 @@ Ata u përpoqën të të largonin ty (Muhamed) nga ai (Kuran), që të kemi shpa
 
 # 2103
 
-Dhe sikur mos të të kishim forcuar Ne, gati do të kishe anuar pak nga ata,[178]
+Dhe sikur mos të të kishim forcuar Ne, gati do të kishe anuar pak nga ata,[^178]
 
-[178] Vargjet 73-74 bëjnë fjalë për një propozim që idhujtarët mekas i bënë Profetit Muhamed (a.s.): ata do ta respektonin Zotin për të Cilin ai fliste, nëse ai do të respektonte disa nga zotat e tyre. I shtyrë nga përkushtimi i tij, sepse vuante kur dëgjonte idhujtarët të shanin Allahun, Muhamedi (a.s.) për pak sa s’e mori në konsideratë këtë propozim. Mirëpo Allahu i Madhëruar ndërhyri me Shpalljen e Tij dhe e forcoi Profetin (a.s.).
+[^178]: Vargjet 73-74 bëjnë fjalë për një propozim që idhujtarët mekas i bënë Profetit Muhamed (a.s.): ata do ta respektonin Zotin për të Cilin ai fliste, nëse ai do të respektonte disa nga zotat e tyre. I shtyrë nga përkushtimi i tij, sepse vuante kur dëgjonte idhujtarët të shanin Allahun, Muhamedi (a.s.) për pak sa s’e mori në konsideratë këtë propozim. Mirëpo Allahu i Madhëruar ndërhyri me Shpalljen e Tij dhe e forcoi Profetin (a.s.).
 
 # 2104
 
@@ -8816,9 +8828,9 @@ Në këtë Kuran, Ne u shpjegojmë njerëzve gjithfarë shembujsh, por shumica e
 
 # 2119
 
-Ata[179] thonë: “Ne nuk do të të besojmë (o Muhamed), derisa të bësh, që të shpërthejë nga toka një gurrë uji për ne,
+Ata[^179] thonë: “Ne nuk do të të besojmë (o Muhamed), derisa të bësh, që të shpërthejë nga toka një gurrë uji për ne,
 
-[179] Jobesimtarët mekas.
+[^179]: Jobesimtarët mekas.
 
 # 2120
 
@@ -8938,10 +8950,11 @@ Dhe, Ne do ta bëjmë të shkretë gjithçka, që gjendet në të.
 
 # 2149
 
-Vallë, a mendon ti se banorët e Shpellës[180] dhe Rakimit[181] ishin një çudi nga mrekullitë Tona?
+Vallë, a mendon ti se banorët e Shpellës[^180] dhe Rakimit[^181] ishin një çudi nga mrekullitë Tona?
 
-[180] Banorët e Shpellës ishin disa të rinj monoteistë, të arratisur nga qyteti i tyre, për t’i shpëtuar persekutimit të një tirani pagan, që donte t’i detyronte të hiqnin dorë nga besimi i tyre. Për të ruajtur pastërtinë e këtij besimi, ata u strehuan në një shpellë jashtë qytetit dhe iu dorëzuan mëshirës hyjnore. Allahu i Madhëruar i bëri të flenë për treqind vjet dhe i zgjoi, kur gjendja në qytet kishte ndryshuar: banorët e tij ishin bërë monoteistë dhe qyteti qeverisej nga një mbret i urtë e i devotshëm. Ringjalljen e tyre Allahu e bëri mrekulli për banorët e qytetit (dhe për tërë njerëzimin) që vërtetonte ringjalljen e plotë, ngaqë ata ishin ndarë në dy grupe: njëri grup thoshte se ishte veç shpirti ai që ringjallej, kurse grupi tjetër thoshte se ringjallej edhe trupi.
-[181] Rakim mund të jetë emri i një lumi që kalonte pranë Shpellës ose një tabelë në hyrje të Shpellës me emrat e banorëve të saj, ose emri i qenit të tyre.
+[^180]: Banorët e Shpellës ishin disa të rinj monoteistë, të arratisur nga qyteti i tyre, për t’i shpëtuar persekutimit të një tirani pagan, që donte t’i detyronte të hiqnin dorë nga besimi i tyre. Për të ruajtur pastërtinë e këtij besimi, ata u strehuan në një shpellë jashtë qytetit dhe iu dorëzuan mëshirës hyjnore. Allahu i Madhëruar i bëri të flenë për treqind vjet dhe i zgjoi, kur gjendja në qytet kishte ndryshuar: banorët e tij ishin bërë monoteistë dhe qyteti qeverisej nga një mbret i urtë e i devotshëm. Ringjalljen e tyre Allahu e bëri mrekulli për banorët e qytetit (dhe për tërë njerëzimin) që vërtetonte ringjalljen e plotë, ngaqë ata ishin ndarë në dy grupe: njëri grup thoshte se ishte veç shpirti ai që ringjallej, kurse grupi tjetër thoshte se ringjallej edhe trupi.
+
+[^181]: Rakim mund të jetë emri i një lumi që kalonte pranë Shpellës ose një tabelë në hyrje të Shpellës me emrat e banorëve të saj, ose emri i qenit të tyre.
 
 # 2150
 
@@ -8969,15 +8982,15 @@ Ky populli ynë ka zgjedhur në vend të Tij zota të tjerë, ndonëse ata nuk u
 
 # 2156
 
-Kur ju t’i lini ata dhe gjithçka që adhurojnë në vend të Allahut, gjeni strehë në shpellë: Zoti juaj do t’ju mbulojë me mëshirën e Tij dhe do t’ju përgatisë mënyrën nga e cila do të keni dobi”.[182]
+Kur ju t’i lini ata dhe gjithçka që adhurojnë në vend të Allahut, gjeni strehë në shpellë: Zoti juaj do t’ju mbulojë me mëshirën e Tij dhe do t’ju përgatisë mënyrën nga e cila do të keni dobi”.[^182]
 
-[182] Në vargun 16, ligjërimi është në vetën e dytë shumës, por këto janë fjalët që të rinjtë i drejtonin njëri-tjetrit. Kjo është një nga strukturat sintaksore të arabishtes.
+[^182]: Në vargun 16, ligjërimi është në vetën e dytë shumës, por këto janë fjalët që të rinjtë i drejtonin njëri-tjetrit. Kjo është një nga strukturat sintaksore të arabishtes.
 
 # 2157
 
-Ti (o Muhamed) do ta kishe parë Diellin kur lindte, se si anohej nga e djathta e shpellës së tyre dhe, kur perëndonte, ata i linte në anën e majtë, ndërkohë që ata gjendeshin në mesin e saj.[183] Kjo është nga shenjat e Allahut. Sa për atë, që Allahu e udhëzon në rrugë të drejtë, pikërisht ai është i udhëzuari. E sa për atë, që Ai e lë në humbje, ti, me siguri, nuk do të mund t’i gjesh mbrojtës që ta udhëzojë.
+Ti (o Muhamed) do ta kishe parë Diellin kur lindte, se si anohej nga e djathta e shpellës së tyre dhe, kur perëndonte, ata i linte në anën e majtë, ndërkohë që ata gjendeshin në mesin e saj.[^183] Kjo është nga shenjat e Allahut. Sa për atë, që Allahu e udhëzon në rrugë të drejtë, pikërisht ai është i udhëzuari. E sa për atë, që Ai e lë në humbje, ti, me siguri, nuk do të mund t’i gjesh mbrojtës që ta udhëzojë.
 
-[183] Pra, Allahu e kishte bërë diellin të lëvizte në mënyrë të atillë, që rrezet e tij, të mos hynin në shpellë, për të mos e nxehur shumë atë.
+[^183]: Pra, Allahu e kishte bërë diellin të lëvizte në mënyrë të atillë, që rrezet e tij, të mos hynin në shpellë, për të mos e nxehur shumë atë.
 
 # 2158
 
@@ -8989,9 +9002,9 @@ Kështu pra, Ne i zgjuam që të pyesnin njëri-tjetrin. Njëri nga ata tha: “
 
 # 2160
 
-Me të vërtetë, nëse ju zbulojnë, ata do t’ju gjuajnë me gurë ose do t’ju kthejnë (me forcë) në fenë e tyre dhe atëherë nuk do të shpëtoni kurrsesi”![184]
+Me të vërtetë, nëse ju zbulojnë, ata do t’ju gjuajnë me gurë ose do t’ju kthejnë (me forcë) në fenë e tyre dhe atëherë nuk do të shpëtoni kurrsesi”![^184]
 
-[184] Të rinjtë flasin ndërmjet tyre. Shih shënimin për vargun 16 në lidhje me përdorimin e vetës së dytë të numrit shumës në gjuhën arabe.
+[^184]: Të rinjtë flasin ndërmjet tyre. Shih shënimin për vargun 16 në lidhje me përdorimin e vetës së dytë të numrit shumës në gjuhën arabe.
 
 # 2161
 
@@ -9147,9 +9160,9 @@ Por Zoti yt është Falësi plot mëshirë. Sikur t’i dënonte ata për çfar�
 
 # 2199
 
-Ato qytete[185] Ne i shkatërruam kur banorët e tyre bënë të këqija dhe, për shkatërrimin e tyre, Ne kishim caktuar një afat.
+Ato qytete[^185] Ne i shkatërruam kur banorët e tyre bënë të këqija dhe, për shkatërrimin e tyre, Ne kishim caktuar një afat.
 
-[185] Vargu bën fjalë për qytetet e shkatërruara të fiseve Ad e Themud, të popullit të Lutit etj., që u shkatërruan për shkak të ligësisë dhe shthurjes së banorëve të tyre.
+[^185]: Vargu bën fjalë për qytetet e shkatërruara të fiseve Ad e Themud, të popullit të Lutit etj., që u shkatërruan për shkak të ligësisë dhe shthurjes së banorëve të tyre.
 
 # 2200
 
@@ -9173,9 +9186,9 @@ Ai u përgjigj: “Shiko! Kur ndaluam tek ai shkëmbi, unë e harrova peshkun. V
 
 # 2205
 
-dhe gjetën një prej robërve Tanë,[186] të cilit i patëm dhuruar mëshirë prej Nesh dhe i kishim mësuar nga ana Jonë dije.
+dhe gjetën një prej robërve Tanë,[^186] të cilit i patëm dhuruar mëshirë prej Nesh dhe i kishim mësuar nga ana Jonë dije.
 
-[186] Sipas transmetimeve të vërteta nga Profeti Muhamed (a.s.), njeriu për të cilin bën fjalë ky varg quhej Hidër.
+[^186]: Sipas transmetimeve të vërteta nga Profeti Muhamed (a.s.), njeriu për të cilin bën fjalë ky varg quhej Hidër.
 
 # 2206
 
@@ -9307,9 +9320,9 @@ Kështu, ata (Jexhuxhët dhe Mexhuxhët) nuk mundën që ta kapërcenin pendën 
 
 # 2238
 
-Ai tha: “Kjo është mëshirë nga Zoti im! Kur të vijë premtimi[187] i Zotit tim, Ai do ta rrafshojë atë (pendën). Premtimi i Zotit tim është (gjithnjë) i vërtetë.
+Ai tha: “Kjo është mëshirë nga Zoti im! Kur të vijë premtimi[^187] i Zotit tim, Ai do ta rrafshojë atë (pendën). Premtimi i Zotit tim është (gjithnjë) i vërtetë.
 
-[187] Dita e Kiametit.
+[^187]: Dita e Kiametit.
 
 # 2239
 
@@ -9377,9 +9390,9 @@ Kur ai e thirri Zotin e vet me lutje të fshehtë
 
 # 2255
 
-Unë u frikësohem (sjelljeve të) të afërmve të mi pas meje[188], ndërsa bashkëshortja ime është beronjë; andaj, më dhuro nga ana Jote një pasardhës,
+Unë u frikësohem (sjelljeve të) të afërmve të mi pas meje[^188], ndërsa bashkëshortja ime është beronjë; andaj, më dhuro nga ana Jote një pasardhës,
 
-[188] Zekerija kishte frikë se, pas vdekjes së tij, adhurimi i Allahut nuk do të kryhej në mënyrën e duhur. Ai nuk kishte një bir që ta trashëgonte funksionin e tij prej kujdestari të Tempullit të Sulejmanit, prandaj iu lut Allahut që t’i dhuronte një trashëgimtar të ndriçuar nga ana e Tij.
+[^188]: Zekerija kishte frikë se, pas vdekjes së tij, adhurimi i Allahut nuk do të kryhej në mënyrën e duhur. Ai nuk kishte një bir që ta trashëgonte funksionin e tij prej kujdestari të Tempullit të Sulejmanit, prandaj iu lut Allahut që t’i dhuronte një trashëgimtar të ndriçuar nga ana e Tij.
 
 # 2256
 
@@ -9427,9 +9440,9 @@ Dhe trego (o Muhamed) në Libër për Merjemen, kur u tërhoq nga familja e saj 
 
 # 2267
 
-duke e fshehur veten nga ata. Ne i dërguam Shpirtin Tonë,[189] i cili iu paraqit asaj si një njeri i plotë.
+duke e fshehur veten nga ata. Ne i dërguam Shpirtin Tonë,[^189] i cili iu paraqit asaj si një njeri i plotë.
 
-[189] D.m.th. engjëllin Xhebrail. Allahu e ka quajtur atë “Shpirtin Tonë” për ta nderuar dhe për ta ngritur lart, jo se Xhebraili është pjesë e Qenies Hyjnore. Ai është një prej shpirtrave më të nderuar që ka krijuar Allahu.
+[^189]: D.m.th. engjëllin Xhebrail. Allahu e ka quajtur atë “Shpirtin Tonë” për ta nderuar dhe për ta ngritur lart, jo se Xhebraili është pjesë e Qenies Hyjnore. Ai është një prej shpirtrave më të nderuar që ka krijuar Allahu.
 
 # 2268
 
@@ -9473,9 +9486,9 @@ Dhe u kthye te populli i vet, duke mbajtur fëmijën. Ata i thanë: “O Merjeme
 
 # 2278
 
-O motra e Harunit![190] Babai yt nuk ka qenë njeri i keq, as nëna jote nuk ka qenë grua e shthurur.”
+O motra e Harunit![^190] Babai yt nuk ka qenë njeri i keq, as nëna jote nuk ka qenë grua e shthurur.”
 
-[190] D.m.th. “O grua e virtytshme”. Meqenëse Haruni është një profet i nderuar, i përmendur në Kuran dhe, meqenëse Merjemja rridhte nga fisi i tij, ajo thirret në këtë kontekst me shprehjen “o motra e Harunit”. Në arabisht dhe, në përgjithësi, në gjuhët semitike (hebraisht, aramaisht etj.), shprehje të tilla idiomatike si: “o babai i ...”, “o biri i ...”, “o vëllai i ...” etj., nuk presupozojnë një lidhje të drejtpërdrejtë gjaku, por përdoren për të treguar një përkatësi fisnore ose një përkatësi fisnike.
+[^190]: D.m.th. “O grua e virtytshme”. Meqenëse Haruni është një profet i nderuar, i përmendur në Kuran dhe, meqenëse Merjemja rridhte nga fisi i tij, ajo thirret në këtë kontekst me shprehjen “o motra e Harunit”. Në arabisht dhe, në përgjithësi, në gjuhët semitike (hebraisht, aramaisht etj.), shprehje të tilla idiomatike si: “o babai i ...”, “o biri i ...”, “o vëllai i ...” etj., nuk presupozojnë një lidhje të drejtpërdrejtë gjaku, por përdoren për të treguar një përkatësi fisnore ose një përkatësi fisnike.
 
 # 2279
 
@@ -9511,9 +9524,9 @@ Allahu nuk ka mbetur të marrë dikë për bir. Qoftë i lavdëruar Ai! Kur vend
 
 # 2287
 
-E megjithatë, sektet u përçanë në lidhje me atë.[191] Mjerë ata që nuk besojnë për takimin e një Dite të madhe (Ditës së Kiametit)!
+E megjithatë, sektet u përçanë në lidhje me atë.[^191] Mjerë ata që nuk besojnë për takimin e një Dite të madhe (Ditës së Kiametit)!
 
-[191] Vargu i referohet përçarjeve ekzistuese ndërmjet të krishterëve në kohën e shpalljes së Kuranit.
+[^191]: Vargu i referohet përçarjeve ekzistuese ndërmjet të krishterëve në kohën e shpalljes së Kuranit.
 
 # 2288
 
@@ -9693,10 +9706,11 @@ Ata kanë marrë zota, në vend të Allahut, për t’i pasur ndihmës.
 
 # 2332
 
-Por jo! Ata[192] do ta mohojnë adhurimin e tyre[193] dhe do të bëhen armiqtë e tyre.
+Por jo! Ata[^192] do ta mohojnë adhurimin e tyre[^193] dhe do të bëhen armiqtë e tyre.
 
-[192] Zotat e rremë.
-[193] Idhujtarëve.
+[^192]: Zotat e rremë.
+
+[^193]: Idhujtarëve.
 
 # 2333
 
@@ -9936,9 +9950,9 @@ Shkoni te Faraoni! Ai, me të vërtetë, i ka shkelur të gjithë kufijtë!
 
 # 2392
 
-Flitini atij fjalë të buta, se ndoshta kujtohet[194] a frikësohet!”
+Flitini atij fjalë të buta, se ndoshta kujtohet[^194] a frikësohet!”
 
-[194] “ndoshta kujtohet”: pra, ndoshta i kujtohet monoteizmi që kishte predikuar Jusufi (a.s.) në Egjipt, shumë kohë para Musait (a.s.).
+[^194]: “ndoshta kujtohet”: pra, ndoshta i kujtohet monoteizmi që kishte predikuar Jusufi (a.s.) në Egjipt, shumë kohë para Musait (a.s.).
 
 # 2393
 
@@ -9998,9 +10012,9 @@ Ne do të të sjellim ty një magji të ngjashme. Cakto, midis nesh dhe teje, nj
 
 # 2407
 
-(Musai) tha: “Takimi me ju është në ditën e kremtes[195] dhe njerëzia le të tubohen paradite”.
+(Musai) tha: “Takimi me ju është në ditën e kremtes[^195] dhe njerëzia le të tubohen paradite”.
 
-[195] Sipas transmetimeve, bëhet fjalë për një festë të përvitshme të lumit Nil.
+[^195]: Sipas transmetimeve, bëhet fjalë për një festë të përvitshme të lumit Nil.
 
 # 2408
 
@@ -10104,9 +10118,9 @@ Vërtet, Unë jam Falës për atë që pendohet, beson e bën vepra të mira dhe
 
 # 2433
 
-(Allahu) tha: “Ne e vumë në provë popullin tënd gjatë mungesës tënde, e Samiriu[196] i nxori ata nga rruga e drejtë”.
+(Allahu) tha: “Ne e vumë në provë popullin tënd gjatë mungesës tënde, e Samiriu[^196] i nxori ata nga rruga e drejtë”.
 
-[196] Komentuesit e Kuranit kanë mendime të ndryshme rreth personit të Samiriut. Emri i tij duket se tregon origjinë gjeografike. Sipas Ibn Abbasit, Samiriu ishte nga një popull që ushtronte kultin e adhurimit të lopës. Ky fakt dhe emri i tij përkojnë me krahinën e Samarisë, në Palestinën Qendrore, ku, në vijim, jetuan njerëz që kishin një kult të përzier judeo-asirian, duke adhuruar Jehovain (emri që hebrenjtë i japin Zotit), të përfaqësuar në një viç.
+[^196]: Komentuesit e Kuranit kanë mendime të ndryshme rreth personit të Samiriut. Emri i tij duket se tregon origjinë gjeografike. Sipas Ibn Abbasit, Samiriu ishte nga një popull që ushtronte kultin e adhurimit të lopës. Ky fakt dhe emri i tij përkojnë me krahinën e Samarisë, në Palestinën Qendrore, ku, në vijim, jetuan njerëz që kishin një kult të përzier judeo-asirian, duke adhuruar Jehovain (emri që hebrenjtë i japin Zotit), të përfaqësuar në një viç.
 
 # 2434
 
@@ -10150,15 +10164,15 @@ që të vije tek unë?! A mos e kundërshtove urdhrin tim?”
 
 # 2444
 
-(Samiriu) u përgjigj: “Unë pashë atë, që ata nuk e panë. Mora një grusht nga gjurmët e të Dërguarit dhe atë e hodha mbi viçin dhe kështu më nxiti vetja (e keqja) ime”.[197]
+(Samiriu) u përgjigj: “Unë pashë atë, që ata nuk e panë. Mora një grusht nga gjurmët e të Dërguarit dhe atë e hodha mbi viçin dhe kështu më nxiti vetja (e keqja) ime”.[^197]
 
-[197] Shumica e komentuesve të Kuranit, bazuar në një transmetim nga Ali Ibn Ebi Talibi (r.a.), thonë se Samiriu kishte parë Xhebrailin (a.s.) mbi një kalë teksa zbriti për të marrë Musain dhe u ngjit në qiell bashkë me të. Kështu, Samiriu mori një grusht dhé nga gjurma e kalit të Xhebrailit dhe ia hodhi viçit prej floriri, i cili mori jetë.
+[^197]: Shumica e komentuesve të Kuranit, bazuar në një transmetim nga Ali Ibn Ebi Talibi (r.a.), thonë se Samiriu kishte parë Xhebrailin (a.s.) mbi një kalë teksa zbriti për të marrë Musain dhe u ngjit në qiell bashkë me të. Kështu, Samiriu mori një grusht dhé nga gjurma e kalit të Xhebrailit dhe ia hodhi viçit prej floriri, i cili mori jetë.
 
 # 2445
 
-(Musai) tha: “Atëherë ik! Tërë jetën do të të duhet të thuash: ‘Mos më prekni’.[198] Por të është caktuar një premtim, i cili doemos do të zbatohet. Shikoje zotin tënd që ti e ke adhuruar vazhdimisht: Ne do ta djegim e pastaj do ta hedhim në det hirin e tij.
+(Musai) tha: “Atëherë ik! Tërë jetën do të të duhet të thuash: ‘Mos më prekni’.[^198] Por të është caktuar një premtim, i cili doemos do të zbatohet. Shikoje zotin tënd që ti e ke adhuruar vazhdimisht: Ne do ta djegim e pastaj do ta hedhim në det hirin e tij.
 
-[198] Musai e mallkoi Samiriun që të mos e prekte askush dhe që të përfundonte në Xhehenem. Thuhet se më pas Samiriut i ra një sëmundje e rëndë në lëkurë dhe nuk mund të duronte as prekjen më të vogël.
+[^198]: Musai e mallkoi Samiriun që të mos e prekte askush dhe që të përfundonte në Xhehenem. Thuhet se më pas Samiriut i ra një sëmundje e rëndë në lëkurë dhe nuk mund të duronte as prekjen më të vogël.
 
 # 2446
 
@@ -10202,9 +10216,9 @@ nuk do të shohësh në të as lugina, as brigje.”
 
 # 2456
 
-Atë ditë, ata do të shkojnë pas thirrësit,[199] pa iu shmangur dot atij dhe do t’i ulin zërat para të Gjithëmëshirshmit. Ti nuk do të dëgjosh tjetër, veç pëshpëritjes.
+Atë ditë, ata do të shkojnë pas thirrësit,[^199] pa iu shmangur dot atij dhe do t’i ulin zërat para të Gjithëmëshirshmit. Ti nuk do të dëgjosh tjetër, veç pëshpëritjes.
 
-[199] Engjëllit Israfil që i fryn bririt të ringjalljes.
+[^199]: Engjëllit Israfil që i fryn bririt të ringjalljes.
 
 # 2457
 
@@ -10228,9 +10242,9 @@ Dhe kështu, Ne e kemi zbritur Kuranin në gjuhën arabe dhe i kemi shpjeguar pa
 
 # 2462
 
-I Lartësuar qoftë Allahu, Sunduesi i Vërtetë! Mos nxito për ta lexuar Kuranin para se të përfundojë shpallja e tij dhe thuaj: “O Zoti im, shtoma dijeninë!”[200]
+I Lartësuar qoftë Allahu, Sunduesi i Vërtetë! Mos nxito për ta lexuar Kuranin para se të përfundojë shpallja e tij dhe thuaj: “O Zoti im, shtoma dijeninë!”[^200]
 
-[200] Zoti ka urdhëruar kërkimin dhe përvetësimin e diturisë, sepse dituria është një det i pafund. Ai na ka këshilluar për ta marrë diturinë në baza të shëndosha dhe na ka dërguar profetë, për të na dhënë dituri të saktë e të qartë. Po ashtu, Ai na ka këshilluar që të mos flasim pa argumente dhe pa baza të shëndosha. Andaj, dituria me hamendje nuk mund të pranohet (përkthyesi).
+[^200]: Zoti ka urdhëruar kërkimin dhe përvetësimin e diturisë, sepse dituria është një det i pafund. Ai na ka këshilluar për ta marrë diturinë në baza të shëndosha dhe na ka dërguar profetë, për të na dhënë dituri të saktë e të qartë. Po ashtu, Ai na ka këshilluar që të mos flasim pa argumente dhe pa baza të shëndosha. Andaj, dituria me hamendje nuk mund të pranohet (përkthyesi).
 
 # 2463
 
@@ -10294,9 +10308,9 @@ Sikur të mos ishte një fjalë e mëparshme nga Zoti yt dhe një afat tashmë i
 
 # 2478
 
-Prandaj duroje (o Muhamed) atë që thonë ata dhe lavdëroje me falënderim Zotin tënd para lindjes së diellit dhe para perëndimit të tij! Lavdëroje Atë edhe në orët e natës, edhe në skajet e ditës, që të mund të kënaqesh.[201]
+Prandaj duroje (o Muhamed) atë që thonë ata dhe lavdëroje me falënderim Zotin tënd para lindjes së diellit dhe para perëndimit të tij! Lavdëroje Atë edhe në orët e natës, edhe në skajet e ditës, që të mund të kënaqesh.[^201]
 
-[201] Ky varg thekson pesë namazet e përditshme: namazi i sabahut para lindjes së diellit, namazi i drekës në mesditë, namazi i ikindisë gjatë orëve të pasdites (para perëndimit të diellit), namazi i akshamit pas perëndimit të diellit dhe namazi i jacisë në orët e natës.
+[^201]: Ky varg thekson pesë namazet e përditshme: namazi i sabahut para lindjes së diellit, namazi i drekës në mesditë, namazi i ikindisë gjatë orëve të pasdites (para perëndimit të diellit), namazi i akshamit pas perëndimit të diellit dhe namazi i jacisë në orët e natës.
 
 # 2479
 
@@ -10336,11 +10350,13 @@ Zemrat e tyre janë të hutuara. Ndërsa ata që janë idhujtarë, flasin fshehu
 
 # 2488
 
-Ata[202] thonë: “Këto[203] janë vetëm ëndrra të turbullta! Ose ai[204] i ka trilluar ato. Madje ai është poet. Le të na sjellë një mrekulli, ashtu si i kanë sjellë të dërguarit e parë!”
+Ata[^202] thonë: “Këto[^203] janë vetëm ëndrra të turbullta! Ose ai[^204] i ka trilluar ato. Madje ai është poet. Le të na sjellë një mrekulli, ashtu si i kanë sjellë të dërguarit e parë!”
 
-[202] Pra, idhujtarët e Mekës.
-[203] Shpalljet hyjnore që përcillte Profeti Muhamed (a.s.).
-[204] Profeti Muhamed (a.s.).
+[^202]: Pra, idhujtarët e Mekës.
+
+[^203]: Shpalljet hyjnore që përcillte Profeti Muhamed (a.s.).
+
+[^204]: Profeti Muhamed (a.s.).
 
 # 2489
 
@@ -10512,9 +10528,9 @@ Dhe në Ditën e Kiametit, Ne do të vendosim peshore të sakta e askush nuk do 
 
 # 2531
 
-Ne i dhamë Musait dhe Harunit Dalluesin[205], që është dritë dhe këshillë për të devotshmit,
+Ne i dhamë Musait dhe Harunit Dalluesin[^205], që është dritë dhe këshillë për të devotshmit,
 
-[205] Teuratin, që dallon të mirën nga e keqja.
+[^205]: Teuratin, që dallon të mirën nga e keqja.
 
 # 2532
 
@@ -10686,10 +10702,11 @@ Ne iu përgjigjëm atij dhe i dhuruam Jahjain, duke ia bërë gruan të aftë (p
 
 # 2574
 
-(Kujtoje) atë që ruajti virgjërinë e saj[206]! Ne frymë brenda saj nga shpirti Ynë dhe e bëmë atë dhe birin e saj[207] mrekulli për gjithë njerëzit.
+(Kujtoje) atë që ruajti virgjërinë e saj[^206]! Ne frymë brenda saj nga shpirti Ynë dhe e bëmë atë dhe birin e saj[^207] mrekulli për gjithë njerëzit.
 
-[206] Merjemen.
-[207] Isain (a.s.).
+[^206]: Merjemen.
+
+[^207]: Isain (a.s.).
 
 # 2575
 
@@ -10757,9 +10774,9 @@ Dhe Ne nuk të kemi dërguar ty (o Muhamed), veçse si mëshirë për botët.
 
 # 2591
 
-Thuaj: “Mua më është shpallur që Zoti juaj është një Zot i vetëm; pra, a jeni myslimanë[208]?”
+Thuaj: “Mua më është shpallur që Zoti juaj është një Zot i vetëm; pra, a jeni myslimanë[^208]?”
 
-[208] D.m.th. të përulur para Zotit.
+[^208]: D.m.th. të përulur para Zotit.
 
 # 2592
 
@@ -10771,9 +10788,9 @@ Ai i di vërtet fjalët e thëna haptazi apo fshehtazi.
 
 # 2594
 
-Ndërsa unë nuk e di: a është ajo[209] sprovë për ju apo kënaqësi e përkohshme.
+Ndërsa unë nuk e di: a është ajo[^209] sprovë për ju apo kënaqësi e përkohshme.
 
-[209] Vonesa e dënimit.
+[^209]: Vonesa e dënimit.
 
 # 2595
 
@@ -10837,9 +10854,9 @@ Vërtet, ata që besojnë dhe bëjnë vepra të mira, Allahu do t’i fusë në 
 
 # 2610
 
-Kush mendon se Allahu nuk do ta ndihmojë (Muhamedin) në këtë botë dhe në botën tjetër, le të lidhë një litar në tavan e të varet! Pastaj le të shohë nëse do t’ia largojë ky veprim hidhërimin![210]
+Kush mendon se Allahu nuk do ta ndihmojë (Muhamedin) në këtë botë dhe në botën tjetër, le të lidhë një litar në tavan e të varet! Pastaj le të shohë nëse do t’ia largojë ky veprim hidhërimin![^210]
 
-[210] Allahu i Madhërishëm ironizon të gjithë armiqtë e Profetit të Tij, duke iu thënë se Ai do ta ndihmojë gjithnjë Muhamedin (a.s.). Prandaj, kush ka inat, le të vdesë nga marazi, sepse nuk mund të bëjë asgjë kundër Profetit (a.s.).
+[^210]: Allahu i Madhërishëm ironizon të gjithë armiqtë e Profetit të Tij, duke iu thënë se Ai do ta ndihmojë gjithnjë Muhamedin (a.s.). Prandaj, kush ka inat, le të vdesë nga marazi, sepse nuk mund të bëjë asgjë kundër Profetit (a.s.).
 
 # 2611
 
@@ -10847,9 +10864,9 @@ Dhe kështu, Ne e kemi zbritur Kuranin në vargje të qarta dhe, sigurisht, Alla
 
 # 2612
 
-Vërtet, si ata që kanë besuar, ashtu dhe hebrenjtë, sabi’inët, të krishterët, mexhusitë[211] e idhujtarët, Allahu do t’i gjykojë drejt të gjithë Ditën e Kiametit. Nuk ka dyshim, se Allahu është dëshmitar për çdo gjë.
+Vërtet, si ata që kanë besuar, ashtu dhe hebrenjtë, sabi’inët, të krishterët, mexhusitë[^211] e idhujtarët, Allahu do t’i gjykojë drejt të gjithë Ditën e Kiametit. Nuk ka dyshim, se Allahu është dëshmitar për çdo gjë.
 
-[211] Adhuruesit e zjarrit.
+[^211]: Adhuruesit e zjarrit.
 
 # 2613
 
@@ -10877,9 +10894,9 @@ S’ka dyshim se ata që besojnë dhe bëjnë vepra të mira, Allahu i fut në k
 
 # 2619
 
-Ata qenë udhëzuar drejt fjalës së mirë[212] dhe në rrugën e Atij që është i Denjë për t’u lavdëruar.
+Ata qenë udhëzuar drejt fjalës së mirë[^212] dhe në rrugën e Atij që është i Denjë për t’u lavdëruar.
 
-[212] Siç janë lavdërimet për Allahun, lutjet etj.
+[^212]: Siç janë lavdërimet për Allahun, lutjet etj.
 
 # 2620
 
@@ -10887,9 +10904,9 @@ Vërtet, ata që nuk besojnë dhe pengojnë njerëzit nga rruga e Allahut dhe ng
 
 # 2621
 
-Kujtoje kur Ne vendosëm për Ibrahimin vendin e Faltores[213] (duke e urdhëruar): “Mos më shoqëro asgjë (në adhurim) dhe pastroje Shtëpinë Time (nga idhujtaria), për ata që vijnë rrotull saj (në shenjë adhurimi) dhe për ata që rrinë në këmbë, përkulen dhe bien në sexhde duke u falur.
+Kujtoje kur Ne vendosëm për Ibrahimin vendin e Faltores[^213] (duke e urdhëruar): “Mos më shoqëro asgjë (në adhurim) dhe pastroje Shtëpinë Time (nga idhujtaria), për ata që vijnë rrotull saj (në shenjë adhurimi) dhe për ata që rrinë në këmbë, përkulen dhe bien në sexhde duke u falur.
 
-[213] Qabesë.
+[^213]: Qabesë.
 
 # 2622
 
@@ -10945,9 +10962,9 @@ Atyre që janë sulmuar, u lejohet (që të mbrohen), sepse u është bërë pad
 
 # 2635
 
-ata, që janë dëbuar nga vatrat e tyre padrejtësisht, vetëm sepse thanë: “Zoti ynë është Allahu.”[214] Sikur Allahu të mos u kishte dhënë njerëzve mundësinë për t’u mbrojtur nga njëri-tjetri, do të shkatërroheshin manastiret, kishat, sinagogat dhe xhamitë, në të cilat përmendet shumë emri i Allahut. Vërtet, Allahu e ndihmon këdo që e ndihmon Atë. Allahu është vërtet i Fortë dhe i Plotfuqishëm.
+ata, që janë dëbuar nga vatrat e tyre padrejtësisht, vetëm sepse thanë: “Zoti ynë është Allahu.”[^214] Sikur Allahu të mos u kishte dhënë njerëzve mundësinë për t’u mbrojtur nga njëri-tjetri, do të shkatërroheshin manastiret, kishat, sinagogat dhe xhamitë, në të cilat përmendet shumë emri i Allahut. Vërtet, Allahu e ndihmon këdo që e ndihmon Atë. Allahu është vërtet i Fortë dhe i Plotfuqishëm.
 
-[214] Profeti a.s. ka ardhur me këshilla të mira e me butësi. Ai jetoi 13 vjet midis një populli pagan dhe i duroi të gjitha të këqijat që bëri ai popull ndaj tij. Më pas Ai u largua nga vatra dhe atdheu i vet e u vendos në Medinë, 500 kilometra larg Mekës. Profeti kërkonte prej popullit mirësi, sjellje të mira dhe barazi. Pasi nuk pati sukses në këtë drejtim, pas 13 vjetësh iu dha leja për të luftuar kundër keqbërësve, duke mbrojtur veten, por jo duke e tepruar. Shih suren 2, vargun 190. Po ashtu, Muhamedi ka kërkuar që, nëse ata dëshirojnë armëpushim e marrëveshje, të ndërpritet lufta. Të gjitha këto janë sipas parimeve të Islamit. Shih suren 8, vargun 61 (përkthyesi).
+[^214]: Profeti a.s. ka ardhur me këshilla të mira e me butësi. Ai jetoi 13 vjet midis një populli pagan dhe i duroi të gjitha të këqijat që bëri ai popull ndaj tij. Më pas Ai u largua nga vatra dhe atdheu i vet e u vendos në Medinë, 500 kilometra larg Mekës. Profeti kërkonte prej popullit mirësi, sjellje të mira dhe barazi. Pasi nuk pati sukses në këtë drejtim, pas 13 vjetësh iu dha leja për të luftuar kundër keqbërësve, duke mbrojtur veten, por jo duke e tepruar. Shih suren 2, vargun 190. Po ashtu, Muhamedi ka kërkuar që, nëse ata dëshirojnë armëpushim e marrëveshje, të ndërpritet lufta. Të gjitha këto janë sipas parimeve të Islamit. Shih suren 8, vargun 61 (përkthyesi).
 
 # 2636
 
@@ -11007,9 +11024,9 @@ dhe që ata, të cilëve u është dhënë dituria, ta kuptojnë se ai (Kurani) 
 
 # 2650
 
-Ata që nuk besojnë do të vazhdojnë të dyshojnë në të (Kuran), derisa t’u vijë Ora (e Kiametit) në mënyrë të papritur ose derisa t’u vijë dënimi i Ditës Shterpë.[215]
+Ata që nuk besojnë do të vazhdojnë të dyshojnë në të (Kuran), derisa t’u vijë Ora (e Kiametit) në mënyrë të papritur ose derisa t’u vijë dënimi i Ditës Shterpë.[^215]
 
-[215] “Dita Shterpë” është Dita e Fundit. Është quajtur kështu, sepse pas saj nuk ka më ditë tjetër.
+[^215]: “Dita Shterpë” është Dita e Fundit. Është quajtur kështu, sepse pas saj nuk ka më ditë tjetër.
 
 # 2651
 
@@ -11069,9 +11086,9 @@ Ai do të gjykojë në Ditën e Kiametit për kundërshtitë, që keni pasur nd�
 
 # 2665
 
-A nuk e di ti, se Allahu di çdo gjë, që është në qiej e në Tokë? Të gjitha këto janë (shënuar) në Libër[216]. Me të vërtetë, kjo është e lehtë për Allahun.
+A nuk e di ti, se Allahu di çdo gjë, që është në qiej e në Tokë? Të gjitha këto janë (shënuar) në Libër[^216]. Me të vërtetë, kjo është e lehtë për Allahun.
 
-[216] Në Leuhi Mahfudh - Librin e Ruajtur, ku është shënuar gjithçka, që nga fillimi i krijimit e deri në Ditën e Kiametit.
+[^216]: Në Leuhi Mahfudh - Librin e Ruajtur, ku është shënuar gjithçka, që nga fillimi i krijimit e deri në Ditën e Kiametit.
 
 # 2666
 
@@ -11183,9 +11200,9 @@ Nëpërmjet tij (ujit), Ne bëjmë për ju kopshte hurmash dhe rrushi, ku ka shu
 
 # 2693
 
-si dhe pemën[217] që rritet në malin e Sinait e që u jep vaj dhe mëlmesë, atyre që e hanë.
+si dhe pemën[^217] që rritet në malin e Sinait e që u jep vaj dhe mëlmesë, atyre që e hanë.
 
-[217] D.m.th. pemën e ullirit.
+[^217]: D.m.th. pemën e ullirit.
 
 # 2694
 
@@ -11297,9 +11314,9 @@ Ata thanë: “Vallë a t’u besojmë dy njerëzve që janë si ne, ndërkohë 
 
 # 2721
 
-Kështu, ata të dy[218] i shpallën për gënjeshtarë, andaj ishin nga të shkatërruarit.
+Kështu, ata të dy[^218] i shpallën për gënjeshtarë, andaj ishin nga të shkatërruarit.
 
-[218] Musain dhe Harunin.
+[^218]: Musain dhe Harunin.
 
 # 2722
 
@@ -11359,9 +11376,9 @@ Ne nuk ngarkojmë askënd përtej mundësive të tij; te Ne është Libri që fl
 
 # 2736
 
-Por zemrat e tyre[219] janë mospërfillëse ndaj këtij (Kurani). Ata kanë punë të tjera më të këqija se këto e të cilat po vazhdojnë t’i bëjnë.
+Por zemrat e tyre[^219] janë mospërfillëse ndaj këtij (Kurani). Ata kanë punë të tjera më të këqija se këto e të cilat po vazhdojnë t’i bëjnë.
 
-[219] Jobesimtarëve të Mekës.
+[^219]: Jobesimtarëve të Mekës.
 
 # 2737
 
@@ -11465,9 +11482,9 @@ Thuaj: “Kush është Ai që ka në dorë pushtetin mbi çdo gjë, i Cili mbron
 
 # 2762
 
-Ata thonë: “Allahu.” E ti thuaju: “Atëherë, përse magjepseni”?![220]
+Ata thonë: “Allahu.” E ti thuaju: “Atëherë, përse magjepseni”?![^220]
 
-[220] Pra, përse magjepseni nga besimet tuaja të kota, deri në atë pikë, sa të mos i nënshtroheni Atij, që ka në dorë gjithçka?!
+[^220]: Pra, përse magjepseni nga besimet tuaja të kota, deri në atë pikë, sa të mos i nënshtroheni Atij, që ka në dorë gjithçka?!
 
 # 2763
 
@@ -11475,9 +11492,9 @@ Ja! Ne ua kemi zbuluar atyre të Vërtetën, por ata janë gënjeshtarë.
 
 # 2764
 
-Allahu nuk ka zgjedhur për Vete ndonjë bir dhe përveç Atij s’ka asnjë zot tjetër, përndryshe çdo zot do të merrte atë që ka krijuar dhe do të ngriheshin njëri mbi tjetrin. Qoftë i lartësuar Ai nga shpifjet e tyre![221]
+Allahu nuk ka zgjedhur për Vete ndonjë bir dhe përveç Atij s’ka asnjë zot tjetër, përndryshe çdo zot do të merrte atë që ka krijuar dhe do të ngriheshin njëri mbi tjetrin. Qoftë i lartësuar Ai nga shpifjet e tyre![^221]
 
-[221] Kjo është një logjikë shumë e pastër për të argumentuar njëshmërinë e Allahut. Në fakt, vetëm ky njësim bën që Allahu i Lartmadhëruar të mos përfshihet në zënkat “hyjnore” të përshtatshme për mitologjitë politeiste.
+[^221]: Kjo është një logjikë shumë e pastër për të argumentuar njëshmërinë e Allahut. Në fakt, vetëm ky njësim bën që Allahu i Lartmadhëruar të mos përfshihet në zënkat “hyjnore” të përshtatshme për mitologjitë politeiste.
 
 # 2765
 
@@ -11513,9 +11530,9 @@ Kur i vjen vdekja ndonjërit prej tyre (jobesimtarëve), ai thotë: “O Zoti im
 
 # 2773
 
-që të bëj vepra të mira në botën që kam lënë!” Kurrsesi! Me të vërtetë, kjo është një fjalë të cilën ai (kot) e thotë! Prapa (vdekjes së) tyre do të ketë një (kohë) ndarëse[222], deri në ditën kur do të ringjallen.
+që të bëj vepra të mira në botën që kam lënë!” Kurrsesi! Me të vërtetë, kjo është një fjalë të cilën ai (kot) e thotë! Prapa (vdekjes së) tyre do të ketë një (kohë) ndarëse[^222], deri në ditën kur do të ringjallen.
 
-[222] Jeta e varrit.
+[^222]: Jeta e varrit.
 
 # 2774
 
@@ -11631,9 +11648,9 @@ Sikur të mos ishin mirësia dhe mëshira e Allahut ndaj jush, si dhe fakti se A
 
 # 2802
 
-Me të vërtetë, ata që shpifën[223], janë një skotë prej jush. Mos e quani atë si të keqe për ju. Përkundrazi, kjo është mirë për ju. Çdonjëri prej tyre do të dënohet për atë që ka bërë, kurse atë që ka shpifur më shumë, e pret një dënim i madh.
+Me të vërtetë, ata që shpifën[^223], janë një skotë prej jush. Mos e quani atë si të keqe për ju. Përkundrazi, kjo është mirë për ju. Çdonjëri prej tyre do të dënohet për atë që ka bërë, kurse atë që ka shpifur më shumë, e pret një dënim i madh.
 
-[223] Vargu bën fjalë për një ngjarje që ka ndodhur në kohën e Profetit Muhamed (a.s.), në të cilën disa njerëz shpifën për gruan e Profetit (a.s.), Aishen (r.a.).
+[^223]: Vargu bën fjalë për një ngjarje që ka ndodhur në kohën e Profetit Muhamed (a.s.), në të cilën disa njerëz shpifën për gruan e Profetit (a.s.), Aishen (r.a.).
 
 # 2803
 
@@ -11677,9 +11694,9 @@ O besimtarë! Mos ndiqni gjurmët e djallit! Kush ndjek gjurmët e djallit, do t
 
 # 2813
 
-Njerëzit e ndershëm dhe të pasur ndër ju të mos betohen se nuk do t’u japin të afërmve, të varfërve dhe të mërguarve në rrugën e Allahut; le t’i falin ata dhe të mos ua marrin për keq![224] Vallë, a nuk doni ju që t’ju falë Allahu? Allahu është Falës e Mëshirëplotë.
+Njerëzit e ndershëm dhe të pasur ndër ju të mos betohen se nuk do t’u japin të afërmve, të varfërve dhe të mërguarve në rrugën e Allahut; le t’i falin ata dhe të mos ua marrin për keq![^224] Vallë, a nuk doni ju që t’ju falë Allahu? Allahu është Falës e Mëshirëplotë.
 
-[224] Vargu bën fjalë për Ebu Bekrin (r.a.), i cili vendosi që të mos e ndihmonte më një të afërmin e tij të varfër, për shkak se ky i fundit mori pjesë në shpifjen që u bë kundër Aishes, vajzë e Ebu Bekrit dhe njëkohësisht grua e Profetit (a.s.).
+[^224]: Vargu bën fjalë për Ebu Bekrin (r.a.), i cili vendosi që të mos e ndihmonte më një të afërmin e tij të varfër, për shkak se ky i fundit mori pjesë në shpifjen që u bë kundër Aishes, vajzë e Ebu Bekrit dhe njëkohësisht grua e Profetit (a.s.).
 
 # 2814
 
@@ -11715,10 +11732,11 @@ Thuaju besimtarëve që të ulin shikimet e tyre (nga e ndaluara) dhe ta ruajnë
 
 # 2822
 
-Thuaju besimtareve që të ulin shikimet e tyre (nga e ndaluara), ta ruajnë nderin e tyre (nga marrëdhëniet e jashtëligjshme) dhe të mos i shfaqin stolitë e tyre[225], përveç atyre që janë të dukshme. Le t’i mbulojnë kraharorët me mbulesat e tyre (të kokës) dhe të mos ua shfaqin stolitë e tyre, përveçse bashkëshortëve të tyre ose baballarëve të tyre, ose vjehërrve të tyre, ose bijve të tyre, ose djemve të bashkëshortëve të tyre, ose vëllezërve apo djemve të vëllezërve të tyre, ose djemve të motrave a grave të tyre, ose atyre që i kanë nën zotërim (si skllave), ose shërbëtorëve që nuk kanë epsh ndaj femrave apo fëmijëve që nuk i dinë ngacmimet e femrave. Dhe të mos i rrahin këmbët (për tokë), në mënyrë që të mos duken stolitë e tyre të fshehta. Të gjithë ju, o besimtarë, kthehuni tek Allahu të penduar, që të arrini shpëtimin![226]
+Thuaju besimtareve që të ulin shikimet e tyre (nga e ndaluara), ta ruajnë nderin e tyre (nga marrëdhëniet e jashtëligjshme) dhe të mos i shfaqin stolitë e tyre[^225], përveç atyre që janë të dukshme. Le t’i mbulojnë kraharorët me mbulesat e tyre (të kokës) dhe të mos ua shfaqin stolitë e tyre, përveçse bashkëshortëve të tyre ose baballarëve të tyre, ose vjehërrve të tyre, ose bijve të tyre, ose djemve të bashkëshortëve të tyre, ose vëllezërve apo djemve të vëllezërve të tyre, ose djemve të motrave a grave të tyre, ose atyre që i kanë nën zotërim (si skllave), ose shërbëtorëve që nuk kanë epsh ndaj femrave apo fëmijëve që nuk i dinë ngacmimet e femrave. Dhe të mos i rrahin këmbët (për tokë), në mënyrë që të mos duken stolitë e tyre të fshehta. Të gjithë ju, o besimtarë, kthehuni tek Allahu të penduar, që të arrini shpëtimin![^226]
 
-[225] D.m.th. pjesët e trupit.
-[226] Ruajtja e nderit nuk nënkuptohet vetëm si një largim nga marrëdhëniet e jashtëligjshme, por edhe si një qëndrim i përgjithshëm i mendjes dhe i ndjenjave, duke qenë kështu një karakteristikë themelore e sjelljes së myslimanit, qoftë ai mashkull apo femër.
+[^225]: D.m.th. pjesët e trupit.
+
+[^226]: Ruajtja e nderit nuk nënkuptohet vetëm si një largim nga marrëdhëniet e jashtëligjshme, por edhe si një qëndrim i përgjithshëm i mendjes dhe i ndjenjave, duke qenë kështu një karakteristikë themelore e sjelljes së myslimanit, qoftë ai mashkull apo femër.
 
 # 2823
 
@@ -11810,15 +11828,15 @@ Ata (hipokritët) betohen për Allahun me deklarata solemne, se po t’i urdhër
 
 # 2845
 
-Thuaj: “Bindjuni Allahut dhe bindjuni të Dërguarit!” Nëse shmangeni, (ta dini se) ai[227] është përgjegjës për detyrën e tij, ndërsa ju për atë që jeni ngarkuar. E, nëse i bindeni atij, do të jeni në rrugën e drejtë, kurse i Dërguari është i detyruar vetëm që të përcjellë qartë (Mesazhin Hyjnor).
+Thuaj: “Bindjuni Allahut dhe bindjuni të Dërguarit!” Nëse shmangeni, (ta dini se) ai[^227] është përgjegjës për detyrën e tij, ndërsa ju për atë që jeni ngarkuar. E, nëse i bindeni atij, do të jeni në rrugën e drejtë, kurse i Dërguari është i detyruar vetëm që të përcjellë qartë (Mesazhin Hyjnor).
 
-[227] Profeti Muhamed (a.s.).
+[^227]: Profeti Muhamed (a.s.).
 
 # 2846
 
-Allahu u ka premtuar atyre prej jush, që besojnë dhe që bëjnë vepra të mira, se do t’i bëjë mëkëmbës në Tokë[228], ashtu si i ka bërë ata para tyre dhe që do t’ua forcojë fenë e tyre, me të cilën Ai është i kënaqur dhe që frikën do t’ua shndërrojë në siguri. Le të më adhurojnë Mua e të mos Më shoqërojnë asgjë (në adhurim). Sa për ata që, pas kësaj, mohojnë (besimin), pikërisht ata janë të mbrapshtët.
+Allahu u ka premtuar atyre prej jush, që besojnë dhe që bëjnë vepra të mira, se do t’i bëjë mëkëmbës në Tokë[^228], ashtu si i ka bërë ata para tyre dhe që do t’ua forcojë fenë e tyre, me të cilën Ai është i kënaqur dhe që frikën do t’ua shndërrojë në siguri. Le të më adhurojnë Mua e të mos Më shoqërojnë asgjë (në adhurim). Sa për ata që, pas kësaj, mohojnë (besimin), pikërisht ata janë të mbrapshtët.
 
-[228] Sipas interpretimit klasik, ky varg është një profeci për udhëheqjen e katër kalifëve: Ebu Bekrit, Omerit, Othmanit dhe Aliut, në kohën e të cilëve, kalifati islam pati një zgjerim të jashtëzakonshëm territorial. Megjithatë, edhe sot e kësaj dite, zgjerimi i Islamit nuk është ngadalësuar. Ai vazhdon të jetë feja e vetme në rritje midis feve të mëdha, si nga pikëpamja demografike, ashtu edhe nga pikëpamja e konvertimeve.
+[^228]: Sipas interpretimit klasik, ky varg është një profeci për udhëheqjen e katër kalifëve: Ebu Bekrit, Omerit, Othmanit dhe Aliut, në kohën e të cilëve, kalifati islam pati një zgjerim të jashtëzakonshëm territorial. Megjithatë, edhe sot e kësaj dite, zgjerimi i Islamit nuk është ngadalësuar. Ai vazhdon të jetë feja e vetme në rritje midis feve të mëdha, si nga pikëpamja demografike, ashtu edhe nga pikëpamja e konvertimeve.
 
 # 2847
 
@@ -11842,10 +11860,11 @@ Gratë e vjetra, që nuk shpresojnë më të martohen, nuk është gjynah ta heq
 
 # 2852
 
-Nuk është gjynah për të verbrin, as për të çalin, as për të sëmurin dhe as për ju që të hani në shtëpinë tuaj, ose në shtëpitë e baballarëve tuaj, ose në shtëpitë e nënave tuaja, ose në shtëpitë e vëllezërve tuaj, ose në shtëpitë e motrave tuaja, ose në shtëpitë e xhaxhallarëve tuaj, ose në shtëpitë e hallave tuaja, ose në shtëpitë e dajave tuaj, ose në shtëpitë e tezeve tuaja, ose tek ata, çelësat e të cilëve u janë lënë juve, ose te miqtë. Nuk është gjynah për ju që të hani bashkërisht apo veçmas.[229] Kur të hyni në shtëpi, të përshëndetni njëri-tjetrin me përshëndetje të mirë e të bukur nga Allahu. Kështu jua shpjegon Allahu juve shpalljet që të kuptoni.[230]
+Nuk është gjynah për të verbrin, as për të çalin, as për të sëmurin dhe as për ju që të hani në shtëpinë tuaj, ose në shtëpitë e baballarëve tuaj, ose në shtëpitë e nënave tuaja, ose në shtëpitë e vëllezërve tuaj, ose në shtëpitë e motrave tuaja, ose në shtëpitë e xhaxhallarëve tuaj, ose në shtëpitë e hallave tuaja, ose në shtëpitë e dajave tuaj, ose në shtëpitë e tezeve tuaja, ose tek ata, çelësat e të cilëve u janë lënë juve, ose te miqtë. Nuk është gjynah për ju që të hani bashkërisht apo veçmas.[^229] Kur të hyni në shtëpi, të përshëndetni njëri-tjetrin me përshëndetje të mirë e të bukur nga Allahu. Kështu jua shpjegon Allahu juve shpalljet që të kuptoni.[^230]
 
-[229] Ky varg aludon për një zakon supersticioz që tentonte t’i përjashtonte sakatët dhe të sëmurët nga gostitë e përbashkëta.
-[230] Përshëndetja për të cilën bën fjalë vargu, është “es-selâmu alejkum ue rahmetullâhi ue berekâtuh” “paqja, mëshira dhe bekimi i Allahut qofshin me ju”.
+[^229]: Ky varg aludon për një zakon supersticioz që tentonte t’i përjashtonte sakatët dhe të sëmurët nga gostitë e përbashkëta.
+
+[^230]: Përshëndetja për të cilën bën fjalë vargu, është “es-selâmu alejkum ue rahmetullâhi ue berekâtuh” “paqja, mëshira dhe bekimi i Allahut qofshin me ju”.
 
 # 2853
 
@@ -11861,10 +11880,11 @@ Pa dyshim, Allahut i përket gjithçka që gjendet në qiej dhe në Tokë. Ai e 
 
 # 2856
 
-I lartësuar qoftë Ai që i ka zbritur Dalluesin[231] robit të Vet,[232] që të jetë paralajmërues për botët;
+I lartësuar qoftë Ai që i ka zbritur Dalluesin[^231] robit të Vet,[^232] që të jetë paralajmërues për botët;
 
-[231] Pra, Kuranin, që dallon të vërtetën nga e pavërteta.
-[232] Pra, Profetit Muhamed (a.s.).
+[^231]: Pra, Kuranin, që dallon të vërtetën nga e pavërteta.
+
+[^232]: Pra, Profetit Muhamed (a.s.).
 
 # 2857
 
@@ -11872,15 +11892,15 @@ Sunduesi i qiejve dhe i Tokës, i Cili nuk ka bir e nuk ka ortak në pushtet; i 
 
 # 2858
 
-E megjithatë ata[233] adhurojnë në vend të Tij zota, të cilët nuk krijojnë asgjë e që vetë janë të krijuar, që nuk zotërojnë për veten as dëm e as dobi e që nuk janë në gjendje të japin as vdekjen, as jetën e as që të ringjallin.
+E megjithatë ata[^233] adhurojnë në vend të Tij zota, të cilët nuk krijojnë asgjë e që vetë janë të krijuar, që nuk zotërojnë për veten as dëm e as dobi e që nuk janë në gjendje të japin as vdekjen, as jetën e as që të ringjallin.
 
-[233] Idhujtarët.
+[^233]: Idhujtarët.
 
 # 2859
 
-Jobesimtarët thonë: “Ky (Kuran) është vetëm gënjeshtër, të cilën e ka trilluar ai[234] me ndihmën e njerëzve të tjerë.” Kjo që thonë ata është e padrejtë dhe shpifje.
+Jobesimtarët thonë: “Ky (Kuran) është vetëm gënjeshtër, të cilën e ka trilluar ai[^234] me ndihmën e njerëzve të tjerë.” Kjo që thonë ata është e padrejtë dhe shpifje.
 
-[234] Muhamedi (a.s.).
+[^234]: Muhamedi (a.s.).
 
 # 2860
 
@@ -11932,9 +11952,9 @@ Për ata ka aty çfarë të dëshirojnë e do të rrinë në të përherë. Ky �
 
 # 2872
 
-Ditën, kur Ai t’i tubojë idhujtarët bashkë me ata që i adhuronin[235] në vend të Allahut, do t’u thotë (të adhuruarve): “A jeni ju që i keni shmangur këta robër të Mi apo ata vetë kanë humbur rrugën e drejtë?”
+Ditën, kur Ai t’i tubojë idhujtarët bashkë me ata që i adhuronin[^235] në vend të Allahut, do t’u thotë (të adhuruarve): “A jeni ju që i keni shmangur këta robër të Mi apo ata vetë kanë humbur rrugën e drejtë?”
 
-[235] “ata që i adhuronin”: Sipas Taberiut, nuk bëhet fjalë për idhujt në përgjithësi, por për krijesa që janë adhuruar si zota, pa dëshirën e tyre, si p.sh. engjëjt, që arabët paganë i quanin si “bijat e Allahut”, Uzejri, që u quajt si “bir i Zotit” nga hebrenjtë, Isai (a.s.), që u quajt si “bir i Zotit” nga të krishterët etj.
+[^235]: “ata që i adhuronin”: Sipas Taberiut, nuk bëhet fjalë për idhujt në përgjithësi, por për krijesa që janë adhuruar si zota, pa dëshirën e tyre, si p.sh. engjëjt, që arabët paganë i quanin si “bijat e Allahut”, Uzejri, që u quajt si “bir i Zotit” nga hebrenjtë, Isai (a.s.), që u quajt si “bir i Zotit” nga të krishterët etj.
 
 # 2873
 
@@ -12026,10 +12046,11 @@ Të gjithëve u sollëm shembuj dhe, më pas, të gjithë i shkatërruam krejtë
 
 # 2895
 
-Ata[236] me kohë kanë kaluar pranë vendbanimit që e shkatërroi shiu i tmerrshëm[237], e vallë, a nuk e kanë parë atë? Jo, ata nuk prisnin të ringjalleshin.
+Ata[^236] me kohë kanë kaluar pranë vendbanimit që e shkatërroi shiu i tmerrshëm[^237], e vallë, a nuk e kanë parë atë? Jo, ata nuk prisnin të ringjalleshin.
 
-[236] Karvanët tregtare të idhujtarëve të Mekës.
-[237] Vendbanimit të popullit të Lutit që ndodhet rrugës nga Gadishulli Arabik për në Siri, pranë Detit të Vdekur.
+[^236]: Karvanët tregtare të idhujtarëve të Mekës.
+
+[^237]: Vendbanimit të popullit të Lutit që ndodhet rrugës nga Gadishulli Arabik për në Siri, pranë Detit të Vdekur.
 
 # 2896
 
@@ -12141,9 +12162,9 @@ dhe ata që, kur shpenzojnë, nuk janë as dorëshpuar, as dorështrënguar, por
 
 # 2923
 
-dhe ata që, pos Allahut, nuk adhurojnë zot tjetër, nuk vrasin njeri, gjë që Allahu e ka ndaluar, përveçse me të drejtë[238] dhe që nuk bëjnë kurvëri. E kush i bën këto, do të marrë gjynahe.
+dhe ata që, pos Allahut, nuk adhurojnë zot tjetër, nuk vrasin njeri, gjë që Allahu e ka ndaluar, përveçse me të drejtë[^238] dhe që nuk bëjnë kurvëri. E kush i bën këto, do të marrë gjynahe.
 
-[238] “përveçse me të drejtë”: d.m.th. për mbrojtje të ligjshme, gjatë luftës për çështjen e Allahut dhe duke zbatuar dënimet e parashikuara nga legjislacioni islam.
+[^238]: “përveçse me të drejtë”: d.m.th. për mbrojtje të ligjshme, gjatë luftës për çështjen e Allahut dhe duke zbatuar dënimet e parashikuara nga legjislacioni islam.
 
 # 2924
 
@@ -13415,9 +13436,9 @@ Ti nuk mund t’i nxjerrësh as të verbërit nga humbja e tyre! Ty të dëgjojn
 
 # 3241
 
-Dhe, kur të përmbushet Fjala Jonë kundër tyre, Ne do të bëjmë që nga Toka të dalë një kafshë[239], e cila do t’u flasë atyre, se njerëzit nuk u janë bindur shpalljeve Tona.
+Dhe, kur të përmbushet Fjala Jonë kundër tyre, Ne do të bëjmë që nga Toka të dalë një kafshë[^239], e cila do t’u flasë atyre, se njerëzit nuk u janë bindur shpalljeve Tona.
 
-[239] Kafsha e dheut, një kafshë që do të dalë në fundin e kohës, para Kiametit, me pamje të tmerrshme, me unazën (vulën) e Sulejmanit dhe shkopin e Musait e që do të bëjë një shenjë në fytyrën e besimtarëve dhe një tjetër, të ndryshme, në fytyrën e jobesimtarëve.
+[^239]: Kafsha e dheut, një kafshë që do të dalë në fundin e kohës, para Kiametit, me pamje të tmerrshme, me unazën (vulën) e Sulejmanit dhe shkopin e Musait e që do të bëjë një shenjë në fytyrën e besimtarëve dhe një tjetër, të ndryshme, në fytyrën e jobesimtarëve.
 
 # 3242
 
@@ -13485,10 +13506,11 @@ Por vullneti Ynë ishte që t’u jepnim mirësi atyre që qenë të shtypur në
 
 # 3258
 
-t’i forconim ata në Tokë dhe t’u tregonim Faraonit, Hamanit[240] dhe ushtrisë së tyre atë prej së cilës ata frikësoheshin.[241]
+t’i forconim ata në Tokë dhe t’u tregonim Faraonit, Hamanit[^240] dhe ushtrisë së tyre atë prej së cilës ata frikësoheshin.[^241]
 
-[240] Hamani ishte kryeministri i Faraonit.
-[241] Pra, fundin e pushtetit të tyre.
+[^240]: Hamani ishte kryeministri i Faraonit.
+
+[^241]: Pra, fundin e pushtetit të tyre.
 
 # 3259
 
@@ -13768,9 +13790,9 @@ Dhe prej çdo populli, Ne do të nxjerrim nga një dëshmitar e do të themi: �
 
 # 3328
 
-Me të vërtetë, Karuni[242] ka qenë nga populli i Musait, por i shtypte ata. Ne i patëm dhënë atij aq thesare, saqë çelësat e tyre vështirë se do të mund t’i mbante një grup njerëzish të fuqishëm. Njerëzit e popullit të tij i thanë: “Mos u ngazëlle me pasurinë që ke, sepse Allahu nuk i do ata që ngazëllehen!
+Me të vërtetë, Karuni[^242] ka qenë nga populli i Musait, por i shtypte ata. Ne i patëm dhënë atij aq thesare, saqë çelësat e tyre vështirë se do të mund t’i mbante një grup njerëzish të fuqishëm. Njerëzit e popullit të tij i thanë: “Mos u ngazëlle me pasurinë që ke, sepse Allahu nuk i do ata që ngazëllehen!
 
-[242] Karuni ka qenë anëtar i fisit të Musait a.s. (ashtu si ai, ishte prej fisit të Levit). Ishte një burrë me bukuri dhe forcë të madhe. Teuratin e njihte thellësisht dhe ishte shumë i pasur. Të gjitha këto cilësi e kishin bërë mendjemadh. Për ta ndëshkuar për mendjemadhësinë e tij, Allahu i Madhëruar e bëri që ta gllabëronte toka.
+[^242]: Karuni ka qenë anëtar i fisit të Musait a.s. (ashtu si ai, ishte prej fisit të Levit). Ishte një burrë me bukuri dhe forcë të madhe. Teuratin e njihte thellësisht dhe ishte shumë i pasur. Të gjitha këto cilësi e kishin bërë mendjemadh. Për ta ndëshkuar për mendjemadhësinë e tij, Allahu i Madhëruar e bëri që ta gllabëronte toka.
 
 # 3329
 
@@ -13918,9 +13940,9 @@ Populli i tij nuk kishte tjetër përgjigje, përveçse tha: “Vriteni atë ose
 
 # 3365
 
-Dhe ai tha: “Ju, në vend të Allahut, keni zgjedhur idhujt, për shkak të dashurisë midis jush në këtë jetë.[243] Por, në Ditën e Kiametit do ta mohoni njëri-tjetrin dhe do ta mallkoni njëri tjetrin. Streha juaj do të jetë zjarri dhe nuk do të ketë për ju kurrfarë ndihmësi.”
+Dhe ai tha: “Ju, në vend të Allahut, keni zgjedhur idhujt, për shkak të dashurisë midis jush në këtë jetë.[^243] Por, në Ditën e Kiametit do ta mohoni njëri-tjetrin dhe do ta mallkoni njëri tjetrin. Streha juaj do të jetë zjarri dhe nuk do të ketë për ju kurrfarë ndihmësi.”
 
-[243] Sipas një interpretimi (të Taberiut), adhurimi i idhujve nuk është gjë tjetër, veçse një shenjë e lidhjes me jetën tokësore. Por vargu mund të kuptohet edhe si një qortim për ata që, për hir të konformizmit, ndjekin tradita të gabuara edhe pse të konsoliduara.
+[^243]: Sipas një interpretimi (të Taberiut), adhurimi i idhujve nuk është gjë tjetër, veçse një shenjë e lidhjes me jetën tokësore. Por vargu mund të kuptohet edhe si një qortim për ata që, për hir të konformizmit, ndjekin tradita të gabuara edhe pse të konsoliduara.
 
 # 3366
 
@@ -13944,9 +13966,9 @@ Ai tha: “O Zoti im, më ndihmo kundër popullit që bën mbrapshti”!
 
 # 3371
 
-Dhe, pasi të dërguarit Tanë i sollën lajmin e mirë[244] Ibrahimit, i thanë: “Ne do t’i zhdukim banorët e këtij vendbanimi, sepse banorët e tij janë vërtet keqbërës”.
+Dhe, pasi të dërguarit Tanë i sollën lajmin e mirë[^244] Ibrahimit, i thanë: “Ne do t’i zhdukim banorët e këtij vendbanimi, sepse banorët e tij janë vërtet keqbërës”.
 
-[244] D.m.th. lajmin për lindjen e Is’hakut.
+[^244]: D.m.th. lajmin për lindjen e Is’hakut.
 
 # 3372
 
@@ -13958,9 +13980,9 @@ Kur të dërguarit Tanë (engjëj) shkuan tek Luti, ai u shqetësua dhe u ngusht
 
 # 3374
 
-Në të vërtetë, Ne do të lëshojmë dënim nga qielli, mbi banorët e këtij vendbanimi[245], ngase ata janë të prishur”.
+Në të vërtetë, Ne do të lëshojmë dënim nga qielli, mbi banorët e këtij vendbanimi[^245], ngase ata janë të prishur”.
 
-[245] Bëhet fjalë për qytetin e Sodomës, që ndodhej në Palestinë, në jug të Detit të Vdekur.
+[^245]: Bëhet fjalë për qytetin e Sodomës, që ndodhej në Palestinë, në jug të Detit të Vdekur.
 
 # 3375
 
@@ -13984,9 +14006,9 @@ Kështu ndodhi edhe me Karunin, Faraonin dhe Hamanin! Atyre u vajti Musai me pro
 
 # 3380
 
-Ne të gjithë i dënuam për gjynahun e vet: disave u dërguam furtunë, disa syresh i goditi një zë i tmerrshëm, disa prej tyre i gëlltiti toka dhe të tjerët i përmbyti uji. Allahu nuk u bëri atyre padrejtësi, por ata i bënë padrejtësi vetvetes.[246]
+Ne të gjithë i dënuam për gjynahun e vet: disave u dërguam furtunë, disa syresh i goditi një zë i tmerrshëm, disa prej tyre i gëlltiti toka dhe të tjerët i përmbyti uji. Allahu nuk u bëri atyre padrejtësi, por ata i bënë padrejtësi vetvetes.[^246]
 
-[246] Banorët e Sodomës u shkatërruan nga një ciklon, fisi Themud u godit nga një zë i tmerrshëm, Karuni u gëlltit nga toka, ndërsa populli i Nuhut dhe njerëzit e Faraonit u mbytën në ujë.
+[^246]: Banorët e Sodomës u shkatërruan nga një ciklon, fisi Themud u godit nga një zë i tmerrshëm, Karuni u gëlltit nga toka, ndërsa populli i Nuhut dhe njerëzit e Faraonit u mbytën në ujë.
 
 # 3381
 
@@ -14018,10 +14040,11 @@ Kështu, Ne të kemi shpallur ty (Muhamed) Librin (Kuranin). Ata që u kemi dhë
 
 # 3388
 
-Para këtij[247], ti (Muhamed) nuk kishe lexuar kurrfarë libri e as që kishe shkruar gjë me dorën tënde; përndryshe, ndjekësit e së pavërtetës do të dyshonin.[248]
+Para këtij[^247], ti (Muhamed) nuk kishe lexuar kurrfarë libri e as që kishe shkruar gjë me dorën tënde; përndryshe, ndjekësit e së pavërtetës do të dyshonin.[^248]
 
-[247] D.m.th. Kuranit. 
-[248] Profeti Muhamed (a.s.) nuk ka ditur të shkruajë apo të lexojë dhe fakti që ai nuk i njihte Shkrimet e shenjta, ishte pjesë e planit të Allahut për t’iu hequr denigruesve të tij një argument të lehtë për të kundërshtuar natyrën hyjnore të Kuranit. Megjithatë, edhe sot pjesa më e painformuar dhe dashakeqe e orientalistëve perëndimorë pohon se Muhamedi (a.s.) nuk ka bërë gjë tjetër, veçse ia ka adoptuar kulturës arabe revelatat hyjnore të mëparshme. Ky është mjerimi i paditurisë dhe i mosbesimit.
+[^247]: D.m.th. Kuranit.
+
+[^248]: Profeti Muhamed (a.s.) nuk ka ditur të shkruajë apo të lexojë dhe fakti që ai nuk i njihte Shkrimet e shenjta, ishte pjesë e planit të Allahut për t’iu hequr denigruesve të tij një argument të lehtë për të kundërshtuar natyrën hyjnore të Kuranit. Megjithatë, edhe sot pjesa më e painformuar dhe dashakeqe e orientalistëve perëndimorë pohon se Muhamedi (a.s.) nuk ka bërë gjë tjetër, veçse ia ka adoptuar kulturës arabe revelatat hyjnore të mëparshme. Ky është mjerimi i paditurisë dhe i mosbesimit.
 
 # 3389
 
@@ -14073,9 +14096,9 @@ Sa krijesa ka që nuk e mbajnë dot veten me ushqim! Allahu u jep atyre dhe juve
 
 # 3401
 
-Nëse ti (Muhamed) i pyet ata[249] se kush i ka krijuar qiejt dhe Tokën dhe kush i ka nënshtruar (të rrotullohen) Diellin e Hënën, - me siguri që ata do të të thonë “Allahu!” Atëherë, si po largohen (nga rruga e drejtë)?
+Nëse ti (Muhamed) i pyet ata[^249] se kush i ka krijuar qiejt dhe Tokën dhe kush i ka nënshtruar (të rrotullohen) Diellin e Hënën, - me siguri që ata do të të thonë “Allahu!” Atëherë, si po largohen (nga rruga e drejtë)?
 
-[249] Bëhet fjalë për politeistët, të cilët e kanë njohur pothuajse gjithmonë një Qenie Supreme, një Zot Suprem që ishte Krijuesi dhe Rregulluesi i gjithësisë. Banorët e Mekës, në mënyrë të veçantë, e kishin të qartë konceptin e Allahut (i lartmadhëruar qoftë Ai), por për shkak të paditurisë, interesave të ngushta dhe poshtërsisë morale, atyre iu dukej me leverdi që të adhuronin një mori zotash të tjerë.
+[^249]: Bëhet fjalë për politeistët, të cilët e kanë njohur pothuajse gjithmonë një Qenie Supreme, një Zot Suprem që ishte Krijuesi dhe Rregulluesi i gjithësisë. Banorët e Mekës, në mënyrë të veçantë, e kishin të qartë konceptin e Allahut (i lartmadhëruar qoftë Ai), por për shkak të paditurisë, interesave të ngushta dhe poshtërsisë morale, atyre iu dukej me leverdi që të adhuronin një mori zotash të tjerë.
 
 # 3402
 
@@ -14095,9 +14118,9 @@ Kur hipin në anije, ata i luten Allahut me devotshmëri të sinqertë, por kur 
 
 # 3406
 
-për të mohuar atë që u kemi dhënë Ne dhe për t’u kënaqur.[250] Por shpejt do ta marrin vesh!
+për të mohuar atë që u kemi dhënë Ne dhe për t’u kënaqur.[^250] Por shpejt do ta marrin vesh!
 
-[250] Pasi kanë shpëtuar nga rreziku i mbytjes, njohja e njëshmërisë së Allahut dhe bindja ndaj rrjedhojave të kësaj njohjeje u kushtojnë shtrenjtë mosbesimtarëve, sepse i pengojnë të lëshohen në kënaqësitë e pasioneve.
+[^250]: Pasi kanë shpëtuar nga rreziku i mbytjes, njohja e njëshmërisë së Allahut dhe bindja ndaj rrjedhojave të kësaj njohjeje u kushtojnë shtrenjtë mosbesimtarëve, sepse i pengojnë të lëshohen në kënaqësitë e pasioneve.
 
 # 3407
 
@@ -14449,9 +14472,9 @@ Ne ata do t’i kënaqim përkohësisht (në këtë botë) e pastaj do t’i hed
 
 # 3494
 
-Nëse ti (o Muhamed) i pyet ata[251]: “Kush i ka krijuar qiejt dhe Tokën?”, me siguri që do të të thonë: “Allahu!”. Atëherë ti thuaju: “Qoftë lavdëruar Allahu!” Por, shumica e tyre nuk dinë.
+Nëse ti (o Muhamed) i pyet ata[^251]: “Kush i ka krijuar qiejt dhe Tokën?”, me siguri që do të të thonë: “Allahu!”. Atëherë ti thuaju: “Qoftë lavdëruar Allahu!” Por, shumica e tyre nuk dinë.
 
-[251] D.m.th. idhujtarët e Mekës.
+[^251]: D.m.th. idhujtarët e Mekës.
 
 # 3495
 
@@ -14499,9 +14522,9 @@ Shpallja e këtij Libri, pa asnjë dyshim, është nga Zoti i botëve.
 
 # 3506
 
-Ata thonë: “Ai[252] e ka trilluar atë! Jo, ajo është e Vërteta nga Zoti yt për të paralajmëruar popullin, të cilit para teje nuk i ka ardhur kurrfarë paralajmëruesi, që të shkojë në rrugë të drejtë.
+Ata thonë: “Ai[^252] e ka trilluar atë! Jo, ajo është e Vërteta nga Zoti yt për të paralajmëruar popullin, të cilit para teje nuk i ka ardhur kurrfarë paralajmëruesi, që të shkojë në rrugë të drejtë.
 
-[252] Profeti Muhamed (a.s.).
+[^252]: Profeti Muhamed (a.s.).
 
 # 3507
 
@@ -14581,9 +14604,9 @@ Kush është më i padrejtë se ai që, kur i përmenden shpalljet e Zotit të t
 
 # 3526
 
-Ne i dhamë Musait Librin (Teuratin) - prandaj mos dysho në takimin me atë[253] - dhe e bëmë atë udhërrëfyes për bijtë e Israilit.
+Ne i dhamë Musait Librin (Teuratin) - prandaj mos dysho në takimin me atë[^253] - dhe e bëmë atë udhërrëfyes për bijtë e Israilit.
 
-[253] Pra, mos dysho o Muhamed në takimin me Musain gjatë udhëtimit në qiell Natës e Isrâ-s dhe të Mi‘râxh-it.
+[^253]: Pra, mos dysho o Muhamed në takimin me Musain gjatë udhëtimit në qiell Natës e Isrâ-s dhe të Mi‘râxh-it.
 
 # 3527
 
@@ -14627,9 +14650,9 @@ Mbështetu tek Allahu; Allahu të mjafton si mbrojtës!
 
 # 3537
 
-Allahu nuk i ka dhënë asnjë njeriu dy zemra në kraharor. Ai nuk i konsideron gratë, që ju i ndani si nënat tuaja[254] e as fëmijët tuaj të birësuar nuk i konsideron si bij të vërtetë. Këto janë vetëm fjalë që dalin prej gojës suaj, kurse Allahu thotë të vërtetën dhe udhëzon në rrugë të drejtë.
+Allahu nuk i ka dhënë asnjë njeriu dy zemra në kraharor. Ai nuk i konsideron gratë, që ju i ndani si nënat tuaja[^254] e as fëmijët tuaj të birësuar nuk i konsideron si bij të vërtetë. Këto janë vetëm fjalë që dalin prej gojës suaj, kurse Allahu thotë të vërtetën dhe udhëzon në rrugë të drejtë.
 
-[254] Vargu aludon për shprehjen “Më je bërë si shpina e nënës sime”, të cilën arabët paganë e përdornin si deklaratë divorci.
+[^254]: Vargu aludon për shprehjen “Më je bërë si shpina e nënës sime”, të cilën arabët paganë e përdornin si deklaratë divorci.
 
 # 3538
 
@@ -14637,10 +14660,11 @@ Thërritini të birësuarit sipas etërve të tyre! Kjo është më e drejtë n�
 
 # 3539
 
-I Dërguari është më i afërt për besimtarët, sesa ata për njëri-tjetrin; gratë e tij janë (si) nënat e tyre. Sipas Librit të Allahut, pjesëtarët e farefisit janë më të afërt për njëri-tjetrin[255], sesa besimtarët e tjerë dhe të mërguarit[256], përveç rastit kur doni t’u bëni ndonjë të mirë miqve tuaj të afërt (me anë të testamentit). Kjo është shënuar në Libër.
+I Dërguari është më i afërt për besimtarët, sesa ata për njëri-tjetrin; gratë e tij janë (si) nënat e tyre. Sipas Librit të Allahut, pjesëtarët e farefisit janë më të afërt për njëri-tjetrin[^255], sesa besimtarët e tjerë dhe të mërguarit[^256], përveç rastit kur doni t’u bëni ndonjë të mirë miqve tuaj të afërt (me anë të testamentit). Kjo është shënuar në Libër.
 
-[255] Për sa i përket trashëgimisë dhe të drejtave të tjera që rrjedhin nga afërsia e gjakut.
-[256] D.m.th. ndjekësit e Profetit (a.s.) nga Meka në Medinë.
+[^255]: Për sa i përket trashëgimisë dhe të drejtave të tjera që rrjedhin nga afërsia e gjakut.
+
+[^256]: D.m.th. ndjekësit e Profetit (a.s.) nga Meka në Medinë.
 
 # 3540
 
@@ -14652,9 +14676,9 @@ që Allahu të mund t’i pyesë të sinqertët për besnikërinë e tyre. Ndër
 
 # 3542
 
-O besimtarë! Kujtoni dhuntinë e Allahut kur ju erdhi një ushtri (idhujtarësh),[257] e Ne dërguam mbi ata erë dhe një ushtri (engjëjsh) që ju nuk e shihnit; ndërsa Allahu i sheh të gjitha ato që bëni ju.
+O besimtarë! Kujtoni dhuntinë e Allahut kur ju erdhi një ushtri (idhujtarësh),[^257] e Ne dërguam mbi ata erë dhe një ushtri (engjëjsh) që ju nuk e shihnit; ndërsa Allahu i sheh të gjitha ato që bëni ju.
 
-[257] Bëhet fjalë për betejën e Hendekut, të zhvilluar në vitin 5 h / 627 e.s.
+[^257]: Bëhet fjalë për betejën e Hendekut, të zhvilluar në vitin 5 h / 627 e.s.
 
 # 3543
 
@@ -14670,9 +14694,9 @@ Por hipokritët dhe ata me zemra të sëmura e të dobëta, thanë: “Allahu dh
 
 # 3546
 
-Dhe një grup prej tyre tha: “O banorët e Jethribit[258], s’ka qëndrim këtu për ju, andaj kthehuni!” Një grup tjetër nga ata kërkoi leje prej të Dërguarit, duke thënë: “Në të vërtetë, shtëpitë tona janë të pambrojtura”! Por ato nuk ishin të pambrojtura. Ata donin vetëm të iknin.
+Dhe një grup prej tyre tha: “O banorët e Jethribit[^258], s’ka qëndrim këtu për ju, andaj kthehuni!” Një grup tjetër nga ata kërkoi leje prej të Dërguarit, duke thënë: “Në të vërtetë, shtëpitë tona janë të pambrojtura”! Por ato nuk ishin të pambrojtura. Ata donin vetëm të iknin.
 
-[258] Emri i Medinës para emigrimit të Profetit Muhamed (a.s.) në të.
+[^258]: Emri i Medinës para emigrimit të Profetit Muhamed (a.s.) në të.
 
 # 3547
 
@@ -14724,15 +14748,15 @@ Allahu i zmbrapsi jobesimtarët (e ushtrisë së aleatëve) me hidhërimin e tyr
 
 # 3559
 
-Ai i nxori nga kështjellat e tyre ithtarët e Librit që ndihmuan ushtrinë e aleatëve[259] dhe mbolli frikë në zemrat e tyre, kështu që një pjesë të tyre i vratë dhe pjesën tjetër i zutë robër.
+Ai i nxori nga kështjellat e tyre ithtarët e Librit që ndihmuan ushtrinë e aleatëve[^259] dhe mbolli frikë në zemrat e tyre, kështu që një pjesë të tyre i vratë dhe pjesën tjetër i zutë robër.
 
-[259] Ata ishin hebrenjtë e fisit Beni Kurejdha.
+[^259]: Ata ishin hebrenjtë e fisit Beni Kurejdha.
 
 # 3560
 
-Ai ju bëri trashëgimtarë të tokës, shtëpive dhe pasurive të tyre, si dhe të një toke që nuk e kishit shkelur më parë[260]; Allahu është i Fuqishëm për çdo gjë.
+Ai ju bëri trashëgimtarë të tokës, shtëpive dhe pasurive të tyre, si dhe të një toke që nuk e kishit shkelur më parë[^260]; Allahu është i Fuqishëm për çdo gjë.
 
-[260] Bëhet fjalë për oazën e Hajberit.
+[^260]: Bëhet fjalë për oazën e Hajberit.
 
 # 3561
 
@@ -14744,9 +14768,9 @@ Por, nëse dëshironi Allahun, të Dërguarin e Tij dhe botën tjetër, dijeni s
 
 # 3563
 
-O gratë e të Dërguarit! Ato prej jush që bëjnë ndonjë turp të hapur, do të kenë ndëshkim të dyfishtë; kjo për Allahun është e lehtë.[261]
+O gratë e të Dërguarit! Ato prej jush që bëjnë ndonjë turp të hapur, do të kenë ndëshkim të dyfishtë; kjo për Allahun është e lehtë.[^261]
 
-[261] Zoti i këshillon femrat, duke marrë shembull, së pari, gratë e Profetit a.s., e mandej edhe të gjitha gratë e besimtarëve. Ai i urdhëroi ato që të mos e kundërshtonin Profetin a.s. në asnjë mënyrë. Kështu, ato gra të Profetit që bënin vepra të mira, shpërbleheshin dyfish. Gratë e Profetit, meqë kishin mësuar në shtëpinë e tij, kanë pasur për detyrë që t’i këshillonin gratë e popullit. Nga këto kuptojmë se njerëzit e mëdhenj të fesë, kur bëjnë një punë të mirë, shpërblehen dyfish. Nga ana tjetër, për një punë të keqe - dënohen dyfish. Pra, burrat e gratë që janë shembull në popull, në pikëpamje të fesë, për ata shpërblimi, si dhe dënimi është i dyfishtë. Kurse, të gjithë të tjerët - burra e gra, - janë në pozitë të barabartë (përkthyesi).
+[^261]: Zoti i këshillon femrat, duke marrë shembull, së pari, gratë e Profetit a.s., e mandej edhe të gjitha gratë e besimtarëve. Ai i urdhëroi ato që të mos e kundërshtonin Profetin a.s. në asnjë mënyrë. Kështu, ato gra të Profetit që bënin vepra të mira, shpërbleheshin dyfish. Gratë e Profetit, meqë kishin mësuar në shtëpinë e tij, kanë pasur për detyrë që t’i këshillonin gratë e popullit. Nga këto kuptojmë se njerëzit e mëdhenj të fesë, kur bëjnë një punë të mirë, shpërblehen dyfish. Nga ana tjetër, për një punë të keqe - dënohen dyfish. Pra, burrat e gratë që janë shembull në popull, në pikëpamje të fesë, për ata shpërblimi, si dhe dënimi është i dyfishtë. Kurse, të gjithë të tjerët - burra e gra, - janë në pozitë të barabartë (përkthyesi).
 
 # 3564
 
@@ -14758,9 +14782,9 @@ O gratë e të Dërguarit! Ju nuk jeni si gratë e tjera. Nëse i frikësoheni A
 
 # 3566
 
-Qëndroni në shtëpitë tuaja e mos i zbuloni stolitë tuaja, ashtu siç zbuloheshin në kohën e padijes[262]! Falni namazin, jepni zekatin dhe bindjuni Allahut e të Dërguarit të Tij! O familje e Profetit! Në të vërtetë, Allahu do që ta largojë prej jush papastërtinë[263] dhe t’ju pastrojë plotësisht.
+Qëndroni në shtëpitë tuaja e mos i zbuloni stolitë tuaja, ashtu siç zbuloheshin në kohën e padijes[^262]! Falni namazin, jepni zekatin dhe bindjuni Allahut e të Dërguarit të Tij! O familje e Profetit! Në të vërtetë, Allahu do që ta largojë prej jush papastërtinë[^263] dhe t’ju pastrojë plotësisht.
 
-[262] D.m.th në periudhën para-islame. [263] D.m.th. gjynahet.
+[^262]: D.m.th në periudhën para-islame. [^263]: D.m.th. gjynahet.
 
 # 3567
 
@@ -14776,10 +14800,11 @@ Nuk i takon asnjë besimtari apo besimtareje të vërtetë që, kur Allahu dhe i
 
 # 3570
 
-Ti (o Muhamed) i the atij,[264] që Allahu dhe ti vetë i keni bërë mirësi: “Mbaje gruan tënde dhe frikësoju Allahut!” Në të vërtetë, ti po fsheh në vetvete atë që Allahu do ta nxjerrë në shesh[265] dhe ti po u frikësohesh njerëzve, kur më e drejtë është t’i frikësohesh Allahut. E, pasi Zejdi bashkëjetoi me gruan e vet dhe u nda prej saj, Ne ta dhamë ty për bashkëshorte, në mënyrë që besimtarët të mos ngurrojnë që të martohen me gratë e të birësuarve të tyre, pasi ata ta kenë plotësuar dëshirën e tyre dhe të jenë ndarë. Urdhri i Allahut do të përmbushet detyrimisht.
+Ti (o Muhamed) i the atij,[^264] që Allahu dhe ti vetë i keni bërë mirësi: “Mbaje gruan tënde dhe frikësoju Allahut!” Në të vërtetë, ti po fsheh në vetvete atë që Allahu do ta nxjerrë në shesh[^265] dhe ti po u frikësohesh njerëzve, kur më e drejtë është t’i frikësohesh Allahut. E, pasi Zejdi bashkëjetoi me gruan e vet dhe u nda prej saj, Ne ta dhamë ty për bashkëshorte, në mënyrë që besimtarët të mos ngurrojnë që të martohen me gratë e të birësuarve të tyre, pasi ata ta kenë plotësuar dëshirën e tyre dhe të jenë ndarë. Urdhri i Allahut do të përmbushet detyrimisht.
 
-[264] D.m.th. Zejd ibn Harithit, djalit të birësuar të Profetit (a.s.).
-[265] D.m.th. urdhrin që mori nga Zoti për t’u martuar me gruan e Zejdit, pasi ky ta ndante atë, në mënyrë që myslimanët ta dinë se është e lejuar martesa me gruan e divorcuar të bijve të adoptuar.
+[^264]: D.m.th. Zejd ibn Harithit, djalit të birësuar të Profetit (a.s.).
+
+[^265]: D.m.th. urdhrin që mori nga Zoti për t’u martuar me gruan e Zejdit, pasi ky ta ndante atë, në mënyrë që myslimanët ta dinë se është e lejuar martesa me gruan e divorcuar të bijve të adoptuar.
 
 # 3571
 
@@ -14791,9 +14816,9 @@ e të cilët kumtuan shpalljet e Allahut dhe i frikësoheshin Atij e askujt tjet
 
 # 3573
 
-Muhamedi nuk është babai i askujt prej burrave tuaj[266], por është i Dërguari i Allahut dhe vula e profetëve; Allahu është i Gjithëdijshëm për çdo gjë.
+Muhamedi nuk është babai i askujt prej burrave tuaj[^266], por është i Dërguari i Allahut dhe vula e profetëve; Allahu është i Gjithëdijshëm për çdo gjë.
 
-[266] Profeti (a.s.) nuk ka lënë asnjë trashëgimtar mashkull.
+[^266]: Profeti (a.s.) nuk ka lënë asnjë trashëgimtar mashkull.
 
 # 3574
 
@@ -14833,9 +14858,9 @@ O besimtarë! Kur martoheni me besimtaret dhe i ndani ato para se t’i prekni, 
 
 # 3583
 
-O Profet! Ne t’i kemi lejuar ty (për martesë), gratë që u ke dhënë dhuratat e martesës, skllavet, që t’i ka dhënë ty Allahu (si pre të luftës), vajzat e xhaxhallarëve, hallave, dajave dhe tezeve të cilat mërguan bashkë me ty, si edhe gruan besimtare, që u vetëdha për Ty, nëse Ti dëshiron të martohesh me atë. Kjo të është lejuar vetëm ty e jo besimtarëve të tjerë. Ne e dimë çfarë u kemi caktuar atyre për gratë e tyre dhe për ato që gjenden nën pushtetin e tyre, që për ty të mos ketë fajësim. Allahu është Falës e Mëshirëplotë.[267]
+O Profet! Ne t’i kemi lejuar ty (për martesë), gratë që u ke dhënë dhuratat e martesës, skllavet, që t’i ka dhënë ty Allahu (si pre të luftës), vajzat e xhaxhallarëve, hallave, dajave dhe tezeve të cilat mërguan bashkë me ty, si edhe gruan besimtare, që u vetëdha për Ty, nëse Ti dëshiron të martohesh me atë. Kjo të është lejuar vetëm ty e jo besimtarëve të tjerë. Ne e dimë çfarë u kemi caktuar atyre për gratë e tyre dhe për ato që gjenden nën pushtetin e tyre, që për ty të mos ketë fajësim. Allahu është Falës e Mëshirëplotë.[^267]
 
-[267] Profeti Muhamed a.s., kishte themeluar një institucion teologjik të femrave (një lloj fakulteti i asaj kohe), por atë e kufizoi vetëm për gratë e veta. Atij i erdhi një leje prej Zotit, që, nëse dëshironte të zgjeronte këtë veprimtari, mund të merrte edhe një grua tjetër. Por kjo leje ishte vetëm për të. Kjo kishte rëndësi të madhe për përhapjen e diturisë te femrat (përkthyesi).
+[^267]: Profeti Muhamed a.s., kishte themeluar një institucion teologjik të femrave (një lloj fakulteti i asaj kohe), por atë e kufizoi vetëm për gratë e veta. Atij i erdhi një leje prej Zotit, që, nëse dëshironte të zgjeronte këtë veprimtari, mund të merrte edhe një grua tjetër. Por kjo leje ishte vetëm për të. Kjo kishte rëndësi të madhe për përhapjen e diturisë te femrat (përkthyesi).
 
 # 3584
 
@@ -14855,9 +14880,9 @@ O besimtarë, mos hyni në shtëpitë e të Dërguarit, përveç rastit kur ju �
 
 # 3588
 
-Nuk është gjynah për ato,[268] nëse dalin të pambuluara para etërve të tyre, djemve të tyre, vëllezërve dhe djemve të vëllezërve të tyre, djemve të motrave të tyre e grave të tyre, si dhe para skllaveve që janë nën pushtetin e tyre. Frikësojuni Allahut, se, me të vërtetë, Allahu është dëshmitar për çdo gjë.
+Nuk është gjynah për ato,[^268] nëse dalin të pambuluara para etërve të tyre, djemve të tyre, vëllezërve dhe djemve të vëllezërve të tyre, djemve të motrave të tyre e grave të tyre, si dhe para skllaveve që janë nën pushtetin e tyre. Frikësojuni Allahut, se, me të vërtetë, Allahu është dëshmitar për çdo gjë.
 
-[268] D.m.th. gratë e Profetit (a.s.).
+[^268]: D.m.th. gratë e Profetit (a.s.).
 
 # 3589
 
@@ -14925,9 +14950,9 @@ Ai do t’jua bekojë veprat tuaja dhe do t’jua falë gjynahet. Kush i bindet 
 
 # 3605
 
-Ne ua ofruam përgjegjësinë[269] qiejve, Tokës dhe maleve, por ato nuk pranuan ta marrin përsipër dhe u frikësuan ta pranojnë atë, kurse njeriu e pranoi. Me të vërtetë, njeriu u tregua i padrejtë me veten dhe i paditur (për pasojat e kësaj përgjegjësie).
+Ne ua ofruam përgjegjësinë[^269] qiejve, Tokës dhe maleve, por ato nuk pranuan ta marrin përsipër dhe u frikësuan ta pranojnë atë, kurse njeriu e pranoi. Me të vërtetë, njeriu u tregua i padrejtë me veten dhe i paditur (për pasojat e kësaj përgjegjësie).
 
-[269] Pra, përgjegjësinë e lirisë së zgjedhjes midis kryerjes apo moskryerjes së detyrimeve, që ka urdhëruar Allahu, përkundrejt shpërblimit ose ndëshkimit nga Ai.
+[^269]: Pra, përgjegjësinë e lirisë së zgjedhjes midis kryerjes apo moskryerjes së detyrimeve, që ka urdhëruar Allahu, përkundrejt shpërblimit ose ndëshkimit nga Ai.
 
 # 3606
 
@@ -14959,9 +14984,9 @@ Ata, të cilëve u është dhënë dituria, e shohin se ajo, që të është zbr
 
 # 3613
 
-Ndërsa jobesimtarët thonë: “A doni t’ju tregojmë një njeri[270] që pretendon se, kur të shpërbëheni plotësisht e të bëheni pluhur, ju, me siguri do të rikrijoheni nga e para?
+Ndërsa jobesimtarët thonë: “A doni t’ju tregojmë një njeri[^270] që pretendon se, kur të shpërbëheni plotësisht e të bëheni pluhur, ju, me siguri do të rikrijoheni nga e para?
 
-[270] D.m.th. Muhamedin (a.s.).
+[^270]: D.m.th. Muhamedin (a.s.).
 
 # 3614
 
@@ -14989,10 +15014,11 @@ Ata punonin për atë çfarë të dëshironte: faltore dhe statuja, enë të gje
 
 # 3620
 
-Kur Ne ia caktuam atij vdekjen, atyre[271] nuk u dha shenjë askush për vdekjen e tij, pos krimbit të drurit[272]. Dhe, kur u rrëzua (Sulejmani), u bë e qartë se, sikur ta dinin xhindet të padukshmen, nuk do të vijonin në dënimin e poshtëruar.
+Kur Ne ia caktuam atij vdekjen, atyre[^271] nuk u dha shenjë askush për vdekjen e tij, pos krimbit të drurit[^272]. Dhe, kur u rrëzua (Sulejmani), u bë e qartë se, sikur ta dinin xhindet të padukshmen, nuk do të vijonin në dënimin e poshtëruar.
 
-[271] D.m.th. xhindeve.
-[272] Krimbi brejti shkopin ku Sulejmani mbështetej i vdekur.
+[^271]: D.m.th. xhindeve.
+
+[^272]: Krimbi brejti shkopin ku Sulejmani mbështetej i vdekur.
 
 # 3621
 
@@ -15776,9 +15802,9 @@ e do t’i afrohen njëri-tjetrit, duke u grindur.
 
 # 3816
 
-(Pasuesit) do t’u thonë (prijësve): “Ju na vinit nga ana e djathtë[273]”.
+(Pasuesit) do t’u thonë (prijësve): “Ju na vinit nga ana e djathtë[^273]”.
 
-[273] E djathta paraqet në kulturën dhe në gjuhën arabe (dhe jo vetëm në të) anën e arsyes dhe të së mirës, kështu që shprehja “na vinit nga e djathta” do të thotë: “Ju na paraqiteshit me argumente që në pamje të parë ishin të paqortueshme, për të na nxjerrë nga rruga e drejtë”.
+[^273]: E djathta paraqet në kulturën dhe në gjuhën arabe (dhe jo vetëm në të) anën e arsyes dhe të së mirës, kështu që shprehja “na vinit nga e djathta” do të thotë: “Ju na paraqiteshit me argumente që në pamje të parë ishin të paqortueshme, për të na nxjerrë nga rruga e drejtë”.
 
 # 3817
 
@@ -16022,9 +16048,9 @@ Pastaj u hodhi një shikim yjeve
 
 # 3877
 
-e tha: “Unë jam i sëmurë”.[274]
+e tha: “Unë jam i sëmurë”.[^274]
 
-[274] Ibrahimi tha kështu që të mos merrte pjesë së bashku me banorët e tjerë në një festë pagane që zhvillohej jashtë qytetit.
+[^274]: Ibrahimi tha kështu që të mos merrte pjesë së bashku me banorët e tjerë në një festë pagane që zhvillohej jashtë qytetit.
 
 # 3878
 
@@ -16168,9 +16194,9 @@ Ai i tha popullit të vet: “A nuk po i frikësoheni Allahut?!”
 
 # 3913
 
-Vallë, a i luteni ju Ba‘lit[275], ndërsa braktisni Krijuesin më të mirë,
+Vallë, a i luteni ju Ba‘lit[^275], ndërsa braktisni Krijuesin më të mirë,
 
-[275] Një idhull i njohur ndër popujt e lashtë të Lindjes së Mesme.
+[^275]: Një idhull i njohur ndër popujt e lashtë të Lindjes së Mesme.
 
 # 3914
 
@@ -16234,9 +16260,9 @@ Ai nxitoi drejt një anijeje të mbushur plot e përplot
 
 # 3929
 
-dhe hodhi short (me detarët se kush duhej të hidhej)[276] dhe humbi.
+dhe hodhi short (me detarët se kush duhej të hidhej)[^276] dhe humbi.
 
-[276] Sipas komentuesve të Kuranit (konkretisht Ibn Kethirit), për shkak të ngarkesës së madhe, anija ishte gati të mbytej, prandaj detarët ranë dakord ta bëjnë me short se kush do të hidhej nga anija, në mënyrë që pesha e saj të lehtësohej e të shpëtonin nga mbytja.
+[^276]: Sipas komentuesve të Kuranit (konkretisht Ibn Kethirit), për shkak të ngarkesës së madhe, anija ishte gati të mbytej, prandaj detarët ranë dakord ta bëjnë me short se kush do të hidhej nga anija, në mënyrë që pesha e saj të lehtësohej e të shpëtonin nga mbytja.
 
 # 3930
 
@@ -16324,9 +16350,9 @@ nuk mund të mashtroni askënd kundër (Atij),
 
 # 3951
 
-përveç atyre, që do të digjen në Zjarrin flakërues.[277]
+përveç atyre, që do të digjen në Zjarrin flakërues.[^277]
 
-[277] Sipas disa komentuesve të Kuranit, këto janë fjalët e engjëllit Xhebrail.
+[^277]: Sipas disa komentuesve të Kuranit, këto janë fjalët e engjëllit Xhebrail.
 
 # 3952
 
@@ -16462,9 +16488,9 @@ Të gjithë ata i quajtën të dërguarit gënjeshtarë, andaj e merituan dënim
 
 # 3985
 
-Kurse këta (mekasit) presin vetëm një britmë (fryrjen e parë të bririt) që nuk do të pushojë[278].
+Kurse këta (mekasit) presin vetëm një britmë (fryrjen e parë të bririt) që nuk do të pushojë[^278].
 
-[278] Pra, nuk do të pushojë derisa të shuhet gjithçka që ndodhet në qiej dhe në Tokë, përveç atyre që do Allahu.
+[^278]: Pra, nuk do të pushojë derisa të shuhet gjithçka që ndodhet në qiej dhe në Tokë, përveç atyre që do Allahu.
 
 # 3986
 
@@ -16580,9 +16606,9 @@ Ne ia kthyem atij familjen dhe dy herë më tepër, si mëshirë prej Nesh dhe k
 
 # 4014
 
-(Ne i thamë atij): “Merr me dorën tënde një tufë thuprash e bjeri lehtë me to (gruas tënde) dhe mos e shkel betimin tënd![279]” Ne e gjetëm atë të durueshëm, rob të mrekullueshëm. Ai kthehej vazhdimisht me pendesë tek Zoti!
+(Ne i thamë atij): “Merr me dorën tënde një tufë thuprash e bjeri lehtë me to (gruas tënde) dhe mos e shkel betimin tënd![^279]” Ne e gjetëm atë të durueshëm, rob të mrekullueshëm. Ai kthehej vazhdimisht me pendesë tek Zoti!
 
-[279] Sipas komentuesve të Kuranit, gjatë kohës që ishte sëmurë, Ejubi (a.s.) u inatos me të shoqen për disa çështje dhe u betua që, nëse do ta shëronte Allahu, ai do ta godiste gruan njëqind herë me thupër. Pasi u shërua, Allahu e urdhëroi Ejubin ta përmbushte betimin, por duke e qëlluar gruan lehtë një herë të vetme me një tufë prej njëqind thuprash.
+[^279]: Sipas komentuesve të Kuranit, gjatë kohës që ishte sëmurë, Ejubi (a.s.) u inatos me të shoqen për disa çështje dhe u betua që, nëse do ta shëronte Allahu, ai do ta godiste gruan njëqind herë me thupër. Pasi u shërua, Allahu e urdhëroi Ejubin ta përmbushte betimin, por duke e qëlluar gruan lehtë një herë të vetme me një tufë prej njëqind thuprash.
 
 # 4015
 
@@ -16642,9 +16668,9 @@ dhe të tjera mundime të llojllojshme, të ngjashme me to.
 
 # 4029
 
-Ne do t’u themi prijësve të jobesimtarëve: “Ky është një grumbull bashkë me ju.[280] Nuk ka mirëseardhje për ta. Me siguri që ata do të digjen në zjarr!”
+Ne do t’u themi prijësve të jobesimtarëve: “Ky është një grumbull bashkë me ju.[^280] Nuk ka mirëseardhje për ta. Me siguri që ata do të digjen në zjarr!”
 
-[280] Në fillim do të hidhen në Xhehenem prijësit e jobesimtarëve. Më pas, do të hidhen turmat që shkuan pas tyre në mosbesim dhe prijësve do t’u thuhet: “Ky është grumbull bashkë me ju”.
+[^280]: Në fillim do të hidhen në Xhehenem prijësit e jobesimtarëve. Më pas, do të hidhen turmat që shkuan pas tyre në mosbesim dhe prijësve do t’u thuhet: “Ky është grumbull bashkë me ju”.
 
 # 4030
 
@@ -16784,9 +16810,9 @@ Ai i ka krijuar qiejt dhe Tokën për të shpallur të Vërtetën. Ai e bën nat
 
 # 4064
 
-Ai ju krijoi prej një njeriu të vetëm; pastaj, prej tij krijoi shoqen e tij. Ai ka krijuar për ju tetë çifte bagëtish[281]. Ai ju krijon në barqet e nënave tuaja, fazë pas faze në një errësirë të trefishtë. Ky është Allahu - Zoti juaj; Atij i përket i tërë pushteti; nuk ka zot tjetër të vërtetë përveç Tij. Atëherë, si është e mundur që largoheni prej Tij?!
+Ai ju krijoi prej një njeriu të vetëm; pastaj, prej tij krijoi shoqen e tij. Ai ka krijuar për ju tetë çifte bagëtish[^281]. Ai ju krijon në barqet e nënave tuaja, fazë pas faze në një errësirë të trefishtë. Ky është Allahu - Zoti juaj; Atij i përket i tërë pushteti; nuk ka zot tjetër të vërtetë përveç Tij. Atëherë, si është e mundur që largoheni prej Tij?!
 
-[281] Dy prej deveve, dy prej lopëve, dy prej dhenve dhe dy prej dhive.
+[^281]: Dy prej deveve, dy prej lopëve, dy prej dhenve dhe dy prej dhive.
 
 # 4065
 
@@ -16794,9 +16820,9 @@ Nëse ju e mohoni Atë, dijeni se Allahu është vërtet i pavarur prej jush. Me
 
 # 4066
 
-Kur njeriun e godet një e keqe, ai i lutet Zotit të vet, duke iu drejtuar me pendesë. E kur atij i vjen një e mirë prej Zotit, ai harron se për çfarë ishte duke u lutur më parë dhe sajon zota të tjerë të barabartë me Allahun, për t’i larguar të tjerët nga rruga e Tij. Thuaj (o Muhamed)[282]: “Kënaqu pak me mosbesimin tënd! Ti, me siguri, do të jesh nga banorët e zjarrit!”
+Kur njeriun e godet një e keqe, ai i lutet Zotit të vet, duke iu drejtuar me pendesë. E kur atij i vjen një e mirë prej Zotit, ai harron se për çfarë ishte duke u lutur më parë dhe sajon zota të tjerë të barabartë me Allahun, për t’i larguar të tjerët nga rruga e Tij. Thuaj (o Muhamed)[^282]: “Kënaqu pak me mosbesimin tënd! Ti, me siguri, do të jesh nga banorët e zjarrit!”
 
-[282] Pra, thuaji këtij lloj njeriu.
+[^282]: Pra, thuaji këtij lloj njeriu.
 
 # 4067
 
@@ -16968,9 +16994,9 @@ Kështu thoshin edhe ata që ishin para tyre, prandaj nuk patën dobi nga ajo q�
 
 # 4109
 
-Prandaj ata i goditi dënimi i të këqijave që kishin punuar. Por, edhe keqbërësve prej këtyre[283] do t’u bjerë dënimi për të këqijat, që kanë bërë e nuk do të mund t’i ikin atij.
+Prandaj ata i goditi dënimi i të këqijave që kishin punuar. Por, edhe keqbërësve prej këtyre[^283] do t’u bjerë dënimi për të këqijat, që kanë bërë e nuk do të mund t’i ikin atij.
 
-[283] D.m.th. idhujtarëve të Mekës.
+[^283]: D.m.th. idhujtarëve të Mekës.
 
 # 4110
 
@@ -17086,9 +17112,9 @@ Askush nuk i vë në dyshim shpalljet e Allahut, përveç atyre që nuk besojnë
 
 # 4138
 
-Në të vërtetë, edhe para tyre[284] i mohoi (shpalljet dhe mrekullitë e Allahut) populli i Nuhut. E po ashtu edhe grupet e tjera pas tij. Secili popull u përpoq ta mundonte të dërguarin e vet dhe ta mohonte të vërtetën me kundërshtime të rreme, andaj Unë i dënova ata. Eh, si ka qenë dënimi Im!
+Në të vërtetë, edhe para tyre[^284] i mohoi (shpalljet dhe mrekullitë e Allahut) populli i Nuhut. E po ashtu edhe grupet e tjera pas tij. Secili popull u përpoq ta mundonte të dërguarin e vet dhe ta mohonte të vërtetën me kundërshtime të rreme, andaj Unë i dënova ata. Eh, si ka qenë dënimi Im!
 
-[284] D.m.th. paganëve të Mekës.
+[^284]: D.m.th. paganëve të Mekës.
 
 # 4139
 
@@ -17152,9 +17178,9 @@ Ai gjykon me drejtësi, ndërsa idhujt të cilëve u luten, përveç Tij, nuk gj
 
 # 4154
 
-A nuk kanë udhëtuar ata[285] nëpër botë, që të shohin se si ka qenë fundi i atyre që kanë jetuar më parë, kombe shumë herë më të fuqishëm dhe me më shumë gjurmë (përmendore, ndërtime) se këta? Allahu i dënoi për shkak të gjynaheve të tyre dhe ata nuk patën askënd që t’i mbronte prej dënimit të Allahut.
+A nuk kanë udhëtuar ata[^285] nëpër botë, që të shohin se si ka qenë fundi i atyre që kanë jetuar më parë, kombe shumë herë më të fuqishëm dhe me më shumë gjurmë (përmendore, ndërtime) se këta? Allahu i dënoi për shkak të gjynaheve të tyre dhe ata nuk patën askënd që t’i mbronte prej dënimit të Allahut.
 
-[285] Paganët e Mekës.
+[^285]: Paganët e Mekës.
 
 # 4155
 
@@ -17466,9 +17492,9 @@ Nëse ata shmangen, ti thuaju: “Ju paralajmëroj me rrufenë që goditi fiset 
 
 # 4232
 
-Kur atyre[286] u erdhën të dërguarit nga çdo anë, duke u thënë: “Mos adhuroni tjetër përveç Zotit!”, ata thanë: “Sikur të kishte dashur Zoti ynë, Ai do të kishte dërguar engjëj. Ne nuk besojmë në mesazhin tuaj.”
+Kur atyre[^286] u erdhën të dërguarit nga çdo anë, duke u thënë: “Mos adhuroni tjetër përveç Zotit!”, ata thanë: “Sikur të kishte dashur Zoti ynë, Ai do të kishte dërguar engjëj. Ne nuk besojmë në mesazhin tuaj.”
 
-[286] D.m.th. fiseve Ad dhe Themud.
+[^286]: D.m.th. fiseve Ad dhe Themud.
 
 # 4233
 
@@ -17552,9 +17578,9 @@ Nuk barazohet e mira me të keqen! Të keqen ktheje me të mirë e atëherë arm
 
 # 4253
 
-Ky virtyt u dhurohet vetëm atyre që durojnë dhe vetëm atyre që kanë një fat të madh.[287]
+Ky virtyt u dhurohet vetëm atyre që durojnë dhe vetëm atyre që kanë një fat të madh.[^287]
 
-[287] D.m.th. atyre që janë pajisur me moralin e mirë në jetën e kësaj bote dhe që do të fitojnë lumturinë e Xhenetit në botën tjetër.
+[^287]: D.m.th. atyre që janë pajisur me moralin e mirë në jetën e kësaj bote dhe që do të fitojnë lumturinë e Xhenetit në botën tjetër.
 
 # 4254
 
@@ -17566,9 +17592,9 @@ Ndër shenjat e Tij janë nata dhe dita, si dhe Dielli dhe Hëna. Mos bëni sexh
 
 # 4256
 
-E, nëse idhujtarët tregohen kryeneçë, le ta dinë se ata[288] që janë te Zoti yt, e lavdërojnë Atë natën dhe ditën e kurrë nuk ndihen të lodhur.
+E, nëse idhujtarët tregohen kryeneçë, le ta dinë se ata[^288] që janë te Zoti yt, e lavdërojnë Atë natën dhe ditën e kurrë nuk ndihen të lodhur.
 
-[288] Engjëjt.
+[^288]: Engjëjt.
 
 # 4257
 
@@ -17580,9 +17606,9 @@ Ata që i shtrembërojnë shpalljet Tona, nuk mund të Na fshihen. Si mendoni, a
 
 # 4259
 
-Ata që e mohojnë Fjalën Tonë përkujtuese[289], kur u vjen, do të dënohen rëndë. Ai është vërtet një Libër i madhërishëm.
+Ata që e mohojnë Fjalën Tonë përkujtuese[^289], kur u vjen, do të dënohen rëndë. Ai është vërtet një Libër i madhërishëm.
 
-[289] Kuranin.
+[^289]: Kuranin.
 
 # 4260
 
@@ -17594,9 +17620,9 @@ Nuk të thuhet ty (o Muhamed) asgjë, përpos asaj që u është thënë të dë
 
 # 4262
 
-Sikur ta kishim shpallur Kuranin në një gjuhë tjetër, ata do të thoshin: “Ah, sikur vargjet e tij të ishin të kuptueshme! Vallë, pse të jetë në një gjuhë të huaj, ndërkohë që ai[290] është arab?!” Thuaj: “Ai është udhërrëfyes dhe shërim për besimtarët”. Por ata që nuk besojnë, janë të shurdhër dhe të verbër, njësoj si të thirreshin prej vendeve të largëta.
+Sikur ta kishim shpallur Kuranin në një gjuhë tjetër, ata do të thoshin: “Ah, sikur vargjet e tij të ishin të kuptueshme! Vallë, pse të jetë në një gjuhë të huaj, ndërkohë që ai[^290] është arab?!” Thuaj: “Ai është udhërrëfyes dhe shërim për besimtarët”. Por ata që nuk besojnë, janë të shurdhër dhe të verbër, njësoj si të thirreshin prej vendeve të largëta.
 
-[290] Profeti Muhamed (a.s.).
+[^290]: Profeti Muhamed (a.s.).
 
 # 4263
 
@@ -17692,10 +17718,11 @@ Ai ka urdhëruar për ju atë Fe, të cilën ta zbuloi ty (o Muhamed) dhe që pa
 
 # 4286
 
-Sidoqoftë, ata[291] u përçanë midis tyre prej smirës, vetëm pasi u erdhi dijenia. Dhe, sikur të mos kishte paraprirë fjala e Zotit tënd (për shtyrjen e dënimit) deri në një afat të caktuar, ata do të gjykoheshin menjëherë. Edhe ata[292] që trashëguan Librin më pas, dyshojnë thellë në të.
+Sidoqoftë, ata[^291] u përçanë midis tyre prej smirës, vetëm pasi u erdhi dijenia. Dhe, sikur të mos kishte paraprirë fjala e Zotit tënd (për shtyrjen e dënimit) deri në një afat të caktuar, ata do të gjykoheshin menjëherë. Edhe ata[^292] që trashëguan Librin më pas, dyshojnë thellë në të.
 
-[291] Hebrenjtë dhe të krishterët.
-[292] Fisi Kurejsh në Mekë.
+[^291]: Hebrenjtë dhe të krishterët.
+
+[^292]: Fisi Kurejsh në Mekë.
 
 # 4287
 
@@ -17775,9 +17802,9 @@ Nëse Ai do, e qetëson erën dhe ato mbesin të palëvizshme në sipërfaqen e 
 
 # 4306
 
-Ose, Ai mund t’i fundosë anijet, për shkak të gjynaheve që kanë bërë ata[293]. Sidoqoftë, Ai fal shumë.
+Ose, Ai mund t’i fundosë anijet, për shkak të gjynaheve që kanë bërë ata[^293]. Sidoqoftë, Ai fal shumë.
 
-[293] D.m.th. lundërtarët.
+[^293]: D.m.th. lundërtarët.
 
 # 4307
 
@@ -17913,9 +17940,9 @@ dhe ne, me siguri, do të kthehemi te Zoti ynë!”
 
 # 4340
 
-Ata i kanë quajtur si pjesë të Tij[294] disa prej robërve të Tij! Me të vërtetë, njeriu është mohues i hapët.
+Ata i kanë quajtur si pjesë të Tij[^294] disa prej robërve të Tij! Me të vërtetë, njeriu është mohues i hapët.
 
-[294] Arabët paganë besonin se engjëjt ishin vajzat e Allahut.
+[^294]: Arabët paganë besonin se engjëjt ishin vajzat e Allahut.
 
 # 4341
 
@@ -17923,9 +17950,9 @@ Vallë, prej krijesave të Veta, Ai të zgjedhë vajza e juve t’ju dhurojë dj
 
 # 4342
 
-Kur ndonjëri nga ata merr lajmin e mirë për lindjen e asaj, që ia veshin të Gjithëmëshirshmit (si pjesë e Tij)[295], atij i nxihet fytyra dhe pikëllohet.
+Kur ndonjëri nga ata merr lajmin e mirë për lindjen e asaj, që ia veshin të Gjithëmëshirshmit (si pjesë e Tij)[^295], atij i nxihet fytyra dhe pikëllohet.
 
-[295] Pra, kur merr lajmin për lindjen e një vajze.
+[^295]: Pra, kur merr lajmin për lindjen e një vajze.
 
 # 4343
 
@@ -17937,9 +17964,9 @@ Engjëjt, të cilët janë robërit e të Gjithëmëshirshmit, ata i bëjnë pë
 
 # 4345
 
-Dhe ata thonë: “Sikur të kishte dashur i Gjithëmëshirshmi, ne nuk do t’i kishim adhuruar ata[296].” Ata nuk dinë asgjë për këtë, ata vetëm gënjejnë.
+Dhe ata thonë: “Sikur të kishte dashur i Gjithëmëshirshmi, ne nuk do t’i kishim adhuruar ata[^296].” Ata nuk dinë asgjë për këtë, ata vetëm gënjejnë.
 
-[296] D.m.th. idhujt, engjëjt etj.
+[^296]: D.m.th. idhujt, engjëjt etj.
 
 # 4346
 
@@ -17975,9 +18002,9 @@ Ai e bëri këtë fjalë të përhershme te pasardhësit e tij, me qëllim që a
 
 # 4354
 
-Kurse Unë i lashë të kënaqen këta[297] dhe etërit e tyre, derisa u erdhi e Vërteta (Kurani) dhe i Dërguari, që ua bëri të qarta.
+Kurse Unë i lashë të kënaqen këta[^297] dhe etërit e tyre, derisa u erdhi e Vërteta (Kurani) dhe i Dërguari, që ua bëri të qarta.
 
-[297] Fisin Kurejsh, pasardhës të Ibrahimit nga biri i tij, Ismaili.
+[^297]: Fisin Kurejsh, pasardhës të Ibrahimit nga biri i tij, Ismaili.
 
 # 4355
 
@@ -17985,9 +18012,9 @@ Por, kur u erdhi e Vërteta, ata thanë: “Kjo është magji dhe ne sigurisht q
 
 # 4356
 
-Sikur t’i kishte zbritur ky Kuran ndonjë njeriu të madh prej njërit nga këto dy qytete[298]"!
+Sikur t’i kishte zbritur ky Kuran ndonjë njeriu të madh prej njërit nga këto dy qytete[^298]"!
 
-[298] Mekës dhe Taifit.
+[^298]: Mekës dhe Taifit.
 
 # 4357
 
@@ -17995,9 +18022,9 @@ Vallë, a mos janë ata që e ndajnë mëshirën e Zotit tënd? Jemi Ne ata që 
 
 # 4358
 
-Dhe, sikur njerëzit të mos ishin një bashkësi mohuesish, Ne do t’i bënim prej argjendi çatitë e shtëpive të atyre që nuk besojnë në të Gjithëmëshirshmin[299], madje edhe shkallët nëpër të cilat ngjiten,
+Dhe, sikur njerëzit të mos ishin një bashkësi mohuesish, Ne do t’i bënim prej argjendi çatitë e shtëpive të atyre që nuk besojnë në të Gjithëmëshirshmin[^299], madje edhe shkallët nëpër të cilat ngjiten,
 
-[299] Pra, sikur të mos ishte besimi i gabuar i shumë njerëzve se, pasuria që Zoti i jep dikujt, është provë e dashurisë së Tij për këtë njeri, qoftë ky edhe jobesimtar, Allahu do t’u jepte jobesimtarëve edhe më shumë begati (Ibn Kethir).
+[^299]: Pra, sikur të mos ishte besimi i gabuar i shumë njerëzve se, pasuria që Zoti i jep dikujt, është provë e dashurisë së Tij për këtë njeri, qoftë ky edhe jobesimtar, Allahu do t’u jepte jobesimtarëve edhe më shumë begati (Ibn Kethir).
 
 # 4359
 
@@ -18021,9 +18048,9 @@ Dhe, kur të vijë te Ne, (jobesimtari) do t’i thotë (djallit që e kishte sh
 
 # 4364
 
-(Atyre do t’u thuhet): “Nuk do t’ju bëjë dobi (pendimi) juve sot[300], sepse ju u larguat nga e vërteta dhe humbët. Me të vërtetë, ju jeni pjesëtarë në dënim”.
+(Atyre do t’u thuhet): “Nuk do t’ju bëjë dobi (pendimi) juve sot[^300], sepse ju u larguat nga e vërteta dhe humbët. Me të vërtetë, ju jeni pjesëtarë në dënim”.
 
-[300] D.m.th. në Ditën e Kiametit.
+[^300]: D.m.th. në Ditën e Kiametit.
 
 # 4365
 
@@ -18143,9 +18170,9 @@ Atë Ditë miqtë do të bëhen armiq të njëri-tjetrit, përveç të drejtëve
 
 # 4394
 
-Ju që keni besuar shpalljet Tona dhe keni qenë myslimanë,[301]
+Ju që keni besuar shpalljet Tona dhe keni qenë myslimanë,[^301]
 
-[301] “keni qenë myslimanë” - pra, të bindur ndaj Allahut.
+[^301]: “keni qenë myslimanë” - pra, të bindur ndaj Allahut.
 
 # 4395
 
@@ -18177,9 +18204,9 @@ Ne atyre nuk u bëmë padrejtësi, por ata vetë i bënë keq vetvetes.
 
 # 4402
 
-Ata do të thërrasin: “O Malik[302]! (Më mirë) Le të na vdesë Zoti yt!”, ndërsa Ai do të thotë: “Ju do të qëndroni përherë aty!”
+Ata do të thërrasin: “O Malik[^302]! (Më mirë) Le të na vdesë Zoti yt!”, ndërsa Ai do të thotë: “Ju do të qëndroni përherë aty!”
 
-[302] Një nga engjëjt mbikëqyrës të Xhehenemit.
+[^302]: Një nga engjëjt mbikëqyrës të Xhehenemit.
 
 # 4403
 
@@ -18195,9 +18222,9 @@ Vallë, a mos kujtojnë ata se Ne nuk i dëgjojmë fjalët e tyre tinëzare dhe 
 
 # 4406
 
-Thuaju[303] (o Muhamed): “Sikur i Gjithëmëshirshmi të kishte bir, Unë do të isha i pari që do ta adhuroja atë!
+Thuaju[^303] (o Muhamed): “Sikur i Gjithëmëshirshmi të kishte bir, Unë do të isha i pari që do ta adhuroja atë!
 
-[303] D.m.th. të krishterëve.
+[^303]: D.m.th. të krishterëve.
 
 # 4407
 
@@ -18217,15 +18244,15 @@ Qoftë i lartësuar në lavdi Ai, të Cilit i përket pushteti i qiejve dhe i To
 
 # 4411
 
-Ata që u adhuruan në vend të Allahut, nuk do të mund të ndërmjetësojnë për askënd, përveç atyre që dëshmuan për të Vërtetën[304] dhe e dinë mirë (se s’ka Zot tjetër të vërtetë veç Allahut).
+Ata që u adhuruan në vend të Allahut, nuk do të mund të ndërmjetësojnë për askënd, përveç atyre që dëshmuan për të Vërtetën[^304] dhe e dinë mirë (se s’ka Zot tjetër të vërtetë veç Allahut).
 
-[304] Siç janë Isai, engjëjt ose ndonjë profet tjetër, të cilët u adhuruan pa dëshirën e tyre.
+[^304]: Siç janë Isai, engjëjt ose ndonjë profet tjetër, të cilët u adhuruan pa dëshirën e tyre.
 
 # 4412
 
-Nëse i pyet ata[305] se kush i ka krijuar, me siguri që ata do të thonë: “Allahu!” Atëherë, përse largohen prej Tij?!
+Nëse i pyet ata[^305] se kush i ka krijuar, me siguri që ata do të thonë: “Allahu!” Atëherë, përse largohen prej Tij?!
 
-[305] Siç janë Isai, engjëjt ose ndonjë profet tjetër, të cilët u adhuruan pa dëshirën e tyre.
+[^305]: Siç janë Isai, engjëjt ose ndonjë profet tjetër, të cilët u adhuruan pa dëshirën e tyre.
 
 # 4413
 
@@ -18245,9 +18272,9 @@ Betohem në Librin e qartë!
 
 # 4417
 
-Ne e zbritëm Kuranin në një natë të bekuar[306]. Vërtet, Ne gjithmonë kemi qenë paralajmërues.
+Ne e zbritëm Kuranin në një natë të bekuar[^306]. Vërtet, Ne gjithmonë kemi qenë paralajmërues.
 
-[306] Në Natën e Kadrit.
+[^306]: Në Natën e Kadrit.
 
 # 4418
 
@@ -18307,9 +18334,9 @@ Përpara tyre Ne vumë në sprovë popullin e Faraonit, kur u pat ardhur i Dërg
 
 # 4432
 
-(i cili u tha): “Më sillni robërit e Allahut,[307] sepse Unë jam për ju një i dërguar i besuar!
+(i cili u tha): “Më sillni robërit e Allahut,[^307] sepse Unë jam për ju një i dërguar i besuar!
 
-[307] Hebrenjtë që jetonin të skllavëruar në Egjipt.
+[^307]: Hebrenjtë që jetonin të skllavëruar në Egjipt.
 
 # 4433
 
@@ -18329,9 +18356,9 @@ Dhe ai iu lut Zotit të vet: “Ky është vërtet një popull keqbërës!”
 
 # 4437
 
-(Allahu i tha): “Ec bashkë me robërit e Mi natën, sepse ata[308] do t’ju ndjekin!
+(Allahu i tha): “Ec bashkë me robërit e Mi natën, sepse ata[^308] do t’ju ndjekin!
 
-[308] Faraoni me ushtrinë e tij.
+[^308]: Faraoni me ushtrinë e tij.
 
 # 4438
 
@@ -18531,9 +18558,9 @@ Ai ka vënë në shërbimin tuaj çka gjendet në qiej dhe në Tokë, të gjitha
 
 # 4487
 
-Thuaju besimtarëve, që t’i falin ata që nuk shpresojnë në ditët e Allahut[309], kështu që Ai të shpërblejë çdo popull sipas veprave të veta.
+Thuaju besimtarëve, që t’i falin ata që nuk shpresojnë në ditët e Allahut[^309], kështu që Ai të shpërblejë çdo popull sipas veprave të veta.
 
-[309] D.m.th. shpërblimin e Allahut.
+[^309]: D.m.th. shpërblimin e Allahut.
 
 # 4488
 
@@ -18597,9 +18624,9 @@ Ky është Libri Ynë, që do t’ju tregojë të vërtetën. Ne i kemi urdhëru
 
 # 4503
 
-Për sa u përket atyre që kanë besuar dhe kanë bërë vepra të mira, ata do t’i pranojë Zoti i tyre në mëshirën e Vet[310]. Kjo është fitorja e lavdishme!
+Për sa u përket atyre që kanë besuar dhe kanë bërë vepra të mira, ata do t’i pranojë Zoti i tyre në mëshirën e Vet[^310]. Kjo është fitorja e lavdishme!
 
-[310] D.m.th. në Xhenet.
+[^310]: D.m.th. në Xhenet.
 
 # 4504
 
@@ -18667,9 +18694,9 @@ Thuaju: “Unë nuk jam i pari i dërguar dhe nuk e di çfarë do të ndodhë me
 
 # 4520
 
-Thuaju: “Më tregoni, se ç’do të bëhet me ju, nëse Kurani është vërtet prej Allahut e ju e mohoni, ndërkohë që një dëshmitar nga bijtë e Israilit[311] dëshmon për vërtetësinë e tij dhe e beson atë, kurse ju tregoheni kryelartë?!” Me të vërtetë, Allahu, nuk i udhëzon (në rrugë të drejtë) njerëzit e padrejtë.
+Thuaju: “Më tregoni, se ç’do të bëhet me ju, nëse Kurani është vërtet prej Allahut e ju e mohoni, ndërkohë që një dëshmitar nga bijtë e Israilit[^311] dëshmon për vërtetësinë e tij dhe e beson atë, kurse ju tregoheni kryelartë?!” Me të vërtetë, Allahu, nuk i udhëzon (në rrugë të drejtë) njerëzit e padrejtë.
 
-[311] D.m.th. në Xhenet.
+[^311]: D.m.th. në Xhenet.
 
 # 4521
 
@@ -18733,9 +18760,9 @@ që, me urdhrin e Allahut, shkatërron çdo gjë.” E në mëngjes u panë vet�
 
 # 4536
 
-Ne i kishim bërë ata më të fuqishëm se ju[312] dhe u kishim dhënë atyre dëgjimin, shikimin dhe zemrën, por as dëgjimi i tyre, as shikimi i tyre e as zemra e tyre, nuk u sollën kurrfarë dobie, sepse mohuan shpalljet e Allahut; ata i goditi ajo me të cilën talleshin.
+Ne i kishim bërë ata më të fuqishëm se ju[^312] dhe u kishim dhënë atyre dëgjimin, shikimin dhe zemrën, por as dëgjimi i tyre, as shikimi i tyre e as zemra e tyre, nuk u sollën kurrfarë dobie, sepse mohuan shpalljet e Allahut; ata i goditi ajo me të cilën talleshin.
 
-[312] Banorët e Mekës.
+[^312]: Banorët e Mekës.
 
 # 4537
 
@@ -18743,9 +18770,9 @@ Edhe më parë Ne kemi shkatërruar vendbanime rreth jush e u kemi shpjeguar aty
 
 # 4538
 
-Përse nuk u erdhën në ndihmë atyre idhujt, që i adhuruan si zota krahas Allahut, për t’u afruar tek Ai?! Vërtet, idhujt i lanë në baltë ata[313]. Këto ishin vetëm gënjeshtrat dhe shpifjet e tyre (idhujtarëve).
+Përse nuk u erdhën në ndihmë atyre idhujt, që i adhuruan si zota krahas Allahut, për t’u afruar tek Ai?! Vërtet, idhujt i lanë në baltë ata[^313]. Këto ishin vetëm gënjeshtrat dhe shpifjet e tyre (idhujtarëve).
 
-[313] Adhuruesit e tyre.
+[^313]: Adhuruesit e tyre.
 
 # 4539
 
@@ -18773,9 +18800,9 @@ Ditën, kur ata që kanë mohuar do të ballafaqohen me zjarrin (do t’u thuhet
 
 # 4545
 
-Prandaj, ti bëhu i durueshëm (o Muhamed), ashtu siç kanë duruar me këmbëngulje të dërguarit e vendosur dhe mos kërko shpejtimin e dënimit për ata[314]! Ditën, kur të përjetojnë atë që u është premtuar, atyre do t’u duket se kanë qëndruar (në Tokë) vetëm një çast të ditës. Kjo është shpallje e qartë. E kush do të shkatërrohet tjetër, përveç popullit të pabindur!?
+Prandaj, ti bëhu i durueshëm (o Muhamed), ashtu siç kanë duruar me këmbëngulje të dërguarit e vendosur dhe mos kërko shpejtimin e dënimit për ata[^314]! Ditën, kur të përjetojnë atë që u është premtuar, atyre do t’u duket se kanë qëndruar (në Tokë) vetëm një çast të ditës. Kjo është shpallje e qartë. E kush do të shkatërrohet tjetër, përveç popullit të pabindur!?
 
-[314] Jobesimtarët e Mekës.
+[^314]: Jobesimtarët e Mekës.
 
 # 4546
 
@@ -18803,9 +18830,9 @@ dhe do t’i shpjerë në Xhenet, të cilin ua ka bërë të njohur më parë.
 
 # 4552
 
-O besimtarë, nëse e ndihmoni Allahun[315], edhe Ai do t’ju ndihmojë dhe do t’ju bëjë të qëndroni fort në këmbët tuaja.
+O besimtarë, nëse e ndihmoni Allahun[^315], edhe Ai do t’ju ndihmojë dhe do t’ju bëjë të qëndroni fort në këmbët tuaja.
 
-[315] Pra, çështjen e Tij.
+[^315]: Pra, çështjen e Tij.
 
 # 4553
 
@@ -18857,9 +18884,9 @@ Dije se nuk ka zot tjetër të vërtetë përveç Allahut! Kërko falje për gjy
 
 # 4565
 
-Besimtarët thonë: “Sikur të ishte shpallur një sure!” Por, kur shpallet një sure e qartë dhe në të përmendet lufta, i sheh ata me zemra të sëmura[316], si të vështrojnë ty me shikim si të agonisë së vdekjes! Ndërkohë, më e përshtatshme do të ishte për ata
+Besimtarët thonë: “Sikur të ishte shpallur një sure!” Por, kur shpallet një sure e qartë dhe në të përmendet lufta, i sheh ata me zemra të sëmura[^316], si të vështrojnë ty me shikim si të agonisë së vdekjes! Ndërkohë, më e përshtatshme do të ishte për ata
 
-[316] D.m.th. hipokritët.
+[^316]: D.m.th. hipokritët.
 
 # 4566
 
@@ -18895,9 +18922,9 @@ Kjo, sepse ata pasuan atë që shkakton zemërimin e Allahut dhe urryen pëlqimi
 
 # 4574
 
-Vallë, a mendojnë ata që kanë sëmundje në zemrat e tyre[317], se Allahu nuk do t’ua nxirrte në shesh urrejtjen e tyre (ndaj Islamit)?
+Vallë, a mendojnë ata që kanë sëmundje në zemrat e tyre[^317], se Allahu nuk do t’ua nxirrte në shesh urrejtjen e tyre (ndaj Islamit)?
 
-[317] Pra, hipokritët që kanë sëmundjen e dyshimit dhe të dyfytyrësisë.
+[^317]: Pra, hipokritët që kanë sëmundjen e dyshimit dhe të dyfytyrësisë.
 
 # 4575
 
@@ -18937,9 +18964,9 @@ Ja, juve ju bëhet thirrje të shpenzoni në rrugën e Allahut, por disa prej ju
 
 # 4584
 
-Ne të dhamë ty një fitore të qartë,[318]
+Ne të dhamë ty një fitore të qartë,[^318]
 
-[318] Bëhet fjalë për Traktatin e Paqes së Hudejbijes, të lidhur midis Profetit Muhamed (a.s.) dhe udhëheqësve të Mekës në vitin 6 h / 628 e.s.. Sipas komentuesve të Kuranit, marrëveshja e armëpushimit hoqi barrierat midis idhujtarëve të Mekës dhe myslimanëve të Medinës dhe kontaktet paqësore ndërmjet tyre bënë që të përhapej me shpejtësi besimi islam ndër fiset arabe. Prandaj kjo marrëveshje u quajt “fitore e qartë”.
+[^318]: Bëhet fjalë për Traktatin e Paqes së Hudejbijes, të lidhur midis Profetit Muhamed (a.s.) dhe udhëheqësve të Mekës në vitin 6 h / 628 e.s.. Sipas komentuesve të Kuranit, marrëveshja e armëpushimit hoqi barrierat midis idhujtarëve të Mekës dhe myslimanëve të Medinës dhe kontaktet paqësore ndërmjet tyre bënë që të përhapej me shpejtësi besimi islam ndër fiset arabe. Prandaj kjo marrëveshje u quajt “fitore e qartë”.
 
 # 4585
 
@@ -18951,9 +18978,9 @@ dhe që Allahu të të japë ndihmë të madhe.
 
 # 4587
 
-Është Ai, që zbriti qetësi[319] në zemrat e besimtarëve, për t’ua forcuar besimin, krahas besimit që patën. Të Allahut janë ushtritë e qiejve dhe të Tokës; Allahu është i Gjithëdijshëm dhe i Urtë.
+Është Ai, që zbriti qetësi[^319] në zemrat e besimtarëve, për t’ua forcuar besimin, krahas besimit që patën. Të Allahut janë ushtritë e qiejve dhe të Tokës; Allahu është i Gjithëdijshëm dhe i Urtë.
 
-[319] Shih shënimin në vargun 248 të sures 2.
+[^319]: Shih shënimin në vargun 248 të sures 2.
 
 # 4588
 
@@ -18981,15 +19008,15 @@ Ata që të janë betuar për besnikëri, në të vërtetë, i janë betuar për
 
 # 4594
 
-Do të të thonë ty arabët e shkretëtirës, të cilët ngelën pas jush[320]: “Ne ishim të zënë me bagëtitë dhe familjet tona, prandaj lutju Allahut që të na falë ne!” Ata thonë me gjuhën e tyre atë që nuk e kanë në zemrat e tyre. Thuaju: “Kush mund ta pengojë Allahun ndaj jush, nëse Ai kërkon t’ju godasë ose, nëse synon t’ju bëjë ndonjë të mirë?” Allahu e di atë që ju bëni.
+Do të të thonë ty arabët e shkretëtirës, të cilët ngelën pas jush[^320]: “Ne ishim të zënë me bagëtitë dhe familjet tona, prandaj lutju Allahut që të na falë ne!” Ata thonë me gjuhën e tyre atë që nuk e kanë në zemrat e tyre. Thuaju: “Kush mund ta pengojë Allahun ndaj jush, nëse Ai kërkon t’ju godasë ose, nëse synon t’ju bëjë ndonjë të mirë?” Allahu e di atë që ju bëni.
 
-[320] Pra, që nuk morën pjesë në luftë përkrah jush. Disa fise nga arabët e shkretëtirës kishin lidhur një marrëveshje për mbrojtje të ndërsjellë me Profetin (a.s.), por, nga frika, nuk e respektuan atë, kur besimtarët do të ndesheshin me kurejshët.
+[^320]: Pra, që nuk morën pjesë në luftë përkrah jush. Disa fise nga arabët e shkretëtirës kishin lidhur një marrëveshje për mbrojtje të ndërsjellë me Profetin (a.s.), por, nga frika, nuk e respektuan atë, kur besimtarët do të ndesheshin me kurejshët.
 
 # 4595
 
-Jo! Ju[321] menduat se i Dërguari dhe besimtarët nuk do të kthehen kurrë te familjet e tyre dhe zemrat tuaja ishin të kënaqura me këtë trill. Ju ushqyet mendime shumë të këqija dhe kështu u bëtë popull i pavlefshëm i nisur drejt shkatërrimit.
+Jo! Ju[^321] menduat se i Dërguari dhe besimtarët nuk do të kthehen kurrë te familjet e tyre dhe zemrat tuaja ishin të kënaqura me këtë trill. Ju ushqyet mendime shumë të këqija dhe kështu u bëtë popull i pavlefshëm i nisur drejt shkatërrimit.
 
-[321] Arabët e shkretëtirës.
+[^321]: Arabët e shkretëtirës.
 
 # 4596
 
@@ -19013,10 +19040,11 @@ Nuk është gjynah për të verbrin, as për të çalin, as të sëmurin (që t�
 
 # 4601
 
-Allahu është i kënaqur me ata besimtarë, kur t’u betuan për besnikëri nën hijen e pemës. Ai e dinte se ç’kishte në zemrat e tyre, prandaj u dha atyre qetësi[322] dhe i shpërbleu me një fitore të afërt[323]
+Allahu është i kënaqur me ata besimtarë, kur t’u betuan për besnikëri nën hijen e pemës. Ai e dinte se ç’kishte në zemrat e tyre, prandaj u dha atyre qetësi[^322] dhe i shpërbleu me një fitore të afërt[^323]
 
-[322] Shih shënimin në vargun 248 të sures 2.
-[323] Fitoren e betejës së Hajberit në vitin 7 h. / 629.
+[^322]: Shih shënimin në vargun 248 të sures 2.
+
+[^323]: Fitoren e betejës së Hajberit në vitin 7 h. / 629.
 
 # 4602
 
@@ -19048,9 +19076,9 @@ Jobesimtarët ju penguan t’i afroheni Xhamisë së Shenjtë dhe (penguan) kafs
 
 # 4609
 
-Dhe, kur në zemrat e mohuesve u shfaq zelltaria pagane, Allahu zbriti qetësinë e Tij në zemrën e të Dërguarit të Tij dhe të besimtarëve e i bëri ata të mbështeten fort në fjalën e përkushtimit (ndaj Allahut)[324]. Ata kishin më shumë të drejtë e qenë më të denjë për të. Allahu është i Gjithëdijshëm për çdo gjë.
+Dhe, kur në zemrat e mohuesve u shfaq zelltaria pagane, Allahu zbriti qetësinë e Tij në zemrën e të Dërguarit të Tij dhe të besimtarëve e i bëri ata të mbështeten fort në fjalën e përkushtimit (ndaj Allahut)[^324]. Ata kishin më shumë të drejtë e qenë më të denjë për të. Allahu është i Gjithëdijshëm për çdo gjë.
 
-[324] D.m.th. në parimin “S’ka zot tjetër të vërtetë përveç Allahut”.
+[^324]: D.m.th. në parimin “S’ka zot tjetër të vërtetë përveç Allahut”.
 
 # 4610
 
@@ -19062,9 +19090,9 @@ Allahu e përmbushi me të vërtetë vizionin e të Dërguarit të Tij, i cili k
 
 # 4612
 
-Muhamedi është i Dërguar i Allahut. Ata që janë me të, janë të ashpër ndaj jobesimtarëve e të mëshirshëm midis tyre. I sheh ata si përkulen dhe bien në sexhde, duke kërkuar dhuntinë dhe kënaqësinë e Allahut. Në fytyrat e tyre shihen shenjat e sexhdes. Ky është përshkrimi i tyre në Teurat. Ndërsa në Ungjill, shembulli i tyre përshkruhet si një farë e mbjellë që lëshon filiza e forcohet e pastaj ngrihet e fortë me kërcellin e vet, duke i gëzuar mbjellësit.[325] (Kështu përshkruhen ata) me qëllim që, nëpërmjet tyre, Ai t’i zemërojë mohuesit. Për ata midis tyre që besojnë dhe kryejnë vepra të mira, Allahu ka premtuar falje dhe shpërblim të madh.
+Muhamedi është i Dërguar i Allahut. Ata që janë me të, janë të ashpër ndaj jobesimtarëve e të mëshirshëm midis tyre. I sheh ata si përkulen dhe bien në sexhde, duke kërkuar dhuntinë dhe kënaqësinë e Allahut. Në fytyrat e tyre shihen shenjat e sexhdes. Ky është përshkrimi i tyre në Teurat. Ndërsa në Ungjill, shembulli i tyre përshkruhet si një farë e mbjellë që lëshon filiza e forcohet e pastaj ngrihet e fortë me kërcellin e vet, duke i gëzuar mbjellësit.[^325] (Kështu përshkruhen ata) me qëllim që, nëpërmjet tyre, Ai t’i zemërojë mohuesit. Për ata midis tyre që besojnë dhe kryejnë vepra të mira, Allahu ka premtuar falje dhe shpërblim të madh.
 
-[325] Fara simbolizon fenë islame, rritja e së cilës në fuqi dhe në numër, sigurisht që i mrekullon shikuesit. Ndërsa mbjellësit simbolizojnë Profetin Muhamed (a.s.) dhe shokët e tij, që bënë përpjekjet më të mëdha për rritjen dhe përhapjen e kësaj feje.
+[^325]: Fara simbolizon fenë islame, rritja e së cilës në fuqi dhe në numër, sigurisht që i mrekullon shikuesit. Ndërsa mbjellësit simbolizojnë Profetin Muhamed (a.s.) dhe shokët e tij, që bënë përpjekjet më të mëdha për rritjen dhe përhapjen e kësaj feje.
 
 # 4613
 
@@ -19124,9 +19152,9 @@ Arabët e shkretëtirës deklarojnë: “Ne besojmë”. Thuaju: “Ju nuk keni 
 
 # 4627
 
-Besimtarë të vërtetë janë vetëm ata që besojnë Allahun dhe të Dërguarin e Tij dhe pastaj nuk dyshojnë, por luftojnë në rrugën e Allahut me pasurinë dhe jetën e tyre. Këta janë besimtarë të sinqertë.[326]
+Besimtarë të vërtetë janë vetëm ata që besojnë Allahun dhe të Dërguarin e Tij dhe pastaj nuk dyshojnë, por luftojnë në rrugën e Allahut me pasurinë dhe jetën e tyre. Këta janë besimtarë të sinqertë.[^326]
 
-[326] Në fenë islame konsiderohet mysliman ai njeri i cili i beson Allahut (xh.sh.) dhe Profetit Muhamed (a.s.). Në Kuran, kudo që përmendet populli besimtar, prej kohës së Profetit a.s. e këndej, konsiderohet popull mysliman, meqë fjala mysliman është përcaktuar për besimtarët e Profetit Muhamed a.s. (përkthyesi).
+[^326]: Në fenë islame konsiderohet mysliman ai njeri i cili i beson Allahut (xh.sh.) dhe Profetit Muhamed (a.s.). Në Kuran, kudo që përmendet populli besimtar, prej kohës së Profetit a.s. e këndej, konsiderohet popull mysliman, meqë fjala mysliman është përcaktuar për besimtarët e Profetit Muhamed a.s. (përkthyesi).
 
 # 4628
 
@@ -19294,9 +19322,9 @@ Ne i kemi krijuar qiejt, Tokën dhe çdo gjë që gjendet midis tyre për gjasht
 
 # 4669
 
-Andaj, duroje atë që thonë ata[327], madhëroje Zotin tënd e falënderoje Atë para lindjes së diellit dhe para perëndimit.
+Andaj, duroje atë që thonë ata[^327], madhëroje Zotin tënd e falënderoje Atë para lindjes së diellit dhe para perëndimit.
 
-[327] Jobesimtarët.
+[^327]: Jobesimtarët.
 
 # 4670
 
@@ -19304,9 +19332,9 @@ Madhëroje Atë edhe në një pjesë të natës, edhe pas faljes së namazit.
 
 # 4671
 
-Dhe vëri veshin thërritësit[328] që thërret prej një vendi të afërt,
+Dhe vëri veshin thërritësit[^328] që thërret prej një vendi të afërt,
 
-[328] Engjëllit Israfil që i fryn Surit fillimisht për të lajmëruar ardhjen e Ditës së Kiametit dhe, më pas ringjalljen.
+[^328]: Engjëllit Israfil që i fryn Surit fillimisht për të lajmëruar ardhjen e Ditës së Kiametit dhe, më pas ringjalljen.
 
 # 4672
 
@@ -19518,9 +19546,9 @@ Edhe Tokën e kemi shtruar! Sa shtrues të mrekullueshëm që jemi!
 
 # 4724
 
-Dhe nga çdo gjë, Ne kemi krijuar dy palë,[329] në mënyrë që ju të vini veshin!
+Dhe nga çdo gjë, Ne kemi krijuar dy palë,[^329] në mënyrë që ju të vini veshin!
 
-[329] Siç është p.sh. drita dhe errësira, subjekti dhe objekti, e thata dhe e njoma, aktivja dhe pasivja, mashkulli dhe femra, e gjalla dhe e pajeta. Gjithashtu, ky varg mund të aludojë fare mirë edhe për vlerën universale të ligjit të gjinive.
+[^329]: Siç është p.sh. drita dhe errësira, subjekti dhe objekti, e thata dhe e njoma, aktivja dhe pasivja, mashkulli dhe femra, e gjalla dhe e pajeta. Gjithashtu, ky varg mund të aludojë fare mirë edhe për vlerën universale të ligjit të gjinive.
 
 # 4725
 
@@ -19536,9 +19564,9 @@ Kështu, sa herë që një i dërguar vinte te popujt para tyre (mekasve), ata t
 
 # 4728
 
-Vallë, a mos ia kanë pasuar këtë njëri-tjetrit? Jo, por ata vetë janë popull që e kanë tepruar![330]
+Vallë, a mos ia kanë pasuar këtë njëri-tjetrit? Jo, por ata vetë janë popull që e kanë tepruar![^330]
 
-[330] Të gjithë profetëve, popujt e vet u kanë thënë se janë të çmendur. Kështu i kanë thënë edhe Profetit Muhamed a.s.. Por, pas pak kohe, kanë kuptuar që ajo shpifje ishte gjynah shpirtëror dhe rebelizëm në shoqëri. Prandaj, ajo shpifje ka pasur jetë të shkurtër tek të gjithë arabët dhe intelektualët e botës (përkthyesi).
+[^330]: Të gjithë profetëve, popujt e vet u kanë thënë se janë të çmendur. Kështu i kanë thënë edhe Profetit Muhamed a.s.. Por, pas pak kohe, kanë kuptuar që ajo shpifje ishte gjynah shpirtëror dhe rebelizëm në shoqëri. Prandaj, ajo shpifje ka pasur jetë të shkurtër tek të gjithë arabët dhe intelektualët e botës (përkthyesi).
 
 # 4729
 
@@ -19582,9 +19610,9 @@ në pergamenë të shpalosur
 
 # 4739
 
-dhe Shtëpinë plot vizitorë[331]
+dhe Shtëpinë plot vizitorë[^331]
 
-[331] Faltorja dhe simetrikja qiellore e Qabesë që vizitohet nga engjëjt çdo kohë e çdo çast.
+[^331]: Faltorja dhe simetrikja qiellore e Qabesë që vizitohet nga engjëjt çdo kohë e çdo çast.
 
 # 4740
 
@@ -19668,9 +19696,9 @@ Rreth tyre do të sillen shërbyes, djelmosha si margaritarë të fshehur.
 
 # 4760
 
-Ata[332] do të afrohen, duke biseduar me njëri-tjetrin
+Ata[^332] do të afrohen, duke biseduar me njëri-tjetrin
 
-[332] Banorët e Xhenetit.
+[^332]: Banorët e Xhenetit.
 
 # 4761
 
@@ -19690,10 +19718,11 @@ Pra, paralajmëro (o Muhamed), sepse ti, për dhuntinë e Zotit tënd, nuk je as
 
 # 4765
 
-Vërtet thonë ata[333]: “Ai[334] është vjershëtar, të presim derisa ta zhdukë vdekja”?!
+Vërtet thonë ata[^333]: “Ai[^334] është vjershëtar, të presim derisa ta zhdukë vdekja”?!
 
-[333] Paganët e Mekës. 
-[334] Profeti Muhamed (a.s.).
+[^333]: Paganët e Mekës.
+
+[^334]: Profeti Muhamed (a.s.).
 
 # 4766
 
@@ -19705,9 +19734,9 @@ A mos u vjen kjo nga mendja e tyre apo ata janë popull i ndërkryer?
 
 # 4768
 
-Vërtet thonë ata: “Ai e ka trilluar atë[335]”?! Nuk është kështu, por ata nuk besojnë.
+Vërtet thonë ata: “Ai e ka trilluar atë[^335]”?! Nuk është kështu, por ata nuk besojnë.
 
-[335] Kuranin.
+[^335]: Kuranin.
 
 # 4769
 
@@ -19731,9 +19760,9 @@ A mos kanë ndonjë shkallë (për në qiell) e përgjojnë Atë?! Atëherë, le
 
 # 4774
 
-Vallë, për Atë janë vajzat e për ju[336] djemtë?!
+Vallë, për Atë janë vajzat e për ju[^336] djemtë?!
 
-[336] Paganët e Mekës.
+[^336]: Paganët e Mekës.
 
 # 4775
 
@@ -19769,9 +19798,9 @@ Në të vërtetë, për keqbërësit ka edhe një dënim tjetër para këtij; po
 
 # 4783
 
-Prandaj, duro për gjykimin e Zotit tënd se, me të vërtetë, ti je nën Sytë[337] Tanë! Lavdëroje duke e falënderuar Zotin tënd kur të ngrihesh;
+Prandaj, duro për gjykimin e Zotit tënd se, me të vërtetë, ti je nën Sytë[^337] Tanë! Lavdëroje duke e falënderuar Zotin tënd kur të ngrihesh;
 
-[337] D.m.th. mbikëqyrjen dhe kujdesin Tonë.
+[^337]: D.m.th. mbikëqyrjen dhe kujdesin Tonë.
 
 # 4784
 
@@ -19839,9 +19868,9 @@ ku ndodhet Xheneti i Strehimit.
 
 # 4800
 
-Kur Sidrën çfarë nuk e mbulonte?![338]
+Kur Sidrën çfarë nuk e mbulonte?![^338]
 
-[338] Pra, Muhamedi (a.s.) e ka parë Xhebrailin në formën e tij të plotë te Sidretul Munteha, e cila është një pemë e madhe në të majtë të Fronit Hyjnor, mbi qiellin e shtatë. Atë e mbulojnë engjëj dhe mrekulli të ndryshme të Zotit. Aty ndodhet edhe Xheneti i Strehimit, ku strehohen shpirtrat e dëshmorëve dhe të besimtarëve të devotshëm.
+[^338]: Pra, Muhamedi (a.s.) e ka parë Xhebrailin në formën e tij të plotë te Sidretul Munteha, e cila është një pemë e madhe në të majtë të Fronit Hyjnor, mbi qiellin e shtatë. Atë e mbulojnë engjëj dhe mrekulli të ndryshme të Zotit. Aty ndodhet edhe Xheneti i Strehimit, ku strehohen shpirtrat e dëshmorëve dhe të besimtarëve të devotshëm.
 
 # 4801
 
@@ -19857,9 +19886,9 @@ A e keni parë Latën dhe Uzzën?
 
 # 4804
 
-Po Menatën,[339] të tretën, të fundit?
+Po Menatën,[^339] të tretën, të fundit?
 
-[339] Këta janë emrat e disa idhujve, që arabët paganë i konsideronin si bijat e Allahut.
+[^339]: Këta janë emrat e disa idhujve, që arabët paganë i konsideronin si bijat e Allahut.
 
 # 4805
 
@@ -19975,9 +20004,9 @@ se Ai jep pasuri dhe kënaqësi të mjaftueshme,
 
 # 4833
 
-Ai, që është Zoti i Siriusit[340];
+Ai, që është Zoti i Siriusit[^340];
 
-[340] Siriusi është yll i cili adhurohej nga arabët paganë.
+[^340]: Siriusi është yll i cili adhurohej nga arabët paganë.
 
 # 4834
 
@@ -20033,9 +20062,9 @@ Më mirë përuluni në sexhde për Allahun dhe adhurojeni Atë!
 
 # 4847
 
-U afrua Ora dhe u ça Hëna![341]
+U afrua Ora dhe u ça Hëna![^341]
 
-[341] Kjo është një shenjë e afrimit të Orës së Kiametit. Vargu aludon për një mrekulli të famshme të Profetit Muhamed (a.s.), të regjistruar në shumë transmetime autentike të shokëve të tij. Ajo erdhi pas një këmbënguljeje të vazhdueshme të paganëve të Mekës, që Profeti t’u tregonte një shenjë mrekullie në ditët e hershme të misionit të tij.
+[^341]: Kjo është një shenjë e afrimit të Orës së Kiametit. Vargu aludon për një mrekulli të famshme të Profetit Muhamed (a.s.), të regjistruar në shumë transmetime autentike të shokëve të tij. Ajo erdhi pas një këmbënguljeje të vazhdueshme të paganëve të Mekës, që Profeti t’u tregonte një shenjë mrekullie në ditët e hershme të misionit të tij.
 
 # 4848
 
@@ -20055,9 +20084,9 @@ një urtësi e përsosur, por paralajmërimi nuk u bën dobi.
 
 # 4852
 
-Prandaj, largohu nga ata (o Profet), deri Ditën kur do t’i thërrasë Lajmëtari[342] në diçka të tmerrshme.
+Prandaj, largohu nga ata (o Profet), deri Ditën kur do t’i thërrasë Lajmëtari[^342] në diçka të tmerrshme.
 
-[342] Pra, engjëlli Israfil që i fryn bririt të ringjalljes dhe i fton njerëzit të japin llogari.
+[^342]: Pra, engjëlli Israfil që i fryn bririt të ringjalljes dhe i fton njerëzit të japin llogari.
 
 # 4853
 
@@ -20089,15 +20118,15 @@ Ndërsa Nuhun e bartëm në një barkë (të ndërtuar) prej dërrasash dhe gozh
 
 # 4860
 
-e cila lundronte nën Sytë[343] Tanë: si shpërblim për atë (Nuhun a.s.) i cili u mohua.
+e cila lundronte nën Sytë[^343] Tanë: si shpërblim për atë (Nuhun a.s.) i cili u mohua.
 
-[343] Pra, nën mbikëqyrjen dhe kujdesin Tonë.
+[^343]: Pra, nën mbikëqyrjen dhe kujdesin Tonë.
 
 # 4861
 
-Ne e kemi bërë atë[344] si shenjë, por a ka kush që ia vë veshin?
+Ne e kemi bërë atë[^344] si shenjë, por a ka kush që ia vë veshin?
 
-[344] Përmbytjen e popullit të Nuhut.
+[^344]: Përmbytjen e popullit të Nuhut.
 
 # 4862
 
@@ -20145,9 +20174,9 @@ Vallë, vetëm atij mes nesh t’i dërgohet Shpallja? Jo, ai është gënjeshta
 
 # 4873
 
-Ne po u dërgojmë devenë[345] për t’i sprovuar, andaj ti (o Salih) priti ata dhe bëhu i durueshëm!
+Ne po u dërgojmë devenë[^345] për t’i sprovuar, andaj ti (o Salih) priti ata dhe bëhu i durueshëm!
 
-[345] Shih vargun 64 të sures 11 dhe shënimin përkatës.
+[^345]: Shih vargun 64 të sures 11 dhe shënimin përkatës.
 
 # 4874
 
@@ -20235,9 +20264,9 @@ Ditën e Gjykimit ata do të tërhiqen me fytyrat e tyre në zjarr (e do t’u t
 
 # 4895
 
-Vërtet, Ne çdo gjë e kemi krijuar me masë të paracaktuar.[346]
+Vërtet, Ne çdo gjë e kemi krijuar me masë të paracaktuar.[^346]
 
-[346] Pra, Allahu i Madhëruar e ka krijuar gjithçka sipas paracaktimit të Tij, të shënuar në Librin e Ruajtur Hyjnor (Leuhi Mahfûdh).
+[^346]: Pra, Allahu i Madhëruar e ka krijuar gjithçka sipas paracaktimit të Tij, të shënuar në Librin e Ruajtur Hyjnor (Leuhi Mahfûdh).
 
 # 4896
 
@@ -20313,9 +20342,9 @@ ka drithëra me gjethe e kërcej dhe bimë me erë të mirë.
 
 # 4914
 
-Pra, cilat dhunti të Zotit tuaj po i mohoni?![347]
+Pra, cilat dhunti të Zotit tuaj po i mohoni?![^347]
 
-[347] Fjala këtu i drejtohet njerëzve dhe xhindeve. Ky varg përsëritet 31 herë në këtë sure.
+[^347]: Fjala këtu i drejtohet njerëzve dhe xhindeve. Ky varg përsëritet 31 herë në këtë sure.
 
 # 4915
 
@@ -20331,9 +20360,9 @@ Pra, cilat dhunti të Zotit tuaj po i mohoni?!
 
 # 4918
 
-(Ai është) Zoti i dy lindjeve dhe i dy perëndimeve.[348]
+(Ai është) Zoti i dy lindjeve dhe i dy perëndimeve.[^348]
 
-[348] Sipas disa komentuesve të Kuranit, bëhet fjalë për pikat e lindjes dhe të perëndimit të diellit në verë dhe në dimër.
+[^348]: Sipas disa komentuesve të Kuranit, bëhet fjalë për pikat e lindjes dhe të perëndimit të diellit në verë dhe në dimër.
 
 # 4919
 
@@ -20341,9 +20370,9 @@ Pra, cilat dhunti të Zotit tuaj po i mohoni?!
 
 # 4920
 
-Ai i ka lëshuar dy dete[349] që të takohen,
+Ai i ka lëshuar dy dete[^349] që të takohen,
 
-[349] Ujin e kripur dhe ujin e ëmbël.
+[^349]: Ujin e kripur dhe ujin e ëmbël.
 
 # 4921
 
@@ -20423,9 +20452,9 @@ Pra, cilat dhunti të Zotit tuaj po i mohoni?!
 
 # 4940
 
-Atë Ditë njerëzit dhe xhindet nuk do të pyeten për gjynahet e tyre.[350]
+Atë Ditë njerëzit dhe xhindet nuk do të pyeten për gjynahet e tyre.[^350]
 
-[350] Sepse atë ditë besimtarët dhe keqbërësit do të njihen nga shenjat e tyre.
+[^350]: Sepse atë ditë besimtarët dhe keqbërësit do të njihen nga shenjat e tyre.
 
 # 4941
 
@@ -20485,9 +20514,9 @@ Pra, cilat dhunti të Zotit tuaj po i mohoni?!
 
 # 4955
 
-Ata[351] do të jenë të mbështetur në shtroje, anash me armaç mëndafshi e frutat e dy kopshteve do t’i kenë afër sa t’i kapin me dorë.
+Ata[^351] do të jenë të mbështetur në shtroje, anash me armaç mëndafshi e frutat e dy kopshteve do t’i kenë afër sa t’i kapin me dorë.
 
-[351] Besimtarët e devotshëm që do të hyjnë në këto kopshte.
+[^351]: Besimtarët e devotshëm që do të hyjnë në këto kopshte.
 
 # 4956
 
@@ -20567,9 +20596,9 @@ Pra, cilat dhunti të Zotit tuaj po i mohoni?!
 
 # 4975
 
-Ato hyri nuk i kanë prekur para tyre[352] as njerëz, as xhinde.
+Ato hyri nuk i kanë prekur para tyre[^352] as njerëz, as xhinde.
 
-[352] Banorëve të dy kopshteve më të ulëta.
+[^352]: Banorëve të dy kopshteve më të ulëta.
 
 # 4976
 
@@ -20617,15 +20646,15 @@ ju, (o njerëz) do të ndaheni në tri grupe:
 
 # 4987
 
-njerëzit e së djathtës[353] - sa të nderuar do të jenë fatlumët!
+njerëzit e së djathtës[^353] - sa të nderuar do të jenë fatlumët!
 
-[353] Këta janë njerëzit që do t’u jepet libri i veprave nga ana e djathtë.
+[^353]: Këta janë njerëzit që do t’u jepet libri i veprave nga ana e djathtë.
 
 # 4988
 
-njerëzit e së majtës[354] - sa të poshtëruar do të jenë fatkeqët!
+njerëzit e së majtës[^354] - sa të poshtëruar do të jenë fatkeqët!
 
-[354] Këta janë njerëzit që do t’u jepet libri i veprave nga ana e majtë ose nga pas shpine.
+[^354]: Këta janë njerëzit që do t’u jepet libri i veprave nga ana e majtë ose nga pas shpine.
 
 # 4989
 
@@ -20773,9 +20802,9 @@ Ata, para kësaj, jetonin në luks
 
 # 5025
 
-dhe në vazhdimësi bënin gjynahe të rënda[355],
+dhe në vazhdimësi bënin gjynahe të rënda[^355],
 
-[355] Veçanërisht idhujtari.
+[^355]: Veçanërisht idhujtari.
 
 # 5026
 
@@ -21095,9 +21124,9 @@ Dhe le ta dinë ithtarët e Librit, se ata nuk kanë aspak fuqi mbi çfarëdo mi
 
 # 5105
 
-Allahu i ka dëgjuar fjalët e asaj,[356] që diskutoi me ty për burrin e vet dhe iu ankua Atij. Allahu e dëgjoi bisedën tuaj, sepse Ai dëgjon dhe sheh gjithçka.
+Allahu i ka dëgjuar fjalët e asaj,[^356] që diskutoi me ty për burrin e vet dhe iu ankua Atij. Allahu e dëgjoi bisedën tuaj, sepse Ai dëgjon dhe sheh gjithçka.
 
-[356] Ajo është Haula bint Tha‘lebe, të cilën burri e ndau me fjalët “Më je bërë si shpina e nënës sime”, një formulë kjo që pranohej si deklaratë ndarjeje ndër arabët paganë.
+[^356]: Ajo është Haula bint Tha‘lebe, të cilën burri e ndau me fjalët “Më je bërë si shpina e nënës sime”, një formulë kjo që pranohej si deklaratë ndarjeje ndër arabët paganë.
 
 # 5106
 
@@ -21189,9 +21218,9 @@ Allahun e lartëson çdo gjë në qiej dhe çdo gjë në Tokë. Ai është i Plo
 
 # 5128
 
-Është Ai, që i nxori nga shtëpitë e tyre ata që nuk besuan midis ithtarëve të Librit në kohën e dëbimit të parë.[357] Ju nuk mendonit se ata do të iknin, kurse ata mendonin se fortesat e tyre do t’i mbronin prej Allahut. Por dënimi i Allahut u erdhi andej nga nuk e pritnin, duke mbjellë në zemrat e tyre frikën, e cila bëri që ata t’i shkatërronin shtëpitë e veta me duart e tyre, si dhe me duart e besimtarëve. Prandaj, mësoni nga kjo, o ju largpamës!
+Është Ai, që i nxori nga shtëpitë e tyre ata që nuk besuan midis ithtarëve të Librit në kohën e dëbimit të parë.[^357] Ju nuk mendonit se ata do të iknin, kurse ata mendonin se fortesat e tyre do t’i mbronin prej Allahut. Por dënimi i Allahut u erdhi andej nga nuk e pritnin, duke mbjellë në zemrat e tyre frikën, e cila bëri që ata t’i shkatërronin shtëpitë e veta me duart e tyre, si dhe me duart e besimtarëve. Prandaj, mësoni nga kjo, o ju largpamës!
 
-[357] Vargu aludon për dëbimin e fisit hebre Beni Nadir nga rrethinat e Medinës. Shkak për këtë ishte shkelja që këta i bënë marrëveshjes që kishin me muslimanët e Medinës për mossulmim.
+[^357]: Vargu aludon për dëbimin e fisit hebre Beni Nadir nga rrethinat e Medinës. Shkak për këtë ishte shkelja që këta i bënë marrëveshjes që kishin me muslimanët e Medinës për mossulmim.
 
 # 5129
 
@@ -21215,16 +21244,17 @@ Për çfarëdo peme palme (të armikut) që pretë apo latë në këmbë, keni p
 
 # 5134
 
-Një pjesë e plaçkës i takon edhe mërgimtarëve të varfër[358], të cilët u përzunë nga vendlindja dhe pasuritë e tyre, duke kërkuar mirësinë dhe kënaqësinë e Allahut dhe duke ndihmuar Allahun dhe të Dërguarin e Tij. Pikërisht ata janë besimtarët e sinqertë.
+Një pjesë e plaçkës i takon edhe mërgimtarëve të varfër[^358], të cilët u përzunë nga vendlindja dhe pasuritë e tyre, duke kërkuar mirësinë dhe kënaqësinë e Allahut dhe duke ndihmuar Allahun dhe të Dërguarin e Tij. Pikërisht ata janë besimtarët e sinqertë.
 
-[358] Ata që u shpërngulën nga Meka në Medinë për hir të fesë.
+[^358]: Ata që u shpërngulën nga Meka në Medinë për hir të fesë.
 
 # 5135
 
-Ndërsa ata që banojnë në Medinë dhe që e kanë pranuar besimin qysh më parë[359], i duan mërgimtarët që vijnë në Medinë dhe në zemrat e tyre nuk ndiejnë kurrfarë rëndimi, për atë,[360] që u është dhënë atyre, por duan t’u bëjnë më mirë mërgimtarëve sesa vetes, edhe pse vetë janë nevojtarë. Kushdo që ruhet nga lakmia e vetvetes, me siguri që do të jetë fitues.
+Ndërsa ata që banojnë në Medinë dhe që e kanë pranuar besimin qysh më parë[^359], i duan mërgimtarët që vijnë në Medinë dhe në zemrat e tyre nuk ndiejnë kurrfarë rëndimi, për atë,[^360] që u është dhënë atyre, por duan t’u bëjnë më mirë mërgimtarëve sesa vetes, edhe pse vetë janë nevojtarë. Kushdo që ruhet nga lakmia e vetvetes, me siguri që do të jetë fitues.
 
-[359] Pra, para mbërritjes së mërgimtarëve në Medinë. 
-[360] Plaçkën e luftës që iu nda mërgimtarëve të varfër.
+[^359]: Pra, para mbërritjes së mërgimtarëve në Medinë.
+
+[^360]: Plaçkën e luftës që iu nda mërgimtarëve të varfër.
 
 # 5136
 
@@ -21240,9 +21270,9 @@ Nëse (hebrenjtë) do të dëbohen, hipokritët nuk do të shkojnë me ata. Nës
 
 # 5139
 
-Në zemrat e tyre ata[361] kanë më shumë frikë nga ju sesa nga Allahu, ngaqë ata janë popull që nuk kuptojnë.
+Në zemrat e tyre ata[^361] kanë më shumë frikë nga ju sesa nga Allahu, ngaqë ata janë popull që nuk kuptojnë.
 
-[361] Hebrenjtë e fisit Beni Nadir.
+[^361]: Hebrenjtë e fisit Beni Nadir.
 
 # 5140
 
@@ -21250,9 +21280,9 @@ Ata nuk do të luftojnë kundër jush së bashku, veçse në vende të fortifiku
 
 # 5141
 
-Këta janë si ata,[362] që kanë qenë pak para tyre, që i shijuan pasojat e sjelljes së tyre (që në këtë botë); (ndërsa në botën tjetër) ata i pret një dënim i dhembshëm!
+Këta janë si ata,[^362] që kanë qenë pak para tyre, që i shijuan pasojat e sjelljes së tyre (që në këtë botë); (ndërsa në botën tjetër) ata i pret një dënim i dhembshëm!
 
-[362] Hebrenjtë e fisit të mundur Beni Kajnuka.
+[^362]: Hebrenjtë e fisit të mundur Beni Kajnuka.
 
 # 5142
 
@@ -21328,9 +21358,9 @@ Allahu ju ndalon t’i bëni miq ata që luftojnë kundër jush për shkak të f
 
 # 5160
 
-O besimtarë, kur ju vijnë besimtaret të mërguara, provoni (besimin) tek ato. Allahu e di më mirë besimin e tyre. Nëse bindeni se ato janë besimtare, mos i ktheni te jobesimtarët. Ato nuk janë (bashkëshorte) të ligjshme për ata dhe as ata nuk janë (bashkëshortë) të ligjshëm për ato. Kthejuni jobesimtarëve pajën, që u kishin dhënë atyre[363]. Nuk ka pengesë që t’i merrni ato për bashkëshorte, pasi t’u jepni pajën e martesës. Mos qëndroni në martesë me idhujtare. Kërkoni atë që keni dhënë (si pajë), por dhe jobesimtarët le të kërkojnë atë që kanë dhënë. Ky është ligji i Allahut, Ai ju gjykon ju; Allahu di çdo gjë dhe është i Gjithëdijshëm e i Urtë.
+O besimtarë, kur ju vijnë besimtaret të mërguara, provoni (besimin) tek ato. Allahu e di më mirë besimin e tyre. Nëse bindeni se ato janë besimtare, mos i ktheni te jobesimtarët. Ato nuk janë (bashkëshorte) të ligjshme për ata dhe as ata nuk janë (bashkëshortë) të ligjshëm për ato. Kthejuni jobesimtarëve pajën, që u kishin dhënë atyre[^363]. Nuk ka pengesë që t’i merrni ato për bashkëshorte, pasi t’u jepni pajën e martesës. Mos qëndroni në martesë me idhujtare. Kërkoni atë që keni dhënë (si pajë), por dhe jobesimtarët le të kërkojnë atë që kanë dhënë. Ky është ligji i Allahut, Ai ju gjykon ju; Allahu di çdo gjë dhe është i Gjithëdijshëm e i Urtë.
 
-[363] Pra, grave besimtare që emigruan nga Meka në Medinë.
+[^363]: Pra, grave besimtare që emigruan nga Meka në Medinë.
 
 # 5161
 
@@ -21338,9 +21368,9 @@ Nëse ndonjëra prej grave tuaja kthehet te jobesimtarët e më pas ju fitoni pl
 
 # 5162
 
-O Profet, nëse vijnë tek ti besimtaret e të betohen se nuk do t’i shoqërojnë Allahut asgjë (në adhurim), nuk do të vjedhin, nuk do të bëjnë kurvëri, nuk do t’i vrasin fëmijët e tyre, nuk do të sjellin ndonjë shpifje[364] të sajuar nga ato vetë dhe se nuk do të të kundërshtojnë në çfarë është e drejtë dhe e arsyeshme, atëherë ti pranoje betimin e tyre dhe lutju Allahut t’i falë. Vërtet, Allahu është Falës dhe Mëshirëplotë.
+O Profet, nëse vijnë tek ti besimtaret e të betohen se nuk do t’i shoqërojnë Allahut asgjë (në adhurim), nuk do të vjedhin, nuk do të bëjnë kurvëri, nuk do t’i vrasin fëmijët e tyre, nuk do të sjellin ndonjë shpifje[^364] të sajuar nga ato vetë dhe se nuk do të të kundërshtojnë në çfarë është e drejtë dhe e arsyeshme, atëherë ti pranoje betimin e tyre dhe lutju Allahut t’i falë. Vërtet, Allahu është Falës dhe Mëshirëplotë.
 
-[364] Lidhur me atësinë e fëmijës.
+[^364]: Lidhur me atësinë e fëmijës.
 
 # 5163
 
@@ -21368,9 +21398,9 @@ Kujto kur Musai i tha popullit të vet: “O populli im, përse po më mundoni, 
 
 # 5169
 
-Kujto kur Isai, i biri i Merjemes, tha: “O bijtë e Israilit, unë jam i dërguari i Allahut tek ju, për t’ju vërtetuar Teuratin e shpallur para meje dhe për t’ju sjellë lajmin e gëzueshëm për një të dërguar, emri i të cilit është Ahmed[365], që do të vijë pas meje”. Por, kur ai u solli atyre shenja të qarta, ata thanë: “Kjo është magji e hapur!”
+Kujto kur Isai, i biri i Merjemes, tha: “O bijtë e Israilit, unë jam i dërguari i Allahut tek ju, për t’ju vërtetuar Teuratin e shpallur para meje dhe për t’ju sjellë lajmin e gëzueshëm për një të dërguar, emri i të cilit është Ahmed[^365], që do të vijë pas meje”. Por, kur ai u solli atyre shenja të qarta, ata thanë: “Kjo është magji e hapur!”
 
-[365] Një emër tjetër i Profetit Muhamed (a.s.), që do të thotë “I lavdëruari”.
+[^365]: Një emër tjetër i Profetit Muhamed (a.s.), që do të thotë “I lavdëruari”.
 
 # 5170
 
@@ -21410,10 +21440,11 @@ Allahun e përlëvdon gjithçka që gjendet në qiej dhe në Tokë. Ai është S
 
 # 5179
 
-Është Ai që u solli analfabetëve një të Dërguar nga gjiri i tyre, për t’u lexuar atyre shpalljet e Tij, për t’i pastruar e për t’u mësuar Librin[366] dhe Urtësinë[367], ndonëse ata më parë ishin vërtet në humbje të plotë.
+Është Ai që u solli analfabetëve një të Dërguar nga gjiri i tyre, për t’u lexuar atyre shpalljet e Tij, për t’i pastruar e për t’u mësuar Librin[^366] dhe Urtësinë[^367], ndonëse ata më parë ishin vërtet në humbje të plotë.
 
-[366] Kuranin. 
-[367] Sunetin dhe rregullat fetare.
+[^366]: Kuranin.
+
+[^367]: Sunetin dhe rregullat fetare.
 
 # 5180
 
@@ -21465,9 +21496,9 @@ Kjo, sepse ata fillimisht besuan, pastaj mohuan, kështu që zemrat e tyre u vul
 
 # 5192
 
-Kur i shihni ata, pamja e tyre e bukur ju mahnit e, nëse flasin, ju i dëgjoni fjalët e tyre. E megjithatë, ata janë si trungje të mbështetura[368]. Ata kujtojnë se çdo thirrje që dëgjojnë është kundër tyre. Ata janë armiqtë e vërtetë, andaj ruajuni prej tyre! Allahu i vraftë! Sa shumë që janë larguar (nga e vërteta)?!
+Kur i shihni ata, pamja e tyre e bukur ju mahnit e, nëse flasin, ju i dëgjoni fjalët e tyre. E megjithatë, ata janë si trungje të mbështetura[^368]. Ata kujtojnë se çdo thirrje që dëgjojnë është kundër tyre. Ata janë armiqtë e vërtetë, andaj ruajuni prej tyre! Allahu i vraftë! Sa shumë që janë larguar (nga e vërteta)?!
 
-[368] “trungje të mbështetura”: në kuptimin që ata janë të fortë vetëm në dukje dhe që në fjalimet e tyre nuk ka aspak zgjuarsi.
+[^368]: “trungje të mbështetura”: në kuptimin që ata janë të fortë vetëm në dukje dhe që në fjalimet e tyre nuk ka aspak zgjuarsi.
 
 # 5193
 
@@ -21483,9 +21514,9 @@ Ata thonë: “Mos u jepni kurrgjë atyre që janë me të Dërguarin e Allahut,
 
 # 5196
 
-Ata thonë: “Nëse kthehemi në Medinë, pa dyshim që të fuqishmit do t’i dëbojnë të dobëtit nga ajo!”[369] Në të vërtetë, fuqia është e Allahut, e të Dërguarit të Tij dhe e besimtarëve, por hipokritët nuk e dinë.
+Ata thonë: “Nëse kthehemi në Medinë, pa dyshim që të fuqishmit do t’i dëbojnë të dobëtit nga ajo!”[^369] Në të vërtetë, fuqia është e Allahut, e të Dërguarit të Tij dhe e besimtarëve, por hipokritët nuk e dinë.
 
-[369] Sipas komentuesve të Kuranit, vargu i referohet fjalëve të kreut të hipokritëve në Medinë, Abdullah Ibn Ubejit, gjatë një ekspedite të myslimanëve, ku ai kishte marrë pjesë sa për sy e faqe. Ibn Ubeji nuk e kishte kuptuar ende se lidhjet fisnore ishin zëvendësuar nga vëllazëria e re midis besimtarëve dhe se tashmë pushteti i tij ishte venitur, prandaj e mbante veten si “më i fuqishmi” dhe e tallte Muhamedin (a.s.), duke e konsideruar si “më të dobëtin”.
+[^369]: Sipas komentuesve të Kuranit, vargu i referohet fjalëve të kreut të hipokritëve në Medinë, Abdullah Ibn Ubejit, gjatë një ekspedite të myslimanëve, ku ai kishte marrë pjesë sa për sy e faqe. Ibn Ubeji nuk e kishte kuptuar ende se lidhjet fisnore ishin zëvendësuar nga vëllazëria e re midis besimtarëve dhe se tashmë pushteti i tij ishte venitur, prandaj e mbante veten si “më i fuqishmi” dhe e tallte Muhamedin (a.s.), duke e konsideruar si “më të dobëtin”.
 
 # 5197
 
@@ -21553,9 +21584,9 @@ Allahu është i vetmi Zot i vërtetë, prandaj, vetëm tek Ai le të mbështete
 
 # 5213
 
-O besimtarë! Në të vërtetë, ju keni armiq në radhët e grave tuaja dhe të fëmijëve tuaj, andaj ruajuni prej tyre! Por, nëse nuk i vini re fyerjet e tyre dhe ua falni, ta dini se Allahu është vërtet Falës dhe Mëshirëplotë[370].
+O besimtarë! Në të vërtetë, ju keni armiq në radhët e grave tuaja dhe të fëmijëve tuaj, andaj ruajuni prej tyre! Por, nëse nuk i vini re fyerjet e tyre dhe ua falni, ta dini se Allahu është vërtet Falës dhe Mëshirëplotë[^370].
 
-[370] Gratë, fëmijët dhe gjërat e bukura të jetës tokësore mund ta shkëpusin njeriun, në mënyrë serioze dhe të vazhdueshme, nga përmendja e Allahut. Sipas komentuesve të Kuranit, ky varg merr shkas nga disa mekas që nuk mërguan në Medinë me Profetin Muhamed (a.s.), për shkak të presionit të disa familjarëve të tyre jobesimtarë. Njëkohësisht, vargu merr shkas edhe nga disa medinas që, nga frika se mos i linin vetëm gruan dhe fëmijët, nuk merrnin pjesë asnjëherë në fushatat ushtarake. Kur ata e kuptuan këtë dobësi të vetën, deshën t’i ndëshkonin familjarët e tyre, sepse i kishin penguar nga rruga e Allahut, por ky varg kuranor i këshilloi ata të ishin të butë dhe të harronin të keqen që kishin pësuar.
+[^370]: Gratë, fëmijët dhe gjërat e bukura të jetës tokësore mund ta shkëpusin njeriun, në mënyrë serioze dhe të vazhdueshme, nga përmendja e Allahut. Sipas komentuesve të Kuranit, ky varg merr shkas nga disa mekas që nuk mërguan në Medinë me Profetin Muhamed (a.s.), për shkak të presionit të disa familjarëve të tyre jobesimtarë. Njëkohësisht, vargu merr shkas edhe nga disa medinas që, nga frika se mos i linin vetëm gruan dhe fëmijët, nuk merrnin pjesë asnjëherë në fushatat ushtarake. Kur ata e kuptuan këtë dobësi të vetën, deshën t’i ndëshkonin familjarët e tyre, sepse i kishin penguar nga rruga e Allahut, por ky varg kuranor i këshilloi ata të ishin të butë dhe të harronin të keqen që kishin pësuar.
 
 # 5214
 
@@ -21575,7 +21606,7 @@ Ai është Njohësi i të padukshmes dhe së dukshmes, i Plotfuqishmi dhe i Urti
 
 # 5218
 
-O Profet! Nëse i ndani gratë, ndajini ato para kohës së tyre të pritjes.[371] Llogaritni kohën e tyre të pritjes dhe frikësojuni Allahut, Zotit tuaj. Mos i dëboni ato prej shtëpive të tyre, por edhe ato të mos dalin, me përjashtim të rastit kur shkelin martesën haptazi. Këto janë urdhërimet e Allahut; kushdo që i kapërcen kufijtë e Allahut, i ka bërë dëm vetvetes. Ti nuk e di se pas kësaj Allahu mund të sjellë ndonjë rrethanë tjetër.
+O Profet! Nëse i ndani gratë, ndajini ato para kohës së tyre të pritjes. Llogaritni kohën e tyre të pritjes dhe frikësojuni Allahut, Zotit tuaj. Mos i dëboni ato prej shtëpive të tyre, por edhe ato të mos dalin, me përjashtim të rastit kur shkelin martesën haptazi. Këto janë urdhërimet e Allahut; kushdo që i kapërcen kufijtë e Allahut, i ka bërë dëm vetvetes. Ti nuk e di se pas kësaj Allahu mund të sjellë ndonjë rrethanë tjetër.
 
 # 5219
 
@@ -21635,9 +21666,9 @@ Kur i Dërguari i tregoi një sekret njërës prej grave të tij, ajo e hapi kë
 
 # 5233
 
-Nëse ju të dyja[372] ktheheni të penduara tek Allahu, sepse vërtet që zemrat tuaja patën devijuar, Allahu do t’ju falë. Nëse ju të dyja bashkoheni kundër tij, (dijeni se) Allahu është Mbrojtësi i tij, Xhebraili dhe besimtarët e mirë. Veç kësaj, edhe engjëjt e mbështesin atë.
+Nëse ju të dyja[^372] ktheheni të penduara tek Allahu, sepse vërtet që zemrat tuaja patën devijuar, Allahu do t’ju falë. Nëse ju të dyja bashkoheni kundër tij, (dijeni se) Allahu është Mbrojtësi i tij, Xhebraili dhe besimtarët e mirë. Veç kësaj, edhe engjëjt e mbështesin atë.
 
-[372] Vargu bën fjalë për dy nga gratë e Profetit Muhamed (a.s.), Hafsanë dhe Aishen, të përfshira në ngjarjen e përhapjes së sekretit të Profetit (a.s.).
+[^372]: Vargu bën fjalë për dy nga gratë e Profetit Muhamed (a.s.), Hafsanë dhe Aishen, të përfshira në ngjarjen e përhapjes së sekretit të Profetit (a.s.).
 
 # 5234
 
@@ -21669,9 +21700,9 @@ Allahu ka dhënë si shembull për besimtarët gruan e Faraonit, kur ajo tha: �
 
 # 5241
 
-Edhe Merjemen, të bijën e Imranit, e cila ruajti virgjërinë e saj; Ne frymë brenda saj nga shpirti Ynë[373] (shpirtin e Isait a.s.). Ajo u besoi fjalëve të Zotit të saj dhe librave të Tij e ishte nga të devotshmit!
+Edhe Merjemen, të bijën e Imranit, e cila ruajti virgjërinë e saj; Ne frymë brenda saj nga shpirti Ynë[^373] (shpirtin e Isait a.s.). Ajo u besoi fjalëve të Zotit të saj dhe librave të Tij e ishte nga të devotshmit!
 
-[373] “nga shpirti Ynë”: pra, nga shpirti që është krijesa Jonë (e Allahut).
+[^373]: “nga shpirti Ynë”: pra, nga shpirti që është krijesa Jonë (e Allahut).
 
 # 5242
 
@@ -21811,9 +21842,9 @@ se ti je me virtyte madhore.
 
 # 5276
 
-Së shpejti ti do ta shohësh, por edhe ata[374] do ta shohin,
+Së shpejti ti do ta shohësh, por edhe ata[^374] do ta shohin,
 
-[374] Jobesimtarët e Mekës që e quanin të marrë Profetin Muhamed (a.s.).
+[^374]: Jobesimtarët e Mekës që e quanin të marrë Profetin Muhamed (a.s.).
 
 # 5277
 
@@ -22005,9 +22036,9 @@ Por Kurani është vetëm këshillë për botët.
 
 # 5324
 
-E Vërteta e pashmangshme![375]
+E Vërteta e pashmangshme![^375]
 
-[375] Dita e Kiametit.
+[^375]: Dita e Kiametit.
 
 # 5325
 
@@ -22019,9 +22050,9 @@ E kush do të ta shpjegojë ty se ç’është e Vërteta e pashmangshme?
 
 # 5327
 
-Fiset Themud dhe Ad e mohuan Gjëmimin e tmerrshëm[376],
+Fiset Themud dhe Ad e mohuan Gjëmimin e tmerrshëm[^376],
 
-[376] Kiametin.
+[^376]: Kiametin.
 
 # 5328
 
@@ -22041,9 +22072,9 @@ A sheh ndonjë gjurmë të tyre?
 
 # 5332
 
-Faraoni, ata para tij dhe populli i qyteteve të rrënuara[377] kryen gjynahe të mëdha,
+Faraoni, ata para tij dhe populli i qyteteve të rrënuara[^377] kryen gjynahe të mëdha,
 
-[377] Sodomës dhe Gomorës.
+[^377]: Sodomës dhe Gomorës.
 
 # 5333
 
@@ -22051,9 +22082,9 @@ dhe e kundërshtuan të dërguarin e Zotit të tyre, andaj Allahu i zhbiu ata me
 
 # 5334
 
-Kur vërshoi uji i madh, Ne ju ngarkuam ju[378] në anije,
+Kur vërshoi uji i madh, Ne ju ngarkuam ju[^378] në anije,
 
-[378] D.m.th. Nuhun - babanë e dytë të njerëzimit dhe besimtarët që ishin me të.
+[^378]: D.m.th. Nuhun - babanë e dytë të njerëzimit dhe besimtarët që ishin me të.
 
 # 5335
 
@@ -22209,9 +22240,9 @@ Ne e dimë mirë se ka prej jush që e mohojnë atë.
 
 # 5373
 
-Ai është keqardhje për mohuesit.[379]
+Ai është keqardhje për mohuesit.[^379]
 
-[379] Pra, kur të shohin se çfarë shpërblimi kanë humbur që nuk e kanë ndjekur atë.
+[^379]: Pra, kur të shohin se çfarë shpërblimi kanë humbur që nuk e kanë ndjekur atë.
 
 # 5374
 
@@ -22223,9 +22254,9 @@ Prandaj, lartësoje emrin e Zotit tënd të Madhërishëm!
 
 # 5376
 
-Dikush kërkoi një dënim të shpejtë.[380]
+Dikush kërkoi një dënim të shpejtë.[^380]
 
-[380] Ebu Xhehli ose Nadir Ibn el-Harithi. Ata i kishin kërkuar më se një herë Profetit (a.s.), një dënim të shpejtë dhe u vranë në betejën e Bedrit, që zhvilluan kundër myslimanëve. Përtej këtij referimi historik, vargu paralajmëron këdo që tallet dhe sfidon Fuqinë Hyjnore. Disa dijetarë me autoritet kanë thënë se vargu mund të ketë këtë kuptim: “Dikush pyeti për dënimin që do të vijë”.
+[^380]: Ebu Xhehli ose Nadir Ibn el-Harithi. Ata i kishin kërkuar më se një herë Profetit (a.s.), një dënim të shpejtë dhe u vranë në betejën e Bedrit, që zhvilluan kundër myslimanëve. Përtej këtij referimi historik, vargu paralajmëron këdo që tallet dhe sfidon Fuqinë Hyjnore. Disa dijetarë me autoritet kanë thënë se vargu mund të ketë këtë kuptim: “Dikush pyeti për dënimin që do të vijë”.
 
 # 5377
 
@@ -22233,9 +22264,9 @@ Për jobesimtarët askush nuk mund ta ndalojë atë (dënim),
 
 # 5378
 
-(që vjen) nga Allahu, Zoti i Rrugëve të Ngjitjes[381].
+(që vjen) nga Allahu, Zoti i Rrugëve të Ngjitjes[^381].
 
-[381] “Rrugët e Ngjitjes” janë rrugët engjëllore që ngjiten drejt Allahut.
+[^381]: “Rrugët e Ngjitjes” janë rrugët engjëllore që ngjiten drejt Allahut.
 
 # 5379
 
@@ -22991,9 +23022,9 @@ edhe sikur të paraqesë shfajësimet e veta.
 
 # 5567
 
-Mos nxito (o Muhamed) në leximin e Kuranit me gjuhën tënde![382]
+Mos nxito (o Muhamed) në leximin e Kuranit me gjuhën tënde![^382]
 
-[382] Në fillimet e Shpalljes Hyjnore, Profeti (a.s.) ishte shumë i shqetësuar se nuk do të mbante dot mend atë që i përcillte Xhebraili (a.s.). Për këtë arsye, ai nxitonte të recitonte menjëherë pas tij pjesët e shpallura, duke humbur përqendrimin për pjesët që do t’i shpalleshin akoma.
+[^382]: Në fillimet e Shpalljes Hyjnore, Profeti (a.s.) ishte shumë i shqetësuar se nuk do të mbante dot mend atë që i përcillte Xhebraili (a.s.). Për këtë arsye, ai nxitonte të recitonte menjëherë pas tij pjesët e shpallura, duke humbur përqendrimin për pjesët që do t’i shpalleshin akoma.
 
 # 5568
 
@@ -23045,9 +23076,9 @@ atëherë, ai (që po vdes) do të bindet se ky është çasti i ndarjes
 
 # 5580
 
-dhe këmbët do të ngrijnë[383].
+dhe këmbët do të ngrijnë[^383].
 
-[383] Fjalë për fjalë: “Kur këmba të bashkohet me këmbën”, d.m.th. ashpërsia e çastit të vdekjes me ashpërsinë e asaj që vjen më pas.
+[^383]: Fjalë për fjalë: “Kur këmba të bashkohet me këmbën”, d.m.th. ashpërsia e çastit të vdekjes me ashpërsinë e asaj që vjen më pas.
 
 # 5581
 
@@ -23095,9 +23126,9 @@ Vallë, Ai Krijues, a nuk ka fuqi që t’i ngjallë të vdekurit?!
 
 # 5592
 
-Vallë, a nuk ka kaluar një periudhë kohore, kur njeriu nuk ka qenë qenie e denjë për t’u përmendur?![384]
+Vallë, a nuk ka kaluar një periudhë kohore, kur njeriu nuk ka qenë qenie e denjë për t’u përmendur?![^384]
 
-[384] Në mitrën e nënës ose në kohën kur Ademit i ishte dhënë forma, por s’i ishte fryrë shpirti.
+[^384]: Në mitrën e nënës ose në kohën kur Ademit i ishte dhënë forma, por s’i ishte fryrë shpirti.
 
 # 5593
 
@@ -23113,9 +23144,9 @@ Pa dyshim, Ne kemi përgatitur për jobesimtarët zinxhirë, pranga dhe zjarr fl
 
 # 5596
 
-Sigurisht, të ndershmit besimtarë do të pinë (në Xhenet) kupa me pije të përzier me Kafur,[385]
+Sigurisht, të ndershmit besimtarë do të pinë (në Xhenet) kupa me pije të përzier me Kafur,[^385]
 
-[385] Një burim në Xhenet.
+[^385]: Një burim në Xhenet.
 
 # 5597
 
@@ -23199,10 +23230,11 @@ Përmende emrin e Zotit tënd në mëngjes dhe në mbrëmje.
 
 # 5617
 
-Në një pjesë të natës[386] bëji sexhde Atij dhe, natën falju gjatë[387] Atij.
+Në një pjesë të natës[^386] bëji sexhde Atij dhe, natën falju gjatë[^387] Atij.
 
-[386] Pra, falu për aksham dhe jaci.
-[387] Pra, fal namazin e natës (tehexh-xhud).
+[^386]: Pra, falu për aksham dhe jaci.
+
+[^387]: Pra, fal namazin e natës (tehexh-xhud).
 
 # 5618
 
@@ -23226,9 +23258,9 @@ Ai pranon në mëshirën e Vet kë të dojë, ndërsa për keqbërësit ka përg
 
 # 5623
 
-Për ato që dërgohen njëra pas tjetrës,[388]
+Për ato që dërgohen njëra pas tjetrës,[^388]
 
-[388] Komentuesit e Kuranit nuk kanë rënë dakord se kujt i referohet përemri “ato” në vargjet 1-6. Shumica e tyre thonë se bëhet fjalë për erërat. Disa thonë se janë engjëjt dhe të tjerë thonë se bëhet fjalë për vargjet e Kuranit. Të gjitha këto interpretime janë të besueshme dhe nuk e përjashtojnë njëra-tjetrën. Kështu, vargjet 1-3 u referohen erërave, vargu 4 u referohet vargjeve kuranore, që ndajnë të vërtetën nga e pavërteta, kurse vargjet 5-6, engjëjve.
+[^388]: Komentuesit e Kuranit nuk kanë rënë dakord se kujt i referohet përemri “ato” në vargjet 1-6. Shumica e tyre thonë se bëhet fjalë për erërat. Disa thonë se janë engjëjt dhe të tjerë thonë se bëhet fjalë për vargjet e Kuranit. Të gjitha këto interpretime janë të besueshme dhe nuk e përjashtojnë njëra-tjetrën. Kështu, vargjet 1-3 u referohen erërave, vargu 4 u referohet vargjeve kuranore, që ndajnë të vërtetën nga e pavërteta, kurse vargjet 5-6, engjëjve.
 
 # 5624
 
@@ -23588,15 +23620,15 @@ Me të vërtetë, Ne ju kemi paralajmëruar se është i afërt dënimi, Ditën,
 
 # 5713
 
-Për ata (engjëj) që marrin me forcë,[389]
+Për ata (engjëj) që marrin me forcë,[^389]
 
-[389] D.m.th. shpirtrat e jobesimtarëve.
+[^389]: D.m.th. shpirtrat e jobesimtarëve.
 
 # 5714
 
-për ata që marrin butësisht,[390]
+për ata që marrin butësisht,[^390]
 
-[390] D.m.th. shpirtrat e besimtarëve.
+[^390]: D.m.th. shpirtrat e besimtarëve.
 
 # 5715
 
@@ -23604,15 +23636,15 @@ për ata që notojnë në hapësirë,
 
 # 5716
 
-për ata që nxitojnë,[391]
+për ata që nxitojnë,[^391]
 
-[391] D.m.th. të fusin në Xhenet shpirtrat e mirë.
+[^391]: D.m.th. të fusin në Xhenet shpirtrat e mirë.
 
 # 5717
 
-dhe për ata që i rregullojnë punët![392]
+dhe për ata që i rregullojnë punët![^392]
 
-[392] D.m.th. zbatojnë urdhrat e Allahut në univers.
+[^392]: D.m.th. zbatojnë urdhrat e Allahut në univers.
 
 # 5718
 
@@ -23780,9 +23812,9 @@ Ditën kur do ta shohin atë, (njerëzve) do t’u duket se kanë qëndruar (në
 
 # 5759
 
-Ai[393] u vrenjt dhe ktheu kurrizin,
+Ai[^393] u vrenjt dhe ktheu kurrizin,
 
-[393] Muhamedi (a.s.).
+[^393]: Muhamedi (a.s.).
 
 # 5760
 
@@ -23830,9 +23862,9 @@ pra, kush të dojë, le të marrë këshillë!
 
 # 5771
 
-Ai ndodhet në Faqe të nderuara,[394]
+Ai ndodhet në Faqe të nderuara,[^394]
 
-[394] Në Leuhi Mahfûdh.
+[^394]: Në Leuhi Mahfûdh.
 
 # 5772
 
@@ -23988,9 +24020,9 @@ për çfarë faji ishte vrarë;
 
 # 5810
 
-kur fletët të shpërndahen[395]
+kur fletët të shpërndahen[^395]
 
-[395] D.m.th. regjistrat e veprave të njerëzve.
+[^395]: D.m.th. regjistrat e veprave të njerëzve.
 
 # 5811
 
@@ -24026,9 +24058,9 @@ e për agimin kur nis të zbardhë,
 
 # 5819
 
-se ky (Kuran) është Fjalë e (kumtuar prej) një të Dërguari fisnik,[396]
+se ky (Kuran) është Fjalë e (kumtuar prej) një të Dërguari fisnik,[^396]
 
-[396] Prej Xhebrailit (a.s.).
+[^396]: Prej Xhebrailit (a.s.).
 
 # 5820
 
@@ -24040,15 +24072,15 @@ e që është i respektuar atje dhe besnik.
 
 # 5822
 
-Shoku juaj[397] nuk është i marrë.
+Shoku juaj[^397] nuk është i marrë.
 
-[397] Muhamedi (a.s.).
+[^397]: Muhamedi (a.s.).
 
 # 5823
 
-Ai e ka parë atë[398] në horizontin e qartë
+Ai e ka parë atë[^398] në horizontin e qartë
 
-[398] Pra, Profeti (a.s.) e ka parë Xhebrailin (a.s.) në formën e tij fillestare në fillimet e Shpalljes Hyjnore.
+[^398]: Pra, Profeti (a.s.) e ka parë Xhebrailin (a.s.) në formën e tij fillestare në fillimet e Shpalljes Hyjnore.
 
 # 5824
 
@@ -24400,9 +24432,9 @@ Për qiellin me yjësi,
 
 # 5911
 
-për Ditën e premtuar[399],
+për Ditën e premtuar[^399],
 
-[399] Ditën e Kiametit.
+[^399]: Ditën e Kiametit.
 
 # 5912
 
@@ -24410,9 +24442,9 @@ për dëshmitarin dhe për atë që dëshmohet!
 
 # 5913
 
-Mallkuar qofshin njerëzit e Hendekut,[400]
+Mallkuar qofshin njerëzit e Hendekut,[^400]
 
-[400] “Njerëzit e Hendekut”: vargu bën fjalë për një ngjarje që ka për protagonist një mbret çifut të Nexhranit, në veri të Jemenit, të quajtur Dhu Nuvas. Ai i përndoqi të krishterët e asaj krahine dhe martirizoi një numër të madh prej tyre, duke i hedhur në një hendek të mbushur me zjarr. Sipas disa transmetimeve, aty u dogjën njëzet e tre mijë të krishterë. Historia tregon se ky krim nuk mbeti pa u ndëshkuar, sepse një ushtri prej shtatëdhjetë mijë vetash u dërgua kundër Dhu Nuvasit nga Negusi i Etiopisë. Ushtria e Dhu Nuvasit u shpartallua, ai vrau veten dhe njerëzit e tij u skllavëruan. Për të marrë hakun e të krishterëve të vrarë, kaloi nën tehun e shpatës një e treta e burrave të Nexhranit dhe një e gjashta e grave u skllavërua.
+[^400]: “Njerëzit e Hendekut”: vargu bën fjalë për një ngjarje që ka për protagonist një mbret çifut të Nexhranit, në veri të Jemenit, të quajtur Dhu Nuvas. Ai i përndoqi të krishterët e asaj krahine dhe martirizoi një numër të madh prej tyre, duke i hedhur në një hendek të mbushur me zjarr. Sipas disa transmetimeve, aty u dogjën njëzet e tre mijë të krishterë. Historia tregon se ky krim nuk mbeti pa u ndëshkuar, sepse një ushtri prej shtatëdhjetë mijë vetash u dërgua kundër Dhu Nuvasit nga Negusi i Etiopisë. Ushtria e Dhu Nuvasit u shpartallua, ai vrau veten dhe njerëzit e tij u skllavëruan. Për të marrë hakun e të krishterëve të vrarë, kaloi nën tehun e shpatës një e treta e burrave të Nexhranit dhe një e gjashta e grave u skllavërua.
 
 # 5914
 
@@ -24528,21 +24560,21 @@ kur njeriu nuk do të ketë as fuqi, as ndihmës.
 
 # 5942
 
-Për qiellin që kthehet pareshtur[401]
+Për qiellin që kthehet pareshtur[^401]
 
-[401] Pra, kthehet pareshtur me shi në ciklin e tij avullim-ré-kondensim.
+[^401]: Pra, kthehet pareshtur me shi në ciklin e tij avullim-ré-kondensim.
 
 # 5943
 
-dhe për Tokën që plasaritet,[402]
+dhe për Tokën që plasaritet,[^402]
 
-[402] Pra, plasaritet për të mbirë bimët.
+[^402]: Pra, plasaritet për të mbirë bimët.
 
 # 5944
 
-që kjo është një Fjalë ndarëse,[403]
+që kjo është një Fjalë ndarëse,[^403]
 
-[403] Pra, Kurani është ndarës i së vërtetës nga e pavërteta.
+[^403]: Pra, Kurani është ndarës i së vërtetës nga e pavërteta.
 
 # 5945
 
@@ -24862,15 +24894,15 @@ dhe hyr në Xhenetin Tim!
 
 # 6024
 
-Betohem për këtë vend,[404]
+Betohem për këtë vend,[^404]
 
-[404] Mekën.
+[^404]: Mekën.
 
 # 6025
 
-në të cilin ti je i lirë (o Muhamed),[405]
+në të cilin ti je i lirë (o Muhamed),[^405]
 
-[405] Pra, “ti je i lirë t’i luftosh armiqtë e tu” ose “je i lirë nga gjynahet”. Sipas një interpretimi tjetër: “ti je banor i këtij qyteti”.
+[^405]: Pra, “ti je i lirë t’i luftosh armiqtë e tu” ose “je i lirë nga gjynahet”. Sipas një interpretimi tjetër: “ti je banor i këtij qyteti”.
 
 # 6026
 
@@ -24878,9 +24910,9 @@ dhe për atë që lind e për atë që është i lindur,
 
 # 6027
 
-se, në të vërtetë, Ne e kemi krijuar njeriun për të luftuar në vështirësi![406]
+se, në të vërtetë, Ne e kemi krijuar njeriun për të luftuar në vështirësi![^406]
 
-[406] Pra, të luftojë për të shpëtuar shpirtin.
+[^406]: Pra, të luftojë për të shpëtuar shpirtin.
 
 # 6028
 
@@ -24904,9 +24936,9 @@ edhe gjuhë, edhe dy buzë,
 
 # 6033
 
-dhe ia kemi bërë të qarta të dyja rrugët?[407]
+dhe ia kemi bërë të qarta të dyja rrugët?[^407]
 
-[407] Rrugën e së mirës dhe rrugën e së keqes.
+[^407]: Rrugën e së mirës dhe rrugën e së keqes.
 
 # 6034
 
@@ -24998,15 +25030,15 @@ kur u ngrit më i keqi i tij (për të therur devenë).
 
 # 6056
 
-I dërguari i Allahut (Salihu), u tha atyre[408]: “Kjo është deveja e Allahut! Lëreni atë të pijë pjesën e vet!”
+I dërguari i Allahut (Salihu), u tha atyre[^408]: “Kjo është deveja e Allahut! Lëreni atë të pijë pjesën e vet!”
 
-[408] D.m.th. njerëzve të fisit.
+[^408]: D.m.th. njerëzve të fisit.
 
 # 6057
 
-Por ata nuk i besuan atij dhe e therën atë. Prandaj Zoti i tyre i shkatërroi të gjithë për gjynahet e tyre, nga i pari tek i fundit,[409]
+Por ata nuk i besuan atij dhe e therën atë. Prandaj Zoti i tyre i shkatërroi të gjithë për gjynahet e tyre, nga i pari tek i fundit,[^409]
 
-[409] Pra, pa u penduar aspak për këtë.
+[^409]: Pra, pa u penduar aspak për këtë.
 
 # 6058
 
@@ -25106,9 +25138,9 @@ dhe në natën kur erret e qetësohet,
 
 # 6082
 
-se Zoti yt nuk të ka braktisur e as nuk të urren (o Muhamed)![410]
+se Zoti yt nuk të ka braktisur e as nuk të urren (o Muhamed)![^410]
 
-[410] Kjo sure i është shpallur Muhamedit (a.s.) pas një periudhe të gjatë ndërprerjeje të Shpalljes Hyjnore, gjatë së cilës Profetit (a.s.) i është dashur të durojë shpotitë e jobesimtarëve dhe talljet e armiqve të tij më të këqij. Gruaja e xhaxhait të tij, Ebu Lehebit, e tallte, duke i thënë: “Zotëria yt të ka braktisur”.
+[^410]: Kjo sure i është shpallur Muhamedit (a.s.) pas një periudhe të gjatë ndërprerjeje të Shpalljes Hyjnore, gjatë së cilës Profetit (a.s.) i është dashur të durojë shpotitë e jobesimtarëve dhe talljet e armiqve të tij më të këqij. Gruaja e xhaxhait të tij, Ebu Lehebit, e tallte, duke i thënë: “Zotëria yt të ka braktisur”.
 
 # 6083
 
@@ -25140,9 +25172,9 @@ lypësin mos e shtyj me ashpërsi
 
 # 6090
 
-dhe shpalli dhuntitë e Zotit tënd![411]
+dhe shpalli dhuntitë e Zotit tënd![^411]
 
-[411] Dhuntitë më të mëdha që Allahu i Madhëruar i ka falur Muhamedit (a.s.), janë Kurani dhe Profecia. Kjo tregon qartë se çfarë dhuntish duhej të shpallte Profeti (a.s.).
+[^411]: Dhuntitë më të mëdha që Allahu i Madhëruar i ka falur Muhamedit (a.s.), janë Kurani dhe Profecia. Kjo tregon qartë se çfarë dhuntish duhej të shpallte Profeti (a.s.).
 
 # 6091
 
@@ -25150,9 +25182,9 @@ Vallë, a nuk ta hapëm ty (Muhamed) kraharorin (për të pranuar besimin)
 
 # 6092
 
-dhe ta hoqëm barrën[412],
+dhe ta hoqëm barrën[^412],
 
-[412] Sipas Taberiut, vargu do të thotë: “A nuk të kemi dëlirur nga çdo gjynah?!”
+[^412]: Sipas Taberiut, vargu do të thotë: “A nuk të kemi dëlirur nga çdo gjynah?!”
 
 # 6093
 
@@ -25160,9 +25192,9 @@ e cila ta rëndonte tepër kurrizin,
 
 # 6094
 
-dhe ta ngritëm lart emrin?![413]
+dhe ta ngritëm lart emrin?![^413]
 
-[413] Është e sigurt se asnjë njeri në botë nuk ka bërë më shumë emër sesa Profeti Muhamed (a.s.). Më se një miliardë myslimanë përmendin emrin e tij përditë, duke u lutur për të në namazet e tyre. Nga mijëra e mijëra minare, myezinët thërrasin emrin e tij pesë herë në ditë. Arritjet e misionit të tij shpirtëror, moral, juridik e politik janë tërësisht të gjalla dhe aktive edhe katërmbëdhjetë shekuj pas ndarjes së tij nga kjo botë dhe do të zgjasin, në dashtë Allahu, deri në Ditën e fundit të jetës tokësore dhe, në vazhdim, në jetën e amshuar.
+[^413]: Është e sigurt se asnjë njeri në botë nuk ka bërë më shumë emër sesa Profeti Muhamed (a.s.). Më se një miliardë myslimanë përmendin emrin e tij përditë, duke u lutur për të në namazet e tyre. Nga mijëra e mijëra minare, myezinët thërrasin emrin e tij pesë herë në ditë. Arritjet e misionit të tij shpirtëror, moral, juridik e politik janë tërësisht të gjalla dhe aktive edhe katërmbëdhjetë shekuj pas ndarjes së tij nga kjo botë dhe do të zgjasin, në dashtë Allahu, deri në Ditën e fundit të jetës tokësore dhe, në vazhdim, në jetën e amshuar.
 
 # 6095
 
@@ -25192,9 +25224,9 @@ për malin e Sinait
 
 # 6101
 
-dhe për këtë Qytet të sigurt (Mekën)[414],
+dhe për këtë Qytet të sigurt (Mekën)[^414],
 
-[414] Sipas disa dijetarëve, në tre vargjet e para, Allahu i Madhëruar është betuar për tre vende, prej të cilave ka nisur tre nga të dërguarit më të mëdhenj: Isanë (a.s.), Musanë (a.s.) dhe Muhamedin (a.s.). Kështu, fiku dhe ulliri simbolizojnë Jerusalemin, qytetin e Isait (a.s.), sepse ai është vendi i fiqve dhe i ullinjve. Mali i Sinait është vendi, ku Allahu ka folur me Musain (a.s.), ndërsa Qyteti i sigurt është Meka, qyteti i Muhamedit (a.s.), sepse kështu është cilësuar ky vend në Kuran, në suren 2, vargu 126.
+[^414]: Sipas disa dijetarëve, në tre vargjet e para, Allahu i Madhëruar është betuar për tre vende, prej të cilave ka nisur tre nga të dërguarit më të mëdhenj: Isanë (a.s.), Musanë (a.s.) dhe Muhamedin (a.s.). Kështu, fiku dhe ulliri simbolizojnë Jerusalemin, qytetin e Isait (a.s.), sepse ai është vendi i fiqve dhe i ullinjve. Mali i Sinait është vendi, ku Allahu ka folur me Musain (a.s.), ndërsa Qyteti i sigurt është Meka, qyteti i Muhamedit (a.s.), sepse kështu është cilësuar ky vend në Kuran, në suren 2, vargu 126.
 
 # 6102
 
@@ -25254,9 +25286,9 @@ A e ke parë ti (Muhamed) atë që pengon
 
 # 6116
 
-robin (Tonë) kur falet?[415]
+robin (Tonë) kur falet?[^415]
 
-[415] Vargjet aludojnë për një nga prijësit e Mekës, Ebu Xhehlin, i cili ishte armiku kryesor i Profetit Muhamed (a.s.) në fillimet e Islamit. Ai e kishte kërcënuar Profetin (a.s.), që të mos falej më në Qabe.
+[^415]: Vargjet aludojnë për një nga prijësit e Mekës, Ebu Xhehlin, i cili ishte armiku kryesor i Profetit Muhamed (a.s.) në fillimet e Islamit. Ai e kishte kërcënuar Profetin (a.s.), që të mos falej më në Qabe.
 
 # 6117
 
@@ -25284,9 +25316,9 @@ për ballukesh të gënjeshtarit dhe fajtorit.
 
 # 6123
 
-Atëherë ai le ta thërrasë shoqërinë e vet,[416]
+Atëherë ai le ta thërrasë shoqërinë e vet,[^416]
 
-[416] Pra, le të thërrasë në ndihmë prijësit e tjerë të Mekës, që ishin përkrahësit e tij.
+[^416]: Pra, le të thërrasë në ndihmë prijësit e tjerë të Mekës, që ishin përkrahësit e tij.
 
 # 6124
 
@@ -25310,9 +25342,9 @@ Nata e Kadrit është më e mirë se një mijë muaj.
 
 # 6129
 
-Engjëjt dhe Shpirti (Xhebraili), me lejen e Zotit të tyre, zbresin në këtë natë, me të gjitha vendimet.[417]
+Engjëjt dhe Shpirti (Xhebraili), me lejen e Zotit të tyre, zbresin në këtë natë, me të gjitha vendimet.[^417]
 
-[417] “Nata e Kadrit” do të thotë “Nata e Caktimit”. Në këtë natë, Allahu i Madhëruar ka filluar t’i shpallë Kuranin Muhamedit (a.s.). Ajo është një nga netët teke të 10-ditëshit të fundit të muajit Ramazan. Gjatë saj, engjëjt zbresin me të gjitha vendimet hyjnore për çfarë do të ndodhë në Tokë brenda një viti.
+[^417]: “Nata e Kadrit” do të thotë “Nata e Caktimit”. Në këtë natë, Allahu i Madhëruar ka filluar t’i shpallë Kuranin Muhamedit (a.s.). Ajo është një nga netët teke të 10-ditëshit të fundit të muajit Ramazan. Gjatë saj, engjëjt zbresin me të gjitha vendimet hyjnore për çfarë do të ndodhë në Tokë brenda një viti.
 
 # 6130
 
@@ -25356,9 +25388,9 @@ Kur të dridhet Toka me tronditjen e saj (të fundit),
 
 # 6140
 
-kur të nxjerrë barrët nga brendia e saj[418]
+kur të nxjerrë barrët nga brendia e saj[^418]
 
-[418] Pra, kur të nxjerrë kufomat e të vdekurve që janë varrosur në të.
+[^418]: Pra, kur të nxjerrë kufomat e të vdekurve që janë varrosur në të.
 
 # 6141
 
@@ -25366,9 +25398,9 @@ e njeriu të thotë: “Ç’po i ndodh asaj?!”
 
 # 6142
 
-Atë Ditë ajo do të tregojë lajmet e saj,[419]
+Atë Ditë ajo do të tregojë lajmet e saj,[^419]
 
-[419] Ashtu si të gjitha krijesat, edhe Toka do të dëshmojë për veprat e njerëzve.
+[^419]: Ashtu si të gjitha krijesat, edhe Toka do të dëshmojë për veprat e njerëzve.
 
 # 6143
 
@@ -25384,9 +25416,9 @@ kush ka bërë ndonjë të mirë, qoftë sa një thërrmijë, do ta shohë atë,
 
 # 6146
 
-e kush ka bërë ndonjë të keqe, qoftë sa një thërrmijë, do ta shohë atë.[420]
+e kush ka bërë ndonjë të keqe, qoftë sa një thërrmijë, do ta shohë atë.[^420]
 
-[420] Profeti Muhamed (a.s.) ka thënë se dy vargjet përmbyllëse të kësaj sureje janë më frikësueset e të gjithë Kuranit.
+[^420]: Profeti Muhamed (a.s.) ka thënë se dy vargjet përmbyllëse të kësaj sureje janë më frikësueset e të gjithë Kuranit.
 
 # 6147
 
@@ -25394,9 +25426,9 @@ Betohem për ata (kuaj) që vrapojnë duke dihatur,
 
 # 6148
 
-që nxjerrin xixa nga thundrat[421]
+që nxjerrin xixa nga thundrat[^421]
 
-[421] Pra, nxjerrin xixa, duke goditur gurët me patkonjtë e tyre të hekurt.
+[^421]: Pra, nxjerrin xixa, duke goditur gurët me patkonjtë e tyre të hekurt.
 
 # 6149
 
@@ -25424,9 +25456,9 @@ Vërtet, ai është i babëzitur për pasuri.
 
 # 6155
 
-Vallë, a nuk e di ai se kur të nxirren jashtë ata që gjenden në varre[422]
+Vallë, a nuk e di ai se kur të nxirren jashtë ata që gjenden në varre[^422]
 
-[422] Pra, kur Allahu i Lartmadhëruar të ringjallë të vdekurit.
+[^422]: Pra, kur Allahu i Lartmadhëruar të ringjallë të vdekurit.
 
 # 6156
 
@@ -25438,9 +25470,9 @@ Zoti i tyre, me siguri, atë Ditë di çdo gjë për ta?!
 
 # 6158
 
-Gjëmimi i tmerrshëm![423]
+Gjëmimi i tmerrshëm![^423]
 
-[423] “Gjëmimi i tmerrshëm”: është një nga emrat e Ditës së Kiametit.
+[^423]: “Gjëmimi i tmerrshëm”: është një nga emrat e Ditës së Kiametit.
 
 # 6159
 
@@ -25472,9 +25504,9 @@ E sa i përket atij, veprat e (mira të) të cilit nuk do të rëndojnë në pes
 
 # 6166
 
-Ai do të ketë si strehim Humnerën (e Xhehenemit).[424]
+Ai do të ketë si strehim Humnerën (e Xhehenemit).[^424]
 
-[424] “Ai do të ketë si strehim Humnerën”: fjalë për fjalë: “Ai do të ketë për nënë Humnerën”. Në gjuhën arabe, fjalët umm dhe ebu (nënë dhe baba) përdoren edhe për të treguar origjinën e diçkaje dhe përkatësinë e tij absolute. Në këtë rast, fjala umm – nënë shpreh konceptin se njerëzit e mallkuar do të kenë për strehë Hâuija-n – Humnerën e Xhehenemit.
+[^424]: “Ai do të ketë si strehim Humnerën”: fjalë për fjalë: “Ai do të ketë për nënë Humnerën”. Në gjuhën arabe, fjalët umm dhe ebu (nënë dhe baba) përdoren edhe për të treguar origjinën e diçkaje dhe përkatësinë e tij absolute. Në këtë rast, fjala umm – nënë shpreh konceptin se njerëzit e mallkuar do të kenë për strehë Hâuija-n – Humnerën e Xhehenemit.
 
 # 6167
 
@@ -25486,9 +25518,9 @@ Ajo është një Zjarr i vrullshëm.
 
 # 6169
 
-Ju ka hutuar rivaliteti për të shtuar[425],
+Ju ka hutuar rivaliteti për të shtuar[^425],
 
-[425] Pra, rivaliteti për të shtuar pasurinë, famën, pushtetin etj.
+[^425]: Pra, rivaliteti për të shtuar pasurinë, famën, pushtetin etj.
 
 # 6170
 
@@ -25520,9 +25552,9 @@ Pastaj, atë Ditë, do të pyeteni për kënaqësitë (e kësaj bote)!
 
 # 6177
 
-Për kohën![426]
+Për kohën![^426]
 
-[426] Allahu i Madhëruar është betuar për kohën, sepse ajo është një nga krijesat më madhështore të Allahut dhe për shkak të rëndësisë që paraqet ajo në jetën e njeriut.
+[^426]: Allahu i Madhëruar është betuar për kohën, sepse ajo është një nga krijesat më madhështore të Allahut dhe për shkak të rëndësisë që paraqet ajo në jetën e njeriut.
 
 # 6178
 
@@ -25530,9 +25562,9 @@ Me të vërtetë, njeriu është në humbje,
 
 # 6179
 
-përveç atyre që besojnë dhe bëjnë vepra të mira, i këshillojnë njëri-tjetrit të vërtetën e i këshillojnë njëri-tjetrit durimin.[427]
+përveç atyre që besojnë dhe bëjnë vepra të mira, i këshillojnë njëri-tjetrit të vërtetën e i këshillojnë njëri-tjetrit durimin.[^427]
 
-[427] Sa më shumë që koha kalon, aq më tepër njeriu i afrohet humbjes, nëse nuk plotëson katër kushte që kanë të bëjnë me përsosjen e tij personale dhe përsosjen e të tjerëve: besimi tek Allahu dhe te gjithçka që ai ka urdhëruar të besohet; kryerja e veprave të mira, qofshin këto vepra fizike apo shpirtërore; këshillimi i të tjerëve me këtë të vërtetë dhe këshillimi i tyre që të durojnë në përpjekjen e tyre për t’iu përmbajtur urdhrave të Allahut dhe për të duruar sprovat e dhembshme dhe të vështira që mund të ketë paracaktuar Ai.
+[^427]: Sa më shumë që koha kalon, aq më tepër njeriu i afrohet humbjes, nëse nuk plotëson katër kushte që kanë të bëjnë me përsosjen e tij personale dhe përsosjen e të tjerëve: besimi tek Allahu dhe te gjithçka që ai ka urdhëruar të besohet; kryerja e veprave të mira, qofshin këto vepra fizike apo shpirtërore; këshillimi i të tjerëve me këtë të vërtetë dhe këshillimi i tyre që të durojnë në përpjekjen e tyre për t’iu përmbajtur urdhrave të Allahut dhe për të duruar sprovat e dhembshme dhe të vështira që mund të ketë paracaktuar Ai.
 
 # 6180
 
@@ -25568,15 +25600,15 @@ Ai do t’i rrethojë ata nga çdo anë,
 
 # 6188
 
-në shtylla të gjata flakëruese.[428]
+në shtylla të gjata flakëruese.[^428]
 
-[428] Kuptimi i saktë i këtij vargu nuk është i qartë as për komentuesit më autoritarë. Mund të bëhet fjalë për shtyllat e Xhehenemit, në të cilat do të prangosen njerëzit e këqij.
+[^428]: Kuptimi i saktë i këtij vargu nuk është i qartë as për komentuesit më autoritarë. Mund të bëhet fjalë për shtyllat e Xhehenemit, në të cilat do të prangosen njerëzit e këqij.
 
 # 6189
 
-Vallë, a nuk ke dëgjuar ti se si bëri Zoti yt me njerëzit e elefantit?[429]
+Vallë, a nuk ke dëgjuar ti se si bëri Zoti yt me njerëzit e elefantit?[^429]
 
-[429] Në vitin 570 (ose 571), Ebreha, guvernatori abisinas i Jemenit, u betua se do të shkatërronte Qabenë, të cilën e quante një tempull pagan, në mënyrë që të vendoste dominimin e krishterë në të gjithë Gadishullin Arabik. Ai mblodhi një ushtri të fuqishme, në krye të së cilës marshonte një elefant i madh dhe u drejtua për nga Meka. Kur ushtria iu afrua Mekës, elefanti u ul dhe nuk pranonte të ecte në atë drejtim. Kur i ndërronin drejtim, ai ecte. Kjo ishte shenjë që ushtria e Ebrehasë të mos e sulmonte Mekën, por Ebrehaja s’ia vuri veshin asaj. Prandaj, Allahu i Madhëruar i goditi ashpërsisht njerëzit e elefantit nëpërmjet tufash të panumërta me zogj, që lëshonin një lloj guri të fortë e vdekjeprurës. Morali ishte i qartë për fisin Kurejsh: Allahu i Madhëruar e kishte mbrojtur Faltoren e Tij, ashtu edhe ata vetë, prandaj duhej të ishin mirënjohës për këtë.
+[^429]: Në vitin 570 (ose 571), Ebreha, guvernatori abisinas i Jemenit, u betua se do të shkatërronte Qabenë, të cilën e quante një tempull pagan, në mënyrë që të vendoste dominimin e krishterë në të gjithë Gadishullin Arabik. Ai mblodhi një ushtri të fuqishme, në krye të së cilës marshonte një elefant i madh dhe u drejtua për nga Meka. Kur ushtria iu afrua Mekës, elefanti u ul dhe nuk pranonte të ecte në atë drejtim. Kur i ndërronin drejtim, ai ecte. Kjo ishte shenjë që ushtria e Ebrehasë të mos e sulmonte Mekën, por Ebrehaja s’ia vuri veshin asaj. Prandaj, Allahu i Madhëruar i goditi ashpërsisht njerëzit e elefantit nëpërmjet tufash të panumërta me zogj, që lëshonin një lloj guri të fortë e vdekjeprurës. Morali ishte i qartë për fisin Kurejsh: Allahu i Madhëruar e kishte mbrojtur Faltoren e Tij, ashtu edhe ata vetë, prandaj duhej të ishin mirënjohës për këtë.
 
 # 6190
 
@@ -25596,15 +25628,15 @@ Dhe kështu, i bëri si byk i ngrënë.
 
 # 6194
 
-(Shkatërrimin e njerëzve të elefantit Allahu e bëri) për të mbrojtur fisin Kurejsh,[430]
+(Shkatërrimin e njerëzve të elefantit Allahu e bëri) për të mbrojtur fisin Kurejsh,[^430]
 
-[430] Sipas disa komentuesve, përmbajtja e kësaj sureje është e lidhur ngushtë me suren e mëparshme, duke lënë të nënkuptohet se shkatërrimin e njerëzve të elefantit Allahu e bëri për të mbrojtur kurejshët.
+[^430]: Sipas disa komentuesve, përmbajtja e kësaj sureje është e lidhur ngushtë me suren e mëparshme, duke lënë të nënkuptohet se shkatërrimin e njerëzve të elefantit Allahu e bëri për të mbrojtur kurejshët.
 
 # 6195
 
-për t’i mbrojtur ata në udhëtimin që bëjnë dimër e verë.[431]
+për t’i mbrojtur ata në udhëtimin që bëjnë dimër e verë.[^431]
 
-[431] Struktura ekonomike mbi të cilën ishte ngritur mirëqenia e kurejshëve të Mekës, bazohej në dy situata tregtare: njëra ishte pelegrinazhi i përvitshëm, që sillte në Mekë të gjithë arabët e Gadishullit Arabik, kurse tjetra ishte udhëtimi i dy karvanëve vjetorë, njëri drejt Jemenit gjatë dimrit dhe tjetri drejt Shamit (sot Siria, Palestina, Libani dhe Jordania) gjatë verës. Pozicioni qendror i Mekës ndërmjet Mesdheut dhe Oqeanit Indian dhe aftësitë e jashtëzakonshme të tregtarëve kurejshë, bënë që këta dy karvanë të ktheheshin në pikëmbështetjen e të gjithë aktivitetit ekonomik të qytetit.
+[^431]: Struktura ekonomike mbi të cilën ishte ngritur mirëqenia e kurejshëve të Mekës, bazohej në dy situata tregtare: njëra ishte pelegrinazhi i përvitshëm, që sillte në Mekë të gjithë arabët e Gadishullit Arabik, kurse tjetra ishte udhëtimi i dy karvanëve vjetorë, njëri drejt Jemenit gjatë dimrit dhe tjetri drejt Shamit (sot Siria, Palestina, Libani dhe Jordania) gjatë verës. Pozicioni qendror i Mekës ndërmjet Mesdheut dhe Oqeanit Indian dhe aftësitë e jashtëzakonshme të tregtarëve kurejshë, bënë që këta dy karvanë të ktheheshin në pikëmbështetjen e të gjithë aktivitetit ekonomik të qytetit.
 
 # 6196
 
@@ -25632,9 +25664,9 @@ Mjerë për ata, të cilët kur falen,
 
 # 6202
 
-janë të pakujdesshëm për namazet,[432]
+janë të pakujdesshëm për namazet,[^432]
 
-[432] Sipas komentuesve të Kuranit, vargjet 4-5 bëjnë fjalë ose për hipokritët, të cilët falen vetëm kur janë me të tjerët dhe jo kur janë vetëm, ose për ata besimtarë që nuk falen rregullisht, por që e falin namazin jashtë kohës së tij apo e falin përgjithësisht në fund të kohës së tij, duke mos i kryer si duhet rregullat e tij dhe pa qenë të përqendruar në të. Gjithsesi, kërcënimi i përfshin të gjitha këto kategori, por, atij që bën vetëm një pjesë prej këtyre veprave, i takon vetëm një pjesë prej kërcënimit, ndërsa atij që i bën të gjitha këto, i takon i plotë kërcënimi.
+[^432]: Sipas komentuesve të Kuranit, vargjet 4-5 bëjnë fjalë ose për hipokritët, të cilët falen vetëm kur janë me të tjerët dhe jo kur janë vetëm, ose për ata besimtarë që nuk falen rregullisht, por që e falin namazin jashtë kohës së tij apo e falin përgjithësisht në fund të kohës së tij, duke mos i kryer si duhet rregullat e tij dhe pa qenë të përqendruar në të. Gjithsesi, kërcënimi i përfshin të gjitha këto kategori, por, atij që bën vetëm një pjesë prej këtyre veprave, i takon vetëm një pjesë prej kërcënimit, ndërsa atij që i bën të gjitha këto, i takon i plotë kërcënimi.
 
 # 6203
 
@@ -25646,21 +25678,21 @@ dhe nuk u japin ndihmë nevojtarëve.
 
 # 6205
 
-Me të vërtetë që Ne të kemi dhënë ty shumë të mira,[433]
+Me të vërtetë që Ne të kemi dhënë ty shumë të mira,[^433]
 
-[433] “shumë të mira”: në tekstin origjinal thuhet “el Keuther”. Kjo fjalë, sipas disa transmetimeve, tregon një lumë në Xhenet, të cilin Allahu i Madhëruar ia ka premtuar si dhuratë Profetit Muhamed (a.s.), për ta kompensuar dhe ngushëlluar për gjithçka që ka hequr për çështjen e Tij. Komentet tradicionale thonë se ajo tregon pozitën e Profetit (a.s.) në Xhenet, ku do të vendoset në vendin më të lartë (el uesile) dhe do të kënaqet me mirësitë e dritës hyjnore.
+[^433]: “shumë të mira”: në tekstin origjinal thuhet “el Keuther”. Kjo fjalë, sipas disa transmetimeve, tregon një lumë në Xhenet, të cilin Allahu i Madhëruar ia ka premtuar si dhuratë Profetit Muhamed (a.s.), për ta kompensuar dhe ngushëlluar për gjithçka që ka hequr për çështjen e Tij. Komentet tradicionale thonë se ajo tregon pozitën e Profetit (a.s.) në Xhenet, ku do të vendoset në vendin më të lartë (el uesile) dhe do të kënaqet me mirësitë e dritës hyjnore.
 
 # 6206
 
-andaj, falu (vetëm) për Zotin tënd dhe ther kurban![434]
+andaj, falu (vetëm) për Zotin tënd dhe ther kurban![^434]
 
-[434] Ky varg është shumë i rëndësishëm për sa i përket praktikës së ritualeve në ditën e Kurban Bajramit, e cila festohet në ditën e dhjetë të haxhillëkut dhe kujton provën, në të cilën Allahu i Madhërishëm vuri Ibrahimin (a.s.). Vargu përshkruan radhën e kryerjes së riteve: në fillim falet namazi i Bajramit, pastaj theret kurbani.
+[^434]: Ky varg është shumë i rëndësishëm për sa i përket praktikës së ritualeve në ditën e Kurban Bajramit, e cila festohet në ditën e dhjetë të haxhillëkut dhe kujton provën, në të cilën Allahu i Madhërishëm vuri Ibrahimin (a.s.). Vargu përshkruan radhën e kryerjes së riteve: në fillim falet namazi i Bajramit, pastaj theret kurbani.
 
 # 6207
 
-Sigurisht, ai që të urren ty, ai vetë është fatprerë.[435]
+Sigurisht, ai që të urren ty, ai vetë është fatprerë.[^435]
 
-[435] “fatprerë”: në tekstin origjinal thuhet “ebter”, që do të thotë “pa bisht”. Kjo shprehje ishte epitet ironik që arabët ia vinin dikujt që nuk kishte djem. Sipas disa transmetimeve, biri i Profetit Muhamed (a.s.), Kasimi, vdiq në një moshë fare të njomë dhe, për këtë, një nga armiqtë e Profetit (a.s.) e quajti atë fatprerë, duke aluduar se edhe feja që ai predikonte, do të ishte e tillë.
+[^435]: “fatprerë”: në tekstin origjinal thuhet “ebter”, që do të thotë “pa bisht”. Kjo shprehje ishte epitet ironik që arabët ia vinin dikujt që nuk kishte djem. Sipas disa transmetimeve, biri i Profetit Muhamed (a.s.), Kasimi, vdiq në një moshë fare të njomë dhe, për këtë, një nga armiqtë e Profetit (a.s.) e quajti atë fatprerë, duke aluduar se edhe feja që ai predikonte, do të ishte e tillë.
 
 # 6208
 
@@ -25680,9 +25712,9 @@ Unë nuk do të jem kurrë adhurues i atyre që ju i adhuroni
 
 # 6212
 
-dhe as ju nuk do të jeni adhurues të Atij që unë adhuroj![436]
+dhe as ju nuk do të jeni adhurues të Atij që unë adhuroj![^436]
 
-[436] Vargu flet për ata jobesimtarë që Allahu e di se nuk do të besojnë asnjëherë.
+[^436]: Vargu flet për ata jobesimtarë që Allahu e di se nuk do të besojnë asnjëherë.
 
 # 6213
 
@@ -25690,9 +25722,9 @@ Ju keni fenë tuaj, ndërsa unë kam fenë time!”
 
 # 6214
 
-Kur të vijë ndihma e Allahut dhe çlirimi (i Mekës)[437]
+Kur të vijë ndihma e Allahut dhe çlirimi (i Mekës)[^437]
 
-[437] Kjo ishte surja e fundit që iu dha Profetit (a.s.), duke mbyllur kështu një cikël shpalljesh që zgjaste prej njëzet e tre vjetësh. Ajo ishte shpallja e fitores së përgjithshme të Islamit mbi mosbesimin dhe e kthimit masiv në Islam të të gjithë Arabisë. Kur Muhamedi (a.s.) mori këtë shpallje, e kuptoi se Zoti i tij i Madhëruar po e paralajmëronte për ndarjen e afërt nga kjo botë dhe për këtë lajmëroi të afërmit e tij më të ngushtë. Gjatë gjithë kohës që parapriu vdekjen e tij tokësore, Profeti (a.s.) thoshte vazhdimisht në namazet e tij: “Subhânekall-llâhumme rabbena ue bihamdik. All-llahumme gfir li” (I Lartësuar qofsh, o Zoti im, dhe i Falënderuar. O Zot, më fal!).
+[^437]: Kjo ishte surja e fundit që iu dha Profetit (a.s.), duke mbyllur kështu një cikël shpalljesh që zgjaste prej njëzet e tre vjetësh. Ajo ishte shpallja e fitores së përgjithshme të Islamit mbi mosbesimin dhe e kthimit masiv në Islam të të gjithë Arabisë. Kur Muhamedi (a.s.) mori këtë shpallje, e kuptoi se Zoti i tij i Madhëruar po e paralajmëronte për ndarjen e afërt nga kjo botë dhe për këtë lajmëroi të afërmit e tij më të ngushtë. Gjatë gjithë kohës që parapriu vdekjen e tij tokësore, Profeti (a.s.) thoshte vazhdimisht në namazet e tij: “Subhânekall-llâhumme rabbena ue bihamdik. All-llahumme gfir li” (I Lartësuar qofsh, o Zoti im, dhe i Falënderuar. O Zot, më fal!).
 
 # 6215
 
@@ -25704,15 +25736,15 @@ atëherë madhëroje me falënderim Zotin tënd dhe kërko falje nga Ai; se Ai �
 
 # 6217
 
-Iu thafshin duart Ebu Lehebit[438] dhe u thaftë në gjithçka!
+Iu thafshin duart Ebu Lehebit[^438] dhe u thaftë në gjithçka!
 
-[438] Ebu Leheb (Babai i flakës) ishte nofka e Abdul ‘Uzza-s, birit të Abdul Muttalibit, pra, xhaxhait të Profetit (a.s.). Kur u bë kryetar i fisit të Hashimive, pas vdekjes së Ebu Talibit, ai refuzoi ta vazhdonte mbrojtjen fisnore për Muhamedin (a.s.) dhe e la atë të ekspozuar ndaj armiqësisë së idhujtarëve.
+[^438]: Ebu Leheb (Babai i flakës) ishte nofka e Abdul ‘Uzza-s, birit të Abdul Muttalibit, pra, xhaxhait të Profetit (a.s.). Kur u bë kryetar i fisit të Hashimive, pas vdekjes së Ebu Talibit, ai refuzoi ta vazhdonte mbrojtjen fisnore për Muhamedin (a.s.) dhe e la atë të ekspozuar ndaj armiqësisë së idhujtarëve.
 
 # 6218
 
-Nuk do ta ndihmojnë atë as pasuria dhe as fitimet e tjera.[439]
+Nuk do ta ndihmojnë atë as pasuria dhe as fitimet e tjera.[^439]
 
-[439] Ebu Lehebi tallej me Profetin (a.s.), duke thënë: “Nëse është e vërtetë ajo që thotë nipi im, unë kam mjaft pasuri dhe djem, sa për të paguar shpërblesën time”.
+[^439]: Ebu Lehebi tallej me Profetin (a.s.), duke thënë: “Nëse është e vërtetë ajo që thotë nipi im, unë kam mjaft pasuri dhe djem, sa për të paguar shpërblesën time”.
 
 # 6219
 
@@ -25720,9 +25752,9 @@ Ai, me siguri, do të hidhet në zjarrin me flakë të tërbuara,
 
 # 6220
 
-po ashtu edhe gruaja e tij[440], që mbart drutë e zjarrit,
+po ashtu edhe gruaja e tij[^440], që mbart drutë e zjarrit,
 
-[440] Ajo quhej Umm Xhumejl bint Harb dhe kishte një rol kryesor në armiqësinë që burri i saj ushqente ndaj nipit të tij, Profetit (a.s.). Ajo ishte motra e Ebu Sufjanit, që në atë kohë do të udhëhiqte luftën e idhujtarëve kundër myslimanëve. Me mllefin e saj, ajo hidhte përreth shtëpisë së Muhamedit (a.s.) ferra dhe gjemba, me shpresën që ai të lëndohej gjatë kthimit në shtëpi natën.
+[^440]: Ajo quhej Umm Xhumejl bint Harb dhe kishte një rol kryesor në armiqësinë që burri i saj ushqente ndaj nipit të tij, Profetit (a.s.). Ajo ishte motra e Ebu Sufjanit, që në atë kohë do të udhëhiqte luftën e idhujtarëve kundër myslimanëve. Me mllefin e saj, ajo hidhte përreth shtëpisë së Muhamedit (a.s.) ferra dhe gjemba, me shpresën që ai të lëndohej gjatë kthimit në shtëpi natën.
 
 # 6221
 
@@ -25734,9 +25766,9 @@ Thuaj: “Ai është Allahu, Një dhe i Vetëm!
 
 # 6223
 
-Allahu është Absoluti, të Cilit i përgjërohet gjithçka në amshim.[441]
+Allahu është Absoluti, të Cilit i përgjërohet gjithçka në amshim.[^441]
 
-[441] Ky është përkthimi i emrit të Allahut “Es-Samed”, që ndër të tjera ka edhe kuptimet, “Ai që ka njëshmërinë absolute” “I Përjetshmi” dhe “I Papërshkueshmi”, pra, Ai që nuk ka brendësi.
+[^441]: Ky është përkthimi i emrit të Allahut “Es-Samed”, që ndër të tjera ka edhe kuptimet, “Ai që ka njëshmërinë absolute” “I Përjetshmi” dhe “I Papërshkueshmi”, pra, Ai që nuk ka brendësi.
 
 # 6224
 
@@ -25760,21 +25792,21 @@ dhe nga sherri i natës, kur kaplon terri
 
 # 6229
 
-dhe nga sherri i falltarëve, që fryjnë në nyje (duke bërë magji)[442]
+dhe nga sherri i falltarëve, që fryjnë në nyje (duke bërë magji)[^442]
 
-[442] Vargu bën fjalë për një formë magjie të zezë, që praktikohej shumë në Arabinë paraislamike.
+[^442]: Vargu bën fjalë për një formë magjie të zezë, që praktikohej shumë në Arabinë paraislamike.
 
 # 6230
 
-dhe nga sherri i smirëziut, kur vepron me smirë.”[443]
+dhe nga sherri i smirëziut, kur vepron me smirë.”[^443]
 
-[443] Syri i keq që vjen si pasojë e smirës, është, sigurisht, një nga format me ndikim më të fortë negativ që mund të gjenden. Nuk mund të mohohet se, ky është një instrument të cilin e përdor shejtani për të realizuar ndikime të ndryshme dhe të rënda te njerëzit: tek ata që e pësojnë, pa i kuptuar dhe pa i njohur shkaqet e “shqetësimit” të tyre; tek ata që përpiqen ta shërojnë “syrin” me praktika të tjera magjike dhe tek ata që e shkaktojnë, duke u bërë kështu bashkëpunëtorë objektivë ose subjektivë të intrigave djallëzore kundër njerëzimit. Për t’u ruajtur nga shejtani, shërben lutja “E‘ûdhu bil-lâhi min-esh shejtân-irr raxhîm” (Strehohem tek Allahu kundër shejtanit të mallkuar), por është mirë të kujtohet edhe vargu 99 i sures 16 “në të vërtetë, djalli nuk ka kurrfarë pushteti mbi ata që besojnë dhe mbështeten tek Zoti i tyre”.
+[^443]: Syri i keq që vjen si pasojë e smirës, është, sigurisht, një nga format me ndikim më të fortë negativ që mund të gjenden. Nuk mund të mohohet se, ky është një instrument të cilin e përdor shejtani për të realizuar ndikime të ndryshme dhe të rënda te njerëzit: tek ata që e pësojnë, pa i kuptuar dhe pa i njohur shkaqet e “shqetësimit” të tyre; tek ata që përpiqen ta shërojnë “syrin” me praktika të tjera magjike dhe tek ata që e shkaktojnë, duke u bërë kështu bashkëpunëtorë objektivë ose subjektivë të intrigave djallëzore kundër njerëzimit. Për t’u ruajtur nga shejtani, shërben lutja “E‘ûdhu bil-lâhi min-esh shejtân-irr raxhîm” (Strehohem tek Allahu kundër shejtanit të mallkuar), por është mirë të kujtohet edhe vargu 99 i sures 16 “në të vërtetë, djalli nuk ka kurrfarë pushteti mbi ata që besojnë dhe mbështeten tek Zoti i tyre”.
 
 # 6231
 
-Thuaj: “Kërkoj mbështetje te Zoti i njerëzve,[444]
+Thuaj: “Kërkoj mbështetje te Zoti i njerëzve,[^444]
 
-[444] Sipas disa transmetimeve nga Ibn Abbasi dhe Aishja, një magjistar hebre me emrin Lebid që jetonte në Medinë, ishte ngarkuar t’i bënte Profetit Muhamed (a.s.) një magji vdekjeprurëse. Magjistari arriti të siguronte disa fije nga flokët e Profetit (a.s.) dhe me to bëri njëmbëdhjetë nyje. Bijat e tij frynin në secilën prej këtyre nyjave, duke thënë mallkime të frikshme. Pastaj, magjinë e mbështollën, duke i shtuar një filiz palme hurmash dhe e hodhën në një pus. Profeti (a.s.) filloi të ndiente shqetësime të çuditshme si: humbje të kujtesës, dobësi, humbje të oreksit etj. dhe gjendja e tij po përkeqësohej, derisa Allahu i Madhëruar ia zbuloi në ëndërr shkakun e shqetësimeve të tij dhe vendin, ku ishte fshehur magjia. Kur Profeti (a.s.) u zgjua, atij i erdhi Xhebraili (a.s.) dhe i dha dy sure, njëra me pesë vargje dhe tjetra me gjashtë. Profeti (a.s.) dërgoi Aliun te pusi me detyrën për të lexuar këto dy sure. Ndërsa ai lexonte suret, nyjat zgjidheshin njëra pas tjetrës dhe Muhamedi (a.s.) rifitonte forcat dhe kthjelltësinë e humbur. Dy suret në fjalë janë ato me të cilat mbyllet Kurani i Madhërishëm. Këto sure kanë një rëndësi të madhe rituale dhe myslimanët i recitojnë ato shpesh për t’u ruajtur nga çdo e keqe, fizike apo shpirtërore qoftë.
+[^444]: Sipas disa transmetimeve nga Ibn Abbasi dhe Aishja, një magjistar hebre me emrin Lebid që jetonte në Medinë, ishte ngarkuar t’i bënte Profetit Muhamed (a.s.) një magji vdekjeprurëse. Magjistari arriti të siguronte disa fije nga flokët e Profetit (a.s.) dhe me to bëri njëmbëdhjetë nyje. Bijat e tij frynin në secilën prej këtyre nyjave, duke thënë mallkime të frikshme. Pastaj, magjinë e mbështollën, duke i shtuar një filiz palme hurmash dhe e hodhën në një pus. Profeti (a.s.) filloi të ndiente shqetësime të çuditshme si: humbje të kujtesës, dobësi, humbje të oreksit etj. dhe gjendja e tij po përkeqësohej, derisa Allahu i Madhëruar ia zbuloi në ëndërr shkakun e shqetësimeve të tij dhe vendin, ku ishte fshehur magjia. Kur Profeti (a.s.) u zgjua, atij i erdhi Xhebraili (a.s.) dhe i dha dy sure, njëra me pesë vargje dhe tjetra me gjashtë. Profeti (a.s.) dërgoi Aliun te pusi me detyrën për të lexuar këto dy sure. Ndërsa ai lexonte suret, nyjat zgjidheshin njëra pas tjetrës dhe Muhamedi (a.s.) rifitonte forcat dhe kthjelltësinë e humbur. Dy suret në fjalë janë ato me të cilat mbyllet Kurani i Madhërishëm. Këto sure kanë një rëndësi të madhe rituale dhe myslimanët i recitojnë ato shpesh për t’u ruajtur nga çdo e keqe, fizike apo shpirtërore qoftë.
 
 # 6232
 

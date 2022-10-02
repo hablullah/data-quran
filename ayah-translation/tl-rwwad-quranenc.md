@@ -42,9 +42,9 @@ Alif. Lām. Mīm.
 
 # 9
 
-Ang Aklat na ito ay walang alinlangan dito, isang patnubay ukol sa mga tagapangilag magkasala,
+Ang Aklat na ito ay walang alinlangan dito, isang patnubay ukol sa mga tagapangilag magkasala,[^*]
 
-Ang Aklat na ito, walang alinlangan dito, ay isang patnubay ukol sa mga tagapangilag magkasala,
+[^*]: Ang Aklat na ito, walang alinlangan dito, ay isang patnubay ukol sa mga tagapangilag magkasala,
 
 # 10
 
@@ -2072,9 +2072,9 @@ Huwag kayong mag-asawa ng mga babaing napangasawa ng mga ama ninyo, maliban sa n
 
 # 516
 
-Ipinagbawal sa inyo [na mapangasawa] ang mga ina ninyo, ang mga babaing anak ninyo, ang mga babaing kapatid ninyo, ang mga tiyahin ninyo sa ama, ang mga tiyahin ninyo sa ina, ang mga babaing anak ng lalaking kapatid ninyo, ang mga babaing anak ng babaing kapatid ninyo, ang mga ina ninyo na nagpasuso sa inyo, ang mga babaing kapatid ninyo sa pagpapasuso, ang mga ina ng mga maybahay ninyo, ang mga babaing anak na panguman ninyong nasa ilalim ng pangangalaga ninyo mula sa mga maybahay ninyong nakipagtalik kayo sa kanila, subalit kung hindi kayo nakipagtalik sa kanila ay walang maisisisi sa iyo, ang mga maybahay ng mga lalaking anak ninyo mula sa mga gulugod ninyo, at na pagsabayin ninyo ang dalawang magkapatid na babae, maliban sa nagdaan na. Tunay na si Allāh ay laging Mapagpatawad, Maawain.
+Ipinagbawal sa inyo [na mapangasawa] ang mga ina ninyo, ang mga babaing anak ninyo, ang mga babaing kapatid ninyo, ang mga tiyahin ninyo sa ama, ang mga tiyahin ninyo sa ina, ang mga babaing anak ng lalaking kapatid ninyo, ang mga babaing anak ng babaing kapatid ninyo, ang mga ina ninyo na nagpasuso sa inyo, ang mga babaing kapatid ninyo sa pagpapasuso, ang mga ina ng mga maybahay ninyo, ang mga babaing anak na panguman ninyong nasa ilalim ng pangangalaga ninyo mula sa mga maybahay ninyong nakipagtalik kayo sa kanila, subalit kung hindi kayo nakipagtalik sa kanila ay walang maisisisi sa iyo, ang mga maybahay ng mga lalaking anak ninyo mula sa mga gulugod ninyo, at na pagsabayin ninyo ang dalawang magkapatid na babae, maliban sa nagdaan na. Tunay na si Allāh ay laging Mapagpatawad, Maawain.[^*]
 
-Kung ang pagpapasuso ay kulang sa limang beses, hindi magkakabisa ang pagbabawal sa pag-aasawa (Ibnu Kathīr, Tomo 2, Numero 416).
+[^*]: Kung ang pagpapasuso ay kulang sa limang beses, hindi magkakabisa ang pagbabawal sa pag-aasawa (Ibnu Kathīr, Tomo 2, Numero 416).
 
 # 517
 
@@ -2154,9 +2154,9 @@ Sa Araw na iyon ay mag-aasam ang mga tumangging sumampalataya at sumuway sa Sugo
 
 # 536
 
-O mga sumampalataya, huwag kayong lumapit sa pagdarasal habang kayo ay mga lasing hanggang sa makaalam kayo sa sinasabi ninyo ni habang mga kailangang-maligo, malibang mga tumatawid sa landas [ng pagdarasalan], hanggang sa makapaligo kayo. Kung kayo ay mga may-sakit o nasa isang paglalakbay, o dumating ang isa sa inyo mula sa palikuran, o sumaling kayo ng mga babae at hindi kayo nakatagpo ng tubig, ay magsadya kayo sa isang lupang kaaya-aya saka humaplos kayo sa mga mukha ninyo at mga kamay ninyo. Tunay na si Allāh ay laging Mapagpaumanhin, Mapagpatawad.
+O mga sumampalataya, huwag kayong lumapit sa pagdarasal habang kayo ay mga lasing hanggang sa makaalam kayo sa sinasabi ninyo ni habang mga kailangang-maligo, malibang mga tumatawid sa landas [ng pagdarasalan], hanggang sa makapaligo kayo. Kung kayo ay mga may-sakit o nasa isang paglalakbay, o dumating ang isa sa inyo mula sa palikuran, o sumaling kayo ng mga babae at hindi kayo nakatagpo ng tubig, ay magsadya kayo sa isang lupang kaaya-aya saka humaplos kayo sa mga mukha ninyo at mga kamay ninyo. Tunay na si Allāh ay laging Mapagpaumanhin, Mapagpatawad.[^*]
 
-Ang paghaplos sa mukha at mga kamay ng mga kamay na ipinagpag sa malinis na lupa ay tinatawag na tayammum. Ito ay pamalit sa wuḍu' kapag hindi maaaring gumamit ng tubig.
+[^*]: Ang paghaplos sa mukha at mga kamay ng mga kamay na ipinagpag sa malinis na lupa ay tinatawag na tayammum. Ito ay pamalit sa wuḍu' kapag hindi maaaring gumamit ng tubig.
 
 # 537
 
@@ -2168,9 +2168,9 @@ Si Allāh ay higit na maalam sa mga kaaway ninyo. Nakasapat si Allāh bilang Kat
 
 # 539
 
-Mayroon sa mga nagpakahudyo na naglilihis sa mga salita palayo sa mga katuturan ng mga ito at nagsasabi: "Nakinig kami at sumuway kami," "Makinig ka ng hindi pinaririnig," at "Rā`inā" bilang pagpilipit sa mga dila nila at paninirang-puri sa relihiyon. Kung sakaling sila ay nagsabi: "Nakinig kami at tumalima kami," "Makinig ka," at "Tumingin ka sa amin," talaga sanang iyon ay naging higit na mabuti para sa kanila at higit na matuwid, subalit isinumpa sila ni Allāh dahil sa kawalang-pananampalataya nila kaya hindi sila sumasampalataya malibang kaunti.
+Mayroon sa mga nagpakahudyo na naglilihis sa mga salita palayo sa mga katuturan ng mga ito at nagsasabi: "Nakinig kami at sumuway kami," "Makinig ka ng hindi pinaririnig," at "Rā`inā" bilang pagpilipit sa mga dila nila at paninirang-puri sa relihiyon. Kung sakaling sila ay nagsabi: "Nakinig kami at tumalima kami," "Makinig ka," at "Tumingin ka sa amin," talaga sanang iyon ay naging higit na mabuti para sa kanila at higit na matuwid, subalit isinumpa sila ni Allāh dahil sa kawalang-pananampalataya nila kaya hindi sila sumasampalataya malibang kaunti.[^*]
 
-Ang sinabi nilang "Rā`inā" ay maaaring mangahulugang mag-unawaan tayo ngunit nangangahulugan ng panlalait sa wikang Hebreo nila.
+[^*]: Ang sinabi nilang "Rā`inā" ay maaaring mangahulugang mag-unawaan tayo ngunit nangangahulugan ng panlalait sa wikang Hebreo nila.
 
 # 540
 
@@ -2702,9 +2702,9 @@ O mga sumampalataya, huwag kayong lumapastangan sa mga sagisag ni Allāh ni sa B
 
 # 672
 
-Ipinagbawal sa inyo ang namatay [bago nakatay], ang dugo, ang laman ng baboy, ang anumang inihandog sa iba pa kay Allāh, ang nasakal, ang hinambalos, ang nalaglag, ang nasuwag, ang anumang kinainan ng mabangis na hayop maliban sa nakatay ninyo [bago namatay], ang inialay sa mga dambana, at na magsapalaran kayo sa pamamagitan ng mga tagdan. Iyon ay kasuwailan. Sa araw na ito ay nawalan ang mga tumangging sumampalataya ng pag-asa [na tatalikod kayo] sa Relihiyon ninyo, kaya huwag kayong matakot sa kanila at matakot kayo sa Akin. Sa araw na ito bumuo Ako para sa inyo ng Relihiyon ninyo, lumubos Ako sa inyo ng biyaya Ko at nalugod Ako para sa inyo sa Islām bilang relihiyon. Ngunit ang sinumang napilitan dahil sa kagutuman, nang hindi nagkakahilig sa pagkakasala, tunay na si Allāh ay Mapagpatawad, Maawain.
+Ipinagbawal sa inyo ang namatay [bago nakatay], ang dugo, ang laman ng baboy, ang anumang inihandog sa iba pa kay Allāh, ang nasakal, ang hinambalos, ang nalaglag, ang nasuwag, ang anumang kinainan ng mabangis na hayop maliban sa nakatay ninyo [bago namatay], ang inialay sa mga dambana, at na magsapalaran kayo sa pamamagitan ng mga tagdan. Iyon ay kasuwailan. Sa araw na ito ay nawalan ang mga tumangging sumampalataya ng pag-asa [na tatalikod kayo] sa Relihiyon ninyo, kaya huwag kayong matakot sa kanila at matakot kayo sa Akin. Sa araw na ito bumuo Ako para sa inyo ng Relihiyon ninyo, lumubos Ako sa inyo ng biyaya Ko at nalugod Ako para sa inyo sa Islām bilang relihiyon. Ngunit ang sinumang napilitan dahil sa kagutuman, nang hindi nagkakahilig sa pagkakasala, tunay na si Allāh ay Mapagpatawad, Maawain.[^*]
 
-- Ang patpat ng palaso hindi kasama ang ulo at ang buntot nito.
+[^*]: - Ang patpat ng palaso hindi kasama ang ulo at ang buntot nito.
 
 # 673
 
@@ -3960,9 +3960,9 @@ O mga anak ni Adan, magsuot kayo ng gayak ninyo sa bawat masjid. Kumain kayo at 
 
 # 986
 
-Sabihin mo: "Sino ang nagbawal sa gayak ni Allāh na pinalabas Niya para sa mga lingkod Niya at sa mga kaaya-aya mula sa panustos?" Sabihin mo: "Ito ay para sa mga sumampalataya sa [sandali ng] buhay na pangmundo samantalang nakalaan [sa kanila] sa Araw ng Pagbangon." Gayon Kami nagdedetalye ng mga tanda para sa mga taong umaalam.
+Sabihin mo: "Sino ang nagbawal sa gayak ni Allāh na pinalabas Niya para sa mga lingkod Niya at sa mga kaaya-aya mula sa panustos?" Sabihin mo: "Ito ay para sa mga sumampalataya sa [sandali ng] buhay na pangmundo samantalang nakalaan [sa kanila] sa Araw ng Pagbangon." Gayon Kami nagdedetalye ng mga tanda para sa mga taong umaalam.[^*]
 
-- Isang tinatamasang kakaunti, pagkatapos ang kanlungan nila ay Impiyerno. Kay saklap ang himlayan!
+[^*]: - Isang tinatamasang kakaunti, pagkatapos ang kanlungan nila ay Impiyerno. Kay saklap ang himlayan!
 
 # 987
 
@@ -6094,9 +6094,9 @@ Nanawagan si Noe sa Panginoon niya saka nagsabi: "O Panginoon ko, tunay na ang a
 
 # 1519
 
-Nagsabi Siya: "O Noe, tunay na siya ay hindi kabilang sa mag-anak mo. Tunay na [ang paghiling na] ito ay gawang hindi maayos. Kaya huwag kang humiling sa Akin ng wala kang kaalaman hinggil doon. Tunay na Ako ay nangangaral sa iyo na baka ikaw ay maging kabilang sa mga mangmang."
+Nagsabi Siya: "O Noe, tunay na siya ay hindi kabilang sa mag-anak mo. Tunay na [ang paghiling na] ito ay gawang hindi maayos. Kaya huwag kang humiling sa Akin ng wala kang kaalaman hinggil doon. Tunay na Ako ay nangangaral sa iyo na baka ikaw ay maging kabilang sa mga mangmang."[^*]
 
-- Tunay na siya ay gawang hindi maayos.
+[^*]: - Tunay na siya ay gawang hindi maayos.
 
 # 1520
 
@@ -8300,9 +8300,9 @@ Kaya ba humirang sa inyo ang Panginoon ninyo sa [pagkakaroon ng] mga anak na lal
 
 # 2070
 
-Talaga ngang nagdetalye Kami sa Qur’ān na ito upang magsaalaala sila habang walang naidadagdag ito sa kanila kundi isang pagkaayaw.
+Talaga ngang nagdetalye Kami sa Qur’ān na ito upang magsaalaala sila habang walang naidadagdag ito sa kanila kundi isang pagkaayaw.[^*]
 
-Talaga ngang nagsarisari Kami sa Qur’ān na ito [ng nilalaman] upang magsaalaala sila ngunit walang naidadagdag ito sa kanila kundi isang pagkaayaw.
+[^*]: Talaga ngang nagsarisari Kami sa Qur’ān na ito [ng nilalaman] upang magsaalaala sila ngunit walang naidadagdag ito sa kanila kundi isang pagkaayaw.
 
 # 2071
 
@@ -13670,9 +13670,9 @@ Nadaig ang Bizancio
 
 # 3412
 
-sa pinakamalapit na lupain. Sila, nang matapos ng pagkadaig sa kanila, ay mananaig
+sa pinakamalapit na lupain. Sila, nang matapos ng pagkadaig sa kanila, ay mananaig[^*]
 
-O sa pinakamababang lupain
+[^*]: O sa pinakamababang lupain
 
 # 3413
 
@@ -13824,9 +13824,9 @@ Si Allāh ay ang lumikha sa inyo, pagkatapos nagtustos sa inyo, pagkatapos nagbi
 
 # 3450
 
-Lumitaw ang kaguluhan sa lupa at dagat dahil sa nakamit ng mga kamay ng mga tao upang magpalasap Siya sa kanila ng ilan sa ginawa nila, nang sa gayon sila ay babalik.
+Lumitaw ang kaguluhan sa lupa at dagat dahil sa nakamit ng mga kamay ng mga tao upang magpalasap Siya sa kanila ng ilan sa ginawa nila, nang sa gayon sila ay babalik.[^*]
 
-Lumitaw ang katiwalian sa lupa...
+[^*]: Lumitaw ang katiwalian sa lupa...
 
 # 3451
 
@@ -19598,9 +19598,9 @@ Bagkus ang Huling Sandali ay ang tipanan nila at ang Huling Sandali ay higit na 
 
 # 4893
 
-Tunay na ang mga salarin ay nasa isang pagkaligaw at isang pagdurusa.
+Tunay na ang mga salarin ay nasa isang pagkaligaw at isang pagdurusa.[^*]
 
-Tunay na ang mga salarin ay nasa isang pagkaligaw at isang pagkaulol.
+[^*]: Tunay na ang mga salarin ay nasa isang pagkaligaw at isang pagkaulol.
 
 # 4894
 
@@ -22996,9 +22996,9 @@ Nagpakulimlim Siya ng gabi nito at nagpalabas Siya ng kaliwanagan nito.
 
 # 5742
 
-Sa lupa, matapos niyon, ay naglagak Siya nito.
+Sa lupa, matapos niyon, ay naglagak Siya nito.[^*]
 
-Sa lupa, matapos niyon, ay nagpahugis-itlog Siya nito.
+[^*]: Sa lupa, matapos niyon, ay nagpahugis-itlog Siya nito.
 
 # 5743
 
@@ -24458,9 +24458,9 @@ Hindi ba si Allāh ay ang pinakahukom ng mga hukom?
 
 # 6107
 
-Bumasa ka sa ngalan ng Panginoon mo na lumikha,
+Bumasa ka sa ngalan ng Panginoon mo na lumikha,[^*]
 
-Bumigkas ka sa ngalan ng Panginoon mo na lumikha,
+[^*]: Bumigkas ka sa ngalan ng Panginoon mo na lumikha,
 
 # 6108
 

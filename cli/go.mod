@@ -6,6 +6,7 @@ require (
 	github.com/emvi/iso-639-1 v1.0.1
 	github.com/sirupsen/logrus v1.9.0
 	github.com/urfave/cli/v2 v2.11.2
+	github.com/zyedidia/generic v1.1.0
 	golang.org/x/sync v0.0.0-20220819030929-7fc1605a5dde
 	golang.org/x/text v0.3.7
 )
