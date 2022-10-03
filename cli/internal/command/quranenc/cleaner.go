@@ -42,6 +42,8 @@ var cleanerList = map[string]fnCleaner{
 	"uzbek_mansour":         cleanUzbekMansour,
 	"vietnamese_rwwad":      cleanVietnameseRwwad,
 	"yoruba_mikail":         cleanYorubaMikail,
+	"gujarati_omari":        cleanGujaratiOmari,
+	"somali_yacob":          cleanSomaliYacob,
 }
 
 var rxNewlines = regexp.MustCompile(`\n{2,}`)
@@ -339,6 +341,20 @@ func cleanYorubaMikail(data FlattenedData) FlattenedData {
 	return data
 }
 
+func cleanGujaratiOmari(data FlattenedData) FlattenedData {
+	data = normalizeFootnoteNumber(data, nil, nil)
+	return data
+}
+
+func cleanSomaliYacob(data FlattenedData) FlattenedData {
+	rxAyahNumber := regexp.MustCompile(`^\d+\.?\s*`)
+	rxTransFn := regexp.MustCompile(`(\d+)(\s*)`)
+	rxFootFn := regexp.MustCompile(`^(\d+)\s*\.?(\s*)`)
+	data = removeAyahNumber(data, rxAyahNumber)
+	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
+	return data
+}
+
 func removeAyahNumber(data FlattenedData, rxAyahNumber *regexp.Regexp) FlattenedData {
 	if rxAyahNumber == nil {
 		return data
@@ -481,6 +497,14 @@ func splitFootnotesByNumber(data FlattenedData) FlattenedData {
 		fns = rxNewlines.ReplaceAllString(fns, "\n\n")
 		fns = strings.TrimSpace(fns)
 		data.AyahList[i].Footnotes = fns
+	}
+
+	return data
+}
+
+func noFootnote(data FlattenedData) FlattenedData {
+	for i := range data.AyahList {
+		data.AyahList[i].Footnotes = ""
 	}
 
 	return data
