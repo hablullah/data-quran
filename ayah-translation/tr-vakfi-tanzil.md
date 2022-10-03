@@ -1846,6 +1846,8 @@ Andolsun ki içlerinden, kendilerine Allah'ın ayetlerini okuyan, (kötülükler
 
 # 460
 
+<!-- TODO:DUPLICATE -->
+
 İki birliğin karşılaştığı gün sizin başınıza gelenler, ancak Allah'ın dilemesiyle olmuştur ki, bu da, müminleri ayırdetmesi ve münafıkları ortaya çıkarması için idi. Bunlara: "Gelin, Allah yolunda çarpışın; ya da savunma yapın" denildiği zaman, "Harbetmeyi bilseydik, elbette sizin peşinizden gelirdik" dediler. Onlar o gün, imandan çok, kafirliğe yakın idiler. Ağızlarıyla, kalplerinde olmayanı söylüyorlardı. Halbuki Allah, onların içlerinde gizlediklerini daha iyi bilir.
 
 # 461
@@ -8970,6 +8972,8 @@ Ve, gözleri beni görmeye kapalı bulunan, kulak vermeye de tahammül edemez ol
 
 # 2241
 
+<!-- TODO:DUPLICATE -->
+
 Ve, gözleri beni görmeye kapalı bulunan, kulak vermeye de tahammül edemez olan kafirleri o gün cehennemle yüz yüze getirmişizdir.
 
 # 2242
@@ -9409,6 +9413,8 @@ Ta. Ha.
 Biz, Kur'an'ı sana, güçlük çekesin diye değil, ancak Allah'tan korkanlara bir öğüt olsun diye indirdik.
 
 # 2351
+
+<!-- TODO:DUPLICATE -->
 
 Biz, Kur'an'ı sana, güçlük çekesin diye değil, ancak Allah'tan korkanlara bir öğüt olsun diye indirdik.
 
@@ -10966,6 +10972,8 @@ Boşuna sızlanmayın bugün! Zira bizden yardım göremeyeceksiniz!
 
 # 2740
 
+<!-- TODO:DUPLICATE -->
+
 Çünkü ayetlerim size okunurdu da, siz, buna karşı kibirlenerek arkanızı döner, geceleyin (Kabe'nin etrafında toplanarak) hezeyanlar savururdunuz.
 
 # 2741
@@ -11622,6 +11630,8 @@ Rüzgarları rahmetinin önünde müjdeci olarak gönderen O'dur. Biz, ölü top
 
 # 2904
 
+<!-- TODO:DUPLICATE -->
+
 Rüzgarları rahmetinin önünde müjdeci olarak gönderen O'dur. Biz, ölü toprağa can vermek, yarattığımız nice hayvanlara ve nice insanlara su vermek için gökten tertemiz su indirdik.
 
 # 2905
@@ -11777,6 +11787,8 @@ Yeryüzüne bir bakmazlar mı! Orada her güzel çiftten nice bitkiler yetiştir
 Hani Rabbin Musa'ya: O zalimler güruhuna, Firavun'un kavmine git. Hala (başlarına gelecekten) sakınmayacaklar mı onlar? diye seslenmişti.
 
 # 2943
+
+<!-- TODO:DUPLICATE -->
 
 Hani Rabbin Musa'ya: O zalimler güruhuna, Firavun'un kavmine git. Hala (başlarına gelecekten) sakınmayacaklar mı onlar? diye seslenmişti.
 
@@ -12397,6 +12409,8 @@ Buna karşı sizden hiçbir ücret istemiyorum. Benim ecrimi verecek olan, ancak
 Rabbinizin sizler için yarattığı eşlerinizi bırakıp da, insanlar içinden erkeklere mi yaklaşıyorsunuz? Doğrusu siz sınırı aşmış (sapık) bir kavimsiniz!
 
 # 3098
+
+<!-- TODO:DUPLICATE -->
 
 Rabbinizin sizler için yarattığı eşlerinizi bırakıp da, insanlar içinden erkeklere mi yaklaşıyorsunuz? Doğrusu siz sınırı aşmış (sapık) bir kavimsiniz!
 
@@ -13713,6 +13727,8 @@ Kıyamet kopacağı gün, işte o gün (müminlerle inkarcılar) birbirlerinden 
 Haydi siz, akşama ulaştığınızda (akşam ve yatsı vaktinde) sabaha kavuştuğunuzda, gündüzün sonunda ve öğle vaktine eriştiğinizde Allah'ı tesbih edin (namaz kılın), ki göklerde ve yerde hamd O'na mahsustur.
 
 # 3427
+
+<!-- TODO:DUPLICATE -->
 
 Haydi siz, akşama ulaştığınızda (akşam ve yatsı vaktinde) sabaha kavuştuğunuzda, gündüzün sonunda ve öğle vaktine eriştiğinizde Allah'ı tesbih edin (namaz kılın), ki göklerde ve yerde hamd O'na mahsustur.
 
@@ -16017,6 +16033,8 @@ Akşama doğru kendisine, üç ayağının üzerine durup bir ayağını tırna�
 Süleyman: Gerçekten ben mal sevgisini, Rabbimi anmak için istedim, dedi. Nihayet güneş battı. (O zaman:) Onları (atları) tekrar bana getirin, dedi. Bacaklarını ve boyunlarını sıvazlamaya başladı.
 
 # 4003
+
+<!-- TODO:DUPLICATE -->
 
 Süleyman: Gerçekten ben mal sevgisini, Rabbimi anmak için istedim, dedi. Nihayet güneş battı. (O zaman:) Onları (atları) tekrar bana getirin, dedi. Bacaklarını ve boyunlarını sıvazlamaya başladı.
 
@@ -18569,6 +18587,8 @@ Gökten bereketli bir su indirdik, onunla bahçeler ve biçilecek daneler bitird
 Kullara rızık olması için birbirine girmiş, küme küme tomurcukları olan uzun boylu hurma ağaçları yetiştirdik. Ve o su ile ölü toprağa can verdik. İşte hayata yeniden çıkış da böyledir.
 
 # 4641
+
+<!-- TODO:DUPLICATE -->
 
 Kullara rızık olması için birbirine girmiş, küme küme tomurcukları olan uzun boylu hurma ağaçları yetiştirdik. Ve o su ile ölü toprağa can verdik. İşte hayata yeniden çıkış da böyledir.
 

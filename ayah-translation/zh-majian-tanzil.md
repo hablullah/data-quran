@@ -23394,6 +23394,8 @@ Source: Tanzil.net
 
 # 5847
 
+<!-- TODO:DUPLICATE -->
+
 你怎能知道報應日是什麼?
 
 # 5848

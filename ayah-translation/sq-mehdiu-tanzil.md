@@ -24951,3 +24951,4 @@ I cili fut huti në zemrat e njerëzve,
 # 6236
 
 Nga exhinët dhe njerëzit.
+

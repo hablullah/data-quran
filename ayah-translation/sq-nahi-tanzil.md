@@ -218,6 +218,8 @@ Ndihmoni vetes me durim e me namaz, e kjo është njëmend vështirë pos për a
 
 # 53
 
+<!-- TODO:DUPLICATE -->
+
 Ndihmoni vetes me durim e me namaz, e kjo është njëmend vështirë pos për ata që i përulen Zotit, të cilët janë të bindur se do të dalin para Zotit dhe me të vërtetë do të kthehen tek Ai.
 
 # 54

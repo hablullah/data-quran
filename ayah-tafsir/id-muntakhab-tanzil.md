@@ -10414,6 +10414,8 @@ Penciptaan manusia dan penumbuhan tanaman yang telah disebut tadi adalah suatu s
 
 # 2602
 
+<!-- TODO:DUPLICATE -->
+
 Penciptaan manusia dan penumbuhan tanaman yang telah disebut tadi adalah suatu saksi bahwa Allah adalah Tuhan yang sebenarnya, yang menghidupkan orang mati pada hari pembangkitan, yang Mahakuasa atas segala sesuatu. Hal itu pun menjadi suatu bukti bahwa hari kiamat benar-benar akan datang berdasarkan perwujudan janji-Nya, serta menjadi saksi bahwa Dia menghidupkan orang mati dari kuburnya untuk diadili dan diberi balasan.
 
 # 2603
@@ -13602,6 +13604,8 @@ Dan orang-orang yang percaya kepada Allah, kitab-kitab suci-Nya dan rasul-rasul-
 
 # 3399
 
+<!-- TODO:DUPLICATE -->
+
 Dan orang-orang yang percaya kepada Allah, kitab-kitab suci-Nya dan rasul-rasul-Nya, lalu melakukan amal saleh, sungguh akan Kami tempatkan dalam kamar di surga yang dialiri sungai-sungai di bawahnya. Kenikmatan surga itu tidak akan terputus dari mereka. Alangkah bagusnya balasan tersebut sebagai ganjaran bagi orang-orang yang melakukan amal saleh dan bersabar atas segala yang menimpa mereka seperti berpisah dengan kampung halaman, sanak keluarga dan harta benda serta bertawakal kepada Allah dalam segala urusan.
 
 # 3400
@@ -13654,6 +13658,8 @@ Persia mengalahkan Romawi pada tempat terdekat dengan orang-orang Arab, yaitu pe
 
 # 3412
 
+<!-- TODO:DUPLICATE -->
+
 Persia mengalahkan Romawi pada tempat terdekat dengan orang-orang Arab, yaitu perbatasan Syam. Setelah kekalahan ini, mereka akan mengalahkan Persia.
 
 # 3413
@@ -13661,6 +13667,8 @@ Persia mengalahkan Romawi pada tempat terdekat dengan orang-orang Arab, yaitu pe
 Sebelum berlalu sembilan tahun, pada saat itu orang-orang musyrik telah bergembira dengan kemenangan Persia dan mengatakan kepada orang-orang muslim, "Kami akan mengalahkan kalian sebagaimana Persia mengalahkan Romawi, para Ahl al-Kitâb." Allah mewujudkan janji-Nya, sehingga Romawi mendapatkan kemenangan atas Persia pada waktu yang telah ditentukan-Nya. Hal ini adalah bukti yang jelas atas kebenaran Nabi Muhammad saw. dalam seruan dan dakwahnya. Segala urusan dan keputusan adalah milik Allah sebelum dan sesudahnya. Dan pada hari ketika orang-orang Romawi mendapatkan kemenangan atas Persia, orang-orang Mukmin bergembira berkt pertolongan Allah yang menguatkan siapa saja yang dikehendaki-Nya. Dia Mahaunggul atas musuh-musuh-Nya dan Maha Penyayang terhadap wali-wali-Nya.
 
 # 3414
+
+<!-- TODO:DUPLICATE -->
 
 Sebelum berlalu sembilan tahun, pada saat itu orang-orang musyrik telah bergembira dengan kemenangan Persia dan mengatakan kepada orang-orang muslim, "Kami akan mengalahkan kalian sebagaimana Persia mengalahkan Romawi, para Ahl al-Kitâb." Allah mewujudkan janji-Nya, sehingga Romawi mendapatkan kemenangan atas Persia pada waktu yang telah ditentukan-Nya. Hal ini adalah bukti yang jelas atas kebenaran Nabi Muhammad saw. dalam seruan dan dakwahnya. Segala urusan dan keputusan adalah milik Allah sebelum dan sesudahnya. Dan pada hari ketika orang-orang Romawi mendapatkan kemenangan atas Persia, orang-orang Mukmin bergembira berkt pertolongan Allah yang menguatkan siapa saja yang dikehendaki-Nya. Dia Mahaunggul atas musuh-musuh-Nya dan Maha Penyayang terhadap wali-wali-Nya.
 
@@ -14306,6 +14314,8 @@ Wahai orang-orang yang beriman, pujilah Allah dengan bermacam pujian yang baik d
 
 # 3575
 
+<!-- TODO:DUPLICATE -->
+
 Wahai orang-orang yang beriman, pujilah Allah dengan bermacam pujian yang baik dan perbanyaklah pujian pada-Nya. Sucikanlah Allah dari segala sifat yang tidak layak bagi diri-Nya sejak dini hari hingga akhir malam.
 
 # 3576
@@ -14726,9 +14736,13 @@ Tidaklah dapat disamakan antara orang yang tidak mendapat petunjuk kebenaran kar
 
 # 3680
 
+<!-- TODO:DUPLICATE -->
+
 Tidaklah dapat disamakan antara orang yang tidak mendapat petunjuk kebenaran karena kebodohan dengan orang yang berjalan dalam tuntunan hidayah karena pengetahuannya. Juga tidak dapat disamakan antara kebatilan dan kebenaran, antara keteduhan dan udara panas.
 
 # 3681
+
+<!-- TODO:DUPLICATE -->
 
 Tidaklah dapat disamakan antara orang yang tidak mendapat petunjuk kebenaran karena kebodohan dengan orang yang berjalan dalam tuntunan hidayah karena pengetahuannya. Juga tidak dapat disamakan antara kebatilan dan kebenaran, antara keteduhan dan udara panas.
 
@@ -14934,6 +14948,8 @@ Sebagai balasan keimanannya serta ajakannya ke jalan Allah, dikatakan kepadanya,
 
 # 3732
 
+<!-- TODO:DUPLICATE -->
+
 Sebagai balasan keimanannya serta ajakannya ke jalan Allah, dikatakan kepadanya, "Masuklah kamu ke dalam surga." Lalu dalam curahan kenikmatan dan kemuliaan, ia berkata, "Alangkah baiknya jika kaumku mengetahui betapa besar ampunan Tuhanku dan pemuliaan-Nya kepadaku. Jika mereka mengetahui hal itu, niscaya mereka akan beriman seperti aku."
 
 # 3733
@@ -14965,6 +14981,8 @@ Bukti untuk mereka bahwa Kami Mahakuasa membangkitkan dan mengumpulkan adalah ta
 Di atas tanah itu Kami jadikan kebun-kebun serta taman-taman dari pohon korma dan anggur. Lalu Kami pancarkan beberapa mata air yang diserap oleh pepohonan. Pepohonan itu kemudian mengeluarkan buah yang dapat mereka nikmati. Semua itu bukanlah hasil perbuatan mereka. Jika demikian kenyataannya, lalu mengapa mereka tidak menunaikan kewajiban kepada Allah dengan beriman dan memuji-Nya?
 
 # 3740
+
+<!-- TODO:DUPLICATE -->
 
 Di atas tanah itu Kami jadikan kebun-kebun serta taman-taman dari pohon korma dan anggur. Lalu Kami pancarkan beberapa mata air yang diserap oleh pepohonan. Pepohonan itu kemudian mengeluarkan buah yang dapat mereka nikmati. Semua itu bukanlah hasil perbuatan mereka. Jika demikian kenyataannya, lalu mengapa mereka tidak menunaikan kewajiban kepada Allah dengan beriman dan memuji-Nya?
 
@@ -15250,6 +15268,8 @@ Kumpulkanlah, hai para malaikat-Ku, orang-orang yang menzalimi diri mereka sendi
 
 # 3811
 
+<!-- TODO:DUPLICATE -->
+
 Kumpulkanlah, hai para malaikat-Ku, orang-orang yang menzalimi diri mereka sendiri dengan kekafiran bersama istri-istri mereka yang kafir dan tuhan-tuhan selain Allah yang selalu mereka sembah seperti berhala dan sekutu! Tunjukilah mereka jalan ke neraka untuk mereka lalui!
 
 # 3812
@@ -15394,6 +15414,8 @@ Apakah kita akan kekal dalam kenikmatan surga dan selamanya tidak akan mati sela
 
 # 3847
 
+<!-- TODO:DUPLICATE -->
+
 Apakah kita akan kekal dalam kenikmatan surga dan selamanya tidak akan mati selain mati yang pertama di dunia? Dan apakah kita tidak akan merasakan siksa setelah masuk surga?
 
 # 3848
@@ -15437,6 +15459,8 @@ Lalu, tempat kembali mereka adalah neraka. Mereka berada dalam siksaan terus men
 Sesungguhnya mereka mendapatkan nenek moyangnya dalam keadaan sesat. Kemudian dengan tergesa-gesa mengikuti jejak langkah mereka menelusuri jalan kesesatan secara membabi buta. Seakan- akan mereka menganjurkan untuk mengikuti nenek moyang mereka tanpa berpikir.
 
 # 3858
+
+<!-- TODO:DUPLICATE -->
 
 Sesungguhnya mereka mendapatkan nenek moyangnya dalam keadaan sesat. Kemudian dengan tergesa-gesa mengikuti jejak langkah mereka menelusuri jalan kesesatan secara membabi buta. Seakan- akan mereka menganjurkan untuk mengikuti nenek moyang mereka tanpa berpikir.
 
@@ -15578,6 +15602,8 @@ Allah mengetahui kebenaran Ibrâhîm dan anaknya dalam melaksanakan cobaan terse
 
 # 3893
 
+<!-- TODO:DUPLICATE -->
+
 Allah mengetahui kebenaran Ibrâhîm dan anaknya dalam melaksanakan cobaan tersebut. Kemudian Allah memanggilnya dengan panggilan kekasih, "Wahai Ibrâhîm, sesungguhnya engkau telah memenuhi panggilan wahyu melalui mimpi dengan tenang, dan engkau tidak ragu-ragu dalam melaksanakannya. Cukuplah bagimu itu semua. Sesungguhnya Kami akan meringankan cobaan Kami untukmu sebagai balasan atas kebaikanmu, seperti halnya Kami membalas orang-orang yang berbuat baik karena kebaikan mereka."
 
 # 3894
@@ -15710,6 +15736,8 @@ Sesungguhnya kalian, hai orang-orang Mekah, selalu melewati perkampungan kaum Na
 
 # 3926
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya kalian, hai orang-orang Mekah, selalu melewati perkampungan kaum Nabi Lûth dalam setiap perjalanan kalian ke Syâm, pagi dan petang. Apakah kalian telah kehilangan akal sehingga tidak mencermati apa yang menimpa mereka akibat mendustai rasul?
 
 # 3927
@@ -15722,6 +15750,8 @@ Ingatlah ketika ia meninggalkan kaumnya sebelum datang perintah Tuhan. Yûnus pe
 
 # 3929
 
+<!-- TODO:DUPLICATE -->
+
 Ingatlah ketika ia meninggalkan kaumnya sebelum datang perintah Tuhan. Yûnus pergi menumpang sebuah kapal yang sangat penuh. Kapal tersebut tertimpa sesuatu yang mengharuskan diadakan undian untuk mengeluarkan seorang penumpang guna mengurangi beban muatan. Undian jatuh pada Yûnus dan ia termasuk yang kalah sehingga harus diceburkan ke laut sesuai dengan tradisi mereka saat itu.
 
 # 3930
@@ -15733,6 +15763,8 @@ Kemudian ia ditelan oleh seekor ikan hiu dalam keadaan tercela sebagai balasan m
 Kalau sekiranya Yûnus tidak termasuk orang yang menyucikan Allah dengan bertasbih dan selalu mengingatNya, niscaya ia sudah mati di dalam perut ikan hiu dan tidak akan keluar dari situ sampai hari kiamat.
 
 # 3932
+
+<!-- TODO:DUPLICATE -->
 
 Kalau sekiranya Yûnus tidak termasuk orang yang menyucikan Allah dengan bertasbih dan selalu mengingatNya, niscaya ia sudah mati di dalam perut ikan hiu dan tidak akan keluar dari situ sampai hari kiamat.
 
@@ -15765,6 +15797,8 @@ Atau apakah Kami menciptakan malaikat berbentuk perempuan dan mereka menyaksikan
 Hai orang yang mendengar, hati-hatilah terhadap omongan mereka. Karena kebohongannya, mereka berkata, "Allah beranak." Padahal Dia tersucikan dari sifat melahirkan dan dilahirkan. Mereka benar- benar bohong dalam ucapannya itu, dengan adanya bukti-bukti kemahaesaan-Nya.
 
 # 3940
+
+<!-- TODO:DUPLICATE -->
 
 Hai orang yang mendengar, hati-hatilah terhadap omongan mereka. Karena kebohongannya, mereka berkata, "Allah beranak." Padahal Dia tersucikan dari sifat melahirkan dan dilahirkan. Mereka benar- benar bohong dalam ucapannya itu, dengan adanya bukti-bukti kemahaesaan-Nya.
 
@@ -15806,9 +15840,13 @@ Sesungguhnya kalian, orang-orang kafir dan sembahan kalian selain Allah, dengan 
 
 # 3950
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya kalian, orang-orang kafir dan sembahan kalian selain Allah, dengan sikap seperti itu tidak akan dapat menyesatkan seseorang dengan rayuan dan godaan kecuali orang telah ditentukan oleh Allah termasuk penghuni neraka dan akan merasakan panasnya.
 
 # 3951
+
+<!-- TODO:DUPLICATE -->
 
 Sesungguhnya kalian, orang-orang kafir dan sembahan kalian selain Allah, dengan sikap seperti itu tidak akan dapat menyesatkan seseorang dengan rayuan dan godaan kecuali orang telah ditentukan oleh Allah termasuk penghuni neraka dan akan merasakan panasnya.
 
@@ -15830,9 +15868,13 @@ Orang-orang kafir Mekah, sebelum datangnya Muhammad, selalu berkata, 'Seandainya
 
 # 3956
 
+<!-- TODO:DUPLICATE -->
+
 Orang-orang kafir Mekah, sebelum datangnya Muhammad, selalu berkata, 'Seandainya kami memiliki kitab suci semacam kitab-kitab suci umat terdahulu seperti Tawrât dan Injîl, tentu kami termasuk hamba-hamba Allah yang memurnikan ibadah hanya untukNya. '
 
 # 3957
+
+<!-- TODO:DUPLICATE -->
 
 Orang-orang kafir Mekah, sebelum datangnya Muhammad, selalu berkata, 'Seandainya kami memiliki kitab suci semacam kitab-kitab suci umat terdahulu seperti Tawrât dan Injîl, tentu kami termasuk hamba-hamba Allah yang memurnikan ibadah hanya untukNya. '
 
@@ -15845,6 +15887,8 @@ Kitab suci itu telah datang kepada mereka, tetapi mereka mengingkarinya. Maka ke
 Aku bersumpah bahwa dalam ketentuan yang telah Kami tetapkan untuk hamba-hamba utusan Kami, mereka akan menang atas orang-orang kafir.
 
 # 3960
+
+<!-- TODO:DUPLICATE -->
 
 Aku bersumpah bahwa dalam ketentuan yang telah Kami tetapkan untuk hamba-hamba utusan Kami, mereka akan menang atas orang-orang kafir.
 
@@ -15937,6 +15981,8 @@ Suatu pasukan tentara yang hina pasti akan kalah di sana seperti halnya orang-or
 Sebelum mereka, kaum Nûh, bangsa 'Ad, Fir'aun yang memiliki gedung-gedung megah dan kuat bagai gunung, demikian pula Tsamûd, kaum Nabi Lûth dan kaum Nabi Syu'aib, pemilik pepohonan yang rindang, semuanya telah mendustakan para rasul. Mereka bersekongkol melawan rasul-rasul mereka seperti halnya kaummu.
 
 # 3983
+
+<!-- TODO:DUPLICATE -->
 
 Sebelum mereka, kaum Nûh, bangsa 'Ad, Fir'aun yang memiliki gedung-gedung megah dan kuat bagai gunung, demikian pula Tsamûd, kaum Nabi Lûth dan kaum Nabi Syu'aib, pemilik pepohonan yang rindang, semuanya telah mendustakan para rasul. Mereka bersekongkol melawan rasul-rasul mereka seperti halnya kaummu.
 
@@ -16158,6 +16204,8 @@ Katakan kepada mereka, hai Muhammad, "Yang aku sampaikan ini adalah berita besar
 
 # 4038
 
+<!-- TODO:DUPLICATE -->
+
 Katakan kepada mereka, hai Muhammad, "Yang aku sampaikan ini adalah berita besar yang kalian palingkan dan tidak kalian pikirkan.
 
 # 4039
@@ -16181,6 +16229,8 @@ Apabila Aku telah menyempurnakan penciptaannya dan telah meniupkan rahasia kehid
 Semua malaikat pun melaksanakan perintah itu dan melakukan sujud penghormatan kepada Adam, kecuali Iblîs yang tidak mau bersujud.
 
 # 4044
+
+<!-- TODO:DUPLICATE -->
 
 Semua malaikat pun melaksanakan perintah itu dan melakukan sujud penghormatan kepada Adam, kecuali Iblîs yang tidak mau bersujud.
 
@@ -16210,6 +16260,8 @@ Allah berkata, "Kamu termasuk mereka yang Aku tangguhkan sampai waktu yang telah
 
 # 4051
 
+<!-- TODO:DUPLICATE -->
+
 Allah berkata, "Kamu termasuk mereka yang Aku tangguhkan sampai waktu yang telah Aku tentukan, yaitu saat penghabisan kehidupan dunia."
 
 # 4052
@@ -16218,6 +16270,8 @@ Iblîs berkata, "Demi keagungan dan keperkasaan-Mu, aku bersumpah akan merayu se
 
 # 4053
 
+<!-- TODO:DUPLICATE -->
+
 Iblîs berkata, "Demi keagungan dan keperkasaan-Mu, aku bersumpah akan merayu semua manusia, kecuali hamba-hamba-Mu yang ikhlas beribadah kepada-Mu. Terhadap mereka, aku tidak memiliki kekuasaan apa-apa."
 
 # 4054
@@ -16225,6 +16279,8 @@ Iblîs berkata, "Demi keagungan dan keperkasaan-Mu, aku bersumpah akan merayu se
 Allah berkata, "Kebenaran adalah sumpah-Ku. Aku tidak akan berkata kecuali benar. Aku akan mengisi neraka jahanam dengan bangsa sejenismu, yaitu setan, dan anak cucu Adam yang mengikutinya. Aku tidak membedakan antara pengikut dan pemimpin."
 
 # 4055
+
+<!-- TODO:DUPLICATE -->
 
 Allah berkata, "Kebenaran adalah sumpah-Ku. Aku tidak akan berkata kecuali benar. Aku akan mengisi neraka jahanam dengan bangsa sejenismu, yaitu setan, dan anak cucu Adam yang mengikutinya. Aku tidak membedakan antara pengikut dan pemimpin."
 
@@ -16298,6 +16354,8 @@ Katakan kepada mereka, "Hanya kepada Allah saja aku beribadah, tanpa diiringi ke
 
 # 4073
 
+<!-- TODO:DUPLICATE -->
+
 Katakan kepada mereka, "Hanya kepada Allah saja aku beribadah, tanpa diiringi kesyirikan dan riyâ'. Apabila kalian telah mengetahui jalanku tetapi tidak mau mematuhiku, sembahlah tuhan lain sesuka kalian." Katakan pula, "Orang-orang yang merugi segalanya adalah orang-orang yang menyia-nyiakan diri sendiri dan keluarganya dengan menempuh jalan kesesatan. Camkanlah bahwa penyia-nyiaan diri seperti itu adalah kerugian yang sempurna dan nyata."
 
 # 4074
@@ -16309,6 +16367,8 @@ Untuk orang-orang yang merugi itu disediakan api neraka berlapis-lapis, dari ara
 Dan orang-orang yang menjauhi patung-patung dan setan-setan, lalu kembali kepada Allah dalam segala urusan mereka, akan memperoleh kabar gembira di segala tempat. Maka, berilah kabar gembira kepada hamba-hamba-Ku yang mendengarkan omongan lalu mengikuti omongan yang terbaik dan lebih membawa ke arah kebenaran. Merekalah, bukan yang lain, yang akan ditunjuki Allah untuk mendapat hidayah. Dan merekalah orang-orang yang memiliki pikiran yang cemerlang.
 
 # 4076
+
+<!-- TODO:DUPLICATE -->
 
 Dan orang-orang yang menjauhi patung-patung dan setan-setan, lalu kembali kepada Allah dalam segala urusan mereka, akan memperoleh kabar gembira di segala tempat. Maka, berilah kabar gembira kepada hamba-hamba-Ku yang mendengarkan omongan lalu mengikuti omongan yang terbaik dan lebih membawa ke arah kebenaran. Merekalah, bukan yang lain, yang akan ditunjuki Allah untuk mendapat hidayah. Dan merekalah orang-orang yang memiliki pikiran yang cemerlang.
 
@@ -16362,6 +16422,8 @@ Wahai Muhammad, sesungguhnya kamu dan mereka semua akan mati. Kemudian, setelah 
 
 # 4089
 
+<!-- TODO:DUPLICATE -->
+
 Wahai Muhammad, sesungguhnya kamu dan mereka semua akan mati. Kemudian, setelah mati dan setelah dibangkitkan kembali, kalian akan saling bermusuhan di hadapan Allah.
 
 # 4090
@@ -16397,6 +16459,8 @@ Aku bersumpah, "Apabila kamu tanyakan kepada orang-orang musyrikin itu, wahai Mu
 Katakan kepada mereka, sebagai ancaman, "Wahai kaumku, tetaplah pada sikap ingkar dan mendustakan kalian itu. Aku pun akan tetap melaksanakan apa yang diperintahkan oleh Tuhanku. Kalian, kelak, akan mengetahui siapa di antara kita yang akan mendapatkan azab yang sangat menghinakan dan abadi yang tak ada akhirnya."
 
 # 4098
+
+<!-- TODO:DUPLICATE -->
 
 Katakan kepada mereka, sebagai ancaman, "Wahai kaumku, tetaplah pada sikap ingkar dan mendustakan kalian itu. Aku pun akan tetap melaksanakan apa yang diperintahkan oleh Tuhanku. Kalian, kelak, akan mengetahui siapa di antara kita yang akan mendapatkan azab yang sangat menghinakan dan abadi yang tak ada akhirnya."
 
@@ -16550,6 +16614,8 @@ Al-Qur'ân ini diturunkan dari Allah Sang Mahaperkasa, yang ilmu-Nya meliputi se
 
 # 4136
 
+<!-- TODO:DUPLICATE -->
+
 Al-Qur'ân ini diturunkan dari Allah Sang Mahaperkasa, yang ilmu-Nya meliputi segala sesuatu; Sang Maha Menerima tobat dari orang-orang yang bertobat kepada-Nya, yang azab-Nya amat pedih; Sang Pemberi nikmat dan karunia. Tak ada yang patut disembah selain Dia. Hanya kepada-Nyalah tempat kembali.
 
 # 4137
@@ -16602,6 +16668,8 @@ Derajat dan kedudukan Allah amat tinggi. Dia Pemilik arasy. Dengan ketentuan dan
 
 # 4149
 
+<!-- TODO:DUPLICATE -->
+
 Derajat dan kedudukan Allah amat tinggi. Dia Pemilik arasy. Dengan ketentuan dan perintah-Nya, Dia menurunkan wahyu kepada hamba-hamba yang dipilih-Nya untuk memberi peringatan kepada orang lain mengenai akibat dari sikap menentang para rasul yang akan mereka rasakan pada hari pertemuan semua makhluk. Suatu hari ketika semua manusia akan tampak dengan sangat jelas. Tak satu pun perkara mereka yang tersembunyi bagi Allah. Mereka akan selalu mendengar seruan yang menggetarkan, "Milik siapakah kerajaan dan kekuasaan pada hari ini?" Mereka juga selalu mendengar jawabannya yang pasti, "Milik Allah, Penguasa Tunggal yang akan mengadili semua hamba-Nya, Sang Mahaperkasa atas mereka."
 
 # 4150
@@ -16634,6 +16702,8 @@ Aku bersumpah, "Sungguh Kami telah mengutus Mûsâ, dengan membawa beberapa mukj
 
 # 4157
 
+<!-- TODO:DUPLICATE -->
+
 Aku bersumpah, "Sungguh Kami telah mengutus Mûsâ, dengan membawa beberapa mukjizat Kami dan bukti kekuasaan yang nyata, kepada Fir'aun, Hâmân dan Qârûn. Mereka kemudian berkata, 'Ia adalah seorang penyihir yang mengaku membawa mukjizat, dan pembohong besar yang mengaku diutus oleh Tuhannya'."
 
 # 4158
@@ -16662,6 +16732,8 @@ Orang Mukmin pengikut Fir'aun itu berkata lagi, "Wahai kaumku, aku sangat khawat
 
 # 4164
 
+<!-- TODO:DUPLICATE -->
+
 Orang Mukmin pengikut Fir'aun itu berkata lagi, "Wahai kaumku, aku sangat khawatir suatu hari kalian akan ditimpa bencana seperti orang-orang yang bersekongkol untuk memusuhi nabi-nabi mereka, seperti kebiasaan kaum Nabi Nûh, kaum Ad, kaum Tsamûd dan orang-orang setelah mereka. Dan Allah, sungguh, tidak berkehendak menzalimi hamba-hamba-Nya.
 
 # 4165
@@ -16669,6 +16741,8 @@ Orang Mukmin pengikut Fir'aun itu berkata lagi, "Wahai kaumku, aku sangat khawat
 Wahai kaumku, aku sungguh khawatir kalian akan ditimpa siksaan pada hari ketika seluruh makhluk saling berteriak. Suatu hari ketika kalian lari. Saat itu, tak seorang pun dapat melindungi kalian dari Allah. Barangsiapa yang disesatkan Allah--karena Dia tahu bahwa orang itu lebih memilih kesesatan daripada petunjuk--maka tak akan ada seorang pun yang dapat memberinya petunjuk."
 
 # 4166
+
+<!-- TODO:DUPLICATE -->
 
 Wahai kaumku, aku sungguh khawatir kalian akan ditimpa siksaan pada hari ketika seluruh makhluk saling berteriak. Suatu hari ketika kalian lari. Saat itu, tak seorang pun dapat melindungi kalian dari Allah. Barangsiapa yang disesatkan Allah--karena Dia tahu bahwa orang itu lebih memilih kesesatan daripada petunjuk--maka tak akan ada seorang pun yang dapat memberinya petunjuk."
 
@@ -16685,6 +16759,8 @@ Orang-orang yang mendebat ayat-ayat Allah tanpa ada bukti yang datang kepada mer
 Fir'aun berkata, "Wahai Hâmân, dirikanlah bangunan yang tinggi untukku agar aku dapat menemukan jalan, yaitu jalan untuk mencapai langit, agar aku dapat melihat Tuhan Mûsâ. Aku yakin ia pasti berdusta dengan pengakuannya sebagai rasul." Dengan ilusi palsu seperti itu, Fir'aun tertipu oleh perbuatannya yang buruk hingga tampak baik, dan terhadang untuk menempuh jalan yang benar karena lebih memilih jalan yang sesat. Tipu daya Fir'aun itu tidak lain hanyalah kerugian yang sangat besar belaka.
 
 # 4170
+
+<!-- TODO:DUPLICATE -->
 
 Fir'aun berkata, "Wahai Hâmân, dirikanlah bangunan yang tinggi untukku agar aku dapat menemukan jalan, yaitu jalan untuk mencapai langit, agar aku dapat melihat Tuhan Mûsâ. Aku yakin ia pasti berdusta dengan pengakuannya sebagai rasul." Dengan ilusi palsu seperti itu, Fir'aun tertipu oleh perbuatannya yang buruk hingga tampak baik, dan terhadang untuk menempuh jalan yang benar karena lebih memilih jalan yang sesat. Tipu daya Fir'aun itu tidak lain hanyalah kerugian yang sangat besar belaka.
 
@@ -16706,6 +16782,8 @@ Barangsiapa melakukan kejahatan di dunia, maka di akhirat nanti ia akan dibalas 
 
 # 4175
 
+<!-- TODO:DUPLICATE -->
+
 "Wahai kaumku," lanjutnya lagi, "Mana yang lebih baik bagi diriku: aku mengajak kalian ke jalan keselamatan, sedangkan kalian mengajakku ke jalan yang sesat menuju neraka? Kalian mengajakku untuk mengingkari Allah dan menyekutukan-Nya dengan sesuatu yang tidak aku ketahui, sedangkan aku mengajak kalian kepada Sang Mahakuat yang tak terkalahkan; Sang Maha Pengampun atas segala dosa.
 
 # 4176
@@ -16721,6 +16799,8 @@ Kelak kalian akan tahu kebenaran apa yang aku katakan. Aku menyerahkan urusanku 
 Maka, Allah pun memelihara kaum Fir'aun yang Mukmin itu dari kekejaman tipu daya mereka, dan menampakkan neraka kepada keluarga Fir'aun pada pagi dan sore hari--di dunia, ketika berada di alam barzah. Dan pada hari kiamat, Allah berfirman, "Masukkanlah kaum Fir'aun ke dalam neraka yang paling dahsyat azabnya."
 
 # 4179
+
+<!-- TODO:DUPLICATE -->
 
 Maka, Allah pun memelihara kaum Fir'aun yang Mukmin itu dari kekejaman tipu daya mereka, dan menampakkan neraka kepada keluarga Fir'aun pada pagi dan sore hari--di dunia, ketika berada di alam barzah. Dan pada hari kiamat, Allah berfirman, "Masukkanlah kaum Fir'aun ke dalam neraka yang paling dahsyat azabnya."
 
@@ -16753,6 +16833,8 @@ Suatu hari ketika permohonan maaf orang-orang zalim atas keteledoran mereka tida
 Aku bersumpah bahwa Kami telah memberikan sesuatu yang dapat dijadikan petunjuk menuju kebenaran kepada Mûsâ, dan bahwa Kami telah mewariskan Tawrât kepada Banû Isrâ'îl yang dapat menjadi petunjuk dan pengingat bagi orang yang berpikiran sehat.
 
 # 4187
+
+<!-- TODO:DUPLICATE -->
 
 Aku bersumpah bahwa Kami telah memberikan sesuatu yang dapat dijadikan petunjuk menuju kebenaran kepada Mûsâ, dan bahwa Kami telah mewariskan Tawrât kepada Banû Isrâ'îl yang dapat menjadi petunjuk dan pengingat bagi orang yang berpikiran sehat.
 
@@ -16822,17 +16904,25 @@ Orang-orang yang mendustakan al-Qur'ân dan wahyu yang Kami turunkan kepada utus
 
 # 4204
 
+<!-- TODO:DUPLICATE -->
+
 Orang-orang yang mendustakan al-Qur'ân dan wahyu yang Kami turunkan kepada utusan-utusan Kami, pasti akan mengetahui akibat perbuatannya, pada saat lehernya dibelenggu dengan rantai, dan ditarik dalam air yang sangat panas kemudian dilempar ke dalam neraka yang mereka rasakan panasnya. Mereka diejek dengan dikatakan, "Mana sembahan kalian selain Allah yang dulu pernah kalian sembah itu?" Orang kafir menjawab, "Mereka telah menghilang dari kami. Bahkan sebenarnya, di dunia dulu kami belum pernah menyembah sesuatu yang pantas disembah." Dengan cara seperti itu Allah menyesatkan orang kafir dari kebenaran, karena mengetahui bahwa mereka lebih memilih kesesatan dari pada petunjuk.
 
 # 4205
+
+<!-- TODO:DUPLICATE -->
 
 Orang-orang yang mendustakan al-Qur'ân dan wahyu yang Kami turunkan kepada utusan-utusan Kami, pasti akan mengetahui akibat perbuatannya, pada saat lehernya dibelenggu dengan rantai, dan ditarik dalam air yang sangat panas kemudian dilempar ke dalam neraka yang mereka rasakan panasnya. Mereka diejek dengan dikatakan, "Mana sembahan kalian selain Allah yang dulu pernah kalian sembah itu?" Orang kafir menjawab, "Mereka telah menghilang dari kami. Bahkan sebenarnya, di dunia dulu kami belum pernah menyembah sesuatu yang pantas disembah." Dengan cara seperti itu Allah menyesatkan orang kafir dari kebenaran, karena mengetahui bahwa mereka lebih memilih kesesatan dari pada petunjuk.
 
 # 4206
 
+<!-- TODO:DUPLICATE -->
+
 Orang-orang yang mendustakan al-Qur'ân dan wahyu yang Kami turunkan kepada utusan-utusan Kami, pasti akan mengetahui akibat perbuatannya, pada saat lehernya dibelenggu dengan rantai, dan ditarik dalam air yang sangat panas kemudian dilempar ke dalam neraka yang mereka rasakan panasnya. Mereka diejek dengan dikatakan, "Mana sembahan kalian selain Allah yang dulu pernah kalian sembah itu?" Orang kafir menjawab, "Mereka telah menghilang dari kami. Bahkan sebenarnya, di dunia dulu kami belum pernah menyembah sesuatu yang pantas disembah." Dengan cara seperti itu Allah menyesatkan orang kafir dari kebenaran, karena mengetahui bahwa mereka lebih memilih kesesatan dari pada petunjuk.
 
 # 4207
+
+<!-- TODO:DUPLICATE -->
 
 Orang-orang yang mendustakan al-Qur'ân dan wahyu yang Kami turunkan kepada utusan-utusan Kami, pasti akan mengetahui akibat perbuatannya, pada saat lehernya dibelenggu dengan rantai, dan ditarik dalam air yang sangat panas kemudian dilempar ke dalam neraka yang mereka rasakan panasnya. Mereka diejek dengan dikatakan, "Mana sembahan kalian selain Allah yang dulu pernah kalian sembah itu?" Orang kafir menjawab, "Mereka telah menghilang dari kami. Bahkan sebenarnya, di dunia dulu kami belum pernah menyembah sesuatu yang pantas disembah." Dengan cara seperti itu Allah menyesatkan orang kafir dari kebenaran, karena mengetahui bahwa mereka lebih memilih kesesatan dari pada petunjuk.
 
@@ -16841,6 +16931,8 @@ Orang-orang yang mendustakan al-Qur'ân dan wahyu yang Kami turunkan kepada utus
 Dikatakan lagi kepada mereka, "Azab yang kalian rasakan itu disebabkan oleh kegembiraan kalian di dunia yang bukan pada tempatnya, dan oleh kegembiraan yang berlebih-lebihan atas kesusahan yang menimpa para nabi dan kekasih Allah. Masuklah kalian semua ke dalam pintu-pintu jahanam, yang telah ditetapkan kekal buat kalian! Dan sejelek-jelek tempat tinggal untuk orang-orang yang sombong adalah neraka jahanam."
 
 # 4209
+
+<!-- TODO:DUPLICATE -->
 
 Dikatakan lagi kepada mereka, "Azab yang kalian rasakan itu disebabkan oleh kegembiraan kalian di dunia yang bukan pada tempatnya, dan oleh kegembiraan yang berlebih-lebihan atas kesusahan yang menimpa para nabi dan kekasih Allah. Masuklah kalian semua ke dalam pintu-pintu jahanam, yang telah ditetapkan kekal buat kalian! Dan sejelek-jelek tempat tinggal untuk orang-orang yang sombong adalah neraka jahanam."
 
@@ -16905,6 +16997,8 @@ Orang-orang kafir mengatakan kepada Rasulullah saw., "Hati kami terhalangi oleh 
 Katakan kepada mereka, wahai Rasul, "Aku hanyalah seorang manusia seperti kalian yang, melalui wahyu, diberitahu oleh Allah bahwa sembahan kalian yang sebenarnya adalah Tuhan yang Mahaesa. Maka pergilah kalian kepada-Nya melalui jalan yang lurus, dan mintalah ampunan atas dosa-dosa kalian kepada- Nya! Azab yang kejam tersedia bagi orang-orang musyrik yang tidak membayar zakat kepada orang yang berhak menerima, dan mengingkari kehidupan akhirat."
 
 # 4225
+
+<!-- TODO:DUPLICATE -->
 
 Katakan kepada mereka, wahai Rasul, "Aku hanyalah seorang manusia seperti kalian yang, melalui wahyu, diberitahu oleh Allah bahwa sembahan kalian yang sebenarnya adalah Tuhan yang Mahaesa. Maka pergilah kalian kepada-Nya melalui jalan yang lurus, dan mintalah ampunan atas dosa-dosa kalian kepada- Nya! Azab yang kejam tersedia bagi orang-orang musyrik yang tidak membayar zakat kepada orang yang berhak menerima, dan mengingkari kehidupan akhirat."
 
@@ -17006,6 +17100,8 @@ Para malaikat itu juga mengatakan, "Kami adalah penolong-penolong kalian di duni
 
 # 4250
 
+<!-- TODO:DUPLICATE -->
+
 Para malaikat itu juga mengatakan, "Kami adalah penolong-penolong kalian di dunia, dengan memberikan dukungan, dan di akhirat dengan memberikan syafaat dan penghormatan. Di akhirat nanti kalian akan mendapatkan segala apa yang kalian sukai dan penghormatan yang kalian dambakan dari Tuhan yang ampunan dan kasih sayang-Nya amat luas."
 
 # 4251
@@ -17045,6 +17141,8 @@ Orang-orang yang menyimpang dari jalan yang lurus dan mendustakan tanda-tanda ke
 Orang-orang yang mengingkari al-Qur'ân saat diturunkan, dengan tidak mau mempelajarinya, akan mendapatkan azab yang tidak pernah terbayangkan oleh siapa pun. Mereka melakukan hal itu, padahal al-Qur'ân adalah kitab suci yang tidak ada bandingannya, mengalahkan setiap orang yang menentangnya, dan tidak akan pernah bisa dimasuki oleh kesalahan dari sisi mana pun. Al-Qur'ân itu turun secara berangsur- angsur dari Tuhan yang Mahasuci dari hal-hal yang tak berguna, dan banyak dipuji karena nikmat yang dilimpahkanNya.
 
 # 4260
+
+<!-- TODO:DUPLICATE -->
 
 Orang-orang yang mengingkari al-Qur'ân saat diturunkan, dengan tidak mau mempelajarinya, akan mendapatkan azab yang tidak pernah terbayangkan oleh siapa pun. Mereka melakukan hal itu, padahal al-Qur'ân adalah kitab suci yang tidak ada bandingannya, mengalahkan setiap orang yang menentangnya, dan tidak akan pernah bisa dimasuki oleh kesalahan dari sisi mana pun. Al-Qur'ân itu turun secara berangsur- angsur dari Tuhan yang Mahasuci dari hal-hal yang tak berguna, dan banyak dipuji karena nikmat yang dilimpahkanNya.
 
@@ -17448,6 +17546,8 @@ Tentu Kami akan menjadikan pintu dan dipan rumah mereka dari perak pula untuk me
 
 # 4360
 
+<!-- TODO:DUPLICATE -->
+
 Tentu Kami akan menjadikan pintu dan dipan rumah mereka dari perak pula untuk mereka nikmati dan sebagai tempat mereka bersandar. Dan tentu Kami akan mejadikan segalanya untuk perhiasan mereka. Semua kenikmatan hidup yang Kami gambarkan kepadamu itu hanyalah kenikmatan yang bersifat sementara, terbatas hanya pada kehidupan dunia. Dan pahala akhirat yang ada di sisi Tuhan Sang Pencipta dan Pemelihara, hanya disediakan untuk orang-orang yang menjauhi syirik dan dosa-dosa besar.
 
 # 4361
@@ -17804,6 +17904,8 @@ Sesungguhnya orang-orang yang mendustakan hari kebangkitan itu berkata, "Tidak a
 
 # 4449
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya orang-orang yang mendustakan hari kebangkitan itu berkata, "Tidak ada kematian selain kematian yang pertama di dunia. Dan kita sama sekali tidak akan dibangkitkan kembali."
 
 # 4450
@@ -17840,6 +17942,8 @@ Pohon zaqqûm yang terkenal dengan rupanya yang jelek, rasanya yang tidak enak d
 
 # 4458
 
+<!-- TODO:DUPLICATE -->
+
 Pohon zaqqûm yang terkenal dengan rupanya yang jelek, rasanya yang tidak enak dan baunya yang tak sedap, adalah makanan orang yang banyak berbuat dosa.
 
 # 4459
@@ -17847,6 +17951,8 @@ Pohon zaqqûm yang terkenal dengan rupanya yang jelek, rasanya yang tidak enak d
 Rasanya seperti cairan bahan tambang yang meleleh karena panas, mendidih di dalam perut bagai air yang mencapai puncak titik didih.
 
 # 4460
+
+<!-- TODO:DUPLICATE -->
 
 Rasanya seperti cairan bahan tambang yang meleleh karena panas, mendidih di dalam perut bagai air yang mencapai puncak titik didih.
 
@@ -18148,6 +18254,8 @@ Maka datanglah azab kepada mereka dalam bentuk awan. Ketika mereka melihat awan 
 
 # 4535
 
+<!-- TODO:DUPLICATE -->
+
 Maka datanglah azab kepada mereka dalam bentuk awan. Ketika mereka melihat awan terbentang di ufuk menuju ke lembah-lembah mereka, mereka berkata, "Inilah awan yang akan membawa hujan dan kebaikan bagi kita." Lalu dikatakan kepada mereka, "Bukan! Itu adalah siksaan yang kalian minta untuk disegerakan: angin yang membawa azab yang pedih dan menghancurkan segala sesuatu atas perintah Sang Pencipta." Angin itu pun menghancurkan mereka semua hingga tak ada yang tersisa kecuali tempat tinggal mereka saja. Demikianlah balasan yang Kami berikan kepada orang-orang yang melakukan dosa seperti mereka.
 
 # 4536
@@ -18208,9 +18316,13 @@ Apabila kalian bertemu dengan orang-orang kafir di medan perang, pancunglah bata
 
 # 4550
 
+<!-- TODO:DUPLICATE -->
+
 Apabila kalian bertemu dengan orang-orang kafir di medan perang, pancunglah batang leher mereka. Apabila kalian berhasil melemahkan dan mengalahkan mereka dengan banyak membunuh pasukan mereka, tawanlah mereka. Sesudah perang, kalian boleh membebaskan mereka tanpa tebusan apapun atau meminta harta atau tawanan kaum Muslimin sebagai tebusan. Hendaknya seperti itulah sikap kalian terhadap orang-orang kafir sampai perang berakhir. Begitulah ketentuan Allah yang berlaku untuk mereka. Seandainya Allah menghendaki, niscaya Dia akan memenangkan kaum Muslimin tanpa melalui perang. Tetapi, karena Allah ingin menguji orang-orang Mukmin melalui orang-orang kafir, Dia menetapkan jihad. Orang-orang yang terbunuh di jalan Allah, amal perbuatannya tidak akan disia-siakan oleh Allah. (1) Mereka akan diberi petunjuk, keadaan mereka akan diperbaiki, dan mereka akan dimasukkan ke dalam surga yang telah diperkenalkan kepada mereka. (1) Dalam ayat yang berbicara mengenai perintah membunuh ini digunakan kata riqâb yang berarti 'batang leher', karena cara membunuh yang paling cepat dan tidak menyakitkan adalah dengan memenggal leher. Secara ilmiah telah terbukti bahwa leher merupakan jaringan penghubung antara kepala dan seluruh organ tubuh. Maka, apabila jaringan urat saraf manusia terputus, semua fungsi utama organ tubuh akan melemah. Dan apabila jaringan urat nadi telah putus, maka darah akan berhenti dan tidak dapat memberi makan ke otak. Begitu pula, apabila saluran pernapasan telah putus, maka manusia tidak lagi dapat bernapas. Dalam kondisi seperti ini manusia akan cepat mati.
 
 # 4551
+
+<!-- TODO:DUPLICATE -->
 
 Apabila kalian bertemu dengan orang-orang kafir di medan perang, pancunglah batang leher mereka. Apabila kalian berhasil melemahkan dan mengalahkan mereka dengan banyak membunuh pasukan mereka, tawanlah mereka. Sesudah perang, kalian boleh membebaskan mereka tanpa tebusan apapun atau meminta harta atau tawanan kaum Muslimin sebagai tebusan. Hendaknya seperti itulah sikap kalian terhadap orang-orang kafir sampai perang berakhir. Begitulah ketentuan Allah yang berlaku untuk mereka. Seandainya Allah menghendaki, niscaya Dia akan memenangkan kaum Muslimin tanpa melalui perang. Tetapi, karena Allah ingin menguji orang-orang Mukmin melalui orang-orang kafir, Dia menetapkan jihad. Orang-orang yang terbunuh di jalan Allah, amal perbuatannya tidak akan disia-siakan oleh Allah. (1) Mereka akan diberi petunjuk, keadaan mereka akan diperbaiki, dan mereka akan dimasukkan ke dalam surga yang telah diperkenalkan kepada mereka. (1) Dalam ayat yang berbicara mengenai perintah membunuh ini digunakan kata riqâb yang berarti 'batang leher', karena cara membunuh yang paling cepat dan tidak menyakitkan adalah dengan memenggal leher. Secara ilmiah telah terbukti bahwa leher merupakan jaringan penghubung antara kepala dan seluruh organ tubuh. Maka, apabila jaringan urat saraf manusia terputus, semua fungsi utama organ tubuh akan melemah. Dan apabila jaringan urat nadi telah putus, maka darah akan berhenti dan tidak dapat memberi makan ke otak. Begitu pula, apabila saluran pernapasan telah putus, maka manusia tidak lagi dapat bernapas. Dalam kondisi seperti ini manusia akan cepat mati.
 
@@ -18272,9 +18384,13 @@ Orang-orang Mukmin berkata, "Mengapa tidak turun surat yang mengajak kami untuk 
 
 # 4566
 
+<!-- TODO:DUPLICATE -->
+
 Orang-orang Mukmin berkata, "Mengapa tidak turun surat yang mengajak kami untuk berperang?" Tetapi, ketika turun surat yang memerintahkan perang, kamu akan melihat orang yang di dalam hatinya terdapat sifat munafik memandangmu seperti pandangan orang pingsan karena benci dan takut mati. Dari itu, taat kepada Allah dan mengatakan apa yang dibenarkan agama adalah lebih baik bagi mereka jika diwajibkan kepada mereka berjihad. Dan seandainya mereka beriman dan taat kepada Allah, hal itu tentu lebih baik bagi mereka daripada bersikap munafik. Maka apakah ada di antara kalian, wahai orang-orang munafik, jika kalian berkuasa kalian akan membuat kerusakan di muka bumi dan memutuskan hubungan dengan kerabat kalian?
 
 # 4567
+
+<!-- TODO:DUPLICATE -->
 
 Orang-orang Mukmin berkata, "Mengapa tidak turun surat yang mengajak kami untuk berperang?" Tetapi, ketika turun surat yang memerintahkan perang, kamu akan melihat orang yang di dalam hatinya terdapat sifat munafik memandangmu seperti pandangan orang pingsan karena benci dan takut mati. Dari itu, taat kepada Allah dan mengatakan apa yang dibenarkan agama adalah lebih baik bagi mereka jika diwajibkan kepada mereka berjihad. Dan seandainya mereka beriman dan taat kepada Allah, hal itu tentu lebih baik bagi mereka daripada bersikap munafik. Maka apakah ada di antara kalian, wahai orang-orang munafik, jika kalian berkuasa kalian akan membuat kerusakan di muka bumi dan memutuskan hubungan dengan kerabat kalian?
 
@@ -18295,6 +18411,8 @@ Sesungguhnya orang-orang yang kembali bersikap kafir dan memilih kesesatan setel
 Kembalinya mereka itu adalah dengan mengatakan kepada orang-orang yang benci kepada apa yang diturunkan Allah, "Kami akan mematuhi kalian dalam beberapa urusan," padahal Allah telah mengetahui segala rahasia orang-orang munafik. Itulah keadaan orang-orang munafik dalam kehidupan mereka. Lalu bagaimana keadaan mereka apabila malaikat maut mencabut nyawa mereka dengan memukul muka dan punggung mereka sebagai hinaan?
 
 # 4572
+
+<!-- TODO:DUPLICATE -->
 
 Kembalinya mereka itu adalah dengan mengatakan kepada orang-orang yang benci kepada apa yang diturunkan Allah, "Kami akan mematuhi kalian dalam beberapa urusan," padahal Allah telah mengetahui segala rahasia orang-orang munafik. Itulah keadaan orang-orang munafik dalam kehidupan mereka. Lalu bagaimana keadaan mereka apabila malaikat maut mencabut nyawa mereka dengan memukul muka dan punggung mereka sebagai hinaan?
 
@@ -18336,6 +18454,8 @@ Sesungguhnya kehidupan dunia ini hanyalah kepalsuan dan tipuan belaka. Jika kali
 
 # 4582
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya kehidupan dunia ini hanyalah kepalsuan dan tipuan belaka. Jika kalian beriman, meninggalkan kemaksiatan dan mengerjakan kebaikan, maka Allah akan memberi kalian pahala dan Dia tidak akan meminta harta kepada kalian. Jika Dia meminta harta kepada kalian lalu mendesak kalian supaya memberikannya, kalian menjadi kikir. Dia akan menampakkan kedengkian kalian karena kalian sangat cinta kepada harta itu.
 
 # 4583
@@ -18367,6 +18487,8 @@ Allahlah yang menurunkan ketenangan ke dalam hati orang-orang Mukmin supaya bert
 Semua itu agar Allah memasukkan orang-orang Mukmin, laki-laki dan perempuan, dan Rasul-Nya ke dalam surga yang dialiri sungai-sungai di bawahnya dan mereka hidup kekal di dalamnya. Juga agar Dia menghapus segala kesalahan mereka. Balasan itu di sisi Allah merupakan keberuntungan yang besar. Juga agar Dia menyiksa orang-orang munafik, laki-laki dan perempuan, serta orang-orang musyrik, laki-laki dan perempuan, yang berburuk sangka kepada Allah dengan menyangka bahwa Allah tidak akan membela Rasul-Nya. Mereka akan mendapat kebinasaan yang buruk dan mereka tidak akan dapat lepas darinya. Allah memurkai mereka dan menjauhkan mereka dari rahmat-Nya serta menyediakan untuk mereka neraka jahanam sebagai tempat kembali yang amat buruk untuk menyiksa mereka.
 
 # 4589
+
+<!-- TODO:DUPLICATE -->
 
 Semua itu agar Allah memasukkan orang-orang Mukmin, laki-laki dan perempuan, dan Rasul-Nya ke dalam surga yang dialiri sungai-sungai di bawahnya dan mereka hidup kekal di dalamnya. Juga agar Dia menghapus segala kesalahan mereka. Balasan itu di sisi Allah merupakan keberuntungan yang besar. Juga agar Dia menyiksa orang-orang munafik, laki-laki dan perempuan, serta orang-orang musyrik, laki-laki dan perempuan, yang berburuk sangka kepada Allah dengan menyangka bahwa Allah tidak akan membela Rasul-Nya. Mereka akan mendapat kebinasaan yang buruk dan mereka tidak akan dapat lepas darinya. Allah memurkai mereka dan menjauhkan mereka dari rahmat-Nya serta menyediakan untuk mereka neraka jahanam sebagai tempat kembali yang amat buruk untuk menyiksa mereka.
 
@@ -18420,6 +18542,8 @@ Sesungguhnya Allah benar-benar memperkenankan orang-orang Mukmin ketika berjanji
 
 # 4602
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya Allah benar-benar memperkenankan orang-orang Mukmin ketika berjanji setia kepadamu tanpa paksaan di bawah sebuah pohon. Dia mengetahui keikhlasan dan kesetiaan hati mereka kepada risalahmu. Dengan kesetiaan itu, Allah menurunkan ketenangan dan memberikan kemuliaan kepada mereka saat mengadakan baiat dan perdamaian, dan juga memberikan harta rampasan yang banyak yang dapat mereka ambil. Dan Allah Mahaperkasa atas segala sesuatu lagi Mahabijaksana dalam setiap keputusan-Nya.
 
 # 4603
@@ -18427,6 +18551,8 @@ Sesungguhnya Allah benar-benar memperkenankan orang-orang Mukmin ketika berjanji
 Allah telah menjanjikan kalian harta rampasan yang banyak yang dapat kalian ambil pada waktu yang telah ditentukan. Lalu Dia menyegerakan harta rampasan yang telah dijanjikan untuk kalian itu, dan mencegah manusia untuk tidak membinasakan kalian. Hal itu supaya menjadi bukti bagi orang-orang Mukmin akan kebenaran janji Allah kepada mereka, dan supaya Dia memberi kamu petunjuk kepada jalan yang lurus dengan menaati-Nya dan mengikuti Rasul-Nya. Allah juga menjanjikan harta rampasan yang lain yang belum dapat kalian raih. Dia telah menjaganya dan akan memberikannya kepada kalian. Allah Mahakuasa atas segala sesuatu.
 
 # 4604
+
+<!-- TODO:DUPLICATE -->
 
 Allah telah menjanjikan kalian harta rampasan yang banyak yang dapat kalian ambil pada waktu yang telah ditentukan. Lalu Dia menyegerakan harta rampasan yang telah dijanjikan untuk kalian itu, dan mencegah manusia untuk tidak membinasakan kalian. Hal itu supaya menjadi bukti bagi orang-orang Mukmin akan kebenaran janji Allah kepada mereka, dan supaya Dia memberi kamu petunjuk kepada jalan yang lurus dengan menaati-Nya dan mengikuti Rasul-Nya. Allah juga menjanjikan harta rampasan yang lain yang belum dapat kalian raih. Dia telah menjaganya dan akan memberikannya kepada kalian. Allah Mahakuasa atas segala sesuatu.
 
@@ -18447,6 +18573,8 @@ Hanya Allah yang menahan tangan orang-orang kafir untuk membinasakan kalian dan,
 Penduduk Mekahlah yang kafir dan menghalang-halangi kalian untuk memasuki al-Masjid al-Harâm dan menghalang-halangi hewan kurban yang kalian bawa untuk sampai ke tempat penyembelihannya. Kalau sekiranya tidak karena khawatir bahwa kalian akan menimpakan kesusahan kepada orang-orang Mukmin, laki-laki dan perempuan, yang tidak kalian ketahui yang berada di antara orang-orang kafir Mekah sehingga kalian membunuh mereka yang menyebabkan kalian tercela dan terhina, niscaya Kami akan menjadikan kalian berkuasa atas mereka. Namun Allah menahan kalian dari membinasakan mereka supaya Dia dapat melindungi orang-orang Mukmin yang berada di tengah-tengah mereka dan orang-orang kafir yang masuk Islam. Kalau seandainya orang-orang Mukmin sudah dapat dibedakan, maka Kami pasti akan menghukum orang-orang yang bersikeras dalam kekufuran dengan siksa yang sangat pedih. Yaitu ketika orang-orang kafir menimbulkan kesombongan dalam hati mereka sebagaimana kesombongan jahiliyah. Lalu Allah menurunkan ketentraman pada Rasul-Nya dan orang-orang Mukmin dan menetapkan pada diri mereka keterjagaan dari kesyirikan dan siksa. Mereka adalah orang-orang yang berhak untuk mendapatkannya. Ilmu Allah meliputi segala sesuatu.
 
 # 4609
+
+<!-- TODO:DUPLICATE -->
 
 Penduduk Mekahlah yang kafir dan menghalang-halangi kalian untuk memasuki al-Masjid al-Harâm dan menghalang-halangi hewan kurban yang kalian bawa untuk sampai ke tempat penyembelihannya. Kalau sekiranya tidak karena khawatir bahwa kalian akan menimpakan kesusahan kepada orang-orang Mukmin, laki-laki dan perempuan, yang tidak kalian ketahui yang berada di antara orang-orang kafir Mekah sehingga kalian membunuh mereka yang menyebabkan kalian tercela dan terhina, niscaya Kami akan menjadikan kalian berkuasa atas mereka. Namun Allah menahan kalian dari membinasakan mereka supaya Dia dapat melindungi orang-orang Mukmin yang berada di tengah-tengah mereka dan orang-orang kafir yang masuk Islam. Kalau seandainya orang-orang Mukmin sudah dapat dibedakan, maka Kami pasti akan menghukum orang-orang yang bersikeras dalam kekufuran dengan siksa yang sangat pedih. Yaitu ketika orang-orang kafir menimbulkan kesombongan dalam hati mereka sebagaimana kesombongan jahiliyah. Lalu Allah menurunkan ketentraman pada Rasul-Nya dan orang-orang Mukmin dan menetapkan pada diri mereka keterjagaan dari kesyirikan dan siksa. Mereka adalah orang-orang yang berhak untuk mendapatkannya. Ilmu Allah meliputi segala sesuatu.
 
@@ -18491,6 +18619,8 @@ Wahai orang-orang yang beriman, jika orang yang melanggar syariat Allah datang k
 Wahai orang-orang yang beriman, ketahuilah bahwa Rasulullah ada di kalangan kamu sekalian. Maka, hormatilah ia dengan sebenar-benarnya dan percayailah. Seandainya Rasul itu menuruti orang-orang yang lemah imannya di antara kalian dalam beberapa urusan, niscaya kalian akan berada dalam kesulitan dan kehancuran. Tetapi Allah menjadikan orang-orang yang sempurna di antara kalian cinta kepada keimanan dan menjadikan iman itu indah dalam hati, sehingga kalian terjaga dari gemerlapnya sesuatu yang tidak patut. Allah juga menjadikan kalian benci kepada sifat mengingkari nikmat, keluar dari syariat-Nya dan melanggar perintah-Nya. Mereka itulah orang-orang yang mengetahui jalan petunjuk dan mengikutinya. Yang demikian itu adalah karunia mulia dan nikmat yang besar dari Allah kepada mereka. Allah Maha Mengetahui segala sesuatu lagi Mahabijaksana dalam mengatur segala urusan.
 
 # 4620
+
+<!-- TODO:DUPLICATE -->
 
 Wahai orang-orang yang beriman, ketahuilah bahwa Rasulullah ada di kalangan kamu sekalian. Maka, hormatilah ia dengan sebenar-benarnya dan percayailah. Seandainya Rasul itu menuruti orang-orang yang lemah imannya di antara kalian dalam beberapa urusan, niscaya kalian akan berada dalam kesulitan dan kehancuran. Tetapi Allah menjadikan orang-orang yang sempurna di antara kalian cinta kepada keimanan dan menjadikan iman itu indah dalam hati, sehingga kalian terjaga dari gemerlapnya sesuatu yang tidak patut. Allah juga menjadikan kalian benci kepada sifat mengingkari nikmat, keluar dari syariat-Nya dan melanggar perintah-Nya. Mereka itulah orang-orang yang mengetahui jalan petunjuk dan mengikutinya. Yang demikian itu adalah karunia mulia dan nikmat yang besar dari Allah kepada mereka. Allah Maha Mengetahui segala sesuatu lagi Mahabijaksana dalam mengatur segala urusan.
 
@@ -18586,9 +18716,13 @@ Sebelum mereka, telah banyak umat yang mendustakan para rasul, seperti kaum Nabi
 
 # 4643
 
+<!-- TODO:DUPLICATE -->
+
 Sebelum mereka, telah banyak umat yang mendustakan para rasul, seperti kaum Nabi Nûh, penduduk Rass, kaum Tsamûd, kaum 'Ad, Fir'aun, kaum Nabi Lûth, penduduk Aykah, dan kaum Tubba'. Mereka semua telah mendustakan para rasul yang diutus kepada mereka. Maka, mereka berhak mendapat siksa kehancuran yang Aku janjikan kepada mereka.
 
 # 4644
+
+<!-- TODO:DUPLICATE -->
 
 Sebelum mereka, telah banyak umat yang mendustakan para rasul, seperti kaum Nabi Nûh, penduduk Rass, kaum Tsamûd, kaum 'Ad, Fir'aun, kaum Nabi Lûth, penduduk Aykah, dan kaum Tubba'. Mereka semua telah mendustakan para rasul yang diutus kepada mereka. Maka, mereka berhak mendapat siksa kehancuran yang Aku janjikan kepada mereka.
 
@@ -18633,6 +18767,8 @@ Setan yang menyertai manusia waktu di dunia berkata, "Orang kafir yang ada di si
 Dikatakan kepada kedua malaikat, "Campakkanlah ke dalam neraka setiap orang yang benar-benar kafir, sombong, tidak mau mengikuti kebenaran, orang yang menghalang-halangi setiap kebaikan, orang yang zalim dan menentang kebenaran dan orang yang meragukan Allah dan apa yang diturunkan-Nya.
 
 # 4655
+
+<!-- TODO:DUPLICATE -->
 
 Dikatakan kepada kedua malaikat, "Campakkanlah ke dalam neraka setiap orang yang benar-benar kafir, sombong, tidak mau mengikuti kebenaran, orang yang menghalang-halangi setiap kebaikan, orang yang zalim dan menentang kebenaran dan orang yang meragukan Allah dan apa yang diturunkan-Nya.
 
@@ -18694,6 +18830,8 @@ Jika hal itu telah jelas, maka bersabarlah, wahai Rasul, terhadap kepalsuan dan 
 
 # 4670
 
+<!-- TODO:DUPLICATE -->
+
 Jika hal itu telah jelas, maka bersabarlah, wahai Rasul, terhadap kepalsuan dan kebohongan yang diucapkan oleh orang-orang yang mendustakan di sekitar risalahmu. Sucikanlah Pencipta dan Pemeliharamu dari setiap kekurangan dengan memuji-Nya di setiap pagi dan petang. Sebab nilai ibadah pada saat-saat tersebut amat besar. Bertasbihlah juga kepada-Nya di sebagian malam dan setelah salat.
 
 # 4671
@@ -18701,6 +18839,8 @@ Jika hal itu telah jelas, maka bersabarlah, wahai Rasul, terhadap kepalsuan dan 
 Perhatikanlah berita tentang hari kiamat yang telah dikabarkan kepadamu, yaitu pada hari ketika malaikat penyeru memanggil orang yang dipanggilnya dari tempat yang dekat. Yaitu pada hari ketika mereka mendengar tiupan yang kedua dengan sebenar-benarnya, yaitu hari kebangkitan. Pada waktu itulah manusia dikeluarkan dari kuburnya.
 
 # 4672
+
+<!-- TODO:DUPLICATE -->
 
 Perhatikanlah berita tentang hari kiamat yang telah dikabarkan kepadamu, yaitu pada hari ketika malaikat penyeru memanggil orang yang dipanggilnya dari tempat yang dekat. Yaitu pada hari ketika mereka mendengar tiupan yang kedua dengan sebenar-benarnya, yaitu hari kebangkitan. Pada waktu itulah manusia dikeluarkan dari kuburnya.
 
@@ -18744,6 +18884,8 @@ Sesungguhnya kebangkitan dan lainnya yang telah dijanjikan kepada kalian adalah 
 
 # 4681
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya kebangkitan dan lainnya yang telah dijanjikan kepada kalian adalah benar-benar terjadi. Demikian pula balasan atas semua perbuatan kalian pasti akan terjadi.
 
 # 4682
@@ -18751,6 +18893,8 @@ Sesungguhnya kebangkitan dan lainnya yang telah dijanjikan kepada kalian adalah 
 Aku bersumpah demi langit yang memiliki celah-celah yang teratur, bahwa apa yang kalian katakan itu rancu.
 
 # 4683
+
+<!-- TODO:DUPLICATE -->
 
 Aku bersumpah demi langit yang memiliki celah-celah yang teratur, bahwa apa yang kalian katakan itu rancu.
 
@@ -18763,6 +18907,8 @@ Orang yang dipalingkan dari keimanan terhadap janji yang benar dan pembalasan ya
 Binasalah para pendusta yang berbicara tentang keadaan hari kiamat dengan sangkaan dan khayalan yang tenggelam dalam kebodohan dan lalai terhadap bukti-bukti keimanan.
 
 # 4686
+
+<!-- TODO:DUPLICATE -->
 
 Binasalah para pendusta yang berbicara tentang keadaan hari kiamat dengan sangkaan dan khayalan yang tenggelam dalam kebodohan dan lalai terhadap bukti-bukti keimanan.
 
@@ -18792,6 +18938,8 @@ Mereka selalu tidur sedikit di waktu malam dan sering bangun malam untuk beribad
 
 # 4693
 
+<!-- TODO:DUPLICATE -->
+
 Mereka selalu tidur sedikit di waktu malam dan sering bangun malam untuk beribadah. Dan pada akhir malam mereka selalu meminta ampunan Tuhan.
 
 # 4694
@@ -18820,6 +18968,8 @@ Tahukah kamu tentang kisah para malaikat yang menjadi tamu terhormat Nabi Ibrâh
 
 # 4700
 
+<!-- TODO:DUPLICATE -->
+
 Tahukah kamu tentang kisah para malaikat yang menjadi tamu terhormat Nabi Ibrâhîm. Ketika masuk, para malaikat itu mengucapkan, "Salam sejahtera." Ibrâhîm pun menjawab, "Salam sejahtera. Kalian adalah orang-orang yang tak dikenal."
 
 # 4701
@@ -18827,6 +18977,8 @@ Tahukah kamu tentang kisah para malaikat yang menjadi tamu terhormat Nabi Ibrâh
 Ibrâhîm pergi menemui isterinya dengan diam-diam. Kemudian ia datang dengan membawa daging anak sapi yang gemuk. Daging itu pun didekatkan kepada mereka. Tetapi mereka tidak memakannya. Dengan nada menolak sikap mereka, Ibrâhîm berkata, "Silahkan kalian makan?"
 
 # 4702
+
+<!-- TODO:DUPLICATE -->
 
 Ibrâhîm pergi menemui isterinya dengan diam-diam. Kemudian ia datang dengan membawa daging anak sapi yang gemuk. Daging itu pun didekatkan kepada mereka. Tetapi mereka tidak memakannya. Dengan nada menolak sikap mereka, Ibrâhîm berkata, "Silahkan kalian makan?"
 
@@ -18852,9 +19004,13 @@ Mereka menjawab, "Sesungguhnya kami diutus kepada suatu kaum yang keterlaluan da
 
 # 4708
 
+<!-- TODO:DUPLICATE -->
+
 Mereka menjawab, "Sesungguhnya kami diutus kepada suatu kaum yang keterlaluan dalam berbuat maksiat untuk melempar mereka dengan bebatuan yang hanya diketahui bentuknya oleh Allah. Bebatuan tersebut diberi tanda khusus dari Tuhanmu untuk orang-orang yang melampaui batas dalam kejahatan."
 
 # 4709
+
+<!-- TODO:DUPLICATE -->
 
 Mereka menjawab, "Sesungguhnya kami diutus kepada suatu kaum yang keterlaluan dalam berbuat maksiat untuk melempar mereka dengan bebatuan yang hanya diketahui bentuknya oleh Allah. Bebatuan tersebut diberi tanda khusus dari Tuhanmu untuk orang-orang yang melampaui batas dalam kejahatan."
 
@@ -18863,6 +19019,8 @@ Mereka menjawab, "Sesungguhnya kami diutus kepada suatu kaum yang keterlaluan da
 Kami memutuskan untuk mengeluarkan orang-orang Mukmin yang ada di negeri itu hingga tidak Kami dapati di situ kecuali penghuni sebuah rumah yang berserah diri.
 
 # 4711
+
+<!-- TODO:DUPLICATE -->
 
 Kami memutuskan untuk mengeluarkan orang-orang Mukmin yang ada di negeri itu hingga tidak Kami dapati di situ kecuali penghuni sebuah rumah yang berserah diri.
 
@@ -18896,6 +19054,8 @@ Dan dalam kisah kaum Tsamûd juga terdapat tanda kekuasaan Allah. Yaitu ketika d
 
 # 4719
 
+<!-- TODO:DUPLICATE -->
+
 Dan dalam kisah kaum Tsamûd juga terdapat tanda kekuasaan Allah. Yaitu ketika dikatakan kepada mereka, "Bersenang-senanglah di negeri kalian sampai waktu yang ditentukan." Mereka enggan dan berlaku angkuh, tidak memenuhi perintah Tuhan. Maka mereka disambar petir sampai binasa. Mereka menyaksikan sendiri peristiwa itu terjadi pada mereka.
 
 # 4720
@@ -18912,6 +19072,8 @@ Langit itu Kami kokohkan dengan kekuatan Kami. Sesungguhnya Kami mampu menjadika
 
 # 4723
 
+<!-- TODO:DUPLICATE -->
+
 Langit itu Kami kokohkan dengan kekuatan Kami. Sesungguhnya Kami mampu menjadikannya lebih dari itu. (1) Dan bumi itu Kami bentangkan. Maka sebaik-baik yang mempersiapkannya untuk tempat tinggal adalah Kami. (1) Ayat ini mengisyaratkan beberapa rahasia ilmiah. Di antaranya, bahwa Allah Swt. menciptakan alam yang luas ini dengan kekuasaan-Nya. Dia Mahakuasa atas segala sesuatu. Kata samâ' (langit) pada ayat tersebut dimaksudkan sebagai segala sesuatu yang ada di atas dan menaungi. Maka, segala sesuatu yang ada di sekitar benda-benada langit seperti planet, bintang, tata surya dan galaksi juga disebut langit. Bagian alam raya yang terlihat ini amatlah luas, tak terbayangkan dan tak terbatas, sebab jaraknya bisa mencapai jutaan tahun cahaya. Menurut ilmu pengetahuan modern, satu tahun cahaya berarti jarak yang dilalui cahaya dengan kecepatan 300. 000 km per detik. Frase "Wa Innâ Lamûsi'ûn" ('dan Kami meluaskannya') menunjukkan hal itu. Artinya, Kami meluaskan alam tersebut dengan sebegitu luasnya sejak diciptakan. Ayat tersebut juga menunjukkan bahwa meluasnya alam terus berlangsung sepanjang masa. Ini juga telah ditemukan dalam ilmu pengetahuan modern yang dikenal dengan teori ekspansi. Menurut teori tersebut, nebula di luar galaksi tempat kita tinggal menjauh dari kita dengan kecepatan yang berbeda-beda. Bahkan benda-benda langit dalam satu galaksi pun saling menjauh satu sama lainnya.
 
 # 4724
@@ -18923,6 +19085,8 @@ Segala sesuatu Kami ciptakan dua jenis yang berpasang-pasangan agar kalian ingat
 Maka bersegeralah taat kepada Allah. Jangan kalian jadikan tuhan yang lain bersama Allah. Sesungguhnya aku adalah utusan Allah sebagai pemberi peringatan yang jelas tentang akibat syirik.
 
 # 4726
+
+<!-- TODO:DUPLICATE -->
 
 Maka bersegeralah taat kepada Allah. Jangan kalian jadikan tuhan yang lain bersama Allah. Sesungguhnya aku adalah utusan Allah sebagai pemberi peringatan yang jelas tentang akibat syirik.
 
@@ -19002,6 +19166,8 @@ Sesungguhnya azab Tuhanmu yang dijanjikan untuk orang-orang kafir pasti akan tur
 
 # 4743
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya azab Tuhanmu yang dijanjikan untuk orang-orang kafir pasti akan turun kepada mereka. Tidak ada seorang pun yang dapat menghalangi mereka dari siksaan itu.
 
 # 4744
@@ -19010,6 +19176,8 @@ Pada hari ketika langit tergoncang dengan kerasnya dan secara jelas-jelas gunung
 
 # 4745
 
+<!-- TODO:DUPLICATE -->
+
 Pada hari ketika langit tergoncang dengan kerasnya dan secara jelas-jelas gunung berpindah dari tempat asalnya.
 
 # 4746
@@ -19017,6 +19185,8 @@ Pada hari ketika langit tergoncang dengan kerasnya dan secara jelas-jelas gunung
 Maka kebinasaan yang besarlah pada hari itu untuk orang-orang yang mendustakan kebenaran. Yaitu orang-orang yang bermain-main dalam kepalsuan.
 
 # 4747
+
+<!-- TODO:DUPLICATE -->
 
 Maka kebinasaan yang besarlah pada hari itu untuk orang-orang yang mendustakan kebenaran. Yaitu orang-orang yang bermain-main dalam kepalsuan.
 
@@ -19078,6 +19248,8 @@ Mereka berkata, "Sesungguhnya, sebelum memperoleh kenikmatan ini, kami takut kep
 
 # 4762
 
+<!-- TODO:DUPLICATE -->
+
 Mereka berkata, "Sesungguhnya, sebelum memperoleh kenikmatan ini, kami takut kepada Allah ketika kami berada di tengah-tengah keluarga kami, sehingga Allah menganugerahkan kasih sayang-Nya kepada kami dan menjaga kami dari api neraka.
 
 # 4763
@@ -19093,6 +19265,8 @@ Maka tetaplah kamu memberi peringatan, dan--dengan nikmat kenabian dan kepandaia
 Bahkan apakah mereka mengatakan, "Ia adalah seorang penyair yang kami tunggu-tunggu kematiannya." Katakanlah kepada mereka, sebagai ancaman, "Tunggulah, sesungguhnya aku pun termasuk orang-orang yang menunggu kesudahan diriku dan diri kalian."
 
 # 4766
+
+<!-- TODO:DUPLICATE -->
 
 Bahkan apakah mereka mengatakan, "Ia adalah seorang penyair yang kami tunggu-tunggu kematiannya." Katakanlah kepada mereka, sebagai ancaman, "Tunggulah, sesungguhnya aku pun termasuk orang-orang yang menunggu kesudahan diriku dan diri kalian."
 
@@ -19196,6 +19370,8 @@ Yang mempunyai pendapat dan akal yang cerdas. Malaikat itu menampakkan diri dala
 
 # 4791
 
+<!-- TODO:DUPLICATE -->
+
 Yang mempunyai pendapat dan akal yang cerdas. Malaikat itu menampakkan diri dalam bentuk aslinya dan berada di tempat yang tinggi di langit yang berhadapan dengan orang yang menengadah kepadanya.
 
 # 4792
@@ -19203,6 +19379,8 @@ Yang mempunyai pendapat dan akal yang cerdas. Malaikat itu menampakkan diri dala
 Kemudian Jibril mendekat lalu mendekat lagi hingga jaraknya mencapai jarak dua busur bahkan lebih.
 
 # 4793
+
+<!-- TODO:DUPLICATE -->
 
 Kemudian Jibril mendekat lalu mendekat lagi hingga jaraknya mencapai jarak dua busur bahkan lebih.
 
@@ -19224,17 +19402,25 @@ Muhammad telah melihat Jibril dalam bentuknya yang asli sekali lagi di suatu tem
 
 # 4798
 
+<!-- TODO:DUPLICATE -->
+
 Muhammad telah melihat Jibril dalam bentuknya yang asli sekali lagi di suatu tempat yang tidak diketahui oleh selain Allah, yaitu sidratulmuntaha (sidrat al-muntahâ). Jibril mengabarkan Muhammad bahwa Allah mempunyai surga tempat tinggal yang penuh dengan karunia yang tak tergambarkan. Pandangan Muhammad tidak berpaling dari apa yang dilihat itu dan tidak melampaui batas perintah untuk melihat.
 
 # 4799
+
+<!-- TODO:DUPLICATE -->
 
 Muhammad telah melihat Jibril dalam bentuknya yang asli sekali lagi di suatu tempat yang tidak diketahui oleh selain Allah, yaitu sidratulmuntaha (sidrat al-muntahâ). Jibril mengabarkan Muhammad bahwa Allah mempunyai surga tempat tinggal yang penuh dengan karunia yang tak tergambarkan. Pandangan Muhammad tidak berpaling dari apa yang dilihat itu dan tidak melampaui batas perintah untuk melihat.
 
 # 4800
 
+<!-- TODO:DUPLICATE -->
+
 Muhammad telah melihat Jibril dalam bentuknya yang asli sekali lagi di suatu tempat yang tidak diketahui oleh selain Allah, yaitu sidratulmuntaha (sidrat al-muntahâ). Jibril mengabarkan Muhammad bahwa Allah mempunyai surga tempat tinggal yang penuh dengan karunia yang tak tergambarkan. Pandangan Muhammad tidak berpaling dari apa yang dilihat itu dan tidak melampaui batas perintah untuk melihat.
 
 # 4801
+
+<!-- TODO:DUPLICATE -->
 
 Muhammad telah melihat Jibril dalam bentuknya yang asli sekali lagi di suatu tempat yang tidak diketahui oleh selain Allah, yaitu sidratulmuntaha (sidrat al-muntahâ). Jibril mengabarkan Muhammad bahwa Allah mempunyai surga tempat tinggal yang penuh dengan karunia yang tak tergambarkan. Pandangan Muhammad tidak berpaling dari apa yang dilihat itu dan tidak melampaui batas perintah untuk melihat.
 
@@ -19247,6 +19433,8 @@ Ia benar-benar telah melihat banyak sekali ayat-ayat Allah dan keajaiban-keajaib
 Apakah kalian mengetahui hal itu sehingga memikirkan Lât, 'Uzzâ dan, ketiga, Manât yang kalian jadikan tuhan-tuhan sembahan kalian?
 
 # 4804
+
+<!-- TODO:DUPLICATE -->
 
 Apakah kalian mengetahui hal itu sehingga memikirkan Lât, 'Uzzâ dan, ketiga, Manât yang kalian jadikan tuhan-tuhan sembahan kalian?
 
@@ -19267,6 +19455,8 @@ Patung-patung itu tidak lain hanyalah nama yang tak mengandung makna ketuhanan. 
 Bahkan manusia sama sekali tidak mendapatkan syafaat patung-patung tersebut atau keinginan- keinginan lain yang dia cita-citakan. Hanya kepunyaan Allahlah perkara akhirat dan dunia seluruhnya.
 
 # 4809
+
+<!-- TODO:DUPLICATE -->
 
 Bahkan manusia sama sekali tidak mendapatkan syafaat patung-patung tersebut atau keinginan- keinginan lain yang dia cita-citakan. Hanya kepunyaan Allahlah perkara akhirat dan dunia seluruhnya.
 
@@ -19304,9 +19494,13 @@ Tidakkah kamu merenung lalu melihat orang yang berpaling dari kebenaran dan memb
 
 # 4818
 
+<!-- TODO:DUPLICATE -->
+
 Tidakkah kamu merenung lalu melihat orang yang berpaling dari kebenaran dan memberi sedikit hartanya kemudian tidak mau memberi lagi? Apakah orang itu mempunyai pengetahuan tentang alam gaib, sehingga ia mengetahui apa yang mendorongnya untuk berpaling dari kebenaran dan kikir dalam membelanjakan harta?
 
 # 4819
+
+<!-- TODO:DUPLICATE -->
 
 Tidakkah kamu merenung lalu melihat orang yang berpaling dari kebenaran dan memberi sedikit hartanya kemudian tidak mau memberi lagi? Apakah orang itu mempunyai pengetahuan tentang alam gaib, sehingga ia mengetahui apa yang mendorongnya untuk berpaling dari kebenaran dan kikir dalam membelanjakan harta?
 
@@ -19316,9 +19510,13 @@ Ataukah belum diberitakan kepadanya apa yang ada di dalam lembaran-lembaran Mûs
 
 # 4821
 
+<!-- TODO:DUPLICATE -->
+
 Ataukah belum diberitakan kepadanya apa yang ada di dalam lembaran-lembaran Mûsâ dan Ibrâhîm yang telah mencapai puncak kesetiaan dalam menepati janji Allah, bahwa seseorang tidak akan memikul dosa orang lain?
 
 # 4822
+
+<!-- TODO:DUPLICATE -->
 
 Ataukah belum diberitakan kepadanya apa yang ada di dalam lembaran-lembaran Mûsâ dan Ibrâhîm yang telah mencapai puncak kesetiaan dalam menepati janji Allah, bahwa seseorang tidak akan memikul dosa orang lain?
 
@@ -19352,6 +19550,8 @@ Bahwa Dia menciptakan pasangan--laki-laki dan perempuan, jantan dan betina--pada
 
 # 4830
 
+<!-- TODO:DUPLICATE -->
+
 Bahwa Dia menciptakan pasangan--laki-laki dan perempuan, jantan dan betina--pada manusia dan binatang dari air mani yang memancar. (1) Ayat ini menunjukkan kemahakuasaan Allah yang menciptakan pasangan--laki-laki dan perempuan pada manusia dan jantan dan betina pada binatang--dari sperma yang proses pengeluarannya dilakukan bersama oleh laki-laki dan perempuan. Meski kandungan sperma itu begitu halus dan sangat kecil, ia merupakan sumber kehidupan dan penghidupan. Dengan demikian, ayat ini merupakan salah satu bentuk kemukjizatan al-Qur'ân yang sejak dini telah mengungkap suatu fakta sebelum ditemukan oleh ilmu pengetahuan, yaitu bahwa di dalam cairan laki-laki terdapat spermatozoa dan di dalam cairan wanita terdapat ovum. Apabila kedua cairan itu bertemu dan menyatu maka akan tejadi pembuahan dan kehamilan
 
 # 4831
@@ -19372,6 +19572,8 @@ Dan bahwa Dia telah membinasakan kaum 'Ad pertama, umat Nabi Hûd, dan membinasa
 
 # 4835
 
+<!-- TODO:DUPLICATE -->
+
 Dan bahwa Dia telah membinasakan kaum 'Ad pertama, umat Nabi Hûd, dan membinasakan kaum Tsamûd, umat Nabi Shâlih. Tidak ada seorang pun yang tersisa hidup.
 
 # 4836
@@ -19388,6 +19590,8 @@ Mereka kemudian ditimpa azab yang besar. Maka nikmat Tuhanmu yang manakah yang k
 
 # 4839
 
+<!-- TODO:DUPLICATE -->
+
 Mereka kemudian ditimpa azab yang besar. Maka nikmat Tuhanmu yang manakah yang kamu ragukan?
 
 # 4840
@@ -19400,6 +19604,8 @@ Hari kiamat telah dekat. Tidak ada yang mengetahui waktu terjadinya selain Allah
 
 # 4842
 
+<!-- TODO:DUPLICATE -->
+
 Hari kiamat telah dekat. Tidak ada yang mengetahui waktu terjadinya selain Allah.
 
 # 4843
@@ -19408,9 +19614,13 @@ Apakah kalian mengingkari setiap kebenaran sehingga kalian merasa heran dan meng
 
 # 4844
 
+<!-- TODO:DUPLICATE -->
+
 Apakah kalian mengingkari setiap kebenaran sehingga kalian merasa heran dan mengingkari al-Qur'ân? Lalu kalian tertawa sebagai hinaan dan cemoohan--bukan malah menangis seperti yang dilakukan orang-orang yang yakin--dalam keadaan lengah dan sombong?
 
 # 4845
+
+<!-- TODO:DUPLICATE -->
 
 Apakah kalian mengingkari setiap kebenaran sehingga kalian merasa heran dan mengingkari al-Qur'ân? Lalu kalian tertawa sebagai hinaan dan cemoohan--bukan malah menangis seperti yang dilakukan orang-orang yang yakin--dalam keadaan lengah dan sombong?
 
@@ -19464,6 +19674,8 @@ Lalu Kami membuka pintu-pintu langit yang kemudian menumpahkan air yang amat ban
 
 # 4858
 
+<!-- TODO:DUPLICATE -->
+
 Lalu Kami membuka pintu-pintu langit yang kemudian menumpahkan air yang amat banyak dan beruntun. Dari dalam tanah, Kami juga memancarkan sumber mata air. Dengan demikian, bertemulah air langit dan air bumi yang membinasakan mereka sesuai dengan ketetapan Allah.
 
 # 4859
@@ -19471,6 +19683,8 @@ Lalu Kami membuka pintu-pintu langit yang kemudian menumpahkan air yang amat ban
 Kami mengangkut Nûh di atas bahtera yang terbuat dari kayu dan ikatan yang mengencangkan papan-papannya. Bahtera tersebut berlayar di atas air di bawah pengawasan Kami sebagai balasan bagi Nûh yang seruannya selalu didustakan oleh kaumnya.
 
 # 4860
+
+<!-- TODO:DUPLICATE -->
 
 Kami mengangkut Nûh di atas bahtera yang terbuat dari kayu dan ikatan yang mengencangkan papan-papannya. Bahtera tersebut berlayar di atas air di bawah pengawasan Kami sebagai balasan bagi Nûh yang seruannya selalu didustakan oleh kaumnya.
 
@@ -19495,6 +19709,8 @@ Kaum 'Ad telah mendustakan Hûd, seorang rasul yang diutus kepada mereka. Alangk
 Kami meniupkan kepada mereka angin dingin disertai dengan gemuruh petir pada hari nahas yang terus-menerus. Angin tersebut mengangkat dan melempar mereka dari tempat tinggalnya sehingga bergelimpangan di atas tanah bagai pokok kurma yang tumbang.
 
 # 4866
+
+<!-- TODO:DUPLICATE -->
 
 Kami meniupkan kepada mereka angin dingin disertai dengan gemuruh petir pada hari nahas yang terus-menerus. Angin tersebut mengangkat dan melempar mereka dari tempat tinggalnya sehingga bergelimpangan di atas tanah bagai pokok kurma yang tumbang.
 
@@ -19536,6 +19752,8 @@ Mereka memanggil kawannya yang kemudian bersiap-siap menangkap dan menyembelih u
 
 # 4876
 
+<!-- TODO:DUPLICATE -->
+
 Mereka memanggil kawannya yang kemudian bersiap-siap menangkap dan menyembelih unta itu. Alangkah dahsyatnya siksa dan peringatan-Ku bagi orang-orang yang melanggar!
 
 # 4877
@@ -19556,6 +19774,8 @@ Kami telah meniupkan angin keras yang melemparkan bebatuan kepada mereka, kecual
 
 # 4881
 
+<!-- TODO:DUPLICATE -->
+
 Kami telah meniupkan angin keras yang melemparkan bebatuan kepada mereka, kecuali kaum Nabi Lûth yang beriman yang Kami selamatkan dari azab ini saat menjelang fajar, sebagai sebuah pemberian nikmat Kami untuk mereka. Dengan nikmat yang besar seperti itu, Kami memberikan balasan kepada orang yang mensyukuri nikmat Kami dengan cara beriman dan patuh.
 
 # 4882
@@ -19571,6 +19791,8 @@ Mereka membujuk Lûth supaya menyerahkan tamunya kepada mereka. Mata mereka kemu
 Pagi-pagi sekali mereka telah dikejutkan oleh siksaan yang telah ditetapkan dan kekal. Dikatakan kepada mereka, "Rasakanlah azab dan ancaman-ancaman-Ku ini."
 
 # 4885
+
+<!-- TODO:DUPLICATE -->
 
 Pagi-pagi sekali mereka telah dikejutkan oleh siksaan yang telah ditetapkan dan kekal. Dikatakan kepada mereka, "Rasakanlah azab dan ancaman-ancaman-Ku ini."
 
@@ -19654,6 +19876,8 @@ Dia menciptakan dan mengajarkan manusia kemampuan menjelaskan apa yang ada dalam
 
 # 4905
 
+<!-- TODO:DUPLICATE -->
+
 Dia menciptakan dan mengajarkan manusia kemampuan menjelaskan apa yang ada dalam dirinya, untuk membedakan dirinya dari makhluk lain.
 
 # 4906
@@ -19669,6 +19893,8 @@ Tetumbuhan yang tak berbatang dan pepohonan yang berbatang dan berdiri tegak, se
 Langit diciptakan-Nya begitu tinggi. Dia menetapkan keadilan agar kalian tidak melampaui batas.
 
 # 4909
+
+<!-- TODO:DUPLICATE -->
 
 Langit diciptakan-Nya begitu tinggi. Dia menetapkan keadilan agar kalian tidak melampaui batas.
 
@@ -19698,6 +19924,8 @@ Dia menciptakan bangsa manusia dari tanah kering yang tidak dibakar seperti temb
 
 # 4916
 
+<!-- TODO:DUPLICATE -->
+
 Dia menciptakan bangsa manusia dari tanah kering yang tidak dibakar seperti tembikar. Sedangkan bangsa jin diciptakan-Nya dari nyala api yang murni.
 
 # 4917
@@ -19717,6 +19945,8 @@ Lalu, nikmat Tuhan yang manakah yang kalian ingkari?
 Allah melepas dua lautan, tawar dan asin, saling berdampingan dan bertemu pada permukaannya. Di antara kedua lautan itu terdapat pembatas yang merupakan kekuasaan Allah. Masing-masing tidak melampaui yang lain sehingga tidak bercampur.
 
 # 4921
+
+<!-- TODO:DUPLICATE -->
 
 Allah melepas dua lautan, tawar dan asin, saling berdampingan dan bertemu pada permukaannya. Di antara kedua lautan itu terdapat pembatas yang merupakan kekuasaan Allah. Masing-masing tidak melampaui yang lain sehingga tidak bercampur.
 
@@ -19745,6 +19975,8 @@ Lalu, nikmat Tuhan yang manakah yang kalian ingkari?
 Semua yang ada di muka bumi akan binasa, kecuali Allah yang mempunyai kebesaran dan kemuliaan.
 
 # 4928
+
+<!-- TODO:DUPLICATE -->
 
 Semua yang ada di muka bumi akan binasa, kecuali Allah yang mempunyai kebesaran dan kemuliaan.
 
@@ -19813,6 +20045,8 @@ Maka, nikmat Tuhan yang manakah yang kalian ingkari?
 Dikatakan kepada mereka, dengan nada mengecam, "Inilah neraka jahanam yang didustakan oleh para pelaku kejahatan di antara kalian." Mereka berkeliling di antaranya dan di antara air yang mendidih yang sangat panas.
 
 # 4945
+
+<!-- TODO:DUPLICATE -->
 
 Dikatakan kepada mereka, dengan nada mengecam, "Inilah neraka jahanam yang didustakan oleh para pelaku kejahatan di antara kalian." Mereka berkeliling di antaranya dan di antara air yang mendidih yang sangat panas.
 
@@ -19996,6 +20230,8 @@ Pertama, golongan kanan yang mempunyai kedudukan tinggi. Alangkah mulianya kedud
 
 # 4988
 
+<!-- TODO:DUPLICATE -->
+
 Pertama, golongan kanan yang mempunyai kedudukan tinggi. Alangkah mulianya kedudukan golongan itu! Kedua, golongan kiri yang merupakan golongan terendah. Alangkah buruknya keadaan mereka!
 
 # 4989
@@ -20004,9 +20240,13 @@ Ketiga, orang-orang yang berbuat kebaikan di dunia di garis terdepan. Mereka itu
 
 # 4990
 
+<!-- TODO:DUPLICATE -->
+
 Ketiga, orang-orang yang berbuat kebaikan di dunia di garis terdepan. Mereka itulah orang-orang yang terlebih dahulu akan memperoleh derajat yang tinggi di akhirat. Mereka adalah orang-orang yang didekatkan kepada Allah. Allah akan memasukkan mereka ke dalam surga-surga yang penuh kenikmatan.
 
 # 4991
+
+<!-- TODO:DUPLICATE -->
 
 Ketiga, orang-orang yang berbuat kebaikan di dunia di garis terdepan. Mereka itulah orang-orang yang terlebih dahulu akan memperoleh derajat yang tinggi di akhirat. Mereka adalah orang-orang yang didekatkan kepada Allah. Allah akan memasukkan mereka ke dalam surga-surga yang penuh kenikmatan.
 
@@ -20016,6 +20256,8 @@ Orang-orang yang terdekat itu adalah sekelompok besar umat-umat terdahulu bersam
 
 # 4993
 
+<!-- TODO:DUPLICATE -->
+
 Orang-orang yang terdekat itu adalah sekelompok besar umat-umat terdahulu bersama nabi mereka masing-masing dan sedikit dari umat Muhammad, jika dibandingkan dengan jumlah mereka.
 
 # 4994
@@ -20024,6 +20266,8 @@ Mereka berada di atas dipan yang dihiasi dengan permata-permata yang indah sambi
 
 # 4995
 
+<!-- TODO:DUPLICATE -->
+
 Mereka berada di atas dipan yang dihiasi dengan permata-permata yang indah sambil bertelekan dengan tenang. Wajah mereka berhadap-hadapan sebagai tanda bertambahnya kecintaan.
 
 # 4996
@@ -20031,6 +20275,8 @@ Mereka berada di atas dipan yang dihiasi dengan permata-permata yang indah sambi
 Mereka dikelilingi oleh dua anak yang selalu muda yang siap melayani mereka dengan membawa ceret dan sloki yang dipenuhi dengan minuman surga. Mereka juga membawa gelas yang penuh dengan khamar dari mata air yang mengalir.
 
 # 4997
+
+<!-- TODO:DUPLICATE -->
 
 Mereka dikelilingi oleh dua anak yang selalu muda yang siap melayani mereka dengan membawa ceret dan sloki yang dipenuhi dengan minuman surga. Mereka juga membawa gelas yang penuh dengan khamar dari mata air yang mengalir.
 
@@ -20044,6 +20290,8 @@ Para pelayan itu juga membawakan buah-buahan, dengan berbagai macam jenis yang d
 
 # 5000
 
+<!-- TODO:DUPLICATE -->
+
 Para pelayan itu juga membawakan buah-buahan, dengan berbagai macam jenis yang dapat mereka pilih dan lihat, dan daging burung yang mereka inginkan.
 
 # 5001
@@ -20052,9 +20300,13 @@ Di sana juga terdapat wanita-wanita yang bermata lebar. Kebeningan dan keangguna
 
 # 5002
 
+<!-- TODO:DUPLICATE -->
+
 Di sana juga terdapat wanita-wanita yang bermata lebar. Kebeningan dan keanggunannya bagaikan mutiara yang terlindungi. Balasan ini diberikan kepada mereka yang berbuat saleh di dunia.
 
 # 5003
+
+<!-- TODO:DUPLICATE -->
 
 Di sana juga terdapat wanita-wanita yang bermata lebar. Kebeningan dan keanggunannya bagaikan mutiara yang terlindungi. Balasan ini diberikan kepada mereka yang berbuat saleh di dunia.
 
@@ -20063,6 +20315,8 @@ Di sana juga terdapat wanita-wanita yang bermata lebar. Kebeningan dan keangguna
 Di dalam surga, mereka tidak mendengar ucapan-ucapan yang tidak bermanfaat dan perbincangan yang menimbulkan dosa bagi pendengarnya, selain ucapan sesama mereka, "Kami sampaikan salam sejahtera."
 
 # 5005
+
+<!-- TODO:DUPLICATE -->
 
 Di dalam surga, mereka tidak mendengar ucapan-ucapan yang tidak bermanfaat dan perbincangan yang menimbulkan dosa bagi pendengarnya, selain ucapan sesama mereka, "Kami sampaikan salam sejahtera."
 
@@ -20076,25 +20330,37 @@ Mereka berada di antara pohon bidara yang tidak berduri dan pohon pisang yang be
 
 # 5008
 
+<!-- TODO:DUPLICATE -->
+
 Mereka berada di antara pohon bidara yang tidak berduri dan pohon pisang yang bersusun-susun buahnya, naungan yang terbentang luas, air yang dituangkan ke bejana sesuka mereka, buah-buahan yang banyak macam dan jenisnya yang tidak terputus-putus setiap masa dan tidak terlarang bagi yang menghendakinya dan kasur yang tebal dan empuk.
 
 # 5009
+
+<!-- TODO:DUPLICATE -->
 
 Mereka berada di antara pohon bidara yang tidak berduri dan pohon pisang yang bersusun-susun buahnya, naungan yang terbentang luas, air yang dituangkan ke bejana sesuka mereka, buah-buahan yang banyak macam dan jenisnya yang tidak terputus-putus setiap masa dan tidak terlarang bagi yang menghendakinya dan kasur yang tebal dan empuk.
 
 # 5010
 
+<!-- TODO:DUPLICATE -->
+
 Mereka berada di antara pohon bidara yang tidak berduri dan pohon pisang yang bersusun-susun buahnya, naungan yang terbentang luas, air yang dituangkan ke bejana sesuka mereka, buah-buahan yang banyak macam dan jenisnya yang tidak terputus-putus setiap masa dan tidak terlarang bagi yang menghendakinya dan kasur yang tebal dan empuk.
 
 # 5011
+
+<!-- TODO:DUPLICATE -->
 
 Mereka berada di antara pohon bidara yang tidak berduri dan pohon pisang yang bersusun-susun buahnya, naungan yang terbentang luas, air yang dituangkan ke bejana sesuka mereka, buah-buahan yang banyak macam dan jenisnya yang tidak terputus-putus setiap masa dan tidak terlarang bagi yang menghendakinya dan kasur yang tebal dan empuk.
 
 # 5012
 
+<!-- TODO:DUPLICATE -->
+
 Mereka berada di antara pohon bidara yang tidak berduri dan pohon pisang yang bersusun-susun buahnya, naungan yang terbentang luas, air yang dituangkan ke bejana sesuka mereka, buah-buahan yang banyak macam dan jenisnya yang tidak terputus-putus setiap masa dan tidak terlarang bagi yang menghendakinya dan kasur yang tebal dan empuk.
 
 # 5013
+
+<!-- TODO:DUPLICATE -->
 
 Mereka berada di antara pohon bidara yang tidak berduri dan pohon pisang yang bersusun-susun buahnya, naungan yang terbentang luas, air yang dituangkan ke bejana sesuka mereka, buah-buahan yang banyak macam dan jenisnya yang tidak terputus-putus setiap masa dan tidak terlarang bagi yang menghendakinya dan kasur yang tebal dan empuk.
 
@@ -20104,13 +20370,19 @@ Sesungguhnya Kami yang memulai penciptaan bidadari dalam bentuk gadis-gadis pera
 
 # 5015
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya Kami yang memulai penciptaan bidadari dalam bentuk gadis-gadis perawan. Bidadari tersebut sangat dicintai oleh pasangan-pasangan mereka. Masing-masing dengan umur yang berdekatan. Mereka itu disediakan untuk golongan kanan.
 
 # 5016
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya Kami yang memulai penciptaan bidadari dalam bentuk gadis-gadis perawan. Bidadari tersebut sangat dicintai oleh pasangan-pasangan mereka. Masing-masing dengan umur yang berdekatan. Mereka itu disediakan untuk golongan kanan.
 
 # 5017
+
+<!-- TODO:DUPLICATE -->
 
 Sesungguhnya Kami yang memulai penciptaan bidadari dalam bentuk gadis-gadis perawan. Bidadari tersebut sangat dicintai oleh pasangan-pasangan mereka. Masing-masing dengan umur yang berdekatan. Mereka itu disediakan untuk golongan kanan.
 
@@ -20119,6 +20391,8 @@ Sesungguhnya Kami yang memulai penciptaan bidadari dalam bentuk gadis-gadis pera
 Golongan kanan itu adalah kelompok yang banyak dari umat-umat terdahulu dan umat Muhammad.
 
 # 5019
+
+<!-- TODO:DUPLICATE -->
 
 Golongan kanan itu adalah kelompok yang banyak dari umat-umat terdahulu dan umat Muhammad.
 
@@ -20132,9 +20406,13 @@ Mereka dalam siksaan angin panas yang menembus pori-pori dan mengelilingi mereka
 
 # 5022
 
+<!-- TODO:DUPLICATE -->
+
 Mereka dalam siksaan angin panas yang menembus pori-pori dan mengelilingi mereka. Air yang panas mendidih diminumkan kepada mereka dan dituangkan ke kepala. Mereka berada di bawah naungan asap panas yang hitam, tidak sejuk sehingga dapat meringankan panasnya udara dan tidak menyenangkan bila mereka menghirupnya.
 
 # 5023
+
+<!-- TODO:DUPLICATE -->
 
 Mereka dalam siksaan angin panas yang menembus pori-pori dan mengelilingi mereka. Air yang panas mendidih diminumkan kepada mereka dan dituangkan ke kepala. Mereka berada di bawah naungan asap panas yang hitam, tidak sejuk sehingga dapat meringankan panasnya udara dan tidak menyenangkan bila mereka menghirupnya.
 
@@ -20160,6 +20438,8 @@ Katakanlah, sebagai jawaban atas keingkaran mereka, "Sesungguhnya orang-orang te
 
 # 5029
 
+<!-- TODO:DUPLICATE -->
+
 Katakanlah, sebagai jawaban atas keingkaran mereka, "Sesungguhnya orang-orang terdahulu dan yang datang kemudian, termasuk kalian, akan dikumpulkan pada waktu dan hari yang telah ditentukan dan tidak dilampaui oleh seorang pun dari mereka.
 
 # 5030
@@ -20168,9 +20448,13 @@ Sesungguhnya kalian, hai orang-orang yang ingkar terhadap kebenaran dan mendusta
 
 # 5031
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya kalian, hai orang-orang yang ingkar terhadap kebenaran dan mendustakan hari kebangkitan, akan memakan buah dari pohon zaqqum. Kalian akan mengisi perut dengan buah itu karena rasa lapar yang sangat.
 
 # 5032
+
+<!-- TODO:DUPLICATE -->
 
 Sesungguhnya kalian, hai orang-orang yang ingkar terhadap kebenaran dan mendustakan hari kebangkitan, akan memakan buah dari pohon zaqqum. Kalian akan mengisi perut dengan buah itu karena rasa lapar yang sangat.
 
@@ -20179,6 +20463,8 @@ Sesungguhnya kalian, hai orang-orang yang ingkar terhadap kebenaran dan mendusta
 Setelah memakan buah itu, kalian meminum air yang sangat panas dan tidak menghilangkan dahaga. Kalian meminumnya dengan sangat banyak seperti seekor unta yang kehausan. Meski demikian, rasa dahaga itu tidak akan hilang."
 
 # 5034
+
+<!-- TODO:DUPLICATE -->
 
 Setelah memakan buah itu, kalian meminum air yang sangat panas dan tidak menghilangkan dahaga. Kalian meminumnya dengan sangat banyak seperti seekor unta yang kehausan. Meski demikian, rasa dahaga itu tidak akan hilang."
 
@@ -20196,6 +20482,8 @@ Apakah kalian melihat air mani yang kalian pancarkan ke dalam rahim? Apakah kali
 
 # 5038
 
+<!-- TODO:DUPLICATE -->
+
 Apakah kalian melihat air mani yang kalian pancarkan ke dalam rahim? Apakah kalian yang memberikan ukurannya dan menghantarkannya dalam beberapa fase hingga menjadi manusia, ataukah Kami yang menciptakannya?
 
 # 5039
@@ -20203,6 +20491,8 @@ Apakah kalian melihat air mani yang kalian pancarkan ke dalam rahim? Apakah kali
 Kami telah menentukan kematian di antara kalian. Kematian itu akan terjadi pada waktu yang telah ditentukan. Tidak ada yang mengalahkan Kami untuk menggantikan bentuk kalian dengan yang lain. Dan kelak Kami akan menciptakan kalian kembali dalam bentuk yang tidak kalian ketahui.
 
 # 5040
+
+<!-- TODO:DUPLICATE -->
 
 Kami telah menentukan kematian di antara kalian. Kematian itu akan terjadi pada waktu yang telah ditentukan. Tidak ada yang mengalahkan Kami untuk menggantikan bentuk kalian dengan yang lain. Dan kelak Kami akan menciptakan kalian kembali dalam bentuk yang tidak kalian ketahui.
 
@@ -20216,6 +20506,8 @@ Tidakkah kalian melihat apa yang kalian tanam? Kaliankah yang menumbuhkannya, at
 
 # 5043
 
+<!-- TODO:DUPLICATE -->
+
 Tidakkah kalian melihat apa yang kalian tanam? Kaliankah yang menumbuhkannya, atau hanya Kami?
 
 # 5044
@@ -20224,9 +20516,13 @@ Jika Kami berkehendak, Kami akan menjadikan tanaman itu kering dan rusak sebelum
 
 # 5045
 
+<!-- TODO:DUPLICATE -->
+
 Jika Kami berkehendak, Kami akan menjadikan tanaman itu kering dan rusak sebelum matang. Maka kalian akan terus terheran-heran sambil mengatakan, "Sesungguhnya kami benar-benar menderita kerugian setelah berusaha keras. Bahkan nasib kami buruk, tidak mendapatkan rezeki."
 
 # 5046
+
+<!-- TODO:DUPLICATE -->
 
 Jika Kami berkehendak, Kami akan menjadikan tanaman itu kering dan rusak sebelum matang. Maka kalian akan terus terheran-heran sambil mengatakan, "Sesungguhnya kami benar-benar menderita kerugian setelah berusaha keras. Bahkan nasib kami buruk, tidak mendapatkan rezeki."
 
@@ -20235,6 +20531,8 @@ Jika Kami berkehendak, Kami akan menjadikan tanaman itu kering dan rusak sebelum
 Tidakkah kalian melihat air tawar yang kalian minum? Kaliankah yang menurunkannya dari awan atau Kamikah yang menurunkannya, sebagai perwujudan kasih sayang Kami kepada kalian?(1) (1) Kata al-muzn dalam bahasa Arab berarti 'awan yang menurunkan hujan'. Untuk terjadinya hujan diperlukan keadaan cuaca tertentu yang berada di luar kemampuan manusia, seperti adanya angin dingin yang berhembus di atas angin panas, atau keadaan cuaca yang tidak stabil. Adapun hujan buatan yang kita kenal itu sampai saat ini masih merupakan percobaan yang persentase keberhasilannya masih sangat kecil, di samping masih memerlukan beberapa kondisi alam tertentu juga.
 
 # 5048
+
+<!-- TODO:DUPLICATE -->
 
 Tidakkah kalian melihat air tawar yang kalian minum? Kaliankah yang menurunkannya dari awan atau Kamikah yang menurunkannya, sebagai perwujudan kasih sayang Kami kepada kalian?(1) (1) Kata al-muzn dalam bahasa Arab berarti 'awan yang menurunkan hujan'. Untuk terjadinya hujan diperlukan keadaan cuaca tertentu yang berada di luar kemampuan manusia, seperti adanya angin dingin yang berhembus di atas angin panas, atau keadaan cuaca yang tidak stabil. Adapun hujan buatan yang kita kenal itu sampai saat ini masih merupakan percobaan yang persentase keberhasilannya masih sangat kecil, di samping masih memerlukan beberapa kondisi alam tertentu juga.
 
@@ -20247,6 +20545,8 @@ Bila Kami menghendaki, niscaya air itu Kami jadikan asin, tidak enak diminum. Ti
 Tidakkah kalian melihat api yang kalian nyalakan? Kaliankah yang menciptakan kayunya kemudian membubuhinya api, atau Kamikah yang menciptakannya seperti itu?
 
 # 5051
+
+<!-- TODO:DUPLICATE -->
 
 Tidakkah kalian melihat api yang kalian nyalakan? Kaliankah yang menciptakan kayunya kemudian membubuhinya api, atau Kamikah yang menciptakannya seperti itu?
 
@@ -20264,6 +20564,8 @@ Aku benar-benar bersumpah demi tempat-tempat tenggelamnya bintang-bintang di pen
 
 # 5055
 
+<!-- TODO:DUPLICATE -->
+
 Aku benar-benar bersumpah demi tempat-tempat tenggelamnya bintang-bintang di penghujung malam, yaitu waktu-waktu untuk salat tahajud dan istigfar. Sumpah itu--bila kalian pikirkan kandungannya--sangat penting dan mempunyai pengaruh yang amat dalam. (1) (1) Dua ayat ini menjelaskan betapa pentingnya sumpah yang diucapkan itu. Bintang merupakan benda langit yang bersinar sendiri. Di antara bintang-bintang itu, yang paling dekat dengan planet kita adalah matahari dengan jarak ± 500 tahun cahaya. Sedang bintang yang terdekat berikutnya berjarak ± 4 tahun cahaya. Energi yang kita dapatkan dari matahari merupakan komponen utama kehidupan. Seandainya jarak antara matahari dan bumi lebih jauh atau lebih dekat dari yang ada sekarang, kehidupan ini akan menjadi demikian sulit dan bahkan hampir mustahil. Di samping itu, besar-kecilnya bintang-bintang itu pun beragam pula. Ada yang berukuran besar dan ada pula yang berukuran lebih kecil. Di antara yang berukuran besar itu adalah matahari yang jaraknya dengan bumi seperti yang ada sekarang. Selain itu, terdapat pula gugusan bintang yang disebut tandan, beredar di luar angkasa dan sesekali melintasi galaksi Bimasakti. Pada saat melintasi Bimasakti itu, apabila secara kebetulan gugusan itu menabrak tata surya kita, maka akan terjadi kehancuran. Begitu juga bila terjadi, umpamanya, suatu bintang mendekati matahari, maka akan merusak keseimbangan dan akhirnya membawa kepada kehancuran juga. Dari itu, tanda-tanda kebesaran Allah yang dapat dijadikan pelajaran tampak pada alam semesta yang Dia ciptakan dan Dia atur.
 
 # 5056
@@ -20272,6 +20574,8 @@ Aku bersumpah, bahwa ini adalah benar-benar al-Qur'ân yang banyak manfaatnya da
 
 # 5057
 
+<!-- TODO:DUPLICATE -->
+
 Aku bersumpah, bahwa ini adalah benar-benar al-Qur'ân yang banyak manfaatnya dan terpelihara di al-Lawh al-Mahfûzh hingga tidak dapat diketahui kecuali oleh para malaikat yang dekat.
 
 # 5058
@@ -20279,6 +20583,8 @@ Aku bersumpah, bahwa ini adalah benar-benar al-Qur'ân yang banyak manfaatnya da
 Al-Qur'ân itu tidak disentuh kecuali oleh mereka yang tersucikan dari kotoran dan hadas, diturunkan dari Allah, Tuhan semua makhluk.
 
 # 5059
+
+<!-- TODO:DUPLICATE -->
 
 Al-Qur'ân itu tidak disentuh kecuali oleh mereka yang tersucikan dari kotoran dan hadas, diturunkan dari Allah, Tuhan semua makhluk.
 
@@ -20296,9 +20602,13 @@ Bukankah ketika nyawa salah seorang di antara kalian telah sampai di kerongkonga
 
 # 5063
 
+<!-- TODO:DUPLICATE -->
+
 Bukankah ketika nyawa salah seorang di antara kalian telah sampai di kerongkongan, pada saat-saat sekarat, dan pada saat itu kalian sendiri menyaksikannya, sedang Kami lebih dekat dan lebih tahu tentang keadaanya, tetapi kaian tidak mengetahui dan merasakannya?
 
 # 5064
+
+<!-- TODO:DUPLICATE -->
 
 Bukankah ketika nyawa salah seorang di antara kalian telah sampai di kerongkongan, pada saat-saat sekarat, dan pada saat itu kalian sendiri menyaksikannya, sedang Kami lebih dekat dan lebih tahu tentang keadaanya, tetapi kaian tidak mengetahui dan merasakannya?
 
@@ -20308,6 +20618,8 @@ Jika kalian tidak tunduk di bawah ketuhanan Kami, mengapa tidak kalian kembalika
 
 # 5066
 
+<!-- TODO:DUPLICATE -->
+
 Jika kalian tidak tunduk di bawah ketuhanan Kami, mengapa tidak kalian kembalikan saja nyawa itu, jika pernyataan kalian bahwa kalian memiliki kekuatan yang tidak tertundukkan itu memang benar?
 
 # 5067
@@ -20315,6 +20627,8 @@ Jika kalian tidak tunduk di bawah ketuhanan Kami, mengapa tidak kalian kembalika
 Kalau orang yang mati itu berasal dari golongan yang paling dahulu beriman dan didekatkan kepada Allah, maka kesudahannya adalah kenyamanan, kasih sayang, rezeki yang baik, dan surga yang berisikan kesenangan.
 
 # 5068
+
+<!-- TODO:DUPLICATE -->
 
 Kalau orang yang mati itu berasal dari golongan yang paling dahulu beriman dan didekatkan kepada Allah, maka kesudahannya adalah kenyamanan, kasih sayang, rezeki yang baik, dan surga yang berisikan kesenangan.
 
@@ -20324,6 +20638,8 @@ Jika orang itu berasal dari golongan kanan, maka ia akan disambut dengan salam k
 
 # 5070
 
+<!-- TODO:DUPLICATE -->
+
 Jika orang itu berasal dari golongan kanan, maka ia akan disambut dengan salam kehormatan, "Salam sejahtera untukmu dari saudara-saudaramu di golongan kanan."
 
 # 5071
@@ -20332,9 +20648,13 @@ Dan jika orang itu berasal dari golongan kiri yang pendusta dan sesat, maka ia a
 
 # 5072
 
+<!-- TODO:DUPLICATE -->
+
 Dan jika orang itu berasal dari golongan kiri yang pendusta dan sesat, maka ia akan mendapatkan tempat tinggal dan kampung yang dilengkapi dengan air yang sangat panas, dan akan dibakar dengan api yang sangat berkobar.
 
 # 5073
+
+<!-- TODO:DUPLICATE -->
 
 Dan jika orang itu berasal dari golongan kiri yang pendusta dan sesat, maka ia akan mendapatkan tempat tinggal dan kampung yang dilengkapi dengan air yang sangat panas, dan akan dibakar dengan api yang sangat berkobar.
 
@@ -20948,6 +21268,8 @@ Berapa banyak penduduk negeri yang meninggalkan perintah Allah dan Rasul-Nya yan
 
 # 5226
 
+<!-- TODO:DUPLICATE -->
+
 Berapa banyak penduduk negeri yang meninggalkan perintah Allah dan Rasul-Nya yang Kami hisab secara kejam dengan merinci semua perbuatan mereka dan mempertanyakannya. Kami menyiksa mereka dengan azab yang mengerikan. Mereka pun merasakan akibat buruk perbuatannya. Akibat perbuatan mereka adalah kerugian yang besar.
 
 # 5227
@@ -20955,6 +21277,8 @@ Berapa banyak penduduk negeri yang meninggalkan perintah Allah dan Rasul-Nya yan
 Allah menyediakan siksa yang amat keras untuk penduduk banyak negeri yang sombong. Maka jauhilah murka Allah, hai orang-orang yang berakal cemerlang dan beriman. Sesungguhnya Allah telah menurunkan seorang rasul mulia dan terhormat yang membacakan kepada kalian ayat-ayat Allah yang menjelaskan mana yang benar dan mana yang salah, untuk mengeluarkan orang-orang yang beriman dan beramal saleh dari kesesatan menuju ke cahaya petunjuk. Barangsiapa yang beriman kepada Allah dan melakukan amal saleh, maka akan dimasukkan ke dalam surga yang dialiri sungai-sungai. Mereka akan kekal berada di dalamnya. Sesungguhnya Allah memberikan rezeki yang baik kepada orang Mukmin yang berbuat baik.
 
 # 5228
+
+<!-- TODO:DUPLICATE -->
 
 Allah menyediakan siksa yang amat keras untuk penduduk banyak negeri yang sombong. Maka jauhilah murka Allah, hai orang-orang yang berakal cemerlang dan beriman. Sesungguhnya Allah telah menurunkan seorang rasul mulia dan terhormat yang membacakan kepada kalian ayat-ayat Allah yang menjelaskan mana yang benar dan mana yang salah, untuk mengeluarkan orang-orang yang beriman dan beramal saleh dari kesesatan menuju ke cahaya petunjuk. Barangsiapa yang beriman kepada Allah dan melakukan amal saleh, maka akan dimasukkan ke dalam surga yang dialiri sungai-sungai. Mereka akan kekal berada di dalamnya. Sesungguhnya Allah memberikan rezeki yang baik kepada orang Mukmin yang berbuat baik.
 
@@ -21039,6 +21363,8 @@ Orang-orang yang tidak beriman kepada Tuhan akan mendapat siksa jahanam. Itu ada
 Ketika dilemparkan ke dalamnya, mereka mendengar suaranya yang amat mengerikan; menggelegak dengan sangat dahsyatnya. Hampir-hampir saja neraka itu terpecah-pecah karena terlalu marahnya dengan mereka. Setiap kali sekelompok orang dari mereka dilemparkan, dengan nada mengejek para penjaga neraka berkata, "Apakah belum pernah datang kepada kalian seorang rasul yang mengingatkan kalian hari pertemuan ini?"
 
 # 5249
+
+<!-- TODO:DUPLICATE -->
 
 Ketika dilemparkan ke dalamnya, mereka mendengar suaranya yang amat mengerikan; menggelegak dengan sangat dahsyatnya. Hampir-hampir saja neraka itu terpecah-pecah karena terlalu marahnya dengan mereka. Setiap kali sekelompok orang dari mereka dilemparkan, dengan nada mengejek para penjaga neraka berkata, "Apakah belum pernah datang kepada kalian seorang rasul yang mengingatkan kalian hari pertemuan ini?"
 
@@ -21152,6 +21478,8 @@ Dari dekat, kamu dan orang-orang kafir akan melihat siapa di antara kalian yang 
 
 # 5277
 
+<!-- TODO:DUPLICATE -->
+
 Dari dekat, kamu dan orang-orang kafir akan melihat siapa di antara kalian yang gila.
 
 # 5278
@@ -21164,6 +21492,8 @@ Maka janganlah kamu tinggalkan sikapmu yang berbeda dengan orang-orang yang mend
 
 # 5280
 
+<!-- TODO:DUPLICATE -->
+
 Maka janganlah kamu tinggalkan sikapmu yang berbeda dengan orang-orang yang mendustakan. Mereka menginginkan agar kamu sedikit bersikap lunak terhadap mereka sehingga mereka pun akan bersikap lunak terhadapmu sebagai balasan atas sikapmu.
 
 # 5281
@@ -21172,13 +21502,19 @@ Jangan tinggalkan sikapmu yang berbeda dengan setiap orang yang banyak bersumpah
 
 # 5282
 
+<!-- TODO:DUPLICATE -->
+
 Jangan tinggalkan sikapmu yang berbeda dengan setiap orang yang banyak bersumpah, hina, banyak mencela, suka menebar isu yang dapat memecah belah masyarakat, banyak menghalangi perbuatan baik, melampaui batas lagi banyak dosa, keras hati dan kasar serta terkenal dengan kejahatannya, melebihi sifat-sifatnya yang tercela itu.
 
 # 5283
 
+<!-- TODO:DUPLICATE -->
+
 Jangan tinggalkan sikapmu yang berbeda dengan setiap orang yang banyak bersumpah, hina, banyak mencela, suka menebar isu yang dapat memecah belah masyarakat, banyak menghalangi perbuatan baik, melampaui batas lagi banyak dosa, keras hati dan kasar serta terkenal dengan kejahatannya, melebihi sifat-sifatnya yang tercela itu.
 
 # 5284
+
+<!-- TODO:DUPLICATE -->
 
 Jangan tinggalkan sikapmu yang berbeda dengan setiap orang yang banyak bersumpah, hina, banyak mencela, suka menebar isu yang dapat memecah belah masyarakat, banyak menghalangi perbuatan baik, melampaui batas lagi banyak dosa, keras hati dan kasar serta terkenal dengan kejahatannya, melebihi sifat-sifatnya yang tercela itu.
 
@@ -21187,6 +21523,8 @@ Jangan tinggalkan sikapmu yang berbeda dengan setiap orang yang banyak bersumpah
 Karena ia merasa mempunyai banyak harta dan anak, tetapi ia mendustakan ayat-ayat Kami dan menolak untuk menerimanya. Apabila dibacakan al-Qur'ân, ia berkata, "Ini adalah kisah-kisah dongeng umat terdahulu."
 
 # 5286
+
+<!-- TODO:DUPLICATE -->
 
 Karena ia merasa mempunyai banyak harta dan anak, tetapi ia mendustakan ayat-ayat Kami dan menolak untuk menerimanya. Apabila dibacakan al-Qur'ân, ia berkata, "Ini adalah kisah-kisah dongeng umat terdahulu."
 
@@ -21200,6 +21538,8 @@ Sesungguhnya Kami telah menguji penduduk Mekkah dengan memberikan mereka nikmat,
 
 # 5289
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya Kami telah menguji penduduk Mekkah dengan memberikan mereka nikmat, lalu mereka mengingkarinya. Ini sama halnya seperti Kami menguji para pemilik kebun ketika mereka bersumpah--tanpa mengingat Allah dan tidak menyerahkan urusan kepada kehendak-Nya--akan memetik buah-buahan dari kebun mereka di pagi hari.
 
 # 5290
@@ -21207,6 +21547,8 @@ Sesungguhnya Kami telah menguji penduduk Mekkah dengan memberikan mereka nikmat,
 Kemudian datang bencana besar dari Tuhanmu pada malam hari ketika mereka terlelap dalam tidur. Kebun-kebun itu menjadi hitam seperti malam yang gelap akibat bencana yang menimpanya.
 
 # 5291
+
+<!-- TODO:DUPLICATE -->
 
 Kemudian datang bencana besar dari Tuhanmu pada malam hari ketika mereka terlelap dalam tidur. Kebun-kebun itu menjadi hitam seperti malam yang gelap akibat bencana yang menimpanya.
 
@@ -21216,6 +21558,8 @@ Ketika pagi hari, sebagian dari mereka menyeru yang lainnya, "Pergilah segera ke
 
 # 5293
 
+<!-- TODO:DUPLICATE -->
+
 Ketika pagi hari, sebagian dari mereka menyeru yang lainnya, "Pergilah segera ke kebun kalian jika ingin memetik buah-buahan."
 
 # 5294
@@ -21223,6 +21567,8 @@ Ketika pagi hari, sebagian dari mereka menyeru yang lainnya, "Pergilah segera ke
 Maka pergilah mereka sambil berbisik-bisik dan berpesan, "Hari ini jangan sampai ada seorang miskin pun yang dapat masuk ke kebun kalian."
 
 # 5295
+
+<!-- TODO:DUPLICATE -->
 
 Maka pergilah mereka sambil berbisik-bisik dan berpesan, "Hari ini jangan sampai ada seorang miskin pun yang dapat masuk ke kebun kalian."
 
@@ -21235,6 +21581,8 @@ Mereka pergi ke kebun di pagi hari dengan niat buruk dan mengira bahwa mereka ak
 Tatkala mereka melihat kebun-kebun itu hitam terbakar, dengan goncang mereka berkata, "Kita sungguh telah tersesat! Ini bukan kebun kita! Atau ini memang kebun kita, tetapi kita telah terhalangi untuk melihatnya."
 
 # 5298
+
+<!-- TODO:DUPLICATE -->
 
 Tatkala mereka melihat kebun-kebun itu hitam terbakar, dengan goncang mereka berkata, "Kita sungguh telah tersesat! Ini bukan kebun kita! Atau ini memang kebun kita, tetapi kita telah terhalangi untuk melihatnya."
 
@@ -21251,6 +21599,8 @@ Setelah sadar, mereka berkata, "Mahasuci Allah dari anggapan kita bahwa Dia tela
 Masing-masing dari mereka berhadap-hadapan saling mencela dan berkata, "Celaka! Sesungguhnya kezaliman kita telah melampaui batas berlebihan.
 
 # 5302
+
+<!-- TODO:DUPLICATE -->
 
 Masing-masing dari mereka berhadap-hadapan saling mencela dan berkata, "Celaka! Sesungguhnya kezaliman kita telah melampaui batas berlebihan.
 
@@ -21272,6 +21622,8 @@ Apakah Kami berlaku zalim dalam memberi keputusan dengan menyamakan antara orang
 
 # 5307
 
+<!-- TODO:DUPLICATE -->
+
 Apakah Kami berlaku zalim dalam memberi keputusan dengan menyamakan antara orang-orang Muslim dan orang-orang kafir? Apa yang telah terjadi pada kalian? Bagaimana mungkin kalian membuat keputusan yang zalim seperti itu?
 
 # 5308
@@ -21279,6 +21631,8 @@ Apakah Kami berlaku zalim dalam memberi keputusan dengan menyamakan antara orang
 Atau apakah kalian mempunyai kitab suci dari Allah yang di dalamnya kalian baca bahwa kalian mendapatkan apa yang kalian pilih?
 
 # 5309
+
+<!-- TODO:DUPLICATE -->
 
 Atau apakah kalian mempunyai kitab suci dari Allah yang di dalamnya kalian baca bahwa kalian mendapatkan apa yang kalian pilih?
 
@@ -21299,6 +21653,8 @@ Atau apakah ada orang yang menyertai mereka dan mengikuti jalan mereka dalam uca
 Pada hari yang teramat sulit dan orang-orang kafir diseru untuk sujud--sebagai bentuk ejekan dan pelemahan--lalu mereka tidak mampu, pandangan mereka kabur dipenuhi oleh kehinaan yang sangat. Sesungguhnya dulu, ketika di dunia, mereka pernah diseru untuk bersujud. Tetapi mereka menolak untuk sujud, padahal mereka mampu melakukannya.
 
 # 5314
+
+<!-- TODO:DUPLICATE -->
 
 Pada hari yang teramat sulit dan orang-orang kafir diseru untuk sujud--sebagai bentuk ejekan dan pelemahan--lalu mereka tidak mampu, pandangan mereka kabur dipenuhi oleh kehinaan yang sangat. Sesungguhnya dulu, ketika di dunia, mereka pernah diseru untuk bersujud. Tetapi mereka menolak untuk sujud, padahal mereka mampu melakukannya.
 
@@ -21394,6 +21750,8 @@ Ketika sangkakala ditiup dengan sekali tiupan saja, bumi dan gunung diangkat dar
 
 # 5337
 
+<!-- TODO:DUPLICATE -->
+
 Ketika sangkakala ditiup dengan sekali tiupan saja, bumi dan gunung diangkat dari tempatnya lalu dibenturkan dengan sekali bentur.
 
 # 5338
@@ -21401,6 +21759,8 @@ Ketika sangkakala ditiup dengan sekali tiupan saja, bumi dan gunung diangkat dar
 Pada hari itu terjadilah bencana, dan langit menjadi terbelah dengan hilangnya keseimbangan. Saat itu langit melemah setelah sebelumnya kuat dan terkendalikan.
 
 # 5339
+
+<!-- TODO:DUPLICATE -->
 
 Pada hari itu terjadilah bencana, dan langit menjadi terbelah dengan hilangnya keseimbangan. Saat itu langit melemah setelah sebelumnya kuat dan terkendalikan.
 
@@ -21442,6 +21802,8 @@ Sedangkan orang yang diberikan kitab dari sebelah kirinya, dengan penuh rasa pen
 
 # 5349
 
+<!-- TODO:DUPLICATE -->
+
 Sedangkan orang yang diberikan kitab dari sebelah kirinya, dengan penuh rasa penyesalan, berkata, "Alangkah baiknya sekiranya aku tidak diberi kitab dan tidak mengetahui perhitungan terhadap diriku!
 
 # 5350
@@ -21454,6 +21816,8 @@ Apa yang aku miliki selama di dunia tidak bermanfaat sama sekali bagiku. Kesehat
 
 # 5352
 
+<!-- TODO:DUPLICATE -->
+
 Apa yang aku miliki selama di dunia tidak bermanfaat sama sekali bagiku. Kesehatanku telah hilang. Begitu pula kekuatanku."
 
 # 5353
@@ -21462,9 +21826,13 @@ Kepada para penjaga neraka dikatakan, "Ambillah ia dan ikatkanlah tangannya ke l
 
 # 5354
 
+<!-- TODO:DUPLICATE -->
+
 Kepada para penjaga neraka dikatakan, "Ambillah ia dan ikatkanlah tangannya ke lehernya. Kemudian masukkan ia ke dalam neraka yang menyala-nyala. Setelah itu belitlah ia dengan rantai yang sangat panjang.
 
 # 5355
+
+<!-- TODO:DUPLICATE -->
 
 Kepada para penjaga neraka dikatakan, "Ambillah ia dan ikatkanlah tangannya ke lehernya. Kemudian masukkan ia ke dalam neraka yang menyala-nyala. Setelah itu belitlah ia dengan rantai yang sangat panjang.
 
@@ -21474,6 +21842,8 @@ Sesungguhnya dulu ia tidak percaya kepada Allah Yang Mahaagung dan tidak menganj
 
 # 5357
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya dulu ia tidak percaya kepada Allah Yang Mahaagung dan tidak menganjurkan orang lain untuk memberi makan orang miskin."
 
 # 5358
@@ -21482,9 +21852,13 @@ Pada hari itu, di neraka, orang kafir itu tidak punya teman dekat yang dapat men
 
 # 5359
 
+<!-- TODO:DUPLICATE -->
+
 Pada hari itu, di neraka, orang kafir itu tidak punya teman dekat yang dapat menolongnya dari api neraka. Minumannya tidak lain adalah hasil cucian penghuni neraka yang berupa darah dan nanah yang hanya dimakan oleh orang-orang yang sengaja dan terus menerus melakukan dosa.
 
 # 5360
+
+<!-- TODO:DUPLICATE -->
 
 Pada hari itu, di neraka, orang kafir itu tidak punya teman dekat yang dapat menolongnya dari api neraka. Minumannya tidak lain adalah hasil cucian penghuni neraka yang berupa darah dan nanah yang hanya dimakan oleh orang-orang yang sengaja dan terus menerus melakukan dosa.
 
@@ -21494,9 +21868,13 @@ Aku bersumpah dengan apa-apa yang kalian lihat dan tidak kalian lihat berupa ala
 
 # 5362
 
+<!-- TODO:DUPLICATE -->
+
 Aku bersumpah dengan apa-apa yang kalian lihat dan tidak kalian lihat berupa alam gaib, sesungguhnya al-Qur'ân itu benar-benar (wahyu) dari Allah yang disampaikan melalui seorang rasul yang mempunyai kedudukan tinggi.
 
 # 5363
+
+<!-- TODO:DUPLICATE -->
 
 Aku bersumpah dengan apa-apa yang kalian lihat dan tidak kalian lihat berupa alam gaib, sesungguhnya al-Qur'ân itu benar-benar (wahyu) dari Allah yang disampaikan melalui seorang rasul yang mempunyai kedudukan tinggi.
 
@@ -21518,9 +21896,13 @@ Sekiranya Muhammad mengada-ada sesuatu yang tidak Kami firmankan, tentu perkataa
 
 # 5368
 
+<!-- TODO:DUPLICATE -->
+
 Sekiranya Muhammad mengada-ada sesuatu yang tidak Kami firmankan, tentu perkataannya itu akan Kami ambil seperti orang yang merampas sesuatu dengan keras. Kemudian Kami potong urat tali jantungnya sehingga ia mati seketika.
 
 # 5369
+
+<!-- TODO:DUPLICATE -->
 
 Sekiranya Muhammad mengada-ada sesuatu yang tidak Kami firmankan, tentu perkataannya itu akan Kami ambil seperti orang yang merampas sesuatu dengan keras. Kemudian Kami potong urat tali jantungnya sehingga ia mati seketika.
 
@@ -21574,9 +21956,13 @@ Maka bersabarlah, hai Muhammad, dalam menghadapi ejekan dan permintaan mereka ag
 
 # 5381
 
+<!-- TODO:DUPLICATE -->
+
 Maka bersabarlah, hai Muhammad, dalam menghadapi ejekan dan permintaan mereka agar azab disegerakan, tanpa berkeluh-kesah. Orang-orang kafir itu sungguh menganggap hari kiamat itu mustahil terjadi. Padahal itu amatlah mudah dan dapat dilakukan dengan kemampuan Kami.
 
 # 5382
+
+<!-- TODO:DUPLICATE -->
 
 Maka bersabarlah, hai Muhammad, dalam menghadapi ejekan dan permintaan mereka agar azab disegerakan, tanpa berkeluh-kesah. Orang-orang kafir itu sungguh menganggap hari kiamat itu mustahil terjadi. Padahal itu amatlah mudah dan dapat dilakukan dengan kemampuan Kami.
 
@@ -21586,9 +21972,13 @@ Pada saat langit seperti perak yang meleleh dan gunung-gunung seperti bulu yang 
 
 # 5384
 
+<!-- TODO:DUPLICATE -->
+
 Pada saat langit seperti perak yang meleleh dan gunung-gunung seperti bulu yang beterbangan, tidak ada seorang teman dekat pun yang menanyakan temannya, "Bagaimana kabarmu?" Semuanya sibuk dengan dirinya sendiri.
 
 # 5385
+
+<!-- TODO:DUPLICATE -->
 
 Pada saat langit seperti perak yang meleleh dan gunung-gunung seperti bulu yang beterbangan, tidak ada seorang teman dekat pun yang menanyakan temannya, "Bagaimana kabarmu?" Semuanya sibuk dengan dirinya sendiri.
 
@@ -21598,13 +21988,19 @@ Mereka saling berkenalan sehingga satu sama lain benar-benar saling mengenal. Me
 
 # 5387
 
+<!-- TODO:DUPLICATE -->
+
 Mereka saling berkenalan sehingga satu sama lain benar-benar saling mengenal. Meskipun demikian, ia tidak dapat memanggilnya. Orang kafir itu menginginkan dapat menebus dirinya dari azab hari kiamat dengan anak-anaknya, istrinya, saudaranya, keluarganya yang melindunginya dan seluruh yang ada di bumi sehingga tebusan itu dapat menyelamatkannya.
 
 # 5388
 
+<!-- TODO:DUPLICATE -->
+
 Mereka saling berkenalan sehingga satu sama lain benar-benar saling mengenal. Meskipun demikian, ia tidak dapat memanggilnya. Orang kafir itu menginginkan dapat menebus dirinya dari azab hari kiamat dengan anak-anaknya, istrinya, saudaranya, keluarganya yang melindunginya dan seluruh yang ada di bumi sehingga tebusan itu dapat menyelamatkannya.
 
 # 5389
+
+<!-- TODO:DUPLICATE -->
 
 Mereka saling berkenalan sehingga satu sama lain benar-benar saling mengenal. Meskipun demikian, ia tidak dapat memanggilnya. Orang kafir itu menginginkan dapat menebus dirinya dari azab hari kiamat dengan anak-anaknya, istrinya, saudaranya, keluarganya yang melindunginya dan seluruh yang ada di bumi sehingga tebusan itu dapat menyelamatkannya.
 
@@ -21614,13 +22010,19 @@ Hindarilah tebusan yang kamu angan-angankan itu, hai orang yang jahat! Sesungguh
 
 # 5391
 
+<!-- TODO:DUPLICATE -->
+
 Hindarilah tebusan yang kamu angan-angankan itu, hai orang yang jahat! Sesungguhnya neraka itu api murni yang bergejolak dan akan melepas kedua tangan, kaki dan seluruh sendimu dengan keras. Neraka itu memanggil nama orang yang berpaling dari kebenaran, tidak taat serta mengumpulkan harta dan menyimpannya tanpa melaksanakan hak Allah di dalamnya.
 
 # 5392
 
+<!-- TODO:DUPLICATE -->
+
 Hindarilah tebusan yang kamu angan-angankan itu, hai orang yang jahat! Sesungguhnya neraka itu api murni yang bergejolak dan akan melepas kedua tangan, kaki dan seluruh sendimu dengan keras. Neraka itu memanggil nama orang yang berpaling dari kebenaran, tidak taat serta mengumpulkan harta dan menyimpannya tanpa melaksanakan hak Allah di dalamnya.
 
 # 5393
+
+<!-- TODO:DUPLICATE -->
 
 Hindarilah tebusan yang kamu angan-angankan itu, hai orang yang jahat! Sesungguhnya neraka itu api murni yang bergejolak dan akan melepas kedua tangan, kaki dan seluruh sendimu dengan keras. Neraka itu memanggil nama orang yang berpaling dari kebenaran, tidak taat serta mengumpulkan harta dan menyimpannya tanpa melaksanakan hak Allah di dalamnya.
 
@@ -21630,17 +22032,25 @@ Sesungguhnya manusia itu bersifat hala': sangat gelisah dan marah bila ditimpa k
 
 # 5395
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya manusia itu bersifat hala': sangat gelisah dan marah bila ditimpa kesusahan dan sangat kikir bila mendapat kebaikan dan kemudahan. Kecuali, pertama, orang-orang yang senantiasa mengerjakan salat dan tetap melakukannya tanpa meninggalkan satu waktu pun. Mereka mendapat perlindungan dan bimbingan dari Allah ke arah kebaikan.
 
 # 5396
+
+<!-- TODO:DUPLICATE -->
 
 Sesungguhnya manusia itu bersifat hala': sangat gelisah dan marah bila ditimpa kesusahan dan sangat kikir bila mendapat kebaikan dan kemudahan. Kecuali, pertama, orang-orang yang senantiasa mengerjakan salat dan tetap melakukannya tanpa meninggalkan satu waktu pun. Mereka mendapat perlindungan dan bimbingan dari Allah ke arah kebaikan.
 
 # 5397
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya manusia itu bersifat hala': sangat gelisah dan marah bila ditimpa kesusahan dan sangat kikir bila mendapat kebaikan dan kemudahan. Kecuali, pertama, orang-orang yang senantiasa mengerjakan salat dan tetap melakukannya tanpa meninggalkan satu waktu pun. Mereka mendapat perlindungan dan bimbingan dari Allah ke arah kebaikan.
 
 # 5398
+
+<!-- TODO:DUPLICATE -->
 
 Sesungguhnya manusia itu bersifat hala': sangat gelisah dan marah bila ditimpa kesusahan dan sangat kikir bila mendapat kebaikan dan kemudahan. Kecuali, pertama, orang-orang yang senantiasa mengerjakan salat dan tetap melakukannya tanpa meninggalkan satu waktu pun. Mereka mendapat perlindungan dan bimbingan dari Allah ke arah kebaikan.
 
@@ -21650,6 +22060,8 @@ Kedua, orang-orang yang dalam hartanya terdapat bagian tertentu untuk orang yang
 
 # 5400
 
+<!-- TODO:DUPLICATE -->
+
 Kedua, orang-orang yang dalam hartanya terdapat bagian tertentu untuk orang yang meminta, dan orang yang menjaga kehormatan dirinya dari meminta-minta meskipun sebenarnya membutuhkan.
 
 # 5401
@@ -21658,9 +22070,13 @@ Ketiga, orang-orang yang mempercayai hari pembalasan lalu bersiap-siap dengan be
 
 # 5402
 
+<!-- TODO:DUPLICATE -->
+
 Ketiga, orang-orang yang mempercayai hari pembalasan lalu bersiap-siap dengan bekal untuk menghadapinya dan orang-orang yang takut kepada azab Tuhan mereka lalu bertakwa dan menjauhi hal-hal yang menyebabkan datangnya azab. Sesungguhnya tidak seorang pun yang dapat merasa aman dari kedatangan siksa Tuhan mereka.
 
 # 5403
+
+<!-- TODO:DUPLICATE -->
 
 Ketiga, orang-orang yang mempercayai hari pembalasan lalu bersiap-siap dengan bekal untuk menghadapinya dan orang-orang yang takut kepada azab Tuhan mereka lalu bertakwa dan menjauhi hal-hal yang menyebabkan datangnya azab. Sesungguhnya tidak seorang pun yang dapat merasa aman dari kedatangan siksa Tuhan mereka.
 
@@ -21670,9 +22086,13 @@ Keempat, orang-orang yang menjaga kemaluannya sehingga tidak dikalahkan oleh naf
 
 # 5405
 
+<!-- TODO:DUPLICATE -->
+
 Keempat, orang-orang yang menjaga kemaluannya sehingga tidak dikalahkan oleh nafsu syahwat mereka. Tetapi terhadap istri-istri dan budak-budak yang mereka miliki mereka tidak menjaganya. Sebab tidak ada cela bagi mereka untuk menyalurkan nafsu syahwat kepada mereka. Maka, barangsiapa mencari kesenangan kepada selain istri dan budak, sesungguhnya mereka itu adalah orang-orang yang melampaui batas halal menuju yang haram.
 
 # 5406
+
+<!-- TODO:DUPLICATE -->
 
 Keempat, orang-orang yang menjaga kemaluannya sehingga tidak dikalahkan oleh nafsu syahwat mereka. Tetapi terhadap istri-istri dan budak-budak yang mereka miliki mereka tidak menjaganya. Sebab tidak ada cela bagi mereka untuk menyalurkan nafsu syahwat kepada mereka. Maka, barangsiapa mencari kesenangan kepada selain istri dan budak, sesungguhnya mereka itu adalah orang-orang yang melampaui batas halal menuju yang haram.
 
@@ -21682,9 +22102,13 @@ Keenam, orang-orang yang memelihara amanat Tuhan, amanat manusia dan tidak mengk
 
 # 5408
 
+<!-- TODO:DUPLICATE -->
+
 Keenam, orang-orang yang memelihara amanat Tuhan, amanat manusia dan tidak mengkhianati komitmen mereka kepada Tuhan dan manusia. Ketujuh, orang-orang yang melaksanakan persaksian dengan benar tanpa menyembunyikan sesuatu yang diketahuinya. Dan, kedelapan, orang-orang yang memelihara salat mereka dengan melaksanakannya sebaik mungkin.
 
 # 5409
+
+<!-- TODO:DUPLICATE -->
 
 Keenam, orang-orang yang memelihara amanat Tuhan, amanat manusia dan tidak mengkhianati komitmen mereka kepada Tuhan dan manusia. Ketujuh, orang-orang yang melaksanakan persaksian dengan benar tanpa menyembunyikan sesuatu yang diketahuinya. Dan, kedelapan, orang-orang yang memelihara salat mereka dengan melaksanakannya sebaik mungkin.
 
@@ -21698,9 +22122,13 @@ Mengapakah orang-orang kafir bergegas datang kepadamu dan mengelilingi kamu dari
 
 # 5412
 
+<!-- TODO:DUPLICATE -->
+
 Mengapakah orang-orang kafir bergegas datang kepadamu dan mengelilingi kamu dari arah kanan dan kirimu dengan berkelompok-kelompok? Apakah setiap orang dari mereka ingin--setelah mendengar janji Allah dan rasul-Nya untuk orang-orang Mukmin yang berupa surga--dimasukkan ke dalam surga yang penuh kenikmatan?
 
 # 5413
+
+<!-- TODO:DUPLICATE -->
 
 Mengapakah orang-orang kafir bergegas datang kepadamu dan mengelilingi kamu dari arah kanan dan kirimu dengan berkelompok-kelompok? Apakah setiap orang dari mereka ingin--setelah mendengar janji Allah dan rasul-Nya untuk orang-orang Mukmin yang berupa surga--dimasukkan ke dalam surga yang penuh kenikmatan?
 
@@ -21714,6 +22142,8 @@ Aku bersumpah demi Tuhan Pemilik tempat terbit dan terbenamnya hari, bintang dan
 
 # 5416
 
+<!-- TODO:DUPLICATE -->
+
 Aku bersumpah demi Tuhan Pemilik tempat terbit dan terbenamnya hari, bintang dan petunjuk. Sesungguhnya Kami mampu menghancurkan mereka dan mendatangkan pengganti mereka yang lebih taat kepada Allah. Dan Kami tidaklah lemah untuk melakukan penggantian itu(1). (1) Al-masyâriq (tempat terbit) dan al-maghârib (tempat terbenam) di sini dapat dimaksudkan sebagai tempat-tempat kerajaan Allah dengan luasnya yang tak terhingga seperti diisyaratkan pada ayat 137 surat al-A'râf untuk menunjukkan belahan-belahan bumi yang disebutkan pada ayat itu. Al-masyâriq dan al-maghârib dapat pula diartikan sebagai tempat terbit dan terbenamnya matahari, bulan, seluruh bintang dan planet, di samping juga untuk menunjukkan semua kerajaan Allah. Gejala terbit dan terbenamnya benda-benda langit disebabkan oleh perputaran bumi pada porosnya dari barat ke timur. Oleh karena itu, benda-benda langit tersebut tampak bergerak di kubah langit berlawanan dengan perputaran tadi yaitu terbit di ufuk timur dan terbenam di ufuk barat. Atau paling sedikit berputar dari timur ke barat di sekitar bintang kutub utara--di belahan bola bumi bagian utara, misalnya. Apabila jarak kutub bintang itu lebih kecil dari lebarnya tempat peneropong, maka bintang tersebut tidak terbit dan tidak terbenam, tetapi membentuk putaran kecil di sekitar kutub utara. Oleh sebab itu ayat ini juga mengisaratkan saat-saat di malam hari (lihat ayat 16 surat al-Nahl). Jadi, fenomena terbit dan terbenam menunjukkan adanya perputaran bola bumi. Dan itu adalah nikmat terbesar yang diberikan oleh Allah kepada semua makhluk hidup di planet ini. Kalau bumi tidak berputar pada porosnya maka setengah bagiannya akan terkena sinar matahari selama setengah tahun dan setengan bagian lainnya tidak terkena sinar matahari sama sekali. Dengan demikian, tidak akan ada kehidupan seperti sekarang ini. Kalau kita coba membatasi fenomena terbit dan terbenam hanya pada matahari saja, tanpa bintang dan planet lainnya, maka ini menunjukkan banyaknya tempat terbit dan terbenam di bumi yang tidak ada habisnya dari hari ke hari pada setiap tempat di muka bumi ini. Bahkan pada setiap saat yang berlalu di bola bumi ini. Pada setiap saat matahari terbenam pada suatu titik dan terbit pada titik lain yang berlawanan. Ini semua berkat ketelitian aturan Allah dan mukjizat kekuasaan-Nya (Lihat juga catatan kaki ayat 5 surat al-Shâffât dan ayat 17 surat al-Rahmân).
 
 # 5417
@@ -21725,6 +22155,8 @@ Biarkanlah mereka tenggelam dalam kebatilan dan bersenang-senang dengan kehidupa
 Yaitu hari ketika mereka bergegas keluar dari kubur mereka menuju ke arah seseorang yang memanggil. Mereka seolah bersegera menuju sesuatu selain Allah yang disembahnya di dunia. Saat itu pandangan mereka tertunduk. Mereka tidak mampu mengangkatnya. Mereka dipenuhi oleh kehinaan. Dahulu mereka pernah dijanjikan dengan datangnya hari ini, tetapi mereka mendustakannya.
 
 # 5419
+
+<!-- TODO:DUPLICATE -->
 
 Yaitu hari ketika mereka bergegas keluar dari kubur mereka menuju ke arah seseorang yang memanggil. Mereka seolah bersegera menuju sesuatu selain Allah yang disembahnya di dunia. Saat itu pandangan mereka tertunduk. Mereka tidak mampu mengangkatnya. Mereka dipenuhi oleh kehinaan. Dahulu mereka pernah dijanjikan dengan datangnya hari ini, tetapi mereka mendustakannya.
 
@@ -21738,9 +22170,13 @@ Nûh berkata, "Wahai kaumku, aku adalah benar-benar pemberi peringatan dan penje
 
 # 5422
 
+<!-- TODO:DUPLICATE -->
+
 Nûh berkata, "Wahai kaumku, aku adalah benar-benar pemberi peringatan dan penjelasan tentang risalah Tuhan dengan bahasa yang kalian pahami, yaitu taatlah kalian kepada Allah, tunduklah kepada-Nya dalam melaksanakan kewajiban, takutlah kepada-Nya dan taatilah apa yang aku nasihatkan kepada kalian. Kalau kalian melakukan itu semua, niscaya Allah akan mengampuni seluruh dosa kalian dan memanjangkan umur kalian sampai waktu yang sangat panjang. Sesungguhnya jika kematian telah datang, maka tidak akan dapat diundur sedikit pun. Seandainya kalian mengetahui penyesalan yang kalian alami saat ajal itu datang, niscaya kalian akan beriman."
 
 # 5423
+
+<!-- TODO:DUPLICATE -->
 
 Nûh berkata, "Wahai kaumku, aku adalah benar-benar pemberi peringatan dan penjelasan tentang risalah Tuhan dengan bahasa yang kalian pahami, yaitu taatlah kalian kepada Allah, tunduklah kepada-Nya dalam melaksanakan kewajiban, takutlah kepada-Nya dan taatilah apa yang aku nasihatkan kepada kalian. Kalau kalian melakukan itu semua, niscaya Allah akan mengampuni seluruh dosa kalian dan memanjangkan umur kalian sampai waktu yang sangat panjang. Sesungguhnya jika kematian telah datang, maka tidak akan dapat diundur sedikit pun. Seandainya kalian mengetahui penyesalan yang kalian alami saat ajal itu datang, niscaya kalian akan beriman."
 
@@ -21749,6 +22185,8 @@ Nûh berkata, "Wahai kaumku, aku adalah benar-benar pemberi peringatan dan penje
 Nûh juga berkata, "Tuhanku, sesungguhnya aku telah mengajak kaumku untuk beriman siang dan malam tanpa henti. Tetapi ajakanku itu malah semakin membuat mereka tidak taat kepadaku.
 
 # 5425
+
+<!-- TODO:DUPLICATE -->
 
 Nûh juga berkata, "Tuhanku, sesungguhnya aku telah mengajak kaumku untuk beriman siang dan malam tanpa henti. Tetapi ajakanku itu malah semakin membuat mereka tidak taat kepadaku.
 
@@ -21762,6 +22200,8 @@ Kemudian aku menyeru mereka kepada-Mu dengan suara keras, lalu pada suatu kesemp
 
 # 5428
 
+<!-- TODO:DUPLICATE -->
+
 Kemudian aku menyeru mereka kepada-Mu dengan suara keras, lalu pada suatu kesempatan aku seru mereka dengan terang-terangan dan pada kesempatan lain secara sembunyi-sembunyi dalam rangka mencoba melakukan segala cara.
 
 # 5429
@@ -21770,9 +22210,13 @@ Aku katakan kepada kaumku, 'Mintalah ampunan atas kemaksiatan dan kekafiran kali
 
 # 5430
 
+<!-- TODO:DUPLICATE -->
+
 Aku katakan kepada kaumku, 'Mintalah ampunan atas kemaksiatan dan kekafiran kalian kepada Tuhan. Sesungguhnya Dia Maha Pengampun atas dosa-dosa hamba-Nya yang bertobat. Dia akan mengirim kepada kalian hujan yang lebat, memberikan kalian harta dan anak yang merupakan hiasan dunia, kebun- kebun yang dapat kalian nikmati keindahan dan buah-buahannya serta sungai-sungai yang dapat kalian gunakan untuk mengairi tanaman dan memberi minum ternak.
 
 # 5431
+
+<!-- TODO:DUPLICATE -->
 
 Aku katakan kepada kaumku, 'Mintalah ampunan atas kemaksiatan dan kekafiran kalian kepada Tuhan. Sesungguhnya Dia Maha Pengampun atas dosa-dosa hamba-Nya yang bertobat. Dia akan mengirim kepada kalian hujan yang lebat, memberikan kalian harta dan anak yang merupakan hiasan dunia, kebun- kebun yang dapat kalian nikmati keindahan dan buah-buahannya serta sungai-sungai yang dapat kalian gunakan untuk mengairi tanaman dan memberi minum ternak.
 
@@ -21782,6 +22226,8 @@ Mengapa kalian tidak mengagungkan Allah dengan sebenar-benarnya--sehingga kalian
 
 # 5433
 
+<!-- TODO:DUPLICATE -->
+
 Mengapa kalian tidak mengagungkan Allah dengan sebenar-benarnya--sehingga kalian dapat berharap mendapat kemuliaan diselamatkan dari azab--padahal Dia telah menciptakan kalian dengan beberapa tahapan, mulai dari air mani, segumpal darah, segumpal daging kemudian menjadi tulang dan daging?
 
 # 5434
@@ -21789,6 +22235,8 @@ Mengapa kalian tidak mengagungkan Allah dengan sebenar-benarnya--sehingga kalian
 Apakah kalian tidak memperhatikan bagaimana Allah menciptakan tujuh langit berlapis-lapis, menjadikan bulan di tujuh langit tersebut sebagai cahaya yang memancar serta menjadikan matahari sebagai lampu yang menerangi penghuni dunia dengan sinarnya untuk melihat segala yang dibutuhkan?
 
 # 5435
+
+<!-- TODO:DUPLICATE -->
 
 Apakah kalian tidak memperhatikan bagaimana Allah menciptakan tujuh langit berlapis-lapis, menjadikan bulan di tujuh langit tersebut sebagai cahaya yang memancar serta menjadikan matahari sebagai lampu yang menerangi penghuni dunia dengan sinarnya untuk melihat segala yang dibutuhkan?
 
@@ -21798,6 +22246,8 @@ Allah telah menciptakan kalian dari tanah, lalu kalian tumbuh secara menakjubkan
 
 # 5437
 
+<!-- TODO:DUPLICATE -->
+
 Allah telah menciptakan kalian dari tanah, lalu kalian tumbuh secara menakjubkan. Kemudian Dia akan mengembalikan kalian ke bumi setelah mati dan pasti akan mengeluarkan kalian dari situ.
 
 # 5438
@@ -21805,6 +22255,8 @@ Allah telah menciptakan kalian dari tanah, lalu kalian tumbuh secara menakjubkan
 Allah menjadikan bumi terhampar untuk kalian agar kalian dapat menelusuri jalan-jalan yang luas di bumi ini'."
 
 # 5439
+
+<!-- TODO:DUPLICATE -->
 
 Allah menjadikan bumi terhampar untuk kalian agar kalian dapat menelusuri jalan-jalan yang luas di bumi ini'."
 
@@ -21814,6 +22266,8 @@ Nûh melanjutkan berkata, "Wahai Tuhanku, sesungguhnya kaumku telah melanggar se
 
 # 5441
 
+<!-- TODO:DUPLICATE -->
+
 Nûh melanjutkan berkata, "Wahai Tuhanku, sesungguhnya kaumku telah melanggar seruanku untuk beriman dan memohon ampunan. Orang-orang lemah dari mereka mengikuti orang-orang yang harta dan anaknya malah membuat mereka tambah merugi di akhirat. Para pemilik harta dan anak yang banyak itu telah melakukan tipu daya yang sangat besar terhadap orang-orang lemah yang mengikuti mereka.
 
 # 5442
@@ -21821,6 +22275,8 @@ Nûh melanjutkan berkata, "Wahai Tuhanku, sesungguhnya kaumku telah melanggar se
 Kepada orang-orang lemah itu mereka mengatakan, 'Jangan kalian tinggalkan menyembah tuhan- tuhan kalian. Dan jangan tinggalkan Wadd, Suwa', Yaghûts, Ya'ûq dan Nasr'." Sembahan itu adalah patung- patung yang dipahat dalam bentuk binatang yang bermacam-macam. Orang-orang yang diikuti itu sungguh telah menyesatkan banyak orang. Kekafiran dan kekukuhan orang-orang yang zalim itu hanya menambah mereka jauh dari kebenaran.
 
 # 5443
+
+<!-- TODO:DUPLICATE -->
 
 Kepada orang-orang lemah itu mereka mengatakan, 'Jangan kalian tinggalkan menyembah tuhan- tuhan kalian. Dan jangan tinggalkan Wadd, Suwa', Yaghûts, Ya'ûq dan Nasr'." Sembahan itu adalah patung- patung yang dipahat dalam bentuk binatang yang bermacam-macam. Orang-orang yang diikuti itu sungguh telah menyesatkan banyak orang. Kekafiran dan kekukuhan orang-orang yang zalim itu hanya menambah mereka jauh dari kebenaran.
 
@@ -21948,6 +22404,8 @@ Allahlah yang Mahatahu hal-hal yang gaib. Dia tidak memperlihatkan hal-hal yang 
 
 # 5474
 
+<!-- TODO:DUPLICATE -->
+
 Allahlah yang Mahatahu hal-hal yang gaib. Dia tidak memperlihatkan hal-hal yang gaib itu kepada siapa pun kecuali kepada rasul yang diizinkan-Nya untuk mengetahui beberapa hal gaib. Sesungguhnya Dia mempersiapkan penjaga-penjaga dari malaikat di depan dan di belakang seorang rasul yang akan melindunginya dari berbagai bisikan jahat.
 
 # 5475
@@ -22010,6 +22468,8 @@ Sesungguhnya di sisi Kami, para pendusta itu di akhirat nanti akan digelantungi 
 
 # 5488
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya di sisi Kami, para pendusta itu di akhirat nanti akan digelantungi dengan belenggu- belenggu yang berat. Mereka akan mendapatkan api neraka yang berkobar-kobar, makanan yang tak tertelan dan menyumbat tenggorokan serta azab yang kepedihannya tak tertahankan.
 
 # 5489
@@ -22021,6 +22481,8 @@ Pada hari ketika bumi dan gunung-gunung bergoncang dengan amat kerasnya, sehingg
 Sesungguhnya Kami mengutus Muhammad kepada kalian, wahai penduduk Mekah, sebagai seorang Rasul yang akan menjadi saksi atas kalian di hari kiamat nanti untuk diterima atau ditolak. Begitu pula, Kami pun telah mengutus Mûsâ, sebagai seorang Rasul, kepada Fir'aun. Tetapi kemudian Fir'aun menentang dan memusuhi rasul yang Kami utus itu. Maka Kami pun menyiksa Fir'aun dengan azab yang berat dan menyakitkan.
 
 # 5491
+
+<!-- TODO:DUPLICATE -->
 
 Sesungguhnya Kami mengutus Muhammad kepada kalian, wahai penduduk Mekah, sebagai seorang Rasul yang akan menjadi saksi atas kalian di hari kiamat nanti untuk diterima atau ditolak. Begitu pula, Kami pun telah mengutus Mûsâ, sebagai seorang Rasul, kepada Fir'aun. Tetapi kemudian Fir'aun menentang dan memusuhi rasul yang Kami utus itu. Maka Kami pun menyiksa Fir'aun dengan azab yang berat dan menyakitkan.
 
@@ -22068,9 +22530,13 @@ Hindarilah siksaan itu. Waspadailah selalu hal-hal yang dapat menjerumuskanmu ke
 
 # 5501
 
+<!-- TODO:DUPLICATE -->
+
 Hindarilah siksaan itu. Waspadailah selalu hal-hal yang dapat menjerumuskanmu ke dalam siksaan. Janganlah kamu memberi sesuatu kepada orang lain untuk mendapatkan imbalan yang lebih besar dari orang tersebut. Untuk mendapatkan rida Tuhanmu, bersabarlah atas segala perintah dan larangan serta segala sesuatu yang berat dan penuh tantangan.
 
 # 5502
+
+<!-- TODO:DUPLICATE -->
 
 Hindarilah siksaan itu. Waspadailah selalu hal-hal yang dapat menjerumuskanmu ke dalam siksaan. Janganlah kamu memberi sesuatu kepada orang lain untuk mendapatkan imbalan yang lebih besar dari orang tersebut. Untuk mendapatkan rida Tuhanmu, bersabarlah atas segala perintah dan larangan serta segala sesuatu yang berat dan penuh tantangan.
 
@@ -22080,9 +22546,13 @@ Apabila sangkakala ditiupkan, maka saat itu merupakan hari yang sulit bagi orang
 
 # 5504
 
+<!-- TODO:DUPLICATE -->
+
 Apabila sangkakala ditiupkan, maka saat itu merupakan hari yang sulit bagi orang-orang kafir untuk melarikan diri dari perhitungan dan kedahsyatan-kedahsyatan lainnya yang mereka dapatkan.
 
 # 5505
+
+<!-- TODO:DUPLICATE -->
 
 Apabila sangkakala ditiupkan, maka saat itu merupakan hari yang sulit bagi orang-orang kafir untuk melarikan diri dari perhitungan dan kedahsyatan-kedahsyatan lainnya yang mereka dapatkan.
 
@@ -22092,17 +22562,25 @@ Biarlah Aku yang akan menindak orang yang telah Aku ciptakan. Sesungguhnya Aku t
 
 # 5507
 
+<!-- TODO:DUPLICATE -->
+
 Biarlah Aku yang akan menindak orang yang telah Aku ciptakan. Sesungguhnya Aku telah memberikan kecukupan baginya dengan harta yang berlimpah dan tak putus-putusnya, serta anak keturunan yang selalu menyertainya. Aku berikan ia kedudukan dan kekuasaan yang tinggi. Tetapi ia tak merasa puas dan memohon kepada-Ku untuk menambah lagi hartanya, keturunannya dan kedudukannya tanpa rasa syukur sedikit pun.
 
 # 5508
+
+<!-- TODO:DUPLICATE -->
 
 Biarlah Aku yang akan menindak orang yang telah Aku ciptakan. Sesungguhnya Aku telah memberikan kecukupan baginya dengan harta yang berlimpah dan tak putus-putusnya, serta anak keturunan yang selalu menyertainya. Aku berikan ia kedudukan dan kekuasaan yang tinggi. Tetapi ia tak merasa puas dan memohon kepada-Ku untuk menambah lagi hartanya, keturunannya dan kedudukannya tanpa rasa syukur sedikit pun.
 
 # 5509
 
+<!-- TODO:DUPLICATE -->
+
 Biarlah Aku yang akan menindak orang yang telah Aku ciptakan. Sesungguhnya Aku telah memberikan kecukupan baginya dengan harta yang berlimpah dan tak putus-putusnya, serta anak keturunan yang selalu menyertainya. Aku berikan ia kedudukan dan kekuasaan yang tinggi. Tetapi ia tak merasa puas dan memohon kepada-Ku untuk menambah lagi hartanya, keturunannya dan kedudukannya tanpa rasa syukur sedikit pun.
 
 # 5510
+
+<!-- TODO:DUPLICATE -->
 
 Biarlah Aku yang akan menindak orang yang telah Aku ciptakan. Sesungguhnya Aku telah memberikan kecukupan baginya dengan harta yang berlimpah dan tak putus-putusnya, serta anak keturunan yang selalu menyertainya. Aku berikan ia kedudukan dan kekuasaan yang tinggi. Tetapi ia tak merasa puas dan memohon kepada-Ku untuk menambah lagi hartanya, keturunannya dan kedudukannya tanpa rasa syukur sedikit pun.
 
@@ -22112,6 +22590,8 @@ Terjegallah ia dengan ketamakannya. Sesungguhnya ia adalah penentang dan pendust
 
 # 5512
 
+<!-- TODO:DUPLICATE -->
+
 Terjegallah ia dengan ketamakannya. Sesungguhnya ia adalah penentang dan pendusta kebenaran al-Qur'ân. Aku akan jegal ia dengan rintangan dan beban berat yang tidak mungkin dapat dilaluinya.
 
 # 5513
@@ -22120,9 +22600,13 @@ Sesungguhnya ia telah memikirkan dan mempersiapkan diri atas segala ucapannya un
 
 # 5514
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya ia telah memikirkan dan mempersiapkan diri atas segala ucapannya untuk mencela al-Qur'ân. Ia berhak mendapatkan kebinasaan sebagai akibat dari ketetapannya mencela al-Qur'ân. Lalu ia pun berhak mendapatkan kebinasaan sebagai akibat dari persiapannya melakukan pencelaan ini.
 
 # 5515
+
+<!-- TODO:DUPLICATE -->
 
 Sesungguhnya ia telah memikirkan dan mempersiapkan diri atas segala ucapannya untuk mencela al-Qur'ân. Ia berhak mendapatkan kebinasaan sebagai akibat dari ketetapannya mencela al-Qur'ân. Lalu ia pun berhak mendapatkan kebinasaan sebagai akibat dari persiapannya melakukan pencelaan ini.
 
@@ -22132,13 +22616,19 @@ Lalu ia menatapi wajah-wajah manusia. Ia pun mengerutkan wajahnya sehingga tampa
 
 # 5517
 
+<!-- TODO:DUPLICATE -->
+
 Lalu ia menatapi wajah-wajah manusia. Ia pun mengerutkan wajahnya sehingga tampak semakin suram. Kemudian ia berpaling dari kebenaran dan merasa sombong untuk mengakui kebenaran. Ia pun berkata, "Ini tidak lain hanyalah suatu sihir yang didapatkannya dari orang-orang terdahulu.
 
 # 5518
 
+<!-- TODO:DUPLICATE -->
+
 Lalu ia menatapi wajah-wajah manusia. Ia pun mengerutkan wajahnya sehingga tampak semakin suram. Kemudian ia berpaling dari kebenaran dan merasa sombong untuk mengakui kebenaran. Ia pun berkata, "Ini tidak lain hanyalah suatu sihir yang didapatkannya dari orang-orang terdahulu.
 
 # 5519
+
+<!-- TODO:DUPLICATE -->
 
 Lalu ia menatapi wajah-wajah manusia. Ia pun mengerutkan wajahnya sehingga tampak semakin suram. Kemudian ia berpaling dari kebenaran dan merasa sombong untuk mengakui kebenaran. Ia pun berkata, "Ini tidak lain hanyalah suatu sihir yang didapatkannya dari orang-orang terdahulu.
 
@@ -22152,17 +22642,25 @@ Aku akan memasukkannya ke dalam neraka jahanam untuk membakarnya. Tahukah kamu, 
 
 # 5522
 
+<!-- TODO:DUPLICATE -->
+
 Aku akan memasukkannya ke dalam neraka jahanam untuk membakarnya. Tahukah kamu, apakah neraka jahanam itu? Neraka jahanam adalah neraka yang tidak membiarkan daging dan tulang tanpa terbakar. Yang akan menghanguskan sampai ke kulit luarnya. Di sana terdapat sembilan belas malaikat yang akan menjaga dan menyiksa penghuninya.
 
 # 5523
+
+<!-- TODO:DUPLICATE -->
 
 Aku akan memasukkannya ke dalam neraka jahanam untuk membakarnya. Tahukah kamu, apakah neraka jahanam itu? Neraka jahanam adalah neraka yang tidak membiarkan daging dan tulang tanpa terbakar. Yang akan menghanguskan sampai ke kulit luarnya. Di sana terdapat sembilan belas malaikat yang akan menjaga dan menyiksa penghuninya.
 
 # 5524
 
+<!-- TODO:DUPLICATE -->
+
 Aku akan memasukkannya ke dalam neraka jahanam untuk membakarnya. Tahukah kamu, apakah neraka jahanam itu? Neraka jahanam adalah neraka yang tidak membiarkan daging dan tulang tanpa terbakar. Yang akan menghanguskan sampai ke kulit luarnya. Di sana terdapat sembilan belas malaikat yang akan menjaga dan menyiksa penghuninya.
 
 # 5525
+
+<!-- TODO:DUPLICATE -->
 
 Aku akan memasukkannya ke dalam neraka jahanam untuk membakarnya. Tahukah kamu, apakah neraka jahanam itu? Neraka jahanam adalah neraka yang tidak membiarkan daging dan tulang tanpa terbakar. Yang akan menghanguskan sampai ke kulit luarnya. Di sana terdapat sembilan belas malaikat yang akan menjaga dan menyiksa penghuninya.
 
@@ -22176,17 +22674,25 @@ Sebagai penolakan bagi orang yang diancam dengan neraka tapi tidak membuatnya ta
 
 # 5528
 
+<!-- TODO:DUPLICATE -->
+
 Sebagai penolakan bagi orang yang diancam dengan neraka tapi tidak membuatnya takut dan waspada, Aku bersumpah demi bulan dan demi malam apabila telah berlalu serta demi waktu subuh apabila telah bersinar dan mulai terang, bahwa sesungguhnya neraka Saqar itu benar-benar merupakan salah satu malapetaka terdahsyat yang mengancam dan menakutkan.
 
 # 5529
+
+<!-- TODO:DUPLICATE -->
 
 Sebagai penolakan bagi orang yang diancam dengan neraka tapi tidak membuatnya takut dan waspada, Aku bersumpah demi bulan dan demi malam apabila telah berlalu serta demi waktu subuh apabila telah bersinar dan mulai terang, bahwa sesungguhnya neraka Saqar itu benar-benar merupakan salah satu malapetaka terdahsyat yang mengancam dan menakutkan.
 
 # 5530
 
+<!-- TODO:DUPLICATE -->
+
 Sebagai penolakan bagi orang yang diancam dengan neraka tapi tidak membuatnya takut dan waspada, Aku bersumpah demi bulan dan demi malam apabila telah berlalu serta demi waktu subuh apabila telah bersinar dan mulai terang, bahwa sesungguhnya neraka Saqar itu benar-benar merupakan salah satu malapetaka terdahsyat yang mengancam dan menakutkan.
 
 # 5531
+
+<!-- TODO:DUPLICATE -->
 
 Sebagai penolakan bagi orang yang diancam dengan neraka tapi tidak membuatnya takut dan waspada, Aku bersumpah demi bulan dan demi malam apabila telah berlalu serta demi waktu subuh apabila telah bersinar dan mulai terang, bahwa sesungguhnya neraka Saqar itu benar-benar merupakan salah satu malapetaka terdahsyat yang mengancam dan menakutkan.
 
@@ -22200,6 +22706,8 @@ Setiap jiwa akan mendapat balasan dari kejahatan yang diperbuatnya, kecuali golo
 
 # 5534
 
+<!-- TODO:DUPLICATE -->
+
 Setiap jiwa akan mendapat balasan dari kejahatan yang diperbuatnya, kecuali golongan muslim yang telah membebaskan diri dengan melakukan ketaatan.
 
 # 5535
@@ -22208,9 +22716,13 @@ Mereka akan berada di dalam surga yang tidak dapat dibayangkan keindahannya. Ket
 
 # 5536
 
+<!-- TODO:DUPLICATE -->
+
 Mereka akan berada di dalam surga yang tidak dapat dibayangkan keindahannya. Ketika itu mereka saling bertanya mengenai nasib buruk para pembuat dosa. Mereka bertanya kepada para pembuat dosa, "Mengapa kalian dimasukkan ke dalam neraka Saqar?"
 
 # 5537
+
+<!-- TODO:DUPLICATE -->
 
 Mereka akan berada di dalam surga yang tidak dapat dibayangkan keindahannya. Ketika itu mereka saling bertanya mengenai nasib buruk para pembuat dosa. Mereka bertanya kepada para pembuat dosa, "Mengapa kalian dimasukkan ke dalam neraka Saqar?"
 
@@ -22220,17 +22732,25 @@ Mereka menjawab, "Dahulu kami tidak menegakkan salat seperti yang dilakukan kaum
 
 # 5539
 
+<!-- TODO:DUPLICATE -->
+
 Mereka menjawab, "Dahulu kami tidak menegakkan salat seperti yang dilakukan kaum muslim. Kami pun tidak memberi makan orang-orang miskin sebagaimana dilakukan kaum muslim. Kami juga selalu membela dan larut bersama orang-orang yang melakukan kebatilan dan kebohongan. Selain itu, kami mendustakan hari perhitungan dan pembalasan sampai saat datangnya kematian kami."
 
 # 5540
+
+<!-- TODO:DUPLICATE -->
 
 Mereka menjawab, "Dahulu kami tidak menegakkan salat seperti yang dilakukan kaum muslim. Kami pun tidak memberi makan orang-orang miskin sebagaimana dilakukan kaum muslim. Kami juga selalu membela dan larut bersama orang-orang yang melakukan kebatilan dan kebohongan. Selain itu, kami mendustakan hari perhitungan dan pembalasan sampai saat datangnya kematian kami."
 
 # 5541
 
+<!-- TODO:DUPLICATE -->
+
 Mereka menjawab, "Dahulu kami tidak menegakkan salat seperti yang dilakukan kaum muslim. Kami pun tidak memberi makan orang-orang miskin sebagaimana dilakukan kaum muslim. Kami juga selalu membela dan larut bersama orang-orang yang melakukan kebatilan dan kebohongan. Selain itu, kami mendustakan hari perhitungan dan pembalasan sampai saat datangnya kematian kami."
 
 # 5542
+
+<!-- TODO:DUPLICATE -->
 
 Mereka menjawab, "Dahulu kami tidak menegakkan salat seperti yang dilakukan kaum muslim. Kami pun tidak memberi makan orang-orang miskin sebagaimana dilakukan kaum muslim. Kami juga selalu membela dan larut bersama orang-orang yang melakukan kebatilan dan kebohongan. Selain itu, kami mendustakan hari perhitungan dan pembalasan sampai saat datangnya kematian kami."
 
@@ -22248,6 +22768,8 @@ Mereka itu bagaikan keledai liar yang melarikan diri dari terkaman pemangsanya.
 
 # 5546
 
+<!-- TODO:DUPLICATE -->
+
 Mereka itu bagaikan keledai liar yang melarikan diri dari terkaman pemangsanya.
 
 # 5547
@@ -22263,6 +22785,8 @@ Tertolaklah mereka dengan segala keinginan mereka. Sebenarnya mereka adalah oran
 Sungguh al-Qur'ân merupakan suatu peringatan yang jelas dan meyakinkan. Maka, barangsiapa yang ingin menjadikannya sebagai pelajaran dan tidak mengabaikannya, niscaya ia akan mendapatkannya.
 
 # 5550
+
+<!-- TODO:DUPLICATE -->
 
 Sungguh al-Qur'ân merupakan suatu peringatan yang jelas dan meyakinkan. Maka, barangsiapa yang ingin menjadikannya sebagai pelajaran dan tidak mengabaikannya, niscaya ia akan mendapatkannya.
 
@@ -22304,13 +22828,19 @@ Maka tatkala mata terbelalak ketakutan dan bulan telah kehilangan cahayanya, sem
 
 # 5559
 
+<!-- TODO:DUPLICATE -->
+
 Maka tatkala mata terbelalak ketakutan dan bulan telah kehilangan cahayanya, sementara matahari dan bulan muncul bersamaan dari arah barat, ketika itulah manusia berkata, "Ke mana lagi kita dapat melarikan diri dari azab?"
 
 # 5560
 
+<!-- TODO:DUPLICATE -->
+
 Maka tatkala mata terbelalak ketakutan dan bulan telah kehilangan cahayanya, sementara matahari dan bulan muncul bersamaan dari arah barat, ketika itulah manusia berkata, "Ke mana lagi kita dapat melarikan diri dari azab?"
 
 # 5561
+
+<!-- TODO:DUPLICATE -->
 
 Maka tatkala mata terbelalak ketakutan dan bulan telah kehilangan cahayanya, sementara matahari dan bulan muncul bersamaan dari arah barat, ketika itulah manusia berkata, "Ke mana lagi kita dapat melarikan diri dari azab?"
 
@@ -22319,6 +22849,8 @@ Maka tatkala mata terbelalak ketakutan dan bulan telah kehilangan cahayanya, sem
 Terjegallah kalian, wahai manusia, dari upaya mencari tempat pelarian dari azab. Tak ada tempat berlindung bagi kalian kecuali kepada Tuhanku semata yang akan memutuskan bagi para hamba-Nya: ke surga atau ke neraka.
 
 # 5563
+
+<!-- TODO:DUPLICATE -->
 
 Terjegallah kalian, wahai manusia, dari upaya mencari tempat pelarian dari azab. Tak ada tempat berlindung bagi kalian kecuali kepada Tuhanku semata yang akan memutuskan bagi para hamba-Nya: ke surga atau ke neraka.
 
@@ -22332,6 +22864,8 @@ Bahkan manusia itu sendiri akan menjadi saksi yang jelas bagi semua yang dilakuk
 
 # 5566
 
+<!-- TODO:DUPLICATE -->
+
 Bahkan manusia itu sendiri akan menjadi saksi yang jelas bagi semua yang dilakukan maupun yang ditinggalkannya. Kendati saat itu manusia berusaha melontarkan berbagai alasan, semua itu tidak akan dapat menyelamatkan dirinya.
 
 # 5567
@@ -22339,6 +22873,8 @@ Bahkan manusia itu sendiri akan menjadi saksi yang jelas bagi semua yang dilakuk
 Saat wahyu diturunkan, hendaknya kamu, Muhammad, tidak menggerakkan lidahmu untuk membaca al-Qur'ân karena didorong oleh keinginan untuk cepat-cepat membaca dan menghafalnya. Sesungguhnya Kamilah yang akan mengumpulkannya dalam dadamu dan memantapkan bacaannya di lidahmu.
 
 # 5568
+
+<!-- TODO:DUPLICATE -->
 
 Saat wahyu diturunkan, hendaknya kamu, Muhammad, tidak menggerakkan lidahmu untuk membaca al-Qur'ân karena didorong oleh keinginan untuk cepat-cepat membaca dan menghafalnya. Sesungguhnya Kamilah yang akan mengumpulkannya dalam dadamu dan memantapkan bacaannya di lidahmu.
 
@@ -22348,6 +22884,8 @@ Apabila utusan Kami telah membacakan al-Qur'ân kepadamu, maka ikutilah bacaanny
 
 # 5570
 
+<!-- TODO:DUPLICATE -->
+
 Apabila utusan Kami telah membacakan al-Qur'ân kepadamu, maka ikutilah bacaannya itu dengan menyimaknya terlebih dahulu. Lalu Kamilah yang akan menjelaskan jika di dalamnya kamu temui kesulitan.
 
 # 5571
@@ -22355,6 +22893,8 @@ Apabila utusan Kami telah membacakan al-Qur'ân kepadamu, maka ikutilah bacaanny
 Tertolaklah kalian karena telah mengingkari kebenaran hari kebangkitan. Bahkan kalian adalah orang-orang yang mencintai dunia dengan kegemerlapannya dan mengabaikan akhirat dengan segala kenikmatannya.
 
 # 5572
+
+<!-- TODO:DUPLICATE -->
 
 Tertolaklah kalian karena telah mengingkari kebenaran hari kebangkitan. Bahkan kalian adalah orang-orang yang mencintai dunia dengan kegemerlapannya dan mengabaikan akhirat dengan segala kenikmatannya.
 
@@ -22364,6 +22904,8 @@ Pada hari itu, wajah orang-orang Mukmin nampak berseri-seri melihat Tuhannya, ta
 
 # 5574
 
+<!-- TODO:DUPLICATE -->
+
 Pada hari itu, wajah orang-orang Mukmin nampak berseri-seri melihat Tuhannya, tanpa ditentukan bagaimana cara melihat-Nya, dari arah mana dan dari jarak berapa.
 
 # 5575
@@ -22371,6 +22913,8 @@ Pada hari itu, wajah orang-orang Mukmin nampak berseri-seri melihat Tuhannya, ta
 Pada hari itu pula, wajah orang-orang kafir nampak kusam karena teramat muram. Mereka telah menduga bahwa mereka akan ditimpakan suatu petaka yang amat dahsyat hingga membuat hancur tulang punggung-tulang punggung mereka.
 
 # 5576
+
+<!-- TODO:DUPLICATE -->
 
 Pada hari itu pula, wajah orang-orang kafir nampak kusam karena teramat muram. Mereka telah menduga bahwa mereka akan ditimpakan suatu petaka yang amat dahsyat hingga membuat hancur tulang punggung-tulang punggung mereka.
 
@@ -22380,17 +22924,25 @@ Terjegallah kalian dari cinta dunia yang akan kalian tinggalkan apabila ruh tela
 
 # 5578
 
+<!-- TODO:DUPLICATE -->
+
 Terjegallah kalian dari cinta dunia yang akan kalian tinggalkan apabila ruh telah mencapai tulang kerongkongan. Mereka yang menyaksikan saling bertanya, "Adakah yang dapat menyembuhkan rasa sakit yang dideritanya?" Orang yang tengah sekarat itu telah menduga bahwa apa yang dialaminya adalah perpisahan dengan dunia yang dicintainya. Rasa sakit pun semakin memuncak. Maka bertautlah betis dengan betis lainnya saat ruh dicabut. Hari itu, kepada Tuhanmulah para hamba akan digiring, baik ke surga maupun ke neraka.
 
 # 5579
+
+<!-- TODO:DUPLICATE -->
 
 Terjegallah kalian dari cinta dunia yang akan kalian tinggalkan apabila ruh telah mencapai tulang kerongkongan. Mereka yang menyaksikan saling bertanya, "Adakah yang dapat menyembuhkan rasa sakit yang dideritanya?" Orang yang tengah sekarat itu telah menduga bahwa apa yang dialaminya adalah perpisahan dengan dunia yang dicintainya. Rasa sakit pun semakin memuncak. Maka bertautlah betis dengan betis lainnya saat ruh dicabut. Hari itu, kepada Tuhanmulah para hamba akan digiring, baik ke surga maupun ke neraka.
 
 # 5580
 
+<!-- TODO:DUPLICATE -->
+
 Terjegallah kalian dari cinta dunia yang akan kalian tinggalkan apabila ruh telah mencapai tulang kerongkongan. Mereka yang menyaksikan saling bertanya, "Adakah yang dapat menyembuhkan rasa sakit yang dideritanya?" Orang yang tengah sekarat itu telah menduga bahwa apa yang dialaminya adalah perpisahan dengan dunia yang dicintainya. Rasa sakit pun semakin memuncak. Maka bertautlah betis dengan betis lainnya saat ruh dicabut. Hari itu, kepada Tuhanmulah para hamba akan digiring, baik ke surga maupun ke neraka.
 
 # 5581
+
+<!-- TODO:DUPLICATE -->
 
 Terjegallah kalian dari cinta dunia yang akan kalian tinggalkan apabila ruh telah mencapai tulang kerongkongan. Mereka yang menyaksikan saling bertanya, "Adakah yang dapat menyembuhkan rasa sakit yang dideritanya?" Orang yang tengah sekarat itu telah menduga bahwa apa yang dialaminya adalah perpisahan dengan dunia yang dicintainya. Rasa sakit pun semakin memuncak. Maka bertautlah betis dengan betis lainnya saat ruh dicabut. Hari itu, kepada Tuhanmulah para hamba akan digiring, baik ke surga maupun ke neraka.
 
@@ -22400,9 +22952,13 @@ Manusia telah mengingkari hari kebangkitan. Dengan demikian ia berarti tidak mem
 
 # 5583
 
+<!-- TODO:DUPLICATE -->
+
 Manusia telah mengingkari hari kebangkitan. Dengan demikian ia berarti tidak mempercayai rasul dan al-Qur'ân. Ia pun tidak menunaikan kewajiban salat yang Allah tentukan. Tetapi dia telah mendustakan al-Qur'ân dan menolak untuk beriman. Kemudian ia menemui keluarganya dengan membentangkan punggung tanda kepongahan.
 
 # 5584
+
+<!-- TODO:DUPLICATE -->
 
 Manusia telah mengingkari hari kebangkitan. Dengan demikian ia berarti tidak mempercayai rasul dan al-Qur'ân. Ia pun tidak menunaikan kewajiban salat yang Allah tentukan. Tetapi dia telah mendustakan al-Qur'ân dan menolak untuk beriman. Kemudian ia menemui keluarganya dengan membentangkan punggung tanda kepongahan.
 
@@ -22411,6 +22967,8 @@ Manusia telah mengingkari hari kebangkitan. Dengan demikian ia berarti tidak mem
 Celaka, dan celakalah kamu, wahai pendusta! Lalu celaka, dan celakalah kamu selamanya!
 
 # 5586
+
+<!-- TODO:DUPLICATE -->
 
 Celaka, dan celakalah kamu, wahai pendusta! Lalu celaka, dan celakalah kamu selamanya!
 
@@ -22423,6 +22981,8 @@ Apakah manusia yang mengingkari hari kebangkitan itu mengira akan dibiarkan begi
 Bukankah manusia berasal dari setetes air mani yang dikokohkan untuk dibentuk di dalam rahim, lalu menjadi 'alaqah (segumpal darah kental) dan akhirnya diciptakan dan disempurnakan oleh Allah dalam bentuk yang sebaik-baiknya?
 
 # 5589
+
+<!-- TODO:DUPLICATE -->
 
 Bukankah manusia berasal dari setetes air mani yang dikokohkan untuk dibentuk di dalam rahim, lalu menjadi 'alaqah (segumpal darah kental) dan akhirnya diciptakan dan disempurnakan oleh Allah dalam bentuk yang sebaik-baiknya?
 
@@ -22456,6 +23016,8 @@ Sesungguhnya orang-orang yang benar-benar beriman akan mendapatkan minuman dari 
 
 # 5597
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya orang-orang yang benar-benar beriman akan mendapatkan minuman dari arak yang dicampur dengan air kâfûr, sebagai mata air yang mengalirkan minuman-minuman para hamba Allah yang dapat mereka peroleh dengan mudah sekehendak mereka.
 
 # 5598
@@ -22480,6 +23042,8 @@ Maka Allah melindungi mereka dari berbagai kesulitan di hari itu. Allah menjadik
 
 # 5603
 
+<!-- TODO:DUPLICATE -->
+
 Maka Allah melindungi mereka dari berbagai kesulitan di hari itu. Allah menjadikan wajah mereka berseri-seri, tidak seperti wajah masam orang-orang yang berbuat dosa. Hati mereka pun merasa senang dan gembira. Ganjaran dari kesabaran mereka adalah surga yang menyenangkan dan pakaian dari sutra yang sangat halus dan lembut.
 
 # 5604
@@ -22496,6 +23060,8 @@ Para pelayan menjajakan kepada mereka bejana-bejana minuman dari perak dan gelas
 
 # 5607
 
+<!-- TODO:DUPLICATE -->
+
 Para pelayan menjajakan kepada mereka bejana-bejana minuman dari perak dan gelas-gelas lembut dan putih yang sangat jernih bagai kaca dan terbuat dari perak. Minuman itu ditentukan oleh para pemberi minum sesuai dengan keinginan yang meminum.
 
 # 5608
@@ -22503,6 +23069,8 @@ Para pelayan menjajakan kepada mereka bejana-bejana minuman dari perak dan gelas
 Orang-orang yang baik itu, di dalam surga, akan diberi minum arak yang dicampur dengan sesuatu yang rasanya seperti jahe. Minuman ini berasal dari sebuah mata air di dalam surga yang disebut salsabîl, karena begitu mudah ditelan dan begitu sedap rasanya.
 
 # 5609
+
+<!-- TODO:DUPLICATE -->
 
 Orang-orang yang baik itu, di dalam surga, akan diberi minum arak yang dicampur dengan sesuatu yang rasanya seperti jahe. Minuman ini berasal dari sebuah mata air di dalam surga yang disebut salsabîl, karena begitu mudah ditelan dan begitu sedap rasanya.
 
@@ -22535,6 +23103,8 @@ Maka, hendaknya kamu bersabar atas ketetapan Allah untuk menunda kemenanganmu me
 Berzikirlah selalu kepada Tuhanmu. Lakukanlah salat subuh di pagi hari dan zuhur serta asar di siang hari. Di waktu malam, lakukanlah salat magrib dan isya. Dan isilah pula waktu malam yang panjang itu untuk bertahajud.
 
 # 5617
+
+<!-- TODO:DUPLICATE -->
 
 Berzikirlah selalu kepada Tuhanmu. Lakukanlah salat subuh di pagi hari dan zuhur serta asar di siang hari. Di waktu malam, lakukanlah salat magrib dan isya. Dan isilah pula waktu malam yang panjang itu untuk bertahajud.
 
@@ -22604,13 +23174,19 @@ Maka, apabila bintang-gemintang menghancurkan dirinya sendiri; apabila langit te
 
 # 5631
 
+<!-- TODO:DUPLICATE -->
+
 Maka, apabila bintang-gemintang menghancurkan dirinya sendiri; apabila langit terbelah; apabila gunung-gunung hancur lebur diterpa angin; dan apabila para rasul telah ditentukan waktunya untuk datang sebagai saksi bagi seluruh umat.
 
 # 5632
 
+<!-- TODO:DUPLICATE -->
+
 Maka, apabila bintang-gemintang menghancurkan dirinya sendiri; apabila langit terbelah; apabila gunung-gunung hancur lebur diterpa angin; dan apabila para rasul telah ditentukan waktunya untuk datang sebagai saksi bagi seluruh umat.
 
 # 5633
+
+<!-- TODO:DUPLICATE -->
 
 Maka, apabila bintang-gemintang menghancurkan dirinya sendiri; apabila langit terbelah; apabila gunung-gunung hancur lebur diterpa angin; dan apabila para rasul telah ditentukan waktunya untuk datang sebagai saksi bagi seluruh umat.
 
@@ -22620,13 +23196,19 @@ Sampai kapankah segala peristiwa besar ini ditangguhkan? Sampai datangnya hari k
 
 # 5635
 
+<!-- TODO:DUPLICATE -->
+
 Sampai kapankah segala peristiwa besar ini ditangguhkan? Sampai datangnya hari keputusan bagi semua makhluk. Tahukan kamu mengenai hal ihwal hari keputusan? Pada hari itu, kebinasaan akan menimpa orang-orang yang mendustakan apa yang telah dijanjikan para rasul.
 
 # 5636
 
+<!-- TODO:DUPLICATE -->
+
 Sampai kapankah segala peristiwa besar ini ditangguhkan? Sampai datangnya hari keputusan bagi semua makhluk. Tahukan kamu mengenai hal ihwal hari keputusan? Pada hari itu, kebinasaan akan menimpa orang-orang yang mendustakan apa yang telah dijanjikan para rasul.
 
 # 5637
+
+<!-- TODO:DUPLICATE -->
 
 Sampai kapankah segala peristiwa besar ini ditangguhkan? Sampai datangnya hari keputusan bagi semua makhluk. Tahukan kamu mengenai hal ihwal hari keputusan? Pada hari itu, kebinasaan akan menimpa orang-orang yang mendustakan apa yang telah dijanjikan para rasul.
 
@@ -22636,9 +23218,13 @@ Bukankah Kami telah membinasakan umat-umat terdahulu yang telah mendustakan kebe
 
 # 5639
 
+<!-- TODO:DUPLICATE -->
+
 Bukankah Kami telah membinasakan umat-umat terdahulu yang telah mendustakan kebenaran? Bukankah--setelah umat-umat terdahulu itu--Kami akan melanjutkan untuk membinasakan umat-umat yang berbuat dosa dan mengingkari Allah yang datang kemudian?
 
 # 5640
+
+<!-- TODO:DUPLICATE -->
 
 Bukankah Kami telah membinasakan umat-umat terdahulu yang telah mendustakan kebenaran? Bukankah--setelah umat-umat terdahulu itu--Kami akan melanjutkan untuk membinasakan umat-umat yang berbuat dosa dan mengingkari Allah yang datang kemudian?
 
@@ -22652,17 +23238,25 @@ Bukankah Kami ciptakan kalian dari air nutfah yang hina, lalu Kami letakkan air 
 
 # 5643
 
+<!-- TODO:DUPLICATE -->
+
 Bukankah Kami ciptakan kalian dari air nutfah yang hina, lalu Kami letakkan air itu di tempat yang kokoh sampai selesai tahap penciptaan dan pembentukannya sesuai dengan pengetahuan Allah, kemudian Kami tentukan penciptaannya, pembentukannya dan saat kemunculannya--dan Kamilah sebaik-baik penentu dan pencipta? Sungguh celaka pada hari ini mereka yang telah mendustakan karunia penciptaan dan penentuan.
 
 # 5644
+
+<!-- TODO:DUPLICATE -->
 
 Bukankah Kami ciptakan kalian dari air nutfah yang hina, lalu Kami letakkan air itu di tempat yang kokoh sampai selesai tahap penciptaan dan pembentukannya sesuai dengan pengetahuan Allah, kemudian Kami tentukan penciptaannya, pembentukannya dan saat kemunculannya--dan Kamilah sebaik-baik penentu dan pencipta? Sungguh celaka pada hari ini mereka yang telah mendustakan karunia penciptaan dan penentuan.
 
 # 5645
 
+<!-- TODO:DUPLICATE -->
+
 Bukankah Kami ciptakan kalian dari air nutfah yang hina, lalu Kami letakkan air itu di tempat yang kokoh sampai selesai tahap penciptaan dan pembentukannya sesuai dengan pengetahuan Allah, kemudian Kami tentukan penciptaannya, pembentukannya dan saat kemunculannya--dan Kamilah sebaik-baik penentu dan pencipta? Sungguh celaka pada hari ini mereka yang telah mendustakan karunia penciptaan dan penentuan.
 
 # 5646
+
+<!-- TODO:DUPLICATE -->
 
 Bukankah Kami ciptakan kalian dari air nutfah yang hina, lalu Kami letakkan air itu di tempat yang kokoh sampai selesai tahap penciptaan dan pembentukannya sesuai dengan pengetahuan Allah, kemudian Kami tentukan penciptaannya, pembentukannya dan saat kemunculannya--dan Kamilah sebaik-baik penentu dan pencipta? Sungguh celaka pada hari ini mereka yang telah mendustakan karunia penciptaan dan penentuan.
 
@@ -22672,13 +23266,19 @@ Bukankah Kami jadikan bumi sebagai tempat berkumpul, permukaannya dipenuhi makhl
 
 # 5648
 
+<!-- TODO:DUPLICATE -->
+
 Bukankah Kami jadikan bumi sebagai tempat berkumpul, permukaannya dipenuhi makhluk hidup yang tak terhitung dan di dalam perutnya terkandung makhluk-makhluk mati yang tak terbilang? Bukankah Kami jadikan di atas bumi itu gunung-gunung yang kokoh dan tinggi menjulang, dan Kami pun memberi minum kalian dengan air tawar yang segar? Pada hari ini, sungguh celaka mereka yang telah mendustakan pelbagai nikmat-nikmat itu.
 
 # 5649
 
+<!-- TODO:DUPLICATE -->
+
 Bukankah Kami jadikan bumi sebagai tempat berkumpul, permukaannya dipenuhi makhluk hidup yang tak terhitung dan di dalam perutnya terkandung makhluk-makhluk mati yang tak terbilang? Bukankah Kami jadikan di atas bumi itu gunung-gunung yang kokoh dan tinggi menjulang, dan Kami pun memberi minum kalian dengan air tawar yang segar? Pada hari ini, sungguh celaka mereka yang telah mendustakan pelbagai nikmat-nikmat itu.
 
 # 5650
+
+<!-- TODO:DUPLICATE -->
 
 Bukankah Kami jadikan bumi sebagai tempat berkumpul, permukaannya dipenuhi makhluk hidup yang tak terhitung dan di dalam perutnya terkandung makhluk-makhluk mati yang tak terbilang? Bukankah Kami jadikan di atas bumi itu gunung-gunung yang kokoh dan tinggi menjulang, dan Kami pun memberi minum kalian dengan air tawar yang segar? Pada hari ini, sungguh celaka mereka yang telah mendustakan pelbagai nikmat-nikmat itu.
 
@@ -22688,9 +23288,13 @@ Di hari keputusan akan dikatakan kepada orang-orang kafir, "Berjalanlah kalian k
 
 # 5652
 
+<!-- TODO:DUPLICATE -->
+
 Di hari keputusan akan dikatakan kepada orang-orang kafir, "Berjalanlah kalian ke neraka yang dahulu kalian dustakan. Pergilah ke arah panasnya asap api neraka yang, karena teramat dahsyat, bercabang tiga. Tak ada tempat bernaung dari panasnya hari kiamat dan tak ada yang dapat menghalangi jilatan panas api neraka."
 
 # 5653
+
+<!-- TODO:DUPLICATE -->
 
 Di hari keputusan akan dikatakan kepada orang-orang kafir, "Berjalanlah kalian ke neraka yang dahulu kalian dustakan. Pergilah ke arah panasnya asap api neraka yang, karena teramat dahsyat, bercabang tiga. Tak ada tempat bernaung dari panasnya hari kiamat dan tak ada yang dapat menghalangi jilatan panas api neraka."
 
@@ -22700,9 +23304,13 @@ Sesungguhnya neraka akan melontarkan bunga-bunga api yang besarnya seperti istan
 
 # 5655
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya neraka akan melontarkan bunga-bunga api yang besarnya seperti istana, seolah-olah bunga-bunga api itu merupakan iring-iringan unta hitam yang berubah menjadi kuning. Pada hari ini, celakalah orang-orang yang mendustakan neraka dengan ciri-ciri seperti ini.
 
 # 5656
+
+<!-- TODO:DUPLICATE -->
 
 Sesungguhnya neraka akan melontarkan bunga-bunga api yang besarnya seperti istana, seolah-olah bunga-bunga api itu merupakan iring-iringan unta hitam yang berubah menjadi kuning. Pada hari ini, celakalah orang-orang yang mendustakan neraka dengan ciri-ciri seperti ini.
 
@@ -22712,9 +23320,13 @@ Semua yang Kami paparkan kepada kalian ini adalah benar-benar terjadi pada hari 
 
 # 5658
 
+<!-- TODO:DUPLICATE -->
+
 Semua yang Kami paparkan kepada kalian ini adalah benar-benar terjadi pada hari ketika mereka tidak dapat lagi berbicara untuk membela diri. Mereka pun tidak akan diperkenankan untuk berbicara dan beralasan karena mereka memang tidak akan dimaafkan. Pada hari ini, celakalah mereka yang telah mendustakan kedatangan hari kiamat.
 
 # 5659
+
+<!-- TODO:DUPLICATE -->
 
 Semua yang Kami paparkan kepada kalian ini adalah benar-benar terjadi pada hari ketika mereka tidak dapat lagi berbicara untuk membela diri. Mereka pun tidak akan diperkenankan untuk berbicara dan beralasan karena mereka memang tidak akan dimaafkan. Pada hari ini, celakalah mereka yang telah mendustakan kedatangan hari kiamat.
 
@@ -22724,9 +23336,13 @@ Inilah hari penentuan antara pelaku kebaikan dan pelaku kebatilan untuk mendapat
 
 # 5661
 
+<!-- TODO:DUPLICATE -->
+
 Inilah hari penentuan antara pelaku kebaikan dan pelaku kebatilan untuk mendapatkan balasan yang setimpal. Kami akan kumpulkan kalian, wahai para pendusta Muhammad, beserta para pendusta terdahulu. Jika kalian memiliki tipu daya untuk menolak azab, lakukanlah tipu daya kalian itu. Tunjukkanlah dan selamatkanlah diri kalian dari azab-Ku ini. Pada hari ini, sungguh celaka bagi mereka yang mendustakan ancaman Allah.
 
 # 5662
+
+<!-- TODO:DUPLICATE -->
 
 Inilah hari penentuan antara pelaku kebaikan dan pelaku kebatilan untuk mendapatkan balasan yang setimpal. Kami akan kumpulkan kalian, wahai para pendusta Muhammad, beserta para pendusta terdahulu. Jika kalian memiliki tipu daya untuk menolak azab, lakukanlah tipu daya kalian itu. Tunjukkanlah dan selamatkanlah diri kalian dari azab-Ku ini. Pada hari ini, sungguh celaka bagi mereka yang mendustakan ancaman Allah.
 
@@ -22736,17 +23352,25 @@ Sesungguhnya orang-orang yang takut kepada azab Allah akan memperoleh naungan ya
 
 # 5664
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya orang-orang yang takut kepada azab Allah akan memperoleh naungan yang meneduhkan, mata air-mata air yang mengalir dan berbagai buah-buahan lezat yang mereka inginkan. Sebagai suatu bentuk penghormatan, diucapkan kepada mereka, "Makan dan minumlah kalian dengan nyaman sebagai ganjaran amal saleh yang kalian lakukan di dunia. Sesungguhnya Kami akan membalas orang-orang yang berbuat baik dengan balasan yang besar seperti itu. Maka celakalah di hari itu orang-orang yang mendustakan kenikmatan surga."
 
 # 5665
+
+<!-- TODO:DUPLICATE -->
 
 Sesungguhnya orang-orang yang takut kepada azab Allah akan memperoleh naungan yang meneduhkan, mata air-mata air yang mengalir dan berbagai buah-buahan lezat yang mereka inginkan. Sebagai suatu bentuk penghormatan, diucapkan kepada mereka, "Makan dan minumlah kalian dengan nyaman sebagai ganjaran amal saleh yang kalian lakukan di dunia. Sesungguhnya Kami akan membalas orang-orang yang berbuat baik dengan balasan yang besar seperti itu. Maka celakalah di hari itu orang-orang yang mendustakan kenikmatan surga."
 
 # 5666
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya orang-orang yang takut kepada azab Allah akan memperoleh naungan yang meneduhkan, mata air-mata air yang mengalir dan berbagai buah-buahan lezat yang mereka inginkan. Sebagai suatu bentuk penghormatan, diucapkan kepada mereka, "Makan dan minumlah kalian dengan nyaman sebagai ganjaran amal saleh yang kalian lakukan di dunia. Sesungguhnya Kami akan membalas orang-orang yang berbuat baik dengan balasan yang besar seperti itu. Maka celakalah di hari itu orang-orang yang mendustakan kenikmatan surga."
 
 # 5667
+
+<!-- TODO:DUPLICATE -->
 
 Sesungguhnya orang-orang yang takut kepada azab Allah akan memperoleh naungan yang meneduhkan, mata air-mata air yang mengalir dan berbagai buah-buahan lezat yang mereka inginkan. Sebagai suatu bentuk penghormatan, diucapkan kepada mereka, "Makan dan minumlah kalian dengan nyaman sebagai ganjaran amal saleh yang kalian lakukan di dunia. Sesungguhnya Kami akan membalas orang-orang yang berbuat baik dengan balasan yang besar seperti itu. Maka celakalah di hari itu orang-orang yang mendustakan kenikmatan surga."
 
@@ -22756,6 +23380,8 @@ Sebaliknya, kepada orang-orang kafir akan dikatakan, "Makan dan bersenang-senang
 
 # 5669
 
+<!-- TODO:DUPLICATE -->
+
 Sebaliknya, kepada orang-orang kafir akan dikatakan, "Makan dan bersenang-senanglah kalian dengan kesenangan dunia yang tidak abadi. Sesungguhnya dengan mempersekutukan Allah, kalian adalah orang-orang yang berbuat dosa. Maka celakalah pada hari ini mereka yang telah mendustakan segala nikmat Allah."
 
 # 5670
@@ -22763,6 +23389,8 @@ Sebaliknya, kepada orang-orang kafir akan dikatakan, "Makan dan bersenang-senang
 Apabila dikatakan kepada mereka, "Lakukanlah salat dengan ikhlas dan khusyuk," mereka tidak melakukan salat dan kekhusyukan. Bahkan kepongahan mereka semakin menjadi-jadi. Maka celakalah pada hari ini mereka yang telah mendustakan segala perintah dan larangan Allah.
 
 # 5671
+
+<!-- TODO:DUPLICATE -->
 
 Apabila dikatakan kepada mereka, "Lakukanlah salat dengan ikhlas dan khusyuk," mereka tidak melakukan salat dan kekhusyukan. Bahkan kepongahan mereka semakin menjadi-jadi. Maka celakalah pada hari ini mereka yang telah mendustakan segala perintah dan larangan Allah.
 
@@ -22779,6 +23407,8 @@ Tentang apakah orang-orang yang ingkar itu saling bertanya?
 Tentang berita besar. Berita tentang hari kebangkitan yang acapkali mereka perselisihkan--dari yang meragukan sampai yang mengingkari kebenarannya.
 
 # 5675
+
+<!-- TODO:DUPLICATE -->
 
 Tentang berita besar. Berita tentang hari kebangkitan yang acapkali mereka perselisihkan--dari yang meragukan sampai yang mengingkari kebenarannya.
 
@@ -22952,9 +23582,13 @@ dan demi yang mengatur dan menjalankan segala macam urusan dengan kelebihan yang
 
 # 5718
 
+<!-- TODO:DUPLICATE -->
+
 dan demi yang mengatur dan menjalankan segala macam urusan dengan kelebihan yang ada pada dirinya, sungguh hari kiamat itu pasti datang. Saat seluruh makhluk digoncangkan oleh tiupan sangkakala pertama, kemudian diikuti oleh tiupan kedua yang dibarengi dengan kebangkitan.
 
 # 5719
+
+<!-- TODO:DUPLICATE -->
 
 dan demi yang mengatur dan menjalankan segala macam urusan dengan kelebihan yang ada pada dirinya, sungguh hari kiamat itu pasti datang. Saat seluruh makhluk digoncangkan oleh tiupan sangkakala pertama, kemudian diikuti oleh tiupan kedua yang dibarengi dengan kebangkitan.
 
@@ -22984,6 +23618,8 @@ Jangan kalian menduga bahwa proses pengembalian itu sebagai suatu hal yang musyk
 
 # 5726
 
+<!-- TODO:DUPLICATE -->
+
 Jangan kalian menduga bahwa proses pengembalian itu sebagai suatu hal yang musykil bagi Kami. Pekerjaan itu hanya membutuhkan satu kali tiupan saja, dan secara tiba-tiba semua yang telah mati terhimpun di padang mahsyar, padang kebangkitan.
 
 # 5727
@@ -22991,6 +23627,8 @@ Jangan kalian menduga bahwa proses pengembalian itu sebagai suatu hal yang musyk
 Bukankah kamu telah menyimak, wahai Muhammad, kisah tentang Mûsâ saat Tuhanmu memanggilnya di sebuah lembah suci, yang bernama Thuwâ?
 
 # 5728
+
+<!-- TODO:DUPLICATE -->
 
 Bukankah kamu telah menyimak, wahai Muhammad, kisah tentang Mûsâ saat Tuhanmu memanggilnya di sebuah lembah suci, yang bernama Thuwâ?
 
@@ -23024,6 +23662,8 @@ Fir'aun menghimpun para ahli sihir dan mengatakan, "Aku adalah tuhan kalian yang
 
 # 5736
 
+<!-- TODO:DUPLICATE -->
+
 Fir'aun menghimpun para ahli sihir dan mengatakan, "Aku adalah tuhan kalian yang mahatinggi."
 
 # 5737
@@ -23039,6 +23679,8 @@ Sungguh pada kisah itu terdapat pelajaran amat berharga bagi orang-orang yang ta
 "Wahai orang-orang yang mengingkari datangnya hari kebangkitan, apakah proses penciptaan diri kalian lebih sulit bagi Kami daripada penciptaan langit?" Tuhan telah menghimpun bagian-bagian langit yang berserakan menjadi utuh. Tuhan telah meninggikan gugusan-gugusan bintang. Langit itu telah dijadikan oleh Allah sedemikian padu tanpa ada satu ketimpangan.
 
 # 5740
+
+<!-- TODO:DUPLICATE -->
 
 "Wahai orang-orang yang mengingkari datangnya hari kebangkitan, apakah proses penciptaan diri kalian lebih sulit bagi Kami daripada penciptaan langit?" Tuhan telah menghimpun bagian-bagian langit yang berserakan menjadi utuh. Tuhan telah meninggikan gugusan-gugusan bintang. Langit itu telah dijadikan oleh Allah sedemikian padu tanpa ada satu ketimpangan.
 
@@ -23080,9 +23722,13 @@ Maka, barangsiapa yang kedurhakannya telah melampaui batas, yang memilih untuk d
 
 # 5750
 
+<!-- TODO:DUPLICATE -->
+
 Maka, barangsiapa yang kedurhakannya telah melampaui batas, yang memilih untuk diri sendiri kehidupan dunia yang fana, tempat tinggalnya di akhirat adalah neraka yang apinya berkobar-kobar, dan tidak ada tempat selain itu bagi dirinya.
 
 # 5751
+
+<!-- TODO:DUPLICATE -->
 
 Maka, barangsiapa yang kedurhakannya telah melampaui batas, yang memilih untuk diri sendiri kehidupan dunia yang fana, tempat tinggalnya di akhirat adalah neraka yang apinya berkobar-kobar, dan tidak ada tempat selain itu bagi dirinya.
 
@@ -23091,6 +23737,8 @@ Maka, barangsiapa yang kedurhakannya telah melampaui batas, yang memilih untuk d
 Dan barangsiapa yang takut akan kebesaran dan keagungan Tuhannya, yang mengendalikan diri dari hawa nafsu, tempat tinggalnya adalah surga yang menyenangkan.
 
 # 5753
+
+<!-- TODO:DUPLICATE -->
 
 Dan barangsiapa yang takut akan kebesaran dan keagungan Tuhannya, yang mengendalikan diri dari hawa nafsu, tempat tinggalnya adalah surga yang menyenangkan.
 
@@ -23136,6 +23784,8 @@ Sedang kalangan yang berharta dan berkedudukan, kamu sudi menemui mereka. Keingi
 
 # 5764
 
+<!-- TODO:DUPLICATE -->
+
 Sedang kalangan yang berharta dan berkedudukan, kamu sudi menemui mereka. Keinginanmu sangat besar untuk dapat menyampaikan misi dakwahmu pada mereka.
 
 # 5765
@@ -23148,9 +23798,13 @@ Sementara orang yang datang kepadamu dengan maksud mencari ilmu dan mengharap pe
 
 # 5767
 
+<!-- TODO:DUPLICATE -->
+
 Sementara orang yang datang kepadamu dengan maksud mencari ilmu dan mengharap petunjuk, dan merasa takut pada Allah, kamu tinggalkan.
 
 # 5768
+
+<!-- TODO:DUPLICATE -->
 
 Sementara orang yang datang kepadamu dengan maksud mencari ilmu dan mengharap petunjuk, dan merasa takut pada Allah, kamu tinggalkan.
 
@@ -23252,9 +23906,13 @@ pada saat setiap orang berlarian meninggalkan saudara, ibu bapak, istri dan anak
 
 # 5793
 
+<!-- TODO:DUPLICATE -->
+
 pada saat setiap orang berlarian meninggalkan saudara, ibu bapak, istri dan anak-anaknya.
 
 # 5794
+
+<!-- TODO:DUPLICATE -->
 
 pada saat setiap orang berlarian meninggalkan saudara, ibu bapak, istri dan anak-anaknya.
 
@@ -23267,6 +23925,8 @@ Pada hari itu manusia sibuk dengan urusan masing-masing.
 Hari itu akan tampak wajah yang berseri-seri, dan bersuka cita atas nikmat Tuhan.
 
 # 5797
+
+<!-- TODO:DUPLICATE -->
 
 Hari itu akan tampak wajah yang berseri-seri, dan bersuka cita atas nikmat Tuhan.
 
@@ -23315,6 +23975,8 @@ Bila roh telah disatukan kembali dengan jasadnya.
 Bila anak-anak perempuan yang dikubur hidup-hidup ditanya--sebagai tindakan perkenan untuk diri mereka sekaligus sebagai hujatan bagi orang yang memendam mereka, "Dosa apa yang membuat kalian dibunuh?" Padahal, jelas anak-anak perempuan itu tidak punya kesalahan apa-apa.
 
 # 5809
+
+<!-- TODO:DUPLICATE -->
 
 Bila anak-anak perempuan yang dikubur hidup-hidup ditanya--sebagai tindakan perkenan untuk diri mereka sekaligus sebagai hujatan bagi orang yang memendam mereka, "Dosa apa yang membuat kalian dibunuh?" Padahal, jelas anak-anak perempuan itu tidak punya kesalahan apa-apa.
 
@@ -23440,9 +24102,13 @@ Sesungguhnya diri kalian itu diawasi dan dijaga oleh para malaikat yang mulia di
 
 # 5840
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya diri kalian itu diawasi dan dijaga oleh para malaikat yang mulia di sisi Kami, yang mencatat dan membukukan segala perbuatan. Mereka mengetahui kebaikan dan kejahatan yang kalian lakukan.
 
 # 5841
+
+<!-- TODO:DUPLICATE -->
 
 Sesungguhnya diri kalian itu diawasi dan dijaga oleh para malaikat yang mulia di sisi Kami, yang mencatat dan membukukan segala perbuatan. Mereka mengetahui kebaikan dan kejahatan yang kalian lakukan.
 
@@ -23455,6 +24121,8 @@ Sesungguhnya orang-orang yang beriman dengan sepenuh hati, kelak akan berada dal
 Sedangkan orang-orang yang menyalahi perintah Allah akan menjadi penghuni neraka yang membakar. Mereka akan masuk ke dalamnya pada hari pembalasan nanti.
 
 # 5844
+
+<!-- TODO:DUPLICATE -->
 
 Sedangkan orang-orang yang menyalahi perintah Allah akan menjadi penghuni neraka yang membakar. Mereka akan masuk ke dalamnya pada hari pembalasan nanti.
 
@@ -23495,6 +24163,8 @@ Kehancuranlah bagi orang-orang yang berbuat curang. Yaitu orang-orang yang kalau
 Tidakkah terdetik dalam hati orang yang curang bahwa mereka akan dibangkitkan pada hari kiamat yang amat dahsyat?
 
 # 5853
+
+<!-- TODO:DUPLICATE -->
 
 Tidakkah terdetik dalam hati orang yang curang bahwa mereka akan dibangkitkan pada hari kiamat yang amat dahsyat?
 
@@ -23560,6 +24230,8 @@ Tahukah kamu apakah 'Illiyyûn itu?
 
 # 5869
 
+<!-- TODO:DUPLICATE -->
+
 'Illiyyûn adalah kitab yang tertulis dengan tulisan yang sangat jelas, yang disaksikan dan dijaga oleh malaikat-malaikat yang dekat.
 
 # 5870
@@ -23567,6 +24239,8 @@ Tahukah kamu apakah 'Illiyyûn itu?
 Sesungguhnya orang-orang yang berbakti akan berada dalam kehidupan penuh kesenangan di surga. Dari atas dipan, mereka memandangi kenikmatan dan kemurahan yang diberikan Allah.
 
 # 5871
+
+<!-- TODO:DUPLICATE -->
 
 Sesungguhnya orang-orang yang berbakti akan berada dalam kehidupan penuh kesenangan di surga. Dari atas dipan, mereka memandangi kenikmatan dan kemurahan yang diberikan Allah.
 
@@ -23580,6 +24254,8 @@ Kepada mereka disuguhkan minuman murni yang tersimpan. Semakin lama disimpan, mi
 
 # 5874
 
+<!-- TODO:DUPLICATE -->
+
 Kepada mereka disuguhkan minuman murni yang tersimpan. Semakin lama disimpan, minuman itu semakin bertambah lezat aromanya. Hendaknya manusia saling berlomba untuk mendapatkan kesenangan seperti itu.
 
 # 5875
@@ -23587,6 +24263,8 @@ Kepada mereka disuguhkan minuman murni yang tersimpan. Semakin lama disimpan, mi
 Campuran khamar murni itu bersal dari air tasnîm di dalam surga, sebuah sumber air yang hanya boleh diminum oleh penghuni surga yang didekatkan kepada Allah.
 
 # 5876
+
+<!-- TODO:DUPLICATE -->
 
 Campuran khamar murni itu bersal dari air tasnîm di dalam surga, sebuah sumber air yang hanya boleh diminum oleh penghuni surga yang didekatkan kepada Allah.
 
@@ -23607,6 +24285,8 @@ Dan mereka merasa sangat puas dengan tindakan itu, ketika kembali kepada kelompo
 Apabila melihat orang-orang beriman, meraka berkata, "Mereka adalah orang-orang tersesat karena mau percaya kepada Muhammad." Padahal tidak ada yang memerintah orang-orang yang mengejek itu untuk memberikan penilaian terhadap orang lain: apakah dia tertunjuki atau tersesat, juga bukan untuk menjadi pengawas bagi perbuatan orang lain.
 
 # 5881
+
+<!-- TODO:DUPLICATE -->
 
 Apabila melihat orang-orang beriman, meraka berkata, "Mereka adalah orang-orang tersesat karena mau percaya kepada Muhammad." Padahal tidak ada yang memerintah orang-orang yang mengejek itu untuk memberikan penilaian terhadap orang lain: apakah dia tertunjuki atau tersesat, juga bukan untuk menjadi pengawas bagi perbuatan orang lain.
 
@@ -23652,9 +24332,13 @@ Barangsiapa yang diserahi catatan amal perbuatannya melalui tangan kanan, maka i
 
 # 5892
 
+<!-- TODO:DUPLICATE -->
+
 Barangsiapa yang diserahi catatan amal perbuatannya melalui tangan kanan, maka ia akan dihisab dengan mudah dan akan kembali kepada sanak keluarganya yang beriman dengan penuh kebahagiaan
 
 # 5893
+
+<!-- TODO:DUPLICATE -->
 
 Barangsiapa yang diserahi catatan amal perbuatannya melalui tangan kanan, maka ia akan dihisab dengan mudah dan akan kembali kepada sanak keluarganya yang beriman dengan penuh kebahagiaan
 
@@ -23664,9 +24348,13 @@ Dan siapa yang menerima catatan amal perbuatannya dengan tangan kiri, dari balik
 
 # 5895
 
+<!-- TODO:DUPLICATE -->
+
 Dan siapa yang menerima catatan amal perbuatannya dengan tangan kiri, dari balik punggungnya, sebagai pertanda penghinaan, maka ia akan berangan-angan bahwa dirinya lebih baik binasa saja, masuk dan terbakar di neraka.
 
 # 5896
+
+<!-- TODO:DUPLICATE -->
 
 Dan siapa yang menerima catatan amal perbuatannya dengan tangan kiri, dari balik punggungnya, sebagai pertanda penghinaan, maka ia akan berangan-angan bahwa dirinya lebih baik binasa saja, masuk dan terbakar di neraka.
 
@@ -23695,6 +24383,8 @@ demi malam dengan segala makhluk yang diselubungi kegelapannya, baik manusia, bi
 dan demi rembulan di waktu purnama, bahwa kalian benar-benar akan melalui beberapa masa yang semakin lama semakin dahsyat: kematian, kebangkitan dan petaka kiamat.
 
 # 5903
+
+<!-- TODO:DUPLICATE -->
 
 dan demi rembulan di waktu purnama, bahwa kalian benar-benar akan melalui beberapa masa yang semakin lama semakin dahsyat: kematian, kebangkitan dan petaka kiamat.
 
@@ -23820,6 +24510,8 @@ Tahukah kalian apa hakikat bintang itu? Bintang adalah benda langit yang cahayan
 
 # 5934
 
+<!-- TODO:DUPLICATE -->
+
 Tahukah kalian apa hakikat bintang itu? Bintang adalah benda langit yang cahayanya menembus kegelapan.
 
 # 5935
@@ -23863,6 +24555,8 @@ Demi bumi yang merekah mengeluarkan tetumbuhan.
 Al-Qur'ân itu, sungguh, merupakan pembatas antara yang benar dan batil dan tidak mengandung kata-kata permainan dan palsu.
 
 # 5945
+
+<!-- TODO:DUPLICATE -->
 
 Al-Qur'ân itu, sungguh, merupakan pembatas antara yang benar dan batil dan tidak mengandung kata-kata permainan dan palsu.
 
@@ -23952,6 +24646,8 @@ Sesungguhnya apa yang tersebut dalam surat ini benar-benar telah tersebut pula d
 
 # 5967
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya apa yang tersebut dalam surat ini benar-benar telah tersebut pula dalam kitab suci- kitab suci (shahîfah) terdahulu, yaitu shahîfah Ibrâhîm dan Mûsâ. Maka dengan begitu, hal itu merupakan salah satu titik temu semua agama samawi yang tercantum di dalam kitab suci-kitab sucinya.
 
 # 5968
@@ -23963,6 +24659,8 @@ Wahai Muhammad, apakah berita tentang hari kiamat dengan kedahsyatannya yang mem
 Pada hari kiamat, terdapat wajah-wajah yang sangat terhina dan selalu mengerjakan sesuatu yang melelahkan dan mencelakannya di dalam neraka.
 
 # 5970
+
+<!-- TODO:DUPLICATE -->
 
 Pada hari kiamat, terdapat wajah-wajah yang sangat terhina dan selalu mengerjakan sesuatu yang melelahkan dan mencelakannya di dalam neraka.
 
@@ -23988,9 +24686,13 @@ Pada hari kiamat, juga terdapat wajah-wajah yang sangat berseri-seri disebabkan 
 
 # 5976
 
+<!-- TODO:DUPLICATE -->
+
 Pada hari kiamat, juga terdapat wajah-wajah yang sangat berseri-seri disebabkan oleh balasan dari perbuatan yang dilakukannya di dunia. Wajah-wajah itu senang, berada di dalam surga yang tinggi tempat dan kedudukannya.
 
 # 5977
+
+<!-- TODO:DUPLICATE -->
 
 Pada hari kiamat, juga terdapat wajah-wajah yang sangat berseri-seri disebabkan oleh balasan dari perbuatan yang dilakukannya di dunia. Wajah-wajah itu senang, berada di dalam surga yang tinggi tempat dan kedudukannya.
 
@@ -23999,6 +24701,8 @@ Pada hari kiamat, juga terdapat wajah-wajah yang sangat berseri-seri disebabkan 
 Kamu tidak akan mendengar perkataan yang tidak berguna di dalamnya. Di sana terdapat sumber air yang mengalir dan tidak ada putus-putusnya.
 
 # 5979
+
+<!-- TODO:DUPLICATE -->
 
 Kamu tidak akan mendengar perkataan yang tidak berguna di dalamnya. Di sana terdapat sumber air yang mengalir dan tidak ada putus-putusnya.
 
@@ -24040,6 +24744,8 @@ Maka dari itu, berilah peringatan melalui dakwahmu. Sebab, misi utamamu sebenarn
 
 # 5989
 
+<!-- TODO:DUPLICATE -->
+
 Maka dari itu, berilah peringatan melalui dakwahmu. Sebab, misi utamamu sebenarnya adalah menyampaikan, dan kamu tidak berkuasa apa-apa atas mereka.
 
 # 5990
@@ -24047,6 +24753,8 @@ Maka dari itu, berilah peringatan melalui dakwahmu. Sebab, misi utamamu sebenarn
 Tetapi barangsiapa di antara mereka yang berpaling dan ingkar, maka Allah akan menyiksanya dengan siksaan yang paling besar dan tak ada yang melebihinya.
 
 # 5991
+
+<!-- TODO:DUPLICATE -->
 
 Tetapi barangsiapa di antara mereka yang berpaling dan ingkar, maka Allah akan menyiksanya dengan siksaan yang paling besar dan tak ada yang melebihinya.
 
@@ -24083,6 +24791,8 @@ Apakah segala sesuatu yang telah disebutkan dan dapat dilihat oleh orang yang be
 Tidakkah kamu perhatikan bagaimana Tuhanmu menurunkan hukuman-Nya kepada bangsa 'Ad, kaum Hûd, yaitu penduduk kota Iram yang memiliki bangunan-bangunan sangat tinggi?
 
 # 6000
+
+<!-- TODO:DUPLICATE -->
 
 Tidakkah kamu perhatikan bagaimana Tuhanmu menurunkan hukuman-Nya kepada bangsa 'Ad, kaum Hûd, yaitu penduduk kota Iram yang memiliki bangunan-bangunan sangat tinggi?
 
@@ -24160,6 +24870,8 @@ Maka pada hari itu terjadilah keadaan yang seperti itu. Tak ada seorang pun yang
 
 # 6019
 
+<!-- TODO:DUPLICATE -->
+
 Maka pada hari itu terjadilah keadaan yang seperti itu. Tak ada seorang pun yang menyiksa seperti siksaan Allah, dan tak ada seorang pun yang mengikat seperti ikatan-Nya.
 
 # 6020
@@ -24211,6 +24923,8 @@ Apakah ia menyangka bahwa perbuatannya itu tidak diketahui oleh siapa pun, bahka
 Bukankah Kami telah menciptakan dua mata untuknya agar ia dapat melihat, juga lidah dan dua bibir agar dapat berbicara?
 
 # 6032
+
+<!-- TODO:DUPLICATE -->
 
 Bukankah Kami telah menciptakan dua mata untuknya agar ia dapat melihat, juga lidah dan dua bibir agar dapat berbicara?
 
@@ -24304,6 +25018,8 @@ Kaum Tsamûd telah mendustakan nabi mereka dengan sikap angkuh dan melampaui bat
 
 # 6055
 
+<!-- TODO:DUPLICATE -->
+
 Kaum Tsamûd telah mendustakan nabi mereka dengan sikap angkuh dan melampaui batas, ketika orang yang paling celaka di antara mereka bangkit hendak menyembelih unta.
 
 # 6056
@@ -24340,9 +25056,13 @@ Orang yang mengeluarkan hartanya di jalan Allah dan takut kepada Tuhannya sehing
 
 # 6064
 
+<!-- TODO:DUPLICATE -->
+
 Orang yang mengeluarkan hartanya di jalan Allah dan takut kepada Tuhannya sehingga menghindari melakukan segala sesuatu yang diharamkan-Nya, serta meyakini adanya hal-hal yang baik--yaitu beriman kepada Allah berdasarkan keyakinan--maka Kami akan menyiapkan untuknya jalan yang mengantarkannya kepada kemudahan dan ketenangan dengan mengarahkannya kepada jalan kebaikan.
 
 # 6065
+
+<!-- TODO:DUPLICATE -->
 
 Orang yang mengeluarkan hartanya di jalan Allah dan takut kepada Tuhannya sehingga menghindari melakukan segala sesuatu yang diharamkan-Nya, serta meyakini adanya hal-hal yang baik--yaitu beriman kepada Allah berdasarkan keyakinan--maka Kami akan menyiapkan untuknya jalan yang mengantarkannya kepada kemudahan dan ketenangan dengan mengarahkannya kepada jalan kebaikan.
 
@@ -24352,9 +25072,13 @@ Sedangkan orang yang kikir dengan hartanya, sehingga tidak melaksanakan hak Alla
 
 # 6067
 
+<!-- TODO:DUPLICATE -->
+
 Sedangkan orang yang kikir dengan hartanya, sehingga tidak melaksanakan hak Allah yang ada pada harta itu, dan merasa cukup dengan kekayaan sehingga tidak butuh kepada apa yang ada di sisi Allah serta mendustakan adanya hal-hal yang baik, maka Kami akan menyiapkan baginya jalan untuk menuju kepada hal-hal yang mengantarkannya kepada kesulitan dan kecelakaan yang abadi.
 
 # 6068
+
+<!-- TODO:DUPLICATE -->
 
 Sedangkan orang yang kikir dengan hartanya, sehingga tidak melaksanakan hak Allah yang ada pada harta itu, dan merasa cukup dengan kekayaan sehingga tidak butuh kepada apa yang ada di sisi Allah serta mendustakan adanya hal-hal yang baik, maka Kami akan menyiapkan baginya jalan untuk menuju kepada hal-hal yang mengantarkannya kepada kesulitan dan kecelakaan yang abadi.
 
@@ -24380,6 +25104,8 @@ Tidak ada yang kekal di dalamnya kecuali orang kafir yang mendustakan kebenaran 
 
 # 6074
 
+<!-- TODO:DUPLICATE -->
+
 Tidak ada yang kekal di dalamnya kecuali orang kafir yang mendustakan kebenaran dan berpaling dari ayat-ayat Tuhannya.
 
 # 6075
@@ -24387,6 +25113,8 @@ Tidak ada yang kekal di dalamnya kecuali orang kafir yang mendustakan kebenaran 
 Dan orang yang sangat takut untuk bersikap ingkar dan berbuat maksiat yang menafkahkan hartanya di jalan kebaikan untuk menyucikannya dari kotoran kekikiran akan dijauhkan dari api neraka.
 
 # 6076
+
+<!-- TODO:DUPLICATE -->
 
 Dan orang yang sangat takut untuk bersikap ingkar dan berbuat maksiat yang menafkahkan hartanya di jalan kebaikan untuk menyucikannya dari kotoran kekikiran akan dijauhkan dari api neraka.
 
@@ -24440,9 +25168,13 @@ Apabila hal ini yang Allah lakukan terhadapmu, maka janganlah kamu berlaku sewen
 
 # 6089
 
+<!-- TODO:DUPLICATE -->
+
 Apabila hal ini yang Allah lakukan terhadapmu, maka janganlah kamu berlaku sewenang-wenang kepada anak yatim, jangan mengusir orang yang meminta-minta dengan kekerasan, dan sebutlah nikmat Tuhanmu sebagai rasa syukur kepada Allah dan juga untuk menunjukkan nikmat-Nya.
 
 # 6090
+
+<!-- TODO:DUPLICATE -->
 
 Apabila hal ini yang Allah lakukan terhadapmu, maka janganlah kamu berlaku sewenang-wenang kepada anak yatim, jangan mengusir orang yang meminta-minta dengan kekerasan, dan sebutlah nikmat Tuhanmu sebagai rasa syukur kepada Allah dan juga untuk menunjukkan nikmat-Nya.
 
@@ -24536,6 +25268,8 @@ Sesungguhnya manusia suka melampaui batas dan sombong di hadapan Tuhannya, karen
 
 # 6113
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya manusia suka melampaui batas dan sombong di hadapan Tuhannya, karena ia memandang dirinya memiliki kekayaan dan harta.
 
 # 6114
@@ -24548,6 +25282,8 @@ Apakah kamu perhatikan orang tiran yang melarang seorang hamba untuk melakukan s
 
 # 6116
 
+<!-- TODO:DUPLICATE -->
+
 Apakah kamu perhatikan orang tiran yang melarang seorang hamba untuk melakukan salat ketika hendak melaksanakan salat?
 
 # 6117
@@ -24555,6 +25291,8 @@ Apakah kamu perhatikan orang tiran yang melarang seorang hamba untuk melakukan s
 Beritahulah Aku tentang orang yang melampaui batas ini kalau ia berada dalam kebenaran ketika melarang atau memerintah untuk bertakwa saat ia memerintah.
 
 # 6118
+
+<!-- TODO:DUPLICATE -->
 
 Beritahulah Aku tentang orang yang melampaui batas ini kalau ia berada dalam kebenaran ketika melarang atau memerintah untuk bertakwa saat ia memerintah.
 
@@ -24616,6 +25354,8 @@ Seorang Rasul yang diutus Allah untuk membacakan kepada mereka lembaran-lembaran
 
 # 6133
 
+<!-- TODO:DUPLICATE -->
+
 Seorang Rasul yang diutus Allah untuk membacakan kepada mereka lembaran-lembaran yang bebas dari kesalahan, yaitu al-Qur'ân, yang mengandung hukum-hukum yang benar yang menjelaskan keyakinan dan kebenaran.
 
 # 6134
@@ -24655,6 +25395,8 @@ Dan manusia berkata dengan penuh heran dan takut, "Mengapa bumi tergoncang dan m
 Ketika itu bumi menceritakan kepada manusia tentang dirinya yang telah mengagetkan manusia, "Tuhan Sang Pencipta dan Pemeliharamu telah memerintahkanku untuk bergetar dan bergoncang. Maka, aku pun segera melakukan perintah-Nya itu."
 
 # 6143
+
+<!-- TODO:DUPLICATE -->
 
 Ketika itu bumi menceritakan kepada manusia tentang dirinya yang telah mengagetkan manusia, "Tuhan Sang Pencipta dan Pemeliharamu telah memerintahkanku untuk bergetar dan bergoncang. Maka, aku pun segera melakukan perintah-Nya itu."
 
@@ -24708,6 +25450,8 @@ Apakah ia tidak mengetahui balasan dari perbuatannya itu, sehingga tidak tahu ba
 
 # 6156
 
+<!-- TODO:DUPLICATE -->
+
 Apakah ia tidak mengetahui balasan dari perbuatannya itu, sehingga tidak tahu bahwa ketika seluruh jasad dibangkitkan dari kubur dan apa yang ada di dalam dada--yang telah tercatat dalam daftar perbuatan mereka, yang baik maupun yang buruk--itu dikumpulkan?
 
 # 6157
@@ -24740,6 +25484,8 @@ Maka, barangsiapa yang berat timbangannya, karena kebaikannya lebih banyak darip
 
 # 6164
 
+<!-- TODO:DUPLICATE -->
+
 Maka, barangsiapa yang berat timbangannya, karena kebaikannya lebih banyak daripada kejahatannya, akan berada dalam kehidupan yang menyenangkan hati.
 
 # 6165
@@ -24747,6 +25493,8 @@ Maka, barangsiapa yang berat timbangannya, karena kebaikannya lebih banyak darip
 Dan barangsiapa yang ringan timbangan, karena kejahtannya lebih banyak daripada kebaikannya, maka tempat kembalinya adalah neraka Hawiyah.
 
 # 6166
+
+<!-- TODO:DUPLICATE -->
 
 Dan barangsiapa yang ringan timbangan, karena kejahtannya lebih banyak daripada kebaikannya, maka tempat kembalinya adalah neraka Hawiyah.
 
@@ -24838,6 +25586,8 @@ Sesungguhnya pintu neraka itu tertutup, sementara mereka diikat pada tiang-tiang
 
 # 6188
 
+<!-- TODO:DUPLICATE -->
+
 Sesungguhnya pintu neraka itu tertutup, sementara mereka diikat pada tiang-tiang yang panjang di dalamnya sehingga tidak dapat bergerak dan tidak akan dapat menyelamatkan diri.
 
 # 6189
@@ -24888,6 +25638,8 @@ Kalau kamu ingin tahu, orang yang mendustakan pembalasan itu adalah orang mengha
 
 # 6200
 
+<!-- TODO:DUPLICATE -->
+
 Kalau kamu ingin tahu, orang yang mendustakan pembalasan itu adalah orang menghardik anak yatim dengan keras, memaksa dan menyakitinya, dan orang yang tidak menganjurkan untuk memberi makan orang miskin.
 
 # 6201
@@ -24895,6 +25647,8 @@ Kalau kamu ingin tahu, orang yang mendustakan pembalasan itu adalah orang mengha
 Maka kehancuran bagi orang yang melakukan salat tetapi mempunyai sifat seperti itu. Yaitu mereka yang lalai dalam salatnya dan tidak dapat mengambil manfaat apa-apa dari salatnya.
 
 # 6202
+
+<!-- TODO:DUPLICATE -->
 
 Maka kehancuran bagi orang yang melakukan salat tetapi mempunyai sifat seperti itu. Yaitu mereka yang lalai dalam salatnya dan tidak dapat mengambil manfaat apa-apa dari salatnya.
 
@@ -24988,6 +25742,8 @@ Dia tidak menciptakan anak, dan juga tidak dilahirkan dari bapak atau ibu. Tidak
 
 # 6225
 
+<!-- TODO:DUPLICATE -->
+
 Dia tidak menciptakan anak, dan juga tidak dilahirkan dari bapak atau ibu. Tidak ada seorang pun yang setara dengan-Nya dan tidak ada sesuatu pun yang menyerupai-Nya.
 
 # 6226
@@ -25033,3 +25789,4 @@ Yang membisikkan dengan tersembunyi--dalam dada manusia--sesuatu yang memalingka
 # 6236
 
 Yaitu jin dan manusia.
+

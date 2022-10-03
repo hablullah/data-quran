@@ -142,6 +142,8 @@ Allah sivrisineği ve onun üstününü misal olarak vermekten çekinmez. İnana
 
 # 34
 
+<!-- TODO:DUPLICATE -->
+
 Allah sivrisineği ve onun üstününü misal olarak vermekten çekinmez. İnananlar bunun Rablerinden bir gerçek olduğunu bilirler. İnkar edenler ise "Allah bu misalle neyi murad etti?" derler, O, bu misalle birçoğunu saptırır, birçoğunu da yola getirir. Onunla saptırdığı yalnız fasıklardır ki onlar Allah'la yapılan sözleşmeyi kabulden sonra bozarlar. Allah'ın birleştirilmesini buyurduğu şeyi ayırırlar ve yeryüzünde bozgunculuk yaparlar; zarara uğrayanlar işte onlardır.
 
 # 35
@@ -217,6 +219,8 @@ Kitap'ı okuyup durduğunuz halde kendinizi unutur da başkalarına mı iyilikle
 Sabır ve namazla Allah'a sığınıp yardım isteyin; Rablerine kavuşacaklarını ve Ona döneceklerini umanlar ve huşu duyanlardan başkasına namaz elbette ağır gelir.
 
 # 53
+
+<!-- TODO:DUPLICATE -->
 
 Sabır ve namazla Allah'a sığınıp yardım isteyin; Rablerine kavuşacaklarını ve Ona döneceklerini umanlar ve huşu duyanlardan başkasına namaz elbette ağır gelir.
 
@@ -297,6 +301,8 @@ Bundan sonra yine yüz çevirdiniz; eğer Allah'ın size bol nimeti ve merhameti
 İçinizden cumartesi günü azgınlık edenleri elbette biliyorsunuz. Onlara "Aşağılık birer maymun olunuz" dedik; bunu, çağdaşlarına ve sonradan geleceklere bir ceza örneği ve Allah'a karşı gelmekten sakınanlara öğüt olsun diye yaptık.
 
 # 73
+
+<!-- TODO:DUPLICATE -->
 
 İçinizden cumartesi günü azgınlık edenleri elbette biliyorsunuz. Onlara "Aşağılık birer maymun olunuz" dedik; bunu, çağdaşlarına ve sonradan geleceklere bir ceza örneği ve Allah'a karşı gelmekten sakınanlara öğüt olsun diye yaptık.
 
@@ -674,6 +680,8 @@ Rablerinin mağfiret ve rahmeti onlaradır. O'nun yolunda olanlar da onlardır.
 
 # 167
 
+<!-- TODO:DUPLICATE -->
+
 İndirdiğimiz belgeleri ve doğru yolu Kitab'da insanlara açıkladıktan sonra, gizleyen kimseler var ya, onlara hem Allah lanet eder, hem lanetçiler lanet eder, ancak tevbe edenler, ıslah olanlar ve gerçeği ortaya koyanlar müstesna; işte onların tevbesini kabul ederim. Ben, tevbeleri daima kabul ve merhamet edenim.
 
 # 168
@@ -770,6 +778,8 @@ Ey İnananlar! Oruç, sizden öncekilere farz kılındığı gibi, Allah'a karş
 
 # 191
 
+<!-- TODO:DUPLICATE -->
+
 Ey İnananlar! Oruç, sizden öncekilere farz kılındığı gibi, Allah'a karşı gelmekten sakınasınız diye, size sayılı günlerde farz kılındı. İçinizden hasta olan veya yolculukta bulunan, tutamadığı günlerin sayısınca diğer günlerde tutar. Oruca dayanamıyanlar, bir düşkünü doyuracak kadar fidye verir. Kim gönülden iyilik yaparsa o iyilik kendisinedir. Oruç tutmanız eğer bilirseniz sizin için hayırlıdır.
 
 # 192
@@ -853,6 +863,8 @@ Allah'ı sayılı günlerde anın. Günahtan sakınan kimseye, acele edip, Mina'
 Dünya hayatına dair konuşması senin hoşuna giden, pek azılı düşman iken, kalbinde olana Allah'ı şahid tutan, işbaşına geçince, yeryüzünde bozgunculuk yapmaya, ekin ve nesli yok etmeğe çabalayan insanlar vardır. Allah bozgunculuğu sevmez.
 
 # 212
+
+<!-- TODO:DUPLICATE -->
 
 Dünya hayatına dair konuşması senin hoşuna giden, pek azılı düşman iken, kalbinde olana Allah'ı şahid tutan, işbaşına geçince, yeryüzünde bozgunculuk yapmaya, ekin ve nesli yok etmeğe çabalayan insanlar vardır. Allah bozgunculuğu sevmez.
 
@@ -1194,6 +1206,8 @@ Kendisinden önceki Kitapları tasdik eden Hak Kitap'ı sana indirdi. Önceden i
 
 # 297
 
+<!-- TODO:DUPLICATE -->
+
 Kendisinden önceki Kitapları tasdik eden Hak Kitap'ı sana indirdi. Önceden insanlara yol gösterici olarak Tevrat ve İncil'i de indirmişti. O, doğruyu yanlıştan ayıran Kitap'ı indirdi. Doğrusu Allah'ın ayetlerini inkar edenler için şiddetli azab vardır. Allah güçlüdür, mazlumların öcünü alır.
 
 # 298
@@ -1245,6 +1259,8 @@ De ki: Bundan daha iyisini size haber vereyim mi? Allah'a karşı gelmekten sak�
 Onlar ki, "Rabbimiz! Biz şüphesiz inandık, bunun için günahlarımızı bize bağışla ve bizi ateşin azabından koru" diyen, sabreden, doğru olan, gönülden kulluk eden, hayra sarfeden ve seher vakitlerinde bağışlanma dileyenlerdir.
 
 # 310
+
+<!-- TODO:DUPLICATE -->
 
 Onlar ki, "Rabbimiz! Biz şüphesiz inandık, bunun için günahlarımızı bize bağışla ve bizi ateşin azabından koru" diyen, sabreden, doğru olan, gönülden kulluk eden, hayra sarfeden ve seher vakitlerinde bağışlanma dileyenlerdir.
 
@@ -1314,6 +1330,8 @@ Allah, Adem'i, Nuh'u, İbrahim ailesini, İmran ailesini birbirinin soyundan ola
 
 # 327
 
+<!-- TODO:DUPLICATE -->
+
 Allah, Adem'i, Nuh'u, İbrahim ailesini, İmran ailesini birbirinin soyundan olarak alemlere tercih etti. Allah işitendir, bilendir.
 
 # 328
@@ -1374,6 +1392,8 @@ Ona Kitabı, hikmeti, Tevrat'ı ve İncil'i öğretecek, İsrailoğullarına ş�
 
 # 342
 
+<!-- TODO:DUPLICATE -->
+
 Ona Kitabı, hikmeti, Tevrat'ı ve İncil'i öğretecek, İsrailoğullarına şöyle diyen bir peygamber kılacak: "Ben size Rabbinizden bir ayet getirdim. Ben size çamurdan kuş gibi bir şey yapıp ona üfleyeceğim, Allah'ın izniyle, hemen kuş olacaktır; anadan doğma körleri, alacalıları iyi edeceğim; Allah'ın izniyle, ölüleri dirilteceğim; yediklerinizi ve evlerinizde sakladıklarınızı da size haber vereceğim. İnanmışsanız bunda size delil vardır".
 
 # 343
@@ -1381,6 +1401,8 @@ Ona Kitabı, hikmeti, Tevrat'ı ve İncil'i öğretecek, İsrailoğullarına ş�
 "Benden önce gelen Tevrat'ı tasdik etmekle beraber size yasak edilenlerin bir kısmını helal kılmak üzere, Rabbinizden size bir ayet getirdim. Allah'tan sakının ve bana itaat edin; çünkü Allah benim de Rabbim, sizin de Rabbinizdir. O'na kulluk edin, bu doğru yoldur".
 
 # 344
+
+<!-- TODO:DUPLICATE -->
 
 "Benden önce gelen Tevrat'ı tasdik etmekle beraber size yasak edilenlerin bir kısmını helal kılmak üzere, Rabbinizden size bir ayet getirdim. Allah'tan sakının ve bana itaat edin; çünkü Allah benim de Rabbim, sizin de Rabbinizdir. O'na kulluk edin, bu doğru yoldur".
 
@@ -1401,6 +1423,8 @@ Fakat (inkarcılar) hile yaptılar. Allah da onları cezalandırdı. Allah, hile
 Allah demişti ki: "Ey İsa! Ben seni eceline yetireceğim, seni kendime yükselteceğim, inkar edenlerden seni tertemiz ayıracağım; sana uyanları, kıyamet gününe kadar, inkar edenlerin üstünde tutacağım. Sonra dönüşünüz Banadır. Ayrılığa düştüğünüz hususlarda aranızda hükmedeceğim. İnkar edenleri de dünya ve ahirette şiddetli azaba uğratacağım. Onların hiç yardımcıları olmayacaktır."
 
 # 349
+
+<!-- TODO:DUPLICATE -->
 
 Allah demişti ki: "Ey İsa! Ben seni eceline yetireceğim, seni kendime yükselteceğim, inkar edenlerden seni tertemiz ayıracağım; sana uyanları, kıyamet gününe kadar, inkar edenlerin üstünde tutacağım. Sonra dönüşünüz Banadır. Ayrılığa düştüğünüz hususlarda aranızda hükmedeceğim. İnkar edenleri de dünya ve ahirette şiddetli azaba uğratacağım. Onların hiç yardımcıları olmayacaktır."
 
@@ -1469,6 +1493,8 @@ Ey Kitap ehli! Niçin hakkı batıla karıştırıyor ve bile bile hakkı gizliy
 Kitap ehlinden bir takımı şöyle dedi: "İnananlara indirilene günün başında inanın, sonunda inkar edin ki, belki dönerler ve dininize uyanlardan başkasına inanmayın". De ki: "Doğru yol Allah'ın yoludur". Ve yine başkasına da verildiğine veya Rabbinizin katında Müslümanların karşı delil getirip sizi alt edeceğine inanmayın, derler. De ki: "Doğrusu bol nimet Allah'ın elindedir, onu dilediğine verir. Allah'ın fazlı her şeyi kaplar, O her şeyi bilir".
 
 # 366
+
+<!-- TODO:DUPLICATE -->
 
 Kitap ehlinden bir takımı şöyle dedi: "İnananlara indirilene günün başında inanın, sonunda inkar edin ki, belki dönerler ve dininize uyanlardan başkasına inanmayın". De ki: "Doğru yol Allah'ın yoludur". Ve yine başkasına da verildiğine veya Rabbinizin katında Müslümanların karşı delil getirip sizi alt edeceğine inanmayın, derler. De ki: "Doğrusu bol nimet Allah'ın elindedir, onu dilediğine verir. Allah'ın fazlı her şeyi kaplar, O her şeyi bilir".
 
@@ -1602,6 +1628,8 @@ Kendilerine belgeler geldikten sonra ayrılan ve ayrılığa düşenler gibi olm
 
 # 399
 
+<!-- TODO:DUPLICATE -->
+
 Kendilerine belgeler geldikten sonra ayrılan ve ayrılığa düşenler gibi olmayın. Bir takım yüzlerin ağaracağı ve bir takım yüzlerin kararacağı günde büyük azab onlaradır. Yüzleri kararanlara: "İnanmanızdan sonra inkar eder misiniz? İnkar etmenizden dolayı tadın azabı" denecektir.
 
 # 400
@@ -1633,6 +1661,8 @@ Nerede bulunsalar Allah'ın ve inanan insanların himayesinde olanlar müstesna 
 Kitap ehlinin hepsi bir değildir: Onlardan geceleri secdeye kapanarak Allah'ın ayetlerini okuyup duranlar vardır; bunlar Allah'a ve ahiret gününe inanır, kötülükten meneder, iyiliklere koşarlar. İşte onlar iyilerdendir.
 
 # 407
+
+<!-- TODO:DUPLICATE -->
 
 Kitap ehlinin hepsi bir değildir: Onlardan geceleri secdeye kapanarak Allah'ın ayetlerini okuyup duranlar vardır; bunlar Allah'a ve ahiret gününe inanır, kötülükten meneder, iyiliklere koşarlar. İşte onlar iyilerdendir.
 
@@ -1678,6 +1708,8 @@ And olsun ki, siz düşkün bir durumda iken, Bedir'de, Allah size yardım etmi�
 
 # 418
 
+<!-- TODO:DUPLICATE -->
+
 İnananlara: "Rabbinizin size gönderilmiş üç bin melekle yardım etmesi size yetmeyecek mi?" diyordun. Evet, eğer sabrederseniz, sakınırsanız ve onlar de hemen üzerinize gelirlerse Rabbiniz size, nişanlı beş bin melekle imdat edecektir.
 
 # 419
@@ -1685,6 +1717,8 @@ And olsun ki, siz düşkün bir durumda iken, Bedir'de, Allah size yardım etmi�
 Allah bunu, ancak size müjde olsun ve böylece kalbleriniz yatışsın diye yapmıştır. İnkar edenlerin bir kısmını kesmek veya ümidsiz olarak geri dönecek şekilde bozguna uğratmak için gereken yardım, ancak Güçlü ve Hakim olan Allah katından olur.
 
 # 420
+
+<!-- TODO:DUPLICATE -->
 
 Allah bunu, ancak size müjde olsun ve böylece kalbleriniz yatışsın diye yapmıştır. İnkar edenlerin bir kısmını kesmek veya ümidsiz olarak geri dönecek şekilde bozguna uğratmak için gereken yardım, ancak Güçlü ve Hakim olan Allah katından olur.
 
@@ -1846,6 +1880,8 @@ Başkalarını iki misline uğrattığınız bir musibete kendiniz uğrayınca m
 
 # 460
 
+<!-- TODO:DUPLICATE -->
+
 İki topluluğun karşılaştığı günde başınıza gelen, Allah'ın izniyledir. Bu, inananları da, münafıklık edenleri de belirtmesi içindir. Münafıklık edenlere: "gelin, Allah yolunda savaşın, veya hiç olmazsa savunmada bulunun" dendiği zaman: "Eğer savaşmayı bilseydik, ardınızdan gelirdik" dediler. O gün, onlar imandan çok inkara yakındılar. Kalblerinde olmayanı ağızlarıyla söylüyorlar. Allah gizlediklerini onlardan iyi bilir.
 
 # 461
@@ -1857,6 +1893,8 @@ Onlar oturup, kardeşleri için: "Bize itaat etselerdi öldürülmezlerdi" dedil
 Allah yolunda öldürülenleri ölü saymayın, bilakis Rableri katında diridirler. Allah'ın bol nimetinden onlara verdiği şeylerle sevinç içinde rızıklanırlar, arkalarından kendilerine ulaşamayan kimselere, kendilerine korku olmadığını ve kendilerinin üzülmeyeceklerini müjde etmek isterler.
 
 # 463
+
+<!-- TODO:DUPLICATE -->
 
 Allah yolunda öldürülenleri ölü saymayın, bilakis Rableri katında diridirler. Allah'ın bol nimetinden onlara verdiği şeylerle sevinç içinde rızıklanırlar, arkalarından kendilerine ulaşamayan kimselere, kendilerine korku olmadığını ve kendilerinin üzülmeyeceklerini müjde etmek isterler.
 
@@ -1965,6 +2003,8 @@ Rableri dualarını kabul etti: "Birbirinizden meydana gelen sizlerden, erkek ol
 İnkar edenlerin diyar diyar gezip refah içinde dolaşması sakın seni aldatmasın; az bir faydalanmadan sonra onların varacakları yer cehennemdir. O ne kötü duraktır!..
 
 # 490
+
+<!-- TODO:DUPLICATE -->
 
 İnkar edenlerin diyar diyar gezip refah içinde dolaşması sakın seni aldatmasın; az bir faydalanmadan sonra onların varacakları yer cehennemdir. O ne kötü duraktır!..
 
@@ -2202,6 +2242,8 @@ Onlardan ona inananlar ve yüz çevirenler vardı. Çılgın bir alev olarak ceh
 
 # 549
 
+<!-- TODO:DUPLICATE -->
+
 Onlardan ona inananlar ve yüz çevirenler vardı. Çılgın bir alev olarak cehennem yeter. Doğrusu, ayetlerimizi inkar edenleri ateşe sokacağız; derilerinin her yanışında, azabı tatmaları için onları başka derilerle değiştireceğiz. Allah güçlüdür, Hakim'dir.
 
 # 550
@@ -2249,6 +2291,8 @@ Hayır; Rabb'ine and olsun ki, aralarında çekiştikleri şeylerde seni hakem t
 O zaman onlara kendi katımızdan büyük bir ecir verir ve onları doğru yola eriştirirdik.
 
 # 561
+
+<!-- TODO:DUPLICATE -->
 
 O zaman onlara kendi katımızdan büyük bir ecir verir ve onları doğru yola eriştirirdik.
 
@@ -2362,6 +2406,8 @@ Ey İnananlar! Allah yolunda yürüdüğünüz vakit, her şeyi iyice anlayın. 
 
 # 589
 
+<!-- TODO:DUPLICATE -->
+
 İnananlardan, özürsüz olarak yerlerinde oturanlar ile, mal ve canlariyle cihad edenleri, mertebece, oturanlardan üstün kılmıştır. Allah hepsine de cenneti vadetmiştir, ama Allah, cihad edenleri oturanlara, büyük ecirler, dereceler, mağfiret ve rahmetle üstün kılmıştır. Allah bağışlar ve merhamet eder.
 
 # 590
@@ -2450,9 +2496,13 @@ Onlar Allah'ı bırakıp tanrıçalara taparlar ve: "Elbette senin kullarından 
 
 # 611
 
+<!-- TODO:DUPLICATE -->
+
 Onlar Allah'ı bırakıp tanrıçalara taparlar ve: "Elbette senin kullarından belli bir takımı alıp onları saptıracağım, onlara kuruntu kurduracağım, develerin kulaklarını yarmalarını emredeceğim, Allah'ın yarattığını değiştirmelerini emredeceğim" diyen, Allah'ın lanet ettiği azgın şeytana taparlar. Allah'ı bırakıp şeytanı dost edinen şüphesiz açıktan açığa kayba uğramıştır.
 
 # 612
+
+<!-- TODO:DUPLICATE -->
 
 Onlar Allah'ı bırakıp tanrıçalara taparlar ve: "Elbette senin kullarından belli bir takımı alıp onları saptıracağım, onlara kuruntu kurduracağım, develerin kulaklarını yarmalarını emredeceğim, Allah'ın yarattığını değiştirmelerini emredeceğim" diyen, Allah'ın lanet ettiği azgın şeytana taparlar. Allah'ı bırakıp şeytanı dost edinen şüphesiz açıktan açığa kayba uğramıştır.
 
@@ -2550,6 +2600,8 @@ Doğrusu münafıklar Allah'ı aldatmağa çalışırlar, oysa O, onlara aldatma
 
 # 636
 
+<!-- TODO:DUPLICATE -->
+
 Doğrusu münafıklar Allah'ı aldatmağa çalışırlar, oysa O, onlara aldatmanın ne olduğunu gösterecektir. Onlar namaza tembel tembel kalkarlar, insanlara gösteriş yaparlar, ne onlarla, ne de bunlarla olur, ikisi arasında bocalayarak Allah'ı pek az anarlar. Allah'ın saptırdığı kimseye yol bulamayacaksın.
 
 # 637
@@ -2582,6 +2634,8 @@ Allah'ı ve peygamberlerini inkar eden, Allah'la peygamberleri arasını ayırma
 
 # 644
 
+<!-- TODO:DUPLICATE -->
+
 Allah'ı ve peygamberlerini inkar eden, Allah'la peygamberleri arasını ayırmak isteyen, "Bir kısmına inanır bir kısmını inkar ederiz" diyerek ikisi arasında bir yol tutmak isteyenler, işte onlar gerçekten kafir olanlardır. Kafirlere ağır bir azab hazırlamışızdır.
 
 # 645
@@ -2593,6 +2647,8 @@ Allah'a ve peygamberlerine inanıp, onlardan hiçbirini ayırmayanlara, işte on
 Kitap ehli, senin kendilerine gökten bir kitap indirmeni isterler. Musa'dan bundan daha büyüğünü istemişlerdi ve "Bize Allah'ı apaçık göster" demişlerdi. Zulümlerinden ötürü onları yıldırım çarpmıştı. Belgeler kendilerine geldikten sonra da, buzağıyı tanrı olarak benimsediler, fakat bunları affettik ve Musa'ya apaçık bir hüccet verdik, söz vermelerine karşılık Tur dağını üzerlerine kaldırdık ve onlara: "Kapıdan secde ederek girin" dedik, "Cumartesileri aşırı gitmeyin" dedik, onlardan sağlam bir söz aldık.
 
 # 647
+
+<!-- TODO:DUPLICATE -->
 
 Kitap ehli, senin kendilerine gökten bir kitap indirmeni isterler. Musa'dan bundan daha büyüğünü istemişlerdi ve "Bize Allah'ı apaçık göster" demişlerdi. Zulümlerinden ötürü onları yıldırım çarpmıştı. Belgeler kendilerine geldikten sonra da, buzağıyı tanrı olarak benimsediler, fakat bunları affettik ve Musa'ya apaçık bir hüccet verdik, söz vermelerine karşılık Tur dağını üzerlerine kaldırdık ve onlara: "Kapıdan secde ederek girin" dedik, "Cumartesileri aşırı gitmeyin" dedik, onlardan sağlam bir söz aldık.
 
@@ -2606,9 +2662,13 @@ Bu, bir de inkarlarından, Meryem'e büyük bir iftirada bulunmalarından ve: "M
 
 # 650
 
+<!-- TODO:DUPLICATE -->
+
 Bu, bir de inkarlarından, Meryem'e büyük bir iftirada bulunmalarından ve: "Meryem oğlu İsa Mesih'i, Allah'ın elçisini öldürdük" demelerinden ötürüdür. Oysa onu öldürmediler ve asmadılar, fakat onlara öyle göründü. Ayrılığa düştükleri şeyde doğrusu şüphededirler, bu husustaki bilgileri ancak sanıya uymaktan ibarettir, kesin olarak onu öldürmediler, bilakis Allah onu kendi katına yükseltti. Allah Güçlü'dür, Hakim'dir.
 
 # 651
+
+<!-- TODO:DUPLICATE -->
 
 Bu, bir de inkarlarından, Meryem'e büyük bir iftirada bulunmalarından ve: "Meryem oğlu İsa Mesih'i, Allah'ın elçisini öldürdük" demelerinden ötürüdür. Oysa onu öldürmediler ve asmadılar, fakat onlara öyle göründü. Ayrılığa düştükleri şeyde doğrusu şüphededirler, bu husustaki bilgileri ancak sanıya uymaktan ibarettir, kesin olarak onu öldürmediler, bilakis Allah onu kendi katına yükseltti. Allah Güçlü'dür, Hakim'dir.
 
@@ -2621,6 +2681,8 @@ Kitap ehlinden, ölmeden önce, İsa'ya inanmayacak yoktur. O, gerektiği gibi i
 Yahudilerin haksızlıklarından, çoklarını Allah yolundan menetmelerinden, yasak edilmişken faiz almaları ve insanların mallarını haksızlıkla yemelerinden ötürü kendilerine helal kılınan temiz şeyleri onlara haram kıldık. Onlardan inkar edenlere, elem verici azab hazırladık.
 
 # 654
+
+<!-- TODO:DUPLICATE -->
 
 Yahudilerin haksızlıklarından, çoklarını Allah yolundan menetmelerinden, yasak edilmişken faiz almaları ve insanların mallarını haksızlıkla yemelerinden ötürü kendilerine helal kılınan temiz şeyleri onlara haram kıldık. Onlardan inkar edenlere, elem verici azab hazırladık.
 
@@ -2638,6 +2700,8 @@ Peygamberlerden sonra, insanların Allah'a karşı bir hüccetleri olmaması iç
 
 # 658
 
+<!-- TODO:DUPLICATE -->
+
 Peygamberlerden sonra, insanların Allah'a karşı bir hüccetleri olmaması için, gönderilen müjdeci ve uyarıcı peygamberlerden bir kısmını daha önce sana anlatmış, bir kısmını da anlatmamıştık. Allah, Musa'ya hitabetmişti. Allah güçlüdür, Hakim'dir.
 
 # 659
@@ -2653,6 +2717,8 @@ Fakat Allah sana indirdiğine şahidlik eder, onu bilerek indirmiştir, melekler
 İnkar edenleri ve zalimleri Allah şüphesiz bağışlamaz, onları içinde temelli ve ebediyyen kalacakları cehennem yolundan başka bir yola eriştirmez. Bu, Allah'a kolaydır.
 
 # 662
+
+<!-- TODO:DUPLICATE -->
 
 İnkar edenleri ve zalimleri Allah şüphesiz bağışlamaz, onları içinde temelli ve ebediyyen kalacakları cehennem yolundan başka bir yola eriştirmez. Bu, Allah'a kolaydır.
 
@@ -3018,6 +3084,8 @@ Peygambere indirilen Kuran'ı işittiklerinde, gerçeği öğrenmelerinden gözl
 
 # 753
 
+<!-- TODO:DUPLICATE -->
+
 Peygambere indirilen Kuran'ı işittiklerinde, gerçeği öğrenmelerinden gözlerinin yaşla dolarak, "Rabbimiz! İnandık, bizi de şahidlerden yaz. Rabbimizin bizi iyi milletle birlikte bulundurmasını umarken niçin Allah'a ve bize gelen gerçeğe inanmayalım?" dediklerini görürsün.
 
 # 754
@@ -3149,6 +3217,8 @@ Allah, "Ben onu size indireceğim; bundan sonra içinizden kim inkar ederse, dü
 Allah, "Ey Meryem oğlu İsa! Sen mi insanlara Beni ve annemi Allah'tan başka iki tanrı olarak benimseyin dedin?" demişti de, "Haşa, hak olmayan sözü söylemek bana yaraşmaz; eğer söylemişsem, şüphesiz Sen onu bilirsin; Sen, benim içimde olanı bilirsin; ben Senin içinde olanı bilmem; doğrusu görülmeyeni bilen ancak Sensin" demişti, "Ben onlara sadece 'Rabbim ve Rabbiniz olan Allah'a kulluk edin' diye bana emrettiğini söyledim. Aralarında bulunduğum müddetce onlar hakkında şahiddim, beni aralarından aldığında onları Sen gözlüyordun. Sen her şeye şahidsin."
 
 # 786
+
+<!-- TODO:DUPLICATE -->
 
 Allah, "Ey Meryem oğlu İsa! Sen mi insanlara Beni ve annemi Allah'tan başka iki tanrı olarak benimseyin dedin?" demişti de, "Haşa, hak olmayan sözü söylemek bana yaraşmaz; eğer söylemişsem, şüphesiz Sen onu bilirsin; Sen, benim içimde olanı bilirsin; ben Senin içinde olanı bilmem; doğrusu görülmeyeni bilen ancak Sensin" demişti, "Ben onlara sadece 'Rabbim ve Rabbiniz olan Allah'a kulluk edin' diye bana emrettiğini söyledim. Aralarında bulunduğum müddetce onlar hakkında şahiddim, beni aralarından aldığında onları Sen gözlüyordun. Sen her şeye şahidsin."
 
@@ -3410,6 +3480,8 @@ O, kulların üstünde yegane Hakim'dir, size koruyucular gönderir. Artık biri
 
 # 851
 
+<!-- TODO:DUPLICATE -->
+
 O, kulların üstünde yegane Hakim'dir, size koruyucular gönderir. Artık birinize ölüm gelince elçilerimiz, bir eksiklik yapmaksızın onun canını alırlar, sonra gerçek Mevlalarına döndürürler. Haberiniz olsun, hüküm O'nundur. O, hesap görenlerin en süratlisidir.
 
 # 852
@@ -3449,6 +3521,8 @@ Dinlerini oyun ve eğlenceye alanları, dünya hayatının aldattığı kimseler
 De ki: "Arkadaşları bize gel diye doğru yola çağırırken, şeytanların yeryüzünde şaşırttıkları bir kimse gibi geriye mi dönelim. Allah bizi doğru yola eriştirdikten sonra, bize faydası olmayan, zarar da veremeyen Allah'tan başka şeylere mi yalvaralım?" De ki, "Doğru yol ancak Allah'ın yoludur. Alemlerin Rabbine teslim olarak namaz kılın, Allah'tan sakının diye emrolunduk." Kendisine toplanacağınız O'dur.
 
 # 861
+
+<!-- TODO:DUPLICATE -->
 
 De ki: "Arkadaşları bize gel diye doğru yola çağırırken, şeytanların yeryüzünde şaşırttıkları bir kimse gibi geriye mi dönelim. Allah bizi doğru yola eriştirdikten sonra, bize faydası olmayan, zarar da veremeyen Allah'tan başka şeylere mi yalvaralım?" De ki, "Doğru yol ancak Allah'ın yoludur. Alemlerin Rabbine teslim olarak namaz kılın, Allah'tan sakının diye emrolunduk." Kendisine toplanacağınız O'dur.
 
@@ -3502,9 +3576,13 @@ Ona İshak'ı, Yakub'u bağışladık, her birini doğru yola eriştirdik. Daha 
 
 # 874
 
+<!-- TODO:DUPLICATE -->
+
 Ona İshak'ı, Yakub'u bağışladık, her birini doğru yola eriştirdik. Daha önce Nuh'u ve soyundan Davud'u, Süleyman'ı, Eyyub'u, Yusuf'u, Musa'yı ve Harun'u -ki işlerini iyi yapanlara böylece karşılık veririz-, Zekeriya'yı, Yahya'yı, İsa'yı ve İlyas'ı -ki hepsi iyilerdendir-, İsmail'i, Elyesa'ı, Yunus'u, Lut'u -ki hepsini dünyalara üstün kıldık- doğru yola eriştirdik.
 
 # 875
+
+<!-- TODO:DUPLICATE -->
 
 Ona İshak'ı, Yakub'u bağışladık, her birini doğru yola eriştirdik. Daha önce Nuh'u ve soyundan Davud'u, Süleyman'ı, Eyyub'u, Yusuf'u, Musa'yı ve Harun'u -ki işlerini iyi yapanlara böylece karşılık veririz-, Zekeriya'yı, Yahya'yı, İsa'yı ve İlyas'ı -ki hepsi iyilerdendir-, İsmail'i, Elyesa'ı, Yunus'u, Lut'u -ki hepsini dünyalara üstün kıldık- doğru yola eriştirdik.
 
@@ -3613,6 +3691,8 @@ Eğer biz onlara melekleri indirsek, ölüler onlarla konuşsa ve her şeyi kar�
 Aldatmak için birbirlerine cazip sözler fısıldayan cin ve insan şeytanlarını her peygambere düşman yaptık. Bu şeytanlar ahirete inanmayanların kalblerinin o sözlere yönelmesi, ondan hoşnut olması ve kendilerinin işledikleri suçları işlemeleri için böyle yaparlar. Rabbin dileseydi bunu yapamazlardı, sen onları iftiraları ile başbaşa bırak;
 
 # 902
+
+<!-- TODO:DUPLICATE -->
 
 Aldatmak için birbirlerine cazip sözler fısıldayan cin ve insan şeytanlarını her peygambere düşman yaptık. Bu şeytanlar ahirete inanmayanların kalblerinin o sözlere yönelmesi, ondan hoşnut olması ve kendilerinin işledikleri suçları işlemeleri için böyle yaparlar. Rabbin dileseydi bunu yapamazlardı, sen onları iftiraları ile başbaşa bırak;
 
@@ -3786,9 +3866,13 @@ Bu, indirdiğimiz kutsal Kitap'dır, ona uyun. "Bizden önce iki topluluğa kita
 
 # 945
 
+<!-- TODO:DUPLICATE -->
+
 Bu, indirdiğimiz kutsal Kitap'dır, ona uyun. "Bizden önce iki topluluğa kitap indirildi, bizim onların okuduklarından haberimiz yok" demekten veya "Bize kitap indirilseydi onlardan daha doğru yolda olurduk" demekten sakının ki merhamet olunasınız. Şüphesiz o, size Rabbinizden belge, yol gösteren ve rahmet olarak gelmiştir. Allah'ın ayetlerini yalanlayandan ve onlardan yüz çevirenden daha zalim kimdir? Ayetlerimizden yüz çevirenleri, yüz çevirmelerinden ötürü, kötü bir azabla cezalandıracağız.
 
 # 946
+
+<!-- TODO:DUPLICATE -->
 
 Bu, indirdiğimiz kutsal Kitap'dır, ona uyun. "Bizden önce iki topluluğa kitap indirildi, bizim onların okuduklarından haberimiz yok" demekten veya "Bize kitap indirilseydi onlardan daha doğru yolda olurduk" demekten sakının ki merhamet olunasınız. Şüphesiz o, size Rabbinizden belge, yol gösteren ve rahmet olarak gelmiştir. Allah'ın ayetlerini yalanlayandan ve onlardan yüz çevirenden daha zalim kimdir? Ayetlerimizden yüz çevirenleri, yüz çevirmelerinden ötürü, kötü bir azabla cezalandıracağız.
 
@@ -3889,6 +3973,8 @@ Allah; "Sen erteye bırakılanlardansın" dedi.
 "Beni azdırdığın için, and olsun ki, Senin doğru yolun üzerinde onlara karşı duracağım; sonra önlerinden, ardlarından, sağ ve sollarından onlara sokulacağım; çoğunu Sana şükreder bulamayacaksın" dedi.
 
 # 971
+
+<!-- TODO:DUPLICATE -->
 
 "Beni azdırdığın için, and olsun ki, Senin doğru yolun üzerinde onlara karşı duracağım; sonra önlerinden, ardlarından, sağ ve sollarından onlara sokulacağım; çoğunu Sana şükreder bulamayacaksın" dedi.
 
@@ -4002,6 +4088,8 @@ Cennetlikler, cehennemliklere: "Biz Rabbimizin bize vadettiğini gerçek bulduk,
 
 # 999
 
+<!-- TODO:DUPLICATE -->
+
 Cennetlikler, cehennemliklere: "Biz Rabbimizin bize vadettiğini gerçek bulduk, Rabbinizin size de vadettiğini gerçek buldunuz mu?" diye seslenirler, "Evet" derler. Aralarında bir münadi, "Allah'ın laneti Allah yolundan alıkoyan, o yolun eğriliğini isteyen ve ahireti inkar eden zalimleredir" diye seslenir.
 
 # 1000
@@ -4018,6 +4106,8 @@ Burçlarda olanlar, simalarından tanıdıkları adamlara; Topluluğunuz, toplad
 
 # 1003
 
+<!-- TODO:DUPLICATE -->
+
 Burçlarda olanlar, simalarından tanıdıkları adamlara; Topluluğunuz, topladığınız mal ve büyüklük taslamalarınız size fayda vermedi. Allah'ın rahmetine erdirmeyeceğine yemin ettikleriniz bunlar mıydı? Oysa Allah onlara şöyle der: "Cennete girin, size korku yoktur, sizler mahzun da olmayacaksınız."
 
 # 1004
@@ -4025,6 +4115,8 @@ Burçlarda olanlar, simalarından tanıdıkları adamlara; Topluluğunuz, toplad
 Cehennemlikler cennetliklere, "Bize biraz su veya Allah'ın size verdiği rızıktan gönderin" diye seslenirler, onlar da, "Doğrusu Allah dinlerini alay ve eğlenceye alan, dünya hayatına aldanan inkarcılara ikisini de haram etmiştir" derler. Bugünle karşılaşacaklarını unuttukları, ayetlerimizi bile bile inkar ettikleri gibi biz de onları unutuyoruz.
 
 # 1005
+
+<!-- TODO:DUPLICATE -->
 
 Cehennemlikler cennetliklere, "Bize biraz su veya Allah'ın size verdiği rızıktan gönderin" diye seslenirler, onlar da, "Doğrusu Allah dinlerini alay ve eğlenceye alan, dünya hayatına aldanan inkarcılara ikisini de haram etmiştir" derler. Bugünle karşılaşacaklarını unuttukları, ayetlerimizi bile bile inkar ettikleri gibi biz de onları unutuyoruz.
 
@@ -4070,9 +4162,13 @@ Milletinin ileri gelenleri: "Biz senin apaçık sapıklıkta olduğunu görüyor
 
 # 1016
 
+<!-- TODO:DUPLICATE -->
+
 "Ey milletim! Bende bir sapıklık yoktur, ancak ben Alemlerin Rabbinin peygamberiyim, Rabbimin sözlerini size bildiriyor, öğüt veriyorum. Sizin bilmediğinizi Allah katından ben biliyorum. Sakınmanızı ve böylece merhamete uğramanızı sağlamak üzere sizi uyarmak için aranızdan biri vasıtasıyla Rabbinizden size haber gelmesine mi şaşıyorsunuz?" dedi.
 
 # 1017
+
+<!-- TODO:DUPLICATE -->
 
 "Ey milletim! Bende bir sapıklık yoktur, ancak ben Alemlerin Rabbinin peygamberiyim, Rabbimin sözlerini size bildiriyor, öğüt veriyorum. Sizin bilmediğinizi Allah katından ben biliyorum. Sakınmanızı ve böylece merhamete uğramanızı sağlamak üzere sizi uyarmak için aranızdan biri vasıtasıyla Rabbinizden size haber gelmesine mi şaşıyorsunuz?" dedi.
 
@@ -4097,6 +4193,8 @@ Milletinin inkarcı ileri gelenleri, "Biz senin beyinsiz olduğunu görüyor ve 
 Size Rabbimin sözlerini bildiriyorum. Ben sizin için güvenilir bir öğütçüyüm; sizi uyarmak üzere, aranızdan bir adam vasıtasiyle Rabbinizden size bir haber gelmesine mi şaşıyorsunuz? Allah'ın sizi Nuh'un milleti yerine getirdiğini ve vücutça da onlardan üstün kıldığını hatırlayın, başarıya erişebilmeniz için Allah'ın nimetlerini anın" dedi.
 
 # 1023
+
+<!-- TODO:DUPLICATE -->
 
 Size Rabbimin sözlerini bildiriyorum. Ben sizin için güvenilir bir öğütçüyüm; sizi uyarmak üzere, aranızdan bir adam vasıtasiyle Rabbinizden size bir haber gelmesine mi şaşıyorsunuz? Allah'ın sizi Nuh'un milleti yerine getirdiğini ve vücutça da onlardan üstün kıldığını hatırlayın, başarıya erişebilmeniz için Allah'ın nimetlerini anın" dedi.
 
@@ -4130,6 +4228,8 @@ Büyüklük taslayanlar, "Sizin inandığınızı biz inkar ediyoruz" dediler ve
 
 # 1031
 
+<!-- TODO:DUPLICATE -->
+
 Büyüklük taslayanlar, "Sizin inandığınızı biz inkar ediyoruz" dediler ve dişi deveyi kesip devirdiler; Rablerinin buyruğuna baş kaldırdılar, "Ey Salih, eğer sen peygambersen bizi tehdit ettiğin azaba uğrat bakalım" dediler.
 
 # 1032
@@ -4145,6 +4245,8 @@ Salih de onlardan yüz çevirdi ve "Ey milletim! And olsun ki ben size Rabbimin 
 Lut'u da gönderdik, milletine "Dünyalarda hiç kimsenin sizden önce yapmadığı bir hayasızlığı mı yapıyorsunuz? Siz kadınları bırakıp erkeklere yaklaşıyorsunuz, doğrusu çok aşırı giden bir milletsiniz" dedi.
 
 # 1035
+
+<!-- TODO:DUPLICATE -->
 
 Lut'u da gönderdik, milletine "Dünyalarda hiç kimsenin sizden önce yapmadığı bir hayasızlığı mı yapıyorsunuz? Siz kadınları bırakıp erkeklere yaklaşıyorsunuz, doğrusu çok aşırı giden bir milletsiniz" dedi.
 
@@ -4177,6 +4279,8 @@ Medyen halkına da kardeşleri Şuayb'ı gönderdik, onlara şöyle dedi: "Ey mi
 Milletinin büyüklük taslayan ileri gelenleri, "Ey Şuayb! Ya dinimize dönersiniz ya da, and olsun ki seni ve inananları seninle beraber kentimizden çıkarırız" dediler. Şuayb, onlara: "İstemezsek de mi? Allah bizi dininizden kurtardıktan sonra ona dönecek olursak, doğrusu Allah'a karşı yalan uydurmuş oluruz. Rabbimizin dilemesi bir yana, dininize dönmek bize yakışmaz. Rabbimizin ilmi her şeyi kuşatmıştır. Biz yalnız Allah'a güvendik. Rabbimiz! Bizimle milletimiz arasında hak ile Sen hüküm ver, Sen hükmedenlerin en hayırlısısın" dedi.
 
 # 1043
+
+<!-- TODO:DUPLICATE -->
 
 Milletinin büyüklük taslayan ileri gelenleri, "Ey Şuayb! Ya dinimize dönersiniz ya da, and olsun ki seni ve inananları seninle beraber kentimizden çıkarırız" dediler. Şuayb, onlara: "İstemezsek de mi? Allah bizi dininizden kurtardıktan sonra ona dönecek olursak, doğrusu Allah'a karşı yalan uydurmuş oluruz. Rabbimizin dilemesi bir yana, dininize dönmek bize yakışmaz. Rabbimizin ilmi her şeyi kuşatmıştır. Biz yalnız Allah'a güvendik. Rabbimiz! Bizimle milletimiz arasında hak ile Sen hüküm ver, Sen hükmedenlerin en hayırlısısın" dedi.
 
@@ -4254,6 +4358,8 @@ Musa, asasını yere atar atmaz apaçık bir yılan (ejderha) oluverdi; elini ç
 
 # 1062
 
+<!-- TODO:DUPLICATE -->
+
 Musa, asasını yere atar atmaz apaçık bir yılan (ejderha) oluverdi; elini çıkardı, bakanlar bembeyaz olduğunu gördüler.
 
 # 1063
@@ -4262,6 +4368,8 @@ Firavun milletinin ileri gelenleri, "Doğrusu bu bilgin bir sihirbazdır, sizi m
 
 # 1064
 
+<!-- TODO:DUPLICATE -->
+
 Firavun milletinin ileri gelenleri, "Doğrusu bu bilgin bir sihirbazdır, sizi memleketinizden çıkarmak istiyor" dediler. Firavun: "Ne buyurursunuz?" dedi.
 
 # 1065
@@ -4269,6 +4377,8 @@ Firavun milletinin ileri gelenleri, "Doğrusu bu bilgin bir sihirbazdır, sizi m
 "Onu ve kardeşini eğle; şehirlere toplayıcılar gönder, bütün bilgin sihirbazları sana getirsinler" dediler.
 
 # 1066
+
+<!-- TODO:DUPLICATE -->
 
 "Onu ve kardeşini eğle; şehirlere toplayıcılar gönder, bütün bilgin sihirbazları sana getirsinler" dediler.
 
@@ -4306,9 +4416,13 @@ Sihirbazlar secdeye kapanıp, "Alemlerin Rabbine, Musa ve Harun'un Rabbine inand
 
 # 1075
 
+<!-- TODO:DUPLICATE -->
+
 Sihirbazlar secdeye kapanıp, "Alemlerin Rabbine, Musa ve Harun'un Rabbine inandık" dediler.
 
 # 1076
+
+<!-- TODO:DUPLICATE -->
 
 Sihirbazlar secdeye kapanıp, "Alemlerin Rabbine, Musa ve Harun'un Rabbine inandık" dediler.
 
@@ -4318,6 +4432,8 @@ Firavun: "Ben size izin vermeden mi O'na inandınız? Doğrusu bu, halkı şehir
 
 # 1078
 
+<!-- TODO:DUPLICATE -->
+
 Firavun: "Ben size izin vermeden mi O'na inandınız? Doğrusu bu, halkı şehirden çıkarmak için düzdüğünüz bir hiledir, fakat siz göreceksiniz. And olsun ki, ellerinizi ayaklarınızı çaprazlama keseceğim, sonra da hepinizi asacağım" dedi.
 
 # 1079
@@ -4325,6 +4441,8 @@ Firavun: "Ben size izin vermeden mi O'na inandınız? Doğrusu bu, halkı şehir
 Onlar da: "Doğrusu biz ancak Rabbimize döneriz. Rabbimizin ayetleri gelince, onlara inanmamızdan ötürü bizden öç alıyorsun. Rabbimiz! Bize sabır ver ve canımızı müslim olarak al" dediler.
 
 # 1080
+
+<!-- TODO:DUPLICATE -->
 
 Onlar da: "Doğrusu biz ancak Rabbimize döneriz. Rabbimizin ayetleri gelince, onlara inanmamızdan ötürü bizden öç alıyorsun. Rabbimiz! Bize sabır ver ve canımızı müslim olarak al" dediler.
 
@@ -4377,6 +4495,8 @@ Hor görülen yahudileri, bereketlendirdiğimiz yerin doğularına ve batıları
 İsrailoğullarının denizden geçmelerini sağladık. Puta gönülden tapan bir millete rastladılar. "Ey Musa! Onların tanrıları gibi bize de bir tanrı yap" dediler, Musa: " Doğrusu siz bilgisiz bir milletsiniz, bunlar yok olacaklar ve işledikleri boşa gidecektir" dedi.
 
 # 1093
+
+<!-- TODO:DUPLICATE -->
 
 İsrailoğullarının denizden geçmelerini sağladık. Puta gönülden tapan bir millete rastladılar. "Ey Musa! Onların tanrıları gibi bize de bir tanrı yap" dediler, Musa: " Doğrusu siz bilgisiz bir milletsiniz, bunlar yok olacaklar ve işledikleri boşa gidecektir" dedi.
 
@@ -4450,6 +4570,8 @@ Musa, tayin ettiğimiz müddette milletinden yetmiş kişi seçti; onları sars�
 
 # 1111
 
+<!-- TODO:DUPLICATE -->
+
 "Bu dünyada ve ahirette bizim için güzel olanı yaz; biz Sana yöneldik" dedi. Allah: "Azabıma dilediğim kimseyi uğratırım, rahmetim herşeyi kaplamıştır; bunu Allah'a karşı gelmekten sakınanlara, zekat verenlere, ayetlerimize inanıp, yanlarındaki Tevrat ve İncil'de yazılı buldukları, okuyup yazması olmayan peygambere uyanlara yazacağız. O peygamber, onlara, uygun olanı emreder ve fenalıktan meneder, temiz şeyleri helal, murdar şeyleri haram kılar, onların ağır yüklerini indirir, zor tekliflerini hafifletir. Bu peygambere inanan, hürmet eden, yardım eden, onunla gönderilen nura uyanlar yok mu? İşte onlar saadete erenlerdir" dedi.
 
 # 1112
@@ -4502,6 +4624,8 @@ Ardlarından yerlerine gelen bir takım kötüler, Kitap'a mirasçı oldular. "B
 
 # 1124
 
+<!-- TODO:DUPLICATE -->
+
 Ardlarından yerlerine gelen bir takım kötüler, Kitap'a mirasçı oldular. "Biz nasıl olsa affedileceğiz" diyerek Kitap'ın hükümlerini değiştirme karşılığı bu değersiz dünyanın mallarını alırlar; yine ona benzer geçici bir şey kendilerine gelince onu da kabul ederlerdi. Onlardan, Allah'a karşı ancak gerçeği söyleyeceklerine dair Kitap üzerine söz alınmamış mıydı? Kitap'da olanları okumamışlar mıydı? Allah'a karşı gelmekten sakınanlar için, ahiret yurdu vardır, düşünmüyor musunuz? Biz, iyiliğe çalışanların ecrini elbette zayi etmeyiz.
 
 # 1125
@@ -4513,6 +4637,8 @@ Tur dağını, gölgelik gibi onların üzerlerine yükseltmiştik, onlar tepele
 Rabbin, insanoğlunun sulbünden soyunu alıp devam ettirmiş, onlara: "Ben sizin Rabbiniz değil miyim" demiş ve buna kendilerini şahit tutmuştu. Onlar da: "Evet şahidiz" demişlerdi. Bu, kıyamet günü, "Bizim bundan haberimiz yoktu" dersiniz veya "Daha önce babalarımız Allah'a ortak koşmuşlardı, biz de onlardan sonra gelen bir soyuz, bizi, boşa çalışanların yaptıklarından ötürü yok eder misin?" dersiniz diyedir.
 
 # 1127
+
+<!-- TODO:DUPLICATE -->
 
 Rabbin, insanoğlunun sulbünden soyunu alıp devam ettirmiş, onlara: "Ben sizin Rabbiniz değil miyim" demiş ve buna kendilerini şahit tutmuştu. Onlar da: "Evet şahidiz" demişlerdi. Bu, kıyamet günü, "Bizim bundan haberimiz yoktu" dersiniz veya "Daha önce babalarımız Allah'a ortak koşmuşlardı, biz de onlardan sonra gelen bir soyuz, bizi, boşa çalışanların yaptıklarından ötürü yok eder misin?" dersiniz diyedir.
 
@@ -4658,6 +4784,8 @@ Sana, ganimetlere dair soru sorarlar, de ki: Ganimetler Allah'ın ve Peygamberin
 
 # 1163
 
+<!-- TODO:DUPLICATE -->
+
 İnananlar ancak, o kimselerdir ki Allah anıldığı zaman kalbleri titrer, ayetleri okunduğu zaman bu onların imanlarını artırır. Ve Rablerine güvenirler; namaz kılarlar; kendilerine verdiğimiz rızıktan yerli yerince sarf ederler.
 
 # 1164
@@ -4677,6 +4805,8 @@ Sanki göz göre göre ölüme sürükleniyorlarmış gibi, gerçek ortaya çık
 Allah bu iki taifeden birini size vadetmişti; siz, kuvvetsiz olanın size düşmesini istiyordunuz. Oysa, suçluların hoşuna gitmese de, hakkı ortaya çıkarmak ve batılı tepelemek için, Allah sözleriyle hakkı ortaya koymak ve inkarcıların kökünü kesmek istiyordu.
 
 # 1168
+
+<!-- TODO:DUPLICATE -->
 
 Allah bu iki taifeden birini size vadetmişti; siz, kuvvetsiz olanın size düşmesini istiyordunuz. Oysa, suçluların hoşuna gitmese de, hakkı ortaya çıkarmak ve batılı tepelemek için, Allah sözleriyle hakkı ortaya koymak ve inkarcıların kökünü kesmek istiyordu.
 
@@ -4729,6 +4859,8 @@ Ey inkarcılar! Zafer istiyorsanız, işte zafer geldi (aleyhinize çıktı). Pe
 Ey inananlar! Allah'a ve Peygamberine itaat edin, Kuran'ı dinleyip dururken yüz çevirmeyin, dinlemedikleri halde "dinledik" diyenler gibi olmayın.
 
 # 1181
+
+<!-- TODO:DUPLICATE -->
 
 Ey inananlar! Allah'a ve Peygamberine itaat edin, Kuran'ı dinleyip dururken yüz çevirmeyin, dinlemedikleri halde "dinledik" diyenler gibi olmayın.
 
@@ -4794,6 +4926,8 @@ Doğrusu inkar edenler mallarını Allah'ın yolundan insanları alıkoymak içi
 
 # 1197
 
+<!-- TODO:DUPLICATE -->
+
 Doğrusu inkar edenler mallarını Allah'ın yolundan insanları alıkoymak için sarfederler ve daha da sarfedeceklerdir; ama sonra içleri yanacak, hem de mağlup olacaklardır. Bu, Allah'ın, temizi murdardan ayırması ve murdarları üstüste koyup hepsini yığarak cehenneme yerleştirmesi içindir; inkar edenler cehenneme toplanacaklardır. İşte onlar mahvolanlardır.
 
 # 1198
@@ -4850,6 +4984,8 @@ Melekler, inkar edenlerin yüzlerine ve sırtlarına vurarak, "Yakıcı azabı t
 
 # 1211
 
+<!-- TODO:DUPLICATE -->
+
 Melekler, inkar edenlerin yüzlerine ve sırtlarına vurarak, "Yakıcı azabı tadın, bu, kendi ellerinizle yaptığınızın karşılığıdır" diyerek canlarını alırken bir görseydin! Yoksa Allah kullara asla zulmetmez.
 
 # 1212
@@ -4873,6 +5009,8 @@ Allah katında yeryüzünde yaşayanların en kötüsü, inkar edenlerdir. Onlar
 Anlaşma yaptığın kimseler, sonucundan sakınmayarak anlaşmalarını her defasında bozarlar. Savaşta onları yakalarsan, arkalarındakilere ibret olacak şekilde, darmadağın et.
 
 # 1217
+
+<!-- TODO:DUPLICATE -->
 
 Anlaşma yaptığın kimseler, sonucundan sakınmayarak anlaşmalarını her defasında bozarlar. Savaşta onları yakalarsan, arkalarındakilere ibret olacak şekilde, darmadağın et.
 
@@ -4898,6 +5036,8 @@ Seni aldatmak isterlerse, bil ki şüphesiz Allah sana kafidir. Seni ve inananla
 
 # 1223
 
+<!-- TODO:DUPLICATE -->
+
 Seni aldatmak isterlerse, bil ki şüphesiz Allah sana kafidir. Seni ve inananları yardımıyla destekleyen, kalblerini uzlaştıran O'dur. Eğer yeryüzünde olan her şeyi sarfetsen bile, sen onların kalblerini uzlaştıramazdın, ama Allah onları uzlaştırdı. Doğrusu O Güçlü'dür, Hakim'dir.
 
 # 1224
@@ -4909,6 +5049,8 @@ Allah'ın yardımı sana ve sana uyan müminlere yeter.
 Müminleri savaş için coştur. Sizin sabırlı yirmi kişiniz onlardan ikiyüz kişiyi yener. Sizin yüz kişiniz, inkar edenlerden bin kişiyi yener; çünkü onlar anlayışsız bir güruhtur. Şimdi Allah yükünüzü hafifletti, zira içinizde zaaf bulunduğunu biliyordu. Sizin sabırlı yüz kişiniz onlardan ikiyüz kişiyi yener; sizin bin kişiniz, Allah'ın izniyle, ikibin kişiyi yener. Allah sabredenlerle beraberdir.
 
 # 1226
+
+<!-- TODO:DUPLICATE -->
 
 Müminleri savaş için coştur. Sizin sabırlı yirmi kişiniz onlardan ikiyüz kişiyi yener. Sizin yüz kişiniz, inkar edenlerden bin kişiyi yener; çünkü onlar anlayışsız bir güruhtur. Şimdi Allah yükünüzü hafifletti, zira içinizde zaaf bulunduğunu biliyordu. Sizin sabırlı yüz kişiniz onlardan ikiyüz kişiyi yener; sizin bin kişiniz, Allah'ın izniyle, ikibin kişiyi yener. Allah sabredenlerle beraberdir.
 
@@ -4953,6 +5095,8 @@ Sonra inanıp hicret eden ve sizinle birlikte savaşanlar, işte onlar sizdendir
 Allah'tan ve Peygamberinden, kendileriyle andlaşma yaptığınız müşriklere ihtardır: Yeryüzünde dört ay daha dolaşabilirsiniz. Allah'ı aciz bırakamayacağınızı, Allah'ın inkarcıları rezil edeceğini bilin.
 
 # 1237
+
+<!-- TODO:DUPLICATE -->
 
 Allah'tan ve Peygamberinden, kendileriyle andlaşma yaptığınız müşriklere ihtardır: Yeryüzünde dört ay daha dolaşabilirsiniz. Allah'ı aciz bırakamayacağınızı, Allah'ın inkarcıları rezil edeceğini bilin.
 
@@ -5006,6 +5150,8 @@ Onlarla savaşın ki Allah sizin elinizle onları azablandırsın, rezil etsin v
 
 # 1250
 
+<!-- TODO:DUPLICATE -->
+
 Onlarla savaşın ki Allah sizin elinizle onları azablandırsın, rezil etsin ve sizi üstün getirsin de müminlerin gönüllerini ferahlandırsın, kalblerindeki öfkeyi gidersin. Allah dilediğinin tevbesini kabul eder. Allah Bilendir, Hakimdir.
 
 # 1251
@@ -5033,6 +5179,8 @@ Hacca gelenlere su vermeyi, Mescidi Haramı onarmayı, Allah'a ve ahiret günün
 Rableri onlara katından bir rahmet, hoşnutluk ve içinde tükenmez nimetler bulunan cennetleri müjdeler. Doğrusu büyük ecir Allah katındadır.
 
 # 1257
+
+<!-- TODO:DUPLICATE -->
 
 Rableri onlara katından bir rahmet, hoşnutluk ve içinde tükenmez nimetler bulunan cennetleri müjdeler. Doğrusu büyük ecir Allah katındadır.
 
@@ -5494,6 +5642,8 @@ Bizimle karşılaşmayı ummayan ve dünya hayatından hoşnut olup ona bağlana
 
 # 1372
 
+<!-- TODO:DUPLICATE -->
+
 Bizimle karşılaşmayı ummayan ve dünya hayatından hoşnut olup ona bağlananların ve ayetlerimizden habersiz bulunanların, işte bunların kazandıklarına karşılık varacakları yer cehennemdir.
 
 # 1373
@@ -5577,6 +5727,8 @@ Kötülük işleyenlere kötülükleri kadar ceza verilir; onların yüzlerini z
 Onların hepsini bir gün toplarız, sonra, puta tapanlara, "Siz ve putlarınız yerlerinize! deyip onları birbirlerinden ayırırız. Putları ise: "Bize tapmıyordunuz ki. Allah, sizinle bizim aramızda şahit olarak yeter. Sizin tapınmanızdan bizim haberimiz yoktu" derler.
 
 # 1393
+
+<!-- TODO:DUPLICATE -->
 
 Onların hepsini bir gün toplarız, sonra, puta tapanlara, "Siz ve putlarınız yerlerinize! deyip onları birbirlerinden ayırırız. Putları ise: "Bize tapmıyordunuz ki. Allah, sizinle bizim aramızda şahit olarak yeter. Sizin tapınmanızdan bizim haberimiz yoktu" derler.
 
@@ -5790,6 +5942,8 @@ Attıklarında, Musa: "Yaptığınız sihirdir, fakat Allah onu boşa çıkaraca
 
 # 1446
 
+<!-- TODO:DUPLICATE -->
+
 Attıklarında, Musa: "Yaptığınız sihirdir, fakat Allah onu boşa çıkaracaktır. Allah bozguncuların işini elbette düzeltmez. Suçlular istemese de Allah sözleriyle hakkı gerçekleştirecektir" dedi.
 
 # 1447
@@ -5805,6 +5959,8 @@ Musa: "Ey milletim! Allah'a inanıyorsanız ve teslim olmuşsanız O'na güvenin
 "Allah'a güvendik; Ey Rabbimiz! Zalim bir millet ile bizi sınama, rahmetinle bizi kafirlerden kurtar" dediler.
 
 # 1450
+
+<!-- TODO:DUPLICATE -->
 
 "Allah'a güvendik; Ey Rabbimiz! Zalim bir millet ile bizi sınama, rahmetinle bizi kafirlerden kurtar" dediler.
 
@@ -5850,6 +6006,8 @@ Doğrusu Rabbinin söz verdiği azabı hak edenler, can yakıcı azabı görene 
 
 # 1461
 
+<!-- TODO:DUPLICATE -->
+
 Doğrusu Rabbinin söz verdiği azabı hak edenler, can yakıcı azabı görene kadar kendilerine her türlü belge gelse bile inanmazlar.
 
 # 1462
@@ -5886,6 +6044,8 @@ De ki: "Ey insanlar! Benim dinimden şüphede iseniz bilin ki ben Allah'tan baş
 
 # 1470
 
+<!-- TODO:DUPLICATE -->
+
 (Muhammed'e) "Yüzünü, doğruya yönelmiş olarak dine çevir, sakın ortak koşanlardan olma; sana fayda da zarar da veremeyecek, Allah'tan başkasına yalvarma; öyle yaparsan şüphesiz, zalimlerden olursun" denildi.
 
 # 1471
@@ -5906,9 +6066,13 @@ Elif, Lam, Ra. Bu Kitap, hakim ve haberdar olan Allah tarafından, Allah'tan ba�
 
 # 1475
 
+<!-- TODO:DUPLICATE -->
+
 Elif, Lam, Ra. Bu Kitap, hakim ve haberdar olan Allah tarafından, Allah'tan başkasına kulluk etmeyesiniz diye ayetleri kesin kılınmış, sonra da uzun uzadıya açıklanmış bir Kitap'dır. Ben size, O'nun tarafından gönderilmiş bir uyarıcı ve müjdeciyim. Rabbinizden mağfiret dileyin ve O'na tevbe edin ki, belli bir süreye kadar sizi güzelce geçindirsin ve her fazilet sahibine faziletinin karşılığını versin. Eğer yüz çevirirseniz o zaman ben doğrusu hakkınızda büyük günün azabından korkarım.
 
 # 1476
+
+<!-- TODO:DUPLICATE -->
 
 Elif, Lam, Ra. Bu Kitap, hakim ve haberdar olan Allah tarafından, Allah'tan başkasına kulluk etmeyesiniz diye ayetleri kesin kılınmış, sonra da uzun uzadıya açıklanmış bir Kitap'dır. Ben size, O'nun tarafından gönderilmiş bir uyarıcı ve müjdeciyim. Rabbinizden mağfiret dileyin ve O'na tevbe edin ki, belli bir süreye kadar sizi güzelce geçindirsin ve her fazilet sahibine faziletinin karşılığını versin. Eğer yüz çevirirseniz o zaman ben doğrusu hakkınızda büyük günün azabından korkarım.
 
@@ -6002,6 +6166,8 @@ And olsun ki biz Nuh'u kendi milletine gönderdik; "Ben sizin için apaçık bir
 
 # 1499
 
+<!-- TODO:DUPLICATE -->
+
 And olsun ki biz Nuh'u kendi milletine gönderdik; "Ben sizin için apaçık bir uyarıcıyım; Allah'tan başkasına kulluk etmeyin; doğrusu ben hakkınızda can yakıcı bir günün azabından korkuyorum" dedi.
 
 # 1500
@@ -6034,6 +6200,8 @@ Nuh: "Ey milletim! Rabbimin katından bir delilim bulunsa ve bana yine katından
 
 # 1507
 
+<!-- TODO:DUPLICATE -->
+
 "Ancak Allah dilerse onu başınıza getirir, siz O'nu aciz bırakamazsınız. Allah sizi azdırmak isterse, ben size öğüt vermek istesem de faydası olmaz. O, sizin Rabbinizdir, O'na döndürüleceksiniz" dedi.
 
 # 1508
@@ -6046,6 +6214,8 @@ Nuh'a, "Senin milletinden, inanmış olanlardan başkası inanmayacaktır; onlar
 
 # 1510
 
+<!-- TODO:DUPLICATE -->
+
 Nuh'a, "Senin milletinden, inanmış olanlardan başkası inanmayacaktır; onların yapageldiklerine üzülme; nezaretimiz altında, sana bildirdiğimiz gibi gemiyi yap. Haksızlık yapanlar için Bana baş vurma, çünkü onlar suda boğulacaklardır" diye Allah tarafından vahyolundu.
 
 # 1511
@@ -6053,6 +6223,8 @@ Nuh'a, "Senin milletinden, inanmış olanlardan başkası inanmayacaktır; onlar
 Gemiyi yaparken, milletinin inkarcı ileri gelenleri yanına uğradıkça onunla alay ederlerdi. O da: "Bizimle alay ediyorsunuz ama, alay ettiğiniz gibi biz de sizinle alay edeceğiz; rezil edecek olan azabın kime geleceğini ve kime sürekli azabın ineceğini göreceksiniz" dedi.
 
 # 1512
+
+<!-- TODO:DUPLICATE -->
 
 Gemiyi yaparken, milletinin inkarcı ileri gelenleri yanına uğradıkça onunla alay ederlerdi. O da: "Bizimle alay ediyorsunuz ama, alay ettiğiniz gibi biz de sizinle alay edeceğiz; rezil edecek olan azabın kime geleceğini ve kime sürekli azabın ineceğini göreceksiniz" dedi.
 
@@ -6118,13 +6290,19 @@ Bir kısım tanrılarımız seni çarpmıştır, demekten başka birşey demeyiz
 
 # 1528
 
+<!-- TODO:DUPLICATE -->
+
 Bir kısım tanrılarımız seni çarpmıştır, demekten başka birşey demeyiz" dediler. Hud: "Doğrusu ben Allah'ı şahit tutuyorum; siz de şahit olun ki ben O'nu bırakıp koştuğunuz ortaklardan uzağım. Hepiniz bana tuzak kurun sonra da ertelemeyin. Ben, ancak benim de sizin de Rabbiniz olan Allah'a güvenirim. Hiçbir canlı yoktur ki Allah ona el koymamış bulunsun. Rabbim elbette doğru yoldadır. Eğer yüz çevirirseniz, şüphesiz ben size benimle gönderileni bildirdim. Rabbim sizden başka bir milleti yerinize getirebilir, O'na bir şey de yapamazsınız. Doğrusu Rabbim herşeyi koruyandır" dedi.
 
 # 1529
 
+<!-- TODO:DUPLICATE -->
+
 Bir kısım tanrılarımız seni çarpmıştır, demekten başka birşey demeyiz" dediler. Hud: "Doğrusu ben Allah'ı şahit tutuyorum; siz de şahit olun ki ben O'nu bırakıp koştuğunuz ortaklardan uzağım. Hepiniz bana tuzak kurun sonra da ertelemeyin. Ben, ancak benim de sizin de Rabbiniz olan Allah'a güvenirim. Hiçbir canlı yoktur ki Allah ona el koymamış bulunsun. Rabbim elbette doğru yoldadır. Eğer yüz çevirirseniz, şüphesiz ben size benimle gönderileni bildirdim. Rabbim sizden başka bir milleti yerinize getirebilir, O'na bir şey de yapamazsınız. Doğrusu Rabbim herşeyi koruyandır" dedi.
 
 # 1530
+
+<!-- TODO:DUPLICATE -->
 
 Bir kısım tanrılarımız seni çarpmıştır, demekten başka birşey demeyiz" dediler. Hud: "Doğrusu ben Allah'ı şahit tutuyorum; siz de şahit olun ki ben O'nu bırakıp koştuğunuz ortaklardan uzağım. Hepiniz bana tuzak kurun sonra da ertelemeyin. Ben, ancak benim de sizin de Rabbiniz olan Allah'a güvenirim. Hiçbir canlı yoktur ki Allah ona el koymamış bulunsun. Rabbim elbette doğru yoldadır. Eğer yüz çevirirseniz, şüphesiz ben size benimle gönderileni bildirdim. Rabbim sizden başka bir milleti yerinize getirebilir, O'na bir şey de yapamazsınız. Doğrusu Rabbim herşeyi koruyandır" dedi.
 
@@ -6230,6 +6408,8 @@ Buyruğumuz gelince oraların altını üstüne getirdik; üzerine Rabbinin kat�
 
 # 1556
 
+<!-- TODO:DUPLICATE -->
+
 Buyruğumuz gelince oraların altını üstüne getirdik; üzerine Rabbinin katından, işaretli olarak yığın yığın sert taş yağdırdık. Bunlar zalimlerden hiçbir zaman uzak olmayacaktır.
 
 # 1557
@@ -6285,6 +6465,8 @@ Sanki orada hiç yaşamamışlardı. Bilin ki Semud milleti Allah'ın rahmetinde
 And olsun ki Musa'yı Firavun ve erkanına mucizelerimizle, apaçık bir delil ile gönderdik. Firavun'un buyruğuna uydular, oysa Firavun'un buyurduğu sağduyuya uygun değildi.
 
 # 1570
+
+<!-- TODO:DUPLICATE -->
 
 And olsun ki Musa'yı Firavun ve erkanına mucizelerimizle, apaçık bir delil ile gönderdik. Firavun'un buyruğuna uydular, oysa Firavun'un buyurduğu sağduyuya uygun değildi.
 
@@ -6374,6 +6556,8 @@ Eğer Rabbin dileseydi insanları tek bir ümmet kılardı. Fakat, Rabbinin merh
 
 # 1592
 
+<!-- TODO:DUPLICATE -->
+
 Eğer Rabbin dileseydi insanları tek bir ümmet kılardı. Fakat, Rabbinin merhamet ettikleri bir yana, hala ayrılıktadırlar, esasen onları bunun için yaratmıştır. Rabbinin "And olsun ki cehennemi hep insan ve cin ile dolduracağım" sözü yerine gelmiştir.
 
 # 1593
@@ -6385,6 +6569,8 @@ Peygamberlerin başlarından geçenlerden, sana anlattığımız her şey, senin
 İnanmayanlara: "Durumunuzun gerektirdiğini yapın, doğrusu biz de yapıyoruz; bekleyin, biz de bekliyoruz" de.
 
 # 1595
+
+<!-- TODO:DUPLICATE -->
 
 İnanmayanlara: "Durumunuzun gerektirdiğini yapın, doğrusu biz de yapıyoruz; bekleyin, biz de bekliyoruz" de.
 
@@ -6438,6 +6624,8 @@ Bunun üzerine "Ey babamız! Yusuf'un iyiliğini istediğimiz halde, onu niçin 
 
 # 1608
 
+<!-- TODO:DUPLICATE -->
+
 Bunun üzerine "Ey babamız! Yusuf'un iyiliğini istediğimiz halde, onu niçin bize emniyet etmiyorsun? Yarın onu bizimle beraber gönder de gezsin oynasın, biz onu herhalde koruruz" dediler.
 
 # 1609
@@ -6457,6 +6645,8 @@ Yusuf'u oturup bir kuyunun derinliklerine bırakmayı kararlaştırdılar. Biz o
 Akşam üstü ağlayarak babalarına geldiklerinde: "Ey babamız! İnan olsun biz yarış yapıyorduk; Yusuf'u eşyamızın yanına bırakmıştık; bir kurt onu yedi. Her ne kadar doğru söylüyorsak da sen bize inanmazsın" dediler.
 
 # 1613
+
+<!-- TODO:DUPLICATE -->
 
 Akşam üstü ağlayarak babalarına geldiklerinde: "Ey babamız! İnan olsun biz yarış yapıyorduk; Yusuf'u eşyamızın yanına bırakmıştık; bir kurt onu yedi. Her ne kadar doğru söylüyorsak da sen bize inanmazsın" dediler.
 
@@ -6498,6 +6688,8 @@ Yusuf: "Beni kendine o çağırdı" dedi. Kadın tarafından bir şahit, "Eğer 
 
 # 1623
 
+<!-- TODO:DUPLICATE -->
+
 Yusuf: "Beni kendine o çağırdı" dedi. Kadın tarafından bir şahit, "Eğer gömleği önden yırtılmışsa kadın doğru söylemiş, erkek yalancılardandır; şayet gömleği arkadan yırtılmışsa kadın yalan söylemiştir, erkek doğrulardandır" diye şahidlik etti.
 
 # 1624
@@ -6505,6 +6697,8 @@ Yusuf: "Beni kendine o çağırdı" dedi. Kadın tarafından bir şahit, "Eğer 
 Kocası gömleğin arkadan yırtılmış olduğunu görünce, karısına hitaben "Doğrusu bu sizin hilenizdir, siz kadınların fendi büyüktür" dedi. Yusuf'a dönerek: "Yusuf! Sen bundan kimseye bahsetme"; kadına dönerek: "Sen de günahının bağışlanmasını dile, çünkü suçlulardansın" dedi.
 
 # 1625
+
+<!-- TODO:DUPLICATE -->
 
 Kocası gömleğin arkadan yırtılmış olduğunu görünce, karısına hitaben "Doğrusu bu sizin hilenizdir, siz kadınların fendi büyüktür" dedi. Yusuf'a dönerek: "Yusuf! Sen bundan kimseye bahsetme"; kadına dönerek: "Sen de günahının bağışlanmasını dile, çünkü suçlulardansın" dedi.
 
@@ -6722,9 +6916,13 @@ Onlara sırt çevirdi, "Vah, Yusuf'a yazık oldu!" dedi ve üzüntüden gözleri
 
 # 1679
 
+<!-- TODO:DUPLICATE -->
+
 Onlara sırt çevirdi, "Vah, Yusuf'a yazık oldu!" dedi ve üzüntüden gözlerine ak düştü. Artık acısını içinde saklıyordu.
 
 # 1680
+
+<!-- TODO:DUPLICATE -->
 
 Onlara sırt çevirdi, "Vah, Yusuf'a yazık oldu!" dedi ve üzüntüden gözlerine ak düştü. Artık acısını içinde saklıyordu.
 
@@ -6761,6 +6959,8 @@ Kardeşleri vezirin yanına vardıklarında: "Ey Vezir! Biz ve çoluk çocuğumu
 Yusuf: "Bugün azarlanacak değilsiniz, Allah sizi bağışlar. O, merhametlilerin merhametlisidir. Bu gömleğimi götürün, babamın yüzüne sürün, görmeğe başlar; bütün çoluk çocuğunuzla bana gelin" dedi.
 
 # 1689
+
+<!-- TODO:DUPLICATE -->
 
 Yusuf: "Bugün azarlanacak değilsiniz, Allah sizi bağışlar. O, merhametlilerin merhametlisidir. Bu gömleğimi götürün, babamın yüzüne sürün, görmeğe başlar; bütün çoluk çocuğunuzla bana gelin" dedi.
 
@@ -6801,6 +7001,8 @@ Ana babasını tahtın üzerine oturttu, hepsi onun önünde (Allah'a secde edip
 Sana böylece vahyettiklerimiz, gaybe ait haberlerdir. Onlar elbirliği edip düzen kurdukları zaman yanlarında değildin; sen ne kadar yürekten istersen iste, insanların çoğu inanmazlar.
 
 # 1699
+
+<!-- TODO:DUPLICATE -->
 
 Sana böylece vahyettiklerimiz, gaybe ait haberlerdir. Onlar elbirliği edip düzen kurdukları zaman yanlarında değildin; sen ne kadar yürekten istersen iste, insanların çoğu inanmazlar.
 
@@ -6874,6 +7076,8 @@ Görüleni de görülmeyeni de bilen, yücelerin yücesi büyük Allah'a göre, 
 
 # 1717
 
+<!-- TODO:DUPLICATE -->
+
 Görüleni de görülmeyeni de bilen, yücelerin yücesi büyük Allah'a göre, aranızdan sözü gizleyen ile, açığa vuran ve geceye bürünerek gizlenip gündüzün ortaya çıkan arasında fark yoktur.
 
 # 1718
@@ -6926,9 +7130,13 @@ Onlar, Rablerinin rızasını dileyerek sabrederler, namazı kılarlar; kendiler
 
 # 1730
 
+<!-- TODO:DUPLICATE -->
+
 Onlar, Rablerinin rızasını dileyerek sabrederler, namazı kılarlar; kendilerine verdiğimiz rızıktan, gizlice ve açıkça sarfederler; iyilik yaparak kötülüğü ortadan kaldırırlar; işte onlara bu dünyanın iyi sonucu, girecekleri Adn cennetleri vardır; babalarının, eşlerinin, çocuklarının iyi olanları da oraya girerler. Melekler her kapıdan yanlarına girip: "Sabretmenize karşılık size selam olsun; burası dünyanın ne güzel bir sonucudur!" derler.
 
 # 1731
+
+<!-- TODO:DUPLICATE -->
 
 Onlar, Rablerinin rızasını dileyerek sabrederler, namazı kılarlar; kendilerine verdiğimiz rızıktan, gizlice ve açıkça sarfederler; iyilik yaparak kötülüğü ortadan kaldırırlar; işte onlara bu dünyanın iyi sonucu, girecekleri Adn cennetleri vardır; babalarının, eşlerinin, çocuklarının iyi olanları da oraya girerler. Melekler her kapıdan yanlarına girip: "Sabretmenize karşılık size selam olsun; burası dünyanın ne güzel bir sonucudur!" derler.
 
@@ -7014,6 +7222,8 @@ Elif, Lam, Ra; Bu, Allah'ın izniyle, insanları karanlıklardan aydınlığa, g
 
 # 1752
 
+<!-- TODO:DUPLICATE -->
+
 Elif, Lam, Ra; Bu, Allah'ın izniyle, insanları karanlıklardan aydınlığa, güçlü ve övülmeğe layık, göklerde ve yerde olanların sahibi Allah'ın yoluna çıkarman için, sana indirdiğimiz Kitaptır. Uğrayacakları çetin azabdan dolayı vay kafirlerin haline!
 
 # 1753
@@ -7062,6 +7272,8 @@ Peygamberleri onlara şöyle dedi: "Biz ancak sizin gibi birer insanız ama, All
 
 # 1764
 
+<!-- TODO:DUPLICATE -->
+
 İnkar edenler, peygamberlerine: "Ya bizim dinimize dönersiniz ya da sizi memleketimizden çıkarırız" dediler. Rableri peygamberlere: "Biz, haksızlık edenleri yok edeceğiz, onlardan sonra yeryüzüne sizi yerleştireceğiz. Bu, makamımdan ve tehdidimden korkanlar içindir." diye vahyetti.
 
 # 1765
@@ -7106,6 +7318,8 @@ Allah'ın, hoş bir sözü; kökü sağlam, dalları göğe doğru olan, Rabbini
 
 # 1775
 
+<!-- TODO:DUPLICATE -->
+
 Allah'ın, hoş bir sözü; kökü sağlam, dalları göğe doğru olan, Rabbinin izniyle her zaman meyve veren hoş bir ağaca benzeterek nasıl misal verdiğini görmüyor musun? İnsanlar ibret alsın diye Allah onlara misal gösteriyor.
 
 # 1776
@@ -7122,6 +7336,8 @@ Allah'ın verdiği nimeti nankörlükle karşılayanları ve milletlerini helak 
 
 # 1779
 
+<!-- TODO:DUPLICATE -->
+
 Allah'ın verdiği nimeti nankörlükle karşılayanları ve milletlerini helak olacakları yere, yaslanacakları cehenneme götürenleri görmüyor musun?
 
 # 1780
@@ -7137,6 +7353,8 @@ Allah'ın yolundan sapıtmak için O'na eşler koşmuşlardı. De ki: "Yaşayın
 Gökleri ve yeri yaratan, yukardan indirdiği su ile rızık olarak ürünler yetiştiren, emri gereğince denizde yüzmek üzere gemileri, nehirleri, belli yörüngelerinde yürüyen ay ve güneşi, geceyle gündüzü sizin buyruğunuza veren Allah'tır.
 
 # 1783
+
+<!-- TODO:DUPLICATE -->
 
 Gökleri ve yeri yaratan, yukardan indirdiği su ile rızık olarak ürünler yetiştiren, emri gereğince denizde yüzmek üzere gemileri, nehirleri, belli yörüngelerinde yürüyen ay ve güneşi, geceyle gündüzü sizin buyruğunuza veren Allah'tır.
 
@@ -7186,6 +7404,8 @@ O gün başları kalkmış, gözleri kendilerine dönemeyecek şekilde sabit kal
 
 # 1795
 
+<!-- TODO:DUPLICATE -->
+
 İnsanları, kendilerine azabın geleceği gün ile uyar. Haksızlık edenler: "Rabbimiz! Bizi yakın bir süreye kadar ertele de çağrına gelelim, peygamberlere uyalım" derler. Siz daha önce, sonunuzun gelmeyeceğine yemin etmemiş miydiniz! Üstelik kendilerine yazık edenlerin yerlerinde oturdunuz. Onlara, yaptıklarımız da sizlere açıklanmıştı. Size misaller de vermiştik.
 
 # 1796
@@ -7197,6 +7417,8 @@ O gün başları kalkmış, gözleri kendilerine dönemeyecek şekilde sabit kal
 Yerin başka bir yerle, göklerin de başka göklerle değiştirildiği, her şeye üstün gelen tek Allah'ın huzuruna çıktıkları günde, sakın Allah'ın peygamberlerine verdiği sözden cayacağını sanma; doğrusu Allah güçlüdür, öç alandır.
 
 # 1798
+
+<!-- TODO:DUPLICATE -->
 
 Yerin başka bir yerle, göklerin de başka göklerle değiştirildiği, her şeye üstün gelen tek Allah'ın huzuruna çıktıkları günde, sakın Allah'ın peygamberlerine verdiği sözden cayacağını sanma; doğrusu Allah güçlüdür, öç alandır.
 
@@ -7242,6 +7464,8 @@ Onlar: "Ey kendisine Kitap indirilen kimse! Sen mutlaka delisin. Doğrulardan is
 
 # 1809
 
+<!-- TODO:DUPLICATE -->
+
 Onlar: "Ey kendisine Kitap indirilen kimse! Sen mutlaka delisin. Doğrulardan isen melekleri bize getirsene" dediler.
 
 # 1810
@@ -7266,6 +7490,8 @@ Aynı şekilde biz de Kitap'ı suçluların kalblerine sokarız, ama ona yine de
 
 # 1815
 
+<!-- TODO:DUPLICATE -->
+
 Aynı şekilde biz de Kitap'ı suçluların kalblerine sokarız, ama ona yine de inanmazlar. Oysa kendilerinden öncekilerin uğradıkları meydandadır.
 
 # 1816
@@ -7273,6 +7499,8 @@ Aynı şekilde biz de Kitap'ı suçluların kalblerine sokarız, ama ona yine de
 Onlara gökten bir kapı açsak da, oradan çıkmağa koyulsalar: "Gözlerimiz döndü, biz herhalde büyülendik" derler.
 
 # 1817
+
+<!-- TODO:DUPLICATE -->
 
 Onlara gökten bir kapı açsak da, oradan çıkmağa koyulsalar: "Gözlerimiz döndü, biz herhalde büyülendik" derler.
 
@@ -7330,6 +7558,8 @@ Cinleri de, daha önce, dumansız ateşten yarattık.
 
 # 1831
 
+<!-- TODO:DUPLICATE -->
+
 'Rabbin meleklere: "Ben, balçıktan, işlenebilen kara topraktan bir insan yaratacağım. Onu yapıp ruhumdan üflediğimde ona secdeye kapanın" demişti.
 
 # 1832
@@ -7337,6 +7567,8 @@ Cinleri de, daha önce, dumansız ateşten yarattık.
 Bunun üzerine, İblis'in dışında bütün melekler hemen secde ettiler. O, secde edenlerle beraber olmaktan çekindi.
 
 # 1833
+
+<!-- TODO:DUPLICATE -->
 
 Bunun üzerine, İblis'in dışında bütün melekler hemen secde ettiler. O, secde edenlerle beraber olmaktan çekindi.
 
@@ -7354,6 +7586,8 @@ O: "Balçıktan, işlenebilen kara topraktan yarattığın insana secde edemem" 
 
 # 1837
 
+<!-- TODO:DUPLICATE -->
+
 "Öyleyse defol oradan, sen artık kovulmuş birisin. Doğrusu hesap gününe kadar lanet sanadır" dedi.
 
 # 1838
@@ -7366,6 +7600,8 @@ Allah: "Sen, bilinen gün gelene kadar bırakılanlardansın" dedi.
 
 # 1840
 
+<!-- TODO:DUPLICATE -->
+
 Allah: "Sen, bilinen gün gelene kadar bırakılanlardansın" dedi.
 
 # 1841
@@ -7374,6 +7610,8 @@ Allah: "Sen, bilinen gün gelene kadar bırakılanlardansın" dedi.
 
 # 1842
 
+<!-- TODO:DUPLICATE -->
+
 "Rabbim! Beni saptırdığın için, and olsun ki yeryüzünde fenalıkları onlara güzel göstereceğim; halis kıldığın kulların bir yana, onların hepsini saptıracağım" dedi.
 
 # 1843
@@ -7381,6 +7619,8 @@ Allah: "Sen, bilinen gün gelene kadar bırakılanlardansın" dedi.
 'Allah şöyle dedi: "Benim gerekli kıldığım dosdoğru yol budur; kullarımın üzerinde senin bir nüfuzun olamaz. Ancak sana uyan sapıklar bunun dışındadır."
 
 # 1844
+
+<!-- TODO:DUPLICATE -->
 
 'Allah şöyle dedi: "Benim gerekli kıldığım dosdoğru yol budur; kullarımın üzerinde senin bir nüfuzun olamaz. Ancak sana uyan sapıklar bunun dışındadır."
 
@@ -7414,6 +7654,8 @@ Kullarıma Benim bağışlayan, merhamet eden olduğumu, azabımın can yakıcı
 
 # 1852
 
+<!-- TODO:DUPLICATE -->
+
 Kullarıma Benim bağışlayan, merhamet eden olduğumu, azabımın can yakıcı bir azap olduğunu haber ver.
 
 # 1853
@@ -7425,6 +7667,8 @@ Onlara İbrahim'in konuklarını da anlat:
 İbrahim'in yanına girdiklerinde selam vermişlerdi. O: "Doğrusu biz sizden korkuyoruz" demişti de: "Korkma, biz sana, bilgin bir oğlun olacağını müjdelemeye geldik" demişlerdi.
 
 # 1855
+
+<!-- TODO:DUPLICATE -->
 
 İbrahim'in yanına girdiklerinde selam vermişlerdi. O: "Doğrusu biz sizden korkuyoruz" demişti de: "Korkma, biz sana, bilgin bir oğlun olacağını müjdelemeye geldik" demişlerdi.
 
@@ -7442,6 +7686,8 @@ Onlara İbrahim'in konuklarını da anlat:
 
 # 1859
 
+<!-- TODO:DUPLICATE -->
+
 "Zaten sapıklardan başka kim Rabbinin rahmetinden umudunu keser!" diyerek sormuştu: "Ey elçiler! İşiniz nedir?"
 
 # 1860
@@ -7450,9 +7696,13 @@ Onlara İbrahim'in konuklarını da anlat:
 
 # 1861
 
+<!-- TODO:DUPLICATE -->
+
 Şöyle cevap vermişlerdi: "Biz şüphesiz suçlu bir millete gönderildik. Lut'un ailesi bunun dışındadır. Karısı hariç hepsini kurtaracağız. Karısının geride kalanlardan olmasını gerekli bulduk."
 
 # 1862
+
+<!-- TODO:DUPLICATE -->
 
 Şöyle cevap vermişlerdi: "Biz şüphesiz suçlu bir millete gönderildik. Lut'un ailesi bunun dışındadır. Karısı hariç hepsini kurtaracağız. Karısının geride kalanlardan olmasını gerekli bulduk."
 
@@ -7462,6 +7712,8 @@ Elçiler Lut'un ailesine gelince, Lut: "Doğrusu siz tanınmayan kimselersiniz" 
 
 # 1864
 
+<!-- TODO:DUPLICATE -->
+
 Elçiler Lut'un ailesine gelince, Lut: "Doğrusu siz tanınmayan kimselersiniz" dedi.
 
 # 1865
@@ -7470,9 +7722,13 @@ Elçiler Lut'un ailesine gelince, Lut: "Doğrusu siz tanınmayan kimselersiniz" 
 
 # 1866
 
+<!-- TODO:DUPLICATE -->
+
 "Biz sana sadece şüphe edip durdukları azabı getirdik. Sana gerçekle geldik. Şüphesiz biz doğru söyleyenleriz. Artık, geceleyin bir ara, aileni yola çıkar, sen de arkalarından git; hiçbiriniz arkaya bakmasın; emrolunduğunuz yere doğru yürüyün" dediler.
 
 # 1867
+
+<!-- TODO:DUPLICATE -->
 
 "Biz sana sadece şüphe edip durdukları azabı getirdik. Sana gerçekle geldik. Şüphesiz biz doğru söyleyenleriz. Artık, geceleyin bir ara, aileni yola çıkar, sen de arkalarından git; hiçbiriniz arkaya bakmasın; emrolunduğunuz yere doğru yürüyün" dediler.
 
@@ -7489,6 +7745,8 @@ Böylece Lut'a bunların sonlarının kesilmiş olarak sabahlıyacaklarını bil
 Lut: "Bunlar benim konuklarımdır, onlara karşı beni rüsvay etmeyin, Allah'tan korkun, beni utandırmayın" dedi.
 
 # 1871
+
+<!-- TODO:DUPLICATE -->
 
 Lut: "Bunlar benim konuklarımdır, onlara karşı beni rüsvay etmeyin, Allah'tan korkun, beni utandırmayın" dedi.
 
@@ -7578,13 +7836,19 @@ Kuran'ı işlerine geldiği gibi bölenlere de, kendi Kitablarının bir kısmı
 
 # 1893
 
+<!-- TODO:DUPLICATE -->
+
 Kuran'ı işlerine geldiği gibi bölenlere de, kendi Kitablarının bir kısmına inanıp bir kısmını kabul etmeyen yahudi ve hıristiyanlara da nitekim Kitap indirmiştik; Rabbine and olsun ki hepsini, yaptıklarından sorumlu tutacağız.
 
 # 1894
 
+<!-- TODO:DUPLICATE -->
+
 Kuran'ı işlerine geldiği gibi bölenlere de, kendi Kitablarının bir kısmına inanıp bir kısmını kabul etmeyen yahudi ve hıristiyanlara da nitekim Kitap indirmiştik; Rabbine and olsun ki hepsini, yaptıklarından sorumlu tutacağız.
 
 # 1895
+
+<!-- TODO:DUPLICATE -->
 
 Kuran'ı işlerine geldiği gibi bölenlere de, kendi Kitablarının bir kısmına inanıp bir kısmını kabul etmeyen yahudi ve hıristiyanlara da nitekim Kitap indirmiştik; Rabbine and olsun ki hepsini, yaptıklarından sorumlu tutacağız.
 
@@ -7598,6 +7862,8 @@ Allah'la beraber başka bir tanrının bulunduğunu kabul eden alaycılara karş
 
 # 1898
 
+<!-- TODO:DUPLICATE -->
+
 Allah'la beraber başka bir tanrının bulunduğunu kabul eden alaycılara karşı şüphesiz Biz sana kafiyiz. Yakında ne olduğunu öğreneceklerdir.
 
 # 1899
@@ -7609,6 +7875,8 @@ And olsun ki, söyledikleri şeylerden senin gönlünün daraldığını biliyor
 Rabbini hamd ile an, secde edenlerden ol ve ölünceye kadar Rabbine kulluk et.
 
 # 1901
+
+<!-- TODO:DUPLICATE -->
 
 Rabbini hamd ile an, secde edenlerden ol ve ölünceye kadar Rabbine kulluk et.
 
@@ -7673,6 +7941,8 @@ Taze et yemeniz, takındığınız süsleri edinmeniz ve Allah'ın bol nimetinde
 Yeryüzünde, sarsılmayasınız diye, sabit dağlar, nehirler ve belki yolunuzu bulursunuz diye yollar ve işaretler meydana getirmiştir. Onlar yıldızla da yollarını bulurlar.
 
 # 1917
+
+<!-- TODO:DUPLICATE -->
 
 Yeryüzünde, sarsılmayasınız diye, sabit dağlar, nehirler ve belki yolunuzu bulursunuz diye yollar ve işaretler meydana getirmiştir. Onlar yıldızla da yollarını bulurlar.
 
@@ -7766,6 +8036,8 @@ Onların doğru yolda olmalarına ne kadar özensen, yine de Allah, saptırdığ
 
 # 1940
 
+<!-- TODO:DUPLICATE -->
+
 Ölen kimseyi Allah'ın diriltmeyeceği üzerine bütün güçleriyle Allah'a yemin ederler. Hayır; öyle değil, ayrılığa düştükleri şeyi onlara açıklamayı, inkar edenlerin kendilerinin yalancı olduklarını bileceklerini, Allah gerçekten vadetmiştir, fakat insanların çoğu bilmezler.
 
 # 1941
@@ -7786,6 +8058,8 @@ Doğrusu senden önce de kendilerine kitablar ve belgelerle vahyettiğimiz bir t
 
 # 1945
 
+<!-- TODO:DUPLICATE -->
+
 Doğrusu senden önce de kendilerine kitablar ve belgelerle vahyettiğimiz bir takım adamlar gönderdik. Bilmiyorsanız kitablılara sorun. Sana da, insanlara gönderileni açıklayasın diye Kuran'ı indirdik. Belki düşünürler.
 
 # 1946
@@ -7797,6 +8071,8 @@ Kötü işler düzenleyenler Allah'ın kendilerini yere batırmasından yahut fa
 Veya hareket halindelerken -ki Allah'ı aciz bırakamazlar- ya da yok olmak endişesindeyken onlara azabın gelmesinden güvende midirler? Doğrusu Rabbin şefkatlidir, merhametlidir.
 
 # 1948
+
+<!-- TODO:DUPLICATE -->
 
 Veya hareket halindelerken -ki Allah'ı aciz bırakamazlar- ya da yok olmak endişesindeyken onlara azabın gelmesinden güvende midirler? Doğrusu Rabbin şefkatlidir, merhametlidir.
 
@@ -7829,6 +8105,8 @@ Size gelen her nimet Allah'tandır. Sonra, bir sıkıntıya uğradığınızda y
 Sıkıntılarınızı giderince de, içinizden bazıları kendilerine verdiğimize nankörlük ederek Rablerine eş koşarlar. Geçinin bakalım, yakında öğreneceksiniz.
 
 # 1956
+
+<!-- TODO:DUPLICATE -->
 
 Sıkıntılarınızı giderince de, içinizden bazıları kendilerine verdiğimize nankörlük ederek Rablerine eş koşarlar. Geçinin bakalım, yakında öğreneceksiniz.
 
@@ -7885,6 +8163,8 @@ Hurma ağaçlarının meyvelerinden ve üzümlerden şerbet, şıra (içecek) ve
 Rabbin bal arısına: "Dağlarda, ağaçlarda ve hazırlanmış kovanlarda yuva edin; sonra her çeşit üründen ye; sonra da Rabbinin işlemen için gösterdiği yollardan yürü" diye öğretti. Karınlarından insanlara şifa olan çeşitli renklerde bal çıkar. Düşünen bir millet için bunda ibret vardır.
 
 # 1970
+
+<!-- TODO:DUPLICATE -->
 
 Rabbin bal arısına: "Dağlarda, ağaçlarda ve hazırlanmış kovanlarda yuva edin; sonra her çeşit üründen ye; sonra da Rabbinin işlemen için gösterdiği yollardan yürü" diye öğretti. Karınlarından insanlara şifa olan çeşitli renklerde bal çıkar. Düşünen bir millet için bunda ibret vardır.
 
@@ -8134,6 +8414,8 @@ Musa'ya kitap verdik. Ey Nuh'la beraber taşıyarak kurtardığımız kimselerin
 
 # 2032
 
+<!-- TODO:DUPLICATE -->
+
 Musa'ya kitap verdik. Ey Nuh'la beraber taşıyarak kurtardığımız kimselerin soyundan olanlar! Beni bırakıp başkasını vekil edinmeyesiniz diye onu İsrailoğullarına doğruluk rehberi kıldık. Doğrusu Nuh, çok şükreden bir kuldu.
 
 # 2033
@@ -8161,6 +8443,8 @@ Umulur ki Rabbiniz size acır; ama siz dönerseniz Biz de döneriz. Cehennemi, i
 Doğrusu bu Kuran en doğru yola götürür ve yararlı iş yapan müminlere büyük ecir olduğunu, ahirete inanmayanlara can yakıcı bir azap hazırladığımızı müjdeler.
 
 # 2039
+
+<!-- TODO:DUPLICATE -->
 
 Doğrusu bu Kuran en doğru yola götürür ve yararlı iş yapan müminlere büyük ecir olduğunu, ahirete inanmayanlara can yakıcı bir azap hazırladığımızı müjdeler.
 
@@ -8325,6 +8609,8 @@ Sana nasıl misaller verdiklerine bir bak! Bu yüzden sapmışlardır, artık bi
 De ki: "İster taş veya demir ya da kalbinizde büyüttüğünüz başka bir yaratık olun, yine de dirileceksiniz." "Bizi tekrar kim diriltir?" derler; de ki: "Sizi ilk defa yaratan." Sana başlarını sallayarak: "Ne zamandır bu?" derler. "Yakında olması mümkündür" de.
 
 # 2080
+
+<!-- TODO:DUPLICATE -->
 
 De ki: "İster taş veya demir ya da kalbinizde büyüttüğünüz başka bir yaratık olun, yine de dirileceksiniz." "Bizi tekrar kim diriltir?" derler; de ki: "Sizi ilk defa yaratan." Sana başlarını sallayarak: "Ne zamandır bu?" derler. "Yakında olması mümkündür" de.
 
@@ -8554,6 +8840,8 @@ De ki: "Kuran'a ister inanın, isten inanmayın, O'ndan önceki bilginlere o oku
 
 # 2137
 
+<!-- TODO:DUPLICATE -->
+
 De ki: "Kuran'a ister inanın, isten inanmayın, O'ndan önceki bilginlere o okunduğu zaman, yüzleri üzerine secdeye varırlar" ve "Rabbimiz münezzehtir. Rabbimiz'in sözü şüphesiz yerine gelecektir" derler.
 
 # 2138
@@ -8574,13 +8862,19 @@ Hamd Allah'a mahsustur ki, kendi katından şiddetli bir baskını haber vermek 
 
 # 2142
 
+<!-- TODO:DUPLICATE -->
+
 Hamd Allah'a mahsustur ki, kendi katından şiddetli bir baskını haber vermek ve yararlı iş yapan müminlere, içinde temelli kalacakları güzel bir mükafatı müjdelemek ve: "Allah çocuk edindi" diyenleri uyarmak için kuluna eğri bir taraf bırakmadığı dosdoğru Kitap'ı indirmiştir.
 
 # 2143
 
+<!-- TODO:DUPLICATE -->
+
 Hamd Allah'a mahsustur ki, kendi katından şiddetli bir baskını haber vermek ve yararlı iş yapan müminlere, içinde temelli kalacakları güzel bir mükafatı müjdelemek ve: "Allah çocuk edindi" diyenleri uyarmak için kuluna eğri bir taraf bırakmadığı dosdoğru Kitap'ı indirmiştir.
 
 # 2144
+
+<!-- TODO:DUPLICATE -->
 
 Hamd Allah'a mahsustur ki, kendi katından şiddetli bir baskını haber vermek ve yararlı iş yapan müminlere, içinde temelli kalacakları güzel bir mükafatı müjdelemek ve: "Allah çocuk edindi" diyenleri uyarmak için kuluna eğri bir taraf bırakmadığı dosdoğru Kitap'ı indirmiştir.
 
@@ -8614,6 +8908,8 @@ Mağaranın içinde onları yıllarca uyuttuk; sonra, iki taraftan hangisinin be
 
 # 2152
 
+<!-- TODO:DUPLICATE -->
+
 Mağaranın içinde onları yıllarca uyuttuk; sonra, iki taraftan hangisinin bekledikleri sonucu iyi hesaplamış olduğunu belirtmek için onları uyandırdık.
 
 # 2153
@@ -8622,9 +8918,13 @@ Onların olayını sana Biz gerçek olarak anlatıyoruz: Onlar Rablerine inanmı
 
 # 2154
 
+<!-- TODO:DUPLICATE -->
+
 Onların olayını sana Biz gerçek olarak anlatıyoruz: Onlar Rablerine inanmış birkaç gençti. Onların hidayetlerini artırmış ve kalblerini pekiştirmiştik. Durup, şöyle demişlerdi: "Rabbimiz göklerin ve yerin Rabbidir, O'nu bırakıp başka bir tanrıya yalvarmayız, yoksa and olsun ki, batıl söz söylemiş oluruz. Şu bizim milletimiz, Allah'ı bırakıp O'ndan başka tanrılar edindiler. Onların gerçek olduğuna apaçık delil getirmeleri gerekmez mi? Allah'a karşı yalan uydurandan daha zalim kimdir?"
 
 # 2155
+
+<!-- TODO:DUPLICATE -->
 
 Onların olayını sana Biz gerçek olarak anlatıyoruz: Onlar Rablerine inanmış birkaç gençti. Onların hidayetlerini artırmış ve kalblerini pekiştirmiştik. Durup, şöyle demişlerdi: "Rabbimiz göklerin ve yerin Rabbidir, O'nu bırakıp başka bir tanrıya yalvarmayız, yoksa and olsun ki, batıl söz söylemiş oluruz. Şu bizim milletimiz, Allah'ı bırakıp O'ndan başka tanrılar edindiler. Onların gerçek olduğuna apaçık delil getirmeleri gerekmez mi? Allah'a karşı yalan uydurandan daha zalim kimdir?"
 
@@ -8662,6 +8962,8 @@ Herhangi bir şey için, Allah'ın dilemesi dışında: "Ben yarın onu yapacağ
 
 # 2164
 
+<!-- TODO:DUPLICATE -->
+
 Herhangi bir şey için, Allah'ın dilemesi dışında: "Ben yarın onu yapacağım" deme. Unuttuğun zaman Rabbini an ve şöyle de: "Umulur ki, Rabbim beni doğruya daha yakın olana eriştirir."
 
 # 2165
@@ -8690,6 +8992,8 @@ De ki: "Gerçek Rabbinizdendir." Dileyen inansın, dileyen inkar etsin. Şüphes
 
 # 2171
 
+<!-- TODO:DUPLICATE -->
+
 İyi hareket edenin ecrini zayi etmeyiz. Doğrusu, inanıp yararlı iş yapanlara, işte onlara, içlerinden ırmaklar akan Adn cennetleri vardır. Orada altın bilezikler takınırlar, ince ve kalın ipekliden yeşil elbiseler giyerek tahtları üzerinde otururlar. Ne güzel bir mükafat ve ne güzel yaslanacak yer!
 
 # 2172
@@ -8710,6 +9014,8 @@ Kendisine böylece yazık ederek bahçesine girerken: "Bu bahçenin batacağın�
 
 # 2176
 
+<!-- TODO:DUPLICATE -->
+
 Kendisine böylece yazık ederek bahçesine girerken: "Bu bahçenin batacağını hiç zannetmem. Kıyametin kopacağını da sanmıyorum. Eğer Rabbime döndürülürsem, and olsun ki orada bundan daha iyisini bulurum" dedi.
 
 # 2177
@@ -8718,17 +9024,25 @@ Kendisiyle konuştuğu arkadaşı ona: "Seni topraktan, sonra nutfeden yaratanı
 
 # 2178
 
+<!-- TODO:DUPLICATE -->
+
 Kendisiyle konuştuğu arkadaşı ona: "Seni topraktan, sonra nutfeden yaratanı, sonunda de seni insan kılığına koyanı mı inkar ediyorsun? İşte O benim Rabbim olan Allah'tır. Rabbime kimseyi ortak koşmam. Bahçene girdiğin zaman, her ne kadar beni kendinden mal ve nüfus bakımından daha az buluyorsan da: "Maşallah! Kuvvet ancak Allah'a mahsustur!" demen gerekmez mi? Rabbim, senin bahçenden daha iyisini bana verebilir ve seninkinin üzerine gökten bir felaket gönderir de bahçen yerle bir olabilir. Yahut suyu çekilir bir daha da bulamazsın" dedi.
 
 # 2179
+
+<!-- TODO:DUPLICATE -->
 
 Kendisiyle konuştuğu arkadaşı ona: "Seni topraktan, sonra nutfeden yaratanı, sonunda de seni insan kılığına koyanı mı inkar ediyorsun? İşte O benim Rabbim olan Allah'tır. Rabbime kimseyi ortak koşmam. Bahçene girdiğin zaman, her ne kadar beni kendinden mal ve nüfus bakımından daha az buluyorsan da: "Maşallah! Kuvvet ancak Allah'a mahsustur!" demen gerekmez mi? Rabbim, senin bahçenden daha iyisini bana verebilir ve seninkinin üzerine gökten bir felaket gönderir de bahçen yerle bir olabilir. Yahut suyu çekilir bir daha da bulamazsın" dedi.
 
 # 2180
 
+<!-- TODO:DUPLICATE -->
+
 Kendisiyle konuştuğu arkadaşı ona: "Seni topraktan, sonra nutfeden yaratanı, sonunda de seni insan kılığına koyanı mı inkar ediyorsun? İşte O benim Rabbim olan Allah'tır. Rabbime kimseyi ortak koşmam. Bahçene girdiğin zaman, her ne kadar beni kendinden mal ve nüfus bakımından daha az buluyorsan da: "Maşallah! Kuvvet ancak Allah'a mahsustur!" demen gerekmez mi? Rabbim, senin bahçenden daha iyisini bana verebilir ve seninkinin üzerine gökten bir felaket gönderir de bahçen yerle bir olabilir. Yahut suyu çekilir bir daha da bulamazsın" dedi.
 
 # 2181
+
+<!-- TODO:DUPLICATE -->
 
 Kendisiyle konuştuğu arkadaşı ona: "Seni topraktan, sonra nutfeden yaratanı, sonunda de seni insan kılığına koyanı mı inkar ediyorsun? İşte O benim Rabbim olan Allah'tır. Rabbime kimseyi ortak koşmam. Bahçene girdiğin zaman, her ne kadar beni kendinden mal ve nüfus bakımından daha az buluyorsan da: "Maşallah! Kuvvet ancak Allah'a mahsustur!" demen gerekmez mi? Rabbim, senin bahçenden daha iyisini bana verebilir ve seninkinin üzerine gökten bir felaket gönderir de bahçen yerle bir olabilir. Yahut suyu çekilir bir daha da bulamazsın" dedi.
 
@@ -8846,6 +9160,8 @@ O da: "O halde, bana uyacaksan, ben sana anlatmadıkça herhangi bir şey hakkı
 
 # 2210
 
+<!-- TODO:DUPLICATE -->
+
 O da: "O halde, bana uyacaksan, ben sana anlatmadıkça herhangi bir şey hakkında bana soru sormayacaksın" dedi.
 
 # 2211
@@ -8918,6 +9234,8 @@ Sonunda güneşin battığı yere ulaşınca onu, kara balçıklı bir suda bat�
 
 # 2228
 
+<!-- TODO:DUPLICATE -->
+
 "Haksızlık yapana azap edeceğiz, sonra Rabbine döndürülür, onu görülmemiş bir azaba uğratır; ama inanıp yararlı iş işleyene, mükafat olarak güzel şeyler vardır, ona buyruğumuzdan kolay olanı söyleriz" dedi.
 
 # 2229
@@ -8950,6 +9268,8 @@ Dediler ki: Zülkarneyn! Doğrusu Yecüc ve Mecüc bu ülkede bozgunculuk yapıy
 
 # 2236
 
+<!-- TODO:DUPLICATE -->
+
 "Rabbimin bana verdikleri sizinkinden daha iyidir. Bana gücünüzle yardım edin de sizinle onların arasına sağlam bir sed yapayım. Bana demir kütleleri getirin" dedi. Bunlar iki dağın arasını doldurunca: "Körükleyin" dedi. Demirler akkor haline gelince; "Bana erimiş bakır getirin de üzerine dökeyim" dedi.
 
 # 2237
@@ -8969,6 +9289,8 @@ Biz o gün onları bırakırız, dalgalar halinde birbirlerine girerler. Sura ü
 Gözleri bizim öğüdümüze karşı kapalı olan ve öfkelerinden onu dinlemeye tahammül edemeyen kafirlere o gün cehennemi öyle bir gösteririz ki!
 
 # 2241
+
+<!-- TODO:DUPLICATE -->
 
 Gözleri bizim öğüdümüze karşı kapalı olan ve öfkelerinden onu dinlemeye tahammül edemeyen kafirlere o gün cehennemi öyle bir gösteririz ki!
 
@@ -9030,6 +9352,8 @@ Doğrusu, benden sonra yerime geçecek yakınlarımın iyi hareket etmeyecekleri
 
 # 2256
 
+<!-- TODO:DUPLICATE -->
+
 Doğrusu, benden sonra yerime geçecek yakınlarımın iyi hareket etmeyeceklerinden korkuyorum. Karım da kısırdır. Katından bana bir oğul bağışla ki, bana ve Yakub oğullarına mirasçı olsun. Rabbim! Onun, rızanı kazanmasını da sağla."
 
 # 2257
@@ -9058,9 +9382,13 @@ Zekeriya bunun üzerine mabedden çıkıp milletine: "Sabah akşam Allah'ı tesb
 
 # 2263
 
+<!-- TODO:DUPLICATE -->
+
 "Ey Yahya! Kitaba kuvvetle sarıl" deyip daha çocukken ona hikmet, katımızdan kalp yumuşaklığı ve safiyet verdik. O, Allah'tan sakınan ve anasına babasına karşı iyi davranan bir kimse idi, baş kaldıran bir zorba değildi.
 
 # 2264
+
+<!-- TODO:DUPLICATE -->
 
 "Ey Yahya! Kitaba kuvvetle sarıl" deyip daha çocukken ona hikmet, katımızdan kalp yumuşaklığı ve safiyet verdik. O, Allah'tan sakınan ve anasına babasına karşı iyi davranan bir kimse idi, baş kaldıran bir zorba değildi.
 
@@ -9106,6 +9434,8 @@ Onun altından bir ses kendisine şöyle seslendi: "Sakın üzülme, Rabbin içi
 
 # 2275
 
+<!-- TODO:DUPLICATE -->
+
 Onun altından bir ses kendisine şöyle seslendi: "Sakın üzülme, Rabbin içinde bulunanı şerefli kılmıştır. Hurma ağacını kendine doğru silkele, üstüne taze hurma dökülsün.
 
 # 2276
@@ -9117,6 +9447,8 @@ Ye iç, gözün aydın olsun. İnsanlardan birini görecek olursan 'Ben Rahman i
 Çocuğu alıp kavmine getirdi, onlar: "Meryem! Utanılacak bir şey yaptın. Ey Harun'un kızkardeşi! Baban kötü bir kimse değildi, annen de iffetsiz değildi" dediler.
 
 # 2278
+
+<!-- TODO:DUPLICATE -->
 
 Çocuğu alıp kavmine getirdi, onlar: "Meryem! Utanılacak bir şey yaptın. Ey Harun'un kızkardeşi! Baban kötü bir kimse değildi, annen de iffetsiz değildi" dediler.
 
@@ -9130,13 +9462,19 @@ Meryem çocuğu gösterdi. "Biz beşikteki çocukla nasıl konuşabiliriz?" dedi
 
 # 2281
 
+<!-- TODO:DUPLICATE -->
+
 Çocuk: "Ben şüphesiz Allah'ın kuluyum. Bana kitap verdi ve beni peygamber yaptı, nerede olursam olayım beni mübarek kıldı. Yaşadığım müddetçe namaz kılmamı, zekat vermemi ve anneme iyi davranmamı emretti. Beni bedbaht bir zorba kılmadı. Doğduğum günde, öleceğim günde, dirileceğim günde bana selam olsun" dedi.
 
 # 2282
 
+<!-- TODO:DUPLICATE -->
+
 Çocuk: "Ben şüphesiz Allah'ın kuluyum. Bana kitap verdi ve beni peygamber yaptı, nerede olursam olayım beni mübarek kıldı. Yaşadığım müddetçe namaz kılmamı, zekat vermemi ve anneme iyi davranmamı emretti. Beni bedbaht bir zorba kılmadı. Doğduğum günde, öleceğim günde, dirileceğim günde bana selam olsun" dedi.
 
 # 2283
+
+<!-- TODO:DUPLICATE -->
 
 Çocuk: "Ben şüphesiz Allah'ın kuluyum. Bana kitap verdi ve beni peygamber yaptı, nerede olursam olayım beni mübarek kıldı. Yaşadığım müddetçe namaz kılmamı, zekat vermemi ve anneme iyi davranmamı emretti. Beni bedbaht bir zorba kılmadı. Doğduğum günde, öleceğim günde, dirileceğim günde bana selam olsun" dedi.
 
@@ -9250,6 +9588,8 @@ Ancak tevbe eden, inanıp yararlı iş yapanlar bunun dışındadır. Bunlar hi�
 
 # 2311
 
+<!-- TODO:DUPLICATE -->
+
 Ancak tevbe eden, inanıp yararlı iş yapanlar bunun dışındadır. Bunlar hiçbir haksızlığa uğratılmadan, Rahman'ın kullarına gaybde vadettiği cennete, Adn cennetlerine gireceklerdir. Şüphesiz, O'nun sözü yerini bulacaktır.
 
 # 2312
@@ -9350,6 +9690,8 @@ sakınanları o gün Rahman'ın huzurunda O'na gelmiş konuklar olarak toplarız
 
 # 2336
 
+<!-- TODO:DUPLICATE -->
+
 sakınanları o gün Rahman'ın huzurunda O'na gelmiş konuklar olarak toplarız, suçluları suya götürür gibi cehenneme süreriz.
 
 # 2337
@@ -9370,6 +9712,8 @@ Rahman'a çocuk isnat etmelerinden ötürü neredeyse gökler parçalanacak, yer
 
 # 2341
 
+<!-- TODO:DUPLICATE -->
+
 Rahman'a çocuk isnat etmelerinden ötürü neredeyse gökler parçalanacak, yer yarılacak, dağlar göçecekti.
 
 # 2342
@@ -9377,6 +9721,8 @@ Rahman'a çocuk isnat etmelerinden ötürü neredeyse gökler parçalanacak, yer
 Oysa Rahman'a çocuk edinmek yaraşmaz, çünkü göklerde ve yerde olan her şey Rahman'a baş eğmiş kul olarak gelecektir.
 
 # 2343
+
+<!-- TODO:DUPLICATE -->
 
 Oysa Rahman'a çocuk edinmek yaraşmaz, çünkü göklerde ve yerde olan her şey Rahman'a baş eğmiş kul olarak gelecektir.
 
@@ -9410,9 +9756,13 @@ Kuran'ı sana, sıkıntıya düşeşin diye değil, ancak Allah'tan korkanlara b
 
 # 2351
 
+<!-- TODO:DUPLICATE -->
+
 Kuran'ı sana, sıkıntıya düşeşin diye değil, ancak Allah'tan korkanlara bir öğüt ve yeri ve yüce gökleri yaratanın katından bir Kitap olarak indirdik.
 
 # 2352
+
+<!-- TODO:DUPLICATE -->
 
 Kuran'ı sana, sıkıntıya düşeşin diye değil, ancak Allah'tan korkanlara bir öğüt ve yeri ve yüce gökleri yaratanın katından bir Kitap olarak indirdik.
 
@@ -9486,9 +9836,13 @@ Allah: "Onu al, korkma; biz onu yine eski durumuna çevireceğiz. Daha büyük m
 
 # 2370
 
+<!-- TODO:DUPLICATE -->
+
 Allah: "Onu al, korkma; biz onu yine eski durumuna çevireceğiz. Daha büyük mucizelerimizi sana göstermemiz için elini koltuğunun altına koy da, diğer bir mucize olarak, kusursuz, bembeyaz çıksın" dedi.
 
 # 2371
+
+<!-- TODO:DUPLICATE -->
 
 Allah: "Onu al, korkma; biz onu yine eski durumuna çevireceğiz. Daha büyük mucizelerimizi sana göstermemiz için elini koltuğunun altına koy da, diğer bir mucize olarak, kusursuz, bembeyaz çıksın" dedi.
 
@@ -9502,41 +9856,61 @@ Musa: "Rabbim! Göğsümü genişlet, işimi kolaylaştır, dilimin düğümün�
 
 # 2374
 
+<!-- TODO:DUPLICATE -->
+
 Musa: "Rabbim! Göğsümü genişlet, işimi kolaylaştır, dilimin düğümünü çöz ki sözümü iyi anlasınlar. Ailemden kardeşim Harun'u bana vezir yap, beni onunla destekle, onu görevimde ortak kıl ki Seni daha çok tesbih edelim ve çokça analım. Şüphesiz Sen bizi görmektesin" dedi.
 
 # 2375
+
+<!-- TODO:DUPLICATE -->
 
 Musa: "Rabbim! Göğsümü genişlet, işimi kolaylaştır, dilimin düğümünü çöz ki sözümü iyi anlasınlar. Ailemden kardeşim Harun'u bana vezir yap, beni onunla destekle, onu görevimde ortak kıl ki Seni daha çok tesbih edelim ve çokça analım. Şüphesiz Sen bizi görmektesin" dedi.
 
 # 2376
 
+<!-- TODO:DUPLICATE -->
+
 Musa: "Rabbim! Göğsümü genişlet, işimi kolaylaştır, dilimin düğümünü çöz ki sözümü iyi anlasınlar. Ailemden kardeşim Harun'u bana vezir yap, beni onunla destekle, onu görevimde ortak kıl ki Seni daha çok tesbih edelim ve çokça analım. Şüphesiz Sen bizi görmektesin" dedi.
 
 # 2377
+
+<!-- TODO:DUPLICATE -->
 
 Musa: "Rabbim! Göğsümü genişlet, işimi kolaylaştır, dilimin düğümünü çöz ki sözümü iyi anlasınlar. Ailemden kardeşim Harun'u bana vezir yap, beni onunla destekle, onu görevimde ortak kıl ki Seni daha çok tesbih edelim ve çokça analım. Şüphesiz Sen bizi görmektesin" dedi.
 
 # 2378
 
+<!-- TODO:DUPLICATE -->
+
 Musa: "Rabbim! Göğsümü genişlet, işimi kolaylaştır, dilimin düğümünü çöz ki sözümü iyi anlasınlar. Ailemden kardeşim Harun'u bana vezir yap, beni onunla destekle, onu görevimde ortak kıl ki Seni daha çok tesbih edelim ve çokça analım. Şüphesiz Sen bizi görmektesin" dedi.
 
 # 2379
+
+<!-- TODO:DUPLICATE -->
 
 Musa: "Rabbim! Göğsümü genişlet, işimi kolaylaştır, dilimin düğümünü çöz ki sözümü iyi anlasınlar. Ailemden kardeşim Harun'u bana vezir yap, beni onunla destekle, onu görevimde ortak kıl ki Seni daha çok tesbih edelim ve çokça analım. Şüphesiz Sen bizi görmektesin" dedi.
 
 # 2380
 
+<!-- TODO:DUPLICATE -->
+
 Musa: "Rabbim! Göğsümü genişlet, işimi kolaylaştır, dilimin düğümünü çöz ki sözümü iyi anlasınlar. Ailemden kardeşim Harun'u bana vezir yap, beni onunla destekle, onu görevimde ortak kıl ki Seni daha çok tesbih edelim ve çokça analım. Şüphesiz Sen bizi görmektesin" dedi.
 
 # 2381
+
+<!-- TODO:DUPLICATE -->
 
 Musa: "Rabbim! Göğsümü genişlet, işimi kolaylaştır, dilimin düğümünü çöz ki sözümü iyi anlasınlar. Ailemden kardeşim Harun'u bana vezir yap, beni onunla destekle, onu görevimde ortak kıl ki Seni daha çok tesbih edelim ve çokça analım. Şüphesiz Sen bizi görmektesin" dedi.
 
 # 2382
 
+<!-- TODO:DUPLICATE -->
+
 Musa: "Rabbim! Göğsümü genişlet, işimi kolaylaştır, dilimin düğümünü çöz ki sözümü iyi anlasınlar. Ailemden kardeşim Harun'u bana vezir yap, beni onunla destekle, onu görevimde ortak kıl ki Seni daha çok tesbih edelim ve çokça analım. Şüphesiz Sen bizi görmektesin" dedi.
 
 # 2383
+
+<!-- TODO:DUPLICATE -->
 
 Musa: "Rabbim! Göğsümü genişlet, işimi kolaylaştır, dilimin düğümünü çöz ki sözümü iyi anlasınlar. Ailemden kardeşim Harun'u bana vezir yap, beni onunla destekle, onu görevimde ortak kıl ki Seni daha çok tesbih edelim ve çokça analım. Şüphesiz Sen bizi görmektesin" dedi.
 
@@ -9546,13 +9920,19 @@ Allah: "Ey Musa! İstediğin sana verildi" dedi, "Zaten sana başka bir defa da 
 
 # 2385
 
+<!-- TODO:DUPLICATE -->
+
 Allah: "Ey Musa! İstediğin sana verildi" dedi, "Zaten sana başka bir defa da iyilikte bulunmuş ve annene vahyedilmesi gerekeni vahyetmiştik: Musa'yı bir sandığa koy da suya bırak; su onu kıyıya atar, Bana da, ona da düşman olan biri onu alır. Ey Musa! Gözümün önünde yetişesin diye seni sevimli kıldım."
 
 # 2386
 
+<!-- TODO:DUPLICATE -->
+
 Allah: "Ey Musa! İstediğin sana verildi" dedi, "Zaten sana başka bir defa da iyilikte bulunmuş ve annene vahyedilmesi gerekeni vahyetmiştik: Musa'yı bir sandığa koy da suya bırak; su onu kıyıya atar, Bana da, ona da düşman olan biri onu alır. Ey Musa! Gözümün önünde yetişesin diye seni sevimli kıldım."
 
 # 2387
+
+<!-- TODO:DUPLICATE -->
 
 Allah: "Ey Musa! İstediğin sana verildi" dedi, "Zaten sana başka bir defa da iyilikte bulunmuş ve annene vahyedilmesi gerekeni vahyetmiştik: Musa'yı bir sandığa koy da suya bırak; su onu kıyıya atar, Bana da, ona da düşman olan biri onu alır. Ey Musa! Gözümün önünde yetişesin diye seni sevimli kıldım."
 
@@ -9586,9 +9966,13 @@ Allah: Korkmayın, dedi; Ben sizinle beraberim; görür ve işitirim. Ona gidin 
 
 # 2395
 
+<!-- TODO:DUPLICATE -->
+
 Allah: Korkmayın, dedi; Ben sizinle beraberim; görür ve işitirim. Ona gidin şöyle söyleyin: "Doğrusu biz senin Rabbinin elçileriyiz. İsrailoğullarını bizimle beraber gönder, onlara azabetme; Rabbinden sana bir mucize getirdik; selam, doğru yolda gidene olsun! Doğrusu bize, yalanlayıp sırt çevirene azap edileceği vahyolundu."
 
 # 2396
+
+<!-- TODO:DUPLICATE -->
 
 Allah: Korkmayın, dedi; Ben sizinle beraberim; görür ve işitirim. Ona gidin şöyle söyleyin: "Doğrusu biz senin Rabbinin elçileriyiz. İsrailoğullarını bizimle beraber gönder, onlara azabetme; Rabbinden sana bir mucize getirdik; selam, doğru yolda gidene olsun! Doğrusu bize, yalanlayıp sırt çevirene azap edileceği vahyolundu."
 
@@ -9626,9 +10010,13 @@ And olsun ki Firavun'a bütün delillerimizi gösterdik de yalan sayıp kabulden
 
 # 2405
 
+<!-- TODO:DUPLICATE -->
+
 And olsun ki Firavun'a bütün delillerimizi gösterdik de yalan sayıp kabulden çekindi ve: "Ey Musa! Sihirbazlığınla bizi yurdumuzdan çıkarmaya mı geldin? Şimdi biz de seninkinin benzeri bir sihri sana göstereceğiz. Bizimle senin aranda bir vakit tayinet ki sen de biz de düz bir yerde bulunalım da caymayalım" dedi.
 
 # 2406
+
+<!-- TODO:DUPLICATE -->
 
 And olsun ki Firavun'a bütün delillerimizi gösterdik de yalan sayıp kabulden çekindi ve: "Ey Musa! Sihirbazlığınla bizi yurdumuzdan çıkarmaya mı geldin? Şimdi biz de seninkinin benzeri bir sihri sana göstereceğiz. Bizimle senin aranda bir vakit tayinet ki sen de biz de düz bir yerde bulunalım da caymayalım" dedi.
 
@@ -9653,6 +10041,8 @@ Sihirbazlar işi aralarında tartıştılar ve konuşmalarını gizli tuttular.
 Musa ile Harun'u göstererek: "Bu iki sihirbaz, sihirleriyle sizi yurdunuzdan çıkarmak, sizin en üstün dininizi ortadan kaldırmak istiyorlar; onun için tuzaklarınızı bir araya getirin, sonra sırayla gelin. Bugün üstün gelen başarıya erecektir" dediler.
 
 # 2412
+
+<!-- TODO:DUPLICATE -->
 
 Musa ile Harun'u göstererek: "Bu iki sihirbaz, sihirleriyle sizi yurdunuzdan çıkarmak, sizin en üstün dininizi ortadan kaldırmak istiyorlar; onun için tuzaklarınızı bir araya getirin, sonra sırayla gelin. Bugün üstün gelen başarıya erecektir" dediler.
 
@@ -9690,6 +10080,8 @@ Firavun "Ben size izin vermeden mi O'na inandınız? Doğrusu size sihri öğret
 
 # 2421
 
+<!-- TODO:DUPLICATE -->
+
 İman eden sihirbazlar: "Seni, gelen apaçık mucizelere ve bizi yaratana üstün tutmayacağız. Ne hüküm vereceksen ver. Sen, ancak bu dünya hayatına hükmedebilirsin. Doğrusu biz, yanılmalarımızı ve bize zorla yaptırdığın sihri bağışlaması için Rabbimize iman ettik. Allah'ın vereceği mükafat daha iyi ve daha devamlıdır" dediler.
 
 # 2422
@@ -9701,6 +10093,8 @@ Rabbine suçlu olarak gelen bilsin ki, cehennem onun içindir. Orada ne ölür, 
 Rabbine inanmış ve yararlı iş yaparak gelenlere, işte onlara, en üstün dereceler, içlerinden ırmaklar akan, içinde temelli kalacakları Adn cennetleri vardır. Bu, arınanların mükafatıdır.
 
 # 2424
+
+<!-- TODO:DUPLICATE -->
 
 Rabbine inanmış ve yararlı iş yaparak gelenlere, işte onlara, en üstün dereceler, içlerinden ırmaklar akan, içinde temelli kalacakları Adn cennetleri vardır. Bu, arınanların mükafatıdır.
 
@@ -9770,6 +10164,8 @@ Musa gelince: "Harun! Onların sapıttığını görünce seni benim yolumdan gi
 
 # 2441
 
+<!-- TODO:DUPLICATE -->
+
 Musa gelince: "Harun! Onların sapıttığını görünce seni benim yolumdan gitmekten alıkoyan nedir? Benim emrime karşı mı geldin?" dedi.
 
 # 2442
@@ -9798,6 +10194,8 @@ Geçmiş olayları sana böyle anlatırız. Katımızdan sana da bir Kitap verdi
 
 # 2448
 
+<!-- TODO:DUPLICATE -->
+
 Geçmiş olayları sana böyle anlatırız. Katımızdan sana da bir Kitap verdik; kim ondan yüz çevirirse bilsin ki kıyamet günü bir günah yükü yüklenecektir.
 
 # 2449
@@ -9822,13 +10220,19 @@ Sana dağları sorarlar; de ki: "Rabbim onları ufalayıp savuracak, yerlerini d
 
 # 2454
 
+<!-- TODO:DUPLICATE -->
+
 Sana dağları sorarlar; de ki: "Rabbim onları ufalayıp savuracak, yerlerini düz, kuru bir toprak haline getirecek; orada ne çukur, ne tümsek göreceksin. O gün, hiçbir tarafa sapmadan bir davetçiye uyarlar. Sesler Rahman'ın heybetinden kısılmıştır; ancak bir fısıltı işitirsin."
 
 # 2455
 
+<!-- TODO:DUPLICATE -->
+
 Sana dağları sorarlar; de ki: "Rabbim onları ufalayıp savuracak, yerlerini düz, kuru bir toprak haline getirecek; orada ne çukur, ne tümsek göreceksin. O gün, hiçbir tarafa sapmadan bir davetçiye uyarlar. Sesler Rahman'ın heybetinden kısılmıştır; ancak bir fısıltı işitirsin."
 
 # 2456
+
+<!-- TODO:DUPLICATE -->
 
 Sana dağları sorarlar; de ki: "Rabbim onları ufalayıp savuracak, yerlerini düz, kuru bir toprak haline getirecek; orada ne çukur, ne tümsek göreceksin. O gün, hiçbir tarafa sapmadan bir davetçiye uyarlar. Sesler Rahman'ın heybetinden kısılmıştır; ancak bir fısıltı işitirsin."
 
@@ -9866,13 +10270,19 @@ And olsun ki daha önce "Adem'e secde edin" demiştik; İblis'ten başka hepsi s
 
 # 2465
 
+<!-- TODO:DUPLICATE -->
+
 "Ey Adem! Doğrusu bu, senin ve eşinin düşmanıdır. Sakın sizi cennetten çıkarmasın, yoksa bedbaht olursun. Doğrusu cennette ne acıkırsın, ne de çıplak kalırsın; orada ne susarsın ne de güneşin sıcağında kalırsın" dedik.
 
 # 2466
 
+<!-- TODO:DUPLICATE -->
+
 "Ey Adem! Doğrusu bu, senin ve eşinin düşmanıdır. Sakın sizi cennetten çıkarmasın, yoksa bedbaht olursun. Doğrusu cennette ne acıkırsın, ne de çıplak kalırsın; orada ne susarsın ne de güneşin sıcağında kalırsın" dedik.
 
 # 2467
+
+<!-- TODO:DUPLICATE -->
 
 "Ey Adem! Doğrusu bu, senin ve eşinin düşmanıdır. Sakın sizi cennetten çıkarmasın, yoksa bedbaht olursun. Doğrusu cennette ne acıkırsın, ne de çıplak kalırsın; orada ne susarsın ne de güneşin sıcağında kalırsın" dedik.
 
@@ -9949,6 +10359,8 @@ De ki: "Herkes gözlemektedir, siz de gözleyin. Şüphesiz düz yolun sahipleri
 Rablerinden kendilerine gelen her yeni ihtarı mutlaka, gönülleri gaflet içinde eğlenerek dinlerler. Zulmedenler, gizli toplantılarında: "Bu zat, sizin gibi bir insandan başka bir şey midir? Siz, göz göre göre sihre mi uyarsınız?" diye konuşurlar.
 
 # 2486
+
+<!-- TODO:DUPLICATE -->
 
 Rablerinden kendilerine gelen her yeni ihtarı mutlaka, gönülleri gaflet içinde eğlenerek dinlerler. Zulmedenler, gizli toplantılarında: "Bu zat, sizin gibi bir insandan başka bir şey midir? Siz, göz göre göre sihre mi uyarsınız?" diye konuşurlar.
 
@@ -10182,6 +10594,8 @@ Bazıları: "İbrahim denen bir gencin onları diline doladığını duymuştuk"
 
 # 2544
 
+<!-- TODO:DUPLICATE -->
+
 Bazıları: "İbrahim denen bir gencin onları diline doladığını duymuştuk" deyince, "O halde bunların şahidlik edebilmeleri için onu halkın gözü önüne getirin" dediler.
 
 # 2545
@@ -10198,6 +10612,8 @@ Kendi kendilerine: "Doğrusu siz haksızsınız", sonra kafalarında olan eski i
 
 # 2548
 
+<!-- TODO:DUPLICATE -->
+
 Kendi kendilerine: "Doğrusu siz haksızsınız", sonra kafalarında olan eski inançlarına dönerek: "Ey İbrahim! bunların konuşmayacağını, and olsun ki, bilirsin" dediler.
 
 # 2549
@@ -10205,6 +10621,8 @@ Kendi kendilerine: "Doğrusu siz haksızsınız", sonra kafalarında olan eski i
 İbrahim: "O halde, Allah'ı bırakıp da size hiçbir fayda ve zarar veremeyecek olan putlara ne diye taparsınız? Size de, Allah'ı bırakıp taptıklarınıza da yazıklar olsun! Akletmiyor musunuz?" dedi.
 
 # 2550
+
+<!-- TODO:DUPLICATE -->
 
 İbrahim: "O halde, Allah'ı bırakıp da size hiçbir fayda ve zarar veremeyecek olan putlara ne diye taparsınız? Size de, Allah'ı bırakıp taptıklarınıza da yazıklar olsun! Akletmiyor musunuz?" dedi.
 
@@ -10414,6 +10832,8 @@ Bunlar, yalnız Allah'ın gerçek olduğunu, ölüleri dirilttiğini, gücünün
 
 # 2602
 
+<!-- TODO:DUPLICATE -->
+
 Bunlar, yalnız Allah'ın gerçek olduğunu, ölüleri dirilttiğini, gücünün herşeye yettiğini, şüphe götürmeyen kıyamet saatinin geleceğini, Allah'ın kabirlerde olanı dirilteceğini gösterir.
 
 # 2603
@@ -10421,6 +10841,8 @@ Bunlar, yalnız Allah'ın gerçek olduğunu, ölüleri dirilttiğini, gücünün
 Bilmeden, doğruya götüren bir rehberi olmadan, aydınlatıcı bir kitabı da bulunmadan Allah yolundan saptırmak için büyüklük taslayarak Allah hakkında tartışan insan vardır. Dünyada rezillik onadır; ona kıyamet günü yakıcı azabı tattırırız.
 
 # 2604
+
+<!-- TODO:DUPLICATE -->
 
 Bilmeden, doğruya götüren bir rehberi olmadan, aydınlatıcı bir kitabı da bulunmadan Allah yolundan saptırmak için büyüklük taslayarak Allah hakkında tartışan insan vardır. Dünyada rezillik onadır; ona kıyamet günü yakıcı azabı tattırırız.
 
@@ -10466,9 +10888,13 @@ Göklerde ve yerde olanların, güneş, ay, yıldızlar, dağlar, ağaçlar, hay
 
 # 2615
 
+<!-- TODO:DUPLICATE -->
+
 İşte Rableri hakkında tartışmaya giren iki taraf: O'nu inkar edenlere, ateşten elbiseler kesilmiştir, başlarına da kaynar su dökülür de bununla karınlarındakiler ve deriler eritilir. Demir topuzlar da onlar içindir.
 
 # 2616
+
+<!-- TODO:DUPLICATE -->
 
 İşte Rableri hakkında tartışmaya giren iki taraf: O'nu inkar edenlere, ateşten elbiseler kesilmiştir, başlarına da kaynar su dökülür de bununla karınlarındakiler ve deriler eritilir. Demir topuzlar da onlar içindir.
 
@@ -10526,6 +10952,8 @@ Her ümmet için, Allah'ın kendilerine rızk olarak verdiği kurbanlık hayvanl
 
 # 2630
 
+<!-- TODO:DUPLICATE -->
+
 Her ümmet için, Allah'ın kendilerine rızk olarak verdiği kurbanlık hayvanların üzerlerine O'nun adını anarak kurban kesmeyi meşru kıldık. Sizin Tanrınız tek bir Tanrı'dır, O'na teslim olun. Allah anıldığı zaman kalbleri titreyen, başlarına gelene sabreden, namaz kılan, kendilerine verdiğimiz rızıktan sarfeden ve Allah'a gönül vermiş olan kimselere müjde et.
 
 # 2631
@@ -10558,9 +10986,13 @@ Seni yalancı sayıyorlarsa bil ki, onlardan önce Nuh milleti, Ad, Semud, İbra
 
 # 2638
 
+<!-- TODO:DUPLICATE -->
+
 Seni yalancı sayıyorlarsa bil ki, onlardan önce Nuh milleti, Ad, Semud, İbrahim milleti, Lut milleti ve Medyen halkı da peygamberlerini yalancı saymış ve Musa da yalanlanmıştı. Ama Ben, kafirlere önce mehil verdim, sonra da onları yakalayıverdim; Beni tanımamak nasılmış görsünler.
 
 # 2639
+
+<!-- TODO:DUPLICATE -->
 
 Seni yalancı sayıyorlarsa bil ki, onlardan önce Nuh milleti, Ad, Semud, İbrahim milleti, Lut milleti ve Medyen halkı da peygamberlerini yalancı saymış ve Musa da yalanlanmıştı. Ama Ben, kafirlere önce mehil verdim, sonra da onları yakalayıverdim; Beni tanımamak nasılmış görsünler.
 
@@ -10658,9 +11090,13 @@ Her ümmete, yerine getirmeleri gerekli ibadetler koyduk. Öyleyse, bu konuda se
 
 # 2663
 
+<!-- TODO:DUPLICATE -->
+
 Her ümmete, yerine getirmeleri gerekli ibadetler koyduk. Öyleyse, bu konuda seninle çekişmelerine fırsat verme; Rabbine davet et, sen şüphesiz doğru yol üzerindesin. Seninle tartışırlarsa: "Allah yaptığınızı çok iyi bilir; ayrılığa düştüğünüz şeyler hakkında, kıyamet günü aranızda Allah hükmedecektir" de.
 
 # 2664
+
+<!-- TODO:DUPLICATE -->
 
 Her ümmete, yerine getirmeleri gerekli ibadetler koyduk. Öyleyse, bu konuda seninle çekişmelerine fırsat verme; Rabbine davet et, sen şüphesiz doğru yol üzerindesin. Seninle tartışırlarsa: "Allah yaptığınızı çok iyi bilir; ayrılığa düştüğünüz şeyler hakkında, kıyamet günü aranızda Allah hükmedecektir" de.
 
@@ -10722,6 +11158,8 @@ Onlar, eşleri ve cariyeleri dışında, mahrem yerlerini herkesten korurlar. Do
 
 # 2679
 
+<!-- TODO:DUPLICATE -->
+
 Onlar, eşleri ve cariyeleri dışında, mahrem yerlerini herkesten korurlar. Doğrusu bunlar yerilemezler.
 
 # 2680
@@ -10741,6 +11179,8 @@ Namazlarına riayet ederler.
 İşte onlar, temelli kalacakları Firdevs cennetine varis olanlardır.
 
 # 2684
+
+<!-- TODO:DUPLICATE -->
 
 İşte onlar, temelli kalacakları Firdevs cennetine varis olanlardır.
 
@@ -10778,6 +11218,8 @@ Onunla, içinde, yediğiniz birçok meyvalar bulunan hurmalık ve üzüm bağlar
 
 # 2693
 
+<!-- TODO:DUPLICATE -->
+
 Onunla, içinde, yediğiniz birçok meyvalar bulunan hurmalık ve üzüm bağları, Tur-i Sina'da yetişen, yiyenlere, yağ ve katık veren zeytin ağacını var ettik.
 
 # 2694
@@ -10797,6 +11239,8 @@ And olsun ki Nuh'u milletine gönderdik; onlara: "Ey milletim! Allah'a kulluk ed
 Milletinin inkarcı ileri gelenleri: "Bu, sizin gibi bir insandan başka birşey değildir. Sizden üstün olmak istiyor. Allah dilemiş olsaydı melekler indirirdi. İlk atalarımızdan beri böyle birşey işitmedik. Bu adamda nedense biraz delilik var, bir süreye kadar onu gözetleyin" dediler.
 
 # 2698
+
+<!-- TODO:DUPLICATE -->
 
 Milletinin inkarcı ileri gelenleri: "Bu, sizin gibi bir insandan başka birşey değildir. Sizden üstün olmak istiyor. Allah dilemiş olsaydı melekler indirirdi. İlk atalarımızdan beri böyle birşey işitmedik. Bu adamda nedense biraz delilik var, bir süreye kadar onu gözetleyin" dediler.
 
@@ -10882,6 +11326,8 @@ Sonra Musa ve kardeşi Harun'u, Firavun ve erkanına mucizelerimiz ve apaçık d
 
 # 2719
 
+<!-- TODO:DUPLICATE -->
+
 Sonra Musa ve kardeşi Harun'u, Firavun ve erkanına mucizelerimiz ve apaçık delille gönderdik. Büyüklük tasladılar. Zaten mağrur bir topluluktular.
 
 # 2720
@@ -10889,6 +11335,8 @@ Sonra Musa ve kardeşi Harun'u, Firavun ve erkanına mucizelerimiz ve apaçık d
 Bu yüzden: "Milletleri bize kul iken, bizim gibi iki insana mı inanacağız?" deyip onları yalancı saydılar. Bu yüzden yok edildiler.
 
 # 2721
+
+<!-- TODO:DUPLICATE -->
 
 Bu yüzden: "Milletleri bize kul iken, bizim gibi iki insana mı inanacağız?" deyip onları yalancı saydılar. Bu yüzden yok edildiler.
 
@@ -10922,6 +11370,8 @@ Kendilerine mal ve oğullar vermekle, iyiliklerde onlar için acele ettiğimizi 
 
 # 2729
 
+<!-- TODO:DUPLICATE -->
+
 Kendilerine mal ve oğullar vermekle, iyiliklerde onlar için acele ettiğimizi mi zannederler? Hayır; farkında değiller.
 
 # 2730
@@ -10930,17 +11380,25 @@ Rablerinden korkarak titreyenler, Rablerinin ayetlerine inananlar, Rablerine eş
 
 # 2731
 
+<!-- TODO:DUPLICATE -->
+
 Rablerinden korkarak titreyenler, Rablerinin ayetlerine inananlar, Rablerine eş koşmayanlar, Rablerine dönecekleri için kalbleri ürpererek vermeleri gerekeni verenler, işte onlar iyi işlerde yarış ederler, o uğurda ileri geçerler.
 
 # 2732
+
+<!-- TODO:DUPLICATE -->
 
 Rablerinden korkarak titreyenler, Rablerinin ayetlerine inananlar, Rablerine eş koşmayanlar, Rablerine dönecekleri için kalbleri ürpererek vermeleri gerekeni verenler, işte onlar iyi işlerde yarış ederler, o uğurda ileri geçerler.
 
 # 2733
 
+<!-- TODO:DUPLICATE -->
+
 Rablerinden korkarak titreyenler, Rablerinin ayetlerine inananlar, Rablerine eş koşmayanlar, Rablerine dönecekleri için kalbleri ürpererek vermeleri gerekeni verenler, işte onlar iyi işlerde yarış ederler, o uğurda ileri geçerler.
 
 # 2734
+
+<!-- TODO:DUPLICATE -->
 
 Rablerinden korkarak titreyenler, Rablerinin ayetlerine inananlar, Rablerine eş koşmayanlar, Rablerine dönecekleri için kalbleri ürpererek vermeleri gerekeni verenler, işte onlar iyi işlerde yarış ederler, o uğurda ileri geçerler.
 
@@ -10965,6 +11423,8 @@ Onlara şöyle deriz: "Bugün feryat etmeyin, doğrusu katımızdan bir yardım 
 "Ayetlerim size okunduğunda büyüklük taslayıp, gece ağzınıza geleni söyleyerek ardınıza dönüyordunuz."
 
 # 2740
+
+<!-- TODO:DUPLICATE -->
 
 "Ayetlerim size okunduğunda büyüklük taslayıp, gece ağzınıza geleni söyleyerek ardınıza dönüyordunuz."
 
@@ -10993,6 +11453,8 @@ Yoksa sen onlardan bir ücret mi istiyorsun? Rabbinin ecri daha iyidir. O, rız�
 Aslında sen onları doğru yola çağırıyorsun ama, ahirete inanmayanlar bu yoldan sapmaktadırlar.
 
 # 2747
+
+<!-- TODO:DUPLICATE -->
 
 Aslında sen onları doğru yola çağırıyorsun ama, ahirete inanmayanlar bu yoldan sapmaktadırlar.
 
@@ -11029,6 +11491,8 @@ Hayır; yine de öncekilerin dediklerini derler.
 Öncekiler: "Ölüp toprak ve bir yığın kemik olduğumuzda mı diriltileceğiz? And olsun ki biz ve daha önce de babalarımız tehdit edilmişti; bu, öncekilerin masallarından başka birşey değildir" demişlerdi.
 
 # 2756
+
+<!-- TODO:DUPLICATE -->
 
 Öncekiler: "Ölüp toprak ve bir yığın kemik olduğumuzda mı diriltileceğiz? And olsun ki biz ve daha önce de babalarımız tehdit edilmişti; bu, öncekilerin masallarından başka birşey değildir" demişlerdi.
 
@@ -11074,6 +11538,8 @@ De ki: "Rabbim! Onların tehdit olundukları şeyi bana mutlaka göstereceksen, 
 
 # 2767
 
+<!-- TODO:DUPLICATE -->
+
 De ki: "Rabbim! Onların tehdit olundukları şeyi bana mutlaka göstereceksen, o zaman beni zalim milletin içinde bulundurma Yarabbi."
 
 # 2768
@@ -11097,6 +11563,8 @@ De ki: "Rabbim! Şeytanların kışkırtmalarından Sana sığınırım."
 Onlardan birine ölüm gelince: "Rabbim! Beni geri çevir, belki, yapmadan bıraktığımı tamamlar, iyi iş işlerim" der. Hayır; bu söylediği sadece kendi lafıdır. Tekrar diriltilecekleri güne kadar arkalarında geriye dönmekten onları alıkoyan bir engel vardır.
 
 # 2773
+
+<!-- TODO:DUPLICATE -->
 
 Onlardan birine ölüm gelince: "Rabbim! Beni geri çevir, belki, yapmadan bıraktığımı tamamlar, iyi iş işlerim" der. Hayır; bu söylediği sadece kendi lafıdır. Tekrar diriltilecekleri güne kadar arkalarında geriye dönmekten onları alıkoyan bir engel vardır.
 
@@ -11134,13 +11602,19 @@ Allah: "Sinin orada! Benimle konuşmayın. Kullarımdan bir topluluk: "Rabbimiz!
 
 # 2782
 
+<!-- TODO:DUPLICATE -->
+
 Allah: "Sinin orada! Benimle konuşmayın. Kullarımdan bir topluluk: "Rabbimiz! inandık, artık bizi bağışla, bize acı. Sen acıyanların en iyisisin" diyordu. Siz ise, onları alaya alıyordunuz. Bu yaptıklarınız size Beni anmayı unutturuyordu. Onlara hep gülüyordunuz. Sabretmelerine karşılık bugün onları mükafatlandırdım. Doğrusu onlar kurtulanlardır" der.
 
 # 2783
 
+<!-- TODO:DUPLICATE -->
+
 Allah: "Sinin orada! Benimle konuşmayın. Kullarımdan bir topluluk: "Rabbimiz! inandık, artık bizi bağışla, bize acı. Sen acıyanların en iyisisin" diyordu. Siz ise, onları alaya alıyordunuz. Bu yaptıklarınız size Beni anmayı unutturuyordu. Onlara hep gülüyordunuz. Sabretmelerine karşılık bugün onları mükafatlandırdım. Doğrusu onlar kurtulanlardır" der.
 
 # 2784
+
+<!-- TODO:DUPLICATE -->
 
 Allah: "Sinin orada! Benimle konuşmayın. Kullarımdan bir topluluk: "Rabbimiz! inandık, artık bizi bağışla, bize acı. Sen acıyanların en iyisisin" diyordu. Siz ise, onları alaya alıyordunuz. Bu yaptıklarınız size Beni anmayı unutturuyordu. Onlara hep gülüyordunuz. Sabretmelerine karşılık bugün onları mükafatlandırdım. Doğrusu onlar kurtulanlardır" der.
 
@@ -11157,6 +11631,8 @@ Allah onlara yine: "Yeryüzünde kaç yıl kaldınız" der.
 Allah' "Pek az kaldınız, keşke bilseydiniz! Sizi boşuna yarattığımızı ve Bize döndürülmeyeceğinizi mi sandınız?" der.
 
 # 2788
+
+<!-- TODO:DUPLICATE -->
 
 Allah' "Pek az kaldınız, keşke bilseydiniz! Sizi boşuna yarattığımızı ve Bize döndürülmeyeceğinizi mi sandınız?" der.
 
@@ -11198,6 +11674,8 @@ Karılarına zina isnat edip de kendilerinden başka şahidleri olmayanların ş
 
 # 2798
 
+<!-- TODO:DUPLICATE -->
+
 Karılarına zina isnat edip de kendilerinden başka şahidleri olmayanların şahidliği, kendisinin doğru sözlülerden olduğuna Allah'ı dört defa şahit tutmasıyla olur. Beşincisinde, eğer yalancılardan ise Allah'ın lanetinin kendisine olmasını diler.
 
 # 2799
@@ -11205,6 +11683,8 @@ Karılarına zina isnat edip de kendilerinden başka şahidleri olmayanların ş
 Kocasının yalancılardan olduğuna Allah'ı dört defa şahit tutması, cezayı kadından savar. Beşincisinde, kocası doğrulardan ise kendisinin Allah'ın gazabına uğramasını diler.
 
 # 2800
+
+<!-- TODO:DUPLICATE -->
 
 Kocasının yalancılardan olduğuna Allah'ı dört defa şahit tutması, cezayı kadından savar. Beşincisinde, kocası doğrulardan ise kendisinin Allah'ın gazabına uğramasını diler.
 
@@ -11265,6 +11745,8 @@ Ey İnananlar! Şeytana ayak uydurmayın. Kim şeytanın ardına takılırsa, bi
 İffetli, habersiz, mümin kadınlara zina isnat edenler dünya ve ahirette lanetlenmişlerdir. Kendi dilleri, elleri ve ayakları, yapmış olduklarına şahidlik ettikleri gün onlar büyük azaba uğrayacaklardır.
 
 # 2815
+
+<!-- TODO:DUPLICATE -->
 
 İffetli, habersiz, mümin kadınlara zina isnat edenler dünya ve ahirette lanetlenmişlerdir. Kendi dilleri, elleri ve ayakları, yapmış olduklarına şahidlik ettikleri gün onlar büyük azaba uğrayacaklardır.
 
@@ -11434,6 +11916,8 @@ Göklerin ve yerin hükümranlığı kendisinin olan, çocuk edinmeyen, hükümr
 
 # 2857
 
+<!-- TODO:DUPLICATE -->
+
 Göklerin ve yerin hükümranlığı kendisinin olan, çocuk edinmeyen, hükümranlıkta ortağı bulunmayan, herşeyi yaratıp bir ölçüye göre düzenleyen ve dünyaları uyarmak üzere kuluna hakkı batıldan ayırdeden Kuran'ı indiren Allah yücelerin yücesidir.
 
 # 2858
@@ -11457,6 +11941,8 @@ De ki: "Onu, göklerin ve yerin sırrını bilen indirmiştir. Şüphesiz O, ba�
 Şöyle dediler: "Bu ne biçim peygamber ki yemek yer, sokaklarda gezer? Ona, beraberinde bulunup uyaran bir melek indirilseydi ya! Yahut, kendisine bir hazine verilseydi, veya besleneceği bir bahçe olsaydı ya!" Bu zalimler, inananlara: "Siz sadece büyülenmiş bir adama uyuyorsunuz" dediler.
 
 # 2863
+
+<!-- TODO:DUPLICATE -->
 
 Şöyle dediler: "Bu ne biçim peygamber ki yemek yer, sokaklarda gezer? Ona, beraberinde bulunup uyaran bir melek indirilseydi ya! Yahut, kendisine bir hazine verilseydi, veya besleneceği bir bahçe olsaydı ya!" Bu zalimler, inananlara: "Siz sadece büyülenmiş bir adama uyuyorsunuz" dediler.
 
@@ -11538,9 +12024,13 @@ O gün, zalim kimse ellerini ısırıp: "Keşke Peygamberle beraber bir yol tuts
 
 # 2883
 
+<!-- TODO:DUPLICATE -->
+
 O gün, zalim kimse ellerini ısırıp: "Keşke Peygamberle beraber bir yol tutsaydım, vay başıma gelene; keşke falancayı dost edinmeseydim. And olsun ki beni, bana gelen Kuran'dan o saptırdı. Şeytan insanı yalnız ve yardımcısız bırakıyor" der.
 
 # 2884
+
+<!-- TODO:DUPLICATE -->
 
 O gün, zalim kimse ellerini ısırıp: "Keşke Peygamberle beraber bir yol tutsaydım, vay başıma gelene; keşke falancayı dost edinmeseydim. And olsun ki beni, bana gelen Kuran'dan o saptırdı. Şeytan insanı yalnız ve yardımcısız bırakıyor" der.
 
@@ -11610,6 +12100,8 @@ Rabbinin gölgeyi nasıl uzattığını görmez misin? İsteseydi onu durdururdu
 
 # 2901
 
+<!-- TODO:DUPLICATE -->
+
 Rabbinin gölgeyi nasıl uzattığını görmez misin? İsteseydi onu durdururdu. Sonra Biz güneşi, ona delil kılıp yavaş yavaş kendimize çekmişizdir.
 
 # 2902
@@ -11621,6 +12113,8 @@ Size geceyi örtü, uykuyu rahatlık kılan, gündüzü çalışma zamanı yapan
 Rüzgarları rahmetinin önünde müjdeci gönderen O'dur. Ölü bir yeri diriltmek ve yarattığımız nice hayvan ve insanları sulamak için gökten tertemiz su indirmişizdir.
 
 # 2904
+
+<!-- TODO:DUPLICATE -->
 
 Rüzgarları rahmetinin önünde müjdeci gönderen O'dur. Ölü bir yeri diriltmek ve yarattığımız nice hayvan ve insanları sulamak için gökten tertemiz su indirmişizdir.
 
@@ -11689,6 +12183,8 @@ Onlar, gecelerini Rableri için kıyama durarak ve secdeye vararak geçirirler.
 Onlar, "Rabbimiz! Bizden cehennem azabını uzaklaştır; doğrusu onun azabı sürekli ve acıdır. Orası şüphesiz kötü bir yer ve kötü bir duraktır" derler.
 
 # 2921
+
+<!-- TODO:DUPLICATE -->
 
 Onlar, "Rabbimiz! Bizden cehennem azabını uzaklaştır; doğrusu onun azabı sürekli ve acıdır. Orası şüphesiz kötü bir yer ve kötü bir duraktır" derler.
 
@@ -11778,6 +12274,8 @@ Rabbin Musa'ya: "Haksızlık eden millete, Firavun'un milletine git" diye nida e
 
 # 2943
 
+<!-- TODO:DUPLICATE -->
+
 Rabbin Musa'ya: "Haksızlık eden millete, Firavun'un milletine git" diye nida etmişti. "Haksızlıktan sakınmazlar mı?"
 
 # 2944
@@ -11786,9 +12284,13 @@ Musa: "Rabbim! Doğrusu beni yalanlamalarından korkuyorum; göğsüm daralıyor
 
 # 2945
 
+<!-- TODO:DUPLICATE -->
+
 Musa: "Rabbim! Doğrusu beni yalanlamalarından korkuyorum; göğsüm daralıyor, dilim açılmıyor. Onun için Harun'a da elçilik ver. Onların bana isnat ettikleri bir suç da vardır. Beni öldürmelerinden korkuyorum" demişti.
 
 # 2946
+
+<!-- TODO:DUPLICATE -->
 
 Musa: "Rabbim! Doğrusu beni yalanlamalarından korkuyorum; göğsüm daralıyor, dilim açılmıyor. Onun için Harun'a da elçilik ver. Onların bana isnat ettikleri bir suç da vardır. Beni öldürmelerinden korkuyorum" demişti.
 
@@ -11798,9 +12300,13 @@ Allah: "Hayır; ikiniz mucizelerimizle gidiniz. Doğrusu Biz sizinle beraber din
 
 # 2948
 
+<!-- TODO:DUPLICATE -->
+
 Allah: "Hayır; ikiniz mucizelerimizle gidiniz. Doğrusu Biz sizinle beraber dinlemekteyiz. Firavun'a varınız: "Biz şüphesiz alemlerin Rabbinin elçisiyiz; İsrailoğullarını bizimle beraber gönder, deyiniz" demişti.
 
 # 2949
+
+<!-- TODO:DUPLICATE -->
 
 Allah: "Hayır; ikiniz mucizelerimizle gidiniz. Doğrusu Biz sizinle beraber dinlemekteyiz. Firavun'a varınız: "Biz şüphesiz alemlerin Rabbinin elçisiyiz; İsrailoğullarını bizimle beraber gönder, deyiniz" demişti.
 
@@ -11810,6 +12316,8 @@ Firavun Musa'ya: "Biz seni çocukken yanımıza alıp büyütmedik mi? Hayatın�
 
 # 2951
 
+<!-- TODO:DUPLICATE -->
+
 Firavun Musa'ya: "Biz seni çocukken yanımıza alıp büyütmedik mi? Hayatının birçok yıllarını aramızda geçirmedin mi? Sonunda yapacağını da yaptın. Sen nankörün birisin" dedi.
 
 # 2952
@@ -11818,9 +12326,13 @@ Musa: "O işi kasden yaptımsa sapıklardan biri sayılırım. Bu yüzden sizden
 
 # 2953
 
+<!-- TODO:DUPLICATE -->
+
 Musa: "O işi kasden yaptımsa sapıklardan biri sayılırım. Bu yüzden sizden korkunca aranızdan kaçtım. Sonra, Rabbim bana hikmet verip, beni peygamber yaptı. Başıma kaktığın bu nimet, İsrailoğullarını kendine köle ettiğinden ötürüdür" dedi.
 
 # 2954
+
+<!-- TODO:DUPLICATE -->
 
 Musa: "O işi kasden yaptımsa sapıklardan biri sayılırım. Bu yüzden sizden korkunca aranızdan kaçtım. Sonra, Rabbim bana hikmet verip, beni peygamber yaptı. Başıma kaktığın bu nimet, İsrailoğullarını kendine köle ettiğinden ötürüdür" dedi.
 
@@ -11874,6 +12386,8 @@ Firavun çevresinde bulunan ileri gelenlere: "Doğrusu bu bilgin bir sihirbaz; s
 
 # 2967
 
+<!-- TODO:DUPLICATE -->
+
 Firavun çevresinde bulunan ileri gelenlere: "Doğrusu bu bilgin bir sihirbaz; sizi sihirle yurdunuzdan çıkarmak istiyor; ne buyurursunuz?" dedi.
 
 # 2968
@@ -11881,6 +12395,8 @@ Firavun çevresinde bulunan ileri gelenlere: "Doğrusu bu bilgin bir sihirbaz; s
 "Onu ve kardeşini alıkoy, şehirlere, sana bütün bilgin sihirbazları getirecek toplayıcılar gönder" dediler.
 
 # 2969
+
+<!-- TODO:DUPLICATE -->
 
 "Onu ve kardeşini alıkoy, şehirlere, sana bütün bilgin sihirbazları getirecek toplayıcılar gönder" dediler.
 
@@ -11922,9 +12438,13 @@ Bunu gören sihirbazlar secdeye kapanarak: "Alemlerin Rabbine, Musa ve Harun'un 
 
 # 2979
 
+<!-- TODO:DUPLICATE -->
+
 Bunu gören sihirbazlar secdeye kapanarak: "Alemlerin Rabbine, Musa ve Harun'un Rabbine inandık" dediler.
 
 # 2980
+
+<!-- TODO:DUPLICATE -->
 
 Bunu gören sihirbazlar secdeye kapanarak: "Alemlerin Rabbine, Musa ve Harun'un Rabbine inandık" dediler.
 
@@ -11938,6 +12458,8 @@ Firavun: "Ben size izin vermeden ona iman mı ettiniz? Muhakkak ki o, size sihri
 
 # 2983
 
+<!-- TODO:DUPLICATE -->
+
 İman eden sihirbazlar: "Zararı yok, biz şüphesiz Rabbimize doneceğiz; inananların ilki olmamızdan ötürü, Rabbimizin kusurlarımızı bize bağışlayacağını umarız" dediler.
 
 # 2984
@@ -11950,13 +12472,19 @@ Bu arada Firavun şehirlere, "Doğrusu bunlar bizi öfkelendiren döküntü azı
 
 # 2986
 
+<!-- TODO:DUPLICATE -->
+
 Bu arada Firavun şehirlere, "Doğrusu bunlar bizi öfkelendiren döküntü azınlıklardır; hepimiz tedbirli olmalıyız" diyen münadiler gönderdi.
 
 # 2987
 
+<!-- TODO:DUPLICATE -->
+
 Bu arada Firavun şehirlere, "Doğrusu bunlar bizi öfkelendiren döküntü azınlıklardır; hepimiz tedbirli olmalıyız" diyen münadiler gönderdi.
 
 # 2988
+
+<!-- TODO:DUPLICATE -->
 
 Bu arada Firavun şehirlere, "Doğrusu bunlar bizi öfkelendiren döküntü azınlıklardır; hepimiz tedbirli olmalıyız" diyen münadiler gönderdi.
 
@@ -11966,9 +12494,13 @@ Ama biz Firavun ve adamlarını bahçelerden, pınar başlarından, hazinelerden
 
 # 2990
 
+<!-- TODO:DUPLICATE -->
+
 Ama biz Firavun ve adamlarını bahçelerden, pınar başlarından, hazinelerden ve şerefli makamlardan çıkardık. Böylece oralara İsrailoğullarını mirasçı kıldık.
 
 # 2991
+
+<!-- TODO:DUPLICATE -->
 
 Ama biz Firavun ve adamlarını bahçelerden, pınar başlarından, hazinelerden ve şerefli makamlardan çıkardık. Böylece oralara İsrailoğullarını mirasçı kıldık.
 
@@ -12026,6 +12558,8 @@ Onlara İbrahim'in kıssasını anlat.
 
 # 3005
 
+<!-- TODO:DUPLICATE -->
+
 İbrahim: "Çağırdığınız zaman sizi duyarlar veya size bir fayda ve zarar verirler mi?" demişti.
 
 # 3006
@@ -12038,33 +12572,49 @@ Onlara İbrahim'in kıssasını anlat.
 
 # 3008
 
+<!-- TODO:DUPLICATE -->
+
 İbrahim: "Eski atalarınızın ve sizin nelere taptıklarınızı görüyor musunuz? Doğrusu onlar benim düşmanımdır. Dostum ancak Alemlerin Rabbidir. Beni yaratan da, doğru yola eriştiren de O'dur. Beni yediren de, içiren de O'dur. Hasta olduğumda bana O şifa verir. Beni öldürecek, sonra da diriltecek O'dur. Ahiret gününde yanılmalarımı bana bağışlamasını umduğum O'dur. Rabbim! Bana hikmet ver ve beni iyiler arasına kat.
 
 # 3009
+
+<!-- TODO:DUPLICATE -->
 
 İbrahim: "Eski atalarınızın ve sizin nelere taptıklarınızı görüyor musunuz? Doğrusu onlar benim düşmanımdır. Dostum ancak Alemlerin Rabbidir. Beni yaratan da, doğru yola eriştiren de O'dur. Beni yediren de, içiren de O'dur. Hasta olduğumda bana O şifa verir. Beni öldürecek, sonra da diriltecek O'dur. Ahiret gününde yanılmalarımı bana bağışlamasını umduğum O'dur. Rabbim! Bana hikmet ver ve beni iyiler arasına kat.
 
 # 3010
 
+<!-- TODO:DUPLICATE -->
+
 İbrahim: "Eski atalarınızın ve sizin nelere taptıklarınızı görüyor musunuz? Doğrusu onlar benim düşmanımdır. Dostum ancak Alemlerin Rabbidir. Beni yaratan da, doğru yola eriştiren de O'dur. Beni yediren de, içiren de O'dur. Hasta olduğumda bana O şifa verir. Beni öldürecek, sonra da diriltecek O'dur. Ahiret gününde yanılmalarımı bana bağışlamasını umduğum O'dur. Rabbim! Bana hikmet ver ve beni iyiler arasına kat.
 
 # 3011
+
+<!-- TODO:DUPLICATE -->
 
 İbrahim: "Eski atalarınızın ve sizin nelere taptıklarınızı görüyor musunuz? Doğrusu onlar benim düşmanımdır. Dostum ancak Alemlerin Rabbidir. Beni yaratan da, doğru yola eriştiren de O'dur. Beni yediren de, içiren de O'dur. Hasta olduğumda bana O şifa verir. Beni öldürecek, sonra da diriltecek O'dur. Ahiret gününde yanılmalarımı bana bağışlamasını umduğum O'dur. Rabbim! Bana hikmet ver ve beni iyiler arasına kat.
 
 # 3012
 
+<!-- TODO:DUPLICATE -->
+
 İbrahim: "Eski atalarınızın ve sizin nelere taptıklarınızı görüyor musunuz? Doğrusu onlar benim düşmanımdır. Dostum ancak Alemlerin Rabbidir. Beni yaratan da, doğru yola eriştiren de O'dur. Beni yediren de, içiren de O'dur. Hasta olduğumda bana O şifa verir. Beni öldürecek, sonra da diriltecek O'dur. Ahiret gününde yanılmalarımı bana bağışlamasını umduğum O'dur. Rabbim! Bana hikmet ver ve beni iyiler arasına kat.
 
 # 3013
+
+<!-- TODO:DUPLICATE -->
 
 İbrahim: "Eski atalarınızın ve sizin nelere taptıklarınızı görüyor musunuz? Doğrusu onlar benim düşmanımdır. Dostum ancak Alemlerin Rabbidir. Beni yaratan da, doğru yola eriştiren de O'dur. Beni yediren de, içiren de O'dur. Hasta olduğumda bana O şifa verir. Beni öldürecek, sonra da diriltecek O'dur. Ahiret gününde yanılmalarımı bana bağışlamasını umduğum O'dur. Rabbim! Bana hikmet ver ve beni iyiler arasına kat.
 
 # 3014
 
+<!-- TODO:DUPLICATE -->
+
 İbrahim: "Eski atalarınızın ve sizin nelere taptıklarınızı görüyor musunuz? Doğrusu onlar benim düşmanımdır. Dostum ancak Alemlerin Rabbidir. Beni yaratan da, doğru yola eriştiren de O'dur. Beni yediren de, içiren de O'dur. Hasta olduğumda bana O şifa verir. Beni öldürecek, sonra da diriltecek O'dur. Ahiret gününde yanılmalarımı bana bağışlamasını umduğum O'dur. Rabbim! Bana hikmet ver ve beni iyiler arasına kat.
 
 # 3015
+
+<!-- TODO:DUPLICATE -->
 
 İbrahim: "Eski atalarınızın ve sizin nelere taptıklarınızı görüyor musunuz? Doğrusu onlar benim düşmanımdır. Dostum ancak Alemlerin Rabbidir. Beni yaratan da, doğru yola eriştiren de O'dur. Beni yediren de, içiren de O'dur. Hasta olduğumda bana O şifa verir. Beni öldürecek, sonra da diriltecek O'dur. Ahiret gününde yanılmalarımı bana bağışlamasını umduğum O'dur. Rabbim! Bana hikmet ver ve beni iyiler arasına kat.
 
@@ -12074,21 +12624,31 @@ Sonrakilerin beni güzel şekilde anmalarını sağla. Beni nimet cennetine vari
 
 # 3017
 
+<!-- TODO:DUPLICATE -->
+
 Sonrakilerin beni güzel şekilde anmalarını sağla. Beni nimet cennetine varis olanlardan kıl. Babamı da bağışla, o şüphesiz sapıklardandır. İnsanların diriltileceği gün, Allah'a temiz bir kalble gelenden başka kimseye malın ve oğulların fayda vermeyeceği gün, beni rezil etme" demişti.
 
 # 3018
+
+<!-- TODO:DUPLICATE -->
 
 Sonrakilerin beni güzel şekilde anmalarını sağla. Beni nimet cennetine varis olanlardan kıl. Babamı da bağışla, o şüphesiz sapıklardandır. İnsanların diriltileceği gün, Allah'a temiz bir kalble gelenden başka kimseye malın ve oğulların fayda vermeyeceği gün, beni rezil etme" demişti.
 
 # 3019
 
+<!-- TODO:DUPLICATE -->
+
 Sonrakilerin beni güzel şekilde anmalarını sağla. Beni nimet cennetine varis olanlardan kıl. Babamı da bağışla, o şüphesiz sapıklardandır. İnsanların diriltileceği gün, Allah'a temiz bir kalble gelenden başka kimseye malın ve oğulların fayda vermeyeceği gün, beni rezil etme" demişti.
 
 # 3020
 
+<!-- TODO:DUPLICATE -->
+
 Sonrakilerin beni güzel şekilde anmalarını sağla. Beni nimet cennetine varis olanlardan kıl. Babamı da bağışla, o şüphesiz sapıklardandır. İnsanların diriltileceği gün, Allah'a temiz bir kalble gelenden başka kimseye malın ve oğulların fayda vermeyeceği gün, beni rezil etme" demişti.
 
 # 3021
+
+<!-- TODO:DUPLICATE -->
 
 Sonrakilerin beni güzel şekilde anmalarını sağla. Beni nimet cennetine varis olanlardan kıl. Babamı da bağışla, o şüphesiz sapıklardandır. İnsanların diriltileceği gün, Allah'a temiz bir kalble gelenden başka kimseye malın ve oğulların fayda vermeyeceği gün, beni rezil etme" demişti.
 
@@ -12098,6 +12658,8 @@ O gün cennet Allah'a karşı gelmekten sakınanlara yaklaştırılır. Cehennem
 
 # 3023
 
+<!-- TODO:DUPLICATE -->
+
 O gün cennet Allah'a karşı gelmekten sakınanlara yaklaştırılır. Cehennem de azgınlara gösterilir.
 
 # 3024
@@ -12105,6 +12667,8 @@ O gün cennet Allah'a karşı gelmekten sakınanlara yaklaştırılır. Cehennem
 Onlara: "Allah'ı bırakıp taptıklarınız nerededir. Size yardım ediyorlar mı veya kendilerine yardımları dokunuyor mu?" denilir.
 
 # 3025
+
+<!-- TODO:DUPLICATE -->
 
 Onlara: "Allah'ı bırakıp taptıklarınız nerededir. Size yardım ediyorlar mı veya kendilerine yardımları dokunuyor mu?" denilir.
 
@@ -12114,6 +12678,8 @@ Onlar, azgınlar ve İblis'in adamları, hepsi, tepetakla oraya atılırlar.
 
 # 3027
 
+<!-- TODO:DUPLICATE -->
+
 Onlar, azgınlar ve İblis'in adamları, hepsi, tepetakla oraya atılırlar.
 
 # 3028
@@ -12122,25 +12688,37 @@ Orada putlarıyla çekişerek: "Vallahi biz apaçık bir sapıklıkta idik; çü
 
 # 3029
 
+<!-- TODO:DUPLICATE -->
+
 Orada putlarıyla çekişerek: "Vallahi biz apaçık bir sapıklıkta idik; çünkü biz sizi Alemlerin Rabbine eşit tutmuştuk; bizi saptıranlar ancak suçlulardır; şimdi şefaatçimiz, yakın bir dostumuz yoktur; keşke geriye bir dönüşümüz olsa da inananlardan olsak" derler.
 
 # 3030
+
+<!-- TODO:DUPLICATE -->
 
 Orada putlarıyla çekişerek: "Vallahi biz apaçık bir sapıklıkta idik; çünkü biz sizi Alemlerin Rabbine eşit tutmuştuk; bizi saptıranlar ancak suçlulardır; şimdi şefaatçimiz, yakın bir dostumuz yoktur; keşke geriye bir dönüşümüz olsa da inananlardan olsak" derler.
 
 # 3031
 
+<!-- TODO:DUPLICATE -->
+
 Orada putlarıyla çekişerek: "Vallahi biz apaçık bir sapıklıkta idik; çünkü biz sizi Alemlerin Rabbine eşit tutmuştuk; bizi saptıranlar ancak suçlulardır; şimdi şefaatçimiz, yakın bir dostumuz yoktur; keşke geriye bir dönüşümüz olsa da inananlardan olsak" derler.
 
 # 3032
+
+<!-- TODO:DUPLICATE -->
 
 Orada putlarıyla çekişerek: "Vallahi biz apaçık bir sapıklıkta idik; çünkü biz sizi Alemlerin Rabbine eşit tutmuştuk; bizi saptıranlar ancak suçlulardır; şimdi şefaatçimiz, yakın bir dostumuz yoktur; keşke geriye bir dönüşümüz olsa da inananlardan olsak" derler.
 
 # 3033
 
+<!-- TODO:DUPLICATE -->
+
 Orada putlarıyla çekişerek: "Vallahi biz apaçık bir sapıklıkta idik; çünkü biz sizi Alemlerin Rabbine eşit tutmuştuk; bizi saptıranlar ancak suçlulardır; şimdi şefaatçimiz, yakın bir dostumuz yoktur; keşke geriye bir dönüşümüz olsa da inananlardan olsak" derler.
 
 # 3034
+
+<!-- TODO:DUPLICATE -->
 
 Orada putlarıyla çekişerek: "Vallahi biz apaçık bir sapıklıkta idik; çünkü biz sizi Alemlerin Rabbine eşit tutmuştuk; bizi saptıranlar ancak suçlulardır; şimdi şefaatçimiz, yakın bir dostumuz yoktur; keşke geriye bir dönüşümüz olsa da inananlardan olsak" derler.
 
@@ -12162,17 +12740,25 @@ Kardeşleri Nuh, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğru
 
 # 3039
 
+<!-- TODO:DUPLICATE -->
+
 Kardeşleri Nuh, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum. Benim ecrim ancak Alemlerin Rabbine aittir. Artık Allah'tan sakının ve bana itaat edin" dedi.
 
 # 3040
+
+<!-- TODO:DUPLICATE -->
 
 Kardeşleri Nuh, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum. Benim ecrim ancak Alemlerin Rabbine aittir. Artık Allah'tan sakının ve bana itaat edin" dedi.
 
 # 3041
 
+<!-- TODO:DUPLICATE -->
+
 Kardeşleri Nuh, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum. Benim ecrim ancak Alemlerin Rabbine aittir. Artık Allah'tan sakının ve bana itaat edin" dedi.
 
 # 3042
+
+<!-- TODO:DUPLICATE -->
 
 Kardeşleri Nuh, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum. Benim ecrim ancak Alemlerin Rabbine aittir. Artık Allah'tan sakının ve bana itaat edin" dedi.
 
@@ -12186,13 +12772,19 @@ Nuh: "Onların yaptıkları hakkında bir bilgim yoktur; hesabları Rabbime aitt
 
 # 3045
 
+<!-- TODO:DUPLICATE -->
+
 Nuh: "Onların yaptıkları hakkında bir bilgim yoktur; hesabları Rabbime aittir, düşünsenize! Ben inananları kovacak değilim. Ben sadece açıkça uyarıcıyım" dedi.
 
 # 3046
 
+<!-- TODO:DUPLICATE -->
+
 Nuh: "Onların yaptıkları hakkında bir bilgim yoktur; hesabları Rabbime aittir, düşünsenize! Ben inananları kovacak değilim. Ben sadece açıkça uyarıcıyım" dedi.
 
 # 3047
+
+<!-- TODO:DUPLICATE -->
 
 Nuh: "Onların yaptıkları hakkında bir bilgim yoktur; hesabları Rabbime aittir, düşünsenize! Ben inananları kovacak değilim. Ben sadece açıkça uyarıcıyım" dedi.
 
@@ -12205,6 +12797,8 @@ Nuh: "Onların yaptıkları hakkında bir bilgim yoktur; hesabları Rabbime aitt
 Nuh: "Rabbim! Milletim beni yalanladı. Benimle onların arasında Sen hüküm ver. Beni ve beraberimdeki inananları kurtar" dedi.
 
 # 3050
+
+<!-- TODO:DUPLICATE -->
 
 Nuh: "Rabbim! Milletim beni yalanladı. Benimle onların arasında Sen hüküm ver. Beni ve beraberimdeki inananları kurtar" dedi.
 
@@ -12234,45 +12828,67 @@ Kardeşleri Hud, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğru
 
 # 3057
 
+<!-- TODO:DUPLICATE -->
+
 Kardeşleri Hud, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum" dedi.
 
 # 3058
+
+<!-- TODO:DUPLICATE -->
 
 Kardeşleri Hud, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum" dedi.
 
 # 3059
 
+<!-- TODO:DUPLICATE -->
+
 Kardeşleri Hud, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum" dedi.
 
 # 3060
+
+<!-- TODO:DUPLICATE -->
 
 Kardeşleri Hud, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum" dedi.
 
 # 3061
 
+<!-- TODO:DUPLICATE -->
+
 Kardeşleri Hud, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum" dedi.
 
 # 3062
+
+<!-- TODO:DUPLICATE -->
 
 Kardeşleri Hud, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum" dedi.
 
 # 3063
 
+<!-- TODO:DUPLICATE -->
+
 Kardeşleri Hud, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum" dedi.
 
 # 3064
+
+<!-- TODO:DUPLICATE -->
 
 Kardeşleri Hud, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum" dedi.
 
 # 3065
 
+<!-- TODO:DUPLICATE -->
+
 Kardeşleri Hud, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum" dedi.
 
 # 3066
 
+<!-- TODO:DUPLICATE -->
+
 Kardeşleri Hud, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum" dedi.
 
 # 3067
+
+<!-- TODO:DUPLICATE -->
 
 Kardeşleri Hud, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum" dedi.
 
@@ -12285,6 +12901,8 @@ Kardeşleri Hud, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğru
 Bu durumumuz öncekilerin geleneğidir. Biz azaba uğratılacak da değiliz" dediler.
 
 # 3070
+
+<!-- TODO:DUPLICATE -->
 
 Bu durumumuz öncekilerin geleneğidir. Biz azaba uğratılacak da değiliz" dediler.
 
@@ -12306,41 +12924,61 @@ Kardeşleri Salih onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğr
 
 # 3075
 
+<!-- TODO:DUPLICATE -->
+
 Kardeşleri Salih onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin" dedi.
 
 # 3076
+
+<!-- TODO:DUPLICATE -->
 
 Kardeşleri Salih onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin" dedi.
 
 # 3077
 
+<!-- TODO:DUPLICATE -->
+
 Kardeşleri Salih onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin" dedi.
 
 # 3078
+
+<!-- TODO:DUPLICATE -->
 
 Kardeşleri Salih onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin" dedi.
 
 # 3079
 
+<!-- TODO:DUPLICATE -->
+
 Kardeşleri Salih onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin" dedi.
 
 # 3080
+
+<!-- TODO:DUPLICATE -->
 
 Kardeşleri Salih onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin" dedi.
 
 # 3081
 
+<!-- TODO:DUPLICATE -->
+
 Kardeşleri Salih onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin" dedi.
 
 # 3082
+
+<!-- TODO:DUPLICATE -->
 
 Kardeşleri Salih onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin" dedi.
 
 # 3083
 
+<!-- TODO:DUPLICATE -->
+
 Kardeşleri Salih onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin" dedi.
 
 # 3084
+
+<!-- TODO:DUPLICATE -->
 
 Kardeşleri Salih onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin" dedi.
 
@@ -12350,6 +12988,8 @@ Kardeşleri Salih onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğr
 
 # 3086
 
+<!-- TODO:DUPLICATE -->
+
 "Sen şüphesiz büyülenmişin birisin; bizim gibi bir insandan başka birşey değilsin. Eğer doğru sözlü isen bir belge getir" dediler.
 
 # 3087
@@ -12357,6 +12997,8 @@ Kardeşleri Salih onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğr
 Salih: " İşte belge bu devedir. Kuyudan su içmek hakkı belirli bir gün onun ve belirli bir gün de sizindir; sakın ona bir kötülük yapmayın, yoksa sizi büyük günün azabı yakalar" dedi.
 
 # 3088
+
+<!-- TODO:DUPLICATE -->
 
 Salih: " İşte belge bu devedir. Kuyudan su içmek hakkı belirli bir gün onun ve belirli bir gün de sizindir; sakın ona bir kötülük yapmayın, yoksa sizi büyük günün azabı yakalar" dedi.
 
@@ -12382,21 +13024,31 @@ Kardeşleri Lut, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğru
 
 # 3094
 
+<!-- TODO:DUPLICATE -->
+
 Kardeşleri Lut, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Rabbinizin sizin için yarattığı eşleri bırakıp da, insanlar arasında, erkeklere mi yaklaşıyorsunuz? Doğrusu siz azmış bir milletsiniz" dedi.
 
 # 3095
+
+<!-- TODO:DUPLICATE -->
 
 Kardeşleri Lut, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Rabbinizin sizin için yarattığı eşleri bırakıp da, insanlar arasında, erkeklere mi yaklaşıyorsunuz? Doğrusu siz azmış bir milletsiniz" dedi.
 
 # 3096
 
+<!-- TODO:DUPLICATE -->
+
 Kardeşleri Lut, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Rabbinizin sizin için yarattığı eşleri bırakıp da, insanlar arasında, erkeklere mi yaklaşıyorsunuz? Doğrusu siz azmış bir milletsiniz" dedi.
 
 # 3097
 
+<!-- TODO:DUPLICATE -->
+
 Kardeşleri Lut, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Rabbinizin sizin için yarattığı eşleri bırakıp da, insanlar arasında, erkeklere mi yaklaşıyorsunuz? Doğrusu siz azmış bir milletsiniz" dedi.
 
 # 3098
+
+<!-- TODO:DUPLICATE -->
 
 Kardeşleri Lut, onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Rabbinizin sizin için yarattığı eşleri bırakıp da, insanlar arasında, erkeklere mi yaklaşıyorsunuz? Doğrusu siz azmış bir milletsiniz" dedi.
 
@@ -12410,6 +13062,8 @@ Lut: "Doğrusu yaptığınıza çok kızanlardanım. Rabbim! Beni ve ailemi bunl
 
 # 3101
 
+<!-- TODO:DUPLICATE -->
+
 Lut: "Doğrusu yaptığınıza çok kızanlardanım. Rabbim! Beni ve ailemi bunların yapageldiği kötülükten kurtar" dedi.
 
 # 3102
@@ -12417,6 +13071,8 @@ Lut: "Doğrusu yaptığınıza çok kızanlardanım. Rabbim! Beni ve ailemi bunl
 Bunun üzerine geride kalan yaşlı bir kadın dışında, onu ve ailesini, hepsini kurtardık.
 
 # 3103
+
+<!-- TODO:DUPLICATE -->
 
 Bunun üzerine geride kalan yaşlı bir kadın dışında, onu ve ailesini, hepsini kurtardık.
 
@@ -12446,29 +13102,43 @@ Ormanlık yerde oturanlar, Eykeliler de peygamberleri yalanladı.
 
 # 3110
 
+<!-- TODO:DUPLICATE -->
+
 Şuayb onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. Doğru terazi ile tartın. İnsanların hakkını azaltmayın. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın. Sizi ve daha önceki nesilleri yaratandan korkun" dedi.
 
 # 3111
+
+<!-- TODO:DUPLICATE -->
 
 Şuayb onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. Doğru terazi ile tartın. İnsanların hakkını azaltmayın. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın. Sizi ve daha önceki nesilleri yaratandan korkun" dedi.
 
 # 3112
 
+<!-- TODO:DUPLICATE -->
+
 Şuayb onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. Doğru terazi ile tartın. İnsanların hakkını azaltmayın. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın. Sizi ve daha önceki nesilleri yaratandan korkun" dedi.
 
 # 3113
+
+<!-- TODO:DUPLICATE -->
 
 Şuayb onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. Doğru terazi ile tartın. İnsanların hakkını azaltmayın. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın. Sizi ve daha önceki nesilleri yaratandan korkun" dedi.
 
 # 3114
 
+<!-- TODO:DUPLICATE -->
+
 Şuayb onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. Doğru terazi ile tartın. İnsanların hakkını azaltmayın. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın. Sizi ve daha önceki nesilleri yaratandan korkun" dedi.
 
 # 3115
 
+<!-- TODO:DUPLICATE -->
+
 Şuayb onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. Doğru terazi ile tartın. İnsanların hakkını azaltmayın. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın. Sizi ve daha önceki nesilleri yaratandan korkun" dedi.
 
 # 3116
+
+<!-- TODO:DUPLICATE -->
 
 Şuayb onlara: "Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. Doğru terazi ile tartın. İnsanların hakkını azaltmayın. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın. Sizi ve daha önceki nesilleri yaratandan korkun" dedi.
 
@@ -12478,9 +13148,13 @@ Ormanlık yerde oturanlar, Eykeliler de peygamberleri yalanladı.
 
 # 3118
 
+<!-- TODO:DUPLICATE -->
+
 "Sen ancak büyülenmişin birisin. Bizim gibi bir insandan başka bir şey değilsin. Doğrusu seni yalancılardan sanıyoruz. Eğer doğru sözlü isen göğün bir parçasını üstümüze düşür" dediler.
 
 # 3119
+
+<!-- TODO:DUPLICATE -->
 
 "Sen ancak büyülenmişin birisin. Bizim gibi bir insandan başka bir şey değilsin. Doğrusu seni yalancılardan sanıyoruz. Eğer doğru sözlü isen göğün bir parçasını üstümüze düşür" dediler.
 
@@ -12510,9 +13184,13 @@ Apaçık Arap diliyle, uyaranlardan olman için onu Cebrail senin kalbine indirm
 
 # 3126
 
+<!-- TODO:DUPLICATE -->
+
 Apaçık Arap diliyle, uyaranlardan olman için onu Cebrail senin kalbine indirmiştir.
 
 # 3127
+
+<!-- TODO:DUPLICATE -->
 
 Apaçık Arap diliyle, uyaranlardan olman için onu Cebrail senin kalbine indirmiştir.
 
@@ -12530,6 +13208,8 @@ Biz Kuran'ı Arapça bilmeyen kimselerden birine indirseydik de o bunları okusa
 
 # 3131
 
+<!-- TODO:DUPLICATE -->
+
 Biz Kuran'ı Arapça bilmeyen kimselerden birine indirseydik de o bunları okusaydı yine de ona inanmazlardı.
 
 # 3132
@@ -12538,9 +13218,13 @@ Suçluların kalblerine Kuran'ı böylece sokarız da, can yakıcı azabı görm
 
 # 3133
 
+<!-- TODO:DUPLICATE -->
+
 Suçluların kalblerine Kuran'ı böylece sokarız da, can yakıcı azabı görmedikçe ona inanmazlar. Bu azap onlara haberleri olmadan geliverecektir.
 
 # 3134
+
+<!-- TODO:DUPLICATE -->
 
 Suçluların kalblerine Kuran'ı böylece sokarız da, can yakıcı azabı görmedikçe ona inanmazlar. Bu azap onlara haberleri olmadan geliverecektir.
 
@@ -12558,9 +13242,13 @@ Söylesene, Biz onlara yıllar yılı nimetler vermiş olsak, sonra da tehdit ed
 
 # 3138
 
+<!-- TODO:DUPLICATE -->
+
 Söylesene, Biz onlara yıllar yılı nimetler vermiş olsak, sonra da tehdit edildikleri şey başlarına gelse, kendilerine verilmiş olan nimetler onlara bir fayda sağlar mı?
 
 # 3139
+
+<!-- TODO:DUPLICATE -->
 
 Söylesene, Biz onlara yıllar yılı nimetler vermiş olsak, sonra da tehdit edildikleri şey başlarına gelse, kendilerine verilmiş olan nimetler onlara bir fayda sağlar mı?
 
@@ -12569,6 +13257,8 @@ Söylesene, Biz onlara yıllar yılı nimetler vermiş olsak, sonra da tehdit ed
 Hiçbir kent halkını kendilerine öğüt veren uyarıcılar gelmeden yok etmedik. Biz zalim değiliz.
 
 # 3141
+
+<!-- TODO:DUPLICATE -->
 
 Hiçbir kent halkını kendilerine öğüt veren uyarıcılar gelmeden yok etmedik. Biz zalim değiliz.
 
@@ -12606,13 +13296,19 @@ Senin kalkıp namaz kılanlar arasında bulunduğunu gören, güçlü ve merhame
 
 # 3150
 
+<!-- TODO:DUPLICATE -->
+
 Senin kalkıp namaz kılanlar arasında bulunduğunu gören, güçlü ve merhametli olan Allah'a güven. Doğrusu O işitir ve bilir.
 
 # 3151
 
+<!-- TODO:DUPLICATE -->
+
 Senin kalkıp namaz kılanlar arasında bulunduğunu gören, güçlü ve merhametli olan Allah'a güven. Doğrusu O işitir ve bilir.
 
 # 3152
+
+<!-- TODO:DUPLICATE -->
 
 Senin kalkıp namaz kılanlar arasında bulunduğunu gören, güçlü ve merhametli olan Allah'a güven. Doğrusu O işitir ve bilir.
 
@@ -12638,6 +13334,8 @@ Onların her vadide şaşkın şaşkın dolaştıklarını ve yapmadıklarını 
 
 # 3158
 
+<!-- TODO:DUPLICATE -->
+
 Onların her vadide şaşkın şaşkın dolaştıklarını ve yapmadıklarını yaptık dediklerini görmez misin?
 
 # 3159
@@ -12653,6 +13351,8 @@ Ta, Sin, Bunlar Kuran'ın, Kitab-ı Mübin'in ayetleridir.
 Bunlar, namaz kılan, zekat veren ve ahirete de kesin olarak inanan müminlere doğruluk rehberi ve müjdedir.
 
 # 3162
+
+<!-- TODO:DUPLICATE -->
 
 Bunlar, namaz kılan, zekat veren ve ahirete de kesin olarak inanan müminlere doğruluk rehberi ve müjdedir.
 
@@ -12686,9 +13386,13 @@ Oraya geldiğinde, kendisine şöyle nida olunmuştu: "Ateşin yanında olan ve 
 
 # 3170
 
+<!-- TODO:DUPLICATE -->
+
 "Değneğini at!" Musa, değneğinin yılan gibi hareketler yaptığını görünce, arkasına bakmadan dönüp kaçtı. "Ey Musa! Korkma; Benim katımda peygamberler korkmaz; yalnız haksızlık eden bunun dışındadır. Kötü hali iyiliğe çeviren kimse bilsin ki Ben şüphesiz bağışlarım, merhamet ederim. Elini koynuna sok, Firavun ve milletine gönderilen dokuz mucizeden biri olarak kusursuz, bembeyaz çıksın. Gerçekten onlar yoldan çıkmış bir millettir."
 
 # 3171
+
+<!-- TODO:DUPLICATE -->
 
 "Değneğini at!" Musa, değneğinin yılan gibi hareketler yaptığını görünce, arkasına bakmadan dönüp kaçtı. "Ey Musa! Korkma; Benim katımda peygamberler korkmaz; yalnız haksızlık eden bunun dışındadır. Kötü hali iyiliğe çeviren kimse bilsin ki Ben şüphesiz bağışlarım, merhamet ederim. Elini koynuna sok, Firavun ve milletine gönderilen dokuz mucizeden biri olarak kusursuz, bembeyaz çıksın. Gerçekten onlar yoldan çıkmış bir millettir."
 
@@ -12726,6 +13430,8 @@ Süleyman, kuşları araştırarak: "Hüdhüd'ü niçin göremiyorum? Yoksa kay�
 
 # 3180
 
+<!-- TODO:DUPLICATE -->
+
 Süleyman, kuşları araştırarak: "Hüdhüd'ü niçin göremiyorum? Yoksa kayıplarda mı? Bana apaçık bir delil getirmelidir; yoksa onu ya şiddetli bir azaba uğratırım yahut keserim" dedi.
 
 # 3181
@@ -12734,17 +13440,25 @@ Süleyman, kuşları araştırarak: "Hüdhüd'ü niçin göremiyorum? Yoksa kay�
 
 # 3182
 
+<!-- TODO:DUPLICATE -->
+
 Çok geçmeden Hüdhüd gelip Süleyman'a: "Senin bilmediğin bir şeyi öğrendim. Sana Sebe'den doğru bir haber getirdim. Ora halkına hükmeden, herşeyden kendisine bolca verilen ve büyük bir tahta sahip olan bir kadın buldum; onun ve milletinin Allah'ı bırakıp güneşe secde ettiklerini gördüm. Göklerde ve yerde gizli olanları ortaya koyan, gizlediğiniz ve açıkladığınız şeyleri bilen Allah'a secde etmemeleri için şeytan, kendilerine, yaptıklarını güzel göstermiş, onları doğru yoldan alıkoymuştur. Bunun için, doğru yolu bulamazlar. O çok büyük arşın sahibi olan Allah'tan başka tanrı yoktur" dedi.
 
 # 3183
+
+<!-- TODO:DUPLICATE -->
 
 Çok geçmeden Hüdhüd gelip Süleyman'a: "Senin bilmediğin bir şeyi öğrendim. Sana Sebe'den doğru bir haber getirdim. Ora halkına hükmeden, herşeyden kendisine bolca verilen ve büyük bir tahta sahip olan bir kadın buldum; onun ve milletinin Allah'ı bırakıp güneşe secde ettiklerini gördüm. Göklerde ve yerde gizli olanları ortaya koyan, gizlediğiniz ve açıkladığınız şeyleri bilen Allah'a secde etmemeleri için şeytan, kendilerine, yaptıklarını güzel göstermiş, onları doğru yoldan alıkoymuştur. Bunun için, doğru yolu bulamazlar. O çok büyük arşın sahibi olan Allah'tan başka tanrı yoktur" dedi.
 
 # 3184
 
+<!-- TODO:DUPLICATE -->
+
 Çok geçmeden Hüdhüd gelip Süleyman'a: "Senin bilmediğin bir şeyi öğrendim. Sana Sebe'den doğru bir haber getirdim. Ora halkına hükmeden, herşeyden kendisine bolca verilen ve büyük bir tahta sahip olan bir kadın buldum; onun ve milletinin Allah'ı bırakıp güneşe secde ettiklerini gördüm. Göklerde ve yerde gizli olanları ortaya koyan, gizlediğiniz ve açıkladığınız şeyleri bilen Allah'a secde etmemeleri için şeytan, kendilerine, yaptıklarını güzel göstermiş, onları doğru yoldan alıkoymuştur. Bunun için, doğru yolu bulamazlar. O çok büyük arşın sahibi olan Allah'tan başka tanrı yoktur" dedi.
 
 # 3185
+
+<!-- TODO:DUPLICATE -->
 
 Çok geçmeden Hüdhüd gelip Süleyman'a: "Senin bilmediğin bir şeyi öğrendim. Sana Sebe'den doğru bir haber getirdim. Ora halkına hükmeden, herşeyden kendisine bolca verilen ve büyük bir tahta sahip olan bir kadın buldum; onun ve milletinin Allah'ı bırakıp güneşe secde ettiklerini gördüm. Göklerde ve yerde gizli olanları ortaya koyan, gizlediğiniz ve açıkladığınız şeyleri bilen Allah'a secde etmemeleri için şeytan, kendilerine, yaptıklarını güzel göstermiş, onları doğru yoldan alıkoymuştur. Bunun için, doğru yolu bulamazlar. O çok büyük arşın sahibi olan Allah'tan başka tanrı yoktur" dedi.
 
@@ -12762,9 +13476,13 @@ Sebe melikesi: "Ey ileri gelenler! Bana, Bismillahirrahmanirrahim diye başlayan
 
 # 3189
 
+<!-- TODO:DUPLICATE -->
+
 Sebe melikesi: "Ey ileri gelenler! Bana, Bismillahirrahmanirrahim diye başlayan ve 'sakın bana karşı baş kaldırmayın ve teslim olarak gelin' diyen Süleyman'dan gönderilen önemli bir mektup bırakıldı" dedi.
 
 # 3190
+
+<!-- TODO:DUPLICATE -->
 
 Sebe melikesi: "Ey ileri gelenler! Bana, Bismillahirrahmanirrahim diye başlayan ve 'sakın bana karşı baş kaldırmayın ve teslim olarak gelin' diyen Süleyman'dan gönderilen önemli bir mektup bırakıldı" dedi.
 
@@ -12782,6 +13500,8 @@ Melike: "Doğrusu hükümdarlar bir şehre girdikleri zaman orasını bozarlar, 
 
 # 3194
 
+<!-- TODO:DUPLICATE -->
+
 Melike: "Doğrusu hükümdarlar bir şehre girdikleri zaman orasını bozarlar, onurlu kimselerini aşağılık yaparlar. İşte böyle davranırlar. Ben onlara bir hediye göndereyim de, elçilerin ne ile döneceklerine bakayım" dedi.
 
 # 3195
@@ -12789,6 +13509,8 @@ Melike: "Doğrusu hükümdarlar bir şehre girdikleri zaman orasını bozarlar, 
 Süleyman'a geldiklerinde: "Bana mal ile yardım etmek mi istiyorsunuz? Allah'ın bana verdiği size verdiğinden daha iyidir. Ama belki de siz hediyenizle sevinirsiniz. Onlara dön! And olsun ki, güç yetiremeyecekleri bir ordu ile gelir onları oradan alçalmış ve küçük düşmüş olarak çıkarırız" dedi.
 
 # 3196
+
+<!-- TODO:DUPLICATE -->
 
 Süleyman'a geldiklerinde: "Bana mal ile yardım etmek mi istiyorsunuz? Allah'ın bana verdiği size verdiğinden daha iyidir. Ama belki de siz hediyenizle sevinirsiniz. Onlara dön! And olsun ki, güç yetiremeyecekleri bir ordu ile gelir onları oradan alçalmış ve küçük düşmüş olarak çıkarırız" dedi.
 
@@ -12914,6 +13636,8 @@ Ahirete dair bilgileri yeterli midir? Hayır; ondan şüphe etmektedirler. Hayı
 
 # 3227
 
+<!-- TODO:DUPLICATE -->
+
 İnkar edenler: "Biz ve babalarımız toprak olduğumuzda mı, doğrusu bizler mi tekrar çıkarılacağız? Bununla biz de, daha önce babalarımız da, and olsun ki, tehdit edilmiştik. Bu, öncekilerin masallarından başka bir şey değildir" dediler.
 
 # 3228
@@ -13010,6 +13734,8 @@ De ki: "Ben, yalnız her şeyin sahibi olan ve bu kutlu kılınmış şehrin Rab
 
 # 3251
 
+<!-- TODO:DUPLICATE -->
+
 De ki: "Ben, yalnız her şeyin sahibi olan ve bu kutlu kılınmış şehrin Rabbine kulluk etmekle emrolundum. Müslümanlardan olmakla ve Kuran okumakla emrolundum." Kim doğru yolu bulmuşsa, yalnız kendisi için bulmuş olur, kim sapıtmışsa kendine etmiş olur. De ki: "Ben sadece, uyaranlardan biriyim."
 
 # 3252
@@ -13037,6 +13763,8 @@ Firavun memleketin başına geçti ve halkını fırkalara ayırdı. İçlerinde
 Biz, memlekette güçsüz sayılanlara iyilikte bulunmak, onları önderler kılmak, onları varis yapmak, memlekete yerleştirmek; Firavun, Haman ve her ikisinin askerlerine, çekinmekte oldukları şeyleri göstermek istiyorduk.
 
 # 3258
+
+<!-- TODO:DUPLICATE -->
 
 Biz, memlekette güçsüz sayılanlara iyilikte bulunmak, onları önderler kılmak, onları varis yapmak, memlekete yerleştirmek; Firavun, Haman ve her ikisinin askerlerine, çekinmekte oldukları şeyleri göstermek istiyorduk.
 
@@ -13149,6 +13877,8 @@ Oraya gelince, kutlu yerdeki vadinin sağ yanındaki ağaç cihetinden: "Ey Musa
 Musa: "Rabbim! Doğrusu ben onlardan bir cana kıydım. Beni öldürmelerinden korkarım. Kardeşim Harun'un dili benimkinden daha düzgündür. Onu, beni destekleyen bir yardımcı olarak benimle gönder, çünkü beni yalanlamalarından korkarım" dedi.
 
 # 3286
+
+<!-- TODO:DUPLICATE -->
 
 Musa: "Rabbim! Doğrusu ben onlardan bir cana kıydım. Beni öldürmelerinden korkarım. Kardeşim Harun'un dili benimkinden daha düzgündür. Onu, beni destekleyen bir yardımcı olarak benimle gönder, çünkü beni yalanlamalarından korkarım" dedi.
 
@@ -13322,6 +14052,8 @@ Karun, Musa'nın milletindendi; ama onlara karşı azdı. Biz ona, anahtarların
 
 # 3329
 
+<!-- TODO:DUPLICATE -->
+
 Karun, Musa'nın milletindendi; ama onlara karşı azdı. Biz ona, anahtarlarını güçlü bir topluluğun zor taşıdığı hazineler vermiştik. Milleti ona: "Böbürlenme, Allah şüphesiz ki böbürlenenleri sevmez. Allah'ın sana verdiği şeylerde, ahiret yurdunu gözet, dünyadaki payını da unutma; Allah'ın sana yaptığı iyilik gibi, sen de iyilik yap; yeryüzünde bozgunculuk isteme; doğrusu Allah bozguncuları sevmez" demişlerdi.
 
 # 3330
@@ -13377,6 +14109,8 @@ Elif, Lam, Mim.
 And olsun, biz kendilerinden öncekileri de denemişken, insanlar, "İnandık" deyince, denenmeden bırakılacaklarını mı sanırlar? Allah elbette doğruları ortaya koyacak ve elbette yalancıları da ortaya çıkaracaktır.
 
 # 3343
+
+<!-- TODO:DUPLICATE -->
 
 And olsun, biz kendilerinden öncekileri de denemişken, insanlar, "İnandık" deyince, denenmeden bırakılacaklarını mı sanırlar? Allah elbette doğruları ortaya koyacak ve elbette yalancıları da ortaya çıkaracaktır.
 
@@ -13450,6 +14184,8 @@ De ki: "Yeryüzünde dolaşın; Allah'ın yaratmaya nasıl başladığını bir 
 
 # 3361
 
+<!-- TODO:DUPLICATE -->
+
 De ki: "Yeryüzünde dolaşın; Allah'ın yaratmaya nasıl başladığını bir görün. İşte Allah aynı şekilde ahiret yaratmasını da yapacaktır. Doğrusu Allah her şeye Kadir'dir. Dilediğine azabeder, dilediğine merhamet eder. O'na çevrileceksiniz.
 
 # 3362
@@ -13501,6 +14237,8 @@ Elçilerimiz İbrahim'e müjde ile geldiklerinde: "Biz şu kent halkını yok ed
 Elçilerimiz Lut'a gelince, onun fenasına gitti; çok sıkıldı. Ona, "Korkma ve üzülme, doğrusu biz seni ve geride kalacaklardan olan karının dışında, aileni kurtaracağız. Bu kent halkına yaptıkları yolsuzluklardan ötürü gökten, elbette bir azap indireceğiz" dediler.
 
 # 3374
+
+<!-- TODO:DUPLICATE -->
 
 Elçilerimiz Lut'a gelince, onun fenasına gitti; çok sıkıldı. Ona, "Korkma ve üzülme, doğrusu biz seni ve geride kalacaklardan olan karının dışında, aileni kurtaracağız. Bu kent halkına yaptıkları yolsuzluklardan ötürü gökten, elbette bir azap indireceğiz" dediler.
 
@@ -13586,6 +14324,8 @@ Senden azabı acele bekliyorlar. Doğrusu azap tepelerinden, ayaklarının altı
 
 # 3395
 
+<!-- TODO:DUPLICATE -->
+
 Senden azabı acele bekliyorlar. Doğrusu azap tepelerinden, ayaklarının altından kendilerini içine aldığı gün, cehennem inkarcıları kuşatacaktır. O gün Allah: "Yaptıklarınızın karşılığını tadın" der.
 
 # 3396
@@ -13601,6 +14341,8 @@ Her can ölümü tadacaktır. Sonunda Bize döneceksiniz.
 İnanıp yararlı iş işleyenleri, içlerinden ırmaklar akan, içinde temelli kalacakları cennetteki köşklere yerleştiririz. Sabredip, Rablerine güvenerek iş görenlerin ecri ne güzeldir!
 
 # 3399
+
+<!-- TODO:DUPLICATE -->
 
 İnanıp yararlı iş işleyenleri, içlerinden ırmaklar akan, içinde temelli kalacakları cennetteki köşklere yerleştiririz. Sabredip, Rablerine güvenerek iş görenlerin ecri ne güzeldir!
 
@@ -13630,6 +14372,8 @@ Gemiye bindikleri zaman, dini yalnız Allah'a has kılarak O'na yalvarırlar; am
 
 # 3406
 
+<!-- TODO:DUPLICATE -->
+
 Gemiye bindikleri zaman, dini yalnız Allah'a has kılarak O'na yalvarırlar; ama Allah onları karaya çıkararak kurtarınca, kendilerine verdiği nimete nankörlük ederek O'na hemen eş koşarlar. Zevklensinler bakalım, yakında bileceklerdir.
 
 # 3407
@@ -13654,13 +14398,19 @@ Rumlar en yakın bir yerde yenildiler. Onlar bu yenilgilerinden bir kaç yıl so
 
 # 3412
 
+<!-- TODO:DUPLICATE -->
+
 Rumlar en yakın bir yerde yenildiler. Onlar bu yenilgilerinden bir kaç yıl sonra galip geleceklerdir. İş, eninde sonunda Allah'a aittir. İşte o gün, inananlar, istediğine yardım eden Allah'ın yardımına sevineceklerdir. O güçlüdür, merhametlidir.
 
 # 3413
 
+<!-- TODO:DUPLICATE -->
+
 Rumlar en yakın bir yerde yenildiler. Onlar bu yenilgilerinden bir kaç yıl sonra galip geleceklerdir. İş, eninde sonunda Allah'a aittir. İşte o gün, inananlar, istediğine yardım eden Allah'ın yardımına sevineceklerdir. O güçlüdür, merhametlidir.
 
 # 3414
+
+<!-- TODO:DUPLICATE -->
 
 Rumlar en yakın bir yerde yenildiler. Onlar bu yenilgilerinden bir kaç yıl sonra galip geleceklerdir. İş, eninde sonunda Allah'a aittir. İşte o gün, inananlar, istediğine yardım eden Allah'ın yardımına sevineceklerdir. O güçlüdür, merhametlidir.
 
@@ -13713,6 +14463,8 @@ Ama inanıp yararlı iş işleyenler, ağırlanacakları bir cennette bulunurlar
 Akşamlarken ve sabahlarken, öğle ve ikindi vaktinde Allah'ı -ki göklerde ve yerde hamd O'na mahsustur- tesbih edin, namaz kılın.
 
 # 3427
+
+<!-- TODO:DUPLICATE -->
 
 Akşamlarken ve sabahlarken, öğle ve ikindi vaktinde Allah'ı -ki göklerde ve yerde hamd O'na mahsustur- tesbih edin, namaz kılın.
 
@@ -13770,6 +14522,8 @@ Allah'a yönelerek O'na karşı gelmekten sakınınız, namaz kılınız, dinler
 
 # 3441
 
+<!-- TODO:DUPLICATE -->
+
 Allah'a yönelerek O'na karşı gelmekten sakınınız, namaz kılınız, dinlerinde ayrılığa düşüp fırka fırka olan, her fırkasının da kendisinde bulunanla sevindiği müşriklerden olmayınız.
 
 # 3442
@@ -13777,6 +14531,8 @@ Allah'a yönelerek O'na karşı gelmekten sakınınız, namaz kılınız, dinler
 İnsanlar bir darlığa uğrayınca Rablerine dönerek O'na yalvarırlar, sonra Allah katından onlara bir rahmet tattırınca içlerinden bir takımı kendilerine verdiklerimize nankörlük ederek Rablerine eş koşarlar. Safa sürün bakalım, yakında göreceksiniz.
 
 # 3443
+
+<!-- TODO:DUPLICATE -->
 
 İnsanlar bir darlığa uğrayınca Rablerine dönerek O'na yalvarırlar, sonra Allah katından onlara bir rahmet tattırınca içlerinden bir takımı kendilerine verdiklerimize nankörlük ederek Rablerine eş koşarlar. Safa sürün bakalım, yakında göreceksiniz.
 
@@ -13838,6 +14594,8 @@ Rüzgarları gönderip bulutları yürüten, onları gökte dilediği gibi yayan
 
 # 3458
 
+<!-- TODO:DUPLICATE -->
+
 Rüzgarları gönderip bulutları yürüten, onları gökte dilediği gibi yayan ve küme küme yığan Allah'tır. Artık sen de aralarından yağmurun çıktığını görürsün. Allah'ın kullarından dilediğine verdiği yağmurla, daha önceden kendilerine yağmur indirilmesinden ümidlerini kesmiş oldukları için onlar seviniverirler.
 
 # 3459
@@ -13894,6 +14652,8 @@ Bunlar, iyi davranan kimseler için rahmet ve doğru yol rehberi olan hikmetli K
 
 # 3472
 
+<!-- TODO:DUPLICATE -->
+
 Bunlar, iyi davranan kimseler için rahmet ve doğru yol rehberi olan hikmetli Kitap'ın ayetleridir.
 
 # 3473
@@ -13917,6 +14677,8 @@ Ayetlerimiz sapık kimseye okunduğu zaman sanki kulaklarında ağırlık var da
 İnanıp yararlı iş işleyenler için, Allah'ın vadi gereğince temelli kalacakları nimet cennetleri vardır. O; güçlüdür, hakim'dir.
 
 # 3478
+
+<!-- TODO:DUPLICATE -->
 
 İnanıp yararlı iş işleyenler için, Allah'ın vadi gereğince temelli kalacakları nimet cennetleri vardır. O; güçlüdür, hakim'dir.
 
@@ -14050,9 +14812,13 @@ Yarattığı her şeyi güzel yaratan, insanı başlangıçta çamurdan yaratan,
 
 # 3511
 
+<!-- TODO:DUPLICATE -->
+
 Yarattığı her şeyi güzel yaratan, insanı başlangıçta çamurdan yaratan, sonra onun soyunu, bayağı bir suyun özünden yapan, sonra onu şekillendirip ruhundan ona üfleyen Allah'tır. Size kulaklar, gözler, kalbler verilmiştir. Öyleyken, pek az şükrediyorsunuz.
 
 # 3512
+
+<!-- TODO:DUPLICATE -->
 
 Yarattığı her şeyi güzel yaratan, insanı başlangıçta çamurdan yaratan, sonra onun soyunu, bayağı bir suyun özünden yapan, sonra onu şekillendirip ruhundan ona üfleyen Allah'tır. Size kulaklar, gözler, kalbler verilmiştir. Öyleyken, pek az şükrediyorsunuz.
 
@@ -14081,6 +14847,8 @@ Biz dilesek herkese hidayet verirdik, fakat cehennemi tamamen cin ve insanlarla 
 Ayetlerimize ancak, kendilerine hatırlatıldığı zaman secdeye kapananlar, büyüklük taslamayarak Rablerini överek yüceltenler, vücudlarını yataklardan uzak tutup korkarak ve umarak Rablerine yalvaranlar ve verdiğimiz rızıklardan sarfedenler inanır.
 
 # 3519
+
+<!-- TODO:DUPLICATE -->
 
 Ayetlerimize ancak, kendilerine hatırlatıldığı zaman secdeye kapananlar, büyüklük taslamayarak Rablerini överek yüceltenler, vücudlarını yataklardan uzak tutup korkarak ve umarak Rablerine yalvaranlar ve verdiğimiz rızıklardan sarfedenler inanır.
 
@@ -14214,6 +14982,8 @@ Allah, içinizden sizi alıkoyanları, size Allah'ın yardımını kıskanarak, 
 
 # 3552
 
+<!-- TODO:DUPLICATE -->
+
 Allah, içinizden sizi alıkoyanları, size Allah'ın yardımını kıskanarak, kardeşlerine "Bize gelin, zorlanmadıkça savaşa gitmeyin" diyenleri bilir. Kalblerine korku gelince ölüm baygınlığı geçiren kimse gibi gözleri dönerek, sana baktıklarını görürsün. Korkuları gidince iyiliğinize olanı çekemeyip sivri dilleriyle sizi incitirler. Bunlar inanmamışlardır, Allah, bu sebeple işlerini boşa çıkarmıştır; bu, Allah için kolaydır.
 
 # 3553
@@ -14322,6 +15092,8 @@ Biz seni şahit, müjdeci, uyarıcı; Allah'ın izniyle O'na çağıran, nurland
 
 # 3579
 
+<!-- TODO:DUPLICATE -->
+
 Biz seni şahit, müjdeci, uyarıcı; Allah'ın izniyle O'na çağıran, nurlandıran bir ışık olarak göndermişizdir.
 
 # 3580
@@ -14398,6 +15170,8 @@ Allah şüphesiz, inkarcılara lanet etmiş ve onlara içinde sonsuz olarak teme
 
 # 3598
 
+<!-- TODO:DUPLICATE -->
+
 Allah şüphesiz, inkarcılara lanet etmiş ve onlara içinde sonsuz olarak temelli kalacakları çılgın alevli cehennemi hazırlamıştır. Onlar bir dost ve yardımcı bulamazlar.
 
 # 3599
@@ -14410,6 +15184,8 @@ Yüzleri ateşte çevrildiği gün: "Keşke Allah'a itaat etseydik, keşke Peyga
 
 # 3601
 
+<!-- TODO:DUPLICATE -->
+
 "Rabbimiz! Biz yöneticilerimize ve büyüklerimize itaat etmiştik, fakat onlar bizi yoldan saptırdılar.", "Rabbimiz! Onlara iki kat azap ver, onları büyük bir lanete uğrat" derler.
 
 # 3602
@@ -14421,6 +15197,8 @@ Ey inananlar! Musa'yı incitenler gibi olmayın. Nitekim Allah onu, söyledikler
 Ey inananlar! Allah'tan sakının, dürüst söz söyleyin de Allah işlerinizi kendinize yararlı kılsın ve günahlarınızı size bağışlasın. Kim Allah'a ve Peygamber'ine itaat ederse, şüphesiz büyük bir kurtuluşa ermiş olur.
 
 # 3604
+
+<!-- TODO:DUPLICATE -->
 
 Ey inananlar! Allah'tan sakının, dürüst söz söyleyin de Allah işlerinizi kendinize yararlı kılsın ve günahlarınızı size bağışlasın. Kim Allah'a ve Peygamber'ine itaat ederse, şüphesiz büyük bir kurtuluşa ermiş olur.
 
@@ -14450,6 +15228,8 @@ Allah'ın, inanıp yararlı iş işleyenlere ki onlar için mağfiret ve cömert
 
 # 3611
 
+<!-- TODO:DUPLICATE -->
+
 Allah'ın, inanıp yararlı iş işleyenlere ki onlar için mağfiret ve cömertçe verilmiş rızık vardır ve ayetlerimizi hükümsüz bırakmak için yarışanlara ki onlara iğrenç ve can yakıcı azap vardır işlerinin karşılıklarını vermesi için kıyamet saati gelecektir.
 
 # 3612
@@ -14462,6 +15242,8 @@ Kendilerine ilim verilenler, sana Rabbinden indirilenin hak olduğunu, güçlü 
 
 # 3614
 
+<!-- TODO:DUPLICATE -->
+
 İnkar edenler, insanlara: "Size, siz parça parça dağılıp yok olduğunuz zaman yeniden dirileceğinizi haber veren bir adam gösterelim mi? Allah'a karşı yalan mı uyduruyor, yoksa kendisinde delilik mi vardır?" derler. Hayır; ahirete inanmayanlar, azapta ve derin bir sapıklık içindedirler.
 
 # 3615
@@ -14473,6 +15255,8 @@ Kendilerine ilim verilenler, sana Rabbinden indirilenin hak olduğunu, güçlü 
 "Ey dağlar ve kuşlar! Davud tesbih ettikçe siz de onu tekrarlayın" diyerek and olsun ki, ona katımızdan lütufta bulunduk; "geniş zırhlar yap, dokumasını sağlam tut" diye ona demiri yumuşak kıldık. Yararlı iş işleyin; doğrusu Ben yaptıklarınızı görenim.
 
 # 3617
+
+<!-- TODO:DUPLICATE -->
 
 "Ey dağlar ve kuşlar! Davud tesbih ettikçe siz de onu tekrarlayın" diyerek and olsun ki, ona katımızdan lütufta bulunduk; "geniş zırhlar yap, dokumasını sağlam tut" diye ona demiri yumuşak kıldık. Yararlı iş işleyin; doğrusu Ben yaptıklarınızı görenim.
 
@@ -14638,6 +15422,8 @@ Onları korktukları zaman bir görsen; artık kurtuluş yoktur, cehenneme yakı
 
 # 3658
 
+<!-- TODO:DUPLICATE -->
+
 Onları korktukları zaman bir görsen; artık kurtuluş yoktur, cehenneme yakın bir yerde yakalanmışlardır. O zaman, "Allah'a inandık" derler ama, ahiret gibi uzak bir yerden imana nasıl kolayca ulaşırlar?
 
 # 3659
@@ -14726,9 +15512,13 @@ Kör ile gören, karanlıklar ile ışık ve gölgelikle sıcaklık bir değildi
 
 # 3680
 
+<!-- TODO:DUPLICATE -->
+
 Kör ile gören, karanlıklar ile ışık ve gölgelikle sıcaklık bir değildir.
 
 # 3681
+
+<!-- TODO:DUPLICATE -->
 
 Kör ile gören, karanlıklar ile ışık ve gölgelikle sıcaklık bir değildir.
 
@@ -14818,6 +15608,8 @@ Kendilerine bir uyarıcı gelince, ümmetler içinde en doğru yolda gidenlerden
 
 # 3703
 
+<!-- TODO:DUPLICATE -->
+
 Kendilerine bir uyarıcı gelince, ümmetler içinde en doğru yolda gidenlerden biri olacaklarına, and olsun ki, bütün güçleriyle Allah'a yemin etmişlerdi; fakat kendilerine uyarıcının gelmesi, yeryüzünde büyüklük taslamak ve kötü düzen kurmak ile uğraştıklarından sadece nefretlerini arttırdı. Oysa pis pis kurulan kötü tuzağa ancak sahibi düşer. Öncekilere uygulanagelen yasayı görmezler mi? Sen Allah'ın yasasında bir değişiklik bulamazsın. Sen Allah'ın yasasında bir başkalaşma da bulamazsın.
 
 # 3704
@@ -14838,9 +15630,13 @@ Kuran'ı Hakim'e and olsun ki, sen doğru yol üzere gönderilmiş peygamberlerd
 
 # 3708
 
+<!-- TODO:DUPLICATE -->
+
 Kuran'ı Hakim'e and olsun ki, sen doğru yol üzere gönderilmiş peygamberlerdensin.
 
 # 3709
+
+<!-- TODO:DUPLICATE -->
 
 Kuran'ı Hakim'e and olsun ki, sen doğru yol üzere gönderilmiş peygamberlerdensin.
 
@@ -14849,6 +15645,8 @@ Kuran'ı Hakim'e and olsun ki, sen doğru yol üzere gönderilmiş peygamberlerd
 Bu, babaları uyarılmadığından gafil kalmış bir milleti uyarman için güçlü ve merhametli olan Allah'ın indirdiği Kuran'dır.
 
 # 3711
+
+<!-- TODO:DUPLICATE -->
 
 Bu, babaları uyarılmadığından gafil kalmış bir milleti uyarman için güçlü ve merhametli olan Allah'ın indirdiği Kuran'dır.
 
@@ -14894,6 +15692,8 @@ Elçiler: "Doğrusu Rabbimiz bizim size gönderildiğimizi bilir; bize düşen a
 
 # 3722
 
+<!-- TODO:DUPLICATE -->
+
 Elçiler: "Doğrusu Rabbimiz bizim size gönderildiğimizi bilir; bize düşen ancak apaçık tebliğdir" demişlerdi.
 
 # 3723
@@ -14934,6 +15734,8 @@ Ona "Cennete gir" denince, "Keşke milletim Rabbimin beni bağışladığını v
 
 # 3732
 
+<!-- TODO:DUPLICATE -->
+
 Ona "Cennete gir" denince, "Keşke milletim Rabbimin beni bağışladığını ve beni ikrama mazhar olanlardan kıldığını bilseydi!" demişti.
 
 # 3733
@@ -14941,6 +15743,8 @@ Ona "Cennete gir" denince, "Keşke milletim Rabbimin beni bağışladığını v
 Ondan sonra milleti üzerine gökten bir ordu indirmedik; zaten indirecek de değildik; sadece tek bir çığlık.. o kadar, hemen sönüp gittiler.
 
 # 3734
+
+<!-- TODO:DUPLICATE -->
 
 Ondan sonra milleti üzerine gökten bir ordu indirmedik; zaten indirecek de değildik; sadece tek bir çığlık.. o kadar, hemen sönüp gittiler.
 
@@ -14993,6 +15797,8 @@ Aya erişmek güneşe düşmez. Gece de gündüzü geçemez. Her biri bir yörü
 Onlara bir delil de: Soylarını dolu gemiyle taşımamız ve kendileri için bunun gibi daha nice binekler yaratmış olmamızdır.
 
 # 3747
+
+<!-- TODO:DUPLICATE -->
 
 Onlara bir delil de: Soylarını dolu gemiyle taşımamız ve kendileri için bunun gibi daha nice binekler yaratmış olmamızdır.
 
@@ -15066,9 +15872,13 @@ Allah şöyle buyurur: Ey suçlular! Bugün müminlerden ayrılın. Ey insanoğu
 
 # 3765
 
+<!-- TODO:DUPLICATE -->
+
 Allah şöyle buyurur: Ey suçlular! Bugün müminlerden ayrılın. Ey insanoğulları! Ben size, şeytana tapmayın, o sizin için apaçık bir düşmandır, Bana kulluk edin, bu doğru yoldur, diye bildirmedim mi?
 
 # 3766
+
+<!-- TODO:DUPLICATE -->
 
 Allah şöyle buyurur: Ey suçlular! Bugün müminlerden ayrılın. Ey insanoğulları! Ben size, şeytana tapmayın, o sizin için apaçık bir düşmandır, Bana kulluk edin, bu doğru yoldur, diye bildirmedim mi?
 
@@ -15138,6 +15948,8 @@ Bunların sözü seni üzmesin. Biz onların gizlediklerini de, açığa vurdukl
 
 # 3783
 
+<!-- TODO:DUPLICATE -->
+
 İnsan kendisini bir nutfeden yarattığımızı görmez mi ki hemen apaçık bir hasım kesilir ve kendi yaratılışını unutur da; "Çürümüş kemikleri kim yaratacak" diyerek, Bize misal vermeye kalkar?
 
 # 3784
@@ -15166,17 +15978,25 @@ Sıra Sıra duran ve önlerindekini sürdükçe süren ve Allah'ı andıkça ana
 
 # 3790
 
+<!-- TODO:DUPLICATE -->
+
 Sıra Sıra duran ve önlerindekini sürdükçe süren ve Allah'ı andıkça anan meleklere and olsun ki, sizin Tanrınız birdir; göklerin, yerin ve ikisi arasında bulunanların -doğuların da- Rabbidir.
 
 # 3791
+
+<!-- TODO:DUPLICATE -->
 
 Sıra Sıra duran ve önlerindekini sürdükçe süren ve Allah'ı andıkça anan meleklere and olsun ki, sizin Tanrınız birdir; göklerin, yerin ve ikisi arasında bulunanların -doğuların da- Rabbidir.
 
 # 3792
 
+<!-- TODO:DUPLICATE -->
+
 Sıra Sıra duran ve önlerindekini sürdükçe süren ve Allah'ı andıkça anan meleklere and olsun ki, sizin Tanrınız birdir; göklerin, yerin ve ikisi arasında bulunanların -doğuların da- Rabbidir.
 
 # 3793
+
+<!-- TODO:DUPLICATE -->
 
 Sıra Sıra duran ve önlerindekini sürdükçe süren ve Allah'ı andıkça anan meleklere and olsun ki, sizin Tanrınız birdir; göklerin, yerin ve ikisi arasında bulunanların -doğuların da- Rabbidir.
 
@@ -15193,6 +16013,8 @@ Onu, inatçı her türlü şeytandan koruduk.
 Onlar yüce alemi asla dinleyemezler. Her yönden kovularak atılırlar. Onlara sürekli bir azap vardır.
 
 # 3797
+
+<!-- TODO:DUPLICATE -->
 
 Onlar yüce alemi asla dinleyemezler. Her yönden kovularak atılırlar. Onlara sürekli bir azap vardır.
 
@@ -15222,9 +16044,13 @@ Bir mucize gördüklerinde onu eğlenceye alırlar.
 
 # 3804
 
+<!-- TODO:DUPLICATE -->
+
 "Bu apaçık bir sihirdir; öldüğümüz, toprak ve kemik olduğumuz zaman, önceki babalarımız yahut biz mi dirileceğiz?" derler.
 
 # 3805
+
+<!-- TODO:DUPLICATE -->
 
 "Bu apaçık bir sihirdir; öldüğümüz, toprak ve kemik olduğumuz zaman, önceki babalarımız yahut biz mi dirileceğiz?" derler.
 
@@ -15249,6 +16075,8 @@ Onlara: "İşte bu, yalanladığınız hüküm günüdür" denir.
 İlgililere şöyle emredilir: "Zulmedenleri, onlarla işbirliği edenleri ve Allah'ı bırakıp da taptıklarını derleyin. Onları cehennem yoluna koyun."
 
 # 3811
+
+<!-- TODO:DUPLICATE -->
 
 İlgililere şöyle emredilir: "Zulmedenleri, onlarla işbirliği edenleri ve Allah'ı bırakıp da taptıklarını derleyin. Onları cehennem yoluna koyun."
 
@@ -15326,13 +16154,19 @@ Ancak Allah'a içten bağlı kullar bunun dışındadır.
 
 # 3830
 
+<!-- TODO:DUPLICATE -->
+
 İşte bildirilen rızık ve meyveler onlaradır. Nimet cennetlerinde, karşılıklı tahtlar üzerinde kendilerine ikram olunur.
 
 # 3831
 
+<!-- TODO:DUPLICATE -->
+
 İşte bildirilen rızık ve meyveler onlaradır. Nimet cennetlerinde, karşılıklı tahtlar üzerinde kendilerine ikram olunur.
 
 # 3832
+
+<!-- TODO:DUPLICATE -->
 
 İşte bildirilen rızık ve meyveler onlaradır. Nimet cennetlerinde, karşılıklı tahtlar üzerinde kendilerine ikram olunur.
 
@@ -15342,9 +16176,13 @@ Baş ağrısı vermeyen, sarhoş etmeyen, içenlere zevk bahşeden bembeyaz bir 
 
 # 3834
 
+<!-- TODO:DUPLICATE -->
+
 Baş ağrısı vermeyen, sarhoş etmeyen, içenlere zevk bahşeden bembeyaz bir kaynaktan doldurulmuş kadehler sunulur.
 
 # 3835
+
+<!-- TODO:DUPLICATE -->
 
 Baş ağrısı vermeyen, sarhoş etmeyen, içenlere zevk bahşeden bembeyaz bir kaynaktan doldurulmuş kadehler sunulur.
 
@@ -15353,6 +16191,8 @@ Baş ağrısı vermeyen, sarhoş etmeyen, içenlere zevk bahşeden bembeyaz bir 
 Yanlarında, örtülü yumurta gibi (bembeyaz), bakışlarını da yalnız eşlerine çevirmiş güzel gözlüler vardır.
 
 # 3837
+
+<!-- TODO:DUPLICATE -->
 
 Yanlarında, örtülü yumurta gibi (bembeyaz), bakışlarını da yalnız eşlerine çevirmiş güzel gözlüler vardır.
 
@@ -15366,9 +16206,13 @@ Birbirlerine dönüp sorarlar:
 
 # 3840
 
+<!-- TODO:DUPLICATE -->
+
 İçlerinden biri şöyle der: "Benim bir dostum vardı, bana: 'Sen de mi, ölüp toprak ve kemik olduğumuz zaman dirilerek ceza göreceğimizi tasdik edenlerdensin?' derdi."
 
 # 3841
+
+<!-- TODO:DUPLICATE -->
 
 İçlerinden biri şöyle der: "Benim bir dostum vardı, bana: 'Sen de mi, ölüp toprak ve kemik olduğumuz zaman dirilerek ceza göreceğimizi tasdik edenlerdensin?' derdi."
 
@@ -15393,6 +16237,8 @@ Ona der ki: "Allah'a and olsun ki, az kalsın beni de mahvedecektin."
 "Birinci ölümden sonra bir daha ölmeyeceğiz değil mi? Azap da görmeyeceğiz ha?"
 
 # 3847
+
+<!-- TODO:DUPLICATE -->
 
 "Birinci ölümden sonra bir daha ölmeyeceğiz değil mi? Azap da görmeyeceğiz ha?"
 
@@ -15474,6 +16320,8 @@ Sonra gelenler içinde "Alemlerde, Nuh'a selam olsun" diye ona iyi bir ün bıra
 
 # 3867
 
+<!-- TODO:DUPLICATE -->
+
 Sonra gelenler içinde "Alemlerde, Nuh'a selam olsun" diye ona iyi bir ün bıraktık.
 
 # 3868
@@ -15514,6 +16362,8 @@ Nitekim Rabbine temiz bir kalple geldi.
 
 # 3877
 
+<!-- TODO:DUPLICATE -->
+
 İbrahim yıldızlara bir göz attı ve "Ben rahatsızım" dedi.
 
 # 3878
@@ -15525,6 +16375,8 @@ Onu bırakıp gittiler.
 O da onların tanrılarına gizlice yönelip: "Sundukları yiyecekleri yemiyor musunuz? Ne o, konuşmuyor musunuz?" dedi.
 
 # 3880
+
+<!-- TODO:DUPLICATE -->
 
 O da onların tanrılarına gizlice yönelip: "Sundukları yiyecekleri yemiyor musunuz? Ne o, konuşmuyor musunuz?" dedi.
 
@@ -15541,6 +16393,8 @@ Bunun üzerine putperestler koşarak ona geldiler.
 İbrahim onlara şöyle söyledi: "Yonttuğunuz şeylere mi tapıyorsunuz? Oysa sizi de, yonttuklarınızı da Allah yaratmıştır."
 
 # 3884
+
+<!-- TODO:DUPLICATE -->
 
 İbrahim onlara şöyle söyledi: "Yonttuğunuz şeylere mi tapıyorsunuz? Oysa sizi de, yonttuklarınızı da Allah yaratmıştır."
 
@@ -15574,9 +16428,13 @@ Böylece ikisi de Allah' a teslimiyet gösterip, babası oğlunu alnı üzerine 
 
 # 3892
 
+<!-- TODO:DUPLICATE -->
+
 Böylece ikisi de Allah' a teslimiyet gösterip, babası oğlunu alnı üzerine yatırınca Biz: "Ey İbrahim! Rüyayı gerçek yaptın; işte biz iyi davrananları böylece mükafatlandırırız" diye seslendik.
 
 # 3893
+
+<!-- TODO:DUPLICATE -->
 
 Böylece ikisi de Allah' a teslimiyet gösterip, babası oğlunu alnı üzerine yatırınca Biz: "Ey İbrahim! Rüyayı gerçek yaptın; işte biz iyi davrananları böylece mükafatlandırırız" diye seslendik.
 
@@ -15593,6 +16451,8 @@ Ona fidye olarak büyük bir kurbanlık verdik.
 Sonra gelenler içinde "İbrahim'e selam olsun" diye ona iyi bir ün bıraktık.
 
 # 3897
+
+<!-- TODO:DUPLICATE -->
 
 Sonra gelenler içinde "İbrahim'e selam olsun" diye ona iyi bir ün bıraktık.
 
@@ -15638,6 +16498,8 @@ Sonra gelenler içinde "Musa ve Harun'a selam olsun" diye iyi birer ün bırakt�
 
 # 3908
 
+<!-- TODO:DUPLICATE -->
+
 Sonra gelenler içinde "Musa ve Harun'a selam olsun" diye iyi birer ün bıraktık.
 
 # 3909
@@ -15658,9 +16520,13 @@ Milletine: "Allah'a karşı gelmekten sakınmaz mısınız? Biçim verenlerin en
 
 # 3913
 
+<!-- TODO:DUPLICATE -->
+
 Milletine: "Allah'a karşı gelmekten sakınmaz mısınız? Biçim verenlerin en iyisi olan, sizin de Rabbiniz, önceki babalarınızın da Rabbi bulunan Allah'ı bırakıp da Baal putuna mı taparsınız?" demişti.
 
 # 3914
+
+<!-- TODO:DUPLICATE -->
 
 Milletine: "Allah'a karşı gelmekten sakınmaz mısınız? Biçim verenlerin en iyisi olan, sizin de Rabbiniz, önceki babalarınızın da Rabbi bulunan Allah'ı bırakıp da Baal putuna mı taparsınız?" demişti.
 
@@ -15670,6 +16536,8 @@ Bunun üzerine onu yalanlamışlardı. Allah'ın O'na içten bağlı kulları bi
 
 # 3916
 
+<!-- TODO:DUPLICATE -->
+
 Bunun üzerine onu yalanlamışlardı. Allah'ın O'na içten bağlı kulları bir yana, bunların hepsi cehenneme götürüleceklerdi.
 
 # 3917
@@ -15677,6 +16545,8 @@ Bunun üzerine onu yalanlamışlardı. Allah'ın O'na içten bağlı kulları bi
 Sonra gelenler içinde, "İlyas'a selam olsun" diye bir ün bıraktık.
 
 # 3918
+
+<!-- TODO:DUPLICATE -->
 
 Sonra gelenler içinde, "İlyas'a selam olsun" diye bir ün bıraktık.
 
@@ -15698,6 +16568,8 @@ Geridekiler arasında kalan yaşlı bir kadın dışında, Lut'u ve ailesinin he
 
 # 3923
 
+<!-- TODO:DUPLICATE -->
+
 Geridekiler arasında kalan yaşlı bir kadın dışında, Lut'u ve ailesinin hepsini kurtarmıştık.
 
 # 3924
@@ -15709,6 +16581,8 @@ Sonra diğerlerini yok etmiştik.
 Sabah akşam, onların yerleri üzerinden geçersiniz. Akletmez misiniz?
 
 # 3926
+
+<!-- TODO:DUPLICATE -->
 
 Sabah akşam, onların yerleri üzerinden geçersiniz. Akletmez misiniz?
 
@@ -15733,6 +16607,8 @@ Kendini kınarken onu bir balık yutmuştu.
 Eğer Allah'ı tesbih edenlerden olmasaydı, tekrar diriltilecek güne kadar balığın karnında kalacaktı.
 
 # 3932
+
+<!-- TODO:DUPLICATE -->
 
 Eğer Allah'ı tesbih edenlerden olmasaydı, tekrar diriltilecek güne kadar balığın karnında kalacaktı.
 
@@ -15765,6 +16641,8 @@ Yoksa melekleri kız olarak yarattığımızda onlar hazır mı idiler?
 Dikkat edin; doğrusu onlar yalan uydurup söylüyorlar, "Allah doğurdu" diyorlar. Onlar şüphesiz yalancıdırlar.
 
 # 3940
+
+<!-- TODO:DUPLICATE -->
 
 Dikkat edin; doğrusu onlar yalan uydurup söylüyorlar, "Allah doğurdu" diyorlar. Onlar şüphesiz yalancıdırlar.
 
@@ -15806,9 +16684,13 @@ Sizler ve taptığınız şeyler, cehenneme girecek kimseden başkasını Allah'
 
 # 3950
 
+<!-- TODO:DUPLICATE -->
+
 Sizler ve taptığınız şeyler, cehenneme girecek kimseden başkasını Allah'a karşı azdırıcı değilsiniz.
 
 # 3951
+
+<!-- TODO:DUPLICATE -->
 
 Sizler ve taptığınız şeyler, cehenneme girecek kimseden başkasını Allah'a karşı azdırıcı değilsiniz.
 
@@ -15818,9 +16700,13 @@ Melekler şöyle derler: "Bizim her birimizin bilinen bir makamı vardır. Şüp
 
 # 3953
 
+<!-- TODO:DUPLICATE -->
+
 Melekler şöyle derler: "Bizim her birimizin bilinen bir makamı vardır. Şüphesiz biz sıra sıra duranlarız, şüphesiz biz Allah'ı tesbih edenleriz."
 
 # 3954
+
+<!-- TODO:DUPLICATE -->
 
 Melekler şöyle derler: "Bizim her birimizin bilinen bir makamı vardır. Şüphesiz biz sıra sıra duranlarız, şüphesiz biz Allah'ı tesbih edenleriz."
 
@@ -15830,9 +16716,13 @@ Putperestler: "Öncekilerde olduğu gibi bizde de bir kitap olsaydı, Allah'ın 
 
 # 3956
 
+<!-- TODO:DUPLICATE -->
+
 Putperestler: "Öncekilerde olduğu gibi bizde de bir kitap olsaydı, Allah'ın O'na içten bağlanan kulları olurduk" derlerdi.
 
 # 3957
+
+<!-- TODO:DUPLICATE -->
 
 Putperestler: "Öncekilerde olduğu gibi bizde de bir kitap olsaydı, Allah'ın O'na içten bağlanan kulları olurduk" derlerdi.
 
@@ -15894,6 +16784,8 @@ Sad. Öğüt veren Kuran'a and olsun ki, inkar edenler gurur ve ayrılık içind
 
 # 3972
 
+<!-- TODO:DUPLICATE -->
+
 Sad. Öğüt veren Kuran'a and olsun ki, inkar edenler gurur ve ayrılık içindedirler.
 
 # 3973
@@ -15906,6 +16798,8 @@ Aralarından bir uyarıcının gelmesine şaşmışlardı. İnkarcılar: "Bu, pe
 
 # 3975
 
+<!-- TODO:DUPLICATE -->
+
 Aralarından bir uyarıcının gelmesine şaşmışlardı. İnkarcılar: "Bu, pek yalancı bir sihirbazdır; tanrıları tek bir tanrı mı yaptı? Doğrusu bu tuhaf bir şeydir" demişlerdi.
 
 # 3976
@@ -15914,9 +16808,13 @@ Onlardan ileri gelenler: "Yürüyün, tanrılarınıza bağlılıkta direnin, si
 
 # 3977
 
+<!-- TODO:DUPLICATE -->
+
 Onlardan ileri gelenler: "Yürüyün, tanrılarınıza bağlılıkta direnin, sizden istenen şüphesiz budur. Başka dinde de bunu işitmedik; bu ancak bir uydurmadır. Kuran, aramızda ona mı indirilmeliydi?" dediler. Hayır, bunlar Kuran'ımızdan şüphededirler. Hayır, azabımızı henüz tatmamışlardır.
 
 # 3978
+
+<!-- TODO:DUPLICATE -->
 
 Onlardan ileri gelenler: "Yürüyün, tanrılarınıza bağlılıkta direnin, sizden istenen şüphesiz budur. Başka dinde de bunu işitmedik; bu ancak bir uydurmadır. Kuran, aramızda ona mı indirilmeliydi?" dediler. Hayır, bunlar Kuran'ımızdan şüphededirler. Hayır, azabımızı henüz tatmamışlardır.
 
@@ -15937,6 +16835,8 @@ Onlar burada takım takım bozguna uğramış perişan bir ordudur.
 Onlardan önce Nuh milleti, Ad, sarsılmaz bir saltanatın sahibi Firavun, Semud, Lut milleti, Eykeliler de peygamberleri yalanlamıştı. İşte bunlar da peygamberlerine karşı birleşen topluluklardır.
 
 # 3983
+
+<!-- TODO:DUPLICATE -->
 
 Onlardan önce Nuh milleti, Ad, sarsılmaz bir saltanatın sahibi Firavun, Semud, Lut milleti, Eykeliler de peygamberleri yalanlamıştı. İşte bunlar da peygamberlerine karşı birleşen topluluklardır.
 
@@ -15962,6 +16862,8 @@ Doğrusu Biz, akşam sabah onunla beraber tesbih eden dağları, kuşları da to
 
 # 3989
 
+<!-- TODO:DUPLICATE -->
+
 Doğrusu Biz, akşam sabah onunla beraber tesbih eden dağları, kuşları da toplu halde onun buyruğu altına vermiştik. Her biri ona yönelmekteydi.
 
 # 3990
@@ -15973,6 +16875,8 @@ Onun hükümranlığını kuvvetlendirmiştik. Ona hikmet ve kesin hüküm selah
 Sana davacıların haberi ulaştı mı? Mabedin duvarına tırmanıp Davud'un yanına girmişlerdi de, o onlardan ürkmüştü. Şöyle demişlerdi: "Korkma, birbirinin hakkına tecavüz etmiş iki davacıyız; aramızda adaletle hükmet, ondan ayrılma, bizi doğru yola çıkar."
 
 # 3992
+
+<!-- TODO:DUPLICATE -->
 
 Sana davacıların haberi ulaştı mı? Mabedin duvarına tırmanıp Davud'un yanına girmişlerdi de, o onlardan ürkmüştü. Şöyle demişlerdi: "Korkma, birbirinin hakkına tecavüz etmiş iki davacıyız; aramızda adaletle hükmet, ondan ayrılma, bizi doğru yola çıkar."
 
@@ -16018,6 +16922,8 @@ Süleyman: "Doğrusu ben bu iyi malları, Rabbimi anmayı sağladıkları için 
 
 # 4003
 
+<!-- TODO:DUPLICATE -->
+
 Süleyman: "Doğrusu ben bu iyi malları, Rabbimi anmayı sağladıkları için severim" demişti. Koşup, toz perdesi arkasında kayboldukları zaman: "onları bana getirin" dedi. Bacaklarını ve boyunlarını sıvazlamaya başlamıştı.
 
 # 4004
@@ -16034,9 +16940,13 @@ Bunun üzerine Biz de, istediği yere onun buyruğu ile kolayca giden rüzgarı,
 
 # 4007
 
+<!-- TODO:DUPLICATE -->
+
 Bunun üzerine Biz de, istediği yere onun buyruğu ile kolayca giden rüzgarı, bina kuran ve dalgıçlık yapan şeytanları, demir halkalarla bağlı diğerlerini onun buyruğu altına verdik.
 
 # 4008
+
+<!-- TODO:DUPLICATE -->
 
 Bunun üzerine Biz de, istediği yere onun buyruğu ile kolayca giden rüzgarı, bina kuran ve dalgıçlık yapan şeytanları, demir halkalarla bağlı diğerlerini onun buyruğu altına verdik.
 
@@ -16158,6 +17068,8 @@ De ki: "Bu Kuran büyük bir haberdir, ama siz ondan yüz çeviriyorsunuz."
 
 # 4038
 
+<!-- TODO:DUPLICATE -->
+
 De ki: "Bu Kuran büyük bir haberdir, ama siz ondan yüz çeviriyorsunuz."
 
 # 4039
@@ -16174,6 +17086,8 @@ Rabbin meleklere şöyle demişti: "Ben çamurdan bir insan yaratacağım. Onu y
 
 # 4042
 
+<!-- TODO:DUPLICATE -->
+
 Rabbin meleklere şöyle demişti: "Ben çamurdan bir insan yaratacağım. Onu yapıp ruhumdan ona üflediğim zaman ona secdeye kapanın."
 
 # 4043
@@ -16181,6 +17095,8 @@ Rabbin meleklere şöyle demişti: "Ben çamurdan bir insan yaratacağım. Onu y
 Bütün melekler secde etmişlerdi, fakat İblis; o, büyüklük taslamış ve inkarcılardan olmuştu.
 
 # 4044
+
+<!-- TODO:DUPLICATE -->
 
 Bütün melekler secde etmişlerdi, fakat İblis; o, büyüklük taslamış ve inkarcılardan olmuştu.
 
@@ -16198,6 +17114,8 @@ Allah: "Defol oradan, sen artık kovulmuş birisin. Din (kıyamet/ceza) gününe
 
 # 4048
 
+<!-- TODO:DUPLICATE -->
+
 Allah: "Defol oradan, sen artık kovulmuş birisin. Din (kıyamet/ceza) gününe kadar lanetim senin üzerinedir" dedi.
 
 # 4049
@@ -16210,6 +17128,8 @@ Allah: "Sen bilinen güne kadar erteye bırakılanlardansın" dedi.
 
 # 4051
 
+<!-- TODO:DUPLICATE -->
+
 Allah: "Sen bilinen güne kadar erteye bırakılanlardansın" dedi.
 
 # 4052
@@ -16218,6 +17138,8 @@ Allah: "Sen bilinen güne kadar erteye bırakılanlardansın" dedi.
 
 # 4053
 
+<!-- TODO:DUPLICATE -->
+
 İblis: "Senin kudretine and olsun ki, onlardan, sana içten bağlı olan kulların bir yana, hepsini azdıracağım" dedi.
 
 # 4054
@@ -16225,6 +17147,8 @@ Allah: "Sen bilinen güne kadar erteye bırakılanlardansın" dedi.
 Allah: "Doğrudur; işte Ben hakikati söylüyorum, sen ve sana uyanların hepsiyle cehennemi dolduracağım" dedi.
 
 # 4055
+
+<!-- TODO:DUPLICATE -->
 
 Allah: "Doğrudur; işte Ben hakikati söylüyorum, sen ve sana uyanların hepsiyle cehennemi dolduracağım" dedi.
 
@@ -16309,6 +17233,8 @@ Onlara üstlerinden kat kat ateş vardır. Allah kullarını bununla korkutur. E
 Şeytana ve putlara kulluk etmekten kaçınıp, Allah'a yönelenlere, onlara, müjde vardır. Dinleyip de, en güzel söze uyan kullarımı müjdele. İşte Allah'ın doğru yola eriştirdiği onlardır. İşte onlar akıl sahipleridir.
 
 # 4076
+
+<!-- TODO:DUPLICATE -->
 
 Şeytana ve putlara kulluk etmekten kaçınıp, Allah'a yönelenlere, onlara, müjde vardır. Dinleyip de, en güzel söze uyan kullarımı müjdele. İşte Allah'ın doğru yola eriştirdiği onlardır. İşte onlar akıl sahipleridir.
 
@@ -16398,6 +17324,8 @@ De ki: "Ey milletim! Durumunuzun gerektirdiğini yapın; doğrusu ben de yapaca�
 
 # 4098
 
+<!-- TODO:DUPLICATE -->
+
 De ki: "Ey milletim! Durumunuzun gerektirdiğini yapın; doğrusu ben de yapacağım. Kendisini rezil edecek azap kime gelecek, kime sürekli azap inecek bileceksiniz."
 
 # 4099
@@ -16469,6 +17397,8 @@ Kişinin: "Allah'a karşı aşırı gitmemden ötürü bana yazıklar olsun. Ger
 Veya, "Allah beni doğru yola eriştirseydi sakınanlardan olurdum" diyeceği, yahut, azabı gördüğünde: "Keşke benim için dönüş imkanı bulunsa da iyilerden olsam" diyeceği günden sakının.
 
 # 4116
+
+<!-- TODO:DUPLICATE -->
 
 Veya, "Allah beni doğru yola eriştirseydi sakınanlardan olurdum" diyeceği, yahut, azabı gördüğünde: "Keşke benim için dönüş imkanı bulunsa da iyilerden olsam" diyeceği günden sakının.
 
@@ -16634,6 +17564,8 @@ And olsun ki Musa'yı, mucizelerimiz ve apaçık delillerle Firavun, Haman ve Ka
 
 # 4157
 
+<!-- TODO:DUPLICATE -->
+
 And olsun ki Musa'yı, mucizelerimiz ve apaçık delillerle Firavun, Haman ve Karun'a göndermişizdir. Onlar: "Bu, yalancı sihirbazın biridir" demişlerdi.
 
 # 4158
@@ -16662,6 +17594,8 @@ Firavun ailesinden olup da, inandığını gizleyen bir adam dedi ki: "Rabbim Al
 
 # 4164
 
+<!-- TODO:DUPLICATE -->
+
 İnanmış olan adam dedi ki: "Ey milletim! Doğrusu ben sizin için, Nuh milletinin, Ad, Semud ve onlardan sonra gelenlerin durumu gibi, peygamberleri yalanlayan toplulukların uğradıkları bir günün benzerinden korkuyorum. Allah kullara zulüm dilemez."
 
 # 4165
@@ -16685,6 +17619,8 @@ Firavun ailesinden olup da, inandığını gizleyen bir adam dedi ki: "Rabbim Al
 Firavun: "Ey Haman! Bana bir kule yap; belki yollara, göklerin yollarına erişirim de Musa'nın Tanrısını görürüm. Doğrusu ben, onu yalancı sanıyorum" dedi. Firavun'a, kötü işi böylece güzel gösterildi ve doğru yoldan alıkondu. Firavun'un hilesi elbette boşa gidecekti.
 
 # 4170
+
+<!-- TODO:DUPLICATE -->
 
 Firavun: "Ey Haman! Bana bir kule yap; belki yollara, göklerin yollarına erişirim de Musa'nın Tanrısını görürüm. Doğrusu ben, onu yalancı sanıyorum" dedi. Firavun'a, kötü işi böylece güzel gösterildi ve doğru yoldan alıkondu. Firavun'un hilesi elbette boşa gidecekti.
 
@@ -16753,6 +17689,8 @@ O gün zalimlere, özür beyan etmeleri fayda vermez. Lanet onlaradır. Yurdun k
 And olsun ki Biz Musa'ya doğruluk rehberi verdik. İsrailoğullarını da, akıl sahipleri için bir öğüt ve doğruluk rehberi olan Kitap'a, Tevrat'a varis kıldık.
 
 # 4187
+
+<!-- TODO:DUPLICATE -->
 
 And olsun ki Biz Musa'ya doğruluk rehberi verdik. İsrailoğullarını da, akıl sahipleri için bir öğüt ve doğruluk rehberi olan Kitap'a, Tevrat'a varis kıldık.
 
@@ -16826,6 +17764,8 @@ Boyunlarında halkalar ve zincirler olarak kaynar suya sürülür, sonra ateşte
 
 # 4205
 
+<!-- TODO:DUPLICATE -->
+
 Boyunlarında halkalar ve zincirler olarak kaynar suya sürülür, sonra ateşte yakılırlar.
 
 # 4206
@@ -16834,6 +17774,8 @@ Sonra onlara: "Allah'ı bırakıp da koştuğunuz ortaklar nerededir?" denir. "B
 
 # 4207
 
+<!-- TODO:DUPLICATE -->
+
 Sonra onlara: "Allah'ı bırakıp da koştuğunuz ortaklar nerededir?" denir. "Bizden uzaklaştılar; hayır, biz zaten önceleri hiçbir şeye kulluk etmiyorduk" derler. İşte Allah inkarcıları böyle saptırır.
 
 # 4208
@@ -16841,6 +17783,8 @@ Sonra onlara: "Allah'ı bırakıp da koştuğunuz ortaklar nerededir?" denir. "B
 Onlara: "İşte bu, yeryüzünde haksız yere şımarmanız ve böbürlenmenizden ötürüdür. Temelli kalacağınız cehennem kapılarından girin" denir. Büyüklenenlerin durağı ne kötüdür!
 
 # 4209
+
+<!-- TODO:DUPLICATE -->
 
 Onlara: "İşte bu, yeryüzünde haksız yere şımarmanız ve böbürlenmenizden ötürüdür. Temelli kalacağınız cehennem kapılarından girin" denir. Büyüklenenlerin durağı ne kötüdür!
 
@@ -16890,13 +17834,19 @@ Bu Kitap, merhametli olan Allah katından indirilmedir; bilen bir millet için m
 
 # 4221
 
+<!-- TODO:DUPLICATE -->
+
 Bu Kitap, merhametli olan Allah katından indirilmedir; bilen bir millet için müjdeci ve uyarıcı olmak üzere Arapça okunarak, ayetleri uzun uzun açıklanmıştır. Ama insanların çoğu yüz çevirmiştir, onlar işitmezler de: "Bizi çağırdığın şeye karşı kalblerimiz kapalıdır, kulaklarımızda ağırlık, bizimle senin aranda anlaşmamıza engel vardır; istediğini yap, biz de yapacağız" derler.
 
 # 4222
 
+<!-- TODO:DUPLICATE -->
+
 Bu Kitap, merhametli olan Allah katından indirilmedir; bilen bir millet için müjdeci ve uyarıcı olmak üzere Arapça okunarak, ayetleri uzun uzun açıklanmıştır. Ama insanların çoğu yüz çevirmiştir, onlar işitmezler de: "Bizi çağırdığın şeye karşı kalblerimiz kapalıdır, kulaklarımızda ağırlık, bizimle senin aranda anlaşmamıza engel vardır; istediğini yap, biz de yapacağız" derler.
 
 # 4223
+
+<!-- TODO:DUPLICATE -->
 
 Bu Kitap, merhametli olan Allah katından indirilmedir; bilen bir millet için müjdeci ve uyarıcı olmak üzere Arapça okunarak, ayetleri uzun uzun açıklanmıştır. Ama insanların çoğu yüz çevirmiştir, onlar işitmezler de: "Bizi çağırdığın şeye karşı kalblerimiz kapalıdır, kulaklarımızda ağırlık, bizimle senin aranda anlaşmamıza engel vardır; istediğini yap, biz de yapacağız" derler.
 
@@ -17002,9 +17952,13 @@ Onların yanına bir takım yardakçılar koyarız da geçmişlerini gelecekleri
 
 # 4249
 
+<!-- TODO:DUPLICATE -->
+
 "Rabbimiz Allah'tır" deyip sonra da doğrulukta devam edenler, onları, melekler, ölümleri anında: "Korkmayınız, üzülmeyiniz, size söz verilen cennetle sevinin, biz dünya hayatında da, ahirette de size dostuz. Burada, canlarınızın çektiği, umduğunuz şeyler, bağışlayan ve acıyan Allah katından bir ziyafet olarak size sunulur" diyerek inerler.
 
 # 4250
+
+<!-- TODO:DUPLICATE -->
 
 "Rabbimiz Allah'tır" deyip sonra da doğrulukta devam edenler, onları, melekler, ölümleri anında: "Korkmayınız, üzülmeyiniz, size söz verilen cennetle sevinin, biz dünya hayatında da, ahirette de size dostuz. Burada, canlarınızın çektiği, umduğunuz şeyler, bağışlayan ve acıyan Allah katından bir ziyafet olarak size sunulur" diyerek inerler.
 
@@ -17045,6 +17999,8 @@ Ayetlerimizi inkar edenler Bize gizli değillerdir. Kıyamet gününde ateşe at
 Kitap kendilerine gelince, onlar, onu inkar etmişlerdir; oysa o, değerli bir Kitap'dır. Geçmişte ve gelecekte onu batıl kılacak yoktur. Hakim ve övülmeğe layık olan Allah katından indirilmedir.
 
 # 4260
+
+<!-- TODO:DUPLICATE -->
 
 Kitap kendilerine gelince, onlar, onu inkar etmişlerdir; oysa o, değerli bir Kitap'dır. Geçmişte ve gelecekte onu batıl kılacak yoktur. Hakim ve övülmeğe layık olan Allah katından indirilmedir.
 
@@ -17198,6 +18154,8 @@ Kullarının tevbesini kabul eden, kötülükleri affeden, yaptıklarınızı bi
 
 # 4298
 
+<!-- TODO:DUPLICATE -->
+
 Kullarının tevbesini kabul eden, kötülükleri affeden, yaptıklarınızı bilen, inanıp yararlı işler işleyenlerin duasını kabul eden, lütfuyla onların ecrini arttıran O'dur. Ama, inkarcılar için çetin azap vardır.
 
 # 4299
@@ -17242,9 +18200,13 @@ Size verilen herhangi bir şey, sadece dünya hayatının bir geçimliğidir. Al
 
 # 4309
 
+<!-- TODO:DUPLICATE -->
+
 Size verilen herhangi bir şey, sadece dünya hayatının bir geçimliğidir. Allah katında olan; inanıp Rablerine güvenen, büyük günahlardan ve hayasızlıklardan çekinen, öfkelendiklerinde bile bağışlayanlar, Rablerinin çağrısına cevap verenler ve namaz kılanlar için daha iyi ve daha süreklidir. Onların işleri aralarında danışma iledir. Kendilerine verdiğimiz rızıktan da sarfederler.
 
 # 4310
+
+<!-- TODO:DUPLICATE -->
 
 Size verilen herhangi bir şey, sadece dünya hayatının bir geçimliğidir. Allah katında olan; inanıp Rablerine güvenen, büyük günahlardan ve hayasızlıklardan çekinen, öfkelendiklerinde bile bağışlayanlar, Rablerinin çağrısına cevap verenler ve namaz kılanlar için daha iyi ve daha süreklidir. Onların işleri aralarında danışma iledir. Kendilerine verdiğimiz rızıktan da sarfederler.
 
@@ -17306,6 +18268,8 @@ Allah bir insanla ancak vahiy suretiyle veya perde arkasından konuşur, yahut b
 
 # 4325
 
+<!-- TODO:DUPLICATE -->
+
 İşte sana da buyruğumuzla Cebrail'i gönderdik; sen Kitap nedir, iman nedir önceleri bilmezdin, fakat Biz onu, kullarımızdan dilediğimizi onunla doğru yola eriştirdiğimiz bir nur kıldık. Şüphesiz sen de insanlara, göklerde ve yerde ne varsa kendisininolan Allah'ın yolunu, doğru yolu göstermektesin. İyi bilin ki işler sonunda Allah'a döner.
 
 # 4326
@@ -17317,6 +18281,8 @@ Ha, Mim,
 Apaçık Kitap'a and olsun ki, akledesiniz diye Kuran'ı Arapça okunan bir Kitap kılmışızdır.
 
 # 4328
+
+<!-- TODO:DUPLICATE -->
 
 Apaçık Kitap'a and olsun ki, akledesiniz diye Kuran'ı Arapça okunan bir Kitap kılmışızdır.
 
@@ -17358,9 +18324,13 @@ Her sınıf varlığı yaratan O'dur. Gemiler ve hayvanlardan binesiniz diye siz
 
 # 4338
 
+<!-- TODO:DUPLICATE -->
+
 Her sınıf varlığı yaratan O'dur. Gemiler ve hayvanlardan binesiniz diye size binekler var etmiştir. Bütün bunlar; üzerlerine oturunca Rabbinizin nimetini anarak: "Bunları buyruğumuza veren ne yücedir; zaten bizim takatimiz bunlara yetmezdi; şüphesiz Rabbimize döneceğiz" demeniz içindir.
 
 # 4339
+
+<!-- TODO:DUPLICATE -->
 
 Her sınıf varlığı yaratan O'dur. Gemiler ve hayvanlardan binesiniz diye size binekler var etmiştir. Bütün bunlar; üzerlerine oturunca Rabbinizin nimetini anarak: "Bunları buyruğumuza veren ne yücedir; zaten bizim takatimiz bunlara yetmezdi; şüphesiz Rabbimize döneceğiz" demeniz içindir.
 
@@ -17414,6 +18384,8 @@ Bunun üzerine Biz de onlardan öç aldık. Yalancıların sonunun nasıl olduğ
 
 # 4352
 
+<!-- TODO:DUPLICATE -->
+
 İbrahim, babasına ve milletine demişti ki: "Beni yaratan hariç, sizin taptığınız şeylerden uzağım. Beni doğru yola eriştirecek olan şüphesiz O'dur."
 
 # 4353
@@ -17442,9 +18414,13 @@ Eğer bütün insanlar tek ümmet olma durumuna gelmeyecek olsaydı, Rahman olan
 
 # 4359
 
+<!-- TODO:DUPLICATE -->
+
 Eğer bütün insanlar tek ümmet olma durumuna gelmeyecek olsaydı, Rahman olan Allah'ı inkar edenlerin evlerinin tavanlarını, üzerinde yükseldikleri merdivenleri, evlerinin kapılarını, üzerine yaslanacakları kerevetleri gümüşten yapar ve altın bezeklerle işlerdik. Bunların hepsi ancak dünya hayatının geçimliğidir. Ahiret, Rabbinin katında O'na karşı gelmekten sakınanlaradır.
 
 # 4360
+
+<!-- TODO:DUPLICATE -->
 
 Eğer bütün insanlar tek ümmet olma durumuna gelmeyecek olsaydı, Rahman olan Allah'ı inkar edenlerin evlerinin tavanlarını, üzerinde yükseldikleri merdivenleri, evlerinin kapılarını, üzerine yaslanacakları kerevetleri gümüşten yapar ve altın bezeklerle işlerdik. Bunların hepsi ancak dünya hayatının geçimliğidir. Ahiret, Rabbinin katında O'na karşı gelmekten sakınanlaradır.
 
@@ -17462,6 +18438,8 @@ Sonunda Bize gelince arkadaşına: "Keşke benimle senin aranda doğu ile batı 
 
 # 4364
 
+<!-- TODO:DUPLICATE -->
+
 Sonunda Bize gelince arkadaşına: "Keşke benimle senin aranda doğu ile batı arasındaki kadar uzaklık olsaydı, sen ne kötü arkadaş imişsin!" der. Nedametin bugün size hiç faydası dokunmaz; zira haksızlık etmiştiniz, şimdi azabda ortaksınız.
 
 # 4365
@@ -17473,6 +18451,8 @@ Sağırlara sen mi duyuracaksın? Yoksa körleri ve apaçık sapıklıkta olanla
 Seni onlardan uzaklaştırsak bile doğrusu Biz kendilerinden öç alırız; yahut onlara vadettiğimizi sana gösteririz. Çünkü onlara karşı gücü yetenleriz.
 
 # 4367
+
+<!-- TODO:DUPLICATE -->
 
 Seni onlardan uzaklaştırsak bile doğrusu Biz kendilerinden öç alırız; yahut onlara vadettiğimizi sana gösteririz. Çünkü onlara karşı gücü yetenleriz.
 
@@ -17662,6 +18642,8 @@ Onlar hakkında: "Ey Rabbim! Bunlar inanmayan bir millettir" demesi üzerine All
 
 # 4414
 
+<!-- TODO:DUPLICATE -->
+
 Onlar hakkında: "Ey Rabbim! Bunlar inanmayan bir millettir" demesi üzerine Allah: "Onlardan geç, esenlik dile; yakında bileceklerdir" buyurdu.
 
 # 4415
@@ -17674,6 +18656,8 @@ Apaçık olan Kitap'a and olsun ki, Biz onu, kutlu bir gecede indirdik. Doğrusu
 
 # 4417
 
+<!-- TODO:DUPLICATE -->
+
 Apaçık olan Kitap'a and olsun ki, Biz onu, kutlu bir gecede indirdik. Doğrusu Biz, insanları uyarmaktayız.
 
 # 4418
@@ -17682,13 +18666,19 @@ Katımızdan bir buyrukla, her hikmetli işe o gecede hükmedilir. Doğrusu Biz 
 
 # 4419
 
+<!-- TODO:DUPLICATE -->
+
 Katımızdan bir buyrukla, her hikmetli işe o gecede hükmedilir. Doğrusu Biz öteden beri peygamberler göndermekteyiz. Eğer kesin olarak inanırsanız bilin ki, bu senin Rabbinden, göklerin, yerin ve ikisi arasında bulunanların Rabbinden bir rahmettir. O, işitendir, bilendir.
 
 # 4420
 
+<!-- TODO:DUPLICATE -->
+
 Katımızdan bir buyrukla, her hikmetli işe o gecede hükmedilir. Doğrusu Biz öteden beri peygamberler göndermekteyiz. Eğer kesin olarak inanırsanız bilin ki, bu senin Rabbinden, göklerin, yerin ve ikisi arasında bulunanların Rabbinden bir rahmettir. O, işitendir, bilendir.
 
 # 4421
+
+<!-- TODO:DUPLICATE -->
 
 Katımızdan bir buyrukla, her hikmetli işe o gecede hükmedilir. Doğrusu Biz öteden beri peygamberler göndermekteyiz. Eğer kesin olarak inanırsanız bilin ki, bu senin Rabbinden, göklerin, yerin ve ikisi arasında bulunanların Rabbinden bir rahmettir. O, işitendir, bilendir.
 
@@ -17706,6 +18696,8 @@ Göğün, insanları bürüyecek ve gözle görülecek bir duman çıkaracağı 
 
 # 4425
 
+<!-- TODO:DUPLICATE -->
+
 Göğün, insanları bürüyecek ve gözle görülecek bir duman çıkaracağı günü bekle; bu, can yakan bir azabdır.
 
 # 4426
@@ -17717,6 +18709,8 @@ Göğün, insanları bürüyecek ve gözle görülecek bir duman çıkaracağı 
 Nerde onlarda öğüt almak? Kendilerine gerçeği açıklayan bir peygamber gelmişti ve ondan yüz çevirmişler, "Belletilmiş bir deli" demişlerdi.
 
 # 4428
+
+<!-- TODO:DUPLICATE -->
 
 Nerde onlarda öğüt almak? Kendilerine gerçeği açıklayan bir peygamber gelmişti ve ondan yüz çevirmişler, "Belletilmiş bir deli" demişlerdi.
 
@@ -17766,9 +18760,13 @@ Orada nice bahçeler, pınarlar, ekinler, güzel konaklar, eğlenip durdukları 
 
 # 4440
 
+<!-- TODO:DUPLICATE -->
+
 Orada nice bahçeler, pınarlar, ekinler, güzel konaklar, eğlenip durdukları nimetler bırakmışlardı.
 
 # 4441
+
+<!-- TODO:DUPLICATE -->
 
 Orada nice bahçeler, pınarlar, ekinler, güzel konaklar, eğlenip durdukları nimetler bırakmışlardı.
 
@@ -17786,6 +18784,8 @@ And olsun ki, İsrailoğullarını, azgın bir zorba olan Firavun'un alçaltıc�
 
 # 4445
 
+<!-- TODO:DUPLICATE -->
+
 And olsun ki, İsrailoğullarını, azgın bir zorba olan Firavun'un alçaltıcı azabından kurtardık.
 
 # 4446
@@ -17802,9 +18802,13 @@ Doğrusu inkarcılar, "Ölum bir defadır, tekrar diriltilmeyeceğiz. Eğer doğ
 
 # 4449
 
+<!-- TODO:DUPLICATE -->
+
 Doğrusu inkarcılar, "Ölum bir defadır, tekrar diriltilmeyeceğiz. Eğer doğru sözlü iseniz bize babalarımızı getirsenize" derler.
 
 # 4450
+
+<!-- TODO:DUPLICATE -->
 
 Doğrusu inkarcılar, "Ölum bir defadır, tekrar diriltilmeyeceğiz. Eğer doğru sözlü iseniz bize babalarımızı getirsenize" derler.
 
@@ -17838,13 +18842,19 @@ Doğrusu günahkarların yiyeceği zakkum ağacıdır; karınlarda suyun kaynama
 
 # 4458
 
+<!-- TODO:DUPLICATE -->
+
 Doğrusu günahkarların yiyeceği zakkum ağacıdır; karınlarda suyun kaynaması gibi kaynayan, erimiş maden gibidir.
 
 # 4459
 
+<!-- TODO:DUPLICATE -->
+
 Doğrusu günahkarların yiyeceği zakkum ağacıdır; karınlarda suyun kaynaması gibi kaynayan, erimiş maden gibidir.
 
 # 4460
+
+<!-- TODO:DUPLICATE -->
 
 Doğrusu günahkarların yiyeceği zakkum ağacıdır; karınlarda suyun kaynaması gibi kaynayan, erimiş maden gibidir.
 
@@ -17854,13 +18864,19 @@ Doğrusu günahkarların yiyeceği zakkum ağacıdır; karınlarda suyun kaynama
 
 # 4462
 
+<!-- TODO:DUPLICATE -->
+
 "Suçluyu yakalayın, cehennemin ortasına sürükleyin, sonra başına azap olarak kaynar su dökün" denir, sonra ona: "Tad bakalım, hani şerefli olan, değerli olan yalnız sendin. İşte bu, şüphelenip durduğunuz şeydir" denir.
 
 # 4463
 
+<!-- TODO:DUPLICATE -->
+
 "Suçluyu yakalayın, cehennemin ortasına sürükleyin, sonra başına azap olarak kaynar su dökün" denir, sonra ona: "Tad bakalım, hani şerefli olan, değerli olan yalnız sendin. İşte bu, şüphelenip durduğunuz şeydir" denir.
 
 # 4464
+
+<!-- TODO:DUPLICATE -->
 
 "Suçluyu yakalayın, cehennemin ortasına sürükleyin, sonra başına azap olarak kaynar su dökün" denir, sonra ona: "Tad bakalım, hani şerefli olan, değerli olan yalnız sendin. İşte bu, şüphelenip durduğunuz şeydir" denir.
 
@@ -17869,6 +18885,8 @@ Doğrusu günahkarların yiyeceği zakkum ağacıdır; karınlarda suyun kaynama
 Allah'a karşı gelmekten sakınmış olanlar ise, güvenli bir yerde, bahçelerde ve pınar başlarındadırlar.
 
 # 4466
+
+<!-- TODO:DUPLICATE -->
 
 Allah'a karşı gelmekten sakınmış olanlar ise, güvenli bir yerde, bahçelerde ve pınar başlarındadırlar.
 
@@ -17890,6 +18908,8 @@ Orada, ilk ölümden başka bir ölüm tatmazlar. Rabbin lütfuyla onları cehen
 
 # 4471
 
+<!-- TODO:DUPLICATE -->
+
 Orada, ilk ölümden başka bir ölüm tatmazlar. Rabbin lütfuyla onları cehennem azabından korumuştur. İşte büyük kurtuluş budur.
 
 # 4472
@@ -17897,6 +18917,8 @@ Orada, ilk ölümden başka bir ölüm tatmazlar. Rabbin lütfuyla onları cehen
 Biz, öğüt alırlar diye, Kuran'ı senin dilinde indirerek kolayca anlaşılmasını sağladık. Sen bekle, onlar da beklemektedirler.
 
 # 4473
+
+<!-- TODO:DUPLICATE -->
 
 Biz, öğüt alırlar diye, Kuran'ı senin dilinde indirerek kolayca anlaşılmasını sağladık. Sen bekle, onlar da beklemektedirler.
 
@@ -17930,6 +18952,8 @@ Kendine okunan Allah'ın ayetlerini dinleyip, sonra, onları hiç duymamış gib
 
 # 4481
 
+<!-- TODO:DUPLICATE -->
+
 Kendine okunan Allah'ın ayetlerini dinleyip, sonra, onları hiç duymamış gibi büyüklük taslamakta direnen, yalancı ve günahkar kişinin vay haline! Ona can yakıcı bir azap müjdele.
 
 # 4482
@@ -17937,6 +18961,8 @@ Kendine okunan Allah'ın ayetlerini dinleyip, sonra, onları hiç duymamış gib
 Ayetlerimizden bir şey öğrendiğinde onu alaya alır. İşte bunlara alçaltıcı bir azap ve ardından da cehennem vardır. Kazandıkları şeyler de, Allah'ı bırakıp edindikleri dostlar da onlara bir fayda vermez. Büyük azap onlaradır.
 
 # 4483
+
+<!-- TODO:DUPLICATE -->
 
 Ayetlerimizden bir şey öğrendiğinde onu alaya alır. İşte bunlara alçaltıcı bir azap ve ardından da cehennem vardır. Kazandıkları şeyler de, Allah'ı bırakıp edindikleri dostlar da onlara bir fayda vermez. Büyük azap onlaradır.
 
@@ -18118,6 +19144,8 @@ Annesine babasına: "Of ikinizden; benden önce nice nesiller gelip geçmişken 
 
 # 4528
 
+<!-- TODO:DUPLICATE -->
+
 Annesine babasına: "Of ikinizden; benden önce nice nesiller gelip geçmişken beni tekrar diriltilmemle mi tehdit ediyorsunuz?" diyen kimseye, anne babası Allah'a sığınarak: "Sana yazıklar olsun! İnan; doğrusu Allah'ın sözü gerçektir" dedikleri halde: "Bu, Kuran öncekilerin masallarından başka bir şey değildir" diye cevap verenler işte onlar kendilerinden önce cinlerden ve insanlardan gelip geçmiş ümmetler içinde, Allah'ın azap vadinin aleyhlerinde gerçekleştiği kimselerdir. Doğrusu onlar hüsranda olanlardır.
 
 # 4529
@@ -18145,6 +19173,8 @@ Ad milletinin kardeşi Hud'u an; ondan önce ve sonra, "Allah'tan başkasına ku
 O azabın, yayılarak vadilerine doğru yöneldiğini gördüklerinde: "Bu yaygın bulut bize yağmur yağdıracaktır" dediler. Hud: "Hayır, o, acele beklediğiniz şeydir; can yakıcı azap veren bir rüzgardır; Rabbinin buyruğu ile her şeyi yok eder" dedi. Bunun üzerine evlerinin harabelerinden başka bir şey görünmez oldu. Biz, suçlu milleti işte böyle cezalandırırız.
 
 # 4535
+
+<!-- TODO:DUPLICATE -->
 
 O azabın, yayılarak vadilerine doğru yöneldiğini gördüklerinde: "Bu yaygın bulut bize yağmur yağdıracaktır" dediler. Hud: "Hayır, o, acele beklediğiniz şeydir; can yakıcı azap veren bir rüzgardır; Rabbinin buyruğu ile her şeyi yok eder" dedi. Bunun üzerine evlerinin harabelerinden başka bir şey görünmez oldu. Biz, suçlu milleti işte böyle cezalandırırız.
 
@@ -18270,6 +19300,8 @@ Bil ki, Allah'tan başka tanrı yoktur; kendinin, inanmış erkek ve kadınları
 
 # 4566
 
+<!-- TODO:DUPLICATE -->
+
 İnananlar: "Keşke bir süre indirilse de cihada çıksak" derlerdi. Fakat hükmü açık bir süre inip, orada savaş zikredilince, kalblerinde hastalık olanların, ölüm korkusuyla bayılmış kimselerin bakışları gibi, sana baktıklarını gördün. Oysa onlara itaat etmek ve uygun olanı söylemek yaraşırdı. İş ciddileşince Allah'a verdikleri yeminde doğruluk gösterselerdi, onların iyiliğine olurdu.
 
 # 4567
@@ -18374,6 +19406,8 @@ Doğrusu seni şahit, müjdeci ve uyarıcı olarak gönderdik. Ey insanlar, siz 
 
 # 4592
 
+<!-- TODO:DUPLICATE -->
+
 Doğrusu seni şahit, müjdeci ve uyarıcı olarak gönderdik. Ey insanlar, siz de Allah'a ve Peygamberine inanasınız, ona yardım edesiniz, O'na saygı gösteresiniz ve O'nu sabah akşam tesbih edesiniz.
 
 # 4593
@@ -18413,6 +19447,8 @@ Ama, gözleri görmeyen kimse savaşa gelmezse ona bir sorumluluk yoktur; topala
 Allah inananlardan, ağaç altında sana baş eğerek el verirlerken, and olsun ki hoşnut olmuştur. Gönüllerinde olanı da bilmiş, onlara güvenlik vermiş, onlara yakın bir zafer ve ele geçirecekleri bol ganimetler bahşetmiştir. Allah, güçlü olandır, Hakim olandır.
 
 # 4602
+
+<!-- TODO:DUPLICATE -->
 
 Allah inananlardan, ağaç altında sana baş eğerek el verirlerken, and olsun ki hoşnut olmuştur. Gönüllerinde olanı da bilmiş, onlara güvenlik vermiş, onlara yakın bir zafer ve ele geçirecekleri bol ganimetler bahşetmiştir. Allah, güçlü olandır, Hakim olandır.
 
@@ -18486,6 +19522,8 @@ Bilin ki, içinizde Allah'ın Peygamberi bulunmaktadır. Eğer o, bir çok işle
 
 # 4620
 
+<!-- TODO:DUPLICATE -->
+
 Bilin ki, içinizde Allah'ın Peygamberi bulunmaktadır. Eğer o, bir çok işlerde size uymuş olsaydı şüphesiz kötü duruma düşerdiniz; ama Allah size imanı sevdirmiş, onu gönüllerinize güzel göstermiş; inkarcılığı, yoldan çıkmayı ve baş kaldırmayı size iğrenç göstermiştir. İşte böyle olanlar, Allah katından bir lütuf ve nimet sayesinde doğru yolda bulunanlardır. Allah bilendir, Hakim'dir.
 
 # 4621
@@ -18538,6 +19576,8 @@ Kafirler, Aralarından bir uyarıcının gelmesine şaştılar da: "Bu şaşıla
 
 # 4633
 
+<!-- TODO:DUPLICATE -->
+
 Kafirler, Aralarından bir uyarıcının gelmesine şaştılar da: "Bu şaşılacak bir şey; öldüğümüz ve toprak olduğumuz zaman dirilecek miyiz? Bu, ihtimali olmayan bir dönüştür" dediler.
 
 # 4634
@@ -18558,6 +19598,8 @@ Allah'a yönelen her kula öğüt ve bir belge olarak yeryüzünü yaydık, oray
 
 # 4638
 
+<!-- TODO:DUPLICATE -->
+
 Allah'a yönelen her kula öğüt ve bir belge olarak yeryüzünü yaydık, oraya sabit dağlar yerleştirdik, orada her güzel türden yetiştirdik.
 
 # 4639
@@ -18566,9 +19608,13 @@ Gökten bereketli bir su indirdik, kullara rızık olmak üzere onunla bahçeler
 
 # 4640
 
+<!-- TODO:DUPLICATE -->
+
 Gökten bereketli bir su indirdik, kullara rızık olmak üzere onunla bahçeler, biçilecek taneli ekinler, küme küme tomurcukları olan boylu hurma ağaçları yetiştirdik. O su ile ölü yeri dirilttik. İşte insanların diriltilmesi de böyledir.
 
 # 4641
+
+<!-- TODO:DUPLICATE -->
 
 Gökten bereketli bir su indirdik, kullara rızık olmak üzere onunla bahçeler, biçilecek taneli ekinler, küme küme tomurcukları olan boylu hurma ağaçları yetiştirdik. O su ile ölü yeri dirilttik. İşte insanların diriltilmesi de böyledir.
 
@@ -18578,9 +19624,13 @@ Onlardan önce Nuh milleti, Ressliler, Semud, Ad, Firavun milletleri, Lut'un kar
 
 # 4643
 
+<!-- TODO:DUPLICATE -->
+
 Onlardan önce Nuh milleti, Ressliler, Semud, Ad, Firavun milletleri, Lut'un kardeşleri, Eykeliler, Tubba milleti de yalanlamışlardı; evet bunların hepsi peygamberleri yalanlamışlardı da tehdidim gerçekleşmişti.
 
 # 4644
+
+<!-- TODO:DUPLICATE -->
 
 Onlardan önce Nuh milleti, Ressliler, Semud, Ad, Firavun milletleri, Lut'un kardeşleri, Eykeliler, Tubba milleti de yalanlamışlardı; evet bunların hepsi peygamberleri yalanlamışlardı da tehdidim gerçekleşmişti.
 
@@ -18597,6 +19647,8 @@ And olsun ki insanı Biz yarattık; nefsinin kendisine fısıldadıklarını bil
 Sağında ve solunda, onunla beraber oturan iki alıcı melek, yanında hazır birer gözcü olarak söylediği her sözü zaptederler.
 
 # 4648
+
+<!-- TODO:DUPLICATE -->
 
 Sağında ve solunda, onunla beraber oturan iki alıcı melek, yanında hazır birer gözcü olarak söylediği her sözü zaptederler.
 
@@ -18626,9 +19678,13 @@ Allah: "Ey sürücü ve şahit! Her inatçı inkarcıyı, iyiliklere boyuna enge
 
 # 4655
 
+<!-- TODO:DUPLICATE -->
+
 Allah: "Ey sürücü ve şahit! Her inatçı inkarcıyı, iyiliklere boyuna engel olan, mütecaviz, şüpheye düşüren, Allah'ın yanında başka tanrı benimseyen kişiyi cehenneme atın, onu çetin bir azaba sokun" buyurur.
 
 # 4656
+
+<!-- TODO:DUPLICATE -->
 
 Allah: "Ey sürücü ve şahit! Her inatçı inkarcıyı, iyiliklere boyuna engel olan, mütecaviz, şüpheye düşüren, Allah'ın yanında başka tanrı benimseyen kişiyi cehenneme atın, onu çetin bir azaba sokun" buyurur.
 
@@ -18641,6 +19697,8 @@ Yanındaki şeytan: "Rabbimiz! Ben onu azdırmadım, fakat kendisi derin bir sap
 Allah: "Benim katımda çekişmeyin; size bunu önceden bildirmiştim. Benim katımda söz değişmez; Ben kullara asla zulmetmem" der.
 
 # 4659
+
+<!-- TODO:DUPLICATE -->
 
 Allah: "Benim katımda çekişmeyin; size bunu önceden bildirmiştim. Benim katımda söz değişmez; Ben kullara asla zulmetmem" der.
 
@@ -18658,9 +19716,13 @@ Onlara: "İşte bu cennet, Allah'a yönelen, O'nun buyruklarına riayet eden; g�
 
 # 4663
 
+<!-- TODO:DUPLICATE -->
+
 Onlara: "İşte bu cennet, Allah'a yönelen, O'nun buyruklarına riayet eden; görmediği Rahman'dan korkan, Allah'a yönelmiş bir kalble gelen sizlere, hepinize söz verilen yerdir. Oraya esenlikle girin; işte sonsuzluk günü budur" denir.
 
 # 4664
+
+<!-- TODO:DUPLICATE -->
 
 Onlara: "İşte bu cennet, Allah'a yönelen, O'nun buyruklarına riayet eden; görmediği Rahman'dan korkan, Allah'a yönelmiş bir kalble gelen sizlere, hepinize söz verilen yerdir. Oraya esenlikle girin; işte sonsuzluk günü budur" denir.
 
@@ -18714,21 +19776,31 @@ Esip savuran rüzgarlara, yağmur yüklü bulutlara, kolayca süzülen gemiler v
 
 # 4677
 
+<!-- TODO:DUPLICATE -->
+
 Esip savuran rüzgarlara, yağmur yüklü bulutlara, kolayca süzülen gemiler ve işleri yöneten meleklere and olsun ki, size söz verilen kıyametin kopması şüphesiz gerçektir. Ödeşme günü gelecektir.
 
 # 4678
+
+<!-- TODO:DUPLICATE -->
 
 Esip savuran rüzgarlara, yağmur yüklü bulutlara, kolayca süzülen gemiler ve işleri yöneten meleklere and olsun ki, size söz verilen kıyametin kopması şüphesiz gerçektir. Ödeşme günü gelecektir.
 
 # 4679
 
+<!-- TODO:DUPLICATE -->
+
 Esip savuran rüzgarlara, yağmur yüklü bulutlara, kolayca süzülen gemiler ve işleri yöneten meleklere and olsun ki, size söz verilen kıyametin kopması şüphesiz gerçektir. Ödeşme günü gelecektir.
 
 # 4680
 
+<!-- TODO:DUPLICATE -->
+
 Esip savuran rüzgarlara, yağmur yüklü bulutlara, kolayca süzülen gemiler ve işleri yöneten meleklere and olsun ki, size söz verilen kıyametin kopması şüphesiz gerçektir. Ödeşme günü gelecektir.
 
 # 4681
+
+<!-- TODO:DUPLICATE -->
 
 Esip savuran rüzgarlara, yağmur yüklü bulutlara, kolayca süzülen gemiler ve işleri yöneten meleklere and olsun ki, size söz verilen kıyametin kopması şüphesiz gerçektir. Ödeşme günü gelecektir.
 
@@ -18737,6 +19809,8 @@ Esip savuran rüzgarlara, yağmur yüklü bulutlara, kolayca süzülen gemiler v
 İçinde yörüngeler bulunan göğe and olsun ki, ey inkarcılar, siz, şüphesiz aykırı görüştesiniz.
 
 # 4683
+
+<!-- TODO:DUPLICATE -->
 
 İçinde yörüngeler bulunan göğe and olsun ki, ey inkarcılar, siz, şüphesiz aykırı görüştesiniz.
 
@@ -18749,6 +19823,8 @@ Bundan, dönebilecek kimseler döndürülür.
 Yalancılığı itiyat edinenlerin, bilgisizliğe saplanıp kalanların canları çıksın!
 
 # 4686
+
+<!-- TODO:DUPLICATE -->
 
 Yalancılığı itiyat edinenlerin, bilgisizliğe saplanıp kalanların canları çıksın!
 
@@ -18770,6 +19846,8 @@ Doğrusu, Allah'a karşı gelmekten sakınanlar, Rablerinin kendilerine verdiği
 
 # 4691
 
+<!-- TODO:DUPLICATE -->
+
 Doğrusu, Allah'a karşı gelmekten sakınanlar, Rablerinin kendilerine verdiğini almış olarak bahçelerde ve pınar başlarındadırlar. Çünkü onlar, bundan önce iyi davrananlardı.
 
 # 4692
@@ -18789,6 +19867,8 @@ Onların mallarında muhtaç ve yoksullar için bir hak vardı, onu verirlerdi.
 Kesin olarak inananlara, yeryüzünde ve kendi içinizde Allah'ın varlığına nice deliller vardır; görmez misiniz?
 
 # 4696
+
+<!-- TODO:DUPLICATE -->
 
 Kesin olarak inananlara, yeryüzünde ve kendi içinizde Allah'ın varlığına nice deliller vardır; görmez misiniz?
 
@@ -18814,6 +19894,8 @@ Hemen ailesine giderek semiz bir buzağı getirmiş, onların önüne sürüp: "
 
 # 4702
 
+<!-- TODO:DUPLICATE -->
+
 Hemen ailesine giderek semiz bir buzağı getirmiş, onların önüne sürüp: "Yemez misiniz?" demişti.
 
 # 4703
@@ -18838,9 +19920,13 @@ Elçiler: "Suçlu bir milletin üzerine, Rabbinin katından işaretli olarak, a�
 
 # 4708
 
+<!-- TODO:DUPLICATE -->
+
 Elçiler: "Suçlu bir milletin üzerine, Rabbinin katından işaretli olarak, aşırı gidenlere mahsus sert taşlar göndermekle görevlendirildik" dediler.
 
 # 4709
+
+<!-- TODO:DUPLICATE -->
 
 Elçiler: "Suçlu bir milletin üzerine, Rabbinin katından işaretli olarak, aşırı gidenlere mahsus sert taşlar göndermekle görevlendirildik" dediler.
 
@@ -18873,6 +19959,8 @@ Sonunda onu ve ordularını yakalayıp denize attık. O, kınanmayı haketmişti
 Ad milletinin başından geçende de ibret vardır: Onların üzerine, uğradığı her şeyi bırakmayıp toza çeviren kuru bir rüzgar gönderdik.
 
 # 4717
+
+<!-- TODO:DUPLICATE -->
 
 Ad milletinin başından geçende de ibret vardır: Onların üzerine, uğradığı her şeyi bırakmayıp toza çeviren kuru bir rüzgar gönderdik.
 
@@ -18954,29 +20042,43 @@ Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir 
 
 # 4737
 
+<!-- TODO:DUPLICATE -->
+
 Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur.
 
 # 4738
+
+<!-- TODO:DUPLICATE -->
 
 Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur.
 
 # 4739
 
+<!-- TODO:DUPLICATE -->
+
 Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur.
 
 # 4740
+
+<!-- TODO:DUPLICATE -->
 
 Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur.
 
 # 4741
 
+<!-- TODO:DUPLICATE -->
+
 Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur.
 
 # 4742
 
+<!-- TODO:DUPLICATE -->
+
 Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur.
 
 # 4743
+
+<!-- TODO:DUPLICATE -->
 
 Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur.
 
@@ -18986,13 +20088,19 @@ Göğün sarsıldıkça sarsılacağı, dağların yürüdükçe yürüyeceği g
 
 # 4745
 
+<!-- TODO:DUPLICATE -->
+
 Göğün sarsıldıkça sarsılacağı, dağların yürüdükçe yürüyeceği gün; işte o gün, daldıkları yerde eğlenip oyalanarak kıyameti yalanlayanlara yazık olacak!
 
 # 4746
 
+<!-- TODO:DUPLICATE -->
+
 Göğün sarsıldıkça sarsılacağı, dağların yürüdükçe yürüyeceği gün; işte o gün, daldıkları yerde eğlenip oyalanarak kıyameti yalanlayanlara yazık olacak!
 
 # 4747
+
+<!-- TODO:DUPLICATE -->
 
 Göğün sarsıldıkça sarsılacağı, dağların yürüdükçe yürüyeceği gün; işte o gün, daldıkları yerde eğlenip oyalanarak kıyameti yalanlayanlara yazık olacak!
 
@@ -19002,6 +20110,8 @@ Cehennem ateşine itildikçe itildikleri gün, onlara: "İşte yalanlayıp durdu
 
 # 4749
 
+<!-- TODO:DUPLICATE -->
+
 Cehennem ateşine itildikçe itildikleri gün, onlara: "İşte yalanlayıp durduğunuz ateş budur;
 
 # 4750
@@ -19009,6 +20119,8 @@ Cehennem ateşine itildikçe itildikleri gün, onlara: "İşte yalanlayıp durdu
 Bu bir büyü müdür, yoksa hala görmez misiniz? Girin oraya, sabretseniz de sabretmeseniz de artık birdir; ancak işlediklerinizin karşılığını görüyorsunuz" denir.
 
 # 4751
+
+<!-- TODO:DUPLICATE -->
 
 Bu bir büyü müdür, yoksa hala görmez misiniz? Girin oraya, sabretseniz de sabretmeseniz de artık birdir; ancak işlediklerinizin karşılığını görüyorsunuz" denir.
 
@@ -19018,6 +20130,8 @@ Allah'a karşı gelmekten sakınanlar, şüphesiz, cennetlerde ve Rablerinin ken
 
 # 4753
 
+<!-- TODO:DUPLICATE -->
+
 Allah'a karşı gelmekten sakınanlar, şüphesiz, cennetlerde ve Rablerinin kendilerine verdikleriyle zevk duyarak nimetler içindedirler. Rableri onları cehennem azabından korumuştur.
 
 # 4754
@@ -19025,6 +20139,8 @@ Allah'a karşı gelmekten sakınanlar, şüphesiz, cennetlerde ve Rablerinin ken
 Onlara şöyle denir: "İşlediklerinizden ötürü, dizi dizi tahtlara yaslanarak afiyetle yiyin için." Onlara, ceylan gözlü eşler veririz.
 
 # 4755
+
+<!-- TODO:DUPLICATE -->
 
 Onlara şöyle denir: "İşlediklerinizden ötürü, dizi dizi tahtlara yaslanarak afiyetle yiyin için." Onlara, ceylan gözlü eşler veririz.
 
@@ -19054,9 +20170,13 @@ Birbirlerine dönüp soruşurlar:
 
 # 4762
 
+<!-- TODO:DUPLICATE -->
+
 "Doğrusu bundan önce ailemizin yanında bile korku içindeydik; Allah lütfedip bizi kavurucu azabdan korudu; doğrusu bundan önce de O'na yalvarıyorduk; şüphesiz O, iyilik yapandır, acıyandır" derler.
 
 # 4763
+
+<!-- TODO:DUPLICATE -->
 
 "Doğrusu bundan önce ailemizin yanında bile korku içindeydik; Allah lütfedip bizi kavurucu azabdan korudu; doğrusu bundan önce de O'na yalvarıyorduk; şüphesiz O, iyilik yapandır, acıyandır" derler.
 
@@ -19166,9 +20286,13 @@ Ona, çetin kuvvetlere sahip ve güçlü olan Cebrail öğretmiştir; en yüksek
 
 # 4790
 
+<!-- TODO:DUPLICATE -->
+
 Ona, çetin kuvvetlere sahip ve güçlü olan Cebrail öğretmiştir; en yüksek ufukta iken doğruluvermiş.
 
 # 4791
+
+<!-- TODO:DUPLICATE -->
 
 Ona, çetin kuvvetlere sahip ve güçlü olan Cebrail öğretmiştir; en yüksek ufukta iken doğruluvermiş.
 
@@ -19198,6 +20322,8 @@ And olsun ki o, Cebrail'i sınırın sonunda başka bir inişinde de görmüşt�
 
 # 4798
 
+<!-- TODO:DUPLICATE -->
+
 And olsun ki o, Cebrail'i sınırın sonunda başka bir inişinde de görmüştür.
 
 # 4799
@@ -19221,6 +20347,8 @@ And olsun ki Rabbinin varlığının büyük delillerini gördü.
 Ey inkarcılar! Şimdi Lat, Uzza ve bundan başka üçüncüleri olan Menat'ın ne olduğunu söyler misiniz?
 
 # 4804
+
+<!-- TODO:DUPLICATE -->
 
 Ey inkarcılar! Şimdi Lat, Uzza ve bundan başka üçüncüleri olan Menat'ın ne olduğunu söyler misiniz?
 
@@ -19270,6 +20398,8 @@ Göklerde olanlar ve yerde olanlar Allah'ındır ki O, kötülük yapanlara işl
 
 # 4816
 
+<!-- TODO:DUPLICATE -->
+
 Göklerde olanlar ve yerde olanlar Allah'ındır ki O, kötülük yapanlara işlerinin karşılığını verir; iyi davrananlara, ufak tefek kabahatleri bir yana büyük günahlardan ve hayasızlıklardan kaçınanlara işlediklerinden daha iyisiyle karşılığını verir. Doğrusu Rabbinin bağışı boldur. Sizi yerden var ederken ve siz annelerinizin karınlarında cenin halinde iken sizleri çok iyi bilen O'dur. Kendinizi temize çıkarmayın. O, sakınanı çok iyi bilir.
 
 # 4817
@@ -19277,6 +20407,8 @@ Göklerde olanlar ve yerde olanlar Allah'ındır ki O, kötülük yapanlara işl
 Yüz çevireni ve malından biraz verip sonra vermemekte direneni gördün mü?"
 
 # 4818
+
+<!-- TODO:DUPLICATE -->
 
 Yüz çevireni ve malından biraz verip sonra vermemekte direneni gördün mü?"
 
@@ -19289,6 +20421,8 @@ Görülmeyenin ilmi yanında da o mu görüyor?
 Yoksa Musa'nın ve sözünü yerine getiren İbrahim'in kitablarında olanlar kendisine bildirilmedi mi ki?
 
 # 4821
+
+<!-- TODO:DUPLICATE -->
 
 Yoksa Musa'nın ve sözünü yerine getiren İbrahim'in kitablarında olanlar kendisine bildirilmedi mi ki?
 
@@ -19326,6 +20460,8 @@ Doğrusu, atıldığında meniden erkek ve dişiyi, iki çifti yaratan O'dur.
 
 # 4830
 
+<!-- TODO:DUPLICATE -->
+
 Doğrusu, atıldığında meniden erkek ve dişiyi, iki çifti yaratan O'dur.
 
 # 4831
@@ -19346,6 +20482,8 @@ Doğrusu Şira yıldızının Rabbi O'dur.
 
 # 4835
 
+<!-- TODO:DUPLICATE -->
+
 İlk Ad milletini, Semud milletini yok edip geri bırakmayan O'dur.
 
 # 4836
@@ -19357,6 +20495,8 @@ Daha önce de Nuh milletini yok eden O'dur; çünkü onlar çok zalim ve pek ta�
 Lut milletinin kasabalarını yere batıran, onları gömdükçe gömen O'dur.
 
 # 4838
+
+<!-- TODO:DUPLICATE -->
 
 Lut milletinin kasabalarını yere batıran, onları gömdükçe gömen O'dur.
 
@@ -19398,6 +20538,8 @@ Kıyamet saati yaklaşır, ay yarılır; onlar bir delil görünce hala yüz çe
 
 # 4848
 
+<!-- TODO:DUPLICATE -->
+
 Kıyamet saati yaklaşır, ay yarılır; onlar bir delil görünce hala yüz çevirirler ve: "Süregelen bir sihir" derler.
 
 # 4849
@@ -19421,6 +20563,8 @@ Bu haberlerin her birinde üstün hikmet vardır; ama uyarmalar fayda vermiyor.
 Gözleri dalgın dalgın, çekirgeler gibi yayılmış, o çağırana koşarak kabirlerden çıkarlar. İnkarcılar: "Bu, zorlu bir gündür" derler.
 
 # 4854
+
+<!-- TODO:DUPLICATE -->
 
 Gözleri dalgın dalgın, çekirgeler gibi yayılmış, o çağırana koşarak kabirlerden çıkarlar. İnkarcılar: "Bu, zorlu bir gündür" derler.
 
@@ -19446,6 +20590,8 @@ Onu, tahtadan yapılmış, mıhla çakılmış bir gemiye bindirdik; inkar edilm
 
 # 4860
 
+<!-- TODO:DUPLICATE -->
+
 Onu, tahtadan yapılmış, mıhla çakılmış bir gemiye bindirdik; inkar edilmiş olan Nuh'a mükafat olarak verdiğimiz gemi nezaretimiz altında yüzüyordu.
 
 # 4861
@@ -19470,6 +20616,8 @@ Nitekim üzerlerine, insanları, sökülmüş hurma kütüğü gibi kopararak ye
 
 # 4866
 
+<!-- TODO:DUPLICATE -->
+
 Nitekim üzerlerine, insanları, sökülmüş hurma kütüğü gibi kopararak yere seren, dondurucu bir rüzgarı uğursuzluğu devam eden bir günde gönderdik.
 
 # 4867
@@ -19489,6 +20637,8 @@ Semud milleti uyaran peygamberleri yalanladı.
 "İçimizden bir insana mı uyacağız? O zaman biz sapıklık ve delilik etmiş oluruz. Kitap, aramızda, ona mı verilmiş? Hayır, o pek yalancı ve şımarığın biridir" dediler.
 
 # 4871
+
+<!-- TODO:DUPLICATE -->
 
 "İçimizden bir insana mı uyacağız? O zaman biz sapıklık ve delilik etmiş oluruz. Kitap, aramızda, ona mı verilmiş? Hayır, o pek yalancı ve şımarığın biridir" dediler.
 
@@ -19529,6 +20679,8 @@ Lut milleti uyaran peygamberleri yalanladı.
 Biz de üzerlerine taş yağdıran bir rüzgar gönderdik. Ancak, Lut'un taraftarlarını, katımızdan bir nimet olarak seher vakti kurtardık. Şükredene işte böyle mükafat veririz.
 
 # 4881
+
+<!-- TODO:DUPLICATE -->
 
 Biz de üzerlerine taş yağdıran bir rüzgar gönderdik. Ancak, Lut'un taraftarlarını, katımızdan bir nimet olarak seher vakti kurtardık. Şükredene işte böyle mükafat veririz.
 
@@ -19610,6 +20762,8 @@ Allah'a karşı gelmekten sakınanlar, güçlü hükümdarın katında, yüksek 
 
 # 4901
 
+<!-- TODO:DUPLICATE -->
+
 Allah'a karşı gelmekten sakınanlar, güçlü hükümdarın katında, yüksek bir derecede, cennetlerde ferahlık ve aydınlık içindedirler.
 
 # 4902
@@ -19618,6 +20772,8 @@ Rahman olan Allah Kuran'ı öğretti;
 
 # 4903
 
+<!-- TODO:DUPLICATE -->
+
 Rahman olan Allah Kuran'ı öğretti;
 
 # 4904
@@ -19625,6 +20781,8 @@ Rahman olan Allah Kuran'ı öğretti;
 İnsanı yarattı, ona konuşmayı öğretti.
 
 # 4905
+
+<!-- TODO:DUPLICATE -->
 
 İnsanı yarattı, ona konuşmayı öğretti.
 
@@ -19657,6 +20815,8 @@ Allah, yeri yaratıkları için meydana getirmiştir.
 Orada meyveler, salkımlı hurma ağaçları, kabuklu taneler, güzel kokulu otlar vardır.
 
 # 4913
+
+<!-- TODO:DUPLICATE -->
 
 Orada meyveler, salkımlı hurma ağaçları, kabuklu taneler, güzel kokulu otlar vardır.
 
@@ -19930,9 +21090,13 @@ Kıyamet koptuğunda kimini alçaltacak ve kimini yükseltecek olan o hadisenin 
 
 # 4981
 
+<!-- TODO:DUPLICATE -->
+
 Kıyamet koptuğunda kimini alçaltacak ve kimini yükseltecek olan o hadisenin yalan olmadığı ortaya çıkacaktır.
 
 # 4982
+
+<!-- TODO:DUPLICATE -->
 
 Kıyamet koptuğunda kimini alçaltacak ve kimini yükseltecek olan o hadisenin yalan olmadığı ortaya çıkacaktır.
 
@@ -19942,13 +21106,19 @@ Ey insanlar! Yer sarsıldıkça sarsıldığı, dağlar ufalandıkça ufalanıp 
 
 # 4984
 
+<!-- TODO:DUPLICATE -->
+
 Ey insanlar! Yer sarsıldıkça sarsıldığı, dağlar ufalandıkça ufalanıp da toz duman haline geldiği zaman, siz de üç sınıf olursunuz.
 
 # 4985
 
+<!-- TODO:DUPLICATE -->
+
 Ey insanlar! Yer sarsıldıkça sarsıldığı, dağlar ufalandıkça ufalanıp da toz duman haline geldiği zaman, siz de üç sınıf olursunuz.
 
 # 4986
+
+<!-- TODO:DUPLICATE -->
 
 Ey insanlar! Yer sarsıldıkça sarsıldığı, dağlar ufalandıkça ufalanıp da toz duman haline geldiği zaman, siz de üç sınıf olursunuz.
 
@@ -19970,6 +21140,8 @@ Naim cennetlerinde Allah'a en çok yaklaştırılmış olanlar işte bunlardır.
 
 # 4991
 
+<!-- TODO:DUPLICATE -->
+
 Naim cennetlerinde Allah'a en çok yaklaştırılmış olanlar işte bunlardır.
 
 # 4992
@@ -19977,6 +21149,8 @@ Naim cennetlerinde Allah'a en çok yaklaştırılmış olanlar işte bunlardır.
 Onların büyük kısmı eski ümmetlerden, bir kısmı da sonrakilerdendir.
 
 # 4993
+
+<!-- TODO:DUPLICATE -->
 
 Onların büyük kısmı eski ümmetlerden, bir kısmı da sonrakilerdendir.
 
@@ -19986,6 +21160,8 @@ Mücevheratla işlenmiş tahtlara karşılıklı olarak yaslanırlar.
 
 # 4995
 
+<!-- TODO:DUPLICATE -->
+
 Mücevheratla işlenmiş tahtlara karşılıklı olarak yaslanırlar.
 
 # 4996
@@ -19994,17 +21170,25 @@ Mücevheratla işlenmiş tahtlara karşılıklı olarak yaslanırlar.
 
 # 4997
 
+<!-- TODO:DUPLICATE -->
+
 Ölümsüz gençler yanlarında, baş ağrısı ve dönmesi vermeyen bembeyaz bir kaynaktan doldurulmuş kaseler, ibrikler, kadehler; seçecekleri meyveler, arzulayacakları kuş eti ile dolaşırlar.
 
 # 4998
+
+<!-- TODO:DUPLICATE -->
 
 Ölümsüz gençler yanlarında, baş ağrısı ve dönmesi vermeyen bembeyaz bir kaynaktan doldurulmuş kaseler, ibrikler, kadehler; seçecekleri meyveler, arzulayacakları kuş eti ile dolaşırlar.
 
 # 4999
 
+<!-- TODO:DUPLICATE -->
+
 Ölümsüz gençler yanlarında, baş ağrısı ve dönmesi vermeyen bembeyaz bir kaynaktan doldurulmuş kaseler, ibrikler, kadehler; seçecekleri meyveler, arzulayacakları kuş eti ile dolaşırlar.
 
 # 5000
+
+<!-- TODO:DUPLICATE -->
 
 Ölümsüz gençler yanlarında, baş ağrısı ve dönmesi vermeyen bembeyaz bir kaynaktan doldurulmuş kaseler, ibrikler, kadehler; seçecekleri meyveler, arzulayacakları kuş eti ile dolaşırlar.
 
@@ -20014,9 +21198,13 @@ Mücevheratla işlenmiş tahtlara karşılıklı olarak yaslanırlar.
 
 # 5002
 
+<!-- TODO:DUPLICATE -->
+
 İşlediklerine karşılık olarak, sedefteki inciler gibi ceylan gözlüler vardır. Orada boş ve günaha sokacak bir söz duymazlar.
 
 # 5003
+
+<!-- TODO:DUPLICATE -->
 
 İşlediklerine karşılık olarak, sedefteki inciler gibi ceylan gözlüler vardır. Orada boş ve günaha sokacak bir söz duymazlar.
 
@@ -20034,29 +21222,43 @@ Onlar dikensiz sedir ağaçları, salkımları sarkmış muz ağaçları, uzamı
 
 # 5007
 
+<!-- TODO:DUPLICATE -->
+
 Onlar dikensiz sedir ağaçları, salkımları sarkmış muz ağaçları, uzamış gölge altında, çağlayarak akan sular kenarlarında; bitip tükenmeyen ve yasak da edilmeyen bol meyveler arasında; yüksek döşekler üzerindedirler.
 
 # 5008
+
+<!-- TODO:DUPLICATE -->
 
 Onlar dikensiz sedir ağaçları, salkımları sarkmış muz ağaçları, uzamış gölge altında, çağlayarak akan sular kenarlarında; bitip tükenmeyen ve yasak da edilmeyen bol meyveler arasında; yüksek döşekler üzerindedirler.
 
 # 5009
 
+<!-- TODO:DUPLICATE -->
+
 Onlar dikensiz sedir ağaçları, salkımları sarkmış muz ağaçları, uzamış gölge altında, çağlayarak akan sular kenarlarında; bitip tükenmeyen ve yasak da edilmeyen bol meyveler arasında; yüksek döşekler üzerindedirler.
 
 # 5010
+
+<!-- TODO:DUPLICATE -->
 
 Onlar dikensiz sedir ağaçları, salkımları sarkmış muz ağaçları, uzamış gölge altında, çağlayarak akan sular kenarlarında; bitip tükenmeyen ve yasak da edilmeyen bol meyveler arasında; yüksek döşekler üzerindedirler.
 
 # 5011
 
+<!-- TODO:DUPLICATE -->
+
 Onlar dikensiz sedir ağaçları, salkımları sarkmış muz ağaçları, uzamış gölge altında, çağlayarak akan sular kenarlarında; bitip tükenmeyen ve yasak da edilmeyen bol meyveler arasında; yüksek döşekler üzerindedirler.
 
 # 5012
 
+<!-- TODO:DUPLICATE -->
+
 Onlar dikensiz sedir ağaçları, salkımları sarkmış muz ağaçları, uzamış gölge altında, çağlayarak akan sular kenarlarında; bitip tükenmeyen ve yasak da edilmeyen bol meyveler arasında; yüksek döşekler üzerindedirler.
 
 # 5013
+
+<!-- TODO:DUPLICATE -->
 
 Onlar dikensiz sedir ağaçları, salkımları sarkmış muz ağaçları, uzamış gölge altında, çağlayarak akan sular kenarlarında; bitip tükenmeyen ve yasak da edilmeyen bol meyveler arasında; yüksek döşekler üzerindedirler.
 
@@ -20066,13 +21268,19 @@ Biz ceylan gözlüleri, defterleri sağdan verilenler için yeniden yaratmışı
 
 # 5015
 
+<!-- TODO:DUPLICATE -->
+
 Biz ceylan gözlüleri, defterleri sağdan verilenler için yeniden yaratmışızdır; onları bakire, eşlerine düşkün ve hepsini bir yaşta kılmışızdır.
 
 # 5016
 
+<!-- TODO:DUPLICATE -->
+
 Biz ceylan gözlüleri, defterleri sağdan verilenler için yeniden yaratmışızdır; onları bakire, eşlerine düşkün ve hepsini bir yaşta kılmışızdır.
 
 # 5017
+
+<!-- TODO:DUPLICATE -->
 
 Biz ceylan gözlüleri, defterleri sağdan verilenler için yeniden yaratmışızdır; onları bakire, eşlerine düşkün ve hepsini bir yaşta kılmışızdır.
 
@@ -20081,6 +21289,8 @@ Biz ceylan gözlüleri, defterleri sağdan verilenler için yeniden yaratmışı
 Bunların bir kısmı eski ümmetlerden, bir kısmı da sonrakilerdendir.
 
 # 5019
+
+<!-- TODO:DUPLICATE -->
 
 Bunların bir kısmı eski ümmetlerden, bir kısmı da sonrakilerdendir.
 
@@ -20094,9 +21304,13 @@ Defterleri soldan verilenler; ne yazık o solculara!
 
 # 5022
 
+<!-- TODO:DUPLICATE -->
+
 İnsanın içine işleyen bir sıcaklık ve kaynar su içinde, serinliği ve hoşluğu olmayan kara bir dumanın gölgesinde bulunurlar.
 
 # 5023
+
+<!-- TODO:DUPLICATE -->
 
 İnsanın içine işleyen bir sıcaklık ve kaynar su içinde, serinliği ve hoşluğu olmayan kara bir dumanın gölgesinde bulunurlar.
 
@@ -20105,6 +21319,8 @@ Defterleri soldan verilenler; ne yazık o solculara!
 Çünkü onlar, bundan önce, dünyada, nimet içinde bulunurlar iken, büyük günah işlemekte direnir dururlardı.
 
 # 5025
+
+<!-- TODO:DUPLICATE -->
 
 Çünkü onlar, bundan önce, dünyada, nimet içinde bulunurlar iken, büyük günah işlemekte direnir dururlardı.
 
@@ -20121,6 +21337,8 @@ Defterleri soldan verilenler; ne yazık o solculara!
 De ki: "Şüphesiz öncekiler de, sonrakiler de belli bir günün belirli bir vaktinde toplanacaklardır."
 
 # 5029
+
+<!-- TODO:DUPLICATE -->
 
 De ki: "Şüphesiz öncekiler de, sonrakiler de belli bir günün belirli bir vaktinde toplanacaklardır."
 
@@ -20158,6 +21376,8 @@ Söyleyin; akıttığınız meniden insanı yaratan siz misiniz, yoksa Biz mi ya
 
 # 5038
 
+<!-- TODO:DUPLICATE -->
+
 Söyleyin; akıttığınız meniden insanı yaratan siz misiniz, yoksa Biz mi yaratmaktayız?
 
 # 5039
@@ -20165,6 +21385,8 @@ Söyleyin; akıttığınız meniden insanı yaratan siz misiniz, yoksa Biz mi ya
 Ölümü aranızda Biz tayin ettik; sizi ortadan kaldırıp benzerlerinizi yerinize getirmeyi, sizi bilmediğiniz şekilde var etmeyi dilesek kimse önümüze geçemez.
 
 # 5040
+
+<!-- TODO:DUPLICATE -->
 
 Ölümü aranızda Biz tayin ettik; sizi ortadan kaldırıp benzerlerinizi yerinize getirmeyi, sizi bilmediğiniz şekilde var etmeyi dilesek kimse önümüze geçemez.
 
@@ -20178,6 +21400,8 @@ Söyleyin, ektiklerinizi yerden bitirenler sizler misiniz, yoksa Biz mi bitiriyo
 
 # 5043
 
+<!-- TODO:DUPLICATE -->
+
 Söyleyin, ektiklerinizi yerden bitirenler sizler misiniz, yoksa Biz mi bitiriyoruz?
 
 # 5044
@@ -20186,9 +21410,13 @@ Dilersek Biz onu çerçöp yaparız, şaşar kalırsınız; "Doğrusu borç alt�
 
 # 5045
 
+<!-- TODO:DUPLICATE -->
+
 Dilersek Biz onu çerçöp yaparız, şaşar kalırsınız; "Doğrusu borç altına girdik, hatta yoksun kaldık".
 
 # 5046
+
+<!-- TODO:DUPLICATE -->
 
 Dilersek Biz onu çerçöp yaparız, şaşar kalırsınız; "Doğrusu borç altına girdik, hatta yoksun kaldık".
 
@@ -20197,6 +21425,8 @@ Dilersek Biz onu çerçöp yaparız, şaşar kalırsınız; "Doğrusu borç alt�
 Söyleyin; içtiğiniz suyu buluttan indirenler sizler misiniz yoksa onu Biz mi indiririz?
 
 # 5048
+
+<!-- TODO:DUPLICATE -->
 
 Söyleyin; içtiğiniz suyu buluttan indirenler sizler misiniz yoksa onu Biz mi indiririz?
 
@@ -20209,6 +21439,8 @@ Dileseydik onu acılaştırırdık; hala şükretmez misiniz?
 Söyleyin; yaktığınız ateşin ağacını var eden sizler misiniz, yoksa onu Biz mi var ederiz?
 
 # 5051
+
+<!-- TODO:DUPLICATE -->
 
 Söyleyin; yaktığınız ateşin ağacını var eden sizler misiniz, yoksa onu Biz mi var ederiz?
 
@@ -20226,6 +21458,8 @@ Hayır; yıldızların yerleri üzerine yemin ederim; ki bunun ne büyük yemin 
 
 # 5055
 
+<!-- TODO:DUPLICATE -->
+
 Hayır; yıldızların yerleri üzerine yemin ederim; ki bunun ne büyük yemin olduğunu bir bilseniz!
 
 # 5056
@@ -20234,13 +21468,19 @@ Doğrusu bu Kitap, sadece arınmış olanların dokunabileceği, saklı bir Kita
 
 # 5057
 
+<!-- TODO:DUPLICATE -->
+
 Doğrusu bu Kitap, sadece arınmış olanların dokunabileceği, saklı bir Kitap'da mevcutken Alemlerin Rabbi tarafından indirilmiş olan Kuranı Kerim'dir.
 
 # 5058
 
+<!-- TODO:DUPLICATE -->
+
 Doğrusu bu Kitap, sadece arınmış olanların dokunabileceği, saklı bir Kitap'da mevcutken Alemlerin Rabbi tarafından indirilmiş olan Kuranı Kerim'dir.
 
 # 5059
+
+<!-- TODO:DUPLICATE -->
 
 Doğrusu bu Kitap, sadece arınmış olanların dokunabileceği, saklı bir Kitap'da mevcutken Alemlerin Rabbi tarafından indirilmiş olan Kuranı Kerim'dir.
 
@@ -20258,9 +21498,13 @@ Kişinin canı boğaza dayanınca ve siz o zaman bakıp kalırken, Biz o kişiye
 
 # 5063
 
+<!-- TODO:DUPLICATE -->
+
 Kişinin canı boğaza dayanınca ve siz o zaman bakıp kalırken, Biz o kişiye sizden daha yakınızdır, ama görmezsiniz.
 
 # 5064
+
+<!-- TODO:DUPLICATE -->
 
 Kişinin canı boğaza dayanınca ve siz o zaman bakıp kalırken, Biz o kişiye sizden daha yakınızdır, ama görmezsiniz.
 
@@ -20270,6 +21514,8 @@ Siz dirilip yaptıklarınıza karşılık görmeyecekseniz ve eğer bu sözünü
 
 # 5066
 
+<!-- TODO:DUPLICATE -->
+
 Siz dirilip yaptıklarınıza karşılık görmeyecekseniz ve eğer bu sözünüzde samimi iseniz, o çıkmak üzere olan canı geri çevirsenize!
 
 # 5067
@@ -20277,6 +21523,8 @@ Siz dirilip yaptıklarınıza karşılık görmeyecekseniz ve eğer bu sözünü
 Eğer ölen o kişi, gözdelerden ise, rahatlık, hoşluk ve nimet cenneti onundur.
 
 # 5068
+
+<!-- TODO:DUPLICATE -->
 
 Eğer ölen o kişi, gözdelerden ise, rahatlık, hoşluk ve nimet cenneti onundur.
 
@@ -20886,6 +22134,8 @@ Kadınların iddet süreleri biteceğinde, onları ya uygun bir şekilde alıkoy
 
 # 5220
 
+<!-- TODO:DUPLICATE -->
+
 Kadınların iddet süreleri biteceğinde, onları ya uygun bir şekilde alıkoyun, ya da onlardan ayrılın; içinizden de iki adil şahit getirin; şahidliği Allah için yapın; işte bu, Allah'a ve ahiret gününe inanan kimseye verilen öğüttür. Allah, kendisine karşı gelmekten sakınan kimseye kurtuluş yolu sağlar, ona beklemediği yerden rızık verir. Allah'a güvenen kimseye O yeter. Allah, buyruğunu yerine getirendir. Allah her şey için bir ölçü var etmiştir.
 
 # 5221
@@ -21098,6 +22348,8 @@ Nun; kalem ve onunla yazılanlara and olsun ki, sen Rabbinin nimetine uğramış
 
 # 5273
 
+<!-- TODO:DUPLICATE -->
+
 Nun; kalem ve onunla yazılanlara and olsun ki, sen Rabbinin nimetine uğramış bir kimsesin, deli (cinlenmiş) değilsin.
 
 # 5274
@@ -21113,6 +22365,8 @@ Doğrusu sana kesintisiz bir ecir vardır.
 Hanginizin aklından zoru olduğunu yakında sen de göreceksin, onlar da görecekler.
 
 # 5277
+
+<!-- TODO:DUPLICATE -->
 
 Hanginizin aklından zoru olduğunu yakında sen de göreceksin, onlar da görecekler.
 
@@ -21134,17 +22388,25 @@ Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, su�
 
 # 5282
 
+<!-- TODO:DUPLICATE -->
+
 Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç işleyen, çok yemin eden alçak zorbaya, bütün bunlar dışında bir de soysuzlukla damgalanmış kimseye, mal ve oğulları vardır diye aldırış etmeyesin.
 
 # 5283
+
+<!-- TODO:DUPLICATE -->
 
 Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç işleyen, çok yemin eden alçak zorbaya, bütün bunlar dışında bir de soysuzlukla damgalanmış kimseye, mal ve oğulları vardır diye aldırış etmeyesin.
 
 # 5284
 
+<!-- TODO:DUPLICATE -->
+
 Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç işleyen, çok yemin eden alçak zorbaya, bütün bunlar dışında bir de soysuzlukla damgalanmış kimseye, mal ve oğulları vardır diye aldırış etmeyesin.
 
 # 5285
+
+<!-- TODO:DUPLICATE -->
 
 Diliyle iğneleyen, kovuculuk eden, iyiliği daima önleyen, aşırı giden, suç işleyen, çok yemin eden alçak zorbaya, bütün bunlar dışında bir de soysuzlukla damgalanmış kimseye, mal ve oğulları vardır diye aldırış etmeyesin.
 
@@ -21162,6 +22424,8 @@ Biz bunları, vaktiyle bahçe sahiplerini denediğimiz gibi denedik. Sahipleri d
 
 # 5289
 
+<!-- TODO:DUPLICATE -->
+
 Biz bunları, vaktiyle bahçe sahiplerini denediğimiz gibi denedik. Sahipleri daha sabah olmadan, bahçeyi devşireceklerine bir istisna payı bırakmaksızın yemin etmişlerdi.
 
 # 5290
@@ -21169,6 +22433,8 @@ Biz bunları, vaktiyle bahçe sahiplerini denediğimiz gibi denedik. Sahipleri d
 Ama onlar daha uykudayken Rabbinin katından gönderilen bir salgın o bahçeyi sarıvermişti de bahçe kapkara kesilmişti.
 
 # 5291
+
+<!-- TODO:DUPLICATE -->
 
 Ama onlar daha uykudayken Rabbinin katından gönderilen bir salgın o bahçeyi sarıvermişti de bahçe kapkara kesilmişti.
 
@@ -21178,6 +22444,8 @@ Sabah erken: "Ürünlerinizi devşirecekseniz erken çıkın" diye birbirlerine 
 
 # 5293
 
+<!-- TODO:DUPLICATE -->
+
 Sabah erken: "Ürünlerinizi devşirecekseniz erken çıkın" diye birbirlerine seslendiler.
 
 # 5294
@@ -21185,6 +22453,8 @@ Sabah erken: "Ürünlerinizi devşirecekseniz erken çıkın" diye birbirlerine 
 "Bugün orada, hiçbir düşkün kimse yanımıza sokulmasın" diye gizli gizli konuşarak yürüyorlardı.
 
 # 5295
+
+<!-- TODO:DUPLICATE -->
 
 "Bugün orada, hiçbir düşkün kimse yanımıza sokulmasın" diye gizli gizli konuşarak yürüyorlardı.
 
@@ -21197,6 +22467,8 @@ Yoksullara yardım etmeye güçleri yeterken böyle konuşarak erkenden gittiler
 Bahçeyi gördüklerinde: "Herhalde yolumuzu şaşırmış olacağız; belki de biz yoksun bırakıldık" dediler.
 
 # 5298
+
+<!-- TODO:DUPLICATE -->
 
 Bahçeyi gördüklerinde: "Herhalde yolumuzu şaşırmış olacağız; belki de biz yoksun bırakıldık" dediler.
 
@@ -21262,6 +22534,8 @@ O gün işin dehşetinden baldırlar açılır; gözleri dönmüş olarak yüzle
 
 # 5314
 
+<!-- TODO:DUPLICATE -->
+
 O gün işin dehşetinden baldırlar açılır; gözleri dönmüş olarak yüzlerini zillet bürür; secdeye çağırılırlar ama buna güçleri yetmez. Oysa, kendileri sapasağlam oldukları zaman secdeye çağırılmışlardı.
 
 # 5315
@@ -21293,6 +22567,8 @@ Rabbinin katından ona bir nimet ulaşmasaydı, kınanmış olarak sahile atıla
 Rabbi onu seçip iyilerden kıldı. Doğrusu inkar edenler, Kuran'ı dinlediklerinde nerdeyse seni gözleriyle yıkıp devireceklerdi. "O delidir" diyorlardı.
 
 # 5322
+
+<!-- TODO:DUPLICATE -->
 
 Rabbi onu seçip iyilerden kıldı. Doğrusu inkar edenler, Kuran'ı dinlediklerinde nerdeyse seni gözleriyle yıkıp devireceklerdi. "O delidir" diyorlardı.
 
@@ -21346,6 +22622,8 @@ Su taştığı vakit, size bir ibret olmak üzere, anlayışlı kulaklar anlası
 
 # 5335
 
+<!-- TODO:DUPLICATE -->
+
 Su taştığı vakit, size bir ibret olmak üzere, anlayışlı kulaklar anlasın diye süzülen gemide, sizi Biz taşımışızdır.
 
 # 5336
@@ -21354,9 +22632,13 @@ Sura bir üfürüş üfürüldüğü, yer ve dağlar kaldırılıp bir vuruşla 
 
 # 5337
 
+<!-- TODO:DUPLICATE -->
+
 Sura bir üfürüş üfürüldüğü, yer ve dağlar kaldırılıp bir vuruşla birbirine çarpıldığı zaman, işte o gün olacak olur, kıyamet kopar.
 
 # 5338
+
+<!-- TODO:DUPLICATE -->
 
 Sura bir üfürüş üfürüldüğü, yer ve dağlar kaldırılıp bir vuruşla birbirine çarpıldığı zaman, işte o gün olacak olur, kıyamet kopar.
 
@@ -21378,6 +22660,8 @@ Kitabı sağından verilen; "Alın, kitabımı okuyun, doğrusu bir hesaplaşma 
 
 # 5343
 
+<!-- TODO:DUPLICATE -->
+
 Kitabı sağından verilen; "Alın, kitabımı okuyun, doğrusu bir hesaplaşma ile karşılaşacağımı umuyordum" der.
 
 # 5344
@@ -21386,9 +22670,13 @@ Artık o, meyveleri sarkmış, yüksek bir bahçede, hoş bir yaşayış içinde
 
 # 5345
 
+<!-- TODO:DUPLICATE -->
+
 Artık o, meyveleri sarkmış, yüksek bir bahçede, hoş bir yaşayış içindedir.
 
 # 5346
+
+<!-- TODO:DUPLICATE -->
 
 Artık o, meyveleri sarkmış, yüksek bir bahçede, hoş bir yaşayış içindedir.
 
@@ -21402,17 +22690,25 @@ Fakat kitabı kendisine solundan verilen kimse: "Kitabım keşke bana verilmesey
 
 # 5349
 
+<!-- TODO:DUPLICATE -->
+
 Fakat kitabı kendisine solundan verilen kimse: "Kitabım keşke bana verilmeseydi; keşke hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş olsaydı; malım bana fayda vermedi; gücüm de kalmadı" der.
 
 # 5350
+
+<!-- TODO:DUPLICATE -->
 
 Fakat kitabı kendisine solundan verilen kimse: "Kitabım keşke bana verilmeseydi; keşke hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş olsaydı; malım bana fayda vermedi; gücüm de kalmadı" der.
 
 # 5351
 
+<!-- TODO:DUPLICATE -->
+
 Fakat kitabı kendisine solundan verilen kimse: "Kitabım keşke bana verilmeseydi; keşke hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş olsaydı; malım bana fayda vermedi; gücüm de kalmadı" der.
 
 # 5352
+
+<!-- TODO:DUPLICATE -->
 
 Fakat kitabı kendisine solundan verilen kimse: "Kitabım keşke bana verilmeseydi; keşke hesabımın ne olduğunu bilmeseydim; bu iş keşke son bulmuş olsaydı; malım bana fayda vermedi; gücüm de kalmadı" der.
 
@@ -21446,6 +22742,8 @@ Fakat kitabı kendisine solundan verilen kimse: "Kitabım keşke bana verilmesey
 
 # 5360
 
+<!-- TODO:DUPLICATE -->
+
 "Günahkarların yiyeceği olan kanlı irinden başka bir yiyeceği de yoktur."
 
 # 5361
@@ -21454,9 +22752,13 @@ Görebildikleriniz ve göremedikleriniz üzerine yemin ederim ki, Kuran şerefli
 
 # 5362
 
+<!-- TODO:DUPLICATE -->
+
 Görebildikleriniz ve göremedikleriniz üzerine yemin ederim ki, Kuran şerefli bir elçinin getirdiği sözdür.
 
 # 5363
+
+<!-- TODO:DUPLICATE -->
 
 Görebildikleriniz ve göremedikleriniz üzerine yemin ederim ki, Kuran şerefli bir elçinin getirdiği sözdür.
 
@@ -21478,9 +22780,13 @@ Eğer o (Muhammed), Bize karşı, ona bazı sözler katmış olsaydı, Biz onu k
 
 # 5368
 
+<!-- TODO:DUPLICATE -->
+
 Eğer o (Muhammed), Bize karşı, ona bazı sözler katmış olsaydı, Biz onu kuvvetle yakalardık, sonra onun şah damarını koparırdık.
 
 # 5369
+
+<!-- TODO:DUPLICATE -->
 
 Eğer o (Muhammed), Bize karşı, ona bazı sözler katmış olsaydı, Biz onu kuvvetle yakalardık, sonra onun şah damarını koparırdık.
 
@@ -21514,9 +22820,13 @@ Birisi, yüksek derecelere sahip olan Allah katından, inkarcılara gelecek ve s
 
 # 5377
 
+<!-- TODO:DUPLICATE -->
+
 Birisi, yüksek derecelere sahip olan Allah katından, inkarcılara gelecek ve savunulması imkansız olacak azabı soruyor.
 
 # 5378
+
+<!-- TODO:DUPLICATE -->
 
 Birisi, yüksek derecelere sahip olan Allah katından, inkarcılara gelecek ve savunulması imkansız olacak azabı soruyor.
 
@@ -21554,13 +22864,19 @@ Onlar birbirlerine yalnız gösterilirler. Suçlu kimse o günün azabından kur
 
 # 5387
 
+<!-- TODO:DUPLICATE -->
+
 Onlar birbirlerine yalnız gösterilirler. Suçlu kimse o günün azabından kurtulmak için oğullarını, ailesini, kardeşini, kendisini barındırmış olan sülalesini ve yeryüzünde bulunan herkesi feda etmek ve böylece kendisini kurtarmak ister.
 
 # 5388
 
+<!-- TODO:DUPLICATE -->
+
 Onlar birbirlerine yalnız gösterilirler. Suçlu kimse o günün azabından kurtulmak için oğullarını, ailesini, kardeşini, kendisini barındırmış olan sülalesini ve yeryüzünde bulunan herkesi feda etmek ve böylece kendisini kurtarmak ister.
 
 # 5389
+
+<!-- TODO:DUPLICATE -->
 
 Onlar birbirlerine yalnız gösterilirler. Suçlu kimse o günün azabından kurtulmak için oğullarını, ailesini, kardeşini, kendisini barındırmış olan sülalesini ve yeryüzünde bulunan herkesi feda etmek ve böylece kendisini kurtarmak ister.
 
@@ -21570,13 +22886,19 @@ Hayır, olmaz... Orada sırtını çevirip yüzgeri edeni, malını toplayıp ki
 
 # 5391
 
+<!-- TODO:DUPLICATE -->
+
 Hayır, olmaz... Orada sırtını çevirip yüzgeri edeni, malını toplayıp kimseye hakkını vermeden saklayanı çağıran, deriyi soyup kavuran, alevli ateş vardır.
 
 # 5392
 
+<!-- TODO:DUPLICATE -->
+
 Hayır, olmaz... Orada sırtını çevirip yüzgeri edeni, malını toplayıp kimseye hakkını vermeden saklayanı çağıran, deriyi soyup kavuran, alevli ateş vardır.
 
 # 5393
+
+<!-- TODO:DUPLICATE -->
 
 Hayır, olmaz... Orada sırtını çevirip yüzgeri edeni, malını toplayıp kimseye hakkını vermeden saklayanı çağıran, deriyi soyup kavuran, alevli ateş vardır.
 
@@ -21598,21 +22920,31 @@ Ancak namaz kılıp namazlarında yoksul ve yoksuna belirli bir hak tanıyanlar,
 
 # 5398
 
+<!-- TODO:DUPLICATE -->
+
 Ancak namaz kılıp namazlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir.
 
 # 5399
+
+<!-- TODO:DUPLICATE -->
 
 Ancak namaz kılıp namazlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir.
 
 # 5400
 
+<!-- TODO:DUPLICATE -->
+
 Ancak namaz kılıp namazlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir.
 
 # 5401
 
+<!-- TODO:DUPLICATE -->
+
 Ancak namaz kılıp namazlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir.
 
 # 5402
+
+<!-- TODO:DUPLICATE -->
 
 Ancak namaz kılıp namazlarında yoksul ve yoksuna belirli bir hak tanıyanlar, ceza gününü doğrulayanlar, Rablerinin azabından korkanlar böyle değildir.
 
@@ -21625,6 +22957,8 @@ Doğrusu Rablerinin azabından kimse güvende değildir.
 Eşleri ve cariyeleri dışında, mahrem yerlerini herkesten koruyanlar, doğrusu bunlar yerilmezler.
 
 # 5405
+
+<!-- TODO:DUPLICATE -->
 
 Eşleri ve cariyeleri dışında, mahrem yerlerini herkesten koruyanlar, doğrusu bunlar yerilmezler.
 
@@ -21654,6 +22988,8 @@ Namazlarına riayet edenler,
 
 # 5412
 
+<!-- TODO:DUPLICATE -->
+
 İnkar edenlere ne oluyor, sana doğru sağdan soldan topluluklar halinde koşuşuyorlar?
 
 # 5413
@@ -21670,6 +23006,8 @@ Doğuların ve batıların Rabbine yemin ederim ki, onların yerine daha iyileri
 
 # 5416
 
+<!-- TODO:DUPLICATE -->
+
 Doğuların ve batıların Rabbine yemin ederim ki, onların yerine daha iyilerini getirmeğe Bizim gücümüz yeter ve kimse de önümüze geçemez.
 
 # 5417
@@ -21681,6 +23019,8 @@ Onları bırak; kendilerine söz verilen güne kavuşmalarına kadar dalıp oyna
 Kabirlerden çabuk çabuk çıkacakları gün, gözleri dönmüş, yüzlerini zillet bürümüş olarak sanki dikili taşlara doğru koşarlar. İşte bu, onlara söz verilmiş olan gündür.
 
 # 5419
+
+<!-- TODO:DUPLICATE -->
 
 Kabirlerden çabuk çabuk çıkacakları gün, gözleri dönmüş, yüzlerini zillet bürümüş olarak sanki dikili taşlara doğru koşarlar. İşte bu, onlara söz verilmiş olan gündür.
 
@@ -21697,6 +23037,8 @@ O da şöyle söyledi: "Ey Milletim! Şüphesiz ben, size gönderilmiş apaçık
 "Allah'a kulluk edin; O'ndan sakının ve bana itaat edin ki Allah günahlarınızı size bağışlasın ve sizi belli bir süreye kadar ertelesin; doğrusu Allah'ın belirttiği süre gelince geri bırakılamaz; keşke bilseniz!"
 
 # 5423
+
+<!-- TODO:DUPLICATE -->
 
 "Allah'a kulluk edin; O'ndan sakının ve bana itaat edin ki Allah günahlarınızı size bağışlasın ve sizi belli bir süreye kadar ertelesin; doğrusu Allah'ın belirttiği süre gelince geri bırakılamaz; keşke bilseniz!"
 
@@ -21725,6 +23067,8 @@ Nuh dedi ki: "Rabbim! Doğrusu ben, milletimi gece gündüz çağırdım."
 Dedim ki: "Rabbinizden bağışlanma dileyin; doğrusu O, çok bağışlayandır. Size gökten bol bol yağmur indirsin."
 
 # 5430
+
+<!-- TODO:DUPLICATE -->
 
 Dedim ki: "Rabbinizden bağışlanma dileyin; doğrusu O, çok bağışlayandır. Size gökten bol bol yağmur indirsin."
 
@@ -21762,6 +23106,8 @@ Dedim ki: "Rabbinizden bağışlanma dileyin; doğrusu O, çok bağışlayandır
 
 # 5439
 
+<!-- TODO:DUPLICATE -->
+
 "Yeryüzünde dolaşabilmeniz, orada yollar ve geniş geçitlerden geçebilmeniz için, onu size yayan O'dur."
 
 # 5440
@@ -21769,6 +23115,8 @@ Dedim ki: "Rabbinizden bağışlanma dileyin; doğrusu O, çok bağışlayandır
 Nuh: "Rabbim! Doğrusu bunlar bana baş kaldırdılar ve malı, çocuğu kendisine sadece zarar getiren kimseye uydular; birbirinden büyük düzenler kurdular" dedi.
 
 # 5441
+
+<!-- TODO:DUPLICATE -->
 
 Nuh: "Rabbim! Doğrusu bunlar bana baş kaldırdılar ve malı, çocuğu kendisine sadece zarar getiren kimseye uydular; birbirinden büyük düzenler kurdular" dedi.
 
@@ -21801,6 +23149,8 @@ Nuh dedi ki: "Rabbim! Yeryüzünde hiçbir inkarcı bırakma."
 De ki: "Cinlerden bir topluluğun Kuran'ı dinlediği bana vahyolundu; onlar şöyle demişlerdir;" "Doğrusu biz, doğru yola götüren, hayrete düşüren bir Kuran dinledik de ona inandık; biz, Rabbimize hiçbir şeyi ortak koşmayacağız."
 
 # 5449
+
+<!-- TODO:DUPLICATE -->
 
 De ki: "Cinlerden bir topluluğun Kuran'ı dinlediği bana vahyolundu; onlar şöyle demişlerdir;" "Doğrusu biz, doğru yola götüren, hayrete düşüren bir Kuran dinledik de ona inandık; biz, Rabbimize hiçbir şeyi ortak koşmayacağız."
 
@@ -21862,6 +23212,8 @@ Ama doğru yola girmiş olsalardı, onları bu hususta denememiz için onlara bo
 
 # 5464
 
+<!-- TODO:DUPLICATE -->
+
 Ama doğru yola girmiş olsalardı, onları bu hususta denememiz için onlara bol su içirirdik; kim Rabbini anmaktan yüz çevirirse, Rabbi onu gittikçe artan bir azaba uğratır.
 
 # 5465
@@ -21906,6 +23258,8 @@ Ancak peygamberlerden, bildirmek istediği bunun dışındadır. Rablerinin bild
 
 # 5475
 
+<!-- TODO:DUPLICATE -->
+
 Ancak peygamberlerden, bildirmek istediği bunun dışındadır. Rablerinin bildirilerini tebliğ etmelerini ortaya koymak için her peygamberin önünden ve ardından gözcüler salar; onların yaptıklarını ilmiyle kuşatır ve herşeyi bir bir sayar.
 
 # 5476
@@ -21914,13 +23268,19 @@ Ey örtünüp bürünen! Gecenin yarısında, istersen biraz sonra, istersen bir
 
 # 5477
 
+<!-- TODO:DUPLICATE -->
+
 Ey örtünüp bürünen! Gecenin yarısında, istersen biraz sonra, istersen biraz önce bir müddet için kalk ve ağır ağır Kuran oku.
 
 # 5478
 
+<!-- TODO:DUPLICATE -->
+
 Ey örtünüp bürünen! Gecenin yarısında, istersen biraz sonra, istersen biraz önce bir müddet için kalk ve ağır ağır Kuran oku.
 
 # 5479
+
+<!-- TODO:DUPLICATE -->
 
 Ey örtünüp bürünen! Gecenin yarısında, istersen biraz sonra, istersen biraz önce bir müddet için kalk ve ağır ağır Kuran oku.
 
@@ -21957,6 +23317,8 @@ Varlık sahibi olup da seni yalanlayanları Bana bırak; onlara az bir mehil ver
 Şüphesiz katımızda onlar için ağır boyunduruklar, cehennem, boğazı tıkayan bir yiyecek ve can yakan azap vardır.
 
 # 5488
+
+<!-- TODO:DUPLICATE -->
 
 Şüphesiz katımızda onlar için ağır boyunduruklar, cehennem, boğazı tıkayan bir yiyecek ve can yakan azap vardır.
 
@@ -22022,9 +23384,13 @@ Sura üflendiği vakit, işte o gün, inkarcılara kolay olmayan zorlu bir günd
 
 # 5504
 
+<!-- TODO:DUPLICATE -->
+
 Sura üflendiği vakit, işte o gün, inkarcılara kolay olmayan zorlu bir gündür.
 
 # 5505
+
+<!-- TODO:DUPLICATE -->
 
 Sura üflendiği vakit, işte o gün, inkarcılara kolay olmayan zorlu bir gündür.
 
@@ -22034,13 +23400,19 @@ Tek olarak yaratıp kendisine bol bol mal, çevresinde bulunan oğullar verdiği
 
 # 5507
 
+<!-- TODO:DUPLICATE -->
+
 Tek olarak yaratıp kendisine bol bol mal, çevresinde bulunan oğullar verdiğim ve nimetleri yaydıkça yaydığım o kimseyi Bana bırak.
 
 # 5508
 
+<!-- TODO:DUPLICATE -->
+
 Tek olarak yaratıp kendisine bol bol mal, çevresinde bulunan oğullar verdiğim ve nimetleri yaydıkça yaydığım o kimseyi Bana bırak.
 
 # 5509
+
+<!-- TODO:DUPLICATE -->
 
 Tek olarak yaratıp kendisine bol bol mal, çevresinde bulunan oğullar verdiğim ve nimetleri yaydıkça yaydığım o kimseyi Bana bırak.
 
@@ -22086,6 +23458,8 @@ Sonra da sırt çevirip büyüklük tasladı.
 
 # 5520
 
+<!-- TODO:DUPLICATE -->
+
 "Bu sadece öğretilegelen bir sihirdir. Bu Kuran yalnızca bir insan sözüdür" dedi.
 
 # 5521
@@ -22118,21 +23492,31 @@ Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan saba
 
 # 5528
 
+<!-- TODO:DUPLICATE -->
+
 Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu uyarıcı olarak anlatılan cehennem büyük olaylardan biridir.
 
 # 5529
+
+<!-- TODO:DUPLICATE -->
 
 Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu uyarıcı olarak anlatılan cehennem büyük olaylardan biridir.
 
 # 5530
 
+<!-- TODO:DUPLICATE -->
+
 Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu uyarıcı olarak anlatılan cehennem büyük olaylardan biridir.
 
 # 5531
 
+<!-- TODO:DUPLICATE -->
+
 Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu uyarıcı olarak anlatılan cehennem büyük olaylardan biridir.
 
 # 5532
+
+<!-- TODO:DUPLICATE -->
 
 Hayır, hayır öğüt almazlar. Aya, dönüp gelen geceye, ağarmakta olan sabaha and olsun ki, içinizden öne geçmek veya geri kalmak isteyen kimseye, insanoğlunu uyarıcı olarak anlatılan cehennem büyük olaylardan biridir.
 
@@ -22146,13 +23530,19 @@ Ancak, defteri sağdan verilenler böyle değildir; onlar cennettedirler. Suçlu
 
 # 5535
 
+<!-- TODO:DUPLICATE -->
+
 Ancak, defteri sağdan verilenler böyle değildir; onlar cennettedirler. Suçlulara: "Sizi bu yakıcı ateşe sürükleyen nedir?" diye sorarlar.
 
 # 5536
 
+<!-- TODO:DUPLICATE -->
+
 Ancak, defteri sağdan verilenler böyle değildir; onlar cennettedirler. Suçlulara: "Sizi bu yakıcı ateşe sürükleyen nedir?" diye sorarlar.
 
 # 5537
+
+<!-- TODO:DUPLICATE -->
 
 Ancak, defteri sağdan verilenler böyle değildir; onlar cennettedirler. Suçlulara: "Sizi bu yakıcı ateşe sürükleyen nedir?" diye sorarlar.
 
@@ -22189,6 +23579,8 @@ Artık onlara, şefaatçilerin şefaati fayda vermez.
 Aslandan ürkerek kaçan yabani merkeplere benzerler.
 
 # 5546
+
+<!-- TODO:DUPLICATE -->
 
 Aslandan ürkerek kaçan yabani merkeplere benzerler.
 
@@ -22234,6 +23626,8 @@ Ama, insanoğlu gelecekte de suç işlemek ister de: "Kıyamet günü ne zamanm�
 
 # 5557
 
+<!-- TODO:DUPLICATE -->
+
 Ama, insanoğlu gelecekte de suç işlemek ister de: "Kıyamet günü ne zamanmış! " der.
 
 # 5558
@@ -22242,13 +23636,19 @@ Gözün kamaştığı, ayın tutulduğu, güneş ve ayın bir araya getirildiği
 
 # 5559
 
+<!-- TODO:DUPLICATE -->
+
 Gözün kamaştığı, ayın tutulduğu, güneş ve ayın bir araya getirildiği zaman, işte o gün insan: "kaçacak yer nerede?" der.
 
 # 5560
 
+<!-- TODO:DUPLICATE -->
+
 Gözün kamaştığı, ayın tutulduğu, güneş ve ayın bir araya getirildiği zaman, işte o gün insan: "kaçacak yer nerede?" der.
 
 # 5561
+
+<!-- TODO:DUPLICATE -->
 
 Gözün kamaştığı, ayın tutulduğu, güneş ve ayın bir araya getirildiği zaman, işte o gün insan: "kaçacak yer nerede?" der.
 
@@ -22269,6 +23669,8 @@ O gün, insanoğluna önde ve sonda yaptığı ne varsa bildirilir.
 Özürlerini sayıp dökse de, insanoğlu, artık kendi kendinin şahididir.
 
 # 5566
+
+<!-- TODO:DUPLICATE -->
 
 Özürlerini sayıp dökse de, insanoğlu, artık kendi kendinin şahididir.
 
@@ -22302,6 +23704,8 @@ O gün bir takım yüzler Rablerine bakıp parlayacaktır.
 
 # 5574
 
+<!-- TODO:DUPLICATE -->
+
 O gün bir takım yüzler Rablerine bakıp parlayacaktır.
 
 # 5575
@@ -22317,6 +23721,8 @@ Kendisinin belkemiğinin kırılacağını sanır.
 Dikkat edin; can boğaza gelip köprücük kemiklerine dayandığı zaman: "Çare bulan yok mudur?" denir.
 
 # 5578
+
+<!-- TODO:DUPLICATE -->
 
 Dikkat edin; can boğaza gelip köprücük kemiklerine dayandığı zaman: "Çare bulan yok mudur?" denir.
 
@@ -22338,9 +23744,13 @@ O, Peygamberi doğrulamamış, namaz kılmamış, ama yalanlayıp yüz çevirmi�
 
 # 5583
 
+<!-- TODO:DUPLICATE -->
+
 O, Peygamberi doğrulamamış, namaz kılmamış, ama yalanlayıp yüz çevirmiş, sonra da salına salına kendinden yana olanlara gitmişti.
 
 # 5584
+
+<!-- TODO:DUPLICATE -->
 
 O, Peygamberi doğrulamamış, namaz kılmamış, ama yalanlayıp yüz çevirmiş, sonra da salına salına kendinden yana olanlara gitmişti.
 
@@ -22409,6 +23819,8 @@ Onlar içleri çektiği halde, yiyeceği yoksula, öksüze ve esire yedirirler.
 "Biz sizi ancak Allah rızası için doyuruyoruz, bir karşılık ve teşekkür beklemiyoruz. Doğrusu biz çok asık suratların bulunacağı bir günde Rabbimizden korkarız" derler.
 
 # 5601
+
+<!-- TODO:DUPLICATE -->
 
 "Biz sizi ancak Allah rızası için doyuruyoruz, bir karşılık ve teşekkür beklemiyoruz. Doğrusu biz çok asık suratların bulunacağı bir günde Rabbimizden korkarız" derler.
 
@@ -22502,25 +23914,37 @@ Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'�
 
 # 5624
 
+<!-- TODO:DUPLICATE -->
+
 Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren meleklere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır.
 
 # 5625
+
+<!-- TODO:DUPLICATE -->
 
 Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren meleklere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır.
 
 # 5626
 
+<!-- TODO:DUPLICATE -->
+
 Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren meleklere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır.
 
 # 5627
+
+<!-- TODO:DUPLICATE -->
 
 Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren meleklere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır.
 
 # 5628
 
+<!-- TODO:DUPLICATE -->
+
 Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren meleklere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır.
 
 # 5629
+
+<!-- TODO:DUPLICATE -->
 
 Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren meleklere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır.
 
@@ -22562,6 +23986,8 @@ O gün yalanlamış olanların vay haline!
 
 # 5639
 
+<!-- TODO:DUPLICATE -->
+
 Öncekileri yok etmedik mi? Ardından, sonrakileri de onlara katarız.
 
 # 5640
@@ -22578,9 +24004,13 @@ Sizi bayağı bir sudan yaratıp onu belli bir süreye kadar sağlam bir yere ye
 
 # 5643
 
+<!-- TODO:DUPLICATE -->
+
 Sizi bayağı bir sudan yaratıp onu belli bir süreye kadar sağlam bir yere yerleştirmedik mi?
 
 # 5644
+
+<!-- TODO:DUPLICATE -->
 
 Sizi bayağı bir sudan yaratıp onu belli bir süreye kadar sağlam bir yere yerleştirmedik mi?
 
@@ -22597,6 +24027,8 @@ O gün yalanlamış olanların vay haline!
 Biz yeryüzünü, dirilerin ve ölülerin toplantı yeri yapmadık mı?
 
 # 5648
+
+<!-- TODO:DUPLICATE -->
 
 Biz yeryüzünü, dirilerin ve ölülerin toplantı yeri yapmadık mı?
 
@@ -22618,6 +24050,8 @@ Yalanlamış olanların vay o gün haline!
 
 # 5653
 
+<!-- TODO:DUPLICATE -->
+
 "gölge yapmayan ve ateşten de korumayan cehennem dumanının üç kollu gölgesine gidin."
 
 # 5654
@@ -22625,6 +24059,8 @@ Yalanlamış olanların vay o gün haline!
 O gölgenin saçtığı her bir kıvılcım sanki birer sarı devedir, konak gibi de büyüktür.
 
 # 5655
+
+<!-- TODO:DUPLICATE -->
 
 O gölgenin saçtığı her bir kıvılcım sanki birer sarı devedir, konak gibi de büyüktür.
 
@@ -22706,6 +24142,8 @@ Neyi soruşturuyorlar?
 
 # 5675
 
+<!-- TODO:DUPLICATE -->
+
 Üzerinde anlaşmazlığa düştükleri, büyük bir olay olan tekrar dirilme haberini mi?
 
 # 5676
@@ -22721,6 +24159,8 @@ Yine hayır; elbette görüp bileceklerdir.
 Biz yeryüzünü bir beşik, dağları da onun için birer direk kılmadık mı?
 
 # 5679
+
+<!-- TODO:DUPLICATE -->
 
 Biz yeryüzünü bir beşik, dağları da onun için birer direk kılmadık mı?
 
@@ -22754,9 +24194,13 @@ Taneler, bitkiler, ağaçları sarmaş dolaş bahçeler yetiştirmek için, yoğ
 
 # 5687
 
+<!-- TODO:DUPLICATE -->
+
 Taneler, bitkiler, ağaçları sarmaş dolaş bahçeler yetiştirmek için, yoğunlaşmış bulutlardan bol yağmur yağdırdık.
 
 # 5688
+
+<!-- TODO:DUPLICATE -->
 
 Taneler, bitkiler, ağaçları sarmaş dolaş bahçeler yetiştirmek için, yoğunlaşmış bulutlardan bol yağmur yağdırdık.
 
@@ -22782,6 +24226,8 @@ Cehennem, yalnız azgınları bekleyen yerdir. Dönecekleri yer orasıdır.
 
 # 5694
 
+<!-- TODO:DUPLICATE -->
+
 Cehennem, yalnız azgınları bekleyen yerdir. Dönecekleri yer orasıdır.
 
 # 5695
@@ -22794,9 +24240,13 @@ Orada ne serinlik ne de içilecek bir şey tatmazlar; sadece kaynar su ve irin..
 
 # 5697
 
+<!-- TODO:DUPLICATE -->
+
 Orada ne serinlik ne de içilecek bir şey tatmazlar; sadece kaynar su ve irin....
 
 # 5698
+
+<!-- TODO:DUPLICATE -->
 
 Orada ne serinlik ne de içilecek bir şey tatmazlar; sadece kaynar su ve irin....
 
@@ -22822,13 +24272,19 @@ Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar, 
 
 # 5704
 
+<!-- TODO:DUPLICATE -->
+
 Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar, yaşıtlar ve dolu kadehler vardır.
 
 # 5705
 
+<!-- TODO:DUPLICATE -->
+
 Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar, yaşıtlar ve dolu kadehler vardır.
 
 # 5706
+
+<!-- TODO:DUPLICATE -->
 
 Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar, yaşıtlar ve dolu kadehler vardır.
 
@@ -22873,6 +24329,8 @@ Yüzüp yüzüp gidenlere and olsun,
 Yarıştıkça yarışan ve işleri yöneten meleklere and olsun
 
 # 5717
+
+<!-- TODO:DUPLICATE -->
 
 Yarıştıkça yarışan ve işleri yöneten meleklere and olsun
 
@@ -22966,6 +24424,8 @@ Sizi yaratmak mı daha zordur, yoksa göğü yaratmak mı? Ki onu Allah bina edi
 
 # 5740
 
+<!-- TODO:DUPLICATE -->
+
 Sizi yaratmak mı daha zordur, yoksa göğü yaratmak mı? Ki onu Allah bina edip yükseltmiş ve ona şekil vermiştir.
 
 # 5741
@@ -22994,6 +24454,8 @@ Güç yetirilemeyen en büyük baskın geldiği zaman, o gün, insan ne uğurda 
 
 # 5747
 
+<!-- TODO:DUPLICATE -->
+
 Güç yetirilemeyen en büyük baskın geldiği zaman, o gün, insan ne uğurda çalıştığını anlar.
 
 # 5748
@@ -23006,9 +24468,13 @@ Cehennem her bakanın göreceği şekilde gösterilir.
 
 # 5750
 
+<!-- TODO:DUPLICATE -->
+
 İşte, azıp da dünya hayatını tercih edenin varacağı yer şüphesiz cehennemdir.
 
 # 5751
+
+<!-- TODO:DUPLICATE -->
 
 İşte, azıp da dünya hayatını tercih edenin varacağı yer şüphesiz cehennemdir.
 
@@ -23017,6 +24483,8 @@ Cehennem her bakanın göreceği şekilde gösterilir.
 Ama kim Rabbinin azametinden korkup da kendini kötülükten alıkoymuşsa, varacağı yer şüphesiz cennettir.
 
 # 5753
+
+<!-- TODO:DUPLICATE -->
 
 Ama kim Rabbinin azametinden korkup da kendini kötülükten alıkoymuşsa, varacağı yer şüphesiz cennettir.
 
@@ -23046,6 +24514,8 @@ Yanına kör bir kimse geldi diye (Peygamber) yüzünü asıp çevirdi.
 
 # 5760
 
+<!-- TODO:DUPLICATE -->
+
 Yanına kör bir kimse geldi diye (Peygamber) yüzünü asıp çevirdi.
 
 # 5761
@@ -23062,6 +24532,8 @@ Ama sen, kendisini öğütten müstağni gören kimseyi karşına alıp ilgileni
 
 # 5764
 
+<!-- TODO:DUPLICATE -->
+
 Ama sen, kendisini öğütten müstağni gören kimseyi karşına alıp ilgileniyorsun.
 
 # 5765
@@ -23074,9 +24546,13 @@ Sen, Allah'tan korkup sana koşarak gelen kimseye aldırmıyorsun.
 
 # 5767
 
+<!-- TODO:DUPLICATE -->
+
 Sen, Allah'tan korkup sana koşarak gelen kimseye aldırmıyorsun.
 
 # 5768
+
+<!-- TODO:DUPLICATE -->
 
 Sen, Allah'tan korkup sana koşarak gelen kimseye aldırmıyorsun.
 
@@ -23094,6 +24570,8 @@ O, kutsal kılınmış, yüceltilmiş, arınmış sahifeler üzerindedir.
 
 # 5772
 
+<!-- TODO:DUPLICATE -->
+
 O, kutsal kılınmış, yüceltilmiş, arınmış sahifeler üzerindedir.
 
 # 5773
@@ -23101,6 +24579,8 @@ O, kutsal kılınmış, yüceltilmiş, arınmış sahifeler üzerindedir.
 İyi kimseler, saygıdeğer elçilerin eliyle yazılmıştır.
 
 # 5774
+
+<!-- TODO:DUPLICATE -->
 
 İyi kimseler, saygıdeğer elçilerin eliyle yazılmıştır.
 
@@ -23146,21 +24626,31 @@ Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler, 
 
 # 5785
 
+<!-- TODO:DUPLICATE -->
+
 Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler, zeytin, hurma ağaçları ve bahçelerde koca koca ağaçlı meyveler ve çayırlar bitirmekteyiz.
 
 # 5786
+
+<!-- TODO:DUPLICATE -->
 
 Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler, zeytin, hurma ağaçları ve bahçelerde koca koca ağaçlı meyveler ve çayırlar bitirmekteyiz.
 
 # 5787
 
+<!-- TODO:DUPLICATE -->
+
 Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler, zeytin, hurma ağaçları ve bahçelerde koca koca ağaçlı meyveler ve çayırlar bitirmekteyiz.
 
 # 5788
 
+<!-- TODO:DUPLICATE -->
+
 Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler, zeytin, hurma ağaçları ve bahçelerde koca koca ağaçlı meyveler ve çayırlar bitirmekteyiz.
 
 # 5789
+
+<!-- TODO:DUPLICATE -->
 
 Sonra yeryüzünü iyice yarmakta ve orada taneli ekinler, üzümler, sebzeler, zeytin, hurma ağaçları ve bahçelerde koca koca ağaçlı meyveler ve çayırlar bitirmekteyiz.
 
@@ -23178,9 +24668,13 @@ O gün, kişi kardeşinden, annesinden, babasından, karısından ve oğulların
 
 # 5793
 
+<!-- TODO:DUPLICATE -->
+
 O gün, kişi kardeşinden, annesinden, babasından, karısından ve oğullarından, kaçar.
 
 # 5794
+
+<!-- TODO:DUPLICATE -->
 
 O gün, kişi kardeşinden, annesinden, babasından, karısından ve oğullarından, kaçar.
 
@@ -23194,6 +24688,8 @@ O gün bir takım yüzler aydınlıktır, gülmekte ve sevinmektedir.
 
 # 5797
 
+<!-- TODO:DUPLICATE -->
+
 O gün bir takım yüzler aydınlıktır, gülmekte ve sevinmektedir.
 
 # 5798
@@ -23201,6 +24697,8 @@ O gün bir takım yüzler aydınlıktır, gülmekte ve sevinmektedir.
 O gün birtakım yüzler de tozlanmış ve onları karanlık bürümüştür.
 
 # 5799
+
+<!-- TODO:DUPLICATE -->
 
 O gün birtakım yüzler de tozlanmış ve onları karanlık bürümüştür.
 
@@ -23222,6 +24720,8 @@ Doğurması yaklaşmış develer başıboş bırakıldığı zaman;
 
 # 5804
 
+<!-- TODO:DUPLICATE -->
+
 Doğurması yaklaşmış develer başıboş bırakıldığı zaman;
 
 # 5805
@@ -23241,6 +24741,8 @@ Canlar bedenlerle birleştirildiği zaman;
 Kız çocuğun hangi suçtan ötürü öldürüldüğü kendisine sorulduğu zaman;
 
 # 5809
+
+<!-- TODO:DUPLICATE -->
 
 Kız çocuğun hangi suçtan ötürü öldürüldüğü kendisine sorulduğu zaman;
 
@@ -23270,6 +24772,8 @@ Gündüz sinip geceleri gözüken gezegenlere and olsun;
 
 # 5816
 
+<!-- TODO:DUPLICATE -->
+
 Gündüz sinip geceleri gözüken gezegenlere and olsun;
 
 # 5817
@@ -23286,9 +24790,13 @@ Bu Kuran, arşın sahibi katında değerli, güçlü, sözü dinlenen ve güveni
 
 # 5820
 
+<!-- TODO:DUPLICATE -->
+
 Bu Kuran, arşın sahibi katında değerli, güçlü, sözü dinlenen ve güvenilen şerefli bir elçinin getirdiği sözdür.
 
 # 5821
+
+<!-- TODO:DUPLICATE -->
 
 Bu Kuran, arşın sahibi katında değerli, güçlü, sözü dinlenen ve güvenilen şerefli bir elçinin getirdiği sözdür.
 
@@ -23317,6 +24825,8 @@ Nereye gidiyorsunuz?
 Kuran, ancak aranızda doğru yola girmeyi dileyene ve alemlere bir öğüttür.
 
 # 5828
+
+<!-- TODO:DUPLICATE -->
 
 Kuran, ancak aranızda doğru yola girmeyi dileyene ve alemlere bir öğüttür.
 
@@ -23350,9 +24860,13 @@ Ey insanoğlu! Seni yaratıp sonra şekil veren, düzenleyen, mütenasip kılan,
 
 # 5836
 
+<!-- TODO:DUPLICATE -->
+
 Ey insanoğlu! Seni yaratıp sonra şekil veren, düzenleyen, mütenasip kılan, istediği şekilde seni terkip eden, çok cömert olan Rabbine karşı seni aldatan nedir?
 
 # 5837
+
+<!-- TODO:DUPLICATE -->
 
 Ey insanoğlu! Seni yaratıp sonra şekil veren, düzenleyen, mütenasip kılan, istediği şekilde seni terkip eden, çok cömert olan Rabbine karşı seni aldatan nedir?
 
@@ -23366,9 +24880,13 @@ Oysa, yaptıklarınızı bilen değerli yazıcılar sizi gözetlemektedirler.
 
 # 5840
 
+<!-- TODO:DUPLICATE -->
+
 Oysa, yaptıklarınızı bilen değerli yazıcılar sizi gözetlemektedirler.
 
 # 5841
+
+<!-- TODO:DUPLICATE -->
 
 Oysa, yaptıklarınızı bilen değerli yazıcılar sizi gözetlemektedirler.
 
@@ -23406,9 +24924,13 @@ O gün, kimsenin kimseye hiçbir fayda sağlamayacağı bir gündür. O gün buy
 
 # 5850
 
+<!-- TODO:DUPLICATE -->
+
 İnsanlardan, kendileri bir şeyi ölçerek aldıkları zaman tam alan; ama onlara bir şeyi ölçüp tartarak verdiklerinde eksik tutan kimselerin, vay haline!
 
 # 5851
+
+<!-- TODO:DUPLICATE -->
 
 İnsanlardan, kendileri bir şeyi ölçerek aldıkları zaman tam alan; ama onlara bir şeyi ölçüp tartarak verdiklerinde eksik tutan kimselerin, vay haline!
 
@@ -23417,6 +24939,8 @@ O gün, kimsenin kimseye hiçbir fayda sağlamayacağı bir gündür. O gün buy
 Bunlar, büyük bir günde tekrar dirileceklerini sanmıyorlar mı?
 
 # 5853
+
+<!-- TODO:DUPLICATE -->
 
 Bunlar, büyük bir günde tekrar dirileceklerini sanmıyorlar mı?
 
@@ -23482,6 +25006,8 @@ O, gözde meleklerin gördüğü, yazılı bir kitapdır.
 
 # 5869
 
+<!-- TODO:DUPLICATE -->
+
 O, gözde meleklerin gördüğü, yazılı bir kitapdır.
 
 # 5870
@@ -23489,6 +25015,8 @@ O, gözde meleklerin gördüğü, yazılı bir kitapdır.
 İyiler, şüphesiz, nimet içinde ve tahtlar üzerinde etrafı seyrederler.
 
 # 5871
+
+<!-- TODO:DUPLICATE -->
 
 İyiler, şüphesiz, nimet içinde ve tahtlar üzerinde etrafı seyrederler.
 
@@ -23502,6 +25030,8 @@ Sonunda misk kokusu bırakan, ağzı kapalı saf bir içecekten içerler. İyi �
 
 # 5874
 
+<!-- TODO:DUPLICATE -->
+
 Sonunda misk kokusu bırakan, ağzı kapalı saf bir içecekten içerler. İyi şeyler için yarışanlar, bunun için yarışsınlar.
 
 # 5875
@@ -23509,6 +25039,8 @@ Sonunda misk kokusu bırakan, ağzı kapalı saf bir içecekten içerler. İyi �
 Onun katkısı gözdelerin içtiği yüce kaynaktandır.
 
 # 5876
+
+<!-- TODO:DUPLICATE -->
 
 Onun katkısı gözdelerin içtiği yüce kaynaktandır.
 
@@ -23542,6 +25074,8 @@ Tahtlar üzerinde, inkarcıların yaptıkları şeylerin karşılığının nas�
 
 # 5884
 
+<!-- TODO:DUPLICATE -->
+
 Tahtlar üzerinde, inkarcıların yaptıkları şeylerin karşılığının nasıl verildiğini seyrederler.
 
 # 5885
@@ -23549,6 +25083,8 @@ Tahtlar üzerinde, inkarcıların yaptıkları şeylerin karşılığının nas�
 Gök yarılıp Rabbine boyun eğdiği zaman, ki gök boyun eğecektir.
 
 # 5886
+
+<!-- TODO:DUPLICATE -->
 
 Gök yarılıp Rabbine boyun eğdiği zaman, ki gök boyun eğecektir.
 
@@ -23558,9 +25094,13 @@ Yer düzeltilip, içinde olanları dışarı atarak boşaldığı zaman ve yer R
 
 # 5888
 
+<!-- TODO:DUPLICATE -->
+
 Yer düzeltilip, içinde olanları dışarı atarak boşaldığı zaman ve yer Rabbine boyun eğdiği zaman, ki yer boyun eğecektir
 
 # 5889
+
+<!-- TODO:DUPLICATE -->
 
 Yer düzeltilip, içinde olanları dışarı atarak boşaldığı zaman ve yer Rabbine boyun eğdiği zaman, ki yer boyun eğecektir
 
@@ -23574,9 +25114,13 @@ Amel defteri kendisine sağından verilen kimse, kolay geçireceği bir hesaba �
 
 # 5892
 
+<!-- TODO:DUPLICATE -->
+
 Amel defteri kendisine sağından verilen kimse, kolay geçireceği bir hesaba çekilir ve arkadaşlarının yanına sevinçle döner.
 
 # 5893
+
+<!-- TODO:DUPLICATE -->
 
 Amel defteri kendisine sağından verilen kimse, kolay geçireceği bir hesaba çekilir ve arkadaşlarının yanına sevinçle döner.
 
@@ -23586,9 +25130,13 @@ Ama amel defteri kendisine arkasından verilen kimse: "Mahvoldum" diye bağırı
 
 # 5895
 
+<!-- TODO:DUPLICATE -->
+
 Ama amel defteri kendisine arkasından verilen kimse: "Mahvoldum" diye bağırır ve çılgın alevli cehenneme girer.
 
 # 5896
+
+<!-- TODO:DUPLICATE -->
 
 Ama amel defteri kendisine arkasından verilen kimse: "Mahvoldum" diye bağırır ve çılgın alevli cehenneme girer.
 
@@ -23662,13 +25210,19 @@ Hazırladıkları hendekleri, tutuşturulmuş ateşle doldurarak onun çevresind
 
 # 5914
 
+<!-- TODO:DUPLICATE -->
+
 Hazırladıkları hendekleri, tutuşturulmuş ateşle doldurarak onun çevresinde oturup, inanmış kimselere dinlerinden dönmeleri için yaptıkları işkenceleri seyredenler kahrolmuştur!
 
 # 5915
 
+<!-- TODO:DUPLICATE -->
+
 Hazırladıkları hendekleri, tutuşturulmuş ateşle doldurarak onun çevresinde oturup, inanmış kimselere dinlerinden dönmeleri için yaptıkları işkenceleri seyredenler kahrolmuştur!
 
 # 5916
+
+<!-- TODO:DUPLICATE -->
 
 Hazırladıkları hendekleri, tutuşturulmuş ateşle doldurarak onun çevresinde oturup, inanmış kimselere dinlerinden dönmeleri için yaptıkları işkenceleri seyredenler kahrolmuştur!
 
@@ -23677,6 +25231,8 @@ Hazırladıkları hendekleri, tutuşturulmuş ateşle doldurarak onun çevresind
 Bu inkarcıların, inananlara kızmaları; onların sadece, göklerin ve yerin hükümranlığı kendisinin bulunan ve övülmeğe layık ve güçlü olan Allah'a inanmış olmalarındandı. Allah her şeye şahiddir.
 
 # 5918
+
+<!-- TODO:DUPLICATE -->
 
 Bu inkarcıların, inananlara kızmaları; onların sadece, göklerin ve yerin hükümranlığı kendisinin bulunan ve övülmeğe layık ve güçlü olan Allah'a inanmış olmalarındandı. Allah her şeye şahiddir.
 
@@ -23702,6 +25258,8 @@ Yüce arşın sahibi, çok seven, bağışlayan O'dur.
 
 # 5924
 
+<!-- TODO:DUPLICATE -->
+
 Yüce arşın sahibi, çok seven, bağışlayan O'dur.
 
 # 5925
@@ -23713,6 +25271,8 @@ Her dilediğini mutlaka yapandır.
 Firavun ve Semud ordularının haberi sana geldi mi?
 
 # 5927
+
+<!-- TODO:DUPLICATE -->
 
 Firavun ve Semud ordularının haberi sana geldi mi?
 
@@ -23729,6 +25289,8 @@ Oysa Allah onları ardlarından çevirmiştir.
 Doğrusu sana vahyedilen bu Kitap, Levhi Mahfuz'da bulunan şanlı bir Kuran'dır.
 
 # 5931
+
+<!-- TODO:DUPLICATE -->
 
 Doğrusu sana vahyedilen bu Kitap, Levhi Mahfuz'da bulunan şanlı bir Kuran'dır.
 
@@ -23758,6 +25320,8 @@ O, erkek ve kadının beli ile kaburga kemikleri arasından atılagelen bir suda
 
 # 5938
 
+<!-- TODO:DUPLICATE -->
+
 O, erkek ve kadının beli ile kaburga kemikleri arasından atılagelen bir sudan yaratılmıştır.
 
 # 5939
@@ -23765,6 +25329,8 @@ O, erkek ve kadının beli ile kaburga kemikleri arasından atılagelen bir suda
 Şüphesiz Allah, gizliliklerin ortaya çıkacağı gün, insanı tekrar yaratmaya Kadir'dir.
 
 # 5940
+
+<!-- TODO:DUPLICATE -->
 
 Şüphesiz Allah, gizliliklerin ortaya çıkacağı gün, insanı tekrar yaratmaya Kadir'dir.
 
@@ -23777,6 +25343,8 @@ O gün, insanın gücü de, yardımcısı da olmaz.
 Dönüşlü göğe ve yarılan yeryüzüne and olsun ki,
 
 # 5943
+
+<!-- TODO:DUPLICATE -->
 
 Dönüşlü göğe ve yarılan yeryüzüne and olsun ki,
 
@@ -23858,6 +25426,8 @@ Arınmış olan, Rabbinin adını anıp namaz kılan, saadete erişecektir.
 
 # 5963
 
+<!-- TODO:DUPLICATE -->
+
 Arınmış olan, Rabbinin adını anıp namaz kılan, saadete erişecektir.
 
 # 5964
@@ -23873,6 +25443,8 @@ Oysa ahiret daha iyi ve daha bakidir.
 Doğrusu bu hükümler ilk sahifelerde, İbrahim ve Musa'nın sahifelerinde de vardır.
 
 # 5967
+
+<!-- TODO:DUPLICATE -->
 
 Doğrusu bu hükümler ilk sahifelerde, İbrahim ve Musa'nın sahifelerinde de vardır.
 
@@ -23901,6 +25473,8 @@ Kızgın bir kaynaktan içirilirler.
 Semirtmeyen, açlığı gidermeyen kötü kokulu (kuru) bir dikenden başka yiyecekleri yoktur.
 
 # 5974
+
+<!-- TODO:DUPLICATE -->
 
 Semirtmeyen, açlığı gidermeyen kötü kokulu (kuru) bir dikenden başka yiyecekleri yoktur.
 
@@ -23946,13 +25520,19 @@ Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine
 
 # 5985
 
+<!-- TODO:DUPLICATE -->
+
 Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı?
 
 # 5986
 
+<!-- TODO:DUPLICATE -->
+
 Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı?
 
 # 5987
+
+<!-- TODO:DUPLICATE -->
 
 Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı?
 
@@ -23969,6 +25549,8 @@ Sen, onlara zor kullanacak değilsin.
 Ama kim yüz çevirir, inkar ederse, Allah onu en büyük azaba uğratır.
 
 # 5991
+
+<!-- TODO:DUPLICATE -->
 
 Ama kim yüz çevirir, inkar ederse, Allah onu en büyük azaba uğratır.
 
@@ -23998,6 +25580,8 @@ Gelip geçen geceye and olsun ki, bunların her biri akıl sahibi için birer ye
 
 # 5998
 
+<!-- TODO:DUPLICATE -->
+
 Gelip geçen geceye and olsun ki, bunların her biri akıl sahibi için birer yemine değmez mi?
 
 # 5999
@@ -24006,9 +25590,13 @@ Rabbinin, hiçbir memlekette benzeri ortaya konmayan sütunlara sahip İrem şeh
 
 # 6000
 
+<!-- TODO:DUPLICATE -->
+
 Rabbinin, hiçbir memlekette benzeri ortaya konmayan sütunlara sahip İrem şehrinde oturan Ad milletine ne ettiğini görmedin mi?
 
 # 6001
+
+<!-- TODO:DUPLICATE -->
 
 Rabbinin, hiçbir memlekette benzeri ortaya konmayan sütunlara sahip İrem şehrinde oturan Ad milletine ne ettiğini görmedin mi?
 
@@ -24018,13 +25606,19 @@ Vadide kayaları kesip yontan Semud milletine, memleketlerde aşırı giden, ora
 
 # 6003
 
+<!-- TODO:DUPLICATE -->
+
 Vadide kayaları kesip yontan Semud milletine, memleketlerde aşırı giden, oralarda bozgunculuğu artıran, sarsılmaz bir saltanat sahibi Firavun'a Rabbinin ne ettiğini görmedin mi?
 
 # 6004
 
+<!-- TODO:DUPLICATE -->
+
 Vadide kayaları kesip yontan Semud milletine, memleketlerde aşırı giden, oralarda bozgunculuğu artıran, sarsılmaz bir saltanat sahibi Firavun'a Rabbinin ne ettiğini görmedin mi?
 
 # 6005
+
+<!-- TODO:DUPLICATE -->
 
 Vadide kayaları kesip yontan Semud milletine, memleketlerde aşırı giden, oralarda bozgunculuğu artıran, sarsılmaz bir saltanat sahibi Firavun'a Rabbinin ne ettiğini görmedin mi?
 
@@ -24106,6 +25700,8 @@ Bu şehre (Mekke'ye) yemin ederim; ki sen bu şehirde oturmuşsun.
 
 # 6025
 
+<!-- TODO:DUPLICATE -->
+
 Bu şehre (Mekke'ye) yemin ederim; ki sen bu şehirde oturmuşsun.
 
 # 6026
@@ -24134,6 +25730,8 @@ Biz onun için iki göz, bir dil ve iki dudak var etmedik mi?
 
 # 6032
 
+<!-- TODO:DUPLICATE -->
+
 Biz onun için iki göz, bir dil ve iki dudak var etmedik mi?
 
 # 6033
@@ -24158,9 +25756,13 @@ Yahut, açlık gününde, yakını olan bir öksüzü, yahut toprağa serilmiş 
 
 # 6038
 
+<!-- TODO:DUPLICATE -->
+
 Yahut, açlık gününde, yakını olan bir öksüzü, yahut toprağa serilmiş bir yoksulu doyurmaktır.
 
 # 6039
+
+<!-- TODO:DUPLICATE -->
 
 Yahut, açlık gününde, yakını olan bir öksüzü, yahut toprağa serilmiş bir yoksulu doyurmaktır.
 
@@ -24226,6 +25828,8 @@ Semud milleti, içlerinden en azgını ileri atılınca, azgınlığı yüzünde
 
 # 6055
 
+<!-- TODO:DUPLICATE -->
+
 Semud milleti, içlerinden en azgını ileri atılınca, azgınlığı yüzünden peygamberleri yalanladı.
 
 # 6056
@@ -24262,9 +25866,13 @@ Elinde bulunandan verenin, Allah'a karşı gelmekten sakınanın, en güzel söz
 
 # 6064
 
+<!-- TODO:DUPLICATE -->
+
 Elinde bulunandan verenin, Allah'a karşı gelmekten sakınanın, en güzel söz olan Allah'ın birliğini doğrulayanın işlerini kolaylaştırırız.
 
 # 6065
+
+<!-- TODO:DUPLICATE -->
 
 Elinde bulunandan verenin, Allah'a karşı gelmekten sakınanın, en güzel söz olan Allah'ın birliğini doğrulayanın işlerini kolaylaştırırız.
 
@@ -24274,9 +25882,13 @@ Ama, cimrilik eden, kendini Allah'tan müstağni sayan, en güzel sözü yalanla
 
 # 6067
 
+<!-- TODO:DUPLICATE -->
+
 Ama, cimrilik eden, kendini Allah'tan müstağni sayan, en güzel sözü yalanlayan kimsenin güçlüğe uğramasını kolaylaştırırız.
 
 # 6068
+
+<!-- TODO:DUPLICATE -->
 
 Ama, cimrilik eden, kendini Allah'tan müstağni sayan, en güzel sözü yalanlayan kimsenin güçlüğe uğramasını kolaylaştırırız.
 
@@ -24302,6 +25914,8 @@ Oraya, yalanlayıp yüz çevirmiş olan o en azgından başkası yaslanmaz.
 
 # 6074
 
+<!-- TODO:DUPLICATE -->
+
 Oraya, yalanlayıp yüz çevirmiş olan o en azgından başkası yaslanmaz.
 
 # 6075
@@ -24310,6 +25924,8 @@ Arınmak için malını veren, en çok sakınan kimse ise ondan uzak tutulur.
 
 # 6076
 
+<!-- TODO:DUPLICATE -->
+
 Arınmak için malını veren, en çok sakınan kimse ise ondan uzak tutulur.
 
 # 6077
@@ -24317,6 +25933,8 @@ Arınmak için malını veren, en çok sakınan kimse ise ondan uzak tutulur.
 O yaptığı iyiliği birinden karşılık görmek için değil, ancak yüce Rabbinin hoşnudluğunu (rızasını) gözeterek yapmıştır.
 
 # 6078
+
+<!-- TODO:DUPLICATE -->
 
 O yaptığı iyiliği birinden karşılık görmek için değil, ancak yüce Rabbinin hoşnudluğunu (rızasını) gözeterek yapmıştır.
 
@@ -24377,6 +25995,8 @@ Senin gönlünü açmadık mı?
 Belini büken yükünü üzerinden almadık mı?
 
 # 6093
+
+<!-- TODO:DUPLICATE -->
 
 Belini büken yükünü üzerinden almadık mı?
 
@@ -24446,9 +26066,13 @@ Oku! Kalemle öğreten, insana bilmediğini bildiren Rabbin, en büyük kerem sa
 
 # 6110
 
+<!-- TODO:DUPLICATE -->
+
 Oku! Kalemle öğreten, insana bilmediğini bildiren Rabbin, en büyük kerem sahibidir.
 
 # 6111
+
+<!-- TODO:DUPLICATE -->
 
 Oku! Kalemle öğreten, insana bilmediğini bildiren Rabbin, en büyük kerem sahibidir.
 
@@ -24457,6 +26081,8 @@ Oku! Kalemle öğreten, insana bilmediğini bildiren Rabbin, en büyük kerem sa
 Ama, insanoğlu kendini müstağni sayarak azgınlık eder.
 
 # 6113
+
+<!-- TODO:DUPLICATE -->
 
 Ama, insanoğlu kendini müstağni sayarak azgınlık eder.
 
@@ -24470,6 +26096,8 @@ Sen, namaz kılan kulu bundan menedeni gördün mü?
 
 # 6116
 
+<!-- TODO:DUPLICATE -->
+
 Sen, namaz kılan kulu bundan menedeni gördün mü?
 
 # 6117
@@ -24478,9 +26106,13 @@ Söyle bakalım, o kul doğru yolda giden veya Allah'a karşı gelmekten sakınm
 
 # 6118
 
+<!-- TODO:DUPLICATE -->
+
 Söyle bakalım, o kul doğru yolda giden veya Allah'a karşı gelmekten sakınmayı buyuran bir kimse olsun; veya söyle, yalanlayıp yüz çeviren birisi olsun
 
 # 6119
+
+<!-- TODO:DUPLICATE -->
 
 Söyle bakalım, o kul doğru yolda giden veya Allah'a karşı gelmekten sakınmayı buyuran bir kimse olsun; veya söyle, yalanlayıp yüz çeviren birisi olsun
 
@@ -24534,9 +26166,13 @@ Kitap ehlinden ve ortak koşanlardan inkarcılar, kendilerine apaçık bir belge
 
 # 6132
 
+<!-- TODO:DUPLICATE -->
+
 Kitap ehlinden ve ortak koşanlardan inkarcılar, kendilerine apaçık bir belge, içinde kesin ve en doğru hükümlerin bulunduğu arınmış sahifeleri okuyan, Allah katından bir Peygamber gelene kadar dinlerinden vazgeçecek değillerdi.
 
 # 6133
+
+<!-- TODO:DUPLICATE -->
 
 Kitap ehlinden ve ortak koşanlardan inkarcılar, kendilerine apaçık bir belge, içinde kesin ve en doğru hükümlerin bulunduğu arınmış sahifeleri okuyan, Allah katından bir Peygamber gelene kadar dinlerinden vazgeçecek değillerdi.
 
@@ -24566,9 +26202,13 @@ Yer dehşetle sarsıldıkça sarsıldığı, yeryüzü ağırlıklarını dışa
 
 # 6140
 
+<!-- TODO:DUPLICATE -->
+
 Yer dehşetle sarsıldıkça sarsıldığı, yeryüzü ağırlıklarını dışarıya çıkardığı ve insanın: "Buna ne oluyor?" dediği zaman;
 
 # 6141
+
+<!-- TODO:DUPLICATE -->
 
 Yer dehşetle sarsıldıkça sarsıldığı, yeryüzü ağırlıklarını dışarıya çıkardığı ve insanın: "Buna ne oluyor?" dediği zaman;
 
@@ -24577,6 +26217,8 @@ Yer dehşetle sarsıldıkça sarsıldığı, yeryüzü ağırlıklarını dışa
 İşte o gün, yer, Rabbinin ona vahyetmesiyle kendi haberlerini anlatır.
 
 # 6143
+
+<!-- TODO:DUPLICATE -->
 
 İşte o gün, yer, Rabbinin ona vahyetmesiyle kendi haberlerini anlatır.
 
@@ -24630,6 +26272,8 @@ Gerçekten mala da pek düşkündür.
 
 # 6156
 
+<!-- TODO:DUPLICATE -->
+
 İnsan, kabirlerde bulunanların çıkarılacağı ve kalblerde olanların ortaya konulacağı bir zamanın geleceğini bilmez mi?
 
 # 6157
@@ -24662,6 +26306,8 @@ Ama tartıları ağır gelen kimse hoş bir hayat içinde olacaktır.
 
 # 6164
 
+<!-- TODO:DUPLICATE -->
+
 Ama tartıları ağır gelen kimse hoş bir hayat içinde olacaktır.
 
 # 6165
@@ -24685,6 +26331,8 @@ O, kızgın bir ateştir.
 Çoğunluk olmak iddianız sizi o kadar meşgul etti ki, mezarları ziyaretle oradakileri de sayacak kadar oldunuz.
 
 # 6170
+
+<!-- TODO:DUPLICATE -->
 
 Çoğunluk olmak iddianız sizi o kadar meşgul etti ki, mezarları ziyaretle oradakileri de sayacak kadar oldunuz.
 
@@ -24730,6 +26378,8 @@ Mal toplayarak onu tekrar tekrar sayan, diliyle çekiştirip alay eden kimsenin 
 
 # 6181
 
+<!-- TODO:DUPLICATE -->
+
 Mal toplayarak onu tekrar tekrar sayan, diliyle çekiştirip alay eden kimsenin vay haline!
 
 # 6182
@@ -24750,6 +26400,8 @@ O, yüreklere çökecek olan, Allah'ın tutuşturulmuş ateşidir.
 
 # 6186
 
+<!-- TODO:DUPLICATE -->
+
 O, yüreklere çökecek olan, Allah'ın tutuşturulmuş ateşidir.
 
 # 6187
@@ -24757,6 +26409,8 @@ O, yüreklere çökecek olan, Allah'ın tutuşturulmuş ateşidir.
 Onlar, uzun sütunlar arasında, her yönden o ateşle kapatılmışlardır.
 
 # 6188
+
+<!-- TODO:DUPLICATE -->
 
 Onlar, uzun sütunlar arasında, her yönden o ateşle kapatılmışlardır.
 
@@ -24774,6 +26428,8 @@ Onların üzerine, sert taşlar atan sürülerle kuşlar gönderdi.
 
 # 6192
 
+<!-- TODO:DUPLICATE -->
+
 Onların üzerine, sert taşlar atan sürülerle kuşlar gönderdi.
 
 # 6193
@@ -24786,6 +26442,8 @@ Kureyş kabilesinin yaz ve kış yolculuklarında uzlaşması ve anlaşması sa�
 
 # 6195
 
+<!-- TODO:DUPLICATE -->
+
 Kureyş kabilesinin yaz ve kış yolculuklarında uzlaşması ve anlaşması sağlanmıştır.
 
 # 6196
@@ -24793,6 +26451,8 @@ Kureyş kabilesinin yaz ve kış yolculuklarında uzlaşması ve anlaşması sa�
 Öyleyse kendilerini açken doyuran ve korku içindeyken güven veren bu Ev'in (Kabe'nin) Rabbine kulluk etsinler.
 
 # 6197
+
+<!-- TODO:DUPLICATE -->
 
 Öyleyse kendilerini açken doyuran ve korku içindeyken güven veren bu Ev'in (Kabe'nin) Rabbine kulluk etsinler.
 
@@ -24805,6 +26465,8 @@ Dini yalan sayanı gördün mü?
 Öksüzü kakıştıran, yoksulu doyurmaya yanaşmayan kimse işte odur.
 
 # 6200
+
+<!-- TODO:DUPLICATE -->
 
 Öksüzü kakıştıran, yoksulu doyurmaya yanaşmayan kimse işte odur.
 
@@ -24866,9 +26528,13 @@ Allah'ın yardımı ve zafer günü gelip, insanların Allah'ın dinine akın ak
 
 # 6215
 
+<!-- TODO:DUPLICATE -->
+
 Allah'ın yardımı ve zafer günü gelip, insanların Allah'ın dinine akın akın girdiklerini görünce, Rabbini överek tesbih et; O'ndan bağışlama dile, çünkü O, tevbeleri daima kabul edendir.
 
 # 6216
+
+<!-- TODO:DUPLICATE -->
 
 Allah'ın yardımı ve zafer günü gelip, insanların Allah'ın dinine akın akın girdiklerini görünce, Rabbini överek tesbih et; O'ndan bağışlama dile, çünkü O, tevbeleri daima kabul edendir.
 
@@ -24889,6 +26555,8 @@ Alevli ateşe yaslanacaktır.
 Karısı da, boynunda bir ip olduğu halde ona odun taşıyacaktır.
 
 # 6221
+
+<!-- TODO:DUPLICATE -->
 
 Karısı da, boynunda bir ip olduğu halde ona odun taşıyacaktır.
 
@@ -24914,17 +26582,25 @@ De ki: "Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden
 
 # 6227
 
+<!-- TODO:DUPLICATE -->
+
 De ki: "Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden, düğümlere nefes eden büyücülerin şerrinden, hased ettiği zaman hasedcilerin şerrinden, tan yerini ağartan Rabbe sığınırım."
 
 # 6228
+
+<!-- TODO:DUPLICATE -->
 
 De ki: "Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden, düğümlere nefes eden büyücülerin şerrinden, hased ettiği zaman hasedcilerin şerrinden, tan yerini ağartan Rabbe sığınırım."
 
 # 6229
 
+<!-- TODO:DUPLICATE -->
+
 De ki: "Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden, düğümlere nefes eden büyücülerin şerrinden, hased ettiği zaman hasedcilerin şerrinden, tan yerini ağartan Rabbe sığınırım."
 
 # 6230
+
+<!-- TODO:DUPLICATE -->
 
 De ki: "Yaratıkların şerrinden, bastırdığı zaman karanlığın şerrinden, düğümlere nefes eden büyücülerin şerrinden, hased ettiği zaman hasedcilerin şerrinden, tan yerini ağartan Rabbe sığınırım."
 
@@ -24934,21 +26610,31 @@ De ki: "İnsanlardan ve cinlerden ve insanların gönüllerine vesvese veren o s
 
 # 6232
 
+<!-- TODO:DUPLICATE -->
+
 De ki: "İnsanlardan ve cinlerden ve insanların gönüllerine vesvese veren o sinsi vesvesecinin şerrinden, insanların Tanrısı, insanların Hükümranı ve insanların Rabbi olan Allah'a sığınırım."
 
 # 6233
+
+<!-- TODO:DUPLICATE -->
 
 De ki: "İnsanlardan ve cinlerden ve insanların gönüllerine vesvese veren o sinsi vesvesecinin şerrinden, insanların Tanrısı, insanların Hükümranı ve insanların Rabbi olan Allah'a sığınırım."
 
 # 6234
 
+<!-- TODO:DUPLICATE -->
+
 De ki: "İnsanlardan ve cinlerden ve insanların gönüllerine vesvese veren o sinsi vesvesecinin şerrinden, insanların Tanrısı, insanların Hükümranı ve insanların Rabbi olan Allah'a sığınırım."
 
 # 6235
 
+<!-- TODO:DUPLICATE -->
+
 De ki: "İnsanlardan ve cinlerden ve insanların gönüllerine vesvese veren o sinsi vesvesecinin şerrinden, insanların Tanrısı, insanların Hükümranı ve insanların Rabbi olan Allah'a sığınırım."
 
 # 6236
+
+<!-- TODO:DUPLICATE -->
 
 De ki: "İnsanlardan ve cinlerden ve insanların gönüllerine vesvese veren o sinsi vesvesecinin şerrinden, insanların Tanrısı, insanların Hükümranı ve insanların Rabbi olan Allah'a sığınırım."
 

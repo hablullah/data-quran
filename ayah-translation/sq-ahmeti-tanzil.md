@@ -1814,6 +1814,8 @@ Ti ishe ibutë ndaj atyre, ngase All-llahu të dhuroi mëshirë, e sikur të ish
 
 # 452
 
+<!-- TODO:DUPLICATE -->
+
 Ti ishe ibutë ndaj atyre, ngase All-llahu të dhuroi mëshirë, e sikur të ishe i vrazhdë e zemërfortë, ata do shkapërderdheshin prej teje, andaj ti falju atyre dhe kërko ndjesë për ta, e konsultohu me ta në të gjitha çështjet, e kur të vendosësh, atherë mbështetu në Allhun, se All-llahu ido ata që mbështeten.
 
 # 453
@@ -4609,6 +4611,8 @@ A kanë ata (idhujt) këmbë të ecin me to, akanë duar të rrëmbejnë me to, 
 Mbrojtësi i im është All-llahu që zbriti librin. Ai kujdeset për të mirët.
 
 # 1151
+
+<!-- TODO:DUPLICATE -->
 
 Mbrojtësi i im është All-llahu që zbriti librin. Ai kujdeset për të mirët.
 
@@ -8762,6 +8766,8 @@ Dhe vihet libri (i veprave), e i sheh mëkatarët të frikësuar nga shënimet q
 
 # 2189
 
+<!-- TODO:DUPLICATE -->
+
 Dhe vihet libri (i veprave), e i sheh mëkatarët të frikësuar nga shënimet që janë në të dh thonë: “Të mjerët ne, ç’është puna e këtij libri që nuk ka lënë as (mëkat) të vogël e as të madh pa e përfshirë?” dhe atë që vepruan e gjejnë të gatshme - prezente, e Zoti yt nuk i bën padrejt askujt.
 
 # 2190
@@ -9317,6 +9323,8 @@ E All-llahu u shton besimi atyre që u udhëzuan, e veprat e mira të pëjetshme
 A je i njoftyar për atë që mohoi argumentet Tona e tha: “Mua githqysh do të më jepet pasuri e fëmijë (në botën tjetër)?”
 
 # 2328
+
+<!-- TODO:DUPLICATE -->
 
 A je i njoftyar për atë që mohoi argumentet Tona e tha: “Mua githqysh do të më jepet pasuri e fëmijë (në botën tjetër)?”
 
@@ -13846,6 +13854,8 @@ E sikur Ne të lëshojmë një erë e ta shohin atë (të mbjellat) e zverdhura,
 
 # 3460
 
+<!-- TODO:DUPLICATE -->
+
 E sikur Ne të lëshojmë një erë e ta shohin atë (të mbjellat) e zverdhura, pa dyshim ata pas kësaj do të jenë mohues (përbuzës).
 
 # 3461
@@ -16821,6 +16831,8 @@ A nuk i sheh ata që kundërshtojën argumentet e All-llahut se si largohen nga 
 Ata janë që përgënjeshtruan librin (Kur’anin) dhe atë me çka Ne i dërguam të dërguarit tanë, e më vonë ata do të kuptojnë.
 
 # 4204
+
+<!-- TODO:DUPLICATE -->
 
 Ata janë që përgënjeshtruan librin (Kur’anin) dhe atë me çka Ne i dërguam të dërguarit tanë, e më vonë ata do të kuptojnë.
 
@@ -19894,9 +19906,13 @@ Ato janë hyri që e kufizojnë ndejën vetëm në shtëpinë (tënde).
 
 # 4972
 
+<!-- TODO:DUPLICATE -->
+
 Ato janë hyri që e kufizojnë ndejën vetëm në shtëpinë (tënde).
 
 # 4973
+
+<!-- TODO:DUPLICATE -->
 
 Ato janë hyri që e kufizojnë ndejën vetëm në shtëpinë (tënde).
 
@@ -21189,6 +21205,8 @@ Dhe ata vajtënduke pëshpëritur në mes vete (të mos i dëgjojnë kush).
 Të mos lejojnë të afrohet sot në të asnjë i varfër.
 
 # 5296
+
+<!-- TODO:DUPLICATE -->
 
 Të mos lejojnë të afrohet sot në të asnjë i varfër.
 
@@ -23929,6 +23947,8 @@ Aty ka kroje që rrjedhin,
 Aty kanë shtretër të lartë,
 
 # 5981
+
+<!-- TODO:DUPLICATE -->
 
 Aty kanë shtretër të lartë,
 

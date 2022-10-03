@@ -7050,6 +7050,8 @@ Trimişii lor spuseră: “Oare este vreo îndoială asupra lui Dumnezeu, Creato
 
 # 1761
 
+<!-- TODO:DUPLICATE -->
+
 Trimişii lor spuseră: “Oare este vreo îndoială asupra lui Dumnezeu, Creatorul cerurilor şi al pământului? El vă cheamă ca să vă ierte vouă din păcate şi ca să vă mai păsuiască până la un anumit soroc.” Ei spuseră: “Voi sunteţi doar oameni asemenea nouă. Vreţi să ne îndepărtaţi de cei cărora taţii noştri li se închinau. Aduceţi-ne o împuternicire desluşită!”
 
 # 1762
@@ -19649,6 +19651,8 @@ ci faceti cântărirea drept şi nu păgubiţi la cântar!.
 El a hotărnicit făpturilor Sale pământul
 
 # 4911
+
+<!-- TODO:DUPLICATE -->
 
 El a hotărnicit făpturilor Sale pământul
 
