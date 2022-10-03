@@ -58,7 +58,7 @@ func BatchDownload(ctx context.Context, dstDir string, requests []Request) error
 
 		// Acquire semaphore
 		if err := sem.Acquire(ctx, 1); err != nil {
-			return fmt.Errorf("acquire semaphore failed: %w", err)
+			break
 		}
 
 		g.Go(func() error {
