@@ -20,6 +20,18 @@ func cliAction(c *cli.Context) error {
 	}
 	os.MkdirAll(cacheDir, os.ModePerm)
 
+	// Download index page from Quranenc
+	err := downloadIndexPage(cacheDir)
+	if err != nil {
+		return err
+	}
+
+	// Parse URLs from the index page
+	downloadRequests, err := parseIndexPage(cacheDir)
+	if err != nil {
+		return err
+	}
+
 	// Filter download request that not cached
 	var requests []dl.Request
 	for _, r := range downloadRequests {
@@ -31,7 +43,7 @@ func cliAction(c *cli.Context) error {
 
 	// Batch download the request
 	ctx := context.Background()
-	err := dl.BatchDownload(ctx, cacheDir, requests)
+	err = dl.BatchDownload(ctx, cacheDir, requests)
 	if err != nil {
 		return err
 	}

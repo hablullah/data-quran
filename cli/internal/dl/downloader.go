@@ -19,6 +19,30 @@ type Request struct {
 	FileName string
 }
 
+func Download(ctx context.Context, client *http.Client, dstPath string, req Request) error {
+	// Download the url
+	logrus.Printf("downloading %s", req.URL)
+	resp, err := client.Get(req.URL)
+	if err != nil {
+		return fmt.Errorf("download failed: %w", err)
+	}
+	defer resp.Body.Close()
+
+	// Save to destination
+	dst, err := os.Create(dstPath)
+	if err != nil {
+		return fmt.Errorf("create dst failed: %w", err)
+	}
+	defer dst.Close()
+
+	_, err = io.Copy(dst, resp.Body)
+	if err != nil {
+		return fmt.Errorf("write dst failed: %w", err)
+	}
+
+	return nil
+}
+
 func BatchDownload(ctx context.Context, dstDir string, requests []Request) error {
 	// Prepare semaphore and error group
 	nWorker := int64(runtime.GOMAXPROCS(0))
@@ -39,29 +63,8 @@ func BatchDownload(ctx context.Context, dstDir string, requests []Request) error
 
 		g.Go(func() error {
 			defer sem.Release(1)
-
-			// Download the url
-			logrus.Printf("downloading %s", req.URL)
-			resp, err := client.Get(req.URL)
-			if err != nil {
-				return fmt.Errorf("download failed: %w", err)
-			}
-			defer resp.Body.Close()
-
-			// Save to destination
 			dstPath := filepath.Join(dstDir, req.FileName)
-			dst, err := os.Create(dstPath)
-			if err != nil {
-				return fmt.Errorf("create dst failed: %w", err)
-			}
-			defer dst.Close()
-
-			_, err = io.Copy(dst, resp.Body)
-			if err != nil {
-				return fmt.Errorf("write dst failed: %w", err)
-			}
-
-			return nil
+			return Download(ctx, client, dstPath, req)
 		})
 	}
 
