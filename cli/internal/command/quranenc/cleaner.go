@@ -1,12 +1,14 @@
 package quranenc
 
 import (
+	"data-quran-cli/internal/util"
 	"fmt"
 	"regexp"
 	"sort"
 	"strconv"
 	"strings"
 
+	"github.com/go-shiori/dom"
 	"github.com/zyedidia/generic/mapset"
 )
 
@@ -46,6 +48,7 @@ var cleanerList = map[string]fnCleaner{
 	"somali_yacob":          cleanSomaliYacob,
 }
 
+var rxNewline = regexp.MustCompile(`\n{1,}`)
 var rxNewlines = regexp.MustCompile(`\n{2,}`)
 var rxFootnoteNumberSplitter = regexp.MustCompile(`(\[\^\d+\]:\s*)`)
 
@@ -161,9 +164,22 @@ func cleanMontada(data FlattenedData) FlattenedData {
 }
 
 func cleanFrenchHameedullah(data FlattenedData) FlattenedData {
+	// Remove HTML tags
+	div := dom.CreateElement("div")
+	for i, ayah := range data.AyahList {
+		dom.SetInnerHTML(div, ayah.Footnotes)
+		fns := util.DomTextContent(div)
+		fns = rxNewline.ReplaceAllString(fns, "\n\n")
+		fns = strings.TrimSpace(fns)
+		ayah.Footnotes = fns
+		data.AyahList[i] = ayah
+	}
+
+	// Normalize footnote
 	rxTransFn := regexp.MustCompile(`\[(\d+)\](\s*)`)
 	rxFootFn := regexp.MustCompile(`^\[(\d+)\](\s*)`)
 	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
+
 	return data
 }
 

@@ -56,7 +56,13 @@ Voici le Livre au sujet duquel il n’y a aucun doute, c’est un guide pour les
 
 Ceux qui croient à l’invisible et accomplissent la prière ( As-Ṣalāt ) et qui dépensent [dans l’obéissance à Allah] de ce que Nous leur avons attribué.[^5]
 
-[^5]: L’invisible: tout ce que nous ne pouvons percevoir et connaître et même tout ce dont nous ne pouvons même pas réaliser l’existence passée, présente ou future. Ṣalāt: signifie ici non pas la prière seulement, mais les prières quotidiennes comportant des récitations, des invocations, des mouvements et des attitudes définis. <br />Il y a cinq Ṣalāt quotidiennes: à l’aube, peu après que le soleil passe le méridien, tard dans l’après-midi, tout de suite après le coucher du soleil, et enfin à la disparition du crépuscule. Pour les pays près des deux régions polaires, on a dû aménager ces horaires. - La Ṣalāt hebdomadaire du vendredi remplace, ce jour-là, la deuxième Ṣalāt, celle de midi. - Les Ṣalāt des deux fêtes (˒idul Fiṭr et ˒idul Aḍḥa) sont recommandées par le Prophète, mais non obligatoires. <br />A part le nombre de cycles d’actes (Rak˒at), toutes ces Ṣalāt se ressemblent quant à la façon de les accomplir: on fait les ablutions (voir S. 5, v. 6) on se met debout et on se tourne vers la Ka˒ba à la Mecque (voir S. 2, v. 144) - en Europe occidentale, vers le sud-est - et on formule l’intention de prier. On récite la première sourate du Coran «Al-Fātiḥa», en la faisant suivre de quelques versets coraniques ou d’une courte sourate. Puis on s’incline, mettant les mains sur les genoux et on se redresse; ensuite, on se prosterne, posant le front sur le sol, puis on s’assied, et après une deuxième prosternation, on se remet debout. Tout cela constitue un «cycle d’actes», une Rak˒a. On fait dans le deuxième cycle Rakat la même chose que dans le premier, mais au lieu de se mettre debout après les prosternations, on reste assis et on récite le tachahhud [glorification d’Allah, salut au Prophète (صلى الله عليه وسلم), à soi-même et à tous les bons croyants et témoignage de l’unicité d’Allah]. Si la Ṣalāt a deux cycles (comme lors de l’aube), elle se termine par le salut final, après le tachahhud. Sinon, on se lève et on fait un nouveau cycle (dans la 4e Ṣalāt il y a trois cycles, et dans les 2e, 3e et 5e, quatre cycles), et on termine la Ṣalāt en saluant, tournant la tête à droite puis à gauche. <br />Dépensent dans l’obéissance à Allah: en Islam, on est obligé de donner un pourcentage de ce que l’on possède, annuellement, et ce d’après un barème établi: c’est la Zakāt. D’ailleurs on peut donner pour un acte de pure charité ce qu’on veut. Sont visées dans ce verset toutes les dépenses faites dans l’obéissance à Allah: la Zakāt, la dépense concernant les parents et les proches, les largesses bénévoles, etc.
+[^5]: L’invisible: tout ce que nous ne pouvons percevoir et connaître et même tout ce dont nous ne pouvons même pas réaliser l’existence passée, présente ou future. Ṣalāt: signifie ici non pas la prière seulement, mais les prières quotidiennes comportant des récitations, des invocations, des mouvements et des attitudes définis.
+
+    Il y a cinq Ṣalāt quotidiennes: à l’aube, peu après que le soleil passe le méridien, tard dans l’après-midi, tout de suite après le coucher du soleil, et enfin à la disparition du crépuscule. Pour les pays près des deux régions polaires, on a dû aménager ces horaires. - La Ṣalāt hebdomadaire du vendredi remplace, ce jour-là, la deuxième Ṣalāt, celle de midi. - Les Ṣalāt des deux fêtes (˒idul Fiṭr et ˒idul Aḍḥa) sont recommandées par le Prophète, mais non obligatoires.
+
+    A part le nombre de cycles d’actes (Rak˒at), toutes ces Ṣalāt se ressemblent quant à la façon de les accomplir: on fait les ablutions (voir S. 5, v. 6) on se met debout et on se tourne vers la Ka˒ba à la Mecque (voir S. 2, v. 144) - en Europe occidentale, vers le sud-est - et on formule l’intention de prier. On récite la première sourate du Coran «Al-Fātiḥa», en la faisant suivre de quelques versets coraniques ou d’une courte sourate. Puis on s’incline, mettant les mains sur les genoux et on se redresse; ensuite, on se prosterne, posant le front sur le sol, puis on s’assied, et après une deuxième prosternation, on se remet debout. Tout cela constitue un «cycle d’actes», une Rak˒a. On fait dans le deuxième cycle Rakat la même chose que dans le premier, mais au lieu de se mettre debout après les prosternations, on reste assis et on récite le tachahhud [glorification d’Allah, salut au Prophète (صلى الله عليه وسلم), à soi-même et à tous les bons croyants et témoignage de l’unicité d’Allah]. Si la Ṣalāt a deux cycles (comme lors de l’aube), elle se termine par le salut final, après le tachahhud. Sinon, on se lève et on fait un nouveau cycle (dans la 4e Ṣalāt il y a trois cycles, et dans les 2e, 3e et 5e, quatre cycles), et on termine la Ṣalāt en saluant, tournant la tête à droite puis à gauche.
+
+    Dépensent dans l’obéissance à Allah: en Islam, on est obligé de donner un pourcentage de ce que l’on possède, annuellement, et ce d’après un barème établi: c’est la Zakāt. D’ailleurs on peut donner pour un acte de pure charité ce qu’on veut. Sont visées dans ce verset toutes les dépenses faites dans l’obéissance à Allah: la Zakāt, la dépense concernant les parents et les proches, les largesses bénévoles, etc.
 
 # 11
 
@@ -928,9 +934,11 @@ Et quand Mes serviteurs t’interrogent sur Moi, alors Je suis tout proche: Je r
 
 # 194
 
-On vous a permis, la nuit du [mois de] jeûne (As-Siyâm), d’avoir des rapports avec vos femmes; elles sont un vêtement pour vous et vous êtes un vêtement pour elles. Allah sait que vous aviez clandestinement des rapports avec vos femmes. Il vous a pardonné et vous a graciés. Cohabitez donc avec elles, maintenant, et cherchez ce qu’Allah a prescrit en votre faveur; mangez et buvez jusqu’à ce que se distingue, pour vous, le fil blanc de l’aube du fil noir de la nuit. Puis accomplissez le jeûne jusqu’à [la tombée de] la nuit. Mais ne cohabitez pas avec elles pendant que vous êtes en retraite rituelle dans les mosquées. Voilà les lois d’Allah: ne vous en approchez donc pas [pour les transgresser]. C’est ainsi qu’Allah expose aux hommes Ses enseignements, afin qu’ils deviennent pieux.[^74]
+On vous a permis, la nuit du [mois de] jeûne (As-Siyâm), d’avoir des rapports avec vos femmes; elles sont un vêtement pour vous et vous êtes un vêtement pour elles. Allah sait que vous aviez clandestinement des rapports avec vos femmes. Il vous a pardonné et vous a graciés. Cohabitez donc avec elles, maintenant, et cherchez ce qu’Allah a prescrit en votre faveur; mangez et buvez jusqu’à ce que se distingue, pour vous, le fil blanc de l’aube du fil noir de la nuit. Puis accomplissez le jeûne jusqu’à [la tombée de] la nuit. Mais ne cohabitez pas avec elles pendant que vous êtes en retraite rituelle dans les mosquées. Voilà les lois d’Allah: ne vous en approchez donc pas [pour les transgresser]. C’est ainsi qu’Allah expose aux hommes Ses enseignements, afin qu’ils deviennent pieux.[^74][^75]
 
-[^74]: Un vêtement: il faut entendre par là une source de tranquillité, de quiétude et de complémentarité réciproque entre les deux époux.Autre interp.: une couverture. L’existence de liens permanents entre les deux époux rend difficile le fait de s’abstenir de rapports conjugaux. C’est pour cette raison, que ces rapports leur ont été permis la nuit d’aṣ-Ṣiyām.<br />[75] Le fil blanc... nuit: il faut entendre par là l’apparition de la lueur de l’aube.
+[^74]: Un vêtement: il faut entendre par là une source de tranquillité, de quiétude et de complémentarité réciproque entre les deux époux.Autre interp.: une couverture. L’existence de liens permanents entre les deux époux rend difficile le fait de s’abstenir de rapports conjugaux. C’est pour cette raison, que ces rapports leur ont été permis la nuit d’aṣ-Ṣiyām.
+
+[^75]: Le fil blanc... nuit: il faut entendre par là l’apparition de la lueur de l’aube.
 
 # 195
 
@@ -1260,9 +1268,11 @@ Voilà les versets d’Allah, que Nous te (Mohammad) récitons avec la vérité.
 
 # 260
 
-Parmi ces Messagers, Nous avons favorisé certains par rapport à d’autres. Il en est à qui Allah a parlé; et Il en a élevé d’autres en grade. A Jésus fils de Marie Nous avons apporté les preuves (évidentes), et l’avons fortifié par le Saint-Esprit. Et si Allah avait voulu, les gens qui vinrent après eux ne se seraient pas entre- tués, après que les preuves leur furent venues; mais ils se sont opposés: les uns restèrent croyants, les autres furent infidèles. Si Allah avait voulu, ils ne se seraient pas entre- tués; mais Allah fait ce qu’Il veut .[^109]
+Parmi ces Messagers, Nous avons favorisé certains par rapport à d’autres. Il en est à qui Allah a parlé; et Il en a élevé d’autres en grade. A Jésus fils de Marie Nous avons apporté les preuves (évidentes), et l’avons fortifié par le Saint-Esprit. Et si Allah avait voulu, les gens qui vinrent après eux ne se seraient pas entre- tués, après que les preuves leur furent venues; mais ils se sont opposés: les uns restèrent croyants, les autres furent infidèles. Si Allah avait voulu, ils ne se seraient pas entre- tués; mais Allah fait ce qu’Il veut .[^109][^110]
 
-[^109]: Le Saint-Esprit: l’Ange Gabriel.<br />[110] Les gens qui vinrent: la communauté de chaque Prophète.
+[^109]: Le Saint-Esprit: l’Ange Gabriel.
+
+[^110]: Les gens qui vinrent: la communauté de chaque Prophète.
 
 # 261
 
@@ -1368,9 +1378,11 @@ Ceux qui, de nuit et de jour, en secret et ouvertement, dépensent leurs biens (
 
 # 282
 
-Ceux qui mangent [pratiquent] de l’intérêt usuraire ne se tiendront (au jour du Jugement Dernier) que comme se tient celui que le toucher de Satan a bouleversé. Cela, parce qu’ils disent: “Le commerce est tout à fait comme l’intérêt.” Alors qu’Allah a rendu licite le commerce, et illicite l’intérêt. Celui, donc, qui cesse dès que lui est venue une exhortation de son Seigneur, peut conserver ce qu’il a acquis auparavant; et son affaire dépend d’Allah. Mais quiconque récidive... alors les voilà, les gens du Feu! Ils y demeureront éternellement.[^120]
+Ceux qui mangent [pratiquent] de l’intérêt usuraire ne se tiendront (au jour du Jugement Dernier) que comme se tient celui que le toucher de Satan a bouleversé. Cela, parce qu’ils disent: “Le commerce est tout à fait comme l’intérêt.” Alors qu’Allah a rendu licite le commerce, et illicite l’intérêt. Celui, donc, qui cesse dès que lui est venue une exhortation de son Seigneur, peut conserver ce qu’il a acquis auparavant; et son affaire dépend d’Allah. Mais quiconque récidive... alors les voilà, les gens du Feu! Ils y demeureront éternellement.[^120][^121]
 
-[^120]: Ceux qui mangent de l’intérêt...: ce n’est pas seulement l’usure qui est interdite, mais le moindre prêt à intérêt. Toute transaction à base d’intérêt est défendue, c.-à-d. tout gain à risque unilatéral: par exemple, prêter de l’argent à un commerçant ou à un industriel et exiger un intérêt sans participer aux risques et aux pertes éventuelles du débiteur. Par contre, le prêt avec participation aux gains et aux risques est parfaitement licite: il s’agit alors d’une véritable association.<br />[121] Son affaire dépend d’Allah: de lui pardonner.
+[^120]: Ceux qui mangent de l’intérêt...: ce n’est pas seulement l’usure qui est interdite, mais le moindre prêt à intérêt. Toute transaction à base d’intérêt est défendue, c.-à-d. tout gain à risque unilatéral: par exemple, prêter de l’argent à un commerçant ou à un industriel et exiger un intérêt sans participer aux risques et aux pertes éventuelles du débiteur. Par contre, le prêt avec participation aux gains et aux risques est parfaitement licite: il s’agit alors d’une véritable association.
+
+[^121]: Son affaire dépend d’Allah: de lui pardonner.
 
 # 283
 
@@ -2570,9 +2582,11 @@ Certes Allah ne pardonne pas qu’on Lui donne quel qu’associé. A part cela, 
 
 # 542
 
-N’as-tu pas vu ceux-là qui se déclarent vertueux? Mais c’est Allah qui rend vertueux qui Il veut; et ils ne seront point lésés, fût-ce d’un brin de noyau de datte.[^204]
+N’as-tu pas vu ceux-là qui se déclarent vertueux? Mais c’est Allah qui rend vertueux qui Il veut; et ils ne seront point lésés, fût-ce d’un brin de noyau de datte.[^204][^205]
 
-[^204]: Se déclarent purs: les Juifs prétendaient être les enfants d’Allah et Ses préférés. Voir S. 5, v. 18.<br />[205] Brin de noyau de datte (en arabe: Fatil ): la pellicule recouvrant juste le creux du noyau de la datte, c.-à-d.: la plus petite quantité.
+[^204]: Se déclarent purs: les Juifs prétendaient être les enfants d’Allah et Ses préférés. Voir S. 5, v. 18.
+
+[^205]: Brin de noyau de datte (en arabe: Fatil ): la pellicule recouvrant juste le creux du noyau de la datte, c.-à-d.: la plus petite quantité.
 
 # 543
 
@@ -3170,9 +3184,11 @@ Ils t’interrogent sur ce qui leur est permis. Dis : "Vous sont permises les bo
 
 # 675
 
-Ô les croyants ! Lorsque vous vous levez pour la prière (As-Salât), lavez vos visages et vos mains jusqu’aux coudes; passez les mains mouillées sur vos têtes; et lavez-vous les pieds jusqu’aux chevilles. Et si vous êtes en état d’impureté majeure (Junuban) , alors purifiez-vous (par un bain); mais si vous êtes malades, ou en voyage, ou si l’un de vous revient du lieu où il a fait ses besoins ou si vous avez touché aux femmes et que vous ne trouviez pas d’eau, alors recourez à la terre pure: passez-en sur vos visages et vos mains. Allah ne veut pas vous imposer quelque gêne, mais Il veut vous purifier et parfaire sur vous Son bienfait. Peut-être serez-vous reconnaissants.[^240]
+Ô les croyants ! Lorsque vous vous levez pour la prière (As-Salât), lavez vos visages et vos mains jusqu’aux coudes; passez les mains mouillées sur vos têtes; et lavez-vous les pieds jusqu’aux chevilles. Et si vous êtes en état d’impureté majeure (Junuban) , alors purifiez-vous (par un bain); mais si vous êtes malades, ou en voyage, ou si l’un de vous revient du lieu où il a fait ses besoins ou si vous avez touché aux femmes et que vous ne trouviez pas d’eau, alors recourez à la terre pure: passez-en sur vos visages et vos mains. Allah ne veut pas vous imposer quelque gêne, mais Il veut vous purifier et parfaire sur vous Son bienfait. Peut-être serez-vous reconnaissants.[^240][^241]
 
-[^240]: Junub: le bain rituel est obligatoire si on a eu des rapports sexuels ou s’il y a eu écoulement de sperme.<br />[241] Alors recourez à la terre pure...: Voir S. 4, v. 43, note 1.
+[^240]: Junub: le bain rituel est obligatoire si on a eu des rapports sexuels ou s’il y a eu écoulement de sperme.
+
+[^241]: Alors recourez à la terre pure...: Voir S. 4, v. 43, note 1.
 
 # 676
 
@@ -7878,9 +7894,11 @@ Ainsi, Nous t’envoyons dans une communauté - que d’autres communautés ont 
 
 # 1738
 
-S’il y avait un Coran à mettre les montagnes en marche, à fendre la terre ou à faire parler les morts (ce serait celui-ci). C’est plutôt à Allah le commandement tout entier. Les croyants ne savent-ils pas que, si Allah l’avait voulu, Il aurait guidé tous les hommes vers le droit chemin? Cependant, ceux qui ne croient pas ne manqueront pas, pour prix de ce qu’ils font d’être frappés par un cataclysme, ou [qu’un cataclysme] s’abattra près de leurs demeures jusqu’à ce que vienne la promesse d’Allah. Car Allah, ne manque jamais à Sa promesse.[^476]
+S’il y avait un Coran à mettre les montagnes en marche, à fendre la terre ou à faire parler les morts (ce serait celui-ci). C’est plutôt à Allah le commandement tout entier. Les croyants ne savent-ils pas que, si Allah l’avait voulu, Il aurait guidé tous les hommes vers le droit chemin? Cependant, ceux qui ne croient pas ne manqueront pas, pour prix de ce qu’ils font d’être frappés par un cataclysme, ou [qu’un cataclysme] s’abattra près de leurs demeures jusqu’à ce que vienne la promesse d’Allah. Car Allah, ne manque jamais à Sa promesse.[^476][^477]
 
-[^476]: S’abattra: le verbe peut être aussi une deuxième personne et dans ce cas le sens sera: Muḥammad tu camperas près de leurs demeures (lors de la prise de la Mecque).<br />[477] Il s’agit ici de la promesse portant sur la conquête de la Mecque.
+[^476]: S’abattra: le verbe peut être aussi une deuxième personne et dans ce cas le sens sera: Muḥammad tu camperas près de leurs demeures (lors de la prise de la Mecque).
+
+[^477]: Il s’agit ici de la promesse portant sur la conquête de la Mecque.
 
 # 1739
 
@@ -8052,9 +8070,11 @@ Et une mauvaise parole est pareille à un mauvais arbre, déraciné de la surfac
 
 # 1777
 
-Allah affermit les croyants par une parole ferme, dans la vie présente et dans l’au-delà . Et Il égare les injustes. Et Allah fait ce qu’Il veut.[^487]
+Allah affermit les croyants par une parole ferme, dans la vie présente et dans l’au-delà . Et Il égare les injustes. Et Allah fait ce qu’Il veut.[^487][^488]
 
-[^487]: Dans l’au-delà: concerne l’interrogatoire qui sera fait aux morts dans leurs tombes.<br />[488] Voir note 4 V. 4 de la même Sourate.
+[^487]: Dans l’au-delà: concerne l’interrogatoire qui sera fait aux morts dans leurs tombes.
+
+[^488]: Voir note 4 V. 4 de la même Sourate.
 
 # 1778
 
@@ -9390,9 +9410,11 @@ Dis : "Invoquez ceux que vous prétendez, (être des divinités) en dehors de Lu
 
 # 2086
 
-Ceux qu’ils invoquent, cherchent [eux-mêmes], à qui mieux, le moyen de se rapprocher le plus de leur Seigneur. Ils espèrent Sa miséricorde et craignent Son châtiment. Le châtiment de ton Seigneur est vraiment redouté.[^541]
+Ceux qu’ils invoquent, cherchent [eux-mêmes], à qui mieux, le moyen de se rapprocher le plus de leur Seigneur. Ils espèrent Sa miséricorde et craignent Son châtiment. Le châtiment de ton Seigneur est vraiment redouté.[^541][^542]
 
-[^541]: Eux-mêmes: les êtres que l’homme prend pour des divinités.<br />[542] Le moyen: les bonnes actions.
+[^541]: Eux-mêmes: les êtres que l’homme prend pour des divinités.
+
+[^542]: Le moyen: les bonnes actions.
 
 # 2087
 
@@ -11116,9 +11138,11 @@ Pas une seule cité parmi celles que Nous avons fait périr avant eux n’avait 
 
 # 2490
 
-Nous n’avons envoyé avant toi que des hommes à qui Nous faisions des révélations. Demandez-donc aux érudits du Livre , si vous ne savez pas ![^601]
+Nous n’avons envoyé avant toi que des hommes à qui Nous faisions des révélations. Demandez-donc aux érudits du Livre , si vous ne savez pas ![^601][^602]
 
-[^601]: Que des hommes: jamais des Anges.<br />[602] Les érudits du Livre: les savants parmi les gens du Livre.
+[^601]: Que des hommes: jamais des Anges.
+
+[^602]: Les érudits du Livre: les savants parmi les gens du Livre.
 
 # 2491
 
@@ -18084,9 +18108,11 @@ Seuls ceux qui ont mécru discutent les versets d’Allah. Que leurs activités 
 
 # 4138
 
-Avant eux, le peuple de Noé a traité (Son Messager) de menteur, et les coalisés après eux (ont fait de même), et chaque communauté a conçu le dessin de s’emparer de Son Messager. Et ils ont discuté de faux arguments pour rejeter la vérité. Alors Je les ai saisis. Et quelle punition fut la Mienne ![^809]
+Avant eux, le peuple de Noé a traité (Son Messager) de menteur, et les coalisés après eux (ont fait de même), et chaque communauté a conçu le dessin de s’emparer de Son Messager. Et ils ont discuté de faux arguments pour rejeter la vérité. Alors Je les ai saisis. Et quelle punition fut la Mienne ![^809][^810]
 
-[^809]: Après eux: après le peuple de Noé, d’autres peuples ont fait de même, tels les Aād et les Thamûd.<br />[810] Ils ont discuté: les membres de la communauté.
+[^809]: Après eux: après le peuple de Noé, d’autres peuples ont fait de même, tels les Aād et les Thamûd.
+
+[^810]: Ils ont discuté: les membres de la communauté.
 
 # 4139
 
@@ -18720,9 +18746,11 @@ Ils ne se sont divisés qu’après avoir reçu la science et ceci par rivalité
 
 # 4287
 
-Appelle donc (les gens) à cela ; reste droit comme il t’a été commandé ; ne suis pas leurs passions ; et dis : "Je crois en tout ce qu’Allah a fait descendre comme Livre, et il m’a été commandé d’être équitable entre vous. Allah est notre Seigneur et votre Seigneur. A nous nos œuvres et à vous vos œuvres. Aucun argument [ne peut trancher] entre nous et vous. Allah nous regroupera tous. Et vers Lui est la destination."[^832]
+Appelle donc (les gens) à cela ; reste droit comme il t’a été commandé ; ne suis pas leurs passions ; et dis : "Je crois en tout ce qu’Allah a fait descendre comme Livre, et il m’a été commandé d’être équitable entre vous. Allah est notre Seigneur et votre Seigneur. A nous nos œuvres et à vous vos œuvres. Aucun argument [ne peut trancher] entre nous et vous. Allah nous regroupera tous. Et vers Lui est la destination."[^832][^833]
 
-[^832]: A cela: à la foi dont parle le v. 13.<br />[833] Allah nous regroupera tous: (pour confrontation). Il est donc commandé Muḥammad (صلى الله عليه وسلم): et de s’adresser aux gens du Livre (judéo-chrétiens, etc.) et de faire la justice, même envers ceux qui ne partagent pas notre religion.
+[^832]: A cela: à la foi dont parle le v. 13.
+
+[^833]: Allah nous regroupera tous: (pour confrontation). Il est donc commandé Muḥammad (صلى الله عليه وسلم): et de s’adresser aux gens du Livre (judéo-chrétiens, etc.) et de faire la justice, même envers ceux qui ne partagent pas notre religion.
 
 # 4288
 
@@ -20092,9 +20120,11 @@ C’est Lui qui, dans la vallée de la Mecque, a écarté leurs mains de vous, d
 
 # 4608
 
-Ce sont eux qui ont mécru et qui vous ont obstrué le chemin de la Mosquée Sacrée [et ont empêché] que les offrandes entravées parvinssent à leur lieu d’immolation. S’il n’y avait pas eu des hommes croyants et des femmes croyantes (parmi les Mecquoises) que vous ne connaissiez pas et que vous auriez pu piétiner sans le savoir, vous rendant ainsi coupables d’une action répréhensible... [Tout cela s’est fait] pour qu’Allah fasse entrer qui Il veut dans Sa miséricorde. Et s’ils [les croyants] s’étaient signalés, Nous aurions certes châtié d’un châtiment douloureux ceux qui avaient mécru parmi [les Mecquois].[^883]
+Ce sont eux qui ont mécru et qui vous ont obstrué le chemin de la Mosquée Sacrée [et ont empêché] que les offrandes entravées parvinssent à leur lieu d’immolation. S’il n’y avait pas eu des hommes croyants et des femmes croyantes (parmi les Mecquoises) que vous ne connaissiez pas et que vous auriez pu piétiner sans le savoir, vous rendant ainsi coupables d’une action répréhensible... [Tout cela s’est fait] pour qu’Allah fasse entrer qui Il veut dans Sa miséricorde. Et s’ils [les croyants] s’étaient signalés, Nous aurions certes châtié d’un châtiment douloureux ceux qui avaient mécru parmi [les Mecquois].[^883][^884]
 
-[^883]: Les Mecquois auraient été durement châtiés à cause des souffrances qu’ils ont infligés aux Musulmans, s’il n’y avait pas eu dans leurs rangs des Musulmans et des Musulmanes qu’on ne pouvait distinguer.<br />[884] Allah vous aurait permis de combattre pour conquérir la Mecque.
+[^883]: Les Mecquois auraient été durement châtiés à cause des souffrances qu’ils ont infligés aux Musulmans, s’il n’y avait pas eu dans leurs rangs des Musulmans et des Musulmanes qu’on ne pouvait distinguer.
+
+[^884]: Allah vous aurait permis de combattre pour conquérir la Mecque.
 
 # 4609
 
@@ -22412,9 +22442,11 @@ Allah vous défend seulement de prendre pour alliés ceux qui vous ont combattus
 
 # 5160
 
-Ô vous qui avez cru ! Quand les croyantes viennent à vous en émigrées, éprouvez-les ; Allah connaît mieux leur foi ; si vous constatez qu’elles sont croyantes, ne les renvoyez pas aux mécréants. Elles ne sont pas licites [en tant qu’épouses] pour eux, et eux non plus ne sont pas licites [en tant qu’époux] pour elles. Et rendez-leur ce qu’ils ont dépensé (comme mahr). Il ne vous sera fait aucun grief en vous mariant avec elles quand vous leur aurez donné leur mahr. Et ne gardez pas de liens conjugaux avec les mécréantes . Réclamez ce que vous avez dépensé et que (les mécréants) aussi réclament ce qu’ils ont dépensé. Tel est le jugement d’Allah par lequel Il juge entre vous, et Allah est Omniscient et Sage.[^952]
+Ô vous qui avez cru ! Quand les croyantes viennent à vous en émigrées, éprouvez-les ; Allah connaît mieux leur foi ; si vous constatez qu’elles sont croyantes, ne les renvoyez pas aux mécréants. Elles ne sont pas licites [en tant qu’épouses] pour eux, et eux non plus ne sont pas licites [en tant qu’époux] pour elles. Et rendez-leur ce qu’ils ont dépensé (comme mahr). Il ne vous sera fait aucun grief en vous mariant avec elles quand vous leur aurez donné leur mahr. Et ne gardez pas de liens conjugaux avec les mécréantes . Réclamez ce que vous avez dépensé et que (les mécréants) aussi réclament ce qu’ils ont dépensé. Tel est le jugement d’Allah par lequel Il juge entre vous, et Allah est Omniscient et Sage.[^952][^953]
 
-[^952]: Et rendez-leur: et rendez à leurs maris, demeurés mécréants.<br />[953] Les mécréants: les païennes idolâtres.
+[^952]: Et rendez-leur: et rendez à leurs maris, demeurés mécréants.
+
+[^953]: Les mécréants: les païennes idolâtres.
 
 # 5161
 
