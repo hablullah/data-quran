@@ -2,6 +2,7 @@ package quranenc
 
 import (
 	"fmt"
+	"io/fs"
 	"os"
 	"path/filepath"
 	"regexp"
@@ -16,6 +17,23 @@ import (
 var (
 	rxID = regexp.MustCompile(`(?i)^([^-]+)-(.+)$`)
 )
+
+func cleanDstDir(dstDir string) error {
+	return filepath.WalkDir(dstDir, func(path string, d fs.DirEntry, err error) error {
+		// Remove all file suffixed with "-quranenc.md"
+		dName := d.Name()
+		if d.IsDir() || !strings.HasSuffix(dName, "-quranenc.md") {
+			return nil
+		}
+
+		dDir := filepath.Base(filepath.Dir(path))
+		if dDir == "ayah-translation" {
+			return os.Remove(path)
+		}
+
+		return nil
+	})
+}
 
 func write(dstDir string, dataList []FlattenedData) error {
 	for _, data := range dataList {

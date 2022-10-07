@@ -84,6 +84,11 @@ func cliAction(c *cli.Context) error {
 	}
 
 	// Write to file
+	err = cleanDstDir(dstDir)
+	if err != nil {
+		return err
+	}
+
 	err = write(dstDir, dataList)
 	if err != nil {
 		return err
