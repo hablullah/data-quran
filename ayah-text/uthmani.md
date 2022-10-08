@@ -24969,3 +24969,4 @@ Please check updates at: http://tanzil.net/updates/
 # 6236
 
 مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ
+

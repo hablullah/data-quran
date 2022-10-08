@@ -3,6 +3,7 @@ module data-quran-cli
 go 1.19
 
 require (
+	github.com/agext/levenshtein v1.2.3
 	github.com/emvi/iso-639-1 v1.0.1
 	github.com/go-shiori/dom v0.0.0-20210627111528-4e4722cd0d65
 	github.com/sirupsen/logrus v1.9.0

@@ -2,6 +2,7 @@ package main
 
 import (
 	"data-quran-cli/internal/command/quranenc"
+	tanzilText "data-quran-cli/internal/command/tanzil-text"
 	tanzilTrans "data-quran-cli/internal/command/tanzil-trans"
 
 	"github.com/urfave/cli/v2"
@@ -15,6 +16,7 @@ func App() *cli.App {
 		Commands: []*cli.Command{
 			quranenc.Command(),
 			tanzilTrans.Command(),
+			tanzilText.Command(),
 		},
 	}
 }
