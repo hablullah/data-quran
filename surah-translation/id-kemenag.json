@@ -1,0 +1,458 @@
+[
+    {
+        "name": "Al-Fātiḥah",
+        "translation": "Pembukaan"
+    },
+    {
+        "name": "Al-Baqarah",
+        "translation": "Sapi"
+    },
+    {
+        "name": "Āli 'Imrān",
+        "translation": "Keluarga Imran"
+    },
+    {
+        "name": "An-Nisā'",
+        "translation": "Wanita"
+    },
+    {
+        "name": "Al-Mā'idah",
+        "translation": "Hidangan"
+    },
+    {
+        "name": "Al-An'ām",
+        "translation": "Binatang Ternak"
+    },
+    {
+        "name": "Al-A'rāf",
+        "translation": "Tempat Tertinggi"
+    },
+    {
+        "name": "Al-Anfāl",
+        "translation": "Rampasan Perang"
+    },
+    {
+        "name": "At-Taubah",
+        "translation": "Pengampunan"
+    },
+    {
+        "name": "Yūnus",
+        "translation": "Yunus"
+    },
+    {
+        "name": "Hūd",
+        "translation": "Hud"
+    },
+    {
+        "name": "Yūsuf",
+        "translation": "Yusuf"
+    },
+    {
+        "name": "Ar-Ra'd",
+        "translation": "Guruh"
+    },
+    {
+        "name": "Ibrāhīm",
+        "translation": "Ibrahim"
+    },
+    {
+        "name": "Al-Ḥijr",
+        "translation": "Hijr"
+    },
+    {
+        "name": "An-Naḥl",
+        "translation": "Lebah"
+    },
+    {
+        "name": "Al-Isrā'",
+        "translation": "Memperjalankan Malam Hari"
+    },
+    {
+        "name": "Al-Kahf",
+        "translation": "Gua"
+    },
+    {
+        "name": "Maryam",
+        "translation": "Maryam"
+    },
+    {
+        "name": "Ṭāhā",
+        "translation": "Taha"
+    },
+    {
+        "name": "Al-Anbiyā'",
+        "translation": "Para Nabi"
+    },
+    {
+        "name": "Al-Ḥajj",
+        "translation": "Haji"
+    },
+    {
+        "name": "Al-Mu'minūn",
+        "translation": "Orang-Orang Mukmin"
+    },
+    {
+        "name": "An-Nūr",
+        "translation": "Cahaya"
+    },
+    {
+        "name": "Al-Furqān",
+        "translation": "Pembeda"
+    },
+    {
+        "name": "Asy-Syu'arā'",
+        "translation": "Para Penyair"
+    },
+    {
+        "name": "An-Naml",
+        "translation": "Semut"
+    },
+    {
+        "name": "Al-Qaṣaṣ",
+        "translation": "Kisah"
+    },
+    {
+        "name": "Al-'Ankabūt",
+        "translation": "Laba-Laba"
+    },
+    {
+        "name": "Ar-Rūm",
+        "translation": "Romawi"
+    },
+    {
+        "name": "Luqmān",
+        "translation": "Luqman"
+    },
+    {
+        "name": "As-Sajdah",
+        "translation": "Sajdah"
+    },
+    {
+        "name": "Al-Aḥzāb",
+        "translation": "Golongan Yang Bersekutu"
+    },
+    {
+        "name": "Saba'",
+        "translation": "Saba'"
+    },
+    {
+        "name": "Fāṭir",
+        "translation": "Maha Pencipta"
+    },
+    {
+        "name": "Yāsīn",
+        "translation": "Yasin"
+    },
+    {
+        "name": "Aṣ-Ṣāffāt",
+        "translation": "Yang Berbaris-baris"
+    },
+    {
+        "name": "Ṣād",
+        "translation": "Sad"
+    },
+    {
+        "name": "Az-Zumar",
+        "translation": "Rombongan"
+    },
+    {
+        "name": "Gāfir",
+        "translation": "Maha Pengampun"
+    },
+    {
+        "name": "Fuṣṣilat",
+        "translation": "Yang Dijelaskan"
+    },
+    {
+        "name": "Asy-Syūrā",
+        "translation": "Musyawarah"
+    },
+    {
+        "name": "Az-Zukhruf",
+        "translation": "Perhiasan"
+    },
+    {
+        "name": "Ad-Dukhān",
+        "translation": "Kabut"
+    },
+    {
+        "name": "Al-Jāṡiyah",
+        "translation": "Berlutut"
+    },
+    {
+        "name": "Al-Aḥqāf",
+        "translation": "Bukit Pasir"
+    },
+    {
+        "name": "Muḥammad",
+        "translation": "Muhammad"
+    },
+    {
+        "name": "Al-Fatḥ",
+        "translation": "Kemenangan"
+    },
+    {
+        "name": "Al-Ḥujurāt",
+        "translation": "Kamar-Kamar"
+    },
+    {
+        "name": "Qāf",
+        "translation": "Qaf"
+    },
+    {
+        "name": "Aż-Żāriyāt",
+        "translation": "Angin yang Menerbangkan"
+    },
+    {
+        "name": "At-Ṭūr",
+        "translation": "Bukit Tursina"
+    },
+    {
+        "name": "An-Najm",
+        "translation": "Bintang"
+    },
+    {
+        "name": "Al-Qamar",
+        "translation": "Bulan"
+    },
+    {
+        "name": "Ar-Raḥmān",
+        "translation": "Maha Pengasih"
+    },
+    {
+        "name": "Al-Wāqi'ah",
+        "translation": "Hari Kiamat Yang Pasti Terjadi"
+    },
+    {
+        "name": "Al-Ḥadīd",
+        "translation": "Besi"
+    },
+    {
+        "name": "Al-Mujādalah",
+        "translation": "Gugatan"
+    },
+    {
+        "name": "Al-Ḥasyr",
+        "translation": "Pengusiran"
+    },
+    {
+        "name": "Al-Mumtaḥanah",
+        "translation": "Wanita Yang Diuji"
+    },
+    {
+        "name": "Aṣ-Ṣaff",
+        "translation": "Barisan"
+    },
+    {
+        "name": "Al-Jumu'ah",
+        "translation": "Jumat"
+    },
+    {
+        "name": "Al-Munāfiqūn",
+        "translation": "Orang-Orang Munafik"
+    },
+    {
+        "name": "At-Tagābun",
+        "translation": "Pengungkapan Kesalahan"
+    },
+    {
+        "name": "At-Talāq",
+        "translation": "Talak"
+    },
+    {
+        "name": "At-Taḥrīm",
+        "translation": "Pengharaman"
+    },
+    {
+        "name": "Al-Mulk",
+        "translation": "Kerajaan"
+    },
+    {
+        "name": "Al-Qalam",
+        "translation": "Pena"
+    },
+    {
+        "name": "Al-Ḥāqqah",
+        "translation": "Hari Kiamat Yang Pasti Datang"
+    },
+    {
+        "name": "Al-Ma'ārij",
+        "translation": "Tempat-Tempat Naik"
+    },
+    {
+        "name": "Nūḥ",
+        "translation": "Nuh"
+    },
+    {
+        "name": "Al-Jinn",
+        "translation": "Jin"
+    },
+    {
+        "name": "Al-Muzzammil",
+        "translation": "Orang Berkelumun"
+    },
+    {
+        "name": "Al-Muddaṡṡir",
+        "translation": "Orang Berselimut"
+    },
+    {
+        "name": "Al-Qiyāmah",
+        "translation": "Hari Kiamat"
+    },
+    {
+        "name": "Al-Insān",
+        "translation": "Manusia"
+    },
+    {
+        "name": "Al-Mursalāt",
+        "translation": "Malaikat Yang Diutus"
+    },
+    {
+        "name": "An-Naba'",
+        "translation": "Berita"
+    },
+    {
+        "name": "An-Nāzi'āt",
+        "translation": "Yang Mencabut Dengan Keras"
+    },
+    {
+        "name": "'Abasa",
+        "translation": "Bermuka Masam"
+    },
+    {
+        "name": "At-Takwīr",
+        "translation": "Penggulungan"
+    },
+    {
+        "name": "Al-Infiṭār",
+        "translation": "Terbelah"
+    },
+    {
+        "name": "Al-Muṭaffifīn",
+        "translation": "Orang-Orang Yang Curang"
+    },
+    {
+        "name": "Al-Insyiqāq",
+        "translation": "Terbelah"
+    },
+    {
+        "name": "Al-Burūj",
+        "translation": "Gugusan Bintang"
+    },
+    {
+        "name": "At-Ṭāriq",
+        "translation": "Yang Datang Pada Malam Hari"
+    },
+    {
+        "name": "Al-A'lā",
+        "translation": "Maha Tinggi"
+    },
+    {
+        "name": "Al-Gāsyiyah",
+        "translation": "Hari Kiamat Yang Menghilangkan Kesadaran"
+    },
+    {
+        "name": "Al-Fajr",
+        "translation": "Fajar"
+    },
+    {
+        "name": "Al-Balad",
+        "translation": "Negeri"
+    },
+    {
+        "name": "Asy-Syams",
+        "translation": "Matahari"
+    },
+    {
+        "name": "Al-Lail",
+        "translation": "Malam"
+    },
+    {
+        "name": "Ad-Duḥā",
+        "translation": "Duha"
+    },
+    {
+        "name": "Asy-Syarḥ",
+        "translation": "Pelapangan"
+    },
+    {
+        "name": "At-Tīn",
+        "translation": "Buah Tin"
+    },
+    {
+        "name": "Al-'Alaq",
+        "translation": "Segumpal Darah"
+    },
+    {
+        "name": "Al-Qadr",
+        "translation": "Kemuliaan"
+    },
+    {
+        "name": "Al-Bayyinah",
+        "translation": "Bukti Nyata"
+    },
+    {
+        "name": "Az-Zalzalah",
+        "translation": "Guncangan"
+    },
+    {
+        "name": "Al-'Adiyāt",
+        "translation": "Kuda Perang Yang Berlari Kencang"
+    },
+    {
+        "name": "Al-Qāri'ah",
+        "translation": "Hari Kiamat Yang Menggetarkan"
+    },
+    {
+        "name": "At-Takāṡur",
+        "translation": "Bermegah-Megahan"
+    },
+    {
+        "name": "Al-'Aṣr",
+        "translation": "Asar"
+    },
+    {
+        "name": "Al-Humazah",
+        "translation": "Pengumpat"
+    },
+    {
+        "name": "Al-Fīl",
+        "translation": "Gajah"
+    },
+    {
+        "name": "Quraisy",
+        "translation": "Quraisy"
+    },
+    {
+        "name": "Al-Mā'ūn",
+        "translation": "Bantuan"
+    },
+    {
+        "name": "Al-Kauṡar",
+        "translation": "Nikmat Yang Banyak"
+    },
+    {
+        "name": "Al-Kāfirūn",
+        "translation": "Orang-Orang kafir"
+    },
+    {
+        "name": "An-Naṣr",
+        "translation": "Pertolongan"
+    },
+    {
+        "name": "Al-Lahab",
+        "translation": "Gejolak Api"
+    },
+    {
+        "name": "Al-Ikhlāṣ",
+        "translation": "Ikhlas"
+    },
+    {
+        "name": "Al-Falaq",
+        "translation": "Fajar"
+    },
+    {
+        "name": "An-Nās",
+        "translation": "Manusia"
+    }
+]

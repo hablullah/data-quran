@@ -54,7 +54,7 @@ func cliAction(c *cli.Context) error {
 
 	// Batch download the request
 	ctx := context.Background()
-	err := dl.BatchDownload(ctx, cacheDir, requests)
+	err := dl.BatchDownload(ctx, cacheDir, requests, nil)
 	if err != nil {
 		return err
 	}

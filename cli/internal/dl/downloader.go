@@ -8,6 +8,7 @@ import (
 	"os"
 	"path/filepath"
 	"runtime"
+	"time"
 
 	"github.com/sirupsen/logrus"
 	"golang.org/x/sync/errgroup"
@@ -17,6 +18,11 @@ import (
 type Request struct {
 	URL      string
 	FileName string
+}
+
+type BatchOption struct {
+	NWorker int
+	Delay   time.Duration
 }
 
 func Download(ctx context.Context, client *http.Client, dstPath string, req Request) error {
@@ -43,10 +49,21 @@ func Download(ctx context.Context, client *http.Client, dstPath string, req Requ
 	return nil
 }
 
-func BatchDownload(ctx context.Context, dstDir string, requests []Request) error {
+func BatchDownload(ctx context.Context, dstDir string, requests []Request, opts *BatchOption) error {
+	// Prepare opts
+	var nWorker int
+	var delay time.Duration
+	if opts != nil {
+		nWorker = opts.NWorker
+		delay = opts.Delay
+	}
+
+	if nWorker <= 0 {
+		nWorker = runtime.GOMAXPROCS(0)
+	}
+
 	// Prepare semaphore and error group
-	nWorker := int64(runtime.GOMAXPROCS(0))
-	sem := semaphore.NewWeighted(nWorker)
+	sem := semaphore.NewWeighted(int64(nWorker))
 	g, ctx := errgroup.WithContext(ctx)
 
 	// Prepare http client
@@ -64,7 +81,13 @@ func BatchDownload(ctx context.Context, dstDir string, requests []Request) error
 		g.Go(func() error {
 			defer sem.Release(1)
 			dstPath := filepath.Join(dstDir, req.FileName)
-			return Download(ctx, client, dstPath, req)
+			err := Download(ctx, client, dstPath, req)
+			if err != nil {
+				return err
+			}
+
+			time.Sleep(delay)
+			return nil
 		})
 	}
 
