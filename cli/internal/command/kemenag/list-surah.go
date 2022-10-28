@@ -2,6 +2,7 @@ package kemenag
 
 import (
 	"data-quran-cli/internal/norm"
+	"data-quran-cli/internal/util"
 	"encoding/json"
 	"fmt"
 	"os"
@@ -45,9 +46,10 @@ func parseAndWriteListSurah(cacheDir, dstDir string) error {
 	}
 
 	// Normalize and convert the data
-	outputs := make([]SurahOutput, len(srcData.Data))
+	output := map[string]SurahOutput{}
 	for i, d := range srcData.Data {
-		outputs[i] = SurahOutput{
+		key := fmt.Sprintf("%03d", i+1)
+		output[key] = SurahOutput{
 			Name:        norm.NormalizeUnicode(d.SuratName),
 			Translation: norm.NormalizeUnicode(d.SuratTerjemahan),
 		}
@@ -60,15 +62,8 @@ func parseAndWriteListSurah(cacheDir, dstDir string) error {
 	}
 
 	dstPath := filepath.Join(dstDir, "id-kemenag.json")
-	dst, err := os.Create(dstPath)
+	err = util.EncodeSortedKeyJson(dstPath, &output)
 	if err != nil {
-		return fmt.Errorf("failed to create list-surah dst: %w", err)
-	}
-	defer dst.Close()
-
-	encoder := json.NewEncoder(dst)
-	encoder.SetIndent("", "    ")
-	if err = encoder.Encode(&outputs); err != nil {
 		return fmt.Errorf("failed to write list-surah: %w", err)
 	}
 
