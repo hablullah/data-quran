@@ -4,10 +4,8 @@ import (
 	"context"
 	"data-quran-cli/internal/dl"
 	"data-quran-cli/internal/util"
-	"io/fs"
 	"os"
 	"path/filepath"
-	"strings"
 	"time"
 
 	"github.com/urfave/cli/v2"
@@ -111,24 +109,4 @@ func cliAction(c *cli.Context) error {
 	}
 
 	return nil
-}
-
-func cleanDstDir(dstDir string) error {
-	return filepath.WalkDir(dstDir, func(path string, d fs.DirEntry, err error) error {
-		// Remove all file suffixed with "-kemenag.*"
-		dName := d.Name()
-		if d.IsDir() || (!strings.HasSuffix(dName, "-kemenag.md") && !strings.HasSuffix(dName, "-kemenag.json")) {
-			return nil
-		}
-
-		dDir := filepath.Base(filepath.Dir(path))
-		switch dDir {
-		case "ayah-tafsir",
-			"ayah-translation",
-			"surah-translation":
-			return os.Remove(path)
-		}
-
-		return nil
-	})
 }

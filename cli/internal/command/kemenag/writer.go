@@ -2,13 +2,35 @@ package kemenag
 
 import (
 	"fmt"
+	"io/fs"
 	"os"
 	"path/filepath"
 	"strconv"
+	"strings"
 
 	"github.com/sirupsen/logrus"
 	"github.com/zyedidia/generic/mapset"
 )
+
+func cleanDstDir(dstDir string) error {
+	return filepath.WalkDir(dstDir, func(path string, d fs.DirEntry, err error) error {
+		// Remove all file suffixed with "-kemenag.*"
+		dName := d.Name()
+		if d.IsDir() || (!strings.HasSuffix(dName, "-kemenag.md") && !strings.HasSuffix(dName, "-kemenag.json")) {
+			return nil
+		}
+
+		dDir := filepath.Base(filepath.Dir(path))
+		switch dDir {
+		case "ayah-tafsir",
+			"ayah-translation",
+			"surah-translation":
+			return os.Remove(path)
+		}
+
+		return nil
+	})
+}
 
 func writeTafsir(dstDir, name string, tafsirs []string) error {
 	logrus.Printf("writing tafsir %s", name)

@@ -3,11 +3,40 @@ package quranwbw
 import (
 	"data-quran-cli/internal/util"
 	"fmt"
+	"io/fs"
 	"os"
 	"path/filepath"
+	"strings"
 
 	"github.com/sirupsen/logrus"
 )
+
+func cleanDstDir(dstDir string) error {
+	return filepath.WalkDir(dstDir, func(path string, d fs.DirEntry, err error) error {
+		if d.IsDir() {
+			return nil
+		}
+
+		// Remove word.json
+		dName := d.Name()
+		dDir := filepath.Base(filepath.Dir(path))
+		if dDir == "word" && dName == "word.json" {
+			return os.Remove(path)
+		}
+
+		// Remove all file suffixed with "-quranwbw.*"
+		switch dDir {
+		case "word-text",
+			"word-translation",
+			"word-transliteration":
+			if strings.HasSuffix(dName, "-quranwbw.json") {
+				return os.Remove(path)
+			}
+		}
+
+		return nil
+	})
+}
 
 func writeData(dstDir string, arabicDataList []ArabicData) error {
 	logrus.Printf("writing data")
