@@ -10,7 +10,7 @@ var rxJsonKey = regexp.MustCompile(`(?m)^(\s*)"0+(\d+)"(\s*):`)
 
 func EncodeSortedKeyJson(dstPath string, data any) error {
 	// Encode JSON
-	bt, err := json.MarshalIndent(data, "", "    ")
+	bt, err := json.MarshalIndent(data, "", "\t")
 	if err != nil {
 		return err
 	}
