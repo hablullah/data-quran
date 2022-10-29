@@ -2,7 +2,7 @@ package main
 
 import (
 	"data-quran-cli/internal/command/kemenag"
-	quranComSurah "data-quran-cli/internal/command/qurancom-surah"
+	"data-quran-cli/internal/command/qurancom"
 	"data-quran-cli/internal/command/quranenc"
 	"data-quran-cli/internal/command/quranwbw"
 	tanzilText "data-quran-cli/internal/command/tanzil-text"
@@ -22,7 +22,7 @@ func App() *cli.App {
 			tanzilText.Command(),
 			kemenag.Command(),
 			quranwbw.Command(),
-			quranComSurah.Command(),
+			qurancom.Command(),
 		},
 	}
 }

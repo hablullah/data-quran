@@ -1,4 +1,4 @@
-package quranComSurah
+package qurancom
 
 import (
 	"context"
@@ -15,9 +15,9 @@ var nWords = 77_429
 
 func Command() *cli.Command {
 	return &cli.Command{
-		Name:   "qurancom-surah",
+		Name:   "qurancom",
 		Action: cliAction,
-		Usage:  "download surah data from quran.com",
+		Usage:  "download data from quran.com",
 		Flags: []cli.Flag{
 			&cli.StringFlag{
 				Name:    "dst",
@@ -37,7 +37,7 @@ func Command() *cli.Command {
 func cliAction(c *cli.Context) error {
 	// Prepare cache dir
 	dstDir := c.String("dst")
-	cacheDir := filepath.Join(dstDir, ".cache", "qurancom-surah")
+	cacheDir := filepath.Join(dstDir, ".cache", "qurancom")
 	if c.Bool("clear-cache") {
 		os.RemoveAll(cacheDir)
 	}

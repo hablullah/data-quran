@@ -1,4 +1,4 @@
-package quranComSurah
+package qurancom
 
 import (
 	"data-quran-cli/internal/dl"
