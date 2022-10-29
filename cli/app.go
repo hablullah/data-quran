@@ -1,6 +1,7 @@
 package main
 
 import (
+	"data-quran-cli/internal/command/islamhouse"
 	"data-quran-cli/internal/command/kemenag"
 	"data-quran-cli/internal/command/qurancom"
 	"data-quran-cli/internal/command/quranenc"
@@ -23,6 +24,7 @@ func App() *cli.App {
 			kemenag.Command(),
 			quranwbw.Command(),
 			qurancom.Command(),
+			islamhouse.Command(),
 		},
 	}
 }

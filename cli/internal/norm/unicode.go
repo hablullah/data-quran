@@ -1,6 +1,7 @@
 package norm
 
 import (
+	"io"
 	"strings"
 
 	"golang.org/x/text/runes"
@@ -15,10 +16,13 @@ var (
 )
 
 func NormalizeUnicode(s string) string {
-
 	result, _, err := transform.String(unicodeNormalizer, s)
 	if err == nil {
 		return strings.TrimSpace(result)
 	}
 	return s
+}
+
+func NormalizeReader(r io.Reader) io.Reader {
+	return transform.NewReader(r, unicodeNormalizer)
 }
