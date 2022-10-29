@@ -70,7 +70,6 @@ func parse(cacheDir string) ([]FlattenedData, error) {
 
 		if hasFootnote {
 			logrus.Warnf("%s has footnote", f)
-			fmt.Println(createFileName(data.Meta.ID))
 		}
 
 		dataList = append(dataList, *data)
