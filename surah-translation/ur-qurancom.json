@@ -1,0 +1,458 @@
+{
+	"1": {
+		"name": "Al-Fatihah",
+		"translation": "کھولنے والی"
+	},
+	"2": {
+		"name": "Al-Baqarah",
+		"translation": "گائے"
+	},
+	"3": {
+		"name": "Ali 'Imran",
+		"translation": "عمران کا خاندان"
+	},
+	"4": {
+		"name": "An-Nisa",
+		"translation": "عورت"
+	},
+	"5": {
+		"name": "Al-Ma'idah",
+		"translation": "دسترخوان"
+	},
+	"6": {
+		"name": "Al-An'am",
+		"translation": "مویشی"
+	},
+	"7": {
+		"name": "Al-A'raf",
+		"translation": "اونچی جگہ"
+	},
+	"8": {
+		"name": "Al-Anfal",
+		"translation": "مال غنیمت"
+	},
+	"9": {
+		"name": "At-Tawbah",
+		"translation": "توبہ"
+	},
+	"10": {
+		"name": "Yunus",
+		"translation": "یونس"
+	},
+	"11": {
+		"name": "Hud",
+		"translation": "حود"
+	},
+	"12": {
+		"name": "Yusuf",
+		"translation": "یوسف"
+	},
+	"13": {
+		"name": "Ar-Ra'd",
+		"translation": "گرج"
+	},
+	"14": {
+		"name": "Ibrahim",
+		"translation": "ابراہیم"
+	},
+	"15": {
+		"name": "Al-Hijr",
+		"translation": "پتھر"
+	},
+	"16": {
+		"name": "An-Nahl",
+		"translation": "شہد کی مکھی"
+	},
+	"17": {
+		"name": "Al-Isra",
+		"translation": "رات کا صفر"
+	},
+	"18": {
+		"name": "Al-Kahf",
+		"translation": "غار"
+	},
+	"19": {
+		"name": "Maryam",
+		"translation": "مریم"
+	},
+	"20": {
+		"name": "Taha",
+		"translation": "طٰہٰ"
+	},
+	"21": {
+		"name": "Al-Anbya",
+		"translation": "پیغمبر"
+	},
+	"22": {
+		"name": "Al-Hajj",
+		"translation": "حج"
+	},
+	"23": {
+		"name": "Al-Mu'minun",
+		"translation": "مومنین"
+	},
+	"24": {
+		"name": "An-Nur",
+		"translation": "نور"
+	},
+	"25": {
+		"name": "Al-Furqan",
+		"translation": "صحیح اور غلط میں فرق کرنے والی کتاب"
+	},
+	"26": {
+		"name": "Ash-Shu'ara",
+		"translation": "شعراٗ"
+	},
+	"27": {
+		"name": "An-Naml",
+		"translation": "چیونٹی"
+	},
+	"28": {
+		"name": "Al-Qasas",
+		"translation": "قصے"
+	},
+	"29": {
+		"name": "Al-'Ankabut",
+		"translation": "مکڑی"
+	},
+	"30": {
+		"name": "Ar-Rum",
+		"translation": "روم"
+	},
+	"31": {
+		"name": "Luqman",
+		"translation": "لقمان"
+	},
+	"32": {
+		"name": "As-Sajdah",
+		"translation": "سجدہ"
+	},
+	"33": {
+		"name": "Al-Ahzab",
+		"translation": "متحد گروہ"
+	},
+	"34": {
+		"name": "Saba",
+		"translation": "سبا"
+	},
+	"35": {
+		"name": "Fatir",
+		"translation": "پیدا کرنے والا"
+	},
+	"36": {
+		"name": "Ya-Sin",
+		"translation": "یٰسٓ"
+	},
+	"37": {
+		"name": "As-Saffat",
+		"translation": "صف باندھنے والے"
+	},
+	"38": {
+		"name": "Sad",
+		"translation": "صٓ"
+	},
+	"39": {
+		"name": "Az-Zumar",
+		"translation": "گروہ"
+	},
+	"40": {
+		"name": "Ghafir",
+		"translation": "بخشنے والا"
+	},
+	"41": {
+		"name": "Fussilat",
+		"translation": "مفصل"
+	},
+	"42": {
+		"name": "Ash-Shuraa",
+		"translation": "شورٰی"
+	},
+	"43": {
+		"name": "Az-Zukhruf",
+		"translation": "سونے کی چمک"
+	},
+	"44": {
+		"name": "Ad-Dukhan",
+		"translation": "دھواں"
+	},
+	"45": {
+		"name": "Al-Jathiyah",
+		"translation": "زانوٗوں کے بل گری ہوئی"
+	},
+	"46": {
+		"name": "Al-Ahqaf",
+		"translation": "ریگستان"
+	},
+	"47": {
+		"name": "Muhammad",
+		"translation": "محمدصلى الله عليه وسلم"
+	},
+	"48": {
+		"name": "Al-Fath",
+		"translation": "فتح"
+	},
+	"49": {
+		"name": "Al-Hujurat",
+		"translation": "حجرے"
+	},
+	"50": {
+		"name": "Qaf",
+		"translation": "قٓ"
+	},
+	"51": {
+		"name": "Adh-Dhariyat",
+		"translation": "بکھیرنے والیاں"
+	},
+	"52": {
+		"name": "At-Tur",
+		"translation": "طور پہاڑ"
+	},
+	"53": {
+		"name": "An-Najm",
+		"translation": "ستارہ"
+	},
+	"54": {
+		"name": "Al-Qamar",
+		"translation": "چاند"
+	},
+	"55": {
+		"name": "Ar-Rahman",
+		"translation": "مہربان"
+	},
+	"56": {
+		"name": "Al-Waqi'ah",
+		"translation": "واقعہ ہونے والی قیامت"
+	},
+	"57": {
+		"name": "Al-Hadid",
+		"translation": "فولاد"
+	},
+	"58": {
+		"name": "Al-Mujadila",
+		"translation": "جھگڑنے والی"
+	},
+	"59": {
+		"name": "Al-Hashr",
+		"translation": "حشر"
+	},
+	"60": {
+		"name": "Al-Mumtahanah",
+		"translation": "امتحان لی جانے والی"
+	},
+	"61": {
+		"name": "As-Saf",
+		"translation": "صف"
+	},
+	"62": {
+		"name": "Al-Jumu'ah",
+		"translation": "جمعہ"
+	},
+	"63": {
+		"name": "Al-Munafiqun",
+		"translation": "منافقین"
+	},
+	"64": {
+		"name": "At-Taghabun",
+		"translation": "ہار جیت"
+	},
+	"65": {
+		"name": "At-Talaq",
+		"translation": "طلاق"
+	},
+	"66": {
+		"name": "At-Tahrim",
+		"translation": "حرمت"
+	},
+	"67": {
+		"name": "Al-Mulk",
+		"translation": "بادشاہ"
+	},
+	"68": {
+		"name": "Al-Qalam",
+		"translation": "قلم"
+	},
+	"69": {
+		"name": "Al-Haqqah",
+		"translation": "حق ہونے والی"
+	},
+	"70": {
+		"name": "Al-Ma'arij",
+		"translation": "عروج"
+	},
+	"71": {
+		"name": "Nuh",
+		"translation": "نوح"
+	},
+	"72": {
+		"name": "Al-Jinn",
+		"translation": "جن"
+	},
+	"73": {
+		"name": "Al-Muzzammil",
+		"translation": "کپڑا لپیٹنے والا"
+	},
+	"74": {
+		"name": "Al-Muddaththir",
+		"translation": "کپڑا اوڑھنے والا"
+	},
+	"75": {
+		"name": "Al-Qiyamah",
+		"translation": "قیامۃ"
+	},
+	"76": {
+		"name": "Al-Insan",
+		"translation": "انسان"
+	},
+	"77": {
+		"name": "Al-Mursalat",
+		"translation": "بھیجی جانے والی ہوائیں"
+	},
+	"78": {
+		"name": "An-Naba",
+		"translation": "خبر"
+	},
+	"79": {
+		"name": "An-Nazi'at",
+		"translation": "زور سے کھینچنے والے"
+	},
+	"80": {
+		"name": "'Abasa",
+		"translation": "تیوری چڑہائی"
+	},
+	"81": {
+		"name": "At-Takwir",
+		"translation": "لپیٹنا"
+	},
+	"82": {
+		"name": "Al-Infitar",
+		"translation": "ٹکڑے ہونا"
+	},
+	"83": {
+		"name": "Al-Mutaffifin",
+		"translation": "ناپ تول میں کمی کرنے والے"
+	},
+	"84": {
+		"name": "Al-Inshiqaq",
+		"translation": "پھٹنا"
+	},
+	"85": {
+		"name": "Al-Buruj",
+		"translation": "برج"
+	},
+	"86": {
+		"name": "At-Tariq",
+		"translation": "رات کو آنے والا"
+	},
+	"87": {
+		"name": "Al-A'la",
+		"translation": "اعلی"
+	},
+	"88": {
+		"name": "Al-Ghashiyah",
+		"translation": "چھا جانے والی"
+	},
+	"89": {
+		"name": "Al-Fajr",
+		"translation": "فجر"
+	},
+	"90": {
+		"name": "Al-Balad",
+		"translation": "شہر"
+	},
+	"91": {
+		"name": "Ash-Shams",
+		"translation": "آفتاب"
+	},
+	"92": {
+		"name": "Al-Layl",
+		"translation": "رات"
+	},
+	"93": {
+		"name": "Ad-Duhaa",
+		"translation": "دن کا چڑھنا"
+	},
+	"94": {
+		"name": "Ash-Sharh",
+		"translation": "تسکین"
+	},
+	"95": {
+		"name": "At-Tin",
+		"translation": "انجیر"
+	},
+	"96": {
+		"name": "Al-'Alaq",
+		"translation": "جما ہوا خون"
+	},
+	"97": {
+		"name": "Al-Qadr",
+		"translation": "شب قدر"
+	},
+	"98": {
+		"name": "Al-Bayyinah",
+		"translation": "ثبوت"
+	},
+	"99": {
+		"name": "Az-Zalzalah",
+		"translation": "زلزلہ"
+	},
+	"100": {
+		"name": "Al-'Adiyat",
+		"translation": "دوڑنے والے گھوڑے"
+	},
+	"101": {
+		"name": "Al-Qari'ah",
+		"translation": "کھڑکھڑاہٹ"
+	},
+	"102": {
+		"name": "At-Takathur",
+		"translation": "کثرت"
+	},
+	"103": {
+		"name": "Al-'Asr",
+		"translation": "زمانہ"
+	},
+	"104": {
+		"name": "Al-Humazah",
+		"translation": "عیب لگانے والا"
+	},
+	"105": {
+		"name": "Al-Fil",
+		"translation": "ہاتھی"
+	},
+	"106": {
+		"name": "Quraysh",
+		"translation": "قریش"
+	},
+	"107": {
+		"name": "Al-Ma'un",
+		"translation": "تھوڑی سی چیز"
+	},
+	"108": {
+		"name": "Al-Kawthar",
+		"translation": "جنت کی نہر"
+	},
+	"109": {
+		"name": "Al-Kafirun",
+		"translation": "کافرین"
+	},
+	"110": {
+		"name": "An-Nasr",
+		"translation": "نصرت"
+	},
+	"111": {
+		"name": "Al-Masad",
+		"translation": "خوب بٹی ہوئی"
+	},
+	"112": {
+		"name": "Al-Ikhlas",
+		"translation": "اخلاص"
+	},
+	"113": {
+		"name": "Al-Falaq",
+		"translation": "صبح"
+	},
+	"114": {
+		"name": "An-Nas",
+		"translation": "انسان"
+	}
+}

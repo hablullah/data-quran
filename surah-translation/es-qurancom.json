@@ -1,0 +1,458 @@
+{
+	"1": {
+		"name": "Al-Fatihah",
+		"translation": "La Apertura"
+	},
+	"2": {
+		"name": "Al-Baqarah",
+		"translation": "La Vaca"
+	},
+	"3": {
+		"name": "Ali 'Imran",
+		"translation": "La Familia de Imran"
+	},
+	"4": {
+		"name": "An-Nisa",
+		"translation": "Las Mujeres"
+	},
+	"5": {
+		"name": "Al-Ma'idah",
+		"translation": "La Mesa Servida"
+	},
+	"6": {
+		"name": "Al-An'am",
+		"translation": "Los Rebaños"
+	},
+	"7": {
+		"name": "Al-A'raf",
+		"translation": "Los Lugares Elevados"
+	},
+	"8": {
+		"name": "Al-Anfal",
+		"translation": "Los Botines de Guerra"
+	},
+	"9": {
+		"name": "At-Tawbah",
+		"translation": "El Arrepentimiento"
+	},
+	"10": {
+		"name": "Yunus",
+		"translation": "Jonás"
+	},
+	"11": {
+		"name": "Hud",
+		"translation": "Hud"
+	},
+	"12": {
+		"name": "Yusuf",
+		"translation": "José"
+	},
+	"13": {
+		"name": "Ar-Ra'd",
+		"translation": "El Trueno"
+	},
+	"14": {
+		"name": "Ibrahim",
+		"translation": "Abraham"
+	},
+	"15": {
+		"name": "Al-Hijr",
+		"translation": "Al-Hiyr"
+	},
+	"16": {
+		"name": "An-Nahl",
+		"translation": "Las Abejas"
+	},
+	"17": {
+		"name": "Al-Isra",
+		"translation": "El Viaje Nocturno"
+	},
+	"18": {
+		"name": "Al-Kahf",
+		"translation": "La Caverna"
+	},
+	"19": {
+		"name": "Maryam",
+		"translation": "María"
+	},
+	"20": {
+		"name": "Taha",
+		"translation": "Ta-Ha"
+	},
+	"21": {
+		"name": "Al-Anbya",
+		"translation": "Los Profetas"
+	},
+	"22": {
+		"name": "Al-Hajj",
+		"translation": "La Peregrinación"
+	},
+	"23": {
+		"name": "Al-Mu'minun",
+		"translation": "Los Creyentes"
+	},
+	"24": {
+		"name": "An-Nur",
+		"translation": "La Luz"
+	},
+	"25": {
+		"name": "Al-Furqan",
+		"translation": "El Discernimiento"
+	},
+	"26": {
+		"name": "Ash-Shu'ara",
+		"translation": "Los Poetas"
+	},
+	"27": {
+		"name": "An-Naml",
+		"translation": "Las Hormigas"
+	},
+	"28": {
+		"name": "Al-Qasas",
+		"translation": "Los Relatos"
+	},
+	"29": {
+		"name": "Al-'Ankabut",
+		"translation": "La Araña"
+	},
+	"30": {
+		"name": "Ar-Rum",
+		"translation": "Los Romanos"
+	},
+	"31": {
+		"name": "Luqman",
+		"translation": "Luqmán"
+	},
+	"32": {
+		"name": "As-Sajdah",
+		"translation": "La Postración"
+	},
+	"33": {
+		"name": "Al-Ahzab",
+		"translation": "Los Coligados"
+	},
+	"34": {
+		"name": "Saba",
+		"translation": "Saba"
+	},
+	"35": {
+		"name": "Fatir",
+		"translation": "El Originador"
+	},
+	"36": {
+		"name": "Ya-Sin",
+		"translation": "Ya Sin"
+	},
+	"37": {
+		"name": "As-Saffat",
+		"translation": "Los Que se Ponen en Filas"
+	},
+	"38": {
+		"name": "Sad",
+		"translation": "Sad"
+	},
+	"39": {
+		"name": "Az-Zumar",
+		"translation": "Los Grupos"
+	},
+	"40": {
+		"name": "Ghafir",
+		"translation": "El Perdonador"
+	},
+	"41": {
+		"name": "Fussilat",
+		"translation": "Se Han Expresado Con Claridad"
+	},
+	"42": {
+		"name": "Ash-Shuraa",
+		"translation": "La Consulta"
+	},
+	"43": {
+		"name": "Az-Zukhruf",
+		"translation": "Los Dorados"
+	},
+	"44": {
+		"name": "Ad-Dukhan",
+		"translation": "El Humo"
+	},
+	"45": {
+		"name": "Al-Jathiyah",
+		"translation": "La Arrodillada"
+	},
+	"46": {
+		"name": "Al-Ahqaf",
+		"translation": "Las Dunas"
+	},
+	"47": {
+		"name": "Muhammad",
+		"translation": "Muhammad"
+	},
+	"48": {
+		"name": "Al-Fath",
+		"translation": "La Victoria"
+	},
+	"49": {
+		"name": "Al-Hujurat",
+		"translation": "Los Aposentos Privados"
+	},
+	"50": {
+		"name": "Qaf",
+		"translation": "Qaf"
+	},
+	"51": {
+		"name": "Adh-Dhariyat",
+		"translation": "Los Que Levantan un Torbellino"
+	},
+	"52": {
+		"name": "At-Tur",
+		"translation": "El Monte"
+	},
+	"53": {
+		"name": "An-Najm",
+		"translation": "El Astro"
+	},
+	"54": {
+		"name": "Al-Qamar",
+		"translation": "La Luna"
+	},
+	"55": {
+		"name": "Ar-Rahman",
+		"translation": "El Misericordioso"
+	},
+	"56": {
+		"name": "Al-Waqi'ah",
+		"translation": "Lo Que ha de Ocurrir"
+	},
+	"57": {
+		"name": "Al-Hadid",
+		"translation": "El Hierro"
+	},
+	"58": {
+		"name": "Al-Mujadila",
+		"translation": "La Discusión"
+	},
+	"59": {
+		"name": "Al-Hashr",
+		"translation": "La Concentración"
+	},
+	"60": {
+		"name": "Al-Mumtahanah",
+		"translation": "La Examinada"
+	},
+	"61": {
+		"name": "As-Saf",
+		"translation": "La Fila"
+	},
+	"62": {
+		"name": "Al-Jumu'ah",
+		"translation": "El Viernes"
+	},
+	"63": {
+		"name": "Al-Munafiqun",
+		"translation": "Los Hipócritas"
+	},
+	"64": {
+		"name": "At-Taghabun",
+		"translation": "El Desengaño"
+	},
+	"65": {
+		"name": "At-Talaq",
+		"translation": "El Divorcio"
+	},
+	"66": {
+		"name": "At-Tahrim",
+		"translation": "La Prohibición"
+	},
+	"67": {
+		"name": "Al-Mulk",
+		"translation": "La Soberanía"
+	},
+	"68": {
+		"name": "Al-Qalam",
+		"translation": "El Cálamo"
+	},
+	"69": {
+		"name": "Al-Haqqah",
+		"translation": "La Verdad Indefectible"
+	},
+	"70": {
+		"name": "Al-Ma'arij",
+		"translation": "Los Grados de Elevación"
+	},
+	"71": {
+		"name": "Nuh",
+		"translation": "Noé"
+	},
+	"72": {
+		"name": "Al-Jinn",
+		"translation": "Los Genios"
+	},
+	"73": {
+		"name": "Al-Muzzammil",
+		"translation": "El Envuelto en El Manto"
+	},
+	"74": {
+		"name": "Al-Muddaththir",
+		"translation": "El Arropado"
+	},
+	"75": {
+		"name": "Al-Qiyamah",
+		"translation": "El Levantamiento"
+	},
+	"76": {
+		"name": "Al-Insan",
+		"translation": "El Hombre"
+	},
+	"77": {
+		"name": "Al-Mursalat",
+		"translation": "Los Que Son Enviados"
+	},
+	"78": {
+		"name": "An-Naba",
+		"translation": "La Noticia"
+	},
+	"79": {
+		"name": "An-Nazi'at",
+		"translation": "Los Que Arrancan"
+	},
+	"80": {
+		"name": "'Abasa",
+		"translation": "Frunció El Ceño"
+	},
+	"81": {
+		"name": "At-Takwir",
+		"translation": "El Arrollamiento"
+	},
+	"82": {
+		"name": "Al-Infitar",
+		"translation": "La Hendidura"
+	},
+	"83": {
+		"name": "Al-Mutaffifin",
+		"translation": "Los Defraudadores"
+	},
+	"84": {
+		"name": "Al-Inshiqaq",
+		"translation": "El Resquebrajamiento"
+	},
+	"85": {
+		"name": "Al-Buruj",
+		"translation": "Las Constelaciones"
+	},
+	"86": {
+		"name": "At-Tariq",
+		"translation": "El Que Viene de Noche"
+	},
+	"87": {
+		"name": "Al-A'la",
+		"translation": "El Altísimo"
+	},
+	"88": {
+		"name": "Al-Ghashiyah",
+		"translation": "El Envolvente"
+	},
+	"89": {
+		"name": "Al-Fajr",
+		"translation": "La Aurora"
+	},
+	"90": {
+		"name": "Al-Balad",
+		"translation": "El Territorio"
+	},
+	"91": {
+		"name": "Ash-Shams",
+		"translation": "El Sol"
+	},
+	"92": {
+		"name": "Al-Layl",
+		"translation": "La Noche"
+	},
+	"93": {
+		"name": "Ad-Duhaa",
+		"translation": "La Claridad de La Mañana"
+	},
+	"94": {
+		"name": "Ash-Sharh",
+		"translation": "No Te Hemos Abierto"
+	},
+	"95": {
+		"name": "At-Tin",
+		"translation": "Los Higos"
+	},
+	"96": {
+		"name": "Al-'Alaq",
+		"translation": "El Coágulo"
+	},
+	"97": {
+		"name": "Al-Qadr",
+		"translation": "El Decreto"
+	},
+	"98": {
+		"name": "Al-Bayyinah",
+		"translation": "La Evidencia"
+	},
+	"99": {
+		"name": "Az-Zalzalah",
+		"translation": "El Temblor"
+	},
+	"100": {
+		"name": "Al-'Adiyat",
+		"translation": "Los Que Galopan"
+	},
+	"101": {
+		"name": "Al-Qari'ah",
+		"translation": "La Conmoción"
+	},
+	"102": {
+		"name": "At-Takathur",
+		"translation": "La Rivalidad"
+	},
+	"103": {
+		"name": "Al-'Asr",
+		"translation": "El Tiempo"
+	},
+	"104": {
+		"name": "Al-Humazah",
+		"translation": "El Murmurador"
+	},
+	"105": {
+		"name": "Al-Fil",
+		"translation": "El Elefante"
+	},
+	"106": {
+		"name": "Quraysh",
+		"translation": "Los Quraysh"
+	},
+	"107": {
+		"name": "Al-Ma'un",
+		"translation": "La Ayuda Imprescindible"
+	},
+	"108": {
+		"name": "Al-Kawthar",
+		"translation": "La Abundancia"
+	},
+	"109": {
+		"name": "Al-Kafirun",
+		"translation": "Los Incrédulos"
+	},
+	"110": {
+		"name": "An-Nasr",
+		"translation": "La Victoria"
+	},
+	"111": {
+		"name": "Al-Masad",
+		"translation": "La Fibra"
+	},
+	"112": {
+		"name": "Al-Ikhlas",
+		"translation": "La Adoración Pura"
+	},
+	"113": {
+		"name": "Al-Falaq",
+		"translation": "El Rayar del Alba"
+	},
+	"114": {
+		"name": "An-Nas",
+		"translation": "Los Hombres"
+	}
+}

@@ -1,0 +1,458 @@
+{
+	"1": {
+		"name": "Al-Fatihah",
+		"translation": "সূচনা"
+	},
+	"2": {
+		"name": "Al-Baqarah",
+		"translation": "বকনা-বাছুর"
+	},
+	"3": {
+		"name": "Ali 'Imran",
+		"translation": "ইমরানের পরিবার"
+	},
+	"4": {
+		"name": "An-Nisa",
+		"translation": "নারী"
+	},
+	"5": {
+		"name": "Al-Ma'idah",
+		"translation": "খাদ্য পরিবেশিত টেবিল"
+	},
+	"6": {
+		"name": "Al-An'am",
+		"translation": "গৃহপালিত পশু"
+	},
+	"7": {
+		"name": "Al-A'raf",
+		"translation": "উচু স্থান"
+	},
+	"8": {
+		"name": "Al-Anfal",
+		"translation": "যুদ্ধ-লব্ধ ধনসম্পদ"
+	},
+	"9": {
+		"name": "At-Tawbah",
+		"translation": "অনুশোচনা"
+	},
+	"10": {
+		"name": "Yunus",
+		"translation": "নবী ইউনুস"
+	},
+	"11": {
+		"name": "Hud",
+		"translation": "নবী হুদ"
+	},
+	"12": {
+		"name": "Yusuf",
+		"translation": "নবী ইউসুফ"
+	},
+	"13": {
+		"name": "Ar-Ra'd",
+		"translation": "বজ্রপাত"
+	},
+	"14": {
+		"name": "Ibrahim",
+		"translation": "নবী ইবরাহীম"
+	},
+	"15": {
+		"name": "Al-Hijr",
+		"translation": "পাথুরে পাহাড়"
+	},
+	"16": {
+		"name": "An-Nahl",
+		"translation": "মৌমাছি"
+	},
+	"17": {
+		"name": "Al-Isra",
+		"translation": "ইহুদি জাতি"
+	},
+	"18": {
+		"name": "Al-Kahf",
+		"translation": "গুহা"
+	},
+	"19": {
+		"name": "Maryam",
+		"translation": "মারইয়াম (ঈসা নবীর মা)"
+	},
+	"20": {
+		"name": "Taha",
+		"translation": "ত়া হা"
+	},
+	"21": {
+		"name": "Al-Anbya",
+		"translation": "নবীগণ"
+	},
+	"22": {
+		"name": "Al-Hajj",
+		"translation": "হ়াজ্জ"
+	},
+	"23": {
+		"name": "Al-Mu'minun",
+		"translation": "বিশ্বাসী"
+	},
+	"24": {
+		"name": "An-Nur",
+		"translation": "আলো"
+	},
+	"25": {
+		"name": "Al-Furqan",
+		"translation": "মানদণ্ড"
+	},
+	"26": {
+		"name": "Ash-Shu'ara",
+		"translation": "কবি"
+	},
+	"27": {
+		"name": "An-Naml",
+		"translation": "পিঁপড়া"
+	},
+	"28": {
+		"name": "Al-Qasas",
+		"translation": "কাহিনি"
+	},
+	"29": {
+		"name": "Al-'Ankabut",
+		"translation": "মাকড়শা"
+	},
+	"30": {
+		"name": "Ar-Rum",
+		"translation": "রোমান জাতি"
+	},
+	"31": {
+		"name": "Luqman",
+		"translation": "এক জ্ঞানী ব্যাক্তি"
+	},
+	"32": {
+		"name": "As-Sajdah",
+		"translation": "সিজদা"
+	},
+	"33": {
+		"name": "Al-Ahzab",
+		"translation": "জোট"
+	},
+	"34": {
+		"name": "Saba",
+		"translation": "রানী সাবা/শেবা"
+	},
+	"35": {
+		"name": "Fatir",
+		"translation": "আদি স্রষ্টা"
+	},
+	"36": {
+		"name": "Ya-Sin",
+		"translation": "ইয়াসীন"
+	},
+	"37": {
+		"name": "As-Saffat",
+		"translation": "সারিবদ্ধভাবে দাঁড়ানো"
+	},
+	"38": {
+		"name": "Sad",
+		"translation": "আরবি বর্ণ সাদ"
+	},
+	"39": {
+		"name": "Az-Zumar",
+		"translation": "দলবদ্ধ জনতা"
+	},
+	"40": {
+		"name": "Ghafir",
+		"translation": "ক্ষমাকারী"
+	},
+	"41": {
+		"name": "Fussilat",
+		"translation": "সুস্পষ্ট বিবরণ"
+	},
+	"42": {
+		"name": "Ash-Shuraa",
+		"translation": "পরামর্শ"
+	},
+	"43": {
+		"name": "Az-Zukhruf",
+		"translation": "সোনাদানা"
+	},
+	"44": {
+		"name": "Ad-Dukhan",
+		"translation": "ধোঁয়া"
+	},
+	"45": {
+		"name": "Al-Jathiyah",
+		"translation": "নতজানু"
+	},
+	"46": {
+		"name": "Al-Ahqaf",
+		"translation": "বালুর পাহাড়"
+	},
+	"47": {
+		"name": "Muhammad",
+		"translation": "নবী মুহাম্মদ"
+	},
+	"48": {
+		"name": "Al-Fath",
+		"translation": "বিজয়"
+	},
+	"49": {
+		"name": "Al-Hujurat",
+		"translation": "আবাস"
+	},
+	"50": {
+		"name": "Qaf",
+		"translation": "কাফ"
+	},
+	"51": {
+		"name": "Adh-Dhariyat",
+		"translation": "বিক্ষেপকারী বাতাস"
+	},
+	"52": {
+		"name": "At-Tur",
+		"translation": "পাহাড়"
+	},
+	"53": {
+		"name": "An-Najm",
+		"translation": "তারা"
+	},
+	"54": {
+		"name": "Al-Qamar",
+		"translation": "চাঁদ"
+	},
+	"55": {
+		"name": "Ar-Rahman",
+		"translation": "পরম করুণাময়"
+	},
+	"56": {
+		"name": "Al-Waqi'ah",
+		"translation": "নিশ্চিত ঘটনা"
+	},
+	"57": {
+		"name": "Al-Hadid",
+		"translation": "লোহা"
+	},
+	"58": {
+		"name": "Al-Mujadila",
+		"translation": "অনুযোগকারিণী"
+	},
+	"59": {
+		"name": "Al-Hashr",
+		"translation": "সমাবেশ"
+	},
+	"60": {
+		"name": "Al-Mumtahanah",
+		"translation": "নারী, যাকে পরীক্ষা করা হবে"
+	},
+	"61": {
+		"name": "As-Saf",
+		"translation": "সারিবদ্ধ সৈন্যদল"
+	},
+	"62": {
+		"name": "Al-Jumu'ah",
+		"translation": "সম্মেলন/শুক্রবার"
+	},
+	"63": {
+		"name": "Al-Munafiqun",
+		"translation": "ভণ্ড বিশ্বাসী"
+	},
+	"64": {
+		"name": "At-Taghabun",
+		"translation": "মোহ অপসারণ"
+	},
+	"65": {
+		"name": "At-Talaq",
+		"translation": "তালাক"
+	},
+	"66": {
+		"name": "At-Tahrim",
+		"translation": "নিষিদ্ধকরণ"
+	},
+	"67": {
+		"name": "Al-Mulk",
+		"translation": "সার্বভৌম কর্তৃত্ব"
+	},
+	"68": {
+		"name": "Al-Qalam",
+		"translation": "কলম"
+	},
+	"69": {
+		"name": "Al-Haqqah",
+		"translation": "নিশ্চিত সত্য"
+	},
+	"70": {
+		"name": "Al-Ma'arij",
+		"translation": "উন্নয়নের সোপান"
+	},
+	"71": {
+		"name": "Nuh",
+		"translation": "নবী নূহ"
+	},
+	"72": {
+		"name": "Al-Jinn",
+		"translation": "জিন সম্প্রদায়"
+	},
+	"73": {
+		"name": "Al-Muzzammil",
+		"translation": "বস্ত্রাচ্ছাদনকারী"
+	},
+	"74": {
+		"name": "Al-Muddaththir",
+		"translation": "পোশাক পরিহিত"
+	},
+	"75": {
+		"name": "Al-Qiyamah",
+		"translation": "পুনরুত্থান"
+	},
+	"76": {
+		"name": "Al-Insan",
+		"translation": "মানবজাতি"
+	},
+	"77": {
+		"name": "Al-Mursalat",
+		"translation": "প্রেরিত পুরুষ"
+	},
+	"78": {
+		"name": "An-Naba",
+		"translation": "মহাসংবাদ"
+	},
+	"79": {
+		"name": "An-Nazi'at",
+		"translation": "প্রচেষ্টাকারী"
+	},
+	"80": {
+		"name": "'Abasa",
+		"translation": "সে ভ্রু কুঁচকালো"
+	},
+	"81": {
+		"name": "At-Takwir",
+		"translation": "অন্ধকারাচ্ছন্ন"
+	},
+	"82": {
+		"name": "Al-Infitar",
+		"translation": "বিদীর্ণ করা"
+	},
+	"83": {
+		"name": "Al-Mutaffifin",
+		"translation": "প্রতারণা করা"
+	},
+	"84": {
+		"name": "Al-Inshiqaq",
+		"translation": "খণ্ড-বিখণ্ডকরণ"
+	},
+	"85": {
+		"name": "Al-Buruj",
+		"translation": "নক্ষত্রপুঞ্জ"
+	},
+	"86": {
+		"name": "At-Tariq",
+		"translation": "রাতের আগন্তুক"
+	},
+	"87": {
+		"name": "Al-A'la",
+		"translation": "সর্বোন্নত"
+	},
+	"88": {
+		"name": "Al-Ghashiyah",
+		"translation": "বিহ্বলকর ঘটনা"
+	},
+	"89": {
+		"name": "Al-Fajr",
+		"translation": "ভোরবেলা"
+	},
+	"90": {
+		"name": "Al-Balad",
+		"translation": "নগর"
+	},
+	"91": {
+		"name": "Ash-Shams",
+		"translation": "সূর্য"
+	},
+	"92": {
+		"name": "Al-Layl",
+		"translation": "রাত"
+	},
+	"93": {
+		"name": "Ad-Duhaa",
+		"translation": "পূর্বাহ্নের সুর্যকিরণ"
+	},
+	"94": {
+		"name": "Ash-Sharh",
+		"translation": "বক্ষ প্রশস্তকরণ"
+	},
+	"95": {
+		"name": "At-Tin",
+		"translation": "ডুমুর"
+	},
+	"96": {
+		"name": "Al-'Alaq",
+		"translation": "রক্তপিণ্ড"
+	},
+	"97": {
+		"name": "Al-Qadr",
+		"translation": "মহিমান্বিত"
+	},
+	"98": {
+		"name": "Al-Bayyinah",
+		"translation": "প্রমাণ"
+	},
+	"99": {
+		"name": "Az-Zalzalah",
+		"translation": "ভূমিকম্প"
+	},
+	"100": {
+		"name": "Al-'Adiyat",
+		"translation": "অভিযানকারী"
+	},
+	"101": {
+		"name": "Al-Qari'ah",
+		"translation": "মহাসংকট"
+	},
+	"102": {
+		"name": "At-Takathur",
+		"translation": "প্রাচুর্যের প্রতিযোগিতা"
+	},
+	"103": {
+		"name": "Al-'Asr",
+		"translation": "সময়"
+	},
+	"104": {
+		"name": "Al-Humazah",
+		"translation": "পরনিন্দাকারী"
+	},
+	"105": {
+		"name": "Al-Fil",
+		"translation": "হাতি"
+	},
+	"106": {
+		"name": "Quraysh",
+		"translation": "কুরাইশ গোত্র"
+	},
+	"107": {
+		"name": "Al-Ma'un",
+		"translation": "সাহায্য সহায়তা"
+	},
+	"108": {
+		"name": "Al-Kawthar",
+		"translation": "কাউসার/প্রাচুর্য"
+	},
+	"109": {
+		"name": "Al-Kafirun",
+		"translation": "অবিশ্বাসী"
+	},
+	"110": {
+		"name": "An-Nasr",
+		"translation": "সাহায্য"
+	},
+	"111": {
+		"name": "Al-Masad",
+		"translation": "খেজুরের পাকানো (রশি)"
+	},
+	"112": {
+		"name": "Al-Ikhlas",
+		"translation": "আন্তরিকতা"
+	},
+	"113": {
+		"name": "Al-Falaq",
+		"translation": "নিশিভোর"
+	},
+	"114": {
+		"name": "An-Nas",
+		"translation": "মানুষ জাতি"
+	}
+}

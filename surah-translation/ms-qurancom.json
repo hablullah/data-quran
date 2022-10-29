@@ -1,0 +1,458 @@
+{
+	"1": {
+		"name": "Al-Fatihah",
+		"translation": "Pembukaan"
+	},
+	"2": {
+		"name": "Al-Baqarah",
+		"translation": "Lembu Betina"
+	},
+	"3": {
+		"name": "Ali 'Imran",
+		"translation": "Keluarga Imran"
+	},
+	"4": {
+		"name": "An-Nisa",
+		"translation": "Wanita"
+	},
+	"5": {
+		"name": "Al-Ma'idah",
+		"translation": "Hidangan"
+	},
+	"6": {
+		"name": "Al-An'am",
+		"translation": "Binatang Ternakan"
+	},
+	"7": {
+		"name": "Al-A'raf",
+		"translation": "Tempat Tertinggi"
+	},
+	"8": {
+		"name": "Al-Anfal",
+		"translation": "Rampasan Perang"
+	},
+	"9": {
+		"name": "At-Tawbah",
+		"translation": "Pengampunan"
+	},
+	"10": {
+		"name": "Yunus",
+		"translation": "Nabi Yunus a.s."
+	},
+	"11": {
+		"name": "Hud",
+		"translation": "Nabi Hud a.s."
+	},
+	"12": {
+		"name": "Yusuf",
+		"translation": "Nabi Yusuf a.s."
+	},
+	"13": {
+		"name": "Ar-Ra'd",
+		"translation": "Guruh"
+	},
+	"14": {
+		"name": "Ibrahim",
+		"translation": "Nabi Ibrahim a.s."
+	},
+	"15": {
+		"name": "Al-Hijr",
+		"translation": "Kawasan Berbatu"
+	},
+	"16": {
+		"name": "An-Nahl",
+		"translation": "Lebah"
+	},
+	"17": {
+		"name": "Al-Isra",
+		"translation": "Perjalanan Malam"
+	},
+	"18": {
+		"name": "Al-Kahf",
+		"translation": "Gua"
+	},
+	"19": {
+		"name": "Maryam",
+		"translation": "Siti Maryam"
+	},
+	"20": {
+		"name": "Taha",
+		"translation": "Taahaa"
+	},
+	"21": {
+		"name": "Al-Anbya",
+		"translation": "Para Nabi"
+	},
+	"22": {
+		"name": "Al-Hajj",
+		"translation": "Haji"
+	},
+	"23": {
+		"name": "Al-Mu'minun",
+		"translation": "Golongan yang Beriman"
+	},
+	"24": {
+		"name": "An-Nur",
+		"translation": "Cahaya"
+	},
+	"25": {
+		"name": "Al-Furqan",
+		"translation": "Pembeza Kebenaran dan Kebatilan"
+	},
+	"26": {
+		"name": "Ash-Shu'ara",
+		"translation": "Para Penyair"
+	},
+	"27": {
+		"name": "An-Naml",
+		"translation": "Semut"
+	},
+	"28": {
+		"name": "Al-Qasas",
+		"translation": "Cerita-cerita"
+	},
+	"29": {
+		"name": "Al-'Ankabut",
+		"translation": "Labah-labah"
+	},
+	"30": {
+		"name": "Ar-Rum",
+		"translation": "Bangsa Rom"
+	},
+	"31": {
+		"name": "Luqman",
+		"translation": "Luqman"
+	},
+	"32": {
+		"name": "As-Sajdah",
+		"translation": "Sujud"
+	},
+	"33": {
+		"name": "Al-Ahzab",
+		"translation": "Golongan yang Bersekutu"
+	},
+	"34": {
+		"name": "Saba",
+		"translation": "Kaum Saba’"
+	},
+	"35": {
+		"name": "Fatir",
+		"translation": "Pencipta"
+	},
+	"36": {
+		"name": "Ya-Sin",
+		"translation": "Yaasin"
+	},
+	"37": {
+		"name": "As-Saffat",
+		"translation": "Yang Teratur Berbaris"
+	},
+	"38": {
+		"name": "Sad",
+		"translation": "Saad"
+	},
+	"39": {
+		"name": "Az-Zumar",
+		"translation": "Rombongan"
+	},
+	"40": {
+		"name": "Ghafir",
+		"translation": "Orang yang Beriman"
+	},
+	"41": {
+		"name": "Fussilat",
+		"translation": "Dijelaskan"
+	},
+	"42": {
+		"name": "Ash-Shuraa",
+		"translation": "Permesyuaratan"
+	},
+	"43": {
+		"name": "Az-Zukhruf",
+		"translation": "Perhiasan Emas"
+	},
+	"44": {
+		"name": "Ad-Dukhan",
+		"translation": "Kabut / Asap"
+	},
+	"45": {
+		"name": "Al-Jathiyah",
+		"translation": "Yang Berlutut"
+	},
+	"46": {
+		"name": "Al-Ahqaf",
+		"translation": "Bukit-bukit Pasir"
+	},
+	"47": {
+		"name": "Muhammad",
+		"translation": "Nabi Muhammad SAW"
+	},
+	"48": {
+		"name": "Al-Fath",
+		"translation": "Kemenangan"
+	},
+	"49": {
+		"name": "Al-Hujurat",
+		"translation": "Bilik-bilik"
+	},
+	"50": {
+		"name": "Qaf",
+		"translation": "Qaaf"
+	},
+	"51": {
+		"name": "Adh-Dhariyat",
+		"translation": "Angin yang Menerbangkan"
+	},
+	"52": {
+		"name": "At-Tur",
+		"translation": "Bukit"
+	},
+	"53": {
+		"name": "An-Najm",
+		"translation": "Bintang"
+	},
+	"54": {
+		"name": "Al-Qamar",
+		"translation": "Bulan"
+	},
+	"55": {
+		"name": "Ar-Rahman",
+		"translation": "Yang Maha Pemurah"
+	},
+	"56": {
+		"name": "Al-Waqi'ah",
+		"translation": "Peristiwa yang Tidak Dapat Dielakkan"
+	},
+	"57": {
+		"name": "Al-Hadid",
+		"translation": "Besi"
+	},
+	"58": {
+		"name": "Al-Mujadila",
+		"translation": "Perempuan yang Merayu"
+	},
+	"59": {
+		"name": "Al-Hashr",
+		"translation": "Pengusiran"
+	},
+	"60": {
+		"name": "Al-Mumtahanah",
+		"translation": "Perempuan yang Diuji"
+	},
+	"61": {
+		"name": "As-Saf",
+		"translation": "Barisan"
+	},
+	"62": {
+		"name": "Al-Jumu'ah",
+		"translation": "Hari Jumaat"
+	},
+	"63": {
+		"name": "Al-Munafiqun",
+		"translation": "Golongan Munafik"
+	},
+	"64": {
+		"name": "At-Taghabun",
+		"translation": "Dinampakkan Kesalahan"
+	},
+	"65": {
+		"name": "At-Talaq",
+		"translation": "Cerai / Talak"
+	},
+	"66": {
+		"name": "At-Tahrim",
+		"translation": "Mengharamkan"
+	},
+	"67": {
+		"name": "Al-Mulk",
+		"translation": "Kerajaan"
+	},
+	"68": {
+		"name": "Al-Qalam",
+		"translation": "Pena / Kalam"
+	},
+	"69": {
+		"name": "Al-Haqqah",
+		"translation": "Keadaan Sebenar / Hari Kiamat"
+	},
+	"70": {
+		"name": "Al-Ma'arij",
+		"translation": "Tempat-tempat Naik"
+	},
+	"71": {
+		"name": "Nuh",
+		"translation": "Nabi Nuh a.s."
+	},
+	"72": {
+		"name": "Al-Jinn",
+		"translation": "Jin"
+	},
+	"73": {
+		"name": "Al-Muzzammil",
+		"translation": "Yang Berselimut"
+	},
+	"74": {
+		"name": "Al-Muddaththir",
+		"translation": "Yang Berselubung"
+	},
+	"75": {
+		"name": "Al-Qiyamah",
+		"translation": "Hari Kebangkitan / Kiamat"
+	},
+	"76": {
+		"name": "Al-Insan",
+		"translation": "Manusia"
+	},
+	"77": {
+		"name": "Al-Mursalat",
+		"translation": "Malaikat Yang Diutus"
+	},
+	"78": {
+		"name": "An-Naba",
+		"translation": "Berita Besar"
+	},
+	"79": {
+		"name": "An-Nazi'at",
+		"translation": "Malaikat Yang Mencabut"
+	},
+	"80": {
+		"name": "'Abasa",
+		"translation": "Dia Bermasam Muka"
+	},
+	"81": {
+		"name": "At-Takwir",
+		"translation": "Menggulung"
+	},
+	"82": {
+		"name": "Al-Infitar",
+		"translation": "Terpecah \u0026 Terbelah"
+	},
+	"83": {
+		"name": "Al-Mutaffifin",
+		"translation": "Golongan yang Curang"
+	},
+	"84": {
+		"name": "Al-Inshiqaq",
+		"translation": "Terbelah"
+	},
+	"85": {
+		"name": "Al-Buruj",
+		"translation": "Gugusan Bintang"
+	},
+	"86": {
+		"name": "At-Tariq",
+		"translation": "Pengunjung Malam"
+	},
+	"87": {
+		"name": "Al-A'la",
+		"translation": "Yang Tertinggi"
+	},
+	"88": {
+		"name": "Al-Ghashiyah",
+		"translation": "Peristiwa Menggelisahkan/Hari Pembalasan"
+	},
+	"89": {
+		"name": "Al-Fajr",
+		"translation": "Fajar / Sinar Mentari"
+	},
+	"90": {
+		"name": "Al-Balad",
+		"translation": "Negeri"
+	},
+	"91": {
+		"name": "Ash-Shams",
+		"translation": "Matahari"
+	},
+	"92": {
+		"name": "Al-Layl",
+		"translation": "Malam"
+	},
+	"93": {
+		"name": "Ad-Duhaa",
+		"translation": "Pagi yang Cemerlang / Matahari Meninggi"
+	},
+	"94": {
+		"name": "Ash-Sharh",
+		"translation": "Melapangkan"
+	},
+	"95": {
+		"name": "At-Tin",
+		"translation": "Buah Tin / Buah Ara"
+	},
+	"96": {
+		"name": "Al-'Alaq",
+		"translation": "Segumpal Darah"
+	},
+	"97": {
+		"name": "Al-Qadr",
+		"translation": "Kemuliaan"
+	},
+	"98": {
+		"name": "Al-Bayyinah",
+		"translation": "Bukti yang Nyata"
+	},
+	"99": {
+		"name": "Az-Zalzalah",
+		"translation": "Kegoncangan"
+	},
+	"100": {
+		"name": "Al-'Adiyat",
+		"translation": "Yang Berlari Kencang"
+	},
+	"101": {
+		"name": "Al-Qari'ah",
+		"translation": "Hari Yang Hingar Bingar / Kiamat"
+	},
+	"102": {
+		"name": "At-Takathur",
+		"translation": "Bermegah-megah"
+	},
+	"103": {
+		"name": "Al-'Asr",
+		"translation": "Masa"
+	},
+	"104": {
+		"name": "Al-Humazah",
+		"translation": "Pengumpat"
+	},
+	"105": {
+		"name": "Al-Fil",
+		"translation": "Gajah"
+	},
+	"106": {
+		"name": "Quraysh",
+		"translation": "Kaum Quraisy"
+	},
+	"107": {
+		"name": "Al-Ma'un",
+		"translation": "Barangan Berguna"
+	},
+	"108": {
+		"name": "Al-Kawthar",
+		"translation": "Sungai Di Syurga"
+	},
+	"109": {
+		"name": "Al-Kafirun",
+		"translation": "Golongan Kafir"
+	},
+	"110": {
+		"name": "An-Nasr",
+		"translation": "Pertolongan"
+	},
+	"111": {
+		"name": "Al-Masad",
+		"translation": "Nyalaan Api"
+	},
+	"112": {
+		"name": "Al-Ikhlas",
+		"translation": "Tulus Ikhlas / Memurnikan Keesaan Allah"
+	},
+	"113": {
+		"name": "Al-Falaq",
+		"translation": "Waktu Subuh / Dinihari"
+	},
+	"114": {
+		"name": "An-Nas",
+		"translation": "Manusia"
+	}
+}

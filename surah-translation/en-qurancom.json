@@ -1,0 +1,458 @@
+{
+	"1": {
+		"name": "Al-Fatihah",
+		"translation": "The Opener"
+	},
+	"2": {
+		"name": "Al-Baqarah",
+		"translation": "The Cow"
+	},
+	"3": {
+		"name": "Ali 'Imran",
+		"translation": "Family of Imran"
+	},
+	"4": {
+		"name": "An-Nisa",
+		"translation": "The Women"
+	},
+	"5": {
+		"name": "Al-Ma'idah",
+		"translation": "The Table Spread"
+	},
+	"6": {
+		"name": "Al-An'am",
+		"translation": "The Cattle"
+	},
+	"7": {
+		"name": "Al-A'raf",
+		"translation": "The Heights"
+	},
+	"8": {
+		"name": "Al-Anfal",
+		"translation": "The Spoils of War"
+	},
+	"9": {
+		"name": "At-Tawbah",
+		"translation": "The Repentance"
+	},
+	"10": {
+		"name": "Yunus",
+		"translation": "Jonah"
+	},
+	"11": {
+		"name": "Hud",
+		"translation": "Hud"
+	},
+	"12": {
+		"name": "Yusuf",
+		"translation": "Joseph"
+	},
+	"13": {
+		"name": "Ar-Ra'd",
+		"translation": "The Thunder"
+	},
+	"14": {
+		"name": "Ibrahim",
+		"translation": "Abraham"
+	},
+	"15": {
+		"name": "Al-Hijr",
+		"translation": "The Rocky Tract"
+	},
+	"16": {
+		"name": "An-Nahl",
+		"translation": "The Bee"
+	},
+	"17": {
+		"name": "Al-Isra",
+		"translation": "The Night Journey"
+	},
+	"18": {
+		"name": "Al-Kahf",
+		"translation": "The Cave"
+	},
+	"19": {
+		"name": "Maryam",
+		"translation": "Mary"
+	},
+	"20": {
+		"name": "Taha",
+		"translation": "Ta-Ha"
+	},
+	"21": {
+		"name": "Al-Anbya",
+		"translation": "The Prophets"
+	},
+	"22": {
+		"name": "Al-Hajj",
+		"translation": "The Pilgrimage"
+	},
+	"23": {
+		"name": "Al-Mu'minun",
+		"translation": "The Believers"
+	},
+	"24": {
+		"name": "An-Nur",
+		"translation": "The Light"
+	},
+	"25": {
+		"name": "Al-Furqan",
+		"translation": "The Criterion"
+	},
+	"26": {
+		"name": "Ash-Shu'ara",
+		"translation": "The Poets"
+	},
+	"27": {
+		"name": "An-Naml",
+		"translation": "The Ant"
+	},
+	"28": {
+		"name": "Al-Qasas",
+		"translation": "The Stories"
+	},
+	"29": {
+		"name": "Al-'Ankabut",
+		"translation": "The Spider"
+	},
+	"30": {
+		"name": "Ar-Rum",
+		"translation": "The Romans"
+	},
+	"31": {
+		"name": "Luqman",
+		"translation": "Luqman"
+	},
+	"32": {
+		"name": "As-Sajdah",
+		"translation": "The Prostration"
+	},
+	"33": {
+		"name": "Al-Ahzab",
+		"translation": "The Combined Forces"
+	},
+	"34": {
+		"name": "Saba",
+		"translation": "Sheba"
+	},
+	"35": {
+		"name": "Fatir",
+		"translation": "Originator"
+	},
+	"36": {
+		"name": "Ya-Sin",
+		"translation": "Ya Sin"
+	},
+	"37": {
+		"name": "As-Saffat",
+		"translation": "Those who set the Ranks"
+	},
+	"38": {
+		"name": "Sad",
+		"translation": "The Letter \"Saad\""
+	},
+	"39": {
+		"name": "Az-Zumar",
+		"translation": "The Troops"
+	},
+	"40": {
+		"name": "Ghafir",
+		"translation": "The Forgiver"
+	},
+	"41": {
+		"name": "Fussilat",
+		"translation": "Explained in Detail"
+	},
+	"42": {
+		"name": "Ash-Shuraa",
+		"translation": "The Consultation"
+	},
+	"43": {
+		"name": "Az-Zukhruf",
+		"translation": "The Ornaments of Gold"
+	},
+	"44": {
+		"name": "Ad-Dukhan",
+		"translation": "The Smoke"
+	},
+	"45": {
+		"name": "Al-Jathiyah",
+		"translation": "The Crouching"
+	},
+	"46": {
+		"name": "Al-Ahqaf",
+		"translation": "The Wind-Curved Sandhills"
+	},
+	"47": {
+		"name": "Muhammad",
+		"translation": "Muhammad"
+	},
+	"48": {
+		"name": "Al-Fath",
+		"translation": "The Victory"
+	},
+	"49": {
+		"name": "Al-Hujurat",
+		"translation": "The Rooms"
+	},
+	"50": {
+		"name": "Qaf",
+		"translation": "The Letter \"Qaf\""
+	},
+	"51": {
+		"name": "Adh-Dhariyat",
+		"translation": "The Winnowing Winds"
+	},
+	"52": {
+		"name": "At-Tur",
+		"translation": "The Mount"
+	},
+	"53": {
+		"name": "An-Najm",
+		"translation": "The Star"
+	},
+	"54": {
+		"name": "Al-Qamar",
+		"translation": "The Moon"
+	},
+	"55": {
+		"name": "Ar-Rahman",
+		"translation": "The Beneficent"
+	},
+	"56": {
+		"name": "Al-Waqi'ah",
+		"translation": "The Inevitable"
+	},
+	"57": {
+		"name": "Al-Hadid",
+		"translation": "The Iron"
+	},
+	"58": {
+		"name": "Al-Mujadila",
+		"translation": "The Pleading Woman"
+	},
+	"59": {
+		"name": "Al-Hashr",
+		"translation": "The Exile"
+	},
+	"60": {
+		"name": "Al-Mumtahanah",
+		"translation": "She that is to be examined"
+	},
+	"61": {
+		"name": "As-Saf",
+		"translation": "The Ranks"
+	},
+	"62": {
+		"name": "Al-Jumu'ah",
+		"translation": "The Congregation, Friday"
+	},
+	"63": {
+		"name": "Al-Munafiqun",
+		"translation": "The Hypocrites"
+	},
+	"64": {
+		"name": "At-Taghabun",
+		"translation": "The Mutual Disillusion"
+	},
+	"65": {
+		"name": "At-Talaq",
+		"translation": "The Divorce"
+	},
+	"66": {
+		"name": "At-Tahrim",
+		"translation": "The Prohibition"
+	},
+	"67": {
+		"name": "Al-Mulk",
+		"translation": "The Sovereignty"
+	},
+	"68": {
+		"name": "Al-Qalam",
+		"translation": "The Pen"
+	},
+	"69": {
+		"name": "Al-Haqqah",
+		"translation": "The Reality"
+	},
+	"70": {
+		"name": "Al-Ma'arij",
+		"translation": "The Ascending Stairways"
+	},
+	"71": {
+		"name": "Nuh",
+		"translation": "Noah"
+	},
+	"72": {
+		"name": "Al-Jinn",
+		"translation": "The Jinn"
+	},
+	"73": {
+		"name": "Al-Muzzammil",
+		"translation": "The Enshrouded One"
+	},
+	"74": {
+		"name": "Al-Muddaththir",
+		"translation": "The Cloaked One"
+	},
+	"75": {
+		"name": "Al-Qiyamah",
+		"translation": "The Resurrection"
+	},
+	"76": {
+		"name": "Al-Insan",
+		"translation": "The Man"
+	},
+	"77": {
+		"name": "Al-Mursalat",
+		"translation": "The Emissaries"
+	},
+	"78": {
+		"name": "An-Naba",
+		"translation": "The Tidings"
+	},
+	"79": {
+		"name": "An-Nazi'at",
+		"translation": "Those who drag forth"
+	},
+	"80": {
+		"name": "'Abasa",
+		"translation": "He Frowned"
+	},
+	"81": {
+		"name": "At-Takwir",
+		"translation": "The Overthrowing"
+	},
+	"82": {
+		"name": "Al-Infitar",
+		"translation": "The Cleaving"
+	},
+	"83": {
+		"name": "Al-Mutaffifin",
+		"translation": "The Defrauding"
+	},
+	"84": {
+		"name": "Al-Inshiqaq",
+		"translation": "The Sundering"
+	},
+	"85": {
+		"name": "Al-Buruj",
+		"translation": "The Mansions of the Stars"
+	},
+	"86": {
+		"name": "At-Tariq",
+		"translation": "The Nightcommer"
+	},
+	"87": {
+		"name": "Al-A'la",
+		"translation": "The Most High"
+	},
+	"88": {
+		"name": "Al-Ghashiyah",
+		"translation": "The Overwhelming"
+	},
+	"89": {
+		"name": "Al-Fajr",
+		"translation": "The Dawn"
+	},
+	"90": {
+		"name": "Al-Balad",
+		"translation": "The City"
+	},
+	"91": {
+		"name": "Ash-Shams",
+		"translation": "The Sun"
+	},
+	"92": {
+		"name": "Al-Layl",
+		"translation": "The Night"
+	},
+	"93": {
+		"name": "Ad-Duhaa",
+		"translation": "The Morning Hours"
+	},
+	"94": {
+		"name": "Ash-Sharh",
+		"translation": "The Relief"
+	},
+	"95": {
+		"name": "At-Tin",
+		"translation": "The Fig"
+	},
+	"96": {
+		"name": "Al-'Alaq",
+		"translation": "The Clot"
+	},
+	"97": {
+		"name": "Al-Qadr",
+		"translation": "The Power"
+	},
+	"98": {
+		"name": "Al-Bayyinah",
+		"translation": "The Clear Proof"
+	},
+	"99": {
+		"name": "Az-Zalzalah",
+		"translation": "The Earthquake"
+	},
+	"100": {
+		"name": "Al-'Adiyat",
+		"translation": "The Courser"
+	},
+	"101": {
+		"name": "Al-Qari'ah",
+		"translation": "The Calamity"
+	},
+	"102": {
+		"name": "At-Takathur",
+		"translation": "The Rivalry in world increase"
+	},
+	"103": {
+		"name": "Al-'Asr",
+		"translation": "The Declining Day"
+	},
+	"104": {
+		"name": "Al-Humazah",
+		"translation": "The Traducer"
+	},
+	"105": {
+		"name": "Al-Fil",
+		"translation": "The Elephant"
+	},
+	"106": {
+		"name": "Quraysh",
+		"translation": "Quraysh"
+	},
+	"107": {
+		"name": "Al-Ma'un",
+		"translation": "The Small kindnesses"
+	},
+	"108": {
+		"name": "Al-Kawthar",
+		"translation": "The Abundance"
+	},
+	"109": {
+		"name": "Al-Kafirun",
+		"translation": "The Disbelievers"
+	},
+	"110": {
+		"name": "An-Nasr",
+		"translation": "The Divine Support"
+	},
+	"111": {
+		"name": "Al-Masad",
+		"translation": "The Palm Fiber"
+	},
+	"112": {
+		"name": "Al-Ikhlas",
+		"translation": "The Sincerity"
+	},
+	"113": {
+		"name": "Al-Falaq",
+		"translation": "The Daybreak"
+	},
+	"114": {
+		"name": "An-Nas",
+		"translation": "Mankind"
+	}
+}

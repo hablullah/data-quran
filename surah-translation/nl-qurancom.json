@@ -1,0 +1,458 @@
+{
+	"1": {
+		"name": "Al-Fatihah",
+		"translation": "De Opening"
+	},
+	"2": {
+		"name": "Al-Baqarah",
+		"translation": "De Koe"
+	},
+	"3": {
+		"name": "Ali 'Imran",
+		"translation": "De Familie van Imraan"
+	},
+	"4": {
+		"name": "An-Nisa",
+		"translation": "De Vrouwen"
+	},
+	"5": {
+		"name": "Al-Ma'idah",
+		"translation": "De Gedekte Tafel"
+	},
+	"6": {
+		"name": "Al-An'am",
+		"translation": "Het Vee"
+	},
+	"7": {
+		"name": "Al-A'raf",
+		"translation": "De Verheven Plaatsen"
+	},
+	"8": {
+		"name": "Al-Anfal",
+		"translation": "De Oorlogsbuit"
+	},
+	"9": {
+		"name": "At-Tawbah",
+		"translation": "Het Berouw"
+	},
+	"10": {
+		"name": "Yunus",
+		"translation": "Jonas"
+	},
+	"11": {
+		"name": "Hud",
+		"translation": "Hoed (de Profeet)"
+	},
+	"12": {
+		"name": "Yusuf",
+		"translation": "Jozef"
+	},
+	"13": {
+		"name": "Ar-Ra'd",
+		"translation": "De Donder"
+	},
+	"14": {
+		"name": "Ibrahim",
+		"translation": "Abraham"
+	},
+	"15": {
+		"name": "Al-Hijr",
+		"translation": "De Rotsachtige Streek"
+	},
+	"16": {
+		"name": "An-Nahl",
+		"translation": "De Bijen"
+	},
+	"17": {
+		"name": "Al-Isra",
+		"translation": "De Nachtelijke Reis"
+	},
+	"18": {
+		"name": "Al-Kahf",
+		"translation": "De Grot"
+	},
+	"19": {
+		"name": "Maryam",
+		"translation": "Maria"
+	},
+	"20": {
+		"name": "Taha",
+		"translation": "Taa Haa (de letters)"
+	},
+	"21": {
+		"name": "Al-Anbya",
+		"translation": "De Profeten"
+	},
+	"22": {
+		"name": "Al-Hajj",
+		"translation": "De Bedevaart"
+	},
+	"23": {
+		"name": "Al-Mu'minun",
+		"translation": "De Gelovigen"
+	},
+	"24": {
+		"name": "An-Nur",
+		"translation": "Het Licht"
+	},
+	"25": {
+		"name": "Al-Furqan",
+		"translation": "Het Onderscheidingsmiddel"
+	},
+	"26": {
+		"name": "Ash-Shu'ara",
+		"translation": "De Dichters"
+	},
+	"27": {
+		"name": "An-Naml",
+		"translation": "De Mieren"
+	},
+	"28": {
+		"name": "Al-Qasas",
+		"translation": "Het Verhaal"
+	},
+	"29": {
+		"name": "Al-'Ankabut",
+		"translation": "De Spin"
+	},
+	"30": {
+		"name": "Ar-Rum",
+		"translation": "De Romeinen"
+	},
+	"31": {
+		"name": "Luqman",
+		"translation": "Loeqmaan"
+	},
+	"32": {
+		"name": "As-Sajdah",
+		"translation": "De Neerknieling"
+	},
+	"33": {
+		"name": "Al-Ahzab",
+		"translation": "De Bondgenoten"
+	},
+	"34": {
+		"name": "Saba",
+		"translation": "De Stad Sheba"
+	},
+	"35": {
+		"name": "Fatir",
+		"translation": "De Schepper"
+	},
+	"36": {
+		"name": "Ya-Sin",
+		"translation": "Jaa Sien (de letters)"
+	},
+	"37": {
+		"name": "As-Saffat",
+		"translation": "Die in Rijen staan"
+	},
+	"38": {
+		"name": "Sad",
+		"translation": "Saad (de letter)"
+	},
+	"39": {
+		"name": "Az-Zumar",
+		"translation": "De Groepen"
+	},
+	"40": {
+		"name": "Ghafir",
+		"translation": "Hij die Vergeeft"
+	},
+	"41": {
+		"name": "Fussilat",
+		"translation": "Gedetailleerde Verzen"
+	},
+	"42": {
+		"name": "Ash-Shuraa",
+		"translation": "Het Overleg"
+	},
+	"43": {
+		"name": "Az-Zukhruf",
+		"translation": "De Gouden Juwelen"
+	},
+	"44": {
+		"name": "Ad-Dukhan",
+		"translation": "De Rook"
+	},
+	"45": {
+		"name": "Al-Jathiyah",
+		"translation": "De Knielenden"
+	},
+	"46": {
+		"name": "Al-Ahqaf",
+		"translation": "De Gebogen Duinen"
+	},
+	"47": {
+		"name": "Muhammad",
+		"translation": "Mohammed"
+	},
+	"48": {
+		"name": "Al-Fath",
+		"translation": "De Overwinning"
+	},
+	"49": {
+		"name": "Al-Hujurat",
+		"translation": "De Binnenkamers"
+	},
+	"50": {
+		"name": "Qaf",
+		"translation": "Qaaf (de letter)"
+	},
+	"51": {
+		"name": "Adh-Dhariyat",
+		"translation": "De Winden die doen opwaaien"
+	},
+	"52": {
+		"name": "At-Tur",
+		"translation": "De Berg"
+	},
+	"53": {
+		"name": "An-Najm",
+		"translation": "De Ster"
+	},
+	"54": {
+		"name": "Al-Qamar",
+		"translation": "De Maan"
+	},
+	"55": {
+		"name": "Ar-Rahman",
+		"translation": "De Erbarmer"
+	},
+	"56": {
+		"name": "Al-Waqi'ah",
+		"translation": "De Dag der Opstanding"
+	},
+	"57": {
+		"name": "Al-Hadid",
+		"translation": "Het Ijzer"
+	},
+	"58": {
+		"name": "Al-Mujadila",
+		"translation": "Zij die Twistte"
+	},
+	"59": {
+		"name": "Al-Hashr",
+		"translation": "De Verzameling"
+	},
+	"60": {
+		"name": "Al-Mumtahanah",
+		"translation": "De ondervraagde Vrouwen"
+	},
+	"61": {
+		"name": "As-Saf",
+		"translation": "De Slagorde"
+	},
+	"62": {
+		"name": "Al-Jumu'ah",
+		"translation": "Vrijdag"
+	},
+	"63": {
+		"name": "Al-Munafiqun",
+		"translation": "De Hypocrieten"
+	},
+	"64": {
+		"name": "At-Taghabun",
+		"translation": "Beider Verlies en Winst"
+	},
+	"65": {
+		"name": "At-Talaq",
+		"translation": "De Scheiding"
+	},
+	"66": {
+		"name": "At-Tahrim",
+		"translation": "Het Verbod"
+	},
+	"67": {
+		"name": "Al-Mulk",
+		"translation": "De Heerschappij"
+	},
+	"68": {
+		"name": "Al-Qalam",
+		"translation": "De Pen"
+	},
+	"69": {
+		"name": "Al-Haqqah",
+		"translation": "De Zekere Realiteit"
+	},
+	"70": {
+		"name": "Al-Ma'arij",
+		"translation": "De Opgaande Trappen"
+	},
+	"71": {
+		"name": "Nuh",
+		"translation": "Noah"
+	},
+	"72": {
+		"name": "Al-Jinn",
+		"translation": "De Djinn"
+	},
+	"73": {
+		"name": "Al-Muzzammil",
+		"translation": "De Omhulde"
+	},
+	"74": {
+		"name": "Al-Muddaththir",
+		"translation": "De Ommantelde"
+	},
+	"75": {
+		"name": "Al-Qiyamah",
+		"translation": "De Wederopstanding"
+	},
+	"76": {
+		"name": "Al-Insan",
+		"translation": "De Mens"
+	},
+	"77": {
+		"name": "Al-Mursalat",
+		"translation": "De Uitgezondenen"
+	},
+	"78": {
+		"name": "An-Naba",
+		"translation": "De Aankondiging"
+	},
+	"79": {
+		"name": "An-Nazi'at",
+		"translation": "De Uitrukkenden"
+	},
+	"80": {
+		"name": "'Abasa",
+		"translation": "Hij fronste"
+	},
+	"81": {
+		"name": "At-Takwir",
+		"translation": "Het Oprollen"
+	},
+	"82": {
+		"name": "Al-Infitar",
+		"translation": "Het Splijten"
+	},
+	"83": {
+		"name": "Al-Mutaffifin",
+		"translation": "De Zwendelaars"
+	},
+	"84": {
+		"name": "Al-Inshiqaq",
+		"translation": "Het Verscheuren"
+	},
+	"85": {
+		"name": "Al-Buruj",
+		"translation": "De Sterrenstelsels"
+	},
+	"86": {
+		"name": "At-Tariq",
+		"translation": "De Verlichtende Ster"
+	},
+	"87": {
+		"name": "Al-A'la",
+		"translation": "De Hoogste"
+	},
+	"88": {
+		"name": "Al-Ghashiyah",
+		"translation": "De Overweldigende Gebeurtenis"
+	},
+	"89": {
+		"name": "Al-Fajr",
+		"translation": "De Dageraad"
+	},
+	"90": {
+		"name": "Al-Balad",
+		"translation": "De Stad"
+	},
+	"91": {
+		"name": "Ash-Shams",
+		"translation": "De Zon"
+	},
+	"92": {
+		"name": "Al-Layl",
+		"translation": "De Nacht"
+	},
+	"93": {
+		"name": "Ad-Duhaa",
+		"translation": "Het Ochtendlicht"
+	},
+	"94": {
+		"name": "Ash-Sharh",
+		"translation": "De Verruiming"
+	},
+	"95": {
+		"name": "At-Tin",
+		"translation": "De Vijg"
+	},
+	"96": {
+		"name": "Al-'Alaq",
+		"translation": "De Bloedklomp"
+	},
+	"97": {
+		"name": "Al-Qadr",
+		"translation": "De Waardevolle Nacht"
+	},
+	"98": {
+		"name": "Al-Bayyinah",
+		"translation": "Het Duidelijke Bewijs"
+	},
+	"99": {
+		"name": "Az-Zalzalah",
+		"translation": "De Aardbeving"
+	},
+	"100": {
+		"name": "Al-'Adiyat",
+		"translation": "De Voortrennenden"
+	},
+	"101": {
+		"name": "Al-Qari'ah",
+		"translation": "De Daverende"
+	},
+	"102": {
+		"name": "At-Takathur",
+		"translation": "De Wedijver om Meer"
+	},
+	"103": {
+		"name": "Al-'Asr",
+		"translation": "De Tijd"
+	},
+	"104": {
+		"name": "Al-Humazah",
+		"translation": "De Lasteraar"
+	},
+	"105": {
+		"name": "Al-Fil",
+		"translation": "De Olifant"
+	},
+	"106": {
+		"name": "Quraysh",
+		"translation": "De Quraysh"
+	},
+	"107": {
+		"name": "Al-Ma'un",
+		"translation": "De Levensbenodigdheden"
+	},
+	"108": {
+		"name": "Al-Kawthar",
+		"translation": "De Overvloed"
+	},
+	"109": {
+		"name": "Al-Kafirun",
+		"translation": "De Ongelovigen"
+	},
+	"110": {
+		"name": "An-Nasr",
+		"translation": "De Hulp"
+	},
+	"111": {
+		"name": "Al-Masad",
+		"translation": "De Palmvezel"
+	},
+	"112": {
+		"name": "Al-Ikhlas",
+		"translation": "Het Zuivere Geloof"
+	},
+	"113": {
+		"name": "Al-Falaq",
+		"translation": "De Ochtendschemering"
+	},
+	"114": {
+		"name": "An-Nas",
+		"translation": "De Mensheid"
+	}
+}

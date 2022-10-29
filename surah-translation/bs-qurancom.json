@@ -1,0 +1,458 @@
+{
+	"1": {
+		"name": "Al-Fatihah",
+		"translation": "Pristup"
+	},
+	"2": {
+		"name": "Al-Baqarah",
+		"translation": "Krava"
+	},
+	"3": {
+		"name": "Ali 'Imran",
+		"translation": "Imranova porodica"
+	},
+	"4": {
+		"name": "An-Nisa",
+		"translation": "Žene"
+	},
+	"5": {
+		"name": "Al-Ma'idah",
+		"translation": "Trpeza"
+	},
+	"6": {
+		"name": "Al-An'am",
+		"translation": "Stoka"
+	},
+	"7": {
+		"name": "Al-A'raf",
+		"translation": "Bedemi"
+	},
+	"8": {
+		"name": "Al-Anfal",
+		"translation": "Plijen"
+	},
+	"9": {
+		"name": "At-Tawbah",
+		"translation": "Pokajanje"
+	},
+	"10": {
+		"name": "Yunus",
+		"translation": "Junus"
+	},
+	"11": {
+		"name": "Hud",
+		"translation": "Hud"
+	},
+	"12": {
+		"name": "Yusuf",
+		"translation": "Jusuf"
+	},
+	"13": {
+		"name": "Ar-Ra'd",
+		"translation": "Grom"
+	},
+	"14": {
+		"name": "Ibrahim",
+		"translation": "Ibrahim"
+	},
+	"15": {
+		"name": "Al-Hijr",
+		"translation": "Hidžr"
+	},
+	"16": {
+		"name": "An-Nahl",
+		"translation": "Pčele"
+	},
+	"17": {
+		"name": "Al-Isra",
+		"translation": "Noćno putovanje"
+	},
+	"18": {
+		"name": "Al-Kahf",
+		"translation": "Pećina"
+	},
+	"19": {
+		"name": "Maryam",
+		"translation": "Merjema"
+	},
+	"20": {
+		"name": "Taha",
+		"translation": "Taha"
+	},
+	"21": {
+		"name": "Al-Anbya",
+		"translation": "Vjerovjesnici"
+	},
+	"22": {
+		"name": "Al-Hajj",
+		"translation": "Hadždž"
+	},
+	"23": {
+		"name": "Al-Mu'minun",
+		"translation": "Vjernici"
+	},
+	"24": {
+		"name": "An-Nur",
+		"translation": "Svjetlost"
+	},
+	"25": {
+		"name": "Al-Furqan",
+		"translation": "Furkan"
+	},
+	"26": {
+		"name": "Ash-Shu'ara",
+		"translation": "Pjesnici"
+	},
+	"27": {
+		"name": "An-Naml",
+		"translation": "Mravi"
+	},
+	"28": {
+		"name": "Al-Qasas",
+		"translation": "Kazivanje"
+	},
+	"29": {
+		"name": "Al-'Ankabut",
+		"translation": "Pauk"
+	},
+	"30": {
+		"name": "Ar-Rum",
+		"translation": "Bizantinci"
+	},
+	"31": {
+		"name": "Luqman",
+		"translation": "Lukman"
+	},
+	"32": {
+		"name": "As-Sajdah",
+		"translation": "Padanje ničice"
+	},
+	"33": {
+		"name": "Al-Ahzab",
+		"translation": "Saveznici"
+	},
+	"34": {
+		"name": "Saba",
+		"translation": "Saba"
+	},
+	"35": {
+		"name": "Fatir",
+		"translation": "Stvoritelj"
+	},
+	"36": {
+		"name": "Ya-Sin",
+		"translation": "Jasin"
+	},
+	"37": {
+		"name": "As-Saffat",
+		"translation": "Redovi"
+	},
+	"38": {
+		"name": "Sad",
+		"translation": "Sad"
+	},
+	"39": {
+		"name": "Az-Zumar",
+		"translation": "Skupovi"
+	},
+	"40": {
+		"name": "Ghafir",
+		"translation": "Vjernik"
+	},
+	"41": {
+		"name": "Fussilat",
+		"translation": "Objašnjenje"
+	},
+	"42": {
+		"name": "Ash-Shuraa",
+		"translation": "Dogovaranje"
+	},
+	"43": {
+		"name": "Az-Zukhruf",
+		"translation": "Ukras"
+	},
+	"44": {
+		"name": "Ad-Dukhan",
+		"translation": "Dim"
+	},
+	"45": {
+		"name": "Al-Jathiyah",
+		"translation": "Oni koji kleče"
+	},
+	"46": {
+		"name": "Al-Ahqaf",
+		"translation": "Ahkaf"
+	},
+	"47": {
+		"name": "Muhammad",
+		"translation": "Muhammed"
+	},
+	"48": {
+		"name": "Al-Fath",
+		"translation": "Pobjeda"
+	},
+	"49": {
+		"name": "Al-Hujurat",
+		"translation": "Sobe"
+	},
+	"50": {
+		"name": "Qaf",
+		"translation": "Kaf"
+	},
+	"51": {
+		"name": "Adh-Dhariyat",
+		"translation": "Oni koji pûšū"
+	},
+	"52": {
+		"name": "At-Tur",
+		"translation": "Gora"
+	},
+	"53": {
+		"name": "An-Najm",
+		"translation": "Zvijezda"
+	},
+	"54": {
+		"name": "Al-Qamar",
+		"translation": "Mjesec"
+	},
+	"55": {
+		"name": "Ar-Rahman",
+		"translation": "Milostivi"
+	},
+	"56": {
+		"name": "Al-Waqi'ah",
+		"translation": "Događaj"
+	},
+	"57": {
+		"name": "Al-Hadid",
+		"translation": "Gvožđe"
+	},
+	"58": {
+		"name": "Al-Mujadila",
+		"translation": "Rasprava"
+	},
+	"59": {
+		"name": "Al-Hashr",
+		"translation": "Progonstvo"
+	},
+	"60": {
+		"name": "Al-Mumtahanah",
+		"translation": "Provjerena"
+	},
+	"61": {
+		"name": "As-Saf",
+		"translation": "Bojni red"
+	},
+	"62": {
+		"name": "Al-Jumu'ah",
+		"translation": "Petak"
+	},
+	"63": {
+		"name": "Al-Munafiqun",
+		"translation": "Licemjeri"
+	},
+	"64": {
+		"name": "At-Taghabun",
+		"translation": "Samoobmana"
+	},
+	"65": {
+		"name": "At-Talaq",
+		"translation": "Razvod braka"
+	},
+	"66": {
+		"name": "At-Tahrim",
+		"translation": "Zabrana"
+	},
+	"67": {
+		"name": "Al-Mulk",
+		"translation": "Vlast"
+	},
+	"68": {
+		"name": "Al-Qalam",
+		"translation": "Kalem"
+	},
+	"69": {
+		"name": "Al-Haqqah",
+		"translation": "Čas neizbježni"
+	},
+	"70": {
+		"name": "Al-Ma'arij",
+		"translation": "Stepeni"
+	},
+	"71": {
+		"name": "Nuh",
+		"translation": "Nuh"
+	},
+	"72": {
+		"name": "Al-Jinn",
+		"translation": "Džinni"
+	},
+	"73": {
+		"name": "Al-Muzzammil",
+		"translation": "Umotani"
+	},
+	"74": {
+		"name": "Al-Muddaththir",
+		"translation": "Pokriveni"
+	},
+	"75": {
+		"name": "Al-Qiyamah",
+		"translation": "Smak svijeta"
+	},
+	"76": {
+		"name": "Al-Insan",
+		"translation": "Vrijeme"
+	},
+	"77": {
+		"name": "Al-Mursalat",
+		"translation": "Poslani"
+	},
+	"78": {
+		"name": "An-Naba",
+		"translation": "Vijest"
+	},
+	"79": {
+		"name": "An-Nazi'at",
+		"translation": "Oni koji čupaju"
+	},
+	"80": {
+		"name": "'Abasa",
+		"translation": "Namrštio se"
+	},
+	"81": {
+		"name": "At-Takwir",
+		"translation": "Prestanak sjaja"
+	},
+	"82": {
+		"name": "Al-Infitar",
+		"translation": "Rascjepljenje"
+	},
+	"83": {
+		"name": "Al-Mutaffifin",
+		"translation": "Oni koji pri mjerenju zakidaju"
+	},
+	"84": {
+		"name": "Al-Inshiqaq",
+		"translation": "Cijepanje"
+	},
+	"85": {
+		"name": "Al-Buruj",
+		"translation": "Sazviježđa"
+	},
+	"86": {
+		"name": "At-Tariq",
+		"translation": "Danica"
+	},
+	"87": {
+		"name": "Al-A'la",
+		"translation": "Svevišnji"
+	},
+	"88": {
+		"name": "Al-Ghashiyah",
+		"translation": "Teška nevolja"
+	},
+	"89": {
+		"name": "Al-Fajr",
+		"translation": "Zora"
+	},
+	"90": {
+		"name": "Al-Balad",
+		"translation": "Grad"
+	},
+	"91": {
+		"name": "Ash-Shams",
+		"translation": "Sunce"
+	},
+	"92": {
+		"name": "Al-Layl",
+		"translation": "Noć"
+	},
+	"93": {
+		"name": "Ad-Duhaa",
+		"translation": "Jutro"
+	},
+	"94": {
+		"name": "Ash-Sharh",
+		"translation": "Širokogrudnost"
+	},
+	"95": {
+		"name": "At-Tin",
+		"translation": "Smokva"
+	},
+	"96": {
+		"name": "Al-'Alaq",
+		"translation": "Ugrušak"
+	},
+	"97": {
+		"name": "Al-Qadr",
+		"translation": "Noć Kadr"
+	},
+	"98": {
+		"name": "Al-Bayyinah",
+		"translation": "Dokaz jasni"
+	},
+	"99": {
+		"name": "Az-Zalzalah",
+		"translation": "Zemljotres"
+	},
+	"100": {
+		"name": "Al-'Adiyat",
+		"translation": "Oni koji jure"
+	},
+	"101": {
+		"name": "Al-Qari'ah",
+		"translation": "Smak svijeta"
+	},
+	"102": {
+		"name": "At-Takathur",
+		"translation": "Nadmetanje"
+	},
+	"103": {
+		"name": "Al-'Asr",
+		"translation": "Vrijeme"
+	},
+	"104": {
+		"name": "Al-Humazah",
+		"translation": "Klevetnik"
+	},
+	"105": {
+		"name": "Al-Fil",
+		"translation": "Slon"
+	},
+	"106": {
+		"name": "Quraysh",
+		"translation": "Kurejšije"
+	},
+	"107": {
+		"name": "Al-Ma'un",
+		"translation": "Davanje u naruč"
+	},
+	"108": {
+		"name": "Al-Kawthar",
+		"translation": "Mnogō dobro"
+	},
+	"109": {
+		"name": "Al-Kafirun",
+		"translation": "Nevjernici"
+	},
+	"110": {
+		"name": "An-Nasr",
+		"translation": "Pomoć"
+	},
+	"111": {
+		"name": "Al-Masad",
+		"translation": "Plamen"
+	},
+	"112": {
+		"name": "Al-Ikhlas",
+		"translation": "Iskrenost"
+	},
+	"113": {
+		"name": "Al-Falaq",
+		"translation": "Svitanje"
+	},
+	"114": {
+		"name": "An-Nas",
+		"translation": "Ljudi"
+	}
+}

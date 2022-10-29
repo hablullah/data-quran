@@ -3,6 +3,7 @@ module data-quran-cli
 go 1.19
 
 require (
+	github.com/JohannesKaufmann/html-to-markdown v1.3.6
 	github.com/agext/levenshtein v1.2.3
 	github.com/emvi/iso-639-1 v1.0.1
 	github.com/go-shiori/dom v0.0.0-20210627111528-4e4722cd0d65
@@ -15,6 +16,7 @@ require (
 )
 
 require (
+	github.com/PuerkitoBio/goquery v1.8.0 // indirect
 	github.com/andybalholm/cascadia v1.3.1 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
 	github.com/gogs/chardet v0.0.0-20211120154057-b7413eaefb8f // indirect
