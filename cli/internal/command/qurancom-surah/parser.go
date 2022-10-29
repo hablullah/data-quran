@@ -42,6 +42,53 @@ type SurahInfoSource struct {
 	} `json:"chapter_info"`
 }
 
+type WordSource struct {
+	Verses []struct {
+		ID              int         `json:"id"`
+		VerseNumber     int         `json:"verse_number"`
+		ChapterID       int         `json:"chapter_id"`
+		VerseKey        string      `json:"verse_key"`
+		TextIndopak     string      `json:"text_indopak"`
+		JuzNumber       int         `json:"juz_number"`
+		HizbNumber      int         `json:"hizb_number"`
+		RubElHizbNumber int         `json:"rub_el_hizb_number"`
+		SajdahNumber    interface{} `json:"sajdah_number"`
+		PageNumber      int         `json:"page_number"`
+		Sajdah          interface{} `json:"sajdah"`
+		TextMadani      string      `json:"text_madani"`
+		Words           []struct {
+			ID              int    `json:"id"`
+			Position        int    `json:"position"`
+			TextIndopak     string `json:"text_indopak"`
+			VerseKey        string `json:"verse_key"`
+			LineNumber      int    `json:"line_number"`
+			PageNumber      int    `json:"page_number"`
+			Code            string `json:"code"`
+			ClassName       string `json:"class_name"`
+			TextMadani      string `json:"text_madani"`
+			CharType        string `json:"char_type"`
+			Transliteration struct {
+				Text         string `json:"text"`
+				LanguageName string `json:"language_name"`
+			} `json:"transliteration"`
+			Translation struct {
+				LanguageName string `json:"language_name"`
+				Text         string `json:"text"`
+			} `json:"translation"`
+			Audio struct {
+				URL string `json:"url"`
+			} `json:"audio"`
+		} `json:"words"`
+	} `json:"verses"`
+	Pagination struct {
+		CurrentPage int         `json:"current_page"`
+		NextPage    interface{} `json:"next_page"`
+		PrevPage    interface{} `json:"prev_page"`
+		TotalPages  int         `json:"total_pages"`
+		TotalCount  int         `json:"total_count"`
+	} `json:"pagination"`
+}
+
 type ListSurahOutput struct {
 	Name        string `json:"name"`
 	Translation string `json:"translation"`
@@ -205,4 +252,82 @@ func parseSurahInfo(cacheDir, language string, surah int, mdc *md.Converter) (*S
 		Source:   norm.NormalizeUnicode(srcData.ChapterInfo.Source),
 		Language: norm.NormalizeUnicode(srcData.ChapterInfo.LanguageName),
 	}, nil
+}
+
+func parseAllWords(cacheDir, language string) (map[string]string, error) {
+	logrus.Printf("parsing word for %s", language)
+
+	// Extract each surah in this language
+	var idx int
+	words := map[string]string{}
+
+	for surah := 1; surah <= 114; surah++ {
+		surahWords, err := parseWords(cacheDir, language, surah)
+		if err != nil {
+			return nil, err
+		}
+
+		for _, sw := range surahWords {
+			idx++
+			key := fmt.Sprintf("%05d", idx)
+			words[key] = sw
+		}
+	}
+
+	// Check if info complete
+	if n := len(words); n != nWords {
+		logrus.Warnf("word for %s: want %d got %d", language, nWords, n)
+		return nil, nil
+	}
+
+	return words, nil
+}
+
+func parseWords(cacheDir, language string, surah int) ([]string, error) {
+	// Open file
+	path := fmt.Sprintf("word-%s-%03d.json", language, surah)
+	path = filepath.Join(cacheDir, path)
+
+	f, err := os.Open(path)
+	if err != nil {
+		return nil, fmt.Errorf("fail to open word for %s %d: %w", language, surah, err)
+	}
+	defer f.Close()
+
+	// Decode data
+	var srcData WordSource
+	err = json.NewDecoder(f).Decode(&srcData)
+	if err != nil {
+		return nil, fmt.Errorf("fail to decode word for %s %d: %w", language, surah, err)
+	}
+
+	// Get list of word tranlations
+	var words []string
+	for _, verse := range srcData.Verses {
+		for _, word := range verse.Words {
+			// We only care about word
+			if word.CharType != "word" {
+				continue
+			}
+
+			// In Quran.com, if data for a language not exist, they will
+			// fallback into using English language. In this case, we
+			// will just put missing mark.
+			if word.Translation.LanguageName == "english" && language != "en" {
+				words = append(words, "[[MISSING]]")
+				continue
+			}
+
+			// Normalize and clean
+			wordTrans := word.Translation.Text
+			wordTrans = norm.NormalizeUnicode(wordTrans)
+			if wordTrans == "" {
+				wordTrans = "[[MISSING]]"
+			}
+
+			words = append(words, wordTrans)
+		}
+	}
+
+	return words, nil
 }

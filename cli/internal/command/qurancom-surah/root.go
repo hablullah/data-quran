@@ -11,6 +11,8 @@ import (
 	"github.com/urfave/cli/v2"
 )
 
+var nWords = 77_429
+
 func Command() *cli.Command {
 	return &cli.Command{
 		Name:   "qurancom-surah",
@@ -101,6 +103,26 @@ func cliAction(c *cli.Context) error {
 	for _, lang := range languages {
 		data := listSurahInfo[lang]
 		err = writeSurahInfo(dstDir, lang, data)
+		if err != nil {
+			return err
+		}
+	}
+
+	// Parse word translations
+	listWordTranslations := map[string]map[string]string{}
+	for _, lang := range languagesForWord {
+		words, err := parseAllWords(cacheDir, lang)
+		if err != nil {
+			return err
+		} else if len(words) > 0 {
+			listWordTranslations[lang] = words
+		}
+	}
+
+	// Write word translations
+	for _, lang := range languagesForWord {
+		translations := listWordTranslations[lang]
+		err = writeWordTranslations(dstDir, lang, translations)
 		if err != nil {
 			return err
 		}
