@@ -74,6 +74,7 @@ func parseTranslationFile(srcPath string, surah int, wordCounts map[string]int) 
 			var wordTrans string
 			if i < nTranslations {
 				wordTrans = ayahTranslations[i]
+				wordTrans = strings.TrimSpace(wordTrans)
 			} else {
 				wordTrans = "[[MISSING]]"
 			}
