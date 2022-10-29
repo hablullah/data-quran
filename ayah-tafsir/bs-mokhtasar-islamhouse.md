@@ -36,13 +36,13 @@ U ovaj veličanstveni Kur'an nema sumnje ni sa kojeg aspekta, pa nema sumnje u t
 
 # 10
 
-3-4. Bogobojazni su oni koji vjeruju u ono što je čulima nedokučivo, a to je sve ono o čemu nas je obavijestio Uzvišeni Allah u Svojoj knjizi ili kroz govor Njegovog Poslanika, poput Sudnjeg dana, i oni koji uspostavljaju namaz tako što ga obavljaju onako kako je Allah propisao, poštujući njegove uslove, sastavne dijelove (ruknove) obavezne i pohvalne radnje, i oni koji udjeljuju od onoga čime ih je Allah opskrbio time što izdvajaju zekat, koji je obavezan, ili sadaku, koja je dobrovoljna. Oni sve to rade nadajući se Allahovoj nagradi. Oni vjeruju u Objavu koju je Allah spustio Svom Vjerovjesniku, i koju je spustio ostalim vjerovjesnicima, neke na njih Allahov mir i spas, ne praveći razliku između tih Objava u pogledu vjerovanja. Oni čvrsto vjeruju u ahiret, onaj svijet, te u nagradu i kaznu koji tamo slijede.
+Bogobojazni su oni koji vjeruju u ono što je čulima nedokučivo, a to je sve ono o čemu nas je obavijestio Uzvišeni Allah u Svojoj knjizi ili kroz govor Njegovog Poslanika, poput Sudnjeg dana, i oni koji uspostavljaju namaz tako što ga obavljaju onako kako je Allah propisao, poštujući njegove uslove, sastavne dijelove (ruknove) obavezne i pohvalne radnje, i oni koji udjeljuju od onoga čime ih je Allah opskrbio time što izdvajaju zekat, koji je obavezan, ili sadaku, koja je dobrovoljna. Oni sve to rade nadajući se Allahovoj nagradi. Oni vjeruju u Objavu koju je Allah spustio Svom Vjerovjesniku, i koju je spustio ostalim vjerovjesnicima, neke na njih Allahov mir i spas, ne praveći razliku između tih Objava u pogledu vjerovanja. Oni čvrsto vjeruju u ahiret, onaj svijet, te u nagradu i kaznu koji tamo slijede.
 
 # 11
 
 <!-- TODO:DUPLICATE -->
 
-3-4. Bogobojazni su oni koji vjeruju u ono što je čulima nedokučivo, a to je sve ono o čemu nas je obavijestio Uzvišeni Allah u Svojoj knjizi ili kroz govor Njegovog Poslanika, poput Sudnjeg dana, i oni koji uspostavljaju namaz tako što ga obavljaju onako kako je Allah propisao, poštujući njegove uslove, sastavne dijelove (ruknove) obavezne i pohvalne radnje, i oni koji udjeljuju od onoga čime ih je Allah opskrbio time što izdvajaju zekat, koji je obavezan, ili sadaku, koja je dobrovoljna. Oni sve to rade nadajući se Allahovoj nagradi. Oni vjeruju u Objavu koju je Allah spustio Svom Vjerovjesniku, i koju je spustio ostalim vjerovjesnicima, neke na njih Allahov mir i spas, ne praveći razliku između tih Objava u pogledu vjerovanja. Oni čvrsto vjeruju u ahiret, onaj svijet, te u nagradu i kaznu koji tamo slijede.
+Bogobojazni su oni koji vjeruju u ono što je čulima nedokučivo, a to je sve ono o čemu nas je obavijestio Uzvišeni Allah u Svojoj knjizi ili kroz govor Njegovog Poslanika, poput Sudnjeg dana, i oni koji uspostavljaju namaz tako što ga obavljaju onako kako je Allah propisao, poštujući njegove uslove, sastavne dijelove (ruknove) obavezne i pohvalne radnje, i oni koji udjeljuju od onoga čime ih je Allah opskrbio time što izdvajaju zekat, koji je obavezan, ili sadaku, koja je dobrovoljna. Oni sve to rade nadajući se Allahovoj nagradi. Oni vjeruju u Objavu koju je Allah spustio Svom Vjerovjesniku, i koju je spustio ostalim vjerovjesnicima, neke na njih Allahov mir i spas, ne praveći razliku između tih Objava u pogledu vjerovanja. Oni čvrsto vjeruju u ahiret, onaj svijet, te u nagradu i kaznu koji tamo slijede.
 
 # 12
 
@@ -550,7 +550,7 @@ Ko god se okrene od vjere Ibrahima, alejhis-selam, ka nekoj drugoj vjeri, takav 
 
 # 138
 
-131- Allah ga je odabrao zato što nije oklijevao da bude predan Allahu, kada mu je On naredio: "Samo Mene obožavaj i samo se Meni pokoravaj", pa je Ibrahim rekao: "Allahu se predajem, Stvoritelju stvorenja, i njihovom Opskrbitelju i Upravitelju."
+Allah ga je odabrao zato što nije oklijevao da bude predan Allahu, kada mu je On naredio: "Samo Mene obožavaj i samo se Meni pokoravaj", pa je Ibrahim rekao: "Allahu se predajem, Stvoritelju stvorenja, i njihovom Opskrbitelju i Upravitelju."
 
 # 139
 
@@ -730,15 +730,15 @@ To su oni koji su opisani skrivanjem znanja koje je potrebno ljudima, koji su up
 
 # 183
 
-176. Takva je kazna za skrivanje znanja i upute jer je Allah objavio Knjige sa istinom, što iziskuje da to bude objašnjeno, a ne da se skriva. A oni koji su se razišli oko Božijih knjiga, pa su u neke povjerovali, a neke sakrili daleko su od istine.
+Takva je kazna za skrivanje znanja i upute jer je Allah objavio Knjige sa istinom, što iziskuje da to bude objašnjeno, a ne da se skriva. A oni koji su se razišli oko Božijih knjiga, pa su u neke povjerovali, a neke sakrili daleko su od istine.
 
 # 184
 
-177. U dobro kojim je Allah zadovoljan ne spada puko usmjeravanje ka istoku ili zapadu i razilaženje oko toga, već je svako dobro u onome ko povjeruje u Allaha kao jednog boga, i povjeruje u Sudnji dan, i u sve meleke, i sve objavljene Knjige, i sve vjerovjesnike, bez nevjerstva u nešto od toga, i koji udjeljuje imetak svojoj rodbini, premda ga i sam voli i za njim teži, i jetimima, koji oca maloljetni izgubiše, i potrebnima, i strancu koji je otišao na put daleko od svoje porodice i domovine, i onima koje je potreba primorala da prose od ljudi, i udjeljuje za oslobađanje robova, i koji namaz obavlja potpuno, onako kako je Allah naredio, i koji daje obavezni zekat, i ko zavjete i obećanja ispunjava, i strpljiv je na neimaštini, teškom životu i bolesti, i ko ne bježi kada se bitka rasplamsa – takvi su iskreni prema Allahu u svom vjerovanju i djelima, i takvi su bogobojazni, koji primjenjuju ono što im je Allah naredio i klone se onoga što im je Allah zabranio.
+U dobro kojim je Allah zadovoljan ne spada puko usmjeravanje ka istoku ili zapadu i razilaženje oko toga, već je svako dobro u onome ko povjeruje u Allaha kao jednog boga, i povjeruje u Sudnji dan, i u sve meleke, i sve objavljene Knjige, i sve vjerovjesnike, bez nevjerstva u nešto od toga, i koji udjeljuje imetak svojoj rodbini, premda ga i sam voli i za njim teži, i jetimima, koji oca maloljetni izgubiše, i potrebnima, i strancu koji je otišao na put daleko od svoje porodice i domovine, i onima koje je potreba primorala da prose od ljudi, i udjeljuje za oslobađanje robova, i koji namaz obavlja potpuno, onako kako je Allah naredio, i koji daje obavezni zekat, i ko zavjete i obećanja ispunjava, i strpljiv je na neimaštini, teškom životu i bolesti, i ko ne bježi kada se bitka rasplamsa – takvi su iskreni prema Allahu u svom vjerovanju i djelima, i takvi su bogobojazni, koji primjenjuju ono što im je Allah naredio i klone se onoga što im je Allah zabranio.
 
 # 185
 
-178. O vi koji vjerujete u Allaha i slijedite Njegovog Poslanika, obavezno vam je kažnjavanje ubica koji ubijaju ljude namjerno i nepravedno, shodno njegovom zločinu. Slobodan se ubija zbog slobodnog, rob se ubija zbog roba, žena se ubija zbog žene. Ukoliko ubijeni oprosti prije nego ispusti dušu, ili oprosti njegov staratelj u zamjenu za krvarinu – koja predstavlja određenu količinu imetka koji ubica daje da bi bio pomilovan – takav treba potraživati krvarinu na lijep način, bez uznemiravanja i predbacivanja, a ubica je treba lijepo dati, bez odugovlačenja. To pomilovanje i to uzimanje krvarine predstavlja Allahovu olakšicu i milost ovom umetu, pa ko pređe granicu prema ubici nakon pomilovanja i prihvatanja krvarine, takvom je Allah bolnu patnju pripremio.
+O vi koji vjerujete u Allaha i slijedite Njegovog Poslanika, obavezno vam je kažnjavanje ubica koji ubijaju ljude namjerno i nepravedno, shodno njegovom zločinu. Slobodan se ubija zbog slobodnog, rob se ubija zbog roba, žena se ubija zbog žene. Ukoliko ubijeni oprosti prije nego ispusti dušu, ili oprosti njegov staratelj u zamjenu za krvarinu – koja predstavlja određenu količinu imetka koji ubica daje da bi bio pomilovan – takav treba potraživati krvarinu na lijep način, bez uznemiravanja i predbacivanja, a ubica je treba lijepo dati, bez odugovlačenja. To pomilovanje i to uzimanje krvarine predstavlja Allahovu olakšicu i milost ovom umetu, pa ko pređe granicu prema ubici nakon pomilovanja i prihvatanja krvarine, takvom je Allah bolnu patnju pripremio.
 
 # 186
 
@@ -746,11 +746,11 @@ U odmazdi koju vam je Allah propisao život vam je, jer se njome sprečava bespr
 
 # 187
 
-180. Obavezani ste da, kada se na vama pokažu znakovi da vam se smrt približila, a imate puno imetka, da oporučite roditeljima i rođacima onoliko koliko je to šerijat odredio – u granicama trećine, i ovo je pritvrđena obaveza bogobojaznima. Ovaj propis je važio prije objavljivanja ajeta o propisima nasljedstva, a kada su ajeti nasljedstva objavljeni, pojasnili su ko nasljeđuje i koliko nasljeđuje.
+Obavezani ste da, kada se na vama pokažu znakovi da vam se smrt približila, a imate puno imetka, da oporučite roditeljima i rođacima onoliko koliko je to šerijat odredio – u granicama trećine, i ovo je pritvrđena obaveza bogobojaznima. Ovaj propis je važio prije objavljivanja ajeta o propisima nasljedstva, a kada su ajeti nasljedstva objavljeni, pojasnili su ko nasljeđuje i koliko nasljeđuje.
 
 # 188
 
-181. Ko promijeni nečiju oporuku dodavši ili oduzevši ili spriječivši nešto, nakon što zna za tu oporuku – grijeh tog mijenjanja je na onome ko je promijenio (u dostavljanju i sprovođenju), a ne na onome ko je oporučio. Doista Allah čuje ono što Njegovi robovi govore, zna ono što rade, i ništa od njihovih stanja Mu nije skriveno.
+Ko promijeni nečiju oporuku dodavši ili oduzevši ili spriječivši nešto, nakon što zna za tu oporuku – grijeh tog mijenjanja je na onome ko je promijenio (u dostavljanju i sprovođenju), a ne na onome ko je oporučio. Doista Allah čuje ono što Njegovi robovi govore, zna ono što rade, i ništa od njihovih stanja Mu nije skriveno.
 
 # 189
 
@@ -758,27 +758,27 @@ Ko bude znao da onaj ko ostavlja oporuku odstupa od istine i tom oporukom nekome
 
 # 190
 
-183. O vi koji vjerujete u Allaha i slijedite Njegovog Poslanika, vaš Gospodar vam obaveznim čini post, kao što je njime obavezao narode prije vas, da biste se Allaha bojali time što između Njegove kazne i sebe pravite štit činjenjem dobrih djela, a među najvećim dobrim djelima je post.
+O vi koji vjerujete u Allaha i slijedite Njegovog Poslanika, vaš Gospodar vam obaveznim čini post, kao što je njime obavezao narode prije vas, da biste se Allaha bojali time što između Njegove kazne i sebe pravite štit činjenjem dobrih djela, a među najvećim dobrim djelima je post.
 
 # 191
 
-184. Post koji vam je obavezan jest da postite određeni broj dana u godini. Ko od vas bude bolestan tako da mu je teško postiti, ili bude putnik, može da ne posti, a zatim nadoknaditi onoliko dana koliko nije postio. Onima koji mogu da poste obavezna je otkupnina za dane koje nisu postili, a to je nahraniti jednog siromaha za svaki neispošteni dan. Bolje vam je da postite nego da ne postite uz plaćanje otkupnine, ako znate koliko je post vrijedan. Ovaj propis je važio kada je tek propisan post, pa ko je htio da posti, postio je, a ko nije htio da posti, jeo je i nahranio bi siromaha za taj dan. Nakon toga je Allah učinio post obaveznim svim šerijatski punoljetnim osobama koje su u mogućnosti.
+Post koji vam je obavezan jest da postite određeni broj dana u godini. Ko od vas bude bolestan tako da mu je teško postiti, ili bude putnik, može da ne posti, a zatim nadoknaditi onoliko dana koliko nije postio. Onima koji mogu da poste obavezna je otkupnina za dane koje nisu postili, a to je nahraniti jednog siromaha za svaki neispošteni dan. Bolje vam je da postite nego da ne postite uz plaćanje otkupnine, ako znate koliko je post vrijedan. Ovaj propis je važio kada je tek propisan post, pa ko je htio da posti, postio je, a ko nije htio da posti, jeo je i nahranio bi siromaha za taj dan. Nakon toga je Allah učinio post obaveznim svim šerijatski punoljetnim osobama koje su u mogućnosti.
 
 # 192
 
-185. Mjesec ramazan je mjesec u kojem je otpočelo objavljivanje Kur'ana Poslaniku, sallallahu alejhi ve sellem, u Lejletul-kadru. Allah je Kur'an objavio kao uputu ljudima, i u njemu se nalaze jasni dokazi upute, njime se razdvaja istina od neistine, pa ko ne bude putnik kada nastupi ramazan, i ne bude bolestan, mora ga postiti. Ko bude bolestan tako da mu je teško da posti, ili je putnik, može postiti, a i ne mora. Ukoliko ne posti, obaveza mu je napostiti propuštene dane. Uzvišeni Allah Svojim propisima želi vam olakšati, a ne otežati, da određeni broj dana ispunite i da Allaha veličate nakon što se završi ramazan i na danu Bajrama, iz zahvalnosti što vas je uputio da postite ramazan i pomogao vam da ga upotpunite. To spada u zahvalnost Allahu na tome što vas je uputio u ovu vjeru kojom je zadovoljan.
+Mjesec ramazan je mjesec u kojem je otpočelo objavljivanje Kur'ana Poslaniku, sallallahu alejhi ve sellem, u Lejletul-kadru. Allah je Kur'an objavio kao uputu ljudima, i u njemu se nalaze jasni dokazi upute, njime se razdvaja istina od neistine, pa ko ne bude putnik kada nastupi ramazan, i ne bude bolestan, mora ga postiti. Ko bude bolestan tako da mu je teško da posti, ili je putnik, može postiti, a i ne mora. Ukoliko ne posti, obaveza mu je napostiti propuštene dane. Uzvišeni Allah Svojim propisima želi vam olakšati, a ne otežati, da određeni broj dana ispunite i da Allaha veličate nakon što se završi ramazan i na danu Bajrama, iz zahvalnosti što vas je uputio da postite ramazan i pomogao vam da ga upotpunite. To spada u zahvalnost Allahu na tome što vas je uputio u ovu vjeru kojom je zadovoljan.
 
 # 193
 
-186. O Vjerovjesniče, kada te Moji robovi upitaju o Mojoj blizini i Mojem uslišavanju njihovih molitvi, pa Ja sam, doista, blizu njih, znam njihova stanja, čujem njihove molitve. Nisu im potrebni posrednici, niti je potrebno da podižu svoje glasove. Ja se odazivam molitelju kada Me iskreno zamoli, pa neka se pokore naredbama Mojim, i neka budu postojani u svom vjerovanju, jer to im je najkorisnije sredstvo za uslišanje molitvi. Na taj način idu pravim putem u svim svojim poslovima, bilo da se tiču vjere ili dunjaluka.
+O Vjerovjesniče, kada te Moji robovi upitaju o Mojoj blizini i Mojem uslišavanju njihovih molitvi, pa Ja sam, doista, blizu njih, znam njihova stanja, čujem njihove molitve. Nisu im potrebni posrednici, niti je potrebno da podižu svoje glasove. Ja se odazivam molitelju kada Me iskreno zamoli, pa neka se pokore naredbama Mojim, i neka budu postojani u svom vjerovanju, jer to im je najkorisnije sredstvo za uslišanje molitvi. Na taj način idu pravim putem u svim svojim poslovima, bilo da se tiču vjere ili dunjaluka.
 
 # 194
 
-187. U početku je bilo zabranjeno da čovjek, ukoliko zaspi tokom ramazanske noći i probudi se prije sabaha, jede ili ima odnos sa svojom suprugom. Zatim je Uzvišeni Allah dokinuo taj propis i dozvolio vjernicima da imaju odnos sa svojim ženama u ramazanskim noćima. Žene su zastor i uzrok čednosti muževima, i muškarci su zastor i uzrok čednosti svojim ženama: ne mogu jedni bez drugih. Allah je znao da ćete sami sebe varati čineći ono što je On zabranio, pa vam se smilovao, oprostio vam i olakšao vam. Sada vam je dozvoljeno da imate odnos sa svojim ženama i time želite steći potomstvo koje vam je Allah odredio. Jedite i pijte cijelu noć, dok jasno ne budete vidjeli pravu zoru, kada se bjelina zore odvoji od crnine noći, a zatim postite od pojave zore do zalaska Sunca. Nemojte imati odnos sa svojim ženama ukoliko ste u itikafu u džamijama, jer intimni odnos kvari itikaf. Ovi spomenuti propisi su Allahove granice između halala i harama, pa se Allahovim granicama nikako ne približavajte, jer ko se približi Allahovim granicama u opasnosti je da ih pređe i upadne u haram. Ovako jasnim pojašnjenjem propisa Allah ljudima objašnjava Svoje ajete da bi bili bogobojazni, čineći ono što je naredio i kloneći se onoga što je zabranio.
+U početku je bilo zabranjeno da čovjek, ukoliko zaspi tokom ramazanske noći i probudi se prije sabaha, jede ili ima odnos sa svojom suprugom. Zatim je Uzvišeni Allah dokinuo taj propis i dozvolio vjernicima da imaju odnos sa svojim ženama u ramazanskim noćima. Žene su zastor i uzrok čednosti muževima, i muškarci su zastor i uzrok čednosti svojim ženama: ne mogu jedni bez drugih. Allah je znao da ćete sami sebe varati čineći ono što je On zabranio, pa vam se smilovao, oprostio vam i olakšao vam. Sada vam je dozvoljeno da imate odnos sa svojim ženama i time želite steći potomstvo koje vam je Allah odredio. Jedite i pijte cijelu noć, dok jasno ne budete vidjeli pravu zoru, kada se bjelina zore odvoji od crnine noći, a zatim postite od pojave zore do zalaska Sunca. Nemojte imati odnos sa svojim ženama ukoliko ste u itikafu u džamijama, jer intimni odnos kvari itikaf. Ovi spomenuti propisi su Allahove granice između halala i harama, pa se Allahovim granicama nikako ne približavajte, jer ko se približi Allahovim granicama u opasnosti je da ih pređe i upadne u haram. Ovako jasnim pojašnjenjem propisa Allah ljudima objašnjava Svoje ajete da bi bili bogobojazni, čineći ono što je naredio i kloneći se onoga što je zabranio.
 
 # 195
 
-188. Nemojte jedni drugima uzimati imetak na nepropisan način, poput krađe, otimačine i prevare, i nemojte se služiti sudskim parnicama da biste, griješno, ljudima uzimali imetke, a znate da vam je Allah to zabranio. Činjenje grijeha uz znanje da je to grijeh je jedna od najružnijih stvari i iziskuje jednu od najvećih kazni.
+Nemojte jedni drugima uzimati imetak na nepropisan način, poput krađe, otimačine i prevare, i nemojte se služiti sudskim parnicama da biste, griješno, ljudima uzimali imetke, a znate da vam je Allah to zabranio. Činjenje grijeha uz znanje da je to grijeh je jedna od najružnijih stvari i iziskuje jednu od najvećih kazni.
 
 # 196
 
@@ -786,23 +786,23 @@ Pitaju te, o Poslaniče, o formiranju mlađaka i njegovim promjenama, a ti im od
 
 # 197
 
-190. I borite se, želeći uzdizanje Allahove riječi, protiv onih nevjernika koji se bore protiv vas, ne bi li vas od Allahove vjere odvratili, ali nemojte prekoračivati Allahove granice, pa da ubijate djecu, žene i starce, ili da mrcvarite ubijene i tome slično. Doista Allah ne voli one koji prelaze Njegove granice u onome što je propisao i odredio.
+I borite se, želeći uzdizanje Allahove riječi, protiv onih nevjernika koji se bore protiv vas, ne bi li vas od Allahove vjere odvratili, ali nemojte prekoračivati Allahove granice, pa da ubijate djecu, žene i starce, ili da mrcvarite ubijene i tome slično. Doista Allah ne voli one koji prelaze Njegove granice u onome što je propisao i odredio.
 
 # 198
 
-191. Ubijajte ih gdje god ih nađete (jer su objavili rat islamu i muslimanima), i istjerajte ih iz mjesta iz kojih su oni vas istjerali – iz Meke. Smutnja koja je nastala usljed odvraćanja vjernika od njihove vjere i nastojanja da se vjernik preobrazi u nevjernika gora je nego ubistvo. Vi ih nemojte prvi napadati kod Svetog hrama, iz poštovanja prema njemu, sve dok oni vas prvi ne napadnu u njemu. Ako oni prvi počnu borbu u Svetom hramu, onda ih ubijajte. To njihovo ubijanje zbog toga što su učinili nasilje u Svetom hramu kazna je nevjernicima.
+Ubijajte ih gdje god ih nađete (jer su objavili rat islamu i muslimanima), i istjerajte ih iz mjesta iz kojih su oni vas istjerali – iz Meke. Smutnja koja je nastala usljed odvraćanja vjernika od njihove vjere i nastojanja da se vjernik preobrazi u nevjernika gora je nego ubistvo. Vi ih nemojte prvi napadati kod Svetog hrama, iz poštovanja prema njemu, sve dok oni vas prvi ne napadnu u njemu. Ako oni prvi počnu borbu u Svetom hramu, onda ih ubijajte. To njihovo ubijanje zbog toga što su učinili nasilje u Svetom hramu kazna je nevjernicima.
 
 # 199
 
-192. Pa ako se oni okane od borbe protiv vas i svog nevjerstva, vi ih ostavite na miru. Doista Allah puno prašta onome ko se pokaje i ne kažnjava ga za prethodne grijehe. On je milostiv prema takvima i ne požuruje sa kaznom.
+Pa ako se oni okane od borbe protiv vas i svog nevjerstva, vi ih ostavite na miru. Doista Allah puno prašta onome ko se pokaje i ne kažnjava ga za prethodne grijehe. On je milostiv prema takvima i ne požuruje sa kaznom.
 
 # 200
 
-193. Borite se protiv nevjernika sve dok ne nestane mnogoboštvo, nevjerstvo i odvraćanje ljudi od Allahovog puta, i dok Allahova vjera ne bude gornja. Ukoliko se okanu svog nevjerstva i odvraćanja od Allahovog puta, vi prestanite brobu protiv njih, jer nema neprijateljstva osim protiv onih koji zulum čine svojim nevjerovanjem i odvraćanjem od Allahovog puta.
+Borite se protiv nevjernika sve dok ne nestane mnogoboštvo, nevjerstvo i odvraćanje ljudi od Allahovog puta, i dok Allahova vjera ne bude gornja. Ukoliko se okanu svog nevjerstva i odvraćanja od Allahovog puta, vi prestanite brobu protiv njih, jer nema neprijateljstva osim protiv onih koji zulum čine svojim nevjerovanjem i odvraćanjem od Allahovog puta.
 
 # 201
 
-194. Sveti mjesec u kojem vam je Allah omogućio da uđete na svetu teritoriju u Meki (Harem) i obavite umru sedme godine po Hidžri jest naknada za sveti mjesec u kojem su vas mnogobošci istjerali odatle šeste godine. I u Svetom gradu, i u svetim mjesecima i u svetim obredima (hadža i umre) važe propisi odmazde, pa ko učini nasilje u Haremu, ili u svetim mjesecima, ili dok je u obredima hadža ili umre – uzvratite mu istom mjerom, ali ne više od toga. Doista Allah ne voli one koji prekoračuju Njegove granice. Bojte se Allaha i ne prekoračujte ono što vam je dozvolio u navedenim mjestima, vremenima i obredima, i znajte da je Allah sa bogobojaznima, da ih upućuje i pomaže.
+Sveti mjesec u kojem vam je Allah omogućio da uđete na svetu teritoriju u Meki (Harem) i obavite umru sedme godine po Hidžri jest naknada za sveti mjesec u kojem su vas mnogobošci istjerali odatle šeste godine. I u Svetom gradu, i u svetim mjesecima i u svetim obredima (hadža i umre) važe propisi odmazde, pa ko učini nasilje u Haremu, ili u svetim mjesecima, ili dok je u obredima hadža ili umre – uzvratite mu istom mjerom, ali ne više od toga. Doista Allah ne voli one koji prekoračuju Njegove granice. Bojte se Allaha i ne prekoračujte ono što vam je dozvolio u navedenim mjestima, vremenima i obredima, i znajte da je Allah sa bogobojaznima, da ih upućuje i pomaže.
 
 # 202
 
@@ -810,23 +810,23 @@ Udjeljujte imetak u pokornost Allahu, poput trošenja imetka za borbu na Allahov
 
 # 203
 
-196. Obavite hadž i umru potpuno, želeći time dostići stepen gledanja u Allahovo lice, pa ako vas nešto ili neko spriječi da ih upotpunite, poput bolesti i neprijatelja, vi zakoljite ono što vam je lahko: devu, kravu ili ovcu, kako biste na taj način istupili iz obreda. Nemojte brijati niti kratiti kosu dok kurban ne dođe do mjesta na kojem ga je dozvoljeno zaklati. Ukoliko ste spriječeni od ulaska na svetu teritoriju (Harem), onda zakoljite kurban tu gdje ste spriječeni; ako pak niste spriječeni, onda zakoljite kurban u Mekanskom haremu na dan Kurban-bajrama ili u danima tešrika, danima nakon prvog dana Kurban-bajrama. Ko od vas bude bolestan, ili ima u kosi nešto što ga uznemirava, poput vaški i drugih parazita, pa obrije glavu zbog toga, takav nema grijeha, ali će se iskupiti zbog toga tako što će postiti tri dana, ili nahraniti šest siromaha u Mekanskom haremu, ili zaklati ovcu i njeno meso podijeliti siromasima Mekanskog harema. Ukoliko niste u opasnosti, onaj ko obavi umru u mjesecima hadža, prije početka samog hadža, i potom izađe iz obreda, propisno se oslobađajući zabrana koje važe za onog ko je u obredima dok ne započne obrede hadža te godine, neka zakolje ono što mu je lahko, poput ovce, ili neka učestvuje u sedmini krave ili deve. Ukoliko nije u (materijalnoj) mogućnosti da to učini, mora postiti tri dana dok je na hadžu i sedam dana kada se vrati kući nakon hadža, što je ukupno deset dana. To je vrsta hadža zvana temettu, u kojoj je obavezan kurban za onog ko ima materijalnih mogućnosti, ili post za onog ko nema materijalnih mogućnosti za kurban. Sve to važi za onog ko ne živi u Mekanskom haremu ili u njegovoj blizini, jer oni koji žive u Mekanskom haremu ili blizu njega nemaju potrebe za ovakvom vrstom obreda, i njima je dovoljno da obave tavaf umjesto umre. I bojte se Allaha primjenjivanjem onoga što je propisao i poštovanjem Njegovih granica, i znajte da Allah žestoko kažnjava onoga ko se suprotstavlja Njegovoj naredbi.
+Obavite hadž i umru potpuno, želeći time dostići stepen gledanja u Allahovo lice, pa ako vas nešto ili neko spriječi da ih upotpunite, poput bolesti i neprijatelja, vi zakoljite ono što vam je lahko: devu, kravu ili ovcu, kako biste na taj način istupili iz obreda. Nemojte brijati niti kratiti kosu dok kurban ne dođe do mjesta na kojem ga je dozvoljeno zaklati. Ukoliko ste spriječeni od ulaska na svetu teritoriju (Harem), onda zakoljite kurban tu gdje ste spriječeni; ako pak niste spriječeni, onda zakoljite kurban u Mekanskom haremu na dan Kurban-bajrama ili u danima tešrika, danima nakon prvog dana Kurban-bajrama. Ko od vas bude bolestan, ili ima u kosi nešto što ga uznemirava, poput vaški i drugih parazita, pa obrije glavu zbog toga, takav nema grijeha, ali će se iskupiti zbog toga tako što će postiti tri dana, ili nahraniti šest siromaha u Mekanskom haremu, ili zaklati ovcu i njeno meso podijeliti siromasima Mekanskog harema. Ukoliko niste u opasnosti, onaj ko obavi umru u mjesecima hadža, prije početka samog hadža, i potom izađe iz obreda, propisno se oslobađajući zabrana koje važe za onog ko je u obredima dok ne započne obrede hadža te godine, neka zakolje ono što mu je lahko, poput ovce, ili neka učestvuje u sedmini krave ili deve. Ukoliko nije u (materijalnoj) mogućnosti da to učini, mora postiti tri dana dok je na hadžu i sedam dana kada se vrati kući nakon hadža, što je ukupno deset dana. To je vrsta hadža zvana temettu, u kojoj je obavezan kurban za onog ko ima materijalnih mogućnosti, ili post za onog ko nema materijalnih mogućnosti za kurban. Sve to važi za onog ko ne živi u Mekanskom haremu ili u njegovoj blizini, jer oni koji žive u Mekanskom haremu ili blizu njega nemaju potrebe za ovakvom vrstom obreda, i njima je dovoljno da obave tavaf umjesto umre. I bojte se Allaha primjenjivanjem onoga što je propisao i poštovanjem Njegovih granica, i znajte da Allah žestoko kažnjava onoga ko se suprotstavlja Njegovoj naredbi.
 
 # 204
 
-197. Vrijeme hadžskim obreda je u određenim poznatim mjesecima, koji počinju sa ševvalom a završavaju se sa prvom trećinom zulhidžeta. Ko sebe obaveže da obavi hadž u ovim mjesecima i otpočne obrede, zabranjeno mu je da čini ono što vodi spolnom odnosu, a pojačava se i zabrana činjenja grijeha kao i kazna za njih, zbog svetosti vremena i mjesta. Također, zabranjeno mu je da se upušta u raspravu koja uzrokuje srdžbu i sporove. Svako dobro koje uradite – Allah zna za njega, i nagradit će vas za to. Pomozite se u obavljanju hadža opskrbljivanjem potrepština: hrane i pića, i znajte da je najveća pomoć u svim vašim poslovima – bogobojaznost. Zato, bojte se Allaha primjenom Njegovih naredbi i klonjenjem onoga što je zabranio, o vi koji zdrave pameti imate.
+Vrijeme hadžskim obreda je u određenim poznatim mjesecima, koji počinju sa ševvalom a završavaju se sa prvom trećinom zulhidžeta. Ko sebe obaveže da obavi hadž u ovim mjesecima i otpočne obrede, zabranjeno mu je da čini ono što vodi spolnom odnosu, a pojačava se i zabrana činjenja grijeha kao i kazna za njih, zbog svetosti vremena i mjesta. Također, zabranjeno mu je da se upušta u raspravu koja uzrokuje srdžbu i sporove. Svako dobro koje uradite – Allah zna za njega, i nagradit će vas za to. Pomozite se u obavljanju hadža opskrbljivanjem potrepština: hrane i pića, i znajte da je najveća pomoć u svim vašim poslovima – bogobojaznost. Zato, bojte se Allaha primjenom Njegovih naredbi i klonjenjem onoga što je zabranio, o vi koji zdrave pameti imate.
 
 # 205
 
-198. Nije vam grijeh da tražite halal opskrbu preko trgovine ili na drugi način dok ste na hadžu. Kada krenete sa Arefata ka Muzdelifi, nakon stajanja na njemu, devetog dana a desete noći zulhidžeta, spominjite Allaha govoreći: "Subhanallah – slavljen neka je Allah"; "La ilahe illallah –nema istinskog božanstva osim Allaha", i upućujući dovu na Muzdelifi. Spominjite Allaha jer vas je On uputio da spoznate Njegovu vjeru i obrede hadža, nakon što ste nemarni bili prema Njegovom zakonu.
+Nije vam grijeh da tražite halal opskrbu preko trgovine ili na drugi način dok ste na hadžu. Kada krenete sa Arefata ka Muzdelifi, nakon stajanja na njemu, devetog dana a desete noći zulhidžeta, spominjite Allaha govoreći: "Subhanallah – slavljen neka je Allah"; "La ilahe illallah –nema istinskog božanstva osim Allaha", i upućujući dovu na Muzdelifi. Spominjite Allaha jer vas je On uputio da spoznate Njegovu vjeru i obrede hadža, nakon što ste nemarni bili prema Njegovom zakonu.
 
 # 206
 
-199. Zatim krenite sa Arefata kao što to rade oni koji se ugledaju na Ibrahima, alejhis-selam, a ne kao pagani koji ne stoje na Arefatu. I tražite oprost od Allaha za svoje propuste u obavljanju onoga što vam je propisano, jer doista Allah puno prašta robovima koji se pokaju i milostiv je prema njima.
+Zatim krenite sa Arefata kao što to rade oni koji se ugledaju na Ibrahima, alejhis-selam, a ne kao pagani koji ne stoje na Arefatu. I tražite oprost od Allaha za svoje propuste u obavljanju onoga što vam je propisano, jer doista Allah puno prašta robovima koji se pokaju i milostiv je prema njima.
 
 # 207
 
-200. Kada završite hadžske obrede, puno spominjite Allaha i hvalite Ga, kao što ste spominjali vaše pretke i hvalili se njima, pa i više od toga, jer svaka blagodat u kojoj uživate dolazi od Njega, Uzvišenog. Ljudi su različiti, neki su nevjernici i mnogobošci, vjeruju samo u ovaj, dunjalučki, život i od Allaha traže samo dunjalučke ukrase i blagodati poput zdravlja, imetka i djece, i takvi na ahiretu neće imati nikakvog udjela u blagodatima koje je Allah pripremio za Svoje robove vjernike, jer nevjernici su potpuno posvećeni dunjaluku i okrenuti od ahireta.
+Kada završite hadžske obrede, puno spominjite Allaha i hvalite Ga, kao što ste spominjali vaše pretke i hvalili se njima, pa i više od toga, jer svaka blagodat u kojoj uživate dolazi od Njega, Uzvišenog. Ljudi su različiti, neki su nevjernici i mnogobošci, vjeruju samo u ovaj, dunjalučki, život i od Allaha traže samo dunjalučke ukrase i blagodati poput zdravlja, imetka i djece, i takvi na ahiretu neće imati nikakvog udjela u blagodatima koje je Allah pripremio za Svoje robove vjernike, jer nevjernici su potpuno posvećeni dunjaluku i okrenuti od ahireta.
 
 # 208
 
@@ -838,35 +838,35 @@ Ti koji mole Allaha za dobro i dunjaluka i ahireta imat će veliku nagradu zbog 
 
 # 210
 
-203. I spominjite Allaha izgovarajući "Allahu ekber – Allah je najveći" i "la ilahe illallah – nema istinskog božanstva osim Allaha" u ovim malobrojnim posebnim danima: jedanaestom, dvanaestom i trinaestom zulhidžetu. Ko požuri i napusti Minu nakon gađanja džemreta dvanaestog dana zulhidžeta, ima pravo na to i nema grijeh, jer mu je Allah dao olakšicu, a ko ostane duže, do gađanja džemreta trinaestog dana, ima pravo na to i nema grijeha, taj je učinio ono što je potpunije i u tome slijedi Poslanika, sallallahu alejhi ve sellem. Sve to važi za one koji su Allahu pokorni na hadžu pa postupaju onako kako im je On naredio i boje Ga se provođenjem Njegovim naredbi i klonjenjem onoga što je zabranio, i uvjereni su da će se samo Njemu vratiti, i da će ih On za njihova djela kazniti ili nagraditi.
+I spominjite Allaha izgovarajući "Allahu ekber – Allah je najveći" i "la ilahe illallah – nema istinskog božanstva osim Allaha" u ovim malobrojnim posebnim danima: jedanaestom, dvanaestom i trinaestom zulhidžetu. Ko požuri i napusti Minu nakon gađanja džemreta dvanaestog dana zulhidžeta, ima pravo na to i nema grijeh, jer mu je Allah dao olakšicu, a ko ostane duže, do gađanja džemreta trinaestog dana, ima pravo na to i nema grijeha, taj je učinio ono što je potpunije i u tome slijedi Poslanika, sallallahu alejhi ve sellem. Sve to važi za one koji su Allahu pokorni na hadžu pa postupaju onako kako im je On naredio i boje Ga se provođenjem Njegovim naredbi i klonjenjem onoga što je zabranio, i uvjereni su da će se samo Njemu vratiti, i da će ih On za njihova djela kazniti ili nagraditi.
 
 # 211
 
-204. O Vjerovjesniče, među ljudima ima munafika čiji te govor na ovom svijetu zadivljuje, pa vidiš da lijepo priča skoro pa da te ubijedi da je iskren i da želi dobro, a ustvari želi da sačuva sebe i svoj imetak. On lažno priziva Allaha za svjedoka da je u njegovom srcu vjerovanje i dobro, a ustvari je žestoki neprijatelj muslimanima.
+O Vjerovjesniče, među ljudima ima munafika čiji te govor na ovom svijetu zadivljuje, pa vidiš da lijepo priča skoro pa da te ubijedi da je iskren i da želi dobro, a ustvari želi da sačuva sebe i svoj imetak. On lažno priziva Allaha za svjedoka da je u njegovom srcu vjerovanje i dobro, a ustvari je žestoki neprijatelj muslimanima.
 
 # 212
 
-205. A kada se okrene i ode od tebe, žurno po Zemlji nered sije, čineći grijehe, uništavajući usjeve i ubijajući stoku, a Allah ne voli nered na Zemlji ni one koji ga čine.
+A kada se okrene i ode od tebe, žurno po Zemlji nered sije, čineći grijehe, uništavajući usjeve i ubijajući stoku, a Allah ne voli nered na Zemlji ni one koji ga čine.
 
 # 213
 
-206. Kada se tom smutljivcu uputi savjet: "Boj se Allaha, poštuj Njegove granice i kloni se onoga što je zabranio", njega sujeta i oholost sprečavaju da se vrati istini, pa još više srlja u grijeh. Takvom slijedi ulazak u džehennem, a grozno je on boravište!
+Kada se tom smutljivcu uputi savjet: "Boj se Allaha, poštuj Njegove granice i kloni se onoga što je zabranio", njega sujeta i oholost sprečavaju da se vrati istini, pa još više srlja u grijeh. Takvom slijedi ulazak u džehennem, a grozno je on boravište!
 
 # 214
 
-207. Među ljudima ima vjernika koji su prodali svoj život utrošivši ga u pokornost svom Gospodaru i borbi na Njegovom putu, tražeći Njegovo zadovoljstvo. Allah je puno milostiv i milosrdan prema Svojim robovima.
+Među ljudima ima vjernika koji su prodali svoj život utrošivši ga u pokornost svom Gospodaru i borbi na Njegovom putu, tražeći Njegovo zadovoljstvo. Allah je puno milostiv i milosrdan prema Svojim robovima.
 
 # 215
 
-208. O vi koji vjerujete u Allaha i slijedite Njegovog Poslanika, uđite potpuno u islam i ništa od njega ne ostavljajte! Ne budite kao sljedbenici Knjige, koji vjerovaše u dio Knjige, a drugi dio porekoše. Nemojte ići šejtanovim stopama, jer vam je on, doista, jasni i otvoreni neprijatelj.
+O vi koji vjerujete u Allaha i slijedite Njegovog Poslanika, uđite potpuno u islam i ništa od njega ne ostavljajte! Ne budite kao sljedbenici Knjige, koji vjerovaše u dio Knjige, a drugi dio porekoše. Nemojte ići šejtanovim stopama, jer vam je on, doista, jasni i otvoreni neprijatelj.
 
 # 216
 
-209. Ukoliko skrenete nakon što su vam stigli jasni dokazi u kojima nema nimalo dvosmislenosti, onda imajte na umu da je Allah snažan i moćan, da su Njegove odredbe i propisi zasnovani na mudrosti, pa ga se bojte i veličajte Ga.
+Ukoliko skrenete nakon što su vam stigli jasni dokazi u kojima nema nimalo dvosmislenosti, onda imajte na umu da je Allah snažan i moćan, da su Njegove odredbe i propisi zasnovani na mudrosti, pa ga se bojte i veličajte Ga.
 
 # 217
 
-201. Šta čekaju ovi što slijede šejtanove stope i što su skrenuli sa puta istine? Da li čekaju da im dođe Allah Uzvišeni na Sudnjem danu, onako kako Njemu dolikuje, u tminama oblaka, da im presudi? I da im dođu meleki, koji će ih okružiti sa svih strana? Tada će se Allahova odredba provesti nad njima, i samo Njemu se sve vraća.
+Šta čekaju ovi što slijede šejtanove stope i što su skrenuli sa puta istine? Da li čekaju da im dođe Allah Uzvišeni na Sudnjem danu, onako kako Njemu dolikuje, u tminama oblaka, da im presudi? I da im dođu meleki, koji će ih okružiti sa svih strana? Tada će se Allahova odredba provesti nad njima, i samo Njemu se sve vraća.
 
 # 218
 
@@ -874,71 +874,71 @@ O Vjerovjesniče, pitaj potomke Israilove, koreći ih: "Koliko vam je Allah poka
 
 # 219
 
-212. Nevjernicima u Allaha uljepšan je dunjalučki život, njegove prolazne ljepote i njegova prolazna uživanja, i oni se ismijavaju sa onima koji vjeruju u Allaha i Sudnji dan, ali bogobojazni ljudi, koji čine ono što je On naredio i klone se onoga što je On zabranio, bit će na ahiretu iznad ovih nevjernika, kada ih Allah nastani u edenske vrtove. Allah daje ono što On hoće onim stvorenjima kojima On hoće, bez bilo kakvog računa.
+Nevjernicima u Allaha uljepšan je dunjalučki život, njegove prolazne ljepote i njegova prolazna uživanja, i oni se ismijavaju sa onima koji vjeruju u Allaha i Sudnji dan, ali bogobojazni ljudi, koji čine ono što je On naredio i klone se onoga što je On zabranio, bit će na ahiretu iznad ovih nevjernika, kada ih Allah nastani u edenske vrtove. Allah daje ono što On hoće onim stvorenjima kojima On hoće, bez bilo kakvog računa.
 
 # 220
 
-213. Ljudi su bili jedna zajednica, na uputi, na vjeri svog oca Adema, sve dok ih šejtan nije odveo u zabludu, pa su se podijelili na nevjernike i vjernike. Zbog toga je Allah slao poslanike da pokorne vjernike obraduju onim što im je Allah pripremio iz Svoje milosti, i da upozore nevjernike na žestoku kaznu koju im je Allah pripremio. On je Svojim poslanicima objavio Knjige koje sadrže istinu u koju nema sumnje, kako bi među ljudima sudili kada se raziđu oko onoga što im je objavljeno. Ljudi se nisu razišli oko Tevrata osim dijela jevreja kojima je dato znanje, nakon što su im došli Allahovi dokazi da je Tevrat istina od Allaha, i da se oko njega ne smiju razilaziti. To su oni učinili zbog svoje nepravednosti, pa je Allah uputio vjernike da spoznaju istinu i odvoje je od zablude, Njegovom dozvolom i željom. On upućuje koga On hoće na Pravi put, na put vjerovanja.
+Ljudi su bili jedna zajednica, na uputi, na vjeri svog oca Adema, sve dok ih šejtan nije odveo u zabludu, pa su se podijelili na nevjernike i vjernike. Zbog toga je Allah slao poslanike da pokorne vjernike obraduju onim što im je Allah pripremio iz Svoje milosti, i da upozore nevjernike na žestoku kaznu koju im je Allah pripremio. On je Svojim poslanicima objavio Knjige koje sadrže istinu u koju nema sumnje, kako bi među ljudima sudili kada se raziđu oko onoga što im je objavljeno. Ljudi se nisu razišli oko Tevrata osim dijela jevreja kojima je dato znanje, nakon što su im došli Allahovi dokazi da je Tevrat istina od Allaha, i da se oko njega ne smiju razilaziti. To su oni učinili zbog svoje nepravednosti, pa je Allah uputio vjernike da spoznaju istinu i odvoje je od zablude, Njegovom dozvolom i željom. On upućuje koga On hoće na Pravi put, na put vjerovanja.
 
 # 221
 
-214. Ili ste mislili, o vjernici, da ćete ući u džennet prije nego što vas pogodi iskušenje prijašnjih naroda. Njih je pogađalo teško siromaštvo, pogađala ih je bolest, uzdrmali su ih strahovi, da bi nekada iskušenje bilo toliko jako da su željeli požuriti Allahovu pomoć, pa bi poslanik i vjernici rekli: "Kada će Allahova pomoć?" Ali uistinu, Allahova pomoć je blizu onih koji vjeruju u Njega i na Njega se oslanjaju.
+Ili ste mislili, o vjernici, da ćete ući u džennet prije nego što vas pogodi iskušenje prijašnjih naroda. Njih je pogađalo teško siromaštvo, pogađala ih je bolest, uzdrmali su ih strahovi, da bi nekada iskušenje bilo toliko jako da su željeli požuriti Allahovu pomoć, pa bi poslanik i vjernici rekli: "Kada će Allahova pomoć?" Ali uistinu, Allahova pomoć je blizu onih koji vjeruju u Njega i na Njega se oslanjaju.
 
 # 222
 
-215. Pitaju te tvoji drugovi, Vjerovjesniče, šta da udijele od svojih raznovrsnih imetaka i u koje svrhe? Odgovori im: "Ono što udijelite od halal-imetka neka bude za roditelje, zatim najbliže rođake shodno potrebi, zatim potrebnim siročadima, siromasima koji nemaju imetka, te putnicima koje je put odvojio od porodice i domovine i nemaju sredstava da se vrate. Koliko god dobra da uradite, o vjernici, bilo malo ili mnogo, doista vam Allah to zna, Njemu ništa od toga nije skriveno, i On će vas za to nagraditi."
+Pitaju te tvoji drugovi, Vjerovjesniče, šta da udijele od svojih raznovrsnih imetaka i u koje svrhe? Odgovori im: "Ono što udijelite od halal-imetka neka bude za roditelje, zatim najbliže rođake shodno potrebi, zatim potrebnim siročadima, siromasima koji nemaju imetka, te putnicima koje je put odvojio od porodice i domovine i nemaju sredstava da se vrate. Koliko god dobra da uradite, o vjernici, bilo malo ili mnogo, doista vam Allah to zna, Njemu ništa od toga nije skriveno, i On će vas za to nagraditi."
 
 # 223
 
-216. O vjernici, obavezna vam je borba na Allahovom putu, iako je ona mrska ljudskoj prirodi zbog toga što u sebi sadrži trošenje imetka i života. Ali možda vam je nešto mrsko, a ono je, u stvarnosti, dobro i korisno za vas, poput borbe na Allahovom putu. Borba, pored velike nagrade, donosi i pobjedu nad neprijateljima i uzdizanje Allahove riječi. Možda nešto volite, a ono je loše po vas, poput ostavljanje borbe na Allahovom putu. To za sobom povlači poniženje i ovladavanje neprijatelja vama. Allah savršeno zna šta je najbolje i šta je najgore, dok vi to ne znate, pa se zato odazovite Njegovoj naredbi, jer u tome je veliko dobro za vas.
+O vjernici, obavezna vam je borba na Allahovom putu, iako je ona mrska ljudskoj prirodi zbog toga što u sebi sadrži trošenje imetka i života. Ali možda vam je nešto mrsko, a ono je, u stvarnosti, dobro i korisno za vas, poput borbe na Allahovom putu. Borba, pored velike nagrade, donosi i pobjedu nad neprijateljima i uzdizanje Allahove riječi. Možda nešto volite, a ono je loše po vas, poput ostavljanje borbe na Allahovom putu. To za sobom povlači poniženje i ovladavanje neprijatelja vama. Allah savršeno zna šta je najbolje i šta je najgore, dok vi to ne znate, pa se zato odazovite Njegovoj naredbi, jer u tome je veliko dobro za vas.
 
 # 224
 
-217. O Vjerovjesniče, ljudi te pitaju o propisu borbe u svetim mjesecima: zulkadi, zulhidži, muharemu i redžebu, pa im odgovori da je borba u tim mjesecima veoma ružna stvar kod Allaha, kao što je i ono što su uradili mnogobošci, odvraćajući od Allahova puta, veoma ružna stvar, pa zabranjivanje vjernicima da uđu u Sveti hram, izbacivanje ljudi iz njega, jest kod Allaha gore od borbe u svetom mjesecu, i mnogoboštvo koje čine, veći je grijeh kod Allaha od ubijanja. I mnogobošci će nastaviti da se bore protiv vas, nepravedno, o vjernici, sve dok vas ne odvrate od vaše istinite vjere i vrate u njihovu neispravnu vjeru, ako ikako budu mogli. A onome ko od vas napusti svoju vjeru i umre kao nevjernik, sva dobra djela će mu propasti i skončat će vječno u džehennemu.
+O Vjerovjesniče, ljudi te pitaju o propisu borbe u svetim mjesecima: zulkadi, zulhidži, muharemu i redžebu, pa im odgovori da je borba u tim mjesecima veoma ružna stvar kod Allaha, kao što je i ono što su uradili mnogobošci, odvraćajući od Allahova puta, veoma ružna stvar, pa zabranjivanje vjernicima da uđu u Sveti hram, izbacivanje ljudi iz njega, jest kod Allaha gore od borbe u svetom mjesecu, i mnogoboštvo koje čine, veći je grijeh kod Allaha od ubijanja. I mnogobošci će nastaviti da se bore protiv vas, nepravedno, o vjernici, sve dok vas ne odvrate od vaše istinite vjere i vrate u njihovu neispravnu vjeru, ako ikako budu mogli. A onome ko od vas napusti svoju vjeru i umre kao nevjernik, sva dobra djela će mu propasti i skončat će vječno u džehennemu.
 
 # 225
 
-218. Zaista oni koji vjeruju u Allaha i Njegovog Poslanika, i ostavljaju svoje domove čineći hidžru ka Allahu i Poslaniku, i bore se da Allahova riječ bude gornja – nadaju se Allahovoj milosti i Allahovom oprostu, a Allah puno prašta grijehe Svojih robova i puno je milostiv prema njima.
+Zaista oni koji vjeruju u Allaha i Njegovog Poslanika, i ostavljaju svoje domove čineći hidžru ka Allahu i Poslaniku, i bore se da Allahova riječ bude gornja – nadaju se Allahovoj milosti i Allahovom oprostu, a Allah puno prašta grijehe Svojih robova i puno je milostiv prema njima.
 
 # 226
 
-219. Pitaju te tvoji drugovi, o Vjerovjesniče o hamru (a to je sve ono što opija razum), propisu njegovog konzumiranja i kupoprodaje, o pitaju te o kocki, koja podrazumijeva natjecanje dviju strana, od koje svaka ulaže određeni imetak, pa im reci: "U ta dva postupka nalazi se velika šteta, kako za vjeru, tako i za život na ovome svijetu, poput gubljenja razuma i imetka, pojave neprijateljstva i mržnje, a također ima i mala korist koja se ogleda u dolasku do imetka. Međutim, šteta i negativne posljedice su daleko veći od koristi." Razuman čovjek se udaljava od onoga u čemu je šteta veća od koristi. Ovo pojašnjenje je uvod u zabranu alkohola. O Vjerovjesniče, tvoji te ashabi pitaju i o količini imetka kojeg trebaju davati dobrovoljno, pa im odgovori: "Dajite samo ono što vam je višak." U početku je bilo ovako, a nakon toga je Allah propisao obavezni zekat, koji je vezan za posebnu vrstu imetka i koji se daje posebno određenim kategorijama. Kroz ovu veoma jasnu napomenu Allah vam pojašnjava pravne propise kako biste razmislili.
+Pitaju te tvoji drugovi, o Vjerovjesniče o hamru (a to je sve ono što opija razum), propisu njegovog konzumiranja i kupoprodaje, o pitaju te o kocki, koja podrazumijeva natjecanje dviju strana, od koje svaka ulaže određeni imetak, pa im reci: "U ta dva postupka nalazi se velika šteta, kako za vjeru, tako i za život na ovome svijetu, poput gubljenja razuma i imetka, pojave neprijateljstva i mržnje, a također ima i mala korist koja se ogleda u dolasku do imetka. Međutim, šteta i negativne posljedice su daleko veći od koristi." Razuman čovjek se udaljava od onoga u čemu je šteta veća od koristi. Ovo pojašnjenje je uvod u zabranu alkohola. O Vjerovjesniče, tvoji te ashabi pitaju i o količini imetka kojeg trebaju davati dobrovoljno, pa im odgovori: "Dajite samo ono što vam je višak." U početku je bilo ovako, a nakon toga je Allah propisao obavezni zekat, koji je vezan za posebnu vrstu imetka i koji se daje posebno određenim kategorijama. Kroz ovu veoma jasnu napomenu Allah vam pojašnjava pravne propise kako biste razmislili.
 
 # 227
 
-220. To je propisano da biste razmislili o onome što vam koristi na dunjaluku i na ahiretu. I pitaju te tvoji drugovi, o Vjerovjesniče, o starateljstvu nad jetimima, kako da postupaju prema njima, da li da svoje imetke miješaju sa njihovim pri njihovom opskrbljivanju, hranjenju, smještaju, a ti im odgovori: "Davanje prednosti popravljanju njihovog imovinskog stanja bez miješanja njihovog imetka sa svojim i bez uzimanja naknade iz njihovih imetaka bolje je za vas kod Allaha i za to vam slijedi veća nagrada, i to je bolje i za njih i njihove imetke, jer im se tako čuvaju imeci. Međutim, ako sa njima učestvujete tako da njihov imetak pripojite svom, radi obezbjeđivanja životnih potrepština i stanovanja, nije vam grijeh, jer su oni vaša braća po vjeri, a braća pomažu jedni druge, i vode računa jedni o drugima. Allah zna ko od vas ima pokvarene, a ko ispravne želje pri miješanju u imetak jetima koji su mu povjereni. Da Allah želi da vam oteža vođenje računa o jetimima, otežao bi vam, ali On Uzvišeni želi da vam olakša u vašem ophođenju sa njima, jer je Njegov zakon izgrađen i zasnovam na olakšavanju. Doista je Allah silan, niko Ga ne može savladati, i doista je On mudar u Svom stvaranju, upravljanju i propisivanju zakona.
+To je propisano da biste razmislili o onome što vam koristi na dunjaluku i na ahiretu. I pitaju te tvoji drugovi, o Vjerovjesniče, o starateljstvu nad jetimima, kako da postupaju prema njima, da li da svoje imetke miješaju sa njihovim pri njihovom opskrbljivanju, hranjenju, smještaju, a ti im odgovori: "Davanje prednosti popravljanju njihovog imovinskog stanja bez miješanja njihovog imetka sa svojim i bez uzimanja naknade iz njihovih imetaka bolje je za vas kod Allaha i za to vam slijedi veća nagrada, i to je bolje i za njih i njihove imetke, jer im se tako čuvaju imeci. Međutim, ako sa njima učestvujete tako da njihov imetak pripojite svom, radi obezbjeđivanja životnih potrepština i stanovanja, nije vam grijeh, jer su oni vaša braća po vjeri, a braća pomažu jedni druge, i vode računa jedni o drugima. Allah zna ko od vas ima pokvarene, a ko ispravne želje pri miješanju u imetak jetima koji su mu povjereni. Da Allah želi da vam oteža vođenje računa o jetimima, otežao bi vam, ali On Uzvišeni želi da vam olakša u vašem ophođenju sa njima, jer je Njegov zakon izgrađen i zasnovam na olakšavanju. Doista je Allah silan, niko Ga ne može savladati, i doista je On mudar u Svom stvaranju, upravljanju i propisivanju zakona.
 
 # 228
 
-221. O vjernici, nemojte ženiti one koje Allahu druga pripisuju sve dok samo u Allaha Jedinog ne povjeruju, dok ne uđu u islam. Doista je robinja koja vjeruje u Allaha i Poslanika bolja od slobodne žene koja obožava kipove, makar vam se svidjela njena ljepota i privuklo vas njeno bogatstvo. I nemojte udavati muslimanke za mnogobošce! Doista je rob koji vjeruje u Allaha i Njegovog Poslanika bolji od slobodnog čovjeka mnogobošca, makar vam se svidio. Ti ljudi i te žene koji čine širk pozivaju svojim riječima i djelima u ono što vodi u džehennem, a Allah poziva u dobra djela koja vode u džennet i oprost od grijeha, Njegovom dozvolom i dobrotom. On objašnjava Svoje ajete ljudima kako bi iz njih pouku uzeli i po njima radili.
+O vjernici, nemojte ženiti one koje Allahu druga pripisuju sve dok samo u Allaha Jedinog ne povjeruju, dok ne uđu u islam. Doista je robinja koja vjeruje u Allaha i Poslanika bolja od slobodne žene koja obožava kipove, makar vam se svidjela njena ljepota i privuklo vas njeno bogatstvo. I nemojte udavati muslimanke za mnogobošce! Doista je rob koji vjeruje u Allaha i Njegovog Poslanika bolji od slobodnog čovjeka mnogobošca, makar vam se svidio. Ti ljudi i te žene koji čine širk pozivaju svojim riječima i djelima u ono što vodi u džehennem, a Allah poziva u dobra djela koja vode u džennet i oprost od grijeha, Njegovom dozvolom i dobrotom. On objašnjava Svoje ajete ljudima kako bi iz njih pouku uzeli i po njima radili.
 
 # 229
 
-222. Pitaju te tvoji drugovi, o Vjerovjesniče, od hajzu (menstruaciji, prirodnoj krvi koja izlazi iz rodnice u određenom periodu). Odgovori im: "Hajz je neprijatnost i za čovjeka i za ženu, pa se klonite spolnog odnosa sa ženama za vrijeme hajza, sve dok se ne završi i dok se ne okupaju. Nakon toga možete sa njima imati odnos na način koji je Allah dozvolio, i to dok su čiste i u njihov spolni organ. Doista Allah voli one koji se puno kaju od grijeha i koji se puno čiste od prljavština."
+Pitaju te tvoji drugovi, o Vjerovjesniče, od hajzu (menstruaciji, prirodnoj krvi koja izlazi iz rodnice u određenom periodu). Odgovori im: "Hajz je neprijatnost i za čovjeka i za ženu, pa se klonite spolnog odnosa sa ženama za vrijeme hajza, sve dok se ne završi i dok se ne okupaju. Nakon toga možete sa njima imati odnos na način koji je Allah dozvolio, i to dok su čiste i u njihov spolni organ. Doista Allah voli one koji se puno kaju od grijeha i koji se puno čiste od prljavština."
 
 # 230
 
-223. Vaše žene su vaše njive u koje sijete i koje vam rađaju djecu, kao što zemlja rađa plodove, pa sa njima imajte odnos u ono mjesto u koje biva sijanje – spolni organ – onako kako želite. I osigurajte za sebe dobra djela, u koja spada i intimni odnos sa suprugom sa namjerom približavanja Allahu, nadajući se čestitom potomstvu. Bojte se Allaha provođenjem Njegovih naredbi i klonjenjem onoga što je zabranio, u šta spadaju i Njegovi propisi glede žena. I znajte da ćete Ga sresti na Sudnjem danu i da ćete pred Njega stati, kao i da će vam On dati naknadu za vaša djela. O Vjerovjesniče, obraduj vjernike vječnim uživanjem koje će dobiti kada sretnu svog Gospodara i kada vide Njegovo plemenito lice.
+Vaše žene su vaše njive u koje sijete i koje vam rađaju djecu, kao što zemlja rađa plodove, pa sa njima imajte odnos u ono mjesto u koje biva sijanje – spolni organ – onako kako želite. I osigurajte za sebe dobra djela, u koja spada i intimni odnos sa suprugom sa namjerom približavanja Allahu, nadajući se čestitom potomstvu. Bojte se Allaha provođenjem Njegovih naredbi i klonjenjem onoga što je zabranio, u šta spadaju i Njegovi propisi glede žena. I znajte da ćete Ga sresti na Sudnjem danu i da ćete pred Njega stati, kao i da će vam On dati naknadu za vaša djela. O Vjerovjesniče, obraduj vjernike vječnim uživanjem koje će dobiti kada sretnu svog Gospodara i kada vide Njegovo plemenito lice.
 
 # 231
 
-224. Ne činite svoju zakletvu Allahom dokazom za nečinjenje dobrih djela i za nepopravljanje međuljudskih odnosa. Ako se zakunete da nećete činiti neko dobro djelo, vi ipak učinite to dobro djelo i iskupite se za vašu zakletvu. Allah čuje ono što govorite i radite, i On će vam dati naknadu za to.
+Ne činite svoju zakletvu Allahom dokazom za nečinjenje dobrih djela i za nepopravljanje međuljudskih odnosa. Ako se zakunete da nećete činiti neko dobro djelo, vi ipak učinite to dobro djelo i iskupite se za vašu zakletvu. Allah čuje ono što govorite i radite, i On će vam dati naknadu za to.
 
 # 232
 
-225. Allah vas ne obračunava za vaše zakletve koje nenamjerno izgovorite, kao kada neko od vas kaže: "Ne, Allaha mi", ili: "Da, Allaha mi." Za to nije potreban iskup, niti za to ima kazne. Međutim, Allah će vas obračunavati za namjerne zakletve. A On puno prašta grijehe robova Svojih i On je veoma strpljiv i ne žuri da ih kazni.
+Allah vas ne obračunava za vaše zakletve koje nenamjerno izgovorite, kao kada neko od vas kaže: "Ne, Allaha mi", ili: "Da, Allaha mi." Za to nije potreban iskup, niti za to ima kazne. Međutim, Allah će vas obračunavati za namjerne zakletve. A On puno prašta grijehe robova Svojih i On je veoma strpljiv i ne žuri da ih kazni.
 
 # 233
 
-226. Oni koji se zaklinju da neće imati intimni odnos sa svojim ženama imaju rok od četiri mjeseca od kad se zakunu. Ovo se naziva "el-ila". Ukoliko u tom roku budu imali odnos sa njima, Allah će im oprostiti tu zakletvu, i On je bio milostiv prema njima kada im je propisao iskup kao izlaz iz ove zakletve.
+Oni koji se zaklinju da neće imati intimni odnos sa svojim ženama imaju rok od četiri mjeseca od kad se zakunu. Ovo se naziva "el-ila". Ukoliko u tom roku budu imali odnos sa njima, Allah će im oprostiti tu zakletvu, i On je bio milostiv prema njima kada im je propisao iskup kao izlaz iz ove zakletve.
 
 # 234
 
-227. Ukoliko budu htjeli razvod svojim nastavljanjem bojkotovanja supruga, Allah dobro čuje ono što oni govore, a u šta spada i razvod, i On dobro zna sva njihova stanja i sve njihove intencije, i obračunat će ih za to.
+Ukoliko budu htjeli razvod svojim nastavljanjem bojkotovanja supruga, Allah dobro čuje ono što oni govore, a u šta spada i razvod, i On dobro zna sva njihova stanja i sve njihove intencije, i obračunat će ih za to.
 
 # 235
 
-228. Razvedene žene trebaju čekati tri mjesečna pranja i ne smiju se udavati prije završetka trećeg mjesečnog pranja. Nije im dozvoljeno da sakriju ako su trudne, ako iskreno vjeruju u Allaha i Sudnji dan. Njihovi muževi koji su ih razveli imaju najveće pravo da ih vrate tokom ovog pričeka od tri mjesečna pranja, ukoliko tim vraćanjem žele lijep život sa njima i otklanjanje onoga što je uzrokovalo razvod. Žene imaju prava i obaveze kao što muževi imaju prava i obaveze, shodno običaju. Muškarci imaju jedan stepen više koji se ogleda u obaveznosti vođenja računa o cijeloj porodici i odgovornosti za nju, i posjeduju pravo razvoda, a Allah je Silni kojeg ništa ne može savladati, i Mudri u Svom propisivanju zakona i upravljanju.
+Razvedene žene trebaju čekati tri mjesečna pranja i ne smiju se udavati prije završetka trećeg mjesečnog pranja. Nije im dozvoljeno da sakriju ako su trudne, ako iskreno vjeruju u Allaha i Sudnji dan. Njihovi muževi koji su ih razveli imaju najveće pravo da ih vrate tokom ovog pričeka od tri mjesečna pranja, ukoliko tim vraćanjem žele lijep život sa njima i otklanjanje onoga što je uzrokovalo razvod. Žene imaju prava i obaveze kao što muževi imaju prava i obaveze, shodno običaju. Muškarci imaju jedan stepen više koji se ogleda u obaveznosti vođenja računa o cijeloj porodici i odgovornosti za nju, i posjeduju pravo razvoda, a Allah je Silni kojeg ništa ne može savladati, i Mudri u Svom propisivanju zakona i upravljanju.
 
 # 236
 
@@ -946,19 +946,19 @@ O Vjerovjesniče, pitaj potomke Israilove, koreći ih: "Koliko vam je Allah poka
 
 # 237
 
-230. Ako je njen muž treći put razvede, nije mu dozvoljeno da je oženi više, osim ako se ona uda za nekog drugog na ispravan način sa namjerom da ostane u tom braku, a ne da se vrati prvom mužu, i ako taj drugi muž sa njom ima intimni odnos u tom braku. Ukoliko je taj drugi muž razvede ili umre, onda nema grijeha toj ženi da se ponovo uda za prvog muža, sklapajući novi bračni ugovor i određujući novi mehr, pod uslovom da kod njih preovlada mišljenje da će poštovati Allahove zakone u onome što im je obavezno kao supružnicima. To su Allahovi zakoni koje On objašnjava ljudima kako bi naučili Njegove zakone i granice i okoristili se time.
+Ako je njen muž treći put razvede, nije mu dozvoljeno da je oženi više, osim ako se ona uda za nekog drugog na ispravan način sa namjerom da ostane u tom braku, a ne da se vrati prvom mužu, i ako taj drugi muž sa njom ima intimni odnos u tom braku. Ukoliko je taj drugi muž razvede ili umre, onda nema grijeha toj ženi da se ponovo uda za prvog muža, sklapajući novi bračni ugovor i određujući novi mehr, pod uslovom da kod njih preovlada mišljenje da će poštovati Allahove zakone u onome što im je obavezno kao supružnicima. To su Allahovi zakoni koje On objašnjava ljudima kako bi naučili Njegove zakone i granice i okoristili se time.
 
 # 238
 
-231. Kada razvedete svoje žene pa se približe kraju pričeka, još uvijek imate pravo na lijep način da ih vratite, ili da ih ostavite do kraja pričeka. Nemojte ih vraćati da biste im naštetili i nepravdu činili, kao što su to radili pagani. To ko radi kako bi im naštetio, takav je sebi nepravdu učinio, jer se izložio grijehu i kazni. Nemojte se igrati Allahovim ajetima, i sjetite se Allahovih blagodati prema vama, a jedna od najvećih blagodati je Njegovo objavljivanje Kur'ana i sunneta. Allah vas na ovo podsjeća kako bi vas podstakao i upozorio, pa bojte se Allaha činjenjem onoga što je naredio i klonjenjem onoga što je zabranio, i znajte da Allah sve zna, da Mu ništa skriveno nije i da će vas nagraditi ili kazniti za vaša djela.
+Kada razvedete svoje žene pa se približe kraju pričeka, još uvijek imate pravo na lijep način da ih vratite, ili da ih ostavite do kraja pričeka. Nemojte ih vraćati da biste im naštetili i nepravdu činili, kao što su to radili pagani. To ko radi kako bi im naštetio, takav je sebi nepravdu učinio, jer se izložio grijehu i kazni. Nemojte se igrati Allahovim ajetima, i sjetite se Allahovih blagodati prema vama, a jedna od najvećih blagodati je Njegovo objavljivanje Kur'ana i sunneta. Allah vas na ovo podsjeća kako bi vas podstakao i upozorio, pa bojte se Allaha činjenjem onoga što je naredio i klonjenjem onoga što je zabranio, i znajte da Allah sve zna, da Mu ništa skriveno nije i da će vas nagraditi ili kazniti za vaša djela.
 
 # 239
 
-232. Ako razvede svoje žene manje od tri puta, i završi se njihov priček, nemojte ih sprečavati, o staratelji, da se vrate svojim muževima novim bračnim ugovorom, ako to žele i ako su saglasne sa svojim muževima oko toga. Tim propisom, koji u sebi sadrži zabranu njihovog sprečavanja, opominje se onaj od vas koji vjeruje u Allaha i Sudnji dan. Takav postupak uzrokuje mnogo dobra za vas, i čistiji je za vašu čast i vaša djela. Allah zna suštinu i rezultate svega, dok vi ne znate.
+Ako razvede svoje žene manje od tri puta, i završi se njihov priček, nemojte ih sprečavati, o staratelji, da se vrate svojim muževima novim bračnim ugovorom, ako to žele i ako su saglasne sa svojim muževima oko toga. Tim propisom, koji u sebi sadrži zabranu njihovog sprečavanja, opominje se onaj od vas koji vjeruje u Allaha i Sudnji dan. Takav postupak uzrokuje mnogo dobra za vas, i čistiji je za vašu čast i vaša djela. Allah zna suštinu i rezultate svega, dok vi ne znate.
 
 # 240
 
-233. Neka majke doje svoju djecu cijele dvije godine, za onoga ko želi da ispoštuje cijeli period dojenja. Otac djeteta mora izdržavati majku tog djeteta koja ga doji, a koju je razveo, i mora joj obezbijediti odjeću, shodno onome što je običaj u tom mjestu, bez suprotstavljanja šerijatu. Allah nikog ne zadužuje preko njegovih mogućnosti. Nijednom roditelju nije dozvoljeno da dijete koristi kako bi naštetio onom drugom. Ukoliko dijete nema oca, i nema svoj imetak (kojeg je dobio kao nasljedstvo, poklon i tome slično), nasljedniku djeteta obavezno je isto što i ocu. Ukoliko roditelji djeteta žele odbiti dijete od dojenja prije navršavanja dvije godine, nemaju grijeha u tome, ako to bude nakon što se dogovore i slože oko nečega što je dobro za dijete. Ako, pak, želite da vam djecu doje neke druge žene mimo njihovih majki, nemate grijeha u tome, ako im platite onoliko koliko ste se dogovorili, bez umanjivanja i bez odugovlačenja. I bojte se Allaha činjenjem onoga što je naredio i klonjenjem onoga što je zabranio, i znajte da Allah vidi ono što radite, i da Mu ništa skriveno nije, i da će vas obračunati za djela koja ste činili.
+Neka majke doje svoju djecu cijele dvije godine, za onoga ko želi da ispoštuje cijeli period dojenja. Otac djeteta mora izdržavati majku tog djeteta koja ga doji, a koju je razveo, i mora joj obezbijediti odjeću, shodno onome što je običaj u tom mjestu, bez suprotstavljanja šerijatu. Allah nikog ne zadužuje preko njegovih mogućnosti. Nijednom roditelju nije dozvoljeno da dijete koristi kako bi naštetio onom drugom. Ukoliko dijete nema oca, i nema svoj imetak (kojeg je dobio kao nasljedstvo, poklon i tome slično), nasljedniku djeteta obavezno je isto što i ocu. Ukoliko roditelji djeteta žele odbiti dijete od dojenja prije navršavanja dvije godine, nemaju grijeha u tome, ako to bude nakon što se dogovore i slože oko nečega što je dobro za dijete. Ako, pak, želite da vam djecu doje neke druge žene mimo njihovih majki, nemate grijeha u tome, ako im platite onoliko koliko ste se dogovorili, bez umanjivanja i bez odugovlačenja. I bojte se Allaha činjenjem onoga što je naredio i klonjenjem onoga što je zabranio, i znajte da Allah vidi ono što radite, i da Mu ništa skriveno nije, i da će vas obračunati za djela koja ste činili.
 
 # 241
 
@@ -966,7 +966,7 @@ O Vjerovjesniče, pitaj potomke Israilove, koreći ih: "Koliko vam je Allah poka
 
 # 242
 
-235. Nemate grijeha ako ukažete ženi koja je u pričeku zbog smrti muža ili neopozivog razvoda, da želite stupiti u brak sa njom, bez izravnog ispoljavanja te želje i namjere. Primjera radi, kada bi neko kazao: "Obavijesti me o završetku svog pričeka!" Nemate grijeha ako u sebi krijete želju da se oženite tom ženom nakon njenog pričeka. Allah Uzvišeni zna da ćete o tome misliti jer imate veliku želju za njima, pa vam je dozvolio da putem određenih naznaka, ali ne izravno, iskažete tu želju. Čuvajte se toga da im u tajnosti obećate brak, dok su one još u pričeku, osim ako se radi na uobičajen način. Ne odlučujte se na brak dok traje priček i znajte da Allah poznaje ono što krijete od onoga što vam je dozvolio, ali i od onoga što vam je zabranio, pa se pripazite i ne odstupajte od Njegove naredbe. Znajte da Allah prašta onome ko se pokaje i da je blag pa ne požuruje da vas kazni.
+Nemate grijeha ako ukažete ženi koja je u pričeku zbog smrti muža ili neopozivog razvoda, da želite stupiti u brak sa njom, bez izravnog ispoljavanja te želje i namjere. Primjera radi, kada bi neko kazao: "Obavijesti me o završetku svog pričeka!" Nemate grijeha ako u sebi krijete želju da se oženite tom ženom nakon njenog pričeka. Allah Uzvišeni zna da ćete o tome misliti jer imate veliku želju za njima, pa vam je dozvolio da putem određenih naznaka, ali ne izravno, iskažete tu želju. Čuvajte se toga da im u tajnosti obećate brak, dok su one još u pričeku, osim ako se radi na uobičajen način. Ne odlučujte se na brak dok traje priček i znajte da Allah poznaje ono što krijete od onoga što vam je dozvolio, ali i od onoga što vam je zabranio, pa se pripazite i ne odstupajte od Njegove naredbe. Znajte da Allah prašta onome ko se pokaje i da je blag pa ne požuruje da vas kazni.
 
 # 243
 
@@ -2334,7 +2334,7 @@ Munafici priželjkuju da i vi budete nevjernici u ono što vam je objavljeno kao
 
 # 583
 
-...osim onih koji odu do naroda (plemena) sa kojim imate ugovor o primirju, ili dođu vama sa tjeskobom u prsima ne želeći da se bore protiv vas ni protiv svog naroda. Da Allah hoće mogao je dati da oni ovladaju vama te bi se borili protiv vas, pa prihvatite to što vas je Allah sačuvao i nemojte ih zarobljavati ni ubijati. Ako vas oni ostave na miru i ne bore se protiv vas, nego vam ponude mir – Allah vam nije dozvolio da ih ubijate niti zarobljavate.
+osim onih koji odu do naroda (plemena) sa kojim imate ugovor o primirju, ili dođu vama sa tjeskobom u prsima ne želeći da se bore protiv vas ni protiv svog naroda. Da Allah hoće mogao je dati da oni ovladaju vama te bi se borili protiv vas, pa prihvatite to što vas je Allah sačuvao i nemojte ih zarobljavati ni ubijati. Ako vas oni ostave na miru i ne bore se protiv vas, nego vam ponude mir – Allah vam nije dozvolio da ih ubijate niti zarobljavate.
 
 # 584
 
@@ -3788,7 +3788,7 @@ O arapski višebošci, da ne biste rekli: "Allah je objavio Tevrat jevrejima i I
 
 # 946
 
-...i da ne biste rekli: "Da je Allah nama objavio knjigu kao što je objavio jevrejima i kršćanima mi bismo bolje postupali od njih." Došla vam je knjiga od Allaha koju je On objavio poslaniku koji je vama poslat - Muhammedu, sallallahu 'alejhi ve sellem, na vašem jeziku. U tome je jasan dokaz i putokaz ka istini, i milost za ljude, pa nemojte se pravdati ništavnim opravdanjima, a niko nije veći zulumćar od onoga ko Allahove ajete poriče i od njih se okreće. Mi ćemo žestoko kazniti one koji se okreću od Naših ajeta uvodeći ih u Džehennem kao kaznu za ta njihova djela!
+i da ne biste rekli: "Da je Allah nama objavio knjigu kao što je objavio jevrejima i kršćanima mi bismo bolje postupali od njih." Došla vam je knjiga od Allaha koju je On objavio poslaniku koji je vama poslat - Muhammedu, sallallahu 'alejhi ve sellem, na vašem jeziku. U tome je jasan dokaz i putokaz ka istini, i milost za ljude, pa nemojte se pravdati ništavnim opravdanjima, a niko nije veći zulumćar od onoga ko Allahove ajete poriče i od njih se okreće. Mi ćemo žestoko kazniti one koji se okreću od Naših ajeta uvodeći ih u Džehennem kao kaznu za ta njihova djela!
 
 # 947
 
@@ -14768,7 +14768,7 @@ Oni koji Allahovu knjigu uče, razmišljaju o njezinim porukama, i koji obavljaj
 
 # 3690
 
-...da im Svemogući Allah da potpunu nagradu i još više ih, iz Svoje dobrote, nagradi, tim više jer je On dostojan toga. Allah je Onaj Koji oprašta grijehe onima koji objedine navedene osobine, On je blagodaran prema njima zbog njihovih dobrih djela.
+da im Svemogući Allah da potpunu nagradu i još više ih, iz Svoje dobrote, nagradi, tim više jer je On dostojan toga. Allah je Onaj Koji oprašta grijehe onima koji objedine navedene osobine, On je blagodaran prema njima zbog njihovih dobrih djela.
 
 # 3691
 
@@ -18124,7 +18124,7 @@ Od takvih će ljudi Allah primiti najbolja dobra djela koja su učinili. K tome,
 
 # 4527
 
-- Međutim, ima i onih koji reknu svojim roditeljima: “Daleko bili! Zar mi govorite da ću, nakon što umrem, biti oživljen iz groba, a već su narodi pomrli prije mene i niko se nije vratio?” No, njegovi roditelji zazivaju Sveznajućeg Allaha da uputi njegovo dijete, govoreći mu: “Teško tebi! Vjeruj u Allaha i Poslanika, slijedi islamske propise! Istina je, zbilja, ono što je Allah obećao, u to nema nikakve sumnje!” Dijete njima međutim odgovori da su to samo priče i izmišljotine prvotnih pokoljenja koje se kazuju iz njihovih knjiga.
+Međutim, ima i onih koji reknu svojim roditeljima: “Daleko bili! Zar mi govorite da ću, nakon što umrem, biti oživljen iz groba, a već su narodi pomrli prije mene i niko se nije vratio?” No, njegovi roditelji zazivaju Sveznajućeg Allaha da uputi njegovo dijete, govoreći mu: “Teško tebi! Vjeruj u Allaha i Poslanika, slijedi islamske propise! Istina je, zbilja, ono što je Allah obećao, u to nema nikakve sumnje!” Dijete njima međutim odgovori da su to samo priče i izmišljotine prvotnih pokoljenja koje se kazuju iz njihovih knjiga.
 
 # 4528
 
@@ -20292,13 +20292,13 @@ onda će u rahatluku biti, nakon čega se neće umarati, imat će lijepu opskrbu
 
 # 5069
 
-90 - 91 - A ako bude od onih koji će s desne strane biti, onda se za njih ne brini, jer njih čeka mir i sigurnost.
+A ako bude od onih koji će s desne strane biti, onda se za njih ne brini, jer njih čeka mir i sigurnost.
 
 # 5070
 
 <!-- TODO:DUPLICATE -->
 
-90 - 91 - A ako bude od onih koji će s desne strane biti, onda se za njih ne brini, jer njih čeka mir i sigurnost.
+A ako bude od onih koji će s desne strane biti, onda se za njih ne brini, jer njih čeka mir i sigurnost.
 
 # 5071
 
@@ -20610,13 +20610,13 @@ Da ovaj Kur'an kakvom brdu objavimo, ti bi, o Poslaniče, vidio kako je ono, i p
 
 # 5148
 
-22 - 23 - On je Allah, osim Kojeg niko ne zaslužuje da istinski bude obožavan, poznavatelj onog što je čulima nedokučivo i što je nevidljivo, a i onog što je pojavno i prisutno. Njemu ništa skriveno nije. On je Svemilosni i Milostivi, i na ovome i na onome svijetu, Njegova milost obuhvata sve svjetove. On je Vladar, Blagoslovljeni i Sveti, Savršeni - Onaj Koji je bez nedostataka, Onaj koji potvrđuje istinitost Svojih poslanika preko jasnih ajeta i znamenja, Onaj Koji nad svim djelima Svojih robova bdi, Silni kojeg ništa ne može nadvladati, Uzvišeni koji je svojom uzvišenošću nadjačao sve, Gordi. Slavljen i Uzvišen je Allah od onoga što mu pridružuju mnogobošci, bilo da se radi o kumirima ili nečemu drugom.
+On je Allah, osim Kojeg niko ne zaslužuje da istinski bude obožavan, poznavatelj onog što je čulima nedokučivo i što je nevidljivo, a i onog što je pojavno i prisutno. Njemu ništa skriveno nije. On je Svemilosni i Milostivi, i na ovome i na onome svijetu, Njegova milost obuhvata sve svjetove. On je Vladar, Blagoslovljeni i Sveti, Savršeni - Onaj Koji je bez nedostataka, Onaj koji potvrđuje istinitost Svojih poslanika preko jasnih ajeta i znamenja, Onaj Koji nad svim djelima Svojih robova bdi, Silni kojeg ništa ne može nadvladati, Uzvišeni koji je svojom uzvišenošću nadjačao sve, Gordi. Slavljen i Uzvišen je Allah od onoga što mu pridružuju mnogobošci, bilo da se radi o kumirima ili nečemu drugom.
 
 # 5149
 
 <!-- TODO:DUPLICATE -->
 
-22 - 23 - On je Allah, osim Kojeg niko ne zaslužuje da istinski bude obožavan, poznavatelj onog što je čulima nedokučivo i što je nevidljivo, a i onog što je pojavno i prisutno. Njemu ništa skriveno nije. On je Svemilosni i Milostivi, i na ovome i na onome svijetu, Njegova milost obuhvata sve svjetove. On je Vladar, Blagoslovljeni i Sveti, Savršeni - Onaj Koji je bez nedostataka, Onaj koji potvrđuje istinitost Svojih poslanika preko jasnih ajeta i znamenja, Onaj Koji nad svim djelima Svojih robova bdi, Silni kojeg ništa ne može nadvladati, Uzvišeni koji je svojom uzvišenošću nadjačao sve, Gordi. Slavljen i Uzvišen je Allah od onoga što mu pridružuju mnogobošci, bilo da se radi o kumirima ili nečemu drugom.
+On je Allah, osim Kojeg niko ne zaslužuje da istinski bude obožavan, poznavatelj onog što je čulima nedokučivo i što je nevidljivo, a i onog što je pojavno i prisutno. Njemu ništa skriveno nije. On je Svemilosni i Milostivi, i na ovome i na onome svijetu, Njegova milost obuhvata sve svjetove. On je Vladar, Blagoslovljeni i Sveti, Savršeni - Onaj Koji je bez nedostataka, Onaj koji potvrđuje istinitost Svojih poslanika preko jasnih ajeta i znamenja, Onaj Koji nad svim djelima Svojih robova bdi, Silni kojeg ništa ne može nadvladati, Uzvišeni koji je svojom uzvišenošću nadjačao sve, Gordi. Slavljen i Uzvišen je Allah od onoga što mu pridružuju mnogobošci, bilo da se radi o kumirima ili nečemu drugom.
 
 # 5150
 
@@ -23028,13 +23028,13 @@ Vatru će nastaniti i u njoj boraviti.
 
 # 5752
 
-40 - 41 - Onom ko se bude bojao stajanja pred svojim Gospodarom i ko se bude čuvao povođenja za strastima koje je Alah zabranio, Džennet će biti boravište i u njega će se nastaniti.
+Onom ko se bude bojao stajanja pred svojim Gospodarom i ko se bude čuvao povođenja za strastima koje je Alah zabranio, Džennet će biti boravište i u njega će se nastaniti.
 
 # 5753
 
 <!-- TODO:DUPLICATE -->
 
-40 - 41 - Onom ko se bude bojao stajanja pred svojim Gospodarom i ko se bude čuvao povođenja za strastima koje je Alah zabranio, Džennet će biti boravište i u njega će se nastaniti.
+Onom ko se bude bojao stajanja pred svojim Gospodarom i ko se bude čuvao povođenja za strastima koje je Alah zabranio, Džennet će biti boravište i u njega će se nastaniti.
 
 # 5754
 

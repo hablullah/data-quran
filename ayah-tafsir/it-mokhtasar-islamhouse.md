@@ -10920,13 +10920,13 @@ Abbandonali, o Messaggero, alla loro ignoranza e confusione finché non giunga l
 
 # 2728
 
-55 - 56 – Queste fazioni sono compiaciute delle ricchezze che concediamo loro nella vita terrena, ma ciò avviene forse perché anticipiamo loro il bene, poiché lo meritano?! Le cose non stanno come pensano; in verità, concediamo loro una tregua e li tentiamo, ma non se ne rendono conto.
+Queste fazioni sono compiaciute delle ricchezze che concediamo loro nella vita terrena, ma ciò avviene forse perché anticipiamo loro il bene, poiché lo meritano?! Le cose non stanno come pensano; in verità, concediamo loro una tregua e li tentiamo, ma non se ne rendono conto.
 
 # 2729
 
 <!-- TODO:DUPLICATE -->
 
-55 - 56 – Queste fazioni sono compiaciute delle ricchezze che concediamo loro nella vita terrena, ma ciò avviene forse perché anticipiamo loro il bene, poiché lo meritano?! Le cose non stanno come pensano; in verità, concediamo loro una tregua e li tentiamo, ma non se ne rendono conto.
+Queste fazioni sono compiaciute delle ricchezze che concediamo loro nella vita terrena, ma ciò avviene forse perché anticipiamo loro il bene, poiché lo meritano?! Le cose non stanno come pensano; in verità, concediamo loro una tregua e li tentiamo, ma non se ne rendono conto.
 
 # 2730
 
@@ -13776,7 +13776,7 @@ E tornate a Lui, gloria Sua, pentiti dei vostri peccati, e temeteLo, obbedendo a
 
 # 3441
 
-32 - Non siate idolatri, coloro che hanno alterato la loro religione e che hanno creduto solo a parte di essa, rinnegandone un'altra, e che si divisero in sette fazioni, ogni fazione soddisfatta delle falsità che segue, e pensano di essere gli unici a percorrere la Retta Via, e che gli altri siano in perdizione.
+Non siate idolatri, coloro che hanno alterato la loro religione e che hanno creduto solo a parte di essa, rinnegandone un'altra, e che si divisero in sette fazioni, ogni fazione soddisfatta delle falsità che segue, e pensano di essere gli unici a percorrere la Retta Via, e che gli altri siano in perdizione.
 
 # 3442
 
@@ -14848,13 +14848,13 @@ In verità tu – o Messaggero – sei uno dei messaggeri che Allāh ha inviato 
 
 # 3709
 
-4 - 5 – Questo è un metodo retto e una giusta Legge. Questo metodo retto e questa giusta legge sono stati rivelati dal Tuo Dio, il Potente, Colui che non può essere vinto da nessuno, il Misericordioso con i Suoi sudditi credenti.
+Questo è un metodo retto e una giusta Legge. Questo metodo retto e questa giusta legge sono stati rivelati dal Tuo Dio, il Potente, Colui che non può essere vinto da nessuno, il Misericordioso con i Suoi sudditi credenti.
 
 # 3710
 
 <!-- TODO:DUPLICATE -->
 
-4 - 5 – Questo è un metodo retto e una giusta Legge. Questo metodo retto e questa giusta legge sono stati rivelati dal Tuo Dio, il Potente, Colui che non può essere vinto da nessuno, il Misericordioso con i Suoi sudditi credenti.
+Questo è un metodo retto e una giusta Legge. Questo metodo retto e questa giusta legge sono stati rivelati dal Tuo Dio, il Potente, Colui che non può essere vinto da nessuno, il Misericordioso con i Suoi sudditi credenti.
 
 # 3711
 
@@ -14938,13 +14938,13 @@ In verità, se li prendessi come divinità all'infuori di Allāh, commetterei un
 
 # 3731
 
-26 - 27 - Fu detto in suo onore, dopo il suo martirio: "Entra nel paradiso". Quando entrò e vide la sua beatitudine, disse, desideroso: “Se solo il mio popolo, che mi ha smentito e mi ha ucciso, sapesse del perdono dei peccati che ho ottenuto e di ciò con cui il mio Dio mi ha onorato, avrebbero creduto come ho fatto io e avrebbero ottenuto una ricompensa simile alla mia”.
+Fu detto in suo onore, dopo il suo martirio: "Entra nel paradiso". Quando entrò e vide la sua beatitudine, disse, desideroso: “Se solo il mio popolo, che mi ha smentito e mi ha ucciso, sapesse del perdono dei peccati che ho ottenuto e di ciò con cui il mio Dio mi ha onorato, avrebbero creduto come ho fatto io e avrebbero ottenuto una ricompensa simile alla mia”.
 
 # 3732
 
 <!-- TODO:DUPLICATE -->
 
-26 - 27 - Fu detto in suo onore, dopo il suo martirio: "Entra nel paradiso". Quando entrò e vide la sua beatitudine, disse, desideroso: “Se solo il mio popolo, che mi ha smentito e mi ha ucciso, sapesse del perdono dei peccati che ho ottenuto e di ciò con cui il mio Dio mi ha onorato, avrebbero creduto come ho fatto io e avrebbero ottenuto una ricompensa simile alla mia”.
+Fu detto in suo onore, dopo il suo martirio: "Entra nel paradiso". Quando entrò e vide la sua beatitudine, disse, desideroso: “Se solo il mio popolo, che mi ha smentito e mi ha ucciso, sapesse del perdono dei peccati che ho ottenuto e di ciò con cui il mio Dio mi ha onorato, avrebbero creduto come ho fatto io e avrebbero ottenuto una ricompensa simile alla mia”.
 
 # 3733
 
@@ -15256,13 +15256,13 @@ Verrà detto loro: "Questo è il Giorno che voi rinnegavate e smentivate in vita
 
 # 3810
 
-22-23. Verrà detto agli Angeli, in quel giorno: "Radunate gli idolatri trasgressori per aver associato altri (ad Allāh) e i loro compagni idolatri, e coloro che li sostengono nel rinnegare, e gli idoli che adoravano all'infuori di Allāh: mostrate loro la strada del Fuoco e conduceteli ad esso, poiché esso è la loro destinazione"
+Verrà detto agli Angeli, in quel giorno: "Radunate gli idolatri trasgressori per aver associato altri (ad Allāh) e i loro compagni idolatri, e coloro che li sostengono nel rinnegare, e gli idoli che adoravano all'infuori di Allāh: mostrate loro la strada del Fuoco e conduceteli ad esso, poiché esso è la loro destinazione"
 
 # 3811
 
 <!-- TODO:DUPLICATE -->
 
-22-23. Verrà detto agli Angeli, in quel giorno: "Radunate gli idolatri trasgressori per aver associato altri (ad Allāh) e i loro compagni idolatri, e coloro che li sostengono nel rinnegare, e gli idoli che adoravano all'infuori di Allāh: mostrate loro la strada del Fuoco e conduceteli ad esso, poiché esso è la loro destinazione"
+Verrà detto agli Angeli, in quel giorno: "Radunate gli idolatri trasgressori per aver associato altri (ad Allāh) e i loro compagni idolatri, e coloro che li sostengono nel rinnegare, e gli idoli che adoravano all'infuori di Allāh: mostrate loro la strada del Fuoco e conduceteli ad esso, poiché esso è la loro destinazione"
 
 # 3812
 
@@ -15830,43 +15830,43 @@ Gli Angeli dissero, mostrando la loro sottomissione ad Allāh e la loro distanza
 
 # 3953
 
-165 - 166 – E, in verità, noi angeli ci solleviamo in schiere nell'adorare Allāh e nell'esserGli obbedienti; in verità, Noi glorifichiamo Allāh, ponendolo al di sopra degli attributi e delle descrizioni che non Gli si addicono.
+E, in verità, noi angeli ci solleviamo in schiere nell'adorare Allāh e nell'esserGli obbedienti; in verità, Noi glorifichiamo Allāh, ponendolo al di sopra degli attributi e delle descrizioni che non Gli si addicono.
 
 # 3954
 
 <!-- TODO:DUPLICATE -->
 
-165 - 166 – E, in verità, noi angeli ci solleviamo in schiere nell'adorare Allāh e nell'esserGli obbedienti; in verità, Noi glorifichiamo Allāh, ponendolo al di sopra degli attributi e delle descrizioni che non Gli si addicono.
+E, in verità, noi angeli ci solleviamo in schiere nell'adorare Allāh e nell'esserGli obbedienti; in verità, Noi glorifichiamo Allāh, ponendolo al di sopra degli attributi e delle descrizioni che non Gli si addicono.
 
 # 3955
 
-167 - 170 – E, in verità, gli idolatri del popolo della Mekkah dicevano, prima della missione di Muħammed محمّد , pace e benedizione di Allāh su di lui صلى الله عليه وسلم: "Se solo avessimo avuto uno dei libri precedenti, come ad esempio la Torāhالتّوراه , saremmo stati sinceri nei confronti di Allāh, adorandoLo", ma essi mentono nelle loro affermazioni: giunse loro Muħammedمحمّد , pace e benedizione di Allāh su di lui صلى الله عليه وسلم, con il Coranoالقرآن, tuttavia lo rinnegarono. Conosceranno la punizione che li attende, nel Giorno del Giudizio.
+E, in verità, gli idolatri del popolo della Mekkah dicevano, prima della missione di Muħammed محمّد , pace e benedizione di Allāh su di lui صلى الله عليه وسلم: "Se solo avessimo avuto uno dei libri precedenti, come ad esempio la Torāhالتّوراه , saremmo stati sinceri nei confronti di Allāh, adorandoLo", ma essi mentono nelle loro affermazioni: giunse loro Muħammedمحمّد , pace e benedizione di Allāh su di lui صلى الله عليه وسلم, con il Coranoالقرآن, tuttavia lo rinnegarono. Conosceranno la punizione che li attende, nel Giorno del Giudizio.
 
 # 3956
 
 <!-- TODO:DUPLICATE -->
 
-167 - 170 – E, in verità, gli idolatri del popolo della Mekkah dicevano, prima della missione di Muħammed محمّد , pace e benedizione di Allāh su di lui صلى الله عليه وسلم: "Se solo avessimo avuto uno dei libri precedenti, come ad esempio la Torāhالتّوراه , saremmo stati sinceri nei confronti di Allāh, adorandoLo", ma essi mentono nelle loro affermazioni: giunse loro Muħammedمحمّد , pace e benedizione di Allāh su di lui صلى الله عليه وسلم, con il Coranoالقرآن, tuttavia lo rinnegarono. Conosceranno la punizione che li attende, nel Giorno del Giudizio.
+E, in verità, gli idolatri del popolo della Mekkah dicevano, prima della missione di Muħammed محمّد , pace e benedizione di Allāh su di lui صلى الله عليه وسلم: "Se solo avessimo avuto uno dei libri precedenti, come ad esempio la Torāhالتّوراه , saremmo stati sinceri nei confronti di Allāh, adorandoLo", ma essi mentono nelle loro affermazioni: giunse loro Muħammedمحمّد , pace e benedizione di Allāh su di lui صلى الله عليه وسلم, con il Coranoالقرآن, tuttavia lo rinnegarono. Conosceranno la punizione che li attende, nel Giorno del Giudizio.
 
 # 3957
 
-167 - 170 – E, in verità, gli idolatri del popolo della Mekkah dicevano, prima della missione di Muħammed محمّد , pace e benedizione di Allāh su di lui صلى الله عليه وسلم: "Se solo avessimo avuto uno dei libri precedenti, come ad esempio la Torāhالتّوراه , saremmo stati sinceri nei confronti di Allāh, adorandoLo", ma essi mentono nelle loro affermazioni: giunse loro Muħammedمحمّد , pace e benedizione di Allāh su di lui صلى الله عليه وسلم, con il Coranoالقرآن , tuttavia lo rinnegarono. Conosceranno la punizione che li attende, nel Giorno del Giudizio.
+E, in verità, gli idolatri del popolo della Mekkah dicevano, prima della missione di Muħammed محمّد , pace e benedizione di Allāh su di lui صلى الله عليه وسلم: "Se solo avessimo avuto uno dei libri precedenti, come ad esempio la Torāhالتّوراه , saremmo stati sinceri nei confronti di Allāh, adorandoLo", ma essi mentono nelle loro affermazioni: giunse loro Muħammedمحمّد , pace e benedizione di Allāh su di lui صلى الله عليه وسلم, con il Coranoالقرآن , tuttavia lo rinnegarono. Conosceranno la punizione che li attende, nel Giorno del Giudizio.
 
 # 3958
 
-167 - 170 – E, in verità, gli idolatri del popolo della Mekkah dicevano, prima della missione di Muħammed محمّد , pace e benedizione di Allāh su di lui صلى الله عليه وسلم: "Se solo avessimo avuto uno dei libri precedenti, come ad esempio la Torāhالتّوراه , saremmo stati sinceri nei confronti di Allāh, adorandoLo", ma essi mentono nelle loro affermazioni: giunse loro Muħammedمحمّد , pace e benedizione di Allāh su di lui صلى الله عليه وسلم, con il Coranoالقرآن, tuttavia lo rinnegarono. Conosceranno la punizione che li attende, nel Giorno del Giudizio.
+E, in verità, gli idolatri del popolo della Mekkah dicevano, prima della missione di Muħammed محمّد , pace e benedizione di Allāh su di lui صلى الله عليه وسلم: "Se solo avessimo avuto uno dei libri precedenti, come ad esempio la Torāhالتّوراه , saremmo stati sinceri nei confronti di Allāh, adorandoLo", ma essi mentono nelle loro affermazioni: giunse loro Muħammedمحمّد , pace e benedizione di Allāh su di lui صلى الله عليه وسلم, con il Coranoالقرآن, tuttavia lo rinnegarono. Conosceranno la punizione che li attende, nel Giorno del Giudizio.
 
 # 3959
 
-171 – 173 La Nostra promessa è stata fatta ai Nostri messaggeri che saranno loro a prevalere sui loro nemici, in seguito alle inequivocabili prove e alla forza che Allāh ha loro concesso, e la vittoria sarà dei Nostri soldati che combattono per la causa di Allāh affinché la Parola di Allāh sia suprema.
+La Nostra promessa è stata fatta ai Nostri messaggeri che saranno loro a prevalere sui loro nemici, in seguito alle inequivocabili prove e alla forza che Allāh ha loro concesso, e la vittoria sarà dei Nostri soldati che combattono per la causa di Allāh affinché la Parola di Allāh sia suprema.
 
 # 3960
 
-171 – 173 La Nostra promessa che è stata fatta ai Nostri messaggeri, ovvero che saranno loro a prevalere sui loro nemici, in seguito alle inequivocabili prove e alla forza che Allāh ha loro concesso, e la vittoria sarà dei Nostri soldati che combattono per la causa di Allāh affinché la Parola di Allāh sia suprema.
+La Nostra promessa che è stata fatta ai Nostri messaggeri, ovvero che saranno loro a prevalere sui loro nemici, in seguito alle inequivocabili prove e alla forza che Allāh ha loro concesso, e la vittoria sarà dei Nostri soldati che combattono per la causa di Allāh affinché la Parola di Allāh sia suprema.
 
 # 3961
 
-171 – 173 La Nostra promessa che è stata fatta ai Nostri messaggeri, che saranno loro a prevalere sui loro nemici, in seguito alle inequivocabili prove e alla forza che Allāh ha loro concesso, e la vittoria sarà dei Nostri soldati che combattono per la causa di Allāh affinché la Parola di Allāh sia suprema.
+La Nostra promessa che è stata fatta ai Nostri messaggeri, che saranno loro a prevalere sui loro nemici, in seguito alle inequivocabili prove e alla forza che Allāh ha loro concesso, e la vittoria sarà dei Nostri soldati che combattono per la causa di Allāh affinché la Parola di Allāh sia suprema.
 
 # 3962
 
@@ -17116,13 +17116,13 @@ Ma, in verità, gli idolatri dubitano dell'incontro con il loro Dio, nel Giorno 
 
 # 4273
 
-1-2- (Ħæ, Mī-īm حمٓ Aī-īn, Sī-īn, Ǭā-āf عٓسٓقٓ) Lettere simili sono presenti all'inizio della Surat Al-Baqarah.
+(Ħæ, Mī-īm حمٓ Aī-īn, Sī-īn, Ǭā-āf عٓسٓقٓ) Lettere simili sono presenti all'inizio della Surat Al-Baqarah.
 
 # 4274
 
 <!-- TODO:DUPLICATE -->
 
-1-2- (Ħæ, Mī-īm حمٓ Aī-īn, Sī-īn, Ǭā-āf عٓسٓقٓ) Lettere simili sono presenti all'inizio della Surat Al-Baqarah.
+(Ħæ, Mī-īm حمٓ Aī-īn, Sī-īn, Ǭā-āf عٓسٓقٓ) Lettere simili sono presenti all'inizio della Surat Al-Baqarah.
 
 # 4275
 
@@ -17310,13 +17310,13 @@ Se rifiutano ciò a cui li hai invitati, sappi, o Messaggero, che non ti abbiamo
 
 # 4321
 
-49 - 50 Ad Allāh solo appartiene il Regno dei Cieli e della Terra; Egli crea ciò che vuole, maschio, femmina o altro; dona a chi vuole delle femmine e lo priva dei maschi, e dona i maschi a chi vuole e lo priva delle femmine; e concede, a chi vuole, sia maschi che femmine, e rende chi vuole sterile, incapace di avere figli. In verità, Egli è Sapiente di ciò che è e ciò che sarà in futuro, e ciò è parte della Perfezione della Sua completa Sapienza e della Sua completa Saggezza: nulla Gli è nascosto e nulla Gli è impossibile.
+Ad Allāh solo appartiene il Regno dei Cieli e della Terra; Egli crea ciò che vuole, maschio, femmina o altro; dona a chi vuole delle femmine e lo priva dei maschi, e dona i maschi a chi vuole e lo priva delle femmine; e concede, a chi vuole, sia maschi che femmine, e rende chi vuole sterile, incapace di avere figli. In verità, Egli è Sapiente di ciò che è e ciò che sarà in futuro, e ciò è parte della Perfezione della Sua completa Sapienza e della Sua completa Saggezza: nulla Gli è nascosto e nulla Gli è impossibile.
 
 # 4322
 
 <!-- TODO:DUPLICATE -->
 
-49 - 50 Ad Allāh solo appartiene il Regno dei Cieli e della Terra; Egli crea ciò che vuole, maschio, femmina o altro; dona a chi vuole delle femmine e lo priva dei maschi, e dona i maschi a chi vuole e lo priva delle femmine; e concede, a chi vuole, sia maschi che femmine, e rende chi vuole sterile, incapace di avere figli. In verità, Egli è Sapiente di ciò che è e ciò che sarà in futuro, e ciò è parte della Perfezione della Sua completa Sapienza e della Sua completa Saggezza: nulla Gli è nascosto e nulla Gli è impossibile.
+Ad Allāh solo appartiene il Regno dei Cieli e della Terra; Egli crea ciò che vuole, maschio, femmina o altro; dona a chi vuole delle femmine e lo priva dei maschi, e dona i maschi a chi vuole e lo priva delle femmine; e concede, a chi vuole, sia maschi che femmine, e rende chi vuole sterile, incapace di avere figli. In verità, Egli è Sapiente di ciò che è e ciò che sarà in futuro, e ciò è parte della Perfezione della Sua completa Sapienza e della Sua completa Saggezza: nulla Gli è nascosto e nulla Gli è impossibile.
 
 # 4323
 
@@ -20304,13 +20304,13 @@ otterrà il riposo e non sarà poi affaticato, e avrà un buon sostentamento, la
 
 # 5069
 
-90 - 91 - Se il moribondo fa parte della gente della destra, non preoccuparti per lui, poiché costoro otterranno la pace e la salvezza.
+Se il moribondo fa parte della gente della destra, non preoccuparti per lui, poiché costoro otterranno la pace e la salvezza.
 
 # 5070
 
 <!-- TODO:DUPLICATE -->
 
-90 - 91 - Se il moribondo fa parte della gente della destra, non preoccuparti per lui, poiché costoro otterranno la pace e la salvezza.
+Se il moribondo fa parte della gente della destra, non preoccuparti per lui, poiché costoro otterranno la pace e la salvezza.
 
 # 5071
 
@@ -20622,13 +20622,13 @@ Se avessimo rivelato questo Corano a una montagna, avresti visto, o Messaggero, 
 
 # 5148
 
-22 - 23 – Egli è Allāh, non vi è divinità che venga realmente adorata all'infuori di Lui, Sapiente dell'Ignoto e del Presente; nulla di tutto ciò Gli è nascosto, il Compassionevole in vita e nell'Aldilà, e Misericordioso in entrambi. La Sua Misericordia avvolge i due mondi; il Sovrano, il Glorioso, Colui che è al di sopra di ogni mancanza, Colui che è privo di imperfezioni, Colui che testimonia per i Suoi messaggeri con i Segni gloriosi, Vigile sulle opere dei Suoi sudditi, Il Potente, Colui che non può essere vinto da nessuno, Il Fortissimo, Il Dominatore, Colui che Domina ogni cosa con la Sua Autorità, Il Fiero. Lungi Allāh dagli idoli, o altro, che Gli associano gli idolatri, Egli è molto al di sopra di ciò!
+Egli è Allāh, non vi è divinità che venga realmente adorata all'infuori di Lui, Sapiente dell'Ignoto e del Presente; nulla di tutto ciò Gli è nascosto, il Compassionevole in vita e nell'Aldilà, e Misericordioso in entrambi. La Sua Misericordia avvolge i due mondi; il Sovrano, il Glorioso, Colui che è al di sopra di ogni mancanza, Colui che è privo di imperfezioni, Colui che testimonia per i Suoi messaggeri con i Segni gloriosi, Vigile sulle opere dei Suoi sudditi, Il Potente, Colui che non può essere vinto da nessuno, Il Fortissimo, Il Dominatore, Colui che Domina ogni cosa con la Sua Autorità, Il Fiero. Lungi Allāh dagli idoli, o altro, che Gli associano gli idolatri, Egli è molto al di sopra di ciò!
 
 # 5149
 
 <!-- TODO:DUPLICATE -->
 
-22 - 23 – Egli è Allāh, non vi è divinità che venga realmente adorata all'infuori di Lui, Sapiente dell'Ignoto e del Presente; nulla di tutto ciò Gli è nascosto, il Compassionevole in vita e nell'Aldilà, e Misericordioso in entrambi. La Sua Misericordia avvolge i due mondi; il Sovrano, il Glorioso, Colui che è al di sopra di ogni mancanza, Colui che è privo di imperfezioni, Colui che testimonia per i Suoi messaggeri con i Segni gloriosi, Vigile sulle opere dei Suoi sudditi, Il Potente, Colui che non può essere vinto da nessuno, Il Fortissimo, Il Dominatore, Colui che Domina ogni cosa con la Sua Autorità, Il Fiero. Lungi Allāh dagli idoli, o altro, che Gli associano gli idolatri, Egli è molto al di sopra di ciò!
+Egli è Allāh, non vi è divinità che venga realmente adorata all'infuori di Lui, Sapiente dell'Ignoto e del Presente; nulla di tutto ciò Gli è nascosto, il Compassionevole in vita e nell'Aldilà, e Misericordioso in entrambi. La Sua Misericordia avvolge i due mondi; il Sovrano, il Glorioso, Colui che è al di sopra di ogni mancanza, Colui che è privo di imperfezioni, Colui che testimonia per i Suoi messaggeri con i Segni gloriosi, Vigile sulle opere dei Suoi sudditi, Il Potente, Colui che non può essere vinto da nessuno, Il Fortissimo, Il Dominatore, Colui che Domina ogni cosa con la Sua Autorità, Il Fiero. Lungi Allāh dagli idoli, o altro, che Gli associano gli idolatri, Egli è molto al di sopra di ciò!
 
 # 5150
 
@@ -23040,13 +23040,13 @@ in verità il Fuoco è la dimora in cui andrà a finire.
 
 # 5752
 
-40 - 41 – Chi ha temuto di presentarsi dinanzi al suo Dio e si è astenuto dai desideri che Allāh ha proibito, in verità il Paradiso è la dimora in cui andrà a finire.
+Chi ha temuto di presentarsi dinanzi al suo Dio e si è astenuto dai desideri che Allāh ha proibito, in verità il Paradiso è la dimora in cui andrà a finire.
 
 # 5753
 
 <!-- TODO:DUPLICATE -->
 
-40 - 41 – Chi ha temuto di presentarsi dinanzi al suo Dio e si è astenuto dai desideri che Allāh ha proibito, in verità il Paradiso è la dimora in cui andrà a finire.
+Chi ha temuto di presentarsi dinanzi al suo Dio e si è astenuto dai desideri che Allāh ha proibito, in verità il Paradiso è la dimora in cui andrà a finire.
 
 # 5754
 

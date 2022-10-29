@@ -36,13 +36,13 @@ Bu azametli Kur'an'ın ne indirilmesi, ne lafzı,ne de manasında hiç bir şüp
 
 # 10
 
-3-4 Onlar gaybe inanırlar. Gayb; Ahiret günü gibi Allah'ın ya da resulünün haber verdiği, bize gizli kalıp duyularla hissedilmeyen her şeydir. Onlar, Allah'ın emrettiği şekilde şartları, rukünleri, vacipleri ve sünnetlerine uygun olarak namazı dosdoğru kılan kimselerdir. Onlar, Allah'ın sevabını umarak zekât gibi verilmesi farz olan veya sadaka gibi farz olmayan, Allah'ın kendilerine rızık olarak verdiği şeylerden infak ederler. Ey Peygamber! Onlar Allah'ın sana ve senden önce gönderdiği bütün peygamberlere -aleyhimusselam- indirdiği vahye ayırt etmeksizin iman ederler. Ve onlar ahirete, orada verilecek olan sevap ve cezaya kesin bir inançla iman ederler.
+Onlar gaybe inanırlar. Gayb; Ahiret günü gibi Allah'ın ya da resulünün haber verdiği, bize gizli kalıp duyularla hissedilmeyen her şeydir. Onlar, Allah'ın emrettiği şekilde şartları, rukünleri, vacipleri ve sünnetlerine uygun olarak namazı dosdoğru kılan kimselerdir. Onlar, Allah'ın sevabını umarak zekât gibi verilmesi farz olan veya sadaka gibi farz olmayan, Allah'ın kendilerine rızık olarak verdiği şeylerden infak ederler. Ey Peygamber! Onlar Allah'ın sana ve senden önce gönderdiği bütün peygamberlere -aleyhimusselam- indirdiği vahye ayırt etmeksizin iman ederler. Ve onlar ahirete, orada verilecek olan sevap ve cezaya kesin bir inançla iman ederler.
 
 # 11
 
 <!-- TODO:DUPLICATE -->
 
-3-4 Onlar gaybe inanırlar. Gayb; Ahiret günü gibi Allah'ın ya da resulünün haber verdiği, bize gizli kalıp duyularla hissedilmeyen her şeydir. Onlar, Allah'ın emrettiği şekilde şartları, rukünleri, vacipleri ve sünnetlerine uygun olarak namazı dosdoğru kılan kimselerdir. Onlar, Allah'ın sevabını umarak zekât gibi verilmesi farz olan veya sadaka gibi farz olmayan, Allah'ın kendilerine rızık olarak verdiği şeylerden infak ederler. Ey Peygamber! Onlar Allah'ın sana ve senden önce gönderdiği bütün peygamberlere -aleyhimusselam- indirdiği vahye ayırt etmeksizin iman ederler. Ve onlar ahirete, orada verilecek olan sevap ve cezaya kesin bir inançla iman ederler.
+Onlar gaybe inanırlar. Gayb; Ahiret günü gibi Allah'ın ya da resulünün haber verdiği, bize gizli kalıp duyularla hissedilmeyen her şeydir. Onlar, Allah'ın emrettiği şekilde şartları, rukünleri, vacipleri ve sünnetlerine uygun olarak namazı dosdoğru kılan kimselerdir. Onlar, Allah'ın sevabını umarak zekât gibi verilmesi farz olan veya sadaka gibi farz olmayan, Allah'ın kendilerine rızık olarak verdiği şeylerden infak ederler. Ey Peygamber! Onlar Allah'ın sana ve senden önce gönderdiği bütün peygamberlere -aleyhimusselam- indirdiği vahye ayırt etmeksizin iman ederler. Ve onlar ahirete, orada verilecek olan sevap ve cezaya kesin bir inançla iman ederler.
 
 # 12
 
@@ -1182,11 +1182,11 @@ Allah, O'ndan başka ibadete layık hiçbir hak ilah yoktur. O, ölümsüz olan 
 
 # 296
 
-3-4 Ey Peygamber! Haberleri doğru, hükümleri adaletli ve önceki ilahi kitaplara da uygun olan Kur'an'ı sana indiren O'dur. Bu kitapların arasında bir çelişki yoktur. O, Kur'an'ı sana indirmeden önce Tevrat'ı, Musa, İncil'i de İsa -aleyhimesselam-'a indirendir. Bu ilahi kitapların hepsi insanların din ve dünyalarının iyi olması hususunda hidayet ve irşat eder. O; Hak ile batılın, hidayet ile sapıklığın kendisi ile bilindiği Furkan'ı indirdi. Allah'ın sana indirdiği ayetleri inkâr eden kâfirler var ya işte onlar için çetin bir azap vardır. Allah; hiç bir şeyin O'na üstün gelemeyeceği şekilde Aziz'dir. Peygamberlerini yalanlayanlardan ve emrine karşı gelenlerden intikam alandır.
+Ey Peygamber! Haberleri doğru, hükümleri adaletli ve önceki ilahi kitaplara da uygun olan Kur'an'ı sana indiren O'dur. Bu kitapların arasında bir çelişki yoktur. O, Kur'an'ı sana indirmeden önce Tevrat'ı, Musa, İncil'i de İsa -aleyhimesselam-'a indirendir. Bu ilahi kitapların hepsi insanların din ve dünyalarının iyi olması hususunda hidayet ve irşat eder. O; Hak ile batılın, hidayet ile sapıklığın kendisi ile bilindiği Furkan'ı indirdi. Allah'ın sana indirdiği ayetleri inkâr eden kâfirler var ya işte onlar için çetin bir azap vardır. Allah; hiç bir şeyin O'na üstün gelemeyeceği şekilde Aziz'dir. Peygamberlerini yalanlayanlardan ve emrine karşı gelenlerden intikam alandır.
 
 # 297
 
-3-4 Ey Peygamber! Haberlerinin doğru, hükümlerinin adaletli olduğu ve önceki ilahi kitaplara da uygun olan Kur'an'ı sana indiren O'dur. Bu kitapların arasında bir çelişki yoktur. O, Kur'an'ı sana indirmeden önce Tevrat'ı, Musa, İncil'i de İsa -aleyhimesselam-'a indirendir. Bu ilahi kitapların hepsi insanların din ve dünyalarının iyi olması hususunda hidayet ve irşat eder. O; Hak ile batılın, hidayet ile sapıklığın kendisi ile bilindiği Furkan'ı indirdi. Allah'ın sana indirdiği ayetleri inkâr eden kâfirler var ya işte onlar için çetin bir azap vardır. Allah; hiç bir şeyin O'na üstün gelemeyeceği şekilde Aziz'dir. Peygamberlerini yalanlayanlardan ve emrine karşı gelenlerden intikam alandır.
+Ey Peygamber! Haberlerinin doğru, hükümlerinin adaletli olduğu ve önceki ilahi kitaplara da uygun olan Kur'an'ı sana indiren O'dur. Bu kitapların arasında bir çelişki yoktur. O, Kur'an'ı sana indirmeden önce Tevrat'ı, Musa, İncil'i de İsa -aleyhimesselam-'a indirendir. Bu ilahi kitapların hepsi insanların din ve dünyalarının iyi olması hususunda hidayet ve irşat eder. O; Hak ile batılın, hidayet ile sapıklığın kendisi ile bilindiği Furkan'ı indirdi. Allah'ın sana indirdiği ayetleri inkâr eden kâfirler var ya işte onlar için çetin bir azap vardır. Allah; hiç bir şeyin O'na üstün gelemeyeceği şekilde Aziz'dir. Peygamberlerini yalanlayanlardan ve emrine karşı gelenlerden intikam alandır.
 
 # 298
 
@@ -2234,15 +2234,15 @@ Durum hiç de bu münafıkların iddia ettiği gibi değildir. Allah -Azze ve Ce
 
 # 559
 
-66-68- Onlara, birbirlerini öldürmeyi veya ülkelerinden çıkıp gitmelerini farz kılmış olsaydık, onlardan pek az kimse dışında çoğu bu emrimizi yerine getirmezdi. Allah’a hamt etsinler ki, Allah onları meşakkatli şeylerle mükellef kılmadı. Şayet onlar kendilerine söylenen Allah'a itaat olan emirleri yapmış olsalardı, muhalefet etmelerinden daha hayırlı, imanları için de çok daha sağlam olurdu. Biz de onlara kendi katımızdan çok büyük sevap verir ve onları Allah’a ve cennetine ulaştıran yola ulaştırırdık.
+Onlara, birbirlerini öldürmeyi veya ülkelerinden çıkıp gitmelerini farz kılmış olsaydık, onlardan pek az kimse dışında çoğu bu emrimizi yerine getirmezdi. Allah’a hamt etsinler ki, Allah onları meşakkatli şeylerle mükellef kılmadı. Şayet onlar kendilerine söylenen Allah'a itaat olan emirleri yapmış olsalardı, muhalefet etmelerinden daha hayırlı, imanları için de çok daha sağlam olurdu. Biz de onlara kendi katımızdan çok büyük sevap verir ve onları Allah’a ve cennetine ulaştıran yola ulaştırırdık.
 
 # 560
 
-66-68- Onlara, birbirlerini öldürmeyi veya ülkelerinden çıkıp gitmelerini farz kılmış olsaydık onlardan pek az kimse dışında çoğu bu emrimizi yerine getirmezdi. Allah’a hamt etsinler ki, Allah onları meşakkatli şeylerle mükellef kılmadı. Şayet onlar kendilerine söylenen Allah'a itaat olan emirleri yapmış olsalardı, muhalefet etmelerinden daha hayırlı, imanları için de çok daha sağlam olurdu. Biz de onlara kendi katımızdan çok büyük sevap verir ve onları Allah’a ve cennetine ulaştıran yola ulaştırırdık.
+Onlara, birbirlerini öldürmeyi veya ülkelerinden çıkıp gitmelerini farz kılmış olsaydık onlardan pek az kimse dışında çoğu bu emrimizi yerine getirmezdi. Allah’a hamt etsinler ki, Allah onları meşakkatli şeylerle mükellef kılmadı. Şayet onlar kendilerine söylenen Allah'a itaat olan emirleri yapmış olsalardı, muhalefet etmelerinden daha hayırlı, imanları için de çok daha sağlam olurdu. Biz de onlara kendi katımızdan çok büyük sevap verir ve onları Allah’a ve cennetine ulaştıran yola ulaştırırdık.
 
 # 561
 
-66-68- Onlara birbirlerini öldürmeyi veya ülkelerinden çıkıp gitmelerini farz kılmış olsaydık onlardan pek az kimse dışında çoğu bu emrimizi yerine getirmezdi. Allah’a hamt etsinler ki, Allah onları meşakkatli şeylerle mükellef kılmadı. Şayet onlar kendilerine söylenen Allah'a itaat olan emirleri yapmış olsalardı, muhalefet etmelerinden daha hayırlı, imanları için de çok daha sağlam olurdu. Biz de onlara kendi katımızdan çok büyük sevap verir ve onları Allah’a ve cennetine ulaştıran yola ulaştırırdık.
+Onlara birbirlerini öldürmeyi veya ülkelerinden çıkıp gitmelerini farz kılmış olsaydık onlardan pek az kimse dışında çoğu bu emrimizi yerine getirmezdi. Allah’a hamt etsinler ki, Allah onları meşakkatli şeylerle mükellef kılmadı. Şayet onlar kendilerine söylenen Allah'a itaat olan emirleri yapmış olsalardı, muhalefet etmelerinden daha hayırlı, imanları için de çok daha sağlam olurdu. Biz de onlara kendi katımızdan çok büyük sevap verir ve onları Allah’a ve cennetine ulaştıran yola ulaştırırdık.
 
 # 562
 
@@ -2362,13 +2362,13 @@ Melekler, küfür diyarından İslam beldesine hicret etmeyi terk ederek kendile
 
 # 591
 
-98-99- Yapılan haksızlığa ve eziyetlere karşı kendilerini savunacak güçleri bulunmayan, zayıf, özür sahibi erkek, kadın ve çocuklar bu tehdidin dışında kalırlar. Bu kişiler içinde bulundukları zorluktan kurtulmak için bir yol bulamayan kimselerdir. Umulur ki Allah, rahmeti ve lütfuyla onları affeder. Allah kullarını affeden, tövbe edenleri de bağışlayandır.
+Yapılan haksızlığa ve eziyetlere karşı kendilerini savunacak güçleri bulunmayan, zayıf, özür sahibi erkek, kadın ve çocuklar bu tehdidin dışında kalırlar. Bu kişiler içinde bulundukları zorluktan kurtulmak için bir yol bulamayan kimselerdir. Umulur ki Allah, rahmeti ve lütfuyla onları affeder. Allah kullarını affeden, tövbe edenleri de bağışlayandır.
 
 # 592
 
 <!-- TODO:DUPLICATE -->
 
-98-99- Yapılan haksızlığa ve eziyetlere karşı kendilerini savunacak güçleri bulunmayan, zayıf, özür sahibi erkek, kadın ve çocuklar bu tehdidin dışında kalırlar. Bu kişiler içinde bulundukları zorluktan kurtulmak için bir yol bulamayan kimselerdir. Umulur ki Allah, rahmeti ve lütfuyla onları affeder. Allah kullarını affeden, tövbe edenleri de bağışlayandır.
+Yapılan haksızlığa ve eziyetlere karşı kendilerini savunacak güçleri bulunmayan, zayıf, özür sahibi erkek, kadın ve çocuklar bu tehdidin dışında kalırlar. Bu kişiler içinde bulundukları zorluktan kurtulmak için bir yol bulamayan kimselerdir. Umulur ki Allah, rahmeti ve lütfuyla onları affeder. Allah kullarını affeden, tövbe edenleri de bağışlayandır.
 
 # 593
 
@@ -6108,13 +6108,13 @@ Kavmi şöyle dedi: Ey Hûd! Bizi sana iman edenlerden kılacak açık deliller 
 
 # 1527
 
-54-55- "Bizi ilahlara ibadet etmekten nehyetmen sebebiyle biz ancak, bazı ilahlarımızın sana delilik isabet ettirdiğini söyleriz", dediler. Hûd -aleyhisselam- ise onlara şöyle cevap verdi: "Ben, Allah'ı şahit tutuyorum; siz de şahit olun ki ben sizin Allah'tan gayrı ibadet edip kendilerini Allah'a ortak koştuğunuz ilahlarınızdan uzağım. Siz ve bana delilik isabet ettirdiklerini iddia ettiğiniz ilahlarınız bana tuzak kurun. Sonra da bana mühlet de vermeyin.''
+"Bizi ilahlara ibadet etmekten nehyetmen sebebiyle biz ancak, bazı ilahlarımızın sana delilik isabet ettirdiğini söyleriz", dediler. Hûd -aleyhisselam- ise onlara şöyle cevap verdi: "Ben, Allah'ı şahit tutuyorum; siz de şahit olun ki ben sizin Allah'tan gayrı ibadet edip kendilerini Allah'a ortak koştuğunuz ilahlarınızdan uzağım. Siz ve bana delilik isabet ettirdiklerini iddia ettiğiniz ilahlarınız bana tuzak kurun. Sonra da bana mühlet de vermeyin.''
 
 # 1528
 
 <!-- TODO:DUPLICATE -->
 
-54-55- "Bizi ilahlara ibadet etmekten nehyetmen sebebiyle biz ancak, bazı ilahlarımızın sana delilik isabet ettirdiğini söyleriz", dediler. Hûd -aleyhisselam- ise onlara şöyle cevap verdi: "Ben, Allah'ı şahit tutuyorum; siz de şahit olun ki ben sizin Allah'tan gayrı ibadet edip kendilerini Allah'a ortak koştuğunuz ilahlarınızdan uzağım. Siz ve bana delilik isabet ettirdiklerini iddia ettiğiniz ilahlarınız bana tuzak kurun. Sonra da bana mühlet de vermeyin.''
+"Bizi ilahlara ibadet etmekten nehyetmen sebebiyle biz ancak, bazı ilahlarımızın sana delilik isabet ettirdiğini söyleriz", dediler. Hûd -aleyhisselam- ise onlara şöyle cevap verdi: "Ben, Allah'ı şahit tutuyorum; siz de şahit olun ki ben sizin Allah'tan gayrı ibadet edip kendilerini Allah'a ortak koştuğunuz ilahlarınızdan uzağım. Siz ve bana delilik isabet ettirdiklerini iddia ettiğiniz ilahlarınız bana tuzak kurun. Sonra da bana mühlet de vermeyin.''
 
 # 1529
 
@@ -7198,11 +7198,11 @@ Bu intikam kıyamet günü kâfirlerden alınacaktır. Yeryüzü pak beyaz bir y
 
 # 1799
 
-49-50 -Ey Resul!- Yeryüzünün ve gökyüzünün başkasıyla değiştirildiği gün, kâfir ve müşriklerin bazısının bazısına zincirlerle bağlandığını görürsün. Elleri ve ayakları boyunlarında zincirlerle bağlanarak birleştirilir. O gün giyecekleri elbiseleri katrandandır (o da hızlı tutuşan bir maddedir). Asık olan yüzlerini ateş kaplar.
+-Ey Resul!- Yeryüzünün ve gökyüzünün başkasıyla değiştirildiği gün, kâfir ve müşriklerin bazısının bazısına zincirlerle bağlandığını görürsün. Elleri ve ayakları boyunlarında zincirlerle bağlanarak birleştirilir. O gün giyecekleri elbiseleri katrandandır (o da hızlı tutuşan bir maddedir). Asık olan yüzlerini ateş kaplar.
 
 # 1800
 
-49-50 -Ey Rasû!l- Yeryüzünün ve gökyüzünün başkasıyla değiştirildiği gün, kâfir ve müşriklerin bazısının bazısına zincirlerle bağlandığını görürsün. Elleri ve ayakları boyunlarında zincirlerle bağlanarak birleştirilir. O gün giyecekleri elbiseleri katrandandır (o da hızlı tutuşan bir maddedir). Asık olan yüzlerini ateş kaplar.
+-Ey Rasû!l- Yeryüzünün ve gökyüzünün başkasıyla değiştirildiği gün, kâfir ve müşriklerin bazısının bazısına zincirlerle bağlandığını görürsün. Elleri ve ayakları boyunlarında zincirlerle bağlanarak birleştirilir. O gün giyecekleri elbiseleri katrandandır (o da hızlı tutuşan bir maddedir). Asık olan yüzlerini ateş kaplar.
 
 # 1801
 
@@ -8894,7 +8894,7 @@ Yıkılmaya yüz tutmuş duvarı düzeltmeme karşı çıkmana gelince, bu duvar
 
 # 2223
 
-- Ey Resul!- Müşrik ve Yahudiler, Zülkarneyn'in haberinden sorarak seni imtihan etmek istiyorlar. De ki: "Öğüt almanız ve hatırlamanız için onun haberinden bir kısmını size okuyacağım."
+-Ey Resul!- Müşrik ve Yahudiler, Zülkarneyn'in haberinden sorarak seni imtihan etmek istiyorlar. De ki: "Öğüt almanız ve hatırlamanız için onun haberinden bir kısmını size okuyacağım."
 
 # 2224
 
@@ -9358,7 +9358,7 @@ Yahudiler, Hristiyanlar ve bazı müşrikler: "Rahman, çocuk edindi." dediler.
 
 # 2339
 
-- Ey bu sözü söyleyenler!- Çok büyük bir şey ile geldiniz.
+-Ey bu sözü söyleyenler!- Çok büyük bir şey ile geldiniz.
 
 # 2340
 
@@ -10642,7 +10642,7 @@ Göklerde ve yerde ne varsa hepsinin mülkü yalnızca Allah’ındır. Şüphes
 
 # 2660
 
-- Ey Resul!- Allah'ın, faydalanmanız ve ihtiyaçlarını görmeniz için yeryüzündeki hayvanları ve cansız varlıkları senin ve insanların hizmetine sunduğunu görmez misin? Denizde emri ile hareket eden ve bir beldeden başka bir beldeye gitmenizi kolaylaştıran gemileri sizin hizmetinize sunmuştur. Göğü de kendi izni olmadıkça yer üzerine düşmemesi için tutar. Eğer düşmesi için izin verse hemen düşerdi. Allah, insanlara karşı gerçekten çok şefkatli ve merhametlidir. Öyle ki, kendi içlerindeki zulme rağmen bu şeyleri onların hizmetine sunmuştur.
+-Ey Resul!- Allah'ın, faydalanmanız ve ihtiyaçlarını görmeniz için yeryüzündeki hayvanları ve cansız varlıkları senin ve insanların hizmetine sunduğunu görmez misin? Denizde emri ile hareket eden ve bir beldeden başka bir beldeye gitmenizi kolaylaştıran gemileri sizin hizmetinize sunmuştur. Göğü de kendi izni olmadıkça yer üzerine düşmemesi için tutar. Eğer düşmesi için izin verse hemen düşerdi. Allah, insanlara karşı gerçekten çok şefkatli ve merhametlidir. Öyle ki, kendi içlerindeki zulme rağmen bu şeyleri onların hizmetine sunmuştur.
 
 # 2661
 
@@ -17302,11 +17302,11 @@ Kıyamet gününde onları Allah'ın azabından kurtaracak hiçbir dostları yok
 
 # 4321
 
-49-50 Göklerin ve yerin mülkü (hükümranlığı) Allah'ındır. Dilediğini erkek veya dişi veya o ikisinden başka bir şey yaratır. İstediğine nesil olarak kız çocuğu verir ve onu erkek çocuklardan mahrum eder. Dilediğine erkek çocuğu verir ve onu kız çocuklardan mahrum eder. Veya dilediğine erkek ve kız çocuğunu birlikte verir. Dilediğini de kısır kimse yapar ve hiç çocuğu olmaz. Şüphesiz, var olan her şeyi ve gelecekte var olacak şeyleri çok iyi bilir. Bu O'nun ilminin tam ve hikmetinin kamil olduğuna delildir. Hiçbir şey O'na gizli kalmaz. O'nu hiçbir şey aciz bırakamaz.
+Göklerin ve yerin mülkü (hükümranlığı) Allah'ındır. Dilediğini erkek veya dişi veya o ikisinden başka bir şey yaratır. İstediğine nesil olarak kız çocuğu verir ve onu erkek çocuklardan mahrum eder. Dilediğine erkek çocuğu verir ve onu kız çocuklardan mahrum eder. Veya dilediğine erkek ve kız çocuğunu birlikte verir. Dilediğini de kısır kimse yapar ve hiç çocuğu olmaz. Şüphesiz, var olan her şeyi ve gelecekte var olacak şeyleri çok iyi bilir. Bu O'nun ilminin tam ve hikmetinin kamil olduğuna delildir. Hiçbir şey O'na gizli kalmaz. O'nu hiçbir şey aciz bırakamaz.
 
 # 4322
 
-49-50 Göklerin ve yerin mülkü (hükümranlığı) Allah'ındır. Dilediğini erkek veya dişi olarak yaratır. İstediğine nesil olarak kız çocuğu verir ve onu erkek çocuklardan mahrum eder. Dilediğine erkek çocuğu verir ve onu kız çocuklardan mahrum eder. Veya dilediğine erkek ve kız çocuğunu birlikte verir. Dilediğini de kısır kimse yapar ve hiç çocuğu olmaz. Şüphesiz, var olan her şeyi ve gelecekte var olacak şeyleri çok iyi bilir. Bu O'nun ilminin tam ve hikmetinin kamil olduğuna delildir. Hiçbir şey O'na gizli kalmaz. O'nu hiçbir şey aciz bırakamaz.
+Göklerin ve yerin mülkü (hükümranlığı) Allah'ındır. Dilediğini erkek veya dişi olarak yaratır. İstediğine nesil olarak kız çocuğu verir ve onu erkek çocuklardan mahrum eder. Dilediğine erkek çocuğu verir ve onu kız çocuklardan mahrum eder. Veya dilediğine erkek ve kız çocuğunu birlikte verir. Dilediğini de kısır kimse yapar ve hiç çocuğu olmaz. Şüphesiz, var olan her şeyi ve gelecekte var olacak şeyleri çok iyi bilir. Bu O'nun ilminin tam ve hikmetinin kamil olduğuna delildir. Hiçbir şey O'na gizli kalmaz. O'nu hiçbir şey aciz bırakamaz.
 
 # 4323
 
@@ -20296,13 +20296,13 @@ Onun için ardında yorgunluk olmayan rahatlık, güzel rızık ve rahmet vardı
 
 # 5069
 
-90-91 Eğer ölen kişi sağ taraf ehlinden ise onların durumu için kaygı duyma. Zira onlar için selamet ve güven vardır.
+Eğer ölen kişi sağ taraf ehlinden ise onların durumu için kaygı duyma. Zira onlar için selamet ve güven vardır.
 
 # 5070
 
 <!-- TODO:DUPLICATE -->
 
-90-91 Eğer ölen kişi sağ taraf ehlinden ise onların durumu için kaygı duyma. Zira onlar için selamet ve güven vardır.
+Eğer ölen kişi sağ taraf ehlinden ise onların durumu için kaygı duyma. Zira onlar için selamet ve güven vardır.
 
 # 5071
 
@@ -20614,11 +20614,11 @@ Cehennem ehliyle cennet ehli bir olmaz. Cennet ehli ile cehennem ehli, dünyadak
 
 # 5148
 
-22 - 23 - O öyle Allah'tır ki, O'ndan başka hak mabut (ilah) yoktur. Görülmeyeni de görüleni de bilendir. Bundan hiçbir şey O'na gizli kalmaz. Dünyada ve ahirette Rahman'dır (çok merhametlidir). O'nun rahmeti bütün alemleri kuşatmıştır. O, Melik'tir. Her türlü eksiklikten münezzehtir, yücedir. Her kusurdan uzaktır. Peygamberlerini, ayetleri (mucizeleri) ve delilleri ile tasdikleyendir. Kullarının amellerini hakkıyla gözetendir. Hiç kimsenin kendisine galip gelemeyeceği Aziz/mutlak galiptir. O, Cebbar'dır. Her şeye ululuğu ile üstün gelendir. Mütekebbir'dir. Allah Teâlâ, müşriklerin O'na ortak koştukları putlardan ve diğer şeylerden münezzeh ve yücedir.
+O öyle Allah'tır ki, O'ndan başka hak mabut (ilah) yoktur. Görülmeyeni de görüleni de bilendir. Bundan hiçbir şey O'na gizli kalmaz. Dünyada ve ahirette Rahman'dır (çok merhametlidir). O'nun rahmeti bütün alemleri kuşatmıştır. O, Melik'tir. Her türlü eksiklikten münezzehtir, yücedir. Her kusurdan uzaktır. Peygamberlerini, ayetleri (mucizeleri) ve delilleri ile tasdikleyendir. Kullarının amellerini hakkıyla gözetendir. Hiç kimsenin kendisine galip gelemeyeceği Aziz/mutlak galiptir. O, Cebbar'dır. Her şeye ululuğu ile üstün gelendir. Mütekebbir'dir. Allah Teâlâ, müşriklerin O'na ortak koştukları putlardan ve diğer şeylerden münezzeh ve yücedir.
 
 # 5149
 
-22 - 23 - O öyle Allah'tır ki, O'ndan başka hak mabut (ilah) yoktur. Görülmeyeni de görüleni de bilendir. Bundan hiçbir şey O'na gizli kalmaz. Dünyada ve ahirette Rahman'dır (çok merhametlidir). O'nun rahmeti bütün alemleri kuşatmıştır. O, Melik'tir. Her türlü eksiklikten münezzehtir, yücedir. Her kusurdan uzaktır. Peygamberlerini, ayetleri (mucizeleri) ve delilleri ile tasdikleyendir. Kullarının amellerini hakkıyla gözetendir. Hiç kimsenin kendisine galip gelemeyeceği Aziz/mutlak galiptir. O, Cebbar'dır. Her şeye ululuğu ile üstün gelendir. O, Mütekebbir'dir. Allah Teâlâ, müşriklerin O'na ortak koştukları putlardan ve diğer şeylerden münezzeh ve yücedir.
+O öyle Allah'tır ki, O'ndan başka hak mabut (ilah) yoktur. Görülmeyeni de görüleni de bilendir. Bundan hiçbir şey O'na gizli kalmaz. Dünyada ve ahirette Rahman'dır (çok merhametlidir). O'nun rahmeti bütün alemleri kuşatmıştır. O, Melik'tir. Her türlü eksiklikten münezzehtir, yücedir. Her kusurdan uzaktır. Peygamberlerini, ayetleri (mucizeleri) ve delilleri ile tasdikleyendir. Kullarının amellerini hakkıyla gözetendir. Hiç kimsenin kendisine galip gelemeyeceği Aziz/mutlak galiptir. O, Cebbar'dır. Her şeye ululuğu ile üstün gelendir. O, Mütekebbir'dir. Allah Teâlâ, müşriklerin O'na ortak koştukları putlardan ve diğer şeylerden münezzeh ve yücedir.
 
 # 5150
 
@@ -23030,13 +23030,13 @@ Muhakkak cehennem ateşi onun barınacağı yerleşim yeri olacaktır.
 
 # 5752
 
-40-41 Her kim de Rabbinin huzurunda olmaktan korkarak kendini Allah’ın haram kıldığı arzularından alıkoyarsa, muhakkak cennet onun barınacağı yerleşim yeridir.
+Her kim de Rabbinin huzurunda olmaktan korkarak kendini Allah’ın haram kıldığı arzularından alıkoyarsa, muhakkak cennet onun barınacağı yerleşim yeridir.
 
 # 5753
 
 <!-- TODO:DUPLICATE -->
 
-40-41 Her kim de Rabbinin huzurunda olmaktan korkarak kendini Allah’ın haram kıldığı arzularından alıkoyarsa, muhakkak cennet onun barınacağı yerleşim yeridir.
+Her kim de Rabbinin huzurunda olmaktan korkarak kendini Allah’ın haram kıldığı arzularından alıkoyarsa, muhakkak cennet onun barınacağı yerleşim yeridir.
 
 # 5754
 

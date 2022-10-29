@@ -16,8 +16,11 @@ import (
 var (
 	nAyah = 6_236
 
-	rxNewlines     = regexp.MustCompile(`\s*\n+\s*`)
-	rxTafsirNumber = regexp.MustCompile(`^\(\d+\)\s*`)
+	rxNewlines           = regexp.MustCompile(`\s*\n+\s*`)
+	rxTafsirNumber       = regexp.MustCompile(`^\(\d+\)\s*`)
+	rxTafsirNumberCommon = regexp.MustCompile(`^[\d,\s\.、–-]+\s*`)
+	rxTafsirNumberTr     = regexp.MustCompile(`^[\d,\s\.-]+\s+`)
+	rxTrHyphenPrefix     = regexp.MustCompile(`^\s*-\s*`)
 )
 
 func parseAllPages(cacheDir, language string) ([]string, error) {
@@ -67,8 +70,19 @@ func parsePage(cacheDir, language string, surah int) ([]string, error) {
 	var tafsirs []string
 	for _, p := range dom.QuerySelectorAll(doc, "#cnt p") {
 		text := dom.TextContent(p)
-		text = rxTafsirNumber.ReplaceAllString(text, "")
 		text = rxNewlines.ReplaceAllString(text, " ")
+		text = rxTafsirNumber.ReplaceAllString(text, "")
+
+		// Do some little cleaning
+		switch language {
+		case "ja": // Do nothing
+		case "tr":
+			text = rxTrHyphenPrefix.ReplaceAllString(text, "-")
+			text = rxTafsirNumberTr.ReplaceAllString(text, "")
+		default:
+			text = rxTafsirNumberCommon.ReplaceAllString(text, "")
+		}
+
 		tafsirs = append(tafsirs, strings.TrimSpace(text))
 	}
 
