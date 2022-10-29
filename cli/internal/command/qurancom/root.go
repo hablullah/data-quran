@@ -109,23 +109,44 @@ func cliAction(c *cli.Context) error {
 	}
 
 	// Parse word translations
-	listWordTranslations := map[string]map[string]string{}
+	madaniTexts := map[string]string{}
+	indopakTexts := map[string]string{}
+	wordTranslations := map[string]map[string]string{}
 	for _, lang := range languagesForWord {
-		words, err := parseAllWords(cacheDir, lang)
+		texts, translations, err := parseAllWords(cacheDir, lang)
 		if err != nil {
 			return err
-		} else if len(words) > 0 {
-			listWordTranslations[lang] = words
+		} else if len(translations) == 0 {
+			continue
+		}
+
+		wordTranslations[lang] = translations
+		if lang == "en" {
+			for key, text := range texts {
+				madaniTexts[key] = text.Madani
+				indopakTexts[key] = text.Indopak
+			}
 		}
 	}
 
 	// Write word translations
 	for _, lang := range languagesForWord {
-		translations := listWordTranslations[lang]
+		translations := wordTranslations[lang]
 		err = writeWordTranslations(dstDir, lang, translations)
 		if err != nil {
 			return err
 		}
+	}
+
+	// Write word texts
+	err = writeWordTexts(dstDir, "madani", madaniTexts)
+	if err != nil {
+		return err
+	}
+
+	err = writeWordTexts(dstDir, "indopak", indopakTexts)
+	if err != nil {
+		return err
 	}
 
 	return nil

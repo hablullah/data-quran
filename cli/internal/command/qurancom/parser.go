@@ -107,6 +107,11 @@ type AllSurahInfoOutput struct {
 	Texts    map[int]string
 }
 
+type WordText struct {
+	Indopak string
+	Madani  string
+}
+
 func parseListSurah(cacheDir string, language string) (map[string]ListSurahOutput, error) {
 	// Open file
 	path := fmt.Sprintf("list-%s.json", language)
@@ -254,43 +259,49 @@ func parseSurahInfo(cacheDir, language string, surah int, mdc *md.Converter) (*S
 	}, nil
 }
 
-func parseAllWords(cacheDir, language string) (map[string]string, error) {
+func parseAllWords(cacheDir, language string) (map[string]WordText, map[string]string, error) {
 	logrus.Printf("parsing word for %s", language)
 
 	// Extract each surah in this language
-	var idx int
-	words := map[string]string{}
+	var id int
+	texts := map[string]WordText{}
+	translations := map[string]string{}
 
 	for surah := 1; surah <= 114; surah++ {
-		surahWords, err := parseWords(cacheDir, language, surah)
+		sTexts, sTranslations, err := parseWords(cacheDir, language, surah)
 		if err != nil {
-			return nil, err
+			return nil, nil, err
 		}
 
-		for _, sw := range surahWords {
-			idx++
-			key := fmt.Sprintf("%05d", idx)
-			words[key] = sw
+		for i := range sTranslations {
+			id++
+			key := fmt.Sprintf("%05d", id)
+			translations[key] = sTranslations[i]
+
+			if language == "en" {
+				texts[key] = sTexts[i]
+			}
 		}
 	}
 
 	// Check if info complete
-	if n := len(words); n != nWords {
+	if n := len(translations); n != nWords {
 		logrus.Warnf("word for %s: want %d got %d", language, nWords, n)
-		return nil, nil
+		return nil, nil, nil
 	}
 
-	return words, nil
+	return texts, translations, nil
 }
 
-func parseWords(cacheDir, language string, surah int) ([]string, error) {
+func parseWords(cacheDir, language string, surah int) ([]WordText, []string, error) {
 	// Open file
 	path := fmt.Sprintf("word-%s-%03d.json", language, surah)
 	path = filepath.Join(cacheDir, path)
 
 	f, err := os.Open(path)
 	if err != nil {
-		return nil, fmt.Errorf("fail to open word for %s %d: %w", language, surah, err)
+		err = fmt.Errorf("fail to open word for %s %d: %w", language, surah, err)
+		return nil, nil, err
 	}
 	defer f.Close()
 
@@ -298,11 +309,13 @@ func parseWords(cacheDir, language string, surah int) ([]string, error) {
 	var srcData WordSource
 	err = json.NewDecoder(f).Decode(&srcData)
 	if err != nil {
-		return nil, fmt.Errorf("fail to decode word for %s %d: %w", language, surah, err)
+		err = fmt.Errorf("fail to decode word for %s %d: %w", language, surah, err)
+		return nil, nil, err
 	}
 
 	// Get list of word tranlations
-	var words []string
+	var texts []WordText
+	var translations []string
 	for _, verse := range srcData.Verses {
 		for _, word := range verse.Words {
 			// We only care about word
@@ -314,20 +327,27 @@ func parseWords(cacheDir, language string, surah int) ([]string, error) {
 			// fallback into using English language. In this case, we
 			// will just put missing mark.
 			if word.Translation.LanguageName == "english" && language != "en" {
-				words = append(words, "[[MISSING]]")
-				continue
+				translations = append(translations, "[[MISSING]]")
+			} else {
+				// Normalize and clean
+				wordTrans := word.Translation.Text
+				wordTrans = norm.NormalizeUnicode(wordTrans)
+				if wordTrans == "" {
+					wordTrans = "[[MISSING]]"
+				}
+
+				translations = append(translations, wordTrans)
 			}
 
-			// Normalize and clean
-			wordTrans := word.Translation.Text
-			wordTrans = norm.NormalizeUnicode(wordTrans)
-			if wordTrans == "" {
-				wordTrans = "[[MISSING]]"
+			// Save the texts as well (only for English)
+			if language == "en" {
+				texts = append(texts, WordText{
+					Indopak: norm.NormalizeUnicode(word.TextIndopak),
+					Madani:  norm.NormalizeUnicode(word.TextMadani),
+				})
 			}
-
-			words = append(words, wordTrans)
 		}
 	}
 
-	return words, nil
+	return texts, translations, nil
 }

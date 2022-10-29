@@ -24,6 +24,7 @@ func cleanDstDir(dstDir string) error {
 		switch dDir {
 		case "surah-info",
 			"surah-translation",
+			"word-text",
 			"word-translation":
 			return os.Remove(path)
 		}
@@ -129,7 +130,33 @@ func writeWordTranslations(dstDir string, language string, translations map[stri
 	dstPath = filepath.Join(dstDir, dstPath)
 	err := util.EncodeSortedKeyJson(dstPath, &translations)
 	if err != nil {
-		return fmt.Errorf("create file for word %s failed: %w", language, err)
+		return fmt.Errorf("create file for word trans %s failed: %w", language, err)
+	}
+
+	return nil
+}
+
+func writeWordTexts(dstDir string, name string, texts map[string]string) error {
+	// If data is empty, stop
+	if len(texts) == 0 {
+		return nil
+	}
+
+	logrus.Printf("writing word text %s", name)
+
+	// Prepare destination dir
+	dstDir = filepath.Join(dstDir, "word-text")
+	os.MkdirAll(dstDir, os.ModePerm)
+
+	// Prepare destination path
+	dstPath := fmt.Sprintf("%s-qurancom.json", name)
+	dstPath = filepath.Join(dstDir, dstPath)
+
+	// Encode data to file
+	dstPath = filepath.Join(dstDir, dstPath)
+	err := util.EncodeSortedKeyJson(dstPath, &texts)
+	if err != nil {
+		return fmt.Errorf("create file for word text %s failed: %w", name, err)
 	}
 
 	return nil
