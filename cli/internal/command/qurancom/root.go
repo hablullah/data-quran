@@ -109,11 +109,9 @@ func cliAction(c *cli.Context) error {
 	}
 
 	// Parse word translations
-	madaniTexts := map[string]string{}
-	indopakTexts := map[string]string{}
 	wordTranslations := map[string]map[string]string{}
 	for _, lang := range languagesForWord {
-		texts, translations, err := parseAllWords(cacheDir, lang)
+		translations, err := parseAllWordTranslations(cacheDir, lang)
 		if err != nil {
 			return err
 		} else if len(translations) == 0 {
@@ -121,12 +119,6 @@ func cliAction(c *cli.Context) error {
 		}
 
 		wordTranslations[lang] = translations
-		if lang == "en" {
-			for key, text := range texts {
-				madaniTexts[key] = text.Madani
-				indopakTexts[key] = text.Indopak
-			}
-		}
 	}
 
 	// Write word translations
@@ -138,13 +130,14 @@ func cliAction(c *cli.Context) error {
 		}
 	}
 
-	// Write word texts
-	err = writeWordTexts(dstDir, "madani", madaniTexts)
+	// Parse word texts
+	wordTexts, err := parseAllWordTexts(cacheDir)
 	if err != nil {
 		return err
 	}
 
-	err = writeWordTexts(dstDir, "indopak", indopakTexts)
+	// Write word texts
+	err = writeWordTexts(dstDir, wordTexts)
 	if err != nil {
 		return err
 	}
