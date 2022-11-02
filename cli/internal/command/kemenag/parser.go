@@ -2,6 +2,7 @@ package kemenag
 
 import (
 	"data-quran-cli/internal/norm"
+	"data-quran-cli/internal/util"
 	"encoding/json"
 	"fmt"
 	"os"
@@ -87,6 +88,10 @@ func parseTafsir(srcPath string) ([]Tafsir, error) {
 		// Clean up
 		wajiz = cleanTafsirWajiz(wajiz)
 		tahlili = cleanTafsirTahlili(tahlili)
+
+		// Make it save to use in markdown
+		wajiz = util.MarkdownText(wajiz)
+		tahlili = util.MarkdownText(tahlili)
 
 		tafsir.TafsirWajiz = wajiz
 		tafsir.TafsirTahlili = tahlili

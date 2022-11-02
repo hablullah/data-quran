@@ -6098,7 +6098,7 @@ That is of the stories of the unseen: We Reveal it unto thee: thou knewest it no
 
 # 1523
 
-And unto 'Aad We sent their brother Hud. He said: O my people! worship Allah; ` there is no god for you but he; ye are but fabricators.
+And unto 'Aad We sent their brother Hud. He said: O my people! worship Allah; \` there is no god for you but he; ye are but fabricators.
 
 # 1524
 
@@ -8194,7 +8194,7 @@ How many a generation have We destroyed after Nuh; and sufficeth for the offence
 
 # 2047
 
-- Whosoever intendeth the quick Passing world, We hasten to him therein whatsoever We please unto whomsoever We intend; thereafter We shall appoint for him Hell wherein he shall roast, reproved, rejected.
+\- Whosoever intendeth the quick Passing world, We hasten to him therein whatsoever We please unto whomsoever We intend; thereafter We shall appoint for him Hell wherein he shall roast, reproved, rejected.
 
 # 2048
 
@@ -8942,7 +8942,7 @@ Until when he arrived between the two mountains, he found beside them a people w
 
 # 2234
 
-`They said: O Zul-Qarnain verily Yajuj and Majuj are working corruption in the land; shall we then pay thee tribute on condition that thou place between us and them a barrier!
+\`They said: O Zul-Qarnain verily Yajuj and Majuj are working corruption in the land; shall we then pay thee tribute on condition that thou place between us and them a barrier!
 
 # 2235
 
@@ -9226,191 +9226,191 @@ And mention thou in the Book lsma'i; verily he was true in promise, and was apos
 
 # 2305
 
-And he was wont to command his household to the Prayer and the poor-rate, and he was with his Lord an approved one. *Chapter: 19
+And he was wont to command his household to the Prayer and the poor-rate, and he was with his Lord an approved one. \*Chapter: 19
 
 # 2306
 
-And mention thou in the book ldris, verily he was a man of truth, a prophet. *Chapter: 19
+And mention thou in the book ldris, verily he was a man of truth, a prophet. \*Chapter: 19
 
 # 2307
 
-And We exalted him to a position lofty. *Chapter: 19
+And We exalted him to a position lofty. \*Chapter: 19
 
 # 2308
 
-These are they whom Allah hath favoured, from among the prophets, of the progeny of Adam and of them whom We bare with Nuh, and of the progeny of Ibrahim and Isra'il, and of those whom We have guided and chosen; whenever the revelations of the Compassionate were rehearsed unto them, they fell down prostrating themselves and weeping. *Chapter: 19
+These are they whom Allah hath favoured, from among the prophets, of the progeny of Adam and of them whom We bare with Nuh, and of the progeny of Ibrahim and Isra'il, and of those whom We have guided and chosen; whenever the revelations of the Compassionate were rehearsed unto them, they fell down prostrating themselves and weeping. \*Chapter: 19
 
 # 2309
 
-Then there succeeded to them a posterity who neglected the prayers and followed lusts; so presently they shall meet with perdition. *Chapter: 19
+Then there succeeded to them a posterity who neglected the prayers and followed lusts; so presently they shall meet with perdition. \*Chapter: 19
 
 # 2310
 
-Excepting those who may repent and believe and work righteously; these shall enter the Garden and shall not be wronged at all *Chapter: 19
+Excepting those who may repent and believe and work righteously; these shall enter the Garden and shall not be wronged at all \*Chapter: 19
 
 # 2311
 
-Gardens Everlasting, which the Compassionate hath promised unto his bondmen, unseen; verily His premise is ever to be fulfilled. *Chapter: 19
+Gardens Everlasting, which the Compassionate hath promised unto his bondmen, unseen; verily His premise is ever to be fulfilled. \*Chapter: 19
 
 # 2312
 
-They shall not hear therein any vain word, but they shall hear only peace; and therein they shall have their provision morning and evening. *Chapter: 19
+They shall not hear therein any vain word, but they shall hear only peace; and therein they shall have their provision morning and evening. \*Chapter: 19
 
 # 2313
 
-Such is the Garden which We shall cause those of Our bondmen to inherit who have been God-fearing. *Chapter: 19
+Such is the Garden which We shall cause those of Our bondmen to inherit who have been God-fearing. \*Chapter: 19
 
 # 2314
 
-And we descend not except by the command of thy Lord: his is whatsoever is before us and whatsoever is behind us and whatsoever is in-between; and thy Lord is not a forgetter *Chapter: 19
+And we descend not except by the command of thy Lord: his is whatsoever is before us and whatsoever is behind us and whatsoever is in-between; and thy Lord is not a forgetter \*Chapter: 19
 
 # 2315
 
-Lord of the heavens and the earth and that which is betwixt the twain; so Him worship thou, and endure patiently in His worship; knowest thou any as his compeer? *Chapter: 19
+Lord of the heavens and the earth and that which is betwixt the twain; so Him worship thou, and endure patiently in His worship; knowest thou any as his compeer? \*Chapter: 19
 
 # 2316
 
-And man saith: when I am daed, Shall I be presently brought forth alive. *Chapter: 19
+And man saith: when I am daed, Shall I be presently brought forth alive. \*Chapter: 19
 
 # 2317
 
-Remembereth not man that We created him afore when he was not aught? *Chapter: 19
+Remembereth not man that We created him afore when he was not aught? \*Chapter: 19
 
 # 2318
 
-By thy Lord, then, We shall surely gather them and the satans; thereafter We shall surely bring them round Hell, kneeling. *Chapter: 19
+By thy Lord, then, We shall surely gather them and the satans; thereafter We shall surely bring them round Hell, kneeling. \*Chapter: 19
 
 # 2319
 
-Thereafter, We shall surely draw aside, from each sect, whichever of them against the Compassionate were most in excess. *Chapter: 19
+Thereafter, We shall surely draw aside, from each sect, whichever of them against the Compassionate were most in excess. \*Chapter: 19
 
 # 2320
 
-Then surely it is We who are the Best Knower of these worthiest of being therein roasted. *Chapter: 19
+Then surely it is We who are the Best Knower of these worthiest of being therein roasted. \*Chapter: 19
 
 # 2321
 
-And not one of you but shall pass over it: it is for thy Lord an ordinance decreed. *Chapter: 19
+And not one of you but shall pass over it: it is for thy Lord an ordinance decreed. \*Chapter: 19
 
 # 2322
 
-Then We shall deliver those who have feared, and shall have the wrong-doers therein kneeling. *Chapter: 19
+Then We shall deliver those who have feared, and shall have the wrong-doers therein kneeling. \*Chapter: 19
 
 # 2323
 
-And when Our manifest revelations are rehearsed unto them, those who disbelieve say unto those who believe: which of the two portions is better in station and goodlier in company? *Chapter: 19
+And when Our manifest revelations are rehearsed unto them, those who disbelieve say unto those who believe: which of the two portions is better in station and goodlier in company? \*Chapter: 19
 
 # 2324
 
-And how many a generation have We destroyed before these, who were goodlier in goods and outward appearance? *Chapter: 19
+And how many a generation have We destroyed before these, who were goodlier in goods and outward appearance? \*Chapter: 19
 
 # 2325
 
-Say thou: whosoever is in error--surely unto him the Compassionate lengtheneth a length, until When they behold that wherewith they were threatened, either the torment or the Hour, then they shall come to know whosoever is worse in position and weaker as an army. *Chapter: 19
+Say thou: whosoever is in error--surely unto him the Compassionate lengtheneth a length, until When they behold that wherewith they were threatened, either the torment or the Hour, then they shall come to know whosoever is worse in position and weaker as an army. \*Chapter: 19
 
 # 2326
 
-And Allah increaseth in guidance those who let themselves be guided, and the righteous works that last are excellent with thy Lord in respect of reward and excellent in respect of return. *Chapter: 19
+And Allah increaseth in guidance those who let themselves be guided, and the righteous works that last are excellent with thy Lord in respect of reward and excellent in respect of return. \*Chapter: 19
 
 # 2327
 
-Hast thou observed him who disbelieveth in Our signs and saith: surely I shall be vouchsafed riches and children. *Chapter: 19
+Hast thou observed him who disbelieveth in Our signs and saith: surely I shall be vouchsafed riches and children. \*Chapter: 19
 
 # 2328
 
-Hath he looked unto the Unseen, or hath he taken of the Compassionate a covenant? *Chapter: 19
+Hath he looked unto the Unseen, or hath he taken of the Compassionate a covenant? \*Chapter: 19
 
 # 2329
 
-By no means! We shall write down that which he saith; and We shall lengthen for him of the torment a length. *Chapter: 19
+By no means! We shall write down that which he saith; and We shall lengthen for him of the torment a length. \*Chapter: 19
 
 # 2330
 
-And We shall inherit from him that whereof he spake, and he shall come to us alone. *Chapter: 19
+And We shall inherit from him that whereof he spake, and he shall come to us alone. \*Chapter: 19
 
 # 2331
 
-And they have taken gods beside Allah that they might be unto them a glory. *Chapter: 19
+And they have taken gods beside Allah that they might be unto them a glory. \*Chapter: 19
 
 # 2332
 
-By no means! anon they shall deny their worship, and become unto them an adversary. *Chapter: 19
+By no means! anon they shall deny their worship, and become unto them an adversary. \*Chapter: 19
 
 # 2333
 
-Beholdest thou not that We have sent the satans upon the infidels inciting them by an incitement? *Chapter: 19
+Beholdest thou not that We have sent the satans upon the infidels inciting them by an incitement? \*Chapter: 19
 
 # 2334
 
-So hasten thou not against them; We are only counting against them a counting. *Chapter: 19
+So hasten thou not against them; We are only counting against them a counting. \*Chapter: 19
 
 # 2335
 
-On the Day whereon We shall gather the God-feaing unto the Com- passionate as an embassy. *Chapter: 19
+On the Day whereon We shall gather the God-feaing unto the Com- passionate as an embassy. \*Chapter: 19
 
 # 2336
 
-And shall drive the culprits to Hell as a herd. *Chapter: 19
+And shall drive the culprits to Hell as a herd. \*Chapter: 19
 
 # 2337
 
-They shall not own intercession, excepting those who have taken of the Compassionate a covenant. *Chapter: 19
+They shall not own intercession, excepting those who have taken of the Compassionate a covenant. \*Chapter: 19
 
 # 2338
 
-And they say: the Compassionate hath taken a son. *Chapter: 19
+And they say: the Compassionate hath taken a son. \*Chapter: 19
 
 # 2339
 
-Assuredly ye have brought a thing monstrous. *Chapter: 19
+Assuredly ye have brought a thing monstrous. \*Chapter: 19
 
 # 2340
 
-Well-nigh the heavens are rent thereat and the earth cleft in sunder and the mountains fall down in pieces. *Chapter: 19
+Well-nigh the heavens are rent thereat and the earth cleft in sunder and the mountains fall down in pieces. \*Chapter: 19
 
 # 2341
 
-That they should ascribe unto the Compassionate a son. *Chapter: 19
+That they should ascribe unto the Compassionate a son. \*Chapter: 19
 
 # 2342
 
-And it behoveth not the Compassionate that he should take a son. *Chapter: 19
+And it behoveth not the Compassionate that he should take a son. \*Chapter: 19
 
 # 2343
 
-None there is in the heavens and the earth but must come unto the Compassionate as a bondman. *Chapter: 19
+None there is in the heavens and the earth but must come unto the Compassionate as a bondman. \*Chapter: 19
 
 # 2344
 
-Assuredly He hath comprehanded them and counted them a full Counting. *Chapter: 19
+Assuredly He hath comprehanded them and counted them a full Counting. \*Chapter: 19
 
 # 2345
 
-And each of them is to come to Him on the Day of Judgment alone. *Chapter: 19
+And each of them is to come to Him on the Day of Judgment alone. \*Chapter: 19
 
 # 2346
 
-Verily those who believe and do righteOUs works--anon the Compassionate shall appoint for them affection. *Chapter: 19
+Verily those who believe and do righteOUs works--anon the Compassionate shall appoint for them affection. \*Chapter: 19
 
 # 2347
 
-So We have made it easy in thine tongue in order that thou mayest thereby give glad tidings unto the Godfearing and warn thereby a people contentious. *Chapter: 19
+So We have made it easy in thine tongue in order that thou mayest thereby give glad tidings unto the Godfearing and warn thereby a people contentious. \*Chapter: 19
 
 # 2348
 
-And how many a generation have We destroyed before them! Perceivest thou of them anyone or hear of them a whisper? *Chapter: 20
+And how many a generation have We destroyed before them! Perceivest thou of them anyone or hear of them a whisper? \*Chapter: 20
 
 # 2349
 
-Ta. Ha. *Chapter: 20
+Ta. Ha. \*Chapter: 20
 
 # 2350
 
-We have not Sent down on thee the Qur'an that thou shouldst be distressed. *Chapter: 20
+We have not Sent down on thee the Qur'an that thou shouldst be distressed. \*Chapter: 20
 
 # 2351
 
-But only as an admonition unto him who feareth. *Chapter: 20
+But only as an admonition unto him who feareth. \*Chapter: 20
 
 # 2352
 
@@ -14730,7 +14730,7 @@ Neither darknesses and light,
 
 # 3681
 
-- Nor the shade and the sun's heat.
+\- Nor the shade and the sun's heat.
 
 # 3682
 
@@ -14814,7 +14814,7 @@ Verily Allah withholdeth the heavens and the earth lest they cease; and should t
 
 # 3702
 
-And`they swear by God with a most solemn oath, that if there came a warnet Unto them, they would surely be better guided than any of the other communities. Then when there did come Unto them a warner, it increased in them naught save aversion,-
+And\`they swear by God with a most solemn oath, that if there came a warnet Unto them, they would surely be better guided than any of the other communities. Then when there did come Unto them a warner, it increased in them naught save aversion,-
 
 # 3703
 
@@ -18870,7 +18870,7 @@ Then We laid hold of him and his hosts and flung them into the sea, and he was r
 
 # 4716
 
-And in `A-ad also was a lesson, when We sent against them the barren wind.
+And in \`A-ad also was a lesson, when We sent against them the barren wind.
 
 # 4717
 
@@ -19426,7 +19426,7 @@ Hastening toward the summoner. The infidels will say: this is a day diffrcult.
 
 # 4855
 
-There belied before them the people of Nuh. So they belied Our bondman Nuh and said: `a madman;' and moreover he was reproven.
+There belied before them the people of Nuh. So they belied Our bondman Nuh and said: \`a madman;' and moreover he was reproven.
 
 # 4856
 
@@ -24470,7 +24470,7 @@ Bethinkest thou him who forbiddeth,
 
 # 6116
 
-A bondman of Ours when he prayeth *
+A bondman of Ours when he prayeth \*
 
 # 6117
 

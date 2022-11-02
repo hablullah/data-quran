@@ -578,7 +578,7 @@ Sie sagen: "Werdet Juden oder Christen, so seid ihr rechtgeleitet." Sag: Nein! V
 
 # 143
 
-Sagt: Wir glauben an Allah und an das, was zu uns (als Offenbarung) herabgesandt worden ist, und an das, was zu Ibrahim, Isma'il, lshaq, Ya`qub und den Stämmen herabgesandt wurde, und (an das,) was Musa und 'Isa gegeben wurde, und (an das,) was den Propheten von ihrem Herrn gegeben wurde. Wir machen keinen Unterschied bei jemandem von ihnen, und wir sind Ihm ergeben.
+Sagt: Wir glauben an Allah und an das, was zu uns (als Offenbarung) herabgesandt worden ist, und an das, was zu Ibrahim, Isma'il, lshaq, Ya\`qub und den Stämmen herabgesandt wurde, und (an das,) was Musa und 'Isa gegeben wurde, und (an das,) was den Propheten von ihrem Herrn gegeben wurde. Wir machen keinen Unterschied bei jemandem von ihnen, und wir sind Ihm ergeben.
 
 # 144
 
@@ -2562,7 +2562,7 @@ Gewiß, die Heuchler werden sich auf dem untersten Grund des (Höllen)feuers bef
 
 # 639
 
-- ausgenommen diejenigen, die bereuen und verbessern und an Allah festhalten und ihre Religion aufrichtig für Allah ausüben; jene werden mit den Gläubigen sein. Und Allah wird den Gläubigen großartigen Lohn geben.
+\- ausgenommen diejenigen, die bereuen und verbessern und an Allah festhalten und ihre Religion aufrichtig für Allah ausüben; jene werden mit den Gläubigen sein. Und Allah wird den Gläubigen großartigen Lohn geben.
 
 # 640
 
@@ -2818,7 +2818,7 @@ Der Lohn derjenigen, die Krieg führen gegen Allah und Seinen Gesandten und sich
 
 # 703
 
-- außer denjenigen, die bereuen, bevor ihr Macht über sie habt. So wisset, daß Allah Allvergebend und Barmherzig ist.
+\- außer denjenigen, die bereuen, bevor ihr Macht über sie habt. So wisset, daß Allah Allvergebend und Barmherzig ist.
 
 # 704
 
@@ -3898,7 +3898,7 @@ Er (Allah) sagte: "Geh hinaus aus ihm, verachtet und verstoßen! Wer auch immer 
 
 # 973
 
-- Und (du,) o Adam, bewohne du und deine Gattin den (Paradies)garten, und dann eßt, wo immer ihr wollt. Aber naht euch nicht diesem Baum, sonst gehört ihr zu den Ungerechten!"
+\- Und (du,) o Adam, bewohne du und deine Gattin den (Paradies)garten, und dann eßt, wo immer ihr wollt. Aber naht euch nicht diesem Baum, sonst gehört ihr zu den Ungerechten!"
 
 # 974
 
@@ -10550,7 +10550,7 @@ Erlaubnis (zum Kampf) ist denjenigen gegeben, die bekämpft werden, weil ihnen j
 
 # 2636
 
-- (Ihnen), die, wenn Wir ihnen eine feste Stellung auf der Erde verleihen, das Gebet verrichten und die Abgabe entrichten, das Rechte gebieten und das Verwerfliche verbieten. Und Allah gehört das Ende der Angelegenheiten.
+\- (Ihnen), die, wenn Wir ihnen eine feste Stellung auf der Erde verleihen, das Gebet verrichten und die Abgabe entrichten, das Rechte gebieten und das Verwerfliche verbieten. Und Allah gehört das Ende der Angelegenheiten.
 
 # 2637
 
@@ -10726,7 +10726,7 @@ außer gegenüber ihren Gattinnen oder was ihre rechte Hand (an Sklavinnen) besi
 
 # 2680
 
-- wer aber darüber hinaus (etwas) begehrt, das sind die Übertreter -,
+\- wer aber darüber hinaus (etwas) begehrt, das sind die Übertreter -,
 
 # 2681
 
@@ -11502,7 +11502,7 @@ Sie werden sagen: "Preis sei Dir! Es ziemte uns nicht, uns anstatt Deiner (ander
 
 # 2874
 
-- "Nun haben sie euch in dem, was ihr sagt, der Lüge bezichtigt. Da könnt ihr weder (etwas) abwenden noch Hilfe erfahren. Und wer von euch Unrecht tut, den lassen Wir große Strafe kosten "
+\- "Nun haben sie euch in dem, was ihr sagt, der Lüge bezichtigt. Da könnt ihr weder (etwas) abwenden noch Hilfe erfahren. Und wer von euch Unrecht tut, den lassen Wir große Strafe kosten "
 
 # 2875
 
@@ -15242,11 +15242,11 @@ Und sie werden sagen: "O wehe uns! Das ist der Tag des Gerichts!"
 
 # 3809
 
-- "Das ist der Tag der Entscheidung, den ihr für Lüge zu erklären pflegtet.
+\- "Das ist der Tag der Entscheidung, den ihr für Lüge zu erklären pflegtet.
 
 # 3810
 
-- (Zu den Engeln des Gerichts wird gesagt:) Versammelt (nun) diejenigen, die Unrecht getan haben, ihre Gattinnen und das, dem sie dienten
+\- (Zu den Engeln des Gerichts wird gesagt:) Versammelt (nun) diejenigen, die Unrecht getan haben, ihre Gattinnen und das, dem sie dienten
 
 # 3811
 
@@ -15258,7 +15258,7 @@ und stellt sie auf, denn sie werden befragt werden."
 
 # 3813
 
-- (Und es wird zu ihnen gesagt:) "Was ist mit euch, daß ihr einander nicht unterstützt?"
+\- (Und es wird zu ihnen gesagt:) "Was ist mit euch, daß ihr einander nicht unterstützt?"
 
 # 3814
 
@@ -15942,7 +15942,7 @@ und die Tamud und das Volk Luts und die Bewohner des Dickichts; das sind die Gru
 
 # 3984
 
-Al]e ausnahmslos bezichtigten die Gesandten der Lüge, so wurde Meine Bestra fung unvermeidlich fällig.
+Al\]e ausnahmslos bezichtigten die Gesandten der Lüge, so wurde Meine Bestra fung unvermeidlich fällig.
 
 # 3985
 
@@ -16054,7 +16054,7 @@ Und gedenke Unseres Dieners Ayyub. Als er zu seinem Herrn rief: "Mich hat der Sa
 
 # 4012
 
-- "Tritt kräftig mit deinem Fuß auf; da ist kühles Wasser zum Waschen und zum Trinken."
+\- "Tritt kräftig mit deinem Fuß auf; da ist kühles Wasser zum Waschen und zum Trinken."
 
 # 4013
 
@@ -16122,7 +16122,7 @@ und anderes dergleichen in verschiedenen Arten.
 
 # 4029
 
-- "Da ist eine Schar, die sich mit euch hineinstürzt." - "Sie sind nicht willkommen, denn sie werden dem (Höllen)feuer ausgesetzt sein."
+\- "Da ist eine Schar, die sich mit euch hineinstürzt." - "Sie sind nicht willkommen, denn sie werden dem (Höllen)feuer ausgesetzt sein."
 
 # 4030
 
@@ -16474,7 +16474,7 @@ Oder daß sie nicht etwa, wenn sie die Strafe sieht, sage(n soll): "Wenn ich doc
 
 # 4117
 
-- "Aber ja! Meine Zeichen sind doch zu dir gekommen. Da hast du sie für Lüge erklärt und dich hochmütig verhalten und hast zu den Ungläubigen gehört."
+\- "Aber ja! Meine Zeichen sind doch zu dir gekommen. Da hast du sie für Lüge erklärt und dich hochmütig verhalten und hast zu den Ungläubigen gehört."
 
 # 4118
 
@@ -17006,7 +17006,7 @@ Wir sind eure Beschützer im diesseitigen Leben und im Jenseits. Ihr werdet dari
 
 # 4250
 
-- eine gastliche Aufnahme von einem Allvergebenden, einem Barmherzigen."
+\- eine gastliche Aufnahme von einem Allvergebenden, einem Barmherzigen."
 
 # 4251
 
@@ -17754,7 +17754,7 @@ Da rief er zu seinem Herrn: "Diese sind ein Volk von Übeltätern."
 
 # 4437
 
-- "Zieh bei Nacht mit Meinen Dienern fort; ihr werdet ja verfolgt werden.
+\- "Zieh bei Nacht mit Meinen Dienern fort; ihr werdet ja verfolgt werden.
 
 # 4438
 
@@ -18622,7 +18622,7 @@ Und sein Geselle wird sagen: "Das ist, was bei mir bereit ist."
 
 # 4654
 
-- "Werft, ihr beide, in die Hölle jeden beharrlichen, widerspenstigen Ungläubigen,
+\- "Werft, ihr beide, in die Hölle jeden beharrlichen, widerspenstigen Ungläubigen,
 
 # 4655
 
@@ -18702,7 +18702,7 @@ Gewiß, Wir sind es, die Wir wieder lebendig machen und sterben lassen, und zu U
 
 # 4674
 
-- Am Tag, da die Erde, sie freilassend, sich ihnen aufspalten wird und sie eilig (hervorkommen). Das ist für Uns ein leichtes Versammeln.
+\- Am Tag, da die Erde, sie freilassend, sich ihnen aufspalten wird und sie eilig (hervorkommen). Das ist für Uns ein leichtes Versammeln.
 
 # 4675
 
@@ -18758,7 +18758,7 @@ Sie fragen: "Wann wird denn der Tag des Gerichts sein?"
 
 # 4688
 
-- Am Tag, da sie im Feuer geprüft werden.
+\- Am Tag, da sie im Feuer geprüft werden.
 
 # 4689
 
@@ -19762,7 +19762,7 @@ Wenn der Himmel sich spalten und dann rosig werden wird wie Farböl
 
 # 4939
 
-- welche der Wohltaten eures Herrn wollt ihr beide denn leugnen? -,
+\- welche der Wohltaten eures Herrn wollt ihr beide denn leugnen? -,
 
 # 4940
 
@@ -19798,7 +19798,7 @@ Für jemanden aber, der den Stand seines Herrn fürchtet, wird es zwei Gärten g
 
 # 4948
 
-- welche der Wohltaten eures Herrn wollt ihr beide denn leugnen? -,
+\- welche der Wohltaten eures Herrn wollt ihr beide denn leugnen? -,
 
 # 4949
 
@@ -19838,7 +19838,7 @@ Darin sind (weibliche Wesen), die ihre Blicke zurückhalten, die vor ihnen weder
 
 # 4958
 
-- welche der Wohltaten eures Herrn wollt ihr beide denn leugnen? -,
+\- welche der Wohltaten eures Herrn wollt ihr beide denn leugnen? -,
 
 # 4959
 
@@ -19862,7 +19862,7 @@ Unterhalb der beiden gibt es (noch) zwei andere Gärten
 
 # 4964
 
-- welche der Wohltaten eures Herrn wollt ihr beide denn leugnen? -,
+\- welche der Wohltaten eures Herrn wollt ihr beide denn leugnen? -,
 
 # 4965
 
@@ -19894,7 +19894,7 @@ Darin sind gute schöne (weibliche Wesen)
 
 # 4972
 
-- welche der Wohltaten eures Herrn wollt ihr beide denn leugnen? -,
+\- welche der Wohltaten eures Herrn wollt ihr beide denn leugnen? -,
 
 # 4973
 
@@ -20226,7 +20226,7 @@ Nein! Ich schwöre bei den Standorten der Sterne
 
 # 5055
 
-- und das ist wahrlich, wenn ihr (nur) wüßtet, ein gewaltiger Schwur:
+\- und das ist wahrlich, wenn ihr (nur) wüßtet, ein gewaltiger Schwur:
 
 # 5056
 
@@ -21418,7 +21418,7 @@ Vernichtet ist meine Macht(fülle)."
 
 # 5353
 
-- "Nehmt ihn und fesselt ihn dann.
+\- "Nehmt ihn und fesselt ihn dann.
 
 # 5354
 
@@ -21618,11 +21618,11 @@ und diejenigen, die wegen der Strafe ihres Herrn besorgt sind,
 
 # 5403
 
-- denn gewiß, vor der Strafe ihres Herrn (kann) sich niemand sicher glauben,
+\- denn gewiß, vor der Strafe ihres Herrn (kann) sich niemand sicher glauben,
 
 # 5404
 
-- und diejenigen, die ihre Scham hüten,
+\- und diejenigen, die ihre Scham hüten,
 
 # 5405
 
@@ -21630,11 +21630,11 @@ außer gegenüber ihren Gattinnen oder was ihre rechte Hand (an Sklavinnen) besi
 
 # 5406
 
-- wer aber darüber hinaus (etwas) begehrt, das sind die Übertreter,
+\- wer aber darüber hinaus (etwas) begehrt, das sind die Übertreter,
 
 # 5407
 
-- und diejenigen, die auf die ihnen anvertrauten Güter und ihre Verpflichtung achtgeben,
+\- und diejenigen, die auf die ihnen anvertrauten Güter und ihre Verpflichtung achtgeben,
 
 # 5408
 
@@ -22346,7 +22346,7 @@ Hierauf ging er zu seinen Angehörigen, stolzierend.
 
 # 5585
 
-- "Wehe dir, ja wehe!
+\- "Wehe dir, ja wehe!
 
 # 5586
 
@@ -22598,7 +22598,7 @@ Haben Wir nicht die Erde zu einem Ort der Aufbewahrung gemacht
 
 # 5648
 
-- für die Lebenden und die Toten -
+\- für die Lebenden und die Toten -
 
 # 5649
 
@@ -22610,7 +22610,7 @@ Wehe an jenem Tag den Leugnern!
 
 # 5651
 
-- "Zieht los zu dem, was ihr stets für Lüge erklärt habt,
+\- "Zieht los zu dem, was ihr stets für Lüge erklärt habt,
 
 # 5652
 
@@ -22646,7 +22646,7 @@ Wehe an jenem Tag den Leugnern!
 
 # 5660
 
-- "Das ist der Tag der Entscheidung; Wir haben euch mit den Früheren versammelt.
+\- "Das ist der Tag der Entscheidung; Wir haben euch mit den Früheren versammelt.
 
 # 5661
 
@@ -22666,7 +22666,7 @@ und bei Früchten von dem, was sie begehren.
 
 # 5665
 
-- "Eßt und trinkt als wohlbekömmlich für das, was ihr zu tun pflegtet."
+\- "Eßt und trinkt als wohlbekömmlich für das, was ihr zu tun pflegtet."
 
 # 5666
 
@@ -22678,7 +22678,7 @@ Wehe an jenem Tag den Leugnern!
 
 # 5668
 
-- "Eßt und genießt ein wenig, ihr seid ja Übeltäter."
+\- "Eßt und genießt ein wenig, ihr seid ja Übeltäter."
 
 # 5669
 
@@ -24110,7 +24110,7 @@ Nein, Ich schwöre bei dieser Ortschaft
 
 # 6026
 
-- und bei einem (jeden) Erzeuger und dem, was er zeugt.
+\- und bei einem (jeden) Erzeuger und dem, was er zeugt.
 
 # 6027
 

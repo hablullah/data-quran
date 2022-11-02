@@ -7,7 +7,6 @@ import (
 	"os"
 	"path/filepath"
 	"regexp"
-	"strings"
 
 	"github.com/go-shiori/dom"
 	"github.com/sirupsen/logrus"
@@ -83,7 +82,8 @@ func parsePage(cacheDir, language string, surah int) ([]string, error) {
 			text = rxTafsirNumberCommon.ReplaceAllString(text, "")
 		}
 
-		tafsirs = append(tafsirs, strings.TrimSpace(text))
+		text = util.MarkdownText(text)
+		tafsirs = append(tafsirs, text)
 	}
 
 	// Check count

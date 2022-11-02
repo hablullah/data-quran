@@ -1,10 +1,10 @@
 # 1
 
-Cette formule signifie que c’est au nom d’Allah que je débute la lecture du Coran, en implorant Son aide et en recherchant la bénédiction attachée à la mention de Son nom. La basmalah( ) renferme en son sein, trois des Plus Beaux Noms d’Allah, à savoir: - `Allâhu, La Divinité par excellence, Celui qui est adoré à bon droit. Ce nom appartient exclusivement à Allah et ne désigne aucun autre être que Lui, exalté soit-Il. - `Ar-Raħmânu, Celui dont la miséricorde est étendue. Il est donc Le Tout-Miséricordieux. - `Ar-Raħîmu, Celui dont la miséricorde est continue. Il est donc Celui qui enveloppe de Sa miséricorde les créatures de Son choix, plus précisément Ses serviteurs croyants.
+Cette formule signifie que c’est au nom d’Allah que je débute la lecture du Coran, en implorant Son aide et en recherchant la bénédiction attachée à la mention de Son nom. La basmalah( ) renferme en son sein, trois des Plus Beaux Noms d’Allah, à savoir: - \`Allâhu, La Divinité par excellence, Celui qui est adoré à bon droit. Ce nom appartient exclusivement à Allah et ne désigne aucun autre être que Lui, exalté soit-Il. - \`Ar-Raħmânu, Celui dont la miséricorde est étendue. Il est donc Le Tout-Miséricordieux. - \`Ar-Raħîmu, Celui dont la miséricorde est continue. Il est donc Celui qui enveloppe de Sa miséricorde les créatures de Son choix, plus précisément Ses serviteurs croyants.
 
 # 2
 
-La louange désigne ici la célébration des attributs divins, plus particulièrement des attributs de la majesté et de perfection qu’Il détient Seul à l’exclusion de tout autre être, puisqu’Il est le Seigneur (`ar-rabbu) et le Créateur (`al-khâliqu) et de toute chose ainsi que Celui qui en dispose (`al-mudabbiru). Le mot `al-’âlamîna (déclinaison de `al-’âlamûna) est le pluriel de ‘âlamun et désigne l’ensemble de la Création, c’est-à-dire tout ce qui existe à l’exception d’Allah, exalté soit-Il.
+La louange désigne ici la célébration des attributs divins, plus particulièrement des attributs de la majesté et de perfection qu’Il détient Seul à l’exclusion de tout autre être, puisqu’Il est le Seigneur (\`ar-rabbu) et le Créateur (\`al-khâliqu) et de toute chose ainsi que Celui qui en dispose (\`al-mudabbiru). Le mot \`al-’âlamîna (déclinaison de \`al-’âlamûna) est le pluriel de ‘âlamun et désigne l’ensemble de la Création, c’est-à-dire tout ce qui existe à l’exception d’Allah, exalté soit-Il.
 
 # 3
 
@@ -20,7 +20,7 @@ Dans ce verset, les créatures confessent leur statut de servitude et de vulnér
 
 # 6
 
-Les créatures implorent Allah de leur indiquer le droit chemin, de leur inspirer le désir de suivre cette voie et de leur accorder la force de s’y maintenir. Le droit chemin (`aṣ-ṣirâṭu l-mustaqîmu) désigne la voie droite, celle dont le tracé clair ne comporte aucune sinuosité. Il représente l’Islam, la religion transmise par le prophète Muħammad à l’humanité.
+Les créatures implorent Allah de leur indiquer le droit chemin, de leur inspirer le désir de suivre cette voie et de leur accorder la force de s’y maintenir. Le droit chemin (\`aṣ-ṣirâṭu l-mustaqîmu) désigne la voie droite, celle dont le tracé clair ne comporte aucune sinuosité. Il représente l’Islam, la religion transmise par le prophète Muħammad à l’humanité.
 
 # 7
 
@@ -28,25 +28,25 @@ Différentes voies s’offrent à l’homme au cours de sa vie terrestre. La voi
 
 # 8
 
-`Alif, Lâm, Mîm: Ces lettres font partie des lettres «lumineuses», des lettres isolées qui apparaissent au début de certaines sourates. Ce sont à première vue des lettres de l’alphabet dépourvues de signification propre, qui ont été placées au début de ces sourates pour une raison connue d’Allah seul, car, tout dans le Qur’an y a été placé pour une raison précise. La présence de ces lettres relève du miracle coranique: les dénégateurs se trouvent en effet face à un texte composé des mêmes lettres que celles qu’ils connaissent et utilisent au quotidien, et pourtant, malgré le défi qui leur a été lancé, ils sont dans l’incapacité de produire un texte comparable au Coran. C’est pourquoi les lettres lumineuses sont la plupart du temps suivies d’une mention du Livre, comme c’est le cas pour cette sourate.
+\`Alif, Lâm, Mîm: Ces lettres font partie des lettres «lumineuses», des lettres isolées qui apparaissent au début de certaines sourates. Ce sont à première vue des lettres de l’alphabet dépourvues de signification propre, qui ont été placées au début de ces sourates pour une raison connue d’Allah seul, car, tout dans le Qur’an y a été placé pour une raison précise. La présence de ces lettres relève du miracle coranique: les dénégateurs se trouvent en effet face à un texte composé des mêmes lettres que celles qu’ils connaissent et utilisent au quotidien, et pourtant, malgré le défi qui leur a été lancé, ils sont dans l’incapacité de produire un texte comparable au Coran. C’est pourquoi les lettres lumineuses sont la plupart du temps suivies d’une mention du Livre, comme c’est le cas pour cette sourate.
 
 # 9
 
-Le Livre par excellence est le Coran (`al-qur`ânu). Il ne saurait être entaché par le doute: que ce doute concerne sa révélation ou bien les mots qui le composent ou leur sens. En effet, il est la parole d’Allah qui guide les pieux vers le chemin aboutissant à Lui
+Le Livre par excellence est le Coran (\`al-qur\`ânu). Il ne saurait être entaché par le doute: que ce doute concerne sa révélation ou bien les mots qui le composent ou leur sens. En effet, il est la parole d’Allah qui guide les pieux vers le chemin aboutissant à Lui
 
 # 10
 
-Ce verset désigne ceux qui accomplissent la prière (`aş-şalâh(şalâtu)) conformément aux prescriptions divines et recommandations prophétiques, ceux qui emploient les richesses qu’Allah leur a accordées en s’acquittant des dépenses obligatoires comme la zakât (`az-zakâh(zakâtu)), ou facultatives comme l’aumône (`aş-şadaqah (şadaqatu)) dans l’espoir d’être rétribués par Allah.L’Invisible (`al-ghaybu) désigne tout ce qui n’est pas perçu par les sens, ce qui nous est donc normalement inconnu et que nous ne connaissons que par ce qui nous a été enseigné par Allah et Son Messager, comme le Jour Dernier (`al-yawmu l-`âkhiru). Ces hommes croient en la Révélation (`al-waħyiu) qu’Allah a révélé au Prophète et aux autres Envoyés avant lui, sans faire de distinction entre eux. Ce sont ceux qui croient fermement à l’au-delà (`al-`âkhirah(`âkhiratu)), ainsi qu’à la rétribution et au châtiment.
+Ce verset désigne ceux qui accomplissent la prière (\`aş-şalâh(şalâtu)) conformément aux prescriptions divines et recommandations prophétiques, ceux qui emploient les richesses qu’Allah leur a accordées en s’acquittant des dépenses obligatoires comme la zakât (\`az-zakâh(zakâtu)), ou facultatives comme l’aumône (\`aş-şadaqah (şadaqatu)) dans l’espoir d’être rétribués par Allah.L’Invisible (\`al-ghaybu) désigne tout ce qui n’est pas perçu par les sens, ce qui nous est donc normalement inconnu et que nous ne connaissons que par ce qui nous a été enseigné par Allah et Son Messager, comme le Jour Dernier (\`al-yawmu l-\`âkhiru). Ces hommes croient en la Révélation (\`al-waħyiu) qu’Allah a révélé au Prophète et aux autres Envoyés avant lui, sans faire de distinction entre eux. Ce sont ceux qui croient fermement à l’au-delà (\`al-\`âkhirah(\`âkhiratu)), ainsi qu’à la rétribution et au châtiment.
 
 # 11
 
 <!-- TODO:DUPLICATE -->
 
-Ce verset désigne ceux qui accomplissent la prière (`aş-şalâh(şalâtu)) conformément aux prescriptions divines et recommandations prophétiques, ceux qui emploient les richesses qu’Allah leur a accordées en s’acquittant des dépenses obligatoires comme la zakât (`az-zakâh(zakâtu)), ou facultatives comme l’aumône (`aş-şadaqah (şadaqatu)) dans l’espoir d’être rétribués par Allah.L’Invisible (`al-ghaybu) désigne tout ce qui n’est pas perçu par les sens, ce qui nous est donc normalement inconnu et que nous ne connaissons que par ce qui nous a été enseigné par Allah et Son Messager, comme le Jour Dernier (`al-yawmu l-`âkhiru). Ces hommes croient en la Révélation (`al-waħyiu) qu’Allah a révélé au Prophète et aux autres Envoyés avant lui, sans faire de distinction entre eux. Ce sont ceux qui croient fermement à l’au-delà (`al-`âkhirah(`âkhiratu)), ainsi qu’à la rétribution et au châtiment.
+Ce verset désigne ceux qui accomplissent la prière (\`aş-şalâh(şalâtu)) conformément aux prescriptions divines et recommandations prophétiques, ceux qui emploient les richesses qu’Allah leur a accordées en s’acquittant des dépenses obligatoires comme la zakât (\`az-zakâh(zakâtu)), ou facultatives comme l’aumône (\`aş-şadaqah (şadaqatu)) dans l’espoir d’être rétribués par Allah.L’Invisible (\`al-ghaybu) désigne tout ce qui n’est pas perçu par les sens, ce qui nous est donc normalement inconnu et que nous ne connaissons que par ce qui nous a été enseigné par Allah et Son Messager, comme le Jour Dernier (\`al-yawmu l-\`âkhiru). Ces hommes croient en la Révélation (\`al-waħyiu) qu’Allah a révélé au Prophète et aux autres Envoyés avant lui, sans faire de distinction entre eux. Ce sont ceux qui croient fermement à l’au-delà (\`al-\`âkhirah(\`âkhiratu)), ainsi qu’à la rétribution et au châtiment.
 
 # 12
 
-Les croyants qui possèdent les caractéristiques énumérées dans le précédent verset sont ceux qui sont sur la voie de la guidée et qui seront les gagnants dans cette vie ici-bas (`ad-dunyâ) et dans l’au-delà: ils obtiendront avec la permission d’Allah, ce qu’ils espèrent et seront préservés de ce qu’ils redoutent.
+Les croyants qui possèdent les caractéristiques énumérées dans le précédent verset sont ceux qui sont sur la voie de la guidée et qui seront les gagnants dans cette vie ici-bas (\`ad-dunyâ) et dans l’au-delà: ils obtiendront avec la permission d’Allah, ce qu’ils espèrent et seront préservés de ce qu’ils redoutent.
 
 # 13
 
@@ -66,7 +66,7 @@ Ils cherchent à tromper Allah et les croyants en manifestant avoir la foi et en
 
 # 17
 
-Leur volonté de tromper [les autres] s’explique par le doute qui est présent dans leurs cœurs. Allah ajouta plus de doute encore à ce doute initial parce que la rétribution, est de même nature que l’acte rétribué. De plus, ils subiront un châtiment douloureux dans la fosse la plus profonde de l’Enfer pour avoir menti à Allah et aux gens ainsi que pour avoir démenti ce que le Prophète Muħammad leur apporta.
+Leur volonté de tromper \[les autres\] s’explique par le doute qui est présent dans leurs cœurs. Allah ajouta plus de doute encore à ce doute initial parce que la rétribution, est de même nature que l’acte rétribué. De plus, ils subiront un châtiment douloureux dans la fosse la plus profonde de l’Enfer pour avoir menti à Allah et aux gens ainsi que pour avoir démenti ce que le Prophète Muħammad leur apporta.
 
 # 18
 
@@ -114,7 +114,7 @@ L’éblouissement provoqué par la lumière intense de l’éclair manque de le
 
 # 29
 
-C’est Lui qui a fait pour vous, de la Terre, une étendue nivelée et a fait que le ciel soit solidement bâti au-dessus d’elle. Il est le Bienfaiteur (`al-mun’imu) qui fait tomber la pluie et qui fait sortir de la terre des récoltes variées pourvoyant ainsi à votre subsistance. N’attribuez donc pas à Allah des associés et des semblables alors que vous savez qu’il n’existe pas d’autre créateur qu’Allah.
+C’est Lui qui a fait pour vous, de la Terre, une étendue nivelée et a fait que le ciel soit solidement bâti au-dessus d’elle. Il est le Bienfaiteur (\`al-mun’imu) qui fait tomber la pluie et qui fait sortir de la terre des récoltes variées pourvoyant ainsi à votre subsistance. N’attribuez donc pas à Allah des associés et des semblables alors que vous savez qu’il n’existe pas d’autre créateur qu’Allah.
 
 # 30
 
@@ -134,7 +134,7 @@ Allah n’a aucun embarras à citer en exemple ce qu’Il veut. Ainsi, Il peut c
 
 # 34
 
-Ceux (les pervers) qui rompent le pacte (`al-’ahdu) conclu avec Allah stipulant qu’ils doivent L’adorer Seul et suivre Son Prophète annoncé par les prophètes précédents. Ceux qui renient les pactes passés avec Allah sont décrits comme rompant ce qu’Allah a ordonné d’entretenir, à l’image des liens de parenté, s’empressant de propager, en commettant des péchés, le chaos sur Terre. Ceux-là ne peuvent prétendre à leurs parts complètes dans le bas monde et dans l’au-delà.
+Ceux (les pervers) qui rompent le pacte (\`al-’ahdu) conclu avec Allah stipulant qu’ils doivent L’adorer Seul et suivre Son Prophète annoncé par les prophètes précédents. Ceux qui renient les pactes passés avec Allah sont décrits comme rompant ce qu’Allah a ordonné d’entretenir, à l’image des liens de parenté, s’empressant de propager, en commettant des péchés, le chaos sur Terre. Ceux-là ne peuvent prétendre à leurs parts complètes dans le bas monde et dans l’au-delà.
 
 # 35
 
@@ -146,7 +146,7 @@ C’est Allah Seul qui créa à votre attention tout ce que contient la Terre co
 
 # 37
 
-Allah nous relate qu’Il s’adressa aux anges (malâ`ikah(malâ`ikatun), pluriel de malakun) et qu’Il dit: Je mettrai sur Terre des humains qui se reproduiront afin de la peupler dans l’obéissance d’Allah. Les anges questionnèrent alors leur Seigneur afin de comprendre et de mieux saisir les raisons d’établir les descendants d’Adam comme vicaires (khalîfah(khalîfatun)) sur Terre, sachant qu’ils finiront par la corrompre et y feront couler injustement le sang, ils dirent: Nous sommes plus à même de t’obéir. Nous Te sanctifions, nous Te louons et nous vénérons Ta majesté et Ta perfection sans éprouver de fatigue. Allah répondit à leur questionnement: Je connais les formidables raisons de leur création et les immenses finalités qui M’ont poussé à faire d’eux des vicaires sur Terre.
+Allah nous relate qu’Il s’adressa aux anges (malâ\`ikah(malâ\`ikatun), pluriel de malakun) et qu’Il dit: Je mettrai sur Terre des humains qui se reproduiront afin de la peupler dans l’obéissance d’Allah. Les anges questionnèrent alors leur Seigneur afin de comprendre et de mieux saisir les raisons d’établir les descendants d’Adam comme vicaires (khalîfah(khalîfatun)) sur Terre, sachant qu’ils finiront par la corrompre et y feront couler injustement le sang, ils dirent: Nous sommes plus à même de t’obéir. Nous Te sanctifions, nous Te louons et nous vénérons Ta majesté et Ta perfection sans éprouver de fatigue. Allah répondit à leur questionnement: Je connais les formidables raisons de leur création et les immenses finalités qui M’ont poussé à faire d’eux des vicaires sur Terre.
 
 # 38
 
@@ -154,7 +154,7 @@ Afin de mettre en avant le rang élevé d’Adam, Allah lui apprit le nom et la 
 
 # 39
 
-Ils dirent, avouant leur déficience et reconnaissant qu’Allah sait qui est le plus méritant: Nous excluons que tu puisses être déficient et nous Te vénérons. Loin de nous la volonté de nous opposer à Ton jugement et à Ton Décret. Nous ne savons que ce que Tu nous as fait la faveur de nous apprendre. Tu es l’Omniscient (`al-’alîmu), à qui rien n’échappe, et le Sage (`al-ħakîmu) mettant toute chose à sa place par Ta Prédestination et Ton Décret.
+Ils dirent, avouant leur déficience et reconnaissant qu’Allah sait qui est le plus méritant: Nous excluons que tu puisses être déficient et nous Te vénérons. Loin de nous la volonté de nous opposer à Ton jugement et à Ton Décret. Nous ne savons que ce que Tu nous as fait la faveur de nous apprendre. Tu es l’Omniscient (\`al-’alîmu), à qui rien n’échappe, et le Sage (\`al-ħakîmu) mettant toute chose à sa place par Ta Prédestination et Ton Décret.
 
 # 40
 
@@ -162,19 +162,19 @@ C’est alors qu’Allah dit à Adam: Informe-les du nom de ces choses. Après q
 
 # 41
 
-Allah explique qu’Il ordonna aux anges de se prosterner, par estime et par respect, devant Adam. Ils s’empressèrent donc tous de se prosterner exécutant ainsi l’ordre d’Allah, excepté `Iblîs appartenant aux djinns, qui s’abstint de se prosterner contrevenant ainsi à l’ordre d’Allah par arrogance à l’égard d’Adam. Il devint par cette attitude un mécréant.
+Allah explique qu’Il ordonna aux anges de se prosterner, par estime et par respect, devant Adam. Ils s’empressèrent donc tous de se prosterner exécutant ainsi l’ordre d’Allah, excepté \`Iblîs appartenant aux djinns, qui s’abstint de se prosterner contrevenant ainsi à l’ordre d’Allah par arrogance à l’égard d’Adam. Il devint par cette attitude un mécréant.
 
 # 42
 
-Nous dîmes [Allah dit]: Ô Adam, habite avec ton épouse Eve (Ħawwâ`) le Paradis et nourrissez-vous de ce qui s’y trouve à votre guise sans retenue, là où vous voulez. Mais prenez garde de ne pas approcher cet arbre car manger ses fruits est défendu. Si vous le faites, vous serez certes du nombre des injustes qui ont transgressé un ordre que Je leur ai donné.
+Nous dîmes \[Allah dit\]: Ô Adam, habite avec ton épouse Eve (Ħawwâ\`) le Paradis et nourrissez-vous de ce qui s’y trouve à votre guise sans retenue, là où vous voulez. Mais prenez garde de ne pas approcher cet arbre car manger ses fruits est défendu. Si vous le faites, vous serez certes du nombre des injustes qui ont transgressé un ordre que Je leur ai donné.
 
 # 43
 
-Satan (`ach-chayṭânu) ne cessa de tenter et d’embellir à Adam et son épouse de faire ce qui leur était interdit jusqu’à ce qu’ils finirent par manger le fruit de l’arbre défendu par Allah. Leur rétribution fut qu’ils furent chassés par Allah du Paradis dans lequel ils vivaient. Allah leur dit ainsi qu’à Satan ce qui suit: Descendez sur Terre où vous serez ennemis les uns des autres. Vous séjournerez sur cette Terre et vous jouirez de ses richesses jusqu’à ce que la durée de vos vies se termine et que vienne l’Heure (`as-sâ’ah(sâ’atu)).
+Satan (\`ach-chayṭânu) ne cessa de tenter et d’embellir à Adam et son épouse de faire ce qui leur était interdit jusqu’à ce qu’ils finirent par manger le fruit de l’arbre défendu par Allah. Leur rétribution fut qu’ils furent chassés par Allah du Paradis dans lequel ils vivaient. Allah leur dit ainsi qu’à Satan ce qui suit: Descendez sur Terre où vous serez ennemis les uns des autres. Vous séjournerez sur cette Terre et vous jouirez de ses richesses jusqu’à ce que la durée de vos vies se termine et que vienne l’Heure (\`as-sâ’ah(sâ’atu)).
 
 # 44
 
-Allah inspira à Adam les paroles qui sont à prononcer lorsqu’on désire L’invoquer. Ces paroles sont celles qui apparaissent dans le verset où Allah dit: Tous deux dirent: «Ô notre Seigneur, nous avons fait du tort à nous-mêmes. Et si Tu ne nous pardonnes pas et ne nous fais pas miséricorde, nous serons très certainement du nombre des perdants». [Sourate Al-`A’râf, verset 23]. Allah accepta le repentir d’Adam et lui pardonna. Il est Celui qui accepte le repentir et est miséricordieux avec Ses serviteurs.
+Allah inspira à Adam les paroles qui sont à prononcer lorsqu’on désire L’invoquer. Ces paroles sont celles qui apparaissent dans le verset où Allah dit: Tous deux dirent: «Ô notre Seigneur, nous avons fait du tort à nous-mêmes. Et si Tu ne nous pardonnes pas et ne nous fais pas miséricorde, nous serons très certainement du nombre des perdants». \[Sourate Al-\`A’râf, verset 23\]. Allah accepta le repentir d’Adam et lui pardonna. Il est Celui qui accepte le repentir et est miséricordieux avec Ses serviteurs.
 
 # 45
 
@@ -190,7 +190,7 @@ Quant à ceux qui mécroiront et démentiront nos signes, ils peupleront l’Enf
 
 # 48
 
-Croyez au Coran que J’ai révélé à Muħammad et qui est conforme à ce que contenait la Torah (`at-tawrâh(`at-tawrâtu)) avant que l’affirmation de l’Unicité d’Allah (tawħîdu Llâhi) et la Prophétie (nubuwwah (nubuwwatun)) de Muħammad qui y figurent n’aient été supprimés, et prenez garde à ne pas être les premiers à mécroire au Coran. N’échangez pas les versets que J’ai révélés en contrepartie de futilités méprisables, comme le prestige ou le pouvoir, et craignez Ma colère et Mon châtiment.
+Croyez au Coran que J’ai révélé à Muħammad et qui est conforme à ce que contenait la Torah (\`at-tawrâh(\`at-tawrâtu)) avant que l’affirmation de l’Unicité d’Allah (tawħîdu Llâhi) et la Prophétie (nubuwwah (nubuwwatun)) de Muħammad qui y figurent n’aient été supprimés, et prenez garde à ne pas être les premiers à mécroire au Coran. N’échangez pas les versets que J’ai révélés en contrepartie de futilités méprisables, comme le prestige ou le pouvoir, et craignez Ma colère et Mon châtiment.
 
 # 49
 
@@ -206,7 +206,7 @@ Qu’il est laid que vous ordonniez à autrui d’avoir la foi et de faire le bi
 
 # 52
 
-Faites preuve de patience (`aş-şabru) et priez afin de vous rapprocher d’Allah, cela vous aidera dans vos affaires mondaines et religieuses et sera un lien entre vous et Lui. Il vous aidera alors, vous préservera et fera disparaître ce qui est douloureux en vous. La prière est certes un acte pénible et une obligation pesante, excepté pour ceux qui se sont véritablement soumis à leur Seigneur.
+Faites preuve de patience (\`aş-şabru) et priez afin de vous rapprocher d’Allah, cela vous aidera dans vos affaires mondaines et religieuses et sera un lien entre vous et Lui. Il vous aidera alors, vous préservera et fera disparaître ce qui est douloureux en vous. La prière est certes un acte pénible et une obligation pesante, excepté pour ceux qui se sont véritablement soumis à leur Seigneur.
 
 # 53
 
@@ -214,7 +214,7 @@ Car eux sont certains qu’ils se présenteront devant leur Seigneur, qu’ils L
 
 # 54
 
-Ô enfants de Jacob (Ya’qûb) le prophète d’Allah, rappelez-vous des bienfaits terrestres et religieux dont je vous ai comblés. Rappelez-vous que Je vous ai préférés aux gens de votre époque en faisant de vous des prophètes et en vous faisant accéder à la royauté (`al-mulku).
+Ô enfants de Jacob (Ya’qûb) le prophète d’Allah, rappelez-vous des bienfaits terrestres et religieux dont je vous ai comblés. Rappelez-vous que Je vous ai préférés aux gens de votre époque en faisant de vous des prophètes et en vous faisant accéder à la royauté (\`al-mulku).
 
 # 55
 
@@ -230,7 +230,7 @@ Rappelez-vous que parmi les bienfaits qui vous ont été faits, nous avons fendu
 
 # 58
 
-Rappelez-vous aussi que parmi ces bienfaits, Nous donnâmes rendez-vous à Moïse (Mûsâ) pendant quarante nuits afin que s’achève la révélation de la lumière et de la guidée contenues dans la Torah. Malheureusement pour vous, vous avez adoré le Veau (`al-’ijlu) pendant cette durée et en agissant ainsi, avez assurément été injustes.
+Rappelez-vous aussi que parmi ces bienfaits, Nous donnâmes rendez-vous à Moïse (Mûsâ) pendant quarante nuits afin que s’achève la révélation de la lumière et de la guidée contenues dans la Torah. Malheureusement pour vous, vous avez adoré le Veau (\`al-’ijlu) pendant cette durée et en agissant ainsi, avez assurément été injustes.
 
 # 59
 
@@ -254,7 +254,7 @@ Ensuite, nous vous avons ramenés à la vie après votre mort. Serez-vous reconn
 
 # 64
 
-Parmi les bienfaits dont Nous vous avons comblés, il y a l’envoi de nuages qui vous ont abrités de la chaleur du soleil alors que vous erriez sur Terre. Nous avons aussi fait descendre sur vous une boisson sucrée semblable à du miel et un petit oiseau (`as-salwâ) à la chair tendre qui ressemble à la caille (`as-samânî), puis nous vous dîmes: Mangez des bonnes choses que nous vous accordons. Ils ne Nous firent aucun tort, mais se firent du tort à eux-mêmes en rejetant ces bienfaits, car cela diminua leur récompense et les exposa au châtiment.
+Parmi les bienfaits dont Nous vous avons comblés, il y a l’envoi de nuages qui vous ont abrités de la chaleur du soleil alors que vous erriez sur Terre. Nous avons aussi fait descendre sur vous une boisson sucrée semblable à du miel et un petit oiseau (\`as-salwâ) à la chair tendre qui ressemble à la caille (\`as-samânî), puis nous vous dîmes: Mangez des bonnes choses que nous vous accordons. Ils ne Nous firent aucun tort, mais se firent du tort à eux-mêmes en rejetant ces bienfaits, car cela diminua leur récompense et les exposa au châtiment.
 
 # 65
 
@@ -270,7 +270,7 @@ Rappelez-vous aussi qu’Allah vous a comblé de Ses bienfaits lorsque vous erri
 
 # 68
 
-Rappelez-vous lorsque vous avez rejeté le bienfait de votre Seigneur, que vous vous êtes lassés de ne manger que de la manne et des cailles qu’Allah faisait descendre sur vous et que vous dîtes: Nous ne pouvons plus tolérer une nourriture unique qui ne varie pas. Vous demandâtes ensuite à Moïse d’invoquer Allah de faire sortir pour vous de la terre des légumes, du qiththâ`un (légume ressemblant au concombre mais qui est plus grand), des grains, des lentilles et des oignons. Moïse répondit en désapprouvant leur demande d’échanger les aliments qu’ils désiraient qui sont des mets peu nobles et peu gouteux, contre la manne et les cailles qui sont des mets nobles et gouteux, et ce alors que ces nourritures leur parvenaient sans qu’ils n’aient eu à fournir d’effort. Il ajouta ensuite: Installez-vous sur cette Terre dans la cité de votre choix, vous y trouverez ce que vous désirez dans ses champs et ses marchés. En se soumettant à leurs passions et en refusant de manière répétée d’accepter ce qu’Allah avait choisi pour eux, ils furent dans un état perpétuel d’avilissement, de pauvreté et de malheur, en plus d’avoir suscité la colère d’Allah pour s’être détournés de Sa religion, avoir mécru en Ses signes et avoir injustement tué Ses prophètes. Tout ceci eut lieu car ils désobéirent à Allah et outrepassèrent Ses limites.
+Rappelez-vous lorsque vous avez rejeté le bienfait de votre Seigneur, que vous vous êtes lassés de ne manger que de la manne et des cailles qu’Allah faisait descendre sur vous et que vous dîtes: Nous ne pouvons plus tolérer une nourriture unique qui ne varie pas. Vous demandâtes ensuite à Moïse d’invoquer Allah de faire sortir pour vous de la terre des légumes, du qiththâ\`un (légume ressemblant au concombre mais qui est plus grand), des grains, des lentilles et des oignons. Moïse répondit en désapprouvant leur demande d’échanger les aliments qu’ils désiraient qui sont des mets peu nobles et peu gouteux, contre la manne et les cailles qui sont des mets nobles et gouteux, et ce alors que ces nourritures leur parvenaient sans qu’ils n’aient eu à fournir d’effort. Il ajouta ensuite: Installez-vous sur cette Terre dans la cité de votre choix, vous y trouverez ce que vous désirez dans ses champs et ses marchés. En se soumettant à leurs passions et en refusant de manière répétée d’accepter ce qu’Allah avait choisi pour eux, ils furent dans un état perpétuel d’avilissement, de pauvreté et de malheur, en plus d’avoir suscité la colère d’Allah pour s’être détournés de Sa religion, avoir mécru en Ses signes et avoir injustement tué Ses prophètes. Tout ceci eut lieu car ils désobéirent à Allah et outrepassèrent Ses limites.
 
 # 69
 
@@ -358,7 +358,7 @@ Ceux qui auront cru en Allah et en Son Messager et auront accompli de bonnes œu
 
 # 90
 
-Rappelez-vous, ô enfants d’Israël, de l’engagement ferme (`al-mîthâqu) que Nous avons obtenu de vous, celui d’affirmer l’Unicité d’Allah et l’interdiction d’adorer une autre divinité en même temps que Lui ; d’être bienfaisants envers vos parents, vos proches, les orphelins, les pauvres et les nécessiteux ; de dire aux gens de bonnes paroles, leur ordonnant le convenable (`al-ma’rûfu) et leur défendant le blâmable (`al-munkaru) sans rudesse ni sévérité ; d’accomplir la prière de manière complète et conformément à ce que Je vous ai ordonné ; de vous acquitter de l’aumône légale en la remettant volontairement à ceux qui la méritent. Seulement, vous vous êtes refusés à remplir cet engagement.
+Rappelez-vous, ô enfants d’Israël, de l’engagement ferme (\`al-mîthâqu) que Nous avons obtenu de vous, celui d’affirmer l’Unicité d’Allah et l’interdiction d’adorer une autre divinité en même temps que Lui ; d’être bienfaisants envers vos parents, vos proches, les orphelins, les pauvres et les nécessiteux ; de dire aux gens de bonnes paroles, leur ordonnant le convenable (\`al-ma’rûfu) et leur défendant le blâmable (\`al-munkaru) sans rudesse ni sévérité ; d’accomplir la prière de manière complète et conformément à ce que Je vous ai ordonné ; de vous acquitter de l’aumône légale en la remettant volontairement à ceux qui la méritent. Seulement, vous vous êtes refusés à remplir cet engagement.
 
 # 91
 
@@ -374,7 +374,7 @@ Ceux-ci ont privilégié la vie ici-bas au détriment de l’au-delà, préféra
 
 # 94
 
-Nous avons révélé à Moïse la Torah et avons fait succéder après lui d’autres messagers. Nous avons accordé à Jésus fils de Marie (‘îsâ bnu maryama) des signes clairs prouvant la véracité de son statut de prophète comme le pouvoir de faire revivre les morts, le pouvoir de guérir l’aveugle né et le lépreux et d’avoir été soutenu par l’ange Gabriel (Jibrîl ou Jibrâ`îl). Ô Enfants d’Israël, chaque fois qu’un messager vous vient de la part d’Allah vous transmettant des injonctions qui contredisent vos passions, vous méprisez la vérité et vous vous montrez arrogants envers ces messagers d’Allah, en en démentant certains et en en tuant d’autres ?
+Nous avons révélé à Moïse la Torah et avons fait succéder après lui d’autres messagers. Nous avons accordé à Jésus fils de Marie (‘îsâ bnu maryama) des signes clairs prouvant la véracité de son statut de prophète comme le pouvoir de faire revivre les morts, le pouvoir de guérir l’aveugle né et le lépreux et d’avoir été soutenu par l’ange Gabriel (Jibrîl ou Jibrâ\`îl). Ô Enfants d’Israël, chaque fois qu’un messager vous vient de la part d’Allah vous transmettant des injonctions qui contredisent vos passions, vous méprisez la vérité et vous vous montrez arrogants envers ces messagers d’Allah, en en démentant certains et en en tuant d’autres ?
 
 # 95
 
@@ -394,11 +394,11 @@ Lorsque l’on dit à ces juifs: Croyez en la vérité et la guidée qu’Allah 
 
 # 99
 
-Votre messager Moïse vous est venu avec des signes clairs (`al-bayyinâtu, pluriel de `al-bayyinah(bayyinatu)) prouvant la véracité de son message. Vous avez, malgré tout, pris le Veau pour divinité que vous avez adorée après que Moïse se soit rendu au rendez-vous donné par son Seigneur. Vous étiez assurément injustes d’associer une autre divinité à Allah qui est le Seul et unique Dieu méritant d’être adoré.
+Votre messager Moïse vous est venu avec des signes clairs (\`al-bayyinâtu, pluriel de \`al-bayyinah(bayyinatu)) prouvant la véracité de son message. Vous avez, malgré tout, pris le Veau pour divinité que vous avez adorée après que Moïse se soit rendu au rendez-vous donné par son Seigneur. Vous étiez assurément injustes d’associer une autre divinité à Allah qui est le Seul et unique Dieu méritant d’être adoré.
 
 # 100
 
-Rappelez-vous lorsque nous avons obtenu de vous l’engagement ferme de suivre Moïse et d’accepter ce qu’il apportait de la part d’Allah. Nous avons aussi élevé la montagne (`aṭ-ṭûru) au-dessus de vous afin de vous effrayer et Nous vous avons dit: Acceptez, soumettez-vous sérieusement et obéissez a ce que nous vous avons révélé dans la Torah, sinon, nous affaisserons la montagne sur vous. Vous dîtes alors: Nos oreilles ont certes entendu mais nous n’obéirons pas dans les actes. Nous fîmes alors, en raison de leur mécréance, que l’emprise de l’adoration du Veau sur leurs cœurs, s’accrut. Dis, ô Prophète: Que la mécréance en Allah que vous dicte cette foi est mauvaise, si vous êtes réellement croyants, car la véritable foi ne peut être accompagnée de mécréance.
+Rappelez-vous lorsque nous avons obtenu de vous l’engagement ferme de suivre Moïse et d’accepter ce qu’il apportait de la part d’Allah. Nous avons aussi élevé la montagne (\`aṭ-ṭûru) au-dessus de vous afin de vous effrayer et Nous vous avons dit: Acceptez, soumettez-vous sérieusement et obéissez a ce que nous vous avons révélé dans la Torah, sinon, nous affaisserons la montagne sur vous. Vous dîtes alors: Nos oreilles ont certes entendu mais nous n’obéirons pas dans les actes. Nous fîmes alors, en raison de leur mécréance, que l’emprise de l’adoration du Veau sur leurs cœurs, s’accrut. Dis, ô Prophète: Que la mécréance en Allah que vous dicte cette foi est mauvaise, si vous êtes réellement croyants, car la véritable foi ne peut être accompagnée de mécréance.
 
 # 101
 
@@ -410,19 +410,19 @@ Ils ne souhaiteront évidement jamais mourir car leur vie durant, ils mécrurent
 
 # 103
 
-Ô Prophète, ceux qui désirent le plus ardemment vivre, aussi humble et vile que soit leur vie, sont les juifs. Leur désir de vivre est même plus ardent que celui des polythéistes (`al-muchrikûna, pluriel de `al-muchriku) qui pourtant ne croient pas à la Résurrection (`al-ba’thu) ni à la Reddition des Comptes (`al-ħisâbu). Or, malgré que les juifs fassent partie des Gens du Livre et croient à la Résurrection et à la Reddition de Compte, ils ont quand même le souhait de vivre mille ans. Or, quelque soit la durée de leur vie, elle ne les éloignera pas du châtiment d’Allah. Allah est au fait de leurs agissements puisqu’Il voit tout et rien ne Lui échappe, et Il les rétribuera en conséquence.
+Ô Prophète, ceux qui désirent le plus ardemment vivre, aussi humble et vile que soit leur vie, sont les juifs. Leur désir de vivre est même plus ardent que celui des polythéistes (\`al-muchrikûna, pluriel de \`al-muchriku) qui pourtant ne croient pas à la Résurrection (\`al-ba’thu) ni à la Reddition des Comptes (\`al-ħisâbu). Or, malgré que les juifs fassent partie des Gens du Livre et croient à la Résurrection et à la Reddition de Compte, ils ont quand même le souhait de vivre mille ans. Or, quelque soit la durée de leur vie, elle ne les éloignera pas du châtiment d’Allah. Allah est au fait de leurs agissements puisqu’Il voit tout et rien ne Lui échappe, et Il les rétribuera en conséquence.
 
 # 104
 
-Dis, ô Prophète, à ceux parmi les juifs qui disent: «De tous les anges, Gabriel est notre plus grand ennemi»: Sachez que celui qui est hostile à Gabriel, l’ange qui avec la permission d’Allah fit descendre le Coran sur ton cœur, afin de confirmer les livres précédents comme la Torah et l’Evangile (`al-`injîlu), de montrer la voie du bien et d’annoncer aux croyants les délices qu’Allah a préparés à leur intention, est assurément du nombre des égarés.
+Dis, ô Prophète, à ceux parmi les juifs qui disent: «De tous les anges, Gabriel est notre plus grand ennemi»: Sachez que celui qui est hostile à Gabriel, l’ange qui avec la permission d’Allah fit descendre le Coran sur ton cœur, afin de confirmer les livres précédents comme la Torah et l’Evangile (\`al-\`injîlu), de montrer la voie du bien et d’annoncer aux croyants les délices qu’Allah a préparés à leur intention, est assurément du nombre des égarés.
 
 # 105
 
-Quiconque est l’ennemi d’Allah de Ses anges, de Ses messagers et de surcroît des deux anges rapprochés que sont Gabriel et Mickaël (Mîkâ`îl ou Mîkâl), qu’il sache qu’Allah est son ennemi, car Il est certes l’ennemi des mécréants de quelque communauté qu’ils soient. Et celui dont Allah est l’ennemi est assurément destiné à une perte certaine.
+Quiconque est l’ennemi d’Allah de Ses anges, de Ses messagers et de surcroît des deux anges rapprochés que sont Gabriel et Mickaël (Mîkâ\`îl ou Mîkâl), qu’il sache qu’Allah est son ennemi, car Il est certes l’ennemi des mécréants de quelque communauté qu’ils soient. Et celui dont Allah est l’ennemi est assurément destiné à une perte certaine.
 
 # 106
 
-Ô Prophète, Nous t’avons révélé des signes prouvant la véracité de ta Prophétie et de la Révélation. Seuls les pervers (`al-fâsiqûna, pluriel de `al-fâsiqu) exclus de la religion d’Allah, les rejettent.
+Ô Prophète, Nous t’avons révélé des signes prouvant la véracité de ta Prophétie et de la Révélation. Seuls les pervers (\`al-fâsiqûna, pluriel de \`al-fâsiqu) exclus de la religion d’Allah, les rejettent.
 
 # 107
 
@@ -434,7 +434,7 @@ Lorsque Muħammad vint à eux en tant que Messager envoyé par Allah, et bien qu
 
 # 109
 
-Après avoir délaissé la religion d’Allah, ils en suivirent une autre dans laquelle des démons racontaient des mensonges à propos de la royauté de Salomon (Sulaymân), le prophète d’Allah. En effet, ces démons prétendaient que son autorité avait été bâtie grâce à la sorcellerie (`as-siħru) alors que contrairement à ce que prétendent les juifs, Salomon n’a jamais pratiqué la sorcellerie car il se serait rendu coupable de mécréance. Ce sont plutôt les démons qui sont tombés dans la mécréance en enseignant, en guise d’épreuve pour les gens, la sorcellerie qui a été révélée aux deux anges Hârût et Mârût à Babylone (Bâbel) en Irak. Ces deux anges n’enseignaient la sorcellerie qu’après avoir averti celui à qui ils allaient l’enseigner et lui avoir dit: Nous ne sommes qu’une épreuve et un test pour les gens. Ne deviens donc pas mécréant en t’initiant à la sorcellerie. Ceux qui n’acceptaient pas le conseil, ils les initiaient à la sorcellerie, qui consistait entre autres méfaits à provoquer une grande animosité entre deux époux conduisant à leur séparation. Ces sorciers ne pouvaient causer du tort à qui que ce soit qu’avec la permission et la volonté d’Allah et les gens qui étaient initiés à la sorcellerie, apprenaient ce qui leur était nuisible et inutile. Ces juifs savent que celui qui troque le Livre d’Allah au profit de la sorcellerie ne peut prétendre à ce qui est promis aux pieux dans l’au-delà, et combien est détestable ce au profit de quoi ils ont vendu leurs âmes. Ils ont en effet troqué la Révélation et la religion d’Allah au profit de la sorcellerie. S’ils connaissaient ce qui leur est utile, ils n’auraient pas agi de cette exécrable manière, qui est un égarement manifeste.
+Après avoir délaissé la religion d’Allah, ils en suivirent une autre dans laquelle des démons racontaient des mensonges à propos de la royauté de Salomon (Sulaymân), le prophète d’Allah. En effet, ces démons prétendaient que son autorité avait été bâtie grâce à la sorcellerie (\`as-siħru) alors que contrairement à ce que prétendent les juifs, Salomon n’a jamais pratiqué la sorcellerie car il se serait rendu coupable de mécréance. Ce sont plutôt les démons qui sont tombés dans la mécréance en enseignant, en guise d’épreuve pour les gens, la sorcellerie qui a été révélée aux deux anges Hârût et Mârût à Babylone (Bâbel) en Irak. Ces deux anges n’enseignaient la sorcellerie qu’après avoir averti celui à qui ils allaient l’enseigner et lui avoir dit: Nous ne sommes qu’une épreuve et un test pour les gens. Ne deviens donc pas mécréant en t’initiant à la sorcellerie. Ceux qui n’acceptaient pas le conseil, ils les initiaient à la sorcellerie, qui consistait entre autres méfaits à provoquer une grande animosité entre deux époux conduisant à leur séparation. Ces sorciers ne pouvaient causer du tort à qui que ce soit qu’avec la permission et la volonté d’Allah et les gens qui étaient initiés à la sorcellerie, apprenaient ce qui leur était nuisible et inutile. Ces juifs savent que celui qui troque le Livre d’Allah au profit de la sorcellerie ne peut prétendre à ce qui est promis aux pieux dans l’au-delà, et combien est détestable ce au profit de quoi ils ont vendu leurs âmes. Ils ont en effet troqué la Révélation et la religion d’Allah au profit de la sorcellerie. S’ils connaissaient ce qui leur est utile, ils n’auraient pas agi de cette exécrable manière, qui est un égarement manifeste.
 
 # 110
 
@@ -442,7 +442,7 @@ Si les juifs avaient sincèrement cru en Allah, l’avaient craint en obéissant
 
 # 111
 
-Allah appelle les croyants à faire attention aux paroles qu’ils prononcent en leur disant: Ô vous qui croyez, ne dites pas râ’inâ, c’est-à-dire «prends en considération notre situation» (du verbe râ’â/yurâ’î), car en réalité les juifs jouaient sur les mots en s’adressant au Prophète, et l’utilisaient au sens figuré signifiant frivolité (ru’ûnah(ru’ûnatun)). Allah défendit donc de prononcer ce terme et ordonna à Ses serviteurs d’utiliser en lieu et place de celui-ci, le mot `unżurnâ, c’est-à-dire «attends que nous comprenions ce que tu dis» (du verbe `intażara/yantażiru, qui signifie attendre)», car ce second terme exprime sans ambigüité le sens voulu. Ceux qui mécroient en Allah subiront un châtiment dur et douloureux.
+Allah appelle les croyants à faire attention aux paroles qu’ils prononcent en leur disant: Ô vous qui croyez, ne dites pas râ’inâ, c’est-à-dire «prends en considération notre situation» (du verbe râ’â/yurâ’î), car en réalité les juifs jouaient sur les mots en s’adressant au Prophète, et l’utilisaient au sens figuré signifiant frivolité (ru’ûnah(ru’ûnatun)). Allah défendit donc de prononcer ce terme et ordonna à Ses serviteurs d’utiliser en lieu et place de celui-ci, le mot \`unżurnâ, c’est-à-dire «attends que nous comprenions ce que tu dis» (du verbe \`intażara/yantażiru, qui signifie attendre)», car ce second terme exprime sans ambigüité le sens voulu. Ceux qui mécroient en Allah subiront un châtiment dur et douloureux.
 
 # 112
 
@@ -454,11 +454,11 @@ Dans ce verset, Allah explique que lorsqu’Il abroge (du verbe nasakha/yansakhu
 
 # 114
 
-ô Prophète, tu sais qu’Allah est le Possesseur des Cieux (`as-samâwâtu, pluriel de `as-samâ`u) et de la Terre (`al-`arđu) et qu’Il décide ce qu’Il veut. Il ordonne à Ses serviteurs ce qu’Il veut et leur défend ce qu’Il veut. De même, Il consolide et abroge ce qu’Il veut de la religion. Nul allié (waliyyun) et nul secoureur (naşîrun) ne peuvent vous protéger et éloigner de vous les maux, en dehors d’Allah. Allah seul se charge de les éloigner et en est capable.
+ô Prophète, tu sais qu’Allah est le Possesseur des Cieux (\`as-samâwâtu, pluriel de \`as-samâ\`u) et de la Terre (\`al-\`arđu) et qu’Il décide ce qu’Il veut. Il ordonne à Ses serviteurs ce qu’Il veut et leur défend ce qu’Il veut. De même, Il consolide et abroge ce qu’Il veut de la religion. Nul allié (waliyyun) et nul secoureur (naşîrun) ne peuvent vous protéger et éloigner de vous les maux, en dehors d’Allah. Allah seul se charge de les éloigner et en est capable.
 
 # 115
 
-Il ne vous est pas autorisé, ô croyants, de questionner votre Messager dans le but de le réfuter et par entêtement, de la même manière que le peuple de Moïse questionna son prophète lorsqu’ils dirent: Fais-nous voir Allah à découvert! [Sourate An-Nisâ` - Les Femmes, verset 153]. Quiconque renonce à la foi au profit de la mécréance s’éloigne de la voie modérée qui est le droit chemin.
+Il ne vous est pas autorisé, ô croyants, de questionner votre Messager dans le but de le réfuter et par entêtement, de la même manière que le peuple de Moïse questionna son prophète lorsqu’ils dirent: Fais-nous voir Allah à découvert! \[Sourate An-Nisâ\` - Les Femmes, verset 153\]. Quiconque renonce à la foi au profit de la mécréance s’éloigne de la voie modérée qui est le droit chemin.
 
 # 116
 
@@ -486,7 +486,7 @@ Il n’y a pas plus injuste que celui qui empêche que le nom d’Allah soit év
 
 # 122
 
-Le Levant (`al-machriqu), le Couchant (`al-maghribu) et ce qu’il y a entre les deux, ont été créés par Allah. Il ordonne ce qu’Il veut à Ses serviteurs. Dès lors, quelle que soit l’orientation vers laquelle vous vous dirigez, vous faites face à Allah. S’il vous est difficile de vous orienter en direction de Jérusalem ou de la Mecque conformément à ce qui vous a été ordonné ou si vous vous trompez en vous efforçant de déterminer la direction de la qiblah (qiblatun) ( ), vous ne commettez aucun mal car toutes les directions appartiennent à Allah. Allah est Vaste (du Nom d’Allah `al-wâsi’u) et englobe (du verbe wasi’a/yasa’u) tout par Sa miséricorde et Ses accommodements. Il connaît certes les intentions et les agissements.
+Le Levant (\`al-machriqu), le Couchant (\`al-maghribu) et ce qu’il y a entre les deux, ont été créés par Allah. Il ordonne ce qu’Il veut à Ses serviteurs. Dès lors, quelle que soit l’orientation vers laquelle vous vous dirigez, vous faites face à Allah. S’il vous est difficile de vous orienter en direction de Jérusalem ou de la Mecque conformément à ce qui vous a été ordonné ou si vous vous trompez en vous efforçant de déterminer la direction de la qiblah (qiblatun) ( ), vous ne commettez aucun mal car toutes les directions appartiennent à Allah. Allah est Vaste (du Nom d’Allah \`al-wâsi’u) et englobe (du verbe wasi’a/yasa’u) tout par Sa miséricorde et Ses accommodements. Il connaît certes les intentions et les agissements.
 
 # 123
 
@@ -522,11 +522,11 @@ Prémunissez-vous contre le châtiment du Jour de la Résurrection en obéissant
 
 # 131
 
-Rappelle-toi lorsqu’Allah éprouva Abraham (`Ibrâhîm) par des jugements et des commandements qui furent parfaitement accomplis et exécutés par Abraham. Allah dit à Son prophète Abraham: Je ferai de tes agissements et de tes vertus un exemple à suivre pour les gens. Abraham demanda à Allah: Fasse, ô Seigneur, que mes descendants soient des exemples à suivre pour les gens. Allah répondit alors: Mon engagement de faire de toi un exemple spirituel ne concerne pas ceux parmi ta descendance qui ne le mériteront pas.
+Rappelle-toi lorsqu’Allah éprouva Abraham (\`Ibrâhîm) par des jugements et des commandements qui furent parfaitement accomplis et exécutés par Abraham. Allah dit à Son prophète Abraham: Je ferai de tes agissements et de tes vertus un exemple à suivre pour les gens. Abraham demanda à Allah: Fasse, ô Seigneur, que mes descendants soient des exemples à suivre pour les gens. Allah répondit alors: Mon engagement de faire de toi un exemple spirituel ne concerne pas ceux parmi ta descendance qui ne le mériteront pas.
 
 # 132
 
-Rappelle-toi lorsqu’Allah fit de la Maison Sacrée un lieu de référence pour les gens et d’attachement pour leurs cœurs puisque dès qu’ils la quittent, ils souhaitent y retourner. De plus, Allah fit de cette Maison un lieu sûr où ils se sentent en sécurité. Les gens dirent: Prenez la pierre –sur laquelle Abraham se tenait lorsqu’il construisait la Ka’bah– comme lieu de prière. Nous avons conseillé à Abraham et à son fils Ismaël (`Ismâ’îl) de purifier la maison Sacrée des impuretés et des idoles puis de la préparer à l’attention de ceux qui désirent y adorer Allah en accomplissant des circumambulations (`aṭ-ṭawâfu), une retraite spirituelle (`al-i’tikâfu), une prière ou toute autre adoration.
+Rappelle-toi lorsqu’Allah fit de la Maison Sacrée un lieu de référence pour les gens et d’attachement pour leurs cœurs puisque dès qu’ils la quittent, ils souhaitent y retourner. De plus, Allah fit de cette Maison un lieu sûr où ils se sentent en sécurité. Les gens dirent: Prenez la pierre –sur laquelle Abraham se tenait lorsqu’il construisait la Ka’bah– comme lieu de prière. Nous avons conseillé à Abraham et à son fils Ismaël (\`Ismâ’îl) de purifier la maison Sacrée des impuretés et des idoles puis de la préparer à l’attention de ceux qui désirent y adorer Allah en accomplissant des circumambulations (\`aṭ-ṭawâfu), une retraite spirituelle (\`al-i’tikâfu), une prière ou toute autre adoration.
 
 # 133
 
@@ -538,15 +538,15 @@ Rappelle-toi, ô Prophète, lorsqu’Abraham et Ismaël élevaient les fondation
 
 # 135
 
-Ô notre Seigneur, fasse que nous nous résignions à exécuter Ton ordre, que nous soyons soumis à Toi et que nous ne T'associions aucune divinité. Fasse que notre descendance soit une communauté soumise à Toi et apprends-nous comment Tu dois être adoré. Pardonne nos fautes et notre déficience dans Ton obéissance. Tu es certes l’Accueillant au repentir (du nom d’Allah `at-tawwâbu) lorsque Tes serviteurs se repentissent et Tu es miséricordieux avec eux.
+Ô notre Seigneur, fasse que nous nous résignions à exécuter Ton ordre, que nous soyons soumis à Toi et que nous ne T'associions aucune divinité. Fasse que notre descendance soit une communauté soumise à Toi et apprends-nous comment Tu dois être adoré. Pardonne nos fautes et notre déficience dans Ton obéissance. Tu es certes l’Accueillant au repentir (du nom d’Allah \`at-tawwâbu) lorsque Tes serviteurs se repentissent et Tu es miséricordieux avec eux.
 
 # 136
 
-Ô notre Seigneur, envoie parmi eux un messager issu d’eux, de la descendance d’Ismaël, qui récite tes versets révélés, leur apprend le Coran et la Sunna et les purifie du polythéisme et des turpitudes. Tu es le Puissant et Victorieux (du nom d’Allah `al-’azîzu), le Sage dans Tes actes et Tes jugements (du nom d’Allah `al-ħakîmu).
+Ô notre Seigneur, envoie parmi eux un messager issu d’eux, de la descendance d’Ismaël, qui récite tes versets révélés, leur apprend le Coran et la Sunna et les purifie du polythéisme et des turpitudes. Tu es le Puissant et Victorieux (du nom d’Allah \`al-’azîzu), le Sage dans Tes actes et Tes jugements (du nom d’Allah \`al-ħakîmu).
 
 # 137
 
-Personne ne renonce à la religion d’Abraham pour en adopter une autre, excepté ceux qui par faiblesse d’esprit et mauvaise appréciation sont injustes avec eux-mêmes, délaissent la vérité pour l’égarement et se satisfont de ce déshonneur. Nous avons désigné comme messager et ami rapproché (khalîlun) Abraham, qui dans l’au-delà, sera du nombre des gens de bien (`aş-şâliħûna, pluriel de `aş-şâliħu) qui se sont acquittés de ce qui leur a été imposé par Allah et atteindront grâce à cela les plus hauts degrés du Paradis.
+Personne ne renonce à la religion d’Abraham pour en adopter une autre, excepté ceux qui par faiblesse d’esprit et mauvaise appréciation sont injustes avec eux-mêmes, délaissent la vérité pour l’égarement et se satisfont de ce déshonneur. Nous avons désigné comme messager et ami rapproché (khalîlun) Abraham, qui dans l’au-delà, sera du nombre des gens de bien (\`aş-şâliħûna, pluriel de \`aş-şâliħu) qui se sont acquittés de ce qui leur a été imposé par Allah et atteindront grâce à cela les plus hauts degrés du Paradis.
 
 # 138
 
@@ -558,7 +558,7 @@ Abraham recommanda à ses fils de prononcer ces paroles: “Je me soumets au Sei
 
 # 140
 
-Etiez-vous témoins lorsque Jacob était sur le point de mourir ? Lorsqu’il demanda à ses fils «Qu’adorerez-vous après ma mort ?», ils répondirent: Nous adorerons ton Dieu et Celui de tes ancêtres Abraham, Ismaël et Isaac (`Isħâq). Nous L’adorerons en tant que Dieu Unique auquel nous serons exclusivement soumis.
+Etiez-vous témoins lorsque Jacob était sur le point de mourir ? Lorsqu’il demanda à ses fils «Qu’adorerez-vous après ma mort ?», ils répondirent: Nous adorerons ton Dieu et Celui de tes ancêtres Abraham, Ismaël et Isaac (\`Isħâq). Nous L’adorerons en tant que Dieu Unique auquel nous serons exclusivement soumis.
 
 # 141
 
@@ -598,7 +598,7 @@ Les ignorants et faibles d’esprit parmi les juifs et ceux qui leur ressemblent
 
 # 150
 
-Tout comme Nous avons agréé une Qibla pour vous, Nous avons fait de vous une communauté de personnes ayant de bonnes, justes et modérées croyances, adorations et relations avec autrui. Ceci, afin que le Jour de la Résurrection, vous témoigniez en faveur des messagers d’Allah qu’ils ont effectivement transmis ce qu’Allah ordonna de transmettre à leurs communautés et afin que le Messager Muħammad témoigne que ce avec quoi il a été envoyé à vous, vous a effectivement été transmis. Nous n’avons changé l’orientation de la Qibla vers laquelle tu te tournais – Jérusalem – qu’afin de confondre ceux qui se satisfont de ce qu’Allah prescrit, s’y soumettent et suivent le Messager, de ceux qui apostasient, suivent leur passion et ne se soumettent pas à qu'Allah a prescrit. L’ordre de changer l’orientation de la première qiblah était difficile à accepter sauf pour ceux à qui Allah facilita de croire en Lui et d’être convaincus que ce qu’Il prescrit à Ses serviteurs a des raisons très pertinentes qui le justifient. Il est exclu qu’Allah vous fasse perdre la récompense de votre foi en Lui, dont la récompense pour les prières que vous avez accomplies avant le changement de qiblah. Allah est Compatissant (du nom d’Allah `ar-ra`ûfu) et Miséricordieux avec les gens. Il ne les accable donc pas ni ne leur fait perdre la récompense qu’ils ont méritées pour leurs œuvres.
+Tout comme Nous avons agréé une Qibla pour vous, Nous avons fait de vous une communauté de personnes ayant de bonnes, justes et modérées croyances, adorations et relations avec autrui. Ceci, afin que le Jour de la Résurrection, vous témoigniez en faveur des messagers d’Allah qu’ils ont effectivement transmis ce qu’Allah ordonna de transmettre à leurs communautés et afin que le Messager Muħammad témoigne que ce avec quoi il a été envoyé à vous, vous a effectivement été transmis. Nous n’avons changé l’orientation de la Qibla vers laquelle tu te tournais – Jérusalem – qu’afin de confondre ceux qui se satisfont de ce qu’Allah prescrit, s’y soumettent et suivent le Messager, de ceux qui apostasient, suivent leur passion et ne se soumettent pas à qu'Allah a prescrit. L’ordre de changer l’orientation de la première qiblah était difficile à accepter sauf pour ceux à qui Allah facilita de croire en Lui et d’être convaincus que ce qu’Il prescrit à Ses serviteurs a des raisons très pertinentes qui le justifient. Il est exclu qu’Allah vous fasse perdre la récompense de votre foi en Lui, dont la récompense pour les prières que vous avez accomplies avant le changement de qiblah. Allah est Compatissant (du nom d’Allah \`ar-ra\`ûfu) et Miséricordieux avec les gens. Il ne les accable donc pas ni ne leur fait perdre la récompense qu’ils ont méritées pour leurs œuvres.
 
 # 151
 
@@ -638,11 +638,11 @@ Evoquez-Moi (du verbe dhakara/yadhkuru) avec vos cœurs et œuvrez avec vos memb
 
 # 160
 
-Ô vous qui croyez, afin de M’obéir et vous soumettre à Mon ordre, faites preuve de patience (ou d’endurance,`aş-şabru) et priez. En effet, Allah facilite les affaires des endurants et les assiste.
+Ô vous qui croyez, afin de M’obéir et vous soumettre à Mon ordre, faites preuve de patience (ou d’endurance,\`aş-şabru) et priez. En effet, Allah facilite les affaires des endurants et les assiste.
 
 # 161
 
-Ne dites pas, ô croyants, au sujet de ceux qui meurent en luttant (`al-jihâdu) pour la cause d’Allah: Ce sont des morts qui ressemblent aux autres morts. Au contraire, ils sont vivants auprès de leur Seigneur mais vous ne pouvez le percevoir car leur vie est particulière et n’est connue que grâce à la révélation d’Allah.
+Ne dites pas, ô croyants, au sujet de ceux qui meurent en luttant (\`al-jihâdu) pour la cause d’Allah: Ce sont des morts qui ressemblent aux autres morts. Au contraire, ils sont vivants auprès de leur Seigneur mais vous ne pouvez le percevoir car leur vie est particulière et n’est connue que grâce à la révélation d’Allah.
 
 # 162
 
@@ -658,7 +658,7 @@ Ceux qui possèdent ces caractéristiques, Allah fera leur éloge auprès des An
 
 # 165
 
-Les monts proches de la Mecque connus sous les noms d’Aş-Şafâ et Al-Marwah sont au centre de rites légiférés par la religion. Il n’y a pas de mal à effectuer des va-et-vient (`as-sa’yu) entre ces deux monts, pour quiconque se rend à la Mecque afin d’accomplir les rites du Grand Pèlerinage (`al-ħajju) ou du Petit Pèlerinage (`al-’umrah (‘umratu)). Nier que ce rite soit un péché rassure les musulmans qui s’abstenaient de l’accomplir pensant qu’il s’agissait d’un rite païen hérité de la jâhiliyyah( ). Allah affirme ainsi que ce rite fait partie des rites du Grand Pèlerinage et quiconque accomplit volontairement des actes d’adoration pour Allah, Allah lui en sera reconnaissant, acceptera ces actes d’adoration et l’en récompensera. Il Connait ceux qui font le bien et méritent d’être récompensés.
+Les monts proches de la Mecque connus sous les noms d’Aş-Şafâ et Al-Marwah sont au centre de rites légiférés par la religion. Il n’y a pas de mal à effectuer des va-et-vient (\`as-sa’yu) entre ces deux monts, pour quiconque se rend à la Mecque afin d’accomplir les rites du Grand Pèlerinage (\`al-ħajju) ou du Petit Pèlerinage (\`al-’umrah (‘umratu)). Nier que ce rite soit un péché rassure les musulmans qui s’abstenaient de l’accomplir pensant qu’il s’agissait d’un rite païen hérité de la jâhiliyyah( ). Allah affirme ainsi que ce rite fait partie des rites du Grand Pèlerinage et quiconque accomplit volontairement des actes d’adoration pour Allah, Allah lui en sera reconnaissant, acceptera ces actes d’adoration et l’en récompensera. Il Connait ceux qui font le bien et méritent d’être récompensés.
 
 # 166
 
@@ -718,7 +718,7 @@ Ces mécréants sont semblables, dans le mimétisme de leurs ancêtres, à un be
 
 # 180
 
-Allah déclara qu’il est illicite au musulman de consommer la chair de bêtes qui sont mortes sans avoir été égorgées, le sang en grande quantité( ), la chair de porc et la chair de bêtes égorgées au nom d’un autre qu’Allah. En revanche, lorsque sans injustice l’être humain est contraint de consommer ces nouritures, c’est-à-dire sans être dans l’abus, ni sortir des limites de la contrainte, il ne commet alors aucun péché et ne mérite aucune punition. Allah est Pardonneur (du nom d’Allah `al-ghafûru) et miséricordieux avec Ses serviteurs qui se repentent. L’une des manifestations de Sa miséricorde est qu’Il ne tient pas rigueur à celui qui consomme ces nourritures illicites en cas de contrainte.
+Allah déclara qu’il est illicite au musulman de consommer la chair de bêtes qui sont mortes sans avoir été égorgées, le sang en grande quantité( ), la chair de porc et la chair de bêtes égorgées au nom d’un autre qu’Allah. En revanche, lorsque sans injustice l’être humain est contraint de consommer ces nouritures, c’est-à-dire sans être dans l’abus, ni sortir des limites de la contrainte, il ne commet alors aucun péché et ne mérite aucune punition. Allah est Pardonneur (du nom d’Allah \`al-ghafûru) et miséricordieux avec Ses serviteurs qui se repentent. L’une des manifestations de Sa miséricorde est qu’Il ne tient pas rigueur à celui qui consomme ces nourritures illicites en cas de contrainte.
 
 # 181
 
@@ -734,11 +734,11 @@ Ceci est la rétribution de ceux qui dissimulent la science et la guidée puisqu
 
 # 184
 
-Le bien (`al-birru) agréé par Allah ne consiste pas seulement à se tourner en direction du Levant ou du Couchant et à diverger à ce propos, mais le véritable bien est en celui qui croit en Allah en tant que Dieu Unique, au Jour Dernier, à tous les anges, à tous les livres révélés et à tous les prophètes sans distinction ; dépense de ses biens pour ses proches, pour ceux qui ont perdus leur père avant l’âge adulte, pour les nécessiteux, pour l’étranger loin de sa patrie et de sa famille et pour ceux qui ont un besoin ponctuel d’aide, malgré l’amour qu’il a pour ses biens ; dépense de sa richesse afin de libérer des personnes de l’esclavage et de la captivité ; accomplit la prière comme l’a ordonné Allah et s’acquitte de l’aumône légale obligatoire. C’est également ceux qui sont fidèles aux engagements qu’ils ont pris, qui sont patients dans la pauvreté, le malheur et la maladie et qui ne fuient pas lorsque le combat fait rage. Tous ceux qui possèdent ces qualités sont sincères envers Allah dans leur foi et leurs œuvres. Ce sont eux les pieux qui exécutent ce que leur a ordonné Allah et s’abstiennent de ce qu’Il leur a défendu.
+Le bien (\`al-birru) agréé par Allah ne consiste pas seulement à se tourner en direction du Levant ou du Couchant et à diverger à ce propos, mais le véritable bien est en celui qui croit en Allah en tant que Dieu Unique, au Jour Dernier, à tous les anges, à tous les livres révélés et à tous les prophètes sans distinction ; dépense de ses biens pour ses proches, pour ceux qui ont perdus leur père avant l’âge adulte, pour les nécessiteux, pour l’étranger loin de sa patrie et de sa famille et pour ceux qui ont un besoin ponctuel d’aide, malgré l’amour qu’il a pour ses biens ; dépense de sa richesse afin de libérer des personnes de l’esclavage et de la captivité ; accomplit la prière comme l’a ordonné Allah et s’acquitte de l’aumône légale obligatoire. C’est également ceux qui sont fidèles aux engagements qu’ils ont pris, qui sont patients dans la pauvreté, le malheur et la maladie et qui ne fuient pas lorsque le combat fait rage. Tous ceux qui possèdent ces qualités sont sincères envers Allah dans leur foi et leurs œuvres. Ce sont eux les pieux qui exécutent ce que leur a ordonné Allah et s’abstiennent de ce qu’Il leur a défendu.
 
 # 185
 
-Ô vous qui croyez en Allah et suivez Son Messager, il vous a été légiféré, concernant ceux qui tuent délibérément et injustement autrui, de punir le meurtrier proportionnellement à son crime. Ainsi, on exécute l’homme libre qui a tué un homme libre, l’esclave qui a tué un esclave et la femme qui a tué une femme. La victime peut pardonner avant de mourir ou celui qui le représentera (waliyyun) après sa mort, en contrepartie d’une compensation appelée prix du sang (`ad-diyyah(diyyatu)), le prix du sang étant un certain montant d’argent que le meurtrier doit verser afin d’obtenir le pardon. Quiconque pardonne doit réclamer au meurtrier un montant convenable et ne pas lui rappeler cette faveur ni l’offenser. D’autre part, le meurtrier doit s’acquitter du prix du sang sans atermoiement ni ajournements répétés. Le pardon et le prix du sang sont des allègements et une miséricorde qu’Allah a prévue pour cette communauté. Enfin, quiconque s’en prend au meurtrier après avoir été pardonné et avoir remis le prix du sang, subira, de la part d’Allah, un châtiment douloureux.
+Ô vous qui croyez en Allah et suivez Son Messager, il vous a été légiféré, concernant ceux qui tuent délibérément et injustement autrui, de punir le meurtrier proportionnellement à son crime. Ainsi, on exécute l’homme libre qui a tué un homme libre, l’esclave qui a tué un esclave et la femme qui a tué une femme. La victime peut pardonner avant de mourir ou celui qui le représentera (waliyyun) après sa mort, en contrepartie d’une compensation appelée prix du sang (\`ad-diyyah(diyyatu)), le prix du sang étant un certain montant d’argent que le meurtrier doit verser afin d’obtenir le pardon. Quiconque pardonne doit réclamer au meurtrier un montant convenable et ne pas lui rappeler cette faveur ni l’offenser. D’autre part, le meurtrier doit s’acquitter du prix du sang sans atermoiement ni ajournements répétés. Le pardon et le prix du sang sont des allègements et une miséricorde qu’Allah a prévue pour cette communauté. Enfin, quiconque s’en prend au meurtrier après avoir été pardonné et avoir remis le prix du sang, subira, de la part d’Allah, un châtiment douloureux.
 
 # 186
 
@@ -754,11 +754,11 @@ Si quelqu’un falsifie le testament en augmentant les parts qui reviennent au b
 
 # 189
 
-Si quelqu’un sait que vivant, le testateur est partial et que la répartition des bien dans son testament est injuste, corrige en étant de bon conseil la partialité du testateur dans son testament et réconcilie ceux que ce testament a brouillés, alors il ne commet aucune faute. Au contraire, il sera rétribué pour sa démarche. Allah est Pardonneur (du nom d’Allah `al-ghafûru) et miséricordieux avec les serviteurs qui se repentent.
+Si quelqu’un sait que vivant, le testateur est partial et que la répartition des bien dans son testament est injuste, corrige en étant de bon conseil la partialité du testateur dans son testament et réconcilie ceux que ce testament a brouillés, alors il ne commet aucune faute. Au contraire, il sera rétribué pour sa démarche. Allah est Pardonneur (du nom d’Allah \`al-ghafûru) et miséricordieux avec les serviteurs qui se repentent.
 
 # 190
 
-Ô vous qui croyez en Allah et suivez Son Messager, le jeûne (`aş-şiyâmu) a été imposé par votre Seigneur comme il l’a été aux communautés qui vous ont précédés, allez-vous craindre Allah et accomplir les œuvres pieuses dont le jeûne qui est l'une des plus éminentes afin de vous préserver de Son châtiment.
+Ô vous qui croyez en Allah et suivez Son Messager, le jeûne (\`aş-şiyâmu) a été imposé par votre Seigneur comme il l’a été aux communautés qui vous ont précédés, allez-vous craindre Allah et accomplir les œuvres pieuses dont le jeûne qui est l'une des plus éminentes afin de vous préserver de Son châtiment.
 
 # 191
 
@@ -770,11 +770,11 @@ Le mois de Ramadan (ramađânu) est le mois durant lequel le Coran commença à 
 
 # 193
 
-Ô Prophète, si ceux qui me sont soumis te questionnent pour savoir si je suis proche ou pas et si j’exauce leur invocation, [réponds-leur] que Je suis proche d’eux, que Je connais leurs situations et que J’entends leur invocation. Nul besoin d’intermédiaires ni d’élever la voix. En outre, J’exauce l’invocation de celui qui s’adresse exclusivement à Moi et M’invoque. Qu’ils se soumettent à Moi et à Mes ordres et qu’ils restent fermement fidèles à leur foi, c’est le moyen le plus efficace d’obtenir Mon exaucement. Puissent-ils emprunter par ce comportement la voie de la droiture dans leurs affaires religieuses et mondaines.
+Ô Prophète, si ceux qui me sont soumis te questionnent pour savoir si je suis proche ou pas et si j’exauce leur invocation, \[réponds-leur\] que Je suis proche d’eux, que Je connais leurs situations et que J’entends leur invocation. Nul besoin d’intermédiaires ni d’élever la voix. En outre, J’exauce l’invocation de celui qui s’adresse exclusivement à Moi et M’invoque. Qu’ils se soumettent à Moi et à Mes ordres et qu’ils restent fermement fidèles à leur foi, c’est le moyen le plus efficace d’obtenir Mon exaucement. Puissent-ils emprunter par ce comportement la voie de la droiture dans leurs affaires religieuses et mondaines.
 
 # 194
 
-Dans les premiers temps de la prescription du jeûne, il était illicite pour l’homme qui s’endormait la veille d’un jour de jeûne et se réveillait avant l’aube de manger ou d’approcher son épouse. Allah abrogea ce jugement et vous rendit licite, ô croyants, d’avoir des rapports intimes avec vos épouses les veilles de jours de jeûne, car vos épouses sont une protection et un contentement charnel pour vous et vous pour elles. Vous ne pouvez donc vous passer l’un de l’autre. Allah savait que vous vous fourvoyiez en commettant ce qu’Il vous avait défendu, mais a été miséricordieux avec vous, a accepté votre repentir et a allégé le jugement en question. Maintenant, ayez des rapports intimes avec elles et recherchez ce qu’Allah vous a prédestiné comme descendance. De même, mangez et buvez toute la nuit jusqu’à ce que vous voyiez avec certitude l’apparition de l’aube (`al-fajru ş-şâdiqu) qui se vérifie par la nette distinction entre la lueur du jour et l’obscurité de la nuit. Jeûnez alors en vous abstenant de tout ce qui rompt le jeûne de l’aube jusqu’au coucher du soleil et n’ayez pas de rapports intimes avec vos épouses tandis que vous êtes en retraite spirituelle dans les mosquées car ceci annule le jeûne. Ces jugements énoncés sont les limites d’Allah entre le licite (`al-ħalâlu) et l’illicite (`al-ħarâmu). Ne les approchez donc jamais. Quiconque s’approche des limites d’Allah risque de commettre l’illicite. C’est par cette explication claire et limpide de ces jugements qu’Allah expose Ses versets au gens, vont-ils Le craindre et accomplir ce qu’Il ordonne et délaisser ce qu’Il interdit?
+Dans les premiers temps de la prescription du jeûne, il était illicite pour l’homme qui s’endormait la veille d’un jour de jeûne et se réveillait avant l’aube de manger ou d’approcher son épouse. Allah abrogea ce jugement et vous rendit licite, ô croyants, d’avoir des rapports intimes avec vos épouses les veilles de jours de jeûne, car vos épouses sont une protection et un contentement charnel pour vous et vous pour elles. Vous ne pouvez donc vous passer l’un de l’autre. Allah savait que vous vous fourvoyiez en commettant ce qu’Il vous avait défendu, mais a été miséricordieux avec vous, a accepté votre repentir et a allégé le jugement en question. Maintenant, ayez des rapports intimes avec elles et recherchez ce qu’Allah vous a prédestiné comme descendance. De même, mangez et buvez toute la nuit jusqu’à ce que vous voyiez avec certitude l’apparition de l’aube (\`al-fajru ş-şâdiqu) qui se vérifie par la nette distinction entre la lueur du jour et l’obscurité de la nuit. Jeûnez alors en vous abstenant de tout ce qui rompt le jeûne de l’aube jusqu’au coucher du soleil et n’ayez pas de rapports intimes avec vos épouses tandis que vous êtes en retraite spirituelle dans les mosquées car ceci annule le jeûne. Ces jugements énoncés sont les limites d’Allah entre le licite (\`al-ħalâlu) et l’illicite (\`al-ħarâmu). Ne les approchez donc jamais. Quiconque s’approche des limites d’Allah risque de commettre l’illicite. C’est par cette explication claire et limpide de ces jugements qu’Allah expose Ses versets au gens, vont-ils Le craindre et accomplir ce qu’Il ordonne et délaisser ce qu’Il interdit?
 
 # 195
 
@@ -802,23 +802,23 @@ Combattez les mécréants jusqu’à ce qu’ils délaissent le polythéisme et 
 
 # 201
 
-Le Mois Sacré (`ach-chahru l-ħarâmu), durant lequel Allah vous donna la force d’entrer dans le Sanctuaire (`al-ħaramu) et d’accomplir le Petit Pèlerinage lors de la septième année de l’Hégire, est une compensation pour le Mois Sacré durant lequel les polythéistes ont refusés que vous entriez dans le Sanctuaire lors de la sixième année de l’Hégire. Les sacralités, comme la sacralité du Pays Sacré (`al-baladu l-ħarâmu)( ), du Mois Sacré et de la sacralisation pour le pèlerinage, sont soumis, lorsqu’il y a agression, à la loi du talion. Ainsi, quiconque vous agresse dans un lieu, une période ou une situation sacrée, traitez-le de la même façon et n’allez pas au-delà de la limite de la réciprocité, car Allah n’aime pas ceux qui transgressent Ses limites. Craignez Allah et ne dépassez pas ce qu’Il vous a permis et sachez qu’Allah est avec ceux qui Le craignent: Il facilite leurs affaires et les soutient.
+Le Mois Sacré (\`ach-chahru l-ħarâmu), durant lequel Allah vous donna la force d’entrer dans le Sanctuaire (\`al-ħaramu) et d’accomplir le Petit Pèlerinage lors de la septième année de l’Hégire, est une compensation pour le Mois Sacré durant lequel les polythéistes ont refusés que vous entriez dans le Sanctuaire lors de la sixième année de l’Hégire. Les sacralités, comme la sacralité du Pays Sacré (\`al-baladu l-ħarâmu)( ), du Mois Sacré et de la sacralisation pour le pèlerinage, sont soumis, lorsqu’il y a agression, à la loi du talion. Ainsi, quiconque vous agresse dans un lieu, une période ou une situation sacrée, traitez-le de la même façon et n’allez pas au-delà de la limite de la réciprocité, car Allah n’aime pas ceux qui transgressent Ses limites. Craignez Allah et ne dépassez pas ce qu’Il vous a permis et sachez qu’Allah est avec ceux qui Le craignent: Il facilite leurs affaires et les soutient.
 
 # 202
 
-Dépensez la richesse que vous possédez dans l’obéissance à Allah, comme dans la lutte pour Sa cause ainsi que d’autres œuvres pieuses et ne précipitez pas volontairement votre propre perte en délaissant la lutte pour la cause d’Allah, en ne dépensant pas pour cette lutte ou en vous précipitant vers ce qui cause votre perte. Visez l’excellence (`al-`iħsânu) dans vos adorations, vos transactions et votre comportement car Allah aime ceux qui sont bienfaisants en toute situation. Il leur accordera une rétribution généreuse et leur permettra d’être des gens de la droiture (d’hériter du paradis).
+Dépensez la richesse que vous possédez dans l’obéissance à Allah, comme dans la lutte pour Sa cause ainsi que d’autres œuvres pieuses et ne précipitez pas volontairement votre propre perte en délaissant la lutte pour la cause d’Allah, en ne dépensant pas pour cette lutte ou en vous précipitant vers ce qui cause votre perte. Visez l’excellence (\`al-\`iħsânu) dans vos adorations, vos transactions et votre comportement car Allah aime ceux qui sont bienfaisants en toute situation. Il leur accordera une rétribution généreuse et leur permettra d’être des gens de la droiture (d’hériter du paradis).
 
 # 203
 
-Achevez le Petit et le Grand Pèlerinage lorsque vous les débutez, en ne désirant obtenir dans leur accomplissement que la satisfaction d’Allah. Si vous ne pouvez les achever à cause de la maladie ou de la menace d’ennemis, vous devez sacrifier comme offrande (hadiyun) une bête de pâturage – dromadaire, bœuf ou mouton – qu’il vous est facile d’acquérir afin de vous désacraliser. Ne vous rasez pas ou ne raccourcissez pas vos cheveux avant que l’offrande ne soit là où elle sera sacrifiée. Si le pèlerin est empêché d’entrer dans le Sanctuaire, qu’il sacrifie, là où il a été empêché et au moment où il a été empêché tandis que s’il peut accéder au Sanctuaire, qu’il sacrifie à l’intérieur du Sanctuaire le Jour du Sacrifice (yawmu n-naħri) ou l’un des quatre jours suivants (`ayyâmu t-tachrîqi). Ceux parmi vous qui sont malades ou souffrent d’un mal qui touche les cheveux, comme les poux ou autres, ne commettent aucun mal en se rasant la tête avant, mais ceux-ci doivent s’acquitter d’une compensation en jeûnant trois jours, en nourrissant soixante pauvres du Sanctuaire ou en immolant une brebis qui sera ensuite distribuée au pauvres du sanctuaire. Si vous n’êtes pas dans une situation où vous craignez pour votre vie, que celui qui accomplit en plus un Petit Pèlerinage durant les mois du Grand Pèlerinage et s’adonne à ce qui est interdit en état de sacralisation avant de se sacraliser pour le grand Pèlerinage immole une brebis qu’il peut facilement acquérir ou que sept personnes dans ce cas s’associent à lui afin d’immoler un dromadaire ou un bœuf. S’il ne lui est pas possible d’immoler, il doit à la place jeûner trois jours à la Mecque et sept jours une fois rentré chez lui, afin que le total des jours jeûnés soit égal à dix. Ce pèlerinage (qualifié de tamattu’un) avec obligation de sacrifier une offrande ou de jeûner pour celui qui ne peut sacrifier, est réservé à ceux qui n’habitent pas dans le Sanctuaire ou près du Sanctuaire. En effet, ceux-ci n’ont nul besoin de ce type de pèlerinage puisque vivant à la Mecque, il leur suffit dans l’attente du Grand pèlerinage, d’accomplir des circumambulations en lieu et place de l’accomplissement d’un Petit Pèlerinage. Craignez Allah en vous conformant à ce qu’Il a prescrit et en ne franchissant pas Ses limites. Sachez qu’Allah est dur en punition avec ceux qui Lui désobéissent.
+Achevez le Petit et le Grand Pèlerinage lorsque vous les débutez, en ne désirant obtenir dans leur accomplissement que la satisfaction d’Allah. Si vous ne pouvez les achever à cause de la maladie ou de la menace d’ennemis, vous devez sacrifier comme offrande (hadiyun) une bête de pâturage – dromadaire, bœuf ou mouton – qu’il vous est facile d’acquérir afin de vous désacraliser. Ne vous rasez pas ou ne raccourcissez pas vos cheveux avant que l’offrande ne soit là où elle sera sacrifiée. Si le pèlerin est empêché d’entrer dans le Sanctuaire, qu’il sacrifie, là où il a été empêché et au moment où il a été empêché tandis que s’il peut accéder au Sanctuaire, qu’il sacrifie à l’intérieur du Sanctuaire le Jour du Sacrifice (yawmu n-naħri) ou l’un des quatre jours suivants (\`ayyâmu t-tachrîqi). Ceux parmi vous qui sont malades ou souffrent d’un mal qui touche les cheveux, comme les poux ou autres, ne commettent aucun mal en se rasant la tête avant, mais ceux-ci doivent s’acquitter d’une compensation en jeûnant trois jours, en nourrissant soixante pauvres du Sanctuaire ou en immolant une brebis qui sera ensuite distribuée au pauvres du sanctuaire. Si vous n’êtes pas dans une situation où vous craignez pour votre vie, que celui qui accomplit en plus un Petit Pèlerinage durant les mois du Grand Pèlerinage et s’adonne à ce qui est interdit en état de sacralisation avant de se sacraliser pour le grand Pèlerinage immole une brebis qu’il peut facilement acquérir ou que sept personnes dans ce cas s’associent à lui afin d’immoler un dromadaire ou un bœuf. S’il ne lui est pas possible d’immoler, il doit à la place jeûner trois jours à la Mecque et sept jours une fois rentré chez lui, afin que le total des jours jeûnés soit égal à dix. Ce pèlerinage (qualifié de tamattu’un) avec obligation de sacrifier une offrande ou de jeûner pour celui qui ne peut sacrifier, est réservé à ceux qui n’habitent pas dans le Sanctuaire ou près du Sanctuaire. En effet, ceux-ci n’ont nul besoin de ce type de pèlerinage puisque vivant à la Mecque, il leur suffit dans l’attente du Grand pèlerinage, d’accomplir des circumambulations en lieu et place de l’accomplissement d’un Petit Pèlerinage. Craignez Allah en vous conformant à ce qu’Il a prescrit et en ne franchissant pas Ses limites. Sachez qu’Allah est dur en punition avec ceux qui Lui désobéissent.
 
 # 204
 
-La période du Grand Pèlerinage correspond à des mois déterminés, commençant du début du mois de Chawwâl (chawwâlu) et se terminant le dixième jour du mois de Dhû al-Ħijjah (dhu l-ħijjah(ħijjati)). Quiconque décide d’accomplir le Grand Pèlerinage durant ces mois et se sacralise, les rapports intimes et leurs préliminaires deviennent alors illicites pour lui. Il lui est également illicite, en raison de la sainteté du lieu et du moment, de désobéir à Allah en commettant des péchés tout comme il lui est illicite de s’engager dans une polémique qui mène à une colère et à une dispute. Tout ce que vous faites de bien, Allah le connaît et vous rétribue en échange. Aidez-vous afin d’accomplir le Grand Pèlerinage en constituant des réserves de ce dont vous avez besoins comme nourriture et boisson et sachez que la meilleur des provisions, celle qui vous aide dans toutes vos affaires, est la crainte d’Allah (`at-taqwâ). Craignez-moi donc en obéissant à Mes ordres et en délaissant Mes interdits, ô vous qui êtes doués d’une raison saine.
+La période du Grand Pèlerinage correspond à des mois déterminés, commençant du début du mois de Chawwâl (chawwâlu) et se terminant le dixième jour du mois de Dhû al-Ħijjah (dhu l-ħijjah(ħijjati)). Quiconque décide d’accomplir le Grand Pèlerinage durant ces mois et se sacralise, les rapports intimes et leurs préliminaires deviennent alors illicites pour lui. Il lui est également illicite, en raison de la sainteté du lieu et du moment, de désobéir à Allah en commettant des péchés tout comme il lui est illicite de s’engager dans une polémique qui mène à une colère et à une dispute. Tout ce que vous faites de bien, Allah le connaît et vous rétribue en échange. Aidez-vous afin d’accomplir le Grand Pèlerinage en constituant des réserves de ce dont vous avez besoins comme nourriture et boisson et sachez que la meilleur des provisions, celle qui vous aide dans toutes vos affaires, est la crainte d’Allah (\`at-taqwâ). Craignez-moi donc en obéissant à Mes ordres et en délaissant Mes interdits, ô vous qui êtes doués d’une raison saine.
 
 # 205
 
-Vous ne commettez pas de péché en cherchant à vivre de manière licite par la pratique du négoce ou d’autres activités, durant le Grand Pèlerinage. Lorsque vous descendez d‘Arafât, après être restés là-bas le neuvième jour du mois de Dhû al-Ħijjah, et que vous vous rendez à Muzdalifah la nuit du dixième jour, évoquez Allah en proclamant Sa Gloire (`at-tasbîħu) et Son Unicité (`at-tahlîlu) et en L’invoquant dans le Lieu Sacré (`al-mach’aru l-ħarâmu) qu’est Muzdalifah. Et évoquez Allah pour vous avoir guidés dans la pratique de Sa religion et des rites du Grand Pèlerinage, car vous étiez auparavant inattentifs à Sa Législation.
+Vous ne commettez pas de péché en cherchant à vivre de manière licite par la pratique du négoce ou d’autres activités, durant le Grand Pèlerinage. Lorsque vous descendez d‘Arafât, après être restés là-bas le neuvième jour du mois de Dhû al-Ħijjah, et que vous vous rendez à Muzdalifah la nuit du dixième jour, évoquez Allah en proclamant Sa Gloire (\`at-tasbîħu) et Son Unicité (\`at-tahlîlu) et en L’invoquant dans le Lieu Sacré (\`al-mach’aru l-ħarâmu) qu’est Muzdalifah. Et évoquez Allah pour vous avoir guidés dans la pratique de Sa religion et des rites du Grand Pèlerinage, car vous étiez auparavant inattentifs à Sa Législation.
 
 # 206
 
@@ -838,7 +838,7 @@ Ceux qui demandent le bien de ce bas monde et le bien de l’au-delà, obtiendro
 
 # 210
 
-Invoquez Allah en proclamant à haute voix Sa grandeur (`at-takbîru) et Son Unicité quelques jours durant: le onzième, le douzième et le treizième jour de Dhû al-Ħijjah. Quiconque quitte Minâ prématurément le douzième jour, après avoir lapidé les stèles, est libre de le faire car il bénéficie de l’allègement d’Allah et quiconque reste jusqu’au treizième jour afin de lapider les stèles, est libre de le faire. Ce dernier ne commet pas de faute et accomplit de manière plus complète son rite, comme l’a fait le Prophète. Tout ceci est adressé à celui qui craint Allah durant son Grand Pèlerinage et l’accomplit conformément à ce qu’ordonne Allah. Craignez Allah en obéissant à Ses ordres et en délaissant Ses interdits. Soyez certains que vous reviendrez auprès de Lui Seul et qu’Il vous rétribuera pour vos œuvres.
+Invoquez Allah en proclamant à haute voix Sa grandeur (\`at-takbîru) et Son Unicité quelques jours durant: le onzième, le douzième et le treizième jour de Dhû al-Ħijjah. Quiconque quitte Minâ prématurément le douzième jour, après avoir lapidé les stèles, est libre de le faire car il bénéficie de l’allègement d’Allah et quiconque reste jusqu’au treizième jour afin de lapider les stèles, est libre de le faire. Ce dernier ne commet pas de faute et accomplit de manière plus complète son rite, comme l’a fait le Prophète. Tout ceci est adressé à celui qui craint Allah durant son Grand Pèlerinage et l’accomplit conformément à ce qu’ordonne Allah. Craignez Allah en obéissant à Ses ordres et en délaissant Ses interdits. Soyez certains que vous reviendrez auprès de Lui Seul et qu’Il vous rétribuera pour vos œuvres.
 
 # 211
 
@@ -870,7 +870,7 @@ Ceux qui obéissent à Satan et s’écartent du chemin de la vérité n’atten
 
 # 218
 
-Ô Prophète, pose la question suivante aux enfants d’Israël en guise de réprimande: Combien de signes évidents démontrant la véracité des messagers d’Allah vous a-t-il été envoyé? Vous les avez malgré tout démentis et reniés. Que celui qui mécroie et nie le bienfait d’Allah après avoir admis et reconnu [qu’il s’agit d’un bienfait de la part d’Allah], sache qu’Allah punit sévèrement les mécréants et les dénégateurs.
+Ô Prophète, pose la question suivante aux enfants d’Israël en guise de réprimande: Combien de signes évidents démontrant la véracité des messagers d’Allah vous a-t-il été envoyé? Vous les avez malgré tout démentis et reniés. Que celui qui mécroie et nie le bienfait d’Allah après avoir admis et reconnu \[qu’il s’agit d’un bienfait de la part d’Allah\], sache qu’Allah punit sévèrement les mécréants et les dénégateurs.
 
 # 219
 
@@ -894,7 +894,7 @@ Pensez-vous, ô croyants, que vous entrerez au Paradis sans qu’une épreuve ne
 
 # 224
 
-Ô Prophète, les gens te questionnent à propos du fait de combattre durant les mois sacrés (`al-`achhuru l-ħurumu): Dhû al-Qi’dah (dhu l-qi’dah(qi’dati)), Dhû al-Ħijjah, Muħarram et Rajab. Réponds-leur: Le combat durant ces mois est un péché grave, désapprouvé par Allah. Mais Allah désapprouve bien plus encore ce que commettent les mécréants qui éloignent les gens du chemin d’Allah, empêchent les croyants d’accéder à la Mosquée Sacrée et en chassent ses habitants. Pour Allah, tout cela est bien plus grave que de combattre durant les mois sacrés. En outre, le polythéisme qu’ils pratiquent est plus grave que le meurtre. Les polythéistes ne cesseront d’être injustes et de vous combattre, ô croyants, jusqu’à ce que vous renonciez à la véritable religion à laquelle vous êtes fidèles et que vous adoptiez leur fausse religion. Quiconque parmi vous renonce à sa religion annule par cet acte les œuvres pieuses qu’il avait à son actif et son sort dans l’au-delà sera d’être jeté en Enfer et d’y rester éternellement.
+Ô Prophète, les gens te questionnent à propos du fait de combattre durant les mois sacrés (\`al-\`achhuru l-ħurumu): Dhû al-Qi’dah (dhu l-qi’dah(qi’dati)), Dhû al-Ħijjah, Muħarram et Rajab. Réponds-leur: Le combat durant ces mois est un péché grave, désapprouvé par Allah. Mais Allah désapprouve bien plus encore ce que commettent les mécréants qui éloignent les gens du chemin d’Allah, empêchent les croyants d’accéder à la Mosquée Sacrée et en chassent ses habitants. Pour Allah, tout cela est bien plus grave que de combattre durant les mois sacrés. En outre, le polythéisme qu’ils pratiquent est plus grave que le meurtre. Les polythéistes ne cesseront d’être injustes et de vous combattre, ô croyants, jusqu’à ce que vous renonciez à la véritable religion à laquelle vous êtes fidèles et que vous adoptiez leur fausse religion. Quiconque parmi vous renonce à sa religion annule par cet acte les œuvres pieuses qu’il avait à son actif et son sort dans l’au-delà sera d’être jeté en Enfer et d’y rester éternellement.
 
 # 225
 
@@ -902,7 +902,7 @@ Ceux qui croient en Allah et en Son Messager, délaissent leurs patries afin de 
 
 # 226
 
-Ô Prophète, tes Compagnons te questionnent au sujet du vin (`al-khamru) qui englobe tout ce qui brouille la raison et finit par la faire disparaître. Ils te questionnent à propos de sa consommation, de sa vente et de son achat. Ils te questionnent aussi au sujet des jeux de hasard (`al-qimâru) qui sont des jeux où le gagnant remporte un gain versé par les perdants. Réponds-leur: S’y trouve nombre de nuisances et d’inconvénients religieux et mondains comme la perte de la raison et des biens ainsi que l’attisement des hostilités et des rancunes. On y trouve certes des avantages peu nombreux, comme la prise de gains financiers, mais les nuisances et les péchés qu’on récolte en y jouant sont plus nombreux que les avantages. Or l’être humain raisonnable délaisse ce dont les inconvénients sont plus importants que les avantages. Cette annonce d’Allah contient un prélude à l’illicéité du vin. Ô Prophète, tes Compagnons te questionnent au sujet de la part de leur richesse qu’ils doivent dépenser volontairement par charité. Réponds-leur: Dépensez de vos richesses ce dont vous n’avez pas besoin. Ceci était en vigueur les premiers temps de l’Islam puis Allah prescrivit l’aumône légale obligatoire à prélever sur certains biens à partir de certains seuils. Cette annonce qui ne comporte aucune ambigüité est l’explication donnée par Allah à Ses jugements, allez-vous réfléchir ?
+Ô Prophète, tes Compagnons te questionnent au sujet du vin (\`al-khamru) qui englobe tout ce qui brouille la raison et finit par la faire disparaître. Ils te questionnent à propos de sa consommation, de sa vente et de son achat. Ils te questionnent aussi au sujet des jeux de hasard (\`al-qimâru) qui sont des jeux où le gagnant remporte un gain versé par les perdants. Réponds-leur: S’y trouve nombre de nuisances et d’inconvénients religieux et mondains comme la perte de la raison et des biens ainsi que l’attisement des hostilités et des rancunes. On y trouve certes des avantages peu nombreux, comme la prise de gains financiers, mais les nuisances et les péchés qu’on récolte en y jouant sont plus nombreux que les avantages. Or l’être humain raisonnable délaisse ce dont les inconvénients sont plus importants que les avantages. Cette annonce d’Allah contient un prélude à l’illicéité du vin. Ô Prophète, tes Compagnons te questionnent au sujet de la part de leur richesse qu’ils doivent dépenser volontairement par charité. Réponds-leur: Dépensez de vos richesses ce dont vous n’avez pas besoin. Ceci était en vigueur les premiers temps de l’Islam puis Allah prescrivit l’aumône légale obligatoire à prélever sur certains biens à partir de certains seuils. Cette annonce qui ne comporte aucune ambigüité est l’explication donnée par Allah à Ses jugements, allez-vous réfléchir ?
 
 # 227
 
@@ -914,7 +914,7 @@ Allah vous a prescrit cela afin que vous réfléchissiez à ce qui vous est util
 
 # 229
 
-Ô Prophète, tes Compagnons te questionnent au sujet des menstrues (`al-ħayḍu) qui désignent un écoulement de sang naturel provenant de l’utérus de la femme à intervalles réguliers. Réponds-leur: Les menstrues sont nocives pour l’homme et pour la femme. Abstenez-vous donc de copuler avec vos épouses lorsqu’elles ont leurs menstrues et ne les pénétrez pas tant que l’écoulement de sang ne s’est pas arrêté et qu’elles ne se sont pas purifiées en effectuant le bain rituel (`al-ghuslu). Lorsque l’écoulement de sang cesse et qu’elles ont accompli le bain rituel, copulez avec elles de la manière qui vous a été permise: en état de pureté et par pénétration vaginale. Allah aime ceux qui se repentent de leurs péchés et qui se purifient fréquemment des souillures.
+Ô Prophète, tes Compagnons te questionnent au sujet des menstrues (\`al-ħayḍu) qui désignent un écoulement de sang naturel provenant de l’utérus de la femme à intervalles réguliers. Réponds-leur: Les menstrues sont nocives pour l’homme et pour la femme. Abstenez-vous donc de copuler avec vos épouses lorsqu’elles ont leurs menstrues et ne les pénétrez pas tant que l’écoulement de sang ne s’est pas arrêté et qu’elles ne se sont pas purifiées en effectuant le bain rituel (\`al-ghuslu). Lorsque l’écoulement de sang cesse et qu’elles ont accompli le bain rituel, copulez avec elles de la manière qui vous a été permise: en état de pureté et par pénétration vaginale. Allah aime ceux qui se repentent de leurs péchés et qui se purifient fréquemment des souillures.
 
 # 230
 
@@ -926,23 +926,23 @@ Ne faites pas du serment par Allah un prétexte pour ne pas faire le bien, ne pa
 
 # 232
 
-Allah ne vous demande pas de compte pour les serments que vous prononcez sans avoir d’intention précise comme lorsque l’un de vous dit: «Non, par Allah» ou «Oui, par Allah». Vous n’êtes donc pas tenus de vous acquitter d’une expiation ni n’êtes punis pour cela. En revanche, Il vous demandera des comptes pour les serments que vous avez prononcés avec une intention précise. Allah est Celui qui pardonne les péchés de Ses serviteurs et se montre Indulgent (du nom d’Allah `al-ħalîmu) en ne s’empressant pas de les punir.
+Allah ne vous demande pas de compte pour les serments que vous prononcez sans avoir d’intention précise comme lorsque l’un de vous dit: «Non, par Allah» ou «Oui, par Allah». Vous n’êtes donc pas tenus de vous acquitter d’une expiation ni n’êtes punis pour cela. En revanche, Il vous demandera des comptes pour les serments que vous avez prononcés avec une intention précise. Allah est Celui qui pardonne les péchés de Ses serviteurs et se montre Indulgent (du nom d’Allah \`al-ħalîmu) en ne s’empressant pas de les punir.
 
 # 233
 
-Pour ceux qui font le serment de s’abstenir de rapports avec leurs épouses, ils peuvent faire le choix d’attendre durant une période n’excédant pas quatre mois commençant au moment où ils ont fait serment. Ceci est appelé `al-`îlâ`u. S’ils se remettent à avoir des rapports avec leurs épouses avant l’écoulement des quatre mois, Allah est Pardonneur et Miséricordieux. En effet, Il leur pardonne leur serment et se montre miséricordieux à leur égard dans le sens où Il a prévu une expiation comme moyen de se défaire de ce serment.
+Pour ceux qui font le serment de s’abstenir de rapports avec leurs épouses, ils peuvent faire le choix d’attendre durant une période n’excédant pas quatre mois commençant au moment où ils ont fait serment. Ceci est appelé \`al-\`îlâ\`u. S’ils se remettent à avoir des rapports avec leurs épouses avant l’écoulement des quatre mois, Allah est Pardonneur et Miséricordieux. En effet, Il leur pardonne leur serment et se montre miséricordieux à leur égard dans le sens où Il a prévu une expiation comme moyen de se défaire de ce serment.
 
 # 234
 
-Si, en revanche ils désirent par ce serment la répudiation( ) (`aṭ-ṭalâqu), qu’ils se rappellent qu’Allah entend toutes les paroles qu’ils prononcent, et celles-ci ne font pas exception. Il connaît aussi leur état d’esprit et leurs intentions et Il les rétribuera en conséquence.
+Si, en revanche ils désirent par ce serment la répudiation( ) (\`aṭ-ṭalâqu), qu’ils se rappellent qu’Allah entend toutes les paroles qu’ils prononcent, et celles-ci ne font pas exception. Il connaît aussi leur état d’esprit et leurs intentions et Il les rétribuera en conséquence.
 
 # 235
 
-Les femmes répudiées doivent attendre d’avoir trois menstruations successives avant de se marier avec un autre homme et il ne leur est pas permis de dissimuler une grossesse éventuelle si elles croient sincèrement en Allah et au Jour Dernier. De plus, les époux qui les ont répudiées sont les plus en droit de reprendre la vie commune avec elles durant le délai de viduité (`al-’iddah(‘iddatu)), s’ils désirent à travers cette réconciliation vivre dans l’affection et faire disparaître la cause de la répudiation. Les épouses ont des droits et des obligations semblables à ceux que les époux ont vis-à-vis d’elles, conformément à ce qui est admis par les gens, mais les hommes leur sont supérieurs d’un degré du fait de la responsabilité qu’ils assument et du droit de répudier dont ils disposent. Allah est le Puissant auquel nul ne Lui tient tête et Sa Sagesse se manifeste dans Sa gestion de l’Univers et dans Ses lois.
+Les femmes répudiées doivent attendre d’avoir trois menstruations successives avant de se marier avec un autre homme et il ne leur est pas permis de dissimuler une grossesse éventuelle si elles croient sincèrement en Allah et au Jour Dernier. De plus, les époux qui les ont répudiées sont les plus en droit de reprendre la vie commune avec elles durant le délai de viduité (\`al-’iddah(‘iddatu)), s’ils désirent à travers cette réconciliation vivre dans l’affection et faire disparaître la cause de la répudiation. Les épouses ont des droits et des obligations semblables à ceux que les époux ont vis-à-vis d’elles, conformément à ce qui est admis par les gens, mais les hommes leur sont supérieurs d’un degré du fait de la responsabilité qu’ils assument et du droit de répudier dont ils disposent. Allah est le Puissant auquel nul ne Lui tient tête et Sa Sagesse se manifeste dans Sa gestion de l’Univers et dans Ses lois.
 
 # 236
 
-Le nombre de répudiations après lesquelles l’époux peut reprendre son épouse est de deux. Il lui est possible de la répudier une première fois et de reprendre la vie commune, puis de répudier une seconde fois et de reprendre une nouvelle fois la vie commune. Après ces deux répudiations, soit il continue de vivre convenablement avec son épouse soit il la répudie définitivement avec bienfaisance envers elle en s’acquittant de ses droits. Ô époux, il ne vous est pas permis de reprendre ce que vous avez remis à vos épouses comme douaire( ) (`al-mahru) sauf si l’épouse déteste son époux en raison d’un défaut dans son physique ou sa moralité et que les époux pensent qu’ils ne pourront pas s’acquitter de leurs droits mutuels en raison de cette aversion. Dans ce cas, ils exposent leur affaire à un parent ou à une autre personne. Si les tuteurs des époux craignent que ces derniers ne soient pas en mesure de respecter leurs obligations conjugales, il n’y a pas de mal à ce que l’épouse se rachète par une somme qu’elle remet à l’époux en échange de sa répudiation. Ces jugements constituent la ligne de démarcation entre le licite et l’illicite, ne franchissez donc pas ces limites. Ceux qui franchissent les limites fixées par Allah en matière de licite et d’illicite se montrent injustes envers eux-mêmes en courant à leur perte et en s’exposant à la colère et à la punition d’Allah.
+Le nombre de répudiations après lesquelles l’époux peut reprendre son épouse est de deux. Il lui est possible de la répudier une première fois et de reprendre la vie commune, puis de répudier une seconde fois et de reprendre une nouvelle fois la vie commune. Après ces deux répudiations, soit il continue de vivre convenablement avec son épouse soit il la répudie définitivement avec bienfaisance envers elle en s’acquittant de ses droits. Ô époux, il ne vous est pas permis de reprendre ce que vous avez remis à vos épouses comme douaire( ) (\`al-mahru) sauf si l’épouse déteste son époux en raison d’un défaut dans son physique ou sa moralité et que les époux pensent qu’ils ne pourront pas s’acquitter de leurs droits mutuels en raison de cette aversion. Dans ce cas, ils exposent leur affaire à un parent ou à une autre personne. Si les tuteurs des époux craignent que ces derniers ne soient pas en mesure de respecter leurs obligations conjugales, il n’y a pas de mal à ce que l’épouse se rachète par une somme qu’elle remet à l’époux en échange de sa répudiation. Ces jugements constituent la ligne de démarcation entre le licite et l’illicite, ne franchissez donc pas ces limites. Ceux qui franchissent les limites fixées par Allah en matière de licite et d’illicite se montrent injustes envers eux-mêmes en courant à leur perte et en s’exposant à la colère et à la punition d’Allah.
 
 # 237
 
@@ -962,7 +962,7 @@ Les génitrices( ) allaitent leurs progénitures durant deux années complètes.
 
 # 241
 
-Quand un homme meurt et laisse derrière lui une ou des épouses non enceintes, celles-ci doivent obligatoirement observer un délai de viduité de quatre mois et dix jours durant lequel elles s’abstiennent de sortir du domicile conjugal, de s’embellir et de contracter une nouvelle union. Après l’écoulement de ce délai, il ne vous est rien reproché, ô tuteurs, si elles accomplissent ce qui leur était interdit durant le délai de viduité, de manière conforme à la religion et aux coutumes. Allah est Parfaitement Informé (du nom d’Allah `al-khabîru) de ce que vous faites. Rien de votre apparence ou de votre for intérieur ne Lui échappe et Il vous rétribuera pour ce qu’Il connaît de vous.
+Quand un homme meurt et laisse derrière lui une ou des épouses non enceintes, celles-ci doivent obligatoirement observer un délai de viduité de quatre mois et dix jours durant lequel elles s’abstiennent de sortir du domicile conjugal, de s’embellir et de contracter une nouvelle union. Après l’écoulement de ce délai, il ne vous est rien reproché, ô tuteurs, si elles accomplissent ce qui leur était interdit durant le délai de viduité, de manière conforme à la religion et aux coutumes. Allah est Parfaitement Informé (du nom d’Allah \`al-khabîru) de ce que vous faites. Rien de votre apparence ou de votre for intérieur ne Lui échappe et Il vous rétribuera pour ce qu’Il connaît de vous.
 
 # 242
 
@@ -978,7 +978,7 @@ Lorsque vous répudiez les épouses avec lesquelles vous avez conclu un acte de 
 
 # 245
 
-Soyez assidus dans vos prières en les accomplissant de manière complète conformément à ce qu’ordonne Allah. Soyez particulièrement assidus dans la prière médiane (`aṣ-ṣalâtu l-wusṭâ) qui correspond à la prière de l’après-midi (ṣalâtu l-’aṣri) et présentez-vous devant Allah en étant obéissants et humbles.
+Soyez assidus dans vos prières en les accomplissant de manière complète conformément à ce qu’ordonne Allah. Soyez particulièrement assidus dans la prière médiane (\`aṣ-ṣalâtu l-wusṭâ) qui correspond à la prière de l’après-midi (ṣalâtu l-’aṣri) et présentez-vous devant Allah en étant obéissants et humbles.
 
 # 246
 
@@ -986,7 +986,7 @@ Si vous craignez l’attaque d’un ennemi ou une menace quelconque et que vous 
 
 # 247
 
-Ceux parmi vous qui meurent et qui laissent derrière eux des épouses doivent laisser un testament stipulant qu’ils les laissent disposer de leurs demeures et qu’elles doivent être financièrement entretenues pendant une année complète durant laquelle les autres héritiers ne peuvent les expulser. Ceci, afin de les consoler pour leur perte et en souvenir du défunt. Si elles quittent leur foyer de leur propre chef avant la fin de l’année, ni vous ni elles ne commettent de faute si elles s’embellissent et se parfument. Allah est le Puissant auquel nul ne tient tête et Sage dans Sa gestion et Ses lois. La majorité des exégèses sont d’avis que le jugement annoncé dans ce verset a été abrogé par un autre verset dans lequel Allah dit: Ceux des vôtres que la mort frappe et qui laissent des épouses: celles-ci doivent observer une période d’attente de quatre mois et dix jours. [Sourate Al-Baqarah, verset 234].
+Ceux parmi vous qui meurent et qui laissent derrière eux des épouses doivent laisser un testament stipulant qu’ils les laissent disposer de leurs demeures et qu’elles doivent être financièrement entretenues pendant une année complète durant laquelle les autres héritiers ne peuvent les expulser. Ceci, afin de les consoler pour leur perte et en souvenir du défunt. Si elles quittent leur foyer de leur propre chef avant la fin de l’année, ni vous ni elles ne commettent de faute si elles s’embellissent et se parfument. Allah est le Puissant auquel nul ne tient tête et Sage dans Sa gestion et Ses lois. La majorité des exégèses sont d’avis que le jugement annoncé dans ce verset a été abrogé par un autre verset dans lequel Allah dit: Ceux des vôtres que la mort frappe et qui laissent des épouses: celles-ci doivent observer une période d’attente de quatre mois et dix jours. \[Sourate Al-Baqarah, verset 234\].
 
 # 248
 
@@ -1018,7 +1018,7 @@ Leur prophète leur dit: Allah vous a désigné comme roi Ṭâlût afin que vou
 
 # 255
 
-Le prophète dit aux nobles: Le signe de l’élection divine dont bénéficie cet homme est qu’Allah vous rendra l’Arche (`at-tâbûtu) – ce coffre était un objet de vénération de la part des enfants d’Israël – ; elle descendra avec une quiétude (sakînatun(sakînah)) qui vous envahira vous y retrouverez les reliques que laissèrent les familles de Moïse et d’Aaron, dont une canne et quelques tablettes. Voilà un signe évident qui vous est adressé, si vous êtes sincèrement croyants.
+Le prophète dit aux nobles: Le signe de l’élection divine dont bénéficie cet homme est qu’Allah vous rendra l’Arche (\`at-tâbûtu) – ce coffre était un objet de vénération de la part des enfants d’Israël – ; elle descendra avec une quiétude (sakînatun(sakînah)) qui vous envahira vous y retrouverez les reliques que laissèrent les familles de Moïse et d’Aaron, dont une canne et quelques tablettes. Voilà un signe évident qui vous est adressé, si vous êtes sincèrement croyants.
 
 # 256
 
@@ -1046,7 +1046,7 @@ Ce jour-là, nulle transaction bénéfique à l’être humain ne pourra être c
 
 # 262
 
-Allah, pas de divinité hormis Lui Seul, le Vivant (du nom d’Allah `al-ħayyu) d’une vie parfaite sans mort ni imperfection, Celui qui subsiste par lui-même (du nom’Allah `al-qayyûmu) et qui se passe de toutes Ses créatures. C’est par lui qu’existent toutes les créatures qui ne peuvent se passer de Lui en rien. Ni somnolence ni sommeil ne le saisissent en raison de la perfection de Sa vie et de Sa subsistance par Lui-même. Il possède Seul ce que contiennent les Cieux et la Terre et personne ne peut décider d’intercéder en faveur de quelqu’un sans Sa permission et Son agrément. Il connaît les évènements passés vécus par Ses créatures ainsi que les évènements futurs qui n’ont pas encore eu lieu et ils n’embrassent une part de Sa science qu’avec Sa permission. Son Trône (`al-kursiyyu) – qui correspond à l’emplacement des pieds du Seigneur – entoure les Cieux et la Terre malgré leur étendue et leur immensité, et les garder ne Lui coûte aucune peine. Il est le Très Haut (du nom d’Allah `al-’aliyyu) par Son Être, Son Décret et Sa Domination ainsi que le Très Eminent (du nom d’Allah `al-’aẓîmu) dans Son Royaume et Sa Souveraineté.
+Allah, pas de divinité hormis Lui Seul, le Vivant (du nom d’Allah \`al-ħayyu) d’une vie parfaite sans mort ni imperfection, Celui qui subsiste par lui-même (du nom’Allah \`al-qayyûmu) et qui se passe de toutes Ses créatures. C’est par lui qu’existent toutes les créatures qui ne peuvent se passer de Lui en rien. Ni somnolence ni sommeil ne le saisissent en raison de la perfection de Sa vie et de Sa subsistance par Lui-même. Il possède Seul ce que contiennent les Cieux et la Terre et personne ne peut décider d’intercéder en faveur de quelqu’un sans Sa permission et Son agrément. Il connaît les évènements passés vécus par Ses créatures ainsi que les évènements futurs qui n’ont pas encore eu lieu et ils n’embrassent une part de Sa science qu’avec Sa permission. Son Trône (\`al-kursiyyu) – qui correspond à l’emplacement des pieds du Seigneur – entoure les Cieux et la Terre malgré leur étendue et leur immensité, et les garder ne Lui coûte aucune peine. Il est le Très Haut (du nom d’Allah \`al-’aliyyu) par Son Être, Son Décret et Sa Domination ainsi que le Très Eminent (du nom d’Allah \`al-’aẓîmu) dans Son Royaume et Sa Souveraineté.
 
 # 263
 
@@ -1204,7 +1204,7 @@ Il est Celui qui vous crée sous des formes diverses dans les ventres de vos mè
 
 # 301
 
-Ces gens versés dans la science disent: Seigneur, ne dévie pas nos cœurs de la vérité après nous y avoir guidés, préserve-nous du mal qui a atteint les pervers et accorde-nous une miséricorde étendue venant de Toi, par laquelle Tu guides nos cœurs et Tu nous préserves de l’égarement. Ô notre Seigneur, tu es le Grand Donateur (du nom d’Allah `al-wahhâbu) et Tes dons sont immenses.
+Ces gens versés dans la science disent: Seigneur, ne dévie pas nos cœurs de la vérité après nous y avoir guidés, préserve-nous du mal qui a atteint les pervers et accorde-nous une miséricorde étendue venant de Toi, par laquelle Tu guides nos cœurs et Tu nous préserves de l’égarement. Ô notre Seigneur, tu es le Grand Donateur (du nom d’Allah \`al-wahhâbu) et Tes dons sont immenses.
 
 # 302
 
@@ -1244,7 +1244,7 @@ Ce sont eux les endurants, qui persévèrent dans l’accomplissement d’actes 
 
 # 311
 
-Allah atteste qu’Il est le Dieu (`al-`ilâhu) méritant d’être adoré à l’exclusion de toute autre divinité, en raison des signes religieux et temporels qui indiquent Sa Divinité. Les anges attestent également de cela, de même que les gens de science en attestent lorsqu’ils enseignent le monothéisme et appellent à le professer. Ils attestent donc du plus éminent objet d’attestation qui est la proclamation de l’Unicité d’Allah et ils affirment que Sa justice règne sur Sa création et régit Ses prescriptions religieuses. Point de divinité hormis Lui. Il est le Puissant à qui personne ne tient tête, le Sage dont la Sagesse se manifeste dans Sa création, Sa gestion de l’Univers et Sa religion.
+Allah atteste qu’Il est le Dieu (\`al-\`ilâhu) méritant d’être adoré à l’exclusion de toute autre divinité, en raison des signes religieux et temporels qui indiquent Sa Divinité. Les anges attestent également de cela, de même que les gens de science en attestent lorsqu’ils enseignent le monothéisme et appellent à le professer. Ils attestent donc du plus éminent objet d’attestation qui est la proclamation de l’Unicité d’Allah et ils affirment que Sa justice règne sur Sa création et régit Ses prescriptions religieuses. Point de divinité hormis Lui. Il est le Puissant à qui personne ne tient tête, le Sage dont la Sagesse se manifeste dans Sa création, Sa gestion de l’Univers et Sa religion.
 
 # 312
 
@@ -1348,11 +1348,11 @@ Zacharie dit: Ô Seigneur, montre-moi un signe lorsque ma femme sera enceinte de
 
 # 337
 
-Ce qui a été raconté de l’histoire de Zacharie et Marie compte parmi les connaissances relevant de l’Invisible (`al-ghaybu) que Nous te révélons, ô Messager. Tu n’étais pas présent avec ces savants et gens de bien lorsqu’ils se sont disputés pour déterminer qui méritait le mieux d’éduquer Marie jusqu’à ce qu’ils recourent au tirage au sort et qu’ils jètent leurs calames. Ce fut le calame de Zacharie qui fut tiré au sort.
+Ce qui a été raconté de l’histoire de Zacharie et Marie compte parmi les connaissances relevant de l’Invisible (\`al-ghaybu) que Nous te révélons, ô Messager. Tu n’étais pas présent avec ces savants et gens de bien lorsqu’ils se sont disputés pour déterminer qui méritait le mieux d’éduquer Marie jusqu’à ce qu’ils recourent au tirage au sort et qu’ils jètent leurs calames. Ce fut le calame de Zacharie qui fut tiré au sort.
 
 # 338
 
-Rappelle-toi, ô Messager, lorsque les anges dirent: Ô Marie, Allah t’annonce la naissance d’un enfant créé sans géniteur mais par la parole d’Allah qui dira «Kun» (Sois), et il sera alors un enfant avec la permission d’Allah. Le nom de ce garçon est le Messie (`al-masîħu) Jésus fils de Marie. Il aura un rang considérable dans le bas monde et dans l’au-delà en plus d’être l’un des rapprochés d’Allah.
+Rappelle-toi, ô Messager, lorsque les anges dirent: Ô Marie, Allah t’annonce la naissance d’un enfant créé sans géniteur mais par la parole d’Allah qui dira «Kun» (Sois), et il sera alors un enfant avec la permission d’Allah. Le nom de ce garçon est le Messie (\`al-masîħu) Jésus fils de Marie. Il aura un rang considérable dans le bas monde et dans l’au-delà en plus d’être l’un des rapprochés d’Allah.
 
 # 339
 
@@ -1656,7 +1656,7 @@ Voici que vous, ô croyants, aimez ces gens et leur souhaitez le bien alors qu�
 
 # 414
 
-Rappelle-toi, ô Prophète, lorsque tu sortis au début de la journée de Médine afin de combattre les polythéistes, te rendant à `Uħud où tu désignas aux croyants leurs postes de combat et tu définis à chacun d’eux sa place. Allah entend vos paroles et connaît vos agissements.
+Rappelle-toi, ô Prophète, lorsque tu sortis au début de la journée de Médine afin de combattre les polythéistes, te rendant à \`Uħud où tu désignas aux croyants leurs postes de combat et tu définis à chacun d’eux sa place. Allah entend vos paroles et connaît vos agissements.
 
 # 415
 
@@ -1684,7 +1684,7 @@ A travers cette victoire qui fut la vôtre à la Bataille de Badr, Allah voulut 
 
 # 421
 
-Lorsque le Messager demanda à Allah d’anéantir les chefs mécréants après ce qu’ils lui avaient fait subir à `Uħud, Allah lui dit: Tu n’as aucune part dans ce que décide Allah à leur sujet. C’est Allah qui décide. Patiente donc jusqu’à ce qu’Il juge entre vous. Soit Il leur facilitera de se repentir et de se convertir, soit ils persisteront dans leur mécréance et Il les châtiera puisqu’ils auront été des injustes qui méritent le châtiment.
+Lorsque le Messager demanda à Allah d’anéantir les chefs mécréants après ce qu’ils lui avaient fait subir à \`Uħud, Allah lui dit: Tu n’as aucune part dans ce que décide Allah à leur sujet. C’est Allah qui décide. Patiente donc jusqu’à ce qu’Il juge entre vous. Soit Il leur facilitera de se repentir et de se convertir, soit ils persisteront dans leur mécréance et Il les châtiera puisqu’ils auront été des injustes qui méritent le châtiment.
 
 # 422
 
@@ -1708,7 +1708,7 @@ Empressez-vous de rivaliser dans l’accomplissement d’œuvres pieuses et de v
 
 # 427
 
-Les pieux sont ceux qui dépensent de leurs richesses pour Allah dans l’aisance comme dans l’adversité, qui maitrisent leur colère dans les situations où ils ont le pouvoir de se venger et qui pardonnent à ceux qui ont été injustes avec eux. Allah aime les êtres bienfaisants (`al-muħsinûna) qui ont ces qualités.
+Les pieux sont ceux qui dépensent de leurs richesses pour Allah dans l’aisance comme dans l’adversité, qui maitrisent leur colère dans les situations où ils ont le pouvoir de se venger et qui pardonnent à ceux qui ont été injustes avec eux. Allah aime les êtres bienfaisants (\`al-muħsinûna) qui ont ces qualités.
 
 # 428
 
@@ -1720,7 +1720,7 @@ Ceux qui possèdent ces nobles qualités obtiendront en récompense qu’Allah c
 
 # 430
 
-Comme les croyants furent éprouvés par la débâcle de `Uħud, Allah les consola en leur rappelant ceci: Allah a pour coutume depuis toujours d’anéantir les mécréants et de préserver les croyants après les avoir éprouvés. Parcourez donc la Terre et méditez le destin de ceux qui ont démenti Allah et Ses messagers. Leurs demeures sont vides et leurs royaumes ont disparu.
+Comme les croyants furent éprouvés par la débâcle de \`Uħud, Allah les consola en leur rappelant ceci: Allah a pour coutume depuis toujours d’anéantir les mécréants et de préserver les croyants après les avoir éprouvés. Parcourez donc la Terre et méditez le destin de ceux qui ont démenti Allah et Ses messagers. Leurs demeures sont vides et leurs royaumes ont disparu.
 
 # 431
 
@@ -1728,11 +1728,11 @@ Ce Noble Coran est un exposé de la vérité qui pourfend le mensonge et s’adr
 
 # 432
 
-Ô croyants, ne faiblissez pas et ne soyez pas tristes pour ce que vous avez subi lors de la Bataille de `Uħud ; il ne convient pas que vous soyez tristes car vous êtes supérieurs par votre foi et supérieurs par l’aide d’Allah et votre espoir qu’Il vous secourra, si vous croyez en Allah et en la promesse qu’Il a faite à Ses serviteurs pieux.
+Ô croyants, ne faiblissez pas et ne soyez pas tristes pour ce que vous avez subi lors de la Bataille de \`Uħud ; il ne convient pas que vous soyez tristes car vous êtes supérieurs par votre foi et supérieurs par l’aide d’Allah et votre espoir qu’Il vous secourra, si vous croyez en Allah et en la promesse qu’Il a faite à Ses serviteurs pieux.
 
 # 433
 
-Ô croyants, si vous avez perdu des morts et des blessés lors de la Bataille de `Uħud, les mécréants ont également subi les mêmes pertes. Allah décide du sort de tous, mécréants comme croyants. Il leur alloue des vies plus ou moins longues et fait alterner victoires et défaites pour des raisons qui relèvent de Sa sagesse. Il veut notamment faire en sorte que les véritables croyants se distinguent des hypocrites et accorder à qui Il veut l’honneur de devenir un martyr pour Sa cause. Allah n’aime pas ceux qui sont injustes envers eux-mêmes par le délaissement de la lutte pour Sa cause.
+Ô croyants, si vous avez perdu des morts et des blessés lors de la Bataille de \`Uħud, les mécréants ont également subi les mêmes pertes. Allah décide du sort de tous, mécréants comme croyants. Il leur alloue des vies plus ou moins longues et fait alterner victoires et défaites pour des raisons qui relèvent de Sa sagesse. Il veut notamment faire en sorte que les véritables croyants se distinguent des hypocrites et accorder à qui Il veut l’honneur de devenir un martyr pour Sa cause. Allah n’aime pas ceux qui sont injustes envers eux-mêmes par le délaissement de la lutte pour Sa cause.
 
 # 434
 
@@ -1744,7 +1744,7 @@ Parmi les autres raisons qui relèvent de Sa sagesse, on compte les suivantes: p
 
 # 436
 
-Ô croyants, vous espériez affronter les mécréants afin d’être martyrs pour la cause d’Allah, comme le furent vos frères lors de la Bataille de Badr, mais ceci avant que vous ne soyez exposés à la mort et à ses affres et voici que vous voyez de vos propres yeux à `Uħud ce que vous espériez.
+Ô croyants, vous espériez affronter les mécréants afin d’être martyrs pour la cause d’Allah, comme le furent vos frères lors de la Bataille de Badr, mais ceci avant que vous ne soyez exposés à la mort et à ses affres et voici que vous voyez de vos propres yeux à \`Uħud ce que vous espériez.
 
 # 437
 
@@ -1780,11 +1780,11 @@ Nous projetterons une peur terrible dans les cœurs de ceux qui ont mécru en Al
 
 # 445
 
-Allah a tenu Sa promesse de vous faire triompher sur vos ennemis lors de la Bataille de `Uħud, lorsque vous les massacriez par Sa permission. Mais vous avez faibli: vous vous êtes mis à diverger sur le fait de garder vos positions ou de les délaisser afin de ramasser le butin. Ce faisant, vous avez désobéi au Prophète qui vous avait ordonné de rester à vos places quoiqu’il arrive. Ceci survint lorsqu’Allah vous eut montré les prémices de votre victoire sur vos ennemis. Certains parmi vous désirent le butin ici-bas, ce sont ceux qui ont délaissé leurs positions, tandis que d’autres désirent la récompense de l’au-delà et ce sont ceux qui ont gardé leurs positions, obéissant à l’ordre du Prophète. Allah les a éloignés de votre portée et vous fit dominer par eux afin de vous tester et de distinguer le croyant patient dans l’épreuve de celui qui succombe et faiblit. Allah vous a ensuite pardonné votre désobéissance: Il est le Détenteur d’une grâce immense à l’égard des musulmans puisqu’Il les a guidés vers la foi, leur a pardonné leurs péchés et les a récompensés pour les malheurs qu’ils ont subis.
+Allah a tenu Sa promesse de vous faire triompher sur vos ennemis lors de la Bataille de \`Uħud, lorsque vous les massacriez par Sa permission. Mais vous avez faibli: vous vous êtes mis à diverger sur le fait de garder vos positions ou de les délaisser afin de ramasser le butin. Ce faisant, vous avez désobéi au Prophète qui vous avait ordonné de rester à vos places quoiqu’il arrive. Ceci survint lorsqu’Allah vous eut montré les prémices de votre victoire sur vos ennemis. Certains parmi vous désirent le butin ici-bas, ce sont ceux qui ont délaissé leurs positions, tandis que d’autres désirent la récompense de l’au-delà et ce sont ceux qui ont gardé leurs positions, obéissant à l’ordre du Prophète. Allah les a éloignés de votre portée et vous fit dominer par eux afin de vous tester et de distinguer le croyant patient dans l’épreuve de celui qui succombe et faiblit. Allah vous a ensuite pardonné votre désobéissance: Il est le Détenteur d’une grâce immense à l’égard des musulmans puisqu’Il les a guidés vers la foi, leur a pardonné leurs péchés et les a récompensés pour les malheurs qu’ils ont subis.
 
 # 446
 
-Rappelez-vous, ô croyants, lorsque vous fuyiez loin devant lors de la Bataille de `Uħud en raison de votre défaite suite à votre désobéissance à l’ordre du Messager. Personne ne regardait personne et le Messager vous appelait derrière vous, entre vous et les mécréants, criant: A moi, ô serviteurs d’Allah ! A moi, ô serviteurs d’Allah ! Allah vous rétribua pour cela en vous faisant ressentir de la douleur et de l’angoisse pour la victoire et le butin manqués, suivies encore de douleur et d’angoisse en raison de la rumeur de la mort du Prophète qui s’est répandue parmi vous. Allah vous rétribua ainsi afin que vous ne ressentiez pas de tristesse pour la victoire et le butin que vous avez manqués ni pour vos pertes en morts et en blessés. Après avoir su que le Prophète n’avait pas été tué, tout malheur et toute douleur vous parurent ridicules. Allah sait parfaitement ce que vous faites. Rien de ce que ressentent vos cœurs ni de ce que vos membres accomplissent ne lui est inconnu.
+Rappelez-vous, ô croyants, lorsque vous fuyiez loin devant lors de la Bataille de \`Uħud en raison de votre défaite suite à votre désobéissance à l’ordre du Messager. Personne ne regardait personne et le Messager vous appelait derrière vous, entre vous et les mécréants, criant: A moi, ô serviteurs d’Allah ! A moi, ô serviteurs d’Allah ! Allah vous rétribua pour cela en vous faisant ressentir de la douleur et de l’angoisse pour la victoire et le butin manqués, suivies encore de douleur et d’angoisse en raison de la rumeur de la mort du Prophète qui s’est répandue parmi vous. Allah vous rétribua ainsi afin que vous ne ressentiez pas de tristesse pour la victoire et le butin que vous avez manqués ni pour vos pertes en morts et en blessés. Après avoir su que le Prophète n’avait pas été tué, tout malheur et toute douleur vous parurent ridicules. Allah sait parfaitement ce que vous faites. Rien de ce que ressentent vos cœurs ni de ce que vos membres accomplissent ne lui est inconnu.
 
 # 447
 
@@ -1792,7 +1792,7 @@ Après la douleur et l’angoisse, Allah fit descendre sur vous la quiétude et 
 
 # 448
 
-Ô Compagnons de Muħammad, concernant ceux parmi vous qui ont abandonné le combat le jour où les armées mécréantes rencontrèrent les armées croyantes à `Uħud, sachez que Satan les a poussés à la faute en raison de certains péchés qu’ils avaient commis. Allah leur a néanmoins pardonné ces manquements et ne leur en a pas tenu rigueur, par faveur et miséricorde de Sa part. Allah pardonne aux repentants et se montre indulgent envers eux en ne s’empressant pas de les punir.
+Ô Compagnons de Muħammad, concernant ceux parmi vous qui ont abandonné le combat le jour où les armées mécréantes rencontrèrent les armées croyantes à \`Uħud, sachez que Satan les a poussés à la faute en raison de certains péchés qu’ils avaient commis. Allah leur a néanmoins pardonné ces manquements et ne leur en a pas tenu rigueur, par faveur et miséricorde de Sa part. Allah pardonne aux repentants et se montre indulgent envers eux en ne s’empressant pas de les punir.
 
 # 449
 
@@ -1832,11 +1832,11 @@ Allah a fait un bienfait aux croyants en envoyant parmi eux un Messager issu de 
 
 # 458
 
-Ô croyants, quand vous avez subi une cinglante défaite et de lourdes pertes à `Uħud, alors que vous avez infligé le double de ces pertes à vos ennemis lors de la Bataille de Badr, vous avez dit: Comment cela a-t-il pu nous arriver alors que nous sommes croyants et que le Prophète est parmi nous ? Ô Prophète, dis-leur: Ce qui vous a atteint provient de votre querelle et de votre désobéissance au Messager. Allah a pouvoir sur tout. Il secourt donc qui Il veut et abandonne qui Il veut à son sort.
+Ô croyants, quand vous avez subi une cinglante défaite et de lourdes pertes à \`Uħud, alors que vous avez infligé le double de ces pertes à vos ennemis lors de la Bataille de Badr, vous avez dit: Comment cela a-t-il pu nous arriver alors que nous sommes croyants et que le Prophète est parmi nous ? Ô Prophète, dis-leur: Ce qui vous a atteint provient de votre querelle et de votre désobéissance au Messager. Allah a pouvoir sur tout. Il secourt donc qui Il veut et abandonne qui Il veut à son sort.
 
 # 459
 
-La défaite et les lourdes pertes enregistrées à `Uħud ont eu lieu, avec la permission d’Allah et par Son Décret, pour une raison fondamentale: distinguer les croyants sincères des autres.
+La défaite et les lourdes pertes enregistrées à \`Uħud ont eu lieu, avec la permission d’Allah et par Son Décret, pour une raison fondamentale: distinguer les croyants sincères des autres.
 
 # 460
 
@@ -1844,7 +1844,7 @@ Cela a également permis de démasquer les hypocrites. Lorsqu’on leur dit «Co
 
 # 461
 
-Il s’agit des gens qui sont restés en retrait, refusant de combattre, et ont dit à leurs proches blessés à `Uħud: S’ils nous avaient obéi et n’étaient pas partis combattre, ils ne se seraient pas fait tuer. Ô Prophète, réponds-leur: Vous prétendez que s’ils vous avaient obéi, ils auraient échappé à la mort et que votre survie s’explique par votre refus de combattre. Eloignez donc la mort de vous lorsqu’elle se présentera si vous êtes véridiques.
+Il s’agit des gens qui sont restés en retrait, refusant de combattre, et ont dit à leurs proches blessés à \`Uħud: S’ils nous avaient obéi et n’étaient pas partis combattre, ils ne se seraient pas fait tuer. Ô Prophète, réponds-leur: Vous prétendez que s’ils vous avaient obéi, ils auraient échappé à la mort et que votre survie s’explique par votre refus de combattre. Eloignez donc la mort de vous lorsqu’elle se présentera si vous êtes véridiques.
 
 # 462
 
@@ -1860,15 +1860,15 @@ Ils attendent, en plus de leurs jouissances actuelles, une immense récompense d
 
 # 465
 
-Lorsqu’ils furent appelés à partir combattre pour la cause d’Allah et à affronter les polythéistes dans la Bataille de Ħamrâ` al-`Asad (ħamrâ`u l-`asadi), certains croyants répondirent à l’appel alors qu’ils ne s’étaient pas encore remis des blessures reçues à ‘Uhud. Ceux qui ont multiplié les bonnes actions et ont craint Allah en se conformant à Ses commandements et en délaissant ce qu’Il a interdit, ceux-là auront une rétribution immense de la part d’Allah, à savoir le Paradis.
+Lorsqu’ils furent appelés à partir combattre pour la cause d’Allah et à affronter les polythéistes dans la Bataille de Ħamrâ\` al-\`Asad (ħamrâ\`u l-\`asadi), certains croyants répondirent à l’appel alors qu’ils ne s’étaient pas encore remis des blessures reçues à ‘Uhud. Ceux qui ont multiplié les bonnes actions et ont craint Allah en se conformant à Ses commandements et en délaissant ce qu’Il a interdit, ceux-là auront une rétribution immense de la part d’Allah, à savoir le Paradis.
 
 # 466
 
-Les mécréants dirent à un groupe de croyants: Les Quraychites, dirigés par `Abû Sufyân, ont réuni des troupes nombreuses afin de vous combattre et de vous anéantir. Prenez donc garde à eux et évitez d’aller à leur rencontre. Mais loin de les épouvanter, ces paroles et ces menaces raffermirent leur croyance en Allah et en la véracité de Sa promesse. Ils allèrent donc à la rencontre de l’ennemi en disant: Allah nous suffit et quel meilleur garant que Lui.
+Les mécréants dirent à un groupe de croyants: Les Quraychites, dirigés par \`Abû Sufyân, ont réuni des troupes nombreuses afin de vous combattre et de vous anéantir. Prenez donc garde à eux et évitez d’aller à leur rencontre. Mais loin de les épouvanter, ces paroles et ces menaces raffermirent leur croyance en Allah et en la véracité de Sa promesse. Ils allèrent donc à la rencontre de l’ennemi en disant: Allah nous suffit et quel meilleur garant que Lui.
 
 # 467
 
-Ils revinrent sains et saufs de Ħamrâ`al-`Asad avec une immense récompense de la part d’Allah et une élévation supplémentaire de leur rang pour avoir cherché Son agrément en Lui obéissant constamment. Allah est Détenteur d’une faveur immense à l’égard de Ses serviteurs.
+Ils revinrent sains et saufs de Ħamrâ\`al-\`Asad avec une immense récompense de la part d’Allah et une élévation supplémentaire de leur rang pour avoir cherché Son agrément en Lui obéissant constamment. Allah est Détenteur d’une faveur immense à l’égard de Ses serviteurs.
 
 # 468
 
@@ -2034,7 +2034,7 @@ Quiconque désobéit à Allah et à Son Messager en refusant de mettre en pratiq
 
 # 508
 
-Si certaines de vos femmes, mariées ou célibataires, commettent le péché de fornication( ) (`az-zinâ), prenez comme témoins contre elles quatre hommes musulmans et intègres. S’ils témoignent qu’elles ont commis ce péché, emprisonnez-les dans vos demeures comme punition jusqu’à leur mort ou qu’Allah leur inflige une punition autre que l’emprisonnement. Allah institua par la suite une autre punition: Il prescrivit une peine de cent coups de fouet et un exil d’une année pour la femme célibataire et la lapidation pour la femme mariée.
+Si certaines de vos femmes, mariées ou célibataires, commettent le péché de fornication( ) (\`az-zinâ), prenez comme témoins contre elles quatre hommes musulmans et intègres. S’ils témoignent qu’elles ont commis ce péché, emprisonnez-les dans vos demeures comme punition jusqu’à leur mort ou qu’Allah leur inflige une punition autre que l’emprisonnement. Allah institua par la suite une autre punition: Il prescrivit une peine de cent coups de fouet et un exil d’une année pour la femme célibataire et la lapidation pour la femme mariée.
 
 # 509
 
@@ -2110,7 +2110,7 @@ A chacun parmi vous Nous avons assigné des agnats qui héritent de ce que laiss
 
 # 527
 
-Les hommes prennent soin des femmes et s’occupent de leurs affaires pour la bonne raison qu’Allah a accordé aux hommes un mérite spécifique par rapport aux femmes, et en raison des dépenses et de la responsabilité qui incombent aux hommes au profit des femmes. Les femmes pieuses obéissent à leur Seigneur ainsi qu’à leurs époux et préservent ce qui appartient à leurs époux durant leur absence puisqu’Allah les a créées disposées à remplir cette mission. Quant à celles dont vous craignez la désobéissance, commencez, ô époux, par leur rappeler leurs obligations et à leur faire craindre les conséquences de leurs actes. Si elles ne changent pas de position, délaissez-les au lit en leur tournant le dos et en cessant d’avoir des rapports intimes avec elles. Si elles ne changent toujours pas de position, frappez-les sans dureté. Si elles consentent à obéir de nouveau, ne soyez pas injustes en continuant à les punir. Allah est Elevé au-dessus de tout et Grand (du nom d’Allah `al-kabîru) par Son Être et Ses attributs. Craignez-Le donc.
+Les hommes prennent soin des femmes et s’occupent de leurs affaires pour la bonne raison qu’Allah a accordé aux hommes un mérite spécifique par rapport aux femmes, et en raison des dépenses et de la responsabilité qui incombent aux hommes au profit des femmes. Les femmes pieuses obéissent à leur Seigneur ainsi qu’à leurs époux et préservent ce qui appartient à leurs époux durant leur absence puisqu’Allah les a créées disposées à remplir cette mission. Quant à celles dont vous craignez la désobéissance, commencez, ô époux, par leur rappeler leurs obligations et à leur faire craindre les conséquences de leurs actes. Si elles ne changent pas de position, délaissez-les au lit en leur tournant le dos et en cessant d’avoir des rapports intimes avec elles. Si elles ne changent toujours pas de position, frappez-les sans dureté. Si elles consentent à obéir de nouveau, ne soyez pas injustes en continuant à les punir. Allah est Elevé au-dessus de tout et Grand (du nom d’Allah \`al-kabîru) par Son Être et Ses attributs. Craignez-Le donc.
 
 # 528
 
@@ -2346,7 +2346,7 @@ Font exception ceux d’entre eux qui arrivent parmi des gens avec lesquels vous
 
 # 585
 
-Un croyant ne doit jamais tuer un autre croyant, à moins que ce soit par erreur. Dans le cas d’un homicide involontaire, l’expiation consistera à affranchir un esclave croyant. De plus, les proches de l’auteur de l’homicide (c’est-à-dire ceux qui héritent de lui), doivent remettre le prix du sang (`ad-diyyah(diyyatu)) aux héritiers de la victime, sauf si ceux-ci y renoncent. Si la victime est croyante, mais qu’elle appartient à un groupe ennemi du vôtre, la personne qui l’a tuée doit affranchir un esclave croyant, sans avoir à s’acquitter du prix du sang. Si la victime n’est pas croyante, mais appartient à un groupe avec lequel vous avez conclu un pacte, comme les minorités protégées d’une autre religion (`ahlu dh-dhimmah(dimmati)), les proches de l’auteur de l’homicide doivent remettre le prix du sang aux héritiers de la victime. Le meurtrier doit également affranchir un esclave croyant afin d’expier sa faute. S’il ne trouve pas d’esclave à affranchir ou n’a pas les moyens de payer sa liberté, il doit alors jeûner deux mois consécutifs afin de se repentir à Allah de sa faute. Allah connaît parfaitement les agissements des serviteurs et leurs intentions. Il est Sage dans Ses prescriptions et Sa gestion.
+Un croyant ne doit jamais tuer un autre croyant, à moins que ce soit par erreur. Dans le cas d’un homicide involontaire, l’expiation consistera à affranchir un esclave croyant. De plus, les proches de l’auteur de l’homicide (c’est-à-dire ceux qui héritent de lui), doivent remettre le prix du sang (\`ad-diyyah(diyyatu)) aux héritiers de la victime, sauf si ceux-ci y renoncent. Si la victime est croyante, mais qu’elle appartient à un groupe ennemi du vôtre, la personne qui l’a tuée doit affranchir un esclave croyant, sans avoir à s’acquitter du prix du sang. Si la victime n’est pas croyante, mais appartient à un groupe avec lequel vous avez conclu un pacte, comme les minorités protégées d’une autre religion (\`ahlu dh-dhimmah(dimmati)), les proches de l’auteur de l’homicide doivent remettre le prix du sang aux héritiers de la victime. Le meurtrier doit également affranchir un esclave croyant afin d’expier sa faute. S’il ne trouve pas d’esclave à affranchir ou n’a pas les moyens de payer sa liberté, il doit alors jeûner deux mois consécutifs afin de se repentir à Allah de sa faute. Allah connaît parfaitement les agissements des serviteurs et leurs intentions. Il est Sage dans Ses prescriptions et Sa gestion.
 
 # 586
 
@@ -2392,7 +2392,7 @@ Lorsque vous voyagez sur Terre, vous ne commettez pas de faute en accomplissant 
 
 # 596
 
-Ô croyants, lorsque vous terminez la prière, évoquez Allah par le tasbîħ (en disant subħâna Llâhi, c’est-à-dire Gloire à Allah), par le taħmîd (en disant `al-ħamdu li-Llâhi, c’est-à-dire: louange à Allah) et par le tahlîl (en disant lâ `ilâha `illa Llâhu, c’est-à-dire: il n’existe pas de divinité hormis Allah) et ce, en toute situation: debout, assis et allongés sur le côté. Lorsque la crainte d’une attaque de l’ennemi se dissipe et que vous vous sentez de nouveau en sécurité, accomplissez alors la prière de manière complète en respectant ses piliers, ses obligations et ses rites recommandés selon ce qu’on vous a enjoint. La prière est pour les croyants une obligation à accomplir à des horaires déterminés et il n’est pas permis de la reporter après ces horaires sans excuse valable. Cette règle générale concerne le lieu de résidence mais lors d’un voyage, il vous est possible de regrouper les prières deux par deux et de les raccourcir.
+Ô croyants, lorsque vous terminez la prière, évoquez Allah par le tasbîħ (en disant subħâna Llâhi, c’est-à-dire Gloire à Allah), par le taħmîd (en disant \`al-ħamdu li-Llâhi, c’est-à-dire: louange à Allah) et par le tahlîl (en disant lâ \`ilâha \`illa Llâhu, c’est-à-dire: il n’existe pas de divinité hormis Allah) et ce, en toute situation: debout, assis et allongés sur le côté. Lorsque la crainte d’une attaque de l’ennemi se dissipe et que vous vous sentez de nouveau en sécurité, accomplissez alors la prière de manière complète en respectant ses piliers, ses obligations et ses rites recommandés selon ce qu’on vous a enjoint. La prière est pour les croyants une obligation à accomplir à des horaires déterminés et il n’est pas permis de la reporter après ces horaires sans excuse valable. Cette règle générale concerne le lieu de résidence mais lors d’un voyage, il vous est possible de regrouper les prières deux par deux et de les raccourcir.
 
 # 597
 
@@ -2500,7 +2500,7 @@ Si une femme craint que son époux la dédaigne ou ne la désire plus, les conjo
 
 # 623
 
-Si les époux se séparent par une répudiation ou une dissolution du mariage (`al-khul’u)( ), Allah donnera un autre partenaire à chacun d’entre eux par Sa faveur étendue. Il accordera ainsi à l’homme une épouse meilleure que la précédente et à la femme un époux meilleur que le précédent. Allah est détenteur d’une grâce et d’une miséricorde étendues. Il est Sage dans Sa gestion et dans ce qu’Il décrète.
+Si les époux se séparent par une répudiation ou une dissolution du mariage (\`al-khul’u)( ), Allah donnera un autre partenaire à chacun d’entre eux par Sa faveur étendue. Il accordera ainsi à l’homme une épouse meilleure que la précédente et à la femme un époux meilleur que le précédent. Allah est détenteur d’une grâce et d’une miséricorde étendues. Il est Sage dans Sa gestion et dans ce qu’Il décrète.
 
 # 624
 
@@ -2568,7 +2568,7 @@ Excepté ceux qui sont revenus vers Allah en se repentant de leur hypocrisie, s�
 
 # 640
 
-Allah n’a nul besoin de vous châtier si vous Lui êtes reconnaissants et croyez en Lui car Il est le Bon (du nom d’Allah `al-barru) et le Miséricordieux. Il ne vous châtie que pour vos péchés. Si vous améliorez vos œuvres, Lui êtes reconnaissants pour Ses bienfaits et croyez en Lui en apparence et dans votre for intérieur, Il ne vous châtiera pas. Allah est reconnaissant envers celui qui reconnaît Ses bienfaits et lui donnera donc pour cela une immense récompense. Il est aussi le plus au fait de la foi de Ses créatures et Il rétribuera chacun en fonction de ses œuvres.
+Allah n’a nul besoin de vous châtier si vous Lui êtes reconnaissants et croyez en Lui car Il est le Bon (du nom d’Allah \`al-barru) et le Miséricordieux. Il ne vous châtie que pour vos péchés. Si vous améliorez vos œuvres, Lui êtes reconnaissants pour Ses bienfaits et croyez en Lui en apparence et dans votre for intérieur, Il ne vous châtiera pas. Allah est reconnaissant envers celui qui reconnaît Ses bienfaits et lui donnera donc pour cela une immense récompense. Il est aussi le plus au fait de la foi de Ses créatures et Il rétribuera chacun en fonction de ses œuvres.
 
 # 641
 
@@ -2576,7 +2576,7 @@ Allah n’aime pas que l’on profère de mauvaises paroles. Il déteste ce comp
 
 # 642
 
-Quelque bonne action que vous fassiez, que ce soit un geste ou une parole, en public ou en privé, ou que vous pardonniez à ceux qui vous ont offensés, sachez qu’Allah est Absolveur (du nom d’Allah, `al-’afuwwu) et Omnipotent. Pardonnez les fautes d’autrui à votre égard, et peut-être qu’Allah absoudra vos propres péchés.
+Quelque bonne action que vous fassiez, que ce soit un geste ou une parole, en public ou en privé, ou que vous pardonniez à ceux qui vous ont offensés, sachez qu’Allah est Absolveur (du nom d’Allah, \`al-’afuwwu) et Omnipotent. Pardonnez les fautes d’autrui à votre égard, et peut-être qu’Allah absoudra vos propres péchés.
 
 # 643
 
@@ -2616,7 +2616,7 @@ Allah l’a sauvé de leur complot et l’a élevé corps et esprit auprès de L
 
 # 652
 
-Toute personne appartenant aux Gens du Livre croira en Jésus après son retour à la Fin des Temps (`âkhiru z-zamâni) et avant qu’il ne meure. Le Jour de la Résurrection, Jésus témoignera de leurs agissements: ceux qui sont conformes à la religion et ceux qui y contreviennent.
+Toute personne appartenant aux Gens du Livre croira en Jésus après son retour à la Fin des Temps (\`âkhiru z-zamâni) et avant qu’il ne meure. Le Jour de la Résurrection, Jésus témoignera de leurs agissements: ceux qui sont conformes à la religion et ceux qui y contreviennent.
 
 # 653
 
@@ -2632,7 +2632,7 @@ Mais ceux qui restent fermes et maîtrisent la science religieuse parmi les juif
 
 # 656
 
-Ô Messager, Nous avons fait descendre la Révélation sur toi comme Nous l’avons fait descendre sur les prophètes avant toi. Tu n’es donc pas un messager sortant de l’ordinaire. Nous avons en effet fait descendre la Révélation sur Noé ainsi que sur les prophètes envoyés après lui. Nous avons fait descendre la Révélation sur Abraham et sur ses deux fils Ismaël et Isaac, sur Jacob fils d’Isaac, sur les Tribus (`al-asbâṭu), à savoir les prophètes des douze tribus d’Israël de la descendance de Jacob, et Nous avons révélé un livre à David, le Zabûr.
+Ô Messager, Nous avons fait descendre la Révélation sur toi comme Nous l’avons fait descendre sur les prophètes avant toi. Tu n’es donc pas un messager sortant de l’ordinaire. Nous avons en effet fait descendre la Révélation sur Noé ainsi que sur les prophètes envoyés après lui. Nous avons fait descendre la Révélation sur Abraham et sur ses deux fils Ismaël et Isaac, sur Jacob fils d’Isaac, sur les Tribus (\`al-asbâṭu), à savoir les prophètes des douze tribus d’Israël de la descendance de Jacob, et Nous avons révélé un livre à David, le Zabûr.
 
 # 657
 
@@ -2684,11 +2684,11 @@ Alors ceux qui croient en Allah et qui s’attachent à Lui, Il les fera entrer 
 
 # 669
 
-Ô Messager, ils te demandent de leur émettre un jugement au sujet de l’héritage de celui qui meurt en ne laissant derrière lui ni parents ni enfants (`al-kalâlah(kalâlatu)). Dis: Allah vous expose Son jugement à ce propos: Si quelqu’un meurt sans laisser derrière lui ni parents ni progéniture mais qu’il a une sœur germaine ou consanguine, à celle-ci revient la moitié de son patrimoine en tant qu’héritière réservataire, tandis que le frère germain ou consanguin du défunt hérite du reste en tant qu’agnat s’il n’existe pas d’autre héritier réservataire. S’il existe un autre héritier réservataire, le frère germain ou consanguin du défunt hérite de ce qui reste après que cet héritier ait reçu sa part. Si le défunt a plusieurs sœurs germaines ou consanguines, deux ou plus, elles héritent des deux tiers en tant qu’héritières universelles. Si la fratrie compte des frères et sœurs germains ou consanguins, ils héritent tous en tant qu’agnats tout en respectant la règle stipulant que la part de l’homme est égale à deux fois la part d’une femme. Allah vous expose le jugement correspondant à ce cas ainsi que d’autres jugements ayant trait à l’héritage afin que vous ne vous égariez pas. Allah sait tout et rien ne Lui échappe.
+Ô Messager, ils te demandent de leur émettre un jugement au sujet de l’héritage de celui qui meurt en ne laissant derrière lui ni parents ni enfants (\`al-kalâlah(kalâlatu)). Dis: Allah vous expose Son jugement à ce propos: Si quelqu’un meurt sans laisser derrière lui ni parents ni progéniture mais qu’il a une sœur germaine ou consanguine, à celle-ci revient la moitié de son patrimoine en tant qu’héritière réservataire, tandis que le frère germain ou consanguin du défunt hérite du reste en tant qu’agnat s’il n’existe pas d’autre héritier réservataire. S’il existe un autre héritier réservataire, le frère germain ou consanguin du défunt hérite de ce qui reste après que cet héritier ait reçu sa part. Si le défunt a plusieurs sœurs germaines ou consanguines, deux ou plus, elles héritent des deux tiers en tant qu’héritières universelles. Si la fratrie compte des frères et sœurs germains ou consanguins, ils héritent tous en tant qu’agnats tout en respectant la règle stipulant que la part de l’homme est égale à deux fois la part d’une femme. Allah vous expose le jugement correspondant à ce cas ainsi que d’autres jugements ayant trait à l’héritage afin que vous ne vous égariez pas. Allah sait tout et rien ne Lui échappe.
 
 # 670
 
-Ô vous qui croyez, menez à leur terme tous les engagements que vous avez pris avec votre Créateur ou avec Ses créatures. Allah vous a rendu licites les bêtes du cheptel (bahîmatu l-`an’âmi) (camelins, bovins, ovins et caprins) ( ) excepté ce que Nous vous énonçons comme illicite et le gibier sauvage qu’Allah vous a rendu illicite lorsque vous êtes en état de sacralisation (`iħrâmun) lors du Grand ou du Petit Pèlerinage. Allah juge comme Il veut en déclarant telle chose licite ou illicite selon ce que dicte Sa Sagesse. Personne ne Le contraint à juger et personne ne s’oppose à Son jugement.
+Ô vous qui croyez, menez à leur terme tous les engagements que vous avez pris avec votre Créateur ou avec Ses créatures. Allah vous a rendu licites les bêtes du cheptel (bahîmatu l-\`an’âmi) (camelins, bovins, ovins et caprins) ( ) excepté ce que Nous vous énonçons comme illicite et le gibier sauvage qu’Allah vous a rendu illicite lorsque vous êtes en état de sacralisation (\`iħrâmun) lors du Grand ou du Petit Pèlerinage. Allah juge comme Il veut en déclarant telle chose licite ou illicite selon ce que dicte Sa Sagesse. Personne ne Le contraint à juger et personne ne s’oppose à Son jugement.
 
 # 671
 
@@ -2768,7 +2768,7 @@ Les juifs et les chrétiens prétendent les uns comme les autres qu’ils sont l
 
 # 690
 
-Moïse dit: Ô peuple, entrez en Terre Sainte (`al-`arḍu l-muqaddasah(muqaddasatu) qui comprend Jérusalem et ses alentours). Allah vous a promis de vous y faire entrer et d’y combattre les mécréants qui l’occupent ; ne faiblissez pas face aux ennemis puissants car vous récolteriez la perte dans le bas monde et dans l’au-delà.
+Moïse dit: Ô peuple, entrez en Terre Sainte (\`al-\`arḍu l-muqaddasah(muqaddasatu) qui comprend Jérusalem et ses alentours). Allah vous a promis de vous y faire entrer et d’y combattre les mécréants qui l’occupent ; ne faiblissez pas face aux ennemis puissants car vous récolteriez la perte dans le bas monde et dans l’au-delà.
 
 # 691
 
@@ -3016,7 +3016,7 @@ Si ces juifs croyaient véritablement en Allah et en Son Prophète, ils n’aura
 
 # 752
 
-Ceux-là, à l’image du Négus et de ses compagnons, sont émus et pleurent par humilité lorsqu’ils entendent les versets du Coran qui ont été révélés. Ils savent que le Coran provient de la Vérité (du nom d’Allah `al-ħaqqu) et y reconnaissent le message de Jésus. Ils disent: Ô notre Seigneur, nous croyons en ce que Tu as révélé à Ton Messager Muħammad. Inscris-nous donc parmi la communauté de Muħammad, la communauté qui sera un argument opposé aux hommes le Jour de la Résurrection.
+Ceux-là, à l’image du Négus et de ses compagnons, sont émus et pleurent par humilité lorsqu’ils entendent les versets du Coran qui ont été révélés. Ils savent que le Coran provient de la Vérité (du nom d’Allah \`al-ħaqqu) et y reconnaissent le message de Jésus. Ils disent: Ô notre Seigneur, nous croyons en ce que Tu as révélé à Ton Messager Muħammad. Inscris-nous donc parmi la communauté de Muħammad, la communauté qui sera un argument opposé aux hommes le Jour de la Résurrection.
 
 # 753
 
@@ -3096,7 +3096,7 @@ Parmi les communautés qui vous ont précédés, certains peuples ont posé de t
 
 # 772
 
-Allah a permis de consommer la chair de toutes les bêtes du pâturage. Il n’a jamais déclaré que certaines catégories étaient illicites, pourtant les polythéistes réservent à leurs idoles `al-baħîrah(baħîratu), à savoir la chamelle dont l’oreille est coupée après qu’elle ait donné naissance à un nombre déterminé de chamelons, `as-sâ`ibah(sâ`ibatu), c’est-à-dire la chamelle cédée aux idoles après avoir atteint un âge déterminé, `al-waṣîlah(waṣîlatu), la chamelle ayant donné naissance à plusieurs femelles successivement et `al-ħâmî, qui est le dromadaire mâle ayant engendré un certain nombre de chamelons. Les polythéistes mentent effrontément en disant qu’Allah a déclaré illicites les bêtes mentionnées, sachant que la plupart des mécréants ne distinguent pas le vrai du faux et le licite de l’illicite.
+Allah a permis de consommer la chair de toutes les bêtes du pâturage. Il n’a jamais déclaré que certaines catégories étaient illicites, pourtant les polythéistes réservent à leurs idoles \`al-baħîrah(baħîratu), à savoir la chamelle dont l’oreille est coupée après qu’elle ait donné naissance à un nombre déterminé de chamelons, \`as-sâ\`ibah(sâ\`ibatu), c’est-à-dire la chamelle cédée aux idoles après avoir atteint un âge déterminé, \`al-waṣîlah(waṣîlatu), la chamelle ayant donné naissance à plusieurs femelles successivement et \`al-ħâmî, qui est le dromadaire mâle ayant engendré un certain nombre de chamelons. Les polythéistes mentent effrontément en disant qu’Allah a déclaré illicites les bêtes mentionnées, sachant que la plupart des mécréants ne distinguent pas le vrai du faux et le licite de l’illicite.
 
 # 773
 
@@ -3128,11 +3128,11 @@ Rappelle-toi qu’Allah s’adressera à Jésus en disant: Ô Jésus fils de Mar
 
 # 780
 
-Rappelle-toi que l’un des bienfaits que Je t’ai accordés est que Je t’ai donné des alliés: les apôtres (`al-ħawâriyyûna) auxquels j’ai inspiré de croire en Moi et en toi. Ils répondirent favorablement à ton appel et dirent: Nous croyons en Allah. Atteste, ô Seigneur, que nous sommes entièrement soumis à Toi.
+Rappelle-toi que l’un des bienfaits que Je t’ai accordés est que Je t’ai donné des alliés: les apôtres (\`al-ħawâriyyûna) auxquels j’ai inspiré de croire en Moi et en toi. Ils répondirent favorablement à ton appel et dirent: Nous croyons en Allah. Atteste, ô Seigneur, que nous sommes entièrement soumis à Toi.
 
 # 781
 
-Rappelle-toi lorsque les apôtres dirent: Ton Seigneur peut-Il, si tu L’invoques, faire descendre une table servie (mâ`idah(mâ`idatun)) du Ciel ? Jésus leur répondit en leur ordonnant de craindre Allah et de renoncer à cette requête car elle aurait pu leur porter préjudice. Il leur dit également de s’en remettre à leur Seigneur pour leur subsistance et de prouver ainsi leur foi.
+Rappelle-toi lorsque les apôtres dirent: Ton Seigneur peut-Il, si tu L’invoques, faire descendre une table servie (mâ\`idah(mâ\`idatun)) du Ciel ? Jésus leur répondit en leur ordonnant de craindre Allah et de renoncer à cette requête car elle aurait pu leur porter préjudice. Il leur dit également de s’en remettre à leur Seigneur pour leur subsistance et de prouver ainsi leur foi.
 
 # 782
 
@@ -3316,7 +3316,7 @@ Les polythéistes obstinés qui tergiversent au sujet de leur conversion disent:
 
 # 827
 
-Tout animal marchant sur Terre et tout oiseau volant dans le Ciel sont des espèces, comme vous ô enfants d’Adam, qui ont été créés et dont la subsistance est assurée. Nous n’avons rien oublié d’écrire dans la Tablette Préservée (`al-lawħu l-maħûẓu). Allah sait tout au sujet de tous les gens et c’est vers leur Seigneur Seul qu’ils seront rassemblés afin d’être jugés le Jour de la Résurrection où Il rétribuera chacun selon ce qu’il mérite.
+Tout animal marchant sur Terre et tout oiseau volant dans le Ciel sont des espèces, comme vous ô enfants d’Adam, qui ont été créés et dont la subsistance est assurée. Nous n’avons rien oublié d’écrire dans la Tablette Préservée (\`al-lawħu l-maħûẓu). Allah sait tout au sujet de tous les gens et c’est vers leur Seigneur Seul qu’ils seront rassemblés afin d’être jugés le Jour de la Résurrection où Il rétribuera chacun selon ce qu’il mérite.
 
 # 828
 
@@ -3436,7 +3436,7 @@ Chaque annonce est faite en un temps déterminé et a une finalité précise. Ce
 
 # 857
 
-Ô Messager, si tu vois les polythéistes railler et moquer Nos versets, éloigne-toi d’eux jusqu’à ce qu’ils parlent d’un sujet qui ne raille ni ne moque Nos versets. Si Satan fait en sorte que tu oublies de quitter leur assemblée, puis que tu te rappelles qu’il t’est défendu de rester parmi eux [à ce moment-là], quitte donc leur assemblée et ne t’assois pas en compagnie de ces transgresseurs.
+Ô Messager, si tu vois les polythéistes railler et moquer Nos versets, éloigne-toi d’eux jusqu’à ce qu’ils parlent d’un sujet qui ne raille ni ne moque Nos versets. Si Satan fait en sorte que tu oublies de quitter leur assemblée, puis que tu te rappelles qu’il t’est défendu de rester parmi eux \[à ce moment-là\], quitte donc leur assemblée et ne t’assois pas en compagnie de ces transgresseurs.
 
 # 858
 
@@ -3456,11 +3456,11 @@ Allah nous a également ordonné d’accomplir la prière de la manière la plus
 
 # 862
 
-Allah est Celui qui créa les Cieux et la Terre en toute vérité. Le jour où Il dit à une chose «Sois», elle est aussitôt et le Jour de la Résurrection Il dira «Levez-vous» (qûmû) et tous se lèveront. Sa parole est donc véridique et Se réalise irrémédiablement. Le Jour de la Résurrection, Il sera le Seul Souverain lorsque `Isrâfîl soufflera pour la seconde fois dans la Trompe (`aş-şûru). Il connaît ce qui est absent et ce qui est présent et est Sage dans Sa création et Sa gestion. Il est aussi le Parfaitement Connaisseur, Celui à qui rien n’échappe puisque ce qui est caché Lui est aussi connu que ce qui est apparent.
+Allah est Celui qui créa les Cieux et la Terre en toute vérité. Le jour où Il dit à une chose «Sois», elle est aussitôt et le Jour de la Résurrection Il dira «Levez-vous» (qûmû) et tous se lèveront. Sa parole est donc véridique et Se réalise irrémédiablement. Le Jour de la Résurrection, Il sera le Seul Souverain lorsque \`Isrâfîl soufflera pour la seconde fois dans la Trompe (\`aş-şûru). Il connaît ce qui est absent et ce qui est présent et est Sage dans Sa création et Sa gestion. Il est aussi le Parfaitement Connaisseur, Celui à qui rien n’échappe puisque ce qui est caché Lui est aussi connu que ce qui est apparent.
 
 # 863
 
-Ô Messager, rappelle-toi lorsqu’Abraham dit à `Âzar, son père polythéiste: Ô père, adoptes-tu des idoles que tu adores à la place d’Allah ? Je vois que toi et ton peuple vous êtes réellement égarés et que l’adoration que vous vouez à d’autres divinités qu’Allah vous a désorientés. Aujourd’hui, vous ne savez plus comment trouver la voie de la vérité... Allah est Celui qui mérite d’être adoré tandis que les divinités ne le méritent pas.
+Ô Messager, rappelle-toi lorsqu’Abraham dit à \`Âzar, son père polythéiste: Ô père, adoptes-tu des idoles que tu adores à la place d’Allah ? Je vois que toi et ton peuple vous êtes réellement égarés et que l’adoration que vous vouez à d’autres divinités qu’Allah vous a désorientés. Aujourd’hui, vous ne savez plus comment trouver la voie de la vérité... Allah est Celui qui mérite d’être adoré tandis que les divinités ne le méritent pas.
 
 # 864
 
@@ -3504,11 +3504,11 @@ Nous avons donné à Abraham comme fils Isaac et comme petit-fils Jacob. Nous av
 
 # 874
 
-Nous avons facilité également à Zacharie, Jean-Baptiste, Jésus fils de Marie et Elie (`Ilyâs) de suivre la vérité. Tous ces prophètes vertueux ont été choisis par Allah pour être des messagers.
+Nous avons facilité également à Zacharie, Jean-Baptiste, Jésus fils de Marie et Elie (\`Ilyâs) de suivre la vérité. Tous ces prophètes vertueux ont été choisis par Allah pour être des messagers.
 
 # 875
 
-Nous avons aussi facilité à Ismaël, à Elisée (`Alyasa’), Jonas (Yûnus) et Loth (Lûṭ) de suivre la vérité. Nous avons favorisé tous ces prophètes, en particulier le prophète Muħammad, par rapport au reste des créatures.
+Nous avons aussi facilité à Ismaël, à Elisée (\`Alyasa’), Jonas (Yûnus) et Loth (Lûṭ) de suivre la vérité. Nous avons favorisé tous ces prophètes, en particulier le prophète Muħammad, par rapport au reste des créatures.
 
 # 876
 
@@ -3520,7 +3520,7 @@ Cette facilitation est un bienfait d’Allah qu’Il accorde à qui Il veut parm
 
 # 878
 
-Ces prophètes mentionnés sont ceux à qui Nous avons révélé des livres, donné la sagesse et la prophétie. Puisque les tiens renient ces trois faveurs accordées aux prophètes, Nous avons alors prédisposé d’autres gens qui ne les renient pas mais qui y croient plutôt fermement: ce sont les Migrants (`al-muhâjirûna), les Partisans (`al-`anşâru) et ceux qui les suivent avec excellence jusqu’au Jour de la Rétribution.
+Ces prophètes mentionnés sont ceux à qui Nous avons révélé des livres, donné la sagesse et la prophétie. Puisque les tiens renient ces trois faveurs accordées aux prophètes, Nous avons alors prédisposé d’autres gens qui ne les renient pas mais qui y croient plutôt fermement: ce sont les Migrants (\`al-muhâjirûna), les Partisans (\`al-\`anşâru) et ceux qui les suivent avec excellence jusqu’au Jour de la Rétribution.
 
 # 879
 
@@ -3640,7 +3640,7 @@ Le Coran atteint le summum de la véracité dans les mots et les nouvelles et ri
 
 # 908
 
-Ô croyants, que vous empêche-t-il de manger de la chair des bêtes sur lesquelles on a évoqué le nom d’Allah au moment de les sacrifier ? Allah vous a certes exposé ce qui vous est illicite et que vous devez délaisser, sauf si vous y êtes contraints par la nécessité, puisque la nécessité rend licite ce qui est interdit. Nombreux sont les polythéistes qui éloignent de la vérité ceux qui les suivent, en émettant des avis corrompus basés sur leur ignorance. En effet, ils déclarent licite la chair de bêtes non immolées et d’autres aliments illicites tandis qu’ils déclarent illicite la baħîrah, la sâ`ibah, la waşîlah et le ħâm et d’autres catégories de bêtes licites. Ô Messager, ton Seigneur sait le mieux qui transgresse Ses limites d’Allah et les rétribuera pour les avoir transgressées
+Ô croyants, que vous empêche-t-il de manger de la chair des bêtes sur lesquelles on a évoqué le nom d’Allah au moment de les sacrifier ? Allah vous a certes exposé ce qui vous est illicite et que vous devez délaisser, sauf si vous y êtes contraints par la nécessité, puisque la nécessité rend licite ce qui est interdit. Nombreux sont les polythéistes qui éloignent de la vérité ceux qui les suivent, en émettant des avis corrompus basés sur leur ignorance. En effet, ils déclarent licite la chair de bêtes non immolées et d’autres aliments illicites tandis qu’ils déclarent illicite la baħîrah, la sâ\`ibah, la waşîlah et le ħâm et d’autres catégories de bêtes licites. Ô Messager, ton Seigneur sait le mieux qui transgresse Ses limites d’Allah et les rétribuera pour les avoir transgressées
 
 # 909
 
@@ -3716,11 +3716,11 @@ Tout comme Satan embellit aux polythéistes ce jugement injuste, des démons emb
 
 # 927
 
-Les polythéistes dirent : Ces bestiaux et ces récoltes sont interdits et n’en mangent que ceux que nous autorisons comme les serviteurs des idoles et autres. Voilà ce qu’ils prétendent. [Ils disent également :] Le dos de ces bestiaux est interdit : ils ne doivent être utilisés comme montures ni comme bêtes de somme. Il s’agit de la baħîrah, de la sâ`ibah et du ħâm. Lorsque les polythéistes sacrifiaient ces catégories de bêtes, ils ne les sacrifiaient pas au nom d’Allah mais au nom de leurs idoles. Ils commirent cela en prétendant que cela était dicté par Allah... Mais Il les châtiera pour les mensonges qu’ils profèrent à son encontre.
+Les polythéistes dirent : Ces bestiaux et ces récoltes sont interdits et n’en mangent que ceux que nous autorisons comme les serviteurs des idoles et autres. Voilà ce qu’ils prétendent. \[Ils disent également :\] Le dos de ces bestiaux est interdit : ils ne doivent être utilisés comme montures ni comme bêtes de somme. Il s’agit de la baħîrah, de la sâ\`ibah et du ħâm. Lorsque les polythéistes sacrifiaient ces catégories de bêtes, ils ne les sacrifiaient pas au nom d’Allah mais au nom de leurs idoles. Ils commirent cela en prétendant que cela était dicté par Allah... Mais Il les châtiera pour les mensonges qu’ils profèrent à son encontre.
 
 # 928
 
-Ils dirent aussi : La chair des bêtes que ces baħîrah et ces sâ`ibah portent dans leurs ventres, si elles naissent vivantes, sera licite à nos hommes et illicite à nos femmes. Si par contre, ces bêtes naissent mortes, leur chair sera licite aux hommes et aux femmes. Allah leur donnera la rétribution qu’ils méritent pour ces allégations. Il est Sage dans Ses prescriptions et la gestion des affaires de Ses créatures. Il est aussi Celui qui les connaît le mieux.
+Ils dirent aussi : La chair des bêtes que ces baħîrah et ces sâ\`ibah portent dans leurs ventres, si elles naissent vivantes, sera licite à nos hommes et illicite à nos femmes. Si par contre, ces bêtes naissent mortes, leur chair sera licite aux hommes et aux femmes. Allah leur donnera la rétribution qu’ils méritent pour ces allégations. Il est Sage dans Ses prescriptions et la gestion des affaires de Ses créatures. Il est aussi Celui qui les connaît le mieux.
 
 # 929
 
@@ -3868,15 +3868,15 @@ Quant à ceux dont le plateau des mauvaises actions descendra, en raison du reje
 
 # 965
 
-Ô gens, Nous avons créé votre père Adam, lui avons donné la meilleure apparence et les meilleures proportions. Ensuite, Nous avons ordonné aux anges de se prosterner à lui en guise d’hommage et ils obéirent, excepté `Iblîs qui refusa de se prosterner par orgueil et entêtement.
+Ô gens, Nous avons créé votre père Adam, lui avons donné la meilleure apparence et les meilleures proportions. Ensuite, Nous avons ordonné aux anges de se prosterner à lui en guise d’hommage et ils obéirent, excepté \`Iblîs qui refusa de se prosterner par orgueil et entêtement.
 
 # 966
 
-Allah dit à `Iblîs en guise de réprimande: Que t’empêche-t-il d’obéir à Mon ordre et de te prosterner à Adam?`Iblîs répondit à son Seigneur: La raison est que je suis meilleur que lui car Tu m’as créé de feu alors que tu l’as créé d’argile, et le feu est plus noble que l’argile.
+Allah dit à \`Iblîs en guise de réprimande: Que t’empêche-t-il d’obéir à Mon ordre et de te prosterner à Adam?\`Iblîs répondit à son Seigneur: La raison est que je suis meilleur que lui car Tu m’as créé de feu alors que tu l’as créé d’argile, et le feu est plus noble que l’argile.
 
 # 967
 
-Allah lui dit alors: Descends du Paradis. Tu ne dois pas être orgueilleux dans ce lieu car c’est la demeure des bons et purs serviteurs. Il ne t’est donc pas permis d’y rester. Ô `Iblîs, tu es du nombre de ceux qui sont méprisables et vils même si tu te vois plus noble qu’Adam.
+Allah lui dit alors: Descends du Paradis. Tu ne dois pas être orgueilleux dans ce lieu car c’est la demeure des bons et purs serviteurs. Il ne t’est donc pas permis d’y rester. Ô \`Iblîs, tu es du nombre de ceux qui sont méprisables et vils même si tu te vois plus noble qu’Adam.
 
 # 968
 
@@ -3884,7 +3884,7 @@ Iblîs répondit: Ô Seigneur, accorde-moi un délai jusqu’au Jour de la Résu
 
 # 969
 
-Allah lui répondit: Ô `Iblîs, tu es de ceux à qui un délai est accordé et dont la mort surviendra le jour du premier souffle dans la Trompe, lorsque toutes les créatures qui ne seront pas encore mortes mourront et que seul leur Créateur subsistera.
+Allah lui répondit: Ô \`Iblîs, tu es de ceux à qui un délai est accordé et dont la mort surviendra le jour du premier souffle dans la Trompe, lorsque toutes les créatures qui ne seront pas encore mortes mourront et que seul leur Créateur subsistera.
 
 # 970
 
@@ -3896,7 +3896,7 @@ Ensuite, je les attaquerai de tous côtés, faisant en sorte qu’ils méprisent
 
 # 972
 
-Allah lui dit: Ô `Iblîs, sors du Paradis proscrit et chassé de la miséricorde d’Allah. Le Jour de la Résurrection, J’emplirai assurément l’Enfer en t’y jetant toi et ceux qui t’ont suivi, t’ont obéi et ont désobéi à l’ordre de leur Seigneur.
+Allah lui dit: Ô \`Iblîs, sors du Paradis proscrit et chassé de la miséricorde d’Allah. Le Jour de la Résurrection, J’emplirai assurément l’Enfer en t’y jetant toi et ceux qui t’ont suivi, t’ont obéi et ont désobéi à l’ordre de leur Seigneur.
 
 # 973
 
@@ -3936,7 +3936,7 @@ Allah s’adressa à Adam, à Eve et à leur descendance en disant: Vous vivrez 
 
 # 982
 
-Lorsque les polythéistes commettent un péché très grave comme le polythéisme, la circumambulation [autour de la Ka’ba] sans porter de vêtement et d’autres péchés encore, ils avancent comme excuse que leurs ancêtres commettaient eux aussi ces péchés et qu’Allah leur a ordonné de les commettre. Ô Muħammad, réponds-leur: Allah n’ordonne pas de commettre des actes de désobéissance, Il les proscrit plutôt. Comment pouvez-vous prétendre qu’Il vous ordonne cela, Ô polythéistes? Dites-vous mensongèrement sur Allah ce que vous ne savez pas?
+Lorsque les polythéistes commettent un péché très grave comme le polythéisme, la circumambulation \[autour de la Ka’ba\] sans porter de vêtement et d’autres péchés encore, ils avancent comme excuse que leurs ancêtres commettaient eux aussi ces péchés et qu’Allah leur a ordonné de les commettre. Ô Muħammad, réponds-leur: Allah n’ordonne pas de commettre des actes de désobéissance, Il les proscrit plutôt. Comment pouvez-vous prétendre qu’Il vous ordonne cela, Ô polythéistes? Dites-vous mensongèrement sur Allah ce que vous ne savez pas?
 
 # 983
 
@@ -4008,15 +4008,15 @@ Ces injustes se détournaient du chemin d’Allah et appelaient les autres à s�
 
 # 1000
 
-Entre les gens du Paradis et les gens de l’Enfer, il y aura un obstacle élevé appelé Al-`A’râf (`al-`a’râfu). Sur cet obstacle se trouveront des hommes dont les bonnes actions sont aussi nombreuses que les mauvaises. Ils reconnaitront les gens du Paradis à leurs signes distinctifs comme la blancheur de leurs visages et les gens de l’Enfer à leurs signes distinctifs comme la noirceur de leurs visages. Ces hommes appelleront les gens du Paradis pour leur rendre hommage en leur disant: Paix sur vous. Les gens du Paradis n’y seront pas encore entrés mais espèreront y entrer par la miséricorde d’Allah.
+Entre les gens du Paradis et les gens de l’Enfer, il y aura un obstacle élevé appelé Al-\`A’râf (\`al-\`a’râfu). Sur cet obstacle se trouveront des hommes dont les bonnes actions sont aussi nombreuses que les mauvaises. Ils reconnaitront les gens du Paradis à leurs signes distinctifs comme la blancheur de leurs visages et les gens de l’Enfer à leurs signes distinctifs comme la noirceur de leurs visages. Ces hommes appelleront les gens du Paradis pour leur rendre hommage en leur disant: Paix sur vous. Les gens du Paradis n’y seront pas encore entrés mais espèreront y entrer par la miséricorde d’Allah.
 
 # 1001
 
-Puis lorsque les hommes d’Al-`A’râf tourneront leurs regards du côté des gens de l’Enfer et qu’ils verront le terrible châtiment qu’ils subissent, ils invoqueront alors Allah en disant: Ô Seigneur, ne nous fait pas rejoindre ceux qui, parce qu’ils ont mécru en Toi et T’ont associé des divinités, ont été injustes.
+Puis lorsque les hommes d’Al-\`A’râf tourneront leurs regards du côté des gens de l’Enfer et qu’ils verront le terrible châtiment qu’ils subissent, ils invoqueront alors Allah en disant: Ô Seigneur, ne nous fait pas rejoindre ceux qui, parce qu’ils ont mécru en Toi et T’ont associé des divinités, ont été injustes.
 
 # 1002
 
-Les hommes d’Al-`A’râf apostropheront des hommes destinés à l’Enfer qu’ils reconnaîtront à leurs signes distinctifs, comme leurs visages noirs et leurs yeux bleus, en leur disant: Vos richesses et votre nombre ne vous ont pas été utiles, pas plus que vous être détournés de la vérité par orgueil et par arrogance.
+Les hommes d’Al-\`A’râf apostropheront des hommes destinés à l’Enfer qu’ils reconnaîtront à leurs signes distinctifs, comme leurs visages noirs et leurs yeux bleus, en leur disant: Vos richesses et votre nombre ne vous ont pas été utiles, pas plus que vous être détournés de la vérité par orgueil et par arrogance.
 
 # 1003
 
@@ -4040,7 +4040,7 @@ Les mécréants attendent que le châtiment douloureux qui leur est destiné et 
 
 # 1008
 
-Ô gens, votre Seigneur est Allah. Il est Celui qui créa les Cieux et la Terre en six jours sans modèle préalable puis s’éleva et s’établit sur le Trône (`al-‘archu) d’une manière qui sied à Sa majesté et que nous sommes incapables de nous représenter. Il dissipe l’obscurité de la nuit par la lueur du jour et fait disparaître la lueur du jour par l’obscurité de la nuit. Les deux – le jour et la nuit – se poursuivent sans que l’un ne soit en retard par rapport à l’autre, puisque lorsque l’un s’en va, l’autre arrive. Il créa le soleil, la lune et les étoiles et tous sont soumis et préparés pour un dessein précis. C’est à Allah que revient la Création. En effet, qui d’autre que Lui en a été le créateur? Tout Lui revient, Son bien est éminent et Sa bienfaisance est immense. Il est Celui qui détient les attributs de la majesté et de la perfection, le Seigneur de l’Univers.
+Ô gens, votre Seigneur est Allah. Il est Celui qui créa les Cieux et la Terre en six jours sans modèle préalable puis s’éleva et s’établit sur le Trône (\`al-‘archu) d’une manière qui sied à Sa majesté et que nous sommes incapables de nous représenter. Il dissipe l’obscurité de la nuit par la lueur du jour et fait disparaître la lueur du jour par l’obscurité de la nuit. Les deux – le jour et la nuit – se poursuivent sans que l’un ne soit en retard par rapport à l’autre, puisque lorsque l’un s’en va, l’autre arrive. Il créa le soleil, la lune et les étoiles et tous sont soumis et préparés pour un dessein précis. C’est à Allah que revient la Création. En effet, qui d’autre que Lui en a été le créateur? Tout Lui revient, Son bien est éminent et Sa bienfaisance est immense. Il est Celui qui détient les attributs de la majesté et de la perfection, le Seigneur de l’Univers.
 
 # 1009
 
@@ -4372,7 +4372,7 @@ Lorsqu’arriva l’échéance de leur anéantissement, Notre colère s’abatti
 
 # 1091
 
-Nous avons fait hérité les Israélites, que Pharaon et Son peuple asservissaient, des contrées orientales et occidentales de la Terre, c’est-à-dire le Levant (`ach-châmu), cette région qu’Allah a bénie en y faisant produire les plus parfaits grains et fruits. Ô Messager, c’est ainsi que la plus belle promesse de ton Seigneur se réalisa. Cette promesse est celle qui est mentionnée dans le verset où Allah dit: Mais Nous voulions favoriser ceux qui avaient été faibles sur terre et en faire des dirigeants et en faire les héritiers, [Sourate Al-Qaşaş – Le Récit, verset 5]. Allah leur accorda donc l’autorité sur Terre pour la patience dont ils ont fait preuve face aux persécutions de Pharaon et de son peuple et avons détruit les cultures, habitations et palais que Pharaon avait édifiés.
+Nous avons fait hérité les Israélites, que Pharaon et Son peuple asservissaient, des contrées orientales et occidentales de la Terre, c’est-à-dire le Levant (\`ach-châmu), cette région qu’Allah a bénie en y faisant produire les plus parfaits grains et fruits. Ô Messager, c’est ainsi que la plus belle promesse de ton Seigneur se réalisa. Cette promesse est celle qui est mentionnée dans le verset où Allah dit: Mais Nous voulions favoriser ceux qui avaient été faibles sur terre et en faire des dirigeants et en faire les héritiers, \[Sourate Al-Qaşaş – Le Récit, verset 5\]. Allah leur accorda donc l’autorité sur Terre pour la patience dont ils ont fait preuve face aux persécutions de Pharaon et de son peuple et avons détruit les cultures, habitations et palais que Pharaon avait édifiés.
 
 # 1092
 
@@ -4784,7 +4784,7 @@ Allah ne châtiera pas ton peuple, que ses membres soient musulmans ou de futurs
 
 # 1194
 
-Pour quelle raison le châtiment sera-t-il éloigné d'eux alors qu’ils ont commis ce qui impose d’être châtiés comme d’interdire aux gens d’accomplir la circumambulation [autour de la Ka’ba] et de prier dans la Maison Sacrée? Les polythéistes ne sont pas les alliés d’Allah... Seuls les pieux, qui le craignent, se conforment à Ses commandements et délaissent Ses interdits, sont Ses alliés. Or, la plupart des polythéistes croient être les alliés d’Allah alors que ce n’est pas le cas.
+Pour quelle raison le châtiment sera-t-il éloigné d'eux alors qu’ils ont commis ce qui impose d’être châtiés comme d’interdire aux gens d’accomplir la circumambulation \[autour de la Ka’ba\] et de prier dans la Maison Sacrée? Les polythéistes ne sont pas les alliés d’Allah... Seuls les pieux, qui le craignent, se conforment à Ses commandements et délaissent Ses interdits, sont Ses alliés. Or, la plupart des polythéistes croient être les alliés d’Allah alors que ce n’est pas le cas.
 
 # 1195
 
@@ -4856,7 +4856,7 @@ Ce châtiment douloureux au moment de saisir vos âmes, ô mécréants, ainsi qu
 
 # 1212
 
-Ce châtiment ne s’abat pas que sur ces mécréants, c’est une loi établie par Allah qui s’appliquera à tous les mécréants en tout lieu et en toute époque. Ainsi, ce même châtiment s’abattit sur les gens de Pharaon et les peuples qui les ont précédés lorsqu’ils mécrurent aux signes d’Allah. Allah les a alors saisis pour leurs péchés d’une manière qui sied à un Dieu Tout Puissant et Tout Déterminant (du nom d’Allah `al-muqtadiru) et fit que s’abatte sur eux Son châtiment. Allah est Fort et ne peut être vaincu ni défait. Il est aussi terrible en châtiment avec celui qui Lui désobéit.
+Ce châtiment ne s’abat pas que sur ces mécréants, c’est une loi établie par Allah qui s’appliquera à tous les mécréants en tout lieu et en toute époque. Ainsi, ce même châtiment s’abattit sur les gens de Pharaon et les peuples qui les ont précédés lorsqu’ils mécrurent aux signes d’Allah. Allah les a alors saisis pour leurs péchés d’une manière qui sied à un Dieu Tout Puissant et Tout Déterminant (du nom d’Allah \`al-muqtadiru) et fit que s’abatte sur eux Son châtiment. Allah est Fort et ne peut être vaincu ni défait. Il est aussi terrible en châtiment avec celui qui Lui désobéit.
 
 # 1213
 
@@ -5064,7 +5064,7 @@ Celui qui se repent de sa mécréance et de son égarement après le châtiment 
 
 # 1264
 
-Ô croyants, combattez les mécréants, juifs et chrétiens, qui ne croient pas en Allah, en tant que Dieu Unique n’ayant pas d’associé, ni au Jour de la Résurrection et ne s’abstiennent pas de ce qu’Allah leur a déclaré illicite, comme de consommer la chair des bêtes mortes, la chair de porc et le vin, et de s’adonner à l’usure. Combattez ceux qui ne se soumettent pas à ce qu’Allah a prescrit, jusqu’à ce que, de leur propre chef, ils versent la capitation (`al-jizyah(jizyatu)), se rabaissent devant vous et accepte votre domination.
+Ô croyants, combattez les mécréants, juifs et chrétiens, qui ne croient pas en Allah, en tant que Dieu Unique n’ayant pas d’associé, ni au Jour de la Résurrection et ne s’abstiennent pas de ce qu’Allah leur a déclaré illicite, comme de consommer la chair des bêtes mortes, la chair de porc et le vin, et de s’adonner à l’usure. Combattez ceux qui ne se soumettent pas à ce qu’Allah a prescrit, jusqu’à ce que, de leur propre chef, ils versent la capitation (\`al-jizyah(jizyatu)), se rabaissent devant vous et accepte votre domination.
 
 # 1265
 
@@ -5108,7 +5108,7 @@ Le report de la sacralité d’un mois sacré vers un autre qui lui ne l’est p
 
 # 1275
 
-Ô croyants, si vous ne secourez pas le Messager d’Allah et ne répondez pas à son appel à lutter pour la cause d’Allah, sachez qu’Allah l’a auparavant secourut alors que vous n’étiez pas avec lui. En effet, lorsque les polythéistes décidèrent de l’expulser avec `Abû Bakr, ils n’étaient que deux et n’avaient pas de troisième compagnons quand ils se réfugièrent dans la grotte de Thawr afin d’échapper aux mécréants qui les recherchaient. Le Messager d’Allah dit alors à `Abû Bakr, son Compagnon, alors qu’il craignait que les polythéistes ne les rattrapent: Ne sois pas triste, Allah est notre soutient et notre secours. Allah apaisa alors le cœur de Son Messager et fit descendre sur lui des soldats que vous ne pouvez pas voir –les anges– afin de le soutenir. En faisant en sorte que l’Islam ait le dessus, Allah éleva Sa parole bien plus haut que celle des polythéistes. Allah est Puissant dans Son Etre, Sa domination et Son Royaume et personne ne peut Lui tenir tête. Il est aussi Sage dans Sa gestion, dans Sa prédestination et dans Sa religion.
+Ô croyants, si vous ne secourez pas le Messager d’Allah et ne répondez pas à son appel à lutter pour la cause d’Allah, sachez qu’Allah l’a auparavant secourut alors que vous n’étiez pas avec lui. En effet, lorsque les polythéistes décidèrent de l’expulser avec \`Abû Bakr, ils n’étaient que deux et n’avaient pas de troisième compagnons quand ils se réfugièrent dans la grotte de Thawr afin d’échapper aux mécréants qui les recherchaient. Le Messager d’Allah dit alors à \`Abû Bakr, son Compagnon, alors qu’il craignait que les polythéistes ne les rattrapent: Ne sois pas triste, Allah est notre soutient et notre secours. Allah apaisa alors le cœur de Son Messager et fit descendre sur lui des soldats que vous ne pouvez pas voir –les anges– afin de le soutenir. En faisant en sorte que l’Islam ait le dessus, Allah éleva Sa parole bien plus haut que celle des polythéistes. Allah est Puissant dans Son Etre, Sa domination et Son Royaume et personne ne peut Lui tenir tête. Il est aussi Sage dans Sa gestion, dans Sa prédestination et dans Sa religion.
 
 # 1276
 
@@ -5168,7 +5168,7 @@ Trois raisons font que leurs dépenses ne seront pas acceptées par Allah: Leur 
 
 # 1290
 
-Ô Messager, ne sois pas émerveillé par les richesses et la descendance nombreuse de ces hypocrites et ne crois pas que ce sont des bienfaits qui leur sont accordés, car ce qui va suivre ces richesses est épouvantable. En effet, Allah les châtiera pour les efforts qu’ils auront fournis en vue de les amasser et d’obtenir une descendance aussi nombreuse. Des malheurs toucherons leurs biens et leurs progénitures jusqu’à ce qu’Allah fasse sortir leurs âmes de leurs corps et qu’ils meurent mécréants. Ensuite, ils subiront le châtiment du Feu dans la fosse la plus profonde [de l’enfer] dans laquelle ils demeureront éternellement.
+Ô Messager, ne sois pas émerveillé par les richesses et la descendance nombreuse de ces hypocrites et ne crois pas que ce sont des bienfaits qui leur sont accordés, car ce qui va suivre ces richesses est épouvantable. En effet, Allah les châtiera pour les efforts qu’ils auront fournis en vue de les amasser et d’obtenir une descendance aussi nombreuse. Des malheurs toucherons leurs biens et leurs progénitures jusqu’à ce qu’Allah fasse sortir leurs âmes de leurs corps et qu’ils meurent mécréants. Ensuite, ils subiront le châtiment du Feu dans la fosse la plus profonde \[de l’enfer\] dans laquelle ils demeureront éternellement.
 
 # 1291
 
@@ -5372,7 +5372,7 @@ Que ceux qui ne sont pas allés combattre et se sont repentis à Allah sachent q
 
 # 1341
 
-Parmi ceux qui ne sont pas allés combattre lors de la Bataille de Tabûk, il y en a qui n’avaient pas d’excuse non plus. Leur cas est laissé en suspens dans l’attente d’un décret et d’un jugement d’Allah à leur sujet et Il jugera comme Il l’entend: soit Il les châtiera s’ils ne se repentent pas à Lui, soit Il accepte leur repentir s’ils se repentent. Allah sait le mieux qui mérite Son châtiment et qui mérite Son pardon. Il est Sage dans Sa religion et Sa gestion. Ce verset fait allusion à trois Compagnons qui sont: Marârah ibn ar-Rabî’, Ka’b ibn Mâlik et Hilâl ibn `Umayyah
+Parmi ceux qui ne sont pas allés combattre lors de la Bataille de Tabûk, il y en a qui n’avaient pas d’excuse non plus. Leur cas est laissé en suspens dans l’attente d’un décret et d’un jugement d’Allah à leur sujet et Il jugera comme Il l’entend: soit Il les châtiera s’ils ne se repentent pas à Lui, soit Il accepte leur repentir s’ils se repentent. Allah sait le mieux qui mérite Son châtiment et qui mérite Son pardon. Il est Sage dans Sa religion et Sa gestion. Ce verset fait allusion à trois Compagnons qui sont: Marârah ibn ar-Rabî’, Ka’b ibn Mâlik et Hilâl ibn \`Umayyah
 
 # 1342
 
@@ -5380,7 +5380,7 @@ Parmi les hypocrites, il y a également ceux qui ont construit une mosquée pour
 
 # 1343
 
-Ô Prophète, ne réponds pas à l’invitation de ces hypocrites d’aller prier dans une mosquée répondant à cette description. La Mosquée de Qubâ` qui fut fondé dès le début sur la piété, mérite plus que tu y pries que cette mosquée fondée sur la mécréance. Dans la mosquée de Qubâ`, il y a des hommes qui aiment se purifier des souillures et des impuretés avec de l’eau et se purifier des actes de désobéissance en se repentant et en demandant pardon. Or Allah aime ceux qui se purifient des souillures, des impuretés et des péchés.
+Ô Prophète, ne réponds pas à l’invitation de ces hypocrites d’aller prier dans une mosquée répondant à cette description. La Mosquée de Qubâ\` qui fut fondé dès le début sur la piété, mérite plus que tu y pries que cette mosquée fondée sur la mécréance. Dans la mosquée de Qubâ\`, il y a des hommes qui aiment se purifier des souillures et des impuretés avec de l’eau et se purifier des actes de désobéissance en se repentant et en demandant pardon. Or Allah aime ceux qui se purifient des souillures, des impuretés et des péchés.
 
 # 1344
 
@@ -5420,7 +5420,7 @@ Allah accepta le repentir du Prophète Muħammad d’avoir permis aux hypocrites
 
 # 1353
 
-Allah accepta le repentir des trois hommes que sont Ka’b ibn Mâlik, Marârah ibn ar-Rabî’ et Hilâl ibn `Umayyah, qui avaient vu l’acceptation de leur repentir pour ne pas avoir participé à la Bataille de Tabûk remise à plus tard. Comme le Prophète avait ordonné aux gens de les boycotter, ils ressentirent une tristesse et une mélancolie telles que la Terre leur parut étroite malgré son immensité et leurs poitrines se resserrèrent tant ils ressentaient cette solitude pesante. Ils surent qu’ils n’avaient d’autre refuge qu’Allah Seul et Il leur fit miséricorde en les faisant se repentir et en acceptant ensuite leur démarche. Il est Celui qui accepte le repentir de Ses serviteur et qui est miséricordieux envers eux.
+Allah accepta le repentir des trois hommes que sont Ka’b ibn Mâlik, Marârah ibn ar-Rabî’ et Hilâl ibn \`Umayyah, qui avaient vu l’acceptation de leur repentir pour ne pas avoir participé à la Bataille de Tabûk remise à plus tard. Comme le Prophète avait ordonné aux gens de les boycotter, ils ressentirent une tristesse et une mélancolie telles que la Terre leur parut étroite malgré son immensité et leurs poitrines se resserrèrent tant ils ressentaient cette solitude pesante. Ils surent qu’ils n’avaient d’autre refuge qu’Allah Seul et Il leur fit miséricorde en les faisant se repentir et en acceptant ensuite leur démarche. Il est Celui qui accepte le repentir de Ses serviteur et qui est miséricordieux envers eux.
 
 # 1354
 
@@ -5468,7 +5468,7 @@ S’ils se détournent de toi et ne croient pas à ce que tu leur apportes, dis-
 
 # 1365
 
-`Alif, lâm, râ`: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah. Les versets récités dans cette sourate sont les versets du Coran parfaitement achevé qui contient sagesse et jugements.
+\`Alif, lâm, râ\`: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah. Les versets récités dans cette sourate sont les versets du Coran parfaitement achevé qui contient sagesse et jugements.
 
 # 1366
 
@@ -5904,7 +5904,7 @@ Il m’a ordonné de pratiquer la religion authentique, de lui être fidèle et 
 
 # 1474
 
-`Alif, Lâm, Râ`: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah. Le Coran est un Livre dont les versets sont parfaits dans la disposition et le choix des mots. On n’y trouve ainsi ni défaut ni déficience. Ces versets détaillent énormément de choses, comme ce qui est licite et illicite, les commandements, les interdits, les promesses, les menaces, les récits et autres choses encore. Il provient d’un Etre Sage dans Sa gestion et Ses prescriptions, qui connait parfaitement Ses serviteurs et ce qui est le plus à même de les améliorer.
+\`Alif, Lâm, Râ\`: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah. Le Coran est un Livre dont les versets sont parfaits dans la disposition et le choix des mots. On n’y trouve ainsi ni défaut ni déficience. Ces versets détaillent énormément de choses, comme ce qui est licite et illicite, les commandements, les interdits, les promesses, les menaces, les récits et autres choses encore. Il provient d’un Etre Sage dans Sa gestion et Ses prescriptions, qui connait parfaitement Ses serviteurs et ce qui est le plus à même de les améliorer.
 
 # 1475
 
@@ -6398,7 +6398,7 @@ Tout ce qui est invisible dans les Cieux et la Terre est connu par Allah. Rien n
 
 # 1597
 
-Alif, Lâm, Râ`: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah. Ce qu’exposent les versets de cette sourate du Coran est limpide.
+Alif, Lâm, Râ\`: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah. Ce qu’exposent les versets de cette sourate du Coran est limpide.
 
 # 1598
 
@@ -6478,7 +6478,7 @@ L’homme qui le trouva et ses acolytes le vendirent pour une somme dérisoire e
 
 # 1617
 
-L’Egyptien qui l’acheta dit à son épouse: Sois bienfaisante envers lui et honore-le en l’accueillant parmi nous comme il se doit. Peut-être qu’il nous sera d’une quelconque aide ou que nous l’adopterons comme fils. Tout comme Nous avons sauvé Joseph du meurtre, l’avons sorti du puits et avons suscité de la compassion dans le cœur du gouverneur d’Égypte (‘azîzu mişra ou `al-’azîzu), Nous avons de la même façon établi son autorité en Egypte et lui avons enseigné l’interprétation des rêves. Allah impose Son ordre et l’exécute. Personne ne Le contraint mais la plupart des gens –les mécréants– ne le savent pas.
+L’Egyptien qui l’acheta dit à son épouse: Sois bienfaisante envers lui et honore-le en l’accueillant parmi nous comme il se doit. Peut-être qu’il nous sera d’une quelconque aide ou que nous l’adopterons comme fils. Tout comme Nous avons sauvé Joseph du meurtre, l’avons sorti du puits et avons suscité de la compassion dans le cœur du gouverneur d’Égypte (‘azîzu mişra ou \`al-’azîzu), Nous avons de la même façon établi son autorité en Egypte et lui avons enseigné l’interprétation des rêves. Allah impose Son ordre et l’exécute. Personne ne Le contraint mais la plupart des gens –les mécréants– ne le savent pas.
 
 # 1618
 
@@ -6842,7 +6842,7 @@ Dans les récits des messagers et de leurs peuples ainsi que dans le récit de J
 
 # 1708
 
-`Alif, Lâm, Mîm, Râ`: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah. Les versets sublimes de cette sourate et le Coran qu’Allah t’a révélé, ô Messager, est la vérité qui n’est entachée par aucun doute. Celui-ci provient indubitablement d’Allah, mais la plupart des gens n’y croient pas car ils sont entêtés et orgueilleux.
+\`Alif, Lâm, Mîm, Râ\`: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah. Les versets sublimes de cette sourate et le Coran qu’Allah t’a révélé, ô Messager, est la vérité qui n’est entachée par aucun doute. Celui-ci provient indubitablement d’Allah, mais la plupart des gens n’y croient pas car ils sont entêtés et orgueilleux.
 
 # 1709
 
@@ -7014,7 +7014,7 @@ Ceux qui mécroient te disent: Ô Muħammad, tu n’as pas été envoyé par All
 
 # 1751
 
-`Alif, Lâm, Râ`: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah Ce Coran est un Livre que Nous t’avons révélé, ô Messager, afin que tu délivres les gens de la mécréance, de l’ignorance et de l’égarement pour les mener à la foi, la connaissance et afin de les guider à la religion de l’Islam, qui est la voie agréée d’Allah le Puissant à qui personne ne tient tête, le Louable en toute chose.
+\`Alif, Lâm, Râ\`: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah Ce Coran est un Livre que Nous t’avons révélé, ô Messager, afin que tu délivres les gens de la mécréance, de l’ignorance et de l’égarement pour les mener à la foi, la connaissance et afin de les guider à la religion de l’Islam, qui est la voie agréée d’Allah le Puissant à qui personne ne tient tête, le Louable en toute chose.
 
 # 1752
 
@@ -7066,7 +7066,7 @@ Les mécréants appartenant aux peuples des messagers leur dirent lorsqu’ils f
 
 # 1764
 
-Ô messagers et ceux qui vous suivent, Nous vous installerons sur [cette présente] Terre après avoir anéanti les mécréants. Cette promesse d’anéantir les mécréants dénégateurs et d’établir les croyants sur la Terre après cela est adressée à ceux qui sont conscients de Ma Grandeur et du fait que Je les observe et qui redoutent la menace d’avertissement que Je leur adresse.
+Ô messagers et ceux qui vous suivent, Nous vous installerons sur \[cette présente\] Terre après avoir anéanti les mécréants. Cette promesse d’anéantir les mécréants dénégateurs et d’établir les croyants sur la Terre après cela est adressée à ceux qui sont conscients de Ma Grandeur et du fait que Je les observe et qui redoutent la menace d’avertissement que Je leur adresse.
 
 # 1765
 
@@ -7098,7 +7098,7 @@ Le Jour de la Résurrection, les gens sortiront de leurs tombes pour se présent
 
 # 1772
 
-`Iblîs dira lorsque les gens du Paradis entreront au Paradis et que les gens de l’Enfer entreront en Enfer: Allah vous a fait une promesse véridique et l’a tenue tandis que je vous ai fait une promesse mensongère que je n’ai pas tenue. Par ailleurs, je ne vous ai pas contraint par la force à mécroire et à vous égarer dans le bas monde mais je vous ai plutôt appelé à la mécréance et je vous ai embelli les péchés. Vous vous êtes alors empressés de me suivre. Ne me reprochez donc pas votre égarement mais retournez vos reproches contre vous-mêmes, vous les méritez le plus. Je ne viendrai pas à votre secours afin de repousser de vous le châtiment ni, vous, ne viendrez à mon secours afin de repousser de moi le châtiment. Je rejette votre faute de m’avoir associé à Allah dans votre adoration sachant que les injustes qui, dans le bas monde, associent des divinités à Allah et mécroient en Lui subiront un châtiment douloureux le Jour de la Résurrection.
+\`Iblîs dira lorsque les gens du Paradis entreront au Paradis et que les gens de l’Enfer entreront en Enfer: Allah vous a fait une promesse véridique et l’a tenue tandis que je vous ai fait une promesse mensongère que je n’ai pas tenue. Par ailleurs, je ne vous ai pas contraint par la force à mécroire et à vous égarer dans le bas monde mais je vous ai plutôt appelé à la mécréance et je vous ai embelli les péchés. Vous vous êtes alors empressés de me suivre. Ne me reprochez donc pas votre égarement mais retournez vos reproches contre vous-mêmes, vous les méritez le plus. Je ne viendrai pas à votre secours afin de repousser de vous le châtiment ni, vous, ne viendrez à mon secours afin de repousser de moi le châtiment. Je rejette votre faute de m’avoir associé à Allah dans votre adoration sachant que les injustes qui, dans le bas monde, associent des divinités à Allah et mécroient en Lui subiront un châtiment douloureux le Jour de la Résurrection.
 
 # 1773
 
@@ -7106,7 +7106,7 @@ Contrairement aux injustes, on fera entrer ceux qui croient et accomplissent de 
 
 # 1774
 
-Ô Messager, ne sais-tu pas qu’Allah énonça une parabole dont la finalité est de définir la formule « lâ `ilâha `illa Llâhu (Il n’existe pas de divinité hormis Allah) »? Il la compara en effet à un arbre donnant de bons fruits, qui est le palmier, dont le tronc est profondément enraciné dans la terre, afin que l’arbre s’abreuve à l’aide de ses belles racines, et les rameaux s’élèvent dans le Ciel afin de recueillir la rosée et respirer le bon air.
+Ô Messager, ne sais-tu pas qu’Allah énonça une parabole dont la finalité est de définir la formule « lâ \`ilâha \`illa Llâhu (Il n’existe pas de divinité hormis Allah) »? Il la compara en effet à un arbre donnant de bons fruits, qui est le palmier, dont le tronc est profondément enraciné dans la terre, afin que l’arbre s’abreuve à l’aide de ses belles racines, et les rameaux s’élèvent dans le Ciel afin de recueillir la rosée et respirer le bon air.
 
 # 1775
 
@@ -7224,7 +7224,7 @@ Ce Coran révélé à Muħammad est une annonce adressée par Allah aux gens afi
 
 # 1803
 
-`Alif, Lâm, Râ`: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah. Ces versets éminents prouvent qu’ils ont été révélés par Allah. Ce sont des versets qui exposent en détail le monothéisme et les lois de la religion.
+\`Alif, Lâm, Râ\`: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah. Ces versets éminents prouvent qu’ils ont été révélés par Allah. Ce sont des versets qui exposent en détail le monothéisme et les lois de la religion.
 
 # 1804
 
@@ -7244,7 +7244,7 @@ Aucune communauté n’est anéantie avant que son terme n’arrive à échéanc
 
 # 1808
 
-Les mécréants de la Mecque dirent au Messager: Ô celui qui prétend que le Rappel (`adh-dhikru, l’un des noms du Coran) lui a été révélé, cette revendication fait de toi un aliéné se comportant avec folie.
+Les mécréants de la Mecque dirent au Messager: Ô celui qui prétend que le Rappel (\`adh-dhikru, l’un des noms du Coran) lui a été révélé, cette revendication fait de toi un aliéné se comportant avec folie.
 
 # 1809
 
@@ -7332,7 +7332,7 @@ Nous avons créé les djinns bien avant Adam d’un feu ardent.
 
 # 1830
 
-Ô Messager, rappelle-toi lorsque ton Seigneur dit aux anges et à `Iblîs qui était présent parmi eux: Je vais créer un être humain d’une argile sèche qui produit un son lorsqu’elle est tapotée, noire et malodorante.
+Ô Messager, rappelle-toi lorsque ton Seigneur dit aux anges et à \`Iblîs qui était présent parmi eux: Je vais créer un être humain d’une argile sèche qui produit un son lorsqu’elle est tapotée, noire et malodorante.
 
 # 1831
 
@@ -7344,15 +7344,15 @@ Les anges obéirent tous et se prosternèrent conformément à ce que leur avait
 
 # 1833
 
-En revanche, `Iblîs –qui était présent parmi les anges mais n’en est pas un– s’abstint de se prosterner devant Adam.
+En revanche, \`Iblîs –qui était présent parmi les anges mais n’en est pas un– s’abstint de se prosterner devant Adam.
 
 # 1834
 
-Allah dit à `Iblîs après que celui-ci se soit abstenu de se prosterner devant Adam: Pour quelle raison t’es-tu abstenu de te prosterner avec les anges qui M’ont obéi?
+Allah dit à \`Iblîs après que celui-ci se soit abstenu de se prosterner devant Adam: Pour quelle raison t’es-tu abstenu de te prosterner avec les anges qui M’ont obéi?
 
 # 1835
 
-Empli d’orgueil, `Iblîs répondit: Il ne convient pas que je me prosterne devant un être humain que Tu as créé d’argile sèche qui auparavant était noire et malodorante.
+Empli d’orgueil, \`Iblîs répondit: Il ne convient pas que je me prosterne devant un être humain que Tu as créé d’argile sèche qui auparavant était noire et malodorante.
 
 # 1836
 
@@ -7364,7 +7364,7 @@ La malédiction te poursuivra jusqu’au Jour de la Rétribution et tu seras exc
 
 # 1838
 
-`Iblîs formula alors la requête suivante: Ô Seigneur, accorde-moi un répit et ne me fais pas mourir avant le Jour où les gens seront ressuscités.
+\`Iblîs formula alors la requête suivante: Ô Seigneur, accorde-moi un répit et ne me fais pas mourir avant le Jour où les gens seront ressuscités.
 
 # 1839
 
@@ -7376,7 +7376,7 @@ Je t’ai accordé un répit jusqu’au moment où toutes les créatures qui ne 
 
 # 1841
 
-`Iblîs dit: Ô Seigneur, puisque Tu m’a induis en erreur, j’embellirai aux êtres humains vivant sur la Terre les péchés et les égarerai tous du droit chemin.
+\`Iblîs dit: Ô Seigneur, puisque Tu m’a induis en erreur, j’embellirai aux êtres humains vivant sur la Terre les péchés et les égarerai tous du droit chemin.
 
 # 1842
 
@@ -7392,11 +7392,11 @@ Tu n’auras sur Mes serviteurs fidèles aucun pouvoir ni aucune emprise. Tu ne 
 
 # 1845
 
-L’Enfer est assurément promis à `Iblîs et à tous les égarés qui le suivent.
+L’Enfer est assurément promis à \`Iblîs et à tous les égarés qui le suivent.
 
 # 1846
 
-L’Enfer a sept portes par lesquelles ils entrent et par chaque porte entrera un nombre déterminé de disciples de`Iblîs.
+L’Enfer a sept portes par lesquelles ils entrent et par chaque porte entrera un nombre déterminé de disciples de\`Iblîs.
 
 # 1847
 
@@ -7532,7 +7532,7 @@ On trouve également dans ces scènes des leçons adressés aux croyants afin qu
 
 # 1880
 
-Le peuple de Chu’ayb, les habitants du village de l’arbre aux branches entremêlées (`al-`aykatu(`aykah)), était un peuple injuste puisqu’ils mécroyaient en Allah et démentaient Chu’ayb, leur messager.
+Le peuple de Chu’ayb, les habitants du village de l’arbre aux branches entremêlées (\`al-\`aykatu(\`aykah)), était un peuple injuste puisqu’ils mécroyaient en Allah et démentaient Chu’ayb, leur messager.
 
 # 1881
 
@@ -8088,7 +8088,7 @@ Pour avoir suivi leurs passions, ils jouiront du peu de choses que leur offre le
 
 # 2019
 
-Nous avons déclaré illicites spécifiquement aux juifs, les aliments que Nous t’avons énumérés (verset 146 de Sourate Al-`An’âm) et Nous n’avons pas été injuste en les leur interdisant. Ce sont plutôt eux qui ont été injustes envers eux-mêmes lorsqu’ils ont commis ce qui leur a valu d’être punis et Nous les avons alors châtiés pour leur transgression en leur interdisant ces aliments.
+Nous avons déclaré illicites spécifiquement aux juifs, les aliments que Nous t’avons énumérés (verset 146 de Sourate Al-\`An’âm) et Nous n’avons pas été injuste en les leur interdisant. Ce sont plutôt eux qui ont été injustes envers eux-mêmes lorsqu’ils ont commis ce qui leur a valu d’être punis et Nous les avons alors châtiés pour leur transgression en leur interdisant ces aliments.
 
 # 2020
 
@@ -8112,7 +8112,7 @@ Puis bien plus tard, Nous t’avons révélé ô Messager d’être fidèle à l
 
 # 2025
 
-La vénération du Sabbat (`as-sabtu, le samedi) n’a été imposée qu’aux juifs qui ont divergé à son sujet afin qu’ils délaissent durant ce jour, leurs préoccupations habituelles et se consacrent à l’adoration et après qu’ils aient refusé de vouer cette adoration à Allah le vendredi. Ô Messager, Allah jugera entre eux le Jour de la Résurrection et tranchera ce au sujet de quoi ils divergeaient, rétribuant alors chacun selon ce qu’il mérite.
+La vénération du Sabbat (\`as-sabtu, le samedi) n’a été imposée qu’aux juifs qui ont divergé à son sujet afin qu’ils délaissent durant ce jour, leurs préoccupations habituelles et se consacrent à l’adoration et après qu’ils aient refusé de vouer cette adoration à Allah le vendredi. Ô Messager, Allah jugera entre eux le Jour de la Résurrection et tranchera ce au sujet de quoi ils divergeaient, rétribuant alors chacun selon ce qu’il mérite.
 
 # 2026
 
@@ -8132,7 +8132,7 @@ Allah est avec ceux qui Le craignent, lorsqu’ils délaissent les actes de dés
 
 # 2030
 
-Qu’Allah soit élevé et vénéré pour Son pouvoir égalé par celui d'aucun autre être. Il est ainsi Celui qui fit voyager de nuit, le corps et l’esprit de Son serviteur Muħammad, qui était en état d’éveil, de la Mosquée Sacrée vers la Mosquée A-`Aqşâ (`al-masjidu l-`aqşâ) de Jérusalem dont Nous avons béni les alentours en en faisant une terre aux récoltes abondantes et le pays des prophètes. Nous l’avons fait voyagé afin qu’il voie certains signes du pouvoir d’Allah, l’Audient et le Voyant à qui rien n’échappe à Son ouïe et Sa vue.
+Qu’Allah soit élevé et vénéré pour Son pouvoir égalé par celui d'aucun autre être. Il est ainsi Celui qui fit voyager de nuit, le corps et l’esprit de Son serviteur Muħammad, qui était en état d’éveil, de la Mosquée Sacrée vers la Mosquée A-\`Aqşâ (\`al-masjidu l-\`aqşâ) de Jérusalem dont Nous avons béni les alentours en en faisant une terre aux récoltes abondantes et le pays des prophètes. Nous l’avons fait voyagé afin qu’il voie certains signes du pouvoir d’Allah, l’Audient et le Voyant à qui rien n’échappe à Son ouïe et Sa vue.
 
 # 2031
 
@@ -8284,7 +8284,7 @@ Tout ce qui est mauvais parmi ce qui a été évoqué dans les versets précéde
 
 # 2068
 
-Ces ordres, interdictions et jugements que Nous avons explicités, figurent parmi ce que ton Seigneur t’a révélé. Ô être humain, n’adore pas des divinités avec Allah car tu serais jeté en Enfer le Jour de la Résurrection, réprouvé par toi-même et par les gens [ton comportement], et de plus toute bonne chose te sera refusée.
+Ces ordres, interdictions et jugements que Nous avons explicités, figurent parmi ce que ton Seigneur t’a révélé. Ô être humain, n’adore pas des divinités avec Allah car tu serais jeté en Enfer le Jour de la Résurrection, réprouvé par toi-même et par les gens \[ton comportement\], et de plus toute bonne chose te sera refusée.
 
 # 2069
 
@@ -8336,7 +8336,7 @@ Sinon, soyez les créatures les plus impressionnantes que vous puissiez imaginer
 
 # 2081
 
-Allah vous ressuscitera lorsqu’Il vous appellera à vous rassembler sur la Terre du Rassemblement (`arđu l-maħchari) et vous Lui répondrez avec soumission en proclamant Sa louange. Vous penserez alors n’être restés sur Terre que peu de temps.
+Allah vous ressuscitera lorsqu’Il vous appellera à vous rassembler sur la Terre du Rassemblement (\`arđu l-maħchari) et vous Lui répondrez avec soumission en proclamant Sa louange. Vous penserez alors n’être restés sur Terre que peu de temps.
 
 # 2082
 
@@ -8368,15 +8368,15 @@ Nous ne Nous refusons d’envoyer des miracles concrets qui prouvent la véracit
 
 # 2089
 
-Ô Messager, rappelle-toi lorsque Nous t’avons dit: Comme Allah cerne par Son pouvoir tous les gens, ils sont ainsi sous Son emprise et Il les empêchera de t’atteindre. Transmets donc sans crainte ce qui t’a été ordonné de transmettre. En ce qui concerne ce que Nous t’avons fait voir la nuit du Voyage Nocturne (`al-`isrâ`u), cela n’avait comme finalité que d’éprouver les gens: y accorderont-ils du crédit ou le démentiront-ils? De même, Nous avons fait de l’arbre maudit d’Az-Zaqqûm, dont le Coran dit qu’il pousse au fond de l’Enfer, une épreuve adressée aux gens. S’ils ne croient pas en ces deux signes, ils ne croiront pas en d’autres, sachant que Nous les menaçons en leur envoyant des signes, mais plus on les menace et plus ils s’obstinent dans la mécréance et l’égarement.
+Ô Messager, rappelle-toi lorsque Nous t’avons dit: Comme Allah cerne par Son pouvoir tous les gens, ils sont ainsi sous Son emprise et Il les empêchera de t’atteindre. Transmets donc sans crainte ce qui t’a été ordonné de transmettre. En ce qui concerne ce que Nous t’avons fait voir la nuit du Voyage Nocturne (\`al-\`isrâ\`u), cela n’avait comme finalité que d’éprouver les gens: y accorderont-ils du crédit ou le démentiront-ils? De même, Nous avons fait de l’arbre maudit d’Az-Zaqqûm, dont le Coran dit qu’il pousse au fond de l’Enfer, une épreuve adressée aux gens. S’ils ne croient pas en ces deux signes, ils ne croiront pas en d’autres, sachant que Nous les menaçons en leur envoyant des signes, mais plus on les menace et plus ils s’obstinent dans la mécréance et l’égarement.
 
 # 2090
 
-Ô Messager, rappelle-toi lorsque Nous avons dit aux anges: Prosternez-vous devant Adam en signe de salutation et non d’adoration. Tous obéirent mais `Iblîs refusa avec arrogance et dit: Me prosternerai-je devant celui que Tu as créé d’argile alors que Tu m’as créé de feu? Je suis certainement plus noble que lui !
+Ô Messager, rappelle-toi lorsque Nous avons dit aux anges: Prosternez-vous devant Adam en signe de salutation et non d’adoration. Tous obéirent mais \`Iblîs refusa avec arrogance et dit: Me prosternerai-je devant celui que Tu as créé d’argile alors que Tu m’as créé de feu? Je suis certainement plus noble que lui !
 
 # 2091
 
-`Iblîs continua de s’adresser à son Seigneur: Vois-tu cette créature que Tu as honorée plus que moi lorsque Tu m’as ordonné de me prosterner devant elle? Si Tu me laisses vivre jusqu’à la fin de ce bas monde, je m’attèlerai à tenter sa descendance et à l’éloigner de Ton droit chemin, excepté le petit nombre de tes serviteurs fidèles que Tu auras préservés.
+\`Iblîs continua de s’adresser à son Seigneur: Vois-tu cette créature que Tu as honorée plus que moi lorsque Tu m’as ordonné de me prosterner devant elle? Si Tu me laisses vivre jusqu’à la fin de ce bas monde, je m’attèlerai à tenter sa descendance et à l’éloigner de Ton droit chemin, excepté le petit nombre de tes serviteurs fidèles que Tu auras préservés.
 
 # 2092
 
@@ -8388,7 +8388,7 @@ Provoque ceux que tu es capable de provoquer en les appelant à transgresser ; a
 
 # 2094
 
-Ô `Iblîs, tu n’as aucune emprise sur Mes serviteurs croyants qui M’obéissent car J’éloigne d’eux ton mal et Allah suffit comme protecteur à celui qui s’en remet à Lui dans toutes ses affaires.
+Ô \`Iblîs, tu n’as aucune emprise sur Mes serviteurs croyants qui M’obéissent car J’éloigne d’eux ton mal et Allah suffit comme protecteur à celui qui s’en remet à Lui dans toutes ses affaires.
 
 # 2095
 
@@ -8468,7 +8468,7 @@ Lorsque Nous accordons à l’être humain un bienfait comme la santé ou la ric
 
 # 2114
 
-Ô Messager, les mécréants des Gens du Livre te questionnent au sujet de l’esprit (`ar-rûħu). Dis-leur: Personne n’en connaît la véritable nature hormis Allah. Vous et le reste des créatures n’avez reçu que très peu de connaissances en comparaison avec les connaissances d’Allah.
+Ô Messager, les mécréants des Gens du Livre te questionnent au sujet de l’esprit (\`ar-rûħu). Dis-leur: Personne n’en connaît la véritable nature hormis Allah. Vous et le reste des créatures n’avez reçu que très peu de connaissances en comparaison avec les connaissances d’Allah.
 
 # 2115
 
@@ -8568,7 +8568,7 @@ Ils se jettent sur leurs visages et se prosternent devant Allah en pleurant d’
 
 # 2139
 
-Ô Messager, dis à ceux qui ont désapprouvé que tu invoques Allah en disant: « yâ `Allâhu, yâ Raħmânu» (Ô Allah, ô Tout-Miséricordieux): `Allâhu ou `Ar-Raħmânu sont deux Noms d’Allah. Invoquez-Le donc en mentionnant l’un des deux, les deux en même temps ou tout autre de Ses Noms puisque les Plus Beaux Noms Lui appartiennent et ceux-là en font partie. Il n’y a donc pas de mal à L’invoquer par ces Noms ou par d’autres de Ses Plus Beaux Noms. Par ailleurs, que ta récitation durant la prière ne soit pas faite à voix trop haute afin que les polythéistes ne t’entendent pas, ni à voix trop basse empêchant les croyants de t’entendre, mais adopte un ton intermédiaire.
+Ô Messager, dis à ceux qui ont désapprouvé que tu invoques Allah en disant: « yâ \`Allâhu, yâ Raħmânu» (Ô Allah, ô Tout-Miséricordieux): \`Allâhu ou \`Ar-Raħmânu sont deux Noms d’Allah. Invoquez-Le donc en mentionnant l’un des deux, les deux en même temps ou tout autre de Ses Noms puisque les Plus Beaux Noms Lui appartiennent et ceux-là en font partie. Il n’y a donc pas de mal à L’invoquer par ces Noms ou par d’autres de Ses Plus Beaux Noms. Par ailleurs, que ta récitation durant la prière ne soit pas faite à voix trop haute afin que les polythéistes ne t’entendent pas, ni à voix trop basse empêchant les croyants de t’entendre, mais adopte un ton intermédiaire.
 
 # 2140
 
@@ -8608,7 +8608,7 @@ Nous allons certainement réduire toutes les créatures vivant à la surface de 
 
 # 2149
 
-Ô Messager, ne crois pas que le récit des jeunes gens de la caverne (`aşħâbu l-kahfi) et de la Table sur laquelle sont inscrits leurs noms, fait partie de Nos signes les plus prodigieux. D’autres sont bien plus prodigieux que ceux-là, comme la création des Cieux et de la Terre par exemple.
+Ô Messager, ne crois pas que le récit des jeunes gens de la caverne (\`aşħâbu l-kahfi) et de la Table sur laquelle sont inscrits leurs noms, fait partie de Nos signes les plus prodigieux. D’autres sont bien plus prodigieux que ceux-là, comme la création des Cieux et de la Terre par exemple.
 
 # 2150
 
@@ -8668,7 +8668,7 @@ Certains, qui aiment polémiquer au sujet du nombre de ces jeunes gens, disent: 
 
 # 2164
 
-Ne dis pas que tu vas faire quelque chose sans poser comme condition qu’Allah le veuille, en disant par exemple: Je ferai ceci demain `in châ`a Llâhu (si Allah le veut). Si tu oublies de prononcer cette formule, prononce-la dès que tu te rends compte l’avoir oubliée et dis: J’espère que mon Seigneur m’orientera vers un comportement plus sage et plus correct.
+Ne dis pas que tu vas faire quelque chose sans poser comme condition qu’Allah le veuille, en disant par exemple: Je ferai ceci demain \`in châ\`a Llâhu (si Allah le veut). Si tu oublies de prononcer cette formule, prononce-la dès que tu te rends compte l’avoir oubliée et dis: J’espère que mon Seigneur m’orientera vers un comportement plus sage et plus correct.
 
 # 2165
 
@@ -8772,7 +8772,7 @@ Le livre des œuvres de chacun sera alors déposé. Certains le saisiront de la 
 
 # 2190
 
-Ô Messager, rappelle-toi lorsque Nous dîmes aux anges: Prosternez-vous devant Adam en guise de salutation. Tous obéirent à l’ordre de leur Seigneur et se prosternèrent, sauf `Iblîs qui était un djinn et non un ange. Il refusa et fit preuve d’orgueil, désobéissant de ce fait à l’ordre de son Seigneur. Ô gens, allez-vous le prendre lui et ses descendants comme alliés alors que ce sont vos ennemis? Comment pouvez-vous donc prendre pour alliés vos ennemis? Comme est mauvais le choix des injustes de s’allier à Satan au lieu d’Allah !
+Ô Messager, rappelle-toi lorsque Nous dîmes aux anges: Prosternez-vous devant Adam en guise de salutation. Tous obéirent à l’ordre de leur Seigneur et se prosternèrent, sauf \`Iblîs qui était un djinn et non un ange. Il refusa et fit preuve d’orgueil, désobéissant de ce fait à l’ordre de son Seigneur. Ô gens, allez-vous le prendre lui et ses descendants comme alliés alors que ce sont vos ennemis? Comment pouvez-vous donc prendre pour alliés vos ennemis? Comme est mauvais le choix des injustes de s’allier à Satan au lieu d’Allah !
 
 # 2191
 
@@ -8876,7 +8876,7 @@ Al-Khiđr dit à Moïse: Ô Moïse, je t’ai déjà dit que tu ne pourras pas s
 
 # 2216
 
-Moïse lui dit: Si je te questionne encore une fois après cela, je ne t’accompagnerais plus, tu auras une excuse [pour te séparer de moi]. J’aurai en effet enfreint notre accord à trois reprises.
+Moïse lui dit: Si je te questionne encore une fois après cela, je ne t’accompagnerais plus, tu auras une excuse \[pour te séparer de moi\]. J’aurai en effet enfreint notre accord à trois reprises.
 
 # 2217
 
@@ -8948,7 +8948,7 @@ Il continua de se déplacer jusqu’à ce qu’il eut atteint une faille entre d
 
 # 2234
 
-Ils dirent: Ô Dhû al-Qarnayn, les Gog (Ya`jûju) et Magog (Ma`jûju) (des peuples humains) sont des corrupteurs sur Terre, ils tuent et commettent d’autres crimes. Pouvons-nous te payer afin que tu établisses un obstacle entre eux et nous ?
+Ils dirent: Ô Dhû al-Qarnayn, les Gog (Ya\`jûju) et Magog (Ma\`jûju) (des peuples humains) sont des corrupteurs sur Terre, ils tuent et commettent d’autres crimes. Pouvons-nous te payer afin que tu établisses un obstacle entre eux et nous ?
 
 # 2235
 
@@ -9016,7 +9016,7 @@ Ils y demeureront éternellement et ne voudront jamais quitter une telle réside
 
 # 2251
 
-Kâf, Hâ`,Ya, ‘Ayn, Şâd: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah.
+Kâf, Hâ\`,Ya, ‘Ayn, Şâd: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah.
 
 # 2252
 
@@ -9180,7 +9180,7 @@ C’est Nous qui resterons après la disparition de toutes les créatures. Nous 
 
 # 2292
 
-Il dit à son père `Âzar: Ô mon père, pourquoi adores-tu à la place d’Allah des idoles qui ne t’entendent pas lorsque tu les invoques ni ne te voient lorsque tu les adores ? Pourquoi adorer ces idoles qui n’éloignent de toi aucun mal, ni ne te sont utiles ?
+Il dit à son père \`Âzar: Ô mon père, pourquoi adores-tu à la place d’Allah des idoles qui ne t’entendent pas lorsque tu les invoques ni ne te voient lorsque tu les adores ? Pourquoi adorer ces idoles qui n’éloignent de toi aucun mal, ni ne te sont utiles ?
 
 # 2293
 
@@ -9208,7 +9208,7 @@ Je m’en vais et délaisse les divinités que vous adorez à la place d’Allah
 
 # 2299
 
-Après être parti et avoir délaissé les idoles qu’ils adoraient au lieu d’adorer Allah, Nous l’avons dédommagé de la perte de sa famille en lui faisant le don d’un fils nommé Isaac (`Isħâq) puis d’un petit-fils nommé Jacob (Ya’qûb) et Nous avons fait de chacun d’eux des prophètes
+Après être parti et avoir délaissé les idoles qu’ils adoraient au lieu d’adorer Allah, Nous l’avons dédommagé de la perte de sa famille en lui faisant le don d’un fils nommé Isaac (\`Isħâq) puis d’un petit-fils nommé Jacob (Ya’qûb) et Nous avons fait de chacun d’eux des prophètes
 
 # 2300
 
@@ -9236,7 +9236,7 @@ Il ordonnait à sa famille d’accomplir la prière, de s’acquitter de l’aum
 
 # 2306
 
-Ô Messager, mentionne dans le Coran qui t’a été révélé, le récit d`Idrîs. Il était véridique, croyait de tout son être aux signes de son Seigneur en plus d’être un prophète envoyé par Allah.
+Ô Messager, mentionne dans le Coran qui t’a été révélé, le récit d\`Idrîs. Il était véridique, croyait de tout son être aux signes de son Seigneur en plus d’être un prophète envoyé par Allah.
 
 # 2307
 
@@ -9244,7 +9244,7 @@ La Prophétie que Nous lui avons octroyée éleva sa mention et son rang.
 
 # 2308
 
-Les hommes mentionnés précédemment dans cette sourate, à commencer par Zacharie jusqu’à `Idrîs sont ceux à qui Allah a octroyé le bienfait de la Prophétie parmi les descendants d’Adam, les descendants de ceux que Nous avons embarqué dans l’Arche en compagnie de Noé et les descendants d’Abraham et de Jacob. Ce sont aussi ceux à qui Nous avons facilité la guidée à l’Islam. Nous les avons élus et avons fait d’eux des prophètes qui, lorsqu’ils entendaient les versets d’Allah être récités, se prosternaient en pleurant de crainte.
+Les hommes mentionnés précédemment dans cette sourate, à commencer par Zacharie jusqu’à \`Idrîs sont ceux à qui Allah a octroyé le bienfait de la Prophétie parmi les descendants d’Adam, les descendants de ceux que Nous avons embarqué dans l’Arche en compagnie de Noé et les descendants d’Abraham et de Jacob. Ce sont aussi ceux à qui Nous avons facilité la guidée à l’Islam. Nous les avons élus et avons fait d’eux des prophètes qui, lorsqu’ils entendaient les versets d’Allah être récités, se prosternaient en pleurant de crainte.
 
 # 2309
 
@@ -9296,7 +9296,7 @@ Nous serons alors les plus à même de connaître ceux qui méritent le plus d�
 
 # 2321
 
-Ô gens, chacun de vous devra traverser le Pont (`aş-şirâṭu) qui surplombe l’Enfer. Cette traversée a été décrétée par Allah et est irrévocable.
+Ô gens, chacun de vous devra traverser le Pont (\`aş-şirâṭu) qui surplombe l’Enfer. Cette traversée a été décrétée par Allah et est irrévocable.
 
 # 2322
 
@@ -9744,7 +9744,7 @@ Moïse répondit: Ils ne sont pas loin derrière moi et sont sur le point de me 
 
 # 2433
 
-Allah lui dit: Sache que Nous avons éprouvé le peuple que tu as laissé derrière toi par un Veau que le Samaritain (`as-sâmiriyyu) les a invités à adorer et ce dernier les égara.
+Allah lui dit: Sache que Nous avons éprouvé le peuple que tu as laissé derrière toi par un Veau que le Samaritain (\`as-sâmiriyyu) les a invités à adorer et ce dernier les égara.
 
 # 2434
 
@@ -9816,7 +9816,7 @@ Lorsque le deuxième souffle dans la Trompe effectué par l’ange annoncera la 
 
 # 2451
 
-Ils se chuchoteront les uns aux autres: Vous êtes restés dans le monde intermédiaire (`al-barzakhu) dix jours seulement.
+Ils se chuchoteront les uns aux autres: Vous êtes restés dans le monde intermédiaire (\`al-barzakhu) dix jours seulement.
 
 # 2452
 
@@ -9868,11 +9868,11 @@ Nous avons auparavant fait une recommandation à Adam: celle de ne pas manger de
 
 # 2464
 
-Ô Messager, rappelle-toi lorsque Nous dîmes aux anges: Prosternez-vous devant Adam en guise de salutation. Tous se prosternèrent, excepté `Iblîs qui était présent mais qui n’est pas un ange. Poussé par son orgueil, il refusa de se prosterner.
+Ô Messager, rappelle-toi lorsque Nous dîmes aux anges: Prosternez-vous devant Adam en guise de salutation. Tous se prosternèrent, excepté \`Iblîs qui était présent mais qui n’est pas un ange. Poussé par son orgueil, il refusa de se prosterner.
 
 # 2465
 
-Nous dîmes alors: Ô Adam, `Iblîs est ton ennemi et celui de ton épouse. Qu’il ne vous fasse pas sortir du Paradis par ses insufflations, tu subirais alors les conséquences d’avoir obéi à ce qu’il vous insuffle.
+Nous dîmes alors: Ô Adam, \`Iblîs est ton ennemi et celui de ton épouse. Qu’il ne vous fasse pas sortir du Paradis par ses insufflations, tu subirais alors les conséquences d’avoir obéi à ce qu’il vous insuffle.
 
 # 2466
 
@@ -9896,7 +9896,7 @@ Puis Allah l’a élu, accepta son repentir et lui facilita de se guider dans le
 
 # 2471
 
-Ensuite, Allah dit à Adam et à Eve: Descendez, vous et `Iblîs, du Paradis. Il sera votre ennemi et vous serez les siens. Quand vous parviendra un appel à Ma guidée: celui qui le suit et le met en pratique sans en dévier ne s’égarera pas de la vérité ni ne sera malheureux dans l’au-delà. Et au lieu d’entrer en Enfer, il entrera plutôt au Paradis.
+Ensuite, Allah dit à Adam et à Eve: Descendez, vous et \`Iblîs, du Paradis. Il sera votre ennemi et vous serez les siens. Quand vous parviendra un appel à Ma guidée: celui qui le suit et le met en pratique sans en dévier ne s’égarera pas de la vérité ni ne sera malheureux dans l’au-delà. Et au lieu d’entrer en Enfer, il entrera plutôt au Paradis.
 
 # 2472
 
@@ -10152,7 +10152,7 @@ Nous avons donné à Abraham un argument contre son peuple alors qu’il était 
 
 # 2535
 
-Un jour, Abraham dit à son père `Âzar et au reste de son peuple: Que sont ces idoles que vous avez fabriquées de vos mains et que vous adorez ?
+Un jour, Abraham dit à son père \`Âzar et au reste de son peuple: Que sont ces idoles que vous avez fabriquées de vos mains et que vous adorez ?
 
 # 2536
 
@@ -10276,7 +10276,7 @@ Nous lui avons également assujetti les démons qui plongeaient pour lui dans la
 
 # 2566
 
-Ô Messager, rappelle-toi le récit de Job (`Ayyûb) qui, lorsqu’il fut atteint par un malheur, invoqua son Seigneur en ces termes: Ô Seigneur, j’endure la maladie et la disparition de ma famille. Comme tu es le Plus Miséricordieux des miséricordieux, éloigne de moi ces malheurs.
+Ô Messager, rappelle-toi le récit de Job (\`Ayyûb) qui, lorsqu’il fut atteint par un malheur, invoqua son Seigneur en ces termes: Ô Seigneur, j’endure la maladie et la disparition de ma famille. Comme tu es le Plus Miséricordieux des miséricordieux, éloigne de moi ces malheurs.
 
 # 2567
 
@@ -10284,7 +10284,7 @@ Nous exauçâmes son invocation en éloignant le mal dont il se plaignait, en lu
 
 # 2568
 
-Ô Messager, rappelle-toi des récits d’Ismaël, de `idrîs et de Dhû al-Kifl. Chacun de ces prophètes était endurant dans l’épreuve et dans l’accomplissement de ce dont Allah les avait chargés.
+Ô Messager, rappelle-toi des récits d’Ismaël, de \`idrîs et de Dhû al-Kifl. Chacun de ces prophètes était endurant dans l’épreuve et dans l’accomplissement de ce dont Allah les avait chargés.
 
 # 2569
 
@@ -10424,7 +10424,7 @@ Il vise aussi à vous donner la conviction que l’Heure surviendra irrémédiab
 
 # 2603
 
-Parmi les mécréants, il y en a qui polémiquent au sujet de l’Unicité d’Allah sans détenir sur ce sujet une science leur permettant d’accéder à la vérité, sans avoir de guide qui les oriente et sans avoir un livre éclatant [de vérité] révélé par Allah.
+Parmi les mécréants, il y en a qui polémiquent au sujet de l’Unicité d’Allah sans détenir sur ce sujet une science leur permettant d’accéder à la vérité, sans avoir de guide qui les oriente et sans avoir un livre éclatant \[de vérité\] révélé par Allah.
 
 # 2604
 
@@ -10516,7 +10516,7 @@ La désacralisation, l’acquittement de vos vœux et la circumambulation qui vo
 
 # 2626
 
-Abstenez-vous de tout cela et renoncez à toute religion excepté celle qui est agréée [par Allah] et n’associez rien à Allah lorsque vous L’adorez. Quiconque associe à Allah des divinités est tel celui qui tombe du Ciel: soit les oiseaux le saisissent et éparpillent sa chair et ses os, soit le vent l’emporte vers un lieu très éloigné.
+Abstenez-vous de tout cela et renoncez à toute religion excepté celle qui est agréée \[par Allah\] et n’associez rien à Allah lorsque vous L’adorez. Quiconque associe à Allah des divinités est tel celui qui tombe du Ciel: soit les oiseaux le saisissent et éparpillent sa chair et ses os, soit le vent l’emporte vers un lieu très éloigné.
 
 # 2627
 
@@ -11214,7 +11214,7 @@ L’épouse encourt alors la lapidation à moins qu’elle n’atteste à son to
 
 # 2800
 
-Puis à la cinquième attestation, elle invoque Allah que Sa colère s’abatte sur elle si [elle ment et] son époux dit vrai.
+Puis à la cinquième attestation, elle invoque Allah que Sa colère s’abatte sur elle si \[elle ment et\] son époux dit vrai.
 
 # 2801
 
@@ -11222,7 +11222,7 @@ Puis à la cinquième attestation, elle invoque Allah que Sa colère s’abatte 
 
 # 2802
 
-Ceux qui ont calomnié la Mère des Croyants ‘Â`ichah et l’ont accusée d’avoir commis un adultère sont un groupe issu de vous, ô croyants. Ne croyez pas que ce dont ils se sont rendus coupable soit pour vous un mal. C’est plutôt un bien car cet évènement est un test pour les croyants et conduit ceux qui le passent avec succès à être récompensés. Il est aussi l’occasion d’établir l’innocence de la Mère des Croyants. Ceux qui ont diffusé cette calomnie ont une part du péché qui en résulte et celui qui en détient la plus grande part, c’est-à-dire l’initiateur des propos calomniateurs, subira un châtiment terrible. Il s’agit de la tête de file des hypocrites, le dénommé ‘AbduLlâh ibn `Ubayy ibn Salûl.
+Ceux qui ont calomnié la Mère des Croyants ‘Â\`ichah et l’ont accusée d’avoir commis un adultère sont un groupe issu de vous, ô croyants. Ne croyez pas que ce dont ils se sont rendus coupable soit pour vous un mal. C’est plutôt un bien car cet évènement est un test pour les croyants et conduit ceux qui le passent avec succès à être récompensés. Il est aussi l’occasion d’établir l’innocence de la Mère des Croyants. Ceux qui ont diffusé cette calomnie ont une part du péché qui en résulte et celui qui en détient la plus grande part, c’est-à-dire l’initiateur des propos calomniateurs, subira un châtiment terrible. Il s’agit de la tête de file des hypocrites, le dénommé ‘AbduLlâh ibn \`Ubayy ibn Salûl.
 
 # 2803
 
@@ -11266,7 +11266,7 @@ Ceux qui cherchent à ce que les pratiques blâmables, parmi lesquelles les faus
 
 # 2813
 
-Que ceux qui pratiquent correctement leur religion et détiennent des richesses, ne fassent pas le serment de ne plus rien donner à leurs proches nécessiteux parmi ceux qui ont migré pour la cause d’Allah s’ils venaient à commettre un péché. Qu’ils leur pardonnent plutôt et oublient leurs fautes. Ne voulez-vous pas qu’Allah vous pardonne vos péchés en échange du pardon et de l’oubli de leurs fautes? Allah pardonne et fait miséricorde à ceux de Ses serviteurs qui se repentent. Que Ses serviteurs prennent exemple sur Lui! Ce verset a été révélé après que `Abû Bakr eut juré de ne plus dépenser en faveur de Misṭaħ en raison de son implication dans la calomnie dont fut victime la Mère des Croyants.
+Que ceux qui pratiquent correctement leur religion et détiennent des richesses, ne fassent pas le serment de ne plus rien donner à leurs proches nécessiteux parmi ceux qui ont migré pour la cause d’Allah s’ils venaient à commettre un péché. Qu’ils leur pardonnent plutôt et oublient leurs fautes. Ne voulez-vous pas qu’Allah vous pardonne vos péchés en échange du pardon et de l’oubli de leurs fautes? Allah pardonne et fait miséricorde à ceux de Ses serviteurs qui se repentent. Que Ses serviteurs prennent exemple sur Lui! Ce verset a été révélé après que \`Abû Bakr eut juré de ne plus dépenser en faveur de Misṭaħ en raison de son implication dans la calomnie dont fut victime la Mère des Croyants.
 
 # 2814
 
@@ -11310,7 +11310,7 @@ Dis également aux croyantes de détourner le regard des intimités qu’il ne l
 
 # 2824
 
-Que ceux qui ne peuvent se marier en raison de leur pauvreté, s'abstiennent de forniquer jusqu’à ce qu’Allah les enrichisse de par Son immense grâce. Si des esclaves désirent racheter leur liberté, que leurs maîtres accèdent à leur désir s’ils voient en eux la capacité d’être autonomes et de pratiquer correctement l’Islam. Dans ce cas, les maîtres sont tenus de leur faire un don, comme par exemple les exonérer d’une part de la somme convenue pour les affranchir. Ne contraignez pas vos esclaves femmes à se prostituer afin que cela vous rapporte des revenus à l’image de ‘AbduLlâh ibn `Ubayy qui prostituait ses deux esclaves alors qu’elles demandaient à rester chastes et à s’éloigner de la turpitude. S’il les contraint à cela, Allah pardonnera leur péché et leur fera miséricorde car elles y étaient forcées et le péché retombe alors sur ceux qui les contraignent.
+Que ceux qui ne peuvent se marier en raison de leur pauvreté, s'abstiennent de forniquer jusqu’à ce qu’Allah les enrichisse de par Son immense grâce. Si des esclaves désirent racheter leur liberté, que leurs maîtres accèdent à leur désir s’ils voient en eux la capacité d’être autonomes et de pratiquer correctement l’Islam. Dans ce cas, les maîtres sont tenus de leur faire un don, comme par exemple les exonérer d’une part de la somme convenue pour les affranchir. Ne contraignez pas vos esclaves femmes à se prostituer afin que cela vous rapporte des revenus à l’image de ‘AbduLlâh ibn \`Ubayy qui prostituait ses deux esclaves alors qu’elles demandaient à rester chastes et à s’éloigner de la turpitude. S’il les contraint à cela, Allah pardonnera leur péché et leur fera miséricorde car elles y étaient forcées et le péché retombe alors sur ceux qui les contraignent.
 
 # 2825
 
@@ -11746,7 +11746,7 @@ Ils y demeureront pour l’éternité et quel beau lieu où séjourner que le Pa
 
 # 2933
 
-Ṭâ`, Sîn, Mîm: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah.
+Ṭâ\`, Sîn, Mîm: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah.
 
 # 2934
 
@@ -12022,7 +12022,7 @@ Le fait que la mer se fende afin de laisser passer Moïse, que Moïse soit sauv�
 
 # 3002
 
-Raconte-leur lorsqu’il dit à son père `Âzar et aux siens: Qu’adorez-vous en dehors d’Allah ?
+Raconte-leur lorsqu’il dit à son père \`Âzar et aux siens: Qu’adorez-vous en dehors d’Allah ?
 
 # 3003
 
@@ -12446,7 +12446,7 @@ Ce châtiment subi par le peuple de Loth pour leur pratique de la turpitude est 
 
 # 3108
 
-Les habitants de la cité aux arbres touffus et entremêlés (`al-`aykatu(`aykah)) située près de Madyan démentirent tous les messagers lorsqu’ils démentirent leur prophète Chu’ayb.
+Les habitants de la cité aux arbres touffus et entremêlés (\`al-\`aykatu(\`aykah)) située près de Madyan démentirent tous les messagers lorsqu’ils démentirent leur prophète Chu’ayb.
 
 # 3109
 
@@ -12654,7 +12654,7 @@ Il est fait exception de ceux parmi eux qui croient, accomplissent de bonnes œu
 
 # 3160
 
-Ṭâ`, Sîn: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah. Ces versets qui t’ont été révélés sont ceux du Coran et font partie d’un Livre clair qui ne contient aucune ambigüité. Quiconque le médite sait avec certitude qu’il provient d’Allah.
+Ṭâ\`, Sîn: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah. Ces versets qui t’ont été révélés sont ceux du Coran et font partie d’un Livre clair qui ne contient aucune ambigüité. Quiconque le médite sait avec certitude qu’il provient d’Allah.
 
 # 3161
 
@@ -13026,7 +13026,7 @@ Dis également, ô Messager: Louange à Allah pour Ses bienfaits innombrables. I
 
 # 3253
 
-Ṭâ`, Sîn, Mîm: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah.
+Ṭâ\`, Sîn, Mîm: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah.
 
 # 3254
 
@@ -13042,7 +13042,7 @@ Pharaon gouvernait tyranniquement la terre d’Egypte et divisa le peuple de cet
 
 # 3257
 
-Nous voulions faire bénéficier de Notre faveur les Israélites, qui étaient persécutés par Pharaon en terre d’Egypte, en anéantissant leur ennemi, en leur épargnant la persécution, en en faisant des guides qui appellent à la vérité et en faisant d’eux les héritiers de la terre du Levant après l’anéantissement de Pharaon. Ce verset est similaire à celui dans lequel Allah dit: « Et les gens qui étaient opprimés, Nous les avons fait hériter les contrées orientales et occidentales de la terre que Nous avons bénies... », [Sourate Al-À’râf, verset 137].
+Nous voulions faire bénéficier de Notre faveur les Israélites, qui étaient persécutés par Pharaon en terre d’Egypte, en anéantissant leur ennemi, en leur épargnant la persécution, en en faisant des guides qui appellent à la vérité et en faisant d’eux les héritiers de la terre du Levant après l’anéantissement de Pharaon. Ce verset est similaire à celui dans lequel Allah dit: « Et les gens qui étaient opprimés, Nous les avons fait hériter les contrées orientales et occidentales de la terre que Nous avons bénies... », \[Sourate Al-À’râf, verset 137\].
 
 # 3258
 
@@ -13246,7 +13246,7 @@ Lorsque ces croyants appartenant aux Gens du Livre entendent des paroles futiles
 
 # 3308
 
-Ô Messager, tu ne guides pas les gens que tu aimes, à l’image de `Abû Ṭâlib et d’autres, mais c’est plutôt Allah qui facilite à qui Il veut d’être guidé et Il sait le mieux, grâce à Sa connaissance préalable des choses, qui sera guidé vers le droit chemin.
+Ô Messager, tu ne guides pas les gens que tu aimes, à l’image de \`Abû Ṭâlib et d’autres, mais c’est plutôt Allah qui facilite à qui Il veut d’être guidé et Il sait le mieux, grâce à Sa connaissance préalable des choses, qui sera guidé vers le droit chemin.
 
 # 3309
 
@@ -13258,7 +13258,7 @@ Qu’elles sont nombreuses les cités qui ont renié les bienfaits dont Allah le
 
 # 3311
 
-Ô Messager, ton Seigneur n’anéantit certainement pas les cités tant qu’Il n’envoie pas de messager à la plus imposante d’entre elles, tout comme Il t’a envoyé toi à la Mère des Cités (`ummu l-qurâ, un surnom de la Mecque). De même, Nous n’anéantissons jamais les habitants d’une cité qui se conforment à la vérité mais plutôt lorsqu’ils se montrent injustes en mécroyant et en désobéissant.
+Ô Messager, ton Seigneur n’anéantit certainement pas les cités tant qu’Il n’envoie pas de messager à la plus imposante d’entre elles, tout comme Il t’a envoyé toi à la Mère des Cités (\`ummu l-qurâ, un surnom de la Mecque). De même, Nous n’anéantissons jamais les habitants d’une cité qui se conforment à la vérité mais plutôt lorsqu’ils se montrent injustes en mécroyant et en désobéissant.
 
 # 3312
 
@@ -13378,7 +13378,7 @@ N’adore aucun dieu avec Allah car il n’existe pas de dieu méritant d’êtr
 
 # 3341
 
-`Alif, Lâm, Mîm: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah.
+\`Alif, Lâm, Mîm: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah.
 
 # 3342
 
@@ -13406,7 +13406,7 @@ Ceux qui croient, traversent Notre épreuve avec patience et accomplissent de bo
 
 # 3348
 
-Nous avons ordonné à l’être humain d’être bon et bienfaisant envers ses parents. Ô être humain, si tes parents te poussent avec insistance à M’associer ce dont tu n’as aucune connaissance (à l’image de Sa’d ibn `Abî Waqqâş avec sa mère), ne leur obéis pas en cela car on ne doit pas d’obéissance à une créature pour désobéir au Créateur. C’est vers Moi Seul que vous retournerez le Jour de la Résurrection et Je vous informerai de ce que vous faisiez dans le bas monde puis Je vous rétribuerai.
+Nous avons ordonné à l’être humain d’être bon et bienfaisant envers ses parents. Ô être humain, si tes parents te poussent avec insistance à M’associer ce dont tu n’as aucune connaissance (à l’image de Sa’d ibn \`Abî Waqqâş avec sa mère), ne leur obéis pas en cela car on ne doit pas d’obéissance à une créature pour désobéir au Créateur. C’est vers Moi Seul que vous retournerez le Jour de la Résurrection et Je vous informerai de ce que vous faisiez dans le bas monde puis Je vous rétribuerai.
 
 # 3349
 
@@ -13654,7 +13654,7 @@ Ceux qui luttent contre eux-mêmes afin de mériter Notre agrément, Nous leur f
 
 # 3410
 
-`Alif, Lâm, Mîm: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah.
+\`Alif, Lâm, Mîm: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah.
 
 # 3411
 
@@ -13894,7 +13894,7 @@ De la même façon qu’Allah scelle les cœurs de ces gens, Il scelle les cœur
 
 # 3470
 
-`Alif, Lâm, Mîm: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah.
+\`Alif, Lâm, Mîm: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah.
 
 # 3471
 
@@ -14030,7 +14030,7 @@ C’est Allah Seul qui sait quand surviendra l’Heure et c’est Lui qui fait d
 
 # 3504
 
-`Alif, Lâm, Mîm: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah.
+\`Alif, Lâm, Mîm: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah.
 
 # 3505
 
@@ -14206,7 +14206,7 @@ Si l’ennemi s’était introduit à Médine de tous côtés et leur avait dema
 
 # 3548
 
-Après leur fuite lors de la Bataille de `Uħud, ces hypocrites avaient promis à Allah que s’ils participaient à une autre bataille, ils combattraient leur ennemi et ne le fuiraient pas. Or ils manquèrent à leur promesse et le serviteur sera questionné au sujet de ce qu’il promet à Allah.
+Après leur fuite lors de la Bataille de \`Uħud, ces hypocrites avaient promis à Allah que s’ils participaient à une autre bataille, ils combattraient leur ennemi et ne le fuiraient pas. Or ils manquèrent à leur promesse et le serviteur sera questionné au sujet de ce qu’il promet à Allah.
 
 # 3549
 
@@ -14518,11 +14518,11 @@ Ils renièrent le bienfait que leur fit Allah de rapprocher les distances et dir
 
 # 3626
 
-`Iblîs réussit à réaliser son objectif de les tenter et de les égarer de la vérité et ils le suivirent dans la mécréance et dans l’égarement, excepté un groupe de croyants qui le déçurent en refusant de le suivre.
+\`Iblîs réussit à réaliser son objectif de les tenter et de les égarer de la vérité et ils le suivirent dans la mécréance et dans l’égarement, excepté un groupe de croyants qui le déçurent en refusant de le suivre.
 
 # 3627
 
-`Iblîs n’avait aucun pouvoir de les contraindre à s’égarer mais ne détenait que le pouvoir de leur embellir le mal et de les tenter. Nous le lui avons permis afin que Nous sachions qui croit en l’au-delà et en la Rétribution qui aura lieu et qui en doute. Ô Messager, ton Seigneur sauvegarde toute chose: Il sauvegarde les œuvres de Ses serviteurs et les rétribue selon leur nature.
+\`Iblîs n’avait aucun pouvoir de les contraindre à s’égarer mais ne détenait que le pouvoir de leur embellir le mal et de les tenter. Nous le lui avons permis afin que Nous sachions qui croit en l’au-delà et en la Rétribution qui aura lieu et qui en doute. Ô Messager, ton Seigneur sauvegarde toute chose: Il sauvegarde les œuvres de Ses serviteurs et les rétribue selon leur nature.
 
 # 3628
 
@@ -14810,7 +14810,7 @@ Allah connaît ce qui est Invisible dans les Cieux et sur la Terre. Rien ne Lui 
 
 # 3699
 
-Ô gens, c’est Allah qui a fait en sorte que certains parmi vous succèdent à d’autres afin de vous éprouver et voir comment vous agirez. Quiconque parmi vous mécroit en Allah et en ce que les messagers apportent, porte lui-même le péché de sa mécréance et subira une punition méritée. Sa mécréance ne nuira en rien à son Seigneur. La mécréance des mécréants ne fera que rajouter la colère d’Allah à leur encontre et ne fera que rajouter à leur perte, puisqu’ils perdront le Paradis qu’Allah a préparé [pour eux] s’ils avaient eu la foi.
+Ô gens, c’est Allah qui a fait en sorte que certains parmi vous succèdent à d’autres afin de vous éprouver et voir comment vous agirez. Quiconque parmi vous mécroit en Allah et en ce que les messagers apportent, porte lui-même le péché de sa mécréance et subira une punition méritée. Sa mécréance ne nuira en rien à son Seigneur. La mécréance des mécréants ne fera que rajouter la colère d’Allah à leur encontre et ne fera que rajouter à leur perte, puisqu’ils perdront le Paradis qu’Allah a préparé \[pour eux\] s’ils avaient eu la foi.
 
 # 3700
 
@@ -14940,13 +14940,13 @@ Si je les adoptais comme divinités en dehors d’Allah, je commettrai alors une
 
 # 3731
 
-On lui dit afin de l’honorer après son martyr: Entre au Paradis. Lorsqu’il y entra et vit les délices qu'il contient,*il souhaita que son peuple qui le traita de menteur et le tua sache que ses péchés lui ont été pardonnés et de quelle manière son Seigneur l’a honoré, afin qu’ils aient la foi comme lui a eu la foi et soient rétribués aussi généreusement que lui.
+On lui dit afin de l’honorer après son martyr: Entre au Paradis. Lorsqu’il y entra et vit les délices qu'il contient,\*il souhaita que son peuple qui le traita de menteur et le tua sache que ses péchés lui ont été pardonnés et de quelle manière son Seigneur l’a honoré, afin qu’ils aient la foi comme lui a eu la foi et soient rétribués aussi généreusement que lui.
 
 # 3732
 
 <!-- TODO:DUPLICATE -->
 
-On lui dit afin de l’honorer après son martyr: Entre au Paradis. Lorsqu’il y entra et vit les délices qu'il contient,*il souhaita que son peuple qui le traita de menteur et le tua sache que ses péchés lui ont été pardonnés et de quelle manière son Seigneur l’a honoré, afin qu’ils aient la foi comme lui a eu la foi et soient rétribués aussi généreusement que lui.
+On lui dit afin de l’honorer après son martyr: Entre au Paradis. Lorsqu’il y entra et vit les délices qu'il contient,\*il souhaita que son peuple qui le traita de menteur et le tua sache que ses péchés lui ont été pardonnés et de quelle manière son Seigneur l’a honoré, afin qu’ils aient la foi comme lui a eu la foi et soient rétribués aussi généreusement que lui.
 
 # 3733
 
@@ -15018,7 +15018,7 @@ Sauf si Nous voulons leur faire miséricorde et les faire retourner à leur vie 
 
 # 3750
 
-Lorsque l’on dit à ces polythéistes qui refusent de croire: Prenez garde aux évènements terribles que vous vivrez dans l’au-delà et prenez garde au bas monde que vous quitterez [tôt ou tard], dans l'espoir qu’Allah vous fasse la faveur de Sa miséricorde. Seulement, ils ne voulurent pas suivre cette recommandation et s’en détournèrent avec insouciance.
+Lorsque l’on dit à ces polythéistes qui refusent de croire: Prenez garde aux évènements terribles que vous vivrez dans l’au-delà et prenez garde au bas monde que vous quitterez \[tôt ou tard\], dans l'espoir qu’Allah vous fasse la faveur de Sa miséricorde. Seulement, ils ne voulurent pas suivre cette recommandation et s’en détournèrent avec insouciance.
 
 # 3751
 
@@ -15258,13 +15258,13 @@ On leur répondra: Ceci est le Jour du Jugement des serviteurs dont vous rejetie
 
 # 3810
 
-On dira aux anges ce jour-là: Rassemblez les polythéistes, qui se montraient injustes en mécroyant, avec leurs semblables et leurs partisans qui traitaient de menteurs les messagers et adoraient des idoles*en dehors d’Allah, puis montrez-leur le chemin du feu et conduisez-les à leur sort.
+On dira aux anges ce jour-là: Rassemblez les polythéistes, qui se montraient injustes en mécroyant, avec leurs semblables et leurs partisans qui traitaient de menteurs les messagers et adoraient des idoles\*en dehors d’Allah, puis montrez-leur le chemin du feu et conduisez-les à leur sort.
 
 # 3811
 
 <!-- TODO:DUPLICATE -->
 
-On dira aux anges ce jour-là: Rassemblez les polythéistes, qui se montraient injustes en mécroyant, avec leurs semblables et leurs partisans qui traitaient de menteurs les messagers et adoraient des idoles*en dehors d’Allah, puis montrez-leur le chemin du feu et conduisez-les à leur sort.
+On dira aux anges ce jour-là: Rassemblez les polythéistes, qui se montraient injustes en mécroyant, avec leurs semblables et leurs partisans qui traitaient de menteurs les messagers et adoraient des idoles\*en dehors d’Allah, puis montrez-leur le chemin du feu et conduisez-les à leur sort.
 
 # 3812
 
@@ -15664,7 +15664,7 @@ Moïse et Aaron étaient du nombre de Nos serviteurs croyant, qui mettent en pra
 
 # 3911
 
-Elie (`Ilyâs) était du nombre de ceux qui ont été envoyés par leur Seigneur. Allah lui fit don de la prophétie et de la mission de transmettre le Message.
+Elie (\`Ilyâs) était du nombre de ceux qui ont été envoyés par leur Seigneur. Allah lui fit don de la prophétie et de la mission de transmettre le Message.
 
 # 3912
 
@@ -15842,25 +15842,25 @@ Nous autres les anges sommes disposés en rangs lorsque nous adorons Allah et Lu
 
 # 3955
 
-Les habitants polythéistes de la Mecque disaient avant que Muħammad ne soit envoyé comme Messager:*Si nous avions un livre semblable à celui des anciens, comme la Torah par exemple,*nous aurions adoré sincèrement Allah.Or ils mentent lorsqu’ils disent cela car lorsque Muħammad leur apporta le Coran, ils mécrurent en lui. Ils sauront alors ce qui les attend comme châtiment terrible le Jour de la Résurrection.
+Les habitants polythéistes de la Mecque disaient avant que Muħammad ne soit envoyé comme Messager:\*Si nous avions un livre semblable à celui des anciens, comme la Torah par exemple,\*nous aurions adoré sincèrement Allah.Or ils mentent lorsqu’ils disent cela car lorsque Muħammad leur apporta le Coran, ils mécrurent en lui. Ils sauront alors ce qui les attend comme châtiment terrible le Jour de la Résurrection.
 
 # 3956
 
 <!-- TODO:DUPLICATE -->
 
-Les habitants polythéistes de la Mecque disaient avant que Muħammad ne soit envoyé comme Messager:*Si nous avions un livre semblable à celui des anciens, comme la Torah par exemple,*nous aurions adoré sincèrement Allah.Or ils mentent lorsqu’ils disent cela car lorsque Muħammad leur apporta le Coran, ils mécrurent en lui. Ils sauront alors ce qui les attend comme châtiment terrible le Jour de la Résurrection.
+Les habitants polythéistes de la Mecque disaient avant que Muħammad ne soit envoyé comme Messager:\*Si nous avions un livre semblable à celui des anciens, comme la Torah par exemple,\*nous aurions adoré sincèrement Allah.Or ils mentent lorsqu’ils disent cela car lorsque Muħammad leur apporta le Coran, ils mécrurent en lui. Ils sauront alors ce qui les attend comme châtiment terrible le Jour de la Résurrection.
 
 # 3957
 
 <!-- TODO:DUPLICATE -->
 
-Les habitants polythéistes de la Mecque disaient avant que Muħammad ne soit envoyé comme Messager:*Si nous avions un livre semblable à celui des anciens, comme la Torah par exemple,*nous aurions adoré sincèrement Allah.Or ils mentent lorsqu’ils disent cela car lorsque Muħammad leur apporta le Coran, ils mécrurent en lui. Ils sauront alors ce qui les attend comme châtiment terrible le Jour de la Résurrection.
+Les habitants polythéistes de la Mecque disaient avant que Muħammad ne soit envoyé comme Messager:\*Si nous avions un livre semblable à celui des anciens, comme la Torah par exemple,\*nous aurions adoré sincèrement Allah.Or ils mentent lorsqu’ils disent cela car lorsque Muħammad leur apporta le Coran, ils mécrurent en lui. Ils sauront alors ce qui les attend comme châtiment terrible le Jour de la Résurrection.
 
 # 3958
 
 <!-- TODO:DUPLICATE -->
 
-Les habitants polythéistes de la Mecque disaient avant que Muħammad ne soit envoyé comme Messager:*Si nous avions un livre semblable à celui des anciens, comme la Torah par exemple,*nous aurions adoré sincèrement Allah.Or ils mentent lorsqu’ils disent cela car lorsque Muħammad leur apporta le Coran, ils mécrurent en lui. Ils sauront alors ce qui les attend comme châtiment terrible le Jour de la Résurrection.
+Les habitants polythéistes de la Mecque disaient avant que Muħammad ne soit envoyé comme Messager:\*Si nous avions un livre semblable à celui des anciens, comme la Torah par exemple,\*nous aurions adoré sincèrement Allah.Or ils mentent lorsqu’ils disent cela car lorsque Muħammad leur apporta le Coran, ils mécrurent en lui. Ils sauront alors ce qui les attend comme châtiment terrible le Jour de la Résurrection.
 
 # 3959
 
@@ -16076,7 +16076,7 @@ Salomon est pour Nous du nombre des rapprochés et il habitera dans une demeure 
 
 # 4011
 
-Ô Messager, rappelle-toi de Notre serviteur Job (`Ayyûb) qui dit en invoquant Allah: Satan m’a infligé un mal et une peine douloureuse.
+Ô Messager, rappelle-toi de Notre serviteur Job (\`Ayyûb) qui dit en invoquant Allah: Satan m’a infligé un mal et une peine douloureuse.
 
 # 4012
 
@@ -16208,19 +16208,19 @@ Les anges obéirent tous sans exception à l’ordre de leur Seigneur et se pros
 
 # 4044
 
-Seul `Iblîs dédaigna se prosterner et pour cette raison il devint mécréant.
+Seul \`Iblîs dédaigna se prosterner et pour cette raison il devint mécréant.
 
 # 4045
 
-Allah dit: Ô `Iblîs, que t’a empêché de te prosterner devant Adam que J’ai créé de Mes mains? Est-ce de l’orgueil, te montrais-tu auparavant orgueilleux à l’égard de ton Seigneur?
+Allah dit: Ô \`Iblîs, que t’a empêché de te prosterner devant Adam que J’ai créé de Mes mains? Est-ce de l’orgueil, te montrais-tu auparavant orgueilleux à l’égard de ton Seigneur?
 
 # 4046
 
-`Iblîs répondit: Je suis meilleur qu’Adam car Tu m’as créé de feu alors que lui, Tu l’as créé d’argile. `Iblîs prétendait ainsi que le feu est un élément plus noble que l’argile.
+\`Iblîs répondit: Je suis meilleur qu’Adam car Tu m’as créé de feu alors que lui, Tu l’as créé d’argile. \`Iblîs prétendait ainsi que le feu est un élément plus noble que l’argile.
 
 # 4047
 
-Allah dit à `Iblîs: Sors du Paradis maudit et honni.
+Allah dit à \`Iblîs: Sors du Paradis maudit et honni.
 
 # 4048
 
@@ -16228,7 +16228,7 @@ Tu seras chassé du Paradis jusqu’au Jour de la Rétribution qui est le Jour d
 
 # 4049
 
-`Iblîs demanda ensuite à Allah: Accorde-moi un délai et ne me fais pas mourir jusqu’au jour où Tu ressusciteras Tes serviteurs.
+\`Iblîs demanda ensuite à Allah: Accorde-moi un délai et ne me fais pas mourir jusqu’au jour où Tu ressusciteras Tes serviteurs.
 
 # 4050
 
@@ -16240,7 +16240,7 @@ Ton délai s’étendra jusqu’au jour de l’instant bien connu où tu connaî
 
 # 4052
 
-`Iblîs dit: Je fais le serment par Ton pouvoir et Ta domination que j’égarerai tous les descendants d’Adam.
+\`Iblîs dit: Je fais le serment par Ton pouvoir et Ta domination que j’égarerai tous les descendants d’Adam.
 
 # 4053
 
@@ -16260,7 +16260,7 @@ Le Jour de la Résurrection, J’emplirai l’Enfer de toi et de tous les descen
 
 # 4057
 
-Le Coran n’est qu’un rappel adressé aux humains et aux djinns juridiquement aptes [à assumer les charges de la religion].
+Le Coran n’est qu’un rappel adressé aux humains et aux djinns juridiquement aptes \[à assumer les charges de la religion\].
 
 # 4058
 
@@ -16272,7 +16272,7 @@ La révélation du Coran est l’œuvre d’Allah, le Puissant à qui personne n
 
 # 4060
 
-Ô Messager, Nous t’avons révélé le Coran qui contient la vérité, [un livre] dont les récits sont tous véridiques et dont les jugements sont tous équitables. Adore donc Allah en proclamant Son Unicité et pratique un culte monothéiste exclusif en n’y mêlant aucune forme de polythéisme.
+Ô Messager, Nous t’avons révélé le Coran qui contient la vérité, \[un livre\] dont les récits sont tous véridiques et dont les jugements sont tous équitables. Adore donc Allah en proclamant Son Unicité et pratique un culte monothéiste exclusif en n’y mêlant aucune forme de polythéisme.
 
 # 4061
 
@@ -16608,7 +16608,7 @@ Ceux qui mécroient en Allah et en Ses messagers, le Jour de la Résurrection, l
 
 # 4144
 
-Reconnaissant leurs péchés au moment où ni reconnaître ses péchés ni s’en repentir ne sera utile, ils diront: Ô notre Seigneur, Tu nous a fait mourir à deux reprises: lorsque nous faisions partie du néant puis en nous faisant mourir [après notre vie] et Tu nous as donné la vie à deux reprises en nous faisant exister à partir du néant et en nous ressuscitant. Nous reconnaissons les péchés que nous avons commis. Existe-t-il un moyen de sortir du Feu et de revenir à la vie, afin que nous accomplissions de bonnes œuvres et que Tu nous agrées?
+Reconnaissant leurs péchés au moment où ni reconnaître ses péchés ni s’en repentir ne sera utile, ils diront: Ô notre Seigneur, Tu nous a fait mourir à deux reprises: lorsque nous faisions partie du néant puis en nous faisant mourir \[après notre vie\] et Tu nous as donné la vie à deux reprises en nous faisant exister à partir du néant et en nous ressuscitant. Nous reconnaissons les péchés que nous avons commis. Existe-t-il un moyen de sortir du Feu et de revenir à la vie, afin que nous accomplissions de bonnes œuvres et que Tu nous agrées?
 
 # 4145
 
@@ -16916,7 +16916,7 @@ Ce Coran est la Révélation d’Allah, le Tout Miséricordieux, le Très Misér
 
 # 4221
 
-C’est un Livre dont les versets sont explicités de la manière la plus complète et la plus parfaite et qui a été institué comme livre de lecture (qur`ânun) en arabe adressé à des gens qui savent car ce sont eux qui tirent bénéfice de ses enseignements et de la guidée vers la vérité qu’il contient.
+C’est un Livre dont les versets sont explicités de la manière la plus complète et la plus parfaite et qui a été institué comme livre de lecture (qur\`ânun) en arabe adressé à des gens qui savent car ce sont eux qui tirent bénéfice de ses enseignements et de la guidée vers la vérité qu’il contient.
 
 # 4222
 
@@ -17020,7 +17020,7 @@ La rétribution des ennemis d’Allah qui mécroient en Lui et traitent Ses mess
 
 # 4247
 
-Ceux qui mécroient en Allah et démentent Ses messagers diront: Ô notre Seigneur, montre-nous le djinn et l’être humain qui nous ont égarés: `Iblîs, précurseur de la mécréance et de l’appel à la mécréance, et le fils d’Adam, précurseur dans l’effusion du sang. Montre-les nous afin que nous les mettions en-dessous de nous dans le Feu et qu’ils soient des habitants des fosses les plus basses de l’Enfer qui subiront le châtiment le plus terrible.
+Ceux qui mécroient en Allah et démentent Ses messagers diront: Ô notre Seigneur, montre-nous le djinn et l’être humain qui nous ont égarés: \`Iblîs, précurseur de la mécréance et de l’appel à la mécréance, et le fils d’Adam, précurseur dans l’effusion du sang. Montre-les nous afin que nous les mettions en-dessous de nous dans le Feu et qu’ils soient des habitants des fosses les plus basses de l’Enfer qui subiront le châtiment le plus terrible.
 
 # 4248
 
@@ -17318,13 +17318,13 @@ S’ils se détournent de ce que tu leur ordonnes, sache ô Messager que Nous ne
 
 # 4321
 
-La propriété des Cieux et de la Terre revient à Allah. Il crée ce qu’Il veut: mâles, femelles et d’autres genres encore, et donne à qui Il veut des nouveau-nés mâles et à qui Il veut des nouveau-nés femelles*ou alors les deux à la fois. De même, Il rend qui Il veut stérile et incapable de procréer. Il sait le mieux ce qui existe à l’instant présent et ce qui existera dans le futur. Ceci est l’expression de Sa Connaissance complète et de Sa Sagesse parfaite: rien ne Lui échappe et rien ne Lui est impossible.
+La propriété des Cieux et de la Terre revient à Allah. Il crée ce qu’Il veut: mâles, femelles et d’autres genres encore, et donne à qui Il veut des nouveau-nés mâles et à qui Il veut des nouveau-nés femelles\*ou alors les deux à la fois. De même, Il rend qui Il veut stérile et incapable de procréer. Il sait le mieux ce qui existe à l’instant présent et ce qui existera dans le futur. Ceci est l’expression de Sa Connaissance complète et de Sa Sagesse parfaite: rien ne Lui échappe et rien ne Lui est impossible.
 
 # 4322
 
 <!-- TODO:DUPLICATE -->
 
-La propriété des Cieux et de la Terre revient à Allah. Il crée ce qu’Il veut: mâles, femelles et d’autres genres encore, et donne à qui Il veut des nouveau-nés mâles et à qui Il veut des nouveau-nés femelles*ou alors les deux à la fois. De même, Il rend qui Il veut stérile et incapable de procréer. Il sait le mieux ce qui existe à l’instant présent et ce qui existera dans le futur. Ceci est l’expression de Sa Connaissance complète et de Sa Sagesse parfaite: rien ne Lui échappe et rien ne Lui est impossible.
+La propriété des Cieux et de la Terre revient à Allah. Il crée ce qu’Il veut: mâles, femelles et d’autres genres encore, et donne à qui Il veut des nouveau-nés mâles et à qui Il veut des nouveau-nés femelles\*ou alors les deux à la fois. De même, Il rend qui Il veut stérile et incapable de procréer. Il sait le mieux ce qui existe à l’instant présent et ce qui existera dans le futur. Ceci est l’expression de Sa Connaissance complète et de Sa Sagesse parfaite: rien ne Lui échappe et rien ne Lui est impossible.
 
 # 4323
 
@@ -17460,7 +17460,7 @@ Puis lorsque leur a été apporté ce Coran qui est une vérité indubitable, il
 
 # 4356
 
-Les polythéistes dénégateurs dirent: Pourquoi Allah n’a-t-il pas révélé ce Coran aux deux hommes les plus influents de la Mecque et d’Aṭ-Ṭâ`if, Al-Walîd ibn ‘Uqbah et ‘Urwah ibn Mas’ûd Ath-Thaqafî, au lieu de le révéler à ce pauvre et orphelin Muħammad?
+Les polythéistes dénégateurs dirent: Pourquoi Allah n’a-t-il pas révélé ce Coran aux deux hommes les plus influents de la Mecque et d’Aṭ-Ṭâ\`if, Al-Walîd ibn ‘Uqbah et ‘Urwah ibn Mas’ûd Ath-Thaqafî, au lieu de le révéler à ce pauvre et orphelin Muħammad?
 
 # 4357
 
@@ -18160,7 +18160,7 @@ Le Jour où ceux qui mécroyaient en Allah et traitaient Ses messagers de menteu
 
 # 4531
 
-Ô Messager, rappelle-toi Hûd, qui appartenait aux ‘Âd, lorsqu’il avertit les siens du châtiment imminent d’Allah sur leurs terres de la région d’Al-`Aħqâf située au sud de la Péninsule Arabique. De nombreux messagers, avant et après Hûd, ont averti leurs peuples et leur ont dit: N’adorez qu’Allah Seul et rien d’autre que Lui. Ô mon peuple, je crains que ne s’abatte sur vous le châtiment du Jour Terrible qu’est le Jour de la Résurrection.
+Ô Messager, rappelle-toi Hûd, qui appartenait aux ‘Âd, lorsqu’il avertit les siens du châtiment imminent d’Allah sur leurs terres de la région d’Al-\`Aħqâf située au sud de la Péninsule Arabique. De nombreux messagers, avant et après Hûd, ont averti leurs peuples et leur ont dit: N’adorez qu’Allah Seul et rien d’autre que Lui. Ô mon peuple, je crains que ne s’abatte sur vous le châtiment du Jour Terrible qu’est le Jour de la Résurrection.
 
 # 4532
 
@@ -18606,7 +18606,7 @@ Nous avons fait pousser tout cela afin d’en faire une subsistance dont se nour
 
 # 4642
 
-Avant ces dénégateurs qui te traitent de menteur, ô Messager, d’autres peuples ont démenti leurs prophètes. Ainsi, le peuple de Noé, les gens du Puits (`ar-rassu) et les Thamûd ont traité de menteurs leurs prophètes.
+Avant ces dénégateurs qui te traitent de menteur, ô Messager, d’autres peuples ont démenti leurs prophètes. Ainsi, le peuple de Noé, les gens du Puits (\`ar-rassu) et les Thamûd ont traité de menteurs leurs prophètes.
 
 # 4643
 
@@ -18614,7 +18614,7 @@ Les ‘Âd, Pharaon et le peuple de Loth ont également traité leurs prophètes
 
 # 4644
 
-Il en est de même pour le peuple de Chu’ayb, qui sont les gens d'Al-`Aykah, ainsi que le peuple de Tubba’ le roi du Yémen, et alors le châtiment d’Allah les concernant se confirma.
+Il en est de même pour le peuple de Chu’ayb, qui sont les gens d'Al-\`Aykah, ainsi que le peuple de Tubba’ le roi du Yémen, et alors le châtiment d’Allah les concernant se confirma.
 
 # 4645
 
@@ -18982,7 +18982,7 @@ L’anéantissement et la perdition attendent le Jour de la Résurrection ceux q
 
 # 4736
 
-Allah fait serment par la Montagne (`aṭ-ṭûru) au sommet de laquelle était Moïse lorsqu’Il lui parla.
+Allah fait serment par la Montagne (\`aṭ-ṭûru) au sommet de laquelle était Moïse lorsqu’Il lui parla.
 
 # 4737
 
@@ -19234,7 +19234,7 @@ Il l’a revu près du Lotus de la Terminaison (sidratu l-muntahâ), qui est un 
 
 # 4799
 
-C’est auprès de cet arbre que se trouve le Verger de Résidence (jannatu l-ma`wâ)
+C’est auprès de cet arbre que se trouve le Verger de Résidence (jannatu l-ma\`wâ)
 
 # 4800
 
@@ -19370,7 +19370,7 @@ C’est Lui qui enrichit qui Il veut parmi Ses serviteurs en lui accordant des r
 
 # 4833
 
-C’est Lui le Seigneur de Sirius (`ach-chi’râ), une étoile que certains polythéistes adorent avec Allah.
+C’est Lui le Seigneur de Sirius (\`ach-chi’râ), une étoile que certains polythéistes adorent avec Allah.
 
 # 4834
 
@@ -19522,7 +19522,7 @@ Ils dirent avec réprobation: Suivrons-nous un être humain issu de nous? Si nou
 
 # 4871
 
-*La Révélation est-elle descendue sur lui seul et a-t-il été choisi lui à l’exclusion de nous tous? Non, il est plutôt un menteur arrogant.
+\*La Révélation est-elle descendue sur lui seul et a-t-il été choisi lui à l’exclusion de nous tous? Non, il est plutôt un menteur arrogant.
 
 # 4872
 
@@ -19750,7 +19750,7 @@ Tout ce qui se trouve à la surface de la Terre disparaîtra irrémédiablement.
 
 # 4928
 
-Seul subsistera le visage (wajhun, `al-wajhu) de ton Seigneur, ô Messager. L’Eminent, le Bienfaiteur et le Donneur de Faveurs à Ses serviteurs. Lui Seul ne connaîtra pas la disparition.
+Seul subsistera le visage (wajhun, \`al-wajhu) de ton Seigneur, ô Messager. L’Eminent, le Bienfaiteur et le Donneur de Faveurs à Ses serviteurs. Lui Seul ne connaîtra pas la disparition.
 
 # 4929
 
@@ -20282,7 +20282,7 @@ Le Coran a été révélé par le Seigneur des créatures à Son Prophète Muħa
 
 # 5061
 
-Exprimez-vous votre reconnaissance à Allah pour vous avoir pourvus en bienfaits en proférant des mensonges sur Lui, attribuant la pluie à l’influence (`an-naw`u) d’une étoile lorsqu’ils disent « C’est l’influence de telle étoile qui nous a amené la pluie ».
+Exprimez-vous votre reconnaissance à Allah pour vous avoir pourvus en bienfaits en proférant des mensonges sur Lui, attribuant la pluie à l’influence (\`an-naw\`u) d’une étoile lorsqu’ils disent « C’est l’influence de telle étoile qui nous a amené la pluie ».
 
 # 5062
 
@@ -20460,7 +20460,7 @@ Nous vous avons explicité que Notre éminente grâce était la double récompen
 
 # 5105
 
-Ô Messager, Allah a bien entendu les paroles de la femme, Khawlah bint Tha’labah, quand elle discutait avec toi au sujet de son époux `Aws ibn aş-Şâmit qui prononça contre elle la formule du ẓihâr et se plaignait par la même occasion à Allah de ce que lui avait fait subir son époux. Allah entendait votre discussion et rien ne Lui en a échappé. Il entend le mieux les paroles de Ses serviteurs et voit le mieux leurs agissements, au point que rien de ce qu’ils disent ou font ne Lui est inconnu.
+Ô Messager, Allah a bien entendu les paroles de la femme, Khawlah bint Tha’labah, quand elle discutait avec toi au sujet de son époux \`Aws ibn aş-Şâmit qui prononça contre elle la formule du ẓihâr et se plaignait par la même occasion à Allah de ce que lui avait fait subir son époux. Allah entendait votre discussion et rien ne Lui en a échappé. Il entend le mieux les paroles de Ses serviteurs et voit le mieux leurs agissements, au point que rien de ce qu’ils disent ou font ne Lui est inconnu.
 
 # 5106
 
@@ -20488,7 +20488,7 @@ Le Jour où Allah les ressuscitera tous sans en excepter aucun et les informera 
 
 # 5112
 
-Ô Messager, ne vois-tu pas les juifs, qui se parlent en secret lorsqu’ils voient un croyant, et à qui Allah a défendu les conversations secrètes, puis qui commettent de nouveau ce qu’Allah leur a défendu en parlant secrètement de ce qui est péché, comme médire des croyants, ou manigancer contre eux ou s’inciter à désobéir au Prophète? Et lorsqu’ils se rendent auprès de toi, ils te saluent d’une manière dont Allah ne t’a pas salué qui consiste à dire « `as-sâmu ‘alayka » (Que la mort soit sur toi) et traitent le Prophète de menteur lorsqu’ils disent « Pourquoi Allah ne nous châtie pas pour ce que l’on dit car s’il était réellement Prophète, Allah nous aurait châtié pour ce que nous disons de lui ». L’Enfer leur suffit comme punition pour ce qu’ils disent. Ils endureront sa chaleur et quel mauvais sort que le leur.
+Ô Messager, ne vois-tu pas les juifs, qui se parlent en secret lorsqu’ils voient un croyant, et à qui Allah a défendu les conversations secrètes, puis qui commettent de nouveau ce qu’Allah leur a défendu en parlant secrètement de ce qui est péché, comme médire des croyants, ou manigancer contre eux ou s’inciter à désobéir au Prophète? Et lorsqu’ils se rendent auprès de toi, ils te saluent d’une manière dont Allah ne t’a pas salué qui consiste à dire « \`as-sâmu ‘alayka » (Que la mort soit sur toi) et traitent le Prophète de menteur lorsqu’ils disent « Pourquoi Allah ne nous châtie pas pour ce que l’on dit car s’il était réellement Prophète, Allah nous aurait châtié pour ce que nous disons de lui ». L’Enfer leur suffit comme punition pour ce qu’ils disent. Ils endureront sa chaleur et quel mauvais sort que le leur.
 
 # 5113
 
@@ -20532,7 +20532,7 @@ Le Jour où Allah les ressuscitera tous sans exception afin de recevoir leur ré
 
 # 5123
 
-Satan s’est emparé d’eux et par ses insufflations, il leur fit oublier d’évoquer Allah, et par conséquence d’œuvrer de manière à mériter Son agrément. Ils se mettent plutôt à œuvrer de manière à mériter Sa colère. Ceux qui possèdent ces caractéristiques sont les soldats de `Iblîs et ses disciples. Or les soldats et disciples de `Iblîs sont les perdants dans le bas monde et dans l'au-delà, car ils ont échangé la guidée contre l’égarement et le Paradis contre l’Enfer.
+Satan s’est emparé d’eux et par ses insufflations, il leur fit oublier d’évoquer Allah, et par conséquence d’œuvrer de manière à mériter Son agrément. Ils se mettent plutôt à œuvrer de manière à mériter Sa colère. Ceux qui possèdent ces caractéristiques sont les soldats de \`Iblîs et ses disciples. Or les soldats et disciples de \`Iblîs sont les perdants dans le bas monde et dans l'au-delà, car ils ont échangé la guidée contre l’égarement et le Paradis contre l’Enfer.
 
 # 5124
 
@@ -20674,7 +20674,7 @@ Il se peut qu’Allah suscite de l’affection entre vous, ô croyants, et entre
 
 # 5158
 
-Allah ne vous défend pas d’être bienfaisants et équitables, en leur remettant ce qui leur revient de droit, envers ceux qui ne vous ont pas combattus pour votre Islam et ne vous ont pas expulsés de vos demeures comme `Asmâ, la fille de `Abû Bakr Aş-Şiddîq, a agi avec sa mère mécréante lorsqu’elle se rendit auprès d’elle, après avoir consulté le Prophète à ce propos. Le Prophète lui ordonna alors d’entretenir le lien de parenté qui la lie à elle. Allah aime ceux qui sont équitables avec eux-mêmes, avec leurs familles et avec les personnes qui sont sous leur responsabilité.
+Allah ne vous défend pas d’être bienfaisants et équitables, en leur remettant ce qui leur revient de droit, envers ceux qui ne vous ont pas combattus pour votre Islam et ne vous ont pas expulsés de vos demeures comme \`Asmâ, la fille de \`Abû Bakr Aş-Şiddîq, a agi avec sa mère mécréante lorsqu’elle se rendit auprès d’elle, après avoir consulté le Prophète à ce propos. Le Prophète lui ordonna alors d’entretenir le lien de parenté qui la lie à elle. Allah aime ceux qui sont équitables avec eux-mêmes, avec leurs familles et avec les personnes qui sont sous leur responsabilité.
 
 # 5159
 
@@ -20718,7 +20718,7 @@ Allah aime les croyants qui combattent pour Sa cause et, afin de mériter Son ag
 
 # 5169
 
-Rappelle-toi, ô Messager, lorsque Jésus fils de Marie dit: Ô Israélites, je suis le messager qu’Allah vous a envoyé afin de confirmer la Torah qui a été révélée avant moi. Je ne suis pas le premier messager à apporter ce message. J’ai également été envoyé afin d’annoncer la venue d’un messager qui sera envoyé plus tard et dont le nom est `Ahmad. Lorsque Jésus leur présenta les arguments démontrant Sa véracité, ils dirent: Ceci est une magie évidente que nous ne suivrons pas.
+Rappelle-toi, ô Messager, lorsque Jésus fils de Marie dit: Ô Israélites, je suis le messager qu’Allah vous a envoyé afin de confirmer la Torah qui a été révélée avant moi. Je ne suis pas le premier messager à apporter ce message. J’ai également été envoyé afin d’annoncer la venue d’un messager qui sera envoyé plus tard et dont le nom est \`Ahmad. Lorsque Jésus leur présenta les arguments démontrant Sa véracité, ils dirent: Ceci est une magie évidente que nous ne suivrons pas.
 
 # 5170
 
@@ -20786,7 +20786,7 @@ Or ils ne souhaiteront jamais la mort mais souhaitent plutôt vivre éternelleme
 
 # 5186
 
-Ô vous qui croyez en Allah et œuvrez selon ce qu’Il vous a prescrit, lorsque le muezzin appelle à la prière du vendredi, après que l’orateur (`al-khaṭîbu) se soit hissé sur la chaire (`al-minbaru), empressez-vous de vous rendre dans les mosquées afin d’assister au sermon (`al-khuṭbatu (khuṭbah)) et à la prière, et délaissez tout négoce afin que celui-ci ne vous distraie pas d’obéir à Allah. Ce qui vous est ordonné là est meilleur pour vous, ô croyants, si vous le saviez. Conformez-vous donc à ce que vous commande Allah.
+Ô vous qui croyez en Allah et œuvrez selon ce qu’Il vous a prescrit, lorsque le muezzin appelle à la prière du vendredi, après que l’orateur (\`al-khaṭîbu) se soit hissé sur la chaire (\`al-minbaru), empressez-vous de vous rendre dans les mosquées afin d’assister au sermon (\`al-khuṭbatu (khuṭbah)) et à la prière, et délaissez tout négoce afin que celui-ci ne vous distraie pas d’obéir à Allah. Ce qui vous est ordonné là est meilleur pour vous, ô croyants, si vous le saviez. Conformez-vous donc à ce que vous commande Allah.
 
 # 5187
 
@@ -20826,7 +20826,7 @@ Ce sont eux qui disent: Ne dépensez pas en faveur des pauvres et des bédouins 
 
 # 5196
 
-Le chef des hypocrites, ‘AbduLlâh ibn `Ubayy, dit: Lorsque nous retournerons à Médine, le plus puissant – c’est-à-dire moi et les miens – fera certainement sortir le plus humble – c’est-à-dire Muħammad et ses Compagnons. Or c’est à Allah Seul, au Messager et aux croyants que la puissance appartient et non à ‘AbduLlâh ibn `Ubayy et à ses compagnons. Seulement, les hypocrites ne savent pas cela.
+Le chef des hypocrites, ‘AbduLlâh ibn \`Ubayy, dit: Lorsque nous retournerons à Médine, le plus puissant – c’est-à-dire moi et les miens – fera certainement sortir le plus humble – c’est-à-dire Muħammad et ses Compagnons. Or c’est à Allah Seul, au Messager et aux croyants que la puissance appartient et non à ‘AbduLlâh ibn \`Ubayy et à ses compagnons. Seulement, les hypocrites ne savent pas cela.
 
 # 5197
 
@@ -20970,7 +20970,7 @@ Allah vous a prescrit de vous libérer de vos serments en vous acquittant d’un
 
 # 5232
 
-Rappelle-toi lorsque le Prophète confia à Ħafşah qu’il ne s’approcherait plus de son épouse Mâriyah et lorsque Ħafşah rapporta cela à ‘Â`ichah et qu’Allah informa Son Prophète de la divulgation de son secret, le Prophète fit des reproches à Ħafşah en lui mentionnant certaines choses qu’elle avait dites et en en taisant d’autres. Ħafşah lui demanda alors: Qui t’a informé de cela? Il répondit: C’est le Connaisseur de toute chose et de tout ce qui est dissimulé qui m’en a informé.
+Rappelle-toi lorsque le Prophète confia à Ħafşah qu’il ne s’approcherait plus de son épouse Mâriyah et lorsque Ħafşah rapporta cela à ‘Â\`ichah et qu’Allah informa Son Prophète de la divulgation de son secret, le Prophète fit des reproches à Ħafşah en lui mentionnant certaines choses qu’elle avait dites et en en taisant d’autres. Ħafşah lui demanda alors: Qui t’a informé de cela? Il répondit: C’est le Connaisseur de toute chose et de tout ce qui est dissimulé qui m’en a informé.
 
 # 5233
 
@@ -21722,7 +21722,7 @@ Leurs regards seront baissés et ils seront couverts d’avilissement. Ce sera l
 
 # 5420
 
-Nous avons envoyé Noé à son peuple pour qu’il les appelle [à Allah] et les avertisse avant que ne les saisisse un châtiment douloureux pour avoir associé des divinités à Allah.
+Nous avons envoyé Noé à son peuple pour qu’il les appelle \[à Allah\] et les avertisse avant que ne les saisisse un châtiment douloureux pour avoir associé des divinités à Allah.
 
 # 5421
 
@@ -21750,7 +21750,7 @@ A chaque fois que je les appelle à ce qui mène au pardon de leurs péchés, co
 
 # 5427
 
-Puis, ô mon Seigneur, je les ai ouvertement appelés [à Toi].
+Puis, ô mon Seigneur, je les ai ouvertement appelés \[à Toi\].
 
 # 5428
 
@@ -21846,7 +21846,7 @@ Nous croyons, -que l’éminence et la majesté de notre Seigneur soient exalté
 
 # 5451
 
-Nous croyons aussi que `Iblîs dit sur Allah des paroles déviantes lorsqu’il Lui attribue une épouse et une progéniture.
+Nous croyons aussi que \`Iblîs dit sur Allah des paroles déviantes lorsqu’il Lui attribue une épouse et une progéniture.
 
 # 5452
 
@@ -22146,7 +22146,7 @@ Dix-neufs anges gardent ce lieu.
 
 # 5526
 
-Les gardiens de l’Enfer ne sont autres que des anges, car les humains ne pourraient assumer cette charge. `Abû Jahl mentit lorsqu’il prétendit que lui et les siens auront le pouvoir de les vaincre et de sortir de l’Enfer. Nous n’avons déterminé ce nombre de gardiens qu’à titre d’épreuve pour ceux qui mécroient en Allah ; afin qu’ils disent ce qu’ils ont dit et que leur châtiment soit doublé ; afin que soient convaincus les juifs, à qui la Torah a été donnée, et les chrétiens, à qui l’Evangile a été donnée, lorsque le Coran confirme ce que contiennent leurs deux livres ; afin que la foi des croyants s’accroisse lorsqu’ils verront que les Gens du Livre les corroborent; afin que les juifs les chrétiens et les croyants ne soient pas saisis de doutes ; et afin que les indécis et les mécréants disent: Quelle est la fin voulue par Allah en énonçant ce nombre étrange? Tout comme ce nombre égare celui qui le nie et guide celui qui y croit, Allah égare qui Il veut égarer et guide qui Il veut guider. Tellement le nombre de Ses soldats est grand, Allah est le Seul à le connaître. Que `Abû Jahl sache cela, lui qui dit en guise de démenti et de dérision: « Muħammad ne peut-il compter que sur dix-neuf aides ». Le Feu n’est qu’un rappel adressé aux humains afin qu’ils prennent conscience de l’éminence d’Allah.
+Les gardiens de l’Enfer ne sont autres que des anges, car les humains ne pourraient assumer cette charge. \`Abû Jahl mentit lorsqu’il prétendit que lui et les siens auront le pouvoir de les vaincre et de sortir de l’Enfer. Nous n’avons déterminé ce nombre de gardiens qu’à titre d’épreuve pour ceux qui mécroient en Allah ; afin qu’ils disent ce qu’ils ont dit et que leur châtiment soit doublé ; afin que soient convaincus les juifs, à qui la Torah a été donnée, et les chrétiens, à qui l’Evangile a été donnée, lorsque le Coran confirme ce que contiennent leurs deux livres ; afin que la foi des croyants s’accroisse lorsqu’ils verront que les Gens du Livre les corroborent; afin que les juifs les chrétiens et les croyants ne soient pas saisis de doutes ; et afin que les indécis et les mécréants disent: Quelle est la fin voulue par Allah en énonçant ce nombre étrange? Tout comme ce nombre égare celui qui le nie et guide celui qui y croit, Allah égare qui Il veut égarer et guide qui Il veut guider. Tellement le nombre de Ses soldats est grand, Allah est le Seul à le connaître. Que \`Abû Jahl sache cela, lui qui dit en guise de démenti et de dérision: « Muħammad ne peut-il compter que sur dix-neuf aides ». Le Feu n’est qu’un rappel adressé aux humains afin qu’ils prennent conscience de l’éminence d’Allah.
 
 # 5527
 
@@ -23084,7 +23084,7 @@ Le Messager s’est renfrogné et détourné
 
 # 5760
 
-lorsque ‘AbduLlâh ibn `Umm Maktûm, qui était aveugle, vint le consulter alors qu’il était occupé à prêcher de notoires polythéistes, dans l’espoir qu’ils se convertissent.
+lorsque ‘AbduLlâh ibn \`Umm Maktûm, qui était aveugle, vint le consulter alors qu’il était occupé à prêcher de notoires polythéistes, dans l’espoir qu’ils se convertissent.
 
 # 5761
 
@@ -23208,7 +23208,7 @@ Tout ceci représente des bienfaits pour vous et pour vos bêtes.
 
 # 5791
 
-Lorsque retentira le Fracas (`aş-şâkhkhatu(şâkhkhah)), le bruit qui assourdira les oreilles. Il s’agit du second souffle dans la Trompe.
+Lorsque retentira le Fracas (\`aş-şâkhkhatu(şâkhkhah)), le bruit qui assourdira les oreilles. Il s’agit du second souffle dans la Trompe.
 
 # 5792
 
@@ -23696,7 +23696,7 @@ et par tout témoin, comme le prophète qui témoignera contre sa communauté, e
 
 # 5913
 
-Soient maudits ceux qui ont creusé dans la terre un fossé gigantesque (`al-`ukhdûdu).
+Soient maudits ceux qui ont creusé dans la terre un fossé gigantesque (\`al-\`ukhdûdu).
 
 # 5914
 
@@ -23772,7 +23772,7 @@ préservé dans une Table des modifications, de l'altération, des ajouts et des
 
 # 5932
 
-Allah fait serment par le Ciel et l’étoile qui apparait (`aṭ-ṭâriqu, du verbe ṭaraqa/yaṭruqu) la nuit.
+Allah fait serment par le Ciel et l’étoile qui apparait (\`aṭ-ṭâriqu, du verbe ṭaraqa/yaṭruqu) la nuit.
 
 # 5933
 
@@ -24044,7 +24044,7 @@ N’est-ce pas là un serment qui convainc ceux qui sont doués de raison?
 
 # 6000
 
-La tribu des ‘Ad descendante de `Iram, dont les membres étaient d’une taille gigantesque,
+La tribu des ‘Ad descendante de \`Iram, dont les membres étaient d’une taille gigantesque,
 
 # 6001
 
@@ -24344,7 +24344,7 @@ qui traite ce qu’apporte le Messager de mensonge et refuse de se conformer aux
 
 # 6075
 
-tandis qu’en sera écarté le plus pieux des gens, c’est-à-dire `Abû Bakr,
+tandis qu’en sera écarté le plus pieux des gens, c’est-à-dire \`Abû Bakr,
 
 # 6076
 
@@ -24420,7 +24420,7 @@ qui t’éreintait au point de manquer de te casser le dos.
 
 # 6094
 
-Nous avons exalté ta renommée jusqu’à ce que ton nom sois mentionné dans l’appel à la prière, la `iqâmah et d’autres formules que l’on récite.
+Nous avons exalté ta renommée jusqu’à ce que ton nom sois mentionné dans l’appel à la prière, la \`iqâmah et d’autres formules que l’on récite.
 
 # 6095
 
@@ -24484,7 +24484,7 @@ qui a créé l’être humain d’un caillot de sang issu d’une goutte de sper
 
 # 6110
 
-C’est Lui qui enseigna l’écriture par la plume (`al-qalamu),
+C’est Lui qui enseigna l’écriture par la plume (\`al-qalamu),
 
 # 6111
 
@@ -24492,11 +24492,11 @@ et enseigna à l’être humain ce qu’il ne connaissait pas.
 
 # 6112
 
-En vérité, l’être humain pervers, à l’image de `Abû Jahl, transgresse exagérément les limites d'Allah,
+En vérité, l’être humain pervers, à l’image de \`Abû Jahl, transgresse exagérément les limites d'Allah,
 
 # 6113
 
-*puisqu’il estime se suffire à lui-même par son prestige et sa richesse.
+\*puisqu’il estime se suffire à lui-même par son prestige et sa richesse.
 
 # 6114
 
@@ -24504,7 +24504,7 @@ Or c’est vers ton Seigneur qu’aura lieu le retour le Jour de la Résurrectio
 
 # 6115
 
-Connais-tu un cas plus étonnant que celui de `Abû Jahl, qui défend
+Connais-tu un cas plus étonnant que celui de \`Abû Jahl, qui défend
 
 # 6116
 
@@ -24532,7 +24532,7 @@ Il n’en est pas comme se l’imagine cet ignorant: s’il ne cesse pas de pers
 
 # 6122
 
-*Le propriétaire de ce toupet est un menteur et un pécheur.
+\*Le propriétaire de ce toupet est un menteur et un pécheur.
 
 # 6123
 
@@ -24912,7 +24912,7 @@ sache que ceci est le signe que la fin de ta mission est proche. Célèbre donc 
 
 # 6217
 
-Que les mains de `Abû Lahab, l’oncle paternel du Prophète, soient perdues pour ses agissements, puisqu’il persécutait le Prophète, et qu’il soit déçu.
+Que les mains de \`Abû Lahab, l’oncle paternel du Prophète, soient perdues pour ses agissements, puisqu’il persécutait le Prophète, et qu’il soit déçu.
 
 # 6218
 
@@ -24924,7 +24924,7 @@ Le Jour de la Résurrection, il sera introduit dans un Feu qui flambe dont il en
 
 # 6220
 
-Son épouse `Umm Jamîl, qui persécutait le Prophète en jetant des épines sur son chemin, y sera également introduite.
+Son épouse \`Umm Jamîl, qui persécutait le Prophète en jetant des épines sur son chemin, y sera également introduite.
 
 # 6221
 

@@ -1690,7 +1690,7 @@ Dies, damit Er einen Teil derer, die ungläubig sind, ausmerze oder sie niederwe
 
 # 421
 
-- dir steht in dieser Angelegenheit keine Entscheidung zu -, oder damit Er sich ihnen wieder zuwende oder sie peinige, denn sie sind Leute, die Unrecht tun.
+\- dir steht in dieser Angelegenheit keine Entscheidung zu -, oder damit Er sich ihnen wieder zuwende oder sie peinige, denn sie sind Leute, die Unrecht tun.
 
 # 422
 
@@ -1746,7 +1746,7 @@ Und damit Gott diejenigen, die glauben, läutere und die Ungläubigen vernichte,
 
 # 435
 
-- oder meint ihr, daß ihr ins Paradies eingehen werdet, noch ehe Gott in Erfahrung gebracht hat, wer von ihnen sich eingesetzt hat? - und damit Er in Erfahrung bringe, wer die Standhaften sind.
+\- oder meint ihr, daß ihr ins Paradies eingehen werdet, noch ehe Gott in Erfahrung gebracht hat, wer von ihnen sich eingesetzt hat? - und damit Er in Erfahrung bringe, wer die Standhaften sind.
 
 # 436
 
@@ -2370,7 +2370,7 @@ Zu denen, die die Engel abberufen, während sie gegen sich selbst Unrecht verüb
 
 # 591
 
-- mit Ausnahme derer unter den Männern, Frauen und Kindern, die wie Schwache behandelt wurden und sich keine List erdenken konnten und keinen rechten Weg fanden.
+\- mit Ausnahme derer unter den Männern, Frauen und Kindern, die wie Schwache behandelt wurden und sich keine List erdenken konnten und keinen rechten Weg fanden.
 
 # 592
 
@@ -10726,7 +10726,7 @@ Außer gegenüber ihren Gattinnen, oder was ihre rechte Hand (an Sklavinnen) bes
 
 # 2680
 
-- diejenigen aber, die darüber hinaus (andere) begehren, das sind die, die Übertretungen begehen -,
+\- diejenigen aber, die darüber hinaus (andere) begehren, das sind die, die Übertretungen begehen -,
 
 # 2681
 
@@ -11502,7 +11502,7 @@ Sie sagen: «Preis sei Dir! Es ziemte uns nicht, uns an deiner Stelle andere Fre
 
 # 2874
 
-- «Nun haben sie euch in dem, was ihr sagt, der Lüge geziehen. Da könnt ihr weder etwas abwenden noch Unterstützung erfahren. Und wer von euch Unrecht tut, den lassen Wir eine große Pein kosten.»
+\- «Nun haben sie euch in dem, was ihr sagt, der Lüge geziehen. Da könnt ihr weder etwas abwenden noch Unterstützung erfahren. Und wer von euch Unrecht tut, den lassen Wir eine große Pein kosten.»
 
 # 2875
 
@@ -14474,7 +14474,7 @@ Und Wir ließen David eine Huld von Uns zukommen. - «Ihr Berge, singt Kehrverse
 
 # 3617
 
-- «Fertige Panzergewänder an und webe im richtigen Maß die Panzermaschen aneinander. Und tut Gutes. Ich sehe wohl, was ihr tut.»
+\- «Fertige Panzergewänder an und webe im richtigen Maß die Panzermaschen aneinander. Und tut Gutes. Ich sehe wohl, was ihr tut.»
 
 # 3618
 
@@ -15242,11 +15242,11 @@ Und sie sagen: «O weh uns! Das ist der Tag des Gerichtes!»
 
 # 3809
 
-- «Das ist der Tag der Scheidung, den ihr für Lüge zu erklären pflegtet.
+\- «Das ist der Tag der Scheidung, den ihr für Lüge zu erklären pflegtet.
 
 # 3810
 
-- Versammelt nun diejenigen, die Unrecht getan haben, ihre Partner und das, was sie verehrten
+\- Versammelt nun diejenigen, die Unrecht getan haben, ihre Partner und das, was sie verehrten
 
 # 3811
 
@@ -15258,7 +15258,7 @@ Und stellt sie auf, sie werden zur Verantwortung gezogen.
 
 # 3813
 
-- Was ist mit euch, daß ihr nicht einander unterstützt?»
+\- Was ist mit euch, daß ihr nicht einander unterstützt?»
 
 # 3814
 
@@ -16054,7 +16054,7 @@ Und gedenke unseres Dieners Ijob. Als er zu seinem Herrn rief: «Mich hat der Sa
 
 # 4012
 
-- «Stampfe mit dem Fuß. Das ist kühles Wasser zum Waschen und zum Trinken.»
+\- «Stampfe mit dem Fuß. Das ist kühles Wasser zum Waschen und zum Trinken.»
 
 # 4013
 
@@ -16122,7 +16122,7 @@ Und anderes dergleichen in verschiedenen Arten.
 
 # 4029
 
-- «Da ist eine Schar, die sich mit euch hineinstürzt.» - «Sie sind nicht willkommen. Sie werden im Feuer brennen.»
+\- «Da ist eine Schar, die sich mit euch hineinstürzt.» - «Sie sind nicht willkommen. Sie werden im Feuer brennen.»
 
 # 4030
 
@@ -16474,7 +16474,7 @@ Oder auch könnte er, wenn er die Pein sieht, sagen: «Hätte ich doch eine Mög
 
 # 4117
 
-- «Aber meine Zeichen sind doch zu dir gekommen. Da hast du sie für Lüge erklärt und dich hochmütig gezeigt, und du bist einer der Ungläubigen gewesen.»
+\- «Aber meine Zeichen sind doch zu dir gekommen. Da hast du sie für Lüge erklärt und dich hochmütig gezeigt, und du bist einer der Ungläubigen gewesen.»
 
 # 4118
 
@@ -17006,7 +17006,7 @@ Wir sind eure Freunde im diesseitigen Leben und im Jenseits. Ihr habt darin, was
 
 # 4250
 
-- eine Herberge von einem, der voller Vergebung und barmherzig ist.»
+\- eine Herberge von einem, der voller Vergebung und barmherzig ist.»
 
 # 4251
 
@@ -17754,7 +17754,7 @@ Da rief er zu seinem Herrn: «Das sind Leute, die Übeltäter sind.»
 
 # 4437
 
-- «Zieh bei Nacht mit meinen Dienern fort; ihr werdet da verfolgt werden.
+\- «Zieh bei Nacht mit meinen Dienern fort; ihr werdet da verfolgt werden.
 
 # 4438
 
@@ -18622,7 +18622,7 @@ Und sein Geselle sagt: «Das ist, was bei mir bereitliegt.»
 
 # 4654
 
-- «Werft, ihr beide, in die Hölle jeden, der sehr ungläubig und widerspenstig ist,
+\- «Werft, ihr beide, in die Hölle jeden, der sehr ungläubig und widerspenstig ist,
 
 # 4655
 
@@ -18758,7 +18758,7 @@ Sie fragen: «Wann wird denn der Tag des Gerichtes sein?»
 
 # 4688
 
-- «Am Tag, da sie im Feuer geprüft werden.
+\- «Am Tag, da sie im Feuer geprüft werden.
 
 # 4689
 
@@ -19762,7 +19762,7 @@ Wenn der Himmel sich spaltet und rosig wie rotes Leder wird
 
 # 4939
 
-- welche der Wohltaten eures Herrn wollt ihr beide für Lüge erklären? -,
+\- welche der Wohltaten eures Herrn wollt ihr beide für Lüge erklären? -,
 
 # 4940
 
@@ -19798,7 +19798,7 @@ Für den, der den Stand seines Herrn fürchtet, sind zwei Gärten bestimmt
 
 # 4948
 
-- welche der Wohltaten eures Herrn wollt ihr beide für Lüge erklären? -,
+\- welche der Wohltaten eures Herrn wollt ihr beide für Lüge erklären? -,
 
 # 4949
 
@@ -19862,7 +19862,7 @@ Außer ihnen beiden gibt es zwei andere Gärten
 
 # 4964
 
-- welche der Wohltaten eures Herrn wollt ihr beide für Lüge erklären? -,
+\- welche der Wohltaten eures Herrn wollt ihr beide für Lüge erklären? -,
 
 # 4965
 
@@ -19894,7 +19894,7 @@ Darin sind gute und schöne Frauen
 
 # 4972
 
-- welche der Wohltaten eures Herrn wollt ihr beide für Lüge erklären? -,
+\- welche der Wohltaten eures Herrn wollt ihr beide für Lüge erklären? -,
 
 # 4973
 
@@ -19930,7 +19930,7 @@ Wenn die (Stunde) eintrifft, die eintreffen wird
 
 # 4981
 
-- es gibt niemanden, der ihr Eintreffen leugnen könnte -,
+\- es gibt niemanden, der ihr Eintreffen leugnen könnte -,
 
 # 4982
 
@@ -20226,7 +20226,7 @@ Nein, Ich schwöre bei den Niedergangsorten der Sterne
 
 # 5055
 
-- das ist, wenn ihr es nur wüßtet, ein gewaltiger Schwur:
+\- das ist, wenn ihr es nur wüßtet, ein gewaltiger Schwur:
 
 # 5056
 
@@ -21418,7 +21418,7 @@ Vernichtet ist meine Machtfülle.»
 
 # 5353
 
-- «Nehmt ihn und fesselt ihn.
+\- «Nehmt ihn und fesselt ihn.
 
 # 5354
 
@@ -21618,7 +21618,7 @@ Und die vor der Pein ihres Herrn erschrocken sind
 
 # 5403
 
-- vor der Pein ihres Herrn befindet sich niemand in Sicherheit -,
+\- vor der Pein ihres Herrn befindet sich niemand in Sicherheit -,
 
 # 5404
 
@@ -22346,7 +22346,7 @@ Dann ging er zu seinen Angehörigen mit stolzen Schritten.
 
 # 5585
 
-- «Recht geschieht dir, ja recht geschieht es.
+\- «Recht geschieht dir, ja recht geschieht es.
 
 # 5586
 
@@ -22610,7 +22610,7 @@ Wehe an jenem Tag denen, die (die Botschaft) für Lüge erklären!
 
 # 5651
 
-- «Begebt euch zu dem, was ihr immer wieder für Lüge erklärt habt,
+\- «Begebt euch zu dem, was ihr immer wieder für Lüge erklärt habt,
 
 # 5652
 
@@ -22646,7 +22646,7 @@ Wehe an jenem Tag denen, die (die Botschaft) für Lüge erklären!
 
 # 5660
 
-- «Das ist der Tag der Scheidung. Wir haben euch zu den Früheren versammelt.
+\- «Das ist der Tag der Scheidung. Wir haben euch zu den Früheren versammelt.
 
 # 5661
 
@@ -22666,7 +22666,7 @@ Und Früchten von dem, was sie begehren.
 
 # 5665
 
-- «Eßt und trinkt zu eurem Wohl (als Entlohnung) für das, was ihr zu tun pflegtet.»
+\- «Eßt und trinkt zu eurem Wohl (als Entlohnung) für das, was ihr zu tun pflegtet.»
 
 # 5666
 
@@ -24086,7 +24086,7 @@ Und niemand kann fesseln, so wie Er fesselt.
 
 # 6020
 
-- O du Seele, die du Ruhe gefunden hast,
+\- O du Seele, die du Ruhe gefunden hast,
 
 # 6021
 

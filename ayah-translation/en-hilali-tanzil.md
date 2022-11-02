@@ -38,19 +38,19 @@ The Way of those on whom You have bestowed Your Grace, not (the way) of those wh
 
 # 8
 
-Alif-Lam-Mim. [These letters are one of the miracles of the Quran and none but Allah (Alone) knows their meanings].
+Alif-Lam-Mim. \[These letters are one of the miracles of the Quran and none but Allah (Alone) knows their meanings\].
 
 # 9
 
-This is the Book (the Quran), whereof there is no doubt, a guidance to those who are Al-Muttaqun [the pious and righteous persons who fear Allah much (abstain from all kinds of sins and evil deeds which He has forbidden) and love Allah much (perform all kinds of good deeds which He has ordained)].
+This is the Book (the Quran), whereof there is no doubt, a guidance to those who are Al-Muttaqun \[the pious and righteous persons who fear Allah much (abstain from all kinds of sins and evil deeds which He has forbidden) and love Allah much (perform all kinds of good deeds which He has ordained)\].
 
 # 10
 
-Who believe in the Ghaib and perform As-Salat (Iqamat-as-Salat), and spend out of what we have provided for them [i.e. give Zakat, spend on themselves, their parents, their children, their wives, etc., and also give charity to the poor and also in Allah's Cause - Jihad, etc.].
+Who believe in the Ghaib and perform As-Salat (Iqamat-as-Salat), and spend out of what we have provided for them \[i.e. give Zakat, spend on themselves, their parents, their children, their wives, etc., and also give charity to the poor and also in Allah's Cause - Jihad, etc.\].
 
 # 11
 
-And who believe in (the Quran and the Sunnah) which has been sent down (revealed) to you (Muhammad Peace be upon him) and in [the Taurat (Torah) and the Injeel (Gospel), etc.] which were sent down before you and they believe with certainty in the Hereafter. (Resurrection, recompense of their good and bad deeds, Paradise and Hell, etc.).
+And who believe in (the Quran and the Sunnah) which has been sent down (revealed) to you (Muhammad Peace be upon him) and in \[the Taurat (Torah) and the Injeel (Gospel), etc.\] which were sent down before you and they believe with certainty in the Hereafter. (Resurrection, recompense of their good and bad deeds, Paradise and Hell, etc.).
 
 # 12
 
@@ -198,11 +198,11 @@ O Children of Israel! Remember My Favour which I bestowed upon you, and fulfill 
 
 # 48
 
-And believe in what I have sent down (this Quran), confirming that which is with you, [the Taurat (Torah) and the Injeel (Gospel)], and be not the first to disbelieve therein, and buy not with My Verses [the Taurat (Torah) and the Injeel (Gospel)] a small price (i.e. getting a small gain by selling My Verses), and fear Me and Me Alone. (Tafsir At-Tabari, Vol. I, Page 253).
+And believe in what I have sent down (this Quran), confirming that which is with you, \[the Taurat (Torah) and the Injeel (Gospel)\], and be not the first to disbelieve therein, and buy not with My Verses \[the Taurat (Torah) and the Injeel (Gospel)\] a small price (i.e. getting a small gain by selling My Verses), and fear Me and Me Alone. (Tafsir At-Tabari, Vol. I, Page 253).
 
 # 49
 
-And mix not truth with falsehood, nor conceal the truth [i.e. Muhammad Peace be upon him is Allah's Messenger and his qualities are written in your Scriptures, the Taurat (Torah) and the Injeel (Gospel)] while you know (the truth).
+And mix not truth with falsehood, nor conceal the truth \[i.e. Muhammad Peace be upon him is Allah's Messenger and his qualities are written in your Scriptures, the Taurat (Torah) and the Injeel (Gospel)\] while you know (the truth).
 
 # 50
 
@@ -210,11 +210,11 @@ And perform As-Salat (Iqamat-as-Salat), and give Zakat, and Irka' (i.e. bow down
 
 # 51
 
-Enjoin you Al-Birr (piety and righteousness and each and every act of obedience to Allah) on the people and you forget (to practise it) yourselves, while you recite the Scripture [the Taurat (Torah)]! Have you then no sense?
+Enjoin you Al-Birr (piety and righteousness and each and every act of obedience to Allah) on the people and you forget (to practise it) yourselves, while you recite the Scripture \[the Taurat (Torah)\]! Have you then no sense?
 
 # 52
 
-And seek help in patience and As-Salat (the prayer) and truly it is extremely heavy and hard except for Al-Khashi'un [i.e. the true believers in Allah - those who obey Allah with full submission, fear much from His Punishment, and believe in His Promise (Paradise, etc.) and in His Warnings (Hell, etc.)].
+And seek help in patience and As-Salat (the prayer) and truly it is extremely heavy and hard except for Al-Khashi'un \[i.e. the true believers in Allah - those who obey Allah with full submission, fear much from His Punishment, and believe in His Promise (Paradise, etc.) and in His Warnings (Hell, etc.)\].
 
 # 53
 
@@ -246,7 +246,7 @@ Then after that We forgave you so that you might be grateful.
 
 # 60
 
-And (remember) when We gave Musa (Moses) the Scripture [the Taurat (Torah)] and the criterion (of right and wrong) so that you may be guided aright.
+And (remember) when We gave Musa (Moses) the Scripture \[the Taurat (Torah)\] and the criterion (of right and wrong) so that you may be guided aright.
 
 # 61
 
@@ -318,7 +318,7 @@ They said, "Call upon your Lord for us to make plain to us what it is. Verily to
 
 # 78
 
-He [Musa (Moses)] said, "He says, 'It is a cow neither trained to till the soil nor water the fields, sound, having no other colour except bright yellow.' " They said, "Now you have brought the truth." So they slaughtered it though they were near to not doing it.
+He \[Musa (Moses)\] said, "He says, 'It is a cow neither trained to till the soil nor water the fields, sound, having no other colour except bright yellow.' " They said, "Now you have brought the truth." So they slaughtered it though they were near to not doing it.
 
 # 79
 
@@ -334,11 +334,11 @@ Then, after that, your hearts were hardened and became as stones or even worse i
 
 # 82
 
-Do you (faithful believers) covet that they will believe in your religion inspite of the fact that a party of them (Jewish rabbis) used to hear the Word of Allah [the Taurat (Torah)], then they used to change it knowingly after they understood it?
+Do you (faithful believers) covet that they will believe in your religion inspite of the fact that a party of them (Jewish rabbis) used to hear the Word of Allah \[the Taurat (Torah)\], then they used to change it knowingly after they understood it?
 
 # 83
 
-And when they (Jews) meet those who believe (Muslims), they say, "We believe", but when they meet one another in private, they say, "Shall you (Jews) tell them (Muslims) what Allah has revealed to you [Jews, about the description and the qualities of Prophet Muhammad Peace be upon him, that which are written in the Taurat (Torah)], that they (Muslims) may argue with you (Jews) about it before your Lord?" Have you (Jews) then no understanding?
+And when they (Jews) meet those who believe (Muslims), they say, "We believe", but when they meet one another in private, they say, "Shall you (Jews) tell them (Muslims) what Allah has revealed to you \[Jews, about the description and the qualities of Prophet Muhammad Peace be upon him, that which are written in the Taurat (Torah)\], that they (Muslims) may argue with you (Jews) about it before your Lord?" Have you (Jews) then no understanding?
 
 # 84
 
@@ -366,7 +366,7 @@ And those who believe (in the Oneness of Allah - Islamic Monotheism) and do righ
 
 # 90
 
-And (remember) when We took a covenant from the Children of Israel, (saying): Worship none but Allah (Alone) and be dutiful and good to parents, and to kindred, and to orphans and Al-Masakin (the poor), [Tafsir At-Tabari, Vol. 10, Page 158 (Verse 9:60)] and speak good to people [i.e. enjoin righteousness and forbid evil, and say the truth about Muhammad Peace be upon him], and perform As-Salat (Iqamat-as-Salat), and give Zakat. Then you slid back, except a few of you, while you are backsliders. (Tafsir Al-Qurtubi, Vol. 2, Page 392).
+And (remember) when We took a covenant from the Children of Israel, (saying): Worship none but Allah (Alone) and be dutiful and good to parents, and to kindred, and to orphans and Al-Masakin (the poor), \[Tafsir At-Tabari, Vol. 10, Page 158 (Verse 9:60)\] and speak good to people \[i.e. enjoin righteousness and forbid evil, and say the truth about Muhammad Peace be upon him\], and perform As-Salat (Iqamat-as-Salat), and give Zakat. Then you slid back, except a few of you, while you are backsliders. (Tafsir Al-Qurtubi, Vol. 2, Page 392).
 
 # 91
 
@@ -382,7 +382,7 @@ Those are they who have bought the life of this world at the price of the Hereaf
 
 # 94
 
-And indeed, We gave Musa (Moses) the Book and followed him up with a succession of Messengers. And We gave 'Iesa (Jesus), the son of Maryam (Mary), clear signs and supported him with Ruh-ul-Qudus [Jibrael (Gabriel)]. Is it that whenever there came to you a Messenger with what you yourselves desired not, you grew arrogant? Some, you disbelieved and some, you killed.
+And indeed, We gave Musa (Moses) the Book and followed him up with a succession of Messengers. And We gave 'Iesa (Jesus), the son of Maryam (Mary), clear signs and supported him with Ruh-ul-Qudus \[Jibrael (Gabriel)\]. Is it that whenever there came to you a Messenger with what you yourselves desired not, you grew arrogant? Some, you disbelieved and some, you killed.
 
 # 95
 
@@ -390,7 +390,7 @@ And they say, "Our hearts are wrapped (i.e. do not hear or understand Allah's Wo
 
 # 96
 
-And when there came to them (the Jews), a Book (this Quran) from Allah confirming what is with them [the Taurat (Torah) and the Injeel (Gospel)], although aforetime they had invoked Allah (for coming of Muhammad Peace be upon him) in order to gain victory over those who disbelieved, then when there came to them that which they had recognised, they disbelieved in it. So let the Curse of Allah be on the disbelievers.
+And when there came to them (the Jews), a Book (this Quran) from Allah confirming what is with them \[the Taurat (Torah) and the Injeel (Gospel)\], although aforetime they had invoked Allah (for coming of Muhammad Peace be upon him) in order to gain victory over those who disbelieved, then when there came to them that which they had recognised, they disbelieved in it. So let the Curse of Allah be on the disbelievers.
 
 # 97
 
@@ -422,7 +422,7 @@ And verily, you will find them (the Jews) the greediest of mankind for life and 
 
 # 104
 
-Say (O Muhammad Peace be upon him): "Whoever is an enemy to Jibrael (Gabriel) (let him die in his fury), for indeed he has brought it (this Quran) down to your heart by Allah's Permission, confirming what came before it [i.e. the Taurat (Torah) and the Injeel (Gospel)] and guidance and glad tidings for the believers.
+Say (O Muhammad Peace be upon him): "Whoever is an enemy to Jibrael (Gabriel) (let him die in his fury), for indeed he has brought it (this Quran) down to your heart by Allah's Permission, confirming what came before it \[i.e. the Taurat (Torah) and the Injeel (Gospel)\] and guidance and glad tidings for the believers.
 
 # 105
 
@@ -482,7 +482,7 @@ And they say, "None shall enter Paradise unless he be a Jew or a Christian." The
 
 # 119
 
-Yes, but whoever submits his face (himself) to Allah (i.e. follows Allah's Religion of Islamic Monotheism) and he is a Muhsin (good-doer i.e. performs good deeds totally for Allah's sake only without any show off or to gain praise or fame, etc., and in accordance with the Sunnah of Allah's Messenger Muhammad Peace be upon him) then his reward is with his Lord (Allah), on such shall be no fear, nor shall they grieve. [See Tafsir Ibn Kathir, Vol. 1, Page 154].
+Yes, but whoever submits his face (himself) to Allah (i.e. follows Allah's Religion of Islamic Monotheism) and he is a Muhsin (good-doer i.e. performs good deeds totally for Allah's sake only without any show off or to gain praise or fame, etc., and in accordance with the Sunnah of Allah's Messenger Muhammad Peace be upon him) then his reward is with his Lord (Allah), on such shall be no fear, nor shall they grieve. \[See Tafsir Ibn Kathir, Vol. 1, Page 154\].
 
 # 120
 
@@ -518,7 +518,7 @@ Never will the Jews nor the Christians be pleased with you (O Muhammad Peace be 
 
 # 128
 
-Those (who embraced Islam from Bani Israel) to whom We gave the Book [the Taurat (Torah)] [or those (Muhammad's Peace be upon him companions) to whom We have given the Book (the Quran)] recite it (i.e. obey its orders and follow its teachings) as it should be recited (i.e. followed), they are the ones that believe therein. And whoso disbelieves in it (the Quran), those are they who are the losers. (Tafsir Al-Qurtubi. Vol. 2, Page 95).
+Those (who embraced Islam from Bani Israel) to whom We gave the Book \[the Taurat (Torah)\] \[or those (Muhammad's Peace be upon him companions) to whom We have given the Book (the Quran)\] recite it (i.e. obey its orders and follow its teachings) as it should be recited (i.e. followed), they are the ones that believe therein. And whoso disbelieves in it (the Quran), those are they who are the losers. (Tafsir Al-Qurtubi. Vol. 2, Page 95).
 
 # 129
 
@@ -530,11 +530,11 @@ And fear the Day (of Judgement) when no person shall avail another, nor shall co
 
 # 131
 
-And (remember) when the Lord of Ibrahim (Abraham) [i.e., Allah] tried him with (certain) Commands, which he fulfilled. He (Allah) said (to him), "Verily, I am going to make you a leader (Prophet) of mankind." [Ibrahim (Abraham)] said, "And of my offspring (to make leaders)." (Allah) said, "My Covenant (Prophethood, etc.) includes not Zalimun (polytheists and wrong-doers)."
+And (remember) when the Lord of Ibrahim (Abraham) \[i.e., Allah\] tried him with (certain) Commands, which he fulfilled. He (Allah) said (to him), "Verily, I am going to make you a leader (Prophet) of mankind." \[Ibrahim (Abraham)\] said, "And of my offspring (to make leaders)." (Allah) said, "My Covenant (Prophethood, etc.) includes not Zalimun (polytheists and wrong-doers)."
 
 # 132
 
-And (remember) when We made the House (the Ka'bah at Makkah) a place of resort for mankind and a place of safety. And take you (people) the Maqam (place) of Ibrahim (Abraham) [or the stone on which Ibrahim (Abraham) stood while he was building the Ka'bah] as a place of prayer (for some of your prayers, e.g. two Rak'at after the Tawaf of the Ka'bah at Makkah), and We commanded Ibrahim (Abraham) and Isma'il (Ishmael) that they should purify My House (the Ka'bah at Makkah) for those who are circumambulating it, or staying (I'tikaf), or bowing or prostrating themselves (there, in prayer).
+And (remember) when We made the House (the Ka'bah at Makkah) a place of resort for mankind and a place of safety. And take you (people) the Maqam (place) of Ibrahim (Abraham) \[or the stone on which Ibrahim (Abraham) stood while he was building the Ka'bah\] as a place of prayer (for some of your prayers, e.g. two Rak'at after the Tawaf of the Ka'bah at Makkah), and We commanded Ibrahim (Abraham) and Isma'il (Ishmael) that they should purify My House (the Ka'bah at Makkah) for those who are circumambulating it, or staying (I'tikaf), or bowing or prostrating themselves (there, in prayer).
 
 # 133
 
@@ -574,11 +574,11 @@ That was a nation who has passed away. They shall receive the reward of what the
 
 # 142
 
-And they say, "Be Jews or Christians, then you will be guided." Say (to them, O Muhammad Peace be upon him), "Nay, (We follow) only the religion of Ibrahim (Abraham), Hanifa [Islamic Monotheism, i.e. to worship none but Allah (Alone)], and he was not of Al-Mushrikun (those who worshipped others along with Allah - see V. 2:105)."
+And they say, "Be Jews or Christians, then you will be guided." Say (to them, O Muhammad Peace be upon him), "Nay, (We follow) only the religion of Ibrahim (Abraham), Hanifa \[Islamic Monotheism, i.e. to worship none but Allah (Alone)\], and he was not of Al-Mushrikun (those who worshipped others along with Allah - see V. 2:105)."
 
 # 143
 
-Say (O Muslims), "We believe in Allah and that which has been sent down to us and that which has been sent down to Ibrahim (Abraham), Isma'il (Ishmael), Ishaque (Isaac), Ya'qub (Jacob), and to Al-Asbat [the twelve sons of Ya'qub (Jacob)], and that which has been given to Musa (Moses) and 'Iesa (Jesus), and that which has been given to the Prophets from their Lord. We make no distinction between any of them, and to Him we have submitted (in Islam)."
+Say (O Muslims), "We believe in Allah and that which has been sent down to us and that which has been sent down to Ibrahim (Abraham), Isma'il (Ishmael), Ishaque (Isaac), Ya'qub (Jacob), and to Al-Asbat \[the twelve sons of Ya'qub (Jacob)\], and that which has been given to Musa (Moses) and 'Iesa (Jesus), and that which has been given to the Prophets from their Lord. We make no distinction between any of them, and to Him we have submitted (in Islam)."
 
 # 144
 
@@ -586,7 +586,7 @@ So if they believe in the like of that which you believe, then they are rightly 
 
 # 145
 
-[Our Sibghah (religion) is] the Sibghah (Religion) of Allah (Islam) and which Sibghah (religion) can be better than Allah's? And we are His worshippers. [Tafsir Ibn Kathir.]
+\[Our Sibghah (religion) is\] the Sibghah (Religion) of Allah (Islam) and which Sibghah (religion) can be better than Allah's? And we are His worshippers. \[Tafsir Ibn Kathir.\]
 
 # 146
 
@@ -594,7 +594,7 @@ Say (O Muhammad Peace be upon him to the Jews and Christians), "Dispute you with
 
 # 147
 
-Or say you that Ibrahim (Abraham), Isma'il (Ishmael), Ishaque (Isaac), Ya'qub (Jacob) and Al-Asbat [the twelve sons of Ya'qub (Jacob)] were Jews or Christians? Say, "Do you know better or does Allah (knows better that they all were Muslims)? And who is more unjust than he who conceals the testimony [i.e. to believe in Prophet Muhammad Peace be upon him when he comes, written in their Books. (See Verse 7:157)] he has from Allah? And Allah is not unaware of what you do."
+Or say you that Ibrahim (Abraham), Isma'il (Ishmael), Ishaque (Isaac), Ya'qub (Jacob) and Al-Asbat \[the twelve sons of Ya'qub (Jacob)\] were Jews or Christians? Say, "Do you know better or does Allah (knows better that they all were Muslims)? And who is more unjust than he who conceals the testimony \[i.e. to believe in Prophet Muhammad Peace be upon him when he comes, written in their Books. (See Verse 7:157)\] he has from Allah? And Allah is not unaware of what you do."
 
 # 148
 
@@ -602,11 +602,11 @@ That was a nation who has passed away. They shall receive the reward of what the
 
 # 149
 
-The fools (pagans, hypocrites, and Jews) among the people will say, "What has turned them (Muslims) from their Qiblah [prayer direction (towards Jerusalem)] to which they were used to face in prayer." Say, (O Muhammad SAW) "To Allah belong both, east and the west. He guides whom He wills to a Straight Way."
+The fools (pagans, hypocrites, and Jews) among the people will say, "What has turned them (Muslims) from their Qiblah \[prayer direction (towards Jerusalem)\] to which they were used to face in prayer." Say, (O Muhammad SAW) "To Allah belong both, east and the west. He guides whom He wills to a Straight Way."
 
 # 150
 
-Thus We have made you [true Muslims - real believers of Islamic Monotheism, true followers of Prophet Muhammad SAW and his Sunnah (legal ways)], a Wasat (just) (and the best) nation, that you be witnesses over mankind and the Messenger (Muhammad SAW) be a witness over you. And We made the Qiblah (prayer direction towards Jerusalem) which you used to face, only to test those who followed the Messenger (Muhammad SAW) from those who would turn on their heels (i.e. disobey the Messenger). Indeed it was great (heavy) except for those whom Allah guided. And Allah would never make your faith (prayers) to be lost (i.e. your prayers offered towards Jerusalem). Truly, Allah is full of kindness, the Most Merciful towards mankind.
+Thus We have made you \[true Muslims - real believers of Islamic Monotheism, true followers of Prophet Muhammad SAW and his Sunnah (legal ways)\], a Wasat (just) (and the best) nation, that you be witnesses over mankind and the Messenger (Muhammad SAW) be a witness over you. And We made the Qiblah (prayer direction towards Jerusalem) which you used to face, only to test those who followed the Messenger (Muhammad SAW) from those who would turn on their heels (i.e. disobey the Messenger). Indeed it was great (heavy) except for those whom Allah guided. And Allah would never make your faith (prayers) to be lost (i.e. your prayers offered towards Jerusalem). Truly, Allah is full of kindness, the Most Merciful towards mankind.
 
 # 151
 
@@ -618,7 +618,7 @@ And even if you were to bring to the people of the Scripture (Jews and Christian
 
 # 153
 
-Those to whom We gave the Scripture (Jews and Christians) recognise him (Muhammad SAW or the Ka'bah at Makkah) as they recongise their sons. But verily, a party of them conceal the truth while they know it - [i.e. the qualities of Muhammad SAW which are written in the Taurat (Torah) and the Injeel (Gospel)].
+Those to whom We gave the Scripture (Jews and Christians) recognise him (Muhammad SAW or the Ka'bah at Makkah) as they recongise their sons. But verily, a party of them conceal the truth while they know it - \[i.e. the qualities of Muhammad SAW which are written in the Taurat (Torah) and the Injeel (Gospel)\].
 
 # 154
 
@@ -710,7 +710,7 @@ O mankind! Eat of that which is lawful and good on the earth, and follow not the
 
 # 176
 
-[Shaitan (Satan)] commands you only what is evil and Fahsha (sinful), and that you should say against Allah what you know not.
+\[Shaitan (Satan)\] commands you only what is evil and Fahsha (sinful), and that you should say against Allah what you know not.
 
 # 177
 
@@ -770,11 +770,11 @@ O you who believe! Observing As-Saum (the fasting) is prescribed for you as it w
 
 # 191
 
-[Observing Saum (fasts)] for a fixed number of days, but if any of you is ill or on a journey, the same number (should be made up) from other days. And as for those who can fast with difficulty, (e.g. an old man, etc.), they have (a choice either to fast or) to feed a Miskin (poor person) (for every day). But whoever does good of his own accord, it is better for him. And that you fast, it is better for you if only you know.
+\[Observing Saum (fasts)\] for a fixed number of days, but if any of you is ill or on a journey, the same number (should be made up) from other days. And as for those who can fast with difficulty, (e.g. an old man, etc.), they have (a choice either to fast or) to feed a Miskin (poor person) (for every day). But whoever does good of his own accord, it is better for him. And that you fast, it is better for you if only you know.
 
 # 192
 
-The month of Ramadan in which was revealed the Quran, a guidance for mankind and clear proofs for the guidance and the criterion (between right and wrong). So whoever of you sights (the crescent on the first night of) the month (of Ramadan i.e. is present at his home), he must observe Saum (fasts) that month, and whoever is ill or on a journey, the same number [of days which one did not observe Saum (fasts) must be made up] from other days. Allah intends for you ease, and He does not want to make things difficult for you. (He wants that you) must complete the same number (of days), and that you must magnify Allah [i.e. to say Takbir (Allahu-Akbar; Allah is the Most Great) on seeing the crescent of the months of Ramadan and Shawwal] for having guided you so that you may be grateful to Him.
+The month of Ramadan in which was revealed the Quran, a guidance for mankind and clear proofs for the guidance and the criterion (between right and wrong). So whoever of you sights (the crescent on the first night of) the month (of Ramadan i.e. is present at his home), he must observe Saum (fasts) that month, and whoever is ill or on a journey, the same number \[of days which one did not observe Saum (fasts) must be made up\] from other days. Allah intends for you ease, and He does not want to make things difficult for you. (He wants that you) must complete the same number (of days), and that you must magnify Allah \[i.e. to say Takbir (Allahu-Akbar; Allah is the Most Great) on seeing the crescent of the months of Ramadan and Shawwal\] for having guided you so that you may be grateful to Him.
 
 # 193
 
@@ -782,7 +782,7 @@ And when My slaves ask you (O Muhammad SAW) concerning Me, then (answer them), I
 
 # 194
 
-It is made lawful for you to have sexual relations with your wives on the night of As-Saum (the fasts). They are Libas [i.e. body cover, or screen, or Sakan, (i.e. you enjoy the pleasure of living with her - as in Verse 7:189) Tafsir At-Tabari], for you and you are the same for them. Allah knows that you used to deceive yourselves, so He turned to you (accepted your repentance) and forgave you. So now have sexual relations with them and seek that which Allah has ordained for you (offspring), and eat and drink until the white thread (light) of dawn appears to you distinct from the black thread (darkness of night), then complete your Saum (fast) till the nightfall. And do not have sexual relations with them (your wives) while you are in I'tikaf (i.e. confining oneself in a mosque for prayers and invocations leaving the worldly activities) in the mosques. These are the limits (set) by Allah, so approach them not. Thus does Allah make clear His Ayat (proofs, evidences, lessons, signs, revelations, verses, laws, legal and illegal things, Allah's set limits, orders, etc.) to mankind that they may become Al-Muttaqun (the pious - see V. 2:2).
+It is made lawful for you to have sexual relations with your wives on the night of As-Saum (the fasts). They are Libas \[i.e. body cover, or screen, or Sakan, (i.e. you enjoy the pleasure of living with her - as in Verse 7:189) Tafsir At-Tabari\], for you and you are the same for them. Allah knows that you used to deceive yourselves, so He turned to you (accepted your repentance) and forgave you. So now have sexual relations with them and seek that which Allah has ordained for you (offspring), and eat and drink until the white thread (light) of dawn appears to you distinct from the black thread (darkness of night), then complete your Saum (fast) till the nightfall. And do not have sexual relations with them (your wives) while you are in I'tikaf (i.e. confining oneself in a mosque for prayers and invocations leaving the worldly activities) in the mosques. These are the limits (set) by Allah, so approach them not. Thus does Allah make clear His Ayat (proofs, evidences, lessons, signs, revelations, verses, laws, legal and illegal things, Allah's set limits, orders, etc.) to mankind that they may become Al-Muttaqun (the pious - see V. 2:2).
 
 # 195
 
@@ -794,7 +794,7 @@ They ask you (O Muhammad SAW) about the new moons. Say: These are signs to mark 
 
 # 197
 
-And fight in the Way of Allah those who fight you, but transgress not the limits. Truly, Allah likes not the transgressors. [This Verse is the first one that was revealed in connection with Jihad, but it was supplemented by another (V. 9:36)].
+And fight in the Way of Allah those who fight you, but transgress not the limits. Truly, Allah likes not the transgressors. \[This Verse is the first one that was revealed in connection with Jihad, but it was supplemented by another (V. 9:36)\].
 
 # 198
 
@@ -834,7 +834,7 @@ Then depart from the place whence all the people depart and ask Allah for His Fo
 
 # 207
 
-So when you have accomplished your Manasik [(i.e. Ihram, Tawaf of the Ka'bah and As-Safa and Al-Marwah), stay at 'Arafat, Muzdalifah and Mina, Ramy of Jamarat, (stoning of the specified pillars in Mina) slaughtering of Hady (animal, etc.)]. Remember Allah as you remember your forefathers or with a far more remembrance. But of mankind there are some who say: "Our Lord! Give us (Your Bounties) in this world!" and for such there will be no portion in the Hereafter.
+So when you have accomplished your Manasik \[(i.e. Ihram, Tawaf of the Ka'bah and As-Safa and Al-Marwah), stay at 'Arafat, Muzdalifah and Mina, Ramy of Jamarat, (stoning of the specified pillars in Mina) slaughtering of Hady (animal, etc.)\]. Remember Allah as you remember your forefathers or with a far more remembrance. But of mankind there are some who say: "Our Lord! Give us (Your Bounties) in this world!" and for such there will be no portion in the Hereafter.
 
 # 208
 
@@ -878,7 +878,7 @@ Do they then wait for anything other than that Allah should come to them in the 
 
 # 218
 
-Ask the Children of Israel how many clear Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) We gave them. And whoever changes Allah's Favour after it had come to him, [e.g. renounces the Religion of Allah (Islam) and accepts Kufr (disbelief),] then surely, Allah is Severe in punishment.
+Ask the Children of Israel how many clear Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) We gave them. And whoever changes Allah's Favour after it had come to him, \[e.g. renounces the Religion of Allah (Islam) and accepts Kufr (disbelief),\] then surely, Allah is Severe in punishment.
 
 # 219
 
@@ -986,7 +986,7 @@ And if you divorce them before you have touched (had a sexual relation with) the
 
 # 245
 
-Guard strictly (five obligatory) As-Salawat (the prayers) especially the middle Salat (i.e. the best prayer - 'Asr). And stand before Allah with obedience [and do not speak to others during the Salat (prayers)].
+Guard strictly (five obligatory) As-Salawat (the prayers) especially the middle Salat (i.e. the best prayer - 'Asr). And stand before Allah with obedience \[and do not speak to others during the Salat (prayers)\].
 
 # 246
 
@@ -994,7 +994,7 @@ And if you fear (an enemy), perfrom Salat (pray) on foot or riding. And when you
 
 # 247
 
-And those of you who die and leave behind wives should bequeath for their wives a year's maintenance and residence without turning them out, but if they (wives) leave, there is no sin on you for that which they do of themselves, provided it is honourable (e.g. lawful marriage). And Allah is All-Mighty, All-Wise. [The order of this Verse has been cancelled (abrogated) by Verse 4:12].
+And those of you who die and leave behind wives should bequeath for their wives a year's maintenance and residence without turning them out, but if they (wives) leave, there is no sin on you for that which they do of themselves, provided it is honourable (e.g. lawful marriage). And Allah is All-Mighty, All-Wise. \[The order of this Verse has been cancelled (abrogated) by Verse 4:12\].
 
 # 248
 
@@ -1038,7 +1038,7 @@ And when they advanced to meet Jalut (Goliath) and his forces, they invoked: "Ou
 
 # 258
 
-So they routed them by Allah's Leave and Dawud (David) killed Jalut (Goliath), and Allah gave him [Dawud (David)] the kingdom [after the death of Talut (Saul) and Samuel] and Al-Hikmah (Prophethood), and taught him of that which He willed. And if Allah did not check one set of people by means of another, the earth would indeed be full of mischief. But Allah is full of Bounty to the 'Alamin (mankind, jinns and all that exists).
+So they routed them by Allah's Leave and Dawud (David) killed Jalut (Goliath), and Allah gave him \[Dawud (David)\] the kingdom \[after the death of Talut (Saul) and Samuel\] and Al-Hikmah (Prophethood), and taught him of that which He willed. And if Allah did not check one set of people by means of another, the earth would indeed be full of mischief. But Allah is full of Bounty to the 'Alamin (mankind, jinns and all that exists).
 
 # 259
 
@@ -1046,7 +1046,7 @@ These are the Verses of Allah, We recite them to you (O Muhammad SAW) in truth, 
 
 # 260
 
-Those Messengers! We preferred some to others; to some of them Allah spoke (directly); others He raised to degrees (of honour); and to 'Iesa (Jesus), the son of Maryam (Mary), We gave clear proofs and evidences, and supported him with Ruh-ul-Qudus [Jibrael (Gabriel)]. If Allah had willed, succeeding generations would not have fought against each other, after clear Verses of Allah had come to them, but they differed - some of them believed and others disbelieved. If Allah had willed, they would not have fought against one another, but Allah does what He likes.
+Those Messengers! We preferred some to others; to some of them Allah spoke (directly); others He raised to degrees (of honour); and to 'Iesa (Jesus), the son of Maryam (Mary), We gave clear proofs and evidences, and supported him with Ruh-ul-Qudus \[Jibrael (Gabriel)\]. If Allah had willed, succeeding generations would not have fought against each other, after clear Verses of Allah had come to them, but they differed - some of them believed and others disbelieved. If Allah had willed, they would not have fought against one another, but Allah does what He likes.
 
 # 261
 
@@ -1054,7 +1054,7 @@ O you who believe! Spend of that with which We have provided for you, before a D
 
 # 262
 
-Allah! La ilaha illa Huwa (none has the right to be worshipped but He), the Ever Living, the One Who sustains and protects all that exists. Neither slumber, nor sleep overtake Him. To Him belongs whatever is in the heavens and whatever is on earth. Who is he that can intercede with Him except with His Permission? He knows what happens to them (His creatures) in this world, and what will happen to them in the Hereafter. And they will never compass anything of His Knowledge except that which He wills. His Kursi extends over the heavens and the earth, and He feels no fatigue in guarding and preserving them. And He is the Most High, the Most Great. [This Verse 2:255 is called Ayat-ul-Kursi.]
+Allah! La ilaha illa Huwa (none has the right to be worshipped but He), the Ever Living, the One Who sustains and protects all that exists. Neither slumber, nor sleep overtake Him. To Him belongs whatever is in the heavens and whatever is on earth. Who is he that can intercede with Him except with His Permission? He knows what happens to them (His creatures) in this world, and what will happen to them in the Hereafter. And they will never compass anything of His Knowledge except that which He wills. His Kursi extends over the heavens and the earth, and He feels no fatigue in guarding and preserving them. And He is the Most High, the Most Great. \[This Verse 2:255 is called Ayat-ul-Kursi.\]
 
 # 263
 
@@ -1062,7 +1062,7 @@ There is no compulsion in religion. Verily, the Right Path has become distinct f
 
 # 264
 
-Allah is the Wali (Protector or Guardian) of those who believe. He brings them out from darkness into light. But as for those who disbelieve, their Auliya (supporters and helpers) are Taghut [false deities and false leaders, etc.], they bring them out from light into darkness. Those are the dwellers of the Fire, and they will abide therein forever.
+Allah is the Wali (Protector or Guardian) of those who believe. He brings them out from darkness into light. But as for those who disbelieve, their Auliya (supporters and helpers) are Taghut \[false deities and false leaders, etc.\], they bring them out from light into darkness. Those are the dwellers of the Fire, and they will abide therein forever.
 
 # 265
 
@@ -1074,7 +1074,7 @@ Or like the one who passed by a town and it had tumbled over its roofs. He said:
 
 # 267
 
-And (remember) when Ibrahim (Abraham) said, "My Lord! Show me how You give life to the dead." He (Allah) said: "Do you not believe?" He [Ibrahim (Abraham)] said: "Yes (I believe), but to be stronger in Faith." He said: "Take four birds, then cause them to incline towards you (then slaughter them, cut them into pieces), and then put a portion of them on every hill, and call them, they will come to you in haste. And know that Allah is All-Mighty, All-Wise."
+And (remember) when Ibrahim (Abraham) said, "My Lord! Show me how You give life to the dead." He (Allah) said: "Do you not believe?" He \[Ibrahim (Abraham)\] said: "Yes (I believe), but to be stronger in Faith." He said: "Take four birds, then cause them to incline towards you (then slaughter them, cut them into pieces), and then put a portion of them on every hill, and call them, they will come to you in haste. And know that Allah is All-Mighty, All-Wise."
 
 # 268
 
@@ -1134,7 +1134,7 @@ Those who spend their wealth (in Allah's Cause) by night and day, in secret and 
 
 # 282
 
-Those who eat Riba (usury) will not stand (on the Day of Resurrection) except like the standing of a person beaten by Shaitan (Satan) leading him to insanity. That is because they say: "Trading is only like Riba (usury)," whereas Allah has permitted trading and forbidden Riba (usury). So whosoever receives an admonition from his Lord and stops eating Riba (usury) shall not be punished for the past; his case is for Allah (to judge); but whoever returns [to Riba (usury)], such are the dwellers of the Fire - they will abide therein.
+Those who eat Riba (usury) will not stand (on the Day of Resurrection) except like the standing of a person beaten by Shaitan (Satan) leading him to insanity. That is because they say: "Trading is only like Riba (usury)," whereas Allah has permitted trading and forbidden Riba (usury). So whosoever receives an admonition from his Lord and stops eating Riba (usury) shall not be punished for the past; his case is for Allah (to judge); but whoever returns \[to Riba (usury)\], such are the dwellers of the Fire - they will abide therein.
 
 # 283
 
@@ -1182,7 +1182,7 @@ Allah burdens not a person beyond his scope. He gets reward for that (good) whic
 
 # 294
 
-Alif-Lam-Mim. [These letters are one of the miracles of the Quran and none but Allah (Alone) knows their meanings].
+Alif-Lam-Mim. \[These letters are one of the miracles of the Quran and none but Allah (Alone) knows their meanings\].
 
 # 295
 
@@ -1194,7 +1194,7 @@ It is He Who has sent down the Book (the Quran) to you (Muhammad SAW) with truth
 
 # 297
 
-Aforetime, as a guidance to mankind, And He sent down the criterion [of judgement between right and wrong (this Quran)]. Truly, those who disbelieve in the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) of Allah, for them there is a severe torment; and Allah is All-Mighty, All-Able of Retribution.
+Aforetime, as a guidance to mankind, And He sent down the criterion \[of judgement between right and wrong (this Quran)\]. Truly, those who disbelieve in the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) of Allah, for them there is a severe torment; and Allah is All-Mighty, All-Able of Retribution.
 
 # 298
 
@@ -1206,7 +1206,7 @@ He it is Who shapes you in the wombs as He pleases. La ilaha illa Huwa (none has
 
 # 300
 
-It is He Who has sent down to you (Muhammad SAW) the Book (this Quran). In it are Verses that are entirely clear, they are the foundations of the Book [and those are the Verses of Al-Ahkam (commandments, etc.), Al-Fara'id (obligatory duties) and Al-Hudud (legal laws for the punishment of thieves, adulterers, etc.)]; and others not entirely clear. So as for those in whose hearts there is a deviation (from the truth) they follow that which is not entirely clear thereof, seeking Al-Fitnah (polytheism and trials, etc.), and seeking for its hidden meanings, but none knows its hidden meanings save Allah. And those who are firmly grounded in knowledge say: "We believe in it; the whole of it (clear and unclear Verses) are from our Lord." And none receive admonition except men of understanding. (Tafsir At-Tabari).
+It is He Who has sent down to you (Muhammad SAW) the Book (this Quran). In it are Verses that are entirely clear, they are the foundations of the Book \[and those are the Verses of Al-Ahkam (commandments, etc.), Al-Fara'id (obligatory duties) and Al-Hudud (legal laws for the punishment of thieves, adulterers, etc.)\]; and others not entirely clear. So as for those in whose hearts there is a deviation (from the truth) they follow that which is not entirely clear thereof, seeking Al-Fitnah (polytheism and trials, etc.), and seeking for its hidden meanings, but none knows its hidden meanings save Allah. And those who are firmly grounded in knowledge say: "We believe in it; the whole of it (clear and unclear Verses) are from our Lord." And none receive admonition except men of understanding. (Tafsir At-Tabari).
 
 # 301
 
@@ -1238,7 +1238,7 @@ Beautified for men is the love of things they covet; women, children, much of go
 
 # 308
 
-Say: "Shall I inform you of things far better than those? For Al-Muttaqun (the pious - see V. 2:2) there are Gardens (Paradise) with their Lord, underneath which rivers flow. Therein (is their) eternal (home) and Azwajun Mutahharatun (purified mates or wives) [i.e. they will have no menses, urine, or stool, etc.], And Allah will be pleased with them. And Allah is All-Seer of the (His) slaves".
+Say: "Shall I inform you of things far better than those? For Al-Muttaqun (the pious - see V. 2:2) there are Gardens (Paradise) with their Lord, underneath which rivers flow. Therein (is their) eternal (home) and Azwajun Mutahharatun (purified mates or wives) \[i.e. they will have no menses, urine, or stool, etc.\], And Allah will be pleased with them. And Allah is All-Seer of the (His) slaves".
 
 # 309
 
@@ -1246,7 +1246,7 @@ Those who say: "Our Lord! We have indeed believed, so forgive us our sins and sa
 
 # 310
 
-(They are) those who are patient ones, those who are true (in Faith, words, and deeds), and obedient with sincere devotion in worship to Allah. Those who spend [give the Zakat and alms in the Way of Allah] and those who pray and beg Allah's Pardon in the last hours of the night.
+(They are) those who are patient ones, those who are true (in Faith, words, and deeds), and obedient with sincere devotion in worship to Allah. Those who spend \[give the Zakat and alms in the Way of Allah\] and those who pray and beg Allah's Pardon in the last hours of the night.
 
 # 311
 
@@ -1322,7 +1322,7 @@ Offspring, one of the other, and Allah is the All-Hearer, All-Knower.
 
 # 329
 
-Then when she delivered her [child Maryam (Mary)], she said: "O my Lord! I have delivered a female child," - and Allah knew better what she delivered, - "And the male is not like the female, and I have named her Maryam (Mary), and I seek refuge with You (Allah) for her and for her offspring from Shaitan (Satan), the outcast."
+Then when she delivered her \[child Maryam (Mary)\], she said: "O my Lord! I have delivered a female child," - and Allah knew better what she delivered, - "And the male is not like the female, and I have named her Maryam (Mary), and I seek refuge with You (Allah) for her and for her offspring from Shaitan (Satan), the outcast."
 
 # 330
 
@@ -1334,7 +1334,7 @@ At that time Zakariya (Zachariya) invoked his Lord, saying: "O my Lord! Grant me
 
 # 332
 
-Then the angels called him, while he was standing in prayer in Al-Mihrab (a praying place or a private room), (saying): "Allah gives you glad tidings of Yahya (John), confirming (believing in) the Word from Allah [i.e. the creation of 'Iesa (Jesus), the Word from Allah ("Be!" - and he was!)], noble, keeping away from sexual relations with women, a Prophet, from among the righteous."
+Then the angels called him, while he was standing in prayer in Al-Mihrab (a praying place or a private room), (saying): "Allah gives you glad tidings of Yahya (John), confirming (believing in) the Word from Allah \[i.e. the creation of 'Iesa (Jesus), the Word from Allah ("Be!" - and he was!)\], noble, keeping away from sexual relations with women, a Prophet, from among the righteous."
 
 # 333
 
@@ -1358,7 +1358,7 @@ This is a part of the news of the Ghaib (unseen, i.e. the news of the past natio
 
 # 338
 
-(Remember) when the angels said: "O Maryam (Mary)! Verily, Allah gives you the glad tidings of a Word ["Be!" - and he was! i.e. 'Iesa (Jesus) the son of Maryam (Mary)] from Him, his name will be the Messiah 'Iesa (Jesus), the son of Maryam (Mary), held in honour in this world and in the Hereafter, and will be one of those who are near to Allah."
+(Remember) when the angels said: "O Maryam (Mary)! Verily, Allah gives you the glad tidings of a Word \["Be!" - and he was! i.e. 'Iesa (Jesus) the son of Maryam (Mary)\] from Him, his name will be the Messiah 'Iesa (Jesus), the son of Maryam (Mary), held in honour in this world and in the Hereafter, and will be one of those who are near to Allah."
 
 # 339
 
@@ -1370,11 +1370,11 @@ She said: "O my Lord! How shall I have a son when no man has touched me." He sai
 
 # 341
 
-And He (Allah) will teach him ['Iesa (Jesus)] the Book and Al-Hikmah (i.e. the Sunnah, the faultless speech of the Prophets, wisdom, etc.), (and) the Taurat (Torah) and the Injeel (Gospel).
+And He (Allah) will teach him \['Iesa (Jesus)\] the Book and Al-Hikmah (i.e. the Sunnah, the faultless speech of the Prophets, wisdom, etc.), (and) the Taurat (Torah) and the Injeel (Gospel).
 
 # 342
 
-And will make him ['Iesa (Jesus)] a Messenger to the Children of Israel (saying): "I have come to you with a sign from your Lord, that I design for you out of clay, as it were, the figure of a bird, and breathe into it, and it becomes a bird by Allah's Leave; and I heal him who was born blind, and the leper, and I bring the dead to life by Allah's Leave. And I inform you of what you eat, and what you store in your houses. Surely, therein is a sign for you, if you believe.
+And will make him \['Iesa (Jesus)\] a Messenger to the Children of Israel (saying): "I have come to you with a sign from your Lord, that I design for you out of clay, as it were, the figure of a bird, and breathe into it, and it becomes a bird by Allah's Leave; and I heal him who was born blind, and the leper, and I bring the dead to life by Allah's Leave. And I inform you of what you eat, and what you store in your houses. Surely, therein is a sign for you, if you believe.
 
 # 343
 
@@ -1390,15 +1390,15 @@ Then when 'Iesa (Jesus) came to know of their disbelief, he said: "Who will be m
 
 # 346
 
-Our Lord! We believe in what You have sent down, and we follow the Messenger ['Iesa (Jesus)]; so write us down among those who bear witness (to the truth i.e. La ilaha ill-Allah - none has the right to be worshipped but Allah).
+Our Lord! We believe in what You have sent down, and we follow the Messenger \['Iesa (Jesus)\]; so write us down among those who bear witness (to the truth i.e. La ilaha ill-Allah - none has the right to be worshipped but Allah).
 
 # 347
 
-And they (disbelievers) plotted [to kill 'Iesa (Jesus)], and Allah planned too. And Allah is the Best of the planners.
+And they (disbelievers) plotted \[to kill 'Iesa (Jesus)\], and Allah planned too. And Allah is the Best of the planners.
 
 # 348
 
-And (remember) when Allah said: "O 'Iesa (Jesus)! I will take you and raise you to Myself and clear you [of the forged statement that 'Iesa (Jesus) is Allah's son] of those who disbelieve, and I will make those who follow you (Monotheists, who worship none but Allah) superior to those who disbelieve [in the Oneness of Allah, or disbelieve in some of His Messengers, e.g. Muhammad SAW, 'Iesa (Jesus), Musa (Moses), etc., or in His Holy Books, e.g. the Taurat (Torah), the Injeel (Gospel), the Quran] till the Day of Resurrection. Then you will return to Me and I will judge between you in the matters in which you used to dispute."
+And (remember) when Allah said: "O 'Iesa (Jesus)! I will take you and raise you to Myself and clear you \[of the forged statement that 'Iesa (Jesus) is Allah's son\] of those who disbelieve, and I will make those who follow you (Monotheists, who worship none but Allah) superior to those who disbelieve \[in the Oneness of Allah, or disbelieve in some of His Messengers, e.g. Muhammad SAW, 'Iesa (Jesus), Musa (Moses), etc., or in His Holy Books, e.g. the Taurat (Torah), the Injeel (Gospel), the Quran\] till the Day of Resurrection. Then you will return to Me and I will judge between you in the matters in which you used to dispute."
 
 # 349
 
@@ -1422,11 +1422,11 @@ Verily, the likeness of 'Iesa (Jesus) before Allah is the likeness of Adam. He c
 
 # 354
 
-Then whoever disputes with you concerning him ['Iesa (Jesus)] after (all this) knowledge that has come to you, [i.e. 'Iesa (Jesus)] being a slave of Allah, and having no share in Divinity) say: (O Muhammad SAW) "Come, let us call our sons and your sons, our women and your women, ourselves and yourselves - then we pray and invoke (sincerely) the Curse of Allah upon those who lie."
+Then whoever disputes with you concerning him \['Iesa (Jesus)\] after (all this) knowledge that has come to you, \[i.e. 'Iesa (Jesus)\] being a slave of Allah, and having no share in Divinity) say: (O Muhammad SAW) "Come, let us call our sons and your sons, our women and your women, ourselves and yourselves - then we pray and invoke (sincerely) the Curse of Allah upon those who lie."
 
 # 355
 
-Verily! This is the true narrative [about the story of 'Iesa (Jesus)], and, La ilaha ill-Allah (none has the right to be worshipped but Allah, the One and the Only True God, Who has neither a wife nor a son). And indeed, Allah is the All-Mighty, the All-Wise.
+Verily! This is the true narrative \[about the story of 'Iesa (Jesus)\], and, La ilaha ill-Allah (none has the right to be worshipped but Allah, the One and the Only True God, Who has neither a wife nor a son). And indeed, Allah is the All-Mighty, the All-Wise.
 
 # 356
 
@@ -1458,7 +1458,7 @@ A party of the people of the Scripture (Jews and Christians) wish to lead you as
 
 # 363
 
-O people of the Scripture! (Jews and Christians): "Why do you disbelieve in the Ayat of Allah, [the Verses about Prophet Muhammad SAW present in the Taurat (Torah) and the Injeel (Gospel)] while you (yourselves) bear witness (to their truth)."
+O people of the Scripture! (Jews and Christians): "Why do you disbelieve in the Ayat of Allah, \[the Verses about Prophet Muhammad SAW present in the Taurat (Torah) and the Injeel (Gospel)\] while you (yourselves) bear witness (to their truth)."
 
 # 364
 
@@ -1514,7 +1514,7 @@ Do they seek other than the religion of Allah (the true Islamic Monotheism worsh
 
 # 377
 
-Say (O Muhammad SAW): "We believe in Allah and in what has been sent down to us, and what was sent down to Ibrahim (Abraham), Isma'il (Ishmael), Ishaque (Isaac), Ya'qub (Jacob) and Al-Asbat [the twelve sons of Ya'qub (Jacob)] and what was given to Musa (Moses), 'Iesa (Jesus) and the Prophets from their Lord. We make no distinction between one another among them and to Him (Allah) we have submitted (in Islam)."
+Say (O Muhammad SAW): "We believe in Allah and in what has been sent down to us, and what was sent down to Ibrahim (Abraham), Isma'il (Ishmael), Ishaque (Isaac), Ya'qub (Jacob) and Al-Asbat \[the twelve sons of Ya'qub (Jacob)\] and what was given to Musa (Moses), 'Iesa (Jesus) and the Prophets from their Lord. We make no distinction between one another among them and to Him (Allah) we have submitted (in Islam)."
 
 # 378
 
@@ -1538,7 +1538,7 @@ Except for those who repent after that and do righteous deeds. Verily, Allah is 
 
 # 383
 
-Verily, those who disbelieved after their Belief and then went on increasing in their disbelief (i.e. disbelief in the Quran and in Prophet Muhammad SAW) - never will their repentance be accepted [because they repent only by their tongues and not from their hearts]. And they are those who are astray.
+Verily, those who disbelieved after their Belief and then went on increasing in their disbelief (i.e. disbelief in the Quran and in Prophet Muhammad SAW) - never will their repentance be accepted \[because they repent only by their tongues and not from their hearts\]. And they are those who are astray.
 
 # 384
 
@@ -1566,7 +1566,7 @@ Verily, the first House (of worship) appointed for mankind was that at Bakkah (M
 
 # 390
 
-In it are manifest signs (for example), the Maqam (place) of Ibrahim (Abraham); whosoever enters it, he attains security. And Hajj (pilgrimage to Makkah) to the House (Ka'bah) is a duty that mankind owes to Allah, those who can afford the expenses (for one's conveyance, provision and residence); and whoever disbelieves [i.e. denies Hajj (pilgrimage to Makkah), then he is a disbeliever of Allah], then Allah stands not in need of any of the 'Alamin (mankind and jinns).
+In it are manifest signs (for example), the Maqam (place) of Ibrahim (Abraham); whosoever enters it, he attains security. And Hajj (pilgrimage to Makkah) to the House (Ka'bah) is a duty that mankind owes to Allah, those who can afford the expenses (for one's conveyance, provision and residence); and whoever disbelieves \[i.e. denies Hajj (pilgrimage to Makkah), then he is a disbeliever of Allah\], then Allah stands not in need of any of the 'Alamin (mankind and jinns).
 
 # 391
 
@@ -1574,7 +1574,7 @@ Say: "O people of the Scripture (Jews and Christians)! Why do you reject the Aya
 
 # 392
 
-Say: "O people of the Scripture (Jews and Christians)! Why do you stop those who have believed, from the Path of Allah, seeking to make it seem crooked, while you (yourselves) are witnesses [to Muhammad SAW as a Messenger of Allah and Islam (Allah's Religion, i.e. to worship none but Him Alone)]? And Allah is not unaware of what you do."
+Say: "O people of the Scripture (Jews and Christians)! Why do you stop those who have believed, from the Path of Allah, seeking to make it seem crooked, while you (yourselves) are witnesses \[to Muhammad SAW as a Messenger of Allah and Islam (Allah's Religion, i.e. to worship none but Him Alone)\]? And Allah is not unaware of what you do."
 
 # 393
 
@@ -1586,7 +1586,7 @@ And how would you disbelieve, while unto you are recited the Verses of Allah, an
 
 # 395
 
-O you who believe! Fear Allah (by doing all that He has ordered and by abstaining from all that He has forbidden) as He should be feared. [Obey Him, be thankful to Him, and remember Him always], and die not except in a state of Islam (as Muslims) with complete submission to Allah.
+O you who believe! Fear Allah (by doing all that He has ordered and by abstaining from all that He has forbidden) as He should be feared. \[Obey Him, be thankful to Him, and remember Him always\], and die not except in a state of Islam (as Muslims) with complete submission to Allah.
 
 # 396
 
@@ -1618,7 +1618,7 @@ And to Allah belongs all that is in the heavens and all that is in the earth. An
 
 # 403
 
-You [true believers in Islamic Monotheism, and real followers of Prophet Muhammad SAW and his Sunnah (legal ways, etc.)] are the best of peoples ever raised up for mankind; you enjoin Al-Ma'ruf (i.e. Islamic Monotheism and all that Islam has ordained) and forbid Al-Munkar (polytheism, disbelief and all that Islam has forbidden), and you believe in Allah. And had the people of the Scripture (Jews and Christians) believed, it would have been better for them; among them are some who have faith, but most of them are Al-Fasiqun (disobedient to Allah - and rebellious against Allah's Command).
+You \[true believers in Islamic Monotheism, and real followers of Prophet Muhammad SAW and his Sunnah (legal ways, etc.)\] are the best of peoples ever raised up for mankind; you enjoin Al-Ma'ruf (i.e. Islamic Monotheism and all that Islam has ordained) and forbid Al-Munkar (polytheism, disbelief and all that Islam has forbidden), and you believe in Allah. And had the people of the Scripture (Jews and Christians) believed, it would have been better for them; among them are some who have faith, but most of them are Al-Fasiqun (disobedient to Allah - and rebellious against Allah's Command).
 
 # 404
 
@@ -1654,7 +1654,7 @@ O you who believe! Take not as (your) Bitanah (advisors, consultants, protectors
 
 # 412
 
-Lo! You are the ones who love them but they love you not, and you believe in all the Scriptures [i.e. you believe in the Taurat (Torah) and the Injeel (Gospel), while they disbelieve in your Book, the Quran]. And when they meet you, they say, "We believe". But when they are alone, they bite the tips of their fingers at you in rage. Say: "Perish in your rage. Certainly, Allah knows what is in the breasts (all the secrets)."
+Lo! You are the ones who love them but they love you not, and you believe in all the Scriptures \[i.e. you believe in the Taurat (Torah) and the Injeel (Gospel), while they disbelieve in your Book, the Quran\]. And when they meet you, they say, "We believe". But when they are alone, they bite the tips of their fingers at you in rage. Say: "Perish in your rage. Certainly, Allah knows what is in the breasts (all the secrets)."
 
 # 413
 
@@ -1670,7 +1670,7 @@ When two parties from among you were about to lose heart, but Allah was their Wa
 
 # 416
 
-And Allah has already made you victorious at Badr, when you were a weak little force. So fear Allah much [abstain from all kinds of sins and evil deeds which He has forbidden and love Allah much, perform all kinds of good deeds which He has ordained] that you may be grateful.
+And Allah has already made you victorious at Badr, when you were a weak little force. So fear Allah much \[abstain from all kinds of sins and evil deeds which He has forbidden and love Allah much, perform all kinds of good deeds which He has ordained\] that you may be grateful.
 
 # 417
 
@@ -1714,7 +1714,7 @@ And march forth in the way (which leads to) forgiveness from your Lord, and for 
 
 # 427
 
-Those who spend [in Allah's Cause - deeds of charity, alms, etc.] in prosperity and in adversity, who repress anger, and who pardon men; verily, Allah loves Al-Muhsinun (the good-doers).
+Those who spend \[in Allah's Cause - deeds of charity, alms, etc.\] in prosperity and in adversity, who repress anger, and who pardon men; verily, Allah loves Al-Muhsinun (the good-doers).
 
 # 428
 
@@ -1834,7 +1834,7 @@ They are in varying grades with Allah, and Allah is All-Seer of what they do.
 
 # 457
 
-Indeed Allah conferred a great favour on the believers when He sent among them a Messenger (Muhammad SAW) from among themselves, reciting unto them His Verses (the Quran), and purifying them (from sins by their following him), and instructing them (in) the Book (the Quran) and Al-Hikmah [the wisdom and the Sunnah of the Prophet SAW (i.e. his legal ways, statements, acts of worship, etc.)], while before that they had been in manifest error.
+Indeed Allah conferred a great favour on the believers when He sent among them a Messenger (Muhammad SAW) from among themselves, reciting unto them His Verses (the Quran), and purifying them (from sins by their following him), and instructing them (in) the Book (the Quran) and Al-Hikmah \[the wisdom and the Sunnah of the Prophet SAW (i.e. his legal ways, statements, acts of worship, etc.)\], while before that they had been in manifest error.
 
 # 458
 
@@ -1878,7 +1878,7 @@ So they returned with Grace and Bounty from Allah. No harm touched them; and the
 
 # 468
 
-It is only Shaitan (Satan) that suggests to you the fear of his Auliya' [supporters and friends (polytheists, disbelievers in the Oneness of Allah and in His Messenger, Muhammad SAW)], so fear them not, but fear Me, if you are (true) believers.
+It is only Shaitan (Satan) that suggests to you the fear of his Auliya' \[supporters and friends (polytheists, disbelievers in the Oneness of Allah and in His Messenger, Muhammad SAW)\], so fear them not, but fear Me, if you are (true) believers.
 
 # 469
 
@@ -1922,7 +1922,7 @@ Everyone shall taste death. And only on the Day of Resurrection shall you be pai
 
 # 479
 
-You shall certainly be tried and tested in your wealth and properties and in your personal selves, and you shall certainly hear much that will grieve you from those who received the Scripture before you (Jews and Christians) and from those who ascribe partners to Allah, but if you persevere patiently, and become Al-Muttaqun (the pious - see V. 2:2) then verily, that will be a determining factor in all affairs, and that is from the great matters, [which you must hold on with all your efforts].
+You shall certainly be tried and tested in your wealth and properties and in your personal selves, and you shall certainly hear much that will grieve you from those who received the Scripture before you (Jews and Christians) and from those who ascribe partners to Allah, but if you persevere patiently, and become Al-Muttaqun (the pious - see V. 2:2) then verily, that will be a determining factor in all affairs, and that is from the great matters, \[which you must hold on with all your efforts\].
 
 # 480
 
@@ -1982,7 +1982,7 @@ O you who believe! Endure and be more patient (than your enemy), and guard your 
 
 # 494
 
-O mankind! Be dutiful to your Lord, Who created you from a single person (Adam), and from him (Adam) He created his wife [Hawwa (Eve)], and from them both He created many men and women and fear Allah through Whom you demand your mutual (rights), and (do not cut the relations of) the wombs (kinship). Surely, Allah is Ever an All-Watcher over you.
+O mankind! Be dutiful to your Lord, Who created you from a single person (Adam), and from him (Adam) He created his wife \[Hawwa (Eve)\], and from them both He created many men and women and fear Allah through Whom you demand your mutual (rights), and (do not cut the relations of) the wombs (kinship). Surely, Allah is Ever an All-Watcher over you.
 
 # 495
 
@@ -2130,7 +2130,7 @@ Those who are miserly and enjoin miserliness on other men and hide what Allah ha
 
 # 531
 
-And (also) those who spend of their substance to be seen of men, and believe not in Allah and the Last Day [they are the friends of Shaitan (Satan)], and whoever takes Shaitan (Satan) as an intimate; then what a dreadful intimate he has!
+And (also) those who spend of their substance to be seen of men, and believe not in Allah and the Last Day \[they are the friends of Shaitan (Satan)\], and whoever takes Shaitan (Satan) as an intimate; then what a dreadful intimate he has!
 
 # 532
 
@@ -2206,7 +2206,7 @@ Surely! Those who disbelieved in Our Ayat (proofs, evidences, verses, lessons, s
 
 # 550
 
-But those who believe (in the Oneness of Allah - Islamic Monotheism) and do deeds of righteousness, We shall admit them to Gardens under which rivers flow (Paradise), abiding therein forever. Therein they shall have Azwajun Mutahharatun [purified mates or wives (having no menses, stools, urine, etc.)] and We shall admit them to shades wide and ever deepening (Paradise).
+But those who believe (in the Oneness of Allah - Islamic Monotheism) and do deeds of righteousness, We shall admit them to Gardens under which rivers flow (Paradise), abiding therein forever. Therein they shall have Azwajun Mutahharatun \[purified mates or wives (having no menses, stools, urine, etc.)\] and We shall admit them to shades wide and ever deepening (Paradise).
 
 # 551
 
@@ -2386,7 +2386,7 @@ And when you (Muslims) travel in the land, there is no sin on you if you shorten
 
 # 595
 
-When you (O Messenger Muhammad SAW) are among them, and lead them in As-Salat (the prayer), let one party of them stand up [in Salat (prayer)] with you taking their arms with them; when they finish their prostrations, let them take their positions in the rear and let the other party come up which has not yet prayed, and let them pray with you taking all the precautions and bearing arms. Those who disbelieve wish, if you were negligent of your arms and your baggage, to attack you in a single rush, but there is no sin on you if you put away your arms because of the inconvenience of rain or because you are ill, but take every precaution for yourselves. Verily, Allah has prepared a humiliating torment for the disbelievers.
+When you (O Messenger Muhammad SAW) are among them, and lead them in As-Salat (the prayer), let one party of them stand up \[in Salat (prayer)\] with you taking their arms with them; when they finish their prostrations, let them take their positions in the rear and let the other party come up which has not yet prayed, and let them pray with you taking all the precautions and bearing arms. Those who disbelieve wish, if you were negligent of your arms and your baggage, to attack you in a single rush, but there is no sin on you if you put away your arms because of the inconvenience of rain or because you are ill, but take every precaution for yourselves. Verily, Allah has prepared a humiliating torment for the disbelievers.
 
 # 596
 
@@ -2450,7 +2450,7 @@ They (all those who worship others than Allah) invoke nothing but female deities
 
 # 611
 
-Allah cursed him. And he [Shaitan (Satan)] said: "I will take an appointed portion of your slaves;
+Allah cursed him. And he \[Shaitan (Satan)\] said: "I will take an appointed portion of your slaves;
 
 # 612
 
@@ -2458,7 +2458,7 @@ Verily, I will mislead them, and surely, I will arouse in them false desires; an
 
 # 613
 
-He [Shaitan (Satan)] makes promises to them, and arouses in them false desires; and Shaitan's (Satan) promises are nothing but deceptions.
+He \[Shaitan (Satan)\] makes promises to them, and arouses in them false desires; and Shaitan's (Satan) promises are nothing but deceptions.
 
 # 614
 
@@ -2606,15 +2606,15 @@ And because of their (Jews) disbelief and uttering against Maryam (Mary) a grave
 
 # 650
 
-And because of their saying (in boast), "We killed Messiah 'Iesa (Jesus), son of Maryam (Mary), the Messenger of Allah," - but they killed him not, nor crucified him, but the resemblance of 'Iesa (Jesus) was put over another man (and they killed that man), and those who differ therein are full of doubts. They have no (certain) knowledge, they follow nothing but conjecture. For surely; they killed him not [i.e. 'Iesa (Jesus), son of Maryam (Mary)]:
+And because of their saying (in boast), "We killed Messiah 'Iesa (Jesus), son of Maryam (Mary), the Messenger of Allah," - but they killed him not, nor crucified him, but the resemblance of 'Iesa (Jesus) was put over another man (and they killed that man), and those who differ therein are full of doubts. They have no (certain) knowledge, they follow nothing but conjecture. For surely; they killed him not \[i.e. 'Iesa (Jesus), son of Maryam (Mary)\]:
 
 # 651
 
-But Allah raised him ['Iesa (Jesus)] up (with his body and soul) unto Himself (and he is in the heavens). And Allah is Ever All-Powerful, All-Wise.
+But Allah raised him \['Iesa (Jesus)\] up (with his body and soul) unto Himself (and he is in the heavens). And Allah is Ever All-Powerful, All-Wise.
 
 # 652
 
-And there is none of the people of the Scripture (Jews and Christians), but must believe in him ['Iesa (Jesus), son of Maryam (Mary), as only a Messenger of Allah and a human being], before his ['Iesa (Jesus) or a Jew's or a Christian's] death (at the time of the appearance of the angel of death). And on the Day of Resurrection, he ['Iesa (Jesus)] will be a witness against them.
+And there is none of the people of the Scripture (Jews and Christians), but must believe in him \['Iesa (Jesus), son of Maryam (Mary), as only a Messenger of Allah and a human being\], before his \['Iesa (Jesus) or a Jew's or a Christian's\] death (at the time of the appearance of the angel of death). And on the Day of Resurrection, he \['Iesa (Jesus)\] will be a witness against them.
 
 # 653
 
@@ -2630,7 +2630,7 @@ But those among them who are well-grounded in knowledge, and the believers, beli
 
 # 656
 
-Verily, We have inspired you (O Muhammad SAW) as We inspired Nuh (Noah) and the Prophets after him; We (also) inspired Ibrahim (Abraham), Isma'il (Ishmael), Ishaque (Isaac), Ya'qub (Jacob), and Al-Asbat [the twelve sons of Ya'qub (Jacob)], 'Iesa (Jesus), Ayub (Job), Yunus (Jonah), Harun (Aaron), and Sulaiman (Solomon), and to Dawud (David) We gave the Zabur (Psalms).
+Verily, We have inspired you (O Muhammad SAW) as We inspired Nuh (Noah) and the Prophets after him; We (also) inspired Ibrahim (Abraham), Isma'il (Ishmael), Ishaque (Isaac), Ya'qub (Jacob), and Al-Asbat \[the twelve sons of Ya'qub (Jacob)\], 'Iesa (Jesus), Ayub (Job), Yunus (Jonah), Harun (Aaron), and Sulaiman (Solomon), and to Dawud (David) We gave the Zabur (Psalms).
 
 # 657
 
@@ -2646,11 +2646,11 @@ But Allah bears witness to that which He has sent down (the Quran) unto you (O M
 
 # 660
 
-Verily, those who disbelieve [by concealing the truth about Prophet Muhammad SAW and his message of true Islamic Monotheism written with them in the Taurat (Torah) and the Injeel (Gospel)] and prevent (mankind) from the Path of Allah (Islamic Monotheism), they have certainly strayed far away. (Tafsir Al-Qurtubi). (See V. 7:157)
+Verily, those who disbelieve \[by concealing the truth about Prophet Muhammad SAW and his message of true Islamic Monotheism written with them in the Taurat (Torah) and the Injeel (Gospel)\] and prevent (mankind) from the Path of Allah (Islamic Monotheism), they have certainly strayed far away. (Tafsir Al-Qurtubi). (See V. 7:157)
 
 # 661
 
-Verily, those who disbelieve and did wrong [by concealing the truth about Prophet Muhammad SAW and his message of true Islamic Monotheism written with them in the Taurat (Torah) and the Injeel (Gospel)], Allah will not forgive them, nor will He guide them to any way, - (Tafsir Al-Qurtubi).
+Verily, those who disbelieve and did wrong \[by concealing the truth about Prophet Muhammad SAW and his message of true Islamic Monotheism written with them in the Taurat (Torah) and the Injeel (Gospel)\], Allah will not forgive them, nor will He guide them to any way, - (Tafsir Al-Qurtubi).
 
 # 662
 
@@ -2690,7 +2690,7 @@ O you who believe! Fulfill (your) obligations. Lawful to you (for food) are all 
 
 # 671
 
-O you who believe! Violate not the sanctity of the Symbols of Allah, nor of the Sacred Month, nor of the animals brought for sacrifice, nor the garlanded people or animals, etc. [Marked by the garlands on their necks made from the outer part of the tree-stems (of Makkah) for their security], nor the people coming to the Sacred House (Makkah), seeking the bounty and good pleasure of their Lord. But when you finish the Ihram (of Hajj or 'Umrah), you may hunt, and let not the hatred of some people in (once) stopping you from Al-Masjid-al-Haram (at Makkah) lead you to transgression (and hostility on your part). Help you one another in Al-Birr and At-Taqwa (virtue, righteousness and piety); but do not help one another in sin and transgression. And fear Allah. Verily, Allah is Severe in punishment.
+O you who believe! Violate not the sanctity of the Symbols of Allah, nor of the Sacred Month, nor of the animals brought for sacrifice, nor the garlanded people or animals, etc. \[Marked by the garlands on their necks made from the outer part of the tree-stems (of Makkah) for their security\], nor the people coming to the Sacred House (Makkah), seeking the bounty and good pleasure of their Lord. But when you finish the Ihram (of Hajj or 'Umrah), you may hunt, and let not the hatred of some people in (once) stopping you from Al-Masjid-al-Haram (at Makkah) lead you to transgression (and hostility on your part). Help you one another in Al-Birr and At-Taqwa (virtue, righteousness and piety); but do not help one another in sin and transgression. And fear Allah. Verily, Allah is Severe in punishment.
 
 # 672
 
@@ -2698,11 +2698,11 @@ Forbidden to you (for food) are: Al-Maytatah (the dead animals - cattle-beast no
 
 # 673
 
-They ask you (O Muhammad SAW) what is lawful for them (as food). Say: "Lawful unto you are At-Tayyibat [all kind of Halal (lawful-good) foods which Allah has made lawful (meat of slaughtered eatable animals, milk products, fats, vegetables and fruits, etc.)]. And those beasts and birds of prey which you have trained as hounds, training and teaching them (to catch) in the manner as directed to you by Allah; so eat of what they catch for you, but pronounce the Name of Allah over it, and fear Allah. Verily, Allah is Swift in reckoning."
+They ask you (O Muhammad SAW) what is lawful for them (as food). Say: "Lawful unto you are At-Tayyibat \[all kind of Halal (lawful-good) foods which Allah has made lawful (meat of slaughtered eatable animals, milk products, fats, vegetables and fruits, etc.)\]. And those beasts and birds of prey which you have trained as hounds, training and teaching them (to catch) in the manner as directed to you by Allah; so eat of what they catch for you, but pronounce the Name of Allah over it, and fear Allah. Verily, Allah is Swift in reckoning."
 
 # 674
 
-Made lawful to you this day are At-Tayyibat [all kinds of Halal (lawful) foods, which Allah has made lawful (meat of slaughtered eatable animals, etc., milk products, fats, vegetables and fruits, etc.). The food (slaughtered cattle, eatable animals, etc.) of the people of the Scripture (Jews and Christians) is lawful to you and yours is lawful to them. (Lawful to you in marriage) are chaste women from the believers and chaste women from those who were given the Scripture (Jews and Christians) before your time, when you have given their due Mahr (bridal money given by the husband to his wife at the time of marriage), desiring chastity (i.e. taking them in legal wedlock) not committing illegal sexual intercourse, nor taking them as girl-friends. And whosoever disbelieves in the Oneness of Allah and in all the other Articles of Faith [i.e. His (Allah's), Angels, His Holy Books, His Messengers, the Day of Resurrection and Al-Qadar (Divine Preordainments)], then fruitless is his work, and in the Hereafter he will be among the losers.
+Made lawful to you this day are At-Tayyibat \[all kinds of Halal (lawful) foods, which Allah has made lawful (meat of slaughtered eatable animals, etc., milk products, fats, vegetables and fruits, etc.). The food (slaughtered cattle, eatable animals, etc.) of the people of the Scripture (Jews and Christians) is lawful to you and yours is lawful to them. (Lawful to you in marriage) are chaste women from the believers and chaste women from those who were given the Scripture (Jews and Christians) before your time, when you have given their due Mahr (bridal money given by the husband to his wife at the time of marriage), desiring chastity (i.e. taking them in legal wedlock) not committing illegal sexual intercourse, nor taking them as girl-friends. And whosoever disbelieves in the Oneness of Allah and in all the other Articles of Faith \[i.e. His (Allah's), Angels, His Holy Books, His Messengers, the Day of Resurrection and Al-Qadar (Divine Preordainments)\], then fruitless is his work, and in the Hereafter he will be among the losers.
 
 # 675
 
@@ -2774,7 +2774,7 @@ They said: "O Musa (Moses)! In it (this holy land) are a people of great strengt
 
 # 692
 
-Two men of those who feared (Allah and) on whom Allah had bestowed His Grace [they were Yusha' (Joshua) and Kalab (Caleb)] said: "Assault them through the gate, for when you are in, victory will be yours, and put your trust in Allah if you are believers indeed."
+Two men of those who feared (Allah and) on whom Allah had bestowed His Grace \[they were Yusha' (Joshua) and Kalab (Caleb)\] said: "Assault them through the gate, for when you are in, victory will be yours, and put your trust in Allah if you are believers indeed."
 
 # 693
 
@@ -2782,7 +2782,7 @@ They said: "O Musa (Moses)! We shall never enter it as long as they are there. S
 
 # 694
 
-He [Musa (Moses)] said: "O my Lord! I have power only over myself and my brother, so separate us from the people who are the Fasiqun (rebellious and disobedient to Allah)!"
+He \[Musa (Moses)\] said: "O my Lord! I have power only over myself and my brother, so separate us from the people who are the Fasiqun (rebellious and disobedient to Allah)!"
 
 # 695
 
@@ -2790,7 +2790,7 @@ He [Musa (Moses)] said: "O my Lord! I have power only over myself and my brother
 
 # 696
 
-And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam [Habil (Abel) and Qabil (Cain)] in truth; when each offered a sacrifice (to Allah), it was accepted from the one but not from the other. The latter said to the former: "I will surely kill you." The former said: "Verily, Allah accepts only from those who are Al-Muttaqun (the pious - see V. 2:2)."
+And (O Muhammad SAW) recite to them (the Jews) the story of the two sons of Adam \[Habil (Abel) and Qabil (Cain)\] in truth; when each offered a sacrifice (to Allah), it was accepted from the one but not from the other. The latter said to the former: "I will surely kill you." The former said: "Verily, Allah accepts only from those who are Al-Muttaqun (the pious - see V. 2:2)."
 
 # 697
 
@@ -2846,7 +2846,7 @@ Know you not that to Allah (Alone) belongs the dominion of the heavens and the e
 
 # 710
 
-O Messenger (Muhammad SAW)! Let not those who hurry to fall into disbelief grieve you, of such who say: "We believe" with their mouths but their hearts have no faith. And of the Jews are men who listen much and eagerly to lies - listen to others who have not come to you. They change the words from their places; they say, "If you are given this, take it, but if you are not given this, then beware!" And whomsoever Allah wants to put in Al-Fitnah [error, because of his rejecting the Faith], you can do nothing for him against Allah. Those are the ones whose hearts Allah does not want to purify (from disbelief and hypocrisy); for them there is a disgrace in this world, and in the Hereafter a great torment.
+O Messenger (Muhammad SAW)! Let not those who hurry to fall into disbelief grieve you, of such who say: "We believe" with their mouths but their hearts have no faith. And of the Jews are men who listen much and eagerly to lies - listen to others who have not come to you. They change the words from their places; they say, "If you are given this, take it, but if you are not given this, then beware!" And whomsoever Allah wants to put in Al-Fitnah \[error, because of his rejecting the Faith\], you can do nothing for him against Allah. Those are the ones whose hearts Allah does not want to purify (from disbelief and hypocrisy); for them there is a disgrace in this world, and in the Hereafter a great torment.
 
 # 711
 
@@ -2858,7 +2858,7 @@ But how do they come to you for decision while they have the Taurat (Torah), in 
 
 # 713
 
-Verily, We did send down the Taurat (Torah) [to Musa (Moses)], therein was guidance and light, by which the Prophets, who submitted themselves to Allah's Will, judged the Jews. And the rabbis and the priests [too judged the Jews by the Taurat (Torah) after those Prophets] for to them was entrusted the protection of Allah's Book, and they were witnesses thereto. Therefore fear not men but fear Me (O Jews) and sell not My Verses for a miserable price. And whosoever does not judge by what Allah has revealed, such are the Kafirun (i.e. disbelievers - of a lesser degree as they do not act on Allah's Laws).
+Verily, We did send down the Taurat (Torah) \[to Musa (Moses)\], therein was guidance and light, by which the Prophets, who submitted themselves to Allah's Will, judged the Jews. And the rabbis and the priests \[too judged the Jews by the Taurat (Torah) after those Prophets\] for to them was entrusted the protection of Allah's Book, and they were witnesses thereto. Therefore fear not men but fear Me (O Jews) and sell not My Verses for a miserable price. And whosoever does not judge by what Allah has revealed, such are the Kafirun (i.e. disbelievers - of a lesser degree as they do not act on Allah's Laws).
 
 # 714
 
@@ -2914,11 +2914,11 @@ O you who believe! Take not for Auliya' (protectors and helpers) those who take 
 
 # 727
 
-And when you proclaim the call for As-Salat [call for the prayer (Adhan)], they take it (but) as a mockery and fun; that is because they are a people who understand not.
+And when you proclaim the call for As-Salat \[call for the prayer (Adhan)\], they take it (but) as a mockery and fun; that is because they are a people who understand not.
 
 # 728
 
-Say: "O people of the Scripture (Jews and Christians)! Do you criticize us for no other reason than that we believe in Allah, and in (the revelation) which has been sent down to us and in that which has been sent down before (us), and that most of you are Fasiqun [rebellious and disobedient (to Allah)]?"
+Say: "O people of the Scripture (Jews and Christians)! Do you criticize us for no other reason than that we believe in Allah, and in (the revelation) which has been sent down to us and in that which has been sent down before (us), and that most of you are Fasiqun \[rebellious and disobedient (to Allah)\]?"
 
 # 729
 
@@ -2930,7 +2930,7 @@ When they come to you, they say: "We believe." But in fact they enter with (an i
 
 # 731
 
-And you see many of them (Jews) hurrying for sin and transgression, and eating illegal things [as bribes and Riba (usury), etc.]. Evil indeed is that which they have been doing.
+And you see many of them (Jews) hurrying for sin and transgression, and eating illegal things \[as bribes and Riba (usury), etc.\]. Evil indeed is that which they have been doing.
 
 # 732
 
@@ -2970,7 +2970,7 @@ They thought there will be no Fitnah (trial or punishment), so they became blind
 
 # 741
 
-Surely, they have disbelieved who say: "Allah is the Messiah ['Iesa (Jesus)], son of Maryam (Mary)." But the Messiah ['Iesa (Jesus)] said: "O Children of Israel! Worship Allah, my Lord and your Lord." Verily, whosoever sets up partners in worship with Allah, then Allah has forbidden Paradise for him, and the Fire will be his abode. And for the Zalimun (polytheists and wrong-doers) there are no helpers.
+Surely, they have disbelieved who say: "Allah is the Messiah \['Iesa (Jesus)\], son of Maryam (Mary)." But the Messiah \['Iesa (Jesus)\] said: "O Children of Israel! Worship Allah, my Lord and your Lord." Verily, whosoever sets up partners in worship with Allah, then Allah has forbidden Paradise for him, and the Fire will be his abode. And for the Zalimun (polytheists and wrong-doers) there are no helpers.
 
 # 742
 
@@ -2982,7 +2982,7 @@ Will they not repent to Allah and ask His Forgiveness? For Allah is Oft-Forgivin
 
 # 744
 
-The Messiah ['Iesa (Jesus)], son of Maryam (Mary), was no more than a Messenger; many were the Messengers that passed away before him. His mother [Maryam (Mary)] was a Siddiqah [i.e. she believed in the words of Allah and His Books (see Verse 66:12)]. They both used to eat food (as any other human being, while Allah does not eat). Look how We make the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) clear to them, yet look how they are deluded away (from the truth).
+The Messiah \['Iesa (Jesus)\], son of Maryam (Mary), was no more than a Messenger; many were the Messengers that passed away before him. His mother \[Maryam (Mary)\] was a Siddiqah \[i.e. she believed in the words of Allah and His Books (see Verse 66:12)\]. They both used to eat food (as any other human being, while Allah does not eat). Look how We make the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) clear to them, yet look how they are deluded away (from the truth).
 
 # 745
 
@@ -3078,11 +3078,11 @@ Know that Allah is Severe in punishment and that Allah is Oft-Forgiving, Most Me
 
 # 768
 
-The Messenger's duty [i.e. Our Messenger Muhammad SAW whom We have sent to you, (O mankind)] is but to convey (the Message). And Allah knows all that you reveal and all that you conceal.
+The Messenger's duty \[i.e. Our Messenger Muhammad SAW whom We have sent to you, (O mankind)\] is but to convey (the Message). And Allah knows all that you reveal and all that you conceal.
 
 # 769
 
-Say (O Muhammad SAW): "Not equal are Al-Khabith (all that is evil and bad as regards things, deeds, beliefs, persons, foods, etc.) and At-Taiyib (all that is good as regards things, deeds, beliefs, persons, foods, etc.), even though the abundance of Al-Khabith (evil) may please you." So fear Allah much [(abstain from all kinds of sins and evil deeds which He has forbidden) and love Allah much (perform all kinds of good deeds which He has ordained)], O men of understanding in order that you may be successful.
+Say (O Muhammad SAW): "Not equal are Al-Khabith (all that is evil and bad as regards things, deeds, beliefs, persons, foods, etc.) and At-Taiyib (all that is good as regards things, deeds, beliefs, persons, foods, etc.), even though the abundance of Al-Khabith (evil) may please you." So fear Allah much \[(abstain from all kinds of sins and evil deeds which He has forbidden) and love Allah much (perform all kinds of good deeds which He has ordained)\], O men of understanding in order that you may be successful.
 
 # 770
 
@@ -3102,7 +3102,7 @@ And when it is said to them: "Come to what Allah has revealed and unto the Messe
 
 # 774
 
-O you who believe! Take care of your ownselves, [do righteous deeds, fear Allah much (abstain from all kinds of sins and evil deeds which He has forbidden) and love Allah much (perform all kinds of good deeds which He has ordained)]. If you follow the right guidance and enjoin what is right (Islamic Monotheism and all that Islam orders one to do) and forbid what is wrong (polytheism, disbelief and all that Islam has forbidden) no hurt can come to you from those who are in error. The return of you all is to Allah, then He will inform you about (all) that which you used to do.
+O you who believe! Take care of your ownselves, \[do righteous deeds, fear Allah much (abstain from all kinds of sins and evil deeds which He has forbidden) and love Allah much (perform all kinds of good deeds which He has ordained)\]. If you follow the right guidance and enjoin what is right (Islamic Monotheism and all that Islam orders one to do) and forbid what is wrong (polytheism, disbelief and all that Islam has forbidden) no hurt can come to you from those who are in error. The return of you all is to Allah, then He will inform you about (all) that which you used to do.
 
 # 775
 
@@ -3122,11 +3122,11 @@ On the Day when Allah will gather the Messengers together and say to them: "What
 
 # 779
 
-(Remember) when Allah will say (on the Day of Resurrection). "O 'Iesa (Jesus), son of Maryam (Mary)! Remember My Favour to you and to your mother when I supported you with Ruh-ul-Qudus [Jibrael (Gabriel)] so that you spoke to the people in the cradle and in maturity; and when I taught you writing, Al-Hikmah (the power of understanding), the Taurat (Torah) and the Injeel (Gospel); and when you made out of the clay, as it were, the figure of a bird, by My Permission, and you breathed into it, and it became a bird by My Permission, and you healed those born blind, and the lepers by My Permission, and when you brought forth the dead by My Permission; and when I restrained the Children of Israel from you (when they resolved to kill you) since you came unto them with clear proofs, and the disbelievers among them said: 'This is nothing but evident magic.' "
+(Remember) when Allah will say (on the Day of Resurrection). "O 'Iesa (Jesus), son of Maryam (Mary)! Remember My Favour to you and to your mother when I supported you with Ruh-ul-Qudus \[Jibrael (Gabriel)\] so that you spoke to the people in the cradle and in maturity; and when I taught you writing, Al-Hikmah (the power of understanding), the Taurat (Torah) and the Injeel (Gospel); and when you made out of the clay, as it were, the figure of a bird, by My Permission, and you breathed into it, and it became a bird by My Permission, and you healed those born blind, and the lepers by My Permission, and when you brought forth the dead by My Permission; and when I restrained the Children of Israel from you (when they resolved to kill you) since you came unto them with clear proofs, and the disbelievers among them said: 'This is nothing but evident magic.' "
 
 # 780
 
-And when I (Allah) put in the hearts of Al-Hawarieen (the disciples) [of 'Iesa (Jesus)] to believe in Me and My Messenger, they said: "We believe. And bear witness that we are Muslims."
+And when I (Allah) put in the hearts of Al-Hawarieen (the disciples) \[of 'Iesa (Jesus)\] to believe in Me and My Messenger, they said: "We believe. And bear witness that we are Muslims."
 
 # 781
 
@@ -3210,7 +3210,7 @@ Say (O Muhammad SAW): "Travel in the land and see what was the end of those who 
 
 # 801
 
-Say (O Muhammad SAW): "To whom belongs all that is in the heavens and the earth?" Say: "To Allah. He has prescribed Mercy for Himself. Indeed He will gather you together on the Day of Resurrection, about which there is no doubt. Those who destroy themselves will not believe [in Allah as being the only Ilah (God), and Muhammad SAW as being one of His Messengers, and in Resurrection, etc.].
+Say (O Muhammad SAW): "To whom belongs all that is in the heavens and the earth?" Say: "To Allah. He has prescribed Mercy for Himself. Indeed He will gather you together on the Day of Resurrection, about which there is no doubt. Those who destroy themselves will not believe \[in Allah as being the only Ilah (God), and Muhammad SAW as being one of His Messengers, and in Resurrection, etc.\].
 
 # 802
 
@@ -3218,7 +3218,7 @@ And to Him belongs whatsoever exists in the night and the day, and He is the All
 
 # 803
 
-Say (O Muhammad SAW): "Shall I take as a Wali (helper, protector, etc.) any other than Allah, the Creator of the heavens and the earth? And it is He Who feeds but is not fed." Say: "Verily, I am commanded to be the first of those who submit themselves to Allah (as Muslims)." And be not you (O Muhammad SAW) of the Mushrikun [polytheists, pagans, idolaters and disbelievers in the Oneness of Allah].
+Say (O Muhammad SAW): "Shall I take as a Wali (helper, protector, etc.) any other than Allah, the Creator of the heavens and the earth? And it is He Who feeds but is not fed." Say: "Verily, I am commanded to be the first of those who submit themselves to Allah (as Muslims)." And be not you (O Muhammad SAW) of the Mushrikun \[polytheists, pagans, idolaters and disbelievers in the Oneness of Allah\].
 
 # 804
 
@@ -3358,7 +3358,7 @@ And We send not the Messengers but as givers of glad tidings and as warners. So 
 
 # 838
 
-But those who reject Our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.), the torment will touch them for their disbelief (and for their belying the Message of Muhammad SAW). [Tafsir Al-Qurtubi].
+But those who reject Our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.), the torment will touch them for their disbelief (and for their belying the Message of Muhammad SAW). \[Tafsir Al-Qurtubi\].
 
 # 839
 
@@ -3410,7 +3410,7 @@ He is the Irresistible, Supreme over His slaves, and He sends guardians (angels 
 
 # 851
 
-Then they are returned to Allah, their Maula [True Master (God), the Just Lord (to reward them)]. Surely, His is the judgement and He is the Swiftest in taking account.
+Then they are returned to Allah, their Maula \[True Master (God), the Just Lord (to reward them)\]. Surely, His is the judgement and He is the Swiftest in taking account.
 
 # 852
 
@@ -3438,7 +3438,7 @@ And when you (Muhammad SAW) see those who engage in a false conversation about O
 
 # 858
 
-Those who fear Allah, keep their duty to Him and avoid evil are not responsible for them (the disbelievers) in any case, but (their duty) is to remind them, that they may avoid that (mockery at the Quran). [The order of this Verse was cancelled (abrogated) by the Verse 4:140].
+Those who fear Allah, keep their duty to Him and avoid evil are not responsible for them (the disbelievers) in any case, but (their duty) is to remind them, that they may avoid that (mockery at the Quran). \[The order of this Verse was cancelled (abrogated) by the Verse 4:140\].
 
 # 859
 
@@ -3554,7 +3554,7 @@ It is He Who has set the stars for you, so that you may guide your course with t
 
 # 887
 
-It is He Who has created you from a single person (Adam), and has given you a place of residing (on the earth or in your mother's wombs) and a place of storage [in the earth (in your graves) or in your father's loins]. Indeed, We have explained in detail Our revelations (this Quran) for people who understand.
+It is He Who has created you from a single person (Adam), and has given you a place of residing (on the earth or in your mother's wombs) and a place of storage \[in the earth (in your graves) or in your father's loins\]. Indeed, We have explained in detail Our revelations (this Quran) for people who understand.
 
 # 888
 
@@ -3618,7 +3618,7 @@ And so We have appointed for every Prophet enemies - Shayatin (devils) among man
 
 # 903
 
-[Say (O Muhammad SAW)] "Shall I seek a judge other than Allah while it is He Who has sent down unto you the Book (The Quran), explained in detail." Those unto whom We gave the Scripture [the Taurat (Torah) and the Injeel (Gospel)] know that it is revealed from your Lord in truth. So be not you of those who doubt.
+\[Say (O Muhammad SAW)\] "Shall I seek a judge other than Allah while it is He Who has sent down unto you the Book (The Quran), explained in detail." Those unto whom We gave the Scripture \[the Taurat (Torah) and the Injeel (Gospel)\] know that it is revealed from your Lord in truth. So be not you of those who doubt.
 
 # 904
 
@@ -3646,7 +3646,7 @@ Leave (O mankind, all kinds of) sin, open and secret. Verily, those who commit s
 
 # 910
 
-Eat not (O believers) of that (meat) on which Allah's Name has not been pronounced (at the time of the slaughtering of the animal), for sure it is Fisq (a sin and disobedience of Allah). And certainly, the Shayatin (devils) do inspire their friends (from mankind) to dispute with you, and if you obey them [by making Al-Maytatah (a dead animal) legal by eating it], then you would indeed be Mushrikun (polytheists) [because they (devils and their friends) made lawful to you to eat that which Allah has made unlawful to eat and you obeyed them by considering it lawful to eat, and by doing so you worshipped them, and to worship others besides Allah is polytheism].
+Eat not (O believers) of that (meat) on which Allah's Name has not been pronounced (at the time of the slaughtering of the animal), for sure it is Fisq (a sin and disobedience of Allah). And certainly, the Shayatin (devils) do inspire their friends (from mankind) to dispute with you, and if you obey them \[by making Al-Maytatah (a dead animal) legal by eating it\], then you would indeed be Mushrikun (polytheists) \[because they (devils and their friends) made lawful to you to eat that which Allah has made unlawful to eat and you obeyed them by considering it lawful to eat, and by doing so you worshipped them, and to worship others besides Allah is polytheism\].
 
 # 911
 
@@ -3746,7 +3746,7 @@ Say (O Muhammad SAW): "I find not in that which has been inspired to me anything
 
 # 935
 
-And unto those who are Jews, We forbade every (animal) with undivided hoof, and We forbade them the fat of the ox and the sheep except what adheres to their backs or their entrails, or is mixed up with a bone. Thus We recompensed them for their rebellion [committing crimes like murdering the Prophets, eating of Riba (usury), etc.]. And verily, We are Truthful.
+And unto those who are Jews, We forbade every (animal) with undivided hoof, and We forbade them the fat of the ox and the sheep except what adheres to their backs or their entrails, or is mixed up with a bone. Thus We recompensed them for their rebellion \[committing crimes like murdering the Prophets, eating of Riba (usury), etc.\]. And verily, We are Truthful.
 
 # 936
 
@@ -3778,7 +3778,7 @@ Say (O Muhammad SAW): "Come, I will recite what your Lord has prohibited you fro
 
 # 943
 
-Then, We gave Musa (Moses) the Book [the Taurat (Torah)], to complete (Our Favour) upon those who would do right, and explaining all things in detail and a guidance and a mercy that they might believe in the meeting with their Lord.
+Then, We gave Musa (Moses) the Book \[the Taurat (Torah)\], to complete (Our Favour) upon those who would do right, and explaining all things in detail and a guidance and a mercy that they might believe in the meeting with their Lord.
 
 # 944
 
@@ -3790,7 +3790,7 @@ Lest you (pagan Arabs) should say: "The Book was only sent down to two sects bef
 
 # 946
 
-Or lest you (pagan Arabs) should say: "If only the Book had been sent down to us, we would surely have been better guided than they (Jews and Christians)." So now has come unto you a clear proof (the Quran) from your Lord, and a guidance and a mercy. Who then does more wrong than one who rejects the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) of Allah and turns away therefrom? We shall requite those who turn away from Our Ayat with an evil torment, because of their turning away (from them). [Tafsir At-Tabari, Vol. 8, Page 95]
+Or lest you (pagan Arabs) should say: "If only the Book had been sent down to us, we would surely have been better guided than they (Jews and Christians)." So now has come unto you a clear proof (the Quran) from your Lord, and a guidance and a mercy. Who then does more wrong than one who rejects the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) of Allah and turns away therefrom? We shall requite those who turn away from Our Ayat with an evil torment, because of their turning away (from them). \[Tafsir At-Tabari, Vol. 8, Page 95\]
 
 # 947
 
@@ -3806,7 +3806,7 @@ Whoever brings a good deed (Islamic Monotheism and deeds of obedience to Allah a
 
 # 950
 
-Say (O Muhammad SAW): "Truly, my Lord has guided me to a Straight Path, a right religion, the religion of Ibrahim (Abraham), Hanifa [i.e. the true Islamic Monotheism - to believe in One God (Allah i.e. to worship none but Allah, Alone)] and he was not of Al-Mushrikun (see V. 2:105)."
+Say (O Muhammad SAW): "Truly, my Lord has guided me to a Straight Path, a right religion, the religion of Ibrahim (Abraham), Hanifa \[i.e. the true Islamic Monotheism - to believe in One God (Allah i.e. to worship none but Allah, Alone)\] and he was not of Al-Mushrikun (see V. 2:105)."
 
 # 951
 
@@ -3826,7 +3826,7 @@ And it is He Who has made you generations coming after generations, replacing ea
 
 # 955
 
-Alif-Lam-Mim-Sad. [These letters are one of the miracles of the Quran and none but Allah (Alone) knows their meanings].
+Alif-Lam-Mim-Sad. \[These letters are one of the miracles of the Quran and none but Allah (Alone) knows their meanings\].
 
 # 956
 
@@ -3834,7 +3834,7 @@ Alif-Lam-Mim-Sad. [These letters are one of the miracles of the Quran and none b
 
 # 957
 
-[Say (O Muhammad SAW) to these idolaters (pagan Arabs) of your folk:] Follow what has been sent down unto you from your Lord (the Quran and Prophet Muhammad's Sunnah), and follow not any Auliya' (protectors and helpers, etc. who order you to associate partners in worship with Allah), besides Him (Allah). Little do you remember!
+\[Say (O Muhammad SAW) to these idolaters (pagan Arabs) of your folk:\] Follow what has been sent down unto you from your Lord (the Quran and Prophet Muhammad's Sunnah), and follow not any Auliya' (protectors and helpers, etc. who order you to associate partners in worship with Allah), besides Him (Allah). Little do you remember!
 
 # 958
 
@@ -3906,7 +3906,7 @@ Then Shaitan (Satan) whispered suggestions to them both in order to uncover that
 
 # 975
 
-And he [Shaitan (Satan)] swore by Allah to them both (saying): "Verily, I am one of the sincere well-wishers for you both."
+And he \[Shaitan (Satan)\] swore by Allah to them both (saying): "Verily, I am one of the sincere well-wishers for you both."
 
 # 976
 
@@ -3918,7 +3918,7 @@ They said: "Our Lord! We have wronged ourselves. If You forgive us not, and best
 
 # 978
 
-(Allah) said: "Get down, one of you an enemy to the other [i.e. Adam, Hawwa (Eve), and Shaitan (Satan), etc.]. On earth will be a dwelling-place for you and an enjoyment, - for a time."
+(Allah) said: "Get down, one of you an enemy to the other \[i.e. Adam, Hawwa (Eve), and Shaitan (Satan), etc.\]. On earth will be a dwelling-place for you and an enjoyment, - for a time."
 
 # 979
 
@@ -3930,7 +3930,7 @@ O Children of Adam! We have bestowed raiment upon you to cover yourselves (scree
 
 # 981
 
-O Children of Adam! Let not Shaitan (Satan) deceive you, as he got your parents [Adam and Hawwa (Eve)] out of Paradise, stripping them of their raiments, to show them their private parts. Verily, he and Qabiluhu (his soldiers from the jinns or his tribe) see you from where you cannot see them. Verily, We made the Shayatin (devils) Auliya' (protectors and helpers) for those who believe not.
+O Children of Adam! Let not Shaitan (Satan) deceive you, as he got your parents \[Adam and Hawwa (Eve)\] out of Paradise, stripping them of their raiments, to show them their private parts. Verily, he and Qabiluhu (his soldiers from the jinns or his tribe) see you from where you cannot see them. Verily, We made the Shayatin (devils) Auliya' (protectors and helpers) for those who believe not.
 
 # 982
 
@@ -3938,7 +3938,7 @@ And when they commit a Fahisha (evil deed, going round the Ka'bah in naked state
 
 # 983
 
-Say (O Muhammad SAW): My Lord has commanded justice and (said) that you should face Him only (i.e. worship none but Allah and face the Qiblah, i.e. the Ka'bah at Makkah during prayers) in each and every place of worship, in prayers (and not to face other false deities and idols), and invoke Him only making your religion sincere to Him by not joining in worship any partner to Him and with the intention that you are doing your deeds for Allah's sake only. As He brought you (into being) in the beginning, so shall you be brought into being (on the Day of Resurrection) [in two groups, one as a blessed one (believers), and the other as a wretched one (disbelievers)].
+Say (O Muhammad SAW): My Lord has commanded justice and (said) that you should face Him only (i.e. worship none but Allah and face the Qiblah, i.e. the Ka'bah at Makkah during prayers) in each and every place of worship, in prayers (and not to face other false deities and idols), and invoke Him only making your religion sincere to Him by not joining in worship any partner to Him and with the intention that you are doing your deeds for Allah's sake only. As He brought you (into being) in the beginning, so shall you be brought into being (on the Day of Resurrection) \[in two groups, one as a blessed one (believers), and the other as a wretched one (disbelievers)\].
 
 # 984
 
@@ -3950,7 +3950,7 @@ O Children of Adam! Take your adornment (by wearing your clean clothes), while p
 
 # 986
 
-Say (O Muhammad SAW): "Who has forbidden the adoration with clothes given by Allah, which He has produced for his slaves, and At-Taiyibat [all kinds of Halal (lawful) things] of food?" Say: "They are, in the life of this world, for those who believe, (and) exclusively for them (believers) on the Day of Resurrection (the disbelievers will not share them)." Thus We explain the Ayat (Islamic laws) in detail for people who have knowledge.
+Say (O Muhammad SAW): "Who has forbidden the adoration with clothes given by Allah, which He has produced for his slaves, and At-Taiyibat \[all kinds of Halal (lawful) things\] of food?" Say: "They are, in the life of this world, for those who believe, (and) exclusively for them (believers) on the Day of Resurrection (the disbelievers will not share them)." Thus We explain the Ayat (Islamic laws) in detail for people who have knowledge.
 
 # 987
 
@@ -4066,7 +4066,7 @@ The leaders of his people said: "Verily, we see you in plain error."
 
 # 1015
 
-[Nuh (Noah)] said: "O my people! There is no error in me, but I am a Messenger from the Lord of the 'Alamin (mankind, jinns and all that exists)!
+\[Nuh (Noah)\] said: "O my people! There is no error in me, but I am a Messenger from the Lord of the 'Alamin (mankind, jinns and all that exists)!
 
 # 1016
 
@@ -4138,7 +4138,7 @@ So the earthquake seized them, and they lay (dead), prostrate in their homes.
 
 # 1033
 
-Then he [Salih (Saleh)] turned from them, and said: "O my people! I have indeed conveyed to you the Message of my Lord, and have given you good advice but you like not good advisers."
+Then he \[Salih (Saleh)\] turned from them, and said: "O my people! I have indeed conveyed to you the Message of my Lord, and have given you good advice but you like not good advisers."
 
 # 1034
 
@@ -4162,7 +4162,7 @@ And We rained down on them a rain (of stones). Then see what was the end of the 
 
 # 1039
 
-And to (the people of) Madyan (Midian), (We sent) their brother Shu'aib. He said: "O my people! Worship Allah! You have no other Ilah (God) but Him. [La ilaha ill-Allah (none has the right to be worshipped but Allah)]." Verily, a clear proof (sign) from your Lord has come unto you; so give full measure and full weight and wrong not men in their things, and do not mischief on the earth after it has been set in order, that will be better for you, if you are believers.
+And to (the people of) Madyan (Midian), (We sent) their brother Shu'aib. He said: "O my people! Worship Allah! You have no other Ilah (God) but Him. \[La ilaha ill-Allah (none has the right to be worshipped but Allah)\]." Verily, a clear proof (sign) from your Lord has come unto you; so give full measure and full weight and wrong not men in their things, and do not mischief on the earth after it has been set in order, that will be better for you, if you are believers.
 
 # 1040
 
@@ -4246,11 +4246,11 @@ And Musa (Moses) said: "O Fir'aun (Pharaoh)! I am a Messenger from the Lord of t
 
 # 1060
 
-[Fir'aun (Pharaoh)] said: "If you have come with a sign, show it forth, - if you are one of those who tell the truth."
+\[Fir'aun (Pharaoh)\] said: "If you have come with a sign, show it forth, - if you are one of those who tell the truth."
 
 # 1061
 
-Then [Musa (Moses)] threw his stick and behold! it was a serpent, manifest!
+Then \[Musa (Moses)\] threw his stick and behold! it was a serpent, manifest!
 
 # 1062
 
@@ -4286,7 +4286,7 @@ They said: "O Musa (Moses)! Either you throw (first), or shall we have the (firs
 
 # 1070
 
-He [Musa (Moses)] said: "Throw you (first)." So when they threw, they bewitched the eyes of the people, and struck terror into them, and they displayed a great magic.
+He \[Musa (Moses)\] said: "Throw you (first)." So when they threw, they bewitched the eyes of the people, and struck terror into them, and they displayed a great magic.
 
 # 1071
 
@@ -4314,7 +4314,7 @@ They said: "We believe in the Lord of the 'Alamin (mankind, jinns and all that e
 
 # 1077
 
-Fir'aun (Pharaoh) said: "You have believed in him [Musa (Moses)] before I give you permission. Surely, this is a plot which you have plotted in the city to drive out its people, but you shall come to know.
+Fir'aun (Pharaoh) said: "You have believed in him \[Musa (Moses)\] before I give you permission. Surely, this is a plot which you have plotted in the city to drive out its people, but you shall come to know.
 
 # 1078
 
@@ -4350,7 +4350,7 @@ But whenever good came to them, they said: "Ours is this." And if evil afflicted
 
 # 1086
 
-They said [to Musa (Moses)]: "Whatever Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) you may bring to us, to work therewith your sorcery on us, we shall never believe in you."
+They said \[to Musa (Moses)\]: "Whatever Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) you may bring to us, to work therewith your sorcery on us, we shall never believe in you."
 
 # 1087
 
@@ -4378,7 +4378,7 @@ And We brought the Children of Israel (with safety) across the sea, and they cam
 
 # 1093
 
-[Musa (Moses) added:] "Verily, these people will be destroyed for that which they are engaged in (idols-worship). And all that they are doing is in vain."
+\[Musa (Moses) added:\] "Verily, these people will be destroyed for that which they are engaged in (idols-worship). And all that they are doing is in vain."
 
 # 1094
 
@@ -4450,11 +4450,11 @@ And ordain for us good in this world, and in the Hereafter. Certainly we have tu
 
 # 1111
 
-Those who follow the Messenger, the Prophet who can neither read nor write (i.e. Muhammad SAW) whom they find written with them in the Taurat (Torah) (Deut, xviii, 15) and the Injeel (Gospel) (John xiv, 16), - he commands them for Al-Ma'ruf (i.e. Islamic Monotheism and all that Islam has ordained); and forbids them from Al-Munkar (i.e. disbelief, polytheism of all kinds, and all that Islam has forbidden); he allows them as lawful At-Taiyibat [(i.e. all good and lawful) as regards things, deeds, beliefs, persons, foods, etc.], and prohibits them as unlawful Al-Khaba'ith (i.e. all evil and unlawful as regards things, deeds, beliefs, persons, foods, etc.), he releases them from their heavy burdens (of Allah's Covenant), and from the fetters (bindings) that were upon them. So those who believe in him (Muhammad SAW), honour him, help him, and follow the light (the Quran) which has been sent down with him, it is they who will be successful.
+Those who follow the Messenger, the Prophet who can neither read nor write (i.e. Muhammad SAW) whom they find written with them in the Taurat (Torah) (Deut, xviii, 15) and the Injeel (Gospel) (John xiv, 16), - he commands them for Al-Ma'ruf (i.e. Islamic Monotheism and all that Islam has ordained); and forbids them from Al-Munkar (i.e. disbelief, polytheism of all kinds, and all that Islam has forbidden); he allows them as lawful At-Taiyibat \[(i.e. all good and lawful) as regards things, deeds, beliefs, persons, foods, etc.\], and prohibits them as unlawful Al-Khaba'ith (i.e. all evil and unlawful as regards things, deeds, beliefs, persons, foods, etc.), he releases them from their heavy burdens (of Allah's Covenant), and from the fetters (bindings) that were upon them. So those who believe in him (Muhammad SAW), honour him, help him, and follow the light (the Quran) which has been sent down with him, it is they who will be successful.
 
 # 1112
 
-Say (O Muhammad SAW): "O mankind! Verily, I am sent to you all as the Messenger of Allah - to Whom belongs the dominion of the heavens and the earth. La ilaha illa Huwa (none has the right to be worshipped but He); It is He Who gives life and causes death. So believe in Allah and His Messenger (Muhammad SAW), the Prophet who can neither read nor write (i.e. Muhammad SAW) who believes in Allah and His Words [(this Quran), the Taurat (Torah) and the Injeel (Gospel) and also Allah's Word: "Be!" - and he was, i.e. 'Iesa (Jesus) son of Maryam (Mary)], and follow him so that you may be guided."
+Say (O Muhammad SAW): "O mankind! Verily, I am sent to you all as the Messenger of Allah - to Whom belongs the dominion of the heavens and the earth. La ilaha illa Huwa (none has the right to be worshipped but He); It is He Who gives life and causes death. So believe in Allah and His Messenger (Muhammad SAW), the Prophet who can neither read nor write (i.e. Muhammad SAW) who believes in Allah and His Words \[(this Quran), the Taurat (Torah) and the Injeel (Gospel) and also Allah's Word: "Be!" - and he was, i.e. 'Iesa (Jesus) son of Maryam (Mary)\], and follow him so that you may be guided."
 
 # 1113
 
@@ -4506,7 +4506,7 @@ And as to those who hold fast to the Book (i.e. act on its teachings) and perfor
 
 # 1125
 
-And (remember) when We raised the mountain over them as if it had been a canopy, and they thought that it was going to fall on them. (We said): "Hold firmly to what We have given you [i.e. the Taurat (Torah)], and remember that which is therein (act on its commandments), so that you may fear Allah and obey Him."
+And (remember) when We raised the mountain over them as if it had been a canopy, and they thought that it was going to fall on them. (We said): "Hold firmly to what We have given you \[i.e. the Taurat (Torah)\], and remember that which is therein (act on its commandments), so that you may fear Allah and obey Him."
 
 # 1126
 
@@ -4578,7 +4578,7 @@ Say (O Muhammad SAW): "I possess no power of benefit or hurt to myself except as
 
 # 1143
 
-It is He Who has created you from a single person (Adam), and (then) He has created from him his wife [Hawwa (Eve)], in order that he might enjoy the pleasure of living with her. When he had sexual relation with her, she became pregnant and she carried it about lightly. Then when it became heavy, they both invoked Allah, their Lord (saying): "If You give us a Salih (good in every aspect) child, we shall indeed be among the grateful."
+It is He Who has created you from a single person (Adam), and (then) He has created from him his wife \[Hawwa (Eve)\], in order that he might enjoy the pleasure of living with her. When he had sexual relation with her, she became pregnant and she carried it about lightly. Then when it became heavy, they both invoked Allah, their Lord (saying): "If You give us a Salih (good in every aspect) child, we shall indeed be among the grateful."
 
 # 1144
 
@@ -4634,11 +4634,11 @@ But (as for) their brothers (the devils) they (i.e. the devils) plunge them deep
 
 # 1157
 
-And if you do not bring them a miracle [according to their (i.e. Quraish-pagans') proposal], they say: "Why have you not brought it?" Say: "I but follow what is revealed to me from my Lord. This (the Quran) is nothing but evidences from your Lord, and a guidance and a mercy for a people who believe."
+And if you do not bring them a miracle \[according to their (i.e. Quraish-pagans') proposal\], they say: "Why have you not brought it?" Say: "I but follow what is revealed to me from my Lord. This (the Quran) is nothing but evidences from your Lord, and a guidance and a mercy for a people who believe."
 
 # 1158
 
-So, when the Quran is recited, listen to it, and be silent that you may receive mercy. [i.e. during the compulsory congregational prayers when the Imam (of a mosque) is leading the prayer (except Surat Al-Fatiha), and also when he is delivering the Friday-prayer Khutbah]. [Tafsir At-Tabari, Vol. 9, Pages 162-4]
+So, when the Quran is recited, listen to it, and be silent that you may receive mercy. \[i.e. during the compulsory congregational prayers when the Imam (of a mosque) is leading the prayer (except Surat Al-Fatiha), and also when he is delivering the Friday-prayer Khutbah\]. \[Tafsir At-Tabari, Vol. 9, Pages 162-4\]
 
 # 1159
 
@@ -4762,7 +4762,7 @@ And know that your possessions and your children are but a trial and that surely
 
 # 1189
 
-O you who believe! If you obey and fear Allah, He will grant you Furqan a criterion [(to judge between right and wrong), or (Makhraj, i.e. making a way for you to get out from every difficulty)], and will expiate for you your sins, and forgive you, and Allah is the Owner of the Great Bounty.
+O you who believe! If you obey and fear Allah, He will grant you Furqan a criterion \[(to judge between right and wrong), or (Makhraj, i.e. making a way for you to get out from every difficulty)\], and will expiate for you your sins, and forgive you, and Allah is the Owner of the Great Bounty.
 
 # 1190
 
@@ -4802,7 +4802,7 @@ Say to those who have disbelieved, if they cease (from disbelief) their past wil
 
 # 1199
 
-And fight them until there is no more Fitnah (disbelief and polytheism: i.e. worshipping others besides Allah) and the religion (worship) will all be for Allah Alone [in the whole of the world]. But if they cease (worshipping others besides Allah), then certainly, Allah is All-Seer of what they do.
+And fight them until there is no more Fitnah (disbelief and polytheism: i.e. worshipping others besides Allah) and the religion (worship) will all be for Allah Alone \[in the whole of the world\]. But if they cease (worshipping others besides Allah), then certainly, Allah is All-Seer of what they do.
 
 # 1200
 
@@ -4810,7 +4810,7 @@ And if they turn away, then know that Allah is your Maula (Patron, Lord, Protect
 
 # 1201
 
-And know that whatever of war-booty that you may gain, verily one-fifth (1/5th) of it is assigned to Allah, and to the Messenger, and to the near relatives [of the Messenger (Muhammad SAW)], (and also) the orphans, Al-Masakin (the poor) and the wayfarer, if you have believed in Allah and in that which We sent down to Our slave (Muhammad SAW) on the Day of criterion (between right and wrong), the Day when the two forces met (the battle of Badr) - And Allah is Able to do all things.
+And know that whatever of war-booty that you may gain, verily one-fifth (1/5th) of it is assigned to Allah, and to the Messenger, and to the near relatives \[of the Messenger (Muhammad SAW)\], (and also) the orphans, Al-Masakin (the poor) and the wayfarer, if you have believed in Allah and in that which We sent down to Our slave (Muhammad SAW) on the Day of criterion (between right and wrong), the Day when the two forces met (the battle of Badr) - And Allah is Able to do all things.
 
 # 1202
 
@@ -5010,7 +5010,7 @@ And remove the anger of their (believers') hearts. Allah accepts the repentance 
 
 # 1251
 
-Do you think that you shall be left alone while Allah has not yet tested those among you who have striven hard and fought and have not taken Walijah [(Batanah - helpers, advisors and consultants from disbelievers, pagans, etc.) giving openly to them their secrets] besides Allah and His Messenger, and the believers. Allah is Well-Acquainted with what you do.
+Do you think that you shall be left alone while Allah has not yet tested those among you who have striven hard and fought and have not taken Walijah \[(Batanah - helpers, advisors and consultants from disbelievers, pagans, etc.) giving openly to them their secrets\] besides Allah and His Messenger, and the believers. Allah is Well-Acquainted with what you do.
 
 # 1252
 
@@ -5070,7 +5070,7 @@ And the Jews say: 'Uzair (Ezra) is the son of Allah, and the Christians say: Mes
 
 # 1266
 
-They (Jews and Christians) took their rabbis and their monks to be their lords besides Allah (by obeying them in things which they made lawful or unlawful according to their own desires without being ordered by Allah), and (they also took as their Lord) Messiah, son of Maryam (Mary), while they (Jews and Christians) were commanded [in the Taurat (Torah) and the Injeel (Gospel)) to worship none but One Ilah (God - Allah) La ilaha illa Huwa (none has the right to be worshipped but He). Praise and glory be to Him, (far above is He) from having the partners they associate (with Him)."
+They (Jews and Christians) took their rabbis and their monks to be their lords besides Allah (by obeying them in things which they made lawful or unlawful according to their own desires without being ordered by Allah), and (they also took as their Lord) Messiah, son of Maryam (Mary), while they (Jews and Christians) were commanded \[in the Taurat (Torah) and the Injeel (Gospel)) to worship none but One Ilah (God - Allah) La ilaha illa Huwa (none has the right to be worshipped but He). Praise and glory be to Him, (far above is He) from having the partners they associate (with Him)."
 
 # 1267
 
@@ -5082,7 +5082,7 @@ It is He Who has sent His Messenger (Muhammad SAW) with guidance and the religio
 
 # 1269
 
-O you who believe! Verily, there are many of the (Jewish) rabbis and the (Christian) monks who devour the wealth of mankind in falsehood, and hinder (them) from the Way of Allah (i.e. Allah's Religion of Islamic Monotheism). And those who hoard up gold and silver [Al-Kanz: the money, the Zakat of which has not been paid], and spend it not in the Way of Allah, -announce unto them a painful torment.
+O you who believe! Verily, there are many of the (Jewish) rabbis and the (Christian) monks who devour the wealth of mankind in falsehood, and hinder (them) from the Way of Allah (i.e. Allah's Religion of Islamic Monotheism). And those who hoard up gold and silver \[Al-Kanz: the money, the Zakat of which has not been paid\], and spend it not in the Way of Allah, -announce unto them a painful torment.
 
 # 1270
 
@@ -5214,7 +5214,7 @@ Make no excuse; you have disbelieved after you had believed. If We pardon some o
 
 # 1302
 
-The hypocrites, men and women, are from one another, they enjoin (on the people) Al-Munkar (i.e. disbelief and polytheism of all kinds and all that Islam has forbidden), and forbid (people) from Al-Ma'ruf (i.e. Islamic Monotheism and all that Islam orders one to do), and they close their hands [from giving (spending in Allah's Cause) alms, etc.]. They have forgotten Allah, so He has forgotten them. Verily, the hypocrites are the Fasiqun (rebellious, disobedient to Allah).
+The hypocrites, men and women, are from one another, they enjoin (on the people) Al-Munkar (i.e. disbelief and polytheism of all kinds and all that Islam has forbidden), and forbid (people) from Al-Ma'ruf (i.e. Islamic Monotheism and all that Islam orders one to do), and they close their hands \[from giving (spending in Allah's Cause) alms, etc.\]. They have forgotten Allah, so He has forgotten them. Verily, the hypocrites are the Fasiqun (rebellious, disobedient to Allah).
 
 # 1303
 
@@ -5226,7 +5226,7 @@ Like those before you, they were mightier than you in power, and more abundant i
 
 # 1305
 
-Has not the story reached them of those before them? - The people of Nuh (Noah), 'Ad, and Thamud, the people of Ibrahim (Abraham), the dwellers of Madyan (Midian) and the cities overthrown [i.e. the people to whom Lout (Lot) preached], to them came their Messengers with clear proofs. So it was not Allah Who wronged them, but they used to wrong themselves.
+Has not the story reached them of those before them? - The people of Nuh (Noah), 'Ad, and Thamud, the people of Ibrahim (Abraham), the dwellers of Madyan (Midian) and the cities overthrown \[i.e. the people to whom Lout (Lot) preached\], to them came their Messengers with clear proofs. So it was not Allah Who wronged them, but they used to wrong themselves.
 
 # 1306
 
@@ -5250,7 +5250,7 @@ And of them are some who made a covenant with Allah (saying): "If He bestowed on
 
 # 1311
 
-Then when He gave them of His Bounty, they became niggardly [refused to pay the Sadaqah (Zakat or voluntary charity)], and turned away, averse.
+Then when He gave them of His Bounty, they became niggardly \[refused to pay the Sadaqah (Zakat or voluntary charity)\], and turned away, averse.
 
 # 1312
 
@@ -5310,7 +5310,7 @@ And those who made excuses from the bedouins came (to you, O Prophet SAW) asking
 
 # 1326
 
-There is no blame on those who are weak or ill or who find no resources to spend [in holy fighting (Jihad)], if they are sincere and true (in duty) to Allah and His Messenger. No ground (of complaint) can there be against the Muhsinun (good-doers - see the footnote of V. 9:120). And Allah is Oft-Forgiving, Most Merciful.
+There is no blame on those who are weak or ill or who find no resources to spend \[in holy fighting (Jihad)\], if they are sincere and true (in duty) to Allah and His Messenger. No ground (of complaint) can there be against the Muhsinun (good-doers - see the footnote of V. 9:120). And Allah is Oft-Forgiving, Most Merciful.
 
 # 1327
 
@@ -5322,11 +5322,11 @@ The ground (of complaint) is only against those who are rich, and yet ask exempt
 
 # 1329
 
-They (the hypocrites) will present their excuses to you (Muslims), when you return to them. Say (O Muhammad SAW) "Present no excuses, we shall not believe you. Allah has already informed us of the news concerning you. Allah and His Messenger will observe your deeds. In the end you will be brought back to the All-Knower of the unseen and the seen, then He (Allah) will inform you of what you used to do." [Tafsir At-Tabari]
+They (the hypocrites) will present their excuses to you (Muslims), when you return to them. Say (O Muhammad SAW) "Present no excuses, we shall not believe you. Allah has already informed us of the news concerning you. Allah and His Messenger will observe your deeds. In the end you will be brought back to the All-Knower of the unseen and the seen, then He (Allah) will inform you of what you used to do." \[Tafsir At-Tabari\]
 
 # 1330
 
-They will swear by Allah to you (Muslims) when you return to them, that you may turn away from them. So turn away from them. Surely, they are Rijsun [i.e. Najasun (impure) because of their evil deeds], and Hell is their dwelling place, - a recompense for that which they used to earn.
+They will swear by Allah to you (Muslims) when you return to them, that you may turn away from them. So turn away from them. Surely, they are Rijsun \[i.e. Najasun (impure) because of their evil deeds\], and Hell is their dwelling place, - a recompense for that which they used to earn.
 
 # 1331
 
@@ -5378,7 +5378,7 @@ And as for those who put up a mosque by way of harming and disbelief, and to dis
 
 # 1343
 
-Never stand you therein. Verily, the mosque whose foundation was laid from the first day on piety is more worthy that you stand therein (to pray). In it are men who love to clean and to purify themselves. And Allah loves those who make themselves clean and pure (i.e. who clean their private parts with dust [i.e. to be considered as soap) and water from urine and stools, after answering the call of nature].
+Never stand you therein. Verily, the mosque whose foundation was laid from the first day on piety is more worthy that you stand therein (to pray). In it are men who love to clean and to purify themselves. And Allah loves those who make themselves clean and pure (i.e. who clean their private parts with dust \[i.e. to be considered as soap) and water from urine and stools, after answering the call of nature\].
 
 # 1344
 
@@ -5402,7 +5402,7 @@ It is not (proper) for the Prophet and those who believe to ask Allah's Forgiven
 
 # 1349
 
-And [Ibrahim's (Abraham)] invoking (of Allah) for his father's forgiveness was only because of a promise he [Ibrahim (Abraham)] had made to him (his father). But when it became clear to him [Ibrahim (Abraham)] that he (his father) is an enemy to Allah, he dissociated himself from him. Verily Ibrahim (Abraham) was Al-Awwah (has fifteen different meanings but the correct one seems to be that he used to invoke Allah with humility, glorify Him and remember Him much), and was forbearing. (Tafsir Al-Qurtubi).
+And \[Ibrahim's (Abraham)\] invoking (of Allah) for his father's forgiveness was only because of a promise he \[Ibrahim (Abraham)\] had made to him (his father). But when it became clear to him \[Ibrahim (Abraham)\] that he (his father) is an enemy to Allah, he dissociated himself from him. Verily Ibrahim (Abraham) was Al-Awwah (has fifteen different meanings but the correct one seems to be that he used to invoke Allah with humility, glorify Him and remember Him much), and was forbearing. (Tafsir Al-Qurtubi).
 
 # 1350
 
@@ -5418,7 +5418,7 @@ Allah has forgiven the Prophet (SAW), the Muhajirun (Muslim emigrants who left t
 
 # 1353
 
-And (He did forgive also) the three [who did not join the Tabuk expedition (whom the Prophet SAW)] left (i.e. he did not give his judgement in their case, and their case was suspended for Allah's Decision) till for them the earth, vast as it is, was straitened and their ownselves were straitened to them, and they perceived that there is no fleeing from Allah, and no refuge but with Him. Then, He accepted their repentance, that they might repent (unto Him). Verily, Allah is the One Who accepts repentance, Most Merciful.
+And (He did forgive also) the three \[who did not join the Tabuk expedition (whom the Prophet SAW)\] left (i.e. he did not give his judgement in their case, and their case was suspended for Allah's Decision) till for them the earth, vast as it is, was straitened and their ownselves were straitened to them, and they perceived that there is no fleeing from Allah, and no refuge but with Him. Then, He accepted their repentance, that they might repent (unto Him). Verily, Allah is the One Who accepts repentance, Most Merciful.
 
 # 1354
 
@@ -5466,7 +5466,7 @@ But if they turn away, say (O Muhammad SAW): "Allah is sufficient for me. La ila
 
 # 1365
 
-Alif-Lam-Ra. [These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings]. These are the Verses of the Book (the Quran) Al-Hakim [showing lawful and unlawful things, explaining Allah's (Divine) Laws for mankind, leading them to eternal happiness by ordering them to follow the true Islamic Monotheism, - worshipping none but Allah Alone - that will guide them to Paradise and save them from Hell].
+Alif-Lam-Ra. \[These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings\]. These are the Verses of the Book (the Quran) Al-Hakim \[showing lawful and unlawful things, explaining Allah's (Divine) Laws for mankind, leading them to eternal happiness by ordering them to follow the true Islamic Monotheism, - worshipping none but Allah Alone - that will guide them to Paradise and save them from Hell\].
 
 # 1366
 
@@ -5498,11 +5498,11 @@ Those, their abode will be the Fire, because of what they used to earn.
 
 # 1373
 
-Verily, those who believe [in the Oneness of Allah along with the six articles of Faith, i.e. to believe in Allah, His Angels, His Books, His Messengers, Day of Resurrection, and Al-Qadar (Divine Preordainments) - Islamic Monotheism], and do deeds of righteousness, their Lord will guide them through their Faith; under them will flow rivers in the Gardens of delight (Paradise).
+Verily, those who believe \[in the Oneness of Allah along with the six articles of Faith, i.e. to believe in Allah, His Angels, His Books, His Messengers, Day of Resurrection, and Al-Qadar (Divine Preordainments) - Islamic Monotheism\], and do deeds of righteousness, their Lord will guide them through their Faith; under them will flow rivers in the Gardens of delight (Paradise).
 
 # 1374
 
-Their way of request therein will be Subhanaka Allahumma (Glory to You, O Allah!) and Salam (peace, safe from each and every evil) will be their greetings therein (Paradise)! and the close of their request will be: Al-Hamdu Lillahi Rabbil-'Alamin [All the praises and thanks are to Allah, the Lord of 'Alamin (mankind, jinns and all that exists)].
+Their way of request therein will be Subhanaka Allahumma (Glory to You, O Allah!) and Salam (peace, safe from each and every evil) will be their greetings therein (Paradise)! and the close of their request will be: Al-Hamdu Lillahi Rabbil-'Alamin \[All the praises and thanks are to Allah, the Lord of 'Alamin (mankind, jinns and all that exists)\].
 
 # 1375
 
@@ -5610,7 +5610,7 @@ And most of them follow nothing but conjecture. Certainly, conjecture can be of 
 
 # 1401
 
-And this Quran is not such as could ever be produced by other than Allah (Lord of the heavens and the earth), but it is a confirmation of (the revelation) which was before it [i.e. the Taurat (Torah), and the Injeel (Gospel), etc.], and a full explanation of the Book (i.e. laws and orders, etc, decreed for mankind) - wherein there is no doubt from the the Lord of the 'Alamin (mankind, jinns, and all that exists).
+And this Quran is not such as could ever be produced by other than Allah (Lord of the heavens and the earth), but it is a confirmation of (the revelation) which was before it \[i.e. the Taurat (Torah), and the Injeel (Gospel), etc.\], and a full explanation of the Book (i.e. laws and orders, etc, decreed for mankind) - wherein there is no doubt from the the Lord of the 'Alamin (mankind, jinns, and all that exists).
 
 # 1402
 
@@ -5702,7 +5702,7 @@ Say (O Muhammad SAW to these polytheists): "Tell me, what provision Allah has se
 
 # 1424
 
-And what think those who invent lies against Allah, on the Day of Resurrection? [i.e. Do they think that they will be forgiven and excused! Nay, they will have an eternal punishment in the Fire of Hell]. Truly, Allah is full of Bounty to mankind, but most of them are ungrateful.
+And what think those who invent lies against Allah, on the Day of Resurrection? \[i.e. Do they think that they will be forgiven and excused! Nay, they will have an eternal punishment in the Fire of Hell\]. Truly, Allah is full of Bounty to mankind, but most of them are ungrateful.
 
 # 1425
 
@@ -5710,7 +5710,7 @@ Whatever you (O Muhammad SAW) may be doing, and whatever portion you may be reci
 
 # 1426
 
-No doubt! Verily, the Auliya' of Allah [i.e. those who believe in the Oneness of Allah and fear Allah much (abstain from all kinds of sins and evil deeds which he has forbidden), and love Allah much (perform all kinds of good deeds which He has ordained)], no fear shall come upon them nor shall they grieve,
+No doubt! Verily, the Auliya' of Allah \[i.e. those who believe in the Oneness of Allah and fear Allah much (abstain from all kinds of sins and evil deeds which he has forbidden), and love Allah much (perform all kinds of good deeds which He has ordained)\], no fear shall come upon them nor shall they grieve,
 
 # 1427
 
@@ -5742,7 +5742,7 @@ Say: "Verily, those who invent lie against Allah will never be successful"
 
 # 1434
 
-A brief enjoyment in this world! - and then unto Us will be their return, then We shall make them taste the severest torment because they used to disbelieve [in Allah, belie His Messengers, deny and challenge His Ayat (proofs, signs, verses, etc.)].
+A brief enjoyment in this world! - and then unto Us will be their return, then We shall make them taste the severest torment because they used to disbelieve \[in Allah, belie His Messengers, deny and challenge His Ayat (proofs, signs, verses, etc.)\].
 
 # 1435
 
@@ -5750,7 +5750,7 @@ And recite to them the news of Nuh (Noah). When he said to his people: "O my peo
 
 # 1436
 
-"But if you turn away [from accepting my doctrine of Islamic Monotheism, i.e. to worship none but Allah], then no reward have I asked of you, my reward is only from Allah, and I have been commanded to be one of the Muslims (those who submit to Allah's Will)."
+"But if you turn away \[from accepting my doctrine of Islamic Monotheism, i.e. to worship none but Allah\], then no reward have I asked of you, my reward is only from Allah, and I have been commanded to be one of the Muslims (those who submit to Allah's Will)."
 
 # 1437
 
@@ -5838,7 +5838,7 @@ And indeed We settled the Children of Israel in an honourable dwelling place (Sh
 
 # 1458
 
-So if you (O Muhammad SAW) are in doubt concerning that which We have revealed unto you, [i.e. that your name is written in the Taurat (Torah) and the Injeel (Gospel)] then ask those who are reading the Book [the Taurat (Torah) and the Injeel (Gospel)] before you. Verily, the truth has come to you from your Lord. So be not of those who doubt (it).
+So if you (O Muhammad SAW) are in doubt concerning that which We have revealed unto you, \[i.e. that your name is written in the Taurat (Torah) and the Injeel (Gospel)\] then ask those who are reading the Book \[the Taurat (Torah) and the Injeel (Gospel)\] before you. Verily, the truth has come to you from your Lord. So be not of those who doubt (it).
 
 # 1459
 
@@ -5902,7 +5902,7 @@ And (O Muhammad SAW), follow the inspiration sent unto you, and be patient till 
 
 # 1474
 
-Alif-Lam-Ra. [These letters are one of the miracles of the Quran and none but Allah (Alone) knows their meanings]. (This is) a Book, the Verses whereof are perfected (in every sphere of knowledge, etc.), and then explained in detail from One (Allah), Who is All-Wise and Well-Acquainted (with all things).
+Alif-Lam-Ra. \[These letters are one of the miracles of the Quran and none but Allah (Alone) knows their meanings\]. (This is) a Book, the Verses whereof are perfected (in every sphere of knowledge, etc.), and then explained in detail from One (Allah), Who is All-Wise and Well-Acquainted (with all things).
 
 # 1475
 
@@ -5966,7 +5966,7 @@ They are those for whom there is nothing in the Hereafter but Fire; and vain are
 
 # 1490
 
-Can they (Muslims) who rely on a clear proof (the Quran) from their Lord, and whom a witness [Prophet Muhammad SAW through Jibrael (Gabriel)] from Him follows it (can they be equal with the disbelievers); and before it, came the Book of Musa (Moses), a guidance and a mercy, they believe therein, but those of the sects (Jews, Christians and all the other non-Muslim nations) that reject it (the Quran), the Fire will be their promised meeting-place. So be not in doubt about it (i.e. those who denied Prophet Muhammad SAW and also denied all that which he brought from Allah, surely, they will enter Hell). Verily, it is the truth from your Lord, but most of the mankind believe not.
+Can they (Muslims) who rely on a clear proof (the Quran) from their Lord, and whom a witness \[Prophet Muhammad SAW through Jibrael (Gabriel)\] from Him follows it (can they be equal with the disbelievers); and before it, came the Book of Musa (Moses), a guidance and a mercy, they believe therein, but those of the sects (Jews, Christians and all the other non-Muslim nations) that reject it (the Quran), the Fire will be their promised meeting-place. So be not in doubt about it (i.e. those who denied Prophet Muhammad SAW and also denied all that which he brought from Allah, surely, they will enter Hell). Verily, it is the truth from your Lord, but most of the mankind believe not.
 
 # 1491
 
@@ -6062,7 +6062,7 @@ And as he was constructing the ship, whenever the chiefs of his people passed by
 
 # 1514
 
-And he [Nuh (Noah)] said: "Embark therein, in the Name of Allah will be its moving course and its resting anchorage. Surely, my Lord is Oft-Forgiving, Most Merciful." (Tafsir At-Tabari, Vol. 12, Page 43)
+And he \[Nuh (Noah)\] said: "Embark therein, in the Name of Allah will be its moving course and its resting anchorage. Surely, my Lord is Oft-Forgiving, Most Merciful." (Tafsir At-Tabari, Vol. 12, Page 43)
 
 # 1515
 
@@ -6146,7 +6146,7 @@ And to Thamud (people, We sent) their brother Salih (Saleh). He said: "O my peop
 
 # 1535
 
-They said: "O Salih (Saleh)! You have been among us as a figure of good hope (and we wished for you to be our chief), till this [new thing which you have brought; that we leave our gods and worship your God (Allah) Alone]! Do you (now) forbid us the worship of what our fathers have worshipped? But we are really in grave doubt as to that which you invite us to (monotheism)."
+They said: "O Salih (Saleh)! You have been among us as a figure of good hope (and we wished for you to be our chief), till this \[new thing which you have brought; that we leave our gods and worship your God (Allah) Alone\]! Do you (now) forbid us the worship of what our fathers have worshipped? But we are really in grave doubt as to that which you invite us to (monotheism)."
 
 # 1536
 
@@ -6190,7 +6190,7 @@ She said (in astonishment): "Woe unto me! Shall I bear a child while I am an old
 
 # 1546
 
-They said: "Do you wonder at the Decree of Allah? The Mercy of Allah and His Blessings be on you, O the family [of Ibrahim (Abraham)]. Surely, He (Allah) is All-Praiseworthy, All-Glorious."
+They said: "Do you wonder at the Decree of Allah? The Mercy of Allah and His Blessings be on you, O the family \[of Ibrahim (Abraham)\]. Surely, He (Allah) is All-Praiseworthy, All-Glorious."
 
 # 1547
 
@@ -6354,7 +6354,7 @@ And incline not toward those who do wrong, lest the Fire should touch you, and y
 
 # 1587
 
-And perform As-Salat (Iqamat-as-Salat), at the two ends of the day and in some hours of the night [i.e. the five compulsory Salat (prayers)]. Verily, the good deeds remove the evil deeds (i.e. small sins). That is a reminder (an advice) for the mindful (those who accept advice).
+And perform As-Salat (Iqamat-as-Salat), at the two ends of the day and in some hours of the night \[i.e. the five compulsory Salat (prayers)\]. Verily, the good deeds remove the evil deeds (i.e. small sins). That is a reminder (an advice) for the mindful (those who accept advice).
 
 # 1588
 
@@ -6370,7 +6370,7 @@ And your Lord would never destroy the towns wrongfully, while their people were 
 
 # 1591
 
-And if your Lord had so willed, He could surely have made mankind one Ummah [nation or community (following one religion only i.e. Islam)], but they will not cease to disagree,
+And if your Lord had so willed, He could surely have made mankind one Ummah \[nation or community (following one religion only i.e. Islam)\], but they will not cease to disagree,
 
 # 1592
 
@@ -6394,7 +6394,7 @@ And to Allah belongs the Ghaib (unseen) of the heavens and the earth, and to Him
 
 # 1597
 
-Alif-Lam-Ra. [These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings]. These are the Verses of the Clear Book (the Quran that makes clear the legal and illegal things, legal laws, a guidance and a blessing).
+Alif-Lam-Ra. \[These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings\]. These are the Verses of the Clear Book (the Quran that makes clear the legal and illegal things, legal laws, a guidance and a blessing).
 
 # 1598
 
@@ -6442,7 +6442,7 @@ They said: "O our father! Why do you not trust us with Yusuf (Joseph), - when we
 
 # 1609
 
-He [Ya'qub (Jacob)] said: "Truly, it saddens me that you should take him away. I fear lest a wolf should devour him, while you are careless of him."
+He \[Ya'qub (Jacob)\] said: "Truly, it saddens me that you should take him away. I fear lest a wolf should devour him, while you are careless of him."
 
 # 1610
 
@@ -6478,7 +6478,7 @@ And he (the man) from Egypt who bought him, said to his wife: "Make his stay com
 
 # 1618
 
-And when he [Yusuf (Joseph)] attained his full manhood, We gave him wisdom and knowledge (the Prophethood), thus We reward the Muhsinun (doers of good - see V. 2:112).
+And when he \[Yusuf (Joseph)\] attained his full manhood, We gave him wisdom and knowledge (the Prophethood), thus We reward the Muhsinun (doers of good - see V. 2:112).
 
 # 1619
 
@@ -6494,7 +6494,7 @@ So they raced with one another to the door, and she tore his shirt from the back
 
 # 1622
 
-He [Yusuf (Joseph)] said: "It was she that sought to seduce me," - and a witness of her household bore witness (saying): "If it be that his shirt is torn from the front, then her tale is true and he is a liar!
+He \[Yusuf (Joseph)\] said: "It was she that sought to seduce me," - and a witness of her household bore witness (saying): "If it be that his shirt is torn from the front, then her tale is true and he is a liar!
 
 # 1623
 
@@ -6502,7 +6502,7 @@ He [Yusuf (Joseph)] said: "It was she that sought to seduce me," - and a witness
 
 # 1624
 
-So when he (her husband) saw his [(Yusuf's (Joseph)] shirt torn at the back; (her husband) said: "Surely, it is a plot of you women! Certainly mighty is your plot!
+So when he (her husband) saw his \[(Yusuf's (Joseph)\] shirt torn at the back; (her husband) said: "Surely, it is a plot of you women! Certainly mighty is your plot!
 
 # 1625
 
@@ -6514,7 +6514,7 @@ And women in the city said: "The wife of Al-'Aziz is seeking to seduce her (slav
 
 # 1627
 
-So when she heard of their accusation, she sent for them and prepared a banquet for them; she gave each one of them a knife (to cut the foodstuff with), and she said [(to Yusuf (Joseph)]: "Come out before them." Then, when they saw him, they exalted him (at his beauty) and (in their astonishment) cut their hands. They said: "How perfect is Allah (or Allah forbid)! No man is this! This is none other than a noble angel!"
+So when she heard of their accusation, she sent for them and prepared a banquet for them; she gave each one of them a knife (to cut the foodstuff with), and she said \[(to Yusuf (Joseph)\]: "Come out before them." Then, when they saw him, they exalted him (at his beauty) and (in their astonishment) cut their hands. They said: "How perfect is Allah (or Allah forbid)! No man is this! This is none other than a noble angel!"
 
 # 1628
 
@@ -6542,7 +6542,7 @@ He said: "No food will come to you (in wakefulness or in dream) as your provisio
 
 # 1634
 
-"And I have followed the religion of my fathers, - Ibrahim (Abraham), Ishaque (Isaac) and Ya'qub (Jacob)], and never could we attribute any partners whatsoever to Allah. This is from the Grace of Allah to us and to mankind, but most men thank not (i.e. they neither believe in Allah, nor worship Him).
+"And I have followed the religion of my fathers, - Ibrahim (Abraham), Ishaque (Isaac) and Ya'qub (Jacob)\], and never could we attribute any partners whatsoever to Allah. This is from the Grace of Allah to us and to mankind, but most men thank not (i.e. they neither believe in Allah, nor worship Him).
 
 # 1635
 
@@ -6558,7 +6558,7 @@ He said: "No food will come to you (in wakefulness or in dream) as your provisio
 
 # 1638
 
-And he said to the one whom he knew to be saved: "Mention me to your lord (i.e. your king, so as to get me out of the prison)." But Shaitan (Satan) made him forget to mention it to his Lord [or Satan made [(Yusuf (Joseph)] to forget the remembrance of his Lord (Allah) as to ask for His Help, instead of others]. So [Yusuf (Joseph)] stayed in prison a few (more) years.
+And he said to the one whom he knew to be saved: "Mention me to your lord (i.e. your king, so as to get me out of the prison)." But Shaitan (Satan) made him forget to mention it to his Lord \[or Satan made \[(Yusuf (Joseph)\] to forget the remembrance of his Lord (Allah) as to ask for His Help, instead of others\]. So \[Yusuf (Joseph)\] stayed in prison a few (more) years.
 
 # 1639
 
@@ -6578,7 +6578,7 @@ Then the man who was released (one of the two who were in prison), now at length
 
 # 1643
 
-[(Yusuf (Joseph)] said: "For seven consecutive years, you shall sow as usual and that (the harvest) which you reap you shall leave in ears, (all) - except a little of it which you may eat.
+\[(Yusuf (Joseph)\] said: "For seven consecutive years, you shall sow as usual and that (the harvest) which you reap you shall leave in ears, (all) - except a little of it which you may eat.
 
 # 1644
 
@@ -6590,7 +6590,7 @@ Then the man who was released (one of the two who were in prison), now at length
 
 # 1646
 
-And the king said: "Bring him to me." But when the messenger came to him, [Yusuf (Joseph)] said: "Return to your lord and ask him, 'What happened to the women who cut their hands? Surely, my Lord (Allah) is Well-Aware of their plot. 
+And the king said: "Bring him to me." But when the messenger came to him, \[Yusuf (Joseph)\] said: "Return to your lord and ask him, 'What happened to the women who cut their hands? Surely, my Lord (Allah) is Well-Aware of their plot. 
 
 # 1647
 
@@ -6598,7 +6598,7 @@ And the king said: "Bring him to me." But when the messenger came to him, [Yusuf
 
 # 1648
 
-[Then Yusuf (Joseph) said: "I asked for this enquiry] in order that he (Al-'Aziz) may know that I betrayed him not in secret. And, verily! Allah guides not the plot of the betrayers.
+\[Then Yusuf (Joseph) said: "I asked for this enquiry\] in order that he (Al-'Aziz) may know that I betrayed him not in secret. And, verily! Allah guides not the plot of the betrayers.
 
 # 1649
 
@@ -6610,7 +6610,7 @@ And the king said: "Bring him to me that I may attach him to my person." Then, w
 
 # 1651
 
-[Yusuf (Joseph)] said: "Set me over the storehouses of the land; I will indeed guard them with full knowledge" (as a minister of finance in Egypt, in place of Al-'Aziz who was dead at that time).
+\[Yusuf (Joseph)\] said: "Set me over the storehouses of the land; I will indeed guard them with full knowledge" (as a minister of finance in Egypt, in place of Al-'Aziz who was dead at that time).
 
 # 1652
 
@@ -6638,7 +6638,7 @@ They said: "We shall try to get permission (for him) from his father, and verily
 
 # 1658
 
-And [Yusuf (Joseph)] told his servants to put their money (with which they had bought the corn) into their bags, so that they might know it when they go back to their people, in order that they might come back.
+And \[Yusuf (Joseph)\] told his servants to put their money (with which they had bought the corn) into their bags, so that they might know it when they go back to their people, in order that they might come back.
 
 # 1659
 
@@ -6646,7 +6646,7 @@ So, when they returned to their father, they said: "O our father! No more measur
 
 # 1660
 
-He said: "Can I entrust him to you except as I entrusted his brother [Yusuf (Joseph)] to you aforetime? But Allah is the Best to guard, and He is the Most Merciful of those who show mercy."
+He said: "Can I entrust him to you except as I entrusted his brother \[Yusuf (Joseph)\] to you aforetime? But Allah is the Best to guard, and He is the Most Merciful of those who show mercy."
 
 # 1661
 
@@ -6654,7 +6654,7 @@ And when they opened their bags, they found their money had been returned to the
 
 # 1662
 
-He [Ya'qub (Jacob)] said: "I will not send him with you until you swear a solemn oath to me in Allah's Name, that you will bring him back to me unless you are yourselves surrounded (by enemies, etc.)," And when they had sworn their solemn oath, he said: "Allah is the Witness over what we have said."
+He \[Ya'qub (Jacob)\] said: "I will not send him with you until you swear a solemn oath to me in Allah's Name, that you will bring him back to me unless you are yourselves surrounded (by enemies, etc.)," And when they had sworn their solemn oath, he said: "Allah is the Witness over what we have said."
 
 # 1663
 
@@ -6686,19 +6686,19 @@ They said: "By Allah! Indeed you know that we came not to make mischief in the l
 
 # 1670
 
-They [Yusuf's (Joseph) men] said: "What then shall be the penalty of him, if you are (proved to be) liars."
+They \[Yusuf's (Joseph) men\] said: "What then shall be the penalty of him, if you are (proved to be) liars."
 
 # 1671
 
-They [Yusuf's (Joseph) brothers] said: "The penalty should be that he, in whose bag it is found, should be held for the punishment (of the crime). Thus we punish the Zalimun (wrong-doers, etc.)!"
+They \[Yusuf's (Joseph) brothers\] said: "The penalty should be that he, in whose bag it is found, should be held for the punishment (of the crime). Thus we punish the Zalimun (wrong-doers, etc.)!"
 
 # 1672
 
-So he [Yusuf (Joseph)] began (the search) in their bags before the bag of his brother. Then he brought it out of his brother's bag. Thus did We plan for Yusuf (Joseph). He could not take his brother by the law of the king (as a slave), except that Allah willed it. (So Allah made the brothers to bind themselves with their way of "punishment, i.e. enslaving of a thief.") We raise to degrees whom We please, but over all those endowed with knowledge is the All-Knowing (Allah).
+So he \[Yusuf (Joseph)\] began (the search) in their bags before the bag of his brother. Then he brought it out of his brother's bag. Thus did We plan for Yusuf (Joseph). He could not take his brother by the law of the king (as a slave), except that Allah willed it. (So Allah made the brothers to bind themselves with their way of "punishment, i.e. enslaving of a thief.") We raise to degrees whom We please, but over all those endowed with knowledge is the All-Knowing (Allah).
 
 # 1673
 
-They [(Yusuf's (Joseph) brothers] said: "If he steals, there was a brother of his [Yusuf (Joseph)] who did steal before (him)." But these things did Yusuf (Joseph) keep in himself, revealing not the secrets to them. He said (within himself): "You are in worst case, and Allah knows best the truth of what you assert!"
+They \[(Yusuf's (Joseph) brothers\] said: "If he steals, there was a brother of his \[Yusuf (Joseph)\] who did steal before (him)." But these things did Yusuf (Joseph) keep in himself, revealing not the secrets to them. He said (within himself): "You are in worst case, and Allah knows best the truth of what you assert!"
 
 # 1674
 
@@ -6722,7 +6722,7 @@ So, when they despaired of him, they held a conference in private. The eldest am
 
 # 1679
 
-He [Ya'qub (Jacob)] said: "Nay, but your ownselves have beguiled you into something. So patience is most fitting (for me). May be Allah will bring them (back) all to me. Truly He! only He is All-Knowing, All-Wise."
+He \[Ya'qub (Jacob)\] said: "Nay, but your ownselves have beguiled you into something. So patience is most fitting (for me). May be Allah will bring them (back) all to me. Truly He! only He is All-Knowing, All-Wise."
 
 # 1680
 
@@ -6742,7 +6742,7 @@ He said: "I only complain of my grief and sorrow to Allah, and I know from Allah
 
 # 1684
 
-Then, when they entered unto him [Yusuf (Joseph)], they said: "O ruler of the land! A hard time has hit us and our family, and we have brought but poor capital, so pay us full measure and be charitable to us. Truly, Allah does reward the charitable."
+Then, when they entered unto him \[Yusuf (Joseph)\], they said: "O ruler of the land! A hard time has hit us and our family, and we have brought but poor capital, so pay us full measure and be charitable to us. Truly, Allah does reward the charitable."
 
 # 1685
 
@@ -6814,7 +6814,7 @@ And how many a sign in the heavens and the earth they pass by, while they are av
 
 # 1702
 
-And most of them believe not in Allah except that they attribute partners unto Him [i.e. they are Mushrikun -polytheists - see Verse 6:121].
+And most of them believe not in Allah except that they attribute partners unto Him \[i.e. they are Mushrikun -polytheists - see Verse 6:121\].
 
 # 1703
 
@@ -6834,11 +6834,11 @@ And We sent not before you (as Messengers) any but men, whom We inspired from am
 
 # 1707
 
-Indeed in their stories, there is a lesson for men of understanding. It (the Quran) is not a forged statement but a confirmation of the Allah's existing Books [the Taurat (Torah), the Injeel (Gospel) and other Scriptures of Allah] and a detailed explanation of everything and a guide and a Mercy for the people who believe.
+Indeed in their stories, there is a lesson for men of understanding. It (the Quran) is not a forged statement but a confirmation of the Allah's existing Books \[the Taurat (Torah), the Injeel (Gospel) and other Scriptures of Allah\] and a detailed explanation of everything and a guide and a Mercy for the people who believe.
 
 # 1708
 
-Alif-Lam-Mim-Ra [These letters are one of the miracles of the Quran and none but Allah (Alone) knows their meanings]. These are the Verses of the Book (the Quran), and that which has been revealed unto you (Muhammad SAW) from your Lord is the truth, but most men believe not.
+Alif-Lam-Mim-Ra \[These letters are one of the miracles of the Quran and none but Allah (Alone) knows their meanings\]. These are the Verses of the Book (the Quran), and that which has been revealed unto you (Muhammad SAW) from your Lord is the truth, but most men believe not.
 
 # 1709
 
@@ -6906,7 +6906,7 @@ He sends down water (rain) from the sky, and the valleys flow according to their
 
 # 1725
 
-For those who answered their Lord's Call [believed in the Oneness of Allah and followed His Messenger Muhammad SAW i.e. Islamic Monotheism] is Al-Husna (i.e. Paradise). But those who answered not His Call (disbelieved in the Oneness of Allah and followed not His Messenger Muhammad SAW), if they had all that is in the earth together with its like, they would offer it in order to save themselves (from the torment, it will be in vain). For them there will be the terrible reckoning. Their dwelling place will be Hell; - and worst indeed is that place for rest.
+For those who answered their Lord's Call \[believed in the Oneness of Allah and followed His Messenger Muhammad SAW i.e. Islamic Monotheism\] is Al-Husna (i.e. Paradise). But those who answered not His Call (disbelieved in the Oneness of Allah and followed not His Messenger Muhammad SAW), if they had all that is in the earth together with its like, they would offer it in order to save themselves (from the torment, it will be in vain). For them there will be the terrible reckoning. Their dwelling place will be Hell; - and worst indeed is that place for rest.
 
 # 1726
 
@@ -7010,7 +7010,7 @@ And those who disbelieve, say: "You (O Muhammad SAW) are not a Messenger." Say: 
 
 # 1751
 
-Alif-Lam-Ra. [These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings]. (This is) a Book which We have revealed unto you (O Muhammad SAW) in order that you might lead mankind out of darkness (of disbelief and polytheism) into light (of belief in the Oneness of Allah and Islamic Monotheism) by their Lord's Leave to the Path of the All-Mighty, the Owner of all Praise.
+Alif-Lam-Ra. \[These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings\]. (This is) a Book which We have revealed unto you (O Muhammad SAW) in order that you might lead mankind out of darkness (of disbelief and polytheism) into light (of belief in the Oneness of Allah and Islamic Monotheism) by their Lord's Leave to the Path of the All-Mighty, the Owner of all Praise.
 
 # 1752
 
@@ -7066,7 +7066,7 @@ And those who disbelieved, said to their Messengers: "Surely, we shall drive you
 
 # 1765
 
-But they (the Messengers) sought victory and help [from their Lord (Allah)], and every obstinate, arrogant dictator (who refuses to believe in the Oneness of Allah) was brought to a complete loss and destruction.
+But they (the Messengers) sought victory and help \[from their Lord (Allah)\], and every obstinate, arrogant dictator (who refuses to believe in the Oneness of Allah) was brought to a complete loss and destruction.
 
 # 1766
 
@@ -7190,7 +7190,7 @@ And warn (O Muhammad SAW) mankind of the Day when the torment will come unto the
 
 # 1796
 
-Indeed, they planned their plot, and their plot was with Allah, though their plot was a great (one, still) it would never be able to remove the mountains (real mountains or the Islamic law) from their places (as it is of no importance) [Tafsir Ibn Kathir, Vol. 2, Page 597]. [It is said by some interpreters regarding this Verse that the Quraish pagans plotted against Prophet Muhammad SAW to kill him but they failed and were unable to carry out their plot which they plotted].
+Indeed, they planned their plot, and their plot was with Allah, though their plot was a great (one, still) it would never be able to remove the mountains (real mountains or the Islamic law) from their places (as it is of no importance) \[Tafsir Ibn Kathir, Vol. 2, Page 597\]. \[It is said by some interpreters regarding this Verse that the Quraish pagans plotted against Prophet Muhammad SAW to kill him but they failed and were unable to carry out their plot which they plotted\].
 
 # 1797
 
@@ -7202,7 +7202,7 @@ On the Day when the earth will be changed to another earth and so will be the he
 
 # 1799
 
-And you will see the Mujrimun (criminals, disbelievers in the Oneness of Allah Islamic Monotheism, polytheists, disobedient to Allah, etc.) that Day bound together in fetters; [Muqarranun in fetters; mean:- with their hands and feet tied to their necks with chains.]
+And you will see the Mujrimun (criminals, disbelievers in the Oneness of Allah Islamic Monotheism, polytheists, disobedient to Allah, etc.) that Day bound together in fetters; \[Muqarranun in fetters; mean:- with their hands and feet tied to their necks with chains.\]
 
 # 1800
 
@@ -7218,11 +7218,11 @@ This (Quran) is a Message for mankind (and a clear proof against them), in order
 
 # 1803
 
-Alif-Lam-Ra. [These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings]. These are the Verses of the Book, and a plain Quran.
+Alif-Lam-Ra. \[These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings\]. These are the Verses of the Book, and a plain Quran.
 
 # 1804
 
-Perhaps (often) will those who disbelieve wish that they were Muslims [those who have submitted themselves to Allah's Will in Islam Islamic Monotheism, this will be on the Day of Resurrection when they will see the disbelievers going to Hell and the Muslims going to Paradise].
+Perhaps (often) will those who disbelieve wish that they were Muslims \[those who have submitted themselves to Allah's Will in Islam Islamic Monotheism, this will be on the Day of Resurrection when they will see the disbelievers going to Hell and the Muslims going to Paradise\].
 
 # 1805
 
@@ -7262,7 +7262,7 @@ And never came a Messenger to them but they did mock him.
 
 # 1814
 
-Thus do We let it (polytheism and disbelief) enter into the hearts of the Mujrimun [criminals, polytheists, pagans, etc. (because of their mockery at the Messengers)].
+Thus do We let it (polytheism and disbelief) enter into the hearts of the Mujrimun \[criminals, polytheists, pagans, etc. (because of their mockery at the Messengers)\].
 
 # 1815
 
@@ -7294,7 +7294,7 @@ And the earth We spread out, and placed therein firm mountains, and caused to gr
 
 # 1822
 
-And We have provided therein means of living, for you and for those whom you provide not [moving (living) creatures, cattle, beasts, and other animals].
+And We have provided therein means of living, for you and for those whom you provide not \[moving (living) creatures, cattle, beasts, and other animals\].
 
 # 1823
 
@@ -7302,7 +7302,7 @@ And there is not a thing, but with Us are the stores thereof. And We send it not
 
 # 1824
 
-And We send the winds fertilizing (to fill heavily the clouds with water), then caused the water (rain) to descend from the sky, and We gave it to you to drink, and it is not you who are the owners of its stores [i.e. to give water to whom you like or to withhold it from whom you like].
+And We send the winds fertilizing (to fill heavily the clouds with water), then caused the water (rain) to descend from the sky, and We gave it to you to drink, and it is not you who are the owners of its stores \[i.e. to give water to whom you like or to withhold it from whom you like\].
 
 # 1825
 
@@ -7346,11 +7346,11 @@ Except Iblis (Satan), - he refused to be among the prostrators.
 
 # 1835
 
-[Iblis (Satan)] said: "I am not the one to prostrate myself to a human being, whom You created from sounding clay of altered black smooth mud."
+\[Iblis (Satan)\] said: "I am not the one to prostrate myself to a human being, whom You created from sounding clay of altered black smooth mud."
 
 # 1836
 
-(Allah) said: "Then, get out from here, for verily, you are Rajim (an outcast or a cursed one)." [Tafsir At-Tabari]
+(Allah) said: "Then, get out from here, for verily, you are Rajim (an outcast or a cursed one)." \[Tafsir At-Tabari\]
 
 # 1837
 
@@ -7358,7 +7358,7 @@ Except Iblis (Satan), - he refused to be among the prostrators.
 
 # 1838
 
-[Iblis (Satan)] said: "O my Lord! Give me then respite till the Day they (the dead) will be resurrected."
+\[Iblis (Satan)\] said: "O my Lord! Give me then respite till the Day they (the dead) will be resurrected."
 
 # 1839
 
@@ -7370,7 +7370,7 @@ Allah said: "Then, verily, you are of those reprieved,
 
 # 1841
 
-[Iblis (Satan)] said: "O my Lord! Because you misled me, I shall indeed adorn the path of error for them (mankind) on the earth, and I shall mislead them all.
+\[Iblis (Satan)\] said: "O my Lord! Because you misled me, I shall indeed adorn the path of error for them (mankind) on the earth, and I shall mislead them all.
 
 # 1842
 
@@ -7422,7 +7422,7 @@ And tell them about the guests (the angels) of Ibrahim (Abraham).
 
 # 1854
 
-When they entered unto him, and said: Salaman (peace)! [Ibrahim (Abraham)] said: "Indeed! We are afraid of you."
+When they entered unto him, and said: Salaman (peace)! \[Ibrahim (Abraham)\] said: "Indeed! We are afraid of you."
 
 # 1855
 
@@ -7430,7 +7430,7 @@ They (the angels) said: "Do not be afraid! We give you glad tidings of a boy (so
 
 # 1856
 
-[Ibrahim (Abraham)] said: "Do you give me glad tidings (of a son) when old age has overtaken me? Of what then is your news?"
+\[Ibrahim (Abraham)\] said: "Do you give me glad tidings (of a son) when old age has overtaken me? Of what then is your news?"
 
 # 1857
 
@@ -7438,11 +7438,11 @@ They (the angels) said: "We give you glad tidings in truth. So be not of the des
 
 # 1858
 
-[Ibrahim (Abraham)] said: "And who despairs of the Mercy of his Lord except those who are astray?"
+\[Ibrahim (Abraham)\] said: "And who despairs of the Mercy of his Lord except those who are astray?"
 
 # 1859
 
-[Ibrahim (Abraham) again] said: "What then is the business on which you have come, O Messengers?"
+\[Ibrahim (Abraham) again\] said: "What then is the business on which you have come, O Messengers?"
 
 # 1860
 
@@ -7486,7 +7486,7 @@ And the inhabitants of the city came rejoicing (at the news of the young men's a
 
 # 1870
 
-[Lout (Lot)] said: "Verily! these are my guests, so shame me not.
+\[Lout (Lot)\] said: "Verily! these are my guests, so shame me not.
 
 # 1871
 
@@ -7498,7 +7498,7 @@ They (people of the city) said: "Did we not forbid you to entertain (or protect)
 
 # 1873
 
-[Lout (Lot)] said: "These (the girls of the nation) are my daughters (to marry lawfully), if you must act (so)."
+\[Lout (Lot)\] said: "These (the girls of the nation) are my daughters (to marry lawfully), if you must act (so)."
 
 # 1874
 
@@ -7526,7 +7526,7 @@ Surely! Therein is indeed a sign for the believers.
 
 # 1880
 
-And the dwellers in the wood [i.e. the people of Madyan (Midian) to whom Prophet Shu'aib was sent by Allah), were also Zalimun (polytheists and wrong-doers, etc.).
+And the dwellers in the wood \[i.e. the people of Madyan (Midian) to whom Prophet Shu'aib was sent by Allah), were also Zalimun (polytheists and wrong-doers, etc.).
 
 # 1881
 
@@ -7554,7 +7554,7 @@ And all that which they used to earn availed them not.
 
 # 1887
 
-And We created not the heavens and the earth and all that is between them except with truth, and the Hour is surely coming, so overlook (O Muhammad SAW), their faults with gracious forgiveness. [This was before the ordainment of Jihad holy fighting in Allah's Cause].
+And We created not the heavens and the earth and all that is between them except with truth, and the Hour is surely coming, so overlook (O Muhammad SAW), their faults with gracious forgiveness. \[This was before the ordainment of Jihad holy fighting in Allah's Cause\].
 
 # 1888
 
@@ -7662,7 +7662,7 @@ And He has subjected to you the night and the day, the sun and the moon; and the
 
 # 1914
 
-And whatsoever He has created for you on this earth of varying colours [and qualities from vegetation and fruits, etc. (botanical life) and from animal (zoological life)]. Verily! In this is a sign for people who remember.
+And whatsoever He has created for you on this earth of varying colours \[and qualities from vegetation and fruits, etc. (botanical life) and from animal (zoological life)\]. Verily! In this is a sign for people who remember.
 
 # 1915
 
@@ -7742,7 +7742,7 @@ Those whose lives the angels take while they are in a pious state (i.e. pure fro
 
 # 1934
 
-Do they (the disbelievers and polytheists) await but that the angels should come to them [to take away their souls (at death)], or there should come the command (i.e. the torment or the Day of Resurrection) of your Lord? Thus did those before them. And Allah wronged them not, but they used to wrong themselves.
+Do they (the disbelievers and polytheists) await but that the angels should come to them \[to take away their souls (at death)\], or there should come the command (i.e. the torment or the Day of Resurrection) of your Lord? Thus did those before them. And Allah wronged them not, but they used to wrong themselves.
 
 # 1935
 
@@ -7782,7 +7782,7 @@ And as for those who emigrated for the Cause of Allah, after suffering oppressio
 
 # 1944
 
-And We sent not (as Our Messengers) before you (O Muhammad SAW) any but men, whom We inspired, (to preach and invite mankind to believe in the Oneness of Allah). So ask of those who know the Scripture [learned men of the Taurat (Torah) and the Injeel (Gospel)], if you know not.
+And We sent not (as Our Messengers) before you (O Muhammad SAW) any but men, whom We inspired, (to preach and invite mankind to believe in the Oneness of Allah). So ask of those who know the Scripture \[learned men of the Taurat (Torah) and the Injeel (Gospel)\], if you know not.
 
 # 1945
 
@@ -7806,7 +7806,7 @@ Have they not observed things that Allah has created, (how) their shadows inclin
 
 # 1950
 
-And to Allah prostate all that is in the heavens and all that is in the earth, of the live moving creatures and the angels, and they are not proud [i.e. they worship their Lord (Allah) with humility].
+And to Allah prostate all that is in the heavens and all that is in the earth, of the live moving creatures and the angels, and they are not proud \[i.e. they worship their Lord (Allah) with humility\].
 
 # 1951
 
@@ -7814,11 +7814,11 @@ They fear their Lord above them, and they do what they are commanded.
 
 # 1952
 
-And Allah said (O mankind!): "Take not ilahain (two gods in worship, etc.). Verily, He (Allah) is (the) only One Ilah (God). Then, fear Me (Allah) much [and Me (Alone), i.e. be away from all kinds of sins and evil deeds that Allah has forbidden and do all that Allah has ordained and worship none but Allah].
+And Allah said (O mankind!): "Take not ilahain (two gods in worship, etc.). Verily, He (Allah) is (the) only One Ilah (God). Then, fear Me (Allah) much \[and Me (Alone), i.e. be away from all kinds of sins and evil deeds that Allah has forbidden and do all that Allah has ordained and worship none but Allah\].
 
 # 1953
 
-To Him belongs all that is in the heavens and (all that is in) the earth and Ad-Din Wasiba is His [(i.e. perpetual sincere obedience to Allah is obligatory). None has the right to be worshipped but Allah)]. Will you then fear any other than Allah?
+To Him belongs all that is in the heavens and (all that is in) the earth and Ad-Din Wasiba is His \[(i.e. perpetual sincere obedience to Allah is obligatory). None has the right to be worshipped but Allah)\]. Will you then fear any other than Allah?
 
 # 1954
 
@@ -7926,7 +7926,7 @@ And Allah has brought you out from the wombs of your mothers while you know noth
 
 # 1980
 
-Do they not see the birds held (flying) in the midst of the sky? None holds them but Allah [none gave them the ability to fly but Allah]. Verily, in this are clear proofs and signs for people who believe (in the Oneness of Allah).
+Do they not see the birds held (flying) in the midst of the sky? None holds them but Allah \[none gave them the ability to fly but Allah\]. Verily, in this are clear proofs and signs for people who believe (in the Oneness of Allah).
 
 # 1981
 
@@ -7958,11 +7958,11 @@ And when those who associated partners with Allah see their (Allah's so-called) 
 
 # 1988
 
-And they will offer (their full) submission to Allah (Alone) on that Day, and their invented false deities [all that they used to invoke besides Allah, e.g. idols, saints, priests, monks, angels, jinns, Jibrael (Gabriel), Messengers, etc.] will vanish from them.
+And they will offer (their full) submission to Allah (Alone) on that Day, and their invented false deities \[all that they used to invoke besides Allah, e.g. idols, saints, priests, monks, angels, jinns, Jibrael (Gabriel), Messengers, etc.\] will vanish from them.
 
 # 1989
 
-Those who disbelieved and hinder (men) from the Path of Allah, for them We will add torment over the torment; because they used to spread corruption [by disobeying Allah themselves, as well as ordering others (mankind) to do so].
+Those who disbelieved and hinder (men) from the Path of Allah, for them We will add torment over the torment; because they used to spread corruption \[by disobeying Allah themselves, as well as ordering others (mankind) to do so\].
 
 # 1990
 
@@ -7970,7 +7970,7 @@ And (remember) the Day when We shall raise up from every nation a witness agains
 
 # 1991
 
-Verily, Allah enjoins Al-Adl (i.e. justice and worshipping none but Allah Alone - Islamic Monotheism) and Al-Ihsan [i.e. to be patient in performing your duties to Allah, totally for Allah's sake and in accordance with the Sunnah (legal ways) of the Prophet SAW in a perfect manner], and giving (help) to kith and kin (i.e. all that Allah has ordered you to give them e.g., wealth, visiting, looking after them, or any other kind of help, etc.): and forbids Al-Fahsha' (i.e. all evil deeds, e.g. illegal sexual acts, disobedience of parents, polytheism, to tell lies, to give false witness, to kill a life without right, etc.), and Al-Munkar (i.e. all that is prohibited by Islamic law: polytheism of every kind, disbelief and every kind of evil deeds, etc.), and Al-Baghy (i.e. all kinds of oppression), He admonishes you, that you may take heed.
+Verily, Allah enjoins Al-Adl (i.e. justice and worshipping none but Allah Alone - Islamic Monotheism) and Al-Ihsan \[i.e. to be patient in performing your duties to Allah, totally for Allah's sake and in accordance with the Sunnah (legal ways) of the Prophet SAW in a perfect manner\], and giving (help) to kith and kin (i.e. all that Allah has ordered you to give them e.g., wealth, visiting, looking after them, or any other kind of help, etc.): and forbids Al-Fahsha' (i.e. all evil deeds, e.g. illegal sexual acts, disobedience of parents, polytheism, to tell lies, to give false witness, to kill a life without right, etc.), and Al-Munkar (i.e. all that is prohibited by Islamic law: polytheism of every kind, disbelief and every kind of evil deeds, etc.), and Al-Baghy (i.e. all kinds of oppression), He admonishes you, that you may take heed.
 
 # 1992
 
@@ -7978,7 +7978,7 @@ And fulfill the Covenant of Allah (Bai'a: pledge for Islam) when you have covena
 
 # 1993
 
-And be not like her who undoes the thread which she has spun after it has become strong, by taking your oaths a means of deception among yourselves, lest a nation may be more numerous than another nation. Allah only tests you by this [i.e. who obeys Allah and fulfills Allah's Covenant and who disobeys Allah and breaks Allah's Covenant]. And on the Day of Resurrection, He will certainly make clear to you that wherein you used to differ [i.e. a believer confesses and believes in the Oneness of Allah and in the Prophethood of Prophet Muhammad SAW which the disbeliever denies it and that was their difference amongst them in the life of this world].
+And be not like her who undoes the thread which she has spun after it has become strong, by taking your oaths a means of deception among yourselves, lest a nation may be more numerous than another nation. Allah only tests you by this \[i.e. who obeys Allah and fulfills Allah's Covenant and who disobeys Allah and breaks Allah's Covenant\]. And on the Day of Resurrection, He will certainly make clear to you that wherein you used to differ \[i.e. a believer confesses and believes in the Oneness of Allah and in the Prophethood of Prophet Muhammad SAW which the disbeliever denies it and that was their difference amongst them in the life of this world\].
 
 # 1994
 
@@ -8010,15 +8010,15 @@ Verily! He has no power over those who believe and put their trust only in their
 
 # 2001
 
-His power is only over those who obey and follow him (Satan), and those who join partners with Him (Allah) [i.e. those who are Mushrikun - polytheists - see Verse 6:121].
+His power is only over those who obey and follow him (Satan), and those who join partners with Him (Allah) \[i.e. those who are Mushrikun - polytheists - see Verse 6:121\].
 
 # 2002
 
-And when We change a Verse [of the Quran, i.e. cancel (abrogate) its order] in place of another, and Allah knows the best of what He sends down, they (the disbelievers) say: "You (O Muhammad SAW) are but a Muftari! (forger, liar)." Nay, but most of them know not.
+And when We change a Verse \[of the Quran, i.e. cancel (abrogate) its order\] in place of another, and Allah knows the best of what He sends down, they (the disbelievers) say: "You (O Muhammad SAW) are but a Muftari! (forger, liar)." Nay, but most of them know not.
 
 # 2003
 
-Say (O Muhammad SAW) Ruh-ul-Qudus [Jibrael (Gabriel)] has brought it (the Quran) down from your Lord with truth, that it may make firm and strengthen (the Faith of) those who believe and as a guidance and glad tidings to those who have submitted (to Allah as Muslims).
+Say (O Muhammad SAW) Ruh-ul-Qudus \[Jibrael (Gabriel)\] has brought it (the Quran) down from your Lord with truth, that it may make firm and strengthen (the Faith of) those who believe and as a guidance and glad tidings to those who have submitted (to Allah as Muslims).
 
 # 2004
 
@@ -8082,7 +8082,7 @@ A passing brief enjoyment (will be theirs), but they will have a painful torment
 
 # 2019
 
-And unto those who are Jews, We have forbidden such things as We have mentioned to you (O Muhammad SAW) before [in Surat-Al-An'am, (The Cattle), see Verse 6:146]. And We wronged them not, but they used to wrong themselves.
+And unto those who are Jews, We have forbidden such things as We have mentioned to you (O Muhammad SAW) before \[in Surat-Al-An'am, (The Cattle), see Verse 6:146\]. And We wronged them not, but they used to wrong themselves.
 
 # 2020
 
@@ -8126,7 +8126,7 @@ Truly, Allah is with those who fear Him (keep their duty unto Him), and those wh
 
 # 2030
 
-Glorified (and Exalted) be He (Allah) [above all that (evil) they associate with Him] [Tafsir Qurtubi, Vol. 10, Page 204] Who took His slave (Muhammad SAW) for a journey by night from Al-Masjid-al-Haram (at Makkah) to the farthest mosque (in Jerusalem), the neighborhood whereof We have blessed, in order that We might show him (Muhammad SAW) of Our Ayat (proofs, evidences, lessons, signs, etc.). Verily, He is the All-Hearer, the All-Seer.
+Glorified (and Exalted) be He (Allah) \[above all that (evil) they associate with Him\] \[Tafsir Qurtubi, Vol. 10, Page 204\] Who took His slave (Muhammad SAW) for a journey by night from Al-Masjid-al-Haram (at Makkah) to the farthest mosque (in Jerusalem), the neighborhood whereof We have blessed, in order that We might show him (Muhammad SAW) of Our Ayat (proofs, evidences, lessons, signs, etc.). Verily, He is the All-Hearer, the All-Seer.
 
 # 2031
 
@@ -8154,7 +8154,7 @@ Then We gave you once again, a return of victory over them. And We helped you wi
 
 # 2037
 
-[And We said in the Taurat (Torah)]: "It may be that your Lord may show mercy unto you, but if you return (to sins), We shall return (to Our Punishment). And We have made Hell a prison for the disbelievers.
+\[And We said in the Taurat (Torah)\]: "It may be that your Lord may show mercy unto you, but if you return (to sins), We shall return (to Our Punishment). And We have made Hell a prison for the disbelievers.
 
 # 2038
 
@@ -8166,7 +8166,7 @@ And that those who believe not in the Hereafter (i.e. they disbelieve that they 
 
 # 2040
 
-And man invokes (Allah) for evil as he invokes (Allah) for good and man is ever hasty [i.e., if he is angry with somebody, he invokes (saying): "O Allah! Curse him, etc." and that one should not do, but one should be patient].
+And man invokes (Allah) for evil as he invokes (Allah) for good and man is ever hasty \[i.e., if he is angry with somebody, he invokes (saying): "O Allah! Curse him, etc." and that one should not do, but one should be patient\].
 
 # 2041
 
@@ -8186,7 +8186,7 @@ Whoever goes right, then he goes right only for the benefit of his ownself. And 
 
 # 2045
 
-And when We decide to destroy a town (population), We (first) send a definite order (to obey Allah and be righteous) to those among them [or We (first) increase in number those of its population] who are given the good things of this life. Then, they transgress therein, and thus the word (of torment) is justified against it (them). Then We destroy it with complete destruction.
+And when We decide to destroy a town (population), We (first) send a definite order (to obey Allah and be righteous) to those among them \[or We (first) increase in number those of its population\] who are given the good things of this life. Then, they transgress therein, and thus the word (of torment) is justified against it (them). Then We destroy it with complete destruction.
 
 # 2046
 
@@ -8226,7 +8226,7 @@ Your Lord knows best what is in your inner-selves. If you are righteous, then, v
 
 # 2055
 
-And give to the kindred his due and to the Miskin (poor) and to the wayfarer. But spend not wastefully (your wealth) in the manner of a spendthrift. [Tafsir. At-Tabari, Vol. 10, Page 158 (Verse 9:60)].
+And give to the kindred his due and to the Miskin (poor) and to the wayfarer. But spend not wastefully (your wealth) in the manner of a spendthrift. \[Tafsir. At-Tabari, Vol. 10, Page 158 (Verse 9:60)\].
 
 # 2056
 
@@ -8250,11 +8250,11 @@ And kill not your children for fear of poverty. We provide for them and for you.
 
 # 2061
 
-And come not near to the unlawful sexual intercourse. Verily, it is a Fahishah [i.e. anything that transgresses its limits (a great sin)], and an evil way (that leads one to Hell unless Allah forgives him).
+And come not near to the unlawful sexual intercourse. Verily, it is a Fahishah \[i.e. anything that transgresses its limits (a great sin)\], and an evil way (that leads one to Hell unless Allah forgives him).
 
 # 2062
 
-And do not kill anyone which Allah has forbidden, except for a just cause. And whoever is killed (intentionally with hostility and oppression and not by mistake), We have given his heir the authority [(to demand Qisas, Law of Equality in punishment or to forgive, or to take Diya (blood money)]. But let him not exceed limits in the matter of taking life (i.e. he should not kill except the killer only). Verily, he is helped (by the Islamic law).
+And do not kill anyone which Allah has forbidden, except for a just cause. And whoever is killed (intentionally with hostility and oppression and not by mistake), We have given his heir the authority \[(to demand Qisas, Law of Equality in punishment or to forgive, or to take Diya (blood money)\]. But let him not exceed limits in the matter of taking life (i.e. he should not kill except the killer only). Verily, he is helped (by the Islamic law).
 
 # 2063
 
@@ -8286,7 +8286,7 @@ Has then your Lord (O pagans of Makkah) preferred for you sons, and taken for Hi
 
 # 2070
 
-And surely, We have explained [Our Promises, Warnings and (set forth many) examples] in this Quran that they (the disbelievers) may take heed, but it increases them in naught save aversion.
+And surely, We have explained \[Our Promises, Warnings and (set forth many) examples\] in this Quran that they (the disbelievers) may take heed, but it increases them in naught save aversion.
 
 # 2071
 
@@ -8306,7 +8306,7 @@ And when you (Muhammad SAW) recite the Quran, We put between you and those who b
 
 # 2075
 
-And We have put coverings over their hearts lest, they should understand it (the Quran), and in their ears deafness. And when you make mention of your Lord Alone [La ilaha ill-Allah (none has the right to be worshipped but Allah) Islamic Monotheism] in the Quran, they turn on their backs, fleeing in extreme dislikeness.
+And We have put coverings over their hearts lest, they should understand it (the Quran), and in their ears deafness. And when you make mention of your Lord Alone \[La ilaha ill-Allah (none has the right to be worshipped but Allah) Islamic Monotheism\] in the Quran, they turn on their backs, fleeing in extreme dislikeness.
 
 # 2076
 
@@ -8346,11 +8346,11 @@ And your Lord knows best all who are in the heavens and the earth. And indeed, W
 
 # 2085
 
-Say (O Muhammad SAW): "Call unto those besides Him whom you pretend [to be gods like angels, Iesa (Jesus), 'Uzair (Ezra), etc.]. They have neither the power to remove the adversity from you nor even to shift it from you to another person."
+Say (O Muhammad SAW): "Call unto those besides Him whom you pretend \[to be gods like angels, Iesa (Jesus), 'Uzair (Ezra), etc.\]. They have neither the power to remove the adversity from you nor even to shift it from you to another person."
 
 # 2086
 
-Those whom they call upon [like 'Iesa (Jesus) - son of Maryam (Mary), 'Uzair (Ezra), angel, etc.] desire (for themselves) means of access to their Lord (Allah), as to which of them should be the nearest and they ['Iesa (Jesus), 'Uzair (Ezra), angels, etc.] hope for His Mercy and fear His Torment. Verily, the Torment of your Lord is something to be afraid of!
+Those whom they call upon \[like 'Iesa (Jesus) - son of Maryam (Mary), 'Uzair (Ezra), angel, etc.\] desire (for themselves) means of access to their Lord (Allah), as to which of them should be the nearest and they \['Iesa (Jesus), 'Uzair (Ezra), angels, etc.\] hope for His Mercy and fear His Torment. Verily, the Torment of your Lord is something to be afraid of!
 
 # 2087
 
@@ -8370,7 +8370,7 @@ And (remember) when We said to the angels: "Prostrate unto Adam." They prostrate
 
 # 2091
 
-[Iblis (Satan)] said: "See? This one whom You have honoured above me, if You give me respite (keep me alive) to the Day of Resurrection, I will surely seize and mislead his offspring (by sending them astray) all but a few!"
+\[Iblis (Satan)\] said: "See? This one whom You have honoured above me, if You give me respite (keep me alive) to the Day of Resurrection, I will surely seize and mislead his offspring (by sending them astray) all but a few!"
 
 # 2092
 
@@ -8378,7 +8378,7 @@ And (remember) when We said to the angels: "Prostrate unto Adam." They prostrate
 
 # 2093
 
-"And Istafziz [literally means: befool them gradually] those whom you can among them with your voice (i.e. songs, music, and any other call for Allah's disobedience), make assaults on them with your cavalry and your infantry, mutually share with them wealth and children (by tempting them to earn money by illegal ways usury, etc., or by committing illegal sexual intercourse, etc.), and make promises to them." But Satan promises them nothing but deceit.
+"And Istafziz \[literally means: befool them gradually\] those whom you can among them with your voice (i.e. songs, music, and any other call for Allah's disobedience), make assaults on them with your cavalry and your infantry, mutually share with them wealth and children (by tempting them to earn money by illegal ways usury, etc., or by committing illegal sexual intercourse, etc.), and make promises to them." But Satan promises them nothing but deceit.
 
 # 2094
 
@@ -8406,7 +8406,7 @@ And indeed We have honoured the Children of Adam, and We have carried them on la
 
 # 2100
 
-(And remember) the Day when We shall call together all human beings with their (respective) Imam [their Prophets, or their records of good and bad deeds, or their Holy Books like the Quran, the Taurat (Torah), the Injeel (Gospel), etc.]. So whosoever is given his record in his right hand, such will read their records, and they will not be dealt with unjustly in the least.
+(And remember) the Day when We shall call together all human beings with their (respective) Imam \[their Prophets, or their records of good and bad deeds, or their Holy Books like the Quran, the Taurat (Torah), the Injeel (Gospel), etc.\]. So whosoever is given his record in his right hand, such will read their records, and they will not be dealt with unjustly in the least.
 
 # 2101
 
@@ -8530,7 +8530,7 @@ And indeed We gave to Musa (Moses) nine clear signs. Ask then the Children of Is
 
 # 2131
 
-[Musa (Moses)] said: "Verily, you know that these signs have been sent down by none but the Lord of the heavens and the earth as clear (evidences i.e. proofs of Allah's Oneness and His Omnipotence, etc.). And I think you are, indeed, O Fir'aun (Pharaoh) doomed to destruction (away from all good)!"
+\[Musa (Moses)\] said: "Verily, you know that these signs have been sent down by none but the Lord of the heavens and the earth as clear (evidences i.e. proofs of Allah's Oneness and His Omnipotence, etc.). And I think you are, indeed, O Fir'aun (Pharaoh) doomed to destruction (away from all good)!"
 
 # 2132
 
@@ -8538,7 +8538,7 @@ So he resolved to turn them out of the land (of Egypt). But We drowned him and a
 
 # 2133
 
-And We said to the Children of Israel after him: "Dwell in the land, then, when the final and the last promise comes near [i.e. the Day of Resurrection or the descent of Christ ['Iesa (Jesus), son of Maryam (Mary) on the earth]. We shall bring you altogether as mixed crowd (gathered out of various nations). [Tafsir Al-Qurtubi, Vol. 10, Page 338]
+And We said to the Children of Israel after him: "Dwell in the land, then, when the final and the last promise comes near \[i.e. the Day of Resurrection or the descent of Christ \['Iesa (Jesus), son of Maryam (Mary) on the earth\]. We shall bring you altogether as mixed crowd (gathered out of various nations). \[Tafsir Al-Qurtubi, Vol. 10, Page 338\]
 
 # 2134
 
@@ -8566,7 +8566,7 @@ Say (O Muhammad SAW): "Invoke Allah or invoke the Most Beneficent (Allah), by wh
 
 # 2140
 
-And say: "All the praises and thanks be to Allah, Who has not begotten a son (nor an offspring), and Who has no partner in (His) Dominion, nor He is low to have a Wali (helper, protector or supporter). And magnify Him with all the magnificence, [Allahu-Akbar (Allah is the Most Great)]."
+And say: "All the praises and thanks be to Allah, Who has not begotten a son (nor an offspring), and Who has no partner in (His) Dominion, nor He is low to have a Wali (helper, protector or supporter). And magnify Him with all the magnificence, \[Allahu-Akbar (Allah is the Most Great)\]."
 
 # 2141
 
@@ -8586,7 +8586,7 @@ And to warn those (Jews, Christians, and pagans) who say, "Allah has begotten a 
 
 # 2145
 
-No knowledge have they of such a thing, nor had their fathers. Mighty is the word that comes out of their mouths [i.e. He begot (took) sons and daughters]. They utter nothing but a lie.
+No knowledge have they of such a thing, nor had their fathers. Mighty is the word that comes out of their mouths \[i.e. He begot (took) sons and daughters\]. They utter nothing but a lie.
 
 # 2146
 
@@ -8594,7 +8594,7 @@ Perhaps, you, would kill yourself (O Muhammad SAW) in grief, over their footstep
 
 # 2147
 
-Verily! We have made that which is on earth as an adornment for it, in order that We may test them (mankind) as to which of them are best in deeds. [i.e. those who do good deeds in the most perfect manner, that means to do them (deeds) totally for Allah's sake and in accordance to the legal ways of the Prophet SAW].
+Verily! We have made that which is on earth as an adornment for it, in order that We may test them (mankind) as to which of them are best in deeds. \[i.e. those who do good deeds in the most perfect manner, that means to do them (deeds) totally for Allah's sake and in accordance to the legal ways of the Prophet SAW\].
 
 # 2148
 
@@ -8638,7 +8638,7 @@ And you might have seen the sun, when it rose, declining to the right from their
 
 # 2158
 
-And you would have thought them awake, while they were asleep. And We turned them on their right and on their left sides, and their dog stretching forth his two forelegs at the entrance [of the Cave or in the space near to the entrance of the Cave (as a guard at the gate)]. Had you looked at them, you would certainly have turned back from them in flight, and would certainly have been filled with awe of them.
+And you would have thought them awake, while they were asleep. And We turned them on their right and on their left sides, and their dog stretching forth his two forelegs at the entrance \[of the Cave or in the space near to the entrance of the Cave (as a guard at the gate)\]. Had you looked at them, you would certainly have turned back from them in flight, and would certainly have been filled with awe of them.
 
 # 2159
 
@@ -8702,7 +8702,7 @@ Each of those two gardens brought forth its produce, and failed not in the least
 
 # 2174
 
-And he had property (or fruit) and he said to his companion, in the course of mutual talk: I am more than you in wealth and stronger in respect of men." [See Tafsir Qurtubi, Vol. 10, Page 403].
+And he had property (or fruit) and he said to his companion, in the course of mutual talk: I am more than you in wealth and stronger in respect of men." \[See Tafsir Qurtubi, Vol. 10, Page 403\].
 
 # 2175
 
@@ -8734,7 +8734,7 @@ It was better for you to say, when you entered your garden: 'That which Allah wi
 
 # 2182
 
-So his fruits were encircled (with ruin). And he remained clapping his hands with sorrow over what he had spent upon it, while it was all destroyed on its trellises, he could only say: "Would I had ascribed no partners to my Lord!" [Tafsir Ibn Kathir]
+So his fruits were encircled (with ruin). And he remained clapping his hands with sorrow over what he had spent upon it, while it was all destroyed on its trellises, he could only say: "Would I had ascribed no partners to my Lord!" \[Tafsir Ibn Kathir\]
 
 # 2183
 
@@ -8822,7 +8822,7 @@ He said:"Do you remember when we betook ourselves to the rock? I indeed forgot t
 
 # 2204
 
-[Musa (Moses)] said: "That is what we have been seeking." So they went back retracing their footsteps.
+\[Musa (Moses)\] said: "That is what we have been seeking." So they went back retracing their footsteps.
 
 # 2205
 
@@ -8858,7 +8858,7 @@ He (Khidr) said: "Did I not tell you, that you would not be able to have patienc
 
 # 2213
 
-[Musa (Moses)] said: "Call me not to account for what I forgot, and be not hard upon me for my affair (with you)."
+\[Musa (Moses)\] said: "Call me not to account for what I forgot, and be not hard upon me for my affair (with you)."
 
 # 2214
 
@@ -8870,11 +8870,11 @@ Then they both proceeded, till they met a boy, he (Khidr) killed him. Musa (Mose
 
 # 2216
 
-[Musa (Moses)] said: "If I ask you anything after this, keep me not in your company, you have received an excuse from me."
+\[Musa (Moses)\] said: "If I ask you anything after this, keep me not in your company, you have received an excuse from me."
 
 # 2217
 
-Then they both proceeded, till, when they came to the people of a town, they asked them for food, but they refused to entertain them. Then they found therein a wall about to collapse and he (Khidr) set it up straight. [Musa (Moses)] said: If you had wished, surely, you could have taken wages for it!"
+Then they both proceeded, till, when they came to the people of a town, they asked them for food, but they refused to entertain them. Then they found therein a wall about to collapse and he (Khidr) set it up straight. \[Musa (Moses)\] said: If you had wished, surely, you could have taken wages for it!"
 
 # 2218
 
@@ -8954,7 +8954,7 @@ He said: "That (wealth, authority and power) in which my Lord had established me
 
 # 2237
 
-So they [Ya'juj and Ma'juj (Gog and Magog)] were made powerless to scale it or dig through it.
+So they \[Ya'juj and Ma'juj (Gog and Magog)\] were made powerless to scale it or dig through it.
 
 # 2238
 
@@ -8962,7 +8962,7 @@ Dhul-Qarnain) said: "This is a mercy from my Lord, but when the Promise of my Lo
 
 # 2239
 
-And on that Day [i.e. the Day Ya'juj and Ma'juj (Gog and Magog) will come out], We shall leave them to surge like waves on one another, and the Trumpet will be blown, and We shall collect them all together.
+And on that Day \[i.e. the Day Ya'juj and Ma'juj (Gog and Magog) will come out\], We shall leave them to surge like waves on one another, and the Trumpet will be blown, and We shall collect them all together.
 
 # 2240
 
@@ -8974,7 +8974,7 @@ And on that Day We shall present Hell to the disbelievers, plain to view,
 
 # 2242
 
-Do then those who disbelieve think that they can take My slaves [i.e., the angels, Allah's Messengers, 'Iesa (Jesus), son of Maryam (Mary), etc.] as Auliya' (lords, gods, protectors, etc.) besides Me? Verily, We have prepared Hell as an entertainment for the disbelievers (in the Oneness of Allah Islamic Monotheism).
+Do then those who disbelieve think that they can take My slaves \[i.e., the angels, Allah's Messengers, 'Iesa (Jesus), son of Maryam (Mary), etc.\] as Auliya' (lords, gods, protectors, etc.) besides Me? Verily, We have prepared Hell as an entertainment for the disbelievers (in the Oneness of Allah Islamic Monotheism).
 
 # 2243
 
@@ -9010,7 +9010,7 @@ Say (O Muhammad SAW): "I am only a man like you. It has been inspired to me that
 
 # 2251
 
-Kaf- Ha-Ya-'Ain-Sad. [These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings].
+Kaf- Ha-Ya-'Ain-Sad. \[These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings\].
 
 # 2252
 
@@ -9046,7 +9046,7 @@ He said: "So (it will be). Your Lord says; It is easy for Me. Certainly I have c
 
 # 2260
 
-[Zakariya (Zachariah)] said: "My Lord! Appoint for me a sign." He said: "Your sign is that you shall not speak unto mankind for three nights, though having no bodily defect."
+\[Zakariya (Zachariah)\] said: "My Lord! Appoint for me a sign." He said: "Your sign is that you shall not speak unto mankind for three nights, though having no bodily defect."
 
 # 2261
 
@@ -9054,11 +9054,11 @@ Then he came out to his people from Al-Mihrab (a praying place or a private room
 
 # 2262
 
-(It was said to his son): "O Yahya (John)! Hold fast the Scripture [the Taurat (Torah)]." And We gave him wisdom while yet a child.
+(It was said to his son): "O Yahya (John)! Hold fast the Scripture \[the Taurat (Torah)\]." And We gave him wisdom while yet a child.
 
 # 2263
 
-And (made him) sympathetic to men as a mercy (or a grant) from Us, and pure from sins [i.e. Yahya (John)] and he was righteous,
+And (made him) sympathetic to men as a mercy (or a grant) from Us, and pure from sins \[i.e. Yahya (John)\] and he was righteous,
 
 # 2264
 
@@ -9074,7 +9074,7 @@ And mention in the Book (the Quran, O Muhammad SAW, the story of) Maryam (Mary),
 
 # 2267
 
-She placed a screen (to screen herself) from them; then We sent to her Our Ruh [angel Jibrael (Gabriel)], and he appeared before her in the form of a man in all respects.
+She placed a screen (to screen herself) from them; then We sent to her Our Ruh \[angel Jibrael (Gabriel)\], and he appeared before her in the form of a man in all respects.
 
 # 2268
 
@@ -9102,7 +9102,7 @@ And the pains of childbirth drove her to the trunk of a date-palm. She said: "Wo
 
 # 2274
 
-Then [the babe 'Iesa (Jesus) or Jibrael (Gabriel)] cried unto her from below her, saying: "Grieve not! Your Lord has provided a water stream under you;
+Then \[the babe 'Iesa (Jesus) or Jibrael (Gabriel)\] cried unto her from below her, saying: "Grieve not! Your Lord has provided a water stream under you;
 
 # 2275
 
@@ -9118,7 +9118,7 @@ Then she brought him (the baby) to her people, carrying him. They said: "O Mary!
 
 # 2278
 
-"O sister (i.e. the like) of Harun (Aaron) [not the brother of Musa (Moses), but he was another pious man at the time of Maryam (Mary)]! Your father was not a man who used to commit adultery, nor your mother was an unchaste woman."
+"O sister (i.e. the like) of Harun (Aaron) \[not the brother of Musa (Moses), but he was another pious man at the time of Maryam (Mary)\]! Your father was not a man who used to commit adultery, nor your mother was an unchaste woman."
 
 # 2279
 
@@ -9126,7 +9126,7 @@ Then she pointed to him. They said: "How can we talk to one who is a child in th
 
 # 2280
 
-"He ['Iesa (Jesus)] said: Verily! I am a slave of Allah, He has given me the Scripture and made me a Prophet;"
+"He \['Iesa (Jesus)\] said: Verily! I am a slave of Allah, He has given me the Scripture and made me a Prophet;"
 
 # 2281
 
@@ -9146,15 +9146,15 @@ Such is 'Iesa (Jesus), son of Maryam (Mary). (it is) a statement of truth, about
 
 # 2285
 
-It befits not (the Majesty of) Allah that He should beget a son [this refers to the slander of Christians against Allah, by saying that 'Iesa (Jesus) is the son of Allah]. Glorified (and Exalted be He above all that they associate with Him). When He decrees a thing, He only says to it, "Be!" and it is.
+It befits not (the Majesty of) Allah that He should beget a son \[this refers to the slander of Christians against Allah, by saying that 'Iesa (Jesus) is the son of Allah\]. Glorified (and Exalted be He above all that they associate with Him). When He decrees a thing, He only says to it, "Be!" and it is.
 
 # 2286
 
-['Iesa (Jesus) said]: "And verily Allah is my Lord and your Lord. So worship Him (Alone). That is the Straight Path. (Allah's Religion of Islamic Monotheism which He did ordain for all of His Prophets)." [Tafsir At-Tabari]
+\['Iesa (Jesus) said\]: "And verily Allah is my Lord and your Lord. So worship Him (Alone). That is the Straight Path. (Allah's Religion of Islamic Monotheism which He did ordain for all of His Prophets)." \[Tafsir At-Tabari\]
 
 # 2287
 
-Then the sects differed [i.e. the Christians about 'Iesa (Jesus)], so woe unto the disbelievers [those who gave false witness by saying that 'Iesa (Jesus) is the son of Allah] from the meeting of a great Day (i.e. the Day of Resurrection, when they will be thrown in the blazing Fire).
+Then the sects differed \[i.e. the Christians about 'Iesa (Jesus)\], so woe unto the disbelievers \[those who gave false witness by saying that 'Iesa (Jesus) is the son of Allah\] from the meeting of a great Day (i.e. the Day of Resurrection, when they will be thrown in the blazing Fire).
 
 # 2288
 
@@ -9186,7 +9186,7 @@ When he said to his father: "O my father! Why do you worship that which hears no
 
 # 2295
 
-"O my father! Verily! I fear lest a torment from the Most Beneficent (Allah) overtake you, so that you become a companion of Shaitan (Satan) (in the Hell-fire)." [Tafsir Al-Qurtubi]
+"O my father! Verily! I fear lest a torment from the Most Beneficent (Allah) overtake you, so that you become a companion of Shaitan (Satan) (in the Hell-fire)." \[Tafsir Al-Qurtubi\]
 
 # 2296
 
@@ -9214,7 +9214,7 @@ And mention in the Book (this Quran) Musa (Moses). Verily! He was chosen and he 
 
 # 2302
 
-And We called him from the right side of the Mount, and made him draw near to Us for a talk with him [Musa (Moses)].
+And We called him from the right side of the Mount, and made him draw near to Us for a talk with him \[Musa (Moses)\].
 
 # 2303
 
@@ -9242,7 +9242,7 @@ Those were they unto whom Allah bestowed His Grace from among the Prophets, of t
 
 # 2309
 
-Then, there has succeeded them a posterity who have given up As-Salat (the prayers) [i.e. made their Salat (prayers) to be lost, either by not offering them or by not offering them perfectly or by not offering them in their proper fixed times, etc.] and have followed lusts. So they will be thrown in Hell.
+Then, there has succeeded them a posterity who have given up As-Salat (the prayers) \[i.e. made their Salat (prayers) to be lost, either by not offering them or by not offering them perfectly or by not offering them in their proper fixed times, etc.\] and have followed lusts. So they will be thrown in Hell.
 
 # 2310
 
@@ -9254,7 +9254,7 @@ Except those who repent and believe (in the Oneness of Allah and His Messenger M
 
 # 2312
 
-They shall not hear therein (in Paradise) any Laghw (dirty, false, evil vain talk), but only Salam (salutations of peace). And they will have therein their sustenance, morning and afternoon. [See (V. 40:55)].
+They shall not hear therein (in Paradise) any Laghw (dirty, false, evil vain talk), but only Salam (salutations of peace). And they will have therein their sustenance, morning and afternoon. \[See (V. 40:55)\].
 
 # 2313
 
@@ -9266,7 +9266,7 @@ And we (angels) descend not except by the Command of your Lord (O Muhammad SAW).
 
 # 2315
 
-Lord of the heavens and the earth, and all that is between them, so worship Him (Alone) and be constant and patient in His worship. Do you know of any who is similar to Him? (of course none is similar or coequal or comparable to Him, and He has none as partner with Him). [There is nothing like unto Him and He is the All-Hearer, the All-Seer].
+Lord of the heavens and the earth, and all that is between them, so worship Him (Alone) and be constant and patient in His worship. Do you know of any who is similar to Him? (of course none is similar or coequal or comparable to Him, and He has none as partner with Him). \[There is nothing like unto Him and He is the All-Hearer, the All-Seer\].
 
 # 2316
 
@@ -9306,15 +9306,15 @@ And how many a generation (past nations) have We destroyed before them, who were
 
 # 2325
 
-Say (O Muhammad SAW) whoever is in error, the Most Beneficent (Allah) will extend (the rope) to him, until, when they see that which they were promised, either the torment or the Hour, they will come to know who is worst in position, and who is weaker in forces. [This is the answer for the Verse No. 19:73]
+Say (O Muhammad SAW) whoever is in error, the Most Beneficent (Allah) will extend (the rope) to him, until, when they see that which they were promised, either the torment or the Hour, they will come to know who is worst in position, and who is weaker in forces. \[This is the answer for the Verse No. 19:73\]
 
 # 2326
 
-And Allah increases in guidance those who walk aright [true believers in the Oneness of Allah who fear Allah much (abstain from all kinds of sins and evil deeds which He has forbidden), and love Allah much (perform all kinds of good deeds which He has ordained)]. And the righteous good deeds that last, are better with your Lord, for reward and better for resort.
+And Allah increases in guidance those who walk aright \[true believers in the Oneness of Allah who fear Allah much (abstain from all kinds of sins and evil deeds which He has forbidden), and love Allah much (perform all kinds of good deeds which He has ordained)\]. And the righteous good deeds that last, are better with your Lord, for reward and better for resort.
 
 # 2327
 
-Have you seen him who disbelieved in Our Ayat (this Quran and Muhammad SAW) and (yet) says: "I shall certainly be given wealth and children [if I will be alive (again)],"
+Have you seen him who disbelieved in Our Ayat (this Quran and Muhammad SAW) and (yet) says: "I shall certainly be given wealth and children \[if I will be alive (again)\],"
 
 # 2328
 
@@ -9358,7 +9358,7 @@ None shall have the power of intercession, but such a one as has received permis
 
 # 2338
 
-And they say: "The Most Beneficent (Allah) has begotten a son (or offspring or children) [as the Jews say: 'Uzair (Ezra) is the son of Allah, and the Christians say that He has begotten a son ['Iesa (Christ)], and the pagan Arabs say that He has begotten daughters (angels, etc.)]."
+And they say: "The Most Beneficent (Allah) has begotten a son (or offspring or children) \[as the Jews say: 'Uzair (Ezra) is the son of Allah, and the Christians say that He has begotten a son \['Iesa (Christ)\], and the pagan Arabs say that He has begotten daughters (angels, etc.)\]."
 
 # 2339
 
@@ -9390,7 +9390,7 @@ And everyone of them will come to Him alone on the Day of Resurrection (without 
 
 # 2346
 
-Verily, those who believe [in the Oneness of Allah and in His Messenger (Muhammad SAW)] and work deeds of righteousness, the Most Beneficent (Allah) will bestow love for them (in the hearts of the believers).
+Verily, those who believe \[in the Oneness of Allah and in His Messenger (Muhammad SAW)\] and work deeds of righteousness, the Most Beneficent (Allah) will bestow love for them (in the hearts of the believers).
 
 # 2347
 
@@ -9402,7 +9402,7 @@ And how many a generation before them have We destroyed! Can you (O Muhammad SAW
 
 # 2349
 
-Ta-Ha. [These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings.]
+Ta-Ha. \[These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings.\]
 
 # 2350
 
@@ -9498,7 +9498,7 @@ Allah said:"Grasp it, and fear not, We shall return it to its former state,
 
 # 2373
 
-[Musa (Moses)] said: "O my Lord! Open for me my chest (grant me self-confidence, contentment, and boldness).
+\[Musa (Moses)\] said: "O my Lord! Open for me my chest (grant me self-confidence, contentment, and boldness).
 
 # 2374
 
@@ -9506,7 +9506,7 @@ Allah said:"Grasp it, and fear not, We shall return it to its former state,
 
 # 2375
 
-"And make loose the knot (the defect) from my tongue, (i.e. remove the incorrectness from my speech) [That occurred as a result of a brand of fire which Musa (Moses) put in his mouth when he was an infant]. [Tafsir At-Tabari, Vol. 16, Page 159].
+"And make loose the knot (the defect) from my tongue, (i.e. remove the incorrectness from my speech) \[That occurred as a result of a brand of fire which Musa (Moses) put in his mouth when he was an infant\]. \[Tafsir At-Tabari, Vol. 16, Page 159\].
 
 # 2376
 
@@ -9590,7 +9590,7 @@ He (Allah) said: "Fear not, verily! I am with you both, hearing and seeing.
 
 # 2396
 
-'Truly, it has been revealed to us that the torment will be for him who denies [believes not in the Oneness of Allah, and in His Messengers, etc.], and turns away.'(from the truth and obedience of Allah)"
+'Truly, it has been revealed to us that the torment will be for him who denies \[believes not in the Oneness of Allah, and in His Messengers, etc.\], and turns away.'(from the truth and obedience of Allah)"
 
 # 2397
 
@@ -9598,15 +9598,15 @@ Fir'aun (Pharaoh) said: "Who then, O Musa (Moses), is the Lord of you two?"
 
 # 2398
 
-[Musa (Moses)] said: "Our Lord is He Who gave to each thing its form and nature, then guided it aright."
+\[Musa (Moses)\] said: "Our Lord is He Who gave to each thing its form and nature, then guided it aright."
 
 # 2399
 
-[Fir'aun (Pharaoh)] said: "What about the generations of old?"
+\[Fir'aun (Pharaoh)\] said: "What about the generations of old?"
 
 # 2400
 
-[Musa (Moses)] said: "The knowledge thereof is with my Lord, in a Record. My Lord is neither unaware nor He forgets, "
+\[Musa (Moses)\] said: "The knowledge thereof is with my Lord, in a Record. My Lord is neither unaware nor He forgets, "
 
 # 2401
 
@@ -9622,11 +9622,11 @@ Thereof (the earth) We created you, and into it We shall return you, and from it
 
 # 2404
 
-And indeed We showed him [Fir'aun (Pharaoh)] all Our Signs and Evidences, but he denied and refused.
+And indeed We showed him \[Fir'aun (Pharaoh)\] all Our Signs and Evidences, but he denied and refused.
 
 # 2405
 
-He [Fir'aun (Pharaoh)] said: "Have you come to drive us out of our land with your magic, O Musa (Moses)?
+He \[Fir'aun (Pharaoh)\] said: "Have you come to drive us out of our land with your magic, O Musa (Moses)?
 
 # 2406
 
@@ -9634,7 +9634,7 @@ He [Fir'aun (Pharaoh)] said: "Have you come to drive us out of our land with you
 
 # 2407
 
-[Musa (Moses)] said: "Your appointed meeting is the day of the festival, and let the people assemble when the sun has risen (forenoon)."
+\[Musa (Moses)\] said: "Your appointed meeting is the day of the festival, and let the people assemble when the sun has risen (forenoon)."
 
 # 2408
 
@@ -9662,7 +9662,7 @@ They said:"O Musa (Moses)! Either you throw first or we be the first to throw?"
 
 # 2414
 
-[Musa (Moses)] said: "Nay, throw you (first)!" Then behold, their ropes and their sticks, by their magic, appeared to him as though they moved fast.
+\[Musa (Moses)\] said: "Nay, throw you (first)!" Then behold, their ropes and their sticks, by their magic, appeared to him as though they moved fast.
 
 # 2415
 
@@ -9682,7 +9682,7 @@ So the magicians fell down prostrate. They said: "We believe in the Lord of Haru
 
 # 2419
 
-[Fir'aun (Pharaoh)] said: "Believe you in him [Musa (Moses)] before I give you permission? Verily! He is your chief who taught you magic. So I will surely cut off your hands and feet on opposite sides, and I will surely crucify you on the trunks of date-palms, and you shall surely know which of us [I (Fir'aun - Pharaoh) or the Lord of Musa (Moses) (Allah)] can give the severe and more lasting torment."
+\[Fir'aun (Pharaoh)\] said: "Believe you in him \[Musa (Moses)\] before I give you permission? Verily! He is your chief who taught you magic. So I will surely cut off your hands and feet on opposite sides, and I will surely crucify you on the trunks of date-palms, and you shall surely know which of us \[I (Fir'aun - Pharaoh) or the Lord of Musa (Moses) (Allah)\] can give the severe and more lasting torment."
 
 # 2420
 
@@ -9690,7 +9690,7 @@ They said: "We prefer you not over the clear signs that have come to us, and to 
 
 # 2421
 
-"Verily! We have believed in our Lord, that He may forgive us our faults, and the magic to which you did compel us. And Allah is better as regards reward in comparison to your [Fir'aun's (Pharaoh)] reward, and more lasting (as regards punishment in comparison to your punishment)."
+"Verily! We have believed in our Lord, that He may forgive us our faults, and the magic to which you did compel us. And Allah is better as regards reward in comparison to your \[Fir'aun's (Pharaoh)\] reward, and more lasting (as regards punishment in comparison to your punishment)."
 
 # 2422
 
@@ -9702,11 +9702,11 @@ But whoever comes to Him (Allah) as a believer (in the Oneness of Allah, etc.), 
 
 # 2424
 
-'Adn (Edn) Paradise (everlasting Gardens), under which rivers flow, wherein they will abide forever: such is the reward of those who purify themselves [(by abstaining from all kinds of sins and evil deeds) which Allah has forbidden and by doing all that which Allah has ordained)].
+'Adn (Edn) Paradise (everlasting Gardens), under which rivers flow, wherein they will abide forever: such is the reward of those who purify themselves \[(by abstaining from all kinds of sins and evil deeds) which Allah has forbidden and by doing all that which Allah has ordained)\].
 
 # 2425
 
-And indeed We inspired Musa (Moses) (saying): "Travel by night with Ibadi (My slaves) and strike a dry path for them in the sea, fearing neither to be overtaken [by Fir'aun (Pharaoh)] nor being afraid (of drowning in the sea)."
+And indeed We inspired Musa (Moses) (saying): "Travel by night with Ibadi (My slaves) and strike a dry path for them in the sea, fearing neither to be overtaken \[by Fir'aun (Pharaoh)\] nor being afraid (of drowning in the sea)."
 
 # 2426
 
@@ -9746,11 +9746,11 @@ Then Musa (Moses) returned to his people in a state of anger and sorrow. He said
 
 # 2435
 
-They said: "We broke not the promise to you, of our own will, but we were made to carry the weight of the ornaments of the [Fir'aun's (Pharaoh)] people, then we cast them (into the fire), and that was what As-Samiri suggested."
+They said: "We broke not the promise to you, of our own will, but we were made to carry the weight of the ornaments of the \[Fir'aun's (Pharaoh)\] people, then we cast them (into the fire), and that was what As-Samiri suggested."
 
 # 2436
 
-Then he took out (of the fire) for them a statue of a calf which seemed to low. They said: "This is your ilah (god), and the ilah (god) of Musa (Moses), but [Musa (Moses)] has forgotten (his god).'"
+Then he took out (of the fire) for them a statue of a calf which seemed to low. They said: "This is your ilah (god), and the ilah (god) of Musa (Moses), but \[Musa (Moses)\] has forgotten (his god).'"
 
 # 2437
 
@@ -9766,7 +9766,7 @@ They said: "We will not stop worshipping it (i.e. the calf), until Musa (Moses) 
 
 # 2440
 
-[Musa (Moses)] said: "O Harun (Aaron)! What stopped you when you saw them going astray;
+\[Musa (Moses)\] said: "O Harun (Aaron)! What stopped you when you saw them going astray;
 
 # 2441
 
@@ -9774,15 +9774,15 @@ They said: "We will not stop worshipping it (i.e. the calf), until Musa (Moses) 
 
 # 2442
 
-He [Harun (Aaron)] said: "O son of my mother! Seize (me) not by my beard, nor by my head! Verily, I feared lest you should say: 'You have caused a division among the Children of Israel, and you have not respected my word!' "
+He \[Harun (Aaron)\] said: "O son of my mother! Seize (me) not by my beard, nor by my head! Verily, I feared lest you should say: 'You have caused a division among the Children of Israel, and you have not respected my word!' "
 
 # 2443
 
-[Musa (Moses)] said: "And what is the matter with you. O Samiri? (i.e. why did you do so?)"
+\[Musa (Moses)\] said: "And what is the matter with you. O Samiri? (i.e. why did you do so?)"
 
 # 2444
 
-(Samiri) said: "I saw what they saw not, so I took a handful (of dust) from the hoof print of the messenger [Jibrael's (Gabriel) horse] and threw it [into the fire in which were put the ornaments of the Fir'aun's (Pharaoh) people, or into the calf]. Thus my inner-self suggested to me."
+(Samiri) said: "I saw what they saw not, so I took a handful (of dust) from the hoof print of the messenger \[Jibrael's (Gabriel) horse\] and threw it \[into the fire in which were put the ornaments of the Fir'aun's (Pharaoh) people, or into the calf\]. Thus my inner-self suggested to me."
 
 # 2445
 
@@ -9906,7 +9906,7 @@ He will say:"O my Lord! Why have you raised me up blind, while I had sight (befo
 
 # 2475
 
-And thus do We requite him who transgresses beyond bounds [i.e. commits the great sins and disobeys his Lord (Allah) and believes not in His Messengers, and His revealed Books, like this Quran, etc.], and believes not in the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) of his Lord, and the torment of the Hereafter is far more severe and more lasting.
+And thus do We requite him who transgresses beyond bounds \[i.e. commits the great sins and disobeys his Lord (Allah) and believes not in His Messengers, and His revealed Books, like this Quran, etc.\], and believes not in the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) of his Lord, and the torment of the Hereafter is far more severe and more lasting.
 
 # 2476
 
@@ -9926,11 +9926,11 @@ And strain not your eyes in longing for the things We have given for enjoyment t
 
 # 2480
 
-And enjoin As-Salat (the prayer) on your family, and be patient in offering them [i.e. the Salat (prayers)]. We ask not of you a provision (i.e. to give Us something: money, etc.); We provide for you. And the good end (i.e. Paradise) is for the Muttaqun (pious - see V. 2:2).
+And enjoin As-Salat (the prayer) on your family, and be patient in offering them \[i.e. the Salat (prayers)\]. We ask not of you a provision (i.e. to give Us something: money, etc.); We provide for you. And the good end (i.e. Paradise) is for the Muttaqun (pious - see V. 2:2).
 
 # 2481
 
-They say: "Why does he not bring us a sign (proof) from his Lord?" Has there not come to them the proof of that which is (written) in the former papers [Scriptures, i.e. the Taurat (Torah), and the Injeel (Gospel), etc. about the coming of the Prophet Muhammad SAW].
+They say: "Why does he not bring us a sign (proof) from his Lord?" Has there not come to them the proof of that which is (written) in the former papers \[Scriptures, i.e. the Taurat (Torah), and the Injeel (Gospel), etc. about the coming of the Prophet Muhammad SAW\].
 
 # 2482
 
@@ -9966,7 +9966,7 @@ Not one of the towns (populations), of those which We destroyed, believed before
 
 # 2490
 
-And We sent not before you (O Muhammad SAW) but men to whom We inspired, so ask the people of the Reminder [Scriptures - the Taurat (Torah), the Injeel (Gospel)] if you do not know.
+And We sent not before you (O Muhammad SAW) but men to whom We inspired, so ask the people of the Reminder \[Scriptures - the Taurat (Torah), the Injeel (Gospel)\] if you do not know.
 
 # 2491
 
@@ -10038,11 +10038,11 @@ Or have they taken for worship (other) aliha (gods) besides Him? Say: "Bring you
 
 # 2508
 
-And We did not send any Messenger before you (O Muhammad SAW) but We inspired him (saying): La ilaha illa Ana [none has the right to be worshipped but I (Allah)], so worship Me (Alone and none else)."
+And We did not send any Messenger before you (O Muhammad SAW) but We inspired him (saying): La ilaha illa Ana \[none has the right to be worshipped but I (Allah)\], so worship Me (Alone and none else)."
 
 # 2509
 
-And they say: "The Most Beneficent (Allah) has begotten a son (or children)." Glory to Him! They [those whom they call children of Allah i.e. the angels, 'Iesa (Jesus) son of Maryam (Mary), 'Uzair (Ezra), etc.], are but honoured slaves.
+And they say: "The Most Beneficent (Allah) has begotten a son (or children)." Glory to Him! They \[those whom they call children of Allah i.e. the angels, 'Iesa (Jesus) son of Maryam (Mary), 'Uzair (Ezra), etc.\], are but honoured slaves.
 
 # 2510
 
@@ -10082,7 +10082,7 @@ Everyone is going to taste death, and We shall make a trial of you with evil and
 
 # 2519
 
-And when those who disbelieve (in the Oneness of Allah) see you (O Muhammad SAW), they take you not except for mockery (saying): "Is this the one who talks (badly) about your gods?" While they disbelieve at the mention of the Most Beneficent (Allah). [Tafsir. Al-Qurtubi].
+And when those who disbelieve (in the Oneness of Allah) see you (O Muhammad SAW), they take you not except for mockery (saying): "Is this the one who talks (badly) about your gods?" While they disbelieve at the mention of the Most Beneficent (Allah). \[Tafsir. Al-Qurtubi\].
 
 # 2520
 
@@ -10118,7 +10118,7 @@ Nay, We gave the luxuries of this life to these men and their fathers until the 
 
 # 2528
 
-Say (O Muhammad SAW): "I warn you only by the revelation (from Allah and not by the opinion of the religious scholars and others). But the deaf (who follow the religious scholars and others blindly) will not hear the call, (even) when they are warned [(i.e. one should follow only the Quran and the Sunnah (legal ways, orders, acts of worship, statements of Prophet Muhammad SAW, as the Companions of the Prophet SAW did)].
+Say (O Muhammad SAW): "I warn you only by the revelation (from Allah and not by the opinion of the religious scholars and others). But the deaf (who follow the religious scholars and others blindly) will not hear the call, (even) when they are warned \[(i.e. one should follow only the Quran and the Sunnah (legal ways, orders, acts of worship, statements of Prophet Muhammad SAW, as the Companions of the Prophet SAW did)\].
 
 # 2529
 
@@ -10130,7 +10130,7 @@ And We shall set up balances of justice on the Day of Resurrection, then none wi
 
 # 2531
 
-And indeed We granted to Musa (Moses) and Harun (Aaron) the criterion (of right and wrong), and a shining light [i.e. the Taurat (Torah)] and a Reminder for Al-Muttaqun (the pious - see V. 2:2).
+And indeed We granted to Musa (Moses) and Harun (Aaron) the criterion (of right and wrong), and a shining light \[i.e. the Taurat (Torah)\] and a Reminder for Al-Muttaqun (the pious - see V. 2:2).
 
 # 2532
 
@@ -10190,7 +10190,7 @@ They said: "Are you the one who has done this to our gods, O Ibrahim (Abraham)?"
 
 # 2546
 
-[Ibrahim (Abraham)] said: "Nay, this one, the biggest of them (idols) did it. Ask them, if they can speak!"
+\[Ibrahim (Abraham)\] said: "Nay, this one, the biggest of them (idols) did it. Ask them, if they can speak!"
 
 # 2547
 
@@ -10198,11 +10198,11 @@ So they turned to themselves and said: "Verily, you are the Zalimun (polytheists
 
 # 2548
 
-Then they turned to themselves (their first thought and said): "Indeed you [Ibrahim (Abraham)] know well that these (idols) speak not!"
+Then they turned to themselves (their first thought and said): "Indeed you \[Ibrahim (Abraham)\] know well that these (idols) speak not!"
 
 # 2549
 
-[Ibrahim (Abraham)] said: "Do you then worship besides Allah, things that can neither profit you, nor harm you?
+\[Ibrahim (Abraham)\] said: "Do you then worship besides Allah, things that can neither profit you, nor harm you?
 
 # 2550
 
@@ -10286,7 +10286,7 @@ And We admitted them to Our Mercy. Verily, they were of the righteous.
 
 # 2570
 
-And (remember) Dhan-Nun (Jonah), when he went off in anger, and imagined that We shall not punish him (i.e. the calamites which had befallen him)! But he cried through the darkness (saying): La ilaha illa Anta [none has the right to be worshipped but You (O Allah)], Glorified (and Exalted) are You [above all that (evil) they associate with You]. Truly, I have been of the wrong-doers."
+And (remember) Dhan-Nun (Jonah), when he went off in anger, and imagined that We shall not punish him (i.e. the calamites which had befallen him)! But he cried through the darkness (saying): La ilaha illa Anta \[none has the right to be worshipped but You (O Allah)\], Glorified (and Exalted) are You \[above all that (evil) they associate with You\]. Truly, I have been of the wrong-doers."
 
 # 2571
 
@@ -10302,11 +10302,11 @@ So We answered his call, and We bestowed upon him Yahya (John), and cured his wi
 
 # 2574
 
-And (remember) she who guarded her chastity [Virgin Maryam (Mary)], We breathed into (the sleeves of) her (shirt or garment) [through Our Ruh - Jibrael (Gabriel)], and We made her and her son ['Iesa (Jesus)] a sign for Al-'Alamin (the mankind and jinns).
+And (remember) she who guarded her chastity \[Virgin Maryam (Mary)\], We breathed into (the sleeves of) her (shirt or garment) \[through Our Ruh - Jibrael (Gabriel)\], and We made her and her son \['Iesa (Jesus)\] a sign for Al-'Alamin (the mankind and jinns).
 
 # 2575
 
-Truly! This, your Ummah [Sharia or religion (Islamic Monotheism)] is one religion, and I am your Lord, therefore worship Me (Alone). [Tafsir Ibn Kathir]
+Truly! This, your Ummah \[Sharia or religion (Islamic Monotheism)\] is one religion, and I am your Lord, therefore worship Me (Alone). \[Tafsir Ibn Kathir\]
 
 # 2576
 
@@ -10342,7 +10342,7 @@ Therein breathing out with deep sighs and roaring will be their portion, and the
 
 # 2584
 
-Verily those for whom the good has preceded from Us, they will be removed far therefrom (Hell) [e.g. 'Iesa (Jesus), son of Maryam (Mary); 'Uzair (Ezra), etc.].
+Verily those for whom the good has preceded from Us, they will be removed far therefrom (Hell) \[e.g. 'Iesa (Jesus), son of Maryam (Mary); 'Uzair (Ezra), etc.\].
 
 # 2585
 
@@ -10358,7 +10358,7 @@ And (remember) the Day when We shall roll up the heavens like a scroll rolled up
 
 # 2588
 
-And indeed We have written in Zabur (Psalms) [i.e. all the revealed Holy Books the Taurat (Torah), the Injeel (Gospel), the Quran] after (We have already written in) Al-Lauh Al-Mahfuz (the Book, that is in the heaven with Allah), that My righteous slaves shall inherit the land (i.e. the land of Paradise).
+And indeed We have written in Zabur (Psalms) \[i.e. all the revealed Holy Books the Taurat (Torah), the Injeel (Gospel), the Quran\] after (We have already written in) Al-Lauh Al-Mahfuz (the Book, that is in the heaven with Allah), that My righteous slaves shall inherit the land (i.e. the land of Paradise).
 
 # 2589
 
@@ -10402,7 +10402,7 @@ And among mankind is he who disputes concerning Allah, without knowledge, and fo
 
 # 2599
 
-For him (the devil) it is decreed that whosoever follows him, he will mislead him, and will drive him to the torment of the Fire. [Tafsir At-Tabari]
+For him (the devil) it is decreed that whosoever follows him, he will mislead him, and will drive him to the torment of the Fire. \[Tafsir At-Tabari\]
 
 # 2600
 
@@ -10486,11 +10486,11 @@ And they are guided (in this world) unto goodly speech (i.e. La ilaha ill-Allah,
 
 # 2620
 
-Verily! Those who disbelieve and hinder (men) from the Path of Allah, and from Al-Masjid-al-Haram (at Makkah) which We have made (open) to (all) men, the dweller in it and the visitor from the country are equal there [as regards its sanctity and pilgrimage (Hajj and 'Umrah)]. And whoever inclines to evil actions therein or to do wrong (i.e. practise polytheism and leave Islamic Monotheism), him We shall cause to taste a painful torment.
+Verily! Those who disbelieve and hinder (men) from the Path of Allah, and from Al-Masjid-al-Haram (at Makkah) which We have made (open) to (all) men, the dweller in it and the visitor from the country are equal there \[as regards its sanctity and pilgrimage (Hajj and 'Umrah)\]. And whoever inclines to evil actions therein or to do wrong (i.e. practise polytheism and leave Islamic Monotheism), him We shall cause to taste a painful torment.
 
 # 2621
 
-And (remember) when We showed Ibrahim (Abraham) the site of the (Sacred) House (the Ka'bah at Makkah) (saying): "Associate not anything (in worship) with Me, [La ilaha ill-Allah (none has the right to be worshipped but Allah Islamic Monotheism], and sanctify My House for those who circumambulate it, and those who stand up for prayer, and those who bow (submit themselves with humility and obedience to Allah), and make prostration (in prayer, etc.);"
+And (remember) when We showed Ibrahim (Abraham) the site of the (Sacred) House (the Ka'bah at Makkah) (saying): "Associate not anything (in worship) with Me, \[La ilaha ill-Allah (none has the right to be worshipped but Allah Islamic Monotheism\], and sanctify My House for those who circumambulate it, and those who stand up for prayer, and those who bow (submit themselves with humility and obedience to Allah), and make prostration (in prayer, etc.);"
 
 # 2622
 
@@ -10514,7 +10514,7 @@ Hunafa' Lillah (i.e. to worship none but Allah), not associating partners (in wo
 
 # 2627
 
-Thus it is [what has been mentioned in the above said Verses (27, 28, 29, 30, 31) is an obligation that mankind owes to Allah]. And whosoever honours the Symbols of Allah, then it is truly from the piety of the heart.
+Thus it is \[what has been mentioned in the above said Verses (27, 28, 29, 30, 31) is an obligation that mankind owes to Allah\]. And whosoever honours the Symbols of Allah, then it is truly from the piety of the heart.
 
 # 2628
 
@@ -10522,7 +10522,7 @@ In them (cattle offered for sacrifice) are benefits for you for an appointed ter
 
 # 2629
 
-And for every nation We have appointed religious ceremonies, that they may mention the Name of Allah over the beast of cattle that He has given them for food. And your Ilah (God) is One Ilah (God Allah), so you must submit to Him Alone (in Islam). And (O Muhammad SAW) give glad tidings to the Mukhbitin [those who obey Allah with humility and are humble from among the true believers of Islamic Monotheism],
+And for every nation We have appointed religious ceremonies, that they may mention the Name of Allah over the beast of cattle that He has given them for food. And your Ilah (God) is One Ilah (God Allah), so you must submit to Him Alone (in Islam). And (O Muhammad SAW) give glad tidings to the Mukhbitin \[those who obey Allah with humility and are humble from among the true believers of Islamic Monotheism\],
 
 # 2630
 
@@ -10538,7 +10538,7 @@ It is neither their meat nor their blood that reaches Allah, but it is piety fro
 
 # 2633
 
-Truly, Allah defends those who believe. Verily! Allah likes not any treacherous ingrate to Allah [those who disobey Allah but obey Shaitan (Satan)].
+Truly, Allah defends those who believe. Verily! Allah likes not any treacherous ingrate to Allah \[those who disobey Allah but obey Shaitan (Satan)\].
 
 # 2634
 
@@ -10550,7 +10550,7 @@ Those who have been expelled from their homes unjustly only because they said: "
 
 # 2636
 
-Those (Muslim rulers) who, if We give them power in the land, (they) order for Iqamat-as-Salat. [i.e. to perform the five compulsory congregational Salat (prayers) (the males in mosques)], to pay the Zakat and they enjoin Al-Ma'ruf (i.e. Islamic Monotheism and all that Islam orders one to do), and forbid Al-Munkar (i.e. disbelief, polytheism and all that Islam has forbidden) [i.e. they make the Quran as the law of their country in all the spheres of life]. And with Allah rests the end of (all) matters (of creatures).
+Those (Muslim rulers) who, if We give them power in the land, (they) order for Iqamat-as-Salat. \[i.e. to perform the five compulsory congregational Salat (prayers) (the males in mosques)\], to pay the Zakat and they enjoin Al-Ma'ruf (i.e. Islamic Monotheism and all that Islam orders one to do), and forbid Al-Munkar (i.e. disbelief, polytheism and all that Islam has forbidden) \[i.e. they make the Quran as the law of their country in all the spheres of life\]. And with Allah rests the end of (all) matters (of creatures).
 
 # 2637
 
@@ -10654,7 +10654,7 @@ It is He, Who gave you life, and then will cause you to die, and will again give
 
 # 2662
 
-For every nation We have ordained religious ceremonies [e.g. slaughtering of the beast of cattle during the three days of stay at Mina (Makkah) during the Hajj (pilgrimage)] which they must follow; so let them (pagans) not dispute with you on the matter (i.e. to eat of the cattle which you slaughter, and not to eat of cattle which Allah kills by its natural death), but invite them to your Lord. Verily! You (O Muhammad SAW) indeed are on the (true) straight guidance. (i.e. the true religion of Islamic Monotheism).
+For every nation We have ordained religious ceremonies \[e.g. slaughtering of the beast of cattle during the three days of stay at Mina (Makkah) during the Hajj (pilgrimage)\] which they must follow; so let them (pagans) not dispute with you on the matter (i.e. to eat of the cattle which you slaughter, and not to eat of cattle which Allah kills by its natural death), but invite them to your Lord. Verily! You (O Muhammad SAW) indeed are on the (true) straight guidance. (i.e. the true religion of Islamic Monotheism).
 
 # 2663
 
@@ -10698,7 +10698,7 @@ O you who believe! Bow down, and prostrate yourselves, and worship your Lord and
 
 # 2673
 
-And strive hard in Allah's Cause as you ought to strive (with sincerity and with all your efforts that His Name should be superior). He has chosen you (to convey His Message of Islamic Monotheism to mankind by inviting them to His religion, Islam), and has not laid upon you in religion any hardship, it is the religion of your father Ibrahim (Abraham) (Islamic Monotheism). It is He (Allah) Who has named you Muslims both before and in this (the Quran), that the Messenger (Muhammad SAW) may be a witness over you and you be witnesses over mankind! So perform As-Salat (Iqamat-as-Salat), give Zakat and hold fast to Allah [i.e. have confidence in Allah, and depend upon Him in all your affairs] He is your Maula (Patron, Lord, etc.), what an Excellent Maula (Patron, Lord, etc.) and what an Excellent Helper!
+And strive hard in Allah's Cause as you ought to strive (with sincerity and with all your efforts that His Name should be superior). He has chosen you (to convey His Message of Islamic Monotheism to mankind by inviting them to His religion, Islam), and has not laid upon you in religion any hardship, it is the religion of your father Ibrahim (Abraham) (Islamic Monotheism). It is He (Allah) Who has named you Muslims both before and in this (the Quran), that the Messenger (Muhammad SAW) may be a witness over you and you be witnesses over mankind! So perform As-Salat (Iqamat-as-Salat), give Zakat and hold fast to Allah \[i.e. have confidence in Allah, and depend upon Him in all your affairs\] He is your Maula (Patron, Lord, etc.), what an Excellent Maula (Patron, Lord, etc.) and what an Excellent Helper!
 
 # 2674
 
@@ -10802,7 +10802,7 @@ But the chiefs of those who disbelieved among his people said: "He is no more th
 
 # 2699
 
-[Nuh (Noah)] said: "O my Lord! Help me because they deny me."
+\[Nuh (Noah)\] said: "O my Lord! Help me because they deny me."
 
 # 2700
 
@@ -10818,7 +10818,7 @@ And say: "My Lord! Cause me to land at a blessed landing-place, for You are the 
 
 # 2703
 
-Verily, in this [what We did as regards drowning of the people of Nuh (Noah)], there are indeed Ayat (proofs, evidences, lessons, signs, etc. for men to understand), for sure We are ever putting (men) to the test.
+Verily, in this \[what We did as regards drowning of the people of Nuh (Noah)\], there are indeed Ayat (proofs, evidences, lessons, signs, etc. for men to understand), for sure We are ever putting (men) to the test.
 
 # 2704
 
@@ -10890,7 +10890,7 @@ They said: "Shall we believe in two men like ourselves, and their people are obe
 
 # 2721
 
-So they denied them both [Musa (Moses) and Harun (Aaron)] and became of those who were destroyed.
+So they denied them both \[Musa (Moses) and Harun (Aaron)\] and became of those who were destroyed.
 
 # 2722
 
@@ -10902,7 +10902,7 @@ And We made the son of Maryam (Mary) and his mother as a sign, And We gave them 
 
 # 2724
 
-O (you) Messengers! Eat of the Taiyibat [all kinds of Halal (legal) foods which Allah has made legal (meat of slaughtered eatable animals, milk products, fats, vegetables, fruits, etc.], and do righteous deeds. Verily! I am Well-Acquainted with what you do.
+O (you) Messengers! Eat of the Taiyibat \[all kinds of Halal (legal) foods which Allah has made legal (meat of slaughtered eatable animals, milk products, fats, vegetables, fruits, etc.\], and do righteous deeds. Verily! I am Well-Acquainted with what you do.
 
 # 2725
 
@@ -10942,7 +10942,7 @@ And those who give that (their charity) which they give (and also do other good 
 
 # 2734
 
-It is these who race for the good deeds, and they are foremost in them [e.g. offering the compulsory Salat (prayers) in their (early) stated, fixed times and so on].
+It is these who race for the good deeds, and they are foremost in them \[e.g. offering the compulsory Salat (prayers) in their (early) stated, fixed times and so on\].
 
 # 2735
 
@@ -10978,7 +10978,7 @@ Or is it that they did not recognize their Messenger (Muhammad SAW) so they deny
 
 # 2743
 
-Or say they: "There is madness in him?" Nay, but he brought them the truth [i.e. "(A) Tauhid: Worshipping Allah Alone in all aspects (B) The Quran (C) The religion of Islam,"] but most of them (the disbelievers) are averse to the truth.
+Or say they: "There is madness in him?" Nay, but he brought them the truth \[i.e. "(A) Tauhid: Worshipping Allah Alone in all aspects (B) The Quran (C) The religion of Islam,"\] but most of them (the disbelievers) are averse to the truth.
 
 # 2744
 
@@ -11050,7 +11050,7 @@ They will say: "Allah." Say: "Will you not then fear Allah (believe in His Onene
 
 # 2761
 
-Say "In Whose Hand is the sovereignty of everything (i.e. treasures of each and everything)? And He protects (all), while against Whom there is no protector, (i.e. if Allah saves anyone none can punish or harm him, and if Allah punishes or harms anyone none can save him), if you know." [Tafsir Al-Qurtubi, Vol. 12, Page 145]
+Say "In Whose Hand is the sovereignty of everything (i.e. treasures of each and everything)? And He protects (all), while against Whom there is no protector, (i.e. if Allah saves anyone none can punish or harm him, and if Allah punishes or harms anyone none can save him), if you know." \[Tafsir Al-Qurtubi, Vol. 12, Page 145\]
 
 # 2762
 
@@ -11182,7 +11182,7 @@ The woman and the man guilty of illegal sexual intercourse, flog each of them wi
 
 # 2794
 
-The adulterer marries not but an adulteress or a Mushrikah and the adulteress none marries her except an adulterer or a Muskrik [and that means that the man who agrees to marry (have a sexual relation with) a Mushrikah (female polytheist, pagan or idolatress) or a prostitute, then surely he is either an adulterer, or a Mushrik (polytheist, pagan or idolater, etc.) And the woman who agrees to marry (have a sexual relation with) a Mushrik (polytheist, pagan or idolater) or an adulterer, then she is either a prostitute or a Mushrikah (female polytheist, pagan, or idolatress, etc.)]. Such a thing is forbidden to the believers (of Islamic Monotheism).
+The adulterer marries not but an adulteress or a Mushrikah and the adulteress none marries her except an adulterer or a Muskrik \[and that means that the man who agrees to marry (have a sexual relation with) a Mushrikah (female polytheist, pagan or idolatress) or a prostitute, then surely he is either an adulterer, or a Mushrik (polytheist, pagan or idolater, etc.) And the woman who agrees to marry (have a sexual relation with) a Mushrik (polytheist, pagan or idolater) or an adulterer, then she is either a prostitute or a Mushrikah (female polytheist, pagan, or idolatress, etc.)\]. Such a thing is forbidden to the believers (of Islamic Monotheism).
 
 # 2795
 
@@ -11254,7 +11254,7 @@ And had it not been for the Grace of Allah and His Mercy on you, (Allah would ha
 
 # 2812
 
-O you who believe! Follow not the footsteps of Shaitan (Satan). And whosoever follows the footsteps of Shaitan (Satan), then, verily he commands Al-Fahsha' [i.e. to commit indecency (illegal sexual intercourse, etc.)], and Al-Munkar [disbelief and polytheism (i.e. to do evil and wicked deeds; to speak or to do what is forbidden in Islam, etc.)]. And had it not been for the Grace of Allah and His Mercy on you, not one of you would ever have been pure from sins. But Allah purifies (guides to Islam) whom He wills, and Allah is All-Hearer, All-Knower.
+O you who believe! Follow not the footsteps of Shaitan (Satan). And whosoever follows the footsteps of Shaitan (Satan), then, verily he commands Al-Fahsha' \[i.e. to commit indecency (illegal sexual intercourse, etc.)\], and Al-Munkar \[disbelief and polytheism (i.e. to do evil and wicked deeds; to speak or to do what is forbidden in Islam, etc.)\]. And had it not been for the Grace of Allah and His Mercy on you, not one of you would ever have been pure from sins. But Allah purifies (guides to Islam) whom He wills, and Allah is All-Hearer, All-Knower.
 
 # 2813
 
@@ -11330,11 +11330,11 @@ As for those who disbelieve, their deeds are like a mirage in a desert. The thir
 
 # 2831
 
-Or [the state of a disbeliever] is like the darkness in a vast deep sea, overwhelmed with a great wave topped by a great wave, topped by dark clouds, darkness, one above another, if a man stretches out his hand, he can hardly see it! And he for whom Allah has not appointed light, for him there is no light.
+Or \[the state of a disbeliever\] is like the darkness in a vast deep sea, overwhelmed with a great wave topped by a great wave, topped by dark clouds, darkness, one above another, if a man stretches out his hand, he can hardly see it! And he for whom Allah has not appointed light, for him there is no light.
 
 # 2832
 
-See you not (O Muhammad SAW) that Allah, He it is Whom glorify whosoever is in the heavens and the earth, and the birds with wings out-spread (in their flight). Of each one He (Allah) knows indeed his Salat (prayer) and his glorification, [or everyone knows his Salat (prayer) and his glorification], and Allah is All-Aware of what they do.
+See you not (O Muhammad SAW) that Allah, He it is Whom glorify whosoever is in the heavens and the earth, and the birds with wings out-spread (in their flight). Of each one He (Allah) knows indeed his Salat (prayer) and his glorification, \[or everyone knows his Salat (prayer) and his glorification\], and Allah is All-Aware of what they do.
 
 # 2833
 
@@ -11342,7 +11342,7 @@ And to Allah belongs the sovereignty of the heavens and the earth, and to Allah 
 
 # 2834
 
-See you not that Allah drives the clouds gently, then joins them together, then makes them into a heap of layers, and you see the rain comes forth from between them. And He sends down from the sky hail (like) mountains, (or there are in the heaven mountains of hail from where He sends down hail), and strike therewith whom He will, and averts it from whom He wills. The vivid flash of its (clouds) lightning nearly blinds the sight. [Tafsir At-Tabari].
+See you not that Allah drives the clouds gently, then joins them together, then makes them into a heap of layers, and you see the rain comes forth from between them. And He sends down from the sky hail (like) mountains, (or there are in the heaven mountains of hail from where He sends down hail), and strike therewith whom He will, and averts it from whom He wills. The vivid flash of its (clouds) lightning nearly blinds the sight. \[Tafsir At-Tabari\].
 
 # 2835
 
@@ -11494,7 +11494,7 @@ For them there will be therein all that they desire, and they will abide (there 
 
 # 2872
 
-And on the Day when He will gather them together and that which they worship besides Allah [idols, angels, pious men, saints, 'Iesa (Jesus) - son of Maryam (Mary), etc.]. He will say: "Was it you who misled these My slaves or did they (themselves) stray from the (Right) Path?"
+And on the Day when He will gather them together and that which they worship besides Allah \[idols, angels, pious men, saints, 'Iesa (Jesus) - son of Maryam (Mary), etc.\]. He will say: "Was it you who misled these My slaves or did they (themselves) stray from the (Right) Path?"
 
 # 2873
 
@@ -11514,7 +11514,7 @@ And those who expect not for a Meeting with Us (i.e. those who deny the Day of R
 
 # 2877
 
-On the Day they will see the angels, no glad tidings will there be for the Mujrimun (criminals, disbelievers, polytheists, sinners, etc.) that day. And they (angels) will say: "All kinds of glad tidings are forbidden for you," [None will be allowed to enter Paradise except the one who said: La ilaha ill-Allah, "(none has the right to be worshipped but Allah) and acted practically on its legal orders and obligations].
+On the Day they will see the angels, no glad tidings will there be for the Mujrimun (criminals, disbelievers, polytheists, sinners, etc.) that day. And they (angels) will say: "All kinds of glad tidings are forbidden for you," \[None will be allowed to enter Paradise except the one who said: La ilaha ill-Allah, "(none has the right to be worshipped but Allah) and acted practically on its legal orders and obligations\].
 
 # 2878
 
@@ -11566,7 +11566,7 @@ Those who will be gathered to Hell (prone) on their faces, such will be in an ev
 
 # 2890
 
-And indeed We gave Musa (Moses) the Scripture [the Taurat (Torah)], and placed his brother Harun (Aaron) with him as a helper;
+And indeed We gave Musa (Moses) the Scripture \[the Taurat (Torah)\], and placed his brother Harun (Aaron) with him as a helper;
 
 # 2891
 
@@ -11586,7 +11586,7 @@ And for each of them We put forward examples (as proofs and lessons, etc.), and 
 
 # 2895
 
-And indeed they have passed by the town [of Prophet Lout (Lot)] on which was rained the evil rain. Did they (disbelievers) not then see it (with their own eyes)? Nay! But they used not to expect for any resurrection.
+And indeed they have passed by the town \[of Prophet Lout (Lot)\] on which was rained the evil rain. Did they (disbelievers) not then see it (with their own eyes)? Nay! But they used not to expect for any resurrection.
 
 # 2896
 
@@ -11606,7 +11606,7 @@ Or do you think that most of them hear or understand? They are only like cattle;
 
 # 2900
 
-Have you not seen how your Lord spread the shadow. If He willed, He could have made it still then We have made the sun its guide [i.e. after the sunrise, it (the shadow) squeezes and vanishes at midnoon and then again appears in the afternoon with the decline of the sun, and had there been no sun light, there would have been no shadow].
+Have you not seen how your Lord spread the shadow. If He willed, He could have made it still then We have made the sun its guide \[i.e. after the sunrise, it (the shadow) squeezes and vanishes at midnoon and then again appears in the afternoon with the decline of the sun, and had there been no sun light, there would have been no shadow\].
 
 # 2901
 
@@ -11738,15 +11738,15 @@ Say (O Muhammad SAW to the disbelievers): "My Lord pays attention to you only be
 
 # 2933
 
-Ta-Sin-Mim. [These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings.]
+Ta-Sin-Mim. \[These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings.\]
 
 # 2934
 
-These are the Verses of the manifest Book [this Quran, which was promised by Allah in the Taurat (Torah) and the Injeel (Gospel), makes things clear].
+These are the Verses of the manifest Book \[this Quran, which was promised by Allah in the Taurat (Torah) and the Injeel (Gospel), makes things clear\].
 
 # 2935
 
-It may be that you (O Muhammad SAW) are going to kill yourself with grief, that they do not become believers [in your Risalah (Messengership) and in your Message of Islamic Monotheism].
+It may be that you (O Muhammad SAW) are going to kill yourself with grief, that they do not become believers \[in your Risalah (Messengership) and in your Message of Islamic Monotheism\].
 
 # 2936
 
@@ -11806,7 +11806,7 @@ Allah said: "Nay! Go you both with Our Signs. Verily! We shall be with you, list
 
 # 2950
 
-[Fir'aun (Pharaoh)] said [to Musa (Moses)]: "Did we not bring you up among us as a child? And you did dwell many years of your life with us.
+\[Fir'aun (Pharaoh)\] said \[to Musa (Moses)\]: "Did we not bring you up among us as a child? And you did dwell many years of your life with us.
 
 # 2951
 
@@ -11862,7 +11862,7 @@ Fir'aun (Pharaoh) said: "Bring it forth then, if you are of the truthful!"
 
 # 2964
 
-So [Musa (Moses)] threw his stick, and behold, it was a serpent, manifest.
+So \[Musa (Moses)\] threw his stick, and behold, it was a serpent, manifest.
 
 # 2965
 
@@ -11870,7 +11870,7 @@ And he drew out his hand, and behold, it was white to all beholders!
 
 # 2966
 
-[Fir'aun (Pharaoh)] said to the chiefs around him: "Verily! This is indeed a well-versed sorcerer.
+\[Fir'aun (Pharaoh)\] said to the chiefs around him: "Verily! This is indeed a well-versed sorcerer.
 
 # 2967
 
@@ -11894,7 +11894,7 @@ And it was said to the people: "Are you (too) going to assemble?
 
 # 2972
 
-"That we may follow the sorcerers [who were on Fir'aun's (Pharaoh) religion of disbelief] if they are the winners."
+"That we may follow the sorcerers \[who were on Fir'aun's (Pharaoh) religion of disbelief\] if they are the winners."
 
 # 2973
 
@@ -11930,7 +11930,7 @@ Saying: "We believe in the Lord of the 'Alamin (mankind, jinns and all that exis
 
 # 2981
 
-[Fir'aun (Pharaoh)] said: "You have believed in him before I give you leave. Surely, he indeed is your chief, who has taught you magic! So verily, you shall come to know. Verily, I will cut off your hands and your feet on opposite sides, and I will crucify you all."
+\[Fir'aun (Pharaoh)\] said: "You have believed in him before I give you leave. Surely, he indeed is your chief, who has taught you magic! So verily, you shall come to know. Verily, I will cut off your hands and your feet on opposite sides, and I will crucify you all."
 
 # 2982
 
@@ -11938,7 +11938,7 @@ They said: "No harm! Surely, to our Lord (Allah) we are to return;
 
 # 2983
 
-"Verily! We really hope that our Lord will forgive us our sins, as we are the first of the believers [in Musa (Moses) and in the Monotheism which he has brought from Allah]."
+"Verily! We really hope that our Lord will forgive us our sins, as we are the first of the believers \[in Musa (Moses) and in the Monotheism which he has brought from Allah\]."
 
 # 2984
 
@@ -11970,7 +11970,7 @@ Treasures, and every kind of honourable place.
 
 # 2991
 
-Thus [We turned them (Pharaoh's people) out] and We caused the Children of Israel to inherit them.
+Thus \[We turned them (Pharaoh's people) out\] and We caused the Children of Israel to inherit them.
 
 # 2992
 
@@ -11982,7 +11982,7 @@ And when the two hosts saw each other, the companions of Musa (Moses) said: "We 
 
 # 2994
 
-[Musa (Moses)] said: "Nay, verily! With me is my Lord, He will guide me."
+\[Musa (Moses)\] said: "Nay, verily! With me is my Lord, He will guide me."
 
 # 2995
 
@@ -11990,7 +11990,7 @@ Then We inspired Musa (Moses) (saying): "Strike the sea with your stick." And it
 
 # 2996
 
-Then We brought near the others [Fir'aun's (Pharaoh) party] to that place.
+Then We brought near the others \[Fir'aun's (Pharaoh) party\] to that place.
 
 # 2997
 
@@ -12090,7 +12090,7 @@ The Day whereon neither wealth nor sons will avail,
 
 # 3021
 
-Except him who brings to Allah a clean heart [clean from Shirk (polytheism) and Nifaq (hypocrisy)].
+Except him who brings to Allah a clean heart \[clean from Shirk (polytheism) and Nifaq (hypocrisy)\].
 
 # 3022
 
@@ -12130,7 +12130,7 @@ When We held you (false gods) as equals (in worship) with the Lord of the 'Alami
 
 # 3031
 
-And none has brought us into error except the Mujrimun [Iblis (Satan) and those of human beings who commit crimes, murderers, polytheists, oppressors, etc.].
+And none has brought us into error except the Mujrimun \[Iblis (Satan) and those of human beings who commit crimes, murderers, polytheists, oppressors, etc.\].
 
 # 3032
 
@@ -12282,7 +12282,7 @@ They said: "It is the same to us whether you preach or be not of those who preac
 
 # 3069
 
-"This is no other than the false-tales and religion of the ancients, [Tafsir At-Tabari, Vol. 19, Page 97]
+"This is no other than the false-tales and religion of the ancients, \[Tafsir At-Tabari, Vol. 19, Page 97\]
 
 # 3070
 
@@ -12338,7 +12338,7 @@ And green crops (fields etc.) and date-palms with soft spadix.
 
 # 3083
 
-"And follow not the command of Al-Musrifun [i.e. their chiefs, leaders who were polytheists, criminals and sinners],
+"And follow not the command of Al-Musrifun \[i.e. their chiefs, leaders who were polytheists, criminals and sinners\],
 
 # 3084
 
@@ -12438,7 +12438,7 @@ And verily! Your Lord, He is indeed the All-Mighty, the Most Merciful.
 
 # 3108
 
-The dwellers of Al-Aiyka [near Madyan (Midian)] belied the Messengers.
+The dwellers of Al-Aiyka \[near Madyan (Midian)\] belied the Messengers.
 
 # 3109
 
@@ -12506,7 +12506,7 @@ And truly, this (the Quran) is a revelation from the Lord of the 'Alamin (mankin
 
 # 3125
 
-Which the trustworthy Ruh [Jibrael (Gabriel)] has brought down;
+Which the trustworthy Ruh \[Jibrael (Gabriel)\] has brought down;
 
 # 3126
 
@@ -12518,7 +12518,7 @@ In the plain Arabic language.
 
 # 3128
 
-And verily, it (the Quran, and its revelation to Prophet Muhammad SAW) is (announced) in the Scriptures [i.e. the Taurat (Torah) and the Injeel (Gospel)] of former people.
+And verily, it (the Quran, and its revelation to Prophet Muhammad SAW) is (announced) in the Scriptures \[i.e. the Taurat (Torah) and the Injeel (Gospel)\] of former people.
 
 # 3129
 
@@ -12646,11 +12646,11 @@ Except those who believe (in the Oneness of Allah Islamic Monotheism), and do ri
 
 # 3160
 
-Ta-Sin. [These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings]. These are the Verses of the Quran, and (it is) a Book (that makes things) clear;
+Ta-Sin. \[These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings\]. These are the Verses of the Quran, and (it is) a Book (that makes things) clear;
 
 # 3161
 
-A guide (to the Right Path); and glad tidings for the believers [who believe in the Oneness of Allah (i.e. Islamic Monotheism)].
+A guide (to the Right Path); and glad tidings for the believers \[who believe in the Oneness of Allah (i.e. Islamic Monotheism)\].
 
 # 3162
 
@@ -12698,7 +12698,7 @@ But when Our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.)
 
 # 3173
 
-And they belied them (those Ayat) wrongfully and arrogantly, though their ownselves were convinced thereof [i.e. those (Ayat) are from Allah, and Musa (Moses) is the Messenger of Allah in truth, but they disliked to obey Musa (Moses), and hated to believe in his Message of Monotheism]. So see what was the end of the Mufsidun (disbelievers, disobedient to Allah, evil-doers, liars.).
+And they belied them (those Ayat) wrongfully and arrogantly, though their ownselves were convinced thereof \[i.e. those (Ayat) are from Allah, and Musa (Moses) is the Messenger of Allah in truth, but they disliked to obey Musa (Moses), and hated to believe in his Message of Monotheism\]. So see what was the end of the Mufsidun (disbelievers, disobedient to Allah, evil-doers, liars.).
 
 # 3174
 
@@ -12718,7 +12718,7 @@ Till, when they came to the valley of the ants, one of the ants said: "O ants! E
 
 # 3178
 
-So he [Sulaiman (Solomon)] smiled, amused at her speech and said: "My Lord! Inspire and bestow upon me the power and ability that I may be grateful for Your Favours which You have bestowed on me and on my parents, and that I may do righteous good deeds that will please You, and admit me by Your Mercy among Your righteous slaves."
+So he \[Sulaiman (Solomon)\] smiled, amused at her speech and said: "My Lord! Inspire and bestow upon me the power and ability that I may be grateful for Your Favours which You have bestowed on me and on my parents, and that I may do righteous good deeds that will please You, and admit me by Your Mercy among Your righteous slaves."
 
 # 3179
 
@@ -12742,7 +12742,7 @@ But the hoopoe stayed not long, he (came up and) said: "I have grasped (the know
 
 # 3184
 
-Al-La (this word has two interpretations) (A) [As Shaitan (Satan) has barred them from Allah's Way] so that they do not worship (prostrate before) Allah, or (B) So that they may worship (prostrate before) Allah, Who brings to light what is hidden in the heavens and the earth, and knows what you conceal and what you reveal. [Tafsir At-Tabari, Vol. 19, Page 149]
+Al-La (this word has two interpretations) (A) \[As Shaitan (Satan) has barred them from Allah's Way\] so that they do not worship (prostrate before) Allah, or (B) So that they may worship (prostrate before) Allah, Who brings to light what is hidden in the heavens and the earth, and knows what you conceal and what you reveal. \[Tafsir At-Tabari, Vol. 19, Page 149\]
 
 # 3185
 
@@ -12750,7 +12750,7 @@ Allah, La ilaha illa Huwa (none has the right to be worshipped but He), the Lord
 
 # 3186
 
-[Sulaiman (Solomon)] said: "We shall see whether you speak the truth or you are (one) of the liars.
+\[Sulaiman (Solomon)\] said: "We shall see whether you speak the truth or you are (one) of the liars.
 
 # 3187
 
@@ -12790,7 +12790,7 @@ So when (the messengers with the present) came to Sulaiman (Solomon), he said: "
 
 # 3196
 
-[Then Sulaiman (Solomon) said to the chief of her messengers who brought the present]: "Go back to them. We verily shall come to them with hosts that they cannot resist, and we shall drive them out from there in disgrace, and they will be abased."
+\[Then Sulaiman (Solomon) said to the chief of her messengers who brought the present\]: "Go back to them. We verily shall come to them with hosts that they cannot resist, and we shall drive them out from there in disgrace, and they will be abased."
 
 # 3197
 
@@ -12802,7 +12802,7 @@ An Ifrit (strong) from the jinns said: "I will bring it to you before you rise f
 
 # 3199
 
-One with whom was knowledge of the Scripture said: "I will bring it to you within the twinkling of an eye!" then when [Sulaiman (Solomon)] saw it placed before him, he said: "This is by the Grace of my Lord to test me whether I am grateful or ungrateful! And whoever is grateful, truly, his gratitude is for (the good of) his ownself, and whoever is ungrateful, (he is ungrateful only for the loss of his ownself). Certainly! My Lord is Rich (Free of all wants), Bountiful."
+One with whom was knowledge of the Scripture said: "I will bring it to you within the twinkling of an eye!" then when \[Sulaiman (Solomon)\] saw it placed before him, he said: "This is by the Grace of my Lord to test me whether I am grateful or ungrateful! And whoever is grateful, truly, his gratitude is for (the good of) his ownself, and whoever is ungrateful, (he is ungrateful only for the loss of his ownself). Certainly! My Lord is Rich (Free of all wants), Bountiful."
 
 # 3200
 
@@ -12810,7 +12810,7 @@ He said: "Disguise her throne for her that we may see whether she will be guided
 
 # 3201
 
-So when she came, it was said (to her): "Is your throne like this?" She said: "(It is) as though it were the very same." And [Sulaiman (Solomon) said]: "Knowledge was bestowed on us before her, and we were submitted to Allah (in Islam as Muslims before her)."
+So when she came, it was said (to her): "Is your throne like this?" She said: "(It is) as though it were the very same." And \[Sulaiman (Solomon) said\]: "Knowledge was bestowed on us before her, and we were submitted to Allah (in Islam as Muslims before her)."
 
 # 3202
 
@@ -12818,7 +12818,7 @@ And that which she used to worship besides Allah has prevented her (from Islam),
 
 # 3203
 
-It was said to her: "Enter As-Sarh" [(a glass surface with water underneath it) or a palace], but when she saw it, she thought it was a pool, and she (tucked up her clothes) uncovering her legs, Sulaiman (Solomon) said: "Verily, it is Sarh [(a glass surface with water underneath it) or a palace] paved smooth with slab of glass." She said: "My Lord! Verily, I have wronged myself, and I submit (in Islam, together with Sulaiman (Solomon), to Allah, the Lord of the 'Alamin (mankind, jinns and all that exists)."
+It was said to her: "Enter As-Sarh" \[(a glass surface with water underneath it) or a palace\], but when she saw it, she thought it was a pool, and she (tucked up her clothes) uncovering her legs, Sulaiman (Solomon) said: "Verily, it is Sarh \[(a glass surface with water underneath it) or a palace\] paved smooth with slab of glass." She said: "My Lord! Verily, I have wronged myself, and I submit (in Islam, together with Sulaiman (Solomon), to Allah, the Lord of the 'Alamin (mankind, jinns and all that exists)."
 
 # 3204
 
@@ -13014,11 +13014,11 @@ And to recite the Quran, so whosoever receives guidance, receives it for the goo
 
 # 3252
 
-And say [(O Muhammad SAW) to these polytheists and pagans etc.]: "All the praises and thanks be to Allah. He will show you His Ayat (signs, in yourselves, and in the universe or punishments, etc.), and you shall recognise them. And your Lord is not unaware of what you do."
+And say \[(O Muhammad SAW) to these polytheists and pagans etc.\]: "All the praises and thanks be to Allah. He will show you His Ayat (signs, in yourselves, and in the universe or punishments, etc.), and you shall recognise them. And your Lord is not unaware of what you do."
 
 # 3253
 
-Ta-Sin-Mim [These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings]
+Ta-Sin-Mim \[These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings\]
 
 # 3254
 
@@ -13042,7 +13042,7 @@ And to establish them in the land, and We let Fir'aun (Pharaoh) and Haman and th
 
 # 3259
 
-And We inspired the mother of Musa (Moses), (saying): "Suckle him [Musa (Moses)], but when you fear for him, then cast him into the river and fear not, nor grieve. Verily! We shall bring him back to you, and shall make him one of (Our) Messengers."
+And We inspired the mother of Musa (Moses), (saying): "Suckle him \[Musa (Moses)\], but when you fear for him, then cast him into the river and fear not, nor grieve. Verily! We shall bring him back to you, and shall make him one of (Our) Messengers."
 
 # 3260
 
@@ -13054,11 +13054,11 @@ And the wife of Fir'aun (Pharaoh) said: "A comfort of the eye for me and for you
 
 # 3262
 
-And the heart of the mother of Musa (Moses) became empty [from every thought, except the thought of Musa (Moses)]. She was very near to disclose his (case, i.e. the child is her son), had We not strengthened her heart (with Faith), so that she might remain as one of the believers.
+And the heart of the mother of Musa (Moses) became empty \[from every thought, except the thought of Musa (Moses)\]. She was very near to disclose his (case, i.e. the child is her son), had We not strengthened her heart (with Faith), so that she might remain as one of the believers.
 
 # 3263
 
-And she said to his [Musa's (Moses)] sister: "Follow him." So she (his sister) watched him from a far place secretly, while they perceived not.
+And she said to his \[Musa's (Moses)\] sister: "Follow him." So she (his sister) watched him from a far place secretly, while they perceived not.
 
 # 3264
 
@@ -13070,7 +13070,7 @@ So did We restore him to his mother, that she might be delighted, and that she m
 
 # 3266
 
-And when he attained his full strength, and was perfect (in manhood), We bestowed on him Hukman (Prophethood, right judgement of the affairs) and religious knowledge [of the religion of his forefathers i.e. Islamic Monotheism]. And thus do We reward the Muhsinun (i.e. good doers - see the footnote of V. 9:120).
+And when he attained his full strength, and was perfect (in manhood), We bestowed on him Hukman (Prophethood, right judgement of the affairs) and religious knowledge \[of the religion of his forefathers i.e. Islamic Monotheism\]. And thus do We reward the Muhsinun (i.e. good doers - see the footnote of V. 9:120).
 
 # 3267
 
@@ -13126,7 +13126,7 @@ He said: "I intend to wed one of these two daughters of mine to you, on conditio
 
 # 3280
 
-He [Musa (Moses)] said: "That (is settled) between me and you whichever of the two terms I fulfill, there will be no injustice to me, and Allah is Surety over what we say."
+He \[Musa (Moses)\] said: "That (is settled) between me and you whichever of the two terms I fulfill, there will be no injustice to me, and Allah is Surety over what we say."
 
 # 3281
 
@@ -13166,7 +13166,7 @@ Musa (Moses) said: "My Lord knows best him who came with guidance from Him, and 
 
 # 3290
 
-Fir'aun (Pharaoh) said: "O chiefs! I know not that you have an ilah (a god) other than me, so kindle for me (a fire), O Haman, to bake (bricks out of) clay, and set up for me a Sarhan (a lofty tower, or palace, etc.) in order that I may look at (or look for) the Ilah (God) of Musa (Moses); and verily, I think that he [Musa (Moses)] is one of the liars."
+Fir'aun (Pharaoh) said: "O chiefs! I know not that you have an ilah (a god) other than me, so kindle for me (a fire), O Haman, to bake (bricks out of) clay, and set up for me a Sarhan (a lofty tower, or palace, etc.) in order that I may look at (or look for) the Ilah (God) of Musa (Moses); and verily, I think that he \[Musa (Moses)\] is one of the liars."
 
 # 3291
 
@@ -13174,7 +13174,7 @@ And he and his hosts were arrogant in the land, without right, and they thought 
 
 # 3292
 
-So We seized him and his hosts, and We threw them all into the sea (and drowned them). So behold (O Muhammad SAW) what was the end of the Zalimun [wrong-doers, polytheists and those who disbelieved in the Oneness of their Lord (Allah), or rejected the advice of His Messenger Musa (Moses)].
+So We seized him and his hosts, and We threw them all into the sea (and drowned them). So behold (O Muhammad SAW) what was the end of the Zalimun \[wrong-doers, polytheists and those who disbelieved in the Oneness of their Lord (Allah), or rejected the advice of His Messenger Musa (Moses)\].
 
 # 3293
 
@@ -13186,7 +13186,7 @@ And We made a curse to follow them in this world, and on the Day of Resurrection
 
 # 3295
 
-And indeed We gave Musa (Moses), after We had destroyed the generations of old, the Scripture [the Taurat (Torah)] as an enlightenment for mankind, and a guidance and a mercy, that they might remember (or receive admonition).
+And indeed We gave Musa (Moses), after We had destroyed the generations of old, the Scripture \[the Taurat (Torah)\] as an enlightenment for mankind, and a guidance and a mercy, that they might remember (or receive admonition).
 
 # 3296
 
@@ -13194,11 +13194,11 @@ And you (O Muhammad SAW) were not on the western side (of the Mount), when We ma
 
 # 3297
 
-But We created generations [after generations i.e. after Musa (Moses)], and long were the ages that passed over them. And you (O Muhammad SAW) were not a dweller among the people of Madyan (Midian), reciting Our Verses to them. But it is We Who kept sending (Messengers).
+But We created generations \[after generations i.e. after Musa (Moses)\], and long were the ages that passed over them. And you (O Muhammad SAW) were not a dweller among the people of Madyan (Midian), reciting Our Verses to them. But it is We Who kept sending (Messengers).
 
 # 3298
 
-And you (O Muhammad SAW) were not at the side of the Tur (Mount) when We did call, [it is said that Allah called the followers of Muhammad SAW, and they answered His Call, or that Allah called Musa (Moses)]. But (you are sent) as a mercy from your Lord, to give warning to a people to whom no warner had come before you, in order that they may remember or receive admonition. [Tafsir At-Tabari, Vol. 20, Page 81].
+And you (O Muhammad SAW) were not at the side of the Tur (Mount) when We did call, \[it is said that Allah called the followers of Muhammad SAW, and they answered His Call, or that Allah called Musa (Moses)\]. But (you are sent) as a mercy from your Lord, to give warning to a people to whom no warner had come before you, in order that they may remember or receive admonition. \[Tafsir At-Tabari, Vol. 20, Page 81\].
 
 # 3299
 
@@ -13206,11 +13206,11 @@ And if (We had) not (sent you to the people of Makkah) in case a calamity should
 
 # 3300
 
-But when the truth (i.e. Muhammad SAW with his Message) has come to them from Us, they say: "Why is he not given the like of what was given to Musa (Moses)? Did they not disbelieve in that which was given to Musa (Moses) of old? They say: "Two kinds of magic [the Taurat (Torah) and the Quran] each helping the other!" And they say: "Verily! In both we are disbelievers."
+But when the truth (i.e. Muhammad SAW with his Message) has come to them from Us, they say: "Why is he not given the like of what was given to Musa (Moses)? Did they not disbelieve in that which was given to Musa (Moses) of old? They say: "Two kinds of magic \[the Taurat (Torah) and the Quran\] each helping the other!" And they say: "Verily! In both we are disbelievers."
 
 # 3301
 
-Say (to them, O Muhammad SAW): "Then bring a Book from Allah, which is a better guide than these two [the Taurat (Torah) and the Quran], that I may follow it, if you are truthful."
+Say (to them, O Muhammad SAW): "Then bring a Book from Allah, which is a better guide than these two \[the Taurat (Torah) and the Quran\], that I may follow it, if you are truthful."
 
 # 3302
 
@@ -13222,7 +13222,7 @@ And indeed now We have conveyed the Word (this Quran in which is the news of eve
 
 # 3304
 
-Those to whom We gave the Scripture [i.e. the Taurat (Torah) and the Injeel (Gospel), etc.] before it, - they believe in it (the Quran).
+Those to whom We gave the Scripture \[i.e. the Taurat (Torah) and the Injeel (Gospel), etc.\] before it, - they believe in it (the Quran).
 
 # 3305
 
@@ -13362,7 +13362,7 @@ And you were not expecting that the Book (this Quran) would be sent down to you,
 
 # 3339
 
-And let them not turn you (O Muhammad SAW) away from (preaching) the Ayat (revelations and verses) of Allah after they have been sent down to you, and invite (men) to (believe in) your Lord [i.e. in the Oneness (Tauhid) of Allah (1) Oneness of the Lordship of Allah; (2) Oneness of the worship of Allah; (3) Oneness of the Names and Qualities of Allah], and be not of Al-Mushrikun (those who associate partners with Allah, e.g. polytheists, pagans, idolaters, those who disbelieve in the Oneness of Allah and deny the Prophethood of Messenger Muhammad SAW).
+And let them not turn you (O Muhammad SAW) away from (preaching) the Ayat (revelations and verses) of Allah after they have been sent down to you, and invite (men) to (believe in) your Lord \[i.e. in the Oneness (Tauhid) of Allah (1) Oneness of the Lordship of Allah; (2) Oneness of the worship of Allah; (3) Oneness of the Names and Qualities of Allah\], and be not of Al-Mushrikun (those who associate partners with Allah, e.g. polytheists, pagans, idolaters, those who disbelieve in the Oneness of Allah and deny the Prophethood of Messenger Muhammad SAW).
 
 # 3340
 
@@ -13370,7 +13370,7 @@ And invoke not any other ilah (god) along with Allah, La ilaha illa Huwa (none h
 
 # 3341
 
-Alif-Lam-Mim. [These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings.]
+Alif-Lam-Mim. \[These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings.\]
 
 # 3342
 
@@ -13394,7 +13394,7 @@ And whosoever strives, he strives only for himself. Verily, Allah is free of all
 
 # 3347
 
-Those who believe [in the Oneness of Allah (Monotheism) and in Messenger Muhammad SAW, and do not apostate because of the harm they receive from the polytheists], and do righteous good deeds, surely, We shall remit from them their evil deeds and shall reward them according to the best of that which they used to do.
+Those who believe \[in the Oneness of Allah (Monotheism) and in Messenger Muhammad SAW, and do not apostate because of the harm they receive from the polytheists\], and do righteous good deeds, surely, We shall remit from them their evil deeds and shall reward them according to the best of that which they used to do.
 
 # 3348
 
@@ -13410,7 +13410,7 @@ Of mankind are some who say: "We believe in Allah," but if they are made to suff
 
 # 3351
 
-Verily, Allah knows those who believe, and verily, He knows the hypocrites [i.e. Allah will test the people with good and hard days to discriminate the good from the wicked (although Allah knows all that before putting them to test)].
+Verily, Allah knows those who believe, and verily, He knows the hypocrites \[i.e. Allah will test the people with good and hard days to discriminate the good from the wicked (although Allah knows all that before putting them to test)\].
 
 # 3352
 
@@ -13422,7 +13422,7 @@ And verily, they shall bear their own loads, and other loads besides their own, 
 
 # 3354
 
-And indeed We sent Nuh (Noah) to his people, and he stayed among them a thousand years less fifty years [inviting them to believe in the Oneness of Allah (Monotheism), and discard the false gods and other deities], and the Deluge overtook them while they were Zalimun (wrong-doers, polytheists, disbelievers, etc.).
+And indeed We sent Nuh (Noah) to his people, and he stayed among them a thousand years less fifty years \[inviting them to believe in the Oneness of Allah (Monotheism), and discard the false gods and other deities\], and the Deluge overtook them while they were Zalimun (wrong-doers, polytheists, disbelievers, etc.).
 
 # 3355
 
@@ -13462,19 +13462,19 @@ And those who disbelieve in the Ayat (proofs, evidences, verses, lessons, signs,
 
 # 3364
 
-So nothing was the answer of [Ibrahim's (Abraham)] people except that they said: "Kill him or burn him." Then Allah saved him from the fire. Verily, in this are indeed signs for a people who believe.
+So nothing was the answer of \[Ibrahim's (Abraham)\] people except that they said: "Kill him or burn him." Then Allah saved him from the fire. Verily, in this are indeed signs for a people who believe.
 
 # 3365
 
-And [Ibrahim (Abraham)] said: "You have taken (for worship) idols instead of Allah, and the love between you is only in the life of this world, but on the Day of Resurrection, you shall disown each other, and curse each other, and your abode will be the Fire, and you shall have no helper."
+And \[Ibrahim (Abraham)\] said: "You have taken (for worship) idols instead of Allah, and the love between you is only in the life of this world, but on the Day of Resurrection, you shall disown each other, and curse each other, and your abode will be the Fire, and you shall have no helper."
 
 # 3366
 
-So Lout (Lot) believed in him [Ibrahim's (Abraham) Message of Islamic Monotheism]. He [Ibrahim (Abraham)] said: "I will emigrate for the sake of my Lord. Verily, He is the All-Mighty, the All-Wise."
+So Lout (Lot) believed in him \[Ibrahim's (Abraham) Message of Islamic Monotheism\]. He \[Ibrahim (Abraham)\] said: "I will emigrate for the sake of my Lord. Verily, He is the All-Mighty, the All-Wise."
 
 # 3367
 
-And We bestowed on him [Ibrahim (Abraham)], Ishaque (Isaac) and Ya'qub (Jacob), and ordained among his offspring Prophethood and the Book [i.e. the Taurat (Torah) (to Musa - Moses), the Injeel (Gospel) (to 'Iesa - Jesus), the Quran (to Muhammad SAW), all from the offspring of Ibrahim (Abraham)], and We granted him his reward in this world, and verily, in the Hereafter he is indeed among the righteous.
+And We bestowed on him \[Ibrahim (Abraham)\], Ishaque (Isaac) and Ya'qub (Jacob), and ordained among his offspring Prophethood and the Book \[i.e. the Taurat (Torah) (to Musa - Moses), the Injeel (Gospel) (to 'Iesa - Jesus), the Quran (to Muhammad SAW), all from the offspring of Ibrahim (Abraham)\], and We granted him his reward in this world, and verily, in the Hereafter he is indeed among the righteous.
 
 # 3368
 
@@ -13490,11 +13490,11 @@ He said: "My Lord! Give me victory over the people who are Mufsidun (those who c
 
 # 3371
 
-And when Our Messengers came to Ibrahim (Abraham) with the glad tidings they said: "Verily, we are going to destroy the people of this [Lout's (Lot's)] town (i.e. the town of Sodom in Palestine) truly, its people have been Zalimun [wrong-doers, polytheists and disobedient to Allah, and have also belied their Messenger Lout (Lot)]."
+And when Our Messengers came to Ibrahim (Abraham) with the glad tidings they said: "Verily, we are going to destroy the people of this \[Lout's (Lot's)\] town (i.e. the town of Sodom in Palestine) truly, its people have been Zalimun \[wrong-doers, polytheists and disobedient to Allah, and have also belied their Messenger Lout (Lot)\]."
 
 # 3372
 
-Ibrahim (Abraham) said: "But there is Lout (Lot) in it." They said:"We know better who is there, we will verily save him [Lout (Lot)] and his family, except his wife, she will be of those who remain behind (i.e. she will be destroyed along with those who will be destroyed from her folk)."
+Ibrahim (Abraham) said: "But there is Lout (Lot) in it." They said:"We know better who is there, we will verily save him \[Lout (Lot)\] and his family, except his wife, she will be of those who remain behind (i.e. she will be destroyed along with those who will be destroyed from her folk)."
 
 # 3373
 
@@ -13514,7 +13514,7 @@ And to (the people of) Madyan (Midian), We sent their brother Shu'aib (Shuaib). 
 
 # 3377
 
-And they belied him [Shu'aib (Shuaib)], so the earthquake seized them, and they lay (dead), prostrate in their dwellings.
+And they belied him \[Shu'aib (Shuaib)\], so the earthquake seized them, and they lay (dead), prostrate in their dwellings.
 
 # 3378
 
@@ -13526,7 +13526,7 @@ And (We destroyed also) Qarun (Korah), Fir'aun (Pharaoh), and Haman. And indeed 
 
 # 3380
 
-So We punished each (of them) for his sins, of them were some on whom We sent Hasiban (a violent wind with shower of stones) [as the people of Lout (Lot)], and of them were some who were overtaken by As-Saihah [torment - awful cry, etc. (as Thamud or Shu'aib's people)], and of them were some whom We caused the earth to swallow [as Qarun (Korah)], and of them were some whom We drowned [as the people of Nuh (Noah), or Fir'aun (Pharaoh) and his people]. It was not Allah Who wronged them, but they wronged themselves.
+So We punished each (of them) for his sins, of them were some on whom We sent Hasiban (a violent wind with shower of stones) \[as the people of Lout (Lot)\], and of them were some who were overtaken by As-Saihah \[torment - awful cry, etc. (as Thamud or Shu'aib's people)\], and of them were some whom We caused the earth to swallow \[as Qarun (Korah)\], and of them were some whom We drowned \[as the people of Nuh (Noah), or Fir'aun (Pharaoh) and his people\]. It was not Allah Who wronged them, but they wronged themselves.
 
 # 3381
 
@@ -13546,7 +13546,7 @@ And these similitudes We put forward for mankind, but none will understand them 
 
 # 3385
 
-Recite (O Muhammad SAW) what has been revealed to you of the Book (the Quran), and perform As-Salat (Iqamat-as-Salat). Verily, As-Salat (the prayer) prevents from Al-Fahsha' (i.e. great sins of every kind, unlawful sexual intercourse, etc.) and Al-Munkar (i.e. disbelief, polytheism, and every kind of evil wicked deed, etc.) and the remembering (praising, etc.) of (you by) Allah (in front of the angels) is greater indeed [than your remembering (praising, etc.) Allah in prayers, etc.]. And Allah knows what you do.
+Recite (O Muhammad SAW) what has been revealed to you of the Book (the Quran), and perform As-Salat (Iqamat-as-Salat). Verily, As-Salat (the prayer) prevents from Al-Fahsha' (i.e. great sins of every kind, unlawful sexual intercourse, etc.) and Al-Munkar (i.e. disbelief, polytheism, and every kind of evil wicked deed, etc.) and the remembering (praising, etc.) of (you by) Allah (in front of the angels) is greater indeed \[than your remembering (praising, etc.) Allah in prayers, etc.\]. And Allah knows what you do.
 
 # 3386
 
@@ -13554,7 +13554,7 @@ And argue not with the people of the Scripture (Jews and Christians), unless it 
 
 # 3387
 
-And thus We have sent down the Book (i.e. this Quran) to you (O Muhammad SAW), and those whom We gave the Scripture [the Taurat (Torah) and the Injeel (Gospel) aforetime] believe therein as also do some of these (who are present with you now like 'Abdullah bin Salam) and none but the disbelievers reject Our Ayat [(proofs, signs, verses, lessons, etc., and deny Our Oneness of Lordship and Our Oneness of worship and Our Oneness of Our Names and Qualities: i.e. Islamic Monotheism)].
+And thus We have sent down the Book (i.e. this Quran) to you (O Muhammad SAW), and those whom We gave the Scripture \[the Taurat (Torah) and the Injeel (Gospel) aforetime\] believe therein as also do some of these (who are present with you now like 'Abdullah bin Salam) and none but the disbelievers reject Our Ayat \[(proofs, signs, verses, lessons, etc., and deny Our Oneness of Lordship and Our Oneness of worship and Our Oneness of Our Names and Qualities: i.e. Islamic Monotheism)\].
 
 # 3388
 
@@ -13562,7 +13562,7 @@ Neither did you (O Muhammad SAW) read any book before it (this Quran), nor did y
 
 # 3389
 
-Nay, but they, the clear Ayat [i.e. the description and the qualities of Prophet Muhammad SAW written like verses in the Taurat (Torah) and the Injeel (Gospel)] are preserved in the breasts of those who have been given knowledge (from the people of the Scriptures). And none but the Zalimun (polytheists and wrongdoers, etc.) deny Our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.).
+Nay, but they, the clear Ayat \[i.e. the description and the qualities of Prophet Muhammad SAW written like verses in the Taurat (Torah) and the Injeel (Gospel)\] are preserved in the breasts of those who have been given knowledge (from the people of the Scriptures). And none but the Zalimun (polytheists and wrongdoers, etc.) deny Our Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.).
 
 # 3390
 
@@ -13646,7 +13646,7 @@ As for those who strive hard in Us (Our Cause), We will surely guide them to Our
 
 # 3410
 
-Alif-Lam-Mim. [These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings].
+Alif-Lam-Mim. \[These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings\].
 
 # 3411
 
@@ -13674,7 +13674,7 @@ They know only the outside appearance of the life of the world (i.e. the matters
 
 # 3417
 
-Do they not think deeply (in their ownselves) about themselves (how Allah created them from nothing, and similarly He will resurrect them)? Allah has created not the heavens and the earth, and all that is between them, except with truth and for an appointed term. And indeed many of mankind deny the Meeting with their Lord. [See Tafsir At-Tabari, Part 21, Page 24].
+Do they not think deeply (in their ownselves) about themselves (how Allah created them from nothing, and similarly He will resurrect them)? Allah has created not the heavens and the earth, and all that is between them, except with truth and for an appointed term. And indeed many of mankind deny the Meeting with their Lord. \[See Tafsir At-Tabari, Part 21, Page 24\].
 
 # 3418
 
@@ -13710,7 +13710,7 @@ And as for those who disbelieved and belied Our Ayat (proofs, evidences, verses,
 
 # 3426
 
-So glorify Allah [above all that (evil) they associate with Him (O believers)], when you come up to the evening [i.e. offer the (Maghrib) sunset and ('Isha') night prayers], and when you enter the morning [i.e. offer the (Fajr) morning prayer].
+So glorify Allah \[above all that (evil) they associate with Him (O believers)\], when you come up to the evening \[i.e. offer the (Maghrib) sunset and ('Isha') night prayers\], and when you enter the morning \[i.e. offer the (Fajr) morning prayer\].
 
 # 3427
 
@@ -13722,7 +13722,7 @@ He brings out the living from the dead, and brings out the dead from the living.
 
 # 3429
 
-And among His Signs is this, that He created you (Adam) from dust, and then [Hawwa' (Eve) from Adam's rib, and then his offspring from the semen, and], - behold you are human beings scattered!
+And among His Signs is this, that He created you (Adam) from dust, and then \[Hawwa' (Eve) from Adam's rib, and then his offspring from the semen, and\], - behold you are human beings scattered!
 
 # 3430
 
@@ -13762,7 +13762,7 @@ Nay, but those who do wrong follow their own lusts without knowledge, Then who w
 
 # 3439
 
-So set you (O Muhammad SAW) your face towards the religion of pure Islamic Monotheism Hanifa (worship none but Allah Alone) Allah's Fitrah (i.e. Allah's Islamic Monotheism), with which He has created mankind. No change let there be in Khalq-illah (i.e. the Religion of Allah Islamic Monotheism), that is the straight religion, but most of men know not. [Tafsir At-Tabari, Vol 21, Page 41]
+So set you (O Muhammad SAW) your face towards the religion of pure Islamic Monotheism Hanifa (worship none but Allah Alone) Allah's Fitrah (i.e. Allah's Islamic Monotheism), with which He has created mankind. No change let there be in Khalq-illah (i.e. the Religion of Allah Islamic Monotheism), that is the straight religion, but most of men know not. \[Tafsir At-Tabari, Vol 21, Page 41\]
 
 # 3440
 
@@ -13770,7 +13770,7 @@ So set you (O Muhammad SAW) your face towards the religion of pure Islamic Monot
 
 # 3441
 
-Of those who split up their religion (i.e. who left the true Islamic Monotheism), and became sects, [i.e. they invented new things in the religion (Bid'ah), and followed their vain desires], each sect rejoicing in that which is with it.
+Of those who split up their religion (i.e. who left the true Islamic Monotheism), and became sects, \[i.e. they invented new things in the religion (Bid'ah), and followed their vain desires\], each sect rejoicing in that which is with it.
 
 # 3442
 
@@ -13814,7 +13814,7 @@ Say (O Muhammad SAW): "Travel in the land and see what was the end of those befo
 
 # 3452
 
-So set you (O Muhammad SAW) your face to (the obedience of Allah, your Lord) the straight and right religion (Islamic Monotheism), before there comes from Allah a Day which none can avert it. On that Day men shall be divided [(in two groups), a group in Paradise and a group in Hell].
+So set you (O Muhammad SAW) your face to (the obedience of Allah, your Lord) the straight and right religion (Islamic Monotheism), before there comes from Allah a Day which none can avert it. On that Day men shall be divided \[(in two groups), a group in Paradise and a group in Hell\].
 
 # 3453
 
@@ -13846,7 +13846,7 @@ Look then at the effects (results) of Allah's Mercy, how He revives the earth af
 
 # 3460
 
-And if We send a wind [which would spoil the green growth (tilth) brought up by the previous rain], and they see (their tilth) turn yellow, behold, they then after their being glad, would become unthankful (to their Lord Allah as) disbelievers.
+And if We send a wind \[which would spoil the green growth (tilth) brought up by the previous rain\], and they see (their tilth) turn yellow, behold, they then after their being glad, would become unthankful (to their Lord Allah as) disbelievers.
 
 # 3461
 
@@ -13862,7 +13862,7 @@ Allah is He Who created you in (a state of) weakness, then gave you strength aft
 
 # 3464
 
-And on the Day that the Hour will be established, the Mujrimun (criminals, disbelievers, polytheists, sinners, etc.) will swear that they stayed not but an hour, thus were they ever deluded [away from the truth (i.e. they used to tell lies and take false oaths, and turn away from the truth) in this life of the world)].
+And on the Day that the Hour will be established, the Mujrimun (criminals, disbelievers, polytheists, sinners, etc.) will swear that they stayed not but an hour, thus were they ever deluded \[away from the truth (i.e. they used to tell lies and take false oaths, and turn away from the truth) in this life of the world)\].
 
 # 3465
 
@@ -13878,7 +13878,7 @@ And indeed We have set forth for mankind, in this Quran every kind of parable. B
 
 # 3468
 
-Thus does Allah seal up the hearts of those who know not [the proofs and evidence of the Oneness of Allah i.e. those who try not to understand true facts that which you (Muhammad SAW) have brought to them].
+Thus does Allah seal up the hearts of those who know not \[the proofs and evidence of the Oneness of Allah i.e. those who try not to understand true facts that which you (Muhammad SAW) have brought to them\].
 
 # 3469
 
@@ -13886,7 +13886,7 @@ So be patient (O Muhammad SAW). Verily, the Promise of Allah is true, and let no
 
 # 3470
 
-Alif-Lam-Mim. [These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings.]
+Alif-Lam-Mim. \[These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings.\]
 
 # 3471
 
@@ -13962,7 +13962,7 @@ But if they (both) strive with you to make you join in worship with Me others th
 
 # 3489
 
-See you not (O men) that Allah has subjected for you whatsoever is in the heavens and whatsoever is in the earth, and has completed and perfected His Graces upon you, (both) apparent (i.e. Islamic Monotheism, and the lawful pleasures of this world, including health, good looks, etc.) and hidden [i.e. One's Faith in Allah (of Islamic Monotheism) knowledge, wisdom, guidance for doing righteous deeds, and also the pleasures and delights of the Hereafter in Paradise, etc.]? Yet of mankind is he who disputes about Allah without knowledge or guidance or a Book giving light!
+See you not (O men) that Allah has subjected for you whatsoever is in the heavens and whatsoever is in the earth, and has completed and perfected His Graces upon you, (both) apparent (i.e. Islamic Monotheism, and the lawful pleasures of this world, including health, good looks, etc.) and hidden \[i.e. One's Faith in Allah (of Islamic Monotheism) knowledge, wisdom, guidance for doing righteous deeds, and also the pleasures and delights of the Hereafter in Paradise, etc.\]? Yet of mankind is he who disputes about Allah without knowledge or guidance or a Book giving light!
 
 # 3490
 
@@ -13970,7 +13970,7 @@ And when it is said to them: "Follow that which Allah has sent down", they say: 
 
 # 3491
 
-And whosoever submits his face (himself) to Allah [i.e. (follows Allah's Religion of Islamic Monotheism), worships Allah (Alone) with sincere Faith in the (1) Oneness of His Lordship, (2) Oneness of His worship, and (3) Oneness of His Names and Qualities], while he is a Muhsin (good-doer i.e. performs good deeds totally for Allah's sake without any show-off or to gain praise or fame etc. and does them in accordance with the Sunnah of Allah's Messenger Muhammad SAW), then he has grasped the most trustworthy hand-hold [La ilaha ill-Allah (none has the right to be worshipped but Allah)]. And to Allah return all matters for decision.
+And whosoever submits his face (himself) to Allah \[i.e. (follows Allah's Religion of Islamic Monotheism), worships Allah (Alone) with sincere Faith in the (1) Oneness of His Lordship, (2) Oneness of His worship, and (3) Oneness of His Names and Qualities\], while he is a Muhsin (good-doer i.e. performs good deeds totally for Allah's sake without any show-off or to gain praise or fame etc. and does them in accordance with the Sunnah of Allah's Messenger Muhammad SAW), then he has grasped the most trustworthy hand-hold \[La ilaha ill-Allah (none has the right to be worshipped but Allah)\]. And to Allah return all matters for decision.
 
 # 3492
 
@@ -14022,7 +14022,7 @@ Verily, Allah! With Him (Alone) is the knowledge of the Hour, He sends down the 
 
 # 3504
 
-Alif-Lam-Mim. [These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings.]
+Alif-Lam-Mim. \[These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings.\]
 
 # 3505
 
@@ -14110,7 +14110,7 @@ And who does more wrong than he who is reminded of the Ayat (proofs, evidences, 
 
 # 3526
 
-And indeed We gave Musa (Moses) the Scripture [the Taurat (Torah)]. So be not you in doubt of meeting him [i.e. when you met Musa (Moses) during the night of Al-Isra' and Al-Mi'raj over the heavens]. And We made it [the Taurat (Torah)] a guide to the Children of Israel.
+And indeed We gave Musa (Moses) the Scripture \[the Taurat (Torah)\]. So be not you in doubt of meeting him \[i.e. when you met Musa (Moses) during the night of Al-Isra' and Al-Mi'raj over the heavens\]. And We made it \[the Taurat (Torah)\] a guide to the Children of Israel.
 
 # 3527
 
@@ -14154,7 +14154,7 @@ And put your trust in Allah, and Sufficient is Allah as a Wakil (Trustee, or Dis
 
 # 3537
 
-Allah has not put for any man two hearts inside his body. Neither has He made your wives whom you declare to be like your mothers' backs, your real mothers. [AzZihar is the saying of a husband to his wife, "You are to me like the back of my mother" i.e. You are unlawful for me to approach.], nor has He made your adopted sons your real sons. That is but your saying with your mouths. But Allah says the truth, and He guides to the (Right) Way.
+Allah has not put for any man two hearts inside his body. Neither has He made your wives whom you declare to be like your mothers' backs, your real mothers. \[AzZihar is the saying of a husband to his wife, "You are to me like the back of my mother" i.e. You are unlawful for me to approach.\], nor has He made your adopted sons your real sons. That is but your saying with your mouths. But Allah says the truth, and He guides to the (Right) Way.
 
 # 3538
 
@@ -14174,7 +14174,7 @@ That He may ask the truthfuls (Allah's Messengers and His Prophets) about their 
 
 # 3542
 
-O you who believe! Remember Allah's Favour to you, when there came against you hosts, and We sent against them a wind and forces that you saw not [i.e. troops of angels during the battle of AlAhzab (the Confederates)]. And Allah is Ever AllSeer of what you do.
+O you who believe! Remember Allah's Favour to you, when there came against you hosts, and We sent against them a wind and forces that you saw not \[i.e. troops of angels during the battle of AlAhzab (the Confederates)\]. And Allah is Ever AllSeer of what you do.
 
 # 3543
 
@@ -14230,7 +14230,7 @@ And when the believers saw AlAhzab (the Confederates), they said: "This is what 
 
 # 3556
 
-Among the believers are men who have been true to their covenant with Allah [i.e. they have gone out for Jihad (holy fighting), and showed not their backs to the disbelievers], of them some have fulfilled their obligations (i.e. have been martyred), and some of them are still waiting, but they have never changed [i.e. they never proved treacherous to their covenant which they concluded with Allah] in the least.
+Among the believers are men who have been true to their covenant with Allah \[i.e. they have gone out for Jihad (holy fighting), and showed not their backs to the disbelievers\], of them some have fulfilled their obligations (i.e. have been martyred), and some of them are still waiting, but they have never changed \[i.e. they never proved treacherous to their covenant which they concluded with Allah\] in the least.
 
 # 3557
 
@@ -14306,7 +14306,7 @@ O you who believe! Remember Allah with much remembrance.
 
 # 3575
 
-And glorify His Praises morning and afternoon [the early morning (Fajr) and 'Asr prayers].
+And glorify His Praises morning and afternoon \[the early morning (Fajr) and 'Asr prayers\].
 
 # 3576
 
@@ -14322,7 +14322,7 @@ O Prophet (MuhammadSAW)! Verily, We have sent you as witness, and a bearer of gl
 
 # 3579
 
-And as one who invites to Allah [Islamic Monotheism, i.e. to worship none but Allah (Alone)] by His Leave, and as a lamp spreading light (through your instructions from the Quran and the Sunnah the legal ways of the Prophet SAW).
+And as one who invites to Allah \[Islamic Monotheism, i.e. to worship none but Allah (Alone)\] by His Leave, and as a lamp spreading light (through your instructions from the Quran and the Sunnah the legal ways of the Prophet SAW).
 
 # 3580
 
@@ -14334,7 +14334,7 @@ And obey not the disbelievers and the hypocrites, and harm them not (till you ar
 
 # 3582
 
-O you who believe! When you marry believing women, and then divorce them before you have sexual intercourse with them, no 'Iddah [divorce prescribed period, see (V. 65:4)] have you to count in respect of them. So give them a present, and set them free i.e. divorce, in a handsome manner.
+O you who believe! When you marry believing women, and then divorce them before you have sexual intercourse with them, no 'Iddah \[divorce prescribed period, see (V. 65:4)\] have you to count in respect of them. So give them a present, and set them free i.e. divorce, in a handsome manner.
 
 # 3583
 
@@ -14466,7 +14466,7 @@ Has he (Muhammad SAW) invented a lie against Allah, or is there a madness in him
 
 # 3615
 
-See they not what is before them and what is behind them, of the heaven and the earth? If We will, We shall sink the earth with them, or cause a piece of the heaven to fall upon them. Verily, in this is a sign for every faithful believer that [believes in the Oneness of Allah], and turns to Allah (in all affairs with humility and in repentance).
+See they not what is before them and what is behind them, of the heaven and the earth? If We will, We shall sink the earth with them, or cause a piece of the heaven to fall upon them. Verily, in this is a sign for every faithful believer that \[believes in the Oneness of Allah\], and turns to Allah (in all affairs with humility and in repentance).
 
 # 3616
 
@@ -14486,7 +14486,7 @@ They worked for him what he desired, (making) high rooms, images, basins as larg
 
 # 3620
 
-Then when We decreed death for him [Sulaiman (Solomon)], nothing informed them (jinns) of his death except a little worm of the earth, which kept (slowly) gnawing away at his stick, so when he fell down, the jinns saw clearly that if they had known the unseen, they would not have stayed in the humiliating torment.
+Then when We decreed death for him \[Sulaiman (Solomon)\], nothing informed them (jinns) of his death except a little worm of the earth, which kept (slowly) gnawing away at his stick, so when he fell down, the jinns saw clearly that if they had known the unseen, they would not have stayed in the humiliating torment.
 
 # 3621
 
@@ -14598,7 +14598,7 @@ They (angels) will say: "Glorified be You! You are our Wali (Lord) instead of th
 
 # 3648
 
-So Today (i.e. the Day of Resurrection), none of you can profit or harm one another. And We shall say to those who did wrong [i.e. worshipped others (like angels, jinns, prophets, saints, righteous persons, etc.) along with Allah]: "Taste the torment of the Fire which you used to belie.
+So Today (i.e. the Day of Resurrection), none of you can profit or harm one another. And We shall say to those who did wrong \[i.e. worshipped others (like angels, jinns, prophets, saints, righteous persons, etc.) along with Allah\]: "Taste the torment of the Fire which you used to belie.
 
 # 3649
 
@@ -14626,7 +14626,7 @@ Say (O Muhammad SAW): "Verily! My Lord sends down Inspiration and makes apparent
 
 # 3655
 
-Say (O Muhammad SAW): "The truth (the Quran and Allah's Inspiration) has come, and AlBatil [falsehood - Iblis (Satan)] can neither create anything nor resurrect (anything)."
+Say (O Muhammad SAW): "The truth (the Quran and Allah's Inspiration) has come, and AlBatil \[falsehood - Iblis (Satan)\] can neither create anything nor resurrect (anything)."
 
 # 3656
 
@@ -14642,15 +14642,15 @@ And they will say (in the Hereafter): "We do believe (now);" but how could they 
 
 # 3659
 
-Indeed they did disbelieve (in the Oneness of Allah, Islam, the Quran and Muhammad SAW) before (in this world), and they (used to) conjecture about the unseen [i.e. the Hereafter, Hell, Paradise, Resurrection and the Promise of Allah, etc. (by saying) all that is untrue], from a far place.
+Indeed they did disbelieve (in the Oneness of Allah, Islam, the Quran and Muhammad SAW) before (in this world), and they (used to) conjecture about the unseen \[i.e. the Hereafter, Hell, Paradise, Resurrection and the Promise of Allah, etc. (by saying) all that is untrue\], from a far place.
 
 # 3660
 
-And a barrier will be set between them and that which they desire [i.e. At-Taubah (turning to Allah in repentance) and the accepting of Faith etc.], as was done in the past with the people of their kind. Verily, they have been in grave doubt.
+And a barrier will be set between them and that which they desire \[i.e. At-Taubah (turning to Allah in repentance) and the accepting of Faith etc.\], as was done in the past with the people of their kind. Verily, they have been in grave doubt.
 
 # 3661
 
-All the praises and thanks be to Allah, the (only) Originator [or the (only) Creator] of the heavens and the earth, Who made the angels messengers with wings, - two or three or four. He increases in creation what He wills. Verily, Allah is Able to do all things.
+All the praises and thanks be to Allah, the (only) Originator \[or the (only) Creator\] of the heavens and the earth, Who made the angels messengers with wings, - two or three or four. He increases in creation what He wills. Verily, Allah is Able to do all things.
 
 # 3662
 
@@ -14686,7 +14686,7 @@ And it is Allah Who sends the winds, so that they raise up the clouds, and We dr
 
 # 3670
 
-Whosoever desires honour, power and glory then to Allah belong all honour, power and glory [and one can get honour, power and glory only by obeying and worshipping Allah (Alone)]. To Him ascend (all) the goodly words, and the righteous deeds exalt it (the goodly words i.e. the goodly words are not accepted by Allah unless and until they are followed by good deeds), but those who plot evils, theirs will be severe torment. And the plotting of such will perish.
+Whosoever desires honour, power and glory then to Allah belong all honour, power and glory \[and one can get honour, power and glory only by obeying and worshipping Allah (Alone)\]. To Him ascend (all) the goodly words, and the righteous deeds exalt it (the goodly words i.e. the goodly words are not accepted by Allah unless and until they are followed by good deeds), but those who plot evils, theirs will be severe torment. And the plotting of such will perish.
 
 # 3671
 
@@ -14770,7 +14770,7 @@ That He may pay them their wages in full, and give them (even) more, out of His 
 
 # 3691
 
-And what We have inspired in you (O Muhammad SAW), of the Book (the Quran), it is the (very) truth [that you (Muhammad SAW) and your followers must act on its instructions], confirming that which was (revealed) before it. Verily! Allah is indeed AllAware, and AllSeer of His slaves.
+And what We have inspired in you (O Muhammad SAW), of the Book (the Quran), it is the (very) truth \[that you (Muhammad SAW) and your followers must act on its instructions\], confirming that which was (revealed) before it. Verily! Allah is indeed AllAware, and AllSeer of His slaves.
 
 # 3692
 
@@ -14830,7 +14830,7 @@ And if Allah were to punish men for that which they earned, He would not leave a
 
 # 3706
 
-Ya-Sin. [These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings.]
+Ya-Sin. \[These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings.\]
 
 # 3707
 
@@ -14874,11 +14874,11 @@ You can only warn him who follows the Reminder (the Quran), and fears the Most B
 
 # 3717
 
-Verily, We give life to the dead, and We record that which they send before (them), and their traces [their footsteps and walking on the earth with their legs to the mosques for the five compulsory congregational prayers, Jihad (holy fighting in Allah's Cause) and all other good and evil they did, and that which they leave behind], and all things We have recorded with numbers (as a record) in a Clear Book.
+Verily, We give life to the dead, and We record that which they send before (them), and their traces \[their footsteps and walking on the earth with their legs to the mosques for the five compulsory congregational prayers, Jihad (holy fighting in Allah's Cause) and all other good and evil they did, and that which they leave behind\], and all things We have recorded with numbers (as a record) in a Clear Book.
 
 # 3718
 
-And put forward to them a similitude; the (story of the) dwellers of the town, [It is said that the town was Antioch (Antakiya)], when there came Messengers to them.
+And put forward to them a similitude; the (story of the) dwellers of the town, \[It is said that the town was Antioch (Antakiya)\], when there came Messengers to them.
 
 # 3719
 
@@ -14990,7 +14990,7 @@ It is not for the sun to overtake the moon, nor does the night outstrip the day.
 
 # 3746
 
-And an Ayah (sign) for them is that We bore their offspring in the laden ship [of Nuh (Noah)].
+And an Ayah (sign) for them is that We bore their offspring in the laden ship \[of Nuh (Noah)\].
 
 # 3747
 
@@ -15070,7 +15070,7 @@ Did I not ordain for you, O Children of Adam, that you should not worship Shaita
 
 # 3766
 
-And that you should worship Me [Alone Islamic Monotheism, and set up not rivals, associate-gods with Me]. That is a Straight Path.
+And that you should worship Me \[Alone Islamic Monotheism, and set up not rivals, associate-gods with Me\]. That is a Straight Path.
 
 # 3767
 
@@ -15086,7 +15086,7 @@ Burn therein this Day, for that you used to disbelieve.
 
 # 3770
 
-This Day, We shall seal up their mouths, and their hands will speak to Us, and their legs will bear witness to what they used to earn. (It is said that one's left thigh will be the first to bear the witness). [Tafsir At-Tabari, Vol. 22, Page 24]
+This Day, We shall seal up their mouths, and their hands will speak to Us, and their legs will bear witness to what they used to earn. (It is said that one's left thigh will be the first to bear the witness). \[Tafsir At-Tabari, Vol. 22, Page 24\]
 
 # 3771
 
@@ -15094,7 +15094,7 @@ And if it had been Our Will, We would surely have wiped out (blinded) their eyes
 
 # 3772
 
-And if it had been Our Will, We could have transformed them (into animals or lifeless objects) in their places. Then they should have been unable to go forward (move about) nor they could have turned back. [As it happened with the Jews see Verse 7:166 The Quran].
+And if it had been Our Will, We could have transformed them (into animals or lifeless objects) in their places. Then they should have been unable to go forward (move about) nor they could have turned back. \[As it happened with the Jews see Verse 7:166 The Quran\].
 
 # 3773
 
@@ -15170,7 +15170,7 @@ By those (angels) who drive the clouds in a good way.
 
 # 3791
 
-By those (angels) who bring the Book and the Quran from Allah to mankind [Tafsir Ibn Kathir].
+By those (angels) who bring the Book and the Quran from Allah to mankind \[Tafsir Ibn Kathir\].
 
 # 3792
 
@@ -15234,7 +15234,7 @@ Say (O Muhammad SAW): "Yes, and you shall then be humiliated."
 
 # 3807
 
-It will be a single Zajrah [shout (i.e. the second blowing of the Trumpet)], and behold, they will be staring!
+It will be a single Zajrah \[shout (i.e. the second blowing of the Trumpet)\], and behold, they will be staring!
 
 # 3808
 
@@ -15270,7 +15270,7 @@ And they will turn to one another and question one another.
 
 # 3816
 
-They will say: "It was you who used to come to us from the right side [i.e. from the right side of one of us and beautify for us every evil, order us for polytheism, and stop us from the truth i.e. Islamic Monotheism and from every good deed]."
+They will say: "It was you who used to come to us from the right side \[i.e. from the right side of one of us and beautify for us every evil, order us for polytheism, and stop us from the truth i.e. Islamic Monotheism and from every good deed\]."
 
 # 3817
 
@@ -15482,7 +15482,7 @@ Verily, thus We reward the Muhsinun (good-doers - see V. 2:112).
 
 # 3869
 
-Verily, he [Nuh (Noah)] was one of Our believing slaves.
+Verily, he \[Nuh (Noah)\] was one of Our believing slaves.
 
 # 3870
 
@@ -15490,11 +15490,11 @@ Then We drowned the other (disbelievers and polytheists, etc.).
 
 # 3871
 
-And, verily, among those who followed his [Nuh's (Noah)] way (Islamic Monotheism) was Ibrahim (Abraham).
+And, verily, among those who followed his \[Nuh's (Noah)\] way (Islamic Monotheism) was Ibrahim (Abraham).
 
 # 3872
 
-When he came to his Lord with a pure heart [attached to Allah Alone and none else, worshipping none but Allah Alone true Islamic Monotheism, pure from the filth of polytheism].
+When he came to his Lord with a pure heart \[attached to Allah Alone and none else, worshipping none but Allah Alone true Islamic Monotheism, pure from the filth of polytheism\].
 
 # 3873
 
@@ -15666,7 +15666,7 @@ When he said to his people: "Will you not fear Allah?
 
 # 3915
 
-But they denied him [Iliyas (Elias)], so they will certainly be brought forth (to the punishment),
+But they denied him \[Iliyas (Elias)\], so they will certainly be brought forth (to the punishment),
 
 # 3916
 
@@ -15702,7 +15702,7 @@ Except an old woman (his wife) who was among those who remained behind.
 
 # 3924
 
-Then We destroyed the rest [i.e. the towns of Sodom at the place of the Dead Sea (now) in Palestine]. [See the "Book of History" by Ibn Kathir].
+Then We destroyed the rest \[i.e. the towns of Sodom at the place of the Dead Sea (now) in Palestine\]. \[See the "Book of History" by Ibn Kathir\].
 
 # 3925
 
@@ -15806,7 +15806,7 @@ So, verily you (pagans) and those whom you worship (idols).
 
 # 3950
 
-Cannot lead astray [turn away from Him (Allah) anyone of the believers],
+Cannot lead astray \[turn away from Him (Allah) anyone of the believers\],
 
 # 3951
 
@@ -15890,7 +15890,7 @@ And all the praise and thanks be to Allah, Lord of the 'Alamin (mankind, jinns a
 
 # 3971
 
-Sad [These letters (Sad etc.) are one of the miracles of the Quran and none but Allah (Alone) knows their meanings]. By the Quran full of reminding.
+Sad \[These letters (Sad etc.) are one of the miracles of the Quran and none but Allah (Alone) knows their meanings\]. By the Quran full of reminding.
 
 # 3972
 
@@ -15946,7 +15946,7 @@ Not one of them but belied the Messengers, therefore My Torment was justified,
 
 # 3985
 
-And these only wait for a single Saihah [shout (i.e. the blowing of the Trumpet by the angel Israfil Sarafil)] there will be no pause or ending thereto [till everything will perish except Allah (the only God full of Majesty, Bounty and Honour)].
+And these only wait for a single Saihah \[shout (i.e. the blowing of the Trumpet by the angel Israfil Sarafil)\] there will be no pause or ending thereto \[till everything will perish except Allah (the only God full of Majesty, Bounty and Honour)\].
 
 # 3986
 
@@ -15958,11 +15958,11 @@ Be patient (O Muhammad SAW) of what they say, and remember Our slave Dawud (Davi
 
 # 3988
 
-Verily, We made the mountains to glorify Our Praises with him [Dawud (David)] in the 'Ashi (i.e. after the mid-day till sunset) and Ishraq (i.e. after the sunrise till mid-day).
+Verily, We made the mountains to glorify Our Praises with him \[Dawud (David)\] in the 'Ashi (i.e. after the mid-day till sunset) and Ishraq (i.e. after the sunrise till mid-day).
 
 # 3989
 
-And (so did) the birds assembled: all with him [Dawud (David)] did turn (to Allah i.e. glorified His Praises).
+And (so did) the birds assembled: all with him \[Dawud (David)\] did turn (to Allah i.e. glorified His Praises).
 
 # 3990
 
@@ -15982,7 +15982,7 @@ Verily, this my brother (in religion) has ninety nine ewes, while I have (only) 
 
 # 3994
 
-[Dawud (David)] said (immediately without listening to the opponent): "He has wronged you in demanding your ewe in addition to his ewes. And, verily, many partners oppress one another, except those who believe and do righteous good deeds, and they are few." And Dawud (David) guessed that We have tried him and he sought Forgiveness of his Lord, and he fell down prostrate and turned (to Allah) in repentance.
+\[Dawud (David)\] said (immediately without listening to the opponent): "He has wronged you in demanding your ewe in addition to his ewes. And, verily, many partners oppress one another, except those who believe and do righteous good deeds, and they are few." And Dawud (David) guessed that We have tried him and he sought Forgiveness of his Lord, and he fell down prostrate and turned (to Allah) in repentance.
 
 # 3995
 
@@ -16010,7 +16010,7 @@ And to Dawud (David) We gave Sulaiman (Solomon). How excellent (a) slave! Verily
 
 # 4001
 
-When there were displayed before him, in the afternoon, well trained horses of the highest breed [for Jihad (holy fighting in Allah's Cause)].
+When there were displayed before him, in the afternoon, well trained horses of the highest breed \[for Jihad (holy fighting in Allah's Cause)\].
 
 # 4002
 
@@ -16042,7 +16042,7 @@ And also others bound in fetters.
 
 # 4009
 
-[Saying of Allah to Sulaiman (Solomon)]: "This is Our gift, so spend you or withhold, no account will be asked."
+\[Saying of Allah to Sulaiman (Solomon)\]: "This is Our gift, so spend you or withhold, no account will be asked."
 
 # 4010
 
@@ -16070,7 +16070,7 @@ And remember Our slaves, Ibrahim (Abraham), Ishaque (Isaac), and Ya'qub (Jacob),
 
 # 4016
 
-Verily, We did choose them by granting them (a good thing, i.e.) the remembrance of the home [in the Hereafter and they used to make the people remember it, and also they used to invite the people to obey Allah and to do good deeds for the Hereafter].
+Verily, We did choose them by granting them (a good thing, i.e.) the remembrance of the home \[in the Hereafter and they used to make the people remember it, and also they used to invite the people to obey Allah and to do good deeds for the Hereafter\].
 
 # 4017
 
@@ -16086,7 +16086,7 @@ This is a Reminder, and verily, for the Muttaqun (pious and righteous persons - 
 
 # 4020
 
-'Adn (Edn) Paradise (everlasting Gardens), whose doors will be open for them, [It is said (in Tafsir At-Tabari, Part 23, Page 174) that one can speak to the doors, just one tells it to open and close, and it will open or close as it is ordered].
+'Adn (Edn) Paradise (everlasting Gardens), whose doors will be open for them, \[It is said (in Tafsir At-Tabari, Part 23, Page 174) that one can speak to the doors, just one tells it to open and close, and it will open or close as it is ordered\].
 
 # 4021
 
@@ -16190,7 +16190,7 @@ Except Iblis (Satan) he was proud and was one of the disbelievers.
 
 # 4046
 
-[Iblis (Satan)] said: "I am better than he, You created me from fire, and You created him from clay."
+\[Iblis (Satan)\] said: "I am better than he, You created me from fire, and You created him from clay."
 
 # 4047
 
@@ -16202,7 +16202,7 @@ Except Iblis (Satan) he was proud and was one of the disbelievers.
 
 # 4049
 
-[Iblis (Satan)] said: "My Lord! Give me then respite till the Day the (dead) are resurrected."
+\[Iblis (Satan)\] said: "My Lord! Give me then respite till the Day the (dead) are resurrected."
 
 # 4050
 
@@ -16214,7 +16214,7 @@ Except Iblis (Satan) he was proud and was one of the disbelievers.
 
 # 4052
 
-[Iblis (Satan)] said: "By Your Might, then I will surely mislead them all,
+\[Iblis (Satan)\] said: "By Your Might, then I will surely mislead them all,
 
 # 4053
 
@@ -16226,7 +16226,7 @@ Except Iblis (Satan) he was proud and was one of the disbelievers.
 
 # 4055
 
-That I will fill Hell with you [Iblis (Satan)] and those of them (mankind) that follow you, together."
+That I will fill Hell with you \[Iblis (Satan)\] and those of them (mankind) that follow you, together."
 
 # 4056
 
@@ -16262,7 +16262,7 @@ He has created the heavens and the earth with truth. He makes the night to go in
 
 # 4064
 
-He created you (all) from a single person (Adam); then made from him his wife [Hawwa' (Eve)]. And He has sent down for you of cattle eight pairs (of the sheep, two, male and female; of the goats, two, male and female; of the oxen, two, male and female; and of the camels, two, male and female). He creates you in the wombs of your mothers, creation after creation in three veils of darkness, such is Allah your Lord. His is the kingdom, La ilaha illa Huwa (none has the right to be worshipped but He). How then are you turned away?
+He created you (all) from a single person (Adam); then made from him his wife \[Hawwa' (Eve)\]. And He has sent down for you of cattle eight pairs (of the sheep, two, male and female; of the goats, two, male and female; of the oxen, two, male and female; and of the camels, two, male and female). He creates you in the wombs of your mothers, creation after creation in three veils of darkness, such is Allah your Lord. His is the kingdom, La ilaha illa Huwa (none has the right to be worshipped but He). How then are you turned away?
 
 # 4065
 
@@ -16310,7 +16310,7 @@ Those who avoid At-Taghut (false deities) by not worshipping them and turn to Al
 
 # 4076
 
-Those who listen to the Word [good advice La ilaha ill-Allah (none has the right to be worshipped but Allah) and Islamic Monotheism, etc.] and follow the best thereof (i.e. worship Allah Alone, repent to Him and avoid Taghut, etc.) those are (the ones) whom Allah has guided and those are men of understanding (like Zaid bin 'Amr bin Nufail, Salman Al-Farisi and Abu Dhar Al-Ghifari). [Tafsir Al-Qurtubi, Vol. 12, P. 244]
+Those who listen to the Word \[good advice La ilaha ill-Allah (none has the right to be worshipped but Allah) and Islamic Monotheism, etc.\] and follow the best thereof (i.e. worship Allah Alone, repent to Him and avoid Taghut, etc.) those are (the ones) whom Allah has guided and those are men of understanding (like Zaid bin 'Amr bin Nufail, Salman Al-Farisi and Abu Dhar Al-Ghifari). \[Tafsir Al-Qurtubi, Vol. 12, P. 244\]
 
 # 4077
 
@@ -16366,7 +16366,7 @@ Then, on the Day of Resurrection, you will be disputing before your Lord.
 
 # 4090
 
-Then, who does more wrong than one who utters a lie against Allah, and denies the truth [this Quran, the Prophet (Muhammad SAW), the Islamic Monotheism, the Resurrection and the reward or punishment according to good or evil deeds] when it comes to him! Is there not in Hell an abode for the disbelievers?
+Then, who does more wrong than one who utters a lie against Allah, and denies the truth \[this Quran, the Prophet (Muhammad SAW), the Islamic Monotheism, the Resurrection and the reward or punishment according to good or evil deeds\] when it comes to him! Is there not in Hell an abode for the disbelievers?
 
 # 4091
 
@@ -16418,7 +16418,7 @@ Say: "To Allah belongs all intercession. His is the Sovereignty of the heavens a
 
 # 4103
 
-And when Allah Alone is mentioned, the hearts of those who believe not in the Hereafter are filled with disgust (from the Oneness of Allah and when those (whom they obey or worship) besides Him [like all false deities other than Allah, it may be a Messenger like 'Iesa (Jesus) - son of Maryam (Mary), 'Uzair (Ezra), an angel, a pious man, a jinn, or any other creature even idols, graves of religious people, saints, priests, monks, etc.] are mentioned, behold, they rejoice!
+And when Allah Alone is mentioned, the hearts of those who believe not in the Hereafter are filled with disgust (from the Oneness of Allah and when those (whom they obey or worship) besides Him \[like all false deities other than Allah, it may be a Messenger like 'Iesa (Jesus) - son of Maryam (Mary), 'Uzair (Ezra), an angel, a pious man, a jinn, or any other creature even idols, graves of religious people, saints, priests, monks, etc.\] are mentioned, behold, they rejoice!
 
 # 4104
 
@@ -16442,7 +16442,7 @@ Verily, those before them said it, yet (all) that they had earned availed them n
 
 # 4109
 
-So, the evil results of that which they earned overtook them. And those who did wrong of these [people to whom you (Muhammad SAW) have been sent], will also be overtaken by the evil results (torment) for that which they earned, and they will never be able to escape.
+So, the evil results of that which they earned overtook them. And those who did wrong of these \[people to whom you (Muhammad SAW) have been sent\], will also be overtaken by the evil results (torment) for that which they earned, and they will never be able to escape.
 
 # 4110
 
@@ -16462,7 +16462,7 @@ Say: "O 'Ibadi (My slaves) who have transgressed against themselves (by committi
 
 # 4114
 
-Lest a person should say: "Alas, my grief that I was undutiful to Allah (i.e. I have not done what Allah has ordered me to do), and I was indeed among those who mocked [at the truth! i.e. La ilaha ill-Allah (none has the right to be worshipped but Allah), the Quran, and Muhammad SAW and at the faithful believers, etc.]
+Lest a person should say: "Alas, my grief that I was undutiful to Allah (i.e. I have not done what Allah has ordered me to do), and I was indeed among those who mocked \[at the truth! i.e. La ilaha ill-Allah (none has the right to be worshipped but Allah), the Quran, and Muhammad SAW and at the faithful believers, etc.\]
 
 # 4115
 
@@ -16542,7 +16542,7 @@ And you will see the angels surrounding the Throne (of Allah) from all round, gl
 
 # 4134
 
-Ha-Mim. [These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings].
+Ha-Mim. \[These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings\].
 
 # 4135
 
@@ -16554,7 +16554,7 @@ The Forgiver of sin, the Acceptor of repentance, the Severe in punishment, the B
 
 # 4137
 
-None disputes in the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) of Allah but those who disbelieve. So let not their ability of going about here and there through the land (for their purposes) deceive you [O Muhammad SAW, their ultimate end will be the Fire of Hell]!
+None disputes in the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) of Allah but those who disbelieve. So let not their ability of going about here and there through the land (for their purposes) deceive you \[O Muhammad SAW, their ultimate end will be the Fire of Hell\]!
 
 # 4138
 
@@ -16690,7 +16690,7 @@ And Fir'aun (Pharaoh) said: "O Haman! Build me a tower that I may arrive at the 
 
 # 4171
 
-And the man who believed said: "O my people! Follow me, I will guide you to the way of right conduct [i.e. guide you to Allah's religion of Islamic Monotheism with which Musa (Moses) has been sent].
+And the man who believed said: "O my people! Follow me, I will guide you to the way of right conduct \[i.e. guide you to Allah's religion of Islamic Monotheism with which Musa (Moses) has been sent\].
 
 # 4172
 
@@ -16750,7 +16750,7 @@ The Day when their excuses will be of no profit to Zalimun (polytheists, wrong-d
 
 # 4186
 
-And, indeed We gave Musa (Moses) the guidance, and We caused the Children of Israel to inherit the Scripture [i.e. the Taurat (Torah)],
+And, indeed We gave Musa (Moses) the guidance, and We caused the Children of Israel to inherit the Scripture \[i.e. the Taurat (Torah)\],
 
 # 4187
 
@@ -16758,11 +16758,11 @@ A guide and a reminder for men of understanding.
 
 # 4188
 
-So be patient (O Muhammad SAW). Verily, the Promise of Allah is true, and ask forgiveness for your fault, and glorify the praises of your Lord in the Ashi (i.e. the time period after the midnoon till sunset) and in the Ibkar (i.e. the time period from early morning or sunrise till before midnoon) [it is said that, that means the five compulsory congregational Salat (prayers) or the 'Asr and Fajr prayers].
+So be patient (O Muhammad SAW). Verily, the Promise of Allah is true, and ask forgiveness for your fault, and glorify the praises of your Lord in the Ashi (i.e. the time period after the midnoon till sunset) and in the Ibkar (i.e. the time period from early morning or sunrise till before midnoon) \[it is said that, that means the five compulsory congregational Salat (prayers) or the 'Asr and Fajr prayers\].
 
 # 4189
 
-Verily, those who dispute about the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) of Allah, without any authority having come to them, there is nothing else in their breasts except pride [to accept you (Muhammad SAW) as a Messenger of Allah and to obey you]. They will never have it (i.e. Prophethood which Allah has bestowed upon you). So seek refuge in Allah (O Muhammad SAW from the arrogants). Verily, it is He Who is the All-Hearer, the All-Seer.
+Verily, those who dispute about the Ayat (proofs, evidences, verses, lessons, signs, revelations, etc.) of Allah, without any authority having come to them, there is nothing else in their breasts except pride \[to accept you (Muhammad SAW) as a Messenger of Allah and to obey you\]. They will never have it (i.e. Prophethood which Allah has bestowed upon you). So seek refuge in Allah (O Muhammad SAW from the arrogants). Verily, it is He Who is the All-Hearer, the All-Seer.
 
 # 4190
 
@@ -16778,7 +16778,7 @@ Verily, the Hour (Day of Judgement) is surely coming, therein is no doubt, yet m
 
 # 4193
 
-And your Lord said: "Invoke Me, [i.e. believe in My Oneness (Islamic Monotheism)] (and ask Me for anything) I will respond to your (invocation). Verily! Those who scorn My worship [i.e. do not invoke Me, and do not believe in My Oneness, (Islamic Monotheism)] they will surely enter Hell in humiliation!"
+And your Lord said: "Invoke Me, \[i.e. believe in My Oneness (Islamic Monotheism)\] (and ask Me for anything) I will respond to your (invocation). Verily! Those who scorn My worship \[i.e. do not invoke Me, and do not believe in My Oneness, (Islamic Monotheism)\] they will surely enter Hell in humiliation!"
 
 # 4194
 
@@ -16806,7 +16806,7 @@ Say (O Muhammad SAW): "I have been forbidden to worship those whom you worship b
 
 # 4200
 
-He, it is Who has created you (Adam) from dust, then from a Nutfah [mixed semen drops of male and female discharge (i.e. Adam's offspring)] then from a clot (a piece of coagulated blood), then brings you forth as children, then (makes you grow) to reach the age of full strength, and afterwards to be old (men and women), though some among you die before, and that you reach an appointed term, in order that you may understand.
+He, it is Who has created you (Adam) from dust, then from a Nutfah \[mixed semen drops of male and female discharge (i.e. Adam's offspring)\] then from a clot (a piece of coagulated blood), then brings you forth as children, then (makes you grow) to reach the age of full strength, and afterwards to be old (men and women), though some among you die before, and that you reach an appointed term, in order that you may understand.
 
 # 4201
 
@@ -16882,7 +16882,7 @@ Then their Faith (in Islamic Monotheism) could not avail them when they saw Our 
 
 # 4219
 
-Ha-Mim. [These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings.]
+Ha-Mim. \[These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings.\]
 
 # 4220
 
@@ -16894,7 +16894,7 @@ A Book whereof the Verses are explained in detail; A Quran in Arabic for people 
 
 # 4222
 
-Giving glad tidings [of Paradise to the one who believes in the Oneness of Allah (i.e. Islamic Monotheism) and fears Allah much (abstains from all kinds of sins and evil deeds) and loves Allah much (performing all kinds of good deeds which He has ordained)], and warning (of punishment in the Hell Fire to the one who disbelieves in the Oneness of Allah), but most of them turn away, so they listen not.
+Giving glad tidings \[of Paradise to the one who believes in the Oneness of Allah (i.e. Islamic Monotheism) and fears Allah much (abstains from all kinds of sins and evil deeds) and loves Allah much (performing all kinds of good deeds which He has ordained)\], and warning (of punishment in the Hell Fire to the one who disbelieves in the Oneness of Allah), but most of them turn away, so they listen not.
 
 # 4223
 
@@ -17010,7 +17010,7 @@ Verily, those who say: "Our Lord is Allah (Alone)," and then they Istaqamu, on t
 
 # 4251
 
-And who is better in speech than he who [says: "My Lord is Allah (believes in His Oneness)," and then stands straight (acts upon His Order), and] invites (men) to Allah's (Islamic Monotheism), and does righteous deeds, and says: "I am one of the Muslims."
+And who is better in speech than he who \[says: "My Lord is Allah (believes in His Oneness)," and then stands straight (acts upon His Order), and\] invites (men) to Allah's (Islamic Monotheism), and does righteous deeds, and says: "I am one of the Muslims."
 
 # 4252
 
@@ -17042,7 +17042,7 @@ Verily, those who turn away from Our Ayat (proofs, evidences, verses, lessons, s
 
 # 4259
 
-Verily, those who disbelieved in the Reminder (i.e. the Quran) when it came to them (shall receive the punishment). And verily, it is an honourable respected Book (because it is Allah's Speech, and He has protected it from corruption, etc.). (See V. 15:9]
+Verily, those who disbelieved in the Reminder (i.e. the Quran) when it came to them (shall receive the punishment). And verily, it is an honourable respected Book (because it is Allah's Speech, and He has protected it from corruption, etc.). (See V. 15:9\]
 
 # 4260
 
@@ -17058,7 +17058,7 @@ And if We had sent this as a Quran in a foreign language other than Arabic, they
 
 # 4263
 
-And indeed We gave Musa (Moses) the Scripture, but dispute arose therein. And had it not been for a Word that went forth before from your Lord, (the torment would have overtaken them) and the matter would have been settled between them. But truly, they are in grave doubt thereto (i.e. about the Quran). [Tafsir Al-Qurtubi, Vol. 15, Page 370]
+And indeed We gave Musa (Moses) the Scripture, but dispute arose therein. And had it not been for a Word that went forth before from your Lord, (the torment would have overtaken them) and the matter would have been settled between them. But truly, they are in grave doubt thereto (i.e. about the Quran). \[Tafsir Al-Qurtubi, Vol. 15, Page 370\]
 
 # 4264
 
@@ -17102,7 +17102,7 @@ Ha-Mim.
 
 # 4274
 
-'Ain-Sin-Qaf. [These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings].
+'Ain-Sin-Qaf. \[These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings\].
 
 # 4275
 
@@ -17118,7 +17118,7 @@ Nearly the heavens might rent asunder from above them (by His Majesty), and the 
 
 # 4278
 
-And as for those who take as Auliya' (guardians, supporters, helpers, protectors, etc.) others besides Him [i.e. they take false deities other than Allah (as) protectors, and they worship them] Allah is Hafiz (Protector) over them (i.e. takes care of their deeds and will recompense them), and you (O Muhammad SAW) are not a Wakil (guardian or a disposer of their affairs) over them (to protect their deeds, etc.).
+And as for those who take as Auliya' (guardians, supporters, helpers, protectors, etc.) others besides Him \[i.e. they take false deities other than Allah (as) protectors, and they worship them\] Allah is Hafiz (Protector) over them (i.e. takes care of their deeds and will recompense them), and you (O Muhammad SAW) are not a Wakil (guardian or a disposer of their affairs) over them (to protect their deeds, etc.).
 
 # 4279
 
@@ -17150,11 +17150,11 @@ He (Allah) has ordained for you the same religion (Islam) which He ordained for 
 
 # 4286
 
-And they divided not till after knowledge had come to them, through selfish transgression between themselves. And had it not been for a Word that went forth before from your Lord for an appointed term, the matter would have been settled between them. And verily, those who were made to inherit the Scripture [i.e. the Taurah (Torah) and the Injeel (Gospel)] after them (i.e. Jews and Christians) are in grave doubt concerning it (i.e. Allah's true religion Islam or the Quran).
+And they divided not till after knowledge had come to them, through selfish transgression between themselves. And had it not been for a Word that went forth before from your Lord for an appointed term, the matter would have been settled between them. And verily, those who were made to inherit the Scripture \[i.e. the Taurah (Torah) and the Injeel (Gospel)\] after them (i.e. Jews and Christians) are in grave doubt concerning it (i.e. Allah's true religion Islam or the Quran).
 
 # 4287
 
-So unto this (religion of Islam, alone and this Quran) then invite (people) (O Muhammad SAW), and Istaqim [(i.e. stand firm and straight on Islamic Monotheism by performing all that is ordained by Allah (good deeds, etc.), and by abstaining from all that is forbidden by Allah (sins and evil deeds, etc.)], as you are commanded, and follow not their desires but say: "I believe in whatsoever Allah has sent down of the Book [all the holy Books, this Quran and the Books of the old from the Taurat (Torah), or the Injeel (Gospel) or the Pages of Ibrahim (Abraham)] and I am commanded to do justice among you, Allah is our Lord and your Lord. For us our deeds and for you your deeds. There is no dispute between us and you. Allah will assemble us (all), and to Him is the final return.
+So unto this (religion of Islam, alone and this Quran) then invite (people) (O Muhammad SAW), and Istaqim \[(i.e. stand firm and straight on Islamic Monotheism by performing all that is ordained by Allah (good deeds, etc.), and by abstaining from all that is forbidden by Allah (sins and evil deeds, etc.)\], as you are commanded, and follow not their desires but say: "I believe in whatsoever Allah has sent down of the Book \[all the holy Books, this Quran and the Books of the old from the Taurat (Torah), or the Injeel (Gospel) or the Pages of Ibrahim (Abraham)\] and I am commanded to do justice among you, Allah is our Lord and your Lord. For us our deeds and for you your deeds. There is no dispute between us and you. Allah will assemble us (all), and to Him is the final return.
 
 # 4288
 
@@ -17246,7 +17246,7 @@ And those who avoid the greater sins, and Al-Fawahish (illegal sexual intercours
 
 # 4310
 
-And those who answer the Call of their Lord [i.e. to believe that He is the only One Lord (Allah), and to worship none but Him Alone], and perform As-Salat (Iqamat-as-Salat), and who (conduct) their affairs by mutual consultation, and who spend of what We have bestowed on them;
+And those who answer the Call of their Lord \[i.e. to believe that He is the only One Lord (Allah), and to worship none but Him Alone\], and perform As-Salat (Iqamat-as-Salat), and who (conduct) their affairs by mutual consultation, and who spend of what We have bestowed on them;
 
 # 4311
 
@@ -17274,7 +17274,7 @@ And whomsoever Allah sends astray, for him there is no Wali (protector) after Hi
 
 # 4317
 
-And you will see them brought forward to it (Hell) made humble by disgrace, (and) looking with stealthy glance. And those who believe will say: "Verily, the losers are they who lose themselves and their families on the Day of Resurrection. Verily, the Zalimun [i.e. Al-Kafirun (disbelievers in Allah, in His Oneness and in His Messenger SAW, polytheists, wrong-doers, etc.)] will be in a lasting torment.
+And you will see them brought forward to it (Hell) made humble by disgrace, (and) looking with stealthy glance. And those who believe will say: "Verily, the losers are they who lose themselves and their families on the Day of Resurrection. Verily, the Zalimun \[i.e. Al-Kafirun (disbelievers in Allah, in His Oneness and in His Messenger SAW, polytheists, wrong-doers, etc.)\] will be in a lasting torment.
 
 # 4318
 
@@ -17310,7 +17310,7 @@ The Path of Allah, to Whom belongs all that is in the heavens and all that is in
 
 # 4326
 
-Ha-Mim. [These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings].
+Ha-Mim. \[These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings\].
 
 # 4327
 
@@ -17418,7 +17418,7 @@ And (remember) when Ibrahim (Abraham) said to his father and his people: "Verily
 
 # 4353
 
-And he made it [i.e. La ilaha ill-Allah (none has the right to be worshipped but Allah Alone)] a Word lasting among his offspring (True Monotheism), that they may turn back (i.e. to repent to Allah or receive admonition).
+And he made it \[i.e. La ilaha ill-Allah (none has the right to be worshipped but Allah Alone)\] a Word lasting among his offspring (True Monotheism), that they may turn back (i.e. to repent to Allah or receive admonition).
 
 # 4354
 
@@ -17458,7 +17458,7 @@ And verily, they (Satans / devils) hinder them from the Path (of Allah), but the
 
 # 4363
 
-Till, when (such a one) comes to Us, he says [to his Qarin (Satan / devil companion)] "Would that between me and you were the distance of the two easts (or the east and west)" a worst (type of) companion (indeed)!
+Till, when (such a one) comes to Us, he says \[to his Qarin (Satan / devil companion)\] "Would that between me and you were the distance of the two easts (or the east and west)" a worst (type of) companion (indeed)!
 
 # 4364
 
@@ -17498,11 +17498,11 @@ But when he came to them with Our Ayat (proofs, evidences, verses, lessons, sign
 
 # 4373
 
-And not an Ayah (sign, etc.) We showed them but it was greater than its fellow, and We seized them with torment, in order that they might turn [from their polytheism to Allah's Religion (Islamic Monotheism)].
+And not an Ayah (sign, etc.) We showed them but it was greater than its fellow, and We seized them with torment, in order that they might turn \[from their polytheism to Allah's Religion (Islamic Monotheism)\].
 
 # 4374
 
-And they said [to Musa (Moses)]: "O you sorcerer! Invoke your Lord for us according to what He has covenanted with you. Verily, We shall guide ourselves (aright)."
+And they said \[to Musa (Moses)\]: "O you sorcerer! Invoke your Lord for us according to what He has covenanted with you. Verily, We shall guide ourselves (aright)."
 
 # 4375
 
@@ -17514,7 +17514,7 @@ And Fir'aun (Pharaoh) proclaimed among his people, saying: "O my people! Is not 
 
 # 4377
 
-"Am I not better than this one [Musa (Moses)], who is Mahin [has no honour nor any respect, and is weak and despicable] and can scarcely express himself clearly?
+"Am I not better than this one \[Musa (Moses)\], who is Mahin \[has no honour nor any respect, and is weak and despicable\] and can scarcely express himself clearly?
 
 # 4378
 
@@ -17522,7 +17522,7 @@ And Fir'aun (Pharaoh) proclaimed among his people, saying: "O my people! Is not 
 
 # 4379
 
-Thus he [Fir'aun (Pharaoh)] befooled and misled his people, and they obeyed him. Verily, they were ever a people who were Fasiqun (rebellious, disobedient to Allah).
+Thus he \[Fir'aun (Pharaoh)\] befooled and misled his people, and they obeyed him. Verily, they were ever a people who were Fasiqun (rebellious, disobedient to Allah).
 
 # 4380
 
@@ -17534,23 +17534,23 @@ And We made them a precedent (as a lesson for those coming after them), and an e
 
 # 4382
 
-And when the son of Maryam (Mary) is quoted as an example [i.e. 'Iesa (Jesus) is worshipped like their idols), behold! Your people cry aloud (laugh out at the example).
+And when the son of Maryam (Mary) is quoted as an example \[i.e. 'Iesa (Jesus) is worshipped like their idols), behold! Your people cry aloud (laugh out at the example).
 
 # 4383
 
-And say: "Are our aliha (gods) better or is he ['Iesa (Jesus)]?" They quoted not the above example except for argument. Nay! But they are a quarrelsome people. [(See VV. 21:97-101) - The Quran.]
+And say: "Are our aliha (gods) better or is he \['Iesa (Jesus)\]?" They quoted not the above example except for argument. Nay! But they are a quarrelsome people. \[(See VV. 21:97-101) - The Quran.\]
 
 # 4384
 
-He ['Iesa (Jesus)] was not more than a slave. We granted Our Favour to him, and We made him an example to the Children of Israel (i.e. his creation without a father).
+He \['Iesa (Jesus)\] was not more than a slave. We granted Our Favour to him, and We made him an example to the Children of Israel (i.e. his creation without a father).
 
 # 4385
 
-And if it were Our Will, We would have [destroyed you (mankind) all, and] made angels to replace you on the earth. [Tafsir At-Tabari, Vol: 25, Page 89].
+And if it were Our Will, We would have \[destroyed you (mankind) all, and\] made angels to replace you on the earth. \[Tafsir At-Tabari, Vol: 25, Page 89\].
 
 # 4386
 
-And he ['Iesa (Jesus), son of Maryam (Mary)] shall be a known sign for (the coming of) the Hour (Day of Resurrection) [i.e. 'Iesa's (Jesus) descent on the earth]. Therefore have no doubt concerning it (i.e. the Day of Resurrection). And follow Me (Allah) (i.e. be obedient to Allah and do what He orders you to do, O mankind)! This is the Straight Path (of Islamic Monotheism, leading to Allah and to His Paradise).
+And he \['Iesa (Jesus), son of Maryam (Mary)\] shall be a known sign for (the coming of) the Hour (Day of Resurrection) \[i.e. 'Iesa's (Jesus) descent on the earth\]. Therefore have no doubt concerning it (i.e. the Day of Resurrection). And follow Me (Allah) (i.e. be obedient to Allah and do what He orders you to do, O mankind)! This is the Straight Path (of Islamic Monotheism, leading to Allah and to His Paradise).
 
 # 4387
 
@@ -17630,7 +17630,7 @@ Or do they think that We hear not their secrets and their private counsel? (Yes 
 
 # 4406
 
-Say (O Muhammad SAW): "If the Most Beneficent (Allah) had a son (or children as you pretend), then I am the first of Allah's worshippers [who deny and refute this claim of yours (and the first to believe in Allah Alone and testify that He has no children)]." [Tafsir At-Tabari].
+Say (O Muhammad SAW): "If the Most Beneficent (Allah) had a son (or children as you pretend), then I am the first of Allah's worshippers \[who deny and refute this claim of yours (and the first to believe in Allah Alone and testify that He has no children)\]." \[Tafsir At-Tabari\].
 
 # 4407
 
@@ -17666,7 +17666,7 @@ So turn away from them (O Muhammad SAW), and say: Salam (peace)! But they will c
 
 # 4415
 
-Ha-Mim. [These letters are one of the miracles of the Quran and none but Allah (Alone) knows their meanings].
+Ha-Mim. \[These letters are one of the miracles of the Quran and none but Allah (Alone) knows their meanings\].
 
 # 4416
 
@@ -17674,7 +17674,7 @@ By the manifest Book (this Quran) that makes things clear,
 
 # 4417
 
-We sent it (this Quran) down on a blessed night [(i.e. night of Qadr, Surah No: 97) in the month of Ramadan,, the 9th month of the Islamic calendar]. Verily, We are ever warning [mankind that Our Torment will reach those who disbelieve in Our Oneness of Lordship and in Our Oneness of worship].
+We sent it (this Quran) down on a blessed night \[(i.e. night of Qadr, Surah No: 97) in the month of Ramadan,, the 9th month of the Islamic calendar\]. Verily, We are ever warning \[mankind that Our Torment will reach those who disbelieve in Our Oneness of Lordship and in Our Oneness of worship\].
 
 # 4418
 
@@ -17730,7 +17730,7 @@ On the Day when We shall seize you with the greatest grasp. Verily, We will exac
 
 # 4431
 
-And indeed We tried before them Fir'aun's (Pharaoh) people, when there came to them a noble Messenger [i.e. Musa (Moses)],
+And indeed We tried before them Fir'aun's (Pharaoh) people, when there came to them a noble Messenger \[i.e. Musa (Moses)\],
 
 # 4432
 
@@ -17750,7 +17750,7 @@ Saying: "Restore to me the slaves of Allah (i.e. the Children of Israel). Verily
 
 # 4436
 
-(But they were aggressive), so he [Musa (Moses)] called upon his Lord (saying): "These are indeed the people who are Mujrimun (disbelievers, polytheists, sinners, criminals, etc.)."
+(But they were aggressive), so he \[Musa (Moses)\] called upon his Lord (saying): "These are indeed the people who are Mujrimun (disbelievers, polytheists, sinners, criminals, etc.)."
 
 # 4437
 
@@ -17762,7 +17762,7 @@ Saying: "Restore to me the slaves of Allah (i.e. the Children of Israel). Verily
 
 # 4439
 
-How many of gardens and springs do they [Fir'aun's (Pharaoh) people] left.
+How many of gardens and springs do they \[Fir'aun's (Pharaoh) people\] left.
 
 # 4440
 
@@ -17790,7 +17790,7 @@ From Fir'aun (Pharaoh); Verily! He was arrogant and was of the Musrifun (those w
 
 # 4446
 
-And We chose them (the Children of Israel) above the 'Alamin (mankind, and jinns) [during the time of Musa (Moses)] with knowledge,
+And We chose them (the Children of Israel) above the 'Alamin (mankind, and jinns) \[during the time of Musa (Moses)\] with knowledge,
 
 # 4447
 
@@ -17902,7 +17902,7 @@ Wait then (O Muhammad SAW); Verily, they (too) are waiting.
 
 # 4474
 
-Ha-Mim. [These letters are one of the miracles of the Quran and none but Allah (Alone) knows their meanings].
+Ha-Mim. \[These letters are one of the miracles of the Quran and none but Allah (Alone) knows their meanings\].
 
 # 4475
 
@@ -17966,11 +17966,11 @@ And indeed We gave the Children of Israel the Scripture, and the understanding o
 
 # 4490
 
-And gave them clear proofs in matters [by revealing to them the Taurat (Torah)]. And they differed not until after the knowledge came to them, through envy among themselves. Verily, Your Lord will judge between them on the Day of Resurrection about that wherein they used to differ.
+And gave them clear proofs in matters \[by revealing to them the Taurat (Torah)\]. And they differed not until after the knowledge came to them, through envy among themselves. Verily, Your Lord will judge between them on the Day of Resurrection about that wherein they used to differ.
 
 # 4491
 
-Then We have put you (O Muhammad SAW) on a plain way of (Our) commandment [like the one which We commanded Our Messengers before you (i.e. legal ways and laws of the Islamic Monotheism)]. So follow you that (Islamic Monotheism and its laws), and follow not the desires of those who know not. [Tafsir At-Tabari Vol. 25, Page 146].
+Then We have put you (O Muhammad SAW) on a plain way of (Our) commandment \[like the one which We commanded Our Messengers before you (i.e. legal ways and laws of the Islamic Monotheism)\]. So follow you that (Islamic Monotheism and its laws), and follow not the desires of those who know not. \[Tafsir At-Tabari Vol. 25, Page 146\].
 
 # 4492
 
@@ -18050,7 +18050,7 @@ And His (Alone) is the Majesty in the heavens and the earth, and He is the All-M
 
 # 4511
 
-Ha-Mim. [These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings].
+Ha-Mim. \[These letters are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings\].
 
 # 4512
 
@@ -18086,7 +18086,7 @@ Say (O Muhammad SAW):"I am not a new thing among the Messengers (of Allah) (i.e.
 
 # 4520
 
-Say: "Tell me! If this (Quran) is from Allah, and you deny it, and a witness from among the Children of Israel ('Abdullah bin Salam) testifies that this Quran is from Allah [like the Taurat (Torah)], so he believed (embraced Islam) while you are too proud (to believe)." Verily! Allah guides not the people who are Zalimun (polytheists, disbelievers and wrong-doing).
+Say: "Tell me! If this (Quran) is from Allah, and you deny it, and a witness from among the Children of Israel ('Abdullah bin Salam) testifies that this Quran is from Allah \[like the Taurat (Torah)\], so he believed (embraced Islam) while you are too proud (to believe)." Verily! Allah guides not the people who are Zalimun (polytheists, disbelievers and wrong-doing).
 
 # 4521
 
@@ -18190,7 +18190,7 @@ Therefore be patient (O Muhammad SAW) as did the Messengers of strong will and b
 
 # 4546
 
-Those who disbelieve [in the Oneness of Allah, and in the Message of Prophet Muhammad SAW], and hinder (men) from the Path of Allah (Islamic Monotheism), He will render their deeds vain.
+Those who disbelieve \[in the Oneness of Allah, and in the Message of Prophet Muhammad SAW\], and hinder (men) from the Path of Allah (Islamic Monotheism), He will render their deeds vain.
 
 # 4547
 
@@ -18202,7 +18202,7 @@ That is because those who disbelieve follow falsehood, while those who believe f
 
 # 4549
 
-So, when you meet (in fight Jihad in Allah's Cause), those who disbelieve smite at their necks till when you have killed and wounded many of them, then bind a bond firmly (on them, i.e. take them as captives). Thereafter (is the time) either for generosity (i.e. free them without ransom), or ransom (according to what benefits Islam), until the war lays down its burden. Thus [you are ordered by Allah to continue in carrying out Jihad against the disbelievers till they embrace Islam (i.e. are saved from the punishment in the Hell-fire) or at least come under your protection], but if it had been Allah's Will, He Himself could certainly have punished them (without you). But (He lets you fight), in order to test you, some with others. But those who are killed in the Way of Allah, He will never let their deeds be lost,
+So, when you meet (in fight Jihad in Allah's Cause), those who disbelieve smite at their necks till when you have killed and wounded many of them, then bind a bond firmly (on them, i.e. take them as captives). Thereafter (is the time) either for generosity (i.e. free them without ransom), or ransom (according to what benefits Islam), until the war lays down its burden. Thus \[you are ordered by Allah to continue in carrying out Jihad against the disbelievers till they embrace Islam (i.e. are saved from the punishment in the Hell-fire) or at least come under your protection\], but if it had been Allah's Will, He Himself could certainly have punished them (without you). But (He lets you fight), in order to test you, some with others. But those who are killed in the Way of Allah, He will never let their deeds be lost,
 
 # 4550
 
@@ -18446,7 +18446,7 @@ When those who disbelieve had put in their hearts pride and haughtiness the prid
 
 # 4610
 
-Indeed Allah shall fulfil the true vision which He showed to His Messenger (SAW) [i.e. the Prophet SAW saw a dream that he has entered Makkah along with his companions, having their (head) hair shaved and cut short] in very truth. Certainly, you shall enter Al-Masjid-al-Haram; if Allah wills, secure, (some) having your heads shaved, and (some) having your head hair cut short, having no fear. He knew what you knew not, and He granted besides that a near victory.
+Indeed Allah shall fulfil the true vision which He showed to His Messenger (SAW) \[i.e. the Prophet SAW saw a dream that he has entered Makkah along with his companions, having their (head) hair shaved and cut short\] in very truth. Certainly, you shall enter Al-Masjid-al-Haram; if Allah wills, secure, (some) having your heads shaved, and (some) having your head hair cut short, having no fear. He knew what you knew not, and He granted besides that a near victory.
 
 # 4611
 
@@ -18498,7 +18498,7 @@ The believers are nothing else than brothers (in Islamic religion). So make reco
 
 # 4623
 
-O you who believe! Let not a group scoff at another group, it may be that the latter are better than the former; nor let (some) women scoff at other women, it may be that the latter are better than the former, nor defame one another, nor insult one another by nicknames. How bad is it, to insult one's brother after having Faith [i.e. to call your Muslim brother (a faithful believer) as: "O sinner", or "O wicked", etc.]. And whosoever does not repent, then such are indeed Zalimun (wrong-doers, etc.).
+O you who believe! Let not a group scoff at another group, it may be that the latter are better than the former; nor let (some) women scoff at other women, it may be that the latter are better than the former, nor defame one another, nor insult one another by nicknames. How bad is it, to insult one's brother after having Faith \[i.e. to call your Muslim brother (a faithful believer) as: "O sinner", or "O wicked", etc.\]. And whosoever does not repent, then such are indeed Zalimun (wrong-doers, etc.).
 
 # 4624
 
@@ -18506,7 +18506,7 @@ O you who believe! Avoid much suspicions, indeed some suspicions are sins. And s
 
 # 4625
 
-O mankind! We have created you from a male and a female, and made you into nations and tribes, that you may know one another. Verily, the most honourable of you with Allah is that (believer) who has At-Taqwa [i.e. one of the Muttaqun (pious - see V. 2:2). Verily, Allah is All-Knowing, All-Aware.
+O mankind! We have created you from a male and a female, and made you into nations and tribes, that you may know one another. Verily, the most honourable of you with Allah is that (believer) who has At-Taqwa \[i.e. one of the Muttaqun (pious - see V. 2:2). Verily, Allah is All-Knowing, All-Aware.
 
 # 4626
 
@@ -18530,7 +18530,7 @@ Verily, Allah knows the unseen of the heavens and the earth. And Allah is the Al
 
 # 4631
 
-Qaf. [These letters (Qaf, etc.) are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings]. By the Glorious Quran.
+Qaf. \[These letters (Qaf, etc.) are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings\]. By the Glorious Quran.
 
 # 4632
 
@@ -18634,7 +18634,7 @@ And his companion (angel) will say: "Here is (this Record) ready with me!"
 
 # 4657
 
-His companion (Satan devil)] will say: "Our Lord! I did not push him to transgress, (in disbelief, oppression, and evil deeds) but he was himself in error far astray."
+His companion (Satan devil)\] will say: "Our Lord! I did not push him to transgress, (in disbelief, oppression, and evil deeds) but he was himself in error far astray."
 
 # 4658
 
@@ -18686,7 +18686,7 @@ So bear with patience (O Muhammad SAW) all that they say, and glorify the Praise
 
 # 4670
 
-And during a part of the night (also), glorify His praises (i.e. Maghrib and 'Isha prayers), and (so likewise) after the prayers [As-Sunnah, Nawafil optional and additional prayers, and also glorify, praise and magnify Allah - Subhan Allah, Alhamdu lillah, Allahu-Akbar].
+And during a part of the night (also), glorify His praises (i.e. Maghrib and 'Isha prayers), and (so likewise) after the prayers \[As-Sunnah, Nawafil optional and additional prayers, and also glorify, praise and magnify Allah - Subhan Allah, Alhamdu lillah, Allahu-Akbar\].
 
 # 4671
 
@@ -18774,7 +18774,7 @@ Taking joy in the things which their Lord has given them. Verily, they were befo
 
 # 4692
 
-They used to sleep but little by night [invoking their Lord (Allah) and praying, with fear and hope].
+They used to sleep but little by night \[invoking their Lord (Allah) and praying, with fear and hope\].
 
 # 4693
 
@@ -18802,7 +18802,7 @@ Then, by the Lord of the heaven and the earth, it is the truth (i.e. what has be
 
 # 4699
 
-Has the story reached you, of the honoured guests [three angels; Jibrael (Gabriel) along with another two] of Ibrahim (Abraham)?
+Has the story reached you, of the honoured guests \[three angels; Jibrael (Gabriel) along with another two\] of Ibrahim (Abraham)?
 
 # 4700
 
@@ -18810,7 +18810,7 @@ When they came in to him, and said, "Salam, (peace be upon you)!" He answered; "
 
 # 4701
 
-Then he turned to his household, so brought out a roasted calf [as the property of Ibrahim (Abraham) was mainly cows].
+Then he turned to his household, so brought out a roasted calf \[as the property of Ibrahim (Abraham) was mainly cows\].
 
 # 4702
 
@@ -18830,7 +18830,7 @@ They said: "Even so says your Lord. Verily, He is the All-Wise, the All-Knower."
 
 # 4706
 
-[Ibrahim (Abraham)] said: "Then for what purpose you have come, O Messengers?"
+\[Ibrahim (Abraham)\] said: "Then for what purpose you have come, O Messengers?"
 
 # 4707
 
@@ -18850,7 +18850,7 @@ So We brought out from therein the believers.
 
 # 4711
 
-But We found not there any household of the Muslims except one [i.e. Lout (Lot) and his two daughters].
+But We found not there any household of the Muslims except one \[i.e. Lout (Lot) and his two daughters\].
 
 # 4712
 
@@ -18862,7 +18862,7 @@ And in Musa (Moses) (too, there is a sign). When We sent him to Fir'aun (Pharaoh
 
 # 4714
 
-But [Fir'aun (Pharaoh)] turned away (from Belief in might) along with his hosts, and said: "A sorcerer, or a madman."
+But \[Fir'aun (Pharaoh)\] turned away (from Belief in might) along with his hosts, and said: "A sorcerer, or a madman."
 
 # 4715
 
@@ -18910,7 +18910,7 @@ So flee to Allah (from His Torment to His Mercy Islamic Monotheism), verily, I (
 
 # 4726
 
-And set not up (or worship) any other ilahan (god) along with Allah [Glorified be He (Alone), Exalted above all that they associate as partners with Him]. Verily, I (Muhammad SAW) am a plain warner to you from Him.
+And set not up (or worship) any other ilahan (god) along with Allah \[Glorified be He (Alone), Exalted above all that they associate as partners with Him\]. Verily, I (Muhammad SAW) am a plain warner to you from Him.
 
 # 4727
 
@@ -19074,7 +19074,7 @@ Say (O Muhammad SAW to them): "Wait! I am with you, among the waiters!"
 
 # 4767
 
-Do their minds command them this [i.e. to tell a lie against you (Muhammad SAW)] or are they people exceeding the bounds (i.e. from Belief in Allah to disbelief).
+Do their minds command them this \[i.e. to tell a lie against you (Muhammad SAW)\] or are they people exceeding the bounds (i.e. from Belief in Allah to disbelief).
 
 # 4768
 
@@ -19134,7 +19134,7 @@ The Day when their plotting shall not avail them at all nor will they be helped 
 
 # 4782
 
-And verily, for those who do wrong, there is another punishment (i.e. the torment in this world and in their graves) before this, but most of them know not. [Tafsir At-Tabari, Vol. 27, Page 36].
+And verily, for those who do wrong, there is another punishment (i.e. the torment in this world and in their graves) before this, but most of them know not. \[Tafsir At-Tabari, Vol. 27, Page 36\].
 
 # 4783
 
@@ -19162,19 +19162,19 @@ It is only an Inspiration that is inspired.
 
 # 4789
 
-He has been taught (this Quran) by one mighty in power [Jibrael (Gabriel)].
+He has been taught (this Quran) by one mighty in power \[Jibrael (Gabriel)\].
 
 # 4790
 
-Dhu Mirrah (free from any defect in body and mind), Fastawa [then he (Jibrael - Gabriel) rose and became stable]. [Tafsir At-Tabari].
+Dhu Mirrah (free from any defect in body and mind), Fastawa \[then he (Jibrael - Gabriel) rose and became stable\]. \[Tafsir At-Tabari\].
 
 # 4791
 
-While he [Jibrael (Gabriel)] was in the highest part of the horizon,
+While he \[Jibrael (Gabriel)\] was in the highest part of the horizon,
 
 # 4792
 
-Then he [Jibrael (Gabriel)] approached and came closer,
+Then he \[Jibrael (Gabriel)\] approached and came closer,
 
 # 4793
 
@@ -19182,7 +19182,7 @@ And was at a distance of two bows' length or (even) nearer,
 
 # 4794
 
-So did (Allah) convey the Inspiration to His slave [Muhammad SAW through Jibrael (Gabriel)].
+So did (Allah) convey the Inspiration to His slave \[Muhammad SAW through Jibrael (Gabriel)\].
 
 # 4795
 
@@ -19190,15 +19190,15 @@ The (Prophet's) heart lied not (in seeing) what he (Muhammad SAW) saw.
 
 # 4796
 
-Will you then dispute with him (Muhammad SAW) about what he saw [during the Mi'raj: (Ascent of the Prophet SAW over the seven heavens)].
+Will you then dispute with him (Muhammad SAW) about what he saw \[during the Mi'raj: (Ascent of the Prophet SAW over the seven heavens)\].
 
 # 4797
 
-And indeed he (Muhammad SAW) saw him [Jibrael (Gabriel)] at a second descent (i.e. another time).
+And indeed he (Muhammad SAW) saw him \[Jibrael (Gabriel)\] at a second descent (i.e. another time).
 
 # 4798
 
-Near Sidrat-ul-Muntaha [lote-tree of the utmost boundary (beyond which none can pass)],
+Near Sidrat-ul-Muntaha \[lote-tree of the utmost boundary (beyond which none can pass)\],
 
 # 4799
 
@@ -19270,7 +19270,7 @@ And to Allah belongs all that is in the heavens and all that is in the earth, th
 
 # 4816
 
-Those who avoid great sins (see the Quran, Verses: 6:152, 153) and Al-Fawahish (illegal sexual intercourse, etc.) except the small faults, verily, your Lord is of vast forgiveness. He knows you well when He created you from the earth (Adam), and when you were fetuses in your mothers' wombs. So ascribe not purity to yourselves. He knows best him who fears Allah and keep his duty to Him [i.e. those who are Al-Muttaqun (pious - see V. 2:2)].
+Those who avoid great sins (see the Quran, Verses: 6:152, 153) and Al-Fawahish (illegal sexual intercourse, etc.) except the small faults, verily, your Lord is of vast forgiveness. He knows you well when He created you from the earth (Adam), and when you were fetuses in your mothers' wombs. So ascribe not purity to yourselves. He knows best him who fears Allah and keep his duty to Him \[i.e. those who are Al-Muttaqun (pious - see V. 2:2)\].
 
 # 4817
 
@@ -19350,11 +19350,11 @@ And Thamud (people). He spared none of them.
 
 # 4836
 
-And the people of Nuh (Noah) aforetime, verily, they were more unjust and more rebellious and transgressing [in disobeying Allah and His Messenger Nuh (Noah)].
+And the people of Nuh (Noah) aforetime, verily, they were more unjust and more rebellious and transgressing \[in disobeying Allah and His Messenger Nuh (Noah)\].
 
 # 4837
 
-And He destroyed the overthrown cities [of Sodom to which Prophet Lout (Lot) was sent].
+And He destroyed the overthrown cities \[of Sodom to which Prophet Lout (Lot) was sent\].
 
 # 4838
 
@@ -19402,7 +19402,7 @@ And if they see a sign, they turn away, and say: "This is continuous magic."
 
 # 4849
 
-They belied (the Verses of Allah, this Quran), and followed their own lusts. And every matter will be settled [according to the kind of deeds (for the doer of good deeds, his deeds will take him to Paradise, and similarly evil deeds will take their doers to Hell)].
+They belied (the Verses of Allah, this Quran), and followed their own lusts. And every matter will be settled \[according to the kind of deeds (for the doer of good deeds, his deeds will take him to Paradise, and similarly evil deeds will take their doers to Hell)\].
 
 # 4850
 
@@ -19490,7 +19490,7 @@ For they said: "A man! Alone from among us, that we are to follow? Truly, then w
 
 # 4871
 
-"Is it that the Reminder is sent to him [Prophet Salih (Saleh)] alone from among us? Nay, he is an insolent liar!"
+"Is it that the Reminder is sent to him \[Prophet Salih (Saleh)\] alone from among us? Nay, he is an insolent liar!"
 
 # 4872
 
@@ -19498,7 +19498,7 @@ Tomorrow they will come to know, who is the liar, the insolent one!
 
 # 4873
 
-Verily, We are sending the she-camel as a test for them. So watch them [O Salih (Saleh)], and be patient!
+Verily, We are sending the she-camel as a test for them. So watch them \[O Salih (Saleh)\], and be patient!
 
 # 4874
 
@@ -19534,7 +19534,7 @@ As a Favour from Us, thus do We reward him who gives thanks (by obeying Us).
 
 # 4882
 
-And he [Lout (Lot)] indeed had warned them of Our Grasp, but they did doubt the warnings!
+And he \[Lout (Lot)\] indeed had warned them of Our Grasp, but they did doubt the warnings!
 
 # 4883
 
@@ -19554,7 +19554,7 @@ And indeed, We have made the Quran easy to understand and remember, then is ther
 
 # 4887
 
-And indeed, warnings came to the people of Fir'aun (Pharaoh) [through Musa (Moses) and Harun (Aaron)].
+And indeed, warnings came to the people of Fir'aun (Pharaoh) \[through Musa (Moses) and Harun (Aaron)\].
 
 # 4888
 
@@ -19562,7 +19562,7 @@ And indeed, warnings came to the people of Fir'aun (Pharaoh) [through Musa (Mose
 
 # 4889
 
-Are your disbelievers (O Quraish!) better than these [nations of Nuh (Noah), Lout (Lot), Salih (Saleh), and the people of Fir'aun (Pharaoh), etc., who were destroyed)? Or have you an immunity (against Our Torment) in the Divine Scriptures?
+Are your disbelievers (O Quraish!) better than these \[nations of Nuh (Noah), Lout (Lot), Salih (Saleh), and the people of Fir'aun (Pharaoh), etc., who were destroyed)? Or have you an immunity (against Our Torment) in the Divine Scriptures?
 
 # 4890
 
@@ -19794,7 +19794,7 @@ Then which of the Blessings of your Lord will you both (jinns and men) deny?
 
 # 4947
 
-But for him who [the true believer of Islamic Monotheism who performs all the duties ordained by Allah and His Messenger Muhammad SAW, and keeps away (abstain) from all kinds of sin and evil deeds prohibited in Islam and] fears the standing before his Lord, there will be two Gardens (i.e. in Paradise).
+But for him who \[the true believer of Islamic Monotheism who performs all the duties ordained by Allah and His Messenger Muhammad SAW, and keeps away (abstain) from all kinds of sin and evil deeds prohibited in Islam and\] fears the standing before his Lord, there will be two Gardens (i.e. in Paradise).
 
 # 4948
 
@@ -19962,7 +19962,7 @@ And those on the Left Hand (i.e. those who will be given their Record in their l
 
 # 4989
 
-And those foremost [(in Islamic Faith of Monotheism and in performing righteous deeds) in the life of this world on the very first call for to embrace Islam,] will be foremost (in Paradise).
+And those foremost \[(in Islamic Faith of Monotheism and in performing righteous deeds) in the life of this world on the very first call for to embrace Islam,\] will be foremost (in Paradise).
 
 # 4990
 
@@ -20186,7 +20186,7 @@ Were it Our Will, We could crumble it to dry pieces, and you would be regretful 
 
 # 5045
 
-(Saying): "We are indeed Mughramun (i.e. ruined or lost the money without any profit, or punished by the loss of all that we spend for cultivation, etc.)! [See Tafsir Al-Qurtubi, Vol. 17, Page 219]
+(Saying): "We are indeed Mughramun (i.e. ruined or lost the money without any profit, or punished by the loss of all that we spend for cultivation, etc.)! \[See Tafsir Al-Qurtubi, Vol. 17, Page 219\]
 
 # 5046
 
@@ -20262,7 +20262,7 @@ And you at the moment are looking on,
 
 # 5064
 
-But We (i.e. Our angels who take the soul) are nearer to him than you, but you see not, [Tafsir At-Tabari, Vol. 27, Page 209]
+But We (i.e. Our angels who take the soul) are nearer to him than you, but you see not, \[Tafsir At-Tabari, Vol. 27, Page 209\]
 
 # 5065
 
@@ -20370,7 +20370,7 @@ So this Day no ransom shall be taken from you (hypocrites), nor of those who dis
 
 # 5091
 
-Has not the time come for the hearts of those who believe (in the Oneness of Allah - Islamic Monotheism) to be affected by Allah's Reminder (this Quran), and that which has been revealed of the truth, lest they become as those who received the Scripture [the Taurat (Torah) and the Injeel (Gospel)] before (i.e. Jews and Christians), and the term was prolonged for them and so their hearts were hardened? And many of them were Fasiqun (rebellious, disobedient to Allah).
+Has not the time come for the hearts of those who believe (in the Oneness of Allah - Islamic Monotheism) to be affected by Allah's Reminder (this Quran), and that which has been revealed of the truth, lest they become as those who received the Scripture \[the Taurat (Torah) and the Injeel (Gospel)\] before (i.e. Jews and Christians), and the term was prolonged for them and so their hearts were hardened? And many of them were Fasiqun (rebellious, disobedient to Allah).
 
 # 5092
 
@@ -20418,7 +20418,7 @@ Then, We sent after them, Our Messengers, and We sent 'Iesa (Jesus) - son of Mar
 
 # 5103
 
-O you who believe [in Musa (Moses) (i.e. Jews) and 'Iesa (Jesus) (i.e. Christians)]! Fear Allah, and believe too in His Messenger (Muhammad SAW), He will give you a double portion of His Mercy, and He will give you a light by which you shall walk (straight), and He will forgive you. And Allah is Oft-Forgiving, Most Merciful.
+O you who believe \[in Musa (Moses) (i.e. Jews) and 'Iesa (Jesus) (i.e. Christians)\]! Fear Allah, and believe too in His Messenger (Muhammad SAW), He will give you a double portion of His Mercy, and He will give you a light by which you shall walk (straight), and He will forgive you. And Allah is Oft-Forgiving, Most Merciful.
 
 # 5104
 
@@ -20466,7 +20466,7 @@ Secret counsels (conspiracies) are only from Shaitan (Satan), in order that he m
 
 # 5115
 
-O you who believe! When you are told to make room in the assemblies, (spread out and) make room. Allah will give you (ample) room (from His Mercy). And when you are told to rise up [for prayers, Jihad (holy fighting in Allah's Cause), or for any other good deed], rise up. Allah will exalt in degree those of you who believe, and those who have been granted knowledge. And Allah is Well-Acquainted with what you do.
+O you who believe! When you are told to make room in the assemblies, (spread out and) make room. Allah will give you (ample) room (from His Mercy). And when you are told to rise up \[for prayers, Jihad (holy fighting in Allah's Cause), or for any other good deed\], rise up. Allah will exalt in degree those of you who believe, and those who have been granted knowledge. And Allah is Well-Acquainted with what you do.
 
 # 5116
 
@@ -20646,7 +20646,7 @@ It is only as regards those who fought against you on account of religion, and h
 
 # 5160
 
-O you who believe! When believing women come to you as emigrants, examine them, Allah knows best as to their Faith, then if you ascertain that they are true believers, send them not back to the disbelievers, they are not lawful (wives) for the disbelievers nor are the disbelievers lawful (husbands) for them. But give the disbelievers that (amount of money) which they have spent [as their Mahr] to them. And there will be no sin on you to marry them if you have paid their Mahr to them. Likewise hold not the disbelieving women as wives, and ask for (the return of) that which you have spent (as Mahr) and let them (the disbelievers, etc.) ask back for that which they have spent. That is the Judgement of Allah. He judges between you. And Allah is All-Knowing, All-Wise.
+O you who believe! When believing women come to you as emigrants, examine them, Allah knows best as to their Faith, then if you ascertain that they are true believers, send them not back to the disbelievers, they are not lawful (wives) for the disbelievers nor are the disbelievers lawful (husbands) for them. But give the disbelievers that (amount of money) which they have spent \[as their Mahr\] to them. And there will be no sin on you to marry them if you have paid their Mahr to them. Likewise hold not the disbelieving women as wives, and ask for (the return of) that which you have spent (as Mahr) and let them (the disbelievers, etc.) ask back for that which they have spent. That is the Judgement of Allah. He judges between you. And Allah is All-Knowing, All-Wise.
 
 # 5161
 
@@ -20682,7 +20682,7 @@ And (remember) when Musa (Moses) said to his people: "O my people! Why do you hu
 
 # 5169
 
-And (remember) when 'Iesa (Jesus), son of Maryam (Mary), said: "O Children of Israel! I am the Messenger of Allah unto you confirming the Taurat [(Torah) which came] before me, and giving glad tidings of a Messenger to come after me, whose name shall be Ahmad. But when he (Ahmad i.e. Muhammad SAW) came to them with clear proofs, they said: "This is plain magic."
+And (remember) when 'Iesa (Jesus), son of Maryam (Mary), said: "O Children of Israel! I am the Messenger of Allah unto you confirming the Taurat \[(Torah) which came\] before me, and giving glad tidings of a Messenger to come after me, whose name shall be Ahmad. But when he (Ahmad i.e. Muhammad SAW) came to them with clear proofs, they said: "This is plain magic."
 
 # 5170
 
@@ -20706,7 +20706,7 @@ That you believe in Allah and His Messenger (Muhammad SAW), and that you strive 
 
 # 5175
 
-(If you do so) He will forgive you your sins, and admit you into Gardens under which rivers flow, and pleasant dwelling in Gardens of 'Adn - Eternity ['Adn (Edn) Paradise], that is indeed the great success.
+(If you do so) He will forgive you your sins, and admit you into Gardens under which rivers flow, and pleasant dwelling in Gardens of 'Adn - Eternity \['Adn (Edn) Paradise\], that is indeed the great success.
 
 # 5176
 
@@ -20750,7 +20750,7 @@ Say (to them): "Verily, the death from which you flee will surely meet you, then
 
 # 5186
 
-O you who believe (Muslims)! When the call is proclaimed for the Salat (prayer) on the day of Friday (Jumu'ah prayer), come to the remembrance of Allah [Jumu'ah religious talk (Khutbah) and Salat (prayer)] and leave off business (and every other thing), that is better for you if you did but know!
+O you who believe (Muslims)! When the call is proclaimed for the Salat (prayer) on the day of Friday (Jumu'ah prayer), come to the remembrance of Allah \[Jumu'ah religious talk (Khutbah) and Salat (prayer)\] and leave off business (and every other thing), that is better for you if you did but know!
 
 # 5187
 
@@ -20758,7 +20758,7 @@ Then when the (Jumu'ah) Salat (prayer) is finished, you may disperse through the
 
 # 5188
 
-And when they see some merchandise or some amusement [beating of Tambur (drum) etc.] they disperse headlong to it, and leave you (Muhammad SAW) standing [while delivering Jumu'ah's religious talk (Khutbah)]. Say "That which Allah has is better than any amusement or merchandise! And Allah is the Best of providers."
+And when they see some merchandise or some amusement \[beating of Tambur (drum) etc.\] they disperse headlong to it, and leave you (Muhammad SAW) standing \[while delivering Jumu'ah's religious talk (Khutbah)\]. Say "That which Allah has is better than any amusement or merchandise! And Allah is the Best of providers."
 
 # 5189
 
@@ -20798,7 +20798,7 @@ O you who believe! Let not your properties or your children divert you from the 
 
 # 5198
 
-And spend (in charity) of that with which We have provided you, before death comes to one of you and he says: "My Lord! If only You would give me respite for a little while (i.e. return to the worldly life), then I should give Sadaqah (i.e. Zakat) of my wealth, and be among the righteous [i.e. perform Hajj (pilgrimage to Makkah)].
+And spend (in charity) of that with which We have provided you, before death comes to one of you and he says: "My Lord! If only You would give me respite for a little while (i.e. return to the worldly life), then I should give Sadaqah (i.e. Zakat) of my wealth, and be among the righteous \[i.e. perform Hajj (pilgrimage to Makkah)\].
 
 # 5199
 
@@ -20846,7 +20846,7 @@ But those who disbelieved (in the Oneness of Allah - Islamic Monotheism) and den
 
 # 5210
 
-No calamity befalls, but with the Leave [i.e. decision and Qadar (Divine Preordainments)] of Allah, and whosoever believes in Allah, He guides his heart [to the true Faith with certainty, i.e. what has befallen him was already written for him by Allah from the Qadar (Divine Preordainments)], and Allah is the All-Knower of everything.
+No calamity befalls, but with the Leave \[i.e. decision and Qadar (Divine Preordainments)\] of Allah, and whosoever believes in Allah, He guides his heart \[to the true Faith with certainty, i.e. what has befallen him was already written for him by Allah from the Qadar (Divine Preordainments)\], and Allah is the All-Knower of everything.
 
 # 5211
 
@@ -20890,7 +20890,7 @@ And He will provide him from (sources) he never could imagine. And whosoever put
 
 # 5221
 
-And those of your women as have passed the age of monthly courses, for them the 'Iddah (prescribed period), if you have doubts (about their periods), is three months, and for those who have no courses [(i.e. they are still immature) their 'Iddah (prescribed period) is three months likewise, except in case of death]. And for those who are pregnant (whether they are divorced or their husbands are dead), their 'Iddah (prescribed period) is until they deliver (their burdens), and whosoever fears Allah and keeps his duty to Him, He will make his matter easy for him.
+And those of your women as have passed the age of monthly courses, for them the 'Iddah (prescribed period), if you have doubts (about their periods), is three months, and for those who have no courses \[(i.e. they are still immature) their 'Iddah (prescribed period) is three months likewise, except in case of death\]. And for those who are pregnant (whether they are divorced or their husbands are dead), their 'Iddah (prescribed period) is until they deliver (their burdens), and whosoever fears Allah and keeps his duty to Him, He will make his matter easy for him.
 
 # 5222
 
@@ -20954,7 +20954,7 @@ O you who believe! Ward off from yourselves and your families a Fire (Hell) whos
 
 # 5237
 
-O you who believe! Turn to Allah with sincere repentance! It may be that your Lord will remit from you your sins, and admit you into Gardens under which rivers flow (Paradise) the Day that Allah will not disgrace the Prophet (Muhammad SAW) and those who believe with him, their Light will run forward before them and with (their Records Books of deeds) in their right hands they will say: "Our Lord! Keep perfect our Light for us [and do not put it off till we cross over the Sirat (a slippery bridge over the Hell) safely] and grant us forgiveness. Verily, You are Able to do all things."
+O you who believe! Turn to Allah with sincere repentance! It may be that your Lord will remit from you your sins, and admit you into Gardens under which rivers flow (Paradise) the Day that Allah will not disgrace the Prophet (Muhammad SAW) and those who believe with him, their Light will run forward before them and with (their Records Books of deeds) in their right hands they will say: "Our Lord! Keep perfect our Light for us \[and do not put it off till we cross over the Sirat (a slippery bridge over the Hell) safely\] and grant us forgiveness. Verily, You are Able to do all things."
 
 # 5238
 
@@ -20962,7 +20962,7 @@ O Prophet (Muhammad SAW)! Strive hard against the disbelievers and the hypocrite
 
 # 5239
 
-Allah sets forth an example for those who disbelieve, the wife of Nuh (Noah) and the wife of Lout (Lot). They were under two of our righteous slaves, but they both betrayed their (husbands by rejecting their doctrine) so they [Nuh (Noah) and Lout (Lot)] benefited them (their respective wives) not, against Allah, and it was said: "Enter the Fire along with those who enter!"
+Allah sets forth an example for those who disbelieve, the wife of Nuh (Noah) and the wife of Lout (Lot). They were under two of our righteous slaves, but they both betrayed their (husbands by rejecting their doctrine) so they \[Nuh (Noah) and Lout (Lot)\] benefited them (their respective wives) not, against Allah, and it was said: "Enter the Fire along with those who enter!"
 
 # 5240
 
@@ -20970,7 +20970,7 @@ And Allah has set forth an example for those who believe, the wife of Fir'aun (P
 
 # 5241
 
-And Maryam (Mary), the daughter of 'Imran who guarded her chastity; and We breathed into (the sleeve of her shirt or her garment) through Our Ruh [i.e. Jibrael (Gabriel)], and she testified to the truth of the Words of her Lord [i.e. believed in the Words of Allah: "Be!" and he was; that is 'Iesa (Jesus) - son of Maryam (Mary); as a Messenger of Allah], and (also believed in) His Scriptures, and she was of the Qanitin (i.e. obedient to Allah).
+And Maryam (Mary), the daughter of 'Imran who guarded her chastity; and We breathed into (the sleeve of her shirt or her garment) through Our Ruh \[i.e. Jibrael (Gabriel)\], and she testified to the truth of the Words of her Lord \[i.e. believed in the Words of Allah: "Be!" and he was; that is 'Iesa (Jesus) - son of Maryam (Mary); as a Messenger of Allah\], and (also believed in) His Scriptures, and she was of the Qanitin (i.e. obedient to Allah).
 
 # 5242
 
@@ -21094,7 +21094,7 @@ Say (O Muhammad SAW): "Tell me! If (all) your water were to be sunk away, who th
 
 # 5272
 
-Nun. [These letters (Nun, etc.) are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings]. By the pen and what the (angels) write (in the Records of men).
+Nun. \[These letters (Nun, etc.) are one of the miracles of the Quran, and none but Allah (Alone) knows their meanings\]. By the pen and what the (angels) write (in the Records of men).
 
 # 5273
 
@@ -21122,7 +21122,7 @@ Verily, your Lord knows better, who (among men) has gone astray from His Path, a
 
 # 5279
 
-So (O Muhammad SAW) obey not the deniers [(of Islamic Monotheism those who belie the Verses of Allah), the Oneness of Allah, and the Messenger of Allah (Muhammad SAW), etc.]
+So (O Muhammad SAW) obey not the deniers \[(of Islamic Monotheism those who belie the Verses of Allah), the Oneness of Allah, and the Messenger of Allah (Muhammad SAW), etc.\]
 
 # 5280
 
@@ -21314,7 +21314,7 @@ And what will make you know what the Reality is?
 
 # 5327
 
-Thamud and 'Ad people denied the Qari'ah [the striking Hour (of Judgement)]!
+Thamud and 'Ad people denied the Qari'ah \[the striking Hour (of Judgement)\]!
 
 # 5328
 
@@ -21334,7 +21334,7 @@ Do you see any remnants of them?
 
 # 5332
 
-And Fir'aun (Pharaoh), and those before him, and the cities overthrown [the towns of the people of [Lout (Lot)] committed sin,
+And Fir'aun (Pharaoh), and those before him, and the cities overthrown \[the towns of the people of \[Lout (Lot)\] committed sin,
 
 # 5333
 
@@ -21342,7 +21342,7 @@ And they disobeyed their Lord's Messenger, so He punished them with a strong pun
 
 # 5334
 
-Verily! When the water rose beyond its limits [Nuh's (Noah) Flood], We carried you (mankind) in the floating [ship that was constructed by Nuh (Noah)].
+Verily! When the water rose beyond its limits \[Nuh's (Noah) Flood\], We carried you (mankind) in the floating \[ship that was constructed by Nuh (Noah)\].
 
 # 5335
 
@@ -21458,7 +21458,7 @@ And by whatsoever you see not,
 
 # 5363
 
-That this is verily the word of an honoured Messenger [i.e. Jibrael (Gabriel) or Muhammad SAW which he has brought from Allah].
+That this is verily the word of an honoured Messenger \[i.e. Jibrael (Gabriel) or Muhammad SAW which he has brought from Allah\].
 
 # 5364
 
@@ -21494,7 +21494,7 @@ And verily, this Quran is a Reminder for the Muttaqun (pious - see V. 2:2).
 
 # 5372
 
-And verily, We know that there are some among you that belie (this Quran). [Tafsir At-Tabari, Vol. 29, Page 68]
+And verily, We know that there are some among you that belie (this Quran). \[Tafsir At-Tabari, Vol. 29, Page 68\]
 
 # 5373
 
@@ -21522,7 +21522,7 @@ From Allah, the Lord of the ways of ascent.
 
 # 5379
 
-The angels and the Ruh [Jibrael (Gabriel)] ascend to Him in a Day the measure whereof is fifty thousand years,
+The angels and the Ruh \[Jibrael (Gabriel)\] ascend to Him in a Day the measure whereof is fifty thousand years,
 
 # 5380
 
@@ -21550,7 +21550,7 @@ And no friend will ask of a friend,
 
 # 5386
 
-Though they shall be made to see one another [(i.e. on the Day of Resurrection), there will be none but see his father, children and relatives, but he will neither speak to them nor will ask them for any help)], - the Mujrim, (criminal, sinner, disbeliever, etc.) would desire to ransom himself from the punishment of that Day by his children.
+Though they shall be made to see one another \[(i.e. on the Day of Resurrection), there will be none but see his father, children and relatives, but he will neither speak to them nor will ask them for any help)\], - the Mujrim, (criminal, sinner, disbeliever, etc.) would desire to ransom himself from the punishment of that Day by his children.
 
 # 5387
 
@@ -21574,7 +21574,7 @@ Taking away (burning completely) the head skin!
 
 # 5392
 
-Calling: "[O Kafir (O disbeliever in Allah, His angels, His Book, His Messengers, Day of Resurrection and in Al-Qadar (Divine Preordainments), O Mushrik (O polytheist, disbeliever in the Oneness of Allah)] (all) such as turn their backs and turn away their faces (from Faith) [picking and swallowing them up from that great gathering of mankind (on the Day of Resurrection) just as a bird picks up a food-grain from the earth with its beak and swallows it up] [Tafsir Al-Qurtubi, Vol. 18, Page 289]
+Calling: "\[O Kafir (O disbeliever in Allah, His angels, His Book, His Messengers, Day of Resurrection and in Al-Qadar (Divine Preordainments), O Mushrik (O polytheist, disbeliever in the Oneness of Allah)\] (all) such as turn their backs and turn away their faces (from Faith) \[picking and swallowing them up from that great gathering of mankind (on the Day of Resurrection) just as a bird picks up a food-grain from the earth with its beak and swallows it up\] \[Tafsir Al-Qurtubi, Vol. 18, Page 289\]
 
 # 5393
 
@@ -21666,7 +21666,7 @@ No, that is not like that! Verily, We have created them out of that which they k
 
 # 5415
 
-So I swear by the Lord of all [the three hundred and sixty (360)] points of sunrise and sunset in the east and the west that surely We are Able
+So I swear by the Lord of all \[the three hundred and sixty (360)\] points of sunrise and sunset in the east and the west that surely We are Able
 
 # 5416
 
@@ -21734,11 +21734,11 @@ He said: "O my Lord! Verily, I have called my people night and day (i.e. secretl
 
 # 5432
 
-What is the matter with you, [that you fear not Allah (His punishment), and] you hope not for reward (from Allah or you believe not in His Oneness).
+What is the matter with you, \[that you fear not Allah (His punishment), and\] you hope not for reward (from Allah or you believe not in His Oneness).
 
 # 5433
 
-While He has created you in (different) stages [i.e. first Nutfah, then 'Alaqah and then Mudghah, see (VV. 23:13, 14) the Quran].
+While He has created you in (different) stages \[i.e. first Nutfah, then 'Alaqah and then Mudghah, see (VV. 23:13, 14) the Quran\].
 
 # 5434
 
@@ -21750,7 +21750,7 @@ And has made the moon a light therein, and made the sun a lamp?
 
 # 5436
 
-And Allah has brought you forth from the (dust of) earth. [Tafsir At-Tabari, Vol. 29, Page 97].
+And Allah has brought you forth from the (dust of) earth. \[Tafsir At-Tabari, Vol. 29, Page 97\].
 
 # 5437
 
@@ -21810,7 +21810,7 @@ Say (O Muhammad SAW): "It has been revealed to me that a group (from three to te
 
 # 5451
 
-'And that the foolish among us [i.e. Iblis (Satan) or the polytheists amongst the jinns] used to utter against Allah that which was wrong and not right.
+'And that the foolish among us \[i.e. Iblis (Satan) or the polytheists amongst the jinns\] used to utter against Allah that which was wrong and not right.
 
 # 5452
 
@@ -21906,7 +21906,7 @@ Except to a Messenger (from mankind) whom He has chosen (He informs him of unsee
 
 # 5475
 
-[He (Allah) protects them (the Messengers)], till He sees that they (the Messengers) have conveyed the Messages of their Lord (Allah). And He (Allah) surrounds all that which is with them, and He (Allah) keeps count of all things (i.e. He knows the exact number of everything).
+\[He (Allah) protects them (the Messengers)\], till He sees that they (the Messengers) have conveyed the Messages of their Lord (Allah). And He (Allah) surrounds all that which is with them, and He (Allah) keeps count of all things (i.e. He knows the exact number of everything).
 
 # 5476
 
@@ -21966,11 +21966,11 @@ On the Day when the earth and the mountains will be in violent shake, and the mo
 
 # 5490
 
-Verily, We have sent to you (O men) a Messenger (Muhammad SAW) to be a witness over you, as We did send a Messenger [Musa (Moses)] to Fir'aun (Pharaoh).
+Verily, We have sent to you (O men) a Messenger (Muhammad SAW) to be a witness over you, as We did send a Messenger \[Musa (Moses)\] to Fir'aun (Pharaoh).
 
 # 5491
 
-But Fir'aun (Pharaoh) disobeyed the Messenger [Musa (Moses)], so We seized him with a severe punishment.
+But Fir'aun (Pharaoh) disobeyed the Messenger \[Musa (Moses)\], so We seized him with a severe punishment.
 
 # 5492
 
@@ -22110,7 +22110,7 @@ Over it are nineteen (angels as guardians and keepers of Hell).
 
 # 5526
 
-And We have set none but angels as guardians of the Fire, and We have fixed their number (19) only as a trial for the disbelievers, in order that the people of the Scripture (Jews and Christians) may arrive at a certainty [that this Quran is the truth as it agrees with their Books i.e. their number (19) is written in the Taurat (Torah) and the Injeel (Gospel)] and the believers may increase in Faith (as this Quran is the truth) and that no doubts may be left for the people of the Scripture and the believers, and that those in whose hearts is a disease (of hypocrisy) and the disbelievers may say: "What Allah intends by this (curious) example?" Thus Allah leads astray whom He wills and guides whom He wills. And none can know the hosts of your Lord but He. And this (Hell) is nothing else than a (warning) reminder to mankind.
+And We have set none but angels as guardians of the Fire, and We have fixed their number (19) only as a trial for the disbelievers, in order that the people of the Scripture (Jews and Christians) may arrive at a certainty \[that this Quran is the truth as it agrees with their Books i.e. their number (19) is written in the Taurat (Torah) and the Injeel (Gospel)\] and the believers may increase in Faith (as this Quran is the truth) and that no doubts may be left for the people of the Scripture and the believers, and that those in whose hearts is a disease (of hypocrisy) and the disbelievers may say: "What Allah intends by this (curious) example?" Thus Allah leads astray whom He wills and guides whom He wills. And none can know the hosts of your Lord but He. And this (Hell) is nothing else than a (warning) reminder to mankind.
 
 # 5527
 
@@ -22266,7 +22266,7 @@ On that Day man will be informed of what he sent forward (of his evil or good de
 
 # 5565
 
-Nay! Man will be a witness against himself [as his body parts (skin, hands, legs, etc.) will speak about his deeds].
+Nay! Man will be a witness against himself \[as his body parts (skin, hands, legs, etc.) will speak about his deeds\].
 
 # 5566
 
@@ -22282,7 +22282,7 @@ It is for Us to collect it and to give you (O Muhammad SAW) the ability to recit
 
 # 5569
 
-And when We have recited it to you [O Muhammad SAW through Jibrael (Gabriel)], then follow you its (the Quran's) recital.
+And when We have recited it to you \[O Muhammad SAW through Jibrael (Gabriel)\], then follow you its (the Quran's) recital.
 
 # 5570
 
@@ -22290,7 +22290,7 @@ Then it is for Us (Allah) to make it clear to you,
 
 # 5571
 
-Not [as you think, that you (mankind) will not be resurrected and recompensed for your deeds], but (you men) love the present life of this world,
+Not \[as you think, that you (mankind) will not be resurrected and recompensed for your deeds\], but (you men) love the present life of this world,
 
 # 5572
 
@@ -22346,15 +22346,15 @@ Then he walked in full pride to his family admiring himself!
 
 # 5585
 
-Woe to you [O man (disbeliever)]! And then (again) woe to you!
+Woe to you \[O man (disbeliever)\]! And then (again) woe to you!
 
 # 5586
 
-Again, woe to you [O man (disbeliever)]! And then (again) woe to you!
+Again, woe to you \[O man (disbeliever)\]! And then (again) woe to you!
 
 # 5587
 
-Does man think that he will be left Suda [neglected without being punished or rewarded for the obligatory duties enjoined by his Lord (Allah) on him]?
+Does man think that he will be left Suda \[neglected without being punished or rewarded for the obligatory duties enjoined by his Lord (Allah) on him\]?
 
 # 5588
 
@@ -22470,7 +22470,7 @@ Therefore be patient (O Muhammad SAW) and submit to the Command of your Lord (Al
 
 # 5616
 
-And remember the Name of your Lord every morning and afternoon [i.e. offering of the Morning (Fajr), Zuhr, and 'Asr prayers].
+And remember the Name of your Lord every morning and afternoon \[i.e. offering of the Morning (Fajr), Zuhr, and 'Asr prayers\].
 
 # 5617
 
@@ -22622,7 +22622,7 @@ Woe that Day to the deniers (of the Day of Resurrection)!
 
 # 5654
 
-Verily! It (Hell) throws sparks (huge) as Al-Qasr [a fort or a Qasr (huge log of wood)],
+Verily! It (Hell) throws sparks (huge) as Al-Qasr \[a fort or a Qasr (huge log of wood)\],
 
 # 5655
 
@@ -22846,7 +22846,7 @@ A reward from your Lord, an ample calculated gift (according to the best of thei
 
 # 5710
 
-The Day that Ar-Ruh [Jibrael (Gabriel) or another angel] and the angels will stand forth in rows, none shall speak except him whom the Most Beneficent (Allah) allows, and he will speak what is right.
+The Day that Ar-Ruh \[Jibrael (Gabriel) or another angel\] and the angels will stand forth in rows, none shall speak except him whom the Most Beneficent (Allah) allows, and he will speak what is right.
 
 # 5711
 
@@ -22906,7 +22906,7 @@ They say: "It would in that case, be a return with loss!"
 
 # 5725
 
-But only, it will be a single Zajrah [shout (i.e., the second blowing of the Trumpet)]. (See Verse 37:19).
+But only, it will be a single Zajrah \[shout (i.e., the second blowing of the Trumpet)\]. (See Verse 37:19).
 
 # 5726
 
@@ -22934,11 +22934,11 @@ And that I guide you to your Lord, so you should fear Him?
 
 # 5732
 
-Then [Musa (Moses)] showed him the great sign (miracles).
+Then \[Musa (Moses)\] showed him the great sign (miracles).
 
 # 5733
 
-But [Fir'aun (Pharaoh)] belied and disobeyed;
+But \[Fir'aun (Pharaoh)\] belied and disobeyed;
 
 # 5734
 
@@ -22954,7 +22954,7 @@ Saying: "I am your lord, most high",
 
 # 5737
 
-So Allah, seized him with punishment for his last [i.e. his saying: "I am your lord, most high") (see Verse 79:24)] and first [(i.e. his saying, "O chiefs! I know not that you have a god other than I" (see Verse 28:38)] transgression.
+So Allah, seized him with punishment for his last \[i.e. his saying: "I am your lord, most high") (see Verse 79:24)\] and first \[(i.e. his saying, "O chiefs! I know not that you have a god other than I" (see Verse 28:38)\] transgression.
 
 # 5738
 
@@ -23282,7 +23282,7 @@ And by the dawn as it brightens;
 
 # 5819
 
-Verily, this is the Word (this Quran brought by) a most honourable messenger [Jibrael (Gabriel), from Allah to the Prophet Muhammad (Peace be upon him)].
+Verily, this is the Word (this Quran brought by) a most honourable messenger \[Jibrael (Gabriel), from Allah to the Prophet Muhammad (Peace be upon him)\].
 
 # 5820
 
@@ -23298,7 +23298,7 @@ And (O people) your companion (Muhammad (Peace be upon him)) is not a madman;
 
 # 5823
 
-And indeed he (Muhammad (Peace be upon him)) saw him [Jibrael (Gabriel)] in the clear horizon (towards the east).
+And indeed he (Muhammad (Peace be upon him)) saw him \[Jibrael (Gabriel)\] in the clear horizon (towards the east).
 
 # 5824
 
@@ -23402,7 +23402,7 @@ Again, what will make you know what the Day of Recompense is?
 
 # 5849
 
-Woe to Al-Mutaffifin [those who give less in measure and weight (decrease the rights of others)],
+Woe to Al-Mutaffifin \[those who give less in measure and weight (decrease the rights of others)\],
 
 # 5850
 
@@ -23438,7 +23438,7 @@ A Register inscribed.
 
 # 5858
 
-Woe, that Day, to those who deny [(Allah, His Angels, His Books, His Messengers, the Day of Resurrection, and Al-Qadar (Divine Preordainments)].
+Woe, that Day, to those who deny \[(Allah, His Angels, His Books, His Messengers, the Day of Resurrection, and Al-Qadar (Divine Preordainments)\].
 
 # 5859
 
@@ -23654,7 +23654,7 @@ And by the Promised Day (i.e. the Day of Resurrection);
 
 # 5912
 
-And by the witnessing day (i.e. Friday), and by the witnessed day [i.e. the day of 'Arafat (Hajj) the ninth of Dhul-Hijjah];
+And by the witnessing day (i.e. Friday), and by the witnessed day \[i.e. the day of 'Arafat (Hajj) the ninth of Dhul-Hijjah\];
 
 # 5913
 
@@ -24230,7 +24230,7 @@ When the most wicked man among them went forth (to kill the she-camel).
 
 # 6056
 
-But the Messenger of Allah [Salih (Saleh)] said to them: "Be cautious! Fear the evil end. That is the she-camel of Allah! (Do not harm it) and bar it not from having its drink!"
+But the Messenger of Allah \[Salih (Saleh)\] said to them: "Be cautious! Fear the evil end. That is the she-camel of Allah! (Do not harm it) and bar it not from having its drink!"
 
 # 6057
 
@@ -24446,7 +24446,7 @@ Read! And your Lord is the Most Generous,
 
 # 6110
 
-Who has taught (the writing) by the pen [the first person to write was Prophet Idrees (Enoch)].
+Who has taught (the writing) by the pen \[the first person to write was Prophet Idrees (Enoch)\].
 
 # 6111
 
@@ -24522,7 +24522,7 @@ The night of Al-Qadr (Decree) is better than a thousand months (i.e. worshipping
 
 # 6129
 
-Therein descend the angels and the Ruh [Jibrael (Gabriel)] by Allah's Permission with all Decrees,
+Therein descend the angels and the Ruh \[Jibrael (Gabriel)\] by Allah's Permission with all Decrees,
 
 # 6130
 
@@ -24534,7 +24534,7 @@ Those who disbelieve from among the people of the Scripture (Jews and Christians
 
 # 6132
 
-A Messenger (Muhammad (Peace be upon him)) from Allah, reciting (the Quran) purified pages [purified from Al-Batil (falsehood, etc.)].
+A Messenger (Muhammad (Peace be upon him)) from Allah, reciting (the Quran) purified pages \[purified from Al-Batil (falsehood, etc.)\].
 
 # 6133
 
@@ -24554,7 +24554,7 @@ Verily, those who disbelieve (in the religion of Islam, the Quran and Prophet Mu
 
 # 6137
 
-Verily, those who believe [in the Oneness of Allah, and in His Messenger Muhammad (Peace be upon him)) including all obligations ordered by Islam] and do righteous good deeds, they are the best of creatures.
+Verily, those who believe \[in the Oneness of Allah, and in His Messenger Muhammad (Peace be upon him)) including all obligations ordered by Islam\] and do righteous good deeds, they are the best of creatures.
 
 # 6138
 
@@ -24762,7 +24762,7 @@ In pillars stretched forth (i.e. they will be punished in the Fire with pillars,
 
 # 6189
 
-Have you (O Muhammad (Peace be upon him)) not seen how your Lord dealt with the Owners of the Elephant? [The elephant army which came from Yemen under the command of Abrahah Al-Ashram intending to destroy the Ka'bah at Makkah].
+Have you (O Muhammad (Peace be upon him)) not seen how your Lord dealt with the Owners of the Elephant? \[The elephant army which came from Yemen under the command of Abrahah Al-Ashram intending to destroy the Ka'bah at Makkah\].
 
 # 6190
 

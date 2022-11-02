@@ -6458,7 +6458,7 @@ Kuma suka je wa ubansu da dare sunã kũka.
 
 # 1613
 
-Suka ce: "Yã bãbanmu! Lalle ne, mun tafi munã tsẽre, kuma muka bar Yusufu a wurin kãyanmu, sai kerkẽci ya cinye shi, kuma kai, bã mai amincẽwa da mu ba ne, kuma kõ dã mun kasance mãsu gaskiya!"_
+Suka ce: "Yã bãbanmu! Lalle ne, mun tafi munã tsẽre, kuma muka bar Yusufu a wurin kãyanmu, sai kerkẽci ya cinye shi, kuma kai, bã mai amincẽwa da mu ba ne, kuma kõ dã mun kasance mãsu gaskiya!"\_
 
 # 1614
 
@@ -15554,7 +15554,7 @@ Sabõda haka suka yi nufin makĩda game da shi. Sai Muka sanya su, sũ ne mafi �
 
 # 3887
 
-Kuma (Ibrahĩm] ya ce: "Lalle, nĩ mai tafiya ne zuwa ga Ubangijĩna, zai shiryar da ni."
+Kuma (Ibrahĩm\] ya ce: "Lalle, nĩ mai tafiya ne zuwa ga Ubangijĩna, zai shiryar da ni."
 
 # 3888
 
@@ -23534,7 +23534,7 @@ Alhãli kuwa, ba a aike su ba dõmin su zama mãsu tsaro a kansu.
 
 # 5882
 
-To, yau fa (a Lãhira] waɗanda suka yi ĩmãni, sũ ke yi wa kãfirai dãriya.
+To, yau fa (a Lãhira\] waɗanda suka yi ĩmãni, sũ ke yi wa kãfirai dãriya.
 
 # 5883
 

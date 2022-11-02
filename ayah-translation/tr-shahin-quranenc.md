@@ -978,7 +978,7 @@ Sizden ölenlerin, geride bıraktıkları eşleri, kendi başlarına (evlenmeden
 
 # 243
 
-Nikâhtan sonra henüz dokunmadan veya onlar için belli bir mehir tayin etmeden kadınları boşarsanız bunda size herhangi bir günah yoktur.Bu durumda onlara hediye cinsinden bir şeyler verin. Zengin olan durumuna göre, fakir de durumuna göre vermelidir. 
+Nikâhtan sonra henüz dokunmadan veya onlar için belli bir mehir tayin etmeden kadınları boşarsanız bunda size herhangi bir günah yoktur.Bu durumda onlara hediye cinsinden bir şeyler verin. Zengin olan durumuna göre, fakir de durumuna göre vermelidir.
 Bu iyi davrananların şanına yakışır bir borçtur.
 
 # 244
@@ -1651,7 +1651,7 @@ Onların, bu dünya hayatında yapmakta oldukları harcamaların durumu, kavuruc
 
 # 411
 
-Ey iman edenler! Kendi dışınızdakileri sırdaş edinmeyin. Çünkü onlar size fenalık etmekten asla geri durmazlar, hep sıkıntıya düşmenizi isterler. Gerçekten, kin ve düşmanlıkları kendi ağızlarından apaçık belli olmuştur, içlerinde gizledikleri (düşmanlık) ise, çok daha büyüktür. Eğer aklınızı kullanacak olursanız, [ibret alasınız diye] âyetleri size açıkladık.
+Ey iman edenler! Kendi dışınızdakileri sırdaş edinmeyin. Çünkü onlar size fenalık etmekten asla geri durmazlar, hep sıkıntıya düşmenizi isterler. Gerçekten, kin ve düşmanlıkları kendi ağızlarından apaçık belli olmuştur, içlerinde gizledikleri (düşmanlık) ise, çok daha büyüktür. Eğer aklınızı kullanacak olursanız, \[ibret alasınız diye\] âyetleri size açıkladık.
 
 # 412
 
@@ -1959,7 +1959,7 @@ Rabbimiz! Bize, peygamberlerin vasıtasıyla vâdettiklerini de ikram et ve kıy
 
 # 488
 
-Rableri de, onların bu dualarına icabet eder (ve der) ki: Ben, içinizden erkek olsun, kadın olsun, hiçbir amel sahibinin amelini asla zayi etmem; (zira kadın ve erkek olarak siz), birbirinizden (olma) siniz. Hicret edenlerin, ülkelerinden sürülüp çıkarılanların, benim yolumda eziyet çekenlerin, savaşanların ve (savaşta şehîd olarak) öldürülenlerin, Allah katından (yaptıklarının] sevabı olarak, kusurlarını mutlaka örteceğim ve onları, (ağaçları) altından ırmaklar akan cennetlere sokacağım. Mükâfatın en güzeli Allah katındadır.
+Rableri de, onların bu dualarına icabet eder (ve der) ki: Ben, içinizden erkek olsun, kadın olsun, hiçbir amel sahibinin amelini asla zayi etmem; (zira kadın ve erkek olarak siz), birbirinizden (olma) siniz. Hicret edenlerin, ülkelerinden sürülüp çıkarılanların, benim yolumda eziyet çekenlerin, savaşanların ve (savaşta şehîd olarak) öldürülenlerin, Allah katından (yaptıklarının\] sevabı olarak, kusurlarını mutlaka örteceğim ve onları, (ağaçları) altından ırmaklar akan cennetlere sokacağım. Mükâfatın en güzeli Allah katındadır.
 
 # 489
 
@@ -2115,7 +2115,7 @@ Ana-babanın ve yakın akrabanın bıraktıkları mala (vâris olsunlar diye kad
 
 # 527
 
-(Bazı hususlarda) Allah'ın, erkekleri kadınlardan üstün yaratması ve erkeklerin mallarıyla (kadınlara) nafaka temin etmeleri dolayısıyla, erkekler kadınlara hâkimdirler (onların emirleridirler). İyi kadınlar, (kocalarına) itaat eden, Allah'ın korunmasını emretmesi dolayısıyla da [karı koca arasındaki evliliğe âit] gizlilikleri koruyan kadınlardır, itaatsizliklerinden korktuğunuz kadınlar ise, onlara va'z-u nasihatte bulunun; (fayda etmezse) yataklarında yalnız bırakın; (onun da faydası olmazsa, usulünce) onları dövün. Eğer size itaat ederlerse, artık onların aleyhine başka bir yol aramayın. Şüphe yoktur ki Allah, çok yücedir; çok büyüktür.
+(Bazı hususlarda) Allah'ın, erkekleri kadınlardan üstün yaratması ve erkeklerin mallarıyla (kadınlara) nafaka temin etmeleri dolayısıyla, erkekler kadınlara hâkimdirler (onların emirleridirler). İyi kadınlar, (kocalarına) itaat eden, Allah'ın korunmasını emretmesi dolayısıyla da \[karı koca arasındaki evliliğe âit\] gizlilikleri koruyan kadınlardır, itaatsizliklerinden korktuğunuz kadınlar ise, onlara va'z-u nasihatte bulunun; (fayda etmezse) yataklarında yalnız bırakın; (onun da faydası olmazsa, usulünce) onları dövün. Eğer size itaat ederlerse, artık onların aleyhine başka bir yol aramayın. Şüphe yoktur ki Allah, çok yücedir; çok büyüktür.
 
 # 528
 

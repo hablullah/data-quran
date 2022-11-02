@@ -18086,7 +18086,7 @@ Thuaj: “Unë nuk jam profet i parë dhe nuk e di se çdo të bëhet me mua dhe
 
 # 4520
 
-Thuaj: “Më tregoni ç’\mendoni ju nëse është (Kur’ani) prej All-llahut, kurse ju e keni mohuar, edhe pse një nga izraelitët e ka dëshmuar se është nga All-llahu. Ai i pat besuar, kurse ju u bëtë arrogantë”. All-llahu, me të vërtetë, nuk udhëzon në rrugë të drejtë popullin mizor.
+Thuaj: “Më tregoni ç’\\mendoni ju nëse është (Kur’ani) prej All-llahut, kurse ju e keni mohuar, edhe pse një nga izraelitët e ka dëshmuar se është nga All-llahu. Ai i pat besuar, kurse ju u bëtë arrogantë”. All-llahu, me të vërtetë, nuk udhëzon në rrugë të drejtë popullin mizor.
 
 # 4521
 
@@ -21650,7 +21650,7 @@ Ata do të jenë tënderuar në xhennet.
 
 # 5411
 
-Ç\’është me mosbesimtarët që po të vërsulen ty;
+Ç\\’është me mosbesimtarët që po të vërsulen ty;
 
 # 5412
 

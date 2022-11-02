@@ -12106,7 +12106,7 @@ Onlara şöyle denir, "Hani taptıklarınız nerede -"
 
 # 3025
 
-"- O ALLAH'tan başka? Size şimdi yardım edebiliyorlar mı? Kendilerine bile yardımları dokunabiliyor mu?"
+"\- O ALLAH'tan başka? Size şimdi yardım edebiliyorlar mı? Kendilerine bile yardımları dokunabiliyor mu?"
 
 # 3026
 
@@ -21630,7 +21630,7 @@ Ancak eşleri, yahut yeminlerinin/anlaşmalarının hak sahibi olduklari hariç;
 
 # 5406
 
-- bunun ötesini arayanlar ise aşırı gidenlerdir-
+\- bunun ötesini arayanlar ise aşırı gidenlerdir-
 
 # 5407
 

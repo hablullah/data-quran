@@ -6546,7 +6546,7 @@ Atalarım İbrahim, İshak ve Ya'kub'un dinine uydum. Bizim, herhangi bir şeyi 
 
 # 1635
 
-Ey benim zindan arkadaşlarım, çeşitli tanrılar mı iyi, yoksa herşeyi (hükmü altında tutan) kahredici tek Allah mı? 	O my two fellow-prisoners! Are divers lords better, or Allah the One, the Almighty?
+Ey benim zindan arkadaşlarım, çeşitli tanrılar mı iyi, yoksa herşeyi (hükmü altında tutan) kahredici tek Allah mı? O my two fellow-prisoners! Are divers lords better, or Allah the One, the Almighty?
 
 # 1636
 
@@ -7434,7 +7434,7 @@ Bana ihtiyarlık dokunduktan sonra mı beni müjdelediniz? Ne tuhaf bir şey ile
 
 # 1857
 
-Sana gerçeği müjdeledik, umut kesenlerden olma! dediler. 	They said: We bring thee good tidings in truth. So be not thou of the despairing.
+Sana gerçeği müjdeledik, umut kesenlerden olma! dediler. They said: We bring thee good tidings in truth. So be not thou of the despairing.
 
 # 1858
 
@@ -9138,7 +9138,7 @@ Beni bulunduğum her yerde yararlı kıldı. Sağ olduğum sürece bana namaz k�
 
 # 2283
 
-Doğduğum gün de, öleceğim gün de ve diri olarak kaldırılacağım gün de bana esenlik verilmiştir. 	Peace on me the day I was born, and the day I die, and the day I shall be raised alive!
+Doğduğum gün de, öleceğim gün de ve diri olarak kaldırılacağım gün de bana esenlik verilmiştir. Peace on me the day I was born, and the day I die, and the day I shall be raised alive!
 
 # 2284
 
@@ -10798,7 +10798,7 @@ Kavminin içinden ileri gelen inkarcı bir grup (şöyle) dedi: "Bu da sizin gib
 
 # 2698
 
-O, kendisinde delilik bulunan bir adamdır, başka bir şey değildir. Hele bir süreye kadar onu gözetleyin. 	He is only a man in whom is a madness, so watch him for a while.
+O, kendisinde delilik bulunan bir adamdır, başka bir şey değildir. Hele bir süreye kadar onu gözetleyin. He is only a man in whom is a madness, so watch him for a while.
 
 # 2699
 
@@ -10958,11 +10958,11 @@ Nihayet varlıklılarını azab ile yakaladığımız zaman, hemen feryada başl
 
 # 2738
 
-Bugün artık feryadetmeyin, bize karşı size yardım olunmaz (kimse sizi bizim azabımızdan kurtaramaz). 	Supplicate not this day! Assuredly ye will not be helped by Us.
+Bugün artık feryadetmeyin, bize karşı size yardım olunmaz (kimse sizi bizim azabımızdan kurtaramaz). Supplicate not this day! Assuredly ye will not be helped by Us.
 
 # 2739
 
-Ayetlerim size okunuyordu da siz arkanıza dönüyordunuz. 	My revelations were recited unto you, but ye used to turn back on your heels,
+Ayetlerim size okunuyordu da siz arkanıza dönüyordunuz. My revelations were recited unto you, but ye used to turn back on your heels,
 
 # 2740
 
@@ -12078,7 +12078,7 @@ Beni ni'met(i bol olan) cennetinin varislerinden kıl.
 
 # 3018
 
-Babamı da bağışla. Çünkü o, sapıklardandır. 	And forgive my father. Lo! he is of those who err.
+Babamı da bağışla. Çünkü o, sapıklardandır. And forgive my father. Lo! he is of those who err.
 
 # 3019
 
@@ -12262,7 +12262,7 @@ Allah'tan korkun ve bana ita'at edin.
 
 # 3064
 
-Size bildiğiniz ni'metleri bol bol veren(Allah)dan korkun. 	Keep your duty toward Him Who hath aided you with (the good things) that ye know,
+Size bildiğiniz ni'metleri bol bol veren(Allah)dan korkun. Keep your duty toward Him Who hath aided you with (the good things) that ye know,
 
 # 3065
 
@@ -12390,7 +12390,7 @@ Allah'tan korkun ve bana ita'at edin.
 
 # 3096
 
-Ben sizden buna karşı bir ücret istemiyorum. Benim ücretim yalnız alemlerin Rabbine aittir. 	And I ask of you no wage therefore; my wage is the concern only of the Lord of the Worlds.
+Ben sizden buna karşı bir ücret istemiyorum. Benim ücretim yalnız alemlerin Rabbine aittir. And I ask of you no wage therefore; my wage is the concern only of the Lord of the Worlds.
 
 # 3097
 
@@ -12470,7 +12470,7 @@ Doğru terazi ile tartın.
 
 # 3116
 
-Sizi ve önceki nesilleri yaratandan korkun. 	And keep your duty unto Him Who created you and the generations of the men of old.
+Sizi ve önceki nesilleri yaratandan korkun. And keep your duty unto Him Who created you and the generations of the men of old.
 
 # 3117
 
@@ -12762,7 +12762,7 @@ Bu mektubumu götür, onlara at, sonra onlardan biraz öteye çekil de bak, neye
 
 # 3189
 
-O Süleyman'dandır ve Rahman ve Rahim Allah'ın adiyle (başlamakta)dır. 	Lo! it is from Solomon, and lo! it is: In the name of Allah the Beneficent, the Merciful;
+O Süleyman'dandır ve Rahman ve Rahim Allah'ın adiyle (başlamakta)dır. Lo! it is from Solomon, and lo! it is: In the name of Allah the Beneficent, the Merciful;
 
 # 3190
 
@@ -15066,7 +15066,7 @@ Ey suçlular, bugün şöyle ayrılın!
 
 # 3765
 
-Ey Adem oğulları, ben size and vermedim mi: Şeytana tapmayın o sizin apaçık düşmanınızdır. 	Did I not charge you, O ye sons of Adam, that ye worship not the devil - Lo! he is your open foe!
+Ey Adem oğulları, ben size and vermedim mi: Şeytana tapmayın o sizin apaçık düşmanınızdır. Did I not charge you, O ye sons of Adam, that ye worship not the devil - Lo! he is your open foe!
 
 # 3766
 
@@ -16054,7 +16054,7 @@ Kulumuz Eyyub'u da an: (O) Rabbine "Şeytan, bana bir yorgunluk ve azab dokundur
 
 # 4012
 
-Ayağını (yere) vur, işte yıkanacak ve içilecek serin (bir su), (dedik). 	(And it was said unto him): Strike the ground with thy foot. This (spring) is a cool bath and a refreshing drink.
+Ayağını (yere) vur, işte yıkanacak ve içilecek serin (bir su), (dedik). (And it was said unto him): Strike the ground with thy foot. This (spring) is a cool bath and a refreshing drink.
 
 # 4013
 
@@ -16210,7 +16210,7 @@ Buyurdu: "Haydi sen süre verilenlerdensin."
 
 # 4051
 
-O belli vaktin gününe kadar. 	Until the day of the time appointed.
+O belli vaktin gününe kadar. Until the day of the time appointed.
 
 # 4052
 
@@ -16810,7 +16810,7 @@ O'dur ki (önce) sizi topraktan, sonra nutfe(sperm)den, sonra alaka(embriyo)dan 
 
 # 4201
 
-Yaşatan ve öldüren O'dur. Bir işin olmasını istedi mi, ona sadece "ol!" der, o da olur. *
+Yaşatan ve öldüren O'dur. Bir işin olmasını istedi mi, ona sadece "ol!" der, o da olur. \*
 
 # 4202
 
@@ -16850,7 +16850,7 @@ Sabret, Allah'ın sözü gerçektir. Onları tehdidettiğimiz şeylerin bir kıs
 
 # 4211
 
-Andolsun biz, senden önce de elçiler gönderdik. Onlardan kimini sana anlattık, kimini de anlatmadık. Hiçbir elçi, Allah'ın izni olmadan bir mu'cize getiremez. Allah'ın emri geldiği zaman hak yerine getirilir ve işte o zaman (Allah'ın ayetlerini) boşa çıkarmağa uğraşanlar, hüsrana uğrarlar. *
+Andolsun biz, senden önce de elçiler gönderdik. Onlardan kimini sana anlattık, kimini de anlatmadık. Hiçbir elçi, Allah'ın izni olmadan bir mu'cize getiremez. Allah'ın emri geldiği zaman hak yerine getirilir ve işte o zaman (Allah'ın ayetlerini) boşa çıkarmağa uğraşanlar, hüsrana uğrarlar. \*
 
 # 4212
 
@@ -17562,7 +17562,7 @@ O, kıyametin kopacağını gösterir bir ilimdir. O sa'atin geleceğinden hiç 
 
 # 4389
 
-Allah, işte benim de Rabbim, sizin de Rabbiniz O'dur. O'na tapın, doğru yol budur. 	Lo! Allah, He is my Lord and your Lord. So worship Him. This is a right path.
+Allah, işte benim de Rabbim, sizin de Rabbiniz O'dur. O'na tapın, doğru yol budur. Lo! Allah, He is my Lord and your Lord. So worship Him. This is a right path.
 
 # 4390
 
@@ -18230,7 +18230,7 @@ Böyledir, çünkü onlar, Allah'ın indirdiğinden hoşlanmamışlar, Allah da 
 
 # 4556
 
-Bu böyledir, çünkü Allah inananların koruyucusudur. Kafirlerin ise koruyucuları yoktur. *
+Bu böyledir, çünkü Allah inananların koruyucusudur. Kafirlerin ise koruyucuları yoktur. \*
 
 # 4557
 
@@ -18654,7 +18654,7 @@ Cennet de korunanlara yaklaştırılmıştır, uzak değildir.
 
 # 4662
 
-İşte size va'dedilen budur. Daima Allah'a yüz tutan (O'nun buyruklarını) koruyan, 	(And it is said): That is that which ye were promised. (It is) for every penitent and heedful one,
+İşte size va'dedilen budur. Daima Allah'a yüz tutan (O'nun buyruklarını) koruyan, (And it is said): That is that which ye were promised. (It is) for every penitent and heedful one,
 
 # 4663
 
@@ -21218,7 +21218,7 @@ Yazık bize, dediler, biz azgınlarmışız!
 
 # 5303
 
-Belki Rabbimiz, bize onun yerine ondan daha iyisini verir. Biz Rabbimize yönelir, O'ndan umarız. 	It may be that our Lord will give us better than this in place thereof. Lo! we beseech our Lord.
+Belki Rabbimiz, bize onun yerine ondan daha iyisini verir. Biz Rabbimize yönelir, O'ndan umarız. It may be that our Lord will give us better than this in place thereof. Lo! we beseech our Lord.
 
 # 5304
 
@@ -21718,7 +21718,7 @@ Sonra ben onları açıkça da'vet ettim.
 
 # 5428
 
-Sonra onlara açıktan söyledim, gizli gizli söyledim: 	And lo! I have made public proclamation unto them, and I have appealed to them in private.
+Sonra onlara açıktan söyledim, gizli gizli söyledim: And lo! I have made public proclamation unto them, and I have appealed to them in private.
 
 # 5429
 
@@ -22654,7 +22654,7 @@ Eğer (kurtulmak için yapacağınız) bir hileniz varsa bana hile yapın (da be
 
 # 5662
 
-Yalanlayanların vay haline o gün! *
+Yalanlayanların vay haline o gün! \*
 
 # 5663
 
@@ -22814,7 +22814,7 @@ Biz de her şeyi sayıp yazmıştık.
 
 # 5702
 
-Şimdi tadın (yaptıklarınızın tadını), artık size azabdan başka bir şey artırmayacağız! 	So taste (of that which ye have earned). No increase do We give you save of torment.
+Şimdi tadın (yaptıklarınızın tadını), artık size azabdan başka bir şey artırmayacağız! So taste (of that which ye have earned). No increase do We give you save of torment.
 
 # 5703
 

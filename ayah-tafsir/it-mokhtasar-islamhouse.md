@@ -4,7 +4,7 @@ Nel nome di Allāh, inizio a leggere il Corano chiedendo aiuto a Lui, l'Altissim
 
 # 2
 
-Tutti i tipi di lode per le qualità di Maestà e Perfezione spettano solo a Lui e non appartengono a nessun altro, poiché Egli è il Dio di tutto, il Creatore e Governatore. E «Al-Alamun» [i mondi]: è il plurale di «mondo»; comprende tutto e tutti al di fuori di Allāh l'Altissimo.
+Tutti i tipi di lode per le qualità di Maestà e Perfezione spettano solo a Lui e non appartengono a nessun altro, poiché Egli è il Dio di tutto, il Creatore e Governatore. E «Al-Alamun» \[i mondi\]: è il plurale di «mondo»; comprende tutto e tutti al di fuori di Allāh l'Altissimo.
 
 # 3
 
@@ -172,7 +172,7 @@ Satana non cessò di tentarli e di adescarli, finché non li indusse a commetter
 
 # 44
 
-Ǣdem ricevette le parole ispirate da Allāh, che lo ispirò a pregare pronunciandole. Queste parole sono quelle menzionate dall'Altissimo: Dissero: "Dio nostro, abbiamo fatto torto a noi stessi, e se non dovessi perdonarci e avere pietà di noi, saremmo in verità tra i perdenti". [-Surah Al 'A`rāf]. Allāh ha accettato il pentimento di Adamo e l’ha perdonato, poiché l'Altissimo, Lui è Colui Che perdona molto i Suoi sudditi, Misericordioso con loro.
+Ǣdem ricevette le parole ispirate da Allāh, che lo ispirò a pregare pronunciandole. Queste parole sono quelle menzionate dall'Altissimo: Dissero: "Dio nostro, abbiamo fatto torto a noi stessi, e se non dovessi perdonarci e avere pietà di noi, saremmo in verità tra i perdenti". \[-Surah Al 'A\`rāf\]. Allāh ha accettato il pentimento di Adamo e l’ha perdonato, poiché l'Altissimo, Lui è Colui Che perdona molto i Suoi sudditi, Misericordioso con loro.
 
 # 45
 
@@ -316,7 +316,7 @@ E ricordati di quando avete ucciso uno dei vostri e siete fuggiti precipitosamen
 
 # 80
 
-Vi dicemmo: "Colpite l'ucciso con una parte della vacca che avete ricevuto l'ordine di macellare; in verità Allāh, lo riporterà in vita affinché indichi chi è stato il suo assassino!" Così fecero, e la vittima rivelò il nome dell`assassino. E così come quel morto tornò in vita,Allāh resusciterà i morti nel Giorno del Giudizio, ed Egli vi mostra la prova evidente della Sua Potenza affiché possiate riflettere e credere davvero in Allāh L'Altissimo.
+Vi dicemmo: "Colpite l'ucciso con una parte della vacca che avete ricevuto l'ordine di macellare; in verità Allāh, lo riporterà in vita affinché indichi chi è stato il suo assassino!" Così fecero, e la vittima rivelò il nome dell\`assassino. E così come quel morto tornò in vita,Allāh resusciterà i morti nel Giorno del Giudizio, ed Egli vi mostra la prova evidente della Sua Potenza affiché possiate riflettere e credere davvero in Allāh L'Altissimo.
 
 # 81
 
@@ -456,7 +456,7 @@ Sei consapevole – O Profeta – che in verità Allāh è Detentore dei cieli e
 
 # 115
 
-Non spetta a voi, o credenti, interrogare il vostro Profeta, ostinandovi a contrariarlo, così come la gente di Mūsā chiese al loro Profeta, in precedenza: "Mostraci Allāh apertamente" [An-Nisa: 153], e chi preferisce la miscredenza alla fede, ha perduto la via della moderazione, ovvero la Retta Via.
+Non spetta a voi, o credenti, interrogare il vostro Profeta, ostinandovi a contrariarlo, così come la gente di Mūsā chiese al loro Profeta, in precedenza: "Mostraci Allāh apertamente" \[An-Nisa: 153\], e chi preferisce la miscredenza alla fede, ha perduto la via della moderazione, ovvero la Retta Via.
 
 # 116
 
@@ -624,7 +624,7 @@ E da qualsiasi luogo tu venga, o dovunque ti trovi - o Profeta - tu e i tuoi seg
 
 # 157
 
-E da qualunque luogo tu esca - o Profeta – con l'intenzione di pregare, orientati verso la Sacra Moschea المسجد الحرام. E ovunque vi troviate - o voi credenti – orientativi ad essa quando volete pregare, affinché la gente non abbia un pretesto per protestare contro di voi, tranne gli ingiusti tra di loro, che rimarranno nella loro ostinazione, presentando contro di voi le più banali pretese. Non li temete e temete solo il vostro Dio, rispettando i Suoi ordini ed evitando la Sua disobbedienza; in verità Allāh ha stabilito l'orientamento verso la Ka`bah الكعبة per completare la Sua grazia su di voi, elevandovi al di sopra di tutti gli altri popoli, e per guidarvi alla più onorevole direzione, la Ǭiblah القبلة, per l'umanità.
+E da qualunque luogo tu esca - o Profeta – con l'intenzione di pregare, orientati verso la Sacra Moschea المسجد الحرام. E ovunque vi troviate - o voi credenti – orientativi ad essa quando volete pregare, affinché la gente non abbia un pretesto per protestare contro di voi, tranne gli ingiusti tra di loro, che rimarranno nella loro ostinazione, presentando contro di voi le più banali pretese. Non li temete e temete solo il vostro Dio, rispettando i Suoi ordini ed evitando la Sua disobbedienza; in verità Allāh ha stabilito l'orientamento verso la Ka\`bah الكعبة per completare la Sua grazia su di voi, elevandovi al di sopra di tutti gli altri popoli, e per guidarvi alla più onorevole direzione, la Ǭiblah القبلة, per l'umanità.
 
 # 158
 
@@ -7396,7 +7396,7 @@ L'inferno possiede sette porte da cui potranno entrare; in ciascuna di queste su
 
 # 1847
 
-In verità, coloro che hanno obbedito al loro Dio, si sono attenuti ai Suoi ordini e hanno rispettato i Suoi divieti, saranno nei Paradisi e fonte d`acqua.
+In verità, coloro che hanno obbedito al loro Dio, si sono attenuti ai Suoi ordini e hanno rispettato i Suoi divieti, saranno nei Paradisi e fonte d\`acqua.
 
 # 1848
 
@@ -15294,7 +15294,7 @@ Non avevamo alcun potere di forzarvi o sottomettervi così da indurvi alla miscr
 
 # 3819
 
-E così l'avvertimento di Allāh si è realizzato, sia per noi che per voi, nelle Sue parole: " Riempirò l'inferno della tua stirpe e di tutti quelli che ti seguiranno!" [85]. Pertanto, dovremo subire ciò di cui il nostro Dio ci ha avvertiti, senza alcun dubbio.
+E così l'avvertimento di Allāh si è realizzato, sia per noi che per voi, nelle Sue parole: " Riempirò l'inferno della tua stirpe e di tutti quelli che ti seguiranno!" \[85\]. Pertanto, dovremo subire ciò di cui il nostro Dio ci ha avvertiti, senza alcun dubbio.
 
 # 3820
 
@@ -18144,7 +18144,7 @@ Coloro che avranno meritato la punizione saranno insieme ai popoli che li hanno 
 
 # 4529
 
-E i due gruppi – un gruppo nel Paradiso e un altro nel Sah'ir – avranno ranghi in base alle loro azioni; i ranghi della gente del Paradiso saranno elevati, mentre i ranghi della gente del Fuoco saranno nell`abisso (daraqēt دركات), e Allāh li giudicherà per le loro azioni e non verrà fatto loro torto, nel Giorno della Resurrezione, diminuendo le loro buone azioni o aumentando i loro peccati.
+E i due gruppi – un gruppo nel Paradiso e un altro nel Sah'ir – avranno ranghi in base alle loro azioni; i ranghi della gente del Paradiso saranno elevati, mentre i ranghi della gente del Fuoco saranno nell\`abisso (daraqēt دركات), e Allāh li giudicherà per le loro azioni e non verrà fatto loro torto, nel Giorno della Resurrezione, diminuendo le loro buone azioni o aumentando i loro peccati.
 
 # 4530
 
@@ -22140,7 +22140,7 @@ E abbiamo fatto in modo che i custodi del Fuoco non fossero altro che angeli che
 
 # 5527
 
-Le cose non stanno come dicono alcuni idolatri, ovvero che egli mette in rischio i suoi amici angeli custodi dell`inferno finchè verranno eliminati, perchè Allāh ha giurato sulla luna.
+Le cose non stanno come dicono alcuni idolatri, ovvero che egli mette in rischio i suoi amici angeli custodi dell\`inferno finchè verranno eliminati, perchè Allāh ha giurato sulla luna.
 
 # 5528
 

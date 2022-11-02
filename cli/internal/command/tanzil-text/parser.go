@@ -3,6 +3,7 @@ package tanzilText
 import (
 	"bufio"
 	"data-quran-cli/internal/norm"
+	"data-quran-cli/internal/util"
 	"fmt"
 	"os"
 	"path/filepath"
@@ -91,7 +92,7 @@ func parseFile(path string) (*TextData, error) {
 
 		// Put the line in its respective place
 		if !metadataStarted && ayahIdx < nAyah {
-			line = strings.TrimSpace(line)
+			line = util.MarkdownText(line)
 			ayahList[ayahIdx] = Ayah{Text: line}
 			ayahIdx++
 		} else {

@@ -15908,7 +15908,7 @@ se, kur të vdesim e të bëhemi eshtra e pluhur, do të japim llogari vërtet?!
 
 # 3842
 
-- A doni ta shikoni (atë që më qortonte për shkak të besimit tim)?”
+\- A doni ta shikoni (atë që më qortonte për shkak të besimit tim)?”
 
 # 3843
 
@@ -20924,7 +20924,7 @@ Betohem në çastin e perëndimit të yjeve,
 
 # 5055
 
-- e ky është betim i madh, veç sikur ta dinit
+\- e ky është betim i madh, veç sikur ta dinit
 
 # 5056
 
@@ -20960,7 +20960,7 @@ para syve tuaj,
 
 # 5064
 
-- ndërkohë që Ne jemi më afër atij se ju, por ju nuk e vini re
+\- ndërkohë që Ne jemi më afër atij se ju, por ju nuk e vini re
 
 # 5065
 
@@ -22366,7 +22366,7 @@ e që frikësohen nga dënimi i Zotit të tyre,
 
 # 5403
 
-- vërtet që askush nuk është i sigurt prej dënimit të Zotit të vet -;
+\- vërtet që askush nuk është i sigurt prej dënimit të Zotit të vet -;
 
 # 5404
 
@@ -23304,7 +23304,7 @@ dhe, kur të dërguarit të tubohen në kohën e caktuar
 
 # 5634
 
-- në cilën ditë do të ndodhin të gjitha këto?
+\- në cilën ditë do të ndodhin të gjitha këto?
 
 # 5635
 

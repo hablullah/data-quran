@@ -810,7 +810,7 @@ Fitnə (müşriklərin fitnəsi) aradan qalxana qədər və din (ibadət) ancaq 
 
 # 201
 
-(Döyüş) haram olan ay [hicrətin 7-ci ilinin zülqə’də ayı) (döyüş)] haram olan ay (hicrətin 6-cı ilinin zülqə’də ayı) müqabilindədir. Hörmətlər qarşılıqlıdır. Sizə qarşı həddini aşanlara siz də həmim ölçüdə həddi aşın (cavab verin). Allahdan qorxun (qədərindən artıq əvəz çıxmayın) və bilin ki, Allah müttəqilərlədir.
+(Döyüş) haram olan ay \[hicrətin 7-ci ilinin zülqə’də ayı) (döyüş)\] haram olan ay (hicrətin 6-cı ilinin zülqə’də ayı) müqabilindədir. Hörmətlər qarşılıqlıdır. Sizə qarşı həddini aşanlara siz də həmim ölçüdə həddi aşın (cavab verin). Allahdan qorxun (qədərindən artıq əvəz çıxmayın) və bilin ki, Allah müttəqilərlədir.
 
 # 202
 
@@ -2690,7 +2690,7 @@ Ey iman gətirənlər! Əhdlərə sadiq olun. İhramda olarkən ov sizə qadağa
 
 # 671
 
-Ey iman gətirənlər! Allahın müəyyən etdiyi mərasimə (həcc mərasiminə), haram (hörmətli) aya (həcc ayı hesab edilən zülhiccəyə və ya rəcəb zülqə’də, zülhiccə və məhərrəm aylarına), (Kə’bəyə gətirilən) qurbanlara, boynuna nişan taxılmış qurbanlıq heyvanlara, həmçinin Rəbbinin lütfünü və razılığını diləyərək Beytülhərama (müqəddəs evə) üz tutub (ziyarətə) gələnlərə hörmətsizlik etməyin! [Onlara qarşı nalayiq işlər görməyi özünüzə halal (rəva) bilməyin!] İhramdan çıxdığınız zaman (istəsəniz) ov edin. (Vaxtilə) sizi Məscidülhərama daxil olmağa qoymayan camaata qarşı bəslədiyiniz kin sizi təcavüzə sövq etməsin (zülm və haqsızlıq günahına batırmasın). Yaxşılıq etməkdə və pis əməllərdən çəkinməkdə əlbir olun, günah iş görməkdə və düşmənçilik etməkdə bir-birinizə kömək göstərməyin. Allahdan qorxun. Həqiqətən, Allahın əzabı şiddətlidir!
+Ey iman gətirənlər! Allahın müəyyən etdiyi mərasimə (həcc mərasiminə), haram (hörmətli) aya (həcc ayı hesab edilən zülhiccəyə və ya rəcəb zülqə’də, zülhiccə və məhərrəm aylarına), (Kə’bəyə gətirilən) qurbanlara, boynuna nişan taxılmış qurbanlıq heyvanlara, həmçinin Rəbbinin lütfünü və razılığını diləyərək Beytülhərama (müqəddəs evə) üz tutub (ziyarətə) gələnlərə hörmətsizlik etməyin! \[Onlara qarşı nalayiq işlər görməyi özünüzə halal (rəva) bilməyin!\] İhramdan çıxdığınız zaman (istəsəniz) ov edin. (Vaxtilə) sizi Məscidülhərama daxil olmağa qoymayan camaata qarşı bəslədiyiniz kin sizi təcavüzə sövq etməsin (zülm və haqsızlıq günahına batırmasın). Yaxşılıq etməkdə və pis əməllərdən çəkinməkdə əlbir olun, günah iş görməkdə və düşmənçilik etməkdə bir-birinizə kömək göstərməyin. Allahdan qorxun. Həqiqətən, Allahın əzabı şiddətlidir!
 
 # 672
 
@@ -5498,7 +5498,7 @@ Məhz onların qazandıqları günahlara görə düşəcəkləri yer Cəhənnəm
 
 # 1373
 
-İman gətirib yaxşı işlər görənlərin Rəbbi iman gətirdiklərinə görə hidayətə (Cənnətə) qovuşdurar. (Bol ne’mətli) Nəim cənnətlərində onların (qəsrləri, köşkləri) altından çaylar axar. [Və ya Rəbbi onlara imanları müqabilində (ağacları) altından çaylar axan Nəim cənnətlərinə yol göstərər].
+İman gətirib yaxşı işlər görənlərin Rəbbi iman gətirdiklərinə görə hidayətə (Cənnətə) qovuşdurar. (Bol ne’mətli) Nəim cənnətlərində onların (qəsrləri, köşkləri) altından çaylar axar. \[Və ya Rəbbi onlara imanları müqabilində (ağacları) altından çaylar axan Nəim cənnətlərinə yol göstərər\].
 
 # 1374
 
@@ -7666,7 +7666,7 @@ O, gecəni və gündüzü, Günəşi və Ayı sizə ram etdi (sizin xidmətiniz�
 
 # 1915
 
-Təzə ət (balıq əti) yeməyiniz, taxdığınız bəzək şeylərini (inci, sədəf, mərcan) çıxartmağınız üçün dənizi də sizə ram edən Odur. (Ey insan! Allahın) ne’mətindən ruzi axtarmağınız üçün sən gəmilərin onu yara-yara üzüb getdiyini görürsən. Bəlkə, (bundan sonra Allahahın ne’mətlərinə) şükür edəsiniz! [Və ya: Sən gəmilərin onu yara-yara üzüb getdiyini görürsən. (Bütün bunlar) Onun lütfünü aramanız və (kərəminə) şükür etməyiniz üçündür!]
+Təzə ət (balıq əti) yeməyiniz, taxdığınız bəzək şeylərini (inci, sədəf, mərcan) çıxartmağınız üçün dənizi də sizə ram edən Odur. (Ey insan! Allahın) ne’mətindən ruzi axtarmağınız üçün sən gəmilərin onu yara-yara üzüb getdiyini görürsən. Bəlkə, (bundan sonra Allahahın ne’mətlərinə) şükür edəsiniz! \[Və ya: Sən gəmilərin onu yara-yara üzüb getdiyini görürsən. (Bütün bunlar) Onun lütfünü aramanız və (kərəminə) şükür etməyiniz üçündür!\]
 
 # 1916
 
@@ -9142,7 +9142,7 @@ Doğulduğum gün də, öləcəyim gün də, diriləcəyim (qəbirdən diri olar
 
 # 2284
 
-Bu, (yəhudilərin və xaçpərəstlərin barəsində) şübhəyə düşdükləri Məryəm oğlu İsa haqqında (Allahın buyurduğu) haqq sözdür! [Yaxud (yəhudilərin və xaçpərəstlərin) barəsində şəkk-şübhə etdikləri Məryəm oğlu İsa haqq söz olaraq budur].
+Bu, (yəhudilərin və xaçpərəstlərin barəsində) şübhəyə düşdükləri Məryəm oğlu İsa haqqında (Allahın buyurduğu) haqq sözdür! \[Yaxud (yəhudilərin və xaçpərəstlərin) barəsində şəkk-şübhə etdikləri Məryəm oğlu İsa haqq söz olaraq budur\].
 
 # 2285
 
@@ -9238,7 +9238,7 @@ Biz onu yüksək bir məqama (Cənnətə, yaxud dördüncü göyə) qaldırdıq.
 
 # 2308
 
-Bunlar Adəmi və Nuhla gəmiyə mindirdiyimiz adamların nəslindən, İbrahimin, İsrailin (Yə’qubun) nəslindən seçib haqq yola yönəltdiyimiz və Allahın ne’mət bəxş etdiyi peyğəmbərlərdəndir. Onlar Rəhmanın (Allahın) ayələri özlərinə oxunduğu zaman ağlayaraq səcdəyə qapanırdılar. [İdris Adəmin, Nuh İdrisin, İbrahim Nuhun (və ya Nuhun gəmisində olanlardan birinin), İsmail, İshaq, Yə’qub İbrahimin nəslindən, Musa, Harun, Zəkəriyya və İsa isə Yə’qubun nəslindən olan peyğəmbərlərdəndir].
+Bunlar Adəmi və Nuhla gəmiyə mindirdiyimiz adamların nəslindən, İbrahimin, İsrailin (Yə’qubun) nəslindən seçib haqq yola yönəltdiyimiz və Allahın ne’mət bəxş etdiyi peyğəmbərlərdəndir. Onlar Rəhmanın (Allahın) ayələri özlərinə oxunduğu zaman ağlayaraq səcdəyə qapanırdılar. \[İdris Adəmin, Nuh İdrisin, İbrahim Nuhun (və ya Nuhun gəmisində olanlardan birinin), İsmail, İshaq, Yə’qub İbrahimin nəslindən, Musa, Harun, Zəkəriyya və İsa isə Yə’qubun nəslindən olan peyğəmbərlərdəndir\].
 
 # 2309
 
@@ -13194,7 +13194,7 @@ Bu dünyada onlara lə’nət damğası vurduq (hamı onlara lə’nət oxuyar),
 
 # 3297
 
-Lakin Biz (Musadan sonra) neçə-neçə nəsillər yaratdıq. Onlar uzun ömür sürdülər. (Vəhy kəsildi; bir çox xəbərlər unudulub getdi, şəriət təhrif olundu). Sən ayələrimizi onlara oxuyarkən Mədyən əhli arasında deyildin. (Sən Mədyəndə deyildin ki, onların əhvalını bilib Məkkə əhlinə xəbər verəsən. Buna görə də onlar sənin bu xəbərləri Mədyən camaatından öyrəndiyini deyə bilməzlər). Lakin Biz (bu əhvalatları onlara olduğu kimi xəbər vermək üçün səni) peyğəmbər göndərdik. [Və ya: Ancaq (bu xəbərləri sənə) göndərən Bizik].
+Lakin Biz (Musadan sonra) neçə-neçə nəsillər yaratdıq. Onlar uzun ömür sürdülər. (Vəhy kəsildi; bir çox xəbərlər unudulub getdi, şəriət təhrif olundu). Sən ayələrimizi onlara oxuyarkən Mədyən əhli arasında deyildin. (Sən Mədyəndə deyildin ki, onların əhvalını bilib Məkkə əhlinə xəbər verəsən. Buna görə də onlar sənin bu xəbərləri Mədyən camaatından öyrəndiyini deyə bilməzlər). Lakin Biz (bu əhvalatları onlara olduğu kimi xəbər vermək üçün səni) peyğəmbər göndərdik. \[Və ya: Ancaq (bu xəbərləri sənə) göndərən Bizik\].
 
 # 3298
 
@@ -15202,7 +15202,7 @@ Ancaq (şeytanlar içərisində mələklərin söhbətlərindən bir sözü, bir
 
 # 3799
 
-İndi (ya Peyğəmbər, bu müşriklərdən) soruş: onları yaratmaq çətindir, yoxsa Bizim (başqa) yaratdıqlarımızı? [Və ya: xilqətcə onlar güclüdürlər, yoxsa Bizim (başqa) yaratdıqlarımız?] Axı Biz onları (insanların babası Adəmi) yapışqan (kimi) bir palçıqdan yaratdıq.
+İndi (ya Peyğəmbər, bu müşriklərdən) soruş: onları yaratmaq çətindir, yoxsa Bizim (başqa) yaratdıqlarımızı? \[Və ya: xilqətcə onlar güclüdürlər, yoxsa Bizim (başqa) yaratdıqlarımız?\] Axı Biz onları (insanların babası Adəmi) yapışqan (kimi) bir palçıqdan yaratdıq.
 
 # 3800
 
@@ -16326,7 +16326,7 @@ Lakin Rəbbindən qorxanları (Cənnətdə) bir-birinin üstündə tikilmiş ota
 
 # 4080
 
-Məgər Allahın köksünü (qəlbini) islam üçün açmaqla Rəbbindən nur üzərində olan kəs (qəlbi möhürlənmiş kimsə kimi ola bilərmi)?! [Və ya: Məgər Allahın köksünü (qəlbini) islam üçün açdığı kəs Rəbbindən bir nur üzərində deyilmi?!] Elə isə vay qəlbləri Allahın zikrinə (Qur’ana) qarşı sərt olanların halına! Onlar (haqq-yoldan) açıq-aydın azmışlar.
+Məgər Allahın köksünü (qəlbini) islam üçün açmaqla Rəbbindən nur üzərində olan kəs (qəlbi möhürlənmiş kimsə kimi ola bilərmi)?! \[Və ya: Məgər Allahın köksünü (qəlbini) islam üçün açdığı kəs Rəbbindən bir nur üzərində deyilmi?!\] Elə isə vay qəlbləri Allahın zikrinə (Qur’ana) qarşı sərt olanların halına! Onlar (haqq-yoldan) açıq-aydın azmışlar.
 
 # 4081
 
@@ -20422,7 +20422,7 @@ Ey iman gətirənlər! Allahdan qorxun və Onun peyğəmbərinə iman gətirin k
 
 # 5104
 
-(Muhəmməd əleyhissəlama iman gətirməyən) kitab əhli bilsin ki, onlar Allahın lütfünə (mərhəmətinə, dilədiyi kimsəyə peyğəmbərlik əta etməsinə) heç bir vəchlə mane ola bilməzlər. Şübhəsiz ki, lütf (mərhəmət, ne’mət) Allahın əlindədir, onu istədiyinə bəxş edər. Allah çox böyük lütf (kərəm) sahibidir! [Və ya: kitab əhli Allahın lütfündən heç bir şeyə nail olmayacaqlarını, həqiqətən, lütfün (mərhəmətin) Allahın əlində olduğunu, Allahın da onu istədiyi kimsəyə bəxş etdiyini bilmədikləri üçünmü küfrdə israr edib dururlar? Halbuki bunu çox ə’la bilirlər].
+(Muhəmməd əleyhissəlama iman gətirməyən) kitab əhli bilsin ki, onlar Allahın lütfünə (mərhəmətinə, dilədiyi kimsəyə peyğəmbərlik əta etməsinə) heç bir vəchlə mane ola bilməzlər. Şübhəsiz ki, lütf (mərhəmət, ne’mət) Allahın əlindədir, onu istədiyinə bəxş edər. Allah çox böyük lütf (kərəm) sahibidir! \[Və ya: kitab əhli Allahın lütfündən heç bir şeyə nail olmayacaqlarını, həqiqətən, lütfün (mərhəmətin) Allahın əlində olduğunu, Allahın da onu istədiyi kimsəyə bəxş etdiyini bilmədikləri üçünmü küfrdə israr edib dururlar? Halbuki bunu çox ə’la bilirlər\].
 
 # 5105
 
@@ -20726,7 +20726,7 @@ Göylərdə və yerdə nə varsa, (hamısı) mülkün (yer-göy mülkünün) hö
 
 # 5180
 
-(Allah-təala Muhəmməd əleyhissəlamı) ərəblərdən savayı hələ onlara qoşulmamış başqalarına da (islamı qəbul etməmiş indiki ümmətlərə və qiyamət gününə qədər dünyaya gələcək bütün sonrakı tayfalara da peyğəmbər göndərmişdir) [Və ya: o Peyğəmbər Kitabı və hikməti ərəblərdən əlavə hələ onlara qoşulmamış başqalarına da (başqa ümmətlərə də) öyrədər]. O, yenilməz qüvvət sahibi, hikmət sahibidir!
+(Allah-təala Muhəmməd əleyhissəlamı) ərəblərdən savayı hələ onlara qoşulmamış başqalarına da (islamı qəbul etməmiş indiki ümmətlərə və qiyamət gününə qədər dünyaya gələcək bütün sonrakı tayfalara da peyğəmbər göndərmişdir) \[Və ya: o Peyğəmbər Kitabı və hikməti ərəblərdən əlavə hələ onlara qoşulmamış başqalarına da (başqa ümmətlərə də) öyrədər\]. O, yenilməz qüvvət sahibi, hikmət sahibidir!
 
 # 5181
 
@@ -21190,7 +21190,7 @@ Nəhayət, yola düşdülər, (yol boyu) bir-birinə xəlvətcə belə deyirdil�
 
 # 5296
 
-Onlar (yoxsulları) bağa buraxmağa qadir olacaqlarını güman edərək erkən getdilər. [Və ya: Onlar gücləri yetdiyi halda (yoxsulları) yardımdan məhrum etməkdən ötrü sübh tezdən yola düzəldilər]
+Onlar (yoxsulları) bağa buraxmağa qadir olacaqlarını güman edərək erkən getdilər. \[Və ya: Onlar gücləri yetdiyi halda (yoxsulları) yardımdan məhrum etməkdən ötrü sübh tezdən yola düzəldilər\]
 
 # 5297
 
@@ -24686,7 +24686,7 @@ O çox qızmar bir atəşdir!
 
 # 6170
 
-Hətta (məzarlarda yatan ölülərinizi sayıb, onların da çoxluğu ilə fəxr etməyiniz üçün) qəbirləri ziyarət etdiniz. [Və ya (axirətiniz üçün əsla çalışmadan) ölüb getdiniz (ölənə qədər bu halınızda davam etdiniz)].
+Hətta (məzarlarda yatan ölülərinizi sayıb, onların da çoxluğu ilə fəxr etməyiniz üçün) qəbirləri ziyarət etdiniz. \[Və ya (axirətiniz üçün əsla çalışmadan) ölüb getdiniz (ölənə qədər bu halınızda davam etdiniz)\].
 
 # 6171
 

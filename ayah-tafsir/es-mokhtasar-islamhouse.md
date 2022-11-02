@@ -174,7 +174,7 @@ Satán (ash-shaitán) no dejó de tentar a Adán y a su esposa para que hicieran
 
 # 44
 
-Al‐lah inspiró a Adán con las palabras que deben pronunciarse para invocarlo. Estas palabras aparecen en la aleya donde Al‐lah dice: Ambos dirán: “¡Señor nuestro!, nos hemos perjudicado a nosotros mismos. Y si Tú no nos perdonas y no nos muestras misericordia, seremos parte de los perdedores.” [Corán 7:23]. Al‐lah aceptó el arrepentimiento de Adán y lo perdonó. Al‐lah acepta el arrepentimiento y es misericordioso con Sus servidores.
+Al‐lah inspiró a Adán con las palabras que deben pronunciarse para invocarlo. Estas palabras aparecen en la aleya donde Al‐lah dice: Ambos dirán: “¡Señor nuestro!, nos hemos perjudicado a nosotros mismos. Y si Tú no nos perdonas y no nos muestras misericordia, seremos parte de los perdedores.” \[Corán 7:23\]. Al‐lah aceptó el arrepentimiento de Adán y lo perdonó. Al‐lah acepta el arrepentimiento y es misericordioso con Sus servidores.
 
 # 45
 
@@ -458,7 +458,7 @@ Profeta, tú sabes que a Al‐lah pertenecen los cielos y la Tierra, y Él decid
 
 # 115
 
-No están autorizados, creyentes, a cuestionar a su Mensajero con el objetivo de refutarlo por pura terquedad, así como el pueblo de Moisés cuestionó a su profeta al decirle: “¡Haz que veamos a Al‐lah!” [Corán 4:153]. Cualquiera que renuncie a la fe a cambio de la incredulidad, se aleja de la vía moderada que constituye el camino recto.
+No están autorizados, creyentes, a cuestionar a su Mensajero con el objetivo de refutarlo por pura terquedad, así como el pueblo de Moisés cuestionó a su profeta al decirle: “¡Haz que veamos a Al‐lah!” \[Corán 4:153\]. Cualquiera que renuncie a la fe a cambio de la incredulidad, se aleja de la vía moderada que constituye el camino recto.
 
 # 116
 
@@ -986,7 +986,7 @@ Si temen el ataque de un enemigo o cualquier otra amenaza y no pueden realizar l
 
 # 247
 
-Aquellos que al fallecer dejan una esposa, deben dejar un testamento estipulando que les permiten disponer de sus viviendas y que deben recibir una manutención financiera por el término de un año, durante el cual los otros herederos no podrán expulsarlas de su hogar. Se obra de este modo a fin de consolarlas por su pérdida y en recuerdo del difunto. Si la esposa deja su hogar por voluntad propia antes del año, no comete falta si se prepara para rehacer su vida. Al‐lah es Poderoso, Aquel a quien nada ni nadie se le opone, y Sabio en Su gestión y Sus leyes. La mayoría de las exégesis sostienen la opinión de que el precepto anunciado en esta aleya ha sido abrogado por otro en el que Al‐lah dice: “Aquellos a quienes golpee la muerte y dejen esposas: estas deben observar un período de espera de cuatro meses y diez días.” [2:234]
+Aquellos que al fallecer dejan una esposa, deben dejar un testamento estipulando que les permiten disponer de sus viviendas y que deben recibir una manutención financiera por el término de un año, durante el cual los otros herederos no podrán expulsarlas de su hogar. Se obra de este modo a fin de consolarlas por su pérdida y en recuerdo del difunto. Si la esposa deja su hogar por voluntad propia antes del año, no comete falta si se prepara para rehacer su vida. Al‐lah es Poderoso, Aquel a quien nada ni nadie se le opone, y Sabio en Su gestión y Sus leyes. La mayoría de las exégesis sostienen la opinión de que el precepto anunciado en esta aleya ha sido abrogado por otro en el que Al‐lah dice: “Aquellos a quienes golpee la muerte y dejen esposas: estas deben observar un período de espera de cuatro meses y diez días.” \[2:234\]
 
 # 248
 
@@ -3014,7 +3014,7 @@ Mensajero, podrás constatar que los adversarios más agresivos hacia el Islam y
 
 # 752
 
-Estos, a semejanza de Negus y sus compañeros, se conmueven y lloran de humildad cuando escuchan las aleyas del Corán que te han sido reveladas. Saben que el Corán proviene de la Verdad y reconocen en él el mensaje de Jesús u. Dicen: “Señor nuestro, creemos en lo que has revelado a Tu mensajero Mujámmad r. Cuéntanos entre la comunidad de Mujámmad, cuéntanos entre quienes dan testimonio [de la verdad del Islam].
+Estos, a semejanza de Negus y sus compañeros, se conmueven y lloran de humildad cuando escuchan las aleyas del Corán que te han sido reveladas. Saben que el Corán proviene de la Verdad y reconocen en él el mensaje de Jesús u. Dicen: “Señor nuestro, creemos en lo que has revelado a Tu mensajero Mujámmad r. Cuéntanos entre la comunidad de Mujámmad, cuéntanos entre quienes dan testimonio \[de la verdad del Islam\].
 
 # 753
 
@@ -18616,7 +18616,7 @@ Cuando los dos receptores los reciben, sentados a la derecha y a la izquierda. C
 
 # 4648
 
-El ser humano no pronuncia ninguna palabra, sin que con él haya un observador preparado [para registrar lo que diga]. Él no hace ninguna declaración, sin que esté presente un ángel que registra todo lo que él dice.
+El ser humano no pronuncia ninguna palabra, sin que con él haya un observador preparado \[para registrar lo que diga\]. Él no hace ninguna declaración, sin que esté presente un ángel que registra todo lo que él dice.
 
 # 4649
 

@@ -38,7 +38,7 @@ la vía de los que Tú has agraciado, no de los que han incurrido en la ira, ni 
 
 # 8
 
-`lm.
+\`lm.
 
 # 9
 
@@ -1182,7 +1182,7 @@ Alá no pide nada a nadie más allá de sus posibilidades. Lo que uno haya hecho
 
 # 294
 
-`lm.
+\`lm.
 
 # 295
 

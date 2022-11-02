@@ -1950,7 +1950,7 @@ Those who remember God while standing, and sitting, and on their sides; and they
 
 # 486
 
-“Our Lord, we have heard a caller calling to the faith: `Believe in your Lord,' and we have believed. Our Lord! Forgive us our sins, and remit our misdeeds, and make us die in the company of the virtuous.”
+“Our Lord, we have heard a caller calling to the faith: \`Believe in your Lord,' and we have believed. Our Lord! Forgive us our sins, and remit our misdeeds, and make us die in the company of the virtuous.”
 
 # 487
 
@@ -3122,11 +3122,11 @@ On the Day when God will gather the messengers, then say, “What response were 
 
 # 779
 
-When God will say, “O Jesus son of Mary, recall My favor upon you and upon your mother, how I supported you with the Holy Spirit. You spoke to the people from the crib, and in maturity. How I taught you the Scripture and wisdom, and the Torah and the Gospel. And recall that you molded from clay the shape of a bird, by My leave, and then you breathed into it, and it became a bird, by My leave. And you healed the blind and the leprous, by My leave; and you revived the dead, by My leave. And recall that I restrained the Children of Israel from you when you brought them the clear miracles. But those who disbelieved among them said, `This is nothing but obvious sorcery.'“
+When God will say, “O Jesus son of Mary, recall My favor upon you and upon your mother, how I supported you with the Holy Spirit. You spoke to the people from the crib, and in maturity. How I taught you the Scripture and wisdom, and the Torah and the Gospel. And recall that you molded from clay the shape of a bird, by My leave, and then you breathed into it, and it became a bird, by My leave. And you healed the blind and the leprous, by My leave; and you revived the dead, by My leave. And recall that I restrained the Children of Israel from you when you brought them the clear miracles. But those who disbelieved among them said, \`This is nothing but obvious sorcery.'“
 
 # 780
 
-“And when I inspired the disciples: `Believe in Me and in My Messenger.' They said, `We have believed, so bear witness that We have submitted.'“
+“And when I inspired the disciples: \`Believe in Me and in My Messenger.' They said, \`We have believed, so bear witness that We have submitted.'“
 
 # 781
 
@@ -3146,7 +3146,7 @@ God said, “I will send it down to you. But whoever among you disbelieves there
 
 # 785
 
-And God will say, “O Jesus son of Mary, did you say to the people, `Take me and my mother as gods rather than God?'“ He will say, “Glory be to You! It is not for me to say what I have no right to. Had I said it, You would have known it. You know what is in my soul, and I do not know what is in your soul. You are the Knower of the hidden.
+And God will say, “O Jesus son of Mary, did you say to the people, \`Take me and my mother as gods rather than God?'“ He will say, “Glory be to You! It is not for me to say what I have no right to. Had I said it, You would have known it. You know what is in my soul, and I do not know what is in your soul. You are the Knower of the hidden.
 
 # 786
 
@@ -9090,7 +9090,7 @@ She said, “How can I have a son, when no man has touched me, and I was never u
 
 # 2271
 
-He said, “Thus said your Lord, `It is easy for Me, and We will make him a sign for humanity, and a mercy from Us. It is a matter already decided.'“
+He said, “Thus said your Lord, \`It is easy for Me, and We will make him a sign for humanity, and a mercy from Us. It is a matter already decided.'“
 
 # 2272
 
@@ -9554,7 +9554,7 @@ When We inspired your mother with the inspiration.
 
 # 2387
 
-`Put him in the chest; then cast him into the river. The river will wash him to shore, where an enemy of Mine and an enemy of his will pick him up. And I have bestowed upon you love from Me, so that you may be reared before My eye.
+\`Put him in the chest; then cast him into the river. The river will wash him to shore, where an enemy of Mine and an enemy of his will pick him up. And I have bestowed upon you love from Me, so that you may be reared before My eye.
 
 # 2388
 
@@ -9586,7 +9586,7 @@ He said, “Do not fear, I am with you, I hear and I see.
 
 # 2395
 
-Approach him and say, `We are the messengers of your Lord; so let the Children of Israel go with us, and do not torment them. We bring you a sign from your Lord, and peace be upon him who follows guidance.
+Approach him and say, \`We are the messengers of your Lord; so let the Children of Israel go with us, and do not torment them. We bring you a sign from your Lord, and peace be upon him who follows guidance.
 
 # 2396
 
@@ -9774,7 +9774,7 @@ From following me? Did you disobey my command?”
 
 # 2442
 
-He said, “Son of my mother, do not seize me by my beard or my head. I feared you would say, `You have caused division among the Children of Israel, and did not regard my word.'“
+He said, “Son of my mother, do not seize me by my beard or my head. I feared you would say, \`You have caused division among the Children of Israel, and did not regard my word.'“
 
 # 2443
 
@@ -11134,7 +11134,7 @@ He will say, “Be despised therein, and do not speak to Me.
 
 # 2782
 
-There was a group of My servants who would say, `Our Lord, we have believed, so forgive us, and have mercy on us; You are the Best of the merciful.'
+There was a group of My servants who would say, \`Our Lord, we have believed, so forgive us, and have mercy on us; You are the Best of the merciful.'
 
 # 2783
 
@@ -16650,7 +16650,7 @@ Moses said, “I have sought the protection of my Lord and your Lord, from every
 
 # 4161
 
-A believing man from Pharaoh's family, who had concealed his faith, said, “Are you going to kill a man for saying, `My Lord is God,’ and he has brought you clear proofs from your Lord? If he is a liar, his lying will rebound upon him; but if he is truthful, then some of what he promises you will befall you. God does not guide the extravagant imposter.
+A believing man from Pharaoh's family, who had concealed his faith, said, “Are you going to kill a man for saying, \`My Lord is God,’ and he has brought you clear proofs from your Lord? If he is a liar, his lying will rebound upon him; but if he is truthful, then some of what he promises you will befall you. God does not guide the extravagant imposter.
 
 # 4162
 

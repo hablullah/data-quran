@@ -1194,15 +1194,15 @@ Ai ta zbret ty (Muhammed) librin me argument që të është vërtetues i librav
 
 # 297
 
-Udhërrfim për njerëz, e zbriti edhe Furkanin (dalluesin e së vertetës nga gënjeshtra). S`ka dyshim për se ata që mohojnë argumentet e All-llahut i pret ndëshkimi i rreptë. All-llahu është ngadhënjyes, shpagimtar.
+Udhërrfim për njerëz, e zbriti edhe Furkanin (dalluesin e së vertetës nga gënjeshtra). S\`ka dyshim për se ata që mohojnë argumentet e All-llahut i pret ndëshkimi i rreptë. All-llahu është ngadhënjyes, shpagimtar.
 
 # 298
 
-S`ka dyshim se All-llahu nuk mund t`i fshihet asgjë në tokë e as në qiell.
+S\`ka dyshim se All-llahu nuk mund t\`i fshihet asgjë në tokë e as në qiell.
 
 # 299
 
-Ai është që ju krijon (formon) juve në mitra ashtu si të dojë. S`ka Zot pos Tij, e që është fuqiplotë i urti.
+Ai është që ju krijon (formon) juve në mitra ashtu si të dojë. S\`ka Zot pos Tij, e që është fuqiplotë i urti.
 
 # 300
 
@@ -1214,11 +1214,11 @@ Ai është që ta zbriti ty e që në të ka ajete të qarta dhe ato janë bazë
 
 # 302
 
-“Zoti ynë Ti je ai që në një ditë do t`i tubosh njerëzit, ditë që përtë cilin nuk ka dyshim. All-llahu nuk shkel premtimin e vet.
+“Zoti ynë Ti je ai që në një ditë do t\`i tubosh njerëzit, ditë që përtë cilin nuk ka dyshim. All-llahu nuk shkel premtimin e vet.
 
 # 303
 
-Është e vertetë se atyre që nuk besuan nuk do t`u vlejë asgjë para All-llahut, as pasuria e as fëmijët e tyre. Ata vetë janë lëndë e zjarrit.
+Është e vertetë se atyre që nuk besuan nuk do t\`u vlejë asgjë para All-llahut, as pasuria e as fëmijët e tyre. Ata vetë janë lëndë e zjarrit.
 
 # 304
 
@@ -7862,7 +7862,7 @@ Sikur All-llahu t’i dënonte njerëzit (zullumqarë) për shkak të mizorisë 
 
 # 1963
 
-E ato *vajzat) që i urrejnë për për vete, ia mveshin All-llahut, gjuhët e tyre shpifin rrenën se, atyre do t’u takojë më e mira (Xhenneti), s’ka dyshim, i tyre është zjarri, dhe se ata janë të parët në të.
+E ato \*vajzat) që i urrejnë për për vete, ia mveshin All-llahut, gjuhët e tyre shpifin rrenën se, atyre do t’u takojë më e mira (Xhenneti), s’ka dyshim, i tyre është zjarri, dhe se ata janë të parët në të.
 
 # 1964
 
@@ -7918,7 +7918,7 @@ All-llahu sjell shembuj: një rob që është pronë e tjetrit e që nuk ka në 
 
 # 1977
 
-All-llahu sjel shembull: dy njerëz, njëri prej atyre dyve është memec që nuk ka aftësi për asgjë *as për vete as për të tjerët) dhe vetë ai është barrë për kujdestrarin e tij, pse kudo që ta orientojë, a nuk sjell ndonjë dobi. A është ibarabartë me atë që udhëzon për drejtësi e edhe vetë është në rrugën e drejtë?
+All-llahu sjel shembull: dy njerëz, njëri prej atyre dyve është memec që nuk ka aftësi për asgjë \*as për vete as për të tjerët) dhe vetë ai është barrë për kujdestrarin e tij, pse kudo që ta orientojë, a nuk sjell ndonjë dobi. A është ibarabartë me atë që udhëzon për drejtësi e edhe vetë është në rrugën e drejtë?
 
 # 1978
 
@@ -8856,7 +8856,7 @@ Ai i tha: “Nëse më shoqëron ti mua, atëherë mos më pyet për asgjë, der
 
 # 2211
 
-E ata të dy shkuan *duke ecur) deri kur hipën në anije, ai (i dishmi) e shqeu atë. Ai (Musai) tha: “A e shqeve që ti fundosësh udhëtarët e saj, vërtet bëre një punë të hatashme?”
+E ata të dy shkuan \*duke ecur) deri kur hipën në anije, ai (i dishmi) e shqeu atë. Ai (Musai) tha: “A e shqeve që ti fundosësh udhëtarët e saj, vërtet bëre një punë të hatashme?”
 
 # 2212
 
@@ -15080,7 +15080,7 @@ O bijtë e Ademit (kriminelë), po a nuk u dërgova porosinë që të mos e dëg
 
 # 3766
 
-*Ju porosita) Të më adhuroni Mua, se kjo është rruga e sigurt!
+\*Ju porosita) Të më adhuroni Mua, se kjo është rruga e sigurt!
 
 # 3767
 

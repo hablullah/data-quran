@@ -4798,7 +4798,7 @@ Opdat Allah het slechte van het goede zal scheiden en Hij de slechten op elkaar 
 
 # 1198
 
-Zeg tot degenen die ongelovig zijn: "Als jullie ophouden, zullen jw]ie worden vergeven voor wat reeds voorbij is, maar als jullie in herhaling vervalken, dan (geldt) voor ben de handelwijze (van Allah), zoals die veedsgold voor de vroegeren.
+Zeg tot degenen die ongelovig zijn: "Als jullie ophouden, zullen jw\]ie worden vergeven voor wat reeds voorbij is, maar als jullie in herhaling vervalken, dan (geldt) voor ben de handelwijze (van Allah), zoals die veedsgold voor de vroegeren.
 
 # 1199
 
@@ -6878,7 +6878,7 @@ Allah weet wat iedere vrouw draagt en wat de baarmoeders verminderen of wat zij 
 
 # 1718
 
-- En voor de mens zijn er bewakers (Engelen), voor hem en achter hem, zij waken over hem op bevel van Allah. Voorwaar, Allah verandert de (goede) toestand van een Yolk niet, totdat zij hun eigen toestand verarderen. En als Allah iets kwaads voor een volk wil, dan is er niemand die het kan afwenden en er is voor hen naast Hem geen Helper.
+\- En voor de mens zijn er bewakers (Engelen), voor hem en achter hem, zij waken over hem op bevel van Allah. Voorwaar, Allah verandert de (goede) toestand van een Yolk niet, totdat zij hun eigen toestand verarderen. En als Allah iets kwaads voor een volk wil, dan is er niemand die het kan afwenden en er is voor hen naast Hem geen Helper.
 
 # 1719
 
@@ -7638,7 +7638,7 @@ En voor jullie is er schoonheid in, wanneer jullie het vee 's avonds naar de sta
 
 # 1908
 
-En Zij dragen lasten voor jullie naar landen die jullie niet zonder moeilijkheden voor julliezelf konden bereiken. Voorwaar, jullie Heer is zeker Meest Genadig, Meest Barmhartig. THIS TEXT HAS BEEN AUTOMATICALLY GENERATED (OCR) AND REQUIRES FIXING/CHECKING. USE THE CTRL+(Right/Left Arrow) KEYS TO MOVE ALONG THE WORDS AND CHECK WITH THE LEFT SIDE. PLEASE DELETE *THIS* NOTE IF YOU ARE READY TO CHECK AND APPROVE.
+En Zij dragen lasten voor jullie naar landen die jullie niet zonder moeilijkheden voor julliezelf konden bereiken. Voorwaar, jullie Heer is zeker Meest Genadig, Meest Barmhartig. THIS TEXT HAS BEEN AUTOMATICALLY GENERATED (OCR) AND REQUIRES FIXING/CHECKING. USE THE CTRL+(Right/Left Arrow) KEYS TO MOVE ALONG THE WORDS AND CHECK WITH THE LEFT SIDE. PLEASE DELETE \*THIS\* NOTE IF YOU ARE READY TO CHECK AND APPROVE.
 
 # 1909
 
@@ -7998,7 +7998,7 @@ Wat bij jullie is, zal vergaan, maar wat bij Allah is, is blijvend. En Wij zulle
 
 # 1998
 
-Wie het goede doet, man of vrouw, en hij gelooft: voorwaar, aan hem geven Wij een goed leven. En Wij zullen hen zeker belonen met hun beloning, volgens het beste van wat zÜij plachten te doen. THIS TEXT HAS BEEN AUTOMATICALLY GENERATED (OCR) AND REQUIRES FIXING/CHECKING. USE THE CTRL+(Right/Left Arrow) KEYS TO MOVE ALONG THE WORDS AND CHECK WITH THE LEFT SIDE. PLEASE DELETE *THIS* NOTE IF YOU ARE READY TO CHECK AND APPROVE.
+Wie het goede doet, man of vrouw, en hij gelooft: voorwaar, aan hem geven Wij een goed leven. En Wij zullen hen zeker belonen met hun beloning, volgens het beste van wat zÜij plachten te doen. THIS TEXT HAS BEEN AUTOMATICALLY GENERATED (OCR) AND REQUIRES FIXING/CHECKING. USE THE CTRL+(Right/Left Arrow) KEYS TO MOVE ALONG THE WORDS AND CHECK WITH THE LEFT SIDE. PLEASE DELETE \*THIS\* NOTE IF YOU ARE READY TO CHECK AND APPROVE.
 
 # 1999
 
@@ -10882,7 +10882,7 @@ Daarna zonden Wij Môesa en zijn broeder Hârôen met Onze Tekenen en een duidel
 
 # 2719
 
-Naar Fir`aun en zijn vooraanstaanden. En zij waren hoogmoedig en zij waren een hooghartig volk.
+Naar Fir\`aun en zijn vooraanstaanden. En zij waren hoogmoedig en zij waren een hooghartig volk.
 
 # 2720
 
@@ -16466,7 +16466,7 @@ Zodat er voor geen ziel aanleiding zal zijn om te zeggen: "O wat heb ik een spij
 
 # 4115
 
-Of zij zou zeggen: "Als Allah mij had geleid, dan zou ik zeker tot de Moettaqôen hebben behoord!"|
+Of zij zou zeggen: "Als Allah mij had geleid, dan zou ik zeker tot de Moettaqôen hebben behoord!"\|
 
 # 4116
 
@@ -24670,7 +24670,7 @@ En wat betreft degene van wie zijn weegschaal licht weegt.
 
 # 6166
 
-Zijn verblijfplaats is dan Hawiyah*2 (de Hel).
+Zijn verblijfplaats is dan Hawiyah\*2 (de Hel).
 
 # 6167
 
@@ -24782,7 +24782,7 @@ Zo maakte Hij hen als (door wormen) aangevreten bladeren.
 
 # 6194
 
-Vanwege de gewoonte*1 van de Qoeraisj.
+Vanwege de gewoonte\*1 van de Qoeraisj.
 
 # 6195
 

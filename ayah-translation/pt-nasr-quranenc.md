@@ -2708,7 +2708,7 @@ Consultam-te, Muhammad. Dize: "Allah vos instrui sobre "al-kalãlah". Se um home
 
 # 670
 
-Ó vós que credes! Sede fiéis aos compromissos. É-vos lícito o animal dos rebanhos, exceto o que se recita para vós, e não torneis lícita a caça, enquanto estais hurum[4] (na umra ou peregrinação). Por certo, Allah decide o que deseja.
+Ó vós que credes! Sede fiéis aos compromissos. É-vos lícito o animal dos rebanhos, exceto o que se recita para vós, e não torneis lícita a caça, enquanto estais hurum\[4\] (na umra ou peregrinação). Por certo, Allah decide o que deseja.
 
 # 671
 
@@ -2728,7 +2728,7 @@ Hoje, são-vos lícitas as cousas benignas. E o alimento daqueles, aos quais for
 
 # 675
 
-Ó vós que credes! Quando vos levantardes para a oração, lavai as faces e as mãos até os cotovelos - e, com as mãos molhadas, roçai as cabeças - e lavai os pés até os tornozelos. E, se estais impuros[1] (após a relação), purificai-vos. E, se estais enfermos ou em viagem, ou se um de vós chega de onde se fazem as necessidades, ou se haveis tocado as mulheres, e não encontrais água, dirigi-vos a uma superfície pura, tocai-a com as mãos e roçai as faces e os braços, à guisa de ablução. Allah não deseja fazer-vos constrangimento algum, mas deseja purificar-vos e completar Sua graça para convosco, para serdes agradecidos.
+Ó vós que credes! Quando vos levantardes para a oração, lavai as faces e as mãos até os cotovelos - e, com as mãos molhadas, roçai as cabeças - e lavai os pés até os tornozelos. E, se estais impuros\[1\] (após a relação), purificai-vos. E, se estais enfermos ou em viagem, ou se um de vós chega de onde se fazem as necessidades, ou se haveis tocado as mulheres, e não encontrais água, dirigi-vos a uma superfície pura, tocai-a com as mãos e roçai as faces e os braços, à guisa de ablução. Allah não deseja fazer-vos constrangimento algum, mas deseja purificar-vos e completar Sua graça para convosco, para serdes agradecidos.
 
 # 676
 
@@ -4865,7 +4865,7 @@ E, se voltam as costas, sabei que Allah é vosso Protetor. Que Excelente Proteto
 
 # 1201
 
-E sabei que, de tudo que espoliardes, a quinta parte será de Allah, e do Mensageiro, e dos parentes deste, e dos órfãos, e dos necessitados, e do filho do caminho se credes em Allah e no que fizemos descer sobre Nosso servo, no Dia de al-Furqãn[3] (batalha), no dia em que se depararam as duas hostes, e Allah, sobre todas as cousas, é Onipotente.
+E sabei que, de tudo que espoliardes, a quinta parte será de Allah, e do Mensageiro, e dos parentes deste, e dos órfãos, e dos necessitados, e do filho do caminho se credes em Allah e no que fizemos descer sobre Nosso servo, no Dia de al-Furqãn\[3\] (batalha), no dia em que se depararam as duas hostes, e Allah, sobre todas as cousas, é Onipotente.
 
 # 1202
 
@@ -6133,7 +6133,7 @@ Ele disse: "Abrigar-me-ei em uma montanha, que me protegerá da água." Noé dis
 
 # 1517
 
-E foi dito: "Ó terra! Engole tua água" e "Ó céu! Detém-te". E a água diminuiu e a ordem foi encerrada, e ele se instalou em Al-Judy(Iraque).[2] E foi dito: "Para trás! Para o povo injusto!"
+E foi dito: "Ó terra! Engole tua água" e "Ó céu! Detém-te". E a água diminuiu e a ordem foi encerrada, e ele se instalou em Al-Judy(Iraque).\[2\] E foi dito: "Para trás! Para o povo injusto!"
 
 # 1518
 
@@ -6285,7 +6285,7 @@ Eles disseram: "Ó Lot! Somos os Mensageiros de teu Senhor; eles não te chegar�
 
 # 1555
 
-E, quando Nossa ordem chegou, revolvemos as cidades de cima para baixo e fizemos chover sobre elas pedras de sijjil(barro cozido)[2] sem interrupção,
+E, quando Nossa ordem chegou, revolvemos as cidades de cima para baixo e fizemos chover sobre elas pedras de sijjil(barro cozido)\[2\] sem interrupção,
 
 # 1556
 
@@ -7574,7 +7574,7 @@ Então, o Grito apanhou-os, ao nascer do sol.
 
 # 1876
 
-E revolvemo-las de cima para baixo, e fizemos chover sobre eles pedras de sijjil[2](pedras de barro cozido).
+E revolvemo-las de cima para baixo, e fizemos chover sobre eles pedras de sijjil\[2\](pedras de barro cozido).
 
 # 1877
 
@@ -9212,7 +9212,7 @@ O bebê disse: "Por certo, sou o servo de Allah. Ele me concederá o Livro e me 
 
 # 2284
 
-- Esse é Jesus, filho de Maria. É o Dito da verdade, que eles contestam.
+\- Esse é Jesus, filho de Maria. É o Dito da verdade, que eles contestam.
 
 # 2285
 
@@ -10792,7 +10792,7 @@ E os que são custódios de seu sexo.
 
 # 2679
 
-- Exceto com suas mulheres, ou com as escravas que possuem; então, por certo, não serão censurados.
+\- Exceto com suas mulheres, ou com as escravas que possuem; então, por certo, não serão censurados.
 
 # 2680
 
@@ -12509,7 +12509,7 @@ E, por certo, teu Senhor é O Todo-Poderoso, O Misericordiador.
 
 # 3108
 
-Os habitantes de Al-Aikah[1] (o povo do profeta Chuaib) desmentiram aos Mensageiros
+Os habitantes de Al-Aikah\[1\] (o povo do profeta Chuaib) desmentiram aos Mensageiros
 
 # 3109
 
@@ -12705,7 +12705,7 @@ E aos poetas, seguem-nos os desviados.
 
 # 3157
 
-- Não viste que eles vagueiam por todos os vales,
+\- Não viste que eles vagueiam por todos os vales,
 
 # 3158
 
@@ -13449,7 +13449,7 @@ Os homens supõem que, por dizerem: "Cremos", serão deixados, enquanto não pro
 
 # 3343
 
-- E, com efeito, provamos os que foram antes deles. E, em verdade, Allah sabe dos que dizem a verdade e sabe dos mentirosos. -
+\- E, com efeito, provamos os que foram antes deles. E, em verdade, Allah sabe dos que dizem a verdade e sabe dos mentirosos. -
 
 # 3344
 
@@ -14293,7 +14293,7 @@ Supunham que os partidos não houvessem ido embora. E, se os partidos chegassem 
 
 # 3554
 
-- Com efeito, há, para vós, no Mensageiro de Allah, belo paradigma, para quem espera em Allah, e no Derradeiro Dia, e se lembra amiúde de Allah. -
+\- Com efeito, há, para vós, no Mensageiro de Allah, belo paradigma, para quem espera em Allah, e no Derradeiro Dia, e se lembra amiúde de Allah. -
 
 # 3555
 
@@ -15517,7 +15517,7 @@ E, com efeito, antes deles, a maioria dos antepassados descaminhou-se.
 
 # 3860
 
-- E, com efeito, enviamo-Ihes admoestadores.
+\- E, com efeito, enviamo-Ihes admoestadores.
 
 # 3861
 
@@ -15865,7 +15865,7 @@ E fizeram, entre Ele e os gênios, parentesco. E, com efeito, sabem os gênios q
 
 # 3947
 
-- Glorificado seja Allah, acima do que alegam! -
+\- Glorificado seja Allah, acima do que alegam! -
 
 # 3948
 
@@ -16129,7 +16129,7 @@ Ordenamo-Ihe: "Bate na terra com o pé: eis uma água fresca para te lavares e b
 
 # 4013
 
-- E dadivamo-lo com sua família e, com ela, outra igual por misericórdia vinda de Nós e lembrança para os dotados de discernimento -
+\- E dadivamo-lo com sua família e, com ela, outra igual por misericórdia vinda de Nós e lembrança para os dotados de discernimento -
 
 # 4014
 
@@ -16929,7 +16929,7 @@ Allah é Quem vos fez os rebanhos, para neles cavalgardes e deles comerdes.
 
 # 4213
 
-- E tendes neles outros proveitos - e para, montados neles, atingirdes algum desejo de vossos peitos. E, sobre eles e sobre os barcos, sois carregados.
+\- E tendes neles outros proveitos - e para, montados neles, atingirdes algum desejo de vossos peitos. E, sobre eles e sobre os barcos, sois carregados.
 
 # 4214
 
@@ -17525,7 +17525,7 @@ E a quem fica desatento à lembrança dO Misericordioso, destinamo-lhe um demôn
 
 # 4362
 
-- E, por certo, eles os afastam do caminho, enquanto supõem estar sendo guiados -
+\- E, por certo, eles os afastam do caminho, enquanto supõem estar sendo guiados -
 
 # 4363
 
@@ -19529,7 +19529,7 @@ Então, como foi Meu castigo e Minhas admoestações?
 
 # 4863
 
-- E, com efeito, facilitamos o Alcorão, para a recordação. Então, há quem disso se recorde? -
+\- E, com efeito, facilitamos o Alcorão, para a recordação. Então, há quem disso se recorde? -
 
 # 4864
 
@@ -19549,7 +19549,7 @@ Então, como foi Meu castigo e Minhas admoestações?
 
 # 4868
 
-- E, com efeito, facilitamos o Alcorão, para a recordação. Então, há quem disso se recorde? -
+\- E, com efeito, facilitamos o Alcorão, para a recordação. Então, há quem disso se recorde? -
 
 # 4869
 
@@ -19589,7 +19589,7 @@ Por certo, enviamos contra eles um só Grito, e ficaram como resíduos de palha 
 
 # 4878
 
-- E, com efeito, facilitamos o Alcorão, para a recordação. Então, há quem disso se recorde? -
+\- E, com efeito, facilitamos o Alcorão, para a recordação. Então, há quem disso se recorde? -
 
 # 4879
 
@@ -19621,7 +19621,7 @@ E, com efeito, de manhã, na alvorada, um castigo permanente surpreendeu-os.
 
 # 4886
 
-- E, com efeito, facilitamos o Alcorão, para a recordação. Então, há quem disso se recorde? -
+\- E, com efeito, facilitamos o Alcorão, para a recordação. Então, há quem disso se recorde? -
 
 # 4887
 
@@ -19665,7 +19665,7 @@ E Nossa ordem não é senão uma só palavra, rápida como o piscar da vista.
 
 # 4897
 
-- E, com efeito, aniquilamos vossos semelhantes. Então, há quem disso se recorde? -
+\- E, com efeito, aniquilamos vossos semelhantes. Então, há quem disso se recorde? -
 
 # 4898
 
@@ -19733,7 +19733,7 @@ E os grãos em palhas, e as plantas aromáticas.
 
 # 4914
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis?
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis?
 
 # 4915
 
@@ -19745,7 +19745,7 @@ E criou o jinn de pura chama de fogo.
 
 # 4917
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4918
 
@@ -19753,7 +19753,7 @@ O Senhor dos dois levantes e O Senhor dos dois poentes.
 
 # 4919
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4920
 
@@ -19765,7 +19765,7 @@ Entre ambos, há uma barreira; nenhum dos dois comete transgressão.
 
 # 4922
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4923
 
@@ -19773,7 +19773,7 @@ De ambos saem as pérolas e o coral.
 
 # 4924
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4925
 
@@ -19781,7 +19781,7 @@ E são dEle as naus correntes, por vós feitas, como montanhas, no mar.
 
 # 4926
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4927
 
@@ -19793,7 +19793,7 @@ E só permanecerá a face de teu Senhor, Possuidor de majestade e honorabilidade
 
 # 4929
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4930
 
@@ -19801,7 +19801,7 @@ Pede-lhe benevolência quem está nos céus e na terra. Em cada dia, Ele executa
 
 # 4931
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4932
 
@@ -19809,7 +19809,7 @@ Nós nos dedicaremos a vós ambos, ó humanos e gênios.
 
 # 4933
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4934
 
@@ -19817,7 +19817,7 @@ Nós nos dedicaremos a vós ambos, ó humanos e gênios.
 
 # 4935
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4936
 
@@ -19825,7 +19825,7 @@ Enviar-se-ão contra vós ambos chamas de fogo e cobre fundido; e não sereis so
 
 # 4937
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4938
 
@@ -19833,7 +19833,7 @@ E, quando o céu fender e se tornar róseo como a pele,
 
 # 4939
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4940
 
@@ -19841,7 +19841,7 @@ Então, nesse dia, não será interrogado, acerca de seu delito, nem humano nem 
 
 # 4941
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4942
 
@@ -19849,7 +19849,7 @@ Serão reconhecidos os criminosos por seus semblantes e serão apanhados pelos t
 
 # 4943
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4944
 
@@ -19861,7 +19861,7 @@ Eles circularão entre ela e água ebuliente, escaldante.
 
 # 4946
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4947
 
@@ -19869,7 +19869,7 @@ E para quem teme a preeminência de seu senhor, haverá dois Jardins.
 
 # 4948
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4949
 
@@ -19877,7 +19877,7 @@ Ambos de ramos florescentes.
 
 # 4950
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4951
 
@@ -19885,7 +19885,7 @@ Em ambos, correm duas fontes.
 
 # 4952
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4953
 
@@ -19893,7 +19893,7 @@ Em ambos, há, de cada fruta, duas espécies.
 
 # 4954
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4955
 
@@ -19901,7 +19901,7 @@ Reclinados estarão sobre acolchoados, cujos forros são de brocado. E os frutos
 
 # 4956
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4957
 
@@ -19909,7 +19909,7 @@ Neles, haverá donzelas de olhares restritos a seus amados. Não as tocou, antes
 
 # 4958
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4959
 
@@ -19917,7 +19917,7 @@ Como se fossem o rubi e o coral.
 
 # 4960
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4961
 
@@ -19925,7 +19925,7 @@ Há outra recompensa da benevolência senão benevolência?
 
 # 4962
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4963
 
@@ -19933,7 +19933,7 @@ E, além de ambos, haverá dois outros Jardins.
 
 # 4964
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4965
 
@@ -19941,7 +19941,7 @@ Ambos verde-escuros.
 
 # 4966
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4967
 
@@ -19949,7 +19949,7 @@ Em ambos, haverá duas fontes jorrando.
 
 # 4968
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4969
 
@@ -19957,7 +19957,7 @@ Em ambos, haverá frutas, e tamareiras, e romãs.
 
 # 4970
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4971
 
@@ -19965,7 +19965,7 @@ Neles, haverá fidalgas, formosas
 
 # 4972
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4973
 
@@ -19973,7 +19973,7 @@ Húris, reclusas nas tendas.
 
 # 4974
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4975
 
@@ -19981,7 +19981,7 @@ Não as tocou, antes deles, nem humano nem jinn.
 
 # 4976
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4977
 
@@ -19989,7 +19989,7 @@ Reclinados estarão sobre almofadas verdes e formosos tapetes.
 
 # 4978
 
-- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
+\- Então, qual das mercês de vosso Senhor vós ambos desmentis? -
 
 # 4979
 
@@ -20069,7 +20069,7 @@ Com copos e jarros e taça de fonte fluida
 
 # 4998
 
-- Com essa, não sofrerão dor cefálica nem se embriagarão -
+\- Com essa, não sofrerão dor cefálica nem se embriagarão -
 
 # 4999
 
@@ -20297,7 +20297,7 @@ E juro pelas posições das estrelas.
 
 # 5055
 
-- E, por certo, é magnífico juramento, se soubésseis. -
+\- E, por certo, é magnífico juramento, se soubésseis. -
 
 # 5056
 
@@ -20333,7 +20333,7 @@ Enquanto, nesse momento, o olhais,
 
 # 5064
 
-- E Nós estamos mais Próximos dele, que vós, mas vós não o enxergais -
+\- E Nós estamos mais Próximos dele, que vós, mas vós não o enxergais -
 
 # 5065
 
@@ -21381,7 +21381,7 @@ Que é a Incontestável?
 
 # 5326
 
-- E o que te faz inteirar-te do que é a Incontestável? -
+\- E o que te faz inteirar-te do que é a Incontestável? -
 
 # 5327
 
@@ -21689,7 +21689,7 @@ E os que estão amedrontados do castigo de seu Senhor
 
 # 5403
 
-- Por certo, não há garantia alguma contra o castigo de seu Senhor; -
+\- Por certo, não há garantia alguma contra o castigo de seu Senhor; -
 
 # 5404
 
@@ -21929,7 +21929,7 @@ Dize: "Foi-me revelado que um pequeno grupo de jinns ouviu minha recitação; en
 
 # 5463
 
-- E, se eles permanecessem retos, no caminho da Verdade, fá-los-íamos beber água abundante,
+\- E, se eles permanecessem retos, no caminho da Verdade, fá-los-íamos beber água abundante,
 
 # 5464
 
@@ -21953,7 +21953,7 @@ Dize: "Por certo, não possuo, para vós, prejuízo nem retidão"
 
 # 5469
 
-- Dize: "Por certo, ninguém me protegerá de Allah, e não encontrarei, fora dEle, refugio algum"-
+\- Dize: "Por certo, ninguém me protegerá de Allah, e não encontrarei, fora dEle, refugio algum"-
 
 # 5470
 
@@ -21961,7 +21961,7 @@ Dize: "Por certo, não possuo, para vós, prejuízo nem retidão"
 
 # 5471
 
-- Eles permanecerão descrentes até que, quando virem o que lhes foi prometido, saberão quem está com socorredor mais frágil e inferior em número -
+\- Eles permanecerão descrentes até que, quando virem o que lhes foi prometido, saberão quem está com socorredor mais frágil e inferior em número -
 
 # 5472
 
@@ -22165,7 +22165,7 @@ Fá-lo-ei queimar-se em Saqar,
 
 # 5522
 
-- E o que te faz inteirar-te do que é Saqar? -
+\- E o que te faz inteirar-te do que é Saqar? -
 
 # 5523
 
@@ -22181,7 +22181,7 @@ Sobre ele, há dezenove guardiães.
 
 # 5526
 
-- E não fizemos por guardiães do Fogo senão anjos. E não fizemos seu número senão como provação para os que renegam a Fé, para que aqueles aos quais fora concedido o Livro se convençam disso; e para que os que crêem se acrescentem em fé; e para que aqueles aos quais fora concedido o Livro e os crentes não duvidem; e para que aqueles, em cujos corações há enfermidade, e os renegadores da Fé, digam: "Que deseja Allah com isto, como exemplo?" Assim, Allah descaminha a quem quer e guia a quem quer. E ninguém sabe dos exércitos de teu Senhor senão Ele. - E ela não é senão lembrança para os mortais.
+\- E não fizemos por guardiães do Fogo senão anjos. E não fizemos seu número senão como provação para os que renegam a Fé, para que aqueles aos quais fora concedido o Livro se convençam disso; e para que os que crêem se acrescentem em fé; e para que aqueles aos quais fora concedido o Livro e os crentes não duvidem; e para que aqueles, em cujos corações há enfermidade, e os renegadores da Fé, digam: "Que deseja Allah com isto, como exemplo?" Assim, Allah descaminha a quem quer e guia a quem quer. E ninguém sabe dos exércitos de teu Senhor senão Ele. - E ela não é senão lembrança para os mortais.
 
 # 5527
 
@@ -22277,7 +22277,7 @@ Não! Ele, por certo, é uma lembrança.
 
 # 5550
 
-- Então, quem quiser, disso se lembrará -
+\- Então, quem quiser, disso se lembrará -
 
 # 5551
 
@@ -22345,7 +22345,7 @@ Ainda que lance suas escusas.
 
 # 5567
 
-- Não movimentes, com ele, tua língua, para te apressares a recitá-lo.
+\- Não movimentes, com ele, tua língua, para te apressares a recitá-lo.
 
 # 5568
 
@@ -22613,7 +22613,7 @@ E quando os Mensageiros se reunirem, em tempo marcado,
 
 # 5634
 
-- Para que dia foram estes postergados?
+\- Para que dia foram estes postergados?
 
 # 5635
 
@@ -22905,7 +22905,7 @@ E taça repleta.
 
 # 5707
 
-- Neles, não ouvirão frivolidades nem mentira -
+\- Neles, não ouvirão frivolidades nem mentira -
 
 # 5708
 
@@ -23097,7 +23097,7 @@ Perguntam-te pela Hora: "Quando será sua ancoragem?"
 
 # 5755
 
-- Que sabes tu acerca de sua lembrança? -
+\- Que sabes tu acerca de sua lembrança? -
 
 # 5756
 
@@ -23157,7 +23157,7 @@ Em absoluto, não o faças mais! Por certo, esses são uma lembrança.
 
 # 5770
 
-- Então, quem quiser, disso se lembrará -
+\- Então, quem quiser, disso se lembrará -
 
 # 5771
 
@@ -23461,7 +23461,7 @@ E dele nunca estarão ausentes.
 
 # 5846
 
-- E o que te faz inteirar-te do Dia do Juízo?
+\- E o que te faz inteirar-te do Dia do Juízo?
 
 # 5847
 
@@ -23501,7 +23501,7 @@ Em absoluto, não pensam! Por certo, o livro dos ímpios está no Sijjin.
 
 # 5856
 
-- E o que te faz inteirar-te do que é o Sijjin? -
+\- E o que te faz inteirar-te do que é o Sijjin? -
 
 # 5857
 
@@ -23545,7 +23545,7 @@ Ora, por certo, o livro dos virtuosos está no Illiyin
 
 # 5867
 
-- E o que te faz inteirar-te do que é o Illiyun?
+\- E o que te faz inteirar-te do que é o Illiyun?
 
 # 5868
 
@@ -23809,7 +23809,7 @@ Pelo céu e pelo astro noturno,
 
 # 5933
 
-- E o que te faz inteirar-te do que é o astro noturno?
+\- E o que te faz inteirar-te do que é o astro noturno?
 
 # 5934
 
@@ -24177,7 +24177,7 @@ Juro por esta Cidade!
 
 # 6025
 
-- E tu estás residente nesta Cidade -
+\- E tu estás residente nesta Cidade -
 
 # 6026
 

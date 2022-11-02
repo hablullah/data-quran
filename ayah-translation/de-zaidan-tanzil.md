@@ -7502,7 +7502,7 @@ Er sagte: "(Heiratet) diese meine Töchter, solltet ihr es tun wollen."
 
 # 1874
 
-- Mein Schwur bei deinem Leben: sie sind durch ihr heftiges Verlangen verwirrt -
+\- Mein Schwur bei deinem Leben: sie sind durch ihr heftiges Verlangen verwirrt -
 
 # 1875
 
@@ -12642,7 +12642,7 @@ und daß sie das sagen, was sie nicht tun?
 
 # 3159
 
-- außer denjenigen, die den Iman verinnerlichten, gottgefällig Gutes taten, ALLAHs öfters gedenken und kämpften, nachdem ihnen Unrecht zugefügt wurde. Und diejenigen, die Unrecht begingen, werden noch wissen, zu welcher Rückkehr sie zurückkehren werden.
+\- außer denjenigen, die den Iman verinnerlichten, gottgefällig Gutes taten, ALLAHs öfters gedenken und kämpften, nachdem ihnen Unrecht zugefügt wurde. Und diejenigen, die Unrecht begingen, werden noch wissen, zu welcher Rückkehr sie zurückkehren werden.
 
 # 3160
 
@@ -21882,7 +21882,7 @@ Sag: Gewiß, ich verfüge für euch weder über Schädigendes, noch über Gutes
 
 # 5469
 
-- Sag: "Mir wird keiner Schutz vor ALLAH gewähren, und ich werde außer bei Ihm keinen Zufluchtsort finden!" -
+\- Sag: "Mir wird keiner Schutz vor ALLAH gewähren, und ich werde außer bei Ihm keinen Zufluchtsort finden!" -
 
 # 5470
 

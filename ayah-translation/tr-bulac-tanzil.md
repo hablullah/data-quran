@@ -14,7 +14,7 @@ Rahman Rahim olan Allah'ın adıyla
 
 # 2
 
-Hamd* Alemlerin Rabbinedir.
+Hamd\* Alemlerin Rabbinedir.
 
 # 3
 

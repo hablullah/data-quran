@@ -666,7 +666,7 @@ Estes serão cobertos pelas bênçãos e pela misericórdia de seu Senhor, e est
 
 # 165
 
-As colinas de Assafa e Almarwa fazem parte dos rituais de Deus e, quem peregrinar à Casa, ou cumprir a `umra, nãocometerá pecado algum em percorrer a distância entre elas. Quem fizer espontaneamente além do que for obrigatório, saibaque Deus é Retribuidor, Sapientíssimo.
+As colinas de Assafa e Almarwa fazem parte dos rituais de Deus e, quem peregrinar à Casa, ou cumprir a \`umra, nãocometerá pecado algum em percorrer a distância entre elas. Quem fizer espontaneamente além do que for obrigatório, saibaque Deus é Retribuidor, Sapientíssimo.
 
 # 166
 
@@ -20246,7 +20246,7 @@ Que não tocam, senão os purificados!
 
 # 5060
 
-- Porventura, desdenhais esta Mensagem?
+\- Porventura, desdenhais esta Mensagem?
 
 # 5061
 
@@ -20262,7 +20262,7 @@ E ficais, nesse instante, a olhá-lo.
 
 # 5064
 
-- E Nós, ainda que não Nos vejais, estamos mais perto dele do que vós -
+\- E Nós, ainda que não Nos vejais, estamos mais perto dele do que vós -
 
 # 5065
 
@@ -22542,7 +22542,7 @@ E quando os mensageiros forem citados!
 
 # 5634
 
-- Para que dia foi deferido (o portento)? -
+\- Para que dia foi deferido (o portento)? -
 
 # 5635
 
@@ -24106,7 +24106,7 @@ Qual! Juro por esta metrópole (Makka),
 
 # 6025
 
-- E tu és um dos habitantes desta metrópole -
+\- E tu és um dos habitantes desta metrópole -
 
 # 6026
 
@@ -24618,7 +24618,7 @@ Que o homem é ingrato para com o seu Senhor.
 
 # 6153
 
-- Ele mesmo é testemunha disso! -
+\- Ele mesmo é testemunha disso! -
 
 # 6154
 

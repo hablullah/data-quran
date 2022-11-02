@@ -4456,7 +4456,7 @@ Yanlarındaki Tevrat ve İncil'de yazılı buldukları o elçiye, o ümmi Peygam
 
 # 1112
 
-De ki: Ey insanlar! Gerçekten ben sizin hepinize, göklerin ve yerin sahibi olan Allah'ın elçisiyim. Ondan başka tanrı yoktur, O diriltir ve öldürür. Öyle ise Allah`a ve ümmi Peygamber olan Resulüne -ki o, Allah'a ve onun sözlerine inanır iman edin ve O'na uyun ki doğru yolu bulasınız.
+De ki: Ey insanlar! Gerçekten ben sizin hepinize, göklerin ve yerin sahibi olan Allah'ın elçisiyim. Ondan başka tanrı yoktur, O diriltir ve öldürür. Öyle ise Allah\`a ve ümmi Peygamber olan Resulüne -ki o, Allah'a ve onun sözlerine inanır iman edin ve O'na uyun ki doğru yolu bulasınız.
 
 # 1113
 

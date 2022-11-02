@@ -38,7 +38,7 @@ de weg van hen aan wie U genade geschonken hebt, op wie geen toorn rust en die n
 
 # 8
 
-A[lif] Lfaam] M[iem].
+A\[lif\] Lfaam\] M\[iem\].
 
 # 9
 
@@ -206,7 +206,7 @@ Omkleedt de waarheid niet met onzin en verbergt haar niet; jullie weten wel bete
 
 # 50
 
-Verricht de salaat en geeft de zakaat en buigt met de buigenden. *
+Verricht de salaat en geeft de zakaat en buigt met de buigenden. \*
 
 # 51
 
@@ -398,7 +398,7 @@ Waarvoor zij zich verkocht hebben dat is pas slecht; dat zij niet geloven aan wa
 
 # 98
 
-En als er tot hen gezegd wordt: "Gelooft in wat God heeft neergezonden" zeggen zij: "Wij geloven in wat tot ons is neergezonden." En zij geloven niet in wat erna gekomen is, terwijl dat juist de waarheid is, ter bevestiging van wat zij hebben. Zeg: "Waarom hebben jullie dan vroeger Gods profeten gedood, als jullie gelovig zijn?" *
+En als er tot hen gezegd wordt: "Gelooft in wat God heeft neergezonden" zeggen zij: "Wij geloven in wat tot ons is neergezonden." En zij geloven niet in wat erna gekomen is, terwijl dat juist de waarheid is, ter bevestiging van wat zij hebben. Zeg: "Waarom hebben jullie dan vroeger Gods profeten gedood, als jullie gelovig zijn?" \*
 
 # 99
 
@@ -562,7 +562,7 @@ Toen zijn Heer tot hem zei: "Geef je over." zei hij: "Ik geef mij over aan de He
 
 # 139
 
-En dat droeg Ibrahiem aan zijn kinderen op; zo ook Ja'koeb: "O mijn kinderen, God heeft voor jullie de godsdienst gekozen. Jullie mogen dus alleen maar sterven als mensen die zich [aan God] hebben overgegeven."
+En dat droeg Ibrahiem aan zijn kinderen op; zo ook Ja'koeb: "O mijn kinderen, God heeft voor jullie de godsdienst gekozen. Jullie mogen dus alleen maar sterven als mensen die zich \[aan God\] hebben overgegeven."
 
 # 140
 
@@ -702,7 +702,7 @@ Wanneer zij die nagevolgd werden hen die hen volgden afwijzen en zij de bestraff
 
 # 174
 
-En zij die volgden zeggen: "Als er een terugkeer voor ons was dan zouden wij hen afwijzen zoals zij ons afgewezen hebben." Zo laat God hun hun daden zien als [reden tot] wroeging voor hen. En zij kunnen niet meer uit het vuur komen.
+En zij die volgden zeggen: "Als er een terugkeer voor ons was dan zouden wij hen afwijzen zoals zij ons afgewezen hebben." Zo laat God hun hun daden zien als \[reden tot\] wroeging voor hen. En zij kunnen niet meer uit het vuur komen.
 
 # 175
 
@@ -738,11 +738,11 @@ Zij zijn het die de dwaalweg ten koste van de leidraad gekocht hebben en de best
 
 # 183
 
-Dat [gebeurt], omdat God het boek met de waarheid heeft neergezonden. Zij die over het boek van mening verschillen zijn het vergaand oneens.
+Dat \[gebeurt\], omdat God het boek met de waarheid heeft neergezonden. Zij die over het boek van mening verschillen zijn het vergaand oneens.
 
 # 184
 
-Vroomheid is niet dat jullie je gezichten naar het oosten en het westen wendt, maar vroom is wie gelooft in God, in de laatste dag, in de engelen, in het boek en in de profeten en wie zijn bezit, hoe lief hij dat ook heeft, geeft aan de verwanten, de wezen, de behoeftigen, aan hem die onderweg is, aan de bedelaars en voor [de vrijkoop van] de slaven, en wie de salaat verricht en de zakaat geeft en wie hun verbintenis nakomen, als zij een verbintenis zijn aangegaan en wie volhardend zijn in tegenspoed en rampspoed en ten tijde van strijd. Zij zijn het die oprecht zijn en dat zijn de godvrezenden.
+Vroomheid is niet dat jullie je gezichten naar het oosten en het westen wendt, maar vroom is wie gelooft in God, in de laatste dag, in de engelen, in het boek en in de profeten en wie zijn bezit, hoe lief hij dat ook heeft, geeft aan de verwanten, de wezen, de behoeftigen, aan hem die onderweg is, aan de bedelaars en voor \[de vrijkoop van\] de slaven, en wie de salaat verricht en de zakaat geeft en wie hun verbintenis nakomen, als zij een verbintenis zijn aangegaan en wie volhardend zijn in tegenspoed en rampspoed en ten tijde van strijd. Zij zijn het die oprecht zijn en dat zijn de godvrezenden.
 
 # 185
 
@@ -754,7 +754,7 @@ Voor jullie is er in de vergelding leven, o verstandigen; misschien worden julli
 
 # 187
 
-Aan jullie is voorgeschreven, wanneer een van jullie de dood nabij is, als hij bezit heeft na te laten, om in redelijkheid een [testamentaire] beschikking te maken voor de ouders en de verwanten, als een verplichting voor de godvrezenden.
+Aan jullie is voorgeschreven, wanneer een van jullie de dood nabij is, als hij bezit heeft na te laten, om in redelijkheid een \[testamentaire\] beschikking te maken voor de ouders en de verwanten, als een verplichting voor de godvrezenden.
 
 # 188
 
@@ -770,7 +770,7 @@ Jullie die geloven! Aan jullie is voorgeschreven te vasten, zoals het was voorge
 
 # 191
 
-voor een bepaald aantal dagen. Maar als iemand van jullie ziek is of op reis, dan een aantal andere dagen. En zij die er wel toe in staat zijn [maar het niet doen] hebben als vervangende plicht een behoeftige te spijzigen, maar als iemand uit zichzelf iets goeds doet, is dat beter voor hem en dat jullie vasten is ook beter voor jullie, als jullie dat maar weten.
+voor een bepaald aantal dagen. Maar als iemand van jullie ziek is of op reis, dan een aantal andere dagen. En zij die er wel toe in staat zijn \[maar het niet doen\] hebben als vervangende plicht een behoeftige te spijzigen, maar als iemand uit zichzelf iets goeds doet, is dat beter voor hem en dat jullie vasten is ook beter voor jullie, als jullie dat maar weten.
 
 # 192
 
@@ -818,7 +818,7 @@ Geeft bijdragen op Gods weg en stort jullie niet eigenhandig in de ondergang, en
 
 # 203
 
-En volbrengt voor God de bedevaart en het bezoek. Als jullie verhinderd zijn, brengt dan zoveel offergave als gemakkelijk is en scheert jullie hoofden pas als de offergave zijn bestemming [om geslacht te worden] heeft bereikt, maar als iemand van jullie ziek is of een letsel aan zijn hoofd heeft, dan is er een compensatie die bestaat uit vasten of een aalmoes of een offerdier. Als jullie vrij van vrees zijn, dan moet wie van het bezoek tot aan de bedevaart profiteert zoveel offergave brengen als gemakkelijk is. Als iemand niets te geven vindt, dan een vasten van drie dagen tijdens de bedevaart en zeven wanneer jullie teruggekeerd zijn; dat zijn er in totaal tien. Dat is voor diegene van wie de familie niet bij de heilige moskee woonachtig is. Vreest God en weet dat God streng is in de afstraffing.
+En volbrengt voor God de bedevaart en het bezoek. Als jullie verhinderd zijn, brengt dan zoveel offergave als gemakkelijk is en scheert jullie hoofden pas als de offergave zijn bestemming \[om geslacht te worden\] heeft bereikt, maar als iemand van jullie ziek is of een letsel aan zijn hoofd heeft, dan is er een compensatie die bestaat uit vasten of een aalmoes of een offerdier. Als jullie vrij van vrees zijn, dan moet wie van het bezoek tot aan de bedevaart profiteert zoveel offergave brengen als gemakkelijk is. Als iemand niets te geven vindt, dan een vasten van drie dagen tijdens de bedevaart en zeven wanneer jullie teruggekeerd zijn; dat zijn er in totaal tien. Dat is voor diegene van wie de familie niet bij de heilige moskee woonachtig is. Vreest God en weet dat God streng is in de afstraffing.
 
 # 204
 
@@ -866,7 +866,7 @@ Onder de mensen is er ook hij die zichzelf verkoopt in zijn streven naar Gods te
 
 # 215
 
-Jullie die geloven! Treedt allen tezamen toe tot de overgave [aan God] en volgt de voetstappen van de satan niet, want hij is een verklaarde vijand van jullie.
+Jullie die geloven! Treedt allen tezamen toe tot de overgave \[aan God\] en volgt de voetstappen van de satan niet, want hij is een verklaarde vijand van jullie.
 
 # 216
 
@@ -886,7 +886,7 @@ Het tegenwoordige leven is voor hen die ongelovig zijn aantrekkelijk gemaakt en 
 
 # 220
 
-De mensen waren [oorspronkelijk] één gemeenschap. Vervolgens zond God de profeten als verkondigers van de blijde boodschap en als waarschuwers. [Telkens] zond Hij met hen het boek met de waarheid neer om tussen de mensen te oordelen over de dingen waarover zij het oneens waren. Maar degenen aan wie het gegeven was werden het er slechts uit onderlinge nijd over oneens, nadat de duidelijke bewijzen tot hen gekomen waren. Daarop heeft God in Zijn goedheid hen die geloven geleid tot de waarheid, waarover zij het oneens waren. God leidt wie Hij wil op een juiste weg.
+De mensen waren \[oorspronkelijk\] één gemeenschap. Vervolgens zond God de profeten als verkondigers van de blijde boodschap en als waarschuwers. \[Telkens\] zond Hij met hen het boek met de waarheid neer om tussen de mensen te oordelen over de dingen waarover zij het oneens waren. Maar degenen aan wie het gegeven was werden het er slechts uit onderlinge nijd over oneens, nadat de duidelijke bewijzen tot hen gekomen waren. Daarop heeft God in Zijn goedheid hen die geloven geleid tot de waarheid, waarover zij het oneens waren. God leidt wie Hij wil op een juiste weg.
 
 # 221
 
@@ -906,7 +906,7 @@ Zij vragen jou over de heilige maand, over het strijden erin. Zeg: "Erin te stri
 
 # 225
 
-Zij die geloven en zij die uitgeweken zijn en zich op Gods weg inspannen, zij zijn het die op Gods barmhartigheid hopen. God is vergevend en barmhartig. *
+Zij die geloven en zij die uitgeweken zijn en zich op Gods weg inspannen, zij zijn het die op Gods barmhartigheid hopen. God is vergevend en barmhartig. \*
 
 # 226
 
@@ -918,7 +918,7 @@ over het tegenwoordige leven en het hiernamaals. Zij vragen jou over de wezen. Z
 
 # 228
 
-Trouwt niet met veelgodendienaressen, zolang zij niet gelovig zijn geworden; een gelovige slavin is echt beter dan een veelgodendienares, ook al bevalt zij jullie. En laat [jullie vrouwen] niet trouwen met veelgodendienaars, zolang zij niet gelovig zijn geworden; een gelovige slaaf is echt beter dan een veelgodendienaar, ook al bevalt hij jullie. Zij zijn het die oproepen tot het vuur, maar God roept op tot de tuin en de vergeving met Zijn toestemming. Hij maakt Zijn tekenen duidelijk aan de mensen, misschien zullen jullie het overwegen.
+Trouwt niet met veelgodendienaressen, zolang zij niet gelovig zijn geworden; een gelovige slavin is echt beter dan een veelgodendienares, ook al bevalt zij jullie. En laat \[jullie vrouwen\] niet trouwen met veelgodendienaars, zolang zij niet gelovig zijn geworden; een gelovige slaaf is echt beter dan een veelgodendienaar, ook al bevalt hij jullie. Zij zijn het die oproepen tot het vuur, maar God roept op tot de tuin en de vergeving met Zijn toestemming. Hij maakt Zijn tekenen duidelijk aan de mensen, misschien zullen jullie het overwegen.
 
 # 229
 
@@ -970,11 +970,11 @@ Moeders zullen hun kinderen twee volle jaren zogen. Dat geldt voor wie tot het e
 
 # 241
 
-Als er uit jullie midden zijn die weggenomen worden en echtgenotes achterlaten, dan moeten zij zich aan een wachttijd van vier maanden en tien [dagen] houden. Wanneer zij dan haar termijn bereiken dan is wat zij in redelijkheid doen voor jullie geen overtreding. God is over wat jullie doen welingelicht.
+Als er uit jullie midden zijn die weggenomen worden en echtgenotes achterlaten, dan moeten zij zich aan een wachttijd van vier maanden en tien \[dagen\] houden. Wanneer zij dan haar termijn bereiken dan is wat zij in redelijkheid doen voor jullie geen overtreding. God is over wat jullie doen welingelicht.
 
 # 242
 
-Het is ook geen overtreding voor jullie als jullie toespelingen op een huwelijksaanzoek maken of [de gedachte eraan] in jullie binnenste koesteren. God weet dat jullie aan haar denken. Maar spreekt niets in het geheim met haar af, behalve als jullie behoorlijke dingen zeggen. Besluit niet het huwelijk te sluiten zolang niet de voorgeschreven termijn is bereikt. Weet dat God weet wat in jullie binnenste is. Weest voor Hem dus op jullie hoede en weet dat God vergevend en zachtmoedig is.
+Het is ook geen overtreding voor jullie als jullie toespelingen op een huwelijksaanzoek maken of \[de gedachte eraan\] in jullie binnenste koesteren. God weet dat jullie aan haar denken. Maar spreekt niets in het geheim met haar af, behalve als jullie behoorlijke dingen zeggen. Besluit niet het huwelijk te sluiten zolang niet de voorgeschreven termijn is bereikt. Weet dat God weet wat in jullie binnenste is. Weest voor Hem dus op jullie hoede en weet dat God vergevend en zachtmoedig is.
 
 # 243
 
@@ -994,7 +994,7 @@ Als jullie dan bang voor iets zijn doet het dan lopend of rijdend. Als jullie in
 
 # 247
 
-Als er uit jullie midden zijn die weggenomen worden en echtgenotes achterlaten, dan moeten zij ten behoeve van hun echtgenotes een [testamentaire] beschikking treffen voor haar levensonderhoud gedurende een jaar, zonder dat zij uitgezet worden. Als zijzelf uittrekken dan geldt het redelijke dat zij met betrekking tot zichzelf doen niet als overtreding voor jullie. God is machtig en wijs.
+Als er uit jullie midden zijn die weggenomen worden en echtgenotes achterlaten, dan moeten zij ten behoeve van hun echtgenotes een \[testamentaire\] beschikking treffen voor haar levensonderhoud gedurende een jaar, zonder dat zij uitgezet worden. Als zijzelf uittrekken dan geldt het redelijke dat zij met betrekking tot zichzelf doen niet als overtreding voor jullie. God is machtig en wijs.
 
 # 248
 
@@ -1038,7 +1038,7 @@ En toen zij optrokken tegen Djaloet en zijn troepen zeiden zij: "Onze Heer, verl
 
 # 258
 
-Toen versloegen zij hen met Gods toestemming en Dawoed doodde Djaloet en God gaf hem het koningschap en de wijsheid en Hij onderwees hem [veel] van wat Hij wilde. Als God niet sommige mensen door anderen had laten verdrijven dan zou de aarde volledig verdorven zijn, maar God is vol van goedgunstigheid jegens de wereldbewoners.
+Toen versloegen zij hen met Gods toestemming en Dawoed doodde Djaloet en God gaf hem het koningschap en de wijsheid en Hij onderwees hem \[veel\] van wat Hij wilde. Als God niet sommige mensen door anderen had laten verdrijven dan zou de aarde volledig verdorven zijn, maar God is vol van goedgunstigheid jegens de wereldbewoners.
 
 # 259
 
@@ -1082,7 +1082,7 @@ Zij die hun bezittingen als bijdrage op Gods weg geven, lijken bijvoorbeeld op e
 
 # 269
 
-Zij die hun bezittingen als bijdrage op Gods weg geven en dan het geven van hun bijdrage niet laten volgen door gepoch en ergernis, voor hen is hun loon bij hun Heer. Zij hebben niets te vrezen en zij zullen niet bedroefd zijn. *
+Zij die hun bezittingen als bijdrage op Gods weg geven en dan het geven van hun bijdrage niet laten volgen door gepoch en ergernis, voor hen is hun loon bij hun Heer. Zij hebben niets te vrezen en zij zullen niet bedroefd zijn. \*
 
 # 270
 
@@ -1118,7 +1118,7 @@ Welke bijdrage jullie geven en welke gelofte jullie doen, God weet het. De onrec
 
 # 278
 
-Als jullie openlijk aalmoezen geven, dan is dat mooi, maar als jullie dat in het verborgene doen en ze aan de armen geven dan is dat beter voor jullie en het verzoent iets van jullie slechte daden. God is over wat jullie doen welingelicht. *
+Als jullie openlijk aalmoezen geven, dan is dat mooi, maar als jullie dat in het verborgene doen en ze aan de armen geven dan is dat beter voor jullie en het verzoent iets van jullie slechte daden. God is over wat jullie doen welingelicht. \*
 
 # 279
 
@@ -1154,7 +1154,7 @@ Als jullie het niet doen, voorziet dan oorlog van God en Zijn gezant, maar als j
 
 # 287
 
-En als er iemand [vanwege zijn schuldeisers] in moeilijkheden is, [geeft] dan uitstel tot er betere omstandigheden zijn. Maar dat jullie het [hem] als aalmoes schenken is beter voor jullie als jullie dat maar wisten.
+En als er iemand \[vanwege zijn schuldeisers\] in moeilijkheden is, \[geeft\] dan uitstel tot er betere omstandigheden zijn. Maar dat jullie het \[hem\] als aalmoes schenken is beter voor jullie als jullie dat maar wisten.
 
 # 288
 
@@ -1182,7 +1182,7 @@ God legt niemand meer op dan hij kan dragen. Hem komt toe wat hij verdiend heeft
 
 # 294
 
-A[lif] L[aam] M[iem].
+A\[lif\] L\[aam\] M\[iem\].
 
 # 295
 
@@ -1206,7 +1206,7 @@ Hij is het die jullie in de moederschoot gevormd heeft, zoals Hij wil. Er is gee
 
 # 300
 
-Hij is het die tot jou het boek heeft neergezonden; een deel ervan bestaat uit eenduidige tekenen -- zij zijn de grondslag van het boek -- en een ander deel uit meerduidige. Zij nu die in hun hart een neiging naar het verkeerde hebben volgen bij hun streven naar verzoeking en bij hun streven naar [eigenzinnige] verklaring dat deel ervan dat meerduidig is. Maar de verklaring ervan kent niemand behalve God. En zij die een diepgewortelde kennis hebben zeggen: "Wij geloven erin. Het komt alles van onze Heer." Maar alleen de verstandigen laten zich vermanen.
+Hij is het die tot jou het boek heeft neergezonden; een deel ervan bestaat uit eenduidige tekenen -- zij zijn de grondslag van het boek -- en een ander deel uit meerduidige. Zij nu die in hun hart een neiging naar het verkeerde hebben volgen bij hun streven naar verzoeking en bij hun streven naar \[eigenzinnige\] verklaring dat deel ervan dat meerduidig is. Maar de verklaring ervan kent niemand behalve God. En zij die een diepgewortelde kennis hebben zeggen: "Wij geloven erin. Het komt alles van onze Heer." Maar alleen de verstandigen laten zich vermanen.
 
 # 301
 
@@ -1234,7 +1234,7 @@ Er was een teken voor jullie in twee troepenmachten die elkaar ontmoetten. Een t
 
 # 307
 
-Voor de mensen is de liefde tot de begeerlijkheden aantrekkelijk gemaakt, zoals vrouwen, zonen, opgehoopte fortuinen van goud en zilver, gemerkte paarden, vee en bouwland. Dat is het genot van het tegenwoordige leven; maar God, bij Hem is de goede terugkomst. *
+Voor de mensen is de liefde tot de begeerlijkheden aantrekkelijk gemaakt, zoals vrouwen, zonen, opgehoopte fortuinen van goud en zilver, gemerkte paarden, vee en bouwland. Dat is het genot van het tegenwoordige leven; maar God, bij Hem is de goede terugkomst. \*
 
 # 308
 
@@ -1254,7 +1254,7 @@ God getuigt dat er geen god is dan Hij -- zo ook de engelen en zij die kennis be
 
 # 312
 
-De godsdienst bij God is de Islaam [de overgave aan God]. Zij aan wie het boek gegeven is zijn het uit onderlinge nijd pas oneens geworden, nadat de kennis tot hen was gekomen. En als iemand niet aan Gods tekenen gelooft, dan is God snel met de afrekening.
+De godsdienst bij God is de Islaam \[de overgave aan God\]. Zij aan wie het boek gegeven is zijn het uit onderlinge nijd pas oneens geworden, nadat de kennis tot hen was gekomen. En als iemand niet aan Gods tekenen gelooft, dan is God snel met de afrekening.
 
 # 313
 
@@ -1354,11 +1354,11 @@ O Marjam, wees jouw Heer onderdanig en buig je eerbiedig voor Hem neer en buig m
 
 # 337
 
-Dat zijn enige mededelingen over het verborgene die Wij aan jou openbaren. Jij was immers niet bij hen toen zij hun rietpennen wierpen om [door loting] uit te maken wie van hen de zorg voor Marjam op zich zou nemen en jij was ook niet bij hen toen zij twistten.
+Dat zijn enige mededelingen over het verborgene die Wij aan jou openbaren. Jij was immers niet bij hen toen zij hun rietpennen wierpen om \[door loting\] uit te maken wie van hen de zorg voor Marjam op zich zou nemen en jij was ook niet bij hen toen zij twistten.
 
 # 338
 
-Toen de engelen zeiden: "O Marjam, God kondigt jou een woord van Hem aan, wiens naam zal zijn de masieh, 'Isa, de zoon van Marjam. Hij zal in het tegenwoordige leven en het hiernamaals in hoog aanzien staan en behoren tot hen die in de nabijheid [van God] zijn.
+Toen de engelen zeiden: "O Marjam, God kondigt jou een woord van Hem aan, wiens naam zal zijn de masieh, 'Isa, de zoon van Marjam. Hij zal in het tegenwoordige leven en het hiernamaals in hoog aanzien staan en behoren tot hen die in de nabijheid \[van God\] zijn.
 
 # 339
 
@@ -1374,7 +1374,7 @@ En Hij zal hem het boek, de wijsheid, de Taura en de Indjiel onderwijzen.
 
 # 342
 
-En [God zal hem] als een gezant tot de Israëlieten [zenden, om te zeggen]: "Ik ben tot jullie gekomen met een teken van jullie Heer: Dat ik voor jullie uit klei iets als de vorm van een vogel zal scheppen, er dan in zal blazen en dat het dan met Gods toestemming een vogel zal zijn. Dat ik blindgeborenen en melaatsen zal genezen en doden levend maak, met Gods toestemming. En dat ik jullie meedeel wat jullie eten en wat jullie in jullie huizen opslaan. Daarin is een teken voor jullie als jullie gelovig zijn.
+En \[God zal hem\] als een gezant tot de Israëlieten \[zenden, om te zeggen\]: "Ik ben tot jullie gekomen met een teken van jullie Heer: Dat ik voor jullie uit klei iets als de vorm van een vogel zal scheppen, er dan in zal blazen en dat het dan met Gods toestemming een vogel zal zijn. Dat ik blindgeborenen en melaatsen zal genezen en doden levend maak, met Gods toestemming. En dat ik jullie meedeel wat jullie eten en wat jullie in jullie huizen opslaan. Daarin is een teken voor jullie als jullie gelovig zijn.
 
 # 343
 
@@ -1382,11 +1382,11 @@ En als bevestiger van wat er van de Taura voor mijn tijd al was en om aan jullie
 
 # 344
 
-God is mijn Heer en jullie Heer; dient Hem dus. Dit is een juiste weg." *
+God is mijn Heer en jullie Heer; dient Hem dus. Dit is een juiste weg." \*
 
 # 345
 
-Toen 'Isa ongeloof bij hen gewaarwerd zei hij: "Wie zijn mijn helpers [op de weg] tot God." De discipelen zeiden: "Wij zijn Gods helpers. Wij geloven in God. Getuig dat wij ons [aan God] hebben onderworpen.
+Toen 'Isa ongeloof bij hen gewaarwerd zei hij: "Wie zijn mijn helpers \[op de weg\] tot God." De discipelen zeiden: "Wij zijn Gods helpers. Wij geloven in God. Getuig dat wij ons \[aan God\] hebben onderworpen.
 
 # 346
 
@@ -1434,7 +1434,7 @@ Als zij zich dan afkeren, dan is God welingelicht over de verderfbrengers.
 
 # 357
 
-Zeg: "Mensen van het boek! Komt tot een uitspraak die voor jullie en voor ons gezamenlijk juist is. Dat wij alleen God dienen, dat wij niets aan Hem als metgezel toevoegen en dat wij elkaar niet tot heren naast God nemen." Als zij zich echter afkeren, zeg dan: "Getuigt dat wij [aan God] onderworpenen zijn."
+Zeg: "Mensen van het boek! Komt tot een uitspraak die voor jullie en voor ons gezamenlijk juist is. Dat wij alleen God dienen, dat wij niets aan Hem als metgezel toevoegen en dat wij elkaar niet tot heren naast God nemen." Als zij zich echter afkeren, zeg dan: "Getuigt dat wij \[aan God\] onderworpenen zijn."
 
 # 358
 
@@ -1446,7 +1446,7 @@ Zo zijn jullie nu. Jullie hebben daarover getwist waar jullie kennis van hebben,
 
 # 360
 
-Ibrahiem was niet jood, noch christen, maar hij was een aanhanger van het zuivere geloof, die zich [aan God] overgaf en hij behoorde niet tot de veelgodendienaars.
+Ibrahiem was niet jood, noch christen, maar hij was een aanhanger van het zuivere geloof, die zich \[aan God\] overgaf en hij behoorde niet tot de veelgodendienaars.
 
 # 361
 
@@ -1470,7 +1470,7 @@ Een groep van de mensen van het boek zegt: "Gelooft aan de aanvang van de dag in
 
 # 366
 
-En gelooft slechts hen die jullie godsdienst volgen." -- Zeg: "De leidraad is Gods leidraad" -- "[en gelooft niet] dat er aan iemand hetzelfde gegeven is als aan jullie of dat zij tegen jullie bij jullie Heer twisten." Zeg: "De goedgunstigheid is in Gods hand. Hij geeft haar aan wie Hij wil. God is alomvattend en wetend.
+En gelooft slechts hen die jullie godsdienst volgen." -- Zeg: "De leidraad is Gods leidraad" -- "\[en gelooft niet\] dat er aan iemand hetzelfde gegeven is als aan jullie of dat zij tegen jullie bij jullie Heer twisten." Zeg: "De goedgunstigheid is in Gods hand. Hij geeft haar aan wie Hij wil. God is alomvattend en wetend.
 
 # 367
 
@@ -1490,7 +1490,7 @@ Zij die Gods verbond en hun eden verkwanselen, dat zijn zij die geen aandeel aan
 
 # 371
 
-En onder hen is er een groep die hun tongen verdraaien bij [het voorlezen van] het boek, zodat jullie zullen denken dat het uit het boek is, terwijl het niet uit het boek is. En zij zeggen: "Het komt van God" terwijl het niet van God komt. Zij zeggen over God willens en wetens een leugen.
+En onder hen is er een groep die hun tongen verdraaien bij \[het voorlezen van\] het boek, zodat jullie zullen denken dat het uit het boek is, terwijl het niet uit het boek is. En zij zeggen: "Het komt van God" terwijl het niet van God komt. Zij zeggen over God willens en wetens een leugen.
 
 # 372
 
@@ -1498,7 +1498,7 @@ Het past geen mens dat God hem het boek, de oordeelskracht en het profeetschap g
 
 # 373
 
-En ook niet dat hij jullie beveelt de engelen en de profeten tot heren te nemen. Zou hij jullie bevelen ongelovig te zijn, nadat jullie je [aan God] hebben overgegeven?
+En ook niet dat hij jullie beveelt de engelen en de profeten tot heren te nemen. Zou hij jullie bevelen ongelovig te zijn, nadat jullie je \[aan God\] hebben overgegeven?
 
 # 374
 
@@ -1518,11 +1518,11 @@ Zeg: "Wij geloven in God en in wat op ons is neergezonden en in wat op Ibrahiem,
 
 # 378
 
-Wie iets anders dan de Islaam [de overgave aan God] als godsdienst wenst, van hem zal het dan niet worden aanvaard. Hij behoort in het hiernamaals tot de verliezers.
+Wie iets anders dan de Islaam \[de overgave aan God\] als godsdienst wenst, van hem zal het dan niet worden aanvaard. Hij behoort in het hiernamaals tot de verliezers.
 
 # 379
 
-Hoe zou God de goede richting [nog] wijzen aan mensen die ongelovig zijn geworden na geloofd te hebben, die getuigd hadden dat de gezant waarachtig is en tot wie de duidelijke bewijzen gekomen waren. God wijst de juiste richting niet aan de mensen die onrecht plegen.
+Hoe zou God de goede richting \[nog\] wijzen aan mensen die ongelovig zijn geworden na geloofd te hebben, die getuigd hadden dat de gezant waarachtig is en tot wie de duidelijke bewijzen gekomen waren. God wijst de juiste richting niet aan de mensen die onrecht plegen.
 
 # 380
 
@@ -1546,7 +1546,7 @@ Zij die ongelovig zijn en sterven terwijl zij ongelovig zijn, van geen van hen z
 
 # 385
 
-Jullie zullen de vroomheid niet bereiken totdat jullie van wat jullie liefhebben bijdragen geven. En wat jullie ook aan bijdragen geven, God weet ervan. *
+Jullie zullen de vroomheid niet bereiken totdat jullie van wat jullie liefhebben bijdragen geven. En wat jullie ook aan bijdragen geven, God weet ervan. \*
 
 # 386
 
@@ -1562,7 +1562,7 @@ Zeg: "God spreekt de waarheid; volgt dus het geloof van Ibrahiem die het zuivere
 
 # 389
 
-Het eerste huis dat voor de mensen werd neergezet is dat in Bakka [dwz. Mekka]; gezegend is het en een leidraad voor de wereldbewoners.
+Het eerste huis dat voor de mensen werd neergezet is dat in Bakka \[dwz. Mekka\]; gezegend is het en een leidraad voor de wereldbewoners.
 
 # 390
 
@@ -1586,7 +1586,7 @@ Maar hoe zouden jullie ongelovig kunnen zijn, terwijl Gods tekenen aan jullie wo
 
 # 395
 
-Jullie die geloven! Vreest God zoals het Hem toekomt; jullie mogen dus alleen maar sterven als [mensen] die zich [aan God] hebben overgegeven.
+Jullie die geloven! Vreest God zoals het Hem toekomt; jullie mogen dus alleen maar sterven als \[mensen\] die zich \[aan God\] hebben overgegeven.
 
 # 396
 
@@ -1594,7 +1594,7 @@ En houdt samen vast aan Gods band en splitst jullie niet op in groepen. Denkt aa
 
 # 397
 
-Laat er uit jullie een gemeenschap voortkomen [van mensen] die oproepen tot het goede, het behoorlijke gebieden en het verwerpelijke verbieden. Zij zijn het die het welgaat.
+Laat er uit jullie een gemeenschap voortkomen \[van mensen\] die oproepen tot het goede, het behoorlijke gebieden en het verwerpelijke verbieden. Zij zijn het die het welgaat.
 
 # 398
 
@@ -1626,11 +1626,11 @@ Zij zullen jullie geen schade berokkenen, alleen maar ongemak en als zij tegen j
 
 # 405
 
-Zij worden getroffen met vernedering waar men hen ook aantreft, behalve als zij een band met God of een band met de mensen hebben en zij halen zich Gods toorn op de hals en zij worden getroffen met onderwerping. Dat is omdat zij ongelovig waren aan Gods tekenen en de profeten zonder enig recht doodden. Dat is omdat zij opstandigen vijandig waren. *
+Zij worden getroffen met vernedering waar men hen ook aantreft, behalve als zij een band met God of een band met de mensen hebben en zij halen zich Gods toorn op de hals en zij worden getroffen met onderwerping. Dat is omdat zij ongelovig waren aan Gods tekenen en de profeten zonder enig recht doodden. Dat is omdat zij opstandigen vijandig waren. \*
 
 # 406
 
-Zij zijn niet [allen] gelijk. Onder de mensen van het boek is er een gemeenschap die standvastig Gods tekenen gedurende de nacht voorleest, terwijl zij zich eerbiedig neerbuigen.
+Zij zijn niet \[allen\] gelijk. Onder de mensen van het boek is er een gemeenschap die standvastig Gods tekenen gedurende de nacht voorleest, terwijl zij zich eerbiedig neerbuigen.
 
 # 407
 
@@ -1706,7 +1706,7 @@ En vreest het vuur dat voor de ongelovigen is klaargemaakt.
 
 # 425
 
-En gehoorzaamt God en de gezant; misschien zal aan jullie barmhartigheid bewezen worden. *
+En gehoorzaamt God en de gezant; misschien zal aan jullie barmhartigheid bewezen worden. \*
 
 # 426
 
@@ -1722,7 +1722,7 @@ en die, wanneer zij iets gruwelijks doen of zichzelf onrecht aandoen, God gedenk
 
 # 429
 
-Zij zijn het wier beloning de vergeving van hun Heer is en tuinen waar de rivieren onderdoor stromen. Zij zullen daarin altijd zijn. Dat is pas een goed loon voor hen die [goed] doen!
+Zij zijn het wier beloning de vergeving van hun Heer is en tuinen waar de rivieren onderdoor stromen. Zij zullen daarin altijd zijn. Dat is pas een goed loon voor hen die \[goed\] doen!
 
 # 430
 
@@ -1738,7 +1738,7 @@ Versaagt niet en treurt niet. Jullie hebben de overhand als jullie gelovig zijn.
 
 # 433
 
-Jullie mag dan een slag toegebracht zijn, hun was al een dergelijke slag toegebracht; in tijden van oorlog geven Wij afwisselend geluk aan de mensen. En [dit gebeurde] ook opdat God hen kent, die gelovig zijn en opdat Hij uit jullie midden getuigen kiest -- God bemint de onrechtplegers niet --
+Jullie mag dan een slag toegebracht zijn, hun was al een dergelijke slag toegebracht; in tijden van oorlog geven Wij afwisselend geluk aan de mensen. En \[dit gebeurde\] ook opdat God hen kent, die gelovig zijn en opdat Hij uit jullie midden getuigen kiest -- God bemint de onrechtplegers niet --
 
 # 434
 
@@ -1754,7 +1754,7 @@ Jullie hadden de dood gewenst voordat jullie hem tegenkwamen. Nu hebben jullie h
 
 # 437
 
-Mohammed is slechts een gezant; voor zijn tijd reeds waren de [andere] gezanten heengegaan. Wanneer hij dan zou sterven of gedood zou worden zouden jullie je dan op jullie hielen omdraaien? Maar wie zich op zijn hielen omdraait die brengt aan God geen enkele schade toe. God zal hen die dank betuigen belonen.
+Mohammed is slechts een gezant; voor zijn tijd reeds waren de \[andere\] gezanten heengegaan. Wanneer hij dan zou sterven of gedood zou worden zouden jullie je dan op jullie hielen omdraaien? Maar wie zich op zijn hielen omdraait die brengt aan God geen enkele schade toe. God zal hen die dank betuigen belonen.
 
 # 438
 
@@ -1786,7 +1786,7 @@ Wij zullen de harten van hen die ongelovig zijn schrik aanjagen, omdat zij aan G
 
 # 445
 
-God heeft Zijn toezegging waargemaakt toen jullie hen met Zijn toestemming vernietigend versloegen, totdat jullie opgaven, met elkaar erover twistten en ongehoorzaam waren geworden, nadat Hij jullie had laten zien wat jullie liefhebben. Onder jullie zijn er die het tegenwoordige leven wensen en onder jullie zijn er die het hiernamaals wensen. Toen leidde Hij jullie van hen af om jullie op de proef te stellen, maar Hij had jullie al vergiffenis geschonken. God is vol van goedgunstigheid jegens de gelovigen. *
+God heeft Zijn toezegging waargemaakt toen jullie hen met Zijn toestemming vernietigend versloegen, totdat jullie opgaven, met elkaar erover twistten en ongehoorzaam waren geworden, nadat Hij jullie had laten zien wat jullie liefhebben. Onder jullie zijn er die het tegenwoordige leven wensen en onder jullie zijn er die het hiernamaals wensen. Toen leidde Hij jullie van hen af om jullie op de proef te stellen, maar Hij had jullie al vergiffenis geschonken. God is vol van goedgunstigheid jegens de gelovigen. \*
 
 # 446
 
@@ -1794,7 +1794,7 @@ Toen jullie er bergopwaarts vandoor gingen zonder je voor iemand om te draaien, 
 
 # 447
 
-Toen liet Hij na de smart, ter bescherming slaap neerdalen over jullie waardoor een groep van jullie bevangen werd, maar een andere groep dacht in hun zelfzucht op onterechte manier over God, zoals men in de tijd van onwetendheid dacht. Zij zeiden: "Hebben wij ook enige zeggenschap?" Zeg: "God heeft de gehele zeggenschap." Zij verbergen in hun binnenste wat zij jou niet laten blijken; zij, zeggen: "Als wij ook enige zeggenschap hadden gehad, zouden wij hier niet gesneuveld zijn." Zeg: "Al waren jullie in je huizen gebleven, dan zouden toch zij voor wie het was bepaald dat zij zouden sneuvelen naar hun rustplaatsen zijn opgetrokken." [Dit gebeurt] opdat God wat in jullie binnenste is op de proef stelt en wat in jullie harten is loutert. God weet wat er binnen in de harten is.
+Toen liet Hij na de smart, ter bescherming slaap neerdalen over jullie waardoor een groep van jullie bevangen werd, maar een andere groep dacht in hun zelfzucht op onterechte manier over God, zoals men in de tijd van onwetendheid dacht. Zij zeiden: "Hebben wij ook enige zeggenschap?" Zeg: "God heeft de gehele zeggenschap." Zij verbergen in hun binnenste wat zij jou niet laten blijken; zij, zeggen: "Als wij ook enige zeggenschap hadden gehad, zouden wij hier niet gesneuveld zijn." Zeg: "Al waren jullie in je huizen gebleven, dan zouden toch zij voor wie het was bepaald dat zij zouden sneuvelen naar hun rustplaatsen zijn opgetrokken." \[Dit gebeurt\] opdat God wat in jullie binnenste is op de proef stelt en wat in jullie harten is loutert. God weet wat er binnen in de harten is.
 
 # 448
 
@@ -1802,7 +1802,7 @@ Zij die zich van jullie afkeerden op de dag dat de beide troepenmachten tot een 
 
 # 449
 
-Jullie die geloven! Weest niet zoals zij die ongelovig zijn en die, wanneer zij op de aarde rondtrekken of op veldtocht zijn, van hun broeders zeggen: "Als zij bij ons waren gebleven, dan waren zij niet gestorven en niet gedood." [Zij zeggen het] opdat God dat tot [een reden voor] wroeging in hun harten zou maken. God geeft leven en laat sterven. God doorziet wat jullie doen.
+Jullie die geloven! Weest niet zoals zij die ongelovig zijn en die, wanneer zij op de aarde rondtrekken of op veldtocht zijn, van hun broeders zeggen: "Als zij bij ons waren gebleven, dan waren zij niet gestorven en niet gedood." \[Zij zeggen het\] opdat God dat tot \[een reden voor\] wroeging in hun harten zou maken. God geeft leven en laat sterven. God doorziet wat jullie doen.
 
 # 450
 
@@ -1822,7 +1822,7 @@ Als God jullie helpt, kan niemand jullie verslaan, maar als Hij jullie in de ste
 
 # 454
 
-Het komt een profeet niet toe dat hij [iets van de buit] ontvreemdt. Wie iets ontvreemdt zal wat hij heeft ontvreemd meebrengen op de opstandingsdag. Dan zal aan iedereen vergoed worden wat hij verdiend heeft en hun zal geen onrecht worden aangedaan.
+Het komt een profeet niet toe dat hij \[iets van de buit\] ontvreemdt. Wie iets ontvreemdt zal wat hij heeft ontvreemd meebrengen op de opstandingsdag. Dan zal aan iedereen vergoed worden wat hij verdiend heeft en hun zal geen onrecht worden aangedaan.
 
 # 455
 
@@ -1842,11 +1842,11 @@ Of toen jullie onheil trof dat jullie zelf al dubbel hadden toegebracht. Jullie 
 
 # 459
 
-Wat jullie trof op de dag dat de beide troepenmachten tot een treffen kwamen was met Gods toestemming en [het gebeurde] opdat Hij de gelovigen kent
+Wat jullie trof op de dag dat de beide troepenmachten tot een treffen kwamen was met Gods toestemming en \[het gebeurde\] opdat Hij de gelovigen kent
 
 # 460
 
-en opdat Hij de huichelaars kent. Tot hen werd gezegd: "Komt en strijdt op Gods weg of verdrijft [de vijand]." Zij zeiden: "Als wij van de strijd geweten hadden dan waren wij jullie zeker gevolgd." Op die dag waren zij dichter bij het ongeloof dan bij het geloof; met hun monden zeiden zij wat in hun harten niet was. God weet het best wat zij verbergen.
+en opdat Hij de huichelaars kent. Tot hen werd gezegd: "Komt en strijdt op Gods weg of verdrijft \[de vijand\]." Zij zeiden: "Als wij van de strijd geweten hadden dan waren wij jullie zeker gevolgd." Op die dag waren zij dichter bij het ongeloof dan bij het geloof; met hun monden zeiden zij wat in hun harten niet was. God weet het best wat zij verbergen.
 
 # 461
 
@@ -1858,7 +1858,7 @@ En denk van hen die op Gods weg gedood worden niet dat zij dood zijn; zij zijn j
 
 # 463
 
-terwijl zij zich verheugen over wat God hun van Zijn genade geeft en zich verblijden dat de achterblijvers die zich nog niet bij hen gevoegd hebben niets te vrezen hebben noch bedroefd zullen zijn. *
+terwijl zij zich verheugen over wat God hun van Zijn genade geeft en zich verblijden dat de achterblijvers die zich nog niet bij hen gevoegd hebben niets te vrezen hebben noch bedroefd zullen zijn. \*
 
 # 464
 
@@ -1878,7 +1878,7 @@ Dus keerden zij weerom met genade en gunst van God. Geen kwaad overkwam hen en z
 
 # 468
 
-Dat was slechts de satan. Hij boezemt [jullie] vrees in voor zijn aanhangers. Vreest hen niet, maar vreest Mij als jullie gelovig zijn.
+Dat was slechts de satan. Hij boezemt \[jullie\] vrees in voor zijn aanhangers. Vreest hen niet, maar vreest Mij als jullie gelovig zijn.
 
 # 469
 
@@ -1918,7 +1918,7 @@ Als zij jou dan van leugens betichten; al voor jouw tijd zijn er gezanten van le
 
 # 478
 
-Ieder zal de dood proeven, maar jullie volle loon zal jullie op de opstandingsdag gegeven worden. Wie dan van het vuur gevrijwaard wordt en in de tuin binnengebracht, die heeft gezegevierd. Het tegenwoordige leven is slechts het genot van de begoocheling. *
+Ieder zal de dood proeven, maar jullie volle loon zal jullie op de opstandingsdag gegeven worden. Wie dan van het vuur gevrijwaard wordt en in de tuin binnengebracht, die heeft gezegevierd. Het tegenwoordige leven is slechts het genot van de begoocheling. \*
 
 # 479
 
@@ -1958,7 +1958,7 @@ Onze Heer, en geef ons wat U ons door Uw gezanten hebt toegezegd en maak ons nie
 
 # 488
 
-Toen verhoorde hun Heer hen: "Ik laat het werk van iemand van jullie die [goed] doet niet verloren gaan, of het nu een man is of een vrouw; jullie horen bij elkaar. Zij dus die uitgeweken zijn, uit hun woningen verdreven zijn, op Mijn weg tegenspoed geleden hebben, gestreden hebben en gesneuveld zijn, van hen zal Ik de slechte daden kwijtschelden en Ik zal hen tuinen binnen laten gaan waar de rivieren onderdoor stromen; als beloning van God. En God, bij Hem is de goede beloning.
+Toen verhoorde hun Heer hen: "Ik laat het werk van iemand van jullie die \[goed\] doet niet verloren gaan, of het nu een man is of een vrouw; jullie horen bij elkaar. Zij dus die uitgeweken zijn, uit hun woningen verdreven zijn, op Mijn weg tegenspoed geleden hebben, gestreden hebben en gesneuveld zijn, van hen zal Ik de slechte daden kwijtschelden en Ik zal hen tuinen binnen laten gaan waar de rivieren onderdoor stromen; als beloning van God. En God, bij Hem is de goede beloning.
 
 # 489
 
@@ -1982,7 +1982,7 @@ Jullie die geloven! Weest geduldig, volhardend, standvastig en vreest God. Missc
 
 # 494
 
-O mensen, vreest jullie Heer die jullie uit één wezen geschapen heeft, die uit hem zijn echtgenote schiep en die uit hen beiden vele mannen en vrouwen heeft voortgebracht en [over de aarde] verspreid. Vreest God uit wiens naam jullie elkaar iets vragen en respecteert de verwantschapsbanden. God is opziener over jullie.
+O mensen, vreest jullie Heer die jullie uit één wezen geschapen heeft, die uit hem zijn echtgenote schiep en die uit hen beiden vele mannen en vrouwen heeft voortgebracht en \[over de aarde\] verspreid. Vreest God uit wiens naam jullie elkaar iets vragen en respecteert de verwantschapsbanden. God is opziener over jullie.
 
 # 495
 
@@ -1990,7 +1990,7 @@ Geeft de wezen hun bezittingen, ruilt het onbetamelijke niet in voor het goede e
 
 # 496
 
-En als jullie vrezen ten aanzien van de wezen niet juist te handelen, trouwt dan met zoveel vrouwen als jullie goeddunkt, twee, drie of vier. Maar als jullie vrezen [haar] niet rechtvaardig te kunnen behandelen, dan met één of met slavinnen waarover jullie beschikken. Dat is het meest voor de hand liggend om onrechtvaardigheid te voorkomen.
+En als jullie vrezen ten aanzien van de wezen niet juist te handelen, trouwt dan met zoveel vrouwen als jullie goeddunkt, twee, drie of vier. Maar als jullie vrezen \[haar\] niet rechtvaardig te kunnen behandelen, dan met één of met slavinnen waarover jullie beschikken. Dat is het meest voor de hand liggend om onrechtvaardigheid te voorkomen.
 
 # 497
 
@@ -2022,11 +2022,11 @@ Zij die de bezittingen van de wezen onrechtmatig verteren, verteren slechts vuur
 
 # 504
 
-God draagt jullie met betrekking tot jullie kinderen op: voor een mannelijk [kind] evenveel als het aandeel van twee vrouwelijke. Als er echter alleen maar vrouwen zijn en wel meer dan twee, dan is tweederde van wat hij nalaat voor haar. Maar als er maar één is dan is de helft voor haar. Voor de beide ouders: elk van beiden een zesde van wat hij nalaat, als hij kinderen heeft. Als hij geen kinderen heeft en zijn ouders erven van hem dan is een derde voor zijn moeder, maar als hij broers heeft dan is een zesde voor zijn moeder. [Dit geldt] na[dat rekening gehouden is met] een [testamentaire] beschikking die hij heeft gemaakt of een schuld. Jullie vaders en jullie zonen; jullie weten niet wie van hen jullie in nuttigheid het meest nastaat. [Dit is] een verplichting van God. God is wetend en wijs. *
+God draagt jullie met betrekking tot jullie kinderen op: voor een mannelijk \[kind\] evenveel als het aandeel van twee vrouwelijke. Als er echter alleen maar vrouwen zijn en wel meer dan twee, dan is tweederde van wat hij nalaat voor haar. Maar als er maar één is dan is de helft voor haar. Voor de beide ouders: elk van beiden een zesde van wat hij nalaat, als hij kinderen heeft. Als hij geen kinderen heeft en zijn ouders erven van hem dan is een derde voor zijn moeder, maar als hij broers heeft dan is een zesde voor zijn moeder. \[Dit geldt\] na\[dat rekening gehouden is met\] een \[testamentaire\] beschikking die hij heeft gemaakt of een schuld. Jullie vaders en jullie zonen; jullie weten niet wie van hen jullie in nuttigheid het meest nastaat. \[Dit is\] een verplichting van God. God is wetend en wijs. \*
 
 # 505
 
-Voor jullie is de helft van wat jullie echtgenotes nalaten als zij geen kinderen hebben. Als zij kinderen hebben dan is een kwart van wat zij nalaten voor jullie. [Dit geldt] na[dat rekening gehouden is met] een [testamentaire] beschikking die zij hebben gemaakt of een schuld. Voor haar is een kwart van wat jullie nalaten als jullie geen kinderen hebben. Als jullie kinderen hebben dan is een achtste van wat jullie nalaten voor haar. [Dit geldt] na[dat rekening gehouden is met] een [testamentaire] beschikking die jullie hebben gemaakt of een schuld. Als er van een man of een vrouw in de zijlinie geërfd wordt terwijl hij een broer of een zuster heeft dan is er voor elk van beiden een zesde, maar als het er meer zijn, dan delen zij samen in een derde. [Dit geldt] na[dat rekening gehouden is met] een [testamentaire] beschikking die gemaakt is of een schuld. Er moet niet benadeeld worden! [Dit geldt] als een beschikking van God. God is wetend en zachtmoedig.
+Voor jullie is de helft van wat jullie echtgenotes nalaten als zij geen kinderen hebben. Als zij kinderen hebben dan is een kwart van wat zij nalaten voor jullie. \[Dit geldt\] na\[dat rekening gehouden is met\] een \[testamentaire\] beschikking die zij hebben gemaakt of een schuld. Voor haar is een kwart van wat jullie nalaten als jullie geen kinderen hebben. Als jullie kinderen hebben dan is een achtste van wat jullie nalaten voor haar. \[Dit geldt\] na\[dat rekening gehouden is met\] een \[testamentaire\] beschikking die jullie hebben gemaakt of een schuld. Als er van een man of een vrouw in de zijlinie geërfd wordt terwijl hij een broer of een zuster heeft dan is er voor elk van beiden een zesde, maar als het er meer zijn, dan delen zij samen in een derde. \[Dit geldt\] na\[dat rekening gehouden is met\] een \[testamentaire\] beschikking die gemaakt is of een schuld. Er moet niet benadeeld worden! \[Dit geldt\] als een beschikking van God. God is wetend en zachtmoedig.
 
 # 506
 
@@ -2070,11 +2070,11 @@ En trouwt niet met vrouwen met wie jullie vaders getrouwd geweest zijn, behalve 
 
 # 516
 
-Verboden [om mee te trouwen] zijn voor jullie je moeders, dochters, zusters, tantes van vaders- en moederskant, dochters van broers en zusters, zoogmoeders en zoogzusters, de moeders van jullie vrouwen en jullie stiefdochters die onder jullie hoede staan en die geboren zijn uit jullie vrouwen met wie jullie daadwerkelijk gemeenschap hebben gehad -- als jullie nog geen gemeenschap met haar hadden gehad, dan is het voor jullie geen vergrijp -- en de echtgenotes van jullie lijfelijke zonen en dat jullie twee zusters samen als vrouw hebben, behalve als het al is gebeurd. God is barmhartig en vergevend. *
+Verboden \[om mee te trouwen\] zijn voor jullie je moeders, dochters, zusters, tantes van vaders- en moederskant, dochters van broers en zusters, zoogmoeders en zoogzusters, de moeders van jullie vrouwen en jullie stiefdochters die onder jullie hoede staan en die geboren zijn uit jullie vrouwen met wie jullie daadwerkelijk gemeenschap hebben gehad -- als jullie nog geen gemeenschap met haar hadden gehad, dan is het voor jullie geen vergrijp -- en de echtgenotes van jullie lijfelijke zonen en dat jullie twee zusters samen als vrouw hebben, behalve als het al is gebeurd. God is barmhartig en vergevend. \*
 
 # 517
 
-En ook [verboden om mee te trouwen zijn] de eerbaar getrouwde vrouwen, behalve slavinnen waarover jullie beschikken. Het is Gods voorschrift voor jullie. Daarnaast is het jullie toegestaan er met jullie bezittingen in eerbaarheid en niet in ontucht naar te streven. Voor het genot dat jullie van haar ontvangen, geeft haar daarvoor haar loon; een verplichting is het. Het geldt voor jullie niet als overtreding als jullie daarboven in onderlinge overeenstemming iets regelen nadat de verplichting is vastgelegd. God is wetend en wijs.
+En ook \[verboden om mee te trouwen zijn\] de eerbaar getrouwde vrouwen, behalve slavinnen waarover jullie beschikken. Het is Gods voorschrift voor jullie. Daarnaast is het jullie toegestaan er met jullie bezittingen in eerbaarheid en niet in ontucht naar te streven. Voor het genot dat jullie van haar ontvangen, geeft haar daarvoor haar loon; een verplichting is het. Het geldt voor jullie niet als overtreding als jullie daarboven in onderlinge overeenstemming iets regelen nadat de verplichting is vastgelegd. God is wetend en wijs.
 
 # 518
 
@@ -2162,7 +2162,7 @@ God kent jullie vijanden het best. God is goed genoeg als beschermer en God is g
 
 # 539
 
-Onder hen die het jodendom aanhangen zijn er die de woorden verdraaien [door ze] uit hun verband [te halen] en die zeggen: "Wij hebben gehoord en zijn opstandig geworden) en: "Hoor" zonder dat het hoorbaar is en: "Eerbiedig ons" met verdraaiing van hun tongen en belastering van de godsdienst. Als zij maar gezegd hadden: "Wij horen en gehoorzamen" en "Hoor en let op ons" dan was dat beter voor hen en juister, maar God heeft hen om hun ongeloof vervloekt; zij geloven maar weinig.
+Onder hen die het jodendom aanhangen zijn er die de woorden verdraaien \[door ze\] uit hun verband \[te halen\] en die zeggen: "Wij hebben gehoord en zijn opstandig geworden) en: "Hoor" zonder dat het hoorbaar is en: "Eerbiedig ons" met verdraaiing van hun tongen en belastering van de godsdienst. Als zij maar gezegd hadden: "Wij horen en gehoorzamen" en "Hoor en let op ons" dan was dat beter voor hen en juister, maar God heeft hen om hun ongeloof vervloekt; zij geloven maar weinig.
 
 # 540
 
@@ -2238,7 +2238,7 @@ Wij hebben de gezanten slechts gezonden om, met Gods toestemming, gehoorzaamd te
 
 # 558
 
-Maar nee, bij jouw Heer, zij geloven pas [echt] als zij jou tot scheidsrechter maken over wat bij hen omstreden is en als zij dan bij zichzelf geen moeite hebben met wat jij geoordeeld hebt en het volledig aanvaarden.
+Maar nee, bij jouw Heer, zij geloven pas \[echt\] als zij jou tot scheidsrechter maken over wat bij hen omstreden is en als zij dan bij zichzelf geen moeite hebben met wat jij geoordeeld hebt en het volledig aanvaarden.
 
 # 559
 
@@ -2254,7 +2254,7 @@ En Wij zouden hen op een juiste weg leiden.
 
 # 562
 
-Wie God en de gezant gehoorzamen, dat zijn zij die bij hen behoren aan wie God genade geschonken heeft: de profeten, de oprechten, de [geloofs]getuigen en de rechtschapenen. Dat zijn goede kameraden!
+Wie God en de gezant gehoorzamen, dat zijn zij die bij hen behoren aan wie God genade geschonken heeft: de profeten, de oprechten, de \[geloofs\]getuigen en de rechtschapenen. Dat zijn goede kameraden!
 
 # 563
 
@@ -2270,7 +2270,7 @@ Onder jullie zijn er die treuzelen en als jullie dan onheil treft zegt zo iemand
 
 # 566
 
-Maar als jullie een gunst van God treft dan zegt hij, alsof er tussen jullie en hem geen vriendschap was: "Ach was ik maar met hen erbij geweest, dan had ik een geweldige triomf behaald." *
+Maar als jullie een gunst van God treft dan zegt hij, alsof er tussen jullie en hem geen vriendschap was: "Ach was ik maar met hen erbij geweest, dan had ik een geweldige triomf behaald." \*
 
 # 567
 
@@ -2306,7 +2306,7 @@ En zij zeggen:"Gehoorzaamheid!" Maar als zij bij jou wegtrekken dan besluit een 
 
 # 575
 
-Overpeinzen zij de Koran dan niet? Als hij van een ander dan God [gekomen] was dan zouden zij er veel tegenstrijdigs in vinden.
+Overpeinzen zij de Koran dan niet? Als hij van een ander dan God \[gekomen\] was dan zouden zij er veel tegenstrijdigs in vinden.
 
 # 576
 
@@ -2374,7 +2374,7 @@ Maar niet voor die onderdrukte mannen, vrouwen en kinderen die tot geen list in 
 
 # 592
 
-Zij zijn het aan wie God misschien vergiffenis zal schenken. God is lankmoedig en vergevend. *
+Zij zijn het aan wie God misschien vergiffenis zal schenken. God is lankmoedig en vergevend. \*
 
 # 593
 
@@ -2386,7 +2386,7 @@ Wanneer jullie op de aarde rondtrekken dan is het voor jullie geen vergrijp als 
 
 # 595
 
-En wanneer jij bij hen bent en voor hen [als voorganger] de salaat verricht, dan moet een groep van hen met jou de salaat verrichten en zij moeten hun wapens bij zich houden. Wanneer zij zich eerbiedig neerbuigen moeten zij achter jou zijn. Dan moet de andere groep komen die de salaat niet gebeden heeft. Zij moeten dan met jou de salaat bidden en zij moeten hun voorzorgsmaatregelen treffen en hun wapens bij zich houden. Zij die ongelovig zijn zouden graag willen dat jullie niet op jullie wapens en goederen zouden letten, zodat zij in één keer een uitval tegen jullie konden doen. Het is geen vergrijp voor jullie als jullie last van de regen hebben of ziek zijn om dan de wapens af te leggen. Maar treft voorzorgsmaatregelen. God heeft voor de ongelovigen een vernederende bestraffing klaargemaakt.
+En wanneer jij bij hen bent en voor hen \[als voorganger\] de salaat verricht, dan moet een groep van hen met jou de salaat verrichten en zij moeten hun wapens bij zich houden. Wanneer zij zich eerbiedig neerbuigen moeten zij achter jou zijn. Dan moet de andere groep komen die de salaat niet gebeden heeft. Zij moeten dan met jou de salaat bidden en zij moeten hun voorzorgsmaatregelen treffen en hun wapens bij zich houden. Zij die ongelovig zijn zouden graag willen dat jullie niet op jullie wapens en goederen zouden letten, zodat zij in één keer een uitval tegen jullie konden doen. Het is geen vergrijp voor jullie als jullie last van de regen hebben of ziek zijn om dan de wapens af te leggen. Maar treft voorzorgsmaatregelen. God heeft voor de ongelovigen een vernederende bestraffing klaargemaakt.
 
 # 596
 
@@ -2430,7 +2430,7 @@ En wie een fout of een zonde begaat en er dan iemand die onschuldig is van besch
 
 # 606
 
-En zonder Gods goedgunstigheid jegens jou en Zijn barmhartigheid zou een groep van hen van zins geweest zijn jou tot dwaling te brengen, maar zij brengen slechts zichzelf tot dwaling en zij berokkenen jou geen enkele schade. En God heeft tot jou het boek en de wijsheid neergezonden en Hij heeft jou wat jij niet wist onderwezen. Gods goedgunstigheid jegens jou is geweldig. *
+En zonder Gods goedgunstigheid jegens jou en Zijn barmhartigheid zou een groep van hen van zins geweest zijn jou tot dwaling te brengen, maar zij brengen slechts zichzelf tot dwaling en zij berokkenen jou geen enkele schade. En God heeft tot jou het boek en de wijsheid neergezonden en Hij heeft jou wat jij niet wist onderwezen. Gods goedgunstigheid jegens jou is geweldig. \*
 
 # 607
 
@@ -2638,7 +2638,7 @@ aan gezanten over wie Wij jou vroeger al verteld hebben en aan gezanten over wie
 
 # 658
 
-gezanten als verkondigers van goed nieuws en als waarschuwers, opdat de mensen tegen God geen argument zouden hebben na [het optreden van] de gezanten. God is machtig en wijs.
+gezanten als verkondigers van goed nieuws en als waarschuwers, opdat de mensen tegen God geen argument zouden hebben na \[het optreden van\] de gezanten. God is machtig en wijs.
 
 # 659
 
@@ -2666,7 +2666,7 @@ Mensen van het boek! Gaat niet te ver in jullie godsdienst en zegt over God alle
 
 # 665
 
-De masieh versmaadt het niet een dienaar van God te zijn, ook de engelen niet die in [Zijn] nabijheid gebracht zijn. Wie het versmaden Hem te dienen en hoogmoedig zijn, die zal Hij allen tot zich verzamelen.
+De masieh versmaadt het niet een dienaar van God te zijn, ook de engelen niet die in \[Zijn\] nabijheid gebracht zijn. Wie het versmaden Hem te dienen en hoogmoedig zijn, die zal Hij allen tot zich verzamelen.
 
 # 666
 
@@ -2686,19 +2686,19 @@ Zij vragen jou om uitsluitsel. Zeg: "God geeft jullie uitsluitsel over het erven
 
 # 670
 
-Jullie die geloven! Komt de verplichtingen na. Voor jullie zijn dieren van het vee toegestaan, behalve wat jullie [hierbij] voorgelezen wordt, mits jullie jachtbuit niet toegestaan achten als jullie in gewijde staat zijn. God bepaalt wat Hij wenst.
+Jullie die geloven! Komt de verplichtingen na. Voor jullie zijn dieren van het vee toegestaan, behalve wat jullie \[hierbij\] voorgelezen wordt, mits jullie jachtbuit niet toegestaan achten als jullie in gewijde staat zijn. God bepaalt wat Hij wenst.
 
 # 671
 
-Jullie die geloven! Ontwijdt Gods gewijde symbolen niet, noch de heilige maand, noch de offergave, noch de halsomhangsels, noch hen die zich naar het heilige huis begeven om naar goedgunstigheid van hun Heer en welgevallen te streven. Wanneer jullie niet [meer] in gewijde staat zijn, dan mogen jullie op jacht gaan. En laat de afkeer van bepaalde mensen, omdat zij jullie de weg naar de heilige moskee versperren, jullie er niet toe brengen overtredingen te begaan, maar staat elkaar bij in vroomheid en godvrezendheid en staat elkaar niet bij in zonde en overtreding, maar vreest God. God is streng in de afstraffing.
+Jullie die geloven! Ontwijdt Gods gewijde symbolen niet, noch de heilige maand, noch de offergave, noch de halsomhangsels, noch hen die zich naar het heilige huis begeven om naar goedgunstigheid van hun Heer en welgevallen te streven. Wanneer jullie niet \[meer\] in gewijde staat zijn, dan mogen jullie op jacht gaan. En laat de afkeer van bepaalde mensen, omdat zij jullie de weg naar de heilige moskee versperren, jullie er niet toe brengen overtredingen te begaan, maar staat elkaar bij in vroomheid en godvrezendheid en staat elkaar niet bij in zonde en overtreding, maar vreest God. God is streng in de afstraffing.
 
 # 672
 
-Verboden is voor jullie wat vanzelf is doodgegaan, bloed, varkensvlees, vlees van iets waarover iets anders dan God is aangeroepen, het verstikte, het doodgeslagene, het doodgevallene, het doodgestotene, wat wilde dieren hebben aangevreten -- behalve wat jullie geslacht hebben -- en wat geofferd is op de offerstenen en ook dat jullie met pijlen verloten. Dat is een schande. Heden wanhopen zij die aan jullie godsdienst geen geloof hechten. Vreest hen niet, maar vreest Mij. Heden heb Ik jullie godsdienst voor jullie voltooid, Mijn genade aan jullie volledig bewezen en de Islaam [de overgave aan God] als godsdienst voor jullie goedgevonden. Maar als iemand door honger gedwongen wordt zonder tot zonde geneigd te zijn, dan is God vergevend en barmhartig.
+Verboden is voor jullie wat vanzelf is doodgegaan, bloed, varkensvlees, vlees van iets waarover iets anders dan God is aangeroepen, het verstikte, het doodgeslagene, het doodgevallene, het doodgestotene, wat wilde dieren hebben aangevreten -- behalve wat jullie geslacht hebben -- en wat geofferd is op de offerstenen en ook dat jullie met pijlen verloten. Dat is een schande. Heden wanhopen zij die aan jullie godsdienst geen geloof hechten. Vreest hen niet, maar vreest Mij. Heden heb Ik jullie godsdienst voor jullie voltooid, Mijn genade aan jullie volledig bewezen en de Islaam \[de overgave aan God\] als godsdienst voor jullie goedgevonden. Maar als iemand door honger gedwongen wordt zonder tot zonde geneigd te zijn, dan is God vergevend en barmhartig.
 
 # 673
 
-Zij vragen jou wat hun toegestaan is. Zeg: "Toegestaan aan jullie zijn de goede dingen en [de vangst van] die roofdieren die jullie afgericht hebben door ze iets te leren van wat God jullie geleerd heeft." Eet dus van wat zij voor jullie vangen en vermeldt Gods naam erover. En vreest God; God is snel met de afrekening.
+Zij vragen jou wat hun toegestaan is. Zeg: "Toegestaan aan jullie zijn de goede dingen en \[de vangst van\] die roofdieren die jullie afgericht hebben door ze iets te leren van wat God jullie geleerd heeft." Eet dus van wat zij voor jullie vangen en vermeldt Gods naam erover. En vreest God; God is snel met de afrekening.
 
 # 674
 
@@ -2706,7 +2706,7 @@ Heden zijn aan jullie de goede dingen toegestaan. Het voedsel van hen aan wie he
 
 # 675
 
-Jullie die geloven! Wanneer jullie je voor de salaat opstellen, wast dan jullie gezichten en jullie handen tot aan de ellebogen en wrijft over jullie hoofden en [wast] jullie voeten tot de enkels. En als jullie onrein zijn, reinigt jullie dan. En als jullie ziek zijn of op reis of als iemand van het toilet komt of met vrouwen omgang heeft gehad en jullie vinden geen water, zoekt dan goede kale grond en wrijft jullie gezichten en handen ermee. God wenst jullie niet iets hinderlijks op te leggen, maar Hij wenst jullie slechts rein te maken en Zijn genade aan jullie volledig te bewijzen. Misschien zullen jullie dank betuigen.
+Jullie die geloven! Wanneer jullie je voor de salaat opstellen, wast dan jullie gezichten en jullie handen tot aan de ellebogen en wrijft over jullie hoofden en \[wast\] jullie voeten tot de enkels. En als jullie onrein zijn, reinigt jullie dan. En als jullie ziek zijn of op reis of als iemand van het toilet komt of met vrouwen omgang heeft gehad en jullie vinden geen water, zoekt dan goede kale grond en wrijft jullie gezichten en handen ermee. God wenst jullie niet iets hinderlijks op te leggen, maar Hij wenst jullie slechts rein te maken en Zijn genade aan jullie volledig te bewijzen. Misschien zullen jullie dank betuigen.
 
 # 676
 
@@ -2734,7 +2734,7 @@ God was een verdrag met de Israëlieten aangegaan en Wij riepen uit hun midden t
 
 # 682
 
-Maar, vanwege het verbreken van hun verdrag hebben Wij hen vervloekt en hun harten hard gemaakt. Zij verdraaien de woorden [door ze] uit hun verband [te halen] en zij zijn een deel vergeten van dat waartoe zij aangemaand waren. En jij zult steeds weer verraad van hen bespeuren, op enkelen van hen na. Reken het hun maar niet aan en scheld het kwijt. God bemint hen die goed doen.
+Maar, vanwege het verbreken van hun verdrag hebben Wij hen vervloekt en hun harten hard gemaakt. Zij verdraaien de woorden \[door ze\] uit hun verband \[te halen\] en zij zijn een deel vergeten van dat waartoe zij aangemaand waren. En jij zult steeds weer verraad van hen bespeuren, op enkelen van hen na. Reken het hun maar niet aan en scheld het kwijt. God bemint hen die goed doen.
 
 # 683
 
@@ -2858,7 +2858,7 @@ Hoe komen zij ertoe jou tot scheidsrechter te maken, terwijl zij toch de Taura b
 
 # 713
 
-Wij hebben de Taura neergezonden met een leidraad erin en een licht, waarmee de profeten die zich [aan God] overgeven oordeel vellen voor hen die het jodendom aanhangen. Zo ook de rabbijnen en de schriftgeleerden, naar wat hun van Gods boek was toevertrouwd en waarvan zij getuigen waren. Vreest dan de mensen niet maar vreest Mij en verkwanselt Mijn tekenen niet. En wie niet oordeel vellen volgens wat God heeft neergezonden, dat zijn de ongelovigen.
+Wij hebben de Taura neergezonden met een leidraad erin en een licht, waarmee de profeten die zich \[aan God\] overgeven oordeel vellen voor hen die het jodendom aanhangen. Zo ook de rabbijnen en de schriftgeleerden, naar wat hun van Gods boek was toevertrouwd en waarvan zij getuigen waren. Vreest dan de mensen niet maar vreest Mij en verkwanselt Mijn tekenen niet. En wie niet oordeel vellen volgens wat God heeft neergezonden, dat zijn de ongelovigen.
 
 # 714
 
@@ -2890,7 +2890,7 @@ Jullie die geloven! Neemt de joden en de christenen niet als medestanders. Zij z
 
 # 721
 
-Jij ziet toch dat zij die in hun harten een ziekte hebben zich naar hen toe haasten; zij zeggen: "Wij vrezen dat een wending [van het lot] ons zal treffen." Misschien dat God succes brengt of een beschikking van Zijn kant. Dan zullen zij wroeging krijgen over wat zij in zichzelf geheim houden.
+Jij ziet toch dat zij die in hun harten een ziekte hebben zich naar hen toe haasten; zij zeggen: "Wij vrezen dat een wending \[van het lot\] ons zal treffen." Misschien dat God succes brengt of een beschikking van Zijn kant. Dan zullen zij wroeging krijgen over wat zij in zichzelf geheim houden.
 
 # 722
 
@@ -3006,7 +3006,7 @@ Jij ziet velen van hen bijstand verlenen aan hen die ongelovig zijn. Wat zijzelf
 
 # 750
 
-Als zij geloofd hadden in God en de profeet en in wat naar hem is neergezonden, dan hadden zij hen niet als medestanders genomen, maar velen van hen zijn verdorvenen. *
+Als zij geloofd hadden in God en de profeet en in wat naar hem is neergezonden, dan hadden zij hen niet als medestanders genomen, maar velen van hen zijn verdorvenen. \*
 
 # 751
 
@@ -3106,7 +3106,7 @@ Jullie die geloven! Let op jezelf. Iemand die dwaalt kan jullie geen schade bero
 
 # 775
 
-Jullie die geloven! Bij jullie moet het getuigenis, ten tijde van de [testamentaire] beschikking, wanneer iemand van jullie de dood nabij is bestaan uit twee rechtvaardigen uit jullie midden of, als jullie op de aarde rondtrekken en jullie het onheil van de dood treft, twee anderen die niet uit jullie midden zijn. Jullie moeten hen na de salaat vasthouden en zij zullen dan, als jullie twijfelen, bij God zweren: "Wij verkopen het voor geen prijs, zelfs al zou het een verwant betreffen en wij zullen Gods getuigenis niet verbergen; dan zullen wij bij de zondaars behoren."
+Jullie die geloven! Bij jullie moet het getuigenis, ten tijde van de \[testamentaire\] beschikking, wanneer iemand van jullie de dood nabij is bestaan uit twee rechtvaardigen uit jullie midden of, als jullie op de aarde rondtrekken en jullie het onheil van de dood treft, twee anderen die niet uit jullie midden zijn. Jullie moeten hen na de salaat vasthouden en zij zullen dan, als jullie twijfelen, bij God zweren: "Wij verkopen het voor geen prijs, zelfs al zou het een verwant betreffen en wij zullen Gods getuigenis niet verbergen; dan zullen wij bij de zondaars behoren."
 
 # 776
 
@@ -3122,11 +3122,11 @@ Op de dag dat God de gezanten bijeenbrengt en zegt: "Wat heeft men jullie geantw
 
 # 779
 
-Toen God zei: "O 'Isa, zoon van Marjam, denk aan Mijn genade aan jou en jouw moeder toen Ik jou sterkte met de heilige geest, zodat jij in de wieg en als volwassene tot de mensen sprak en toen Ik jou het boek onderwees en de wijsheid, de Taura en de Indjiel en toen jij met Mijn toestemming uit klei iets als de vorm van een vogel schiep en er toen in blies en het met Mijn toestemming een vogel was en toen jij blindgeborenen en melaatsen met Mijn toestemming genas en toen jij doden met Mijn toestemming [uit het graf] tevoorschijn liet komen en toen ik de Israëlieten van je afhield toen jij met de duidelijke bewijzen tot hen kwam, waarop zij onder hen die ongelovig waren zeiden dat dit duidelijk slechts toverij was."
+Toen God zei: "O 'Isa, zoon van Marjam, denk aan Mijn genade aan jou en jouw moeder toen Ik jou sterkte met de heilige geest, zodat jij in de wieg en als volwassene tot de mensen sprak en toen Ik jou het boek onderwees en de wijsheid, de Taura en de Indjiel en toen jij met Mijn toestemming uit klei iets als de vorm van een vogel schiep en er toen in blies en het met Mijn toestemming een vogel was en toen jij blindgeborenen en melaatsen met Mijn toestemming genas en toen jij doden met Mijn toestemming \[uit het graf\] tevoorschijn liet komen en toen ik de Israëlieten van je afhield toen jij met de duidelijke bewijzen tot hen kwam, waarop zij onder hen die ongelovig waren zeiden dat dit duidelijk slechts toverij was."
 
 # 780
 
-En toen Ik aan de discipelen openbaarde: "Gelooft in Mij en Mijn gezant." Zij zeiden: "Wij geloven. Getuig dat wij ons [aan God] hebben overgegeven."
+En toen Ik aan de discipelen openbaarde: "Gelooft in Mij en Mijn gezant." Zij zeiden: "Wij geloven. Getuig dat wij ons \[aan God\] hebben overgegeven."
 
 # 781
 
@@ -3210,7 +3210,7 @@ Zeg: "Reist op de aarde rond en kijkt hoe het einde was van de loochenaars."
 
 # 801
 
-Zeg: "Van wie is wat er in de hemelen en op de aarde is?" Zeg: "Van God." Hij heeft zichzelf barmhartigheid voorgeschreven. Hij zal jullie bijeenbrengen voor de opstandingsdag waaraan geen twijfel is. Zij die zichzelf verloren hebben geloven dus niet. *
+Zeg: "Van wie is wat er in de hemelen en op de aarde is?" Zeg: "Van God." Hij heeft zichzelf barmhartigheid voorgeschreven. Hij zal jullie bijeenbrengen voor de opstandingsdag waaraan geen twijfel is. Zij die zichzelf verloren hebben geloven dus niet. \*
 
 # 802
 
@@ -3218,7 +3218,7 @@ Van Hem is wat er in de nacht en op de dag rust. Hij is de horende, de wetende.
 
 # 803
 
-Zeg: "Zal ik mij iemand anders dan God als beschermer nemen? De grondlegger van de hemelen en de aarde, Hij die voedsel geeft maar niet wordt gevoed!" Zeg: "Mij is bevolen de eerste te zijn van hen die zich [aan God] overgeven"; jij moet niet bij de veelgodendienaars behoren.
+Zeg: "Zal ik mij iemand anders dan God als beschermer nemen? De grondlegger van de hemelen en de aarde, Hij die voedsel geeft maar niet wordt gevoed!" Zeg: "Mij is bevolen de eerste te zijn van hen die zich \[aan God\] overgeven"; jij moet niet bij de veelgodendienaars behoren.
 
 # 804
 
@@ -3250,7 +3250,7 @@ En wie is er zondiger dan wie over God bedrog verzint of Zijn tekenen loochent? 
 
 # 811
 
-En op de dag waarop Wij hen allen verzamelen. Dan zullen Wij tot de aanhangers van het veelgodendom zeggen: "Waar zijn dan jullie [zogenaamd goddelijke] metgezellen waarvan jullie het bestaan beweerden?"
+En op de dag waarop Wij hen allen verzamelen. Dan zullen Wij tot de aanhangers van het veelgodendom zeggen: "Waar zijn dan jullie \[zogenaamd goddelijke\] metgezellen waarvan jullie het bestaan beweerden?"
 
 # 812
 
@@ -3286,7 +3286,7 @@ Kon je hen maar zien wanneer zij voor hun Heer worden opgesteld, hoe Hij zegt: "
 
 # 820
 
-Zij die de ontmoeting met God loochenen zijn verloren. Zozeer, dat wanneer het uur onverwachts tot hen komt, zij zeggen: "Wat hebben wij een spijt van wat wij [in ons leven] veronachtzaamd hebben" terwijl zij hun lasten op hun ruggen dragen. Is het niet slecht wat zij te torsen hebben?
+Zij die de ontmoeting met God loochenen zijn verloren. Zozeer, dat wanneer het uur onverwachts tot hen komt, zij zeggen: "Wat hebben wij een spijt van wat wij \[in ons leven\] veronachtzaamd hebben" terwijl zij hun lasten op hun ruggen dragen. Is het niet slecht wat zij te torsen hebben?
 
 # 821
 
@@ -3302,7 +3302,7 @@ Al voor jouw tijd zijn er gezanten van leugens beticht geweest, maar de leugens 
 
 # 824
 
-En als hun afkerigheid voor jou te erg is en als jij dan in staat bent om een hol in de aarde of een ladder in de hemel te zoeken en hun dan een teken te brengen? Als God het had gewild, had Hij hen op het goede pad bijeengebracht. Wees dus niet een van de dwazen. *
+En als hun afkerigheid voor jou te erg is en als jij dan in staat bent om een hol in de aarde of een ladder in de hemel te zoeken en hun dan een teken te brengen? Als God het had gewild, had Hij hen op het goede pad bijeengebracht. Wees dus niet een van de dwazen. \*
 
 # 825
 
@@ -3326,7 +3326,7 @@ Zeg: "Hoe lijkt het jullie? Als Gods bestraffing tot jullie komt of het uur tot 
 
 # 830
 
-Welnee, Hem zullen jullie aanroepen. Hij zal dan dat waarom jullie tot Hem roepen wegnemen, als Hij het wil, en wat jullie als metgezellen [aan Hem] hebben toegevoegd zullen jullie vergeten.
+Welnee, Hem zullen jullie aanroepen. Hij zal dan dat waarom jullie tot Hem roepen wegnemen, als Hij het wil, en wat jullie als metgezellen \[aan Hem\] hebben toegevoegd zullen jullie vergeten.
 
 # 831
 
@@ -3394,7 +3394,7 @@ Zeg: "Ik steun op een duidelijk bewijs van mijn Heer en jullie loochenen het. Ik
 
 # 847
 
-Zeg: "Als ik macht had over dat wat jullie zouden willen verhaasten dan zou de beslissing tussen mij en jullie al zijn gevallen; God kent de onrechtplegers het best. *
+Zeg: "Als ik macht had over dat wat jullie zouden willen verhaasten dan zou de beslissing tussen mij en jullie al zijn gevallen; God kent de onrechtplegers het best. \*
 
 # 848
 
@@ -3422,7 +3422,7 @@ Zeg: "God zal jullie eruit redden en uit elke benardheid, maar toch blijven jull
 
 # 854
 
-Zeg: "Hij is het die de macht heeft om van boven vandaan of van onder jullie voeten vandaan een bestraffing tot jullie te zenden of jullie in [verschillende] groeperingen in de war te brengen en elkaars geweld te laten proeven." Kijk hoe Wij de tekenen afwisselen. Misschien zullen zij begrijpen.
+Zeg: "Hij is het die de macht heeft om van boven vandaan of van onder jullie voeten vandaan een bestraffing tot jullie te zenden of jullie in \[verschillende\] groeperingen in de war te brengen en elkaars geweld te laten proeven." Kijk hoe Wij de tekenen afwisselen. Misschien zullen zij begrijpen.
 
 # 855
 
@@ -3442,7 +3442,7 @@ Zij die godvrezend zijn hoeven van hen geen enkele rekenschap te vragen. Het is 
 
 # 859
 
-En laat hen maar die hun godsdienst als spel en tijdverdrijf beschouwen. Het tegenwoordige leven begoochelt hen. En maan hiermee aan opdat niemand weggevaagd wordt voor wat hij heeft begaan; voor hem is er immers buiten God geen helper en geen bemiddelaar en al zou hij elke [mogelijke] losprijs aanbieden, het zou toch niet van hem aangenomen worden. Zij zijn het die weggevaagd worden voor wat zij begaan hebben. Voor hen is er een drank van gloeiend water en een pijnlijke bestraffing omdat zij ongelovig waren.
+En laat hen maar die hun godsdienst als spel en tijdverdrijf beschouwen. Het tegenwoordige leven begoochelt hen. En maan hiermee aan opdat niemand weggevaagd wordt voor wat hij heeft begaan; voor hem is er immers buiten God geen helper en geen bemiddelaar en al zou hij elke \[mogelijke\] losprijs aanbieden, het zou toch niet van hem aangenomen worden. Zij zijn het die weggevaagd worden voor wat zij begaan hebben. Voor hen is er een drank van gloeiend water en een pijnlijke bestraffing omdat zij ongelovig waren.
 
 # 860
 
@@ -3486,7 +3486,7 @@ Zijn volk redetwistte met hem. Hij zei: "Willen jullie met mij over God redetwis
 
 # 870
 
-En hoe zou ik wat jullie [aan Hem] als metgezellen toevoegen vrezen, als jullie niet vrezen aan God metgezellen toe te voegen, waarvoor Hij geen machtiging heeft neergezonden? Welke van de beide groepen heeft meer recht op veiligheid? Als jullie dat maar wisten?
+En hoe zou ik wat jullie \[aan Hem\] als metgezellen toevoegen vrezen, als jullie niet vrezen aan God metgezellen toe te voegen, waarvoor Hij geen machtiging heeft neergezonden? Welke van de beide groepen heeft meer recht op veiligheid? Als jullie dat maar wisten?
 
 # 871
 
@@ -3498,7 +3498,7 @@ Dat was Ons argument dat Wij Ibrahiem tegen zijn volk gegeven hebben. Wij geven 
 
 # 873
 
-En Wij schonken hem Ishaak en Ja'koeb; ieder [van hen] hebben Wij de goede richting gewezen en Noeh hadden Wij al eerder de goede richting gewezen en uit zijn nakomelingen Dawoed, Soelaimaan, Ajjoeb, Joesoef, Moesa en Haroen -- en zo belonen wij hen die goed doen --,
+En Wij schonken hem Ishaak en Ja'koeb; ieder \[van hen\] hebben Wij de goede richting gewezen en Noeh hadden Wij al eerder de goede richting gewezen en uit zijn nakomelingen Dawoed, Soelaimaan, Ajjoeb, Joesoef, Moesa en Haroen -- en zo belonen wij hen die goed doen --,
 
 # 874
 
@@ -3506,7 +3506,7 @@ en Zakarijja, Jahja, 'Isa en Iljaas -- ieder behorend tot de rechtschapenen --,
 
 # 875
 
-en Isma'iel, al-Jasa?, Joenoes en Loet; ieder [van hen] hebben Wij boven de wereldbewoners verkozen.
+en Isma'iel, al-Jasa?, Joenoes en Loet; ieder \[van hen\] hebben Wij boven de wereldbewoners verkozen.
 
 # 876
 
@@ -3530,7 +3530,7 @@ Zij hebben God niet op Zijn juiste waarde geschat toen zij zeiden: "God heeft ni
 
 # 881
 
-Dit is een gezegend boek dat Wij hebben neergezonden, ter bevestiging van wat er al eerder was en opdat jij de hoofdstad [Mekka] en wie er omheen wonen ermee waarschuwt. Zij die geloven in het hiernamaals geloven erin en zij zijn degenen die hun salaat nakomen.
+Dit is een gezegend boek dat Wij hebben neergezonden, ter bevestiging van wat er al eerder was en opdat jij de hoofdstad \[Mekka\] en wie er omheen wonen ermee waarschuwt. Zij die geloven in het hiernamaals geloven erin en zij zijn degenen die hun salaat nakomen.
 
 # 882
 
@@ -3538,7 +3538,7 @@ En wie is zondiger dan wie over God bedrog verzint of wie zegt: "Aan mij is geop
 
 # 883
 
-En nu zijn jullie tot Ons gekomen, ieder afzonderlijk zoals Wij jullie de eerste maal geschapen hebben en jullie hebben wat Wij jullie verleend hadden achter jullie moeten laten. Ook zien Wij jullie bemiddelaars niet bij jullie, van wie jullie beweerden dat zij bij jullie golden als metgezellen [van God]; de band tussen jullie is doorgesneden en dat waarvan jullie het bestaan beweerden zijn jullie kwijt.
+En nu zijn jullie tot Ons gekomen, ieder afzonderlijk zoals Wij jullie de eerste maal geschapen hebben en jullie hebben wat Wij jullie verleend hadden achter jullie moeten laten. Ook zien Wij jullie bemiddelaars niet bij jullie, van wie jullie beweerden dat zij bij jullie golden als metgezellen \[van God\]; de band tussen jullie is doorgesneden en dat waarvan jullie het bestaan beweerden zijn jullie kwijt.
 
 # 884
 
@@ -3546,7 +3546,7 @@ God is het die de zaadkorrels en de pitten laat kiemen; Hij laat het levende uit
 
 # 885
 
-Hij is het die de dageraad laat aanbreken en Hij heeft de nacht tot een rusttijd gemaakt en de zon en de maan om [de tijd] te berekenen. Dat is de verordening van de machtige, de wetende.
+Hij is het die de dageraad laat aanbreken en Hij heeft de nacht tot een rusttijd gemaakt en de zon en de maan om \[de tijd\] te berekenen. Dat is de verordening van de machtige, de wetende.
 
 # 886
 
@@ -3602,7 +3602,7 @@ Zij hebben bij God dure eden gezworen dat zij, als er tot hen een teken zou kome
 
 # 899
 
-En Wij zullen hun harten en hun ogen omdraaien, zoals zij ook de eerste keer niet geloofd hebben en Wij laten hen in hun onbeschaamdheid doorgaan met dwalen. *
+En Wij zullen hun harten en hun ogen omdraaien, zoals zij ook de eerste keer niet geloofd hebben en Wij laten hen in hun onbeschaamdheid doorgaan met dwalen. \*
 
 # 900
 
@@ -3638,7 +3638,7 @@ En eet van dat waarover Gods naam is vermeld, als jullie in Zijn tekenen geloven
 
 # 908
 
-Wat hebben jullie dat jullie niet eten van datgene waarover Gods naam is vermeld? Hij heeft voor jullie toch uiteengezet wat Hij jullie heeft verboden, behalve dat waartoe jullie gedwongen worden? Maar velen brengen door hun neigingen, zonder kennis [anderen] tot dwaling. Echter jouw Heer kent de overtreders het best.
+Wat hebben jullie dat jullie niet eten van datgene waarover Gods naam is vermeld? Hij heeft voor jullie toch uiteengezet wat Hij jullie heeft verboden, behalve dat waartoe jullie gedwongen worden? Maar velen brengen door hun neigingen, zonder kennis \[anderen\] tot dwaling. Echter jouw Heer kent de overtreders het best.
 
 # 909
 
@@ -3662,11 +3662,11 @@ En wanneer tot hen een teken komt zeggen zij: "Wij zullen pas geloven wanneer on
 
 # 914
 
-Maar als God iemand op het goede pad wenst te brengen dan stelt Hij diens hart open voor de overgave [aan God] en als Hij iemand tot dwaling wil brengen dan maakt Hij diens borst zo nauw en beklemd dat het is alsof hij moeizaam naar de hemel opklimt. Zo legt God de gruwelijke straf op aan hen die niet geloven.
+Maar als God iemand op het goede pad wenst te brengen dan stelt Hij diens hart open voor de overgave \[aan God\] en als Hij iemand tot dwaling wil brengen dan maakt Hij diens borst zo nauw en beklemd dat het is alsof hij moeizaam naar de hemel opklimt. Zo legt God de gruwelijke straf op aan hen die niet geloven.
 
 # 915
 
-En dit is de weg van jouw Heer, een juiste; Wij hebben de tekenen uiteengezet voor mensen die zich laten vermanen. *
+En dit is de weg van jouw Heer, een juiste; Wij hebben de tekenen uiteengezet voor mensen die zich laten vermanen. \*
 
 # 916
 
@@ -3706,15 +3706,15 @@ Zeg: "O mijn volk handelt naar jullie vermogen; ik doe het ook. En dan zullen ju
 
 # 925
 
-Zij bestemmen voor God een aandeel in het gewas en het vee dat Hij geschapen heeft en zij zeggen: "Dit is voor God -- beweren zij -- en dit is voor de door ons vereerde metgezellen [van God]." Maar wat voor hun [zogenaamd goddelijke] metgezellen bestemd is dat bereikt God niet en wat voor God bestemd is, dat bereikt hun [zogenaamd goddelijke] metgezellen. Slecht is het wat zij oordelen.
+Zij bestemmen voor God een aandeel in het gewas en het vee dat Hij geschapen heeft en zij zeggen: "Dit is voor God -- beweren zij -- en dit is voor de door ons vereerde metgezellen \[van God\]." Maar wat voor hun \[zogenaamd goddelijke\] metgezellen bestemd is dat bereikt God niet en wat voor God bestemd is, dat bereikt hun \[zogenaamd goddelijke\] metgezellen. Slecht is het wat zij oordelen.
 
 # 926
 
-Zo hebben hun [zogenaamd goddelijke] metgezellen voor velen van de veelgodendienaars het doden van hun kinderen aantrekkelijk gemaakt om hen in het verderf te storten en om hun godsdienst voor hen te verhullen. Als God gewild had, hadden zij het niet gedaan; laat hen toch met wat zij verzinnen.
+Zo hebben hun \[zogenaamd goddelijke\] metgezellen voor velen van de veelgodendienaars het doden van hun kinderen aantrekkelijk gemaakt om hen in het verderf te storten en om hun godsdienst voor hen te verhullen. Als God gewild had, hadden zij het niet gedaan; laat hen toch met wat zij verzinnen.
 
 # 927
 
-En zij zeggen: "Dit is onschendbaar vee en gewas, alleen als wij het willen mag iemand dat als voedsel nemen -- beweren zij -- en vee waarvan de ruggen [voor gebruik] verboden zijn en vee waarover zij Gods naam niet vermelden." Het is een verzinsel over Hem; Hij zal aan hen vergelden voor wat zij verzonnen.
+En zij zeggen: "Dit is onschendbaar vee en gewas, alleen als wij het willen mag iemand dat als voedsel nemen -- beweren zij -- en vee waarvan de ruggen \[voor gebruik\] verboden zijn en vee waarover zij Gods naam niet vermelden." Het is een verzinsel over Hem; Hij zal aan hen vergelden voor wat zij verzonnen.
 
 # 928
 
@@ -3754,7 +3754,7 @@ Als zij jou dan van leugens betichten zeg dan: "Jullie Heer is vol alomvattende 
 
 # 937
 
-De aanhangers van het veelgodendom zullen zeggen: "Als God gewild had hadden wij geen metgezellen [aan Hem] toegevoegd en onze vaderen ook niet en dan hadden wij ook niets verboden." Zo hebben zij hen die er voor jouw tijd waren ook van leugens beticht totdat zij Ons geweld proefden. Zeg: "Is er bij jullie kennis? Komt er dan voor ons mee voor de dag. Jullie volgen alleen maar vermoedens en jullie gissen slechts."
+De aanhangers van het veelgodendom zullen zeggen: "Als God gewild had hadden wij geen metgezellen \[aan Hem\] toegevoegd en onze vaderen ook niet en dan hadden wij ook niets verboden." Zo hebben zij hen die er voor jouw tijd waren ook van leugens beticht totdat zij Ons geweld proefden. Zeg: "Is er bij jullie kennis? Komt er dan voor ons mee voor de dag. Jullie volgen alleen maar vermoedens en jullie gissen slechts."
 
 # 938
 
@@ -3778,7 +3778,7 @@ En dat dit Mijn weg is, een juiste. Volgt die dus en volgt niet de verschillende
 
 # 943
 
-Toen gaven Wij aan Moesa het boek om [Onze genade] aan hem die goed gedaan heeft volledig te maken en om alles uiteen te zetten en als leidraad en barmhartigheid; misschien zullen zij in de ontmoeting met hun Heer geloven.
+Toen gaven Wij aan Moesa het boek om \[Onze genade\] aan hem die goed gedaan heeft volledig te maken en om alles uiteen te zetten en als leidraad en barmhartigheid; misschien zullen zij in de ontmoeting met hun Heer geloven.
 
 # 944
 
@@ -3814,11 +3814,11 @@ Zeg: "Mijn salaat en mijn godsdienstoefening, mijn leven en mijn sterven behoren
 
 # 952
 
-Geen metgezel heeft Hij. Dat is aan mij bevolen en ik ben de eerste van hen die zich [aan God] overgeven."
+Geen metgezel heeft Hij. Dat is aan mij bevolen en ik ben de eerste van hen die zich \[aan God\] overgeven."
 
 # 953
 
-Zeg: "Zal ik een ander dan God als Heer begeren, terwijl Hij toch de Heer van alles is?" Iedere ziel begaat [het slechte] slechts ten koste van zichzelf. Niemand is belast met de last van een ander. Daarna is jullie terugkeer tot jullie Heer. Hij zal jullie dan dat waarover jullie het oneens waren meedelen.
+Zeg: "Zal ik een ander dan God als Heer begeren, terwijl Hij toch de Heer van alles is?" Iedere ziel begaat \[het slechte\] slechts ten koste van zichzelf. Niemand is belast met de last van een ander. Daarna is jullie terugkeer tot jullie Heer. Hij zal jullie dan dat waarover jullie het oneens waren meedelen.
 
 # 954
 
@@ -3826,7 +3826,7 @@ Hij is het die jullie op de aarde tot elkaar opvolgende geslachten gemaakt heeft
 
 # 955
 
-A[lif] L[aam] M[iem] S[aad].
+A\[lif\] L\[aam\] M\[iem\] S\[aad\].
 
 # 956
 
@@ -3938,7 +3938,7 @@ En wanneer zij iets gruwelijks doen zeggen zij: "Wij hebben bevonden dat onze va
 
 # 983
 
-Zeg: "Mijn Heer heeft bevolen rechtvaardig te zijn en dat jullie bij elke moskee jullie aangezicht [tot Hem] richten en Hem aanroepen waarbij jullie de godsdienst geheel aan Hem wijden. Zoals Hij jullie bij het begin gemaakt heeft zo zullen jullie terugkeren."
+Zeg: "Mijn Heer heeft bevolen rechtvaardig te zijn en dat jullie bij elke moskee jullie aangezicht \[tot Hem\] richten en Hem aanroepen waarbij jullie de godsdienst geheel aan Hem wijden. Zoals Hij jullie bij het begin gemaakt heeft zo zullen jullie terugkeren."
 
 # 984
 
@@ -3950,7 +3950,7 @@ Kinderen van Adam! Doe jullie mooie kleding aan bij elke moskee en eet en drinkt
 
 # 986
 
-Zeg: "Wie heeft de mooie [kleding] van God die Hij voor Zijn dienaren heeft voortgebracht en de goede dingen van de levensbehoeften verboden?" Zeg: "Zij zijn in het tegenwoordige leven bestemd voor hen die geloven en op de opstandingsdag hun voorbehouden." Zo zetten Wij de tekenen uiteen aan mensen die weten.
+Zeg: "Wie heeft de mooie \[kleding\] van God die Hij voor Zijn dienaren heeft voortgebracht en de goede dingen van de levensbehoeften verboden?" Zeg: "Zij zijn in het tegenwoordige leven bestemd voor hen die geloven en op de opstandingsdag hun voorbehouden." Zo zetten Wij de tekenen uiteen aan mensen die weten.
 
 # 987
 
@@ -3994,7 +3994,7 @@ Maar zij die geloven en de deugdelijke daden doen -- aan niemand wordt meer dan 
 
 # 997
 
-En Wij nemen wat er in hun harten aan wrok was weg. Onder hen stromen rivieren en zij zeggen: "Lof zij God die ons tot hiertoe de goede richting gewezen heeft. Wij zouden ons de goede richting niet hebben laten wijzen als God ons die niet gewezen had. De gezanten van onze Heer zijn werkelijk met de waarheid gekomen." En hun wordt toegeroepen: "Dat is nu de tuin [voor jullie]. Jullie hebben die als erfdeel gekregen voor wat jullie gedaan hebben."
+En Wij nemen wat er in hun harten aan wrok was weg. Onder hen stromen rivieren en zij zeggen: "Lof zij God die ons tot hiertoe de goede richting gewezen heeft. Wij zouden ons de goede richting niet hebben laten wijzen als God ons die niet gewezen had. De gezanten van onze Heer zijn werkelijk met de waarheid gekomen." En hun wordt toegeroepen: "Dat is nu de tuin \[voor jullie\]. Jullie hebben die als erfdeel gekregen voor wat jullie gedaan hebben."
 
 # 998
 
@@ -4006,7 +4006,7 @@ die Gods weg versperren en verlangen dat het een kronkelweg is terwijl zij aan h
 
 # 1000
 
-Tussen beiden is er een afscheiding en op de kantelen zijn er mannen die iedereen aan hun kentekenen kennen en zij roepen hun die in de tuin thuishoren toe: "Vrede zij met jullie!" Zij zijn niet binnengegaan al begeren zij het. *
+Tussen beiden is er een afscheiding en op de kantelen zijn er mannen die iedereen aan hun kentekenen kennen en zij roepen hun die in de tuin thuishoren toe: "Vrede zij met jullie!" Zij zijn niet binnengegaan al begeren zij het. \*
 
 # 1001
 
@@ -4082,7 +4082,7 @@ Maar zij betichtten hem van leugens. Toen redden Wij hem en hen die met hem ware
 
 # 1019
 
-En tot de 'Aad [was] hun broeder Hoed [gezonden]. Hij zei: "Mijn volk! Dient God; jullie hebben geen andere god dan Hem. Zullen jullie niet godvrezend worden?"
+En tot de 'Aad \[was\] hun broeder Hoed \[gezonden\]. Hij zei: "Mijn volk! Dient God; jullie hebben geen andere god dan Hem. Zullen jullie niet godvrezend worden?"
 
 # 1020
 
@@ -4114,7 +4114,7 @@ Toen redden Wij hem en hen die met hem waren door barmhartigheid van Ons en tot 
 
 # 1027
 
-En tot de Thamoed [was] hun broeder Salih [gezonden]. Hij zei: "Mijn volk! Dient God; jullie hebben geen andere god dan Hem. Tot jullie is een duidelijk bewijs van jullie Heer gekomen. Dit is Gods kameelmerrie; voor jullie een teken. Laat haar eten op Gods aarde en treft haar niet met kwaad, want dan zal een pijnlijke bestraffing jullie grijpen.
+En tot de Thamoed \[was\] hun broeder Salih \[gezonden\]. Hij zei: "Mijn volk! Dient God; jullie hebben geen andere god dan Hem. Tot jullie is een duidelijk bewijs van jullie Heer gekomen. Dit is Gods kameelmerrie; voor jullie een teken. Laat haar eten op Gods aarde en treft haar niet met kwaad, want dan zal een pijnlijke bestraffing jullie grijpen.
 
 # 1028
 
@@ -4162,7 +4162,7 @@ En Wij lieten regen op hen vallen. Kijk dan hoe het einde was van de boosdoeners
 
 # 1039
 
-En tot de Madjan [was] hun broeder Sjoe'aib [gezonden]. Hij zei: "Mijn volk! Dient God; jullie hebben geen andere god dan Hem. Tot jullie is een duidelijk bewijs van jullie Heer gekomen. Geeft volle maat en gewicht en doe de mensen niet te kort in de dingen die van hen zijn en brengt geen verderf op de aarde, nadat zij in orde gemaakt is. Dat is beter voor jullie als jullie gelovig zijn.
+En tot de Madjan \[was\] hun broeder Sjoe'aib \[gezonden\]. Hij zei: "Mijn volk! Dient God; jullie hebben geen andere god dan Hem. Tot jullie is een duidelijk bewijs van jullie Heer gekomen. Geeft volle maat en gewicht en doe de mensen niet te kort in de dingen die van hen zijn en brengt geen verderf op de aarde, nadat zij in orde gemaakt is. Dat is beter voor jullie als jullie gelovig zijn.
 
 # 1040
 
@@ -4170,7 +4170,7 @@ Ligt niet op elke weg op de loer om te dreigen en om Gods weg voor hen die in He
 
 # 1041
 
-En als een groep van jullie gelooft in dat waarmee ik gezonden ben en een groep niet gelooft, weest dan geduldig totdat God tussen ons oordeelt, want Hij is de beste van hen die oordelen." *
+En als een groep van jullie gelooft in dat waarmee ik gezonden ben en een groep niet gelooft, weest dan geduldig totdat God tussen ons oordeelt, want Hij is de beste van hen die oordelen." \*
 
 # 1042
 
@@ -4222,7 +4222,7 @@ En wanen de inwoners van de steden zich dan veilig voor de plannen van God? Maar
 
 # 1054
 
-Is het dan aan hen die de aarde na de [vorige] bewoners beërven niet duidelijk dat Wij hen voor hun zonden getroffen hadden, als Wij gewild hadden? Maar Wij verzegelen hun harten zodat zij niet horen.
+Is het dan aan hen die de aarde na de \[vorige\] bewoners beërven niet duidelijk dat Wij hen voor hun zonden getroffen hadden, als Wij gewild hadden? Maar Wij verzegelen hun harten zodat zij niet horen.
 
 # 1055
 
@@ -4278,7 +4278,7 @@ En de tovenaars van Fir'aun kwamen en zeiden: "Voor ons is er toch wel een belon
 
 # 1068
 
-Hij zei: "Ja, jullie zullen dan behoren tot hen die in [mijn] nabijheid zijn toegelaten."
+Hij zei: "Ja, jullie zullen dan behoren tot hen die in \[mijn\] nabijheid zijn toegelaten."
 
 # 1069
 
@@ -4286,7 +4286,7 @@ Zij zeiden: "O Moesa, of jij werpt of wij zijn het die zullen werpen."
 
 # 1070
 
-Hij zei: "Werpt." En toen zij wierpen betoverden zij de ogen van de mensen en boezemden hun angst in en zij bedreven geweldige tovenarij. *
+Hij zei: "Werpt." En toen zij wierpen betoverden zij de ogen van de mensen en boezemden hun angst in en zij bedreven geweldige tovenarij. \*
 
 # 1071
 
@@ -4326,7 +4326,7 @@ Zij zeiden: "Wij zullen tot onze Heer omkeren.
 
 # 1080
 
-Jij koestert alleen maar wrok tegen ons omdat wij in de tekenen van onze Heer geloofden toen zij tot ons kwamen. Onze Heer, verleen ons volharding en neem ons weg als [mensen] die zich [aan God] hebben overgegeven."
+Jij koestert alleen maar wrok tegen ons omdat wij in de tekenen van onze Heer geloofden toen zij tot ons kwamen. Onze Heer, verleen ons volharding en neem ons weg als \[mensen\] die zich \[aan God\] hebben overgegeven."
 
 # 1081
 
@@ -4334,7 +4334,7 @@ De voornaamsten uit het volk van Fir'aun zeiden: "Zul jij toelaten dat Moesa en 
 
 # 1082
 
-Moesa zei tot zijn volk: "Vraagt God om hulp en weest geduldig. De aarde behoort God toe; Hij laat haar beërven door wie van Zijn dienaren Hij wil en het [goede] uiteinde komt de godvrezenden toe."
+Moesa zei tot zijn volk: "Vraagt God om hulp en weest geduldig. De aarde behoort God toe; Hij laat haar beërven door wie van Zijn dienaren Hij wil en het \[goede\] uiteinde komt de godvrezenden toe."
 
 # 1083
 
@@ -4370,7 +4370,7 @@ Dus namen Wij wraak op hen en Wij verdronken hen in de zee, omdat zij Onze teken
 
 # 1091
 
-En Wij lieten het volk dat onderdrukt was geweest het oosten en het westen beërven van het land dat Wij gezegend hadden. Zo werd het mooiste woord van jouw Heer vervuld aan de Israëlieten, omdat zij geduldig volhardden, maar Wij vernietigden wat Fir'aun en zijn volk gemaakt hadden en wat zij [als gebouwen] hadden opgetrokken.
+En Wij lieten het volk dat onderdrukt was geweest het oosten en het westen beërven van het land dat Wij gezegend hadden. Zo werd het mooiste woord van jouw Heer vervuld aan de Israëlieten, omdat zij geduldig volhardden, maar Wij vernietigden wat Fir'aun en zijn volk gemaakt hadden en wat zij \[als gebouwen\] hadden opgetrokken.
 
 # 1092
 
@@ -4442,7 +4442,7 @@ En toen de toorn van Moesa bedaard was nam hij de tafelen en in het inschrift er
 
 # 1109
 
-En Moesa koos uit zijn volk zeventig mannen voor de afgesproken tijd met Ons. Toen dan de aardbeving hen greep zei hij: "Mijn Heer, als U gewild had, had U hen al eerder kunnen vernietigen en mij ook. Zult U ons vernietigen voor wat de dwazen onder ons gedaan hebben? Het is toch Uw verzoeking waarmee U tot dwaling brengt wie U wilt en op het goede pad brengt wie U wilt. U bent onze helper, vergeef ons dan en heb erbarmen met ons; U bent de beste van hen die vergeven. *
+En Moesa koos uit zijn volk zeventig mannen voor de afgesproken tijd met Ons. Toen dan de aardbeving hen greep zei hij: "Mijn Heer, als U gewild had, had U hen al eerder kunnen vernietigen en mij ook. Zult U ons vernietigen voor wat de dwazen onder ons gedaan hebben? Het is toch Uw verzoeking waarmee U tot dwaling brengt wie U wilt en op het goede pad brengt wie U wilt. U bent onze helper, vergeef ons dan en heb erbarmen met ons; U bent de beste van hen die vergeven. \*
 
 # 1110
 
@@ -4458,7 +4458,7 @@ Zeg: "O mensen, ik ben de gezant van God tot jullie allen, van Hem die de heersc
 
 # 1113
 
-En onder de mensen van Moesa is er een gemeenschap [van hen] die de weg naar de waarheid wijst en die rechtvaardig ernaar handelt.
+En onder de mensen van Moesa is er een gemeenschap \[van hen\] die de weg naar de waarheid wijst en die rechtvaardig ernaar handelt.
 
 # 1114
 
@@ -4502,7 +4502,7 @@ Toen werden zij daarna opgevolgd door opvolgers, die het boek erfden. Zij grijpe
 
 # 1124
 
-Maar zij die aan het boek vasthouden en de salaat verrichten? Wij zullen het loon van hen die herstel brengen niet verloren laten gaan. *
+Maar zij die aan het boek vasthouden en de salaat verrichten? Wij zullen het loon van hen die herstel brengen niet verloren laten gaan. \*
 
 # 1125
 
@@ -4586,7 +4586,7 @@ Toen Hij hun dan een gaaf kind gegeven had, kenden zij Hem metgezellen toe in wa
 
 # 1145
 
-Voegen zij dan [aan God] iets als metgezellen toe wat niets schept, maar die zelf geschapen zijn?
+Voegen zij dan \[aan God\] iets als metgezellen toe wat niets schept, maar die zelf geschapen zijn?
 
 # 1146
 
@@ -4602,7 +4602,7 @@ Zij, die jullie in plaats van God aanroepen, zijn dienaren net als jullie. Roept
 
 # 1149
 
-Hebben zij dan voeten waarmee zij lopen of hebben zij handen waarmee zij vastgrijpen of hebben zij ogen waarmee zij zien of hebben zij oren waarmee zij horen? Zeg: "Roept jullie [zogenaamd goddelijke] metgezellen aan, beraamt dan listen tegen mij en laat mij dan niet wachten.
+Hebben zij dan voeten waarmee zij lopen of hebben zij handen waarmee zij vastgrijpen of hebben zij ogen waarmee zij zien of hebben zij oren waarmee zij horen? Zeg: "Roept jullie \[zogenaamd goddelijke\] metgezellen aan, beraamt dan listen tegen mij en laat mij dan niet wachten.
 
 # 1150
 
@@ -4722,7 +4722,7 @@ Dat is het dan voor jullie. En God verzwakt de list van de ongelovigen.
 
 # 1179
 
-Als jullie om een goede afloop vragen dan is het succes al tot jullie gekomen, maar als jullie ophouden dan is het beter voor jullie. En als jullie terugkeren dan keren Wij [ook] terug. En jullie troepenmacht zal jullie in niets baten ook al is zij groot, maar God is met de gelovigen.
+Als jullie om een goede afloop vragen dan is het succes al tot jullie gekomen, maar als jullie ophouden dan is het beter voor jullie. En als jullie terugkeren dan keren Wij \[ook\] terug. En jullie troepenmacht zal jullie in niets baten ook al is zij groot, maar God is met de gelovigen.
 
 # 1180
 
@@ -4730,7 +4730,7 @@ Jullie die geloven! Gehoorzaamt God en Zijn gezant en keert jullie niet van Hem 
 
 # 1181
 
-En weest niet als zij die zeggen: "Wij horen", terwijl zij niet horen. *
+En weest niet als zij die zeggen: "Wij horen", terwijl zij niet horen. \*
 
 # 1182
 
@@ -4790,7 +4790,7 @@ Hun salaat bij het huis is slechts gefluit en handgeklap. Proeft dan de bestraff
 
 # 1196
 
-Zij die ongelovig zijn dragen hun bezittingen bij om Gods weg te versperren. Zij zullen ze als bijdragen geven en dat zal voor hen een [reden tot] wroeging worden. Dan zullen zij overwonnen worden en zij die ongelovig zijn zullen in de hel verzameld worden,
+Zij die ongelovig zijn dragen hun bezittingen bij om Gods weg te versperren. Zij zullen ze als bijdragen geven en dat zal voor hen een \[reden tot\] wroeging worden. Dan zullen zij overwonnen worden en zij die ongelovig zijn zullen in de hel verzameld worden,
 
 # 1197
 
@@ -4818,7 +4818,7 @@ Toen jullie op de dichtbijgelegen helling waren en zij op de verafgelegen hellin
 
 # 1203
 
-Toen God hen in jouw slaap weinig liet lijken! Als Hij hen talrijk had laten lijken, dan hadden jullie het opgegeven en met elkaar erover getwist, maar God heeft [jullie] bewaard. Hij weet wat er binnen in de harten is.
+Toen God hen in jouw slaap weinig liet lijken! Als Hij hen talrijk had laten lijken, dan hadden jullie het opgegeven en met elkaar erover getwist, maar God heeft \[jullie\] bewaard. Hij weet wat er binnen in de harten is.
 
 # 1204
 
@@ -4882,11 +4882,11 @@ En als jij van bepaalde mensen verraad vreest, zeg dan het verbond met hen klaar
 
 # 1219
 
-Zij die ongelovig zijn moeten er niet op rekenen [Ons] te vlug af te zijn; zij kunnen er niets tegen doen.
+Zij die ongelovig zijn moeten er niet op rekenen \[Ons\] te vlug af te zijn; zij kunnen er niets tegen doen.
 
 # 1220
 
-En maakt tegen hen zo goed als jullie kunnen de bewapening en de inzetbare paarden gereed om Gods vijand en jullie vijand daarmee vrees aan te jagen en afgezien van hen anderen die jullie niet kennen, maar die God kent. En wat jullie ook als bijdrage op Gods weg geven, het zal jullie worden vergoed en jullie zal geen onrecht worden aangedaan. *
+En maakt tegen hen zo goed als jullie kunnen de bewapening en de inzetbare paarden gereed om Gods vijand en jullie vijand daarmee vrees aan te jagen en afgezien van hen anderen die jullie niet kennen, maar die God kent. En wat jullie ook als bijdrage op Gods weg geven, het zal jullie worden vergoed en jullie zal geen onrecht worden aangedaan. \*
 
 # 1221
 
@@ -5018,7 +5018,7 @@ Het komt de veelgodendienaars niet toe dienst te doen in Gods moskeeën terwijl 
 
 # 1253
 
-Dienst doen in Gods moskeeën mogen slechts zij die in God en de laatste dag geloven en die de salaat verrichten en de zakaat geven en die alleen God vrezen; misschien zijn zij het die het goede pad volgen. *
+Dienst doen in Gods moskeeën mogen slechts zij die in God en de laatste dag geloven en die de salaat verrichten en de zakaat geven en die alleen God vrezen; misschien zijn zij het die het goede pad volgen. \*
 
 # 1254
 
@@ -5078,7 +5078,7 @@ Zij wensen Gods licht met hun monden te doven, maar God weigert het Zijn licht n
 
 # 1268
 
-Hij is het die Zijn gezant met de leidraad en de ware godsdienst gezonden heeft om hem te laten zegevieren over de gehele godsdienst, ook al staat het de veelgodendienaars tegen. *
+Hij is het die Zijn gezant met de leidraad en de ware godsdienst gezonden heeft om hem te laten zegevieren over de gehele godsdienst, ook al staat het de veelgodendienaars tegen. \*
 
 # 1269
 
@@ -5126,7 +5126,7 @@ Zij die in God en de laatste dag geloven vragen jou geen ontheffing om met hun b
 
 # 1280
 
-Slechts zij die niet in God en de laatste dag geloven vragen jou om ontheffing. En hun harten verkeren in twijfel; dus aarzelen zij in hun twijfel. *
+Slechts zij die niet in God en de laatste dag geloven vragen jou om ontheffing. En hun harten verkeren in twijfel; dus aarzelen zij in hun twijfel. \*
 
 # 1281
 
@@ -5166,7 +5166,7 @@ En dat hun bijdragen aangenomen werden, werd alleen maar verhinderd doordat zij 
 
 # 1290
 
-Jij hoeft je niet te verwonderen over hun bezittingen noch over hun kinderen. God wenst hen daarmee in het tegenwoordige leven slechts te bestraffen en [wil] dat zijzelf als ongelovigen aan hun einde komen.
+Jij hoeft je niet te verwonderen over hun bezittingen noch over hun kinderen. God wenst hen daarmee in het tegenwoordige leven slechts te bestraffen en \[wil\] dat zijzelf als ongelovigen aan hun einde komen.
 
 # 1291
 
@@ -5182,15 +5182,15 @@ Onder hen zijn er ook die tegen jou aanmerkingen maken over de aalmoezen. Als hu
 
 # 1294
 
-Als zij maar tevreden zouden zijn met wat God en Zijn gezant hun geven en zouden zeggen: "God is ons goed genoeg. God zal ons van Zijn goedgunstigheid geven en Zijn gezant zal dat ook; wij verlangen naar God." *
+Als zij maar tevreden zouden zijn met wat God en Zijn gezant hun geven en zouden zeggen: "God is ons goed genoeg. God zal ons van Zijn goedgunstigheid geven en Zijn gezant zal dat ook; wij verlangen naar God." \*
 
 # 1295
 
-De aalmoezen zijn voor de armen en de behoeftigen, voor hen die ermee belast zijn en voor hen wier harten tot elkaar gebracht zijn, voor de vrijkoop van slaven en schuldenaren, om in te zetten op Gods weg en voor hem die onderweg is. [Dit is] een verplichting van God. God is wetend en wijs.
+De aalmoezen zijn voor de armen en de behoeftigen, voor hen die ermee belast zijn en voor hen wier harten tot elkaar gebracht zijn, voor de vrijkoop van slaven en schuldenaren, om in te zetten op Gods weg en voor hem die onderweg is. \[Dit is\] een verplichting van God. God is wetend en wijs.
 
 # 1296
 
-Onder hen zijn er ook die de profeet leed aandoen en zeggen: "Hij is een oor dat [alles gelooft wat het] hoort." Zeg: "Een oor dat hoort wat goed is voor jullie, dat gelooft in God en dat de gelovigen gelooft en dat een barmhartigheid is voor hen uit jullie midden die geloven. Voor hen die de gezant van God leed aandoen is er een pijnlijke bestraffing."
+Onder hen zijn er ook die de profeet leed aandoen en zeggen: "Hij is een oor dat \[alles gelooft wat het\] hoort." Zeg: "Een oor dat hoort wat goed is voor jullie, dat gelooft in God en dat de gelovigen gelooft en dat een barmhartigheid is voor hen uit jullie midden die geloven. Voor hen die de gezant van God leed aandoen is er een pijnlijke bestraffing."
 
 # 1297
 
@@ -5242,7 +5242,7 @@ O profeet, stel je te weer tegen de ongelovigen en de huichelaars en pak hen ste
 
 # 1309
 
-Zij zweren bij God dat zij het niet gezegd hadden, terwijl zij het woord van ongeloof wel gesproken hadden. Zij zijn ongelovig geworden na de Islaam [de overgave aan God] aangenomen te hebben. Zij hadden iets in de zin wat zij niet bereikt hebben en zij koesteren alleen maar wrok omdat God en Zijn profeet hen door Zijn goedgunstigheid rijk hadden gemaakt. Als zij dan berouw tonen is het beter voor hen, maar als zij zich afkeren dan zal God hen met een pijnlijke bestraffing in het tegenwoordige leven en in het hiernamaals straffen. En zij hebben op de aarde geen beschermer en geen helper. *
+Zij zweren bij God dat zij het niet gezegd hadden, terwijl zij het woord van ongeloof wel gesproken hadden. Zij zijn ongelovig geworden na de Islaam \[de overgave aan God\] aangenomen te hebben. Zij hadden iets in de zin wat zij niet bereikt hebben en zij koesteren alleen maar wrok omdat God en Zijn profeet hen door Zijn goedgunstigheid rijk hadden gemaakt. Als zij dan berouw tonen is het beter voor hen, maar als zij zich afkeren dan zal God hen met een pijnlijke bestraffing in het tegenwoordige leven en in het hiernamaals straffen. En zij hebben op de aarde geen beschermer en geen helper. \*
 
 # 1310
 
@@ -5286,7 +5286,7 @@ Bid nooit de salaat voor een van hen die gestorven is en sta niet bij zijn graf.
 
 # 1320
 
-Jij hoeft je niet te verwonderen over hun bezittingen en hun kinderen. God wenst hen daarmee in het tegenwoordige leven slechts te bestraffen en [wil] dat zijzelf als ongelovigen aan hun einde komen.
+Jij hoeft je niet te verwonderen over hun bezittingen en hun kinderen. God wenst hen daarmee in het tegenwoordige leven slechts te bestraffen en \[wil\] dat zijzelf als ongelovigen aan hun einde komen.
 
 # 1321
 
@@ -5314,7 +5314,7 @@ De zwakken, de zieken en zij die over niets beschikken om als bijdrage te geven 
 
 # 1327
 
-noch hun die, wanneer zij tot jou komen om van jou een rijdier te krijgen en jij moet zeggen: "Ik vind geen rijdier voor jou", zich dan omkeren terwijl hun ogen van tranen overstromen uit bedroefdheid dat zij over niets beschikken om als bijdrage te geven. *
+noch hun die, wanneer zij tot jou komen om van jou een rijdier te krijgen en jij moet zeggen: "Ik vind geen rijdier voor jou", zich dan omkeren terwijl hun ogen van tranen overstromen uit bedroefdheid dat zij over niets beschikken om als bijdrage te geven. \*
 
 # 1328
 
@@ -5342,7 +5342,7 @@ Onder de bedoeïenen zijn er die wat zij als bijdragen geven opvatten als boeteh
 
 # 1334
 
-Onder de bedoeïenen zijn er ook die in God en de laatste dag geloven en die wat zij als bijdragen geven opvatten als middelen om nader tot God te komen en de gebeden van de gezant te verkrijgen; die zijn ook een middel voor hen om nader [tot God] te komen. God zal hen in Zijn barmhartigheid laten binnengaan. God is vergevend en barmhartig.
+Onder de bedoeïenen zijn er ook die in God en de laatste dag geloven en die wat zij als bijdragen geven opvatten als middelen om nader tot God te komen en de gebeden van de gezant te verkrijgen; die zijn ook een middel voor hen om nader \[tot God\] te komen. God zal hen in Zijn barmhartigheid laten binnengaan. God is vergevend en barmhartig.
 
 # 1335
 
@@ -5466,7 +5466,7 @@ Maar als zij zich afkeren zeg dan: "God is mij goed genoeg. Er is geen god dan H
 
 # 1365
 
-A[lif] L[aam] R[aa?]. Dat zijn de tekenen van het wijze boek.
+A\[lif\] L\[aam\] R\[aa?\]. Dat zijn de tekenen van het wijze boek.
 
 # 1366
 
@@ -5538,7 +5538,7 @@ En zij dienen in plaats van God wat hen niet schaadt en niet nut en zij zeggen: 
 
 # 1383
 
-De mensen waren [oorspronkelijk] slechts één gemeenschap, maar toen werden zij het oneens. En als er al niet eerder een woord van jouw Heer gekomen was, dan was er tussen hen al een beslissing getroffen over dat waarover zij het oneens zijn.
+De mensen waren \[oorspronkelijk\] slechts één gemeenschap, maar toen werden zij het oneens. En als er al niet eerder een woord van jouw Heer gekomen was, dan was er tussen hen al een beslissing getroffen over dat waarover zij het oneens zijn.
 
 # 1384
 
@@ -5558,7 +5558,7 @@ Maar wanneer Hij hen gered heeft gedragen zij zich op de aarde meteen weer onrec
 
 # 1388
 
-Het tegenwoordige leven lijkt bijvoorbeeld op water dat Wij laten neerdalen uit de hemel. De planten van de aarde die door de mensen en het vee gegeten worden groeien daardoor in [bonte] mengeling totdat dan, wanneer de aarde de tooi ervan aangenomen heeft en ermee versierd is en haar bewoners denken dat zij er over kunnen beschikken, Onze beslissing 's nachts of overdag tot ze komt. Wij maken het dan tot een stoppelveld alsof het niet nog gisteren gebloeid had. Zo zetten Wij de tekenen uiteen voor mensen die nadenken.
+Het tegenwoordige leven lijkt bijvoorbeeld op water dat Wij laten neerdalen uit de hemel. De planten van de aarde die door de mensen en het vee gegeten worden groeien daardoor in \[bonte\] mengeling totdat dan, wanneer de aarde de tooi ervan aangenomen heeft en ermee versierd is en haar bewoners denken dat zij er over kunnen beschikken, Onze beslissing 's nachts of overdag tot ze komt. Wij maken het dan tot een stoppelveld alsof het niet nog gisteren gebloeid had. Zo zetten Wij de tekenen uiteen voor mensen die nadenken.
 
 # 1389
 
@@ -5574,7 +5574,7 @@ Maar voor hen die de slechte daden begaan is de vergelding voor een slechte daad
 
 # 1392
 
-En op de dag dat Wij hen allen verzamelen, dan zullen Wij tot de aanhangers van het veelgodendom zeggen: "Op jullie plaats, jullie en jullie [zogenaamd goddelijke] metgezellen!" En dan brengen Wij scheiding tussen hen aan. En hun [zogenaamd goddelijke] metgezellen zeggen: "Ons hebben jullie niet gediend.
+En op de dag dat Wij hen allen verzamelen, dan zullen Wij tot de aanhangers van het veelgodendom zeggen: "Op jullie plaats, jullie en jullie \[zogenaamd goddelijke\] metgezellen!" En dan brengen Wij scheiding tussen hen aan. En hun \[zogenaamd goddelijke\] metgezellen zeggen: "Ons hebben jullie niet gediend.
 
 # 1393
 
@@ -5598,11 +5598,11 @@ Zo werd het woord van jouw Heer bewaarheid tegen hen die verdorven zijn, omdat z
 
 # 1398
 
-Zeg: "Is er onder jullie [zogenaamd goddelijke] metgezellen iemand die de schepping begint en haar daarna herhaalt?" Zeg: "God begint de schepping en herhaalt haar daarna. Hoe kunnen jullie je zo laten verstrooien?"
+Zeg: "Is er onder jullie \[zogenaamd goddelijke\] metgezellen iemand die de schepping begint en haar daarna herhaalt?" Zeg: "God begint de schepping en herhaalt haar daarna. Hoe kunnen jullie je zo laten verstrooien?"
 
 # 1399
 
-Zeg: "Is er onder jullie [zogenaamd goddelijke] metgezellen iemand die tot de waarheid leidt?" Zeg: "God leidt tot de waarheid." Heeft dan iemand die tot de waarheid leidt er meer recht op gevolgd te worden of iemand die het goede pad niet volgt, maar zelf de goede richting gewezen moet worden? Wat is er dan met jullie? Hoe kunnen jullie oordelen?
+Zeg: "Is er onder jullie \[zogenaamd goddelijke\] metgezellen iemand die tot de waarheid leidt?" Zeg: "God leidt tot de waarheid." Heeft dan iemand die tot de waarheid leidt er meer recht op gevolgd te worden of iemand die het goede pad niet volgt, maar zelf de goede richting gewezen moet worden? Wat is er dan met jullie? Hoe kunnen jullie oordelen?
 
 # 1400
 
@@ -5670,7 +5670,7 @@ zullen jullie dan wanneer het gebeurt erin geloven? Nu wel? En jullie hadden het
 
 # 1416
 
-Dan wordt tegen hen die onrecht plegen gezegd: "Proeft de altijddurende bestraffing. Wordt aan jullie iets anders vergolden dan wat jullie begaan hebben?" *
+Dan wordt tegen hen die onrecht plegen gezegd: "Proeft de altijddurende bestraffing. Wordt aan jullie iets anders vergolden dan wat jullie begaan hebben?" \*
 
 # 1417
 
@@ -5726,7 +5726,7 @@ Laat wat zij zeggen jou niet bedroefd maken. De macht behoort God geheel toe. Hi
 
 # 1430
 
-Zeker, van God is wie in de hemelen en wie op de aarde is. Wat volgen zij die [zogenaamd goddelijke] metgezellen in plaats van God aanroepen? Zij volgen alleen maar vermoedens en zij gissen slechts.
+Zeker, van God is wie in de hemelen en wie op de aarde is. Wat volgen zij die \[zogenaamd goddelijke\] metgezellen in plaats van God aanroepen? Zij volgen alleen maar vermoedens en zij gissen slechts.
 
 # 1431
 
@@ -5742,15 +5742,15 @@ Zeg: "Het zal hun niet welgaan die over God bedrog verzinnen."
 
 # 1434
 
-[Zij hebben slechts] genot in het tegenwoordige leven. Daarna is hun terugkeer tot Ons. Dan zullen Wij hun de strenge bestraffing laten proeven, omdat zij ongelovig waren. *
+\[Zij hebben slechts\] genot in het tegenwoordige leven. Daarna is hun terugkeer tot Ons. Dan zullen Wij hun de strenge bestraffing laten proeven, omdat zij ongelovig waren. \*
 
 # 1435
 
-En draag hun de mededeling over Noeh voor. Toen hij tot zijn volk zei: "O mensen, al is mijn optreden en mijn herinneren aan Gods tekenen jullie te veel, toch blijf ik op God mijn vertrouwen stellen. Wordt het samen met jullie [zogenaamd goddelijke] metgezellen eens over jullie zaak en laat dat voor jullie dan ook niet vaag zijn. Houdt je dan met mij bezig en laat mij dan niet wachten.
+En draag hun de mededeling over Noeh voor. Toen hij tot zijn volk zei: "O mensen, al is mijn optreden en mijn herinneren aan Gods tekenen jullie te veel, toch blijf ik op God mijn vertrouwen stellen. Wordt het samen met jullie \[zogenaamd goddelijke\] metgezellen eens over jullie zaak en laat dat voor jullie dan ook niet vaag zijn. Houdt je dan met mij bezig en laat mij dan niet wachten.
 
 # 1436
 
-Als jullie je dan afkeren, ik heb jullie geen loon gevraagd. Slechts God is belast met mijn loon. En mij is bevolen tot hen te behoren die zich [aan God] overgeven."
+Als jullie je dan afkeren, ik heb jullie geen loon gevraagd. Slechts God is belast met mijn loon. En mij is bevolen tot hen te behoren die zich \[aan God\] overgeven."
 
 # 1437
 
@@ -5770,7 +5770,7 @@ Toen dan de waarheid van Ons tot hen kwam zeiden zij: "Dit is duidelijk toverij.
 
 # 1441
 
-Moesa zei: "Zeggen jullie [dat] tegen de waarheid wanneer die tot jullie komt? Is dit toverij? Tovenaars zal het niet welgaan."
+Moesa zei: "Zeggen jullie \[dat\] tegen de waarheid wanneer die tot jullie komt? Is dit toverij? Tovenaars zal het niet welgaan."
 
 # 1442
 
@@ -5798,7 +5798,7 @@ Moesa werd slechts door enige jongeren van zijn volk geloofd ondanks hun vrees v
 
 # 1448
 
-En Moesa zei: "Mijn volk! Als jullie in God geloven, moeten jullie op Hem je vertrouwen stellen als jullie behoren tot hen die zich [aan God] overgeven."
+En Moesa zei: "Mijn volk! Als jullie in God geloven, moeten jullie op Hem je vertrouwen stellen als jullie behoren tot hen die zich \[aan God\] overgeven."
 
 # 1449
 
@@ -5814,15 +5814,15 @@ En Wij openbaarden aan Moesa en zijn broeder: "Zoekt voor jullie volk in Egypte 
 
 # 1452
 
-En Moesa zei: "Onze Heer, U hebt aan Fir'aun en zijn raad van voornaamsten luister en bezittingen in het tegenwoordige leven gegeven, onze Heer, om [hen] van Uw weg te laten afdwalen. Onze Heer, verwijder hun bezittingen en verhard hun harten zodat zij niet geloven tot zij de pijnlijke bestraffing zien."
+En Moesa zei: "Onze Heer, U hebt aan Fir'aun en zijn raad van voornaamsten luister en bezittingen in het tegenwoordige leven gegeven, onze Heer, om \[hen\] van Uw weg te laten afdwalen. Onze Heer, verwijder hun bezittingen en verhard hun harten zodat zij niet geloven tot zij de pijnlijke bestraffing zien."
 
 # 1453
 
-Hij zei: "Jullie beider gebed is verhoord. Handelt dan correct en volgt niet de weg van hen die niet weten." *
+Hij zei: "Jullie beider gebed is verhoord. Handelt dan correct en volgt niet de weg van hen die niet weten." \*
 
 # 1454
 
-En Wij lieten de Israëlieten de zee oversteken, waarop Fir'aun en zijn troepen hen uit opstandigheid en om te overtreden achtervolgden. Maar toen ten slotte de verdrinking hem verraste zei hij: "Ik geloof dat er geen god is dan Hij in wie de Israëlieten geloven en ik behoor tot hen die zich [aan God] overgeven."
+En Wij lieten de Israëlieten de zee oversteken, waarop Fir'aun en zijn troepen hen uit opstandigheid en om te overtreden achtervolgden. Maar toen ten slotte de verdrinking hem verraste zei hij: "Ik geloof dat er geen god is dan Hij in wie de Israëlieten geloven en ik behoor tot hen die zich \[aan God\] overgeven."
 
 # 1455
 
@@ -5902,7 +5902,7 @@ En volg wat aan jou wordt geopenbaard en wees geduldig totdat God oordeelt, want
 
 # 1474
 
-A[lif] L[aam] R[aa?]. Een boek waarvan de tekenen eenduidig zijn vastgesteld en daarna van de kant van een Wijze en Welingelichte uiteengezet:
+A\[lif\] L\[aam\] R\[aa?\]. Een boek waarvan de tekenen eenduidig zijn vastgesteld en daarna van de kant van een Wijze en Welingelichte uiteengezet:
 
 # 1475
 
@@ -5954,7 +5954,7 @@ Of zeggen zij: "Hij verzint het." Zeg: "Komt dan met tien overeenkomstige soera'
 
 # 1487
 
-Maar als zij jullie niet verhoren, weet dan dat het met Gods kennis is neergezonden en dat er geen god is dan Hij. Zullen jullie je dan [aan God] overgeven?"
+Maar als zij jullie niet verhoren, weet dan dat het met Gods kennis is neergezonden en dat er geen god is dan Hij. Zullen jullie je dan \[aan God\] overgeven?"
 
 # 1488
 
@@ -5990,7 +5990,7 @@ Het staat vast dat zij in het hiernamaals de grootste verliezers zijn.
 
 # 1496
 
-Zij die geloven, de deugdelijke daden doen en nederig op hun Heer vertrouwen, zij zijn het die in de tuin thuishoren; zij zullen altijd daarin blijven. *
+Zij die geloven, de deugdelijke daden doen en nederig op hun Heer vertrouwen, zij zijn het die in de tuin thuishoren; zij zullen altijd daarin blijven. \*
 
 # 1497
 
@@ -5998,7 +5998,7 @@ De twee groepen lijken bijvoorbeeld op de blinde en dove en de ziende en horende
 
 # 1498
 
-Wij hebben Noeh tot zijn volk gezonden [met]: "Ik ben voor jullie een duidelijke waarschuwer.
+Wij hebben Noeh tot zijn volk gezonden \[met\]: "Ik ben voor jullie een duidelijke waarschuwer.
 
 # 1499
 
@@ -6050,7 +6050,7 @@ Bouw dan het schip onder Onze ogen en volgens Onze openbaring, maar spreek Ons n
 
 # 1511
 
-En hij bouwde het schip en telkens als er voornaamsten van zijn volk voorbijkwamen maakten zij hem belachelijk. Hij zei: "Jullie maken ons belachelijk, maar wij zullen jullie belachelijk maken, zoals jullie [ons nu] belachelijk maken.
+En hij bouwde het schip en telkens als er voornaamsten van zijn volk voorbijkwamen maakten zij hem belachelijk. Hij zei: "Jullie maken ons belachelijk, maar wij zullen jullie belachelijk maken, zoals jullie \[ons nu\] belachelijk maken.
 
 # 1512
 
@@ -6058,7 +6058,7 @@ En jullie zullen weten tot wie de bestraffing zal komen die hem te schande maakt
 
 # 1513
 
-Toen dan Onze beschikking kwam en de oven overkookte, zeiden Wij: "Belaad het met van alles twee stuks, paarsgewijs, en met jouw familie behalve hem over wie al sprake geweest is, en met wie geloven." Maar slechts weinigen geloofden met hem. *
+Toen dan Onze beschikking kwam en de oven overkookte, zeiden Wij: "Belaad het met van alles twee stuks, paarsgewijs, en met jouw familie behalve hem over wie al sprake geweest is, en met wie geloven." Maar slechts weinigen geloofden met hem. \*
 
 # 1514
 
@@ -6066,7 +6066,7 @@ En hij zei: "Gaat aan boord. In Gods naam zal het afvaren en afmeren. Mijn Heer 
 
 # 1515
 
-En het [schip] voer met hen weg door golven als bergen en Noeh riep naar zijn zoon die apart stond: "Mijn zoon! Kom met ons aan boord en wees niet een van de ongelovigen."
+En het \[schip\] voer met hen weg door golven als bergen en Noeh riep naar zijn zoon die apart stond: "Mijn zoon! Kom met ons aan boord en wees niet een van de ongelovigen."
 
 # 1516
 
@@ -6074,7 +6074,7 @@ Hij zei: "Ik zal wel een onderkomen op een berg vinden die mij tegen het water z
 
 # 1517
 
-En er werd gezegd: "O aarde, slik je water in en o hemel, droog op" en het water nam af. De beslissing was gevallen. En het [schip] kwam op de Djoedi vast te zitten. En er werd gezegd: "Weg met de mensen die onrecht plegen."
+En er werd gezegd: "O aarde, slik je water in en o hemel, droog op" en het water nam af. De beslissing was gevallen. En het \[schip\] kwam op de Djoedi vast te zitten. En er werd gezegd: "Weg met de mensen die onrecht plegen."
 
 # 1518
 
@@ -6082,7 +6082,7 @@ En Noeh riep tot zijn Heer en zei: "Mijn Heer, mijn zoon behoort tot mijn famili
 
 # 1519
 
-Hij zei: "O Noeh, hij behoort niet tot jouw familie. Hij is [een toonbeeld van] ondeugdelijk handelen. Vraag Mij niet iets waarvan jij geen kennis hebt. Ik vermaan je niet tot de onwetenden te behoren."
+Hij zei: "O Noeh, hij behoort niet tot jouw familie. Hij is \[een toonbeeld van\] ondeugdelijk handelen. Vraag Mij niet iets waarvan jij geen kennis hebt. Ik vermaan je niet tot de onwetenden te behoren."
 
 # 1520
 
@@ -6094,11 +6094,11 @@ Er werd tot hem gezegd: "O Noeh, ga van boord in vrede die van Ons komt en met z
 
 # 1522
 
-Dat behoort tot de mededelingen over het verborgene die Wij aan jou openbaren en die jij noch jouw volk van tevoren kenden. Wees dan geduldig; het [goede] uiteinde komt de godvrezenden toe.
+Dat behoort tot de mededelingen over het verborgene die Wij aan jou openbaren en die jij noch jouw volk van tevoren kenden. Wees dan geduldig; het \[goede\] uiteinde komt de godvrezenden toe.
 
 # 1523
 
-En tot de 'Aad [was] hun broeder Hoed [gezonden]. Hij zei: "Mijn volk! Dient God; jullie hebben geen andere god dan Hem. Jullie verzinnen alleen maar wat.
+En tot de 'Aad \[was\] hun broeder Hoed \[gezonden\]. Hij zei: "Mijn volk! Dient God; jullie hebben geen andere god dan Hem. Jullie verzinnen alleen maar wat.
 
 # 1524
 
@@ -6114,7 +6114,7 @@ Zij zeiden: "O Hoed, jij hebt ons geen duidelijk bewijs gebracht en wij verlaten
 
 # 1527
 
-Wij zeggen alleen maar dat een god van ons jou met iets slechts heeft getroffen." Hij zei: "Ik roep God als getuige aan en ook jullie moeten getuigen dat ik niets te maken heb met wat jullie [aan God] als metgezellen toevoegen,
+Wij zeggen alleen maar dat een god van ons jou met iets slechts heeft getroffen." Hij zei: "Ik roep God als getuige aan en ook jullie moeten getuigen dat ik niets te maken heb met wat jullie \[aan God\] als metgezellen toevoegen,
 
 # 1528
 
@@ -6142,7 +6142,7 @@ En zij werden in het tegenwoordige leven en op de opstandingsdag door een vloek 
 
 # 1534
 
-En tot de Thamoed [was] hun broeder Salih [gezonden]. Hij zei: "Mijn volk! Dient God; jullie hebben geen andere god dan Hem. Hij heeft jullie uit de aarde laten ontstaan en je erop laten vestigen. Vraagt Hem dus om vergeving en wendt jullie dan berouwvol tot Hem. Mijn Heer is nabij en verhorende
+En tot de Thamoed \[was\] hun broeder Salih \[gezonden\]. Hij zei: "Mijn volk! Dient God; jullie hebben geen andere god dan Hem. Hij heeft jullie uit de aarde laten ontstaan en je erop laten vestigen. Vraagt Hem dus om vergeving en wendt jullie dan berouwvol tot Hem. Mijn Heer is nabij en verhorende
 
 # 1535
 
@@ -6234,7 +6234,7 @@ die bij jouw Heer gemerkt zijn en die niet ver van de onrechtplegers weg zijn.
 
 # 1557
 
-En tot de Madjan [was] hun broeder Sjoe'aib [gezonden]. Hij zei: "Mijn volk! Dient God; jullie hebben geen andere god dan Hem. En doet niet tekort in maat en gewicht. Ik zie dat het jullie goed gaat, maar ik vrees voor jullie de bestraffing op een veelomvattende dag.
+En tot de Madjan \[was\] hun broeder Sjoe'aib \[gezonden\]. Hij zei: "Mijn volk! Dient God; jullie hebben geen andere god dan Hem. En doet niet tekort in maat en gewicht. Ik zie dat het jullie goed gaat, maar ik vrees voor jullie de bestraffing op een veelomvattende dag.
 
 # 1558
 
@@ -6294,7 +6294,7 @@ Hij zal op de opstandingsdag voor zijn volk uit gaan en hen naar beneden naar de
 
 # 1572
 
-En zij werden in dit [leven] en op de opstandingsdag door een vloek achtervolgd. Dat is pas een slechte gift wanneer die gegeven wordt.
+En zij werden in dit \[leven\] en op de opstandingsdag door een vloek achtervolgd. Dat is pas een slechte gift wanneer die gegeven wordt.
 
 # 1573
 
@@ -6326,7 +6326,7 @@ Zij die er ellendig aan toe zijn, zij zullen in het vuur zijn om erin te steunen
 
 # 1580
 
-Altijd zullen zij daarin blijven zolang de hemelen en de aarde bestaan -- behalve als jouw Heer het anders wil -- jouw Heer doet altijd wat Hij wenst. *
+Altijd zullen zij daarin blijven zolang de hemelen en de aarde bestaan -- behalve als jouw Heer het anders wil -- jouw Heer doet altijd wat Hij wenst. \*
 
 # 1581
 
@@ -6394,7 +6394,7 @@ En van God is het verborgene van de hemelen en de aarde. Hem komt de gehele zegg
 
 # 1597
 
-A[lif] L[aam] R[aa?]. Dat zijn de tekenen van het duidelijke boek.
+A\[lif\] L\[aam\] R\[aa?\]. Dat zijn de tekenen van het duidelijke boek.
 
 # 1598
 
@@ -6418,7 +6418,7 @@ Zo zal jouw Heer jou uitkiezen, jou in de uitleg van droomverhalen onderwijzen e
 
 # 1603
 
-Er waren in [het verhaal van] Joesoef en zijn broers tekenen voor hen die [erom] vragen.
+Er waren in \[het verhaal van\] Joesoef en zijn broers tekenen voor hen die \[erom\] vragen.
 
 # 1604
 
@@ -6426,7 +6426,7 @@ Toen zij zeiden: "Joesoef en zijn broer zijn bij onze vader meer geliefd dan wij
 
 # 1605
 
-Doodt Joesoef of verdrijft hem naar een [afgelegen] land dan zal het aangezicht van jullie vader niet van jullie worden afgeleid en dan zullen jullie daarna rechtschapen mensen zijn."
+Doodt Joesoef of verdrijft hem naar een \[afgelegen\] land dan zal het aangezicht van jullie vader niet van jullie worden afgeleid en dan zullen jullie daarna rechtschapen mensen zijn."
 
 # 1606
 
@@ -6558,7 +6558,7 @@ Jullie twee medegevangenen! De een van jullie zal zijn heer wijn schenken en de 
 
 # 1638
 
-En hij zei tot hem van de twee van wie hij vermoedde dat hij bevrijd zou worden: "Gedenk mij bij jouw heer." Maar de satan liet hem vergeten om [hem bij] zijn heer te gedenken en zo bleef hij nog een paar jaar in de gevangenis.
+En hij zei tot hem van de twee van wie hij vermoedde dat hij bevrijd zou worden: "Gedenk mij bij jouw heer." Maar de satan liet hem vergeten om \[hem bij\] zijn heer te gedenken en zo bleef hij nog een paar jaar in de gevangenis.
 
 # 1639
 
@@ -6598,7 +6598,7 @@ Hij zei: "Wat was er met jullie toen jullie probeerden Joesoef te verleiden?" Zi
 
 # 1648
 
-[Joesoef zei:] "Dat is, opdat hij weet dat ik hem niet in het verborgene heb verraden en dat God de list van de verraders niet goed laat aflopen. *
+\[Joesoef zei:\] "Dat is, opdat hij weet dat ik hem niet in het verborgene heb verraden en dat God de list van de verraders niet goed laat aflopen. \*
 
 # 1649
 
@@ -6694,7 +6694,7 @@ Zij zeiden: "De vergelding ervoor is dat hij, in wiens reiszak hij gevonden word
 
 # 1672
 
-En hij begon met hun zakken vóór de zak van zijn broer. Toen haalde hij hem tevoorschijn uit de zak van zijn broer. Zo beraamden Wij een list voor Joesoef. Hij had volgens de wet van de koning zijn broer niet vast kunnen houden, maar [het gebeurde zo] omdat God het wilde. Wij geven hogere rangen aan wie Wij willen. En boven ieder die kennis bezit is er een wetende. *
+En hij begon met hun zakken vóór de zak van zijn broer. Toen haalde hij hem tevoorschijn uit de zak van zijn broer. Zo beraamden Wij een list voor Joesoef. Hij had volgens de wet van de koning zijn broer niet vast kunnen houden, maar \[het gebeurde zo\] omdat God het wilde. Wij geven hogere rangen aan wie Wij willen. En boven ieder die kennis bezit is er een wetende. \*
 
 # 1673
 
@@ -6790,11 +6790,11 @@ Toen zij dan bij Joesoef binnenkwamen haalde hij zijn ouders bij zich en zei: "K
 
 # 1696
 
-En hij verhief zijn ouders op de troon. En zij vielen eerbiedig buigend voor hem neer. En hij zei: "O mijn vader, dit is de uitleg van mijn droom van vroeger. Mijn Heer heeft hem waargemaakt en Hij heeft mij goed gedaan toen Hij mij uit de gevangenis heeft laten komen en Hij heeft jullie uit de steppe laten komen nadat de satan tussen mij en mijn broers tweedracht had gebracht. Mijn Heer is welwillend voor wie Hij wil; Hij is de wetende, de wijze. *
+En hij verhief zijn ouders op de troon. En zij vielen eerbiedig buigend voor hem neer. En hij zei: "O mijn vader, dit is de uitleg van mijn droom van vroeger. Mijn Heer heeft hem waargemaakt en Hij heeft mij goed gedaan toen Hij mij uit de gevangenis heeft laten komen en Hij heeft jullie uit de steppe laten komen nadat de satan tussen mij en mijn broers tweedracht had gebracht. Mijn Heer is welwillend voor wie Hij wil; Hij is de wetende, de wijze. \*
 
 # 1697
 
-Mijn Heer, U hebt mij heerschappij gegeven en mij in de uitleg van droomverhalen onderwezen. Grondlegger van de hemelen en de aarde, U bent mijn beschermer in het tegenwoordige leven en in het hiernamaals, neem mij weg als iemand die zich [aan God] heeft overgegeven en voeg mij bij de rechtschapenen."
+Mijn Heer, U hebt mij heerschappij gegeven en mij in de uitleg van droomverhalen onderwezen. Grondlegger van de hemelen en de aarde, U bent mijn beschermer in het tegenwoordige leven en in het hiernamaals, neem mij weg als iemand die zich \[aan God\] heeft overgegeven en voeg mij bij de rechtschapenen."
 
 # 1698
 
@@ -6814,7 +6814,7 @@ En hoe menig teken is er niet in de hemelen en op de aarde waaraan zij voorbijga
 
 # 1702
 
-En de meesten van hen geloven niet in God zonder te geloven dat Hij [zogenaamd goddelijke] metgezellen heeft.
+En de meesten van hen geloven niet in God zonder te geloven dat Hij \[zogenaamd goddelijke\] metgezellen heeft.
 
 # 1703
 
@@ -6838,7 +6838,7 @@ Zeker, in het verhaal over hen is een les voor de verstandigen; het is geen beri
 
 # 1708
 
-A[lif] L[aam] M[iem] R[aa?]. Dat zijn de tekenen van het boek. En wat van jouw Heer naar jou is neergezonden is de waarheid, maar de meeste mensen geloven niet.
+A\[lif\] L\[aam\] M\[iem\] R\[aa?\]. Dat zijn de tekenen van het boek. En wat van jouw Heer naar jou is neergezonden is de waarheid, maar de meeste mensen geloven niet.
 
 # 1709
 
@@ -6906,7 +6906,7 @@ Hij laat uit de hemel water neerdalen zodat de beddingen naar hun omvang volstro
 
 # 1725
 
-Voor hen die aan hun Heer gehoor geven is er het beste. En zij die Hem geen gehoor geven, als zij alles wat er op de aarde is hadden en nog eens evenveel, dan zouden zij zich ermee willen vrijkopen. Voor hen is er de vreselijke afrekening, hun verblijfplaats is de hel. Dat is pas een slechte rustplaats! *
+Voor hen die aan hun Heer gehoor geven is er het beste. En zij die Hem geen gehoor geven, als zij alles wat er op de aarde is hadden en nog eens evenveel, dan zouden zij zich ermee willen vrijkopen. Voor hen is er de vreselijke afrekening, hun verblijfplaats is de hel. Dat is pas een slechte rustplaats! \*
 
 # 1726
 
@@ -6970,7 +6970,7 @@ Wie is dan Hij die van elke ziel nagaat wat zij heeft begaan? En toch kennen zij
 
 # 1741
 
-Voor hen is er een bestraffing in het tegenwoordige leven en de bestraffing van het hiernamaals is nog heviger en tegen God hebben zij geen beschermer. *
+Voor hen is er een bestraffing in het tegenwoordige leven en de bestraffing van het hiernamaals is nog heviger en tegen God hebben zij geen beschermer. \*
 
 # 1742
 
@@ -7010,7 +7010,7 @@ En zij die ongelovig zijn zeggen: "Jij bent geen gezondene." Zeg: "God is goed g
 
 # 1751
 
-A[lif] L[aam] R[aa?]. Een boek dat naar jou is neergezonden opdat jij de mensen met de toestemming van hun Heer uit de duisternis naar het licht brengt, naar de weg van de machtige, de lofwaardige.
+A\[lif\] L\[aam\] R\[aa?\]. Een boek dat naar jou is neergezonden opdat jij de mensen met de toestemming van hun Heer uit de duisternis naar het licht brengt, naar de weg van de machtige, de lofwaardige.
 
 # 1752
 
@@ -7042,7 +7042,7 @@ En Moesa zei: "Al zijn jullie in ondankbaarheid ongelovig, jullie en wie er op d
 
 # 1759
 
-Is tot jullie niet de mededeling gekomen over hen die er voor jullie tijd waren, het volk van Noeh en de 'Aad en de Thamoed en hen die er na hen waren die alleen God kent. Tot hen kwamen hun gezanten met de duidelijke bewijzen, maar zij stopten hun handen in hun monden en zeiden: "Waarmee jullie gezonden zijn daaraan hechten wij geen geloof. Wij verkeren namelijk in hevige twijfel over dat waartoe jij ons oproept." *
+Is tot jullie niet de mededeling gekomen over hen die er voor jullie tijd waren, het volk van Noeh en de 'Aad en de Thamoed en hen die er na hen waren die alleen God kent. Tot hen kwamen hun gezanten met de duidelijke bewijzen, maar zij stopten hun handen in hun monden en zeiden: "Waarmee jullie gezonden zijn daaraan hechten wij geen geloof. Wij verkeren namelijk in hevige twijfel over dat waartoe jij ons oproept." \*
 
 # 1760
 
@@ -7110,11 +7110,11 @@ Hij geeft te allen tijde met de toestemming van zijn Heer vruchtopbrengst. En Go
 
 # 1776
 
-En een slecht woord lijkt op een slechte boom die ontworteld is [zodat hij] boven op de aarde [staat] en die geen standplaats heeft.
+En een slecht woord lijkt op een slechte boom die ontworteld is \[zodat hij\] boven op de aarde \[staat\] en die geen standplaats heeft.
 
 # 1777
 
-God sterkt hen die geloven met de vaststaande uitspraak in het tegenwoordige leven en in het hiernamaals en God brengt de onrechtplegers tot dwaling; God doet wat Hij wil. *
+God sterkt hen die geloven met de vaststaande uitspraak in het tegenwoordige leven en in het hiernamaals en God brengt de onrechtplegers tot dwaling; God doet wat Hij wil. \*
 
 # 1778
 
@@ -7166,7 +7166,7 @@ Lof zij God die mij ondanks mijn ouderdom Isma'iel en Ishaak geschonken heeft. M
 
 # 1790
 
-Mijn Heer, maak dat ik de salaat verricht en dat zij die tot mijn nageslacht behoren [het ook doen], onze Heer, en aanvaard mijn gebed.
+Mijn Heer, maak dat ik de salaat verricht en dat zij die tot mijn nageslacht behoren \[het ook doen\], onze Heer, en aanvaard mijn gebed.
 
 # 1791
 
@@ -7178,7 +7178,7 @@ En denk niet dat God niet goed let op wat de onrechtplegers doen. Hij geeft hun 
 
 # 1793
 
-terwijl zij zich voortspoeden met hun hoofden uitgestoken, hun oogleden die zich niet sluiten en hun harten leeg [van schrik].
+terwijl zij zich voortspoeden met hun hoofden uitgestoken, hun oogleden die zich niet sluiten en hun harten leeg \[van schrik\].
 
 # 1794
 
@@ -7218,11 +7218,11 @@ Dit is een verkondiging voor de mensen, opdat zij erdoor gewaarschuwd worden, op
 
 # 1803
 
-A[lif] L[aam] R[aa?]. Dit zijn de tekenen van het boek en een duidelijke Koran.
+A\[lif\] L\[aam\] R\[aa?\]. Dit zijn de tekenen van het boek en een duidelijke Koran.
 
 # 1804
 
-Misschien zullen zij die ongelovig zijn graag willen dat zij mensen waren geweest die zich [aan God] overgegeven hadden.
+Misschien zullen zij die ongelovig zijn graag willen dat zij mensen waren geweest die zich \[aan God\] overgegeven hadden.
 
 # 1805
 
@@ -7254,7 +7254,7 @@ Wij hebben de vermaning neergezonden en Wij waken erover.
 
 # 1812
 
-En Wij hebben al voor jouw tijd [gezanten] gezonden naar de groeperingen van hen die er eertijds waren.
+En Wij hebben al voor jouw tijd \[gezanten\] gezonden naar de groeperingen van hen die er eertijds waren.
 
 # 1813
 
@@ -7370,7 +7370,7 @@ tot de dag van de vastgestelde tijd."
 
 # 1841
 
-Hij zei: "Mijn Heer, omdat U mij misleid hebt zal ik voor hen op de aarde [alles] schone schijn maken en ik zal hen zeker allen misleiden,
+Hij zei: "Mijn Heer, omdat U mij misleid hebt zal ik voor hen op de aarde \[alles\] schone schijn maken en ik zal hen zeker allen misleiden,
 
 # 1842
 
@@ -7574,7 +7574,7 @@ En zeg: "Ik ben de duidelijke waarschuwer!"
 
 # 1892
 
-Zoals [tot jou] hebben Wij [ook een boodschap] neergezonden tot hen die in stukken verdelen,
+Zoals \[tot jou\] hebben Wij \[ook een boodschap\] neergezonden tot hen die in stukken verdelen,
 
 # 1893
 
@@ -7610,7 +7610,7 @@ Maar prijs de lof van jouw Heer en wees met hen die zich eerbiedig neerbuigen.
 
 # 1901
 
-En dien jouw Heer tot de zekerheid [van de dood] komt.
+En dien jouw Heer tot de zekerheid \[van de dood\] komt.
 
 # 1902
 
@@ -7666,7 +7666,7 @@ En ook in wat Hij op de aarde voor jullie in verschillende soorten geschapen hee
 
 # 1915
 
-En Hij is het die voor jullie de zee dienstbaar heeft gemaakt om er vers vlees uit te eten en er sieraden uit te halen om je mee te tooien. En jullie zien de schepen haar doorklieven en [dat is] opdat jullie naar een gunst van Hem streven. En misschien zullen jullie dank betuigen.
+En Hij is het die voor jullie de zee dienstbaar heeft gemaakt om er vers vlees uit te eten en er sieraden uit te halen om je mee te tooien. En jullie zien de schepen haar doorklieven en \[dat is\] opdat jullie naar een gunst van Hem streven. En misschien zullen jullie dank betuigen.
 
 # 1916
 
@@ -7718,7 +7718,7 @@ Zij die er voor hun tijd waren beraamden al plannen, maar God greep hun bouwwerk
 
 # 1928
 
-En dan, op de opstandingsdag zal Hij hen te schande maken en zeggen: "Waar zijn Mijn [zogenaamd goddelijke] metgezellen om wie jullie zo tegengewerkt hebben?" Zij aan wie de kennis gegeven is zeggen: "De schande en het kwaad komen vandaag over de ongelovigen,
+En dan, op de opstandingsdag zal Hij hen te schande maken en zeggen: "Waar zijn Mijn \[zogenaamd goddelijke\] metgezellen om wie jullie zo tegengewerkt hebben?" Zij aan wie de kennis gegeven is zeggen: "De schande en het kwaad komen vandaag over de ongelovigen,
 
 # 1929
 
@@ -7726,7 +7726,7 @@ die door de engelen worden weggenomen, terwijl zij zichzelf onrecht hebben aange
 
 # 1930
 
-Gaat de poorten van de hel binnen om er altijd in te blijven." Dat is pas echt een slechte verblijfplaats voor de hoogmoedigen. *
+Gaat de poorten van de hel binnen om er altijd in te blijven." Dat is pas echt een slechte verblijfplaats voor de hoogmoedigen. \*
 
 # 1931
 
@@ -7854,7 +7854,7 @@ Zij die niet in het hiernamaals geloven hebben het slechte voorbeeld, maar God k
 
 # 1962
 
-En als God de mensen het onrecht dat zij plegen zou aanrekenen, dan zou Hij op de [aarde] geen dier overlaten. Maar Hij geeft hun uitstel tot een vastgestelde termijn. En wanneer hun termijn dan komt, zullen zij geen uur te laat ontboden worden noch te vroeg.
+En als God de mensen het onrecht dat zij plegen zou aanrekenen, dan zou Hij op de \[aarde\] geen dier overlaten. Maar Hij geeft hun uitstel tot een vastgestelde termijn. En wanneer hun termijn dan komt, zullen zij geen uur te laat ontboden worden noch te vroeg.
 
 # 1963
 
@@ -7882,7 +7882,7 @@ En van de vruchten van de palmen en de wijnstokken: jullie nemen ervan een bedwe
 
 # 1969
 
-En jouw Heer heeft de bijen ingegeven: "Betrek behuizingen in de bergen, in de bomen en in wat zij [als dakconstructies] optrekken.
+En jouw Heer heeft de bijen ingegeven: "Betrek behuizingen in de bergen, in de bomen en in wat zij \[als dakconstructies\] optrekken.
 
 # 1970
 
@@ -7906,7 +7906,7 @@ En zij dienen in plaats van God iets wat geen macht heeft om hen met iets uit de
 
 # 1975
 
-Maakt dus geen vergelijkingen met God. God weet en jullie weten niet. *
+Maakt dus geen vergelijkingen met God. God weet en jullie weten niet. \*
 
 # 1976
 
@@ -7934,7 +7934,7 @@ En God heeft voor jullie van jullie huizen een plaats om te rusten gemaakt en Hi
 
 # 1982
 
-En God heeft voor jullie uit wat Hij geschapen heeft schaduwen gemaakt, Hij heeft voor jullie in de bergen onderkomens gemaakt en Hij heeft voor jullie kledingstukken gemaakt die jullie tegen de hitte beschermen en kledingstukken die jullie tegen jullie gewelddadigheid beschermen. Zo bewijst Hij zijn genade aan jullie volledig; misschien zullen jullie je [aan God] overgeven.
+En God heeft voor jullie uit wat Hij geschapen heeft schaduwen gemaakt, Hij heeft voor jullie in de bergen onderkomens gemaakt en Hij heeft voor jullie kledingstukken gemaakt die jullie tegen de hitte beschermen en kledingstukken die jullie tegen jullie gewelddadigheid beschermen. Zo bewijst Hij zijn genade aan jullie volledig; misschien zullen jullie je \[aan God\] overgeven.
 
 # 1983
 
@@ -7954,7 +7954,7 @@ En wanneer zij die onrecht plegen de bestraffing zien, dan krijgen zij geen stra
 
 # 1987
 
-En wanneer de aanhangers van het veelgodendom hun [zogenaamd goddelijke] metgezellen zien, dan zeggen zij: "Onze Heer dit zijn nu onze [zogenaamd goddelijke] metgezellen die wij in plaats van U aangeroepen hebben." Maar zij zullen tot hen terugzeggen: "Jullie zijn leugenaars."
+En wanneer de aanhangers van het veelgodendom hun \[zogenaamd goddelijke\] metgezellen zien, dan zeggen zij: "Onze Heer dit zijn nu onze \[zogenaamd goddelijke\] metgezellen die wij in plaats van U aangeroepen hebben." Maar zij zullen tot hen terugzeggen: "Jullie zijn leugenaars."
 
 # 1988
 
@@ -7966,7 +7966,7 @@ Zij die ongelovig zijn en die Gods weg versperren, hun zullen Wij boven op de be
 
 # 1990
 
-En op de dag dat Wij in iedere gemeenschap uit hun eigen midden een getuige tegen hen laten opstaan. En jou laten Wij als getuige komen tegen dezen hier. En tot jou hebben Wij het boek neergezonden als een verduidelijking van alles en als leidraad en barmhartigheid en goed nieuws voor hen die zich [aan God] overgeven.
+En op de dag dat Wij in iedere gemeenschap uit hun eigen midden een getuige tegen hen laten opstaan. En jou laten Wij als getuige komen tegen dezen hier. En tot jou hebben Wij het boek neergezonden als een verduidelijking van alles en als leidraad en barmhartigheid en goed nieuws voor hen die zich \[aan God\] overgeven.
 
 # 1991
 
@@ -8014,11 +8014,11 @@ Gezag heeft hij over hen die hem als beschermheer nemen en die Hem metgezellen t
 
 # 2002
 
-En wanneer Wij een teken vervangen [door het] in de plaats van een ander teken [te geven] -- God weet het best wat Hij neerzendt -- dan zeggen zij: "Jij verzint maar wat." Integendeel, maar de meesten van hen weten het niet.
+En wanneer Wij een teken vervangen \[door het\] in de plaats van een ander teken \[te geven\] -- God weet het best wat Hij neerzendt -- dan zeggen zij: "Jij verzint maar wat." Integendeel, maar de meesten van hen weten het niet.
 
 # 2003
 
-Zeg: "De heilige geest zond het van jouw Heer vandaan met de waarheid neer om hen die geloven te sterken en als leidraad en goed nieuws voor hen die zich [aan God] overgeven."
+Zeg: "De heilige geest zond het van jouw Heer vandaan met de waarheid neer om hen die geloven te sterken en als leidraad en goed nieuws voor hen die zich \[aan God\] overgeven."
 
 # 2004
 
@@ -8050,7 +8050,7 @@ Het staat vast dat zij in het hiernamaals de verliezers zijn.
 
 # 2011
 
-Voorts is jouw Heer voor hen die zijn uitgeweken nadat zij in verzoeking gebracht zijn en die zich dan te weer hebben gesteld en geduldig hebben volhard -- voor hen is jouw Heer tenslotte toch vergevend en barmhartig. *
+Voorts is jouw Heer voor hen die zijn uitgeweken nadat zij in verzoeking gebracht zijn en die zich dan te weer hebben gesteld en geduldig hebben volhard -- voor hen is jouw Heer tenslotte toch vergevend en barmhartig. \*
 
 # 2012
 
@@ -8210,7 +8210,7 @@ Kijk hoe Wij sommigen van hen boven anderen hebben bevoorrecht en het hiernamaal
 
 # 2051
 
-Stel naast God geen andere god, want dan zul je verafschuwd en verlaten terneer zitten. *
+Stel naast God geen andere god, want dan zul je verafschuwd en verlaten terneer zitten. \*
 
 # 2052
 
@@ -8318,7 +8318,7 @@ Kijk hoe zij voor jou vergelijkingen maken; zij dwalen en kunnen dus geen weg me
 
 # 2078
 
-En zij zeggen: "Wanneer wij dan beenderen en overblijfselen zijn zullen wij dan echt als een nieuwe schepping opgewekt worden?" *
+En zij zeggen: "Wanneer wij dan beenderen en overblijfselen zijn zullen wij dan echt als een nieuwe schepping opgewekt worden?" \*
 
 # 2079
 
@@ -8398,7 +8398,7 @@ Wanen jullie je er dan veilig voor dat Hij een stuk vasteland met jullie laat we
 
 # 2098
 
-Of wanen jullie je er dan veilig voor dat Hij jullie een andere keer ernaar terug laat keren? En dat Hij dan tegen jullie een rukwind stuurt en jullie dan laat verdrinken om jullie ondankbare ongeloof? Dan vinden jullie niemand die Ons voor jullie zou kunnen vervolgen. *
+Of wanen jullie je er dan veilig voor dat Hij jullie een andere keer ernaar terug laat keren? En dat Hij dan tegen jullie een rukwind stuurt en jullie dan laat verdrinken om jullie ondankbare ongeloof? Dan vinden jullie niemand die Ons voor jullie zou kunnen vervolgen. \*
 
 # 2099
 
@@ -8450,7 +8450,7 @@ En zeg: "De waarheid is gekomen en aan de onzin is een einde gekomen; aan de onz
 
 # 2111
 
-En Wij zenden van de Koran [gedeelten] neer die genezing en barmhartigheid zijn voor de gelovigen. De onrechtplegers lijden alleen maar meer verlies.
+En Wij zenden van de Koran \[gedeelten\] neer die genezing en barmhartigheid zijn voor de gelovigen. De onrechtplegers lijden alleen maar meer verlies.
 
 # 2112
 
@@ -8510,11 +8510,11 @@ Zeg: "God is goed genoeg als getuige tussen mij en jullie. Hij is over Zijn dien
 
 # 2126
 
-Wie door God op het goede pad gebracht is, die volgt het goede pad en voor wie Hij tot dwaling brengt zul jij buiten Hem om geen beschermers vinden; Wij zullen hen op de opstandingsdag verzamelen: op hun gezichten [ter aarde geworpen], blind, stom en doof. Hun verblijfplaats is de hel; telkens als hij begint te doven wakkeren Wij voor hen de vuurgloed aan.
+Wie door God op het goede pad gebracht is, die volgt het goede pad en voor wie Hij tot dwaling brengt zul jij buiten Hem om geen beschermers vinden; Wij zullen hen op de opstandingsdag verzamelen: op hun gezichten \[ter aarde geworpen\], blind, stom en doof. Hun verblijfplaats is de hel; telkens als hij begint te doven wakkeren Wij voor hen de vuurgloed aan.
 
 # 2127
 
-Zo wordt aan hen vergolden omdat zij aan Onze tekenen geen geloof hechtten en dat zij zeiden: "Wanneer wij dan beenderen en overblijfselen zijn zullen wij dan echt als een nieuwe schepping opgewekt worden?" *
+Zo wordt aan hen vergolden omdat zij aan Onze tekenen geen geloof hechtten en dat zij zeiden: "Wanneer wij dan beenderen en overblijfselen zijn zullen wij dan echt als een nieuwe schepping opgewekt worden?" \*
 
 # 2128
 
@@ -8574,7 +8574,7 @@ Lof zij God die het boek tot Zijn dienaar heeft neergezonden en die heeft gemaak
 
 # 2142
 
-[een boek] dat juist is, om de mensen te waarschuwen voor een hevig geweld dat van Hem komt en om aan de gelovigen die de deugdelijke daden doen het goede nieuws te verkondigen dat er voor hen een goed loon is --
+\[een boek\] dat juist is, om de mensen te waarschuwen voor een hevig geweld dat van Hem komt en om aan de gelovigen die de deugdelijke daden doen het goede nieuws te verkondigen dat er voor hen een goed loon is --
 
 # 2143
 
@@ -8630,7 +8630,7 @@ Onze mensen hier hebben zich in plaats van Hem goden genomen. Hadden zij dan nie
 
 # 2156
 
-Maar daar jullie je van hen afgescheiden hebben en alleen God dienen, zoekt dan jullie onderkomen in de grot. Dan zal jullie Heer iets van Zijn barmhartigheid voor jullie uitspreiden en maken dat er uit jullie toestand voor jullie iets zinvols voortkomt." *
+Maar daar jullie je van hen afgescheiden hebben en alleen God dienen, zoekt dan jullie onderkomen in de grot. Dan zal jullie Heer iets van Zijn barmhartigheid voor jullie uitspreiden en maken dat er uit jullie toestand voor jullie iets zinvols voortkomt." \*
 
 # 2157
 
@@ -8766,7 +8766,7 @@ En het boek wordt voorgelegd en dan zul jij de boosdoeners terug zien deinzen vo
 
 # 2190
 
-Toen Wij tot de engelen zeiden: "Buigt eerbiedig neer voor Adam", bogen zij zich eerbiedig neer, behalve Iblies die tot de djinn behoorde; hij zondigde dus tegen het bevel van zijn Heer. Zullen jullie dan hem en zijn nageslacht in plaats van mij als beschermers nemen, terwijl zij jullie tot vijand zijn. Dat is pas een slechte ruil voor de onrechtplegers. *
+Toen Wij tot de engelen zeiden: "Buigt eerbiedig neer voor Adam", bogen zij zich eerbiedig neer, behalve Iblies die tot de djinn behoorde; hij zondigde dus tegen het bevel van zijn Heer. Zullen jullie dan hem en zijn nageslacht in plaats van mij als beschermers nemen, terwijl zij jullie tot vijand zijn. Dat is pas een slechte ruil voor de onrechtplegers. \*
 
 # 2191
 
@@ -8774,7 +8774,7 @@ Ik liet hen niet getuige zijn van de schepping van de hemelen en de aarde en ook
 
 # 2192
 
-En op de dag dat Hij zegt: "Roept Mijn [zogenaamd goddelijke] metgezellen van wie jullie het bestaan beweerden." Dan roepen zij hen aan, maar zij geven hun geen gehoor. En Wij maken tussen hen een afgrond.
+En op de dag dat Hij zegt: "Roept Mijn \[zogenaamd goddelijke\] metgezellen van wie jullie het bestaan beweerden." Dan roepen zij hen aan, maar zij geven hun geen gehoor. En Wij maken tussen hen een afgrond.
 
 # 2193
 
@@ -8862,7 +8862,7 @@ Hij zei: "Neem mij niet kwalijk dat ik het vergat en reken het mij niet te zwaar
 
 # 2214
 
-Zo gingen zij verder totdat zij een jonge man tegenkwamen. Die doodde hij toen. Hij zei: "Hoe kon jij een onschuldig mens doden en niet eens uit vergelding voor het leven van iemand anders? Daar heb je echt iets verwerpelijks begaan." *
+Zo gingen zij verder totdat zij een jonge man tegenkwamen. Die doodde hij toen. Hij zei: "Hoe kon jij een onschuldig mens doden en niet eens uit vergelding voor het leven van iemand anders? Daar heb je echt iets verwerpelijks begaan." \*
 
 # 2215
 
@@ -9006,11 +9006,11 @@ Zeg: "Als de zee inkt was voor de woorden van mijn Heer, dan zou de zee uitgeput
 
 # 2250
 
-Zeg: "Ik ben slechts een mens als jullie; aan mij wordt geopenbaard dat jullie god één god is. Wie dan hoopt op de ontmoeting met zijn Heer, die moet deugdelijk handelen en in de eredienst van zijn Heer niet een als metgezel [aan Hem] toevoegen."
+Zeg: "Ik ben slechts een mens als jullie; aan mij wordt geopenbaard dat jullie god één god is. Wie dan hoopt op de ontmoeting met zijn Heer, die moet deugdelijk handelen en in de eredienst van zijn Heer niet een als metgezel \[aan Hem\] toevoegen."
 
 # 2251
 
-K[aaf] H[aa?] J[aa?] '[Ain] S[aad].
+K\[aaf\] H\[aa?\] J\[aa?\] '\[Ain\] S\[aad\].
 
 # 2252
 
@@ -9090,7 +9090,7 @@ Zij zei: "Hoe zou ik een jongen krijgen, terwijl geen mens mij aangeraakt heeft;
 
 # 2271
 
-Hij zei: "Zo is het. Jouw Heer heeft gezegd: 'Het is voor Mij gemakkelijk. En het is opdat Wij hem tot een teken voor de mensen maken en uit barmhartigheid van Ons. En het is een beslissing die gevallen is.?" *
+Hij zei: "Zo is het. Jouw Heer heeft gezegd: 'Het is voor Mij gemakkelijk. En het is opdat Wij hem tot een teken voor de mensen maken en uit barmhartigheid van Ons. En het is een beslissing die gevallen is.?" \*
 
 # 2272
 
@@ -9238,7 +9238,7 @@ En Wij hebben hem naar een hoge plaats verheven.
 
 # 2308
 
-Zij zijn het aan wie God onder de profeten genade geschonken heeft, uit de nakomelingen van Adam, uit hen die Wij met Noeh gedragen hebben, uit de nakomelingen van Ibrahiem en Isra?iel en uit hen die Wij op het goede pad gebracht en uitgekozen hebben. Wanneer de tekenen van de Erbarmer aan hen worden voorgelezen vallen zij eerbiedig buigend neer en huilen. -- *
+Zij zijn het aan wie God onder de profeten genade geschonken heeft, uit de nakomelingen van Adam, uit hen die Wij met Noeh gedragen hebben, uit de nakomelingen van Ibrahiem en Isra?iel en uit hen die Wij op het goede pad gebracht en uitgekozen hebben. Wanneer de tekenen van de Erbarmer aan hen worden voorgelezen vallen zij eerbiedig buigend neer en huilen. -- \*
 
 # 2309
 
@@ -9402,7 +9402,7 @@ En hoeveel generaties hebben Wij voor hun tijd reeds vernietigd! Word jij van ee
 
 # 2349
 
-T[aa?] H[aa?].
+T\[aa?\] H\[aa?\].
 
 # 2350
 
@@ -9410,7 +9410,7 @@ Wij hebben de Koran niet tot jou neergezonden opdat jij ongelukkig zou zijn,
 
 # 2351
 
-maar slechts als een vermaning voor wie [God] vreest,
+maar slechts als een vermaning voor wie \[God\] vreest,
 
 # 2352
 
@@ -9558,7 +9558,7 @@ toen Wij aan jouw moeder openbaarden wat geopenbaard is:
 
 # 2388
 
-Toen jouw zuster heenging en zei: 'Zal ik jullie iemand aanwijzen die voor hem zal zorgen?? Zo brachten Wij jou terug naar jouw moeder opdat jij goedsmoeds en niet bedroefd zou zijn. En jij hebt een mens gedood, maar Wij hebben jou uit de nood gered en jou aan verzoeking blootgesteld. Zo bleef jij jaren bij de mensen van Madjan. Toen kwam jij, Moesa, [hierheen] als beschikt.
+Toen jouw zuster heenging en zei: 'Zal ik jullie iemand aanwijzen die voor hem zal zorgen?? Zo brachten Wij jou terug naar jouw moeder opdat jij goedsmoeds en niet bedroefd zou zijn. En jij hebt een mens gedood, maar Wij hebben jou uit de nood gered en jou aan verzoeking blootgesteld. Zo bleef jij jaren bij de mensen van Madjan. Toen kwam jij, Moesa, \[hierheen\] als beschikt.
 
 # 2389
 
@@ -9614,11 +9614,11 @@ Hij die voor jullie de aarde tot een wiegenbed gemaakt heeft en die voor jullie 
 
 # 2402
 
-Eet en weidt jullie vee. Daarin zijn tekenen voor de schranderen. *
+Eet en weidt jullie vee. Daarin zijn tekenen voor de schranderen. \*
 
 # 2403
 
-Uit haar [nml. de aarde] hebben Wij jullie geschapen en in haar zullen Wij jullie terug laten keren en uit haar zullen Wij jullie een tweede maal tevoorschijn brengen.
+Uit haar \[nml. de aarde\] hebben Wij jullie geschapen en in haar zullen Wij jullie terug laten keren en uit haar zullen Wij jullie een tweede maal tevoorschijn brengen.
 
 # 2404
 
@@ -9746,7 +9746,7 @@ Toen keerde Moesa toornig en vol spijt tot zijn volk terug. Hij zei: "Mijn volk!
 
 # 2435
 
-Zij zeiden: "Wij zijn niet uit eigen beweging de afspraak met jou niet nagekomen, maar wij werden overladen met hele ladingen sieraden van de mensen. Die hebben wij toen [in het vuur] gegooid en de Samiriet deed dat ook.
+Zij zeiden: "Wij zijn niet uit eigen beweging de afspraak met jou niet nagekomen, maar wij werden overladen met hele ladingen sieraden van de mensen. Die hebben wij toen \[in het vuur\] gegooid en de Samiriet deed dat ook.
 
 # 2436
 
@@ -9782,7 +9782,7 @@ Hij zei: "En hoe is het met jou, o Samiriet?"
 
 # 2444
 
-Hij zei: "Ik had inzicht in iets waarin zij dat niet hadden en ik nam een handvol van het spoor van de gezant en heb het [over het kalf] geworpen. Dat had ik mijzelf zo wijsgemaakt."
+Hij zei: "Ik had inzicht in iets waarin zij dat niet hadden en ik nam een handvol van het spoor van de gezant en heb het \[over het kalf\] geworpen. Dat had ik mijzelf zo wijsgemaakt."
 
 # 2445
 
@@ -9810,7 +9810,7 @@ Op de dag dat op de bazuin geblazen wordt! Wij zullen op die dag de boosdoeners,
 
 # 2451
 
-terwijl zij onder elkaar fluisteren: "Het heeft voor jullie slechts tien [dagen] geduurd."
+terwijl zij onder elkaar fluisteren: "Het heeft voor jullie slechts tien \[dagen\] geduurd."
 
 # 2452
 
@@ -9838,7 +9838,7 @@ Op die dag heeft voorspraak alleen maar nut voor hem aan wie de Erbarmer het hee
 
 # 2458
 
-Hij weet wat vóór hen is en wat achter hen is terwijl zij Hem met hun kennis niet bevatten. *
+Hij weet wat vóór hen is en wat achter hen is terwijl zij Hem met hun kennis niet bevatten. \*
 
 # 2459
 
@@ -9926,7 +9926,7 @@ En kijk niet met uitpuilende ogen naar wat Wij sommigen van hen als vruchtgebrui
 
 # 2480
 
-En leg jouw mensen de salaat op. Volhard jij er ook in. Wij vragen van jou geen levensonderhoud. Wij zijn het die jou levensonderhoud geven en het [goede] uiteinde komt de godvrezendheid toe.
+En leg jouw mensen de salaat op. Volhard jij er ook in. Wij vragen van jou geen levensonderhoud. Wij zijn het die jou levensonderhoud geven en het \[goede\] uiteinde komt de godvrezendheid toe.
 
 # 2481
 
@@ -9954,7 +9954,7 @@ en terwijl hun harten verstrooiing zoeken. En zij die onrecht plegen zeggen in h
 
 # 2487
 
-Hij [Mohammed] zegt: "Mijn Heer weet wat er in de hemel en op de aarde gezegd wordt; Hij is de horende, de wetende."
+Hij \[Mohammed\] zegt: "Mijn Heer weet wat er in de hemel en op de aarde gezegd wordt; Hij is de horende, de wetende."
 
 # 2488
 
@@ -10026,7 +10026,7 @@ Of hebben zij zich dan goden uit de aarde genomen die kunnen opwekken?
 
 # 2505
 
-Als er in beide [de hemel en de aarde] andere goden waren dan God, dan zouden zij in slechte staat verkeren. God zij geprezen, de Heer van de troon verheven als Hij is boven wat zij Hem toeschrijven.
+Als er in beide \[de hemel en de aarde\] andere goden waren dan God, dan zouden zij in slechte staat verkeren. God zij geprezen, de Heer van de troon verheven als Hij is boven wat zij Hem toeschrijven.
 
 # 2506
 
@@ -10050,7 +10050,7 @@ Zij spreken niet eerder dan Hij en zij handelen op Zijn bevel.
 
 # 2511
 
-Hij weet wat vóór hen is en wat achter hen is en zij bemiddelen slechts voor wie Hem welgevallig is, terwijl zij door de vrees voor Hem ontzag hebben. *
+Hij weet wat vóór hen is en wat achter hen is en zij bemiddelen slechts voor wie Hem welgevallig is, terwijl zij door de vrees voor Hem ontzag hebben. \*
 
 # 2512
 
@@ -10226,7 +10226,7 @@ En Wij redden hem en Loet naar het land dat Wij gezegend hebben voor de wereldbe
 
 # 2555
 
-En Wij schonken hem Ishaak en Ja'koeb nog bovendien en ieder [van hen] hebben Wij rechtschapen gemaakt.
+En Wij schonken hem Ishaak en Ja'koeb nog bovendien en ieder \[van hen\] hebben Wij rechtschapen gemaakt.
 
 # 2556
 
@@ -10242,7 +10242,7 @@ En Wij hebben hem in onze barmhartigheid binnen laten gaan; hij behoorde tot de 
 
 # 2559
 
-En [denk] aan Noeh, toen hij -- vroeger -- riep. Daarop verhoorden Wij hem en Wij redden hem en zijn familie uit de geweldige benardheid.
+En \[denk\] aan Noeh, toen hij -- vroeger -- riep. Daarop verhoorden Wij hem en Wij redden hem en zijn familie uit de geweldige benardheid.
 
 # 2560
 
@@ -10254,7 +10254,7 @@ En aan Dawoed en Soelaimaan, toen zij over het gewas oordeelden toen het kleinve
 
 # 2562
 
-En Wij maakten dat Soelaimaan het begreep en aan een ieder [van hen] gaven Wij oordeelskracht en kennis. En Wij maakten de bergen samen met Dawoed dienstbaar, zodat zij Ons prijzen en evenzo de vogels. Wij hebben dat gedaan!
+En Wij maakten dat Soelaimaan het begreep en aan een ieder \[van hen\] gaven Wij oordeelskracht en kennis. En Wij maakten de bergen samen met Dawoed dienstbaar, zodat zij Ons prijzen en evenzo de vogels. Wij hebben dat gedaan!
 
 # 2563
 
@@ -10262,7 +10262,7 @@ En Wij hebben hem geleerd maliënhemden voor jullie te maken, opdat die jullie t
 
 # 2564
 
-En aan Soelaimaan [onderwierpen Wij] de wind bij storm zodat die zich op zijn bevel naar het land spoedt dat Wij gezegend hebben -- Wij zijn namelijk alwetend --
+En aan Soelaimaan \[onderwierpen Wij\] de wind bij storm zodat die zich op zijn bevel naar het land spoedt dat Wij gezegend hebben -- Wij zijn namelijk alwetend --
 
 # 2565
 
@@ -10274,11 +10274,11 @@ En aan Ajjoeb toen hij tot zijn Heer riep: "Mij heeft tegenspoed getroffen, maar
 
 # 2567
 
-Wij verhoorden hem toen en Wij hieven de tegenspoed op waarin hij verkeerde. En Wij gaven hem zijn familie terug en nog eens zoveel met hen uit barmhartigheid van Onze kant en als vermaning voor hen die [Ons] dienen.
+Wij verhoorden hem toen en Wij hieven de tegenspoed op waarin hij verkeerde. En Wij gaven hem zijn familie terug en nog eens zoveel met hen uit barmhartigheid van Onze kant en als vermaning voor hen die \[Ons\] dienen.
 
 # 2568
 
-En aan Isma'iel, Idries en Dzoe-l-Kifl. Ieder [van hen] behoorde tot hen die geduldig volharden.
+En aan Isma'iel, Idries en Dzoe-l-Kifl. Ieder \[van hen\] behoorde tot hen die geduldig volharden.
 
 # 2569
 
@@ -10318,11 +10318,11 @@ Maar wie deugdelijke daden doet, terwijl hij gelovig is, hem valt geen ondankbaa
 
 # 2578
 
-En aan een stad die Wij hebben vernietigd is het niet toegestaan dat [de inwoners ervan] terugkeren,
+En aan een stad die Wij hebben vernietigd is het niet toegestaan dat \[de inwoners ervan\] terugkeren,
 
 # 2579
 
-zolang niet [de wal van] Jadjoedj en Madjoedj geopend wordt en zij van elke hoogte komen aansnellen
+zolang niet \[de wal van\] Jadjoedj en Madjoedj geopend wordt en zij van elke hoogte komen aansnellen
 
 # 2580
 
@@ -10362,7 +10362,7 @@ En Wij hebben in de Zaboer, na de vermaning, geschreven dat Mijn rechtschapen di
 
 # 2589
 
-Hierin is een verkondiging voor mensen die [Ons] dienen.
+Hierin is een verkondiging voor mensen die \[Ons\] dienen.
 
 # 2590
 
@@ -10370,7 +10370,7 @@ En Wij hebben jou slechts als barmhartigheid voor de wereldbewoners gezonden.
 
 # 2591
 
-Zeg: "Aan mij wordt slechts geopenbaard dat jullie god één god is. Zullen jullie dan [mensen] worden die zich [aan God] hebben overgegeven."
+Zeg: "Aan mij wordt slechts geopenbaard dat jullie god één god is. Zullen jullie dan \[mensen\] worden die zich \[aan God\] hebben overgegeven."
 
 # 2592
 
@@ -10422,7 +10422,7 @@ En er zijn mensen die zonder kennis, zonder leidraad en zonder verlichtend boek 
 
 # 2604
 
-Zo iemand gaat trots opzij staan om [anderen] van Gods weg te laten afdwalen. Voor hem is er in het tegenwoordige leven schande en Wij zullen hem op de opstandingsdag de bestraffing van het vuur laten proeven.
+Zo iemand gaat trots opzij staan om \[anderen\] van Gods weg te laten afdwalen. Voor hem is er in het tegenwoordige leven schande en Wij zullen hem op de opstandingsdag de bestraffing van het vuur laten proeven.
 
 # 2605
 
@@ -10474,7 +10474,7 @@ Voor hen zijn er knuppels van ijzer.
 
 # 2617
 
-Telkens als zij van smart eruit wensen te gaan, worden zij erin teruggebracht en [wordt tot hen gezegd]: "Proeft de straf van de verbranding."
+Telkens als zij van smart eruit wensen te gaan, worden zij erin teruggebracht en \[wordt tot hen gezegd\]: "Proeft de straf van de verbranding."
 
 # 2618
 
@@ -10486,11 +10486,11 @@ En zij worden geleid tot iets wat goed is om te zeggen en zij worden naar de weg
 
 # 2620
 
-Zij die ongelovig zijn en de weg van God versperren en ook de weg naar de heilige moskee die Wij gemaakt hebben voor de mensen, of zij daar nu een vaste verblijfplaats hebben of [als bezoeker] vanuit de woestijn komen? en als iemand daar misbruik wenst te maken door onrecht te plegen, dan zullen Wij hem een pijnlijke bestraffing laten proeven.
+Zij die ongelovig zijn en de weg van God versperren en ook de weg naar de heilige moskee die Wij gemaakt hebben voor de mensen, of zij daar nu een vaste verblijfplaats hebben of \[als bezoeker\] vanuit de woestijn komen? en als iemand daar misbruik wenst te maken door onrecht te plegen, dan zullen Wij hem een pijnlijke bestraffing laten proeven.
 
 # 2621
 
-En toen Wij aan Ibrahiem op de plaats van het huis onderdak gaven [en zeiden]: "Voeg niets als metgezel aan Mij toe en reinig Mijn huis voor hen die de omgang verrichten, die rechtopstaan en die buigen en zich eerbiedig neerbuigen.
+En toen Wij aan Ibrahiem op de plaats van het huis onderdak gaven \[en zeiden\]: "Voeg niets als metgezel aan Mij toe en reinig Mijn huis voor hen die de omgang verrichten, die rechtopstaan en die buigen en zich eerbiedig neerbuigen.
 
 # 2622
 
@@ -10518,7 +10518,7 @@ Dat is het. En als iemand Gods gewijde symbolen in ere houdt, dan komt dat van d
 
 # 2628
 
-Voor jullie zijn daarin allerlei nuttigheden tot een vastgestelde termijn en daarna vinden zij hun bestemming [om geslacht te worden] bij het aloude huis.
+Voor jullie zijn daarin allerlei nuttigheden tot een vastgestelde termijn en daarna vinden zij hun bestemming \[om geslacht te worden\] bij het aloude huis.
 
 # 2629
 
@@ -10530,7 +10530,7 @@ van wie, wanneer Gods naam vermeld wordt, de harten vol ontzag zijn, die geduldi
 
 # 2631
 
-En de offerkamelen hebben Wij voor jullie tot Gods gewijde symbolen laten behoren. Daarin is [allerlei] goeds voor jullie. En vermeldt Gods naam erover als ze gekluisterd klaar staan. En als ze op hun zij gevallen zijn, eet er dan van en voedt ook de arme die bescheiden is en die erom vraagt. Zo hebben Wij ze aan jullie dienstbaar gemaakt; misschien zullen jullie dank betuigen.
+En de offerkamelen hebben Wij voor jullie tot Gods gewijde symbolen laten behoren. Daarin is \[allerlei\] goeds voor jullie. En vermeldt Gods naam erover als ze gekluisterd klaar staan. En als ze op hun zij gevallen zijn, eet er dan van en voedt ook de arme die bescheiden is en die erom vraagt. Zo hebben Wij ze aan jullie dienstbaar gemaakt; misschien zullen jullie dank betuigen.
 
 # 2632
 
@@ -10542,7 +10542,7 @@ God zal hen die geloven verdedigen. God bemint geen enkele ondankbare verrader.
 
 # 2634
 
-Aan hen die bestreden worden is [de strijd] toegestaan omdat hun onrecht is aangedaan; God heeft de macht hen te helpen,
+Aan hen die bestreden worden is \[de strijd\] toegestaan omdat hun onrecht is aangedaan; God heeft de macht hen te helpen,
 
 # 2635
 
@@ -10554,7 +10554,7 @@ zij die, als Wij hun macht op de aarde geven, de salaat verrichten, de zakaat ge
 
 # 2637
 
-Als zij jou van leugens betichten; al voor hun tijd had Noehs volk van leugens beticht en [evenzo] de 'Aad en de Thamoed
+Als zij jou van leugens betichten; al voor hun tijd had Noehs volk van leugens beticht en \[evenzo\] de 'Aad en de Thamoed
 
 # 2638
 
@@ -10594,7 +10594,7 @@ Maar zij die tegen Onze tekenen proberen in te gaan om ze te ontkrachten, dat zu
 
 # 2647
 
-En Wij hebben voor jouw tijd geen gezant of profeet gezonden zonder dat de satan hem, wanneer hij iets wenste, iets [om] volgens zijn wens [voor te lezen] had ingegeven. Maar God schaft af wat de satan ingeeft en dan stelt God Zijn tekenen eenduidig vast. God is wijs en wetend.
+En Wij hebben voor jouw tijd geen gezant of profeet gezonden zonder dat de satan hem, wanneer hij iets wenste, iets \[om\] volgens zijn wens \[voor te lezen\] had ingegeven. Maar God schaft af wat de satan ingeeft en dan stelt God Zijn tekenen eenduidig vast. God is wijs en wetend.
 
 # 2648
 
@@ -10610,7 +10610,7 @@ Zij die ongelovig zijn blijven erover in twijfel totdat het uur onverwachts tot 
 
 # 2651
 
-De heerschappij op die dag heeft God [alleen]. Hij zal tussen hen oordelen. Dus zullen zij die geloven en de deugdelijke daden doen in de tuinen van de gelukzaligheid zijn.
+De heerschappij op die dag heeft God \[alleen\]. Hij zal tussen hen oordelen. Dus zullen zij die geloven en de deugdelijke daden doen in de tuinen van de gelukzaligheid zijn.
 
 # 2652
 
@@ -10622,7 +10622,7 @@ En zij die op Gods weg uitgeweken zijn en dan gedood worden of sterven, voor hen
 
 # 2654
 
-Hij zal hen zeker een plaats binnen laten gaan waar zij mee ingenomen zijn. God is wetend en zachtmoedig. *
+Hij zal hen zeker een plaats binnen laten gaan waar zij mee ingenomen zijn. God is wetend en zachtmoedig. \*
 
 # 2655
 
@@ -10698,7 +10698,7 @@ Jullie die geloven! Buigt en buigt jullie eerbiedig neer en dient jullie Heer en
 
 # 2673
 
-En zet jullie voor God in met de inzet die Hem toekomt. Hij heeft jullie verkozen en Hij heeft jullie in de godsdienst niets hinderlijks opgelegd: het geloof van jullie vader Ibrahiem. Hij heeft jullie vroeger al [mensen] die zich [aan God] overgegeven hebben genoemd en [nu] ook hierin, opdat de gezant getuige voor jullie zou zijn en opdat jullie getuigen voor de mensen zouden zijn. Verricht dus de salaat en geeft de zakaat en houdt jullie aan God vast. Hij is jullie beschermheer; een voortreffelijke beschermheer en een voortreffelijke helper.
+En zet jullie voor God in met de inzet die Hem toekomt. Hij heeft jullie verkozen en Hij heeft jullie in de godsdienst niets hinderlijks opgelegd: het geloof van jullie vader Ibrahiem. Hij heeft jullie vroeger al \[mensen\] die zich \[aan God\] overgegeven hebben genoemd en \[nu\] ook hierin, opdat de gezant getuige voor jullie zou zijn en opdat jullie getuigen voor de mensen zouden zijn. Verricht dus de salaat en geeft de zakaat en houdt jullie aan God vast. Hij is jullie beschermheer; een voortreffelijke beschermheer en een voortreffelijke helper.
 
 # 2674
 
@@ -10826,7 +10826,7 @@ Toen lieten Wij na hen een andere generatie ontstaan.
 
 # 2705
 
-En Wij zonden een gezant uit hun midden tot hen [met de oproep]: "Dient God; jullie hebben geen andere god dan Hem. Zullen jullie niet godvrezend worden?"
+En Wij zonden een gezant uit hun midden tot hen \[met de oproep\]: "Dient God; jullie hebben geen andere god dan Hem. Zullen jullie niet godvrezend worden?"
 
 # 2706
 
@@ -10838,7 +10838,7 @@ En als jullie een mens zoals jullie zelf gehoorzamen dan zijn jullie werkelijk v
 
 # 2708
 
-Zegt hij jullie werkelijk aan dat jullie, wanneer jullie gestorven zijn en stof en gebeente geworden zijn, dat jullie dan weer tevoorschijn gebracht zullen worden? *
+Zegt hij jullie werkelijk aan dat jullie, wanneer jullie gestorven zijn en stof en gebeente geworden zijn, dat jullie dan weer tevoorschijn gebracht zullen worden? \*
 
 # 2709
 
@@ -10874,7 +10874,7 @@ Geen gemeenschap kan te vroeg haar termijn bereiken en ook niet te laat.
 
 # 2717
 
-Toen zonden Wij Onze gezanten, de een na de ander. Telkens als tot een gemeenschap haar gezant kwam betichtten zij hem van leugens. Dus lieten Wij hen elkaar opvolgen en maakten hen tot [het onderwerp van] verhalen. Weg dus met mensen die niet geloven.
+Toen zonden Wij Onze gezanten, de een na de ander. Telkens als tot een gemeenschap haar gezant kwam betichtten zij hem van leugens. Dus lieten Wij hen elkaar opvolgen en maakten hen tot \[het onderwerp van\] verhalen. Weg dus met mensen die niet geloven.
 
 # 2718
 
@@ -10994,7 +10994,7 @@ En jij roept hen echt op tot een juiste weg.
 
 # 2747
 
-Maar zij die in het hiernamaals niet geloven wijken van de weg af. *
+Maar zij die in het hiernamaals niet geloven wijken van de weg af. \*
 
 # 2748
 
@@ -11062,7 +11062,7 @@ Ja zeker, Wij zijn met de waarheid tot hen gekomen en zij zijn het die liegen.
 
 # 2764
 
-God heeft zich geen kind genomen en er is naast Hem geen andere god; dan zou elke god met wat hij geschapen heeft weggaan en zou de een de ander overweldigen. God zij geprezen, verheven als Hij is boven wat zij [Hem] toeschrijven,
+God heeft zich geen kind genomen en er is naast Hem geen andere god; dan zou elke god met wat hij geschapen heeft weggaan en zou de een de ander overweldigen. God zij geprezen, verheven als Hij is boven wat zij \[Hem\] toeschrijven,
 
 # 2765
 
@@ -11098,7 +11098,7 @@ En wanneer dan tot een van hen de dood komt, zegt hij: "Mijn Heer, laat mij teru
 
 # 2773
 
-opdat ik dan misschien wel deugdelijk zal handelen in wat ik [nu] achtergelaten heb." Nee! Dat is zomaar een woord dat hij zegt, maar achter hen is een versperring tot aan de dag waarop zij opgewekt worden.
+opdat ik dan misschien wel deugdelijk zal handelen in wat ik \[nu\] achtergelaten heb." Nee! Dat is zomaar een woord dat hij zegt, maar achter hen is een versperring tot aan de dag waarop zij opgewekt worden.
 
 # 2774
 
@@ -11130,7 +11130,7 @@ Onze Heer, breng ons hieruit en als wij dan terugvallen, dan plegen wij echt onr
 
 # 2781
 
-Hij zegt: "Weest weg, [blijft] erin en spreekt niet tot mij.
+Hij zegt: "Weest weg, \[blijft\] erin en spreekt niet tot mij.
 
 # 2782
 
@@ -11198,7 +11198,7 @@ Zij die hun echtgenotes beschuldigen en behalve zichzelf geen getuigen hebben, h
 
 # 2798
 
-En de vijfde maal [moet hij uitspreken] dat Gods vloek op hem zal rusten als hij een leugenaar is.
+En de vijfde maal \[moet hij uitspreken\] dat Gods vloek op hem zal rusten als hij een leugenaar is.
 
 # 2799
 
@@ -11206,7 +11206,7 @@ En als zij viermaal bij God getuigt dat hij een leugenaar is, dan weert dat voor
 
 # 2800
 
-En de vijfde maal [moet zij uitspreken] dat Gods toorn op haar zal rusten als hij iemand is die de waarheid zegt.
+En de vijfde maal \[moet zij uitspreken\] dat Gods toorn op haar zal rusten als hij iemand is die de waarheid zegt.
 
 # 2801
 
@@ -11310,7 +11310,7 @@ En Wij hebben naar jou verduidelijkende tekenen gezonden en een voorbeeld van he
 
 # 2826
 
-God is het licht van de hemelen en de aarde. Zijn licht lijkt bijvoorbeeld op een nis met een lamp erin. De lamp staat in een glas. Het glas is zo schitterend als een stralende ster. Zij brandt [op olie] van een gezegende boom, een olijfboom -- geen oostelijke en geen westelijke -- waarvan de olie bijna [uit zichzelf] licht geeft, ook al heeft geen vuur haar aangeraakt; licht boven licht. God leidt tot Zijn licht wie Hij wil -- God geeft vergelijkingen voor de mensen en God is alwetend --
+God is het licht van de hemelen en de aarde. Zijn licht lijkt bijvoorbeeld op een nis met een lamp erin. De lamp staat in een glas. Het glas is zo schitterend als een stralende ster. Zij brandt \[op olie\] van een gezegende boom, een olijfboom -- geen oostelijke en geen westelijke -- waarvan de olie bijna \[uit zichzelf\] licht geeft, ook al heeft geen vuur haar aangeraakt; licht boven licht. God leidt tot Zijn licht wie Hij wil -- God geeft vergelijkingen voor de mensen en God is alwetend --
 
 # 2827
 
@@ -11330,7 +11330,7 @@ Maar zij die ongelovig zijn, hun daden zijn als een luchtspiegeling op een vlakt
 
 # 2831
 
-Of [ze zijn] als duisternissen op een diepe zee die door golven bedekt wordt met nog golven erboven waarboven wolken zijn: duisternissen boven elkaar. Wanneer hij zijn hand uitsteekt kan hij hem bijna niet zien. En aan wie God geen licht geeft, voor hem is er geen licht.
+Of \[ze zijn\] als duisternissen op een diepe zee die door golven bedekt wordt met nog golven erboven waarboven wolken zijn: duisternissen boven elkaar. Wanneer hij zijn hand uitsteekt kan hij hem bijna niet zien. En aan wie God geen licht geeft, voor hem is er geen licht.
 
 # 2832
 
@@ -11414,7 +11414,7 @@ En voor de vrouwen die op leeftijd zijn en die niet meer verwachten te trouwen i
 
 # 2852
 
-De blinde treft geen blaam, de kreupele treft geen blaam en de zieke treft geen blaam noch jullie zelf als jullie in jullie [eigen] huizen eten of in de huizen van jullie vaders of in de huizen van jullie moeders of in de huizen van jullie broers of in de huizen van jullie zusters of in de huizen van jullie ooms van vaderskant of in de huizen van jullie tantes van vaderskant of in de huizen van jullie ooms van moederskant of in de huizen van jullie tantes van moederskant of waarvan jullie de sleutels bezitten of van een vriend van jullie. Het is geen overtreding voor jullie als jullie gezamenlijk eten of afzonderlijk. Wanneer jullie dus huizen binnengaan, groet dan elkaar met een gezegende en goede groet die van God komt. Zo verduidelijkt God voor jullie de tekenen; misschien zullen jullie verstandig worden.
+De blinde treft geen blaam, de kreupele treft geen blaam en de zieke treft geen blaam noch jullie zelf als jullie in jullie \[eigen\] huizen eten of in de huizen van jullie vaders of in de huizen van jullie moeders of in de huizen van jullie broers of in de huizen van jullie zusters of in de huizen van jullie ooms van vaderskant of in de huizen van jullie tantes van vaderskant of in de huizen van jullie ooms van moederskant of in de huizen van jullie tantes van moederskant of waarvan jullie de sleutels bezitten of van een vriend van jullie. Het is geen overtreding voor jullie als jullie gezamenlijk eten of afzonderlijk. Wanneer jullie dus huizen binnengaan, groet dan elkaar met een gezegende en goede groet die van God komt. Zo verduidelijkt God voor jullie de tekenen; misschien zullen jullie verstandig worden.
 
 # 2853
 
@@ -11506,7 +11506,7 @@ Zij hebben jullie dus over wat jullie zeiden van leugens beticht. Jullie kunnen 
 
 # 2875
 
-Wij hebben voor jouw tijd alleen maar gezondenen gezonden die voedsel aten en op de markten rondliepen. En Wij hebben sommigen van jullie tot een verzoeking voor anderen gemaakt [om te zien] of jullie geduldig kunnen volharden; jouw Heer is doorziend. *
+Wij hebben voor jouw tijd alleen maar gezondenen gezonden die voedsel aten en op de markten rondliepen. En Wij hebben sommigen van jullie tot een verzoeking voor anderen gemaakt \[om te zien\] of jullie geduldig kunnen volharden; jouw Heer is doorziend. \*
 
 # 2876
 
@@ -11562,7 +11562,7 @@ En zij komen niet tot jou met een voorbeeld of Wij komen tot jou met de waarheid
 
 # 2889
 
-Zij die op hun gezichten [ter aarde geworpen] tot de hel verzameld zullen worden, zij zijn het die de slechtste plaats hebben en het verst afgedwaald zijn van de weg.
+Zij die op hun gezichten \[ter aarde geworpen\] tot de hel verzameld zullen worden, zij zijn het die de slechtste plaats hebben en het verst afgedwaald zijn van de weg.
 
 # 2890
 
@@ -11726,7 +11726,7 @@ En zij die zeggen: "Onze Heer, schenk ons dat wij aan onze echtgenotes en nakome
 
 # 2930
 
-Zij zijn het die met de [feest]zaal beloond worden omdat zij geduldig volhard hebben. En men zal hen daarin met een begroeting en met "vrede" tegemoet treden.
+Zij zijn het die met de \[feest\]zaal beloond worden omdat zij geduldig volhard hebben. En men zal hen daarin met een begroeting en met "vrede" tegemoet treden.
 
 # 2931
 
@@ -11738,7 +11738,7 @@ Zeg: "Mijn Heer zal zich niet om jullie bekommeren als jullie Hem niet aanroepen
 
 # 2933
 
-T[aa?] S[ien] M[iem].
+T\[aa?\] S\[ien\] M\[iem\].
 
 # 2934
 
@@ -11778,7 +11778,7 @@ Toen jouw Heer Moesa riep: "Ga naar de mensen die onrecht plegen,
 
 # 2943
 
-het volk van Fir'aun [om te zien] of zij niet godvrezend zullen worden."
+het volk van Fir'aun \[om te zien\] of zij niet godvrezend zullen worden."
 
 # 2944
 
@@ -11902,7 +11902,7 @@ Toen de tovenaars dan kwamen zeiden zij tot Fir'aun: "Er is voor ons toch wel ee
 
 # 2974
 
-Hij zei: "Ja, jullie zullen dan tot hen behoren die in [mijn] nabijheid zijn toegelaten."
+Hij zei: "Ja, jullie zullen dan tot hen behoren die in \[mijn\] nabijheid zijn toegelaten."
 
 # 2975
 
@@ -11934,11 +11934,11 @@ Hij zei: "Jullie geloven aan hem voordat ik jullie toestemming gegeven heb. Hij 
 
 # 2982
 
-Zij zeiden: "Het deert [ons] niet, wij zullen tot onze Heer omkeren.
+Zij zeiden: "Het deert \[ons\] niet, wij zullen tot onze Heer omkeren.
 
 # 2983
 
-Wij begeren dat onze Heer ons onze fouten vergeeft, omdat wij [nu] de eersten van de gelovigen zijn."
+Wij begeren dat onze Heer ons onze fouten vergeeft, omdat wij \[nu\] de eersten van de gelovigen zijn."
 
 # 2984
 
@@ -12058,7 +12058,7 @@ en wanneer ik ziek ben, dan geneest Hij mij
 
 # 3013
 
-en Hij is het die mij laat sterven en dan [weer] tot leven brengt
+en Hij is het die mij laat sterven en dan \[weer\] tot leven brengt
 
 # 3014
 
@@ -12174,7 +12174,7 @@ En ik vraag jullie daarvoor geen loon. Slechts de Heer van de wereldbewoners is 
 
 # 3042
 
-Vreest dan God en gehoorzaamt mij." *
+Vreest dan God en gehoorzaamt mij." \*
 
 # 3043
 
@@ -12454,7 +12454,7 @@ Vreest dan God en gehoorzaamt mij.
 
 # 3112
 
-En ik vraag jullie daarvoor geen loon. Slechts de Heer van de wereldbewoners is belast met mijn loon. *
+En ik vraag jullie daarvoor geen loon. Slechts de Heer van de wereldbewoners is belast met mijn loon. \*
 
 # 3113
 
@@ -12646,7 +12646,7 @@ Maar niet zij die geloven, de deugdelijke daden doen en God veelvuldig gedenken 
 
 # 3160
 
-T[aa?] S[ien]. Dit zijn de tekenen van de Koran en een duidelijk boek.
+T\[aa?\] S\[ien\]. Dit zijn de tekenen van de Koran en een duidelijk boek.
 
 # 3161
 
@@ -12670,7 +12670,7 @@ En aan jou wordt de Koran overgebracht van de kant van een wijze en wetende.
 
 # 3166
 
-Toen Moesa tot zijn mensen zei: "Ik heb een vuur waargenomen, ik zal jullie er bericht van brengen of ik breng jullie een brandende fakkel; misschien zullen jullie [erdoor] verwarmd worden."
+Toen Moesa tot zijn mensen zei: "Ik heb een vuur waargenomen, ik zal jullie er bericht van brengen of ik breng jullie een brandende fakkel; misschien zullen jullie \[erdoor\] verwarmd worden."
 
 # 3167
 
@@ -12730,7 +12730,7 @@ Ik zal hem streng bestraffen of ik zal hem slachten of hij moet mij een duidelij
 
 # 3181
 
-Hij bleef toen niet lang meer weg en zei: "Ik omvat [met mijn kennis] wat jij niet omvat en ik ben uit Saba? naar jou gekomen met een vaststaand bericht.
+Hij bleef toen niet lang meer weg en zei: "Ik omvat \[met mijn kennis\] wat jij niet omvat en ik ben uit Saba? naar jou gekomen met een vaststaand bericht.
 
 # 3182
 
@@ -12746,7 +12746,7 @@ zodat zij zich niet eerbiedig voor God neerbuigen die het verborgene in de hemel
 
 # 3185
 
-God, er is geen god dan hij, de Heer van de geweldige troon." -- *
+God, er is geen god dan hij, de Heer van de geweldige troon." -- \*
 
 # 3186
 
@@ -12766,7 +12766,7 @@ Hij is van Soelaimaan en hij luidt: In de naam van God, de erbarmer, de barmhart
 
 # 3190
 
-Weest niet hovaardig tegenover mij en komt tot mij als [mensen] die zich [aan God] hebben overgegeven."
+Weest niet hovaardig tegenover mij en komt tot mij als \[mensen\] die zich \[aan God\] hebben overgegeven."
 
 # 3191
 
@@ -12794,7 +12794,7 @@ Keer naar hen terug, wij zullen met troepen tot hen komen waartegen geen weersta
 
 # 3197
 
-Hij zei: "Raad van voornaamsten! Wie van jullie brengt mij haar troon voordat zij tot mij komen als [mensen] die zich [aan God] hebben overgegeven?"
+Hij zei: "Raad van voornaamsten! Wie van jullie brengt mij haar troon voordat zij tot mij komen als \[mensen\] die zich \[aan God\] hebben overgegeven?"
 
 # 3198
 
@@ -12810,11 +12810,11 @@ Hij zei: "Maak haar troon voor haar onherkenbaar, dan zullen wij kijken of haar 
 
 # 3201
 
-Toen zij dan kwam zei men tot haar: "Is dit jouw troon?" Zij zei: "Het is alsof het hem is." [Soelaimaan zei:] "Aan ons was voor haar tijd al kennis gegeven en wij hadden ons [aan God] overgegeven."
+Toen zij dan kwam zei men tot haar: "Is dit jouw troon?" Zij zei: "Het is alsof het hem is." \[Soelaimaan zei:\] "Aan ons was voor haar tijd al kennis gegeven en wij hadden ons \[aan God\] overgegeven."
 
 # 3202
 
-Maar wat zij in plaats van God dienden had haar [van het goede pad] afgehouden. Zij behoorde tot ongelovige mensen.
+Maar wat zij in plaats van God dienden had haar \[van het goede pad\] afgehouden. Zij behoorde tot ongelovige mensen.
 
 # 3203
 
@@ -12862,7 +12862,7 @@ En Loet, toen hij tot zijn volk zei: "Zullen jullie een gruweldaad begaan hoewel
 
 # 3214
 
-Zullen jullie uit begeerte tot de mannen gaan in plaats van tot de vrouwen? Ja zeker, jullie zijn mensen die niets weten." *
+Zullen jullie uit begeerte tot de mannen gaan in plaats van tot de vrouwen? Ja zeker, jullie zijn mensen die niets weten." \*
 
 # 3215
 
@@ -12966,7 +12966,7 @@ Jij kunt de doden niet laten horen, noch kun jij de doven de oproep laten horen 
 
 # 3240
 
-En jij brengt de blinden niet van hun dwaalweg af. Jij kunt slechts hen die in Onze tekenen geloven doen horen; zij hebben zich [aan God] overgegeven. *
+En jij brengt de blinden niet van hun dwaalweg af. Jij kunt slechts hen die in Onze tekenen geloven doen horen; zij hebben zich \[aan God\] overgegeven. \*
 
 # 3241
 
@@ -13006,7 +13006,7 @@ Zij die met een slechte daad komen worden halsoverkop in het vuur gestort: "Word
 
 # 3250
 
-Maar mij is bevolen de Heer van deze plaats te dienen die haar heilig verklaard heeft en aan wie alles behoort. En mij is bevolen tot hen die zich [aan God] overgeven te behoren
+Maar mij is bevolen de Heer van deze plaats te dienen die haar heilig verklaard heeft en aan wie alles behoort. En mij is bevolen tot hen die zich \[aan God\] overgeven te behoren
 
 # 3251
 
@@ -13018,7 +13018,7 @@ En zeg: "Lof zij God, Hij zal jullie Zijn tekenen laten zien zodat jullie ze zul
 
 # 3253
 
-T[aa?] S[ien] M[iem].
+T\[aa?\] S\[ien\] M\[iem\].
 
 # 3254
 
@@ -13046,7 +13046,7 @@ En Wij openbaarden aan de moeder van Moesa: "Zoog hem en wanneer jij bang voor h
 
 # 3260
 
-Toen namen de mensen van Fir'aun hem op, opdat hij voor hen een vijand en [reden tot] droefheid zou worden. Fir'aun en Hamaan en hun legers waren immers zondaars.
+Toen namen de mensen van Fir'aun hem op, opdat hij voor hen een vijand en \[reden tot\] droefheid zou worden. Fir'aun en Hamaan en hun legers waren immers zondaars.
 
 # 3261
 
@@ -13058,7 +13058,7 @@ En het hart van Moesa's moeder werd ontroostbaar. Bijna had zij het van hem beke
 
 # 3263
 
-En zij zei tot zijn zuster: "Ga achter hem aan." Zij hield dus van terzijde een oog op hem zonder dat zij het merkten. *
+En zij zei tot zijn zuster: "Ga achter hem aan." Zij hield dus van terzijde een oog op hem zonder dat zij het merkten. \*
 
 # 3264
 
@@ -13086,7 +13086,7 @@ Hij zei: "Mijn Heer, omdat U mij genade geschonken hebt, zal ik de boosdoeners g
 
 # 3270
 
-'s Morgens begon hij bang te worden en om zich heen te kijken. En daar was hij die hem de vorige dag om hulp had gevraagd die [weer] om hulp schreeuwde. Moesa zei tot hem: "Jij bent duidelijk misleid."
+'s Morgens begon hij bang te worden en om zich heen te kijken. En daar was hij die hem de vorige dag om hulp had gevraagd die \[weer\] om hulp schreeuwde. Moesa zei tot hem: "Jij bent duidelijk misleid."
 
 # 3271
 
@@ -13106,15 +13106,15 @@ Toen hij in de richting van Madjan ging zei hij: "Misschien dat mijn Heer mij op
 
 # 3275
 
-En toen hij bij het water van Madjan kwam vond hij daar een gemeenschap van mensen die [hun vee] te drinken gaven en hij vond naast hen twee vrouwen die [hun vee] terughielden. Hij zei: "Wat is er met jullie beiden?" Zij zeiden: "Wij kunnen [ons vee] pas te drinken geven als de herders weggaan. Onze vader is namelijk een zeer oude man."
+En toen hij bij het water van Madjan kwam vond hij daar een gemeenschap van mensen die \[hun vee\] te drinken gaven en hij vond naast hen twee vrouwen die \[hun vee\] terughielden. Hij zei: "Wat is er met jullie beiden?" Zij zeiden: "Wij kunnen \[ons vee\] pas te drinken geven als de herders weggaan. Onze vader is namelijk een zeer oude man."
 
 # 3276
 
-Toen gaf hij [hun vee] te drinken en ging terug in de schaduw en zei: "Mijn Heer, ik heb behoefte aan het goede dat U tot mij neerzendt."
+Toen gaf hij \[hun vee\] te drinken en ging terug in de schaduw en zei: "Mijn Heer, ik heb behoefte aan het goede dat U tot mij neerzendt."
 
 # 3277
 
-Toen kwam een van hen beiden bedeesd naar hem toe. Zij zei: "Mijn vader nodigt je uit om je ervoor te belonen dat jij ons [vee] te drinken gegeven hebt." Toen hij bij hem kwam en hem het verhaal vertelde zei deze: "Wees niet bang, je bent aan mensen die onrecht plegen ontkomen."
+Toen kwam een van hen beiden bedeesd naar hem toe. Zij zei: "Mijn vader nodigt je uit om je ervoor te belonen dat jij ons \[vee\] te drinken gegeven hebt." Toen hij bij hem kwam en hem het verhaal vertelde zei deze: "Wees niet bang, je bent aan mensen die onrecht plegen ontkomen."
 
 # 3278
 
@@ -13130,7 +13130,7 @@ Hij zei: "Dat is dan een afspraak tussen mij en jou. Welke van de twee termijnen
 
 # 3281
 
-Toen Moesa de termijn vol gemaakt had en met zijn huisgenoten wegtrok nam hij op de zijkant van de berg een vuur waar en hij zei tot zijn mensen: "Blijft staan, ik heb een vuur waargenomen, misschien zal ik jullie er een bericht van brengen of een toorts van vuur; misschien zullen jullie [erdoor] verwarmd worden."
+Toen Moesa de termijn vol gemaakt had en met zijn huisgenoten wegtrok nam hij op de zijkant van de berg een vuur waar en hij zei tot zijn mensen: "Blijft staan, ik heb een vuur waargenomen, misschien zal ik jullie er een bericht van brengen of een toorts van vuur; misschien zullen jullie \[erdoor\] verwarmd worden."
 
 # 3282
 
@@ -13194,7 +13194,7 @@ En jij was niet op de westkant toen Wij de beschikking aan Moesa uitvaardigden e
 
 # 3297
 
-Maar Wij hebben generaties laten ontstaan en hun leven duurde lang. En jij verbleef niet bij de mensen van Madjan om Onze tekenen aan hen voor te lezen, maar Wij waren het die [gezanten] uitzonden.
+Maar Wij hebben generaties laten ontstaan en hun leven duurde lang. En jij verbleef niet bij de mensen van Madjan om Onze tekenen aan hen voor te lezen, maar Wij waren het die \[gezanten\] uitzonden.
 
 # 3298
 
@@ -13214,7 +13214,7 @@ Zeg: "Komt dan met een boek dat van God komt en dat beter de goede richting wijs
 
 # 3302
 
-Maar als zij jullie geen gehoor geven, weet dan dat zij slechts hun neigingen volgen. En wie dwaalt er meer dan hij die zonder een leidraad van God zijn neiging volgt; God brengt de mensen die onrecht plegen niet op het goede pad. *
+Maar als zij jullie geen gehoor geven, weet dan dat zij slechts hun neigingen volgen. En wie dwaalt er meer dan hij die zonder een leidraad van God zijn neiging volgt; God brengt de mensen die onrecht plegen niet op het goede pad. \*
 
 # 3303
 
@@ -13226,7 +13226,7 @@ Zij aan wie Wij hiervoor het boek gegeven hebben geloven erin.
 
 # 3305
 
-En als het aan hen wordt voorgelezen zeggen zij: "Wij geloven erin. Het is de waarheid van onze Heer; wij hadden ons hiervoor reeds [aan God] overgegeven."
+En als het aan hen wordt voorgelezen zeggen zij: "Wij geloven erin. Het is de waarheid van onze Heer; wij hadden ons hiervoor reeds \[aan God\] overgegeven."
 
 # 3306
 
@@ -13262,15 +13262,15 @@ Is dan iemand aan wie Wij een goede toezegging gedaan hebben en die haar ook zal
 
 # 3314
 
-En op de dag dat Hij hen roept en zegt: "Waar zijn dan Mijn [zogenaamd goddelijke] metgezellen waarvan jullie het bestaan beweerden?"
+En op de dag dat Hij hen roept en zegt: "Waar zijn dan Mijn \[zogenaamd goddelijke\] metgezellen waarvan jullie het bestaan beweerden?"
 
 # 3315
 
-zeggen zij tegen wie de uitspraak zich bewaarheid heeft: "Onze Heer, diegenen die wij misleid hebben, hebben wij misleid zoals wijzelf misleid waren. Wij wijzen [hen] ten overstaan van U af. Zij hebben niet ons gediend."
+zeggen zij tegen wie de uitspraak zich bewaarheid heeft: "Onze Heer, diegenen die wij misleid hebben, hebben wij misleid zoals wijzelf misleid waren. Wij wijzen \[hen\] ten overstaan van U af. Zij hebben niet ons gediend."
 
 # 3316
 
-En er wordt gezegd: "Roept jullie [zogenaamd goddelijke] metgezellen aan." Dan roepen zij hen aan, maar zij worden door hen niet verhoord. En zij zien de bestraffing. Hadden zij het goede pad maar gevolgd.
+En er wordt gezegd: "Roept jullie \[zogenaamd goddelijke\] metgezellen aan." Dan roepen zij hen aan, maar zij worden door hen niet verhoord. En zij zien de bestraffing. Hadden zij het goede pad maar gevolgd.
 
 # 3317
 
@@ -13310,7 +13310,7 @@ Door Zijn barmhartigheid heeft Hij voor jullie de nacht en de dag gemaakt om er 
 
 # 3326
 
-En op de dag dat Hij hen roept en zegt: "Waar zijn dan Mijn [zogenaamd goddelijke] metgezellen waarvan jullie het bestaan beweerden?"
+En op de dag dat Hij hen roept en zegt: "Waar zijn dan Mijn \[zogenaamd goddelijke\] metgezellen waarvan jullie het bestaan beweerden?"
 
 # 3327
 
@@ -13318,7 +13318,7 @@ En Wij nemen uit iedere gemeenschap een getuige en dan zeggen Wij: "Levert julli
 
 # 3328
 
-Karoen behoorde tot het volk van Moesa en hij gedroeg zich onrechtmatig tegenover hen. En Wij hadden hem zoveel schatten gegeven dat zijn sleutels met moeite door een groep sterke mannen gedragen zouden kunnen worden. Toen zijn volk tot hem zei: "Verheug je niet zo. God bemint hen niet die zich [ongegrond] verheugen.
+Karoen behoorde tot het volk van Moesa en hij gedroeg zich onrechtmatig tegenover hen. En Wij hadden hem zoveel schatten gegeven dat zijn sleutels met moeite door een groep sterke mannen gedragen zouden kunnen worden. Toen zijn volk tot hem zei: "Verheug je niet zo. God bemint hen niet die zich \[ongegrond\] verheugen.
 
 # 3329
 
@@ -13338,7 +13338,7 @@ Maar zij aan wie kennis gegeven was zeiden: "Wee jullie! Gods beloning is beter 
 
 # 3333
 
-Toen lieten Wij de aarde met hem en zijn huis wegzinken en er was voor hem geen groep [mensen] die hem in plaats van God konden helpen; hij behoorde niet tot hen aan wie hulp geboden werd.
+Toen lieten Wij de aarde met hem en zijn huis wegzinken en er was voor hem geen groep \[mensen\] die hem in plaats van God konden helpen; hij behoorde niet tot hen aan wie hulp geboden werd.
 
 # 3334
 
@@ -13346,7 +13346,7 @@ En zij die de vorige dag nog zijn plaats gewenst hadden zeiden 's morgens: "O we
 
 # 3335
 
-Dat is de laatste woning. Wij geven haar aan hen die geen hovaardij op de aarde wensen en geen verdorvenheid. En het [goede] uiteinde komt de godvrezenden toe.
+Dat is de laatste woning. Wij geven haar aan hen die geen hovaardij op de aarde wensen en geen verdorvenheid. En het \[goede\] uiteinde komt de godvrezenden toe.
 
 # 3336
 
@@ -13370,7 +13370,7 @@ Roep dus naast God geen andere god aan. Er is geen god dan Hij. Alles gaat tenie
 
 # 3341
 
-A[lif] L[aam] M[iem].
+A\[lif\] L\[aam\] M\[iem\].
 
 # 3342
 
@@ -13406,7 +13406,7 @@ Zij die geloven en de deugdelijke daden doen zullen Wij bij de rechtschapenen bi
 
 # 3350
 
-En onder de mensen zijn er die zeggen: "Wij geloven in God." Wanneer hun echter wegens [hun geloof in] God leed wordt aangedaan stellen zij de beproeving van de mensen gelijk aan Gods bestraffing. Maar als er van jouw Heer een overwinning komt dan zeggen zij: "Wij waren toch met jullie." Weet God dan niet het best wat er in de harten van de wereldbewoners is?
+En onder de mensen zijn er die zeggen: "Wij geloven in God." Wanneer hun echter wegens \[hun geloof in\] God leed wordt aangedaan stellen zij de beproeving van de mensen gelijk aan Gods bestraffing. Maar als er van jouw Heer een overwinning komt dan zeggen zij: "Wij waren toch met jullie." Weet God dan niet het best wat er in de harten van de wereldbewoners is?
 
 # 3351
 
@@ -13438,7 +13438,7 @@ Maar jullie dienen in plaats van God afgoden en jullie brengen laster voort. Zij
 
 # 3358
 
-En als jullie [mij] van leugens betichten, gemeenschappen voor jullie tijd hadden al van leugens beticht. De gezant heeft slechts de plicht van de duidelijke verkondiging."
+En als jullie \[mij\] van leugens betichten, gemeenschappen voor jullie tijd hadden al van leugens beticht. De gezant heeft slechts de plicht van de duidelijke verkondiging."
 
 # 3359
 
@@ -13466,7 +13466,7 @@ Het antwoord van zijn volk was slechts dat zij zeiden: "Doodt hem of verbrandt h
 
 # 3365
 
-En hij zei: "Jullie hebben je in plaats van God slechts afgoden genomen om jullie onderlinge liefde in het tegenwoordige leven [te bestendigen], maar op de opstandingsdag willen jullie elkaar niet meer kennen en vervloeken jullie elkaar; jullie verblijfplaats is het vuur en jullie zullen geen helpers hebbent *
+En hij zei: "Jullie hebben je in plaats van God slechts afgoden genomen om jullie onderlinge liefde in het tegenwoordige leven \[te bestendigen\], maar op de opstandingsdag willen jullie elkaar niet meer kennen en vervloeken jullie elkaar; jullie verblijfplaats is het vuur en jullie zullen geen helpers hebbent \*
 
 # 3366
 
@@ -13546,7 +13546,7 @@ God heeft de hemelen en de aarde in waarheid geschapen. Daarin is een teken voor
 
 # 3385
 
-Lees voor wat aan jou van het boek is geopenbaard en verricht de salaat; de salaat verbiedt wat gruwelijk en verwerpelijk is. Maar het gedenken Gods is geweldiger. En God weet wat jullie doen. *
+Lees voor wat aan jou van het boek is geopenbaard en verricht de salaat; de salaat verbiedt wat gruwelijk en verwerpelijk is. Maar het gedenken Gods is geweldiger. En God weet wat jullie doen. \*
 
 # 3386
 
@@ -13598,7 +13598,7 @@ Iedereen zal de dood proeven; dan zullen jullie tot Ons teruggebracht worden.
 
 # 3398
 
-En aan hen die geloven en de deugdelijke daden doen zullen Wij [feest]zalen toewijzen in de tuin waar de rivieren onderdoor stromen; zij zullen altijd daarin blijven. Dat is pas een goed loon voor hen die [goed] doen,
+En aan hen die geloven en de deugdelijke daden doen zullen Wij \[feest\]zalen toewijzen in de tuin waar de rivieren onderdoor stromen; zij zullen altijd daarin blijven. Dat is pas een goed loon voor hen die \[goed\] doen,
 
 # 3399
 
@@ -13646,7 +13646,7 @@ En hen die zich voor Ons inzetten zullen Wij op Onze wegen leiden. God is met he
 
 # 3410
 
-A[lif] L[aam] M[iem].
+A\[lif\] L\[aam\] M\[iem\].
 
 # 3411
 
@@ -13694,7 +13694,7 @@ En op de dag dat het uur aanbreekt zullen de boosdoeners in wanhoop terneergesla
 
 # 3422
 
-En er zullen onder hun [zogenaamd goddelijke] metgezellen geen bemiddelaars zijn, maar zij zullen aan hun [zogenaamd goddelijke] metgezellen geen geloof hechten.
+En er zullen onder hun \[zogenaamd goddelijke\] metgezellen geen bemiddelaars zijn, maar zij zullen aan hun \[zogenaamd goddelijke\] metgezellen geen geloof hechten.
 
 # 3423
 
@@ -13798,15 +13798,15 @@ Geef dus de verwant wat hem toekomt en ook de behoeftige en wie onderweg is. Dat
 
 # 3448
 
-En de [lening op] woeker, die jullie geven om het ten koste van de bezittingen van de mensen te laten groeien, groeit bij God niet. Maar de zakaat die jullie geven terwijl jullie Gods aangezicht zoeken? zij zijn het die het laten verveelvoudigen.
+En de \[lening op\] woeker, die jullie geven om het ten koste van de bezittingen van de mensen te laten groeien, groeit bij God niet. Maar de zakaat die jullie geven terwijl jullie Gods aangezicht zoeken? zij zijn het die het laten verveelvoudigen.
 
 # 3449
 
-God is het die jullie geschapen heeft en daarna in jullie onderhoud voorzien heeft. Dan laat Hij jullie sterven. Daarna brengt Hij jullie weer tot leven. Is er onder jullie [zogenaamd goddelijke] metgezellen iemand die zoiets doen kan? Hij zij geprezen, verheven als Hij is boven wat zij aan Hem als metgezellen toevoegen.
+God is het die jullie geschapen heeft en daarna in jullie onderhoud voorzien heeft. Dan laat Hij jullie sterven. Daarna brengt Hij jullie weer tot leven. Is er onder jullie \[zogenaamd goddelijke\] metgezellen iemand die zoiets doen kan? Hij zij geprezen, verheven als Hij is boven wat zij aan Hem als metgezellen toevoegen.
 
 # 3450
 
-Het verderf is op het vasteland en op zee zichtbaar geworden door wat de handen van de mensen ten uitvoer brengen. [Dat is gebeurd] opdat Hij hun iets van wat zij gedaan hebben wil laten proeven; misschien zullen zij terugkeren.
+Het verderf is op het vasteland en op zee zichtbaar geworden door wat de handen van de mensen ten uitvoer brengen. \[Dat is gebeurd\] opdat Hij hun iets van wat zij gedaan hebben wil laten proeven; misschien zullen zij terugkeren.
 
 # 3451
 
@@ -13854,7 +13854,7 @@ Maar jij kunt de doden niet doen horen, noch kun jij de doven de oproep doen hor
 
 # 3462
 
-En jij brengt de blinden niet van hun dwaalweg af. Jij kunt slechts hen die in Onze tekenen geloven doen horen; zij hebben zich [aan God] overgegeven.
+En jij brengt de blinden niet van hun dwaalweg af. Jij kunt slechts hen die in Onze tekenen geloven doen horen; zij hebben zich \[aan God\] overgegeven.
 
 # 3463
 
@@ -13886,7 +13886,7 @@ Volhard dus geduldig; Gods toezegging is waar. En zij die geen vaste overtuiging
 
 # 3470
 
-A[lif] L[aam] M[iem].
+A\[lif\] L\[aam\] M\[iem\].
 
 # 3471
 
@@ -13990,7 +13990,7 @@ Van God is wat er in de hemelen en op de aarde is. God is de behoefteloze, de lo
 
 # 3496
 
-Zelfs al waren de bomen die er op de aarde zijn pennen en al werd de zee [als inkt gebruikt en] daarna nog eens met zeven zeeën aangevuld, dan waren Gods woorden nog niet uitgeput. God is machtig en wijs.
+Zelfs al waren de bomen die er op de aarde zijn pennen en al werd de zee \[als inkt gebruikt en\] daarna nog eens met zeven zeeën aangevuld, dan waren Gods woorden nog niet uitgeput. God is machtig en wijs.
 
 # 3497
 
@@ -14022,7 +14022,7 @@ God, bij Hem is de kennis van het uur, Hij laat de regen neerdalen en Hij weet w
 
 # 3504
 
-A[lif] L[aam] M[iem].
+A\[lif\] L\[aam\] M\[iem\].
 
 # 3505
 
@@ -14038,7 +14038,7 @@ God is het die de hemelen en de aarde en wat er tussen beide is in zes dagen ges
 
 # 3508
 
-Hij regelt het bestuur vanuit de hemel tot aan de aarde en dan komt het [weer] tot Hem op in een dag waarvan de maat volgens jullie berekening duizend jaren is.
+Hij regelt het bestuur vanuit de hemel tot aan de aarde en dan komt het \[weer\] tot Hem op in een dag waarvan de maat volgens jullie berekening duizend jaren is.
 
 # 3509
 
@@ -14058,7 +14058,7 @@ En dan vormde Hij hem en blies in hem iets van Zijn geest. En Hij heeft voor jul
 
 # 3513
 
-En zij zeggen: "Wanneer wij in de aarde zoek geraakt zijn, zullen wij dan werkelijk deel uitmaken van een nieuwe schepping?" Ja zeker, aan de ontmoeting met hun Heer hechten zij geen geloof. *
+En zij zeggen: "Wanneer wij in de aarde zoek geraakt zijn, zullen wij dan werkelijk deel uitmaken van een nieuwe schepping?" Ja zeker, aan de ontmoeting met hun Heer hechten zij geen geloof. \*
 
 # 3514
 
@@ -14094,7 +14094,7 @@ Is dan iemand die gelovig is als iemand die verdorven is? Zij zijn niet gelijk.
 
 # 3522
 
-Wat hen betreft die geloven en de deugdelijke daden doen, voor hen zijn er de tuinen van de [hemelse] verblijfplaats als gastverblijf voor wat zij gedaan hebben.
+Wat hen betreft die geloven en de deugdelijke daden doen, voor hen zijn er de tuinen van de \[hemelse\] verblijfplaats als gastverblijf voor wat zij gedaan hebben.
 
 # 3523
 
@@ -14110,7 +14110,7 @@ En wie is er zondiger dan hij die met de tekenen van zijn Heer vermaand is en er
 
 # 3526
 
-En Wij hebben Moesa het boek gegeven. Verkeer dus niet in twijfel over zijn ontmoeting [ermee]. En Wij hebben het tot een leidraad voor de Israëlieten gemaakt.
+En Wij hebben Moesa het boek gegeven. Verkeer dus niet in twijfel over zijn ontmoeting \[ermee\]. En Wij hebben het tot een leidraad voor de Israëlieten gemaakt.
 
 # 3527
 
@@ -14154,7 +14154,7 @@ En stel je vertrouwen op God. God is als voogd goed genoeg.
 
 # 3537
 
-God heeft voor een man niet twee harten in zijn binnenste gemaakt. En Hij heeft jullie echtgenotes van wie jullie je scheiden [door uit te spreken dat zij als jullie moeders zijn] niet [werkelijk] tot jullie moeders gemaakt. En Hij heeft jullie aangenomen zonen niet [werkelijk] tot jullie zonen gemaakt. Dat is wat jullie met jullie monden zeggen. Maar God zegt de waarheid en Hij leidt op de juiste weg.
+God heeft voor een man niet twee harten in zijn binnenste gemaakt. En Hij heeft jullie echtgenotes van wie jullie je scheiden \[door uit te spreken dat zij als jullie moeders zijn\] niet \[werkelijk\] tot jullie moeders gemaakt. En Hij heeft jullie aangenomen zonen niet \[werkelijk\] tot jullie zonen gemaakt. Dat is wat jullie met jullie monden zeggen. Maar God zegt de waarheid en Hij leidt op de juiste weg.
 
 # 3538
 
@@ -14206,7 +14206,7 @@ Zeg: "De vlucht zal jullie niet baten, of jullie nu op de vlucht slaan voor het 
 
 # 3550
 
-Zeg: "Wie is het die jullie tegen God beschermt als Hij jullie kwaad wil berokkenen of jullie barmhartigheid wil bewijzen?" Zij vinden voor zich buiten God geen beschermer en geen helper. *
+Zeg: "Wie is het die jullie tegen God beschermt als Hij jullie kwaad wil berokkenen of jullie barmhartigheid wil bewijzen?" Zij vinden voor zich buiten God geen beschermer en geen helper. \*
 
 # 3551
 
@@ -14218,7 +14218,7 @@ terwijl zij tegenover jullie gierig zijn. En wanneer de angst komt zie je hen na
 
 # 3553
 
-Zij rekenen erop dat de partijen niet zouden weggaan, maar als de partijen [nog eens] zouden komen zouden zij het liefst in de woestijn bij de bedoeïenen willen zijn om daar naar nieuws over jullie te vragen. En als zij bij jullie zouden zijn zouden zij maar weinig strijden.
+Zij rekenen erop dat de partijen niet zouden weggaan, maar als de partijen \[nog eens\] zouden komen zouden zij het liefst in de woestijn bij de bedoeïenen willen zijn om daar naar nieuws over jullie te vragen. En als zij bij jullie zouden zijn zouden zij maar weinig strijden.
 
 # 3554
 
@@ -14226,7 +14226,7 @@ Jullie hebben toch in Gods gezant een goed voorbeeld voor wie op God en de laats
 
 # 3555
 
-En toen de gelovigen de partijen zagen zeiden zij: "Dit is wat God en Zijn gezant ons hadden aangezegd; God en Zijn gezant spreken de waarheid." En het deed hun geloof en onderwerping [aan God] alleen maar toenemen.
+En toen de gelovigen de partijen zagen zeiden zij: "Dit is wat God en Zijn gezant ons hadden aangezegd; God en Zijn gezant spreken de waarheid." En het deed hun geloof en onderwerping \[aan God\] alleen maar toenemen.
 
 # 3556
 
@@ -14234,7 +14234,7 @@ Onder de gelovigen zijn er mannen die de verbintenis die zij met God zijn aangeg
 
 # 3557
 
-[Dat is zo] opdat God de oprechten voor hun oprechtheid beloont en de huichelaars bestraft, als Hij dat wil, of zich genadig tot hen wendt; God is vergevend en barmhartig.
+\[Dat is zo\] opdat God de oprechten voor hun oprechtheid beloont en de huichelaars bestraft, als Hij dat wil, of zich genadig tot hen wendt; God is vergevend en barmhartig.
 
 # 3558
 
@@ -14246,7 +14246,7 @@ En God liet degenen van de mensen van het boek die hen geholpen hadden uit hun v
 
 # 3560
 
-En Hij liet jullie hun land, hun woningen en hun bezittingen beërven en ook land dat jullie [tot dan toe] niet betreden hadden; God is almachtig.
+En Hij liet jullie hun land, hun woningen en hun bezittingen beërven en ook land dat jullie \[tot dan toe\] niet betreden hadden; God is almachtig.
 
 # 3561
 
@@ -14258,7 +14258,7 @@ Maar als jullie God, Zijn gezant en de laatste woning wensen, dan heeft God voor
 
 # 3563
 
-Vrouwen van de profeet! Wie van jullie een duidelijke gruweldaad begaat, voor haar zal de bestraffing verdubbeld worden. Dat is voor God gemakkelijk. *
+Vrouwen van de profeet! Wie van jullie een duidelijke gruweldaad begaat, voor haar zal de bestraffing verdubbeld worden. Dat is voor God gemakkelijk. \*
 
 # 3564
 
@@ -14278,7 +14278,7 @@ En gedenkt wat van Gods tekenen en de wijsheid in jullie huizen wordt voorgeleze
 
 # 3568
 
-De mannen en vrouwen die zich [aan God] hebben overgegeven, de gelovige mannen en vrouwen, de onderdanige mannen en vrouwen, de oprechte mannen en vrouwen, de geduldig volhardende mannen en vrouwen, de deemoedige mannen en vrouwen, de mannen en vrouwen die aalmoezen geven, de mannen en vrouwen die vasten, de mannen en vrouwen die hun schaamstreek kuis bewaren, de mannen en vrouwen die God veel gedenken, voor hen heeft God vergeving en een geweldig loon klaargemaakt.
+De mannen en vrouwen die zich \[aan God\] hebben overgegeven, de gelovige mannen en vrouwen, de onderdanige mannen en vrouwen, de oprechte mannen en vrouwen, de geduldig volhardende mannen en vrouwen, de deemoedige mannen en vrouwen, de mannen en vrouwen die aalmoezen geven, de mannen en vrouwen die vasten, de mannen en vrouwen die hun schaamstreek kuis bewaren, de mannen en vrouwen die God veel gedenken, voor hen heeft God vergeving en een geweldig loon klaargemaakt.
 
 # 3569
 
@@ -14338,7 +14338,7 @@ Jullie die geloven! Wanneer jullie gelovige vrouwen getrouwd hebben en jullie ge
 
 # 3583
 
-O profeet, Wij hebben aan jou toegestaan [om mee te trouwen]: jouw echtgenotes aan wie jij haar loon gegeven hebt, de slavinnen waarover jij beschikt uit de buit die God jou gegeven heeft, de dochters van je oom van vaderszijde, de dochters van je tante van vaderszijde, de dochters van je oom van moederszijde en de dochters van je tante van moederszijde die met jou zijn uitgeweken en ook een gelovige vrouw die zich zelf aan de profeet geeft als de profeet met haar trouwen wil. Dit is alleen aan jou voorbehouden en niet aan de gelovigen -- Wij weten wel wat Wij hun met betrekking tot hun echtgenotes en de slavinnen waarover zij beschikken als verplichting hebben opgelegd -- opdat het voor jou niet iets hinderlijks zou zijn; God is vergevend en barmhartig. *
+O profeet, Wij hebben aan jou toegestaan \[om mee te trouwen\]: jouw echtgenotes aan wie jij haar loon gegeven hebt, de slavinnen waarover jij beschikt uit de buit die God jou gegeven heeft, de dochters van je oom van vaderszijde, de dochters van je tante van vaderszijde, de dochters van je oom van moederszijde en de dochters van je tante van moederszijde die met jou zijn uitgeweken en ook een gelovige vrouw die zich zelf aan de profeet geeft als de profeet met haar trouwen wil. Dit is alleen aan jou voorbehouden en niet aan de gelovigen -- Wij weten wel wat Wij hun met betrekking tot hun echtgenotes en de slavinnen waarover zij beschikken als verplichting hebben opgelegd -- opdat het voor jou niet iets hinderlijks zou zijn; God is vergevend en barmhartig. \*
 
 # 3584
 
@@ -14350,7 +14350,7 @@ Verder zijn voor jou geen vrouwen toegestaan, ook niet dat jij haar in de plaats
 
 # 3586
 
-Jullie die geloven! Gaat de huizen van de profeet slechts binnen als aan jullie toestemming is gegeven om [mee] te eten maar zonder [van tevoren te gaan] wachten tot het klaar is. Maar wanneer jullie uitgenodigd worden, gaat dan binnen. En wanneer jullie gegeten hebben gaat dan weer uit elkaar zonder te blijven praten; daarmee vallen jullie de profeet lastig en dan schaamt hij zich voor jullie, maar God schaamt zich niet voor de waarheid. En als jullie haar [ de vrouwen van de profeet] iets om te gebruiken vraagt, vraagt haar dat dan van achter een afscheiding. Dat is reiner voor jullie harten en haar harten. Het past jullie niet Gods gezant lastig te vallen, noch dat jullie ooit na hem met zijn echtgenotes trouwt. Dat is bij God afschuwelijk.
+Jullie die geloven! Gaat de huizen van de profeet slechts binnen als aan jullie toestemming is gegeven om \[mee\] te eten maar zonder \[van tevoren te gaan\] wachten tot het klaar is. Maar wanneer jullie uitgenodigd worden, gaat dan binnen. En wanneer jullie gegeten hebben gaat dan weer uit elkaar zonder te blijven praten; daarmee vallen jullie de profeet lastig en dan schaamt hij zich voor jullie, maar God schaamt zich niet voor de waarheid. En als jullie haar \[ de vrouwen van de profeet\] iets om te gebruiken vraagt, vraagt haar dat dan van achter een afscheiding. Dat is reiner voor jullie harten en haar harten. Het past jullie niet Gods gezant lastig te vallen, noch dat jullie ooit na hem met zijn echtgenotes trouwt. Dat is bij God afschuwelijk.
 
 # 3587
 
@@ -14358,7 +14358,7 @@ Of jullie openlijk iets doen of in het verborgene, God is alwetend.
 
 # 3588
 
-Maar het is voor haar geen overtreding [ongesluierd te zijn] in aanwezigheid van haar vaders, haar zonen, haar broers, de zonen van haar broers, de zonen van haar zusters, hun vrouwen en de slavinnen waarover zij beschikken. En vreest God. God is van alles getuige.
+Maar het is voor haar geen overtreding \[ongesluierd te zijn\] in aanwezigheid van haar vaders, haar zonen, haar broers, de zonen van haar broers, de zonen van haar zusters, hun vrouwen en de slavinnen waarover zij beschikken. En vreest God. God is van alles getuige.
 
 # 3589
 
@@ -14478,7 +14478,7 @@ En Wij gaven van Onze kant aan Dawoed een gunst: "O bergen, zingt berouwvol met 
 
 # 3618
 
-En aan Soelaimaan [maakten Wij] de wind [dienstbaar] die 's morgens een maandreis en 's middags een maandreis aflegt. En Wij lieten voor hem de bron van het gesmolten koper stromen. En onder de djinn waren er die met de toestemming van zijn Heer voor hem werkten; wie van hen van Ons bevel afweek lieten Wij van de bestraffing van de vuurgloed proeven.
+En aan Soelaimaan \[maakten Wij\] de wind \[dienstbaar\] die 's morgens een maandreis en 's middags een maandreis aflegt. En Wij lieten voor hem de bron van het gesmolten koper stromen. En onder de djinn waren er die met de toestemming van zijn Heer voor hem werkten; wie van hen van Ons bevel afweek lieten Wij van de bestraffing van de vuurgloed proeven.
 
 # 3619
 
@@ -14502,11 +14502,11 @@ Daarmee vergolden Wij hun omdat zij ondankbaar waren. Vergelden Wij dan iemand a
 
 # 3624
 
-En tussen hen en de steden die Wij gezegend hebben plaatsten Wij [een reeks van onderling] zichtbare steden en Wij bepaalden de reis erdoor: "Reist er bij nacht en bij dag veilig doorheen."
+En tussen hen en de steden die Wij gezegend hebben plaatsten Wij \[een reeks van onderling\] zichtbare steden en Wij bepaalden de reis erdoor: "Reist er bij nacht en bij dag veilig doorheen."
 
 # 3625
 
-Maar zij zeiden: "Onze Heer vergroot de reisafstanden naar ons" en deden zichzelf onrecht aan. Wij maakten hen dus tot [het onderwerp van] verhalen en Wij lieten hen geheel vergaan. Daarin zijn zeker tekenen voor ieder die geduldig volhardt en die dank betuigt.
+Maar zij zeiden: "Onze Heer vergroot de reisafstanden naar ons" en deden zichzelf onrecht aan. Wij maakten hen dus tot \[het onderwerp van\] verhalen en Wij lieten hen geheel vergaan. Daarin zijn zeker tekenen voor ieder die geduldig volhardt en die dank betuigt.
 
 # 3626
 
@@ -14538,7 +14538,7 @@ Zeg: "Onze Heer zal ons samenbrengen. Dan zal Hij naar waarheid tussen ons uitsp
 
 # 3633
 
-Zeg: "Laat mij hen zien die jullie aan Hem als [zogenaamd goddelijke] metgezellen hebben toegevoegd. Welnee, Hij is God de machtige, de wijze."
+Zeg: "Laat mij hen zien die jullie aan Hem als \[zogenaamd goddelijke\] metgezellen hebben toegevoegd. Welnee, Hij is God de machtige, de wijze."
 
 # 3634
 
@@ -14562,7 +14562,7 @@ Maar zij die hoogmoedig waren zeggen tegen hen die onderdrukt werden: "Hebben wi
 
 # 3639
 
-En zij die onderdrukt werden zeggen tegen hen die hoogmoedig waren: "Welnee, [het kwam door jullie] listen van 's nachts en overdag; toen jullie ons bevalen aan God geen geloof te hechten en aan Hem gelijken toe te schrijven." Heimelijk hebben zij dan spijt wanneer zij de bestraffing zien. Maar Wij leggen de halsketenen om de nekken van hen die ongelovig zijn. Zal aan hen soms iets anders vergolden worden dan zij deden?
+En zij die onderdrukt werden zeggen tegen hen die hoogmoedig waren: "Welnee, \[het kwam door jullie\] listen van 's nachts en overdag; toen jullie ons bevalen aan God geen geloof te hechten en aan Hem gelijken toe te schrijven." Heimelijk hebben zij dan spijt wanneer zij de bestraffing zien. Maar Wij leggen de halsketenen om de nekken van hen die ongelovig zijn. Zal aan hen soms iets anders vergolden worden dan zij deden?
 
 # 3640
 
@@ -14578,7 +14578,7 @@ Zeg: "Mijn Heer voorziet ruimschoots in het levensonderhoud van wie Hij wil en o
 
 # 3643
 
-Jullie bezittingen, noch jullie kinderen zijn het die jullie nader tot Ons zullen brengen, behalve dan als iemand gelooft en deugdelijk handelt; zij zijn het voor wie er een dubbele beloning is voor wat zij gedaan hebben en zij zullen veilig in de [feest]zalen zijn.
+Jullie bezittingen, noch jullie kinderen zijn het die jullie nader tot Ons zullen brengen, behalve dan als iemand gelooft en deugdelijk handelt; zij zijn het voor wie er een dubbele beloning is voor wat zij gedaan hebben en zij zullen veilig in de \[feest\]zalen zijn.
 
 # 3644
 
@@ -14610,7 +14610,7 @@ Wij hebben hun geen boeken gegeven die zij konden bestuderen, noch hebben Wij vo
 
 # 3651
 
-Maar zij die er voor hun tijd waren, hebben [de gezanten ook] van leugens beticht, terwijl zij [nu] nog niet een tiende bereikt hebben van wat Wij aan hen gegeven hadden. Toch hadden zij ook Mijn gezanten van leugens beticht. En hoe was Mijn terechtwijzing dan? *
+Maar zij die er voor hun tijd waren, hebben \[de gezanten ook\] van leugens beticht, terwijl zij \[nu\] nog niet een tiende bereikt hebben van wat Wij aan hen gegeven hadden. Toch hadden zij ook Mijn gezanten van leugens beticht. En hoe was Mijn terechtwijzing dan? \*
 
 # 3652
 
@@ -14694,7 +14694,7 @@ God heeft jullie uit aarde en dan uit een druppel geschapen en dan heeft Hij jul
 
 # 3672
 
-De beide zeeën zijn niet gelijk; de ene is zoet, fris en geschikt om te drinken en de andere zout en pekelig. En uit beide krijgen jullie vers vlees te eten en jullie halen er sieraden uit op om je mee te tooien. En jullie zien de schepen haar doorklieven [en dat is] opdat jullie streven naar een gunst van Hem; misschien zullen jullie dank betuigen.
+De beide zeeën zijn niet gelijk; de ene is zoet, fris en geschikt om te drinken en de andere zout en pekelig. En uit beide krijgen jullie vers vlees te eten en jullie halen er sieraden uit op om je mee te tooien. En jullie zien de schepen haar doorklieven \[en dat is\] opdat jullie streven naar een gunst van Hem; misschien zullen jullie dank betuigen.
 
 # 3673
 
@@ -14718,7 +14718,7 @@ Dat is voor God niet lastig.
 
 # 3678
 
-Niemand is belast met de last van een ander en als iemand die zwaar beladen is oproept om [mee] te dragen, dan zal toch niets van hem gedragen worden ook al betreft het een verwant. Jij kunt slechts hen waarschuwen die God in het verborgen vrezen en de salaat verrichten. En als iemand zich gelouterd heeft dan is hij in zijn eigen voordeel gelouterd; bij God is de bestemming.
+Niemand is belast met de last van een ander en als iemand die zwaar beladen is oproept om \[mee\] te dragen, dan zal toch niets van hem gedragen worden ook al betreft het een verwant. Jij kunt slechts hen waarschuwen die God in het verborgen vrezen en de salaat verrichten. En als iemand zich gelouterd heeft dan is hij in zijn eigen voordeel gelouterd; bij God is de bestemming.
 
 # 3679
 
@@ -14786,7 +14786,7 @@ En zij zeggen: "Lof zij God die van ons de droefheid heeft weggenomen. Vergevend
 
 # 3695
 
-die ons door Zijn goedgunstigheid in de woning van het [eeuwige] verblijf heeft geplaatst. Wij worden daarin niet door vermoeidheid overvallen, noch worden wij daarin door matheid overvallen."
+die ons door Zijn goedgunstigheid in de woning van het \[eeuwige\] verblijf heeft geplaatst. Wij worden daarin niet door vermoeidheid overvallen, noch worden wij daarin door matheid overvallen."
 
 # 3696
 
@@ -14806,7 +14806,7 @@ Hij is het die jullie tot elkaar opvolgende geslachten op de aarde gemaakt heeft
 
 # 3700
 
-Zeg: "Hoe zien jullie je [zogenaamd goddelijke] metgezellen die jullie in plaats van God aanroepen? Laat mij dan zien wat zij van de aarde geschapen hebben." Hebben zij een aandeel in de hemelen of hebben Wij hun een boek gegeven zodat zij op een duidelijk bewijs steunen? Welnee, de onrechtplegers beloven elkaar slechts begoocheling. *
+Zeg: "Hoe zien jullie je \[zogenaamd goddelijke\] metgezellen die jullie in plaats van God aanroepen? Laat mij dan zien wat zij van de aarde geschapen hebben." Hebben zij een aandeel in de hemelen of hebben Wij hun een boek gegeven zodat zij op een duidelijk bewijs steunen? Welnee, de onrechtplegers beloven elkaar slechts begoocheling. \*
 
 # 3701
 
@@ -14830,7 +14830,7 @@ Als God de mensen zou aanrekenen wat zij begaan hebben zou Hij op het aardopperv
 
 # 3706
 
-J[aa?] S[ien].
+J\[aa?\] S\[ien\].
 
 # 3707
 
@@ -14934,7 +14934,7 @@ Tot hem werd gezegd: "Ga de tuin binnen!" Hij zei: "Ach had mijn volk maar gewet
 
 # 3732
 
-dat mijn Heer mij vergeven en tot een van de geëerden gemaakt heeft." *
+dat mijn Heer mij vergeven en tot een van de geëerden gemaakt heeft." \*
 
 # 3733
 
@@ -15058,11 +15058,11 @@ Zij hebben er vruchten en wat zij maar verlangen.
 
 # 3763
 
-"Vrede!"is [voor hen] een [welkomst]woord dat van een barmhartige Heer komt.
+"Vrede!"is \[voor hen\] een \[welkomst\]woord dat van een barmhartige Heer komt.
 
 # 3764
 
-"Zondert jullie vandaag van hen af, jullie boosdoeners! *
+"Zondert jullie vandaag van hen af, jullie boosdoeners! \*
 
 # 3765
 
@@ -15234,7 +15234,7 @@ Zeg: "Ja zeker, en jullie zullen onderdanig zijn."
 
 # 3807
 
-Dan klinkt slechts één afschrikkende kreet en dan zullen zij [staan te] kijken
+Dan klinkt slechts één afschrikkende kreet en dan zullen zij \[staan te\] kijken
 
 # 3808
 
@@ -15242,7 +15242,7 @@ en zeggen: "Wee ons, dit is de oordeelsdag!"
 
 # 3809
 
-"Dit is de dag van de schifting die jullie hebben geloochend." *
+"Dit is de dag van de schifting die jullie hebben geloochend." \*
 
 # 3810
 
@@ -15318,7 +15318,7 @@ En aan jullie wordt slechts vergolden wat jullie gedaan hebben.
 
 # 3828
 
-Maar [dat geldt] niet voor de toegewijde dienaren van God.
+Maar \[dat geldt\] niet voor de toegewijde dienaren van God.
 
 # 3829
 
@@ -15338,7 +15338,7 @@ op rustbanken zitten zij tegenover elkaar,
 
 # 3833
 
-terwijl een drinkbeker bij hen wordt rondgegeven [waarin een drank is] uit een bron,
+terwijl een drinkbeker bij hen wordt rondgegeven \[waarin een drank is\] uit een bron,
 
 # 3834
 
@@ -15454,11 +15454,11 @@ Kijk dan hoe het einde was van de gewaarschuwden!
 
 # 3862
 
-Maar [dat geldt] niet voor de toegewijde dienaren van God.
+Maar \[dat geldt\] niet voor de toegewijde dienaren van God.
 
 # 3863
 
-Noeh had tot Ons geroepen; een voortreffelijk verhoorder [zijn Wij].
+Noeh had tot Ons geroepen; een voortreffelijk verhoorder \[zijn Wij\].
 
 # 3864
 
@@ -15486,7 +15486,7 @@ Hij behoort tot Onze gelovige dienaren.
 
 # 3870
 
-Toen lieten Wij de anderen verdrinken. *
+Toen lieten Wij de anderen verdrinken. \*
 
 # 3871
 
@@ -15570,7 +15570,7 @@ Toen die zover was dat hij met hem mee kon gaan zei hij: "Mijn zoon, ik heb in d
 
 # 3891
 
-Toen zij zich beiden [aan Gods wil] overgegeven hadden en hij hem op zijn voorhoofd had neergelegd,
+Toen zij zich beiden \[aan Gods wil\] overgegeven hadden en hij hem op zijn voorhoofd had neergelegd,
 
 # 3892
 
@@ -15670,7 +15670,7 @@ Maar zij betichtten hem van leugens en dus worden zij zeker voorgeleid.
 
 # 3916
 
-Maar [dat geldt] niet voor de toegewijde dienaren van God.
+Maar \[dat geldt\] niet voor de toegewijde dienaren van God.
 
 # 3917
 
@@ -15698,7 +15698,7 @@ Toen Wij hem en zijn familie allen tezamen redden,
 
 # 3923
 
-behalve een oude vrouw [die] bij de achterblijvers [bleef].
+behalve een oude vrouw \[die\] bij de achterblijvers \[bleef\].
 
 # 3924
 
@@ -15734,7 +15734,7 @@ En als hij niet tot hen die lofprijzen behoord had,
 
 # 3932
 
-dan was hij in zijn buik gebleven tot de dag waarop men wordt opgewekt. *
+dan was hij in zijn buik gebleven tot de dag waarop men wordt opgewekt. \*
 
 # 3933
 
@@ -15746,7 +15746,7 @@ En Wij lieten boven hem een pompoenplant groeien.
 
 # 3935
 
-En Wij zonden hem naar honderdduizend [mensen] -- of het waren er nog meer --
+En Wij zonden hem naar honderdduizend \[mensen\] -- of het waren er nog meer --
 
 # 3936
 
@@ -15890,7 +15890,7 @@ En lof zij God, de Heer van de wereldbewoners.
 
 # 3971
 
-S[aad]. Bij de Koran met de vermaning!
+S\[aad\]. Bij de Koran met de vermaning!
 
 # 3972
 
@@ -15990,7 +15990,7 @@ En Wij vergaven hem dat; hij staat Ons na en heeft een goede terugkomst.
 
 # 3996
 
-O Dawoed, Wij hebben jou tot opvolger op de aarde gemaakt. Oordeel dus naar waarheid tussen de mensen en volg [je eigen] neiging niet, want die zal je van Gods weg doen afdwalen; voor hen die van Gods weg afdwalen is er een strenge bestraffing omdat zij de dag van de afrekening hebben vergeten.
+O Dawoed, Wij hebben jou tot opvolger op de aarde gemaakt. Oordeel dus naar waarheid tussen de mensen en volg \[je eigen\] neiging niet, want die zal je van Gods weg doen afdwalen; voor hen die van Gods weg afdwalen is er een strenge bestraffing omdat zij de dag van de afrekening hebben vergeten.
 
 # 3997
 
@@ -16002,7 +16002,7 @@ Of zullen Wij hen die geloven en de deugdelijke daden doen soms zo behandelen al
 
 # 3999
 
-[De Koran] is een gezegend boek dat Wij naar jou hebben neergezonden, opdat zij de verzen ervan overdenken en opdat de verstandigen zich laten vermanen.
+\[De Koran\] is een gezegend boek dat Wij naar jou hebben neergezonden, opdat zij de verzen ervan overdenken en opdat de verstandigen zich laten vermanen.
 
 # 4000
 
@@ -16022,7 +16022,7 @@ toen zei hij: "Ik heb bezit meer lief dan het gedenken van God" en toen zij uit 
 
 # 4004
 
-Wij hadden Soelaimaan werkelijk aan verzoeking blootgesteld. En Wij zetten op zijn troon [iets wat alleen maar] een lichaam [was]. Toen betoonde hij zich schuldbewust.
+Wij hadden Soelaimaan werkelijk aan verzoeking blootgesteld. En Wij zetten op zijn troon \[iets wat alleen maar\] een lichaam \[was\]. Toen betoonde hij zich schuldbewust.
 
 # 4005
 
@@ -16062,7 +16062,7 @@ En Wij gaven hem zijn familie terug en nog eens zoveel met hen, uit barmhartighe
 
 # 4014
 
-En "neem een bundel [twijgen] in je hand en sla ermee en breek je eed niet." Wij merkten dat hij geduldig had volhard, een voortreffelijk dienaar; hij was schuldbewust.
+En "neem een bundel \[twijgen\] in je hand en sla ermee en breek je eed niet." Wij merkten dat hij geduldig had volhard, een voortreffelijk dienaar; hij was schuldbewust.
 
 # 4015
 
@@ -16070,7 +16070,7 @@ En denk aan Onze dienaren Ibrahiem, Ishaak en Ja'koeb die kracht en inzicht hadd
 
 # 4016
 
-Wij hebben hen met iets bijzonders gekenmerkt: het denken aan de [laatste] woning.
+Wij hebben hen met iets bijzonders gekenmerkt: het denken aan de \[laatste\] woning.
 
 # 4017
 
@@ -16078,7 +16078,7 @@ Bij Ons behoren zij bij de uitverkorenen, de goeden.
 
 # 4018
 
-En denk aan Isma'iel, al-Jasa? en Dzoe-l-Kifl. Ieder [van hen] behoorde tot de goeden.
+En denk aan Isma'iel, al-Jasa? en Dzoe-l-Kifl. Ieder \[van hen\] behoorde tot de goeden.
 
 # 4019
 
@@ -16090,7 +16090,7 @@ De tuinen van 'Adn, waarvan de poorten voor hen open staan.
 
 # 4021
 
-Daarin leunen zij achterover terwijl zij er om veel vruchten en drank kunnen vragen. *
+Daarin leunen zij achterover terwijl zij er om veel vruchten en drank kunnen vragen. \*
 
 # 4022
 
@@ -16138,11 +16138,11 @@ En zij zeggen: "Waarom zien wij bepaalde mannen niet die wij tot de slechten rek
 
 # 4033
 
-Hebben wij hen [onterecht] belachelijk gemaakt of kijken onze ogen langs hen heen?"
+Hebben wij hen \[onterecht\] belachelijk gemaakt of kijken onze ogen langs hen heen?"
 
 # 4034
 
-Dat is waar. [Zo is] het getwist van de bewoners van het vuur.
+Dat is waar. \[Zo is\] het getwist van de bewoners van het vuur.
 
 # 4035
 
@@ -16230,7 +16230,7 @@ Ik zal de hel met jou en met hen die jou volgen vullen, allen tezamen."
 
 # 4056
 
-Zeg: "Ik vraag jullie er geen loon voor en ik behoor niet tot hen die zichzelf [met zoiets] belasten.
+Zeg: "Ik vraag jullie er geen loon voor en ik behoor niet tot hen die zichzelf \[met zoiets\] belasten.
 
 # 4057
 
@@ -16250,7 +16250,7 @@ Wij hebben het boek met de waarheid naar jou neergezonden. Dien God dus en wijd 
 
 # 4061
 
-Behoort de zuivere godsdienst niet God toe? Zij die zich in plaats van Hem beschermers nemen [zeggen]: "Wij dienen hen slechts opdat zij ons nader tot God brengen." God zal tussen hen oordelen over dat waarover zij het oneens zijn. God wijst wie een ongelovige leugenaar is de goede richting niet.
+Behoort de zuivere godsdienst niet God toe? Zij die zich in plaats van Hem beschermers nemen \[zeggen\]: "Wij dienen hen slechts opdat zij ons nader tot God brengen." God zal tussen hen oordelen over dat waarover zij het oneens zijn. God wijst wie een ongelovige leugenaar is de goede richting niet.
 
 # 4062
 
@@ -16270,7 +16270,7 @@ Als jullie ongelovig zijn, God heeft jullie niet nodig. Hem bevalt het ongeloof 
 
 # 4066
 
-En wanneer de mens tegenspoed treft, roept hij zijn Heer aan, terwijl hij zich schuldbewust tot Hem wendt, maar daarna, wanneer Hij hem van Zijn kant genade schenkt, vergeet hij wat hij daarvoor tot Hem geroepen had. En hij schrijft aan God gelijken toe om [anderen] van Zijn weg af te laten dwalen. Zeg: "Geniet in jouw ongeloof nog maar een weinig; jij behoort tot hen die in het vuur thuishoren."
+En wanneer de mens tegenspoed treft, roept hij zijn Heer aan, terwijl hij zich schuldbewust tot Hem wendt, maar daarna, wanneer Hij hem van Zijn kant genade schenkt, vergeet hij wat hij daarvoor tot Hem geroepen had. En hij schrijft aan God gelijken toe om \[anderen\] van Zijn weg af te laten dwalen. Zeg: "Geniet in jouw ongeloof nog maar een weinig; jij behoort tot hen die in het vuur thuishoren."
 
 # 4067
 
@@ -16286,7 +16286,7 @@ Zeg: "Mij is bevolen God te dienen door de godsdienst geheel aan Hem te wijden.
 
 # 4070
 
-En mij is bevolen de eerste te zijn van hen die zich [aan God] overgeven."
+En mij is bevolen de eerste te zijn van hen die zich \[aan God\] overgeven."
 
 # 4071
 
@@ -16318,7 +16318,7 @@ En als voor iemand het woord van de bestraffing is bewaarheid? kun jij dan ieman
 
 # 4078
 
-Maar voor hen die hun Heer vrezen zijn er [feest]zalen waarboven [feest] zalen gebouwd zijn en waar de rivieren onderdoor stromen. Gods toezegging is het. God zal de afspraak niet afzeggen.
+Maar voor hen die hun Heer vrezen zijn er \[feest\]zalen waarboven \[feest\] zalen gebouwd zijn en waar de rivieren onderdoor stromen. Gods toezegging is het. God zal de afspraak niet afzeggen.
 
 # 4079
 
@@ -16326,7 +16326,7 @@ Zie jij dan niet dat God water uit de hemel laat neerdalen en dan naar bronnen i
 
 # 4080
 
-Is dan iemand wiens hart God opengesteld heeft voor de overgave [aan God] en die zich in een licht dat van zijn Heer afkomstig is bevindt?? Wee dus hen van wie de harten hard zijn zodat zij God niet gedenken. Zij zijn het die in duidelijke dwaling verkeren.
+Is dan iemand wiens hart God opengesteld heeft voor de overgave \[aan God\] en die zich in een licht dat van zijn Heer afkomstig is bevindt?? Wee dus hen van wie de harten hard zijn zodat zij God niet gedenken. Zij zijn het die in duidelijke dwaling verkeren.
 
 # 4081
 
@@ -16362,7 +16362,7 @@ Jij bent sterfelijk en zij zijn sterfelijk.
 
 # 4089
 
-Dan zullen jullie op de opstandingsdag met elkaar twisten. *
+Dan zullen jullie op de opstandingsdag met elkaar twisten. \*
 
 # 4090
 
@@ -16534,7 +16534,7 @@ En zij die gelovig zijn worden in horden naar de tuin gedreven en wanneer zij er
 
 # 4132
 
-En zij zeggen: "Lof zij God, die Zijn belofte aan ons heeft waargemaakt en die ons de aarde heeft laten beërven zodat wij ons in de tuin kunnen vestigen waar wij willen." Dat is pas een goed loon voor hen die [goed] doen.
+En zij zeggen: "Lof zij God, die Zijn belofte aan ons heeft waargemaakt en die ons de aarde heeft laten beërven zodat wij ons in de tuin kunnen vestigen waar wij willen." Dat is pas een goed loon voor hen die \[goed\] doen.
 
 # 4133
 
@@ -16542,7 +16542,7 @@ En je ziet de engelen rondom de troon staan terwijl zij de lof van hun Heer prij
 
 # 4134
 
-H[aa?] M[iem].
+H\[aa?\] M\[iem\].
 
 # 4135
 
@@ -16610,7 +16610,7 @@ de dag waarop zij vóórkomen, waarbij niets van hen voor God verborgen blijft. 
 
 # 4151
 
-En waarschuw hen voor de dag van de aanstaande [opstanding] wanneer de harten bedrukt in de kelen kloppen. De onrechtplegers hebben dan geen echte vriend en geen bemiddelaar aan wie gehoor gegeven wordt.
+En waarschuw hen voor de dag van de aanstaande \[opstanding\] wanneer de harten bedrukt in de kelen kloppen. De onrechtplegers hebben dan geen echte vriend en geen bemiddelaar aan wie gehoor gegeven wordt.
 
 # 4152
 
@@ -16618,7 +16618,7 @@ Hij kent het verraad in de ogen en wat de harten verbergen.
 
 # 4153
 
-En God beslist naar waarheid, maar zij die door hen in plaats van Hem aangeroepen worden beslissen niets. God is de horende, de doorziende. *
+En God beslist naar waarheid, maar zij die door hen in plaats van Hem aangeroepen worden beslissen niets. God is de horende, de doorziende. \*
 
 # 4154
 
@@ -16642,7 +16642,7 @@ En toen hij met de waarheid van Ons bij hen kwam zeiden zij: "Doodt de zonen van
 
 # 4159
 
-En Fir'aun zei: "Laat mij Moesa doden en hij moet dan maar zijn Heer aanroepen. Ik ben bang dat hij [anders] jullie godsdienst zal veranderen of zichtbaar verderf op de aarde zal brengen."
+En Fir'aun zei: "Laat mij Moesa doden en hij moet dan maar zijn Heer aanroepen. Ik ben bang dat hij \[anders\] jullie godsdienst zal veranderen of zichtbaar verderf op de aarde zal brengen."
 
 # 4160
 
@@ -16698,7 +16698,7 @@ Mijn volk! Dit tegenwoordige leven is niet meer dan vruchtgebruik, maar het hier
 
 # 4173
 
-Als iemand iets slechts doet, dan wordt hem slechts dienovereenkomstig vergolden. Maar wie van de mannen of de vrouwen deugdelijk handelen en gelovig zijn, dat zijn zij die de tuin binnengaan. Aan hen wordt daarin levensonderhoud gegeven, zonder afrekening. *
+Als iemand iets slechts doet, dan wordt hem slechts dienovereenkomstig vergolden. Maar wie van de mannen of de vrouwen deugdelijk handelen en gelovig zijn, dat zijn zij die de tuin binnengaan. Aan hen wordt daarin levensonderhoud gegeven, zonder afrekening. \*
 
 # 4174
 
@@ -16722,7 +16722,7 @@ Toen behoedde God hem voor de slechte daden die zij beraamden en de mensen van F
 
 # 4179
 
-het vuur, waaraan zij 's morgens en 's avonds worden blootgesteld. En op de dag dat het uur aanbreekt [zal gezegd worden]: "Laat de mensen van Fir'aun de zwaarste bestraffing binnengaan."
+het vuur, waaraan zij 's morgens en 's avonds worden blootgesteld. En op de dag dat het uur aanbreekt \[zal gezegd worden\]: "Laat de mensen van Fir'aun de zwaarste bestraffing binnengaan."
 
 # 4180
 
@@ -16798,7 +16798,7 @@ God is het die voor jullie de aarde tot een vaste grond heeft gemaakt en de heme
 
 # 4198
 
-Hij is de levende, er is geen god dan Hij. Roept Hem dus aan terwijl jullie de godsdienst geheel aan Hem wijden. Lof zij God, de Heer van de wereldbewoners. *
+Hij is de levende, er is geen god dan Hij. Roept Hem dus aan terwijl jullie de godsdienst geheel aan Hem wijden. Lof zij God, de Heer van de wereldbewoners. \*
 
 # 4199
 
@@ -16830,7 +16830,7 @@ in het gloeiende water en daarna in het vuur verbrand.
 
 # 4206
 
-Dan wordt er tot hen gezegd: "Waar zijn zij dan die jullie als [zogenaamd goddelijke] metgezellen vereren
+Dan wordt er tot hen gezegd: "Waar zijn zij dan die jullie als \[zogenaamd goddelijke\] metgezellen vereren
 
 # 4207
 
@@ -16882,7 +16882,7 @@ Maar zij hadden geen nut van hun geloof toen zij Ons geweld zagen. Het was Gods 
 
 # 4219
 
-H[aa?] M[iem].
+H\[aa?\] M\[iem\].
 
 # 4220
 
@@ -16934,7 +16934,7 @@ En als zij zich afwenden zeg dan: "Ik waarschuw jullie voor een donderslag als d
 
 # 4232
 
-Toen hun gezanten van voren en van achteren tot hen kwamen [en zeiden]: "Jullie moeten alleen God dienen", zeiden zij: "Als Onze Heer wilde dan zond Hij engelen neer, maar waarmee jullie gezonden zijn daaraan hechten wij geen geloof."
+Toen hun gezanten van voren en van achteren tot hen kwamen \[en zeiden\]: "Jullie moeten alleen God dienen", zeiden zij: "Als Onze Heer wilde dan zond Hij engelen neer, maar waarmee jullie gezonden zijn daaraan hechten wij geen geloof."
 
 # 4233
 
@@ -16974,7 +16974,7 @@ En die gedachte die jullie over jullie Heer hadden heeft jullie in het verderf g
 
 # 4242
 
-Als zij volharden dan is het vuur een verblijfplaats voor hen en als zij om een mildere behandeling vragen dan wordt hun die niet gegeven. *
+Als zij volharden dan is het vuur een verblijfplaats voor hen en als zij om een mildere behandeling vragen dan wordt hun die niet gegeven. \*
 
 # 4243
 
@@ -17010,7 +17010,7 @@ Een gastverblijf van een Vergevende en een Barmhartige."
 
 # 4251
 
-En wie spreekt er beter dan wie tot God oproept, deugdelijk handelt en zegt: "Ik behoor tot hen die zich [aan God] overgeven."
+En wie spreekt er beter dan wie tot God oproept, deugdelijk handelt en zegt: "Ik behoor tot hen die zich \[aan God\] overgeven."
 
 # 4252
 
@@ -17062,11 +17062,11 @@ En Wij hadden aan Moesa het boek gegeven, maar toen werd men het erover oneens. 
 
 # 4264
 
-Als iemand deugdelijk handelt dan is het in zijn eigen voordeel, maar als iemand verkeerd doet dan is het in zijn nadeel; jouw Heer geeft geen onrechtvaardige behandeling aan de dienaren. *
+Als iemand deugdelijk handelt dan is het in zijn eigen voordeel, maar als iemand verkeerd doet dan is het in zijn nadeel; jouw Heer geeft geen onrechtvaardige behandeling aan de dienaren. \*
 
 # 4265
 
-De kennis over het uur gaat op Hem terug. Er komen geen vruchten uit hun doppen en geen vrouw is zwanger en baart zonder dat Hij het weet. En op de dag dat Hij hen toeroept: "Waar zijn dan Mijn [zogenaamd goddelijke] metgezellen", zeggen zij: "Wij delen U mee dat er bij ons geen getuige is."
+De kennis over het uur gaat op Hem terug. Er komen geen vruchten uit hun doppen en geen vrouw is zwanger en baart zonder dat Hij het weet. En op de dag dat Hij hen toeroept: "Waar zijn dan Mijn \[zogenaamd goddelijke\] metgezellen", zeggen zij: "Wij delen U mee dat er bij ons geen getuige is."
 
 # 4266
 
@@ -17098,11 +17098,11 @@ Toch verkeren zij in twijfel over de ontmoeting met hun Heer en toch omvat Hij a
 
 # 4273
 
-H[aa?] Mpem].
+H\[aa?\] Mpem\].
 
 # 4274
 
-'[Ain] S[ien] K[aaf].
+'\[Ain\] S\[ien\] K\[aaf\].
 
 # 4275
 
@@ -17122,7 +17122,7 @@ Van hen die zich in plaats van God beschermers genomen hebben is God een bewaker
 
 # 4279
 
-En zo hebben Wij aan jou een Arabische Koran geopenbaard, opdat jij er de hoofdstad [Mekka] en wie er omheen wonen mee waarschuwt en opdat jij waarschuwt voor de dag van de bijeenzameling waaraan geen twijfel is: een groep in de tuin en een groep in de vuurgloed.
+En zo hebben Wij aan jou een Arabische Koran geopenbaard, opdat jij er de hoofdstad \[Mekka\] en wie er omheen wonen mee waarschuwt en opdat jij waarschuwt voor de dag van de bijeenzameling waaraan geen twijfel is: een groep in de tuin en een groep in de vuurgloed.
 
 # 4280
 
@@ -17142,7 +17142,7 @@ De grondlegger van de hemelen en de aarde. Hij heeft uit jullie eigen midden ech
 
 # 4284
 
-Hij heeft de sleutels van de hemelen en de aarde. Hij voorziet ruimschoots in het levensonderhoud van wie Hij wil en ook met mate. Hij is alwetend. *
+Hij heeft de sleutels van de hemelen en de aarde. Hij voorziet ruimschoots in het levensonderhoud van wie Hij wil en ook met mate. Hij is alwetend. \*
 
 # 4285
 
@@ -17178,7 +17178,7 @@ Wie de oogst van het hiernamaals wenst, diens oogst vermeerderen Wij en wie de o
 
 # 4293
 
-Of hebben zij [zogenaamde] metgezellen [van God] die voor hen van de godsdienst dat verordineren wat God niet toegestaan heeft? En als er niet een beschikkingswoord geweest was dan was er tussen hen al een beslissing getroffen. Voor de onrechtplegers is er echt een pijnlijke bestraffing.
+Of hebben zij \[zogenaamde\] metgezellen \[van God\] die voor hen van de godsdienst dat verordineren wat God niet toegestaan heeft? En als er niet een beschikkingswoord geweest was dan was er tussen hen al een beslissing getroffen. Voor de onrechtplegers is er echt een pijnlijke bestraffing.
 
 # 4294
 
@@ -17186,7 +17186,7 @@ Jij zult dan de onrechtplegers terug zien deinzen voor wat zij begaan hebben, te
 
 # 4295
 
-Dat is het goede nieuws dat God verkondigt aan Zijn dienaren die geloven en de deugdelijke daden doen. Zeg: "Ik vraag er geen loon voor, slechts de [normale] vriendelijkheid van verwanten." En als iemand een goede daad doet, dan zullen Wij het goede daarin voor hem vermeerderen. God is vergevend en dank betuigend.
+Dat is het goede nieuws dat God verkondigt aan Zijn dienaren die geloven en de deugdelijke daden doen. Zeg: "Ik vraag er geen loon voor, slechts de \[normale\] vriendelijkheid van verwanten." En als iemand een goede daad doet, dan zullen Wij het goede daarin voor hem vermeerderen. God is vergevend en dank betuigend.
 
 # 4296
 
@@ -17310,7 +17310,7 @@ naar de weg van God, van wie is wat er in de hemelen en wat er op de aarde is. Z
 
 # 4326
 
-H[aa?] M[iem].
+H\[aa?\] M\[iem\].
 
 # 4327
 
@@ -17394,11 +17394,11 @@ Of hadden Wij hun vroeger al een boek gegeven waaraan zij kunnen vasthouden?
 
 # 4347
 
-Welnee, maar zij zeggen: "Wij hebben gemerkt dat onze vaderen tot een [geloofs]gemeenschap behoorden en in hun spoor gaan wij in de goede richting."
+Welnee, maar zij zeggen: "Wij hebben gemerkt dat onze vaderen tot een \[geloofs\]gemeenschap behoorden en in hun spoor gaan wij in de goede richting."
 
 # 4348
 
-En zo hebben Wij vóór jouw tijd geen waarschuwer naar een stad gezonden zonder dat haar inwoners die een luxeleven leidden zeiden: "Wij hebben gemerkt dat onze vaderen tot een [geloofs]gemeenschap behoorden en in hun spoor gaan wij verder." *
+En zo hebben Wij vóór jouw tijd geen waarschuwer naar een stad gezonden zonder dat haar inwoners die een luxeleven leidden zeiden: "Wij hebben gemerkt dat onze vaderen tot een \[geloofs\]gemeenschap behoorden en in hun spoor gaan wij verder." \*
 
 # 4349
 
@@ -17582,7 +17582,7 @@ Vrienden zullen op die dag elkaar tot vijand zijn, alleen de godvrezenden niet.
 
 # 4394
 
-Jullie die in Onze tekenen geloofden en zich [aan God] hadden overgegeven,
+Jullie die in Onze tekenen geloofden en zich \[aan God\] hadden overgegeven,
 
 # 4395
 
@@ -17658,7 +17658,7 @@ En als jij hun vraagt wie hen geschapen heeft zeggen zij: "God." Hoe kunnen zij 
 
 # 4413
 
-En [bij Hem is de kennis ] erover dat hij zegt: "Mijn Heer, dezen hier zijn mensen die niet geloven."
+En \[bij Hem is de kennis \] erover dat hij zegt: "Mijn Heer, dezen hier zijn mensen die niet geloven."
 
 # 4414
 
@@ -17666,7 +17666,7 @@ Schenk maar geen aandacht aan hen en zeg: "Vrede". Zij zullen het weten!
 
 # 4415
 
-H[aa?] M[iem].
+H\[aa?\] M\[iem\].
 
 # 4416
 
@@ -17682,7 +17682,7 @@ waarin iedere wijze beschikking afzonderlijk wordt beslist,
 
 # 4419
 
-als een beschikking van Onze kant. Wij hebben steeds [gezanten] gezonden --
+als een beschikking van Onze kant. Wij hebben steeds \[gezanten\] gezonden --
 
 # 4420
 
@@ -17902,7 +17902,7 @@ Wacht dus af; zij wachten ook af.
 
 # 4474
 
-H[aa?] M[iem].
+H\[aa?\] M\[iem\].
 
 # 4475
 
@@ -17922,7 +17922,7 @@ En in het verschil van nacht en dag en in wat God als levensonderhoud uit de hem
 
 # 4479
 
-Dat zijn Gods tekenen. Wij lezen ze aan jou in waarheid voor. Aan welk bericht zullen zij dan na [dat van] God en Zijn tekenen nog geloven?
+Dat zijn Gods tekenen. Wij lezen ze aan jou in waarheid voor. Aan welk bericht zullen zij dan na \[dat van\] God en Zijn tekenen nog geloven?
 
 # 4480
 
@@ -18050,7 +18050,7 @@ En Hij heeft de hoogste macht in de hemelen en op de aarde en Hij is de machtige
 
 # 4511
 
-H[aa?] M[iem].
+H\[aa?\] M\[iem\].
 
 # 4512
 
@@ -18062,7 +18062,7 @@ Wij hebben de hemelen en de aarde en wat er tussen beide is slechts in waarheid 
 
 # 4514
 
-Zeg: "Hoe zien jullie wat jullie in plaats van God aanroepen? Laat mij dan zien wat zij van de aarde geschapen hebben. Hebben zij een aandeel in de hemelen? Brengt mij een boek dat er voor dit [boek] was of een spoor van kennis, als jullie gelijk hebben."
+Zeg: "Hoe zien jullie wat jullie in plaats van God aanroepen? Laat mij dan zien wat zij van de aarde geschapen hebben. Hebben zij een aandeel in de hemelen? Brengt mij een boek dat er voor dit \[boek\] was of een spoor van kennis, als jullie gelijk hebben."
 
 # 4515
 
@@ -18106,7 +18106,7 @@ Zij zijn het die in de tuin thuishoren, waarin zij altijd zullen blijven, als ee
 
 # 4525
 
-En Wij hebben de mens opgedragen zijn ouders goed te behandelen -- zijn moeder heeft hem immers moeizaam gedragen en moeizaam gebaard. De zwangerschap en [de tijd erna] totdat hij gespeend wordt is dertig maanden. En wanneer hij dan volgroeid is en veertig jaar wordt zegt hij: "Mijn Heer, spoor mij aan dat ik voor Uw genade, die U mij en mijn ouders geschonken hebt, dank betuig en dat ik iets deugdelijks doe wat U bevalt. En maak voor mij dat mijn nageslacht deugdzaam is. Ik wend mij berouwvol tot U en ik behoor bij hen die zich [aan God] overgeven."
+En Wij hebben de mens opgedragen zijn ouders goed te behandelen -- zijn moeder heeft hem immers moeizaam gedragen en moeizaam gebaard. De zwangerschap en \[de tijd erna\] totdat hij gespeend wordt is dertig maanden. En wanneer hij dan volgroeid is en veertig jaar wordt zegt hij: "Mijn Heer, spoor mij aan dat ik voor Uw genade, die U mij en mijn ouders geschonken hebt, dank betuig en dat ik iets deugdelijks doe wat U bevalt. En maak voor mij dat mijn nageslacht deugdzaam is. Ik wend mij berouwvol tot U en ik behoor bij hen die zich \[aan God\] overgeven."
 
 # 4526
 
@@ -18114,7 +18114,7 @@ Zij zijn het van wie Wij het beste dat zij deden aannemen en van wie Wij de slec
 
 # 4527
 
-Maar hij die tegen zijn ouders zegt: "Foei jullie beiden, willen jullie mij aanzeggen dat ik tevoorschijn gebracht zal worden terwijl er voor mijn tijd al generaties zijn heengegaan?" En zij vragen God om hulp [en zeggen]: "Wee jou, geloof toch, de aanzegging van God is waar!" Maar hij zegt: "Dit zijn slechts fabels van hen die er eertijds waren."
+Maar hij die tegen zijn ouders zegt: "Foei jullie beiden, willen jullie mij aanzeggen dat ik tevoorschijn gebracht zal worden terwijl er voor mijn tijd al generaties zijn heengegaan?" En zij vragen God om hulp \[en zeggen\]: "Wee jou, geloof toch, de aanzegging van God is waar!" Maar hij zegt: "Dit zijn slechts fabels van hen die er eertijds waren."
 
 # 4528
 
@@ -18126,7 +18126,7 @@ Voor een ieder zijn er rangen voor wat zij gedaan hebben en opdat Hij hun hun da
 
 # 4530
 
-En op de dag dat zij die ongelovig zijn naar het vuur worden voorgeleid [wordt gezegd]: "Jullie hebben jullie goede dingen in jullie aardse leven verbruikt en genoten. Vandaag krijgen jullie de bestraffing van de schande als vergelding, omdat jullie onterecht hoogmoedig op de aarde waren en voor het schandelijke dat jullie deden."
+En op de dag dat zij die ongelovig zijn naar het vuur worden voorgeleid \[wordt gezegd\]: "Jullie hebben jullie goede dingen in jullie aardse leven verbruikt en genoten. Vandaag krijgen jullie de bestraffing van de schande als vergelding, omdat jullie onterecht hoogmoedig op de aarde waren en voor het schandelijke dat jullie deden."
 
 # 4531
 
@@ -18138,7 +18138,7 @@ Zij zeiden: "Ben jij tot ons gekomen om ons van onze goden af te brengen? Breng 
 
 # 4533
 
-Hij zei: "De kennis [daarover] is bij God. Ik verkondig jullie dat waarmee ik gezonden ben, maar ik zie dat jullie mensen zijn die niets weten."
+Hij zei: "De kennis \[daarover\] is bij God. Ik verkondig jullie dat waarmee ik gezonden ben, maar ik zie dat jullie mensen zijn die niets weten."
 
 # 4534
 
@@ -18186,7 +18186,7 @@ En op de dag dat zij die ongelovig zijn naar het vuur worden voorgeleid: "Is dit
 
 # 4545
 
-Volhard dus geduldig zoals die profeten die vastbesloten waren geduldig volhardden en probeer niet het voor hen te verhaasten. Het zal voor hen op de dag dat zij zien wat hun toegezegd was zijn alsof het voor hen niet langer dan een uur van de dag heeft geduurd. [Dit is] een verkondiging. Zullen dan anderen dan de verdorven mensen vernietigd worden?
+Volhard dus geduldig zoals die profeten die vastbesloten waren geduldig volhardden en probeer niet het voor hen te verhaasten. Het zal voor hen op de dag dat zij zien wat hun toegezegd was zijn alsof het voor hen niet langer dan een uur van de dag heeft geduurd. \[Dit is\] een verkondiging. Zullen dan anderen dan de verdorven mensen vernietigd worden?
 
 # 4546
 
@@ -18202,7 +18202,7 @@ Dat komt omdat zij die ongelovig zijn het onware volgen en omdat zij die gelovig
 
 # 4549
 
-En wanneer jullie hen die ongelovig zijn [in de strijd] ontmoeten, slaat hen dan dood, maar wanneer jullie dan de overhand over hen verkregen hebben boeit hen dan stevig vast, hetzij om hen later als gunst vrij te laten hetzij om hen los te laten kopen, wanneer de lasten van de oorlog zijn afgelegd. Zo is het. En als God zou willen zou Hij zelf zich op hen wreken, maar Hij wil jullie met elkaar op de proef stellen. En zij die op Gods weg gedood zijn, hun daden zullen niet teloorgaan.
+En wanneer jullie hen die ongelovig zijn \[in de strijd\] ontmoeten, slaat hen dan dood, maar wanneer jullie dan de overhand over hen verkregen hebben boeit hen dan stevig vast, hetzij om hen later als gunst vrij te laten hetzij om hen los te laten kopen, wanneer de lasten van de oorlog zijn afgelegd. Zo is het. En als God zou willen zou Hij zelf zich op hen wreken, maar Hij wil jullie met elkaar op de proef stellen. En zij die op Gods weg gedood zijn, hun daden zullen niet teloorgaan.
 
 # 4550
 
@@ -18222,7 +18222,7 @@ Maar zij die ongelovig zijn, neer met hen! Hij laat hun daden teloorgaan.
 
 # 4554
 
-Dat komt omdat zij verafschuwen wat God neergezonden heeft. Dus maakt Hij hun daden vruchteloos. *
+Dat komt omdat zij verafschuwen wat God neergezonden heeft. Dus maakt Hij hun daden vruchteloos. \*
 
 # 4555
 
@@ -18246,7 +18246,7 @@ Is dan iemand die op een duidelijk bewijs van zijn Heer steunt gelijk aan iemand
 
 # 4560
 
-De tuin die de godvrezenden is toegezegd ziet er zo uit: Er zijn rivieren van water dat niet brak is, rivieren van melk waarvan de smaak niet verandert, rivieren van wijn die aangenaam is voor de drinkers en rivieren van gezuiverde honing. En zij hebben daar allerlei vruchten en vergeving van hun Heer. [Zijn zij] als zij die altijd in het vuur blijven en gloeiend water te drinken krijgen dat hun ingewanden stuksnijdt?
+De tuin die de godvrezenden is toegezegd ziet er zo uit: Er zijn rivieren van water dat niet brak is, rivieren van melk waarvan de smaak niet verandert, rivieren van wijn die aangenaam is voor de drinkers en rivieren van gezuiverde honing. En zij hebben daar allerlei vruchten en vergeving van hun Heer. \[Zijn zij\] als zij die altijd in het vuur blijven en gloeiend water te drinken krijgen dat hun ingewanden stuksnijdt?
 
 # 4561
 
@@ -18378,7 +18378,7 @@ opdat jullie geloven in God en Zijn gezant, Hem bijstaan, Hem vereren en Hem 's 
 
 # 4593
 
-Zij die jou trouw zweren, zweren God trouw. Gods hand is op hun handen gelegd. En wie [die eed] breekt, die breekt hem tot zijn eigen nadeel. Maar wie de verbintenis die hij met God gesloten heeft nakomt, die zal Hij een geweldig loon geven.
+Zij die jou trouw zweren, zweren God trouw. Gods hand is op hun handen gelegd. En wie \[die eed\] breekt, die breekt hem tot zijn eigen nadeel. Maar wie de verbintenis die hij met God gesloten heeft nakomt, die zal Hij een geweldig loon geven.
 
 # 4594
 
@@ -18402,7 +18402,7 @@ Wanneer jullie uittrekken om buit te behalen zullen de achtergelatenen zeggen: "
 
 # 4599
 
-Zeg tot de bedoeïenen die achtergelaten zijn: "Jullie zullen worden opgeroepen [tot de strijd] tegen mensen van geweldige sterkte. Jullie zullen tegen hen strijden of zij geven zich over [aan God]. En als jullie gehoorzamen zal God jullie een goed loon geven, maar als jullie je afkeren, zoals jullie je vroeger hebben afgekeerd, dan zal Hij jullie met een pijnlijke bestraffing straffen."
+Zeg tot de bedoeïenen die achtergelaten zijn: "Jullie zullen worden opgeroepen \[tot de strijd\] tegen mensen van geweldige sterkte. Jullie zullen tegen hen strijden of zij geven zich over \[aan God\]. En als jullie gehoorzamen zal God jullie een goed loon geven, maar als jullie je afkeren, zoals jullie je vroeger hebben afgekeerd, dan zal Hij jullie met een pijnlijke bestraffing straffen."
 
 # 4600
 
@@ -18438,7 +18438,7 @@ Hij is het namelijk die in het dal van Mekka hun handen van jullie en jullie han
 
 # 4608
 
-Zij zijn het die ongelovig zijn en die jullie de weg naar de heilige moskee versperren, terwijl de offergave verhinderd wordt zijn bestemming [om geslacht te worden] te bereiken. En als jullie gelovige mannen en vrouwen die er waren, maar die jullie niet kenden, niet onder de voet gelopen zouden hebben en jullie vanwege hen dus door iets afschuwelijks getroffen zouden worden? Het was opdat God wie Hij wil in Zijn barmhartigheid zou laten binnengaan. Als zij zich onderscheiden hadden, dan zouden Wij hen uit hun midden die ongelovig zijn met een pijnlijke bestraffing gestraft hebben.
+Zij zijn het die ongelovig zijn en die jullie de weg naar de heilige moskee versperren, terwijl de offergave verhinderd wordt zijn bestemming \[om geslacht te worden\] te bereiken. En als jullie gelovige mannen en vrouwen die er waren, maar die jullie niet kenden, niet onder de voet gelopen zouden hebben en jullie vanwege hen dus door iets afschuwelijks getroffen zouden worden? Het was opdat God wie Hij wil in Zijn barmhartigheid zou laten binnengaan. Als zij zich onderscheiden hadden, dan zouden Wij hen uit hun midden die ongelovig zijn met een pijnlijke bestraffing gestraft hebben.
 
 # 4609
 
@@ -18506,11 +18506,11 @@ Jullie die geloven! Vermijdt vele vermoedens -- sommige vermoedens zijn zonde --
 
 # 4625
 
-O mensen, Wij hebben jullie uit een man en een vrouw geschapen en Wij hebben jullie tot volkeren en stammen gemaakt opdat jullie elkaar zouden kennen. De voortreffelijkste van jullie is bij God de godvrezendste. God is wetend en welingelicht. *
+O mensen, Wij hebben jullie uit een man en een vrouw geschapen en Wij hebben jullie tot volkeren en stammen gemaakt opdat jullie elkaar zouden kennen. De voortreffelijkste van jullie is bij God de godvrezendste. God is wetend en welingelicht. \*
 
 # 4626
 
-De bedoeïenen zeggen: "Wij geloven." Zeg: "Jullie geloven niet, maar zeg: 'Wij hebben ons [aan God] overgegeven.? Het geloof is nog niet in jullie harten binnengekomen, maar als jullie God en Zijn gezant gehoorzamen, dan zal Hij jullie voor je daden niets tekort laten komen. God is wetend en wijs."
+De bedoeïenen zeggen: "Wij geloven." Zeg: "Jullie geloven niet, maar zeg: 'Wij hebben ons \[aan God\] overgegeven.? Het geloof is nog niet in jullie harten binnengekomen, maar als jullie God en Zijn gezant gehoorzamen, dan zal Hij jullie voor je daden niets tekort laten komen. God is wetend en wijs."
 
 # 4627
 
@@ -18522,7 +18522,7 @@ Zeg: "Willen jullie dan God over jullie godsdienst beleren, terwijl God weet wat
 
 # 4629
 
-Zij beschouwen het als een gunst aan jou dat zij zich [aan God] hebben overgegeven. Zeg: "Beschouwt jullie overgave niet als een gunst aan mij. Integendeel, God heeft jullie een gunst bewezen dat Hij jullie tot het geloof geleid heeft, als jullie oprecht zijn."
+Zij beschouwen het als een gunst aan jou dat zij zich \[aan God\] hebben overgegeven. Zeg: "Beschouwt jullie overgave niet als een gunst aan mij. Integendeel, God heeft jullie een gunst bewezen dat Hij jullie tot het geloof geleid heeft, als jullie oprecht zijn."
 
 # 4630
 
@@ -18530,7 +18530,7 @@ God kent het verborgene van de hemelen en de aarde en God doorziet wel wat julli
 
 # 4631
 
-K[aaf]. Bij de glorierijke Koran!
+K\[aaf\]. Bij de glorierijke Koran!
 
 # 4632
 
@@ -18542,7 +18542,7 @@ Zullen wij dan als wij gestorven zijn en stof geworden zijn?? Dat is toch een ve
 
 # 4634
 
-Wij weten wel wat de aarde van hen verteert; bij Ons is een boek dat [alles] bewaart.
+Wij weten wel wat de aarde van hen verteert; bij Ons is een boek dat \[alles\] bewaart.
 
 # 4635
 
@@ -18570,7 +18570,7 @@ en palmen die hoog oprijzen en boven elkaar geplaatste bloeiwijzen hebben,
 
 # 4641
 
-als levensonderhoud voor de dienaren. En Wij brengen daarmee een dode streek tot leven. Zo is ook het tevoorschijn komen [van de doden].
+als levensonderhoud voor de dienaren. En Wij brengen daarmee een dode streek tot leven. Zo is ook het tevoorschijn komen \[van de doden\].
 
 # 4642
 
@@ -18594,7 +18594,7 @@ Wij hebben de mens toch geschapen en Wij weten wat hij zichzelf influistert. Wij
 
 # 4647
 
-Wanneer de beide ontvangers, aan de rechter- en de linkerkant zittend, [hem] zullen ontvangen
+Wanneer de beide ontvangers, aan de rechter- en de linkerkant zittend, \[hem\] zullen ontvangen
 
 # 4648
 
@@ -18614,7 +18614,7 @@ En elke persoon komt met een voortdrijver bij zich en een getuige.
 
 # 4652
 
-[En tot hem wordt gezegd:] "Jij hebt hierop niet gelet, maar wij hebben jouw bedekking van je afgenomen, zodat je blik vandaag scherp is."
+\[En tot hem wordt gezegd:\] "Jij hebt hierop niet gelet, maar wij hebben jouw bedekking van je afgenomen, zodat je blik vandaag scherp is."
 
 # 4653
 
@@ -18622,7 +18622,7 @@ En zijn kameraad zegt: "Dit is wat bij mij klaarstaat."
 
 # 4654
 
-[En tot die twee wordt gezegd:] "Jullie beiden moeten elke weerspannige ongelovige in de hel werpen,
+\[En tot die twee wordt gezegd:\] "Jullie beiden moeten elke weerspannige ongelovige in de hel werpen,
 
 # 4655
 
@@ -18630,7 +18630,7 @@ die het goede tegenhoudt, overtredingen begaat, in twijfel verkeert,
 
 # 4656
 
-en die naast God een andere god stelt. Werpt hem dus in de pijnlijke bestraffing." *
+en die naast God een andere god stelt. Werpt hem dus in de pijnlijke bestraffing." \*
 
 # 4657
 
@@ -18654,7 +18654,7 @@ En de tuin wordt dicht bij de godvrezenden gebracht, niet ver van hen vandaan.
 
 # 4662
 
-"Dit is wat aan jullie is toegezegd voor ieder die schuldbewust is en zich aan [de godsdienst] houdt,
+"Dit is wat aan jullie is toegezegd voor ieder die schuldbewust is en zich aan \[de godsdienst\] houdt,
 
 # 4663
 
@@ -18694,7 +18694,7 @@ En luister op de dag dat de oproeper van een nabije plaats roept.
 
 # 4672
 
-Op de dag dat zij de schreeuw in waarheid zullen horen; dat is de dag waarop [de doden] tevoorschijn komen.
+Op de dag dat zij de schreeuw in waarheid zullen horen; dat is de dag waarop \[de doden\] tevoorschijn komen.
 
 # 4673
 
@@ -18702,7 +18702,7 @@ Wij geven leven en Wij laten sterven en bij Ons is de bestemming.
 
 # 4674
 
-Op de dag dat de aarde voor hen uiteensplijt zodat zij snel [tevoorschijn] komen. Dat is een gemakkelijk verzamelen voor Ons.
+Op de dag dat de aarde voor hen uiteensplijt zodat zij snel \[tevoorschijn\] komen. Dat is een gemakkelijk verzamelen voor Ons.
 
 # 4675
 
@@ -18826,7 +18826,7 @@ Toen kwam zijn vrouw er schreeuwend aan. Zij sloeg zich in het gezicht en zei: "
 
 # 4705
 
-Zij zeiden: "Zo heeft jouw Heer het gezegd. Hij is de wijze, de wetende." *
+Zij zeiden: "Zo heeft jouw Heer het gezegd. Hij is de wijze, de wetende." \*
 
 # 4706
 
@@ -18850,7 +18850,7 @@ En Wij lieten hen die daar tot de gelovigen behoorden eruit gaan,
 
 # 4711
 
-maar Wij vonden er slechts één huis van hen die zich [aan God] overgaven.
+maar Wij vonden er slechts één huis van hen die zich \[aan God\] overgaven.
 
 # 4712
 
@@ -18858,7 +18858,7 @@ En Wij lieten daarin een teken achter voor hen die de pijnlijke bestraffing vrez
 
 # 4713
 
-Ook in [het verhaal van] Moesa, toen Wij hem met een duidelijke machtiging naar Fir'aun zonden.
+Ook in \[het verhaal van\] Moesa, toen Wij hem met een duidelijke machtiging naar Fir'aun zonden.
 
 # 4714
 
@@ -18870,7 +18870,7 @@ En Wij grepen hem en zijn troepen en wierpen hen in de zee; laakbaar was hij.
 
 # 4716
 
-Ook in [het verhaal van] de 'Aad, toen Wij de barre wind tegen hen zonden,
+Ook in \[het verhaal van\] de 'Aad, toen Wij de barre wind tegen hen zonden,
 
 # 4717
 
@@ -18878,7 +18878,7 @@ die waar hij overheen ging niets overliet, maar het als gruis maakte.
 
 # 4718
 
-Ook in [het verhaal van] de Thamoed, toen Wij tot hen zeiden: "Jullie kunnen nog een tijd genieten."
+Ook in \[het verhaal van\] de Thamoed, toen Wij tot hen zeiden: "Jullie kunnen nog een tijd genieten."
 
 # 4719
 
@@ -19022,7 +19022,7 @@ blij met wat hun Heer hun geeft. En hun Heer beschermt hen tegen de bestraffing 
 
 # 4754
 
-"Eet en drinkt met genoegen [als beloning] voor wat jullie gedaan hebbent
+"Eet en drinkt met genoegen \[als beloning\] voor wat jullie gedaan hebbent
 
 # 4755
 
@@ -19038,7 +19038,7 @@ En Wij overladen hen met vruchten en vlees, wat zij maar begeren,
 
 # 4758
 
-terwijl zij er een beker aan elkaar doorgeven waarbij er onzinnig geklets noch verleiding tot zonde voorkomt. *
+terwijl zij er een beker aan elkaar doorgeven waarbij er onzinnig geklets noch verleiding tot zonde voorkomt. \*
 
 # 4759
 
@@ -19050,7 +19050,7 @@ En zij komen naar elkaar toe om elkaar te ondervragen.
 
 # 4761
 
-Zij zeggen: "Vroeger, te midden van onze familie, hadden wij ontzag [voor Gods woord].
+Zij zeggen: "Vroeger, te midden van onze familie, hadden wij ontzag \[voor Gods woord\].
 
 # 4762
 
@@ -19202,7 +19202,7 @@ bij de lotusboom van de eindbestemming,
 
 # 4799
 
-bij de tuin van de [hemelse] verblijfplaats,
+bij de tuin van de \[hemelse\] verblijfplaats,
 
 # 4800
 
@@ -19226,7 +19226,7 @@ en Manaat, de derde, de andere?
 
 # 4805
 
-Zouden jullie dan de mannelijke [kinderen] hebben en Hij de vrouwelijke?
+Zouden jullie dan de mannelijke \[kinderen\] hebben en Hij de vrouwelijke?
 
 # 4806
 
@@ -19290,7 +19290,7 @@ Of is hem dan niet meegedeeld wat er staat in de bladen van Moesa
 
 # 4821
 
-en Ibrahiem die [zijn plicht] vervulde?
+en Ibrahiem die \[zijn plicht\] vervulde?
 
 # 4822
 
@@ -19354,7 +19354,7 @@ en het volk van Noeh daarvoor al. Zij waren uiterst zondig en onbeschaamd.
 
 # 4837
 
-En de ondersteboven gekeerde [stad] stortte Hij naar beneden.
+En de ondersteboven gekeerde \[stad\] stortte Hij naar beneden.
 
 # 4838
 
@@ -19370,7 +19370,7 @@ Dit is een waarschuwer als de eerdere waarschuwers.
 
 # 4841
 
-De aanstaande [opstanding] is nabij.
+De aanstaande \[opstanding\] is nabij.
 
 # 4842
 
@@ -19390,7 +19390,7 @@ afgeleid als jullie zijn?
 
 # 4846
 
-Buigt dan eerbiedig neer voor God en dient [Hem]."
+Buigt dan eerbiedig neer voor God en dient \[Hem\]."
 
 # 4847
 
@@ -19442,7 +19442,7 @@ En Wij lieten de aarde in bronnen uitbarsten, zodat het water bij elkaar kwam vo
 
 # 4859
 
-Maar hem droegen Wij op het uit planken en pennen gemaakte [schip],
+Maar hem droegen Wij op het uit planken en pennen gemaakte \[schip\],
 
 # 4860
 
@@ -19582,7 +19582,7 @@ De boosdoeners verkeren in dwaling en zijn waanzinnig.
 
 # 4894
 
-Op de dag dat zij op hun gezichten [ter aarde geworpen] in het vuur gesleurd worden: "Proeft dan de aanraking met de hellegloed."
+Op de dag dat zij op hun gezichten \[ter aarde geworpen\] in het vuur gesleurd worden: "Proeft dan de aanraking met de hellegloed."
 
 # 4895
 
@@ -19590,7 +19590,7 @@ Wij hebben alles op maat geschapen.
 
 # 4896
 
-En Onze beschikking is slechts één [woord], als een oogwenk.
+En Onze beschikking is slechts één \[woord\], als een oogwenk.
 
 # 4897
 
@@ -19898,7 +19898,7 @@ Welke weldaden van jullie beider Heer loochenen jullie dan?
 
 # 4973
 
-Met sprekende grote [ogen], in tenten afgezonderd.
+Met sprekende grote \[ogen\], in tenten afgezonderd.
 
 # 4974
 
@@ -19914,7 +19914,7 @@ Welke weldaden van jullie beider Heer loochenen jullie dan?
 
 # 4977
 
-Achterovergeleund op groene kussens en onvoorstelbaar mooie [tapijten].
+Achterovergeleund op groene kussens en onvoorstelbaar mooie \[tapijten\].
 
 # 4978
 
@@ -19966,7 +19966,7 @@ Maar de eerstgekomenen zijn het eerst gekomen;
 
 # 4990
 
-zij zijn het die in de nabijheid [van God] zijn gebracht,
+zij zijn het die in de nabijheid \[van God\] zijn gebracht,
 
 # 4991
 
@@ -19994,7 +19994,7 @@ Bij hen gaan altijd jong blijvende jongelingen rond
 
 # 4997
 
-met bekers en kruiken en een drinkbeker [waarin een drank is] uit een bron,
+met bekers en kruiken en een drinkbeker \[waarin een drank is\] uit een bron,
 
 # 4998
 
@@ -20154,7 +20154,7 @@ Wij zijn het die jullie geschapen hebben. Waarom willen jullie het niet geloven?
 
 # 5037
 
-Hoe zien jullie [het zaad] dat jullie uitstorten dan?
+Hoe zien jullie \[het zaad\] dat jullie uitstorten dan?
 
 # 5038
 
@@ -20166,7 +20166,7 @@ Wij hebben voor jullie de dood verordend en niemand kan Ons voor zijn,
 
 # 5040
 
-wanneer Wij [jullie] door gelijksoortigen willen vervangen en jullie opnieuw laten ontstaan in een vorm die jullie niet kennen.
+wanneer Wij \[jullie\] door gelijksoortigen willen vervangen en jullie opnieuw laten ontstaan in een vorm die jullie niet kennen.
 
 # 5041
 
@@ -20254,7 +20254,7 @@ Maar jullie maken het tot jullie dagelijkse kost het te loochenen.
 
 # 5062
 
-Waarom [brengen jullie de levensadem] wanneer hij de keel bereikt niet [terug],
+Waarom \[brengen jullie de levensadem\] wanneer hij de keel bereikt niet \[terug\],
 
 # 5063
 
@@ -20346,7 +20346,7 @@ Hij is het die tot Zijn dienaar duidelijke tekenen neergezonden heeft om jullie 
 
 # 5085
 
-Wat hebben jullie toch dat jullie geen bijdragen op Gods weg geven? Aan God behoort immers de erfenis toe van de hemelen en de aarde. Niet gelijk [aan de anderen] zijn uit jullie midden zij die al voor het succes bijdragen gaven en streden. Zij zijn het die een hogere rang hebben dan zij die erna bijdragen zijn gaan geven en zijn gaan strijden. Maar aan allen heeft God het mooiste toegezegd. God is welingelicht over wat jullie doen.
+Wat hebben jullie toch dat jullie geen bijdragen op Gods weg geven? Aan God behoort immers de erfenis toe van de hemelen en de aarde. Niet gelijk \[aan de anderen\] zijn uit jullie midden zij die al voor het succes bijdragen gaven en streden. Zij zijn het die een hogere rang hebben dan zij die erna bijdragen zijn gaan geven en zijn gaan strijden. Maar aan allen heeft God het mooiste toegezegd. God is welingelicht over wat jullie doen.
 
 # 5086
 
@@ -20358,7 +20358,7 @@ Op de dag dat jij de gelovige mannen en vrouwen ziet terwijl hun licht voor hen 
 
 # 5088
 
-Op de dag dat de huichelaars en de huichelaarsters zeggen tot hen die geloven: "Wacht toch, dan kunnen wij van jullie licht [het onze] aansteken." Dan wordt er tot hen gezegd: "Gaat maar naar achteren terug en zoekt zelf maar licht." Dan wordt er tussen hen een muur opgetrokken, met een poort; aan de binnenkant ervan is barmhartigheid, maar aan de buitenkant, ervoor, is de bestraffing.
+Op de dag dat de huichelaars en de huichelaarsters zeggen tot hen die geloven: "Wacht toch, dan kunnen wij van jullie licht \[het onze\] aansteken." Dan wordt er tot hen gezegd: "Gaat maar naar achteren terug en zoekt zelf maar licht." Dan wordt er tussen hen een muur opgetrokken, met een poort; aan de binnenkant ervan is barmhartigheid, maar aan de buitenkant, ervoor, is de bestraffing.
 
 # 5089
 
@@ -20430,15 +20430,15 @@ God heeft haar wel horen spreken die met jou over haar echtgenoot twist en tot G
 
 # 5106
 
-Zij die zich uit jullie midden van hun vrouwen scheiden [door uit te spreken dat zij als hun moeders zijn] -- zij zijn niet [werkelijk] hun moeders, want hun moeders zijn slechts zij die hen gebaard hebben en zij zeggen iets verwerpelijks en onwaars, maar God is lankmoedig en vergevend --
+Zij die zich uit jullie midden van hun vrouwen scheiden \[door uit te spreken dat zij als hun moeders zijn\] -- zij zijn niet \[werkelijk\] hun moeders, want hun moeders zijn slechts zij die hen gebaard hebben en zij zeggen iets verwerpelijks en onwaars, maar God is lankmoedig en vergevend --
 
 # 5107
 
-zij dus die zich van hun vrouwen scheiden [door uit te spreken dat zij als hun moeders zijn] en dan terugkomen op wat zij zeggen, [zijn verplicht tot] vrijlating van een slaaf voordat zij elkaar aanraken. Daartoe worden jullie aangespoord; God is welingelicht over wat jullie doen.
+zij dus die zich van hun vrouwen scheiden \[door uit te spreken dat zij als hun moeders zijn\] en dan terugkomen op wat zij zeggen, \[zijn verplicht tot\] vrijlating van een slaaf voordat zij elkaar aanraken. Daartoe worden jullie aangespoord; God is welingelicht over wat jullie doen.
 
 # 5108
 
-En als iemand [daarvoor] geen mogelijkheid vindt dan [is hij verplicht tot] een vasten van twee maanden achter elkaar voordat zij elkaar aanraken. En als iemand [daartoe] niet in staat is, dan [is hij verplicht] aan zestig behoeftigen voedsel te geven. Dat is opdat jullie in God en Zijn gezant geloven en dat zijn Gods bepalingen. En voor de ongelovigen is er een pijnlijke bestraffing.
+En als iemand \[daarvoor\] geen mogelijkheid vindt dan \[is hij verplicht tot\] een vasten van twee maanden achter elkaar voordat zij elkaar aanraken. En als iemand \[daartoe\] niet in staat is, dan \[is hij verplicht\] aan zestig behoeftigen voedsel te geven. Dat is opdat jullie in God en Zijn gezant geloven en dat zijn Gods bepalingen. En voor de ongelovigen is er een pijnlijke bestraffing.
 
 # 5109
 
@@ -20646,7 +20646,7 @@ Maar God verbiedt dat jullie hun die wegens de godsdienst tegen jullie gestreden
 
 # 5160
 
-Jullie die geloven! Wanneer gelovige vrouwen als uitgewekenen tot jullie komen, stelt haar dan op de proef. God kent haar geloof het best. En wanneer jullie weten dat zij gelovig zijn zendt haar dan niet terug naar de ongelovigen. Zij zijn aan hen niet toegestaan [om mee getrouwd te zijn] en zij zijn voor haar niet toegestaan. En geeft aan haar wat jullie als bijdragen geeft. En het is geen overtreding voor jullie als jullie met haar trouwen, wanneer jullie haar haar loon geven. En houdt niet vast aan de huwelijksbanden met de ongelovige vrouwen. En vraagt om de bijdrage die jullie gegeven hebben; zij vragen ook om de bijdrage die zij gegeven hebben. Dat is Gods oordeel; Hij oordeelt tussen jullie. God is wetend en wijs.
+Jullie die geloven! Wanneer gelovige vrouwen als uitgewekenen tot jullie komen, stelt haar dan op de proef. God kent haar geloof het best. En wanneer jullie weten dat zij gelovig zijn zendt haar dan niet terug naar de ongelovigen. Zij zijn aan hen niet toegestaan \[om mee getrouwd te zijn\] en zij zijn voor haar niet toegestaan. En geeft aan haar wat jullie als bijdragen geeft. En het is geen overtreding voor jullie als jullie met haar trouwen, wanneer jullie haar haar loon geven. En houdt niet vast aan de huwelijksbanden met de ongelovige vrouwen. En vraagt om de bijdrage die jullie gegeven hebben; zij vragen ook om de bijdrage die zij gegeven hebben. Dat is Gods oordeel; Hij oordeelt tussen jullie. God is wetend en wijs.
 
 # 5161
 
@@ -20686,7 +20686,7 @@ Toen 'Isa, de zoon van Marjam zei: "O Israëlieten, ik ben de gezant van God bij
 
 # 5170
 
-En wie is er zondiger dan wie over God bedrog verzint, terwijl hij tot de overgave [aan God] is opgeroepen. God wijst de mensen die onrecht plegen de goede richting niet.
+En wie is er zondiger dan wie over God bedrog verzint, terwijl hij tot de overgave \[aan God\] is opgeroepen. God wijst de mensen die onrecht plegen de goede richting niet.
 
 # 5171
 
@@ -20714,7 +20714,7 @@ En nog iets anders wat jullie graag willen: hulp van God en een spoedig succes. 
 
 # 5177
 
-Jullie die geloven! Weest Gods helpers. Zoals 'Isa, de zoon van Marjam, tot zijn discipelen zei: "Wie zijn mijn helpers [op de weg] tot God?" De discipelen zeiden: "Wij zijn Gods helpers." Een groep van de Israëlieten geloofde dus, maar een andere groep bleef ongelovig. En Wij ondersteunden hen die geloofden tegen hun vijanden en zij kregen dus de heerschappij.
+Jullie die geloven! Weest Gods helpers. Zoals 'Isa, de zoon van Marjam, tot zijn discipelen zei: "Wie zijn mijn helpers \[op de weg\] tot God?" De discipelen zeiden: "Wij zijn Gods helpers." Een groep van de Israëlieten geloofde dus, maar een andere groep bleef ongelovig. En Wij ondersteunden hen die geloofden tegen hun vijanden en zij kregen dus de heerschappij.
 
 # 5178
 
@@ -20750,7 +20750,7 @@ Zeg: "De dood waarvoor jullie vluchten zal jullie inhalen. Dan zullen jullie naa
 
 # 5186
 
-Jullie die geloven! Wanneer jullie tot de salaat op de vrijdag [als de dag van de samenkomst] worden opgeroepen, haast jullie dan om God te gedenken en laat het zakendoen. Dat is beter voor jullie, als jullie dat maar wisten.
+Jullie die geloven! Wanneer jullie tot de salaat op de vrijdag \[als de dag van de samenkomst\] worden opgeroepen, haast jullie dan om God te gedenken en laat het zakendoen. Dat is beter voor jullie, als jullie dat maar wisten.
 
 # 5187
 
@@ -20770,7 +20770,7 @@ Zij hebben hun eden als bescherming gebruikt en zo Gods weg versperd. Het is sle
 
 # 5191
 
-Dat komt omdat zij geloofd hebben en toen ongelovig werden; hun harten zijn verzegeld, dus hebben zij geen begrip. *
+Dat komt omdat zij geloofd hebben en toen ongelovig werden; hun harten zijn verzegeld, dus hebben zij geen begrip. \*
 
 # 5192
 
@@ -20898,7 +20898,7 @@ Dat is de beschikking van God die Hij naar jullie heeft neergezonden. En als iem
 
 # 5223
 
-Laat haar wonen waar jullie wonen, naar jullie vermogen. Brengt haar geen schade toe om haar in het nauw te brengen. Als zij zwanger zijn geeft haar dan bijdragen totdat zij baren waarvan zij zwanger zijn. En als zij [jullie kinderen] voor jullie zogen, geeft haar dan haar loon. En doet elkaar redelijke aanbevelingen. Maar als jullie het moeilijk met elkaar eens worden, dan zal een andere vrouw [het kind] voor hem moeten zogen.
+Laat haar wonen waar jullie wonen, naar jullie vermogen. Brengt haar geen schade toe om haar in het nauw te brengen. Als zij zwanger zijn geeft haar dan bijdragen totdat zij baren waarvan zij zwanger zijn. En als zij \[jullie kinderen\] voor jullie zogen, geeft haar dan haar loon. En doet elkaar redelijke aanbevelingen. Maar als jullie het moeilijk met elkaar eens worden, dan zal een andere vrouw \[het kind\] voor hem moeten zogen.
 
 # 5224
 
@@ -20922,7 +20922,7 @@ een gezant die aan jullie Gods tekenen als duidelijke bewijzen voorleest om hen 
 
 # 5229
 
-God is het die zeven hemelen geschapen heeft en van de aarde evenveel, waarbij de ordening [van God] ertussen neerdaalde opdat jullie weten dat God almachtig is en dat God alles met Zijn kennis omvat.
+God is het die zeven hemelen geschapen heeft en van de aarde evenveel, waarbij de ordening \[van God\] ertussen neerdaalde opdat jullie weten dat God almachtig is en dat God alles met Zijn kennis omvat.
 
 # 5230
 
@@ -20942,7 +20942,7 @@ Als jullie je beiden berouwvol tot God wenden, dan waren jullie harten afgedwaal
 
 # 5234
 
-Als hij zich van jullie scheidt zal zijn Heer hem misschien wel andere echtgenotes, die beter zijn dan jullie, voor jullie in de plaats geven, vrouwen die zich [aan God] overgeven, die gelovig, onderdanig, berouwhebbend, dienend en vastend zijn, die al eerder getrouwd geweest zijn of die nog maagd zijn.
+Als hij zich van jullie scheidt zal zijn Heer hem misschien wel andere echtgenotes, die beter zijn dan jullie, voor jullie in de plaats geven, vrouwen die zich \[aan God\] overgeven, die gelovig, onderdanig, berouwhebbend, dienend en vastend zijn, die al eerder getrouwd geweest zijn of die nog maagd zijn.
 
 # 5235
 
@@ -21050,7 +21050,7 @@ Hebben zij niet gezien naar de vogels boven hen die hun vleugels uitspreiden en 
 
 # 5261
 
-Of wie is het die in plaats van de Erbarmer voor jullie een troepenmacht kan zijn die jullie helpt? De ongelovigen zijn slechts aan begoocheling [ten prooi gevallen].
+Of wie is het die in plaats van de Erbarmer voor jullie een troepenmacht kan zijn die jullie helpt? De ongelovigen zijn slechts aan begoocheling \[ten prooi gevallen\].
 
 # 5262
 
@@ -21074,7 +21074,7 @@ En zij zeggen: "Wanneer zal deze aanzegging zich voordoen, als jullie gelijk heb
 
 # 5267
 
-Zeg: "De kennis [daarover] is bij God. Ik ben slechts een duidelijke waarschuwer."
+Zeg: "De kennis \[daarover\] is bij God. Ik ben slechts een duidelijke waarschuwer."
 
 # 5268
 
@@ -21094,7 +21094,7 @@ Zeg: "Hoe zien jullie het, als jullie water diep zou wegzakken, wie zou jullie d
 
 # 5272
 
-N[oen]. Bij de pen en wat zij neerschrijven.
+N\[oen\]. Bij de pen en wat zij neerschrijven.
 
 # 5273
 
@@ -21202,7 +21202,7 @@ Nee, wij zijn beroofd!"
 
 # 5299
 
-De evenwichtigste onder hen zei: "Had ik het jullie niet gezegd? Als jullie [God] maar zouden prijzen."
+De evenwichtigste onder hen zei: "Had ik het jullie niet gezegd? Als jullie \[God\] maar zouden prijzen."
 
 # 5300
 
@@ -21230,7 +21230,7 @@ Maar de godvrezenden hebben bij hun Heer de tuinen van de gelukzaligheid.
 
 # 5306
 
-Zullen Wij dan hen die zich [aan God] hebben overgegeven als de boosdoeners behandelen?
+Zullen Wij dan hen die zich \[aan God\] hebben overgegeven als de boosdoeners behandelen?
 
 # 5307
 
@@ -21254,7 +21254,7 @@ Vraag hun wie van hen dat beweert.
 
 # 5312
 
-Of hebben zij [zogenaamd goddelijke] metgezellen? Dan moeten zij maar met hun [zogenaamd goddelijke] metgezellen komen, als zij gelijk hebben.
+Of hebben zij \[zogenaamd goddelijke\] metgezellen? Dan moeten zij maar met hun \[zogenaamd goddelijke\] metgezellen komen, als zij gelijk hebben.
 
 # 5313
 
@@ -21394,7 +21394,7 @@ met de af te plukken vruchten dichtbij.
 
 # 5347
 
-"Eet en drinkt met genoegen [als beloning] voor wat jullie vroeger, in de dagen die voorbij zijn, gedaan hebben."
+"Eet en drinkt met genoegen \[als beloning\] voor wat jullie vroeger, in de dagen die voorbij zijn, gedaan hebben."
 
 # 5348
 
@@ -21498,7 +21498,7 @@ Wij weten dat er onder jullie loochenaars zijn.
 
 # 5373
 
-Het is een [reden tot] wroeging voor de ongelovigen.
+Het is een \[reden tot\] wroeging voor de ongelovigen.
 
 # 5374
 
@@ -21850,7 +21850,7 @@ En: 'Toen wij de leidraad hoorden geloofden wij erin; en wie in zijn Heer geloof
 
 # 5461
 
-En: 'Sommigen van ons hebben zich [aan God] overgegeven, maar anderen zijn verdoold. Zij die zich [aan God] overgeven, zij zijn het die naar goede levenswandel streven,
+En: 'Sommigen van ons hebben zich \[aan God\] overgegeven, maar anderen zijn verdoold. Zij die zich \[aan God\] overgeven, zij zijn het die naar goede levenswandel streven,
 
 # 5462
 
@@ -22126,7 +22126,7 @@ Bij de morgen wanneer hij gloort!
 
 # 5530
 
-Het is een van de grootste [rampen]!
+Het is een van de grootste \[rampen\]!
 
 # 5531
 
@@ -22174,7 +22174,7 @@ en wij hebben de oordeelsdag geloochend
 
 # 5542
 
-totdat de zekerheid [van de dood] tot ons kwam."
+totdat de zekerheid \[van de dood\] tot ons kwam."
 
 # 5543
 
@@ -22314,7 +22314,7 @@ die wel vermoeden dat hun iets ontzettends wordt aangedaan.
 
 # 5577
 
-Ja zeker, wanneer [door de levensadem] het sleutelbeen bereikt wordt
+Ja zeker, wanneer \[door de levensadem\] het sleutelbeen bereikt wordt
 
 # 5578
 
@@ -22322,7 +22322,7 @@ en er gezegd wordt: "Wie kan bezweren?"
 
 # 5579
 
-en [de betrokkene] vermoedt dat het het afscheid is
+en \[de betrokkene\] vermoedt dat het het afscheid is
 
 # 5580
 
@@ -22442,7 +22442,7 @@ En daar krijgen zij uit een beker te drinken waarin gember is bijgemengd,
 
 # 5609
 
-uit een bron daar, die Salsabiel heet. *
+uit een bron daar, die Salsabiel heet. \*
 
 # 5610
 
@@ -22666,7 +22666,7 @@ en bij vruchten die zij maar verlangen.
 
 # 5665
 
-"Eet en drinkt met genoegen [als beloning] voor wat jullie gedaan hebben."
+"Eet en drinkt met genoegen \[als beloning\] voor wat jullie gedaan hebben."
 
 # 5666
 
@@ -22742,7 +22742,7 @@ Wij hebben de dag gemaakt voor de levensbehoeften.
 
 # 5684
 
-Wij hebben boven jullie zeven hechte [hemelen] gebouwd.
+Wij hebben boven jullie zeven hechte \[hemelen\] gebouwd.
 
 # 5685
 
@@ -22930,7 +22930,7 @@ en zeg: 'Zou jij je niet willen louteren?
 
 # 5731
 
-Dan zal ik jou naar mijn Heer leiden zodat jij [Hem] zult vrezen.?"
+Dan zal ik jou naar mijn Heer leiden zodat jij \[Hem\] zult vrezen.?"
 
 # 5732
 
@@ -23090,7 +23090,7 @@ Dus, wie wil denkt eraan,
 
 # 5771
 
-[geschreven als zij zijn] op vereerde bladen,
+\[geschreven als zij zijn\] op vereerde bladen,
 
 # 5772
 
@@ -23302,7 +23302,7 @@ Hij heeft hem immers aan de duidelijke horizon gezien.
 
 # 5824
 
-Hij is niet gierig met [mededelingen over] het verborgene
+Hij is niet gierig met \[mededelingen over\] het verborgene
 
 # 5825
 
@@ -23482,7 +23482,7 @@ Een vol beschreven boek,
 
 # 5869
 
-waarvan zij die in de nabijheid [van God] zijn gebracht getuige zijn.
+waarvan zij die in de nabijheid \[van God\] zijn gebracht getuige zijn.
 
 # 5870
 
@@ -23510,7 +23510,7 @@ en die is bijgemengd uit Tasniem,
 
 # 5876
 
-een bron waaruit zij die in de nabijheid [van God] zijn gebracht drinken.
+een bron waaruit zij die in de nabijheid \[van God\] zijn gebracht drinken.
 
 # 5877
 
@@ -23630,7 +23630,7 @@ en wanneer de Koran aan hen wordt voorgelezen dat zij zich niet eerbiedig neerbu
 
 # 5906
 
-Welnee, zij die ongelovig zijn loochenen [het].
+Welnee, zij die ongelovig zijn loochenen \[het\].
 
 # 5907
 
@@ -23694,7 +23694,7 @@ Het geweld van jouw Heer is hevig.
 
 # 5922
 
-Hij is het die [de schepping] laat beginnen en die [haar] herhaalt.
+Hij is het die \[de schepping\] laat beginnen en die \[haar\] herhaalt.
 
 # 5923
 
@@ -24622,7 +24622,7 @@ Hij is er zelf getuige van.
 
 # 6154
 
-Het bezit heeft hij hevig lief. *
+Het bezit heeft hij hevig lief. \*
 
 # 6155
 

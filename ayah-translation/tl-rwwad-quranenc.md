@@ -26,7 +26,7 @@ Ang May-ari ng Araw ng Paggantimpala.
 
 # 5
 
-Sa Iyo [lamang] kami sumasamba at sa Iyo [lamang] kami nagpapatulong.
+Sa Iyo \[lamang\] kami sumasamba at sa Iyo \[lamang\] kami nagpapatulong.
 
 # 6
 
@@ -108,7 +108,7 @@ Ang paghahalintulad sa kanila ay gaya ng paghahalintulad sa nagpaningas ng apoy,
 
 # 25
 
-Mga bingi na mga pipi na mga bulag, kaya sila ay hindi na bumabalik [mula sa pagkaligaw].
+Mga bingi na mga pipi na mga bulag, kaya sila ay hindi na bumabalik \[mula sa pagkaligaw\].
 
 # 26
 
@@ -156,7 +156,7 @@ Siya ay ang lumikha para sa inyo ng nasa lupa sa kalahatan. Pagkatapos lumuklok 
 
 # 37
 
-[Banggitin] noong nagsabi ang Panginoon mo sa mga anghel: "Tunay na Ako ay maglalagay sa lupa ng isang kahalili." Nagsabi sila: "Maglalagay Ka ba roon ng manggugulo roon at magpapadanak ng mga dugo samantalang kami ay nagluluwalhati sa kapurihan Mo at nagpapabanal sa Iyo?" Nagsabi Siya: "Tunay na ako ay nakaaalam ng hindi ninyo nalalaman."
+\[Banggitin\] noong nagsabi ang Panginoon mo sa mga anghel: "Tunay na Ako ay maglalagay sa lupa ng isang kahalili." Nagsabi sila: "Maglalagay Ka ba roon ng manggugulo roon at magpapadanak ng mga dugo samantalang kami ay nagluluwalhati sa kapurihan Mo at nagpapabanal sa Iyo?" Nagsabi Siya: "Tunay na ako ay nakaaalam ng hindi ninyo nalalaman."
 
 # 38
 
@@ -172,7 +172,7 @@ Nagsabi Siya: "O Adan, magbalita ka sa kanila ng mga pangalan ng mga ito." Kaya 
 
 # 41
 
-[Banggitin] noong nagsabi Kami sa mga anghel: "Magpatirapa kayo kay Adan;" kaya nagpatirapa sila maliban si Satanas. Tumanggi siya, nagmalaki siya, at siya ay naging kabilang sa mga tagatangging sumampalataya.
+\[Banggitin\] noong nagsabi Kami sa mga anghel: "Magpatirapa kayo kay Adan;" kaya nagpatirapa sila maliban si Satanas. Tumanggi siya, nagmalaki siya, at siya ay naging kabilang sa mga tagatangging sumampalataya.
 
 # 42
 
@@ -232,15 +232,15 @@ Mangilag kayo sa isang Araw na hindi makasasapat ang isang kaluluwa para sa isan
 
 # 56
 
-[Banggitin] noong nagligtas Kami sa inyo mula sa angkan ni Paraon. Nagpapataw sila sa inyo ng kasagwaan ng pagdurusa: pinagkakatay nila ang mga lalaking anak ninyo at pinamumuhay nila ang mga babae ninyo. Sa gayon ay may isang pagsubok, mula sa Panginoon ninyo, na sukdulan.
+\[Banggitin\] noong nagligtas Kami sa inyo mula sa angkan ni Paraon. Nagpapataw sila sa inyo ng kasagwaan ng pagdurusa: pinagkakatay nila ang mga lalaking anak ninyo at pinamumuhay nila ang mga babae ninyo. Sa gayon ay may isang pagsubok, mula sa Panginoon ninyo, na sukdulan.
 
 # 57
 
-[Banggitin] noong naghati Kami para sa inyo ng dagat kaya pinaligtas Namin kayo at nilunod Namin ang angkan ni Paraon habang kayo ay nakatingin.
+\[Banggitin\] noong naghati Kami para sa inyo ng dagat kaya pinaligtas Namin kayo at nilunod Namin ang angkan ni Paraon habang kayo ay nakatingin.
 
 # 58
 
-[Banggitin] noong nakipagtipan Kami kay Moises nang apatnapung gabi. Pagkatapos gumawa kayo sa guya [bilang diyus-diyusan] nang matapos [ng pag-alis] niya habang kayo ay mga tagalabag sa katarungan.
+\[Banggitin\] noong nakipagtipan Kami kay Moises nang apatnapung gabi. Pagkatapos gumawa kayo sa guya \[bilang diyus-diyusan\] nang matapos \[ng pag-alis\] niya habang kayo ay mga tagalabag sa katarungan.
 
 # 59
 
@@ -248,15 +248,15 @@ Pagkatapos nagpaumanhin Kami sa inyo nang matapos niyon, nang sa gayon kayo ay m
 
 # 60
 
-[Banggitin] noong nagbigay Kami kay Moises ng Kasulatan at Pamantayan, nang sa gayon kayo ay mapapatnubayan.
+\[Banggitin\] noong nagbigay Kami kay Moises ng Kasulatan at Pamantayan, nang sa gayon kayo ay mapapatnubayan.
 
 # 61
 
-[Banggitin] noong nagsabi si Moises sa mga kalipi niya: "O mga kalipi ko, tunay na kayo ay lumabag sa katarungan sa mga sarili ninyo sa paggawa ninyo sa guya [bilang diyus-diyusan] kaya magbalik-loob kayo sa Tagapaglalang ninyo at patayin ninyo ang mga [may-salang] kapwa ninyo. Iyon ay higit na mabuti para sa inyo sa ganang Tagapaglalang ninyo;" saka tumanggap Siya ng pagbabalik-loob ninyo. Tunay na Siya ay ang Palatanggap ng pagbabalik-loob, ang Maawain.
+\[Banggitin\] noong nagsabi si Moises sa mga kalipi niya: "O mga kalipi ko, tunay na kayo ay lumabag sa katarungan sa mga sarili ninyo sa paggawa ninyo sa guya \[bilang diyus-diyusan\] kaya magbalik-loob kayo sa Tagapaglalang ninyo at patayin ninyo ang mga \[may-salang\] kapwa ninyo. Iyon ay higit na mabuti para sa inyo sa ganang Tagapaglalang ninyo;" saka tumanggap Siya ng pagbabalik-loob ninyo. Tunay na Siya ay ang Palatanggap ng pagbabalik-loob, ang Maawain.
 
 # 62
 
-[Banggitin] noong magsabi kayo: "O Moises, hindi kami sasamplataya sa iyo hanggang sa makakita kami kay Allāh nang hayagan." Kaya dumaklot sa inyo ang lintik habang kayo ay nakatingin.
+\[Banggitin\] noong magsabi kayo: "O Moises, hindi kami sasamplataya sa iyo hanggang sa makakita kami kay Allāh nang hayagan." Kaya dumaklot sa inyo ang lintik habang kayo ay nakatingin.
 
 # 63
 
@@ -264,11 +264,11 @@ Pagkatapos bumuhay Kami sa inyo nang matapos ng kamatayan ninyo, nang sa gayon k
 
 # 64
 
-Naglilim Kami sa inyo ng mga ulap at nagpababa Kami sa inyo ng manna at mga pugo, [na nagsasabi]: "Kumain kayo mula sa mga kaaya-ayang itinustos Namin sa inyo." Hindi sila lumabag sa katarungan sa Amin, subalit sila noon sa mga sarili nila ay lumalalabag sa katarungan.
+Naglilim Kami sa inyo ng mga ulap at nagpababa Kami sa inyo ng manna at mga pugo, \[na nagsasabi\]: "Kumain kayo mula sa mga kaaya-ayang itinustos Namin sa inyo." Hindi sila lumabag sa katarungan sa Amin, subalit sila noon sa mga sarili nila ay lumalalabag sa katarungan.
 
 # 65
 
-[Banggitin] noong nagsabi Kami: "Magsipasok kayo sa pamayanang ito at kumain kayo mula rito saanman ninyo loobin nang masagana. Magsipasok kayo sa pinto na mga nakayukod. Magsabi kayo: "Pag-aalis-sala," magpapatawad Kami sa inyo sa mga kasalanan ninyo at magdaragdag Kami sa mga tagapagpaganda ng gawa.
+\[Banggitin\] noong nagsabi Kami: "Magsipasok kayo sa pamayanang ito at kumain kayo mula rito saanman ninyo loobin nang masagana. Magsipasok kayo sa pinto na mga nakayukod. Magsabi kayo: "Pag-aalis-sala," magpapatawad Kami sa inyo sa mga kasalanan ninyo at magdaragdag Kami sa mga tagapagpaganda ng gawa.
 
 # 66
 
@@ -276,11 +276,11 @@ Ngunit nagpalit ang mga lumabag sa katarungan ng isang sabing iba sa sinabi sa k
 
 # 67
 
-[Banggitin] noong humiling ng tubig si Moises para sa mga kalipi niya kaya nagsabi Kami: "Humampas ka ng tungkod mo sa bato." Kaya bumulwak mula roon ang labindalawang bukal. Nakaalam nga ang bawat [pangkat ng] mga tao sa inuman nila. Kumain kayo at uminom kayo mula sa panustos ni Allāh at huwag kayong manampalasan sa lupa bilang mga tagagulo.
+\[Banggitin\] noong humiling ng tubig si Moises para sa mga kalipi niya kaya nagsabi Kami: "Humampas ka ng tungkod mo sa bato." Kaya bumulwak mula roon ang labindalawang bukal. Nakaalam nga ang bawat \[pangkat ng\] mga tao sa inuman nila. Kumain kayo at uminom kayo mula sa panustos ni Allāh at huwag kayong manampalasan sa lupa bilang mga tagagulo.
 
 # 68
 
-[Banggitin] noong nagsabi kayo: "O Moises, hindi kami makatitiis sa nag-iisang [pares ng] pagkain; kaya manalangin ka para sa amin sa Panginoon mo, magpapalabas Siya para sa amin ng pinatutubo ng lupa gaya ng mga halaman nito, mga pipino nito, mga bawang nito, mga lentiha nito, at mga sibuyas nito." Nagsabi siya: "Magpapalit ba kayo ng higit na hamak sa higit na mabuti? Bumaba kayo sa isang kabayanan sapagkat tunay na ukol sa inyo ang hiningi ninyo." Itinatak sa kanila ang kaabahan at ang karukhaan at bumalik sila kalakip ng isang galit mula kay Allāh. Iyon ay dahil sila noon ay tumatangging sumampalataya sa mga tanda ni Allāh at pumapatay sa mga propeta ayon nang walang karapatan. Iyon ay dahil sumuway sila, at sila noon ay lumalabag.
+\[Banggitin\] noong nagsabi kayo: "O Moises, hindi kami makatitiis sa nag-iisang \[pares ng\] pagkain; kaya manalangin ka para sa amin sa Panginoon mo, magpapalabas Siya para sa amin ng pinatutubo ng lupa gaya ng mga halaman nito, mga pipino nito, mga bawang nito, mga lentiha nito, at mga sibuyas nito." Nagsabi siya: "Magpapalit ba kayo ng higit na hamak sa higit na mabuti? Bumaba kayo sa isang kabayanan sapagkat tunay na ukol sa inyo ang hiningi ninyo." Itinatak sa kanila ang kaabahan at ang karukhaan at bumalik sila kalakip ng isang galit mula kay Allāh. Iyon ay dahil sila noon ay tumatangging sumampalataya sa mga tanda ni Allāh at pumapatay sa mga propeta ayon nang walang karapatan. Iyon ay dahil sumuway sila, at sila noon ay lumalabag.
 
 # 69
 
@@ -288,7 +288,7 @@ Tunay na ang mga sumampalataya, ang mga nagpaka-Hudyo, ang mga Kristiyano, at an
 
 # 70
 
-[Banggitin] noong tumanggap Kami ng kasunduan sa inyo at nag-angat Kami sa ibabaw ninyo ng bundok, [na nag-uutos]: "Tanggapin ninyo ang ibinigay Namin sa inyo nang may lakas at alalahanin ninyo ang anumang narito, nang sa gayon kayo ay mangingilag magkasala."
+\[Banggitin\] noong tumanggap Kami ng kasunduan sa inyo at nag-angat Kami sa ibabaw ninyo ng bundok, \[na nag-uutos\]: "Tanggapin ninyo ang ibinigay Namin sa inyo nang may lakas at alalahanin ninyo ang anumang narito, nang sa gayon kayo ay mangingilag magkasala."
 
 # 71
 
@@ -304,7 +304,7 @@ Kaya gumawa Kami rito bilang parusang panghalimbawa para sa kapiling nito at kas
 
 # 74
 
-[Banggitin] noong nagsabi si Moises sa mga kalipi niya: "Tunay na si Allāh ay nag-utos sa inyo na magkatay kayo ng isang baka." Nagsabi sila: "Gumagawa ka ba sa amin ng isang pagkutya?" Nagsabi siya: "Nagpapakupkop ako kay Allāh na ako ay maging kabilang sa mga mangmang."
+\[Banggitin\] noong nagsabi si Moises sa mga kalipi niya: "Tunay na si Allāh ay nag-utos sa inyo na magkatay kayo ng isang baka." Nagsabi sila: "Gumagawa ka ba sa amin ng isang pagkutya?" Nagsabi siya: "Nagpapakupkop ako kay Allāh na ako ay maging kabilang sa mga mangmang."
 
 # 75
 
@@ -324,11 +324,11 @@ Nagsabi siya: "Tunay na Siya ay nagsasabing tunay na ito ay isang baka, na hindi
 
 # 79
 
-[Banggitin] noong pumatay kayo ng isang tao at nagtalu-talo kayo hinggil sa kanya. Si Allāh ay tagapagpalabas ng dati ninyong itinatago.
+\[Banggitin\] noong pumatay kayo ng isang tao at nagtalu-talo kayo hinggil sa kanya. Si Allāh ay tagapagpalabas ng dati ninyong itinatago.
 
 # 80
 
-Kaya nagsabi Kami: "Humampas kayo sa kanya ng bahagi ng [bakang] iyon." Gayon nagbibigay-buhay si Allāh sa mga patay. Nagpapakita Siya sa inyo ng mga tanda Niya, nang sa gayon kayo makapag-uunawa.
+Kaya nagsabi Kami: "Humampas kayo sa kanya ng bahagi ng \[bakang\] iyon." Gayon nagbibigay-buhay si Allāh sa mga patay. Nagpapakita Siya sa inyo ng mga tanda Niya, nang sa gayon kayo makapag-uunawa.
 
 # 81
 
@@ -368,11 +368,11 @@ Ang mga sumampalataya at gumawa ng mga maayos, ang mga iyon ay ang mga maninirah
 
 # 90
 
-[Banggitin] noong tumanggap Kami ng kasunduan sa mga anak ni Israel, [na nag-uutos]: "Hindi kayo sasamba maliban kay Allāh; sa mga magulang ay gumawa ng maganda, at sa may pagkakamag-anak, mga ulila, at mga dukha; magsabi kayo sa mga tao ng maganda; magpapanatili kayo ng pagdarasal; at magbigay kayo ng zakāh." Pagkatapos tumalikod kayo maliban sa kakaunti sa inyo habang kayo ay mga umaayaw.
+\[Banggitin\] noong tumanggap Kami ng kasunduan sa mga anak ni Israel, \[na nag-uutos\]: "Hindi kayo sasamba maliban kay Allāh; sa mga magulang ay gumawa ng maganda, at sa may pagkakamag-anak, mga ulila, at mga dukha; magsabi kayo sa mga tao ng maganda; magpapanatili kayo ng pagdarasal; at magbigay kayo ng zakāh." Pagkatapos tumalikod kayo maliban sa kakaunti sa inyo habang kayo ay mga umaayaw.
 
 # 91
 
-[Banggitin] noong tumanggap Kami ng kasunduan sa inyo, [na nag-uutos]: "Hindi kayo magpapadanak ng mga dugo ninyo at hindi kayo magpapalisan ng mga kapwa ninyo mula sa mga tahanan ninyo." Pagkatapos kumilala kayo habang kayo ay sumasaksi.
+\[Banggitin\] noong tumanggap Kami ng kasunduan sa inyo, \[na nag-uutos\]: "Hindi kayo magpapadanak ng mga dugo ninyo at hindi kayo magpapalisan ng mga kapwa ninyo mula sa mga tahanan ninyo." Pagkatapos kumilala kayo habang kayo ay sumasaksi.
 
 # 92
 
@@ -404,11 +404,11 @@ Kapag sinabi sa kanila: "Sumampalataya kayo sa pinababa ni Allāh," ay nagsasabi
 
 # 99
 
-Talaga ngang naghatid sa inyo si Moises ng mga malinaw na patunay. Pagkatapos gumawa kayo sa guya [bilang diyus-diyusan] nang matapos [ng pag-alis] niya habang kayo ay mga tagalabag sa katarungan.
+Talaga ngang naghatid sa inyo si Moises ng mga malinaw na patunay. Pagkatapos gumawa kayo sa guya \[bilang diyus-diyusan\] nang matapos \[ng pag-alis\] niya habang kayo ay mga tagalabag sa katarungan.
 
 # 100
 
-[Banggitin] noong tumanggap Kami ng kasunduan sa inyo at nag-angat Kami sa ibabaw ninyo ng bundok, [na nagsasabi]: "Tanggapin ninyo ang ibinigay Namin sa inyo nang may lakas at makinig kayo." Nagsabi sila: "Nakarinig kami at sumuway kami." Pinahumaling sila sa mga puso nila ng [pagsamba sa] guya dahil sa kawalang-pananampalataya nila. Sabihin mo: "Kay saklap ng ipinag-uutos sa inyo ng pananampalataya ninyo, kung kayo ay mga mananampalataya."
+\[Banggitin\] noong tumanggap Kami ng kasunduan sa inyo at nag-angat Kami sa ibabaw ninyo ng bundok, \[na nagsasabi\]: "Tanggapin ninyo ang ibinigay Namin sa inyo nang may lakas at makinig kayo." Nagsabi sila: "Nakarinig kami at sumuway kami." Pinahumaling sila sa mga puso nila ng \[pagsamba sa\] guya dahil sa kawalang-pananampalataya nila. Sabihin mo: "Kay saklap ng ipinag-uutos sa inyo ng pananampalataya ninyo, kung kayo ay mga mananampalataya."
 
 # 101
 
@@ -420,7 +420,7 @@ Hindi sila magmimithi niyon magpakailanman dahil sa ipinauna ng mga kamay nila. 
 
 # 103
 
-Talagang makatatagpo ka nga sa kanila na pinakamasigasig sa mga tao sa buhay kaysa sa mga nagtambal [kay Allāh]. Nag-aasam ang isa sa kanila na kung sana palawigin siya ng isang libong taon samantalang ito ay hindi maghahango sa kanya mula sa pagdurusa na palawigin siya. Si Allāh ay Nakakikita sa anumang ginagawa nila.
+Talagang makatatagpo ka nga sa kanila na pinakamasigasig sa mga tao sa buhay kaysa sa mga nagtambal \[kay Allāh\]. Nag-aasam ang isa sa kanila na kung sana palawigin siya ng isang libong taon samantalang ito ay hindi maghahango sa kanya mula sa pagdurusa na palawigin siya. Si Allāh ay Nakakikita sa anumang ginagawa nila.
 
 # 104
 
@@ -520,7 +520,7 @@ Hindi malulugod sa iyo ang mga Hudyo ni ang mga Kristiyano hanggang sa sumunod k
 
 # 128
 
-Ang [ilan sa] mga binigyan Namin ng Kasulatan ay bumibigkas nito nang totoong pagbigkas. Ang mga iyon ay sumasampalataya rito. Ang sinumang tumangging sumampalataya rito, ang mga iyon ay ang mga lugi.
+Ang \[ilan sa\] mga binigyan Namin ng Kasulatan ay bumibigkas nito nang totoong pagbigkas. Ang mga iyon ay sumasampalataya rito. Ang sinumang tumangging sumampalataya rito, ang mga iyon ay ang mga lugi.
 
 # 129
 
@@ -532,23 +532,23 @@ Mangilag kayo sa isang Araw na hindi makasasapat ang isang kaluluwa para sa isan
 
 # 131
 
-[Banggitin] noong sumubok kay Abraham ang Panginoon niya sa pamamagitan ng mga salita at tumupad siya sa mga ito. Nagsabi Siya: "Tunay na Ako ay gagawa sa iyo para sa mga tao bilang pinuno." Nagsabi ito: "May kabilang sa mga supling ko?" Nagsabi Siya: "Hindi sumasakop ang kasunduan sa Akin sa mga tagalabag sa katarungan."
+\[Banggitin\] noong sumubok kay Abraham ang Panginoon niya sa pamamagitan ng mga salita at tumupad siya sa mga ito. Nagsabi Siya: "Tunay na Ako ay gagawa sa iyo para sa mga tao bilang pinuno." Nagsabi ito: "May kabilang sa mga supling ko?" Nagsabi Siya: "Hindi sumasakop ang kasunduan sa Akin sa mga tagalabag sa katarungan."
 
 # 132
 
-[Banggitin] noong gumawa Kami sa Bahay bilang balikan para sa mga tao at bilang katiwasayan. Gumawa kayo mula sa tayuan ni Abraham ng isang dasalan. Naghabilin Kami kina Abraham at Ismael na dalisayin nilang dalawa ang Bahay Ko para sa mga lumilibot, mga namimintuho, at mga yumuyukod na nagpapatirapa.
+\[Banggitin\] noong gumawa Kami sa Bahay bilang balikan para sa mga tao at bilang katiwasayan. Gumawa kayo mula sa tayuan ni Abraham ng isang dasalan. Naghabilin Kami kina Abraham at Ismael na dalisayin nilang dalawa ang Bahay Ko para sa mga lumilibot, mga namimintuho, at mga yumuyukod na nagpapatirapa.
 
 # 133
 
-[Banggitin] noong nagsabi si Abraham: "Panginoon ko, gawin Mo ito na isang bayang matiwasay at tustusan Mo ang mga naninirahan dito mula sa mga bunga – ang sinumang sumampalataya kabilang sa kanila kay Allāh at sa Huling Araw." Nagsabi Siya: "Ang sinumang tumangging sumampalataya ay pagtatamasain Ko siya nang kaunti, pagkatapos ipagpipilitan Ko siya sa pagdurusa sa Apoy. Kay saklap ang kahahantungan!"
+\[Banggitin\] noong nagsabi si Abraham: "Panginoon ko, gawin Mo ito na isang bayang matiwasay at tustusan Mo ang mga naninirahan dito mula sa mga bunga – ang sinumang sumampalataya kabilang sa kanila kay Allāh at sa Huling Araw." Nagsabi Siya: "Ang sinumang tumangging sumampalataya ay pagtatamasain Ko siya nang kaunti, pagkatapos ipagpipilitan Ko siya sa pagdurusa sa Apoy. Kay saklap ang kahahantungan!"
 
 # 134
 
-[Banggitin] noong nag-angat si Abraham ng mga pundasyon ng Bahay, at si Ismael, [ay dumalangin siya]: "Panginoon Namin, tanggapin Mo mula sa amin; tunay na Ikaw ay ang Madinigin, ang Maalam.
+\[Banggitin\] noong nag-angat si Abraham ng mga pundasyon ng Bahay, at si Ismael, \[ay dumalangin siya\]: "Panginoon Namin, tanggapin Mo mula sa amin; tunay na Ikaw ay ang Madinigin, ang Maalam.
 
 # 135
 
-O Panginoon namin, at gawin Mo kami bilang mga tagapagpasakop sa Iyo at mula sa mga supling namin bilang kalipunang tagapagpasakop sa Iyo, ipakita Mo sa amin ang mga pamamaraan [ng pagsamba] namin, at tanggapin Mo ang pagbabalik-loob namin. Tunay na Ikaw ay ang Palatanggap ng pagbabalik-loob, ang Maawain.
+O Panginoon namin, at gawin Mo kami bilang mga tagapagpasakop sa Iyo at mula sa mga supling namin bilang kalipunang tagapagpasakop sa Iyo, ipakita Mo sa amin ang mga pamamaraan \[ng pagsamba\] namin, at tanggapin Mo ang pagbabalik-loob namin. Tunay na Ikaw ay ang Palatanggap ng pagbabalik-loob, ang Maawain.
 
 # 136
 
@@ -560,11 +560,11 @@ Sino ang nasusuya sa kapaniwalaan ni Abraham kundi ang nagpahangal sa sarili niy
 
 # 138
 
-[Banggitin] noong nagsabi sa kanya ang Panginoon niya: "Magpasakop ka" ay nagsabi siya: "Nagpasakop ako sa Panginoon ng mga nilalang."
+\[Banggitin\] noong nagsabi sa kanya ang Panginoon niya: "Magpasakop ka" ay nagsabi siya: "Nagpasakop ako sa Panginoon ng mga nilalang."
 
 # 139
 
-Nagtagubilin niyon si Abraham sa mga anak niya, at si Jacob: "O mga anak ko, tunay na si Allāh ay humirang para sa inyo ng relihiyon kaya huwag nga kayong mamamatay malibang habang kayo ay mga tagapagpasakop [sa Kanya]."
+Nagtagubilin niyon si Abraham sa mga anak niya, at si Jacob: "O mga anak ko, tunay na si Allāh ay humirang para sa inyo ng relihiyon kaya huwag nga kayong mamamatay malibang habang kayo ay mga tagapagpasakop \[sa Kanya\]."
 
 # 140
 
@@ -576,7 +576,7 @@ Iyon ay isang kalipunang lumipas na. Ukol doon ang nakamit niyon at ukol sa inyo
 
 # 142
 
-Nagsabi sila: "Maging mga Hudyo o mga Kristiyano kayo, mapapatnubayan kayo." Sabihin mo: "Bagkus [sumunod] sa kapaniwalaan ni Abraham bilang makatotoo. Hindi siya naging kabilang sa mga tagapagtambal [kay Allāh]."
+Nagsabi sila: "Maging mga Hudyo o mga Kristiyano kayo, mapapatnubayan kayo." Sabihin mo: "Bagkus \[sumunod\] sa kapaniwalaan ni Abraham bilang makatotoo. Hindi siya naging kabilang sa mga tagapagtambal \[kay Allāh\]."
 
 # 143
 
@@ -588,7 +588,7 @@ Kaya kung sumampalataya sila sa tulad ng sinampalatayanan ninyo ay napatnubayan 
 
 # 145
 
-[Manatili sa] relihiyon ni Allāh. Sino pa ang higit na magaling kaysa kay Allāh sa [pagtatag ng] relihiyon? Tayo sa Kanya ay mga tagasamba.
+\[Manatili sa\] relihiyon ni Allāh. Sino pa ang higit na magaling kaysa kay Allāh sa \[pagtatag ng\] relihiyon? Tayo sa Kanya ay mga tagasamba.
 
 # 146
 
@@ -596,7 +596,7 @@ Sabihin mo: "Nangangatwiran ba kayo sa amin hinggil kay Allāh samantalang Siya 
 
 # 147
 
-O nagsasabi kayo: "Tunay na sina Abraham, Ismael, Isaac, Jacob, at ang mga lipi [ng Israel] ay noon mga Hudyo o mga Kristiyano?" Sabihin mo: "Kayo ba ay higit na maalam o si Allāh? Sino pa ang higit na tagalabag sa katarungan kaysa sa sinumang nagtatago ng isang pagsaksi na nasa ganang kanya mula kay Allāh? Si Allāh ay hindi nalilingat sa anumang ginagawa ninyo."
+O nagsasabi kayo: "Tunay na sina Abraham, Ismael, Isaac, Jacob, at ang mga lipi \[ng Israel\] ay noon mga Hudyo o mga Kristiyano?" Sabihin mo: "Kayo ba ay higit na maalam o si Allāh? Sino pa ang higit na tagalabag sa katarungan kaysa sa sinumang nagtatago ng isang pagsaksi na nasa ganang kanya mula kay Allāh? Si Allāh ay hindi nalilingat sa anumang ginagawa ninyo."
 
 # 148
 
@@ -628,7 +628,7 @@ Ang katotohanan ay mula sa Panginoon mo kaya huwag ka ngang maging kabilang sa m
 
 # 155
 
-Bawat [kalipunan] ay may dakong ito ay humaharap doon. Kaya mag-unahan kayo sa mga kabutihan. Saan man kayo naroon ay maghahatid sa inyo si Allāh sa kalahatan. Tunay na si Allāh sa bawat bagay ay May-kakayahan.
+Bawat \[kalipunan\] ay may dakong ito ay humaharap doon. Kaya mag-unahan kayo sa mga kabutihan. Saan man kayo naroon ay maghahatid sa inyo si Allāh sa kalahatan. Tunay na si Allāh sa bawat bagay ay May-kakayahan.
 
 # 156
 
@@ -652,7 +652,7 @@ O mga sumampalataya, magpatulong kayo sa pamamagitan ng pagtitiis at pagdarasal.
 
 # 161
 
-Huwag kayong magsabi hinggil sa mga namamatay sa landas ni Allāh na mga patay [sila], bagkus mga buhay [sila], subalit hindi ninyo nararamdaman.
+Huwag kayong magsabi hinggil sa mga namamatay sa landas ni Allāh na mga patay \[sila\], bagkus mga buhay \[sila\], subalit hindi ninyo nararamdaman.
 
 # 162
 
@@ -668,7 +668,7 @@ Ang mga iyon ay may ukol sa kanila na mga pagbubunyi mula sa Panginoon nila at a
 
 # 165
 
-Tunay na ang Ṣafā at ang Marwah ay kabilang sa mga sagisag ni Allāh. Kaya ang sinumang nagsagawa ng ḥajj sa Bahay o nagsagawa ng `umrah ay walang maisisisi sa kanya na magpabalik-balik sa pagitan ng dalawang iyon. Ang sinumang nagkusang-loob ng isang kabutihan, tunay na si Allāh ay Tagapagpasalamat, Maalam.
+Tunay na ang Ṣafā at ang Marwah ay kabilang sa mga sagisag ni Allāh. Kaya ang sinumang nagsagawa ng ḥajj sa Bahay o nagsagawa ng \`umrah ay walang maisisisi sa kanya na magpabalik-balik sa pagitan ng dalawang iyon. Ang sinumang nagkusang-loob ng isang kabutihan, tunay na si Allāh ay Tagapagpasalamat, Maalam.
 
 # 166
 
@@ -700,7 +700,7 @@ May mga tao na gumagawa sa bukod pa kay Allāh bilang mga kaagaw na umiibig sila
 
 # 173
 
-[Banggitin] kapag nagpawalang-kaugnayan ang mga sinunod sa mga sumunod, nakakita sila sa pagdurusa, nagkaputul-putol na sa kanila ang mga ugnayan,
+\[Banggitin\] kapag nagpawalang-kaugnayan ang mga sinunod sa mga sumunod, nakakita sila sa pagdurusa, nagkaputul-putol na sa kanila ang mga ugnayan,
 
 # 174
 
@@ -744,7 +744,7 @@ Iyon ay dahil si Allāh ay nagbaba ng kasulatan kalakip ng katotohanan. Tunay na
 
 # 184
 
-Ang pagpapakabuti ay hindi na magbaling kaya ng mga mukha ninyo sa harap ng silangan at kanluran, subalit ang pagpapakabuti ay ang sinumang sumampalataya kay Allāh, sa Huling Araw, sa mga anghel, sa mga kasulatan, at sa mga propeta; nagbigay ng yaman, sa kabila ng pagkaibig dito, sa mga may pagkakamag-anak, sa mga ulila, sa mga dukha, sa kinapos sa daan, sa mga nanghihingi, at alang-alang sa pagpapalaya ng mga alipin; [ang] nagpanatili ng dasal; [ang] nagbigay ng zakāh; at ang mga tumutupad sa kasunduan sa kanila kapag nakipagkasunduan sila; at [lalo na] ang mga matiisin sa kadahupan at kariwaraan, at sa sandali ng labanan. Ang mga iyon ay ang mga nagpakatotoo at ang mga iyon ay ang mga tagapangilag magkasala.
+Ang pagpapakabuti ay hindi na magbaling kaya ng mga mukha ninyo sa harap ng silangan at kanluran, subalit ang pagpapakabuti ay ang sinumang sumampalataya kay Allāh, sa Huling Araw, sa mga anghel, sa mga kasulatan, at sa mga propeta; nagbigay ng yaman, sa kabila ng pagkaibig dito, sa mga may pagkakamag-anak, sa mga ulila, sa mga dukha, sa kinapos sa daan, sa mga nanghihingi, at alang-alang sa pagpapalaya ng mga alipin; \[ang\] nagpanatili ng dasal; \[ang\] nagbigay ng zakāh; at ang mga tumutupad sa kasunduan sa kanila kapag nakipagkasunduan sila; at \[lalo na\] ang mga matiisin sa kadahupan at kariwaraan, at sa sandali ng labanan. Ang mga iyon ay ang mga nagpakatotoo at ang mga iyon ay ang mga tagapangilag magkasala.
 
 # 185
 
@@ -772,11 +772,11 @@ O mga sumampalataya, isinatungkulin sa inyo ang pag-aayuno kung paanong isinatun
 
 # 191
 
-[Mag-ayuno ng] mga araw na bilang; ngunit ang sinumang kabilang sa inyo ay may-sakit o nasa isang paglalakbay ay [mag-aayuno ng mismong] bilang mula sa ibang mga araw. Kailangan sa mga nakakakaya nito ay isang pantubos na pagpapakain sa mga dukha; ngunit ang sinumang nagkusang-loob ng isang kabutihan, ito ay higit na mabuti para sa kanya. Ang mag-ayuno kayo ay higit na mabuti para sa inyo kung kayo ay nakaaalam.
+\[Mag-ayuno ng\] mga araw na bilang; ngunit ang sinumang kabilang sa inyo ay may-sakit o nasa isang paglalakbay ay \[mag-aayuno ng mismong\] bilang mula sa ibang mga araw. Kailangan sa mga nakakakaya nito ay isang pantubos na pagpapakain sa mga dukha; ngunit ang sinumang nagkusang-loob ng isang kabutihan, ito ay higit na mabuti para sa kanya. Ang mag-ayuno kayo ay higit na mabuti para sa inyo kung kayo ay nakaaalam.
 
 # 192
 
-Ang buwan ng Ramaḍān ay ang [buwang] pinababa rito ang Qur’ān bilang patnubay para sa mga tao at bilang mga malinaw na patunay mula sa patnubay at saligan. Kaya ang sinumang nakasaksi kabilang sa inyo sa buwan [ng Ramaḍān] ay mag-ayuno siya nito at ang sinumang maysakit o nasa isang paglalakbay ay [mag-aayuno ng mismong] bilang mula sa ibang mga araw. Nagnanais si Allāh sa inyo ng isang ginhawa at hindi Siya nagnanais sa inyo ng hirap at upang bumuo kayo ng bilang, upang dumakila kayo kay Allāh dahil nagpatnubay Siya sa inyo, at nang sa gayon kayo ay magpapasalamat.
+Ang buwan ng Ramaḍān ay ang \[buwang\] pinababa rito ang Qur’ān bilang patnubay para sa mga tao at bilang mga malinaw na patunay mula sa patnubay at saligan. Kaya ang sinumang nakasaksi kabilang sa inyo sa buwan \[ng Ramaḍān\] ay mag-ayuno siya nito at ang sinumang maysakit o nasa isang paglalakbay ay \[mag-aayuno ng mismong\] bilang mula sa ibang mga araw. Nagnanais si Allāh sa inyo ng isang ginhawa at hindi Siya nagnanais sa inyo ng hirap at upang bumuo kayo ng bilang, upang dumakila kayo kay Allāh dahil nagpatnubay Siya sa inyo, at nang sa gayon kayo ay magpapasalamat.
 
 # 193
 
@@ -812,23 +812,23 @@ Makipaglaban kayo sa kanila hanggang sa walang mangyaring panliligalig at ang re
 
 # 201
 
-Ang Buwang Pinakababanal ay katumbas ng Buwang Pinakababanal at ang mga paglabag ay [may] ganting-pinsala. Kaya ang sinumang nangaway sa inyo ay awayin ninyo siya ng tulad ng pangangaway niya sa inyo. Mangilag kayong magkasala kay Allāh at alamin ninyo na si Allāh ay kasama ng mga tagapangilag magkasala.
+Ang Buwang Pinakababanal ay katumbas ng Buwang Pinakababanal at ang mga paglabag ay \[may\] ganting-pinsala. Kaya ang sinumang nangaway sa inyo ay awayin ninyo siya ng tulad ng pangangaway niya sa inyo. Mangilag kayong magkasala kay Allāh at alamin ninyo na si Allāh ay kasama ng mga tagapangilag magkasala.
 
 # 202
 
-Gumugol kayo ayon sa landas ni Allāh at huwag kayong magbulid sa pamamagitan ng mga kamay ninyo [sa mga sarili] sa kapahamakan. Gumawa kayo ng maganda; tunay na si Allāh ay umiibig sa mga tagagawa ng maganda.
+Gumugol kayo ayon sa landas ni Allāh at huwag kayong magbulid sa pamamagitan ng mga kamay ninyo \[sa mga sarili\] sa kapahamakan. Gumawa kayo ng maganda; tunay na si Allāh ay umiibig sa mga tagagawa ng maganda.
 
 # 203
 
-Lubusin ninyo ang ḥajj at ang `umrah para kay Allāh ngunit kung nahadlangan kayo ay [mag-alay ng] anumang madaling nakamit na handog. Huwag kayong mag-ahit ng mga ulo ninyo hanggang sa umabot ang handog sa pinag-aalayan dito. Ang sinumang kabilang sa inyo ay maysakit o sa kanya ay may isang pinsala sa ulo niya ay [magbibigay ng] isang pantubos na pag-ayuno o isang kawanggawa o isang alay. Kung natiwasay kayo, ang sinumang nagsagawa ng `umrah na pinasusundan ng ḥajj ay [mag-aalay ng] anumang madaling nakamit na handog. Ngunit ang sinumang hindi nakatagpo ay [magsasagawa ng] pag-aayuno ng tatlong araw sa ḥajj at pitong [araw] kapag bumalik kayo; iyon ay ganap na sampu. Iyon ay ukol sa sinumang ang mag-anak niya ay hindi mga nakadalo sa [paligid ng] Masjid na Pinakababanal. Mangilag kayong magkasala kay Allāh at alamin ninyo na si Allāh ay matindi ang parusa.
+Lubusin ninyo ang ḥajj at ang \`umrah para kay Allāh ngunit kung nahadlangan kayo ay \[mag-alay ng\] anumang madaling nakamit na handog. Huwag kayong mag-ahit ng mga ulo ninyo hanggang sa umabot ang handog sa pinag-aalayan dito. Ang sinumang kabilang sa inyo ay maysakit o sa kanya ay may isang pinsala sa ulo niya ay \[magbibigay ng\] isang pantubos na pag-ayuno o isang kawanggawa o isang alay. Kung natiwasay kayo, ang sinumang nagsagawa ng \`umrah na pinasusundan ng ḥajj ay \[mag-aalay ng\] anumang madaling nakamit na handog. Ngunit ang sinumang hindi nakatagpo ay \[magsasagawa ng\] pag-aayuno ng tatlong araw sa ḥajj at pitong \[araw\] kapag bumalik kayo; iyon ay ganap na sampu. Iyon ay ukol sa sinumang ang mag-anak niya ay hindi mga nakadalo sa \[paligid ng\] Masjid na Pinakababanal. Mangilag kayong magkasala kay Allāh at alamin ninyo na si Allāh ay matindi ang parusa.
 
 # 204
 
-Ang ḥajj ay [nasa] mga buwang nalalaman. Kaya ang sinumang nag-obliga [sa sarili] sa mga ito ng ḥajj ay walang pagtatalik, walang mga kasuwailan, at walang pakikipagtalo sa ḥajj. Ang anumang ginagawa ninyo na kabutihan ay nakaaalam nito si Allāh. Magbaon kayo, at tunay na ang pinakamabuting baon ay ang pangingilag magkasala. Mangilag kayong magkasala sa Akin, O mga may isip.
+Ang ḥajj ay \[nasa\] mga buwang nalalaman. Kaya ang sinumang nag-obliga \[sa sarili\] sa mga ito ng ḥajj ay walang pagtatalik, walang mga kasuwailan, at walang pakikipagtalo sa ḥajj. Ang anumang ginagawa ninyo na kabutihan ay nakaaalam nito si Allāh. Magbaon kayo, at tunay na ang pinakamabuting baon ay ang pangingilag magkasala. Mangilag kayong magkasala sa Akin, O mga may isip.
 
 # 205
 
-Hindi sa inyo ay maisisisi na maghangad kayo ng isang kabutihang-loob mula sa Panginoon ninyo. Kaya kapag lumisan kayo mula sa `Arafāt ay alalahanin ninyo si Allāh sa Bantayog na Pinakababanal at alalahanin ninyo Siya kung paanong nagpatnubay Siya sa inyo. Tunay na kayo bago pa nito ay talagang kabilang sa mga ligaw.
+Hindi sa inyo ay maisisisi na maghangad kayo ng isang kabutihang-loob mula sa Panginoon ninyo. Kaya kapag lumisan kayo mula sa \`Arafāt ay alalahanin ninyo si Allāh sa Bantayog na Pinakababanal at alalahanin ninyo Siya kung paanong nagpatnubay Siya sa inyo. Tunay na kayo bago pa nito ay talagang kabilang sa mga ligaw.
 
 # 206
 
@@ -848,7 +848,7 @@ Ang mga iyon ay may ukol sa kanila na isang bahagi mula sa kinamit nila. Si All�
 
 # 210
 
-Mag-aalaala kayo kay Allāh sa mga araw na bilang, ngunit ang sinumang nagmadali [sa pag-alis] sa dalawang araw ay walang kasalanan sa kanya at ang sinumang naantala ay walang kasalanan sa kanya: sa sinumang nangilag magkasala. Mangilag kayong magkasala kay Allāh at alamin ninyo na kayo ay tungo sa Kanya kakalapin.
+Mag-aalaala kayo kay Allāh sa mga araw na bilang, ngunit ang sinumang nagmadali \[sa pag-alis\] sa dalawang araw ay walang kasalanan sa kanya at ang sinumang naantala ay walang kasalanan sa kanya: sa sinumang nangilag magkasala. Mangilag kayong magkasala kay Allāh at alamin ninyo na kayo ay tungo sa Kanya kakalapin.
 
 # 211
 
@@ -876,7 +876,7 @@ Ngunit kung natisod kayo nang matapos na dumating sa inyo ang mga malinaw na pat
 
 # 217
 
-Naghihintay kaya sila maliban pa na pumunta sa kanila si Allāh na nasa mga lilim ng mga ulap at [gayon din] ang mga anghel at napagpasyahan ang usapin? Tungo kay Allāh pababalikin ang mga usapin.
+Naghihintay kaya sila maliban pa na pumunta sa kanila si Allāh na nasa mga lilim ng mga ulap at \[gayon din\] ang mga anghel at napagpasyahan ang usapin? Tungo kay Allāh pababalikin ang mga usapin.
 
 # 218
 
@@ -904,7 +904,7 @@ Isinatungkulin sa inyo ang pakikipaglaban samantalang ito ay kasuklam-suklam par
 
 # 224
 
-Nagtatanong sila sa iyo tungkol sa Buwang Pinakababanal: sa pakikipaglaban dito. Sabihin mo: "Ang isang pakikipaglaban dito ay isang malaking [kasalanan], ang isang pagsagabal sa landas ni Allāh, ang isang kawalang-pananampalataya sa Kanya, [ang isang paghadlang] sa pagpasok sa Masjid na Pinakababanal, at ang isang pagpapalayas sa mga naninirahan [malapit] dito ay higit na malaking [kasalanan] sa ganang kay Allāh. Ang panliligalig ay higit na malaking [kasalanan] kaysa sa pagpatay. Hindi sila titigil na kumakalaban sa inyo hanggang sa magpatalikod sila sa inyo palayo sa relihiyon ninyo kung makakakaya sila. Ang sinumang tumalikod kabilang sa inyo sa relihiyon niya at namatay habang siya ay isang tagatangging sumampalataya, ang mga iyon ay nawalang-kabuluhan ang mga gawa nila sa Mundo at Kabilang-buhay. Ang mga iyon ay ang mga maninirahan sa Apoy; sila ay doon mga mananatili.
+Nagtatanong sila sa iyo tungkol sa Buwang Pinakababanal: sa pakikipaglaban dito. Sabihin mo: "Ang isang pakikipaglaban dito ay isang malaking \[kasalanan\], ang isang pagsagabal sa landas ni Allāh, ang isang kawalang-pananampalataya sa Kanya, \[ang isang paghadlang\] sa pagpasok sa Masjid na Pinakababanal, at ang isang pagpapalayas sa mga naninirahan \[malapit\] dito ay higit na malaking \[kasalanan\] sa ganang kay Allāh. Ang panliligalig ay higit na malaking \[kasalanan\] kaysa sa pagpatay. Hindi sila titigil na kumakalaban sa inyo hanggang sa magpatalikod sila sa inyo palayo sa relihiyon ninyo kung makakakaya sila. Ang sinumang tumalikod kabilang sa inyo sa relihiyon niya at namatay habang siya ay isang tagatangging sumampalataya, ang mga iyon ay nawalang-kabuluhan ang mga gawa nila sa Mundo at Kabilang-buhay. Ang mga iyon ay ang mga maninirahan sa Apoy; sila ay doon mga mananatili.
 
 # 225
 
@@ -916,11 +916,11 @@ Nagtatanong sila sa iyo tungkol sa alak at sugal. Sabihin mo: "Sa dalawang ito a
 
 # 227
 
-hinggil sa Mundo at sa Kabilang-buhay. Nagtatanong sila sa iyo tungkol sa mga ulila. Sabihin mo: "Ang isang pagsasaayos para sa kanila ay mabuti." Kung nakihalo kayo sa kanila [sa ukol sa inyo], mga kapatid ninyo [sila]. Si Allāh ay nakaaalam sa tagagulo sa tagapagsaayos. Kung sakaling niloob ni Allāh ay talaga sanang nagpahirap Siya sa inyo. Tunay na si Allāh ay Makapangyarihan, Marunong.
+hinggil sa Mundo at sa Kabilang-buhay. Nagtatanong sila sa iyo tungkol sa mga ulila. Sabihin mo: "Ang isang pagsasaayos para sa kanila ay mabuti." Kung nakihalo kayo sa kanila \[sa ukol sa inyo\], mga kapatid ninyo \[sila\]. Si Allāh ay nakaaalam sa tagagulo sa tagapagsaayos. Kung sakaling niloob ni Allāh ay talaga sanang nagpahirap Siya sa inyo. Tunay na si Allāh ay Makapangyarihan, Marunong.
 
 # 228
 
-Huwag kayong magpakasal sa mga babaing tagapagtambal hanggang sa sumampalataya sila. Talagang ang isang babaing aliping mananampalataya ay higit na mabuti kaysa sa isang babaing tagapagtambal kahit pa man nagpahanga ito sa inyo. Huwag ninyong ipakasal [ang kababaihan ninyo] sa mga lalaking tagapagtambal hanggang sa sumampalataya sila. Talagang ang isang lalaking aliping mananampalataya ay higit na mabuti kaysa sa isang lalaking tagapagtambal kahit pa man nagpahanga ito sa inyo. Ang mga iyon ay nag-aanyaya tungo sa Apoy samantalang si Allāh ay nag-aanyaya tungo sa Paraiso at kapatawaran ayon sa pahintulot Niya. Naglilinaw Siya sa mga tanda Niya sa mga tao, nang sa gayon sila ay magsasaalaala.
+Huwag kayong magpakasal sa mga babaing tagapagtambal hanggang sa sumampalataya sila. Talagang ang isang babaing aliping mananampalataya ay higit na mabuti kaysa sa isang babaing tagapagtambal kahit pa man nagpahanga ito sa inyo. Huwag ninyong ipakasal \[ang kababaihan ninyo\] sa mga lalaking tagapagtambal hanggang sa sumampalataya sila. Talagang ang isang lalaking aliping mananampalataya ay higit na mabuti kaysa sa isang lalaking tagapagtambal kahit pa man nagpahanga ito sa inyo. Ang mga iyon ay nag-aanyaya tungo sa Apoy samantalang si Allāh ay nag-aanyaya tungo sa Paraiso at kapatawaran ayon sa pahintulot Niya. Naglilinaw Siya sa mga tanda Niya sa mga tao, nang sa gayon sila ay magsasaalaala.
 
 # 229
 
@@ -928,7 +928,7 @@ Nagtatanong sila sa iyo tungkol sa regla. Sabihin mo: "Ito ay pinsala kaya humiw
 
 # 230
 
-Ang mga maybahay ninyo ay punlaan para sa inyo kaya pumunta kayo sa punlaan ninyo kung paanong niloob ninyo. Magpauna kayo [ng kabutihan] para sa mga sarili ninyo. Mangilag kayong magkasala kay Allāh. Alamin ninyo na kayo ay mga makikipagkita sa Kanya. Magbalita ka ng nakagagalak ng mga mananampalataya.
+Ang mga maybahay ninyo ay punlaan para sa inyo kaya pumunta kayo sa punlaan ninyo kung paanong niloob ninyo. Magpauna kayo \[ng kabutihan\] para sa mga sarili ninyo. Mangilag kayong magkasala kay Allāh. Alamin ninyo na kayo ay mga makikipagkita sa Kanya. Magbalita ka ng nakagagalak ng mga mananampalataya.
 
 # 231
 
@@ -940,7 +940,7 @@ Hindi magpapanagot sa inyo si Allāh sa pagkakamali sa mga panunumpa ninyo subal
 
 # 233
 
-Ukol sa mga nanunumpang tatangging makipagtalik sa mga maybahay nila ay pag-antabay ng apat na buwan; ngunit kung bumalik sila [sa dati], tunay na si Allāh ay Mapagpatawad, Maawain.
+Ukol sa mga nanunumpang tatangging makipagtalik sa mga maybahay nila ay pag-antabay ng apat na buwan; ngunit kung bumalik sila \[sa dati\], tunay na si Allāh ay Mapagpatawad, Maawain.
 
 # 234
 
@@ -948,55 +948,55 @@ Kung nagtika sila ng diborsiyo, tunay na si Allāh ay Madinigin, Maalam.
 
 # 235
 
-Ang mga babaing diniborsiyo ay mag-aantabay sa mga sarili nila ng tatlong buwanang dalaw. Hindi ipinahihintulot sa kanila na ikubli nila ang nilikha ni Allāh sa mga sinapupunan nila, kung sila ay sumasampalataya kay Allāh at sa Kabilang-buhay. Ang mga asawa nila ay higit na karapat-dapat sa pagbawi sa kanila sa [panahong] iyon kung nagnais ang mga ito ng isang pagsasaayos. Ukol sa kanila ang tulad ng tungkulin sa kanila ayon sa nakabubuti. Ukol sa mga lalaki sa tungkulin sa kanila ay isang antas. Si Allāh ay Makapangyarihan, Marunong.
+Ang mga babaing diniborsiyo ay mag-aantabay sa mga sarili nila ng tatlong buwanang dalaw. Hindi ipinahihintulot sa kanila na ikubli nila ang nilikha ni Allāh sa mga sinapupunan nila, kung sila ay sumasampalataya kay Allāh at sa Kabilang-buhay. Ang mga asawa nila ay higit na karapat-dapat sa pagbawi sa kanila sa \[panahong\] iyon kung nagnais ang mga ito ng isang pagsasaayos. Ukol sa kanila ang tulad ng tungkulin sa kanila ayon sa nakabubuti. Ukol sa mga lalaki sa tungkulin sa kanila ay isang antas. Si Allāh ay Makapangyarihan, Marunong.
 
 # 236
 
-Ang [magkakabalikang] diborsiyo ay dalawang ulit, kaya pagpapanatili ayon sa nakabubuti o pagpapalaya ayon sa pagmamagandang-loob. Hindi ipinahihintulot para sa inyo na kumuha kayo mula sa ibinigay ninyo sa kanila na anuman maliban na mangamba silang dalawa na hindi silang dalawa makapagpanatili sa mga hangganan ni Allāh. Kaya kung nangangamba kayo na hindi silang dalawa makapagpanatili sa mga hangganan ni Allāh, walang maisisisi sa kanilang dalawa kaugnay sa pagtubos [ng maybahay sa sarili]. Iyon ay mga hangganan ni Allāh kaya huwag kayong lumabag sa mga iyon. Ang sinumang lumampas sa mga hangganan ni Allāh, ang mga iyon ay ang mga tagalabag sa katarungan.
+Ang \[magkakabalikang\] diborsiyo ay dalawang ulit, kaya pagpapanatili ayon sa nakabubuti o pagpapalaya ayon sa pagmamagandang-loob. Hindi ipinahihintulot para sa inyo na kumuha kayo mula sa ibinigay ninyo sa kanila na anuman maliban na mangamba silang dalawa na hindi silang dalawa makapagpanatili sa mga hangganan ni Allāh. Kaya kung nangangamba kayo na hindi silang dalawa makapagpanatili sa mga hangganan ni Allāh, walang maisisisi sa kanilang dalawa kaugnay sa pagtubos \[ng maybahay sa sarili\]. Iyon ay mga hangganan ni Allāh kaya huwag kayong lumabag sa mga iyon. Ang sinumang lumampas sa mga hangganan ni Allāh, ang mga iyon ay ang mga tagalabag sa katarungan.
 
 # 237
 
-Kaya kung nagdiborsiyo siya rito [sa ikatlong pagkakataon] ay hindi na ito ipinahihintulot sa kanya nang matapos niyan hanggang sa makapag-asawa ito ng isang asawang iba pa sa kanya. Kung nagdiborsiyo naman iyon rito ay walang maisisisi sa kanilang dalawa na magbalikan silang dalawa kung nagpalagay silang dalawa na makapagpanatili silang dalawa sa mga hangganan ni Allāh. Iyon ay mga hangganan ni Allāh; naglilinaw Siya sa mga ito para sa mga taong umaalam.
+Kaya kung nagdiborsiyo siya rito \[sa ikatlong pagkakataon\] ay hindi na ito ipinahihintulot sa kanya nang matapos niyan hanggang sa makapag-asawa ito ng isang asawang iba pa sa kanya. Kung nagdiborsiyo naman iyon rito ay walang maisisisi sa kanilang dalawa na magbalikan silang dalawa kung nagpalagay silang dalawa na makapagpanatili silang dalawa sa mga hangganan ni Allāh. Iyon ay mga hangganan ni Allāh; naglilinaw Siya sa mga ito para sa mga taong umaalam.
 
 # 238
 
-Kapag nagdiborsiyo kayo ng mga maybahay at umabot sila sa taning [ng paghihintay] nila ay magpanatili kayo sa kanila ayon sa nakabubuti o magpalaya kayo sa kanila ayon sa nakabubuti. Huwag kayong magpanatili sa kanila bilang pamiminsala para makalabag kayo. Ang sinumang gumagawa niyon ay lumabag nga sa katarungan sa sarili sarili. Huwag kayong gumawa sa mga tanda ni Allāh bilang kinukutya. Umalaala kayo sa biyaya ni Allāh sa inyo at pinababa Niya sa inyo na Aklat at Karunungan. Nangangaral Siya sa inyo nito. Mangilag kayong magkasala kay Allāh at alamin ninyo na si Allāh sa bawat bagay ay Maalam.
+Kapag nagdiborsiyo kayo ng mga maybahay at umabot sila sa taning \[ng paghihintay\] nila ay magpanatili kayo sa kanila ayon sa nakabubuti o magpalaya kayo sa kanila ayon sa nakabubuti. Huwag kayong magpanatili sa kanila bilang pamiminsala para makalabag kayo. Ang sinumang gumagawa niyon ay lumabag nga sa katarungan sa sarili sarili. Huwag kayong gumawa sa mga tanda ni Allāh bilang kinukutya. Umalaala kayo sa biyaya ni Allāh sa inyo at pinababa Niya sa inyo na Aklat at Karunungan. Nangangaral Siya sa inyo nito. Mangilag kayong magkasala kay Allāh at alamin ninyo na si Allāh sa bawat bagay ay Maalam.
 
 # 239
 
-Kapag nagdiborsiyo kayo ng mga maybahay ninyo at umabot sila sa `iddah nila ay huwag kayong magpasuliranin sa kanila na magpakasal sila sa mga [dating] asawa nila kapag nagkaluguran sa pagitan nila ayon sa nakabubuti. Iyon ay ipinangangaral sa sinumang kabilang sa inyo na sumasampalataya kay Allāh at sa Huling Araw. Iyon ay higit na lalago para sa inyo at higit na dalisay. Si Allāh ay nakaaalam at kayo ay hindi nakaaalam.
+Kapag nagdiborsiyo kayo ng mga maybahay ninyo at umabot sila sa \`iddah nila ay huwag kayong magpasuliranin sa kanila na magpakasal sila sa mga \[dating\] asawa nila kapag nagkaluguran sa pagitan nila ayon sa nakabubuti. Iyon ay ipinangangaral sa sinumang kabilang sa inyo na sumasampalataya kay Allāh at sa Huling Araw. Iyon ay higit na lalago para sa inyo at higit na dalisay. Si Allāh ay nakaaalam at kayo ay hindi nakaaalam.
 
 # 240
 
-Ang mga ina ay magpapasuso sa mga anak nila nang dalawang buong taon, para sa sinumang nagnais na lumubos ng pagpapasuso. Tungkulin ng ama ang pagtustos sa kanila at ang pagpapadamit sa kanila ayon sa nakabubuti. Walang inaatangang kaluluwa maliban sa kaya nito. Walang pipinsalaing isang ina dahil sa anak niya ni isang ama dahil sa anak nito. Kailangan sa tagapagmana [ng ama] ang tulad ng [tungkuling] iyon. Kung nagnais silang dalawa ng pag-awat [sa bata] ayon sa pagkakaluguran mula sa kanilang dalawa at pagsasanggunian ay walang maisisisi sa kanilang dalawa. Kung nagnais kayo na ipasuso ninyo [sa iba] ang mga anak ninyo ay walang maisisisi sa inyo kapag nag-abot kayo ng ibibigay ninyo ayon sa nakabubuti. Mangilag kayong magkasala kay Allāh at alamin ninyo na si Allāh sa anumang ginagawa ninyo ay Nakakikita.
+Ang mga ina ay magpapasuso sa mga anak nila nang dalawang buong taon, para sa sinumang nagnais na lumubos ng pagpapasuso. Tungkulin ng ama ang pagtustos sa kanila at ang pagpapadamit sa kanila ayon sa nakabubuti. Walang inaatangang kaluluwa maliban sa kaya nito. Walang pipinsalaing isang ina dahil sa anak niya ni isang ama dahil sa anak nito. Kailangan sa tagapagmana \[ng ama\] ang tulad ng \[tungkuling\] iyon. Kung nagnais silang dalawa ng pag-awat \[sa bata\] ayon sa pagkakaluguran mula sa kanilang dalawa at pagsasanggunian ay walang maisisisi sa kanilang dalawa. Kung nagnais kayo na ipasuso ninyo \[sa iba\] ang mga anak ninyo ay walang maisisisi sa inyo kapag nag-abot kayo ng ibibigay ninyo ayon sa nakabubuti. Mangilag kayong magkasala kay Allāh at alamin ninyo na si Allāh sa anumang ginagawa ninyo ay Nakakikita.
 
 # 241
 
-Ang mga papapanawin kabilang sa inyo at mag-iiwan ng mga maybahay, mag-aantabay ang mga ito sa mga sarili ng mga ito nang apat na buwan at sampung [araw]. Kapag umabot ang mga ito sa taning ng mga ito ay walang maisisisi sa inyo sa anumang ginawa ng mga ito sa mga sarili ng mga ito ayon sa nakabubuti. Si Allāh sa anumang ginagawa ninyo ay Mapagbatid.
+Ang mga papapanawin kabilang sa inyo at mag-iiwan ng mga maybahay, mag-aantabay ang mga ito sa mga sarili ng mga ito nang apat na buwan at sampung \[araw\]. Kapag umabot ang mga ito sa taning ng mga ito ay walang maisisisi sa inyo sa anumang ginawa ng mga ito sa mga sarili ng mga ito ayon sa nakabubuti. Si Allāh sa anumang ginagawa ninyo ay Mapagbatid.
 
 # 242
 
-Walang maisisisi sa inyo sa ipinahiwatig ninyo na isang pag-alok ng kasal sa mga babae o kinimkim ninyo sa mga sarili ninyo. Nakaalam si Allāh na kayo ay babanggit sa kanila [nito] subalit huwag kayong makipagtipan sa kanila nang palihim maliban na magsabi kayo ng isang sasabihing nakabubuti. Huwag kayong magpasya ng kasunduan ng kasal hanggang sa umabot ang takdang panahon sa taning nito. Alamin ninyo na si Allāh ay nakaaalam sa anumang nasa mga sarili ninyo kaya mag-ingat kayo sa Kanya. Alamin ninyo na si Allāh ay Mapagpatawad, Matimpiin.
+Walang maisisisi sa inyo sa ipinahiwatig ninyo na isang pag-alok ng kasal sa mga babae o kinimkim ninyo sa mga sarili ninyo. Nakaalam si Allāh na kayo ay babanggit sa kanila \[nito\] subalit huwag kayong makipagtipan sa kanila nang palihim maliban na magsabi kayo ng isang sasabihing nakabubuti. Huwag kayong magpasya ng kasunduan ng kasal hanggang sa umabot ang takdang panahon sa taning nito. Alamin ninyo na si Allāh ay nakaaalam sa anumang nasa mga sarili ninyo kaya mag-ingat kayo sa Kanya. Alamin ninyo na si Allāh ay Mapagpatawad, Matimpiin.
 
 # 243
 
-Wala maisisisi sa inyo kung nagdiborsiyo kayo sa mga maybahay hanggat hindi pa kayo sumaling sa kanila o hindi pa kayo nagtakda para sa kanila ng isang tungkuling [bigay-kaya]. Magpalubag-loob kayo sa kanila – sa nakaluluwag ayon sa kakayahan niya at sa naghihikahos ayon sa kakayahan niya – ng isang pampalubag-loob ayon sa nakabubuti bilang tungkulin sa mga tagagawa ng maganda.
+Wala maisisisi sa inyo kung nagdiborsiyo kayo sa mga maybahay hanggat hindi pa kayo sumaling sa kanila o hindi pa kayo nagtakda para sa kanila ng isang tungkuling \[bigay-kaya\]. Magpalubag-loob kayo sa kanila – sa nakaluluwag ayon sa kakayahan niya at sa naghihikahos ayon sa kakayahan niya – ng isang pampalubag-loob ayon sa nakabubuti bilang tungkulin sa mga tagagawa ng maganda.
 
 # 244
 
-Kung nagdiborsiyo kayo sa kanila bago pa kayo sumaling sa kanila at nagsatungkulin na kayo para sa kanila ng isang tungkulin, ang kalahati ng isinatungkulin ninyo [ang ibibigay] maliban na magpaubaya sila o magpaubaya ang nasa kamay niya ang kasunduan ng kasal. Ang magpaubaya kayo ay higit na malapit sa pangingilag magkasala. Huwag kayong lumimot sa kabutihang-loob sa pagitan ninyo. Tunay na si Allāh sa anumang ginagawa ninyo ay Nakakikita.
+Kung nagdiborsiyo kayo sa kanila bago pa kayo sumaling sa kanila at nagsatungkulin na kayo para sa kanila ng isang tungkulin, ang kalahati ng isinatungkulin ninyo \[ang ibibigay\] maliban na magpaubaya sila o magpaubaya ang nasa kamay niya ang kasunduan ng kasal. Ang magpaubaya kayo ay higit na malapit sa pangingilag magkasala. Huwag kayong lumimot sa kabutihang-loob sa pagitan ninyo. Tunay na si Allāh sa anumang ginagawa ninyo ay Nakakikita.
 
 # 245
 
-Mangalaga kayo sa mga dasal at [lalo na] sa dasal na kalagitnaan. Tumayo kayo kay Allāh bilang mga masunurin.
+Mangalaga kayo sa mga dasal at \[lalo na\] sa dasal na kalagitnaan. Tumayo kayo kay Allāh bilang mga masunurin.
 
 # 246
 
-Kung nangamba kayo ay [magdasal na] mga naglalakad o mga nakasakay, at kapag natiwasay kayo ay umalaala kayo kay Allāh gaya ng itinuro Niya sa inyo ng hindi ninyo noon nalalaman.
+Kung nangamba kayo ay \[magdasal na\] mga naglalakad o mga nakasakay, at kapag natiwasay kayo ay umalaala kayo kay Allāh gaya ng itinuro Niya sa inyo ng hindi ninyo noon nalalaman.
 
 # 247
 
-Ang mga papapanawin kabilang sa inyo at mag-iiwan ng mga maybahay ay [mag-iiwan ng] isang tagubilin para sa mga maybahay nila na isang sustento hanggang sa buong taon nang walang pagpapalisan [sa kanila], ngunit kung lumisan sila ay walang maisisisi sa inyo sa anumang ginawa nila sa mga sarili nila na nakabubuti. Si Allāh ay Makapangyarihan, Marunong.
+Ang mga papapanawin kabilang sa inyo at mag-iiwan ng mga maybahay ay \[mag-iiwan ng\] isang tagubilin para sa mga maybahay nila na isang sustento hanggang sa buong taon nang walang pagpapalisan \[sa kanila\], ngunit kung lumisan sila ay walang maisisisi sa inyo sa anumang ginawa nila sa mga sarili nila na nakabubuti. Si Allāh ay Makapangyarihan, Marunong.
 
 # 248
 
@@ -1072,11 +1072,11 @@ Hindi ka ba nakaalam sa nangatwiran kay Abraham hinggil sa Panginoon nito dahil 
 
 # 266
 
-O gaya ng naparaan sa isang pamayanan samantalang iyon ay gumuho sa mga bubungan niyon. Nagsabi ito: "Paanong magbibigay-buhay rito si Allāh matapos ng kamatayan nito?" Kaya nagbigay-kamatayan dito si Allāh ng isandaang taon, pagkatapos bumuhay Siya rito. Nagsabi Siya: "Gaano ka katagal namalagi?" Nagsabi ito: "Namalagi ako ng isang araw o ng isang bahagi ng isang araw." Nagsabi Siya: "Bagkus namalagi ka ng isandaang taon. Tumingin ka sa pagkain mo at inumin mo, hindi ito nagbago. Tumingin ka sa asno mo, at upang gawin ka Naming isang tanda para sa mga tao. Tumingin ka sa mga buto [ng asno] kung papaano Kaming magbabangon sa mga ito, pagkatapos magbabalot sa mga ito ng laman." Kaya noong luminaw ito sa kanya ay nagsabi siya: "Nalalaman ko na si Allāh sa bawat bagay ay May-kakayahan."
+O gaya ng naparaan sa isang pamayanan samantalang iyon ay gumuho sa mga bubungan niyon. Nagsabi ito: "Paanong magbibigay-buhay rito si Allāh matapos ng kamatayan nito?" Kaya nagbigay-kamatayan dito si Allāh ng isandaang taon, pagkatapos bumuhay Siya rito. Nagsabi Siya: "Gaano ka katagal namalagi?" Nagsabi ito: "Namalagi ako ng isang araw o ng isang bahagi ng isang araw." Nagsabi Siya: "Bagkus namalagi ka ng isandaang taon. Tumingin ka sa pagkain mo at inumin mo, hindi ito nagbago. Tumingin ka sa asno mo, at upang gawin ka Naming isang tanda para sa mga tao. Tumingin ka sa mga buto \[ng asno\] kung papaano Kaming magbabangon sa mga ito, pagkatapos magbabalot sa mga ito ng laman." Kaya noong luminaw ito sa kanya ay nagsabi siya: "Nalalaman ko na si Allāh sa bawat bagay ay May-kakayahan."
 
 # 267
 
-[Banggitin] noong nagsabi si Abraham: "Panginoon ko, ipakita Mo sa akin kung papaano Kang nagbibigay-buhay sa mga patay." Nagsabi Siya: "At hindi ka ba sumampalataya?" Nagsabi ito: "Opo; subalit upang mapanatag ang puso ko." Nagsabi Siya: "Kaya kumuha ka ng apat na ibon saka maglagak ka ng mga ito sa iyo [upang pagputul-putulin]. Pagkatapos maglagay ka sa bawat burol mula sa mga ito ng isang bahagi. Pagkatapos manawagan ka sa mga ito, pupunta sa iyo ang mga ito sa iyo nang agaran. Alamin mo na si Allāh ay Makapangyarihan, Marunong."
+\[Banggitin\] noong nagsabi si Abraham: "Panginoon ko, ipakita Mo sa akin kung papaano Kang nagbibigay-buhay sa mga patay." Nagsabi Siya: "At hindi ka ba sumampalataya?" Nagsabi ito: "Opo; subalit upang mapanatag ang puso ko." Nagsabi Siya: "Kaya kumuha ka ng apat na ibon saka maglagak ka ng mga ito sa iyo \[upang pagputul-putulin\]. Pagkatapos maglagay ka sa bawat burol mula sa mga ito ng isang bahagi. Pagkatapos manawagan ka sa mga ito, pupunta sa iyo ang mga ito sa iyo nang agaran. Alamin mo na si Allāh ay Makapangyarihan, Marunong."
 
 # 268
 
@@ -1124,11 +1124,11 @@ Kung maglalantad kayo ng mga kawanggawa ay kay inam ng mga ito! Kung magkukubli 
 
 # 279
 
-Hindi nasa iyo ang pagpatnubay sa kanila, subalit si Allāh ay nagpapatnubay sa sinumang niloloob Niya. Ang anumang ginugugol ninyo na kabutihan ay ukol sa mga sarili ninyo. Hindi kayo gumugugol malibang sa paghahangad [ng ikalulugod] ng mukha ni Allāh. Ang anumang ginugugol ninyo na kabutihan ay lulubus-lubusin tungo sa inyo [ang kabayaran] at kayo ay hindi lalabagin sa katarungan.
+Hindi nasa iyo ang pagpatnubay sa kanila, subalit si Allāh ay nagpapatnubay sa sinumang niloloob Niya. Ang anumang ginugugol ninyo na kabutihan ay ukol sa mga sarili ninyo. Hindi kayo gumugugol malibang sa paghahangad \[ng ikalulugod\] ng mukha ni Allāh. Ang anumang ginugugol ninyo na kabutihan ay lulubus-lubusin tungo sa inyo \[ang kabayaran\] at kayo ay hindi lalabagin sa katarungan.
 
 # 280
 
-[Ang mga kawanggawa ay] ukol sa mga maralitang naitalaga ayon sa landas ni Allāh; hindi sila nakakakaya ng paglalakbay sa lupain [upang maghanapbuhay]. Nag-aakala sa kanila ang mangmang na mga mayaman [sila] dahil sa pagpipigil na manghingi. Nakakikilala ka sa kanila dahil sa tanda nila: hindi sila nanghihingi sa mga tao nang may pamimilit. Ang anumang ginugugol ninyo na mabuti, tunay si Allāh dito ay Maalam.
+\[Ang mga kawanggawa ay\] ukol sa mga maralitang naitalaga ayon sa landas ni Allāh; hindi sila nakakakaya ng paglalakbay sa lupain \[upang maghanapbuhay\]. Nag-aakala sa kanila ang mangmang na mga mayaman \[sila\] dahil sa pagpipigil na manghingi. Nakakikilala ka sa kanila dahil sa tanda nila: hindi sila nanghihingi sa mga tao nang may pamimilit. Ang anumang ginugugol ninyo na mabuti, tunay si Allāh dito ay Maalam.
 
 # 281
 
@@ -1156,19 +1156,19 @@ Ngunit kung hindi ninyo ginawa, tumiyak kayo ng isang digmaan mula kay Allāh at
 
 # 287
 
-Kung may kagipitan [ang nagkautang] ay [magbigay ng] isang paghihintay hanggang sa kaluwagan; ngunit ang magkawanggawa kayo ay higit na mabuti para sa inyo kung kayo ay nakaaalam.
+Kung may kagipitan \[ang nagkautang\] ay \[magbigay ng\] isang paghihintay hanggang sa kaluwagan; ngunit ang magkawanggawa kayo ay higit na mabuti para sa inyo kung kayo ay nakaaalam.
 
 # 288
 
-Mangilag kayo sa Araw na pababalikin kayo roon tungo kay Allāh. Pagkatapos lulubus-lubusin ang bawat kaluluwa sa [kabayaran ng] anumang nakamit nito at sila ay hindi lalabagin sa katarungan.
+Mangilag kayo sa Araw na pababalikin kayo roon tungo kay Allāh. Pagkatapos lulubus-lubusin ang bawat kaluluwa sa \[kabayaran ng\] anumang nakamit nito at sila ay hindi lalabagin sa katarungan.
 
 # 289
 
-O mga sumampalataya, kapag nag-utangan kayo ng isang pautang sa isang taning na tinukoy ay isulat ninyo ito at isulat sa pagitan ninyo ng isang tagasulat ayon sa katarungan. Hindi tatanggi ang isang tagasulat na isulat niya gaya ng itinuro sa kanya ni Allāh. Kaya magsulat siya at magdikta ang nasa kanya ang tungkulin, mangilag siyang magkasala kay Allāh na Panginoon niya, at huwag siyang magpakulang mula roon ng anuman. Ngunit kung ang nasa kanya ang tungkulin ay isang hunghang o isang mahina o hindi nakakakaya na magdikta siya ay magdikta ang katangkilik niya ayon sa katarungan. Magpasaksi kayo ng dalawang saksi mula sa kalalakihan ninyo. Ngunit kung hindi nangyaring may dalawang lalaki ay isang lalaki at dalawang babae kabilang sa sinumang nalugod kayo na mga saksi, upang kung makalimot ang isa sa dalawang [babae] ay magpapaalaala ang isa sa dalawa sa isa pa. Hindi tatanggi ang mga saksi kapag tinawag sila. Huwag kayong magsawa na magsulat kayo nito, maliit o malaki, hanggang sa taning nito. Iyon ay higit na makatarungan sa ganang kay Allāh, higit na mananatili para sa pagsasaksi, at higit na malapit upang hindi kayo magduda, malibang ito ay isang kalakalang dinadaluhan, na nagsasagawa kayo nito sa pagitan ninyo sapagkat walang maisisisi sa inyo na hindi kayo magsulat nito. Magpasaksi kayo kapag nagbilihan kayo. Hindi pinipinsala ang isang tagasulat ni ang isang saksi. Kung gagawa kayo [nito], tunay na ito ay mga kasuwailan sa inyo. Mangilag kayong magkasala kay Allāh at magtuturo sa inyo si Allāh. Si Allāh sa bawat bagay ay Maalam.
+O mga sumampalataya, kapag nag-utangan kayo ng isang pautang sa isang taning na tinukoy ay isulat ninyo ito at isulat sa pagitan ninyo ng isang tagasulat ayon sa katarungan. Hindi tatanggi ang isang tagasulat na isulat niya gaya ng itinuro sa kanya ni Allāh. Kaya magsulat siya at magdikta ang nasa kanya ang tungkulin, mangilag siyang magkasala kay Allāh na Panginoon niya, at huwag siyang magpakulang mula roon ng anuman. Ngunit kung ang nasa kanya ang tungkulin ay isang hunghang o isang mahina o hindi nakakakaya na magdikta siya ay magdikta ang katangkilik niya ayon sa katarungan. Magpasaksi kayo ng dalawang saksi mula sa kalalakihan ninyo. Ngunit kung hindi nangyaring may dalawang lalaki ay isang lalaki at dalawang babae kabilang sa sinumang nalugod kayo na mga saksi, upang kung makalimot ang isa sa dalawang \[babae\] ay magpapaalaala ang isa sa dalawa sa isa pa. Hindi tatanggi ang mga saksi kapag tinawag sila. Huwag kayong magsawa na magsulat kayo nito, maliit o malaki, hanggang sa taning nito. Iyon ay higit na makatarungan sa ganang kay Allāh, higit na mananatili para sa pagsasaksi, at higit na malapit upang hindi kayo magduda, malibang ito ay isang kalakalang dinadaluhan, na nagsasagawa kayo nito sa pagitan ninyo sapagkat walang maisisisi sa inyo na hindi kayo magsulat nito. Magpasaksi kayo kapag nagbilihan kayo. Hindi pinipinsala ang isang tagasulat ni ang isang saksi. Kung gagawa kayo \[nito\], tunay na ito ay mga kasuwailan sa inyo. Mangilag kayong magkasala kay Allāh at magtuturo sa inyo si Allāh. Si Allāh sa bawat bagay ay Maalam.
 
 # 290
 
-Kung kayo ay nasa isang paglalakbay at hindi kayo nakatagpo ng isang tagasulat, mga sanglang mapanghahawakan [ang kapalit]. Ngunit kung natiwasay ang iba sa inyo sa iba pa ay magsagawa ang pinagkatiwalaan ng ipinagkatiwala sa kanya at mangilag siyang magkasala kay Allāh na Panginoon niya. Huwag kayong maglingid ng pagsasaksi. Ang sinumang maglingid niyon, tunay na siya ay nagkakasala ang puso niya. Si Allāh sa anumang ginagawa ninyo ay Maalam.
+Kung kayo ay nasa isang paglalakbay at hindi kayo nakatagpo ng isang tagasulat, mga sanglang mapanghahawakan \[ang kapalit\]. Ngunit kung natiwasay ang iba sa inyo sa iba pa ay magsagawa ang pinagkatiwalaan ng ipinagkatiwala sa kanya at mangilag siyang magkasala kay Allāh na Panginoon niya. Huwag kayong maglingid ng pagsasaksi. Ang sinumang maglingid niyon, tunay na siya ay nagkakasala ang puso niya. Si Allāh sa anumang ginagawa ninyo ay Maalam.
 
 # 291
 
@@ -1176,7 +1176,7 @@ Sa kay Allāh ang anumang nasa mga langit at ang anumang nasa lupa. Kung maglala
 
 # 292
 
-Sumampalataya ang Sugo sa anumang pinababa sa kanya mula sa Panginoon niya at ang mga mananampalataya [ay gayon din]. Bawat [isa] ay sumampalataya kay Allāh, sa mga anghel Niya, sa mga kasulatan Niya, at sa mga sugo Niya. [Sinabi:] "Hindi kami nagtatangi-tangi sa isa man sa mga sugo Niya," Nagsabi sila: "Nakarinig kami at tumalima kami. [Humihingi kami ng] pagpapatawad Mo, Panginoon namin. Tungo sa Iyo ang kahahantungan."
+Sumampalataya ang Sugo sa anumang pinababa sa kanya mula sa Panginoon niya at ang mga mananampalataya \[ay gayon din\]. Bawat \[isa\] ay sumampalataya kay Allāh, sa mga anghel Niya, sa mga kasulatan Niya, at sa mga sugo Niya. \[Sinabi:\] "Hindi kami nagtatangi-tangi sa isa man sa mga sugo Niya," Nagsabi sila: "Nakarinig kami at tumalima kami. \[Humihingi kami ng\] pagpapatawad Mo, Panginoon namin. Tungo sa Iyo ang kahahantungan."
 
 # 293
 
@@ -1248,7 +1248,7 @@ Ang mga nagsasabi: "Panginoon Namin, tunay na kami ay sumampalataya kaya magpata
 
 # 310
 
-[Sila] ang mga matiisin, ang mga tapat, ang mga masunurin, ang mga gumugugol, at ang mga humihingi ng tawad sa mga huling bahagi ng gabi.
+\[Sila\] ang mga matiisin, ang mga tapat, ang mga masunurin, ang mga gumugugol, at ang mga humihingi ng tawad sa mga huling bahagi ng gabi.
 
 # 311
 
@@ -1280,7 +1280,7 @@ Iyon ay dahil sila ay nagsabi: "Hindi sasaling sa amin ang Apoy maliban sa mga a
 
 # 318
 
-Kaya papaano kapag nagtipon Kami sa kanila para sa Araw na walang pag-aalinlangan hinggil doon, at nilubus-lubos ang bawat kaluluwa sa [kabayaran ng] anumang nakamit nito habang sila ay hindi lalabagin sa katarungan?
+Kaya papaano kapag nagtipon Kami sa kanila para sa Araw na walang pag-aalinlangan hinggil doon, at nilubus-lubos ang bawat kaluluwa sa \[kabayaran ng\] anumang nakamit nito habang sila ay hindi lalabagin sa katarungan?
 
 # 319
 
@@ -1312,7 +1312,7 @@ Sabihin mo: "Tumalima kayo kay Allāh at sa Sugo," ngunit kung tumalikod sila, t
 
 # 326
 
-Tunay na si Allāh ay humirang kay Adan, kay Noe, sa mag-anak ni Abraham, at sa mag-anak ni `Imrān higit sa mga nilalang -
+Tunay na si Allāh ay humirang kay Adan, kay Noe, sa mag-anak ni Abraham, at sa mag-anak ni \`Imrān higit sa mga nilalang -
 
 # 327
 
@@ -1320,7 +1320,7 @@ mga supling na ang ilan sa kanila ay mula sa ilan. Si Allāh ay Madinigin, Maala
 
 # 328
 
-[Banggitin] noong nagsabi ang maybahay ni `Imrān: "Panginoon ko, tunay na ako ay nagpanata para sa Iyo ng nasa sinapupunan ko bilang nakalaan, kaya tanggapin Mo mula sa akin; tunay na Ikaw ay ang Madinigin, ang Maalam."
+\[Banggitin\] noong nagsabi ang maybahay ni \`Imrān: "Panginoon ko, tunay na ako ay nagpanata para sa Iyo ng nasa sinapupunan ko bilang nakalaan, kaya tanggapin Mo mula sa akin; tunay na Ikaw ay ang Madinigin, ang Maalam."
 
 # 329
 
@@ -1336,7 +1336,7 @@ Doon dumalangin si Zacarias sa Panginoon niya. Nagsabi siya: "Panginoon ko, magk
 
 # 332
 
-Kaya nanawagan sa kanya ang mga anghel, habang siya ay nakatayong nagdarasal sa isang silid-dasalan, na [nagsasabi]: "Si Allāh ay nagbabalita sa iyo ng nakagagalak hinggil kay Juan bilang tagapagpatotoo sa isang salita mula kay Allāh, bilang ginoo, bilang matimtiman, at bilang propeta kabilang sa mga maayos."
+Kaya nanawagan sa kanya ang mga anghel, habang siya ay nakatayong nagdarasal sa isang silid-dasalan, na \[nagsasabi\]: "Si Allāh ay nagbabalita sa iyo ng nakagagalak hinggil kay Juan bilang tagapagpatotoo sa isang salita mula kay Allāh, bilang ginoo, bilang matimtiman, at bilang propeta kabilang sa mga maayos."
 
 # 333
 
@@ -1348,7 +1348,7 @@ Nagsabi ito: "Panginoon ko, gumawa Ka para sa akin ng isang tanda." Nagsabi Siya
 
 # 335
 
-[Banggitin] noong nagsabi ang mga anghel kay Maria: "O Maria, tunay na si Allāh ay humirang sa iyo, nagdalisay sa iyo, at humirang sa iyo higit sa mga babae ng mga nilalang.
+\[Banggitin\] noong nagsabi ang mga anghel kay Maria: "O Maria, tunay na si Allāh ay humirang sa iyo, nagdalisay sa iyo, at humirang sa iyo higit sa mga babae ng mga nilalang.
 
 # 336
 
@@ -1360,11 +1360,11 @@ Iyon ay kabilang sa mga balita ng Lingid; nagkakasi Kami nito sa iyo. Wala ka no
 
 # 338
 
-[Banggitin] noong nagsabi ang mga anghel: "O Maria, tunay na si Allāh ay nagbabalita sa iyo ng nakagagalak hinggil sa isang salita mula sa Kanya, na ang pangalan nito ay ang Kristo Jesus na anak ni Maria, bilang pinarangalan sa Mundo at sa Kabilang-buhay at kabilang sa mga inilapit [kay Allāh].
+\[Banggitin\] noong nagsabi ang mga anghel: "O Maria, tunay na si Allāh ay nagbabalita sa iyo ng nakagagalak hinggil sa isang salita mula sa Kanya, na ang pangalan nito ay ang Kristo Jesus na anak ni Maria, bilang pinarangalan sa Mundo at sa Kabilang-buhay at kabilang sa mga inilapit \[kay Allāh\].
 
 # 339
 
-Magsasalita siya sa mga tao habang nasa duyan pa at nasa kasapatang-gulang na, at [magiging] kabilang sa mga maayos."
+Magsasalita siya sa mga tao habang nasa duyan pa at nasa kasapatang-gulang na, at \[magiging\] kabilang sa mga maayos."
 
 # 340
 
@@ -1376,11 +1376,11 @@ Magtuturo Siya rito ng Kasulatan, karunungan, Torah, at Ebanghelyo.
 
 # 342
 
-[Gagawa Siya rito] bilang sugo sa mga anak ni Israel, [na magsasabi]: 'Na ako ay naghatid nga sa inyo ng isang tanda mula sa Panginoon ninyo; na ako ay lilikha para sa inyo mula sa putik ng gaya ng anyo ng ibon, saka iihip rito, saka ito ay magiging isang ibon ayon sa pahintulot ni Allāh. Magpapagaling ako ng ipinanganak na bulag at ketungin. Magbibigay-buhay ako sa mga patay ayon sa pahintulot ni Allāh. Magbabalita ako sa inyo ng kinakain ninyo at iniimbak ninyo sa mga bahay ninyo. Tunay na sa gayon ay talagang may tanda para sa inyo kung kayo ay mga mananampalataya.
+\[Gagawa Siya rito\] bilang sugo sa mga anak ni Israel, \[na magsasabi\]: 'Na ako ay naghatid nga sa inyo ng isang tanda mula sa Panginoon ninyo; na ako ay lilikha para sa inyo mula sa putik ng gaya ng anyo ng ibon, saka iihip rito, saka ito ay magiging isang ibon ayon sa pahintulot ni Allāh. Magpapagaling ako ng ipinanganak na bulag at ketungin. Magbibigay-buhay ako sa mga patay ayon sa pahintulot ni Allāh. Magbabalita ako sa inyo ng kinakain ninyo at iniimbak ninyo sa mga bahay ninyo. Tunay na sa gayon ay talagang may tanda para sa inyo kung kayo ay mga mananampalataya.
 
 # 343
 
-[Dumating ako] bilang tagapagpatotoo para sa nauna sa akin na Torah at upang magpahintulot ako para sa inyo ng ilan sa ipinagbawal sa inyo. Naghatid ako sa inyo ng isang tanda mula sa Panginoon ninyo kaya mangilag kayong magkasala kay Allāh at tumalima kayo sa akin.
+\[Dumating ako\] bilang tagapagpatotoo para sa nauna sa akin na Torah at upang magpahintulot ako para sa inyo ng ilan sa ipinagbawal sa inyo. Naghatid ako sa inyo ng isang tanda mula sa Panginoon ninyo kaya mangilag kayong magkasala kay Allāh at tumalima kayo sa akin.
 
 # 344
 
@@ -1388,7 +1388,7 @@ Tunay na si Allāh ay Panginoon ko at Panginoon ninyo kaya sumamba kayo sa Kanya
 
 # 345
 
-Ngunit noong nakadama si Jesus mula sa kanila ng kawalang-pananampalataya ay nagsabi siya: "Sino ang mga tagaadya ko tungo kay Allāh?" Nagsabi ang mga disipulo: "Kami ay ang mga tagaadya ni Allāh; sumampalataya kami kay Allāh, at sumaksi ka na kami ay mga tagapagpasakop [kay Allāh].
+Ngunit noong nakadama si Jesus mula sa kanila ng kawalang-pananampalataya ay nagsabi siya: "Sino ang mga tagaadya ko tungo kay Allāh?" Nagsabi ang mga disipulo: "Kami ay ang mga tagaadya ni Allāh; sumampalataya kami kay Allāh, at sumaksi ka na kami ay mga tagapagpasakop \[kay Allāh\].
 
 # 346
 
@@ -1400,7 +1400,7 @@ Nanlansi sila at nanlansi si Allāh, ngunit Si Allāh ay ang pinakamabuti sa mga
 
 # 348
 
-[Banggitin] noong nagsabi si Allāh: "O Jesus, tunay na Ako ay hahango sa iyo, mag-aangat sa iyo tungo sa Akin, magdadalisay sa iyo laban sa mga tumangging sumampalataya, at gagawa sa mga sumunod sa iyo na higit sa mga tumangging sumampalataya hanggang sa Araw ng Pagbangon. Pagkatapos tungo sa Akin ang babalikan ninyo, saka hahatol Ako sa pagitan ninyo sa anumang dati kayo hinggil doon ay nagkakaiba-iba.
+\[Banggitin\] noong nagsabi si Allāh: "O Jesus, tunay na Ako ay hahango sa iyo, mag-aangat sa iyo tungo sa Akin, magdadalisay sa iyo laban sa mga tumangging sumampalataya, at gagawa sa mga sumunod sa iyo na higit sa mga tumangging sumampalataya hanggang sa Araw ng Pagbangon. Pagkatapos tungo sa Akin ang babalikan ninyo, saka hahatol Ako sa pagitan ninyo sa anumang dati kayo hinggil doon ay nagkakaiba-iba.
 
 # 349
 
@@ -1448,7 +1448,7 @@ Kayo itong nakikipagkatwiran hinggil sa mayroon kayo ritong kaalaman kaya bakit 
 
 # 360
 
-Hindi nangyaring si Abraham ay isang Hudyo ni isang Kristiyano, subalit siya noon ay isang makatotoong Muslim at hindi siya naging kabilang sa mga tagapagtambal [kay Allāh].
+Hindi nangyaring si Abraham ay isang Hudyo ni isang Kristiyano, subalit siya noon ay isang makatotoong Muslim at hindi siya naging kabilang sa mga tagapagtambal \[kay Allāh\].
 
 # 361
 
@@ -1468,11 +1468,11 @@ O mga May Kasulatan, bakit kayo naglalahok sa katotohanan ng kabulaanan at nagta
 
 # 365
 
-Nagsabi ang isang pangkatin kabilang sa mga May Kasulatan: "Sumampalataya kayo sa pinababa sa mga sumampalataya sa simula ng maghapon at tumanggi kayong sumampalataya sa katapusan niyon, nang sa gayon sila ay babalik [sa dati].
+Nagsabi ang isang pangkatin kabilang sa mga May Kasulatan: "Sumampalataya kayo sa pinababa sa mga sumampalataya sa simula ng maghapon at tumanggi kayong sumampalataya sa katapusan niyon, nang sa gayon sila ay babalik \[sa dati\].
 
 # 366
 
-Huwag kayong maniwala maliban sa sinumang sumunod sa relihiyon ninyo." Sabihin mo: "Tunay na ang patnubay ay ang patnubay ni Allāh. [May pangamba ba] na magbigay sa isa ng tulad ng ibinigay sa inyo o makikipagkatwiran sila sa inyo sa piling ng Panginoon ninyo?" Sabihin mo: "Tunay na ang kabutihang-loob ay nasa kamay ni Allāh; nagbibigay Siya nito sa sinumang niloloob Niya. Si Allāh ay Malawak, Maalam."
+Huwag kayong maniwala maliban sa sinumang sumunod sa relihiyon ninyo." Sabihin mo: "Tunay na ang patnubay ay ang patnubay ni Allāh. \[May pangamba ba\] na magbigay sa isa ng tulad ng ibinigay sa inyo o makikipagkatwiran sila sa inyo sa piling ng Panginoon ninyo?" Sabihin mo: "Tunay na ang kabutihang-loob ay nasa kamay ni Allāh; nagbibigay Siya nito sa sinumang niloloob Niya. Si Allāh ay Malawak, Maalam."
 
 # 367
 
@@ -1480,7 +1480,7 @@ Nagtatangi Siya sa awa Niya sa sinumang niloloob Niya. Si Allāh ay may kabutiha
 
 # 368
 
-Kabilang sa mga May Kasulatan ang kung magtitiwala ka sa kanya ng isang bunton [na salapi] ay magsasauli siya nito sa iyo. Kabilang sa kanila ang kung magtitiwala ka sa kanya ng isang dīnār ay hindi siya magsasauli nito sa iyo malibang hindi ka tumigil sa kanya na naniningil. Iyon ay dahil sila ay nagsabi: "Wala sa aming kasalanan kaugnay sa mga iliterato." Nagsasabi sila hinggil kay Allāh ng kasinungalingan samantalang sila ay nakaaalam.
+Kabilang sa mga May Kasulatan ang kung magtitiwala ka sa kanya ng isang bunton \[na salapi\] ay magsasauli siya nito sa iyo. Kabilang sa kanila ang kung magtitiwala ka sa kanya ng isang dīnār ay hindi siya magsasauli nito sa iyo malibang hindi ka tumigil sa kanya na naniningil. Iyon ay dahil sila ay nagsabi: "Wala sa aming kasalanan kaugnay sa mga iliterato." Nagsasabi sila hinggil kay Allāh ng kasinungalingan samantalang sila ay nakaaalam.
 
 # 369
 
@@ -1492,7 +1492,7 @@ Tunay na ang mga nagpapalit sa kasunduan kay Allāh at mga sinumpaan nila sa kau
 
 # 371
 
-Tunay na kabilang sa kanila ay talagang isang pangkat na pumipilipit ng mga dila nila sa [pagbigkas ng] kasulatan upang mag-akala kayong iyon ay mula sa Kasulatan samantalang iyon ay hindi bahagi ng Kasulatan, na nagsasabing iyon ay mula sa ganang kay Allāh samantalang iyon ay hindi mula sa ganang kay Allāh, at na nagsasabi hinggil kay Allāh ng kasinungalingan samantalang sila ay nakaaalam.
+Tunay na kabilang sa kanila ay talagang isang pangkat na pumipilipit ng mga dila nila sa \[pagbigkas ng\] kasulatan upang mag-akala kayong iyon ay mula sa Kasulatan samantalang iyon ay hindi bahagi ng Kasulatan, na nagsasabing iyon ay mula sa ganang kay Allāh samantalang iyon ay hindi mula sa ganang kay Allāh, at na nagsasabi hinggil kay Allāh ng kasinungalingan samantalang sila ay nakaaalam.
 
 # 372
 
@@ -1504,7 +1504,7 @@ ni mag-uutos ito sa inyo na gumawa kayo sa mga anghel at mga propeta bilang mga 
 
 # 374
 
-[Banggitin] noong gumawa si Allāh ng kasunduan sa mga propeta, [na nagsasaad]: "Talagang ang anumang ibinigay Ko sa inyo na kasulatan at karunungan, pagkatapos may dumating sa inyo na isang Sugo na tagapagpatotoo sa taglay ninyo, ay talagang sasampalataya nga kayo rito at talagang mag-aadya nga kayo rito." Nagsabi Siya: "Kumilala ba kayo at tumanggap ba kayo kaugnay roon sa kasunduan sa Akin?" Nagsabi sila: "Kumilala kami." Nagsabi Siya: "Kaya sumaksi kayo, at Ako ay kasama sa inyo kabilang sa mga tagasaksi."
+\[Banggitin\] noong gumawa si Allāh ng kasunduan sa mga propeta, \[na nagsasaad\]: "Talagang ang anumang ibinigay Ko sa inyo na kasulatan at karunungan, pagkatapos may dumating sa inyo na isang Sugo na tagapagpatotoo sa taglay ninyo, ay talagang sasampalataya nga kayo rito at talagang mag-aadya nga kayo rito." Nagsabi Siya: "Kumilala ba kayo at tumanggap ba kayo kaugnay roon sa kasunduan sa Akin?" Nagsabi sila: "Kumilala kami." Nagsabi Siya: "Kaya sumaksi kayo, at Ako ay kasama sa inyo kabilang sa mga tagasaksi."
 
 # 375
 
@@ -1560,15 +1560,15 @@ Kaya ang sinumang gumawa-gawa laban kay Allāh ng kasinungalingan nang matapos n
 
 # 388
 
-Sabihin mo: "Nagtotoo si Allāh kaya sundin ninyo ang kapaniwalaan ni Abraham bilang makatotoo at hindi siya noon kabilang sa mga tagapagtambal [kay Allāh]."
+Sabihin mo: "Nagtotoo si Allāh kaya sundin ninyo ang kapaniwalaan ni Abraham bilang makatotoo at hindi siya noon kabilang sa mga tagapagtambal \[kay Allāh\]."
 
 # 389
 
-Tunay na ang unang Bahay [sambahan] na itinalaga para sa mga tao ay talagang ang nasa Bakkah bilang pinagpala at patnubay para sa mga nilalang.
+Tunay na ang unang Bahay \[sambahan\] na itinalaga para sa mga tao ay talagang ang nasa Bakkah bilang pinagpala at patnubay para sa mga nilalang.
 
 # 390
 
-Dito ay may mga tandang malinaw [gaya ng] Pinagtayuan ni Abraham. Ang sinumang pumasok dito ay magiging matiwasay. Sa kay Allāh tungkulin ng mga tao ang pagsagawa ng ḥajj sa Bahay: ng sinumang nakayang [magkaroon] papunta roon ng isang daan. Ang sinumang tumangging sumasampalataya, tunay na si Allāh ay Walang-pangangailangan sa mga Nilalalang.
+Dito ay may mga tandang malinaw \[gaya ng\] Pinagtayuan ni Abraham. Ang sinumang pumasok dito ay magiging matiwasay. Sa kay Allāh tungkulin ng mga tao ang pagsagawa ng ḥajj sa Bahay: ng sinumang nakayang \[magkaroon\] papunta roon ng isang daan. Ang sinumang tumangging sumasampalataya, tunay na si Allāh ay Walang-pangangailangan sa mga Nilalalang.
 
 # 391
 
@@ -1604,7 +1604,7 @@ Huwag kayong maging gaya ng mga nagkahati-hati at nagkaiba-iba nang matapos na d
 
 # 399
 
-Sa Araw na may mamumuting mga mukha at mangingitim na mga mukha. Kaya tungkol sa mangingitim ang mga mukha nila, [tatanungin sila]: "Tumanggi ba kayong sumampalataya matapos ng pagsampalataya ninyo? Kaya lasapin ninyo ang pagdurusa dahil kayo noon ay tumatangging sumampalataya."
+Sa Araw na may mamumuting mga mukha at mangingitim na mga mukha. Kaya tungkol sa mangingitim ang mga mukha nila, \[tatanungin sila\]: "Tumanggi ba kayong sumampalataya matapos ng pagsampalataya ninyo? Kaya lasapin ninyo ang pagdurusa dahil kayo noon ay tumatangging sumampalataya."
 
 # 400
 
@@ -1624,7 +1624,7 @@ Kayo ay pinakamabuting kalipunang pinalabas para sa mga tao. Nag-uutos kayo ng n
 
 # 404
 
-Hindi sila makapipinsala sa inyo maliban ng isang pananakit. Kung kakalaban sila sa inyo ay maghaharap sila sa inyo ng mga likod [nila], pagkatapos hindi sila iaadya.
+Hindi sila makapipinsala sa inyo maliban ng isang pananakit. Kung kakalaban sila sa inyo ay maghaharap sila sa inyo ng mga likod \[nila\], pagkatapos hindi sila iaadya.
 
 # 405
 
@@ -1664,11 +1664,11 @@ Kung may sumasaling sa inyo na isang maganda ay magpapasama ng loob sa kanila it
 
 # 414
 
-[Banggitin] noong umalis ka sa umaga mula sa mag-anak mo, na nagtatalaga sa mga mananampalataya ng mga himpilan para sa labanan. Si Allāh ay Madinigin, Maalam.
+\[Banggitin\] noong umalis ka sa umaga mula sa mag-anak mo, na nagtatalaga sa mga mananampalataya ng mga himpilan para sa labanan. Si Allāh ay Madinigin, Maalam.
 
 # 415
 
-[Banggitin] noong may napipintong dalawang pangkat kabilang sa inyo na mapanghinaan ng loob samantalang si Allāh ay Katangkilik ng dalawang ito. Sa kay Allāh ay manalig ang mga mananampalataya.
+\[Banggitin\] noong may napipintong dalawang pangkat kabilang sa inyo na mapanghinaan ng loob samantalang si Allāh ay Katangkilik ng dalawang ito. Sa kay Allāh ay manalig ang mga mananampalataya.
 
 # 416
 
@@ -1676,7 +1676,7 @@ Talaga ngang nag-adya sa inyo si Allāh sa Badr habang kayo ay mga kaaba-aba; ka
 
 # 417
 
-[Banggitin] noong nagsasabi ka sa mga sumasampalataya: "Hindi ba sasapat sa inyo na umayuda sa inyo ang Panginoon ninyo ng tatlong libong anghel, na mga pinabababa?
+\[Banggitin\] noong nagsasabi ka sa mga sumasampalataya: "Hindi ba sasapat sa inyo na umayuda sa inyo ang Panginoon ninyo ng tatlong libong anghel, na mga pinabababa?
 
 # 418
 
@@ -1740,7 +1740,7 @@ Huwag kayong panghinaan ng loob at huwag kayong malungkot, at kayo ay ang mga pi
 
 # 433
 
-Kung may sumaling sa inyo na isang sugat ay may sumaling nga sa mga [ibang] tao na tulad nito. Ang mga araw na iyon, nagpapalipat-lipat Kami sa mga iyon sa pagitan ng mga tao at upang maghayag si Allāh sa mga sumampalataya at gumawa Siya mula sa inyo ng mga martir – si Allāh ay hindi umiibig sa mga tagalabag sa katarungan -
+Kung may sumaling sa inyo na isang sugat ay may sumaling nga sa mga \[ibang\] tao na tulad nito. Ang mga araw na iyon, nagpapalipat-lipat Kami sa mga iyon sa pagitan ng mga tao at upang maghayag si Allāh sa mga sumampalataya at gumawa Siya mula sa inyo ng mga martir – si Allāh ay hindi umiibig sa mga tagalabag sa katarungan -
 
 # 434
 
@@ -1792,11 +1792,11 @@ Talaga ngang nagtotoo sa inyo si Allāh ng pangako Niya noong kumikitil kayo sa 
 
 # 446
 
-[Banggitin] noong umakyat kayo habang hindi kayo lumilingon sa isa samantalang ang Sugo ay nananawagan sa likuran ninyo. Kaya gumantimpala sa inyo si Allāh ng hapis sa hapis upang hindi kayo malungkot sa anumang nakaalpas sa inyo ni sa anumang tumama sa inyo. Si Allāh ay Mapagbatid sa anumang ginagawa ninyo.
+\[Banggitin\] noong umakyat kayo habang hindi kayo lumilingon sa isa samantalang ang Sugo ay nananawagan sa likuran ninyo. Kaya gumantimpala sa inyo si Allāh ng hapis sa hapis upang hindi kayo malungkot sa anumang nakaalpas sa inyo ni sa anumang tumama sa inyo. Si Allāh ay Mapagbatid sa anumang ginagawa ninyo.
 
 # 447
 
-Pagkatapos nagpababa Siya sa inyo, nang matapos ng hapis, ng isang katiwasayan na isang antok na bumabalot sa isang pangkatin kabilang sa inyo samantalang may isang pangkatin naman na nagpabalisa nga sa kanila ang mga sarili nila, na nagpapalagay kay Allāh ng hindi totoo, na pagpapalagay ng Panahon ng Kamangmangan. Nagsasabi sila: "May ukol kaya sa atin mula sa usapin na anuman?" Sabihin mo: "Tunay na ang usapin sa kabuuan nito ay ukol kay Allāh." Nagkukubli sila sa mga sarili nila ng hindi nila inilalantad sa iyo. Nagsasabi sila: "Kung sakaling may ukol sa amin mula sa usapin na anuman ay hindi sana kami napatayan dito." Sabihin mo: "Kung sakaling kayo noon ay nasa mga bahay ninyo ay talaga sanang natampok ang mga itinakda sa kanila ang pagkapatay tungo sa mga pagpapaslangan sa kanila." [Ito ay] upang sumubok si Allāh sa nasa mga dibdib ninyo at upang sumala Siya sa nasa mga puso ninyo. Si Allāh ay Maalam sa nilalaman ng mga dibdib.
+Pagkatapos nagpababa Siya sa inyo, nang matapos ng hapis, ng isang katiwasayan na isang antok na bumabalot sa isang pangkatin kabilang sa inyo samantalang may isang pangkatin naman na nagpabalisa nga sa kanila ang mga sarili nila, na nagpapalagay kay Allāh ng hindi totoo, na pagpapalagay ng Panahon ng Kamangmangan. Nagsasabi sila: "May ukol kaya sa atin mula sa usapin na anuman?" Sabihin mo: "Tunay na ang usapin sa kabuuan nito ay ukol kay Allāh." Nagkukubli sila sa mga sarili nila ng hindi nila inilalantad sa iyo. Nagsasabi sila: "Kung sakaling may ukol sa amin mula sa usapin na anuman ay hindi sana kami napatayan dito." Sabihin mo: "Kung sakaling kayo noon ay nasa mga bahay ninyo ay talaga sanang natampok ang mga itinakda sa kanila ang pagkapatay tungo sa mga pagpapaslangan sa kanila." \[Ito ay\] upang sumubok si Allāh sa nasa mga dibdib ninyo at upang sumala Siya sa nasa mga puso ninyo. Si Allāh ay Maalam sa nilalaman ng mga dibdib.
 
 # 448
 
@@ -1824,7 +1824,7 @@ Kung mag-aadya sa inyo si Allāh ay walang dadaig sa inyo. Kung magtatatwa Siya 
 
 # 454
 
-Hindi naging ukol sa isang propeta na mang-umit. Ang sinumang mang-uumit ay maghahatid siya ng inumit niya sa Araw ng Pagbangon. Pagkatapos lulubus-lubusin ang bawat kaluluwa sa [kabayaran ng] anumang nakamit nito at sila ay hindi lalabagin sa katarungan.
+Hindi naging ukol sa isang propeta na mang-umit. Ang sinumang mang-uumit ay maghahatid siya ng inumit niya sa Araw ng Pagbangon. Pagkatapos lulubus-lubusin ang bawat kaluluwa sa \[kabayaran ng\] anumang nakamit nito at sila ay hindi lalabagin sa katarungan.
 
 # 455
 
@@ -1852,7 +1852,7 @@ at upang maghayag Siya sa mga nagpaimbabaw. Sinabi sa kanila: "Halikayo, makipag
 
 # 461
 
-[Sila] ang mga nagsabi sa mga kapatid nila samantalang namalagi sila: "Kung sakaling tumalima sila sa amin ay hindi sana sila napatay." Sabihin mo: "Kaya magtaboy kayo palayo sa mga sarili ninyo ng kamatayan, kung kayo ay mga tapat."
+\[Sila\] ang mga nagsabi sa mga kapatid nila samantalang namalagi sila: "Kung sakaling tumalima sila sa amin ay hindi sana sila napatay." Sabihin mo: "Kaya magtaboy kayo palayo sa mga sarili ninyo ng kamatayan, kung kayo ay mga tapat."
 
 # 462
 
@@ -1872,7 +1872,7 @@ na mga tumugon kay Allāh at sa Sugo nang matapos na tumama sa kanila ang sugat.
 
 # 466
 
-[Sila] ang mga nagsabi sa kanila ang mga tao: "Tunay na ang mga tao ay nagtipon sa inyo kaya matakot kayo sa kanila." Ngunit nakadagdag ito sa kanila ng pananampalataya at nagsabi sila: "Kasapatan sa amin si Allāh at kay inam ang Pinananaligan."
+\[Sila\] ang mga nagsabi sa kanila ang mga tao: "Tunay na ang mga tao ay nagtipon sa inyo kaya matakot kayo sa kanila." Ngunit nakadagdag ito sa kanila ng pananampalataya at nagsabi sila: "Kasapatan sa amin si Allāh at kay inam ang Pinananaligan."
 
 # 467
 
@@ -1912,7 +1912,7 @@ Iyon ay dahil sa ipinauna ng mga kamay ninyo at na si Allāh ay hindi palalabag 
 
 # 476
 
-[Sila] ang mga nagsabi: "Tunay na si Allāh ay naghabilin sa amin na hindi kami maniwala sa isang sugo hanggang sa maghatid ito sa amin ng isang handog na kakainin ng apoy." Sabihin mo: "May naghatid na sa inyo na mga sugo bago ko pa ng mga malinaw na patunay at ng sinabi ninyo, kaya bakit kayo pumatay sa kanila kung kayo ay mga tapat?"
+\[Sila\] ang mga nagsabi: "Tunay na si Allāh ay naghabilin sa amin na hindi kami maniwala sa isang sugo hanggang sa maghatid ito sa amin ng isang handog na kakainin ng apoy." Sabihin mo: "May naghatid na sa inyo na mga sugo bago ko pa ng mga malinaw na patunay at ng sinabi ninyo, kaya bakit kayo pumatay sa kanila kung kayo ay mga tapat?"
 
 # 477
 
@@ -1924,11 +1924,11 @@ Bawat kaluluwa ay lalasap ng kamatayan. Lulubus-lubusin lamang kayo sa mga pabuy
 
 # 479
 
-Talagang susubukin nga kayo sa mga yaman ninyo at mga sarili ninyo at talaga ngang makaririnig kayo mula sa mga binigyan ng kasulatan bago pa ninyo at mula sa mga nagtambal [kay Allāh] ng maraming pananakit. Kung magtitiis kayo at mangingilag kayong magkasala, tunay na iyon ay kabilang sa pinagpapasyahan sa mga usapin.
+Talagang susubukin nga kayo sa mga yaman ninyo at mga sarili ninyo at talaga ngang makaririnig kayo mula sa mga binigyan ng kasulatan bago pa ninyo at mula sa mga nagtambal \[kay Allāh\] ng maraming pananakit. Kung magtitiis kayo at mangingilag kayong magkasala, tunay na iyon ay kabilang sa pinagpapasyahan sa mga usapin.
 
 # 480
 
-[Banggitin] noong gumawa si Allāh ng kasunduan sa mga binigyan ng kasulatan, [na nagsasaad]: "Talagang lilinawin nga ninyo ito sa mga tao at hindi kayo magkukubli nito." Ngunit itinapon nila ito sa hulihan ng mga likuran nila at bumili sila sa pamamagitan nito ng kaunting halaga kaya kay saklap ang binibili nila!
+\[Banggitin\] noong gumawa si Allāh ng kasunduan sa mga binigyan ng kasulatan, \[na nagsasaad\]: "Talagang lilinawin nga ninyo ito sa mga tao at hindi kayo magkukubli nito." Ngunit itinapon nila ito sa hulihan ng mga likuran nila at bumili sila sa pamamagitan nito ng kaunting halaga kaya kay saklap ang binibili nila!
 
 # 481
 
@@ -1944,7 +1944,7 @@ Tunay na sa pagkalikha sa mga langit at lupa at pagsasalit-salitan ng gabi at ma
 
 # 484
 
-na mga umaalaala kay Allāh nang nakatayo o nakaupo o nakahiga sa mga tagiliran nila at nag-iisip-isip sa pagkalikha sa mga langit at lupa, [na nagsasabi]: "Panginoon namin, hindi Ka lumikha nito nang walang-saysay. Kaluwalhatian sa Iyo, kaya magsanggalang Ka sa amin sa pagdurusa sa Apoy.
+na mga umaalaala kay Allāh nang nakatayo o nakaupo o nakahiga sa mga tagiliran nila at nag-iisip-isip sa pagkalikha sa mga langit at lupa, \[na nagsasabi\]: "Panginoon namin, hindi Ka lumikha nito nang walang-saysay. Kaluwalhatian sa Iyo, kaya magsanggalang Ka sa amin sa pagdurusa sa Apoy.
 
 # 485
 
@@ -1952,7 +1952,7 @@ Panginoon namin, tunay na Ikaw, sa sinumang ipapasok Mo sa Apoy, ay nagpahiya ng
 
 # 486
 
-Panginoon namin, tunay na kami ay duminig sa isang tagapanawagang nananawagan para sa pananampalataya, na [nagsasabi]: "Sumampalataya kayo sa Panginoon ninyo," kaya sumampalataya kami. Panginoon namin, kaya magpatawad Ka sa amin sa mga pagkakasala namin, magtakip-sala Ka sa amin sa mga masagwang gawa namin, at magpapanaw Ka sa amin kasama sa mga nagpapakabuti.
+Panginoon namin, tunay na kami ay duminig sa isang tagapanawagang nananawagan para sa pananampalataya, na \[nagsasabi\]: "Sumampalataya kayo sa Panginoon ninyo," kaya sumampalataya kami. Panginoon namin, kaya magpatawad Ka sa amin sa mga pagkakasala namin, magtakip-sala Ka sa amin sa mga masagwang gawa namin, at magpapanaw Ka sa amin kasama sa mga nagpapakabuti.
 
 # 487
 
@@ -1992,7 +1992,7 @@ Ibigay ninyo sa mga ulila ang mga yaman nila. Huwag ninyong ipalit ang karima-ri
 
 # 496
 
-Kung nangamba kayo na hindi kayo magpakamakatarungan sa mga babaing ulila ay mag-asawa kayo ng naging kaaya-aya para sa inyo na mga babae: dalawahan o tatluhan o apatan. Ngunit kung nangamba kayo na hindi kayo maging makatarungan ay [mag-asawa ng] isa o anumang minay-ari ng mga kanang kamay ninyo. Iyon ay pinakamalapit na hindi kayo mang-api.
+Kung nangamba kayo na hindi kayo magpakamakatarungan sa mga babaing ulila ay mag-asawa kayo ng naging kaaya-aya para sa inyo na mga babae: dalawahan o tatluhan o apatan. Ngunit kung nangamba kayo na hindi kayo maging makatarungan ay \[mag-asawa ng\] isa o anumang minay-ari ng mga kanang kamay ninyo. Iyon ay pinakamalapit na hindi kayo mang-api.
 
 # 497
 
@@ -2004,7 +2004,7 @@ Huwag kayong magbigay sa mga hunghang ng mga yaman ninyo na ginawa ni Allāh par
 
 # 499
 
-Subukin ninyo ang mga ulila hanggang sa nang umabot sila sa pag-aasawa. Kaya kung nakapansin kayo mula sa kanila ng isang pagkagabay ay ibigay ninyo sa kanila ang mga yaman nila. Huwag kayong gumamit ng mga ito sa pagpapakalabis at pagdadali-dali na baka lumaki sila. Ang sinumang naging mayaman ay magpigil [sa pagpapabayad] at ang sinumang naging maralita ay kumuha ayon sa makatwiran. Kaya kapag nag-abot kayo sa kanila ng mga yaman nila ay magpasaksi kayo sa kanila. Sumapat si Allāh bilang Mapagtuos.
+Subukin ninyo ang mga ulila hanggang sa nang umabot sila sa pag-aasawa. Kaya kung nakapansin kayo mula sa kanila ng isang pagkagabay ay ibigay ninyo sa kanila ang mga yaman nila. Huwag kayong gumamit ng mga ito sa pagpapakalabis at pagdadali-dali na baka lumaki sila. Ang sinumang naging mayaman ay magpigil \[sa pagpapabayad\] at ang sinumang naging maralita ay kumuha ayon sa makatwiran. Kaya kapag nag-abot kayo sa kanila ng mga yaman nila ay magpasaksi kayo sa kanila. Sumapat si Allāh bilang Mapagtuos.
 
 # 500
 
@@ -2024,11 +2024,11 @@ Tunay na ang mga kumakain ng mga yaman ng mga ulila dala ng paglabag sa katarung
 
 # 504
 
-Nagsasatagubilin sa inyo si Allāh hinggil sa mga anak ninyo na ukol sa lalaki ay katumbas ng bahagi ng dalawang babae. Ngunit kung sila ay mga babaing higit sa dalawa, ukol sa kanila ay dalawang katlo ng naiwan niya; at kung ito ay nag-iisang babae, ukol dito ay kalahati. Ukol sa dalawang magulang niya, ukol sa bawat isa sa kanilang dalawa ay ang ikaanim mula sa naiwan niya kung nagkaroon siya ng isang anak. Ngunit kung hindi siya nagkaroon ng anak at nagmana sa kanya ang dalawang magulang niya, ukol sa ina niya ang ikatlo. Ngunit kung nagkaroon siya ng mga kapatid, ukol sa ina niya ang ikaanim nang matapos ng [pagkaltas ng] isang tagubiling isinasatagubilin niya o ng [pambayad sa] isang utang. Ang mga magulang ninyo at ang mga anak ninyo ay hindi kayo nakababatid kung alin sa kanila ang higit na malapit para sa inyo sa pakinabang. [Ang paghahating ito ay] isang tungkulin mula kay Allāh. Tunay na si Allāh ay laging Maalam, Marunong.
+Nagsasatagubilin sa inyo si Allāh hinggil sa mga anak ninyo na ukol sa lalaki ay katumbas ng bahagi ng dalawang babae. Ngunit kung sila ay mga babaing higit sa dalawa, ukol sa kanila ay dalawang katlo ng naiwan niya; at kung ito ay nag-iisang babae, ukol dito ay kalahati. Ukol sa dalawang magulang niya, ukol sa bawat isa sa kanilang dalawa ay ang ikaanim mula sa naiwan niya kung nagkaroon siya ng isang anak. Ngunit kung hindi siya nagkaroon ng anak at nagmana sa kanya ang dalawang magulang niya, ukol sa ina niya ang ikatlo. Ngunit kung nagkaroon siya ng mga kapatid, ukol sa ina niya ang ikaanim nang matapos ng \[pagkaltas ng\] isang tagubiling isinasatagubilin niya o ng \[pambayad sa\] isang utang. Ang mga magulang ninyo at ang mga anak ninyo ay hindi kayo nakababatid kung alin sa kanila ang higit na malapit para sa inyo sa pakinabang. \[Ang paghahating ito ay\] isang tungkulin mula kay Allāh. Tunay na si Allāh ay laging Maalam, Marunong.
 
 # 505
 
-Ukol sa inyo ang kalahati ng naiwan ng mga maybahay ninyo kung hindi sila nagkaroon ng anak ngunit kung nagkaroon sila ng anak ay ukol sa inyo ang ikaapat mula sa naiwan nila nang matapos ng [pagkaltas ng] isang tagubiling isinasatagubilin nila o ng [pambayad sa] isang utang. Ukol sa kanila ang ikaapat mula sa naiwan ninyo kung hindi kayo nagkaroon ng anak ngunit kung nagkaroon kayo ng anak ay ukol sa kanila ang ikawalo mula sa naiwan ninyo nang matapos ng [pagkaltas ng] ng isang tagubiling isinasatagubilin ninyo o ng [pambayad sa] isang utang. Kung ang isang lalaki o isang babaing nagpapamana ay walang anak ni magulang at mayroon siyang isang kapatid na lalaki o isang kapatid na babae, ukol sa bawat isa sa dalawa ang ikaanim; ngunit kung sila ay higit kaysa roon, sila ay magkakahati sa ikatlo nang matapos ng [pagkaltas ng] isang tagubiling isinasatagubilin o ng [pambayad sa] isang utang, nang hindi pumipinsala, bilang tagubilin mula kay Allāh. Si Allāh ay Maalam, Matimpiin.
+Ukol sa inyo ang kalahati ng naiwan ng mga maybahay ninyo kung hindi sila nagkaroon ng anak ngunit kung nagkaroon sila ng anak ay ukol sa inyo ang ikaapat mula sa naiwan nila nang matapos ng \[pagkaltas ng\] isang tagubiling isinasatagubilin nila o ng \[pambayad sa\] isang utang. Ukol sa kanila ang ikaapat mula sa naiwan ninyo kung hindi kayo nagkaroon ng anak ngunit kung nagkaroon kayo ng anak ay ukol sa kanila ang ikawalo mula sa naiwan ninyo nang matapos ng \[pagkaltas ng\] ng isang tagubiling isinasatagubilin ninyo o ng \[pambayad sa\] isang utang. Kung ang isang lalaki o isang babaing nagpapamana ay walang anak ni magulang at mayroon siyang isang kapatid na lalaki o isang kapatid na babae, ukol sa bawat isa sa dalawa ang ikaanim; ngunit kung sila ay higit kaysa roon, sila ay magkakahati sa ikatlo nang matapos ng \[pagkaltas ng\] isang tagubiling isinasatagubilin o ng \[pambayad sa\] isang utang, nang hindi pumipinsala, bilang tagubilin mula kay Allāh. Si Allāh ay Maalam, Matimpiin.
 
 # 506
 
@@ -2044,7 +2044,7 @@ Ang mga gumagawa ng mahalay kabilang sa kababaihan ninyo ay magpasaksi kayo laba
 
 # 509
 
-Ang dalawang gumagawa nitong [mahalay] kabilang sa inyo ay saktan ninyo silang dalawa. Kung nagbalik-loob silang dalawa at nagsaayos silang dalawa ay iwan ninyo silang dalawa. Tunay na si Allāh ay laging Palatanggap ng pagbabalik-loob, Maawain.
+Ang dalawang gumagawa nitong \[mahalay\] kabilang sa inyo ay saktan ninyo silang dalawa. Kung nagbalik-loob silang dalawa at nagsaayos silang dalawa ay iwan ninyo silang dalawa. Tunay na si Allāh ay laging Palatanggap ng pagbabalik-loob, Maawain.
 
 # 510
 
@@ -2056,11 +2056,11 @@ Ang pagtanggap ng pagbabalik-loob ay hindi ukol sa mga gumagawa ng mga masagwang
 
 # 512
 
-O mga sumampalataya, hindi ipinahihintulot para sa inyo na magmana kayo ng mga babae nang sapilitan ni humadlang kayo sa kanila [sa pag-aasawa] upang makakuha kayo ng ilan sa ibinigay ninyo sa kanila, maliban na gumawa sila ng isang mahalay na nagliliwanag. Makitungo kayo sa kanila ayon sa nakabubuti sapagkat kung nasuklam kayo sa kanila ay marahil nasusuklam kayo sa isang bagay at gumagawa naman si Allāh dito ng maraming kabutihan.
+O mga sumampalataya, hindi ipinahihintulot para sa inyo na magmana kayo ng mga babae nang sapilitan ni humadlang kayo sa kanila \[sa pag-aasawa\] upang makakuha kayo ng ilan sa ibinigay ninyo sa kanila, maliban na gumawa sila ng isang mahalay na nagliliwanag. Makitungo kayo sa kanila ayon sa nakabubuti sapagkat kung nasuklam kayo sa kanila ay marahil nasusuklam kayo sa isang bagay at gumagawa naman si Allāh dito ng maraming kabutihan.
 
 # 513
 
-Kung nagnais kayo ng pagpapalit ng isang maybahay kapalit ng [ibang] maybahay at nagbigay kayo sa isa sa kanila ng isang bunton [ng regalo] ay huwag kayong kumuha mula rito ng anuman. Kukuha ba kayo nito bilang paninirang-puri at kasalanang malinaw?
+Kung nagnais kayo ng pagpapalit ng isang maybahay kapalit ng \[ibang\] maybahay at nagbigay kayo sa isa sa kanila ng isang bunton \[ng regalo\] ay huwag kayong kumuha mula rito ng anuman. Kukuha ba kayo nito bilang paninirang-puri at kasalanang malinaw?
 
 # 514
 
@@ -2072,17 +2072,17 @@ Huwag kayong mag-asawa ng mga babaing napangasawa ng mga ama ninyo, maliban sa n
 
 # 516
 
-Ipinagbawal sa inyo [na mapangasawa] ang mga ina ninyo, ang mga babaing anak ninyo, ang mga babaing kapatid ninyo, ang mga tiyahin ninyo sa ama, ang mga tiyahin ninyo sa ina, ang mga babaing anak ng lalaking kapatid ninyo, ang mga babaing anak ng babaing kapatid ninyo, ang mga ina ninyo na nagpasuso sa inyo, ang mga babaing kapatid ninyo sa pagpapasuso, ang mga ina ng mga maybahay ninyo, ang mga babaing anak na panguman ninyong nasa ilalim ng pangangalaga ninyo mula sa mga maybahay ninyong nakipagtalik kayo sa kanila, subalit kung hindi kayo nakipagtalik sa kanila ay walang maisisisi sa iyo, ang mga maybahay ng mga lalaking anak ninyo mula sa mga gulugod ninyo, at na pagsabayin ninyo ang dalawang magkapatid na babae, maliban sa nagdaan na. Tunay na si Allāh ay laging Mapagpatawad, Maawain.[^*]
+Ipinagbawal sa inyo \[na mapangasawa\] ang mga ina ninyo, ang mga babaing anak ninyo, ang mga babaing kapatid ninyo, ang mga tiyahin ninyo sa ama, ang mga tiyahin ninyo sa ina, ang mga babaing anak ng lalaking kapatid ninyo, ang mga babaing anak ng babaing kapatid ninyo, ang mga ina ninyo na nagpasuso sa inyo, ang mga babaing kapatid ninyo sa pagpapasuso, ang mga ina ng mga maybahay ninyo, ang mga babaing anak na panguman ninyong nasa ilalim ng pangangalaga ninyo mula sa mga maybahay ninyong nakipagtalik kayo sa kanila, subalit kung hindi kayo nakipagtalik sa kanila ay walang maisisisi sa iyo, ang mga maybahay ng mga lalaking anak ninyo mula sa mga gulugod ninyo, at na pagsabayin ninyo ang dalawang magkapatid na babae, maliban sa nagdaan na. Tunay na si Allāh ay laging Mapagpatawad, Maawain.[^*]
 
 [^*]: Kung ang pagpapasuso ay kulang sa limang beses, hindi magkakabisa ang pagbabawal sa pag-aasawa (Ibnu Kathīr, Tomo 2, Numero 416).
 
 # 517
 
-[Ipinagbawal din] ang mga nakapag-asawa kabilang sa mga babae maliban sa minay-ari ng mga kanang kamay ninyo, bilang pagtatakda ni Allāh para sa inyo. Ipinahintulot sa inyo ang anumang iba pa roon, [sa kundisyon] na maghangad kayo kapalit ng [bigay-kaya mula sa] mga yaman ninyo bilang mga nanananggalang sa pangangalunya hindi mga nangangalunya. Ang nagpakaligaya kayo kabilang sa kanila ay magbigay kayo sa kanila ng mga pabuya sa kanila bilang tungkuling regalo. Walang maisisisi sa inyo kaugnay sa nagkaluguran kayo nang matapos ng [pagtatakda ng regalong] tungkulin. Tunay na si Allāh ay laging Maalam, Marunong.
+\[Ipinagbawal din\] ang mga nakapag-asawa kabilang sa mga babae maliban sa minay-ari ng mga kanang kamay ninyo, bilang pagtatakda ni Allāh para sa inyo. Ipinahintulot sa inyo ang anumang iba pa roon, \[sa kundisyon\] na maghangad kayo kapalit ng \[bigay-kaya mula sa\] mga yaman ninyo bilang mga nanananggalang sa pangangalunya hindi mga nangangalunya. Ang nagpakaligaya kayo kabilang sa kanila ay magbigay kayo sa kanila ng mga pabuya sa kanila bilang tungkuling regalo. Walang maisisisi sa inyo kaugnay sa nagkaluguran kayo nang matapos ng \[pagtatakda ng regalong\] tungkulin. Tunay na si Allāh ay laging Maalam, Marunong.
 
 # 518
 
-Ang sinumang hindi nakaya kabilang sa inyo ng kaparaanan na mag-asawa ng mga malayang babaing mananampalataya ay [mag-asawa] mula sa minay-ari ng mga kanang kamay ninyo kabilang sa mga babaing alipin ninyong mga mananampalataya. Si Allāh ay higit na maalam sa pananampalataya ninyo. Kayo ay kabilang sa isa’t isa. Kaya mag-asawa kayo sa kanila – ayon sa pahintulot ng mga amo nila at magbigay kayo sa kanila ng mga pabuya sa kanila ayon sa makatwiran – na mga pinasasanggalang sa pangangalunya na hindi mga nangangalunya ni mga gumagawa ng mga kalaguyo. Ngunit kapag pinasanggalang sila [sa pag-aasawa] at kung gumawa sila ng isang mahalay ay kailangan sa kanila ang kalahati ng kailangan sa mga babaing malaya mula sa pagdurusa. Iyon ay ukol sa sinumang natakot sa kalunya kabilang sa inyo. Ang magtiis kayo ay higit na mabuti para sa inyo. Si Allāh ay Mapagpatawad, Maawain.
+Ang sinumang hindi nakaya kabilang sa inyo ng kaparaanan na mag-asawa ng mga malayang babaing mananampalataya ay \[mag-asawa\] mula sa minay-ari ng mga kanang kamay ninyo kabilang sa mga babaing alipin ninyong mga mananampalataya. Si Allāh ay higit na maalam sa pananampalataya ninyo. Kayo ay kabilang sa isa’t isa. Kaya mag-asawa kayo sa kanila – ayon sa pahintulot ng mga amo nila at magbigay kayo sa kanila ng mga pabuya sa kanila ayon sa makatwiran – na mga pinasasanggalang sa pangangalunya na hindi mga nangangalunya ni mga gumagawa ng mga kalaguyo. Ngunit kapag pinasanggalang sila \[sa pag-aasawa\] at kung gumawa sila ng isang mahalay ay kailangan sa kanila ang kalahati ng kailangan sa mga babaing malaya mula sa pagdurusa. Iyon ay ukol sa sinumang natakot sa kalunya kabilang sa inyo. Ang magtiis kayo ay higit na mabuti para sa inyo. Si Allāh ay Mapagpatawad, Maawain.
 
 # 519
 
@@ -2118,7 +2118,7 @@ Para sa lahat ay gumawa Kami ng mga tagapagmana mula sa naiwan ng mga magulang a
 
 # 527
 
-Ang mga lalaki ay mga tagapagpanatili ng mga babae dahil nagtangi si Allāh sa iba sa kanila higit sa iba at dahil gumugol sila mula sa mga yaman nila. Kaya ang mga maayos na babae ay mga masunurin, mga tagapag-ingat sa pagkaliban [ng mga asawa] sa iningatan ni Allāh. Ang mga [maybahay na] nangangamba kayo sa kapalaluan nila ay pangaralan ninyo sila, iwan ninyo sila sa mga higaan [kung nagpupumilit], at paluin ninyo sila [kung tumanggi pa]; ngunit kung tumalima sila sa inyo ay huwag kayong maghanap laban sa kanila ng isang paraan. Tunay na si Allāh ay laging Mataas, Malaki.
+Ang mga lalaki ay mga tagapagpanatili ng mga babae dahil nagtangi si Allāh sa iba sa kanila higit sa iba at dahil gumugol sila mula sa mga yaman nila. Kaya ang mga maayos na babae ay mga masunurin, mga tagapag-ingat sa pagkaliban \[ng mga asawa\] sa iningatan ni Allāh. Ang mga \[maybahay na\] nangangamba kayo sa kapalaluan nila ay pangaralan ninyo sila, iwan ninyo sila sa mga higaan \[kung nagpupumilit\], at paluin ninyo sila \[kung tumanggi pa\]; ngunit kung tumalima sila sa inyo ay huwag kayong maghanap laban sa kanila ng isang paraan. Tunay na si Allāh ay laging Mataas, Malaki.
 
 # 528
 
@@ -2126,23 +2126,23 @@ Kung nangamba kayo sa isang hidwaan sa pagitan nilang dalawa ay magpadala kayo n
 
 # 529
 
-Sumamba kayo Allāh at huwag kayong magtambal sa Kanya ng anuman. Sa mga magulang ay [mag-ukol ng] paggawa ng maganda, at sa may pagkakamag-anak, mga ulila, mga dukha, kapit-bahay na may pagkakamag-anak, kapit-bahay na malayo, kasamahan sa tabi, kinapos sa daan, at minay-ari ng mga kanang kamay ninyo. Tunay na si Allāh ay hindi umiibig sa sinumang hambog na mayabang.
+Sumamba kayo Allāh at huwag kayong magtambal sa Kanya ng anuman. Sa mga magulang ay \[mag-ukol ng\] paggawa ng maganda, at sa may pagkakamag-anak, mga ulila, mga dukha, kapit-bahay na may pagkakamag-anak, kapit-bahay na malayo, kasamahan sa tabi, kinapos sa daan, at minay-ari ng mga kanang kamay ninyo. Tunay na si Allāh ay hindi umiibig sa sinumang hambog na mayabang.
 
 # 530
 
-[Sila] ang mga nagmamaramot, nag-uutos sa mga tao ng pagmamaramot, at nagtatago ng ibinigay sa kanila ni Allāh mula sa kabutihang-loob Niya. Naghanda para sa mga tagatangging sumampalataya ng isang pagdurusang manghahamak.
+\[Sila\] ang mga nagmamaramot, nag-uutos sa mga tao ng pagmamaramot, at nagtatago ng ibinigay sa kanila ni Allāh mula sa kabutihang-loob Niya. Naghanda para sa mga tagatangging sumampalataya ng isang pagdurusang manghahamak.
 
 # 531
 
-[Sila] ang mga gumugugol ng mga yaman nila bilang pagpapakita sa mga tao at hindi sumasampalataya kay Allāh at sa Huling Araw. Ang sinumang ang demonyo para sa kanya ay naging isang kapisan, sumagwa ito bilang kapisan.
+\[Sila\] ang mga gumugugol ng mga yaman nila bilang pagpapakita sa mga tao at hindi sumasampalataya kay Allāh at sa Huling Araw. Ang sinumang ang demonyo para sa kanya ay naging isang kapisan, sumagwa ito bilang kapisan.
 
 # 532
 
-Ano [ang pinsala] sa kanila kung sakaling sumampalataya sila kay Allāh at sa Huling Araw at gumugol sila mula sa itinustos sa kanila ni Allāh? Laging si Allāh sa kanila ay Maalam.
+Ano \[ang pinsala\] sa kanila kung sakaling sumampalataya sila kay Allāh at sa Huling Araw at gumugol sila mula sa itinustos sa kanila ni Allāh? Laging si Allāh sa kanila ay Maalam.
 
 # 533
 
-Tunay na si Allāh ay hindi lumalabag sa katarungan na kasimbigat ng isang katiting. Kung may isang magandang gawa ay pag-iibayuhin Niya ito [sa gantimpala] at magbibigay Siya mula sa taglay Niya ng isang pabuyang mabigat.
+Tunay na si Allāh ay hindi lumalabag sa katarungan na kasimbigat ng isang katiting. Kung may isang magandang gawa ay pag-iibayuhin Niya ito \[sa gantimpala\] at magbibigay Siya mula sa taglay Niya ng isang pabuyang mabigat.
 
 # 534
 
@@ -2154,7 +2154,7 @@ Sa Araw na iyon ay mag-aasam ang mga tumangging sumampalataya at sumuway sa Sugo
 
 # 536
 
-O mga sumampalataya, huwag kayong lumapit sa pagdarasal habang kayo ay mga lasing hanggang sa makaalam kayo sa sinasabi ninyo ni habang mga kailangang-maligo, malibang mga tumatawid sa landas [ng pagdarasalan], hanggang sa makapaligo kayo. Kung kayo ay mga may-sakit o nasa isang paglalakbay, o dumating ang isa sa inyo mula sa palikuran, o sumaling kayo ng mga babae at hindi kayo nakatagpo ng tubig, ay magsadya kayo sa isang lupang kaaya-aya saka humaplos kayo sa mga mukha ninyo at mga kamay ninyo. Tunay na si Allāh ay laging Mapagpaumanhin, Mapagpatawad.[^*]
+O mga sumampalataya, huwag kayong lumapit sa pagdarasal habang kayo ay mga lasing hanggang sa makaalam kayo sa sinasabi ninyo ni habang mga kailangang-maligo, malibang mga tumatawid sa landas \[ng pagdarasalan\], hanggang sa makapaligo kayo. Kung kayo ay mga may-sakit o nasa isang paglalakbay, o dumating ang isa sa inyo mula sa palikuran, o sumaling kayo ng mga babae at hindi kayo nakatagpo ng tubig, ay magsadya kayo sa isang lupang kaaya-aya saka humaplos kayo sa mga mukha ninyo at mga kamay ninyo. Tunay na si Allāh ay laging Mapagpaumanhin, Mapagpatawad.[^*]
 
 [^*]: Ang paghaplos sa mukha at mga kamay ng mga kamay na ipinagpag sa malinis na lupa ay tinatawag na tayammum. Ito ay pamalit sa wuḍu' kapag hindi maaaring gumamit ng tubig.
 
@@ -2168,9 +2168,9 @@ Si Allāh ay higit na maalam sa mga kaaway ninyo. Nakasapat si Allāh bilang Kat
 
 # 539
 
-Mayroon sa mga nagpakahudyo na naglilihis sa mga salita palayo sa mga katuturan ng mga ito at nagsasabi: "Nakinig kami at sumuway kami," "Makinig ka ng hindi pinaririnig," at "Rā`inā" bilang pagpilipit sa mga dila nila at paninirang-puri sa relihiyon. Kung sakaling sila ay nagsabi: "Nakinig kami at tumalima kami," "Makinig ka," at "Tumingin ka sa amin," talaga sanang iyon ay naging higit na mabuti para sa kanila at higit na matuwid, subalit isinumpa sila ni Allāh dahil sa kawalang-pananampalataya nila kaya hindi sila sumasampalataya malibang kaunti.[^*]
+Mayroon sa mga nagpakahudyo na naglilihis sa mga salita palayo sa mga katuturan ng mga ito at nagsasabi: "Nakinig kami at sumuway kami," "Makinig ka ng hindi pinaririnig," at "Rā\`inā" bilang pagpilipit sa mga dila nila at paninirang-puri sa relihiyon. Kung sakaling sila ay nagsabi: "Nakinig kami at tumalima kami," "Makinig ka," at "Tumingin ka sa amin," talaga sanang iyon ay naging higit na mabuti para sa kanila at higit na matuwid, subalit isinumpa sila ni Allāh dahil sa kawalang-pananampalataya nila kaya hindi sila sumasampalataya malibang kaunti.[^*]
 
-[^*]: Ang sinabi nilang "Rā`inā" ay maaaring mangahulugang mag-unawaan tayo ngunit nangangahulugan ng panlalait sa wikang Hebreo nila.
+[^*]: Ang sinabi nilang "Rā\`inā" ay maaaring mangahulugang mag-unawaan tayo ngunit nangangahulugan ng panlalait sa wikang Hebreo nila.
 
 # 540
 
@@ -2246,7 +2246,7 @@ Hindi nagsugo ng anumang sugo kundi upang talimain ito ayon sa pahintulot ni All
 
 # 558
 
-Kaya hindi, sumpa man sa Panginoon mo, hindi sila sumasampalataya hanggang sa nagpapahatol sila sa iyo sa anumang pinagtalunan sa pagitan nila, pagkatapos hindi sila nakatatagpo sa mga sarili nila ng isang pagkaasiwa sa anumang inihusga mo at nagpapasakop sila nang isang pagpapasakop [na lubos].
+Kaya hindi, sumpa man sa Panginoon mo, hindi sila sumasampalataya hanggang sa nagpapahatol sila sa iyo sa anumang pinagtalunan sa pagitan nila, pagkatapos hindi sila nakatatagpo sa mga sarili nila ng isang pagkaasiwa sa anumang inihusga mo at nagpapasakop sila nang isang pagpapasakop \[na lubos\].
 
 # 559
 
@@ -2286,7 +2286,7 @@ Kaya makipaglaban ayon sa landas ni Allāh ang mga nagbili ng buhay na pangmundo
 
 # 568
 
-Ano ang [pumipigil] sa inyo? Hindi kayo nakikipaglaban alang-alang sa landas ni Allāh at ng mga minamahina kabilang sa mga lalaki, mga babae, at mga bata, na nagsasabi: "Panginoon namin, magpalisan Ka sa amin mula sa pamayanang ito, na tagalabag sa katarungan ang mga naninirihan dito, magtalaga Ka para sa amin mula sa ganang Iyo ng isang katangkilik, at magtalaga Ka para sa amin mula sa ganang Iyo ng isang mapag-adya."
+Ano ang \[pumipigil\] sa inyo? Hindi kayo nakikipaglaban alang-alang sa landas ni Allāh at ng mga minamahina kabilang sa mga lalaki, mga babae, at mga bata, na nagsasabi: "Panginoon namin, magpalisan Ka sa amin mula sa pamayanang ito, na tagalabag sa katarungan ang mga naninirihan dito, magtalaga Ka para sa amin mula sa ganang Iyo ng isang katangkilik, at magtalaga Ka para sa amin mula sa ganang Iyo ng isang mapag-adya."
 
 # 569
 
@@ -2338,7 +2338,7 @@ Si Allāh – walang Diyos kundi Siya – ay talagang magtitipon nga sa inyo sa 
 
 # 581
 
-Kaya ano ang mayroon sa inyo hinggil sa mga mapagpaimbabaw para may dalawang pangkat, gayong si Allāh ay nagpabalik na sa kanila [sa kawalang-pananampalataya] dahil sa nakamit nila? Nagnanais ba kayo na magpatnubay sa pinaligaw ni Allāh? Ang sinumang pinaligaw ni Allāh ay hindi ka makatatagpo para sa kanya ng isang landas.
+Kaya ano ang mayroon sa inyo hinggil sa mga mapagpaimbabaw para may dalawang pangkat, gayong si Allāh ay nagpabalik na sa kanila \[sa kawalang-pananampalataya\] dahil sa nakamit nila? Nagnanais ba kayo na magpatnubay sa pinaligaw ni Allāh? Ang sinumang pinaligaw ni Allāh ay hindi ka makatatagpo para sa kanya ng isang landas.
 
 # 582
 
@@ -2354,7 +2354,7 @@ Makatatagpo kayo ng mga ibang nagnanais na magpatiwasay sa inyo at magpatiwasay 
 
 # 585
 
-Hindi nangyaring ukol sa isang mananampalataya na makapatay ng isang mananampalataya malibang dala ng isang pagkakamali. Ang sinumang nakapatay ng isang mananampalataya dala ng isang pagkakamali, [ang panakip-sala ay] pagpapalaya ng isang aliping mananampalataya at isang pagbabayad-pinsalang inaabot sa mag-anak nito, malibang magkawanggawa sila. Kaya kung [ang napatay na] ito ay kabilang sa mga taong kaaway para sa inyo at siya ay isang mananampalataya, [ang panakip-sala ay] pagpapalaya ng isang aliping mananampalataya. Kung [ang napatay na] ito ay kabilang sa mga taong sa pagitan ninyo at nila ay may isang kasunduan, [ang panakip-sala ay] pagbabayad-pinsalang inaabot sa mag-anak nito at pagpapalaya ng isang aliping mananampalataya; ngunit ang sinumang hindi makatagpo, [ang panakip-sala ay] pag-aayuno ng dalawang buwang magkakasunod bilang paghiling ng pagbabalik-loob mula kay Allāh. Laging si Allāh ay Maalam, Marunong.
+Hindi nangyaring ukol sa isang mananampalataya na makapatay ng isang mananampalataya malibang dala ng isang pagkakamali. Ang sinumang nakapatay ng isang mananampalataya dala ng isang pagkakamali, \[ang panakip-sala ay\] pagpapalaya ng isang aliping mananampalataya at isang pagbabayad-pinsalang inaabot sa mag-anak nito, malibang magkawanggawa sila. Kaya kung \[ang napatay na\] ito ay kabilang sa mga taong kaaway para sa inyo at siya ay isang mananampalataya, \[ang panakip-sala ay\] pagpapalaya ng isang aliping mananampalataya. Kung \[ang napatay na\] ito ay kabilang sa mga taong sa pagitan ninyo at nila ay may isang kasunduan, \[ang panakip-sala ay\] pagbabayad-pinsalang inaabot sa mag-anak nito at pagpapalaya ng isang aliping mananampalataya; ngunit ang sinumang hindi makatagpo, \[ang panakip-sala ay\] pag-aayuno ng dalawang buwang magkakasunod bilang paghiling ng pagbabalik-loob mula kay Allāh. Laging si Allāh ay Maalam, Marunong.
 
 # 586
 
@@ -2374,7 +2374,7 @@ mga antas mula sa Kanya, kapatawaran, at awa. Laging si Allāh ay Mapagpatawad, 
 
 # 590
 
-Tunay na ang mga binawi ng mga anghel habang mga tagalabag sa katarungan sa mga sarili nila ay magsasabi [ang mga anghel]: "Nasa ano kayo noon?" Magsasabi sila: "Kami noon ay mga sinisiil sa lupa." Magsasabi sila: "Hindi ba nangyaring ang lupa ni Allāh ay malawak para lumikas kayo roon?" Kaya ang mga iyon, ang kanlungan nila ay Impiyerno – at masagwa ito bilang kahahantungan –
+Tunay na ang mga binawi ng mga anghel habang mga tagalabag sa katarungan sa mga sarili nila ay magsasabi \[ang mga anghel\]: "Nasa ano kayo noon?" Magsasabi sila: "Kami noon ay mga sinisiil sa lupa." Magsasabi sila: "Hindi ba nangyaring ang lupa ni Allāh ay malawak para lumikas kayo roon?" Kaya ang mga iyon, ang kanlungan nila ay Impiyerno – at masagwa ito bilang kahahantungan –
 
 # 591
 
@@ -2398,11 +2398,11 @@ Kapag ikaw ay nasa kanila at namuno ka sa kanila sa pagdarasal, tumayo ang isang
 
 # 596
 
-Kaya kapag nagwakas kayo sa pagdarasal ay bumanggit kayo kay Allāh nang nakatayo, o nakaupo, o [nakahiga] sa mga tagiliran ninyo. Kaya kapag napanatag kayo ay magpanatili kayo ng pagdarasal. Tunay na ang pagdarasal, laging para sa mga mananampalataya, ay isang tungkuling tinakdaan ng panahon.
+Kaya kapag nagwakas kayo sa pagdarasal ay bumanggit kayo kay Allāh nang nakatayo, o nakaupo, o \[nakahiga\] sa mga tagiliran ninyo. Kaya kapag napanatag kayo ay magpanatili kayo ng pagdarasal. Tunay na ang pagdarasal, laging para sa mga mananampalataya, ay isang tungkuling tinakdaan ng panahon.
 
 # 597
 
-Huwag kayong panghinaan ng loob sa pagtugis sa mga tao [na kaaway]. Kung kayo ay nasasaktan, tunay na sila ay nasasaktan kung paanong nasasaktan kayo. Nakaaasam kayo mula kay Allāh ng hindi sila nakaaasam. Laging si Allāh ay Maalam, Marunong.
+Huwag kayong panghinaan ng loob sa pagtugis sa mga tao \[na kaaway\]. Kung kayo ay nasasaktan, tunay na sila ay nasasaktan kung paanong nasasaktan kayo. Nakaaasam kayo mula kay Allāh ng hindi sila nakaaasam. Laging si Allāh ay Maalam, Marunong.
 
 # 598
 
@@ -2454,7 +2454,7 @@ Tunay na si Allāh ay hindi magpapatawad na tambalan Siya at magpapatawad sa anu
 
 # 610
 
-Wala silang dinadalangin bukod pa sa Kanya kundi mga babae [na diyus-diyusan] at wala silang dinadalanginan kundi isang demonyong mapaghimagsik,
+Wala silang dinadalangin bukod pa sa Kanya kundi mga babae \[na diyus-diyusan\] at wala silang dinadalanginan kundi isang demonyong mapaghimagsik,
 
 # 611
 
@@ -2502,11 +2502,11 @@ Kung ang isang babae ay nangamba mula sa asawa niya ng isang kasutilan o isang p
 
 # 622
 
-Hindi kayo makakakaya na magmakatarungan sa mga maybahay kahit pa nagsigasig kayo. Kaya huwag kayong kumiling nang buong pagkiling [sa isa] para magpabaya kayo sa iba gaya ng nakabitin [sa alanganin]. Kung magsasaayos kayo at mangingilag kayong magkasala, tunay na si Allāh ay laging Mapagpatawad, Maawain.
+Hindi kayo makakakaya na magmakatarungan sa mga maybahay kahit pa nagsigasig kayo. Kaya huwag kayong kumiling nang buong pagkiling \[sa isa\] para magpabaya kayo sa iba gaya ng nakabitin \[sa alanganin\]. Kung magsasaayos kayo at mangingilag kayong magkasala, tunay na si Allāh ay laging Mapagpatawad, Maawain.
 
 # 623
 
-Kung magkakahiwalay silang dalawa, magpapasapat si Allāh sa bawat [isa] mula sa lawak Niya. Laging si Allāh ay Malawak, Marunong.
+Kung magkakahiwalay silang dalawa, magpapasapat si Allāh sa bawat \[isa\] mula sa lawak Niya. Laging si Allāh ay Malawak, Marunong.
 
 # 624
 
@@ -2526,7 +2526,7 @@ Ang sinumang nagnanais ng gantimpala sa Mundo ay nasa ganang kay Allāh ang gant
 
 # 628
 
-O mga sumampalataya, kayo ay maging mga tagapagpanatili ng pagkamakatarungan, mga saksi para kay Allāh kahit pa laban sa mga sarili ninyo o mga magulang at mga pinakamalapit na kaanak. Kung naging isang mayaman o isang maralita, si Allāh ay higit na karapat-dapat sa kanilang dalawa. Kaya huwag kayong sumunod sa pithaya, na baka lumihis kayo. Kung magbabaluktot kayo [ng pagsasaksi] o aayaw kayo, tunay na si Allāh laging sa anumang ginagawa ninyo ay Mapagbatid.
+O mga sumampalataya, kayo ay maging mga tagapagpanatili ng pagkamakatarungan, mga saksi para kay Allāh kahit pa laban sa mga sarili ninyo o mga magulang at mga pinakamalapit na kaanak. Kung naging isang mayaman o isang maralita, si Allāh ay higit na karapat-dapat sa kanilang dalawa. Kaya huwag kayong sumunod sa pithaya, na baka lumihis kayo. Kung magbabaluktot kayo \[ng pagsasaksi\] o aayaw kayo, tunay na si Allāh laging sa anumang ginagawa ninyo ay Mapagbatid.
 
 # 629
 
@@ -2598,7 +2598,7 @@ Ang mga sumampalataya kay Allāh at sa mga sugo Niya at hindi nagtangi-tangi sa 
 
 # 646
 
-Humihiling sa iyo ang mga May Kasulatan na magbaba ka sa kanila ng isang kasulatan mula sa langit, sapagkat humiling nga sila kay Moises ng higit na malaki kaysa roon sapagkat nagsabi sila: "Ipakita mo sa amin si Allāh nang hayagan," kaya dumaklot sa kanila ang lintik dahil sa kawalang-katarungan nila. Pagkatapos gumawa sila sa guya [bilang diyus-diyusan] nang matapos na dumating sa kanila ang mga malinaw na patunay, ngunit nagpaumanhin Kami niyon. Nagbigay Kami kay Moises ng isang katunayang malinaw.
+Humihiling sa iyo ang mga May Kasulatan na magbaba ka sa kanila ng isang kasulatan mula sa langit, sapagkat humiling nga sila kay Moises ng higit na malaki kaysa roon sapagkat nagsabi sila: "Ipakita mo sa amin si Allāh nang hayagan," kaya dumaklot sa kanila ang lintik dahil sa kawalang-katarungan nila. Pagkatapos gumawa sila sa guya \[bilang diyus-diyusan\] nang matapos na dumating sa kanila ang mga malinaw na patunay, ngunit nagpaumanhin Kami niyon. Nagbigay Kami kay Moises ng isang katunayang malinaw.
 
 # 647
 
@@ -2606,11 +2606,11 @@ Nag-angat Kami sa ibabaw nila ng bundok dahil sa tipan sa kanila. Nagsabi Kami s
 
 # 648
 
-Kaya [isinumpa sila] dahil sa pagkalas nila sa tipan nila, sa kawalang-pananampalataya nila sa mga tanda ni Allāh, sa pagpatay nila sa mga propeta nang walang karapatan, sa at pagsabi nila: "Ang mga puso namin ay binalot," bagkus nagpinid si Allāh sa mga ito dahil sa kawalang-pananampalataya nila kaya hindi sila sumasampalataya malibang kaunti.
+Kaya \[isinumpa sila\] dahil sa pagkalas nila sa tipan nila, sa kawalang-pananampalataya nila sa mga tanda ni Allāh, sa pagpatay nila sa mga propeta nang walang karapatan, sa at pagsabi nila: "Ang mga puso namin ay binalot," bagkus nagpinid si Allāh sa mga ito dahil sa kawalang-pananampalataya nila kaya hindi sila sumasampalataya malibang kaunti.
 
 # 649
 
-[Isinumpa sila] dahil sa kawalang-pananampalataya nila, sa pagsabi nila laban kay Maria ng isang paninirang-puring sukdulan,
+\[Isinumpa sila\] dahil sa kawalang-pananampalataya nila, sa pagsabi nila laban kay Maria ng isang paninirang-puring sukdulan,
 
 # 650
 
@@ -2626,7 +2626,7 @@ Walang kabilang sa mga May Kasulatan malibang talagang sasampalataya nga sa kany
 
 # 653
 
-Kaya dahil sa isang kawalang-katarungan mula sa mga nagpakahudyo ay nagbawal sa kanila ng mga kaaya-ayang ipinahintulot [dati] sa kanila, at dahil sa pagsagabal nila sa landas ni Allāh nang madalas,
+Kaya dahil sa isang kawalang-katarungan mula sa mga nagpakahudyo ay nagbawal sa kanila ng mga kaaya-ayang ipinahintulot \[dati\] sa kanila, at dahil sa pagsagabal nila sa landas ni Allāh nang madalas,
 
 # 654
 
@@ -2634,7 +2634,7 @@ pagkuha nila ng patubo, gayong sinaway na sila kaugnay rito, at paglamon nila sa
 
 # 655
 
-Subalit ang mga nagpakalalim sa kaalaman kabilang sa kanila at ang mga mananampalataya ay sumasampalataya sa anumang pinababa sa iyo at anumang pinababa bago mo pa. Ang mga tagapanatili sa pagdarasal [lalo na], ang mga tagabigay ng zakāh, at ang mga mananampalataya kay Allāh at sa Huling Araw, ang mga iyon ay bibigyan ng isang pabuyang sukdulan.
+Subalit ang mga nagpakalalim sa kaalaman kabilang sa kanila at ang mga mananampalataya ay sumasampalataya sa anumang pinababa sa iyo at anumang pinababa bago mo pa. Ang mga tagapanatili sa pagdarasal \[lalo na\], ang mga tagabigay ng zakāh, at ang mga mananampalataya kay Allāh at sa Huling Araw, ang mga iyon ay bibigyan ng isang pabuyang sukdulan.
 
 # 656
 
@@ -2646,7 +2646,7 @@ May mga sugong isinalaysay na Namin sa iyo bago pa niyan at may mga sugong hindi
 
 # 658
 
-[Nagsugo ng] mga sugo bilang mga tagapagbalita ng nakagagalak at mga tagapagbabala upang hindi magkaroon ang mga tao laban kay Allāh ng isang katwiran matapos ng mga sugo. Laging si Allāh ay Makapangyarihan, Marunong.
+\[Nagsugo ng\] mga sugo bilang mga tagapagbalita ng nakagagalak at mga tagapagbabala upang hindi magkaroon ang mga tao laban kay Allāh ng isang katwiran matapos ng mga sugo. Laging si Allāh ay Makapangyarihan, Marunong.
 
 # 659
 
@@ -2670,11 +2670,11 @@ O mga tao, naghatid nga sa inyo ang Sugo ng katotohanan mula sa Panginoon ninyo.
 
 # 664
 
-O mga May Kasulatan, huwag kayong magpalabis sa relihiyon ninyo at huwag kayong magsabi tungkol kay Allāh kundi ng totoo. Ang Kristo Jesus na anak ni Maria ay sugo ni Allāh lamang, salita Niya na ipinarating Niya kay Maria, at isang espiritu na mula sa Kanya. Kaya sumampalataya kayo kay Allāh at sa mga sugo Niya. Huwag kayong magsabi ng tatlo. Tumigil kayo; mabuti [ito] para sa inyo. Si Allāh ay nag-iisang Diyos lamang. Kaluwalhatian sa Kanya na magkaroon Siya ng isang anak. Sa Kanya ang anumang nasa mga langit at ang anumang nasa lupa. Nakasapat si Allāh bilang Pinananaligan.
+O mga May Kasulatan, huwag kayong magpalabis sa relihiyon ninyo at huwag kayong magsabi tungkol kay Allāh kundi ng totoo. Ang Kristo Jesus na anak ni Maria ay sugo ni Allāh lamang, salita Niya na ipinarating Niya kay Maria, at isang espiritu na mula sa Kanya. Kaya sumampalataya kayo kay Allāh at sa mga sugo Niya. Huwag kayong magsabi ng tatlo. Tumigil kayo; mabuti \[ito\] para sa inyo. Si Allāh ay nag-iisang Diyos lamang. Kaluwalhatian sa Kanya na magkaroon Siya ng isang anak. Sa Kanya ang anumang nasa mga langit at ang anumang nasa lupa. Nakasapat si Allāh bilang Pinananaligan.
 
 # 665
 
-Hindi magmamata ang Kristo na siya ay maging isang lingkod ni Allāh, ni ang mga anghel na minamalapit [kay Allāh]. Ang sinumang nangmamata sa pagsamba sa Kanya at nagmamalaki ay kakalap Siya sa kanila tungo sa Kanya sa kalahatan.
+Hindi magmamata ang Kristo na siya ay maging isang lingkod ni Allāh, ni ang mga anghel na minamalapit \[kay Allāh\]. Ang sinumang nangmamata sa pagsamba sa Kanya at nagmamalaki ay kakalap Siya sa kanila tungo sa Kanya sa kalahatan.
 
 # 666
 
@@ -2690,7 +2690,7 @@ Kaya tungkol naman sa mga sumampalataya kay Allāh at nangunyapit sa Kanya, magp
 
 # 669
 
-Nagpapahabilin sila sa iyo. Sabihin mo: "Si Allāh ay naghahabilin sa inyo hinggil sa kalālah." Kung may isang taong namatay na wala siyang isang anak at mayroon siyang isang kapatid na babae, ukol dito ang kalahati ng naiwan niya. Siya ay magmamana rito kung wala itong isang anak. Kung sila ay dalawang [babae], ukol sa kanilang dalawa ang dalawang katlo mula sa naiwan niya. Kung sila ay magkakapatid na mga lalaki at mga babae, ukol sa lalaki ang tulad sa parte ng dalawang babae. Naglilinaw si Allāh para sa inyo nang hindi kayo maligaw. Si Allāh, sa bawat bagay, ay Maalam.
+Nagpapahabilin sila sa iyo. Sabihin mo: "Si Allāh ay naghahabilin sa inyo hinggil sa kalālah." Kung may isang taong namatay na wala siyang isang anak at mayroon siyang isang kapatid na babae, ukol dito ang kalahati ng naiwan niya. Siya ay magmamana rito kung wala itong isang anak. Kung sila ay dalawang \[babae\], ukol sa kanilang dalawa ang dalawang katlo mula sa naiwan niya. Kung sila ay magkakapatid na mga lalaki at mga babae, ukol sa lalaki ang tulad sa parte ng dalawang babae. Naglilinaw si Allāh para sa inyo nang hindi kayo maligaw. Si Allāh, sa bawat bagay, ay Maalam.
 
 # 670
 
@@ -2698,17 +2698,17 @@ O mga sumampalataya, magpatupad kayo sa mga kontrata. Ipinahintulot para sa inyo
 
 # 671
 
-O mga sumampalataya, huwag kayong lumapastangan sa mga sagisag ni Allāh ni sa Buwang Pinakababanal ni sa handog, ni sa mga nakakuwintas [na alay], ni sa mga nagsasadya sa Bahay na Pinakababanal na naghahangad ng isang kabutihang-loob mula sa Panginoon nila at isang pagkalugod. Kapag kumalas kayo [sa iḥrām ay maaaring] mangaso kayo. Huwag ngang mag-uudyok sa inyo ang pagkasuklam sa ilang tao na sumagabal sa inyo sa Masjid na Pinakababanal na lumabag kayo. Magtulungan kayo sa pagpapakabuti at pangingilag magkasala at huwag kayong magtulungan sa kasalanan at paglabag. Mangilag kayong magkasala kay Allāh. Tunay na si Allāh ay matindi ang parusa.
+O mga sumampalataya, huwag kayong lumapastangan sa mga sagisag ni Allāh ni sa Buwang Pinakababanal ni sa handog, ni sa mga nakakuwintas \[na alay\], ni sa mga nagsasadya sa Bahay na Pinakababanal na naghahangad ng isang kabutihang-loob mula sa Panginoon nila at isang pagkalugod. Kapag kumalas kayo \[sa iḥrām ay maaaring\] mangaso kayo. Huwag ngang mag-uudyok sa inyo ang pagkasuklam sa ilang tao na sumagabal sa inyo sa Masjid na Pinakababanal na lumabag kayo. Magtulungan kayo sa pagpapakabuti at pangingilag magkasala at huwag kayong magtulungan sa kasalanan at paglabag. Mangilag kayong magkasala kay Allāh. Tunay na si Allāh ay matindi ang parusa.
 
 # 672
 
-Ipinagbawal sa inyo ang namatay [bago nakatay], ang dugo, ang laman ng baboy, ang anumang inihandog sa iba pa kay Allāh, ang nasakal, ang hinambalos, ang nalaglag, ang nasuwag, ang anumang kinainan ng mabangis na hayop maliban sa nakatay ninyo [bago namatay], ang inialay sa mga dambana, at na magsapalaran kayo sa pamamagitan ng mga tagdan. Iyon ay kasuwailan. Sa araw na ito ay nawalan ang mga tumangging sumampalataya ng pag-asa [na tatalikod kayo] sa Relihiyon ninyo, kaya huwag kayong matakot sa kanila at matakot kayo sa Akin. Sa araw na ito bumuo Ako para sa inyo ng Relihiyon ninyo, lumubos Ako sa inyo ng biyaya Ko at nalugod Ako para sa inyo sa Islām bilang relihiyon. Ngunit ang sinumang napilitan dahil sa kagutuman, nang hindi nagkakahilig sa pagkakasala, tunay na si Allāh ay Mapagpatawad, Maawain.[^*]
+Ipinagbawal sa inyo ang namatay \[bago nakatay\], ang dugo, ang laman ng baboy, ang anumang inihandog sa iba pa kay Allāh, ang nasakal, ang hinambalos, ang nalaglag, ang nasuwag, ang anumang kinainan ng mabangis na hayop maliban sa nakatay ninyo \[bago namatay\], ang inialay sa mga dambana, at na magsapalaran kayo sa pamamagitan ng mga tagdan. Iyon ay kasuwailan. Sa araw na ito ay nawalan ang mga tumangging sumampalataya ng pag-asa \[na tatalikod kayo\] sa Relihiyon ninyo, kaya huwag kayong matakot sa kanila at matakot kayo sa Akin. Sa araw na ito bumuo Ako para sa inyo ng Relihiyon ninyo, lumubos Ako sa inyo ng biyaya Ko at nalugod Ako para sa inyo sa Islām bilang relihiyon. Ngunit ang sinumang napilitan dahil sa kagutuman, nang hindi nagkakahilig sa pagkakasala, tunay na si Allāh ay Mapagpatawad, Maawain.[^*]
 
-[^*]: - Ang patpat ng palaso hindi kasama ang ulo at ang buntot nito.
+[^*]: \- Ang patpat ng palaso hindi kasama ang ulo at ang buntot nito.
 
 # 673
 
-Nagtatanong sila sa iyo kung ano ang ipinahintulot para sa kanila. Sabihin mo: "Ipinahintulot sa inyo ang mga kaaya-aya at ang [nahuli ng] tinuruan ninyo na mga nangangasong hayop, bilang mga sinanay mangaso, na tinuturuan ninyo ang mga ito ng mula sa itinuro sa inyo ni Allāh. Kaya kumain kayo mula sa nahuli ng mga ito para sa inyo at bumanggit kayo ng pangalan ni Allāh dito." Mangilag kayong magkasala kay Allāh. Tunay na si Allāh ay mabilis ang pagtutuos.
+Nagtatanong sila sa iyo kung ano ang ipinahintulot para sa kanila. Sabihin mo: "Ipinahintulot sa inyo ang mga kaaya-aya at ang \[nahuli ng\] tinuruan ninyo na mga nangangasong hayop, bilang mga sinanay mangaso, na tinuturuan ninyo ang mga ito ng mula sa itinuro sa inyo ni Allāh. Kaya kumain kayo mula sa nahuli ng mga ito para sa inyo at bumanggit kayo ng pangalan ni Allāh dito." Mangilag kayong magkasala kay Allāh. Tunay na si Allāh ay mabilis ang pagtutuos.
 
 # 674
 
@@ -2716,7 +2716,7 @@ Sa araw na ito, ipinahintulot para sa inyo ang mga kaaya-aya. Ang pagkain ng mga
 
 # 675
 
-O mga sumampalataya, kapag tumayo kayo patungo sa pagdarasal ay maghugas kayo ng mga mukha ninyo, mga kamay ninyo hanggang sa mga siko – humaplos kayo sa mga ulo ninyo – at mga paa ninyo hanggang sa mga bukungbukong. Kung kayo ay kailangang-maligo ay maligo kayo. Kung kayo ay mga may-sakit o nasa isang paglalakbay, o dumating ang isa sa inyo mula sa dumihan, o sumaling kayo ng mga babae saka hindi kayo nakatagpo ng tubig, ay magsadya kayo sa isang lupang kaaya-aya saka humaplos kayo sa mga mukha ninyo at mga kamay ninyo [ng alikabok] mula roon. Hindi nagnanais si Allāh na maglagay sa inyo ng pagkaasiwa, subalit nagnanais Siya na dumalisay sa inyo at lumubos sa pagpapala Niya sa inyo, nang sa gayon kayo ay magpapasalamat.
+O mga sumampalataya, kapag tumayo kayo patungo sa pagdarasal ay maghugas kayo ng mga mukha ninyo, mga kamay ninyo hanggang sa mga siko – humaplos kayo sa mga ulo ninyo – at mga paa ninyo hanggang sa mga bukungbukong. Kung kayo ay kailangang-maligo ay maligo kayo. Kung kayo ay mga may-sakit o nasa isang paglalakbay, o dumating ang isa sa inyo mula sa dumihan, o sumaling kayo ng mga babae saka hindi kayo nakatagpo ng tubig, ay magsadya kayo sa isang lupang kaaya-aya saka humaplos kayo sa mga mukha ninyo at mga kamay ninyo \[ng alikabok\] mula roon. Hindi nagnanais si Allāh na maglagay sa inyo ng pagkaasiwa, subalit nagnanais Siya na dumalisay sa inyo at lumubos sa pagpapala Niya sa inyo, nang sa gayon kayo ay magpapasalamat.
 
 # 676
 
@@ -2768,11 +2768,11 @@ Nagsabi ang mga Hudyo at ang mga Kristiyano: "Kami ay mga anak ni Allāh at mga 
 
 # 688
 
-O mga May Kasulatan, dumating nga sa inyo ang Sugo Namin na naglilinaw sa inyo sa isang yugto ng kawalan ng mga sugo upang [hindi] kayo magsabi: “Walang dumating sa amin na anumang mapagbalita ng nakagagalak ni mapagbabala,” sapagkat may dumating nga sa inyo na isang mapagbalita ng nakagagalak isang mapagbabala. Si Allāh, sa bawat bagay, ay May-kakayahan.
+O mga May Kasulatan, dumating nga sa inyo ang Sugo Namin na naglilinaw sa inyo sa isang yugto ng kawalan ng mga sugo upang \[hindi\] kayo magsabi: “Walang dumating sa amin na anumang mapagbalita ng nakagagalak ni mapagbabala,” sapagkat may dumating nga sa inyo na isang mapagbalita ng nakagagalak isang mapagbabala. Si Allāh, sa bawat bagay, ay May-kakayahan.
 
 # 689
 
-[Banggitin] noong nagsabi si Moises sa mga kalipi niya: "O mga kalipi ko, alalahanin ninyo ang biyaya ni Allāh sa inyo noong gumawa Siya sa inyo ng mga propeta, gumawa sa inyo na mga hari, at nagbigay sa inyo ng hindi Niya ibinigay sa isa man mula sa mga nilalang.
+\[Banggitin\] noong nagsabi si Moises sa mga kalipi niya: "O mga kalipi ko, alalahanin ninyo ang biyaya ni Allāh sa inyo noong gumawa Siya sa inyo ng mga propeta, gumawa sa inyo na mga hari, at nagbigay sa inyo ng hindi Niya ibinigay sa isa man mula sa mga nilalang.
 
 # 690
 
@@ -2800,7 +2800,7 @@ Nagsabi Siya: "Kaya tunay na iyon ay ipagbabawal sa kanila nang apatnapung taon 
 
 # 696
 
-Bumigkas ka sa kanila ng balita ng dalawang anak ni Adan ayon sa katotohanan noong naghandog silang dalawa ng handog saka tinanggap mula isa sa kanila at hindi naman tinanggap mula sa iba. Nagsabi [si Cain]: "Talagang papatayin nga kita." Nagsabi naman [si Abel]: "Tumatanggap lamang si Allāh mula sa mga tagapangilag magkasala.
+Bumigkas ka sa kanila ng balita ng dalawang anak ni Adan ayon sa katotohanan noong naghandog silang dalawa ng handog saka tinanggap mula isa sa kanila at hindi naman tinanggap mula sa iba. Nagsabi \[si Cain\]: "Talagang papatayin nga kita." Nagsabi naman \[si Abel\]: "Tumatanggap lamang si Allāh mula sa mga tagapangilag magkasala.
 
 # 697
 
@@ -2820,15 +2820,15 @@ Kaya nagpadala si Allāh ng isang uwak na kakahig sa lupa upang magpakita ito sa
 
 # 701
 
-Alang-alang doon, nag-atas Kami sa mga anak ni Israel na ang sinumang pumatay sa isang tao nang hindi dahil [sa pagpatay] sa isang tao o sa [paggawa ng] kaguluhan sa lupa ay para bang pumatay siya sa mga tao sa kalahatan, at ang sinumang nagbigay-buhay rito ay para bang nagbigay-buhay siya sa mga tao sa kalahatan. Talaga ngang naghatid sa kanila ang mga sugo Namin ng mga malinaw na patunay. Pagkatapos, tunay na marami mula sa kanila, matapos niyon, sa lupa ay talagang mga nagpapakalabis.
+Alang-alang doon, nag-atas Kami sa mga anak ni Israel na ang sinumang pumatay sa isang tao nang hindi dahil \[sa pagpatay\] sa isang tao o sa \[paggawa ng\] kaguluhan sa lupa ay para bang pumatay siya sa mga tao sa kalahatan, at ang sinumang nagbigay-buhay rito ay para bang nagbigay-buhay siya sa mga tao sa kalahatan. Talaga ngang naghatid sa kanila ang mga sugo Namin ng mga malinaw na patunay. Pagkatapos, tunay na marami mula sa kanila, matapos niyon, sa lupa ay talagang mga nagpapakalabis.
 
 # 702
 
-Ang ganti lamang sa mga nakikipagdigma kay Allāh at sa Sugo Niya at nagpupunyagi sa lupa ng kaguluhan ay na pagpapatayin sila o bitayin sila o pagpuputulin ang mga kamay nila at ang mga paa nila nang magkabilaan o ipatapon sila sa [ibang] lupain. Iyon ay ukol sa kanila: isang kahihiyan sa Mundo; at ukol sa kanila sa Kabilang-buhay ay isang pagdurusang sukdulan,
+Ang ganti lamang sa mga nakikipagdigma kay Allāh at sa Sugo Niya at nagpupunyagi sa lupa ng kaguluhan ay na pagpapatayin sila o bitayin sila o pagpuputulin ang mga kamay nila at ang mga paa nila nang magkabilaan o ipatapon sila sa \[ibang\] lupain. Iyon ay ukol sa kanila: isang kahihiyan sa Mundo; at ukol sa kanila sa Kabilang-buhay ay isang pagdurusang sukdulan,
 
 # 703
 
-maliban sa mga nagbalik-loob bago pa kayo makakaya [na makadakip] sa kanila. Kaya alamin ninyo na si Allāh ay Mapagpatawad, Maawain.
+maliban sa mga nagbalik-loob bago pa kayo makakaya \[na makadakip\] sa kanila. Kaya alamin ninyo na si Allāh ay Mapagpatawad, Maawain.
 
 # 704
 
@@ -2856,7 +2856,7 @@ Hindi ka ba nakaaalam na si Allāh ay may-ari ng paghahari sa mga langit at lupa
 
 # 710
 
-O Sugo, huwag magpalungkot sa iyo ang mga nagmamabilis sa kawalang-pananampalataya kabilang sa mga nagsabi: "Sumampalataya kami," sa pamamagitan ng mga bibig nila samantalang hindi sumampalataya ang mga puso nila, at kabilang sa mga nagpakahudyo. Mga palapakinig sa kasinungalingan, mga palapakinig sa mga ibang taong hindi nakapunta sa iyo, naglilihis sila sa mga salita nang matapos [ng paglalagay] ng mga katuturan ng mga ito. Nagsasabi sila: "Kung binigyan kayo nito ay kunin ninyo, at kung hindi kayo binigyan nito ay mangilag kayo. Ang sinumang nagnais si Allāh ng tukso sa kanya ay hindi ka makapangyayari para sa kanya laban kay Allāh sa anuman. Ang mga iyon ay ang mga hindi nagnais si Allāh na magdalisay sa mga puso nila. Ukol sa kanila sa Mundo ay isang kahihiyan at ukol sa kanila sa Kabilang-buhay ay isang pagdurusang sukdulan.
+O Sugo, huwag magpalungkot sa iyo ang mga nagmamabilis sa kawalang-pananampalataya kabilang sa mga nagsabi: "Sumampalataya kami," sa pamamagitan ng mga bibig nila samantalang hindi sumampalataya ang mga puso nila, at kabilang sa mga nagpakahudyo. Mga palapakinig sa kasinungalingan, mga palapakinig sa mga ibang taong hindi nakapunta sa iyo, naglilihis sila sa mga salita nang matapos \[ng paglalagay\] ng mga katuturan ng mga ito. Nagsasabi sila: "Kung binigyan kayo nito ay kunin ninyo, at kung hindi kayo binigyan nito ay mangilag kayo. Ang sinumang nagnais si Allāh ng tukso sa kanya ay hindi ka makapangyayari para sa kanya laban kay Allāh sa anuman. Ang mga iyon ay ang mga hindi nagnais si Allāh na magdalisay sa mga puso nila. Ukol sa kanila sa Mundo ay isang kahihiyan at ukol sa kanila sa Kabilang-buhay ay isang pagdurusang sukdulan.
 
 # 711
 
@@ -2872,7 +2872,7 @@ Tunay na Kami ay nagpababa ng Torah, na doon ay may patnubay at liwanag. Humahat
 
 # 714
 
-Nagtakda Kami sa kanila roon na ang buhay ay sa buhay, ang mata ay sa mata, ang ilong ay sa ilong, ang tainga ay sa tainga, ang ngipin ay sa ngipin, at ang mga sugat ay may pantay na ganti. Ngunit ang sinumang nagkawanggawa [ng pagpapaumanhin] doon, ito ay isang panakip-sala para sa kanya. Ang sinumang hindi humatol ng ayon sa pinababa ni Allāh, ang mga iyon ay ang mga tagalabag sa katarungan.
+Nagtakda Kami sa kanila roon na ang buhay ay sa buhay, ang mata ay sa mata, ang ilong ay sa ilong, ang tainga ay sa tainga, ang ngipin ay sa ngipin, at ang mga sugat ay may pantay na ganti. Ngunit ang sinumang nagkawanggawa \[ng pagpapaumanhin\] doon, ito ay isang panakip-sala para sa kanya. Ang sinumang hindi humatol ng ayon sa pinababa ni Allāh, ang mga iyon ay ang mga tagalabag sa katarungan.
 
 # 715
 
@@ -2884,7 +2884,7 @@ Humatol ang mga May Ebanghelyo ng ayon sa pinababa ni Allāh sa loob niyon! Ang 
 
 # 717
 
-Nagpababa Kami sa iyo ng Aklat kalakip ng katotohanan bilang tagapagpatotoo para sa nauna rito na kasulatan at bilang tagapangibabaw rito. Kaya humatol ka sa pagitan nila ng ayon sa pinababa ni Allāh at huwag kang sumunod sa mga pithaya nila kapalit ng dumating sa iyo na katotohanan. Para sa bawat kabilang sa inyo ay gumawa Kami ng isang pagbabatas at isang pamamaraan. Kung sakaling niloob ni Allāh ay talaga sanang gumawa Siya sa inyo na nag-iisang kalipunang subalit [pinag-iiba kayo] upang sumubok Siya sa inyo sa ibinigay Niya sa inyo. Kaya mag-unahan kayo sa mga kabutihan. Tungo kay Allāh ang babalikan ninyo sa kalahatan saka magbabalita Siya sa inyo hinggil sa anumang kayo dati kaugnay roon ay nagkakaiba-iba.
+Nagpababa Kami sa iyo ng Aklat kalakip ng katotohanan bilang tagapagpatotoo para sa nauna rito na kasulatan at bilang tagapangibabaw rito. Kaya humatol ka sa pagitan nila ng ayon sa pinababa ni Allāh at huwag kang sumunod sa mga pithaya nila kapalit ng dumating sa iyo na katotohanan. Para sa bawat kabilang sa inyo ay gumawa Kami ng isang pagbabatas at isang pamamaraan. Kung sakaling niloob ni Allāh ay talaga sanang gumawa Siya sa inyo na nag-iisang kalipunang subalit \[pinag-iiba kayo\] upang sumubok Siya sa inyo sa ibinigay Niya sa inyo. Kaya mag-unahan kayo sa mga kabutihan. Tungo kay Allāh ang babalikan ninyo sa kalahatan saka magbabalita Siya sa inyo hinggil sa anumang kayo dati kaugnay roon ay nagkakaiba-iba.
 
 # 718
 
@@ -2900,7 +2900,7 @@ O mga sumampalataya, huwag kayong gumawa sa mga Hudyo at mga Kristiyano bilang m
 
 # 721
 
-Kaya nakikita mo ang mga sa mga sa mga puso nila ay may karamdaman na nagmamabilis [sa pagtangkilik] sa mga iyon, na nagsasabi: "Natatakot kami na may tumama sa amin na isang pananalanta." Ngunit harinawang si Allāh ay magdala ng pagwawagi o isang utos mula sa ganang Kanya kaya sila, dahil sa inililihim nila sa mga sarili nila, ay magiging mga nagsisisi.
+Kaya nakikita mo ang mga sa mga sa mga puso nila ay may karamdaman na nagmamabilis \[sa pagtangkilik\] sa mga iyon, na nagsasabi: "Natatakot kami na may tumama sa amin na isang pananalanta." Ngunit harinawang si Allāh ay magdala ng pagwawagi o isang utos mula sa ganang Kanya kaya sila, dahil sa inililihim nila sa mga sarili nila, ay magiging mga nagsisisi.
 
 # 722
 
@@ -2932,7 +2932,7 @@ Sabihin mo: "O mga May Kasulatan, naghihinanakit kaya kayo sa amin maliban pa na
 
 # 729
 
-Sabihin mo: "Magbabalita kaya Ako sa inyo hinggil sa higit na masama kaysa roon bilang ganti mula sa ganang kay Allāh? [Hinggil ito] sa isinumpa ni Allāh; kinagalitan Niya; at ginawa Niya kabilang sa kanila na mga unggoy, mga baboy, at mga alipin ng mapagmalabis. Ang mga iyon ay higit na masama sa kalagayan at higit na ligaw palayo sa katumpakan ng landas."
+Sabihin mo: "Magbabalita kaya Ako sa inyo hinggil sa higit na masama kaysa roon bilang ganti mula sa ganang kay Allāh? \[Hinggil ito\] sa isinumpa ni Allāh; kinagalitan Niya; at ginawa Niya kabilang sa kanila na mga unggoy, mga baboy, at mga alipin ng mapagmalabis. Ang mga iyon ay higit na masama sa kalagayan at higit na ligaw palayo sa katumpakan ng landas."
 
 # 730
 
@@ -3020,7 +3020,7 @@ Kung sakaling sila noon ay sumasampalataya kay Allāh, sa Propeta, at sa pinabab
 
 # 751
 
-Talagang makatatagpo ka nga na ang pinakamatindi sa mga tao sa pagkamuhi sa mga sumampalataya ay mga Hudyo at ang mga nagtambal [kay Allāh]. Talagang makatatagpo ka nga na ang pinakamalapit sa kanila sa pagmamahal para sa mga sumampalataya ay ang mga nagsabi: "Tunay na kami ay mga Kristiyano." Iyon ay dahil kabilang sa kanila ay mga ministro at mga monghe, at na sila ay hindi nagmamalaki.
+Talagang makatatagpo ka nga na ang pinakamatindi sa mga tao sa pagkamuhi sa mga sumampalataya ay mga Hudyo at ang mga nagtambal \[kay Allāh\]. Talagang makatatagpo ka nga na ang pinakamalapit sa kanila sa pagmamahal para sa mga sumampalataya ay ang mga nagsabi: "Tunay na kami ay mga Kristiyano." Iyon ay dahil kabilang sa kanila ay mga ministro at mga monghe, at na sila ay hindi nagmamalaki.
 
 # 752
 
@@ -3028,7 +3028,7 @@ Kapag nakarinig sila ng pinababa sa Sugo ay makakikita ka sa mga mata nila na na
 
 # 753
 
-Ano ang mayroon sa amin na hindi kami sumasampalataya kay Allāh at sa dumating sa amin na katotohanan, at naghahangad kami na magpapasok sa amin ang Panginoon namin [sa Paraiso] kasama sa mga taong maayos?
+Ano ang mayroon sa amin na hindi kami sumasampalataya kay Allāh at sa dumating sa amin na katotohanan, at naghahangad kami na magpapasok sa amin ang Panginoon namin \[sa Paraiso\] kasama sa mga taong maayos?
 
 # 754
 
@@ -3048,11 +3048,11 @@ Kumain kayo mula sa itinustos sa inyo ni Allāh bilang ipinahintulot na kaaya-ay
 
 # 758
 
-Hindi naninisi sa inyo si Allāh dahil sa pagkadulas sa mga panunumpa ninyo subalit naninisi Siya sa inyo dahil sa [pagsira ng] isinagawa ninyo na mga panunumpa. Kaya ang panakip-sala niyon ay ang pagpapakain sa sampung dukha ng katamtaman sa ipinakakain ninyo sa mag-anak ninyo o ang pagpapadamit sa kanila o ang pagpapalaya sa isang alipin, ngunit ang sinumang hindi nakatagpo ay pag-aayuno ng tatlong araw. Iyon ay panakip-sala sa mga panunumpa ninyo kapag nanumpa kayo. Pag-ingatan ninyo ang mga panunumpa ninyo. Gayon naglilinaw si Allāh para sa inyo ng mga tanda Niya, nang sa gayon kayo ay magpapasalamat.
+Hindi naninisi sa inyo si Allāh dahil sa pagkadulas sa mga panunumpa ninyo subalit naninisi Siya sa inyo dahil sa \[pagsira ng\] isinagawa ninyo na mga panunumpa. Kaya ang panakip-sala niyon ay ang pagpapakain sa sampung dukha ng katamtaman sa ipinakakain ninyo sa mag-anak ninyo o ang pagpapadamit sa kanila o ang pagpapalaya sa isang alipin, ngunit ang sinumang hindi nakatagpo ay pag-aayuno ng tatlong araw. Iyon ay panakip-sala sa mga panunumpa ninyo kapag nanumpa kayo. Pag-ingatan ninyo ang mga panunumpa ninyo. Gayon naglilinaw si Allāh para sa inyo ng mga tanda Niya, nang sa gayon kayo ay magpapasalamat.
 
 # 759
 
-O mga sumampalataya, ang alak, ang pagpusta, ang [pag-aalay sa] mga dambana, at [ang pagsasapalaran gamit] ang mga tagdan ng palaso ay kasalaulaan lamang kabilang sa gawain ng demonyo, kaya umiwas kayo rito, nang sa gayon kayo ay magtatagumpay.
+O mga sumampalataya, ang alak, ang pagpusta, ang \[pag-aalay sa\] mga dambana, at \[ang pagsasapalaran gamit\] ang mga tagdan ng palaso ay kasalaulaan lamang kabilang sa gawain ng demonyo, kaya umiwas kayo rito, nang sa gayon kayo ay magtatagumpay.
 
 # 760
 
@@ -3064,7 +3064,7 @@ Tumalima kayo kay Allāh at tumalima kayo sa Sugo at mag-ingat kayo. Ngunit kung
 
 # 762
 
-Walang maisisisi sa mga sumampalataya at gumawa ng mga maayos kaugnay sa anumang kinain nila [noon] kapag nangilag silang magkasala, sumampalataya sila, at gumawa sila ng mga maayos, pagkatapos nangilag silang magkasala at sumampalataya sila, pagkatapos nangilag silang magkasala at gumawa sila ng maganda. Si Allāh ay umiibig sa mga tagagawa ng maganda.
+Walang maisisisi sa mga sumampalataya at gumawa ng mga maayos kaugnay sa anumang kinain nila \[noon\] kapag nangilag silang magkasala, sumampalataya sila, at gumawa sila ng mga maayos, pagkatapos nangilag silang magkasala at sumampalataya sila, pagkatapos nangilag silang magkasala at gumawa sila ng maganda. Si Allāh ay umiibig sa mga tagagawa ng maganda.
 
 # 763
 
@@ -3072,7 +3072,7 @@ O mga sumampalataya, talagang magsusulit nga sa inyo si Allāh sa pamamagitan ng
 
 # 764
 
-O mga sumampalataya, huwag kayong pumatay ng pinangangasong hayop habang kayo ay mga nasa iḥrām. Ang sinumang pumatay nito kabilang sa inyo nang sinasadya, may isang ganti, na tulad ng pinatay niya, mula sa mga hayupan, na hahatol dito ang dalawang may katarungan kabilang sa inyo bilang handog na aabot sa Ka`bah; o may isang panakip-sala na pagpapakain ng mga dukha o katumbas niyon na pag-aayuno upang makalasap siya ng kasaklapan ng kalagayan nila. Nagpaumanhin si Allāh sa anumang nagdaan. Ang sinumang nanumbalik ay maghihiganti si Allāh sa kanya. Si Allāh ay Makapangyarihan, May paghihiganti.
+O mga sumampalataya, huwag kayong pumatay ng pinangangasong hayop habang kayo ay mga nasa iḥrām. Ang sinumang pumatay nito kabilang sa inyo nang sinasadya, may isang ganti, na tulad ng pinatay niya, mula sa mga hayupan, na hahatol dito ang dalawang may katarungan kabilang sa inyo bilang handog na aabot sa Ka\`bah; o may isang panakip-sala na pagpapakain ng mga dukha o katumbas niyon na pag-aayuno upang makalasap siya ng kasaklapan ng kalagayan nila. Nagpaumanhin si Allāh sa anumang nagdaan. Ang sinumang nanumbalik ay maghihiganti si Allāh sa kanya. Si Allāh ay Makapangyarihan, May paghihiganti.
 
 # 765
 
@@ -3080,7 +3080,7 @@ Ipinahintulot para sa inyo ang nahuhuli sa dagat at ang pagkain doon bilang nata
 
 # 766
 
-Ginawa ni Allāh ang Ka`bah, ang Bahay na Pinakababanal, bilang pagpapanatili para sa mga tao, ang Buwang Pinakababanal, ang alay, at ang mga nakakuwintas. Iyon ay upang makaalam kayo na si Allāh ay nakaaalam sa anumang nasa mga langit at anumang nasa lupa at na si Allāh, sa bawat bagay, ay Maalam.
+Ginawa ni Allāh ang Ka\`bah, ang Bahay na Pinakababanal, bilang pagpapanatili para sa mga tao, ang Buwang Pinakababanal, ang alay, at ang mga nakakuwintas. Iyon ay upang makaalam kayo na si Allāh ay nakaaalam sa anumang nasa mga langit at anumang nasa lupa at na si Allāh, sa bawat bagay, ay Maalam.
 
 # 767
 
@@ -3116,11 +3116,11 @@ O mga sumampalataya, mangalaga kayo sa mga sarili ninyo. Hindi makapipinsala sa 
 
 # 775
 
-O mga sumampalataya, ang pagsasaksi sa pagitan ninyo kapag dumalo sa isa sa inyo ang kamatayan sa sandali ng tagubilin ay [gagawin ng] dalawang may katarungan kabilang sa inyo o dalawang iba pa kabilang sa iba sa inyo kung kayo ay naglakbay sa lupain at tumama sa inyo ang pagtama ng kamatayan. Pipigil kayo sa kanilang dalawa nang matapos ng pagdarasal at manunumpa silang dalawa kay Allāh, kung nag-aalinlangan kayo: "Hindi kami magbebenta nito sa isang halaga kahit pa man iyon ay isang may pagkakamag-anak at hindi kami magtatago ng pagsasaksi kay Allāh; tunay na kami, kung gayon, ay talagang kabilang sa mga nagkakasala."
+O mga sumampalataya, ang pagsasaksi sa pagitan ninyo kapag dumalo sa isa sa inyo ang kamatayan sa sandali ng tagubilin ay \[gagawin ng\] dalawang may katarungan kabilang sa inyo o dalawang iba pa kabilang sa iba sa inyo kung kayo ay naglakbay sa lupain at tumama sa inyo ang pagtama ng kamatayan. Pipigil kayo sa kanilang dalawa nang matapos ng pagdarasal at manunumpa silang dalawa kay Allāh, kung nag-aalinlangan kayo: "Hindi kami magbebenta nito sa isang halaga kahit pa man iyon ay isang may pagkakamag-anak at hindi kami magtatago ng pagsasaksi kay Allāh; tunay na kami, kung gayon, ay talagang kabilang sa mga nagkakasala."
 
 # 776
 
-Ngunit kung natuklasan na silang dalawang ay naging karapat-dapat sa isang kasalanan, may dalawang ibang tatayo sa katayuan nilang dalawa, na dalawang pinakamalapit na kaanak kabilang sa mga naging karapat-dapat [sa pagmamana], saka manunumpa ang dalawang ito kay Allāh: "Talagang ang pagsasaksi namin ay higit na totoo kaysa sa pagsasaksi nilang dalawa at hindi kami lumabag; tunay na kami, samakatuwid, ay talagang kabilang sa mga tagalabag sa katarungan."
+Ngunit kung natuklasan na silang dalawang ay naging karapat-dapat sa isang kasalanan, may dalawang ibang tatayo sa katayuan nilang dalawa, na dalawang pinakamalapit na kaanak kabilang sa mga naging karapat-dapat \[sa pagmamana\], saka manunumpa ang dalawang ito kay Allāh: "Talagang ang pagsasaksi namin ay higit na totoo kaysa sa pagsasaksi nilang dalawa at hindi kami lumabag; tunay na kami, samakatuwid, ay talagang kabilang sa mga tagalabag sa katarungan."
 
 # 777
 
@@ -3132,15 +3132,15 @@ Sa araw na kakalap si Allāh sa mga sugo saka magsasabi Siya: "Ano ang isinagot 
 
 # 779
 
-[Banggitin] kapag magsasabi si Allāh: "O Jesus na anak ni Maria, bumanggit ka sa biyaya Ko sa iyo at sa ina mo noong umalalay Ako sa iyo sa pamamagitan ng Espiritu ng Kabanalan habang nagsasalita ka sa mga tao habang nasa duyan at nasa kasapatang-gulang; noong nagturo Ako sa iyo ng pagsulat, karunungan, at Torah, at Ebanghelyo; noong lumilikha ka mula sa putik ng gaya ng anyo ng ibon ayon sa pahintulot Ko saka umiihip ka rito kaya ito ay nagiging ibon, at nagpapagaling ka ng ipinanganak na bulag at ng ketungin ayon sa pahintulot Ko; noong nagpapalabas ka sa mga patay ayon sa pahintulot Ko; at noong pumigil Ako sa mga anak ni Israel palayo sa iyo noong naghatid ka sa kanila ng mga malinaw na patunay at nagsabi ang mga tumangging sumampalataya kabilang sa kanila: Walang iba ito kundi isang panggagaway na malinaw."
+\[Banggitin\] kapag magsasabi si Allāh: "O Jesus na anak ni Maria, bumanggit ka sa biyaya Ko sa iyo at sa ina mo noong umalalay Ako sa iyo sa pamamagitan ng Espiritu ng Kabanalan habang nagsasalita ka sa mga tao habang nasa duyan at nasa kasapatang-gulang; noong nagturo Ako sa iyo ng pagsulat, karunungan, at Torah, at Ebanghelyo; noong lumilikha ka mula sa putik ng gaya ng anyo ng ibon ayon sa pahintulot Ko saka umiihip ka rito kaya ito ay nagiging ibon, at nagpapagaling ka ng ipinanganak na bulag at ng ketungin ayon sa pahintulot Ko; noong nagpapalabas ka sa mga patay ayon sa pahintulot Ko; at noong pumigil Ako sa mga anak ni Israel palayo sa iyo noong naghatid ka sa kanila ng mga malinaw na patunay at nagsabi ang mga tumangging sumampalataya kabilang sa kanila: Walang iba ito kundi isang panggagaway na malinaw."
 
 # 780
 
-[Banggitin] noong nagkasi Ako sa mga disipulo, na [nagsasabi]: "Sumampalataya kayo sa Akin at sa Sugo Ko" ay nagsabi sila: "Sumampalataya kami at sumaksi Ka na kami ay mga Muslim."
+\[Banggitin\] noong nagkasi Ako sa mga disipulo, na \[nagsasabi\]: "Sumampalataya kayo sa Akin at sa Sugo Ko" ay nagsabi sila: "Sumampalataya kami at sumaksi Ka na kami ay mga Muslim."
 
 # 781
 
-[Banggitin] noong nagsabi ang mga disipulo: "O Jesus na anak na Maria, makakakaya kaya ang Panginoon mo na magpababa sa atin ng isang hapag mula sa langit?" ay nagsabi siya: "Mangilag kayong magkasala kay Allāh kung kayo ay mga mananampalataya."
+\[Banggitin\] noong nagsabi ang mga disipulo: "O Jesus na anak na Maria, makakakaya kaya ang Panginoon mo na magpababa sa atin ng isang hapag mula sa langit?" ay nagsabi siya: "Mangilag kayong magkasala kay Allāh kung kayo ay mga mananampalataya."
 
 # 782
 
@@ -3156,7 +3156,7 @@ Nagsabi si Allāh: "Tunay na Ako ay magbababa nito sa inyo; kaya ang sinumang ta
 
 # 785
 
-[Banggitin] kapag magsasabi si Allāh: "O Jesus na anak ni Maria, ikaw ba ay nagsabi sa mga tao: Gawin ninyo ako at ang ina ko bilang dalawang diyos bukod pa kay Allāh?" Magsasabi ito: "Kaluwalhatian sa Iyo! Hindi nagiging ukol sa akin na magsabi ako ng anumang wala akong karapatan. Kung nangyaring nagsabi ako niyon ay nakaalam Ka nga niyon. Nakaaalam Ka ng nasa sarili ko ngunit hindi ako nakaaalam ng nasa sarili Mo. Tunay na Ikaw ay ang Palaalam sa mga lingid.
+\[Banggitin\] kapag magsasabi si Allāh: "O Jesus na anak ni Maria, ikaw ba ay nagsabi sa mga tao: Gawin ninyo ako at ang ina ko bilang dalawang diyos bukod pa kay Allāh?" Magsasabi ito: "Kaluwalhatian sa Iyo! Hindi nagiging ukol sa akin na magsabi ako ng anumang wala akong karapatan. Kung nangyaring nagsabi ako niyon ay nakaalam Ka nga niyon. Nakaaalam Ka ng nasa sarili ko ngunit hindi ako nakaaalam ng nasa sarili Mo. Tunay na Ikaw ay ang Palaalam sa mga lingid.
 
 # 786
 
@@ -3176,7 +3176,7 @@ Sa kay Allāh ang paghahari sa mga langit at lupa at anumang nasa mga ito. Siya 
 
 # 790
 
-Ang papuri ay ukol kay Allāh na lumikha ng mga langit at lupa, at gumawa sa mga kadiliman at liwanag. Pagkatapos ang mga tumangging sumampalataya sa Panginoon nila ay nagpapantay [sa iba].
+Ang papuri ay ukol kay Allāh na lumikha ng mga langit at lupa, at gumawa sa mga kadiliman at liwanag. Pagkatapos ang mga tumangging sumampalataya sa Panginoon nila ay nagpapantay \[sa iba\].
 
 # 791
 
@@ -3184,7 +3184,7 @@ Siya ay ang lumikha sa inyo mula sa putik, pagkatapos nagpasya Siya ng isang tan
 
 # 792
 
-Siya ay si Allāh [ang Diyos] sa mga langit at sa lupa. Nakaaalam Siya sa lihim ninyo at kahayagan ninyo at nakaaalam Siya sa nakakamit ninyo.
+Siya ay si Allāh \[ang Diyos\] sa mga langit at sa lupa. Nakaaalam Siya sa lihim ninyo at kahayagan ninyo at nakaaalam Siya sa nakakamit ninyo.
 
 # 793
 
@@ -3228,7 +3228,7 @@ Sa Kanya ang anumang nanahan sa gabi at maghapon. Siya ay ang Madinigin, ang Maa
 
 # 803
 
-Sabihin mo: "Sa iba pa kay Allāh ba gagawa ako bilang katangkilik, na Tagapaglalang ng mga langit at lupa, at Siya ay nagpapakain at hindi pinakakain?" Sabihin mo: "Tunay na ako ay inutusan na maging una sa nagpasakop." Huwag ka ngang magiging kabilang sa mga tagapagtambal [kay Allāh].
+Sabihin mo: "Sa iba pa kay Allāh ba gagawa ako bilang katangkilik, na Tagapaglalang ng mga langit at lupa, at Siya ay nagpapakain at hindi pinakakain?" Sabihin mo: "Tunay na ako ay inutusan na maging una sa nagpasakop." Huwag ka ngang magiging kabilang sa mga tagapagtambal \[kay Allāh\].
 
 # 804
 
@@ -3264,7 +3264,7 @@ Sa araw na kakalap Kami sa kanila sa kalahatan, pagkatapos magsasabi Kami sa mga
 
 # 812
 
-Pagkatapos walang [tugon sa] pagsusulit sa kanila kundi na nagsabi sila: "Sumpa man kay Allāh na Panginoon Namin, kami noon ay hindi mga tagapagtambal."
+Pagkatapos walang \[tugon sa\] pagsusulit sa kanila kundi na nagsabi sila: "Sumpa man kay Allāh na Panginoon Namin, kami noon ay hindi mga tagapagtambal."
 
 # 813
 
@@ -3280,7 +3280,7 @@ Sila ay sumasaway laban sa kanya at lumalayo sa kanya. Hindi sila nagpapahamak k
 
 # 816
 
-Kung sakaling makakikita ka kapag patitigilin sila sa ibabaw ng Apoy saka magsasabi sila: "O kung sana kami ay pababalikin at [upang] hindi magpasinungaling sa mga tanda ng Panginoon Natin at maging kabilang sa mga mananampalataya!"
+Kung sakaling makakikita ka kapag patitigilin sila sa ibabaw ng Apoy saka magsasabi sila: "O kung sana kami ay pababalikin at \[upang\] hindi magpasinungaling sa mga tanda ng Panginoon Natin at maging kabilang sa mga mananampalataya!"
 
 # 817
 
@@ -3312,7 +3312,7 @@ Talaga ngang may pinasinungalingan na mga sugo bago mo pa ngunit nagtiis sila sa
 
 # 824
 
-Kung nangyaring bumigat sa iyo ang pag-ayaw nila saka kung nakaya mo na maghanap ng isang lagusan sa lupa o isang hagdan sa langit para magdala ka sa kanila ng isang tanda, [gawin mo]. Kung sakaling niloob ni Allāh ay talaga sanang tinipon Niya sila sa patnubay, kaya huwag ka ngang magiging kabilang sa mga mangmang.
+Kung nangyaring bumigat sa iyo ang pag-ayaw nila saka kung nakaya mo na maghanap ng isang lagusan sa lupa o isang hagdan sa langit para magdala ka sa kanila ng isang tanda, \[gawin mo\]. Kung sakaling niloob ni Allāh ay talaga sanang tinipon Niya sila sa patnubay, kaya huwag ka ngang magiging kabilang sa mga mangmang.
 
 # 825
 
@@ -3360,7 +3360,7 @@ Sabihin mo: "Nagsaalang-alang ba kayo kung kumuha si Allāh sa pandinig ninyo at
 
 # 836
 
-Sabihin mo: "Naisaalang-alang ba sa inyo kung pumunta sa inyo ang pagdurusa mula kay Allāh nang biglaan o lantaran? [May] ipinahahamak pa kaya kundi ang mga taong tagalabag sa katarungan?"
+Sabihin mo: "Naisaalang-alang ba sa inyo kung pumunta sa inyo ang pagdurusa mula kay Allāh nang biglaan o lantaran? \[May\] ipinahahamak pa kaya kundi ang mga taong tagalabag sa katarungan?"
 
 # 837
 
@@ -3380,7 +3380,7 @@ Magbabala ka nito sa mga nangangamba na kalapin sila tungo sa Panginoon nila –
 
 # 841
 
-Huwag kang magtaboy sa mga dumadalangin sa Panginoon nila sa umaga at dapit-hapon, na nagnanais [ng ikalulugod] ng mukha Niya. Walang kailangan sa iyo na pagtutuos sa kanila sa anuman at walang pagtutuos sa iyo na kailangan sa kanila sa anuman, para magtaboy ka sa kanila para ikaw ay maging kabilang sa mga tagalabag sa katarungan.
+Huwag kang magtaboy sa mga dumadalangin sa Panginoon nila sa umaga at dapit-hapon, na nagnanais \[ng ikalulugod\] ng mukha Niya. Walang kailangan sa iyo na pagtutuos sa kanila sa anuman at walang pagtutuos sa iyo na kailangan sa kanila sa anuman, para magtaboy ka sa kanila para ikaw ay maging kabilang sa mga tagalabag sa katarungan.
 
 # 842
 
@@ -3424,7 +3424,7 @@ Pagkatapos isasauli sila kay Allāh, ang Tagatangkilik nilang totoo. Pansinin, u
 
 # 852
 
-Sabihin mo: "Sino ang magliligtas sa inyo mula sa mga kadiliman ng katihan at dagat, na dumadalangin kayo sa Kanya dala ng pagpapakumbaba at palihim, [na nagsasabi]: "Talagang kung paliligtasin Niya kami mula rito, talagang kami nga ay magiging kabilang sa mga tagapagpasalamat."
+Sabihin mo: "Sino ang magliligtas sa inyo mula sa mga kadiliman ng katihan at dagat, na dumadalangin kayo sa Kanya dala ng pagpapakumbaba at palihim, \[na nagsasabi\]: "Talagang kung paliligtasin Niya kami mula rito, talagang kami nga ay magiging kabilang sa mga tagapagpasalamat."
 
 # 853
 
@@ -3432,7 +3432,7 @@ Sabihin mo: "Si Allāh ay magliligtas sa inyo mula roon at mula sa bawat dalamha
 
 # 854
 
-Sabihin mo: "Siya ay ang Nakakakaya na magpadala sa inyo ng isang pagdurusa mula sa ibabaw ninyo o mula sa ilalim ng mga paa ninyo, o na magpalito sa inyo [para maging] mga pangkatin at magpalasap sa ilan sa inyo ng kabangisan ng iba pa." Tumingin ka kung papaano Kaming nagsasarisari ng mga tanda, nang sa gayon sila ay makauunawa.
+Sabihin mo: "Siya ay ang Nakakakaya na magpadala sa inyo ng isang pagdurusa mula sa ibabaw ninyo o mula sa ilalim ng mga paa ninyo, o na magpalito sa inyo \[para maging\] mga pangkatin at magpalasap sa ilan sa inyo ng kabangisan ng iba pa." Tumingin ka kung papaano Kaming nagsasarisari ng mga tanda, nang sa gayon sila ay makauunawa.
 
 # 855
 
@@ -3444,7 +3444,7 @@ Para sa bawat balita ay isang tinitigilan, at malalaman ninyo.
 
 # 857
 
-Kapag nakakita ka sa mga tumatalakay [sa pagpapabula] sa mga talata Namin ay umayaw ka sa kanila hanggang sa tumalakay sila sa isang pag-uusap na iba roon. Kung magpapalimot nga sa iyo ang demonyo ay huwag kang manatili, matapos ng pagkaalaala, kasama sa mga taong tagalabag sa katarungan.
+Kapag nakakita ka sa mga tumatalakay \[sa pagpapabula\] sa mga talata Namin ay umayaw ka sa kanila hanggang sa tumalakay sila sa isang pag-uusap na iba roon. Kung magpapalimot nga sa iyo ang demonyo ay huwag kang manatili, matapos ng pagkaalaala, kasama sa mga taong tagalabag sa katarungan.
 
 # 858
 
@@ -3456,7 +3456,7 @@ Hayaan mo ang mga gumawa sa relihiyon nila bilang laro at paglilibang at luminla
 
 # 860
 
-Sabihin mo: "Dadalangin ba kami sa bukod pa kay Allāh, na hindi nakapagpapakinabang sa amin at hindi nakapipinsala sa amin? Panunumbalikin kami sa [dinaanan ng] mga sakong namin matapos noong pumatnubay sa amin si Allāh, gaya ng hinalina ng mga demonyo sa lupa na litung-lito habang mayroon siyang mga kasamahang nag-aanyaya sa kanya tungo sa patnubay, [na nagsasabi]: Pumunta ka sa amin." Sabihin mo: "Tunay na ang patnubay ni Allāh ay ang patnubay. Inutusan tayo upang magpasakop tayo sa Panginoon ng mga nilalang,
+Sabihin mo: "Dadalangin ba kami sa bukod pa kay Allāh, na hindi nakapagpapakinabang sa amin at hindi nakapipinsala sa amin? Panunumbalikin kami sa \[dinaanan ng\] mga sakong namin matapos noong pumatnubay sa amin si Allāh, gaya ng hinalina ng mga demonyo sa lupa na litung-lito habang mayroon siyang mga kasamahang nag-aanyaya sa kanya tungo sa patnubay, \[na nagsasabi\]: Pumunta ka sa amin." Sabihin mo: "Tunay na ang patnubay ni Allāh ay ang patnubay. Inutusan tayo upang magpasakop tayo sa Panginoon ng mga nilalang,
 
 # 861
 
@@ -3464,11 +3464,11 @@ at na magpanatili kayo ng pagdarasal at mangilag kayong magkasala sa Kanya." Siy
 
 # 862
 
-Siya ay ang lumikha ng mga langit at lupa ayon sa katotohanan. Sa Araw na magsasabi Siya na mangyari saka mangyayari ito, ang sabi Niya ay ang katotohanan. Sa Kanya ang paghahari sa Araw na iihip sa tambuli. [Siya] ang Nakaaalam sa Lingid at Hayag. Siya ay ang Marunong, ang Mapagbatid.
+Siya ay ang lumikha ng mga langit at lupa ayon sa katotohanan. Sa Araw na magsasabi Siya na mangyari saka mangyayari ito, ang sabi Niya ay ang katotohanan. Sa Kanya ang paghahari sa Araw na iihip sa tambuli. \[Siya\] ang Nakaaalam sa Lingid at Hayag. Siya ay ang Marunong, ang Mapagbatid.
 
 # 863
 
-[Banggitin] noong nagsabi si Abraham sa ama niyang si Āzar: "Gumagawa ka ba sa mga anito bilang mga diyos? Tunay na ako ay nakakikita sa iyo at mga kalipi mo sa isang pagkaligaw na malinaw."
+\[Banggitin\] noong nagsabi si Abraham sa ama niyang si Āzar: "Gumagawa ka ba sa mga anito bilang mga diyos? Tunay na ako ay nakakikita sa iyo at mga kalipi mo sa isang pagkaligaw na malinaw."
 
 # 864
 
@@ -3520,7 +3520,7 @@ Kina Ismael, Eliseo, Jonas, at Lot, sa lahat ay nagtangi Kami sa mga nilalang.
 
 # 876
 
-[Nagpatnubay Kami] sa kabilang sa mga ama nila, mga supling nila, at mga kapatid nila. Humirang Kami sa kanila at nagpatnubay Kami sa kanila tungo sa isang landasing tuwid.
+\[Nagpatnubay Kami\] sa kabilang sa mga ama nila, mga supling nila, at mga kapatid nila. Humirang Kami sa kanila at nagpatnubay Kami sa kanila tungo sa isang landasing tuwid.
 
 # 877
 
@@ -3536,7 +3536,7 @@ Ang mga iyon ay ang mga pinatnubayan ni Allāh, kaya sa patnubay nila ay tumulad
 
 # 880
 
-Hindi sila nagpahalaga kay Allāh nang totoong pagpapahalaga sa Kanya noong nagsabi sila: "Hindi nagpababa si Allāh sa isang tao ng anuman." Sabihin mo: "Sino ang nagpababa sa kasulatang ihinatid ni Moises bilang liwanag at patnubay para sa mga tao? Gumagawa kayo roon bilang mga pahina, na naglalantad kayo [ng ilan] nito at nagkukubli kayo ng marami. Tinuruan kayo ng hindi nalaman ninyo ni ng mga magulang ninyo." Sabihin mo: "Si Allāh [ay nagpababa]." Pagkatapos hayaan mo sila sa masamang pagtatalakay nila habang naglalaro sila.
+Hindi sila nagpahalaga kay Allāh nang totoong pagpapahalaga sa Kanya noong nagsabi sila: "Hindi nagpababa si Allāh sa isang tao ng anuman." Sabihin mo: "Sino ang nagpababa sa kasulatang ihinatid ni Moises bilang liwanag at patnubay para sa mga tao? Gumagawa kayo roon bilang mga pahina, na naglalantad kayo \[ng ilan\] nito at nagkukubli kayo ng marami. Tinuruan kayo ng hindi nalaman ninyo ni ng mga magulang ninyo." Sabihin mo: "Si Allāh \[ay nagpababa\]." Pagkatapos hayaan mo sila sa masamang pagtatalakay nila habang naglalaro sila.
 
 # 881
 
@@ -3544,11 +3544,11 @@ Ito ay Aklat na pinababa Namin, na pinagpala, na tagapagpatotoo sa nauna rito at
 
 # 882
 
-Sino pa ang higit na tagalabag sa katarungan kaysa sa sinumang gumawa-gawa laban kay Allāh ng isang kasinungalingan o nagsabi: "Nagkasi sa akin" samantalang hindi nagkasi sa kanya ng anuman, at sinumang nagsabi: "Magpapababa ako ng tulad sa pinababa ni Allāh." Kung sakaling nakikita mo kapag ang mga tagalabag sa katarungan ay nasa mga hapdi ng kamatayan samantalang ang mga anghel ay nag-aabot ng mga kamay nila [na nagsasabi]: "Magpalabas kayo ng mga kaluluwa ninyo! Sa araw na ito ay gagantihan kayo ng pagdurusa ng pagkahamak dahil kayo noon ay nagsasabi hinggil kay Allāh ng hindi totoo at kayo noon sa mga tanda Niya ay nagmamalaki."
+Sino pa ang higit na tagalabag sa katarungan kaysa sa sinumang gumawa-gawa laban kay Allāh ng isang kasinungalingan o nagsabi: "Nagkasi sa akin" samantalang hindi nagkasi sa kanya ng anuman, at sinumang nagsabi: "Magpapababa ako ng tulad sa pinababa ni Allāh." Kung sakaling nakikita mo kapag ang mga tagalabag sa katarungan ay nasa mga hapdi ng kamatayan samantalang ang mga anghel ay nag-aabot ng mga kamay nila \[na nagsasabi\]: "Magpalabas kayo ng mga kaluluwa ninyo! Sa araw na ito ay gagantihan kayo ng pagdurusa ng pagkahamak dahil kayo noon ay nagsasabi hinggil kay Allāh ng hindi totoo at kayo noon sa mga tanda Niya ay nagmamalaki."
 
 # 883
 
-Talaga ngang dumating kayo sa Amin bilang mga bukod-tangi gaya ng paglikha Namin sa inyo sa unang pagkakataon. Umiwan kayo sa mga iginawad Namin sa inyo sa likuran ng mga likod ninyo. Hindi Kami nakakikita kasama sa inyo ng mga tagapagpamagitan ninyo na inakala ninyo na sila sa inyo ay mga katambal [kay Allāh]. Talaga ngang nagkaputul-putol [ang ugnayan] sa pagitan ninyo at nawala sa inyo ang dati ninyong inaangkin.
+Talaga ngang dumating kayo sa Amin bilang mga bukod-tangi gaya ng paglikha Namin sa inyo sa unang pagkakataon. Umiwan kayo sa mga iginawad Namin sa inyo sa likuran ng mga likod ninyo. Hindi Kami nakakikita kasama sa inyo ng mga tagapagpamagitan ninyo na inakala ninyo na sila sa inyo ay mga katambal \[kay Allāh\]. Talaga ngang nagkaputul-putol \[ang ugnayan\] sa pagitan ninyo at nawala sa inyo ang dati ninyong inaangkin.
 
 # 884
 
@@ -3556,7 +3556,7 @@ Tunay na si Allāh ay tagapabuka ng mga butil at mga buto, na nagpapalalabas ng 
 
 # 885
 
-[Siya ay] ang tagabuka ng madaling-araw at gumawa sa gabi bilang pamamahinga at sa araw at buwan bilang pagtutuus-tuos. Iyon ay ang pagtatakda ng Makapangyarihan, Maalam.
+\[Siya ay\] ang tagabuka ng madaling-araw at gumawa sa gabi bilang pamamahinga at sa araw at buwan bilang pagtutuus-tuos. Iyon ay ang pagtatakda ng Makapangyarihan, Maalam.
 
 # 886
 
@@ -3564,7 +3564,7 @@ Siya ay ang gumawa para sa inyo ng mga bituin upang mapatnubayan kayo sa pamamag
 
 # 887
 
-Siya ay ang nagpaluwal sa inyo mula sa nag-iisang kaluluwa saka [nagbigay ng] isang pinagtitigilan at isang pinaglalagakan. Nagsarisari nga Kami ng mga tanda para sa mga taong umuunawa.
+Siya ay ang nagpaluwal sa inyo mula sa nag-iisang kaluluwa saka \[nagbigay ng\] isang pinagtitigilan at isang pinaglalagakan. Nagsarisari nga Kami ng mga tanda para sa mga taong umuunawa.
 
 # 888
 
@@ -3588,7 +3588,7 @@ Hindi nakaaabot sa Kanya ang mga paningin samantalang Siya ay nakaaabot sa mga p
 
 # 893
 
-May dumating nga sa inyo na mga hayag na patunay mula sa Panginoon ninyo. Kaya ang sinumang nakakita ay para sa sarili niya [ang pakinabang]; at ang sinumang nabulag ay laban dito [ang pinsala]. Hindi ako sa inyo isang mapag-ingat.
+May dumating nga sa inyo na mga hayag na patunay mula sa Panginoon ninyo. Kaya ang sinumang nakakita ay para sa sarili niya \[ang pakinabang\]; at ang sinumang nabulag ay laban dito \[ang pinsala\]. Hindi ako sa inyo isang mapag-ingat.
 
 # 894
 
@@ -3672,7 +3672,7 @@ Kapag may dumating sa kanila na isang tanda ay nagsasabi sila: "Hindi kami sasam
 
 # 914
 
-Kaya sa sinumang magnanais si Allāh na magpatnubay ay magpapaluwag Siya ng dibdib nito para sa Islām. Sa sinumang magnanais Siya na magligaw ay gagawa Siya sa dibdib nito na [maging] isang masikip na pagkaasiwa na para bang umaakyat siya sa kalangitan. Gayon naglalagay si Allāh ng kasalaulaan sa mga hindi sumasampalataya.
+Kaya sa sinumang magnanais si Allāh na magpatnubay ay magpapaluwag Siya ng dibdib nito para sa Islām. Sa sinumang magnanais Siya na magligaw ay gagawa Siya sa dibdib nito na \[maging\] isang masikip na pagkaasiwa na para bang umaakyat siya sa kalangitan. Gayon naglalagay si Allāh ng kasalaulaan sa mga hindi sumasampalataya.
 
 # 915
 
@@ -3684,7 +3684,7 @@ Ukol sa kanila ang tahanan ng kaligtasan sa piling ng Panginoon nila. Siya ay Ka
 
 # 917
 
-[Banggitin mo] ang araw na kakalap Siya sa kanila sa kalahatan: "O umpukan ng jinn, nagparami nga kayo [ng pagliligaw] sa tao at jinn." Magsasabi ang mga katangkilik nila kabilang sa tao: "Panginoon namin, nagtamasa ang ilan sa amin sa iba pa at umabot kami sa taning na itinaning Mo para sa amin." Magsasabi Siya: "Ang Apoy ay tuluyan ninyo bilang mga mananatili roon, maliban sa niloob ni Allāh. Tunay na ang Panginoon mo ay Marunong, Maalam.
+\[Banggitin mo\] ang araw na kakalap Siya sa kanila sa kalahatan: "O umpukan ng jinn, nagparami nga kayo \[ng pagliligaw\] sa tao at jinn." Magsasabi ang mga katangkilik nila kabilang sa tao: "Panginoon namin, nagtamasa ang ilan sa amin sa iba pa at umabot kami sa taning na itinaning Mo para sa amin." Magsasabi Siya: "Ang Apoy ay tuluyan ninyo bilang mga mananatili roon, maliban sa niloob ni Allāh. Tunay na ang Panginoon mo ay Marunong, Maalam.
 
 # 918
 
@@ -3716,23 +3716,23 @@ Sabihin mo: "O mga tao ko, gumawa kayo ayon sa paraan ninyo; tunay na ako ay gum
 
 # 925
 
-Nagtalaga sila ukol kay Allāh ng isang bahagi mula sa nilalang Niya na pananim at mga hayupan saka nagsabi sila: "Ito ay ukol kay Allāh," ayon sa pag-aangkin nila: "at ito ay ukol sa mga pantambal natin [kay Allāh]." Ang anumang ukol sa mga itinambal nila ay hindi nakararating kay Allāh; at ang anumang ukol kay Allāh, ito ay nakararating sa mga itinatambal nila. Kay sagwa ang ihinahatol nila!
+Nagtalaga sila ukol kay Allāh ng isang bahagi mula sa nilalang Niya na pananim at mga hayupan saka nagsabi sila: "Ito ay ukol kay Allāh," ayon sa pag-aangkin nila: "at ito ay ukol sa mga pantambal natin \[kay Allāh\]." Ang anumang ukol sa mga itinambal nila ay hindi nakararating kay Allāh; at ang anumang ukol kay Allāh, ito ay nakararating sa mga itinatambal nila. Kay sagwa ang ihinahatol nila!
 
 # 926
 
-Gayon ipinang-akit sa marami sa mga tagapagtambal ng mga pantambal nila [kay Allāh] ang pagpatay sa mga anak nila upang magpahamak ang mga ito sa kanila at upang manlito ang mga ito sa kanila sa relihiyon nila. Kung sakaling niloob ni Allāh ay hindi sana sila gumawa niyon. Kaya hayaan mo sila at ang ginagawa-gawa nila.
+Gayon ipinang-akit sa marami sa mga tagapagtambal ng mga pantambal nila \[kay Allāh\] ang pagpatay sa mga anak nila upang magpahamak ang mga ito sa kanila at upang manlito ang mga ito sa kanila sa relihiyon nila. Kung sakaling niloob ni Allāh ay hindi sana sila gumawa niyon. Kaya hayaan mo sila at ang ginagawa-gawa nila.
 
 # 927
 
-Nagsabi sila: "Ang mga ito ay mga hayupan at mga pananim na bawal, na walang kakain sa mga ito kundi ang sinumang niloloob natin," ayon sa pag-aangkin nila. May mga hayupang ipinagbawal ang mga likod ng mga ito at may mga hayupang hindi sila bumabanggit ng pangalan ni Allāh sa [pagkakatay sa] mga ito, dala ng isang paggawa-gawa [ng kasinungalingan] sa Kanya. Gaganti Siya sa kanila sa anumang dati nilang ginagawa-gawa.
+Nagsabi sila: "Ang mga ito ay mga hayupan at mga pananim na bawal, na walang kakain sa mga ito kundi ang sinumang niloloob natin," ayon sa pag-aangkin nila. May mga hayupang ipinagbawal ang mga likod ng mga ito at may mga hayupang hindi sila bumabanggit ng pangalan ni Allāh sa \[pagkakatay sa\] mga ito, dala ng isang paggawa-gawa \[ng kasinungalingan\] sa Kanya. Gaganti Siya sa kanila sa anumang dati nilang ginagawa-gawa.
 
 # 928
 
-Nagsabi sila: "Ang nasa mga tiyan ng mga hayupan na ito ay nakalaan para sa mga lalaki namin at ipinagbabawal sa mga maybahay namin. Kung ito ay [isinilang na] isang patay, sila rito ay magkakatambal." Gaganti Siya sa paglalarawan nila; tunay na Siya ay Marunong, Maalam.
+Nagsabi sila: "Ang nasa mga tiyan ng mga hayupan na ito ay nakalaan para sa mga lalaki namin at ipinagbabawal sa mga maybahay namin. Kung ito ay \[isinilang na\] isang patay, sila rito ay magkakatambal." Gaganti Siya sa paglalarawan nila; tunay na Siya ay Marunong, Maalam.
 
 # 929
 
-Nalugi nga ang mga pumatay sa mga anak nila dala ng isang kahunghangang walang kaalaman at nagbawal sa itinustos sa kanila ni Allāh dala ng paggawa-gawa [ng kasinungalingan] laban kay Allāh. Naligaw nga sila at sila noon ay hindi mga napatnubayan.
+Nalugi nga ang mga pumatay sa mga anak nila dala ng isang kahunghangang walang kaalaman at nagbawal sa itinustos sa kanila ni Allāh dala ng paggawa-gawa \[ng kasinungalingan\] laban kay Allāh. Naligaw nga sila at sila noon ay hindi mga napatnubayan.
 
 # 930
 
@@ -3740,11 +3740,11 @@ Siya ay ang nagpalabas ng mga hardin na mga binalagan at hindi mga binalagan, ng
 
 # 931
 
-May mga hayupang [nilikhang] bilang tagapasan at bilang munti. Kumain kayo mula sa itinustos sa inyo ni Allāh at huwag kayong sumunod sa mga hakbang ng demonyo. Tunay na siya para sa inyo ay isang kaaway na malinaw.
+May mga hayupang \[nilikhang\] bilang tagapasan at bilang munti. Kumain kayo mula sa itinustos sa inyo ni Allāh at huwag kayong sumunod sa mga hakbang ng demonyo. Tunay na siya para sa inyo ay isang kaaway na malinaw.
 
 # 932
 
-[Lumikha ng] walong pares. Mula sa mga tupa ay may dalawa at mula sa mga kambing ay may dalawa. Sabihin mo: "Ang dalawang lalaki ba ay ipinagbawal Niya o ang dalawang babae o ang nilaman ng mga sinapupunan ng dalawang babae? Magbalita kayo sa akin ng isang kaalaman kung kayo ay mga tapat."
+\[Lumikha ng\] walong pares. Mula sa mga tupa ay may dalawa at mula sa mga kambing ay may dalawa. Sabihin mo: "Ang dalawang lalaki ba ay ipinagbawal Niya o ang dalawang babae o ang nilaman ng mga sinapupunan ng dalawang babae? Magbalita kayo sa akin ng isang kaalaman kung kayo ay mga tapat."
 
 # 933
 
@@ -3756,7 +3756,7 @@ Sabihin mo: "Hindi ako nakatatagpo sa anumang ikinasi sa akin ng isang ipinagbab
 
 # 935
 
-Sa mga nagpakahudyo ay nagbawal Kami ng bawat may mga buong kuko. Mula sa mga baka at mga tupa ay nagbawal Kami sa kanila ng mga taba ng dalawang [uring] ito maliban sa anumang kinapitan ng mga likod ng dalawang [uring] ito o ng mga bituka nito o anumang nahalo sa buto. Iyon ay iginanti Namin sa kanila dahil sa paglabag nila. Tunay na Kami ay talagang Tapat.
+Sa mga nagpakahudyo ay nagbawal Kami ng bawat may mga buong kuko. Mula sa mga baka at mga tupa ay nagbawal Kami sa kanila ng mga taba ng dalawang \[uring\] ito maliban sa anumang kinapitan ng mga likod ng dalawang \[uring\] ito o ng mga bituka nito o anumang nahalo sa buto. Iyon ay iginanti Namin sa kanila dahil sa paglabag nila. Tunay na Kami ay talagang Tapat.
 
 # 936
 
@@ -3772,19 +3772,19 @@ Sabihin mo: "Ngunit kay Allāh ang katwirang masidhi kaya kung sakaling niloob N
 
 # 939
 
-Sabihin mo: "Maglahad kayo ng mga saksi ninyo na sasaksi na si Allāh ay nagbawal nito, saka kung sumaksi sila ay huwag kang sumaksi kasama sa kanila. Huwag kang sumunod sa mga pithaya ng mga nagpasinungaling sa mga tanda Namin at ng mga hindi sumasampalataya sa Kabilang-buhay habang sila sa Panginoon nila ay nagpapantay [sa iba]."
+Sabihin mo: "Maglahad kayo ng mga saksi ninyo na sasaksi na si Allāh ay nagbawal nito, saka kung sumaksi sila ay huwag kang sumaksi kasama sa kanila. Huwag kang sumunod sa mga pithaya ng mga nagpasinungaling sa mga tanda Namin at ng mga hindi sumasampalataya sa Kabilang-buhay habang sila sa Panginoon nila ay nagpapantay \[sa iba\]."
 
 # 940
 
-Sabihin mo: "Halikayo, bibigkas ako ng ipinagbawal ng Panginoon ninyo sa inyo: na huwag kayong magtambal sa Kanya ng anuman; sa mga magulang ay [mag-ukol ng] paggawa ng maganda; huwag kayong pumatay ng mga anak ninyo dahil sa isang paghihikahos, Kami ay nagtutustos sa inyo at sa kanila; huwag kayong lumapit sa mga malaswa: anumang nalantad mula sa mga ito at anumang nakubli; at huwag kayong pumatay ng buhay na ipinagbawal ni Allāh malibang ayon sa karapatan." Iyon ay itinagubilin Niya sa inyo, nang sa gayon kayo ay makapag-uunawa.
+Sabihin mo: "Halikayo, bibigkas ako ng ipinagbawal ng Panginoon ninyo sa inyo: na huwag kayong magtambal sa Kanya ng anuman; sa mga magulang ay \[mag-ukol ng\] paggawa ng maganda; huwag kayong pumatay ng mga anak ninyo dahil sa isang paghihikahos, Kami ay nagtutustos sa inyo at sa kanila; huwag kayong lumapit sa mga malaswa: anumang nalantad mula sa mga ito at anumang nakubli; at huwag kayong pumatay ng buhay na ipinagbawal ni Allāh malibang ayon sa karapatan." Iyon ay itinagubilin Niya sa inyo, nang sa gayon kayo ay makapag-uunawa.
 
 # 941
 
-Huwag kayong lumapit sa yaman ng ulila kundi sa [paraang] pinakamaganda hanggang sa umabot siya sa kalakasan niya. Magpalubus-lubos kayo ng pagtatakal at [pagtitimbang sa] timbangan ayon sa pagkamakatarungan. Hindi Kami nag-aatang sa isang kaluluwa malibang ayon sa kakayahan nito. Kapag nagsabi kayo ay magpakamakatarungan kayo kahit pa sa isang may pagkakamag-anak. Sa kasunduan kay Allāh ay magpatupad kayo. Iyon ay itinagubilin Niya sa inyo, nang sa gayon kayo ay magsasaalaala.
+Huwag kayong lumapit sa yaman ng ulila kundi sa \[paraang\] pinakamaganda hanggang sa umabot siya sa kalakasan niya. Magpalubus-lubos kayo ng pagtatakal at \[pagtitimbang sa\] timbangan ayon sa pagkamakatarungan. Hindi Kami nag-aatang sa isang kaluluwa malibang ayon sa kakayahan nito. Kapag nagsabi kayo ay magpakamakatarungan kayo kahit pa sa isang may pagkakamag-anak. Sa kasunduan kay Allāh ay magpatupad kayo. Iyon ay itinagubilin Niya sa inyo, nang sa gayon kayo ay magsasaalaala.
 
 # 942
 
-Na ito ay ang landasin Ko, tuwid, kaya sumunod kayo rito. Huwag kayong sumunod sa mga [ibang] landas para magpahiwa-hiwalay ang mga ito sa inyo palayo sa landas Niya. Iyon ay itinagubilin Niya sa inyo, nang sa gayon kayo ay mangingilag magkasala.
+Na ito ay ang landasin Ko, tuwid, kaya sumunod kayo rito. Huwag kayong sumunod sa mga \[ibang\] landas para magpahiwa-hiwalay ang mga ito sa inyo palayo sa landas Niya. Iyon ay itinagubilin Niya sa inyo, nang sa gayon kayo ay mangingilag magkasala.
 
 # 943
 
@@ -3796,15 +3796,15 @@ Ito ay isang Aklat na pinababa Namin, na pinagpala, kaya sumunod kayo rito at ma
 
 # 945
 
-dahil [baka] magsabi kayo: "Pinababa lamang ang Kasulatan sa dalawang pangkatin bago pa namin at tunay na kami noon, sa pag-aaral nila, ay talagang mga nalilingat,"
+dahil \[baka\] magsabi kayo: "Pinababa lamang ang Kasulatan sa dalawang pangkatin bago pa namin at tunay na kami noon, sa pag-aaral nila, ay talagang mga nalilingat,"
 
 # 946
 
-o [dahil baka] magsabi kayo: "Kung sakaling kami ay pinababaan ng kasulatan, talaga sanang kami ay naging higit na napatnubayan kaysa sa kanila," sapagkat may dumating nga sa inyo na isang malinaw na patunay mula sa Panginoon ninyo, isang patnubay, at isang awa. Kaya sino pa ang higit na tagalabag sa katarungan kaysa sa sinumang nagpasinungaling sa mga tanda ni Allāh at lumihis palayo sa mga ito? Gaganti Kami sa mga lumilihis palayo sa mga tanda Namin ng kasagwaan ng pagdurusa dahil sila noon ay lumilihis.
+o \[dahil baka\] magsabi kayo: "Kung sakaling kami ay pinababaan ng kasulatan, talaga sanang kami ay naging higit na napatnubayan kaysa sa kanila," sapagkat may dumating nga sa inyo na isang malinaw na patunay mula sa Panginoon ninyo, isang patnubay, at isang awa. Kaya sino pa ang higit na tagalabag sa katarungan kaysa sa sinumang nagpasinungaling sa mga tanda ni Allāh at lumihis palayo sa mga ito? Gaganti Kami sa mga lumilihis palayo sa mga tanda Namin ng kasagwaan ng pagdurusa dahil sila noon ay lumilihis.
 
 # 947
 
-Naghihintay kaya sila maliban pa na pumunta sa kanila ang mga anghel o pumunta ang Panginoon mo o pumunta ang ilan sa mga tanda ng Panginoon mo? Sa araw na pumunta ang ilan sa mga tanda ng Panginoon mo ay hindi magpapakinabang sa isang kaluluwa ang pananampalataya nito [kung] hindi ito dating sumampalataya bago pa niyan o nagkamit ito sa pananampalataya nito ng isang kabutihan. Sabihin mo: "Maghintay kayo; tunay na Kami ay mga naghihintay."
+Naghihintay kaya sila maliban pa na pumunta sa kanila ang mga anghel o pumunta ang Panginoon mo o pumunta ang ilan sa mga tanda ng Panginoon mo? Sa araw na pumunta ang ilan sa mga tanda ng Panginoon mo ay hindi magpapakinabang sa isang kaluluwa ang pananampalataya nito \[kung\] hindi ito dating sumampalataya bago pa niyan o nagkamit ito sa pananampalataya nito ng isang kabutihan. Sabihin mo: "Maghintay kayo; tunay na Kami ay mga naghihintay."
 
 # 948
 
@@ -3828,7 +3828,7 @@ walang katambal sa Kanya. Gayon nag-utos sa akin, at ako ay una sa mga Muslim."
 
 # 953
 
-Sabihin mo: "Sa iba pa ba kay Allāh maghahangad ako bilang Panginoon samantalang Siya ay Panginoon ng bawat bagay? Walang [kasalanang] nakakamit ang bawat kaluluwa malibang laban dito. Hindi magpapasan ang isang tagapasan ng pasanin ng iba. Pagkatapos tungo sa Panginoon ninyo ang babalikan ninyo saka magbabalita Siya sa inyo hinggil sa anumang kayo noon hinggil doon ay nagkakaiba-iba."
+Sabihin mo: "Sa iba pa ba kay Allāh maghahangad ako bilang Panginoon samantalang Siya ay Panginoon ng bawat bagay? Walang \[kasalanang\] nakakamit ang bawat kaluluwa malibang laban dito. Hindi magpapasan ang isang tagapasan ng pasanin ng iba. Pagkatapos tungo sa Panginoon ninyo ang babalikan ninyo saka magbabalita Siya sa inyo hinggil sa anumang kayo noon hinggil doon ay nagkakaiba-iba."
 
 # 954
 
@@ -3840,7 +3840,7 @@ Alif. Lām. Mīm. Sād.
 
 # 956
 
-[Ito ay] isang Aklat na pinababa sa iyo, kaya huwag magkaroon sa dibdib mo ng pagkaasiwa mula rito, upang magbabala ka sa pamamagitan nito at bilang paalaala para sa mga mananampalataya.
+\[Ito ay\] isang Aklat na pinababa sa iyo, kaya huwag magkaroon sa dibdib mo ng pagkaasiwa mula rito, upang magbabala ka sa pamamagitan nito at bilang paalaala para sa mga mananampalataya.
 
 # 957
 
@@ -3864,11 +3864,11 @@ Kaya talagang magsasalaysay nga Kami sa kanila nang may kaalaman at Kami lagi ay
 
 # 962
 
-Ang pagtitimbang sa Araw na iyon ay ang katotohanan. Kaya ang mga bumigat ang mga timbangan nila [ng kabutihan], ang mga iyon ay ang mga magtatagumpay.
+Ang pagtitimbang sa Araw na iyon ay ang katotohanan. Kaya ang mga bumigat ang mga timbangan nila \[ng kabutihan\], ang mga iyon ay ang mga magtatagumpay.
 
 # 963
 
-Ang mga gumaan ang mga timbangan nila [ng kabutihan], ang mga iyon ay ang mga nagpalugi sa mga sarili nila dahil sila noon sa mga tanda Namin ay lumalabag sa katarungan.
+Ang mga gumaan ang mga timbangan nila \[ng kabutihan\], ang mga iyon ay ang mga nagpalugi sa mga sarili nila dahil sila noon sa mga tanda Namin ay lumalabag sa katarungan.
 
 # 964
 
@@ -3908,7 +3908,7 @@ Nagsabi Siya: "Lumabas ka mula rito bilang nilalait na pinalalayas. Talagang ang
 
 # 973
 
-O Adan, manahan ka at ang asawa mo sa Paraiso, saka kumain kayong dalawa mula saanman ninyo loobin ngunit huwag kayong dalawa lumapit sa punong-kahoy na ito para kayong dalawa ay [hindi] maging kabilang sa mga tagalabag sa katarungan."
+O Adan, manahan ka at ang asawa mo sa Paraiso, saka kumain kayong dalawa mula saanman ninyo loobin ngunit huwag kayong dalawa lumapit sa punong-kahoy na ito para kayong dalawa ay \[hindi\] maging kabilang sa mga tagalabag sa katarungan."
 
 # 974
 
@@ -3920,7 +3920,7 @@ Nakipagsumpaan siya sa kanilang dalawa: "Tunay na ako para sa inyong dalawa ay k
 
 # 976
 
-Kaya nagpamithi siya sa kanilang dalawa dahil sa kahibangan. Kaya noong nakatikim silang dalawa sa [bunga ng] punong-kahoy ay natambad sa kanilang dalawa ang kahubaran nilang dalawa at nagsimula silang dalawa na magkapit sa kanilang dalawa ng mula sa mga dahon ng Paraiso. Nanawagan sa kanilang dalawa ang Panginoon nilang dalawa: "Hindi ba Ako sumaway sa inyong dalawa laban sa punong-kahoy na iyon at nagsabi sa inyong dalawa: Tunay na ang demonyo para sa inyong dalawa ay isang kaaway na malinaw?"
+Kaya nagpamithi siya sa kanilang dalawa dahil sa kahibangan. Kaya noong nakatikim silang dalawa sa \[bunga ng\] punong-kahoy ay natambad sa kanilang dalawa ang kahubaran nilang dalawa at nagsimula silang dalawa na magkapit sa kanilang dalawa ng mula sa mga dahon ng Paraiso. Nanawagan sa kanilang dalawa ang Panginoon nilang dalawa: "Hindi ba Ako sumaway sa inyong dalawa laban sa punong-kahoy na iyon at nagsabi sa inyong dalawa: Tunay na ang demonyo para sa inyong dalawa ay isang kaaway na malinaw?"
 
 # 977
 
@@ -3948,7 +3948,7 @@ Kapag gumawa sila ng isang malaswa ay magsasabi sila: "Nakatagpo kami sa gayon s
 
 # 983
 
-Sabihin mo: "Nag-utos ang Panginoon ko ng pagkamakatarungan, at na magpanatili kayo ng mga mukha ninyo sa bawat patirapaan at manalangin kayo sa Kanya habang mga nagpapakawagas para sa Kanya sa relihiyon. Kung paanong nagsimula Siya sa inyo, [gayon] kayo manunumbalik."
+Sabihin mo: "Nag-utos ang Panginoon ko ng pagkamakatarungan, at na magpanatili kayo ng mga mukha ninyo sa bawat patirapaan at manalangin kayo sa Kanya habang mga nagpapakawagas para sa Kanya sa relihiyon. Kung paanong nagsimula Siya sa inyo, \[gayon\] kayo manunumbalik."
 
 # 984
 
@@ -3960,9 +3960,9 @@ O mga anak ni Adan, magsuot kayo ng gayak ninyo sa bawat masjid. Kumain kayo at 
 
 # 986
 
-Sabihin mo: "Sino ang nagbawal sa gayak ni Allāh na pinalabas Niya para sa mga lingkod Niya at sa mga kaaya-aya mula sa panustos?" Sabihin mo: "Ito ay para sa mga sumampalataya sa [sandali ng] buhay na pangmundo samantalang nakalaan [sa kanila] sa Araw ng Pagbangon." Gayon Kami nagdedetalye ng mga tanda para sa mga taong umaalam.[^*]
+Sabihin mo: "Sino ang nagbawal sa gayak ni Allāh na pinalabas Niya para sa mga lingkod Niya at sa mga kaaya-aya mula sa panustos?" Sabihin mo: "Ito ay para sa mga sumampalataya sa \[sandali ng\] buhay na pangmundo samantalang nakalaan \[sa kanila\] sa Araw ng Pagbangon." Gayon Kami nagdedetalye ng mga tanda para sa mga taong umaalam.[^*]
 
-[^*]: - Isang tinatamasang kakaunti, pagkatapos ang kanlungan nila ay Impiyerno. Kay saklap ang himlayan!
+[^*]: \- Isang tinatamasang kakaunti, pagkatapos ang kanlungan nila ay Impiyerno. Kay saklap ang himlayan!
 
 # 987
 
@@ -3986,7 +3986,7 @@ Kaya sino pa ang higit na tagalabag sa katarungan kaysa sa sinumang gumawa-gawa 
 
 # 992
 
-Nagsabi Siya: "Magsipasok kayo Apoy kasama sa mga kalipunang nakalipas na bago pa ninyo kabilang sa jinn at tao. Sa tuwing pumapasok ang isang kalipunan ay isinusumpa nito ang [kalipunang] huwaran nito, na hanggang sa nang nagsunuran sila roon sa kalahatan ay magsasabi ang huli sa kanila sa una sa kanila: "Panginoon Namin, ang mga ito ay nagligaw sa amin kaya bigyan Mo sila ng isang ibayong pagdurusa mula sa Apoy." Magsasabi Siya: "Ukol sa bawat isa ay ibayo, subalit hindi ninyo nalalaman."
+Nagsabi Siya: "Magsipasok kayo Apoy kasama sa mga kalipunang nakalipas na bago pa ninyo kabilang sa jinn at tao. Sa tuwing pumapasok ang isang kalipunan ay isinusumpa nito ang \[kalipunang\] huwaran nito, na hanggang sa nang nagsunuran sila roon sa kalahatan ay magsasabi ang huli sa kanila sa una sa kanila: "Panginoon Namin, ang mga ito ay nagligaw sa amin kaya bigyan Mo sila ng isang ibayong pagdurusa mula sa Apoy." Magsasabi Siya: "Ukol sa bawat isa ay ibayo, subalit hindi ninyo nalalaman."
 
 # 993
 
@@ -4010,7 +4010,7 @@ Magtatanggal Kami ng anumang nasa mga dibdib nila na hinanakit, habang dumadaloy
 
 # 998
 
-Mananawagan ang mga maninirahan sa Paraiso sa mga maninirahan sa Apoy, na [nagsasabi]: "Nakatagpo nga kami sa ipinangako sa amin ng Panginoon namin bilang totoo, kaya nakatagpo ba kayo sa ipinangako ng Panginoon ninyo bilang totoo?" Magsasabi sila: "Oo." Kaya magpapahayag ang isang tagapagpahayag sa pagitan nila na ang sumpa ni Allāh ay nasa mga tagalabag sa katarungan,
+Mananawagan ang mga maninirahan sa Paraiso sa mga maninirahan sa Apoy, na \[nagsasabi\]: "Nakatagpo nga kami sa ipinangako sa amin ng Panginoon namin bilang totoo, kaya nakatagpo ba kayo sa ipinangako ng Panginoon ninyo bilang totoo?" Magsasabi sila: "Oo." Kaya magpapahayag ang isang tagapagpahayag sa pagitan nila na ang sumpa ni Allāh ay nasa mga tagalabag sa katarungan,
 
 # 999
 
@@ -4018,7 +4018,7 @@ ang mga sumasagabal sa landas ni Allāh at naghahangad dito ng isang kabaluktuta
 
 # 1000
 
-Sa pagitan ng dalawang [pangkat na] ito ay may tabing. Sa mga tuktok ay may mga lalaking nakakikilala sa lahat ayon sa mga tatak ng mga ito. Mananawagan sila sa mga maninirahan sa Paraiso, na [nagsasabi]: "Kapayapaan ay sumainyo." Hindi pa nakapasok ang mga ito roon at ang mga ito ay naghahangad.
+Sa pagitan ng dalawang \[pangkat na\] ito ay may tabing. Sa mga tuktok ay may mga lalaking nakakikilala sa lahat ayon sa mga tatak ng mga ito. Mananawagan sila sa mga maninirahan sa Paraiso, na \[nagsasabi\]: "Kapayapaan ay sumainyo." Hindi pa nakapasok ang mga ito roon at ang mga ito ay naghahangad.
 
 # 1001
 
@@ -4030,11 +4030,11 @@ Mananawagan ang mga nananatili sa mga tuktok sa mga taong nakikilala nila ayon s
 
 # 1003
 
-Ang mga ito ba ang mga sumumpa kayong hindi magpapakamit sa kanila si Allāh ng awa? [Sasabihin]: "Magsipasok kayo sa Paraiso; walang pangamba sa inyo ni kayo ay malulungkot."
+Ang mga ito ba ang mga sumumpa kayong hindi magpapakamit sa kanila si Allāh ng awa? \[Sasabihin\]: "Magsipasok kayo sa Paraiso; walang pangamba sa inyo ni kayo ay malulungkot."
 
 # 1004
 
-Mananawagan ang mga naninirahan sa Apoy sa mga naninirahan sa Paraiso, na [nagsasabi]: "Magpabaha kayo sa amin ng tubig o ng anumang itinustos sa inyo ni Allāh." Magsasabi ang mga ito: "Tunay na si Allāh ay nagbawal ng dalawang ito sa mga tagatangging sumampalataya,
+Mananawagan ang mga naninirahan sa Apoy sa mga naninirahan sa Paraiso, na \[nagsasabi\]: "Magpabaha kayo sa amin ng tubig o ng anumang itinustos sa inyo ni Allāh." Magsasabi ang mga ito: "Tunay na si Allāh ay nagbawal ng dalawang ito sa mga tagatangging sumampalataya,
 
 # 1005
 
@@ -4050,7 +4050,7 @@ Naghihintay kaya sila maliban pa ng pagsasakatuparan nito? Sa araw na pupunta an
 
 # 1008
 
-Tunay na ang Panginoon ninyo ay si Allāh na lumikha ng mga langit at lupa sa anim na araw, pagkatapos lumuklok Siya sa Trono. Nagbabalot Siya ng gabi sa maghapon na humahabol doon nang maliksi. [Lumikha Siya] ng araw, buwan, at mga bituin bilang mga pinagsisilbi ayon sa utos Niya. Pansinin, sa Kanya ang paglikha at ang pag-uutos. Napakamapagpala si Allāh, ang Panginoon ng mga nilalang.
+Tunay na ang Panginoon ninyo ay si Allāh na lumikha ng mga langit at lupa sa anim na araw, pagkatapos lumuklok Siya sa Trono. Nagbabalot Siya ng gabi sa maghapon na humahabol doon nang maliksi. \[Lumikha Siya\] ng araw, buwan, at mga bituin bilang mga pinagsisilbi ayon sa utos Niya. Pansinin, sa Kanya ang paglikha at ang pag-uutos. Napakamapagpala si Allāh, ang Panginoon ng mga nilalang.
 
 # 1009
 
@@ -4094,7 +4094,7 @@ Ngunit nagpasinungaling sila sa kanya, kaya pinaligtas Namin siya at ang mga kas
 
 # 1019
 
-[Nagsugo sa] `Ād ng kapatid nilang si Hūd. Nagsabi siya: "O mga kalipi ko, sumamba kayo kay Allāh; walang ukol sa inyo na anumang Diyos na iba pa sa Kanya. Kaya hindi ba kayo mangingilag magkasala?"
+\[Nagsugo sa\] \`Ād ng kapatid nilang si Hūd. Nagsabi siya: "O mga kalipi ko, sumamba kayo kay Allāh; walang ukol sa inyo na anumang Diyos na iba pa sa Kanya. Kaya hindi ba kayo mangingilag magkasala?"
 
 # 1020
 
@@ -4126,11 +4126,11 @@ Kaya pinaligtas Namin siya at ang mga kasama sa kanya dahil sa isang awa mula sa
 
 # 1027
 
-[Nagsugo sa] Thamūd ng kapatid nilang si Ṣāliḥ. Nagsabi siya: "O mga kalipi ko, sumamba kayo kay Allāh; walang ukol sa inyo na anumang Diyos na iba pa sa Kanya. May dumating nga sa inyo na isang malinaw na patunay mula sa Panginoon ninyo. Ito ay dumalagang kamelyo ni Allāh; para sa inyo ay isang tanda, kaya hayaan ninyo itong manginain sa lupain ni Allāh at huwag ninyong salingin ito ng isang kasagwaan para hindi kayo daklutin ng isang pagdurusang masakit.
+\[Nagsugo sa\] Thamūd ng kapatid nilang si Ṣāliḥ. Nagsabi siya: "O mga kalipi ko, sumamba kayo kay Allāh; walang ukol sa inyo na anumang Diyos na iba pa sa Kanya. May dumating nga sa inyo na isang malinaw na patunay mula sa Panginoon ninyo. Ito ay dumalagang kamelyo ni Allāh; para sa inyo ay isang tanda, kaya hayaan ninyo itong manginain sa lupain ni Allāh at huwag ninyong salingin ito ng isang kasagwaan para hindi kayo daklutin ng isang pagdurusang masakit.
 
 # 1028
 
-Alalahanin ninyo noong gumawa Siya sa inyo na mga kahalili nang matapos ng [lipi ng] `Ād at nagpatahan Siya sa inyo sa lupain. Gumagawa kayo mula sa mga kapatagan nito ng mga palasyo at lumililok kayo ng mga bundok na maging mga bahay. Kaya alalahanin ninyo ang mga biyaya ni Allāh at huwag kayong manampalasan sa lupa bilang mga tagagulo."
+Alalahanin ninyo noong gumawa Siya sa inyo na mga kahalili nang matapos ng \[lipi ng\] \`Ād at nagpatahan Siya sa inyo sa lupain. Gumagawa kayo mula sa mga kapatagan nito ng mga palasyo at lumililok kayo ng mga bundok na maging mga bahay. Kaya alalahanin ninyo ang mga biyaya ni Allāh at huwag kayong manampalasan sa lupa bilang mga tagagulo."
 
 # 1029
 
@@ -4146,7 +4146,7 @@ Kaya kinitil nila ang dumalagang kamelyo, nanampalasan sila sa utos ng Panginoon
 
 # 1032
 
-Kaya dumaklot sa kanila ang yanig, saka sila, sa tahanan nila, ay naging mga [patay na] nakasubsob.
+Kaya dumaklot sa kanila ang yanig, saka sila, sa tahanan nila, ay naging mga \[patay na\] nakasubsob.
 
 # 1033
 
@@ -4154,7 +4154,7 @@ Kaya tumalikod siya sa kanila at nagsabi: "O mga kalipi ko, talaga ngang nagpaab
 
 # 1034
 
-[Banggitin mo] si Lot noong nagsabi siya sa mga kababayan niya: "Gumagawa ba kayo ng mahalay, na walang nakauna sa inyo roon na isa man kabilang sa mga nilalang?
+\[Banggitin mo\] si Lot noong nagsabi siya sa mga kababayan niya: "Gumagawa ba kayo ng mahalay, na walang nakauna sa inyo roon na isa man kabilang sa mga nilalang?
 
 # 1035
 
@@ -4174,7 +4174,7 @@ Nagpaulan Kami sa kanila ng isang ulan, kaya tumingin ka kung papaano naging ang
 
 # 1039
 
-[Nagsugo sa] Madyan ng kapatid nilang si Shu`ayb. Nagsabi siya: "O mga kalipi ko, sumamba kayo kay Allāh; walang ukol sa inyo na anumang Diyos na iba pa sa Kanya. May dumating nga sa inyo na isang malinaw na patunay mula sa Panginoon ninyo. Kaya magpalubus-lubos kayo ng pagtatakal at [pagtitimbang sa] timbangan, huwag kayong magpakulang sa mga tao sa mga bagay-bagay nila, at huwag kayong manggulo sa lupa matapos ng pagsasaayos nito. Iyon ay higit na mabuti para sa inyo kung kayo ay mga mananampalataya.
+\[Nagsugo sa\] Madyan ng kapatid nilang si Shu\`ayb. Nagsabi siya: "O mga kalipi ko, sumamba kayo kay Allāh; walang ukol sa inyo na anumang Diyos na iba pa sa Kanya. May dumating nga sa inyo na isang malinaw na patunay mula sa Panginoon ninyo. Kaya magpalubus-lubos kayo ng pagtatakal at \[pagtitimbang sa\] timbangan, huwag kayong magpakulang sa mga tao sa mga bagay-bagay nila, at huwag kayong manggulo sa lupa matapos ng pagsasaayos nito. Iyon ay higit na mabuti para sa inyo kung kayo ay mga mananampalataya.
 
 # 1040
 
@@ -4186,7 +4186,7 @@ Kung may isang pangkatin kabilang sa inyo na sumampalataya sa ipinasugo sa akin 
 
 # 1042
 
-Nagsabi ang konseho na mga nagmalaki kabilang sa mga kalipi niya: "Talagang magpapalabas nga Kami sa iyo, O Shu`ayb, at sa mga sumampalataya kasama sa iyo mula sa pamayanan natin, o talagang manunumbalik nga kayo sa kapaniwalaan namin." Nagsabi siya: "Kahit ba kami ay naging mga nasusuklam?
+Nagsabi ang konseho na mga nagmalaki kabilang sa mga kalipi niya: "Talagang magpapalabas nga Kami sa iyo, O Shu\`ayb, at sa mga sumampalataya kasama sa iyo mula sa pamayanan natin, o talagang manunumbalik nga kayo sa kapaniwalaan namin." Nagsabi siya: "Kahit ba kami ay naging mga nasusuklam?
 
 # 1043
 
@@ -4194,15 +4194,15 @@ Gumawa-gawa nga kami laban kay Allāh ng isang kasinungalingan kung nanumbalik k
 
 # 1044
 
-Nagsabi ang konseho na mga tumangging sumampalataya kabilang sa mga kalipi niya: "Talagang kung sumunod kayo kay Shu`ayb, tunay na kayo samakatuwid ay talagang mga lugi."
+Nagsabi ang konseho na mga tumangging sumampalataya kabilang sa mga kalipi niya: "Talagang kung sumunod kayo kay Shu\`ayb, tunay na kayo samakatuwid ay talagang mga lugi."
 
 # 1045
 
-Kaya dumaklot sa kanila ang yanig, saka sila, sa tahanan nila, ay naging mga [patay na] nakasubsob.
+Kaya dumaklot sa kanila ang yanig, saka sila, sa tahanan nila, ay naging mga \[patay na\] nakasubsob.
 
 # 1046
 
-Ang mga nagpasinungaling kay Shu`ayb ay para bang hindi nanirahan doon. Ang mga nagpasinungaling kay Shu`ayb, sila noon ay ang mga lugi.
+Ang mga nagpasinungaling kay Shu\`ayb ay para bang hindi nanirahan doon. Ang mga nagpasinungaling kay Shu\`ayb, sila noon ay ang mga lugi.
 
 # 1047
 
@@ -4234,7 +4234,7 @@ Kaya natiwasay ba sila sa panlalansi ni Allāh sapagkat walang natitiwasay sa pa
 
 # 1054
 
-Hindi ba napaglinawan para sa mga nagmamana ng lupa matapos ng mga [naunang] naninirahan dito na kung sakaling niloloob Namin ay nagpasakit sana Kami sa kanila dahil sa mga pagkakasala nila? Nagpipinid Kami sa mga puso nila kaya sila ay hindi nakaririnig.
+Hindi ba napaglinawan para sa mga nagmamana ng lupa matapos ng mga \[naunang\] naninirahan dito na kung sakaling niloloob Namin ay nagpasakit sana Kami sa kanila dahil sa mga pagkakasala nila? Nagpipinid Kami sa mga puso nila kaya sila ay hindi nakaririnig.
 
 # 1055
 
@@ -4290,7 +4290,7 @@ Dumating ang mga manggagaway kay Paraon. Nagsabi sila: "Tunay na mayroon kami ta
 
 # 1068
 
-Nagsabi ito: "Oo, at tunay na kayo ay talagang kabilang sa mga inilapit [sa akin]."
+Nagsabi ito: "Oo, at tunay na kayo ay talagang kabilang sa mga inilapit \[sa akin\]."
 
 # 1069
 
@@ -4302,7 +4302,7 @@ Nagsabi siya: "Pumukol kayo." Kaya noong pumukol sila ay gumaway sila sa mga mat
 
 # 1071
 
-Nagkasi Kami kay Moises, na [nagsasabi]: "Pumukol ka ng tungkod mo," kaya biglang ito ay lumalamon sa ipinanlilinlang nila.
+Nagkasi Kami kay Moises, na \[nagsasabi\]: "Pumukol ka ng tungkod mo," kaya biglang ito ay lumalamon sa ipinanlilinlang nila.
 
 # 1072
 
@@ -4354,7 +4354,7 @@ Nagsabi sila: "Sinaktan kami bago ka pa pumunta sa amin at nang matapos na dumat
 
 # 1084
 
-Talaga ngang dumaklot Kami sa angkan ni Paraon sa pamamagitan ng mga taon [ng tagtuyot] at isang kabawasan mula sa mga bunga, nang sa gayon sila ay magsasaalaala.
+Talaga ngang dumaklot Kami sa angkan ni Paraon sa pamamagitan ng mga taon \[ng tagtuyot\] at isang kabawasan mula sa mga bunga, nang sa gayon sila ay magsasaalaala.
 
 # 1085
 
@@ -4374,7 +4374,7 @@ Noong bumagsak sa kanila ang pasakit ay nagsabi sila: "O Moises, manalangin ka p
 
 # 1089
 
-Ngunit noong pumawi Kami sa kanila ng pasakit hanggang sa taning na sila ay aabot doon, biglang sila ay sumisira [sa pangako].
+Ngunit noong pumawi Kami sa kanila ng pasakit hanggang sa taning na sila ay aabot doon, biglang sila ay sumisira \[sa pangako\].
 
 # 1090
 
@@ -4398,11 +4398,11 @@ Nagsabi siya: "Sa iba pa kay Allāh ba maghahangad ako sa inyo bilang Diyos sama
 
 # 1095
 
-[Banggitin] noong pinaligtas Namin kayo mula sa angkan ni Paraon. Nagpapataw sila sa inyo ng kasagwaan ng pagdurusa: pinagpapatay nila ang mga lalaking anak ninyo at pinamumuhay nila ang mga babae ninyo. Sa gayon ay may isang pagsubok, mula sa Panginoon ninyo, na sukdulan.
+\[Banggitin\] noong pinaligtas Namin kayo mula sa angkan ni Paraon. Nagpapataw sila sa inyo ng kasagwaan ng pagdurusa: pinagpapatay nila ang mga lalaking anak ninyo at pinamumuhay nila ang mga babae ninyo. Sa gayon ay may isang pagsubok, mula sa Panginoon ninyo, na sukdulan.
 
 # 1096
 
-Nakipagtipan Kami kay Moises nang tatlumpong gabi at lumubos Kami sa mga ito sa [pagdagdag ng] sampu, kaya nalubos ang takdang oras ng Panginoon niya sa apatnapung gabi. Nagsabi si Moises sa kapatid niyang si Aaron: "Humalili ka sa akin sa mga tao ko, magsaayos ka, at huwag kang sumunod sa landas ng mga tagatiwali."
+Nakipagtipan Kami kay Moises nang tatlumpong gabi at lumubos Kami sa mga ito sa \[pagdagdag ng\] sampu, kaya nalubos ang takdang oras ng Panginoon niya sa apatnapung gabi. Nagsabi si Moises sa kapatid niyang si Aaron: "Humalili ka sa akin sa mga tao ko, magsaayos ka, at huwag kang sumunod sa landas ng mga tagatiwali."
 
 # 1097
 
@@ -4426,7 +4426,7 @@ Ang mga nagpasinungaling sa mga tanda Namin at sa pakikipagkita sa Kabilang-buha
 
 # 1102
 
-Gumawa ang mga tao ni Moises, nang matapos [ng paglisan] niya, mula sa mga hiyas nila ng isang guyang rebulto na mayroon itong pag-unga. Hindi ba sila nakakita na ito ay hindi nagsasalita sa kanila at hindi pumapatnubay sa kanila sa isang landas? Gumawa sila nito habang sila noon ay mga tagalabag sa katarungan.
+Gumawa ang mga tao ni Moises, nang matapos \[ng paglisan\] niya, mula sa mga hiyas nila ng isang guyang rebulto na mayroon itong pag-unga. Hindi ba sila nakakita na ito ay hindi nagsasalita sa kanila at hindi pumapatnubay sa kanila sa isang landas? Gumawa sila nito habang sila noon ay mga tagalabag sa katarungan.
 
 # 1103
 
@@ -4434,7 +4434,7 @@ Noong nagsisi sila at nakita nila na sila ay naligaw nga, nagsabi sila: "Talagan
 
 # 1104
 
-Noong bumalik si Moises sa mga tao niya, na galit na galit na naghihinagpis, ay nagsabi siya: "Kay saklap ang ipinanghalili ninyo sa akin nang matapos [ng paglisan] ko. Nagmadali ba kayo sa nauukol sa Panginoon ninyo?" Itinapon niya ang mga tablero at dumaklot siya sa ulo ng kapatid niya, na hinihila ito patungo sa kanya. Nagsabi ito: "Anak ng ina ko, tunay na ang mga tao ay nagmahina sa akin. Sila ay halos papatay sa akin. Kaya huwag kang magpatuwa dahil sa akin sa mga kaaway at huwag kang maglagay sa akin kasama sa mga taong tagalabag sa katarungan."
+Noong bumalik si Moises sa mga tao niya, na galit na galit na naghihinagpis, ay nagsabi siya: "Kay saklap ang ipinanghalili ninyo sa akin nang matapos \[ng paglisan\] ko. Nagmadali ba kayo sa nauukol sa Panginoon ninyo?" Itinapon niya ang mga tablero at dumaklot siya sa ulo ng kapatid niya, na hinihila ito patungo sa kanya. Nagsabi ito: "Anak ng ina ko, tunay na ang mga tao ay nagmahina sa akin. Sila ay halos papatay sa akin. Kaya huwag kang magpatuwa dahil sa akin sa mga kaaway at huwag kang maglagay sa akin kasama sa mga taong tagalabag sa katarungan."
 
 # 1105
 
@@ -4442,7 +4442,7 @@ Nagsabi siya: "Panginoon ko, magpatawad Ka sa akin at sa kapatid ko at magpapaso
 
 # 1106
 
-Tunay na ang mga gumawa sa guya [bilang diyos] ay may aabot sa kanila na isang galit mula sa Panginoon nila at isang kaabahan sa buhay na pangmundo. Gayon Kami gumaganti sa mga tagagawa-gawa [ng kabulaanan].
+Tunay na ang mga gumawa sa guya \[bilang diyos\] ay may aabot sa kanila na isang galit mula sa Panginoon nila at isang kaabahan sa buhay na pangmundo. Gayon Kami gumaganti sa mga tagagawa-gawa \[ng kabulaanan\].
 
 # 1107
 
@@ -4474,11 +4474,11 @@ Kabilang sa nilikha Namin ay isang kalipunang nagpapatnubay ayon sa katotohanan 
 
 # 1114
 
-Naghati-hati Kami sa kanila sa labindalawang lipi bilang mga kalipunan. Nagkasi Kami kay Moises noong humingi ng tubig sa kanya ang mga tao niya, [na nagsasabi]: "Humampas ka ng tungkod mo sa bato." Kaya may tumagas mula roon na labindalawang bukal. Nakaalam nga ang bawat [lipi ng] mga tao sa inuman nila. Naglilim Kami sa kanila ng mga ulap at nagpababa Kami sa kanila ng mana at mga pugo, [na nagsasabi]: "Kumain kayo mula sa mga kaaya-aya na itinustos Namin sa inyo." Hindi sila lumabag sa katarungan sa Amin, subalit sila noon sa mga sarili nila ay lumalabag sa katarungan.
+Naghati-hati Kami sa kanila sa labindalawang lipi bilang mga kalipunan. Nagkasi Kami kay Moises noong humingi ng tubig sa kanya ang mga tao niya, \[na nagsasabi\]: "Humampas ka ng tungkod mo sa bato." Kaya may tumagas mula roon na labindalawang bukal. Nakaalam nga ang bawat \[lipi ng\] mga tao sa inuman nila. Naglilim Kami sa kanila ng mga ulap at nagpababa Kami sa kanila ng mana at mga pugo, \[na nagsasabi\]: "Kumain kayo mula sa mga kaaya-aya na itinustos Namin sa inyo." Hindi sila lumabag sa katarungan sa Amin, subalit sila noon sa mga sarili nila ay lumalabag sa katarungan.
 
 # 1115
 
-[Banggitin] noong sinabi sa kanila: "Tumahan kayo sa pamayanang ito, kumain kayo mula rito saanman ninyo loobin, magsabi kayo: 'Pag-aalis-sala,' at magsipasok kayo sa pinto na mga nakayukod; magpapatawad Kami sa inyo sa mga kamalian ninyo. Magdaragdag Kami sa mga tagagawa ng maganda."
+\[Banggitin\] noong sinabi sa kanila: "Tumahan kayo sa pamayanang ito, kumain kayo mula rito saanman ninyo loobin, magsabi kayo: 'Pag-aalis-sala,' at magsipasok kayo sa pinto na mga nakayukod; magpapatawad Kami sa inyo sa mga kamalian ninyo. Magdaragdag Kami sa mga tagagawa ng maganda."
 
 # 1116
 
@@ -4490,7 +4490,7 @@ Tanungin mo sila tungkol sa pamayanan, na iyon noon ay nasa tabi ng dagat, noong
 
 # 1118
 
-[Banggitin] noong may nagsabing isang kalipunan kabilang sa kanila: "Bakit kayo nangangaral sa mga tao na si Allāh ay magpapahamak sa mga iyon o magpaparusa sa mga iyon ng isang matinding pagdurusa?" ay nagsabi sila: "Upang mapawalang-sala sa Panginoon ninyo at nang sa gayon sila ay mangingilag magkasala."
+\[Banggitin\] noong may nagsabing isang kalipunan kabilang sa kanila: "Bakit kayo nangangaral sa mga tao na si Allāh ay magpapahamak sa mga iyon o magpaparusa sa mga iyon ng isang matinding pagdurusa?" ay nagsabi sila: "Upang mapawalang-sala sa Panginoon ninyo at nang sa gayon sila ay mangingilag magkasala."
 
 # 1119
 
@@ -4502,7 +4502,7 @@ Kaya noong nagtampalasan sila sa sinaway sa kanila ay nagsabi Kami sa kanila: "K
 
 # 1121
 
-[Banggitin] noong nagpahayag ang Panginoon mo na talagang magpapadala nga Siya laban sa kanila hanggang sa Araw ng Pagbangon ng magpapataw sa kanila ng kasagwaan ng pagdurusa. Tunay na ang Panginoon mo ay talagang mabilis ang parusa, at tunay na Siya ay talagang Mapagpatawad, Maawain.
+\[Banggitin\] noong nagpahayag ang Panginoon mo na talagang magpapadala nga Siya laban sa kanila hanggang sa Araw ng Pagbangon ng magpapataw sa kanila ng kasagwaan ng pagdurusa. Tunay na ang Panginoon mo ay talagang mabilis ang parusa, at tunay na Siya ay talagang Mapagpatawad, Maawain.
 
 # 1122
 
@@ -4518,15 +4518,15 @@ Ang mga kumakapit sa Kasulatan at nagpapanatili ng pagdarasal, tunay na Kami ay 
 
 # 1125
 
-[Banggitin] noong nag-angat Kami ng bundok sa ibabaw nila na para bang ito ay isang kulandong at nakatiyak sila na ito ay babagsak sa kanila. [Sinabi]: "Kunin ninyo ang ibinigay Namin sa inyo nang may lakas at tandaan ninyo ang nariyan, nang sa gayon kayo ay mangingilag magkasala."
+\[Banggitin\] noong nag-angat Kami ng bundok sa ibabaw nila na para bang ito ay isang kulandong at nakatiyak sila na ito ay babagsak sa kanila. \[Sinabi\]: "Kunin ninyo ang ibinigay Namin sa inyo nang may lakas at tandaan ninyo ang nariyan, nang sa gayon kayo ay mangingilag magkasala."
 
 # 1126
 
-[Banggitin] noong kinuha ng Panginoon mo mula sa mga anak ni Adan mula sa mga likod nila ang mga supling nila at pinasaksi Niya sila sa mga sarili nila: "Hindi ba Ako ay Panginoon ninyo?" ay nagsabi sila: "Opo; sumaksi kami," upang hindi kayo magsabi sa Araw ng Pagbangon: "Tunay na Kami dati tungkol dito ay mga nalilingat,"
+\[Banggitin\] noong kinuha ng Panginoon mo mula sa mga anak ni Adan mula sa mga likod nila ang mga supling nila at pinasaksi Niya sila sa mga sarili nila: "Hindi ba Ako ay Panginoon ninyo?" ay nagsabi sila: "Opo; sumaksi kami," upang hindi kayo magsabi sa Araw ng Pagbangon: "Tunay na Kami dati tungkol dito ay mga nalilingat,"
 
 # 1127
 
-o [upang hindi] kayo magsabi: "Nagtambal lamang ang mga ninuno namin bago pa niyan at kami dati ay mga supling nang matapos nila; kaya magpapahamak Ka ba sa amin dahil sa ginawa ng mga tagapagpabula?"
+o \[upang hindi\] kayo magsabi: "Nagtambal lamang ang mga ninuno namin bago pa niyan at kami dati ay mga supling nang matapos nila; kaya magpapahamak Ka ba sa amin dahil sa ginawa ng mga tagapagpabula?"
 
 # 1128
 
@@ -4538,7 +4538,7 @@ Bumigkas ka sa kanila ng balita ng binigyan Namin ng mga tanda Namin ngunit kuma
 
 # 1130
 
-Kung sakaling niloob Namin ay talaga sanang nag-angat Kami sa kanya sa pamamagitan ng mga [tandang] ito subalit siya ay nahilig sa lupa at sumunod sa pithaya niya. Kaya ang paghahalintulad sa kanya ay kahalintulad ng aso: kung dadaluhong ka rito ay maglalawit-lawit ng dila ito o [kung] mag-iiwan ka rito ay maglalawit-lawit ng dila ito. Iyon ang paghahalintulad sa mga taong nagpasinungaling sa mga tanda Namin. Kaya magsalaysay ka ng mga kasaysayan, nang sa gayon sila ay mag-iisip-isip.
+Kung sakaling niloob Namin ay talaga sanang nag-angat Kami sa kanya sa pamamagitan ng mga \[tandang\] ito subalit siya ay nahilig sa lupa at sumunod sa pithaya niya. Kaya ang paghahalintulad sa kanya ay kahalintulad ng aso: kung dadaluhong ka rito ay maglalawit-lawit ng dila ito o \[kung\] mag-iiwan ka rito ay maglalawit-lawit ng dila ito. Iyon ang paghahalintulad sa mga taong nagpasinungaling sa mga tanda Namin. Kaya magsalaysay ka ng mga kasaysayan, nang sa gayon sila ay mag-iisip-isip.
 
 # 1131
 
@@ -4590,7 +4590,7 @@ Sabihin mo: "Hindi ako nakapagdudulot para sa sarili ko ng pakinabang ni pinsala
 
 # 1143
 
-Siya ay ang lumikha sa inyo mula sa nag-iisang kaluluwa at gumawa Siya mula rito ng maybahay nito upang matiwasay ito roon. Kaya noong lumukob ito roon ay nagdala iyon ng isang magaang dala saka nagpatuloy iyon dito. Ngunit noong nabigatan iyon ay nanalangin ang dalawa sa Panginoon ng dalawa: "Talagang kung magbibigay Ka sa amin ng isang [anak na] maayos, talagang kami nga ay magiging kabilang sa mga tagapagpasalamat."
+Siya ay ang lumikha sa inyo mula sa nag-iisang kaluluwa at gumawa Siya mula rito ng maybahay nito upang matiwasay ito roon. Kaya noong lumukob ito roon ay nagdala iyon ng isang magaang dala saka nagpatuloy iyon dito. Ngunit noong nabigatan iyon ay nanalangin ang dalawa sa Panginoon ng dalawa: "Talagang kung magbibigay Ka sa amin ng isang \[anak na\] maayos, talagang kami nga ay magiging kabilang sa mga tagapagpasalamat."
 
 # 1144
 
@@ -4658,7 +4658,7 @@ Alalahanin mo ang Panginoon mo sa sarili mo nang may pagpapakumbaba at pangamba 
 
 # 1160
 
-Tunay na ang mga [anghel] sa piling ng Panginoon mo ay hindi nagmamalaki [sa pagtanggi] sa pagsamba sa Kanya, nagluluwalhati sa Kanya, at sa Kanya nagpapatirapa.
+Tunay na ang mga \[anghel\] sa piling ng Panginoon mo ay hindi nagmamalaki \[sa pagtanggi\] sa pagsamba sa Kanya, nagluluwalhati sa Kanya, at sa Kanya nagpapatirapa.
 
 # 1161
 
@@ -4686,7 +4686,7 @@ na nakikipagtalo sila sa iyo hinggil sa katotohanan matapos na luminaw ito, para
 
 # 1167
 
-[Banggitin] noong nangangako sa inyo si Allāh ng isa sa dalawang pangkatin, na ito ay ukol sa inyo, at nag-aasam kayo na ang walang taglay na sandata ay magiging para sa inyo samantalang nagnanais si Allāh na magtotoo sa katotohanan sa pamamagitan ng mga salita Niya at pumutol sa ugat ng mga tagatangging sumampalataya
+\[Banggitin\] noong nangangako sa inyo si Allāh ng isa sa dalawang pangkatin, na ito ay ukol sa inyo, at nag-aasam kayo na ang walang taglay na sandata ay magiging para sa inyo samantalang nagnanais si Allāh na magtotoo sa katotohanan sa pamamagitan ng mga salita Niya at pumutol sa ugat ng mga tagatangging sumampalataya
 
 # 1168
 
@@ -4694,7 +4694,7 @@ upang magtotoo sa katotohanan at magpabula sa kabulaanan, kahit pa man nasuklam 
 
 # 1169
 
-[Banggitin] noong nagpasaklolo kayo sa Panginoon ninyo ay tumugon Siya sa inyo, [na nagsasabi]: "Tunay na Ako ay mag-aayuda sa inyo ng isang libo mula sa mga anghel na mga nagkakasunud-sunod."
+\[Banggitin\] noong nagpasaklolo kayo sa Panginoon ninyo ay tumugon Siya sa inyo, \[na nagsasabi\]: "Tunay na Ako ay mag-aayuda sa inyo ng isang libo mula sa mga anghel na mga nagkakasunud-sunod."
 
 # 1170
 
@@ -4702,11 +4702,11 @@ Hindi gumawa niyon si Allāh kundi bilang balitang nakagagalak at upang mapanata
 
 # 1171
 
-[Banggitin] noong bumabalot Siya sa inyo ng pagkaantok bilang katiwasayan mula sa Kanya at nagbababa Siya sa inyo mula sa langit ng tubig upang magdalisay Siya sa inyo sa pamamagitan nito at mag-alis Siya sa inyo ng udyok ng demonyo at upang magpatibay Siya sa mga puso at magpatatag Siya sa pamamagitan nito ng mga paa.
+\[Banggitin\] noong bumabalot Siya sa inyo ng pagkaantok bilang katiwasayan mula sa Kanya at nagbababa Siya sa inyo mula sa langit ng tubig upang magdalisay Siya sa inyo sa pamamagitan nito at mag-alis Siya sa inyo ng udyok ng demonyo at upang magpatibay Siya sa mga puso at magpatatag Siya sa pamamagitan nito ng mga paa.
 
 # 1172
 
-[Banggitin] noong nagkakasi ang Panginoon mo sa mga anghel, [na nagsasabi]: "Tunay na Ako ay kasama sa inyo kaya magpatatag kayo sa mga sumampalataya. Pupukol Ako sa mga puso ng mga tumangging sumampalataya ng hilakbot, kaya humagupit kayo sa ibabaw ng mga leeg at humagupit kayo mula sa kanila sa bawat daliri."
+\[Banggitin\] noong nagkakasi ang Panginoon mo sa mga anghel, \[na nagsasabi\]: "Tunay na Ako ay kasama sa inyo kaya magpatatag kayo sa mga sumampalataya. Pupukol Ako sa mga puso ng mga tumangging sumampalataya ng hilakbot, kaya humagupit kayo sa ibabaw ng mga leeg at humagupit kayo mula sa kanila sa bawat daliri."
 
 # 1173
 
@@ -4714,11 +4714,11 @@ Iyon ay dahil sila ay nakipaghidwaan kay Allāh at sa Sugo Niya. Ang sinumang na
 
 # 1174
 
-Iyon [ay ukol sa inyo], kaya lasapin ninyo iyon; at na ukol sa mga tagatangging sumampalataya ay ang pagdurusa sa Apoy.
+Iyon \[ay ukol sa inyo\], kaya lasapin ninyo iyon; at na ukol sa mga tagatangging sumampalataya ay ang pagdurusa sa Apoy.
 
 # 1175
 
-O mga sumampalataya, kapag nakipagkita kayo sa mga tumangging sumampalataya sa isang pagsulong [sa labanan] ay huwag kayong magbaling sa kanila ng mga likod.
+O mga sumampalataya, kapag nakipagkita kayo sa mga tumangging sumampalataya sa isang pagsulong \[sa labanan\] ay huwag kayong magbaling sa kanila ng mga likod.
 
 # 1176
 
@@ -4778,7 +4778,7 @@ O mga sumampalataya, kung mangingilag kayong magkasala kay Allāh ay gagawa Siya
 
 # 1190
 
-[Banggitin] noong nanlalansi sa iyo ang mga tumangging sumampalataya upang bihagin ka nila o patayin ka nila o palisanin ka nila. Nanlalansi sila at nanlalansi si Allāh at si Allāh ay pinakamabuti sa mga nanlalansi.
+\[Banggitin\] noong nanlalansi sa iyo ang mga tumangging sumampalataya upang bihagin ka nila o patayin ka nila o palisanin ka nila. Nanlalansi sila at nanlalansi si Allāh at si Allāh ay pinakamabuti sa mga nanlalansi.
 
 # 1191
 
@@ -4786,7 +4786,7 @@ Kapag binibigkas sa kanila ang mga tanda Namin ay nagsasabi sila: "Nakarinig na 
 
 # 1192
 
-[Banggitin] noong nagsabi sila: "O Allāh, kung ito ay ang katotohanan mula sa ganang Iyo, magpaulan Ka sa amin ng mga bato mula sa langit o magdala Ka sa amin ng isang pagdurusang masakit."
+\[Banggitin\] noong nagsabi sila: "O Allāh, kung ito ay ang katotohanan mula sa ganang Iyo, magpaulan Ka sa amin ng mga bato mula sa langit o magdala Ka sa amin ng isang pagdurusang masakit."
 
 # 1193
 
@@ -4798,7 +4798,7 @@ Ano ang mayroon sa kanila na hindi magparusa sa kanila si Allāh samantalang sil
 
 # 1195
 
-Walang iba ang pagdarasal nila sa tabi ng Bahay [ni Allāh] kundi sipol at palakpak. Kaya lasapin ninyo ang pagdurusa dahil dati kayong tumatangging sumampalataya.
+Walang iba ang pagdarasal nila sa tabi ng Bahay \[ni Allāh\] kundi sipol at palakpak. Kaya lasapin ninyo ang pagdurusa dahil dati kayong tumatangging sumampalataya.
 
 # 1196
 
@@ -4822,19 +4822,19 @@ Kung tatalikod sila, alamin ninyo na si Allāh ay Tagatangkilik ninyo. Kay inam 
 
 # 1201
 
-Alamin ninyo na ang nasamsam ninyo [sa digmaan] na anumang bagay ay na para kay Allāh ang ikalima nito, para sa Sugo, at para sa may pagkakamag-anak [sa kanya], mga ulila, mga dukha, at manlalakbay na kinapos sa daan, kung nangyaring kayo ay sumampalataya kay Allāh at sa pinababa sa Lingkod sa araw ng pagtatangi, sa araw na nagkita ang dalawang pangkat. Si Allāh sa bawat bagay ay May-kakayahan.
+Alamin ninyo na ang nasamsam ninyo \[sa digmaan\] na anumang bagay ay na para kay Allāh ang ikalima nito, para sa Sugo, at para sa may pagkakamag-anak \[sa kanya\], mga ulila, mga dukha, at manlalakbay na kinapos sa daan, kung nangyaring kayo ay sumampalataya kay Allāh at sa pinababa sa Lingkod sa araw ng pagtatangi, sa araw na nagkita ang dalawang pangkat. Si Allāh sa bawat bagay ay May-kakayahan.
 
 # 1202
 
-[Banggitin] noong kayo ay nasa pampang na pinakamalapit at sila ay nasa pampang na pinakamalayo at ang karaban ay nasa higit na mababa kaysa sa inyo. Kung sakaling nagtipanan kayo ay talaga sanang nagkaiba-iba kayo sa tipanan, subalit [nagkatagpo kayo] upang magpatupad si Allāh ng isang bagay na mangyayaring gagawin upang mapahamak ang sinumang mapapahamak ayon sa isang malinaw na patunay at mabuhay ang sinumang mabubuhay ayon sa isang malinaw na patunay. Tunay na si Allāh ay talagang Madinigin, Maalam.
+\[Banggitin\] noong kayo ay nasa pampang na pinakamalapit at sila ay nasa pampang na pinakamalayo at ang karaban ay nasa higit na mababa kaysa sa inyo. Kung sakaling nagtipanan kayo ay talaga sanang nagkaiba-iba kayo sa tipanan, subalit \[nagkatagpo kayo\] upang magpatupad si Allāh ng isang bagay na mangyayaring gagawin upang mapahamak ang sinumang mapapahamak ayon sa isang malinaw na patunay at mabuhay ang sinumang mabubuhay ayon sa isang malinaw na patunay. Tunay na si Allāh ay talagang Madinigin, Maalam.
 
 # 1203
 
-[Banggitin] noong ipinakikita sa iyo sila ni Allāh sa pananaginip mo bilang kaunti; at kung sakaling ipinakita Niya sa iyo sila na marami ay talaga sanang naduwag kayo at talaga sanang naghidwaan kayo sa usapin, subalit si Allāh ay nagpaligtas sa inyo. Tunay na Siya ay Maalam sa nilalaman ng mga dibdib.
+\[Banggitin\] noong ipinakikita sa iyo sila ni Allāh sa pananaginip mo bilang kaunti; at kung sakaling ipinakita Niya sa iyo sila na marami ay talaga sanang naduwag kayo at talaga sanang naghidwaan kayo sa usapin, subalit si Allāh ay nagpaligtas sa inyo. Tunay na Siya ay Maalam sa nilalaman ng mga dibdib.
 
 # 1204
 
-[Banggitin] noong ipinakita Niya sa inyo sila, noong nagkita kayo, sa mga mata ninyo bilang kaunti at pinangangaunti Niya kayo sa mga mata nila upang magpatupad si Allāh ng isang bagay na mangyayaring gagawin. Tungo kay Allāh pababalikin ang mga usapin.
+\[Banggitin\] noong ipinakita Niya sa inyo sila, noong nagkita kayo, sa mga mata ninyo bilang kaunti at pinangangaunti Niya kayo sa mga mata nila upang magpatupad si Allāh ng isang bagay na mangyayaring gagawin. Tungo kay Allāh pababalikin ang mga usapin.
 
 # 1205
 
@@ -4850,15 +4850,15 @@ Huwag kayong maging gaya ng mga lumabas mula sa mga tahanan nila dala ng kayaban
 
 # 1208
 
-[Banggitin] noong ipinang-akit sa kanila ng demonyo ang mga gawa nila at nagsabi siya: "Walang tagadaig para sa inyo sa araw na ito kabilang sa mga tao at tunay na ako ay isang tagakanlong para sa inyo.” Ngunit noong nagkitaan ang dalawang pangkat ay umurong siya sa mga sakong niya at nagsabi siya: "Tunay na ako ay walang-kaugnayan sa inyo. Tunay na ako ay nakikita ng hindi ninyo nakikita. Tunay na ako ay nangangamba kay Allāh. Si Allāh ay matindi ang parusa.”
+\[Banggitin\] noong ipinang-akit sa kanila ng demonyo ang mga gawa nila at nagsabi siya: "Walang tagadaig para sa inyo sa araw na ito kabilang sa mga tao at tunay na ako ay isang tagakanlong para sa inyo.” Ngunit noong nagkitaan ang dalawang pangkat ay umurong siya sa mga sakong niya at nagsabi siya: "Tunay na ako ay walang-kaugnayan sa inyo. Tunay na ako ay nakikita ng hindi ninyo nakikita. Tunay na ako ay nangangamba kay Allāh. Si Allāh ay matindi ang parusa.”
 
 # 1209
 
-[Banggitin] noong nagsasabi ang mga mapagpaimbabaw at ang mga nasa puso nila ay may karamdaman: "Luminlang sa mga ito ang relihiyon nila.” Ang sinumang nananalig kay Allāh, tunay na si Allāh ay Makapangyarihan, Marunong.
+\[Banggitin\] noong nagsasabi ang mga mapagpaimbabaw at ang mga nasa puso nila ay may karamdaman: "Luminlang sa mga ito ang relihiyon nila.” Ang sinumang nananalig kay Allāh, tunay na si Allāh ay Makapangyarihan, Marunong.
 
 # 1210
 
-Kung sakaling nakakikita ka kapag nagpapapanaw sa mga tumangging sumasampalataya ang mga anghel habang humahagupit sa mga mukha nila at mga likod nila at [nagsasabi]: "Lumasap kayo ng pagdurusa ng pagkasunog.”
+Kung sakaling nakakikita ka kapag nagpapapanaw sa mga tumangging sumasampalataya ang mga anghel habang humahagupit sa mga mukha nila at mga likod nila at \[nagsasabi\]: "Lumasap kayo ng pagdurusa ng pagkasunog.”
 
 # 1211
 
@@ -4890,15 +4890,15 @@ Kaya kung makasusumpong ka nga sa kanila sa digmaan ay magpawatak-watak ka sa pa
 
 # 1218
 
-Kung mangangamba ka nga sa mga tao ng isang pagtataksil ay ibato mo sa kanila [ang kasunduan] ayon sa pagkakapantay. Tunay na si Allāh ay hindi umiibig sa mga taksil.
+Kung mangangamba ka nga sa mga tao ng isang pagtataksil ay ibato mo sa kanila \[ang kasunduan\] ayon sa pagkakapantay. Tunay na si Allāh ay hindi umiibig sa mga taksil.
 
 # 1219
 
-Huwag ngang mag-aakala ang mga tumangging sumampalataya na makalulusot sila. Tunay na sila ay hindi makapagpapahina [kay Allāh].
+Huwag ngang mag-aakala ang mga tumangging sumampalataya na makalulusot sila. Tunay na sila ay hindi makapagpapahina \[kay Allāh\].
 
 # 1220
 
-Maghanda kayo para sa kanila ng nakaya ninyo na anumang lakas at anumang mga kawan ng mga kabayo na magpapangilabot kayo sa pamamagitan ng mga ito sa kaaway ni Allāh, kaaway ninyo, at mga iba pa bukod pa sa kanila na hindi kayo nakaaalam sa kanila samantalang si Allāh ay nakaaalam sa kanila. Ang anumang ginugugol ninyo na bagay ayon sa landas ni Allāh ay lulubus-lubusin tungo sa inyo [ang kabayaran] habang kayo ay hindi nilalabag sa katarungan.
+Maghanda kayo para sa kanila ng nakaya ninyo na anumang lakas at anumang mga kawan ng mga kabayo na magpapangilabot kayo sa pamamagitan ng mga ito sa kaaway ni Allāh, kaaway ninyo, at mga iba pa bukod pa sa kanila na hindi kayo nakaaalam sa kanila samantalang si Allāh ay nakaaalam sa kanila. Ang anumang ginugugol ninyo na bagay ayon sa landas ni Allāh ay lulubus-lubusin tungo sa inyo \[ang kabayaran\] habang kayo ay hindi nilalabag sa katarungan.
 
 # 1221
 
@@ -4934,7 +4934,7 @@ Kung hindi dahil sa isang atas mula kay Allāh na nauna ay talaga sanang may sum
 
 # 1229
 
-Kaya kumain kayo mula sa nasamsam ninyo [sa digmaan] bilang ipinahihintulot na kaaya-aya at mangilag kayong magkasala kay Allāh; tunay na si Allāh ay Mapagpatawad, Maawain.
+Kaya kumain kayo mula sa nasamsam ninyo \[sa digmaan\] bilang ipinahihintulot na kaaya-aya at mangilag kayong magkasala kay Allāh; tunay na si Allāh ay Mapagpatawad, Maawain.
 
 # 1230
 
@@ -4942,7 +4942,7 @@ O Propeta, sabihin mo sa sinumang nasa mga kamay ninyo na mga bihag: "Kung nakaa
 
 # 1231
 
-Kung nagnanais sila ng kataksilan sa iyo ay nagtaksil na sila kay Allāh bago pa nito, kaya pinakaya [ka] Niya laban sa kanila. Si Allāh ay Maalam, Marunong.
+Kung nagnanais sila ng kataksilan sa iyo ay nagtaksil na sila kay Allāh bago pa nito, kaya pinakaya \[ka\] Niya laban sa kanila. Si Allāh ay Maalam, Marunong.
 
 # 1232
 
@@ -4950,7 +4950,7 @@ Tunay na ang mga sumampalataya, lumikas, at nakibaka sa pamamagitan ng mga yaman
 
 # 1233
 
-Ang mga tumangging sumampalataya ay mga katangkilik ng isa’t isa sa kanila. Kung hindi ninyo gagawin [ang pagtangkilik na] ito ay may mangyayaring isang sigalot sa lupa at isang malaking katiwalian.
+Ang mga tumangging sumampalataya ay mga katangkilik ng isa’t isa sa kanila. Kung hindi ninyo gagawin \[ang pagtangkilik na\] ito ay may mangyayaring isang sigalot sa lupa at isang malaking katiwalian.
 
 # 1234
 
@@ -4958,11 +4958,11 @@ Ang mga sumampalataya, lumikas, at nakibaka ayon sa landas ni Allāh, at ang mga
 
 # 1235
 
-Ang mga sumampalataya nang matapos niyan, lumikas, at nakibaka kasama sa inyo, ang mga iyon ay kabilang sa inyo. Ang mga may mga ugnayang pangkaanak, ang iba sa kanila ay higit na karapat-dapat sa iba [sa pagmamana] sa atas ni Allāh. Tunay na si Allāh sa bawat bagay ay Maalam.
+Ang mga sumampalataya nang matapos niyan, lumikas, at nakibaka kasama sa inyo, ang mga iyon ay kabilang sa inyo. Ang mga may mga ugnayang pangkaanak, ang iba sa kanila ay higit na karapat-dapat sa iba \[sa pagmamana\] sa atas ni Allāh. Tunay na si Allāh sa bawat bagay ay Maalam.
 
 # 1236
 
-[Ito ay pagpapahayag ng] isang kawalang-kaugnayan, mula kay Allāh at sa Sugo Niya, sa mga nakipagkasunduan kayo kabilang sa mga tagapagtambal.
+\[Ito ay pagpapahayag ng\] isang kawalang-kaugnayan, mula kay Allāh at sa Sugo Niya, sa mga nakipagkasunduan kayo kabilang sa mga tagapagtambal.
 
 # 1237
 
@@ -4970,7 +4970,7 @@ Kaya maglakbay kayo sa lupain ng apat na buwan at alamin ninyo na kayo ay hindi 
 
 # 1238
 
-[Ito ay] isang pagpapahayag, mula kay Allāh at sa Sugo Niya, sa mga tao sa araw ng ḥajj na pinakamalaki na si Allāh ay walang-kaugnayan sa mga tagapagtambal at ang Sugo Niya. Kaya kung nagbalik-loob kayo, ito ay higit na mabuti para sa inyo; at kung tumalikod kayo ay alamin ninyo na kayo ay hindi magpapawalang-kakayahan kay Allāh. Magbalita ka sa mga tumangging sumampalataya hinggil sa isang pagdurusang masakit.
+\[Ito ay\] isang pagpapahayag, mula kay Allāh at sa Sugo Niya, sa mga tao sa araw ng ḥajj na pinakamalaki na si Allāh ay walang-kaugnayan sa mga tagapagtambal at ang Sugo Niya. Kaya kung nagbalik-loob kayo, ito ay higit na mabuti para sa inyo; at kung tumalikod kayo ay alamin ninyo na kayo ay hindi magpapawalang-kakayahan kay Allāh. Magbalita ka sa mga tumangging sumampalataya hinggil sa isang pagdurusang masakit.
 
 # 1239
 
@@ -4986,11 +4986,11 @@ Kung may isa kabilang sa mga tagapagtambal na nagpakalinga sa iyo ay kalingain m
 
 # 1242
 
-Papaanong magkakaroon ang mga tagapagtambal ng isang kasunduan sa ganang kay Allāh at sa ganang Sugo Niya maliban sa mga nakipagkasunduan kayo sa tabi ng Masjid na Pinakababanal? Kaya hanggat nanatili sila [sa kasunduan] sa inyo ay manatili kayo [sa kasunduan] sa kanila. Tunay na si Allāh ay umiibig sa mga tagapangilag magkasala.
+Papaanong magkakaroon ang mga tagapagtambal ng isang kasunduan sa ganang kay Allāh at sa ganang Sugo Niya maliban sa mga nakipagkasunduan kayo sa tabi ng Masjid na Pinakababanal? Kaya hanggat nanatili sila \[sa kasunduan\] sa inyo ay manatili kayo \[sa kasunduan\] sa kanila. Tunay na si Allāh ay umiibig sa mga tagapangilag magkasala.
 
 # 1243
 
-Papaanong [magkakaroon ng isang kasunduan] samantalang kung mangingibabaw sila sa inyo ay hindi sila magpapakundangan sa inyo sa pagkakamag-anak ni sa usapan? Nagpapalugod sila sa inyo sa pamamagitan ng mga bibig nila samantalang tumatanggi ang mga puso nila. Ang higit na marami sa kanila ay mga suwail.
+Papaanong \[magkakaroon ng isang kasunduan\] samantalang kung mangingibabaw sila sa inyo ay hindi sila magpapakundangan sa inyo sa pagkakamag-anak ni sa usapan? Nagpapalugod sila sa inyo sa pamamagitan ng mga bibig nila samantalang tumatanggi ang mga puso nila. Ang higit na marami sa kanila ay mga suwail.
 
 # 1244
 
@@ -5010,7 +5010,7 @@ Kung lumabag sila sa mga sinumpaan nila nang matapos ng kasunduan sa kanila at t
 
 # 1248
 
-Hindi ba kayo nakikipaglaban sa mga taong lumabag sa mga sinumpaan nila at nagbalak ng pagpapalisan sa Sugo samantalang sila ay nagpasimula [sa pakikipag-away] sa inyo sa unang pagkakataon? Natatakot ba kayo sa kanila gayong si Allāh ay higit na karapat-dapat na katakutan ninyo kung kayo ay mga mananampalataya?
+Hindi ba kayo nakikipaglaban sa mga taong lumabag sa mga sinumpaan nila at nagbalak ng pagpapalisan sa Sugo samantalang sila ay nagpasimula \[sa pakikipag-away\] sa inyo sa unang pagkakataon? Natatakot ba kayo sa kanila gayong si Allāh ay higit na karapat-dapat na katakutan ninyo kung kayo ay mga mananampalataya?
 
 # 1249
 
@@ -5034,7 +5034,7 @@ Nagtataguyod lamang sa mga masjid ni Allāh ang sinumang sumampalataya kay Allā
 
 # 1254
 
-Gumawa ba kayo sa [nakatalaga sa] pagpapainom sa tagasagawa ng ḥajj at sa pagtataguyod sa Masjid na Pinakababanal gaya ng sumampalataya kay Allāh at sa Huling Araw at nakibaka ayon sa landas ni Allāh? Hindi sila nagkakapantay sa ganang kay Allāh. Si Allāh ay hindi nagpapatnubay sa mga taong tagalabag sa katarungan.
+Gumawa ba kayo sa \[nakatalaga sa\] pagpapainom sa tagasagawa ng ḥajj at sa pagtataguyod sa Masjid na Pinakababanal gaya ng sumampalataya kay Allāh at sa Huling Araw at nakibaka ayon sa landas ni Allāh? Hindi sila nagkakapantay sa ganang kay Allāh. Si Allāh ay hindi nagpapatnubay sa mga taong tagalabag sa katarungan.
 
 # 1255
 
@@ -5058,7 +5058,7 @@ Sabihin mo: "Kung ang mga magulang ninyo, ang mga kapatid ninyo, ang mga asawa n
 
 # 1260
 
-Talaga ngang nag-adya sa inyo si Allāh sa maraming larangan ng labanan, at sa araw ng [labanan sa] Ḥunayn noong nagpahanga sa inyo ang dami ninyo ngunit hindi nagdulot sa inyo ng anuman at sumikip sa inyo ang lupa gayong malawak ito, pagkatapos lumisan kayo na mga tumatalikod.
+Talaga ngang nag-adya sa inyo si Allāh sa maraming larangan ng labanan, at sa araw ng \[labanan sa\] Ḥunayn noong nagpahanga sa inyo ang dami ninyo ngunit hindi nagdulot sa inyo ng anuman at sumikip sa inyo ang lupa gayong malawak ito, pagkatapos lumisan kayo na mga tumatalikod.
 
 # 1261
 
@@ -5098,15 +5098,15 @@ O mga sumampalataya, tunay na marami sa mga pantas at mga monghe ay talagang kum
 
 # 1270
 
-Sa araw na papainitan ang mga ito sa apoy ng Impiyerno at heheruhan sa pamamagitan ng mga ito ang mga noo nila, ang mga tagiliran nila, at ang mga likod nila [ay sasabihin]: "Ito ang inimbak ninyo para sa mga sarili ninyo, kaya lasapin ninyo ang dati ninyong iniimbak!”
+Sa araw na papainitan ang mga ito sa apoy ng Impiyerno at heheruhan sa pamamagitan ng mga ito ang mga noo nila, ang mga tagiliran nila, at ang mga likod nila \[ay sasabihin\]: "Ito ang inimbak ninyo para sa mga sarili ninyo, kaya lasapin ninyo ang dati ninyong iniimbak!”
 
 # 1271
 
-Tunay na ang bilang ng mga buwan sa ganang kay Allāh ay labindalawang buwan sa talaan ni Allāh sa araw na nilikha Niya ang mga langit at lupa; kabilang sa mga ito ay apat na pinakababanal. Iyon ay ang relihiyong matuwid, kaya huwag kayong lumabag sa katarungan sa mga [buwang] ito sa mga sarili ninyo. Makipaglaban kayo sa mga tagapagtambal nang lahatan gaya ng pakikipaglaban nila sa inyo nang lahatan. Alamin ninyo na si Allāh ay kasama sa mga tagapangilag magkasala.
+Tunay na ang bilang ng mga buwan sa ganang kay Allāh ay labindalawang buwan sa talaan ni Allāh sa araw na nilikha Niya ang mga langit at lupa; kabilang sa mga ito ay apat na pinakababanal. Iyon ay ang relihiyong matuwid, kaya huwag kayong lumabag sa katarungan sa mga \[buwang\] ito sa mga sarili ninyo. Makipaglaban kayo sa mga tagapagtambal nang lahatan gaya ng pakikipaglaban nila sa inyo nang lahatan. Alamin ninyo na si Allāh ay kasama sa mga tagapangilag magkasala.
 
 # 1272
 
-Ang pag-aantala [sa pagbabawal sa buwang pinakababanal] ay isang karagdagan sa kawalang-pananampalataya. Pinaliligaw dahil dito ang mga tumangging sumampalataya. Nagpapahintulot sila nito sa isang taon at nagbabawal sila nito sa [ibang] taon upang magtugma sila ng bilang ng ipinagbawal ni Allāh kaya nagpapahintulot sila ng ipinagbawal ni Allāh. Ipinaakit para sa kanila ang kasagwaan ng mga gawain nila. Si Allāh ay hindi nagpapatnubay sa mga taong tagatangging sumampalataya.
+Ang pag-aantala \[sa pagbabawal sa buwang pinakababanal\] ay isang karagdagan sa kawalang-pananampalataya. Pinaliligaw dahil dito ang mga tumangging sumampalataya. Nagpapahintulot sila nito sa isang taon at nagbabawal sila nito sa \[ibang\] taon upang magtugma sila ng bilang ng ipinagbawal ni Allāh kaya nagpapahintulot sila ng ipinagbawal ni Allāh. Ipinaakit para sa kanila ang kasagwaan ng mga gawain nila. Si Allāh ay hindi nagpapatnubay sa mga taong tagatangging sumampalataya.
 
 # 1273
 
@@ -5114,7 +5114,7 @@ O mga sumampalataya, ano ang mayroon sa inyo na kapag sinabi sa inyo na humayo k
 
 # 1274
 
-Kung hindi kayo hahayo ay magpaparusa Siya sa inyo ng isang pagdurusang masakit, magpapalit Siya [sa inyo] ng mga taong iba sa inyo, at hindi kayo makapipinsala sa Kanya ng anuman. Si Allāh sa bawat bagay ay May-kakayahan.
+Kung hindi kayo hahayo ay magpaparusa Siya sa inyo ng isang pagdurusang masakit, magpapalit Siya \[sa inyo\] ng mga taong iba sa inyo, at hindi kayo makapipinsala sa Kanya ng anuman. Si Allāh sa bawat bagay ay May-kakayahan.
 
 # 1275
 
@@ -5130,7 +5130,7 @@ Kung sakaling ito ay naging isang mahihitang malapit o isang paglalakbay na kata
 
 # 1278
 
-Magpaumanhin si Allāh sa iyo; bakit ka nagpahintulot sa kanila [na manatili]? [Sana ay] hanggang sa luminaw sa iyo ang mga nagtotoo at nalaman mo ang mga sinungaling.
+Magpaumanhin si Allāh sa iyo; bakit ka nagpahintulot sa kanila \[na manatili\]? \[Sana ay\] hanggang sa luminaw sa iyo ang mga nagtotoo at nalaman mo ang mga sinungaling.
 
 # 1279
 
@@ -5146,7 +5146,7 @@ Kung sakaling nagnais sila ng pagsugod ay talaga sanang naghanda sila para roon 
 
 # 1282
 
-Kung sakaling sumugod sila kasabay sa inyo ay hindi sana sila nakadagdag sa inyo kundi ng isang paninira at talaga sanang kumaripas sila [sa paninirang-puri] sa gitna ninyo, na naghahangad sa inyo ng sigalot at sa piling inyo ay may mga palakinig para sa kanila. Si Allāh ay Maalam sa mga tagalabag sa katarungan.
+Kung sakaling sumugod sila kasabay sa inyo ay hindi sana sila nakadagdag sa inyo kundi ng isang paninira at talaga sanang kumaripas sila \[sa paninirang-puri\] sa gitna ninyo, na naghahangad sa inyo ng sigalot at sa piling inyo ay may mga palakinig para sa kanila. Si Allāh ay Maalam sa mga tagalabag sa katarungan.
 
 # 1283
 
@@ -5154,7 +5154,7 @@ Talaga ngang naghangad sila ng sigalot bago pa niyan. Bumulabog sila sa iyo sa m
 
 # 1284
 
-Mayroon sa kanila na nagsasabi: "Magpahintulot ka sa akin [na magpaiwan] at huwag kang sumubok sa akin.” Kaingat, sa pagsubok ay bumagsak sila. Tunay na ang Impiyerno ay talagang sasaklaw sa mga tagatangging sumampalataya.
+Mayroon sa kanila na nagsasabi: "Magpahintulot ka sa akin \[na magpaiwan\] at huwag kang sumubok sa akin.” Kaingat, sa pagsubok ay bumagsak sila. Tunay na ang Impiyerno ay talagang sasaklaw sa mga tagatangging sumampalataya.
 
 # 1285
 
@@ -5202,7 +5202,7 @@ Ang mga kawanggawa ay ukol lamang sa mga maralita, mga dukha, mga manggagawa sa 
 
 # 1296
 
-Kabilang sa kanila ang mga nananakit sa Propeta at nagsasabi: "Siya ay isang tainga [na dumidinig].” Sabihin mo: "[Siya ay] isang tainga ng kabutihan para sa inyo, na sumasampalataya kay Allāh at naniniwala sa mga mananampalataya, at isang awa para sa mga sumampalataya kabilang sa inyo." Ang mga nananakit sa Sugo ni Allāh, ukol sa kanila ay isang pagdurusang masakit.
+Kabilang sa kanila ang mga nananakit sa Propeta at nagsasabi: "Siya ay isang tainga \[na dumidinig\].” Sabihin mo: "\[Siya ay\] isang tainga ng kabutihan para sa inyo, na sumasampalataya kay Allāh at naniniwala sa mga mananampalataya, at isang awa para sa mga sumampalataya kabilang sa inyo." Ang mga nananakit sa Sugo ni Allāh, ukol sa kanila ay isang pagdurusang masakit.
 
 # 1297
 
@@ -5218,7 +5218,7 @@ Nangingilag ang mga mapagpaimbabaw na may ibaba sa kanila na isang kabanata na m
 
 # 1300
 
-Talagang kung nagtanong ka sa kanila ay talagang magsasabi nga sila: "Dati kaming tumatalakay [sa kabulaanan] at naglalaro lamang.” Sabihin mo: "Kay Allāh, sa mga tanda Niya, at sa Sugo Niya ba dati kayong nangungutya?
+Talagang kung nagtanong ka sa kanila ay talagang magsasabi nga sila: "Dati kaming tumatalakay \[sa kabulaanan\] at naglalaro lamang.” Sabihin mo: "Kay Allāh, sa mga tanda Niya, at sa Sugo Niya ba dati kayong nangungutya?
 
 # 1301
 
@@ -5234,11 +5234,11 @@ Nangako si Allāh sa mga lalaking mapagpaimbabaw, mga babaing mapagpaimbabaw, at
 
 # 1304
 
-[Kayo ay] gaya ng mga nauna pa sa inyo. Sila noon ay higit na matindi kaysa sa inyo sa lakas at higit na marami sa mga yaman at mga anak kaya nagtamasa sila ng bahagi nila saka nagtamasa kayo ng bahagi ninyo kung paanong nagtamasa ang mga nauna pa sa inyo ng bahagi nila. Ngumawa kayo ng gaya ng nginawa nila. Ang mga iyon ay nawalang-kabuluhan ang mga gawa nila sa Mundo at Kabilang-buhay. Ang mga iyon ay ang mga lugi.
+\[Kayo ay\] gaya ng mga nauna pa sa inyo. Sila noon ay higit na matindi kaysa sa inyo sa lakas at higit na marami sa mga yaman at mga anak kaya nagtamasa sila ng bahagi nila saka nagtamasa kayo ng bahagi ninyo kung paanong nagtamasa ang mga nauna pa sa inyo ng bahagi nila. Ngumawa kayo ng gaya ng nginawa nila. Ang mga iyon ay nawalang-kabuluhan ang mga gawa nila sa Mundo at Kabilang-buhay. Ang mga iyon ay ang mga lugi.
 
 # 1305
 
-Hindi ba pumunta sa kanila ang balita ng mga nauna pa sa kanila, kabilang sa mga tao ni Noe, [liping] `Ād, [liping] Thamūd, mga tao ni Abraham, at mga naninirahan sa Madyan at mga bayang itinaob? Nagdala sa kanila ang mga sugo nila ng mga patunay na malinaw kaya hindi nangyaring si Allāh ay ukol na lumabag sa katarungan sa kanila subalit sila noon sa mga sarili nila ay lumalabag sa katarungan.
+Hindi ba pumunta sa kanila ang balita ng mga nauna pa sa kanila, kabilang sa mga tao ni Noe, \[liping\] \`Ād, \[liping\] Thamūd, mga tao ni Abraham, at mga naninirahan sa Madyan at mga bayang itinaob? Nagdala sa kanila ang mga sugo nila ng mga patunay na malinaw kaya hindi nangyaring si Allāh ay ukol na lumabag sa katarungan sa kanila subalit sila noon sa mga sarili nila ay lumalabag sa katarungan.
 
 # 1306
 
@@ -5258,7 +5258,7 @@ Nanunumpa sila kay Allāh na hindi sila nagsabi samantalang talaga ngang nagsabi
 
 # 1310
 
-Kabilang sa kanila ang nakipagkasunduan kay Allāh, [na nagsabi:] "Talagang kung nagbigay Siya sa amin mula sa kabutihang-loob Niya ay talagang magkakawanggawa nga kami at talagang kami nga ay magiging kabilang sa mga maayos.”
+Kabilang sa kanila ang nakipagkasunduan kay Allāh, \[na nagsabi:\] "Talagang kung nagbigay Siya sa amin mula sa kabutihang-loob Niya ay talagang magkakawanggawa nga kami at talagang kami nga ay magiging kabilang sa mga maayos.”
 
 # 1311
 
@@ -5302,7 +5302,7 @@ Huwag magpahanga sa iyo ang mga yaman nila ni ang mga anak nila. Nagnanais laman
 
 # 1321
 
-Nang may pinababa na isang kabanata, na [nag-uutos:] "Sumampalataya kayo kay Allāh at makibaka kayo kasama sa Sugo Niya,” humingi ng pahintulot sa iyo ang mga may kaya kabilang sa kanila at nagsasabi sila: "Hayaan mo kami, kami ay magiging kasama sa mga nananatili.”
+Nang may pinababa na isang kabanata, na \[nag-uutos:\] "Sumampalataya kayo kay Allāh at makibaka kayo kasama sa Sugo Niya,” humingi ng pahintulot sa iyo ang mga may kaya kabilang sa kanila at nagsasabi sila: "Hayaan mo kami, kami ay magiging kasama sa mga nananatili.”
 
 # 1322
 
@@ -5322,15 +5322,15 @@ Dumating ang mga nagdadahilan kabilang sa mga Arabeng disyerto upang mapahintulu
 
 # 1326
 
-Hindi pagkaasiwa sa mga mahina, ni sa mga may-sakit, ni sa mga hindi nakatatagpo ng igugugol nila kapag nagpakatapat sila kay Allāh at sa Sugo Niya. Wala sa mga tagagawa ng maganda na anumang daan [para masisi]. Si Allāh ay Mapagpatawad, Maawain.
+Hindi pagkaasiwa sa mga mahina, ni sa mga may-sakit, ni sa mga hindi nakatatagpo ng igugugol nila kapag nagpakatapat sila kay Allāh at sa Sugo Niya. Wala sa mga tagagawa ng maganda na anumang daan \[para masisi\]. Si Allāh ay Mapagpatawad, Maawain.
 
 # 1327
 
-Walang [maisisi] sa mga kapag pumunta sa iyo upang magpasakay ka sana sa kanila ay nagsabi ka: "Hindi ako nakatatagpo ng maipasasakay ko sa inyo.” Tumalikod sila habang ang mga mata nila ay nag-uumapaw sa luha dala ng pagkalungkot na hindi sila nakatatagpo ng maigugugol nila.
+Walang \[maisisi\] sa mga kapag pumunta sa iyo upang magpasakay ka sana sa kanila ay nagsabi ka: "Hindi ako nakatatagpo ng maipasasakay ko sa inyo.” Tumalikod sila habang ang mga mata nila ay nag-uumapaw sa luha dala ng pagkalungkot na hindi sila nakatatagpo ng maigugugol nila.
 
 # 1328
 
-Ang landas [para masisi] ay sa mga humingi ng pahintulot sa iyo [na magpaiwan] samantalang sila ay mga mayaman. Nalugod sila na sila ay maging kasama ng mga naiiwan. Nagpinid si Allāh sa mga puso nila kaya sila ay hindi nakauunawa.
+Ang landas \[para masisi\] ay sa mga humingi ng pahintulot sa iyo \[na magpaiwan\] samantalang sila ay mga mayaman. Nalugod sila na sila ay maging kasama ng mga naiiwan. Nagpinid si Allāh sa mga puso nila kaya sila ay hindi nakauunawa.
 
 # 1329
 
@@ -5354,7 +5354,7 @@ Kabilang sa mga Arabeng disyerto ang nagtuturing sa ginugugol nila bilang pagkak
 
 # 1334
 
-Kabilang sa mga Arabeng disyerto ang sumasampalataya kay Allāh at sa Kabilang-buhay at gumagawa sa ginugugol niya bilang mga pampalapit-loob sa ganang kay Allāh at [pagkamit ng] mga panalangin ng Sugo. Pansinin, tunay na ito ay pampalapit-loob para sa kanila. Magpapasok sa kanila si Allāh sa awa Niya. Tunay na si Allāh ay Mapagpatawad, Maawain.
+Kabilang sa mga Arabeng disyerto ang sumasampalataya kay Allāh at sa Kabilang-buhay at gumagawa sa ginugugol niya bilang mga pampalapit-loob sa ganang kay Allāh at \[pagkamit ng\] mga panalangin ng Sugo. Pansinin, tunay na ito ay pampalapit-loob para sa kanila. Magpapasok sa kanila si Allāh sa awa Niya. Tunay na si Allāh ay Mapagpatawad, Maawain.
 
 # 1335
 
@@ -5386,7 +5386,7 @@ May mga ibang inaantala para sa atas ni Allāh: magpaparusa Siya sa kanila o tat
 
 # 1342
 
-[May] mga gumawa sa isang masjid bilang pamiminsala, bilang kawalang-pananampalataya, bilang paghahati-hati sa pagitan ng mga mananampalataya, at bilang pagtatambang para sa sinumang nakidigma kay Allāh at sa Sugo Niya bago pa niyan. Talagang manunumpa nga sila: "Wala kaming ninais kundi ang pinakamaganda," samantalang si Allāh ay sumasaksi na tunay na sila ay talagang mga sinungaling.
+\[May\] mga gumawa sa isang masjid bilang pamiminsala, bilang kawalang-pananampalataya, bilang paghahati-hati sa pagitan ng mga mananampalataya, at bilang pagtatambang para sa sinumang nakidigma kay Allāh at sa Sugo Niya bago pa niyan. Talagang manunumpa nga sila: "Wala kaming ninais kundi ang pinakamaganda," samantalang si Allāh ay sumasaksi na tunay na sila ay talagang mga sinungaling.
 
 # 1343
 
@@ -5402,11 +5402,11 @@ Hindi titigil ang gusali nilang itinayo nila sa pagiging isang alinlangan sa mga
 
 # 1346
 
-Tunay na si Allāh ay bumili mula sa mga mananampalataya ng mga sarili nila at mga yaman nila dahil tataglayin nila ang Paraiso. Nakikipaglaban sila ayon sa landas ni Allāh kaya nakapapatay sila at napapatay sila, bilang pangako [na tutuparin] Niya na totoo sa Torah, Ebanghelyo, at Qur’ān. Sino pa ang higit na palatupad sa kasunduan kaysa kay Allāh? Kaya magalak kayo sa pagbibilihan ninyong nakipagbilihan kayo. Iyon ay ang pagkatamong sukdulan.
+Tunay na si Allāh ay bumili mula sa mga mananampalataya ng mga sarili nila at mga yaman nila dahil tataglayin nila ang Paraiso. Nakikipaglaban sila ayon sa landas ni Allāh kaya nakapapatay sila at napapatay sila, bilang pangako \[na tutuparin\] Niya na totoo sa Torah, Ebanghelyo, at Qur’ān. Sino pa ang higit na palatupad sa kasunduan kaysa kay Allāh? Kaya magalak kayo sa pagbibilihan ninyong nakipagbilihan kayo. Iyon ay ang pagkatamong sukdulan.
 
 # 1347
 
-[Sila] ang mga nagbabalik-loob, na mga sumasamba, na mga nagpupuri, na mga nag-aayuno, na mga yumuyukod, na mga nagpapatirapa, na mga nag-uutos sa nakabubuti, na mga sumasaway sa nakasasama, at mga nag-iingat sa mga hangganan ni Allāh. Magbalita ka ng nakagagalak sa mga mananampalataya.
+\[Sila\] ang mga nagbabalik-loob, na mga sumasamba, na mga nagpupuri, na mga nag-aayuno, na mga yumuyukod, na mga nagpapatirapa, na mga nag-uutos sa nakabubuti, na mga sumasaway sa nakasasama, at mga nag-iingat sa mga hangganan ni Allāh. Magbalita ka ng nakagagalak sa mga mananampalataya.
 
 # 1348
 
@@ -5430,7 +5430,7 @@ Talaga ngang tumanggap si Allāh ng pagbabalik-loob sa Propeta, mga lumikas, at 
 
 # 1353
 
-[Nagpatawad Siya] sa tatlo na iniwan hanggang sa nang sumikip sa kanila ang lupa sa kabila ng luwang nito, sumikip sa kanila ang mga sarili nila, at nakatiyak sila na walang kalingaan laban kay Allāh kundi tungo sa Kanya. Pagkatapos tumanggap Siya ng pagbabalik-loob sa kanila upang makapagbalik-loob sila. Tunay na si Allāh ay ang Palatanggap ng pagbabalik-loob, ang Maawain.
+\[Nagpatawad Siya\] sa tatlo na iniwan hanggang sa nang sumikip sa kanila ang lupa sa kabila ng luwang nito, sumikip sa kanila ang mga sarili nila, at nakatiyak sila na walang kalingaan laban kay Allāh kundi tungo sa Kanya. Pagkatapos tumanggap Siya ng pagbabalik-loob sa kanila upang makapagbalik-loob sila. Tunay na si Allāh ay ang Palatanggap ng pagbabalik-loob, ang Maawain.
 
 # 1354
 
@@ -5446,7 +5446,7 @@ Hindi sila gumugugol ng isang guguling maliit ni malaki at hindi sila tumatawid 
 
 # 1357
 
-Hindi nangyaring ang mga mananampalataya ay ukol na humayo sa kalahatan. Kaya bakit kasi hindi humayo mula sa bawat pulutong kabilang sa kanila ang isang pangkatin upang magpakaunawa sa relihiyon [ang mga naiwan] at upang magbabala sila sa mga tao nila kapag bumalik ang mga ito tungo sa kanila, nang sa gayon ang mga ito ay mag-iingat.
+Hindi nangyaring ang mga mananampalataya ay ukol na humayo sa kalahatan. Kaya bakit kasi hindi humayo mula sa bawat pulutong kabilang sa kanila ang isang pangkatin upang magpakaunawa sa relihiyon \[ang mga naiwan\] at upang magbabala sila sa mga tao nila kapag bumalik ang mga ito tungo sa kanila, nang sa gayon ang mga ito ay mag-iingat.
 
 # 1358
 
@@ -5458,7 +5458,7 @@ Kapag may pinababa na isang kabanata ay mayroon sa kanila na nagsasabi: "Alin sa
 
 # 1360
 
-Tungkol naman sa mga may karamdaman sa mga puso nila, nakadagdag ito sa kanila ng kasalaulaan sa [dating] kasalaulaan nila at namatay sila habang sila ay mga tagatangging sumampalataya.
+Tungkol naman sa mga may karamdaman sa mga puso nila, nakadagdag ito sa kanila ng kasalaulaan sa \[dating\] kasalaulaan nila at namatay sila habang sila ay mga tagatangging sumampalataya.
 
 # 1361
 
@@ -5466,7 +5466,7 @@ Hindi ba sila nakakikita na sila ay sinusubok sa bawat taon nang isang ulit o da
 
 # 1362
 
-Kapag may pinababa na isang kabanata ay tumitingin ang iba sa kanila sa iba, [na nagtatanong]: "May nakakikita kaya sa inyo na isa man?" pagkatapos lumilisan sila. Naglihis si Allāh sa mga puso nila dahil sila ay mga taong hindi umuunawa.
+Kapag may pinababa na isang kabanata ay tumitingin ang iba sa kanila sa iba, \[na nagtatanong\]: "May nakakikita kaya sa inyo na isa man?" pagkatapos lumilisan sila. Naglihis si Allāh sa mga puso nila dahil sila ay mga taong hindi umuunawa.
 
 # 1363
 
@@ -5482,7 +5482,7 @@ Alif. Lām. Rā’. Ang mga ito ang mga talata ng Aklat na marunong.
 
 # 1366
 
-Ang mga tao ba ay may pagtataka na nagkasi Kami sa isang lalaking kabilang sa kanila [na sinasabihan] na: "Magbabala ka sa mga tao at magbalita ka ng nakagagalak sa mga sumampalataya na ukol sa kanila ay isang pangunguna sa kalamangan sa ganang Panginoon nila?" Nagsabi ang mga tagatangging sumampalataya: "Tunay na ito ay talagang isang manggagaway na malinaw."
+Ang mga tao ba ay may pagtataka na nagkasi Kami sa isang lalaking kabilang sa kanila \[na sinasabihan\] na: "Magbabala ka sa mga tao at magbalita ka ng nakagagalak sa mga sumampalataya na ukol sa kanila ay isang pangunguna sa kalamangan sa ganang Panginoon nila?" Nagsabi ang mga tagatangging sumampalataya: "Tunay na ito ay talagang isang manggagaway na malinaw."
 
 # 1367
 
@@ -5522,7 +5522,7 @@ Kung sakaling ipamamadali ni Allāh para sa mga tao ang kasamaan gaya ng pagpapa
 
 # 1376
 
-Kapag sumaling sa tao ang kapinsalaan ay dumadalangin siya sa Amin [habang nakahiga] sa tagiliran niya o nakaupo o nakatayo. Ngunit noong pumawi Kami sa kanya ng kapinsalaan sa kanya ay nagpatuloy siya na para bang hindi siya dumalangin sa Amin [ng pagpawi] sa kapinsalaang sumaling sa kanya. Ganyan ipinaakit para sa mga nagpapakalabis ang dati nilang ginagawa.
+Kapag sumaling sa tao ang kapinsalaan ay dumadalangin siya sa Amin \[habang nakahiga\] sa tagiliran niya o nakaupo o nakatayo. Ngunit noong pumawi Kami sa kanya ng kapinsalaan sa kanya ay nagpatuloy siya na para bang hindi siya dumalangin sa Amin \[ng pagpawi\] sa kapinsalaang sumaling sa kanya. Ganyan ipinaakit para sa mga nagpapakalabis ang dati nilang ginagawa.
 
 # 1377
 
@@ -5558,11 +5558,11 @@ Nagsasabi sila: "Bakit kasi walang pinababa sa kanya na isang tanda mula sa Pang
 
 # 1385
 
-Nang nagpalasap Kami sa mga tao ng isang awa nang matapos ng isang kariwaraan na sumaling sa kanila, biglang mayroon silang isang panlalansi sa mga tanda Namin. Sabihin mo: "Si Allāh ay higit na mabilis sa panalalansi." Tunay na ang mga [anghel na] sugo Namin ay nagsusulat ng anumang ipinanlalansi ninyo.
+Nang nagpalasap Kami sa mga tao ng isang awa nang matapos ng isang kariwaraan na sumaling sa kanila, biglang mayroon silang isang panlalansi sa mga tanda Namin. Sabihin mo: "Si Allāh ay higit na mabilis sa panalalansi." Tunay na ang mga \[anghel na\] sugo Namin ay nagsusulat ng anumang ipinanlalansi ninyo.
 
 # 1386
 
-Siya ay ang nagpahayo sa inyo sa katihan at karagatan hanggang sa nang kayo ay naging nasa mga sasakyang-dagat at naglayag ang mga ito kasama sa kanila sa pamamagitan ng isang hanging kaaya-aya at natuwa sila rito, may dumating naman sa mga ito na isang hanging bumubugso at dumating sa kanila ang mga alon mula sa bawat pook. Nagpalagay sila na sila ay pinalibutan. Dumalangin sila kay Allāh habang mga nagpapakawagas para sa Kanya sa relihiyon, [na nagsasabi]: "Talagang kung paliligtasin Mo kami mula rito, talagang kami nga ay magiging kabilang sa mga tagapagpasalamat."
+Siya ay ang nagpahayo sa inyo sa katihan at karagatan hanggang sa nang kayo ay naging nasa mga sasakyang-dagat at naglayag ang mga ito kasama sa kanila sa pamamagitan ng isang hanging kaaya-aya at natuwa sila rito, may dumating naman sa mga ito na isang hanging bumubugso at dumating sa kanila ang mga alon mula sa bawat pook. Nagpalagay sila na sila ay pinalibutan. Dumalangin sila kay Allāh habang mga nagpapakawagas para sa Kanya sa relihiyon, \[na nagsasabi\]: "Talagang kung paliligtasin Mo kami mula rito, talagang kami nga ay magiging kabilang sa mga tagapagpasalamat."
 
 # 1387
 
@@ -5586,7 +5586,7 @@ Ang mga nagkamit ng mga masagwang gawa, ang ganti sa masagwang gawa ay katumbas 
 
 # 1392
 
-Sa araw na kakalap Kami sa kanila sa kalahatan, pagkatapos magsasabi Kami sa mga nagtambal: "[Manitili] sa lugar ninyo, kayo at ang mga pantambal ninyo," at magpapahiwalay Kami sa pagitan nila. Magsasabi ang mga pantambal nila: "Hindi kayo dati sa amin sumasamba,
+Sa araw na kakalap Kami sa kanila sa kalahatan, pagkatapos magsasabi Kami sa mga nagtambal: "\[Manitili\] sa lugar ninyo, kayo at ang mga pantambal ninyo," at magpapahiwalay Kami sa pagitan nila. Magsasabi ang mga pantambal nila: "Hindi kayo dati sa amin sumasamba,
 
 # 1393
 
@@ -5622,7 +5622,7 @@ Walang sinusunod ang higit na marami sa kanila kundi isang palagay. Tunay na ang
 
 # 1401
 
-Hindi nangyaring ang Qur’ān na ito ay magawa-gawa ng bukod pa kay Allāh, subalit [naging] pagpapatotoo sa nauna rito at pagdedetalye sa Kasulatan, na walang pag-aalinlangan hinggil dito mula sa Panginoon ng mga nilalang.
+Hindi nangyaring ang Qur’ān na ito ay magawa-gawa ng bukod pa kay Allāh, subalit \[naging\] pagpapatotoo sa nauna rito at pagdedetalye sa Kasulatan, na walang pag-aalinlangan hinggil dito mula sa Panginoon ng mga nilalang.
 
 # 1402
 
@@ -5726,7 +5726,7 @@ Pansinin, tunay na ang mga katangkilik ni Allāh ay walang pangamba sa kanila ni
 
 # 1427
 
-[Sila] ang mga sumampalataya at sila noon ay nangingilag magkasala kay Allāh.
+\[Sila\] ang mga sumampalataya at sila noon ay nangingilag magkasala kay Allāh.
 
 # 1428
 
@@ -5738,7 +5738,7 @@ Huwag magpalungkot sa iyo ang sabi nila. Tunay na ang karangalan ay ukol kay All
 
 # 1430
 
-Pansinin, tunay na sa kay Allāh ang sinumang nasa mga langit at ang sinumang nasa lupa. Hindi sumusunod sa mga pantambal ang mga dumadalangin sa bukod pa kay Allāh. Hindi sila sumusunod kundi sa palagay at wala silang [ginagawa] kundi naghahaka-haka.
+Pansinin, tunay na sa kay Allāh ang sinumang nasa mga langit at ang sinumang nasa lupa. Hindi sumusunod sa mga pantambal ang mga dumadalangin sa bukod pa kay Allāh. Hindi sila sumusunod kundi sa palagay at wala silang \[ginagawa\] kundi naghahaka-haka.
 
 # 1431
 
@@ -5822,7 +5822,7 @@ at iligtas Mo kami sa pamamagitan ng awa Mo laban sa mga taong tagatangging suma
 
 # 1451
 
-Nagkasi Kami kay Moises at sa kapatid niya, na [nagsasabi]: "Magtalaga kayong dalawa para sa mga kalipi ninyong dalawa sa Ehipto ng mga bahay. Gumawa kayo ng mga bahay ninyo [paharap] sa qiblah. Magpanatili kayo ng pagdarasal. Magbalita ka ng nakagagalak sa mga mananampalataya."
+Nagkasi Kami kay Moises at sa kapatid niya, na \[nagsasabi\]: "Magtalaga kayong dalawa para sa mga kalipi ninyong dalawa sa Ehipto ng mga bahay. Gumawa kayo ng mga bahay ninyo \[paharap\] sa qiblah. Magpanatili kayo ng pagdarasal. Magbalita ka ng nakagagalak sa mga mananampalataya."
 
 # 1452
 
@@ -5894,7 +5894,7 @@ Sabihin mo: "O mga tao, kung kayo ay nasa isang pagdududa sa Relihiyon ko, hindi
 
 # 1469
 
-[Ipinag-uutos] na: "Magpanatili ka ng mukha mo sa Relihiyon bilang makatotoo at huwag ka ngang maging kabilang sa mga tagapagtambal.
+\[Ipinag-uutos\] na: "Magpanatili ka ng mukha mo sa Relihiyon bilang makatotoo at huwag ka ngang maging kabilang sa mga tagapagtambal.
 
 # 1470
 
@@ -5914,15 +5914,15 @@ Sumunod ka sa ikinakasi sa iyo at magtiis ka hanggang sa humatol si Allāh. Siya
 
 # 1474
 
-Alif. Lām. Rā’. [Ito ay] isang Aklat na hinusto ang mga talata nito, pagkatapos dinetalye mula sa panig ng isang Marunong, isang Mapagbatid.
+Alif. Lām. Rā’. \[Ito ay\] isang Aklat na hinusto ang mga talata nito, pagkatapos dinetalye mula sa panig ng isang Marunong, isang Mapagbatid.
 
 # 1475
 
-[Ipinasasabi sa Sugo:] "Na huwag kayong sumamba kundi kay Allāh. Tunay na ako para sa inyo mula sa Kanya ay isang mapagbabala at isang mapagbalita ng nakagagalak."
+\[Ipinasasabi sa Sugo:\] "Na huwag kayong sumamba kundi kay Allāh. Tunay na ako para sa inyo mula sa Kanya ay isang mapagbabala at isang mapagbalita ng nakagagalak."
 
 # 1476
 
-[Ipinasasabi sa Sugo:] "Na humingi kayo ng tawad sa Panginoon ninyo, pagkatapos magbalik-loob kayo sa Kanya, magpapatamasa Siya sa inyo ng isang natatamasang maganda hanggang sa isang taning na tinukoy at magbibigay Siya sa bawat may kabutihang-loob ng kabutihang-loob dito. Kung tatalikod kayo, tunay na ako ay nangangamba para sa inyo ng pagdurusa sa isang araw na malaki.
+\[Ipinasasabi sa Sugo:\] "Na humingi kayo ng tawad sa Panginoon ninyo, pagkatapos magbalik-loob kayo sa Kanya, magpapatamasa Siya sa inyo ng isang natatamasang maganda hanggang sa isang taning na tinukoy at magbibigay Siya sa bawat may kabutihang-loob ng kabutihang-loob dito. Kung tatalikod kayo, tunay na ako ay nangangamba para sa inyo ng pagdurusa sa isang araw na malaki.
 
 # 1477
 
@@ -5970,7 +5970,7 @@ Kaya kung hindi sila tumugon sa inyo, alamin ninyo na pinababa lamang ito nang m
 
 # 1488
 
-Ang sinumang nagnanais ng buhay na pangmundo at gayak nito, maglulubus-lubos Kami tungo sa kanila [ng kabayaran] sa mga gawa nila rito habang sila rito ay hindi kinukulangan.
+Ang sinumang nagnanais ng buhay na pangmundo at gayak nito, maglulubus-lubos Kami tungo sa kanila \[ng kabayaran\] sa mga gawa nila rito habang sila rito ay hindi kinukulangan.
 
 # 1489
 
@@ -5978,7 +5978,7 @@ Ang mga iyon, walang ukol sa kanila sa Kabilang-buhay kundi ang Apoy. Nawalang-k
 
 # 1490
 
-Kaya ba ang nasa isang malinaw na patunay mula sa Panginoon niya [ay tulad ng nabanggit]? Sumusunod dito ang isang tagasaksi mula sa Kanya at, bago pa nito, ang kasulatan ni Moises bilang pinuno at bilang awa. Ang mga iyon ay sumasampalataya rito. Ang sinumang tumangging sumampalataya rito kabilang sa mga lapian, ang Apoy ay ipinangako sa kanya. Kaya huwag kang maging nasa isang pag-aalangan sa [Qur’ān na] ito. Tunay na ito ay ang katotohanan mula sa Panginoon mo, subalit ang higit na marami sa mga tao ay hindi sumasampalataya.
+Kaya ba ang nasa isang malinaw na patunay mula sa Panginoon niya \[ay tulad ng nabanggit\]? Sumusunod dito ang isang tagasaksi mula sa Kanya at, bago pa nito, ang kasulatan ni Moises bilang pinuno at bilang awa. Ang mga iyon ay sumasampalataya rito. Ang sinumang tumangging sumampalataya rito kabilang sa mga lapian, ang Apoy ay ipinangako sa kanya. Kaya huwag kang maging nasa isang pag-aalangan sa \[Qur’ān na\] ito. Tunay na ito ay ang katotohanan mula sa Panginoon mo, subalit ang higit na marami sa mga tao ay hindi sumasampalataya.
 
 # 1491
 
@@ -6010,7 +6010,7 @@ Ang paghahalintulad sa dalawang pangkat ay gaya ng bulag at bingi, at ng nakakik
 
 # 1498
 
-Talaga ngang nagsugo Kami kay Noe sa mga tao niya, [na nagsasabi]: "Tunay na ako para sa inyo ay isang mapagbabalang malinaw,
+Talaga ngang nagsugo Kami kay Noe sa mga tao niya, \[na nagsasabi\]: "Tunay na ako para sa inyo ay isang mapagbabalang malinaw,
 
 # 1499
 
@@ -6070,7 +6070,7 @@ saka makaaalam kayo sa kung sino ang pupuntahan ng isang pagdurusang magpapahiya
 
 # 1513
 
-[Gayon nga] hanggang sa nang dumating ang utos Namin at sumambulat ang pugon. Nagsabi Kami: "Maglulan ka sa loob niyon ng mula sa bawat dalawang magkapares, ng mag-anak mo – maliban sa nauna sa kanya ang hatol – at ng sinumang sumampalataya." Walang sumampalataya kasama sa kanya kundi kakaunti.
+\[Gayon nga\] hanggang sa nang dumating ang utos Namin at sumambulat ang pugon. Nagsabi Kami: "Maglulan ka sa loob niyon ng mula sa bawat dalawang magkapares, ng mag-anak mo – maliban sa nauna sa kanya ang hatol – at ng sinumang sumampalataya." Walang sumampalataya kasama sa kanya kundi kakaunti.
 
 # 1514
 
@@ -6078,7 +6078,7 @@ Nagsabi siya: "Sumakay kayo rito; sa ngalan ni Allāh ang paglalayag nito at ang
 
 # 1515
 
-Ito ay naglayag lulan sila sa mga alon na gaya ng mga bundok. Nanawagan si Noe sa anak niya habang ito ay nasa pinaglayuan [nito]: "O anak ko, sumakay ka kasama sa amin at huwag kang maging kabilang sa mga tagatangging sumampalataya."
+Ito ay naglayag lulan sila sa mga alon na gaya ng mga bundok. Nanawagan si Noe sa anak niya habang ito ay nasa pinaglayuan \[nito\]: "O anak ko, sumakay ka kasama sa amin at huwag kang maging kabilang sa mga tagatangging sumampalataya."
 
 # 1516
 
@@ -6086,7 +6086,7 @@ Nagsabi ito: "Kakanlong ako sa isang bundok na magsasanggalang sa akin laban sa 
 
 # 1517
 
-Sinabi: "O lupa, lulunin mo ang tubig mo; o langit, pigilin mo [ang ulan]." Pinahupa ang tubig, natapos ang pasya, at lumuklok ito sa ibabaw ng [bundok ng] Jūdīy. Sinabi: "Kalayuan [sa awa] ay ukol sa mga taong tagalabag sa katarungan."
+Sinabi: "O lupa, lulunin mo ang tubig mo; o langit, pigilin mo \[ang ulan\]." Pinahupa ang tubig, natapos ang pasya, at lumuklok ito sa ibabaw ng \[bundok ng\] Jūdīy. Sinabi: "Kalayuan \[sa awa\] ay ukol sa mga taong tagalabag sa katarungan."
 
 # 1518
 
@@ -6094,9 +6094,9 @@ Nanawagan si Noe sa Panginoon niya saka nagsabi: "O Panginoon ko, tunay na ang a
 
 # 1519
 
-Nagsabi Siya: "O Noe, tunay na siya ay hindi kabilang sa mag-anak mo. Tunay na [ang paghiling na] ito ay gawang hindi maayos. Kaya huwag kang humiling sa Akin ng wala kang kaalaman hinggil doon. Tunay na Ako ay nangangaral sa iyo na baka ikaw ay maging kabilang sa mga mangmang."[^*]
+Nagsabi Siya: "O Noe, tunay na siya ay hindi kabilang sa mag-anak mo. Tunay na \[ang paghiling na\] ito ay gawang hindi maayos. Kaya huwag kang humiling sa Akin ng wala kang kaalaman hinggil doon. Tunay na Ako ay nangangaral sa iyo na baka ikaw ay maging kabilang sa mga mangmang."[^*]
 
-[^*]: - Tunay na siya ay gawang hindi maayos.
+[^*]: \- Tunay na siya ay gawang hindi maayos.
 
 # 1520
 
@@ -6108,11 +6108,11 @@ Sinabi: "O Noe, manaog ka nang may kapayapaan mula sa Amin at mga pagpapala sa i
 
 # 1522
 
-Iyon ay kabilang sa mga balita ng Lingid, na ikinakasi Namin sa iyo. Hindi ka dati nakaaalam nito, ikaw ni ang mga tao mo bago pa nito. Kaya magtiis ka; tunay na ang [magandang] kahihinatnan ay ukol sa mga tagapangilag magkasala.
+Iyon ay kabilang sa mga balita ng Lingid, na ikinakasi Namin sa iyo. Hindi ka dati nakaaalam nito, ikaw ni ang mga tao mo bago pa nito. Kaya magtiis ka; tunay na ang \[magandang\] kahihinatnan ay ukol sa mga tagapangilag magkasala.
 
 # 1523
 
-[Nagsugo sa liping] `Ād ng kapatid nilang si Hūd. Nagsabi siya: "O mga kalipi ko, sumamba kayo kay Allāh; walang ukol sa inyo na anumang Diyos na iba pa sa Kanya. Walang iba kayo kundi mga gumagawa-gawa [ng kasinungalingan.]"
+\[Nagsugo sa liping\] \`Ād ng kapatid nilang si Hūd. Nagsabi siya: "O mga kalipi ko, sumamba kayo kay Allāh; walang ukol sa inyo na anumang Diyos na iba pa sa Kanya. Walang iba kayo kundi mga gumagawa-gawa \[ng kasinungalingan.\]"
 
 # 1524
 
@@ -6120,7 +6120,7 @@ O mga kalipi ko, hindi ako humihingi sa inyo dahil doon ng isang pabuya; walang 
 
 # 1525
 
-O mga kalipi ko, humingi kayo ng tawad sa Panginoon ninyo, pagkatapos magbalik-loob kayo sa Kanya, magpapadala Siya sa langit sa ibabaw ninyo ng masaganang [ulan] at magdaragdag Siya sa inyo ng lakas sa [dating] lakas ninyo. Huwag kayong tumalikod bilang mga salarin.
+O mga kalipi ko, humingi kayo ng tawad sa Panginoon ninyo, pagkatapos magbalik-loob kayo sa Kanya, magpapadala Siya sa langit sa ibabaw ninyo ng masaganang \[ulan\] at magdaragdag Siya sa inyo ng lakas sa \[dating\] lakas ninyo. Huwag kayong tumalikod bilang mga salarin.
 
 # 1526
 
@@ -6140,7 +6140,7 @@ Tunay na ako ay nanalig kay Allāh, ang Panginoon ko at ang Panginoon ninyo. Wal
 
 # 1530
 
-Ngunit kung tatalikod kayo ay [sabihin mo:] "Nagpaabot na ako sa inyo ng ipinasugo sa akin sa inyo. Magtatalaga bilang kahalili ang Panginoon ko sa mga taong iba pa sa inyo. Hindi kayo makapipinsala sa Kanya ng anuman. Tunay na ang Panginoon sa bawat bagay ay Mapag-ingat."
+Ngunit kung tatalikod kayo ay \[sabihin mo:\] "Nagpaabot na ako sa inyo ng ipinasugo sa akin sa inyo. Magtatalaga bilang kahalili ang Panginoon ko sa mga taong iba pa sa inyo. Hindi kayo makapipinsala sa Kanya ng anuman. Tunay na ang Panginoon sa bawat bagay ay Mapag-ingat."
 
 # 1531
 
@@ -6148,15 +6148,15 @@ Noong dumating ang utos Namin ay nagligtas Kami kay Hūd at sa mga sumampalataya
 
 # 1532
 
-Iyon ay [liping] `Ād na nagkaila sa mga tanda ng Panginoon nila, sumuway sa mga sugo nila, at sumunod sa utos ng bawat mapaniil na mapagmatigas.
+Iyon ay \[liping\] \`Ād na nagkaila sa mga tanda ng Panginoon nila, sumuway sa mga sugo nila, at sumunod sa utos ng bawat mapaniil na mapagmatigas.
 
 # 1533
 
-Pinasundan sila sa Mundong ito ng isang sumpa at sa Araw ng Pagbangon. Pansinin, tunay na ang [liping] `Ād ay tumangging sumampalataya sa Panginoon nila. Pansinin, kalayuan [sa awa] ay ukol sa [liping] `Ād, na mga kalipi ni Hūd.
+Pinasundan sila sa Mundong ito ng isang sumpa at sa Araw ng Pagbangon. Pansinin, tunay na ang \[liping\] \`Ād ay tumangging sumampalataya sa Panginoon nila. Pansinin, kalayuan \[sa awa\] ay ukol sa \[liping\] \`Ād, na mga kalipi ni Hūd.
 
 # 1534
 
-[Nagsugo sa liping] Thamūd ng kapatid nilang si Ṣāliḥ. Nagsabi siya: "O mga kalipi ko, sumamba kayo kay Allāh; walang ukol sa inyo na anumang Diyos na iba pa sa Kanya. Siya ay nagpaluwal sa inyo mula sa lupa at nagpanirahan sa inyo rito, kaya humingi kayo ng tawad sa Kanya, pagkatapos magbalik-loob kayo sa Kanya. Tunay na ang Panginoon ko ay Malapit, Tagasagot."
+\[Nagsugo sa liping\] Thamūd ng kapatid nilang si Ṣāliḥ. Nagsabi siya: "O mga kalipi ko, sumamba kayo kay Allāh; walang ukol sa inyo na anumang Diyos na iba pa sa Kanya. Siya ay nagpaluwal sa inyo mula sa lupa at nagpanirahan sa inyo rito, kaya humingi kayo ng tawad sa Kanya, pagkatapos magbalik-loob kayo sa Kanya. Tunay na ang Panginoon ko ay Malapit, Tagasagot."
 
 # 1535
 
@@ -6176,23 +6176,23 @@ Ngunit kinatay nila ito, kaya nagsabi siya: "Magtamasa kayo sa tahanan ninyo nan
 
 # 1539
 
-Kaya noong dumating ang utos Namin ay nagligtas Kami kay Ṣāliḥ at sa mga sumampalataya kasama sa kanya sa pamamagitan ng isang awa mula sa Amin at [nagligtas] mula sa kahihiyan sa araw na iyon. Tunay na ang Panginoon mo ay ang Malakas, ang Makapangyarihan.
+Kaya noong dumating ang utos Namin ay nagligtas Kami kay Ṣāliḥ at sa mga sumampalataya kasama sa kanya sa pamamagitan ng isang awa mula sa Amin at \[nagligtas\] mula sa kahihiyan sa araw na iyon. Tunay na ang Panginoon mo ay ang Malakas, ang Makapangyarihan.
 
 # 1540
 
-Dumaklot sa mga lumabag sa katarungan ang hiyaw saka sila, sa mga tahanan nila, ay naging mga [patay na] nakasubsob.
+Dumaklot sa mga lumabag sa katarungan ang hiyaw saka sila, sa mga tahanan nila, ay naging mga \[patay na\] nakasubsob.
 
 # 1541
 
-Para bang hindi sila namuhay roon. Pansinin, tunay na ang [liping] Thamūd ay tumangging sumampalataya sa Panginoon nila. Pansinin, kalayuan [sa awa] ay ukol sa [liping] Thamūd.
+Para bang hindi sila namuhay roon. Pansinin, tunay na ang \[liping\] Thamūd ay tumangging sumampalataya sa Panginoon nila. Pansinin, kalayuan \[sa awa\] ay ukol sa \[liping\] Thamūd.
 
 # 1542
 
-Talaga ngang naghatid ang mga [anghel na] sugo Namin kay Abraham ng balitang nakagagalak. Nagsabi sila: "Kapayapaan!" Nagsabi siya: "Kapayapaan." Kaya hindi naglaon na naghatid siya ng isang guyang inihaw.
+Talaga ngang naghatid ang mga \[anghel na\] sugo Namin kay Abraham ng balitang nakagagalak. Nagsabi sila: "Kapayapaan!" Nagsabi siya: "Kapayapaan." Kaya hindi naglaon na naghatid siya ng isang guyang inihaw.
 
 # 1543
 
-Ngunit noong nakita niya ang mga kamay nila na hindi umaabot doon [sa inihaw], naghinala siya sa kanila at nakadama siya mula sa kanila ng isang pangangamba. Nagsabi sila: "Huwag kang mangamba; tunay na kami ay isinugo sa mga tao ni Lot."
+Ngunit noong nakita niya ang mga kamay nila na hindi umaabot doon \[sa inihaw\], naghinala siya sa kanila at nakadama siya mula sa kanila ng isang pangangamba. Nagsabi sila: "Huwag kang mangamba; tunay na kami ay isinugo sa mga tao ni Lot."
 
 # 1544
 
@@ -6208,7 +6208,7 @@ Nagsabi sila: "Nagtataka ka ba sa pasya ni Allāh? Ang awa ni Allāh at ang mga 
 
 # 1547
 
-Kaya noong umalis kay Abraham ang hilakbot at dumating sa kanya ang nakagagalak na balita, nakipagtalo siya sa [mga anghel] Namin alang-alang sa mga kababayan ni Lot.
+Kaya noong umalis kay Abraham ang hilakbot at dumating sa kanya ang nakagagalak na balita, nakipagtalo siya sa \[mga anghel\] Namin alang-alang sa mga kababayan ni Lot.
 
 # 1548
 
@@ -6216,11 +6216,11 @@ Tunay na si Abraham ay talagang matimpiin, palataghoy, nagsisising tagapanumbali
 
 # 1549
 
-[Sinabi:] "O Abraham, umayaw ka rito! Tunay na dumating na ang utos ng Panginoon mo. Tunay na sila ay pupuntahan ng isang pagdurusang hindi mapipigilan."
+\[Sinabi:\] "O Abraham, umayaw ka rito! Tunay na dumating na ang utos ng Panginoon mo. Tunay na sila ay pupuntahan ng isang pagdurusang hindi mapipigilan."
 
 # 1550
 
-Noong dumating ang mga [anghel na] sugo Namin kay Lot, sumama ang loob niya sa kanila, pinanikipan siya sa kanila ng dibdib, at nagsabi: "Ito ay isang araw na nakaririndi."
+Noong dumating ang mga \[anghel na\] sugo Namin kay Lot, sumama ang loob niya sa kanila, pinanikipan siya sa kanila ng dibdib, at nagsabi: "Ito ay isang araw na nakaririndi."
 
 # 1551
 
@@ -6248,7 +6248,7 @@ na tinatakan sa ganang Panginoon mo. Ang mga ito, mula sa mga tagalabag sa katar
 
 # 1557
 
-[Nagsugo sa] Madyan ng kapatid nilang si Shu`ayb. Nagsabi siya: "O mga kalipi ko, sumamba kayo kay Allāh; walang ukol sa inyo na anumang Diyos na iba pa sa Kanya. Huwag kayong magbawas sa takalan at timbangan. Tunay na ako ay nakakikita sa inyo na nasa isang kariwasaan at tunay na ako ay nangangamba para sa inyo sa isang pagdurusa sa isang araw na sumasaklaw.
+\[Nagsugo sa\] Madyan ng kapatid nilang si Shu\`ayb. Nagsabi siya: "O mga kalipi ko, sumamba kayo kay Allāh; walang ukol sa inyo na anumang Diyos na iba pa sa Kanya. Huwag kayong magbawas sa takalan at timbangan. Tunay na ako ay nakakikita sa inyo na nasa isang kariwasaan at tunay na ako ay nangangamba para sa inyo sa isang pagdurusa sa isang araw na sumasaklaw.
 
 # 1558
 
@@ -6260,7 +6260,7 @@ Ang tira ni Allāh ay higit na mabuti para sa inyo kung kayo ay mga mananampalat
 
 # 1560
 
-Nagsabi sila: "O Shu`ayb, ang dasal mo ba ay nag-uutos sa iyo na mag-iwan kami sa sinasamba ng mga ninuno namin at [na tumigil kami] na gumawa sa mga yaman namin ng niloloob namin? Tunay na ikaw ay talagang ikaw ang matimpiin, ang matino."
+Nagsabi sila: "O Shu\`ayb, ang dasal mo ba ay nag-uutos sa iyo na mag-iwan kami sa sinasamba ng mga ninuno namin at \[na tumigil kami\] na gumawa sa mga yaman namin ng niloloob namin? Tunay na ikaw ay talagang ikaw ang matimpiin, ang matino."
 
 # 1561
 
@@ -6276,7 +6276,7 @@ Humingi kayo ng tawad sa Panginoon ninyo, pagkatapos magbalik-loob kayo sa Kanya
 
 # 1564
 
-Nagsabi sila: "O Shu`ayb, hindi kami nakauunawa sa marami sa sinasabi mo. Tunay na kami ay talagang nagtuturing sa iyo sa gitna namin bilang mahina. Kung hindi dahil sa angkan mo, talaga sanang binato ka namin. Ikaw sa amin ay hindi isang kagalang-galang."
+Nagsabi sila: "O Shu\`ayb, hindi kami nakauunawa sa marami sa sinasabi mo. Tunay na kami ay talagang nagtuturing sa iyo sa gitna namin bilang mahina. Kung hindi dahil sa angkan mo, talaga sanang binato ka namin. Ikaw sa amin ay hindi isang kagalang-galang."
 
 # 1565
 
@@ -6288,11 +6288,11 @@ O mga kalipi ko, gumawa kayo ayon sa kalagayan ninyo. Tunay na ako ay gumagawa. 
 
 # 1567
 
-Noong dumating ang utos Namin ay nagligtas Kami kay Shu`ayb at sa mga sumampalataya kasama sa kanya sa pamamagitan ng isang awa mula sa Amin. Dumaklot sa mga lumabag sa katarungan ang hiyaw saka sila, sa mga tahanan nila, ay naging mga [patay na] nakasubsob.
+Noong dumating ang utos Namin ay nagligtas Kami kay Shu\`ayb at sa mga sumampalataya kasama sa kanya sa pamamagitan ng isang awa mula sa Amin. Dumaklot sa mga lumabag sa katarungan ang hiyaw saka sila, sa mga tahanan nila, ay naging mga \[patay na\] nakasubsob.
 
 # 1568
 
-Para bang hindi sila namuhay roon. Pansinin, kalayuan [sa awa] ay ukol sa Madyan kung paanong nalayo [sa awa] ang Thamūd.
+Para bang hindi sila namuhay roon. Pansinin, kalayuan \[sa awa\] ay ukol sa Madyan kung paanong nalayo \[sa awa\] ang Thamūd.
 
 # 1569
 
@@ -6336,7 +6336,7 @@ Sa araw na darating iyon, walang nagsasalita na isang kaluluwa malibang ayon sa 
 
 # 1579
 
-Hinggil sa mga malulumbay, sa Apoy [sila]. Ukol sa kanila roon ay singhal at singhot,
+Hinggil sa mga malulumbay, sa Apoy \[sila\]. Ukol sa kanila roon ay singhal at singhot,
 
 # 1580
 
@@ -6344,7 +6344,7 @@ bilang mga mananatili roon hanggat tumatagal ang mga langit at ang lupa maliban 
 
 # 1581
 
-Hinggil sa mga liligaya, sa Paraiso [sila] bilang mga mananatili roon hanggat tumatagal ang mga langit at ang lupa maliban sa niloob ng Panginoon mo, bilang bigay na hindi mapapatid.
+Hinggil sa mga liligaya, sa Paraiso \[sila\] bilang mga mananatili roon hanggat tumatagal ang mga langit at ang lupa maliban sa niloob ng Panginoon mo, bilang bigay na hindi mapapatid.
 
 # 1582
 
@@ -6356,7 +6356,7 @@ Talaga ngang nagbigay Kami kay Moises ng kasulatan, ngunit nagkakaiba-iba hinggi
 
 # 1584
 
-Tunay na sa bawat pangkat ay talagang maglulubus-lubos nga sa kanila ang Panginoon mo [ng kabayaran] sa mga gawa nila. Tunay na Siya sa anumang ginagawa nila ay Mapagbatid.
+Tunay na sa bawat pangkat ay talagang maglulubus-lubos nga sa kanila ang Panginoon mo \[ng kabayaran\] sa mga gawa nila. Tunay na Siya sa anumang ginagawa nila ay Mapagbatid.
 
 # 1585
 
@@ -6376,7 +6376,7 @@ Magtiis ka sapagkat tunay na si Allāh ay hindi nagwawala ng pabuya ng mga tagag
 
 # 1589
 
-Kaya bakit kasi hindi nagkaroon mula sa mga salinlahi bago pa ninyo ng mga may tirang [kabutihang] sumasaway sa kaguluhan sa lupa, maliban sa kaunti kabilang sa pinaligtas Namin kabilang sa kanila? Sumunod ang mga lumabag sa katarungan sa ipinariwasa sa kanila roon, at sila ay naging mga salarin.
+Kaya bakit kasi hindi nagkaroon mula sa mga salinlahi bago pa ninyo ng mga may tirang \[kabutihang\] sumasaway sa kaguluhan sa lupa, maliban sa kaunti kabilang sa pinaligtas Namin kabilang sa kanila? Sumunod ang mga lumabag sa katarungan sa ipinariwasa sa kanila roon, at sila ay naging mga salarin.
 
 # 1590
 
@@ -6392,7 +6392,7 @@ maliban sa sinumang kinaawaan ng Panginoon mo, at dahil doon lumikha siya sa kan
 
 # 1593
 
-Bawat isa na isinalaysay Namin sa iyo mula sa mga balita hinggil sa mga sugo ay ang nagpapatatag Kami sa pamamagitan nito sa puso mo. Dumating sa iyo sa [kabanatang] ito ang totoo, isang pangaral, at isang paalaala para sa mga mananampalataya.
+Bawat isa na isinalaysay Namin sa iyo mula sa mga balita hinggil sa mga sugo ay ang nagpapatatag Kami sa pamamagitan nito sa puso mo. Dumating sa iyo sa \[kabanatang\] ito ang totoo, isang pangaral, at isang paalaala para sa mga mananampalataya.
 
 # 1594
 
@@ -6420,11 +6420,11 @@ Kami ay nagsasalaysay sa iyo ng pinakamaganda sa mga salaysay dahil nagkasi Kami
 
 # 1600
 
-[Banggitin] noong nagsabi si Jose sa ama niya: "O ama ko, tunay na ako ay nakakita [sa panaginip] ng labing-isang tala, araw, at buwan; nakita ko sila na sa akin ay mga nakapatirapa."
+\[Banggitin\] noong nagsabi si Jose sa ama niya: "O ama ko, tunay na ako ay nakakita \[sa panaginip\] ng labing-isang tala, araw, at buwan; nakita ko sila na sa akin ay mga nakapatirapa."
 
 # 1601
 
-Nagsabi ito: "O anak ko, huwag kang magsalaysay ng panaginip mo sa mga kapatid mo para [hindi] sila magpakana sa iyo ng isang pakana. Tunay na ang demonyo para sa tao ay isang kaaway na malinaw."
+Nagsabi ito: "O anak ko, huwag kang magsalaysay ng panaginip mo sa mga kapatid mo para \[hindi\] sila magpakana sa iyo ng isang pakana. Tunay na ang demonyo para sa tao ay isang kaaway na malinaw."
 
 # 1602
 
@@ -6436,15 +6436,15 @@ Talaga ngang hinggil kay Jose at sa mga kapatid niya ay may mga tanda para sa mg
 
 # 1604
 
-[Banggitin] noong nagsabi sila: "Talagang si Jose at ang kapatid niya ay higit na kaibig-ibig sa ama natin kaysa sa atin samantalang tayo ay isang nakararaming pangkat. Tunay na ang ama natin ay talagang nasa isang pagkaligaw na malinaw.
+\[Banggitin\] noong nagsabi sila: "Talagang si Jose at ang kapatid niya ay higit na kaibig-ibig sa ama natin kaysa sa atin samantalang tayo ay isang nakararaming pangkat. Tunay na ang ama natin ay talagang nasa isang pagkaligaw na malinaw.
 
 # 1605
 
-Patayin ninyo si Jose o itapon ninyo siya sa isang [ibang] lupain, malalaan para sa inyo ang mukha ng ama ninyo at kayo matapos niyon ay magiging mga taong maayos."
+Patayin ninyo si Jose o itapon ninyo siya sa isang \[ibang\] lupain, malalaan para sa inyo ang mukha ng ama ninyo at kayo matapos niyon ay magiging mga taong maayos."
 
 # 1606
 
-Nagsabi ang isang nagsasabi kabilang sa kanila: "Huwag ninyong patayin si Jose. Ihagis ninyo siya sa kailaliman ng balon, pupulutin siya ng ilan sa mga karaban kung kayo ay gagawa [niyon]."
+Nagsabi ang isang nagsasabi kabilang sa kanila: "Huwag ninyong patayin si Jose. Ihagis ninyo siya sa kailaliman ng balon, pupulutin siya ng ilan sa mga karaban kung kayo ay gagawa \[niyon\]."
 
 # 1607
 
@@ -6460,7 +6460,7 @@ Nagsabi siya: "Tunay na ako ay talagang nalulungkot na umalis kayo kasama niya a
 
 # 1610
 
-Nagsabi sila: "Talagang kung kinain siya ng lobo samantalang kami ay isang [malakas na] pangkat, tunay na kami samakatuwid ay talagang mga lugi."
+Nagsabi sila: "Talagang kung kinain siya ng lobo samantalang kami ay isang \[malakas na\] pangkat, tunay na kami samakatuwid ay talagang mga lugi."
 
 # 1611
 
@@ -6476,7 +6476,7 @@ Nagsabi sila: "O ama namin, tunay na kami ay umalis, na nag-uunahan, at iniwan n
 
 # 1614
 
-Dumating sila kasama ng kamisa niya na may dugong huwad. Nagsabi siya: "Bagkus humalina sa inyo ang mga sarili ninyo sa isang bagay, kaya isang pagtitiis na marilag [ang pagtitiis ko]. Si Allāh ay ang ipinapantulong laban sa inilalarawan ninyo."
+Dumating sila kasama ng kamisa niya na may dugong huwad. Nagsabi siya: "Bagkus humalina sa inyo ang mga sarili ninyo sa isang bagay, kaya isang pagtitiis na marilag \[ang pagtitiis ko\]. Si Allāh ay ang ipinapantulong laban sa inilalarawan ninyo."
 
 # 1615
 
@@ -6496,7 +6496,7 @@ Noong umabot siya sa kalakasan niya ay nagbigay Kami sa kanya ng karunungan at k
 
 # 1619
 
-Nagtangkang umakit sa kanya sa sarili niya ang [babaing] siya ay nasa bahay nito. Nagsara ito ng mga pinto at nagsabi: "Heto ako para sa iyo!" Nagsabi siya: "Pagpapakupkop kay Allāh! Tunay na siya ay panginoon ko; gumawa siya ng maganda sa panunuluyan ko. Tunay na hindi nagtatagumpay ang mga tagalabag sa katarungan."
+Nagtangkang umakit sa kanya sa sarili niya ang \[babaing\] siya ay nasa bahay nito. Nagsara ito ng mga pinto at nagsabi: "Heto ako para sa iyo!" Nagsabi siya: "Pagpapakupkop kay Allāh! Tunay na siya ay panginoon ko; gumawa siya ng maganda sa panunuluyan ko. Tunay na hindi nagtatagumpay ang mga tagalabag sa katarungan."
 
 # 1620
 
@@ -6504,11 +6504,11 @@ Talaga ngang nagnasa ito sa kanya; at nagnasa sana siya, kung sakaling hindi siy
 
 # 1621
 
-Nag-unahan silang dalawa sa pinto, nakalaslas ito sa damit niya mula sa likuran, nakasumpong silang dalawa sa asawa nito sa gilid ng pintuan, at nagsabi ito: "Walang iba ang ganti sa sinumang nagnanais sa maybahay mo ng isang kasagwaan kundi na ibilanggo siya o [patawan ng] isang pagdurusang masakit."
+Nag-unahan silang dalawa sa pinto, nakalaslas ito sa damit niya mula sa likuran, nakasumpong silang dalawa sa asawa nito sa gilid ng pintuan, at nagsabi ito: "Walang iba ang ganti sa sinumang nagnanais sa maybahay mo ng isang kasagwaan kundi na ibilanggo siya o \[patawan ng\] isang pagdurusang masakit."
 
 # 1622
 
-Nagsabi siya: "Siya ay nagtangkang umakit sa akin palayo sa sarili ko." Sumaksi ang isang tagasaksi kabilang sa kasambahay nito, [na nagsasabi]: "Kung nangyaring ang kamisa niya ay nalaslas mula sa harapan, nagpakatotoo ito at siya naman ay kabilang sa mga sinungaling.
+Nagsabi siya: "Siya ay nagtangkang umakit sa akin palayo sa sarili ko." Sumaksi ang isang tagasaksi kabilang sa kasambahay nito, \[na nagsasabi\]: "Kung nangyaring ang kamisa niya ay nalaslas mula sa harapan, nagpakatotoo ito at siya naman ay kabilang sa mga sinungaling.
 
 # 1623
 
@@ -6516,11 +6516,11 @@ Kung nangyaring ang kamisa niya ay nalaslas mula sa likuran, nagsinungaling ito 
 
 # 1624
 
-Kaya noong nakakita iyon sa kamisa niya na nalaslas mula sa likuran, nagsabi iyon: "Tunay na ito ay bahagi ng pakana ninyo [na mga babae]; tunay na ang pakana ninyo [na mga babae] ay sukdulan.
+Kaya noong nakakita iyon sa kamisa niya na nalaslas mula sa likuran, nagsabi iyon: "Tunay na ito ay bahagi ng pakana ninyo \[na mga babae\]; tunay na ang pakana ninyo \[na mga babae\] ay sukdulan.
 
 # 1625
 
-Jose, magsawalang-kibo ka tungkol dito! [Maybahay,] humingi ka ng tawad para sa pagkakasala mo! Tunay na ikaw ay kabilang sa mga nagkakamali.
+Jose, magsawalang-kibo ka tungkol dito! \[Maybahay,\] humingi ka ng tawad para sa pagkakasala mo! Tunay na ikaw ay kabilang sa mga nagkakamali.
 
 # 1626
 
@@ -6528,7 +6528,7 @@ May nagsabing mga babae sa lungsod: "Ang maybahay ng Makapangyarihan ay nagtatan
 
 # 1627
 
-Kaya noong nakarinig ito hinggil sa panlalansi nila ay nagsugo ito sa kanila, naglaan ito para sa kanila ng isang piging, nagbigay ito sa bawat isa mula sa kanila ng isang kutsilyo, at nagsabi ito [kay Jose]: "Lumabas ka sa kinaroroonan nila." Kaya noong nakakita sila sa kanya, dinakila nila siya, pinaghiwa-hiwa nila ang mga kamay nila, at sinabi nila: "Kasakdalan kay Allāh! Ito ay hindi isang mortal. Walang iba ito kundi isang anghel na marangal!"
+Kaya noong nakarinig ito hinggil sa panlalansi nila ay nagsugo ito sa kanila, naglaan ito para sa kanila ng isang piging, nagbigay ito sa bawat isa mula sa kanila ng isang kutsilyo, at nagsabi ito \[kay Jose\]: "Lumabas ka sa kinaroroonan nila." Kaya noong nakakita sila sa kanya, dinakila nila siya, pinaghiwa-hiwa nila ang mga kamay nila, at sinabi nila: "Kasakdalan kay Allāh! Ito ay hindi isang mortal. Walang iba ito kundi isang anghel na marangal!"
 
 # 1628
 
@@ -6580,15 +6580,15 @@ Nagsabi ang hari: "Tunay na ako ay nanaginip ng pitong bakang matataba na kinaka
 
 # 1640
 
-Nagsabi sila: "Mga paglalahok ng mga napanaginipan [ito]. Kami, sa pagpapakahulugan ng mga napanaginipan, ay hindi mga nakaaalam."
+Nagsabi sila: "Mga paglalahok ng mga napanaginipan \[ito\]. Kami, sa pagpapakahulugan ng mga napanaginipan, ay hindi mga nakaaalam."
 
 # 1641
 
-Nagsabi ang naligtas mula sa dalawa sa kanila at nakaalaala matapos ng isang yugto: "Ako ay magbabalita sa inyo hinggil sa pagpapakahulugan nito, kaya magsugo kayo sa akin [kay Jose]."
+Nagsabi ang naligtas mula sa dalawa sa kanila at nakaalaala matapos ng isang yugto: "Ako ay magbabalita sa inyo hinggil sa pagpapakahulugan nito, kaya magsugo kayo sa akin \[kay Jose\]."
 
 # 1642
 
-Jose, O pagkatapat-tapat, maghabilin ka sa amin hinggil sa [panaginip na] pitong bakang matataba na kinain ng pitong bakang yayat at pitong uhay na luntian at mga iba pang tuyot, nang sa gayon ako ay babalik tungo sa mga tao, nang sa gayon sila ay makaaalam.
+Jose, O pagkatapat-tapat, maghabilin ka sa amin hinggil sa \[panaginip na\] pitong bakang matataba na kinain ng pitong bakang yayat at pitong uhay na luntian at mga iba pang tuyot, nang sa gayon ako ay babalik tungo sa mga tao, nang sa gayon sila ay makaaalam.
 
 # 1643
 
@@ -6596,7 +6596,7 @@ Nagsabi siya: "Magtatanim kayo nang pitong taong sunud-sunod, at ang anumang aan
 
 # 1644
 
-Pagkatapos may darating matapos niyon na pitong [taon na] matitindi na kakain sa [naipong] ipinauna ninyo para sa mga [taon na] ito, maliban sa kaunti mula sa iniimbak ninyo.
+Pagkatapos may darating matapos niyon na pitong \[taon na\] matitindi na kakain sa \[naipong\] ipinauna ninyo para sa mga \[taon na\] ito, maliban sa kaunti mula sa iniimbak ninyo.
 
 # 1645
 
@@ -6620,7 +6620,7 @@ Hindi ako nagpapawalang-sala sa sarili ko; tunay na ang sarili ay talagang palau
 
 # 1650
 
-Nagsabi ang hari: "Dalhin ninyo siya sa akin, magtatangi ako sa kanya para sa sarili ko." Kaya noong nakausap siya nito ay nagsabi ito: "Tunay na ikaw sa araw na ito sa amin ay isang matatag [sa katungkulan] na pinagkakatiwalaan."
+Nagsabi ang hari: "Dalhin ninyo siya sa akin, magtatangi ako sa kanya para sa sarili ko." Kaya noong nakausap siya nito ay nagsabi ito: "Tunay na ikaw sa araw na ito sa amin ay isang matatag \[sa katungkulan\] na pinagkakatiwalaan."
 
 # 1651
 
@@ -6648,7 +6648,7 @@ Ngunit kung hindi kayo magdadala sa kanya sa akin ay walang pagtatakal para sa i
 
 # 1657
 
-Nagsabi sila: "Magtatangka kaming humimok sa ama niya [sa pagsama] sa kanya, at tunay na kami ay talagang mga gagawa [niyon]."
+Nagsabi sila: "Magtatangka kaming humimok sa ama niya \[sa pagsama\] sa kanya, at tunay na kami ay talagang mga gagawa \[niyon\]."
 
 # 1658
 
@@ -6660,15 +6660,15 @@ Kaya noong bumalik sila sa ama nila ay nagsabi sila: "O ama namin, ipagkakait sa
 
 # 1660
 
-Nagsabi siya: "Ipagkakatiwala ko kaya siya sa inyo malibang [napipilitan] kung paanong ipinagkatiwala ko sa inyo ang kapatid niya bago pa niyan? Ngunit si Allāh ay pinakamabuti bilang Tagapag-ingat, at Siya ay ang pinakamaawain sa mga naaawa."
+Nagsabi siya: "Ipagkakatiwala ko kaya siya sa inyo malibang \[napipilitan\] kung paanong ipinagkatiwala ko sa inyo ang kapatid niya bago pa niyan? Ngunit si Allāh ay pinakamabuti bilang Tagapag-ingat, at Siya ay ang pinakamaawain sa mga naaawa."
 
 # 1661
 
-Noong nagbukas sila ng dala-dalahan nila ay nakatagpo sila sa paninda nila na isinauli sa kanila. Nagsabi sila: "O ama namin, ano pa ang hahangarin namin? Ito ay mga paninda naming isinauli sa amin. Maglalaan kami sa mag-anak namin. Mag-iingat kami sa kapatid namin. Madaragdagan kami ng isang takal [na pasan] ng kamelyo; iyon ay isang takal na madali."
+Noong nagbukas sila ng dala-dalahan nila ay nakatagpo sila sa paninda nila na isinauli sa kanila. Nagsabi sila: "O ama namin, ano pa ang hahangarin namin? Ito ay mga paninda naming isinauli sa amin. Maglalaan kami sa mag-anak namin. Mag-iingat kami sa kapatid namin. Madaragdagan kami ng isang takal \[na pasan\] ng kamelyo; iyon ay isang takal na madali."
 
 # 1662
 
-Nagsabi siya: "Hindi ako magpapadala sa kanya kasama sa inyo hanggang sa magbigay kayo sa akin ng isang taimtim na pangako kay Allāh na talagang dadalhin nga [muli] ninyo siya sa akin, maliban kung mapaliligiran kayo [ng kapahamakan]." Kaya noong nagbigay sila sa kanya ng taimtim na pangako nila ay nagsabi siya: "Si Allāh, sa anumang sinasabi natin, ay Pinagkakatiwalaan."
+Nagsabi siya: "Hindi ako magpapadala sa kanya kasama sa inyo hanggang sa magbigay kayo sa akin ng isang taimtim na pangako kay Allāh na talagang dadalhin nga \[muli\] ninyo siya sa akin, maliban kung mapaliligiran kayo \[ng kapahamakan\]." Kaya noong nagbigay sila sa kanya ng taimtim na pangako nila ay nagsabi siya: "Si Allāh, sa anumang sinasabi natin, ay Pinagkakatiwalaan."
 
 # 1663
 
@@ -6692,7 +6692,7 @@ Nagsabi sila at lumapit sa mga iyon: "Ano ang nawawalan sa inyo?"
 
 # 1668
 
-Nagsabi ang mga iyon: "Nawawalan kami ng salop ng hari. Ukol sa sinumang maghahatid niyon ay [pagkaing] isang pasan ng kamelyo, at ako sa kanya ay tagapanagot."
+Nagsabi ang mga iyon: "Nawawalan kami ng salop ng hari. Ukol sa sinumang maghahatid niyon ay \[pagkaing\] isang pasan ng kamelyo, at ako sa kanya ay tagapanagot."
 
 # 1669
 
@@ -6720,7 +6720,7 @@ Nagsabi sila: "O makapangyarihan, tunay na siya ay may isang amang matandang lub
 
 # 1675
 
-Nagsabi siya: "[Humihiling ako ng] pagkukupkop ni Allāh na manghuli kami maliban sa sinumang nakatagpo kami sa pag-aari namin sa piling niya; tunay na kami, samakatuwid, ay talagang mga tagalabag sa katarungan."
+Nagsabi siya: "\[Humihiling ako ng\] pagkukupkop ni Allāh na manghuli kami maliban sa sinumang nakatagpo kami sa pag-aari namin sa piling niya; tunay na kami, samakatuwid, ay talagang mga tagalabag sa katarungan."
 
 # 1676
 
@@ -6736,7 +6736,7 @@ Magtanong ka sa pamayanan na kami dati ay naroon at sa karaban na pumunta kami k
 
 # 1679
 
-Nagsabi siya: "Bagkus humalina sa inyo ang mga sarili ninyo sa isang bagay, kaya isang pagtitiis na marilag [ang pagtitiis ko]. Sana si Allāh ay magdala sa akin sa kanila sa kalahatan; tunay na Siya ay ang Maalam, ang Marunong."
+Nagsabi siya: "Bagkus humalina sa inyo ang mga sarili ninyo sa isang bagay, kaya isang pagtitiis na marilag \[ang pagtitiis ko\]. Sana si Allāh ay magdala sa akin sa kanila sa kalahatan; tunay na Siya ay ang Maalam, ang Marunong."
 
 # 1680
 
@@ -6840,11 +6840,11 @@ Sabihin mo: "Ito ay landas ko. Nag-aanyaya ako tungo kay Allāh batay sa isang p
 
 # 1705
 
-Hindi Kami nagsugo bago mo pa kundi ng mga lalaking nagkakasi Kami sa kanila kabilang sa mga mamayan ng mga pamayanan [nila]. Kaya hindi ba sila humayo sa lupain para tumingin sila kung papaano naging ang kinahinatnan ng mga nauna pa sa kanila? Talagang ang tahanan ng Kabilang-buhay ay higit na mabuti para sa mga nangilag magkasala. Kaya hindi ba kayo nakapag-uunawa?
+Hindi Kami nagsugo bago mo pa kundi ng mga lalaking nagkakasi Kami sa kanila kabilang sa mga mamayan ng mga pamayanan \[nila\]. Kaya hindi ba sila humayo sa lupain para tumingin sila kung papaano naging ang kinahinatnan ng mga nauna pa sa kanila? Talagang ang tahanan ng Kabilang-buhay ay higit na mabuti para sa mga nangilag magkasala. Kaya hindi ba kayo nakapag-uunawa?
 
 # 1706
 
-[Nagpalugit] hanggang sa nang nawalan ng pag-asa ang mga sugo at nakatiyak sila na sila ay pinagsinungalingan nga, dumating naman sa kanila ang pag-aadya Namin at nailigtas ang sinumang niloloob Namin. Hindi napipigil ang parusa Namin sa mga taong salarin.
+\[Nagpalugit\] hanggang sa nang nawalan ng pag-asa ang mga sugo at nakatiyak sila na sila ay pinagsinungalingan nga, dumating naman sa kanila ang pag-aadya Namin at nailigtas ang sinumang niloloob Namin. Hindi napipigil ang parusa Namin sa mga taong salarin.
 
 # 1707
 
@@ -6868,7 +6868,7 @@ Sa lupa ay may mga lote na nagkakatabihan, mga hardin ng mga ubas, pananim, at m
 
 # 1712
 
-Kung magtataka ka ay kataka-taka ang sabi nila: "Kapag kami ba ay naging alabok, tunay na kami ba ay talagang nasa isang pagkakalikhang bago?" Ang mga iyon ay ang mga tumangging sumampalataya sa Panginoon nila. Ang mga iyon ay ang [lalagyan ng] mga kulyar sa mga leeg nila. Ang mga iyon ay ang mga maninirahan sa Apoy. Sila ay doon mga mananatili.
+Kung magtataka ka ay kataka-taka ang sabi nila: "Kapag kami ba ay naging alabok, tunay na kami ba ay talagang nasa isang pagkakalikhang bago?" Ang mga iyon ay ang mga tumangging sumampalataya sa Panginoon nila. Ang mga iyon ay ang \[lalagyan ng\] mga kulyar sa mga leeg nila. Ang mga iyon ay ang mga maninirahan sa Apoy. Sila ay doon mga mananatili.
 
 # 1713
 
@@ -6876,11 +6876,11 @@ Nagmamadali sila sa iyo ng masagwa bago ng maganda samantalang lumipas na bago p
 
 # 1714
 
-Nagsasabi ang mga tumangging sumampalataya: "Bakit kasi walang pinababa sa kanya na isang tanda mula sa Panginoon niya?" Ikaw ay isang tagapagbabala lamang. Para sa bawat [pangkat ng] mga tao ay may tagapagpatnubay.
+Nagsasabi ang mga tumangging sumampalataya: "Bakit kasi walang pinababa sa kanya na isang tanda mula sa Panginoon niya?" Ikaw ay isang tagapagbabala lamang. Para sa bawat \[pangkat ng\] mga tao ay may tagapagpatnubay.
 
 # 1715
 
-Si Allāh ay nakaaalam sa anumang dinadala ng bawat babae [sa sinapupunan], anumang kinakapos ang mga sinapupunan, at anumang lumalabis ang mga ito. Bawat bagay sa ganang Kanya ay ayon sa sukat,
+Si Allāh ay nakaaalam sa anumang dinadala ng bawat babae \[sa sinapupunan\], anumang kinakapos ang mga sinapupunan, at anumang lumalabis ang mga ito. Bawat bagay sa ganang Kanya ay ayon sa sukat,
 
 # 1716
 
@@ -6888,11 +6888,11 @@ ang Nakaaalam sa Lingid at Hayag, ang Malaki, ang Pagkataas-taas.
 
 # 1717
 
-Pantay [sa Kanya] hinggil sa inyo ang sinumang naglihim ng sinabi at ang sinumang naghayag nito, at ang sinumang siyang tagapagpakubli sa gabi at tagapaglantad sa maghapon.
+Pantay \[sa Kanya\] hinggil sa inyo ang sinumang naglihim ng sinabi at ang sinumang naghayag nito, at ang sinumang siyang tagapagpakubli sa gabi at tagapaglantad sa maghapon.
 
 # 1718
 
-Para sa kanya ay may mga [anghel na] nagkakasunud-sunod sa harapan niya at sa likuran niya, na nangangalaga sa kanya ayon sa utos ni Allāh. Tunay na si Allāh ay hindi nagpapaiba sa anumang nasa mga tao hanggang sa magpaiba sila sa nasa mga sarili nila. Kapag nagnais si Allāh sa mga tao ng isang kasagwaan ay walang pagpipigil doon. Walang ukol sa kanila bukod pa sa Kanya na anumang tagatangkilik.
+Para sa kanya ay may mga \[anghel na\] nagkakasunud-sunod sa harapan niya at sa likuran niya, na nangangalaga sa kanya ayon sa utos ni Allāh. Tunay na si Allāh ay hindi nagpapaiba sa anumang nasa mga tao hanggang sa magpaiba sila sa nasa mga sarili nila. Kapag nagnais si Allāh sa mga tao ng isang kasagwaan ay walang pagpipigil doon. Walang ukol sa kanila bukod pa sa Kanya na anumang tagatangkilik.
 
 # 1719
 
@@ -6936,15 +6936,15 @@ at mga nag-uugnay sa ipinag-utos ni Allāh na iugnay, natatakot sa Panginoon nil
 
 # 1729
 
-Ang mga nagtiis sa paghahangad [ng ikasisiya] ng mukha ng Panginoon nila, nagpanatili ng pagdarasal, gumugol mula sa itinustos Namin sa kanila nang lihim at hayagan, at pumipigil sa pamamagitan ng magandang gawa sa masagwang gawa, ang mga iyon ay ukol sa kanila ang [magandang] pinakakahihinatnan sa tahanan:
+Ang mga nagtiis sa paghahangad \[ng ikasisiya\] ng mukha ng Panginoon nila, nagpanatili ng pagdarasal, gumugol mula sa itinustos Namin sa kanila nang lihim at hayagan, at pumipigil sa pamamagitan ng magandang gawa sa masagwang gawa, ang mga iyon ay ukol sa kanila ang \[magandang\] pinakakahihinatnan sa tahanan:
 
 # 1730
 
-ang mga Hardin ng Eden na papapasukin nila at ng sinumang umayos kabilang sa mga ninuno nila, mga asawa nila, at mga supling nila. Ang mga anghel ay papasok sa kanila sa bawat pinto, [na bumabati]:
+ang mga Hardin ng Eden na papapasukin nila at ng sinumang umayos kabilang sa mga ninuno nila, mga asawa nila, at mga supling nila. Ang mga anghel ay papasok sa kanila sa bawat pinto, \[na bumabati\]:
 
 # 1731
 
-"Kapayapaan ay sumainyo dahil nagtiis kayo sapagkat kay inam ang [magandang] pinakakahihinatnan sa tahanan!"
+"Kapayapaan ay sumainyo dahil nagtiis kayo sapagkat kay inam ang \[magandang\] pinakakahihinatnan sa tahanan!"
 
 # 1732
 
@@ -6952,7 +6952,7 @@ Ang mga kumakalas sa kasunduan kay Allāh nang matapos ng pagtitibay nito, pumup
 
 # 1733
 
-Si Allāh ay nagpapaluwag ng panustos para sa sinumang niloloob Niya at naghihigpit. Natuwa sila sa buhay Mundo gayong walang iba ang buhay na pangmundo [sa paghahambing] sa Kabilang-buhay kundi isang [kaunting] natatamasa.
+Si Allāh ay nagpapaluwag ng panustos para sa sinumang niloloob Niya at naghihigpit. Natuwa sila sa buhay Mundo gayong walang iba ang buhay na pangmundo \[sa paghahambing\] sa Kabilang-buhay kundi isang \[kaunting\] natatamasa.
 
 # 1734
 
@@ -6972,7 +6972,7 @@ Gayon Kami nagsugo sa iyo sa isang kalipunang may nagdaan na bago pa nito na mga
 
 # 1738
 
-Kung sakaling may isang qur’ān na iniusad sa pamamagitan nito ang mga bundok o pinagputul-putol sa pamamagitan nito ang lupa o pinagsalita sa pamamagitan nito ang mga patay, [ito na iyon]. Bagkus sa kay Allāh ang pag-uutos sa kalahatan. Hindi ba nakatanto ang mga sumampalataya na kung sakaling niloloob ni Allāh ay talaga sanang nagpatnubay Siya sa mga tao sa kalahatan? Hindi natitigil ang mga tumangging sumampalataya na may tumatama sa kanila dahil sa pinaggagawa nila na isang dagok o dadapo ito nang malapit mula sa tahanan nila hanggang sa dumating ang pangako ni Allāh. Tunay na si Allāh ay hindi sumisira sa pangako.
+Kung sakaling may isang qur’ān na iniusad sa pamamagitan nito ang mga bundok o pinagputul-putol sa pamamagitan nito ang lupa o pinagsalita sa pamamagitan nito ang mga patay, \[ito na iyon\]. Bagkus sa kay Allāh ang pag-uutos sa kalahatan. Hindi ba nakatanto ang mga sumampalataya na kung sakaling niloloob ni Allāh ay talaga sanang nagpatnubay Siya sa mga tao sa kalahatan? Hindi natitigil ang mga tumangging sumampalataya na may tumatama sa kanila dahil sa pinaggagawa nila na isang dagok o dadapo ito nang malapit mula sa tahanan nila hanggang sa dumating ang pangako ni Allāh. Tunay na si Allāh ay hindi sumisira sa pangako.
 
 # 1739
 
@@ -6980,7 +6980,7 @@ Talaga ngang nangutya sa mga sugo bago mo pa ngunit nagpalugit Ako sa mga tumang
 
 # 1740
 
-Kaya ba ang sinumang siya ay isang tagapagpanatili sa bawat kaluluwa, [na nakaaalam] sa anumang nakamit nito [ay gaya ng iba]? Gumawa sila para kay Allāh ng mga katambal. Sabihin mo: "Pangalanan ninyo sila. O nagbabalita ba kayo sa Kanya hinggil sa hindi Niya nalalaman sa lupa o hinggil sa isang hayag mula sa sinabi?" Bagkus ipinaakit para sa mga tumangging sumampalataya ang panlalansi nila at sinagabalan sila palayo sa landas. Ang sinumang ililigaw ni Allāh ay walang ukol sa kanya na anumang tagapagpatnubay.
+Kaya ba ang sinumang siya ay isang tagapagpanatili sa bawat kaluluwa, \[na nakaaalam\] sa anumang nakamit nito \[ay gaya ng iba\]? Gumawa sila para kay Allāh ng mga katambal. Sabihin mo: "Pangalanan ninyo sila. O nagbabalita ba kayo sa Kanya hinggil sa hindi Niya nalalaman sa lupa o hinggil sa isang hayag mula sa sinabi?" Bagkus ipinaakit para sa mga tumangging sumampalataya ang panlalansi nila at sinagabalan sila palayo sa landas. Ang sinumang ililigaw ni Allāh ay walang ukol sa kanya na anumang tagapagpatnubay.
 
 # 1741
 
@@ -7016,7 +7016,7 @@ Hindi ba sila nakakita na tunay na Kami ay pumupunta sa lupa, na nagbabawas rito
 
 # 1749
 
-Nanlansi nga ang mga nauna pa sa kanila, ngunit sa kay Allāh ang panlalansi sa kalahatan. Nakaaalam Siya sa nakakamit ng bawat kaluluwa. Malalaman ng mga tagatangging sumampalataya kung ukol kanino ang [magandang] pinakakahihinatnan sa tahanan.
+Nanlansi nga ang mga nauna pa sa kanila, ngunit sa kay Allāh ang panlalansi sa kalahatan. Nakaaalam Siya sa nakakamit ng bawat kaluluwa. Malalaman ng mga tagatangging sumampalataya kung ukol kanino ang \[magandang\] pinakakahihinatnan sa tahanan.
 
 # 1750
 
@@ -7024,7 +7024,7 @@ Nagsasabi ang mga tumangging sumampalataya na ikaw ay hindi isang isinugo. Sabih
 
 # 1751
 
-Alif. Lām. Rā’. [Ito ay] isang Aklat na pinababa Namin sa iyo upang magpalabas ka sa mga tao mula sa mga kadiliman tungo sa liwanag ayon sa pahintulot ng Panginoon nila tungo sa landasin ng Makapangyarihan, Kapuri-puri:
+Alif. Lām. Rā’. \[Ito ay\] isang Aklat na pinababa Namin sa iyo upang magpalabas ka sa mga tao mula sa mga kadiliman tungo sa liwanag ayon sa pahintulot ng Panginoon nila tungo sa landasin ng Makapangyarihan, Kapuri-puri:
 
 # 1752
 
@@ -7040,15 +7040,15 @@ Hindi nagsugo ng anumang sugo kundi ayon sa wika ng mga tao niya upang maglinaw 
 
 # 1755
 
-Talaga ngang nagsugo Kami kay Moises kalakip ng mga tanda Namin, [na nagsasabi:] "Magpalabas ka sa mga tao mo mula sa mga kadiliman tungo sa liwanag at magpaalaala ka sa kanila hinggil sa mga araw ni Allāh. Tunay na sa gayon ay talagang may mga tanda para sa bawat palatiis na mapagpasalamat.
+Talaga ngang nagsugo Kami kay Moises kalakip ng mga tanda Namin, \[na nagsasabi:\] "Magpalabas ka sa mga tao mo mula sa mga kadiliman tungo sa liwanag at magpaalaala ka sa kanila hinggil sa mga araw ni Allāh. Tunay na sa gayon ay talagang may mga tanda para sa bawat palatiis na mapagpasalamat.
 
 # 1756
 
-[Banggitin] noong nagsabi si Moises sa mga tao niya: "Alalahanin ninyo ang biyaya ni Allāh sa inyo noong pinaligtas Niya kayo mula sa angkan ni Paraon. Nagpapataw sila sa inyo ng kasagwaan ng pagdurusa: pinagkakatay nila ang mga lalaking anak ninyo at pinamumuhay nila ang mga babae ninyo. Sa gayon ay may isang pagsubok, mula sa Panginoon ninyo, na sukdulan.
+\[Banggitin\] noong nagsabi si Moises sa mga tao niya: "Alalahanin ninyo ang biyaya ni Allāh sa inyo noong pinaligtas Niya kayo mula sa angkan ni Paraon. Nagpapataw sila sa inyo ng kasagwaan ng pagdurusa: pinagkakatay nila ang mga lalaking anak ninyo at pinamumuhay nila ang mga babae ninyo. Sa gayon ay may isang pagsubok, mula sa Panginoon ninyo, na sukdulan.
 
 # 1757
 
-[Banggitin] noong nagpahayag ang Panginoon ninyo: "Talagang kung nagpasalamat kayo ay talagang magdaragdag nga Ako sa inyo; at talagang kung nagkakaila kayo, tunay na ang pagdurusang dulo Ko ay talagang matindi."
+\[Banggitin\] noong nagpahayag ang Panginoon ninyo: "Talagang kung nagpasalamat kayo ay talagang magdaragdag nga Ako sa inyo; at talagang kung nagkakaila kayo, tunay na ang pagdurusang dulo Ko ay talagang matindi."
 
 # 1758
 
@@ -7056,7 +7056,7 @@ Nagsabi si Moises: "Kung tatanggi kayong sumampalataya, kayo at ang sinumang nas
 
 # 1759
 
-Hindi ba pumunta sa inyo ang balita ng mga nauna pa sa inyo, na mga tao ni Noe, ng `Ād at Thamūd, at mga nahuli na sa kanila? Walang nakaaalam sa kanila kundi si Allāh. Naghatid sa kanila ang mga sugo nila ng mga malinaw patunay, ngunit nagtulak sila ng mga kamay nila sa mga bibig nila at nagsabi sila: "Tunay na kami ay tumangging sumampalataya sa ipinasugo sa inyo at tunay na kami ay talagang nasa isang pagdududang nag-aalinlangan sa inaanyaya ninyo."
+Hindi ba pumunta sa inyo ang balita ng mga nauna pa sa inyo, na mga tao ni Noe, ng \`Ād at Thamūd, at mga nahuli na sa kanila? Walang nakaaalam sa kanila kundi si Allāh. Naghatid sa kanila ang mga sugo nila ng mga malinaw patunay, ngunit nagtulak sila ng mga kamay nila sa mga bibig nila at nagsabi sila: "Tunay na kami ay tumangging sumampalataya sa ipinasugo sa inyo at tunay na kami ay talagang nasa isang pagdududang nag-aalinlangan sa inaanyaya ninyo."
 
 # 1760
 
@@ -7092,7 +7092,7 @@ Lalagok-lagukin niya ito at hindi niya halos malulunok ito. Pupunta sa kanya ang
 
 # 1768
 
-Ang paghahalintulad sa mga tumangging sumampalataya sa Panginoon nila [ay na] ang mga gawa nila ay gaya ng mga abo na tumindi sa mga ito ang hangin sa isang araw na umuunos; hindi sila nakakakaya [na magpanatili] sa anuman mula sa nakamit nila. Iyon ay ang pagkaligaw na malayo.
+Ang paghahalintulad sa mga tumangging sumampalataya sa Panginoon nila \[ay na\] ang mga gawa nila ay gaya ng mga abo na tumindi sa mga ito ang hangin sa isang araw na umuunos; hindi sila nakakakaya \[na magpanatili\] sa anuman mula sa nakamit nila. Iyon ay ang pagkaligaw na malayo.
 
 # 1769
 
@@ -7108,7 +7108,7 @@ Tatambad sila kay Allāh sa kalahatan at magsasabi ang mga mahina sa mga nagmala
 
 # 1772
 
-Magsasabi ang demonyo kapag tinapos ang pasya: "Tunay na si Allāh ay nangako sa inyo ng pangako ng katotohanan, at nangako ako sa inyo ngunit sumira ako sa inyo. Hindi ako nagkaroon sa inyo ng anumang kapamahalaan maliban na nag-anyaya ako sa inyo saka tumugon naman kayo sa akin. Kaya huwag kayong manisi sa akin. Sisihin ninyo ang mga sarili ninyo. Hindi ako makasasalba sa inyo at hindi kayo makasasalba sa akin. Tunay na ako ay nagkaila sa pagtambal ninyo sa akin [kay Allāh] bago pa niyan." Tunay na ang mga tagalabag sa katarungan, ukol sa kanila ay isang pagdurusang masakit.
+Magsasabi ang demonyo kapag tinapos ang pasya: "Tunay na si Allāh ay nangako sa inyo ng pangako ng katotohanan, at nangako ako sa inyo ngunit sumira ako sa inyo. Hindi ako nagkaroon sa inyo ng anumang kapamahalaan maliban na nag-anyaya ako sa inyo saka tumugon naman kayo sa akin. Kaya huwag kayong manisi sa akin. Sisihin ninyo ang mga sarili ninyo. Hindi ako makasasalba sa inyo at hindi kayo makasasalba sa akin. Tunay na ako ay nagkaila sa pagtambal ninyo sa akin \[kay Allāh\] bago pa niyan." Tunay na ang mga tagalabag sa katarungan, ukol sa kanila ay isang pagdurusang masakit.
 
 # 1773
 
@@ -7160,7 +7160,7 @@ Nagbigay Siya sa inyo ng bawat hiningi ninyo. Kung magbibilang kayo ng biyaya ni
 
 # 1785
 
-[Banggitin] noong nagsabi si Abraham: "Panginoon ko, gawin Mo ang bayang ito na matiwasay at paiwasin Mo ako at ang mga anak ko na sumamba kami sa mga anito.
+\[Banggitin\] noong nagsabi si Abraham: "Panginoon ko, gawin Mo ang bayang ito na matiwasay at paiwasin Mo ako at ang mga anak ko na sumamba kami sa mga anito.
 
 # 1786
 
@@ -7180,7 +7180,7 @@ Ang papuri ay ukol kay Allāh na nagkaloob para sa akin sa katandaan kina Ismael
 
 # 1790
 
-Panginoon ko, gawin Mo ako na tagapagpanatili ng pagdarasal at ang [marami] kabilang sa mga supling ko, Panginoon Namin, at tanggapin Mo ang panalangin ko.
+Panginoon ko, gawin Mo ako na tagapagpanatili ng pagdarasal at ang \[marami\] kabilang sa mga supling ko, Panginoon Namin, at tanggapin Mo ang panalangin ko.
 
 # 1791
 
@@ -7196,7 +7196,7 @@ Mga kumakaripas na mga nagtitingala ng mga ulo nila, hindi manunumbalik sa kanil
 
 # 1794
 
-Magbabala ka sa mga tao ng isang araw na pupunta sa kanila ang pagdurusa kaya magsasabi ang mga lumabag sa katarungan: "Panginoon namin, mag-antala Ka sa amin hanggang sa isang taning na malapit, sasagot kami sa paanyaya Mo at susunod kami sa mga sugo Mo." [Sasabihin:] "Hindi ba nangyaring kayo ay sumumpa bago pa niyan na wala kayong anumang pagtigil?
+Magbabala ka sa mga tao ng isang araw na pupunta sa kanila ang pagdurusa kaya magsasabi ang mga lumabag sa katarungan: "Panginoon namin, mag-antala Ka sa amin hanggang sa isang taning na malapit, sasagot kami sa paanyaya Mo at susunod kami sa mga sugo Mo." \[Sasabihin:\] "Hindi ba nangyaring kayo ay sumumpa bago pa niyan na wala kayong anumang pagtigil?
 
 # 1795
 
@@ -7204,7 +7204,7 @@ Tumira kayo sa mga tirahan ng mga lumabag sa katarungan sa mga sarili nila. Lumi
 
 # 1796
 
-Nanlansi nga sila ng panlalansi nila samantalang [nakatala] sa ganang kay Allāh ang panlalansi nila kahit pa nangyaring ang panlalansi nila ay upang maalis dahil dito ang mga bundok.
+Nanlansi nga sila ng panlalansi nila samantalang \[nakatala\] sa ganang kay Allāh ang panlalansi nila kahit pa nangyaring ang panlalansi nila ay upang maalis dahil dito ang mga bundok.
 
 # 1797
 
@@ -7240,7 +7240,7 @@ Marahil nag-aasam ang mga tumangging sumampalataya na kung sana sila ay naging m
 
 # 1805
 
-Hayaan mo sila, kakain sila, magtamasa sila, at libangin sila ng [tagal ng] pag-asa saka makaaalam sila.
+Hayaan mo sila, kakain sila, magtamasa sila, at libangin sila ng \[tagal ng\] pag-asa saka makaaalam sila.
 
 # 1806
 
@@ -7292,7 +7292,7 @@ talaga sanang nagsabi sila: "Nilango lamang ang mga paningin namin, bagkus kami 
 
 # 1818
 
-Talaga ngang naglagay Kami sa langit ng mga kumpulan [ng mga bituin] at naggayak sa mga ito para sa mga tagapagmasid.
+Talaga ngang naglagay Kami sa langit ng mga kumpulan \[ng mga bituin\] at naggayak sa mga ito para sa mga tagapagmasid.
 
 # 1819
 
@@ -7340,7 +7340,7 @@ Ang jinn ay nilikha Namin ito bago pa niyan mula sa apoy ng nakapapasong hangin.
 
 # 1830
 
-[Banggitin] noong nagsabi ang Panginoon mo sa mga anghel: "Tunay na Ako ay lilikha ng isang mortal mula sa kumakalansing na luwad mula sa burak na inanyuan."
+\[Banggitin\] noong nagsabi ang Panginoon mo sa mga anghel: "Tunay na Ako ay lilikha ng isang mortal mula sa kumakalansing na luwad mula sa burak na inanyuan."
 
 # 1831
 
@@ -7412,7 +7412,7 @@ Tunay na ang mga tagapangilag magkasala ay nasa mga hardin at mga bukal.
 
 # 1848
 
-[Sasabihin:] "Pumasok kayo sa mga ito nang may kapayapaan habang mga natitiwasay."
+\[Sasabihin:\] "Pumasok kayo sa mga ito nang may kapayapaan habang mga natitiwasay."
 
 # 1849
 
@@ -7468,7 +7468,7 @@ maliban sa mag-anak ni Lot; tunay na kami ay mga magliligtas sa kanila nang magk
 
 # 1862
 
-maliban sa maybahay niya [sapagkat nagsabi si Allāh:] Nagtakda Kami na tunay na ito ay talagang kabilang sa mga magpapaiwan."
+maliban sa maybahay niya \[sapagkat nagsabi si Allāh:\] Nagtakda Kami na tunay na ito ay talagang kabilang sa mga magpapaiwan."
 
 # 1863
 
@@ -7512,7 +7512,7 @@ Nagsabi sila: "Hindi ba sumaway kami sa iyo laban sa mga nilalang?"
 
 # 1873
 
-Nagsabi siya: "Ang mga ito ay mga babaing anak ko, kung nangyaring kayo ay mga magsasagawa [ng kasal]."
+Nagsabi siya: "Ang mga ito ay mga babaing anak ko, kung nangyaring kayo ay mga magsasagawa \[ng kasal\]."
 
 # 1874
 
@@ -7520,7 +7520,7 @@ Sumpa man sa buhay mo, tunay na sila ay talagang nasa kalanguan nila habang nag-
 
 # 1875
 
-Kaya dumaklot sa kanila ang sigaw nang sumisikat [sa kanila ang araw].
+Kaya dumaklot sa kanila ang sigaw nang sumisikat \[sa kanila ang araw\].
 
 # 1876
 
@@ -7544,7 +7544,7 @@ Tunay na noon ang mga naninirahan sa kasukalan ay talagang mga tagalabag sa kata
 
 # 1881
 
-Kaya naghiganti Kami sa kanila. Tunay na ang dalawang [lungsod na] ito ay talagang nasa isang daanang malinaw.
+Kaya naghiganti Kami sa kanila. Tunay na ang dalawang \[lungsod na\] ito ay talagang nasa isang daanang malinaw.
 
 # 1882
 
@@ -7624,7 +7624,7 @@ Kaya magluwalhati ka kasabay ng papuri sa Panginoon mo at maging kabilang ka sa 
 
 # 1901
 
-Sambahin mo ang Panginoon mo hanggang sa pumunta sa iyo ang tiyak [na kamatayan].
+Sambahin mo ang Panginoon mo hanggang sa pumunta sa iyo ang tiyak \[na kamatayan\].
 
 # 1902
 
@@ -7632,7 +7632,7 @@ Darating ang pasya ni Allāh kaya huwag kayong magmadali nito. Kaluwalhatian sa 
 
 # 1903
 
-Nagbababa Siya ng mga anghel, kalakip ng espiritu mula sa utos Niya, sa sinumang niloloob Niya kabilang sa mga lingkod Niya, [na nagsasabi:] "Magbabala kayo na walang Diyos kundi Ako, kaya mangilag kayang magkasala sa Akin."
+Nagbababa Siya ng mga anghel, kalakip ng espiritu mula sa utos Niya, sa sinumang niloloob Niya kabilang sa mga lingkod Niya, \[na nagsasabi:\] "Magbabala kayo na walang Diyos kundi Ako, kaya mangilag kayang magkasala sa Akin."
 
 # 1904
 
@@ -7660,7 +7660,7 @@ Ang mga kabayo, ang mga mola, at ang mga asno ay upang sakyan ninyo ang mga ito 
 
 # 1910
 
-Nasa kay Allāh ang pagpapalinaw ng landas, at kabilang sa mga [daang] ito ay nakatabingi. Kung sakaling niloob Niya, talaga sanang nagpatnubay Siya sa inyo nang magkakasama.
+Nasa kay Allāh ang pagpapalinaw ng landas, at kabilang sa mga \[daang\] ito ay nakatabingi. Kung sakaling niloob Niya, talaga sanang nagpatnubay Siya sa inyo nang magkakasama.
 
 # 1911
 
@@ -7676,7 +7676,7 @@ Pinagsilbi Niya para sa inyo ang gabi at ang maghapon, at ang araw at ang buwan.
 
 # 1914
 
-[Pinagsilbi Niya] ang nilalang Niya para sa inyo sa lupa na nagkakaiba-iba ang mga kulay nito. Tunay na sa gayon ay talagang may tanda para sa mga taong nagsasaalaala.
+\[Pinagsilbi Niya\] ang nilalang Niya para sa inyo sa lupa na nagkakaiba-iba ang mga kulay nito. Tunay na sa gayon ay talagang may tanda para sa mga taong nagsasaalaala.
 
 # 1915
 
@@ -7736,7 +7736,7 @@ Pagkatapos sa Araw ng Pagbangon ay magpapahiya Siya sa kanila at magsasabi Siya:
 
 # 1929
 
-na mga nagpapapanaw sa kanila ang mga anghel habang mga tagalabag sa katarungan sa mga sarili nila." Kaya mag-uukol sila ng pagsuko, [na nagsasabi]: "Hindi kami dati gumagawa ng anumang kasagwaan." Bagkus tunay na si Allāh ay Maalam sa anumang dati ninyong ginagawa.
+na mga nagpapapanaw sa kanila ang mga anghel habang mga tagalabag sa katarungan sa mga sarili nila." Kaya mag-uukol sila ng pagsuko, \[na nagsasabi\]: "Hindi kami dati gumagawa ng anumang kasagwaan." Bagkus tunay na si Allāh ay Maalam sa anumang dati ninyong ginagawa.
 
 # 1930
 
@@ -7764,11 +7764,11 @@ Kaya tumama sa kanila ang mga masagwa ng ginawa nila at pumaligid sa kanila ang 
 
 # 1936
 
-Nagsabi ang mga nagtambal: "Kung sakaling niloob ni Allāh ay hindi kami sumamba sa bukod pa sa Kanya na anuman, [hindi] kami ni ang mga ninuno namin, at hindi kami nagbawal bukod pa sa ayon sa Kanya na anuman." Gayon gumawa ang mga nauna pa sa kanila. Kaya may kailangan pa kaya sa mga sugo kundi ang pagpapaabot na malinaw?
+Nagsabi ang mga nagtambal: "Kung sakaling niloob ni Allāh ay hindi kami sumamba sa bukod pa sa Kanya na anuman, \[hindi\] kami ni ang mga ninuno namin, at hindi kami nagbawal bukod pa sa ayon sa Kanya na anuman." Gayon gumawa ang mga nauna pa sa kanila. Kaya may kailangan pa kaya sa mga sugo kundi ang pagpapaabot na malinaw?
 
 # 1937
 
-Talaga ngang nagpadala Kami sa bawat kalipunan ng isang sugo, na [nagsasabi]: "Sumamba kayo kay Allāh at umiwas kayo sa mapagmalabis." Kaya kabilang sa kanila ay pinatnubayan ni Allāh at kabilang sa kanila ay nagindapat sa kanya ang kaligawan. Kaya humayo kayo sa lupain saka tumingin kayo kung papaano naging ang kinahinatnan ng mga tagapagpasinungaling.
+Talaga ngang nagpadala Kami sa bawat kalipunan ng isang sugo, na \[nagsasabi\]: "Sumamba kayo kay Allāh at umiwas kayo sa mapagmalabis." Kaya kabilang sa kanila ay pinatnubayan ni Allāh at kabilang sa kanila ay nagindapat sa kanya ang kaligawan. Kaya humayo kayo sa lupain saka tumingin kayo kung papaano naging ang kinahinatnan ng mga tagapagpasinungaling.
 
 # 1938
 
@@ -7776,7 +7776,7 @@ Kung nagsisigasig ka sa pagpatnubay sa kanila, tunay na si Allāh ay hindi nagpa
 
 # 1939
 
-Nanumpa sila kay Allāh ng pinakamariin sa panunumpa nila na hindi bubuhay si Allāh sa sinumang mamamatay. Bagkus, [bubuhay Siya] bilang pangako mula sa Kanya na totoo, subalit ang higit na marami sa mga tao ay hindi nakaaalam,
+Nanumpa sila kay Allāh ng pinakamariin sa panunumpa nila na hindi bubuhay si Allāh sa sinumang mamamatay. Bagkus, \[bubuhay Siya\] bilang pangako mula sa Kanya na totoo, subalit ang higit na marami sa mga tao ay hindi nakaaalam,
 
 # 1940
 
@@ -7792,7 +7792,7 @@ Ang mga lumikas alang-alang kay Allāh noong matapos na nilabag sila sa katarung
 
 # 1943
 
-[Sila] ang mga nagtiis at sa Panginoon nila ay nananalig.
+\[Sila\] ang mga nagtiis at sa Panginoon nila ay nananalig.
 
 # 1944
 
@@ -7800,7 +7800,7 @@ Hindi Kami nagsugo bago mo pa kundi ng mga lalaking nagkakasi Kami sa kanila. Ka
 
 # 1945
 
-[Naghatid sa kanila] ng mga malinaw na patunay at mga kautusan. Nagpababa Kami sa iyo ng paalaala upang maglinaw ka sa mga tao ng pinababa sa kanila at nang sa gayon sila ay mag-iisip-isip.
+\[Naghatid sa kanila\] ng mga malinaw na patunay at mga kautusan. Nagpababa Kami sa iyo ng paalaala upang maglinaw ka sa mga tao ng pinababa sa kanila at nang sa gayon sila ay mag-iisip-isip.
 
 # 1946
 
@@ -7856,7 +7856,7 @@ Nagtatalaga sila para kay Allāh ng mga babaing anak – kaluwalhatian sa Kanya 
 
 # 1959
 
-Kapag binalitaan ang isa sa kanila hinggil sa [pagkasilang ng anak na] babae, ang mukha niya ay naging nangingitim habang siya ay hapis.
+Kapag binalitaan ang isa sa kanila hinggil sa \[pagkasilang ng anak na\] babae, ang mukha niya ay naging nangingitim habang siya ay hapis.
 
 # 1960
 
@@ -7896,7 +7896,7 @@ Mula sa mga bunga ng mga punong-datiles at mga ubas ay gumagawa kayo mula sa mga
 
 # 1969
 
-Nagkasi ang Panginoon mo sa babaing bubuyog, na [nagsasabi]: "Gumawa ka mula sa mga bundok ng mga bahay, mula sa mga punong-kahoy, at mula sa ipinatitindig nila.
+Nagkasi ang Panginoon mo sa babaing bubuyog, na \[nagsasabi\]: "Gumawa ka mula sa mga bundok ng mga bahay, mula sa mga punong-kahoy, at mula sa ipinatitindig nila.
 
 # 1970
 
@@ -7932,7 +7932,7 @@ Naglahad si Allāh ng isang paghahalintulad sa dalawang lalaki na ang isa sa kan
 
 # 1978
 
-Ukol kay Allāh ang [kaalaman sa] Lingid sa mga langit at lupa. Walang iba ang lagay ng Huling Sandali kundi gaya ng kisap ng paningin o higit na malapit. Tunay na si Allāh sa bawat bagay ay May-kakayahan.
+Ukol kay Allāh ang \[kaalaman sa\] Lingid sa mga langit at lupa. Walang iba ang lagay ng Huling Sandali kundi gaya ng kisap ng paningin o higit na malapit. Tunay na si Allāh sa bawat bagay ay May-kakayahan.
 
 # 1979
 
@@ -7944,7 +7944,7 @@ Hindi ba sila nakakita sa mga ibon habang mga pinagsisilbi sa himpapawid ng lang
 
 # 1981
 
-Si Allāh ay gumawa para sa inyo mula sa mga bahay ninyo ng isang pagtahan at gumawa para sa inyo mula sa mga balat ng mga hayupan ng mga bahay na magagaanan kayo sa mga ito sa araw ng paglalakbay ninyo at sa araw ng paninirahan ninyo, at [gumawa] mula sa mga lana ng mga ito, mga balahibo ng mga ito, at mga buhok ng mga ito ng kasangkapan at natatamasa hanggang sa isang panahon.
+Si Allāh ay gumawa para sa inyo mula sa mga bahay ninyo ng isang pagtahan at gumawa para sa inyo mula sa mga balat ng mga hayupan ng mga bahay na magagaanan kayo sa mga ito sa araw ng paglalakbay ninyo at sa araw ng paninirahan ninyo, at \[gumawa\] mula sa mga lana ng mga ito, mga balahibo ng mga ito, at mga buhok ng mga ito ng kasangkapan at natatamasa hanggang sa isang panahon.
 
 # 1982
 
@@ -7960,7 +7960,7 @@ Nakakikilala sila sa biyaya ni Allāh, pagkatapos nagkakaila sila nito, at ang h
 
 # 1985
 
-[Banggitin mo] ang araw na bubuhay Kami mula sa bawat kalipunan ng isang saksi. Pagkatapos hindi magpapahintulot para sa mga tumangging sumampalataya at hindi sila hihilinging magpalugod.
+\[Banggitin mo\] ang araw na bubuhay Kami mula sa bawat kalipunan ng isang saksi. Pagkatapos hindi magpapahintulot para sa mga tumangging sumampalataya at hindi sila hihilinging magpalugod.
 
 # 1986
 
@@ -7968,7 +7968,7 @@ Kapag nakita ng mga lumabag sa katarungan ang pagdurusa, hindi ito pagagaanin sa
 
 # 1987
 
-Kapag nakita ng mga nagtambal ang mga pantambal nila ay magsasabi sila: "Panginoon namin, ang mga ito ay ang mga pantambal namin [sa Iyo] na kami dati ay dumadalangin sa kanila bukod pa sa Iyo;" ngunit magpaparating ang mga ito sa kanila ng sasabihin: "Tunay na kayo ay talagang mga sinungaling."
+Kapag nakita ng mga nagtambal ang mga pantambal nila ay magsasabi sila: "Panginoon namin, ang mga ito ay ang mga pantambal namin \[sa Iyo\] na kami dati ay dumadalangin sa kanila bukod pa sa Iyo;" ngunit magpaparating ang mga ito sa kanila ng sasabihin: "Tunay na kayo ay talagang mga sinungaling."
 
 # 1988
 
@@ -7980,7 +7980,7 @@ Ang mga tumangging sumampalataya at sumagabal sa landas ni Allāh ay magdaragdag
 
 # 1990
 
-[Banggitin mo] ang araw na bubuhay Kami sa bawat kalipunan ng isang saksi sa kanila kabilang sa mga sarili nila at naghatid Kami sa iyo bilang saksi sa mga ito. Nagbaba Kami sa iyo ng Aklat bilang pagpapalinaw para sa bawat bagay, bilang patnubay, bilang awa, at bilang balitang nakagagalak para sa mga Muslim.
+\[Banggitin mo\] ang araw na bubuhay Kami sa bawat kalipunan ng isang saksi sa kanila kabilang sa mga sarili nila at naghatid Kami sa iyo bilang saksi sa mga ito. Nagbaba Kami sa iyo ng Aklat bilang pagpapalinaw para sa bawat bagay, bilang patnubay, bilang awa, at bilang balitang nakagagalak para sa mga Muslim.
 
 # 1991
 
@@ -7992,7 +7992,7 @@ Magpatupad kayo sa kasunduan kay Allāh kapag nakipagkasunduan kayo at huwag kay
 
 # 1993
 
-Huwag kayong maging gaya ng [babaing] kumalas sa pagsisinulid niya, nang matapos ng isang kalakasan [ng pagkasinulid] nito, para maging mga himaymay. Gumagawa kayo sa mga sinumpaan ninyo bilang pandaraya sa pagitan ninyo dahil baka may isang kalipunang ito ay maging higit na malago kaysa sa isang kalipunan. Sumusubok lamang sa inyo si Allāh sa pamamagitan nito at talagang maglilinaw nga Siya para sa inyo sa Araw ng Pagbangon ng anumang dati kayo hinggil doon ay nagkakaiba-iba.
+Huwag kayong maging gaya ng \[babaing\] kumalas sa pagsisinulid niya, nang matapos ng isang kalakasan \[ng pagkasinulid\] nito, para maging mga himaymay. Gumagawa kayo sa mga sinumpaan ninyo bilang pandaraya sa pagitan ninyo dahil baka may isang kalipunang ito ay maging higit na malago kaysa sa isang kalipunan. Sumusubok lamang sa inyo si Allāh sa pamamagitan nito at talagang maglilinaw nga Siya para sa inyo sa Araw ng Pagbangon ng anumang dati kayo hinggil doon ay nagkakaiba-iba.
 
 # 1994
 
@@ -8024,7 +8024,7 @@ Tunay na siya ay walang kapamahalaan sa mga sumampalataya at sa Panginoon nila a
 
 # 2001
 
-Tanging ang kapamahalaan niya ay nasa mga tumatangkilik sa kanya at yaong sila sa pamamagitan niya ay mga tagapagtambal [kay Allāh].
+Tanging ang kapamahalaan niya ay nasa mga tumatangkilik sa kanya at yaong sila sa pamamagitan niya ay mga tagapagtambal \[kay Allāh\].
 
 # 2002
 
@@ -8068,7 +8068,7 @@ Pagkatapos tunay na ang Panginoon mo para sa mga lumikas noong matapos na usigin
 
 # 2012
 
-[Banggitin mo] ang araw na pupunta ang bawat kaluluwa na makikipagtalo para sa sarili nito, lulubus-lubusin ang bawat kaluluwa sa [kabayaran sa] anumang ginawa nito at sila ay hindi lalabagin sa katarungan.
+\[Banggitin mo\] ang araw na pupunta ang bawat kaluluwa na makikipagtalo para sa sarili nito, lulubus-lubusin ang bawat kaluluwa sa \[kabayaran sa\] anumang ginawa nito at sila ay hindi lalabagin sa katarungan.
 
 # 2013
 
@@ -8092,7 +8092,7 @@ Huwag kayong magsabi ukol sa anumang naglalarawan ang mga dila ninyo ng kasinung
 
 # 2018
 
-[Ukol sa kanila ay] isang natatamasang kaunti at ukol sa kanila ay isang pagdurusang masakit.
+\[Ukol sa kanila ay\] isang natatamasang kaunti at ukol sa kanila ay isang pagdurusang masakit.
 
 # 2019
 
@@ -8132,7 +8132,7 @@ Kung magpaparusa kayo ay magparusa kayo ng tulad ng ipinarusa sa inyo. Talagang 
 
 # 2028
 
-Magtiis ka at walang iba ang pagtitiis mo kundi sa pamamagitan ni Allāh. Huwag kang malungkot para sa kanila at huwag kang maging nasa isang paninikip [ng dibdib] dahil nanlalansi sila.
+Magtiis ka at walang iba ang pagtitiis mo kundi sa pamamagitan ni Allāh. Huwag kang malungkot para sa kanila at huwag kang maging nasa isang paninikip \[ng dibdib\] dahil nanlalansi sila.
 
 # 2029
 
@@ -8144,7 +8144,7 @@ Kaluwalhatian sa Kanya na nagdala sa lingkod Niya isang gabi mula sa Masjid na P
 
 # 2031
 
-Nagbigay Kami kay Moises ng Kasulatan at gumawa Kami niyon bilang patnubay para sa mga anak ni Israel, [na nag-uutos:] "Huwag kayong gumawa sa iba pa sa Akin bilang pinananaligan."
+Nagbigay Kami kay Moises ng Kasulatan at gumawa Kami niyon bilang patnubay para sa mga anak ni Israel, \[na nag-uutos:\] "Huwag kayong gumawa sa iba pa sa Akin bilang pinananaligan."
 
 # 2032
 
@@ -8164,7 +8164,7 @@ Pagkatapos magsasauli Kami para sa inyo ng pamamayani laban sa kanila, mag-aayud
 
 # 2036
 
-Kung gumawa kayo ng maganda ay gumawa kayo ng maganda para sa mga sarili ninyo at kung gumawa kayo ng masagwa ay para sa mga ito. Kaya kapag dumating ang pangako ng huling [panggugulo ay pangingibabawin ang mga kaaway ninyo] upang humamak sila sa mga mukha ninyo, upang pumasok sila sa Masjid kung paanong pumasok sila sa unang pagkakataon, at upang dumurog sila sa anumang nangibabaw sila nang [lubos na] pagdurog.
+Kung gumawa kayo ng maganda ay gumawa kayo ng maganda para sa mga sarili ninyo at kung gumawa kayo ng masagwa ay para sa mga ito. Kaya kapag dumating ang pangako ng huling \[panggugulo ay pangingibabawin ang mga kaaway ninyo\] upang humamak sila sa mga mukha ninyo, upang pumasok sila sa Masjid kung paanong pumasok sila sa unang pagkakataon, at upang dumurog sila sa anumang nangibabaw sila nang \[lubos na\] pagdurog.
 
 # 2037
 
@@ -8228,15 +8228,15 @@ Huwag kang gumawa kasama kay Allāh ng isang diyos na iba pa para mauuwi kang is
 
 # 2052
 
-Nagtadhana ang Panginoon mo na huwag kayong sumamba maliban sa Kanya at sa mga magulang ay [mag-ukol ng] paggawa ng maganda. Kung aabutan nga sa piling mo ng katandaan ang isa sa kanilang dalawa o ang kapwa sa kanilang dalawa ay huwag kang magsabi sa kanilang dalawa ng nakasusuya at huwag kang bumulyaw sa kanilang dalawa. Magsabi ka sa kanilang dalawa ng salitang marangal.
+Nagtadhana ang Panginoon mo na huwag kayong sumamba maliban sa Kanya at sa mga magulang ay \[mag-ukol ng\] paggawa ng maganda. Kung aabutan nga sa piling mo ng katandaan ang isa sa kanilang dalawa o ang kapwa sa kanilang dalawa ay huwag kang magsabi sa kanilang dalawa ng nakasusuya at huwag kang bumulyaw sa kanilang dalawa. Magsabi ka sa kanilang dalawa ng salitang marangal.
 
 # 2053
 
-Magbaba ka para sa kanila ng loob sa pagkaaba bahagi ng pagkaawa at magsabi ka: "Panginoon ko, maawa Ka sa kanilang dalawa yayamang nag-alaga silang dalawa sa akin noong bata pa [ako]."
+Magbaba ka para sa kanila ng loob sa pagkaaba bahagi ng pagkaawa at magsabi ka: "Panginoon ko, maawa Ka sa kanilang dalawa yayamang nag-alaga silang dalawa sa akin noong bata pa \[ako\]."
 
 # 2054
 
-Ang Panginoon ninyo ay higit na maalam sa anumang nasa mga sarili ninyo. Kung kayo ay magiging mga maayos, tunay na Siya laging sa mga palabalik [sa pagsisisi] ay Mapagpatawad.
+Ang Panginoon ninyo ay higit na maalam sa anumang nasa mga sarili ninyo. Kung kayo ay magiging mga maayos, tunay na Siya laging sa mga palabalik \[sa pagsisisi\] ay Mapagpatawad.
 
 # 2055
 
@@ -8268,11 +8268,11 @@ Huwag kayong lumapit sa pangangalunya; tunay na ito ay laging mahalay at sumagwa
 
 # 2062
 
-Huwag kayong pumatay ng buhay na ipinagbawal ni Allāh [na patayin] malibang ayon sa karapatan. Ang sinumang pinatay na nilabag sa katarungan ay nagtalaga Kami sa katangkilik niya ng isang kapamahalaan, ngunit huwag siyang magpakalabis kaugnay sa pagpatay. Tunay na siya ay laging maiaadya.
+Huwag kayong pumatay ng buhay na ipinagbawal ni Allāh \[na patayin\] malibang ayon sa karapatan. Ang sinumang pinatay na nilabag sa katarungan ay nagtalaga Kami sa katangkilik niya ng isang kapamahalaan, ngunit huwag siyang magpakalabis kaugnay sa pagpatay. Tunay na siya ay laging maiaadya.
 
 # 2063
 
-Huwag kayong lumapit sa yaman ng ulila kundi sa [paraang] pinakamaganda hanggang sa umabot siya sa kalakasan niya. Magpatupad kayo sa kasunduan; tunay na ang kasunduan ay laging pinananagutan.
+Huwag kayong lumapit sa yaman ng ulila kundi sa \[paraang\] pinakamaganda hanggang sa umabot siya sa kalakasan niya. Magpatupad kayo sa kasunduan; tunay na ang kasunduan ay laging pinananagutan.
 
 # 2064
 
@@ -8296,13 +8296,13 @@ Iyon ay kabilang sa ikinasi sa iyo ng Panginoon mo na karunungan. Huwag kang gum
 
 # 2069
 
-Kaya ba humirang sa inyo ang Panginoon ninyo sa [pagkakaroon ng] mga anak na lalaki at gumawa Siya mula sa mga anghel ng mga [anak na] babae? Tunay na kayo ay talagang nagsasabi ng isang sinasabing sukdulan!
+Kaya ba humirang sa inyo ang Panginoon ninyo sa \[pagkakaroon ng\] mga anak na lalaki at gumawa Siya mula sa mga anghel ng mga \[anak na\] babae? Tunay na kayo ay talagang nagsasabi ng isang sinasabing sukdulan!
 
 # 2070
 
 Talaga ngang nagdetalye Kami sa Qur’ān na ito upang magsaalaala sila habang walang naidadagdag ito sa kanila kundi isang pagkaayaw.[^*]
 
-[^*]: Talaga ngang nagsarisari Kami sa Qur’ān na ito [ng nilalaman] upang magsaalaala sila ngunit walang naidadagdag ito sa kanila kundi isang pagkaayaw.
+[^*]: Talaga ngang nagsarisari Kami sa Qur’ān na ito \[ng nilalaman\] upang magsaalaala sila ngunit walang naidadagdag ito sa kanila kundi isang pagkaayaw.
 
 # 2071
 
@@ -8346,7 +8346,7 @@ o nilikhang kabilang sa dinadakila sa mga dibdib ninyo," kaya magsasabi sila: "S
 
 # 2081
 
-sa araw na tatawag Siya sa inyo kaya tutugon kayo kalakip ng pagpupuri sa Kanya at magpapalagay kayong hindi kayo namalagi malibang sa kaunting [sandali]."
+sa araw na tatawag Siya sa inyo kaya tutugon kayo kalakip ng pagpupuri sa Kanya at magpapalagay kayong hindi kayo namalagi malibang sa kaunting \[sandali\]."
 
 # 2082
 
@@ -8366,7 +8366,7 @@ Sabihin mo: "Dumalangin kayo sa mga inaakala ninyo bukod pa sa Kanya sapagkat hi
 
 # 2086
 
-Yaong mga dinadalanginan nila ay naghahangad tungo sa Panginoon nila ng pampalapit, [na nagtatagisan] kung alin sa kanila ang [magiging] pinakamalapit, nag-aasam ng awa Niya, at nangangamba sa pagdurusa mula sa Kanya. Tunay na ang parusa ng Panginoon mo ay laging pinangingilagan.
+Yaong mga dinadalanginan nila ay naghahangad tungo sa Panginoon nila ng pampalapit, \[na nagtatagisan\] kung alin sa kanila ang \[magiging\] pinakamalapit, nag-aasam ng awa Niya, at nangangamba sa pagdurusa mula sa Kanya. Tunay na ang parusa ng Panginoon mo ay laging pinangingilagan.
 
 # 2087
 
@@ -8374,15 +8374,15 @@ Walang anumang pamayanan malibang Kami ay magpapahamak doon bago ng Araw ng Pagb
 
 # 2088
 
-Walang pumigil sa Amin na magsugo Kami ng mga tanda maliban na nagpasinungaling sa mga ito ang mga sinauna. Nagbigay Kami sa [lipi ng] Thamūd ng dumalagang kamelyo bilang [himalang] nakikita ngunit lumabag sila sa katarungan dito. Hindi Kami nagsusugo ng mga tanda kundi bilang pagpapangamba.
+Walang pumigil sa Amin na magsugo Kami ng mga tanda maliban na nagpasinungaling sa mga ito ang mga sinauna. Nagbigay Kami sa \[lipi ng\] Thamūd ng dumalagang kamelyo bilang \[himalang\] nakikita ngunit lumabag sila sa katarungan dito. Hindi Kami nagsusugo ng mga tanda kundi bilang pagpapangamba.
 
 # 2089
 
-[Banggitin] noong nagsabi Kami sa iyo: "Tunay na ang Panginoon mo ay pumaligid sa mga tao." Hindi Kami gumawa sa pangitaing ipinakita Namin sa iyo malibang bilang pagsubok para sa mga tao at sa isinumpang punong-kahoy [na nasaad] sa Qur’ān. Nagpapangamba Kami sa kanila ngunit hindi nakadagdag ito sa kanila kundi ng isang pagmamalabis na malaki.
+\[Banggitin\] noong nagsabi Kami sa iyo: "Tunay na ang Panginoon mo ay pumaligid sa mga tao." Hindi Kami gumawa sa pangitaing ipinakita Namin sa iyo malibang bilang pagsubok para sa mga tao at sa isinumpang punong-kahoy \[na nasaad\] sa Qur’ān. Nagpapangamba Kami sa kanila ngunit hindi nakadagdag ito sa kanila kundi ng isang pagmamalabis na malaki.
 
 # 2090
 
-[Banggitin] noong nagsabi Kami sa mga anghel: "Magpatirapa kayo kay Adan," kaya nagpatirapa naman sila maliban si Satanas. Nagsabi ito: "Magpapatirapa ba ako sa nilikha Mo na isang putik?"
+\[Banggitin\] noong nagsabi Kami sa mga anghel: "Magpatirapa kayo kay Adan," kaya nagpatirapa naman sila maliban si Satanas. Nagsabi ito: "Magpapatirapa ba ako sa nilikha Mo na isang putik?"
 
 # 2091
 
@@ -8414,23 +8414,23 @@ Kaya natiwasay ba kayo na baka magpalamon Siya sa inyo sa gilid ng katihan o bak
 
 # 2098
 
-O natiwasay ba kayo na baka magpanumbalik Siya sa inyo roon [sa dagat] sa ibang pagkakataon saka magsugo Siya sa inyo ng isang buhawing mula sa hangin para lumunod Siya sa inyo dahil tumanggi kayong sumampalataya, pagkatapos hindi kayo nakatatagpo para sa inyo laban sa Amin dito ng isang mapaghiganti?
+O natiwasay ba kayo na baka magpanumbalik Siya sa inyo roon \[sa dagat\] sa ibang pagkakataon saka magsugo Siya sa inyo ng isang buhawing mula sa hangin para lumunod Siya sa inyo dahil tumanggi kayong sumampalataya, pagkatapos hindi kayo nakatatagpo para sa inyo laban sa Amin dito ng isang mapaghiganti?
 
 # 2099
 
-Talaga ngang nagparangal Kami sa mga anak ni Adan, nagdala Kami sa kanila sa katihan at karagatan, tumustos Kami sa kanila mula sa mga kaaya-ayang bagay, at nagtangi Kami sa kanila higit sa marami sa nilikha Namin nang [higit na] pagtatangi.
+Talaga ngang nagparangal Kami sa mga anak ni Adan, nagdala Kami sa kanila sa katihan at karagatan, tumustos Kami sa kanila mula sa mga kaaya-ayang bagay, at nagtangi Kami sa kanila higit sa marami sa nilikha Namin nang \[higit na\] pagtatangi.
 
 # 2100
 
-[Banggitin mo] ang araw na tatawag Kami sa bawat [pangkat ng] mga tao sa pamamagitan ng pinuno nila. Kaya ang mga bibigyan ng talaan nila sa kanang kamay nila, ang mga iyon ay magbabasa ng talaan nila at hindi lalabagin sa katarungan nang gahibla.
+\[Banggitin mo\] ang araw na tatawag Kami sa bawat \[pangkat ng\] mga tao sa pamamagitan ng pinuno nila. Kaya ang mga bibigyan ng talaan nila sa kanang kamay nila, ang mga iyon ay magbabasa ng talaan nila at hindi lalabagin sa katarungan nang gahibla.
 
 # 2101
 
-Ang sinumang narito [sa Mundo] ay bulag [ang puso], siya sa Kabilang-buhay ay bulag at higit na ligaw sa landas.
+Ang sinumang narito \[sa Mundo\] ay bulag \[ang puso\], siya sa Kabilang-buhay ay bulag at higit na ligaw sa landas.
 
 # 2102
 
-Tunay na halos sila ay talagang tutukso sa iyo palayo sa ikinasi Namin sa iyo upang gumawa-gawa ka laban sa Amin ng iba pa rito [sa ikinasi]; at samakatuwid, talaga sanang gumawa sila sa iyo bilang matalik na kaibigan.
+Tunay na halos sila ay talagang tutukso sa iyo palayo sa ikinasi Namin sa iyo upang gumawa-gawa ka laban sa Amin ng iba pa rito \[sa ikinasi\]; at samakatuwid, talaga sanang gumawa sila sa iyo bilang matalik na kaibigan.
 
 # 2103
 
@@ -8438,19 +8438,19 @@ Kung hindi dahil na nagpatatag Kami sa iyo, talaga ngang halos ikaw ay sumandal 
 
 # 2104
 
-Samakatuwid, talaga sanang nagpalasap Kami sa iyo ng ibayong [pagdurusa] sa buhay at ibayong [pagdurusa] sa pagkamatay. Pagkatapos hindi ka makatatagpo ukol sa iyo laban sa Amin ng isang mapag-adya.
+Samakatuwid, talaga sanang nagpalasap Kami sa iyo ng ibayong \[pagdurusa\] sa buhay at ibayong \[pagdurusa\] sa pagkamatay. Pagkatapos hindi ka makatatagpo ukol sa iyo laban sa Amin ng isang mapag-adya.
 
 # 2105
 
-Tunay na halos sila ay talagang nang-uuto sa iyo [na lumisan] mula sa lupain [ng Makkah] upang magpalabas sila sa iyo mula roon; at samakatuwid, hindi sila mamalagi pagkaiwan mo kundi sa kaunting [panahon].
+Tunay na halos sila ay talagang nang-uuto sa iyo \[na lumisan\] mula sa lupain \[ng Makkah\] upang magpalabas sila sa iyo mula roon; at samakatuwid, hindi sila mamalagi pagkaiwan mo kundi sa kaunting \[panahon\].
 
 # 2106
 
-[Iyan ay] bilang kalakaran sa sinumang isinugo na Namin bago mo kabilang sa mga sugo Namin. Hindi ka nakatatagpo para sa kalakaran Namin ng isang pagpapabago.
+\[Iyan ay\] bilang kalakaran sa sinumang isinugo na Namin bago mo kabilang sa mga sugo Namin. Hindi ka nakatatagpo para sa kalakaran Namin ng isang pagpapabago.
 
 # 2107
 
-Magpanatili ka ng pagdarasal mula sa paglilis [sa rurok] ng araw hanggang sa pagdilim ng gabi at ng [pagbigkas ng] Qur’ān sa madaling-araw; tunay na ang [pagbigkas ng] Qur’ān sa madaling-araw ay laging sinasaksihan [ng mga anghel].
+Magpanatili ka ng pagdarasal mula sa paglilis \[sa rurok\] ng araw hanggang sa pagdilim ng gabi at ng \[pagbigkas ng\] Qur’ān sa madaling-araw; tunay na ang \[pagbigkas ng\] Qur’ān sa madaling-araw ay laging sinasaksihan \[ng mga anghel\].
 
 # 2108
 
@@ -8502,7 +8502,7 @@ Nagsabi sila: "Hindi kami maniniwala sa iyo hanggang sa magpabulwak ka para sa a
 
 # 2120
 
-o magkaroon ka ng isang hardin ng datiles at ubas, saka magpabulwak ka ng mga ilog sa gitna ng mga ito nang [masaganang] pagpapabulwak;
+o magkaroon ka ng isang hardin ng datiles at ubas, saka magpabulwak ka ng mga ilog sa gitna ng mga ito nang \[masaganang\] pagpapabulwak;
 
 # 2121
 
@@ -8526,7 +8526,7 @@ Sabihin mo: "Nakasapat si Allāh bilang saksi sa pagitan ko at ninyo. Tunay na S
 
 # 2126
 
-Ang sinumang pinapatnubayan ni Allāh, siya ay ang napapatnubayan; ngunit ang sinumang pinaliligaw Niya ay hindi ka makatatagpo para sa kanila ng mga katangkilik bukod pa sa Kanya. Kakalap Kami sa kanila sa Araw ng Pagbangon [na kinakaladkad] sa mga mukha nila bilang mga bulag, mga pipi, at mga bingi. Ang kanlungan nila ay Impiyerno, na sa tuwing humuhupa ay nagdaragdag Kami sa kanila ng liyab.
+Ang sinumang pinapatnubayan ni Allāh, siya ay ang napapatnubayan; ngunit ang sinumang pinaliligaw Niya ay hindi ka makatatagpo para sa kanila ng mga katangkilik bukod pa sa Kanya. Kakalap Kami sa kanila sa Araw ng Pagbangon \[na kinakaladkad\] sa mga mukha nila bilang mga bulag, mga pipi, at mga bingi. Ang kanlungan nila ay Impiyerno, na sa tuwing humuhupa ay nagdaragdag Kami sa kanila ng liyab.
 
 # 2127
 
@@ -8534,7 +8534,7 @@ Iyon ay ganti sa kanila dahil sila ay tumangging sumampalataya sa mga tanda Nami
 
 # 2128
 
-Hindi ba sila nakakita na si Allāh na lumikha ng mga langit at lupa ay nakakakaya na lumikha ng tulad nila. Gumawa Siya para sa kanila ng isang taning na walang pag-aalinlangan hinggil dito ngunit tumanggi [sa anuman] ang mga tagalabag sa katarungan maliban sa pagkawalang-pananampalataya.
+Hindi ba sila nakakita na si Allāh na lumikha ng mga langit at lupa ay nakakakaya na lumikha ng tulad nila. Gumawa Siya para sa kanila ng isang taning na walang pag-aalinlangan hinggil dito ngunit tumanggi \[sa anuman\] ang mga tagalabag sa katarungan maliban sa pagkawalang-pananampalataya.
 
 # 2129
 
@@ -8562,7 +8562,7 @@ Kalakip ng katotohanan nagpababa Kami nito at kalakip ng katotohanan bumaba ito.
 
 # 2135
 
-Isang Qur’ān na nagbaha-bahagi Kami nito upang bigkasin ka nito sa mga tao sa mga yugto at nagbaba Kami nito sa [unti-unting] pagbababa.
+Isang Qur’ān na nagbaha-bahagi Kami nito upang bigkasin ka nito sa mga tao sa mga yugto at nagbaba Kami nito sa \[unti-unting\] pagbababa.
 
 # 2136
 
@@ -8578,11 +8578,11 @@ Nagsusubsob sila ng mga mukha habang umiiyak at nakadaragdag ito sa kanila ng is
 
 # 2139
 
-Sabihin mo: "Dumalangin kayo kay Allāh o dumalangin kayo sa Napakamaawain; sa alin man kayo dumadalangin, taglay Niya ang mga pangalang pinakamagaganda. Huwag kang magpaingay sa dasal mo at huwag kang bumulong nito. Maghangad ka sa pagitan niyon ng isang [katamtamang] landas."
+Sabihin mo: "Dumalangin kayo kay Allāh o dumalangin kayo sa Napakamaawain; sa alin man kayo dumadalangin, taglay Niya ang mga pangalang pinakamagaganda. Huwag kang magpaingay sa dasal mo at huwag kang bumulong nito. Maghangad ka sa pagitan niyon ng isang \[katamtamang\] landas."
 
 # 2140
 
-Sabihin mo: "Ang papuri ay ukol kay Allāh na hindi gumawa ng anak. Hindi Siya nagkaroon ng katambal sa paghahari Niya at hindi Siya nagkaroon ng katangkilik dahil sa kaabahan. Dumakila ka sa Kanya nang [lubos na] pagdadakila.
+Sabihin mo: "Ang papuri ay ukol kay Allāh na hindi gumawa ng anak. Hindi Siya nagkaroon ng katambal sa paghahari Niya at hindi Siya nagkaroon ng katangkilik dahil sa kaabahan. Dumakila ka sa Kanya nang \[lubos na\] pagdadakila.
 
 # 2141
 
@@ -8590,7 +8590,7 @@ Ang papuri ay ukol kay Allāh na nagpababa sa lingkod Niya ng Aklat at hindi Siy
 
 # 2142
 
-[Ginawa Niya itong] matuwid upang magbabala ng isang parusang matindi mula sa nasa Kanya, magbalita ng nakagagalak sa mga mananampalatayang gumagawa ng mga maayos na ukol sa kanila ay isang pabuyang maganda
+\[Ginawa Niya itong\] matuwid upang magbabala ng isang parusang matindi mula sa nasa Kanya, magbalita ng nakagagalak sa mga mananampalatayang gumagawa ng mga maayos na ukol sa kanila ay isang pabuyang maganda
 
 # 2143
 
@@ -8622,11 +8622,11 @@ O nag-akala ka na ang magkakasama sa yungib at pinag-ukitan ay noon kataka-takan
 
 # 2150
 
-[Banggitin noong] nagpakanlong ang mga binata sa yungib saka nagsabi sila: "Panginoon namin, magbigay Ka sa amin ng awa mula sa nasa Iyo at maglaan Ka para sa amin, kaugnay sa nauukol sa amin, ng isang kagabayan."
+\[Banggitin noong\] nagpakanlong ang mga binata sa yungib saka nagsabi sila: "Panginoon namin, magbigay Ka sa amin ng awa mula sa nasa Iyo at maglaan Ka para sa amin, kaugnay sa nauukol sa amin, ng isang kagabayan."
 
 # 2151
 
-Kaya nagtakip Kami sa mga tainga nila sa yungib sa [loob ng] mga taon ayon sa bilang.
+Kaya nagtakip Kami sa mga tainga nila sa yungib sa \[loob ng\] mga taon ayon sa bilang.
 
 # 2152
 
@@ -8638,7 +8638,7 @@ Kami ay nagsasalaysay sa iyo ng balita sa kanila ayon sa katotohanan. Tunay na s
 
 # 2154
 
-Nagpatibay Kami sa mga puso nila noong tumindig sila saka nagsabi: "Ang Panginoon Namin ay ang Panginoon ng mga langit at lupa. Hindi kami mananalangin sa bukod pa sa Kanya bilang diyos [dahil] talaga ngang makapagsasabi Kami, samakatuwid, ng isang pagkalayu-layo [sa katotohanan]."
+Nagpatibay Kami sa mga puso nila noong tumindig sila saka nagsabi: "Ang Panginoon Namin ay ang Panginoon ng mga langit at lupa. Hindi kami mananalangin sa bukod pa sa Kanya bilang diyos \[dahil\] talaga ngang makapagsasabi Kami, samakatuwid, ng isang pagkalayu-layo \[sa katotohanan\]."
 
 # 2155
 
@@ -8646,11 +8646,11 @@ Ang mga ito, ang mga tao namin, ay gumawa sa bukod pa sa Kanya bilang mga diyos.
 
 # 2156
 
-[Nagsabi ang magkakasama]: "Kung nagpakalayu-layo kayo sa kanila at sa anumang sinasamba nila maliban kay Allāh ay kumanlong kayo sa yungib; magpapalaganap para sa inyo ang Panginoon ninyo ng awa Niya at maglalaan Siya para sa inyo kaugnay sa nauukol sa inyo ng isang magagamit."
+\[Nagsabi ang magkakasama\]: "Kung nagpakalayu-layo kayo sa kanila at sa anumang sinasamba nila maliban kay Allāh ay kumanlong kayo sa yungib; magpapalaganap para sa inyo ang Panginoon ninyo ng awa Niya at maglalaan Siya para sa inyo kaugnay sa nauukol sa inyo ng isang magagamit."
 
 # 2157
 
-[Kung naroon ka,] makikita mo ang araw, kapag lumitaw iyon, na humihilig palayo sa yungib nila sa gawing kanan, at kapag lumubog iyon, na lumalampas sa kanila sa gawing kaliwa habang sila ay nasa isang puwang mula roon. Iyon ay kabilang sa mga tanda ni Allāh. Ang sinumang pinapatnubayan ni Allāh ay siya ang napapatnubayan. Ang sinumang pinaliligaw Niya ay hindi ka makatatagpo para rito ng isang katangkilik na tagagabay.
+\[Kung naroon ka,\] makikita mo ang araw, kapag lumitaw iyon, na humihilig palayo sa yungib nila sa gawing kanan, at kapag lumubog iyon, na lumalampas sa kanila sa gawing kaliwa habang sila ay nasa isang puwang mula roon. Iyon ay kabilang sa mga tanda ni Allāh. Ang sinumang pinapatnubayan ni Allāh ay siya ang napapatnubayan. Ang sinumang pinaliligaw Niya ay hindi ka makatatagpo para rito ng isang katangkilik na tagagabay.
 
 # 2158
 
@@ -8666,11 +8666,11 @@ Tunay na sila, kung makababatid sa inyo, ay mambabato sa inyo o magpapanumbalik 
 
 # 2161
 
-Gayon din, ipinatuklas sa kanila upang makaalam sila na ang pangako ni Allāh ay totoo at na ang Huling Sandali ay walang pag-aalinlangan hinggil dito. [Ito ay] noong naghihidwaan sila sa pagitan nila sa nauukol sa kanila kaya nagsabi sila: "Magpatayo kayo sa ibabaw nila ng isang gusali. Ang Panginoon nila ay higit na maalam sa kanila." Nagsabi ang mga nanaig sa usapin nila: "Talagang gagawa nga kami sa ibabaw nila ng isang patirapaan."
+Gayon din, ipinatuklas sa kanila upang makaalam sila na ang pangako ni Allāh ay totoo at na ang Huling Sandali ay walang pag-aalinlangan hinggil dito. \[Ito ay\] noong naghihidwaan sila sa pagitan nila sa nauukol sa kanila kaya nagsabi sila: "Magpatayo kayo sa ibabaw nila ng isang gusali. Ang Panginoon nila ay higit na maalam sa kanila." Nagsabi ang mga nanaig sa usapin nila: "Talagang gagawa nga kami sa ibabaw nila ng isang patirapaan."
 
 # 2162
 
-Magsasabi ang mga iyon na [sila ay] tatlo, na ang ikaapat sa kanila ay ang aso nila; at magsasabi pa ang mga iyon na [sila ay] lima, na ang ikaanim sa kanila ay ang aso nila – bilang panghuhula sa lingid. Magsasabi ang mga iyon na [sila ay] pito, na ang ikawalo sa kanila ay ang aso nila. Sabihin mo: "Ang Panginoon ko ay higit na maalam sa bilang nila; walang nakaaalam sa kanila kundi kaunti. Kaya huwag kayong makipangatwiran hinggil sa kanila malibang ayon sa pakikipangatwirang hayag at huwag kayong magpahabilin hinggil sa kanila mula sa mga iyon sa isa man."
+Magsasabi ang mga iyon na \[sila ay\] tatlo, na ang ikaapat sa kanila ay ang aso nila; at magsasabi pa ang mga iyon na \[sila ay\] lima, na ang ikaanim sa kanila ay ang aso nila – bilang panghuhula sa lingid. Magsasabi ang mga iyon na \[sila ay\] pito, na ang ikawalo sa kanila ay ang aso nila. Sabihin mo: "Ang Panginoon ko ay higit na maalam sa bilang nila; walang nakaaalam sa kanila kundi kaunti. Kaya huwag kayong makipangatwiran hinggil sa kanila malibang ayon sa pakikipangatwirang hayag at huwag kayong magpahabilin hinggil sa kanila mula sa mga iyon sa isa man."
 
 # 2163
 
@@ -8678,7 +8678,7 @@ Huwag ka ngang magsasabi sa anuman: "Tunay na ako ay gagawa niyon bukas,"
 
 # 2164
 
-maliban na [magsabing] loobin ni Allāh. Alalahanin mo ang Panginoon mo kapag nakalimot ka at sabihin mo: "Harinawang magpatnubay sa akin ang Panginoon ko para sa higit na malapit kaysa rito sa kagabayan."
+maliban na \[magsabing\] loobin ni Allāh. Alalahanin mo ang Panginoon mo kapag nakalimot ka at sabihin mo: "Harinawang magpatnubay sa akin ang Panginoon ko para sa higit na malapit kaysa rito sa kagabayan."
 
 # 2165
 
@@ -8686,7 +8686,7 @@ Namalagi sila sa yungib nila nang tatlong daang taon at nadagdagan sila ng siyam
 
 # 2166
 
-Sabihin mo: "Si Allāh ay higit na maalam sa tagal ng ipinamalagi nila. Taglay Niya ang [kaalaman sa] Lingid sa mga langit at lupa. Kay husay ng pagkakita Niya at kay husay ng pagkarinig Niya. Walang ukol sa kanila bukod pa sa Kanya na anumang katangkilik. Hindi Siya nagpapatambal sa paghahatol Niya ng isa man."
+Sabihin mo: "Si Allāh ay higit na maalam sa tagal ng ipinamalagi nila. Taglay Niya ang \[kaalaman sa\] Lingid sa mga langit at lupa. Kay husay ng pagkakita Niya at kay husay ng pagkarinig Niya. Walang ukol sa kanila bukod pa sa Kanya na anumang katangkilik. Hindi Siya nagpapatambal sa paghahatol Niya ng isa man."
 
 # 2167
 
@@ -8694,7 +8694,7 @@ Bumigkas ka ng ikinasi sa iyo mula sa Aklat ng Panginoon mo. Walang tagapagpalit
 
 # 2168
 
-Magpatiis ka ng sarili mo kasama sa mga dumadalangin sa Panginoon nila sa umaga at gabi, na nagnanais [ng kaluguran] ng mukha Niya. Huwag lumampas ang dalawang mata mo palayo sa kanila, na nagnanais ng gayak ng buhay na pangmundo. Huwag kang tumalima sa sinumang nagpalingat Kami sa puso niya palayo sa pag-aalaala sa Amin at sumunod sa pithaya niya habang ang nauukol sa kanya ay naging kapabayaan.
+Magpatiis ka ng sarili mo kasama sa mga dumadalangin sa Panginoon nila sa umaga at gabi, na nagnanais \[ng kaluguran\] ng mukha Niya. Huwag lumampas ang dalawang mata mo palayo sa kanila, na nagnanais ng gayak ng buhay na pangmundo. Huwag kang tumalima sa sinumang nagpalingat Kami sa puso niya palayo sa pag-aalaala sa Amin at sumunod sa pithaya niya habang ang nauukol sa kanya ay naging kapabayaan.
 
 # 2169
 
@@ -8738,7 +8738,7 @@ Subalit Siyang si Allāh ay Panginoon ko, at hindi ako nagtatambal sa Panginoon 
 
 # 2179
 
-Bakit hindi ka, noong pumasok ka sa hardin mo, nagsabi: 'Ang niloob ni Allāh [ay naganap]; walang lakas maliban sa kay Allāh.' Kung nakikita mo ako mismo na higit na kaunti kaysa sa iyo sa yaman at anak,
+Bakit hindi ka, noong pumasok ka sa hardin mo, nagsabi: 'Ang niloob ni Allāh \[ay naganap\]; walang lakas maliban sa kay Allāh.' Kung nakikita mo ako mismo na higit na kaunti kaysa sa iyo sa yaman at anak,
 
 # 2180
 
@@ -8746,11 +8746,11 @@ marahil ang Panginoon ko ay magbigay sa akin ng higit na mabuti kaysa sa hardin 
 
 # 2181
 
-o ang tubig niyan ay maging lubog [sa lupa] kaya hindi mo kakayaning makahanap nito."
+o ang tubig niyan ay maging lubog \[sa lupa\] kaya hindi mo kakayaning makahanap nito."
 
 # 2182
 
-Pumaligid sa mga bunga niya [ang pagkawasak] kaya nagsimula siyang nagbaling-baling ng mga kamay niya [sa panghihinayang] sa ginugol niya roon, samantalang iyon ay gumuho sa mga balag niyon, at nagsasabi: "O kung sana ako ay hindi nagtambal sa Panginoon ko ng isa man!"
+Pumaligid sa mga bunga niya \[ang pagkawasak\] kaya nagsimula siyang nagbaling-baling ng mga kamay niya \[sa panghihinayang\] sa ginugol niya roon, samantalang iyon ay gumuho sa mga balag niyon, at nagsasabi: "O kung sana ako ay hindi nagtambal sa Panginoon ko ng isa man!"
 
 # 2183
 
@@ -8770,11 +8770,11 @@ Ang yaman at ang mga anak ay gayak ng buhay na pangmundo samantalang ang mga nan
 
 # 2187
 
-[Banggitin mo] ang araw na mag-uusad Kami ng mga bundok at makikita mo ang lupa na nakalitaw at kakalap Kami sa kanila saka hindi Kami lilisan sa isa man mula sa kanila.
+\[Banggitin mo\] ang araw na mag-uusad Kami ng mga bundok at makikita mo ang lupa na nakalitaw at kakalap Kami sa kanila saka hindi Kami lilisan sa isa man mula sa kanila.
 
 # 2188
 
-Itatanghal sila sa Panginoon mo na nakahanay [at sasabihin:] "Talaga ngang pumunta kayo sa Amin gaya ng nilikha Namin kayo sa unang pagkakataon. Bagkus nag-angkin kayo na hindi Kami gagawa para sa inyo ng isang tipanan."
+Itatanghal sila sa Panginoon mo na nakahanay \[at sasabihin:\] "Talaga ngang pumunta kayo sa Amin gaya ng nilikha Namin kayo sa unang pagkakataon. Bagkus nag-angkin kayo na hindi Kami gagawa para sa inyo ng isang tipanan."
 
 # 2189
 
@@ -8782,7 +8782,7 @@ Ilalagay ang talaan saka makikita mo ang mga salarin habang mga nababagabag dahi
 
 # 2190
 
-[Banggitin] noong nagsabi Kami sa mga anghel: "Magpatirapa kayo kay Adan," kaya nagpatirapa naman sila maliban si Satanas; siya noon ay kabilang sa mga jinn ngunit nagpakasuwail siya sa utos ng Panginoon niya. Kaya ba gagawa kayo sa kanya at sa mga supling niya bilang mga katangkilik bukod pa sa Akin, samantalang sila para sa inyo ay kaaway? Kay saklap ito para sa mga tagalabag sa katarungan bilang pamalit!
+\[Banggitin\] noong nagsabi Kami sa mga anghel: "Magpatirapa kayo kay Adan," kaya nagpatirapa naman sila maliban si Satanas; siya noon ay kabilang sa mga jinn ngunit nagpakasuwail siya sa utos ng Panginoon niya. Kaya ba gagawa kayo sa kanya at sa mga supling niya bilang mga katangkilik bukod pa sa Akin, samantalang sila para sa inyo ay kaaway? Kay saklap ito para sa mga tagalabag sa katarungan bilang pamalit!
 
 # 2191
 
@@ -8790,7 +8790,7 @@ Hindi Ko sila pinasaksi sa paglikha sa mga langit at lupa ni sa paglikha sa mga 
 
 # 2192
 
-[Banggitin mo] ang araw na magsasabi Siya: "Manawagan kayo sa mga katambal sa Akin na inangkin ninyo," kaya tatawag sila sa mga iyon ngunit hindi tutugon ang mga iyon sa kanila at maglalagay Kami sa pagitan nila ng isang [lambak ng] kapahamakan.
+\[Banggitin mo\] ang araw na magsasabi Siya: "Manawagan kayo sa mga katambal sa Akin na inangkin ninyo," kaya tatawag sila sa mga iyon ngunit hindi tutugon ang mga iyon sa kanila at maglalagay Kami sa pagitan nila ng isang \[lambak ng\] kapahamakan.
 
 # 2193
 
@@ -8798,11 +8798,11 @@ Makikita ng mga salarin ng Apoy saka makatitiyak sila na sila ay babagsak doon a
 
 # 2194
 
-Talaga ngang nagdetalye Kami sa Qur’ān na ito para sa mga tao ng bawat [uri ng] paghahalintulad. Laging ang tao ay pinakamadalas na bagay sa pakikipagtalo.
+Talaga ngang nagdetalye Kami sa Qur’ān na ito para sa mga tao ng bawat \[uri ng\] paghahalintulad. Laging ang tao ay pinakamadalas na bagay sa pakikipagtalo.
 
 # 2195
 
-Walang pumigil sa mga tao na sumampalataya sila noong dumating sa kanila ang patnubay at humingi sila ng tawad sa Panginoon nila kundi [ang paghiling] na pumunta sa kanila ang kalakaran ng mga sinauna o pumunta sa kanila ang pagdurusa nang harapan.
+Walang pumigil sa mga tao na sumampalataya sila noong dumating sa kanila ang patnubay at humingi sila ng tawad sa Panginoon nila kundi \[ang paghiling\] na pumunta sa kanila ang kalakaran ng mga sinauna o pumunta sa kanila ang pagdurusa nang harapan.
 
 # 2196
 
@@ -8822,11 +8822,11 @@ Ang mga pamayanang iyon, nagpahamak Kami sa kanila noong lumabag sila sa katarun
 
 # 2200
 
-[Banggitin] noong nagsabi si Moises sa alila niya: "Hindi ako lulubay hanggang sa umabot ako sa pinagtitipunan ng dalawang dagat o isang magpatuloy ako sa mahabang panahon."
+\[Banggitin\] noong nagsabi si Moises sa alila niya: "Hindi ako lulubay hanggang sa umabot ako sa pinagtitipunan ng dalawang dagat o isang magpatuloy ako sa mahabang panahon."
 
 # 2201
 
-Kaya noong umabot silang dalawa sa pinagtitipunan sa pagitan ng dalawang [dagat] ay nakalimot silang dalawa sa isda nilang dalawa kaya gumawa ito ng landas nito sa dagat nang pailalim.
+Kaya noong umabot silang dalawa sa pinagtitipunan sa pagitan ng dalawang \[dagat\] ay nakalimot silang dalawa sa isda nilang dalawa kaya gumawa ito ng landas nito sa dagat nang pailalim.
 
 # 2202
 
@@ -8834,7 +8834,7 @@ Kaya noong lumampas silang dalawa ay nagsabi siya sa alila niya: "Dalhin mo sa a
 
 # 2203
 
-Nagsabi ito: "Nakita mo ba noong kumanlong tayo sa bato sapagkat tunay na ako ay nakalimot sa isda [doon]? Walang nagpalimot sa akin niyon kundi ang demonyo, na bumanggit sana ako niyon. Gumawa iyon ng landas niyon sa dagat nang kataka-taka."
+Nagsabi ito: "Nakita mo ba noong kumanlong tayo sa bato sapagkat tunay na ako ay nakalimot sa isda \[doon\]? Walang nagpalimot sa akin niyon kundi ang demonyo, na bumanggit sana ako niyon. Gumawa iyon ng landas niyon sa dagat nang kataka-taka."
 
 # 2204
 
@@ -8878,7 +8878,7 @@ Nagsabi ito: "Huwag kang manisi sa akin sa nakalimutan ko at huwag kang magpabig
 
 # 2214
 
-Kaya humayo silang dalawa hanggang sa nang nakasalubong silang dalawa ng isang batang lalaki ay pinatay niya iyon. Nagsabi ito: "Pumatay ka ba ng isang kaluluwang dalisay nang hindi dahil [sa pagpatay nito] sa isang kaluluwa? Talaga ngang gumawa ka ng isang bagay na pagkasama-sama."
+Kaya humayo silang dalawa hanggang sa nang nakasalubong silang dalawa ng isang batang lalaki ay pinatay niya iyon. Nagsabi ito: "Pumatay ka ba ng isang kaluluwang dalisay nang hindi dahil \[sa pagpatay nito\] sa isang kaluluwa? Talaga ngang gumawa ka ng isang bagay na pagkasama-sama."
 
 # 2215
 
@@ -8926,7 +8926,7 @@ Kaya sumunod siya sa isang daanan
 
 # 2226
 
-hanggang sa nang umabot siya sa lubugan ng araw ay nakatagpo siya rito na [parang] lumulubog sa isang bukal na maburak at nakatagpo siya sa tabi niyon ng mga tao. Nagsabi Kami: O Dhulqarnayn, maski magparusa ka at maski gumawa ka sa kanila ng isang kagandahan."
+hanggang sa nang umabot siya sa lubugan ng araw ay nakatagpo siya rito na \[parang\] lumulubog sa isang bukal na maburak at nakatagpo siya sa tabi niyon ng mga tao. Nagsabi Kami: O Dhulqarnayn, maski magparusa ka at maski gumawa ka sa kanila ng isang kagandahan."
 
 # 2227
 
@@ -8942,7 +8942,7 @@ Pagkatapos sumunod siya sa isang daanan
 
 # 2230
 
-hanggang sa nang umabot siya sa litawan ng araw ay nakatagpo siya rito na [parang] lumilitaw sa mga taong hindi Kami gumawa para sa kanila laban dito ng isang panakip.
+hanggang sa nang umabot siya sa litawan ng araw ay nakatagpo siya rito na \[parang\] lumilitaw sa mga taong hindi Kami gumawa para sa kanila laban dito ng isang panakip.
 
 # 2231
 
@@ -8986,7 +8986,7 @@ Maglalahad Kami ng Impiyerno sa araw na iyon para sa mga tagatangging sumampalat
 
 # 2241
 
-[Sila] ang mga [taong] dati ang mga mata nila ay nasa isang pagtatakip palayo sa pag-aalaala sa Akin at sila dati ay hindi nakakakaya ng isang pagdinig.
+\[Sila\] ang mga \[taong\] dati ang mga mata nila ay nasa isang pagtatakip palayo sa pag-aalaala sa Akin at sila dati ay hindi nakakakaya ng isang pagdinig.
 
 # 2242
 
@@ -9018,7 +9018,7 @@ bilang mga mananatili sa mga iyon, na hindi sila maghahangad palayo sa mga iyon 
 
 # 2249
 
-Sabihin mo: "Kung sakaling ang dagat ay tinta para sa mga salita ng Panginoon ko, talaga sanang naubos ang dagat bago maubos [isulat] ang mga salita ng Panginoon ko, kahit pa naghatid kami ng tulad nito na tinta."
+Sabihin mo: "Kung sakaling ang dagat ay tinta para sa mga salita ng Panginoon ko, talaga sanang naubos ang dagat bago maubos \[isulat\] ang mga salita ng Panginoon ko, kahit pa naghatid kami ng tulad nito na tinta."
 
 # 2250
 
@@ -9026,7 +9026,7 @@ Sabihin mo: "Ako ay tao lamang tulad ninyo. Ikinakasi sa akin na ang Diyos ninyo
 
 # 2251
 
-Kāf, Hā, Yā, `Ayn, Ṣād.
+Kāf, Hā, Yā, \`Ayn, Ṣād.
 
 # 2252
 
@@ -9050,7 +9050,7 @@ na magmamana sa akin at magmamana mula sa angkan ni Jacob. Gawin Mo siya, Pangin
 
 # 2257
 
-[Sinabi sa kanya:] "O Zacarias, tunay na Kami ay nagbabalita ng nakagagalak sa iyo hinggil sa isang batang lalaking ang pangalan niya ay Juan. Hindi Kami gumawa para sa kanya noong bago pa niyan ng isang kapangalan."
+\[Sinabi sa kanya:\] "O Zacarias, tunay na Kami ay nagbabalita ng nakagagalak sa iyo hinggil sa isang batang lalaking ang pangalan niya ay Juan. Hindi Kami gumawa para sa kanya noong bago pa niyan ng isang kapangalan."
 
 # 2258
 
@@ -9058,7 +9058,7 @@ Nagsabi ito: "Panginoon ko, paanong magkakaroon ako ng isang batang lalaki saman
 
 # 2259
 
-Nagsabi [ang anghel]: "Gayon nagsabi ang Panginoon mo: Iyon sa Akin ay madali at lumikha nga Ako sa iyo bago pa niyan, samantalang hindi ka dati isang bagay."
+Nagsabi \[ang anghel\]: "Gayon nagsabi ang Panginoon mo: Iyon sa Akin ay madali at lumikha nga Ako sa iyo bago pa niyan, samantalang hindi ka dati isang bagay."
 
 # 2260
 
@@ -9070,7 +9070,7 @@ Kaya lumabas siya sa mga kalipi niya mula sa dasalan saka nagpahiwatig sa kanila
 
 # 2262
 
-[Sinabi:] "O Juan, kunin mo ang kasulatan nang may lakas." Nagbigay Kami sa kanya ng paghahatol habang isang paslit pa,
+\[Sinabi:\] "O Juan, kunin mo ang kasulatan nang may lakas." Nagbigay Kami sa kanya ng paghahatol habang isang paslit pa,
 
 # 2263
 
@@ -9094,7 +9094,7 @@ Saka gumawa siya, mula sa pagbukod sa kanila, ng isang tabing, saka nagsugo Kami
 
 # 2268
 
-Nagsabi siya: "Tunay na ako ay nagpapakupkop sa Napakamaawain laban sa iyo; [lumayo ka,] kung ikaw ay isang mapangilag magkasala."
+Nagsabi siya: "Tunay na ako ay nagpapakupkop sa Napakamaawain laban sa iyo; \[lumayo ka,\] kung ikaw ay isang mapangilag magkasala."
 
 # 2269
 
@@ -9150,7 +9150,7 @@ Gumawa Siya sa akin bilang pinagpala saan man ako naroon at nagsatagubilin Siya 
 
 # 2282
 
-[Gumawa Siya sa akin] bilang nagpapakabuti sa ina ko at hindi Siya gumawa sa akin bilang mapaniil na malumbay.
+\[Gumawa Siya sa akin\] bilang nagpapakabuti sa ina ko at hindi Siya gumawa sa akin bilang mapaniil na malumbay.
 
 # 2283
 
@@ -9166,7 +9166,7 @@ Hindi nangyaring ukol kay Allāh na gumawa Siya ng anumang anak – kaluwalhatia
 
 # 2286
 
-[Nagsabi si Jesus:] "Tunay na si Allāh ay Panginoon ko at Panginoon ninyo kaya sumamba kayo sa Kanya; ito ay isang landasing tuwid."
+\[Nagsabi si Jesus:\] "Tunay na si Allāh ay Panginoon ko at Panginoon ninyo kaya sumamba kayo sa Kanya; ito ay isang landasing tuwid."
 
 # 2287
 
@@ -9190,7 +9190,7 @@ Banggitin mo sa Aklat si Abraham. Tunay na siya noon ay isang napakatapat, isang
 
 # 2292
 
-[Banggitin] noong nagsabi siya sa ama niya: "O ama ko, bakit ka sumasamba sa hindi nakaririnig, hindi nakakikita, at hindi nagdudulot sa iyo ng anuman?
+\[Banggitin\] noong nagsabi siya sa ama niya: "O ama ko, bakit ka sumasamba sa hindi nakaririnig, hindi nakakikita, at hindi nagdudulot sa iyo ng anuman?
 
 # 2293
 
@@ -9230,7 +9230,7 @@ Banggitin mo sa Aklat si Moises. Tunay na siya noon ay isang itinangi at naging 
 
 # 2302
 
-Nanawagan Kami sa kanya mula sa gilid ng bundok sa kanan [niya] at nagpalapit Kami sa kanya, na nakikipagtapatan.
+Nanawagan Kami sa kanya mula sa gilid ng bundok sa kanan \[niya\] at nagpalapit Kami sa kanya, na nakikipagtapatan.
 
 # 2303
 
@@ -9266,7 +9266,7 @@ maliban sa sinumang nagbalik-loob, sumampalataya, at gumawa ng maayos sapagkat a
 
 # 2311
 
-[Papasok sila] sa mga Hardin ng Eden na ipinangako ng Napakamaawain sa mga lingkod Niya sa Lingid. Tunay na laging ang pangako Niya ay darating.
+\[Papasok sila\] sa mga Hardin ng Eden na ipinangako ng Napakamaawain sa mga lingkod Niya sa Lingid. Tunay na laging ang pangako Niya ay darating.
 
 # 2312
 
@@ -9278,7 +9278,7 @@ Iyon ay ang Paraiso na ipamamana Namin sa kabilang sa mga lingkod Namin na nagin
 
 # 2314
 
-[Sabihin mo, O Gabriel:] "Hindi kami nagbababaan kundi ayon sa utos ng Panginoon mo. Sa Kanya ang nasa pagitan ng mga namin at ang nasa likuran namin at ang nasa pagitan niyon. Laging ang Panginoon mo ay hindi malilimutin.
+\[Sabihin mo, O Gabriel:\] "Hindi kami nagbababaan kundi ayon sa utos ng Panginoon mo. Sa Kanya ang nasa pagitan ng mga namin at ang nasa likuran namin at ang nasa pagitan niyon. Laging ang Panginoon mo ay hindi malilimutin.
 
 # 2315
 
@@ -9314,7 +9314,7 @@ Pagkatapos magliligtas Kami sa mga nangilag magkasala at mag-iiwan Kami sa mga t
 
 # 2323
 
-Kapag binibigkas sa kanila ang mga tanda Namin bilang mga malinaw na patunay ay nagsasabi ang mga tumangging sumampalataya sa mga sumampalataya: "Alin sa dalawang pangkat [natin] ang higit na mabuti sa katayuan at ang higit na maganda sa kapisanan?"
+Kapag binibigkas sa kanila ang mga tanda Namin bilang mga malinaw na patunay ay nagsasabi ang mga tumangging sumampalataya sa mga sumampalataya: "Alin sa dalawang pangkat \[natin\] ang higit na mabuti sa katayuan at ang higit na maganda sa kapisanan?"
 
 # 2324
 
@@ -9322,7 +9322,7 @@ Kay rami ng ipinahamak Namin bago nila na salinlahi na higit na maganda sa ari-a
 
 # 2325
 
-Sabihin mo: "Ang sinumang nasa kaligawan ay magpapalawig para sa kanya ang Napakamaawain ng isang pagpapalawig hanggang sa kapag nakita nila ang ipinangangako sa kanila na maaaring ang pagdurusa at maaaring ang Oras [ng pagkabuhay] kaya makaaalam sila sa kung sino ang higit na masama sa kalagayan at higit na mahina sa hukbo."
+Sabihin mo: "Ang sinumang nasa kaligawan ay magpapalawig para sa kanya ang Napakamaawain ng isang pagpapalawig hanggang sa kapag nakita nila ang ipinangangako sa kanila na maaaring ang pagdurusa at maaaring ang Oras \[ng pagkabuhay\] kaya makaaalam sila sa kung sino ang higit na masama sa kalagayan at higit na mahina sa hukbo."
 
 # 2326
 
@@ -9394,7 +9394,7 @@ Hindi nararapat para sa Napakamaawain na gumawa ng anak.
 
 # 2343
 
-Walang [magagawa] ang bawat sinumang nasa mga langit at lupa kundi pupunta sa Napakamaawain bilang alipin.
+Walang \[magagawa\] ang bawat sinumang nasa mga langit at lupa kundi pupunta sa Napakamaawain bilang alipin.
 
 # 2344
 
@@ -9430,7 +9430,7 @@ malibang bilang pagpapaalaala para sa sinumang natatakot,
 
 # 2352
 
-isang pagbababa [ng kasi] mula sa lumikha ng lupa at mga langit na pinakamatataas.
+isang pagbababa \[ng kasi\] mula sa lumikha ng lupa at mga langit na pinakamatataas.
 
 # 2353
 
@@ -9478,7 +9478,7 @@ Tunay na ang Huling Sandali ay darating. Halos ako ay magkubli nito upang gantim
 
 # 2364
 
-Kaya huwag ngang bumalakid sa iyo palayo roon ang sinumang hindi sumasampalataya roon at sumunod sa pithaya niya para [hindi] ka mapahamak.
+Kaya huwag ngang bumalakid sa iyo palayo roon ang sinumang hindi sumasampalataya roon at sumunod sa pithaya niya para \[hindi\] ka mapahamak.
 
 # 2365
 
@@ -9486,7 +9486,7 @@ Ano yaong nasa kanang kamay mo, O Moises?"
 
 # 2366
 
-Nagsabi ito: "Ito ay tungkod ko; sumasandal ako rito at nagpapalagas ako [ng mga dahon] sa pamamagitan nito para sa mga tupa ko. Mayroon ako ritong mga pinaggagamitang iba pa."
+Nagsabi ito: "Ito ay tungkod ko; sumasandal ako rito at nagpapalagas ako \[ng mga dahon\] sa pamamagitan nito para sa mga tupa ko. Mayroon ako ritong mga pinaggagamitang iba pa."
 
 # 2367
 
@@ -9570,11 +9570,11 @@ noong nagkasi Kami sa ina mo ng ikinakasi,
 
 # 2387
 
-na [nagsasabi]: 'Maghagis ka sa kanya sa baul saka maghagis ka nito sa ilog saka magtapon nito ang ilog sa pampang, kukunin siya ng isang kaaway para sa Akin at isang kaaway para sa kanya.' Nag-ukol Ako sa iyo ng isang pag-ibig mula sa Akin at upang mahubog ka sa ilalim ng mata Ko."
+na \[nagsasabi\]: 'Maghagis ka sa kanya sa baul saka maghagis ka nito sa ilog saka magtapon nito ang ilog sa pampang, kukunin siya ng isang kaaway para sa Akin at isang kaaway para sa kanya.' Nag-ukol Ako sa iyo ng isang pag-ibig mula sa Akin at upang mahubog ka sa ilalim ng mata Ko."
 
 # 2388
 
-[Nagmagandang-loob sa iyo] noong pumunta ang babaing kapatid mo saka nagsabi: "Gagabay po kaya ako sa inyo sa mag-aaruga sa kanya?" Kaya nagpabalik Kami sa iyo sa ina mo upang magalak ang mata nito at hindi ito malungkot. Pumatay ka ng isang tao ngunit nagligtas Kami sa iyo mula sa dalamhati at sumubok Kami sa iyo ng isang pagsubok saka namalagi ka ng mga taon sa mga mamamayan ng Madyan. Pagkatapos dumating ka [rito] sa takdang [panahon], O Moises.
+\[Nagmagandang-loob sa iyo\] noong pumunta ang babaing kapatid mo saka nagsabi: "Gagabay po kaya ako sa inyo sa mag-aaruga sa kanya?" Kaya nagpabalik Kami sa iyo sa ina mo upang magalak ang mata nito at hindi ito malungkot. Pumatay ka ng isang tao ngunit nagligtas Kami sa iyo mula sa dalamhati at sumubok Kami sa iyo ng isang pagsubok saka namalagi ka ng mga taon sa mga mamamayan ng Madyan. Pagkatapos dumating ka \[rito\] sa takdang \[panahon\], O Moises.
 
 # 2389
 
@@ -9594,7 +9594,7 @@ Saka magsabi kayong dalawa sa kanya ng isang pagsasabing banayad nang sa gayon s
 
 # 2393
 
-Nagsabi silang dalawa: "Panginoon namin, tunay na kami ay nangangamba na magdali-dali siya [sa pagpaparusa] sa amin o magmalabis siya."
+Nagsabi silang dalawa: "Panginoon namin, tunay na kami ay nangangamba na magdali-dali siya \[sa pagpaparusa\] sa amin o magmalabis siya."
 
 # 2394
 
@@ -9626,7 +9626,7 @@ Nagsabi siya: "Ang kaalaman doon ay nasa ganang Panginoon ko sa isang talaan. Hi
 
 # 2401
 
-[Siya] ang gumawa para sa inyo ng lupa bilang nakalatag, nagsingit para sa inyo rito ng mga landas, at nagpababa mula sa langit ng tubig." Kaya nagpalabas sa pamamagitan nito ng mga kaurian ng halamang sarisari.
+\[Siya\] ang gumawa para sa inyo ng lupa bilang nakalatag, nagsingit para sa inyo rito ng mga landas, at nagpababa mula sa langit ng tubig." Kaya nagpalabas sa pamamagitan nito ng mga kaurian ng halamang sarisari.
 
 # 2402
 
@@ -9698,11 +9698,11 @@ Kaya napahandusay ang mga manggagaway na mga nakapatirapa. Nagsabi sila: "Sumamp
 
 # 2419
 
-Nagsabi ito: "Naniwala kayo sa kanya bago ako magpahintulot sa inyo. Tunay na siya ay talagang ang pasimuno ninyo na nagturo sa inyo ng panggagaway. Kaya talagang magpuputul-putol nga ako ng mga kamay ninyo at mga paa ninyo nang kabilaan, talagang magbibitin nga ako sa inyo sa mga puno ng mga datiles, at talagang makaaalam nga kayo kung alin sa atin ang higit na matindi sa [pagdudulot ng] pagdurusa at higit na nananatili."
+Nagsabi ito: "Naniwala kayo sa kanya bago ako magpahintulot sa inyo. Tunay na siya ay talagang ang pasimuno ninyo na nagturo sa inyo ng panggagaway. Kaya talagang magpuputul-putol nga ako ng mga kamay ninyo at mga paa ninyo nang kabilaan, talagang magbibitin nga ako sa inyo sa mga puno ng mga datiles, at talagang makaaalam nga kayo kung alin sa atin ang higit na matindi sa \[pagdudulot ng\] pagdurusa at higit na nananatili."
 
 # 2420
 
-Nagsabi sila: "Hindi kami magtatangi sa iyo higit sa dumating sa amin na mga malinaw na patunay at [higit] sa lumalang sa amin. Kaya magtadhana ka ng anumang ikaw ay magtatadhana. Nagtatadhana ka lamang sa buhay na ito sa Mundo.
+Nagsabi sila: "Hindi kami magtatangi sa iyo higit sa dumating sa amin na mga malinaw na patunay at \[higit\] sa lumalang sa amin. Kaya magtadhana ka ng anumang ikaw ay magtatadhana. Nagtatadhana ka lamang sa buhay na ito sa Mundo.
 
 # 2421
 
@@ -9722,7 +9722,7 @@ ang mga hardin ng Eden na dumadaloy mula sa ilalim ng mga ito ang mga ilog bilan
 
 # 2425
 
-Talaga ngang nagkasi Kami kay Moises, na [nagsasabi]: "Maglakbay ka sa gabi kasama ng mga lingkod ko saka gumawa ka para sa kanila ng isang tuyong daan sa dagat; huwag kang mangamba sa pagkaabot at huwag kang matakot."
+Talaga ngang nagkasi Kami kay Moises, na \[nagsasabi\]: "Maglakbay ka sa gabi kasama ng mga lingkod ko saka gumawa ka para sa kanila ng isang tuyong daan sa dagat; huwag kang mangamba sa pagkaabot at huwag kang matakot."
 
 # 2426
 
@@ -9738,7 +9738,7 @@ O mga anak ni Israel, nagligtas nga Kami sa inyo mula sa kaaway ninyo, nakipagti
 
 # 2429
 
-Kumain kayo mula sa mga kaaya-aya na itinustos Namin sa inyo at huwag kayong magmalabis dito para [hindi] dumapo sa inyo ang galit Ko. Ang sinumang dumapo sa kanya ang galit Ko ay napariwara nga.
+Kumain kayo mula sa mga kaaya-aya na itinustos Namin sa inyo at huwag kayong magmalabis dito para \[hindi\] dumapo sa inyo ang galit Ko. Ang sinumang dumapo sa kanya ang galit Ko ay napariwara nga.
 
 # 2430
 
@@ -9762,7 +9762,7 @@ Kaya bumalik si Moises sa mga tao niya na galit na naghihinagpis. Nagsabi ito: "
 
 # 2435
 
-Nagsabi sila: "Hindi kami sumira sa ipinangako sa iyo dahil sa pagkukusa namin subalit kami ay pinagdala ng mga pasanin mula sa mga gayak ng mga tao kaya itinapon namin ang mga ito [sa isang hukay] saka gayon pumukol ang Sāmirīy."
+Nagsabi sila: "Hindi kami sumira sa ipinangako sa iyo dahil sa pagkukusa namin subalit kami ay pinagdala ng mga pasanin mula sa mga gayak ng mga tao kaya itinapon namin ang mga ito \[sa isang hukay\] saka gayon pumukol ang Sāmirīy."
 
 # 2436
 
@@ -9822,11 +9822,11 @@ bilang mga mananatili roon. Kay sagwa ito sa para sa kanila sa Araw ng Pagbangon
 
 # 2450
 
-Sa Araw na iihip sa tambuli at kakalap Kami sa mga salarin sa Araw na iyon habang [may matang] bughaw.
+Sa Araw na iihip sa tambuli at kakalap Kami sa mga salarin sa Araw na iyon habang \[may matang\] bughaw.
 
 # 2451
 
-Magbubulungan sila sa gitna nila: "Hindi kayo namalagi kundi nang sampung [gabi]."
+Magbubulungan sila sa gitna nila: "Hindi kayo namalagi kundi nang sampung \[gabi\]."
 
 # 2452
 
@@ -9878,7 +9878,7 @@ Talaga ngang naghabilin Kami kay Adan bago pa niyan ngunit nakalimot siya at hin
 
 # 2464
 
-[Banggitin] noong nagsabi Kami sa mga anghel: "Magpatirapa kayo kay Adan," kaya nagpatirapa naman sila maliban si Satanas; tumanggi ito.
+\[Banggitin\] noong nagsabi Kami sa mga anghel: "Magpatirapa kayo kay Adan," kaya nagpatirapa naman sila maliban si Satanas; tumanggi ito.
 
 # 2465
 
@@ -9930,7 +9930,7 @@ Kaya hindi ba napaglinawan para sa kanila kung ilan ang ipinahamak Namin bago ni
 
 # 2477
 
-Kung hindi dahil sa isang salitang nauna mula sa Panginoon mo, talaga sanang ito ay naging kinakailangan, at [kung hindi rin dahil sa] isang taning na tinukoy.
+Kung hindi dahil sa isang salitang nauna mula sa Panginoon mo, talaga sanang ito ay naging kinakailangan, at \[kung hindi rin dahil sa\] isang taning na tinukoy.
 
 # 2478
 
@@ -9942,7 +9942,7 @@ Huwag ka ngang magpaabot ng mga mata tungo sa ipinatamasa Namin sa mga kaurian k
 
 # 2480
 
-Mag-utos ka sa mag-anak mo ng pagdarasal at magpakamatiisin ka rito. Hindi Kami humihingi sa iyo ng isang panustos; Kami ay tumutustos sa iyo. Ang [pinapupurihang] kahihinatnan ay ukol sa [mga may] pangingilag magkasala.
+Mag-utos ka sa mag-anak mo ng pagdarasal at magpakamatiisin ka rito. Hindi Kami humihingi sa iyo ng isang panustos; Kami ay tumutustos sa iyo. Ang \[pinapupurihang\] kahihinatnan ay ukol sa \[mga may\] pangingilag magkasala.
 
 # 2481
 
@@ -9954,7 +9954,7 @@ Kung sakaling Kami ay nagpahamak sa kanila sa pamamagitan ng isang pagdurusa bag
 
 # 2483
 
-Sabihin mo: "Bawat [isa] ay nag-aantabay; kaya mag-antabay kayo sapagkat makaaalam kayo kung sino ang mga kasamahan sa landasing matuwid at kung sino ang napatnubayan."
+Sabihin mo: "Bawat \[isa\] ay nag-aantabay; kaya mag-antabay kayo sapagkat makaaalam kayo kung sino ang mga kasamahan sa landasing matuwid at kung sino ang napatnubayan."
 
 # 2484
 
@@ -9974,7 +9974,7 @@ Nagsabi siya: "Ang Panginoon ko ay nakaaalam sa sinasabi sa langit at lupa at Si
 
 # 2488
 
-Bagkus nagsabi sila: "Mga pagkakalahuk-lahok ng maling panaginip [ito]; bagkus ginawa-gawa niya ito; bagkus siya ay isang manunula. Kaya magdala siya sa atin ng isang tanda kung paanong isinugo ang mga sinauna."
+Bagkus nagsabi sila: "Mga pagkakalahuk-lahok ng maling panaginip \[ito\]; bagkus ginawa-gawa niya ito; bagkus siya ay isang manunula. Kaya magdala siya sa atin ng isang tanda kung paanong isinugo ang mga sinauna."
 
 # 2489
 
@@ -9986,7 +9986,7 @@ Hindi Kami nagsugo bago mo kundi ng mga lalaking nagkakasi Kami sa kanila. Kaya 
 
 # 2491
 
-Hindi Kami gumawa sa kanila bilang [mga may] katawang hindi kumakain ng pagkain at hindi sila naging mga pinanatiling-buhay.
+Hindi Kami gumawa sa kanila bilang \[mga may\] katawang hindi kumakain ng pagkain at hindi sila naging mga pinanatiling-buhay.
 
 # 2492
 
@@ -10006,7 +10006,7 @@ Kaya noong nakadama sila ng parusa Namin, biglang sila mula roon ay tumatakas.
 
 # 2496
 
-[Sinabi:] "Huwag kayong tumakbo at bumalik kayo sa pinaluho kayo roon at sa mga tirahan ninyo nang sa gayon kayo ay tatanungin."
+\[Sinabi:\] "Huwag kayong tumakbo at bumalik kayo sa pinaluho kayo roon at sa mga tirahan ninyo nang sa gayon kayo ay tatanungin."
 
 # 2497
 
@@ -10022,7 +10022,7 @@ Hindi Kami lumikha ng langit at lupa at anumang nasa pagitan ng dalawang ito bil
 
 # 2500
 
-Kung sakaling nagnais Kami na gumawa ng isang paglilibang ay talaga sanang gumawa Kami nito mula sa nasa Amin, kung Kami ay gagawa [nito].
+Kung sakaling nagnais Kami na gumawa ng isang paglilibang ay talaga sanang gumawa Kami nito mula sa nasa Amin, kung Kami ay gagawa \[nito\].
 
 # 2501
 
@@ -10038,11 +10038,11 @@ Nagluluwalhati sila sa araw at gabi; hindi sila nananamlay.
 
 # 2504
 
-O gumawa ba sila ng mga diyos mula sa lupa, na ang mga ito ay nagpapabuhay [ng mga patay]?
+O gumawa ba sila ng mga diyos mula sa lupa, na ang mga ito ay nagpapabuhay \[ng mga patay\]?
 
 # 2505
 
-Kung sakaling sa mga [langit at lupa na] ito ay may mga diyos maliban kay Allāh, talaga sanang nasira ang mga ito. Kaya kaluwalhatian kay Allāh, ang Panginoon ng Trono, higit sa mga inilalarawan nila.
+Kung sakaling sa mga \[langit at lupa na\] ito ay may mga diyos maliban kay Allāh, talaga sanang nasira ang mga ito. Kaya kaluwalhatian kay Allāh, ang Panginoon ng Trono, higit sa mga inilalarawan nila.
 
 # 2506
 
@@ -10058,7 +10058,7 @@ Hindi Kami nagsugo bago mo pa ng anumang sugo malibang nagkakasi Kami sa kanya n
 
 # 2509
 
-Nagsabi sila: "Gumawa ang Napakamaawain ng anak." Kaluwalhatian sa Kanya; bagkus mga lingkod na pinarangalan [sila].
+Nagsabi sila: "Gumawa ang Napakamaawain ng anak." Kaluwalhatian sa Kanya; bagkus mga lingkod na pinarangalan \[sila\].
 
 # 2510
 
@@ -10078,7 +10078,7 @@ Hindi ba nakaalam ang mga tumangging sumampalataya na ang mga langit at ang lupa
 
 # 2514
 
-Gumawa Kami sa lupa ng mga matatag na bundok upang [hindi] gumalaw-galaw ang mga ito sa kanila at gumawa Kami rito ng mga daanang maluwang bilang mga landas nang sa gayon sila ay mapapatnubayan.
+Gumawa Kami sa lupa ng mga matatag na bundok upang \[hindi\] gumalaw-galaw ang mga ito sa kanila at gumawa Kami rito ng mga daanang maluwang bilang mga landas nang sa gayon sila ay mapapatnubayan.
 
 # 2515
 
@@ -10098,7 +10098,7 @@ Bawat kaluluwa ay lalasap ng kamatayan. Susubok Kami sa inyo sa pamamagitan ng k
 
 # 2519
 
-Kapag nakita ka ng mga tumangging sumampalataya ay wala silang ginagawa sa iyo kundi isang pangungutya, [na nagsasabi]: "Ito ba ang bumabanggit sa mga diyos ninyo?" samantalang sila, sa pagbanggit sa Napakamaawain, sila ay mga tagatangging sumampalataya.
+Kapag nakita ka ng mga tumangging sumampalataya ay wala silang ginagawa sa iyo kundi isang pangungutya, \[na nagsasabi\]: "Ito ba ang bumabanggit sa mga diyos ninyo?" samantalang sila, sa pagbanggit sa Napakamaawain, sila ay mga tagatangging sumampalataya.
 
 # 2520
 
@@ -10162,7 +10162,7 @@ Talaga ngang nagbigay Kami kay Abraham ng pagkagabay niya bago pa niyan. Laging 
 
 # 2535
 
-[Banggitin] noong nagsabi siya sa ama niya at mga kababayan niya: "Ano ang mga istatuwang ito na kayo sa mga ito ay mga namimintuho?"
+\[Banggitin\] noong nagsabi siya sa ama niya at mga kababayan niya: "Ano ang mga istatuwang ito na kayo sa mga ito ay mga namimintuho?"
 
 # 2536
 
@@ -10214,7 +10214,7 @@ Kaya bumalik sila sa mga sarili nila saka nagsabi sila: "Tunay na kayo ay ang mg
 
 # 2548
 
-Pagkatapos nanumbalik sila sa [katigasan ng] mga ulo nila, [na nagsasabi]: "Talaga ngang nalaman mong ang mga ito ay hindi nakabibigkas."
+Pagkatapos nanumbalik sila sa \[katigasan ng\] mga ulo nila, \[na nagsasabi\]: "Talaga ngang nalaman mong ang mga ito ay hindi nakabibigkas."
 
 # 2549
 
@@ -10258,7 +10258,7 @@ Nagpapasok Kami sa kanya sa awa Namin. Tunay na siya ay kabilang sa mga maayos.
 
 # 2559
 
-[Banggitin mo] si Noe noong nanawagan siya bago pa niyan kaya tumugon Kami sa kanya saka nagligtas Kami sa kanya at sa mag-anak niya mula sa dalamhating sukdulan.
+\[Banggitin mo\] si Noe noong nanawagan siya bago pa niyan kaya tumugon Kami sa kanya saka nagligtas Kami sa kanya at sa mag-anak niya mula sa dalamhating sukdulan.
 
 # 2560
 
@@ -10266,11 +10266,11 @@ Nag-adya Kami sa kanya mula sa mga taong nagpasinungaling sa mga tanda Namin. Tu
 
 # 2561
 
-[Banggitin mo] sina David at Solomon noong humahatol silang dalawa kaugnay sa sakahan noong naglipana roon ang mga tupa ng mga tao [sa gabi] at laging Kami para sa paghahatol nila ay tagasaksi.
+\[Banggitin mo\] sina David at Solomon noong humahatol silang dalawa kaugnay sa sakahan noong naglipana roon ang mga tupa ng mga tao \[sa gabi\] at laging Kami para sa paghahatol nila ay tagasaksi.
 
 # 2562
 
-Nagpaintindi Kami nito kay Solomon. Sa bawat isa ay nagbigay Kami ng isang paghahatol at isang kaalaman. Pinagsilbi Namin kasama kay David ang mga bundok, na nagluluwalhati, at ang mga ibon. Kami dati ay gumagawa [niyon].
+Nagpaintindi Kami nito kay Solomon. Sa bawat isa ay nagbigay Kami ng isang paghahatol at isang kaalaman. Pinagsilbi Namin kasama kay David ang mga bundok, na nagluluwalhati, at ang mga ibon. Kami dati ay gumagawa \[niyon\].
 
 # 2563
 
@@ -10278,7 +10278,7 @@ Nagturo Kami sa kanya ng pagyari ng mga kutamaya para sa inyo upang magsanggalan
 
 # 2564
 
-[Pinaglingkod] para kay Solomon ang hangin habang umiihip, na dumadaloy ayon sa utos niya tungo sa lupaing nagpala Kami roon. Laging Kami sa bawat bagay ay nakaaalam.
+\[Pinaglingkod\] para kay Solomon ang hangin habang umiihip, na dumadaloy ayon sa utos niya tungo sa lupaing nagpala Kami roon. Laging Kami sa bawat bagay ay nakaaalam.
 
 # 2565
 
@@ -10286,7 +10286,7 @@ Mayroon sa mga demonyo na sumisisid para sa kanya at gumagawa ng gawain bukod pa
 
 # 2566
 
-[Banggitin mo] si Job noong nanawagan siya sa Panginoon niya: "Tunay na ako ay nasaling ng kapinsalaan, at Ikaw ay ang pinakamaawain ng mga naaawa."
+\[Banggitin mo\] si Job noong nanawagan siya sa Panginoon niya: "Tunay na ako ay nasaling ng kapinsalaan, at Ikaw ay ang pinakamaawain ng mga naaawa."
 
 # 2567
 
@@ -10294,7 +10294,7 @@ Kaya tumugon Kami sa kanya saka pumawi Kami sa anumang taglay niya na kapinsalaa
 
 # 2568
 
-[Banggitin mo] sina Ismael, Enoc, at Dhulkifl. Lahat ay kabilang sa mga tagapagtiis.
+\[Banggitin mo\] sina Ismael, Enoc, at Dhulkifl. Lahat ay kabilang sa mga tagapagtiis.
 
 # 2569
 
@@ -10302,7 +10302,7 @@ Nagpapasok Kami sa kanila sa awa Namin. Tunay na sila ay kabilang sa mga maayos.
 
 # 2570
 
-[Banggitin mo si Jonas] na may isda noong umalis siya habang may kinagagalitan saka nagpalagay siya na hindi Kami makakakaya sa kanya, ngunit nanawagan siya sa loob ng mga kadiliman, na [nagsasabi]: "Walang Diyos kundi Ikaw. Kaluwalhatian sa Iyo! Tunay na ako dati ay kabilang sa mga tagalabag sa katarungan."
+\[Banggitin mo si Jonas\] na may isda noong umalis siya habang may kinagagalitan saka nagpalagay siya na hindi Kami makakakaya sa kanya, ngunit nanawagan siya sa loob ng mga kadiliman, na \[nagsasabi\]: "Walang Diyos kundi Ikaw. Kaluwalhatian sa Iyo! Tunay na ako dati ay kabilang sa mga tagalabag sa katarungan."
 
 # 2571
 
@@ -10310,7 +10310,7 @@ Kaya tumugon Kami sa kanya. Iniligtas Namin siya mula sa hapis. Gayon Kami nagli
 
 # 2572
 
-[Banggitin mo] si Zacarias noong nanawagan siya sa Panginoon niya: "Panginoon ko, huwag Mo akong hayaang mag-isa. Ikaw ay ang pinakamabuti sa mga tagapagpamana."
+\[Banggitin mo\] si Zacarias noong nanawagan siya sa Panginoon niya: "Panginoon ko, huwag Mo akong hayaang mag-isa. Ikaw ay ang pinakamabuti sa mga tagapagpamana."
 
 # 2573
 
@@ -10318,7 +10318,7 @@ Kaya tumugon Kami sa kanya. Ipinagkaloob Namin sa kanya si Juan at pinagaling Na
 
 # 2574
 
-[Banggitin mo] ang [babaing] nag-ingat sa kalinisang-puri niya kaya umihip Kami sa kanya mula sa espiritu Namin at gumawa Kami sa kanya at anak niya bilang tanda para sa mga nilalang.
+\[Banggitin mo\] ang \[babaing\] nag-ingat sa kalinisang-puri niya kaya umihip Kami sa kanya mula sa espiritu Namin at gumawa Kami sa kanya at anak niya bilang tanda para sa mga nilalang.
 
 # 2575
 
@@ -10342,7 +10342,7 @@ hanggang sa kapag binuksan ang Gog at ang Magog habang sila mula sa bawat bakulo
 
 # 2580
 
-at nalapit ang pangakong totoo ay biglang nandidilat ang mga paningin ng mga tumangging sumampalataya, [na nagsasabi]: "O kapighatian sa amin! Kami nga noon ay nasa isang pagkalingat mula rito; bagkus Kami noon ay mga tagalabag sa katarungan."
+at nalapit ang pangakong totoo ay biglang nandidilat ang mga paningin ng mga tumangging sumampalataya, \[na nagsasabi\]: "O kapighatian sa amin! Kami nga noon ay nasa isang pagkalingat mula rito; bagkus Kami noon ay mga tagalabag sa katarungan."
 
 # 2581
 
@@ -10366,7 +10366,7 @@ Hindi sila makaririnig ng lagaslas nito habang sila sa ninanasa ng mga sarili ni
 
 # 2586
 
-Hindi magpapalungkot sa kanila ang pagkahindik na pinakamalaki at tatanggap sa kanila ang mga anghel, [na nagsasabi]: "Ito ay ang Araw ninyo na kayo noon ay pinangangakuan,
+Hindi magpapalungkot sa kanila ang pagkahindik na pinakamalaki at tatanggap sa kanila ang mga anghel, \[na nagsasabi\]: "Ito ay ang Araw ninyo na kayo noon ay pinangangakuan,
 
 # 2587
 
@@ -10378,7 +10378,7 @@ Talaga ngang nagsulat Kami sa Salmo noong matapos ng pagbanggit na ang lupa ay m
 
 # 2589
 
-Tunay na sa [Qur’ān na] ito ay talagang may pagpapaabot para sa mga taong tagasamba.
+Tunay na sa \[Qur’ān na\] ito ay talagang may pagpapaabot para sa mga taong tagasamba.
 
 # 2590
 
@@ -10402,7 +10402,7 @@ Hindi ako nakaaalam; baka ito ay isang pagsubok para sa inyo at isang natatamasa
 
 # 2595
 
-Nagsabi [ang Sugo]: "Panginoon ko, humatol Ka ayon sa katotohanan." Ang Panginoon namin, ang Napakamaawain, ay ang Pinatutulong laban sa inilalarawan ninyo."
+Nagsabi \[ang Sugo\]: "Panginoon ko, humatol Ka ayon sa katotohanan." Ang Panginoon namin, ang Napakamaawain, ay ang Pinatutulong laban sa inilalarawan ninyo."
 
 # 2596
 
@@ -10410,7 +10410,7 @@ O mga tao, mangilag kayong magkasala sa Panginoon ninyo! Tunay na ang pagyanig n
 
 # 2597
 
-Sa Araw na makakikita kayo rito, malilingat ang bawat tagapasuso sa pinasuso nito, maglalaglag ang bawat may dala [sa sinapupunan] ng dinadala nito, at makakikita ka sa mga tao na mga lasing samantalang hindi sila lasing, subalit ang pagdurusang dulot ni Allāh ay matindi.
+Sa Araw na makakikita kayo rito, malilingat ang bawat tagapasuso sa pinasuso nito, maglalaglag ang bawat may dala \[sa sinapupunan\] ng dinadala nito, at makakikita ka sa mga tao na mga lasing samantalang hindi sila lasing, subalit ang pagdurusang dulot ni Allāh ay matindi.
 
 # 2598
 
@@ -10438,7 +10438,7 @@ May mga tao na nakikipagtalo hinggil kay Allāh nang walang kaalaman ni patnubay
 
 # 2604
 
-Nagbabaluktot ng leeg niya [sa kapalaluan] upang magligaw palayo sa landas ni Allāh, ukol sa kanya sa Mundo ay isang kahihiyan. Magpapalasap Kami sa kanya sa Araw ng Pagbangon ng pagdurusa sa pagsunog.
+Nagbabaluktot ng leeg niya \[sa kapalaluan\] upang magligaw palayo sa landas ni Allāh, ukol sa kanya sa Mundo ay isang kahihiyan. Magpapalasap Kami sa kanya sa Araw ng Pagbangon ng pagdurusa sa pagsunog.
 
 # 2605
 
@@ -10446,7 +10446,7 @@ Iyon ay dahil sa ipinauna ng mga kamay mo at na si Allāh ay hindi palalabag sa 
 
 # 2606
 
-Mayroon sa mga tao na sumasamba kay Allāh sa isang gilid. Kaya kapag may tumama sa kanya na isang mabuti, napapanatag siya rito; at kapag may tumama sa kanya na isang pagsubok, umuuwi siya sa [dating] mukha niya. Nalugi siya sa Mundo at Kabilang-buhay. Iyon ay ang pagkaluging malinaw.
+Mayroon sa mga tao na sumasamba kay Allāh sa isang gilid. Kaya kapag may tumama sa kanya na isang mabuti, napapanatag siya rito; at kapag may tumama sa kanya na isang pagsubok, umuuwi siya sa \[dating\] mukha niya. Nalugi siya sa Mundo at Kabilang-buhay. Iyon ay ang pagkaluging malinaw.
 
 # 2607
 
@@ -10462,15 +10462,15 @@ Tunay na si Allāh ay magpapapasok sa mga sumampalataya at gumawa ng mga maayos 
 
 # 2610
 
-Ang sinumang nagpapalagay na hindi mag-aadya si Allāh [sa Propeta] sa Mundo at Kabilang-buhay ay magpaabot siya ng isang tali sa bubong. Pagkatapos putulin niya [ito] saka tumingin siya: mag-aalis nga kaya ang pakana niya ng anumang nagpapangitngit [sa kanya]?
+Ang sinumang nagpapalagay na hindi mag-aadya si Allāh \[sa Propeta\] sa Mundo at Kabilang-buhay ay magpaabot siya ng isang tali sa bubong. Pagkatapos putulin niya \[ito\] saka tumingin siya: mag-aalis nga kaya ang pakana niya ng anumang nagpapangitngit \[sa kanya\]?
 
 # 2611
 
-Gayon nagpababa nito bilang mga talata na malilinaw na patunay, at na [dahil] si Allāh ay nagpapatnubay sa sinumang ninanais Niya.
+Gayon nagpababa nito bilang mga talata na malilinaw na patunay, at na \[dahil\] si Allāh ay nagpapatnubay sa sinumang ninanais Niya.
 
 # 2612
 
-Tunay na ang mga sumampalataya, ang mga nagpakahudyo, ang mga Sabeano, ang mga Kristiyano, ang mga Mago, at ang mga nagtambal [kay Allāh], tunay na si Allāh ay magbubukod sa pagitan nila sa Araw ng Pagbangon. Tunay na si Allāh sa bawat bagay ay Saksi.
+Tunay na ang mga sumampalataya, ang mga nagpakahudyo, ang mga Sabeano, ang mga Kristiyano, ang mga Mago, at ang mga nagtambal \[kay Allāh\], tunay na si Allāh ay magbubukod sa pagitan nila sa Araw ng Pagbangon. Tunay na si Allāh sa bawat bagay ay Saksi.
 
 # 2613
 
@@ -10486,11 +10486,11 @@ Malulusaw sa pamamagitan nito ang nasa mga tiyan nila at ang mga balat.
 
 # 2616
 
-Para [sa pagpalo] sa kanila ay mga pambambo yari sa bakal.
+Para \[sa pagpalo\] sa kanila ay mga pambambo yari sa bakal.
 
 # 2617
 
-Sa tuwing magnanais sila na lumabas mula roon dahil sa pighati ay panunumbalikin sila roon at [sasabihin]: "Lasapin ninyo ang pagdurusa ng pagsusunog."
+Sa tuwing magnanais sila na lumabas mula roon dahil sa pighati ay panunumbalikin sila roon at \[sasabihin\]: "Lasapin ninyo ang pagdurusa ng pagsusunog."
 
 # 2618
 
@@ -10506,7 +10506,7 @@ Tunay na ang mga tumangging sumampalataya at sumagabal sa landas ni Allāh at Ma
 
 # 2621
 
-[Banggitin] noong nagtalaga Kami para kay Abraham ng pook ng Bahay, na [nagsasabi]: "Huwag kang magtambal sa Akin ng anuman at magdalisay ka ng Bahay Ko para sa mga pumapalibot, mga tumatayo [sa pagdarasal], at mga tagayukod na nagpapatirapa.
+\[Banggitin\] noong nagtalaga Kami para kay Abraham ng pook ng Bahay, na \[nagsasabi\]: "Huwag kang magtambal sa Akin ng anuman at magdalisay ka ng Bahay Ko para sa mga pumapalibot, mga tumatayo \[sa pagdarasal\], at mga tagayukod na nagpapatirapa.
 
 # 2622
 
@@ -10522,7 +10522,7 @@ Pagkatapos, tumapos sila ng mga ritwal nila, tumupad sila ng mga panata nila, at
 
 # 2625
 
-Iyon [ang kautusan]; at ang sinumang gumagalang sa mga pinakababanal ni Allāh, iyon ay higit na mabuti para sa kanya sa ganang Panginoon niya. Ipinahintulot para sa inyo ang mga hayupan maliban sa [bawal na] babanggitin sa inyo. Kaya umiwas kayo sa kasalaulaan mula sa mga diyus-diyusan at umiwas kayo sa pagsabi ng kabulaanan,
+Iyon \[ang kautusan\]; at ang sinumang gumagalang sa mga pinakababanal ni Allāh, iyon ay higit na mabuti para sa kanya sa ganang Panginoon niya. Ipinahintulot para sa inyo ang mga hayupan maliban sa \[bawal na\] babanggitin sa inyo. Kaya umiwas kayo sa kasalaulaan mula sa mga diyus-diyusan at umiwas kayo sa pagsabi ng kabulaanan,
 
 # 2626
 
@@ -10558,19 +10558,19 @@ Tunay na si Allāh ay nagtatanggol sa mga sumampalataya. Tunay na si Allāh ay h
 
 # 2634
 
-Ipinahintulot [ang pakikipaglaban] para sa mga kinakalaban dahil sila ay nilabag sa katarungan. Tunay na si Allāh sa pag-aadya sa kanila ay talagang May-kakayahan.
+Ipinahintulot \[ang pakikipaglaban\] para sa mga kinakalaban dahil sila ay nilabag sa katarungan. Tunay na si Allāh sa pag-aadya sa kanila ay talagang May-kakayahan.
 
 # 2635
 
-[Sila] ang mga pinalisan mula sa mga tahanan nila nang walang karapatan maliban na nagsabi sila: "Ang Panginoon namin ay si Allāh." Kung hindi sa pagsupil ni Allāh sa mga tao, sa iba sa kanila sa pamamagitan ng iba pa, talaga sanang may winasak na mga monasteryo, mga simbahan, mga sinagoga, at mga masjid na binabanggit sa mga ito ang pangalan ni Allāh nang madalas. Talagang mag-aadya nga si Allāh sa sinumang nag-aadya sa Kanya. Tunay na si Allāh ay talagang Malakas, Makapangyarihan.
+\[Sila\] ang mga pinalisan mula sa mga tahanan nila nang walang karapatan maliban na nagsabi sila: "Ang Panginoon namin ay si Allāh." Kung hindi sa pagsupil ni Allāh sa mga tao, sa iba sa kanila sa pamamagitan ng iba pa, talaga sanang may winasak na mga monasteryo, mga simbahan, mga sinagoga, at mga masjid na binabanggit sa mga ito ang pangalan ni Allāh nang madalas. Talagang mag-aadya nga si Allāh sa sinumang nag-aadya sa Kanya. Tunay na si Allāh ay talagang Malakas, Makapangyarihan.
 
 # 2636
 
-[Sila] ang mga kung nagbigay-kapangyarihan Kami sa kanila sa lupa ay magpapanatili ng pagdarasal, magbibigay ng zakāh, mag-uutos ng nakabubuti, at sasaway sa nakasasama. Sa kay Allāh ang [mabuting] kahihinatnan ng mga bagay.
+\[Sila\] ang mga kung nagbigay-kapangyarihan Kami sa kanila sa lupa ay magpapanatili ng pagdarasal, magbibigay ng zakāh, mag-uutos ng nakabubuti, at sasaway sa nakasasama. Sa kay Allāh ang \[mabuting\] kahihinatnan ng mga bagay.
 
 # 2637
 
-Kung nagpapasinungaling sila sa iyo ay nagpasinungaling na bago nila ang mga tao nina Noe, `Ād, at Thamūd,
+Kung nagpapasinungaling sila sa iyo ay nagpasinungaling na bago nila ang mga tao nina Noe, \`Ād, at Thamūd,
 
 # 2638
 
@@ -10582,11 +10582,11 @@ at ang mga naninirahan sa Madyan. Pinasinungalingan si Moises kaya nagpatagal Ak
 
 # 2640
 
-Kaya may ilan nang pamayanan na nagpahamak Kami nito samantalang ito ay tagalabag sa katarungan kaya ito ay nakaguho sa mga bubong na ito, [may ilan nang] balon na pinabayaan, at [may ilan nang] palasyong pinatayog.
+Kaya may ilan nang pamayanan na nagpahamak Kami nito samantalang ito ay tagalabag sa katarungan kaya ito ay nakaguho sa mga bubong na ito, \[may ilan nang\] balon na pinabayaan, at \[may ilan nang\] palasyong pinatayog.
 
 # 2641
 
-Kaya hindi ba sila naglakbay sa lupain para magkaroon sila ng mga pusong nakapag-uunawa sila sa pamamagitan ng mga ito o ng mga taingang nakaririnig sila sa pamamagitan ng mga ito? Tunay na ang mga [matang] ito ay hindi nabubulag ang mga paningin subalit nabubulag ang mga puso na nasa mga dibdib.
+Kaya hindi ba sila naglakbay sa lupain para magkaroon sila ng mga pusong nakapag-uunawa sila sa pamamagitan ng mga ito o ng mga taingang nakaririnig sila sa pamamagitan ng mga ito? Tunay na ang mga \[matang\] ito ay hindi nabubulag ang mga paningin subalit nabubulag ang mga puso na nasa mga dibdib.
 
 # 2642
 
@@ -10606,7 +10606,7 @@ Kaya ang mga sumampalataya at gumawa ng mga maayos, ukol sa kanila ay isang kapa
 
 # 2646
 
-Ang mga nagsikap sa [pagpapasinungaling] mga tanda Namin habang mga nagtatangkang magpawalang-kakayahan, ang mga iyon ay ang mga maninirahan sa Impiyerno.
+Ang mga nagsikap sa \[pagpapasinungaling\] mga tanda Namin habang mga nagtatangkang magpawalang-kakayahan, ang mga iyon ay ang mga maninirahan sa Impiyerno.
 
 # 2647
 
@@ -10614,11 +10614,11 @@ Hindi Kami nagsugo bago mo pa ng isang sugo ni isang propeta malibang kapag bumi
 
 # 2648
 
-[Iyan ay] upang gumawa Siya sa ipinupukol ng demonyo bilang pagsubok para sa mga may sakit sa mga puso nila at matigas ang mga puso nila. Tunay na ang mga tagalabag sa katarungan ay talagang nasa isang hidwaang malayo.
+\[Iyan ay\] upang gumawa Siya sa ipinupukol ng demonyo bilang pagsubok para sa mga may sakit sa mga puso nila at matigas ang mga puso nila. Tunay na ang mga tagalabag sa katarungan ay talagang nasa isang hidwaang malayo.
 
 # 2649
 
-[Iyan ay] upang makaalam ang mga binigyan ng kaalaman na ito ay ang katotohanan mula sa Panginoon mo para sumampalataya sila rito para magpakababa rito ang mga puso nila. Tunay na si Allāh ay talagang tagapagpatnubay sa mga sumampalataya tungo sa isang landasing tuwid.
+\[Iyan ay\] upang makaalam ang mga binigyan ng kaalaman na ito ay ang katotohanan mula sa Panginoon mo para sumampalataya sila rito para magpakababa rito ang mga puso nila. Tunay na si Allāh ay talagang tagapagpatnubay sa mga sumampalataya tungo sa isang landasing tuwid.
 
 # 2650
 
@@ -10714,7 +10714,7 @@ O mga sumampalataya, yumukod kayo, magpatirapa kayo, sumamba kayo sa Panginoon n
 
 # 2673
 
-Makibaka kayo alang-alang kay Allāh nang totoong pakikibaka. Siya ay humalal sa inyo at hindi Siya naglagay sa inyo sa relihiyon ng anumang pagkaasiwa, bilang kapaniwalaan ng ama ninyong si Abraham. Siya ay nagpangalan sa inyo na mga Muslim bago pa niyan at sa [Qur’ān na] ito upang ang Sugo ay maging isang saksi sa inyo at kayo ay maging mga saksi sa mga tao. Kaya magpanatili kayo ng pagdarasal, magbigay kayo ng zakāh, at magpasanggalang kayo kay Allāh. Siya ay ang Pinagpapatangkilikan ninyo! Kaya kay inam ang Pinagpapatangkilikan at kay inam ang Mapag-adya!
+Makibaka kayo alang-alang kay Allāh nang totoong pakikibaka. Siya ay humalal sa inyo at hindi Siya naglagay sa inyo sa relihiyon ng anumang pagkaasiwa, bilang kapaniwalaan ng ama ninyong si Abraham. Siya ay nagpangalan sa inyo na mga Muslim bago pa niyan at sa \[Qur’ān na\] ito upang ang Sugo ay maging isang saksi sa inyo at kayo ay maging mga saksi sa mga tao. Kaya magpanatili kayo ng pagdarasal, magbigay kayo ng zakāh, at magpasanggalang kayo kay Allāh. Siya ay ang Pinagpapatangkilikan ninyo! Kaya kay inam ang Pinagpapatangkilikan at kay inam ang Mapag-adya!
 
 # 2674
 
@@ -10782,7 +10782,7 @@ Pagkatapos tunay na kayo, sa Araw ng Pagbangon, ay bubuhayin.
 
 # 2690
 
-Talaga ngang lumikha Kami sa ibabaw ninyo ng pitong magkakapatong [na langit]. Hindi Kami, sa paglikha, naging nalilingat.
+Talaga ngang lumikha Kami sa ibabaw ninyo ng pitong magkakapatong \[na langit\]. Hindi Kami, sa paglikha, naging nalilingat.
 
 # 2691
 
@@ -10822,7 +10822,7 @@ Nagsabi siya: "Panginoon ko, mag-adya Ka sa akin dahil nagpasinungaling sila sa 
 
 # 2700
 
-Kaya nagkasi Kami sa kanya, na [nagsasabi]: "Yumari ka ng daong sa [ilalim ng] mga mata Namin at pagkasi Namin. Kaya kapag dumating ang utos Namin at sumambulat ang pugon ay magpasok ka sa loob niyon ng mula sa bawat dalawang magkapares, ng mag-anak mo – maliban sa isang nauna sa kanya ang hatol kabilang sa kanila – at huwag kang kumausap sa Akin kaugnay sa mga lumabag sa katarungan; tunay na sila ay mga malulunod.
+Kaya nagkasi Kami sa kanya, na \[nagsasabi\]: "Yumari ka ng daong sa \[ilalim ng\] mga mata Namin at pagkasi Namin. Kaya kapag dumating ang utos Namin at sumambulat ang pugon ay magpasok ka sa loob niyon ng mula sa bawat dalawang magkapares, ng mag-anak mo – maliban sa isang nauna sa kanya ang hatol kabilang sa kanila – at huwag kang kumausap sa Akin kaugnay sa mga lumabag sa katarungan; tunay na sila ay mga malulunod.
 
 # 2701
 
@@ -10842,7 +10842,7 @@ Pagkatapos nagpaluwal Kami nang matapos nila ng isang salinlahing iba pa.
 
 # 2705
 
-Saka nagsugo Kami sa kanila ng isang sugong kabilang sa kanila, na [nagsasabi]: "Sumamba kayo kay Allāh; walang ukol sa inyo na anumang Diyos na iba pa sa Kanya. Kaya hindi ba kayo mangingilag magkasala?"
+Saka nagsugo Kami sa kanila ng isang sugong kabilang sa kanila, na \[nagsasabi\]: "Sumamba kayo kay Allāh; walang ukol sa inyo na anumang Diyos na iba pa sa Kanya. Kaya hindi ba kayo mangingilag magkasala?"
 
 # 2706
 
@@ -10874,11 +10874,11 @@ Nagsabi ito: "Panginoon ko, mag-adya Ka sa akin dahil sa nagpasinungaling sila s
 
 # 2713
 
-Nagsabi Siya: "Sa kaunting [panahon], talagang sila nga ay magiging mga magsisisi."
+Nagsabi Siya: "Sa kaunting \[panahon\], talagang sila nga ay magiging mga magsisisi."
 
 # 2714
 
-Kaya dumaklot sa kanila ang hiyaw ayon sa katotohanan kaya gumawa Kami sa kanila bilang yagit. Kaya kalayuan [sa awa] ay ukol sa mga taong tagalabag sa katarungan.
+Kaya dumaklot sa kanila ang hiyaw ayon sa katotohanan kaya gumawa Kami sa kanila bilang yagit. Kaya kalayuan \[sa awa\] ay ukol sa mga taong tagalabag sa katarungan.
 
 # 2715
 
@@ -10890,7 +10890,7 @@ Hindi nauunahan ng anumang kalipunan ang taning nito at hindi sila nakapagpapaan
 
 # 2717
 
-Pagkatapos nagsugo Kami ng mga sugo Namin nang sunud-sunod. Sa tuwing dumarating sa isang kalipunan ang sugo nito ay nagpapasinungaling sila rito. Kaya nagpasunod Kami sa iba sa kanila ng iba pa at gumawa Kami sa kanila bilang mga usapan. Kaya kalayuan [sa awa] ay ukol sa mga taong hindi sumasampalataya.
+Pagkatapos nagsugo Kami ng mga sugo Namin nang sunud-sunod. Sa tuwing dumarating sa isang kalipunan ang sugo nito ay nagpapasinungaling sila rito. Kaya nagpasunod Kami sa iba sa kanila ng iba pa at gumawa Kami sa kanila bilang mga usapan. Kaya kalayuan \[sa awa\] ay ukol sa mga taong hindi sumasampalataya.
 
 # 2718
 
@@ -10938,7 +10938,7 @@ Nag-aakala ba sila na ang inaayuda Namin sa kanila na yaman at mga anak
 
 # 2729
 
-ay [dahil] nagmamabilis Kami para sa kanila sa mga mabuting bagay? Bagkus hindi sila nakadarama?
+ay \[dahil\] nagmamabilis Kami para sa kanila sa mga mabuting bagay? Bagkus hindi sila nakadarama?
 
 # 2730
 
@@ -10958,7 +10958,7 @@ na nagbibigay ng ibinigay nila habang ang mga puso nila ay nasisindak na sila sa
 
 # 2734
 
-ang mga iyon ay nagmamabilis sa mga mabuting bagay, at sila sa mga ito ay nauuna [sa iba].
+ang mga iyon ay nagmamabilis sa mga mabuting bagay, at sila sa mga ito ay nauuna \[sa iba\].
 
 # 2735
 
@@ -10966,7 +10966,7 @@ Hindi Kami nag-aatang sa isang kaluluwa malibang ayon sa kaya nito. Mayroon Kami
 
 # 2736
 
-Bagkus ang mga puso nila ay nasa isang kalituhan rito, at mayroon silang mga gawang [masama] bukod pa roon na sila ay gumagawa ng mga ito.
+Bagkus ang mga puso nila ay nasa isang kalituhan rito, at mayroon silang mga gawang \[masama\] bukod pa roon na sila ay gumagawa ng mga ito.
 
 # 2737
 
@@ -10986,7 +10986,7 @@ habang mga nagmamalaki hinggil dito samantalang nagpupuyat habang namimintas sil
 
 # 2741
 
-Kaya hindi ba sila nagmumuni-muni sa sinabi [ni Allāh] o dumating sa kanila ang hindi dumating sa mga magulang nilang sinauna?
+Kaya hindi ba sila nagmumuni-muni sa sinabi \[ni Allāh\] o dumating sa kanila ang hindi dumating sa mga magulang nilang sinauna?
 
 # 2742
 
@@ -11062,7 +11062,7 @@ Sabihin mo: "Sino ang Panginoon ng pitong langit at ang Panginoon ng tronong dak
 
 # 2760
 
-Magsasabi sila: "[Ang mga ito ay] sa kay Allāh." Sabihin mo: "Kaya hindi ba kayo mangingilag magkasala?"
+Magsasabi sila: "\[Ang mga ito ay\] sa kay Allāh." Sabihin mo: "Kaya hindi ba kayo mangingilag magkasala?"
 
 # 2761
 
@@ -11070,7 +11070,7 @@ Sabihin mo: "Sino ang nasa kamay Niya ang pagkahari sa bawat bagay at Siya ay ku
 
 # 2762
 
-Magsasabi sila: "[Ang mga ito ay] sa kay Allāh." Sabihin mo: "Kaya paanong napaglalalangan kayo?"
+Magsasabi sila: "\[Ang mga ito ay\] sa kay Allāh." Sabihin mo: "Kaya paanong napaglalalangan kayo?"
 
 # 2763
 
@@ -11078,7 +11078,7 @@ Bagkus nagdala Kami sa kanila ng katotohanan, at tunay na sila ay talagang mga s
 
 # 2764
 
-Hindi gumawa si Allāh ng anumang anak. Hindi nangyaring may kasama sa Kanya na anumang diyos. [Kung nagkagayon] samakatuwid talaga sanang nag-alis ang bawat diyos ng nilikha nito at talaga sanang nangibabaw ang ilan sa kanila higit sa iba. Kaluwalhatian kay Allāh higit sa anumang inilalarawan nila!
+Hindi gumawa si Allāh ng anumang anak. Hindi nangyaring may kasama sa Kanya na anumang diyos. \[Kung nagkagayon\] samakatuwid talaga sanang nag-alis ang bawat diyos ng nilikha nito at talaga sanang nangibabaw ang ilan sa kanila higit sa iba. Kaluwalhatian kay Allāh higit sa anumang inilalarawan nila!
 
 # 2765
 
@@ -11110,7 +11110,7 @@ at nagpapakupkop ako sa Iyo, Panginoon ko, na dumalo sila sa akin."
 
 # 2772
 
-[Gayon nga] hanggang sa nang dumating sa isa sa kanila ang kamatayan ay nagsabi siya: "Panginoon ko, magpabalik Kayo sa akin,
+\[Gayon nga\] hanggang sa nang dumating sa isa sa kanila ang kamatayan ay nagsabi siya: "Panginoon ko, magpabalik Kayo sa akin,
 
 # 2773
 
@@ -11170,7 +11170,7 @@ Magsasabi sila: "Namalagi kami nang isang araw o isang bahagi ng araw; ngunit ma
 
 # 2787
 
-Magsasabi Siya: "Hindi kayo namalagi kundi sa kaunting [sandali], kung sakaling kayo noon ay nakaaalam."
+Magsasabi Siya: "Hindi kayo namalagi kundi sa kaunting \[sandali\], kung sakaling kayo noon ay nakaaalam."
 
 # 2788
 
@@ -11190,7 +11190,7 @@ Sabihin mo: "Panginoon ko, magpatawad Ka at maawa Ka yayamang Ikaw ay ang pinaka
 
 # 2792
 
-[Ito ay] isang kabanatang pinababa Namin at isinatungkulin Namin. Nagpababa Kami sa loob nito ng mga talatang naglilinaw, nang sa gayon kayo magsasaalaala.
+\[Ito ay\] isang kabanatang pinababa Namin at isinatungkulin Namin. Nagpababa Kami sa loob nito ng mga talatang naglilinaw, nang sa gayon kayo magsasaalaala.
 
 # 2793
 
@@ -11214,19 +11214,19 @@ Ang mga nagpaparatang sa mga maybahay nila samantalang hindi sila nagkaroon ng m
 
 # 2798
 
-Ang [pagsaksing ikalima ay na ang sumpa ni Allāh ay sumakanya kung siya ay naging kabilang sa mga sinungaling.
+Ang \[pagsaksing ikalima ay na ang sumpa ni Allāh ay sumakanya kung siya ay naging kabilang sa mga sinungaling.
 
 # 2799
 
-Magtutulak ng pagdurusa palayo [sa maybahay na] ito na sumaksi ito nang apat na pagsaksi kay Allāh na tunay na [ang asawang] iyon ay talagang kabilang sa mga sinungaling.
+Magtutulak ng pagdurusa palayo \[sa maybahay na\] ito na sumaksi ito nang apat na pagsaksi kay Allāh na tunay na \[ang asawang\] iyon ay talagang kabilang sa mga sinungaling.
 
 # 2800
 
-Ang ikalimang [pagsaksi] ay na ang galit ni Allāh ay sumakanya nawa kung siya ay kabilang sa mga sinungaling.
+Ang ikalimang \[pagsaksi\] ay na ang galit ni Allāh ay sumakanya nawa kung siya ay kabilang sa mga sinungaling.
 
 # 2801
 
-Kung hindi dahil sa kabutihang-loob ni Allāh sa inyo at awa Niya, at na si Allāh ay Palatanggap ng pagbabalik-loob, Marunong, [nagmadali sana Siya sa inyo ng kaparusahan].
+Kung hindi dahil sa kabutihang-loob ni Allāh sa inyo at awa Niya, at na si Allāh ay Palatanggap ng pagbabalik-loob, Marunong, \[nagmadali sana Siya sa inyo ng kaparusahan\].
 
 # 2802
 
@@ -11254,7 +11254,7 @@ Bakit nga ba hindi, noong narinig ninyo ito, kayo nagsabi: "Hindi nauukol sa ami
 
 # 2808
 
-Nangangaral sa inyo si Allāh na [huwag] kayong manumbalik sa tulad nito magpakailanman, kung kayo ay mga mananampalataya.
+Nangangaral sa inyo si Allāh na \[huwag\] kayong manumbalik sa tulad nito magpakailanman, kung kayo ay mga mananampalataya.
 
 # 2809
 
@@ -11266,7 +11266,7 @@ Tunay na ang mga umiibig na kumalat ang mahalay sa mga sumasampalataya, ukol sa 
 
 # 2811
 
-Kung hindi dahil sa kabutihang-loob ni Allāh sa inyo at awa Niya, at dahil si Allāh ay Mahabagin, Maawain, [kaagad sana kayong pinarusahan.]
+Kung hindi dahil sa kabutihang-loob ni Allāh sa inyo at awa Niya, at dahil si Allāh ay Mahabagin, Maawain, \[kaagad sana kayong pinarusahan.\]
 
 # 2812
 
@@ -11274,7 +11274,7 @@ O mga sumampalataya, huwag kayong sumunod sa mga bakas ng demonyo. Ang sinumang 
 
 # 2813
 
-Huwag manumpa ang mga may kalamangan kabilang sa inyo at kaluwagan na [hindi] magbigay sa mga may pagkakamag-anak, mga dukha, at mga tagalikas sa landas ni Allāh. Magpaumanhin sila at magpalampas sila. Hindi ba kayo umiibig na magpatawad si Allāh sa inyo? Si Allāh ay Mapagpatawad, Maawain.
+Huwag manumpa ang mga may kalamangan kabilang sa inyo at kaluwagan na \[hindi\] magbigay sa mga may pagkakamag-anak, mga dukha, at mga tagalikas sa landas ni Allāh. Magpaumanhin sila at magpalampas sila. Hindi ba kayo umiibig na magpatawad si Allāh sa inyo? Si Allāh ay Mapagpatawad, Maawain.
 
 # 2814
 
@@ -11290,7 +11290,7 @@ Sa Araw na iyon, maglulubus-lubos sa kanila si Allāh sa paggagantimpala sa kani
 
 # 2817
 
-Ang mga karima-rimarim ay ukol sa mga [taong] karima-rimarim at ang mga [taong] karima-rimarim ay ukol sa mga karima-rimarim. Ang mga kaaya-aya ay ukol sa mga [taong] kaaya-aya at ang mga [taong] kaaya-aya ay ukol sa mga kaaya-aya. Ang mga [taong kaaya-ayang] iyon ay mga pinawalang-sala mula sa sinasabi ng mga [naninirang-puring] ito. Ukol sa kanila ay isang kapatawaran at isang panustos na masagana.
+Ang mga karima-rimarim ay ukol sa mga \[taong\] karima-rimarim at ang mga \[taong\] karima-rimarim ay ukol sa mga karima-rimarim. Ang mga kaaya-aya ay ukol sa mga \[taong\] kaaya-aya at ang mga \[taong\] kaaya-aya ay ukol sa mga kaaya-aya. Ang mga \[taong kaaya-ayang\] iyon ay mga pinawalang-sala mula sa sinasabi ng mga \[naninirang-puring\] ito. Ukol sa kanila ay isang kapatawaran at isang panustos na masagana.
 
 # 2818
 
@@ -11318,7 +11318,7 @@ Ipakasal ninyo ang mga walang-asawa kabilang sa inyo at ang mga maayos kabilang 
 
 # 2824
 
-Magpakamabini ang mga hindi nakatatagpo ng pampakasal hanggang sa magpasapat sa kanila si Allāh mula sa kabutihang-loob Niya. Ang mga naghahangad ng kasulatan [ng paglaya] kabilang sa [mga aliping] minay-ari ng mga kanang kamay ninyo ay makipagsulatan kayo sa kanila [ng kasunduan] kung nakaalam kayo sa kanila ng kabutihan at magbigay kayo sa kanila mula sa yaman ni Allāh na ibinigay Niya sa inyo. Huwag kayong mamilit sa mga babaing alipin ninyo sa pagpapatutot, kung nagnais sila ng pagpapakalinis ng puri, upang maghangad kayo ng panandalian sa buhay na Mundo. Ang sinumang mamimilit sa kanila, tunay na si Allāh, noong matapos ng pamimilit sa kanila, ay Mapagpatawad, Maawain.
+Magpakamabini ang mga hindi nakatatagpo ng pampakasal hanggang sa magpasapat sa kanila si Allāh mula sa kabutihang-loob Niya. Ang mga naghahangad ng kasulatan \[ng paglaya\] kabilang sa \[mga aliping\] minay-ari ng mga kanang kamay ninyo ay makipagsulatan kayo sa kanila \[ng kasunduan\] kung nakaalam kayo sa kanila ng kabutihan at magbigay kayo sa kanila mula sa yaman ni Allāh na ibinigay Niya sa inyo. Huwag kayong mamilit sa mga babaing alipin ninyo sa pagpapatutot, kung nagnais sila ng pagpapakalinis ng puri, upang maghangad kayo ng panandalian sa buhay na Mundo. Ang sinumang mamimilit sa kanila, tunay na si Allāh, noong matapos ng pamimilit sa kanila, ay Mapagpatawad, Maawain.
 
 # 2825
 
@@ -11350,7 +11350,7 @@ O gaya ng mga kadiliman sa isang dagat na pagkalalim-lalim na binabalot ng mga a
 
 # 2832
 
-Hindi ka ba nakakita na kay Allāh nagluluwalhati ang sinumang nasa mga langit at lupa at ang mga ibon habang mga nagbubuka [ng mga pakpak]? Bawat [isa] ay nakaalam nga Siya sa pagdarasal nito at pagluluwalhati nito. Si Allāh ay Maalam sa anumang ginagawa nila.
+Hindi ka ba nakakita na kay Allāh nagluluwalhati ang sinumang nasa mga langit at lupa at ang mga ibon habang mga nagbubuka \[ng mga pakpak\]? Bawat \[isa\] ay nakaalam nga Siya sa pagdarasal nito at pagluluwalhati nito. Si Allāh ay Maalam sa anumang ginagawa nila.
 
 # 2833
 
@@ -11358,7 +11358,7 @@ Sa kay Allāh ang paghahari sa mga langit at lupa, at tungo kay Allāh ang kahah
 
 # 2834
 
-Hindi ka ba nakakita na si Allāh ay nagpapausad ng mga ulap, pagkatapos nagbubuklod Siya sa mga ito? Pagkatapos gumagawa Siya sa mga ito bilang bunton saka nakikita mo ang ulan habang lumalabas mula sa loob nito. Nagbababa Siya mula sa langit ng mga bundok [ng mga ulap] na nasa mga ito ay may yelong ulan, saka nagpapatama Siya nito sa sinumang niloloob Niya at naglilihis Siya nito palayo sa sinumang niloloob Niya. Halos ang kislap ng kidlat nito ay nag-aalis ng mga paningin.
+Hindi ka ba nakakita na si Allāh ay nagpapausad ng mga ulap, pagkatapos nagbubuklod Siya sa mga ito? Pagkatapos gumagawa Siya sa mga ito bilang bunton saka nakikita mo ang ulan habang lumalabas mula sa loob nito. Nagbababa Siya mula sa langit ng mga bundok \[ng mga ulap\] na nasa mga ito ay may yelong ulan, saka nagpapatama Siya nito sa sinumang niloloob Niya at naglilihis Siya nito palayo sa sinumang niloloob Niya. Halos ang kislap ng kidlat nito ay nag-aalis ng mga paningin.
 
 # 2835
 
@@ -11398,7 +11398,7 @@ Ang sinumang tumatalima kay Allāh at sa Sugo Niya, natatakot kay Allāh, at nan
 
 # 2844
 
-Sumumpa sila kay Allāh nang taimtim sa mga panunumpa nila na talagang kung nag-utos ka sa kanila ay talagang lilisan nga sila [para makibaka]. Sabihin mo: "Huwag kayong sumumpa. Isang pagtalimang kilala [na huwad ang nasa inyo]." Tunay na si Allāh ay Mapagbatid sa anumang ginagawa ninyo.
+Sumumpa sila kay Allāh nang taimtim sa mga panunumpa nila na talagang kung nag-utos ka sa kanila ay talagang lilisan nga sila \[para makibaka\]. Sabihin mo: "Huwag kayong sumumpa. Isang pagtalimang kilala \[na huwad ang nasa inyo\]." Tunay na si Allāh ay Mapagbatid sa anumang ginagawa ninyo.
 
 # 2845
 
@@ -11418,7 +11418,7 @@ Huwag kang mag-akala sa mga tumangging sumampalataya na mga mapagpapawalang-kaka
 
 # 2849
 
-O mga sumampalataya, magpaalam sa inyo ang mga [aliping] minay-ari ng mga kanang kamay ninyo at ang mga hindi umabot sa kahustuhang gulang kabilang sa inyo sa tatlong sandali: bago ng dasal sa madaling-araw, kapag nag-aalis kayo ng mga kasuutan ninyo [sa pamamahinga] sa tanghali at matapos ng dasal sa gabi. Tatlong [sandali ng] kahubaran para sa inyo [ito]; wala sa inyo at wala sa kanilang masisisi bukod sa mga ito. [Sila ay] mga lumilibot sa inyo: ang ilan sa inyo sa iba pa. Gayon naglilinaw si Allāh para sa inyo ng mga talata. Si Allāh ay Maalam, Marunong.
+O mga sumampalataya, magpaalam sa inyo ang mga \[aliping\] minay-ari ng mga kanang kamay ninyo at ang mga hindi umabot sa kahustuhang gulang kabilang sa inyo sa tatlong sandali: bago ng dasal sa madaling-araw, kapag nag-aalis kayo ng mga kasuutan ninyo \[sa pamamahinga\] sa tanghali at matapos ng dasal sa gabi. Tatlong \[sandali ng\] kahubaran para sa inyo \[ito\]; wala sa inyo at wala sa kanilang masisisi bukod sa mga ito. \[Sila ay\] mga lumilibot sa inyo: ang ilan sa inyo sa iba pa. Gayon naglilinaw si Allāh para sa inyo ng mga talata. Si Allāh ay Maalam, Marunong.
 
 # 2850
 
@@ -11426,11 +11426,11 @@ Kapag umabot ang mga bata kabilang sa inyo sa kahustuhang gulang ay magpaalam si
 
 # 2851
 
-Ang mga matanda kabilang sa mga babaing hindi nag-aasam ng pag-aasawa ay wala sa kanilang maisisisi na mag-alis sila ng mga [panlabas na] kasuutan nila habang hindi mga nagtatanghal ng gayak, gayong ang magpakahinhin sila ay higit na mabuti para sa kanila. Si Allāh ay Madinigin, Maalam.
+Ang mga matanda kabilang sa mga babaing hindi nag-aasam ng pag-aasawa ay wala sa kanilang maisisisi na mag-alis sila ng mga \[panlabas na\] kasuutan nila habang hindi mga nagtatanghal ng gayak, gayong ang magpakahinhin sila ay higit na mabuti para sa kanila. Si Allāh ay Madinigin, Maalam.
 
 # 2852
 
-Hindi sa bulag isang maisisisi, hindi sa pilay isang maisisisi, hindi sa may-sakit maisisisi, at hindi sa mga sarili ninyo na kumain kayo mula sa mga bahay ninyo, o mga bahay ng mga ama ninyo, o mga bahay ng mga ina ninyo, o mga bahay ng mga lalaking kapatid ninyo, o mga bahay ng babaing kapatid ninyo, o mga bahay ng mga tiyuhin sa ama ninyo, o mga bahay ng mga tiyahin sa ama ninyo, o mga bahay ng mga tiyuhin sa ina ninyo, o mga bahay ng mga tiyahin sa ina ninyo, o anumang nagtaglay kayo ng mga susi nito, o [bahay] ng kaibigan ninyo. Wala sa inyong maisisisi na kumain kayo sa kalahatan o nang hiwa-hiwalay. Kapag pumasok kayo sa mga bahay ay bumati kayo sa mga sarili ng isa’t isa sa inyo ng isang pagbating mula sa ganang kay Allāh, na pinagpalang kaaya-aya. Gayon naglilinaw si Allāh para sa inyo ng mga talata nang sa gayon kayo ay makapag-uunawa.
+Hindi sa bulag isang maisisisi, hindi sa pilay isang maisisisi, hindi sa may-sakit maisisisi, at hindi sa mga sarili ninyo na kumain kayo mula sa mga bahay ninyo, o mga bahay ng mga ama ninyo, o mga bahay ng mga ina ninyo, o mga bahay ng mga lalaking kapatid ninyo, o mga bahay ng babaing kapatid ninyo, o mga bahay ng mga tiyuhin sa ama ninyo, o mga bahay ng mga tiyahin sa ama ninyo, o mga bahay ng mga tiyuhin sa ina ninyo, o mga bahay ng mga tiyahin sa ina ninyo, o anumang nagtaglay kayo ng mga susi nito, o \[bahay\] ng kaibigan ninyo. Wala sa inyong maisisisi na kumain kayo sa kalahatan o nang hiwa-hiwalay. Kapag pumasok kayo sa mga bahay ay bumati kayo sa mga sarili ng isa’t isa sa inyo ng isang pagbating mula sa ganang kay Allāh, na pinagpalang kaaya-aya. Gayon naglilinaw si Allāh para sa inyo ng mga talata nang sa gayon kayo ay makapag-uunawa.
 
 # 2853
 
@@ -11462,7 +11462,7 @@ Nagsabi ang mga tumangging sumampalataya: "Walang iba ito kundi isang kabulaanan
 
 # 2860
 
-Nagsabi sila: "Mga alamat ng mga sinauna [ito], na itinala niya saka ang mga ito ay idinidikta sa kanya sa umaga at hapon."
+Nagsabi sila: "Mga alamat ng mga sinauna \[ito\], na itinala niya saka ang mga ito ay idinidikta sa kanya sa umaga at hapon."
 
 # 2861
 
@@ -11474,11 +11474,11 @@ Nagsabi sila: "Ano ang mayroon sa Sugong ito na kumakain ng pagkain at naglalaka
 
 # 2863
 
-O [bakit kasi walang] ipinupukol sa kanya na isang kayamanan, o [bakit kasi hindi] siya nagkakaroon ng isang hardin na kakain siya mula roon?" Nagsabi ang mga tagalabag sa katarungan: "Hindi kayo sumusunod kundi sa isang lalaking nagaway."
+O \[bakit kasi walang\] ipinupukol sa kanya na isang kayamanan, o \[bakit kasi hindi\] siya nagkakaroon ng isang hardin na kakain siya mula roon?" Nagsabi ang mga tagalabag sa katarungan: "Hindi kayo sumusunod kundi sa isang lalaking nagaway."
 
 # 2864
 
-Tumingin ka kung papaanong naglahad sila para sa iyo ng mga paghahalintulad kaya naligaw sila saka hindi sila nakakakaya [na magkaroon] ng isang landas.
+Tumingin ka kung papaanong naglahad sila para sa iyo ng mga paghahalintulad kaya naligaw sila saka hindi sila nakakakaya \[na magkaroon\] ng isang landas.
 
 # 2865
 
@@ -11510,7 +11510,7 @@ Ukol sa kanila roon ang anumang niloloob nila habang mga mamamalagi. Laging iyon
 
 # 2872
 
-[Banggitin mo] ang araw na kakalap si Allāh sa kanila at sa anumang sinasamba nila bukod pa sa Kanya saka magsasabi Siya: "Kayo ba ay nagligaw sa mga lingkod Kong ito o sila ay naligaw sa landas?"
+\[Banggitin mo\] ang araw na kakalap si Allāh sa kanila at sa anumang sinasamba nila bukod pa sa Kanya saka magsasabi Siya: "Kayo ba ay nagligaw sa mga lingkod Kong ito o sila ay naligaw sa landas?"
 
 # 2873
 
@@ -11526,11 +11526,11 @@ Magpapasinungaling nga sila sa inyo sa sinasabi ninyo saka hindi kayo makakakaya
 
 # 2876
 
-Nagsabi ang mga hindi nag-aasam ng pakikipagkita sa Amin: "Bakit kasi hindi pinababa sa amin ang mga anghel o [hindi] kami nakakikita sa Panginoon namin." Talaga ngang nagmalaki sila sa mga sarili nila at nagpakapalalo sa isang pagpapakapalalong malaki.
+Nagsabi ang mga hindi nag-aasam ng pakikipagkita sa Amin: "Bakit kasi hindi pinababa sa amin ang mga anghel o \[hindi\] kami nakakikita sa Panginoon namin." Talaga ngang nagmalaki sila sa mga sarili nila at nagpakapalalo sa isang pagpapakapalalong malaki.
 
 # 2877
 
-Sa Araw na makikita nila ang mga anghel, walang balitang nakagagalak sa araw na iyon para sa mga salarin at magsasabi [ang mga anghel]: "Isang hadlang na hinadlangan!"
+Sa Araw na makikita nila ang mga anghel, walang balitang nakagagalak sa araw na iyon para sa mga salarin at magsasabi \[ang mga anghel\]: "Isang hadlang na hinadlangan!"
 
 # 2878
 
@@ -11542,7 +11542,7 @@ Ang mga maninirahan sa Paraiso sa Araw na iyon ay higit na mabuti sa pagtitigila
 
 # 2880
 
-[Banggitin mo] ang araw na magkakabiyak-biyak ang langit na may mga ulap at ibababa ang mga anghel sa [maramihang] pagbababa.
+\[Banggitin mo\] ang araw na magkakabiyak-biyak ang langit na may mga ulap at ibababa ang mga anghel sa \[maramihang\] pagbababa.
 
 # 2881
 
@@ -11550,7 +11550,7 @@ Ang paghahari, sa Araw na iyon, na totoo ay ukol sa Pinakamaawain. Iyon ay magig
 
 # 2882
 
-[Banggitin mo] ang araw na kakagat ang tagalabag sa katarungan sa mga kamay niya, na nagsasabi: "O kung sana ako ay tumahak kasama sa Sugo sa landas.
+\[Banggitin mo\] ang araw na kakagat ang tagalabag sa katarungan sa mga kamay niya, na nagsasabi: "O kung sana ako ay tumahak kasama sa Sugo sa landas.
 
 # 2883
 
@@ -11570,7 +11570,7 @@ Gayon Kami nagtalaga para sa bawat propeta ng isang kaaway kabilang sa mga salar
 
 # 2887
 
-Nagsabi ang mga tumangging sumampalataya: "Bakit kasi hindi ibinaba sa kanya ang Qur’ān nang nag-iisang kabuuan?" Gayon ay upang magpatatag Kami sa pamamagitan niyon sa puso mo. Bumigkas Kami nito nang [unti-unting] pagbigkas.
+Nagsabi ang mga tumangging sumampalataya: "Bakit kasi hindi ibinaba sa kanya ang Qur’ān nang nag-iisang kabuuan?" Gayon ay upang magpatatag Kami sa pamamagitan niyon sa puso mo. Bumigkas Kami nito nang \[unti-unting\] pagbigkas.
 
 # 2888
 
@@ -11578,7 +11578,7 @@ Hindi sila nagdadala sa iyo ng isang paghahalintulad malibang naghatid Kami sa i
 
 # 2889
 
-Ang mga kakalapin [na nakasubsob] sa mga mukha nila patungo sa Impiyerno, ang mga iyon ay higit na masama sa lugar at higit na ligaw sa landas.
+Ang mga kakalapin \[na nakasubsob\] sa mga mukha nila patungo sa Impiyerno, ang mga iyon ay higit na masama sa lugar at higit na ligaw sa landas.
 
 # 2890
 
@@ -11586,7 +11586,7 @@ Talaga ngang nagbigay Kami kay Moises ng kasulatan at gumawa Kami kasama sa kany
 
 # 2891
 
-Kaya nagsabi Kami: "Pumunta kayong dalawa sa mga taong nagpasinungaling sa mga tanda Namin." Kaya winasak Namin sila nang [lubusang] pagwasak.
+Kaya nagsabi Kami: "Pumunta kayong dalawa sa mga taong nagpasinungaling sa mga tanda Namin." Kaya winasak Namin sila nang \[lubusang\] pagwasak.
 
 # 2892
 
@@ -11594,11 +11594,11 @@ Ang mga tao ni Noe, noong nagpasinungaling sila sa mga sugo, ay nilunod Namin at
 
 # 2893
 
-[Nagpahamak Kami] sa `Ād, Thamūd, mga kasamahan ng balon, at sa maraming salinlahi sa pagitan niyon.
+\[Nagpahamak Kami\] sa \`Ād, Thamūd, mga kasamahan ng balon, at sa maraming salinlahi sa pagitan niyon.
 
 # 2894
 
-Sa bawat isa ay gumawa Kami ng mga paghahalintulad at sa bawat isa ay dumurog Kami nang isang [matinding] pagdurog.
+Sa bawat isa ay gumawa Kami ng mga paghahalintulad at sa bawat isa ay dumurog Kami nang isang \[matinding\] pagdurog.
 
 # 2895
 
@@ -11606,7 +11606,7 @@ Talaga ngang pumunta sila sa pamayanan na pinaulanan ng ulan ng kasagwaan. Kaya 
 
 # 2896
 
-Kapag nakakita sila sa iyo ay wala silang ginagawa sa iyo kundi isang pangungutya, [na nagsasabi]: "Ito ba ang ipinadala ni Allāh bilang sugo?
+Kapag nakakita sila sa iyo ay wala silang ginagawa sa iyo kundi isang pangungutya, \[na nagsasabi\]: "Ito ba ang ipinadala ni Allāh bilang sugo?
 
 # 2897
 
@@ -11642,7 +11642,7 @@ upang magbigay-buhay Kami sa pamamagitan niyon sa isang bayang patay at magpaino
 
 # 2905
 
-Talaga ngang nagsarisari Kami nito sa gitna nila upang magsaalaala sila ngunit tumutol ang higit na marami sa mga tao [sa anuman] maliban sa kawalang-pasasalamat.
+Talaga ngang nagsarisari Kami nito sa gitna nila upang magsaalaala sila ngunit tumutol ang higit na marami sa mga tao \[sa anuman\] maliban sa kawalang-pasasalamat.
 
 # 2906
 
@@ -11662,7 +11662,7 @@ Siya ay ang lumikha mula sa tubig ng isang tao saka gumawa rito ng kamag-anakan 
 
 # 2910
 
-Sumasamba sila sa bukod pa kay Allāh, na hindi nakapagpapakinabang sa kanila at hindi nakapipinsala sa kanila. Laging ang tagatangging sumampalataya laban sa Panginoon niya ay tagapagtaguyod [ng demonyo].
+Sumasamba sila sa bukod pa kay Allāh, na hindi nakapagpapakinabang sa kanila at hindi nakapipinsala sa kanila. Laging ang tagatangging sumampalataya laban sa Panginoon niya ay tagapagtaguyod \[ng demonyo\].
 
 # 2911
 
@@ -11678,7 +11678,7 @@ Manalig ka sa Buhay na hindi namamatay at magluwalhati ka kalakip ng papuri sa K
 
 # 2914
 
-[Siya] ang lumikha ng mga langit at lupa at anumang nasa pagitan ng mga ito sa anim na araw, pagkatapos lumuklok Siya sa Trono. [Siya] ang Napakamaawain, kaya magtanong ka sa Kanya bilang Mapagbatid.
+\[Siya\] ang lumikha ng mga langit at lupa at anumang nasa pagitan ng mga ito sa anim na araw, pagkatapos lumuklok Siya sa Trono. \[Siya\] ang Napakamaawain, kaya magtanong ka sa Kanya bilang Mapagbatid.
 
 # 2915
 
@@ -11698,11 +11698,11 @@ Ang mga lingkod ng Napakamaawain ay ang mga naglalakad sa lupa sa kababaang-loob
 
 # 2919
 
-[Sila] ang mga nagpapagabi para sa Panginoon nila habang mga nakapatirapa at mga nakatayo.
+\[Sila\] ang mga nagpapagabi para sa Panginoon nila habang mga nakapatirapa at mga nakatayo.
 
 # 2920
 
-[Sila] ang mga nagsasabi: "Panginoon namin, maglihis Ka palayo sa amin ng pagdurusa sa Impiyerno; tunay na ang pagdurusa roon ay laging makapit.
+\[Sila\] ang mga nagsasabi: "Panginoon namin, maglihis Ka palayo sa amin ng pagdurusa sa Impiyerno; tunay na ang pagdurusa roon ay laging makapit.
 
 # 2921
 
@@ -11710,11 +11710,11 @@ Tunay na iyon ay kay sagwa bilang pagtitigilan at bilang panananatilihan!"
 
 # 2922
 
-[Sila] ang mga kapag gumugol ay hindi nagpapakalabis at hindi sila nagkukuripot, at laging nasa pagitan niyon ay katamtaman.
+\[Sila\] ang mga kapag gumugol ay hindi nagpapakalabis at hindi sila nagkukuripot, at laging nasa pagitan niyon ay katamtaman.
 
 # 2923
 
-[Sila] ang mga hindi nananalangin kasama kay Allāh sa isang diyos na iba pa, hindi pumapatay ng taong ipinagbawal ni Allāh malibang ayon sa karapatan, at hindi nangangalunya. Ang sinumang gumawa niyon ay makatatagpo siya ng kaparusahan sa kasalanan:
+\[Sila\] ang mga hindi nananalangin kasama kay Allāh sa isang diyos na iba pa, hindi pumapatay ng taong ipinagbawal ni Allāh malibang ayon sa karapatan, at hindi nangangalunya. Ang sinumang gumawa niyon ay makatatagpo siya ng kaparusahan sa kasalanan:
 
 # 2924
 
@@ -11726,19 +11726,19 @@ maliban sa sinumang nagbalik-loob, sumampalataya, at gumawa ng gawang maayos sap
 
 # 2926
 
-Ang sinumang nagbalik-loob at gumawa ng maayos, tunay na siya ay nagbabalik-loob kay Allāh nang [tanggap na] pagbabalik-loob.
+Ang sinumang nagbalik-loob at gumawa ng maayos, tunay na siya ay nagbabalik-loob kay Allāh nang \[tanggap na\] pagbabalik-loob.
 
 # 2927
 
-[Sila] ang mga hindi sumasaksi sa kabulaanan at kapag naparaan sila sa satsatan ay dumaraan sila bilang mga marangal.
+\[Sila\] ang mga hindi sumasaksi sa kabulaanan at kapag naparaan sila sa satsatan ay dumaraan sila bilang mga marangal.
 
 # 2928
 
-[Sila] ang mga kapag pinaalalahanan ng mga tanda ng Panginoon nila ay hindi bumabagsak dahil sa mga ito bilang mga bingi at mga bulag.
+\[Sila\] ang mga kapag pinaalalahanan ng mga tanda ng Panginoon nila ay hindi bumabagsak dahil sa mga ito bilang mga bingi at mga bulag.
 
 # 2929
 
-[Sila] ang mga nagsasabi: "Panginoon namin, magkaloob Ka sa amin mula sa mga asawa namin at mga supling namin ng galak ng mga mata, at gumawa Ka sa amin para sa mga tagapangilag magkasala bilang tagapanguna."
+\[Sila\] ang mga nagsasabi: "Panginoon namin, magkaloob Ka sa amin mula sa mga asawa namin at mga supling namin ng galak ng mga mata, at gumawa Ka sa amin para sa mga tagapangilag magkasala bilang tagapanguna."
 
 # 2930
 
@@ -11790,7 +11790,7 @@ Tunay na ang Panginoon mo ay talagang Siya ang Makapangyarihan, ang Maawain.
 
 # 2942
 
-[Banggitin] noong nanawagan ang Panginoon mo kay Moises: "Pumunta ka sa mga taong tagalabag sa katarungan,
+\[Banggitin\] noong nanawagan ang Panginoon mo kay Moises: "Pumunta ka sa mga taong tagalabag sa katarungan,
 
 # 2943
 
@@ -11802,7 +11802,7 @@ Nagsabi ito: "Panginoon ko, tunay na ako ay nangangamba na magpasinungaling sila
 
 # 2945
 
-Maninikip ang dibdib ko at hindi tatatas ang dila ko; kaya magsugo Ka [kay Anghel Gabriel] patungo kay Aaron.
+Maninikip ang dibdib ko at hindi tatatas ang dila ko; kaya magsugo Ka \[kay Anghel Gabriel\] patungo kay Aaron.
 
 # 2946
 
@@ -11822,7 +11822,7 @@ na ipadala mo kasama sa amin ang mga anak ni Israel."
 
 # 2950
 
-Nagsabi iyon: "Hindi ba kami nag-alaga sa iyo sa amin noong bata [ka] pa at namalagi ka sa amin mula sa buhay mo nang ilang taon?
+Nagsabi iyon: "Hindi ba kami nag-alaga sa iyo sa amin noong bata \[ka\] pa at namalagi ka sa amin mula sa buhay mo nang ilang taon?
 
 # 2951
 
@@ -11838,7 +11838,7 @@ Kaya tumalilis ako mula sa inyo noong nangamba ako sa inyo ngunit nagkaloob sa a
 
 # 2954
 
-Iyon [ay isang biyayang ipinanunumbat mo sa akin: na nang-alipin ka sa mga anak ni Israel!"
+Iyon \[ay isang biyayang ipinanunumbat mo sa akin: na nang-alipin ka sa mga anak ni Israel!"
 
 # 2955
 
@@ -11918,7 +11918,7 @@ Kaya noong dumating na ang mga manggagaway ay nagsabi sila kay Paraon: "Tunay ba
 
 # 2974
 
-Nagsabi iyon: "Oo, at tunay na kayo samakatuwid ay talagang kabilang sa mga palalapitin [sa akin]."
+Nagsabi iyon: "Oo, at tunay na kayo samakatuwid ay talagang kabilang sa mga palalapitin \[sa akin\]."
 
 # 2975
 
@@ -11962,7 +11962,7 @@ Nagkasi Kami kay Moises: "Maglakbay ka sa gabi kasama ng mga lingkod Ko; tunay n
 
 # 2985
 
-Kaya nagsugo si Paraon sa mga lungsod ng mga tagakalap, [na nagsasabi]:
+Kaya nagsugo si Paraon sa mga lungsod ng mga tagakalap, \[na nagsasabi\]:
 
 # 2986
 
@@ -11990,7 +11990,7 @@ Gayon nga, at nagpamana Kami ng mga ito sa mga anak ni Israel.
 
 # 2992
 
-Kaya sumunod ang mga iyon sa kanila nang sumisikat [ang araw].
+Kaya sumunod ang mga iyon sa kanila nang sumisikat \[ang araw\].
 
 # 2993
 
@@ -12002,7 +12002,7 @@ Nagsabi siya: "Aba’y hindi; tunay na kasama sa akin, ang Panginoon ko ay magpa
 
 # 2995
 
-Kaya nagkasi Kami kay Moises, na [nagsasabi]: "Hampasin mo ng tungkod mo ang dagat." Kaya nabiyak iyon saka ang bawat bahagi ay naging gaya ng bundok na dambuhala.
+Kaya nagkasi Kami kay Moises, na \[nagsasabi\]: "Hampasin mo ng tungkod mo ang dagat." Kaya nabiyak iyon saka ang bawat bahagi ay naging gaya ng bundok na dambuhala.
 
 # 2996
 
@@ -12086,7 +12086,7 @@ Panginoon ko, magkaloob Ka para sa akin ng karunungan at magsama Ka sa akin sa m
 
 # 3016
 
-Gumawa Ka para sa akin ng isang magandang pagbubunyi sa mga huling [salinlahi].
+Gumawa Ka para sa akin ng isang magandang pagbubunyi sa mga huling \[salinlahi\].
 
 # 3017
 
@@ -12242,7 +12242,7 @@ Tunay na ang Panginoon mo ay talagang Siya ang Makapangyarihan, ang Maawain.
 
 # 3055
 
-Nagpasinungaling ang `Ād sa mga isinugo
+Nagpasinungaling ang \`Ād sa mga isinugo
 
 # 3056
 
@@ -12374,7 +12374,7 @@ Nagsabi siya: "Ito ay isang dumalagang kamelyo. Ukol dito ay pag-inom at ukol sa
 
 # 3088
 
-Huwag kayong sumaling dito ng isang kasagwaan para [hindi] kayo daklutin ng isang pagdurusa sa isang araw na sukdulan."
+Huwag kayong sumaling dito ng isang kasagwaan para \[hindi\] kayo daklutin ng isang pagdurusa sa isang araw na sukdulan."
 
 # 3089
 
@@ -12458,7 +12458,7 @@ Nagpasinungaling ang mga naninirahan sa kasukalan sa mga isinugo
 
 # 3109
 
-noong nagsabi sa kanila si Shu`ayb: "Hindi ba kayo mangingilag magkasala?
+noong nagsabi sa kanila si Shu\`ayb: "Hindi ba kayo mangingilag magkasala?
 
 # 3110
 
@@ -12518,7 +12518,7 @@ Tunay na ang Panginoon mo ay talagang Siya ang Makapangyarihan, ang Maawain.
 
 # 3124
 
-Tunay na [ang Qur’ān na] ito ay talagang pagbababa ng Panginoon ng mga nilalang.
+Tunay na \[ang Qur’ān na\] ito ay talagang pagbababa ng Panginoon ng mga nilalang.
 
 # 3125
 
@@ -12602,7 +12602,7 @@ Tunay na sila buhat sa pagdinig ay talagang mga ibinukod.
 
 # 3145
 
-Kaya huwag kang dumalangin kasama kay Allāh sa isang diyos na iba pa para ikaw ay [hindi] maging kabilang sa mga pagdurusahin.
+Kaya huwag kang dumalangin kasama kay Allāh sa isang diyos na iba pa para ikaw ay \[hindi\] maging kabilang sa mga pagdurusahin.
 
 # 3146
 
@@ -12686,7 +12686,7 @@ Tunay na ikaw ay talagang ginagawaran ng Qur’ān mula sa panig ng Marunong, Ma
 
 # 3166
 
-[Banggitin] noong nagsabi si Moises sa mag-anak niya: "Tunay na ako ay nakatanaw ng apoy. Magdadala ako sa inyo mula roon ng isang balita o magdadala ako sa inyo ng isang ningas na pamparikit, nang sa gayon kayo ay makapagpapainit.
+\[Banggitin\] noong nagsabi si Moises sa mag-anak niya: "Tunay na ako ay nakatanaw ng apoy. Magdadala ako sa inyo mula roon ng isang balita o magdadala ako sa inyo ng isang ningas na pamparikit, nang sa gayon kayo ay makapagpapainit.
 
 # 3167
 
@@ -12694,11 +12694,11 @@ Ngunit noong dumating siya roon, tinawag siya: "Pinagpala ang sinumang nasa apoy
 
 # 3168
 
-[Nagsabi si Allāh]: "O Moises, tunay na Ako ay si Allāh, ang Makapangyarihan, ang Marunong.
+\[Nagsabi si Allāh\]: "O Moises, tunay na Ako ay si Allāh, ang Makapangyarihan, ang Marunong.
 
 # 3169
 
-Pumukol ka ng tungkod mo." Ngunit noong nakita niya ito na kumikislut-kislot na para bang ito ay isang ahas, tumalikod siya habang tumatakas at hindi bumalik [sa dinaanan. Sinabi]: "O Moises, huwag kang mangamba. Tunay na Ako ay hindi pinangangambahan, sa harap Ko, ng mga isinugo,
+Pumukol ka ng tungkod mo." Ngunit noong nakita niya ito na kumikislut-kislot na para bang ito ay isang ahas, tumalikod siya habang tumatakas at hindi bumalik \[sa dinaanan. Sinabi\]: "O Moises, huwag kang mangamba. Tunay na Ako ay hindi pinangangambahan, sa harap Ko, ng mga isinugo,
 
 # 3170
 
@@ -12706,7 +12706,7 @@ maliban sa sinumang lumabag sa katarungan, pagkatapos nagpalit ng isang kagandah
 
 # 3171
 
-Ipasok mo ang kamay mo sa eskotadura mo, lalabas ito na maputi na walang sakit. Iyapos mo sa iyo ang kamay mo laban sa sindak. [Ito ay] nasa siyam na tanda para kay Paraon at mga tao niya. Tunay na sila ay mga taong suwail."
+Ipasok mo ang kamay mo sa eskotadura mo, lalabas ito na maputi na walang sakit. Iyapos mo sa iyo ang kamay mo laban sa sindak. \[Ito ay\] nasa siyam na tanda para kay Paraon at mga tao niya. Tunay na sila ay mga taong suwail."
 
 # 3172
 
@@ -12770,7 +12770,7 @@ Nagsabi siya: "Titingin kami kung nagtotoo ka ba o ikaw ay naging kabilang sa mg
 
 # 3187
 
-Umalis ka kalakip ng sulat kong ito at magpahatid ka nito sa kanila. Pagkatapos tumalikod ka palayo sa kanila saka tumingin ka kung ano ang [sagot na] ibabalik nila."
+Umalis ka kalakip ng sulat kong ito at magpahatid ka nito sa kanila. Pagkatapos tumalikod ka palayo sa kanila saka tumingin ka kung ano ang \[sagot na\] ibabalik nila."
 
 # 3188
 
@@ -12782,7 +12782,7 @@ Tunay na ito ay mula kay Solomon at tunay na ito ay sa ngalan ni Allāh, ang Nap
 
 # 3190
 
-na [nagsasaad]: Huwag kayong magmataas sa akin at pumunta kayo sa akin bilang mga tagapagpasakop."
+na \[nagsasaad\]: Huwag kayong magmataas sa akin at pumunta kayo sa akin bilang mga tagapagpasakop."
 
 # 3191
 
@@ -12798,11 +12798,11 @@ Nagsabi siya: "Tunay na ang mga hari, kapag pumasok sila sa isang pamayanan, ay 
 
 # 3194
 
-Tunay na ako ay magsusugo sa kanila kalakip ng isang regalo saka titingin sa kung ano [sagot na] ibabalik ng mga isinugo.
+Tunay na ako ay magsusugo sa kanila kalakip ng isang regalo saka titingin sa kung ano \[sagot na\] ibabalik ng mga isinugo.
 
 # 3195
 
-Kaya noong dumating [ang sugo] kay Solomon ay nagsabi siya: "Mag-aayuda ba kayo sa akin ng yaman gayong ang ibinigay sa akin ni Allāh ay higit na mabuti kaysa sa ibinigay Niya sa inyo? Bagkus kayo sa regalo ninyo ay natutuwa.
+Kaya noong dumating \[ang sugo\] kay Solomon ay nagsabi siya: "Mag-aayuda ba kayo sa akin ng yaman gayong ang ibinigay sa akin ni Allāh ay higit na mabuti kaysa sa ibinigay Niya sa inyo? Bagkus kayo sa regalo ninyo ay natutuwa.
 
 # 3196
 
@@ -12826,7 +12826,7 @@ Nagsabi siya: "Magpabalatkayo kayo para sa kanya ng trono niya, titingnan natin 
 
 # 3201
 
-Kaya noong dumating siya ay sinabi: "Ganito ba ang trono mo?" Nagsabi siya: "Para bang ito ay iyon." [Nagsabi si Solomon]: "Binigyan kami ng kaalaman bago pa niya at dati na kaming mga tagapagpasakop."
+Kaya noong dumating siya ay sinabi: "Ganito ba ang trono mo?" Nagsabi siya: "Para bang ito ay iyon." \[Nagsabi si Solomon\]: "Binigyan kami ng kaalaman bago pa niya at dati na kaming mga tagapagpasakop."
 
 # 3202
 
@@ -12834,11 +12834,11 @@ Bumalakid sa kanya ang dati nang sinasamba niya bukod pa kay Allāh. Tunay na si
 
 # 3203
 
-Sinabi sa kanya: "Pumasok ka sa palasyo." Kaya noong nakita niya ito ay nag-akala siyang ito ay isang lawa at naglantad siya ng mga lulod niya. Nagsabi [si Solomon]: "Tunay na ito ay isang palasyong pinakintaban ng inilatag na mga salamin. Nagsabi siya: "Panginoon ko, tunay na ako ay lumabag sa katarungan sa sarili ko. Nagpasakop ako kasama kay Solomon kay Allāh ang Panginoon ng mga nilalang."
+Sinabi sa kanya: "Pumasok ka sa palasyo." Kaya noong nakita niya ito ay nag-akala siyang ito ay isang lawa at naglantad siya ng mga lulod niya. Nagsabi \[si Solomon\]: "Tunay na ito ay isang palasyong pinakintaban ng inilatag na mga salamin. Nagsabi siya: "Panginoon ko, tunay na ako ay lumabag sa katarungan sa sarili ko. Nagpasakop ako kasama kay Solomon kay Allāh ang Panginoon ng mga nilalang."
 
 # 3204
 
-Talaga ngang nagsugo Kami sa Thamūd ng kapatid nilang si Ṣāliḥ, na [nagsasabi]: "Sumamba kayo kay Allāh," saka biglang sila ay dalawang pangkat na nag-aalitan.
+Talaga ngang nagsugo Kami sa Thamūd ng kapatid nilang si Ṣāliḥ, na \[nagsasabi\]: "Sumamba kayo kay Allāh," saka biglang sila ay dalawang pangkat na nag-aalitan.
 
 # 3205
 
@@ -12874,7 +12874,7 @@ Nagligtas Kami sa mga sumampalataya at dati na silang nangingilag magkasala.
 
 # 3213
 
-[Banggitin mo] si Lot noong nagsabi siya sa mga kababayan niya: "Pumupunta ba kayo sa mahalay habang kayo ay nakakikita?"
+\[Banggitin mo\] si Lot noong nagsabi siya sa mga kababayan niya: "Pumupunta ba kayo sa mahalay habang kayo ay nakakikita?"
 
 # 3214
 
@@ -12886,7 +12886,7 @@ Ngunit walang iba ang sagot ng mga kababayan niya kundi na nagsabi sila: "Palaba
 
 # 3216
 
-Kaya pinaligtas Namin siya at ang mag-anak niya maliban sa maybahay niya; nagtakda Kami rito [na maging] kabilang sa mga nagpapaiwan.
+Kaya pinaligtas Namin siya at ang mag-anak niya maliban sa maybahay niya; nagtakda Kami rito \[na maging\] kabilang sa mga nagpapaiwan.
 
 # 3217
 
@@ -12898,7 +12898,7 @@ Sabihin mo: "Ang papuri ay ukol kay Allāh at kapayapaan ay sa mga lingkod Niyan
 
 # 3219
 
-O ang lumikha ng mga langit at lupa at nagpababa para sa inyo mula sa langit ng tubig kaya nagpatubo sa pamamagitan nito ng mga hardin na may dilag na hindi naging ukol sa inyo na magpatubo kayo ng mga punong-kahoy ng mga iyon ay isang diyos kasama kay Allāh? Bagkus sila ay mga taong nagpapantay [sa Kanya sa iba].
+O ang lumikha ng mga langit at lupa at nagpababa para sa inyo mula sa langit ng tubig kaya nagpatubo sa pamamagitan nito ng mga hardin na may dilag na hindi naging ukol sa inyo na magpatubo kayo ng mga punong-kahoy ng mga iyon ay isang diyos kasama kay Allāh? Bagkus sila ay mga taong nagpapantay \[sa Kanya sa iba\].
 
 # 3220
 
@@ -12926,7 +12926,7 @@ Bagkus nagwakas ang kaalaman nila hinggil sa Kabilang-buhay. Bagkus sila ay nasa
 
 # 3226
 
-Nagsabi ang mga tumangging sumampalataya: "Kapag kami ba ay naging alabok at [gayon din] ang mga magulang namin, tunay na kami ba ay talagang mga palalabasin [sa mga libingan]?
+Nagsabi ang mga tumangging sumampalataya: "Kapag kami ba ay naging alabok at \[gayon din\] ang mga magulang namin, tunay na kami ba ay talagang mga palalabasin \[sa mga libingan\]?
 
 # 3227
 
@@ -12962,7 +12962,7 @@ Walang anumang nakalingid sa langit at lupa malibang nasa isang talaang malinaw.
 
 # 3235
 
-Tunay na itong Qur’ān ay nagsasalaysay sa mga anak ni Israel ng higit na marami sa [bagay na] sila hinggil doon ay nagkakaiba-iba.
+Tunay na itong Qur’ān ay nagsasalaysay sa mga anak ni Israel ng higit na marami sa \[bagay na\] sila hinggil doon ay nagkakaiba-iba.
 
 # 3236
 
@@ -12986,11 +12986,11 @@ Ikaw ay hindi tagapagpatnubay ng mga bulag palayo sa pagkaligaw nila. Hindi ka n
 
 # 3241
 
-Kapag naganap ang sabi laban sa kanila, magpapalabas Kami para sa kanila ng isang gumagalaw na nilalang mula sa lupa na kakausap sa kanila [na nagsasabi] na ang mga tao noon sa mga tanda Namin ay hindi nakatitiyak.
+Kapag naganap ang sabi laban sa kanila, magpapalabas Kami para sa kanila ng isang gumagalaw na nilalang mula sa lupa na kakausap sa kanila \[na nagsasabi\] na ang mga tao noon sa mga tanda Namin ay hindi nakatitiyak.
 
 # 3242
 
-[Banggitin mo] ang araw na kakalap Kami mula sa bawat kalipunan ng isang pulutong kabilang sa nagpapasinungaling sa mga tanda Namin saka sila ay pagpapangkatin.
+\[Banggitin mo\] ang araw na kakalap Kami mula sa bawat kalipunan ng isang pulutong kabilang sa nagpapasinungaling sa mga tanda Namin saka sila ay pagpapangkatin.
 
 # 3243
 
@@ -13006,7 +13006,7 @@ Hindi ba sila nakakita na Kami ay gumawa sa gabi upang matiwasay sila rito at sa
 
 # 3246
 
-[Banggitin mo] ang araw na iihip sa tambuli saka manghihilakbot ang sinumang nasa mga langit at ang sinumang nasa mga lupa, maliban sa sinumang niloob ni Allāh, habang lahat ay pupunta sa Kanya na mga nagpapakaaba.
+\[Banggitin mo\] ang araw na iihip sa tambuli saka manghihilakbot ang sinumang nasa mga langit at ang sinumang nasa mga lupa, maliban sa sinumang niloob ni Allāh, habang lahat ay pupunta sa Kanya na mga nagpapakaaba.
 
 # 3247
 
@@ -13018,11 +13018,11 @@ Ang sinumang magdala ng magandang gawa, ukol sa kanya ay higit na mabuti kaysa r
 
 # 3249
 
-Ang sinumang magdala ng masagwang gawa, isusubsob ang mga mukha nila sa Apoy. [Sasabihin:] "Gagantihan kaya kayo maliban pa ng anumang dati ninyong ginagawa?"
+Ang sinumang magdala ng masagwang gawa, isusubsob ang mga mukha nila sa Apoy. \[Sasabihin:\] "Gagantihan kaya kayo maliban pa ng anumang dati ninyong ginagawa?"
 
 # 3250
 
-[Sabihin mo]: "Inutusan lamang ako na sumamba sa Panginoon ng bayang ito, na nagpabanal nito – at sa Kanya ang bawat bagay – at inutusan ako na maging kabilang ako sa mga tagapagpasakop
+\[Sabihin mo\]: "Inutusan lamang ako na sumamba sa Panginoon ng bayang ito, na nagpabanal nito – at sa Kanya ang bawat bagay – at inutusan ako na maging kabilang ako sa mga tagapagpasakop
 
 # 3251
 
@@ -13054,11 +13054,11 @@ Nagnanais Kami na magmagandang-loob Kami sa mga siniil sa lupain, gumawa Kami sa
 
 # 3258
 
-[Nagnanais Kami na] magbigay-kapangyarihan Kami sa kanila sa lupain at magpakita Kami kay Paraon, kay Hāmān, at sa mga kawal nilang dalawa kabilang sa kanila ng pinangingilagan nila noon.
+\[Nagnanais Kami na\] magbigay-kapangyarihan Kami sa kanila sa lupain at magpakita Kami kay Paraon, kay Hāmān, at sa mga kawal nilang dalawa kabilang sa kanila ng pinangingilagan nila noon.
 
 # 3259
 
-Nagkasi Kami sa ina ni Moises, na [nagsasabi]: "Magpasuso ka sa kanya; ngunit kapag nangamba ka para sa kanya ay itapon mo siya sa ilog at huwag kang mangamba at huwag kang malungkot. Tunay na Kami ay magsasauli sa kanya sa iyo at gagawa sa kanya kabilang sa mga isinugo."
+Nagkasi Kami sa ina ni Moises, na \[nagsasabi\]: "Magpasuso ka sa kanya; ngunit kapag nangamba ka para sa kanya ay itapon mo siya sa ilog at huwag kang mangamba at huwag kang malungkot. Tunay na Kami ay magsasauli sa kanya sa iyo at gagawa sa kanya kabilang sa mga isinugo."
 
 # 3260
 
@@ -13066,7 +13066,7 @@ Kaya napulot siya ng mag-anak ni Paraon upang siya para sa kanila ay maging isan
 
 # 3261
 
-Nagsabi ang maybahay ni Paraon: "Isang lugod ng mata [siya] para sa akin at para sa iyo. Huwag ninyo siyang patayin; marahil magpapakinabang siya sa atin o maituturing natin siya bilang anak," habang sila ay hindi nakararamdam.
+Nagsabi ang maybahay ni Paraon: "Isang lugod ng mata \[siya\] para sa akin at para sa iyo. Huwag ninyo siyang patayin; marahil magpapakinabang siya sa atin o maituturing natin siya bilang anak," habang sila ay hindi nakararamdam.
 
 # 3262
 
@@ -13078,7 +13078,7 @@ Nagsabi ito sa babaing kapatid niya: "Magsubaybay ka sa kanya." Kaya nakakita iy
 
 # 3264
 
-Nagbawal Kami sa kanya ng [ibang] mga tagapasuso bago pa niyan, kaya nagsabi iyon: "Magtuturo po kaya ako sa inyo ng isang bahay na kakandili sa kanya para sa inyo habang sila sa kanya ay mga tagapagpayo?"
+Nagbawal Kami sa kanya ng \[ibang\] mga tagapasuso bago pa niyan, kaya nagsabi iyon: "Magtuturo po kaya ako sa inyo ng isang bahay na kakandili sa kanya para sa inyo habang sila sa kanya ay mga tagapagpayo?"
 
 # 3265
 
@@ -13090,7 +13090,7 @@ Noong umabot siya sa kalakasan niya at nalubos siya sa pag-iisip ay nagbigay Kam
 
 # 3267
 
-Pumasok siya sa lungsod sa isang sandali ng pagkalingat ng mga naninirahan doon saka nakatagpo siya roon ng dalawang lalaking nag-aaway. Itong [una] ay kabilang sa kakampi niya at itong [ikalawa] ay kabilang sa kaaway niya. Nagpasaklolo sa kanya ang kabilang sa kakampi niya laban sa kabilang sa kaaway niya. Kaya binuntal ito ni Moises saka napaslang niya ito. Nagsabi siya: "Ito ay kabilang sa gawain ng demonyo; tunay na siya ay isang kaaway na tagapagligaw na malinaw."
+Pumasok siya sa lungsod sa isang sandali ng pagkalingat ng mga naninirahan doon saka nakatagpo siya roon ng dalawang lalaking nag-aaway. Itong \[una\] ay kabilang sa kakampi niya at itong \[ikalawa\] ay kabilang sa kaaway niya. Nagpasaklolo sa kanya ang kabilang sa kakampi niya laban sa kabilang sa kaaway niya. Kaya binuntal ito ni Moises saka napaslang niya ito. Nagsabi siya: "Ito ay kabilang sa gawain ng demonyo; tunay na siya ay isang kaaway na tagapagligaw na malinaw."
 
 # 3268
 
@@ -13122,15 +13122,15 @@ Noong nakadako siya sa bandang Madyan ay nagsabi siya: "Marahil ang Panginoon ko
 
 # 3275
 
-Noong nakarating siya sa tubigan ng Madyan, nakatagpo siya roon ng isang kalipunan ng mga tao na nagpapainom [ng kawan] at nakatagpo siya bukod pa sa kanila ng dalawang babaing pumipigil [sa kawan]. Nagsabi siya: "Ano ang lagay ninyong dalawa?" Nagsabi silang dalawa: "Hindi kami nagpapainom [ng kawan] hanggang sa magpaalis ang mga pastol [ng kawan nila]. Ang ama namin ay lubhang matanda."
+Noong nakarating siya sa tubigan ng Madyan, nakatagpo siya roon ng isang kalipunan ng mga tao na nagpapainom \[ng kawan\] at nakatagpo siya bukod pa sa kanila ng dalawang babaing pumipigil \[sa kawan\]. Nagsabi siya: "Ano ang lagay ninyong dalawa?" Nagsabi silang dalawa: "Hindi kami nagpapainom \[ng kawan\] hanggang sa magpaalis ang mga pastol \[ng kawan nila\]. Ang ama namin ay lubhang matanda."
 
 # 3276
 
-Kaya nagpainom siya [sa kawan] para sa kanilang dalawa. Pagkatapos tumalikod siya patungo sa lilim saka nagsabi: "Panginoon ko, tunay na ako, sa pinababa Mo sa akin na anumang biyaya, ay maralita."
+Kaya nagpainom siya \[sa kawan\] para sa kanilang dalawa. Pagkatapos tumalikod siya patungo sa lilim saka nagsabi: "Panginoon ko, tunay na ako, sa pinababa Mo sa akin na anumang biyaya, ay maralita."
 
 # 3277
 
-Kaya dumating sa kanya ang isa sa dalawang babae, na naglalakad sa pagkahiya. Nagsabi ito: "Tunay na ang ama ko ay nag-aanyaya sa iyo upang gumanti siya sa iyo ng pabuya sa pagpainom mo [sa kawan] para sa amin." Kaya noong dumating siya roon at nagsalaysay siya roon ng mga kasaysayan [niya] ay nagsabi iyon: "Huwag kang mangamba; naligtas ka mula sa mga taong tagalabag sa katarungan."
+Kaya dumating sa kanya ang isa sa dalawang babae, na naglalakad sa pagkahiya. Nagsabi ito: "Tunay na ang ama ko ay nag-aanyaya sa iyo upang gumanti siya sa iyo ng pabuya sa pagpainom mo \[sa kawan\] para sa amin." Kaya noong dumating siya roon at nagsalaysay siya roon ng mga kasaysayan \[niya\] ay nagsabi iyon: "Huwag kang mangamba; naligtas ka mula sa mga taong tagalabag sa katarungan."
 
 # 3278
 
@@ -13138,7 +13138,7 @@ Nagsabi ang isa sa kanilang dalawa: "O Ama ko, upahan mo siya; tunay na ang pina
 
 # 3279
 
-Nagsabi iyon: "Tunay na ako ay nagnanais na ipakasal ko sa iyo ang isa sa dalawang babaing anak ko na ito sa kundisyong magpaupa ka sa akin nang walong taon, ngunit kung lulubusin mo sa sampung [taon] ay nasa ganang iyo. Hindi ako nagnanais na magpabigat sa iyo. Matatagpuan mo ako, kung niloob ni Allāh, na kabilang sa mga maayos."
+Nagsabi iyon: "Tunay na ako ay nagnanais na ipakasal ko sa iyo ang isa sa dalawang babaing anak ko na ito sa kundisyong magpaupa ka sa akin nang walong taon, ngunit kung lulubusin mo sa sampung \[taon\] ay nasa ganang iyo. Hindi ako nagnanais na magpabigat sa iyo. Matatagpuan mo ako, kung niloob ni Allāh, na kabilang sa mga maayos."
 
 # 3280
 
@@ -13150,11 +13150,11 @@ Kaya noong natapos ni Moises ang taning at humayo siya dala kasama ng mag-anak n
 
 # 3282
 
-Kaya noong nakapunta siya roon, tinawag siya mula sa kanang pangpang ng lambak, sa pook na pinagpala, mula sa punong-kahoy, na [nagsasabi]: "O Moises, tunay na Ako ay si Allāh, ang Panginoon ng mga nilalang.
+Kaya noong nakapunta siya roon, tinawag siya mula sa kanang pangpang ng lambak, sa pook na pinagpala, mula sa punong-kahoy, na \[nagsasabi\]: "O Moises, tunay na Ako ay si Allāh, ang Panginoon ng mga nilalang.
 
 # 3283
 
-Pumukol ka ng tungkod mo." Ngunit noong nakita niya ito na kumikislut-kislot na para bang ito ay isang ahas, tumalikod siya habang lumilisan at hindi lumingon. [Sinabi]: "O Moises, lumapit ka at huwag kang mangamba; tunay na ikaw ay kabilang sa mga tiwasay.
+Pumukol ka ng tungkod mo." Ngunit noong nakita niya ito na kumikislut-kislot na para bang ito ay isang ahas, tumalikod siya habang lumilisan at hindi lumingon. \[Sinabi\]: "O Moises, lumapit ka at huwag kang mangamba; tunay na ikaw ay kabilang sa mga tiwasay.
 
 # 3284
 
@@ -13170,7 +13170,7 @@ Ang kapatid ko na si Aaron ay higit na matatas kaysa sa akin sa dila, kaya isugo
 
 # 3287
 
-Nagsabi Siya: "Magpapalakas Kami sa bisig mo sa pamamagitan ng kapatid mo at maglalagay Kami para sa inyong dalawa ng isang pangingibabaw kaya hindi sila makapagpapaaabot sa inyong dalawa [ng pinsala]. Dahil sa mga tanda Namin, kayong dalawa at ang sinumang sumunod sa inyo ay ang mga tagapanaig."
+Nagsabi Siya: "Magpapalakas Kami sa bisig mo sa pamamagitan ng kapatid mo at maglalagay Kami para sa inyong dalawa ng isang pangingibabaw kaya hindi sila makapagpapaaabot sa inyong dalawa \[ng pinsala\]. Dahil sa mga tanda Namin, kayong dalawa at ang sinumang sumunod sa inyo ay ang mga tagapanaig."
 
 # 3288
 
@@ -13178,7 +13178,7 @@ Kaya noong naghatid sa kanila si Moises ng mga tanda Namin bilang mga naglilinaw
 
 # 3289
 
-Nagsabi si Moises: "Ang Panginoon ko ay higit na maalam sa sinumang naghatid ng patnubay mula sa ganang Kanya at sa sinumang magkakaroon ng [mabuting] kahihinatnan sa Tahanan. Tunay na hindi magtatagumpay ang mga tagalabag sa katarungan.
+Nagsabi si Moises: "Ang Panginoon ko ay higit na maalam sa sinumang naghatid ng patnubay mula sa ganang Kanya at sa sinumang magkakaroon ng \[mabuting\] kahihinatnan sa Tahanan. Tunay na hindi magtatagumpay ang mga tagalabag sa katarungan.
 
 # 3290
 
@@ -13214,7 +13214,7 @@ Subalit Kami ay nagpaluwal ng mga salinlahi saka naghabaan sa kanila ang edad. H
 
 # 3298
 
-Hindi ka noon nasa gilid ng bundok noong nanawagan Kami [kay Moises] subalit [isinugo ka] bilang awa mula sa Panginoon mo upang magbabala ka sa mga taong walang pumunta sa kanila na anumang mapagbabala, bago mo pa, nang sa gayon sila ay magsasaalaala.
+Hindi ka noon nasa gilid ng bundok noong nanawagan Kami \[kay Moises\] subalit \[isinugo ka\] bilang awa mula sa Panginoon mo upang magbabala ka sa mga taong walang pumunta sa kanila na anumang mapagbabala, bago mo pa, nang sa gayon sila ay magsasaalaala.
 
 # 3299
 
@@ -13222,7 +13222,7 @@ Kung hindi dahil na may tumama sa kanila na isang kasawian dahil sa ipinauna ng 
 
 # 3300
 
-Ngunit noong dumating sa kanila ang katotohanan mula sa ganang Amin ay nagsabi sila: "Bakit hindi siya binigyan ng tulad sa ibinigay kay Moises?" Hindi ba sila tumangging sumampalataya sa ibinigay kay Moises bago pa niyan? Nagsabi sila: "Dalawang panggagaway na nagtataguyudan." Nagsabi sila: "Tunay na kami sa bawat [isa] ay mga tagatangging sumampalataya."
+Ngunit noong dumating sa kanila ang katotohanan mula sa ganang Amin ay nagsabi sila: "Bakit hindi siya binigyan ng tulad sa ibinigay kay Moises?" Hindi ba sila tumangging sumampalataya sa ibinigay kay Moises bago pa niyan? Nagsabi sila: "Dalawang panggagaway na nagtataguyudan." Nagsabi sila: "Tunay na kami sa bawat \[isa\] ay mga tagatangging sumampalataya."
 
 # 3301
 
@@ -13266,7 +13266,7 @@ Kay rami ng ipinahamak Namin na pamayanang nagpawalang-pakundangan sa pamumuhay 
 
 # 3311
 
-Hindi nangyaring ang Panginoon mo ay magpapahamak ng mga pamayanan hanggang sa magpadala Siya sa ina ng mga ito ng isang sugong bibigkas sa kanila ng mga talata Namin. Hindi nangyaring Kami ay magpapahamak ng mga pamayanan maliban [kung] ang mga naninirahan sa mga iyon ay mga tagalabag sa katarungan.
+Hindi nangyaring ang Panginoon mo ay magpapahamak ng mga pamayanan hanggang sa magpadala Siya sa ina ng mga ito ng isang sugong bibigkas sa kanila ng mga talata Namin. Hindi nangyaring Kami ay magpapahamak ng mga pamayanan maliban \[kung\] ang mga naninirahan sa mga iyon ay mga tagalabag sa katarungan.
 
 # 3312
 
@@ -13274,15 +13274,15 @@ Ang ibinigay sa inyo na anumang bagay ay isang natatamasa sa buhay na pangmundo 
 
 # 3313
 
-Kaya ba ang sinumang pinangakuan Namin ng isang pangakong maganda – saka siya ay makakatagpo niyon – ay gaya ng sinumang pinagtamasa Namin ng natatamasa sa buhay na pangmundo, pagkatapos siya sa Araw ng Pagbangon ay kabilang sa mga padadaluhin [sa Impiyerno]?
+Kaya ba ang sinumang pinangakuan Namin ng isang pangakong maganda – saka siya ay makakatagpo niyon – ay gaya ng sinumang pinagtamasa Namin ng natatamasa sa buhay na pangmundo, pagkatapos siya sa Araw ng Pagbangon ay kabilang sa mga padadaluhin \[sa Impiyerno\]?
 
 # 3314
 
-[Banggitin mo] ang araw na mananawagan Siya sa kanila saka magsasabi: "Nasaan ang mga katambal sa Akin na dati ninyong inaangkin?"
+\[Banggitin mo\] ang araw na mananawagan Siya sa kanila saka magsasabi: "Nasaan ang mga katambal sa Akin na dati ninyong inaangkin?"
 
 # 3315
 
-Nagsabi ang mga magkakatotoo sa kanila ang sabi: "Panginoon namin, ang mga inilisya naming ito ay inilisya namin sila kung paanong nalisya kami. Nagpapawalang-kaugnayan kami sa harap Mo [mula sa kanila]. Hindi dati sila sa Amin sumasamba."
+Nagsabi ang mga magkakatotoo sa kanila ang sabi: "Panginoon namin, ang mga inilisya naming ito ay inilisya namin sila kung paanong nalisya kami. Nagpapawalang-kaugnayan kami sa harap Mo \[mula sa kanila\]. Hindi dati sila sa Amin sumasamba."
 
 # 3316
 
@@ -13290,7 +13290,7 @@ Sasabihin: "Dumalangin kayo sa mga pantambal ninyo," saka dadalangin sila sa mga
 
 # 3317
 
-[Banggitin mo] ang araw na mananawagan Siya sa kanila saka magsasabi Siya: "Ano ang isinagot ninyo sa mga isinugo?"
+\[Banggitin mo\] ang araw na mananawagan Siya sa kanila saka magsasabi Siya: "Ano ang isinagot ninyo sa mga isinugo?"
 
 # 3318
 
@@ -13326,7 +13326,7 @@ Bahagi ng awa Niya, gumawa Siya para inyo ng gabi at maghapon upang mamahinga ka
 
 # 3326
 
-[Banggitin] ang araw na mananawagan Siya sa kanila saka magsasabi: "Nasaan ang mga katambal sa Akin na dati ninyong inaangkin?"
+\[Banggitin\] ang araw na mananawagan Siya sa kanila saka magsasabi: "Nasaan ang mga katambal sa Akin na dati ninyong inaangkin?"
 
 # 3327
 
@@ -13334,7 +13334,7 @@ Huhugot Kami mula sa bawat kalipunan ng isang saksi, saka magsasabi Kami: "Magbi
 
 # 3328
 
-Tunay na si Qārūn noon ay kabilang sa mga kalipi ni Moises ngunit nagpakapalalo siya sa kanila. Nagbigay Kami sa kanya ng mga kayamanan, na tunay na ang mga susi niya ay talagang makabibigat sa pangkat na mga may lakas, noong nagsabi sa kanya ang mga kalipi niya: "Huwag kang matuwa; tunay na si Allāh ay hindi umiibig sa mga natutuwa [gaya nito].
+Tunay na si Qārūn noon ay kabilang sa mga kalipi ni Moises ngunit nagpakapalalo siya sa kanila. Nagbigay Kami sa kanya ng mga kayamanan, na tunay na ang mga susi niya ay talagang makabibigat sa pangkat na mga may lakas, noong nagsabi sa kanya ang mga kalipi niya: "Huwag kang matuwa; tunay na si Allāh ay hindi umiibig sa mga natutuwa \[gaya nito\].
 
 # 3329
 
@@ -13358,11 +13358,11 @@ Kaya ipinalamon Namin siya at ang tahanan niya sa lupa. Hindi siya nagkaroon ng 
 
 # 3334
 
-Kinaumagahan, ang mga nagmithi ng kinalalagyan niya kahapon ay nagsasabi: "Sayang, para bang si Allāh ay nagpapaluwag sa panustos para sa sinumang niloloob Niya kabilang sa mga lingkod Niya at naghihigpit." Kung sakaling hindi nagmagandang-loob si Allāh sa atin ay talaga sanang nagpalamon Siya sa atin [sa lupa]. Sayang, para bang hindi nagtatagumpay ang mga tagatangging sumampalataya."
+Kinaumagahan, ang mga nagmithi ng kinalalagyan niya kahapon ay nagsasabi: "Sayang, para bang si Allāh ay nagpapaluwag sa panustos para sa sinumang niloloob Niya kabilang sa mga lingkod Niya at naghihigpit." Kung sakaling hindi nagmagandang-loob si Allāh sa atin ay talaga sanang nagpalamon Siya sa atin \[sa lupa\]. Sayang, para bang hindi nagtatagumpay ang mga tagatangging sumampalataya."
 
 # 3335
 
-Ang tahanan sa Kabilang-buhay na iyon ay itatalaga Namin para sa mga hindi nagnanais ng kataasan sa lupa ni ng kaguluhan. Ang [mabuting] kahihinatnan ay ukol sa mga tagapangilag magkasala.
+Ang tahanan sa Kabilang-buhay na iyon ay itatalaga Namin para sa mga hindi nagnanais ng kataasan sa lupa ni ng kaguluhan. Ang \[mabuting\] kahihinatnan ay ukol sa mga tagapangilag magkasala.
 
 # 3336
 
@@ -13434,7 +13434,7 @@ Nagsabi ang mga tumangging sumampalataya sa mga sumampalataya: "Sundin ninyo ang
 
 # 3353
 
-Talagang magpapasan nga sila ng mga pabigat nila at mga pabigat [ng iba] kasama sa mga pabigat nila. Talagang tatanungin nga sila sa Araw ng Pagbangon tungkol sa anumang dati nilang ginagawa-gawa.
+Talagang magpapasan nga sila ng mga pabigat nila at mga pabigat \[ng iba\] kasama sa mga pabigat nila. Talagang tatanungin nga sila sa Araw ng Pagbangon tungkol sa anumang dati nilang ginagawa-gawa.
 
 # 3354
 
@@ -13446,7 +13446,7 @@ Ngunit pinaligtas Namin siya at ang mga sakay ng daong. Gumawa Kami nito bilang 
 
 # 3356
 
-[Banggitin] si Abraham noong nagsabi siya sa mga kababayan niya: "Sumamba kayo kay Allāh at mangilag kayong magkasala sa Kanya; iyon ay higit na mabuti para sa inyo kung kayo ay naging nakaaalam.
+\[Banggitin\] si Abraham noong nagsabi siya sa mga kababayan niya: "Sumamba kayo kay Allāh at mangilag kayong magkasala sa Kanya; iyon ay higit na mabuti para sa inyo kung kayo ay naging nakaaalam.
 
 # 3357
 
@@ -13494,11 +13494,11 @@ Ipinagkaloob Namin sa kanya sina Isaac at Jacob at inilagay Namin sa mga supling
 
 # 3368
 
-[Banggitin] si Lot noong nagsabi siya sa mga kababayan niya: "Tunay na kayo ay talagang gumagawa ng mahalay, habang walang nakauna sa inyo roon na isa man kabilang sa mga nilalang.
+\[Banggitin\] si Lot noong nagsabi siya sa mga kababayan niya: "Tunay na kayo ay talagang gumagawa ng mahalay, habang walang nakauna sa inyo roon na isa man kabilang sa mga nilalang.
 
 # 3369
 
-Tunay na kayo ba ay talagang gumagawa [ng sodomiya] sa mga lalaki, nandarambong sa landas, at gumagawa sa kapulungan ninyo ng nakasasama?" Ngunit walang iba ang sagot ng mga kababayan niya kundi na nagsabi sila: "Magdala ka sa amin ng pagdurusang dulot ni Allāh, kung ikaw ay naging kabilang sa mga tapat."
+Tunay na kayo ba ay talagang gumagawa \[ng sodomiya\] sa mga lalaki, nandarambong sa landas, at gumagawa sa kapulungan ninyo ng nakasasama?" Ngunit walang iba ang sagot ng mga kababayan niya kundi na nagsabi sila: "Magdala ka sa amin ng pagdurusang dulot ni Allāh, kung ikaw ay naging kabilang sa mga tapat."
 
 # 3370
 
@@ -13506,7 +13506,7 @@ Nagsabi siya: "Panginoon ko, iadya Mo ako laban sa mga taong tagagulo."
 
 # 3371
 
-Noong naghatid ang mga sugo Namin kay Abraham ng nakagagalak na balita ay nagsabi sila: "Tunay na kami ay magpapahamak sa mga naninirahan sa pamayanang iyan [ni Lot]. Tunay na ang mga naninirahan diyan ay laging mga tagalabag sa katarungan."
+Noong naghatid ang mga sugo Namin kay Abraham ng nakagagalak na balita ay nagsabi sila: "Tunay na kami ay magpapahamak sa mga naninirahan sa pamayanang iyan \[ni Lot\]. Tunay na ang mga naninirahan diyan ay laging mga tagalabag sa katarungan."
 
 # 3372
 
@@ -13526,19 +13526,19 @@ Talaga ngang nag-iwan Kami mula riyan ng isang tandang malinaw para sa mga taong
 
 # 3376
 
-[Nagsugo Kami sa] Madyan ng kapatid nilang si Shu`ayb, saka nagsabi siya: "O mga kalipi ko, sumamba kayo kay Allāh, mag-asam kayo ng Huling Araw, at huwag kayong manampalasan sa lupa bilang mga tagagulo."
+\[Nagsugo Kami sa\] Madyan ng kapatid nilang si Shu\`ayb, saka nagsabi siya: "O mga kalipi ko, sumamba kayo kay Allāh, mag-asam kayo ng Huling Araw, at huwag kayong manampalasan sa lupa bilang mga tagagulo."
 
 # 3377
 
-Ngunit nagpasinungaling sila sa kanya, kaya dumaklot sa kanila ang yanig saka sila, sa mga tahanan nila, ay naging mga [patay na] nakasubsob.
+Ngunit nagpasinungaling sila sa kanya, kaya dumaklot sa kanila ang yanig saka sila, sa mga tahanan nila, ay naging mga \[patay na\] nakasubsob.
 
 # 3378
 
-[Nagpahamak Kami] sa `Ād at Thamūd, at luminaw ito para sa inyo mula sa mga tirahan nila. Ipinang-akit para sa kanila ng demonyo ang mga gawain nila kaya bumalakid siya sa kanila sa landas habang sila noon ay mga nakatatalos.
+\[Nagpahamak Kami\] sa \`Ād at Thamūd, at luminaw ito para sa inyo mula sa mga tirahan nila. Ipinang-akit para sa kanila ng demonyo ang mga gawain nila kaya bumalakid siya sa kanila sa landas habang sila noon ay mga nakatatalos.
 
 # 3379
 
-[Nagpahamak Kami] kina Qārūn, Paraon, at Hāmān. Talaga ngang naghatid sa kanila si Moises ng mga patunay na malinaw ngunit nagmalaki sila sa lupain at hindi sila noon mga nakauuna.
+\[Nagpahamak Kami\] kina Qārūn, Paraon, at Hāmān. Talaga ngang naghatid sa kanila si Moises ng mga patunay na malinaw ngunit nagmalaki sila sa lupain at hindi sila noon mga nakauuna.
 
 # 3380
 
@@ -13574,11 +13574,11 @@ Gayon Kami nagbaba sa iyo ng Aklat kaya ang mga binigyan Namin ng kasulatan ay s
 
 # 3388
 
-Hindi ka dati bumibigkas bago pa nito ng anumang aklat at hindi ka nagsusulat nito sa pamamagitan ng kanan mo [dahil] kung gayon ay talagang nag-alinlangan ang mga tagapagpabula.
+Hindi ka dati bumibigkas bago pa nito ng anumang aklat at hindi ka nagsusulat nito sa pamamagitan ng kanan mo \[dahil\] kung gayon ay talagang nag-alinlangan ang mga tagapagpabula.
 
 # 3389
 
-Bagkus [ang Qur’ān na] ito ay mga talatang malilinaw na nasa mga dibdib ng mga nabigyan kaalaman. Walang nagkakaila sa mga talata Namin kundi ang mga tagalabag sa katarungan.
+Bagkus \[ang Qur’ān na\] ito ay mga talatang malilinaw na nasa mga dibdib ng mga nabigyan kaalaman. Walang nagkakaila sa mga talata Namin kundi ang mga tagalabag sa katarungan.
 
 # 3390
 
@@ -13594,7 +13594,7 @@ Sabihin mo: "Nakasapat si Allāh sa pagitan ko at ninyo bilang Saksi. Nakaaalam 
 
 # 3393
 
-Nagpapamadali sila sa iyo ng pagdurusa. Kung hindi dahil [may] isang taning na tinukoy, talaga sanang dumating sa kanila ang pagdurusa at talagang pupunta nga ito sa kanila nang biglaan habang sila ay hindi nakararamdam.
+Nagpapamadali sila sa iyo ng pagdurusa. Kung hindi dahil \[may\] isang taning na tinukoy, talaga sanang dumating sa kanila ang pagdurusa at talagang pupunta nga ito sa kanila nang biglaan habang sila ay hindi nakararamdam.
 
 # 3394
 
@@ -13614,7 +13614,7 @@ Bawat kaluluwa ay lalasap ng kamatayan. Pagkatapos tungo sa Amin pababalikin kay
 
 # 3398
 
-Ang mga sumampalataya at gumawa ng mga maayos ay talagang magpapatahan nga Kami mula sa paraiso sa mga [mataas na] silid na dumadaloy mula sa ilalim ng mga ito ang mga ilog bilang mga mananatili roon. Kay inam ang pabuya sa mga tagagawa,
+Ang mga sumampalataya at gumawa ng mga maayos ay talagang magpapatahan nga Kami mula sa paraiso sa mga \[mataas na\] silid na dumadaloy mula sa ilalim ng mga ito ang mga ilog bilang mga mananatili roon. Kay inam ang pabuya sa mga tagagawa,
 
 # 3399
 
@@ -13642,7 +13642,7 @@ Walang iba ang buhay na ito sa Mundo kundi isang paglilibang at isang laro. Tuna
 
 # 3405
 
-Kapag nakasakay sila sa daong ay dumadalangin sila kay Allāh habang mga nagpapakawagas para sa Kanya sa relihiyon. Ngunit noong nagligtas Siya sa kanila patungo sa katihan, biglang sila ay nagtatambal [sa Kanya]
+Kapag nakasakay sila sa daong ay dumadalangin sila kay Allāh habang mga nagpapakawagas para sa Kanya sa relihiyon. Ngunit noong nagligtas Siya sa kanila patungo sa katihan, biglang sila ay nagtatambal \[sa Kanya\]
 
 # 3406
 
@@ -13756,7 +13756,7 @@ Kabilang sa mga tanda Niya ang pagtulog ninyo sa gabi at maghapon at ang paghaha
 
 # 3433
 
-Kabilang sa mga tanda Niya ay nagpapakita Siya sa inyo ng kidlat na [nagdudulot ng] pangamba at paghahangad, at nagbababa Siya mula sa langit ng tubig saka nagbibigay-buhay Siya sa pamamagitan nito sa lupa matapos ng pagkamatay nito. Tunay na sa gayon ay talagang may mga tanda para sa mga taong nakapag-uunawa.
+Kabilang sa mga tanda Niya ay nagpapakita Siya sa inyo ng kidlat na \[nagdudulot ng\] pangamba at paghahangad, at nagbababa Siya mula sa langit ng tubig saka nagbibigay-buhay Siya sa pamamagitan nito sa lupa matapos ng pagkamatay nito. Tunay na sa gayon ay talagang may mga tanda para sa mga taong nakapag-uunawa.
 
 # 3434
 
@@ -13780,11 +13780,11 @@ Bagkus sumunod ang mga lumabag sa katarungan sa mga pithaya nila nang walang kaa
 
 # 3439
 
-Kaya magpanatili ka ng mukha mo sa Relihiyon bilang makatotoo. [Mamalagi sa] kalikasan ng pagkalalang ni Allāh na nilalang Niya ang mga tao ayon dito. Walang pagpapalit para sa pagkakalikha ni Allāh. Iyon ay ang Relihiyong matuwid, subalit ang higit na marami sa mga tao ay hindi nakaaalam.
+Kaya magpanatili ka ng mukha mo sa Relihiyon bilang makatotoo. \[Mamalagi sa\] kalikasan ng pagkalalang ni Allāh na nilalang Niya ang mga tao ayon dito. Walang pagpapalit para sa pagkakalikha ni Allāh. Iyon ay ang Relihiyong matuwid, subalit ang higit na marami sa mga tao ay hindi nakaaalam.
 
 # 3440
 
-[Maging] mga nagsisising nanunumbalik tungo sa Kanya, mangilag kayong magkasala sa Kanya, magpanatili kayo ng pagdarasal, at huwag kayong maging kabilang sa mga tagapagtambal,
+\[Maging\] mga nagsisising nanunumbalik tungo sa Kanya, mangilag kayong magkasala sa Kanya, magpanatili kayo ng pagdarasal, at huwag kayong maging kabilang sa mga tagapagtambal,
 
 # 3441
 
@@ -13812,11 +13812,11 @@ Hindi ba sila nakakita na si Allāh ay nagpapaluwag ng panustos para sa sinumang
 
 # 3447
 
-Kaya magbigay ka sa may pagkakamag-anak ng karapatan nito, sa dukha, at sa kinapos sa landas. Iyon ay higit na mabuti para sa mga nagnanais [ng kaluguran] ng mukha ni Allāh. Ang mga iyon ay ang mga magtatagumpay.
+Kaya magbigay ka sa may pagkakamag-anak ng karapatan nito, sa dukha, at sa kinapos sa landas. Iyon ay higit na mabuti para sa mga nagnanais \[ng kaluguran\] ng mukha ni Allāh. Ang mga iyon ay ang mga magtatagumpay.
 
 # 3448
 
-Ang anumang ibinigay ninyo na patubo upang magdagdag sa mga yaman ng mga tao, [ito] ay hindi magdaragdag sa ganang kay Allāh. Ang anumang ibinigay ninyo na zakāh habang nagnanais kayo [ng kaluguran] ng Mukha ni Allāh, ang mga iyon ay ang mga pag-iibayuhin.
+Ang anumang ibinigay ninyo na patubo upang magdagdag sa mga yaman ng mga tao, \[ito\] ay hindi magdaragdag sa ganang kay Allāh. Ang anumang ibinigay ninyo na zakāh habang nagnanais kayo \[ng kaluguran\] ng Mukha ni Allāh, ang mga iyon ay ang mga pag-iibayuhin.
 
 # 3449
 
@@ -13866,7 +13866,7 @@ Kaya tumingin ka sa mga bakas ng awa ni Allāh kung papaano Siyang nagbibigay-bu
 
 # 3460
 
-Talagang kung nagsugo Kami ng isang hangin [na mapanira] saka nakakita sila niyon habang naninilaw ay talagang nanatili sila nang matapos niyon na tumatangging sumampalataya.
+Talagang kung nagsugo Kami ng isang hangin \[na mapanira\] saka nakakita sila niyon habang naninilaw ay talagang nanatili sila nang matapos niyon na tumatangging sumampalataya.
 
 # 3461
 
@@ -13890,7 +13890,7 @@ Nagsabi ang mga binigyan ng kaalaman at pananampalataya: "Talaga ngang namalagi 
 
 # 3466
 
-Kaya sa Araw na iyon, hindi magpapakinabang sa mga lumabag sa katarungan ang pagdadahilan nila at hindi sila hihilinging magpatuwa [kay Allāh].
+Kaya sa Araw na iyon, hindi magpapakinabang sa mga lumabag sa katarungan ang pagdadahilan nila at hindi sila hihilinging magpatuwa \[kay Allāh\].
 
 # 3467
 
@@ -13950,15 +13950,15 @@ Ito ay ang nilikha ni Allāh kaya magpakita kayo sa akin kung ano ang nalikha ng
 
 # 3481
 
-Talaga ngang nagbigay Kami kay Luqmān ng karunungan, na [nagsasabi]: "Magpasalamat ka kay Allāh." Ang sinumang nagpapasalamat ay nagpapasalamat lamang para sa [pakinabang ng] sarili niya. Ang sinumang tumangging magpasalamat, tunay na si Allāh ay Walang-pangangailangan, Kapuri-puri.
+Talaga ngang nagbigay Kami kay Luqmān ng karunungan, na \[nagsasabi\]: "Magpasalamat ka kay Allāh." Ang sinumang nagpapasalamat ay nagpapasalamat lamang para sa \[pakinabang ng\] sarili niya. Ang sinumang tumangging magpasalamat, tunay na si Allāh ay Walang-pangangailangan, Kapuri-puri.
 
 # 3482
 
-[Banggitin] noong nagsabi si Luqmān sa anak niya habang siya ay nangangaral dito: "O anak ko, huwag kang magtambal kay Allāh; tunay na ang pagtatambal ay talagang isang paglabag sa katarungan, na sukdulan."
+\[Banggitin\] noong nagsabi si Luqmān sa anak niya habang siya ay nangangaral dito: "O anak ko, huwag kang magtambal kay Allāh; tunay na ang pagtatambal ay talagang isang paglabag sa katarungan, na sukdulan."
 
 # 3483
 
-Nagtagubilin Kami sa tao hinggil sa mga magulang niya – nagdalang-tao sa kanya ang ina niya sa isang panlalata sa ibabaw isang panlalata at ang pag-awat sa kanya ay sa dalawang taon – na [nagsasabi]: "Magpasalamat ka sa Akin at sa mga magulang mo. Tungo sa Akin ang kahahantungan.
+Nagtagubilin Kami sa tao hinggil sa mga magulang niya – nagdalang-tao sa kanya ang ina niya sa isang panlalata sa ibabaw isang panlalata at ang pag-awat sa kanya ay sa dalawang taon – na \[nagsasabi\]: "Magpasalamat ka sa Akin at sa mga magulang mo. Tungo sa Akin ang kahahantungan.
 
 # 3484
 
@@ -13966,7 +13966,7 @@ Kung nagpunyagi silang dalawa sa iyo na magtambal ka sa Akin ng wala kang kaalam
 
 # 3485
 
-[Nagsabi si Luqmān]: "O anak ko, tunay na ito, kung naging kasimbigat ng isang buto ng mustasa saka naging nasa isang bato o nasa mga langit o nasa lupa, maglalahad nito si Allāh. Tunay na si Allāh ay Mapagtalos, Mapagbatid.
+\[Nagsabi si Luqmān\]: "O anak ko, tunay na ito, kung naging kasimbigat ng isang buto ng mustasa saka naging nasa isang bato o nasa mga langit o nasa lupa, maglalahad nito si Allāh. Tunay na si Allāh ay Mapagtalos, Mapagbatid.
 
 # 3486
 
@@ -13974,7 +13974,7 @@ O anak ko, magpanatili ka ng pagdarasal, mag-utos ka ng nakabubuti, sumaway ka n
 
 # 3487
 
-Huwag kang mag-iwas ng pisngi mo sa mga tao at huwag kang maglakad sa lupa dala ng pagpapakatuwa [sa sarili]. Tunay na si Allāh ay hindi umiibig sa bawat mayabang na hambog.
+Huwag kang mag-iwas ng pisngi mo sa mga tao at huwag kang maglakad sa lupa dala ng pagpapakatuwa \[sa sarili\]. Tunay na si Allāh ay hindi umiibig sa bawat mayabang na hambog.
 
 # 3488
 
@@ -14010,7 +14010,7 @@ Sa kay Allāh ang anumang nasa mga langit at lupa. Tunay na si Allāh ay ang Wal
 
 # 3496
 
-Kung sakaling ang anumang nasa lupa na punong-kahoy ay mga panulat at ang dagat [ay tinta], na may magdaragdag dito nang matapos niyon na pitong dagat, hindi mauubos ang mga salita ni Allāh. Tunay na si Allāh ay Makapangyarihan, Marunong.
+Kung sakaling ang anumang nasa lupa na punong-kahoy ay mga panulat at ang dagat \[ay tinta\], na may magdaragdag dito nang matapos niyon na pitong dagat, hindi mauubos ang mga salita ni Allāh. Tunay na si Allāh ay Makapangyarihan, Marunong.
 
 # 3497
 
@@ -14030,7 +14030,7 @@ Hindi ka ba nakakita na ang mga daong ay naglalayag sa dagat dahil sa biyaya ni 
 
 # 3501
 
-Kapag may bumalot sa kanila na mga alon na gaya ng mga kulandong ay dumadalangin sila kay Allāh habang mga nagpapakawagas para sa Kanya sa pagtalima, ngunit noong nagligtas Siya sa kanila patungo sa katihan ay mayroon sa kanila na katamtaman [sa pagpapasalamat]. Walang nagkakaila sa mga tanda Namin kundi bawat palasira sa pangako na palatangging magpasalamat.
+Kapag may bumalot sa kanila na mga alon na gaya ng mga kulandong ay dumadalangin sila kay Allāh habang mga nagpapakawagas para sa Kanya sa pagtalima, ngunit noong nagligtas Siya sa kanila patungo sa katihan ay mayroon sa kanila na katamtaman \[sa pagpapasalamat\]. Walang nagkakaila sa mga tanda Namin kundi bawat palasira sa pangako na palatangging magpasalamat.
 
 # 3502
 
@@ -14078,7 +14078,7 @@ Pagkatapos humubog Siya rito at umihip Siya rito mula sa espiritu Niya. Gumawa S
 
 # 3513
 
-Nagsabi sila: "Kapag ba nawala kami sa lupa, tunay bang kami ay talagang [bubuhayin] sa isang paglikhang bago?" Bagkus sila, sa pakikipagkita sa Panginoon nila, ay mga tagatangging sumampalataya.
+Nagsabi sila: "Kapag ba nawala kami sa lupa, tunay bang kami ay talagang \[bubuhayin\] sa isang paglikhang bago?" Bagkus sila, sa pakikipagkita sa Panginoon nila, ay mga tagatangging sumampalataya.
 
 # 3514
 
@@ -14086,7 +14086,7 @@ Sabihin mo: "Papapanawin kayo ng anghel ng kamatayan na itinalaga sa inyo, pagka
 
 # 3515
 
-Kung sakaling nakikita mo kapag ang mga salarin ay mga nakatungo ang mga ulo nila sa piling ng Panginoon nila, [na nagsasabi]: "Panginoon namin, nakakita kami at nakarinig kami. Kaya magpabalik Ka sa amin, gagawa kami ng maayos. Tunay na kami ay mga nakatitiyak."
+Kung sakaling nakikita mo kapag ang mga salarin ay mga nakatungo ang mga ulo nila sa piling ng Panginoon nila, \[na nagsasabi\]: "Panginoon namin, nakakita kami at nakarinig kami. Kaya magpabalik Ka sa amin, gagawa kami ng maayos. Tunay na kami ay mga nakatitiyak."
 
 # 3516
 
@@ -14094,7 +14094,7 @@ Kung sakaling niloob Namin ay talaga sanang nagbigay Kami sa bawat kaluluwa ng p
 
 # 3517
 
-Kaya lumasap kayo [ng pagdurusa] dahil lumimot kayo sa pakikipagkita sa Araw ninyong ito. Tunay na Kami ay lilimot sa inyo. Lumasap kayo ng pagdurusa ng kawalang-hanggan dahil sa dati ninyong ginagawa."
+Kaya lumasap kayo \[ng pagdurusa\] dahil lumimot kayo sa pakikipagkita sa Araw ninyong ito. Tunay na Kami ay lilimot sa inyo. Lumasap kayo ng pagdurusa ng kawalang-hanggan dahil sa dati ninyong ginagawa."
 
 # 3518
 
@@ -14174,19 +14174,19 @@ Manalig ka kay Allāh. Nakasapat si Allāh bilang Pinananaligan.
 
 # 3537
 
-Hindi gumawa si Allāh para sa isang lalaki ng dalawang puso sa kaloob-looban nito. Hindi Siya gumawa sa mga maybahay ninyo na nagtutulad kayo sa kanila sa likod [ng mga ina ninyo] bilang mga ina ninyo. Hindi Siya gumawa sa mga ampon ninyo bilang mga anak ninyo. Iyon ay ang sabi ninyo sa pamamagitan ng mga bibig ninyo. Si Allāh ay nagsasabi ng totoo at Siya ay nagpapatnubay sa landas.
+Hindi gumawa si Allāh para sa isang lalaki ng dalawang puso sa kaloob-looban nito. Hindi Siya gumawa sa mga maybahay ninyo na nagtutulad kayo sa kanila sa likod \[ng mga ina ninyo\] bilang mga ina ninyo. Hindi Siya gumawa sa mga ampon ninyo bilang mga anak ninyo. Iyon ay ang sabi ninyo sa pamamagitan ng mga bibig ninyo. Si Allāh ay nagsasabi ng totoo at Siya ay nagpapatnubay sa landas.
 
 # 3538
 
-Tumawag kayo sa kanila sa [pangalan ng] mga ama nila; ito ay higit na makatarungan sa ganang kay Allāh. Ngunit kung hindi kayo nakaaalam sa mga ama nila ay mga kapatid ninyo sa relihiyon at mga tinatangkilik ninyo. Wala sa inyong maisisisi sa anumang nagkamali kayo subalit [mayroon] sa anumang sinadya ng mga puso ninyo. Laging si Allāh ay Mapagpatawad, Maawain.
+Tumawag kayo sa kanila sa \[pangalan ng\] mga ama nila; ito ay higit na makatarungan sa ganang kay Allāh. Ngunit kung hindi kayo nakaaalam sa mga ama nila ay mga kapatid ninyo sa relihiyon at mga tinatangkilik ninyo. Wala sa inyong maisisisi sa anumang nagkamali kayo subalit \[mayroon\] sa anumang sinadya ng mga puso ninyo. Laging si Allāh ay Mapagpatawad, Maawain.
 
 # 3539
 
-Ang Propeta ay higit na karapat-dapat sa mga mananampalataya kaysa sa mga sarili nila. Ang mga maybahay niya ay mga ina nila. Ang mga may mga ugnayang pangkaanak, ang iba sa kanila ay higit na karapat-dapat sa iba [sa pagmamana] ayon sa Kautusan ni Allāh kaysa sa mga mananampalataya at mga lumikas, maliban na gumawa kayo sa mga katangkilik ninyo ng isang nakabubuti. Noon pa, iyon sa Talaan ay nakatitik na.
+Ang Propeta ay higit na karapat-dapat sa mga mananampalataya kaysa sa mga sarili nila. Ang mga maybahay niya ay mga ina nila. Ang mga may mga ugnayang pangkaanak, ang iba sa kanila ay higit na karapat-dapat sa iba \[sa pagmamana\] ayon sa Kautusan ni Allāh kaysa sa mga mananampalataya at mga lumikas, maliban na gumawa kayo sa mga katangkilik ninyo ng isang nakabubuti. Noon pa, iyon sa Talaan ay nakatitik na.
 
 # 3540
 
-[Banggitin] noong tumanggap Kami mula sa mga propeta ng tipan nila, mula sa iyo, at mula kina Noe, Abraham, Moises, at Jesus na anak ni Maria. Tumanggap Kami mula sa kanila ng tipang mariin,
+\[Banggitin\] noong tumanggap Kami mula sa mga propeta ng tipan nila, mula sa iyo, at mula kina Noe, Abraham, Moises, at Jesus na anak ni Maria. Tumanggap Kami mula sa kanila ng tipang mariin,
 
 # 3541
 
@@ -14198,7 +14198,7 @@ O mga sumampalataya, alalahanin ninyo ang biyaya ni Allāh sa inyo noong may dum
 
 # 3543
 
-[Banggitin] noong dumating sila sa inyo mula sa ibabaw ninyo at mula sa ilalim mula sa inyo, at noong lumiko ang mga paningin, umabot ang mga puso sa mga lalamunan, at nagpapalagay kayo kay Allāh ng mga palagay.
+\[Banggitin\] noong dumating sila sa inyo mula sa ibabaw ninyo at mula sa ilalim mula sa inyo, at noong lumiko ang mga paningin, umabot ang mga puso sa mga lalamunan, at nagpapalagay kayo kay Allāh ng mga palagay.
 
 # 3544
 
@@ -14206,11 +14206,11 @@ Doon nasubok ang mga mananampalataya at nayanig sila sa isang pagyanig na matind
 
 # 3545
 
-[Banggitin] noong nagsasabi ang mga mapagpaimbabaw at ang mga sa mga puso nila ay may sakit: "Walang ipinangako sa amin si Allāh at ang Sugo Niya kundi isang pagkalinlang."
+\[Banggitin\] noong nagsasabi ang mga mapagpaimbabaw at ang mga sa mga puso nila ay may sakit: "Walang ipinangako sa amin si Allāh at ang Sugo Niya kundi isang pagkalinlang."
 
 # 3546
 
-[Banggitin] noong may nagsabing isang pangkatin kabilang sa kanila: "O mga mamamayan ng Yathrib, walang mapananatilihan para sa inyo kaya bumalik kayo." May nagpapaalam na isang pangkat kabilang sa kanila sa Propeta, na nagsasabi: "Tunay na ang mga bahay namin ay nakabuyayang," samantalang ang mga iyon ay hindi nakabuyayang. Walang silang ninanais kundi isang pagtakas.
+\[Banggitin\] noong may nagsabing isang pangkatin kabilang sa kanila: "O mga mamamayan ng Yathrib, walang mapananatilihan para sa inyo kaya bumalik kayo." May nagpapaalam na isang pangkat kabilang sa kanila sa Propeta, na nagsasabi: "Tunay na ang mga bahay namin ay nakabuyayang," samantalang ang mga iyon ay hindi nakabuyayang. Walang silang ninanais kundi isang pagtakas.
 
 # 3547
 
@@ -14234,7 +14234,7 @@ Nakaaalam nga si Allāh sa mga tagabalakid kabilang sa inyo at mga tagasabi sa m
 
 # 3552
 
-habang mga sakim sa inyo. Ngunit kapag dumating ang pangamba, makakikita ka sa kanila na tumitingin sa iyo, na umiikot ang mga mata nila gaya ng hinihimatay sa kamatayan; ngunit kapag umalis ang takot ay humahagupit sila sa inyo ng mga dilang matatalas, na mga sakim sa [paggugol ng] mabuti. Ang mga iyon ay hindi sumampalataya kaya nagpawalang-kabuluhan si Allāh sa mga gawa nila. Laging iyon kay Allāh ay madali.
+habang mga sakim sa inyo. Ngunit kapag dumating ang pangamba, makakikita ka sa kanila na tumitingin sa iyo, na umiikot ang mga mata nila gaya ng hinihimatay sa kamatayan; ngunit kapag umalis ang takot ay humahagupit sila sa inyo ng mga dilang matatalas, na mga sakim sa \[paggugol ng\] mabuti. Ang mga iyon ay hindi sumampalataya kaya nagpawalang-kabuluhan si Allāh sa mga gawa nila. Laging iyon kay Allāh ay madali.
 
 # 3553
 
@@ -14250,7 +14250,7 @@ Noong nakita ng mga mananampalataya ang mga lapian ay nagsabi sila: "Ito ay ang 
 
 # 3556
 
-Mayroon sa mga mananampalataya na mga lalaking nagpakatapat sa ipinangako nila kay Allāh sapagkat mayroon sa kanila na tumupad sa panata niya at mayroon sa kanila na naghihintay pa. Hindi sila nagpalit [sa pangako] sa isang pagpapalit,
+Mayroon sa mga mananampalataya na mga lalaking nagpakatapat sa ipinangako nila kay Allāh sapagkat mayroon sa kanila na tumupad sa panata niya at mayroon sa kanila na naghihintay pa. Hindi sila nagpalit \[sa pangako\] sa isang pagpapalit,
 
 # 3557
 
@@ -14262,7 +14262,7 @@ Nagpaurong si Allāh sa mga tumangging sumampalataya habang nasa ngitngit nila, 
 
 # 3559
 
-Nagpababa Siya sa mga nagtaguyod sa kanila kabilang sa mga May Kasulatan mula sa mga balwarte ng mga iyon at bumato Siya sa mga puso ng mga iyon ng hilakbot [kaya] may isang pangkat na pinapatay ninyo at may isang pangkat na binibihag ninyo.
+Nagpababa Siya sa mga nagtaguyod sa kanila kabilang sa mga May Kasulatan mula sa mga balwarte ng mga iyon at bumato Siya sa mga puso ng mga iyon ng hilakbot \[kaya\] may isang pangkat na pinapatay ninyo at may isang pangkat na binibihag ninyo.
 
 # 3560
 
@@ -14286,7 +14286,7 @@ Ang sinumang magmamasunurin kabilang sa inyo kay Allāh at sa Sugo Niya at gagaw
 
 # 3565
 
-O mga maybahay ng Propeta, hindi kayo gaya ng isa sa mga babae. Kung nangilag kayong magkasala ay huwag kayong magmalamyos sa pagsabi sapagkat baka magmithi ang sa puso niya ay may karamdaman, [bagkus] magsabi kayo ng isang pananalitang nakabubuti.
+O mga maybahay ng Propeta, hindi kayo gaya ng isa sa mga babae. Kung nangilag kayong magkasala ay huwag kayong magmalamyos sa pagsabi sapagkat baka magmithi ang sa puso niya ay may karamdaman, \[bagkus\] magsabi kayo ng isang pananalitang nakabubuti.
 
 # 3566
 
@@ -14294,7 +14294,7 @@ Manatili kayo sa mga bahay ninyo at huwag kayong magtanghal ng pagtatanghal ng u
 
 # 3567
 
-Tandaan ninyo [mga maybahay ng Sugo] ang binibigkas sa mga bahay ninyo na mga talata ni Allāh at karunungan. Tunay na si Allāh ay laging Mapagtalos, Mapagbatid.
+Tandaan ninyo \[mga maybahay ng Sugo\] ang binibigkas sa mga bahay ninyo na mga talata ni Allāh at karunungan. Tunay na si Allāh ay laging Mapagtalos, Mapagbatid.
 
 # 3568
 
@@ -14306,7 +14306,7 @@ Hindi naging ukol sa isang lalaking mananampalataya ni sa isang babaing mananamp
 
 # 3570
 
-[Banggitin] noong nagsasabi ka sa biniyayaan ni Allāh at biniyayaan mo: "Magpanatili ka sa iyo ng maybahay mo at mangilag kang magkasala kay Allāh," samantalang nagkukubli ka sa sarili mo ng bagay na si Allāh ay maglalantad nito at natatakot ka sa mga tao samantalang si Allāh ay higit na karapat-dapat na matakot ka sa Kanya. Kaya noong nakatapos si Zayd mula sa kanya ng isang pangangailangan, ipinakasal Namin siya sa iyo upang walang mangyari sa mga mananampalataya na isang pagkaasiwa sa mga maybahay ng mga ampon nila kapag nakatapos ang mga ito mula sa mga iyon ng isang pangangailangan. Laging ang utos ni Allāh ay nagagawa.
+\[Banggitin\] noong nagsasabi ka sa biniyayaan ni Allāh at biniyayaan mo: "Magpanatili ka sa iyo ng maybahay mo at mangilag kang magkasala kay Allāh," samantalang nagkukubli ka sa sarili mo ng bagay na si Allāh ay maglalantad nito at natatakot ka sa mga tao samantalang si Allāh ay higit na karapat-dapat na matakot ka sa Kanya. Kaya noong nakatapos si Zayd mula sa kanya ng isang pangangailangan, ipinakasal Namin siya sa iyo upang walang mangyari sa mga mananampalataya na isang pagkaasiwa sa mga maybahay ng mga ampon nila kapag nakatapos ang mga ito mula sa mga iyon ng isang pangangailangan. Laging ang utos ni Allāh ay nagagawa.
 
 # 3571
 
@@ -14314,7 +14314,7 @@ Hindi nangyaring sa Propeta ay may anumang pagkaasiwa sa anumang isinatungkulin 
 
 # 3572
 
-[Itong mga propeta ay] ang mga nagpapaabot ng mga pasugo ni Allāh at natatakot sa Kanya at hindi natatakot sa isa man maliban kay Allāh. Nakasapat si Allāh bilang Mapagtuos.
+\[Itong mga propeta ay\] ang mga nagpapaabot ng mga pasugo ni Allāh at natatakot sa Kanya at hindi natatakot sa isa man maliban kay Allāh. Nakasapat si Allāh bilang Mapagtuos.
 
 # 3573
 
@@ -14362,15 +14362,15 @@ O Propeta, tunay na Kami ay nagpahintulot para sa iyo sa mga maybahay mong nagbi
 
 # 3584
 
-Makapagpapaliban ka ng sinumang niloloob mo kabilang sa kanila at makapagpapatuloy ka sa iyo ng sinumang niloloob mo. Ang sinumang hinangad mo mula sa [pansamantalang] hiniwalayan mo ay walang maisisisi sa iyo [na bumalik sa kanya]. Iyon ay higit na angkop na magalak ang mga mata nila. Hindi sila malungkot at malugod sila sa ibinigay mo sa kanila sa kabuuan nila. Si Allāh ay nakaaalam sa nasa mga puso ninyo. Laging si Allāh ay Maalam, Matimpiin.
+Makapagpapaliban ka ng sinumang niloloob mo kabilang sa kanila at makapagpapatuloy ka sa iyo ng sinumang niloloob mo. Ang sinumang hinangad mo mula sa \[pansamantalang\] hiniwalayan mo ay walang maisisisi sa iyo \[na bumalik sa kanya\]. Iyon ay higit na angkop na magalak ang mga mata nila. Hindi sila malungkot at malugod sila sa ibinigay mo sa kanila sa kabuuan nila. Si Allāh ay nakaaalam sa nasa mga puso ninyo. Laging si Allāh ay Maalam, Matimpiin.
 
 # 3585
 
-Hindi ipinahihintulot para sa iyo ang [ibang] mga babae nang matapos niyan at hindi na magpalit ka sa kanila ng mga [ibang] asawa, kahit pa nagpahanga sa iyo ang kagandahan nila, maliban sa minay-ari ng kanang kamay mo. Laging si Allāh sa bawat bagay ay Mapagmasid.
+Hindi ipinahihintulot para sa iyo ang \[ibang\] mga babae nang matapos niyan at hindi na magpalit ka sa kanila ng mga \[ibang\] asawa, kahit pa nagpahanga sa iyo ang kagandahan nila, maliban sa minay-ari ng kanang kamay mo. Laging si Allāh sa bawat bagay ay Mapagmasid.
 
 # 3586
 
-O mga sumampalataya, huwag kayong pumasok sa mga bahay ng Propeta maliban na magpahintulot sa inyo para sa isang pagkain, na hindi mga naghihintay sa pagkaluto nito, subalit kapag inanyayahan kayo ay pumasok kayo; saka kapag nakakain na kayo ay maghiwa-hiwalay kayo nang hindi mga naghahalubilo para sa isang pag-uusap. Tunay na iyon ay nakasasakit noon sa Propeta ngunit nahihiya siya sa inyo, at si Allāh ay hindi nahihiya sa katotohanan. Kapag humiling kayo sa kanila [na mga maybahay niya] ng isang kagamitan ay humiling kayo sa kanila mula sa likuran ng isang tabing. Iyon ay higit na dalisay para sa mga puso ninyo at mga puso nila. Hindi naging ukol sa inyo na manakit kayo sa Sugo ni Allāh ni mag-asawa kayo ng mga maybahay niya matapos niya magpakailanman. Tunay na iyon laging sa ganang kay Allāh ay sukdulan.
+O mga sumampalataya, huwag kayong pumasok sa mga bahay ng Propeta maliban na magpahintulot sa inyo para sa isang pagkain, na hindi mga naghihintay sa pagkaluto nito, subalit kapag inanyayahan kayo ay pumasok kayo; saka kapag nakakain na kayo ay maghiwa-hiwalay kayo nang hindi mga naghahalubilo para sa isang pag-uusap. Tunay na iyon ay nakasasakit noon sa Propeta ngunit nahihiya siya sa inyo, at si Allāh ay hindi nahihiya sa katotohanan. Kapag humiling kayo sa kanila \[na mga maybahay niya\] ng isang kagamitan ay humiling kayo sa kanila mula sa likuran ng isang tabing. Iyon ay higit na dalisay para sa mga puso ninyo at mga puso nila. Hindi naging ukol sa inyo na manakit kayo sa Sugo ni Allāh ni mag-asawa kayo ng mga maybahay niya matapos niya magpakailanman. Tunay na iyon laging sa ganang kay Allāh ay sukdulan.
 
 # 3587
 
@@ -14378,7 +14378,7 @@ Kung maglalahad kayo ng isang bagay o magkukubli kayo nito, tunay na si Allāh l
 
 # 3588
 
-Walang maisisisi sa kanila kaugnay sa mga ama nila, ni mga lalaking anak nila, ni mga lalaking kapatid nila, ni mga lalaking anak ng mga lalaking kapatid nila, ni mga lalaking anak ng mga babaing kapatid nila, ni mga [kapwa] babae nila, ni mga babaing minay-ari ng mga kanang kamay nila. Mangilag kayong magkasala kay Allāh; tunay na si Allāh laging sa bawat bagay ay Saksi.
+Walang maisisisi sa kanila kaugnay sa mga ama nila, ni mga lalaking anak nila, ni mga lalaking kapatid nila, ni mga lalaking anak ng mga lalaking kapatid nila, ni mga lalaking anak ng mga babaing kapatid nila, ni mga \[kapwa\] babae nila, ni mga babaing minay-ari ng mga kanang kamay nila. Mangilag kayong magkasala kay Allāh; tunay na si Allāh laging sa bawat bagay ay Saksi.
 
 # 3589
 
@@ -14406,7 +14406,7 @@ Mga isinumpa saan man sila nasumpungan, dadaklutin sila at pagpapatayin sila nan
 
 # 3595
 
-Bilang kalakaran ni Allāh [ito] sa mga nagdaan bago pa niyon. Hindi ka makatatagpo para sa kalakaran ni Allāh ng isang pagpapalit.
+Bilang kalakaran ni Allāh \[ito\] sa mga nagdaan bago pa niyon. Hindi ka makatatagpo para sa kalakaran ni Allāh ng isang pagpapalit.
 
 # 3596
 
@@ -14450,7 +14450,7 @@ Tunay na Kami ay nag-alok ng pagtitiwala sa mga langit, lupa, at mga bundok; ngu
 
 # 3606
 
-[Ito ay] upang pagdusahin ni Allāh ang mga lalaking mapagpaimbabaw at ang mga babaing mapagpaimbabaw, at ang mga lalaking tagapagtambal at ang mga babaing tagapagtambal, at [upang] tumanggap si Allāh ng pagbabalik-loob sa mga lalaking mananampalataya at mga babaing mananampalataya. Laging si Allāh ay Mapagpatawad, Maawain.
+\[Ito ay\] upang pagdusahin ni Allāh ang mga lalaking mapagpaimbabaw at ang mga babaing mapagpaimbabaw, at ang mga lalaking tagapagtambal at ang mga babaing tagapagtambal, at \[upang\] tumanggap si Allāh ng pagbabalik-loob sa mga lalaking mananampalataya at mga babaing mananampalataya. Laging si Allāh ay Mapagpatawad, Maawain.
 
 # 3607
 
@@ -14490,15 +14490,15 @@ Kaya hindi ba sila nakakikita sa anumang nasa pagitan ng mga kamay nila at anuma
 
 # 3616
 
-Talaga ngang nagbigay Kami kay David mula sa Amin ng isang kabutihang-loob. [Nagsabi Kami]: "O mga bundok, mag-ulit-ulit kayo ng pagluluwalhati kasama sa kanya at [gayon din] ang mga ibon. Nagpalambot Kami para sa kanya ng bakal,
+Talaga ngang nagbigay Kami kay David mula sa Amin ng isang kabutihang-loob. \[Nagsabi Kami\]: "O mga bundok, mag-ulit-ulit kayo ng pagluluwalhati kasama sa kanya at \[gayon din\] ang mga ibon. Nagpalambot Kami para sa kanya ng bakal,
 
 # 3617
 
-[na nagsasabi]: "Gumawa ka ng mga buong baluti at tumaya ka sa mga pandugtong. Gumawa kayo ng maayos; tunay na Ako sa anumang ginagawa Niya ay Nakakikita."
+\[na nagsasabi\]: "Gumawa ka ng mga buong baluti at tumaya ka sa mga pandugtong. Gumawa kayo ng maayos; tunay na Ako sa anumang ginagawa Niya ay Nakakikita."
 
 # 3618
 
-[Pinagsilbi] para kay Solomon ang hangin. Ang pang-umagang paglalakbay nito ay [singlayo ng] isang buwan at ang pantanghaling paglalakbay nito ay [singlayo ng] isang buwan. Tumunaw Kami para sa kanya ng bukal ng tanso. Mayroong mga jinn na gumagawa sa harapan niya ayon sa pahintulot ng Panginoon niya. Ang sinumang lumiko kabilang sa kanila palayo sa utos Namin ay magpapalasap Kami sa kanya mula sa pagdurusa sa Liyab.
+\[Pinagsilbi\] para kay Solomon ang hangin. Ang pang-umagang paglalakbay nito ay \[singlayo ng\] isang buwan at ang pantanghaling paglalakbay nito ay \[singlayo ng\] isang buwan. Tumunaw Kami para sa kanya ng bukal ng tanso. Mayroong mga jinn na gumagawa sa harapan niya ayon sa pahintulot ng Panginoon niya. Ang sinumang lumiko kabilang sa kanila palayo sa utos Namin ay magpapalasap Kami sa kanya mula sa pagdurusa sa Liyab.
 
 # 3619
 
@@ -14510,7 +14510,7 @@ Kaya noong nagtadhana Kami sa kanya ng kamatayan ay walang nagturo sa kanila sa 
 
 # 3621
 
-Talaga ngang nagkaroon ang [lipi ng] Sheba sa tirahan nila ng isang tanda: dalawang hardin sa gawing kanan at kaliwa. [Sinabi]: "Kumain kayo mula sa panustos ng Panginoon ninyo at magpasalamat kayo sa Kanya. [Mayroon kayong] isang bayang kaaya-aya at isang Panginoong Mapagpatawad.
+Talaga ngang nagkaroon ang \[lipi ng\] Sheba sa tirahan nila ng isang tanda: dalawang hardin sa gawing kanan at kaliwa. \[Sinabi\]: "Kumain kayo mula sa panustos ng Panginoon ninyo at magpasalamat kayo sa Kanya. \[Mayroon kayong\] isang bayang kaaya-aya at isang Panginoong Mapagpatawad.
 
 # 3622
 
@@ -14522,7 +14522,7 @@ Iyon ay iginanti Namin sa kanila dahil tumanggi silang sumampalataya. Hindi Kami
 
 # 3624
 
-Naglagay Kami sa pagitan nila at ng mga pamamayanan na nagpala Kami sa mga iyon ng mga pamayanang nakalantad. Itinakda Namin doon ang paglalakbay [sa magkakalapit na mga baytang ng, na nagsasabi]: "Humayo kayo roon sa mga gabi at mga araw nang mga matiwasay."
+Naglagay Kami sa pagitan nila at ng mga pamamayanan na nagpala Kami sa mga iyon ng mga pamayanang nakalantad. Itinakda Namin doon ang paglalakbay \[sa magkakalapit na mga baytang ng, na nagsasabi\]: "Humayo kayo roon sa mga gabi at mga araw nang mga matiwasay."
 
 # 3625
 
@@ -14538,7 +14538,7 @@ Hindi siya nagkaroon sa kanila ng anumang kapamahalaan maliban upang magtangi Ka
 
 # 3628
 
-Sabihin mo: "Dumalangin kayo sa mga inangkin ninyo bukod pa kay Allāh, samantalang hindi sila nagmamay-ari ng kasimbigat ng isang katiting sa mga langit ni sa lupa, walang ukol sa kanila sa mga ito na anumang pakikitambal [sa Kanya] at walang ukol sa Kanya mula sa kanila na anumang mapagtaguyod,
+Sabihin mo: "Dumalangin kayo sa mga inangkin ninyo bukod pa kay Allāh, samantalang hindi sila nagmamay-ari ng kasimbigat ng isang katiting sa mga langit ni sa lupa, walang ukol sa kanila sa mga ito na anumang pakikitambal \[sa Kanya\] at walang ukol sa Kanya mula sa kanila na anumang mapagtaguyod,
 
 # 3629
 
@@ -14582,7 +14582,7 @@ Magsasabi ang mga nagmalaki sa mga siniil: "Kami ba ay bumalakid sa inyo sa patn
 
 # 3639
 
-Magsasabi ang mga siniil sa mga nagmalaki: "Bagkus, [humadlang sa amin] ang pakana sa gabi at maghapon noong nag-uutos kayo sa amin na tumanggi kaming sumampalataya kay Allāh at [na] gumawa kami para sa Kanya ng mga kaagaw." Maglilihim sila ng pagsisisi kapag nakita nila ang pagdurusa. Maglalagay Kami ng mga kulyar sa mga leeg ng tumangging sumampalataya. Gagantihan kaya sila ng maliban pa sa dati nilang ginagawa?
+Magsasabi ang mga siniil sa mga nagmalaki: "Bagkus, \[humadlang sa amin\] ang pakana sa gabi at maghapon noong nag-uutos kayo sa amin na tumanggi kaming sumampalataya kay Allāh at \[na\] gumawa kami para sa Kanya ng mga kaagaw." Maglilihim sila ng pagsisisi kapag nakita nila ang pagdurusa. Maglalagay Kami ng mga kulyar sa mga leeg ng tumangging sumampalataya. Gagantihan kaya sila ng maliban pa sa dati nilang ginagawa?
 
 # 3640
 
@@ -14598,7 +14598,7 @@ Sabihin mo: "Tunay na ang Panginoon ko ay nagpapaluwag ng panustos para sa sinum
 
 # 3643
 
-Hindi ang mga yaman ninyo at hindi ang mga anak ninyo ang nagpapalapit sa inyo sa ganang Amin sa kadikitan bagkus ang [pagiging mga] sumampalataya at gumawa ng maayos sapagkat ang mga iyon ay ukol sa kanila ang ganti ng pag-iibayo [ng gantimpala] dahil sa ginawa nila at sila sa mga silid ay mga natitiwasay.
+Hindi ang mga yaman ninyo at hindi ang mga anak ninyo ang nagpapalapit sa inyo sa ganang Amin sa kadikitan bagkus ang \[pagiging mga\] sumampalataya at gumawa ng maayos sapagkat ang mga iyon ay ukol sa kanila ang ganti ng pag-iibayo \[ng gantimpala\] dahil sa ginawa nila at sila sa mga silid ay mga natitiwasay.
 
 # 3644
 
@@ -14610,7 +14610,7 @@ Sabihin mo: "Tunay na ang Panginoon ko ay nagpapaluwag ng panustos para sa sinum
 
 # 3646
 
-[Banggitin mo] ang araw na kakalap Siya sa kanila sa kalahatan, pagkatapos magsasabi Siya sa mga anghel: "Ang mga ito ba ay sa inyo dati sila sumasamba?"
+\[Banggitin mo\] ang araw na kakalap Siya sa kanila sa kalahatan, pagkatapos magsasabi Siya sa mga anghel: "Ang mga ito ba ay sa inyo dati sila sumasamba?"
 
 # 3647
 
@@ -14658,7 +14658,7 @@ Kung sakaling makikita mo kapag nanghilakbot sila ngunit walang lusot at dadaklu
 
 # 3658
 
-Magsasabi sila: "Sumampalataya kami rito," at paanong ukol sa kanila ang pag-abot [sa pananampalataya] mula sa isang pook na malayo?
+Magsasabi sila: "Sumampalataya kami rito," at paanong ukol sa kanila ang pag-abot \[sa pananampalataya\] mula sa isang pook na malayo?
 
 # 3659
 
@@ -14698,7 +14698,7 @@ Ang mga tumangging sumampalataya, ukol sa kanila ay isang pagdurusang matindi. A
 
 # 3668
 
-Kaya [napatnubayan] ba ang sinumang ipinang-akit sa kanya ang kasagwaan ng gawain niya kaya nakita niya ito bilang maganda, sapagkat tunay na si Allāh ay nagliligaw sa sinumang niloloob Niya at nagpapatnubay sa sinumang niloloob Niya? Kaya huwag masawi ang sarili mo dahil sa kanila sa mga panghihinayang. Tunay na si Allāh ay Maalam sa anumang niyayari nila.
+Kaya \[napatnubayan\] ba ang sinumang ipinang-akit sa kanya ang kasagwaan ng gawain niya kaya nakita niya ito bilang maganda, sapagkat tunay na si Allāh ay nagliligaw sa sinumang niloloob Niya at nagpapatnubay sa sinumang niloloob Niya? Kaya huwag masawi ang sarili mo dahil sa kanila sa mga panghihinayang. Tunay na si Allāh ay Maalam sa anumang niyayari nila.
 
 # 3669
 
@@ -14714,7 +14714,7 @@ Si Allāh ay lumikha sa inyo mula sa alabok, pagkatapos mula sa patak ng punlay,
 
 # 3672
 
-Hindi nagkakapantay ang dalawang katubigan. Itong [isa] ay tabang na pagkatabang-tabang na kasiya-siya ang pag-inom nito at itong [isa] naman ay maalat na mapait. Mula sa bawat isa ay kumakain kayo ng isang lamang malambot at humango kayo ng hiyas na isinusuot ninyo. Nakikita mo ang mga daong rito habang mga umaararo upang maghangad kayo ng kagandahang-loob Niya at nang sa gayon kayo ay magpapasalamat.
+Hindi nagkakapantay ang dalawang katubigan. Itong \[isa\] ay tabang na pagkatabang-tabang na kasiya-siya ang pag-inom nito at itong \[isa\] naman ay maalat na mapait. Mula sa bawat isa ay kumakain kayo ng isang lamang malambot at humango kayo ng hiyas na isinusuot ninyo. Nakikita mo ang mga daong rito habang mga umaararo upang maghangad kayo ng kagandahang-loob Niya at nang sa gayon kayo ay magpapasalamat.
 
 # 3673
 
@@ -14806,7 +14806,7 @@ Magsasabi sila: "Ang papuri ay ukol kay Allāh na nag-alis sa amin ng lungkot. T
 
 # 3695
 
-[Siya] ang nagpatahan sa atin sa tahanan ng pananatilihan dahil sa kabutihang-loob Niya. Walang sasalingin sa atin doon na kapagalan at walang sasaling sa atin na pagkapata.
+\[Siya\] ang nagpatahan sa atin sa tahanan ng pananatilihan dahil sa kabutihang-loob Niya. Walang sasalingin sa atin doon na kapagalan at walang sasaling sa atin na pagkapata.
 
 # 3696
 
@@ -14814,7 +14814,7 @@ Ang mga tumangging sumampalataya, ukol sa kanila ang Apoy ng Impiyerno. Hindi hu
 
 # 3697
 
-Sila ay magtititili roon: "Panginoon naming; magpalabas Ka sa amin, gagawa kami ng maayos na iba sa dati naming ginagawa." Hindi ba Kami nagpatanda sa inyo sa [edad na] nakapagsasaalaala rito ang sinumang nakapagsasaalaala at dumating sa inyo ang mapagbabala? Kaya lumasap kayo [ng parusa] sapagkat walang ukol sa mga tagalabag sa katarungan na anumang mapag-adya.
+Sila ay magtititili roon: "Panginoon naming; magpalabas Ka sa amin, gagawa kami ng maayos na iba sa dati naming ginagawa." Hindi ba Kami nagpatanda sa inyo sa \[edad na\] nakapagsasaalaala rito ang sinumang nakapagsasaalaala at dumating sa inyo ang mapagbabala? Kaya lumasap kayo \[ng parusa\] sapagkat walang ukol sa mga tagalabag sa katarungan na anumang mapag-adya.
 
 # 3698
 
@@ -14922,7 +14922,7 @@ Nagsabi ang mga iyon: "Tunay na kami ay nagtuturing ng kamalasan sa inyo. Talaga
 
 # 3724
 
-Nagsabi sila: "Ang kamalasan ninyo ay kasama sa inyo. [Kamalasan] ba kung pinaalalahanan kayo? Bagkus kayo ay mga taong nagmamalabis."
+Nagsabi sila: "Ang kamalasan ninyo ay kasama sa inyo. \[Kamalasan\] ba kung pinaalalahanan kayo? Bagkus kayo ay mga taong nagmamalabis."
 
 # 3725
 
@@ -15018,7 +15018,7 @@ Lumikha Kami para sa kanila mula sa tulad niyon ng sinasakyan nila.
 
 # 3748
 
-Kung loloobin Namin ay lulunurin Namin sila saka walang [tutugon sa] pagtili para sa kanila ni sila ay sasagipin,
+Kung loloobin Namin ay lulunurin Namin sila saka walang \[tutugon sa\] pagtili para sa kanila ni sila ay sasagipin,
 
 # 3749
 
@@ -15054,7 +15054,7 @@ Iihip sa tambuli kaya biglang sila mula sa mga puntod patungo sa Panginoon nila 
 
 # 3757
 
-Magsasabi sila: "O kapighatian sa amin! Sino ang bumuhay na muli sa atin mula sa tulugan natin?" [Sasagutin sila:] "Ito ay ang ipinangako ng Pinakamaawain at nagtapat ang mga isinugo."
+Magsasabi sila: "O kapighatian sa amin! Sino ang bumuhay na muli sa atin mula sa tulugan natin?" \[Sasagutin sila:\] "Ito ay ang ipinangako ng Pinakamaawain at nagtapat ang mga isinugo."
 
 # 3758
 
@@ -15126,7 +15126,7 @@ Hindi Kami nagturo sa kanya ng tula at hindi iyon nararapat para sa kanya. Walan
 
 # 3775
 
-upang magbabala sa sinumang siya ay buhay at [upang] magindapat ang hatol sa mga tagatangging sumampalataya.
+upang magbabala sa sinumang siya ay buhay at \[upang\] magindapat ang hatol sa mga tagatangging sumampalataya.
 
 # 3776
 
@@ -15166,7 +15166,7 @@ Sabihin mo: "Magbibigay-buhay sa mga ito ang nagpaluwal sa mga ito sa unang pagk
 
 # 3785
 
-[Siya] ang gumawa para sa inyo mula sa mga punong-kahoy na luntian ng isang apoy, saka biglang kayo mula sa mga ito ay nagpapaningas.
+\[Siya\] ang gumawa para sa inyo mula sa mga punong-kahoy na luntian ng isang apoy, saka biglang kayo mula sa mga ito ay nagpapaningas.
 
 # 3786
 
@@ -15182,7 +15182,7 @@ Kaya kaluwalhatian sa Kanya na nasa kamay Niya ang pagkahari sa bawat bagay, at 
 
 # 3789
 
-Sumpa man sa mga [anghel na] nakahanay sa isang hanay,
+Sumpa man sa mga \[anghel na\] nakahanay sa isang hanay,
 
 # 3790
 
@@ -15210,7 +15210,7 @@ at bilang pangangalaga laban sa bawat demonyong naghihimagsik.
 
 # 3796
 
-Hindi sila nakikinig-kinig sa konsehong pinakamataas [malibang] habang pinupukol sila mula sa bawat gilid
+Hindi sila nakikinig-kinig sa konsehong pinakamataas \[malibang\] habang pinupukol sila mula sa bawat gilid
 
 # 3797
 
@@ -15222,7 +15222,7 @@ maliban sa sinumang humahablot ng hablot ngunit sinusundan siya ng isang ningas 
 
 # 3799
 
-Kaya magpahabilin ka sa kanila: "Sila ba ay higit na matindi sa pagkakalikha o ang [ibang] nilikha Namin?" Tunay na Kami ay lumikha sa kanila mula sa isang putik na malagkit.
+Kaya magpahabilin ka sa kanila: "Sila ba ay higit na matindi sa pagkakalikha o ang \[ibang\] nilikha Namin?" Tunay na Kami ay lumikha sa kanila mula sa isang putik na malagkit.
 
 # 3800
 
@@ -15266,7 +15266,7 @@ Ito ay ang Araw ng Pagpapasya na kayo dati dito ay nagpapasinungaling.
 
 # 3810
 
-[Sasabihin]: "Kalapin ninyo ang mga lumabag sa katarungan, ang mga kauri nila, at ang anumang dati nilang sinasamba
+\[Sasabihin\]: "Kalapin ninyo ang mga lumabag sa katarungan, ang mga kauri nila, at ang anumang dati nilang sinasamba
 
 # 3811
 
@@ -15278,7 +15278,7 @@ at patigilin ninyo sila; tunay na sila ay mga pananagutin."
 
 # 3813
 
-[Sasabihin]: "Ano ang mayroon sa inyo na hindi kayo nag-aadyaan?"
+\[Sasabihin\]: "Ano ang mayroon sa inyo na hindi kayo nag-aadyaan?"
 
 # 3814
 
@@ -15302,7 +15302,7 @@ Hindi kami nagkaroon sa inyo ng anumang kapamahalaan; bagkus kayo dati ay mga ta
 
 # 3819
 
-Kaya nagindapat sa atin ang hatol ng Panginoon natin; tunay na tayo ay talagang mga lalasap [ng pagdurusa].
+Kaya nagindapat sa atin ang hatol ng Panginoon natin; tunay na tayo ay talagang mga lalasap \[ng pagdurusa\].
 
 # 3820
 
@@ -15358,7 +15358,7 @@ sa mga kama na mga magkakaharap.
 
 # 3833
 
-Magpapaikot sa kanila ng kopa mula sa isang [bukal na] umaagos,
+Magpapaikot sa kanila ng kopa mula sa isang \[bukal na\] umaagos,
 
 # 3834
 
@@ -15370,7 +15370,7 @@ Wala ritong kalanguan at hindi sila buhat dito palalasingin.
 
 # 3836
 
-Sa piling nila ay may mga babaing naglilimita ng sulyap, na [may magandang] mga mata,
+Sa piling nila ay may mga babaing naglilimita ng sulyap, na \[may magandang\] mga mata,
 
 # 3837
 
@@ -15406,7 +15406,7 @@ Magsasabi ito: "Sumpa man kay Allāh, tunay na muntik ka talagang sumawi sa akin
 
 # 3845
 
-Kung hindi dahil sa biyaya ng Panginoon ko, talaga sanang ako ay naging kabilang na sa mga padadaluhin [sa pagdurusa].
+Kung hindi dahil sa biyaya ng Panginoon ko, talaga sanang ako ay naging kabilang na sa mga padadaluhin \[sa pagdurusa\].
 
 # 3846
 
@@ -15490,7 +15490,7 @@ Gumawa Kami sa mga supling niya na sila ay ang mga natitira.
 
 # 3866
 
-Nag-iwan Kami para sa kanya sa mga nahuli [ng magandang pagbanggit].
+Nag-iwan Kami para sa kanya sa mga nahuli \[ng magandang pagbanggit\].
 
 # 3867
 
@@ -15554,7 +15554,7 @@ Kaya tumalilis siya laban sa kanila ng isang hampas sa pamamagitan ng kanang kam
 
 # 3882
 
-Kaya lumapit [ang mga mananamba] patungo sa kanya, na kumakaripas.
+Kaya lumapit \[ang mga mananamba\] patungo sa kanya, na kumakaripas.
 
 # 3883
 
@@ -15578,7 +15578,7 @@ Nagsabi siya: "Tunay na ako ay pupunta sa Panginoon ko; magpapatnubay Siya sa ak
 
 # 3888
 
-Panginoon ko, magkaloob Ka para sa akin [ng anak] kabilang sa mga maayos."
+Panginoon ko, magkaloob Ka para sa akin \[ng anak\] kabilang sa mga maayos."
 
 # 3889
 
@@ -15586,7 +15586,7 @@ Kaya nagbalita Kami sa kanya ng nakagagalak hinggil sa isang batang matimpiin.
 
 # 3890
 
-Kaya noong umabot ito kasama sa kanya sa [gulang ng] pagpupunyagi ay nagsabi siya: "O munting anak ko, tunay na ako ay nakakikita sa pagtulog na ako ay kumakatay sa iyo, kaya tumingin ka kung ano nakikita mo." Nagsabi ito: "O ama ko, gawin mo po ang ipinag-uutos sa iyo. Matatagpuan mo po ako, kung niloob ni Allāh, kabilang sa mga nagtitiis."
+Kaya noong umabot ito kasama sa kanya sa \[gulang ng\] pagpupunyagi ay nagsabi siya: "O munting anak ko, tunay na ako ay nakakikita sa pagtulog na ako ay kumakatay sa iyo, kaya tumingin ka kung ano nakikita mo." Nagsabi ito: "O ama ko, gawin mo po ang ipinag-uutos sa iyo. Matatagpuan mo po ako, kung niloob ni Allāh, kabilang sa mga nagtitiis."
 
 # 3891
 
@@ -15610,7 +15610,7 @@ Tumubos Kami sa kanya sa pamamagitan ng isang alay na dakila.
 
 # 3896
 
-Nag-iwan Kami para sa kanya [ng magandang pagbanggit] sa mga nahuli.
+Nag-iwan Kami para sa kanya \[ng magandang pagbanggit\] sa mga nahuli.
 
 # 3897
 
@@ -15654,7 +15654,7 @@ Nagpatnubay Kami sa kanilang dalawa sa landasing tuwid.
 
 # 3907
 
-Nag-iwan Kami para sa kanilang dalawa [ng magandang pagbanggit] sa mga nahuli.
+Nag-iwan Kami para sa kanilang dalawa \[ng magandang pagbanggit\] sa mga nahuli.
 
 # 3908
 
@@ -15686,7 +15686,7 @@ kay Allāh na Panginoon ninyo at Panginoon ng mga ninuno ninyong mga sinauna?"
 
 # 3915
 
-Ngunit nagpasinungaling sila sa kanya kaya tunay na sila ay talagang mga padadaluhin [sa pagdurusa],
+Ngunit nagpasinungaling sila sa kanya kaya tunay na sila ay talagang mga padadaluhin \[sa pagdurusa\],
 
 # 3916
 
@@ -15694,7 +15694,7 @@ maliban sa mga itinanging lingkod ni Allāh.
 
 # 3917
 
-Nag-iwan Kami para sa kanya [ng magandang pagbanggit] sa mga nahuli.
+Nag-iwan Kami para sa kanya \[ng magandang pagbanggit\] sa mga nahuli.
 
 # 3918
 
@@ -15810,7 +15810,7 @@ Kaya maglahad kayo ng kasulatan ninyo kung kayo ay mga tapat.
 
 # 3946
 
-Nag-angkin sila sa pagitan Niya at ng mga [anghel na] nakakubli ng isang pagkakamag-anak. Talaga ngang nalaman ng mga [anghel na] nakakubli na tunay na sila ay talagang mga padadaluhin [sa pagdurusa].
+Nag-angkin sila sa pagitan Niya at ng mga \[anghel na\] nakakubli ng isang pagkakamag-anak. Talaga ngang nalaman ng mga \[anghel na\] nakakubli na tunay na sila ay talagang mga padadaluhin \[sa pagdurusa\].
 
 # 3947
 
@@ -15834,7 +15834,7 @@ maliban sa sinumang masusunog sa Impiyerno.
 
 # 3952
 
-[Magsasabi ang mga anghel]: "Walang kabilang sa amin malibang mayroon siyang isang katayuang nalalaman.
+\[Magsasabi ang mga anghel\]: "Walang kabilang sa amin malibang mayroon siyang isang katayuang nalalaman.
 
 # 3953
 
@@ -15866,11 +15866,11 @@ Talaga ngang nauna ang salita Namin para sa mga lingkod Naming mga isinugo:
 
 # 3960
 
-Tunay na sila, ukol sa kanila [na maging] ang mga iaadya;
+Tunay na sila, ukol sa kanila \[na maging\] ang mga iaadya;
 
 # 3961
 
-at tunay na ang mga kawal Namin, ukol sa kanila [na maging] ang tagadaig.
+at tunay na ang mga kawal Namin, ukol sa kanila \[na maging\] ang tagadaig.
 
 # 3962
 
@@ -15930,7 +15930,7 @@ Gumawa ba siya sa mga diyos bilang nag-iisang diyos? Tunay na ito ay talagang is
 
 # 3976
 
-Nagdumali ang konseho kabilang sa kanila, na [nagsasabi]: "Magpatuloy kayo at magtiis kayo sa mga diyos ninyo. Walang iba ito kundi talagang isang bagay na ninanais.
+Nagdumali ang konseho kabilang sa kanila, na \[nagsasabi\]: "Magpatuloy kayo at magtiis kayo sa mga diyos ninyo. Walang iba ito kundi talagang isang bagay na ninanais.
 
 # 3977
 
@@ -15950,19 +15950,19 @@ O sa kanila ba ang paghahari sa mga langit at lupa at anumang nasa pagitan ng mg
 
 # 3981
 
-[Sila ay] hukbo na doon tatalunin kabilang sa mga lapian.
+\[Sila ay\] hukbo na doon tatalunin kabilang sa mga lapian.
 
 # 3982
 
-Nagpasinungaling bago nila ang mga tao ni Noe, ang [liping] `Ād, si Paraon na may mga tulos,
+Nagpasinungaling bago nila ang mga tao ni Noe, ang \[liping\] \`Ād, si Paraon na may mga tulos,
 
 # 3983
 
-ang [liping] Thamūd, ang mga kababayan ni Lot, at ang mga naninirahan sa kasukalan. Ang mga iyon ay ang mga lapian.
+ang \[liping\] Thamūd, ang mga kababayan ni Lot, at ang mga naninirahan sa kasukalan. Ang mga iyon ay ang mga lapian.
 
 # 3984
 
-Walang iba ang bawat [isa] kundi nagpasinungaling sa mga sugo kaya nagindapat ang parusa Ko.
+Walang iba ang bawat \[isa\] kundi nagpasinungaling sa mga sugo kaya nagindapat ang parusa Ko.
 
 # 3985
 
@@ -15970,15 +15970,15 @@ Walang hinihintay ang mga ito kundi nag-iisang hiyaw na wala itong anumang pagpa
 
 # 3986
 
-Nagsabi sila: "Panginoon namin, magpabilis Ka para sa amin ng bahagi namin [sa parusa] bago ng Araw ng Pagtutuos."
+Nagsabi sila: "Panginoon namin, magpabilis Ka para sa amin ng bahagi namin \[sa parusa\] bago ng Araw ng Pagtutuos."
 
 # 3987
 
-Magtiis ka sa sinasabi nila at alalahanin mo ang lingkod Naming si David na may mga [malakas na] kamay; tunay na siya ay palabalik [kay Allāh].
+Magtiis ka sa sinasabi nila at alalahanin mo ang lingkod Naming si David na may mga \[malakas na\] kamay; tunay na siya ay palabalik \[kay Allāh\].
 
 # 3988
 
-Tunay na Kami ay nagpasilbi ng mga bundok, na kasama sa kanya nagluluwalhati ang mga ito sa dapit-hapon at pagsikat [ng araw].
+Tunay na Kami ay nagpasilbi ng mga bundok, na kasama sa kanya nagluluwalhati ang mga ito sa dapit-hapon at pagsikat \[ng araw\].
 
 # 3989
 
@@ -15994,7 +15994,7 @@ Pumunta kaya sa iyo ang balita ng mga magkaalitan noong umakyat sila sa sambahan
 
 # 3992
 
-Noong pumasok sila kay David ay nanghilakbot siya sa kanila. Nagsabi sila: "Huwag kang mangamba; [kami ay] magkaalitan, na lumabag ang iba sa amin sa iba, kaya humatol ka sa pagitan namin ayon sa katotohanan, huwag kang lumampas [doon], at pumatnubay ka sa amin tungo sa kalagitnaan ng landasin.
+Noong pumasok sila kay David ay nanghilakbot siya sa kanila. Nagsabi sila: "Huwag kang mangamba; \[kami ay\] magkaalitan, na lumabag ang iba sa amin sa iba, kaya humatol ka sa pagitan namin ayon sa katotohanan, huwag kang lumampas \[doon\], at pumatnubay ka sa amin tungo sa kalagitnaan ng landasin.
 
 # 3993
 
@@ -16002,7 +16002,7 @@ Tunay na ito ay kapatid ko; mayroon siyang siyamnapu’t siyam na tupang babae a
 
 # 3994
 
-Nagsabi siya: "Talaga ngang lumabag siya sa iyo sa katarungan sa paghiling ng pagsasama ng babaing tupa mo sa mga babaing tupa niya. Tunay na marami sa mga kasosyo ay talagang lumalabag ang iba sa kanila sa iba maliban sa mga sumampalataya at gumawa ng mga maayos – at kakaunti sila." Nakatiyak si David na sinubok lamang siya kaya humingi siya ng tawad sa Panginoon niya. Bumagsak siya na nakayukod at nanumbalik [kay Allāh].
+Nagsabi siya: "Talaga ngang lumabag siya sa iyo sa katarungan sa paghiling ng pagsasama ng babaing tupa mo sa mga babaing tupa niya. Tunay na marami sa mga kasosyo ay talagang lumalabag ang iba sa kanila sa iba maliban sa mga sumampalataya at gumawa ng mga maayos – at kakaunti sila." Nakatiyak si David na sinubok lamang siya kaya humingi siya ng tawad sa Panginoon niya. Bumagsak siya na nakayukod at nanumbalik \[kay Allāh\].
 
 # 3995
 
@@ -16010,7 +16010,7 @@ Kaya nagpatawad Kami sa kanya niyon, habang tunay na mayroon siya sa ganang Amin
 
 # 3996
 
-[Sinabi]: "O David, tunay na Kami ay gumawa sa iyo bilang kahalili sa lupa, kaya humatol ka sa pagitan ng mga tao ayon sa katotohanan at huwag kang sumunod sa pithaya para magligaw ito sa iyo palayo sa landas ni Allāh." Tunay na ang mga naliligaw palayo sa landas ni Allāh, ukol sa kanila ay isang pagdurusang matindi dahil lumimot sila sa Araw ng Pagtutuos.
+\[Sinabi\]: "O David, tunay na Kami ay gumawa sa iyo bilang kahalili sa lupa, kaya humatol ka sa pagitan ng mga tao ayon sa katotohanan at huwag kang sumunod sa pithaya para magligaw ito sa iyo palayo sa landas ni Allāh." Tunay na ang mga naliligaw palayo sa landas ni Allāh, ukol sa kanila ay isang pagdurusang matindi dahil lumimot sila sa Araw ng Pagtutuos.
 
 # 3997
 
@@ -16022,23 +16022,23 @@ O gagawa Kami sa mga sumampalataya at gumawa ng mga maayos gaya ng mga tagagulo 
 
 # 3999
 
-[Ito ay] isang pinagpalang Aklat na pinababa Namin sa iyo upang magmuni-muni sila sa mga talata nito at upang magsaalaala ang mga may isip.
+\[Ito ay\] isang pinagpalang Aklat na pinababa Namin sa iyo upang magmuni-muni sila sa mga talata nito at upang magsaalaala ang mga may isip.
 
 # 4000
 
-Ipinagkaloob Namin kay David si Solomon. Kay inam na lingkod! Tunay na siya ay palabalik [kay Allāh].
+Ipinagkaloob Namin kay David si Solomon. Kay inam na lingkod! Tunay na siya ay palabalik \[kay Allāh\].
 
 # 4001
 
-[Banggitin] noong inilahad sa kanya sa dapit-hapon ang mga kabayong nakatayong nakaangat ang isang paa, na matutulin.
+\[Banggitin\] noong inilahad sa kanya sa dapit-hapon ang mga kabayong nakatayong nakaangat ang isang paa, na matutulin.
 
 # 4002
 
-Kaya nagsabi siya: "Tunay na ako ay umibig ng pagkaibig sa mabuting [bagay] sa halip ng pag-alaala sa Panginoon ko hanggang sa natakpan [ang araw] ng tabing.
+Kaya nagsabi siya: "Tunay na ako ay umibig ng pagkaibig sa mabuting \[bagay\] sa halip ng pag-alaala sa Panginoon ko hanggang sa natakpan \[ang araw\] ng tabing.
 
 # 4003
 
-Isauli ninyo ang mga ito sa akin." Kaya nagsimula siya sa pagtaga sa mga lulod at mga leeg [ng mga ito].
+Isauli ninyo ang mga ito sa akin." Kaya nagsimula siya sa pagtaga sa mga lulod at mga leeg \[ng mga ito\].
 
 # 4004
 
@@ -16074,7 +16074,7 @@ Banggitin mo ang lingkod Naming si Job noong nanawagan siya sa Panginoon niya: "
 
 # 4012
 
-[Sinabi]: "Magpadyak ka ng paa mo." Ito ay isang paliguang malamig at isang inumin.
+\[Sinabi\]: "Magpadyak ka ng paa mo." Ito ay isang paliguang malamig at isang inumin.
 
 # 4013
 
@@ -16082,7 +16082,7 @@ Nagkaloob Kami sa kanya ng mag-anak niya at tulad nila kasama sa kanila bilang a
 
 # 4014
 
-[Sinabi]: "Kumuha ka gamit ng kamay mo ng isang bungkos at pumalo ka gamit nito. Huwag kang sumira sa sinumpaan." Tunay na Kami ay nakatagpo sa kanya na nagtitiis. Kay inam ang lingkod! Tunay na siya ay palabalik [kay Allāh].
+\[Sinabi\]: "Kumuha ka gamit ng kamay mo ng isang bungkos at pumalo ka gamit nito. Huwag kang sumira sa sinumpaan." Tunay na Kami ay nakatagpo sa kanya na nagtitiis. Kay inam ang lingkod! Tunay na siya ay palabalik \[kay Allāh\].
 
 # 4015
 
@@ -16090,7 +16090,7 @@ Banggitin mo ang mga lingkod Naming sina Abraham, Isaac, at Jacob na mga may lak
 
 # 4016
 
-Tunay na Kami ay nagtangi sa kanila dahil sa isang natatanging katangian na pag-alaala sa tahanan [sa kabilang-buhay].
+Tunay na Kami ay nagtangi sa kanila dahil sa isang natatanging katangian na pag-alaala sa tahanan \[sa kabilang-buhay\].
 
 # 4017
 
@@ -16098,7 +16098,7 @@ Tunay na sila, sa ganang Amin, ay talagang kabilang sa mga hinirang na mga mabut
 
 # 4018
 
-Banggitin mo sina Ismael, Eliseo, at Dhulkifl. Bawat [isa] ay kabilang sa mga mabuti.
+Banggitin mo sina Ismael, Eliseo, at Dhulkifl. Bawat \[isa\] ay kabilang sa mga mabuti.
 
 # 4019
 
@@ -16142,7 +16142,7 @@ at iba pa, kabilang sa kaanyo nito, na mga uri.
 
 # 4029
 
-[Sasabihin]: "Ito ay isang pulutong na susugod kasama sa inyo. Walang mabuting pagtanggap sa kanila. Tunay na sila ay masusunog sa Apoy."
+\[Sasabihin\]: "Ito ay isang pulutong na susugod kasama sa inyo. Walang mabuting pagtanggap sa kanila. Tunay na sila ay masusunog sa Apoy."
 
 # 4030
 
@@ -16190,7 +16190,7 @@ Walang ikinasi sa akin kundi ako ay isang mapagbabalang malinaw lamang.
 
 # 4041
 
-[Banggitin] noong nagsabi ang Panginoon mo sa mga anghel: "Tunay na Ako ay lilikha ng isang mortal mula sa putik.
+\[Banggitin\] noong nagsabi ang Panginoon mo sa mga anghel: "Tunay na Ako ay lilikha ng isang mortal mula sa putik.
 
 # 4042
 
@@ -16242,7 +16242,7 @@ maliban sa mga lingkod Mo kabilang sa kanila na mga itinangi."
 
 # 4054
 
-Nagsabi Siya: "Sapagkat ang katotohanan [ay mula sa Akin] at ang katotohanan ay sinasabi Ko:
+Nagsabi Siya: "Sapagkat ang katotohanan \[ay mula sa Akin\] at ang katotohanan ay sinasabi Ko:
 
 # 4055
 
@@ -16270,7 +16270,7 @@ Tunay na Kami ay nagpababa sa iyo ng Aklat kalakip ng katotohanan, kaya sumamba 
 
 # 4061
 
-Pansinin, ukol kay Allāh ang relihiyong wagas. Ang mga gumagawa sa bukod pa sa Kanya bilang mga tagapagtangkilik [ay nagsasabi]: "Hindi kami sumasamba sa kanila kundi upang magpalapit sila sa amin kay Allāh sa kadikitan." Tunay na si Allāh ay maghahatol sa pagitan nila hinggil sa anumang sila hinggil doon ay nagkakaiba-iba. Tunay na si Allāh ay hindi nagpapatnubay sa sinumang sinungaling na palatangging sumampalataya.
+Pansinin, ukol kay Allāh ang relihiyong wagas. Ang mga gumagawa sa bukod pa sa Kanya bilang mga tagapagtangkilik \[ay nagsasabi\]: "Hindi kami sumasamba sa kanila kundi upang magpalapit sila sa amin kay Allāh sa kadikitan." Tunay na si Allāh ay maghahatol sa pagitan nila hinggil sa anumang sila hinggil doon ay nagkakaiba-iba. Tunay na si Allāh ay hindi nagpapatnubay sa sinumang sinungaling na palatangging sumampalataya.
 
 # 4062
 
@@ -16294,11 +16294,11 @@ Kapag may sumaling sa tao na isang kapinsalaan ay nananalangin ito sa Panginoon 
 
 # 4067
 
-O ang sinumang siya ay masunurin sa mga sandali ng gabi habang nakapatirapa at nakatayo, na nangingilag sa Kabilang-buhay at nag-aasam awa ng Panginoon Niya [ay higit na mabuti]? Sabihin mo: "Nagkakapantay kaya ang mga nakaaalam at ang mga hindi nakaaalam? Nagsasaalaala lamang ang mga may isip."
+O ang sinumang siya ay masunurin sa mga sandali ng gabi habang nakapatirapa at nakatayo, na nangingilag sa Kabilang-buhay at nag-aasam awa ng Panginoon Niya \[ay higit na mabuti\]? Sabihin mo: "Nagkakapantay kaya ang mga nakaaalam at ang mga hindi nakaaalam? Nagsasaalaala lamang ang mga may isip."
 
 # 4068
 
-Sabihin mo [ang sabi Ko]: "O mga lingkod Ko na mga sumampalataya, mangilag kayong magkasala sa Panginoon ninyo. Ukol sa mga gumawa ng maganda sa Mundong ito ay [ganting] maganda. Ang lupa ni Allāh ay malawak. Lulubus-lubusin lamang ang mga nagtitiis sa pabuya sa kanila nang walang pagtutuos."
+Sabihin mo \[ang sabi Ko\]: "O mga lingkod Ko na mga sumampalataya, mangilag kayong magkasala sa Panginoon ninyo. Ukol sa mga gumawa ng maganda sa Mundong ito ay \[ganting\] maganda. Ang lupa ni Allāh ay malawak. Lulubus-lubusin lamang ang mga nagtitiis sa pabuya sa kanila nang walang pagtutuos."
 
 # 4069
 
@@ -16322,7 +16322,7 @@ Kaya sambahin ninyo ang anumang niloob ninyo bukod pa sa Kanya." Sabihin mo: "Tu
 
 # 4074
 
-Magkakaroon sila mula sa ibabaw nila ng mga kulandong mula sa apoy at mula sa ilalim nila ng mga kulandong. Iyon ay ipinapangamba ni Allāh sa mga lingkod Niya, [na nagsasabi]: "O mga lingkod Ko, kaya mangilag kayong magkasala sa Akin."
+Magkakaroon sila mula sa ibabaw nila ng mga kulandong mula sa apoy at mula sa ilalim nila ng mga kulandong. Iyon ay ipinapangamba ni Allāh sa mga lingkod Niya, \[na nagsasabi\]: "O mga lingkod Ko, kaya mangilag kayong magkasala sa Akin."
 
 # 4075
 
@@ -16346,7 +16346,7 @@ Hindi mo ba nakita na si Allāh ay nagpababa mula sa langit ng tubig saka nagpan
 
 # 4080
 
-Kaya ba ang sinumang nagpaluwag si Allāh sa dibdib niya para sa Islām kaya siya ay nasa isang liwanag mula sa Panginoon niya [ay gaya ng iba]? Kaya kapighatian ay ukol sa matigas ang mga puso nila sa pag-alaala kay Allāh. Ang mga iyon ay nasa isang pagkaligaw na malinaw.
+Kaya ba ang sinumang nagpaluwag si Allāh sa dibdib niya para sa Islām kaya siya ay nasa isang liwanag mula sa Panginoon niya \[ay gaya ng iba\]? Kaya kapighatian ay ukol sa matigas ang mga puso nila sa pag-alaala kay Allāh. Ang mga iyon ay nasa isang pagkaligaw na malinaw.
 
 # 4081
 
@@ -16354,7 +16354,7 @@ Si Allāh ay nagbaba ng pinakamaganda sa pag-uusap, na isang Aklat na nagkakawan
 
 # 4082
 
-Kaya ba ang sinumang nagsasangga sa pamamagitan ng mukha niya sa kasagwaan ng pagdurusa sa Araw ng Pagbangon [ay gaya ng iba]? Sasabihin sa mga tagalabag sa katarungan: "Lasapin ninyo ang dati ninyong kinakamit."
+Kaya ba ang sinumang nagsasangga sa pamamagitan ng mukha niya sa kasagwaan ng pagdurusa sa Araw ng Pagbangon \[ay gaya ng iba\]? Sasabihin sa mga tagalabag sa katarungan: "Lasapin ninyo ang dati ninyong kinakamit."
 
 # 4083
 
@@ -16374,7 +16374,7 @@ Bilang Qur’ān na Arabe na walang isang kabaluktutan nang sa gayon sila mangin
 
 # 4087
 
-Naglahad si Allāh ng isang paghahalintulad ng isang lalaki na dito ay may mga magkatambal na nagbabangayan [sa pagmamay-ari] at sa isang lalaking nakalaan sa isang lalaki [ang pagmamay-ari]. Nagkakapantay kaya silang dalawa sa paghahalintulad? Ang papuri ay ukol kay Allāh. Bagkus ang higit na marami sa kanila ay hindi nakaaalam.
+Naglahad si Allāh ng isang paghahalintulad ng isang lalaki na dito ay may mga magkatambal na nagbabangayan \[sa pagmamay-ari\] at sa isang lalaking nakalaan sa isang lalaki \[ang pagmamay-ari\]. Nagkakapantay kaya silang dalawa sa paghahalintulad? Ang papuri ay ukol kay Allāh. Bagkus ang higit na marami sa kanila ay hindi nakaaalam.
 
 # 4088
 
@@ -16422,11 +16422,11 @@ sa kung kanino pupunta ang isang pagdurusang magpapahiya sa kanya at dadapo ang 
 
 # 4099
 
-Tunay na Kami ay nagpababa sa iyo ng Aklat para sa mga tao kalakip ng katotohanan. Kaya ang sinumang napatnubayan ay para sa sarili niya at ang sinumang naligaw ay naliligaw lamang para sa [kapinsalaan] nito. Ikaw sa kanila ay hindi isang pinananaligan.
+Tunay na Kami ay nagpababa sa iyo ng Aklat para sa mga tao kalakip ng katotohanan. Kaya ang sinumang napatnubayan ay para sa sarili niya at ang sinumang naligaw ay naliligaw lamang para sa \[kapinsalaan\] nito. Ikaw sa kanila ay hindi isang pinananaligan.
 
 # 4100
 
-Si Allāh ay kumukuha sa mga kaluluwa sa sandali ng kamatayan ng mga ito at sa [mga kaluluwa ng] mga hindi namatay sa pagtulog ng mga ito. Kaya pumipigil Siya sa mga [kaluluwang] nagtadhana Siya sa mga ito ng kamatayan at nagpapawala Siya sa mga iba pa hanggang sa isang taning na tinukoy. Tunay na sa gayon ay talagang may mga tanda para sa mga taong nag-iisip-isip.
+Si Allāh ay kumukuha sa mga kaluluwa sa sandali ng kamatayan ng mga ito at sa \[mga kaluluwa ng\] mga hindi namatay sa pagtulog ng mga ito. Kaya pumipigil Siya sa mga \[kaluluwang\] nagtadhana Siya sa mga ito ng kamatayan at nagpapawala Siya sa mga iba pa hanggang sa isang taning na tinukoy. Tunay na sa gayon ay talagang may mga tanda para sa mga taong nag-iisip-isip.
 
 # 4101
 
@@ -16434,7 +16434,7 @@ O gumawa ba sila sa bukod pa kay Allāh bilang mga tagapagpamagitan? Sabihin mo:
 
 # 4102
 
-Sabihin mo: "Sa kay Allāh ang [pagpapahintulot ng] pamamagitan sa kalahatan. Sa Kanya ang paghahari sa mga langit at lupa. Pagkatapos tungo sa Kanya pababalikin kayo."
+Sabihin mo: "Sa kay Allāh ang \[pagpapahintulot ng\] pamamagitan sa kalahatan. Sa Kanya ang paghahari sa mga langit at lupa. Pagkatapos tungo sa Kanya pababalikin kayo."
 
 # 4103
 
@@ -16446,7 +16446,7 @@ Sabihin mo: "O Allāh, Tagalalang ng mga langit at lupa, Nakaaalam sa Lingid at 
 
 # 4105
 
-Kung sakaling taglay ng mga lumabag sa katarungan ang anumang nasa lupa sa kalahatan at tulad nito kasama rito, talaga sanang tumubos sila [sa mga sarili] sa pamamagitan nito mula sa kasagwaan ng pagdurusa sa Araw ng Pagbangon. Matatambad para sa kanila mula kay Allāh ang hindi nila dati aakalain.
+Kung sakaling taglay ng mga lumabag sa katarungan ang anumang nasa lupa sa kalahatan at tulad nito kasama rito, talaga sanang tumubos sila \[sa mga sarili\] sa pamamagitan nito mula sa kasagwaan ng pagdurusa sa Araw ng Pagbangon. Matatambad para sa kanila mula kay Allāh ang hindi nila dati aakalain.
 
 # 4106
 
@@ -16470,7 +16470,7 @@ Hindi ba sila nakaalam na si Allāh ay nagpapaluwag sa panustos para sa sinumang
 
 # 4111
 
-Sabihin mo [na sinabi Ko]: "O mga lingkod Ko na nagpakalabis laban sa mga sarili nila, huwag kayong malagutan ng pag-asa sa awa ni Allāh. Tunay na si Allāh ay nagpapatawad sa mga pagkakasala sa kalahatan. Tunay na Siya ay ang Mapagpatawad, ang Maawain."
+Sabihin mo \[na sinabi Ko\]: "O mga lingkod Ko na nagpakalabis laban sa mga sarili nila, huwag kayong malagutan ng pag-asa sa awa ni Allāh. Tunay na si Allāh ay nagpapatawad sa mga pagkakasala sa kalahatan. Tunay na Siya ay ang Mapagpatawad, ang Maawain."
 
 # 4112
 
@@ -16518,7 +16518,7 @@ Sabihin mo: "Kaya ba sa iba pa kay Allāh nag-uutos kayo sa akin na sumamba ako,
 
 # 4123
 
-Talaga ngang ikinasi sa iyo at sa mga nauna pa sa iyo na talagang kung nagtambal ka [kay Allāh] ay talagang mawawalang-kabuluhan nga ang gawa mo at talagang magiging kabilang ka nga sa mga lugi.
+Talaga ngang ikinasi sa iyo at sa mga nauna pa sa iyo na talagang kung nagtambal ka \[kay Allāh\] ay talagang mawawalang-kabuluhan nga ang gawa mo at talagang magiging kabilang ka nga sa mga lugi.
 
 # 4124
 
@@ -16534,11 +16534,11 @@ Iihip sa tambuli saka mamamatay ang sinumang nasa mga langit at ang sinumang nas
 
 # 4127
 
-Sisikat ang lupa sa liwanag ng Panginoon nito, ilalagay ang talaan [ng mga gawa], dadalhin ang mga propeta at ang mga saksi, at maghuhusga sa pagitan nila ayon sa katotohanan habang sila ay nilalabag sa katarungan.
+Sisikat ang lupa sa liwanag ng Panginoon nito, ilalagay ang talaan \[ng mga gawa\], dadalhin ang mga propeta at ang mga saksi, at maghuhusga sa pagitan nila ayon sa katotohanan habang sila ay nilalabag sa katarungan.
 
 # 4128
 
-Lulubus-lubusin ang bawat kaluluwa sa [kabayaran ng] anumang ginawa nito; at Siya ay higit na maalam sa anumang ginagawa nila.
+Lulubus-lubusin ang bawat kaluluwa sa \[kabayaran ng\] anumang ginawa nito; at Siya ay higit na maalam sa anumang ginagawa nila.
 
 # 4129
 
@@ -16586,7 +16586,7 @@ Gayon nagindapat ang salita ng Panginoon mo sa mga tumangging sumampalataya, na 
 
 # 4140
 
-Ang mga [anghel] na nagpapasan ng Trono at ang mga nasa paligid nito ay nagluluwalhati kalakip ng pagpupuri sa Panginoon nila, sumasampalataya sa Kanya, at humihingi ng tawad para sa mga sumampalataya, [na nagsasabi]: "Panginoon namin, sumaklaw Ka sa bawat bagay sa awa at kaalaman, kaya magpatawad Ka sa mga nagbalik-loob at sumunod sa landas Mo, at magsanggalang Ka sa kanila sa pagdurusa sa Impiyerno.
+Ang mga \[anghel\] na nagpapasan ng Trono at ang mga nasa paligid nito ay nagluluwalhati kalakip ng pagpupuri sa Panginoon nila, sumasampalataya sa Kanya, at humihingi ng tawad para sa mga sumampalataya, \[na nagsasabi\]: "Panginoon namin, sumaklaw Ka sa bawat bagay sa awa at kaalaman, kaya magpatawad Ka sa mga nagbalik-loob at sumunod sa landas Mo, at magsanggalang Ka sa kanila sa pagdurusa sa Impiyerno.
 
 # 4141
 
@@ -16606,7 +16606,7 @@ Magsasabi sila: "Panginoon namin, nagbigay-kamatayan Ka sa amin nang dalawang ul
 
 # 4145
 
-[Sasabihin]: "Iyon ay dahil kapag dinalanginan si Allāh nang mag-isa, tumatanggi kayong sumampalataya; at kung tinatambalan Siya, sumasampalataya kayo. Kaya ang paghahatol ay ukol kay Allāh, ang Mataas, ang Malaki."
+\[Sasabihin\]: "Iyon ay dahil kapag dinalanginan si Allāh nang mag-isa, tumatanggi kayong sumampalataya; at kung tinatambalan Siya, sumasampalataya kayo. Kaya ang paghahatol ay ukol kay Allāh, ang Mataas, ang Malaki."
 
 # 4146
 
@@ -16682,7 +16682,7 @@ Nagsabi ang sumampalataya: "O mga kalipi ko, tunay na ako ay nangangamba para sa
 
 # 4164
 
-tulad ng kinagawian ng mga kababayan ni Noe, ng `Ād, ng Thamūd, at ng mga matapos na sa kanila. Hindi si Allāh nagnanais ng isang kawalang-katarungan para sa mga lingkod [Niya].
+tulad ng kinagawian ng mga kababayan ni Noe, ng \`Ād, ng Thamūd, at ng mga matapos na sa kanila. Hindi si Allāh nagnanais ng isang kawalang-katarungan para sa mga lingkod \[Niya\].
 
 # 4165
 
@@ -16706,7 +16706,7 @@ Nagsabi si Paraon: "O Hāmān, magpatayo ka para sa akin ng isang tore nang sa g
 
 # 4170
 
-mga daanan tungo sa mga langit para makatingin ako sa Diyos ni Moises. Tunay na ako ay talagang nagpapalagay na siya ay isang sinungaling." Gayon ipinang-akit para kay Paraon ang kasagwaan ng gawain niya at hinadlangan siya sa landas. Walang [kahahantungan] ang pakana ni Paraon kundi sa isang pagkawasak.
+mga daanan tungo sa mga langit para makatingin ako sa Diyos ni Moises. Tunay na ako ay talagang nagpapalagay na siya ay isang sinungaling." Gayon ipinang-akit para kay Paraon ang kasagwaan ng gawain niya at hinadlangan siya sa landas. Walang \[kahahantungan\] ang pakana ni Paraon kundi sa isang pagkawasak.
 
 # 4171
 
@@ -16726,7 +16726,7 @@ O mga kababayan ko, ano ang mayroon ako na nag-aanyaya ako sa inyo tungo sa kali
 
 # 4175
 
-Nag-aanyaya kayo sa akin upang tumanggi akong sumampalataya kay Allāh at magtambal ako sa Kanya ng anumang hindi ako nagkaroon ng kaalaman hinggil doon samantalang ako ay nag-aanyaya sa inyo tungo sa [Kanya], ang Makapangyarihan, ang Palapatawad.
+Nag-aanyaya kayo sa akin upang tumanggi akong sumampalataya kay Allāh at magtambal ako sa Kanya ng anumang hindi ako nagkaroon ng kaalaman hinggil doon samantalang ako ay nag-aanyaya sa inyo tungo sa \[Kanya\], ang Makapangyarihan, ang Palapatawad.
 
 # 4176
 
@@ -16734,7 +16734,7 @@ Walang pasubali na ang ipinaaanyaya ninyo sa akin ay walang ukol ditong isang pa
 
 # 4177
 
-Kaya makaaalaala kayo sa sinasabi ko sa inyo. Ipinagkakatiwala ko ang nauukol sa akin kay Allāh; tunay na si Allāh ay Nakakikita sa mga lingkod [Niya]."
+Kaya makaaalaala kayo sa sinasabi ko sa inyo. Ipinagkakatiwala ko ang nauukol sa akin kay Allāh; tunay na si Allāh ay Nakakikita sa mga lingkod \[Niya\]."
 
 # 4178
 
@@ -16742,23 +16742,23 @@ Kaya nagsanggalang sa kanya si Allāh sa mga masagwang gawa na ipinakana nila. P
 
 # 4179
 
-Ang Apoy, isasalang sila roon sa umaga at gabi. Sa Araw na sasapit ang Huling Sandali [ay sasabihin]: "Magpapasok kayo sa mga kampon ni Paraon sa pinakamatindi sa pagdurusa."
+Ang Apoy, isasalang sila roon sa umaga at gabi. Sa Araw na sasapit ang Huling Sandali \[ay sasabihin\]: "Magpapasok kayo sa mga kampon ni Paraon sa pinakamatindi sa pagdurusa."
 
 # 4180
 
-[Banggitin] kapag magkakatwiranan sila sa loob ng apoy saka magsasabi ang mga mahina sa mga nagmalaki: "Tunay na kami para sa inyo ay naging tagasunod. Kaya kayo kaya ay mga magtutulak para sa amin ng isang bahagi mula sa apoy?"
+\[Banggitin\] kapag magkakatwiranan sila sa loob ng apoy saka magsasabi ang mga mahina sa mga nagmalaki: "Tunay na kami para sa inyo ay naging tagasunod. Kaya kayo kaya ay mga magtutulak para sa amin ng isang bahagi mula sa apoy?"
 
 # 4181
 
-Magsasabi ang mga nagmalaki: "Tunay na tayo ay lahat nasa loob nito; tunay na si Allāh ay humatol na sa pagitan ng mga lingkod [Niya]."
+Magsasabi ang mga nagmalaki: "Tunay na tayo ay lahat nasa loob nito; tunay na si Allāh ay humatol na sa pagitan ng mga lingkod \[Niya\]."
 
 # 4182
 
-Magsasabi ang mga nasa apoy sa mga [anghel na] tanod ng Impiyerno: "Dumalangin kayo sa Panginoon ninyo na magpagaan Siya para sa amin ng isang araw mula sa pagdurusa."
+Magsasabi ang mga nasa apoy sa mga \[anghel na\] tanod ng Impiyerno: "Dumalangin kayo sa Panginoon ninyo na magpagaan Siya para sa amin ng isang araw mula sa pagdurusa."
 
 # 4183
 
-Magsasabi sila: "Hindi ba dati nagdadala sa inyo ang mga sugo ninyo ng mga malinaw na patunay?" Magsasabi ang mga iyon: "Oo." Magsasabi sila: "Kaya dumalangin kayo," at walang [kahahantungan] ang panalangin ng mga tagatangging sumampalataya kundi sa isang pagkaligaw."
+Magsasabi sila: "Hindi ba dati nagdadala sa inyo ang mga sugo ninyo ng mga malinaw na patunay?" Magsasabi ang mga iyon: "Oo." Magsasabi sila: "Kaya dumalangin kayo," at walang \[kahahantungan\] ang panalangin ng mga tagatangging sumampalataya kundi sa isang pagkaligaw."
 
 # 4184
 
@@ -16798,7 +16798,7 @@ Tunay na ang Huling Sandali ay talagang darating na walang pag-aalinlangan hingg
 
 # 4193
 
-Nagsabi ang Panginoon ninyo: "Dumalangin kayo sa Akin, tutugon Ako sa inyo." Tunay na ang mga nagmamalaki sa [pag-ayaw sa] pagsamba sa Akin ay papasok sa Impiyerno na mga nagpapakaaba.
+Nagsabi ang Panginoon ninyo: "Dumalangin kayo sa Akin, tutugon Ako sa inyo." Tunay na ang mga nagmamalaki sa \[pag-ayaw sa\] pagsamba sa Akin ay papasok sa Impiyerno na mga nagpapakaaba.
 
 # 4194
 
@@ -16838,7 +16838,7 @@ Hindi ka ba nakakita sa mga nakikipagtalo hinggil sa mga tanda ni Allāh kung pa
 
 # 4203
 
-[Sila] ang mga nagpasinungaling sa Aklat at sa ipinasugo Namin sa mga sugo Namin, saka malalaman nila
+\[Sila\] ang mga nagpasinungaling sa Aklat at sa ipinasugo Namin sa mga sugo Namin, saka malalaman nila
 
 # 4204
 
@@ -16858,7 +16858,7 @@ bukod pa kay Allāh. Magsasabi sila: "Nawala sila sa amin; bagkus hindi kami dat
 
 # 4208
 
-[Sasabihin]: "Iyon ay dahil kayo dati ay natutuwa sa Mundo ayon sa hindi karapatan at dahil kayo dati ay nagpapakasaya.
+\[Sasabihin\]: "Iyon ay dahil kayo dati ay natutuwa sa Mundo ayon sa hindi karapatan at dahil kayo dati ay nagpapakasaya.
 
 # 4209
 
@@ -16894,11 +16894,11 @@ Kaya noong naghatid sa kanila ang mga sugo nila ng mga malinaw na patunay, natuw
 
 # 4217
 
-Kaya noong nakakita sila sa parusa Namin, nagsabi sila: "Sumampalataya kami kay Allāh lamang at tumanggi kaming sumampalataya sa anumang kami dati ay sa Kanya mga tagapagtambal [niyon]."
+Kaya noong nakakita sila sa parusa Namin, nagsabi sila: "Sumampalataya kami kay Allāh lamang at tumanggi kaming sumampalataya sa anumang kami dati ay sa Kanya mga tagapagtambal \[niyon\]."
 
 # 4218
 
-Ngunit hindi nangyaring magpapakinabang sa kanila ang pananampalataya nila kapag nakita nila ang parusa Namin. [Ito] ang kalakaran ni Allāh na nagdaan nga sa mga lingkod Niya. Nalugi roon ang mga tagatangging sumampalataya.
+Ngunit hindi nangyaring magpapakinabang sa kanila ang pananampalataya nila kapag nakita nila ang parusa Namin. \[Ito\] ang kalakaran ni Allāh na nagdaan nga sa mga lingkod Niya. Nalugi roon ang mga tagatangging sumampalataya.
 
 # 4219
 
@@ -16906,7 +16906,7 @@ Ngunit hindi nangyaring magpapakinabang sa kanila ang pananampalataya nila kapag
 
 # 4220
 
-[Ito ay] isang pagbababa mula sa [Kanya], ang Napakamaawain, ang Maawain.
+\[Ito ay\] isang pagbababa mula sa \[Kanya\], ang Napakamaawain, ang Maawain.
 
 # 4221
 
@@ -16938,7 +16938,7 @@ Sabihin mo: "Tunay na kayo ba ay talagang tumatangging sumampalataya sa lumikha 
 
 # 4228
 
-Naglagay Siya rito ng mga matatag na bundok mula sa ibabaw nito. Nagpala Siya rito at nagtakda Siya rito ng mga makakain dito sa [pagkalubos ng] apat na araw nang magkapantay para sa mga nagtatanong.
+Naglagay Siya rito ng mga matatag na bundok mula sa ibabaw nito. Nagpala Siya rito at nagtakda Siya rito ng mga makakain dito sa \[pagkalubos ng\] apat na araw nang magkapantay para sa mga nagtatanong.
 
 # 4229
 
@@ -16946,19 +16946,19 @@ Pagkatapos bumaling Siya sa langit habang ito ay usok pa saka nagsabi Siya rito 
 
 # 4230
 
-Saka tumapos Siya sa mga ito bilang pitong langit sa dalawang araw at nagkasi Siya sa bawat langit ng utos dito. Gumayak Kami sa langit na pinakamababa ng mga lampara at bilang pangangalaga. Iyon ay ang pagtatakda [Niya], ang Makapangyarihan, ang Maalam.
+Saka tumapos Siya sa mga ito bilang pitong langit sa dalawang araw at nagkasi Siya sa bawat langit ng utos dito. Gumayak Kami sa langit na pinakamababa ng mga lampara at bilang pangangalaga. Iyon ay ang pagtatakda \[Niya\], ang Makapangyarihan, ang Maalam.
 
 # 4231
 
-Kaya kung umayaw sila ay sabihin mo: "Nagbabala ako sa inyo ng isang lintik tulad ng lintik ng `Ād at Thamūd.
+Kaya kung umayaw sila ay sabihin mo: "Nagbabala ako sa inyo ng isang lintik tulad ng lintik ng \`Ād at Thamūd.
 
 # 4232
 
-[Nangyari iyon] noong dumating sa kanila ang mga sugo mula sa harapan nila at mula sa likuran nila, [na nagsasabi]: "Huwag kayong sumamba kundi kay Allāh." Nagsabi sila: "Kung sakaling niloob ng Panginoon namin ay talaga sanang nagpababa Siya ng mga anghel, kaya tunay na kami sa ipinasugo sa inyo ay mga tagatangging sumampalataya."
+\[Nangyari iyon\] noong dumating sa kanila ang mga sugo mula sa harapan nila at mula sa likuran nila, \[na nagsasabi\]: "Huwag kayong sumamba kundi kay Allāh." Nagsabi sila: "Kung sakaling niloob ng Panginoon namin ay talaga sanang nagpababa Siya ng mga anghel, kaya tunay na kami sa ipinasugo sa inyo ay mga tagatangging sumampalataya."
 
 # 4233
 
-Tungkol sa `Ād, nagmalaki sila sa lupain ayon sa hindi karapatan at nagsabi sila: "Sino ang higit na matindi kaysa sa amin sa lakas?" Hindi ba sila nagsaalang-alang na si Allāh na lumikha sa kanila ay higit na matindi kaysa sa kanila sa lakas? Sila dati sa mga talata Namin ay nagkakaila.
+Tungkol sa \`Ād, nagmalaki sila sa lupain ayon sa hindi karapatan at nagsabi sila: "Sino ang higit na matindi kaysa sa amin sa lakas?" Hindi ba sila nagsaalang-alang na si Allāh na lumikha sa kanila ay higit na matindi kaysa sa kanila sa lakas? Sila dati sa mga talata Namin ay nagkakaila.
 
 # 4234
 
@@ -16986,7 +16986,7 @@ Magsasabi sila sa mga balat nila: "Bakit kayo sumaksi laban sa amin?" Magsasabi 
 
 # 4240
 
-Hindi kayo dati nagtatakip [ng mga sarili] na baka sumaksi laban sa inyo ang pandinig ninyo, ni ang mga paningin ninyo, at ni ang mga balat ninyo; subalit nagpalagay kayo na si Allāh ay hindi nakaaalam sa marami sa ginagawa ninyo.
+Hindi kayo dati nagtatakip \[ng mga sarili\] na baka sumaksi laban sa inyo ang pandinig ninyo, ni ang mga paningin ninyo, at ni ang mga balat ninyo; subalit nagpalagay kayo na si Allāh ay hindi nakaaalam sa marami sa ginagawa ninyo.
 
 # 4241
 
@@ -16994,15 +16994,15 @@ Yaong pagpapalagay ninyo na ipinagpalagay ninyo sa Panginoon ninyo ay nagpasawi 
 
 # 4242
 
-Kaya kung makatitiis sila, ang Apoy ay isang tuluyan para sa kanila. Kung hihiling silang magpasiya [kay Allāh] ay hindi sila kabilang sa mga magpapasiya.
+Kaya kung makatitiis sila, ang Apoy ay isang tuluyan para sa kanila. Kung hihiling silang magpasiya \[kay Allāh\] ay hindi sila kabilang sa mga magpapasiya.
 
 # 4243
 
-Nagtalaga Kami para sa kanila ng mga kapisan sakit ipang-aakit ng mga ito para sa kanila ang nasa harapan nila at ang nasa likuran nila [na kasalanan]. Nagindapat sa kanila ang hatol sa mga kalipunang nagdaan na bago pa nila kabilang sa jinn at tao. Tunay na sila ay mga lugi noon.
+Nagtalaga Kami para sa kanila ng mga kapisan sakit ipang-aakit ng mga ito para sa kanila ang nasa harapan nila at ang nasa likuran nila \[na kasalanan\]. Nagindapat sa kanila ang hatol sa mga kalipunang nagdaan na bago pa nila kabilang sa jinn at tao. Tunay na sila ay mga lugi noon.
 
 # 4244
 
-Nagsabi ang mga tumangging sumampalataya: "Huwag kayong makinig sa Qur’ān na ito at sumatsat kayo [sa pagbigkas] nito, nang sa gayon kayo ay mananaig.
+Nagsabi ang mga tumangging sumampalataya: "Huwag kayong makinig sa Qur’ān na ito at sumatsat kayo \[sa pagbigkas\] nito, nang sa gayon kayo ay mananaig.
 
 # 4245
 
@@ -17018,7 +17018,7 @@ Nagsabi ang mga tumangging sumampalataya: "Panginoon namin, magpakita Ka sa amin
 
 # 4248
 
-Tunay na ang mga nagsabi: "Si Allāh ay ang Panginoon namin," pagkatapos nagpakatuwid, magbababaan sa kanila ang mga anghel na [magsasabi]: "Huwag kayong mangamba, huwag kayong malungkot, at magalak kayo sa Paraiso na sa inyo dati ay ipinangangako.
+Tunay na ang mga nagsabi: "Si Allāh ay ang Panginoon namin," pagkatapos nagpakatuwid, magbababaan sa kanila ang mga anghel na \[magsasabi\]: "Huwag kayong mangamba, huwag kayong malungkot, at magalak kayo sa Paraiso na sa inyo dati ay ipinangangako.
 
 # 4249
 
@@ -17034,7 +17034,7 @@ Sino pa ang higit na maganda sa sinasabi kaysa sa sinumang nag-anyaya tungo kay 
 
 # 4252
 
-Hindi nagkakapantay ang magandang gawa at ang masagwang gawa. Itulak mo [ang masagwa] sa pamamagitan ng siyang higit na maganda, saka biglang ang [taong] sa pagitan mo at sa pagitan niya ay may pagkamuhi ay [magiging] para bang siya ay isang katangkilik na matalik.
+Hindi nagkakapantay ang magandang gawa at ang masagwang gawa. Itulak mo \[ang masagwa\] sa pamamagitan ng siyang higit na maganda, saka biglang ang \[taong\] sa pagitan mo at sa pagitan niya ay may pagkamuhi ay \[magiging\] para bang siya ay isang katangkilik na matalik.
 
 # 4253
 
@@ -17062,11 +17062,11 @@ Tunay na ang mga lumilihis sa mga tanda Namin ay hindi nakakukubli sa Amin. Kaya
 
 # 4259
 
-Tunay na ang mga tumangging sumampalataya sa paalaala noong dumating ito sa kanila [ay parurusahan.] Tunay na ito ay talagang isang Aklat na makapangyarihan.
+Tunay na ang mga tumangging sumampalataya sa paalaala noong dumating ito sa kanila \[ay parurusahan.\] Tunay na ito ay talagang isang Aklat na makapangyarihan.
 
 # 4260
 
-Hindi pumupunta rito ang kabulaanan mula sa harapan nito ni mula sa likuran nito. [Ito ay] isang pagbababa mula sa Marunong, Kapuri-puri.
+Hindi pumupunta rito ang kabulaanan mula sa harapan nito ni mula sa likuran nito. \[Ito ay\] isang pagbababa mula sa Marunong, Kapuri-puri.
 
 # 4261
 
@@ -17074,7 +17074,7 @@ Walang sinasabi sa iyo kundi ang sinabi na sa mga sugo bago mo pa; tunay na ang 
 
 # 4262
 
-Kung sakaling gumawa Kami rito bilang Qur’ān na di-Arabe ay talaga sanang nagsabi sila: "Bakit kaya hindi dinetalye ang mga talata nito? [Ito] ba ay di-Arabe at Arabe [ang Sugo]? Sabihin mo: "Ito para sa mga sumampalataya ay isang patnubay at isang lunas." Ang mga hindi sumasampalataya, sa mga tainga nila ay may kabingihan at ito sa kanila ay pagkabulag. Ang mga iyon ay tinatawag mula sa isang pook na malayo.
+Kung sakaling gumawa Kami rito bilang Qur’ān na di-Arabe ay talaga sanang nagsabi sila: "Bakit kaya hindi dinetalye ang mga talata nito? \[Ito\] ba ay di-Arabe at Arabe \[ang Sugo\]? Sabihin mo: "Ito para sa mga sumampalataya ay isang patnubay at isang lunas." Ang mga hindi sumasampalataya, sa mga tainga nila ay may kabingihan at ito sa kanila ay pagkabulag. Ang mga iyon ay tinatawag mula sa isang pook na malayo.
 
 # 4263
 
@@ -17082,11 +17082,11 @@ Talaga ngang nagbigay Kami kay Moises ng Kasulatan, ngunit nagkaiba-iba hinggil 
 
 # 4264
 
-Ang sinumang gumawa ng maayos, [ito] ay para sa sarili niya; at ang sinumang nagpasagwa, [ito] ay laban dito. Ang Panginoon mo ay hindi palalabag sa katarungan sa mga alipin [Niya].
+Ang sinumang gumawa ng maayos, \[ito\] ay para sa sarili niya; at ang sinumang nagpasagwa, \[ito\] ay laban dito. Ang Panginoon mo ay hindi palalabag sa katarungan sa mga alipin \[Niya\].
 
 # 4265
 
-Sa Kanya iniugnay ang kaalaman sa Huling Sandali. Walang lumalabas na anumang mga bunga mula sa mga saha ng mga ito at walang nagbubuntis na anumang babae ni nagsisilang malibang nasa kaalaman Niya. Sa Araw na tatawag Siya sa kanila, [na nagsasabi]: "Nasaan ang mga katambal sa Akin?" Magsasabi sila: "Nagpahayag kami sa Iyo na wala na mula sa amin na anumang saksi."
+Sa Kanya iniugnay ang kaalaman sa Huling Sandali. Walang lumalabas na anumang mga bunga mula sa mga saha ng mga ito at walang nagbubuntis na anumang babae ni nagsisilang malibang nasa kaalaman Niya. Sa Araw na tatawag Siya sa kanila, \[na nagsasabi\]: "Nasaan ang mga katambal sa Akin?" Magsasabi sila: "Nagpahayag kami sa Iyo na wala na mula sa amin na anumang saksi."
 
 # 4266
 
@@ -17094,7 +17094,7 @@ Nawala sa kanila ang dati nilang dinadalanginan bago pa niyon. Nakatiyak sila na
 
 # 4267
 
-Hindi nanghihinawa ang tao sa pagdalangin ng kabutihan; at kung sumaling sa kanya ang kasamaan, nalagutan ng pag-asa at nawalan ng pag-asa [siya].
+Hindi nanghihinawa ang tao sa pagdalangin ng kabutihan; at kung sumaling sa kanya ang kasamaan, nalagutan ng pag-asa at nawalan ng pag-asa \[siya\].
 
 # 4268
 
@@ -17102,11 +17102,11 @@ Talagang kung nagpalasap Kami sa kanya ng isang awa mula sa Amin nang matapos ng
 
 # 4269
 
-Kapag nagbiyaya Kami sa tao, umaayaw siya at naglalayo siya ng sarili niya. Kapag sumaling sa kanya ang kasamaan, [siya ay] may panalanging malawak.
+Kapag nagbiyaya Kami sa tao, umaayaw siya at naglalayo siya ng sarili niya. Kapag sumaling sa kanya ang kasamaan, \[siya ay\] may panalanging malawak.
 
 # 4270
 
-Sabihin mo: "Nagsaalang-alang ba kayo kung [ang Qur’ān na] ito ay mula sa ganang kay Allāh, pagkatapos tumanggi kayong sumampalataya rito? Sino pa ang higit na ligaw kaysa sa sinumang siya ay na nasa isang hidwaang malayo?"
+Sabihin mo: "Nagsaalang-alang ba kayo kung \[ang Qur’ān na\] ito ay mula sa ganang kay Allāh, pagkatapos tumanggi kayong sumampalataya rito? Sino pa ang higit na ligaw kaysa sa sinumang siya ay na nasa isang hidwaang malayo?"
 
 # 4271
 
@@ -17122,7 +17122,7 @@ Pansinin, tunay na sila ay nasa isang pag-aalangan sa pakikipagkita sa Panginoon
 
 # 4274
 
-`Ayn. Sīn. Qāf.
+\`Ayn. Sīn. Qāf.
 
 # 4275
 
@@ -17166,7 +17166,7 @@ Sa Kanya ang mga susi ng mga langit at lupa. Nagpapaluwag Siya ng panustos para 
 
 # 4285
 
-Nagsabatas Siya para sa inyo mula sa relihiyon ng anumang itinagubilin Niya kay Noe, ng ikinasi sa iyo, at anumang itinagubilin kina Abraham, Moises, at Jesus, na [nagsasabi]: "Magpanatili kayo ng Relihiyon at huwag kayong magkahati-hati rito." Lumaki [sa bigat] sa mga tagapagtambal ang ipinaaanyaya mo sa kanila. Si Allāh ay humalal para sa Kanya ng sinumang niloloob Niya at nagpapatnubay tungo sa Kanya ng sinumang nagsisising bumabalik.
+Nagsabatas Siya para sa inyo mula sa relihiyon ng anumang itinagubilin Niya kay Noe, ng ikinasi sa iyo, at anumang itinagubilin kina Abraham, Moises, at Jesus, na \[nagsasabi\]: "Magpanatili kayo ng Relihiyon at huwag kayong magkahati-hati rito." Lumaki \[sa bigat\] sa mga tagapagtambal ang ipinaaanyaya mo sa kanila. Si Allāh ay humalal para sa Kanya ng sinumang niloloob Niya at nagpapatnubay tungo sa Kanya ng sinumang nagsisising bumabalik.
 
 # 4286
 
@@ -17198,7 +17198,7 @@ Ang sinumang nangyaring nagnanais ng pagtatanim sa Kabilang-buhay ay magdaragdag
 
 # 4293
 
-O nagkaroon ba sila ng mga katambal [kay Allāh] na nagsabatas para sa kanila sa relihiyon ng hindi pumayag dito si Allāh? Kung hindi dahil sa salita ng pagpasya ay talaga sanang humusga sa pagitan nila. Tunay na ang mga tagalabag sa katarungan, ukol sa kanila ay isang pagdurusang masakit.
+O nagkaroon ba sila ng mga katambal \[kay Allāh\] na nagsabatas para sa kanila sa relihiyon ng hindi pumayag dito si Allāh? Kung hindi dahil sa salita ng pagpasya ay talaga sanang humusga sa pagitan nila. Tunay na ang mga tagalabag sa katarungan, ukol sa kanila ay isang pagdurusang masakit.
 
 # 4294
 
@@ -17254,7 +17254,7 @@ o makasisira Siya sa mga ito dahil sa nakamit nila at magpapaumanhin Siya sa mar
 
 # 4307
 
-at [upang] makaalam ang mga nakikipagtalo hinggil sa mga tanda Namin na walang ukol sa kanila na anumang mapupuslitan.
+at \[upang\] makaalam ang mga nakikipagtalo hinggil sa mga tanda Namin na walang ukol sa kanila na anumang mapupuslitan.
 
 # 4308
 
@@ -17270,7 +17270,7 @@ at mga tumugon sa Panginoon nila, nagpanatili sa pagdarasal, at ang usapin nila 
 
 # 4311
 
-at mga kapag tumama sa kanila ang paglabag, sila ay nag-aadya [sa mga sarili].
+at mga kapag tumama sa kanila ang paglabag, sila ay nag-aadya \[sa mga sarili\].
 
 # 4312
 
@@ -17278,11 +17278,11 @@ Ang ganti sa masagwang gawa ay isang masagwa gawang tulad niyon; ngunit ang sinu
 
 # 4313
 
-Talagang ang sinumang nag-adya [sa sarili] matapos ng kawalang-katarungan sa kanya, ang mga iyon ay wala sa kanilang anumang dahilan [sa paninisi].
+Talagang ang sinumang nag-adya \[sa sarili\] matapos ng kawalang-katarungan sa kanya, ang mga iyon ay wala sa kanilang anumang dahilan \[sa paninisi\].
 
 # 4314
 
-Ang dahilan [sa paninisi] lamang ay nasa mga lumalabag sa katarungan sa mga tao at naniniil sa lupain nang walang karapatan. Ang mga iyon ay may ukol sa kanila na isang pagdurusang masakit.
+Ang dahilan \[sa paninisi\] lamang ay nasa mga lumalabag sa katarungan sa mga tao at naniniil sa lupain nang walang karapatan. Ang mga iyon ay may ukol sa kanila na isang pagdurusang masakit.
 
 # 4315
 
@@ -17290,11 +17290,11 @@ Talagang ang sinumang nagtiis at nagpatawad, tunay na iyon ay talagang kabilang 
 
 # 4316
 
-Ang sinumang ililigaw ni Allāh ay walang ukol dito na anumang katangkilik nang matapos Niya. Makikita mo na ang mga tagalabag sa katarungan, kapag nakita nila ang pagdurusa, ay magsasabi: "Tungo kaya sa isang mababalikan [sa Mundo] ay may anumang landas?"
+Ang sinumang ililigaw ni Allāh ay walang ukol dito na anumang katangkilik nang matapos Niya. Makikita mo na ang mga tagalabag sa katarungan, kapag nakita nila ang pagdurusa, ay magsasabi: "Tungo kaya sa isang mababalikan \[sa Mundo\] ay may anumang landas?"
 
 # 4317
 
-Makikita mo sila na isinasalang doon [sa Apoy] habang mga nagpapakumbaba dahil sa kaabahan, na tumitingin mula sa isang sulyap na kubli. Magsasabi ang mga sumampalataya: "Tunay na ang mga lugi ay ang mga nagpalugi ng mga sarili nila at mga mag-anak nila sa Araw ng Pagbangon. Pansinin, tunay na ang mga tagalabag sa katarungan ay nasa isang pagdurusang mananatili."
+Makikita mo sila na isinasalang doon \[sa Apoy\] habang mga nagpapakumbaba dahil sa kaabahan, na tumitingin mula sa isang sulyap na kubli. Magsasabi ang mga sumampalataya: "Tunay na ang mga lugi ay ang mga nagpalugi ng mga sarili nila at mga mag-anak nila sa Araw ng Pagbangon. Pansinin, tunay na ang mga tagalabag sa katarungan ay nasa isang pagdurusang mananatili."
 
 # 4318
 
@@ -17310,7 +17310,7 @@ Ngunit kung umayaw sila, hindi Kami nagsugo sa iyo sa kanila bilang mapag-ingat.
 
 # 4321
 
-Sa kay Allāh ang paghahari sa mga langit at lupa. Lumilikha Siya ng niloloob Niya. Nagkakaloob Siya sa sinumang niloloob Niya ng mga [anak na] babae at nagkakaloob Siya sa sinumang niloloob Niya ng mga [anak na] lalaki.
+Sa kay Allāh ang paghahari sa mga langit at lupa. Lumilikha Siya ng niloloob Niya. Nagkakaloob Siya sa sinumang niloloob Niya ng mga \[anak na\] babae at nagkakaloob Siya sa sinumang niloloob Niya ng mga \[anak na\] lalaki.
 
 # 4322
 
@@ -17394,11 +17394,11 @@ O gumawa ba Siya mula sa nililikha Niya ng mga babaing anak at humirang Siya sa 
 
 # 4342
 
-Kapag binalitaan ang isa sa kanila ng [ng pagsilang ng] inilahad niya para sa Napakamaawain bilang paghahalintulad, ang mukha niya ay naging nangingitim habang siya ay hapis.
+Kapag binalitaan ang isa sa kanila ng \[ng pagsilang ng\] inilahad niya para sa Napakamaawain bilang paghahalintulad, ang mukha niya ay naging nangingitim habang siya ay hapis.
 
 # 4343
 
-O ang sinumang pinalalaki ba sa mga hiyas, habang siya sa pakikipag-alitan ay hindi malinaw, [ay inuugnay kay Allāh]?
+O ang sinumang pinalalaki ba sa mga hiyas, habang siya sa pakikipag-alitan ay hindi malinaw, \[ay inuugnay kay Allāh\]?
 
 # 4344
 
@@ -17422,7 +17422,7 @@ Gaya niyon, hindi Kami nagsugo bago mo pa sa isang pamayanan ng anumang mapagbab
 
 # 4349
 
-Nagsabi [ang sugo sa kanila]: "Kahit pa ba naghatid ako sa inyo ng higit na patnubay kaysa sa natagpuan ninyo sa mga magulang ninyo?" Nagsabi sila: "Tunay na kami sa ipinasugo sa inyo ay mga tagatangging sumampalataya."
+Nagsabi \[ang sugo sa kanila\]: "Kahit pa ba naghatid ako sa inyo ng higit na patnubay kaysa sa natagpuan ninyo sa mga magulang ninyo?" Nagsabi sila: "Tunay na kami sa ipinasugo sa inyo ay mga tagatangging sumampalataya."
 
 # 4350
 
@@ -17430,7 +17430,7 @@ Kaya naghiganti Kami sa kanila. Kaya tumingin ka kung papaano naging ang kinahin
 
 # 4351
 
-[Banggitin] noong nagsabi si Abraham sa ama niya at mga kababayan niya: "Tunay na ako ay walang-kaugnayan sa anumang sinasamba ninyo,
+\[Banggitin\] noong nagsabi si Abraham sa ama niya at mga kababayan niya: "Tunay na ako ay walang-kaugnayan sa anumang sinasamba ninyo,
 
 # 4352
 
@@ -17458,7 +17458,7 @@ Sila ba ay namamahagi ng awa ng Panginoon mo? Kami ay namamahagi sa pagitan nila
 
 # 4358
 
-Kung hindi dahil sa ang mga tao ay magiging nag-iisang kalipunan [sa kawalang-pananampalataya] ay talaga sanang gumawa para sa sinumang tumatangging sumampalataya sa Napakamaawain para sa mga bahay nila ng mga bubong na pilak at mga hagdanan, na sa mga ito papaibabaw sila,
+Kung hindi dahil sa ang mga tao ay magiging nag-iisang kalipunan \[sa kawalang-pananampalataya\] ay talaga sanang gumawa para sa sinumang tumatangging sumampalataya sa Napakamaawain para sa mga bahay nila ng mga bubong na pilak at mga hagdanan, na sa mga ito papaibabaw sila,
 
 # 4359
 
@@ -17526,7 +17526,7 @@ Nagsabi sila: "O manggagaway, dumalangin ka para sa amin sa Panginoon mo ng itin
 
 # 4375
 
-Ngunit noong pumawi Kami sa kanila ng pagdurusa, biglang sila ay sumisira [sa usapan].
+Ngunit noong pumawi Kami sa kanila ng pagdurusa, biglang sila ay sumisira \[sa usapan\].
 
 # 4376
 
@@ -17566,7 +17566,7 @@ Walang iba siya kundi isang lingkod na nagbiyaya Kami sa kanya at gumawa Kami sa
 
 # 4385
 
-Kung sakaling loloobin Namin ay talaga sanang gumawa Kami [sa halip] sa inyo ng mga anghel sa lupa na maghahalilihan.
+Kung sakaling loloobin Namin ay talaga sanang gumawa Kami \[sa halip\] sa inyo ng mga anghel sa lupa na maghahalilihan.
 
 # 4386
 
@@ -17602,7 +17602,7 @@ O mga lingkod Ko, walang pangamba sa inyo sa Araw na iyon at kayo ay hindi malul
 
 # 4394
 
-[Sila ay] ang mga sumampalataya sa mga tanda Namin at sila noon ay mga tagapagpasakop.
+\[Sila ay\] ang mga sumampalataya sa mga tanda Namin at sila noon ay mga tagapagpasakop.
 
 # 4395
 
@@ -17646,7 +17646,7 @@ O nagpatibay sila ng isang usapin sapagkat tunay na Kami ay tagapagpatibay?
 
 # 4405
 
-O nag-aakala sila na tunay na Kami ay hindi nakaririnig ng lihim nila at pagsasarilinan nila? Bagkus [nakaririnig], at ang mga sugo Namin sa piling nila ay nagtatala.
+O nag-aakala sila na tunay na Kami ay hindi nakaririnig ng lihim nila at pagsasarilinan nila? Bagkus \[nakaririnig\], at ang mga sugo Namin sa piling nila ay nagtatala.
 
 # 4406
 
@@ -17658,7 +17658,7 @@ Kaluwalhatian sa Panginoon ng mga langit at lupa, Panginoon ng Trono, higit sa i
 
 # 4408
 
-Kaya hayaan mo silang sumuong [sa kabulaanan] at maglaro hanggang sa makipagkita sila sa araw nilang ipinangangako sa kanila.
+Kaya hayaan mo silang sumuong \[sa kabulaanan\] at maglaro hanggang sa makipagkita sila sa araw nilang ipinangangako sa kanila.
 
 # 4409
 
@@ -17678,7 +17678,7 @@ Talagang kung nagtanong ka sa kanila kung sino ang lumikha sa kanila ay talagang
 
 # 4413
 
-[Kumikilala si Allāh] sa sabi niya: "O Panginoon ko, tunay na ang mga ito ay mga taong hindi sumasampalataya."
+\[Kumikilala si Allāh\] sa sabi niya: "O Panginoon ko, tunay na ang mga ito ay mga taong hindi sumasampalataya."
 
 # 4414
 
@@ -17698,7 +17698,7 @@ tunay na Kami ay nagpababa nito sa isang gabing biniyayaan. Tunay Kami ay laging
 
 # 4418
 
-Sa [gabing] ito pinagpapasyahan ang bawat usaping tumpak,
+Sa \[gabing\] ito pinagpapasyahan ang bawat usaping tumpak,
 
 # 4419
 
@@ -17754,7 +17754,7 @@ Talaga ngang sumubok Kami bago nila sa mga tao ni Paraon, at may dumating sa kan
 
 # 4432
 
-na [nagsasabi]: "Ipaubaya ninyo sa akin ang mga lingkod ni Allāh – tunay na ako para sa inyo ay isang sugong mapagkakatiwalaan –
+na \[nagsasabi\]: "Ipaubaya ninyo sa akin ang mga lingkod ni Allāh – tunay na ako para sa inyo ay isang sugong mapagkakatiwalaan –
 
 # 4433
 
@@ -17774,7 +17774,7 @@ Kaya dumalangin siya sa Panginoon niya na ang mga ito ay mga taong salarin.
 
 # 4437
 
-Kaya [nag-utos si Allāh]: "Kaya maglakbay ka kasabay ng mga lingkod Ko sa isang gabi; tunay na kayo ay mga susundan."
+Kaya \[nag-utos si Allāh\]: "Kaya maglakbay ka kasabay ng mga lingkod Ko sa isang gabi; tunay na kayo ay mga susundan."
 
 # 4438
 
@@ -17810,7 +17810,7 @@ mula kay Paraon. Tunay na siya dati ay nagmamataas kabilang sa mga nagpapakalabi
 
 # 4446
 
-Talaga ngang pumili Kami sa kanila ayon sa kaalaman higit sa [lahat ng] mga nilalang.
+Talaga ngang pumili Kami sa kanila ayon sa kaalaman higit sa \[lahat ng\] mga nilalang.
 
 # 4447
 
@@ -17830,7 +17830,7 @@ Kaya maglahad kayo ng mga magulang namin kung nangyaring kayo ay mga tapat."
 
 # 4451
 
-Sila ba ay higit na mabuti o ang mga tao ng Tubba` at ang mga bago pa sa kanila, na ipinahamak Namin? Tunay na sila ay mga salarin noon.
+Sila ba ay higit na mabuti o ang mga tao ng Tubba\` at ang mga bago pa sa kanila, na ipinahamak Namin? Tunay na sila ay mga salarin noon.
 
 # 4452
 
@@ -17870,7 +17870,7 @@ gaya ng pagkulo ng nakapapasong tubig.
 
 # 4461
 
-[Sasabihin]: "Kunin ninyo siya at kaladkarin ninyo siya patungo sa kalagitnaan ng Impiyerno.
+\[Sasabihin\]: "Kunin ninyo siya at kaladkarin ninyo siya patungo sa kalagitnaan ng Impiyerno.
 
 # 4462
 
@@ -17962,7 +17962,7 @@ Mula sa unahan nila ay Impiyerno. Hindi makapagdudulot sa kanila ang nakamit nil
 
 # 4484
 
-[Ang Qur’ān na] ito ay isang patnubay. Ang mga tumangging sumampalataya sa mga tanda ng Panginoon nila, ukol sa kanila ay isang pagdurusa mula sa isang pasakit na masakit.
+\[Ang Qur’ān na\] ito ay isang patnubay. Ang mga tumangging sumampalataya sa mga tanda ng Panginoon nila, ukol sa kanila ay isang pagdurusa mula sa isang pasakit na masakit.
 
 # 4485
 
@@ -17998,7 +17998,7 @@ Tunay na sila ay hindi makapagdudulot para sa iyo laban kay Allāh ng anuman. Tu
 
 # 4493
 
-[Ang Qur’ān na] ito ay mga pagpapatalos sa mga tao, isang patnubay, at isang awa para sa mga taong nakatitiyak.
+\[Ang Qur’ān na\] ito ay mga pagpapatalos sa mga tao, isang patnubay, at isang awa para sa mga taong nakatitiyak.
 
 # 4494
 
@@ -18042,7 +18042,7 @@ Kaya tungkol sa mga sumampalataya at gumawa ng mga maayos, magpapapasok sa kanil
 
 # 4504
 
-Tungkol naman sa mga tumangging sumampalataya, [sasabihin]: "Hindi ba ang mga tanda Ko ay binibigkas sa inyo ngunit nagmalaki kayo at kayo noon ay mga taong salarin?
+Tungkol naman sa mga tumangging sumampalataya, \[sasabihin\]: "Hindi ba ang mga tanda Ko ay binibigkas sa inyo ngunit nagmalaki kayo at kayo noon ay mga taong salarin?
 
 # 4505
 
@@ -18058,7 +18058,7 @@ Sasabihin: "Ngayong Araw, lilimot Kami sa inyo gaya ng paglimot ninyo sa pagkiki
 
 # 4508
 
-Iyon ay dahil kayo ay gumawa sa mga tanda ni Allāh ng isang pangungutya at luminlang sa inyo ang buhay na pangmundo." Kaya sa Araw na iyon, hindi sila ilalabas mula roon at sila ay hindi hihilinging magpasiya [kay Allāh].
+Iyon ay dahil kayo ay gumawa sa mga tanda ni Allāh ng isang pangungutya at luminlang sa inyo ang buhay na pangmundo." Kaya sa Araw na iyon, hindi sila ilalabas mula roon at sila ay hindi hihilinging magpasiya \[kay Allāh\].
 
 # 4509
 
@@ -18090,7 +18090,7 @@ Sino ang higit na ligaw kaysa sa sinumang dumadalangin sa bukod pa kay Allāh, n
 
 # 4516
 
-Kapag kinalap ang mga tao, ang mga [dinalanginang] ito para sa kanila ay magiging mga kaaway at ang mga ito sa pagsamba sa mga ito ay magiging mga tagatanggi [sa pagkilala].
+Kapag kinalap ang mga tao, ang mga \[dinalanginang\] ito para sa kanila ay magiging mga kaaway at ang mga ito sa pagsamba sa mga ito ay magiging mga tagatanggi \[sa pagkilala\].
 
 # 4517
 
@@ -18110,7 +18110,7 @@ Sabihin mo: "Nagsaalang-alang ba kayo kung ito ay mula sa ganang kay Allāh at t
 
 # 4521
 
-Nagsabi ang mga tumangging sumampalataya sa mga sumampalataya: "Kung sakaling [ang Qur’ān na] ito ay kabutihan, hindi sana sila nakauna sa amin dito." Yayamang hindi sila napatnubayan sa pamamagitan nito ay magsasabi sila: "Ito ay isang panlilinlang na luma."
+Nagsabi ang mga tumangging sumampalataya sa mga sumampalataya: "Kung sakaling \[ang Qur’ān na\] ito ay kabutihan, hindi sana sila nakauna sa amin dito." Yayamang hindi sila napatnubayan sa pamamagitan nito ay magsasabi sila: "Ito ay isang panlilinlang na luma."
 
 # 4522
 
@@ -18130,11 +18130,11 @@ Nagtagubilin Kami sa tao hinggil sa mga magulang niya ng paggawa ng maganda. Nag
 
 # 4526
 
-Ang mga iyon ay tatanggap Kami buhat sa kanila ng pinakamaganda sa ginawa nila at magpapalampas Kami sa mga masagwang gawa nila [upang mapabilang] sa mga maninirahan sa Paraiso bilang pangako ng katapatan na sa kanila noon ay ipinangangako.
+Ang mga iyon ay tatanggap Kami buhat sa kanila ng pinakamaganda sa ginawa nila at magpapalampas Kami sa mga masagwang gawa nila \[upang mapabilang\] sa mga maninirahan sa Paraiso bilang pangako ng katapatan na sa kanila noon ay ipinangangako.
 
 # 4527
 
-Ang nagsabi sa mga magulang niya: "Pagkasuya sa inyong dalawa! Nangangako ba kayong dalawa sa akin na palabasin ako [sa libingan] samantalang lumipas na ang mga [ibang] salinlahi bago ko pa?" samantalang silang dalawa ay nagpapasaklolo kay Allāh, [na nagsasabi]: "Kapighatian sa iyo! Sumampalataya ka! Tunay na ang pangako ni Allāh ay totoo," ngunit nagsasabi naman siya: "Walang iba ito kundi mga alamat ng mga sinauna."
+Ang nagsabi sa mga magulang niya: "Pagkasuya sa inyong dalawa! Nangangako ba kayong dalawa sa akin na palabasin ako \[sa libingan\] samantalang lumipas na ang mga \[ibang\] salinlahi bago ko pa?" samantalang silang dalawa ay nagpapasaklolo kay Allāh, \[na nagsasabi\]: "Kapighatian sa iyo! Sumampalataya ka! Tunay na ang pangako ni Allāh ay totoo," ngunit nagsasabi naman siya: "Walang iba ito kundi mga alamat ng mga sinauna."
 
 # 4528
 
@@ -18146,11 +18146,11 @@ Para sa lahat ay mga antas dahil sa anumang ginawa nila, at upang tumumbas Siya 
 
 # 4530
 
-Sa araw na isasalang ang mga tumangging sumampalataya sa Apoy [ay sasabihin]: "Nag-alis kayo ng mga kaaya-aya ninyo sa buhay ninyo sa Mundo at nagtamasa kayo roon. Kaya ngayong araw ay gagantihan kayo ng pagdurusa ng pagkahamak dahil kayo dati ay nagmamalaki sa lupa nang walang karapatan at dahil kayo dati ay nagpapakasuwail."
+Sa araw na isasalang ang mga tumangging sumampalataya sa Apoy \[ay sasabihin\]: "Nag-alis kayo ng mga kaaya-aya ninyo sa buhay ninyo sa Mundo at nagtamasa kayo roon. Kaya ngayong araw ay gagantihan kayo ng pagdurusa ng pagkahamak dahil kayo dati ay nagmamalaki sa lupa nang walang karapatan at dahil kayo dati ay nagpapakasuwail."
 
 # 4531
 
-Banggitin mo ang kapatid ng `Ād noong nagbabala siya sa mga kalipi niya sa Al-Aḥqāf. Lumipas na ang mga mapagbabala noong bago pa niya at noong matapos na niya, [na nagsasabi]: "Huwag kayong sumamba maliban kay Allāh; tunay na ako ay nangangamba para sa inyo sa pagdurusa sa isang araw na sukdulan."
+Banggitin mo ang kapatid ng \`Ād noong nagbabala siya sa mga kalipi niya sa Al-Aḥqāf. Lumipas na ang mga mapagbabala noong bago pa niya at noong matapos na niya, \[na nagsasabi\]: "Huwag kayong sumamba maliban kay Allāh; tunay na ako ay nangangamba para sa inyo sa pagdurusa sa isang araw na sukdulan."
 
 # 4532
 
@@ -18162,7 +18162,7 @@ Nagsabi siya: "Tanging ang kaalaman ay nasa ganang kay Allāh. Nagpapaabot ako s
 
 # 4534
 
-Kaya noong nakakita sila niyon na isang ulap na [nakaharang na] nakaharap sa mga lambak nila ay nagsabi sila: "Ito ay isang ulap na magpapaulan sa atin." Bagkus iyon ay ang minadali ninyo na isang hanging sa loob nito ay isang pagdurusang masakit.
+Kaya noong nakakita sila niyon na isang ulap na \[nakaharang na\] nakaharap sa mga lambak nila ay nagsabi sila: "Ito ay isang ulap na magpapaulan sa atin." Bagkus iyon ay ang minadali ninyo na isang hanging sa loob nito ay isang pagdurusang masakit.
 
 # 4535
 
@@ -18170,7 +18170,7 @@ Wawasak ito sa bawat bagay ayon sa utos ng Panginoon nito kaya sila ay magiging 
 
 # 4536
 
-Talaga ngang nagbigay-kapangyarihan Kami sa kanila sa [paraang] hindi Kami nagbigay-kapangyarihan sa inyo. Gumawa Kami para sa kanila ng pandinig, mga paningin, at mga puso ngunit hindi nakapagdulot sa kanila ang pandinig nila ni ang mga paningin nila ni ang mga puso nila ng anuman yayamang sila dati ay nagkakaila sa mga tanda ni Allāh. Papaligid sa kanila ang dati nilang kinukutya.
+Talaga ngang nagbigay-kapangyarihan Kami sa kanila sa \[paraang\] hindi Kami nagbigay-kapangyarihan sa inyo. Gumawa Kami para sa kanila ng pandinig, mga paningin, at mga puso ngunit hindi nakapagdulot sa kanila ang pandinig nila ni ang mga paningin nila ni ang mga puso nila ng anuman yayamang sila dati ay nagkakaila sa mga tanda ni Allāh. Papaligid sa kanila ang dati nilang kinukutya.
 
 # 4537
 
@@ -18182,7 +18182,7 @@ Kaya bakit hindi nag-adya sa kanila ang mga ginawa nila bukod pa kay Allāh bila
 
 # 4539
 
-[Banggitin] noong naglihis Kami tungo sa iyo ng isang pangkat ng mga jinn na nakikinig sa Qur’ān, saka noong dumalo sila roon ay nagsabi sila: "Tumahimik kayo [upang makinig]." Kaya noong nagwakas ito ay umuwi sila sa mga kalahi nila bilang mga tagapagbabala.
+\[Banggitin\] noong naglihis Kami tungo sa iyo ng isang pangkat ng mga jinn na nakikinig sa Qur’ān, saka noong dumalo sila roon ay nagsabi sila: "Tumahimik kayo \[upang makinig\]." Kaya noong nagwakas ito ay umuwi sila sa mga kalahi nila bilang mga tagapagbabala.
 
 # 4540
 
@@ -18194,7 +18194,7 @@ O mga kalahi namin, sumagot kayo sa tagapag-anyaya ni Allāh at sumampalataya ka
 
 # 4542
 
-Ang sinumang hindi sumagot sa tagapag-anyaya ni Allāh ay hindi makapagpapawalang-kakayahan [sa Kanya] sa lupa at hindi ito magkakaroon bukod pa sa Kanya ng mga katangkilik. Ang mga iyon ay nasa isang pagkaligaw na malinaw.
+Ang sinumang hindi sumagot sa tagapag-anyaya ni Allāh ay hindi makapagpapawalang-kakayahan \[sa Kanya\] sa lupa at hindi ito magkakaroon bukod pa sa Kanya ng mga katangkilik. Ang mga iyon ay nasa isang pagkaligaw na malinaw.
 
 # 4543
 
@@ -18202,11 +18202,11 @@ Hindi ba nila napag-alaman na si Allāh na lumikha ng mga langit at lupa at hind
 
 # 4544
 
-Sa araw na isasalang sa Apoy ang mga tumangging sumampalataya [ay sasabihin]: "Hindi ba ito ang katotohanan?" Magsasabi sila: "Opo; sumpa man sa Panginoon namin." Magsasabi Siya: "Kaya lasapin ninyo ang pagdurusa dahil kayo dati ay tumatangging sumampalataya."
+Sa araw na isasalang sa Apoy ang mga tumangging sumampalataya \[ay sasabihin\]: "Hindi ba ito ang katotohanan?" Magsasabi sila: "Opo; sumpa man sa Panginoon namin." Magsasabi Siya: "Kaya lasapin ninyo ang pagdurusa dahil kayo dati ay tumatangging sumampalataya."
 
 # 4545
 
-Kaya magtiis ka kung paanong nagtiis ang mga may pagtitika kabilang sa mga sugo at huwag kang magmadali para sa kanila. Para bang sila, sa araw na makikita nila ang ipinangangako sa kanila, ay hindi namalagi kundi isang oras mula sa maghapon. Isang pagpapaabot [ito] kaya walang ipahahamak kundi ang mga taong suwail.
+Kaya magtiis ka kung paanong nagtiis ang mga may pagtitika kabilang sa mga sugo at huwag kang magmadali para sa kanila. Para bang sila, sa araw na makikita nila ang ipinangangako sa kanila, ay hindi namalagi kundi isang oras mula sa maghapon. Isang pagpapaabot \[ito\] kaya walang ipahahamak kundi ang mga taong suwail.
 
 # 4546
 
@@ -18222,7 +18222,7 @@ Iyon ay dahil ang mga tumangging sumampalataya ay sumunod sa kabulaanan at ang m
 
 # 4549
 
-Kaya kapag nakipagkita kayo [sa labanan] sa mga tumangging sumampalataya ay tumaga sa mga leeg nila, hanggang sa, kapag nakalipol kayo sa kanila ay higpitan ninyo ang mga paggapos [sa mga bihag], saka maaaring may pagmamagandang-loob o maaaring may pagpapatubos [sa mga bihag] hanggang sa magbaba ang digmaan ng mga pasanin nito. Iyon nga; at kung sakaling loloobin ni Allāh ay talaga sanang naghiganti Siya laban sa kanila subalit [ipinag-utos ang pakikibaka] upang sumubok Siya sa iba sa inyo sa pamamagitan ng iba pa. Ang mga pinatay sa landas ni Allāh ay hindi Siya magwawala sa mga gawa nila.
+Kaya kapag nakipagkita kayo \[sa labanan\] sa mga tumangging sumampalataya ay tumaga sa mga leeg nila, hanggang sa, kapag nakalipol kayo sa kanila ay higpitan ninyo ang mga paggapos \[sa mga bihag\], saka maaaring may pagmamagandang-loob o maaaring may pagpapatubos \[sa mga bihag\] hanggang sa magbaba ang digmaan ng mga pasanin nito. Iyon nga; at kung sakaling loloobin ni Allāh ay talaga sanang naghiganti Siya laban sa kanila subalit \[ipinag-utos ang pakikibaka\] upang sumubok Siya sa iba sa inyo sa pamamagitan ng iba pa. Ang mga pinatay sa landas ni Allāh ay hindi Siya magwawala sa mga gawa nila.
 
 # 4550
 
@@ -18250,7 +18250,7 @@ Kaya hindi ba sila humayo sa lupain para tumingin sila kung papaano naging ang k
 
 # 4556
 
-Iyon ay dahil si Allāh ang Mapagtangkilik ng mga sumampalataya at [dahil] ang mga tagatangging sumampalataya ay walang mapagtangkilik para sa kanila.
+Iyon ay dahil si Allāh ang Mapagtangkilik ng mga sumampalataya at \[dahil\] ang mga tagatangging sumampalataya ay walang mapagtangkilik para sa kanila.
 
 # 4557
 
@@ -18286,7 +18286,7 @@ Kaya alamin mo na walang Diyos kundi si Allāh at humingi ka ng tawad para sa pa
 
 # 4565
 
-Nagsasabi ang mga sumampalataya: "Bakit kasi walang ibinaba na isang kabanata?" Ngunit nang may pinababa na isang kabanatang tinahas at binanggit dito ang pakikipaglaban, makikita mo ang mga sa mga puso nila ay may sakit na tumitingin sa iyo nang pagtingin ng hinimatay dahil sa [takot sa] kamatayan. Kaya higit na nararapat para sa kanila ay
+Nagsasabi ang mga sumampalataya: "Bakit kasi walang ibinaba na isang kabanata?" Ngunit nang may pinababa na isang kabanatang tinahas at binanggit dito ang pakikipaglaban, makikita mo ang mga sa mga puso nila ay may sakit na tumitingin sa iyo nang pagtingin ng hinimatay dahil sa \[takot sa\] kamatayan. Kaya higit na nararapat para sa kanila ay
 
 # 4566
 
@@ -18306,7 +18306,7 @@ Kaya hindi ba sila nagmumuni-muni sa Qur’ān o sa mga puso ay may mga pampinid
 
 # 4570
 
-Tunay na ang mga bumalik sa mga tinalikdan nila nang matapos luminaw para sa kanila ang patnubay, ang demonyo ay nambighani sa kanila at nagpapatagal [ng maling pag-asa] para sa kanila.
+Tunay na ang mga bumalik sa mga tinalikdan nila nang matapos luminaw para sa kanila ang patnubay, ang demonyo ay nambighani sa kanila at nagpapatagal \[ng maling pag-asa\] para sa kanila.
 
 # 4571
 
@@ -18346,7 +18346,7 @@ Tunay na ang mga tumangging sumampalataya at sumagabal sa landas ni Allāh – p
 
 # 4580
 
-Kaya huwag kayong panghinaan at [huwag] kayong mag-anyaya sa pakikipagpayapaan samantalang kayo ay ang mga pinakamataas at si Allāh ay kasama sa inyo. Hindi Siya magbabawas sa inyo sa [gantimpala sa] mga gawa ninyo.
+Kaya huwag kayong panghinaan at \[huwag\] kayong mag-anyaya sa pakikipagpayapaan samantalang kayo ay ang mga pinakamataas at si Allāh ay kasama sa inyo. Hindi Siya magbabawas sa inyo sa \[gantimpala sa\] mga gawa ninyo.
 
 # 4581
 
@@ -18358,7 +18358,7 @@ Kung hihingi Siya sa inyo niyon saka magpipilit Siya sa inyo ay magmamaramot kay
 
 # 4583
 
-Kayo nga itong tinatawagan upang gumugol kayo sa landas ni Allāh ngunit mayroon sa inyo na nagmamaramot. Ang sinumang nagmamaramot ay nagmamaramot lamang sa sarili niya. Si Allāh ay ang Walang-pangangailangan samantalang kayo ay ang mga maralita. Kung tatalikod kayo ay papalitan Niya [kayo] ng mga taong iba sa inyo, pagkatapos hindi sila magiging mga tulad ninyo.
+Kayo nga itong tinatawagan upang gumugol kayo sa landas ni Allāh ngunit mayroon sa inyo na nagmamaramot. Ang sinumang nagmamaramot ay nagmamaramot lamang sa sarili niya. Si Allāh ay ang Walang-pangangailangan samantalang kayo ay ang mga maralita. Kung tatalikod kayo ay papalitan Niya \[kayo\] ng mga taong iba sa inyo, pagkatapos hindi sila magiging mga tulad ninyo.
 
 # 4584
 
@@ -18366,11 +18366,11 @@ Tunay na Kami ay nagpawagi sa iyo ng isang malinaw na pagwagi
 
 # 4585
 
-upang magpatawad sa iyo si Allāh sa anumang nauna na pagkakasala mo at anumang naantala, [upang] lumubos Siya sa biyaya Niya sa iyo, [upang] magpatnubay Siya sa iyo sa isang landasing tuwid,
+upang magpatawad sa iyo si Allāh sa anumang nauna na pagkakasala mo at anumang naantala, \[upang\] lumubos Siya sa biyaya Niya sa iyo, \[upang\] magpatnubay Siya sa iyo sa isang landasing tuwid,
 
 # 4586
 
-at [upang] mag-adya Siya sa iyo ng isang pag-aadyang makapangyarihan.
+at \[upang\] mag-adya Siya sa iyo ng isang pag-aadyang makapangyarihan.
 
 # 4587
 
@@ -18378,11 +18378,11 @@ Siya ay ang nagpababa ng katiwasayan sa mga puso ng mga mananampalataya upang ma
 
 # 4588
 
-[Ito ay] upang magpapasok Siya sa mga lalaking mananampalataya at mga babaing mananampalataya sa mga hardin na dumadaloy mula sa ilalim ng mga ito ang mga ilog bilang mga mananatili sa mga ito, [upang] magtakip-sala Siya sa kanila sa mga masagwang gawa nila – laging iyon sa ganang kay Allāh ay isang pagkatamong sukdulan –
+\[Ito ay\] upang magpapasok Siya sa mga lalaking mananampalataya at mga babaing mananampalataya sa mga hardin na dumadaloy mula sa ilalim ng mga ito ang mga ilog bilang mga mananatili sa mga ito, \[upang\] magtakip-sala Siya sa kanila sa mga masagwang gawa nila – laging iyon sa ganang kay Allāh ay isang pagkatamong sukdulan –
 
 # 4589
 
-at [upang] pagdusahin Niya ang mga lalaking mapagpaimbabaw at ang mga babaing mapagpaimbabaw, at ang mga lalaking tagapagtambal at ang mga babaing tagapagtambal, na mga nagpapalagay kay Allāh ng pagpapalagay ng kasagwaan. Sumakanila ang pananalanta ng kasagwaan! Nagalit si Allāh sa kanila, sumumpa Siya sa kanila, at naghanda Siya para sa kanila ng Impiyerno. Kay saklap iyon bilang kahahantungan!
+at \[upang\] pagdusahin Niya ang mga lalaking mapagpaimbabaw at ang mga babaing mapagpaimbabaw, at ang mga lalaking tagapagtambal at ang mga babaing tagapagtambal, na mga nagpapalagay kay Allāh ng pagpapalagay ng kasagwaan. Sumakanila ang pananalanta ng kasagwaan! Nagalit si Allāh sa kanila, sumumpa Siya sa kanila, at naghanda Siya para sa kanila ng Impiyerno. Kay saklap iyon bilang kahahantungan!
 
 # 4590
 
@@ -18426,7 +18426,7 @@ Sabihin mo sa mga pinaiwan kabilang sa mga Arabeng disyerto: "Aanyayahan kayo tu
 
 # 4600
 
-Walang pagkaasiwa sa bulag, walang pagkaasiwa sa pilay, at walang pagkaasiwa sa may-sakit [na magpaiwan]. Ang sinumang tumatalima kay Allāh at sa Sugo Niya ay magpapapasok Siya rito sa mga hardin na dumadaloy mula sa ilalim ng mga ito ang mga ilog. Ang sinumang tumalikod ay pagdurusahin Niya ito ng isang pagdurusang masakit.
+Walang pagkaasiwa sa bulag, walang pagkaasiwa sa pilay, at walang pagkaasiwa sa may-sakit \[na magpaiwan\]. Ang sinumang tumatalima kay Allāh at sa Sugo Niya ay magpapapasok Siya rito sa mga hardin na dumadaloy mula sa ilalim ng mga ito ang mga ilog. Ang sinumang tumalikod ay pagdurusahin Niya ito ng isang pagdurusang masakit.
 
 # 4601
 
@@ -18450,7 +18450,7 @@ Kung sakaling kumalaban sa inyo ang mga tumangging sumampalataya ay talaga sanan
 
 # 4606
 
-[Nagsakalakaran] ng kalakaran ni Allāh na nagdaan na bago pa niyon at hindi ka makatatagpo para sa kalakaran ni Allāh ng isang pagpapalit.
+\[Nagsakalakaran\] ng kalakaran ni Allāh na nagdaan na bago pa niyon at hindi ka makatatagpo para sa kalakaran ni Allāh ng isang pagpapalit.
 
 # 4607
 
@@ -18458,7 +18458,7 @@ Siya ay ang pumigil sa mga kamay nila laban sa inyo at sa mga kamay ninyo laban 
 
 # 4608
 
-Sila ay ang mga tumangging sumampalataya at sumagabal sa inyo sa Masjid na Pinakababanal at sa inaalay habang pinigilan na makarating sa pinag-aalayan nito. Kung hindi dahil sa mga lalaking mananampalataya at mga babaing mananampalataya na hindi kayo nakaalam sa kanila – na baka makapaslang kayo sa kanila para may tumama sa inyo dahil sa kanila na isang kapintasan nang wala sa kaalaman – [pinahintulutan sana kayong pumasok sa Makkah] upang magpapapasok si Allāh sa awa Niya ng sinumang niloloob Niya. Kung sakaling nabukod sila ay talaga sanang pinagdusa Namin ang mga tumanging sumampalataya kabilang sa kanila ng isang pagdurusang masakit.
+Sila ay ang mga tumangging sumampalataya at sumagabal sa inyo sa Masjid na Pinakababanal at sa inaalay habang pinigilan na makarating sa pinag-aalayan nito. Kung hindi dahil sa mga lalaking mananampalataya at mga babaing mananampalataya na hindi kayo nakaalam sa kanila – na baka makapaslang kayo sa kanila para may tumama sa inyo dahil sa kanila na isang kapintasan nang wala sa kaalaman – \[pinahintulutan sana kayong pumasok sa Makkah\] upang magpapapasok si Allāh sa awa Niya ng sinumang niloloob Niya. Kung sakaling nabukod sila ay talaga sanang pinagdusa Namin ang mga tumanging sumampalataya kabilang sa kanila ng isang pagdurusang masakit.
 
 # 4609
 
@@ -18466,7 +18466,7 @@ Noong naglagay ang mga tumangging sumampalataya sa mga puso nila ng kapalaluan, 
 
 # 4610
 
-Talaga ngang nagsakatuparan si Allāh sa Sugo Niya ng panaginip ayon sa katotohanan. Talagang papasok nga kayo sa Masjid na Pinakababanal, kung niloob ni Allāh, na mga ligtas na mga nag-ahit ng mga ulo ninyo at mga nagpaiksi [ng buhok], na hindi kayo nangangamba, saka nakaalam Siya ng hindi ninyo nalaman kaya gumawa Siya bukod pa roon ng isang pagpapawaging malapit.
+Talaga ngang nagsakatuparan si Allāh sa Sugo Niya ng panaginip ayon sa katotohanan. Talagang papasok nga kayo sa Masjid na Pinakababanal, kung niloob ni Allāh, na mga ligtas na mga nag-ahit ng mga ulo ninyo at mga nagpaiksi \[ng buhok\], na hindi kayo nangangamba, saka nakaalam Siya ng hindi ninyo nalaman kaya gumawa Siya bukod pa roon ng isang pagpapawaging malapit.
 
 # 4611
 
@@ -18474,7 +18474,7 @@ Siya ay ang nagsugo sa Sugo Niya kalakip ng patnubay at Relihiyon ng Katotohanan
 
 # 4612
 
-Si Muḥammad ay ang Sugo ni Allāh. Ang mga kasama sa kanya ay mga matindi sa mga tagatangging sumasampalataya, mga maawain sa isa’t isa sa kanila. Makikita mo sila na mga nakayukod, mga nakapatirapa, na naghahangad ng isang kabutihang-loob mula kay Allāh at ng isang kasiyahan [Niya]. Ang tatak nila ay nasa mga mukha nila, mula sa bakas ng pagpapatirapa. Iyon ay ang pagkakalarawan sa kanila sa Torah. Ang pagkakalarawan naman sa kanila sa Ebanghelyo ay gaya ng tanim na nagluwal ng usbong nito, saka pinalakas nito iyon, saka kumapal iyon, saka tumayo iyon sa puno nito, na nagpatuwa sa mga tagatanim, upang magpangitngit Siya sa pamamagitan nila sa mga tagatangging sumampalataya. Nangako si Allāh sa mga sumampalataya at mga gumawa ng mga maayos kabilang sa kanila ng isang kapatawaran at isang pabuyang sukdulan.
+Si Muḥammad ay ang Sugo ni Allāh. Ang mga kasama sa kanya ay mga matindi sa mga tagatangging sumasampalataya, mga maawain sa isa’t isa sa kanila. Makikita mo sila na mga nakayukod, mga nakapatirapa, na naghahangad ng isang kabutihang-loob mula kay Allāh at ng isang kasiyahan \[Niya\]. Ang tatak nila ay nasa mga mukha nila, mula sa bakas ng pagpapatirapa. Iyon ay ang pagkakalarawan sa kanila sa Torah. Ang pagkakalarawan naman sa kanila sa Ebanghelyo ay gaya ng tanim na nagluwal ng usbong nito, saka pinalakas nito iyon, saka kumapal iyon, saka tumayo iyon sa puno nito, na nagpatuwa sa mga tagatanim, upang magpangitngit Siya sa pamamagitan nila sa mga tagatangging sumampalataya. Nangako si Allāh sa mga sumampalataya at mga gumawa ng mga maayos kabilang sa kanila ng isang kapatawaran at isang pabuyang sukdulan.
 
 # 4613
 
@@ -18482,7 +18482,7 @@ O mga sumampalataya, huwag kayong manguna sa harap ni Allāh at ng Sugo Niya at 
 
 # 4614
 
-O mga sumampalataya, huwag kayong magtaas ng mga tinig ninyo higit sa tinig ng Propeta at huwag kayong maglakas [ng tinig] sa kanya sa pagsasabi gaya ng pagpapalakas ng tinig ng ilan sa inyo sa iba pa dahil [baka] mawalang-kabuluhan ang mga gawa ninyo samantalang kayo ay hindi nakararamdam.
+O mga sumampalataya, huwag kayong magtaas ng mga tinig ninyo higit sa tinig ng Propeta at huwag kayong maglakas \[ng tinig\] sa kanya sa pagsasabi gaya ng pagpapalakas ng tinig ng ilan sa inyo sa iba pa dahil \[baka\] mawalang-kabuluhan ang mga gawa ninyo samantalang kayo ay hindi nakararamdam.
 
 # 4615
 
@@ -18506,7 +18506,7 @@ Alamin ninyo na nasa inyo ang Sugo ni Allāh. Kung sakaling tatalima siya sa iny
 
 # 4620
 
-[Nangyari ito] bilang kabutihang-loob mula kay Allāh at bilang biyaya. Si Allāh ay Maalam, Marunong.
+\[Nangyari ito\] bilang kabutihang-loob mula kay Allāh at bilang biyaya. Si Allāh ay Maalam, Marunong.
 
 # 4621
 
@@ -18518,7 +18518,7 @@ Ang mga mananampalataya ay magkakapatid lamang, kaya magpayapa kayo sa pagitan n
 
 # 4623
 
-O mga sumampalataya, huwag manuya ang ilang lalaki sa ilang lalaki; baka ang mga [tinutuyang] ito ay higit na mabuti kaysa sa kanila [na nanunuya]. Huwag [manuya] ang ilang babae sa ilang babae; baka ang mga [tinutuyang] ito ay higit na mabuti sa kanila [na nanunuya]. Huwag kayong manuligsa sa isa’t isa sa inyo at huwag kayong magtawagan ng mga [masamang] taguri. Kay saklap bilang pangalan ang kasuwailan matapos ng pananampalataya. Ang sinumang hindi nagbalik-loob, ang mga iyon ay ang mga tagalabag sa katarungan.
+O mga sumampalataya, huwag manuya ang ilang lalaki sa ilang lalaki; baka ang mga \[tinutuyang\] ito ay higit na mabuti kaysa sa kanila \[na nanunuya\]. Huwag \[manuya\] ang ilang babae sa ilang babae; baka ang mga \[tinutuyang\] ito ay higit na mabuti sa kanila \[na nanunuya\]. Huwag kayong manuligsa sa isa’t isa sa inyo at huwag kayong magtawagan ng mga \[masamang\] taguri. Kay saklap bilang pangalan ang kasuwailan matapos ng pananampalataya. Ang sinumang hindi nagbalik-loob, ang mga iyon ay ang mga tagalabag sa katarungan.
 
 # 4624
 
@@ -18558,7 +18558,7 @@ Bagkus nagtaka sila na dumating sa kanila ang isang tagapagbabala kabilang sa ka
 
 # 4633
 
-[Bubuhaying muli kami] kapag namatay ba kami at kami ay naging alabok? Iyon ay isang pagpapabalik na malayo [nang mangyari].
+\[Bubuhaying muli kami\] kapag namatay ba kami at kami ay naging alabok? Iyon ay isang pagpapabalik na malayo \[nang mangyari\].
 
 # 4634
 
@@ -18590,19 +18590,19 @@ at mga puno ng datiles, habang mga pumapaitaas na may bunga na patung-patong,
 
 # 4641
 
-bilang panustos para sa mga lingkod. Nagbigay-buhay Kami sa pamamagitan nito ng isang lupaing patay. Gayon ang paglabas [ng buhay].
+bilang panustos para sa mga lingkod. Nagbigay-buhay Kami sa pamamagitan nito ng isang lupaing patay. Gayon ang paglabas \[ng buhay\].
 
 # 4642
 
-Nagpasinungaling bago nila ang mga kababayan ni Noe, ang mga naninirahan sa Rass, ang [mga kalipi ng] Thamūd,
+Nagpasinungaling bago nila ang mga kababayan ni Noe, ang mga naninirahan sa Rass, ang \[mga kalipi ng\] Thamūd,
 
 # 4643
 
-ang [mga kalipi ng] `Ād, si Paraon, at ang mga kapatid ni Lot,
+ang \[mga kalipi ng\] \`Ād, si Paraon, at ang mga kapatid ni Lot,
 
 # 4644
 
-ang mga naninirahan sa kasukalan, at ang mga kalipi ni Tubba`. Bawat [isa] ay nagpasinungaling sa mga sugo kaya nagindapat ang banta Ko.
+ang mga naninirahan sa kasukalan, at ang mga kalipi ni Tubba\`. Bawat \[isa\] ay nagpasinungaling sa mga sugo kaya nagindapat ang banta Ko.
 
 # 4645
 
@@ -18614,11 +18614,11 @@ Talaga ngang lumikha Kami sa tao, habang nakaaalam Kami sa anumang isinusulsol s
 
 # 4647
 
-[Banggitin] kapag tumatanggap ang dalawang [anghel na] tagatanggap sa gawing kanan at sa gawing kaliwa habang nakaupo.
+\[Banggitin\] kapag tumatanggap ang dalawang \[anghel na\] tagatanggap sa gawing kanan at sa gawing kaliwa habang nakaupo.
 
 # 4648
 
-Wala siyang binibigkas na anumang pagkakasabi malibang sa tabi niya ay may isang mapagmasid na nakalaang [magtala].
+Wala siyang binibigkas na anumang pagkakasabi malibang sa tabi niya ay may isang mapagmasid na nakalaang \[magtala\].
 
 # 4649
 
@@ -18634,15 +18634,15 @@ Darating ang bawat kaluluwa na may kasama itong isang tagaakay at isang saksi.
 
 # 4652
 
-[Sasabihin]: "Talaga ngang ikaw dati ay nasa isang pagkalingat rito, kaya humawi Kami sa iyo ng lambong mo kaya ang paningin mo ngayong araw ay matalas."
+\[Sasabihin\]: "Talaga ngang ikaw dati ay nasa isang pagkalingat rito, kaya humawi Kami sa iyo ng lambong mo kaya ang paningin mo ngayong araw ay matalas."
 
 # 4653
 
-Magsasabi ang [anghel na] kaugnay niya: "Ito, ang taglay ko, ay nakalaan."
+Magsasabi ang \[anghel na\] kaugnay niya: "Ito, ang taglay ko, ay nakalaan."
 
 # 4654
 
-[Sasabihin sa dalawang anghel]: "Magtapon kayong dalawa sa Impiyerno ng bawat palatanggi na mapagmatigas,
+\[Sasabihin sa dalawang anghel\]: "Magtapon kayong dalawa sa Impiyerno ng bawat palatanggi na mapagmatigas,
 
 # 4655
 
@@ -18654,7 +18654,7 @@ na gumawa kasama kay Allāh ng isang diyos na iba pa. Kaya itapon ninyong dalawa
 
 # 4657
 
-Magsasabi ang [demonyong] kaugnay niya: "Panginoon namin, hindi ako nagpalabis sa kanya, subalit siya dati ay nasa isang pagkaligaw na malayo."
+Magsasabi ang \[demonyong\] kaugnay niya: "Panginoon namin, hindi ako nagpalabis sa kanya, subalit siya dati ay nasa isang pagkaligaw na malayo."
 
 # 4658
 
@@ -18674,7 +18674,7 @@ Palalapitin ang Paraiso para sa mga tagapangilag magkasala nang hindi malayo.
 
 # 4662
 
-[Sasabihin]: "Ito ay ang ipinangangako sa inyo – para sa bawat palabalik, mapag-ingat,
+\[Sasabihin\]: "Ito ay ang ipinangangako sa inyo – para sa bawat palabalik, mapag-ingat,
 
 # 4663
 
@@ -18730,19 +18730,19 @@ Kami ay higit na maalam sa anumang sinasabi nila. Ikaw sa kanila ay hindi isang 
 
 # 4676
 
-Sumpa man sa mga [hanging] tagapagpalipad sa pagpapalipad [ng alikabok],
+Sumpa man sa mga \[hanging\] tagapagpalipad sa pagpapalipad \[ng alikabok\],
 
 # 4677
 
-saka sa mga [ulap na] tagapagdala ng lulan [na ulap],
+saka sa mga \[ulap na\] tagapagdala ng lulan \[na ulap\],
 
 # 4678
 
-at sa mga [daong na] tagapaglayag nang magaan,
+at sa mga \[daong na\] tagapaglayag nang magaan,
 
 # 4679
 
-saka sa mga [anghel na] tagapagbahagi ng nauukol,
+saka sa mga \[anghel na\] tagapagbahagi ng nauukol,
 
 # 4680
 
@@ -18770,7 +18770,7 @@ Napahamak ang mga palasapantaha,
 
 # 4686
 
-na sila sa isang pagkalubog [sa kamangmangan] ay mga nakaliligta.
+na sila sa isang pagkalubog \[sa kamangmangan\] ay mga nakaliligta.
 
 # 4687
 
@@ -18818,7 +18818,7 @@ Sa langit ay ang panustos ninyo at ang ipinangangako sa inyo.
 
 # 4698
 
-Kaya sumpa man sa Panginoon ng langit at lupa, tunay na ito ay talagang katotohanan tulad ng anuman na kayo ay bumibigkas [niyon].
+Kaya sumpa man sa Panginoon ng langit at lupa, tunay na ito ay talagang katotohanan tulad ng anuman na kayo ay bumibigkas \[niyon\].
 
 # 4699
 
@@ -18842,7 +18842,7 @@ Kaya nakadama siya mula sa kanila ng pangangamba. Nagsabi sila: "Huwag kang mang
 
 # 4704
 
-Kaya lumapit ang maybahay niya habang nasa paghihiyaw saka tinampal nito ang mukha nito at nagsabi: "Matandang babaing baog [ako]!"
+Kaya lumapit ang maybahay niya habang nasa paghihiyaw saka tinampal nito ang mukha nito at nagsabi: "Matandang babaing baog \[ako\]!"
 
 # 4705
 
@@ -18878,7 +18878,7 @@ Nag-iwan Kami roon ng isang tanda para sa mga nangangamba sa pagdurusang masakit
 
 # 4713
 
-Kay Moises [ay may tanda] noong nagsugo Kami sa kanya kay Paraon kalakip ng isang katunayang malinaw.
+Kay Moises \[ay may tanda\] noong nagsugo Kami sa kanya kay Paraon kalakip ng isang katunayang malinaw.
 
 # 4714
 
@@ -18890,7 +18890,7 @@ Kaya kinuha Namin siya at ang mga kawal niya saka itinapon Namin sila sa dagat h
 
 # 4716
 
-Sa `Ād [ay may tanda] noong nagsugo Kami sa kanila ng hanging baog.
+Sa \`Ād \[ay may tanda\] noong nagsugo Kami sa kanila ng hanging baog.
 
 # 4717
 
@@ -18898,7 +18898,7 @@ Hindi ito nagpapabaya ng anumang bagay na pinuntahan nito malibang ginawa nito i
 
 # 4718
 
-Sa Thamūd [ay may tanda] noong sinabi sa kanila: "Magtamasa kayo hanggang sa pansamantala."
+Sa Thamūd \[ay may tanda\] noong sinabi sa kanila: "Magtamasa kayo hanggang sa pansamantala."
 
 # 4719
 
@@ -18910,15 +18910,15 @@ Kaya hindi sila nakakaya ng pagtayo at hindi sila dati mga naiaadya.
 
 # 4721
 
-[Nagpahamak Kami] sa mga kababayan ni Noe bago pa niyon; tunay na sila dati ay mga taong suwail.
+\[Nagpahamak Kami\] sa mga kababayan ni Noe bago pa niyon; tunay na sila dati ay mga taong suwail.
 
 # 4722
 
-Ang langit ay ipinatayo Namin ito sa pamamagitan ng kapangyarihan at tunay na Kami ay talagang tagapagpalawak [nito].
+Ang langit ay ipinatayo Namin ito sa pamamagitan ng kapangyarihan at tunay na Kami ay talagang tagapagpalawak \[nito\].
 
 # 4723
 
-Ang lupa ay inilatag Namin ito, saka kay inam na tagapaghimlay [Kami].
+Ang lupa ay inilatag Namin ito, saka kay inam na tagapaghimlay \[Kami\].
 
 # 4724
 
@@ -18934,7 +18934,7 @@ Huwag kayong gumawa kasama kay Allāh ng isang diyos na iba pa; tunay na ako par
 
 # 4727
 
-Gayon din, walang pumunta sa mga [tao] bago pa nila na isang sugo malibang nagsabi sila: "Isang manggagaway o isang baliw."
+Gayon din, walang pumunta sa mga \[tao\] bago pa nila na isang sugo malibang nagsabi sila: "Isang manggagaway o isang baliw."
 
 # 4728
 
@@ -18966,7 +18966,7 @@ Saka tunay na ukol sa mga lumabag sa katarungan ay mga pagkakasalang tulad ng mg
 
 # 4735
 
-Kaya kapighatian ay ukol sa mga tumangging sumampalataya, mula sa araw nila na pinangangakuan sila [ng pagdurusa].
+Kaya kapighatian ay ukol sa mga tumangging sumampalataya, mula sa araw nila na pinangangakuan sila \[ng pagdurusa\].
 
 # 4736
 
@@ -19014,7 +19014,7 @@ Kaya kapighatian sa araw na iyon ay ukol sa mga tagapagpasinungaling,
 
 # 4747
 
-na sila sa pagsuong [sa kabulaanan] ay naglalaro.
+na sila sa pagsuong \[sa kabulaanan\] ay naglalaro.
 
 # 4748
 
@@ -19030,7 +19030,7 @@ Kaya panggagaway ba ito o kayo ay hindi nakakikita?
 
 # 4751
 
-Masunog kayo rito [sa apoy] at magtiis kayo o huwag kayong magtiis: magkapantay sa inyo; gagantihan lamang kayo ng dati ninyong ginagawa.
+Masunog kayo rito \[sa apoy\] at magtiis kayo o huwag kayong magtiis: magkapantay sa inyo; gagantihan lamang kayo ng dati ninyong ginagawa.
 
 # 4752
 
@@ -19062,7 +19062,7 @@ Magpapasahan sila roon ng tasa na walang satsatan dito at walang pagpapakasalana
 
 # 4759
 
-May iikot sa kanila na mga batang lalaki [na pinagsilbi] para sa kanila, na para bang ang mga iyon ay mga mutyang itinatago.
+May iikot sa kanila na mga batang lalaki \[na pinagsilbi\] para sa kanila, na para bang ang mga iyon ay mga mutyang itinatago.
 
 # 4760
 
@@ -19098,7 +19098,7 @@ O nag-uutos ba sa kanila ang mga isipan nila ng ganito o sila ay mga taong tagap
 
 # 4768
 
-O nagsasabi ba silang nagsabi-sabi siya [ng Qur’ān na] ito? Bagkus hindi sila sumasampalataya.
+O nagsasabi ba silang nagsabi-sabi siya \[ng Qur’ān na\] ito? Bagkus hindi sila sumasampalataya.
 
 # 4769
 
@@ -19118,7 +19118,7 @@ O taglay ba nila ang mga imbakan ng Panginoon mo, o sila ay ang mga tagapangibab
 
 # 4773
 
-O mayroon ba silang isang hagdan [paakyat sa langit] na nakapapakinig sila roon? Kaya [kung gayon] ay maglahad ang tagapakinig nila ng isang katunayang malinaw.
+O mayroon ba silang isang hagdan \[paakyat sa langit\] na nakapapakinig sila roon? Kaya \[kung gayon\] ay maglahad ang tagapakinig nila ng isang katunayang malinaw.
 
 # 4774
 
@@ -19130,7 +19130,7 @@ O nanghihingi ka ba sa kanila ng isang pabuya kaya sila dahil sa isang pagkakamu
 
 # 4776
 
-O taglay ba nila ang [kaalaman sa] Lingid kaya sila ay nagsusulat [nito]?
+O taglay ba nila ang \[kaalaman sa\] Lingid kaya sila ay nagsusulat \[nito\]?
 
 # 4777
 
@@ -19182,7 +19182,7 @@ Walang iba ito kundi isang kasi na ikinakasi sa kanya.
 
 # 4789
 
-Nagturo sa kanya ang [anghel na] matindi ang lakas,
+Nagturo sa kanya ang \[anghel na\] matindi ang lakas,
 
 # 4790
 
@@ -19190,7 +19190,7 @@ na may kapangyarihan saka tumindig sa tunay na anyo,
 
 # 4791
 
-habang ito ay nasa [bahagi ng] abot-tanaw na pinakamataas.
+habang ito ay nasa \[bahagi ng\] abot-tanaw na pinakamataas.
 
 # 4792
 
@@ -19206,7 +19206,7 @@ Kaya nagkasi ito sa lingkod Niya ng ikinasi Niya.
 
 # 4795
 
-Hindi nagsinungaling ang puso [ng Propeta] sa nakita niya.
+Hindi nagsinungaling ang puso \[ng Propeta\] sa nakita niya.
 
 # 4796
 
@@ -19218,7 +19218,7 @@ Talaga ngang nakita niya ito sa iba pang pagkababa,
 
 # 4798
 
-sa tabi ng [punong] Sidrah ng Pinagwawakasan,
+sa tabi ng \[punong\] Sidrah ng Pinagwawakasan,
 
 # 4799
 
@@ -19226,11 +19226,11 @@ sa tabi nito ang Hardin ng Kanlungan,
 
 # 4800
 
-noong bumabalot sa [punong] Sidrah ang bumabalot.
+noong bumabalot sa \[punong\] Sidrah ang bumabalot.
 
 # 4801
 
-Hindi lumiko ang paningin [ng Propeta] at hindi ito lumampas.
+Hindi lumiko ang paningin \[ng Propeta\] at hindi ito lumampas.
 
 # 4802
 
@@ -19238,7 +19238,7 @@ Talaga ngang may nakita siya mula sa pinakamalaking mga tanda ng Panginoon Niya.
 
 # 4803
 
-Kaya nagsaalang-alang ba kayo kina Allāt at Al`uzzā,
+Kaya nagsaalang-alang ba kayo kina Allāt at Al\`uzzā,
 
 # 4804
 
@@ -19254,7 +19254,7 @@ Iyon, sa makatuwid, ay isang paghahating liku-liko.
 
 # 4807
 
-Walang iba ang mga [anitong] ito kundi mga pangalang ipinangalan ninyo mismo at ng mga ninuno ninyo. Hindi nagpababa si Allāh kaugnay sa mga ito ng anumang katunayan. Hindi sila sumusunod maliban sa pagpapalagay at pinipithaya ng mga sarili. Talaga ngang dumating sa kanila mula sa Panginoon nila ang patnubay.
+Walang iba ang mga \[anitong\] ito kundi mga pangalang ipinangalan ninyo mismo at ng mga ninuno ninyo. Hindi nagpababa si Allāh kaugnay sa mga ito ng anumang katunayan. Hindi sila sumusunod maliban sa pagpapalagay at pinipithaya ng mga sarili. Talaga ngang dumating sa kanila mula sa Panginoon nila ang patnubay.
 
 # 4808
 
@@ -19294,7 +19294,7 @@ Ang mga umiiwas sa mga malaki sa kasalanan at mga mahalay maliban sa mga kasalan
 
 # 4817
 
-Kaya nakita mo ba ang tumalikod [sa Islām],
+Kaya nakita mo ba ang tumalikod \[sa Islām\],
 
 # 4818
 
@@ -19358,23 +19358,23 @@ Na Siya ay nagpayaman at nagbigay-kasiyahan.
 
 # 4833
 
-Na Siya ay ang Panginoon ng [bituing] Sirius.
+Na Siya ay ang Panginoon ng \[bituing\] Sirius.
 
 # 4834
 
-Na Siya ay nagpahamak sa [liping] `Ād na sinauna
+Na Siya ay nagpahamak sa \[liping\] \`Ād na sinauna
 
 # 4835
 
-at [liping] Thamūd, kaya hindi Siya nagtira.
+at \[liping\] Thamūd, kaya hindi Siya nagtira.
 
 # 4836
 
-[Nagpahamak Siya] sa mga kababayan ni Noe bago pa niyon; tunay na sila dati ay higit na tagalabag sa katarungan at higit na tagapagmalabis.
+\[Nagpahamak Siya\] sa mga kababayan ni Noe bago pa niyon; tunay na sila dati ay higit na tagalabag sa katarungan at higit na tagapagmalabis.
 
 # 4837
 
-Ang itinaob [na mga lungsod] ay pinalagpak Niya,
+Ang itinaob \[na mga lungsod\] ay pinalagpak Niya,
 
 # 4838
 
@@ -19386,7 +19386,7 @@ Kaya sa alin sa mga grasya ng Panginoon mo nag-aalinlangan ka?
 
 # 4840
 
-[Ang Sugong] ito ay isang mapagbabala kabilang sa mga mapagbabalang sinauna.
+\[Ang Sugong\] ito ay isang mapagbabala kabilang sa mga mapagbabalang sinauna.
 
 # 4841
 
@@ -19458,15 +19458,15 @@ Kaya nagbukas Kami ng mga pinto ng langit na may tubig na bumubuhos.
 
 # 4858
 
-Nagpabulwak Kami sa lupa ng mga bukal, saka nagtagpo ang tubig [ng langit at lupa] ayon sa isang utos na itinakda.
+Nagpabulwak Kami sa lupa ng mga bukal, saka nagtagpo ang tubig \[ng langit at lupa\] ayon sa isang utos na itinakda.
 
 # 4859
 
-Nagdala Kami sa kanya sa [daong na] may mga tabla at mga pako.
+Nagdala Kami sa kanya sa \[daong na\] may mga tabla at mga pako.
 
 # 4860
 
-Naglalayag ito sa [pagsusubaybay ng] mga mata Namin bilang ganti para sa dating tinanggihang sampalatayanan.
+Naglalayag ito sa \[pagsusubaybay ng\] mga mata Namin bilang ganti para sa dating tinanggihang sampalatayanan.
 
 # 4861
 
@@ -19482,7 +19482,7 @@ Talaga ngang nagpadali Kami sa Qur’ān para sa pag-aalaala, kaya may tagapag-a
 
 # 4864
 
-Nagpasinungaling ang [liping] `Ād, kaya papaano naging ang pagdurusang dulot Ko at ang mga babala Ko?
+Nagpasinungaling ang \[liping\] \`Ād, kaya papaano naging ang pagdurusang dulot Ko at ang mga babala Ko?
 
 # 4865
 
@@ -19502,7 +19502,7 @@ Talaga ngang nagpadali Kami sa Qur’ān para sa pagsasaalaala, kaya may tagapag
 
 # 4869
 
-Nagpasinungaling ang [liping] Thamūd sa mga babala.
+Nagpasinungaling ang \[liping\] Thamūd sa mga babala.
 
 # 4870
 
@@ -19526,7 +19526,7 @@ Magbalita ka sa kanila na ang tubig ay binabahagi sa pagitan nila; bawat pag-ino
 
 # 4875
 
-Ngunit nanawagan sila sa kasamahan nila, kaya kinuha nito [iyon] at kinatay nito.
+Ngunit nanawagan sila sa kasamahan nila, kaya kinuha nito \[iyon\] at kinatay nito.
 
 # 4876
 
@@ -19558,7 +19558,7 @@ Talaga ngang nagbabala siya sa kanila ng pagsunggab Namin ngunit nag-alinlangan 
 
 # 4883
 
-Talaga ngang humiling sila sa kanya [na manghalay] sa panauhin niya kaya pumawi Kami sa mga mata nila, [na nagsasabi:] "Kaya lumasap kayo ng pagdurusang dulot Ko at mga babala Ko."
+Talaga ngang humiling sila sa kanya \[na manghalay\] sa panauhin niya kaya pumawi Kami sa mga mata nila, \[na nagsasabi:\] "Kaya lumasap kayo ng pagdurusang dulot Ko at mga babala Ko."
 
 # 4884
 
@@ -19582,7 +19582,7 @@ Nagpasinungaling sila sa mga tanda Namin sa kabuuan ng mga ito kaya dumaklot Kam
 
 # 4889
 
-Ang mga tagatangging sumampalataya ninyo ba ay higit na mabuti kaysa sa mga iyon o mayroon kayong kawalang-kaugnayan sa [pagdurusang nasaad sa] mga kasulatan?
+Ang mga tagatangging sumampalataya ninyo ba ay higit na mabuti kaysa sa mga iyon o mayroon kayong kawalang-kaugnayan sa \[pagdurusang nasaad sa\] mga kasulatan?
 
 # 4890
 
@@ -19604,7 +19604,7 @@ Tunay na ang mga salarin ay nasa isang pagkaligaw at isang pagdurusa.[^*]
 
 # 4894
 
-Sa araw na kakaladkarin sila sa Apoy sa [pagkasubsob ng] mga mukha nila [ay sasabihin]: "Lumasap kayo ng saling ng [impiyernong] Init!"
+Sa araw na kakaladkarin sila sa Apoy sa \[pagkasubsob ng\] mga mukha nila \[ay sasabihin\]: "Lumasap kayo ng saling ng \[impiyernong\] Init!"
 
 # 4895
 
@@ -19700,7 +19700,7 @@ Kaya sa alin sa mga grasya ng Panginoon ninyong dalawa magpapasinungaling kayong
 
 # 4918
 
-[Siya] ang Panginoon ng dalawang silangan at ang Panginoon ng dalawang kanluran.
+\[Siya\] ang Panginoon ng dalawang silangan at ang Panginoon ng dalawang kanluran.
 
 # 4919
 
@@ -19728,7 +19728,7 @@ Kaya sa alin sa mga grasya ng Panginoon ninyong dalawa magpapasinungaling kayong
 
 # 4925
 
-Sa Kanya ang mga daong na mga nakataas [ang mga layag] sa dagat gaya ng mga bundok.
+Sa Kanya ang mga daong na mga nakataas \[ang mga layag\] sa dagat gaya ng mga bundok.
 
 # 4926
 
@@ -19772,7 +19772,7 @@ Kaya sa alin sa mga grasya ng Panginoon ninyong dalawa magpapasinungaling kayong
 
 # 4936
 
-May isusugo sa inyong dalawa na isang purong lagablab ng apoy at isang [lusaw na] tanso, kaya hindi kayong makapag-aadyaan.
+May isusugo sa inyong dalawa na isang purong lagablab ng apoy at isang \[lusaw na\] tanso, kaya hindi kayong makapag-aadyaan.
 
 # 4937
 
@@ -19824,7 +19824,7 @@ Kaya sa alin sa mga grasya ng Panginoon ninyong dalawa magpapasinungaling kayong
 
 # 4949
 
-[Ang mga ito ay] may maraming sanga.
+\[Ang mga ito ay\] may maraming sanga.
 
 # 4950
 
@@ -19888,7 +19888,7 @@ Kaya sa alin sa mga grasya ng Panginoon ninyong dalawa magpapasinungaling kayong
 
 # 4965
 
-Matingkad na luntian [ang dalawang ito].
+Matingkad na luntian \[ang dalawang ito\].
 
 # 4966
 
@@ -19984,11 +19984,11 @@ Ang mga kasamahan sa dakong kaliwa, ano ang mga kasamahan sa dakong kaliwa?
 
 # 4989
 
-Ang mga tagapanguna [sa kabutihan] ay ang mga tagapanguna [sa Paraiso].
+Ang mga tagapanguna \[sa kabutihan\] ay ang mga tagapanguna \[sa Paraiso\].
 
 # 4990
 
-Ang mga iyon ay ang mga inilapit [kay Allāh]
+Ang mga iyon ay ang mga inilapit \[kay Allāh\]
 
 # 4991
 
@@ -20012,7 +20012,7 @@ na mga nakasandal sa mga ito habang mga naghaharapan.
 
 # 4996
 
-May iikot sa kanila na mga batang lalaki na mga pinamalaging [bata],
+May iikot sa kanila na mga batang lalaki na mga pinamalaging \[bata\],
 
 # 4997
 
@@ -20020,7 +20020,7 @@ na may mga baso, mga pitsel, at isang kopa mula sa isang alak na dumadaloy,
 
 # 4998
 
-na hindi sila pasasakitan [sa ulo] dahil sa mga ito at hindi sila lalanguin,
+na hindi sila pasasakitan \[sa ulo\] dahil sa mga ito at hindi sila lalanguin,
 
 # 4999
 
@@ -20056,11 +20056,11 @@ Ang mga kasamahan sa dakong kanan, ano ang mga kasamahan sa dakong kanan?
 
 # 5007
 
-[Sila ay] nasa mga [punong] Sidrah na pinutulan [ng mga tinik]
+\[Sila ay\] nasa mga \[punong\] Sidrah na pinutulan \[ng mga tinik\]
 
 # 5008
 
-at mga [punong] saging na nagkapatung-patong [ang mga bunga],
+at mga \[punong\] saging na nagkapatung-patong \[ang mga bunga\],
 
 # 5009
 
@@ -20112,7 +20112,7 @@ Ang mga kasamahan sa dakong kaliwa, ano ang mga kasamahan sa dakong kaliwa?
 
 # 5021
 
-[Sila ay] nasa nakapapasong hangin at nakapapasong tubig,
+\[Sila ay\] nasa nakapapasong hangin at nakapapasong tubig,
 
 # 5022
 
@@ -20176,7 +20176,7 @@ Kami ay lumikha sa inyo kaya bakit kaya hindi kayo naniniwala?
 
 # 5037
 
-Kaya nagsaalang-alang ba kayo sa ipinupulandit ninyo [na punlay]?
+Kaya nagsaalang-alang ba kayo sa ipinupulandit ninyo \[na punlay\]?
 
 # 5038
 
@@ -20208,7 +20208,7 @@ Kung sakaling niloloob Namin ay talaga sanang ginawa Namin iyon na ipa saka kayo
 
 # 5045
 
-[na magsasabi]: "Tunay na kami ay talagang mga namultahan;
+\[na magsasabi\]: "Tunay na kami ay talagang mga namultahan;
 
 # 5046
 
@@ -20232,7 +20232,7 @@ Kaya nagsaalang-alang ba kayo sa apoy na pinaniningas ninyo?
 
 # 5051
 
-Kayo ba ay nagpapaluwal ng punong-kahoy [na nagpapaningas] nito o Kami ay ang Tagapagpaluwal?
+Kayo ba ay nagpapaluwal ng punong-kahoy \[na nagpapaningas\] nito o Kami ay ang Tagapagpaluwal?
 
 # 5052
 
@@ -20260,7 +20260,7 @@ na nasa isang Aklat na itinatago,
 
 # 5058
 
-na walang nakasasaling dito kundi ang mga [anghel na] dinalisay,
+na walang nakasasaling dito kundi ang mga \[anghel na\] dinalisay,
 
 # 5059
 
@@ -20272,11 +20272,11 @@ Kaya sa salaysay na ito ba kayo ay mga nagwawalang-bahala?
 
 # 5061
 
-Gumagawa kayo [sa pagpapasalamat] sa panustos ninyo na kayo ay nagpapasinungaling.
+Gumagawa kayo \[sa pagpapasalamat\] sa panustos ninyo na kayo ay nagpapasinungaling.
 
 # 5062
 
-Kaya bakit hindi [kayo magpabalik ng kaluluwa] kapag umabot ito sa lalamunan
+Kaya bakit hindi \[kayo magpabalik ng kaluluwa\] kapag umabot ito sa lalamunan
 
 # 5063
 
@@ -20296,11 +20296,11 @@ nagpapabalik kayo nito kung kayo ay mga tapat.
 
 # 5067
 
-Kaya tungkol naman sa kung siya ay kabilang sa mga inilapit [kay Allāh],
+Kaya tungkol naman sa kung siya ay kabilang sa mga inilapit \[kay Allāh\],
 
 # 5068
 
-[ukol sa kanya ay] kapahingahan, kaloob, at hardin ng kaginhawahan.
+\[ukol sa kanya ay\] kapahingahan, kaloob, at hardin ng kaginhawahan.
 
 # 5069
 
@@ -20308,7 +20308,7 @@ Tungkol naman sa kung siya ay kabilang sa mga kasamahan ng kanan,
 
 # 5070
 
-[sasabihin sa kanya]: "Kapayapaan ay ukol sa iyo na kabilang sa mga kasamahan ng kanan."
+\[sasabihin sa kanya\]: "Kapayapaan ay ukol sa iyo na kabilang sa mga kasamahan ng kanan."
 
 # 5071
 
@@ -20316,7 +20316,7 @@ Tungkol naman sa kung siya ay kabilang sa mga tagapagpasinungaling na naliligaw,
 
 # 5072
 
-[ukol sa kanya ay] isang pang-aliw mula sa nakapapasong tubig
+\[ukol sa kanya ay\] isang pang-aliw mula sa nakapapasong tubig
 
 # 5073
 
@@ -20368,7 +20368,7 @@ Siya ay ang nagbababa sa Lingkod Niya ng mga tandang malilinaw upang magpalabas 
 
 # 5085
 
-Ano ang mayroon sa inyo na hindi kayo gumugugol sa landas ni Allāh samantalang sa kay Allāh ang pagpapamana ng mga langit at lupa. Hindi nagkakapantay kabilang sa inyo ang sinumang gumugol bago pa ng pagsakop [sa Makkah] at nakipaglaban. Ang mga iyon ay higit na dakila sa antas kaysa sa mga gumugol nang matapos niyan at nakipaglaban. Sa bawat [isa] ay nangako si Allāh ng pinakamaganda. Si Allāh sa anumang ginagawa ninyo ay Mapagbatid.
+Ano ang mayroon sa inyo na hindi kayo gumugugol sa landas ni Allāh samantalang sa kay Allāh ang pagpapamana ng mga langit at lupa. Hindi nagkakapantay kabilang sa inyo ang sinumang gumugol bago pa ng pagsakop \[sa Makkah\] at nakipaglaban. Ang mga iyon ay higit na dakila sa antas kaysa sa mga gumugol nang matapos niyan at nakipaglaban. Sa bawat \[isa\] ay nangako si Allāh ng pinakamaganda. Si Allāh sa anumang ginagawa ninyo ay Mapagbatid.
 
 # 5086
 
@@ -20384,7 +20384,7 @@ Sa araw na magsasabi ang mga lalaking mapagpaimbabaw at ang mga babaing mapagpai
 
 # 5089
 
-Mananawagan sila [na mga mapagpaimbabaw] sa kanila [na mga mananampalataya]: "Hindi ba kami dati ay kasama sa inyo?" Magsasabi sila: "Oo; subalit kayo ay nagpasawi sa mga sarili ninyo, nag-abang, at nag-alinlangan. Luminlang sa inyo ang mga mithiin hanggang sa dumating ang pasya ni Allāh at luminlang sa inyo kay Allāh ang mapanlinlang."
+Mananawagan sila \[na mga mapagpaimbabaw\] sa kanila \[na mga mananampalataya\]: "Hindi ba kami dati ay kasama sa inyo?" Magsasabi sila: "Oo; subalit kayo ay nagpasawi sa mga sarili ninyo, nag-abang, at nag-alinlangan. Luminlang sa inyo ang mga mithiin hanggang sa dumating ang pasya ni Allāh at luminlang sa inyo kay Allāh ang mapanlinlang."
 
 # 5090
 
@@ -20392,7 +20392,7 @@ Kaya sa Araw na iyon ay hindi kukuha mula sa inyo ng isang pantubos ni mula sa m
 
 # 5091
 
-Hindi ba sumapit para sa mga sumampalataya na magpakumbaba ang mga puso nila para sa pag-alaala kay Allāh at [para sa] anumang bumaba mula sa katotohanan at [na] hindi sila maging gaya ng mga nabigyan ng Kasulatan bago pa niyan saka humaba sa mga ito ang yugto kaya tumigas ang mga puso ng mga ito? Marami sa mga ito ay mga suwail.
+Hindi ba sumapit para sa mga sumampalataya na magpakumbaba ang mga puso nila para sa pag-alaala kay Allāh at \[para sa\] anumang bumaba mula sa katotohanan at \[na\] hindi sila maging gaya ng mga nabigyan ng Kasulatan bago pa niyan saka humaba sa mga ito ang yugto kaya tumigas ang mga puso ng mga ito? Marami sa mga ito ay mga suwail.
 
 # 5092
 
@@ -20400,7 +20400,7 @@ Alamin ninyo na si Allāh ay nagbibigay-buhay sa lupa matapos ng pagkamatay nito
 
 # 5093
 
-Tunay na ang mga lalaking tagapagkawanggawa at ang mga babaing tagapagkawanggawa at nagpapautang kay Allāh ng isang magandang pautang ay magpapaibayo Siya para sa kanila [ng gantimpala]. Ukol sa kanila ay isang pabuyang marangal.
+Tunay na ang mga lalaking tagapagkawanggawa at ang mga babaing tagapagkawanggawa at nagpapautang kay Allāh ng isang magandang pautang ay magpapaibayo Siya para sa kanila \[ng gantimpala\]. Ukol sa kanila ay isang pabuyang marangal.
 
 # 5094
 
@@ -20412,7 +20412,7 @@ Alamin ninyo na ang buhay ng pangmundo ay isang laro, isang paglilibang, isang g
 
 # 5096
 
-Makipag-unahan kayo tungo sa isang kapatawaran mula sa Panginoon ninyo at isang paraiso na ang luwang nito ay gaya ng luwang [sa pagitan] ng langit at lupa, na inihanda para sa mga sumampalataya kay Allāh at sa mga sugo Niya. Iyon ay ang kabutihang-loob ni Allāh, na ibinibigay Niya sa sinumang niloloob Niya. Si Allāh ay may kabutihang-loob na sukdulan.
+Makipag-unahan kayo tungo sa isang kapatawaran mula sa Panginoon ninyo at isang paraiso na ang luwang nito ay gaya ng luwang \[sa pagitan\] ng langit at lupa, na inihanda para sa mga sumampalataya kay Allāh at sa mga sugo Niya. Iyon ay ang kabutihang-loob ni Allāh, na ibinibigay Niya sa sinumang niloloob Niya. Si Allāh ay may kabutihang-loob na sukdulan.
 
 # 5097
 
@@ -20420,11 +20420,11 @@ Walang tumamang anumang kasawian sa lupa ni sa mga sarili ninyo malibang nasa is
 
 # 5098
 
-[Iyon ay] upang hindi kayo magdalamhati sa anumang nakaalpas sa inyo at hindi kayo matuwa sa anumang ibinigay Niya sa inyo. Si Allāh ay hindi umiibig sa bawat palalong hambog.
+\[Iyon ay\] upang hindi kayo magdalamhati sa anumang nakaalpas sa inyo at hindi kayo matuwa sa anumang ibinigay Niya sa inyo. Si Allāh ay hindi umiibig sa bawat palalong hambog.
 
 # 5099
 
-Ang mga nagmamaramot at nag-uutos sa mga tao ng pagmamaramot [ay mga lugi]. Ang sinumang tatalikod, tunay na si Allāh ay ang Walang-pangangailangan, ang Kapuri-puri.
+Ang mga nagmamaramot at nag-uutos sa mga tao ng pagmamaramot \[ay mga lugi\]. Ang sinumang tatalikod, tunay na si Allāh ay ang Walang-pangangailangan, ang Kapuri-puri.
 
 # 5100
 
@@ -20444,23 +20444,23 @@ O mga sumampalataya, mangilag kayong magkasala kay Allāh at sumampalataya kayo 
 
 # 5104
 
-[Ito ay] upang makaalam ang mga May Kasulatan na hindi sila nakakakaya sa anuman mula sa kabutihang-loob ni Allāh at na ang kabutihang-loob ay nasa kamay ni Allāh; nagbibigay Siya nito sa sinumang niloloob Niya. Si Allāh ay may kabutihang-loob na sukdulan.
+\[Ito ay\] upang makaalam ang mga May Kasulatan na hindi sila nakakakaya sa anuman mula sa kabutihang-loob ni Allāh at na ang kabutihang-loob ay nasa kamay ni Allāh; nagbibigay Siya nito sa sinumang niloloob Niya. Si Allāh ay may kabutihang-loob na sukdulan.
 
 # 5105
 
-Narinig nga ni Allāh ang sabi ng [babaing] nakikipagtalo sa iyo hinggil sa asawa niya at dumaraing kay Allāh at si Allāh ay nakaririnig sa pagtatalakayan ninyong dalawa. Tunay na si Allāh ay Madinigin, Nakakikita.
+Narinig nga ni Allāh ang sabi ng \[babaing\] nakikipagtalo sa iyo hinggil sa asawa niya at dumaraing kay Allāh at si Allāh ay nakaririnig sa pagtatalakayan ninyong dalawa. Tunay na si Allāh ay Madinigin, Nakakikita.
 
 # 5106
 
-Ang mga nagsasagawa ng dhihār kabilang sa inyo sa mga maybahay nila [ay nagsinungaling]; ang mga ito ay hindi mga ina nila; walang iba ang mga ina kundi ang mga nagsilang sa kanila. Tunay na sila ay talagang nagsasabi ng isang nakasasama kabilang sa sinasabi at isang kabulaanan. Tunay na si Allāh ay talagang Mapagpaumanhin, Mapagpatawad.
+Ang mga nagsasagawa ng dhihār kabilang sa inyo sa mga maybahay nila \[ay nagsinungaling\]; ang mga ito ay hindi mga ina nila; walang iba ang mga ina kundi ang mga nagsilang sa kanila. Tunay na sila ay talagang nagsasabi ng isang nakasasama kabilang sa sinasabi at isang kabulaanan. Tunay na si Allāh ay talagang Mapagpaumanhin, Mapagpatawad.
 
 # 5107
 
-Ang mga nagsasagawa ng dhihār sa mga maybahay nila, pagkatapos bumabawi sila sa sinabi nila, ay pagpapalaya ng isang alipin [ang panakip-sala] bago pa silang dalawa magsalingan. Gayon kayo pinangangaralan. Si Allāh sa anumang ginagawa ninyo ay Mapagbatid.
+Ang mga nagsasagawa ng dhihār sa mga maybahay nila, pagkatapos bumabawi sila sa sinabi nila, ay pagpapalaya ng isang alipin \[ang panakip-sala\] bago pa silang dalawa magsalingan. Gayon kayo pinangangaralan. Si Allāh sa anumang ginagawa ninyo ay Mapagbatid.
 
 # 5108
 
-Ngunit ang sinumang hindi nakatagpo [ng mapalalaya ay kailangan sa kanya] ang pag-aayuno ng dalawang buwang nagkakasunuran bago pa silang dalawa magsalingan; ngunit ang sinumang hindi nakakaya [ay kailangan sa kanya] ang pagpapakain ng animnapung dukha. Iyon ay upang sumampalataya kayo kay Allāh at sa Sugo Niya. Iyon ay ang mga hangganan ni Allāh. Ukol sa mga tagatangging sumampalataya ay isang pagdurusang masakit.
+Ngunit ang sinumang hindi nakatagpo \[ng mapalalaya ay kailangan sa kanya\] ang pag-aayuno ng dalawang buwang nagkakasunuran bago pa silang dalawa magsalingan; ngunit ang sinumang hindi nakakaya \[ay kailangan sa kanya\] ang pagpapakain ng animnapung dukha. Iyon ay upang sumampalataya kayo kay Allāh at sa Sugo Niya. Iyon ay ang mga hangganan ni Allāh. Ukol sa mga tagatangging sumampalataya ay isang pagdurusang masakit.
 
 # 5109
 
@@ -20484,7 +20484,7 @@ O mga sumampalataya, kapag sarilinang nag-usapan kayo ay huwag kayong sarilinang
 
 # 5114
 
-Ang [masamang] sarilinang pag-uusap ay mula sa demonyo lamang upang malungkot ang mga sumampalataya at hindi siya makapipinsala sa kanila ng anuman malibang may pahintulot ni Allāh. Kay Allāh ay manalig ang mga mananampalataya.
+Ang \[masamang\] sarilinang pag-uusap ay mula sa demonyo lamang upang malungkot ang mga sumampalataya at hindi siya makapipinsala sa kanila ng anuman malibang may pahintulot ni Allāh. Kay Allāh ay manalig ang mga mananampalataya.
 
 # 5115
 
@@ -20516,7 +20516,7 @@ Hindi makapagpapakinabang para sa kanila ang mga yaman nila ni ang mga anak nila
 
 # 5122
 
-sa Araw na bubuhay sa kanila si Allāh sa kalahatan saka manunumpa sila sa Kanya kung paanong nanunumpa sila sa inyo. Nag-aakala sila na sila ay [nakabatay] sa isang bagay. Pansinin, tunay na sila ay ang mga sinungaling.
+sa Araw na bubuhay sa kanila si Allāh sa kalahatan saka manunumpa sila sa Kanya kung paanong nanunumpa sila sa inyo. Nag-aakala sila na sila ay \[nakabatay\] sa isang bagay. Pansinin, tunay na sila ay ang mga sinungaling.
 
 # 5123
 
@@ -20540,7 +20540,7 @@ Nagluwalhati kay Allāh ang anumang nasa mga langit at ang anumang nasa lupa. Si
 
 # 5128
 
-Siya ay ang nagpalisan sa mga tumangging sumampalataya kabilang sa mga May Kasulatan mula sa mga tahanan nila sa unang pagkakalap. Hindi kayo nagpalagay na sila ay lilisan. Nagpalagay sila na sila ay ipagtatanggol ng mga kuta nila laban kay Allāh, ngunit nagpapunta sa kanila si Allāh [ng pagdurusa] mula sa kung saan hindi nila inaasahan. Bumato Siya sa mga puso nila ng hilakbot. Sumisira sila ng mga bahay nila sa pamamagitan ng mga kamay nila at mga kamay ng mga mananampalataya. Kaya magsaalang-alang kayo, O mga may paningin.
+Siya ay ang nagpalisan sa mga tumangging sumampalataya kabilang sa mga May Kasulatan mula sa mga tahanan nila sa unang pagkakalap. Hindi kayo nagpalagay na sila ay lilisan. Nagpalagay sila na sila ay ipagtatanggol ng mga kuta nila laban kay Allāh, ngunit nagpapunta sa kanila si Allāh \[ng pagdurusa\] mula sa kung saan hindi nila inaasahan. Bumato Siya sa mga puso nila ng hilakbot. Sumisira sila ng mga bahay nila sa pamamagitan ng mga kamay nila at mga kamay ng mga mananampalataya. Kaya magsaalang-alang kayo, O mga may paningin.
 
 # 5129
 
@@ -20552,7 +20552,7 @@ Iyon ay dahil sa sila ay nakipaghidwaan kay Allāh at sa Sugo Niya. Ang sinumang
 
 # 5131
 
-Ang anumang pinutol ninyo na isang [punong] datiles o iniwan ninyo ito na nakatayo sa mga puno nito ay ayon sa pahintulot ni Allāh at upang magpahiya Siya sa mga suwail.
+Ang anumang pinutol ninyo na isang \[punong\] datiles o iniwan ninyo ito na nakatayo sa mga puno nito ay ayon sa pahintulot ni Allāh at upang magpahiya Siya sa mga suwail.
 
 # 5132
 
@@ -20560,15 +20560,15 @@ Ang anumang ipinakumpiska ni Allāh sa Sugo Niya mula sa kanila ay hindi kayo na
 
 # 5133
 
-Ang anumang ipinakumpiska ni Allāh sa Sugo Niya mula sa mga naninirahan sa mga pamayanan ay ukol kay Allāh, ukol sa Sugo, ukol sa may pagkakamag-anak [sa Sugo], mga ulila, mga dukha, at kinapos sa landas upang hindi ito maging isang yamang palipat-lipat sa pagitan ng mga mayaman kabilang sa inyo. Ang anumang ibinigay sa inyo ng Sugo ay kunin ninyo at ang anumang sinaway niya sa inyo ay tigilan ninyo. Mangilag kayong magkasala kay Allāh; tunay na si Allāh ay matindi ang parusa.
+Ang anumang ipinakumpiska ni Allāh sa Sugo Niya mula sa mga naninirahan sa mga pamayanan ay ukol kay Allāh, ukol sa Sugo, ukol sa may pagkakamag-anak \[sa Sugo\], mga ulila, mga dukha, at kinapos sa landas upang hindi ito maging isang yamang palipat-lipat sa pagitan ng mga mayaman kabilang sa inyo. Ang anumang ibinigay sa inyo ng Sugo ay kunin ninyo at ang anumang sinaway niya sa inyo ay tigilan ninyo. Mangilag kayong magkasala kay Allāh; tunay na si Allāh ay matindi ang parusa.
 
 # 5134
 
-[May ginugugol] para sa mga maralitang lumikas, na mga pinalisan mula sa mga tahanan nila at mga yaman nila, habang naghahangad ng isang kabutihang-loob mula kay Allāh at isang pagkalugod, at nag-aadya kay Allāh at sa Sugo Niya. Ang mga iyon ay ang mga tapat.
+\[May ginugugol\] para sa mga maralitang lumikas, na mga pinalisan mula sa mga tahanan nila at mga yaman nila, habang naghahangad ng isang kabutihang-loob mula kay Allāh at isang pagkalugod, at nag-aadya kay Allāh at sa Sugo Niya. Ang mga iyon ay ang mga tapat.
 
 # 5135
 
-Ang mga namalagi sa tahanan [sa Madīnah] at pananampalataya bago pa ng mga iyon ay umiibig sa sinumang lumikas kanila, hindi nakatatagpo sa mga dibdib nila ng isang pangangailangan sa anumang ibinigay sa mga iyon, at nagtatangi [sa mga iyon] higit sa mga sarili nila, kahit pa man sa kanila ay may kadahupan. Ang sinumang ipinagsasanggalang sa kasakiman ng sarili niya, ang mga iyon ay ang mga magtatagumpay.
+Ang mga namalagi sa tahanan \[sa Madīnah\] at pananampalataya bago pa ng mga iyon ay umiibig sa sinumang lumikas kanila, hindi nakatatagpo sa mga dibdib nila ng isang pangangailangan sa anumang ibinigay sa mga iyon, at nagtatangi \[sa mga iyon\] higit sa mga sarili nila, kahit pa man sa kanila ay may kadahupan. Ang sinumang ipinagsasanggalang sa kasakiman ng sarili niya, ang mga iyon ay ang mga magtatagumpay.
 
 # 5136
 
@@ -20580,7 +20580,7 @@ Hindi ka ba tumingin sa mga nagpaimbabaw habang nagsasabi sa mga kapatid nila na
 
 # 5138
 
-Talagang kung pinalisan ang mga ito ay hindi sila lilisan kasama sa mga ito. Talagang kung kinalaban ang mga ito ay hindi sila mag-aadya sa mga ito. Talagang kung nag-aadya man sila sa mga ito ay talaga ngang magbabaling sila ng mga likuran [nila], pagkatapos hindi sila maiaadya.
+Talagang kung pinalisan ang mga ito ay hindi sila lilisan kasama sa mga ito. Talagang kung kinalaban ang mga ito ay hindi sila mag-aadya sa mga ito. Talagang kung nag-aadya man sila sa mga ito ay talaga ngang magbabaling sila ng mga likuran \[nila\], pagkatapos hindi sila maiaadya.
 
 # 5139
 
@@ -20592,11 +20592,11 @@ Hindi sila nakikipaglaban sa inyo nang magkasama maliban sa mga pamayanang pinat
 
 # 5141
 
-[Sila ay] katulad ng mga bago pa nila kamakailan. Lumasap sila ng kasaklapan ng nauukol sa nila at ukol sa kanila ay isang pagdurusang masakit.
+\[Sila ay\] katulad ng mga bago pa nila kamakailan. Lumasap sila ng kasaklapan ng nauukol sa nila at ukol sa kanila ay isang pagdurusang masakit.
 
 # 5142
 
-[Sila ay] katulad ng demonyo noong nagsabi siya sa tao: "Tumanggi kang sumampalataya!" Ngunit noong tumangging sumampalataya ito ay nagsabi siya: "Tunay na ako ay walang-kaugnayan sa iyo; tunay na ako ay nangangamba kay Allāh, ang Panginoon ng mga nilalang."
+\[Sila ay\] katulad ng demonyo noong nagsabi siya sa tao: "Tumanggi kang sumampalataya!" Ngunit noong tumangging sumampalataya ito ay nagsabi siya: "Tunay na ako ay walang-kaugnayan sa iyo; tunay na ako ay nangangamba kay Allāh, ang Panginoon ng mga nilalang."
 
 # 5143
 
@@ -20632,7 +20632,7 @@ Siya ay si Allāh, ang Tagalikha, ang Tagalalang, ang Tagapag-anyo; sa Kanya ang
 
 # 5151
 
-O mga sumampalataya, huwag kayong gumawa sa kaaway Ko at kaaway ninyo bilang mga katangkilik na nag-uukol kayo sa kanila ng pagmamahal samantalang tumanggi na silang sumampalataya sa dumating sa inyo na katotohanan, habang nagpapalisan sila sa Sugo at sa inyo dahil sumampalataya kayo kay Allāh na Panginoon ninyo. [Iyon ay] kung kayo ay hahayo sa isang pakikibaka sa landas Ko at sa paghahangad sa kaluguran Ko. Nagtatapat kayo sa kanila ng pagmamahal samantalang Ako ay nakaaalam sa anumang ikinukubli ninyo at anumang inihahayag ninyo. Ang sinumang gumagawa niyon kabilang sa inyo ay naligaw nga siya palayo sa katumpakan ng landas.
+O mga sumampalataya, huwag kayong gumawa sa kaaway Ko at kaaway ninyo bilang mga katangkilik na nag-uukol kayo sa kanila ng pagmamahal samantalang tumanggi na silang sumampalataya sa dumating sa inyo na katotohanan, habang nagpapalisan sila sa Sugo at sa inyo dahil sumampalataya kayo kay Allāh na Panginoon ninyo. \[Iyon ay\] kung kayo ay hahayo sa isang pakikibaka sa landas Ko at sa paghahangad sa kaluguran Ko. Nagtatapat kayo sa kanila ng pagmamahal samantalang Ako ay nakaaalam sa anumang ikinukubli ninyo at anumang inihahayag ninyo. Ang sinumang gumagawa niyon kabilang sa inyo ay naligaw nga siya palayo sa katumpakan ng landas.
 
 # 5152
 
@@ -20672,7 +20672,7 @@ O mga sumampalataya, kapag dumating sa inyo ang mga babaing mananampalataya bila
 
 # 5161
 
-Kung may nakaalpas sa inyo na anuman mula sa mga maybahay ninyo patungo sa mga tagatangging sumampalataya at nakasamsam kayo, magbigay kayo sa mga inalisan ng mga maybahay nila ng tulad ng ginugol nila [na bigay-kaya]. Mangilag kayong magkasala kay Allāh, na kayo ay sa Kanya mga mananampalataya.
+Kung may nakaalpas sa inyo na anuman mula sa mga maybahay ninyo patungo sa mga tagatangging sumampalataya at nakasamsam kayo, magbigay kayo sa mga inalisan ng mga maybahay nila ng tulad ng ginugol nila \[na bigay-kaya\]. Mangilag kayong magkasala kay Allāh, na kayo ay sa Kanya mga mananampalataya.
 
 # 5162
 
@@ -20680,7 +20680,7 @@ O Propeta, kapag dumating sa iyo ang mga babaing mananampalataya, na nangangako 
 
 # 5163
 
-O mga sumampalataya, huwag kayong tumangkilik sa mga tao na nagalit si Allāh sa kanila, na nawalan na sila ng pag-asa sa Kabilang-buhay kung paanong nawalan ng pag-asa ang mga tagatangging sumampalataya sa [pagbabalik ng] mga kasamahan ng mga libingan.
+O mga sumampalataya, huwag kayong tumangkilik sa mga tao na nagalit si Allāh sa kanila, na nawalan na sila ng pag-asa sa Kabilang-buhay kung paanong nawalan ng pag-asa ang mga tagatangging sumampalataya sa \[pagbabalik ng\] mga kasamahan ng mga libingan.
 
 # 5164
 
@@ -20700,11 +20700,11 @@ Tunay na si Allāh ay umiibig sa mga nakikipaglaban sa landas Niya sa isang hana
 
 # 5168
 
-[Banggitin] noong nagsabi si Moises sa mga kalipi niya: "O mga kalipi ko, bakit kayo nananakit sa akin samantalang nalalaman na ninyo na ako ay Sugo ni Allāh sa inyo?" Kaya noong lumiko sila ay nagpaliko si Allāh sa mga puso nila. Si Allāh ay hindi nagpapatnubay sa mga taong suwail.
+\[Banggitin\] noong nagsabi si Moises sa mga kalipi niya: "O mga kalipi ko, bakit kayo nananakit sa akin samantalang nalalaman na ninyo na ako ay Sugo ni Allāh sa inyo?" Kaya noong lumiko sila ay nagpaliko si Allāh sa mga puso nila. Si Allāh ay hindi nagpapatnubay sa mga taong suwail.
 
 # 5169
 
-[Banggitin] noong nagsabi si Jesus na anak ni Maria: "O mga anak ni Israel, tunay na ako ay sugo ni Allāh sa inyo bilang tagapagpatotoo para sa nauna sa akin na Torah at bilang tagapagbalita ng nakagagalak hinggil sa isang Sugo na darating matapos ko na, na ang pangalan niya ay Aḥmad." Ngunit noong naghatid siya sa kanila ng mga malinaw na patunay ay nagsabi sila: "Ito ay isang panggagaway na malinaw."
+\[Banggitin\] noong nagsabi si Jesus na anak ni Maria: "O mga anak ni Israel, tunay na ako ay sugo ni Allāh sa inyo bilang tagapagpatotoo para sa nauna sa akin na Torah at bilang tagapagbalita ng nakagagalak hinggil sa isang Sugo na darating matapos ko na, na ang pangalan niya ay Aḥmad." Ngunit noong naghatid siya sa kanila ng mga malinaw na patunay ay nagsabi sila: "Ito ay isang panggagaway na malinaw."
 
 # 5170
 
@@ -20848,7 +20848,7 @@ Hindi ba sumapit sa inyo ang ulat hinggil sa mga tumangging sumampalataya bago p
 
 # 5205
 
-Iyon ay dahil sa noon ay nagdadala sa kanila ang mga sugo nila ng mga malinaw na patunay ngunit nagsabi sila: "Mga tao ba ang papatnubay sa amin?" Kaya tumanggi silang sumampalataya, tumalikod sila, at nagwalang-halaga si Allāh [sa kanila]. Si Allāh ay Walang-pangangailangan, Kapuri-puri.
+Iyon ay dahil sa noon ay nagdadala sa kanila ang mga sugo nila ng mga malinaw na patunay ngunit nagsabi sila: "Mga tao ba ang papatnubay sa amin?" Kaya tumanggi silang sumampalataya, tumalikod sila, at nagwalang-halaga si Allāh \[sa kanila\]. Si Allāh ay Walang-pangangailangan, Kapuri-puri.
 
 # 5206
 
@@ -20900,11 +20900,11 @@ ang Nakaaalam sa Lingid at Hayag, ang Makapangyarihan, ang Marunong.
 
 # 5218
 
-O Propeta, kapag nagdiborsiyo kayo ng mga maybahay ay magdiborsiyo kayo sa kanila sa para sa [simula ng] panahon ng paghihintay nila, magbilang kayo ng panahon ng paghihintay, at mangilag kayong magkasala kay Allāh na Panginoon ninyo. Huwag kayong magpalisan sa kanila sa mga bahay [ng mga asawa] nila at hindi sila lilisan maliban na makagawa sila ng isang mahalay na naglilinaw. Iyon ay ang mga hangganan ni Allāh. Ang sinumang lalabag sa mga hangganan ni Allāh ay lumabag nga siya sa katarungan sa sarili niya. Hindi ka nakababatid marahil si Allāh ay magpangyari matapos niyon ng isang bagay.
+O Propeta, kapag nagdiborsiyo kayo ng mga maybahay ay magdiborsiyo kayo sa kanila sa para sa \[simula ng\] panahon ng paghihintay nila, magbilang kayo ng panahon ng paghihintay, at mangilag kayong magkasala kay Allāh na Panginoon ninyo. Huwag kayong magpalisan sa kanila sa mga bahay \[ng mga asawa\] nila at hindi sila lilisan maliban na makagawa sila ng isang mahalay na naglilinaw. Iyon ay ang mga hangganan ni Allāh. Ang sinumang lalabag sa mga hangganan ni Allāh ay lumabag nga siya sa katarungan sa sarili niya. Hindi ka nakababatid marahil si Allāh ay magpangyari matapos niyon ng isang bagay.
 
 # 5219
 
-Kaya kapag umabot sila sa taning nila ay humawak kayo sa kanila ayon sa isang nakabubuti o makipaghiwalay kayo sa kanila ayon sa isang nakabubuti. Magpasaksi kayo sa dalawang may katarungan kabilang sa inyo at magpanatili kayo ng pagsasaksi kay Allāh. Iyon ay ipinangangaral sa sinumang naging sumasampalataya kay Allāh at sa Huling Araw. Ang sinumang nangingilag magkasala kay Allāh ay gagawa Siya para rito ng isang malalabasan [sa kagipitan],
+Kaya kapag umabot sila sa taning nila ay humawak kayo sa kanila ayon sa isang nakabubuti o makipaghiwalay kayo sa kanila ayon sa isang nakabubuti. Magpasaksi kayo sa dalawang may katarungan kabilang sa inyo at magpanatili kayo ng pagsasaksi kay Allāh. Iyon ay ipinangangaral sa sinumang naging sumasampalataya kay Allāh at sa Huling Araw. Ang sinumang nangingilag magkasala kay Allāh ay gagawa Siya para rito ng isang malalabasan \[sa kagipitan\],
 
 # 5220
 
@@ -20912,7 +20912,7 @@ at magtutustos Siya rito mula sa kung saan hindi nito inaasahan. Ang sinumang na
 
 # 5221
 
-Ang mga nawalan ng regla kabilang sa mga maybahay ninyo, kung nag-alinlangan kayo, ang panahon ng paghihintay nila ay tatlong buwan, at [gayundin] ang mga hindi na niregla. Ang mga may dinadalang-tao, ang taning [ng paghihintay] nila ay na magsilang sila ng dinadalang-tao nila. Ang sinumang nangingilag magkasala kay Allāh, gagawa Siya para rito mula sa lagay nito ng isang kaluwagan.
+Ang mga nawalan ng regla kabilang sa mga maybahay ninyo, kung nag-alinlangan kayo, ang panahon ng paghihintay nila ay tatlong buwan, at \[gayundin\] ang mga hindi na niregla. Ang mga may dinadalang-tao, ang taning \[ng paghihintay\] nila ay na magsilang sila ng dinadalang-tao nila. Ang sinumang nangingilag magkasala kay Allāh, gagawa Siya para rito mula sa lagay nito ng isang kaluwagan.
 
 # 5222
 
@@ -20920,7 +20920,7 @@ Iyon ay utos ni Allāh; nagpababa Siya nito sa inyo. Ang sinumang nangingilag ma
 
 # 5223
 
-Magpatira kayo sa kanila kung saan kayo nakatira ayon sa kaya ninyo at huwag kayong makipinsala sa kanila upang manggipit kayo sa kanila. Kung sila ay mga may dinadalang-tao, gumugol kayo sa kanila hanggang sa magsilang sila ng dinadalang-tao nila; saka kung nagpasuso sila [ng mga anak ninyo] para sa inyo, magbigay kayo sa kanila ng mga upa nila at mag-utusan kayo sa pagitan ninyo ayon sa isang nakabubuti. Kung nagkapahirapan kayo ay magpapasuso para rito ang ibang babae.
+Magpatira kayo sa kanila kung saan kayo nakatira ayon sa kaya ninyo at huwag kayong makipinsala sa kanila upang manggipit kayo sa kanila. Kung sila ay mga may dinadalang-tao, gumugol kayo sa kanila hanggang sa magsilang sila ng dinadalang-tao nila; saka kung nagpasuso sila \[ng mga anak ninyo\] para sa inyo, magbigay kayo sa kanila ng mga upa nila at mag-utusan kayo sa pagitan ninyo ayon sa isang nakabubuti. Kung nagkapahirapan kayo ay magpapasuso para rito ang ibang babae.
 
 # 5224
 
@@ -20956,11 +20956,11 @@ Nagsatungkulin nga si Allāh para sa inyo ng pagkalas sa mga panunumpa ninyo. Si
 
 # 5232
 
-[Banggitin] noong nagtapat ang Propeta sa isa sa mga maybahay niya ng isang napag-usapan, kaya noong nagsabalita ito hinggil doon at naglantad naman niyon si Allāh sa kanya, nagpabatid siya ng isang bahagi nito at umayaw sa ibang bahagi. Kaya noong nagsabalita siya rito hinggil doon ay nagsabi ito: "Sino ang nagbalita sa iyo nito?" Nagsabi siya: "Nagsabalita sa akin ang Maalam, ang Mapagbatid."
+\[Banggitin\] noong nagtapat ang Propeta sa isa sa mga maybahay niya ng isang napag-usapan, kaya noong nagsabalita ito hinggil doon at naglantad naman niyon si Allāh sa kanya, nagpabatid siya ng isang bahagi nito at umayaw sa ibang bahagi. Kaya noong nagsabalita siya rito hinggil doon ay nagsabi ito: "Sino ang nagbalita sa iyo nito?" Nagsabi siya: "Nagsabalita sa akin ang Maalam, ang Mapagbatid."
 
 # 5233
 
-[Nagindapat] kung magbabalik-loob kayong dalawa kay Allāh sapagkat lumihis nga ang mga puso ninyong dalawa. Kung magtataguyuran kayong dalawa laban sa kanya, tunay na si Allāh ay Mapagtangkilik sa kanya at si Gabriel at ang maayos sa mga mananampalataya. Ang mga anghel, matapos niyon, ay mapagtaguyod.
+\[Nagindapat\] kung magbabalik-loob kayong dalawa kay Allāh sapagkat lumihis nga ang mga puso ninyong dalawa. Kung magtataguyuran kayong dalawa laban sa kanya, tunay na si Allāh ay Mapagtangkilik sa kanya at si Gabriel at ang maayos sa mga mananampalataya. Ang mga anghel, matapos niyon, ay mapagtaguyod.
 
 # 5234
 
@@ -20972,7 +20972,7 @@ O mga sumampalataya, magsanggalang kayo sa mga sarili ninyo at mga mag-anak niny
 
 # 5236
 
-O mga tumangging sumampalataya, huwag kayong magdahi-dahilan sa Araw [na ito]; gagantihan lamang kayo sa dati ninyong ginagawa.
+O mga tumangging sumampalataya, huwag kayong magdahi-dahilan sa Araw \[na ito\]; gagantihan lamang kayo sa dati ninyong ginagawa.
 
 # 5237
 
@@ -20992,7 +20992,7 @@ Naglahad si Allāh ng isang paghahalimbawa, para sa mga sumampalataya, sa maybah
 
 # 5241
 
-[Naglahad ng isang paghahalimbawa] kay Maria na anak ni `Imrān, na nangalaga sa puri niya, kaya umihip Kami doon [sa bulsa ng baro] sa pamamagitan ng Espiritu Namin. Nagpatotoo siya sa mga salita ng Panginoon niya at mga kasulatan Nito at siya noon ay kabilang sa mga masunurin.
+\[Naglahad ng isang paghahalimbawa\] kay Maria na anak ni \`Imrān, na nangalaga sa puri niya, kaya umihip Kami doon \[sa bulsa ng baro\] sa pamamagitan ng Espiritu Namin. Nagpatotoo siya sa mga salita ng Panginoon niya at mga kasulatan Nito at siya noon ay kabilang sa mga masunurin.
 
 # 5242
 
@@ -21052,7 +21052,7 @@ Hindi ba nakaaalam ang lumikha samantalang Siya ay ang Mapagtalos, ang Mapagbati
 
 # 5256
 
-Siya ay ang gumawa para sa inyo ng lupa na [maging] maamo, kaya maglakad kayo sa mga dako nito at kumain kayo mula sa panustos Niya. Tungo sa Kanya ang pagkabuhay muli.
+Siya ay ang gumawa para sa inyo ng lupa na \[maging\] maamo, kaya maglakad kayo sa mga dako nito at kumain kayo mula sa panustos Niya. Tungo sa Kanya ang pagkabuhay muli.
 
 # 5257
 
@@ -21068,7 +21068,7 @@ Talaga ngang nagpasinungaling ang mga bago pa nila, kaya papaano naging ang pagt
 
 # 5260
 
-Hindi ba sila nakakita sa mga ibon sa ibabaw nila habang mga nakabuka at nagtitiklop [ng mga pakpak]? Walang pumipigil sa mga iyon kundi ang Napakamaawain. Tunay na Siya sa bawat bagay ay Nakakikita.
+Hindi ba sila nakakita sa mga ibon sa ibabaw nila habang mga nakabuka at nagtitiklop \[ng mga pakpak\]? Walang pumipigil sa mga iyon kundi ang Napakamaawain. Tunay na Siya sa bawat bagay ay Nakakikita.
 
 # 5261
 
@@ -21184,11 +21184,11 @@ Tunay na Kami ay sumubok sa kanila kung paanong sumubok Kami sa mga may-ari ng h
 
 # 5289
 
-Hindi sila humihiling ng pahintulot [kay Allāh].
+Hindi sila humihiling ng pahintulot \[kay Allāh\].
 
 # 5290
 
-Kaya may umikot doon na isang umiikot [na apoy] mula sa Panginoon mo habang sila ay mga natutulog.
+Kaya may umikot doon na isang umiikot \[na apoy\] mula sa Panginoon mo habang sila ay mga natutulog.
 
 # 5291
 
@@ -21200,7 +21200,7 @@ Kaya nagtawagan sila kinaumagahan,
 
 # 5293
 
-na [mga nagsasabi]: "Magpakaaga kayo sa taniman ninyo kung kayo ay mga mamimitas."
+na \[mga nagsasabi\]: "Magpakaaga kayo sa taniman ninyo kung kayo ay mga mamimitas."
 
 # 5294
 
@@ -21208,11 +21208,11 @@ Kaya humayo sila habang sila ay nagbubulungan,
 
 # 5295
 
-na [nagsasabi]: "Wala ngang papasok ngayong araw sa inyo na isang dukha."
+na \[nagsasabi\]: "Wala ngang papasok ngayong araw sa inyo na isang dukha."
 
 # 5296
 
-Nagpakaaga sila sa layon habang [nag-aakalang] mga makakakaya.
+Nagpakaaga sila sa layon habang \[nag-aakalang\] mga makakakaya.
 
 # 5297
 
@@ -21224,7 +21224,7 @@ bagkus tayo ay mga pinagkaitan!"
 
 # 5299
 
-Nagsabi ang pinakamaigi sa kanila: "Hindi ba nagsabi ako sa inyo na bakit kasi hindi kayo nagluluwalhati [kay Allāh]?"
+Nagsabi ang pinakamaigi sa kanila: "Hindi ba nagsabi ako sa inyo na bakit kasi hindi kayo nagluluwalhati \[kay Allāh\]?"
 
 # 5300
 
@@ -21300,7 +21300,7 @@ O nanghihingi ka ba sa kanila ng isang pabuya kaya sila dahil sa isang pagkakamu
 
 # 5318
 
-O taglay ba nila ang [kaalaman sa] Lingid kaya sila ay nagsusulat [nito]?
+O taglay ba nila ang \[kaalaman sa\] Lingid kaya sila ay nagsusulat \[nito\]?
 
 # 5319
 
@@ -21336,15 +21336,15 @@ Ano ang nagpabatid sa iyo kung ano ang Magkakatotoo?
 
 # 5327
 
-Nagpasinungaling ang [liping] Thamūd at ang [liping] `Ād sa Tagadagok.
+Nagpasinungaling ang \[liping\] Thamūd at ang \[liping\] \`Ād sa Tagadagok.
 
 # 5328
 
-Kaya tungkol naman sa [liping] Thamūd, ipinahamak sila sa pamamagitan ng labis-labis [na sigaw].
+Kaya tungkol naman sa \[liping\] Thamūd, ipinahamak sila sa pamamagitan ng labis-labis \[na sigaw\].
 
 # 5329
 
-Tungkol naman sa [liping] `Ād, ipinahamak sila sa pamamagitan ng isang hanging malamig na nangangalit.
+Tungkol naman sa \[liping\] \`Ād, ipinahamak sila sa pamamagitan ng isang hanging malamig na nangangalit.
 
 # 5330
 
@@ -21356,7 +21356,7 @@ Kaya nakakikita ka ba para sa kanila ng anumang natitira?
 
 # 5332
 
-Naghatid si Paraon, ang bago niya, at ang [mga naninirahan sa] mga pinagtauban ng mali
+Naghatid si Paraon, ang bago niya, at ang \[mga naninirahan sa\] mga pinagtauban ng mali
 
 # 5333
 
@@ -21364,7 +21364,7 @@ sapagkat sumuway sila sa sugo ng Panginoon nila, kaya dumaklot Siya sa kanila sa
 
 # 5334
 
-Tunay na Kami, noong umapaw ang tubig, ay nagdala sa inyo sa nagpapatianod [na daong]
+Tunay na Kami, noong umapaw ang tubig, ay nagdala sa inyo sa nagpapatianod \[na daong\]
 
 # 5335
 
@@ -21416,7 +21416,7 @@ na ang mga napipitas doon ay naaabot.
 
 # 5347
 
-[Sasabihan sa kanila]: "Kumain kayo at uminom kayo nang kaiga-igaya dahil sa inuna ninyo sa mga araw na nagdaan."
+\[Sasabihan sa kanila\]: "Kumain kayo at uminom kayo nang kaiga-igaya dahil sa inuna ninyo sa mga araw na nagdaan."
 
 # 5348
 
@@ -21428,7 +21428,7 @@ at hindi nakabatid sa kung ano ang pagtutuos sa akin!
 
 # 5350
 
-O kung sana [ang kamatayang] ito ay naging ang tagapagpawakas!
+O kung sana \[ang kamatayang\] ito ay naging ang tagapagpawakas!
 
 # 5351
 
@@ -21440,7 +21440,7 @@ Napahamak sa akin ang kapamahalaan ko."
 
 # 5353
 
-[Sasabihin]: "Kunin ninyo siya at ikulyar ninyo siya.
+\[Sasabihin\]: "Kunin ninyo siya at ikulyar ninyo siya.
 
 # 5354
 
@@ -21480,7 +21480,7 @@ at anumang hindi ninyo nakikita.
 
 # 5363
 
-Tunay na [ang Qur’ān na] ito ay talagang sinabi ng isang Sugong marangal.
+Tunay na \[ang Qur’ān na\] ito ay talagang sinabi ng isang Sugong marangal.
 
 # 5364
 
@@ -21488,11 +21488,11 @@ Ito ay hindi sinabi ng isang manunula. Kaunti ang sinasampalatayanan ninyo!
 
 # 5365
 
-Hindi [ito] sinabi ng isang manghuhula. Kaunti ang isinasaalaala ninyo!
+Hindi \[ito\] sinabi ng isang manghuhula. Kaunti ang isinasaalaala ninyo!
 
 # 5366
 
-Isang pagbababa [ito] mula sa Panginoon ng mga nilalang.
+Isang pagbababa \[ito\] mula sa Panginoon ng mga nilalang.
 
 # 5367
 
@@ -21512,7 +21512,7 @@ Kaya walang kabilang sa inyo na isa man na para sa kanya ay mga tagahadlang.
 
 # 5371
 
-Tunay na [ang Qur’ān na] ito ay talagang isang pagpapaalaala para sa mga tagapangilag magkasala.
+Tunay na \[ang Qur’ān na\] ito ay talagang isang pagpapaalaala para sa mga tagapangilag magkasala.
 
 # 5372
 
@@ -21524,7 +21524,7 @@ Tunay na ito ay talagang isang panghihinayang sa mga tagatangging sumampalataya.
 
 # 5374
 
-Tunay na [ang Qur’ān na] ito ay talagang ang katotohanan ng katiyakan.
+Tunay na \[ang Qur’ān na\] ito ay talagang ang katotohanan ng katiyakan.
 
 # 5375
 
@@ -21552,7 +21552,7 @@ Kaya magtiis ka nang pagtitiis na marilag.
 
 # 5381
 
-Tunay na sila ay nagtuturing na [ang pagdurusang] ito ay malayo
+Tunay na sila ay nagtuturing na \[ang pagdurusang\] ito ay malayo
 
 # 5382
 
@@ -21596,11 +21596,11 @@ na isang palatuklap ng anit,
 
 # 5392
 
-na nag-aanyaya sa sinumang tumalikod [sa katotohanan] at nagpakalayu-layo,
+na nag-aanyaya sa sinumang tumalikod \[sa katotohanan\] at nagpakalayu-layo,
 
 # 5393
 
-at umipon [ng yaman] at nag-imbak nito.
+at umipon \[ng yaman\] at nag-imbak nito.
 
 # 5394
 
@@ -21624,7 +21624,7 @@ na sila, sa pagdarasal nila, ay mga palagian,
 
 # 5399
 
-at na [sila], sa mga yaman nila, ay may tungkuling nalalaman
+at na \[sila\], sa mga yaman nila, ay may tungkuling nalalaman
 
 # 5400
 
@@ -21648,7 +21648,7 @@ at na sila, para sa mga ari nila, ay mga tagapag-ingat,
 
 # 5405
 
-maliban sa mga maybahay nila o sa [babaing] minay-ari ng mga kanang kamay nila sapagkat tunay sila ay hindi mga masisisi
+maliban sa mga maybahay nila o sa \[babaing\] minay-ari ng mga kanang kamay nila sapagkat tunay sila ay hindi mga masisisi
 
 # 5406
 
@@ -21696,7 +21696,7 @@ na magpalit Kami ng higit na mabuti kaysa sa kanila, at Kami ay hindi mauunahan.
 
 # 5417
 
-Kaya hayaan mo silang sumuong [sa kabulaanan] at maglaro hanggang sa makipagkita sila sa araw nilang pinangangakuan sila,
+Kaya hayaan mo silang sumuong \[sa kabulaanan\] at maglaro hanggang sa makipagkita sila sa araw nilang pinangangakuan sila,
 
 # 5418
 
@@ -21708,7 +21708,7 @@ Nagpapakumbaba ang mga paningin nila, may lumulukob sa kanila na isang kaabahan!
 
 # 5420
 
-Tunay na Kami ay nagsugo kay Noe sa mga kababayan niya, na [nagsasabi]: "Magbabala ka sa mga kababayan mo bago pa may pumunta sa kanila na isang pagdurusang masakit."
+Tunay na Kami ay nagsugo kay Noe sa mga kababayan niya, na \[nagsasabi\]: "Magbabala ka sa mga kababayan mo bago pa may pumunta sa kanila na isang pagdurusang masakit."
 
 # 5421
 
@@ -21748,7 +21748,7 @@ Kaya nagsabi ako: ‘Humingi kayo ng tawad sa Panginoon ninyo – tunay na Siya 
 
 # 5430
 
-magpapadala Siya ng [ulan ng] langit sa inyo na nananagana,
+magpapadala Siya ng \[ulan ng\] langit sa inyo na nananagana,
 
 # 5431
 
@@ -21788,7 +21788,7 @@ upang tumahak kayo mula rito sa mga landas na maluwang.'"
 
 # 5440
 
-Nagsabi si Noe: "Panginoon ko, tunay na sila ay sumuway sa akin at sumunod sa [taong] walang naidagdag sa kanya ang yaman niya at ang anak niya kundi isang pagkalugi.
+Nagsabi si Noe: "Panginoon ko, tunay na sila ay sumuway sa akin at sumunod sa \[taong\] walang naidagdag sa kanya ang yaman niya at ang anak niya kundi isang pagkalugi.
 
 # 5441
 
@@ -21796,7 +21796,7 @@ Nanlansi sila ng isang panlalansing pagkalaki-laki.
 
 # 5442
 
-Nagsabi sila: ‘Huwag nga kayong mag-iwan sa mga diyos ninyo at huwag nga kayong mag-iwan kay Wadd, ni kay Suwā`, ni kay Yaghūth, ni kay Ya`ūq, ni kay Nasr.’
+Nagsabi sila: ‘Huwag nga kayong mag-iwan sa mga diyos ninyo at huwag nga kayong mag-iwan kay Wadd, ni kay Suwā\`, ni kay Yaghūth, ni kay Ya\`ūq, ni kay Nasr.’
 
 # 5443
 
@@ -21832,7 +21832,7 @@ Na Siya – pagkataas-taas ang kabunyian ng Panginoon namin – ay hindi nagkaro
 
 # 5451
 
-Na laging nagsasabi ang hunghang namin laban kay Allāh ng isang pagkalayu-layo [sa katotohanan].
+Na laging nagsasabi ang hunghang namin laban kay Allāh ng isang pagkalayu-layo \[sa katotohanan\].
 
 # 5452
 
@@ -21908,7 +21908,7 @@ Sabihin mo: "Tunay na ako ay hindi kakalingain laban kay Allāh ng isa man at hi
 
 # 5470
 
-ngunit [makapagdudulot ako] ng isang pagpapaabot mula kay Allāh at mga pasugo Niya." Ang mga sumusuway kay Allāh at sa Sugo Niya ay tunay na ukol sa kanila ang Apoy ng Impiyerno bilang mga mananatili roon magpakailanman.
+ngunit \[makapagdudulot ako\] ng isang pagpapaabot mula kay Allāh at mga pasugo Niya." Ang mga sumusuway kay Allāh at sa Sugo Niya ay tunay na ukol sa kanila ang Apoy ng Impiyerno bilang mga mananatili roon magpakailanman.
 
 # 5471
 
@@ -21916,15 +21916,15 @@ Hanggang sa kapag nakita nila ang ipinangako sa kanila ay makaaalam sila kung si
 
 # 5472
 
-Sabihin mo: "Hindi ako nakababatid kung malapit ba ang ipinangako sa inyo o maglalagay para rito ang Panginoon ko ng isang [mahabang] yugto."
+Sabihin mo: "Hindi ako nakababatid kung malapit ba ang ipinangako sa inyo o maglalagay para rito ang Panginoon ko ng isang \[mahabang\] yugto."
 
 # 5473
 
-[Siya] ang Nakaaalam sa Lingid, saka hindi Siya naghahayag sa Lingid Niya sa isa man,
+\[Siya\] ang Nakaaalam sa Lingid, saka hindi Siya naghahayag sa Lingid Niya sa isa man,
 
 # 5474
 
-maliban sa sinumang kinalugdan Niya na isang sugo sapagkat tunay na Siya ay nagpapatahak mula sa harapan nito at mula sa likuran nito ng [mga anghel na nakatambang
+maliban sa sinumang kinalugdan Niya na isang sugo sapagkat tunay na Siya ay nagpapatahak mula sa harapan nito at mula sa likuran nito ng \[mga anghel na nakatambang
 
 # 5475
 
@@ -21936,7 +21936,7 @@ O nakabalot,
 
 # 5477
 
-bumangon ka [upang magdasal] sa gabi, maliban sa kaunting [bahagi nito]:
+bumangon ka \[upang magdasal\] sa gabi, maliban sa kaunting \[bahagi nito\]:
 
 # 5478
 
@@ -21944,7 +21944,7 @@ sa kalahati nito, o magbawas ka mula rito ng kaunti,
 
 # 5479
 
-o magdagdag ka rito at bumigkas ka ng Qur’ān sa isang [tamang] pagbigkas.
+o magdagdag ka rito at bumigkas ka ng Qur’ān sa isang \[tamang\] pagbigkas.
 
 # 5480
 
@@ -21952,7 +21952,7 @@ Tunay na Kami ay magpupukol sa iyo ng isang sinasabing mabigat.
 
 # 5481
 
-Tunay na ang pagbangon [sa pagsamba] sa gabi ay higit na matindi sa pagtalab at higit na matuwid sa pagsabi.
+Tunay na ang pagbangon \[sa pagsamba\] sa gabi ay higit na matindi sa pagtalab at higit na matuwid sa pagsabi.
 
 # 5482
 
@@ -21960,7 +21960,7 @@ Tunay na ukol sa iyo sa maghapon ay isang magagawang mahaba.
 
 # 5483
 
-Umalala ka sa ngalan ng Panginoon mo at mag-ukol ka [ng sarili sa pagsamba] sa Kanya sa isang [tapat na] pag-uukol.
+Umalala ka sa ngalan ng Panginoon mo at mag-ukol ka \[ng sarili sa pagsamba\] sa Kanya sa isang \[tapat na\] pag-uukol.
 
 # 5484
 
@@ -22000,7 +22000,7 @@ Kaya papaano kayong mangingilag kung tumanggi kayong sumampalataya sa isang araw
 
 # 5493
 
-Ang langit ay mabibitak sa [Araw na] iyon. Laging ang pangako Niya ay magagawa.
+Ang langit ay mabibitak sa \[Araw na\] iyon. Laging ang pangako Niya ay magagawa.
 
 # 5494
 
@@ -22008,7 +22008,7 @@ Tunay na ito ay isang pagpapaalaala, kaya ang sinumang lumuob ay gumawa siya tun
 
 # 5495
 
-Tunay na ang Panginoon mo ay nakaaalam na ikaw ay tumatayo [sa pagdarasal] sa pinakamalapit sa dalawang-katlo ng gabi o kalahati nito o isang katlo nito, at [gayon din] ang isang pangkatin kabilang sa mga kasama sa iyo. Si Allāh ay nagtatakda sa [sukat ng] gabi at maghapon. Nakaalam Siya na hindi kayo makakakaya niyon saka tumanggap Siya sa inyo ng pagbabalik-loob kaya bumigkas kayo ng anumang naging madali mula sa Qur’ān. Nakaalam Siya na kabilang sa inyo ay magiging mga may-sakit, may mga iba na maglalakbay sa lupain habang naghahanap ng kabutihang-loob ni Allāh, at may mga iba pa na makikipaglaban sa landas ni Allāh. Kaya bumigkas kayo ng anumang naging madali mula rito. Magpanatili kayo ng pagdarasal, magbigay kayo ng zakāh, at magpautang kayo kay Allāh ng isang pautang na maganda. Ang anumang ipanauuna ninyo para sa mga sarili ninyo na kabutihan ay makatatagpo kayo rito, sa ganang kay Allāh, ng isang higit na mabuti at isang higit na mabigat sa pabuya. Humingi kayo ng tawad kay Allāh; tunay na si Allāh ay Mapagpatawad, Maawain.
+Tunay na ang Panginoon mo ay nakaaalam na ikaw ay tumatayo \[sa pagdarasal\] sa pinakamalapit sa dalawang-katlo ng gabi o kalahati nito o isang katlo nito, at \[gayon din\] ang isang pangkatin kabilang sa mga kasama sa iyo. Si Allāh ay nagtatakda sa \[sukat ng\] gabi at maghapon. Nakaalam Siya na hindi kayo makakakaya niyon saka tumanggap Siya sa inyo ng pagbabalik-loob kaya bumigkas kayo ng anumang naging madali mula sa Qur’ān. Nakaalam Siya na kabilang sa inyo ay magiging mga may-sakit, may mga iba na maglalakbay sa lupain habang naghahanap ng kabutihang-loob ni Allāh, at may mga iba pa na makikipaglaban sa landas ni Allāh. Kaya bumigkas kayo ng anumang naging madali mula rito. Magpanatili kayo ng pagdarasal, magbigay kayo ng zakāh, at magpautang kayo kay Allāh ng isang pautang na maganda. Ang anumang ipanauuna ninyo para sa mga sarili ninyo na kabutihan ay makatatagpo kayo rito, sa ganang kay Allāh, ng isang higit na mabuti at isang higit na mabigat sa pabuya. Humingi kayo ng tawad kay Allāh; tunay na si Allāh ay Mapagpatawad, Maawain.
 
 # 5496
 
@@ -22148,7 +22148,7 @@ sumpa man sa madaling-araw kapag nagliwanag ito;
 
 # 5530
 
-tunay na [ang Apoy na] ito ay isa sa mga napakalalaki
+tunay na \[ang Apoy na\] ito ay isa sa mga napakalalaki
 
 # 5531
 
@@ -22188,7 +22188,7 @@ hindi kami dati nagpapakain sa dukha,
 
 # 5540
 
-kami noon ay sumusuong [sa kabulaanan] kasama sa mga sumusuong [sa kabulaanan],
+kami noon ay sumusuong \[sa kabulaanan\] kasama sa mga sumusuong \[sa kabulaanan\],
 
 # 5541
 
@@ -22196,7 +22196,7 @@ at kami dati ay nagpapabula sa Araw ng Paggantimpala,
 
 # 5542
 
-hanggang sa pumunta sa amin ang katiyakan [ng kamatayan]."
+hanggang sa pumunta sa amin ang katiyakan \[ng kamatayan\]."
 
 # 5543
 
@@ -22224,7 +22224,7 @@ Aba’y hindi! Bagkus hindi sila nangangamba sa Kabilang-buhay.
 
 # 5549
 
-Aba’y hindi! Tunay na [ang Qur’ān na] ito ay isang pagpapaalaala.
+Aba’y hindi! Tunay na \[ang Qur’ān na\] ito ay isang pagpapaalaala.
 
 # 5550
 
@@ -22336,7 +22336,7 @@ Nakatitiyak sila na gagawa sa kanila ng isang makababali ng likod.
 
 # 5577
 
-Aba’y hindi! Kapag umabot [ang kaluluwang] ito sa balagat,
+Aba’y hindi! Kapag umabot \[ang kaluluwang\] ito sa balagat,
 
 # 5578
 
@@ -22384,7 +22384,7 @@ Hindi ba siya dati ay isang patak mula sa punlay na ibinuhos?
 
 # 5589
 
-Pagkatapos siya ay naging isang malalinta, saka lumikha [si Allāh] saka bumuo [sa kanya].
+Pagkatapos siya ay naging isang malalinta, saka lumikha \[si Allāh\] saka bumuo \[sa kanya\].
 
 # 5590
 
@@ -22428,7 +22428,7 @@ Nagpapakain sila ng pagkain, sa kabila ng pagkaibig dito, sa dukha, ulila, at bi
 
 # 5600
 
-[Sinasabi nila sa mga sarili]: "Nagpapakain lamang kami sa inyo para sa [ikalulugod ng] mukha ni Allāh; hindi kami nagnanais mula sa inyo ng isang ganti ni isang pasasalamat.
+\[Sinasabi nila sa mga sarili\]: "Nagpapakain lamang kami sa inyo para sa \[ikalulugod ng\] mukha ni Allāh; hindi kami nagnanais mula sa inyo ng isang ganti ni isang pasasalamat.
 
 # 5601
 
@@ -22444,7 +22444,7 @@ Gaganti Siya sa kanila, dahil nagtiis sila, ng hardin at sutla.
 
 # 5604
 
-Mga nakasandal doon sa mga supa, hindi sila makakikita roon ng [init ng] araw ni ng pagkalamig-lamig.
+Mga nakasandal doon sa mga supa, hindi sila makakikita roon ng \[init ng\] araw ni ng pagkalamig-lamig.
 
 # 5605
 
@@ -22460,15 +22460,15 @@ mga kristal na yari sa pilak, na sumukat sila ng mga ito sa isang pagsukat.
 
 # 5608
 
-Paiinumin sila roon ng isang kopa [ng alak] na ang panghalo nito ay luya
+Paiinumin sila roon ng isang kopa \[ng alak\] na ang panghalo nito ay luya
 
 # 5609
 
-[mula sa] isang bukal doon na pinangangalanang Salsabīl.
+\[mula sa\] isang bukal doon na pinangangalanang Salsabīl.
 
 # 5610
 
-May lilibot sa kanila na mga batang lalaki na mga pinamalaging [bata]. Kapag nakita mo sila ay mag-aakala kang sila ay mga mutyang isinabog.
+May lilibot sa kanila na mga batang lalaki na mga pinamalaging \[bata\]. Kapag nakita mo sila ay mag-aakala kang sila ay mga mutyang isinabog.
 
 # 5611
 
@@ -22480,11 +22480,11 @@ May nakasuot sa kanila na mga kasuutan na manipis na sutlang luntian at makapal 
 
 # 5613
 
-[Sasabihin]: "Tunay na ito ay naging para sa inyo bilang ganti at ang pagpupunyagi ninyo ay naging isang kinikilala."
+\[Sasabihin\]: "Tunay na ito ay naging para sa inyo bilang ganti at ang pagpupunyagi ninyo ay naging isang kinikilala."
 
 # 5614
 
-Tunay na Kami ay nagbaba sa iyo ng Qur’ān sa isang [unti-unting] pagbababa.
+Tunay na Kami ay nagbaba sa iyo ng Qur’ān sa isang \[unti-unting\] pagbababa.
 
 # 5615
 
@@ -22504,7 +22504,7 @@ Tunay na ang mga ito ay umiibig sa Panandaliang-buhay at nag-iiwan sa likuran ni
 
 # 5619
 
-Kami ay lumikha sa kanila at nagpapatatag sa pagkalalang sa kanila. Kapag niloob Namin ay magpapalit Kami [sa kanila] ng mga tulad nila sa isang pagpapalit.
+Kami ay lumikha sa kanila at nagpapatatag sa pagkalalang sa kanila. Kapag niloob Namin ay magpapalit Kami \[sa kanila\] ng mga tulad nila sa isang pagpapalit.
 
 # 5620
 
@@ -22520,23 +22520,23 @@ Magpapapasok Siya ng sinumang niloloob Niya sa awa niya samantalang sa mga tagal
 
 # 5623
 
-Sumpa man sa mga [hanging] isinusugo nang sunud-sunod,
+Sumpa man sa mga \[hanging\] isinusugo nang sunud-sunod,
 
 # 5624
 
-saka sa mga [hanging] bumubugso sa isang pagbugso;
+saka sa mga \[hanging\] bumubugso sa isang pagbugso;
 
 # 5625
 
-sumpa man sa mga [anghel na] nagkakalat [ng ulan] sa isang pagkakalat,
+sumpa man sa mga \[anghel na\] nagkakalat \[ng ulan\] sa isang pagkakalat,
 
 # 5626
 
-saka sa mga [anghel na] nagbubukod sa isang pagbubukod,
+saka sa mga \[anghel na\] nagbubukod sa isang pagbubukod,
 
 # 5627
 
-saka sa mga [anghel na] naghahatid ng isang paalaala
+saka sa mga \[anghel na\] naghahatid ng isang paalaala
 
 # 5628
 
@@ -22632,7 +22632,7 @@ Kapighatian sa Araw na iyon ay ukol sa mga tagapagpasinungaling!
 
 # 5651
 
-[Sasabihin]: "Humayo kayo tungo sa [pagdurusang] dati ninyong pinasisinungalingan.
+\[Sasabihin\]: "Humayo kayo tungo sa \[pagdurusang\] dati ninyong pinasisinungalingan.
 
 # 5652
 
@@ -22688,7 +22688,7 @@ at mga prutas mula sa anumang ninanasa nila.
 
 # 5665
 
-[Sasabihin]: "Kumain kayo at uminom kayo nang kaiga-igaya dahil sa dati ninyong ginagawa."
+\[Sasabihin\]: "Kumain kayo at uminom kayo nang kaiga-igaya dahil sa dati ninyong ginagawa."
 
 # 5666
 
@@ -22700,7 +22700,7 @@ Kapighatian sa Araw na iyon ay ukol sa mga tagapagpasinungaling!
 
 # 5668
 
-[Sasabihin]: "Kumain kayo at magtamasa kayo nang kaunti; tunay na kayo ay mga salarin."
+\[Sasabihin\]: "Kumain kayo at magtamasa kayo nang kaunti; tunay na kayo ay mga salarin."
 
 # 5669
 
@@ -22828,7 +22828,7 @@ Tunay na sila dati ay hindi nag-aasam ng isang pagtutuos.
 
 # 5700
 
-Nagpasinungaling sila sa mga tanda Namin nang isang [tahasang] pagpapasinungaling.
+Nagpasinungaling sila sa mga tanda Namin nang isang \[tahasang\] pagpapasinungaling.
 
 # 5701
 
@@ -22864,7 +22864,7 @@ bilang ganti mula sa Panginoon mo, bilang bigay na sulit
 
 # 5709
 
-[mula sa] Panginoon ng mga langit at lupa at anumang nasa pagitan ng mga ito, ang Napakamaawain; hindi sila nakapangyayari sa Kanya sa isang pakikipag-usap.
+\[mula sa\] Panginoon ng mga langit at lupa at anumang nasa pagitan ng mga ito, ang Napakamaawain; hindi sila nakapangyayari sa Kanya sa isang pakikipag-usap.
 
 # 5710
 
@@ -22880,23 +22880,23 @@ Tunay na Kami ay nagbabala sa inyo ng isang pagdurusang malapit sa Araw na titin
 
 # 5713
 
-Sumpa man sa mga [anghel na] nag-aalis [ng kaluluwa] sa isang paghatak,
+Sumpa man sa mga \[anghel na\] nag-aalis \[ng kaluluwa\] sa isang paghatak,
 
 # 5714
 
-sumpa man sa mga [anghel na] humahablot sa isang paghunos,
+sumpa man sa mga \[anghel na\] humahablot sa isang paghunos,
 
 # 5715
 
-sumpa man sa mga [anghel na] lumalangoy sa isang paglangoy [na pababa-pataas],
+sumpa man sa mga \[anghel na\] lumalangoy sa isang paglangoy \[na pababa-pataas\],
 
 # 5716
 
-saka sa mga [anghel na] nag-uunahan sa isang pag-uunahan [sa pagtalima],
+saka sa mga \[anghel na\] nag-uunahan sa isang pag-uunahan \[sa pagtalima\],
 
 # 5717
 
-saka sa mga [anghel na] nagpapatupad sa isang utos,
+saka sa mga \[anghel na\] nagpapatupad sa isang utos,
 
 # 5718
 
@@ -22952,7 +22952,7 @@ Saka magsabi ka: ‘Ibig mo kaya na magpakalinis ka
 
 # 5731
 
-at magpatnubay ako sa iyo tungo sa Panginoon mo para matakot ka [sa Kanya]?"
+at magpatnubay ako sa iyo tungo sa Panginoon mo para matakot ka \[sa Kanya\]?"
 
 # 5732
 
@@ -22964,11 +22964,11 @@ ngunit nagpasinungaling ito at sumuway ito.
 
 # 5734
 
-Pagkatapos tumalikod ito na nagpupunyagi [laban kay Moises].
+Pagkatapos tumalikod ito na nagpupunyagi \[laban kay Moises\].
 
 # 5735
 
-Kaya kumalap ito [ng mga kawal] saka nanawagan
+Kaya kumalap ito \[ng mga kawal\] saka nanawagan
 
 # 5736
 
@@ -22980,7 +22980,7 @@ Kaya nagpataw rito si Allāh ng parusang panghalimbawa sa Kabilang-buhay at Unan
 
 # 5738
 
-Tunay na sa gayon ay talagang may maisasaalang-alang para sa sinumang natatakot [kay Allāh].
+Tunay na sa gayon ay talagang may maisasaalang-alang para sa sinumang natatakot \[kay Allāh\].
 
 # 5739
 
@@ -23038,7 +23038,7 @@ tunay na ang Impiyerno ay ang kanlungan;
 
 # 5752
 
-at ang sinumang nangamba sa pagtayo sa [harap ng] Panginoon niya at sumaway sa sarili laban sa pithaya,
+at ang sinumang nangamba sa pagtayo sa \[harap ng\] Panginoon niya at sumaway sa sarili laban sa pithaya,
 
 # 5753
 
@@ -23074,7 +23074,7 @@ dahil dumating sa kanya ang bulag.
 
 # 5761
 
-Ano ang magpapabatid sa iyo na sa gayon siya ay magpapakalinis [sa kasalanan]
+Ano ang magpapabatid sa iyo na sa gayon siya ay magpapakalinis \[sa kasalanan\]
 
 # 5762
 
@@ -23090,7 +23090,7 @@ ikaw ay sa kanya nag-aasikaso.
 
 # 5765
 
-Hindi [pananagutan] sa iyo na hindi siya magpakalinis [sa kasalanan].
+Hindi \[pananagutan\] sa iyo na hindi siya magpakalinis \[sa kasalanan\].
 
 # 5766
 
@@ -23098,7 +23098,7 @@ Tungkol naman sa dumating sa iyo na nagpupunyagi
 
 # 5767
 
-habang siya ay natatakot [kay Allāh],
+habang siya ay natatakot \[kay Allāh\],
 
 # 5768
 
@@ -23106,15 +23106,15 @@ ikaw ay sa kanya nagwawalang-bahala.
 
 # 5769
 
-Aba’y hindi! Tunay na ang mga [talatang] ito ay isang pagpapaalaala,
+Aba’y hindi! Tunay na ang mga \[talatang\] ito ay isang pagpapaalaala,
 
 # 5770
 
-kaya ang sinumang lumuob ay mag-aalaala siya nitong [Qur’ān].
+kaya ang sinumang lumuob ay mag-aalaala siya nitong \[Qur’ān\].
 
 # 5771
 
-[Ito ay] nasa mga pahinang pinarangalan,
+\[Ito ay\] nasa mga pahinang pinarangalan,
 
 # 5772
 
@@ -23122,7 +23122,7 @@ na inangat na dinalisay,
 
 # 5773
 
-na nasa mga kamay ng mga [anghel na] tagatala,
+na nasa mga kamay ng mga \[anghel na\] tagatala,
 
 # 5774
 
@@ -23166,7 +23166,7 @@ na Kami ay nagbuhos ng tubig sa isang pagbubuhos,
 
 # 5784
 
-pagkatapos bumitak Kami sa lupa sa isang pagpapabitak [para sa halaman],
+pagkatapos bumitak Kami sa lupa sa isang pagpapabitak \[para sa halaman\],
 
 # 5785
 
@@ -23262,7 +23262,7 @@ kapag ang mga kaluluwa ay ipinagpares,
 
 # 5808
 
-kapag ang [batang] babaing inilibing nang buhay ay tatanungin
+kapag ang \[batang\] babaing inilibing nang buhay ay tatanungin
 
 # 5809
 
@@ -23306,7 +23306,7 @@ at sa madaling-araw kapag huminga ito;
 
 # 5819
 
-tunay na [ang Qur’ān na] ito ay talagang sinabi sa isang sugong marangal,
+tunay na \[ang Qur’ān na\] ito ay talagang sinabi sa isang sugong marangal,
 
 # 5820
 
@@ -23326,11 +23326,11 @@ Talaga ngang nakakita siya rito sa abot-tanaw na malinaw.
 
 # 5824
 
-Siya, [sa pagpapaabot] sa Lingid, ay hindi isang sakim.
+Siya, \[sa pagpapaabot\] sa Lingid, ay hindi isang sakim.
 
 # 5825
 
-[Ang Qur’ān na] ito ay hindi sinabi ng isang demonyong kasumpa-sumpa.
+\[Ang Qur’ān na\] ito ay hindi sinabi ng isang demonyong kasumpa-sumpa.
 
 # 5826
 
@@ -23374,7 +23374,7 @@ O tao, ano ang nakadaya sa iyo hinggil sa Panginoon mo, ang Mapagbigay?
 
 # 5836
 
-[Siya] ang lumikha sa iyo, saka humubog sa iyo, saka nagpaangkop sa iyo.
+\[Siya\] ang lumikha sa iyo, saka humubog sa iyo, saka nagpaangkop sa iyo.
 
 # 5837
 
@@ -23422,7 +23422,7 @@ Pagkatapos ano ang nagpabatid sa iyo kung ano ang Araw ng Paggantimpala?
 
 # 5848
 
-[Iyon ay] sa Araw na hindi makapagdudulot ang isang kaluluwa sa isang kaluluwa ng anuman at ang pag-uutos sa Araw na iyon ay ukol kay Allāh.
+\[Iyon ay\] sa Araw na hindi makapagdudulot ang isang kaluluwa sa isang kaluluwa ng anuman at ang pag-uutos sa Araw na iyon ay ukol kay Allāh.
 
 # 5849
 
@@ -23446,7 +23446,7 @@ para sa isang araw na sukdulan,
 
 # 5854
 
-sa araw na tatayo ang mga tao sa [harap ng] Panginoon ng mga nilalang?
+sa araw na tatayo ang mga tao sa \[harap ng\] Panginoon ng mga nilalang?
 
 # 5855
 
@@ -23478,11 +23478,11 @@ Kapag binibigkas sa kanya ang mga tanda Namin ay nagsasabi siya: "Mga alamat ng 
 
 # 5862
 
-Aba’y hindi! Bagkus, bumalot sa mga puso nila ang [mga pagsuway na] dati nilang nakakamit.
+Aba’y hindi! Bagkus, bumalot sa mga puso nila ang \[mga pagsuway na\] dati nilang nakakamit.
 
 # 5863
 
-Aba’y hindi! Tunay na sila, sa [pagkakita sa] Panginoon nila sa araw na iyon, ay talagang mga lalambungan.
+Aba’y hindi! Tunay na sila, sa \[pagkakita sa\] Panginoon nila sa araw na iyon, ay talagang mga lalambungan.
 
 # 5864
 
@@ -23494,11 +23494,11 @@ Pagkatapos sasabihin sa kanila: "Ito ay ang dati ninyong pinasisinungalingan."
 
 # 5866
 
-Aba’y hindi. Tunay na ang talaan ng mga mabuting-loob ay talagang nasa `Illīyūn.
+Aba’y hindi. Tunay na ang talaan ng mga mabuting-loob ay talagang nasa \`Illīyūn.
 
 # 5867
 
-Ano ang nagpabatid sa iyo kung ano ang `Illīyūn?
+Ano ang nagpabatid sa iyo kung ano ang \`Illīyūn?
 
 # 5868
 
@@ -23506,7 +23506,7 @@ Isang talaan na sinulatan.
 
 # 5869
 
-Sasaksi rito ang mga [anghel na] inilapit.
+Sasaksi rito ang mga \[anghel na\] inilapit.
 
 # 5870
 
@@ -23590,7 +23590,7 @@ at duminig ito sa Panginoon nito at nagindapat ito,
 
 # 5890
 
-O tao, tunay na ikaw ay nagpapakapagod tungo sa Panginoon mo sa isang pagpapakapagod kaya makikipagkita [ka] sa Kanya.
+O tao, tunay na ikaw ay nagpapakapagod tungo sa Panginoon mo sa isang pagpapakapagod kaya makikipagkita \[ka\] sa Kanya.
 
 # 5891
 
@@ -23622,7 +23622,7 @@ Tunay na siya dati sa piling ng mga kapwa niya ay pinagagalak.
 
 # 5898
 
-Tunay na siya ay nagpalagay na hindi siya manunumbalik [kay Allāh].
+Tunay na siya ay nagpalagay na hindi siya manunumbalik \[kay Allāh\].
 
 # 5899
 
@@ -23686,7 +23686,7 @@ isinumpa ang mga kasamahan ng bambang
 
 # 5914
 
-na [may] apoy na may panggatong,
+na \[may\] apoy na may panggatong,
 
 # 5915
 
@@ -23738,7 +23738,7 @@ Nakarating kaya sa iyo ang sanaysay ng mga kawal,
 
 # 5927
 
-[na mga kawal] ni Paraon at ng Thamūd?
+\[na mga kawal\] ni Paraon at ng Thamūd?
 
 # 5928
 
@@ -23766,7 +23766,7 @@ Ano ang nagpabatid sa iyo kung ano ang tagapunta sa gabi?
 
 # 5934
 
-[Ito] ang bituing tumatagos.
+\[Ito\] ang bituing tumatagos.
 
 # 5935
 
@@ -23806,7 +23806,7 @@ sumpa man sa lupa na may bitak;
 
 # 5944
 
-tunay na [ang Qur’ān na] ito ay talagang isang sinabing pambukod,
+tunay na \[ang Qur’ān na\] ito ay talagang isang sinabing pambukod,
 
 # 5945
 
@@ -23846,7 +23846,7 @@ saka gumawa Siya rito na yagit na nangingitim.
 
 # 5954
 
-Magpapabigkas Kami sa iyo [ng Qur’ān] kaya hindi ka makalilimot,
+Magpapabigkas Kami sa iyo \[ng Qur’ān\] kaya hindi ka makalilimot,
 
 # 5955
 
@@ -23862,7 +23862,7 @@ Kaya magpaalaala ka kung mapakikinabangan ang paalaala.
 
 # 5958
 
-Magsasaalaala ang sinumang natatakot [kay Allāh]
+Magsasaalaala ang sinumang natatakot \[kay Allāh\]
 
 # 5959
 
@@ -23878,7 +23878,7 @@ Pagkatapos hindi siya mamamatay roon at hindi mabubuhay.
 
 # 5962
 
-Nagtagumpay nga ang sinumang nagpakalinis [sa kasalanan]
+Nagtagumpay nga ang sinumang nagpakalinis \[sa kasalanan\]
 
 # 5963
 
@@ -24018,7 +24018,7 @@ sumpa man sa tukol at gansal,
 
 # 5997
 
-sumpa man sa gabi kapag naglalakbay ito; [talagang gagantihan nga kayo.]
+sumpa man sa gabi kapag naglalakbay ito; \[talagang gagantihan nga kayo.\]
 
 # 5998
 
@@ -24026,11 +24026,11 @@ Sa gayon kaya ay may panunumpa para sa may pang-unawa?
 
 # 5999
 
-Hindi mo ba napag-alaman kung papaano ang ginawa ng Panginoon mo sa [liping] `Ād,
+Hindi mo ba napag-alaman kung papaano ang ginawa ng Panginoon mo sa \[liping\] \`Ād,
 
 # 6000
 
-na [lipi ni] Irām na may mga haligi,
+na \[lipi ni\] Irām na may mga haligi,
 
 # 6001
 
@@ -24038,7 +24038,7 @@ na hindi nilikha ang tulad ng mga iyon sa bayan,
 
 # 6002
 
-at sa [liping] Thamūd na pumutol ng mga malaking bato sa lambak;
+at sa \[liping\] Thamūd na pumutol ng mga malaking bato sa lambak;
 
 # 6003
 
@@ -24046,7 +24046,7 @@ at kay Paraon na may mga tulos?
 
 # 6004
 
-[Silang lahat ay] ang mga nagmalabis sa bayan
+\[Silang lahat ay\] ang mga nagmalabis sa bayan
 
 # 6005
 
@@ -24098,7 +24098,7 @@ at ihahatid sa Araw na iyon ang Impiyerno. Sa Araw na iyon ay magsasaalaala ang 
 
 # 6017
 
-Magsasabi siya: "O kung sana ako ay nagpauna [ng kabutihan] para sa buhay ko."
+Magsasabi siya: "O kung sana ako ay nagpauna \[ng kabutihan\] para sa buhay ko."
 
 # 6018
 
@@ -24174,7 +24174,7 @@ Ano ang nagpabatid sa iyo kung ano ang matarik na daan?
 
 # 6036
 
-[Ito ay] isang pagpapalaya sa isang alipin,
+\[Ito ay\] isang pagpapalaya sa isang alipin,
 
 # 6037
 
@@ -24246,7 +24246,7 @@ at nabigo nga ang sinumang nagdumi nito.
 
 # 6054
 
-Nagpasinungaling ang [liping] Thamūd dahil sa pagmamalabis nito
+Nagpasinungaling ang \[liping\] Thamūd dahil sa pagmamalabis nito
 
 # 6055
 
@@ -24254,11 +24254,11 @@ nang sumugod ang pinakamalumbay nito.
 
 # 6056
 
-Kaya nagsabi sa kanila ang sugo ni Allāh: "[Magpaubaya] sa dumalagang kamelyo ni Allāh at pag-inom nito."
+Kaya nagsabi sa kanila ang sugo ni Allāh: "\[Magpaubaya\] sa dumalagang kamelyo ni Allāh at pag-inom nito."
 
 # 6057
 
-Ngunit nagpasinungaling sila sa kanya saka kinatay nila ito kaya nagsaklob [ng parusa] sa kanila ang Panginoon nila dahil sa pagkakasala nila saka nagpantay-pantay Siya rito [sa parusa].
+Ngunit nagpasinungaling sila sa kanya saka kinatay nila ito kaya nagsaklob \[ng parusa\] sa kanila ang Panginoon nila dahil sa pagkakasala nila saka nagpantay-pantay Siya rito \[sa parusa\].
 
 # 6058
 
@@ -24306,7 +24306,7 @@ magpapadali Kami sa kanya para sa pinakamahirap.
 
 # 6069
 
-Ano ang maidudulot para sa kanya ng yaman niya kapag nabulid siya [sa Impiyerno]?
+Ano ang maidudulot para sa kanya ng yaman niya kapag nabulid siya \[sa Impiyerno\]?
 
 # 6070
 
@@ -24334,7 +24334,7 @@ Paiiwasin doon ang pinakatagapangilag magkasala,
 
 # 6076
 
-na nagbibigay ng yaman niya habang nagpapakalinis [sa kasalanan]
+na nagbibigay ng yaman niya habang nagpapakalinis \[sa kasalanan\]
 
 # 6077
 
@@ -24342,7 +24342,7 @@ at hindi para sa isang mayroon siyang anumang biyayang gagantihan,
 
 # 6078
 
-bagkus sa paghahangad [ng ikalulugod] ng Mukha ng Panginoon niya, ang Pinakamataas.
+bagkus sa paghahangad \[ng ikalulugod\] ng Mukha ng Panginoon niya, ang Pinakamataas.
 
 # 6079
 
@@ -24350,7 +24350,7 @@ Talagang malulugod siya.
 
 # 6080
 
-Sumpa man sa kaliwanagan [ng umaga],
+Sumpa man sa kaliwanagan \[ng umaga\],
 
 # 6081
 
@@ -24418,7 +24418,7 @@ Tunay na kasama sa hirap ay ginhawa.
 
 # 6097
 
-Kaya kapag nakatapos ka [sa gawain] ay magpakapagal ka [sa pagsamba],
+Kaya kapag nakatapos ka \[sa gawain\] ay magpakapagal ka \[sa pagsamba\],
 
 # 6098
 
@@ -24528,11 +24528,11 @@ Kaya tumawag siya sa kapulungan niya.
 
 # 6124
 
-Tatawag Kami sa mga bantay [ng Impiyerno].
+Tatawag Kami sa mga bantay \[ng Impiyerno\].
 
 # 6125
 
-Aba’y hindi! Huwag kang tumalima sa kanya, magpatirapa ka, at lumapit ka [kay Allāh].
+Aba’y hindi! Huwag kang tumalima sa kanya, magpatirapa ka, at lumapit ka \[kay Allāh\].
 
 # 6126
 
@@ -24620,11 +24620,11 @@ at ang sinumang gumawa ng kasimbigat ng isang katiting na kasamaan ay makikita n
 
 # 6147
 
-Sumpa man sa mga [kabayong] tumatakbo habang humihingal,
+Sumpa man sa mga \[kabayong\] tumatakbo habang humihingal,
 
 # 6148
 
-saka sa mga nagpapaningas habang nakikiskis [ang mga kuko],
+saka sa mga nagpapaningas habang nakikiskis \[ang mga kuko\],
 
 # 6149
 
@@ -24676,7 +24676,7 @@ Ano ang nagpabatid sa iyo kung ano ang Tagakalampag?
 
 # 6161
 
-Sa Araw na [iyon], ang mga tao ay magiging para bang mga gamugamong pinakalat
+Sa Araw na \[iyon\], ang mga tao ay magiging para bang mga gamugamong pinakalat
 
 # 6162
 
@@ -24684,7 +24684,7 @@ at ang mga bundok ay magiging para bang mga lanang nahimulmol.
 
 # 6163
 
-Kaya tungkol naman sa sinumang bumigat [sa kabutihan] ang mga timbangan niya,
+Kaya tungkol naman sa sinumang bumigat \[sa kabutihan\] ang mga timbangan niya,
 
 # 6164
 
@@ -24692,7 +24692,7 @@ siya ay nasa isang pamumuhay na nakalulugod.
 
 # 6165
 
-Tungkol naman sa sinumang gumaan [sa kabutihan] ang mga timbangan niya,
+Tungkol naman sa sinumang gumaan \[sa kabutihan\] ang mga timbangan niya,
 
 # 6166
 
@@ -24704,7 +24704,7 @@ Ano ang nagpabatid sa iyo kung ano iyon?
 
 # 6168
 
-[Iyon ay] isang Apoy na napakainit.
+\[Iyon ay\] isang Apoy na napakainit.
 
 # 6169
 
@@ -24772,7 +24772,7 @@ Ano ang nagpabatid sa iyo kung ano ang Mapangwasak?
 
 # 6185
 
-[Ito ay] ang Apoy ni Allāh, na ginagatungan,
+\[Ito ay\] ang Apoy ni Allāh, na ginagatungan,
 
 # 6186
 
@@ -24792,7 +24792,7 @@ Hindi mo ba napag-alaman kung papaano ang ginawa ng Panginoon mo sa mga kasamaha
 
 # 6190
 
-Hindi ba Siya gumawa sa pakana nila [na mauwi] sa isang pagkawala?
+Hindi ba Siya gumawa sa pakana nila \[na mauwi\] sa isang pagkawala?
 
 # 6191
 
@@ -24912,7 +24912,7 @@ Masusunog siya sa isang Apoy na may lagablab
 
 # 6220
 
-at ang maybahay niya [rin], na tagapasan ng kahoy na panggatong,
+at ang maybahay niya \[rin\], na tagapasan ng kahoy na panggatong,
 
 # 6221
 
@@ -24924,7 +24924,7 @@ Sabihin mo: "Siyang si Allāh ay iisa.
 
 # 6223
 
-Si Allāh ay ang Dulugan [sa pangangailangan].
+Si Allāh ay ang Dulugan \[sa pangangailangan\].
 
 # 6224
 
@@ -24948,7 +24948,7 @@ at laban sa kasamaan ng pusikit kapag lumaganap ito,
 
 # 6229
 
-at laban sa kasamaan ng mga babaing [manggagaway na] palaihip sa mga buhol,
+at laban sa kasamaan ng mga babaing \[manggagaway na\] palaihip sa mga buhol,
 
 # 6230
 

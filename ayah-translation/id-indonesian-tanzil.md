@@ -1698,7 +1698,7 @@ Kepunyaan Allah apa yang ada di langit dan yang ada di bumi. Dia memberi ampun k
 
 # 423
 
-Hai orang-orang yang beriman, janganlah kamu memakan riba dengan berlipat ganda] dan bertakwalah kamu kepada Allah supaya kamu mendapat keberuntungan.
+Hai orang-orang yang beriman, janganlah kamu memakan riba dengan berlipat ganda\] dan bertakwalah kamu kepada Allah supaya kamu mendapat keberuntungan.
 
 # 424
 
@@ -2386,7 +2386,7 @@ Dan apabila kamu bepergian di muka bumi, maka tidaklah mengapa kamu men-qashar s
 
 # 595
 
-Dan apabila kamu berada di tengah-tengah mereka (sahabatmu) lalu kamu hendak mendirikan shalat bersama-sama mereka, maka hendaklah segolongan dari mereka berdiri (shalat) besertamu dan menyandang senjata, kemudian apabila mereka (yang shalat besertamu) sujud (telah menyempurnakan serakaat), maka hendaklah mereka pindah dari belakangmu (untuk menghadapi musuh) dan hendaklah datang golongan yang kedua yang belum bersembahyang, lalu bersembahyanglah mereka denganmu], dan hendaklah mereka bersiap siaga dan menyandang senjata. Orang-orang kafir ingin supaya kamu lengah terhadap senjatamu dan harta bendamu, lalu mereka menyerbu kamu dengan sekaligus. Dan tidak ada dosa atasmu meletakkan senjata-senjatamu, jika kamu mendapat sesuatu kesusahan karena hujan atau karena kamu memang sakit; dan siap siagalah kamu. Sesungguhnya Allah telah menyediakan azab yang menghinakan bagi orang-orang kafir itu.
+Dan apabila kamu berada di tengah-tengah mereka (sahabatmu) lalu kamu hendak mendirikan shalat bersama-sama mereka, maka hendaklah segolongan dari mereka berdiri (shalat) besertamu dan menyandang senjata, kemudian apabila mereka (yang shalat besertamu) sujud (telah menyempurnakan serakaat), maka hendaklah mereka pindah dari belakangmu (untuk menghadapi musuh) dan hendaklah datang golongan yang kedua yang belum bersembahyang, lalu bersembahyanglah mereka denganmu\], dan hendaklah mereka bersiap siaga dan menyandang senjata. Orang-orang kafir ingin supaya kamu lengah terhadap senjatamu dan harta bendamu, lalu mereka menyerbu kamu dengan sekaligus. Dan tidak ada dosa atasmu meletakkan senjata-senjatamu, jika kamu mendapat sesuatu kesusahan karena hujan atau karena kamu memang sakit; dan siap siagalah kamu. Sesungguhnya Allah telah menyediakan azab yang menghinakan bagi orang-orang kafir itu.
 
 # 596
 
@@ -4590,7 +4590,7 @@ Apakah mereka mempersekutukan (Allah dengan) berhada-berhala yang tak dapat menc
 
 # 1146
 
-Dan berhala-berhala itu tidak mampu memberi pertolongan kepada penyembah-penyembahnya dan kepada dirinya sendiripun berhala-berha]a itu tidak dapat memberi pertolongan.
+Dan berhala-berhala itu tidak mampu memberi pertolongan kepada penyembah-penyembahnya dan kepada dirinya sendiripun berhala-berha\]a itu tidak dapat memberi pertolongan.
 
 # 1147
 
@@ -6178,7 +6178,7 @@ Dan sesungguhnya utusan-utusan Kami (malaikat-malaikat) telah datang kepada lbra
 
 # 1543
 
-Maka tatkala dilihatnya tangan mereka tidak menjamahnya, Ibrahim memandang aneh perbuatan mereka, dan merasa takut kepada mereka. Malaikat itu berkata: "Jangan kamu takut, sesungguhnya kami adalah (malaikat-ma]aikat) yang diutus kepada kaum Luth".
+Maka tatkala dilihatnya tangan mereka tidak menjamahnya, Ibrahim memandang aneh perbuatan mereka, dan merasa takut kepada mereka. Malaikat itu berkata: "Jangan kamu takut, sesungguhnya kami adalah (malaikat-ma\]aikat) yang diutus kepada kaum Luth".
 
 # 1544
 
@@ -7806,7 +7806,7 @@ Dan apakah mereka tidak memperhatikan segala sesuatu yang telah diciptakan Allah
 
 # 1950
 
-Dan kepada Allah sajalah bersujud segala apa yang berada di langit dan semua makhluk yang melata di bumi dan (juga) para ma]aikat, sedang mereka (malaikat) tidak menyombongkan diri.
+Dan kepada Allah sajalah bersujud segala apa yang berada di langit dan semua makhluk yang melata di bumi dan (juga) para ma\]aikat, sedang mereka (malaikat) tidak menyombongkan diri.
 
 # 1951
 
@@ -8614,7 +8614,7 @@ Maka Kami tutup telinga mereka beberapa tahun dalam gua itu,
 
 # 2152
 
-Kemudian Kami bangunkan mereka, agar Kami mengetahui manakah di antara kedua golongan itu] yang lebih tepat dalam menghitung berapa lama mereka tinggal (dalam gua itu).
+Kemudian Kami bangunkan mereka, agar Kami mengetahui manakah di antara kedua golongan itu\] yang lebih tepat dalam menghitung berapa lama mereka tinggal (dalam gua itu).
 
 # 2153
 
@@ -9610,7 +9610,7 @@ Musa menjawab: "Pengetahuan tentang itu ada di sisi Tuhanku, di dalam sebuah kit
 
 # 2401
 
-Yang telah menjadikan bagimu bumi sebagai hamparan dan Yang telah menjadikan bagimu di bumi itu jalan-ja]an, dan menurunkan dari langit air hujan. Maka Kami tumbuhkan dengan air hujan itu berjenis-jenis dari tumbuh-tumbuhan yang bermacam-macam.
+Yang telah menjadikan bagimu bumi sebagai hamparan dan Yang telah menjadikan bagimu di bumi itu jalan-ja\]an, dan menurunkan dari langit air hujan. Maka Kami tumbuhkan dengan air hujan itu berjenis-jenis dari tumbuh-tumbuhan yang bermacam-macam.
 
 # 2402
 
@@ -15162,7 +15162,7 @@ Maka Maha Suci (Allah) yang di tangan-Nya kekuasaaan atas segala sesuatu dan kep
 
 # 3789
 
-Demi (rombongan) yang ber shaf-shaf dengan sebenar-benarnya],
+Demi (rombongan) yang ber shaf-shaf dengan sebenar-benarnya\],
 
 # 3790
 

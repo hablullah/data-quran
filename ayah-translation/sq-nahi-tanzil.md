@@ -16792,7 +16792,7 @@ Ja, ky është Zoti juaj, krijues i çdo gjëje. S’ka zot tjetër përveç Tij
 
 # 4196
 
-Kështu ______________________?
+Kështu \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_?
 
 # 4197
 

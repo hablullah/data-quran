@@ -1174,7 +1174,7 @@ Allahu pripada sve što je na nebesima i što je na Zemlji. Pokazivali vi šta j
 
 # 292
 
-Poslanik vjeruje u ono što mu se objavljuje od Gospodara njegova, a i vjernici, svaki od njih vjeruje u Allaha, i meleke Njegove, i Knjige Njegove, i poslanike Njegove: 
+Poslanik vjeruje u ono što mu se objavljuje od Gospodara njegova, a i vjernici, svaki od njih vjeruje u Allaha, i meleke Njegove, i Knjige Njegove, i poslanike Njegove:
 "Mi među poslanicima Njegovim ne pravimo razliku!" I govore: "Čujemo i pokoravamo se! Molimo Te za oprost, Gospodaru naš, a kod Tebe je konačno odredište!"
 
 # 293
@@ -2759,7 +2759,7 @@ Jevreji i kršćani kažu: "Mi smo djeca Božija i miljenici Njegovi." Reci: "Pa
 
 # 688
 
-O vi kojima je data Knjiga, došao vam je Poslanik Naš- nakon što je neko vrijeme prekinuto slanje poslanika - da vam objasni, da ne biste rekli: 
+O vi kojima je data Knjiga, došao vam je Poslanik Naš- nakon što je neko vrijeme prekinuto slanje poslanika - da vam objasni, da ne biste rekli:
 "Nije nam dolazio ni onaj koji donosi radosne vijesti ni onaj koji upozorava!" Pa, došao vam je, eto, onaj koji donosi radosne vijesti i koji upozorava. A Allah nad svime ima moć.
 
 # 689
@@ -7664,7 +7664,7 @@ On vam je potčinio noć i dan, i Sunce i Mjesec, i zvijezde su po odredbi Njego
 
 # 1914
 
-- i sve što vam je na Zemlji šaroliko stvorio - u tome je, doista, znak ljudima koji se prisjećaju i pouku uzimaju.
+\- i sve što vam je na Zemlji šaroliko stvorio - u tome je, doista, znak ljudima koji se prisjećaju i pouku uzimaju.
 
 # 1915
 
@@ -9053,7 +9053,7 @@ da naslijedi mene i porodicu Jakubovu, i učini, Gospodaru moj, da se s njime bu
 
 # 2261
 
-I on izađe iz odaje svoje u kojoj se molio pred narod svoj i znakom im dade na znanje: 
+I on izađe iz odaje svoje u kojoj se molio pred narod svoj i znakom im dade na znanje:
 "Veličajte Ga i slavite ujutro i navečer."
 
 # 2262
@@ -18921,7 +18921,7 @@ I ne pripisujte uz Allaha boga drugoga! Ja sam vam Njegov upozoritelj jasni!
 
 # 4727
 
-I tako je bilo: ni onima prije ovih nije došao nijedan poslanik, a da nisu rekli: 
+I tako je bilo: ni onima prije ovih nije došao nijedan poslanik, a da nisu rekli:
 "Čarobnjak je!" ili: "Lud je!"
 
 # 4728
@@ -20546,7 +20546,7 @@ A vi niste kasom tjerali konje ni kamile zbog onoga što je Allah od njih, kao p
 
 # 5133
 
-Plijen od stanovnika sela i gradova koji Allah Poslaniku Svome daruje pripada: 
+Plijen od stanovnika sela i gradova koji Allah Poslaniku Svome daruje pripada:
 Allahu i Poslaniku Njegovu, i bližnjima njegovim, i siročadi, i siromašnim, i putnicima namjernicima - da ne bi prelazio samo iz ruku u ruke bogataša vaših; ono što vam Poslanik da, to prihvatite, a ono što vam zabrani - ostavite, i bojte se Allaha. Allah, zaista, žestoko kažnjava.
 
 # 5134

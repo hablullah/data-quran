@@ -1608,9 +1608,9 @@ Các ngươi (những người có đức tin) sẽ chẳng đạt được sự
 
 # 386
 
-Tất cả thức ăn đều Halal cho người dân Israel ngoại trừ những gì Israel tự cấm bản thân Y trước khi Kinh Tawrah được thiên khải xuống. Ngươi (hỡi Thiên Sứ Muhammad) bảo họ: “(Nếu không đúng như vậy) thì các người hãy mang Tawrah ra đây và hãy đọc nó lên (để kiểm chứng) nếu các người là những người nói thật.”[^*]
+Tất cả thức ăn đều Halal cho người dân Israel ngoại trừ những gì Israel[^1] tự cấm bản thân Y trước khi Kinh Tawrah được thiên khải xuống. Ngươi (hỡi Thiên Sứ Muhammad) bảo họ: “(Nếu không đúng như vậy) thì các người hãy mang Tawrah ra đây và hãy đọc nó lên (để kiểm chứng) nếu các người là những người nói thật.”
 
-[^*]: #_3_93 (1) Israel là tên gọi khác của Nabi Ya’qub - cầu xin bình an cho Người -.
+[^1]: Israel là tên gọi khác của Nabi Ya’qub - cầu xin bình an cho Người -.
 
 # 387
 
@@ -4654,9 +4654,9 @@ Tuy nhiên, những kẻ làm điều sai quấy đã thay đổi lời phán đ
 
 # 1117
 
-(Ngươi - hỡi Thiên Sứ) hãy hỏi (dân Do Thái) về một thị trấn nằm ven biển đã vi phạm (giới cấm) của ngày thứ bảy - khi cá của họ đến với họ một cách công khai vào ngày thứ bảy của họ, còn vào ngày ngoài ngày thứ bảy thì chúng không đến với họ. Như thế đó, TA (Allah) đã thử thách họ bởi những điều mà họ đã bất tuân và dấy loạn.[^*]
+(Ngươi - hỡi Thiên Sứ) hãy hỏi (dân Do Thái) về một thị trấn nằm ven biển đã vi phạm (giới cấm) của ngày thứ bảy - khi cá của họ đến với họ một cách công khai vào ngày thứ bảy của họ, còn vào ngày ngoài ngày thứ bảy thì chúng không đến với họ. Như thế đó, TA (Allah) đã thử thách họ bởi những điều mà họ đã bất tuân và dấy loạn.[^2]
 
-[^*]: #_7_163 (2) Do một nhóm những người Do Thái đã bất tuân Allah nên Ngài đã trừng phạt họ bằng cách Ngài cho đàn cá từ biển kéo nhau lội vào bờ chỉ vào ngày thứ bảy còn những ngày khác thì không có con cá nào và Ngài cấm họ săn bắt cá vào ngày thứ bảy. Tuy nhiên, chứng nào tật náy, với bản chất gian xảo, họ không bắt cá vào ngày thứ bảy mà vào ngày hôm đó, họ đào ao và giăng lưới giữ đàn cá lại để qua ngày chủ nhật hôm sau họ mới bắt. Thế là Allah đã biến họ thành loài khỉ.
+[^2]: Do một nhóm những người Do Thái đã bất tuân Allah nên Ngài đã trừng phạt họ bằng cách Ngài cho đàn cá từ biển kéo nhau lội vào bờ chỉ vào ngày thứ bảy còn những ngày khác thì không có con cá nào và Ngài cấm họ săn bắt cá vào ngày thứ bảy. Tuy nhiên, chứng nào tật náy, với bản chất gian xảo, họ không bắt cá vào ngày thứ bảy mà vào ngày hôm đó, họ đào ao và giăng lưới giữ đàn cá lại để qua ngày chủ nhật hôm sau họ mới bắt. Thế là Allah đã biến họ thành loài khỉ.
 
 # 1118
 
@@ -4984,7 +4984,7 @@ Mục đích để Allah tách biệt (những kẻ vô đức tin) bẩn thỉu
 
 # 1198
 
-Ngươi (hỡi Thiên Sứ Muhammad) hãy bảo những kẻ vô đức tin nếu chúng biết dừng lại (việc ngăn chặn Islam và có đức tin nơi Allah) thì tội lỗi của chúng trong quá khứ sẽ được tha thứ, còn nếu chúng tiếp tục ngoan cố thì quả thật tiền lệ của các dân tộc [nổi loạn] trước đây (sẽ là sự cảnh báo dành cho chúng).”
+Ngươi (hỡi Thiên Sứ Muhammad) hãy bảo những kẻ vô đức tin nếu chúng biết dừng lại (việc ngăn chặn Islam và có đức tin nơi Allah) thì tội lỗi của chúng trong quá khứ sẽ được tha thứ, còn nếu chúng tiếp tục ngoan cố thì quả thật tiền lệ của các dân tộc \[nổi loạn\] trước đây (sẽ là sự cảnh báo dành cho chúng).”
 
 # 1199
 
@@ -10784,7 +10784,7 @@ Và nếu họ (đám dân của Ngươi – hỡi Thiên Sứ Muhammad) phủ n
 
 # 2638
 
-- Và cả đám dân của Ibrahim và đám dân của Lut (cũng phủ nhận giống tương tự).
+\- Và cả đám dân của Ibrahim và đám dân của Lut (cũng phủ nhận giống tương tự).
 
 # 2639
 

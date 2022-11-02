@@ -3318,7 +3318,7 @@ Wax ka Socda Dhulka ama Shimbir ku Duuli Garbihiisa oo Dhan waa umado Idinla mid
 
 # 828
 
-Kuwa Beeniyey Aayadkanaga waa DhagaLa'yihiin oo Af la`yihiin Mugdibayna ku Suganyihiin, cidduu Doono wuu Dhumiyaa Eebe Tuu Doonana wuxuu Yeela Jid Toosan.
+Kuwa Beeniyey Aayadkanaga waa DhagaLa'yihiin oo Af la\`yihiin Mugdibayna ku Suganyihiin, cidduu Doono wuu Dhumiyaa Eebe Tuu Doonana wuxuu Yeela Jid Toosan.
 
 # 829
 
@@ -8642,7 +8642,7 @@ Waxaad u malayn inay soo jeedaan iyagoo Jiifa, waxaana u gagadin Midig iyo Bidix
 
 # 2159
 
-Saasaana u soo bixinay inay is warsadaan dhexdooda, wuxuu yidhi mid ka mid ah imisaad nagaateen, waxay dhaheen waxaan nagaannay Maalin ama maalin qaarkeed, waxay dhaheen Eebeheenbaa og waxaad nagaateen ee ladira midkiin lacagtan xagga Magaalada, hana soo fiiriyo Cid Cunno xalaalaysan * hana idiinka Keeno Rizqi hana isqariyo (oo istartiibiyo) yuuna idin ogeeysiin xaggooda ruuxna.
+Saasaana u soo bixinay inay is warsadaan dhexdooda, wuxuu yidhi mid ka mid ah imisaad nagaateen, waxay dhaheen waxaan nagaannay Maalin ama maalin qaarkeed, waxay dhaheen Eebeheenbaa og waxaad nagaateen ee ladira midkiin lacagtan xagga Magaalada, hana soo fiiriyo Cid Cunno xalaalaysan \* hana idiinka Keeno Rizqi hana isqariyo (oo istartiibiyo) yuuna idin ogeeysiin xaggooda ruuxna.
 
 # 2160
 
@@ -8722,7 +8722,7 @@ hasa yeeshee ilaahay waa Eebahay lana wadaajiin maayo Eebahay (cibaadada) cidna.
 
 # 2179
 
-maxaadan markaad gasho beertaada u dhihin wuxuu doone Eebe*, xoog ma jiro Eebe mooyee, haddaad aragtay anoo kaa yar adiga xoolo iyo Caruurba.
+maxaadan markaad gasho beertaada u dhihin wuxuu doone Eebe\*, xoog ma jiro Eebe mooyee, haddaad aragtay anoo kaa yar adiga xoolo iyo Caruurba.
 
 # 2180
 
@@ -8894,7 +8894,7 @@ waxaana doonnay inuu ugu badalo Eebahood mid ka khayroon daahirnimo iyo u dhawi 
 
 # 2222
 
-darbigana waxaa leh labo wiil oo agoon ah oo magaalada, waxaana hoostiisa ah kansi ay leeyihiin wuxuuna ahaa aabahood mid suubban, wuxuuna doonay Eebahaa inay gaadhaan xooggooda lana baxaan kansigooda naxariista Eebahaa dartiis, uma falin rayigayga kaasi waa fasirka waxaadan karin samirkiisa*.
+darbigana waxaa leh labo wiil oo agoon ah oo magaalada, waxaana hoostiisa ah kansi ay leeyihiin wuxuuna ahaa aabahood mid suubban, wuxuuna doonay Eebahaa inay gaadhaan xooggooda lana baxaan kansigooda naxariista Eebahaa dartiis, uma falin rayigayga kaasi waa fasirka waxaadan karin samirkiisa\*.
 
 # 2223
 

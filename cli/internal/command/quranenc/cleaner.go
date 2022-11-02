@@ -53,7 +53,7 @@ var rxNewlines = regexp.MustCompile(`\n{2,}`)
 var rxFootnoteNumberSplitter = regexp.MustCompile(`(\[\^\d+\]:\s*)`)
 
 func cleanAfarHamza(data FlattenedData) FlattenedData {
-	rxAyahNumber := regexp.MustCompile(`^\d+.\s*`)
+	rxAyahNumber := regexp.MustCompile(`^\d+\\?.\s*`)
 	data = removeAyahNumber(data, rxAyahNumber)
 	return data
 }
@@ -70,9 +70,9 @@ func cleanBosnianRwwad(data FlattenedData) FlattenedData {
 
 func cleanEnglishHilaliKhan(data FlattenedData) FlattenedData {
 	// Normalize data
-	rxAyahNumber := regexp.MustCompile(`^\d+.\s*`)
-	rxFootFn := regexp.MustCompile(`^\[(\d+)\]\s*`)
-	rxTransFn := regexp.MustCompile(`\s*\[(\d+)\](\s*)`)
+	rxAyahNumber := regexp.MustCompile(`^\d+\\?.\s*`)
+	rxFootFn := regexp.MustCompile(`^\\\[(\d+)\\\]\s*`)
+	rxTransFn := regexp.MustCompile(`\s*\\\[(\d+)\\\](\s*)`)
 	data = removeAyahNumber(data, rxAyahNumber)
 	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
 
@@ -91,8 +91,8 @@ func cleanEnglishHilaliKhan(data FlattenedData) FlattenedData {
 
 func cleanEnglishSaheeh(data FlattenedData) FlattenedData {
 	rxAyahNumber := regexp.MustCompile(`^\(\d+\)\s*`)
-	rxFootFn := regexp.MustCompile(`^\[(\d+)\]\s*-?(\s*)`)
-	rxTransFn := regexp.MustCompile(`\[(\d+)\]\s*-?(\s*)`)
+	rxFootFn := regexp.MustCompile(`^\\\[(\d+)\\\]\s*-?(\s*)`)
+	rxTransFn := regexp.MustCompile(`\\\[(\d+)\\\]\s*-?(\s*)`)
 	data = removeAyahNumber(data, rxAyahNumber)
 	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
 	return data
@@ -155,9 +155,9 @@ func cleanSpanishGarcia(data FlattenedData) FlattenedData {
 }
 
 func cleanMontada(data FlattenedData) FlattenedData {
-	rxAyahNumber := regexp.MustCompile(`^\d+\.\s*`)
-	rxTransFn := regexp.MustCompile(`\[(\d+)\](\s*)`)
-	rxFootFn := regexp.MustCompile(`^\[(\d+)\](\s*)`)
+	rxAyahNumber := regexp.MustCompile(`^\d+\\?\.\s*`)
+	rxTransFn := regexp.MustCompile(`\\\[(\d+)\\\](\s*)`)
+	rxFootFn := regexp.MustCompile(`^\\\[(\d+)\\\](\s*)`)
 	data = removeAyahNumber(data, rxAyahNumber)
 	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
 	return data
@@ -176,8 +176,8 @@ func cleanFrenchHameedullah(data FlattenedData) FlattenedData {
 	}
 
 	// Normalize footnote
-	rxTransFn := regexp.MustCompile(`\[(\d+)\](\s*)`)
-	rxFootFn := regexp.MustCompile(`^\[(\d+)\](\s*)`)
+	rxTransFn := regexp.MustCompile(`\\\[(\d+)\\\](\s*)`)
+	rxFootFn := regexp.MustCompile(`^\\\[(\d+)\\\](\s*)`)
 	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
 
 	return data
@@ -185,23 +185,40 @@ func cleanFrenchHameedullah(data FlattenedData) FlattenedData {
 
 func cleanFrenchRashid(data FlattenedData) FlattenedData {
 	rxAyahNumber := regexp.MustCompile(`^\d+\s*`)
-	rxTransFn := regexp.MustCompile(`\[(\d+)\](\s*)`)
-	rxFootFn := regexp.MustCompile(`^\[(\d+)\](\s*)`)
+	rxTransFn := regexp.MustCompile(`\\\[(\d+)\\\](\s*)`)
+	rxFootFn := regexp.MustCompile(`^\\\[(\d+)\\\](\s*)`)
 	data = removeAyahNumber(data, rxAyahNumber)
 	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
 	return data
 }
 
 func cleanHausaGummi(data FlattenedData) FlattenedData {
-	rxTransFn := regexp.MustCompile(`(\*)(\s*)`)
-	rxFootFn := regexp.MustCompile(`^(\*)(\s*)`)
+	// Convert stars to marker number
+	rxStars := regexp.MustCompile(`(\\*\*)+`)
+	for i, ayah := range data.AyahList {
+		ayah.Translation = rxStars.ReplaceAllStringFunc(ayah.Translation, func(s string) string {
+			nStar := strings.Count(s, "*")
+			return fmt.Sprintf("[%d]", nStar)
+		})
+
+		ayah.Footnotes = rxStars.ReplaceAllStringFunc(ayah.Footnotes, func(s string) string {
+			nStar := strings.Count(s, "*")
+			return fmt.Sprintf("\n[%d]", nStar)
+		})
+
+		data.AyahList[i] = ayah
+	}
+
+	// Normalize number
+	rxTransFn := regexp.MustCompile(`\[(\d+)\](\s*)`)
+	rxFootFn := regexp.MustCompile(`^\[(\d+)\](\s*)`)
 	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
 	return data
 }
 
 func cleanHindiOmari(data FlattenedData) FlattenedData {
-	rxTransFn := regexp.MustCompile(`\[(\d+)\](\s*)`)
-	rxFootFn := regexp.MustCompile(`(\d+)\.?(\s*)`)
+	rxTransFn := regexp.MustCompile(`\\\[(\d+)\\\](\s*)`)
+	rxFootFn := regexp.MustCompile(`(\d+)\\*\.(\s*)`)
 	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
 	data = splitFootnotesByNumber(data)
 	return data
@@ -209,7 +226,7 @@ func cleanHindiOmari(data FlattenedData) FlattenedData {
 
 func cleanIndonesianAffairs(data FlattenedData) FlattenedData {
 	rxTransFn := regexp.MustCompile(`(\d+)\s*\)(\s*)`)
-	rxFootFn := regexp.MustCompile(`(?:\*|^|\.\s*)(\d+)\s*\)(\s*)`)
+	rxFootFn := regexp.MustCompile(`(?:\\*\*|^|\\*\.\s*)(\d+)\s*\)(\s*)`)
 	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
 	data = splitFootnotesByNumber(data)
 	return data
@@ -217,15 +234,15 @@ func cleanIndonesianAffairs(data FlattenedData) FlattenedData {
 
 func cleanIndonesianComplex(data FlattenedData) FlattenedData {
 	rxTransFn := regexp.MustCompile(`(\d+)(\s*)`)
-	rxFootFn := regexp.MustCompile(`(?:^|\.\s+)(\d+)\s*\.?(\s*)`)
+	rxFootFn := regexp.MustCompile(`(?:^|\\*\.\s+)(\d+)\s*\\*\.?(\s*)`)
 	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
 	return data
 }
 
 func cleanIndonesianSabiq(data FlattenedData) FlattenedData {
-	rxAyahNumber := regexp.MustCompile(`^\*?\d+\.\s*`)
-	rxTransFn := regexp.MustCompile(`\*{1,}\((\d+)\)(\s*)`)
-	rxFootFn := regexp.MustCompile(`\*{1,}(\d+)\)\s*\.?(\s*)`)
+	rxAyahNumber := regexp.MustCompile(`^\*?\d+\\*\.\s*`)
+	rxTransFn := regexp.MustCompile(`\\*\*{1,}\((\d+)\)(\s*)`)
+	rxFootFn := regexp.MustCompile(`\\*\*{1,}(\d+)\)\s*\\*\.?(\s*)`)
 
 	data = removeAyahNumber(data, rxAyahNumber)
 	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
@@ -234,22 +251,57 @@ func cleanIndonesianSabiq(data FlattenedData) FlattenedData {
 }
 
 func cleanJapaneseSaeedsato(data FlattenedData) FlattenedData {
-	rxTransFn := regexp.MustCompile(`(\d+)(\s*)`)
-	rxFootFn := regexp.MustCompile(`^(\d+)(\s*)`)
+	rxFn := regexp.MustCompile(`(\d+)(\s*)`)
+	for i, ayah := range data.AyahList {
+		// Extract fn numbers in translation
+		transNumbers := mapset.New[string]()
+		matches := rxFn.FindAllStringSubmatch(ayah.Translation, -1)
+		for _, m := range matches {
+			transNumbers.Put(m[1])
+		}
+
+		// Replace fn numbers in footnotes
+		footNumbers := mapset.New[string]()
+		ayah.Footnotes = rxFn.ReplaceAllStringFunc(ayah.Footnotes, func(s string) string {
+			parts := rxFn.FindStringSubmatch(s)
+			if transNumbers.Has(parts[1]) && !footNumbers.Has(parts[1]) {
+				footNumbers.Put(parts[1])
+				return fmt.Sprintf("\n[%s]%s", parts[1], parts[2])
+			} else {
+				return s
+			}
+		})
+
+		// Replace fn numbers in transation
+		ayah.Translation = rxFn.ReplaceAllStringFunc(ayah.Translation, func(s string) string {
+			parts := rxFn.FindStringSubmatch(s)
+			if footNumbers.Has(parts[1]) {
+				return fmt.Sprintf("[%s]%s", parts[1], parts[2])
+			} else {
+				return s
+			}
+		})
+
+		data.AyahList[i] = ayah
+	}
+
+	// Normalize number
+	rxTransFn := regexp.MustCompile(`\[(\d+)\](\s*)`)
+	rxFootFn := regexp.MustCompile(`^\[(\d+)\](\s*)`)
 	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
 	return data
 }
 
 func cleanMalayalamKunhi(data FlattenedData) FlattenedData {
 	rxTransFn := regexp.MustCompile(`\((\d+)\)(\s*)`)
-	rxFootFn := regexp.MustCompile(`^(\d+)\s*\)?(\s*)`)
+	rxFootFn := regexp.MustCompile(`^(\d+)\s*\)?\\*\.?(\s*)`)
 	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
 	return data
 }
 
 func cleanOromoAbabor(data FlattenedData) FlattenedData {
-	rxTransFn := regexp.MustCompile(`\[\](\s*)`)
-	rxFootFn := regexp.MustCompile(`^\[(\d+)\](\s*)`)
+	rxTransFn := regexp.MustCompile(`\\\[\\\](\s*)`)
+	rxFootFn := regexp.MustCompile(`^\\\[(\d+)\\\](\s*)`)
 
 	for i, ayah := range data.AyahList {
 		// Remove number from the footnote
@@ -282,16 +334,16 @@ func cleanOromoAbabor(data FlattenedData) FlattenedData {
 }
 
 func cleanKinyarwandaAssoc(data FlattenedData) FlattenedData {
-	rxTransFn := regexp.MustCompile(`\[(\d+)\](\s*)`)
-	rxFootFn := regexp.MustCompile(`\[(\d+)\](\s*)`)
+	rxTransFn := regexp.MustCompile(`\\\[(\d+)\\\](\s*)`)
+	rxFootFn := regexp.MustCompile(`\\\[(\d+)\\\](\s*)`)
 	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
 	data = splitFootnotesByNumber(data)
 	return data
 }
 
 func cleanAlbanianNahi(data FlattenedData) FlattenedData {
-	rxTransFn := regexp.MustCompile(`\[(\d+)\](\s*)`)
-	rxFootFn := regexp.MustCompile(`\[(\d+)\](\s*)`)
+	rxTransFn := regexp.MustCompile(`\\\[(\d+)\\\](\s*)`)
+	rxFootFn := regexp.MustCompile(`\\\[(\d+)\\\](\s*)`)
 	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
 	return data
 }
@@ -314,20 +366,20 @@ func cleanUrduJunagarhi(data FlattenedData) FlattenedData {
 }
 
 func cleanTamilBaqavi(data FlattenedData) FlattenedData {
-	rxAyahNumber := regexp.MustCompile(`^[\d\-, ]+\.\s*`)
+	rxAyahNumber := regexp.MustCompile(`^[\d\-, ]+\\*\.\s*`)
 	data = removeAyahNumber(data, rxAyahNumber)
 	return data
 }
 
 func cleanUyghurSaleh(data FlattenedData) FlattenedData {
-	rxAyahNumber := regexp.MustCompile(`\[[\d\-ـ ]+\]\.?`)
+	rxAyahNumber := regexp.MustCompile(`\\\[[\d\-ـ ]+\\\]\.?`)
 	data = removeAyahNumber(data, rxAyahNumber)
 	return data
 }
 
 func cleanUzbekMansour(data FlattenedData) FlattenedData {
 	// Remove ayah number
-	rxAyahNumber := regexp.MustCompile(`^\d+\.\s*`)
+	rxAyahNumber := regexp.MustCompile(`^\d+\\*\.\s*`)
 	data = removeAyahNumber(data, rxAyahNumber)
 
 	// Add footnote marker
@@ -344,6 +396,12 @@ func cleanUzbekMansour(data FlattenedData) FlattenedData {
 }
 
 func cleanVietnameseRwwad(data FlattenedData) FlattenedData {
+	rxAyahNumber := regexp.MustCompile(`#\\*_\d+\\*_\d+\s*`)
+	for i, ayah := range data.AyahList {
+		ayah.Footnotes = rxAyahNumber.ReplaceAllString(ayah.Footnotes, "")
+		data.AyahList[i] = ayah
+	}
+
 	rxTransFn := regexp.MustCompile(`\((\d+)\)(\s*)`)
 	rxFootFn := regexp.MustCompile(`^\((\d+)\)(\s*)`)
 	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
@@ -352,7 +410,7 @@ func cleanVietnameseRwwad(data FlattenedData) FlattenedData {
 
 func cleanYorubaMikail(data FlattenedData) FlattenedData {
 	rxTransFn := regexp.MustCompile(`(\d+)(\s*)`)
-	rxFootFn := regexp.MustCompile(`^(\d+)\s*\.?(\s*)`)
+	rxFootFn := regexp.MustCompile(`^(\d+)\s*\\*\.?(\s*)`)
 	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
 	return data
 }
@@ -363,9 +421,9 @@ func cleanGujaratiOmari(data FlattenedData) FlattenedData {
 }
 
 func cleanSomaliYacob(data FlattenedData) FlattenedData {
-	rxAyahNumber := regexp.MustCompile(`^\d+\.?\s*`)
+	rxAyahNumber := regexp.MustCompile(`^\d+\\*\.?\s*`)
 	rxTransFn := regexp.MustCompile(`(\d+)(\s*)`)
-	rxFootFn := regexp.MustCompile(`^(\d+)\s*\.?(\s*)`)
+	rxFootFn := regexp.MustCompile(`^(\d+)\s*\\*\.?(\s*)`)
 	data = removeAyahNumber(data, rxAyahNumber)
 	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
 	return data

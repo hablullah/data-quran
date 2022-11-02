@@ -2162,7 +2162,7 @@ God knows who are your enemies. You need to have no guardian or helper other tha
 
 # 539
 
-Some Jews take certain words out of context and by twisting their tongues to make a jest out of the true religion, say, "We heard and (in our hearts) disobeyed. (Muhammad) ra`ina (be kind to us) but they intend thereby (the meaning in their own language): "Listen! May God turn you deaf." They should have said, "We heard and obeyed. (Muhammad) listen and consider our question." This would have been better for them and more righteous. God has condemned them for their disbelief, thus, no one, except a few among them, will have faith.
+Some Jews take certain words out of context and by twisting their tongues to make a jest out of the true religion, say, "We heard and (in our hearts) disobeyed. (Muhammad) ra\`ina (be kind to us) but they intend thereby (the meaning in their own language): "Listen! May God turn you deaf." They should have said, "We heard and obeyed. (Muhammad) listen and consider our question." This would have been better for them and more righteous. God has condemned them for their disbelief, thus, no one, except a few among them, will have faith.
 
 # 540
 
@@ -3742,7 +3742,7 @@ Of the two pairs of camels and cows, are the males unlawful (to eat) or the fema
 
 # 934
 
-(Muhammad), tell them, "I do not find anything which has been made unlawful to eat in what has been revealed to me except carrion, blood flowing from the body, pork [for pork is absolutely filthy] and the flesh of the animals slaughtered without the mention of the name of God. However, in an emergency, when one does not have any intention of rebelling or transgressing against the law, your Lord will be All-forgiving and All-merciful.
+(Muhammad), tell them, "I do not find anything which has been made unlawful to eat in what has been revealed to me except carrion, blood flowing from the body, pork \[for pork is absolutely filthy\] and the flesh of the animals slaughtered without the mention of the name of God. However, in an emergency, when one does not have any intention of rebelling or transgressing against the law, your Lord will be All-forgiving and All-merciful.
 
 # 935
 
@@ -4082,7 +4082,7 @@ They accused him of telling lies. So We saved him and his companions in an ark a
 
 # 1019
 
-We sent Hud to his brethren, the tribe of `Ad, who told them, "Worship God for He is your only Lord. Will you not become pious?"
+We sent Hud to his brethren, the tribe of \`Ad, who told them, "Worship God for He is your only Lord. Will you not become pious?"
 
 # 1020
 
@@ -4450,7 +4450,7 @@ Moses selected seventy men from his people to attend Our appointment. (In Our pr
 
 # 1111
 
-There are those who follow the Messengers, the illiterate Prophet (not conventionally educated), whose description they find written in the Torah and the Gospel. [He (the Messengers) enjoins them to do good and forbids them to do all that is unlawful, makes lawful for them all that is pure and unlawful all that is filthy, removes their burdens and the entanglements in which they are involved]. Those who believe in him, honor and help him, and follow the light which is sent down to him, will have everlasting happiness.
+There are those who follow the Messengers, the illiterate Prophet (not conventionally educated), whose description they find written in the Torah and the Gospel. \[He (the Messengers) enjoins them to do good and forbids them to do all that is unlawful, makes lawful for them all that is pure and unlawful all that is filthy, removes their burdens and the entanglements in which they are involved\]. Those who believe in him, honor and help him, and follow the light which is sent down to him, will have everlasting happiness.
 
 # 1112
 
@@ -5886,7 +5886,7 @@ to have firm belief in the up-right religion and not to be an idolater
 
 # 1470
 
-nor to seek help from anyone other than God [who can neither benefit nor harm me], lest I become of the unjust.
+nor to seek help from anyone other than God \[who can neither benefit nor harm me\], lest I become of the unjust.
 
 # 1471
 
@@ -6134,7 +6134,7 @@ When Our decree (of destroying them) was fulfilled, We mercifully saved Hud and 
 
 # 1532
 
-It was the tribe of `Ad who denied the miracles of their Lord, disobeyed His Messenger and followed the orders of every transgressing tyrant.
+It was the tribe of \`Ad who denied the miracles of their Lord, disobeyed His Messenger and followed the orders of every transgressing tyrant.
 
 # 1533
 
@@ -11474,7 +11474,7 @@ They deny the Hour of Doom so We have prepared for them a burning fire.
 
 # 2867
 
-Even if they were to see [this fire] from a distant place, they would only listen to its raging and roaring.
+Even if they were to see \[this fire\] from a distant place, they would only listen to its raging and roaring.
 
 # 2868
 
@@ -11606,7 +11606,7 @@ Do you think that most of them listen and understand? They are like cattle or ev
 
 # 2900
 
-Have you not seen that your Lord increases the shadow. Had He wanted He would have made it stationary], and has made the sun their guide.
+Have you not seen that your Lord increases the shadow. Had He wanted He would have made it stationary\], and has made the sun their guide.
 
 # 2901
 
@@ -11790,7 +11790,7 @@ I feel nervous and my tongue is not fluent, so send Aaron with me.
 
 # 2946
 
-They have charged me [with a crime] for which I am afraid they will kill me."
+They have charged me \[with a crime\] for which I am afraid they will kill me."
 
 # 2947
 
@@ -13510,7 +13510,7 @@ We left manifest evidence (of the truth) there for the people of understanding.
 
 # 3376
 
-We sent to the people of Midian their brother Shu`ayb. He told them, "Worship God. Have hope in the life to come. Do not spread evil in the land".
+We sent to the people of Midian their brother Shu\`ayb. He told them, "Worship God. Have hope in the life to come. Do not spread evil in the land".
 
 # 3377
 
@@ -15658,7 +15658,7 @@ He told his people, "Why do you not have fear of God?
 
 # 3913
 
-Do you worship Ba`al and abandon the Best Creator.
+Do you worship Ba\`al and abandon the Best Creator.
 
 # 3914
 
@@ -16930,7 +16930,7 @@ He formed the seven heavens in two days and revealed to each one its task. He de
 
 # 4231
 
-If they ignore (your message), tell them, "I have warned you against a destructive blast of sound like that which struck the people of `Ad and Thamud.
+If they ignore (your message), tell them, "I have warned you against a destructive blast of sound like that which struck the people of \`Ad and Thamud.
 
 # 4232
 
@@ -18462,7 +18462,7 @@ Believers, do not be presumptuous with the Messenger of God (in your deeds and i
 
 # 4614
 
-Believers, do not raise your voices above the voice of the Prophet, do not be too loud in speaking to him [as you may have been to one another], lest your deeds will be made devoid of all virtue without your realizing it.
+Believers, do not raise your voices above the voice of the Prophet, do not be too loud in speaking to him \[as you may have been to one another\], lest your deeds will be made devoid of all virtue without your realizing it.
 
 # 4615
 
@@ -19462,7 +19462,7 @@ We have made the Quran easy to understand, but is there anyone who would pay att
 
 # 4864
 
-The people of `Ad rejected Our guidance. How terrible was My torment and the result (of their disregard) of My warning.
+The people of \`Ad rejected Our guidance. How terrible was My torment and the result (of their disregard) of My warning.
 
 # 4865
 
@@ -19862,11 +19862,11 @@ Besides this, there will be two other gardens.
 
 # 4964
 
-- jinn and mankind - which of the favors of your Lord would you then deny
+\- jinn and mankind - which of the favors of your Lord would you then deny
 
 # 4965
 
-- dark green in color.
+\- dark green in color.
 
 # 4966
 
@@ -19894,19 +19894,19 @@ There will be well-disciplined, beautiful maidens.
 
 # 4972
 
-- jinn and mankind - which of the favors of your Lord would you then deny
+\- jinn and mankind - which of the favors of your Lord would you then deny
 
 # 4973
 
-- with big, black and white beautiful eyes, dwelling in tents.
+\- with big, black and white beautiful eyes, dwelling in tents.
 
 # 4974
 
-- jinn and mankind - which of the favors of your Lord would you then deny
+\- jinn and mankind - which of the favors of your Lord would you then deny
 
 # 4975
 
-- untouched by jinn or mankind before.
+\- untouched by jinn or mankind before.
 
 # 4976
 
@@ -20226,7 +20226,7 @@ I do not need to swear by the setting of the stars
 
 # 5055
 
-- which is indeed a great oath if only you knew it -
+\- which is indeed a great oath if only you knew it -
 
 # 5056
 
@@ -21774,7 +21774,7 @@ They have arrogantly plotted evil plans against me,
 
 # 5442
 
-and have said to each other, 'Do not give-up your idols. Do not renounce Wadd, Suwa`, Yaghuth, Ya`uq and Nasr (names of certain idols).
+and have said to each other, 'Do not give-up your idols. Do not renounce Wadd, Suwa\`, Yaghuth, Ya\`uq and Nasr (names of certain idols).
 
 # 5443
 

@@ -14007,7 +14007,7 @@ Bu böyledir. Çünkü Allah hakkın ta kendisidir. O'nu bırakıp da taptıklar
 
 # 3500
 
-- Size ayetlerinden bir kısmını göstermek için Allah’ın nimeti ile gemilerin denizde akıp gittiğini görmez misin? İşte bunda çok sabreden ve çok şükreden herkes için muhakkak ayetler vardır.
+\- Size ayetlerinden bir kısmını göstermek için Allah’ın nimeti ile gemilerin denizde akıp gittiğini görmez misin? İşte bunda çok sabreden ve çok şükreden herkes için muhakkak ayetler vardır.
 
 # 3501
 

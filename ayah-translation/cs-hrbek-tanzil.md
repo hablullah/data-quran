@@ -450,7 +450,7 @@ Kdyby byli uvěřili a byli bohabojní, věru by byla odměna Boží lepší - k
 
 # 111
 
-Vy, kteří věříte, neříkejte: "Rá`iná!"" nýbrž říkejte: "Unzurná!" Poslouchejte, neboť pro nevěřící je určen trest bolestný!
+Vy, kteří věříte, neříkejte: "Rá\`iná!"" nýbrž říkejte: "Unzurná!" Poslouchejte, neboť pro nevěřící je určen trest bolestný!
 
 # 112
 
@@ -1318,7 +1318,7 @@ jako pokolení, jež vzešla jedno z druhého. A Bůh je slyšící, vševědouc
 
 # 328
 
-A hle, pravila manželka  ́Imránova: "Pane můj, zaslibuji Ti, co je v lůně mém, aby se zasvětilo Tobě. Přijmi to ode mne, vždyť Tys slyšící, vševědoucí!"
+A hle, pravila manželka ́Imránova: "Pane můj, zaslibuji Ti, co je v lůně mém, aby se zasvětilo Tobě. Přijmi to ode mne, vždyť Tys slyšící, vševědoucí!"
 
 # 329
 
@@ -6098,7 +6098,7 @@ A toto je jedna ze zvěstí skrytých, které ti dáváme jako zjevení a které
 
 # 1523
 
-A poslali jsme k  ́Ádovcům bratra jejich Húda, jenž pravil jim: "Lide můj, uctívejte Boha a nemějte božstvo jiné kromě Něho - vždyť vy si jen vymýšlíte.
+A poslali jsme k ́Ádovcům bratra jejich Húda, jenž pravil jim: "Lide můj, uctívejte Boha a nemějte božstvo jiné kromě Něho - vždyť vy si jen vymýšlíte.
 
 # 1524
 
@@ -6134,11 +6134,11 @@ A když přišel rozkaz Náš, zachránili jsme Húda a ty, kdož spolu s ním u
 
 # 1532
 
-Tito  ́Ádovci popírali znamení Pána svého, vzpírali se poslu Jeho a následovali rozkazu každého tyrana zarputilého.
+Tito ́Ádovci popírali znamení Pána svého, vzpírali se poslu Jeho a následovali rozkazu každého tyrana zarputilého.
 
 # 1533
 
-A na tomto světě i v den zmrtvýchvstání doprovázet je bude prokletí. Ó ano,  ́Ádovci věru v Pána svého neuvěřili! Ó ano, pryč tedy s  ́Ádovci, lidem Húdovým!
+A na tomto světě i v den zmrtvýchvstání doprovázet je bude prokletí. Ó ano, ́Ádovci věru v Pána svého neuvěřili! Ó ano, pryč tedy s ́Ádovci, lidem Húdovým!
 
 # 1534
 
@@ -7018,7 +7018,7 @@ Boha, jemuž náleží vše na nebesích i na zemi. Běda nevěřícím před hr
 
 # 1753
 
-- těm, kdo život pozemský více než budoucí milují, od cesty Boží odvádějí, a aby křivá byla, si přejí. Ti věru daleko jsou zbloudilí!
+\- těm, kdo život pozemský více než budoucí milují, od cesty Boží odvádějí, a aby křivá byla, si přejí. Ti věru daleko jsou zbloudilí!
 
 # 1754
 
@@ -7042,7 +7042,7 @@ I řekl Mojžíš dále: "Budete-li nevděční, vy, i kdož jsou na zemi všich
 
 # 1759
 
-Což nedošla vám zvěst o těch, kdož před vámi byli, o lidu Noemově, o  ́Ádovcích a Thamúdovcích a těch, kdož po nich byli a o nichž všech jen Bůh ví? Přišli k nim poslové jejich s jasnými důkazy, však oni ruce své si do úst svých vložili a zvolali: "Nevěříme v to, s čím jste byli posláni, a věru jsme ohledně toho, k čemu nás vyzýváte, v pochybách hlubokých."
+Což nedošla vám zvěst o těch, kdož před vámi byli, o lidu Noemově, o ́Ádovcích a Thamúdovcích a těch, kdož po nich byli a o nichž všech jen Bůh ví? Přišli k nim poslové jejich s jasnými důkazy, však oni ruce své si do úst svých vložili a zvolali: "Nevěříme v to, s čím jste byli posláni, a věru jsme ohledně toho, k čemu nás vyzýváte, v pochybách hlubokých."
 
 # 1760
 
@@ -7450,7 +7450,7 @@ Odvětili: "Byli jsme vysláni k lidu hříšnému
 
 # 1861
 
-- kromě rodu Lotova, jejž věru celý zachráníme
+\- kromě rodu Lotova, jejž věru celý zachráníme
 
 # 1862
 
@@ -10554,7 +10554,7 @@ On pomůže těm, kteří - když jsme je upevnili na zemi - dodržují modlitbu
 
 # 2637
 
-Prohlašují-li tě za lháře, pak již před nimi prohlašoval proroky za lháře lid Noemův,  ́Ádovci a Thamúdovci
+Prohlašují-li tě za lháře, pak již před nimi prohlašoval proroky za lháře lid Noemův, ́Ádovci a Thamúdovci
 
 # 2638
 
@@ -11578,7 +11578,7 @@ A podobně jsme lid Noemův, jenž prohlásil posly za lháře, utopili a pro li
 
 # 2893
 
-a rovněž pro  ́Ádovce Thamúdovce, obyvatele ar-Rassu a četná pokolení, jež mezi nimi byla.
+a rovněž pro ́Ádovce Thamúdovce, obyvatele ar-Rassu a četná pokolení, jež mezi nimi byla.
 
 # 2894
 
@@ -11690,7 +11690,7 @@ a kdož hovoří: "Pane náš, odvrať od nás trest pekla, vždyť jeho trest j
 
 # 2921
 
-- a ono je útočištěm i místem pobytu věru špatným -
+\- a ono je útočištěm i místem pobytu věru špatným -
 
 # 2922
 
@@ -12142,7 +12142,7 @@ ani přítele věrného,
 
 # 3034
 
-kéž bychom se mohli vrátit, abychom byli věřící!`"
+kéž bychom se mohli vrátit, abychom byli věřící!\`"
 
 # 3035
 
@@ -12226,7 +12226,7 @@ A Pán tvůj dozajista je mocný a slitovný.
 
 # 3055
 
-Rovněž  ́Ádovci posly za lháře prohlásili,
+Rovněž ́Ádovci posly za lháře prohlásili,
 
 # 3056
 
@@ -13518,7 +13518,7 @@ A prohlásili jej za lháře, ale postihlo je zemětřesení a nazítří zrána
 
 # 3378
 
-A vyslali jsme k  ́Ádovcům a Thamúdovcům... a je vám osud jejich jasný podle příbytků jejich. Satan jim okrášlil jejich počínání a svedl je z cesty, ačkoliv byli jasně vidoucí.
+A vyslali jsme k ́Ádovcům a Thamúdovcům... a je vám osud jejich jasný podle příbytků jejich. Satan jim okrášlil jejich počínání a svedl je z cesty, ačkoliv byli jasně vidoucí.
 
 # 3379
 
@@ -15934,7 +15934,7 @@ Vojsko každé tam na útěk zahnáno bude, byť mělo spojence.
 
 # 3982
 
-A již před nimi prohlašoval posly za lháře lid Noemův,  ́Ádovci i Faraón, jenž pánem byl kůlů,
+A již před nimi prohlašoval posly za lháře lid Noemův, ́Ádovci i Faraón, jenž pánem byl kůlů,
 
 # 3983
 
@@ -16662,7 +16662,7 @@ Ten, jenž byl věřící, zvolal: "Lide můj! Bojím se, že na vás přijde de
 
 # 4164
 
-a osud podobný tomu, jenž postihl lid Noemův,  ́Ádovce i Thamúdovce a ty, kdož byli po nich. Bůh přece nechce, aby se dála křivda služebníkům Jeho.
+a osud podobný tomu, jenž postihl lid Noemův, ́Ádovce i Thamúdovce a ty, kdož byli po nich. Bůh přece nechce, aby se dála křivda služebníkům Jeho.
 
 # 4165
 
@@ -16930,7 +16930,7 @@ A ustanovil je jako sedm nebes ve dvou dnech a každému nebi pořádek jeho vnu
 
 # 4231
 
-Jestliže se odvrátí, řekni jim: "Já varuji vás před hromobitím podobným tomu, jímž  ́Ádovci a Thamúdovci byli zahubeni."
+Jestliže se odvrátí, řekni jim: "Já varuji vás před hromobitím podobným tomu, jímž ́Ádovci a Thamúdovci byli zahubeni."
 
 # 4232
 
@@ -16938,7 +16938,7 @@ Když poslové k nim přišli zepředu i zezadu hlásajíce, aby neuctívali nik
 
 # 4233
 
-Pokud se  ́Ádovců týká, ti pyšně po zemi chodili, aniž právo na to měli, a říkali: "Kdo silnější je než my mocí svou?" Což neviděli, že Bůh, jenž je stvořil, daleko silnější než oni je mocí? A přitom popírali ještě znamení Naše.
+Pokud se ́Ádovců týká, ti pyšně po zemi chodili, aniž právo na to měli, a říkali: "Kdo silnější je než my mocí svou?" Což neviděli, že Bůh, jenž je stvořil, daleko silnější než oni je mocí? A přitom popírali ještě znamení Naše.
 
 # 4234
 
@@ -17102,7 +17102,7 @@ Há mím
 
 # 4274
 
-`ajn sín qáf!
+\`ajn sín qáf!
 
 # 4275
 
@@ -18130,7 +18130,7 @@ A v den, kdy budou předvedeni ti, kdož nevěřili, k ohni, bude jim řečeno: 
 
 # 4531
 
-A zmiň se o bratru  ́Ádovců, když varoval lid svůj v zemi přesypů a byli již varovatelé před ním i po něm. "Neuctívejte kromě Boha nikoho! Já věru bojím se pro vás trestu dne nesmírného!"
+A zmiň se o bratru ́Ádovců, když varoval lid svůj v zemi přesypů a byli již varovatelé před ním i po něm. "Neuctívejte kromě Boha nikoho! Já věru bojím se pro vás trestu dne nesmírného!"
 
 # 4532
 
@@ -19342,7 +19342,7 @@ z kapky semene vystříknuté,
 
 # 4834
 
-že On dávným  ́Ádovcům zahynout dal
+že On dávným ́Ádovcům zahynout dal
 
 # 4835
 
@@ -19462,7 +19462,7 @@ A učinili jsme Korán snadným pro připomínání; což není nikoho, kdo při
 
 # 4864
 
-A také  ́Ádovci prohlásili za lež Naše znamení a jaký byl Můj trest a Mé varování?
+A také ́Ádovci prohlásili za lež Naše znamení a jaký byl Můj trest a Mé varování?
 
 # 4865
 
@@ -19762,7 +19762,7 @@ A až se nebesa rozpoltí a jak čerstvě stažená kůže zrudnou,
 
 # 4939
 
-- které z dobrodiní Pána svého můžete popírat? -
+\- které z dobrodiní Pána svého můžete popírat? -
 
 # 4940
 
@@ -19798,7 +19798,7 @@ A kdo se postavení Pána svého obával, ten dvě zahrady dostane,
 
 # 4948
 
-- které z dobrodiní Pána svého můžete popírat? -
+\- které z dobrodiní Pána svého můžete popírat? -
 
 # 4949
 
@@ -19806,7 +19806,7 @@ dvě zahrady plné listnatého větvoví
 
 # 4950
 
-- které z dobrodiní Pána svého můžete popírat? -
+\- které z dobrodiní Pána svého můžete popírat? -
 
 # 4951
 
@@ -19814,7 +19814,7 @@ a v obou z nich dva prameny potekou
 
 # 4952
 
-- které z dobrodiní Pána svého můžete popírat? -
+\- které z dobrodiní Pána svého můžete popírat? -
 
 # 4953
 
@@ -19838,7 +19838,7 @@ Tam dívky sklopených zraků, jichž předtím ani muž, ani džin se nedotkl, 
 
 # 4958
 
-- které z dobrodiní Pána svého můžete popírat? -
+\- které z dobrodiní Pána svého můžete popírat? -
 
 # 4959
 
@@ -19862,7 +19862,7 @@ A kromě těch dvou tam budou dvě zahrady jiné
 
 # 4964
 
-- které z dobrodiní Pána svého můžete popírat? -
+\- které z dobrodiní Pána svého můžete popírat? -
 
 # 4965
 
@@ -19870,7 +19870,7 @@ dvě zahrady tmavě zelené
 
 # 4966
 
-- které z dobrodiní Pána svého můžete popírat? -
+\- které z dobrodiní Pána svého můžete popírat? -
 
 # 4967
 
@@ -19894,7 +19894,7 @@ Tam dívky budou rozkošné a překrásné
 
 # 4972
 
-- které z dobrodiní Pána svého můžete popírat? -
+\- které z dobrodiní Pána svého můžete popírat? -
 
 # 4973
 
@@ -19902,7 +19902,7 @@ velkých černých očí, ve stanech střežené
 
 # 4974
 
-- které z dobrodiní Pána svého můžete popírat? -
+\- které z dobrodiní Pána svého můžete popírat? -
 
 # 4975
 
@@ -20262,7 +20262,7 @@ zatímco k tomu přihlížíte
 
 # 5064
 
-- a My k tomu jsme blíže než vy, vy však Nás nevidíte.
+\- a My k tomu jsme blíže než vy, vy však Nás nevidíte.
 
 # 5065
 
@@ -20970,7 +20970,7 @@ A Bůh uvádí těm, kdož uvěřili, příklad ženy Faraónovy, když zvolala:
 
 # 5241
 
-A uvádí i Marii, dceru  ́Imránovu, jež panenství své střežila a do níž jsme vdechli ducha Svého. A za pravdivá prohlásila slova Pána svého i Písma Jeho a patřila mezi Bohu pokorně oddané.
+A uvádí i Marii, dceru ́Imránovu, jež panenství své střežila a do níž jsme vdechli ducha Svého. A za pravdivá prohlásila slova Pána svého i Písma Jeho a patřila mezi Bohu pokorně oddané.
 
 # 5242
 
@@ -21146,7 +21146,7 @@ násilníka, a k tomu původu pochybného
 
 # 5285
 
-- i když je majetný a syny obdařen!
+\- i když je majetný a syny obdařen!
 
 # 5286
 
@@ -21314,7 +21314,7 @@ Víš ty vůbec, co je to nevyhnutelná?
 
 # 5327
 
-Jak Thamúdovci, tak i  ́Ádovci roztříšťující za lež pokládali.
+Jak Thamúdovci, tak i ́Ádovci roztříšťující za lež pokládali.
 
 # 5328
 
@@ -21322,7 +21322,7 @@ Co Thamúdovců se týče, ti byli ranou hromovou zahubeni,
 
 # 5329
 
-zatímco  ́Ádovci byli vichřicí svištivou, nezkrotnou skoseni.
+zatímco ́Ádovci byli vichřicí svištivou, nezkrotnou skoseni.
 
 # 5330
 
@@ -21618,7 +21618,7 @@ a trestu Pána svého se obávají
 
 # 5403
 
-- vždyť před trestem Pána tvého nikdo jist si není -
+\- vždyť před trestem Pána tvého nikdo jist si není -
 
 # 5404
 
@@ -23206,7 +23206,7 @@ a chmurou pokryté
 
 # 5800
 
-- to věru budou nevěřící, ti hříšníci!
+\- to věru budou nevěřící, ti hříšníci!
 
 # 5801
 
@@ -23470,11 +23470,11 @@ a posléze jim bude řečeno: "Hle, zde máte, co nazývali jste výmyslem!"
 
 # 5866
 
-Však pozor! Vždyť věru kniha zbožných je v  ́Illijún!
+Však pozor! Vždyť věru kniha zbožných je v ́Illijún!
 
 # 5867
 
-Víš ty vůbec, co je to  ́Illijún?
+Víš ty vůbec, co je to ́Illijún?
 
 # 5868
 
@@ -24002,7 +24002,7 @@ Což není v tom pro člověka rozvážného přísaha?
 
 # 5999
 
-Neviděls, co učinil Pán tvůj  ́Ádovcům
+Neviděls, co učinil Pán tvůj ́Ádovcům
 
 # 6000
 
@@ -24106,7 +24106,7 @@ Hle, přísahám při tomto městě
 
 # 6025
 
-- ty volně si žiješ v tomto městě -
+\- ty volně si žiješ v tomto městě -
 
 # 6026
 

@@ -7,7 +7,6 @@ import (
 	"os"
 	"path/filepath"
 
-	md "github.com/JohannesKaufmann/html-to-markdown"
 	"github.com/urfave/cli/v2"
 )
 
@@ -88,10 +87,9 @@ func cliAction(c *cli.Context) error {
 	}
 
 	// Parse all surah info
-	mdc := md.NewConverter("", true, nil)
 	listSurahInfo := map[string]*AllSurahInfoOutput{}
 	for _, lang := range languages {
-		data, err := parseAllSurahInfo(cacheDir, lang, mdc)
+		data, err := parseAllSurahInfo(cacheDir, lang)
 		if err != nil {
 			return err
 		} else if data != nil {

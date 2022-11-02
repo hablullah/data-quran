@@ -20262,7 +20262,7 @@ And ye are at that moment looking
 
 # 5064
 
-- And We are nearer unto him than ye are, but ye see not -
+\- And We are nearer unto him than ye are, but ye see not -
 
 # 5065
 
@@ -22094,7 +22094,7 @@ Him shall I fling unto the burning.
 
 # 5522
 
-- Ah, what will convey unto thee what that burning is! -
+\- Ah, what will convey unto thee what that burning is! -
 
 # 5523
 
@@ -23738,11 +23738,11 @@ By the heaven and the Morning Star
 
 # 5933
 
-- Ah, what will tell thee what the Morning Star is!
+\- Ah, what will tell thee what the Morning Star is!
 
 # 5934
 
-- The piercing Star!
+\- The piercing Star!
 
 # 5935
 

@@ -138,7 +138,7 @@ Y anuncia a aquellos que creen y actúan rectamente que les aguardan jardines ce
 
 # 33
 
-Verdaderamente, Dios no se avergüenza [para expresar Su mensaje] de poner como ejemplo a un mosquito o algo mayor. Aquellos que creen, saben que, ciertamente, es la Verdad que procede de su Señor. En cuanto a los que no creen, dicen: «¿Qué es lo que pretende Dios con ese ejemplo?» Extravía con él a muchos y guía con él a muchos. Pero no se extravían con él sino los transgresores.
+Verdaderamente, Dios no se avergüenza \[para expresar Su mensaje\] de poner como ejemplo a un mosquito o algo mayor. Aquellos que creen, saben que, ciertamente, es la Verdad que procede de su Señor. En cuanto a los que no creen, dicen: «¿Qué es lo que pretende Dios con ese ejemplo?» Extravía con él a muchos y guía con él a muchos. Pero no se extravían con él sino los transgresores.
 
 # 34
 
@@ -154,7 +154,7 @@ Aquellos que violan el pacto establecido con Dios después de haberlo aceptado, 
 
 # 37
 
-Y [recuerda] cuando tu Señor dijo a los ángeles: «En verdad, pondré en la Tierra un sucesor.» Dijeron: «¿Vas a poner en ella a quien corromperá y derramará la sangre, mientras que nosotros Te glorificamos con alabanzas y proclamamos Tu santidad?» Dijo Dios: «En verdad, Yo sé lo que vosotros no sabéis.»
+Y \[recuerda\] cuando tu Señor dijo a los ángeles: «En verdad, pondré en la Tierra un sucesor.» Dijeron: «¿Vas a poner en ella a quien corromperá y derramará la sangre, mientras que nosotros Te glorificamos con alabanzas y proclamamos Tu santidad?» Dijo Dios: «En verdad, Yo sé lo que vosotros no sabéis.»
 
 # 38
 
@@ -170,7 +170,7 @@ Dijo Él entonces: «¡Oh Adán! ¡Infórmales de sus nombres!» Y cuando Adán 
 
 # 41
 
-Y [recuerda] cuando Nosotros dijimos a los ángeles: «¡Prosternaos ante Adán!» y todos ellos se prosternaron excepto Iblís, que se negó y se llenó de arrogancia, y fue de los que no creen.
+Y \[recuerda\] cuando Nosotros dijimos a los ángeles: «¡Prosternaos ante Adán!» y todos ellos se prosternaron excepto Iblís, que se negó y se llenó de arrogancia, y fue de los que no creen.
 
 # 42
 
@@ -210,7 +210,7 @@ Haced la oración, dad la limosna obligatoria y inclinaos con los que se inclina
 
 # 51
 
-¿Acaso ordenáis a la gente que sea virtuosa y vosotros mismos lo olvidáis, a pesar de que recitáis la Escritura [Sagrada]? ¿Es que no razonáis?
+¿Acaso ordenáis a la gente que sea virtuosa y vosotros mismos lo olvidáis, a pesar de que recitáis la Escritura \[Sagrada\]? ¿Es que no razonáis?
 
 # 52
 
@@ -230,15 +230,15 @@ Y temed un día en el que un alma no pueda hacer nada por otra y en el que no le
 
 # 56
 
-Y [recordad] cuando os salvamos de la gente del Faraón, que os sometían a terribles castigos, degollando a vuestros hijos varones y dejando con vida a vuestras mujeres. Con ello vuestro Señor os sometió a una prueba enorme.
+Y \[recordad\] cuando os salvamos de la gente del Faraón, que os sometían a terribles castigos, degollando a vuestros hijos varones y dejando con vida a vuestras mujeres. Con ello vuestro Señor os sometió a una prueba enorme.
 
 # 57
 
-Y [recordad] cuando dividimos el mar para vosotros y os salvamos, y ahogamos a la gente del Faraón ante vuestros ojos.
+Y \[recordad\] cuando dividimos el mar para vosotros y os salvamos, y ahogamos a la gente del Faraón ante vuestros ojos.
 
 # 58
 
-Y [recordad] cuando nos citamos con Moisés durante cuarenta noches y, en su ausencia, vosotros adorasteis al becerro, obrando injustamente.
+Y \[recordad\] cuando nos citamos con Moisés durante cuarenta noches y, en su ausencia, vosotros adorasteis al becerro, obrando injustamente.
 
 # 59
 
@@ -246,15 +246,15 @@ Aunque, tras aquello, os perdonamos; para que, quizás de esa manera, fueseis ag
 
 # 60
 
-Y [recordad] cuando dimos a Moisés la Escritura [Sagrada] y el Criterio. Quizás así fueseis bien guiados.
+Y \[recordad\] cuando dimos a Moisés la Escritura \[Sagrada\] y el Criterio. Quizás así fueseis bien guiados.
 
 # 61
 
-Y [recordad] cuando Moisés dijo a su pueblo: «¡Oh pueblo mío! En verdad, os habéis oprimido a vosotros mismos eligiendo el becerro. Volveos, pues, arrepentidos a vuestro Creador y mataos a vosotros mismos. Eso es mejor para vosotros ante vuestro Creador y quizás así os perdone. En verdad, Él es el Perdonador, el Misericordiosísimo con los creyentes.»
+Y \[recordad\] cuando Moisés dijo a su pueblo: «¡Oh pueblo mío! En verdad, os habéis oprimido a vosotros mismos eligiendo el becerro. Volveos, pues, arrepentidos a vuestro Creador y mataos a vosotros mismos. Eso es mejor para vosotros ante vuestro Creador y quizás así os perdone. En verdad, Él es el Perdonador, el Misericordiosísimo con los creyentes.»
 
 # 62
 
-Y [recordad] cuando le dijisteis: «¡Oh Moisés! No te creeremos hasta que no veamos a Dios manifiestamente.» Y el rayo os alcanzó ante vuestros propios ojos.
+Y \[recordad\] cuando le dijisteis: «¡Oh Moisés! No te creeremos hasta que no veamos a Dios manifiestamente.» Y el rayo os alcanzó ante vuestros propios ojos.
 
 # 63
 
@@ -274,11 +274,11 @@ Pero, aquellos que eran injustos cambiaron la palabra por otra distinta. cambiar
 
 # 67
 
-Y [recordad] cuando Moisés pidió agua para su pueblo y le dijimos: «¡Golpea con tu bastón la roca!» Y brotaron de ella doce fuentes. Cada tribu supo con certeza de cuál beber. «¡Comed y bebed de la provisión de Dios y no causéis daño en la Tierra, corrompiendo!»
+Y \[recordad\] cuando Moisés pidió agua para su pueblo y le dijimos: «¡Golpea con tu bastón la roca!» Y brotaron de ella doce fuentes. Cada tribu supo con certeza de cuál beber. «¡Comed y bebed de la provisión de Dios y no causéis daño en la Tierra, corrompiendo!»
 
 # 68
 
-Y cuando dijisteis: «¡Oh Moisés! No soportamos comer siempre lo mismo. Ruega por nosotros a tu Señor que haga salir para nosotros de lo que da la tierra, algo de legumbres, verduras, pepinos, ajos, lentejas y cebollas.» [Moisés] Dijo: «¿Cambiaréis lo que es mejor por lo que es peor? ¡Bajad a una ciudad! ¡Allí encontraréis lo que queréis!» Fueron golpeados por la humillación y la miseria e incurrieron en la ira de Dios por desmentir las indicaciones de Dios y matar a los profetas sin derecho. Eso les ocurrió porque desobedecieron y fueron transgresores.
+Y cuando dijisteis: «¡Oh Moisés! No soportamos comer siempre lo mismo. Ruega por nosotros a tu Señor que haga salir para nosotros de lo que da la tierra, algo de legumbres, verduras, pepinos, ajos, lentejas y cebollas.» \[Moisés\] Dijo: «¿Cambiaréis lo que es mejor por lo que es peor? ¡Bajad a una ciudad! ¡Allí encontraréis lo que queréis!» Fueron golpeados por la humillación y la miseria e incurrieron en la ira de Dios por desmentir las indicaciones de Dios y matar a los profetas sin derecho. Eso les ocurrió porque desobedecieron y fueron transgresores.
 
 # 69
 
@@ -286,7 +286,7 @@ En verdad, los creyentes y los judíos, los cristianos y los sabeos, quienes cre
 
 # 70
 
-Y (recordad) cuando aceptamos de vosotros el pacto y elevamos sobre vosotros el monte Sinaí [y dijimos:] «¡Coged con fuerza lo que os hemos entregado y recordad lo que contiene! Quizás así temáis disgustar a Dios.»
+Y (recordad) cuando aceptamos de vosotros el pacto y elevamos sobre vosotros el monte Sinaí \[y dijimos:\] «¡Coged con fuerza lo que os hemos entregado y recordad lo que contiene! Quizás así temáis disgustar a Dios.»
 
 # 71
 
@@ -302,7 +302,7 @@ E hicimos esto como un ejemplo para las generaciones presentes y futuras y como 
 
 # 74
 
-Y [recuerda] cuando Moisés dijo a su pueblo: «Dios os ordena que sacrifiquéis una vaca.» Dijeron: «¿Te burlas de nosotros?» Dijo: «¡Dios me proteja de ser como los ignorantes!»
+Y \[recuerda\] cuando Moisés dijo a su pueblo: «Dios os ordena que sacrifiquéis una vaca.» Dijeron: «¿Te burlas de nosotros?» Dijo: «¡Dios me proteja de ser como los ignorantes!»
 
 # 75
 
@@ -346,11 +346,11 @@ Y, cuando se encuentran con aquellos que creen, dicen: «¡Creemos!”, pero cua
 
 # 85
 
-Entre ellos hay ignorantes que no conocen la Escritura [Sagrada]. No hacen más que suponer.
+Entre ellos hay ignorantes que no conocen la Escritura \[Sagrada\]. No hacen más que suponer.
 
 # 86
 
-¡Ay! de aquellos que escriben con sus manos la Escritura [Sagrada] y luego dicen: «¡Esto procede de Dios!», vendiéndolo por poco precio. ¡Ay de ellos por lo que escribieron con sus manos! y ¡Ay de ellos por lo que han obtenido!
+¡Ay! de aquellos que escriben con sus manos la Escritura \[Sagrada\] y luego dicen: «¡Esto procede de Dios!», vendiéndolo por poco precio. ¡Ay de ellos por lo que escribieron con sus manos! y ¡Ay de ellos por lo que han obtenido!
 
 # 87
 
@@ -366,15 +366,15 @@ Pero aquellos que creen y obran rectamente, esos son la gente del Jardín. En é
 
 # 90
 
-Y [recuerda] cuando hicimos un pacto con los Hijos de Israel: «Solamente adoraréis a Dios. Sed buenos con vuestros padres, con vuestros familiares, con los huérfanos y los necesitados. Hablad bien a las personas. Estableced la oración y cumplid con la limosna obligatoria.» Después, excepto unos pocos, os apartasteis e incumplisteis.
+Y \[recuerda\] cuando hicimos un pacto con los Hijos de Israel: «Solamente adoraréis a Dios. Sed buenos con vuestros padres, con vuestros familiares, con los huérfanos y los necesitados. Hablad bien a las personas. Estableced la oración y cumplid con la limosna obligatoria.» Después, excepto unos pocos, os apartasteis e incumplisteis.
 
 # 91
 
-Y [recordad] cuando concertamos un pacto con vosotros: «¡No derramaréis vuestra sangre y no os expulsaréis unos a otros de vuestras casas.» Lo aceptasteis y sois testigos de ello.
+Y \[recordad\] cuando concertamos un pacto con vosotros: «¡No derramaréis vuestra sangre y no os expulsaréis unos a otros de vuestras casas.» Lo aceptasteis y sois testigos de ello.
 
 # 92
 
-Pero, sois vosotros mismos los que os matáis unos a otros y expulsáis a algunos de los vuestros de sus casas, ayudándoos entre vosotros a cometer este pecado y esta violación contra ellos. En cambio, cuando llegan a vosotros prisioneros de otros, los rescatáis, cuando vosotros mismos los habíais expulsado aunque os estaba prohibido hacerlo. ¿Acaso creéis en parte de la Escritura [Sagrada] y descreéis de otra parte? Quien así actúe de entre vosotros no obtendrá más recompensa que la desgracia en esta vida, y el Día del Levantamiento seréis sometidos al peor de los castigos. Dios no está desatento de lo que hacéis.
+Pero, sois vosotros mismos los que os matáis unos a otros y expulsáis a algunos de los vuestros de sus casas, ayudándoos entre vosotros a cometer este pecado y esta violación contra ellos. En cambio, cuando llegan a vosotros prisioneros de otros, los rescatáis, cuando vosotros mismos los habíais expulsado aunque os estaba prohibido hacerlo. ¿Acaso creéis en parte de la Escritura \[Sagrada\] y descreéis de otra parte? Quien así actúe de entre vosotros no obtendrá más recompensa que la desgracia en esta vida, y el Día del Levantamiento seréis sometidos al peor de los castigos. Dios no está desatento de lo que hacéis.
 
 # 93
 
@@ -382,7 +382,7 @@ Esos son los que han comprado la vida de este mundo al precio de la Otra. No se 
 
 # 94
 
-Verdaderamente, entregamos a Moisés la Escritura [Sagrada] y después de él seguimos enviando profetas. Y dimos a Jesús hijo de María las pruebas claras y le fortalecimos con el Espíritu Santo. ¿Es que, cada vez que os lleguen Mensajeros que vuestro ego no desea, os mostraréis arrogantes? Habéis desmentido a algunos y a otros los habéis matado.
+Verdaderamente, entregamos a Moisés la Escritura \[Sagrada\] y después de él seguimos enviando profetas. Y dimos a Jesús hijo de María las pruebas claras y le fortalecimos con el Espíritu Santo. ¿Es que, cada vez que os lleguen Mensajeros que vuestro ego no desea, os mostraréis arrogantes? Habéis desmentido a algunos y a otros los habéis matado.
 
 # 95
 
@@ -406,7 +406,7 @@ Cuando se les dice: «¡Creed en la revelación que Dios hizo descender!», dice
 
 # 100
 
-Y [recordad] cuando concertamos un pacto con vosotros y elevamos sobre vosotros el monte Sinaí. [Dijimos]: «¡Aferraos con fuerza a lo que os hemos otorgado y escuchad!» Dijeron: «¡Escuchamos y desobedecemos!» Se empaparon sus corazones [de amor] por el ternero, debido a su falta de fe. [Diles]: «¡Que malo es lo que os ordena con ello vuestra fe, si sois creyentes!»
+Y \[recordad\] cuando concertamos un pacto con vosotros y elevamos sobre vosotros el monte Sinaí. \[Dijimos\]: «¡Aferraos con fuerza a lo que os hemos otorgado y escuchad!» Dijeron: «¡Escuchamos y desobedecemos!» Se empaparon sus corazones \[de amor\] por el ternero, debido a su falta de fe. \[Diles\]: «¡Que malo es lo que os ordena con ello vuestra fe, si sois creyentes!»
 
 # 101
 
@@ -422,11 +422,11 @@ Descubrirás que son los más ávidos de vivir, más incluso que los idólatras.
 
 # 104
 
-Di: «Quien sea enemigo de Gabriel [Dios lo será de él]» En verdad, él fue quien trajo [el Corán] a tu corazón, con el permiso de Dios, confirmando lo que él mismo tiene en sus manos y como una guía y buena nueva para los creyentes.»
+Di: «Quien sea enemigo de Gabriel \[Dios lo será de él\]» En verdad, él fue quien trajo \[el Corán\] a tu corazón, con el permiso de Dios, confirmando lo que él mismo tiene en sus manos y como una guía y buena nueva para los creyentes.»
 
 # 105
 
-Quien sea enemigo de Dios, de Sus ángeles, de Sus Mensajeros, de Gabriel y del [ángel] Miguel... [sepa que] en verdad, Dios es enemigo de los que no creen.
+Quien sea enemigo de Dios, de Sus ángeles, de Sus Mensajeros, de Gabriel y del \[ángel\] Miguel... \[sepa que\] en verdad, Dios es enemigo de los que no creen.
 
 # 106
 
@@ -438,7 +438,7 @@ Ciertamente, hicimos descender sobre ti signos evidentes y no descreen de ellos 
 
 # 108
 
-Y cuando llegó a ellos un Mensajero de parte de Dios confirmando lo que tenían, un grupo de aquellos a los que les había sido dada la Escritura [Sagrada] rechazaron la Escritura de Dios, dándole la espalda, como si no supieran [que es la Verdad].
+Y cuando llegó a ellos un Mensajero de parte de Dios confirmando lo que tenían, un grupo de aquellos a los que les había sido dada la Escritura \[Sagrada\] rechazaron la Escritura de Dios, dándole la espalda, como si no supieran \[que es la Verdad\].
 
 # 109
 
@@ -454,7 +454,7 @@ Y si ellos hubieran creído y temido desagradar a Dios... La recompensa que hay 
 
 # 112
 
-Aquellos de entre las gentes de la Escritura [Sagrada] que no creen y los idólatras, no desean que descienda sobre vosotros ningún bien procedente de vuestro Señor, pero Dios concede Su misericordia a quien Él quiere. Dios es el Dueño del Favor Inmenso.
+Aquellos de entre las gentes de la Escritura \[Sagrada\] que no creen y los idólatras, no desean que descienda sobre vosotros ningún bien procedente de vuestro Señor, pero Dios concede Su misericordia a quien Él quiere. Dios es el Dueño del Favor Inmenso.
 
 # 113
 
@@ -470,7 +470,7 @@ No abrogamos ningún versículo o hacemos que se olvide, sin aportar algo mejor 
 
 # 116
 
-Tras haberles sido mostrada claramente la Verdad, muchos de entre las gentes de la Escritura [Sagrada] desearían, por pura envidia, que volvierais a la incredulidad después de haber creído. Perdonad, no obstante y no les prestéis atención, hasta que Dios traiga Su decreto. En verdad, Dios tiene poder sobre todas las cosas.
+Tras haberles sido mostrada claramente la Verdad, muchos de entre las gentes de la Escritura \[Sagrada\] desearían, por pura envidia, que volvierais a la incredulidad después de haber creído. Perdonad, no obstante y no les prestéis atención, hasta que Dios traiga Su decreto. En verdad, Dios tiene poder sobre todas las cosas.
 
 # 117
 
@@ -482,11 +482,11 @@ Y dijeron: «Sólo entrará en el Jardín quien sea judío o cristiano.» Eso es
 
 # 119
 
-¡Sí! ¡Quien se someta a Dios plenamente y haga el bien, tendrá su recompensa junto a su Señor! [Quienes sean así] No tendrán que temer y no estarán tristes.
+¡Sí! ¡Quien se someta a Dios plenamente y haga el bien, tendrá su recompensa junto a su Señor! \[Quienes sean así\] No tendrán que temer y no estarán tristes.
 
 # 120
 
-Los judíos dicen: «Los cristianos no están en la Verdad.» Y los cristianos dicen: «Los judíos no están en la Verdad» y eso, a pesar de que todos ellos leen la misma Escritura [Sagrada]. Hablan igual que quienes nada saben. El Día del Levantamiento Dios juzgará entre ellos sobre aquello en lo que no se ponen de acuerdo.
+Los judíos dicen: «Los cristianos no están en la Verdad.» Y los cristianos dicen: «Los judíos no están en la Verdad» y eso, a pesar de que todos ellos leen la misma Escritura \[Sagrada\]. Hablan igual que quienes nada saben. El Día del Levantamiento Dios juzgará entre ellos sobre aquello en lo que no se ponen de acuerdo.
 
 # 121
 
@@ -518,7 +518,7 @@ Ni los judíos ni los cristianos estarán satisfechos de ti hasta que no sigas s
 
 # 128
 
-Aquellos a quienes Nosotros dimos la Escritura [Sagrada] y la leen como debe ser leída, esos son los que creen en Él. Y quienes descreen de Él, esos son los perdedores.
+Aquellos a quienes Nosotros dimos la Escritura \[Sagrada\] y la leen como debe ser leída, esos son los que creen en Él. Y quienes descreen de Él, esos son los perdedores.
 
 # 129
 
@@ -530,19 +530,19 @@ y temed un día en el que nadie pueda favorecer a nadie y en el que no serán ac
 
 # 131
 
-Y [recuerda] cuando su Señor puso a prueba a Abraham con tareas que él cumplió. Dijo Él: «En verdad, te pondré como Imam para los hombres.» [Abraham] dijo: «¿Y a mi descendencia?» [Dios] dijo: «Mi alianza no incluirá a [quienes sean] opresores.»
+Y \[recuerda\] cuando su Señor puso a prueba a Abraham con tareas que él cumplió. Dijo Él: «En verdad, te pondré como Imam para los hombres.» \[Abraham\] dijo: «¿Y a mi descendencia?» \[Dios\] dijo: «Mi alianza no incluirá a \[quienes sean\] opresores.»
 
 # 132
 
-Y [recuerda] cuando establecimos la Casa como un lugar de reunión y de seguridad para las gentes. «¡Tomad el sitio de Abraham como un lugar de oración!» Y encargamos a Abraham e Ismael que purificasen Mi casa para los que la circunvalan y los que permanecen en ella en adoración y los que inclinan su cabeza y los que ponen su frente en el suelo.
+Y \[recuerda\] cuando establecimos la Casa como un lugar de reunión y de seguridad para las gentes. «¡Tomad el sitio de Abraham como un lugar de oración!» Y encargamos a Abraham e Ismael que purificasen Mi casa para los que la circunvalan y los que permanecen en ella en adoración y los que inclinan su cabeza y los que ponen su frente en el suelo.
 
 # 133
 
-Y [recuerda] cuando Abraham dijo: «¡Señor mío! Haz esta tierra segura y provee de frutos a quienes de sus habitantes crean en Dios y en el Último Día.» Dios dijo: «Y a quien no crea le permitiré disfrutar un poco y luego le arrastraré hacia el castigo del Fuego.» ¡Qué mal destino!
+Y \[recuerda\] cuando Abraham dijo: «¡Señor mío! Haz esta tierra segura y provee de frutos a quienes de sus habitantes crean en Dios y en el Último Día.» Dios dijo: «Y a quien no crea le permitiré disfrutar un poco y luego le arrastraré hacia el castigo del Fuego.» ¡Qué mal destino!
 
 # 134
 
-Y [recuerda] cuando Abraham levantó los pilares de la Casa junto con Ismael [y suplicó]: «¡Señor nuestro, acéptanoslo! ¡En verdad, Tú eres Quien todo lo oye, Quien todo lo sabe!»
+Y \[recuerda\] cuando Abraham levantó los pilares de la Casa junto con Ismael \[y suplicó\]: «¡Señor nuestro, acéptanoslo! ¡En verdad, Tú eres Quien todo lo oye, Quien todo lo sabe!»
 
 # 135
 
@@ -550,7 +550,7 @@ Y [recuerda] cuando Abraham levantó los pilares de la Casa junto con Ismael [y 
 
 # 136
 
-«¡Señor nuestro! Desígnales, de entre ellos, un Mensajero que les recite Tus versículos y les enseñe la Escritura [Sagrada], la Sabiduría y les purifique. En verdad, Tú eres el Poderoso, el Sabio.»
+«¡Señor nuestro! Desígnales, de entre ellos, un Mensajero que les recite Tus versículos y les enseñe la Escritura \[Sagrada\], la Sabiduría y les purifique. En verdad, Tú eres el Poderoso, el Sabio.»
 
 # 137
 
@@ -582,7 +582,7 @@ Decid: «Creemos en Dios y en lo que nos fue revelado y en lo que fue revelado a
 
 # 144
 
-Y, si creen en lo mismo que vosotros creéis, estarán, ciertamente, guiados y si dan la espalda estarán, ciertamente, opuestos [a la Verdad] y Dios será suficiente para ti frente a ellos. Él es Quien que todo lo oye, Quien todo lo sabe.
+Y, si creen en lo mismo que vosotros creéis, estarán, ciertamente, guiados y si dan la espalda estarán, ciertamente, opuestos \[a la Verdad\] y Dios será suficiente para ti frente a ellos. Él es Quien que todo lo oye, Quien todo lo sabe.
 
 # 145
 
@@ -610,15 +610,15 @@ Así mismo hemos hecho de vosotros una comunidad moderada, para que seáis testi
 
 # 151
 
-Vemos que, a veces, tornas tu rostro hacia el cielo. Así que te volveremos hacia una Qibla que te satisfaga. Vuelve, pues, tu rostro hacia la Mezquita Sagrada, y donde quiera que estéis, volved vuestros rostros en dirección a ella. Ciertamente, aquellos a quienes les fue dada la Escritura [Sagrada] saben con certeza que esto es la Verdad procedente de vuestro Señor. Y Dios no está descuidado de lo que hacen.
+Vemos que, a veces, tornas tu rostro hacia el cielo. Así que te volveremos hacia una Qibla que te satisfaga. Vuelve, pues, tu rostro hacia la Mezquita Sagrada, y donde quiera que estéis, volved vuestros rostros en dirección a ella. Ciertamente, aquellos a quienes les fue dada la Escritura \[Sagrada\] saben con certeza que esto es la Verdad procedente de vuestro Señor. Y Dios no está descuidado de lo que hacen.
 
 # 152
 
-Aquellos a quienes les fue dada la Escritura [Sagrada] no seguirán tu Qibla aunque vayas a ellos con toda clase de señales, y tú no seguirás la Qibla de ellos, ni unos ni otros seguirán la Qibla del otro. Y, si siguieras sus deseos después del conocimiento que ha venido a ti, serías entonces, ciertamente, uno de los opresores.
+Aquellos a quienes les fue dada la Escritura \[Sagrada\] no seguirán tu Qibla aunque vayas a ellos con toda clase de señales, y tú no seguirás la Qibla de ellos, ni unos ni otros seguirán la Qibla del otro. Y, si siguieras sus deseos después del conocimiento que ha venido a ti, serías entonces, ciertamente, uno de los opresores.
 
 # 153
 
-Aquellos a quienes dimos la Escritura [Sagrada], le conocen como conocen a sus hijos y, ciertamente, un grupo de ellos esconde la Verdad a sabiendas de lo que hacen.
+Aquellos a quienes dimos la Escritura \[Sagrada\], le conocen como conocen a sus hijos y, ciertamente, un grupo de ellos esconde la Verdad a sabiendas de lo que hacen.
 
 # 154
 
@@ -638,7 +638,7 @@ Y, donde quiera que vayas, vuelve tu rostro en dirección a la Mezquita Sagrada 
 
 # 158
 
-Por eso, os hemos enviado un Mensajero de entre vosotros mismos, que os recita Nuestros versículos, os purifica y os enseña la Escritura [Sagrada] y la Sabiduría y os enseña lo que no sabíais.
+Por eso, os hemos enviado un Mensajero de entre vosotros mismos, que os recita Nuestros versículos, os purifica y os enseña la Escritura \[Sagrada\] y la Sabiduría y os enseña lo que no sabíais.
 
 # 159
 
@@ -670,7 +670,7 @@ Ciertamente, algunos de los ritos de Dios son en Safa y Marwa. Por tanto, quién
 
 # 166
 
-A quienes ocultan las pruebas claras y la guía que hicimos descender, después de haberlas explicado claramente a la gente en la Escritura [Sagrada], Dios les maldice y les maldicen los hombres.
+A quienes ocultan las pruebas claras y la guía que hicimos descender, después de haberlas explicado claramente a la gente en la Escritura \[Sagrada\], Dios les maldice y les maldicen los hombres.
 
 # 167
 
@@ -730,7 +730,7 @@ En verdad, Él os ha prohibido la carroña, la sangre, la carne del cerdo y la d
 
 # 181
 
-En verdad, quienes esconden algo de lo que Dios ha revelado de la Escritura [Sagrada] y lo venden por poco precio, no introducen en sus estómagos más que fuego. Dios no les hablará el Día del Levantamiento, ni les purificará y tendrán un castigo doloroso.
+En verdad, quienes esconden algo de lo que Dios ha revelado de la Escritura \[Sagrada\] y lo venden por poco precio, no introducen en sus estómagos más que fuego. Dios no les hablará el Día del Levantamiento, ni les purificará y tendrán un castigo doloroso.
 
 # 182
 
@@ -738,11 +738,11 @@ Esos son los que han vendido la Guía a cambio del extravío y el perdón a camb
 
 # 183
 
-Esto es así porque Dios ha hecho descender la Escritura [Sagrada] con la Verdad. Y, ciertamente, quienes no están de acuerdo con la Escritura [Sagrada] están en una posición muy alejada de la Verdad.
+Esto es así porque Dios ha hecho descender la Escritura \[Sagrada\] con la Verdad. Y, ciertamente, quienes no están de acuerdo con la Escritura \[Sagrada\] están en una posición muy alejada de la Verdad.
 
 # 184
 
-La virtud no consiste en que volváis vuestros rostros hacia Oriente u Occidente. La virtud consiste en creer en Dios y en el Último Día, en los ángeles, en la Escritura [Sagrada] y en los profetas. En dar de los bienes, por mucho amor que se les tenga, a los familiares, a los huérfanos, a los necesitados, a los mendigos, a los viajeros y para liberar esclavos. En hacer la oración, dar la limosna obligatoria, cumplir los compromisos cuando se contraen y en ser pacientes ante las dificultades y las desgracias y en tiempos de peligro. ¡Estos son los sinceros y los temerosos de desagradar a Dios!
+La virtud no consiste en que volváis vuestros rostros hacia Oriente u Occidente. La virtud consiste en creer en Dios y en el Último Día, en los ángeles, en la Escritura \[Sagrada\] y en los profetas. En dar de los bienes, por mucho amor que se les tenga, a los familiares, a los huérfanos, a los necesitados, a los mendigos, a los viajeros y para liberar esclavos. En hacer la oración, dar la limosna obligatoria, cumplir los compromisos cuando se contraen y en ser pacientes ante las dificultades y las desgracias y en tiempos de peligro. ¡Estos son los sinceros y los temerosos de desagradar a Dios!
 
 # 185
 
@@ -778,7 +778,7 @@ El mes de Ramadán, en el cual fue hecho descender el Corán, como una guía par
 
 # 193
 
-Y cuando Mis siervos te pregunten por Mí, [diles que] en verdad, Yo estoy cerca y respondo la súplica del suplicante cuando Me suplica. Por tanto que Me respondan y crean en Mí, para que, quizás así, sean bien dirigidos.
+Y cuando Mis siervos te pregunten por Mí, \[diles que\] en verdad, Yo estoy cerca y respondo la súplica del suplicante cuando Me suplica. Por tanto que Me respondan y crean en Mí, para que, quizás así, sean bien dirigidos.
 
 # 194
 
@@ -886,7 +886,7 @@ La vida de este mundo ha sido embellecida para los que no creen, que se burlan d
 
 # 220
 
-La Humanidad constituía una sola comunidad y después Dios designó a los profetas como portadores de buenas nuevas y advertidores [del castigo] e hizo descender con ellos la Escritura [Sagrada] con la Verdad para que juzgasen entre los hombres en aquello en lo que no se ponían de acuerdo. Después de haber llegado a ellos las pruebas claras, aquellos a los que les fueron dadas no discreparon, excepto algunos por envidia entre ellos. A aquellos que creían, Dios, por su voluntad, les guió a la Verdad de aquello en lo que discrepaban. Dios guía a quien Él quiere al camino recto.
+La Humanidad constituía una sola comunidad y después Dios designó a los profetas como portadores de buenas nuevas y advertidores \[del castigo\] e hizo descender con ellos la Escritura \[Sagrada\] con la Verdad para que juzgasen entre los hombres en aquello en lo que no se ponían de acuerdo. Después de haber llegado a ellos las pruebas claras, aquellos a los que les fueron dadas no discreparon, excepto algunos por envidia entre ellos. A aquellos que creían, Dios, por su voluntad, les guió a la Verdad de aquello en lo que discrepaban. Dios guía a quien Él quiere al camino recto.
 
 # 221
 
@@ -914,11 +914,11 @@ Te preguntan sobre los embriagantes y los juegos de azar. Di: «En ambos hay un 
 
 # 227
 
-sobre esta vida y sobre la otra. Te preguntan sobre los huérfanos. Di: «Mejorar su vida está bien. Y, si mezcláis [vuestros bienes] con los de ellos, [tratadles] como hermanos vuestros.» Dios distingue al corruptor del reformador. Si Dios hubiera querido os lo habría puesto difícil. Dios es, ciertamente, poderoso, sabio.
+sobre esta vida y sobre la otra. Te preguntan sobre los huérfanos. Di: «Mejorar su vida está bien. Y, si mezcláis \[vuestros bienes\] con los de ellos, \[tratadles\] como hermanos vuestros.» Dios distingue al corruptor del reformador. Si Dios hubiera querido os lo habría puesto difícil. Dios es, ciertamente, poderoso, sabio.
 
 # 228
 
-Y no os caséis con las idólatras hasta que crean. Una esclava creyente es mejor que una mujer libre idólatra, aunque ésta os guste más. Y no caséis [a vuestras mujeres] con los idólatras hasta que éstos crean. Un esclavo creyente es mejor que un hombre libre idólatra, aunque éste os guste más. Esos invitan al Fuego y Dios invita al Jardín y al perdón, si Él quiere. Y aclara Sus señales a la gente. ¡Quizás así se dejen amonestar!
+Y no os caséis con las idólatras hasta que crean. Una esclava creyente es mejor que una mujer libre idólatra, aunque ésta os guste más. Y no caséis \[a vuestras mujeres\] con los idólatras hasta que éstos crean. Un esclavo creyente es mejor que un hombre libre idólatra, aunque éste os guste más. Esos invitan al Fuego y Dios invita al Jardín y al perdón, si Él quiere. Y aclara Sus señales a la gente. ¡Quizás así se dejen amonestar!
 
 # 229
 
@@ -950,7 +950,7 @@ Las divorciadas deberán esperar tres menstruaciones completas y no es lícito p
 
 # 236
 
-El divorcio [de la misma esposa es permisible] dos veces. Así pues, o se la toma tratándola como es debido o se la deja ir buenamente. Y no es lícito para vosotros que toméis nada de lo que les disteis, excepto que ambos teman no respetar los límites impuestos por Dios. Pero si teméis que no respeten los límites impuestos por Dios, no hay inconveniente para ninguno de los dos en que ella obtenga su libertad compensando al esposo. Esas son las leyes de Dios ¡No las violéis! Y quienes violen las leyes de Dios serán los opresores.
+El divorcio \[de la misma esposa es permisible\] dos veces. Así pues, o se la toma tratándola como es debido o se la deja ir buenamente. Y no es lícito para vosotros que toméis nada de lo que les disteis, excepto que ambos teman no respetar los límites impuestos por Dios. Pero si teméis que no respeten los límites impuestos por Dios, no hay inconveniente para ninguno de los dos en que ella obtenga su libertad compensando al esposo. Esas son las leyes de Dios ¡No las violéis! Y quienes violen las leyes de Dios serán los opresores.
 
 # 237
 
@@ -958,7 +958,7 @@ Y si la divorcia de nuevo, ya no será lícita para él tras ello, hasta que se 
 
 # 238
 
-Y, cuando divorciéis a vuestras mujeres y éstas hayan cumplido su plazo de espera, tomadlas como es debido o dejadlas ir como es debido, pero no las retengáis causándoles molestias, transgrediendo las leyes de Dios, pues, quien actúe así, será injusto consigo mismo. No toméis las señales de Dios a burla y recordad la bendición de Dios para vosotros y lo que Él os reveló de la Escritura [Sagrada] y de la Sabiduría, para advertiros con ello. Temed a Dios y sabed que Dios tiene conocimiento de todas las cosas.
+Y, cuando divorciéis a vuestras mujeres y éstas hayan cumplido su plazo de espera, tomadlas como es debido o dejadlas ir como es debido, pero no las retengáis causándoles molestias, transgrediendo las leyes de Dios, pues, quien actúe así, será injusto consigo mismo. No toméis las señales de Dios a burla y recordad la bendición de Dios para vosotros y lo que Él os reveló de la Escritura \[Sagrada\] y de la Sabiduría, para advertiros con ello. Temed a Dios y sabed que Dios tiene conocimiento de todas las cosas.
 
 # 239
 
@@ -974,7 +974,7 @@ Y, las esposas de quienes fallezcan deberán esperar cuatro meses y diez días y
 
 # 242
 
-Y no cometéis falta si insinuáis a las mujeres vuestra intención de contraer matrimonio o lo guardáis escondido en vuestras almas. Dios sabe que pronto pensaréis en ellas [para el matrimonio]. Pero no les prometáis nada en secreto. Mejor, habladles como es debido y no formalicéis el contrato de matrimonio hasta que no concluya su periodo de espera. Y sabed que Dios conoce lo que hay en vuestras almas. Tened, pues, cuidado de Él. Pero sabed que Dios es perdonador, indulgente.
+Y no cometéis falta si insinuáis a las mujeres vuestra intención de contraer matrimonio o lo guardáis escondido en vuestras almas. Dios sabe que pronto pensaréis en ellas \[para el matrimonio\]. Pero no les prometáis nada en secreto. Mejor, habladles como es debido y no formalicéis el contrato de matrimonio hasta que no concluya su periodo de espera. Y sabed que Dios conoce lo que hay en vuestras almas. Tened, pues, cuidado de Él. Pero sabed que Dios es perdonador, indulgente.
 
 # 243
 
@@ -982,11 +982,11 @@ No cometéis falta si divorciáis a las mujeres que aun no habéis tocado ni asi
 
 # 244
 
-Y, si las divorciáis antes de haberlas tocado pero después de haberles asignado dote, entonces [entregadles] la mitad de lo asignado, excepto que ellas, o aquel en cuyas manos esté el contrato de matrimonio, renuncien a ello. Y renunciar está más cerca del temor de Dios. Y no olvidéis favoreceros entre vosotros. Ciertamente, Dios observa lo que hacéis.
+Y, si las divorciáis antes de haberlas tocado pero después de haberles asignado dote, entonces \[entregadles\] la mitad de lo asignado, excepto que ellas, o aquel en cuyas manos esté el contrato de matrimonio, renuncien a ello. Y renunciar está más cerca del temor de Dios. Y no olvidéis favoreceros entre vosotros. Ciertamente, Dios observa lo que hacéis.
 
 # 245
 
-Cuidad vuestras oraciones y, [especialmente], la oración del medio, y permaneced ante Dios con humildad.
+Cuidad vuestras oraciones y, \[especialmente\], la oración del medio, y permaneced ante Dios con humildad.
 
 # 246
 
@@ -1018,7 +1018,7 @@ Así os explica Dios sus versículos. Quizás así razonéis.
 
 # 253
 
-Acaso no has visto a los notables de los Hijos de Israel cuando, después de Moisés, le dijeron a su profeta: «Desígnanos un rey para que luchemos por la causa de Dios.» Él dijo: «Puede que no acudáis al combate si se os convoca a él.» Ellos dijeron: «¿Cómo no vamos a combatir en la senda de Dios cuando se nos ha expulsado de nuestras casas y [alejado] de nuestros hijos?» Pero cuando se les ordenó que combatieran, excepto unos pocos, todos dieron la espalda. Dios conoce bien a los injustos.
+Acaso no has visto a los notables de los Hijos de Israel cuando, después de Moisés, le dijeron a su profeta: «Desígnanos un rey para que luchemos por la causa de Dios.» Él dijo: «Puede que no acudáis al combate si se os convoca a él.» Ellos dijeron: «¿Cómo no vamos a combatir en la senda de Dios cuando se nos ha expulsado de nuestras casas y \[alejado\] de nuestros hijos?» Pero cuando se les ordenó que combatieran, excepto unos pocos, todos dieron la espalda. Dios conoce bien a los injustos.
 
 # 254
 
@@ -1042,7 +1042,7 @@ Y les derrotaron, con el permiso de Dios. David mató a Goliat y Dios le entreg�
 
 # 259
 
-Estos son los versículos de Dios, conteniendo la Verdad [de lo que sucedió], que Nosotros recitamos para ti. Y, ciertamente, [ello es una señal de que tú] eres uno de los Mensajeros.
+Estos son los versículos de Dios, conteniendo la Verdad \[de lo que sucedió\], que Nosotros recitamos para ti. Y, ciertamente, \[ello es una señal de que tú\] eres uno de los Mensajeros.
 
 # 260
 
@@ -1074,7 +1074,7 @@ O en aquel que pasó por una ciudad en ruinas, caídas las paredes sobre los tec
 
 # 267
 
-Y [recuerda] cuando Abraham dijo: «¡Señor mío! ¡Muéstrame como das vida a lo que está muerto!» Dijo [Dios]: «¿Acaso no crees?» Respondió: «¡Sí, por supuesto! Es para que mi corazón tenga certeza.» Él [Dios] dijo: «Toma cuatro pájaros. Córtalos en trozos. Luego, pon una parte de ellos en cada montaña. Luego ¡Llámales! Vendrán a ti rápidamente. Y sabe que Dios es poderoso, sabio.»
+Y \[recuerda\] cuando Abraham dijo: «¡Señor mío! ¡Muéstrame como das vida a lo que está muerto!» Dijo \[Dios\]: «¿Acaso no crees?» Respondió: «¡Sí, por supuesto! Es para que mi corazón tenga certeza.» Él \[Dios\] dijo: «Toma cuatro pájaros. Córtalos en trozos. Luego, pon una parte de ellos en cada montaña. Luego ¡Llámales! Vendrán a ti rápidamente. Y sabe que Dios es poderoso, sabio.»
 
 # 268
 
@@ -1098,7 +1098,7 @@ Pero, aquellos que gastan de su riqueza por deseo de agradar a Dios y edificaci�
 
 # 273
 
-¿Desearía alguno de vosotros poseer un jardín de palmeras y viñedos por el que corriesen los arroyos y hubiera toda clase de frutos y que le en el que llegase la vejez siendo sus hijos débiles aún y que un huracán de fuego cayera sobre él [el jardín] y se lo quemara? De esa manera os aclara Dios sus señales. Quizás así reflexionéis.
+¿Desearía alguno de vosotros poseer un jardín de palmeras y viñedos por el que corriesen los arroyos y hubiera toda clase de frutos y que le en el que llegase la vejez siendo sus hijos débiles aún y que un huracán de fuego cayera sobre él \[el jardín\] y se lo quemara? De esa manera os aclara Dios sus señales. Quizás así reflexionéis.
 
 # 274
 
@@ -1174,7 +1174,7 @@ A Dios pertenece lo que hay en los cielos y lo que hay en la Tierra y, tanto si 
 
 # 292
 
-El Mensajero cree en lo que fue hecho descender a él procedente de su Señor y (también) los creyentes. Todos ellos creen en Dios y en Sus ángeles y en Sus Libros y en Sus Mensajeros. No hacemos diferencia entre ninguno de Sus Mensajeros. Y dijeron: «Oímos y obedecimos. [Rogamos] Tu perdón, Señor nuestro. Hacia Ti es el retorno.»
+El Mensajero cree en lo que fue hecho descender a él procedente de su Señor y (también) los creyentes. Todos ellos creen en Dios y en Sus ángeles y en Sus Libros y en Sus Mensajeros. No hacemos diferencia entre ninguno de Sus Mensajeros. Y dijeron: «Oímos y obedecimos. \[Rogamos\] Tu perdón, Señor nuestro. Hacia Ti es el retorno.»
 
 # 293
 
@@ -1190,7 +1190,7 @@ Alif, lam, mim.
 
 # 296
 
-Él hizo descender sobre ti la Escritura [Sagrada] con la Verdad, confirmando las Escrituras anteriores e hizo descender la Torá y el Evangelio
+Él hizo descender sobre ti la Escritura \[Sagrada\] con la Verdad, confirmando las Escrituras anteriores e hizo descender la Torá y el Evangelio
 
 # 297
 
@@ -1206,7 +1206,7 @@ En verdad, ante Dios no queda oculto nada de lo que hay en la Tierra o en el cie
 
 # 300
 
-Él es quien hizo descender sobre ti la Escritura [Sagrada] en la que hay versículos unívocos que son como la Madre de la Escritura [Sagrada] y otros que son equívocos. Aquellos cuyos corazones están desviados siguen los que son equívocos, buscando crear problemas y pretendiendo interpretar su simbolismo. Pero su simbolismo sólo lo conoce Dios. Los arraigados en el conocimiento dicen: «Creemos en Él. Todo procede de nuestro Señor.» Pero no reflexionan más que los dotados de intelecto.
+Él es quien hizo descender sobre ti la Escritura \[Sagrada\] en la que hay versículos unívocos que son como la Madre de la Escritura \[Sagrada\] y otros que son equívocos. Aquellos cuyos corazones están desviados siguen los que son equívocos, buscando crear problemas y pretendiendo interpretar su simbolismo. Pero su simbolismo sólo lo conoce Dios. Los arraigados en el conocimiento dicen: «Creemos en Él. Todo procede de nuestro Señor.» Pero no reflexionan más que los dotados de intelecto.
 
 # 301
 
@@ -1218,7 +1218,7 @@ En verdad, ante Dios no queda oculto nada de lo que hay en la Tierra o en el cie
 
 # 303
 
-En verdad, a quienes no creen, ni sus riquezas ni sus hijos les servirán de nada ante Dios. Ellos serán el combustible del fuego [del infierno].
+En verdad, a quienes no creen, ni sus riquezas ni sus hijos les servirán de nada ante Dios. Ellos serán el combustible del fuego \[del infierno\].
 
 # 304
 
@@ -1254,11 +1254,11 @@ Dios, los ángeles y los que tienen conocimiento atestiguan que no hay más dios
 
 # 312
 
-Ciertamente, la religión ante Dios es el Islam. Aquellos a quienes les fue dada la Escritura [Sagrada] no disintieron unos de otros después de haberles llegado el conocimiento sino por envidia entre ellos. Y quien no crea en las señales de Dios [sepa que] Dios es rápido haciendo la cuenta.
+Ciertamente, la religión ante Dios es el Islam. Aquellos a quienes les fue dada la Escritura \[Sagrada\] no disintieron unos de otros después de haberles llegado el conocimiento sino por envidia entre ellos. Y quien no crea en las señales de Dios \[sepa que\] Dios es rápido haciendo la cuenta.
 
 # 313
 
-Así pues, si te discuten di: «Me he sometido a Dios y también los que me siguen.» Y di a quienes les fue dada la Escritura [Sagrada] y [también] a los que no poseen instrucción: «¿Os sometéis?» Si se someten, ciertamente, serán guiados. Pero si dan la espalda, en verdad, tu responsabilidad es sólo informarles. Y Dios observa a Sus siervos.
+Así pues, si te discuten di: «Me he sometido a Dios y también los que me siguen.» Y di a quienes les fue dada la Escritura \[Sagrada\] y \[también\] a los que no poseen instrucción: «¿Os sometéis?» Si se someten, ciertamente, serán guiados. Pero si dan la espalda, en verdad, tu responsabilidad es sólo informarles. Y Dios observa a Sus siervos.
 
 # 314
 
@@ -1270,7 +1270,7 @@ Esos son los que han arruinado sus obras en esta vida y en la otra y no tendrán
 
 # 316
 
-Has visto a aquellos a quienes les fue entregada una parte de la Escritura [Sagrada]? Se les invita a la Escritura de Dios para que juzgue entre ellos, pero parte de ellos dan la espalda y se niegan [a aceptar la Verdad].
+Has visto a aquellos a quienes les fue entregada una parte de la Escritura \[Sagrada\]? Se les invita a la Escritura de Dios para que juzgue entre ellos, pero parte de ellos dan la espalda y se niegan \[a aceptar la Verdad\].
 
 # 317
 
@@ -1278,7 +1278,7 @@ Eso es porque dicen: «No nos tocará el Fuego más que unos pocos días.» Sus 
 
 # 318
 
-¿Qué harán cuando les reunamos para un día sobre el que no hay duda [que ha de venir] y cada alma sea recompensada por lo que hizo y no sean tratados injustamente?
+¿Qué harán cuando les reunamos para un día sobre el que no hay duda \[que ha de venir\] y cada alma sea recompensada por lo que hizo y no sean tratados injustamente?
 
 # 319
 
@@ -1290,7 +1290,7 @@ Di: «¡Oh Dios, Soberano de todo gobierno! Tú das el gobierno a quien quieres 
 
 # 321
 
-¡Que los creyentes no tomen por amigos a los que no creen en lugar de a los que creen! Dios no tendrá nada con quien haga eso, excepto que disimule por temor a ellos. Dios os advierte que tengáis cuidado con Él [si Le desobedecéis]. Y a Dios retornamos.
+¡Que los creyentes no tomen por amigos a los que no creen en lugar de a los que creen! Dios no tendrá nada con quien haga eso, excepto que disimule por temor a ellos. Dios os advierte que tengáis cuidado con Él \[si Le desobedecéis\]. Y a Dios retornamos.
 
 # 322
 
@@ -1298,7 +1298,7 @@ Di: «Tanto si ocultáis lo que hay en vuestros pechos, como si lo manifestáis,
 
 # 323
 
-El día en que cada alma encuentre ante sí lo que hizo de bien y lo que hizo de mal, deseará que haya una gran distancia entre ello y él mismo. Dios os advierte que tengáis cuidado con Él [si Le desobedecéis]. Y Dios es piadoso con Sus siervos.
+El día en que cada alma encuentre ante sí lo que hizo de bien y lo que hizo de mal, deseará que haya una gran distancia entre ello y él mismo. Dios os advierte que tengáis cuidado con Él \[si Le desobedecéis\]. Y Dios es piadoso con Sus siervos.
 
 # 324
 
@@ -1318,11 +1318,11 @@ Descendientes unos de otros. Dios todo lo oye, todo lo sabe.
 
 # 328
 
-[Recuerda] cuando dijo la mujer de Imran: «¡Señor mío! En verdad, he hecho voto de consagrar a Ti lo que llevo en mi seno ¡Acéptamelo! En verdad, Tú eres Quien todo lo oye, Quien todo lo sabe.»
+\[Recuerda\] cuando dijo la mujer de Imran: «¡Señor mío! En verdad, he hecho voto de consagrar a Ti lo que llevo en mi seno ¡Acéptamelo! En verdad, Tú eres Quien todo lo oye, Quien todo lo sabe.»
 
 # 329
 
-Y cuando dio a luz una niña, dijo: «¡Señor, he dado a luz una hembra!» Pero Dios sabía mejor que ella lo que había dado a luz y [que] una hembra no es lo mismo que un varón. «En verdad, la he llamado María y he puesto a ella y a su descendencia bajo Tu protección de Satanás maldecido y lapidado.»
+Y cuando dio a luz una niña, dijo: «¡Señor, he dado a luz una hembra!» Pero Dios sabía mejor que ella lo que había dado a luz y \[que\] una hembra no es lo mismo que un varón. «En verdad, la he llamado María y he puesto a ella y a su descendencia bajo Tu protección de Satanás maldecido y lapidado.»
 
 # 330
 
@@ -1330,11 +1330,11 @@ Su Señor la aceptó complacido, la hizo crecer bien y la puso bajo la tutela de
 
 # 331
 
-Allí mismo rogó Zacarías a su Señor. Dijo: «¡Señor mío, otórgame una descendencia buena, que venga de Ti! ¡En verdad, Tú [siempre] escuchas la súplica!»
+Allí mismo rogó Zacarías a su Señor. Dijo: «¡Señor mío, otórgame una descendencia buena, que venga de Ti! ¡En verdad, Tú \[siempre\] escuchas la súplica!»
 
 # 332
 
-Entonces, los ángeles le llamaron mientras él permanecía en pie rezando en su oratorio: «Dios te da la buena nueva de [el nacimiento de] Juan como confirmador de una palabra que viene de Dios. Será eminente y casto y un profeta de entre los justos.
+Entonces, los ángeles le llamaron mientras él permanecía en pie rezando en su oratorio: «Dios te da la buena nueva de \[el nacimiento de\] Juan como confirmador de una palabra que viene de Dios. Será eminente y casto y un profeta de entre los justos.
 
 # 333
 
@@ -1346,7 +1346,7 @@ Dijo: «Señor mío, dame un signo.» Dijo: «Tu signo será que no podrás habl
 
 # 335
 
-Y [recuerda] cuando los ángeles dijeron: «¡Oh María! En verdad, Dios te ha escogido y purificado y te ha elegido entre todas las mujeres.»
+Y \[recuerda\] cuando los ángeles dijeron: «¡Oh María! En verdad, Dios te ha escogido y purificado y te ha elegido entre todas las mujeres.»
 
 # 336
 
@@ -1354,11 +1354,11 @@ Y [recuerda] cuando los ángeles dijeron: «¡Oh María! En verdad, Dios te ha e
 
 # 337
 
-Esto son noticias del mundo oculto a los sentidos que te revelamos. Tu no estabas con ellos cuando echaban a suertes con sus cálamos [para ver] quién de ellos se encargaba de la tutela de María, ni estabas con ellos cuando disputaban.
+Esto son noticias del mundo oculto a los sentidos que te revelamos. Tu no estabas con ellos cuando echaban a suertes con sus cálamos \[para ver\] quién de ellos se encargaba de la tutela de María, ni estabas con ellos cuando disputaban.
 
 # 338
 
-[Y recuerda] cuando le dijeron los ángeles: «¡Oh María! ¡Dios te anuncia una palabra que de Él procede! Su nombre es El Mesías, Jesús hijo de María. Será honorable en esta vida y en la otra y de los cercanos [a Dios].
+\[Y recuerda\] cuando le dijeron los ángeles: «¡Oh María! ¡Dios te anuncia una palabra que de Él procede! Su nombre es El Mesías, Jesús hijo de María. Será honorable en esta vida y en la otra y de los cercanos \[a Dios\].
 
 # 339
 
@@ -1370,15 +1370,15 @@ Ella dijo: «¡Señor mío! ¿Cómo tendré un hijo si no me ha tocado varón?»
 
 # 341
 
-«Y Él le enseñará la Escritura [Sagrada] y la Sabiduría y la Torá y el Evangelio.»
+«Y Él le enseñará la Escritura \[Sagrada\] y la Sabiduría y la Torá y el Evangelio.»
 
 # 342
 
-Y [será Jesús] un profeta [enviado] a los Hijos de Israel [que proclamará]: «En verdad, he venido a vosotros con una señal procedente de vuestro Señor. Crearé para vosotros, del barro, algo con la forma de un pájaro, luego soplaré sobre él y será un pájaro [vivo], con el permiso de Dios. Y sanaré al ciego y al leproso y resucitaré al muerto, con el permiso de Dios. Y os informaré de lo que coméis y de lo que guardáis en vuestras casas [sin haberlo visto]. En verdad, en ello hay una señal [de que yo soy un profeta] para vosotros, si es que sois creyentes,
+Y \[será Jesús\] un profeta \[enviado\] a los Hijos de Israel \[que proclamará\]: «En verdad, he venido a vosotros con una señal procedente de vuestro Señor. Crearé para vosotros, del barro, algo con la forma de un pájaro, luego soplaré sobre él y será un pájaro \[vivo\], con el permiso de Dios. Y sanaré al ciego y al leproso y resucitaré al muerto, con el permiso de Dios. Y os informaré de lo que coméis y de lo que guardáis en vuestras casas \[sin haberlo visto\]. En verdad, en ello hay una señal \[de que yo soy un profeta\] para vosotros, si es que sois creyentes,
 
 # 343
 
-[que vengo] confirmando lo que ya teníais en vuestras manos procedente de la Torá y haciendo lícito para vosotros algunas cosas que se os habían prohibido. Puesto que he venido a vosotros con un signo que procede de vuestro Señor ¡Temed a Dios y obedecedme!
+\[que vengo\] confirmando lo que ya teníais en vuestras manos procedente de la Torá y haciendo lícito para vosotros algunas cosas que se os habían prohibido. Puesto que he venido a vosotros con un signo que procede de vuestro Señor ¡Temed a Dios y obedecedme!
 
 # 344
 
@@ -1386,7 +1386,7 @@ En verdad, Dios es mi Señor y vuestro Señor, así pues ¡Adoradle! ¡Este es e
 
 # 345
 
-Pero cuando Jesús sintió la falta de fe de ellos, dijo: «¿Quiénes serán mis partidarios [en la defensa de la causa que lleva] hacia Dios?» Los apóstoles dijeron: «Nosotros somos los partidarios de Dios. Hemos creído en Dios. Testifica, pues, que nosotros somos musulmanes [a Él sometidos].
+Pero cuando Jesús sintió la falta de fe de ellos, dijo: «¿Quiénes serán mis partidarios \[en la defensa de la causa que lleva\] hacia Dios?» Los apóstoles dijeron: «Nosotros somos los partidarios de Dios. Hemos creído en Dios. Testifica, pues, que nosotros somos musulmanes \[a Él sometidos\].
 
 # 346
 
@@ -1394,11 +1394,11 @@ Pero cuando Jesús sintió la falta de fe de ellos, dijo: «¿Quiénes serán mi
 
 # 347
 
-Y conspiraron [contra Jesús sus enemigos] y Dios [también] conspiró. Pero Dios es Quien mejor trama.
+Y conspiraron \[contra Jesús sus enemigos\] y Dios \[también\] conspiró. Pero Dios es Quien mejor trama.
 
 # 348
 
-[Recuerda] cuando dijo Dios: «¡Oh Jesús! Te tomaré y te elevaré hacia Mí y te purificaré [de las calumnias] de los que no creen. Y colocaré a los que te siguen por encima de los que no creen, hasta el Día del Levantamiento. Luego regresaréis hacia Mí y juzgaré entre vosotros sobre aquello en lo que manteníais diferencias.
+\[Recuerda\] cuando dijo Dios: «¡Oh Jesús! Te tomaré y te elevaré hacia Mí y te purificaré \[de las calumnias\] de los que no creen. Y colocaré a los que te siguen por encima de los que no creen, hasta el Día del Levantamiento. Luego regresaréis hacia Mí y juzgaré entre vosotros sobre aquello en lo que manteníais diferencias.
 
 # 349
 
@@ -1422,7 +1422,7 @@ La Verdad procede de tu Señor. ¡No seas pues de los escépticos!
 
 # 354
 
-Por tanto, a quien te discuta sobre ello, después del conocimiento que ha venido a ti, dile: «¡Venid! ¡Llamemos a nuestros hijos y a los vuestros, a nuestras mujeres y a las vuestras y a nosotros mismos y a vosotros mismos y supliquemos [el juicio de Dios] y que la maldición de Dios caiga sobre los mentirosos!»
+Por tanto, a quien te discuta sobre ello, después del conocimiento que ha venido a ti, dile: «¡Venid! ¡Llamemos a nuestros hijos y a los vuestros, a nuestras mujeres y a las vuestras y a nosotros mismos y a vosotros mismos y supliquemos \[el juicio de Dios\] y que la maldición de Dios caiga sobre los mentirosos!»
 
 # 355
 
@@ -1434,11 +1434,11 @@ Y si dan la espalda, en verdad, Dios es quien mejor conoce a los corruptores.
 
 # 357
 
-Di: «¡Oh gente de la Escritura [Sagrada]! Venid a una palabra igual para vosotros y nosotros: Que no adoraremos más que a Dios y que no asociaremos nada a Él y que no nos tomaremos unos a otros como señores junto a Dios.» Y si dan la espalda, decidles entonces: «Sed testigos de que nosotros somos musulmanes.»
+Di: «¡Oh gente de la Escritura \[Sagrada\]! Venid a una palabra igual para vosotros y nosotros: Que no adoraremos más que a Dios y que no asociaremos nada a Él y que no nos tomaremos unos a otros como señores junto a Dios.» Y si dan la espalda, decidles entonces: «Sed testigos de que nosotros somos musulmanes.»
 
 # 358
 
-¡Oh gente de la Escritura [Sagrada]! ¿Por qué discutís sobre Abraham, si la Torá y el Evangelio no fueron hechos descender sino después de él? ¿Es que no razonáis?
+¡Oh gente de la Escritura \[Sagrada\]! ¿Por qué discutís sobre Abraham, si la Torá y el Evangelio no fueron hechos descender sino después de él? ¿Es que no razonáis?
 
 # 359
 
@@ -1446,31 +1446,31 @@ Vosotros sois aquellos que discutíais sobre lo que conocíais ¿Por qué discut
 
 # 360
 
-Abraham no era judío ni era cristiano, sino que era un buscador de la Verdad, sometido a Dios [muslim] y no era de los politeístas.
+Abraham no era judío ni era cristiano, sino que era un buscador de la Verdad, sometido a Dios \[muslim\] y no era de los politeístas.
 
 # 361
 
-En verdad, la gente más cercana a Abraham son aquellos que le seguían y éste profeta y aquellos que creen [en él]. Y Dios es el amigo y guardián de los creyentes.
+En verdad, la gente más cercana a Abraham son aquellos que le seguían y éste profeta y aquellos que creen \[en él\]. Y Dios es el amigo y guardián de los creyentes.
 
 # 362
 
-Un grupo de la gente de la Escritura [Sagrada] desearían extraviaros, pero sólo se extravían ellos mismos y no se dan cuenta.
+Un grupo de la gente de la Escritura \[Sagrada\] desearían extraviaros, pero sólo se extravían ellos mismos y no se dan cuenta.
 
 # 363
 
-¡Oh gente de la Escritura [Sagrada]! ¿Por qué no creéis en las señales de Dios si sois testigos?
+¡Oh gente de la Escritura \[Sagrada\]! ¿Por qué no creéis en las señales de Dios si sois testigos?
 
 # 364
 
-¡Oh gente de la Escritura [Sagrada]! ¿Por qué vestís la Verdad con la falsedad y ocultáis la Verdad, a sabiendas de lo que hacéis?
+¡Oh gente de la Escritura \[Sagrada\]! ¿Por qué vestís la Verdad con la falsedad y ocultáis la Verdad, a sabiendas de lo que hacéis?
 
 # 365
 
-Un grupo de la gente de la Escritura [Sagrada] dice: «Creed al principio de la mañana en lo que fue hecho descender sobre los creyentes y dejad de creer al final de ella, quizás así ellos retornen [de sus creencias a las vuestras].
+Un grupo de la gente de la Escritura \[Sagrada\] dice: «Creed al principio de la mañana en lo que fue hecho descender sobre los creyentes y dejad de creer al final de ella, quizás así ellos retornen \[de sus creencias a las vuestras\].
 
 # 366
 
-Y no creáis en nadie excepto en quien siga vuestra religión.» Di: «La guía [verdadera] es la guía de Dios y [no creáis] que le fue dado a alguien algo como lo que os fue dado a vosotros o que ellos pueden discutir con vosotros ante vuestro Señor.» Di: «En verdad, el favor está en las manos de Dios y se lo otorga a quien Él quiere. Y la bondad de Dios todo lo alcanza, Él todo lo sabe.
+Y no creáis en nadie excepto en quien siga vuestra religión.» Di: «La guía \[verdadera\] es la guía de Dios y \[no creáis\] que le fue dado a alguien algo como lo que os fue dado a vosotros o que ellos pueden discutir con vosotros ante vuestro Señor.» Di: «En verdad, el favor está en las manos de Dios y se lo otorga a quien Él quiere. Y la bondad de Dios todo lo alcanza, Él todo lo sabe.
 
 # 367
 
@@ -1478,7 +1478,7 @@ Distingue con Su misericordia a quien Él quiere. Dios es el dueño del Favor In
 
 # 368
 
-Y entre la gente de la Escritura [Sagrada] los hay que si les confías un quintal te lo devuelven [intacto] y quienes si les confías una moneda no te la devuelven sino es reclamándosela con insistencia. Eso es porque ellos dicen: «No tenemos obligaciones con los que no son judíos.» Pero mienten sobre Dios a sabiendas.
+Y entre la gente de la Escritura \[Sagrada\] los hay que si les confías un quintal te lo devuelven \[intacto\] y quienes si les confías una moneda no te la devuelven sino es reclamándosela con insistencia. Eso es porque ellos dicen: «No tenemos obligaciones con los que no son judíos.» Pero mienten sobre Dios a sabiendas.
 
 # 369
 
@@ -1490,11 +1490,11 @@ En verdad, aquellos que venden el compromiso con Dios y sus promesas por un prec
 
 # 371
 
-Y, en verdad, hay un grupo de ellos que complican con sus lenguas la Escritura [Sagrada para que penséis que [lo que dicen] pertenece a la Escritura, pero no es de la Escritura y dicen: «Esto proviene de Dios», pero no proviene de Dios y atribuyen a Dios mentiras a sabiendas [de lo que hacen].
+Y, en verdad, hay un grupo de ellos que complican con sus lenguas la Escritura \[Sagrada para que penséis que \[lo que dicen\] pertenece a la Escritura, pero no es de la Escritura y dicen: «Esto proviene de Dios», pero no proviene de Dios y atribuyen a Dios mentiras a sabiendas \[de lo que hacen\].
 
 # 372
 
-No es apropiado de un ser humano al que Dios entrega la Escritura [Sagrada], el juicio y la profecía que luego diga a la gente: «Sed mis siervos en lugar de [siervos de] Dios», sino [más bien que les diga]: «Sed espirituales ya que enseñáis la Escritura [Sagrada] y la estudiáis.»
+No es apropiado de un ser humano al que Dios entrega la Escritura \[Sagrada\], el juicio y la profecía que luego diga a la gente: «Sed mis siervos en lugar de \[siervos de\] Dios», sino \[más bien que les diga\]: «Sed espirituales ya que enseñáis la Escritura \[Sagrada\] y la estudiáis.»
 
 # 373
 
@@ -1502,7 +1502,7 @@ Y Él no os ordena que toméis por señores a los ángeles ni a los profetas ¿V
 
 # 374
 
-Y [recuerda] cuando Dios hizo un pacto con los profetas: «Puesto que os he dado parte de la Escritura [Sagrada] y Sabiduría, cuando venga a vosotros un Mensajero confirmando lo que tenéis, creed en él y ayudadle.» Dijo Él: «¿Acordasteis y aceptasteis Mi pacto en estos términos?» Dijeron: «Lo acordamos.» Dijo Él: «Pues dad testimonio de ello y Yo seré con vosotros uno de los que atestiguan.»
+Y \[recuerda\] cuando Dios hizo un pacto con los profetas: «Puesto que os he dado parte de la Escritura \[Sagrada\] y Sabiduría, cuando venga a vosotros un Mensajero confirmando lo que tenéis, creed en él y ayudadle.» Dijo Él: «¿Acordasteis y aceptasteis Mi pacto en estos términos?» Dijeron: «Lo acordamos.» Dijo Él: «Pues dad testimonio de ello y Yo seré con vosotros uno de los que atestiguan.»
 
 # 375
 
@@ -1530,7 +1530,7 @@ Su recompensa es que serán maldecidos por Dios y por los ángeles y por la gent
 
 # 381
 
-En ese [estado de maldición] permanecerán eternamente. No se les aliviará el castigo ni tendrán respiro.
+En ese \[estado de maldición\] permanecerán eternamente. No se les aliviará el castigo ni tendrán respiro.
 
 # 382
 
@@ -1550,7 +1550,7 @@ No obtendréis la virtud hasta que no gastéis en caridad de aquello que amáis.
 
 # 386
 
-Todos los alimentos [puros] eran lícitos para los Hijos de Israel excepto aquello que Israel se prohibió a sí mismo antes de que descendiera la Torá. Di: «Traed la Torá y leedla si es que decís la verdad.»
+Todos los alimentos \[puros\] eran lícitos para los Hijos de Israel excepto aquello que Israel se prohibió a sí mismo antes de que descendiera la Torá. Di: «Traed la Torá y leedla si es que decís la verdad.»
 
 # 387
 
@@ -1566,19 +1566,19 @@ En verdad, la primera Casa establecida para la humanidad como bendición y guía
 
 # 390
 
-En ella hay signos claros, [entre ellos] la morada de Abraham. Y quien entre en ella estará seguro. Dios ha ordenado a las gentes la peregrinación a la Casa, si disponen de medios. Y quien reniegue (de su obligación y no realice la peregrinación, sepa que) Dios no necesita de nadie.
+En ella hay signos claros, \[entre ellos\] la morada de Abraham. Y quien entre en ella estará seguro. Dios ha ordenado a las gentes la peregrinación a la Casa, si disponen de medios. Y quien reniegue (de su obligación y no realice la peregrinación, sepa que) Dios no necesita de nadie.
 
 # 391
 
-Di: «¡Oh gente de la Escritura [Sagrada]! ¿Por qué no creéis en las señales de Dios? Dios es testigo de lo que hacéis.»
+Di: «¡Oh gente de la Escritura \[Sagrada\]! ¿Por qué no creéis en las señales de Dios? Dios es testigo de lo que hacéis.»
 
 # 392
 
-Di: «¡Oh gente de la Escritura «Sagrada»! ¿Por qué dificultáis la senda de Dios a los que creen y tratáis de complicarla, cuando sois testigos [de que es verdadera]? Dios no está desatento a lo que hacéis.»
+Di: «¡Oh gente de la Escritura «Sagrada»! ¿Por qué dificultáis la senda de Dios a los que creen y tratáis de complicarla, cuando sois testigos \[de que es verdadera\]? Dios no está desatento a lo que hacéis.»
 
 # 393
 
-¡Oh los que creéis! Si obedecéis a un grupo de los que recibieron la Escritura [Sagrada] conseguirán que, después de haber creído, regreséis a la incredulidad.
+¡Oh los que creéis! Si obedecéis a un grupo de los que recibieron la Escritura \[Sagrada\] conseguirán que, después de haber creído, regreséis a la incredulidad.
 
 # 394
 
@@ -1602,7 +1602,7 @@ Y no seáis como aquellos que se dividieron y se enfrentaron después de haber v
 
 # 399
 
-el día en que unos rostros se iluminen y otros se ensombrezcan. En cuanto a aquellos que sus rostros se ensombrezcan [se les dirá]: «¿Descreísteis después de haber tenido fe? Saboread ahora el castigo por aquello en lo que dejasteis de creer.»
+el día en que unos rostros se iluminen y otros se ensombrezcan. En cuanto a aquellos que sus rostros se ensombrezcan \[se les dirá\]: «¿Descreísteis después de haber tenido fe? Saboread ahora el castigo por aquello en lo que dejasteis de creer.»
 
 # 400
 
@@ -1618,7 +1618,7 @@ Y a Dios pertenece lo que hay en los cielos y en la Tierra. Todo será devuelto 
 
 # 403
 
-Sois la mejor comunidad que se ha creado para los seres humanos. Ordenáis el bien, prohibís el mal y creéis en Dios. Y si la gente de la Escritura [Sagrada] creyera, sería mejor para ellos. Entre ellos los hay que son creyentes, pero la mayoría de ellos son pecadores.
+Sois la mejor comunidad que se ha creado para los seres humanos. Ordenáis el bien, prohibís el mal y creéis en Dios. Y si la gente de la Escritura \[Sagrada\] creyera, sería mejor para ellos. Entre ellos los hay que son creyentes, pero la mayoría de ellos son pecadores.
 
 # 404
 
@@ -1630,11 +1630,11 @@ La humillación les golpeará donde quiera que se encuentren, excepto que Dios l
 
 # 406
 
-No todos son iguales. Entre la gente de la Escritura [Sagrada] hay una comunidad recta que recita los versículos de Dios en mitad de la noche y humillan sus frentes hasta el suelo en adoración.
+No todos son iguales. Entre la gente de la Escritura \[Sagrada\] hay una comunidad recta que recita los versículos de Dios en mitad de la noche y humillan sus frentes hasta el suelo en adoración.
 
 # 407
 
-Creen en Dios y en el Último Día y ordenan lo que está bien y prohíben el mal. Compiten con premura en [la realización de] buenas acciones y son de los justos.
+Creen en Dios y en el Último Día y ordenan lo que está bien y prohíben el mal. Compiten con premura en \[la realización de\] buenas acciones y son de los justos.
 
 # 408
 
@@ -1654,7 +1654,7 @@ Lo que gastan en esta vida es semejante a un viento helado que azota los cultivo
 
 # 412
 
-Vosotros les amáis pero ellos no os aman. Y [eso es porque] vosotros creéis en todas las Escrituras [Sagradas]. Y cuando se encuentran con vosotros dicen: «¡Creemos!» Pero cuando están solos se muerden las puntas de los dedos del odio que os tienen. Di: «¡Que vuestro odio os mate!» En verdad, Dios conoce bien lo que hay en el interior de los pechos.
+Vosotros les amáis pero ellos no os aman. Y \[eso es porque\] vosotros creéis en todas las Escrituras \[Sagradas\]. Y cuando se encuentran con vosotros dicen: «¡Creemos!» Pero cuando están solos se muerden las puntas de los dedos del odio que os tienen. Di: «¡Que vuestro odio os mate!» En verdad, Dios conoce bien lo que hay en el interior de los pechos.
 
 # 413
 
@@ -1662,11 +1662,11 @@ Si os ocurre algo bueno les molesta y si os sobreviene una dificultad se alegran
 
 # 414
 
-Y [recuerda] cuando al principio de la mañana te alejaste de tu familia para situar a los creyentes en sus puestos de batalla. Dios todo lo oye, todo lo sabe.
+Y \[recuerda\] cuando al principio de la mañana te alejaste de tu familia para situar a los creyentes en sus puestos de batalla. Dios todo lo oye, todo lo sabe.
 
 # 415
 
-[Y recuerda también] cuando dos grupos de los vuestros flaquearon y proyectaron desertar y Dios les infundió ánimo. ¡Que los creyentes depositen su confianza únicamente en Dios!
+\[Y recuerda también\] cuando dos grupos de los vuestros flaquearon y proyectaron desertar y Dios les infundió ánimo. ¡Que los creyentes depositen su confianza únicamente en Dios!
 
 # 416
 
@@ -1674,19 +1674,19 @@ Ciertamente Él os ayudó en Badr cuando estabais en inferioridad. Temed, pues, 
 
 # 417
 
-[Y recuerda el día de Badr] cuando decías a los creyentes: «¿Acaso para vosotros no es suficiente que vuestro Señor os refuerce con tres mil ángeles descendiendo [de los cielos]?
+\[Y recuerda el día de Badr\] cuando decías a los creyentes: «¿Acaso para vosotros no es suficiente que vuestro Señor os refuerce con tres mil ángeles descendiendo \[de los cielos\]?
 
 # 418
 
-Sí, si sois pacientes y temerosos y os atacan de improviso, [hoy también] Dios os reforzará con cinco mil ángeles portadores de distintivos.»
+Sí, si sois pacientes y temerosos y os atacan de improviso, \[hoy también\] Dios os reforzará con cinco mil ángeles portadores de distintivos.»
 
 # 419
 
-Y Dios no lo hace sino [para alegraros] con una buena noticia y para tranquilizar vuestros corazones, pues la victoria solamente proviene de Dios [que es] el Poderoso, el Sabio,
+Y Dios no lo hace sino \[para alegraros\] con una buena noticia y para tranquilizar vuestros corazones, pues la victoria solamente proviene de Dios \[que es\] el Poderoso, el Sabio,
 
 # 420
 
-y para destruir a una parte de los que no creen o para derrotarles y que regresen fracasados [a La Meca].
+y para destruir a una parte de los que no creen o para derrotarles y que regresen fracasados \[a La Meca\].
 
 # 421
 
@@ -1698,7 +1698,7 @@ A Dios pertenece lo que hay en los cielos y en la Tierra. Perdona a quien Él qu
 
 # 423
 
-Oh los que creéis! ¡No os alimentéis de la usura, doblando una y otra vez [vuestros capitales]! Temed a Dios. Quizás así tengáis éxito.
+Oh los que creéis! ¡No os alimentéis de la usura, doblando una y otra vez \[vuestros capitales\]! Temed a Dios. Quizás así tengáis éxito.
 
 # 424
 
@@ -1718,15 +1718,15 @@ aquellos que reparten de sus riquezas en la prosperidad y en la adversidad y aqu
 
 # 428
 
-Y aquellos que, cuando cometen un pecado o son injustos consigo mismos, recuerdan a Dios y buscan el perdón por sus pecados, pues ¿Quién perdona los pecados sino Dios? y no reinciden en lo que hicieron [mal] ahora que lo saben.
+Y aquellos que, cuando cometen un pecado o son injustos consigo mismos, recuerdan a Dios y buscan el perdón por sus pecados, pues ¿Quién perdona los pecados sino Dios? y no reinciden en lo que hicieron \[mal\] ahora que lo saben.
 
 # 429
 
-Esos obtendrán en recompensa el perdón de su Señor y jardines de cuyas profundidades brotan los arroyos, en los que estarán eternamente. ¡Qué hermosa es la recompensa de los que obran [bien]!
+Esos obtendrán en recompensa el perdón de su Señor y jardines de cuyas profundidades brotan los arroyos, en los que estarán eternamente. ¡Qué hermosa es la recompensa de los que obran \[bien\]!
 
 # 430
 
-Antes de vosotros también hubo tradiciones. Viajad, pues, por la Tierra y observad cual fue el fin de los desmentidores [de la Verdad].
+Antes de vosotros también hubo tradiciones. Viajad, pues, por la Tierra y observad cual fue el fin de los desmentidores \[de la Verdad\].
 
 # 431
 
@@ -1742,7 +1742,7 @@ Si sufrís una herida, ellos también sufrieron una herida semejante. Nosotros h
 
 # 434
 
-Y para que Dios ponga a prueba a quienes tienen fe [y les perdone] y extermine a los que no creen.
+Y para que Dios ponga a prueba a quienes tienen fe \[y les perdone\] y extermine a los que no creen.
 
 # 435
 
@@ -1750,11 +1750,11 @@ Y para que Dios ponga a prueba a quienes tienen fe [y les perdone] y extermine a
 
 # 436
 
-Ciertamente, deseabais la muerte antes de encontraros con ellos y, ciertamente, la visteis con vuestros propios ojos y observasteis [como es].
+Ciertamente, deseabais la muerte antes de encontraros con ellos y, ciertamente, la visteis con vuestros propios ojos y observasteis \[como es\].
 
 # 437
 
-Y Muhammad no es más que un Mensajero. Antes de él hubo también otros Mensajeros. ¿Acaso si muere o es matado volveréis a vuestras creencias anteriores? Pues [sabed que] quien vuelva a sus creencias anteriores no puede perjudicar a Dios en absoluto. Y Dios pronto recompensará a los agradecidos.
+Y Muhammad no es más que un Mensajero. Antes de él hubo también otros Mensajeros. ¿Acaso si muere o es matado volveréis a vuestras creencias anteriores? Pues \[sabed que\] quien vuelva a sus creencias anteriores no puede perjudicar a Dios en absoluto. Y Dios pronto recompensará a los agradecidos.
 
 # 438
 
@@ -1778,7 +1778,7 @@ Y Dios les dio la recompensa de esta vida y la buena recompensa de la otra. Dios
 
 # 443
 
-[Ellos no son vuestros protectores] sino que Dios es vuestro Protector y Señor y el mejor auxiliador.
+\[Ellos no son vuestros protectores\] sino que Dios es vuestro Protector y Señor y el mejor auxiliador.
 
 # 444
 
@@ -1786,15 +1786,15 @@ Pronto infundiremos el terror en el corazón de los que no creen por haber adora
 
 # 445
 
-Ciertamente, Dios cumplió la promesa que os hizo cuando los estabais venciendo con Su permiso, hasta que [al final de la batalla] flaqueasteis y discutisteis y desobedecisteis [al Mensajero] después que Dios os hizo ver [la victoria] que queríais. Entre vosotros los hay que aman esta vida y los hay que aman la otra. Luego os cambió por ellos para poneros a prueba y [tras ello] ciertamente, os perdonó, pues Dios reserva su favor para los creyentes.
+Ciertamente, Dios cumplió la promesa que os hizo cuando los estabais venciendo con Su permiso, hasta que \[al final de la batalla\] flaqueasteis y discutisteis y desobedecisteis \[al Mensajero\] después que Dios os hizo ver \[la victoria\] que queríais. Entre vosotros los hay que aman esta vida y los hay que aman la otra. Luego os cambió por ellos para poneros a prueba y \[tras ello\] ciertamente, os perdonó, pues Dios reserva su favor para los creyentes.
 
 # 446
 
-[Y recordad] cuando os marchasteis sin preocuparos por nadie y el Mensajero os llamaba a proteger la retaguardia. Él os compensó una tristeza con otra para que no estuvieseis tristes por lo que habíais perdido ni por la desgracia que os había ocurrido. Y Dios está bien informado de lo que hacéis.
+\[Y recordad\] cuando os marchasteis sin preocuparos por nadie y el Mensajero os llamaba a proteger la retaguardia. Él os compensó una tristeza con otra para que no estuvieseis tristes por lo que habíais perdido ni por la desgracia que os había ocurrido. Y Dios está bien informado de lo que hacéis.
 
 # 447
 
-Luego, tras la aflicción, hizo descender sobre vosotros seguridad [en forma de] un sueño ligero que envolvió a un grupo de vosotros mientras que otro grupo, más preocupado por ellos mismos, pensaban sobre Dios lo que no es verdad, con dudas propias de la época de la ignorancia, diciendo: «¿Tenemos nosotros algo que ver en este asunto?» Di: «En verdad, todo el asunto pertenece a Dios.» Esconden en sus corazones lo que no manifiestan ante ti. Dicen: «Si hubiéramos tenido algo que ver en el asunto no nos habrían matado aquí.» Diles: «Aunque hubierais permanecido en vuestras casas, a aquellos para los que estaba escrita, la muerte les habría sorprendido en sus lechos.» Fue así para que Dios pusiera a prueba lo que tenéis en vuestros pechos y para purificar lo que hay en vuestros corazones. Dios conoce bien lo que hay en los pechos.
+Luego, tras la aflicción, hizo descender sobre vosotros seguridad \[en forma de\] un sueño ligero que envolvió a un grupo de vosotros mientras que otro grupo, más preocupado por ellos mismos, pensaban sobre Dios lo que no es verdad, con dudas propias de la época de la ignorancia, diciendo: «¿Tenemos nosotros algo que ver en este asunto?» Di: «En verdad, todo el asunto pertenece a Dios.» Esconden en sus corazones lo que no manifiestan ante ti. Dicen: «Si hubiéramos tenido algo que ver en el asunto no nos habrían matado aquí.» Diles: «Aunque hubierais permanecido en vuestras casas, a aquellos para los que estaba escrita, la muerte les habría sorprendido en sus lechos.» Fue así para que Dios pusiera a prueba lo que tenéis en vuestros pechos y para purificar lo que hay en vuestros corazones. Dios conoce bien lo que hay en los pechos.
 
 # 448
 
@@ -1834,7 +1834,7 @@ Cada uno de ellos tendrá un grado de proximidad junto a Dios. Y Dios observa lo
 
 # 457
 
-En verdad, Dios agracia a los creyentes al designar un Mensajero de entre ellos mismos, que les recita Sus versículos y les purifica y les instruye en la Escritura [Sagrada] y en la Sabiduría, cuando antes estaban en un extravío evidente.
+En verdad, Dios agracia a los creyentes al designar un Mensajero de entre ellos mismos, que les recita Sus versículos y les purifica y les instruye en la Escritura \[Sagrada\] y en la Sabiduría, cuando antes estaban en un extravío evidente.
 
 # 458
 
@@ -1850,7 +1850,7 @@ y quiénes eran hipócritas. Se les dijo: «¡Venid! ¡Combatid en la senda de D
 
 # 461
 
-[Los hipócritas son] aquellos que, mientras se quedaban sentados, decían de sus hermanos: «Si nos hubieran obedecido no les habrían matado.» Di: «¡Apartad la muerte de vosotros mismos, si es que sois veraces!»
+\[Los hipócritas son\] aquellos que, mientras se quedaban sentados, decían de sus hermanos: «Si nos hubieran obedecido no les habrían matado.» Di: «¡Apartad la muerte de vosotros mismos, si es que sois veraces!»
 
 # 462
 
@@ -1878,7 +1878,7 @@ Y han regresado, por una Gracia y un Favor de Dios, sin sufrir mal. Buscaron la 
 
 # 468
 
-En verdad, vosotros sois el Demonio. Él asusta [solamente] a quienes son amigos suyos. ¡Así que no tengáis miedo de ellos, tened miedo de Mí, si es que sois creyentes!
+En verdad, vosotros sois el Demonio. Él asusta \[solamente\] a quienes son amigos suyos. ¡Así que no tengáis miedo de ellos, tened miedo de Mí, si es que sois creyentes!
 
 # 469
 
@@ -1922,15 +1922,15 @@ Todo ser saboreará la muerte. Pero, hasta el Día del Levantamiento no recibir�
 
 # 479
 
-Ciertamente, seréis puestos a prueba en vuestras riquezas y en vuestras personas y, ciertamente, de quienes tuvieron la Escritura [Sagrada] antes que vosotros y de los politeístas, escucharéis muchos insultos. Pero si sois pacientes y temerosos de Dios, eso sí que, en verdad, es dar muestra de firmeza en los asuntos.
+Ciertamente, seréis puestos a prueba en vuestras riquezas y en vuestras personas y, ciertamente, de quienes tuvieron la Escritura \[Sagrada\] antes que vosotros y de los politeístas, escucharéis muchos insultos. Pero si sois pacientes y temerosos de Dios, eso sí que, en verdad, es dar muestra de firmeza en los asuntos.
 
 # 480
 
-Y [recordad] cuando Dios estableció un acuerdo con aquellos a quienes les fue dada la Escritura [Sagrada]: «Explicádsela a la gente y no la ocultéis.» Pero ellos le dieron la espalda y la vendieron por poco precio. ¡Qué mal negocio hicieron!
+Y \[recordad\] cuando Dios estableció un acuerdo con aquellos a quienes les fue dada la Escritura \[Sagrada\]: «Explicádsela a la gente y no la ocultéis.» Pero ellos le dieron la espalda y la vendieron por poco precio. ¡Qué mal negocio hicieron!
 
 # 481
 
-No creas que aquellos que se alegran de lo que han hecho [malo] y quieren que se les agradezca lo que no han hecho, están a salvo del castigo. ¡Tendrán un castigo doloroso!
+No creas que aquellos que se alegran de lo que han hecho \[malo\] y quieren que se les agradezca lo que no han hecho, están a salvo del castigo. ¡Tendrán un castigo doloroso!
 
 # 482
 
@@ -1942,11 +1942,11 @@ En verdad, en la Creación de los cielos y de la Tierra y en la diferencia entre
 
 # 484
 
-Aquellos que recuerdan a Dios de pie, sentados o acostados, y que reflexionan sobre la Creación de los cielos y la Tierra [y dicen]: «¡Oh, Señor nuestro! ¡No has creado todo esto en vano! ¡Glorificado seas! ¡Líbranos del castigo del Fuego!
+Aquellos que recuerdan a Dios de pie, sentados o acostados, y que reflexionan sobre la Creación de los cielos y la Tierra \[y dicen\]: «¡Oh, Señor nuestro! ¡No has creado todo esto en vano! ¡Glorificado seas! ¡Líbranos del castigo del Fuego!
 
 # 485
 
-¡Señor nuestro! ¡A quien Tú [por sus actos] introduces en el Fuego, ciertamente, lo has humillado merecidamente! ¡Los opresores no tendrán quien les auxilie!
+¡Señor nuestro! ¡A quien Tú \[por sus actos\] introduces en el Fuego, ciertamente, lo has humillado merecidamente! ¡Los opresores no tendrán quien les auxilie!
 
 # 486
 
@@ -1966,7 +1966,7 @@ Su Señor les respondió a su súplica: «En verdad, Yo no dejo que se pierda la
 
 # 490
 
-¡ [Tendrán] un pequeño disfrute y luego su morada será el infierno de Yahannam! ¡Qué mal lecho!
+¡ \[Tendrán\] un pequeño disfrute y luego su morada será el infierno de Yahannam! ¡Qué mal lecho!
 
 # 491
 
@@ -1974,7 +1974,7 @@ Pero, para aquellos que temieron disgustar a su Señor hay Jardines de cuyas pro
 
 # 492
 
-Y, en verdad, de entre la gente de la Escritura [Sagrada], hay quienes creen en Dios y en lo que fue hecho descender para vosotros y en lo que fue hecho descender para ellos. Humildes ante Dios, no venden las señales de Dios a poco precio. Esos tendrán su recompensa junto a su Señor. En verdad, Dios es rápido haciendo las cuentas.
+Y, en verdad, de entre la gente de la Escritura \[Sagrada\], hay quienes creen en Dios y en lo que fue hecho descender para vosotros y en lo que fue hecho descender para ellos. Humildes ante Dios, no venden las señales de Dios a poco precio. Esos tendrán su recompensa junto a su Señor. En verdad, Dios es rápido haciendo las cuentas.
 
 # 493
 
@@ -1982,7 +1982,7 @@ Y, en verdad, de entre la gente de la Escritura [Sagrada], hay quienes creen en 
 
 # 494
 
-¡Oh gentes! ¡Temed a vuestro Señor, que os creó de una sola alma y que creó de ella a su pareja y que, a partir de ambos, ha hecho surgir hombres y mujeres en abundancia! Y temed a Dios, en cuyo nombre os pedís unos a otros y [cuidad] las relaciones familiares. En verdad, Dios os observa.
+¡Oh gentes! ¡Temed a vuestro Señor, que os creó de una sola alma y que creó de ella a su pareja y que, a partir de ambos, ha hecho surgir hombres y mujeres en abundancia! Y temed a Dios, en cuyo nombre os pedís unos a otros y \[cuidad\] las relaciones familiares. En verdad, Dios os observa.
 
 # 495
 
@@ -1990,7 +1990,7 @@ Y dad a los huérfanos sus bienes y no deis lo malo en lugar de lo bueno y no os
 
 # 496
 
-Y si teméis no ser justos con los huérfanos, casaos con [otras de] las mujeres que os gusten, dos, tres o cuatro. Pero si, aún así, teméis no ser justos, hacedlo [sólo] con una o con una de vuestras esclavas. Eso estará más cerca de no ser injustos.
+Y si teméis no ser justos con los huérfanos, casaos con \[otras de\] las mujeres que os gusten, dos, tres o cuatro. Pero si, aún así, teméis no ser justos, hacedlo \[sólo\] con una o con una de vuestras esclavas. Eso estará más cerca de no ser injustos.
 
 # 497
 
@@ -2014,7 +2014,7 @@ Y si en el reparto están presentes los familiares, los huérfanos y los necesit
 
 # 502
 
-Aquellos que si dejasen tras de sí hijos menores de edad temerían por ellos, que se preocupen [por los huérfanos] y que sean temerosos de desagradar a Dios y les hablen con ternura y cariño.
+Aquellos que si dejasen tras de sí hijos menores de edad temerían por ellos, que se preocupen \[por los huérfanos\] y que sean temerosos de desagradar a Dios y les hablen con ternura y cariño.
 
 # 503
 
@@ -2022,7 +2022,7 @@ En verdad, aquellos que devoran injustamente los bienes de los huérfanos, solam
 
 # 504
 
-Dios os ordena en lo relativo a vuestros hijos que la parte del varón sea igual a la parte de dos hembras y si [vuestros hijos] fueran dos mujeres o más de dos, recibirán dos tercios de lo que dejó [el fallecido]. Si sólo fuera una, le corresponde la mitad. Y a los padres de él corresponde una sexta parte para cada uno, en caso de que dejéis hijos. Si no dejáis hijos y los padres son los [únicos] herederos, a la madre de él le corresponde un tercio Pero si él deja hermanos, a la madre le corresponde un sexto. Esto, después de haber cumplido con las disposiciones testamentarias o las deudas pendientes. No sabéis quien será más beneficioso para vosotros, si vuestros padres o vuestros hijos. Esto es lo que Dios ha ordenado. En verdad, Dios todo lo conoce, es sabio.
+Dios os ordena en lo relativo a vuestros hijos que la parte del varón sea igual a la parte de dos hembras y si \[vuestros hijos\] fueran dos mujeres o más de dos, recibirán dos tercios de lo que dejó \[el fallecido\]. Si sólo fuera una, le corresponde la mitad. Y a los padres de él corresponde una sexta parte para cada uno, en caso de que dejéis hijos. Si no dejáis hijos y los padres son los \[únicos\] herederos, a la madre de él le corresponde un tercio Pero si él deja hermanos, a la madre le corresponde un sexto. Esto, después de haber cumplido con las disposiciones testamentarias o las deudas pendientes. No sabéis quien será más beneficioso para vosotros, si vuestros padres o vuestros hijos. Esto es lo que Dios ha ordenado. En verdad, Dios todo lo conoce, es sabio.
 
 # 505
 
@@ -2058,7 +2058,7 @@ Pero el perdón no es para aquellos que saben que hacen el mal hasta que les lle
 
 # 513
 
-Y si queréis cambiar una esposa por otra y habéis dado a una de ellas un quintal [de oro], no toméis nada de ello ¿Acaso lo tomaríais cometiendo una infamia y un pecado evidente?
+Y si queréis cambiar una esposa por otra y habéis dado a una de ellas un quintal \[de oro\], no toméis nada de ello ¿Acaso lo tomaríais cometiendo una infamia y un pecado evidente?
 
 # 514
 
@@ -2074,7 +2074,7 @@ Desde ahora, quedan prohibidas para vosotros vuestras madres, vuestras hijas, vu
 
 # 517
 
-Ni [podéis casaros] con las mujeres casadas, excepto que sean propiedad vuestra. Es un decreto de Dios para vosotros. Y, a parte de esos casos, es lícito para vosotros buscar la unión con ellas si las solicitáis con vuestros bienes, buscando el matrimonio y no la fornicación. Y si os casáis temporalmente con ellas, dadles su dote obligatoriamente. Y no cometéis falta en lo que, aparte de la dote, convengáis de mutuo acuerdo. En verdad, Dios todo lo conoce, es sabio.
+Ni \[podéis casaros\] con las mujeres casadas, excepto que sean propiedad vuestra. Es un decreto de Dios para vosotros. Y, a parte de esos casos, es lícito para vosotros buscar la unión con ellas si las solicitáis con vuestros bienes, buscando el matrimonio y no la fornicación. Y si os casáis temporalmente con ellas, dadles su dote obligatoriamente. Y no cometéis falta en lo que, aparte de la dote, convengáis de mutuo acuerdo. En verdad, Dios todo lo conoce, es sabio.
 
 # 518
 
@@ -2114,7 +2114,7 @@ Nosotros hemos designado, para todos, herederos de lo que dejan los padres y los
 
 # 527
 
-Los hombres son los encargados de proteger y atender a las mujeres por aquello con lo que Dios ha favorecido a unos sobre otros y por lo que gastan de sus bienes. Y las casadas virtuosas son discretas y protegen en ausencia [de sus esposos] lo que Dios ha encargado proteger. Y a aquellas de las que temáis una conducta rebelde y obstinada, amonestadlas [primero], y [si no surte efecto] abandonadlas en el lecho y [en última instancia] golpeadlas. Pero si os obedecen, no hagáis nada contra ellas. Dios es Excelso, Grande.
+Los hombres son los encargados de proteger y atender a las mujeres por aquello con lo que Dios ha favorecido a unos sobre otros y por lo que gastan de sus bienes. Y las casadas virtuosas son discretas y protegen en ausencia \[de sus esposos\] lo que Dios ha encargado proteger. Y a aquellas de las que temáis una conducta rebelde y obstinada, amonestadlas \[primero\], y \[si no surte efecto\] abandonadlas en el lecho y \[en última instancia\] golpeadlas. Pero si os obedecen, no hagáis nada contra ellas. Dios es Excelso, Grande.
 
 # 528
 
@@ -2154,7 +2154,7 @@ Ese día, aquellos que no creyeron y desobedecieron al Mensajero querrán que la
 
 # 537
 
-¿No has visto a quienes les fue dada parte de la Escritura [Sagrada]? Compran el extravío y quieren que también vosotros extraviéis el Camino.
+¿No has visto a quienes les fue dada parte de la Escritura \[Sagrada\]? Compran el extravío y quieren que también vosotros extraviéis el Camino.
 
 # 538
 
@@ -2166,7 +2166,7 @@ Algunos judíos alteran el significado de las palabras y dicen: “Oímos y deso
 
 # 540
 
-¡Oh, aquellos a quienes les fue dada la Escritura [Sagrada]! ¡Creed en lo que hicimos descender confirmando lo que teníais, antes de que borremos los rostros y los volvamos del revés o los maldigamos como maldijimos a las gentes del sabt [sábado]! La orden de Dios es para ser cumplida.
+¡Oh, aquellos a quienes les fue dada la Escritura \[Sagrada\]! ¡Creed en lo que hicimos descender confirmando lo que teníais, antes de que borremos los rostros y los volvamos del revés o los maldigamos como maldijimos a las gentes del sabt \[sábado\]! La orden de Dios es para ser cumplida.
 
 # 541
 
@@ -2182,7 +2182,7 @@ Observa como inventan mentiras sobre Dios. Eso es suficiente como pecado evident
 
 # 544
 
-¡No has visto a quienes les fue dada una parte de la Escritura [Sagrada] y creen en los espíritus mágicos malignos y en los falsos ídolos y dicen de los que no son creyentes: «Esos están mejor guiados que los creyentes.»
+¡No has visto a quienes les fue dada una parte de la Escritura \[Sagrada\] y creen en los espíritus mágicos malignos y en los falsos ídolos y dicen de los que no son creyentes: «Esos están mejor guiados que los creyentes.»
 
 # 545
 
@@ -2194,7 +2194,7 @@ Esos son a quienes Dios maldijo y no encontrarás quien auxilie a quien Dios mal
 
 # 547
 
-¿O es que envidian a la gente por lo que Dios les ha otorgado de Su favor? Pues, a la familia de Abraham le dimos, en verdad, la Escritura [Sagrada] y la Sabiduría y les dimos un Gobierno inmenso.
+¿O es que envidian a la gente por lo que Dios les ha otorgado de Su favor? Pues, a la familia de Abraham le dimos, en verdad, la Escritura \[Sagrada\] y la Sabiduría y les dimos un Gobierno inmenso.
 
 # 548
 
@@ -2222,7 +2222,7 @@ En verdad, Dios os ordena devolver a sus propietarios los depósitos que se os c
 
 # 554
 
-Y cuando se les dice: «Venid a lo que hizo descender Dios y [venid] hacia el Mensajero» ya ves cómo los hipócritas se apartan totalmente de ti.
+Y cuando se les dice: «Venid a lo que hizo descender Dios y \[venid\] hacia el Mensajero» ya ves cómo los hipócritas se apartan totalmente de ti.
 
 # 555
 
@@ -2286,7 +2286,7 @@ Los que creen combaten por la causa de Dios y los que no creen combaten por la c
 
 # 570
 
-¿No has visto a aquellos a quienes se les dijo: «Apartad vuestras manos [de las armas], estableced la oración y dad la limosna ritual» que cuando se les ordena ir al combate temen a los hombres como si fueran Dios o más aun y dicen: «¡Señor nuestro! ¿Por qué nos has ordenado ir al combate? Si al menos nos lo aplazaras un poco...»? Di: «El disfrute de esta vida es poco y la otra Vida es mejor para quien teme desagradar a Dios. Y no seréis oprimidos lo más mínimo.
+¿No has visto a aquellos a quienes se les dijo: «Apartad vuestras manos \[de las armas\], estableced la oración y dad la limosna ritual» que cuando se les ordena ir al combate temen a los hombres como si fueran Dios o más aun y dicen: «¡Señor nuestro! ¿Por qué nos has ordenado ir al combate? Si al menos nos lo aplazaras un poco...»? Di: «El disfrute de esta vida es poco y la otra Vida es mejor para quien teme desagradar a Dios. Y no seréis oprimidos lo más mínimo.
 
 # 571
 
@@ -2310,11 +2310,11 @@ Dicen: «Obedecemos» pero cuando salen de tu presencia, un grupo de ellos consp
 
 # 576
 
-Y, cuando llega a ellos un asunto del que sentirse seguros o del que temer, lo difunden [sin verificarlo], pero si lo hubiesen remitido al Mensajero y a los que tienen autoridad entre ellos, aquellos que deseaban saber la verdad de primera mano la habrían sabido. Y si no fuese por el favor de Dios sobre vosotros y por Su misericordia, habríais seguido a Satanás, exceptuando a unos pocos.
+Y, cuando llega a ellos un asunto del que sentirse seguros o del que temer, lo difunden \[sin verificarlo\], pero si lo hubiesen remitido al Mensajero y a los que tienen autoridad entre ellos, aquellos que deseaban saber la verdad de primera mano la habrían sabido. Y si no fuese por el favor de Dios sobre vosotros y por Su misericordia, habríais seguido a Satanás, exceptuando a unos pocos.
 
 # 577
 
-Así pues ¡Combate por la causa de Dios! No eres responsable más que de ti mismo. Y anima a los creyentes [a combatir]. Es posible que Dios contenga el ímpetu de los que no creen. Y Dios posee mayor fuerza y es más severo castigando.
+Así pues ¡Combate por la causa de Dios! No eres responsable más que de ti mismo. Y anima a los creyentes \[a combatir\]. Es posible que Dios contenga el ímpetu de los que no creen. Y Dios posee mayor fuerza y es más severo castigando.
 
 # 578
 
@@ -2334,7 +2334,7 @@ Al.lah. No hay más dios que Él. Él os reunirá para el Día del Levantamiento
 
 # 582
 
-Ellos quisieran que vosotros no creyeseis, de la misma manera que ellos no creen, para que fueseis iguales. Así que no toméis amigos de entre ellos hasta que emigren por la causa de Dios. Y si [os] dan la espalda, apresadlos y matadlos donde quiera que les encontréis. Y no aceptéis su amistad ni su ayuda,
+Ellos quisieran que vosotros no creyeseis, de la misma manera que ellos no creen, para que fueseis iguales. Así que no toméis amigos de entre ellos hasta que emigren por la causa de Dios. Y si \[os\] dan la espalda, apresadlos y matadlos donde quiera que les encontréis. Y no aceptéis su amistad ni su ayuda,
 
 # 583
 
@@ -2398,7 +2398,7 @@ Y no debilitéis la persecución de esa gente. Si sufrís, ellos también sufren
 
 # 598
 
-En verdad, hicimos descender para ti la Escritura [Sagrada] con la Verdad, para que juzgues entre los hombres mediante lo que Dios te ha hecho ver. Y no seas defensor de los traidores.
+En verdad, hicimos descender para ti la Escritura \[Sagrada\] con la Verdad, para que juzgues entre los hombres mediante lo que Dios te ha hecho ver. Y no seas defensor de los traidores.
 
 # 599
 
@@ -2430,7 +2430,7 @@ Quien, pues, comete un error o un pecado y luego acusa de ello a un inocente, ca
 
 # 606
 
-Si no fuera por el favor y la misericordia de Dios sobre ti, un grupo de ellos habría tratado de extraviarte, pero no se extravían más que a sí mismos. Y no pueden perjudicarte en nada. Dios ha hecho descender sobre ti la Escritura [Sagrada] y la Sabiduría y te ha enseñado lo que no sabías. El favor que Dios te hizo es inmenso.
+Si no fuera por el favor y la misericordia de Dios sobre ti, un grupo de ellos habría tratado de extraviarte, pero no se extravían más que a sí mismos. Y no pueden perjudicarte en nada. Dios ha hecho descender sobre ti la Escritura \[Sagrada\] y la Sabiduría y te ha enseñado lo que no sabías. El favor que Dios te hizo es inmenso.
 
 # 607
 
@@ -2470,7 +2470,7 @@ Y, a aquellos que creen y obran rectamente, les haremos entrar en Jardines de cu
 
 # 616
 
-[La superioridad] no es por deseo vuestro o por deseo de la gente de la Escritura [Sagrada]. Quien obre mal será retribuido por ello y, excepto Dios, no encontrará ni amigo ni auxiliar.
+\[La superioridad\] no es por deseo vuestro o por deseo de la gente de la Escritura \[Sagrada\]. Quien obre mal será retribuido por ello y, excepto Dios, no encontrará ni amigo ni auxiliar.
 
 # 617
 
@@ -2486,15 +2486,15 @@ A Dios pertenece lo que hay en los cielos y lo que hay en la Tierra y Dios todo 
 
 # 620
 
-Te piden tu opinión sobre las mujeres. Di: «Dios os da su parecer sobre ello [en lo que os fue recitado] en la Escritura [Sagrada] sobre ellas. Y en lo que os fue recitado sobre las huérfanas a las cuales no habéis entregado lo que fue dispuesto para ellas y con las cuales no deseáis casaros, y sobre los niños oprimidos, y que debéis dar a los huérfanos un trato equitativo. Y lo que hagáis de bien, Dios, con seguridad, lo sabrá.»
+Te piden tu opinión sobre las mujeres. Di: «Dios os da su parecer sobre ello \[en lo que os fue recitado\] en la Escritura \[Sagrada\] sobre ellas. Y en lo que os fue recitado sobre las huérfanas a las cuales no habéis entregado lo que fue dispuesto para ellas y con las cuales no deseáis casaros, y sobre los niños oprimidos, y que debéis dar a los huérfanos un trato equitativo. Y lo que hagáis de bien, Dios, con seguridad, lo sabrá.»
 
 # 621
 
-Y si una mujer siente que su esposo la rechaza o la evita, no hacen mal si ambos lo arreglan pacíficamente. Y hacer las paces es mejor. Las almas son propensas a la codicia, pero si sois virtuosos y temerosos de Dios [sabed que] ciertamente, Dios está bien informado de todo lo que hacéis.
+Y si una mujer siente que su esposo la rechaza o la evita, no hacen mal si ambos lo arreglan pacíficamente. Y hacer las paces es mejor. Las almas son propensas a la codicia, pero si sois virtuosos y temerosos de Dios \[sabed que\] ciertamente, Dios está bien informado de todo lo que hacéis.
 
 # 622
 
-Y, jamás podréis ser justos con vuestras mujeres, aun deseándolo, pero no os inclinéis totalmente [hacia una] dejando [a las otras] como suspendidas en el aire. Si lo arregláis y sois temerosos de Dios [encontraréis] que, ciertamente, Dios es perdonador, misericordiosísimo con los creyentes.
+Y, jamás podréis ser justos con vuestras mujeres, aun deseándolo, pero no os inclinéis totalmente \[hacia una\] dejando \[a las otras\] como suspendidas en el aire. Si lo arregláis y sois temerosos de Dios \[encontraréis\] que, ciertamente, Dios es perdonador, misericordiosísimo con los creyentes.
 
 # 623
 
@@ -2502,7 +2502,7 @@ Y, si se separan, Dios cubrirá las necesidades de cada uno de ellos con algo de
 
 # 624
 
-A Dios pertenece todo lo que hay en los cielos y en la Tierra. Y, ciertamente, Nosotros ordenamos a quienes les fue dada la Escritura [Sagrada] antes de vosotros y, [también], a vosotros, que fuerais buenos, temeroso de Dios. Pero, si no creéis, [sabed que] en verdad, a Dios pertenece lo que hay en los cielos y en la Tierra. Y Dios es rico por Sí mismo, digno de ser alabado.
+A Dios pertenece todo lo que hay en los cielos y en la Tierra. Y, ciertamente, Nosotros ordenamos a quienes les fue dada la Escritura \[Sagrada\] antes de vosotros y, \[también\], a vosotros, que fuerais buenos, temeroso de Dios. Pero, si no creéis, \[sabed que\] en verdad, a Dios pertenece lo que hay en los cielos y en la Tierra. Y Dios es rico por Sí mismo, digno de ser alabado.
 
 # 625
 
@@ -2514,7 +2514,7 @@ Si Él quisiera ¡Oh gentes! os llevaría y traería a otros. Dios tiene suficie
 
 # 627
 
-Quien desee la recompensa de este mundo, [sepa que] junto a Dios están la recompensa de este mundo y la del Otro. Y Dios todo lo oye, todo lo ve.
+Quien desee la recompensa de este mundo, \[sepa que\] junto a Dios están la recompensa de este mundo y la del Otro. Y Dios todo lo oye, todo lo ve.
 
 # 628
 
@@ -2522,11 +2522,11 @@ Quien desee la recompensa de este mundo, [sepa que] junto a Dios están la recom
 
 # 629
 
-¡Oh los que creéis! Creed en Dios y en Su Mensajero y en la Escritura [Sagrada] que ha ido descendiendo sobre Su Mensajero y en la Escritura [Sagrada] que hicimos descender anteriormente. Y quien no crea en Dios y en Sus ángeles y en Sus Escrituras y en Sus Mensajeros y en el Último Día, en verdad, se habrá extraviado profundamente.
+¡Oh los que creéis! Creed en Dios y en Su Mensajero y en la Escritura \[Sagrada\] que ha ido descendiendo sobre Su Mensajero y en la Escritura \[Sagrada\] que hicimos descender anteriormente. Y quien no crea en Dios y en Sus ángeles y en Sus Escrituras y en Sus Mensajeros y en el Último Día, en verdad, se habrá extraviado profundamente.
 
 # 630
 
-En verdad, a aquellos que creen, luego descreen, luego creen, luego descreen, incrementando su incredulidad, Dios no les perdonará jamás ni les guiará al camino [recto].
+En verdad, a aquellos que creen, luego descreen, luego creen, luego descreen, incrementando su incredulidad, Dios no les perdonará jamás ni les guiará al camino \[recto\].
 
 # 631
 
@@ -2538,11 +2538,11 @@ Aquellos que toman como amigos a los que no creen en lugar de a los creyentes. �
 
 # 633
 
-Él os reveló en la Escritura [Sagrada] que, cuando oigáis que las indicaciones de Dios no son creídas y se hace burla de ellas, no os sentéis con ellos hasta que hablen de otra cosa, pues, entonces, seríais como ellos. En verdad, Dios reunirá a los hipócritas y a los que no creen en el Infierno. Todos juntos.
+Él os reveló en la Escritura \[Sagrada\] que, cuando oigáis que las indicaciones de Dios no son creídas y se hace burla de ellas, no os sentéis con ellos hasta que hablen de otra cosa, pues, entonces, seríais como ellos. En verdad, Dios reunirá a los hipócritas y a los que no creen en el Infierno. Todos juntos.
 
 # 634
 
-[Los hipócritas son] aquellos que permanecen a la expectativa y si Dios os envía una victoria, dicen: «¿Acaso no estamos con vosotros?» pero si los que no creen consiguen ganar una victoria parcial, dicen: «¿Acaso no podíamos haber cabalgado contra vosotros y, en cambio os defendimos de los creyentes?» Pero Dios juzgará entre vosotros el Día del Levantamiento. Y Dios no permitirá, en absoluto, que los no creyentes se sitúen sobre los creyentes.
+\[Los hipócritas son\] aquellos que permanecen a la expectativa y si Dios os envía una victoria, dicen: «¿Acaso no estamos con vosotros?» pero si los que no creen consiguen ganar una victoria parcial, dicen: «¿Acaso no podíamos haber cabalgado contra vosotros y, en cambio os defendimos de los creyentes?» Pero Dios juzgará entre vosotros el Día del Levantamiento. Y Dios no permitirá, en absoluto, que los no creyentes se sitúen sobre los creyentes.
 
 # 635
 
@@ -2574,7 +2574,7 @@ A Dios no le gusta que nadie vaya proclamando abiertamente el mal, excepto si es
 
 # 642
 
-Si manifestáis el bien o lo ocultáis o perdonáis un agravio, [sabed que] ciertamente, Dios es perdonador, poderosísimo.
+Si manifestáis el bien o lo ocultáis o perdonáis un agravio, \[sabed que\] ciertamente, Dios es perdonador, poderosísimo.
 
 # 643
 
@@ -2590,7 +2590,7 @@ Y, a quienes creen en Dios y en Sus Mensajeros y no hacen diferencia entre ningu
 
 # 646
 
-La gente de la Escritura [Sagrada] te pide que hagas descender para ellos una Escritura del Cielo. A Moisés le pidieron cosas más grandes, pues dijeron: «Haznos ver a Dios claramente» y el rayo los aniquiló por su injusticia. Luego adoraron al becerro, después de haber venido a ellos las pruebas claras [de cuál era la Verdad] y, [no obstante], Les perdonamos aquello y dimos a Moisés una autoridad evidente.
+La gente de la Escritura \[Sagrada\] te pide que hagas descender para ellos una Escritura del Cielo. A Moisés le pidieron cosas más grandes, pues dijeron: «Haznos ver a Dios claramente» y el rayo los aniquiló por su injusticia. Luego adoraron al becerro, después de haber venido a ellos las pruebas claras \[de cuál era la Verdad\] y, \[no obstante\], Les perdonamos aquello y dimos a Moisés una autoridad evidente.
 
 # 647
 
@@ -2614,7 +2614,7 @@ sino que Dios lo elevó hacia Él. Dios es poderosos, sabio.
 
 # 652
 
-Entre la gente de la Escritura [Sagrada] no habrá nadie que no crea en él antes de su muerte y el Día del Levantamiento él será testigo sobre ellos.
+Entre la gente de la Escritura \[Sagrada\] no habrá nadie que no crea en él antes de su muerte y el Día del Levantamiento él será testigo sobre ellos.
 
 # 653
 
@@ -2630,11 +2630,11 @@ Pero, a quienes de ellos estén firmemente arraigados en el conocimiento, a los 
 
 # 656
 
-En verdad, Nosotros te hemos enviado la revelación [¡Oh Muhammad!], tal como enviamos la revelación a Noé y a los profetas que vinieron tras él. Y enviamos la revelación a Abraham, Ismael, Isaac, Jacob, a las tribus [de los Hijos de Israel], y a Jesús, Job, Jonás, Aarón y a Salomón. Y a David le otorgamos los Salmos.
+En verdad, Nosotros te hemos enviado la revelación \[¡Oh Muhammad!\], tal como enviamos la revelación a Noé y a los profetas que vinieron tras él. Y enviamos la revelación a Abraham, Ismael, Isaac, Jacob, a las tribus \[de los Hijos de Israel\], y a Jesús, Job, Jonás, Aarón y a Salomón. Y a David le otorgamos los Salmos.
 
 # 657
 
-Y [hemos enviado] Mensajeros de los que te hemos relatado su historia anteriormente y otros Mensajeros de los que no te hemos relatado su historia. Y Dios habló a Moisés directamente.
+Y \[hemos enviado\] Mensajeros de los que te hemos relatado su historia anteriormente y otros Mensajeros de los que no te hemos relatado su historia. Y Dios habló a Moisés directamente.
 
 # 658
 
@@ -2646,7 +2646,7 @@ Pero Dios atestigua que lo que Él hizo descender para ti lo hizo descender medi
 
 # 660
 
-En verdad, aquellos que no creen y ponen dificultades [a los que quieren seguir] en la senda de Dios, se han extraviado enormemente.
+En verdad, aquellos que no creen y ponen dificultades \[a los que quieren seguir\] en la senda de Dios, se han extraviado enormemente.
 
 # 661
 
@@ -2662,7 +2662,7 @@ excepto en dirección al Infierno, en el que estarán eternamente; para siempre.
 
 # 664
 
-¡Oh, gente de la Escritura [Sagrada]! No exageréis en vuestra religión y no digáis de Dios más que la verdad. En verdad, el Mesías Jesús hijo de María es un profeta de Dios, Su palabra depositada en María y un espíritu procedente de Él. Creed, pues, en Dios y en Sus Mensajeros y no digáis «Tres». ¡Acabad con eso! Es mejor para vosotros. En verdad, Dios es uno. ¡Glorificado sea! ¡Cómo va a tener Él un hijo! ¡A Él pertenece lo que hay en los cielos y en la Tierra! ¡Y Dios se basta para administrarlo!
+¡Oh, gente de la Escritura \[Sagrada\]! No exageréis en vuestra religión y no digáis de Dios más que la verdad. En verdad, el Mesías Jesús hijo de María es un profeta de Dios, Su palabra depositada en María y un espíritu procedente de Él. Creed, pues, en Dios y en Sus Mensajeros y no digáis «Tres». ¡Acabad con eso! Es mejor para vosotros. En verdad, Dios es uno. ¡Glorificado sea! ¡Cómo va a tener Él un hijo! ¡A Él pertenece lo que hay en los cielos y en la Tierra! ¡Y Dios se basta para administrarlo!
 
 # 665
 
@@ -2686,7 +2686,7 @@ Te piden tu juicio. Di: «Dios os da su juicio sobre la kalála: Si un hombre mu
 
 # 670
 
-¡Oh, los que creéis! Respetad los compromisos. Es licito para vosotros [comer la carne de] los animales de los rebaños, excepto de aquellos que se os va a comunicar. La caza no es lícita para vosotros mientras estéis consagrados [durante la peregrinación]. En verdad, Dios decreta lo que desea.
+¡Oh, los que creéis! Respetad los compromisos. Es licito para vosotros \[comer la carne de\] los animales de los rebaños, excepto de aquellos que se os va a comunicar. La caza no es lícita para vosotros mientras estéis consagrados \[durante la peregrinación\]. En verdad, Dios decreta lo que desea.
 
 # 671
 
@@ -2694,19 +2694,19 @@ Oh, los que creéis! No profanéis los sacramentos de Dios, ni el mes sagrado, n
 
 # 672
 
-Se os prohíbe [comer] la carne de los animales muertos, la sangre, la carne del cerdo y de lo que se ha ofrecido a otro distinto a Dios; el animal estrangulado o golpeado hasta morir o muerto por una caída o por una cornada, o lo devorado por una fiera, excepto lo que podáis purificar, y lo sacrificado sobre las piedras, así como dividir [la carne] consultando la suerte de las flechas. Todo ello es una trasgresión. Hoy, los que no creen, han desesperado de que vuestra religión decline. Por tanto, no les temáis a ellos, temed de Mí. Hoy he completado vuestra religión y he consumado Mi bendición sobre vosotros y estoy satisfecho de haberos dado como creencia el Islam. Y quien se vea obligado por el hambre, no por ánimo de pecar, encontrará que Dios es, verdaderamente, perdonador, misericordiosísimo con los creyentes.
+Se os prohíbe \[comer\] la carne de los animales muertos, la sangre, la carne del cerdo y de lo que se ha ofrecido a otro distinto a Dios; el animal estrangulado o golpeado hasta morir o muerto por una caída o por una cornada, o lo devorado por una fiera, excepto lo que podáis purificar, y lo sacrificado sobre las piedras, así como dividir \[la carne\] consultando la suerte de las flechas. Todo ello es una trasgresión. Hoy, los que no creen, han desesperado de que vuestra religión decline. Por tanto, no les temáis a ellos, temed de Mí. Hoy he completado vuestra religión y he consumado Mi bendición sobre vosotros y estoy satisfecho de haberos dado como creencia el Islam. Y quien se vea obligado por el hambre, no por ánimo de pecar, encontrará que Dios es, verdaderamente, perdonador, misericordiosísimo con los creyentes.
 
 # 673
 
-Te preguntan que es lícito para ellos. Di: «Son lícitas para vosotros las cosas buenas y puras, y [la caza] con los animales de presa que habéis enseñado con lo que Dios os enseñó a vosotros. Comed, pues, de lo que capturen para vosotros y mencionad el nombre de Dios sobre ello. Y sed temerosos de Dios. Ciertamente, Dios es rápido haciendo la cuenta.»
+Te preguntan que es lícito para ellos. Di: «Son lícitas para vosotros las cosas buenas y puras, y \[la caza\] con los animales de presa que habéis enseñado con lo que Dios os enseñó a vosotros. Comed, pues, de lo que capturen para vosotros y mencionad el nombre de Dios sobre ello. Y sed temerosos de Dios. Ciertamente, Dios es rápido haciendo la cuenta.»
 
 # 674
 
-Hoy se han hecho lícitas para vosotros las cosas buenas y puras. Y los alimentos de aquellos a quienes les fue dada la Escritura [Sagrada] se han hecho lícitos para vosotros y vuestros alimentos lícitos para ellos. Y las mujeres honestas de entre las creyentes y las mujeres honestas de entre aquellos a quienes les fue dada la Escritura [Sagrada] antes de vosotros, cuando les hayáis dado su dote en matrimonio, no tomándolas como fornicadoras o como amantes. Y quien abandone la fe, habrá malogrado sus obras y en la otra Vida será de los perdedores.
+Hoy se han hecho lícitas para vosotros las cosas buenas y puras. Y los alimentos de aquellos a quienes les fue dada la Escritura \[Sagrada\] se han hecho lícitos para vosotros y vuestros alimentos lícitos para ellos. Y las mujeres honestas de entre las creyentes y las mujeres honestas de entre aquellos a quienes les fue dada la Escritura \[Sagrada\] antes de vosotros, cuando les hayáis dado su dote en matrimonio, no tomándolas como fornicadoras o como amantes. Y quien abandone la fe, habrá malogrado sus obras y en la otra Vida será de los perdedores.
 
 # 675
 
-¡Oh, los que creéis! Cuando os pongáis en pie para la oración, lavad vuestra cara y vuestras manos hasta los codos y pasad la mano [húmeda] por vuestras cabezas y por vuestros pies hasta los empeines. Y, si estáis impuros, purificaos y si estáis enfermos o de viaje o alguno de vosotros viene de hacer sus necesidades o habéis mantenido relaciones con las mujeres y no encontráis agua, purificaos con tierra pura, pasando las manos con ella por vuestros rostros y por vuestras manos. Dios no desea imponeros una carga, sino que quiere que os purifiquéis y completar Su favor sobre vosotros para que así, quizás, agradezcáis.
+¡Oh, los que creéis! Cuando os pongáis en pie para la oración, lavad vuestra cara y vuestras manos hasta los codos y pasad la mano \[húmeda\] por vuestras cabezas y por vuestros pies hasta los empeines. Y, si estáis impuros, purificaos y si estáis enfermos o de viaje o alguno de vosotros viene de hacer sus necesidades o habéis mantenido relaciones con las mujeres y no encontráis agua, purificaos con tierra pura, pasando las manos con ella por vuestros rostros y por vuestras manos. Dios no desea imponeros una carga, sino que quiere que os purifiquéis y completar Su favor sobre vosotros para que así, quizás, agradezcáis.
 
 # 676
 
@@ -2742,7 +2742,7 @@ Y establecimos un pacto con los que decían: «Ciertamente, somos nazarenos.» P
 
 # 684
 
-¡Oh, gente de la Escritura [Sagrada]! Ha venido a vosotros Nuestro Mensajero mostrando claramente mucho de lo que ocultabais de la Escritura y eliminando mucho. Ha venido a vosotros, procedente de Dios, una Luz y una Escritura clara.
+¡Oh, gente de la Escritura \[Sagrada\]! Ha venido a vosotros Nuestro Mensajero mostrando claramente mucho de lo que ocultabais de la Escritura y eliminando mucho. Ha venido a vosotros, procedente de Dios, una Luz y una Escritura clara.
 
 # 685
 
@@ -2754,11 +2754,11 @@ Ciertamente, aquellos que dicen: «El Mesías hijo de María es Dios» niegan la
 
 # 687
 
-Y los judíos y los cristianos dicen: «Somos los hijos de Dios y Sus preferidos.» Di: «¿Entonces, por qué os castiga por vuestros pecados? Sólo sois otros seres humanos de los [muchos] que Él ha creado.» Él perdona a quien quiere y castiga a quien quiere. Y a Dios pertenece el gobierno de los cielos y la Tierra y de lo que hay entre ambos y todo regresa a Él.
+Y los judíos y los cristianos dicen: «Somos los hijos de Dios y Sus preferidos.» Di: «¿Entonces, por qué os castiga por vuestros pecados? Sólo sois otros seres humanos de los \[muchos\] que Él ha creado.» Él perdona a quien quiere y castiga a quien quiere. Y a Dios pertenece el gobierno de los cielos y la Tierra y de lo que hay entre ambos y todo regresa a Él.
 
 # 688
 
-¡Oh, gente de la Escritura [Sagrada]! Ha venido a vosotros Nuestro Mensajero, tras un periodo sin Mensajeros, para explicaros [las enseñanzas divinas], no fueseis a decir: «No ha venido a nosotros nadie que nos comunicara la buena nueva ni nos advirtiese del castigo.» Así pues, ha venido a vosotros un portador de la buena nueva y advertidor del castigo. Y Dios tiene poder sobre todas las cosas.
+¡Oh, gente de la Escritura \[Sagrada\]! Ha venido a vosotros Nuestro Mensajero, tras un periodo sin Mensajeros, para explicaros \[las enseñanzas divinas\], no fueseis a decir: «No ha venido a nosotros nadie que nos comunicara la buena nueva ni nos advirtiese del castigo.» Así pues, ha venido a vosotros un portador de la buena nueva y advertidor del castigo. Y Dios tiene poder sobre todas las cosas.
 
 # 689
 
@@ -2782,15 +2782,15 @@ Dijeron: «¡Oh, Moisés! Jamás entraremos mientras ellos continúen allí. ¡I
 
 # 694
 
-Dijo [Moisés]: ¡Dios mío! No tengo poder excepto sobre mí mismo y sobre mi hermano. Aléjanos de la gente trasgresora.»
+Dijo \[Moisés\]: ¡Dios mío! No tengo poder excepto sobre mí mismo y sobre mi hermano. Aléjanos de la gente trasgresora.»
 
 # 695
 
-Dijo [Dios]: «Estará prohibida para ellos. Cuarenta años vagarán por la Tierra. No te entristezcas por ese pueblo trasgresor.»
+Dijo \[Dios\]: «Estará prohibida para ellos. Cuarenta años vagarán por la Tierra. No te entristezcas por ese pueblo trasgresor.»
 
 # 696
 
-Relátales la verdadera historia de los dos hijos de Adán, cuando ambos realizaron una ofrenda a Dios y a uno de ellos le fue aceptada pero al otro no. [Éste] Dijo: «¡Juro que te mataré!» Dijo [el otro]: «Dios sólo acepta la ofrenda de quienes son temerosos.
+Relátales la verdadera historia de los dos hijos de Adán, cuando ambos realizaron una ofrenda a Dios y a uno de ellos le fue aceptada pero al otro no. \[Éste\] Dijo: «¡Juro que te mataré!» Dijo \[el otro\]: «Dios sólo acepta la ofrenda de quienes son temerosos.
 
 # 697
 
@@ -2858,7 +2858,7 @@ Pero ¿Cómo pueden querer que tú seas su juez, teniendo ellos la Torá con el 
 
 # 713
 
-Ciertamente, hicimos descender la Torá. En ella hay guía y luz. Los profetas, obedeciendo a Dios, administraban justicia con ella entre los judíos [y también] los rabinos y sabios, pues se les pidió que protegiesen la Escritura de Dios y dieran testimonio de ella. Así pues, no tengáis miedo de la gente, temedme a Mí y no vendáis Mis indicaciones por poco precio. Quienes no juzguen con los que Dios ha hecho descender, serán los que ocultan la Verdad.
+Ciertamente, hicimos descender la Torá. En ella hay guía y luz. Los profetas, obedeciendo a Dios, administraban justicia con ella entre los judíos \[y también\] los rabinos y sabios, pues se les pidió que protegiesen la Escritura de Dios y dieran testimonio de ella. Así pues, no tengáis miedo de la gente, temedme a Mí y no vendáis Mis indicaciones por poco precio. Quienes no juzguen con los que Dios ha hecho descender, serán los que ocultan la Verdad.
 
 # 714
 
@@ -2898,7 +2898,7 @@ Y los creyentes dirán: «¿Son esos los que con solemnidad juraban por Dios que
 
 # 723
 
-¡Oh, los que creéis! Quien de vosotros reniegue de sus creencias religiosas [sepa que] vendrá Dios con una gente a la que Él ama y por la que es amado, [que será] humilde con los creyentes y severa con los que ocultan la Verdad. Esforzados por la causa de Dios y que no temen la maldición de ningún calumniador. Este es el favor de Dios, que otorga a quien Él quiere. Y Dios todo lo abarca, todo lo conoce.
+¡Oh, los que creéis! Quien de vosotros reniegue de sus creencias religiosas \[sepa que\] vendrá Dios con una gente a la que Él ama y por la que es amado, \[que será\] humilde con los creyentes y severa con los que ocultan la Verdad. Esforzados por la causa de Dios y que no temen la maldición de ningún calumniador. Este es el favor de Dios, que otorga a quien Él quiere. Y Dios todo lo abarca, todo lo conoce.
 
 # 724
 
@@ -2910,7 +2910,7 @@ Y quienes tomen como amigos y protectores a Dios, a Su Mensajero y a los que tie
 
 # 726
 
-¡Oh, creyentes! No toméis como amigos a quienes, habiendo recibido la Escritura [Sagrada] antes que vosotros, toman vuestras creencias religiosas a burla y juego, ni tampoco a los que no creen. Y temed a Dios si sois creyentes.
+¡Oh, creyentes! No toméis como amigos a quienes, habiendo recibido la Escritura \[Sagrada\] antes que vosotros, toman vuestras creencias religiosas a burla y juego, ni tampoco a los que no creen. Y temed a Dios si sois creyentes.
 
 # 727
 
@@ -2918,7 +2918,7 @@ Y cuando llamáis a la oración lo toman a burla y a juego. Eso es porque son un
 
 # 728
 
-Di: «¡Oh, gente de la Escritura [Sagrada]! ¿Nos rechazáis por alguna otra razón que por haber creído en Dios y en lo que nos fue revelado y en lo que fue revelado antes de nosotros y porque la mayoría de vosotros sois transgresores?»
+Di: «¡Oh, gente de la Escritura \[Sagrada\]! ¿Nos rechazáis por alguna otra razón que por haber creído en Dios y en lo que nos fue revelado y en lo que fue revelado antes de nosotros y porque la mayoría de vosotros sois transgresores?»
 
 # 729
 
@@ -2942,7 +2942,7 @@ Los judíos dicen: «La mano de Dios está atada.» ¡Que sus manos sean atadas 
 
 # 734
 
-Y, si la gente de la Escritura [Sagrada] creyera y tuviera temor de Dios, perdonaríamos sus malos actos y les introduciríamos en los Jardines de la Delicia.
+Y, si la gente de la Escritura \[Sagrada\] creyera y tuviera temor de Dios, perdonaríamos sus malos actos y les introduciríamos en los Jardines de la Delicia.
 
 # 735
 
@@ -2954,7 +2954,7 @@ Y, si llevasen a la práctica los preceptos de la Torá y el Evangelio y lo que 
 
 # 737
 
-Di: «¡Oh, gente de la Escritura [Sagrada]! No estaréis en nada mientras no observéis la Torá, el Evangelio y lo que descendió para vosotros procedente de vuestro Señor.» Pero lo que descendió para ti procedente de tu Señor incrementa en muchos de ellos la rebeldía y la falta de fe. No te apenes, pues, por la gente que no tiene fe.
+Di: «¡Oh, gente de la Escritura \[Sagrada\]! No estaréis en nada mientras no observéis la Torá, el Evangelio y lo que descendió para vosotros procedente de vuestro Señor.» Pero lo que descendió para ti procedente de tu Señor incrementa en muchos de ellos la rebeldía y la falta de fe. No te apenes, pues, por la gente que no tiene fe.
 
 # 738
 
@@ -2966,11 +2966,11 @@ Hicimos un pacto con los Hijos de Israel y les enviamos Mensajeros. Siempre que 
 
 # 740
 
-Creyeron que no serían puestos a prueba y [actuaron como] ciegos y sordos [ante la Verdad]. Después Dios aceptó su arrepentimiento y, [nuevamente] muchos de ellos [volvieron a comportarse como] ciegos y sordos. Pero Dios observa lo que hacen.
+Creyeron que no serían puestos a prueba y \[actuaron como\] ciegos y sordos \[ante la Verdad\]. Después Dios aceptó su arrepentimiento y, \[nuevamente\] muchos de ellos \[volvieron a comportarse como\] ciegos y sordos. Pero Dios observa lo que hacen.
 
 # 741
 
-En verdad, no creen quienes dicen: «Ciertamente, el Mesías hijo de María es Dios.» Pero el Mesías dijo: «¡Oh, Hijos de Israel! Adorad a Dios, mi Señor y vuestro Señor.» A quién equipare a alguien junto a Dios, Dios le vedará [la entrada en] el Jardín y su morada será el Fuego. Los opresores no tendrán quien les auxilie.
+En verdad, no creen quienes dicen: «Ciertamente, el Mesías hijo de María es Dios.» Pero el Mesías dijo: «¡Oh, Hijos de Israel! Adorad a Dios, mi Señor y vuestro Señor.» A quién equipare a alguien junto a Dios, Dios le vedará \[la entrada en\] el Jardín y su morada será el Fuego. Los opresores no tendrán quien les auxilie.
 
 # 742
 
@@ -2990,7 +2990,7 @@ Di: «¿Adoraréis aparte de Dios a quienes no tienen poder para perjudicaros o 
 
 # 746
 
-Di: «¡Oh, gente de la Escritura [Sagrada]! No exageréis en vuestras creencias faltando a la Verdad y no sigáis las pasiones de una gente que ya se había extraviado anteriormente e hicieron que muchos se extraviaran y que se han apartado del camino recto.»
+Di: «¡Oh, gente de la Escritura \[Sagrada\]! No exageréis en vuestras creencias faltando a la Verdad y no sigáis las pasiones de una gente que ya se había extraviado anteriormente e hicieron que muchos se extraviaran y que se han apartado del camino recto.»
 
 # 747
 
@@ -3002,7 +3002,7 @@ No se prohibían unos a otros las malas acciones que cometían. ¡Qué mal estab
 
 # 749
 
-Ves a muchos de ellos que toman amigos entre los que no tienen fe. ¡Qué malo es lo que han enviado por delante [a la otra vida] para sus almas! Dios está disgustado con ellos y serán castigados eternamente.
+Ves a muchos de ellos que toman amigos entre los que no tienen fe. ¡Qué malo es lo que han enviado por delante \[a la otra vida\] para sus almas! Dios está disgustado con ellos y serán castigados eternamente.
 
 # 750
 
@@ -3042,7 +3042,7 @@ Dios no tendrá en cuenta vuestros juramentos hechos a la ligera, pero sí os to
 
 # 759
 
-¡Oh, los que creéis! Ciertamente, el vino, los juegos de azar, las piedras de altar [los ídolos] y las flechas adivinatorias, son cosas abominables hechas por Satanás. Por tanto, absteneos de ellas, quizás así triunféis.
+¡Oh, los que creéis! Ciertamente, el vino, los juegos de azar, las piedras de altar \[los ídolos\] y las flechas adivinatorias, son cosas abominables hechas por Satanás. Por tanto, absteneos de ellas, quizás así triunféis.
 
 # 760
 
@@ -3118,7 +3118,7 @@ Así será más posible que el testimonio que presten se ajuste a la verdad o te
 
 # 778
 
-[Temed] un día en el que Dios reúna a los profetas y les pregunte: «¿Cómo respondieron las gentes a vuestra llamada?» Y ellos digan: «No lo sabemos. En verdad, Tú Eres el conocedor de lo oculto.»
+\[Temed\] un día en el que Dios reúna a los profetas y les pregunte: «¿Cómo respondieron las gentes a vuestra llamada?» Y ellos digan: «No lo sabemos. En verdad, Tú Eres el conocedor de lo oculto.»
 
 # 779
 
@@ -3130,7 +3130,7 @@ Y cuando inspiré a los apóstoles para que tuvieran fe en Mí y en Mi Mensajero
 
 # 781
 
-Y cuando dijeron los apóstoles: «¡Oh, Jesús hijo de María! ¿Podrá tu Señor hacer que descienda para nosotros una mesa desde el cielo?» Dijo [Jesús]: «¡Temed a Dios si sois creyentes!»
+Y cuando dijeron los apóstoles: «¡Oh, Jesús hijo de María! ¿Podrá tu Señor hacer que descienda para nosotros una mesa desde el cielo?» Dijo \[Jesús\]: «¡Temed a Dios si sois creyentes!»
 
 # 782
 
@@ -3142,11 +3142,11 @@ Dijo Jesús hijo de María: «¡Oh, Dios Señor nuestro! Haz descender a nosotro
 
 # 784
 
-Dijo [Dios]: «En verdad, haré que descienda a vosotros, pero, a quién de vosotros oculte la Verdad después de esto, le castigaré con un castigo con el que no He castigado jamás a nadie en todos los mundos.»
+Dijo \[Dios\]: «En verdad, haré que descienda a vosotros, pero, a quién de vosotros oculte la Verdad después de esto, le castigaré con un castigo con el que no He castigado jamás a nadie en todos los mundos.»
 
 # 785
 
-Y [recuerda] cuando dijo Dios: «¡Oh, Jesús hijo de María! ¿Has dicho tú a los hombres: Tomadme a mí y a mi madre como dioses y no a Dios?» [Jesús] Dijo: «¡Glorificado seas! No soy quién para decir de mí lo que no es cierto. Si lo hubiese dicho Tú lo habrías sabido. Tú sabes lo que hay en mi alma pero yo no sé lo que hay en Tu esencia. Ciertamente Tú eres Quien conoce todas las cosas ocultas.
+Y \[recuerda\] cuando dijo Dios: «¡Oh, Jesús hijo de María! ¿Has dicho tú a los hombres: Tomadme a mí y a mi madre como dioses y no a Dios?» \[Jesús\] Dijo: «¡Glorificado seas! No soy quién para decir de mí lo que no es cierto. Si lo hubiese dicho Tú lo habrías sabido. Tú sabes lo que hay en mi alma pero yo no sé lo que hay en Tu esencia. Ciertamente Tú eres Quien conoce todas las cosas ocultas.
 
 # 786
 
@@ -3190,7 +3190,7 @@ Desmintieron la Verdad cuando llegó a ellos, pero tendrán noticias de aquello 
 
 # 796
 
-Aunque hubiésemos hecho descender para ti [¡Oh, Muhammad!] una Escritura en un pergamino que ellos pudiesen tocar con sus manos, los que no creen habrían dicho: «¡Esto no es sino magia manifiesta!»
+Aunque hubiésemos hecho descender para ti \[¡Oh, Muhammad!\] una Escritura en un pergamino que ellos pudiesen tocar con sus manos, los que no creen habrían dicho: «¡Esto no es sino magia manifiesta!»
 
 # 797
 
@@ -3242,7 +3242,7 @@ Di: «¿Quién aporta el mayor testimonio?» Di: «Dios. Él es testigo entre yo
 
 # 809
 
-Aquellos a quienes Nosotros dimos la Escritura [Sagrada] le conocen como conocen a sus hijos. Quienes se han perdido a sí mismos, no son creyentes.
+Aquellos a quienes Nosotros dimos la Escritura \[Sagrada\] le conocen como conocen a sus hijos. Quienes se han perdido a sí mismos, no son creyentes.
 
 # 810
 
@@ -3262,7 +3262,7 @@ Su única excusa será decir: «Juramos por Dios, nuestro Señor, que no éramos
 
 # 814
 
-Entre ellos, hay algunos que te escuchan, pero Nosotros hemos puesto sobre sus corazones un denso velo para que no comprendan y hemos endurecido sus oídos y, aunque vieran toda clase de señales [de la Verdad], no creerían en ella. Incluso, aunque vengan a discutir contigo, los que no creen dicen: «Esos no son más que mitos de los hombres primitivos.»
+Entre ellos, hay algunos que te escuchan, pero Nosotros hemos puesto sobre sus corazones un denso velo para que no comprendan y hemos endurecido sus oídos y, aunque vieran toda clase de señales \[de la Verdad\], no creerían en ella. Incluso, aunque vengan a discutir contigo, los que no creen dicen: «Esos no son más que mitos de los hombres primitivos.»
 
 # 815
 
@@ -3282,7 +3282,7 @@ Dicen: «No existe más vida que la de este mundo y no seremos resucitados.»
 
 # 819
 
-Si les vieses cuando estén ante su Señor [el Día del Juicio Final]. Él dirá: «¿Acaso no es esto verdad?» Dirán: «Sí, lo juramos por nuestro Señor.» Él dirá: «Probad, pues, el castigo por haber ocultado la Verdad.»
+Si les vieses cuando estén ante su Señor \[el Día del Juicio Final\]. Él dirá: «¿Acaso no es esto verdad?» Dirán: «Sí, lo juramos por nuestro Señor.» Él dirá: «Probad, pues, el castigo por haber ocultado la Verdad.»
 
 # 820
 
@@ -3306,7 +3306,7 @@ Y si te resulta penoso que se aparten de ti, busca si puedes un túnel en la Tie
 
 # 825
 
-Solamente aquellos que escuchan responderán [a tu llamada ¡Oh, Mensajero!] En cuanto a los muertos, Dios les resucitará y, entonces, se les hará regresar a Él.
+Solamente aquellos que escuchan responderán \[a tu llamada ¡Oh, Mensajero!\] En cuanto a los muertos, Dios les resucitará y, entonces, se les hará regresar a Él.
 
 # 826
 
@@ -3314,7 +3314,7 @@ Dicen: «¿Por qué no ha descendido a él ninguna señal milagrosa procedente d
 
 # 827
 
-No existe animal en la Tierra ni ave que vuele con sus dos alas que no forme comunidades como las vuestras. No hemos omitido nada en la Escritura [Sagrada]. Luego, serán congregados hacia su Señor.
+No existe animal en la Tierra ni ave que vuele con sus dos alas que no forme comunidades como las vuestras. No hemos omitido nada en la Escritura \[Sagrada\]. Luego, serán congregados hacia su Señor.
 
 # 828
 
@@ -3330,7 +3330,7 @@ Di: «¡Decidme la verdad si sois sinceros! Si os alcanzase el castigo de Dios u
 
 # 831
 
-Ciertamente, hemos enviado [profetas] a otras comunidades antes de ti e hicimos que soportasen dificultades y preocupaciones para que suplicasen con humildad.
+Ciertamente, hemos enviado \[profetas\] a otras comunidades antes de ti e hicimos que soportasen dificultades y preocupaciones para que suplicasen con humildad.
 
 # 832
 
@@ -3458,7 +3458,7 @@ que hagamos la oración y que seamos temerosos de Él. Y Él es hacia Quien ser�
 
 # 863
 
-Y [recuerda] cuando Abraham dijo a su padre Azar: «¿Tomas a los ídolos por divinidades? Verdaderamente, veo a ti y a tu pueblo en un extravío evidente.»
+Y \[recuerda\] cuando Abraham dijo a su padre Azar: «¿Tomas a los ídolos por divinidades? Verdaderamente, veo a ti y a tu pueblo en un extravío evidente.»
 
 # 864
 
@@ -3486,7 +3486,7 @@ Su pueblo discutió con él. Dijo: «¿Discutís conmigo sobre Dios cuando Él m
 
 # 870
 
-¿Cómo puedo temer a los dioses que adoráis y vosotros no temer adorar a otras cosas como dioses junto a Dios, algo para lo que Él no os ha concedido permiso alguno? ¿Quién de las dos partes tiene más derecho a sentirse seguro? [Responded] si es que sabéis.»
+¿Cómo puedo temer a los dioses que adoráis y vosotros no temer adorar a otras cosas como dioses junto a Dios, algo para lo que Él no os ha concedido permiso alguno? ¿Quién de las dos partes tiene más derecho a sentirse seguro? \[Responded\] si es que sabéis.»
 
 # 871
 
@@ -3502,7 +3502,7 @@ Y le otorgamos a Isaac y a Jacob y les guiamos como antes habíamos guiado a No�
 
 # 874
 
-Y [también] Zacarías, Juan, Jesús y Elías. Todos ellos eran de los justos.
+Y \[también\] Zacarías, Juan, Jesús y Elías. Todos ellos eran de los justos.
 
 # 875
 
@@ -3518,7 +3518,7 @@ Esta es la guía de Dios, con la que guía a quien Él quiere de Sus siervos. Pe
 
 # 878
 
-Es a ellos a quienes Nosotros dimos la Escritura [Sagrada], la Sabiduría y la Profecía. Pero si descreen de ella, Nosotros se la hemos encomendado a una gente que jamás dejará de creer en ella.
+Es a ellos a quienes Nosotros dimos la Escritura \[Sagrada\], la Sabiduría y la Profecía. Pero si descreen de ella, Nosotros se la hemos encomendado a una gente que jamás dejará de creer en ella.
 
 # 879
 
@@ -3526,7 +3526,7 @@ Esos son a quienes Dios ha guiado. Así pues, ¡Sigue su guía! Di: «No os pido
 
 # 880
 
-Y no valoran a Dios como Él debe ser valorado, cuando dicen: «Dios no ha hecho que descienda revelación alguna sobre ningún ser humano.» Di: «¿Entonces, quién hizo descender la Escritura que trajo Moisés como luz y guía para las gentes, que ponéis [por escrito] en pergaminos que mostráis, aunque ocultáis mucho de ella, y [mediante la cual] se os ha enseñado lo que ni vosotros ni vuestros padres sabíais?» Di: «Dios.» Luego, déjales que, en su obstinación, lo tomen a juego.
+Y no valoran a Dios como Él debe ser valorado, cuando dicen: «Dios no ha hecho que descienda revelación alguna sobre ningún ser humano.» Di: «¿Entonces, quién hizo descender la Escritura que trajo Moisés como luz y guía para las gentes, que ponéis \[por escrito\] en pergaminos que mostráis, aunque ocultáis mucho de ella, y \[mediante la cual\] se os ha enseñado lo que ni vosotros ni vuestros padres sabíais?» Di: «Dios.» Luego, déjales que, en su obstinación, lo tomen a juego.
 
 # 881
 
@@ -3534,7 +3534,7 @@ Y no valoran a Dios como Él debe ser valorado, cuando dicen: «Dios no ha hecho
 
 # 882
 
-Y ¿Quién es más opresor que quien inventa mentiras sobre Dios o dice: «He recibido una revelación» cuando no le ha sido revelado nada, o quien dice: «Haré que descienda algo como lo que Dios hace descender?» Si vieras a los opresores en las dificultades de la muerte, cuando los ángeles con las manos extendidas hacia ellos [les digan]: «¡Entregad vuestras almas! Hoy seréis recompensados con el castigo humillante que merecéis por lo que dijisteis sobre Dios sin ser cierto y por haberos ensoberbecido ante Sus señales.»
+Y ¿Quién es más opresor que quien inventa mentiras sobre Dios o dice: «He recibido una revelación» cuando no le ha sido revelado nada, o quien dice: «Haré que descienda algo como lo que Dios hace descender?» Si vieras a los opresores en las dificultades de la muerte, cuando los ángeles con las manos extendidas hacia ellos \[les digan\]: «¡Entregad vuestras almas! Hoy seréis recompensados con el castigo humillante que merecéis por lo que dijisteis sobre Dios sin ser cierto y por haberos ensoberbecido ante Sus señales.»
 
 # 883
 
@@ -3542,7 +3542,7 @@ Y ¿Quién es más opresor que quien inventa mentiras sobre Dios o dice: «He re
 
 # 884
 
-En verdad, Dios es Quien hace germinar la semilla y el hueso de los frutos. Hace salir lo vivo de lo muerto y lo muerto de lo vivo. Ese es Dios. ¿Cómo podéis, pues, desviaros [de la Verdad]?
+En verdad, Dios es Quien hace germinar la semilla y el hueso de los frutos. Hace salir lo vivo de lo muerto y lo muerto de lo vivo. Ese es Dios. ¿Cómo podéis, pues, desviaros \[de la Verdad\]?
 
 # 885
 
@@ -3558,7 +3558,7 @@ Y Él es Quien os ha creado de una sola alma, unos constantes en su fe y otros i
 
 # 888
 
-Y Él es Quien hace descender agua del cielo. Mediante ella hacemos surgir toda clase de plantas, de las que hacemos salir vegetales y de ellos semillas de granos superpuestos. Y de la palmera, cuando brota, racimos apretados [de dátiles] y jardines de viñas, olivos y granados, similares y diferentes. ¡Mirad sus frutos cuando fructifican y maduran! En verdad, en todo ello hay señales para una gente que tiene fe.
+Y Él es Quien hace descender agua del cielo. Mediante ella hacemos surgir toda clase de plantas, de las que hacemos salir vegetales y de ellos semillas de granos superpuestos. Y de la palmera, cuando brota, racimos apretados \[de dátiles\] y jardines de viñas, olivos y granados, similares y diferentes. ¡Mirad sus frutos cuando fructifican y maduran! En verdad, en todo ello hay señales para una gente que tiene fe.
 
 # 889
 
@@ -3618,7 +3618,7 @@ para que se inclinen hacia ello los corazones de quienes no creen en la otra vid
 
 # 903
 
-[Di:] «¿Buscaré a otro juez que no sea Dios, cuando es Él Quien ha hecho descender la Escritura que contiene la explicación de todas las cosas?» Aquellos a quienes Nosotros dimos la Escritura saben que ella fue revelada por tu Señor con la Verdad, por tanto, no seas de los que dudan.
+\[Di:\] «¿Buscaré a otro juez que no sea Dios, cuando es Él Quien ha hecho descender la Escritura que contiene la explicación de todas las cosas?» Aquellos a quienes Nosotros dimos la Escritura saben que ella fue revelada por tu Señor con la Verdad, por tanto, no seas de los que dudan.
 
 # 904
 
@@ -3674,7 +3674,7 @@ Para ellos será la Morada de la Paz junto a su Señor y Él será su protector 
 
 # 917
 
-Y el día en que Él les congregue a todos [les dirá]: «¡Oh, comunidad de genios! ¡Extraviasteis a muchos humanos!» Y sus amigos entre los humanos dirán: «¡Señor nuestro! ¡Nos hemos aprovechado unos de otros y se ha cumplido el plazo que Tú nos diste!» [Dios] Dirá: «El Fuego será vuestra morada. En él estaréis eternamente, excepto que Dios quiera otra cosa.» En verdad, tu Señor es Sabio, Conocedor.
+Y el día en que Él les congregue a todos \[les dirá\]: «¡Oh, comunidad de genios! ¡Extraviasteis a muchos humanos!» Y sus amigos entre los humanos dirán: «¡Señor nuestro! ¡Nos hemos aprovechado unos de otros y se ha cumplido el plazo que Tú nos diste!» \[Dios\] Dirá: «El Fuego será vuestra morada. En él estaréis eternamente, excepto que Dios quiera otra cosa.» En verdad, tu Señor es Sabio, Conocedor.
 
 # 918
 
@@ -3702,11 +3702,11 @@ En verdad, aquello que se os ha prometido llegará y no podréis impedirlo.
 
 # 924
 
-Di: «¡Oh, pueblo mío! Obrad conforme a vuestra capacidad que yo también actuaré [conforme a mi obligación] y pronto sabréis quien tendrá un buen final. En verdad, los opresores no triunfarán.»
+Di: «¡Oh, pueblo mío! Obrad conforme a vuestra capacidad que yo también actuaré \[conforme a mi obligación\] y pronto sabréis quien tendrá un buen final. En verdad, los opresores no triunfarán.»
 
 # 925
 
-Y [los idólatras] disponen para Dios, de lo que Él ha creado, una parte de las cosechas y del ganado y dicen, conforme a sus creencias: «Esto es para Dios y esto es para nuestros socios.» Pero lo que es para sus socios no llega a Dios mientras que lo que es para Dios sí llega a sus socios. ¡Qué mal juzgan!
+Y \[los idólatras\] disponen para Dios, de lo que Él ha creado, una parte de las cosechas y del ganado y dicen, conforme a sus creencias: «Esto es para Dios y esto es para nuestros socios.» Pero lo que es para sus socios no llega a Dios mientras que lo que es para Dios sí llega a sus socios. ¡Qué mal juzgan!
 
 # 926
 
@@ -3714,11 +3714,11 @@ Así es como sus socios han hecho que a la mayoría de los idólatras les parezc
 
 # 927
 
-Y dicen, conforme a sus creencias: «Este ganado y estas cosechas son sagrados y sólo podrán alimentarse de ellos quienes nosotros queramos.» Y [dicen:] «Hay ganado cuya espalda está prohibida». Y hay ganado sobre el que no mencionan el nombre de Dios, inventando mentiras sobre Él. Pronto Él les recompensará por las mentiras que inventaron.
+Y dicen, conforme a sus creencias: «Este ganado y estas cosechas son sagrados y sólo podrán alimentarse de ellos quienes nosotros queramos.» Y \[dicen:\] «Hay ganado cuya espalda está prohibida». Y hay ganado sobre el que no mencionan el nombre de Dios, inventando mentiras sobre Él. Pronto Él les recompensará por las mentiras que inventaron.
 
 # 928
 
-Y dicen: «Lo que hay en las entrañas de este ganado está reservado para nuestros varones y prohibido para nuestras esposas, pero si estuviera muerto [al nacer] todos tienen parte en ello.» Él pronto les retribuirá por lo que atribuyen. En verdad, Él es sabio, conocedor.
+Y dicen: «Lo que hay en las entrañas de este ganado está reservado para nuestros varones y prohibido para nuestras esposas, pero si estuviera muerto \[al nacer\] todos tienen parte en ello.» Él pronto les retribuirá por lo que atribuyen. En verdad, Él es sabio, conocedor.
 
 # 929
 
@@ -3734,15 +3734,15 @@ Y Él es Quien ha producido algunas bestias grandes para la carga y otras peque�
 
 # 932
 
-[Él ha creado para vosotros] ocho pares [de reses]. Una pareja de ganado ovino y otra de caprino. Di: «¿Ha prohibido Él [comer] los dos machos o las dos hembras, o lo que llevan en sus senos las hembras? Informadme con conocimiento, si decís la verdad.»
+\[Él ha creado para vosotros\] ocho pares \[de reses\]. Una pareja de ganado ovino y otra de caprino. Di: «¿Ha prohibido Él \[comer\] los dos machos o las dos hembras, o lo que llevan en sus senos las hembras? Informadme con conocimiento, si decís la verdad.»
 
 # 933
 
-Y una pareja de camélidos y otra de ganado bovino. Di: «¿Ha prohibido Él [comer] los dos machos o las dos hembras, o lo que llevan en sus senos las hembras? ¿O fuisteis testigos cuando Dios dispuso esto?» ¿Quién es más opresor que quien inventa mentiras sobre Dios, para extraviar a la gente, sin poseer conocimiento? En verdad, Dios no guía a la gente opresora.»
+Y una pareja de camélidos y otra de ganado bovino. Di: «¿Ha prohibido Él \[comer\] los dos machos o las dos hembras, o lo que llevan en sus senos las hembras? ¿O fuisteis testigos cuando Dios dispuso esto?» ¿Quién es más opresor que quien inventa mentiras sobre Dios, para extraviar a la gente, sin poseer conocimiento? En verdad, Dios no guía a la gente opresora.»
 
 # 934
 
-Di: «No encuentro en lo que me fue revelado que se prohíba a nadie comer ningún alimento, excepto carroña o sangre derramada o carne de cerdo, pues es, en verdad, impura; o aquello sobre lo que, con pecado, se haya pronunciado al sacrificarlo otro nombre distinto al de Dios. Pero quien se vea obligado y no lo haga por deseo o por rebeldía [no peca]. En verdad, tu Señor es perdonador, misericordiosísimo con los creyentes.
+Di: «No encuentro en lo que me fue revelado que se prohíba a nadie comer ningún alimento, excepto carroña o sangre derramada o carne de cerdo, pues es, en verdad, impura; o aquello sobre lo que, con pecado, se haya pronunciado al sacrificarlo otro nombre distinto al de Dios. Pero quien se vea obligado y no lo haga por deseo o por rebeldía \[no peca\]. En verdad, tu Señor es perdonador, misericordiosísimo con los creyentes.
 
 # 935
 
@@ -3778,7 +3778,7 @@ Di: «Venid, yo os diré lo que vuestro Señor os ha prohibido: Que no consider�
 
 # 943
 
-Luego, dimos a Moisés la Escritura [Sagrada], completando Nuestras bendiciones sobre él, por ser virtuoso, como una explicación detallada de todo y guía y misericordia, para que, así, crean en el encuentro con su Señor.
+Luego, dimos a Moisés la Escritura \[Sagrada\], completando Nuestras bendiciones sobre él, por ser virtuoso, como una explicación detallada de todo y guía y misericordia, para que, así, crean en el encuentro con su Señor.
 
 # 944
 
@@ -3790,7 +3790,7 @@ y para que no podáis decir: «En verdad, la Escritura fue hecha descender para 
 
 # 946
 
-O para que no podáis decir: «Si se hubiese hecho descender para nosotros la Escritura [Sagrada] habríamos seguido la guía mejor que ellos.» Así pues, ha venido a vosotros una prueba clara procedente de vuestro Señor y una guía y una misericordia. ¿Quién es más opresor que quien desmiente las señales de Dios y se aparta de ellas? Pronto retribuiremos a quienes se apartan de Nuestras señales con un terrible castigo por haberse apartado.
+O para que no podáis decir: «Si se hubiese hecho descender para nosotros la Escritura \[Sagrada\] habríamos seguido la guía mejor que ellos.» Así pues, ha venido a vosotros una prueba clara procedente de vuestro Señor y una guía y una misericordia. ¿Quién es más opresor que quien desmiente las señales de Dios y se aparta de ellas? Pronto retribuiremos a quienes se apartan de Nuestras señales con un terrible castigo por haberse apartado.
 
 # 947
 
@@ -3866,7 +3866,7 @@ Ciertamente, os dimos poder en la Tierra y pusimos en ella medios de vida para v
 
 # 965
 
-Ciertamente, os hemos creado, luego os hemos dado forma [física], luego dijimos a los ángeles: «¡Postraos ante Adán!» Y todos ellos se postraron excepto Iblís, que no fue de los que se postraron.
+Ciertamente, os hemos creado, luego os hemos dado forma \[física\], luego dijimos a los ángeles: «¡Postraos ante Adán!» Y todos ellos se postraron excepto Iblís, que no fue de los que se postraron.
 
 # 966
 
@@ -4498,11 +4498,11 @@ Y les separamos por la Tierra en comunidades. Algunas de ellas rectas y virtuosa
 
 # 1123
 
-Y, tras ellos vino una generación que heredó la Escritura [Sagrada] y que se aferraba a los bienes superfluos de este bajo mundo diciendo: «Pronto seremos perdonados.» y si llegaban a ellos bienes semejantes, volvían a tomarlos. ¿Acaso no se obtuvo de ellos el juramento que está en la Escritura de que no dirían sobre Dios más que la verdad y no estudiaron lo que hay en ella? La morada de la otra vida es mejor para quienes tienen temor de Dios. ¿Es que no razonáis?
+Y, tras ellos vino una generación que heredó la Escritura \[Sagrada\] y que se aferraba a los bienes superfluos de este bajo mundo diciendo: «Pronto seremos perdonados.» y si llegaban a ellos bienes semejantes, volvían a tomarlos. ¿Acaso no se obtuvo de ellos el juramento que está en la Escritura de que no dirían sobre Dios más que la verdad y no estudiaron lo que hay en ella? La morada de la otra vida es mejor para quienes tienen temor de Dios. ¿Es que no razonáis?
 
 # 1124
 
-Pero, en verdad, no dejaremos de recompensar a quienes corrigen lo que está mal, se aferran a la Escritura [Sagrada] y hacen la oración.
+Pero, en verdad, no dejaremos de recompensar a quienes corrigen lo que está mal, se aferran a la Escritura \[Sagrada\] y hacen la oración.
 
 # 1125
 
@@ -5062,7 +5062,7 @@ Luego, tras ello, Dios aceptará el arrepentimiento de quien Él quiera. Dios es
 
 # 1264
 
-Combatid a quienes, de aquellos a los que les fue dada la Escritura [Sagrada], no creen en Dios ni en el Último Día y no prohíben lo que Dios y Su Mensajero han prohibido, ni practican la religión de la Verdad, hasta que paguen sus impuestos con su propia mano y con humildad.
+Combatid a quienes, de aquellos a los que les fue dada la Escritura \[Sagrada\], no creen en Dios ni en el Último Día y no prohíben lo que Dios y Su Mensajero han prohibido, ni practican la religión de la Verdad, hasta que paguen sus impuestos con su propia mano y con humildad.
 
 # 1265
 
@@ -5394,7 +5394,7 @@ En verdad, Dios ha comprado a los creyentes sus personas y sus bienes porque par
 
 # 1347
 
-[Los creyentes son] Los que se arrepienten, los que adoran a Dios, los que Le alaban, los que viajan a las mezquitas, los que se inclinan ante Dios, los que se prosternan ante Él, los que ordenan el bien y prohíben el mal y los que protegen las leyes de Dios. ¡Anuncia la buena nueva a los creyentes!
+\[Los creyentes son\] Los que se arrepienten, los que adoran a Dios, los que Le alaban, los que viajan a las mezquitas, los que se inclinan ante Dios, los que se prosternan ante Él, los que ordenan el bien y prohíben el mal y los que protegen las leyes de Dios. ¡Anuncia la buena nueva a los creyentes!
 
 # 1348
 
@@ -6338,7 +6338,7 @@ No tengas dudas, pues, de lo que ellos adoran. No adoran sino lo que adoraban su
 
 # 1583
 
-En verdad, dimos a Moisés la Escritura [Sagrada] y se discrepó sobre ella y si no hubiese sido por una decisión previa de tu Señor habríamos juzgado entre ellos. Y, en verdad, aún tienen dudas sobre ella, dudas mal intencionadas.
+En verdad, dimos a Moisés la Escritura \[Sagrada\] y se discrepó sobre ella y si no hubiese sido por una decisión previa de tu Señor habríamos juzgado entre ellos. Y, en verdad, aún tienen dudas sobre ella, dudas mal intencionadas.
 
 # 1584
 
@@ -6418,7 +6418,7 @@ Dijo: «¡Oh, hijito! No cuentes tu visión a tus hermanos, pues tramarán algo 
 
 # 1603
 
-Ciertamente, en José y sus hermanos hay señales para quienes [se] preguntan.
+Ciertamente, en José y sus hermanos hay señales para quienes \[se\] preguntan.
 
 # 1604
 
@@ -6462,7 +6462,7 @@ Dijeron: «¡Oh, padre nuestro! Nos fuimos a hacer carreras y dejamos a José ju
 
 # 1614
 
-Y trajeron su camisa manchada de sangre falsa. Él dijo: «[No es así] Sino que vuestras almas os han susurrado algún asunto. Así pues, ¡Paciencia hermosa! Y en Dios busco ayuda ante lo que decís.»
+Y trajeron su camisa manchada de sangre falsa. Él dijo: «\[No es así\] Sino que vuestras almas os han susurrado algún asunto. Así pues, ¡Paciencia hermosa! Y en Dios busco ayuda ante lo que decís.»
 
 # 1615
 
@@ -6722,7 +6722,7 @@ Regresad a vuestro padre y decid: ‘¡Oh, padre nuestro! ¡Tu hijo ha robado! N
 
 # 1679
 
-Él dijo: «[No es así] Sino que vuestras almas os han susurrado algún asunto. Así pues, ¡Paciencia hermosa! Puede que Dios me los devuelva a todos. En verdad, Él es Quien todo lo conoce, el Sabio.»
+Él dijo: «\[No es así\] Sino que vuestras almas os han susurrado algún asunto. Así pues, ¡Paciencia hermosa! Puede que Dios me los devuelva a todos. En verdad, Él es Quien todo lo conoce, el Sabio.»
 
 # 1680
 
@@ -6790,7 +6790,7 @@ Y cuando entraron ante José acercó a él a sus padres y les dijo: «¡Entrad e
 
 # 1696
 
-Y subió a sus padres al trono y [todos] cayeron prosternados ante él y él dijo: «¡Oh, padre mío! Éste es el significado del sueño que vi anteriormente. Mi Señor ha hecho que se verifique y me favoreció cuando me sacó de la prisión y os trajo del desierto, después de haber destruido Satanás la relación entre yo y mis hermanos.» «En verdad, mi Señor es sutil en lo que desea. En verdad, Él es Quien todo lo conoce, el Sabio.»
+Y subió a sus padres al trono y \[todos\] cayeron prosternados ante él y él dijo: «¡Oh, padre mío! Éste es el significado del sueño que vi anteriormente. Mi Señor ha hecho que se verifique y me favoreció cuando me sacó de la prisión y os trajo del desierto, después de haber destruido Satanás la relación entre yo y mis hermanos.» «En verdad, mi Señor es sutil en lo que desea. En verdad, Él es Quien todo lo conoce, el Sabio.»
 
 # 1697
 
@@ -6838,7 +6838,7 @@ En sus historias hay una enseñanza para quienes están dotados de intelecto. No
 
 # 1708
 
-Alif, lam, mim, ra. Esos son los versículos de la Escritura [Sagrada]. Lo que ha sido hecho descender a ti, procedente de tu Señor, es la Verdad, pero la mayoría de la gente no tiene fe.
+Alif, lam, mim, ra. Esos son los versículos de la Escritura \[Sagrada\]. Lo que ha sido hecho descender a ti, procedente de tu Señor, es la Verdad, pero la mayoría de la gente no tiene fe.
 
 # 1709
 
@@ -6882,7 +6882,7 @@ tiene guardianes por delante y por detrás que le protegen por orden de Dios. En
 
 # 1719
 
-Él es Quien os hace ver el relámpago con miedo y admiración y Quien hace surgir las nubes cargadas [de agua].
+Él es Quien os hace ver el relámpago con miedo y admiración y Quien hace surgir las nubes cargadas \[de agua\].
 
 # 1720
 
@@ -6958,7 +6958,7 @@ Así mismo, te hemos enviado a una comunidad antes de la cual pasaron otras comu
 
 # 1738
 
-Y [no creerían] aunque con este Corán caminaran las montañas o se partiera en pedazos la Tierra o hablasen los muertos. Pero a Dios pertenecen todos los asuntos. ¿Acaso los que creen no saben que si Dios hubiera querido habría guiado a todos los seres humanos? Y la desgracia no cesará de afligir a quienes no creen, o cerca de sus hogares, por lo que han hecho, hasta que llegue el castigo acordado por Dios. En verdad, Dios no incumple lo prometido.
+Y \[no creerían\] aunque con este Corán caminaran las montañas o se partiera en pedazos la Tierra o hablasen los muertos. Pero a Dios pertenecen todos los asuntos. ¿Acaso los que creen no saben que si Dios hubiera querido habría guiado a todos los seres humanos? Y la desgracia no cesará de afligir a quienes no creen, o cerca de sus hogares, por lo que han hecho, hasta que llegue el castigo acordado por Dios. En verdad, Dios no incumple lo prometido.
 
 # 1739
 
@@ -6978,7 +6978,7 @@ El Jardín que les ha sido prometido a los temerosos de Dios es así: De sus pro
 
 # 1743
 
-Aquellos a quienes dimos la Escritura [Sagrada] se alegran de lo que fue hecho descender para ti, pero, en los partidos, hay quienes niegan parte de ello. Di: «En verdad, me fue ordenado que adore a Dios y que no Le asocie nada ni nadie. A Él convoco y a Él regreso.»
+Aquellos a quienes dimos la Escritura \[Sagrada\] se alegran de lo que fue hecho descender para ti, pero, en los partidos, hay quienes niegan parte de ello. Di: «En verdad, me fue ordenado que adore a Dios y que no Le asocie nada ni nadie. A Él convoco y a Él regreso.»
 
 # 1744
 
@@ -7010,7 +7010,7 @@ Y quienes no creen dicen: «Tú no eres un Mensajero.» Di: «Es suficiente Dios
 
 # 1751
 
-Alif, lam, ra. Una Escritura [Sagrada] que hemos hecho descender a ti para que saques a la gente de las tinieblas hacia la Luz con el permiso de su Señor, hacia el camino del Poderoso, el Alabado.
+Alif, lam, ra. Una Escritura \[Sagrada\] que hemos hecho descender a ti para que saques a la gente de las tinieblas hacia la Luz con el permiso de su Señor, hacia el camino del Poderoso, el Alabado.
 
 # 1752
 
@@ -7090,7 +7090,7 @@ Eso no le supone a Dios ningún esfuerzo.
 
 # 1771
 
-Comparecerán todos ante Dios y los débiles dirán a los prepotentes: «En verdad, fuimos seguidores vuestros ¿Podéis prestarnos ahora alguna ayuda frente al castigo de Dios?» Ellos dirán: «Si Dios nos hubiera guiado, nosotros os habríamos guiado. [Pero ahora]Da igual que nos impacientemos o que tengamos paciencia, no tenemos escapatoria.»
+Comparecerán todos ante Dios y los débiles dirán a los prepotentes: «En verdad, fuimos seguidores vuestros ¿Podéis prestarnos ahora alguna ayuda frente al castigo de Dios?» Ellos dirán: «Si Dios nos hubiera guiado, nosotros os habríamos guiado. \[Pero ahora\]Da igual que nos impacientemos o que tengamos paciencia, no tenemos escapatoria.»
 
 # 1772
 
@@ -7198,7 +7198,7 @@ No contéis, pues, con que Dios incumpla la promesa que Él hizo a Sus Mensajero
 
 # 1798
 
-el día en que la Tierra se transforme en otra Tierra y los cielos [también] y ellos comparezcan ante Dios, el Uno, el Dominador.
+el día en que la Tierra se transforme en otra Tierra y los cielos \[también\] y ellos comparezcan ante Dios, el Uno, el Dominador.
 
 # 1799
 
@@ -7218,7 +7218,7 @@ Este es un aviso para la gente. Para que se den por advertidos y para que sepan 
 
 # 1803
 
-Alif, lam, ra. Esos son los versículos de la Escritura [Sagrada] y de un Corán claro.
+Alif, lam, ra. Esos son los versículos de la Escritura \[Sagrada\] y de un Corán claro.
 
 # 1804
 
@@ -7498,7 +7498,7 @@ Ellos dijeron: «¿Acaso no te habíamos prohibido a todo el mundo?»
 
 # 1873
 
-Dijo: «Aquí están mis hijas, si es que queréis actuar [rectamente].»
+Dijo: «Aquí están mis hijas, si es que queréis actuar \[rectamente\].»
 
 # 1874
 
@@ -7662,7 +7662,7 @@ Y ha puesto a vuestra disposición la noche y el día. El Sol, la Luna y las est
 
 # 1914
 
-Y en lo que ha creado para vosotros en la Tierra hay variados| colores. En verdad, en ello hay una señal para gente que se deja amonestar.
+Y en lo que ha creado para vosotros en la Tierra hay variados\| colores. En verdad, en ello hay una señal para gente que se deja amonestar.
 
 # 1915
 
@@ -7862,7 +7862,7 @@ Atribuyen a Dios lo que ellos aborrecen y proclaman con sus lenguas la mentira d
 
 # 1964
 
-Juro por Dios que enviamos [Mensajeros] a las comunidades anteriores a ti, pero Satanás les embelleció su [mal] comportamiento y hoy él es su amigo y protector. Y les aguarda un castigo doloroso.
+Juro por Dios que enviamos \[Mensajeros\] a las comunidades anteriores a ti, pero Satanás les embelleció su \[mal\] comportamiento y hoy él es su amigo y protector. Y les aguarda un castigo doloroso.
 
 # 1965
 
@@ -7946,7 +7946,7 @@ Ellos conocen la bendición de Dios pero la niegan. La mayoría de ellos no tien
 
 # 1985
 
-Y [recordad] el día en que designaremos un testigo de cada comunidad y no se dará permiso a quienes no hayan tenido fe y no podrán buscar el perdón de Dios.
+Y \[recordad\] el día en que designaremos un testigo de cada comunidad y no se dará permiso a quienes no hayan tenido fe y no podrán buscar el perdón de Dios.
 
 # 1986
 
@@ -8094,7 +8094,7 @@ Verdaderamente, Abraham era una nación, obediente a Dios, buscador de la Verdad
 
 # 2022
 
-[Por ser] Agradecido a Sus mercedes, Dios le escogió y le guió a un camino recto
+\[Por ser\] Agradecido a Sus mercedes, Dios le escogió y le guió a un camino recto
 
 # 2023
 
@@ -8406,7 +8406,7 @@ Y, ciertamente, hemos sido generosos con los seres humanos y les hemos llevado p
 
 # 2100
 
-[Recuerda]el día en que convoquemos a cada grupo de gentes con su dirigente. A quienes les sea entregado su libro en su mano derecha lo leerán y no serán oprimidos en lo más mínimo.
+\[Recuerda\]el día en que convoquemos a cada grupo de gentes con su dirigente. A quienes les sea entregado su libro en su mano derecha lo leerán y no serán oprimidos en lo más mínimo.
 
 # 2101
 
@@ -8530,7 +8530,7 @@ Ciertamente, dimos a Moisés nueve señales claras. Pregunta a los Hijos de Isra
 
 # 2131
 
-[Moisés] Dijo: «Tu sabes que estas señales no las ha hecho descender sino el Señor de los cielos y la Tierra para abrir los ojos de las gentes. Y creo ¡Oh Faraón! que serás destruido.»
+\[Moisés\] Dijo: «Tu sabes que estas señales no las ha hecho descender sino el Señor de los cielos y la Tierra para abrir los ojos de las gentes. Y creo ¡Oh Faraón! que serás destruido.»
 
 # 2132
 
@@ -8754,7 +8754,7 @@ La riqueza y los hijos son el adorno de la vida de este mundo, pero los buenos a
 
 # 2187
 
-Y [recuérdales] el día que hagamos desplazarse a las montañas y veas la Tierra desnuda, y los reunamos a todos, sin dejar fuera ni uno de ellos
+Y \[recuérdales\] el día que hagamos desplazarse a las montañas y veas la Tierra desnuda, y los reunamos a todos, sin dejar fuera ni uno de ellos
 
 # 2188
 
@@ -8766,7 +8766,7 @@ Y sea expuesto el libro y veas a los pecadores temerosos de lo que hay en él y 
 
 # 2190
 
-Y [recuerda]cuando dijimos a los ángeles: «Prosternaos ante Adán» y todos se prosternaron excepto Iblís que era uno de los genios y desobedeció la orden de su Señor. ¿Vais a tomarle, a él y a su descendencia, que son vuestros enemigos, como protectores en Mi lugar? ¡Qué mal cambio hacen los opresores!
+Y \[recuerda\]cuando dijimos a los ángeles: «Prosternaos ante Adán» y todos se prosternaron excepto Iblís que era uno de los genios y desobedeció la orden de su Señor. ¿Vais a tomarle, a él y a su descendencia, que son vuestros enemigos, como protectores en Mi lugar? ¡Qué mal cambio hacen los opresores!
 
 # 2191
 
@@ -8870,7 +8870,7 @@ Dijo: «¿No te dije que, en verdad, no podrías tener paciencia conmigo?»
 
 # 2216
 
-Dijo [Moisés]: «Si te interrogo sobre algo después de esto, no me permitas seguir en tu compañía. Me disculpo ante ti.»
+Dijo \[Moisés\]: «Si te interrogo sobre algo después de esto, no me permitas seguir en tu compañía. Me disculpo ante ti.»
 
 # 2217
 
@@ -8942,7 +8942,7 @@ hasta que se encontró entre dos montañas y halló cerca de ellas a un pueblo d
 
 # 2234
 
-Dijeron: «¡Oh, Du l-Qarnayn! Ciertamente, Yayuy y Mayuy [Gog y Magog] corrompen la Tierra. ¿Podemos entregarte un tributo para que pongas entre nosotros y ellos una barrera?»
+Dijeron: «¡Oh, Du l-Qarnayn! Ciertamente, Yayuy y Mayuy \[Gog y Magog\] corrompen la Tierra. ¿Podemos entregarte un tributo para que pongas entre nosotros y ellos una barrera?»
 
 # 2235
 
@@ -9194,7 +9194,7 @@ cuando dijo a su padre: «¡Oh, padre! ¿Por qué adoras a lo que no oye ni ve y
 
 # 2297
 
-[Abraham] dijo: «La paz sea contigo. ¡Pediré a mi Señor que te perdone! En verdad, Él es complaciente conmigo.»
+\[Abraham\] dijo: «La paz sea contigo. ¡Pediré a mi Señor que te perdone! En verdad, Él es complaciente conmigo.»
 
 # 2298
 
@@ -9474,7 +9474,7 @@ Que no te aparten de ella quienes no creen en ella y siguen sus pasiones y seas 
 
 # 2367
 
-Dijo [Dios]: «¡Lánzalo! ¡Oh, Moisés!»
+Dijo \[Dios\]: «¡Lánzalo! ¡Oh, Moisés!»
 
 # 2368
 
@@ -9482,7 +9482,7 @@ Y lo arrojó y fue una serpiente reptando veloz.
 
 # 2369
 
-Dijo [Dios]: «¡Tómalo y no tengas miedo! Lo devolveremos a su condición primera.
+Dijo \[Dios\]: «¡Tómalo y no tengas miedo! Lo devolveremos a su condición primera.
 
 # 2370
 
@@ -9498,7 +9498,7 @@ para hacerte ver algunas de Nuestras grandes señales.»
 
 # 2373
 
-Dijo [Moisés]: «¡Señor mío! Ensancha mi pecho
+Dijo \[Moisés\]: «¡Señor mío! Ensancha mi pecho
 
 # 2374
 
@@ -9542,7 +9542,7 @@ En verdad, Tú siempre has estado informado de nuestra situación.»
 
 # 2384
 
-Dijo: «El poder que Dios me ha dado es mejor. Y dejaremos que ese día se mezclen unos con otros como olas y será tocada la trompeta y les reuniremos a todos. Dijo [Dios]: «Ciertamente te he concedido tus peticiones ¡Oh, Moisés!
+Dijo: «El poder que Dios me ha dado es mejor. Y dejaremos que ese día se mezclen unos con otros como olas y será tocada la trompeta y les reuniremos a todos. Dijo \[Dios\]: «Ciertamente te he concedido tus peticiones ¡Oh, Moisés!
 
 # 2385
 
@@ -9594,7 +9594,7 @@ En verdad, nos ha sido revelado que quien desmienta y de la espalda será castig
 
 # 2397
 
-Dijo [Faraón]: «¿Quién es entonces ¡Oh, Moisés! vuestro Señor?»
+Dijo \[Faraón\]: «¿Quién es entonces ¡Oh, Moisés! vuestro Señor?»
 
 # 2398
 
@@ -9682,7 +9682,7 @@ Y los magos cayeron prosternados. Dijeron: «¡Creemos en el Señor de Aarón y 
 
 # 2419
 
-Dijo [Faraón]: «¿Habéis creído en Él antes de que yo os diera permiso?» «Él es vuestro maestro y el que os ha enseñado a vosotros la magia. Os cortaré las manos y los pies opuestos y os crucificaré en el tronco de una palmera y sabréis quién de nosotros castiga de manera más dura y permanente.»
+Dijo \[Faraón\]: «¿Habéis creído en Él antes de que yo os diera permiso?» «Él es vuestro maestro y el que os ha enseñado a vosotros la magia. Os cortaré las manos y los pies opuestos y os crucificaré en el tronco de una palmera y sabréis quién de nosotros castiga de manera más dura y permanente.»
 
 # 2420
 
@@ -9810,7 +9810,7 @@ El día en que sea tocada la trompeta. Y juntaremos ese día a los pecadores con
 
 # 2451
 
-que susurrarán entre ellos: “Sólo hemos permanecido diez días [muertos].»
+que susurrarán entre ellos: “Sólo hemos permanecido diez días \[muertos\].»
 
 # 2452
 
@@ -10278,7 +10278,7 @@ Así que le respondimos y eliminamos el mal que le aquejaba. Y le dimos su famil
 
 # 2568
 
-Y [recuerda a] Ismael e Idrís y Du l-Kifl. Todos ellos eran de los pacientes
+Y \[recuerda a\] Ismael e Idrís y Du l-Kifl. Todos ellos eran de los pacientes
 
 # 2569
 
@@ -10286,7 +10286,7 @@ y les hicimos entrar en Nuestra misericordia. En verdad, ellos eran de los recto
 
 # 2570
 
-Y [recuerda a] Du l-Nun cuando se fue indignado pensando que no le pondríamos en dificultades. Y gritó en la oscuridad: «¡No hay más Dios que Tú! ¡Gloria a Ti! ¡En verdad, he sido de los opresores!»
+Y \[recuerda a\] Du l-Nun cuando se fue indignado pensando que no le pondríamos en dificultades. Y gritó en la oscuridad: «¡No hay más Dios que Tú! ¡Gloria a Ti! ¡En verdad, he sido de los opresores!»
 
 # 2571
 
@@ -10294,7 +10294,7 @@ Y le respondimos y le salvamos de la angustia. Así es como salvamos a los creye
 
 # 2572
 
-Y [recuerda a] Zacarías, cuando invocó a su Señor: «¡Señor mío! ¡No me dejes sin descendencia! ¡Tú eres el mejor dando herederos!»
+Y \[recuerda a\] Zacarías, cuando invocó a su Señor: «¡Señor mío! ¡No me dejes sin descendencia! ¡Tú eres el mejor dando herederos!»
 
 # 2573
 
@@ -10302,7 +10302,7 @@ Y le respondimos y le otorgamos a Juan y sanamos a su esposa para él. En verdad
 
 # 2574
 
-Y [recuerda] a aquella que protegió su castidad y en la que Nosotros insuflamos de Nuestro Espíritu. Y pusimos a ella y a su hijo como una señal para toda la humanidad.
+Y \[recuerda\] a aquella que protegió su castidad y en la que Nosotros insuflamos de Nuestro Espíritu. Y pusimos a ella y a su hijo como una señal para toda la humanidad.
 
 # 2575
 
@@ -10406,7 +10406,7 @@ para el cual se ha decretado que extraviará a cualquiera que le tome por amigo 
 
 # 2600
 
-¡Oh, gentes! Si tenéis dudas sobre la resurrección, [sabed que] en verdad, Nosotros os creamos de barro, después de una gota, después de algo suspendido, después de una masa de carne, en parte formada, en parte sin formar, para dejároslo claro. Y depositamos en los senos maternos a quien Nosotros queremos hasta que se cumple un plazo establecido. Luego os sacamos pequeños, luego alcanzáis la madurez y la fuerza. Y de vosotros hay quienes mueren [jóvenes] y a otros se les hace alcanzar una edad tan avanzada que después de haber poseído algún conocimiento no conocen nada. Y ves la tierra árida, pero cuando hacemos que descienda sobre ella el agua, se agita, se esponja y fructifican por parejas todo tipo de plantas coloridas.
+¡Oh, gentes! Si tenéis dudas sobre la resurrección, \[sabed que\] en verdad, Nosotros os creamos de barro, después de una gota, después de algo suspendido, después de una masa de carne, en parte formada, en parte sin formar, para dejároslo claro. Y depositamos en los senos maternos a quien Nosotros queremos hasta que se cumple un plazo establecido. Luego os sacamos pequeños, luego alcanzáis la madurez y la fuerza. Y de vosotros hay quienes mueren \[jóvenes\] y a otros se les hace alcanzar una edad tan avanzada que después de haber poseído algún conocimiento no conocen nada. Y ves la tierra árida, pero cuando hacemos que descienda sobre ella el agua, se agita, se esponja y fructifican por parejas todo tipo de plantas coloridas.
 
 # 2601
 
@@ -10422,7 +10422,7 @@ Entre la gente hay quien disputa sobre Dios sin conocimiento y sin guía y sin u
 
 # 2604
 
-apartándose con arrogancia para desviar [a la gente] del camino de Dios. Será humillado en esta vida y el Día del Levantamiento le haremos probar el castigo abrasador.
+apartándose con arrogancia para desviar \[a la gente\] del camino de Dios. Será humillado en esta vida y el Día del Levantamiento le haremos probar el castigo abrasador.
 
 # 2605
 
@@ -10490,7 +10490,7 @@ En verdad, a quienes no creen y ponen barreras para dificultar el acceso a la se
 
 # 2621
 
-Y [recuerda] cuando dispusimos para Abraham el emplazamiento de La Casa: «No asocies nada a Mí y purifica Mi Casa para los que dan vueltas alrededor de ella, para los que permanecen en pie [rezando] y para los que se inclinan y prosternan.»
+Y \[recuerda\] cuando dispusimos para Abraham el emplazamiento de La Casa: «No asocies nada a Mí y purifica Mi Casa para los que dan vueltas alrededor de ella, para los que permanecen en pie \[rezando\] y para los que se inclinan y prosternan.»
 
 # 2622
 
@@ -11198,7 +11198,7 @@ Y quienes acusen a sus esposas y no aporten más testigos de ello que ellos mism
 
 # 2798
 
-y la quinta vez, [que diga] que Dios le maldiga si lo que dice es mentira.
+y la quinta vez, \[que diga\] que Dios le maldiga si lo que dice es mentira.
 
 # 2799
 
@@ -11282,7 +11282,7 @@ Las mujeres indecentes son para los hombres indecentes y los hombres indecentes 
 
 # 2819
 
-Y si no encontráis a nadie en ella, entonces no entréis hasta que obtengáis permiso y si se os dice que regreséis [más tarde] regresad. Eso es más adecuado. Y Dios conoce bien lo que hacéis.
+Y si no encontráis a nadie en ella, entonces no entréis hasta que obtengáis permiso y si se os dice que regreséis \[más tarde\] regresad. Eso es más adecuado. Y Dios conoce bien lo que hacéis.
 
 # 2820
 
@@ -11806,7 +11806,7 @@ para que dejes ir con nosotros a los Hijos de Israel.»
 
 # 2950
 
-Dijo [Faraón]: «¿Acaso no te hemos criado entre nosotros de pequeño y permaneciste entre nosotros muchos años de tu vida
+Dijo \[Faraón\]: «¿Acaso no te hemos criado entre nosotros de pequeño y permaneciste entre nosotros muchos años de tu vida
 
 # 2951
 
@@ -11982,7 +11982,7 @@ Y cuando los dos grupos se vieron, los compañeros de Moisés dijeron: «En verd
 
 # 2994
 
-Dijo [Moisés]: «No. En verdad, mi Señor está conmigo y me guiará.»
+Dijo \[Moisés\]: «No. En verdad, mi Señor está conmigo y me guiará.»
 
 # 2995
 
@@ -12670,7 +12670,7 @@ En verdad, tú recibes el Corán de Uno que es sabio, que todo lo conoce.
 
 # 3166
 
-[Recuerda] Cuando Moisés dijo a su familia: «En verdad, he divisado un fuego. Os traeré alguna noticia de él o una brasa para que, quizás así, os calentéis.»
+\[Recuerda\] Cuando Moisés dijo a su familia: «En verdad, he divisado un fuego. Os traeré alguna noticia de él o una brasa para que, quizás así, os calentéis.»
 
 # 3167
 
@@ -12690,7 +12690,7 @@ sino quien oprime y luego cambia su mal por bien, pues Yo soy perdonador, miseri
 
 # 3171
 
-«Introduce tu mano en tu costado, saldrá blanca, sin defecto. [Eso es] Parte de las nueve señales destinadas al Faraón y su pueblo. En verdad, ellos son un pueblo de transgresores.»
+«Introduce tu mano en tu costado, saldrá blanca, sin defecto. \[Eso es\] Parte de las nueve señales destinadas al Faraón y su pueblo. En verdad, ellos son un pueblo de transgresores.»
 
 # 3172
 
@@ -12730,7 +12730,7 @@ He de castigarla duramente o he de degollarla si no me ofrece una excusa clara.�
 
 # 3181
 
-No esperó mucho [hasta que ella regresó] y dijo: «He tenido conocimiento de algo que tú desconoces y te traigo de Saba una información segura.»
+No esperó mucho \[hasta que ella regresó\] y dijo: «He tenido conocimiento de algo que tú desconoces y te traigo de Saba una información segura.»
 
 # 3182
 
@@ -12750,7 +12750,7 @@ No se prosternan ante Dios, que hace salir lo que no era manifiesto en los cielo
 
 # 3186
 
-Dijo [Salomón]: «Pronto veremos si has dicho la verdad o eres un mentiroso.
+Dijo \[Salomón\]: «Pronto veremos si has dicho la verdad o eres un mentiroso.
 
 # 3187
 
@@ -12858,7 +12858,7 @@ Y pusimos a salvo a quienes creían y eran temerosos de Dios.
 
 # 3213
 
-Y [recuerda] a Lot cuando dijo a su pueblo: «¿Cometéis esa indecencia a pesar de que sabéis lo que hacéis?
+Y \[recuerda\] a Lot cuando dijo a su pueblo: «¿Cometéis esa indecencia a pesar de que sabéis lo que hacéis?
 
 # 3214
 
@@ -12974,7 +12974,7 @@ Y cuando se pronuncie la sentencia sobre ellos, haremos salir para ellos una bes
 
 # 3242
 
-Y [recuerda] el día que reunamos, de cada comunidad, al grupo de los que desmentían Nuestras señales y sean detenidos.
+Y \[recuerda\] el día que reunamos, de cada comunidad, al grupo de los que desmentían Nuestras señales y sean detenidos.
 
 # 3243
 
@@ -13038,7 +13038,7 @@ Nosotros quisimos favorecer a quienes habían sido desfavorecidos en la Tierra y
 
 # 3258
 
-Y [quisimos] darles posición en la Tierra y hacer ver por medio de ellos al Faraón, a Haman y al ejército de ambos aquello que temían.
+Y \[quisimos\] darles posición en la Tierra y hacer ver por medio de ellos al Faraón, a Haman y al ejército de ambos aquello que temían.
 
 # 3259
 
@@ -13386,7 +13386,7 @@ Ciertamente, Nosotros pusimos a prueba a quienes les precedieron y Dios conoce a
 
 # 3345
 
-Quien tenga la esperanza de encontrarse con Dios [sepa] que, en verdad, la cita con Dios llegará y Él es Quien todo lo oye, Quien todo lo conoce.
+Quien tenga la esperanza de encontrarse con Dios \[sepa\] que, en verdad, la cita con Dios llegará y Él es Quien todo lo oye, Quien todo lo conoce.
 
 # 3346
 
@@ -13430,7 +13430,7 @@ Y le salvamos a él y a los compañeros del Arca e hicimos de ella una señal pa
 
 # 3356
 
-Y [recuerda] a Abraham cuando dijo a su pueblo: «¡Adorad a Dios y temedle! Eso es mejor para vosotros, si es que sabéis.
+Y \[recuerda\] a Abraham cuando dijo a su pueblo: «¡Adorad a Dios y temedle! Eso es mejor para vosotros, si es que sabéis.
 
 # 3357
 
@@ -13466,7 +13466,7 @@ Y la respuesta de su pueblo no fue otra que decir: «¡Matadle!» o «¡Quemadle
 
 # 3365
 
-[Abraham] dijo: «En verdad, lo que tomáis en lugar de Dios son ídolos, para establecer lazos de afecto entre vosotros en la vida mundanal. Luego, el Día del Levantamiento, renegaréis unos de otros y os maldeciréis unos a otros. Vuestra morada será el fuego y no tendréis quien os auxilie.»
+\[Abraham\] dijo: «En verdad, lo que tomáis en lugar de Dios son ídolos, para establecer lazos de afecto entre vosotros en la vida mundanal. Luego, el Día del Levantamiento, renegaréis unos de otros y os maldeciréis unos a otros. Vuestra morada será el fuego y no tendréis quien os auxilie.»
 
 # 3366
 
@@ -13478,7 +13478,7 @@ Y le otorgamos a Isaac y a Jacob y pusimos en su descendencia la profecía y la 
 
 # 3368
 
-Y [recuerda] a Lot cuando dijo a su pueblo: «En verdad, cometéis una indecencia que ningún ser humano había cometido antes de vosotros.
+Y \[recuerda\] a Lot cuando dijo a su pueblo: «En verdad, cometéis una indecencia que ningún ser humano había cometido antes de vosotros.
 
 # 3369
 
@@ -13510,7 +13510,7 @@ Ciertamente, hemos dejado con ella una señal clara para una gente que razona.
 
 # 3376
 
-Y [enviamos] a Madyan a su hermano Shuayb que les dijo: «¡Oh, pueblo mío! ¡Adorad a Dios y tened esperanza en el Último Día y no corrompáis en la Tierra!»
+Y \[enviamos\] a Madyan a su hermano Shuayb que les dijo: «¡Oh, pueblo mío! ¡Adorad a Dios y tened esperanza en el Último Día y no corrompáis en la Tierra!»
 
 # 3377
 
@@ -13722,7 +13722,7 @@ Y a Él pertenece la alabanza en los cielos y la Tierra y en la noche y al medio
 
 # 3429
 
-Y entre Sus señales está el haberos creado de tierra. Y luego, cuando devenís seres humanos, os expandís [por la Tierra.]
+Y entre Sus señales está el haberos creado de tierra. Y luego, cuando devenís seres humanos, os expandís \[por la Tierra.\]
 
 # 3430
 
@@ -13814,7 +13814,7 @@ Di: «Id por la Tierra y observad cuál fue el final de los que vivieron antes. 
 
 # 3452
 
-Así pues, levanta tu rostro hacia la religión viva antes de que llegue un día en el que nadie podrá retroceder ante Dios. Ese día [los seres humanos] serán divididos
+Así pues, levanta tu rostro hacia la religión viva antes de que llegue un día en el que nadie podrá retroceder ante Dios. Ese día \[los seres humanos\] serán divididos
 
 # 3453
 
@@ -13846,7 +13846,7 @@ Observa, pues, los efectos de la misericordia de tu Señor. Cómo hace vivir la 
 
 # 3460
 
-Pero si enviamos un viento y ven que todo lo [vuelve] amarillo, regresan de nuevo a su falta de fe.
+Pero si enviamos un viento y ven que todo lo \[vuelve\] amarillo, regresan de nuevo a su falta de fe.
 
 # 3461
 
@@ -13930,7 +13930,7 @@ Esta es la creación de Dios, así pues ¡Hacedme ver lo que han creado otros ap
 
 # 3481
 
-Y, ciertamente, dimos a Luqman la sabiduría [y le dijimos]: “¡Da gracias a Dios!” Quien agradece, agradece en beneficio propio. Y quien no agradece, (sepa que) en verdad, Dios no necesita de Sus criaturas, es rico en Sí mismo, digno de ser alabado.
+Y, ciertamente, dimos a Luqman la sabiduría \[y le dijimos\]: “¡Da gracias a Dios!” Quien agradece, agradece en beneficio propio. Y quien no agradece, (sepa que) en verdad, Dios no necesita de Sus criaturas, es rico en Sí mismo, digno de ser alabado.
 
 # 3482
 
@@ -14074,7 +14074,7 @@ Si hubiésemos querido habríamos dado a cada ser su guía, pero se cumplirá Mi
 
 # 3517
 
-«¡Gustad [el castigo] por haber olvidado el encuentro de este vuestro día! ¡En verdad, Nosotros también nos olvidamos de vosotros! ¡Gustad el castigo eterno por lo que hacíais!»
+«¡Gustad \[el castigo\] por haber olvidado el encuentro de este vuestro día! ¡En verdad, Nosotros también nos olvidamos de vosotros! ¡Gustad el castigo eterno por lo que hacíais!»
 
 # 3518
 
@@ -14166,7 +14166,7 @@ El Profeta posee mayores derechos sobre los creyentes que ellos mismos y sus esp
 
 # 3540
 
-Y [recuerda] cuando tomamos de los profetas un juramento, de ellos y de ti, de Noé, de Abraham, de Moisés y de Jesús hijo de María. Y hemos tomado de ellos un grave juramento
+Y \[recuerda\] cuando tomamos de los profetas un juramento, de ellos y de ti, de Noé, de Abraham, de Moisés y de Jesús hijo de María. Y hemos tomado de ellos un grave juramento
 
 # 3541
 
@@ -14286,7 +14286,7 @@ Cuando Dios y Su Mensajero deciden un asunto, los creyentes y las creyentes no t
 
 # 3570
 
-Y [recuerda] cuando dijiste a quien Dios había agraciado y a quien tú habías agraciado: «Reten a tu esposa contigo y se temeroso de Dios» y guardabas en tu alma lo que Dios habría de manifestar, temiendo a la gente, cuando Dios tiene mayor derecho a que Le temas. Así pues, cuando Zayd cambió de opinión respecto a ella, te la dimos por esposa para que los creyentes no encuentren impedimento en casarse con las esposas de sus hijos adoptivos cuando estos decidan terminar con ellas. Y la orden de Dios se cumple.
+Y \[recuerda\] cuando dijiste a quien Dios había agraciado y a quien tú habías agraciado: «Reten a tu esposa contigo y se temeroso de Dios» y guardabas en tu alma lo que Dios habría de manifestar, temiendo a la gente, cuando Dios tiene mayor derecho a que Le temas. Así pues, cuando Zayd cambió de opinión respecto a ella, te la dimos por esposa para que los creyentes no encuentren impedimento en casarse con las esposas de sus hijos adoptivos cuando estos decidan terminar con ellas. Y la orden de Dios se cumple.
 
 # 3571
 
@@ -14478,7 +14478,7 @@ Ciertamente, otorgamos un favor a Nuestro siervo David: «¡Oh, montañas y aves
 
 # 3618
 
-Y [sometimos] a Salomón el viento, que en una mañana hacía el recorrido de un mes y en una tarde el de otro mes e hicimos que manará para él la fuente de bronce fundido y que algunos genios trabajasen para él con permiso de su Señor. Y a quien de ellos desobedecía Nuestras órdenes le hacíamos probar el castigo del fuego.
+Y \[sometimos\] a Salomón el viento, que en una mañana hacía el recorrido de un mes y en una tarde el de otro mes e hicimos que manará para él la fuente de bronce fundido y que algunos genios trabajasen para él con permiso de su Señor. Y a quien de ellos desobedecía Nuestras órdenes le hacíamos probar el castigo del fuego.
 
 # 3619
 
@@ -14490,7 +14490,7 @@ Y, cuando decretamos para él la muerte, nada les indicó su muerte excepto un a
 
 # 3621
 
-Ciertamente, en el lugar en el que los Sabeos vivían había una señal milagrosa: dos jardines a derecha e izquierda. «¡Comed de la provisión de vuestro Señor y agradecedle [el tener] un buen país y un Señor perdonador!»
+Ciertamente, en el lugar en el que los Sabeos vivían había una señal milagrosa: dos jardines a derecha e izquierda. «¡Comed de la provisión de vuestro Señor y agradecedle \[el tener\] un buen país y un Señor perdonador!»
 
 # 3622
 
@@ -14606,7 +14606,7 @@ Y cuando les son recitados nuestros versículos claros dicen: «Éste no es más
 
 # 3650
 
-Nosotros no les dimos ninguna de las Escrituras [Sagradas] para que la estudiasen ni les habíamos enviado antes de tí ningún amonestador.
+Nosotros no les dimos ninguna de las Escrituras \[Sagradas\] para que la estudiasen ni les habíamos enviado antes de tí ningún amonestador.
 
 # 3651
 
@@ -15306,7 +15306,7 @@ Y decían: «¿Vamos a abandonar a nuestros dioses por un poeta loco?»
 
 # 3825
 
-Pero el traía la Verdad y confirmaba a los Mensajeros [anteriores].
+Pero el traía la Verdad y confirmaba a los Mensajeros \[anteriores\].
 
 # 3826
 
@@ -15494,7 +15494,7 @@ Y, en verdad, entre Nuestros seguidores está Abraham.
 
 # 3872
 
-[Recuerda] cuando vino a su Señor con un corazón sano
+\[Recuerda\] cuando vino a su Señor con un corazón sano
 
 # 3873
 
@@ -15654,7 +15654,7 @@ Y, en verdad, Elías era de los Mensajeros.
 
 # 3912
 
-[Recuerda] Cuando dijo a su pueblo: «¿Es que no seréis temerosos de Dios?
+\[Recuerda\] Cuando dijo a su pueblo: «¿Es que no seréis temerosos de Dios?
 
 # 3913
 
@@ -15694,7 +15694,7 @@ Y, en verdad, Lot fue uno de los Mensajeros.
 
 # 3922
 
-[Recuerda] Cuando le salvamos a él y a su familia, a todos ellos,
+\[Recuerda\] Cuando le salvamos a él y a su familia, a todos ellos,
 
 # 3923
 
@@ -15718,7 +15718,7 @@ Y, en verdad, Jonás fue uno de los Mensajeros.
 
 # 3928
 
-[Recuerda] Cuando se escapó en la nave repleta
+\[Recuerda\] Cuando se escapó en la nave repleta
 
 # 3929
 
@@ -16010,7 +16010,7 @@ Y otorgamos Salomón a David. ¡Qué bendición de siervo! ¡Ciertamente, él er
 
 # 4001
 
-[Recuerda] Cuando le mostraron al final del día unos hermosos caballos de carreras
+\[Recuerda\] Cuando le mostraron al final del día unos hermosos caballos de carreras
 
 # 4002
 
@@ -16170,7 +16170,7 @@ Sólo me ha sido revelado que yo soy un amonestador claro.»
 
 # 4041
 
-[Recuerda] Cuando tu Señor dijo a los ángeles: «En verdad, crearé un ser humano de barro.
+\[Recuerda\] Cuando tu Señor dijo a los ángeles: «En verdad, crearé un ser humano de barro.
 
 # 4042
 
@@ -16266,7 +16266,7 @@ Si Dios hubiera querido tomar un hijo, podría haber elegido lo que hubiese quer
 
 # 4065
 
-Si sois desagradecidos, [sabed que] en verdad, Dios es rico por Sí mismo, no necesita de vosotros y no Le satisface que sus siervos sean desagradecidos. Y si sois agradecidos, Él estará satisfecho de que seáis así. Nadie cargará con la carga de otro. Luego, vuestro lugar de regreso será Dios y Él os informará de lo que hacíais. En verdad, Él sabe bien lo que hay en el fondo de los corazones.
+Si sois desagradecidos, \[sabed que\] en verdad, Dios es rico por Sí mismo, no necesita de vosotros y no Le satisface que sus siervos sean desagradecidos. Y si sois agradecidos, Él estará satisfecho de que seáis así. Nadie cargará con la carga de otro. Luego, vuestro lugar de regreso será Dios y Él os informará de lo que hacíais. En verdad, Él sabe bien lo que hay en el fondo de los corazones.
 
 # 4066
 
@@ -17322,7 +17322,7 @@ que la hemos hecho una recitación árabe. Quizás así, razonéis.
 
 # 4329
 
-Y, en verdad, ella está en La madre de las Escrituras [Sagradas] que hay junto a Nosotros, en verdad sublime, sapientísima.
+Y, en verdad, ella está en La madre de las Escrituras \[Sagradas\] que hay junto a Nosotros, en verdad sublime, sapientísima.
 
 # 4330
 
@@ -17754,7 +17754,7 @@ E imploró a su Señor: «¡Este es un pueblo de malhechores!»
 
 # 4437
 
-[Dios le respondió:] «Ponte en marcha con Mis siervos durante la noche, pues seréis perseguidos,
+\[Dios le respondió:\] «Ponte en marcha con Mis siervos durante la noche, pues seréis perseguidos,
 
 # 4438
 
@@ -18126,7 +18126,7 @@ Para cada persona hay un grado conforme a lo que hizo. Él les recompensará ple
 
 # 4530
 
-Y el día en que quienes no creen sean expuestos sobre el Fuego [se les dirá]: «Consumisteis las buenas cosas en vuestra vida mundanal y disfrutasteis de ellas. Así pues, hoy seréis retribuidos con el castigo humillante por haber sido arrogantes en la Tierra sin derecho y por haber sido transgresores.»
+Y el día en que quienes no creen sean expuestos sobre el Fuego \[se les dirá\]: «Consumisteis las buenas cosas en vuestra vida mundanal y disfrutasteis de ellas. Así pues, hoy seréis retribuidos con el castigo humillante por haber sido arrogantes en la Tierra sin derecho y por haber sido transgresores.»
 
 # 4531
 
@@ -18202,7 +18202,7 @@ Eso es porque quienes no creen siguen lo que es falso y quienes creen siguen la 
 
 # 4549
 
-Cuando os encontréis [en batalla] con los que no creen, golpeadles en los cuellos hasta que les hayáis diezmado y apresadles atándoles fuertemente. Luego, o bien otorgadles la libertad o bien pedid un rescate por ellos, para que termine la carga de la guerra. Así sea. Y si Dios hubiera querido Él mismo les habría castigado, pero lo hace para poner a prueba a algunos de vosotros por medio de otros. Y Dios no dejará que se pierdan las obras de quienes han sido matados en la senda de Dios.
+Cuando os encontréis \[en batalla\] con los que no creen, golpeadles en los cuellos hasta que les hayáis diezmado y apresadles atándoles fuertemente. Luego, o bien otorgadles la libertad o bien pedid un rescate por ellos, para que termine la carga de la guerra. Así sea. Y si Dios hubiera querido Él mismo les habría castigado, pero lo hace para poner a prueba a algunos de vosotros por medio de otros. Y Dios no dejará que se pierdan las obras de quienes han sido matados en la senda de Dios.
 
 # 4550
 
@@ -18342,7 +18342,7 @@ Se os invita a contribuirán a la causa de Dios, pero algunos de vosotros os mos
 
 # 4584
 
-En verdad, [Muhammad] te hemos proporcionado una victoria evidente
+En verdad, \[Muhammad\] te hemos proporcionado una victoria evidente
 
 # 4585
 
@@ -19874,7 +19874,7 @@ de color verde intenso.
 
 # 4967
 
-En ambos, [habrá] dos fuentes manando con fuerza.
+En ambos, \[habrá\] dos fuentes manando con fuerza.
 
 # 4968
 
@@ -20430,7 +20430,7 @@ Ciertamente, Dios ha escuchado las palabras de aquella que discutía contigo ace
 
 # 5106
 
-Aquellos de vosotros que repudian a sus esposas con el Dihar [deben saber que] ellas no son sus madres. Sus madres son sólo aquellas que les trajeron a la vida. Y, en verdad, dicen algo que es reprobable y falso. Y, en verdad, Dios es indulgente, perdonador.
+Aquellos de vosotros que repudian a sus esposas con el Dihar \[deben saber que\] ellas no son sus madres. Sus madres son sólo aquellas que les trajeron a la vida. Y, en verdad, dicen algo que es reprobable y falso. Y, en verdad, Dios es indulgente, perdonador.
 
 # 5107
 
@@ -20678,11 +20678,11 @@ En verdad, Dios ama a quienes combaten por Su causa en filas apretadas, como un 
 
 # 5168
 
-Y [recuerda] cuando Moisés dijo a su pueblo: «¡Oh, pueblo mío! ¿Por qué me molestáis cuando sabéis con certeza que yo soy el Mensajero de Dios enviado a vosotros?» Cuando se desviaron, Dios desvió de sus corazones. Y Dios no guía a la gente trasgresora.
+Y \[recuerda\] cuando Moisés dijo a su pueblo: «¡Oh, pueblo mío! ¿Por qué me molestáis cuando sabéis con certeza que yo soy el Mensajero de Dios enviado a vosotros?» Cuando se desviaron, Dios desvió de sus corazones. Y Dios no guía a la gente trasgresora.
 
 # 5169
 
-Y [recuerda] cuando Jesús hijo de María dijo: «¡Oh, Hijos de Israel! En verdad, soy el Mensajero de Dios enviado a vosotros para confirmar la Torá anterior a mí y para anunciar a un Mensajero que vendrá tras de mí. Su nombre es Ahmad.» Y cuando vino a ellos con las pruebas claras, dijeron: «¡Esto es magia evidente!»
+Y \[recuerda\] cuando Jesús hijo de María dijo: «¡Oh, Hijos de Israel! En verdad, soy el Mensajero de Dios enviado a vosotros para confirmar la Torá anterior a mí y para anunciar a un Mensajero que vendrá tras de mí. Su nombre es Ahmad.» Y cuando vino a ellos con las pruebas claras, dijeron: «¡Esto es magia evidente!»
 
 # 5170
 
@@ -20710,7 +20710,7 @@ Os perdonará vuestros pecados y os introducirá en Jardines de cuyas profundida
 
 # 5176
 
-Y otra [merced] que amaréis: «Un auxilio procedente de Dios y una victoria próxima.» ¡Informa de la buena nueva a los creyentes!
+Y otra \[merced\] que amaréis: «Un auxilio procedente de Dios y una victoria próxima.» ¡Informa de la buena nueva a los creyentes!
 
 # 5177
 
@@ -20934,11 +20934,11 @@ Ciertamente, Dios ha hecho permisible para vosotros anular vuestros juramentos. 
 
 # 5232
 
-[Recuerda] Cuando el Profeta confió un asunto en secreto a alguna de sus esposas y ella lo divulgó y Dios se lo hizo saber. Cuando él le informó a ella de esto, dándole a conocer parte de ello y omitiendo parte de ello, ella dijo: «¿Quién te informó de eso?» él dijo: «Me informó Quien todo lo conoce, el Bien informado.»
+\[Recuerda\] Cuando el Profeta confió un asunto en secreto a alguna de sus esposas y ella lo divulgó y Dios se lo hizo saber. Cuando él le informó a ella de esto, dándole a conocer parte de ello y omitiendo parte de ello, ella dijo: «¿Quién te informó de eso?» él dijo: «Me informó Quien todo lo conoce, el Bien informado.»
 
 # 5233
 
-Si ambas os volvéis a Dios arrepentidas [será mejor], pues, ciertamente, los corazones de vosotras dos se han inclinado [hacia el mal], pero si os confabuláis contra él, [sabed que] en verdad, Dios es su protector y Gabriel y el recto de los creyentes y los ángeles tras ellos.
+Si ambas os volvéis a Dios arrepentidas \[será mejor\], pues, ciertamente, los corazones de vosotras dos se han inclinado \[hacia el mal\], pero si os confabuláis contra él, \[sabed que\] en verdad, Dios es su protector y Gabriel y el recto de los creyentes y los ángeles tras ellos.
 
 # 5234
 
@@ -21258,7 +21258,7 @@ Pregúntales quién de ellos garantiza eso.
 
 # 5313
 
-[Recuérdales] el día en el que se descubran las piernas y sean conminados a prosternarse y no puedan.
+\[Recuérdales\] el día en el que se descubran las piernas y sean conminados a prosternarse y no puedan.
 
 # 5314
 
@@ -22418,7 +22418,7 @@ Así pues, Dios les protegerá del mal de ese día y les colmará de felicidad y
 
 # 5603
 
-y su recompensa, por haber sido pacientes, será un Jardín y [vestidos de] seda.
+y su recompensa, por haber sido pacientes, será un Jardín y \[vestidos de\] seda.
 
 # 5604
 
@@ -22430,7 +22430,7 @@ Sobre ellos una sombra amplia y frutos fáciles de alcanzar.
 
 # 5606
 
-[Sirvientes] alrededor de ellos, darán vueltas con recipientes de plata y copas cristalinas,
+\[Sirvientes\] alrededor de ellos, darán vueltas con recipientes de plata y copas cristalinas,
 
 # 5607
 
@@ -23586,7 +23586,7 @@ Pero a quien le sea entregada su escritura por detrás de su espalda,
 
 # 5895
 
-pronto suplicará [diciendo]: «¡Estoy perdido!»
+pronto suplicará \[diciendo\]: «¡Estoy perdido!»
 
 # 5896
 

@@ -2,13 +2,13 @@ package qurancom
 
 import (
 	"data-quran-cli/internal/norm"
+	"data-quran-cli/internal/util"
 	"encoding/json"
 	"fmt"
 	"os"
 	"path/filepath"
 	"strings"
 
-	md "github.com/JohannesKaufmann/html-to-markdown"
 	"github.com/go-shiori/dom"
 	"github.com/sirupsen/logrus"
 )
@@ -157,13 +157,13 @@ func parseListSurah(cacheDir string, language string) (map[string]ListSurahOutpu
 	return output, nil
 }
 
-func parseAllSurahInfo(cacheDir, language string, mdc *md.Converter) (*AllSurahInfoOutput, error) {
+func parseAllSurahInfo(cacheDir, language string) (*AllSurahInfoOutput, error) {
 	// Extract each surah in this language
 	mapInfo := map[int]string{}
 	var languageName, source string
 
 	for surah := 1; surah <= 114; surah++ {
-		output, err := parseSurahInfo(cacheDir, language, surah, mdc)
+		output, err := parseSurahInfo(cacheDir, language, surah)
 		if err != nil {
 			return nil, err
 		} else if output == nil {
@@ -193,7 +193,7 @@ func parseAllSurahInfo(cacheDir, language string, mdc *md.Converter) (*AllSurahI
 	}, nil
 }
 
-func parseSurahInfo(cacheDir, language string, surah int, mdc *md.Converter) (*SurahInfoOutput, error) {
+func parseSurahInfo(cacheDir, language string, surah int) (*SurahInfoOutput, error) {
 	// Open file
 	path := fmt.Sprintf("info-%s-%03d.json", language, surah)
 	path = filepath.Join(cacheDir, path)
@@ -246,14 +246,10 @@ func parseSurahInfo(cacheDir, language string, surah int, mdc *md.Converter) (*S
 	docHTML := dom.InnerHTML(doc)
 
 	// Convert text to markdown
-	markdown, err := mdc.ConvertString(docHTML)
-	if err != nil {
-		return nil, fmt.Errorf("fail to create surah info md for %s %d: %w", language, surah, err)
-	}
 
 	// Return output
 	return &SurahInfoOutput{
-		Text:     markdown,
+		Text:     util.MarkdownText(docHTML),
 		Number:   srcData.ChapterInfo.ChapterID,
 		Source:   norm.NormalizeUnicode(srcData.ChapterInfo.Source),
 		Language: norm.NormalizeUnicode(srcData.ChapterInfo.LanguageName),

@@ -10722,7 +10722,7 @@ wid iêurben af tuzzuft nnsen
 
 # 2679
 
-- siwa ar tlawin nnsen, ne$ taklatin nnsen. Akka, ur degsen tiyta;
+\- siwa ar tlawin nnsen, ne$ taklatin nnsen. Akka, ur degsen tiyta;
 
 # 2680
 
@@ -15058,7 +15058,7 @@ I nitni, degs, izwayen. I nitni ayen ssutren.
 
 # 3763
 
-Talwit! Awal s$uô Mass Ipêunun.  ̈ ̈
+Talwit! Awal s$uô Mass Ipêunun. ̈ ̈
 
 # 3764
 
@@ -15250,7 +15250,7 @@ Ssemlilet ed wid idensen, tilawin nnsen, akked wayen âabden,
 
 # 3811
 
-war ÔÖebbi. Nehôet pen s abrid n wu$ud.  ̈ ̈
+war ÔÖebbi. Nehôet pen s abrid n wu$ud. ̈ ̈
 
 # 3812
 
@@ -17582,7 +17582,7 @@ A yimdanen iW, assa, ur telli tugdi fellawen, ur $webblet!
 
 # 4394
 
-- Wid iumnen s issekniyen nne£, u llan d imvuâen -
+\- Wid iumnen s issekniyen nne£, u llan d imvuâen -
 
 # 4395
 
@@ -19762,7 +19762,7 @@ Ma ifelleq igenni, iu$al d azeggwa$ am u$eggwad,
 
 # 4939
 
-- Anwa seg i$iten n Mass nnwen ara teskiddben, i sin? -
+\- Anwa seg i$iten n Mass nnwen ara teskiddben, i sin? -
 
 # 4940
 

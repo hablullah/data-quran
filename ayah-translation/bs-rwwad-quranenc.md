@@ -5443,7 +5443,7 @@ Zgrada koju su oni sagradili stalno će unositi nemir u srca njihova, sve dok im
 
 # 1346
 
-Allah je od vjernika kupio živote njihove i imetke njihove u zamjenu za ]žennet koji će im dati. Oni će se na Allahovu putu boriti, pa ubijati i ginuti. On je to, zbilja, obećao u Tevratu i Indžilu i Kur'anu. A ko od Allaha dosljednije ispunjava obećanje svoje? Zato se radujte pogodbi svojoj koju ste s Njim ugovorili, i to je zasigurno uspjeh veliki.
+Allah je od vjernika kupio živote njihove i imetke njihove u zamjenu za \]žennet koji će im dati. Oni će se na Allahovu putu boriti, pa ubijati i ginuti. On je to, zbilja, obećao u Tevratu i Indžilu i Kur'anu. A ko od Allaha dosljednije ispunjava obećanje svoje? Zato se radujte pogodbi svojoj koju ste s Njim ugovorili, i to je zasigurno uspjeh veliki.
 
 # 1347
 

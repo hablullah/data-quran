@@ -252,7 +252,7 @@ Báwo ni ẹ ṣe ń ṣàì gbàgbọ́ nínú Allāhu ná! Bẹ́ẹ̀ sì ni 
 
 # 38
 
-Allāhu fi gbogbo àwọn orúkọ náà mọ Ādam. Lẹ́yìn náà, Ó kó wọn síwájú àwọn mọlāika, Ó sì sọ pé: “Ẹ sọ 
+Allāhu fi gbogbo àwọn orúkọ náà mọ Ādam. Lẹ́yìn náà, Ó kó wọn síwájú àwọn mọlāika, Ó sì sọ pé: “Ẹ sọ
  àwọn orúkọ ìwọ̀nyí fún Mi, tí ẹ bá jẹ́ olódodo.”
 
 # 39
@@ -553,7 +553,7 @@ Lẹ́yìn náà, ẹ̀yin wọ̀nyí lẹ̀ ń pa ara yín. Ẹ tún ń lé ap�
 
 Àwọn wọ̀nyẹn ni àwọn tí wọ́n fi ọ̀run ra ìṣẹ̀mí ayé.[^1] Nítorí náà, A ò níí ṣe ìyà ní fífúyẹ́ fún wọn, A ò sì níí ràn wọ́n lọ́wọ́.
 
-[^1]: Ìyẹn ni pé, wọ́n mú ìṣẹ̀mí ayé, wọ́n sì fi ìṣẹ̀mí ọ̀run sílẹ̀. Ƙọtādah sọ pé, “Wọ́n fẹ́ràn kékeré tayé ju púpọ̀ tọ̀run” [Tọbariy] Ibn Kẹthīr sọ pé, “Wọ́n fẹ́ràn ayé ju ọ̀run, wọ́n sì ṣa ayé lẹ́ṣà ju ọ̀run.”
+[^1]: Ìyẹn ni pé, wọ́n mú ìṣẹ̀mí ayé, wọ́n sì fi ìṣẹ̀mí ọ̀run sílẹ̀. Ƙọtādah sọ pé, “Wọ́n fẹ́ràn kékeré tayé ju púpọ̀ tọ̀run” \[Tọbariy\] Ibn Kẹthīr sọ pé, “Wọ́n fẹ́ràn ayé ju ọ̀run, wọ́n sì ṣa ayé lẹ́ṣà ju ọ̀run.”
 
 # 94
 
@@ -567,7 +567,7 @@ Wọ́n sì wí pé: “Èbìbò bò wá lọ́kàn.” Kò sì rí bẹ́ẹ̀.
 
 # 96
 
-. Nígbà tí Tírà kan sì dé bá wọn láti ọ̀dọ̀ Allāhu, tí ó ń fi ìdí òdodo múlẹ̀ nípa ohun tí ó wà pẹ̀lú wọn (ìyẹn tírà Taorāt), bẹ́ẹ̀ sì ni tẹ́lẹ̀tẹ́lẹ̀ wọ́n ti ń tọrọ ìṣẹ́gun lórí àwọn tó ṣàì gbàgbọ́, àmọ́ nígbà tí ohun tí wọ́n nímọ̀ nípa rẹ̀ dé bá wọn, wọ́n ṣàì gbàgbọ́ nínú rẹ̀. Nítorí náà, ibi dandan Allāhu kí ó máa bá àwọn aláìgbàgbọ́.[^1]
+\. Nígbà tí Tírà kan sì dé bá wọn láti ọ̀dọ̀ Allāhu, tí ó ń fi ìdí òdodo múlẹ̀ nípa ohun tí ó wà pẹ̀lú wọn (ìyẹn tírà Taorāt), bẹ́ẹ̀ sì ni tẹ́lẹ̀tẹ́lẹ̀ wọ́n ti ń tọrọ ìṣẹ́gun lórí àwọn tó ṣàì gbàgbọ́, àmọ́ nígbà tí ohun tí wọ́n nímọ̀ nípa rẹ̀ dé bá wọn, wọ́n ṣàì gbàgbọ́ nínú rẹ̀. Nítorí náà, ibi dandan Allāhu kí ó máa bá àwọn aláìgbàgbọ́.[^1]
 
 [^1]: Ìyẹn ni pé, àwọn yẹ̀húdí, ṣíwájú kí Allāhu tó gbé Ànábì wa - kí ìkẹ́ àti ọlà Allāhu máa bá a - dìde, wọ́n máa ń sọ fún àwọn ọ̀sẹbọ Lárúbáwá pé, “Ẹ jẹ́ tètè gba Allāhu gbọ́ ní òdodo bí bẹ́ẹ̀ kọ nígbà tí òpin Òjíṣẹ́ náà bá dé, àwọn àti òun máa parapọ̀ le yín lórí.” Àmọ́ nígbà tí òpin Òjíṣẹ́ náà - kí ìkẹ́ àti ọlà Allāhu máa bá a - dé, àwọn gan-an náà gbógun tì í nítorí pé, gbogbo èrò-ọkàn wọn ni pé, nínú ìran ọmọ Isrọ̄’īl ni òpin Òjíṣẹ́ náà máa ti wá. Àmọ́ nínú ìran Lárúbáwá ni Allāhu ti gbé òpin Òjíṣẹ́ náà dìde.
 
@@ -619,7 +619,7 @@ Dájúdájú A ti sọ àwọn āyah tó yanjú kalẹ̀ fún ọ. Ẹnì kan k�
 
 # 108
 
-. Àti pé nígbà tí Òjíṣẹ́ kan láti ọ̀dọ̀ Allāhu dé bá wọn, tí ó ń jẹ́rìí sí èyí tó jẹ́ òdodo nínú ohun tó wà pẹ̀lú wọn, apá kan nínú àwọn tí A fún ní Tírà gbé Tírà Allāhu jù s’ẹ́yìn lẹ́yìn wọn bí ẹni pé wọn kò mọ̀ (pé àsọọ́lẹ̀ nípa Ànábì - kí ìkẹ́ àti ọlà Allāhu máa bá a - wà nínú rẹ̀)!
+\. Àti pé nígbà tí Òjíṣẹ́ kan láti ọ̀dọ̀ Allāhu dé bá wọn, tí ó ń jẹ́rìí sí èyí tó jẹ́ òdodo nínú ohun tó wà pẹ̀lú wọn, apá kan nínú àwọn tí A fún ní Tírà gbé Tírà Allāhu jù s’ẹ́yìn lẹ́yìn wọn bí ẹni pé wọn kò mọ̀ (pé àsọọ́lẹ̀ nípa Ànábì - kí ìkẹ́ àti ọlà Allāhu máa bá a - wà nínú rẹ̀)!
 
 # 109
 
@@ -935,7 +935,7 @@ Dájúdájú àwọn àmì wà nínú ìṣẹ̀dá àwọn sánmọ̀ àti il�
 
 # 176
 
-. Ohun tí ó máa pa yín ní àṣẹ rẹ̀ ni (iṣẹ́) aburú, ìbàjẹ́ àti pé kí ẹ máa pa irọ́ ohun tí ẹ kò nímọ̀ nípa rẹ̀ mọ́ Allāhu.
+\. Ohun tí ó máa pa yín ní àṣẹ rẹ̀ ni (iṣẹ́) aburú, ìbàjẹ́ àti pé kí ẹ máa pa irọ́ ohun tí ẹ kò nímọ̀ nípa rẹ̀ mọ́ Allāhu.
 
 # 177
 
@@ -2903,7 +2903,7 @@ Nítorí náà, jagun sí ojú-ọ̀nà Allāhu. Wọn kò là á bọ ẹnì ka
 
 # 579
 
-. Nígbà tí wọ́n bá ki yín ní kíkí kan, ẹ kí wọn (padà) pẹ̀lú èyí tó dára jù ú lọ tàbí kí ẹ dá a padà (pẹ̀lú bí wọ́n ṣe ki yín). Dájúdájú Allāhu ń jẹ́ Olùṣírò lórí gbogbo n̄ǹkan.
+\. Nígbà tí wọ́n bá ki yín ní kíkí kan, ẹ kí wọn (padà) pẹ̀lú èyí tó dára jù ú lọ tàbí kí ẹ dá a padà (pẹ̀lú bí wọ́n ṣe ki yín). Dájúdájú Allāhu ń jẹ́ Olùṣírò lórí gbogbo n̄ǹkan.
 
 # 580
 
@@ -3247,7 +3247,7 @@ bí kò ṣe pé Allāhu gbé e wá sókè lọ́dọ̀ Rẹ̀ ni. Allāhu sì �
 
 [^1]: Āyah 157 àti 158 yìí jẹ́ ọ̀kan nínú àwọn āyah tí ó sọ ìjọ Ahmadiyyah Ƙọ̄diyaniyyah tàbí Lahọ̄riyyah) di ìjọ kèfèrí. Ìdí ni pé, ìgbàgbọ́ ìjọ Ahmadiyyah ni pé, wọn kan ‘Īsā ọmọ Mọryam mọ́ igi àgbélébùú - kí ọlà Allāhu máa bá a -, àmọ́ kò kú sí orí rẹ̀. Ìjọ Ahmadiyyah sì tún gbà pé ‘Īsā ọmọ Mọryam sá àsálà wá sí ilẹ̀ India. Ó fẹ́ ìyàwó níbẹ̀. Ó kú síbẹ̀. Wọ́n sì sin ín síbẹ̀. Lẹ́yìn náà, ìjọ Ahmadiyyah gbà pé ẹni tí ó padà wá sáyé lábẹ́ ìpadàbọ̀ ‘Īsā ọmọ Mọryam kò jẹ́ ẹnì kan bí kò ṣe mirza Ghulam Ahmad, olùdásílẹ̀ ìjọ Ahmadiyyah.
 
-    Ọ̀nà tí èyí sì gbà ṣẹlẹ̀ nìyí nínú ìtọ́kasí wọn: “The word of God which I set out at some places in my book, the Baraheen Ahmadiyya explains how God Almighty made me Isa Son of Mary. In that book God first named me Mary and then disclosed that God had breathed His spirit into this Mary and said that after the breathing of this spirit my status as Mary was converted into my status as Isa, and thus Isa having been born of Mary was called Son of Mary.” Ìtúmọ̀: Mirza Ghulam Ahmad wí pé “Ọ̀rọ̀ Allāhu tí mo mú jáde láti inú ìwé mi, Baraheen Ahmadiyya, ó ń ṣe àlàyé ọ̀nà tí Allāhu gbà sọ mí di ‘Īsā ọmọ Mọryam. Nínú ìwé yẹn, Allāhu kọ́ sọ mí ní Mọryam. Lẹ́yìn náà, wọ́n fi hàn mí pé Allāhu ti fẹ́ ẹ̀mí mímọ́ Rẹ̀ sí Mọryam yìí lára. Ó sì sọ pé lẹ́yìn tí Òun ti fẹ́ ẹ̀mí mímọ́ sí mi lára, ipò mi gẹ́gẹ́ bí Mọryam ti paradà báyìí, mo sì ti di ‘Īsā. Èyí rí bẹ́ẹ̀ fún wí pé bíbí tí Mọryam bí ‘Īsā ni wọ́n fi ń pè é ní ‘Īsā ọmọ Mọryam. [Ìwé Tadhkirah, òǹkọ̀wé: = = (Ahmadi) Muhammad Zafrullah Khan; ojú ewé: 369.] Ibi dandan Allāhu kí ó máa bá òpùrọ́ yìí.
+    Ọ̀nà tí èyí sì gbà ṣẹlẹ̀ nìyí nínú ìtọ́kasí wọn: “The word of God which I set out at some places in my book, the Baraheen Ahmadiyya explains how God Almighty made me Isa Son of Mary. In that book God first named me Mary and then disclosed that God had breathed His spirit into this Mary and said that after the breathing of this spirit my status as Mary was converted into my status as Isa, and thus Isa having been born of Mary was called Son of Mary.” Ìtúmọ̀: Mirza Ghulam Ahmad wí pé “Ọ̀rọ̀ Allāhu tí mo mú jáde láti inú ìwé mi, Baraheen Ahmadiyya, ó ń ṣe àlàyé ọ̀nà tí Allāhu gbà sọ mí di ‘Īsā ọmọ Mọryam. Nínú ìwé yẹn, Allāhu kọ́ sọ mí ní Mọryam. Lẹ́yìn náà, wọ́n fi hàn mí pé Allāhu ti fẹ́ ẹ̀mí mímọ́ Rẹ̀ sí Mọryam yìí lára. Ó sì sọ pé lẹ́yìn tí Òun ti fẹ́ ẹ̀mí mímọ́ sí mi lára, ipò mi gẹ́gẹ́ bí Mọryam ti paradà báyìí, mo sì ti di ‘Īsā. Èyí rí bẹ́ẹ̀ fún wí pé bíbí tí Mọryam bí ‘Īsā ni wọ́n fi ń pè é ní ‘Īsā ọmọ Mọryam. \[Ìwé Tadhkirah, òǹkọ̀wé: = = (Ahmadi) Muhammad Zafrullah Khan; ojú ewé: 369.\] Ibi dandan Allāhu kí ó máa bá òpùrọ́ yìí.
 
 # 652
 
@@ -3539,7 +3539,7 @@ Nítorí ìyẹn, A sì ṣe é ní òfin fún àwọn ọmọ ’Isrọ̄’īl
 
 [^1]: Ìbàjẹ́ ṣíṣe lórí ilẹ̀ pé oríṣiríṣi. Nítorí náà, àwọn ìbàjẹ́ kan wà tí ó jẹ́ pé pípa ọ̀daràn ni ìjìyà rẹ̀. Bẹ́ẹ̀ sì ni pé, àwọn ìbàjẹ́ kan wà tí ìjìyà wọn kò wọ ipò pípa ọ̀daràn. Nínú ìbàjẹ́ tí ìjìyà rẹ̀ wọ pípa ọ̀daràn ni ó jẹyọ nínú hadīth yìí:
 
-    عَنْ عَبْدِ اللَّهِ قَالَ قَالَ رَسُولُ اللَّهِ -صلى الله عليه وسلم- « لاَ يَحِلُّ دَمُ امْرِئٍ مُسْلِمٍ يَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنِّى رَسُولُ اللَّهِ إِلاَّ بِإِحْدَى ثَلاَثٍ الثَّيِّبُ الزَّانِ وَالنَّفْسُ بِالنَّفْسِ وَالتَّارِكُ لِدِينِهِ الْمُفَارِقُ لِلْجَمَاعَةِ ». Láti ọ̀dọ̀ ‘Abdullāh - kí Allāhu yọ́nú sí i -, ó sọ pé, Òjíṣẹ́ Allāhu - kí ìkẹ́ àti ọlà Allāhu máa bá a - sọ pé, “Ẹ̀jẹ̀ ènìyàn tí ó jẹ́ mùsùlùmí kò lẹ́tọ̀ọ́ (kò lẹ́tọ̀ọ́ láti pa mùsùlùmí kan) tí ó ń jẹ́rìí pé “kò sí ọlọ́hun kan tí a gbọ́dọ̀ jọ́sìn fún ní ọ̀nà òdodo àyàfi Allāhu, àti pé dájúdájú Òjíṣẹ́ Allāhu ni mí” àfi nítorí ọ̀kan nínú àwọn n̄ǹkan mẹ́ta (wọ̀nyí): ẹni tí ó ti ṣe ìgbéyàwó rí tí ó lọ ṣe sìná (wọ́n máa lẹ̀ ẹ́ lókò pa), ẹ̀mí (olùpànìyàn) fún ẹ̀mí (ènìyàn tí ó pa) àti ẹni tí ó gbé ẹ̀sìn ’Islām rẹ̀ jù sílẹ̀, tí ó fi ìjọ mùsùlùmí sílẹ̀.” (Muslim àti Bukọ̄riy ló gbà á wá.)
+    عَنْ عَبْدِ اللَّهِ قَالَ قَالَ رَسُولُ اللَّهِ \-صلى الله عليه وسلم\- « لاَ يَحِلُّ دَمُ امْرِئٍ مُسْلِمٍ يَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنِّى رَسُولُ اللَّهِ إِلاَّ بِإِحْدَى ثَلاَثٍ الثَّيِّبُ الزَّانِ وَالنَّفْسُ بِالنَّفْسِ وَالتَّارِكُ لِدِينِهِ الْمُفَارِقُ لِلْجَمَاعَةِ ». Láti ọ̀dọ̀ ‘Abdullāh - kí Allāhu yọ́nú sí i -, ó sọ pé, Òjíṣẹ́ Allāhu - kí ìkẹ́ àti ọlà Allāhu máa bá a - sọ pé, “Ẹ̀jẹ̀ ènìyàn tí ó jẹ́ mùsùlùmí kò lẹ́tọ̀ọ́ (kò lẹ́tọ̀ọ́ láti pa mùsùlùmí kan) tí ó ń jẹ́rìí pé “kò sí ọlọ́hun kan tí a gbọ́dọ̀ jọ́sìn fún ní ọ̀nà òdodo àyàfi Allāhu, àti pé dájúdájú Òjíṣẹ́ Allāhu ni mí” àfi nítorí ọ̀kan nínú àwọn n̄ǹkan mẹ́ta (wọ̀nyí): ẹni tí ó ti ṣe ìgbéyàwó rí tí ó lọ ṣe sìná (wọ́n máa lẹ̀ ẹ́ lókò pa), ẹ̀mí (olùpànìyàn) fún ẹ̀mí (ènìyàn tí ó pa) àti ẹni tí ó gbé ẹ̀sìn ’Islām rẹ̀ jù sílẹ̀, tí ó fi ìjọ mùsùlùmí sílẹ̀.” (Muslim àti Bukọ̄riy ló gbà á wá.)
 
     Kíyè sí i, ẹni tí ó gbé ẹ̀sìn ’Islām rẹ̀ jù sílẹ̀ fẹ́ gbógun ti gbogbo ìjọ mùsùlùmí, ó sì fẹ́ sọ ara di alákòóbá fún ìran rẹ̀ ni. Nítorí náà, ọ̀ràn rẹ̀ ti wọ ipò ẹni tí ó di ọ̀tẹ̀ mọ́ ìjọba ’Islām lórí ilẹ̀ ’Islām. Pípa ni ìjìyà rẹ̀ láyé. Iná gbére sì ni ìyà rẹ̀ ní ọ̀run.
 
@@ -3611,7 +3611,7 @@ A fi ‘Īsā ọmọ Mọryam tẹ̀lé orípa wọn (ìyẹn, àwọn Ànábì
 
 Kí àwọn tí A fún ní al-’Injīl ṣèdájọ́ pẹ̀lú ohun tí Allāhu sọ̀kalẹ̀ nínú rẹ̀. Ẹnikẹ́ni tí kò bá ṣèdájọ́ pẹ̀lú ohun tí Allāhu sọ̀kalẹ̀, àwọn wọ̀nyẹn ni òbìlẹ̀jẹ́.[^1]
 
-[^1]: Kíyè sí i, tí àwọn onítírà ’Injīl bá lò ó gẹ́gẹ́ bí Allāhu - subhānahu wa ta'ālā - ṣe sọ̀ ọ́ kalẹ̀, dandan ni fún wọn láti tẹ̀lé Ànábì àsìkò yìí, Ànábì Muhammad - kí ìkẹ́ àti ọlà Allāhu máa bá a -. Nítorí pé, àsọtẹ́lẹ̀ nípa Ànábì Muhammad - kí ìkẹ́ àti ọlà Allāhu máa bá a - kúkú wà nínú rẹ̀. Bí àpẹ̀ẹrẹ, nínú ìwé Johannu 1:19-21, bíbélì sọ pé: (19) Eyi si ni ẹri Johannu, nigba ti awọn Ju ran awọn alufa ati awọn ọmọ Lefi lati Jerusalẹmu wa lati bi i leere pe. Tani iwọ ṣe? (20) O si jẹwọ, ko si sẹ; o si jẹwọ pe. Emi ki i ṣe Kristi naa. (21) Wọn si bi i pe, Tani iwọ ha ṣe? Elijah ni ọ bi? O si wipe Bẹẹkọ, Iwọ ni woli naa bi “ẹni tí à ń retí”? O si dahun wipe, Bẹẹkọ. [Complete Jewish Bible àti New Living Translation Bible. Kíyè sí i, àwọn bíbélì yòókú ti yọ “ẹni tí à ń retí” kúrò gẹ́gẹ́ bí ìṣe wọn.] Nítorí irú àsọtẹ́lẹ̀ wọ̀nyí ló mú kí Waraƙọh ọmọ Naofal, ẹbí ìyáwó àkọ́fẹ́ Ànábì wa - kí ìkẹ́ àti ọlà Allāhu máa bá a - Kọdījah ọmọ Kuwaelid - kí Allāhu yọ́nú sí i -, ṣe gbà pé òun máa tẹ̀lé Ànábì Muhammad - kí ìkẹ́ àti ọlà Allāhu máa bá a - nígbàkígbà tí Allāhu bá rán an níṣẹ́ sí àwọn ènìyàn. Àmọ́ ó kú ṣíwájú àsìkò náà.
+[^1]: Kíyè sí i, tí àwọn onítírà ’Injīl bá lò ó gẹ́gẹ́ bí Allāhu - subhānahu wa ta'ālā - ṣe sọ̀ ọ́ kalẹ̀, dandan ni fún wọn láti tẹ̀lé Ànábì àsìkò yìí, Ànábì Muhammad - kí ìkẹ́ àti ọlà Allāhu máa bá a -. Nítorí pé, àsọtẹ́lẹ̀ nípa Ànábì Muhammad - kí ìkẹ́ àti ọlà Allāhu máa bá a - kúkú wà nínú rẹ̀. Bí àpẹ̀ẹrẹ, nínú ìwé Johannu 1:19-21, bíbélì sọ pé: (19) Eyi si ni ẹri Johannu, nigba ti awọn Ju ran awọn alufa ati awọn ọmọ Lefi lati Jerusalẹmu wa lati bi i leere pe. Tani iwọ ṣe? (20) O si jẹwọ, ko si sẹ; o si jẹwọ pe. Emi ki i ṣe Kristi naa. (21) Wọn si bi i pe, Tani iwọ ha ṣe? Elijah ni ọ bi? O si wipe Bẹẹkọ, Iwọ ni woli naa bi “ẹni tí à ń retí”? O si dahun wipe, Bẹẹkọ. \[Complete Jewish Bible àti New Living Translation Bible. Kíyè sí i, àwọn bíbélì yòókú ti yọ “ẹni tí à ń retí” kúrò gẹ́gẹ́ bí ìṣe wọn.\] Nítorí irú àsọtẹ́lẹ̀ wọ̀nyí ló mú kí Waraƙọh ọmọ Naofal, ẹbí ìyáwó àkọ́fẹ́ Ànábì wa - kí ìkẹ́ àti ọlà Allāhu máa bá a - Kọdījah ọmọ Kuwaelid - kí Allāhu yọ́nú sí i -, ṣe gbà pé òun máa tẹ̀lé Ànábì Muhammad - kí ìkẹ́ àti ọlà Allāhu máa bá a - nígbàkígbà tí Allāhu bá rán an níṣẹ́ sí àwọn ènìyàn. Àmọ́ ó kú ṣíwájú àsìkò náà.
 
     Síwájú sí i, kàyéfì tí ń bẹ lára àwọn yẹ̀húdí àti nasọ̄rọ̄ ni pé, wọ́n kò yé retí ìmúṣẹ àsọtẹ́lẹ̀ náà. Kódà wọ́n máa ń fi bá àwọn ọ̀ṣẹbọ sọ̀rọ̀ nínú ìwàásù wọn fún wọn. Àmọ́ nígbà tí àsọtẹ́lẹ̀ náà wá sí ìmúṣẹ, ọ̀pọ̀lọ́pọ̀ wọn l’ó gbúnrí. Wọ́n sì ṣàì gbàgbọ́ nínú Ànábì náà - kí ìkẹ́ àti ọlà Allāhu máa bá a -. Èyí ni Allāhu - subhānahu wa ta'ālā - sọ nípa rẹ̀ nínú sūrah al-Baƙọrah; 2:89. Ẹ tún wo ìtọsẹ̀-ọ̀rọ̀ sūrah Yūnus; 10:94.
 
@@ -10519,7 +10519,7 @@ Nígbà tí àwọn méjèèjì ré kọjá (àyè náà), ó sọ fún ọmọ-
 
     Bákan náà, àwọn n̄ǹkan mẹ́tẹ̀ẹ̀ta wọ̀nyẹn tí Kidr dánwò lójú Ànábì Mūsā, ìbá tí ṣẹlẹ̀ bẹ́ẹ̀, tí kì í bá ṣe pé Allāhu - subhānahu wa ta‘ālā - l’Ó pa á láṣẹ láti ṣe bẹ́ẹ̀. Irú àǹfààní wọ̀nyí wà fún àwọn tó ṣíwájú Ànábì wa - kí ìkẹ́ àti ọlà Allāhu máa bá a -, ṣùgbọ́n kò sí fún ìjọ Ànábì wa - kí ìkẹ́ àti ọlà Allāhu máa bá a -.
 
-    Èyí ni pé, lásìkò yìí ẹnì kan kan kò gbọdọ̀ lo òfin kan tí ó yapa sí òfin tí Ànábì wa - kí ìkẹ́ àti ọlà Allāhu máa bá a - mú wá, kí ó wí pé Allāhu - subhānahu wa ta‘ālā - l’Ó fún òun náà ní ìṣípayá mímọ́ láti ṣe bẹ́ẹ̀. Wọ́ọ́rọ́wọ́ ni onítọ̀ún yóò jáde kúrò nínú ipò jíjẹ́ mùsùlùmí. Ọ̀wọ́ ẹnì kan ṣoṣo tí Allāhu ìbá fún ní ìṣípayá mímọ́ nínú ìjọ Ànábì wa - kí ìkẹ́ àti ọlà Allāhu máa bá a -, òun ni ’Amīrul-mu’minīn, ‘Umar bun Kattọ̄b - kí Allāhu yọ́nú sí i -. Èyí wà ní ìbámu sí ọ̀rọ̀ Ànábì - kí ìkẹ́ àti ọlà Allāhu máa bá a - tí ó sọ pé: “Dájúdájú ṣíwájú yín nínú àwọn ọmọ ’Isrọ̄’īl, ni a ti rí àwọn ènìyàn kan tí Allāhu bá sọ̀rọ̀ (ní ti ìṣípayá mímọ́), wọn kì í sì ṣe Ànábì. Tí ó bá jẹ́ pé ọ̀kan nínú wọn máa wà nínú ìjọ mi ni, ‘Umar ni ìbá jẹ́.” [Al-Bukāriy; bāb mọnāƙib ‘Umọr]
+    Èyí ni pé, lásìkò yìí ẹnì kan kan kò gbọdọ̀ lo òfin kan tí ó yapa sí òfin tí Ànábì wa - kí ìkẹ́ àti ọlà Allāhu máa bá a - mú wá, kí ó wí pé Allāhu - subhānahu wa ta‘ālā - l’Ó fún òun náà ní ìṣípayá mímọ́ láti ṣe bẹ́ẹ̀. Wọ́ọ́rọ́wọ́ ni onítọ̀ún yóò jáde kúrò nínú ipò jíjẹ́ mùsùlùmí. Ọ̀wọ́ ẹnì kan ṣoṣo tí Allāhu ìbá fún ní ìṣípayá mímọ́ nínú ìjọ Ànábì wa - kí ìkẹ́ àti ọlà Allāhu máa bá a -, òun ni ’Amīrul-mu’minīn, ‘Umar bun Kattọ̄b - kí Allāhu yọ́nú sí i -. Èyí wà ní ìbámu sí ọ̀rọ̀ Ànábì - kí ìkẹ́ àti ọlà Allāhu máa bá a - tí ó sọ pé: “Dájúdájú ṣíwájú yín nínú àwọn ọmọ ’Isrọ̄’īl, ni a ti rí àwọn ènìyàn kan tí Allāhu bá sọ̀rọ̀ (ní ti ìṣípayá mímọ́), wọn kì í sì ṣe Ànábì. Tí ó bá jẹ́ pé ọ̀kan nínú wọn máa wà nínú ìjọ mi ni, ‘Umar ni ìbá jẹ́.” \[Al-Bukāriy; bāb mọnāƙib ‘Umọr\]
 
     Bákan náà, ohun tí Ànábì Mūsā - kí ìkẹ́ àti ọlà Allāhu máa bá a - kọ́ lọ́dọ̀ Kidr kò túmọ̀ sí pé, ó kọ́ ọ fún lílò láààrin ìjọ rẹ̀. Allāhu - subhānahu wa ta‘ālā - ti fún Ànábì Mūsā ní òfin àti ìlànà tirẹ̀ nínú ’Islām, kò sì lẹ́tọ̀ọ́ fún un láti lo òfin àti ìlànà tí Allāhu fún Kidr, yálà Kidr jẹ́ waliyyu tàbí Ànábì. Èyí wà ní ìbámu sí sūrah al-Mọ̄’idah; 5:48.
 
@@ -14381,7 +14381,7 @@ Wọ́n wí pé: “Bákan náà ni fún wa; yálà o ṣe wáàsí fún wa tàb
 
 # 3069
 
-- Èyí kò jẹ́ kiní kan bí kò ṣe ìwà àwọn ẹni àkọ́kọ́.[^1] –
+\- Èyí kò jẹ́ kiní kan bí kò ṣe ìwà àwọn ẹni àkọ́kọ́.[^1] –
 
 [^1]: Ìyẹn ni pé, àwọn ènìyàn wọ̀nyí kò ní wáàsí lò gẹ́gẹ́ bí ìwà àwọn bàbá ńlá wọn. Irú kan-ùn ni gbogbo wọn.
 
@@ -19855,7 +19855,7 @@ Hā mīm.
 
 Báyẹn ni Allāhu, Alágbára, Ọlọ́gbọ́n ṣe ń fi ìmísí ránṣẹ́ sí ìwọ àti àwọn tó ṣíwájú rẹ.[^*]
 
-[^*]: "1. È é ti ṣe tí Allāhu lẹ́yìn tí Ó sọ pé “Báyẹn ni Allāhu, Alágbára, Ọlọ́gbọ́n ṣe ń fi ìmísí ránṣẹ́ sí ìwọ àti àwọn tó ṣíwájú rẹ.” kò fi kún un pé, “àti àwọn tó ń bọ̀ lẹ́yìn rẹ”?
+[^*]: "1\. È é ti ṣe tí Allāhu lẹ́yìn tí Ó sọ pé “Báyẹn ni Allāhu, Alágbára, Ọlọ́gbọ́n ṣe ń fi ìmísí ránṣẹ́ sí ìwọ àti àwọn tó ṣíwájú rẹ.” kò fi kún un pé, “àti àwọn tó ń bọ̀ lẹ́yìn rẹ”?
 
     Ìdí ni pé, Allāhu ti fi Ànábì - kí ìkẹ́ àti ọlà Allāhu máa bá a - ṣe òpin àwọn arímìísígbà “kātamu-nnabiyyīn”. Ẹ wo sūrah al-’Ahzāb; 33:40.
 
@@ -20265,7 +20265,7 @@ Títí di ìgbà tí ó fi máa wá bá Wa, ó sì máa wí pé: “Háà! Kí �
 
 Ṣé ìwọ l’o máa fún àwọn adití ní ọ̀rọ̀ gbọ́ tàbí o máa fún àwọn afọ́jú ní ìmọ̀nà àti ẹni tí ó wà nínú ìṣìnà pọ́nńbélé?[^*]
 
-[^*]: [1] Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah ar-Rūm; 30:53.
+[^*]: \[1\] Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah ar-Rūm; 30:53.
 
 # 4366
 
@@ -22923,7 +22923,7 @@ Nígbà tí Ìṣẹ̀lẹ̀ (Àjíǹde) bá ṣẹlẹ̀,
 
 # 4981
 
-- kò sí irọ́ kan nípa ìṣẹ̀lẹ̀ rẹ̀-
+\- kò sí irọ́ kan nípa ìṣẹ̀lẹ̀ rẹ̀-
 
 # 4982
 
@@ -22939,7 +22939,7 @@ Nígbà tí wọ́n bá mi ilẹ̀ tìtì ní mímìtìtì,
 
 # 4985
 
-- wọ́n sì máa di eruku àfẹ́dànù -
+\- wọ́n sì máa di eruku àfẹ́dànù -
 
 # 4986
 
@@ -25197,7 +25197,7 @@ Rárá o! Dájúdájú ó jẹ́ alátakò sí àwọn āyah Wa.
 
 Èmi yóò la ìyà pọ́nkèpọ́nkè bọ̀ ọ́ lọ́rùn (nínú Iná).[^*]
 
-[^*]: [1] Orúkọ àpáta ńlá kan nínú Iná ni Sọ‘ūd. Kèfèrí yóò máa pọ́n òkè náà láààrin àádọ́rin ọdún ní àpọ́njábọ́. Ìdí nìyí tí wọ́n fi pe ìyà náà ní ìyà pọ́nkèpọ́nkè.
+[^*]: \[1\] Orúkọ àpáta ńlá kan nínú Iná ni Sọ‘ūd. Kèfèrí yóò máa pọ́n òkè náà láààrin àádọ́rin ọdún ní àpọ́njábọ́. Ìdí nìyí tí wọ́n fi pe ìyà náà ní ìyà pọ́nkèpọ́nkè.
 
 # 5513
 
@@ -26727,7 +26727,7 @@ Nígbà tí sánmọ̀ bá fàya pẹ́rẹpẹ̀rẹ
 
 # 5886
 
-- ó gbọ́, ó sì tẹ̀lé àṣẹ Olúwa rẹ̀ ni. Ó sì di dandan fún un láti ṣe bẹ́ẹ̀[^1] -
+\- ó gbọ́, ó sì tẹ̀lé àṣẹ Olúwa rẹ̀ ni. Ó sì di dandan fún un láti ṣe bẹ́ẹ̀[^1] -
 
 [^1]: Ẹ wo sūrah al-Baƙọrah ;2:210, sūrah al-Furƙọ̄n; 25:25 àti sūrah al-’Infitọ̄r; 82:1-2.
 
@@ -26741,7 +26741,7 @@ Nígbà tí sánmọ̀ bá fàya pẹ́rẹpẹ̀rẹ
 
 # 5889
 
-- ó gbọ́, ó sì tẹ̀lé àṣẹ Olúwa rẹ̀ ni. Ó sì di dandan fún un láti ṣe bẹ́ẹ̀ - (ní ọjọ́ yẹn ni ẹ̀dá máa rí iṣẹ́ ọwọ́ rẹ̀)
+\- ó gbọ́, ó sì tẹ̀lé àṣẹ Olúwa rẹ̀ ni. Ó sì di dandan fún un láti ṣe bẹ́ẹ̀ - (ní ọjọ́ yẹn ni ẹ̀dá máa rí iṣẹ́ ọwọ́ rẹ̀)
 
 # 5890
 

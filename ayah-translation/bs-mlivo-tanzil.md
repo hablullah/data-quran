@@ -5098,7 +5098,7 @@ Zaista je odlaganje (svetog mjeseca) povećanje nevjerovanja, zavode se time oni
 
 # 1273
 
-O vi koji vjerujete! [ta vam je kad vam se kaže: "Nastupajte na putu Allahovom", priklonite se zemlji? Zadovoljavate li se životom Dunjaa (više) od Ahireta? Pa užitak života Dunjaa u (odnosu na) Ahiret samo je mali.
+O vi koji vjerujete! \[ta vam je kad vam se kaže: "Nastupajte na putu Allahovom", priklonite se zemlji? Zadovoljavate li se životom Dunjaa (više) od Ahireta? Pa užitak života Dunjaa u (odnosu na) Ahiret samo je mali.
 
 # 1274
 
@@ -14214,7 +14214,7 @@ Doista Allah zna one među vama koji sprečavaju, i one koji su govorili braći 
 
 # 3552
 
-[krti prema vama. Pa kad dođe strah, vidiš ih gledaju prema tebi, okreću oči njihove kao onaj koji se onesvijesti od smrti. Pa kad strah ode peckaju vas jezicima oštrim, pohlepni prema dobru. Takvi ne vjeruju, zato će Allah poništiti djela njihova, a to je Allahu lahko.
+\[krti prema vama. Pa kad dođe strah, vidiš ih gledaju prema tebi, okreću oči njihove kao onaj koji se onesvijesti od smrti. Pa kad strah ode peckaju vas jezicima oštrim, pohlepni prema dobru. Takvi ne vjeruju, zato će Allah poništiti djela njihova, a to je Allahu lahko.
 
 # 3553
 
@@ -14522,7 +14522,7 @@ Reci: "Zovite one koje pretpostavljate mimo Allaha! Ne vladaju težinom atoma u 
 
 # 3629
 
-I neće koristiti kod Njega posredovanje, izuzev onom kome dopusti. Dok, kad se otkloni strah iz srca njihovih, reći će: " [ta to reče Gospodar naš?" Reći će: "Istinu." A On je Uzvišeni, Veliki.
+I neće koristiti kod Njega posredovanje, izuzev onom kome dopusti. Dok, kad se otkloni strah iz srca njihovih, reći će: " \[ta to reče Gospodar naš?" Reći će: "Istinu." A On je Uzvišeni, Veliki.
 
 # 3630
 
@@ -16378,7 +16378,7 @@ Imaće oni šta htjednu kod Gospodara svog. To je plaća dobročinitelja,
 
 # 4093
 
-[to će im oprostiti Allah najgore šta su uradili, i podmiriti im nagradu njihovu za najbolje šta su uradili.
+\[to će im oprostiti Allah najgore šta su uradili, i podmiriti im nagradu njihovu za najbolje šta su uradili.
 
 # 4094
 
@@ -16702,7 +16702,7 @@ Ko učini zlo, pa biće plaćen samo sličnim njemu, a ko učini dobro, muškara
 
 # 4174
 
-I o narode moj! [ta mi je? Pozivam vas spasu, a pozivate me vatri.
+I o narode moj! \[ta mi je? Pozivam vas spasu, a pozivate me vatri.
 
 # 4175
 
@@ -20758,7 +20758,7 @@ Pa kad se završi salat, tad se raširite po zemlji i tražite od blagodati Alla
 
 # 5188
 
-I kad ugledaju trgovinu ili zabavu, raspu se k njoj, a ostave tebe stojeći. Reci: " [ta je kod Allaha, bolje je od zabave i od trgovine. A Allah je Najbolji od opskrbljivača.
+I kad ugledaju trgovinu ili zabavu, raspu se k njoj, a ostave tebe stojeći. Reci: " \[ta je kod Allaha, bolje je od zabave i od trgovine. A Allah je Najbolji od opskrbljivača.
 
 # 5189
 
@@ -21234,7 +21234,7 @@ Pa hoćemo li tretirati muslimane kao prestupnike?
 
 # 5307
 
-[ta vam je? Kako prosuđujete?
+\[ta vam je? Kako prosuđujete?
 
 # 5308
 

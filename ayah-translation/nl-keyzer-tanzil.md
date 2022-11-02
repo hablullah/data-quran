@@ -12242,7 +12242,7 @@ Vreest dus God en gehoorzaamt mij.
 
 # 3059
 
-[ik vraag van u geenerlei belooning voor mijne prediking tot u; ik verwacht mijne belooning slechts van den Heer van alle schepselen.
+\[ik vraag van u geenerlei belooning voor mijne prediking tot u; ik verwacht mijne belooning slechts van den Heer van alle schepselen.
 
 # 3060
 
@@ -12258,7 +12258,7 @@ En als gij uwe macht uitoefent, oefent gij die met onbarmhartigheid en gestrengh
 
 # 3063
 
-Vreest God, door deze dingen te verlaten en gelooft mij].
+Vreest God, door deze dingen te verlaten en gelooft mij\].
 
 # 3064
 

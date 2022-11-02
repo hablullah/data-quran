@@ -534,7 +534,7 @@ Oto Pan doświadczył Abrahama pewnymi słowami; i on wypełnij je. Powiedział 
 
 # 132
 
-I oto uczyniliśmy ten Dom miejscem nawiedzania i miejscem bezpiecznym. I weźcie sobie jako miejsce modlitwy stację Abrahama. Zawarliśmy przymierze z Abrahamem i Isma`ilem: "Oczyśćcie Mój Dom dla odprawiających okrążenia, dla tych, którzy pozostają w medytacji, i dla tych, którzy się pochylają i wybijają pokłony."
+I oto uczyniliśmy ten Dom miejscem nawiedzania i miejscem bezpiecznym. I weźcie sobie jako miejsce modlitwy stację Abrahama. Zawarliśmy przymierze z Abrahamem i Isma\`ilem: "Oczyśćcie Mój Dom dla odprawiających okrążenia, dla tych, którzy pozostają w medytacji, i dla tych, którzy się pochylają i wybijają pokłony."
 
 # 133
 
@@ -542,7 +542,7 @@ Oto powiedział Abraham: "Panie mój! Uczyń tę krainę bezpieczną i daj zaopa
 
 # 134
 
-I kiedy Abraham i Isma`il wznosili fundamenty, Domu: "Panie nasz! Przyjmij to od nas, przecież Ty jesteś Słyszący, Wszechwiedzący!
+I kiedy Abraham i Isma\`il wznosili fundamenty, Domu: "Panie nasz! Przyjmij to od nas, przecież Ty jesteś Słyszący, Wszechwiedzący!
 
 # 135
 
@@ -566,7 +566,7 @@ Abraham nakazał to swoim synom i tak samo Jakub: "O moi synowie! Zaprawdę, Bó
 
 # 140
 
-Czy wy byliście świadkami, kiedy zjawiła się przed Jakubem śmierć? On powiedział do swoich synów: "Co wy będziecie czcić po mnie?" Oni powiedzieli: "Będziemy czcić twego Boga i Boga twoich ojców - Abrahama, Isma`ila i Izaaka Boga Jedynego! I my Jemu poddajemy się całkowicie."
+Czy wy byliście świadkami, kiedy zjawiła się przed Jakubem śmierć? On powiedział do swoich synów: "Co wy będziecie czcić po mnie?" Oni powiedzieli: "Będziemy czcić twego Boga i Boga twoich ojców - Abrahama, Isma\`ila i Izaaka Boga Jedynego! I my Jemu poddajemy się całkowicie."
 
 # 141
 
@@ -578,7 +578,7 @@ Oni mówią: "Bądźcie wyznawcami judaizmu lub chrześcijanami, a znajdziecie s
 
 # 143
 
-Powiedzcie: "My wierzymy w Boga i w to, co nam zostało zesłane, i w to, co zostało zesłane Abrahamowi, Isma`ilowi i Izaakowi, Jakubowi i pokoleniom; i w to, co zostało dane prorokom od ich Pana. My nie robimy żadnej różnicy między nimi i poddajemy się Jemu całkowicie."
+Powiedzcie: "My wierzymy w Boga i w to, co nam zostało zesłane, i w to, co zostało zesłane Abrahamowi, Isma\`ilowi i Izaakowi, Jakubowi i pokoleniom; i w to, co zostało dane prorokom od ich Pana. My nie robimy żadnej różnicy między nimi i poddajemy się Jemu całkowicie."
 
 # 144
 
@@ -594,7 +594,7 @@ Powiedz: "Czy wy będziecie z nami dyskutować o Bogu, który jest naszym Panem 
 
 # 147
 
-A jeśli oni będą mówili: "Czy doprawdy Abraham i Isma`il, Izaak, Jakub i pokolenia byli wyznawcami judaizmu lub chrześcijanami?" Powiedz: "Czy wy wiecie lepiej, czy Bóg? A kto jest bardziej niesprawiedliwy aniżeli ten, kto ukrywa świadectwo otrzymane od Boga? A Bóg nie lekceważy tego, co czynicie!"
+A jeśli oni będą mówili: "Czy doprawdy Abraham i Isma\`il, Izaak, Jakub i pokolenia byli wyznawcami judaizmu lub chrześcijanami?" Powiedz: "Czy wy wiecie lepiej, czy Bóg? A kto jest bardziej niesprawiedliwy aniżeli ten, kto ukrywa świadectwo otrzymane od Boga? A Bóg nie lekceważy tego, co czynicie!"
 
 # 148
 
@@ -1246,7 +1246,7 @@ Powiedz: "Czyż ja mam wam obwieścić coś lepszego aniżeli to?" Ci, którzy s
 
 # 310
 
-- na cierpliwych i szczerych, pokornych i rozdających, o świcie proszących o przebaczenie.
+\- na cierpliwych i szczerych, pokornych i rozdających, o świcie proszących o przebaczenie.
 
 # 311
 
@@ -1514,7 +1514,7 @@ Czyż oni poszukują innej religii niż religia Boga? A przecież Jemu poddaje s
 
 # 377
 
-Powiedz: "Wierzymy w Boga i w to, co nam zesłał, i w to, co zostało zesłane Abrahamowi i Isma`ilowi, Izaakowi i Jakubowi, jak i plemionom; i w to, co zostało dane Mojżeszowi, Jezusowi i prorokom - od ich Pana. My nie robimy rozróżnienia między żadnym z nich i jesteśmy Jemu całkowicie poddani."
+Powiedz: "Wierzymy w Boga i w to, co nam zesłał, i w to, co zostało zesłane Abrahamowi i Isma\`ilowi, Izaakowi i Jakubowi, jak i plemionom; i w to, co zostało dane Mojżeszowi, Jezusowi i prorokom - od ich Pana. My nie robimy rozróżnienia między żadnym z nich i jesteśmy Jemu całkowicie poddani."
 
 # 378
 
@@ -2630,7 +2630,7 @@ Lecz tym spośród nich, którzy są utwierdzeni w wiedzy, i wiernym, którzy wi
 
 # 656
 
-Zaprawdę, objawiliśmy tobie, tak jak objawiliśmy Noemu i prorokom po nim; i jak objawiliśmy Abrahamowi i Isma`ilowi Izaakowi i Jakubowi, jak i pokoleniom, Jezusowi, Hiobowi i Jonaszowi, Aaronowi i Salomonowi; a Dawidowi daliśmy Psalmy.
+Zaprawdę, objawiliśmy tobie, tak jak objawiliśmy Noemu i prorokom po nim; i jak objawiliśmy Abrahamowi i Isma\`ilowi Izaakowi i Jakubowi, jak i pokoleniom, Jezusowi, Hiobowi i Jonaszowi, Aaronowi i Salomonowi; a Dawidowi daliśmy Psalmy.
 
 # 657
 
@@ -3062,7 +3062,7 @@ O wy, którzy wierzycie! Bóg będzie was, z pewnością, doświadczał przez ni
 
 # 764
 
-O wy, którzy wierzycie! Nie zabijajcie zwierzyny, kiedy jesteście w stanie uświęcenia! A kto spośród was zabije ją naumyślnie, to zapłaci bydłem tyle, ile zabił, jako ofiarę złożoną w Ka`bie - a sądzić będzie dwóch sprawiedliwych spośród was; albo zapłatą będzie żywienie biedaków, albo też równe temu odprawienie postu - aby zakosztował on złych skutków swego dzieła. Bóg odpuścił to, co należy do przeszłości; lecz jeśli ktoś powtórzy ten czyn, to Bóg się na nim zemści. Bóg jest potężny, włada zemstą!
+O wy, którzy wierzycie! Nie zabijajcie zwierzyny, kiedy jesteście w stanie uświęcenia! A kto spośród was zabije ją naumyślnie, to zapłaci bydłem tyle, ile zabił, jako ofiarę złożoną w Ka\`bie - a sądzić będzie dwóch sprawiedliwych spośród was; albo zapłatą będzie żywienie biedaków, albo też równe temu odprawienie postu - aby zakosztował on złych skutków swego dzieła. Bóg odpuścił to, co należy do przeszłości; lecz jeśli ktoś powtórzy ten czyn, to Bóg się na nim zemści. Bóg jest potężny, włada zemstą!
 
 # 765
 
@@ -3506,7 +3506,7 @@ I Zachariasza, i Jana, Jezusa i Eliasza - oni wszyscy są z liczby cnotliwych -
 
 # 875
 
-I Isma`ila, i Al-Jasa, Jonasza i Lota - wszystkich wywyższyliśmy ponad światy!
+I Isma\`ila, i Al-Jasa, Jonasza i Lota - wszystkich wywyższyliśmy ponad światy!
 
 # 876
 
@@ -4002,7 +4002,7 @@ I mieszkańcy Ogrodu będą wołać do mieszkańców ognia: "Przekonaliśmy się
 
 # 999
 
-- nad tymi, którzy odwracają od drogi Boga, którzy chcą uczynić ją krzywą i którzy nie wierzą w życie ostateczne!"
+\- nad tymi, którzy odwracają od drogi Boga, którzy chcą uczynić ją krzywą i którzy nie wierzą w życie ostateczne!"
 
 # 1000
 
@@ -4162,7 +4162,7 @@ I zesłaliśmy na nich deszcz. Popatrz więc, jaki był ostateczny koniec grzesz
 
 # 1039
 
-I do ludu Median posłaliśmy ich brata Szu`ajba! On powiedział: "O ludu mój! Czcijcie Boga! Nie ma dla was boga innego niż On! Otrzymaliście przecież jasny dowód od waszego Pana. Dawajcie więc pełną miarę i wagę! Nie wyrządzajcie szkody ludziom w ich dobrach! Nie rozprzestrzeniajcie zepsucia na ziemi po jej udoskonaleniu! To jest dla was lepsze, jeśli jesteście wierzący!
+I do ludu Median posłaliśmy ich brata Szu\`ajba! On powiedział: "O ludu mój! Czcijcie Boga! Nie ma dla was boga innego niż On! Otrzymaliście przecież jasny dowód od waszego Pana. Dawajcie więc pełną miarę i wagę! Nie wyrządzajcie szkody ludziom w ich dobrach! Nie rozprzestrzeniajcie zepsucia na ziemi po jej udoskonaleniu! To jest dla was lepsze, jeśli jesteście wierzący!
 
 # 1040
 
@@ -4174,7 +4174,7 @@ A jeśli część z was uwierzyła w to, z czym ja zostałem posłany, a częś�
 
 # 1042
 
-Powiedziała starszyzna z jego ludu - ci, którzy wbili się w dumę: "My wypędzimy ciebie, o Szu`ajbie, i tych, którzy uwierzyli razem z tobą, z naszego miasta albo powrócisz do naszej religii!" On powiedział: "Nawet jeśli jej nienawidzimy?
+Powiedziała starszyzna z jego ludu - ci, którzy wbili się w dumę: "My wypędzimy ciebie, o Szu\`ajbie, i tych, którzy uwierzyli razem z tobą, z naszego miasta albo powrócisz do naszej religii!" On powiedział: "Nawet jeśli jej nienawidzimy?
 
 # 1043
 
@@ -4182,7 +4182,7 @@ Wymyślilibyśmy przeciwko Bogu kłamstwo, jeślibyśmy powrócili do waszej rel
 
 # 1044
 
-Powiedziała starszyzna z ich ludu - ci, którzy nie uwierzyli: "Jeśli pójdziecie za Szu`ajbem, to wtedy z pewnością poniesiecie stratę!'
+Powiedziała starszyzna z ich ludu - ci, którzy nie uwierzyli: "Jeśli pójdziecie za Szu\`ajbem, to wtedy z pewnością poniesiecie stratę!'
 
 # 1045
 
@@ -4190,7 +4190,7 @@ I pochwyciło ich trzęsienie ziemi, i rankiem znaleźli się w swoich domostwac
 
 # 1046
 
-Ci, którzy uważali Szu`ajba za kłamcę, to jakby tam nigdy nie mieszkali! ci, którzy uważali Szu`ajba za kłamcę, ponieśli stratę!
+Ci, którzy uważali Szu\`ajba za kłamcę, to jakby tam nigdy nie mieszkali! ci, którzy uważali Szu\`ajba za kłamcę, ponieśli stratę!
 
 # 1047
 
@@ -4662,7 +4662,7 @@ Ci, którzy odprawiają modlitwę; ci, którzy rozdają z tego, w co ich zaopatr
 
 # 1164
 
-- tacy są naprawdę wierzącymi! - Dla nich są przygotowane stopnie u ich Pana i przebaczenie, i szlachetne zaopatrzenie.
+\- tacy są naprawdę wierzącymi! - Dla nich są przygotowane stopnie u ich Pana i przebaczenie, i szlachetne zaopatrzenie.
 
 # 1165
 
@@ -5494,7 +5494,7 @@ Zaprawdę, dla tych, którzy nie mają nadziei na Nasze spotkanie i którzy zado
 
 # 1372
 
-- miejscem schronienia będzie ogień, za to, co oni czynili.
+\- miejscem schronienia będzie ogień, za to, co oni czynili.
 
 # 1373
 
@@ -5850,7 +5850,7 @@ Zaprawdę, ci, na których się sprawdziło słowo twojego Pana, nie uwierzą
 
 # 1461
 
-- nawet jeśliby przyszły do nich wszystkie znaki - dopóki nie zobaczą kary bolesnej.
+\- nawet jeśliby przyszły do nich wszystkie znaki - dopóki nie zobaczą kary bolesnej.
 
 # 1462
 
@@ -6198,7 +6198,7 @@ A kiedy strach opuścił Abrahama i kiedy dotarła do niego radosna wieść, zac
 
 # 1548
 
-- Zaprawdę, Abraham był łagodny, pokorny, nawracający się w skrusze! -
+\- Zaprawdę, Abraham był łagodny, pokorny, nawracający się w skrusze! -
 
 # 1549
 
@@ -6234,7 +6234,7 @@ Oznakowanej u twojego Pana. I ono nie jest daleko od niesprawiedliwych.
 
 # 1557
 
-I wysłaliśmy do Madianitów ich brata Szu`ajba, który powiedział: "Czcijcie Boga! Nie ma dla was żadnego innego boga oprócz Niego! I nie umniejszajcie miary i wagi! Widzę, że żyjecie w dobrobycie, i obawiam się dla was kary Dnia wszystko obejmującego!
+I wysłaliśmy do Madianitów ich brata Szu\`ajba, który powiedział: "Czcijcie Boga! Nie ma dla was żadnego innego boga oprócz Niego! I nie umniejszajcie miary i wagi! Widzę, że żyjecie w dobrobycie, i obawiam się dla was kary Dnia wszystko obejmującego!
 
 # 1558
 
@@ -6246,7 +6246,7 @@ To, co pozostaje u Boga, jest lepsze dla was, jeśli jesteście wierzącymi. Ja 
 
 # 1560
 
-Oni powiedzieli: "O Szu`ajbie! Czy twoja modlitwa nakazuje ci, abyśmy poniechali tego, co czcili nasi ojcowie, albo abyśmy przestali czynić z naszym majątkiem to, co chcemy? Ty przecież jesteś łagodny, prawy!"
+Oni powiedzieli: "O Szu\`ajbie! Czy twoja modlitwa nakazuje ci, abyśmy poniechali tego, co czcili nasi ojcowie, albo abyśmy przestali czynić z naszym majątkiem to, co chcemy? Ty przecież jesteś łagodny, prawy!"
 
 # 1561
 
@@ -6262,7 +6262,7 @@ Proście o przebaczenie waszego Pana! Następnie nawracajcie się do Niego! Zapr
 
 # 1564
 
-Oni powiedzieli: "O Szu`ajbie! My nie pojmujemy wiele z tego, co mówisz; my widzimy, że jesteś słaby wśród nas. I gdyby nie twój ród, to byśmy ciebie ukamienowali; ty nie jesteś przecież nad nami potężny."
+Oni powiedzieli: "O Szu\`ajbie! My nie pojmujemy wiele z tego, co mówisz; my widzimy, że jesteś słaby wśród nas. I gdyby nie twój ród, to byśmy ciebie ukamienowali; ty nie jesteś przecież nad nami potężny."
 
 # 1565
 
@@ -6274,7 +6274,7 @@ O ludu mój! Działajcie według swoich możliwości, ja też będę działał. 
 
 # 1567
 
-I kiedy przyszedł Nasz rozkaz, uratowaliśmy Szu`ajba i tych, którzy uwierzyli razem z nim - przez miłosierdzie od Nas. Tych, którzy byli niesprawiedliwi, pochwycił przeraźliwy krzyk i rankiem leżeli w swoich domostwach twarzami ku ziemi,
+I kiedy przyszedł Nasz rozkaz, uratowaliśmy Szu\`ajba i tych, którzy uwierzyli razem z nim - przez miłosierdzie od Nas. Tych, którzy byli niesprawiedliwi, pochwycił przeraźliwy krzyk i rankiem leżeli w swoich domostwach twarzami ku ziemi,
 
 # 1568
 
@@ -7054,7 +7054,7 @@ Powiedzieli im ich posłańcy: "Jesteśmy tylko ludźmi, tak jak wy, lecz Bóg o
 
 # 1762
 
-A dlaczego nie mielibyśmy zaufać Bogu, skoro On nas poprowadził po naszych drogach? My będziemy, z pewnością, bardzo cierpliwie znosić to wszystko, czym nas obrażacie. _Niech więc zaufają Bogu ci, którzy są pełni ufności!"
+A dlaczego nie mielibyśmy zaufać Bogu, skoro On nas poprowadził po naszych drogach? My będziemy, z pewnością, bardzo cierpliwie znosić to wszystko, czym nas obrażacie. \_Niech więc zaufają Bogu ci, którzy są pełni ufności!"
 
 # 1763
 
@@ -7122,7 +7122,7 @@ Czy nie widziałeś tych, którzy zamienili dobroć Boga na niewiarę i umieści
 
 # 1779
 
-- w Gehennie, w której oni się będą palić. A jakże to nieszczęsne miejsce pobytu!
+\- w Gehennie, w której oni się będą palić. A jakże to nieszczęsne miejsce pobytu!
 
 # 1780
 
@@ -7162,7 +7162,7 @@ Panie nasz! Zaprawdę, Ty wiesz, co my ukrywamy i co czynimy jawnie. I nic nie j
 
 # 1789
 
-Chwała niech będzie Bogu, który mi dał, mimo mojej starości, Isma`ila i Izaaka. Zaprawdę, mój Pan dobrze słyszy modlitwę!
+Chwała niech będzie Bogu, który mi dał, mimo mojej starości, Isma\`ila i Izaaka. Zaprawdę, mój Pan dobrze słyszy modlitwę!
 
 # 1790
 
@@ -7722,7 +7722,7 @@ Potem - w Dniu Zmartwychwstania - Bóg okryje ich hańbą i powie: "Gdzież są 
 
 # 1929
 
-- tych, których wezwą aniołowie, niesprawiedliwych dla samych siebie; oni wtedy upokorzą się całkowicie: "My nie uczyniliśmy nic złego!" Ależ przeciwnie! Zaprawdę, Bóg wie doskonale, co wy czyniliście!
+\- tych, których wezwą aniołowie, niesprawiedliwych dla samych siebie; oni wtedy upokorzą się całkowicie: "My nie uczyniliśmy nic złego!" Ależ przeciwnie! Zaprawdę, Bóg wie doskonale, co wy czyniliście!
 
 # 1930
 
@@ -7734,11 +7734,11 @@ A tym, którzy się boją Boga, powiedzą: "Co to zesłał wasz Pan?" - oni powi
 
 # 1932
 
-- Ogrody Edenu, do których oni wejdą, gdzie w dole płyną strumyki. Będzie tam dla nich wszystko, co zechcą. W ten sposób wynagradza Bóg bogobojnych!
+\- Ogrody Edenu, do których oni wejdą, gdzie w dole płyną strumyki. Będzie tam dla nich wszystko, co zechcą. W ten sposób wynagradza Bóg bogobojnych!
 
 # 1933
 
-- tych, których wezwą aniołowie, kiedy oni byli dobrymi, i którym powiedzą: "Pokój wam! Wejdźcie do Ogrodu za to, co czyniliście!"
+\- tych, których wezwą aniołowie, kiedy oni byli dobrymi, i którym powiedzą: "Pokój wam! Wejdźcie do Ogrodu za to, co czyniliście!"
 
 # 1934
 
@@ -8578,7 +8578,7 @@ Księgę prostą, aby ostrzegała przed strasznym nieszczęściem, nadchodzącym
 
 # 2143
 
-- oni tam będą przebywać na wieki -
+\- oni tam będą przebywać na wieki -
 
 # 2144
 
@@ -8910,7 +8910,7 @@ I poszedł on po pewnej drodze.
 
 # 2226
 
-A kiedy dotarł do zachodu słońca, to zobaczył, że ono schodzi do jakiegoś błotnistego źródła; a przy nim napotkał jakiś lud. Powiedzieliśmy: "O Zu`l-Karnajnie Albo ukarzesz ich, albo też postąpisz względem nich pięknie."
+A kiedy dotarł do zachodu słońca, to zobaczył, że ono schodzi do jakiegoś błotnistego źródła; a przy nim napotkał jakiś lud. Powiedzieliśmy: "O Zu\`l-Karnajnie Albo ukarzesz ich, albo też postąpisz względem nich pięknie."
 
 # 2227
 
@@ -8982,7 +8982,7 @@ Powiedz: "Czyż ja mam wam obwieścić o tych, którzy ponieśli największą st
 
 # 2244
 
-- o tych, których wysiłek zagubił się w życiu tego świata, gdy tymczasem sądzili, iż czynią dobrze?"
+\- o tych, których wysiłek zagubił się w życiu tego świata, gdy tymczasem sądzili, iż czynią dobrze?"
 
 # 2245
 
@@ -9222,7 +9222,7 @@ I podarowaliśmy mu, z Naszego miłosierdzia, brata jego Aarona, proroka.
 
 # 2304
 
-I wspomnij w Księdze Isma`ila, który był szczery w obietnicy; był on posłańcem, prorokiem.
+I wspomnij w Księdze Isma\`ila, który był szczery w obietnicy; był on posłańcem, prorokiem.
 
 # 2305
 
@@ -9370,7 +9370,7 @@ Niebiosa omal nie rozrywają się, a ziemia omal nie popęka szczelinami, a gór
 
 # 2341
 
-- od tego, iż oni przypisali Miłosiernemu syna.
+\- od tego, iż oni przypisali Miłosiernemu syna.
 
 # 2342
 
@@ -9518,7 +9518,7 @@ Daj mi pomocnika z mojej rodziny
 
 # 2378
 
-- Aarona, mojego brata!
+\- Aarona, mojego brata!
 
 # 2379
 
@@ -10278,7 +10278,7 @@ I wysłuchaliśmy go, i odsunęliśmy od niego utrapienie, które go dręczyło;
 
 # 2568
 
-I Isma`ila, Idrisa i Zu'I-Kifla... - wszyscy oni byli z liczby cierpliwych.
+I Isma\`ila, Idrisa i Zu'I-Kifla... - wszyscy oni byli z liczby cierpliwych.
 
 # 2569
 
@@ -10410,7 +10410,7 @@ O ludzie! Jeśli pozostajecie w zwątpieniu, co się tyczy zmartwychwstania... -
 
 # 2601
 
-- Tak jest; ponieważ Bóg jest prawdą i ponieważ ożywia umarłych, i ponieważ jest nad każdą rzeczą wszechwładny, i ponieważ nadejdzie Godzina - co do której nie ma żadnej wątpliwości -
+\- Tak jest; ponieważ Bóg jest prawdą i ponieważ ożywia umarłych, i ponieważ jest nad każdą rzeczą wszechwładny, i ponieważ nadejdzie Godzina - co do której nie ma żadnej wątpliwości -
 
 # 2602
 
@@ -10726,7 +10726,7 @@ Z wyjątkiem swoich żon i tego, czym zawładnęła ich prawica, bo wtedy nie b�
 
 # 2680
 
-- a którzy pożądają inne, poza nimi, są występni -
+\- a którzy pożądają inne, poza nimi, są występni -
 
 # 2681
 
@@ -10942,7 +10942,7 @@ Ci, którzy dają to, co dają, podczas gdy ich serca drżą, iż mają powróci
 
 # 2734
 
-- oto są ci, którzy się śpieszą ku dobrym uczynkom; oni są pierwsi w ich spełnianiu.
+\- oto są ci, którzy się śpieszą ku dobrym uczynkom; oni są pierwsi w ich spełnianiu.
 
 # 2735
 
@@ -11582,7 +11582,7 @@ A jeśli chodzi o ludy Ad i Samud i mieszkańców Ar-Rass, i liczne pokolenia mi
 
 # 2894
 
-- to im wszystkim podawaliśmy przykłady i wszystkich zniszczyliśmy całkowicie!
+\- to im wszystkim podawaliśmy przykłady i wszystkich zniszczyliśmy całkowicie!
 
 # 2895
 
@@ -11726,7 +11726,7 @@ I ci, którzy mówią: "Panie nasz! Daj nam od naszych żon i naszego potomstwa 
 
 # 2930
 
-- tacy otrzymają jako zapłatę komnatę wyniosłą za to, iż byli cierpliwi. Oni tam zostaną powitani pozdrowieniem i słowem: "Pokój!"
+\- tacy otrzymają jako zapłatę komnatę wyniosłą za to, iż byli cierpliwi. Oni tam zostaną powitani pozdrowieniem i słowem: "Pokój!"
 
 # 2931
 
@@ -12442,7 +12442,7 @@ Mieszkańcy Gąszczu uznali za kłamców tych, którzy zostali posłani.
 
 # 3109
 
-Oto powiedział do nich Szu`ajb: "Czy wy nie będziecie bogobojni?
+Oto powiedział do nich Szu\`ajb: "Czy wy nie będziecie bogobojni?
 
 # 3110
 
@@ -13114,7 +13114,7 @@ Wtedy on napoił ich trzodę; następnie skierował się do cienia i powiedział
 
 # 3277
 
-I zbliżyła się do niego jedna z nich, idąc nieśmiało, i powiedziała: "Ojciec mój zaprasza ciebie, aby ci zapłacić ` za to, że napoiłeś naszą trzodę." A kiedy Mojżesz przyszedł do niego i opowiedział mu swoją historię, tamten powiedział: "Nie bój się! Wyratowałeś się od ludu niesprawiedliwych."
+I zbliżyła się do niego jedna z nich, idąc nieśmiało, i powiedziała: "Ojciec mój zaprasza ciebie, aby ci zapłacić \` za to, że napoiłeś naszą trzodę." A kiedy Mojżesz przyszedł do niego i opowiedział mu swoją historię, tamten powiedział: "Nie bój się! Wyratowałeś się od ludu niesprawiedliwych."
 
 # 3278
 
@@ -13510,7 +13510,7 @@ I zostawiliśmy z tego miasta znak jasny dla ludzi, którzy są rozumni.
 
 # 3376
 
-I do Madianitów - ich brata Szu`ajba, który powiedział: "O ludu mój! Czcijcie Boga! Oczekujcie z nadzieją Dnia Ostatniego! Nie szerzcie na ziemi zgorszenia!"
+I do Madianitów - ich brata Szu\`ajba, który powiedział: "O ludu mój! Czcijcie Boga! Oczekujcie z nadzieją Dnia Ostatniego! Nie szerzcie na ziemi zgorszenia!"
 
 # 3377
 
@@ -13602,7 +13602,7 @@ A tych, którzy uwierzyli i pełnili dobre dzieła - umieścimy w Ogrodzie, w ko
 
 # 3399
 
-- tych, którzy byli cierpliwi i zaufali swojemu Panu.
+\- tych, którzy byli cierpliwi i zaufali swojemu Panu.
 
 # 3400
 
@@ -14446,7 +14446,7 @@ Mówią ci, którzy nie uwierzyli: "Nie przyjdzie na nas Godzina!" Powiedz: "Tak
 
 # 3610
 
-- aby wynagrodzić tych, którzy uwierzyli i czynili dobre dzieła. Otrzymają oni przebaczenie i zaopatrzenie szlachetne.
+\- aby wynagrodzić tych, którzy uwierzyli i czynili dobre dzieła. Otrzymają oni przebaczenie i zaopatrzenie szlachetne.
 
 # 3611
 
@@ -14738,7 +14738,7 @@ Nie są równi żywi i umarli. Zaprawdę, Bóg daje słyszeć, komu chce, lecz t
 
 # 3683
 
-- ty, jesteś tylko ostrzegającym.
+\- ty, jesteś tylko ostrzegającym.
 
 # 3684
 
@@ -15794,7 +15794,7 @@ Oni ustanowili między Nim a dżinami jakieś pokrewieństwo. A przecież dżiny
 
 # 3947
 
-- Chwała niech będzie Bogu, który jest ponad to, co oni opisują! -
+\- Chwała niech będzie Bogu, który jest ponad to, co oni opisują! -
 
 # 3948
 
@@ -16078,7 +16078,7 @@ Oni są u Nas przecież wśród wybranych, najlepszych.
 
 # 4018
 
-I wspomnij Isma`ila, Eliasza i Zu'I-Kifla - każdy z nich jest wśród najlepszych.
+I wspomnij Isma\`ila, Eliasza i Zu'I-Kifla - każdy z nich jest wśród najlepszych.
 
 # 4019
 
@@ -16894,7 +16894,7 @@ Księga, której znaki są wyjaśnione, jako Koran arabski, dla ludzi, którzy p
 
 # 4222
 
-- zwiastun radosnej wieści i ostrzeżenie. Lecz większość z nich się odwróciła; oni nie słuchają.
+\- zwiastun radosnej wieści i ostrzeżenie. Lecz większość z nich się odwróciła; oni nie słuchają.
 
 # 4223
 
@@ -17006,7 +17006,7 @@ My jesteśmy waszymi opiekunami w życiu na tym świecie i w życiu ostatecznym.
 
 # 4250
 
-- jako gościnne przyjęcie od Przebaczającego, Litościwego."
+\- jako gościnne przyjęcie od Przebaczającego, Litościwego."
 
 # 4251
 
@@ -17242,11 +17242,11 @@ I wszystko, co wam zostało dane, to chwilowe używanie życia na tym świecie. 
 
 # 4309
 
-- dla tych, którzy unikają grzechów ciężkich i czynów szpetnych; a kiedy się pogniewają, to przebaczają;
+\- dla tych, którzy unikają grzechów ciężkich i czynów szpetnych; a kiedy się pogniewają, to przebaczają;
 
 # 4310
 
-- dla tych, którzy odpowiadają swojemu Panu i odprawiają modlitwę; - dla tych, których sprawy są przedmiotem wzajemnej narady; - dla tych, którzy rozdają z tego, w co ich zaopatrzyliśmy;
+\- dla tych, którzy odpowiadają swojemu Panu i odprawiają modlitwę; - dla tych, których sprawy są przedmiotem wzajemnej narady; - dla tych, którzy rozdają z tego, w co ich zaopatrzyliśmy;
 
 # 4311
 
@@ -17346,11 +17346,11 @@ I jeśli ich zapytasz: "Kto stworzył niebiosa i ziemię?" - oni z pewnością o
 
 # 4335
 
-- Ten, który uczynił ziemię kolebką dla was; On wyznaczył na niej wasze drogi. Być może, pójdziecie drogą prostą!
+\- Ten, który uczynił ziemię kolebką dla was; On wyznaczył na niej wasze drogi. Być może, pójdziecie drogą prostą!
 
 # 4336
 
-- Ten, który zesłał z nieba wodę według pewnej miary. I dzięki niej ożywiliśmy krainę umarłą. W ten sposób zostaniecie wyprowadzeni!
+\- Ten, który zesłał z nieba wodę według pewnej miary. I dzięki niej ożywiliśmy krainę umarłą. W ten sposób zostaniecie wyprowadzeni!
 
 # 4337
 
@@ -17430,7 +17430,7 @@ A kiedy przyszła do nich prawda, oni powiedzieli: "To są czary i my w nie wier
 
 # 4356
 
-I powiedzieli: _ "Gdyby ten Koran został zesłany jakiemuś znacznemu człowiekowi z tych dwóch miast?!"
+I powiedzieli: \_ "Gdyby ten Koran został zesłany jakiemuś znacznemu człowiekowi z tych dwóch miast?!"
 
 # 4357
 
@@ -17786,7 +17786,7 @@ My wybawiliśmy synów Izraela od kary poniżającej
 
 # 4445
 
-- od Faraona. Zaprawdę, on był wyniosły wśród występnych!
+\- od Faraona. Zaprawdę, on był wyniosły wśród występnych!
 
 # 4446
 
@@ -17838,7 +17838,7 @@ Zaprawdę, drzewo Az-Zakkum
 
 # 4458
 
-- to pożywienie grzesznika!
+\- to pożywienie grzesznika!
 
 # 4459
 
@@ -17890,7 +17890,7 @@ Oni tam nie zakosztują śmierci, poza pierwszą śmiercią. Bóg wybawił ich o
 
 # 4471
 
-- łaska od twojego Pana. To jest osiągnięcie ogromne!
+\- łaska od twojego Pana. To jest osiągnięcie ogromne!
 
 # 4472
 
@@ -18570,7 +18570,7 @@ I drzewa palmowe, wyniosłe, dźwigające kiście owoców ułożone jedne nad dr
 
 # 4641
 
-- to jako zaopatrzenie dla Naszych sług. I ożywiliśmy dzięki niej krainę umarłą. Takie będzie zmartwychwstanie!
+\- to jako zaopatrzenie dla Naszych sług. I ożywiliśmy dzięki niej krainę umarłą. Takie będzie zmartwychwstanie!
 
 # 4642
 
@@ -19326,7 +19326,7 @@ I że to On stworzył parę - mężczyznę i kobietę
 
 # 4830
 
-- z kropli spermy, kiedy wytryska;
+\- z kropli spermy, kiedy wytryska;
 
 # 4831
 
@@ -19762,7 +19762,7 @@ A kiedy niebo rozerwie się i stanie się szkarłatne jak czerwona skóra
 
 # 4939
 
-- Przeto które z dobrodziejstw waszego Pana uważacie za kłamstwo? -
+\- Przeto które z dobrodziejstw waszego Pana uważacie za kłamstwo? -
 
 # 4940
 
@@ -19798,7 +19798,7 @@ A tego, który się lęka stanąć przed swoim Panem, czekają dwa Ogrody
 
 # 4948
 
-- Przeto które z dobrodziejstw waszego Pana uważacie za kłamstwo? -
+\- Przeto które z dobrodziejstw waszego Pana uważacie za kłamstwo? -
 
 # 4949
 
@@ -19866,7 +19866,7 @@ Przeto które z dobrodziejstw waszego Pana uważacie za kłamstwo?
 
 # 4965
 
-- dwa Ogrody o ciemnej zieleni.
+\- dwa Ogrody o ciemnej zieleni.
 
 # 4966
 
@@ -19898,7 +19898,7 @@ Przeto które z dobrodziejstw waszego Pana uważacie za kłamstwo?
 
 # 4973
 
-- hurysy strzeżone w namiotach.
+\- hurysy strzeżone w namiotach.
 
 # 4974
 
@@ -19930,7 +19930,7 @@ Kiedy nastąpi nieuniknione wydarzenie
 
 # 4981
 
-- nie znajdzie ono żadnego zaprzeczenia -
+\- nie znajdzie ono żadnego zaprzeczenia -
 
 # 4982
 
@@ -19974,7 +19974,7 @@ W Ogrodach Szczęśliwości
 
 # 4992
 
-- mnóstwo spośród pierwszych,
+\- mnóstwo spośród pierwszych,
 
 # 4993
 
@@ -20018,7 +20018,7 @@ Podobne do perły ukrytej
 
 # 5003
 
-- w nagrodę za to, co czynili.
+\- w nagrodę za to, co czynili.
 
 # 5004
 
@@ -20074,7 +20074,7 @@ Kochającymi, jednakowego wieku
 
 # 5017
 
-- dla tych po prawicy.
+\- dla tych po prawicy.
 
 # 5018
 
@@ -20262,7 +20262,7 @@ I wy na to patrzycie
 
 # 5064
 
-- a My jesteśmy bliżej tego aniżeli wy, lecz Nas nie widzicie -
+\- a My jesteśmy bliżej tego aniżeli wy, lecz Nas nie widzicie -
 
 # 5065
 
@@ -21618,7 +21618,7 @@ I tych, którzy się boją kary swego Pana
 
 # 5403
 
-- Zaprawdę; kara ich Pana jest nieunikniona! -
+\- Zaprawdę; kara ich Pana jest nieunikniona! -
 
 # 5404
 
@@ -21646,7 +21646,7 @@ I ci, którzy się troszczą o swoje modlitwy
 
 # 5410
 
-- oni będą w Ogrodach uszanowani!
+\- oni będą w Ogrodach uszanowani!
 
 # 5411
 
@@ -21774,7 +21774,7 @@ Oni knuli wielką chytrość
 
 # 5442
 
-I powiedzieli: Nie pozostawiajcie waszych bóstw! Nie pozostawiajcie ani Wadda, ani Suwa'a, ani Jaghuta, ani Ja`uka, ani Nasra
+I powiedzieli: Nie pozostawiajcie waszych bóstw! Nie pozostawiajcie ani Wadda, ani Suwa'a, ani Jaghuta, ani Ja\`uka, ani Nasra
 
 # 5443
 
@@ -21886,7 +21886,7 @@ Mów: "Nikt mnie nie uchroni przed Bogiem i nie znajdę, poza Nim, miejsca schro
 
 # 5470
 
-- tylko obwieszczenie pochodzące od Boga i Jego posłannictwa. A wszyscy, którzy zbuntują się przeciw Bogu i Jego Posłańcowi, to, zaprawdę, dla nich będzie ogień Gehenny - oni tam będą przebywać nieśmiertelni na zawsze.
+\- tylko obwieszczenie pochodzące od Boga i Jego posłannictwa. A wszyscy, którzy zbuntują się przeciw Bogu i Jego Posłańcowi, to, zaprawdę, dla nich będzie ogień Gehenny - oni tam będą przebywać nieśmiertelni na zawsze.
 
 # 5471
 
@@ -21918,7 +21918,7 @@ Czuwaj na modlitwie nocą, niewiele wypoczywając
 
 # 5478
 
-- pół nocy lub nieco mniej
+\- pół nocy lub nieco mniej
 
 # 5479
 
@@ -21962,7 +21962,7 @@ Pożywienie, które staje w gardle, i karę bolesną
 
 # 5489
 
-- na ten Dzień, kiedy zatrzęsie się ziemia i góry, a góry staną się jak ruchome wydmy piasku.
+\- na ten Dzień, kiedy zatrzęsie się ziemia i góry, a góry staną się jak ruchome wydmy piasku.
 
 # 5490
 
@@ -22142,7 +22142,7 @@ Każda dusza jest poręką na to, co sobie zyskała
 
 # 5534
 
-- z wyjątkiem ludzi będących po prawicy.
+\- z wyjątkiem ludzi będących po prawicy.
 
 # 5535
 
@@ -22174,7 +22174,7 @@ I uznaliśmy za kłamstwo Dzień Sądu,
 
 # 5542
 
-- aż przyszła do nas pewność."
+\- aż przyszła do nas pewność."
 
 # 5543
 
@@ -22330,7 +22330,7 @@ A noga będzie się oplatać koło nogi
 
 # 5581
 
-- do twego Pana, tego Dnia, będzie on przyprowadzony.
+\- do twego Pana, tego Dnia, będzie on przyprowadzony.
 
 # 5582
 
@@ -22394,7 +22394,7 @@ Zaprawdę, ludzie sprawiedliwi będą pili z pucharu, pełnego mieszaniny z kamf
 
 # 5597
 
-- źródła, u którego pić będą sługi Boga, powodującego, iż będzie ono tryskało obficie.
+\- źródła, u którego pić będą sługi Boga, powodującego, iż będzie ono tryskało obficie.
 
 # 5598
 
@@ -22434,7 +22434,7 @@ I będą krążyć pośród nich naczynia ze srebra i puchary z kryształu;
 
 # 5607
 
-- Z kryształu i srebra dokładnie wymierzonego.
+\- Z kryształu i srebra dokładnie wymierzonego.
 
 # 5608
 
@@ -22518,7 +22518,7 @@ I na rzucające napomnienie
 
 # 5628
 
-- dla usprawiedliwienia i ostrzeżenia!
+\- dla usprawiedliwienia i ostrzeżenia!
 
 # 5629
 
@@ -23078,7 +23078,7 @@ I jest pełen bojaźni
 
 # 5768
 
-- ty się odsuwasz.
+\- ty się odsuwasz.
 
 # 5769
 
@@ -23086,7 +23086,7 @@ Ależ nie! To jest przecież napomnienie;
 
 # 5770
 
-- I kto zechce; to je sobie przypomni! -
+\- I kto zechce; to je sobie przypomni! -
 
 # 5771
 
@@ -23166,7 +23166,7 @@ I owoce, i pastwiska
 
 # 5790
 
-- to na używanie dla was i dla waszych trzód.
+\- to na używanie dla was i dla waszych trzód.
 
 # 5791
 
@@ -23186,7 +23186,7 @@ Od swojej towarzyszki i od swoich synów
 
 # 5795
 
-- tego Dnia każdy człowiek będzie zajęty tylko swoją sprawą!
+\- tego Dnia każdy człowiek będzie zajęty tylko swoją sprawą!
 
 # 5796
 
@@ -23354,7 +23354,7 @@ Tego, który ciebie stworzył i ukształtował cię harmonijnie, i wymierzył pr
 
 # 5837
 
-- ułożył cię w takiej postaci, w jakiej chciał?
+\- ułożył cię w takiej postaci, w jakiej chciał?
 
 # 5838
 
@@ -23510,7 +23510,7 @@ A domieszką jego będzie woda z Tasnim
 
 # 5876
 
-- źródła, z którego pić będą owi blisko dopuszczeni.
+\- źródła, z którego pić będą owi blisko dopuszczeni.
 
 # 5877
 
@@ -23662,7 +23662,7 @@ Zabici zostali Ludzie Rowu
 
 # 5914
 
-- a ogień ciągle podsycany
+\- a ogień ciągle podsycany
 
 # 5915
 
@@ -23670,7 +23670,7 @@ Gdy oni siedzieli wokół niego
 
 # 5916
 
-- świadkowie tego, co czyniono wiernym.
+\- świadkowie tego, co czyniono wiernym.
 
 # 5917
 
@@ -23730,7 +23730,7 @@ To zaś jest Koran godny chwały
 
 # 5931
 
-- na tablicy strzeżonej!
+\- na tablicy strzeżonej!
 
 # 5932
 
@@ -24010,7 +24010,7 @@ I z Iramem, posiadającym kolumny
 
 # 6001
 
-- czegoś podobnego nie stworzono w żadnym kraju -
+\- czegoś podobnego nie stworzono w żadnym kraju -
 
 # 6002
 
@@ -24106,7 +24106,7 @@ Nie! Przysięgam na to miasto!
 
 # 6025
 
-- a ty jesteś mieszkańcem tego miasta -
+\- a ty jesteś mieszkańcem tego miasta -
 
 # 6026
 
@@ -24266,7 +24266,7 @@ I uznaje za prawdę nagrodę najpiękniejszą
 
 # 6065
 
-- temu My ułatwimy dostęp do szczęścia.
+\- temu My ułatwimy dostęp do szczęścia.
 
 # 6066
 
@@ -24278,7 +24278,7 @@ I za kłamstwo uważa nagrodę najpiękniejszą
 
 # 6068
 
-- na tego My sprowadzimy nieszczęście.
+\- na tego My sprowadzimy nieszczęście.
 
 # 6069
 
@@ -24634,7 +24634,7 @@ I kiedy zostanie wydobyte na jaw to, co jest w piersiach
 
 # 6157
 
-- zaprawdę, tego Dnia, ich Pan będzie o nich doskonale powiadomiony!
+\- zaprawdę, tego Dnia, ich Pan będzie o nich doskonale powiadomiony!
 
 # 6158
 
@@ -24950,5 +24950,5 @@ Który podszeptuje pokusę w serca ludzi
 
 # 6236
 
-- spośród dżinów i ludzi."
+\- spośród dżinów i ludzi."
 

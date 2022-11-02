@@ -1222,7 +1222,7 @@ Kwa hakika wale walio kufuru hazitowafaa kitu kwa Mwenyezi Mungu mali zao, wala 
 
 # 304
 
-- Kama yaliyo wapata watu wa Firauni na wale walio kuwa kabla yao. Walikanusha Ishara zetu, basi Mwenyezi Mungu aliwashika kwa madhambi yao; na Mwenyezi Mungu ni Mkali wa kuadhibu.
+\- Kama yaliyo wapata watu wa Firauni na wale walio kuwa kabla yao. Walikanusha Ishara zetu, basi Mwenyezi Mungu aliwashika kwa madhambi yao; na Mwenyezi Mungu ni Mkali wa kuadhibu.
 
 # 305
 

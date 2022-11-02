@@ -826,7 +826,7 @@ Pouť konána budiž v měsících vám známých. Kdožkoli vezme na se pouť d
 
 # 205
 
-Není prohřešením, žádáte-li si milosti od Pána svého: a když sestupovati budete v průvodu od `Arafátu, rozpomeňte se na Boha poblíže místa posvátného: připomeňte si, jak uvedl na stezku pravou vás, kteříž před tím byli jste mezi bloudícími.
+Není prohřešením, žádáte-li si milosti od Pána svého: a když sestupovati budete v průvodu od \`Arafátu, rozpomeňte se na Boha poblíže místa posvátného: připomeňte si, jak uvedl na stezku pravou vás, kteříž před tím byli jste mezi bloudícími.
 
 # 206
 
@@ -1310,7 +1310,7 @@ Rci: „Buďte poslušni Boha a proroka jeho: však odvrátíte-li se — zajist
 
 # 326
 
-Bůh vyvolil nade všechny ostatní v světě Adama a Noema a rod Abrahamův a ROD `IMRÁNŮV:
+Bůh vyvolil nade všechny ostatní v světě Adama a Noema a rod Abrahamův a ROD \`IMRÁNŮV:
 
 # 327
 
@@ -1318,7 +1318,7 @@ pokolení tato vyšla jedna z druhých. A Bůh všechno slyší a ví.
 
 # 328
 
-Vzpomeň, když řekla manželka `Imránova: „Pane můj, zaslibuji ti plod lůna svého úplně k službě tvé a přijmiž jej ode mne, neboť ty zajisté vše slyšíš a víš.“
+Vzpomeň, když řekla manželka \`Imránova: „Pane můj, zaslibuji ti plod lůna svého úplně k službě tvé a přijmiž jej ode mne, neboť ty zajisté vše slyšíš a víš.“
 
 # 329
 
@@ -9010,7 +9010,7 @@ Rci: „Jáť zajisté jsem jen člověk jako vy; vnuknuto bylo mi, Bůh váš j
 
 # 2251
 
-Káf. Há. Já. `Ain. Sád.
+Káf. Há. Já. \`Ain. Sád.
 
 # 2252
 

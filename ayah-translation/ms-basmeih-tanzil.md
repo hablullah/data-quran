@@ -1366,7 +1366,7 @@ Peristiwa yang demikian ialah sebahagian dari berita-berita ghaib yang Kami wahy
 
 # 340
 
-Maryam berkata:" Wahai Tuhanku! Bagaimanakah aku akan beroleh seorang anak, padahal aku tidak pernah disentuh oleh seorang lelaki pun?" Allah berfirman; "Demikianlah keadaannya, Allah menjadikan apa yang dikehendakiNya; apabila Ia berkehendak melaksanakan sesuatu perkara, maka Ia hanyalah berfirman kepadanya: ` Jadilah engkau ', lalu menjadilah ia."
+Maryam berkata:" Wahai Tuhanku! Bagaimanakah aku akan beroleh seorang anak, padahal aku tidak pernah disentuh oleh seorang lelaki pun?" Allah berfirman; "Demikianlah keadaannya, Allah menjadikan apa yang dikehendakiNya; apabila Ia berkehendak melaksanakan sesuatu perkara, maka Ia hanyalah berfirman kepadanya: \` Jadilah engkau ', lalu menjadilah ia."
 
 # 341
 
@@ -1950,7 +1950,7 @@ Wahai Tuhan kami! Sebenarnya sesiapa yang Engkau masukkan ke dalam neraka maka s
 
 # 486
 
-Wahai Tuhan kami! Sesungguhnya kami telah mendengar seorang Penyeru (Rasul) yang menyeru kepada iman, katanya: ` Berimanlah kamu kepada Tuhan kamu ', maka kami pun beriman. Wahai Tuhan kami, ampunkanlah dosa-dosa kami, dan hapuskanlah daripada kami kesalahan-kesalahan kami, dan matikanlah kami bersama orang-orang yang berbakti;
+Wahai Tuhan kami! Sesungguhnya kami telah mendengar seorang Penyeru (Rasul) yang menyeru kepada iman, katanya: \` Berimanlah kamu kepada Tuhan kamu ', maka kami pun beriman. Wahai Tuhan kami, ampunkanlah dosa-dosa kami, dan hapuskanlah daripada kami kesalahan-kesalahan kami, dan matikanlah kami bersama orang-orang yang berbakti;
 
 # 487
 
@@ -3146,11 +3146,11 @@ Allah berfirman: "Sesungguhnya Aku akan menurunkan hidangan itu berulang-ulang k
 
 # 785
 
-Dan (ingatlah) ketika Allah berfirman: "Wahai Isa ibni Maryam! Engkaukah yang berkata kepada manusia: `Jadikanlah daku dan ibuku dua tuhan selain dari Allah? ' " Nabi `Isa menjawab: "Maha Suci Engkau (wahai Tuhan)! Tidaklah layak bagiku mengatakan sesuatu yang aku tidak berhak (mengatakannya). Jika aku ada mengatakannya, maka tentulah Engkau telah mengetahuinya. Engkau mengetahui apa yang ada pada diriku, sedang aku tidak mengetahui apa yang ada pada diriMu; kerana sesungguhnya Engkau jualah Yang Maha Mengetahui perkara-perkara yang ghaib.
+Dan (ingatlah) ketika Allah berfirman: "Wahai Isa ibni Maryam! Engkaukah yang berkata kepada manusia: \`Jadikanlah daku dan ibuku dua tuhan selain dari Allah? ' " Nabi \`Isa menjawab: "Maha Suci Engkau (wahai Tuhan)! Tidaklah layak bagiku mengatakan sesuatu yang aku tidak berhak (mengatakannya). Jika aku ada mengatakannya, maka tentulah Engkau telah mengetahuinya. Engkau mengetahui apa yang ada pada diriku, sedang aku tidak mengetahui apa yang ada pada diriMu; kerana sesungguhnya Engkau jualah Yang Maha Mengetahui perkara-perkara yang ghaib.
 
 # 786
 
-"Aku tidak mengatakan kepada mereka melainkan apa yang Engkau perintahkan kepadaku mengatakannya, iaitu: `Sembahlah kamu akan Allah, Tuhanku dan Tuhan kamu ' dan adalah aku menjadi pengawas terhadap mereka (dengan membenarkan yang benar dan menyalahkan yang salah) selama aku berada dalam kalangan mereka; kemudian apabila Engkau sempurnakan tempohku, menjadilah Engkau sendiri yang mengawasi keadaan mereka, dan Engkau jualah yang menjadi Saksi atas tiap-tiap sesuatu.
+"Aku tidak mengatakan kepada mereka melainkan apa yang Engkau perintahkan kepadaku mengatakannya, iaitu: \`Sembahlah kamu akan Allah, Tuhanku dan Tuhan kamu ' dan adalah aku menjadi pengawas terhadap mereka (dengan membenarkan yang benar dan menyalahkan yang salah) selama aku berada dalam kalangan mereka; kemudian apabila Engkau sempurnakan tempohku, menjadilah Engkau sendiri yang mengawasi keadaan mereka, dan Engkau jualah yang menjadi Saksi atas tiap-tiap sesuatu.
 
 # 787
 
@@ -3218,7 +3218,7 @@ Dan bagi Allah jualah apa yang ada pada waktu malam dan siang; dan Dia lah Yang 
 
 # 803
 
-Katakanlah (wahai Muhammad): "Patutkah aku mengambil (memilih) pelindung yang lain dari Allah yang menciptakan langit dan bumi, dan Ia pula yang memberi makan dan bukan Ia yang diberi makan?" Katakanlah: "Sesungguhnya aku diperintahkan supaya menjadi orang yang pertama sekali menyerah diri kepada Allah (Islam), dan (aku diperintahkan dengan firmanNya): `Jangan sekali-kali engkau menjadi dari golongan orang-orang musyrik itu. ' "
+Katakanlah (wahai Muhammad): "Patutkah aku mengambil (memilih) pelindung yang lain dari Allah yang menciptakan langit dan bumi, dan Ia pula yang memberi makan dan bukan Ia yang diberi makan?" Katakanlah: "Sesungguhnya aku diperintahkan supaya menjadi orang yang pertama sekali menyerah diri kepada Allah (Islam), dan (aku diperintahkan dengan firmanNya): \`Jangan sekali-kali engkau menjadi dari golongan orang-orang musyrik itu. ' "
 
 # 804
 
@@ -3474,7 +3474,7 @@ Kemudian apabila dilihatnya bulan terbit (menyinarkan cahayanya), dia berkata: "
 
 # 867
 
-Kemudian apabila dia melihat matahari sedang terbit (menyinarkan cahayanya), berkatalah dia: "Inikah Tuhanku? Ini lebih besar". Setelah matahari terbenam, dia berkata pula: ` Wahai kaumku, sesungguhnya aku berlepas diri (bersih) dari apa yang kamu sekutukan (Allah dengannya).
+Kemudian apabila dia melihat matahari sedang terbit (menyinarkan cahayanya), berkatalah dia: "Inikah Tuhanku? Ini lebih besar". Setelah matahari terbenam, dia berkata pula: \` Wahai kaumku, sesungguhnya aku berlepas diri (bersih) dari apa yang kamu sekutukan (Allah dengannya).
 
 # 868
 
@@ -4018,7 +4018,7 @@ Dan orang-orang yang berada di atas tembok Al-A'raaf menyeru beberapa orang (Ket
 
 # 1003
 
-(Mereka bertanya pula kepada Ketua-ketua kaum kafir itu dengan berkata): "Itukah orang-orang yang kamu ejek-ejek dahulu dan kamu bersumpah bahawa mereka tidak akan beroleh rahmat dari Allah? (Sekarang dikatakan kepada mereka): ` Masuklah kamu ke dalam Syurga, tidak ada kebimbangan (dari berlakunya sesuatu yang tidak baik) terhadap kamu, dan kamu pula tidak akan berdukacita. ' "
+(Mereka bertanya pula kepada Ketua-ketua kaum kafir itu dengan berkata): "Itukah orang-orang yang kamu ejek-ejek dahulu dan kamu bersumpah bahawa mereka tidak akan beroleh rahmat dari Allah? (Sekarang dikatakan kepada mereka): \` Masuklah kamu ke dalam Syurga, tidak ada kebimbangan (dari berlakunya sesuatu yang tidak baik) terhadap kamu, dan kamu pula tidak akan berdukacita. ' "
 
 # 1004
 
@@ -4466,7 +4466,7 @@ Dan kami membahagikan mereka (Bani Israil) menjadi dua belas suku, sebagai golon
 
 # 1115
 
-Dan (ingatlah) ketika dikatakan kepada mereka: "Tinggalah dalam bandar ini dan makanlah dari makanannya apa sahaja yang kamu sukai, dan berdoalah dengan berkata: ` (Wahai Tuhan kami), gugurkanlah (dosa kami) ', dan masuklah melalui pintu (bandar) itu dengan tunduk merendah diri, supaya Kami mengampunkan dosa-dosa kamu. Kami akan menambah (balasan) bagi orang-orang yang berbuat kebaikan".
+Dan (ingatlah) ketika dikatakan kepada mereka: "Tinggalah dalam bandar ini dan makanlah dari makanannya apa sahaja yang kamu sukai, dan berdoalah dengan berkata: \` (Wahai Tuhan kami), gugurkanlah (dosa kami) ', dan masuklah melalui pintu (bandar) itu dengan tunduk merendah diri, supaya Kami mengampunkan dosa-dosa kamu. Kami akan menambah (balasan) bagi orang-orang yang berbuat kebaikan".
 
 # 1116
 
@@ -9774,7 +9774,7 @@ Mereka menjawab: "Kami tidak sekali-kali akan meninggalkan penyembahan patung in
 
 # 2442
 
-Nabi Harun menjawab: "Wahai anak ibuku! Janganlah engkau meragut janggutku dan janganlah menarik (rambut) kepalaku. Sesungguhnya aku takut bahawa engkau akan berkata kepadaku: ` Engkau telah memecah-belahkan kaum Bani lsrail sesama sendiri, dan engkau tidak berhati-hati mengambil berat pesananku! ' "
+Nabi Harun menjawab: "Wahai anak ibuku! Janganlah engkau meragut janggutku dan janganlah menarik (rambut) kepalaku. Sesungguhnya aku takut bahawa engkau akan berkata kepadaku: \` Engkau telah memecah-belahkan kaum Bani lsrail sesama sendiri, dan engkau tidak berhati-hati mengambil berat pesananku! ' "
 
 # 2443
 
@@ -9786,7 +9786,7 @@ Ia menjawab:" Aku mengetahui dan menyedari apa yang tidak diketahui oleh mereka,
 
 # 2445
 
-Nabi Musa berkata kepada Samiri: "Jika demikian, pergilah, (engkau adalah diusir dan dipulaukan), kerana sesungguhnya telah ditetapkan bagimu akan berkata dalam kehidupan dunia ini: ` Jangan sentuh daku ', dan sesungguhnya telah dijanjikan lagi untukmu satu balasan akhirat yang engkau tidak sekali-kali akan terlepas daripadanya. Dan (sekarang) lihatlah kepada tuhanmu yang engkau sekian lama menyembahnya, sesungguhnya kami akan membakarnya kemudian kami akan menghancur dan menaburkan serbuknya di laut sehingga hilang lenyap.
+Nabi Musa berkata kepada Samiri: "Jika demikian, pergilah, (engkau adalah diusir dan dipulaukan), kerana sesungguhnya telah ditetapkan bagimu akan berkata dalam kehidupan dunia ini: \` Jangan sentuh daku ', dan sesungguhnya telah dijanjikan lagi untukmu satu balasan akhirat yang engkau tidak sekali-kali akan terlepas daripadanya. Dan (sekarang) lihatlah kepada tuhanmu yang engkau sekian lama menyembahnya, sesungguhnya kami akan membakarnya kemudian kami akan menghancur dan menaburkan serbuknya di laut sehingga hilang lenyap.
 
 # 2446
 
@@ -10810,11 +10810,11 @@ Lalu Kami wahyukan kepadanya: "Buatlah bahtera dengan pengawasan serta kawalan K
 
 # 2701
 
-"Kemudian apabila engkau dan orang-orang yang bersamamu telah berada di atas bahtera itu maka hendaklah engkau (bersyukur kepada Allah dengan) berkata: ` Segala puji tertentu bagi Allah yang telah menyelamatkan kami daripada orang-orang yang zalim '.
+"Kemudian apabila engkau dan orang-orang yang bersamamu telah berada di atas bahtera itu maka hendaklah engkau (bersyukur kepada Allah dengan) berkata: \` Segala puji tertentu bagi Allah yang telah menyelamatkan kami daripada orang-orang yang zalim '.
 
 # 2702
 
-"Dan berdoalah dengan berkata: ` Wahai Tuhanku, turunkanlah daku di tempat turun yang berkat, dan Engkau adalah sebaik-baik Pemberi tempat ' "
+"Dan berdoalah dengan berkata: \` Wahai Tuhanku, turunkanlah daku di tempat turun yang berkat, dan Engkau adalah sebaik-baik Pemberi tempat ' "
 
 # 2703
 
@@ -11134,7 +11134,7 @@ Mereka menjawab: "Wahai Tuhan kami, kami telah dikalahkan oleh sebab-sebab kecel
 
 # 2782
 
-"Sesungguhnya ada sepuak diri hamba-hambaKu (di dunia dahulu) memohon kepadaKu dengan berkata: ` Wahai Tuhan kami, kami telah beriman; oleh itu ampunkanlah dosa kami serta berilah rahmat kepada kami, dan sememangnya Engkaulah jua sebaik-baik Pemberi rahmat '.
+"Sesungguhnya ada sepuak diri hamba-hambaKu (di dunia dahulu) memohon kepadaKu dengan berkata: \` Wahai Tuhan kami, kami telah beriman; oleh itu ampunkanlah dosa kami serta berilah rahmat kepada kami, dan sememangnya Engkaulah jua sebaik-baik Pemberi rahmat '.
 
 # 2783
 
@@ -12102,11 +12102,11 @@ Nabi Ibrahim berkata: "Sudahkah kamu berfikir sehingga nampak gunanya benda-bend
 
 # 3024
 
-"Serta dikatakan kepada mereka: ` Mana dia benda-benda yang kamu sembah dahulu -
+"Serta dikatakan kepada mereka: \` Mana dia benda-benda yang kamu sembah dahulu -
 
 # 3025
 
-` Selain dari Allah? Dapatkah mereka menolong kamu atau menolong dirinya sendiri ? '
+\` Selain dari Allah? Dapatkah mereka menolong kamu atau menolong dirinya sendiri ? '
 
 # 3026
 
@@ -12122,27 +12122,27 @@ Nabi Ibrahim berkata: "Sudahkah kamu berfikir sehingga nampak gunanya benda-bend
 
 # 3029
 
-" ` Demi Allah! Sesungguhnya kami (semasa di dunia dahulu) adalah di dalam kesesatan yang jelas nyata,
+" \` Demi Allah! Sesungguhnya kami (semasa di dunia dahulu) adalah di dalam kesesatan yang jelas nyata,
 
 # 3030
 
-" ` Kerana kami menyamakan kamu dengan Tuhan sekalian alam;
+" \` Kerana kami menyamakan kamu dengan Tuhan sekalian alam;
 
 # 3031
 
-" ` Dan tiadalah yang menyesatkan kami melainkan golongan yang berdosa.
+" \` Dan tiadalah yang menyesatkan kami melainkan golongan yang berdosa.
 
 # 3032
 
-" ` Dengan sebab itu, tiadalah kami beroleh sesiapapun yang memberi pertolongan,
+" \` Dengan sebab itu, tiadalah kami beroleh sesiapapun yang memberi pertolongan,
 
 # 3033
 
-" ` Dan tiadalah juga sahabat karib yang bertimbang rasa.
+" \` Dan tiadalah juga sahabat karib yang bertimbang rasa.
 
 # 3034
 
-" ` Maka alangkah baiknya kalau kami dapat ke dunia sekali lagi, supaya kami menjadi dari orang-orang yang beriman. ' "
+" \` Maka alangkah baiknya kalau kami dapat ke dunia sekali lagi, supaya kami menjadi dari orang-orang yang beriman. ' "
 
 # 3035
 
@@ -12762,11 +12762,11 @@ Nabi Sulaiman berkata: Kami akan fikirkan dengan sehalus-halusnya, adakah benar 
 
 # 3189
 
-"Sesungguhnya surat itu dari Nabi Sulaiman, dan kandungannya (seperti berikut): `
+"Sesungguhnya surat itu dari Nabi Sulaiman, dan kandungannya (seperti berikut): \`
 
 # 3190
 
-" `Bahawa janganlah kamu meninggi diri terhadapku, dan datanglah kamu kepadaku dengan menyerah diri (beriman dan mematuhi ajaran ugama Allah). ' "
+" \`Bahawa janganlah kamu meninggi diri terhadapku, dan datanglah kamu kepadaku dengan menyerah diri (beriman dan mematuhi ajaran ugama Allah). ' "
 
 # 3191
 
@@ -12838,7 +12838,7 @@ Dan di bandar (tempat tinggal kaum Thamud) itu, ada sembilan orang yang semata-m
 
 # 3208
 
-Mereka berkata (sesama sendiri): "Hendaklah kamu masing-masing bersumpah dengan nama Allah, bahawa sesungguhnya kita akan membunuh Soleh dan pengikut-pengikutnya secara mengejut pada waktu malam, kemudian kita akan berkata kepada warisnya: ` Kami tidak hadir (di tempat) pembunuhan (Soleh apalagi membunuhnya atau membunuh) pengikut-pengikutnya, dan sesungguhnya kami adalah berkata benar '. "
+Mereka berkata (sesama sendiri): "Hendaklah kamu masing-masing bersumpah dengan nama Allah, bahawa sesungguhnya kita akan membunuh Soleh dan pengikut-pengikutnya secara mengejut pada waktu malam, kemudian kita akan berkata kepada warisnya: \` Kami tidak hadir (di tempat) pembunuhan (Soleh apalagi membunuhnya atau membunuh) pengikut-pengikutnya, dan sesungguhnya kami adalah berkata benar '. "
 
 # 3209
 
@@ -14070,7 +14070,7 @@ Dan (sungguh ngeri) sekiranya engkau melihat ketika orang-orang yang berdosa itu
 
 # 3516
 
-Dan (bagi menolak rayuan itu Allah Taala berfirman): "Kalaulah Kami telah tetapkan persediaan (memberikan hidayah petunjuk untuk beriman dan beramal soleh kepada tiap-tiap seorang dengan ketiadaan usaha dari masing-masing), nescaya Kami berikan kepada tiap-tiap seorang akan hidayah petunjuknya (sebelum masing-masing meninggal dunia, supaya tidak terkena azab di akhirat); tetapi telah tetap hukuman seksa dariKu: ` Demi sesungguhnya! Aku akan memenuhi neraka Jahannam dengan semua jin dan manusia (yang pada masa hidupnya tidak berusaha untuk beriman dan beramal soleh)".
+Dan (bagi menolak rayuan itu Allah Taala berfirman): "Kalaulah Kami telah tetapkan persediaan (memberikan hidayah petunjuk untuk beriman dan beramal soleh kepada tiap-tiap seorang dengan ketiadaan usaha dari masing-masing), nescaya Kami berikan kepada tiap-tiap seorang akan hidayah petunjuknya (sebelum masing-masing meninggal dunia, supaya tidak terkena azab di akhirat); tetapi telah tetap hukuman seksa dariKu: \` Demi sesungguhnya! Aku akan memenuhi neraka Jahannam dengan semua jin dan manusia (yang pada masa hidupnya tidak berusaha untuk beriman dan beramal soleh)".
 
 # 3517
 
@@ -14458,7 +14458,7 @@ Dan orang-orang yang diberi ilmu pengetahuan, mengetahui (dengan yakin, bahawa k
 
 # 3613
 
-Dan orang-orang yang kafir pula berkata (sesama sendiri secara mengejek-ejek): "Mahukah, kami tunjukkan kepada kamu seorang lelaki yang memberitakan kepada kamu: ` (Bahawa apabila kamu dihancurkan sehancur-hanurnya sesudah mati), sesungguhnya kamu akan dihidupkan semula dalam bentuk kejadian yang baru? '
+Dan orang-orang yang kafir pula berkata (sesama sendiri secara mengejek-ejek): "Mahukah, kami tunjukkan kepada kamu seorang lelaki yang memberitakan kepada kamu: \` (Bahawa apabila kamu dihancurkan sehancur-hanurnya sesudah mati), sesungguhnya kamu akan dihidupkan semula dalam bentuk kejadian yang baru? '
 
 # 3614
 
@@ -14882,7 +14882,7 @@ Dan ceritakanlah kepada mereka satu keadaan yang ajaib mengenai kisah penduduk s
 
 # 3719
 
-Ketika Kami mengutus kepada mereka dua orang Rasul lalu mereka mendustakannya; kemudian Kami kuatkan (kedua Rasul itu) dengan Rasul yang ketiga, lalu Rasul-rasul itu berkata: ` Sesungguhnya kami ini adalah diutuskan kepada kamu '.
+Ketika Kami mengutus kepada mereka dua orang Rasul lalu mereka mendustakannya; kemudian Kami kuatkan (kedua Rasul itu) dengan Rasul yang ketiga, lalu Rasul-rasul itu berkata: \` Sesungguhnya kami ini adalah diutuskan kepada kamu '.
 
 # 3720
 
@@ -16462,15 +16462,15 @@ Katakanlah (wahai Muhammad): "Wahai hamba-hambaKu yang telah melampaui batas ter
 
 # 4114
 
-"(Diperintahkan demikian) supaya jangan seseorang (menyesal dengan) berkata: ` sungguh besar sesal dan kecewaku kerana aku telah mencuaikan kewajipan-kewajipanku terhadap Allah serta aku telah menjadi dari orang-orang yang sungguh memperolok-olokkan (ugama Allah dan penganut-penganutnya)! -
+"(Diperintahkan demikian) supaya jangan seseorang (menyesal dengan) berkata: \` sungguh besar sesal dan kecewaku kerana aku telah mencuaikan kewajipan-kewajipanku terhadap Allah serta aku telah menjadi dari orang-orang yang sungguh memperolok-olokkan (ugama Allah dan penganut-penganutnya)! -
 
 # 4115
 
-"Atau berkata: ` Kalaulah Allah memberi hidayah petunjuk kepadaku, tentulah aku telah menjadi dari orang-orang yang bertaqwa ! ' -
+"Atau berkata: \` Kalaulah Allah memberi hidayah petunjuk kepadaku, tentulah aku telah menjadi dari orang-orang yang bertaqwa ! ' -
 
 # 4116
 
-"Atau berkata semasa ia melihat azab: ` Kalaulah aku dapat kembali ke dunia, nescaya menjadilah aku dari orang-orang yang mengerjakan kebaikan!"
+"Atau berkata semasa ia melihat azab: \` Kalaulah aku dapat kembali ke dunia, nescaya menjadilah aku dari orang-orang yang mengerjakan kebaikan!"
 
 # 4117
 
@@ -16650,7 +16650,7 @@ Dan (setelah mendengar ancaman itu) Nabi Musa berkata: "Sesungguhnya aku berlind
 
 # 4161
 
-Dan (pada saat itu) berkatalah pula seorang lelaki yang beriman dari orang-orang Firaun yang menyembunyikan imannya: "Patutkah kamu membunuh seorang lelaki kerana ia menegaskan: `Tuhanku ialah Allah? ' - sedang ia telah datang kepada kamu membawa keterangan-keterangan dari Tuhan kamu? Kalau ia seorang yang berdusta maka dia lah yang akan menanggung dosa dustanya itu, dan kalau ia seorang yang benar nescaya kamu akan ditimpa oleh sebahagian dari (azab) yang dijanjikannya kepada kamu. Sesungguhnya Allah tidak memberi hidayah petunjuk kepada orang yang melampaui batas, lagi pendusta.
+Dan (pada saat itu) berkatalah pula seorang lelaki yang beriman dari orang-orang Firaun yang menyembunyikan imannya: "Patutkah kamu membunuh seorang lelaki kerana ia menegaskan: \`Tuhanku ialah Allah? ' - sedang ia telah datang kepada kamu membawa keterangan-keterangan dari Tuhan kamu? Kalau ia seorang yang berdusta maka dia lah yang akan menanggung dosa dustanya itu, dan kalau ia seorang yang benar nescaya kamu akan ditimpa oleh sebahagian dari (azab) yang dijanjikannya kepada kamu. Sesungguhnya Allah tidak memberi hidayah petunjuk kepada orang yang melampaui batas, lagi pendusta.
 
 # 4162
 
@@ -17662,7 +17662,7 @@ Dan (Dia lah Tuhan yang Mengetahui rayuan Nabi Muhammad) yang berkata: Wahai Tuh
 
 # 4414
 
-(Tuhan menjawab rayuannya dengan berfirman): "Jika demikian, maka janganlah engkau (wahai Muhammad) hiraukan mereka, dan katakanlah: ` Selamat tinggalah! ' Kemudian mereka akan mengetahui kelak (akibat keingkarannya)! "
+(Tuhan menjawab rayuannya dengan berfirman): "Jika demikian, maka janganlah engkau (wahai Muhammad) hiraukan mereka, dan katakanlah: \` Selamat tinggalah! ' Kemudian mereka akan mengetahui kelak (akibat keingkarannya)! "
 
 # 4415
 
@@ -18026,7 +18026,7 @@ Adapun orang-orang yang kafir, (maka mereka akan ditempelak dengan dikatakan kep
 
 # 4505
 
-"Dan apabila dikatakan (kepada kamu): ` Sesungguhnya janji Allah (membalas amal kamu) adalah benar, dan hari kiamat tidak ada sebarang syak tentang kedatangannya ', kamu berkata: ` Kami tidak mengetahui apa dia hari kiamat itu; kami hanya mengira (kemungkinannya) sebagai sangkaan jua, dan kami tidak sekali-kali meyakininya '."
+"Dan apabila dikatakan (kepada kamu): \` Sesungguhnya janji Allah (membalas amal kamu) adalah benar, dan hari kiamat tidak ada sebarang syak tentang kedatangannya ', kamu berkata: \` Kami tidak mengetahui apa dia hari kiamat itu; kami hanya mengira (kemungkinannya) sebagai sangkaan jua, dan kami tidak sekali-kali meyakininya '."
 
 # 4506
 
@@ -18510,7 +18510,7 @@ Wahai umat manusia! Sesungguhnya Kami telah menciptakan kamu dari lelaki dan per
 
 # 4626
 
-Orang-orang " A'raab" berkata: " Kami telah beriman". Katakanlah (wahai Muhammad): "Kamu belum beriman, (janganlah berkata demikian), tetapi sementara iman belum lagi meresap masuk ke dalam hati kamu berkatalah sahaja: ` kami telah Islam '. Dan (ingatlah), jika kamu taat kepada Allah RasulNya (zahir dan batin), Allah tidak akan mengurangkan sedikitpun dari pahala amal-amal kamu, kerana sesungguhnya Allah Maha Pengampun, lagi Maha Mengasihani".
+Orang-orang " A'raab" berkata: " Kami telah beriman". Katakanlah (wahai Muhammad): "Kamu belum beriman, (janganlah berkata demikian), tetapi sementara iman belum lagi meresap masuk ke dalam hati kamu berkatalah sahaja: \` kami telah Islam '. Dan (ingatlah), jika kamu taat kepada Allah RasulNya (zahir dan batin), Allah tidak akan mengurangkan sedikitpun dari pahala amal-amal kamu, kerana sesungguhnya Allah Maha Pengampun, lagi Maha Mengasihani".
 
 # 4627
 
@@ -18518,7 +18518,7 @@ Sesungguhnya orang-orang yang sebenar-benarnya beriman hanyalah orang-orang yang
 
 # 4628
 
-Katakanlah (kepada orang-orang "A'raab" itu wahai Muhammad): "Patutkah kamu hendak memberitahu kepada Allah tentang ugama kamu (dengan berkata: ` kami telah beriman ')? Padahal Allah mengetahui segala yang ada di langit dan yang ada di bumi, dan Allah Maha Mengetahui akan tiap-tiap sesuatu".
+Katakanlah (kepada orang-orang "A'raab" itu wahai Muhammad): "Patutkah kamu hendak memberitahu kepada Allah tentang ugama kamu (dengan berkata: \` kami telah beriman ')? Padahal Allah mengetahui segala yang ada di langit dan yang ada di bumi, dan Allah Maha Mengetahui akan tiap-tiap sesuatu".
 
 # 4629
 
@@ -21374,7 +21374,7 @@ Pada hari itu, kamu semua dihadapkan (untuk hitungan amal); tidak ada sesuatu pu
 
 # 5342
 
-Maka sesiapa yang diberikan menerima Kitab amalnya dengan tangan kanannya, maka ia akan berkata (dengan sukacitanya kepada sesiapa yang ada di sisinya): ` Nah! Bacalah kamu Kitab amalku ini!
+Maka sesiapa yang diberikan menerima Kitab amalnya dengan tangan kanannya, maka ia akan berkata (dengan sukacitanya kepada sesiapa yang ada di sisinya): \` Nah! Bacalah kamu Kitab amalku ini!
 
 # 5343
 
@@ -21722,7 +21722,7 @@ dia pun (menyeru mereka dengan) berkata: "Wahai kaumku! Sesungguhnya aku ini diu
 
 # 5429
 
-"Sehingga aku berkata (kepada mereka): `Pohonkanlah ampun kepada Tuhan kamu, sesungguhnya adalah Ia Maha Pengampun.
+"Sehingga aku berkata (kepada mereka): \`Pohonkanlah ampun kepada Tuhan kamu, sesungguhnya adalah Ia Maha Pengampun.
 
 # 5430
 
@@ -21774,7 +21774,7 @@ Nabi Nuh (merayu lagi dengan) berkata: "Wahai Tuhanku! Sesungguhnya, mereka tela
 
 # 5442
 
-"Dan (ketua-ketua) mereka (menghasut dengan) berkata: `Jangan kamu meninggalkan (penyembahan) tuhan-tuhan kamu, terutama (penyembahan) Wadd, dan Suwaa', dan Yaghuth, dan Ya'uuq, serta Nasr.
+"Dan (ketua-ketua) mereka (menghasut dengan) berkata: \`Jangan kamu meninggalkan (penyembahan) tuhan-tuhan kamu, terutama (penyembahan) Wadd, dan Suwaa', dan Yaghuth, dan Ya'uuq, serta Nasr.
 
 # 5443
 
@@ -21798,63 +21798,63 @@ Dan Nabi Nuh (merayu lagi dengan) berkata: "Wahai Tuhanku! Janganlah Engkau biar
 
 # 5448
 
-Katakanlah (wahai Muhammad): "Telah diwahyukan kepadaku, bahawa sesungguhnya: satu rombongan jin telah mendengar (Al-Quran yang aku bacakan), lalu mereka (menyampaikan hal itu kepada kaumnya dengan) berkata: `Sesungguhnya kami telah mendengar Al-Quran (sebuah Kitab Suci) yang susunannya dan kandungannya sungguh menakjubkan!
+Katakanlah (wahai Muhammad): "Telah diwahyukan kepadaku, bahawa sesungguhnya: satu rombongan jin telah mendengar (Al-Quran yang aku bacakan), lalu mereka (menyampaikan hal itu kepada kaumnya dengan) berkata: \`Sesungguhnya kami telah mendengar Al-Quran (sebuah Kitab Suci) yang susunannya dan kandungannya sungguh menakjubkan!
 
 # 5449
 
-`Kitab yang memberi panduan ke jalan yang betul, lalu kami beriman kepadanya, dan kami tidak sekali-kali akan mempersekutukan sesuatu makhluk dengan Tuhan kami.
+\`Kitab yang memberi panduan ke jalan yang betul, lalu kami beriman kepadanya, dan kami tidak sekali-kali akan mempersekutukan sesuatu makhluk dengan Tuhan kami.
 
 # 5450
 
-`Dan (ketahuilah wahai kaum kami!) Bahawa sesungguhnya: tertinggilah kebesaran dan keagungan Tuhan kita daripada beristeri atau beranak.
+\`Dan (ketahuilah wahai kaum kami!) Bahawa sesungguhnya: tertinggilah kebesaran dan keagungan Tuhan kita daripada beristeri atau beranak.
 
 # 5451
 
-`Dan (dengan ajaran Al-Quran nyatalah) bahawa sesungguhnya: (ketua) yang kurang akal pertimbangannya dari kalangan kita telah mengatakan terhadap Allah kata-kata yang melampaui kebenaran;
+\`Dan (dengan ajaran Al-Quran nyatalah) bahawa sesungguhnya: (ketua) yang kurang akal pertimbangannya dari kalangan kita telah mengatakan terhadap Allah kata-kata yang melampaui kebenaran;
 
 # 5452
 
-`Dan bahawa sesungguhnya (nyatalah kesalahan) kita menyangka bahawa manusia dan jin tidak sekali-kali akan berani mengatakan sesuatu yang dusta terhadap Allah.
+\`Dan bahawa sesungguhnya (nyatalah kesalahan) kita menyangka bahawa manusia dan jin tidak sekali-kali akan berani mengatakan sesuatu yang dusta terhadap Allah.
 
 # 5453
 
-`Dan bahawa sesungguhnya adalah (amat salah perbuatan) beberapa orang dari manusia, menjaga dan melindungi dirinya dengan meminta pertolongan kepada ketua-ketua golongan jin, kerana dengan permintaan itu mereka menjadikan golongan jin bertambah sombong dan jahat.
+\`Dan bahawa sesungguhnya adalah (amat salah perbuatan) beberapa orang dari manusia, menjaga dan melindungi dirinya dengan meminta pertolongan kepada ketua-ketua golongan jin, kerana dengan permintaan itu mereka menjadikan golongan jin bertambah sombong dan jahat.
 
 # 5454
 
-`Dan bahawa sesungguhnya (tidaklah benar) manusia menyangka sebagaimana yang kamu sangka, bahawa Allah tidak sekali-kali mengutuskan sebarang Rasul (atau tidak akan membangkitkan manusia pada hari kiamat).
+\`Dan bahawa sesungguhnya (tidaklah benar) manusia menyangka sebagaimana yang kamu sangka, bahawa Allah tidak sekali-kali mengutuskan sebarang Rasul (atau tidak akan membangkitkan manusia pada hari kiamat).
 
 # 5455
 
-`Dan bahawa sesungguhnya kami telah berusaha mencari berita langit, lalu kami dapati langit itu penuh dengan pengawal-pengawal yang sangat kuat kawalannya, dan (dengan rejaman-rejaman) api yang menyala.
+\`Dan bahawa sesungguhnya kami telah berusaha mencari berita langit, lalu kami dapati langit itu penuh dengan pengawal-pengawal yang sangat kuat kawalannya, dan (dengan rejaman-rejaman) api yang menyala.
 
 # 5456
 
-`Padahal sesungguhnya kami dahulu biasa menduduki tempat-tempat (perhentian) di langit untuk mendengar (percakapan penduduknya); maka sekarang sesiapa yang cuba mendengar, akan mendapati api yang menyala yang menunggu merejamnya.
+\`Padahal sesungguhnya kami dahulu biasa menduduki tempat-tempat (perhentian) di langit untuk mendengar (percakapan penduduknya); maka sekarang sesiapa yang cuba mendengar, akan mendapati api yang menyala yang menunggu merejamnya.
 
 # 5457
 
-`Dan bahawa sesungguhnya kami tidak mengetahui adakah (dengan adanya kawalan langit yang demikian) hendak menimpakan bala bencana kepada penduduk bumi, atau pun Tuhan mereka hendak melimpahkan kebaikan kepada mereka?
+\`Dan bahawa sesungguhnya kami tidak mengetahui adakah (dengan adanya kawalan langit yang demikian) hendak menimpakan bala bencana kepada penduduk bumi, atau pun Tuhan mereka hendak melimpahkan kebaikan kepada mereka?
 
 # 5458
 
-`Dan bahawa sesungguhnya (memang maklum) ada di antara kita golongan yang baik keadaannya, dan ada di antara kita yang lain dari itu; kita masing-masing adalah menurut jalan dan cara yang berlainan.
+\`Dan bahawa sesungguhnya (memang maklum) ada di antara kita golongan yang baik keadaannya, dan ada di antara kita yang lain dari itu; kita masing-masing adalah menurut jalan dan cara yang berlainan.
 
 # 5459
 
-`Dan bahawa sesungguhnya kita (sekarang) mengetahui, bahawa kita tidak sekali-kali akan dapat melepaskan diri dari balasan Allah (walau di mana sahaja kita berada) di bumi, dan kita juga tidak sekali-kali akan dapat melarikan diri dari balasanNya (walau ke langit sekalipun).
+\`Dan bahawa sesungguhnya kita (sekarang) mengetahui, bahawa kita tidak sekali-kali akan dapat melepaskan diri dari balasan Allah (walau di mana sahaja kita berada) di bumi, dan kita juga tidak sekali-kali akan dapat melarikan diri dari balasanNya (walau ke langit sekalipun).
 
 # 5460
 
-`Dan bahawa sesungguhnya kami, ketika mendengar petunjuk (Al-Quran), kami beriman kepadanya (dengan tidak bertangguh lagi); kerana sesiapa yang beriman kepada Tuhannya, maka tidaklah ia akan merasa bimbang menanggung kerugian (mengenai amalnya yang baik), dan juga tidak akan ditimpakan sebarang kesusahan.
+\`Dan bahawa sesungguhnya kami, ketika mendengar petunjuk (Al-Quran), kami beriman kepadanya (dengan tidak bertangguh lagi); kerana sesiapa yang beriman kepada Tuhannya, maka tidaklah ia akan merasa bimbang menanggung kerugian (mengenai amalnya yang baik), dan juga tidak akan ditimpakan sebarang kesusahan.
 
 # 5461
 
-`Dan bahawa sesungguhnya (dengan datangnya Al-Quran, nyatalah) ada di antara kita golongan yang berugama Islam, dan ada pula golongan yang (kufur derhaka dengan) menyeleweng dari jalan yang benar; maka sesiapa yang menurut Islam (dengan beriman dan taat), maka merekalah golongan yang bersungguh-sungguh mencari dan menurut jalan yang benar,
+\`Dan bahawa sesungguhnya (dengan datangnya Al-Quran, nyatalah) ada di antara kita golongan yang berugama Islam, dan ada pula golongan yang (kufur derhaka dengan) menyeleweng dari jalan yang benar; maka sesiapa yang menurut Islam (dengan beriman dan taat), maka merekalah golongan yang bersungguh-sungguh mencari dan menurut jalan yang benar,
 
 # 5462
 
-` Adapun orang-orang yang menyeleweng dari jalan yang benar, maka mereka menjadi bahan bakaran bagi neraka Jahannam. '
+\` Adapun orang-orang yang menyeleweng dari jalan yang benar, maka mereka menjadi bahan bakaran bagi neraka Jahannam. '
 
 # 5463
 
@@ -22926,11 +22926,11 @@ Ketika ia diseru oleh Tuhannya di "Wadi Tuwa" yang suci; -
 
 # 5730
 
-"Serta katakanlah kepadanya: `Adakah engkau suka hendak mensucikan dirimu (dari kekufuran)?
+"Serta katakanlah kepadanya: \`Adakah engkau suka hendak mensucikan dirimu (dari kekufuran)?
 
 # 5731
 
-`Dan mahukah, aku tunjuk kepadamu jalan mengenal Tuhanmu, supaya engkau merasa takut (melanggar perintahNya)? ' "
+\`Dan mahukah, aku tunjuk kepadamu jalan mengenal Tuhanmu, supaya engkau merasa takut (melanggar perintahNya)? ' "
 
 # 5732
 

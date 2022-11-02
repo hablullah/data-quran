@@ -1362,7 +1362,7 @@ Hani melekler, ya Meryem, gerçekten de Allah seni, kendisinin bir kelimesiyle m
 
 # 339
 
-- Beşikteyken de, olgunluk çağındayken de insanlarla konuşacaktır ve o, temiz kişilerdendir demişti de.
+\- Beşikteyken de, olgunluk çağındayken de insanlarla konuşacaktır ve o, temiz kişilerdendir demişti de.
 
 # 340
 
@@ -10602,7 +10602,7 @@ Bu da, Şeytan'ın katmak istediği şeyi, gönüllerinde hastalık olanlarla y�
 
 # 2649
 
-- Bir de bu suretle kendilerine bilgi verilenler, bilirler ki Kur'an, Rabbinden gelen bir gerçektir ve artık inanırlar ona, gönülleri, onunla tevazuya erişir ve şüphe yok ki Allah, inananları elbette doğru yola sevk eder.
+\- Bir de bu suretle kendilerine bilgi verilenler, bilirler ki Kur'an, Rabbinden gelen bir gerçektir ve artık inanırlar ona, gönülleri, onunla tevazuya erişir ve şüphe yok ki Allah, inananları elbette doğru yola sevk eder.
 
 # 2650
 

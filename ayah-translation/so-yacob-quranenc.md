@@ -1104,7 +1104,7 @@ Ma jiro wax eed ahi oo idin saaran, haddaad furtaan haweenka idinkoo aan weli ta
 
 # 244
 
-Oo haddaad furtaan haweenka ka hor inta aydaan taaban, aadna u goyseen Meher, markaa siiya meherka aad u goyseen barki, inay iyagu cafiyaan maahee, ama uu cafiyo (ninka_waliga) uu ku jiro gacantiisa xarigga nikaaxa. Oo inaad cafidaan baa u dhow samaha. Oo ha halmaamina wanaagga dhexdiinna. Hubaal Allaah wuu Arkaa waxaad fashaan.
+Oo haddaad furtaan haweenka ka hor inta aydaan taaban, aadna u goyseen Meher, markaa siiya meherka aad u goyseen barki, inay iyagu cafiyaan maahee, ama uu cafiyo (ninka\_waliga) uu ku jiro gacantiisa xarigga nikaaxa. Oo inaad cafidaan baa u dhow samaha. Oo ha halmaamina wanaagga dhexdiinna. Hubaal Allaah wuu Arkaa waxaad fashaan.
 
 # 245
 
@@ -1470,7 +1470,7 @@ Dheh: Haddaad qarisaan waxa ku jira laabahiinna ama muujisaan, Allaah wuu ogsoon
 
 # 323
 
-Maalinta naf waliba heli waxa khayr ay fashay oo la hor keeno iyo waxa xume ay fashay, waxay jeclaan in dhexdooda iyada iyo xumahaa ay ahaan lahayd geeddi aad iyo aad u fog. Oo Allaah wuxuu idiinka digi 
+Maalinta naf waliba heli waxa khayr ay fashay oo la hor keeno iyo waxa xume ay fashay, waxay jeclaan in dhexdooda iyada iyo xumahaa ay ahaan lahayd geeddi aad iyo aad u fog. Oo Allaah wuxuu idiinka digi
  Naftiisa (Ciqaabkiisa). Oo Alle waa u Turid iyo Naxariis Badan yahay addoomahiisa.
 
 # 324
@@ -1713,7 +1713,7 @@ Sidee buu Allaah u hanuunin qolo diidday (Xaqa) rumayntooda kaddib, iyo (kaddib)
 
 # 380
 
-Kuwaasi abaalkoodu waa inay korkooda ahaato Nacladda Ilaahay, iyo malaa`igta iyo dadka oo dhan.
+Kuwaasi abaalkoodu waa inay korkooda ahaato Nacladda Ilaahay, iyo malaa\`igta iyo dadka oo dhan.
 
 # 381
 
@@ -1737,7 +1737,7 @@ Marnaba ma haleeli doontaan ajarka wanaagsan (ee lagu muto Jannada) jeer aad bix
 
 # 386
 
-Cunto oo dhan xalaal bay u ahayd Ilmahii Israa`iil, wixii uu Israa`iil (Nabi Yacquub) ka xaaraameeyay naftiisa maahee intii aan la soo dejin Towraadda [^14]. Dheh: Keena haddaba Tawraadda oo Akhriya, haddaad tihiin run sheegayaal.
+Cunto oo dhan xalaal bay u ahayd Ilmahii Israa\`iil, wixii uu Israa\`iil (Nabi Yacquub) ka xaaraameeyay naftiisa maahee intii aan la soo dejin Towraadda [^14]. Dheh: Keena haddaba Tawraadda oo Akhriya, haddaad tihiin run sheegayaal.
 
 [^14]: Kaddib soo degitaanka Towraadda waxaa laga xaaraanshay cunitaanka qaar ka mid ah noocyada cuntada, ciqaab ahaan dambiyadoodii, magacyada waxaasi laga xaaraanshayna waxay ku qoran yihiin Towraadda eeg suuradda An-Nisaa Aayadda 160 iyo Suuradda Al-Ancaam Aayadda 146.
 
@@ -1971,7 +1971,7 @@ Oo Muxammad ma aha waxaan ahayn Rasuul, Waxaa xaqiiq tagay hortiis Rusul (badan)
 
 # 438
 
-Oo nafi ma dhimato Idanka Ilaahay ma`ahee waqtiga waa la gooyey. Oo qofkii raba abaalka adduunyadan, Waxbaan ka siin, oo qofkii raba abaalka Aakhirada, waxbaan ka siin. Oo Waanu u abaal gudi doonnaa mahad naqayaasha.
+Oo nafi ma dhimato Idanka Ilaahay ma\`ahee waqtiga waa la gooyey. Oo qofkii raba abaalka adduunyadan, Waxbaan ka siin, oo qofkii raba abaalka Aakhirada, waxbaan ka siin. Oo Waanu u abaal gudi doonnaa mahad naqayaasha.
 
 # 439
 
@@ -2001,7 +2001,7 @@ Waxaan ku tuuri doonnaa argagax quluubta kuwa (Xaqa) diida, sababta la wadaajint
 
 # 445
 
-Oo xaqiiq Allaah wuxuu idiin oofiyey Ballankiisii, markaad ku leyseen (cadowgiinna) Idankiisa, ilaa markaad qalbi jabteen oo aad isku qabsateen arrinka, oo aad caasideen[^28] kaddib markuu idin tusiyey waxa aad jeceshihiin. Waxaa idinka mid ahaa qaar rabay adduunyadan, oo waxaa idinka mid ahaa qaar rabay Aakhirada. Markaas buu idinka jeediyey xaggeeda, si uu idiin imtixaano. Oo xaqiiq wuu idiin cafiyey. Oo Allaah wuu u Roon yahay mu`miniinta.
+Oo xaqiiq Allaah wuxuu idiin oofiyey Ballankiisii, markaad ku leyseen (cadowgiinna) Idankiisa, ilaa markaad qalbi jabteen oo aad isku qabsateen arrinka, oo aad caasideen[^28] kaddib markuu idin tusiyey waxa aad jeceshihiin. Waxaa idinka mid ahaa qaar rabay adduunyadan, oo waxaa idinka mid ahaa qaar rabay Aakhirada. Markaas buu idinka jeediyey xaggeeda, si uu idiin imtixaano. Oo xaqiiq wuu idiin cafiyey. Oo Allaah wuu u Roon yahay mu\`miniinta.
 
 [^28]: Ganayaashii wixii uu amray Nabiga s.c.w oo ahaa inay ku sugnaadaan meeshooda la amray wax kastoo dhaca.
 
@@ -2015,7 +2015,7 @@ Waa tii aad cararteen idinkoo xiimaya aan cidna jalleeceyn, oo Rasuulku uu idiin
 
 # 447
 
-Markaas hammi kaddib wuxuu idinku soo dejiyey nabdooni, xasiloonni u imaneysa koox idinka mid ah[^31], halka koox kale ay nafahooda walaaciyeen, oo waxay ku maleeyeen Allaah male xun aan xaq ahayn oo malihii jaahiliyadda ah. Waxay lahaayeen: Ma aynu ku lihin wax talo ah arrinka. Dheh: Hubaal arrinka oo dhan waxay ku jiraan (Gacmaha) Ilaahay. Waxay ku qarsadaan nafahooda wax aysan kuu muujinayn[^33], iyagoo leh: Haddaan wax talo ah ku lahaan lahayn arrinka, nalaguma dileen halkan[^34]. Dheh: Xitaa haddaad joogi laheydeen guryihiinna, kuwa dilka loo qoray waxay shaki li`i u soo bixi lahaayeen halka lagu dili lahaa, oo waa si uu Allaah u imtixaano waxa ku jira laabihiinna, oo u daahiriyo waxa ku jira quluubtiinna, oo Allaah wuu ogsoon yahay waxa ku jira laabaha.
+Markaas hammi kaddib wuxuu idinku soo dejiyey nabdooni, xasiloonni u imaneysa koox idinka mid ah[^31], halka koox kale ay nafahooda walaaciyeen, oo waxay ku maleeyeen Allaah male xun aan xaq ahayn oo malihii jaahiliyadda ah. Waxay lahaayeen: Ma aynu ku lihin wax talo ah arrinka. Dheh: Hubaal arrinka oo dhan waxay ku jiraan (Gacmaha) Ilaahay. Waxay ku qarsadaan nafahooda wax aysan kuu muujinayn[^33], iyagoo leh: Haddaan wax talo ah ku lahaan lahayn arrinka, nalaguma dileen halkan[^34]. Dheh: Xitaa haddaad joogi laheydeen guryihiinna, kuwa dilka loo qoray waxay shaki li\`i u soo bixi lahaayeen halka lagu dili lahaa, oo waa si uu Allaah u imtixaano waxa ku jira laabihiinna, oo u daahiriyo waxa ku jira quluubtiinna, oo Allaah wuu ogsoon yahay waxa ku jira laabaha.
 
 [^31]: muslimiinta lahaa yaqiinta xoogga leh. 32. Muslimiintii shakiday.
 
@@ -2049,7 +2049,7 @@ Hadduu Allaah idiin gargaari, markaa ma jiraan wax idinka adkaan kara; oo hadduu
 
 # 454
 
-Oo ma aha wax ka suurooba Nabi inuu wax khiyaano (oo booli qaato), oo qofkii wax khiyaana (ama booli qaata ha ahaato mid qof leeyahay ama booli qaran) wuxuu keeni waxa uu khiyaanada 
+Oo ma aha wax ka suurooba Nabi inuu wax khiyaano (oo booli qaato), oo qofkii wax khiyaana (ama booli qaata ha ahaato mid qof leeyahay ama booli qaran) wuxuu keeni waxa uu khiyaanada
 ku qaatay Maalinta Qiyaamaha[^35]. Markaas baa naf walba waxaa loogu oofin si dhan waxa ay kasbatay iyagoo aan lagu gardarroon doonin.
 
 [^35]: Nabigu s.c.w. wuxuu yidhi: Yaan garan midkiin oo imaan Qiyaamada isagoo xambaarsan riti ciyi (xoolo ama maal booli ah) markaasuu odhan: Muxammadow, Muxammadow, waxaan ku odhan: Waxba kuuma qaban karo waa ku soo gaarsiiyey inaad iska ilaaliso maal xaq darro iyo xoolo booli ah.
@@ -2760,7 +2760,7 @@ Kuma jiro wax khayr ahi wax badan oo faqooda ah marka laga reebo mid amra sadaqo
 
 # 608
 
-Oo qofkii khilaafa Rasuulka kaddib inta uu u caddaaday hanuunka oo raaca waxaan aheyn jidka mu`miniinta. Waxaan u jeedin waxaas uu isagu (naf ahaantiisa) u jeestay, oo ka yeeli inuu galo Naar, oo waa u xun tahay meel la ahaado iyo aayo tiin.
+Oo qofkii khilaafa Rasuulka kaddib inta uu u caddaaday hanuunka oo raaca waxaan aheyn jidka mu\`miniinta. Waxaan u jeedin waxaas uu isagu (naf ahaantiisa) u jeestay, oo ka yeeli inuu galo Naar, oo waa u xun tahay meel la ahaado iyo aayo tiin.
 
 # 609
 
@@ -2948,7 +2948,7 @@ Iyo rumeyn la’aantooda darteed iyo odhaahdooda ay ka sheegaan Maryam ee been a
 
 # 650
 
-Iyo odhaahdooda: hubaal waxaan innagu dilnay Masiixa Ciise ibnu Maryam, Rasuulkii Ilaahay[^53], _mase ay dilin[^54] mana ay daldalin, laakiinse waa loo arag ekeysiiyey. Oo hubaal kuwa isku khilaafa arrinkiisa waxaa xaqiiq kaga jira shaki. Uma heystaan wax cilmi (la hubo oo run ah), waxa ay raacaan wax kale maahee waa male awaal. Oo ma ay dilin oo la hubo.
+Iyo odhaahdooda: hubaal waxaan innagu dilnay Masiixa Ciise ibnu Maryam, Rasuulkii Ilaahay[^53], \_mase ay dilin[^54] mana ay daldalin, laakiinse waa loo arag ekeysiiyey. Oo hubaal kuwa isku khilaafa arrinkiisa waxaa xaqiiq kaga jira shaki. Uma heystaan wax cilmi (la hubo oo run ah), waxa ay raacaan wax kale maahee waa male awaal. Oo ma ay dilin oo la hubo.
 
 [^53]: Waxay u yidhaahdeen Ciise Rasuulkii Ilaahay jeesjees ahaan, waayo ma rumeysneen Risaaladii Ciise c.s.
 
@@ -4144,7 +4144,7 @@ Dheh: Kuma hayo waxa la ii waxyooday wax ka xaaraan ah cunaa inuu cuno inuu yaha
 
 # 935
 
-Oo kuwaa heysta diinta Yuhuudi- 
+Oo kuwaa heysta diinta Yuhuudi-
  yadda waxaan ka xarrimnay (neef) kasta oo ciddi leh[^10], xagga lo'da iyo adhiga waxaan ka xarrimnay buruurtooda wax Maahee ku dhegay dhabarradooda ama xiidmahooda ama ku dheehmay laf. Sidaas waxay ahayd ciqaab aan ku abaal marinnay gefkoodii dartiis, oo Waxaan hubaal nahay run sheegayaal.
 
 [^10]: Xoolihii ciddi leh: Waxaa loola jeedaa xoolaha aanay ciddayhooda kala tagsaneyn sida geela, iwm. Qaar kale waxay yidhaahdeen: waxaa loola jeedaa xoolaha leh hal ciddi oo keliya, sida faraska, dameerka, iwm.
@@ -5431,7 +5431,7 @@ Waxaan ahayn kuwaa mushrikiinta ka mid ah ee aad la gasheen axdiga, oo aan marka
 
 # 1240
 
-Markase ay Bilaha Xurmadda leh baxaan[^3], ku dila mushrikiintaa (idiinka 
+Markase ay Bilaha Xurmadda leh baxaan[^3], ku dila mushrikiintaa (idiinka
 baxay heshiiska) meeshaad ka heshaanba, oo qafaasha oo go’doomiya, oo u fariista suryo walba. Markaas hadday toobad keenaan oo oogaan salaadda, oo bixiyaan Zakada, u banneeya jidkooda. hubaal, Allaah waa Dambi Dhaaf Badane, Naxariis Badan.
 
 [^3]: Waxaa loola jeedaa bilaha xurmadda leh afarta bilood ee kala ah: Dul-Qacadah, Dul Xijjah, Muxarram, iyo Rajab. Bilaha fursadda la siinayo mushrikiintana waxaa weeye laga billaabo 10ka Dulxijjah ilaa 10ka Rabiicul Aakhir.
@@ -9737,7 +9737,7 @@ Halkaasi[^14], awood oo dhan waxaa leh Allaah, Xaqa ah. Isaga baa u abaal marin 
 
 # 2185
 
-Oo ugu soo qaad tusaale nolosha 
+Oo ugu soo qaad tusaale nolosha
 adduunkan inay la mid tahay biyaha aan ka soo dejinno daruuraha, markaa dhirta ka soo baxda dhulka noqoto mid isku darsanta, haddana noqota xaabo engeg ah u burburta gaballo ay dabayshu firdhiso, Oo Allaah wuxuu ku leeyahay awood wax walba dushood.
 
 # 2186
@@ -11744,7 +11744,7 @@ Idan (inay daggaalaamaan) baa la siiyey kuwa dagaalka lagu hayo in la dulmiyey d
 
 # 2635
 
-Kuwa looga soo saaray guryahoodii xaq darro, iyaga oo aan waxba geysan, inay yidhaahdeen maahee: Rabbigayo waa Allaah.” Oo haddii aan Allaah ku difaaceyn dadka qaarkoodba qaar, xaqiiq waxaa dumi lahaa sawmacado, kaniisado, macaabid, iyo masaajidyo gudahooda Magaca Ilaahay in badan lagu xuso. Oo Allaah, wuu u gargaari kuwa u gargaara (Arrinkiisa_Kor yeelidda Diintiisa), xaqiiq, Allaah waa Xoog Badane, Adkaada.
+Kuwa looga soo saaray guryahoodii xaq darro, iyaga oo aan waxba geysan, inay yidhaahdeen maahee: Rabbigayo waa Allaah.” Oo haddii aan Allaah ku difaaceyn dadka qaarkoodba qaar, xaqiiq waxaa dumi lahaa sawmacado, kaniisado, macaabid, iyo masaajidyo gudahooda Magaca Ilaahay in badan lagu xuso. Oo Allaah, wuu u gargaari kuwa u gargaara (Arrinkiisa\_Kor yeelidda Diintiisa), xaqiiq, Allaah waa Xoog Badane, Adkaada.
 
 # 2636
 
@@ -12570,7 +12570,7 @@ Ku dheh (oo amar) mu’miniinta inay ka laabtaan aragyadooda (xaaraanta)[^17], o
 
 # 2822
 
-Oo ku dheh (oo amar) mu’minadaha inay ka laabtaan aragyadooda (xaaraanta) [^19] oo ka ilaaliyaan xubnahooda gaarka ah (galmo xaaraan ah iyo inay soo bandhigaan) oo yeyna muujin quruxdooda [^20] wixii iska muuqda maahee[^21], oo ha ku soo dadaan hagoogtooda luqumahooda dushooda iyo laabahooda, oo yeyna u muujin quruxdooda (dhan ee qarsoon) waxaan aheyn nimankooda, ama (wax ka mid ah quruxdaa sida wejiyadooda, luqumahooda, iyo gacmahooda oo qudha) aabbayaashood, ama abbayaasha nimankooda, ama wiila- 
+Oo ku dheh (oo amar) mu’minadaha inay ka laabtaan aragyadooda (xaaraanta) [^19] oo ka ilaaliyaan xubnahooda gaarka ah (galmo xaaraan ah iyo inay soo bandhigaan) oo yeyna muujin quruxdooda [^20] wixii iska muuqda maahee[^21], oo ha ku soo dadaan hagoogtooda luqumahooda dushooda iyo laabahooda, oo yeyna u muujin quruxdooda (dhan ee qarsoon) waxaan aheyn nimankooda, ama (wax ka mid ah quruxdaa sida wejiyadooda, luqumahooda, iyo gacmahooda oo qudha) aabbayaashood, ama abbayaasha nimankooda, ama wiila-
  shooda, ama wiilasha nimankooda, ama walaalahood, ama wiilasha walaalahood, ama wiilasha walaalooyinkood, ama haweenkooda, ama kuwaa ay gacmahoodu midig hantaan, ama kuwa raacsan ee labka ah oo aan laheyn haweysi dumar[^22], ama ilmaha aan weli yeelan dareen ay ku fiirsadaan cawro dumar. Oo yeysan ku garaacin (dhulka) lugahooda si loo ogaado waxa ay qariyaan oo quruxdooda ah. Oo u toobad keena Allaah idinkoo dhan, mu’miniintoy, si aad u liibaantaan.
 
 [^19]: Iyagoo eegaya oo keliya waxa bannaan oo ka jeedinaya indhahood waxa aan u bannaaneyn in la eego.
@@ -12791,7 +12791,7 @@ Oo waxay yidhaahdeen: “Muxuu yahay arrinka Rasuulkan uu u cuni cunto, oo uu u 
 
 # 2864
 
-Eeg waxa ay kuugu soo qaataan tusaalooyin[^3], marka waa ay lumeen, sidaas 
+Eeg waxa ay kuugu soo qaataan tusaalooyin[^3], marka waa ay lumeen, sidaas
  awgeed ma ay karaan (qaadidda) Jidka (Toosan).
 
 [^3]: Oo malahooda ah si ay kuu beeniyaan oo wax kuugu dhimaan.
@@ -12852,7 +12852,7 @@ Oo kuwa aan rajeynayn la Kulankayaga waxay yidhaahdeen: “Maxaa malaa’ig na l
 
 # 2877
 
-Maalinta ay arki malaa’igta[^7] uma ahaan doonto farxad Maalintaas 
+Maalinta ay arki malaa’igta[^7] uma ahaan doonto farxad Maalintaas
  dambiilayaasha, oo Waxay (malaa’igtu) odhan:“Waa wax idinka xarriman (jannada) oo gebigeedaba idinka reebban[^8].
 
 [^7]: Waqtiga dhimashadooda.
@@ -14438,7 +14438,7 @@ Ee isku hallee oo talo saaro Allaah; hubaal, waxaad ku taagan tahay Xaq Cad.
 
 # 3239
 
-Adigu wax ma maqashiin kartid 
+Adigu wax ma maqashiin kartid
  meytida, oo ma maqashiin kartid dhagoolaha dhawaaqa markay tagaan oo dhabarka jeediyaan.
 
 # 3240
@@ -14599,7 +14599,7 @@ Oo nin baa ka yimid magaalada xaggeeda shishe isagoo rooraya. Wuxuu yidhi: Muuso
 
 # 3273
 
-Markaas buu ka baxay xaggeeda. Isagoo cabsanaya, digtoon. (Oo) wuxuu yidhi: Rabbiyow! Iga badbaadi dadkaa gar 
+Markaas buu ka baxay xaggeeda. Isagoo cabsanaya, digtoon. (Oo) wuxuu yidhi: Rabbiyow! Iga badbaadi dadkaa gar
 ma qaatayaasha ah.
 
 # 3274
@@ -14676,7 +14676,7 @@ Oo Muuse wuxuu yidhi: Rabbigay baa ogsoon kan kala yimid hanuun xaggiisa iyo kan
 
 Oo Fircoon wuxuu yidhi: Xildhibaannow! Anigu idiin ma ogi inaad leedihiin ilaah kale aan ahayn aniga, ee i huri dab Haamaanow lagu dul shido dhoobada, markaa ii samee sar aad u dheer, si aan u soo day dayo ilaaha Muuse; oo waxaan qabaa in isagu yahay mid ka mid ah beenlowyada.[^*]
 
-[^*]: . 11. Ee laga sameeyo bulukeetiga.
+[^*]: . 11\. Ee laga sameeyo bulukeetiga.
 
 # 3291
 
@@ -14844,7 +14844,7 @@ Oo Waxaa ka mid ah Naxariistiisa, inuu idiin yeelay habeenka si aad ugu nasataan
 
 # 3326
 
-Oo Maalinta aan u yeedhi (mushrikiinta) oo odhan: Meeye kuwaad u heysateen inay yihiin shurakadeyda ee aad ila 
+Oo Maalinta aan u yeedhi (mushrikiinta) oo odhan: Meeye kuwaad u heysateen inay yihiin shurakadeyda ee aad ila
 wadaajiseen cibaadada?
 
 # 3327
@@ -16527,7 +16527,7 @@ Oo hadday ku beeeniyaan, xaqiiq waxaa sidoo kale beeniyey (Rusushoodii) kuwii ka
 
 # 3686
 
-Markaas baan ciqaabay kuwii Xaqa 
+Markaas baan ciqaabay kuwii Xaqa
  diiday, ee sidee bay aheyd inkaarteydii.
 
 # 3687
@@ -16762,7 +16762,7 @@ Si ay u wax uga cunaan midhahiisa, oo ma ayan sameyn gacmahoodu[^5]. Ee Ma waysa
 
 # 3741
 
-Waxaa xurmo oo dhan iska leh oo nazahan Kan (waa Alle'e) abuuray noocya- 
+Waxaa xurmo oo dhan iska leh oo nazahan Kan (waa Alle'e) abuuray noocya-
  da dhammaan waxa uu dhulka soo saaro, iyo nafahooda iyo waxa aysan ogaynba.
 
 # 3742
@@ -16813,7 +16813,7 @@ Oo uma timaaddo calaamad ka mid ah calaamadaha Rabbigood, bal way ka sii jeesada
 
 # 3752
 
-Oo marka lagu yidhaahdo: Wax ka bixiya waxa uu Allaah idinku irsaaqay, kuwa (Xaqa) diida waxay ku yidhaahdaan kuwa rumeysan: Ma waxaan quudinnaa`mid haddii uu Allaah doono uu quudin lahaa? Idinku kuma sugnidin waxaan ahayn habow caddaan ah.
+Oo marka lagu yidhaahdo: Wax ka bixiya waxa uu Allaah idinku irsaaqay, kuwa (Xaqa) diida waxay ku yidhaahdaan kuwa rumeysan: Ma waxaan quudinnaa\`mid haddii uu Allaah doono uu quudin lahaa? Idinku kuma sugnidin waxaan ahayn habow caddaan ah.
 
 # 3753
 
@@ -16841,7 +16841,7 @@ Waxay odhan: Hoog baa noo sugnaadaye! Yaa naga soo kiciyey meeshayadii aan hurud
 
 # 3758
 
-Ma ahaaneyso wax kale aan aheyn hal Qaylo keliya, Mise kolkaa! Waxay dham- 
+Ma ahaaneyso wax kale aan aheyn hal Qaylo keliya, Mise kolkaa! Waxay dham-
  maan ahaan kuwo Hortayada la keeno.
 
 # 3759
@@ -17322,7 +17322,7 @@ Markaasaan hafinnay intii kale.
 
 # 3871
 
-Waxaana ka mid ah kuwa raacay 
+Waxaana ka mid ah kuwa raacay
 jidkiisa Ibraahiim[^7].
 
 [^7]: Nabi Ibraahiim c.s. wuxuu raacay dhabbihii Nabi Nuux iyo intii rumeysey towxiidka iyo mabaadiida diinta Islaamka.
@@ -17447,7 +17447,7 @@ Hubaal, wuxuu ka mid ahaa addoomahayaga mu'miniinta ah.
 
 # 3900
 
-Oo Waxaan (markaa kaddib) ugu bishaareynay Isxaaq[^11]_Nabi ka mid ah kuwa wanaagsan.
+Oo Waxaan (markaa kaddib) ugu bishaareynay Isxaaq[^11]\_Nabi ka mid ah kuwa wanaagsan.
 
 [^11]: Tani waxay caddeyneysaa in wiilkiisa curadka ee la doonayey in la gowraco uu ahaa Ismaaciil oo ma uusan ahayn Isxaaq, sida ay sheegaan Yuhuudda iyo Nasaarada.
 
@@ -18026,7 +18026,7 @@ Waxay odhan: Rabbigayow! Kii noo horseeday waxakani ugu dar cadaab labo jibbaar 
 
 # 4032
 
-Oo Waxay odhan: Maxaanu u arki 
+Oo Waxay odhan: Maxaanu u arki
  la'nahay, niman aanu ku tirin jirnay ehlu sharka?[^13]
 
 [^13]: Waxay ula jeedaan mu’miniinta.
@@ -18303,7 +18303,7 @@ Oo mid uu Allaah hanuuniyo ma uu laha wax lumiya. Ma wuusan ahayn Allaah Adkaade
 
 # 4096
 
-Oo haddii aad weydiiso: Yaa abuuray samooyinka iyo arlada? Waxay hubaal odhanayaan: Allaah. Dheh: Haddaba ma u fiirsateen waxa aad u dhawaaqataan Allaah sokadi,_ haddii Allaah ila maago lur, miyey yihiin kuwa fayda lurkiisa? ama haddii uu ila maago Naxariis, miyey yihiin kuwa celiya Naxariistiisa? Dheh: Allaah baa igu Filan, Isaga bay isku halleeyaan inta wax isku halleysa.
+Oo haddii aad weydiiso: Yaa abuuray samooyinka iyo arlada? Waxay hubaal odhanayaan: Allaah. Dheh: Haddaba ma u fiirsateen waxa aad u dhawaaqataan Allaah sokadi,\_ haddii Allaah ila maago lur, miyey yihiin kuwa fayda lurkiisa? ama haddii uu ila maago Naxariis, miyey yihiin kuwa celiya Naxariistiisa? Dheh: Allaah baa igu Filan, Isaga bay isku halleeyaan inta wax isku halleysa.
 
 # 4097
 
@@ -19378,7 +19378,7 @@ Oo ma jirin Nabi u yimaada oo aysan ku jees-jeesin.
 
 # 4333
 
-Markaas waxaanu hallignay kuwo iyaga[^4] ka xoog badnaa,_oo waxaa hore u tagay mataalka kuwii hore.
+Markaas waxaanu hallignay kuwo iyaga[^4] ka xoog badnaa,\_oo waxaa hore u tagay mataalka kuwii hore.
 
 [^4]: Waxaa loola jeedaa gaalada ku jira Quraysh, iwm.
 
@@ -19396,7 +19396,7 @@ Oo Isagu ah Kan ka soo dejiya biyo daruuraha si qiyaasan. Markaas waxaan ku nool
 
 # 4337
 
-Oo Isagu ah Kan abuuray lammaana- 
+Oo Isagu ah Kan abuuray lammaana-
  yaasha wax waliba oo idiin yeelay doonyo (diyaarado, tareenno, gawaari) iyo xoolo (geel, lo', fardo, iwm) aad fuushan.
 
 # 4338
@@ -20081,7 +20081,7 @@ Markaas waxaanu kuu yeelnay waddo cad oo amar (keenna) ah ee raac adigu, oo ha r
 
 # 4492
 
-Hubaal iyagu waxba kaagama tari doonaan xagga Ilaahay; oo hubaal gar ma 
+Hubaal iyagu waxba kaagama tari doonaan xagga Ilaahay; oo hubaal gar ma
 qaatayaasha waa isu saaxiibbo qaarba qaarka kale Oo Allaah waa Gargaaraha iyo gacalka kuwa iska jira (xumaha).
 
 # 4493
@@ -20528,7 +20528,7 @@ Si uu u geliyo mu’miniinta iyo mu’minoo- yinka beero ay webiyo hoos qul-qula
 
 # 4589
 
-Iyo si uu u cadaabo munaafiqiinta iyo munaafiqooyinka iyo mushrikiinta iyo mushrikooyinka ee ku maleeya malaha xun Allaah, korkooda waxaa ah xumaanta wareegta, oo Cadho Allay qabaan, oo waa uu nacladay, wuxuuna u diyaariyey Naar iyaga,_oo iyadaa u xun aayotiin ahaan.
+Iyo si uu u cadaabo munaafiqiinta iyo munaafiqooyinka iyo mushrikiinta iyo mushrikooyinka ee ku maleeya malaha xun Allaah, korkooda waxaa ah xumaanta wareegta, oo Cadho Allay qabaan, oo waa uu nacladay, wuxuuna u diyaariyey Naar iyaga,\_oo iyadaa u xun aayotiin ahaan.
 
 # 4590
 
@@ -20598,7 +20598,7 @@ Allaah wuxuu idiin ballan qaaday qaniimooyin badan aad qaadan doontaan, markaasu
 
 Iyo (guulo) kale oo aydaan weli awood u yeelan inaad gaadhaan, Allaah baa dhab ahaan koobay. Oo Allaah wax walba wuu Karaa.[^*]
 
-[^*]: . 6. Idiin diyaariyey ama qaddaray.
+[^*]: . 6\. Idiin diyaariyey ama qaddaray.
 
 # 4605
 
@@ -20614,13 +20614,13 @@ Oo Isaga weeye Kan idinka celiyey gac- mahooda, iyo gacmahiinna iyaga togga Makk
 
 # 4608
 
-Waa iyaga (mushrikiinta Quraysh) kuwa gaaloobay oo idinka celiyey Al-Masjid Al-Xaraam oo (ka xayiray) hadyiga inuu gaaro meeshiisa gawraca[^7]. Oo haddii aysan jireen rag mu’miniin ah iyo haween mu’minooyin ah oo aydaan ogeyn, oo laga yaabo in aad wax yeeshaan, taasoo dambi idinka soo gaarayo iyo mashaqo ogaal la’aan darteed (Allaah waa uu idiin fasaxi lahaa); waa si uu Allaah u sababo inuu geliyo Naxariistiisa cidduu doono_, haddii iyagu (mu’miniinta iyo gaalada) kala soocmi lahaayeen, waxaan hubaal cadaabi laheyn kuwooda ka mid ah ee gaaloobay cadaab xanuun badan.
+Waa iyaga (mushrikiinta Quraysh) kuwa gaaloobay oo idinka celiyey Al-Masjid Al-Xaraam oo (ka xayiray) hadyiga inuu gaaro meeshiisa gawraca[^7]. Oo haddii aysan jireen rag mu’miniin ah iyo haween mu’minooyin ah oo aydaan ogeyn, oo laga yaabo in aad wax yeeshaan, taasoo dambi idinka soo gaarayo iyo mashaqo ogaal la’aan darteed (Allaah waa uu idiin fasaxi lahaa); waa si uu Allaah u sababo inuu geliyo Naxariistiisa cidduu doono\_, haddii iyagu (mu’miniinta iyo gaalada) kala soocmi lahaayeen, waxaan hubaal cadaabi laheyn kuwooda ka mid ah ee gaaloobay cadaab xanuun badan.
 
 [^7]: Toddobaatan neef oo geel ah oo loo keenay hadyi ahaan iyo in laga quudiyo fuqarada iyo masaakiinta Xaramka.
 
 # 4609
 
-Waa tii uu Allaah ku dhigay kuwa gaaloobay quluubtooda ficilo_ ficiladii waqtigii jaahiliyada - Wuxuuse Allaah ku soo dejiyey xasilloonidiisa Rasuulkiisa iyo mu’miniinta, oo ka yeelay kuwo ku sugnaada Ereyga dhowrsashada[^8], oo waxay ahaayeen kuwo mudan oo ehelkeed ah. Oo Allaah wax walba waa Og yahay.
+Waa tii uu Allaah ku dhigay kuwa gaaloobay quluubtooda ficilo\_ ficiladii waqtigii jaahiliyada - Wuxuuse Allaah ku soo dejiyey xasilloonidiisa Rasuulkiisa iyo mu’miniinta, oo ka yeelay kuwo ku sugnaada Ereyga dhowrsashada[^8], oo waxay ahaayeen kuwo mudan oo ehelkeed ah. Oo Allaah wax walba waa Og yahay.
 
 [^8]: Kelmedda taqwada, waxaa loola jeedaa kelmedda Towxiidka, oo ah in Allaah loo gaar iyo gooni yeelo cibaadada.
 
@@ -21514,7 +21514,7 @@ Oo Allaah baa iska leh waxaa jira samooyinka iyo waxa jira arlada, si uu uga aba
 
 # 4816
 
-Kuwa ka fogaada dambiyada waaweyn iyo foolxumooyinka, waxaan ahayn waxa ku soo dhaca maanankooda, _hubaal, Rabbigaa waa mid leh dambi dhaaf ballaadhan. Wuxuu idiin yaqaan si fiican, markuu idinka abuuray dhulka iyo markaadba ku tihiin jiif uurarka hooyooyinkiin, ee ha ku ammaanina daahirnimo nafahiinna, wuxuu u Og yahay si fiican kan ka dhowrsada (xumaha).
+Kuwa ka fogaada dambiyada waaweyn iyo foolxumooyinka, waxaan ahayn waxa ku soo dhaca maanankooda, \_hubaal, Rabbigaa waa mid leh dambi dhaaf ballaadhan. Wuxuu idiin yaqaan si fiican, markuu idinka abuuray dhulka iyo markaadba ku tihiin jiif uurarka hooyooyinkiin, ee ha ku ammaanina daahirnimo nafahiinna, wuxuu u Og yahay si fiican kan ka dhowrsada (xumaha).
 
 # 4817
 
@@ -22196,8 +22196,8 @@ Iyagoo ku jiqleynaya barkimooyin cagaaran iyo gogollo qurux badan.
 
 # 4978
 
-Ee tee baad Nicmooyinka (Alle) Rabbigiin beenineysaan? 
-Midna beeninmeyno Allow ka mid ah Nicmooyinkaaga oo ammaan iyo mahad idilkeed Adigaa leh oo ku caabudi annagoon waxba kula wadaajin 
+Ee tee baad Nicmooyinka (Alle) Rabbigiin beenineysaan?
+Midna beeninmeyno Allow ka mid ah Nicmooyinkaaga oo ammaan iyo mahad idilkeed Adigaa leh oo ku caabudi annagoon waxba kula wadaajin
 cibaadada, caawimaadna ku weydiisan.
 
 # 4979
@@ -22374,7 +22374,7 @@ Kuwo badan oo ka mid ahna kuwa dambe.
 
 # 5020
 
-Kuwase ah Gacanta Bidix _xumaa kuwaa ah Gacanta Bidix (ehlu Naarka)?
+Kuwase ah Gacanta Bidix \_xumaa kuwaa ah Gacanta Bidix (ehlu Naarka)?
 
 # 5021
 
@@ -22712,7 +22712,7 @@ Si aydaan uga murugoon wixii arrin ah oo idin dhaafa, uguna aydaan farax taraari
 
 # 5099
 
-Kuwaa ah bakhayllada_ oo amra bakhaylnimo dadka. Oo mid kastoo dhabarka jeediya, haddaba hubaal Allaah waa Isaga isku Filnaha Deeqtoon, la Ammaano.
+Kuwaa ah bakhayllada\_ oo amra bakhaylnimo dadka. Oo mid kastoo dhabarka jeediya, haddaba hubaal Allaah waa Isaga isku Filnaha Deeqtoon, la Ammaano.
 
 # 5100
 

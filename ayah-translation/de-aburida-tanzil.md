@@ -666,7 +666,7 @@ Auf diese läßt ihr Herr Segnungen und Barmherzigkeit herab und diese werden re
 
 # 165
 
-Wahrlich, As Safa und Al-Marwa gehören zu den Kultstätten Allahs; und wer zu dem Hause pilgert oder die `Umra vollzieht, für den ist es kein Vergehen, wenn er zwischen beiden hin- und herschreitet. Und wenn einer freiwillig Gutes tut, so ist Allah Erkenntlich, Allwissend.
+Wahrlich, As Safa und Al-Marwa gehören zu den Kultstätten Allahs; und wer zu dem Hause pilgert oder die \`Umra vollzieht, für den ist es kein Vergehen, wenn er zwischen beiden hin- und herschreitet. Und wenn einer freiwillig Gutes tut, so ist Allah Erkenntlich, Allwissend.
 
 # 166
 
@@ -818,7 +818,7 @@ Und spendet auf dem Weg Allahs und stürzt euch nicht mit eigenen Händen ins Ve
 
 # 203
 
-Und vollendet den Hagg und die `Umra für Allah. Und wenn ihr daran gehindert werdet, so bringt ein Opfertier dar, das euch (zu opfern) leicht fällt. Und schert nicht eure Häupter, bis das Opfertier seinen Bestimmungsort erreicht hat. Und wer von euch krank ist oder an seinem Haupt ein Leiden hat, der soll Ersatz leisten durch Fasten, Mildtätigkeit oder Darbringen eines Schlachtopfers. Und wenn ihr euch sicher fühlt, dann soll der, der die 'Umra mit dem Hagg vollziehen möchte, ein Opfertier (darbringen), das ihm (zu opfern) leicht fällt. Und wer keines zu finden vermag, soll drei Tage während des Hagg fasten und sieben, wenn ihr zurückgekehrt seid. Dies sind zehn insgesamt. Dies gilt für den, dessen Angehörige nicht nahe der heiligen Moschee wohnen. Und seid gottesfürchtig und wisset, daß Allah streng ist im Strafen.
+Und vollendet den Hagg und die \`Umra für Allah. Und wenn ihr daran gehindert werdet, so bringt ein Opfertier dar, das euch (zu opfern) leicht fällt. Und schert nicht eure Häupter, bis das Opfertier seinen Bestimmungsort erreicht hat. Und wer von euch krank ist oder an seinem Haupt ein Leiden hat, der soll Ersatz leisten durch Fasten, Mildtätigkeit oder Darbringen eines Schlachtopfers. Und wenn ihr euch sicher fühlt, dann soll der, der die 'Umra mit dem Hagg vollziehen möchte, ein Opfertier (darbringen), das ihm (zu opfern) leicht fällt. Und wer keines zu finden vermag, soll drei Tage während des Hagg fasten und sieben, wenn ihr zurückgekehrt seid. Dies sind zehn insgesamt. Dies gilt für den, dessen Angehörige nicht nahe der heiligen Moschee wohnen. Und seid gottesfürchtig und wisset, daß Allah streng ist im Strafen.
 
 # 204
 
@@ -826,7 +826,7 @@ Für den Hagg sind bekannte Monate (vorgesehen) Wer sich in ihnen zum Hagg entsc
 
 # 205
 
-Es ist kein Vergehen von euch, wenn ihr nach der Gunst eures Herrn strebt. Und wenn ihr von `Arafat herbeieilt, dann gedenkt Allahs bei AI-Masari-l- haram. Und gedenkt Seiner, wie Er euch rechtgeleitet hat, obwohl ihr wahrlich vordem unter jenen waret, die irregingen.
+Es ist kein Vergehen von euch, wenn ihr nach der Gunst eures Herrn strebt. Und wenn ihr von \`Arafat herbeieilt, dann gedenkt Allahs bei AI-Masari-l- haram. Und gedenkt Seiner, wie Er euch rechtgeleitet hat, obwohl ihr wahrlich vordem unter jenen waret, die irregingen.
 
 # 206
 
@@ -1310,7 +1310,7 @@ Sprich: "Gehorcht Allah und dem Gesandten"; denn wenn sie den Rücken kehren sie
 
 # 326
 
-Wahrlich, Allah erwählte Adam und Noah und das Haus Abraham und das Haus `Imran vor allen Welten
+Wahrlich, Allah erwählte Adam und Noah und das Haus Abraham und das Haus \`Imran vor allen Welten
 
 # 327
 
@@ -1318,7 +1318,7 @@ ein Geschlecht, von dem einer aus dem anderen stammt, und Allah ist Allhörend, 
 
 # 328
 
-Damals sagte die Frau `lmrans: "Mein Herr, siehe, ich gelobe Dir, was in meinem Leibe ist, zu weihen; so nimm es von mir an; siehe, Du bist der Allhörende, der Allwissende."
+Damals sagte die Frau \`lmrans: "Mein Herr, siehe, ich gelobe Dir, was in meinem Leibe ist, zu weihen; so nimm es von mir an; siehe, Du bist der Allhörende, der Allwissende."
 
 # 329
 
@@ -3062,7 +3062,7 @@ O ihr, die ihr glaubt! Allah will euch gewiß Prüfungen aussetzen mit dem Wild,
 
 # 764
 
-O ihr, die ihr glaubt! Tötet kein Wild, während ihr pilgert. Und (wenn) einer von euch ein Tier vorsätzlich tötet, so ist die Ersatzleistung (dafür) ein gleiches Maß vom Vieh, wie das, was er getötet (hat), nach dem Spruch von zwei Redlichen unter euch, und das soll dann als Opfertier zu der Ka`ba gebracht werden; oder die Sühne sei die Speisung von Armen oder dementsprechendes Fasten, damit er die bösen Folgen seiner Tat koste. Allah vergibt das Vergangene; den aber, der es wieder tut, wird Allah der Vergeltung aussetzen. Und Allah ist Allmächtig und Herr der Vergeltung.
+O ihr, die ihr glaubt! Tötet kein Wild, während ihr pilgert. Und (wenn) einer von euch ein Tier vorsätzlich tötet, so ist die Ersatzleistung (dafür) ein gleiches Maß vom Vieh, wie das, was er getötet (hat), nach dem Spruch von zwei Redlichen unter euch, und das soll dann als Opfertier zu der Ka\`ba gebracht werden; oder die Sühne sei die Speisung von Armen oder dementsprechendes Fasten, damit er die bösen Folgen seiner Tat koste. Allah vergibt das Vergangene; den aber, der es wieder tut, wird Allah der Vergeltung aussetzen. Und Allah ist Allmächtig und Herr der Vergeltung.
 
 # 765
 
@@ -4118,7 +4118,7 @@ Und zu den Tamud (entsandten Wir) ihren Bruder Salih. Er sagte: " O mein Volk, d
 
 # 1028
 
-Und gedenkt (der Zeit), da Er euch zu Erben der `Ad einsetzte und euch eine Stätte im Land anwies; ihr erbaut Paläste in seinen Ebenen und grabt Wohnungen in die Berge. Seid also der Gnaden Allahs eingedenk und treibt im Land nicht (euer) Unwesen, indem ihr Unheil anrichtet.
+Und gedenkt (der Zeit), da Er euch zu Erben der \`Ad einsetzte und euch eine Stätte im Land anwies; ihr erbaut Paläste in seinen Ebenen und grabt Wohnungen in die Berge. Seid also der Gnaden Allahs eingedenk und treibt im Land nicht (euer) Unwesen, indem ihr Unheil anrichtet.
 
 # 1029
 
@@ -4786,7 +4786,7 @@ Aber, warum sollte Allah sie nicht bestrafen, wenn sie (die Gläubigen) von (dem
 
 # 1195
 
-Und ihr Gebet vor dem Haus (Ka`ba) ist nichts anderes als Pfeifen und Händeklatschen. "Kostet denn die Strafe dafür, daß ihr ungläubig waret."
+Und ihr Gebet vor dem Haus (Ka\`ba) ist nichts anderes als Pfeifen und Händeklatschen. "Kostet denn die Strafe dafür, daß ihr ungläubig waret."
 
 # 1196
 
@@ -5226,7 +5226,7 @@ wie jenen, die vor euch waren. Sie waren mächtiger als ihr an Kraft und reicher
 
 # 1305
 
-Hat sie nicht die Kunde von denen erreicht, die vor ihnen waren vom Volke Noahs, von `Ad und Tamud und vom Volke Abrahams und den Bewohnern Madyans und der zusammengestürzten Städte? Ihre Gesandten kamen mit deutlichen Zeichen zu ihnen. Allah also wollte ihnen kein Unrecht tun, doch sie taten sich selber Unrecht.
+Hat sie nicht die Kunde von denen erreicht, die vor ihnen waren vom Volke Noahs, von \`Ad und Tamud und vom Volke Abrahams und den Bewohnern Madyans und der zusammengestürzten Städte? Ihre Gesandten kamen mit deutlichen Zeichen zu ihnen. Allah also wollte ihnen kein Unrecht tun, doch sie taten sich selber Unrecht.
 
 # 1306
 
@@ -6098,7 +6098,7 @@ Das ist einer der Berichte von den verborgenen Dingen, die Wir dir offenbaren. Z
 
 # 1523
 
-Und zu den `Ad (entsandten Wir) ihren Bruder Hud. Er sagte: "O mein Volk, dient Allah. Ihr habt keinen anderen Gott außer Ihm. Ihr seid nichts anderes als Lügner.
+Und zu den \`Ad (entsandten Wir) ihren Bruder Hud. Er sagte: "O mein Volk, dient Allah. Ihr habt keinen anderen Gott außer Ihm. Ihr seid nichts anderes als Lügner.
 
 # 1524
 
@@ -6134,11 +6134,11 @@ Und als Unser Befehl kam, da erretteten Wir Hud und diejenigen, die mit ihm glä
 
 # 1532
 
-Und diese waren die `Ad, die die Zeichen ihres Herrn leugneten und Seinen Gesandten nicht gehorchten und der Aufforderung eines jeden abschweifenden Tyrannen folgten.
+Und diese waren die \`Ad, die die Zeichen ihres Herrn leugneten und Seinen Gesandten nicht gehorchten und der Aufforderung eines jeden abschweifenden Tyrannen folgten.
 
 # 1533
 
-Ein Fluch verfolgte sie auf dieser Welt und (wird sie) am Tag der Auferstehung (verfolgen) Siehe, die `Ad haben sich gegen ihren Herrn undankbar erwiesen. Siehe, verstoßen sind die `Ad, das Volk Huds.
+Ein Fluch verfolgte sie auf dieser Welt und (wird sie) am Tag der Auferstehung (verfolgen) Siehe, die \`Ad haben sich gegen ihren Herrn undankbar erwiesen. Siehe, verstoßen sind die \`Ad, das Volk Huds.
 
 # 1534
 
@@ -6510,7 +6510,7 @@ O Yusuf, wende dich ab von dieser Sache, und du (, o Frau), bitte um Vergebung f
 
 # 1626
 
-Und einige Frauen in der Stadt sagten: "Die Frau des `Aziz verlangt von ihrem Burschen die Hingabe gegen seinen Willen; sie ist ganz verliebt in ihn. Wahrlich, wir sehen sie in einem offenbaren Irrtum."
+Und einige Frauen in der Stadt sagten: "Die Frau des \`Aziz verlangt von ihrem Burschen die Hingabe gegen seinen Willen; sie ist ganz verliebt in ihn. Wahrlich, wir sehen sie in einem offenbaren Irrtum."
 
 # 1627
 
@@ -6594,11 +6594,11 @@ Und der König sprach: "Bringt ihn zu mir!" Doch als der Bote zu ihm kam, sprach
 
 # 1647
 
-Er sprach (zu den Frauen): "Wie stand es um euch, als ihr eure Verführungskünste an Yusuf gegen seinen Willen ausprobiertet?" Sie sagten: "Allah bewahre! Wir haben nichts Böses über ihn erfahren!" Da sprach die Frau des `Aziz: "Nun ist die Wahrheit ans Licht gekommen. Ich versuchte, ihn gegen seinen Willen zu verführen, und er gehört sicherlich zu den Wahrhaftigen."
+Er sprach (zu den Frauen): "Wie stand es um euch, als ihr eure Verführungskünste an Yusuf gegen seinen Willen ausprobiertet?" Sie sagten: "Allah bewahre! Wir haben nichts Böses über ihn erfahren!" Da sprach die Frau des \`Aziz: "Nun ist die Wahrheit ans Licht gekommen. Ich versuchte, ihn gegen seinen Willen zu verführen, und er gehört sicherlich zu den Wahrhaftigen."
 
 # 1648
 
-(Yusuf sprach): "Dies (kommt ans Licht), damit er (`Aziz) erfährt, daß ich in (seiner) Abwesenheit gegen ihn nicht treulos war, und damit Allah die List der Treulosen nicht gelingen läßt.
+(Yusuf sprach): "Dies (kommt ans Licht), damit er (\`Aziz) erfährt, daß ich in (seiner) Abwesenheit gegen ihn nicht treulos war, und damit Allah die List der Treulosen nicht gelingen läßt.
 
 # 1649
 
@@ -6702,7 +6702,7 @@ Sie sagten: "Hat er gestohlen, so hat zuvor schon sein Bruder Diebstahl begangen
 
 # 1674
 
-Sie sagten: "O `Aziz, er hat einen greisen Vater, so nimm einen von uns statt seiner an; denn wir sehen, du gehörst zu denen, die Gutes tun."
+Sie sagten: "O \`Aziz, er hat einen greisen Vater, so nimm einen von uns statt seiner an; denn wir sehen, du gehörst zu denen, die Gutes tun."
 
 # 1675
 
@@ -6742,7 +6742,7 @@ O meine Söhne, zieht aus und forscht nach Yusuf und seinem Bruder und zweifelt 
 
 # 1684
 
-Als sie dann vor ihn (Yusuf) traten, da sagten sie: "O `Aziz, die Not hat uns und unsere Familie geschlagen, und wir haben Ware von geringem Wert mitgebracht; so gib uns das volle Maß und sei wohltätig gegen uns. Wahrlich, Allah belohnt die Wohltätigen."
+Als sie dann vor ihn (Yusuf) traten, da sagten sie: "O \`Aziz, die Not hat uns und unsere Familie geschlagen, und wir haben Ware von geringem Wert mitgebracht; so gib uns das volle Maß und sei wohltätig gegen uns. Wahrlich, Allah belohnt die Wohltätigen."
 
 # 1685
 
@@ -10554,7 +10554,7 @@ Jenen, die, wenn Wir ihnen auf Erden die Oberhand gegeben haben, das Gebet verri
 
 # 2637
 
-Wenn sie dich der Lüge bezichtigen, so waren schon vor ihnen das Volk Noahs und die `Ad und die Tamud Verleugner
+Wenn sie dich der Lüge bezichtigen, so waren schon vor ihnen das Volk Noahs und die \`Ad und die Tamud Verleugner
 
 # 2638
 
@@ -10738,7 +10738,7 @@ und die ihre Gebete einhalten
 
 # 2683
 
-- dies sind die Erben
+\- dies sind die Erben
 
 # 2684
 
@@ -11006,7 +11006,7 @@ Und wahrlich, Wir haben sie mit Strafe erfaßt, doch sie haben sich ihrem Herrn 
 
 # 2750
 
-- bis daß Wir ihnen ein Tor zu strenger Strafe öffnen. Siehe, da werden sie hierüber in Verzweiflung stürzen.
+\- bis daß Wir ihnen ein Tor zu strenger Strafe öffnen. Siehe, da werden sie hierüber in Verzweiflung stürzen.
 
 # 2751
 
@@ -11318,7 +11318,7 @@ Allah ist das Licht der Himmel und der Erde. Sein Licht ist gleich einer Nische,
 
 # 2828
 
-- Männer, die weder Ware noch Handel vom Gedenken an Allah abhält und der Verrichtung des Gebets und dem Entrichten der Zakah; sie fürchten einen Tag, an dem sich Herzen und Augen verdrehen werden.
+\- Männer, die weder Ware noch Handel vom Gedenken an Allah abhält und der Verrichtung des Gebets und dem Entrichten der Zakah; sie fürchten einen Tag, an dem sich Herzen und Augen verdrehen werden.
 
 # 2829
 
@@ -11578,7 +11578,7 @@ Und das Volk Noahs: Als sie die Gesandten verleugneten, ertränkten Wir sie und 
 
 # 2893
 
-Und so auch (für) die `Ad, die Tamud und die Leute vom Brunnen und so viele der Geschlechter zwischen ihnen.
+Und so auch (für) die \`Ad, die Tamud und die Leute vom Brunnen und so viele der Geschlechter zwischen ihnen.
 
 # 2894
 
@@ -12226,7 +12226,7 @@ Und wahrlich, dein Herr - Er ist der Erhabene, der Barmherzige.
 
 # 3055
 
-Die `Ad bezichtigten den Gesandten der Lüge
+Die \`Ad bezichtigten den Gesandten der Lüge
 
 # 3056
 
@@ -13518,7 +13518,7 @@ Jedoch sie erklärten ihn für einen Lügner. Da erfaßte sie ein heftiges Beben
 
 # 3378
 
-Und (Wir vernichteten) die `Ad und die Tamud; und dies ist aus ihren Wohnstätten für euch klar ersichtlich. Und Satan ließ ihnen ihre Werke wohlgefällig erscheinen und hielt sie von dem Weg ab, obwohl sie einsichtig waren.
+Und (Wir vernichteten) die \`Ad und die Tamud; und dies ist aus ihren Wohnstätten für euch klar ersichtlich. Und Satan ließ ihnen ihre Werke wohlgefällig erscheinen und hielt sie von dem Weg ab, obwohl sie einsichtig waren.
 
 # 3379
 
@@ -14294,7 +14294,7 @@ Es bringt den Propheten in keine Verlegenheit, was Allah für ihn angeordnet hat
 
 # 3572
 
-- jene, die Allah s Botschaften ausrichteten und Ihn fürchteten und niemanden außer Allah fürchteten. Und Allah genügt als Rechner.
+\- jene, die Allah s Botschaften ausrichteten und Ihn fürchteten und niemanden außer Allah fürchteten. Und Allah genügt als Rechner.
 
 # 3573
 
@@ -15658,7 +15658,7 @@ Da sagte er zu seinem Volk: "Wollt ihr nicht gottesfürchtig sein?
 
 # 3913
 
-Wollt ihr 8a`1 (euren Götzen) anrufen und den besten Schöpfer verlassen
+Wollt ihr 8a\`1 (euren Götzen) anrufen und den besten Schöpfer verlassen
 
 # 3914
 
@@ -15934,7 +15934,7 @@ Eine Heerschar der Verbündeten wird in die Flucht geschlagen werden.
 
 # 3982
 
-Vor ihnen haben schon geleugnet: das Volk Noahs und die `Ad und Pharao mit den bodenfesten Bauten.
+Vor ihnen haben schon geleugnet: das Volk Noahs und die \`Ad und Pharao mit den bodenfesten Bauten.
 
 # 3983
 
@@ -16662,7 +16662,7 @@ Da sagte jener, der gläubig war: "O mein Volk, ich fürchte für euch das gleic
 
 # 4164
 
-das gleiche, was dem Volke Noahs und den `Ad und den Tamud und denen nach ihnen widerfuhr. Und Allah will keine Ungerechtigkeit gegen die Menschen.
+das gleiche, was dem Volke Noahs und den \`Ad und den Tamud und denen nach ihnen widerfuhr. Und Allah will keine Ungerechtigkeit gegen die Menschen.
 
 # 4165
 
@@ -16930,7 +16930,7 @@ So vollendete Er sie als sieben Himmel in zwei Tagen, und jedem Himmel wies Er s
 
 # 4231
 
-Doch wenn sie sich abkehren, so sprich: "lch habe euch vor einem Blitzschlag wie dem Blitzschlag von `Ad und Tamud gewarnt."
+Doch wenn sie sich abkehren, so sprich: "lch habe euch vor einem Blitzschlag wie dem Blitzschlag von \`Ad und Tamud gewarnt."
 
 # 4232
 
@@ -16938,7 +16938,7 @@ Da kamen ihre Gesandten zu ihnen von vorn und hinten (und sagten): "Dient keinem
 
 # 4233
 
-Was nun die `Ad anbelangt, so betrugen sie sich ohne Recht hochmütig auf Erden und sagten: "Wer hat mehr Macht als wir?" Konnten sie denn nicht sehen, daß Allah, Der sie erschuf, mächtiger ist als sie? Jedoch sie fuhren fort, Unsere Zeichen zu leugnen.
+Was nun die \`Ad anbelangt, so betrugen sie sich ohne Recht hochmütig auf Erden und sagten: "Wer hat mehr Macht als wir?" Konnten sie denn nicht sehen, daß Allah, Der sie erschuf, mächtiger ist als sie? Jedoch sie fuhren fort, Unsere Zeichen zu leugnen.
 
 # 4234
 
@@ -17102,7 +17102,7 @@ Ha Mim.
 
 # 4274
 
-`Ain Sin Qaf
+\`Ain Sin Qaf
 
 # 4275
 
@@ -17810,7 +17810,7 @@ So bringt doch unsere Väter (zurück), wenn ihr die Wahrheit redet!"
 
 # 4451
 
-Sind sie besser oder das Volk des Tubba` und jene, die vor ihnen waren? Wir vertilgten sie; denn sie waren Verbrecher.
+Sind sie besser oder das Volk des Tubba\` und jene, die vor ihnen waren? Wir vertilgten sie; denn sie waren Verbrecher.
 
 # 4452
 
@@ -18130,7 +18130,7 @@ Und an dem Tage, wenn die Ungläubigen dem Feuer ausgesetzt werden(, wird gespro
 
 # 4531
 
-Und gedenke des Bruders der `Ad, als er sein Volk bei den Sanddünen warnte - und Warner sind schon vor ihm gewesen und nach ihm - (und sagte): "Dient Allah allein; denn ich fürchte für euch die Strafe eines großen Tages."
+Und gedenke des Bruders der \`Ad, als er sein Volk bei den Sanddünen warnte - und Warner sind schon vor ihm gewesen und nach ihm - (und sagte): "Dient Allah allein; denn ich fürchte für euch die Strafe eines großen Tages."
 
 # 4532
 
@@ -18578,11 +18578,11 @@ Schon vor ihnen leugneten das Volk Noahs und das Volk des Brunnens und die Tamud
 
 # 4643
 
-und die `Ad und Pharao und die Brüder des Lot
+und die \`Ad und Pharao und die Brüder des Lot
 
 # 4644
 
-und die Waldbewohner und das Volk von Tubba`. Alle diese haben die Gesandten der Lüge bezichtigt. Darum war Meine Drohung in Erfüllung gegangen.
+und die Waldbewohner und das Volk von Tubba\`. Alle diese haben die Gesandten der Lüge bezichtigt. Darum war Meine Drohung in Erfüllung gegangen.
 
 # 4645
 
@@ -18870,7 +18870,7 @@ So erfaßten Wir ihn und seine Heerscharen und warfen sie ins Meer; und er ist z
 
 # 4716
 
-Und (ein Zeichen war) in den `Ad, als Wir den verheerenden Wind gegen sie sandten
+Und (ein Zeichen war) in den \`Ad, als Wir den verheerenden Wind gegen sie sandten
 
 # 4717
 
@@ -19218,7 +19218,7 @@ Wahrlich, er hatte eines der größten Zeichen seines Herrn gesehen.
 
 # 4803
 
-Was haltet ihr nun von Al-Lat und AI-`Uzza
+Was haltet ihr nun von Al-Lat und AI-\`Uzza
 
 # 4804
 
@@ -19342,7 +19342,7 @@ und daß Er der Herr des Sirius ist
 
 # 4834
 
-und daß Er die einstigen `Ad vernichtete
+und daß Er die einstigen \`Ad vernichtete
 
 # 4835
 
@@ -19410,7 +19410,7 @@ Und zu ihnen kamen schon einige Geschichten, die abschreckende Warnungen enthalt
 
 # 4851
 
-- vollendete Weisheit; allein selbst die Warnungen richteten (bei ihnen) nichts aus
+\- vollendete Weisheit; allein selbst die Warnungen richteten (bei ihnen) nichts aus
 
 # 4852
 
@@ -19462,7 +19462,7 @@ Und wahrlich, Wir haben den Quran zur Ermahnung leicht gemacht. Gibt es also ein
 
 # 4864
 
-Die `Ad verleugneten (die Warner) Wie war denn Meine Strafe und Meine Warnung?
+Die \`Ad verleugneten (die Warner) Wie war denn Meine Strafe und Meine Warnung?
 
 # 4865
 
@@ -20970,7 +20970,7 @@ Und Allah legt denen, die glauben, das Beispiel von Pharaos Frau vor, als sie sa
 
 # 5241
 
-Und (Allah legt das Beispiel) von Maria, der Tochter `lmrans, (vor,) die ihre Scham bewahrte - darum hauchten Wir von Unserem Geist in diese ein; und sie glaubte an die Worte ihres Herrn und an Seine Schrift und war eine der Gehorsamen.
+Und (Allah legt das Beispiel) von Maria, der Tochter \`lmrans, (vor,) die ihre Scham bewahrte - darum hauchten Wir von Unserem Geist in diese ein; und sie glaubte an die Worte ihres Herrn und an Seine Schrift und war eine der Gehorsamen.
 
 # 5242
 
@@ -21314,7 +21314,7 @@ Und wie kannst du wissen, was Al-Haqqa ist?
 
 # 5327
 
-Die Tamud und die `Ad leugneten Al- Qaria.
+Die Tamud und die \`Ad leugneten Al- Qaria.
 
 # 5328
 
@@ -21322,7 +21322,7 @@ Dann, was die Tamud anbelangt, so wurden sie durch einen fürchterlichen Schall 
 
 # 5329
 
-Und was die `Ad anbelangt, so wurden sie durch einen gewaltigen, eiskalten Wind vernichtet
+Und was die \`Ad anbelangt, so wurden sie durch einen gewaltigen, eiskalten Wind vernichtet
 
 # 5330
 
@@ -21618,7 +21618,7 @@ und die, die vor der Strafe ihres Herrn besorgt sind
 
 # 5403
 
-- wahrlich die Strafe ihres Herrn ist nichts, wovor man sicher sein könnte -
+\- wahrlich die Strafe ihres Herrn ist nichts, wovor man sicher sein könnte -
 
 # 5404
 
@@ -22782,7 +22782,7 @@ Wahrlich, Gahannam ist ein Hinterhalt
 
 # 5694
 
-- eine Heimstätte für die Widerspenstigen
+\- eine Heimstätte für die Widerspenstigen
 
 # 5695
 
@@ -23474,7 +23474,7 @@ Nein! Das Buch der Rechtschaffenen ist gewiß in Illiyun.
 
 # 5867
 
-Und was lehrt dich wissen, was `Illiyun ist?
+Und was lehrt dich wissen, was \`Illiyun ist?
 
 # 5868
 
@@ -24002,7 +24002,7 @@ Ist hierin ein ausreichender Beweis für einen, der Verstand hat?
 
 # 5999
 
-Hast du nicht gesehen, wie dein Herr mit den `Ad verfuhr
+Hast du nicht gesehen, wie dein Herr mit den \`Ad verfuhr
 
 # 6000
 

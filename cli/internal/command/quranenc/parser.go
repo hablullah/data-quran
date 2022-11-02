@@ -2,6 +2,7 @@ package quranenc
 
 import (
 	"data-quran-cli/internal/norm"
+	"data-quran-cli/internal/util"
 	"encoding/xml"
 	"fmt"
 	"os"
@@ -103,6 +104,10 @@ func parseFile(path string) (*FlattenedData, bool, error) {
 			// Normalize text
 			translation := norm.NormalizeUnicode(ayah.Translation)
 			footnotes := norm.NormalizeUnicode(ayah.Footnotes)
+
+			// Make it safe for markdown
+			translation = util.MarkdownText(translation)
+			footnotes = util.MarkdownText(footnotes)
 
 			// Check if it's duplicated from previous ayah
 			var duplicated bool

@@ -106,7 +106,7 @@ They are like those who kindled a fire, and when it lighted up all around them, 
 
 # 25
 
-deaf, dumb, and blind: they will never return [to the right path].
+deaf, dumb, and blind: they will never return \[to the right path\].
 
 # 26
 
@@ -146,7 +146,7 @@ those who break God's covenant after they have pledged to keep it, and sever wha
 
 # 35
 
-How can you disbelieve in God when you were dead [lifeless] and He gave you life? He will let you die once more, then bring you back to life again, whereupon you will be returned to Him.
+How can you disbelieve in God when you were dead \[lifeless\] and He gave you life? He will let you die once more, then bring you back to life again, whereupon you will be returned to Him.
 
 # 36
 
@@ -154,7 +154,7 @@ It is He who created everything on the earth for you: then He turned towards hea
 
 # 37
 
-When your Lord said to the angels, "I am putting a successor on earth," they said, "Will You place someone there who will cause corruption on it and shed blood, while we glorify You with Your praise and extol Your holiness?" [God] answered, "Surely, I know that which you do not know."
+When your Lord said to the angels, "I am putting a successor on earth," they said, "Will You place someone there who will cause corruption on it and shed blood, while we glorify You with Your praise and extol Your holiness?" \[God\] answered, "Surely, I know that which you do not know."
 
 # 38
 
@@ -170,7 +170,7 @@ Then He said, "O Adam, tell them their names." When Adam had told them the names
 
 # 41
 
-When We said to the angels, "Bow down before Adam," they all bowed except for Iblis [Satan]. He refused and acted proudly and became an unbeliever.
+When We said to the angels, "Bow down before Adam," they all bowed except for Iblis \[Satan\]. He refused and acted proudly and became an unbeliever.
 
 # 42
 
@@ -182,7 +182,7 @@ But Satan caused them both to slip through this and thus brought about the loss 
 
 # 44
 
-Then Adam received some words [of prayer] from his Lord and He accepted his repentance. He is the Forgiving One, the Merciful.
+Then Adam received some words \[of prayer\] from his Lord and He accepted his repentance. He is the Forgiving One, the Merciful.
 
 # 45
 
@@ -198,7 +198,7 @@ Children of Israel, remember the favours I have bestowed upon you, and fulfil th
 
 # 48
 
-And believe in the message I have sent down which fulfils that [predictions about the last prophet in their Scripture] which you already possess and do not be foremost among those who deny its truth. Do not sell My revelations for a paltry price; fear Me alone.
+And believe in the message I have sent down which fulfils that \[predictions about the last prophet in their Scripture\] which you already possess and do not be foremost among those who deny its truth. Do not sell My revelations for a paltry price; fear Me alone.
 
 # 49
 
@@ -206,7 +206,7 @@ Do not mix truth with falsehood, or hide the truth when you know it.
 
 # 50
 
-Attend to your prayers, give the zakat [prescribed alms] and bow down with those who bow down.
+Attend to your prayers, give the zakat \[prescribed alms\] and bow down with those who bow down.
 
 # 51
 
@@ -230,7 +230,7 @@ Guard yourselves against the Day on which no soul shall in the least avail anoth
 
 # 56
 
-Remember when We delivered you from Pharaoh's people, who subjected you to grievous torment, slaying your sons and sparing only your daughters,  surely in that there was a great trial for you from your Lord,
+Remember when We delivered you from Pharaoh's people, who subjected you to grievous torment, slaying your sons and sparing only your daughters, surely in that there was a great trial for you from your Lord,
 
 # 57
 
@@ -238,7 +238,7 @@ and when We divided the sea for you and saved you and drowned Pharaoh's people, 
 
 # 58
 
-We appointed for Moses forty nights [on Mount Sinai], and in his absence you took to worshipping the calf, and thus became transgressors.
+We appointed for Moses forty nights \[on Mount Sinai\], and in his absence you took to worshipping the calf, and thus became transgressors.
 
 # 59
 
@@ -246,11 +246,11 @@ Yet after that We pardoned you, so that you might be grateful.
 
 # 60
 
-Remember when We gave Moses the Scripture, and the criterion [to distinguish between right and wrong], so that you might be guided.
+Remember when We gave Moses the Scripture, and the criterion \[to distinguish between right and wrong\], so that you might be guided.
 
 # 61
 
-When Moses said to his people, "O my people, you have indeed wronged yourselves by worshipping the calf; turn in repentance to your Creator and slay [the culprits] among you. That course is best for you in the sight of your Maker." He relented towards you. He is the Forgiving One, the Merciful.
+When Moses said to his people, "O my people, you have indeed wronged yourselves by worshipping the calf; turn in repentance to your Creator and slay \[the culprits\] among you. That course is best for you in the sight of your Maker." He relented towards you. He is the Forgiving One, the Merciful.
 
 # 62
 
@@ -274,7 +274,7 @@ But the wrongdoers changed the words to something other than what they had been 
 
 # 67
 
-When Moses prayed for water for his people, We said to him, "Strike the rock with your staff!" And there gushed out from it twelve springs. Each tribe knew its drinking-place. [We said], "Eat and drink what God has provided and do not act wrongfully in the land, spreading corruption."
+When Moses prayed for water for his people, We said to him, "Strike the rock with your staff!" And there gushed out from it twelve springs. Each tribe knew its drinking-place. \[We said\], "Eat and drink what God has provided and do not act wrongfully in the land, spreading corruption."
 
 # 68
 
@@ -286,7 +286,7 @@ The believers, the Jews, the Christians, and the Sabaeans, all those who believe
 
 # 70
 
-[Children of Israel], We made a covenant with you and raised the mountain high above you, saying, "Hold fast to what We have given you and bear its contents in mind, so that you may guard yourselves [against evil]."
+\[Children of Israel\], We made a covenant with you and raised the mountain high above you, saying, "Hold fast to what We have given you and bear its contents in mind, so that you may guard yourselves \[against evil\]."
 
 # 71
 
@@ -322,11 +322,11 @@ Moses answered, "Your Lord says, she should be a heifer which has not been yoked
 
 # 79
 
-Then, when you [Israelites] killed someone and started to blame one another, God brought to light what you concealed,
+Then, when you \[Israelites\] killed someone and started to blame one another, God brought to light what you concealed,
 
 # 80
 
-We said, "Strike [the corpse] with a part of it." Thus God restores the dead to life and shows you His signs, so that you may understand.
+We said, "Strike \[the corpse\] with a part of it." Thus God restores the dead to life and shows you His signs, so that you may understand.
 
 # 81
 
@@ -354,7 +354,7 @@ Woe to those who write the scripture with their own hands, and then declare, "Th
 
 # 87
 
-They say, "The Fire is not going to touch us, and [even if it does], it will only be for a few days!" Say [to them], "Have you received a promise from God, for God never breaks His promise, or do you attribute something to God which you do not know?"
+They say, "The Fire is not going to touch us, and \[even if it does\], it will only be for a few days!" Say \[to them\], "Have you received a promise from God, for God never breaks His promise, or do you attribute something to God which you do not know?"
 
 # 88
 
@@ -366,7 +366,7 @@ but those who believe and do good works are the heirs of Paradise; there they sh
 
 # 90
 
-Remember when We made a covenant with the Children of Israel, "Worship none but God and be good to your parents and to relatives and orphans and the needy. And speak kindly to people. Attend to your prayers and pay the zakat [prescribed alms]." But with the exception of a few, you turned away [in aversion] and paid no heed.
+Remember when We made a covenant with the Children of Israel, "Worship none but God and be good to your parents and to relatives and orphans and the needy. And speak kindly to people. Attend to your prayers and pay the zakat \[prescribed alms\]." But with the exception of a few, you turned away \[in aversion\] and paid no heed.
 
 # 91
 
@@ -386,11 +386,11 @@ To Moses We gave the Book and sent a succession of messengers after him. We gave
 
 # 95
 
-They say, "Our hearts are impenetrably wrapped [against whatever you say]," but God has rejected them for their denial; they have but little faith.
+They say, "Our hearts are impenetrably wrapped \[against whatever you say\]," but God has rejected them for their denial; they have but little faith.
 
 # 96
 
-And now that a Book has come to them from God, fulfilling that [predictions about the final prophet in their scriptures] which is with them, they deny it, whereas previously they used to pray for victory against the disbelievers, yet when there came to them that which they recognized as the truth, they rejected it. God's rejection is the due of all who deny the truth.
+And now that a Book has come to them from God, fulfilling that \[predictions about the final prophet in their scriptures\] which is with them, they deny it, whereas previously they used to pray for victory against the disbelievers, yet when there came to them that which they recognized as the truth, they rejected it. God's rejection is the due of all who deny the truth.
 
 # 97
 
@@ -418,11 +418,11 @@ But they will never wish for death, because of what their own hands have sent on
 
 # 103
 
-You will find them clinging to life more eagerly than any other people, even the polytheists. Any of them would wish to be given a life of a thousand years, though even such a long life would not save them from [Our] punishment; and God sees all that they do.
+You will find them clinging to life more eagerly than any other people, even the polytheists. Any of them would wish to be given a life of a thousand years, though even such a long life would not save them from \[Our\] punishment; and God sees all that they do.
 
 # 104
 
-Say, "Anyone who is an enemy of Gabriel, who by God's leave has brought down to your heart [the Quran] fulfilling that [predictions about the last prophet in the earlier revelations] which precedes it, and is a guidance and good news for the faithful,
+Say, "Anyone who is an enemy of Gabriel, who by God's leave has brought down to your heart \[the Quran\] fulfilling that \[predictions about the last prophet in the earlier revelations\] which precedes it, and is a guidance and good news for the faithful,
 
 # 105
 
@@ -438,11 +438,11 @@ Why is it that, whenever they make a covenant, some of them cast it aside? Most 
 
 # 108
 
-Whenever a messenger from God has come to them, fulfilling that [predictions] which they already had, some of those to whom the Book was given have cast off the Book of God behind their backs as if they had no knowledge.
+Whenever a messenger from God has come to them, fulfilling that \[predictions\] which they already had, some of those to whom the Book was given have cast off the Book of God behind their backs as if they had no knowledge.
 
 # 109
 
-They pursued what the devils falsely attributed to the kingdom of Solomon. Solomon was not an unbeliever: it is the devils who are unbelievers. They taught people witchcraft, and that which was sent down to Harut and Marut, the two angels in Babylon. But these two taught no one until they had said, "We are but a trial, therefore, do not disbelieve [in God's guidance]." So men learnt from them that by which they caused discord between man and wife; but they harmed no one thereby, except by the command of God; [on the contrary], these people learned that which would harm them and do them no good, knowing full well that whoever acquired [this knowledge] would have no share in the Hereafter. Evil indeed was the [price] for which they sold their souls, if only they had known it.
+They pursued what the devils falsely attributed to the kingdom of Solomon. Solomon was not an unbeliever: it is the devils who are unbelievers. They taught people witchcraft, and that which was sent down to Harut and Marut, the two angels in Babylon. But these two taught no one until they had said, "We are but a trial, therefore, do not disbelieve \[in God's guidance\]." So men learnt from them that by which they caused discord between man and wife; but they harmed no one thereby, except by the command of God; \[on the contrary\], these people learned that which would harm them and do them no good, knowing full well that whoever acquired \[this knowledge\] would have no share in the Hereafter. Evil indeed was the \[price\] for which they sold their souls, if only they had known it.
 
 # 110
 
@@ -466,7 +466,7 @@ Do you not know that the kingdom of the heavens and the earth belongs to God alo
 
 # 115
 
-Do you [all] want to question your messenger just as Moses was questioned previously? Anyone who exchanges faith for unbelief has strayed from the right path.
+Do you \[all\] want to question your messenger just as Moses was questioned previously? Anyone who exchanges faith for unbelief has strayed from the right path.
 
 # 116
 
@@ -478,7 +478,7 @@ Attend to your prayers and pay the prescribed alms; any good you store up for yo
 
 # 118
 
-They declare, "None shall ever enter Heaven unless he be a Jew or a Christian." This is their own wishful thinking. [Prophet], say, "Produce your evidence if you are telling the truth."
+They declare, "None shall ever enter Heaven unless he be a Jew or a Christian." This is their own wishful thinking. \[Prophet\], say, "Produce your evidence if you are telling the truth."
 
 # 119
 
@@ -518,7 +518,7 @@ Neither the Christians nor the Jews will be pleased with you until you follow th
 
 # 128
 
-Those whom We have given this Book follow it as it ought to be followed; it is they who [truly] believe in it; those who deny it will be the losers.
+Those whom We have given this Book follow it as it ought to be followed; it is they who \[truly\] believe in it; those who deny it will be the losers.
 
 # 129
 
@@ -534,7 +534,7 @@ When his Lord tested Abraham with certain commands and he fulfilled them, He sai
 
 # 132
 
-And We made the House [the Ka'bah] a place of assembly and a sanctuary for mankind, [saying], "Make the place where Abraham stood a place of worship." We commanded Abraham and Ishmael, "Purify My House for those who walk round it, those who stay there for devotion, and those who bow down and prostrate themselves."
+And We made the House \[the Ka'bah\] a place of assembly and a sanctuary for mankind, \[saying\], "Make the place where Abraham stood a place of worship." We commanded Abraham and Ishmael, "Purify My House for those who walk round it, those who stay there for devotion, and those who bow down and prostrate themselves."
 
 # 133
 
@@ -542,7 +542,7 @@ And when Abraham prayed, "My Lord, make this city a city of peace, and provide i
 
 # 134
 
-And when Abraham and Ishmael were laying the foundations of the House, [they prayed], "Our Lord, accept this from us; for You are All Hearing, All Knowing.
+And when Abraham and Ishmael were laying the foundations of the House, \[they prayed\], "Our Lord, accept this from us; for You are All Hearing, All Knowing.
 
 # 135
 
@@ -574,11 +574,11 @@ Those were a people that have passed away; what they did is theirs and what you 
 
 # 142
 
-They say, "Be Jews or Christians, and you shall be rightly guided." Say, "By no means! We believe in the faith of Abraham, who was ever inclined [to God]; he was not one of those who set up partners with God."
+They say, "Be Jews or Christians, and you shall be rightly guided." Say, "By no means! We believe in the faith of Abraham, who was ever inclined \[to God\]; he was not one of those who set up partners with God."
 
 # 143
 
-Say, "We believe in God and what was revealed to us; and what was revealed to Abraham, Ishmael, Isaac, Jacob, and their descendants, and what was given to Moses and Jesus and what was given to the [other] prophets by their Lord. We make no distinction between any of them. It is to Him that we surrender ourselves."
+Say, "We believe in God and what was revealed to us; and what was revealed to Abraham, Ishmael, Isaac, Jacob, and their descendants, and what was given to Moses and Jesus and what was given to the \[other\] prophets by their Lord. We make no distinction between any of them. It is to Him that we surrender ourselves."
 
 # 144
 
@@ -742,7 +742,7 @@ That is because God has sent down the Book with the truth. And those who pursue 
 
 # 184
 
-Virtue does not consist in whether you face towards the East or the West; virtue means believing in God, the Last Day, the angels, the Book and the prophets; the virtuous are those who, despite their love for it, give away their wealth to their relatives and to orphans and the very poor, and to travellers and those who ask [for charity], and to set slaves free, and who attend to their prayers and pay the alms, and who keep their pledges when they make them, and show patience in hardship and adversity, and in times of distress. Such are the true believers; and such are the God-fearing.
+Virtue does not consist in whether you face towards the East or the West; virtue means believing in God, the Last Day, the angels, the Book and the prophets; the virtuous are those who, despite their love for it, give away their wealth to their relatives and to orphans and the very poor, and to travellers and those who ask \[for charity\], and to set slaves free, and who attend to their prayers and pay the alms, and who keep their pledges when they make them, and show patience in hardship and adversity, and in times of distress. Such are the true believers; and such are the God-fearing.
 
 # 185
 
@@ -750,7 +750,7 @@ Believers, retribution is prescribed for you in cases of murder: the free man fo
 
 # 186
 
-In [this law of] retribution there is life for you, O people of understanding, so that perhaps you will be mindful of God.
+In \[this law of\] retribution there is life for you, O people of understanding, so that perhaps you will be mindful of God.
 
 # 187
 
@@ -782,7 +782,7 @@ When My servants ask you about Me, say that I am near. I respond to the call of 
 
 # 194
 
-It has been made lawful for you to go to your wives on the night of the fast: they are like a garment for you, and you are like a garment for them. God is aware that you were deceiving yourselves and He has turned in mercy towards you and pardoned you. So you may now consort with them and seek what God has ordained for you. Eat and drink until the white thread of dawn becomes distinct from the black. Then resume the fast until nightfall, and do not approach them during the nights of your devotional retreat in the mosques. These are the limits set by God, so do not approach them. Thus He makes clear His commandments to mankind, so that they may guard themselves [against evil].
+It has been made lawful for you to go to your wives on the night of the fast: they are like a garment for you, and you are like a garment for them. God is aware that you were deceiving yourselves and He has turned in mercy towards you and pardoned you. So you may now consort with them and seek what God has ordained for you. Eat and drink until the white thread of dawn becomes distinct from the black. Then resume the fast until nightfall, and do not approach them during the nights of your devotional retreat in the mosques. These are the limits set by God, so do not approach them. Thus He makes clear His commandments to mankind, so that they may guard themselves \[against evil\].
 
 # 195
 
@@ -798,7 +798,7 @@ And fight in God's cause against those who wage war against you, but do not comm
 
 # 198
 
-Slay them wherever you find them [those who fight against you]; drive them out of the places from which they drove you, for [religious] persecution is worse than killing. Do not fight them at the Sacred Mosque unless they fight you there. If they do fight you, slay them, such is the reward for those who deny the truth,
+Slay them wherever you find them \[those who fight against you\]; drive them out of the places from which they drove you, for \[religious\] persecution is worse than killing. Do not fight them at the Sacred Mosque unless they fight you there. If they do fight you, slay them, such is the reward for those who deny the truth,
 
 # 199
 
@@ -806,7 +806,7 @@ but if they desist, then surely God is most forgiving and merciful.
 
 # 200
 
-Fight them until there is no more fitna [religious persecution] and religion belongs to God alone. If they desist, then let there be no hostility, except towards aggressors.
+Fight them until there is no more fitna \[religious persecution\] and religion belongs to God alone. If they desist, then let there be no hostility, except towards aggressors.
 
 # 201
 
@@ -818,7 +818,7 @@ Spend for God's cause: do not cast yourselves into destruction by your own hands
 
 # 203
 
-Perform the Hajj and the minor pilgrimage [umrah] for the sake of God. If you are prevented from doing so, then make whatever offering you can afford and do not shave your heads until the offering has reached the place of sacrifice. But if any of you is ill, or has an ailment of the head, he should compensate by fasting or almsgiving or sacrifice. In times of peace, if any of you combines the minor pilgrimage with the Hajj, he should make whatever offering he can afford, but if he lacks the means, then let him fast three days during the pilgrimage and for seven days after his return; that is, ten days in all. That is incumbent upon anyone whose family does not live near the Sacred Mosque. Fear God and know that God is severe in punishment.
+Perform the Hajj and the minor pilgrimage \[umrah\] for the sake of God. If you are prevented from doing so, then make whatever offering you can afford and do not shave your heads until the offering has reached the place of sacrifice. But if any of you is ill, or has an ailment of the head, he should compensate by fasting or almsgiving or sacrifice. In times of peace, if any of you combines the minor pilgrimage with the Hajj, he should make whatever offering he can afford, but if he lacks the means, then let him fast three days during the pilgrimage and for seven days after his return; that is, ten days in all. That is incumbent upon anyone whose family does not live near the Sacred Mosque. Fear God and know that God is severe in punishment.
 
 # 204
 
@@ -826,7 +826,7 @@ The pilgrimage is in the appointed months. Whoever intends to perform it during 
 
 # 205
 
-You will be committing no sin if [during the pilgrimage] you seek to obtain any bounty from your Lord. When you return from Arafat, remember God at the sacred place, and remember Him as He has guided you. Before this you were surely astray.
+You will be committing no sin if \[during the pilgrimage\] you seek to obtain any bounty from your Lord. When you return from Arafat, remember God at the sacred place, and remember Him as He has guided you. Before this you were surely astray.
 
 # 206
 
@@ -886,7 +886,7 @@ The life of this world is made to appear attractive for those who deny the truth
 
 # 220
 
-Mankind was once a single community, [but then people developed differences], so God sent prophets to them as bearers of good tidings and warning, and sent down with them the Book containing the truth, so that He might judge between their disputes. It was only those to whom it [the scripture] was given who disagreed about it after clear signs had come to them, because of rivalry between them. God by His will guided the believers to the truth about which the others had disputed. God guides whom He will to a straight path.
+Mankind was once a single community, \[but then people developed differences\], so God sent prophets to them as bearers of good tidings and warning, and sent down with them the Book containing the truth, so that He might judge between their disputes. It was only those to whom it \[the scripture\] was given who disagreed about it after clear signs had come to them, because of rivalry between them. God by His will guided the believers to the truth about which the others had disputed. God guides whom He will to a straight path.
 
 # 221
 
@@ -898,11 +898,11 @@ They will ask you what they should spend on others. Say, "Whatever you give shou
 
 # 223
 
-Fighting [in defence] is ordained for you, abhorrent as it may be to you. You may dislike something although it is good for you, or like something although it is bad for you: God knows but you do not.
+Fighting \[in defence\] is ordained for you, abhorrent as it may be to you. You may dislike something although it is good for you, or like something although it is bad for you: God knows but you do not.
 
 # 224
 
-They ask you about fighting in the sacred month. Say, "To fight [in a sacred month] is a grave matter; but barring people from the path of God, to deny Him, and expelling people from the Sacred Mosque are far graver in His sight; and persecution is worse than killing." They will not stop fighting you until they make you renounce your faith, if they can. Whoever of you turns back from his faith and dies as a denier of the truth will have his deeds come to nothing in this world and the Hereafter, and he will be an inhabitant of the Fire, to abide therein forever.
+They ask you about fighting in the sacred month. Say, "To fight \[in a sacred month\] is a grave matter; but barring people from the path of God, to deny Him, and expelling people from the Sacred Mosque are far graver in His sight; and persecution is worse than killing." They will not stop fighting you until they make you renounce your faith, if they can. Whoever of you turns back from his faith and dies as a denier of the truth will have his deeds come to nothing in this world and the Hereafter, and he will be an inhabitant of the Fire, to abide therein forever.
 
 # 225
 
@@ -910,7 +910,7 @@ But those who have believed, migrated, and striven for God's cause, can look for
 
 # 226
 
-They ask you [Prophet] about intoxicants and gambling. Say, "There is great sin in both, although they have some benefit for people: but their harm is greater than their benefit." They ask you what they should spend [in God's cause]. Say, "Whatever is surplus to your needs." Thus God makes His commandments clear to you so that you may reflect
+They ask you \[Prophet\] about intoxicants and gambling. Say, "There is great sin in both, although they have some benefit for people: but their harm is greater than their benefit." They ask you what they should spend \[in God's cause\]. Say, "Whatever is surplus to your needs." Thus God makes His commandments clear to you so that you may reflect
 
 # 227
 
@@ -966,7 +966,7 @@ When you divorce women and they reach the end of their waiting period, do not pr
 
 # 240
 
-And the [divorced] mothers should nurse their children for two whole years, if they wish to complete the period of nursing; and during that period the father of the child shall be responsible for the maintenance of the mother in a reasonable manner. No soul is charged with more than it can bear. No mother should be made to suffer on account of her child, and no father should be made to suffer on account of his child. The same duties devolve upon the father's heir [in case of the death of the father]. But if, after consultation, they choose by mutual agreement to wean the child, there shall be no blame on them. Nor shall it be any offence for you if you desire to engage a wet-nurse for your children, provided you hand over what you have agreed to pay, in a reasonable manner. Have fear of God and know that God is observant of all your actions.
+And the \[divorced\] mothers should nurse their children for two whole years, if they wish to complete the period of nursing; and during that period the father of the child shall be responsible for the maintenance of the mother in a reasonable manner. No soul is charged with more than it can bear. No mother should be made to suffer on account of her child, and no father should be made to suffer on account of his child. The same duties devolve upon the father's heir \[in case of the death of the father\]. But if, after consultation, they choose by mutual agreement to wean the child, there shall be no blame on them. Nor shall it be any offence for you if you desire to engage a wet-nurse for your children, provided you hand over what you have agreed to pay, in a reasonable manner. Have fear of God and know that God is observant of all your actions.
 
 # 241
 
@@ -974,15 +974,15 @@ If any of you die and leave widows, the widows should wait for four months and t
 
 # 242
 
-It shall be no offence for you to hint at a proposal of marriage [to divorced or widowed women] or to cherish them in your hearts. God knows that you will bear them in mind. But do not enter into any secret arrangement with them, beyond conveying some indication to them of your inclination. Do not proceed with tying the marriage-knot before the end of their waiting period. Know that God has knowledge of all your thoughts. Therefore, take heed and bear in mind that God is forgiving and forbearing.
+It shall be no offence for you to hint at a proposal of marriage \[to divorced or widowed women\] or to cherish them in your hearts. God knows that you will bear them in mind. But do not enter into any secret arrangement with them, beyond conveying some indication to them of your inclination. Do not proceed with tying the marriage-knot before the end of their waiting period. Know that God has knowledge of all your thoughts. Therefore, take heed and bear in mind that God is forgiving and forbearing.
 
 # 243
 
-You will not be blamed [for not paying the dower money] if you divorce women when you have not yet consummated the marriage or fixed a dower money upon them, but make fair provision for them, the affluent according to his means and the straitened according to his means; this is binding on righteous men.
+You will not be blamed \[for not paying the dower money\] if you divorce women when you have not yet consummated the marriage or fixed a dower money upon them, but make fair provision for them, the affluent according to his means and the straitened according to his means; this is binding on righteous men.
 
 # 244
 
-If you divorce them before the marriage is consummated, but after their dower money has been settled, give them the half of their dower money, unless they [the women] agree to forego it, or the man [the husband] in whose hand lies the marriage knot foregoes it. To forego is nearer to righteousness. Do not neglect any chance of behaving benevolently towards each other. God is observant of whatever you do.
+If you divorce them before the marriage is consummated, but after their dower money has been settled, give them the half of their dower money, unless they \[the women\] agree to forego it, or the man \[the husband\] in whose hand lies the marriage knot foregoes it. To forego is nearer to righteousness. Do not neglect any chance of behaving benevolently towards each other. God is observant of whatever you do.
 
 # 245
 
@@ -1010,7 +1010,7 @@ Have you not seen those who fled their homes in their thousands for fear of deat
 
 # 251
 
-Fight [in defence] in God's cause and remember that He is all hearing and all knowing.
+Fight \[in defence\] in God's cause and remember that He is all hearing and all knowing.
 
 # 252
 
@@ -1026,7 +1026,7 @@ Their prophet said to them, "God has now appointed Talut to be your king." But t
 
 # 255
 
-Their prophet also said to them, "The sign of his kingship is that the Ark [of the Covenant] shall come to you. Therein shall be tranquillity from your Lord, and the relics which the House of Moses and the House of Aaron left behind. It will be borne by the angels. There is a sign in this for you, if you believe."
+Their prophet also said to them, "The sign of his kingship is that the Ark \[of the Covenant\] shall come to you. Therein shall be tranquillity from your Lord, and the relics which the House of Moses and the House of Aaron left behind. It will be borne by the angels. There is a sign in this for you, if you believe."
 
 # 256
 
@@ -1066,7 +1066,7 @@ God is the patron of the faithful. He leads them from darkness to the light. As 
 
 # 265
 
-Have you not heard of him who argued with Abraham about his Lord because God had bestowed the kingdom upon him? Abraham said, "My Lord is the one who gives life and brings death." He answered, "I [too] give life and bring death!" Abraham said, "God brings up the sun from the east, so bring it up yourself from the west." Then the disbeliever was confounded. God does not guide the wrongdoers.
+Have you not heard of him who argued with Abraham about his Lord because God had bestowed the kingdom upon him? Abraham said, "My Lord is the one who gives life and brings death." He answered, "I \[too\] give life and bring death!" Abraham said, "God brings up the sun from the east, so bring it up yourself from the west." Then the disbeliever was confounded. God does not guide the wrongdoers.
 
 # 266
 
@@ -1122,7 +1122,7 @@ If you give charity openly, it is good, but if you keep it secret and give to th
 
 # 279
 
-It is not your responsibility to make them follow the right path; God guides whomever He pleases. Whatever wealth you spend is to your own benefit, provided that you spend only to seek the favour of God. Whatever wealth you spend [for God's cause] shall be repaid to you in full and you shall not be wronged.
+It is not your responsibility to make them follow the right path; God guides whomever He pleases. Whatever wealth you spend is to your own benefit, provided that you spend only to seek the favour of God. Whatever wealth you spend \[for God's cause\] shall be repaid to you in full and you shall not be wronged.
 
 # 280
 
@@ -1150,7 +1150,7 @@ Believers, have fear of God, and give up what is still due to you from usury, if
 
 # 286
 
-For, if you do not do so, then know that you are at war with God and His Messenger. But if you repent, you may retain your capital. Do not wrong [others] and you will not be wronged.
+For, if you do not do so, then know that you are at war with God and His Messenger. But if you repent, you may retain your capital. Do not wrong \[others\] and you will not be wronged.
 
 # 287
 
@@ -1162,7 +1162,7 @@ Fear the Day when you shall be made to return to God; then every soul shall be p
 
 # 289
 
-Believers, when you contract a debt for a stated term, put it down in writing; have a scribe write it down with fairness between you. No scribe should refuse to write: let him write as God has taught him, let the debtor dictate, and let him fear God, his Lord, and not diminish [the debt] at all. If the debtor is weak in mind or body, or unable to dictate, then in fairness let his guardian dictate for him. Call in two of your men as witnesses. But if two men cannot be found, then call one man and two women out of those you approve of as witnesses, so that if one of the two women should forget the other can remind her. Let the witnesses not refuse when they are summoned. Do not be disinclined to write down your debts, be they small or large, together with the date of payment. This is more just in the sight of God; it is more reliable as testimony, and more likely to prevent doubts arising between you, unless it be ready merchandise which you give or take from hand to hand, then it will not be held against you for not writing it down. Have witnesses present whenever you trade with one another, and let no harm be done to either scribe or witness, for if you did cause them harm, it would be a crime on your part. Be mindful of God; He teaches you: He has full knowledge of everything.
+Believers, when you contract a debt for a stated term, put it down in writing; have a scribe write it down with fairness between you. No scribe should refuse to write: let him write as God has taught him, let the debtor dictate, and let him fear God, his Lord, and not diminish \[the debt\] at all. If the debtor is weak in mind or body, or unable to dictate, then in fairness let his guardian dictate for him. Call in two of your men as witnesses. But if two men cannot be found, then call one man and two women out of those you approve of as witnesses, so that if one of the two women should forget the other can remind her. Let the witnesses not refuse when they are summoned. Do not be disinclined to write down your debts, be they small or large, together with the date of payment. This is more just in the sight of God; it is more reliable as testimony, and more likely to prevent doubts arising between you, unless it be ready merchandise which you give or take from hand to hand, then it will not be held against you for not writing it down. Have witnesses present whenever you trade with one another, and let no harm be done to either scribe or witness, for if you did cause them harm, it would be a crime on your part. Be mindful of God; He teaches you: He has full knowledge of everything.
 
 # 290
 
@@ -1174,11 +1174,11 @@ All that the heavens and the earth contain belongs to God, whether you disclose 
 
 # 292
 
-The Messenger believes in what has been sent down to him from his Lord, and [so do] believers. They all believe in God and His angels, His scriptures, and His messengers. They say, "We do not differentiate between any of His messengers. We hear and obey. Grant us Your forgiveness, Lord, to You we shall all return!"
+The Messenger believes in what has been sent down to him from his Lord, and \[so do\] believers. They all believe in God and His angels, His scriptures, and His messengers. They say, "We do not differentiate between any of His messengers. We hear and obey. Grant us Your forgiveness, Lord, to You we shall all return!"
 
 # 293
 
-God does not charge a soul with more than it can bear. It shall be requited for whatever good and whatever evil it has done. [They pray], "Our Lord, do not take us to task if we forget or make a mistake! Our Lord, do not place on us a burden like the one You placed on those before us! Our Lord, do not place on us a burden we have not the strength to bear! Pardon us; and forgive us; and have mercy on us. You are our Lord and Sustainer, so help us against those who deny the truth."
+God does not charge a soul with more than it can bear. It shall be requited for whatever good and whatever evil it has done. \[They pray\], "Our Lord, do not take us to task if we forget or make a mistake! Our Lord, do not place on us a burden like the one You placed on those before us! Our Lord, do not place on us a burden we have not the strength to bear! Pardon us; and forgive us; and have mercy on us. You are our Lord and Sustainer, so help us against those who deny the truth."
 
 # 294
 
@@ -1190,11 +1190,11 @@ God! There is no deity save Him, the Living, the Sustainer.
 
 # 296
 
-He has sent down the Book to you with truth, which fulfils [the predictions] in the Scriptures that preceded it: He sent down the Torah and the Gospel
+He has sent down the Book to you with truth, which fulfils \[the predictions\] in the Scriptures that preceded it: He sent down the Torah and the Gospel
 
 # 297
 
-in the past as guidance for mankind; He has [also] sent down the Standard by which to discern the true from the false. Surely those who deny God's signs will suffer severe punishment. God is mighty and capable of retribution.
+in the past as guidance for mankind; He has \[also\] sent down the Standard by which to discern the true from the false. Surely those who deny God's signs will suffer severe punishment. God is mighty and capable of retribution.
 
 # 298
 
@@ -1230,7 +1230,7 @@ Say to those who deny the truth, "You shall be overcome and driven into Hell -- 
 
 # 306
 
-There was a sign for you in the two groups which met face to face [at Badr], one party fighting for the cause of God and the other made up of those who deny the truth. The faithful saw with their own eyes that the others were twice their number: but God strengthens with His succour whom He wills. In this, there is indeed a lesson for all who have eyes to see.
+There was a sign for you in the two groups which met face to face \[at Badr\], one party fighting for the cause of God and the other made up of those who deny the truth. The faithful saw with their own eyes that the others were twice their number: but God strengthens with His succour whom He wills. In this, there is indeed a lesson for all who have eyes to see.
 
 # 307
 
@@ -1246,7 +1246,7 @@ those who say, "Lord, we believe in You, forgive us our sins and keep us from th
 
 # 310
 
-those who are steadfast, truthful, obedient, and those who spend [for God's cause] and who pray before dawn for forgiveness."
+those who are steadfast, truthful, obedient, and those who spend \[for God's cause\] and who pray before dawn for forgiveness."
 
 # 311
 
@@ -1298,7 +1298,7 @@ Say, "God knows everything that is in your heart, whether you conceal it or reve
 
 # 323
 
-On the Day when every human being will find himself faced with all the good that he has done, and with all the evil that he has done, many will wish that there were a long space of time between himself and that [Day]. God admonishes you to fear Him, but God is compassionate towards His servants.
+On the Day when every human being will find himself faced with all the good that he has done, and with all the evil that he has done, many will wish that there were a long space of time between himself and that \[Day\]. God admonishes you to fear Him, but God is compassionate towards His servants.
 
 # 324
 
@@ -1334,23 +1334,23 @@ Thereupon Zachariah prayed to his Lord, saying, "Lord, grant me by Your own grac
 
 # 332
 
-As he stood praying in the chamber, the angels called out to him, saying, "God gives you the good news of John, who shall confirm the Word from God, and [shall be] outstanding among men, and utterly chaste, and a prophet from among the righteous."
+As he stood praying in the chamber, the angels called out to him, saying, "God gives you the good news of John, who shall confirm the Word from God, and \[shall be\] outstanding among men, and utterly chaste, and a prophet from among the righteous."
 
 # 333
 
-"Lord," said Zachariah, "how shall I have a son when I am now overtaken by old age and my wife is barren?" "Such is the will of God," replied [the angel], "He does what He pleases."
+"Lord," said Zachariah, "how shall I have a son when I am now overtaken by old age and my wife is barren?" "Such is the will of God," replied \[the angel\], "He does what He pleases."
 
 # 334
 
-He said, "My Lord, grant me a sign." [The angel] said, "Your sign is that you will not be able to speak to people for three days except by signs. Remember your Lord much and glorify Him morning and evening."
+He said, "My Lord, grant me a sign." \[The angel\] said, "Your sign is that you will not be able to speak to people for three days except by signs. Remember your Lord much and glorify Him morning and evening."
 
 # 335
 
-The angels said, "Mary, God has selected you and purified you. He has selected you over [all] the women of your time.
+The angels said, "Mary, God has selected you and purified you. He has selected you over \[all\] the women of your time.
 
 # 336
 
-O Mary! Remain truly devout to your Sustainer, and prostrate yourself in worship, and bow down with those who bow down [before Him]."
+O Mary! Remain truly devout to your Sustainer, and prostrate yourself in worship, and bow down with those who bow down \[before Him\]."
 
 # 337
 
@@ -1366,7 +1366,7 @@ And he shall speak to men in his cradle, and as a grown man, and shall be one of
 
 # 340
 
-"Lord," she said, "how can I have a child when no man has touched me?" [The angel] replied, "Thus it is: God creates what He wills: when He wills a thing He need only say, "Be," and it is.
+"Lord," she said, "how can I have a child when no man has touched me?" \[The angel\] replied, "Thus it is: God creates what He wills: when He wills a thing He need only say, "Be," and it is.
 
 # 341
 
@@ -1378,7 +1378,7 @@ He will make him a messenger to the Children of Israel. He will say: "I have com
 
 # 343
 
-I come to fulfill [the prediction] of the Torah which preceded me and to make lawful for you some of what was forbidden to you and I come to you with a sign from your Lord. So fear God and obey me.
+I come to fulfill \[the prediction\] of the Torah which preceded me and to make lawful for you some of what was forbidden to you and I come to you with a sign from your Lord. So fear God and obey me.
 
 # 344
 
@@ -1398,7 +1398,7 @@ And they schemed but God also schemed and God is the Best of Schemers.
 
 # 348
 
-God said, "O Jesus, I shall take you to Me and will raise you up to Me and shall clear you [of the calumnies] of the disbelievers, and shall place those who follow you above those who deny the truth, until the Day of Judgement; then to Me shall all return and I will judge between you regarding your disputes.
+God said, "O Jesus, I shall take you to Me and will raise you up to Me and shall clear you \[of the calumnies\] of the disbelievers, and shall place those who follow you above those who deny the truth, until the Day of Judgement; then to Me shall all return and I will judge between you regarding your disputes.
 
 # 349
 
@@ -1422,7 +1422,7 @@ This is the truth from your Lord, so do not be among the doubters.
 
 # 354
 
-And if anyone should argue with you about this [truth] after the knowledge you have received, say to them, "Come! Let us gather our sons and your sons, our women and your women, and ourselves and yourselves; and then let us pray earnestly and invoke the curse of God upon the liars.
+And if anyone should argue with you about this \[truth\] after the knowledge you have received, say to them, "Come! Let us gather our sons and your sons, our women and your women, and ourselves and yourselves; and then let us pray earnestly and invoke the curse of God upon the liars.
 
 # 355
 
@@ -1450,7 +1450,7 @@ Abraham was neither a Jew nor a Christian. He was an upright man, one who had su
 
 # 361
 
-Surely, the people who are closest to Abraham are those who followed him and this Prophet [Muhammad], and those who believe in him. God is the guardian of the believers.
+Surely, the people who are closest to Abraham are those who followed him and this Prophet \[Muhammad\], and those who believe in him. God is the guardian of the believers.
 
 # 362
 
@@ -1466,11 +1466,11 @@ People of the Book! Why do you mix truth with falsehood and knowingly conceal th
 
 # 365
 
-Some of the People of the Book say to one another, "Believe in what is revealed to the faithful in the morning and deny it in the evening, so that they [the Muslims] may themselves abandon their faith [in confusion].
+Some of the People of the Book say to one another, "Believe in what is revealed to the faithful in the morning and deny it in the evening, so that they \[the Muslims\] may themselves abandon their faith \[in confusion\].
 
 # 366
 
-Believe only in those who follow your own religion." Say to them, "Surely, the true guidance is the guidance from God." [But you think it is impossible that] someone else may be granted [revelation] such as you were granted -- or else that they should contend against you before your Lord. Say, "All grace is in the hands of God; He grants it to whom He wills: for God is boundless, and all knowing,
+Believe only in those who follow your own religion." Say to them, "Surely, the true guidance is the guidance from God." \[But you think it is impossible that\] someone else may be granted \[revelation\] such as you were granted -- or else that they should contend against you before your Lord. Say, "All grace is in the hands of God; He grants it to whom He wills: for God is boundless, and all knowing,
 
 # 367
 
@@ -1494,7 +1494,7 @@ There are some among them who distort the Book by the way they speak to make you
 
 # 372
 
-No one to whom God has given the Scriptures and on whom He has bestowed wisdom and prophethood would say to men, "Worship me instead of God." [He would say rather], "Be devoted servants of God, for you have taught and studied the Scriptures."
+No one to whom God has given the Scriptures and on whom He has bestowed wisdom and prophethood would say to men, "Worship me instead of God." \[He would say rather\], "Be devoted servants of God, for you have taught and studied the Scriptures."
 
 # 373
 
@@ -1502,7 +1502,7 @@ Nor would he enjoin you to take the angels and the prophets as your lords; how c
 
 # 374
 
-When God made a covenant with the prophets, He said, "Here is the Book and the wisdom which I have given you. When there comes to you a messenger fulfilling that [predictions about him in their Scripture] which is with you, you must believe in him and help him. Do you then affirm this and accept the responsibility I have laid upon you in these terms?" They said, "We will affirm it." God said, "Then bear witness, and I will bear witness with you."
+When God made a covenant with the prophets, He said, "Here is the Book and the wisdom which I have given you. When there comes to you a messenger fulfilling that \[predictions about him in their Scripture\] which is with you, you must believe in him and help him. Do you then affirm this and accept the responsibility I have laid upon you in these terms?" They said, "We will affirm it." God said, "Then bear witness, and I will bear witness with you."
 
 # 375
 
@@ -1518,11 +1518,11 @@ Say, "We believe in God and in what has been sent down to us and to Abraham, Ish
 
 # 378
 
-If anyone seeks a religion other than Islam [submission to God], it will not be accepted from him; he will be among the losers in the Hereafter.
+If anyone seeks a religion other than Islam \[submission to God\], it will not be accepted from him; he will be among the losers in the Hereafter.
 
 # 379
 
-How would God bestow His guidance upon people who have opted for unbelief after having embraced the faith and having borne witness that this Messenger is true and [after] all evidence of the truth has come to them? For, God does not guide such wrongdoers:
+How would God bestow His guidance upon people who have opted for unbelief after having embraced the faith and having borne witness that this Messenger is true and \[after\] all evidence of the truth has come to them? For, God does not guide such wrongdoers:
 
 # 380
 
@@ -1562,7 +1562,7 @@ Say, "God speaks the Truth, so follow the faith of Abraham. He was an upright ma
 
 # 389
 
-The first House to be built for mankind was the one at Bakkah [Makkah]. It is a blessed place; a source of guidance for the whole world.
+The first House to be built for mankind was the one at Bakkah \[Makkah\]. It is a blessed place; a source of guidance for the whole world.
 
 # 390
 
@@ -1618,7 +1618,7 @@ His is all that the heavens and the earth contain. To God shall all things retur
 
 # 403
 
-You are indeed the best community that has ever been brought forth for [the good of] mankind. You enjoin what is good, and forbid what is evil, and you believe in God. If the People of the Book had also believed, it would have surely been better for them. Some of them are true believers, but most of them are disobedient.
+You are indeed the best community that has ever been brought forth for \[the good of\] mankind. You enjoin what is good, and forbid what is evil, and you believe in God. If the People of the Book had also believed, it would have surely been better for them. Some of them are true believers, but most of them are disobedient.
 
 # 404
 
@@ -1638,7 +1638,7 @@ who believe in God and the Last Day, who enjoin justice and forbid evil and vie 
 
 # 408
 
-and they will not be denied [the reward] for whatever good deeds they do: God knows the righteous.
+and they will not be denied \[the reward\] for whatever good deeds they do: God knows the righteous.
 
 # 409
 
@@ -1674,7 +1674,7 @@ God had already helped you at Badr, when you were weak. Fear God, so that you ma
 
 # 417
 
-[And remember] when you said to the believers, "Does it not suffice that your Lord helps you by sending down three thousand angels?
+\[And remember\] when you said to the believers, "Does it not suffice that your Lord helps you by sending down three thousand angels?
 
 # 418
 
@@ -1726,7 +1726,7 @@ their recompense is forgiveness from their Lord, and Gardens with rivers flowing
 
 # 430
 
-There are many examples [of the communities] that have passed away before you: travel through the land, and see what was the end of those who rejected the Truth.
+There are many examples \[of the communities\] that have passed away before you: travel through the land, and see what was the end of those who rejected the Truth.
 
 # 431
 
@@ -1786,7 +1786,7 @@ We will strike awe into the hearts of those who deny the truth, because they hav
 
 # 445
 
-And God made good His promise to you when by His leave you were about to destroy your foes, but then your courage failed you and you disagreed among yourselves [concerning the Prophet's direction] and disobeyed it, after He had brought you within sight of what you wished for, some of you desired the goods of this world and some of you desired the Hereafter, then in order that He might put you to the test, He prevented you from defeating your foes. But now He has pardoned you: God is most gracious to the believers.
+And God made good His promise to you when by His leave you were about to destroy your foes, but then your courage failed you and you disagreed among yourselves \[concerning the Prophet's direction\] and disobeyed it, after He had brought you within sight of what you wished for, some of you desired the goods of this world and some of you desired the Hereafter, then in order that He might put you to the test, He prevented you from defeating your foes. But now He has pardoned you: God is most gracious to the believers.
 
 # 446
 
@@ -1794,11 +1794,11 @@ When you were running away and did not look back at anyone, while the Messenger 
 
 # 447
 
-Then, after sorrow He sent down peace [of mind] upon you in the shape of drowsiness that overcame some of you, but there were others who were anxious only about themselves. They entertained false notions about God, like the notions of the days of ignorance. "Have we any say in the matter?" they asked. Say to them, "All is in the hands of God." They conceal in their hearts what they would not reveal to you. They say, "Had we had any say in the matter, none of us would have been killed here." Say to them, "Had you stayed in your homes, those whose death had been decreed would nevertheless have gone forth to the places where they were destined to die." And all this befell you so that God might test what is in your minds. And in order to purify what was in your hearts. For God is aware of your innermost thoughts.
+Then, after sorrow He sent down peace \[of mind\] upon you in the shape of drowsiness that overcame some of you, but there were others who were anxious only about themselves. They entertained false notions about God, like the notions of the days of ignorance. "Have we any say in the matter?" they asked. Say to them, "All is in the hands of God." They conceal in their hearts what they would not reveal to you. They say, "Had we had any say in the matter, none of us would have been killed here." Say to them, "Had you stayed in your homes, those whose death had been decreed would nevertheless have gone forth to the places where they were destined to die." And all this befell you so that God might test what is in your minds. And in order to purify what was in your hearts. For God is aware of your innermost thoughts.
 
 # 448
 
-Those of you who turned away on the day the two hosts met [in battle] were made to slip by Satan on account of some of their deeds. But God has pardoned them: God is forgiving and forbearing.
+Those of you who turned away on the day the two hosts met \[in battle\] were made to slip by Satan on account of some of their deeds. But God has pardoned them: God is forgiving and forbearing.
 
 # 449
 
@@ -1842,7 +1842,7 @@ What! When a misfortune befalls you, after you had yourself inflicted twice as h
 
 # 459
 
-the misfortune which befell you on the day when the two armies met happened by God's leave, so that He might mark out the [true] believers
+the misfortune which befell you on the day when the two armies met happened by God's leave, so that He might mark out the \[true\] believers
 
 # 460
 
@@ -1862,7 +1862,7 @@ they are joyful because of what God has bestowed on them of His grace and they r
 
 # 464
 
-rejoicing in God's grace and bounty. [They know that] God will not fail to requite the believers.
+rejoicing in God's grace and bounty. \[They know that\] God will not fail to requite the believers.
 
 # 465
 
@@ -1878,7 +1878,7 @@ They returned home with God's favour and blessings, without having been touched 
 
 # 468
 
-It is Satan who instills fear [into you] of his followers; do not fear them. But fear Me, if you are true believers.
+It is Satan who instills fear \[into you\] of his followers; do not fear them. But fear Me, if you are true believers.
 
 # 469
 
@@ -1942,7 +1942,7 @@ There are signs in the creation of the heavens and the earth, and in the alterna
 
 # 484
 
-who remember God while standing, sitting and [lying] on their sides, and who ponder over the creation of the heavens and the earth, saying, "Lord, You have not created all this without purpose. Glory be to You! Save us from the torment of the Fire.
+who remember God while standing, sitting and \[lying\] on their sides, and who ponder over the creation of the heavens and the earth, saying, "Lord, You have not created all this without purpose. Glory be to You! Save us from the torment of the Fire.
 
 # 485
 
@@ -1982,7 +1982,7 @@ Believers, endure, vie with each other in endurance, stand firm in your faith an
 
 # 494
 
-O mankind! Fear your Lord, who created you from a single soul. He created its mate from it and from the two of them spread countless men and women [throughout the earth]. Fear God, in whose name you appeal to one another, and be mindful of your obligations in respect of ties of kinship. God is always watching over you.
+O mankind! Fear your Lord, who created you from a single soul. He created its mate from it and from the two of them spread countless men and women \[throughout the earth\]. Fear God, in whose name you appeal to one another, and be mindful of your obligations in respect of ties of kinship. God is always watching over you.
 
 # 495
 
@@ -1990,7 +1990,7 @@ Give the orphans the possessions that belong to them, do not exchange good thing
 
 # 496
 
-If you fear that you cannot deal fairly with orphan girls, you may marry women of your choice, two or three or four; but if you fear that you might not be able to treat them with equal fairness, then only one -- or [from among] those whom you rightfully possess. That is more likely to keep you from committing an injustice.
+If you fear that you cannot deal fairly with orphan girls, you may marry women of your choice, two or three or four; but if you fear that you might not be able to treat them with equal fairness, then only one -- or \[from among\] those whom you rightfully possess. That is more likely to keep you from committing an injustice.
 
 # 497
 
@@ -2006,7 +2006,7 @@ Keep a close check on orphans till they attain the age of marriage; then, if you
 
 # 500
 
-Men shall have a share in what parents and relatives leave behind, and women shall have a share in what parents and relatives leave behind, whether it be little or much. This is ordained [by God].
+Men shall have a share in what parents and relatives leave behind, and women shall have a share in what parents and relatives leave behind, whether it be little or much. This is ordained \[by God\].
 
 # 501
 
@@ -2022,11 +2022,11 @@ Those who consume the property of orphans unjustly are actually swallowing fire 
 
 # 504
 
-Concerning your children, God enjoins you that a male shall receive a share equivalent to that of two females. But if there are more than two females, then their share is two thirds of the inheritance. If there is only one, she will receive the half. Each of your parents receives a sixth of what you leave if you have children. If you are childless and your heirs are your parents, your mother receives a third. If you have brothers [or sisters] your mother receives a sixth, after [the deduction of] any bequest you make or the repayment of any debts with regard to your father and your sons. You do not know which of them is going to benefit you more: but this fixing of portions is by God and He is all knowing and all wise.
+Concerning your children, God enjoins you that a male shall receive a share equivalent to that of two females. But if there are more than two females, then their share is two thirds of the inheritance. If there is only one, she will receive the half. Each of your parents receives a sixth of what you leave if you have children. If you are childless and your heirs are your parents, your mother receives a third. If you have brothers \[or sisters\] your mother receives a sixth, after \[the deduction of\] any bequest you make or the repayment of any debts with regard to your father and your sons. You do not know which of them is going to benefit you more: but this fixing of portions is by God and He is all knowing and all wise.
 
 # 505
 
-You will inherit half of what your wives leave, provided they have left no children. But if they leave children then you inherit a quarter of what they leave, after payment of any bequests they may have made or any debts they may have incurred. Your wives shall inherit one quarter of what you leave if you are childless. But if you leave children, your wives shall inherit one eighth, after payment of any bequest or debts. If a man or woman has no direct heirs [neither children or parents] but has left a brother or a sister, they shall each inherit one sixth, but if they are more than two, they share one third between them, after payment of any bequests or debts, so that no harm is done to anyone. That is a commandment from God: God is all knowing and forbearing.
+You will inherit half of what your wives leave, provided they have left no children. But if they leave children then you inherit a quarter of what they leave, after payment of any bequests they may have made or any debts they may have incurred. Your wives shall inherit one quarter of what you leave if you are childless. But if you leave children, your wives shall inherit one eighth, after payment of any bequest or debts. If a man or woman has no direct heirs \[neither children or parents\] but has left a brother or a sister, they shall each inherit one sixth, but if they are more than two, they share one third between them, after payment of any bequests or debts, so that no harm is done to anyone. That is a commandment from God: God is all knowing and forbearing.
 
 # 506
 
@@ -2070,7 +2070,7 @@ Do not marry women whom your fathers married, except for what has already taken 
 
 # 516
 
-You are forbidden to take as wives your mothers, daughters, sisters, paternal and maternal aunts, your brothers' daughters and your sisters' daughters, your foster mothers and foster sisters, your wives' mothers and stepdaughters in your protection and the daughters of your wives with whom you have consummated your marriage; but if you have not consummated your marriage then you will not be blamed [if you marry their daughters.] You are also forbidden to marry the spouses of your sons or two sisters together, except what has already passed. Surely, God is ever-forgiving and merciful.
+You are forbidden to take as wives your mothers, daughters, sisters, paternal and maternal aunts, your brothers' daughters and your sisters' daughters, your foster mothers and foster sisters, your wives' mothers and stepdaughters in your protection and the daughters of your wives with whom you have consummated your marriage; but if you have not consummated your marriage then you will not be blamed \[if you marry their daughters.\] You are also forbidden to marry the spouses of your sons or two sisters together, except what has already passed. Surely, God is ever-forgiving and merciful.
 
 # 517
 
@@ -2114,7 +2114,7 @@ We have appointed heirs for everything that parents and close relatives leave be
 
 # 527
 
-Men are protectors of women, because God has made some of them excel others and because they spend their wealth on them. So virtuous women are obedient and guard in the husband's absence what God would have them guard. As for those from whom you apprehend infidelity, admonish them, then refuse to share their beds, and finally hit them [lightly]. Then if they obey you, take no further action against them. For God is High, Great.
+Men are protectors of women, because God has made some of them excel others and because they spend their wealth on them. So virtuous women are obedient and guard in the husband's absence what God would have them guard. As for those from whom you apprehend infidelity, admonish them, then refuse to share their beds, and finally hit them \[lightly\]. Then if they obey you, take no further action against them. For God is High, Great.
 
 # 528
 
@@ -2130,7 +2130,7 @@ who are miserly and enjoin others to be the same and conceal the riches which Go
 
 # 531
 
-And [God does not like] those who spend their wealth for the sake of ostentation, who do not believe in God or the Last Day. Whoever has Satan as his companion has an evil companion.
+And \[God does not like\] those who spend their wealth for the sake of ostentation, who do not believe in God or the Last Day. Whoever has Satan as his companion has an evil companion.
 
 # 532
 
@@ -2166,7 +2166,7 @@ Some Jews take words out of their context and say, "We have heard, but we disobe
 
 # 540
 
-O People of the Book, believe in what We have sent down, fulfilling [the predictions] that is with you, before We destroy [your sense of] direction, so as to confound or reject you, as We rejected those who broke the Sabbath: God's command is always carried out.
+O People of the Book, believe in what We have sent down, fulfilling \[the predictions\] that is with you, before We destroy \[your sense of\] direction, so as to confound or reject you, as We rejected those who broke the Sabbath: God's command is always carried out.
 
 # 541
 
@@ -2218,7 +2218,7 @@ Believers, obey God and obey the Messenger and those who have been entrusted wit
 
 # 553
 
-Have you not seen those who profess to believe in what has been revealed to you and [to other prophets] before you? They seek the judgement of evil people, although they were commanded not to obey them. And Satan wants to lead them far astray.
+Have you not seen those who profess to believe in what has been revealed to you and \[to other prophets\] before you? They seek the judgement of evil people, although they were commanded not to obey them. And Satan wants to lead them far astray.
 
 # 554
 
@@ -2242,7 +2242,7 @@ By your Lord, they will not be true believers until they seek your arbitration i
 
 # 559
 
-If We had commanded them, "Lay down your lives or leave your dwellings," they would have not done it, save a few of them. If they had done what they were instructed to do, it would have been better for them, as well as more strengthening [for their faith],
+If We had commanded them, "Lay down your lives or leave your dwellings," they would have not done it, save a few of them. If they had done what they were instructed to do, it would have been better for them, as well as more strengthening \[for their faith\],
 
 # 560
 
@@ -2314,7 +2314,7 @@ When they hear any news, whether of peace or of something fearful, they spread i
 
 # 577
 
-So fight for the cause of God. You are responsible only for yourself. Urge on the believers. God may fend off the power [violence] of those who deny the truth, for He is stronger in might and stronger in inflicting punishment.
+So fight for the cause of God. You are responsible only for yourself. Urge on the believers. God may fend off the power \[violence\] of those who deny the truth, for He is stronger in might and stronger in inflicting punishment.
 
 # 578
 
@@ -2330,7 +2330,7 @@ He is God: there is no deity other than Him. He will gather you all together on 
 
 # 581
 
-How is it that you are divided into two groups regarding the hypocrites, when God Himself cast them back [to disbelief] because of their misdeeds? Do you seek to guide those whom God allows to go astray? You cannot guide those whom God allows to go astray.
+How is it that you are divided into two groups regarding the hypocrites, when God Himself cast them back \[to disbelief\] because of their misdeeds? Do you seek to guide those whom God allows to go astray? You cannot guide those whom God allows to go astray.
 
 # 582
 
@@ -2382,7 +2382,7 @@ Whoever emigrates for the cause of God will find many places of refuge in the la
 
 # 594
 
-When you [believers] are travelling in the land, you will not be blamed for shortening your prayers, if you fear the disbelievers may harm you. They are your avowed enemies.
+When you \[believers\] are travelling in the land, you will not be blamed for shortening your prayers, if you fear the disbelievers may harm you. They are your avowed enemies.
 
 # 595
 
@@ -2446,11 +2446,11 @@ Surely, God will not forgive the ascribing of partners to Him. He forgives whoev
 
 # 610
 
-They [the polytheists] call upon female deities, and they invoke none but Satan, the rebellious one,
+They \[the polytheists\] call upon female deities, and they invoke none but Satan, the rebellious one,
 
 # 611
 
-whom God has rejected. He said [to God], "I will assuredly take a number of Your servants,
+whom God has rejected. He said \[to God\], "I will assuredly take a number of Your servants,
 
 # 612
 
@@ -2494,7 +2494,7 @@ If a woman fears ill-treatment or indifference on the part of her husband, it sh
 
 # 622
 
-You will never be able to treat your wives with equal fairness, however much you may desire to do so, but do not ignore one wife altogether, leaving her suspended [between marriage and divorce]. And if you make amends and act righteously, surely God is most forgiving and merciful.
+You will never be able to treat your wives with equal fairness, however much you may desire to do so, but do not ignore one wife altogether, leaving her suspended \[between marriage and divorce\]. And if you make amends and act righteously, surely God is most forgiving and merciful.
 
 # 623
 
@@ -2514,7 +2514,7 @@ If He wanted, He could remove you altogether and replace you with other people: 
 
 # 627
 
-If one desires the rewards of this world [let him remember that] with God are the rewards of [both] this world and the life to come: and God is indeed all hearing, all seeing.
+If one desires the rewards of this world \[let him remember that\] with God are the rewards of \[both\] this world and the life to come: and God is indeed all hearing, all seeing.
 
 # 628
 
@@ -2534,7 +2534,7 @@ Warn the hypocrites that for them there is a painful punishment.
 
 # 632
 
-As for those who take the deniers of the truth for their allies rather than the believers -- do they seek honour in their company?  Surely all honour belongs to God.
+As for those who take the deniers of the truth for their allies rather than the believers -- do they seek honour in their company? Surely all honour belongs to God.
 
 # 633
 
@@ -2542,7 +2542,7 @@ He has instructed you in the Book that, when you hear people deny or ridicule Go
 
 # 634
 
-The hypocrites wait to see what happens to you and, if God grants you a victory, they say, "Were we not on your side?" And if those who deny the truth have a share of it [victory] they say to them, "Did we not help you win, and protect you from the believers?" God will judge between you [all] on Resurrection Day. And never will God allow those who deny the truth to harm the believers.
+The hypocrites wait to see what happens to you and, if God grants you a victory, they say, "Were we not on your side?" And if those who deny the truth have a share of it \[victory\] they say to them, "Did we not help you win, and protect you from the believers?" God will judge between you \[all\] on Resurrection Day. And never will God allow those who deny the truth to harm the believers.
 
 # 635
 
@@ -2554,7 +2554,7 @@ They vacillate between the two, belonging neither to one side nor the other. But
 
 # 637
 
-Do not take deniers of the truth [who are at war with you] for your allies in preference to believers. Would you give God a clear proof against yourselves?
+Do not take deniers of the truth \[who are at war with you\] for your allies in preference to believers. Would you give God a clear proof against yourselves?
 
 # 638
 
@@ -2590,7 +2590,7 @@ To those who believe in God and His messengers, and make no distinction between 
 
 # 646
 
-The People of the Book ask you to bring down for them a book from heaven. Of Moses they demanded a greater thing than that. They said to him: "Show us God face to face." A thunderbolt struck them for their wickedness. After that, they took to worshipping the [golden] calf, after all evidence of the truth had come to them! Yet We pardoned even that and bestowed on Moses clear authority.
+The People of the Book ask you to bring down for them a book from heaven. Of Moses they demanded a greater thing than that. They said to him: "Show us God face to face." A thunderbolt struck them for their wickedness. After that, they took to worshipping the \[golden\] calf, after all evidence of the truth had come to them! Yet We pardoned even that and bestowed on Moses clear authority.
 
 # 647
 
@@ -2606,7 +2606,7 @@ They denied the truth and uttered a monstrous slander against Mary.
 
 # 650
 
-They declared, "We have put to death the Messiah, Jesus, son of Mary, the Messenger of God." They did not kill him, nor did they crucify him, but it only seemed to them [as if it had been so]. And those who differ in this matter are in doubt concerning it. They have no definite knowledge about it, but only follow mere conjecture. But they certainly did not kill him.
+They declared, "We have put to death the Messiah, Jesus, son of Mary, the Messenger of God." They did not kill him, nor did they crucify him, but it only seemed to them \[as if it had been so\]. And those who differ in this matter are in doubt concerning it. They have no definite knowledge about it, but only follow mere conjecture. But they certainly did not kill him.
 
 # 651
 
@@ -2622,15 +2622,15 @@ Because of the wrongdoings of the Jews, We forbade them certain good things that
 
 # 654
 
-for taking usury, when they had been forbidden to do so. And because of their devouring people's wealth wrongfully. We have prepared a painful punishment for those of them who [continue to] deny the truth.
+for taking usury, when they had been forbidden to do so. And because of their devouring people's wealth wrongfully. We have prepared a painful punishment for those of them who \[continue to\] deny the truth.
 
 # 655
 
-But to those of them, who are firmly grounded in knowledge, and the believers, who truly believe in what is revealed to you, and what was revealed before you. To those who pray regularly and pay the zakat [prescribed alms] and believe in God and the Last Day, We will surely give a great reward.
+But to those of them, who are firmly grounded in knowledge, and the believers, who truly believe in what is revealed to you, and what was revealed before you. To those who pray regularly and pay the zakat \[prescribed alms\] and believe in God and the Last Day, We will surely give a great reward.
 
 # 656
 
-We have sent revelation to you [Prophet] as We did to Noah and the prophets who came after him, to Abraham, Ishmael, Isaac, Jacob, and the Tribes, to Jesus, Job, Jonah, Aaron, and Solomon and David, to whom We gave the Psalms.
+We have sent revelation to you \[Prophet\] as We did to Noah and the prophets who came after him, to Abraham, Ishmael, Isaac, Jacob, and the Tribes, to Jesus, Job, Jonah, Aaron, and Solomon and David, to whom We gave the Psalms.
 
 # 657
 
@@ -2662,7 +2662,7 @@ Mankind! The Messenger has brought you the truth from your Lord, so believe for 
 
 # 664
 
-People of the Book! Do not go to extremes in your religion. Say nothing but the truth about God. The Christ Jesus, son of Mary, was only a messenger of God and His word, conveyed to Mary, a spirit from Him. So believe in God and His messengers and do not say: "There are three [gods]." Desist, it will be better for you. Indeed, God is the one and only God. His Holiness is far above having a son. To Him belongs whatever is in the heavens and whatever is on the earth. And God is sufficient as a guardian.
+People of the Book! Do not go to extremes in your religion. Say nothing but the truth about God. The Christ Jesus, son of Mary, was only a messenger of God and His word, conveyed to Mary, a spirit from Him. So believe in God and His messengers and do not say: "There are three \[gods\]." Desist, it will be better for you. Indeed, God is the one and only God. His Holiness is far above having a son. To Him belongs whatever is in the heavens and whatever is on the earth. And God is sufficient as a guardian.
 
 # 665
 
@@ -2690,11 +2690,11 @@ Believers, fulfill your obligations. All livestock is lawful for you, other than
 
 # 671
 
-Believers, violate neither the sanctity of God's signs, the Sacred Month, the sacrificial animals, the animals wearing garlands [indicating they are to be sacrificed] nor those on their way to the Sacred House seeking the bounty and pleasure of their Lord. When, on completion of your pilgrimage, you take off the garb of the pilgrim, you may hunt. Do not let the enmity of those who barred you from the Sacred Mosque lead you into sin. Help one another in goodness and in piety. Do not help one another in sin and transgression. Fear God! God is severe in punishment.
+Believers, violate neither the sanctity of God's signs, the Sacred Month, the sacrificial animals, the animals wearing garlands \[indicating they are to be sacrificed\] nor those on their way to the Sacred House seeking the bounty and pleasure of their Lord. When, on completion of your pilgrimage, you take off the garb of the pilgrim, you may hunt. Do not let the enmity of those who barred you from the Sacred Mosque lead you into sin. Help one another in goodness and in piety. Do not help one another in sin and transgression. Fear God! God is severe in punishment.
 
 # 672
 
-You are forbidden carrion, blood and pork; and any flesh over which the name of any other than God is invoked; and any creature which has been strangled, or killed by a blow or in a fall, or has been gored to death or half-eaten by a wild animal, saving that which you make lawful [by slaughtering properly while it was still alive] and what has been slaughtered at an altar. You are forbidden to make the division of [meat] by means of divining arrows: that is sinful conduct. Those who deny the truth have this day despaired of ever harming your religion. So do not fear them. Fear Me. Today I have completed your religion for you and completed My blessing upon you. I have chosen for you Islam as your religion. But if anyone is forced by hunger to eat something which is forbidden, not intending to commit a sin, he will find God forgiving and merciful.
+You are forbidden carrion, blood and pork; and any flesh over which the name of any other than God is invoked; and any creature which has been strangled, or killed by a blow or in a fall, or has been gored to death or half-eaten by a wild animal, saving that which you make lawful \[by slaughtering properly while it was still alive\] and what has been slaughtered at an altar. You are forbidden to make the division of \[meat\] by means of divining arrows: that is sinful conduct. Those who deny the truth have this day despaired of ever harming your religion. So do not fear them. Fear Me. Today I have completed your religion for you and completed My blessing upon you. I have chosen for you Islam as your religion. But if anyone is forced by hunger to eat something which is forbidden, not intending to commit a sin, he will find God forgiving and merciful.
 
 # 673
 
@@ -2706,7 +2706,7 @@ Today, all good things have been made lawful to you. The food of the People of t
 
 # 675
 
-Believers, when you rise to pray, wash your faces and your hands up to the elbows and wipe your heads and [wash] your feet up to the ankles. If you are in a state of impurity, take a full bath. But if you are sick or on a journey or when you have just relieved yourselves, or you have consorted with your spouses, you can find no water, take some clean sand and rub your faces and hands with it. God does not wish to place any burden on you; He only wishes to purify you and perfect His favour to you, in order that you may be grateful.
+Believers, when you rise to pray, wash your faces and your hands up to the elbows and wipe your heads and \[wash\] your feet up to the ankles. If you are in a state of impurity, take a full bath. But if you are sick or on a journey or when you have just relieved yourselves, or you have consorted with your spouses, you can find no water, take some clean sand and rub your faces and hands with it. God does not wish to place any burden on you; He only wishes to purify you and perfect His favour to you, in order that you may be grateful.
 
 # 676
 
@@ -2762,11 +2762,11 @@ People of the Book, Our Messenger has come to you to make things clear to you af
 
 # 689
 
-Remember when Moses said to his people, "O my people! Remember God's favour to you, He has raised up prophets among you, made you kings, and granted you [favours] such as He has not granted to anyone else in the world.
+Remember when Moses said to his people, "O my people! Remember God's favour to you, He has raised up prophets among you, made you kings, and granted you \[favours\] such as He has not granted to anyone else in the world.
 
 # 690
 
-O my people! Enter the holy land which God has assigned  for you. Do not turn back, or you will be the losers."
+O my people! Enter the holy land which God has assigned for you. Do not turn back, or you will be the losers."
 
 # 691
 
@@ -2790,7 +2790,7 @@ God said, "The land is forbidden to them for forty years, while they wander arou
 
 # 696
 
-Relate to them, the true story of the two sons of Adam. When they both presented an offering, it was accepted from one of them and not from the other. The latter said, "I shall kill you!" The former said, "God accepts [things] only from the righteous.
+Relate to them, the true story of the two sons of Adam. When they both presented an offering, it was accepted from one of them and not from the other. The latter said, "I shall kill you!" The former said, "God accepts \[things\] only from the righteous.
 
 # 697
 
@@ -2834,7 +2834,7 @@ They will want to get out of the Fire but they will be unable to do so: theirs s
 
 # 707
 
-Cut off the hands of thieves, whether they are male or female, as a [deterrent] punishment from God for what they have done. God is almighty and wise.
+Cut off the hands of thieves, whether they are male or female, as a \[deterrent\] punishment from God for what they have done. God is almighty and wise.
 
 # 708
 
@@ -2846,7 +2846,7 @@ Do you not know that the kingdom of the heavens and earth belongs to God? He pun
 
 # 710
 
-Messenger, do not be grieved by those who vie with one another in denying the truth; those who say with their tongues, "We believe," but have no faith in their hearts; from among the Jews also, there are those who listen eagerly to any lies. They listen to you to convey to others [religious leaders] who do not come to you [out of pride and conceit]. They [these leaders] take words out of their context and say, "If this be given to you, receive it, but if not, then beware!" If anyone's trial is intended by God, you cannot in the least prevail against God on his behalf. Those whose hearts God does not intend to purify shall be subjected to disgrace in this world and a severe punishment in the Hereafter.
+Messenger, do not be grieved by those who vie with one another in denying the truth; those who say with their tongues, "We believe," but have no faith in their hearts; from among the Jews also, there are those who listen eagerly to any lies. They listen to you to convey to others \[religious leaders\] who do not come to you \[out of pride and conceit\]. They \[these leaders\] take words out of their context and say, "If this be given to you, receive it, but if not, then beware!" If anyone's trial is intended by God, you cannot in the least prevail against God on his behalf. Those whose hearts God does not intend to purify shall be subjected to disgrace in this world and a severe punishment in the Hereafter.
 
 # 711
 
@@ -2862,7 +2862,7 @@ We have revealed the Torah, in which there is guidance and light. By it the prop
 
 # 714
 
-We prescribed for them in [the Torah]: a life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth, and a wound for a wound. But, if anyone forgoes it, this shall be for him an expiation. Those who do not judge by what God has sent down are wrongdoers!
+We prescribed for them in \[the Torah\]: a life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth, and a wound for a wound. But, if anyone forgoes it, this shall be for him an expiation. Those who do not judge by what God has sent down are wrongdoers!
 
 # 715
 
@@ -2874,7 +2874,7 @@ Therefore, let those who follow the Gospel judge according to what God has revea
 
 # 717
 
-We have sent down the Book to you with the truth, fulfilling [the predictions] revealed in the previous scriptures and determining what is true therein, and as a guardian over it. Judge, therefore, between them by what God has revealed, and do not follow their vain desires turning away from the truth that has come to you. To every one of you We have ordained a law and a way, and had God so willed, He would have made you all a single community, but He did not so will, in order that He might try you by what He has given you. Vie, then, with one another in doing good works; to God you shall all return; then He will make clear to you about what you have been disputing.
+We have sent down the Book to you with the truth, fulfilling \[the predictions\] revealed in the previous scriptures and determining what is true therein, and as a guardian over it. Judge, therefore, between them by what God has revealed, and do not follow their vain desires turning away from the truth that has come to you. To every one of you We have ordained a law and a way, and had God so willed, He would have made you all a single community, but He did not so will, in order that He might try you by what He has given you. Vie, then, with one another in doing good works; to God you shall all return; then He will make clear to you about what you have been disputing.
 
 # 718
 
@@ -2926,7 +2926,7 @@ Say, "Shall I tell you who will receive a worse reward from God? Those whom God 
 
 # 730
 
-When they come to you they say, "We believe," but they come [with the resolve] to deny the truth and leave in the same state. God knows best what they are concealing.
+When they come to you they say, "We believe," but they come \[with the resolve\] to deny the truth and leave in the same state. God knows best what they are concealing.
 
 # 731
 
@@ -2966,7 +2966,7 @@ We made a covenant with the Children of Israel and sent forth messengers among t
 
 # 740
 
-and they imagined that no harm would come to them; and so they became blind and deaf [of heart]. God turned to them in mercy; yet again many of them became blind and deaf. God is fully aware of their actions.
+and they imagined that no harm would come to them; and so they became blind and deaf \[of heart\]. God turned to them in mercy; yet again many of them became blind and deaf. God is fully aware of their actions.
 
 # 741
 
@@ -2982,7 +2982,7 @@ Why do they not turn to God and ask for His forgiveness? God is forgiving and me
 
 # 744
 
-Christ, son of Mary, was no more than a messenger. Many messengers passed away before him. His mother was a virtuous woman; and they both ate food [like other mortals]. See how We make the signs clear to them! See how they turn away!
+Christ, son of Mary, was no more than a messenger. Many messengers passed away before him. His mother was a virtuous woman; and they both ate food \[like other mortals\]. See how We make the signs clear to them! See how they turn away!
 
 # 745
 
@@ -3042,7 +3042,7 @@ God will not call you to account for your meaningless oaths, but He will call yo
 
 # 759
 
-Believers, intoxicants and gambling and [occult dedication of] stones and divining arrows are abominations devised by Satan. Avoid them, so that you may prosper.
+Believers, intoxicants and gambling and \[occult dedication of\] stones and divining arrows are abominations devised by Satan. Avoid them, so that you may prosper.
 
 # 760
 
@@ -3050,11 +3050,11 @@ Satan seeks to sow enmity and hatred among you by means of wine and gambling, an
 
 # 761
 
-Obey God and obey the Messenger, and be ever on your guard [against evil]. But if you turn away, then know that Our Messenger's duty is only to deliver the message clearly.
+Obey God and obey the Messenger, and be ever on your guard \[against evil\]. But if you turn away, then know that Our Messenger's duty is only to deliver the message clearly.
 
 # 762
 
-Those who believe and do good deeds will not be blamed for what they may have consumed [in the past], so long as they fear God and believe in Him and do good works; so long as they fear God and believe in Him, so long as they fear God and do good deeds. For God loves those who do good.
+Those who believe and do good deeds will not be blamed for what they may have consumed \[in the past\], so long as they fear God and believe in Him and do good works; so long as they fear God and believe in Him, so long as they fear God and do good deeds. For God loves those who do good.
 
 # 763
 
@@ -3118,7 +3118,7 @@ That makes it more likely that people will bear true witness, or else they will 
 
 # 778
 
-The Day when God assembles the messengers and asks them, "What was the response you received [from the people]?" they will reply, "We have no knowledge of it. You alone know what is hidden."
+The Day when God assembles the messengers and asks them, "What was the response you received \[from the people\]?" they will reply, "We have no knowledge of it. You alone know what is hidden."
 
 # 779
 
@@ -3126,7 +3126,7 @@ Then God will say, "Jesus, son of Mary, remember My favour to you and to your mo
 
 # 780
 
-[Remember the time], when I inspired the disciples to believe in Me and in My messenger, they replied, "We believe, bear witness that we have submitted."
+\[Remember the time\], when I inspired the disciples to believe in Me and in My messenger, they replied, "We believe, bear witness that we have submitted."
 
 # 781
 
@@ -3170,7 +3170,7 @@ Praise be to God, who has created the heavens and the earth and brought into bei
 
 # 791
 
-It is He who has created you out of clay, and then has decreed a term [for you], a term known [only] to Him. Yet you are still in doubt,
+It is He who has created you out of clay, and then has decreed a term \[for you\], a term known \[only\] to Him. Yet you are still in doubt,
 
 # 792
 
@@ -3182,7 +3182,7 @@ yet every time a sign comes to them from their Lord, they turn away from it.
 
 # 794
 
-They have rejected truth whenever it came to them, yet [more] news will reach them concerning what they have been making a mockery of.
+They have rejected truth whenever it came to them, yet \[more\] news will reach them concerning what they have been making a mockery of.
 
 # 795
 
@@ -3250,7 +3250,7 @@ Who does greater wrong than he who invents a lie against God and denies His sign
 
 # 811
 
-On the Day when We gather them all together, We will say to those who associated [others with Us], "Where are those partners that you claimed?"
+On the Day when We gather them all together, We will say to those who associated \[others with Us\], "Where are those partners that you claimed?"
 
 # 812
 
@@ -3258,7 +3258,7 @@ Then they will have no excuse but to say, "By God our Lord, we have never been p
 
 # 813
 
-See how they lie to themselves, and how those [the deities] they invented have deserted them.
+See how they lie to themselves, and how those \[the deities\] they invented have deserted them.
 
 # 814
 
@@ -3282,7 +3282,7 @@ They say, "There is nothing beyond our life in this world: we shall not be raise
 
 # 819
 
-If you could only see when they are made to stand before their Lord! He will ask them, "Is this [second life] not the truth?" They will say, "Yes, by our Lord!" He will say, "Then, taste the punishment that comes from your having refused to acknowledge the truth!"
+If you could only see when they are made to stand before their Lord! He will ask them, "Is this \[second life\] not the truth?" They will say, "Yes, by our Lord!" He will say, "Then, taste the punishment that comes from your having refused to acknowledge the truth!"
 
 # 820
 
@@ -3302,7 +3302,7 @@ Other messengers have been denied before you, and they bore their rejection and 
 
 # 824
 
-If you find their rejection hard to bear, then seek a tunnel into the ground or a ladder into the sky, if you can, and bring them a sign. Had God so willed, He would indeed have given them all [His] guidance. So do not be among the ignorant.
+If you find their rejection hard to bear, then seek a tunnel into the ground or a ladder into the sky, if you can, and bring them a sign. Had God so willed, He would indeed have given them all \[His\] guidance. So do not be among the ignorant.
 
 # 825
 
@@ -3318,7 +3318,7 @@ there is not an animal that moves about on the earth, nor a bird that flies on i
 
 # 828
 
-Those who reject Our signs are deaf and dumb, [groping along] in darkness. God lets anyone He wishes go astray and sets whoever He will on a straight path.
+Those who reject Our signs are deaf and dumb, \[groping along\] in darkness. God lets anyone He wishes go astray and sets whoever He will on a straight path.
 
 # 829
 
@@ -3326,11 +3326,11 @@ Say, "Tell me if the punishment of God came upon you or the Hour overtook you, w
 
 # 830
 
-Indeed, it is on Him that you would call, and He could remove that [affliction] which made you call on Him, if He will, and then you would forget [the false deities] which you associate with Him!"
+Indeed, it is on Him that you would call, and He could remove that \[affliction\] which made you call on Him, if He will, and then you would forget \[the false deities\] which you associate with Him!"
 
 # 831
 
-We sent messengers before you [Prophet] to many communities and afflicted their people with suffering and hardship, so that they might humble themselves.
+We sent messengers before you \[Prophet\] to many communities and afflicted their people with suffering and hardship, so that they might humble themselves.
 
 # 832
 
@@ -3374,7 +3374,7 @@ Do not send away those who call upon their Lord in the morning and in the evenin
 
 # 842
 
-In this way We try some of them by means of others, so that they may ask, "Are these [lowly ones] whom God has singled out for His favours from among us? Does God not know best who are the grateful ones?"
+In this way We try some of them by means of others, so that they may ask, "Are these \[lowly ones\] whom God has singled out for His favours from among us? Does God not know best who are the grateful ones?"
 
 # 843
 
@@ -3406,7 +3406,7 @@ It is He who gathers you in at night and knows all that you do by day; then He r
 
 # 850
 
-He is the Absolute Master over His servants. He sends forth guardians [angels] who watch over you until, when death approaches one of you, Our angels take his soul, and they never fail in their duty.
+He is the Absolute Master over His servants. He sends forth guardians \[angels\] who watch over you until, when death approaches one of you, Our angels take his soul, and they never fail in their duty.
 
 # 851
 
@@ -3518,11 +3518,11 @@ This is the guidance of God: He gives that guidance to whichever of His servants
 
 # 878
 
-Those are the ones to whom We gave the Scripture, wisdom, and prophethood. If these people [the Makkans] reject it, We shall entrust it to a people who will never refuse to acknowledge it.
+Those are the ones to whom We gave the Scripture, wisdom, and prophethood. If these people \[the Makkans\] reject it, We shall entrust it to a people who will never refuse to acknowledge it.
 
 # 879
 
-Those [the previous prophets] were the people whom God guided. Follow their guidance then and say, "I ask no reward for this from you: it is only a reminder for all mankind."
+Those \[the previous prophets\] were the people whom God guided. Follow their guidance then and say, "I ask no reward for this from you: it is only a reminder for all mankind."
 
 # 880
 
@@ -3530,7 +3530,7 @@ They do not make a just estimate of God, when they say, "God has not revealed an
 
 # 881
 
-This is a blessed Book which We have revealed, confirming what came before it, so that you may warn the Mother of Cities [Makkah] and the people around it. Those who believe in the Hereafter do believe in it, and they are ever-mindful of their prayers.
+This is a blessed Book which We have revealed, confirming what came before it, so that you may warn the Mother of Cities \[Makkah\] and the people around it. Those who believe in the Hereafter do believe in it, and they are ever-mindful of their prayers.
 
 # 882
 
@@ -3554,7 +3554,7 @@ It is He who has set up for you the stars so that you might be guided by them in
 
 # 887
 
-It is He who first produced you from a single soul, then gave you a place to stay [in life] and a resting place [after death]. We have made Our revelations clear to those who are men of understanding.
+It is He who first produced you from a single soul, then gave you a place to stay \[in life\] and a resting place \[after death\]. We have made Our revelations clear to those who are men of understanding.
 
 # 888
 
@@ -3582,7 +3582,7 @@ Clear insights have come to you from your Lord. Whoever, therefore, chooses to s
 
 # 894
 
-This is how We explain Our revelations in various ways -- so that they might come to the point of saying, "You have read this out to us," and that We might make it clear [that this is the truth] to those who are eager to know.
+This is how We explain Our revelations in various ways -- so that they might come to the point of saying, "You have read this out to us," and that We might make it clear \[that this is the truth\] to those who are eager to know.
 
 # 895
 
@@ -3594,7 +3594,7 @@ If God had willed, they would not have associated anything with Him. We did not 
 
 # 897
 
-Do not revile those [beings] whom they invoke instead of God, lest they, in their hostility, revile God out of ignorance. Thus to every people We have caused their actions to seem fair. To their Lord they shall all return, and He will declare to them all that they have done.
+Do not revile those \[beings\] whom they invoke instead of God, lest they, in their hostility, revile God out of ignorance. Thus to every people We have caused their actions to seem fair. To their Lord they shall all return, and He will declare to them all that they have done.
 
 # 898
 
@@ -3718,7 +3718,7 @@ They also say, "These animals and these crops are forbidden. None may eat them e
 
 # 928
 
-They say, "What is in the wombs of such and such cattle is exclusively for our males and is forbidden to our females. But if it is stillborn, they may have a share of it." God will soon punish them for their [false] attribution. He is wise, and all-knowing.
+They say, "What is in the wombs of such and such cattle is exclusively for our males and is forbidden to our females. But if it is stillborn, they may have a share of it." God will soon punish them for their \[false\] attribution. He is wise, and all-knowing.
 
 # 929
 
@@ -3742,11 +3742,11 @@ Again, of the camels there are two, and of the oxen two. Ask them, "Is it the tw
 
 # 934
 
-Say [O Prophet], "In all that has been revealed to me, I do not find a ban on anything to eat, except for carrion, flowing blood and pork, all these being unclean or profane, on which the name of someone other than God has been invoked." But if anyone is forced by necessity, being neither disobedient nor exceeding the limit, then surely your Lord is most forgiving and merciful.
+Say \[O Prophet\], "In all that has been revealed to me, I do not find a ban on anything to eat, except for carrion, flowing blood and pork, all these being unclean or profane, on which the name of someone other than God has been invoked." But if anyone is forced by necessity, being neither disobedient nor exceeding the limit, then surely your Lord is most forgiving and merciful.
 
 # 935
 
-We forbade the Jews all animals with claws and the fat of sheep [and goats] and oxen, except what is on their backs and in their intestines and what adheres to their bones. That is the penalty We imposed on them for their disobedience. And We assuredly are true to Our word.
+We forbade the Jews all animals with claws and the fat of sheep \[and goats\] and oxen, except what is on their backs and in their intestines and what adheres to their bones. That is the penalty We imposed on them for their disobedience. And We assuredly are true to Our word.
 
 # 936
 
@@ -3762,7 +3762,7 @@ Say, "God alone has the conclusive proof. If He had willed, He could have guided
 
 # 939
 
-Say, "Come, bring your witnesses, who can testify that God forbade [all] this." If they bear witness [falsely], do not bear witness with them; nor yield to the wishes of those who deny Our signs, nor of those who do not believe in the life to come and set up others as equals with their Lord.
+Say, "Come, bring your witnesses, who can testify that God forbade \[all\] this." If they bear witness \[falsely\], do not bear witness with them; nor yield to the wishes of those who deny Our signs, nor of those who do not believe in the life to come and set up others as equals with their Lord.
 
 # 940
 
@@ -3774,11 +3774,11 @@ Stay well away from an orphan's property, except with the best intentions, befor
 
 # 942
 
-[He has enjoined], "This is My straight path; so follow it, and do not follow other ways: that will lead you away from His path." That is what He enjoins upon you, so that you may guard yourselves.
+\[He has enjoined\], "This is My straight path; so follow it, and do not follow other ways: that will lead you away from His path." That is what He enjoins upon you, so that you may guard yourselves.
 
 # 943
 
-Then We gave Moses the Book, completing [Our favour] to the righteous, explaining everything clearly, as guidance and mercy, so that they might believe in meeting their Lord.
+Then We gave Moses the Book, completing \[Our favour\] to the righteous, explaining everything clearly, as guidance and mercy, so that they might believe in meeting their Lord.
 
 # 944
 
@@ -3822,7 +3822,7 @@ Say, "Shall I seek a lord other than God, while He is the Lord of all things?" E
 
 # 954
 
-It is He who has made you successors [of others] on the earth and has exalted some of you over the others in degrees of rank, so that He may test you by that which He has given you. Your Lord is swift in punishment; yet surely He is forgiving, and merciful.
+It is He who has made you successors \[of others\] on the earth and has exalted some of you over the others in degrees of rank, so that He may test you by that which He has given you. Your Lord is swift in punishment; yet surely He is forgiving, and merciful.
 
 # 955
 
@@ -3858,7 +3858,7 @@ Truth alone will be of weight that Day. Those whose scales are heavy shall be su
 
 # 963
 
-and those whose good deeds are light [in the balance] will be the ones who have lost themselves because they wrongfully rejected Our signs.
+and those whose good deeds are light \[in the balance\] will be the ones who have lost themselves because they wrongfully rejected Our signs.
 
 # 964
 
@@ -3950,7 +3950,7 @@ O Children of Adam, dress yourself properly whenever you are at worship: and eat
 
 # 986
 
-Say, "Who has forbidden the adornment of God, which He has brought forth for His servants and good things, clean and pure, which God has provided for His servants?" Say, "They are [lawful] for the believers in the present life but they shall be exclusively for them on the Day of Resurrection." Thus We explain Our signs for a people who understand.
+Say, "Who has forbidden the adornment of God, which He has brought forth for His servants and good things, clean and pure, which God has provided for His servants?" Say, "They are \[lawful\] for the believers in the present life but they shall be exclusively for them on the Day of Resurrection." Thus We explain Our signs for a people who understand.
 
 # 987
 
@@ -3958,7 +3958,7 @@ Say,"My Lord has forbidden indecency, both open and hidden, sin and wrongful opp
 
 # 988
 
-For all people a term has been set: and when [the end of] their term approaches, they can neither delay it by a single moment, nor can they advance it.
+For all people a term has been set: and when \[the end of\] their term approaches, they can neither delay it by a single moment, nor can they advance it.
 
 # 989
 
@@ -3974,7 +3974,7 @@ Who does a greater wrong than he who invents lies against God or rejects His rev
 
 # 992
 
-God will say, "Enter the Fire and join the bands of jinn and men that have gone before you." Every time a host enters [the fire], it will curse its fellow-host, then, when they are all gathered there, the last of them will say of the first, "Our Lord, it was they who led us astray: give them double punishment in the Fire," -- God will say, "Every one of you will have double punishment, though you do not know it" --
+God will say, "Enter the Fire and join the bands of jinn and men that have gone before you." Every time a host enters \[the fire\], it will curse its fellow-host, then, when they are all gathered there, the last of them will say of the first, "Our Lord, it was they who led us astray: give them double punishment in the Fire," -- God will say, "Every one of you will have double punishment, though you do not know it" --
 
 # 993
 
@@ -4006,7 +4006,7 @@ who turned people away from the path of God and sought to make it appear crooked
 
 # 1000
 
-A barrier will divide the two groups, and on the heights there will be men who recognize each group by their marks. They will call out to the people of the Garden, "Peace be with you." They will not have yet entered, but they will be hoping [to do so],
+A barrier will divide the two groups, and on the heights there will be men who recognize each group by their marks. They will call out to the people of the Garden, "Peace be with you." They will not have yet entered, but they will be hoping \[to do so\],
 
 # 1001
 
@@ -4038,7 +4038,7 @@ Do they wait for the fulfillment of that of which it warns? On the Day when that
 
 # 1008
 
-Your Lord is God, who created the heavens and the earth in six Days [periods] and then settled Himself firmly on the throne. He throws the veil of night over the day, each seeking the other in rapid succession. It was He who created the sun, the moon and the stars, and made them subservient to His will. His is the creation, His the command. Blessed be God, Lord of the universe!
+Your Lord is God, who created the heavens and the earth in six Days \[periods\] and then settled Himself firmly on the throne. He throws the veil of night over the day, each seeking the other in rapid succession. It was He who created the sun, the moon and the stars, and made them subservient to His will. His is the creation, His the command. Blessed be God, Lord of the universe!
 
 # 1009
 
@@ -4066,7 +4066,7 @@ but the leading men of his people said, "Truly, we see that you are obviously lo
 
 # 1015
 
-Said [Noah], "O my people! I am not in error. Indeed, I am a messenger from the Lord of the Worlds,
+Said \[Noah\], "O my people! I am not in error. Indeed, I am a messenger from the Lord of the Worlds,
 
 # 1016
 
@@ -4158,7 +4158,7 @@ So We saved him and his family -- except for his wife. She was one of those who 
 
 # 1038
 
-We rained down on them a shower [of brimstone]. Then see what was the end of the evil-doers.
+We rained down on them a shower \[of brimstone\]. Then see what was the end of the evil-doers.
 
 # 1039
 
@@ -4178,7 +4178,7 @@ The arrogant leaders of his people said, "Shu'ayb, we will expel you and your fe
 
 # 1043
 
-We would be inventing lies against God if we returned to your faith after God has delivered us from it. It is not for us to return to it unless God our Lord so willed. Our Lord encompasses all things in His knowledge. We have put our trust in God. Our Lord, expose the truth [and judge] between us and our people, You are the best judge."
+We would be inventing lies against God if we returned to your faith after God has delivered us from it. It is not for us to return to it unless God our Lord so willed. Our Lord encompasses all things in His knowledge. We have put our trust in God. Our Lord, expose the truth \[and judge\] between us and our people, You are the best judge."
 
 # 1044
 
@@ -4198,7 +4198,7 @@ So he turned away from them, saying, "My people, I delivered my Lord's messages 
 
 # 1048
 
-Whenever We sent a prophet to a town, We afflicted its people with suffering and adversity, so that they might humble themselves [before God],
+Whenever We sent a prophet to a town, We afflicted its people with suffering and adversity, so that they might humble themselves \[before God\],
 
 # 1049
 
@@ -4246,7 +4246,7 @@ duty-bound to say nothing about God but the truth, and I have brought you a clea
 
 # 1060
 
-[Pharaoh] said, "If you come with a sign, then produce it, if you are telling the truth."
+\[Pharaoh\] said, "If you come with a sign, then produce it, if you are telling the truth."
 
 # 1061
 
@@ -4254,7 +4254,7 @@ Then Moses threw down his staff and suddenly, unmistakably, it appeared as a ser
 
 # 1062
 
-and he drew forth his hand, and it appeared [shining] white to the beholders.
+and he drew forth his hand, and it appeared \[shining\] white to the beholders.
 
 # 1063
 
@@ -4286,7 +4286,7 @@ They said, "Moses, will you first throw, or shall we?"
 
 # 1070
 
-He said, "You throw [first]!" When they made their cast, they bewitched the eyes of the people and struck them with awe, for they showed a great [feat of] magic.
+He said, "You throw \[first\]!" When they made their cast, they bewitched the eyes of the people and struck them with awe, for they showed a great \[feat of\] magic.
 
 # 1071
 
@@ -4346,7 +4346,7 @@ We afflicted Pharaoh's people with shortages of food and famine so that they mig
 
 # 1085
 
-then when something good came to them, they said, "It is our due!" -- but when something bad came, they ascribed it as an ill-omen to Moses and those with him. Surely their [evil] fortune had been decreed by God, but most of them did not know this.
+then when something good came to them, they said, "It is our due!" -- but when something bad came, they ascribed it as an ill-omen to Moses and those with him. Surely their \[evil\] fortune had been decreed by God, but most of them did not know this.
 
 # 1086
 
@@ -4402,7 +4402,7 @@ He replied, "Moses, I have chosen you of all mankind for My messages and My Word
 
 # 1099
 
-And We wrote for him upon the Tablets an admonition and details of all things, then [bade him], "Hold fast to them; and command your people to follow them in their best sense. Soon I shall show you the home of the wicked.
+And We wrote for him upon the Tablets an admonition and details of all things, then \[bade him\], "Hold fast to them; and command your people to follow them in their best sense. Soon I shall show you the home of the wicked.
 
 # 1100
 
@@ -4570,7 +4570,7 @@ No one can guide those whom God lets go astray: He leaves them blundering about 
 
 # 1141
 
-They ask you [Prophet] about the Last Hour, "When will it come?" Say, "Knowledge about it rests only with my Lord; He alone will reveal when its time will come, it lies heavy on the heavens and the earth: it will suddenly overtake you." They will put questions to you as though you had full knowledge of it. Say, "Knowledge about it rests only with God, though most people do not realize it."
+They ask you \[Prophet\] about the Last Hour, "When will it come?" Say, "Knowledge about it rests only with my Lord; He alone will reveal when its time will come, it lies heavy on the heavens and the earth: it will suddenly overtake you." They will put questions to you as though you had full knowledge of it. Say, "Knowledge about it rests only with God, though most people do not realize it."
 
 # 1142
 
@@ -4578,7 +4578,7 @@ Say, "I myself have no power to benefit or do harm, save as God pleases. If I ha
 
 # 1143
 
-It was He who created you from a single soul, and from it made its mate so that he may find comfort in her. Once he has covered her, she conceives and goes about with a light burden. When it grows  heavy, they both call to God, their Lord, "If You bestow on us a healthy child, we will surely be grateful,"
+It was He who created you from a single soul, and from it made its mate so that he may find comfort in her. Once he has covered her, she conceives and goes about with a light burden. When it grows heavy, they both call to God, their Lord, "If You bestow on us a healthy child, we will surely be grateful,"
 
 # 1144
 
@@ -4646,7 +4646,7 @@ Remember your Lord deep in your very soul, in all humility and awe, without rais
 
 # 1160
 
-[even] the ones [angels] who live in the presence of your Lord are not too proud to worship Him: they glorify Him and prostrate themselves before Him.
+\[even\] the ones \[angels\] who live in the presence of your Lord are not too proud to worship Him: they glorify Him and prostrate themselves before Him.
 
 # 1161
 
@@ -4710,11 +4710,11 @@ Believers, when you meet in battle those who deny the truth, never turn your bac
 
 # 1176
 
-whoever turns his back on such an occasion, unless it be as a stratagem of war, or in an endeavour to join another group [of the believers] will indeed draw down upon himself the wrath of God, and Hell shall be his abode and the worst indeed is that destination.
+whoever turns his back on such an occasion, unless it be as a stratagem of war, or in an endeavour to join another group \[of the believers\] will indeed draw down upon himself the wrath of God, and Hell shall be his abode and the worst indeed is that destination.
 
 # 1177
 
-You did not kill them; it was God who killed them; and when you [Prophet] threw [sand] at them it was not you, but God who threw it so that He might confer on the believers a great favour from Himself. Surely, God is all hearing, all-knowing,
+You did not kill them; it was God who killed them; and when you \[Prophet\] threw \[sand\] at them it was not you, but God who threw it so that He might confer on the believers a great favour from Himself. Surely, God is all hearing, all-knowing,
 
 # 1178
 
@@ -4722,7 +4722,7 @@ that is what happened, and God will surely undermine the design of those who den
 
 # 1179
 
-If you were seeking a judgement, a judgement has now come to you. If you desist, it will be the better for you. But if you return [to hostility] We too will return. And your host will avail you naught, however numerous it may be, and [know] that surely God is with the believers.
+If you were seeking a judgement, a judgement has now come to you. If you desist, it will be the better for you. But if you return \[to hostility\] We too will return. And your host will avail you naught, however numerous it may be, and \[know\] that surely God is with the believers.
 
 # 1180
 
@@ -4778,7 +4778,7 @@ They also said, "God, if this really is the truth from You, then rain down upon 
 
 # 1193
 
-But God would not punish them while you [Prophet] were in their midst, nor would He punish them so long as they sought forgiveness.
+But God would not punish them while you \[Prophet\] were in their midst, nor would He punish them so long as they sought forgiveness.
 
 # 1194
 
@@ -4802,7 +4802,7 @@ Tell those who are bent on denying the truth that if they desist, their past sha
 
 # 1199
 
-Fight them until there is no more [religious] persecution, and religion belongs wholly to God: if they desist, then surely God is watchful of what they do,
+Fight them until there is no more \[religious\] persecution, and religion belongs wholly to God: if they desist, then surely God is watchful of what they do,
 
 # 1200
 
@@ -4842,11 +4842,11 @@ Satan made their deeds seem fair to them and said, "None of the people shall pre
 
 # 1209
 
-The hypocrites and those whose hearts were perverted said, "These people [the believers] must be deluded by their religion." But he who places his trust in God [knows that], God is Almighty and Wise.
+The hypocrites and those whose hearts were perverted said, "These people \[the believers\] must be deluded by their religion." But he who places his trust in God \[knows that\], God is Almighty and Wise.
 
 # 1210
 
-If you could see, when the angels take the souls of those who are bent on denying the truth [at death], how they strike their faces and backs: saying "Taste the punishment of the Burning!
+If you could see, when the angels take the souls of those who are bent on denying the truth \[at death\], how they strike their faces and backs: saying "Taste the punishment of the Burning!
 
 # 1211
 
@@ -4870,7 +4870,7 @@ The worst creatures in the sight of God are those who reject Him and will not be
 
 # 1216
 
-those with whom you have made a covenant, and who break their covenant on every occasion and have no fear [of God].
+those with whom you have made a covenant, and who break their covenant on every occasion and have no fear \[of God\].
 
 # 1217
 
@@ -4882,7 +4882,7 @@ And if you learn of treachery on the part of any people, throw their treaty back
 
 # 1219
 
-Let not the deniers think that they will ever get away. They cannot frustrate [God's purpose]. They have not the power to do so.
+Let not the deniers think that they will ever get away. They cannot frustrate \[God's purpose\]. They have not the power to do so.
 
 # 1220
 
@@ -4930,7 +4930,7 @@ Prophet, tell those you have taken captive: "If God knows of any good in your he
 
 # 1231
 
-And if they would betray you, they betrayed God before, and He gave [you] power over them. God is aware and wise.
+And if they would betray you, they betrayed God before, and He gave \[you\] power over them. God is aware and wise.
 
 # 1232
 
@@ -4966,7 +4966,7 @@ As for those who have honoured the treaty you made with them and who have not su
 
 # 1240
 
-When the forbidden months have passed, kill the polytheists [who are at war with you] wherever you find them. Take them captive, and besiege them, and lie in wait for them at every place of ambush. But if they repent, and take to prayer regularly and pay the alms, then let them go their way. God is forgiving and merciful.
+When the forbidden months have passed, kill the polytheists \[who are at war with you\] wherever you find them. Take them captive, and besiege them, and lie in wait for them at every place of ambush. But if they repent, and take to prayer regularly and pay the alms, then let them go their way. God is forgiving and merciful.
 
 # 1241
 
@@ -4978,7 +4978,7 @@ How can there be a treaty with the polytheists on the part of God and His Messen
 
 # 1243
 
-How [can there be a treaty] for, if they get the upper hand over you, they will respect neither kinship nor covenant. They [try to] please you with their tongues but their hearts reject you; most of them are perfidious.
+How \[can there be a treaty\] for, if they get the upper hand over you, they will respect neither kinship nor covenant. They \[try to\] please you with their tongues but their hearts reject you; most of them are perfidious.
 
 # 1244
 
@@ -5010,7 +5010,7 @@ He will remove the rage from their hearts. God will turn in His mercy to whom He
 
 # 1251
 
-Do you [O believers] think that you will be spared without God identifying which of you have struggled and did not take anyone for friends and protectors except God, His Messenger, and the believers? God is fully aware of all your actions.
+Do you \[O believers\] think that you will be spared without God identifying which of you have struggled and did not take anyone for friends and protectors except God, His Messenger, and the believers? God is fully aware of all your actions.
 
 # 1252
 
@@ -5046,7 +5046,7 @@ Say, "If your fathers and your sons and your brothers and your spouses and your 
 
 # 1260
 
-Indeed, God has helped you on many occasions. On the day of Hunayn, when you took pride in your great numbers, they proved of no avail to you -- for the earth, despite all its vastness, became [too] narrow for you and you turned back, in retreat.
+Indeed, God has helped you on many occasions. On the day of Hunayn, when you took pride in your great numbers, they proved of no avail to you -- for the earth, despite all its vastness, became \[too\] narrow for you and you turned back, in retreat.
 
 # 1261
 
@@ -5078,7 +5078,7 @@ They want to extinguish God's light with their mouths, but God seeks only to per
 
 # 1268
 
-It is He who has sent His Messenger with guidance and the religion of Truth, so that He may make it prevail [ideologically] over every other religion, however much the polytheists may hate this.
+It is He who has sent His Messenger with guidance and the religion of Truth, so that He may make it prevail \[ideologically\] over every other religion, however much the polytheists may hate this.
 
 # 1269
 
@@ -5090,11 +5090,11 @@ on the Day their treasure is heated up in the fire of hell, their foreheads and 
 
 # 1271
 
-On the Day God created heaven and earth, He decreed that the number of months should be twelve in number. Out of these, four are sacred. That is the true religion. Do not wrong your souls in these months. Fight the polytheists  all together, as they fight you all together, and know that God is with the righteous.
+On the Day God created heaven and earth, He decreed that the number of months should be twelve in number. Out of these, four are sacred. That is the true religion. Do not wrong your souls in these months. Fight the polytheists all together, as they fight you all together, and know that God is with the righteous.
 
 # 1272
 
-The postponing of [sacred months] is but one more instance of [their] refusal to acknowledge the truth -- by which those who are bent on denying the truth are led astray. They declare this to be permissible in one year and forbidden in another year, so that they may adjust the months which God has sanctified, thus making lawful what God has forbidden. Their evil deed seems fair to them: God does not guide those who deny the truth.
+The postponing of \[sacred months\] is but one more instance of \[their\] refusal to acknowledge the truth -- by which those who are bent on denying the truth are led astray. They declare this to be permissible in one year and forbidden in another year, so that they may adjust the months which God has sanctified, thus making lawful what God has forbidden. Their evil deed seems fair to them: God does not guide those who deny the truth.
 
 # 1273
 
@@ -5106,7 +5106,7 @@ If you do not go forth, He will punish you sternly and replace you by other peop
 
 # 1275
 
-If you do not support him [Muhammad], know that God did support him when those who denied the truth expelled him when the two of them were in the cave, he [Muhammad] told his companion, "Do not worry; for God is with us." So God sent His tranquillity down on him and aided him with forces invisible to you and placed the word of those who disbelieved lowest, while God's word remained supreme. God is powerful and wise.
+If you do not support him \[Muhammad\], know that God did support him when those who denied the truth expelled him when the two of them were in the cave, he \[Muhammad\] told his companion, "Do not worry; for God is with us." So God sent His tranquillity down on him and aided him with forces invisible to you and placed the word of those who disbelieved lowest, while God's word remained supreme. God is powerful and wise.
 
 # 1276
 
@@ -5130,7 +5130,7 @@ only those seek exemption who do not truly believe in God and the Last Day, and 
 
 # 1281
 
-If they had wished to go forth, they would surely have made some preparation for it, but God disliked their setting out [and being raised high in God's eyes] and held them back. They were told to stay behind with those who stay behind.
+If they had wished to go forth, they would surely have made some preparation for it, but God disliked their setting out \[and being raised high in God's eyes\] and held them back. They were told to stay behind with those who stay behind.
 
 # 1282
 
@@ -5154,7 +5154,7 @@ Say, "Nothing can befall us, except what God has ordained for us. He is our Supr
 
 # 1287
 
-Say, "Are you waiting for anything to befall us except one of the two best things  [Victory in this world or Paradise in the next]? But we expect that God will send His punishment to you either directly from Himself, or by our hands. So wait, if you will; we too, are waiting with you."
+Say, "Are you waiting for anything to befall us except one of the two best things \[Victory in this world or Paradise in the next\]? But we expect that God will send His punishment to you either directly from Himself, or by our hands. So wait, if you will; we too, are waiting with you."
 
 # 1288
 
@@ -5170,7 +5170,7 @@ Do not let their wealth and children impress you. For God seeks to punish them t
 
 # 1291
 
-They swear by God that they are believers like you; but they are not. They are afraid [to appear in their true colours]:
+They swear by God that they are believers like you; but they are not. They are afraid \[to appear in their true colours\]:
 
 # 1292
 
@@ -5194,7 +5194,7 @@ Among them are those who vex the Prophet by saying, "He listens to everyone." Sa
 
 # 1297
 
-They swear by God in order to please you [believers]: but it would be more fitting for them to please God and His Messenger, if they are believers.
+They swear by God in order to please you \[believers\]: but it would be more fitting for them to please God and His Messenger, if they are believers.
 
 # 1298
 
@@ -5202,7 +5202,7 @@ Do they not know that whoever opposes God and His Messenger shall abide forever 
 
 # 1299
 
-The hypocrites are afraid lest a chapter [of the Quran] be sent down about them, telling them what is in their hearts -- say, "Go on mocking. God will surely bring to light what you are dreading."
+The hypocrites are afraid lest a chapter \[of the Quran\] be sent down about them, telling them what is in their hearts -- say, "Go on mocking. God will surely bring to light what you are dreading."
 
 # 1300
 
@@ -5270,7 +5270,7 @@ It is the same whether or not you ask forgiveness for them. Even if you ask forg
 
 # 1316
 
-Those who stayed at home were glad that they were left behind by God's Messenger. They hated the thought of striving for God's cause with their possessions and their persons. They said, "Do not go forth  in this heat." Say, "The Fire of Hell is far hotter." If only they could understand.
+Those who stayed at home were glad that they were left behind by God's Messenger. They hated the thought of striving for God's cause with their possessions and their persons. They said, "Do not go forth in this heat." Say, "The Fire of Hell is far hotter." If only they could understand.
 
 # 1317
 
@@ -5278,11 +5278,11 @@ Let them laugh a little and weep much in return for their misdeeds.
 
 # 1318
 
-So [Prophet], if God brings you back to a group of them, and should they ask your leave to go forth with you, say, "You shall never go forth with me and shall never fight an enemy with me. You chose to sit at home the first time, so sit now with those who remain behind."
+So \[Prophet\], if God brings you back to a group of them, and should they ask your leave to go forth with you, say, "You shall never go forth with me and shall never fight an enemy with me. You chose to sit at home the first time, so sit now with those who remain behind."
 
 # 1319
 
-And never [O Muhammad] pray for one of them who dies, nor stand by his grave. For they denied God and His Messenger, and died rebellious.
+And never \[O Muhammad\] pray for one of them who dies, nor stand by his grave. For they denied God and His Messenger, and died rebellious.
 
 # 1320
 
@@ -5294,7 +5294,7 @@ When a chapter is revealed enjoining, "Believe in God and strive for the cause o
 
 # 1322
 
-They preferred to be with [the women], who remained behind [at home]: their hearts are sealed and so they do not understand.
+They preferred to be with \[the women\], who remained behind \[at home\]: their hearts are sealed and so they do not understand.
 
 # 1323
 
@@ -5314,11 +5314,11 @@ but no blame shall attach to the weak, the sick, and those who have no means to 
 
 # 1327
 
-Nor [does any blame] attach to those who came to you to be provided with mounts, and when you said, "I can find no mounts for you," they went back, and tears welled up in their eyes with sadness, since they could not find any way to contribute.
+Nor \[does any blame\] attach to those who came to you to be provided with mounts, and when you said, "I can find no mounts for you," they went back, and tears welled up in their eyes with sadness, since they could not find any way to contribute.
 
 # 1328
 
-The blameworthy are those who are men of wealth and yet ask for exemption. They are content to be with those [women] who stay behind. God has sealed their hearts: they do not understand.
+The blameworthy are those who are men of wealth and yet ask for exemption. They are content to be with those \[women\] who stay behind. God has sealed their hearts: they do not understand.
 
 # 1329
 
@@ -5330,7 +5330,7 @@ When you return, they will swear to you by God so that you may leave them alone,
 
 # 1331
 
-they will swear to you, so that you may be pleased with them. But [even] if you are pleased with them, God is not pleased with rebellious people.
+they will swear to you, so that you may be pleased with them. But \[even\] if you are pleased with them, God is not pleased with rebellious people.
 
 # 1332
 
@@ -5370,7 +5370,7 @@ Say, "Do as you will. God will watch your conduct and so will His Messenger and 
 
 # 1341
 
-[There are yet] others whose cases are deferred until it is God's will to judge them. He will either punish them, or turn in mercy to them; God is all knowing and wise.
+\[There are yet\] others whose cases are deferred until it is God's will to judge them. He will either punish them, or turn in mercy to them; God is all knowing and wise.
 
 # 1342
 
@@ -5394,7 +5394,7 @@ God has bought from the believers their lives and their wealth in return for the
 
 # 1347
 
-[The believers are] those who turn to God in repentance; who worship and praise Him; who go about in the land serving His cause, who bow down, who prostrate themselves, who enjoin good and forbid evil, and who observe the limits set by God. Give good news to the believers!
+\[The believers are\] those who turn to God in repentance; who worship and praise Him; who go about in the land serving His cause, who bow down, who prostrate themselves, who enjoin good and forbid evil, and who observe the limits set by God. Give good news to the believers!
 
 # 1348
 
@@ -5430,15 +5430,15 @@ It was not proper for the people of Madinah and those desert Arabs around them t
 
 # 1356
 
-and whenever they spend anything [for the sake of God], be it little or much, and whenever they traverse the land [in God's cause] -- it is recorded to their credit, and God will grant them the best reward for all that they have been doing.
+and whenever they spend anything \[for the sake of God\], be it little or much, and whenever they traverse the land \[in God's cause\] -- it is recorded to their credit, and God will grant them the best reward for all that they have been doing.
 
 # 1357
 
-It is not right that all the believers should go out [in time of war] all together. Why, then, does not a party from every group come to [the Prophet] in order to acquire a deeper knowledge of religion and to warn their people, so that they can guard themselves against evil?
+It is not right that all the believers should go out \[in time of war\] all together. Why, then, does not a party from every group come to \[the Prophet\] in order to acquire a deeper knowledge of religion and to warn their people, so that they can guard themselves against evil?
 
 # 1358
 
-Believers! Fight against those deniers of the truth who are near you.  Deal firmly with them. Know that God is with those who fear Him.
+Believers! Fight against those deniers of the truth who are near you. Deal firmly with them. Know that God is with those who fear Him.
 
 # 1359
 
@@ -5470,11 +5470,11 @@ Alif Lam Ra. These are the verses of the Book of Wisdom.
 
 # 1366
 
-Does it seem strange to people that We have sent revelation to a man from among themselves, saying, "Warn mankind and give glad tidings to the believers that they have a true rank [of honour] with their Lord?" Those who deny the truth say, "This man is clearly a sorcerer."
+Does it seem strange to people that We have sent revelation to a man from among themselves, saying, "Warn mankind and give glad tidings to the believers that they have a true rank \[of honour\] with their Lord?" Those who deny the truth say, "This man is clearly a sorcerer."
 
 # 1367
 
-Truly, your Lord is God who created the heavens and the earth in six days [periods], then He ascended the Throne, disposing the whole affair. No one may intercede with Him save with His permission. Such is God, your Lord, so worship Him alone. Will you not take heed?
+Truly, your Lord is God who created the heavens and the earth in six days \[periods\], then He ascended the Throne, disposing the whole affair. No one may intercede with Him save with His permission. Such is God, your Lord, so worship Him alone. Will you not take heed?
 
 # 1368
 
@@ -5482,7 +5482,7 @@ To Him you shall all return. God's promise is true; He originates Creation, then
 
 # 1369
 
-It is He who made the sun radiate a brilliant light and the moon shed its lustre, and ordained for it stages so that you may learn to count out the years and [to make other such] reckoning of time. God has not created all these without a purpose. He makes plain His revelations to men of understanding.
+It is He who made the sun radiate a brilliant light and the moon shed its lustre, and ordained for it stages so that you may learn to count out the years and \[to make other such\] reckoning of time. God has not created all these without a purpose. He makes plain His revelations to men of understanding.
 
 # 1370
 
@@ -5502,7 +5502,7 @@ Those who believe and do good deeds will be guided by their Lord because of thei
 
 # 1374
 
-In that [state of happiness] they will call out; "Glory be to You, O God!", while their greeting in it will be: "Peace!" And the close of their call will be, "All praise is due to God, the Lord of the Universe!"
+In that \[state of happiness\] they will call out; "Glory be to You, O God!", while their greeting in it will be: "Peace!" And the close of their call will be, "All praise is due to God, the Lord of the Universe!"
 
 # 1375
 
@@ -5514,7 +5514,7 @@ Whenever any trouble befalls a person, he prays to Us all the time, lying on his
 
 # 1377
 
-And indeed, before your time We destroyed [whole] generations when they [persistently] did evil; their messengers came to them with clear signs, but they would not believe. Thus We requite the guilty.
+And indeed, before your time We destroyed \[whole\] generations when they \[persistently\] did evil; their messengers came to them with clear signs, but they would not believe. Thus We requite the guilty.
 
 # 1378
 
@@ -5534,7 +5534,7 @@ Who is more unjust than the man who invents a falsehood about God or denies His 
 
 # 1382
 
-Instead of God they worship what neither harms nor benefits them, and they say: "These are our intercessors with God." Say, "Do you inform God about something in heavens and on earth that He does not know? Glory be to Him; may He be Exalted over whatever they associate [with Him]!"
+Instead of God they worship what neither harms nor benefits them, and they say: "These are our intercessors with God." Say, "Do you inform God about something in heavens and on earth that He does not know? Glory be to Him; may He be Exalted over whatever they associate \[with Him\]!"
 
 # 1383
 
@@ -5586,7 +5586,7 @@ Then every soul shall realize what it has done. They shall be returned to God, t
 
 # 1395
 
-Say, "Who provides [sustenance] for you from heaven and earth? Who is it who controls the ears and the eyes? Who brings forth the living from the dead, and the dead from the living? And who governs all affairs?" They will say, "God". Then say, "Will you not then fear Him?
+Say, "Who provides \[sustenance\] for you from heaven and earth? Who is it who controls the ears and the eyes? Who brings forth the living from the dead, and the dead from the living? And who governs all affairs?" They will say, "God". Then say, "Will you not then fear Him?
 
 # 1396
 
@@ -5610,7 +5610,7 @@ Most of them follow nothing but mere conjecture. But conjecture is of no use aga
 
 # 1401
 
-This Quran is not such as could have been produced by anyone but God. It fulfills that [the predictions] which came before it and gives a fuller explanation of the [earlier] Revelations. There is no doubt about it: it is from the Lord of the Universe.
+This Quran is not such as could have been produced by anyone but God. It fulfills that \[the predictions\] which came before it and gives a fuller explanation of the \[earlier\] Revelations. There is no doubt about it: it is from the Lord of the Universe.
 
 # 1402
 
@@ -5622,7 +5622,7 @@ Indeed, they are denying something which they cannot comprehend; the reality not
 
 # 1404
 
-Some of them will believe in it [the Quran], while others will not. And your Lord is fully aware of the evil-doers.
+Some of them will believe in it \[the Quran\], while others will not. And your Lord is fully aware of the evil-doers.
 
 # 1405
 
@@ -5646,7 +5646,7 @@ And on the Day when He shall gather them together, it will seem to them as if th
 
 # 1410
 
-Whether We show you something of what We have promised them or cause you to die [before that], to Us they shall return. God is Witness to all that they do.
+Whether We show you something of what We have promised them or cause you to die \[before that\], to Us they shall return. God is Witness to all that they do.
 
 # 1411
 
@@ -5698,7 +5698,7 @@ Say, "In the grace and mercy of God let them rejoice, for these are better than 
 
 # 1423
 
-Say, "Have you considered the provision God has sent down for you, and have you made some of it unlawful and some lawful?" Say, "Has God given you permission [to do this], or are you inventing falsehoods about God?"
+Say, "Have you considered the provision God has sent down for you, and have you made some of it unlawful and some lawful?" Say, "Has God given you permission \[to do this\], or are you inventing falsehoods about God?"
 
 # 1424
 
@@ -5722,7 +5722,7 @@ there is good news in this life and in the Hereafter: the Word of God shall neve
 
 # 1429
 
-Do not let their words grieve you. Surely, all might and glory belongs to God alone; He is the  all-hearing, the all-knowing.
+Do not let their words grieve you. Surely, all might and glory belongs to God alone; He is the all-hearing, the all-knowing.
 
 # 1430
 
@@ -5794,15 +5794,15 @@ God establishes the truth by His words, however much the sinners may dislike it.
 
 # 1447
 
-But none save a few youths declared their faith in Moses, [while others held back] for fear that Pharaoh and his nobles would persecute them. Pharaoh was high and mighty in the land. And one who transgressed all bounds.
+But none save a few youths declared their faith in Moses, \[while others held back\] for fear that Pharaoh and his nobles would persecute them. Pharaoh was high and mighty in the land. And one who transgressed all bounds.
 
 # 1448
 
-Moses said, "O my people; if you believe in God, [and] if you have surrendered yourselves to Him, then in Him alone put your trust."
+Moses said, "O my people; if you believe in God, \[and\] if you have surrendered yourselves to Him, then in Him alone put your trust."
 
 # 1449
 
-They said, "In God we put our trust. Our Lord,  make us not a trial [the subject of persecution] for the oppressors.
+They said, "In God we put our trust. Our Lord, make us not a trial \[the subject of persecution\] for the oppressors.
 
 # 1450
 
@@ -5810,7 +5810,7 @@ And deliver us by Your mercy from the people who deny the truth."
 
 # 1451
 
-We revealed [Our will] to Moses and his brother, saying, "Set aside for your people some houses in the city and turn them into places of worship, and be constant in prayer! And give [O Moses] the good news to the believers."
+We revealed \[Our will\] to Moses and his brother, saying, "Set aside for your people some houses in the city and turn them into places of worship, and be constant in prayer! And give \[O Moses\] the good news to the believers."
 
 # 1452
 
@@ -5822,7 +5822,7 @@ God said, "Your prayer is granted, so continue, then, both of you, steadfastly o
 
 # 1454
 
-So We brought the Children of Israel across the sea. Pharaoh and his troops pursued them arrogantly and aggressively. When he was about to drown, [Pharaoh] exclaimed, "I believe that there is no deity save Him in whom the Children of Israel believe, and I am of those who surrender themselves to Him!"
+So We brought the Children of Israel across the sea. Pharaoh and his troops pursued them arrogantly and aggressively. When he was about to drown, \[Pharaoh\] exclaimed, "I believe that there is no deity save Him in whom the Children of Israel believe, and I am of those who surrender themselves to Him!"
 
 # 1455
 
@@ -5834,7 +5834,7 @@ So We shall save your body this day, so that you may serve as a sign for those w
 
 # 1457
 
-We settled the Children of Israel in a blessed land, and We provided them with good things. And it was not until knowledge [of God's revelation] was granted to them that they began to hold divergent views. Your Lord will judge between them on the Day of Resurrection concerning that in which they differed.
+We settled the Children of Israel in a blessed land, and We provided them with good things. And it was not until knowledge \[of God's revelation\] was granted to them that they began to hold divergent views. Your Lord will judge between them on the Day of Resurrection concerning that in which they differed.
 
 # 1458
 
@@ -5862,11 +5862,11 @@ Had your Lord pleased, all the people on earth would have believed in Him, witho
 
 # 1464
 
-No soul can believe except by the will of God. He will place the filth [of doubt] upon those who do not use their reason.
+No soul can believe except by the will of God. He will place the filth \[of doubt\] upon those who do not use their reason.
 
 # 1465
 
-Say, "Look at whatever [exists] in heavens and on earth." But signs and warnings do not benefit the unbelievers.
+Say, "Look at whatever \[exists\] in heavens and on earth." But signs and warnings do not benefit the unbelievers.
 
 # 1466
 
@@ -5878,11 +5878,11 @@ Then We shall save Our messengers and those who believe. Thus We have made it in
 
 # 1468
 
-Say, "O people, if you are in doubt concerning my religion, then [know that] I do not worship those whom you worship instead of God, but rather I worship God who will cause you to die, for I am commanded to be one of the believers."
+Say, "O people, if you are in doubt concerning my religion, then \[know that\] I do not worship those whom you worship instead of God, but rather I worship God who will cause you to die, for I am commanded to be one of the believers."
 
 # 1469
 
-And set your face towards the [true] faith in all uprightness, and do not be one of those who ascribe partners to God;
+And set your face towards the \[true\] faith in all uprightness, and do not be one of those who ascribe partners to God;
 
 # 1470
 
@@ -5898,19 +5898,19 @@ Say, "Mankind, Truth has come to you from your Lord! Anyone who accepts guidance
 
 # 1473
 
-Follow what is revealed to you, [O Prophet], and be steadfast until God gives His judgement. He is the Best of Judges.
+Follow what is revealed to you, \[O Prophet\], and be steadfast until God gives His judgement. He is the Best of Judges.
 
 # 1474
 
-Alif Lam Ra. [This is] a Book, with verses which are fundamental [in nature], and then expounded in detail by One who is all wise and all aware.
+Alif Lam Ra. \[This is\] a Book, with verses which are fundamental \[in nature\], and then expounded in detail by One who is all wise and all aware.
 
 # 1475
 
-[It teaches] that you should worship none but God. I am sent to you from Him to warn you and to give you good tidings.
+\[It teaches\] that you should worship none but God. I am sent to you from Him to warn you and to give you good tidings.
 
 # 1476
 
-Seek forgiveness from your Lord; then turn towards Him [in repentance]. He will make generous provision for you for an appointed term and will bestow His grace on all who merit it! But if you turn away, then I fear for you the torment of a dreadful Day:
+Seek forgiveness from your Lord; then turn towards Him \[in repentance\]. He will make generous provision for you for an appointed term and will bestow His grace on all who merit it! But if you turn away, then I fear for you the torment of a dreadful Day:
 
 # 1477
 
@@ -5918,15 +5918,15 @@ to God you shall all return; and He has power over all things.
 
 # 1478
 
-See how they cover themselves up to hide [their thoughts] from Him. But when they cover themselves up with their garments, He knows what they hide and what they reveal. He knows their innermost thoughts.
+See how they cover themselves up to hide \[their thoughts\] from Him. But when they cover themselves up with their garments, He knows what they hide and what they reveal. He knows their innermost thoughts.
 
 # 1479
 
-There is not a living creature on the earth but it is for God to provide its sustenance. He knows its dwelling and its [final] resting place. All this is recorded in a clear book.
+There is not a living creature on the earth but it is for God to provide its sustenance. He knows its dwelling and its \[final\] resting place. All this is recorded in a clear book.
 
 # 1480
 
-Enthroned above the waters, it was He who created the heavens and the earth in six Days [periods], in order to test which of you is best in conduct. If you say, "You will [all] be raised up after death," those who deny the truth will say, "This is just sheer sorcery!"
+Enthroned above the waters, it was He who created the heavens and the earth in six Days \[periods\], in order to test which of you is best in conduct. If you say, "You will \[all\] be raised up after death," those who deny the truth will say, "This is just sheer sorcery!"
 
 # 1481
 
@@ -5946,7 +5946,7 @@ Not so those who are patient and do good deeds. They shall have forgiveness and 
 
 # 1485
 
-You may [feel the inclination] to leave aside a part of what is revealed to you and you may be distressed because they say, "Why has no treasure been sent down to him, why has no angel come with him?" But you are only to give warning. God is the guardian of all things.
+You may \[feel the inclination\] to leave aside a part of what is revealed to you and you may be distressed because they say, "Why has no treasure been sent down to him, why has no angel come with him?" But you are only to give warning. God is the guardian of all things.
 
 # 1486
 
@@ -5954,7 +5954,7 @@ If they say, "He has invented it himself." Say, "If you are truthful, produce te
 
 # 1487
 
-But if they do not respond to you, then know that this [Quran] is sent down with God's knowledge and that there is no deity but Him. Will you then surrender yourselves to Him?
+But if they do not respond to you, then know that this \[Quran\] is sent down with God's knowledge and that there is no deity but Him. Will you then surrender yourselves to Him?
 
 # 1488
 
@@ -6018,7 +6018,7 @@ O my people, I do not ask you for any money for this; my reward comes only from 
 
 # 1503
 
-My people, who would support  me against God if I were to drive them off? Will you not take heed?
+My people, who would support me against God if I were to drive them off? Will you not take heed?
 
 # 1504
 
@@ -6050,7 +6050,7 @@ Build the Ark under Our eyes and in accordance with Our revelation. Do not plead
 
 # 1511
 
-So he began to build the Ark, and whenever leaders of his people passed by, they scoffed at him. He said, "If you are scoffing at us, we shall scoff at you [and your ignorance], just as you scoff at us:
+So he began to build the Ark, and whenever leaders of his people passed by, they scoffed at him. He said, "If you are scoffing at us, we shall scoff at you \[and your ignorance\], just as you scoff at us:
 
 # 1512
 
@@ -6090,11 +6090,11 @@ He said, "My Lord, I take refuge with You from asking You something of which I h
 
 # 1521
 
-God said, "Noah, go ashore in peace; Our blessings upon you and upon the people who are with you and upon some of the descendants of those who are with you. [As for the unrighteous] We shall grant provision for a time, then a grievous punishment from Us shall afflict them."
+God said, "Noah, go ashore in peace; Our blessings upon you and upon the people who are with you and upon some of the descendants of those who are with you. \[As for the unrighteous\] We shall grant provision for a time, then a grievous punishment from Us shall afflict them."
 
 # 1522
 
-These are tidings of the unseen that We reveal to you, [O Prophet], which you did not know before, nor did your people, so be patient: the future belongs to the God-fearing.
+These are tidings of the unseen that We reveal to you, \[O Prophet\], which you did not know before, nor did your people, so be patient: the future belongs to the God-fearing.
 
 # 1523
 
@@ -6102,7 +6102,7 @@ To 'Ad We sent their brother Hud. He said, "O my people, worship God alone; you 
 
 # 1524
 
-I ask of you nothing in return for this [Message]. My recompense is with Him who has created me. Why do you not use your reason?
+I ask of you nothing in return for this \[Message\]. My recompense is with Him who has created me. Why do you not use your reason?
 
 # 1525
 
@@ -6158,7 +6158,7 @@ My people! This she-camel of God is a sign for you. So leave her alone to graze 
 
 # 1538
 
-But they hamstrung her. He [Salih] said, "Enjoy yourselves in your homes for three more days. This warning will not prove false."
+But they hamstrung her. He \[Salih\] said, "Enjoy yourselves in your homes for three more days. This warning will not prove false."
 
 # 1539
 
@@ -6210,7 +6210,7 @@ When Our messengers came to Lot, he was uneasy on this account and felt powerles
 
 # 1551
 
-His people, who were used to committing foul deeds, came running to him. He said, "My people, here are my daughters. They are purer for you, [if you marry] so have some fear of God and do not disgrace me before my guests. Is there not a single right-minded man among you?"
+His people, who were used to committing foul deeds, came running to him. He said, "My people, here are my daughters. They are purer for you, \[if you marry\] so have some fear of God and do not disgrace me before my guests. Is there not a single right-minded man among you?"
 
 # 1552
 
@@ -6238,7 +6238,7 @@ To the people of Midian, We sent their brother Shu'ayb. He said, "My people, wor
 
 # 1558
 
-O my people, [always] give full measure and weight, in all fairness and do not defraud people by making short delivery, and do not spread corruption in the land.
+O my people, \[always\] give full measure and weight, in all fairness and do not defraud people by making short delivery, and do not spread corruption in the land.
 
 # 1559
 
@@ -6250,7 +6250,7 @@ They said, "Shu'ayb, does your prayer tell you that we should abandon what our f
 
 # 1561
 
-[Shu'ayb] said, "O my people! What do you think? If I have clear evidence from my Lord, and He has sustained me with fair sustenance from Himself [should I not guide you?]. I have no desire to do, out of opposition to you, what I am asking you not to do. I only want to reform you as far as I can. Nor can I succeed without God's help. In Him I have put my trust and to Him I turn.
+\[Shu'ayb\] said, "O my people! What do you think? If I have clear evidence from my Lord, and He has sustained me with fair sustenance from Himself \[should I not guide you?\]. I have no desire to do, out of opposition to you, what I am asking you not to do. I only want to reform you as far as I can. Nor can I succeed without God's help. In Him I have put my trust and to Him I turn.
 
 # 1562
 
@@ -6334,7 +6334,7 @@ Those who are blessed shall abide in the Garden; they will dwell therein as long
 
 # 1582
 
-Have no doubt as to what they worship. They worship nothing but what their fathers worshipped before [them]. We shall certainly give them their share in full, without diminishing anything.
+Have no doubt as to what they worship. They worship nothing but what their fathers worshipped before \[them\]. We shall certainly give them their share in full, without diminishing anything.
 
 # 1583
 
@@ -6346,11 +6346,11 @@ Your Lord will reward each one of them in full for their deeds. He is well-aware
 
 # 1585
 
-Therefore stand firm [in the straight path] as you are commanded, along with those who have turned to God with you, and do not exceed the bounds, for He sees everything you do.
+Therefore stand firm \[in the straight path\] as you are commanded, along with those who have turned to God with you, and do not exceed the bounds, for He sees everything you do.
 
 # 1586
 
-Do not incline toward those who do wrong, lest the Fire touch you. For [then] you would have none to protect you from God, and you will not be helped.
+Do not incline toward those who do wrong, lest the Fire touch you. For \[then\] you would have none to protect you from God, and you will not be helped.
 
 # 1587
 
@@ -6362,7 +6362,7 @@ Be steadfast; for surely, God does not let the wages of the righteous be wasted.
 
 # 1589
 
-Why, then, were there not among the generations before you upright men who would speak out against the [spread of] corruption on earth -- except for the few whom We saved? But the wrongdoers pursued their worldly pleasures and thus became guilty.
+Why, then, were there not among the generations before you upright men who would speak out against the \[spread of\] corruption on earth -- except for the few whom We saved? But the wrongdoers pursued their worldly pleasures and thus became guilty.
 
 # 1590
 
@@ -6374,7 +6374,7 @@ If your Lord had wished, He would have made mankind into one community. As it is
 
 # 1592
 
-and to this end He has created them [all], except for those to whom your Lord has shown mercy. The word of your Lord shall be fulfilled, "I will fill Hell with jinn and men all together."
+and to this end He has created them \[all\], except for those to whom your Lord has shown mercy. The word of your Lord shall be fulfilled, "I will fill Hell with jinn and men all together."
 
 # 1593
 
@@ -6422,11 +6422,11 @@ Surely, in Joseph and his brothers there are signs for the inquirers.
 
 # 1604
 
-They said [to each other], "Surely Joseph and his brother [Benjamin] are dearer to our father than ourselves, although we are a band. Truly, our father is clearly mistaken.
+They said \[to each other\], "Surely Joseph and his brother \[Benjamin\] are dearer to our father than ourselves, although we are a band. Truly, our father is clearly mistaken.
 
 # 1605
 
-Therefore, let us put Joseph to death or cast him away to some [far-off] land, so that our father's attention should turn only to us, and you can thereafter become a righteous people."
+Therefore, let us put Joseph to death or cast him away to some \[far-off\] land, so that our father's attention should turn only to us, and you can thereafter become a righteous people."
 
 # 1606
 
@@ -6442,7 +6442,7 @@ Send him with us tomorrow, so that he may play and enjoy himself. We will look a
 
 # 1609
 
-[Jacob] said, "It would indeed grieve me if you took him away with you, and I fear lest the wolf should devour him while you are off your guard."
+\[Jacob\] said, "It would indeed grieve me if you took him away with you, and I fear lest the wolf should devour him while you are off your guard."
 
 # 1610
 
@@ -6450,7 +6450,7 @@ They said, "Surely, if the wolf devoured him while we were a strong party, we sh
 
 # 1611
 
-And so, when they went away with him, they decided to cast him into the dark depths of a well. Then We revealed to him Our will, "You shall [one day] tell them of this deed of theirs, when they do not realize who you are."
+And so, when they went away with him, they decided to cast him into the dark depths of a well. Then We revealed to him Our will, "You shall \[one day\] tell them of this deed of theirs, when they do not realize who you are."
 
 # 1612
 
@@ -6470,7 +6470,7 @@ And there came a caravan of travellers and they sent their water-drawer to draw 
 
 # 1616
 
-Later they sold him for a paltry sum, a few pieces of silver [dirhams]: So little did they value him.
+Later they sold him for a paltry sum, a few pieces of silver \[dirhams\]: So little did they value him.
 
 # 1617
 
@@ -6482,7 +6482,7 @@ And when he reached maturity, We bestowed on him right judgement and knowledge. 
 
 # 1619
 
-However, the woman in whose house he lived, wanted to seduce him. One day she bolted the doors and said, "Come!" He replied, "God forbid! Truly [your husband] is my master and has treated me honourably. Wrongdoers certainly never prosper."
+However, the woman in whose house he lived, wanted to seduce him. One day she bolted the doors and said, "Come!" He replied, "God forbid! Truly \[your husband\] is my master and has treated me honourably. Wrongdoers certainly never prosper."
 
 # 1620
 
@@ -6502,11 +6502,11 @@ But if it is torn from behind then she is lying, and he speaks the truth."
 
 # 1624
 
-So when he saw his shirt torn from behind [her husband] said, "This is the guile of you women. Your guile is great indeed.
+So when he saw his shirt torn from behind \[her husband\] said, "This is the guile of you women. Your guile is great indeed.
 
 # 1625
 
-Joseph, overlook this: but you [wife], ask forgiveness for your sin, for you have done wrong."
+Joseph, overlook this: but you \[wife\], ask forgiveness for your sin, for you have done wrong."
 
 # 1626
 
@@ -6514,7 +6514,7 @@ Women in the town began to gossip, "The nobleman's wife is trying to seduce her 
 
 # 1627
 
-When she heard of their intrigues, she sent for them and prepared a party for them. She gave a knife to each of them [to cut fruits, etc.] and then asked Joseph to appear before them. When the women saw him, they were greatly amazed [at his beauty], and they cut their hands, exclaiming, "God preserve us! This is no human being but a noble angel!"
+When she heard of their intrigues, she sent for them and prepared a party for them. She gave a knife to each of them \[to cut fruits, etc.\] and then asked Joseph to appear before them. When the women saw him, they were greatly amazed \[at his beauty\], and they cut their hands, exclaiming, "God preserve us! This is no human being but a noble angel!"
 
 # 1628
 
@@ -6534,7 +6534,7 @@ Yet, even after all the evidence they had seen, they thought it right to jail hi
 
 # 1632
 
-Two young men entered the prison along with him. One of them said, "I saw myself [in a dream] I was pressing wine." The other said, "I dreamed I was carrying bread on my head from which the birds were eating. Tell us their meaning; for we see that you are one who does good [to all]."
+Two young men entered the prison along with him. One of them said, "I saw myself \[in a dream\] I was pressing wine." The other said, "I dreamed I was carrying bread on my head from which the birds were eating. Tell us their meaning; for we see that you are one who does good \[to all\]."
 
 # 1633
 
@@ -6562,7 +6562,7 @@ He said to the one he thought would be saved, "Mention me to your master." Howev
 
 # 1639
 
-The king said, "I saw [in a dream] seven fat cows which seven lean ones were eating, also seven green ears of corn and seven others which were dry. Tell me the meaning of this vision, my nobles, if you can interpret visions."
+The king said, "I saw \[in a dream\] seven fat cows which seven lean ones were eating, also seven green ears of corn and seven others which were dry. Tell me the meaning of this vision, my nobles, if you can interpret visions."
 
 # 1640
 
@@ -6570,7 +6570,7 @@ They said, "These are confusing dreams and we do not know the interpretation of 
 
 # 1641
 
-Then one of the two men who had been released and who, after a long time, remembered, said, "I shall tell you its interpretation; therefore, give me leave to go [to Joseph in prison]."
+Then one of the two men who had been released and who, after a long time, remembered, said, "I shall tell you its interpretation; therefore, give me leave to go \[to Joseph in prison\]."
 
 # 1642
 
@@ -6586,7 +6586,7 @@ Then there will follow seven years of great hardship which will consume all but 
 
 # 1645
 
-Then a year will come after that when people will have abundant rain and when once more they will press [wine and oil]."
+Then a year will come after that when people will have abundant rain and when once more they will press \[wine and oil\]."
 
 # 1646
 
@@ -6598,7 +6598,7 @@ The king asked the women, "What was the truth of the affair in which you tried t
 
 # 1648
 
-"From this," said Joseph, "[The nobleman] should know that I did not betray him in his absence, and that God does not guide the plotting of the treacherous.
+"From this," said Joseph, "\[The nobleman\] should know that I did not betray him in his absence, and that God does not guide the plotting of the treacherous.
 
 # 1649
 
@@ -6634,7 +6634,7 @@ But if you do not bring him to me, you shall have no grain from me, nor shall yo
 
 # 1657
 
-They replied, "We shall try to persuade his father to send him with us. We shall do [our utmost]!"
+They replied, "We shall try to persuade his father to send him with us. We shall do \[our utmost\]!"
 
 # 1658
 
@@ -6642,7 +6642,7 @@ Joseph said to his servants, "Put their money back into their saddlebags, so tha
 
 # 1659
 
-When they returned to their father, they said, "Our father, any [further] measure of grain has been denied us, so send our brother [Benjamin] along with us, so that we may obtain our measure [of grain]; and, we shall guard him well."
+When they returned to their father, they said, "Our father, any \[further\] measure of grain has been denied us, so send our brother \[Benjamin\] along with us, so that we may obtain our measure \[of grain\]; and, we shall guard him well."
 
 # 1660
 
@@ -6650,23 +6650,23 @@ He replied, "Am I to trust you with him as I once trusted you with his brother? 
 
 # 1661
 
-When they opened their packs, they discovered that their money had been returned to them. They said, "Our father, what more do we desire than this? This money of ours has been returned to us, so we shall [again] buy food for our family and we shall guard our brother, and we shall obtain an additional camel-load of grain. This [that we bring now] is a small quantity."
+When they opened their packs, they discovered that their money had been returned to them. They said, "Our father, what more do we desire than this? This money of ours has been returned to us, so we shall \[again\] buy food for our family and we shall guard our brother, and we shall obtain an additional camel-load of grain. This \[that we bring now\] is a small quantity."
 
 # 1662
 
-He [Jacob] said, "I will never send him with you until you give me a solemn pledge, before God, that you will indeed bring him back to me, unless you yourselves are trapped [in a compulsive situation]." And when they had given him their solemn pledge, [Jacob] said, "God shall be witness to all that we say."
+He \[Jacob\] said, "I will never send him with you until you give me a solemn pledge, before God, that you will indeed bring him back to me, unless you yourselves are trapped \[in a compulsive situation\]." And when they had given him their solemn pledge, \[Jacob\] said, "God shall be witness to all that we say."
 
 # 1663
 
-"O my sons! Do not all of you enter [the city] by one gate; enter by separate gates. I cannot help you in any way against God; judgement is His alone. In Him I have put my trust. In Him let the faithful put their trust."
+"O my sons! Do not all of you enter \[the city\] by one gate; enter by separate gates. I cannot help you in any way against God; judgement is His alone. In Him I have put my trust. In Him let the faithful put their trust."
 
 # 1664
 
-They entered [safely] as their father had told them. However, he had no power to guard them against God's decree. It was only a wish in Jacob's soul which he had thus fulfilled. He was possessed of knowledge which We had given him. But most people have no knowledge.
+They entered \[safely\] as their father had told them. However, he had no power to guard them against God's decree. It was only a wish in Jacob's soul which he had thus fulfilled. He was possessed of knowledge which We had given him. But most people have no knowledge.
 
 # 1665
 
-When they presented themselves before Joseph, he took his brother [Benjamin] aside. He said, "I am your brother, so do not feel distressed about whatever they have been doing."
+When they presented themselves before Joseph, he took his brother \[Benjamin\] aside. He said, "I am your brother, so do not feel distressed about whatever they have been doing."
 
 # 1666
 
@@ -6682,7 +6682,7 @@ They said, turning towards him, "What is it that you have lost?"
 
 # 1669
 
-They said, "By God, you [ought to] know we have not come here to cause any trouble in the land. We are not thieves!"
+They said, "By God, you \[ought to\] know we have not come here to cause any trouble in the land. We are not thieves!"
 
 # 1670
 
@@ -6690,15 +6690,15 @@ The Egyptians asked them, "And if we find that you are lying, what penalty shall
 
 # 1671
 
-They replied, "The penalty should be that he in whose saddlebag it is found, should be held [as bondman] to atone for the crime. That is how we punish the wrongdoers."
+They replied, "The penalty should be that he in whose saddlebag it is found, should be held \[as bondman\] to atone for the crime. That is how we punish the wrongdoers."
 
 # 1672
 
-He [the herald] searched their bags before his brother's and then took out the cup from his brother's bag. In this way, We devised a plan on behalf of Joseph. He could not have detained his brother under the King's law, unless God so willed. We exalt whoever We please: but above those who have knowledge there is One all knowing.
+He \[the herald\] searched their bags before his brother's and then took out the cup from his brother's bag. In this way, We devised a plan on behalf of Joseph. He could not have detained his brother under the King's law, unless God so willed. We exalt whoever We please: but above those who have knowledge there is One all knowing.
 
 # 1673
 
-They said, "If he is a thief, a brother of his had [also] committed theft before him." But Joseph kept his secret and revealed nothing to them. He said [to himself], "Your deed was worse. God best knows the things you speak of."
+They said, "If he is a thief, a brother of his had \[also\] committed theft before him." But Joseph kept his secret and revealed nothing to them. He said \[to himself\], "Your deed was worse. God best knows the things you speak of."
 
 # 1674
 
@@ -6710,7 +6710,7 @@ He replied, "God forbid that we should take anyone other than the person on whom
 
 # 1676
 
-When they had lost all hope of [persuading] him, they withdrew, conferring among themselves. The eldest said, "Do you not know that your father took from you a pledge in God's name. You have already failed with regard to Joseph, so I shall never leave the land until my father permits me to, or God decides [things] for me. He is the best judge!
+When they had lost all hope of \[persuading\] him, they withdrew, conferring among themselves. The eldest said, "Do you not know that your father took from you a pledge in God's name. You have already failed with regard to Joseph, so I shall never leave the land until my father permits me to, or God decides \[things\] for me. He is the best judge!
 
 # 1677
 
@@ -6718,11 +6718,11 @@ Return to your father and say, 'Father, your son has committed a theft. We testi
 
 # 1678
 
-Inquire of [the people of] the city where we lodged, and of the caravan with which we travelled. We are telling you the truth.'"
+Inquire of \[the people of\] the city where we lodged, and of the caravan with which we travelled. We are telling you the truth.'"
 
 # 1679
 
-Jacob said, "No, but you have yourselves contrived a story. But it is best to be patient. God may well bring them all back to me [in the end]. For He is indeed full of knowledge and wisdom."
+Jacob said, "No, but you have yourselves contrived a story. But it is best to be patient. God may well bring them all back to me \[in the end\]. For He is indeed full of knowledge and wisdom."
 
 # 1680
 
@@ -6754,19 +6754,19 @@ They exclaimed, "Are you indeed Joseph?" He replied, "I am Joseph and this is my
 
 # 1687
 
-[The brothers] said, "By God! Most certainly God has raised you high above us, and we have indeed been guilty!"
+\[The brothers\] said, "By God! Most certainly God has raised you high above us, and we have indeed been guilty!"
 
 # 1688
 
-He said, "No blame [shall fall] on you this day; may God forgive you! And He is the Most Merciful of those who show mercy.
+He said, "No blame \[shall fall\] on you this day; may God forgive you! And He is the Most Merciful of those who show mercy.
 
 # 1689
 
-Go with this shirt of mine and cast it upon my father's face. He will recover his sight; thereupon come [back] to me with all your family."
+Go with this shirt of mine and cast it upon my father's face. He will recover his sight; thereupon come \[back\] to me with all your family."
 
 # 1690
 
-When the caravan set out from Egypt, their father [in Canaan] said, "You may think I am senile, but I certainly perceive the breath of Joseph."
+When the caravan set out from Egypt, their father \[in Canaan\] said, "You may think I am senile, but I certainly perceive the breath of Joseph."
 
 # 1691
 
@@ -6798,7 +6798,7 @@ Then Joseph prayed, "My Lord, You have given me power and taught me the interpre
 
 # 1698
 
-These are tidings of the unseen that We reveal to you, [O Prophet], though you were not present with them when they plotted and agreed upon a plan.
+These are tidings of the unseen that We reveal to you, \[O Prophet\], though you were not present with them when they plotted and agreed upon a plan.
 
 # 1699
 
@@ -6826,7 +6826,7 @@ Say, "This is my way; on the basis of sure knowledge, I call on you to have fait
 
 # 1705
 
-All the messengers We sent before you [Muhammad] were human beings to whom We made revelations; they were men chosen from the people of their towns. Did they not travel across the earth and see the end of those before them? Those who are mindful of God prefer the life to come. Will you not then understand?
+All the messengers We sent before you \[Muhammad\] were human beings to whom We made revelations; they were men chosen from the people of their towns. Did they not travel across the earth and see the end of those before them? Those who are mindful of God prefer the life to come. Will you not then understand?
 
 # 1706
 
@@ -6834,7 +6834,7 @@ When the messengers lost all hopes and thought that they had been told lies, Our
 
 # 1707
 
-In their stories there is a lesson for men of understanding. This [Quran] is no invented tale, but a confirmation of the previous [scripture] and a detailed explanation of all things as well as guidance and mercy to true believers.
+In their stories there is a lesson for men of understanding. This \[Quran\] is no invented tale, but a confirmation of the previous \[scripture\] and a detailed explanation of all things as well as guidance and mercy to true believers.
 
 # 1708
 
@@ -6898,7 +6898,7 @@ All who dwell in heavens and on the earth submit to God alone, willingly or unwi
 
 # 1723
 
-Say, "Who is Lord of the heavens and the earth?" Say, "God." Say, "Why do you take protectors other than Him, who can neither benefit nor harm even themselves?" Say, "Are the blind and the seeing equal? Is darkness equal to the light? Or have they assigned partners to God who create as He creates, so that both creations appear to them alike?"  Say, "God is the Creator of all things. He is the One, the Almighty."
+Say, "Who is Lord of the heavens and the earth?" Say, "God." Say, "Why do you take protectors other than Him, who can neither benefit nor harm even themselves?" Say, "Are the blind and the seeing equal? Is darkness equal to the light? Or have they assigned partners to God who create as He creates, so that both creations appear to them alike?" Say, "God is the Creator of all things. He is the One, the Almighty."
 
 # 1724
 
@@ -6906,7 +6906,7 @@ He sends down water from the sky that fills riverbeds to overflowing, each accor
 
 # 1725
 
-There will be the best of rewards for those who respond to their Lord: while those who do not respond to Him -- if they possessed all that is on earth and twice as much, they would surely offer it as ransom [on the Day of Judgement]; -- will have the worst reckoning and their goal is Hell: and how evil a resting-place!
+There will be the best of rewards for those who respond to their Lord: while those who do not respond to Him -- if they possessed all that is on earth and twice as much, they would surely offer it as ransom \[on the Day of Judgement\]; -- will have the worst reckoning and their goal is Hell: and how evil a resting-place!
 
 # 1726
 
@@ -6934,11 +6934,11 @@ They shall enter the eternal Gardens of Eden, along with the righteous from amon
 
 # 1732
 
-As for those who break the covenant of God, after having confirmed  it, who cut asunder what God has commanded to be joined and spread corruption in the land, a curse shall be laid on them; they shall have an evil abode.
+As for those who break the covenant of God, after having confirmed it, who cut asunder what God has commanded to be joined and spread corruption in the land, a curse shall be laid on them; they shall have an evil abode.
 
 # 1733
 
-God gives abundantly to whom He will and sparingly to whom He pleases -- [those who deny the truth] rejoice in the life of this world; yet the life of this world is but a fleeting pleasure compared with the life to come.
+God gives abundantly to whom He will and sparingly to whom He pleases -- \[those who deny the truth\] rejoice in the life of this world; yet the life of this world is but a fleeting pleasure compared with the life to come.
 
 # 1734
 
@@ -6958,7 +6958,7 @@ Thus We have sent you to a people, before whom other peoples have passed away, s
 
 # 1738
 
-Even if there were a Quran by which mountains could be set in motion, by which the earth could be rent asunder, or by which the dead could be made to speak [they would not believe in it]. Surely all things are subject to God's will. Are the faithful unaware that, had He pleased, God could have guided all mankind? Calamity shall not cease to strike those who deny the truth because of their misdeeds or to strike near their homes, until God's promise be fulfilled. God will not fail to keep His promise.
+Even if there were a Quran by which mountains could be set in motion, by which the earth could be rent asunder, or by which the dead could be made to speak \[they would not believe in it\]. Surely all things are subject to God's will. Are the faithful unaware that, had He pleased, God could have guided all mankind? Calamity shall not cease to strike those who deny the truth because of their misdeeds or to strike near their homes, until God's promise be fulfilled. God will not fail to keep His promise.
 
 # 1739
 
@@ -6966,7 +6966,7 @@ Other messengers were also mocked before you; but though I granted respite to th
 
 # 1740
 
-Is then He who watches over every soul and its actions [like any other]? Yet they ascribe partners to God. Say, "Name them! Or do you presume to inform Him of something on the earth of which He does not know? Or, is all this only your verbal assertion?" Indeed, their devices seem fair to those who deny the truth, and they are kept back from the right path. There can be no guide for those whom God lets go astray.
+Is then He who watches over every soul and its actions \[like any other\]? Yet they ascribe partners to God. Say, "Name them! Or do you presume to inform Him of something on the earth of which He does not know? Or, is all this only your verbal assertion?" Indeed, their devices seem fair to those who deny the truth, and they are kept back from the right path. There can be no guide for those whom God lets go astray.
 
 # 1741
 
@@ -6982,7 +6982,7 @@ Those to whom We sent the Scriptures rejoice in what has been revealed to you, w
 
 # 1744
 
-Thus We have revealed it as a [clear] commandment in Arabic. If you followed their desires after all the knowledge which has come to you, you would have no protector or shield against God.
+Thus We have revealed it as a \[clear\] commandment in Arabic. If you followed their desires after all the knowledge which has come to you, you would have no protector or shield against God.
 
 # 1745
 
@@ -6994,11 +6994,11 @@ God abrogates or confirms what He pleases; with Him is the source of all command
 
 # 1747
 
-Whether We show you part of what We have promised them or cause you to pass away [before that], your mission is only to give warning; it is for Us to do the reckoning.
+Whether We show you part of what We have promised them or cause you to pass away \[before that\], your mission is only to give warning; it is for Us to do the reckoning.
 
 # 1748
 
-Do they not see how We come to [their] land and shrink its borders? God decides, no one can reverse His decision, and He is swift in reckoning.
+Do they not see how We come to \[their\] land and shrink its borders? God decides, no one can reverse His decision, and He is swift in reckoning.
 
 # 1749
 
@@ -7062,7 +7062,7 @@ Those who deny the truth said to their messengers, "We shall banish you from our
 
 # 1764
 
-and settle you on the land to succeed them. That is [in store] for anyone who is in awe of meeting Me, and who heeds My warnings."
+and settle you on the land to succeed them. That is \[in store\] for anyone who is in awe of meeting Me, and who heeds My warnings."
 
 # 1765
 
@@ -7094,7 +7094,7 @@ They shall all appear before God and the weak will say to those who behaved prou
 
 # 1772
 
-When the Judgement has been passed, Satan will say to them, "God made you a true promise; I too made you promises, but I failed you. I had no authority over you, except that I called you and you responded to me. Do not now blame me, but blame yourselves! I cannot help you, nor can you help me. I reject your former  act in associating me with God." The wrongdoers will have a painful punishment.
+When the Judgement has been passed, Satan will say to them, "God made you a true promise; I too made you promises, but I failed you. I had no authority over you, except that I called you and you responded to me. Do not now blame me, but blame yourselves! I cannot help you, nor can you help me. I reject your former act in associating me with God." The wrongdoers will have a painful punishment.
 
 # 1773
 
@@ -7146,7 +7146,7 @@ He has given you all that you asked of Him; and if you try to reckon up God's fa
 
 # 1785
 
-[Remember] when Abraham said, "My Lord, make this a city of peace and help me and my children to keep away from worshipping idols.
+\[Remember\] when Abraham said, "My Lord, make this a city of peace and help me and my children to keep away from worshipping idols.
 
 # 1786
 
@@ -7182,7 +7182,7 @@ They will hurry on in fright, their heads lifted up, their gaze directed forward
 
 # 1794
 
-Warn men of the Day when the punishment will come upon them, and when the wrongdoers will say, "Our Lord, grant us respite for a short while. We will respond to Your call and will follow the messengers." [But God will answer], are you not those who swore that you would never suffer any decline?
+Warn men of the Day when the punishment will come upon them, and when the wrongdoers will say, "Our Lord, grant us respite for a short while. We will respond to Your call and will follow the messengers." \[But God will answer\], are you not those who swore that you would never suffer any decline?
 
 # 1795
 
@@ -7226,7 +7226,7 @@ A time will surely come when those who are bent on denying the truth will wish t
 
 # 1805
 
-so leave them to eat and enjoy themselves and let them be beguiled by vain hopes; for soon they will realise [the truth].
+so leave them to eat and enjoy themselves and let them be beguiled by vain hopes; for soon they will realise \[the truth\].
 
 # 1806
 
@@ -7238,7 +7238,7 @@ no people can forestall their doom, nor can they delay it.
 
 # 1808
 
-They say, "You to whom the Reminder [the Quran] has been sent down, you are surely possessed.
+They say, "You to whom the Reminder \[the Quran\] has been sent down, you are surely possessed.
 
 # 1809
 
@@ -7262,7 +7262,7 @@ but there was never a messenger who came to them but they mocked him:
 
 # 1814
 
-thus We cause this [habit of mocking] to enter into the hearts of the sinful.
+thus We cause this \[habit of mocking\] to enter into the hearts of the sinful.
 
 # 1815
 
@@ -7454,7 +7454,7 @@ Except for Lot's household, all of whom we shall rescue,
 
 # 1862
 
-except his wife. We have decreed that she will be among those who remain behind [and will be lost].
+except his wife. We have decreed that she will be among those who remain behind \[and will be lost\].
 
 # 1863
 
@@ -7462,7 +7462,7 @@ When the messengers came to Lot and his family,
 
 # 1864
 
-he said, "You are strangers [to me]."
+he said, "You are strangers \[to me\]."
 
 # 1865
 
@@ -7506,7 +7506,7 @@ By your life, they wandered on in their wild intoxication
 
 # 1875
 
-and thereupon the blast [of Our punishment] overtook them at sunrise.
+and thereupon the blast \[of Our punishment\] overtook them at sunrise.
 
 # 1876
 
@@ -7554,7 +7554,7 @@ All that they had acquired was of no avail to them.
 
 # 1887
 
-We have created the heavens and the earth and all that is between the two in accordance with the requirements of truth and wisdom. The Hour is surely coming. So overlook [their faults] with gracious forgiveness.
+We have created the heavens and the earth and all that is between the two in accordance with the requirements of truth and wisdom. The Hour is surely coming. So overlook \[their faults\] with gracious forgiveness.
 
 # 1888
 
@@ -7610,7 +7610,7 @@ But glorify your Lord with His praise, and prostrate yourself:
 
 # 1901
 
-and worship your Lord until what is certain [death] comes to you.
+and worship your Lord until what is certain \[death\] comes to you.
 
 # 1902
 
@@ -7626,7 +7626,7 @@ He created the heavens and the earth for a true purpose. He is exalted above any
 
 # 1905
 
-He created man out of a [mere] drop of sperm: yet he shows himself to be openly contentious!
+He created man out of a \[mere\] drop of sperm: yet he shows himself to be openly contentious!
 
 # 1906
 
@@ -7718,7 +7718,7 @@ Those who went before them also plotted. But God struck at the foundations of th
 
 # 1928
 
-Then on the Day of Resurrection He will disgrace them, and say, "Where are My partners for whose sake you opposed [My guidance]?" Those given knowledge will say, "This Day humiliation and affliction will surely befall those who have been denying the truth."
+Then on the Day of Resurrection He will disgrace them, and say, "Where are My partners for whose sake you opposed \[My guidance\]?" Those given knowledge will say, "This Day humiliation and affliction will surely befall those who have been denying the truth."
 
 # 1929
 
@@ -7738,7 +7738,7 @@ They will enter Gardens of Eternity, where rivers will flow at their feet. There
 
 # 1933
 
-those whose lives the angels take in a state of purity, saying [to them], "Peace be on you; enter the Garden, because of [the good] which you did [in the world]."
+those whose lives the angels take in a state of purity, saying \[to them\], "Peace be on you; enter the Garden, because of \[the good\] which you did \[in the world\]."
 
 # 1934
 
@@ -7750,7 +7750,7 @@ The evil results of their deeds overtook them, and that which they used to mock 
 
 # 1936
 
-Those who associate [others with God] say, "If God had so willed we would not have worshipped anything besides Him, neither we nor our fathers, nor would we have forbidden anything without His sanction." So did those who went before them. The duty of the messengers is only to convey the message clearly.
+Those who associate \[others with God\] say, "If God had so willed we would not have worshipped anything besides Him, neither we nor our fathers, nor would we have forbidden anything without His sanction." So did those who went before them. The duty of the messengers is only to convey the message clearly.
 
 # 1937
 
@@ -7758,7 +7758,7 @@ We raised among every people a messenger who enjoined, "Worship God alone and sh
 
 # 1938
 
-Though you [Prophet] may be eager to guide them, God does not guide those whom He lets go astray, [because of their refusal to give a positive response to the truth]. They will have no supporters.
+Though you \[Prophet\] may be eager to guide them, God does not guide those whom He lets go astray, \[because of their refusal to give a positive response to the truth\]. They will have no supporters.
 
 # 1939
 
@@ -7782,11 +7782,11 @@ They are the ones who are steadfast and put their trust in their Lord.
 
 # 1944
 
-Before you also the messengers We sent were but [mortal] men to whom We vouchsafed revelation. Ask the People of the Book, if you do not know.
+Before you also the messengers We sent were but \[mortal\] men to whom We vouchsafed revelation. Ask the People of the Book, if you do not know.
 
 # 1945
 
-[We sent them] with clear signs and scriptures. We have sent down the Reminder to you, to enable you to make clear to mankind what has been sent down to them, so that they may reflect upon it.
+\[We sent them\] with clear signs and scriptures. We have sent down the Reminder to you, to enable you to make clear to mankind what has been sent down to them, so that they may reflect upon it.
 
 # 1946
 
@@ -7834,11 +7834,11 @@ showing no gratitude for what We have given them. Enjoy yourselves awhile; but s
 
 # 1957
 
-They even appoint a share of what We have provided for them [to false gods] they know nothing of. You shall surely be questioned about the lies you have been fabricating.
+They even appoint a share of what We have provided for them \[to false gods\] they know nothing of. You shall surely be questioned about the lies you have been fabricating.
 
 # 1958
 
-They assign daughters to God, glory be to Him!, but for themselves [sons] that they desire to have.
+They assign daughters to God, glory be to Him!, but for themselves \[sons\] that they desire to have.
 
 # 1959
 
@@ -7862,7 +7862,7 @@ They attribute to God what they themselves dislike and their tongues utter the l
 
 # 1964
 
-By God! We have sent messengers before you to other nations. But Satan made their [foul] deeds seem fair to them and today he is their patron. They shall have a painful punishment.
+By God! We have sent messengers before you to other nations. But Satan made their \[foul\] deeds seem fair to them and today he is their patron. They shall have a painful punishment.
 
 # 1965
 
@@ -7902,7 +7902,7 @@ God has given you wives from among yourselves, and given you children and grandc
 
 # 1974
 
-They worship, instead of God, things that have no control over their provision from the heavens or the earth in any way, nor do they have any power [to do so].
+They worship, instead of God, things that have no control over their provision from the heavens or the earth in any way, nor do they have any power \[to do so\].
 
 # 1975
 
@@ -7914,11 +7914,11 @@ God makes a comparison between an owned slave possessing no power over anything,
 
 # 1977
 
-God makes another comparison between two men, one of whom is dumb and cannot do a thing, and is a burden on his master. Wherever he sends him on an errand, he brings [him] no good. Is he equal to someone who commands justice and is on a straight path?
+God makes another comparison between two men, one of whom is dumb and cannot do a thing, and is a burden on his master. Wherever he sends him on an errand, he brings \[him\] no good. Is he equal to someone who commands justice and is on a straight path?
 
 # 1978
 
-God alone has knowledge of the hidden reality of the heavens and the earth; and the coming of the Hour [of Judgement] is like the twinkling of an eye, or even quicker. Surely God has full power over everything.
+God alone has knowledge of the hidden reality of the heavens and the earth; and the coming of the Hour \[of Judgement\] is like the twinkling of an eye, or even quicker. Surely God has full power over everything.
 
 # 1979
 
@@ -7954,7 +7954,7 @@ When the wrongdoers face their punishment, it shall not be lightened for them, n
 
 # 1987
 
-When those who associate partners with God see their associate gods, they will say, "Our Lord, these are our associate gods whom we used to call upon instead of You." But they will throw back their words at them, [saying], "Indeed you are liars,"
+When those who associate partners with God see their associate gods, they will say, "Our Lord, these are our associate gods whom we used to call upon instead of You." But they will throw back their words at them, \[saying\], "Indeed you are liars,"
 
 # 1988
 
@@ -7970,7 +7970,7 @@ The Day will come when We raise up in every people a witness against them from a
 
 # 1991
 
-God commands justice, kindness and giving their [due to] near relatives, and He forbids all shameful deeds, and injustice and transgression. He admonishes you so that you may take heed!
+God commands justice, kindness and giving their \[due to\] near relatives, and He forbids all shameful deeds, and injustice and transgression. He admonishes you so that you may take heed!
 
 # 1992
 
@@ -8022,7 +8022,7 @@ Say, "The Holy Spirit has brought it down as truth from your Lord, so that He ma
 
 # 2004
 
-Indeed, We know what they say, "It is only a human being who imparts [all] this to him!" But the tongue of him to whom they point is foreign, whereas this is plain Arabic speech.
+Indeed, We know what they say, "It is only a human being who imparts \[all\] this to him!" But the tongue of him to whom they point is foreign, whereas this is plain Arabic speech.
 
 # 2005
 
@@ -8070,7 +8070,7 @@ So eat the lawful and good things which God has provided for you, and be thankfu
 
 # 2016
 
-He has forbidden you only carrion, blood and the flesh of swine; also any [flesh] consecrated in the name of any but God. But if anyone is forced by dire necessity, not desiring it or exceeding his immediate need, God is forgiving and merciful towards him.
+He has forbidden you only carrion, blood and the flesh of swine; also any \[flesh\] consecrated in the name of any but God. But if anyone is forced by dire necessity, not desiring it or exceeding his immediate need, God is forgiving and merciful towards him.
 
 # 2017
 
@@ -8102,7 +8102,7 @@ We gave him blessings in this world, and in the Hereafter he shall be among the 
 
 # 2024
 
-Then We revealed Our will to you [O Muhammad], saying, "Follow the religion of Abraham, the upright in faith; he was not one of the polytheists."
+Then We revealed Our will to you \[O Muhammad\], saying, "Follow the religion of Abraham, the upright in faith; he was not one of the polytheists."
 
 # 2025
 
@@ -8126,7 +8126,7 @@ for God is with those who are righteous and those who do good.
 
 # 2030
 
-Holy is He who took His servant by night from the sacred place of worship [at Makkah] to the remote house of worship [at Jerusalem] -- the precincts of which We have blessed, so that We might show him some of Our signs. Surely, it is He who is All Hearing, and All Seeing.
+Holy is He who took His servant by night from the sacred place of worship \[at Makkah\] to the remote house of worship \[at Jerusalem\] -- the precincts of which We have blessed, so that We might show him some of Our signs. Surely, it is He who is All Hearing, and All Seeing.
 
 # 2031
 
@@ -8142,7 +8142,7 @@ We forewarned the Children of Israel in the Scripture, "Twice you shall commit e
 
 # 2034
 
-When the time of the first of these warnings came, We sent against you  servants of Ours, of great might, who ravaged your homes. So the warning was fulfilled,
+When the time of the first of these warnings came, We sent against you servants of Ours, of great might, who ravaged your homes. So the warning was fulfilled,
 
 # 2035
 
@@ -8150,7 +8150,7 @@ and after a time We allowed you to prevail over them once again and aided you wi
 
 # 2036
 
-[We said], "If you persevere in doing good, you will be doing good to yourselves; but if you do evil, it will go against you." When the time of the second warning came, [We roused against you others] to disgrace you utterly and to enter the place of worship as they had entered it before, utterly destroying all that they laid their hands on.
+\[We said\], "If you persevere in doing good, you will be doing good to yourselves; but if you do evil, it will go against you." When the time of the second warning came, \[We roused against you others\] to disgrace you utterly and to enter the place of worship as they had entered it before, utterly destroying all that they laid their hands on.
 
 # 2037
 
@@ -8186,7 +8186,7 @@ Whoever chooses to follow the right path, follows it for his own good; and whoev
 
 # 2045
 
-When We decide to destroy a town, We command the affluent section of its people, but they transgress therein; thus the word [sentence of punishment] is justified, then We destroy the town utterly.
+When We decide to destroy a town, We command the affluent section of its people, but they transgress therein; thus the word \[sentence of punishment\] is justified, then We destroy the town utterly.
 
 # 2046
 
@@ -8202,11 +8202,11 @@ Anyone who desires the Hereafter and makes a proper effort to achieve it, being 
 
 # 2049
 
-Upon all, both these  [who desire the world] and those [who desire the Hereafter] We bestow the bounty of your Lord: none shall be denied the bounty of your Lord --
+Upon all, both these \[who desire the world\] and those \[who desire the Hereafter\] We bestow the bounty of your Lord: none shall be denied the bounty of your Lord --
 
 # 2050
 
-see how We have exalted some above others [in the present life]. Yet the Hereafter shall be greater in degrees of rank and greater in excellence.
+see how We have exalted some above others \[in the present life\]. Yet the Hereafter shall be greater in degrees of rank and greater in excellence.
 
 # 2051
 
@@ -8254,7 +8254,7 @@ Do not commit adultery, for it is an indecent thing and an evil course.
 
 # 2062
 
-Do not take life which God has made inviolate -- except by right. If anyone is killed wrongfully, We have given authority to his heirs to demand retribution, but let them not transgress the prescribed limits in exacting retribution; for then he will be assisted [by the law].
+Do not take life which God has made inviolate -- except by right. If anyone is killed wrongfully, We have given authority to his heirs to demand retribution, but let them not transgress the prescribed limits in exacting retribution; for then he will be assisted \[by the law\].
 
 # 2063
 
@@ -8286,11 +8286,11 @@ What! Has your Lord then favoured you with sons and Himself adopted females from
 
 # 2070
 
-We have explained [the truth] in this Quran in various ways, so that they may take heed, but it has only increased their aversion.
+We have explained \[the truth\] in this Quran in various ways, so that they may take heed, but it has only increased their aversion.
 
 # 2071
 
-Say, "If there were [other] deities along with Him, as they claim, then they would surely have tried to find a way to the Lord of the Throne.
+Say, "If there were \[other\] deities along with Him, as they claim, then they would surely have tried to find a way to the Lord of the Throne.
 
 # 2072
 
@@ -8322,7 +8322,7 @@ See to what they liken you! But they are lost and cannot find the right path.
 
 # 2079
 
-Say, "[yes] even if you turned to stones or iron,
+Say, "\[yes\] even if you turned to stones or iron,
 
 # 2080
 
@@ -8346,7 +8346,7 @@ Your Lord knows best about everyone in the heavens and on the earth. We gave som
 
 # 2085
 
-Call upon those you claim to be deities besides God and you will know that they have no power to remove affliction from you or to bring about any change [that you may desire].
+Call upon those you claim to be deities besides God and you will know that they have no power to remove affliction from you or to bring about any change \[that you may desire\].
 
 # 2086
 
@@ -8354,7 +8354,7 @@ Those whom they invoke are themselves seeking a way of approach to their Lord, v
 
 # 2087
 
-there is not a town [community] but We shall destroy or sternly punish it before the Day of Judgement. That is recorded in the Book.
+there is not a town \[community\] but We shall destroy or sternly punish it before the Day of Judgement. That is recorded in the Book.
 
 # 2088
 
@@ -8370,7 +8370,7 @@ When We said to the angels, "Prostrate yourselves before Adam," they all prostra
 
 # 2091
 
-and [further] said, "Do you see this being whom You have exalted above me? If You reprieve me until the Day of Resurrection, I will bring all but a few of his descendents under my sway."
+and \[further\] said, "Do you see this being whom You have exalted above me? If You reprieve me until the Day of Resurrection, I will bring all but a few of his descendents under my sway."
 
 # 2092
 
@@ -8398,7 +8398,7 @@ Do you then feel secure against His causing you to be swallowed up by the earth 
 
 # 2098
 
-Or do you feel secure against His sending you back to sea once again, and raising a fierce gale against you  and causing you to drown in requital for your ingratitude? You will find no helper against Us there.
+Or do you feel secure against His sending you back to sea once again, and raising a fierce gale against you and causing you to drown in requital for your ingratitude? You will find no helper against Us there.
 
 # 2099
 
@@ -8406,11 +8406,11 @@ We have honoured the children of Adam, and have borne them on the land and the s
 
 # 2100
 
-The Day will surely come when We shall summon every people with their leader. Then those who are given their records in their right hands will read their records [eagerly] and shall not in the least be wronged:
+The Day will surely come when We shall summon every people with their leader. Then those who are given their records in their right hands will read their records \[eagerly\] and shall not in the least be wronged:
 
 # 2101
 
-but whoever has been blind in this life will be blind in the life to come, and still farther astray from the path [of truth].
+but whoever has been blind in this life will be blind in the life to come, and still farther astray from the path \[of truth\].
 
 # 2102
 
@@ -8506,7 +8506,7 @@ Say, "If there had been angels walking around on earth, We would have sent an an
 
 # 2125
 
-Say, "God suffices as a witness between me and you [all]. He is informed about and observant of His servants."
+Say, "God suffices as a witness between me and you \[all\]. He is informed about and observant of His servants."
 
 # 2126
 
@@ -8558,7 +8558,7 @@ and say, "Glory to our Lord! Our Lord's promise is bound to be fulfilled."
 
 # 2138
 
-They fall down upon their faces weeping, and [the Quran] increases their humility."
+They fall down upon their faces weeping, and \[the Quran\] increases their humility."
 
 # 2139
 
@@ -8578,7 +8578,7 @@ and which rightly directs, to give warning of stern punishment from Him, and to 
 
 # 2143
 
-wherein they will remain [in a state of bliss] forever.
+wherein they will remain \[in a state of bliss\] forever.
 
 # 2144
 
@@ -8642,7 +8642,7 @@ You would have thought they were awake, though they lay asleep. We turned them o
 
 # 2159
 
-In the course of time, We raised them up again so that they might question one another. One of them asked, "How long have you stayed [here]?" They said, "We have stayed a day, or part of a day." But others said, "Your Lord knows best how long you have stayed here. Let one of you go then with these silver coins to the town, and let him find out what food is purest there, and bring you back a supply of it. Let him conduct himself with caution and not disclose your whereabouts to anyone:
+In the course of time, We raised them up again so that they might question one another. One of them asked, "How long have you stayed \[here\]?" They said, "We have stayed a day, or part of a day." But others said, "Your Lord knows best how long you have stayed here. Let one of you go then with these silver coins to the town, and let him find out what food is purest there, and bring you back a supply of it. Let him conduct himself with caution and not disclose your whereabouts to anyone:
 
 # 2160
 
@@ -8650,7 +8650,7 @@ for if they find you out, they will stone you to death, or force you back into t
 
 # 2161
 
-Thus We disclosed things to them so that they might know that God's promise was true and there was no doubt about the Hour [Judgement Day]. The people argued about them among themselves. They said, "Build a monument over them. Their Lord knows best concerning them." Those who prevailed in their affair said, "Let us surely build a place of worship over them."
+Thus We disclosed things to them so that they might know that God's promise was true and there was no doubt about the Hour \[Judgement Day\]. The people argued about them among themselves. They said, "Build a monument over them. Their Lord knows best concerning them." Those who prevailed in their affair said, "Let us surely build a place of worship over them."
 
 # 2162
 
@@ -8662,11 +8662,11 @@ never say of anything, "I shall certainly do this tomorrow,"
 
 # 2164
 
-without [adding], "if God so wills." Remember your Lord whenever you might forget and say, "I trust my Lord will guide me to that which is even nearer to the right path than this."
+without \[adding\], "if God so wills." Remember your Lord whenever you might forget and say, "I trust my Lord will guide me to that which is even nearer to the right path than this."
 
 # 2165
 
-[Some say], "They stayed in their cave three hundred years," and to that some have added another nine years.
+\[Some say\], "They stayed in their cave three hundred years," and to that some have added another nine years.
 
 # 2166
 
@@ -8722,7 +8722,7 @@ But as far as I am concerned, God alone is my Lord and I set up no partners with
 
 # 2179
 
-When you entered your garden, why did you not say, "That which God wills [will surely come to pass], there is no power save with God?" Although you see I have less wealth and offspring than you,
+When you entered your garden, why did you not say, "That which God wills \[will surely come to pass\], there is no power save with God?" Although you see I have less wealth and offspring than you,
 
 # 2180
 
@@ -8762,7 +8762,7 @@ They will be ranged before your Lord, standing in rows and He will say to them, 
 
 # 2189
 
-The Book [of deeds] will be placed before them and you will see the guilty apprehensive about its contents. They will say, "Woe to us! What a record this is! It does not leave any deed, small or large, unaccounted for!" They will find everything they ever did laid in front of them: your Lord will not be unjust to anyone.
+The Book \[of deeds\] will be placed before them and you will see the guilty apprehensive about its contents. They will say, "Woe to us! What a record this is! It does not leave any deed, small or large, unaccounted for!" They will find everything they ever did laid in front of them: your Lord will not be unjust to anyone.
 
 # 2190
 
@@ -8774,7 +8774,7 @@ I did not call them to witness at the creation of the heavens and the earth, nor
 
 # 2192
 
-On that Day He will say to them, "Call on those whom you thought to be My partners." And they will call on them, but their prayer will not be heard; and We shall place a barrier [of enmity] between them.
+On that Day He will say to them, "Call on those whom you thought to be My partners." And they will call on them, but their prayer will not be heard; and We shall place a barrier \[of enmity\] between them.
 
 # 2193
 
@@ -8894,7 +8894,7 @@ We wanted their Lord to replace him with someone purer than him and more compass
 
 # 2222
 
-"The wall belonged to two young orphans in the town whose father had been a righteous man, and a treasure of theirs lay underneath it. So your Lord wanted them to come of age and then to dig up their treasure as a mercy from Him. I did not do [it] of my own accord. That is the explanation of the things about which you were not able to restrain yourself."
+"The wall belonged to two young orphans in the town whose father had been a righteous man, and a treasure of theirs lay underneath it. So your Lord wanted them to come of age and then to dig up their treasure as a mercy from Him. I did not do \[it\] of my own accord. That is the explanation of the things about which you were not able to restrain yourself."
 
 # 2223
 
@@ -8938,7 +8938,7 @@ Then he followed still another path,
 
 # 2233
 
-until he came between two mountains. He found beside them a people who could scarcely understand a word [of his language].
+until he came between two mountains. He found beside them a people who could scarcely understand a word \[of his language\].
 
 # 2234
 
@@ -8946,15 +8946,15 @@ They said, "O Dhu'l-Qarnayn! Gog and Magog are causing corruption in the land, s
 
 # 2235
 
-He said, "What My Lord has given me is better [than any tribute]. Help me with a force of labourers and I will erect a barrier between you and them:
+He said, "What My Lord has given me is better \[than any tribute\]. Help me with a force of labourers and I will erect a barrier between you and them:
 
 # 2236
 
-bring me blocks of iron." Then, when he had filled the gap between the mountain sides [he said], "Now blow on the fire with your bellows." When the iron blocks were red with heat, he said, "Bring me molten brass to pour on them."
+bring me blocks of iron." Then, when he had filled the gap between the mountain sides \[he said\], "Now blow on the fire with your bellows." When the iron blocks were red with heat, he said, "Bring me molten brass to pour on them."
 
 # 2237
 
-So they [Gog and Magog] were not able to scale it, nor were they able to bore through it,
+So they \[Gog and Magog\] were not able to scale it, nor were they able to bore through it,
 
 # 2238
 
@@ -9026,11 +9026,11 @@ when he called upon his Lord in low tones, saying,
 
 # 2255
 
-now I fear my kinsmen when I am gone. [I have no hope of their continuing my mission] for my wife is barren, so grant me a successor from Yourself,
+now I fear my kinsmen when I am gone. \[I have no hope of their continuing my mission\] for my wife is barren, so grant me a successor from Yourself,
 
 # 2256
 
-to be my heir and to be the heir [of the blessings] of the House of Jacob; and make him, O my Lord, acceptable to you."
+to be my heir and to be the heir \[of the blessings\] of the House of Jacob; and make him, O my Lord, acceptable to you."
 
 # 2257
 
@@ -9038,7 +9038,7 @@ to be my heir and to be the heir [of the blessings] of the House of Jacob; and m
 
 # 2258
 
-"My Lord!" [said Zachariah],  "How shall I have a son when my wife is barren and I have reached such extreme old age?"
+"My Lord!" \[said Zachariah\], "How shall I have a son when my wife is barren and I have reached such extreme old age?"
 
 # 2259
 
@@ -9058,7 +9058,7 @@ To John We said, "Hold fast the Book," and while he was still a child, We bestow
 
 # 2263
 
-and tenderness [of heart] and purity. He was pious,
+and tenderness \[of heart\] and purity. He was pious,
 
 # 2264
 
@@ -9078,7 +9078,7 @@ and kept herself in seclusion from them. We sent her Our angel, who presented hi
 
 # 2268
 
-When she saw him, she said, "I seek refuge in the compassionate God from you; [do not come near] if you fear the Lord."
+When she saw him, she said, "I seek refuge in the compassionate God from you; \[do not come near\] if you fear the Lord."
 
 # 2269
 
@@ -9090,7 +9090,7 @@ She said, "How can I have a son when no man has touched me; and neither have I b
 
 # 2271
 
-[The angel] replied, "So shall it be; your Lord says, 'This is easy for Me; and We shall make him a sign to people and a blessing, from Us. This has been decreed.'"
+\[The angel\] replied, "So shall it be; your Lord says, 'This is easy for Me; and We shall make him a sign to people and a blessing, from Us. This has been decreed.'"
 
 # 2272
 
@@ -9110,7 +9110,7 @@ and if you shake the trunk of this palm-tree, it will drop fresh ripe dates on y
 
 # 2276
 
-Eat and drink and rejoice. And if you see any human being say, 'I have vowed a fast [of silence] to the Gracious God, and will not speak with any human being today.'"
+Eat and drink and rejoice. And if you see any human being say, 'I have vowed a fast \[of silence\] to the Gracious God, and will not speak with any human being today.'"
 
 # 2277
 
@@ -9126,7 +9126,7 @@ She pointed to the child. They said, "How shall we talk to someone who is a chil
 
 # 2280
 
-[But] he said, "I am God's servant. He has given me the Book and made me a prophet;
+\[But\] he said, "I am God's servant. He has given me the Book and made me a prophet;
 
 # 2281
 
@@ -9162,7 +9162,7 @@ How sharp of hearing, how sharp of sight they will be when they come to Us. But 
 
 # 2289
 
-Warn them of [the coming of] the Day of Remorse, when everything will have been decided, while they are heedless and do not believe.
+Warn them of \[the coming of\] the Day of Remorse, when everything will have been decided, while they are heedless and do not believe.
 
 # 2290
 
@@ -9190,7 +9190,7 @@ Father, indeed I fear lest a punishment from the Gracious One afflict you, and y
 
 # 2296
 
-[His father] said, "Do you reject my deities, Abraham? If you do not desist, I shall surely stone you to death. Keep out of my way!"
+\[His father\] said, "Do you reject my deities, Abraham? If you do not desist, I shall surely stone you to death. Keep out of my way!"
 
 # 2297
 
@@ -9306,7 +9306,7 @@ We have destroyed so many generations before them, who surpassed them in materia
 
 # 2325
 
-Say, "The Gracious One grants respite for a time to those who are in error until, when they are confronted with what they are promised, either in punishment [in the world] or in [the approach of] the Hour, they will realize who is worse in respect of position and who is weaker in resources."
+Say, "The Gracious One grants respite for a time to those who are in error until, when they are confronted with what they are promised, either in punishment \[in the world\] or in \[the approach of\] the Hour, they will realize who is worse in respect of position and who is weaker in resources."
 
 # 2326
 
@@ -9346,7 +9346,7 @@ So take no hasty action against them; their days are numbered.
 
 # 2335
 
-The Day will surely come when We shall gather the God-fearing like [honoured] guests before the Compassionate God
+The Day will surely come when We shall gather the God-fearing like \[honoured\] guests before the Compassionate God
 
 # 2336
 
@@ -9394,7 +9394,7 @@ The Lord of Mercy will bestow affection upon those who believe and perform right
 
 # 2347
 
-We have made it [the Quran] easy, in your own language [Prophet], so that you may convey glad news to the righteous and give warning to a stubborn people.
+We have made it \[the Quran\] easy, in your own language \[Prophet\], so that you may convey glad news to the righteous and give warning to a stubborn people.
 
 # 2348
 
@@ -9426,7 +9426,7 @@ To Him belongs whatever is in the heavens and whatever is on the earth, and what
 
 # 2355
 
-Whether you speak aloud [or in a low voice], He hears all, for He knows your secrets and what is even more hidden.
+Whether you speak aloud \[or in a low voice\], He hears all, for He knows your secrets and what is even more hidden.
 
 # 2356
 
@@ -9486,7 +9486,7 @@ God said, "Take hold of it, and have no fear: We shall return it to its former s
 
 # 2370
 
-Put your hand under your armpit: it will come out [shining] white, without any blemish. This shall be another sign.
+Put your hand under your armpit: it will come out \[shining\] white, without any blemish. This shall be another sign.
 
 # 2371
 
@@ -9558,7 +9558,7 @@ when We revealed Our will to your mother, saying,
 
 # 2388
 
-Recall when your sister walked along and said, "Shall I guide you to one who will take care of him?" Thus We returned you to your mother,  so that her eyes might be cooled and that she might not grieve. And you killed a man and We delivered you from sorrow. We tested you with various trials. You stayed for a number of years among the people of Midian, then you came upto the standard, Moses.
+Recall when your sister walked along and said, "Shall I guide you to one who will take care of him?" Thus We returned you to your mother, so that her eyes might be cooled and that she might not grieve. And you killed a man and We delivered you from sorrow. We tested you with various trials. You stayed for a number of years among the people of Midian, then you came upto the standard, Moses.
 
 # 2389
 
@@ -9646,7 +9646,7 @@ Moses said to them, "Woe to you! Do not invent lies against God, lest He destroy
 
 # 2410
 
-Then they [the magicians] conferred among themselves, whispering to one another.
+Then they \[the magicians\] conferred among themselves, whispering to one another.
 
 # 2411
 
@@ -9674,7 +9674,7 @@ but We said, "Do not be afraid. It is you who shall prevail."
 
 # 2417
 
-Throw down that [staff] which is in your right hand -- it shall swallow up what they have wrought, for what they have wrought is only a magician's trick. A magician shall never thrive, come whence he may.
+Throw down that \[staff\] which is in your right hand -- it shall swallow up what they have wrought, for what they have wrought is only a magician's trick. A magician shall never thrive, come whence he may.
 
 # 2418
 
@@ -9722,7 +9722,7 @@ Children of Israel! We delivered you from your enemies and We made a covenant wi
 
 # 2429
 
-"Eat from the wholesome things with which We have provided you but do not transgress, lest you should incur My wrath." [We said], "He that incurs My wrath shall surely be ruined.
+"Eat from the wholesome things with which We have provided you but do not transgress, lest you should incur My wrath." \[We said\], "He that incurs My wrath shall surely be ruined.
 
 # 2430
 
@@ -9730,7 +9730,7 @@ But I am most forgiving towards him who turns in repentance and believes and act
 
 # 2431
 
-[When Moses was upon the Mount, God said,] "O Moses, why have you come with such haste from your people?"
+\[When Moses was upon the Mount, God said,\] "O Moses, why have you come with such haste from your people?"
 
 # 2432
 
@@ -9746,7 +9746,7 @@ Moses returned to his people in anger and great sorrow. He said, "My people, did
 
 # 2435
 
-They answered, "We did not break our promise to you of our own accord, but we had to carry loads of the people's ornaments and so we threw them [into the fire] for that was what the Samiri suggested,"
+They answered, "We did not break our promise to you of our own accord, but we had to carry loads of the people's ornaments and so we threw them \[into the fire\] for that was what the Samiri suggested,"
 
 # 2436
 
@@ -9782,7 +9782,7 @@ Moses said, "What was the matter with you, Samiri?"
 
 # 2444
 
-He said, "I perceived what they did not see. So I took a handful [of dust] from the footprint of the Messenger and threw it in [the calf]. That is what my inner self prompted me to do."
+He said, "I perceived what they did not see. So I took a handful \[of dust\] from the footprint of the Messenger and threw it in \[the calf\]. That is what my inner self prompted me to do."
 
 # 2445
 
@@ -9794,7 +9794,7 @@ Your only deity is God, there is no deity but Him. His knowledge encompasses all
 
 # 2447
 
-Thus We relate to you the history of past events, and We have given you a reminder [the Quran] from Us.
+Thus We relate to you the history of past events, and We have given you a reminder \[the Quran\] from Us.
 
 # 2448
 
@@ -9806,7 +9806,7 @@ which they shall bear forever. It will be a grievous burden for them on the Day 
 
 # 2450
 
-the Day when the trumpet shall be blown: We shall gather all the sinners on that Day.  Their eyes will turn blue with terror
+the Day when the trumpet shall be blown: We shall gather all the sinners on that Day. Their eyes will turn blue with terror
 
 # 2451
 
@@ -9866,7 +9866,7 @@ When We said to the angels, "Prostrate yourselves before Adam," they all prostra
 
 # 2465
 
-We said, "Adam, [Satan] is an enemy to you and to your wife. Let him not turn you both out of Paradise and thus make you come to grief.
+We said, "Adam, \[Satan\] is an enemy to you and to your wife. Let him not turn you both out of Paradise and thus make you come to grief.
 
 # 2466
 
@@ -9914,7 +9914,7 @@ Do they not learn a lesson from Our destruction of many generations before them 
 
 # 2477
 
-But for a pre-ordained Word from your Lord, and a term [of respite] already fixed, immediate punishment would inevitably have taken place.
+But for a pre-ordained Word from your Lord, and a term \[of respite\] already fixed, immediate punishment would inevitably have taken place.
 
 # 2478
 
@@ -10074,11 +10074,11 @@ It is He who created the night and the day, and the sun and the moon, each glidi
 
 # 2517
 
-We have not granted everlasting life to any human being before you; then if you [Muhammad] should die, will they live forever?
+We have not granted everlasting life to any human being before you; then if you \[Muhammad\] should die, will they live forever?
 
 # 2518
 
-Every soul shall taste death; We test you with both good and evil [circumstances] as a trial. To Us you shall return.
+Every soul shall taste death; We test you with both good and evil \[circumstances\] as a trial. To Us you shall return.
 
 # 2519
 
@@ -10114,7 +10114,7 @@ Do they have other deities who can defend them against Us? They cannot even help
 
 # 2527
 
-Yet We bestowed the good things [of life] upon their fathers for a great length of time. But do they not see how We are shrinking their borders? Is it they who will prevail?
+Yet We bestowed the good things \[of life\] upon their fathers for a great length of time. But do they not see how We are shrinking their borders? Is it they who will prevail?
 
 # 2528
 
@@ -10170,7 +10170,7 @@ By the Lord, I will devise a plan against your deities after you have gone away 
 
 # 2541
 
-He broke them all into pieces, except for the biggest one of them, so that they might return to it [for enquiry].
+He broke them all into pieces, except for the biggest one of them, so that they might return to it \[for enquiry\].
 
 # 2542
 
@@ -10222,7 +10222,7 @@ They had sought to do him harm, but We frustrated them.
 
 # 2554
 
-And We saved him and Lot [and brought them] to a land which We had blessed for all people,
+And We saved him and Lot \[and brought them\] to a land which We had blessed for all people,
 
 # 2555
 
@@ -10250,7 +10250,7 @@ We helped him against his people who rejected Our revelations. They were surely 
 
 # 2561
 
-Tell of David and Solomon who both passed judgement on the field into which some people's sheep had strayed [and grazed] at night. We bore witness to their judgement.
+Tell of David and Solomon who both passed judgement on the field into which some people's sheep had strayed \[and grazed\] at night. We bore witness to their judgement.
 
 # 2562
 
@@ -10286,7 +10286,7 @@ We admitted them to Our mercy. They were all righteous men.
 
 # 2570
 
-Remember the man in the whale [Jonah] when he went away in anger, thinking We had no power over him. But he cried out in the darkness, "There is no deity but You. Glory be to You! I was indeed wrong."
+Remember the man in the whale \[Jonah\] when he went away in anger, thinking We had no power over him. But he cried out in the darkness, "There is no deity but You. Glory be to You! I was indeed wrong."
 
 # 2571
 
@@ -10322,7 +10322,7 @@ It is ordained that no nation We have destroyed shall ever rise again,
 
 # 2579
 
-but when Gog and Magog are let loose and swarm down from every hillside and they spread out, [leaping across every barrier of land and sea],
+but when Gog and Magog are let loose and swarm down from every hillside and they spread out, \[leaping across every barrier of land and sea\],
 
 # 2580
 
@@ -10350,7 +10350,7 @@ they will not hear the slightest sound of it, and they shall forever abide in a 
 
 # 2586
 
-The great Horror [of the Day of Judgement] shall not grieve them, and the angels will welcome them, saying, "This is your Day which you have been promised."
+The great Horror \[of the Day of Judgement\] shall not grieve them, and the angels will welcome them, saying, "This is your Day which you have been promised."
 
 # 2587
 
@@ -10374,7 +10374,7 @@ Say, "It has been revealed to me that your God is but One God. Will you then sub
 
 # 2592
 
-If they turn away, say, "I have warned you all alike, though I do not know whether [the scourge] which you are promised is near at hand or far off.
+If they turn away, say, "I have warned you all alike, though I do not know whether \[the scourge\] which you are promised is near at hand or far off.
 
 # 2593
 
@@ -10406,7 +10406,7 @@ it has been decreed concerning anyone whom he befriends, that he shall mislead h
 
 # 2600
 
-O people! If you are in doubt about the Resurrection, remember that We first created you from dust, then from a sperm drop, then from clotted blood, then a lump of flesh, both shaped and unshaped, so that We might manifest to you [Our power]. We cause what We will to stay in the womb for an appointed time, then We bring you forth as infants and then We cause you to grow and reach full growth. Then, some of you will pass away early in life, while some of you will reach extreme old age in which they will know nothing of what they once knew. You see the earth, dead and barren, but no sooner do We send down rain upon it than it begins to stir and swell, and produce every kind of luxuriant vegetation:
+O people! If you are in doubt about the Resurrection, remember that We first created you from dust, then from a sperm drop, then from clotted blood, then a lump of flesh, both shaped and unshaped, so that We might manifest to you \[Our power\]. We cause what We will to stay in the womb for an appointed time, then We bring you forth as infants and then We cause you to grow and reach full growth. Then, some of you will pass away early in life, while some of you will reach extreme old age in which they will know nothing of what they once knew. You see the earth, dead and barren, but no sooner do We send down rain upon it than it begins to stir and swell, and produce every kind of luxuriant vegetation:
 
 # 2601
 
@@ -10426,7 +10426,7 @@ They turn away arrogantly, leading people astray from God's path. Such men shall
 
 # 2605
 
-[God will say],"This is the reward of your misdeeds. God is not unjust to His servants."
+\[God will say\],"This is the reward of your misdeeds. God is not unjust to His servants."
 
 # 2606
 
@@ -10446,7 +10446,7 @@ God will admit those who believe and act righteously into Gardens watered by flo
 
 # 2610
 
-Anyone who thinks that God will not help him [His messenger] in this world and the Hereafter, let him stretch a rope up to the sky; then let him cut it off and see if his plan can help to remove the cause of his anger.
+Anyone who thinks that God will not help him \[His messenger\] in this world and the Hereafter, let him stretch a rope up to the sky; then let him cut it off and see if his plan can help to remove the cause of his anger.
 
 # 2611
 
@@ -10462,7 +10462,7 @@ Do you not see that whoever is in the heavens and whoever is on the earth, as we
 
 # 2614
 
-These two groups, [the believers and those who deny the truth], dispute concerning their Lord. Those who deny the truth will have garments of fire cut out for them; and boiling water will be poured down over their heads,
+These two groups, \[the believers and those who deny the truth\], dispute concerning their Lord. Those who deny the truth will have garments of fire cut out for them; and boiling water will be poured down over their heads,
 
 # 2615
 
@@ -10490,7 +10490,7 @@ As for those who deny the truth and debar others from God's path and from the Sa
 
 # 2621
 
-We assigned to Abraham the site of the House, saying, "Do not associate with Me anything and purify My House for those who circumambulate [the Kabah] and those who stand upright, and those who bow and prostrate themselves."
+We assigned to Abraham the site of the House, saying, "Do not associate with Me anything and purify My House for those who circumambulate \[the Kabah\] and those who stand upright, and those who bow and prostrate themselves."
 
 # 2622
 
@@ -10550,7 +10550,7 @@ they are those who have been driven out of their homes unjustly, only because th
 
 # 2636
 
-[They are] those who, if We established them in the land, would say their prayers regularly and pay the zakat and enjoin good and forbid evil. The final outcome of all affairs rests with God.
+\[They are\] those who, if We established them in the land, would say their prayers regularly and pay the zakat and enjoin good and forbid evil. The final outcome of all affairs rests with God.
 
 # 2637
 
@@ -10594,7 +10594,7 @@ Whereas those who strive against Our signs, seeking to defeat their purpose, sha
 
 # 2647
 
-Whenever We sent any messenger or prophet before you, and he recited anything [of Our revelation], Satan tampered with it. But God abrogates Satan's interjections and then He firmly reaffirms His revelations. God is all knowing and all wise.
+Whenever We sent any messenger or prophet before you, and he recited anything \[of Our revelation\], Satan tampered with it. But God abrogates Satan's interjections and then He firmly reaffirms His revelations. God is all knowing and all wise.
 
 # 2648
 
@@ -10606,7 +10606,7 @@ so that those who are given knowledge may realize that this is the truth from yo
 
 # 2650
 
-Those who deny the truth will continue in doubt until the [Last] Hour suddenly comes upon them or the scourge of the woeful Day descends upon them.
+Those who deny the truth will continue in doubt until the \[Last\] Hour suddenly comes upon them or the scourge of the woeful Day descends upon them.
 
 # 2651
 
@@ -10698,7 +10698,7 @@ You who are true believers, kneel and prostrate yourselves, worship your Lord an
 
 # 2673
 
-Strive for the cause of God as it behoves you to strive for it. He has chosen you and laid on you no burden in the matter of your religion, the faith of Abraham your forefather. In this, as in former scriptures He has given you the name of Muslims, so that the Messenger may be a witness over you, and so that you may be witnesses over mankind. Therefore, say your prayers  regularly and pay the zakat and hold fast to God. He is your master. An excellent master and an excellent helper!
+Strive for the cause of God as it behoves you to strive for it. He has chosen you and laid on you no burden in the matter of your religion, the faith of Abraham your forefather. In this, as in former scriptures He has given you the name of Muslims, so that the Messenger may be a witness over you, and so that you may be witnesses over mankind. Therefore, say your prayers regularly and pay the zakat and hold fast to God. He is your master. An excellent master and an excellent helper!
 
 # 2674
 
@@ -10846,7 +10846,7 @@ What you are promised is indeed far-fetched.
 
 # 2710
 
-There exists only our present life: we die and we live [but once], and shall never be raised up again.
+There exists only our present life: we die and we live \[but once\], and shall never be raised up again.
 
 # 2711
 
@@ -11070,7 +11070,7 @@ Knower of the unseen and the visible; He is exalted above all that which they as
 
 # 2766
 
-Pray, "Lord, if you would show me that [the punishment] of which they have been warned,
+Pray, "Lord, if you would show me that \[the punishment\] of which they have been warned,
 
 # 2767
 
@@ -11210,7 +11210,7 @@ and, a fifth time that God's wrath will be upon her if he is telling the truth.
 
 # 2801
 
-Were it not for God's grace and His mercy upon you, [you would have come to grief] and God is wise, acceptor of repentance.
+Were it not for God's grace and His mercy upon you, \[you would have come to grief\] and God is wise, acceptor of repentance.
 
 # 2802
 
@@ -11250,7 +11250,7 @@ Those who desire that indecencies should spread among the believers, will have a
 
 # 2811
 
-But for the grace of God and His mercy upon you, and were not God compassionate and merciful, [you would have come to grief].
+But for the grace of God and His mercy upon you, and were not God compassionate and merciful, \[you would have come to grief\].
 
 # 2812
 
@@ -11298,11 +11298,11 @@ Say to believing women that they should lower their gaze and remain chaste and n
 
 # 2823
 
-Marry those among you who are single, and those of your male and female slaves who are fit [for marriage]. If they are poor, God will provide for them from His bounty, for God's bounty is infinite and He is all knowing.
+Marry those among you who are single, and those of your male and female slaves who are fit \[for marriage\]. If they are poor, God will provide for them from His bounty, for God's bounty is infinite and He is all knowing.
 
 # 2824
 
-Those who do not have the means to marry should keep themselves chaste until God grants them enough out of His bounty. If any of your slaves desire a deed of freedom, write it out for them, if you find any promise in them, and give them some of the wealth God has given you. Do not force your [slave] maids into prostitution, in order to enrich yourself, when they wish to preserve their chastity. Yet if anyone forces them, once they have been forced, God will be forgiving and merciful to them.
+Those who do not have the means to marry should keep themselves chaste until God grants them enough out of His bounty. If any of your slaves desire a deed of freedom, write it out for them, if you find any promise in them, and give them some of the wealth God has given you. Do not force your \[slave\] maids into prostitution, in order to enrich yourself, when they wish to preserve their chastity. Yet if anyone forces them, once they have been forced, God will be forgiving and merciful to them.
 
 # 2825
 
@@ -11310,11 +11310,11 @@ We have sent down clear revelations to you and the example of those who passed a
 
 # 2826
 
-God is the light of the heavens and the earth. His light may be compared to a niche containing a lamp, the lamp inside a crystal of star-like brilliance lit from a blessed olive tree, neither of the east nor of the west. The [luminous] oil is as if ready to burn without even touching it. Light upon light; God guides to His light whom He will. God draws such comparisons for mankind; God has full knowledge of everything.
+God is the light of the heavens and the earth. His light may be compared to a niche containing a lamp, the lamp inside a crystal of star-like brilliance lit from a blessed olive tree, neither of the east nor of the west. The \[luminous\] oil is as if ready to burn without even touching it. Light upon light; God guides to His light whom He will. God draws such comparisons for mankind; God has full knowledge of everything.
 
 # 2827
 
-[They worship] in the houses which God has allowed to be raised for the remembrance of His name, morning and evening,
+\[They worship\] in the houses which God has allowed to be raised for the remembrance of His name, morning and evening,
 
 # 2828
 
@@ -11334,7 +11334,7 @@ Or like darkness on a deep ocean covered by waves billowing over waves and overc
 
 # 2832
 
-[Prophet], do you not see that all those who are in the heavens and on earth praise God, as do the birds with wings outstretched? Each knows his own mode of prayer and glorification: God has full knowledge of all that they do.
+\[Prophet\], do you not see that all those who are in the heavens and on earth praise God, as do the birds with wings outstretched? Each knows his own mode of prayer and glorification: God has full knowledge of all that they do.
 
 # 2833
 
@@ -11342,7 +11342,7 @@ To God belongs the kingdom of the heavens and the earth, and to God shall all th
 
 # 2834
 
-Do you not see how God drives the clouds, then joins them together, then piles them into layers and then you see the rain pour from their midst? He sends down from the skies mountainous masses [of clouds] charged with hail, and He makes it fall on whom He will, and turns it away from whom He pleases. The flash of His lightning may well-nigh take away the sight.
+Do you not see how God drives the clouds, then joins them together, then piles them into layers and then you see the rain pour from their midst? He sends down from the skies mountainous masses \[of clouds\] charged with hail, and He makes it fall on whom He will, and turns it away from whom He pleases. The flash of His lightning may well-nigh take away the sight.
 
 # 2835
 
@@ -11402,7 +11402,7 @@ Do not think that those who deny the truth can frustrate Our plan on earth; thei
 
 # 2849
 
-Believers, let [even] those whom you rightfully possess, and those who are under age ask your leave on three occasions when they come in to see you: before the morning prayer, when you have taken off your garments in the heat of noon, and after the evening prayer. These are the three occasions for your privacy. At other times, there is nothing blameworthy if you or they go around visiting one another. Thus God makes clear to you His revelations: God is all knowing and wise.
+Believers, let \[even\] those whom you rightfully possess, and those who are under age ask your leave on three occasions when they come in to see you: before the morning prayer, when you have taken off your garments in the heat of noon, and after the evening prayer. These are the three occasions for your privacy. At other times, there is nothing blameworthy if you or they go around visiting one another. Thus God makes clear to you His revelations: God is all knowing and wise.
 
 # 2850
 
@@ -11430,7 +11430,7 @@ Surely, whatever is in the heavens and on the earth belongs to God. God knows we
 
 # 2856
 
-Blessed be He who has revealed the criterion [the Quran] to His servant that he may warn the nations.
+Blessed be He who has revealed the criterion \[the Quran\] to His servant that he may warn the nations.
 
 # 2857
 
@@ -11502,7 +11502,7 @@ They will answer, "Hallowed be You! It was not proper for us to choose any guard
 
 # 2874
 
-[God will say], "Now, they have given the lie to all your assertions, and you can neither ward off [your punishment] nor obtain any help." For, whoever of you has committed evil, shall be caused by Us to taste great suffering!"
+\[God will say\], "Now, they have given the lie to all your assertions, and you can neither ward off \[your punishment\] nor obtain any help." For, whoever of you has committed evil, shall be caused by Us to taste great suffering!"
 
 # 2875
 
@@ -11578,7 +11578,7 @@ We drowned the people of Noah also when they rejected their messengers and We ma
 
 # 2893
 
-to  'Ad, and Thamud, and the people of al-Rass, and as We did for the many a generation between them.
+to 'Ad, and Thamud, and the people of al-Rass, and as We did for the many a generation between them.
 
 # 2894
 
@@ -11594,7 +11594,7 @@ Whenever they see you they only make a mockery of you -- "Is this the one God ha
 
 # 2897
 
-Indeed, he would well-nigh have led us astray from our deities, had we not been [so] steadfastly attached to them!" When they behold the punishment, they shall realize who strayed furthest from the right path.
+Indeed, he would well-nigh have led us astray from our deities, had we not been \[so\] steadfastly attached to them!" When they behold the punishment, they shall realize who strayed furthest from the right path.
 
 # 2898
 
@@ -11634,7 +11634,7 @@ If We had so wished, We might have sent a warner into every town,
 
 # 2907
 
-so do not yield to those who deny the truth, but strive with the utmost strenuousness by means of this [Quran, to convey its message to them].
+so do not yield to those who deny the truth, but strive with the utmost strenuousness by means of this \[Quran, to convey its message to them\].
 
 # 2908
 
@@ -11646,7 +11646,7 @@ It is He who has created human beings from water and He has granted them the tie
 
 # 2910
 
-Yet they worship besides God that which can neither benefit them nor harm them. One who denies the truth is a helper [of evil] against his Lord.
+Yet they worship besides God that which can neither benefit them nor harm them. One who denies the truth is a helper \[of evil\] against his Lord.
 
 # 2911
 
@@ -11658,11 +11658,11 @@ Say, "I do not ask you for any recompense for this except that anyone who so wis
 
 # 2913
 
-Put your trust in the One who is the Ever-Living [God], who never dies, and glorify Him with His praise. He is fully aware of the sins of His servants;
+Put your trust in the One who is the Ever-Living \[God\], who never dies, and glorify Him with His praise. He is fully aware of the sins of His servants;
 
 # 2914
 
-it is He who created the heavens and the earth and all that is between them in six Days [periods], then settled Himself on the throne -- the Gracious One. Ask any informed person about Him.
+it is He who created the heavens and the earth and all that is between them in six Days \[periods\], then settled Himself on the throne -- the Gracious One. Ask any informed person about Him.
 
 # 2915
 
@@ -11794,7 +11794,7 @@ besides, they accuse me of a crime, and I fear that they may put me to death."
 
 # 2947
 
-God said, "Indeed not; go both of you with Our signs, We shall be with you, listening [to your call].
+God said, "Indeed not; go both of you with Our signs, We shall be with you, listening \[to your call\].
 
 # 2948
 
@@ -11866,7 +11866,7 @@ So Moses threw down his staff and suddenly it appeared as a serpent, plainly vis
 
 # 2965
 
-And he drew out his hand, and it appeared [shining] white to the beholders.
+And he drew out his hand, and it appeared \[shining\] white to the beholders.
 
 # 2966
 
@@ -12318,7 +12318,7 @@ For this I demand no recompense from you; my reward is only with the Lord of the
 
 # 3078
 
-Do you think that you will be left secure [forever] --
+Do you think that you will be left secure \[forever\] --
 
 # 3079
 
@@ -12426,7 +12426,7 @@ then We totally destroyed the rest,
 
 # 3105
 
-and We poured a rain [of destruction] down upon them -- and how evil was the rain which fell on those who were forewarned.
+and We poured a rain \[of destruction\] down upon them -- and how evil was the rain which fell on those who were forewarned.
 
 # 3106
 
@@ -12522,7 +12522,7 @@ Surely, it is foretold in the ancient scriptures.
 
 # 3129
 
-Is it not evidence enough for them that the learned among the Children of Israel have recognized this [as true]?
+Is it not evidence enough for them that the learned among the Children of Israel have recognized this \[as true\]?
 
 # 3130
 
@@ -12606,7 +12606,7 @@ Put your trust in the Mighty One, the Merciful,
 
 # 3150
 
-who sees you when you stand up [for prayer],
+who sees you when you stand up \[for prayer\],
 
 # 3151
 
@@ -12690,7 +12690,7 @@ as for those who do wrong and then do good after evil, I am most forgiving, most
 
 # 3171
 
-Now put your hand inside your cloak next to your bosom and it will come out [shining] white, without any blemish. This will be one of the nine signs for Pharaoh and his people: for truly they are a rebellious people."
+Now put your hand inside your cloak next to your bosom and it will come out \[shining\] white, without any blemish. This will be one of the nine signs for Pharaoh and his people: for truly they are a rebellious people."
 
 # 3172
 
@@ -12786,7 +12786,7 @@ but I shall send them a present and see with what reply my envoys will return."
 
 # 3195
 
-So when [the envoy] came to Solomon he said, "What! Are you offering me wealth? But that which God has given me is better than that which He has given you. Yet you rejoice in your gift.
+So when \[the envoy\] came to Solomon he said, "What! Are you offering me wealth? But that which God has given me is better than that which He has given you. Yet you rejoice in your gift.
 
 # 3196
 
@@ -12794,7 +12794,7 @@ Go back to them: we shall most certainly come upon them with forces which they w
 
 # 3197
 
-Solomon then said, "O Counsellors,  which of you can bring me her throne before they come to me in submission?
+Solomon then said, "O Counsellors, which of you can bring me her throne before they come to me in submission?
 
 # 3198
 
@@ -12810,11 +12810,11 @@ He said, "Disguise her throne. We shall see whether or not she will recognize it
 
 # 3201
 
-When she came to Solomon, she was asked, "Is your throne like this?" She replied, "It looks as though it were the same, and we had been given knowledge [of your power] before this, and we have already submitted."
+When she came to Solomon, she was asked, "Is your throne like this?" She replied, "It looks as though it were the same, and we had been given knowledge \[of your power\] before this, and we have already submitted."
 
 # 3202
 
-And that which she used to worship beside God had stopped her [from believing]; for she came of a disbelieving people.
+And that which she used to worship beside God had stopped her \[from believing\]; for she came of a disbelieving people.
 
 # 3203
 
@@ -12838,7 +12838,7 @@ There were in the city nine men who spread corruption in the land, and would not
 
 # 3208
 
-They said, "Let us bind ourselves by an oath sworn in the name of God that we shall attack Salih and his family by night, and to his protector [who demands retribution], we shall say, "We were not present when they were slain. We are telling the truth."
+They said, "Let us bind ourselves by an oath sworn in the name of God that we shall attack Salih and his family by night, and to his protector \[who demands retribution\], we shall say, "We were not present when they were slain. We are telling the truth."
 
 # 3209
 
@@ -12906,7 +12906,7 @@ Say, "No one in the heavens and the earth has knowledge of the unseen except God
 
 # 3225
 
-Indeed, their knowledge of the life to come stops short of the truth: they are [often] in doubt as to its reality: in fact, they are blind to it.
+Indeed, their knowledge of the life to come stops short of the truth: they are \[often\] in doubt as to its reality: in fact, they are blind to it.
 
 # 3226
 
@@ -13034,7 +13034,7 @@ Pharaoh behaved arrogantly in the land, and divided the people into groups, seek
 
 # 3257
 
-We wished to favour those who were oppressed in the land, and to make them leaders and make them inheritors [of Our bounties],
+We wished to favour those who were oppressed in the land, and to make them leaders and make them inheritors \[of Our bounties\],
 
 # 3258
 
@@ -13054,7 +13054,7 @@ and Pharaoh's wife said, "He will be a joy to the eye for me and you! Do not sla
 
 # 3262
 
-Moses' mother's heart was full of anxiety -- she would have disclosed his identity had We not strengthened her heart so that she might be a firm believer [in Our promise].
+Moses' mother's heart was full of anxiety -- she would have disclosed his identity had We not strengthened her heart so that she might be a firm believer \[in Our promise\].
 
 # 3263
 
@@ -13142,7 +13142,7 @@ Throw down your staff." And when he saw it move as though it were a serpent, he 
 
 # 3284
 
-Put your hand into your bosom; it will come out [shining] white, without blemish; now draw your arm close to your body to calm your fears. These are two credentials from your Lord for Pharaoh and his nobles. Surely, they are a rebellious people."
+Put your hand into your bosom; it will come out \[shining\] white, without blemish; now draw your arm close to your body to calm your fears. These are two credentials from your Lord for Pharaoh and his nobles. Surely, they are a rebellious people."
 
 # 3285
 
@@ -13206,7 +13206,7 @@ and may not say, if an affliction should befall them on account of their misdeed
 
 # 3300
 
-But when the truth came to them from Us, they said, "Why has he not been given the like of what Moses was given?" But did they not reject what Moses was given before? They said, "Both [Moses and Muhammad] are kinds of sorcery, each assisting the other." And they add, "We reject both of them."
+But when the truth came to them from Us, they said, "Why has he not been given the like of what Moses was given?" But did they not reject what Moses was given before? They said, "Both \[Moses and Muhammad\] are kinds of sorcery, each assisting the other." And they add, "We reject both of them."
 
 # 3301
 
@@ -13222,7 +13222,7 @@ We have conveyed Our Word to them, in succession, so that they may give heed.
 
 # 3304
 
-Those to whom We gave the Book before this believe in it [the Quran],
+Those to whom We gave the Book before this believe in it \[the Quran\],
 
 # 3305
 
@@ -13258,7 +13258,7 @@ Whatever you are given in this life is nothing but a temporary provision of this
 
 # 3313
 
-Can someone to whom We have made a gracious promise and who will see it fulfilled, be compared to someone We have allowed to enjoy a worldly life, awhile, and who will be brought up [before God] for his accounting on the Day of Resurrection?
+Can someone to whom We have made a gracious promise and who will see it fulfilled, be compared to someone We have allowed to enjoy a worldly life, awhile, and who will be brought up \[before God\] for his accounting on the Day of Resurrection?
 
 # 3314
 
@@ -13322,7 +13322,7 @@ Korah was one of Moses' people, but he behaved arrogantly towards them. We had g
 
 # 3329
 
-But seek the Home of the Hereafter by means of that which God has bestowed on you; do not forget to take your portion [of the Hereafter] in this world." Be good to others as God has been good to you and do not strive for evil in the land, for God does not love the evil-doers."
+But seek the Home of the Hereafter by means of that which God has bestowed on you; do not forget to take your portion \[of the Hereafter\] in this world." Be good to others as God has been good to you and do not strive for evil in the land, for God does not love the evil-doers."
 
 # 3330
 
@@ -13490,7 +13490,7 @@ Lot prayed, "Lord, help me against this wicked people."
 
 # 3371
 
-When Our messengers brought Abraham the good news [of the birth of Isaac] they [also] said, "We are indeed going to destroy the people of this city, for the people of this city are truly wrongdoers."
+When Our messengers brought Abraham the good news \[of the birth of Isaac\] they \[also\] said, "We are indeed going to destroy the people of this city, for the people of this city are truly wrongdoers."
 
 # 3372
 
@@ -13550,7 +13550,7 @@ Recite what has been revealed to you of the book, and pray regularly. Surely pra
 
 # 3386
 
-Believers, argue only in the best way with the People of the Book, [but contend not at all] with such of them as are unjust. Say, "We believe in what has been revealed to us, and what has been revealed to you; our God and your God are one; and to Him we submit."
+Believers, argue only in the best way with the People of the Book, \[but contend not at all\] with such of them as are unjust. Say, "We believe in what has been revealed to us, and what has been revealed to you; our God and your God are one; and to Him we submit."
 
 # 3387
 
@@ -13582,11 +13582,11 @@ They ask you to hasten the punishment. Had there not been an appointed time for 
 
 # 3394
 
-They ask you to hasten the punishment, but surely, Hell is [already] encompassing those who deny the truth.
+They ask you to hasten the punishment, but surely, Hell is \[already\] encompassing those who deny the truth.
 
 # 3395
 
-On the Day the punishment envelops them from above them and from underneath their feet, they will be told, "Taste [the punishment] for what you used to do!"
+On the Day the punishment envelops them from above them and from underneath their feet, they will be told, "Taste \[the punishment\] for what you used to do!"
 
 # 3396
 
@@ -13658,7 +13658,7 @@ in a nearby land. They will reverse their defeat with a victory
 
 # 3413
 
-within a few years: [for] with God rests all power of decision, first and last. On that day the believers too will have cause to rejoice,
+within a few years: \[for\] with God rests all power of decision, first and last. On that day the believers too will have cause to rejoice,
 
 # 3414
 
@@ -13666,7 +13666,7 @@ with the help of God. He helps whom He pleases: He is the Mighty, and the Mercif
 
 # 3415
 
-[This is] God's promise. Never does God fail to fulfil His promise -- but most people do not know this;
+\[This is\] God's promise. Never does God fail to fulfil His promise -- but most people do not know this;
 
 # 3416
 
@@ -13738,7 +13738,7 @@ Among His signs are your sleep, at night or in daytime, and your seeking His bou
 
 # 3433
 
-Among His signs is this: He shows you the lightning, giving rise to [both] fear and hope, and sends down water from the sky, giving life thereby to the earth after it had been lifeless: in this, behold, there are signs indeed for people who use their reason!
+Among His signs is this: He shows you the lightning, giving rise to \[both\] fear and hope, and sends down water from the sky, giving life thereby to the earth after it had been lifeless: in this, behold, there are signs indeed for people who use their reason!
 
 # 3434
 
@@ -13762,7 +13762,7 @@ And still those who are unjust follow their own desires without having any knowl
 
 # 3439
 
-Devote yourself single-mindedly to the Religion. And follow the nature [constitution] as made by God, that nature in which He has created mankind. There is no altering the creation of God. That is the right religion. But most people do not realize it.
+Devote yourself single-mindedly to the Religion. And follow the nature \[constitution\] as made by God, that nature in which He has created mankind. There is no altering the creation of God. That is the right religion. But most people do not realize it.
 
 # 3440
 
@@ -13814,7 +13814,7 @@ Say, "Journey through the land, and see how those before you met their end -- mo
 
 # 3452
 
-[Prophet], set your face to the right religion, before that Day comes from God which cannot be averted. On that Day, mankind will be parted in two.
+\[Prophet\], set your face to the right religion, before that Day comes from God which cannot be averted. On that Day, mankind will be parted in two.
 
 # 3453
 
@@ -13846,19 +13846,19 @@ Look, therefore, at the signs of God's mercy; how He resurrects the earth after 
 
 # 3460
 
-Yet if We send a wind and they see their harvest turn yellow, they will then begin to deny [Our favours].
+Yet if We send a wind and they see their harvest turn yellow, they will then begin to deny \[Our favours\].
 
 # 3461
 
-You [Prophet] cannot make the dead hear and you cannot make the deaf hear your call when they turn their backs and leave;
+You \[Prophet\] cannot make the dead hear and you cannot make the deaf hear your call when they turn their backs and leave;
 
 # 3462
 
-just as you cannot lead the blind [of heart] out of their error, you cannot make anyone hear your call save those who are willing to believe in Our revelations, and thus surrender themselves to Us and are submissive to Our will.
+just as you cannot lead the blind \[of heart\] out of their error, you cannot make anyone hear your call save those who are willing to believe in Our revelations, and thus surrender themselves to Us and are submissive to Our will.
 
 # 3463
 
-God is the One who has created you in a state of weakness; then He has granted you strength following [your] weakness; later on He has given you infirmity and grey hairs in place of strength. He creates whatever He wishes; He is the All Knowing and All Powerful.
+God is the One who has created you in a state of weakness; then He has granted you strength following \[your\] weakness; later on He has given you infirmity and grey hairs in place of strength. He creates whatever He wishes; He is the All Knowing and All Powerful.
 
 # 3464
 
@@ -13878,11 +13878,11 @@ Truly, We have set forth for men in this Quran every kind of parable and indeed,
 
 # 3468
 
-In this way God seals the hearts of those who do not [want to] know [the truth],
+In this way God seals the hearts of those who do not \[want to\] know \[the truth\],
 
 # 3469
 
-so have patience [O Muhammad]! God's promise is true; let not those who will not be convinced make you discouraged.
+so have patience \[O Muhammad\]! God's promise is true; let not those who will not be convinced make you discouraged.
 
 # 3470
 
@@ -13910,7 +13910,7 @@ But among men there are some who spend their time in idle diversions only to lea
 
 # 3476
 
-Whenever Our messages are conveyed to such a person, he turns away in his arrogance, as though he had not heard them -- as though his ears were sealed: give him, then, the tidings of grievous suffering [in the life to come].
+Whenever Our messages are conveyed to such a person, he turns away in his arrogance, as though he had not heard them -- as though his ears were sealed: give him, then, the tidings of grievous suffering \[in the life to come\].
 
 # 3477
 
@@ -13938,7 +13938,7 @@ Luqman said to his son, counselling him, "My son, do not associate anything with
 
 # 3483
 
-We have enjoined man to show kindness to his parents -- for his mother bears him, in hardship upon hardship, and his weaning takes two years. [We said] Give thanks to Me and to your parents; all will return to Me.
+We have enjoined man to show kindness to his parents -- for his mother bears him, in hardship upon hardship, and his weaning takes two years. \[We said\] Give thanks to Me and to your parents; all will return to Me.
 
 # 3484
 
@@ -13946,7 +13946,7 @@ But if they press you to associate something with Me about which you have no kno
 
 # 3485
 
-[Luqman further said,] "O my son! Though it be but the weight of a grain of mustard seed and though it be hidden in a rock, or in the heavens or on the earth, God will bring it forth. Truly, God is the knower of all subtleties and He is aware.
+\[Luqman further said,\] "O my son! Though it be but the weight of a grain of mustard seed and though it be hidden in a rock, or in the heavens or on the earth, God will bring it forth. Truly, God is the knower of all subtleties and He is aware.
 
 # 3486
 
@@ -13966,7 +13966,7 @@ Have you not seen that God has subjected to you whatever is in the heavens and w
 
 # 3490
 
-When they are told to follow the [Revelations] that God has sent down, they say, "No, we shall follow the ways that we found our fathers [following]." Yes! Even though Satan is inviting them to the punishment of the burning Fire?
+When they are told to follow the \[Revelations\] that God has sent down, they say, "No, we shall follow the ways that we found our fathers \[following\]." Yes! Even though Satan is inviting them to the punishment of the burning Fire?
 
 # 3491
 
@@ -13990,7 +13990,7 @@ Whatever is in the heavens and the earth belongs to God. Assuredly, God is self-
 
 # 3496
 
-If all the trees on earth were pens, and the sea [were] ink, with seven [more] seas added to it, the words of God would not be exhausted: for, truly, God is Almighty and Wise.
+If all the trees on earth were pens, and the sea \[were\] ink, with seven \[more\] seas added to it, the words of God would not be exhausted: for, truly, God is Almighty and Wise.
 
 # 3497
 
@@ -14010,7 +14010,7 @@ Have you not seen how the ships sail on the sea by God's grace so that He may sh
 
 # 3501
 
-When the waves engulf them like shadows [of death], they call to God, sincere [at that moment] in their faith in Him alone: but as soon as He has brought them safe ashore, only some of them take the right course. And none denies Our signs save the perfidious and ungrateful person.
+When the waves engulf them like shadows \[of death\], they call to God, sincere \[at that moment\] in their faith in Him alone: but as soon as He has brought them safe ashore, only some of them take the right course. And none denies Our signs save the perfidious and ungrateful person.
 
 # 3502
 
@@ -14062,7 +14062,7 @@ They say, "When we are lost in the earth, how can we then be recreated?" Indeed,
 
 # 3514
 
-Say, "The Angel of Death who has been given charge of you will gather in your souls. Then you will [all] be returned to your Lord."
+Say, "The Angel of Death who has been given charge of you will gather in your souls. Then you will \[all\] be returned to your Lord."
 
 # 3515
 
@@ -14074,7 +14074,7 @@ Yet had We so willed, We could indeed have imposed Our guidance upon every human
 
 # 3517
 
-We shall say to them, "Taste this -- for you forgot you would ever meet this Day. We too will forget you -- taste the chastisement of Eternity for your [evil] deeds!"
+We shall say to them, "Taste this -- for you forgot you would ever meet this Day. We too will forget you -- taste the chastisement of Eternity for your \[evil\] deeds!"
 
 # 3518
 
@@ -14110,7 +14110,7 @@ Who does greater wrong than someone who, when revelations of his Lord are recite
 
 # 3526
 
-We gave Moses the Scripture, so [Muhammad] do not doubt that you are receiving it, just as We made it a guide for the Children of Israel.
+We gave Moses the Scripture, so \[Muhammad\] do not doubt that you are receiving it, just as We made it a guide for the Children of Israel.
 
 # 3527
 
@@ -14122,7 +14122,7 @@ Surely your Lord will judge between them on the Day of Resurrection concerning t
 
 # 3529
 
-Does it not guide them [to see] how many generations We destroyed before them, among whose ruined dwellings they now walk about? There truly are signs in this -- will they not listen?
+Does it not guide them \[to see\] how many generations We destroyed before them, among whose ruined dwellings they now walk about? There truly are signs in this -- will they not listen?
 
 # 3530
 
@@ -14134,7 +14134,7 @@ And they say, "When will this judgement come, if you are telling the truth?"
 
 # 3532
 
-Say, "On the Day of Judgement it will be of no benefit to those who were bent on denying the truth, if they [then] believe! They will be granted no respite."
+Say, "On the Day of Judgement it will be of no benefit to those who were bent on denying the truth, if they \[then\] believe! They will be granted no respite."
 
 # 3533
 
@@ -14154,7 +14154,7 @@ Put your trust in God; God is sufficient as a Guardian.
 
 # 3537
 
-God has not placed two hearts in any man's body, nor has He made your wives -- from whom you keep away by saying, "Be as my mother's back" -- your [real] mothers, neither He has made your adopted sons as your own sons. These are merely words which you utter with your mouths: but God speaks the truth and gives guidance to the right path.
+God has not placed two hearts in any man's body, nor has He made your wives -- from whom you keep away by saying, "Be as my mother's back" -- your \[real\] mothers, neither He has made your adopted sons as your own sons. These are merely words which you utter with your mouths: but God speaks the truth and gives guidance to the right path.
 
 # 3538
 
@@ -14162,7 +14162,7 @@ Call them after their own fathers; that is closer to justice in the sight of God
 
 # 3539
 
-The Prophet has a higher claim on the believers than [they have on] their own selves, and his wives are their mothers. Blood relatives are closer to one another in God's Book than are believers and the Emigrants except that you want to show your friends a kindness. That is decreed in the Book.
+The Prophet has a higher claim on the believers than \[they have on\] their own selves, and his wives are their mothers. Blood relatives are closer to one another in God's Book than are believers and the Emigrants except that you want to show your friends a kindness. That is decreed in the Book.
 
 # 3540
 
@@ -14170,7 +14170,7 @@ We took a solemn pledge from the prophets, from you and Noah, Abraham, Moses and
 
 # 3541
 
-So that God might ask those men of truth as to [what response] their truthfulness [had received on earth]. But for those who deny the truth, He has prepared a woeful punishment.
+So that God might ask those men of truth as to \[what response\] their truthfulness \[had received on earth\]. But for those who deny the truth, He has prepared a woeful punishment.
 
 # 3542
 
@@ -14178,7 +14178,7 @@ You who have attained to faith, remember God's blessings upon you when mighty ar
 
 # 3543
 
-When they came against you both from above you and from below you, your eyes rolled [with fear] and your hearts leapt up to your throats, and you entertained [ill] thoughts about God.
+When they came against you both from above you and from below you, your eyes rolled \[with fear\] and your hearts leapt up to your throats, and you entertained \[ill\] thoughts about God.
 
 # 3544
 
@@ -14190,7 +14190,7 @@ The hypocrites and people with sickness in their hearts said, "God and His Messe
 
 # 3546
 
-Others said, "People of Yathrib, you cannot withstand [the enemy] here: so go back!" Yet others asked leave of the Prophet, saying, "Our houses are exposed and [defenceless]." They were in truth not exposed: they only wished to flee.
+Others said, "People of Yathrib, you cannot withstand \[the enemy\] here: so go back!" Yet others asked leave of the Prophet, saying, "Our houses are exposed and \[defenceless\]." They were in truth not exposed: they only wished to flee.
 
 # 3547
 
@@ -14218,7 +14218,7 @@ Begrudging you all help, but when danger comes, you can see them looking at you 
 
 # 3553
 
-They thought the confederate tribes would never withdraw. Indeed, if the confederates should come again, they would prefer to be in the desert, among the Bedouins. There they would ask news of you [from a distance]. But if they were with you, they would take very little part in the fighting.
+They thought the confederate tribes would never withdraw. Indeed, if the confederates should come again, they would prefer to be in the desert, among the Bedouins. There they would ask news of you \[from a distance\]. But if they were with you, they would take very little part in the fighting.
 
 # 3554
 
@@ -14230,7 +14230,7 @@ When the believers saw the confederates, they said, "This is what God and His Me
 
 # 3556
 
-Among the believers there are men who have been true to the pledge they made with God. Among them are such as have fulfilled their vow, and some who [still] wait, without having changed [their resolve] in the least.
+Among the believers there are men who have been true to the pledge they made with God. Among them are such as have fulfilled their vow, and some who \[still\] wait, without having changed \[their resolve\] in the least.
 
 # 3557
 
@@ -14238,7 +14238,7 @@ God will surely reward the truthful for their truthfulness and punish the hypocr
 
 # 3558
 
-God turned back those who denied the truth in their rage, without their having gained any advantage. God was enough to [protect] the believers in battle. God is strong and all-powerful.
+God turned back those who denied the truth in their rage, without their having gained any advantage. God was enough to \[protect\] the believers in battle. God is strong and all-powerful.
 
 # 3559
 
@@ -14270,7 +14270,7 @@ Wives of the Prophet, you are not like any other women. If you fear God, do not 
 
 # 3566
 
-Stay in your homes and do not flaunt your charms as in the former times of ignorance. Attend to your prayers, pay the zakat and obey God and His Messenger. Women of the [Prophet"s] Household, God seeks only to remove all impurity from you, and to make you completely pure.
+Stay in your homes and do not flaunt your charms as in the former times of ignorance. Attend to your prayers, pay the zakat and obey God and His Messenger. Women of the \[Prophet"s\] Household, God seeks only to remove all impurity from you, and to make you completely pure.
 
 # 3567
 
@@ -14278,7 +14278,7 @@ Bear in mind all that is recited in your homes of the revelations of God and of 
 
 # 3568
 
-Surely, for men and women who have surrendered [to God] -- believing men and believing women, obedient men and obedient women, truthful men and truthful women, patient men and patient women, humble men and humble women, charitable men and charitable women, fasting men and fasting women, men and women who guard their chastity, men and women who are ever mindful of God -- God is ready with forgiveness and an immense reward.
+Surely, for men and women who have surrendered \[to God\] -- believing men and believing women, obedient men and obedient women, truthful men and truthful women, patient men and patient women, humble men and humble women, charitable men and charitable women, fasting men and fasting women, men and women who guard their chastity, men and women who are ever mindful of God -- God is ready with forgiveness and an immense reward.
 
 # 3569
 
@@ -14338,11 +14338,11 @@ Believers, if you marry believing women, and divorce them before the marriage is
 
 # 3583
 
-Prophet, We have made lawful for you the wives to whom you have given their dowers, as well as those whom your right hand possesses from among the captives of war whom God has bestowed upon you. and [We have made lawful to you] the daughters of your paternal uncles and aunts, and the daughters of your maternal uncles and aunts, who have migrated with you; and any believing woman who gives herself to the Prophet, provided the Prophet wants to marry her. This applies only to you and not to the rest of the believers. We know what We have prescribed for them concerning their wives and those whom their right hands may possess, in order that there may be no blame on you. God is most forgiving, most merciful.
+Prophet, We have made lawful for you the wives to whom you have given their dowers, as well as those whom your right hand possesses from among the captives of war whom God has bestowed upon you. and \[We have made lawful to you\] the daughters of your paternal uncles and aunts, and the daughters of your maternal uncles and aunts, who have migrated with you; and any believing woman who gives herself to the Prophet, provided the Prophet wants to marry her. This applies only to you and not to the rest of the believers. We know what We have prescribed for them concerning their wives and those whom their right hands may possess, in order that there may be no blame on you. God is most forgiving, most merciful.
 
 # 3584
 
-You may defer [the turn of] any of them that you please, and you may receive any you please: and there is no blame on you if you invite one whose [turn] you have set aside. That is more proper, so that their eyes may be cooled, and so that they may not grieve, and so that they will be satisfied with what you have given them. God knows what is in your hearts; and God is all knowing, and forbearing.
+You may defer \[the turn of\] any of them that you please, and you may receive any you please: and there is no blame on you if you invite one whose \[turn\] you have set aside. That is more proper, so that their eyes may be cooled, and so that they may not grieve, and so that they will be satisfied with what you have given them. God knows what is in your hearts; and God is all knowing, and forbearing.
 
 # 3585
 
@@ -14350,7 +14350,7 @@ It is not lawful for you to marry more women after this, nor to change them for 
 
 # 3586
 
-Believers, do not enter the houses of the Prophet, unless you are invited for a meal. Do not linger until a meal is ready. When you are invited enter and when you have taken your meal, depart. Do not stay on, indulging in conversation. Doing that causes annoyance to the Prophet, though he is too reticent to tell you so, but God is not reticent with the truth. When you ask [the wives of the Prophet] for anything, ask them from behind a curtain. That will be purer for your hearts as well as their hearts. It is not right for you to cause annoyance to the Messenger of God or for you ever to marry his wives after him. Indeed that would be an enormity in the sight of God.
+Believers, do not enter the houses of the Prophet, unless you are invited for a meal. Do not linger until a meal is ready. When you are invited enter and when you have taken your meal, depart. Do not stay on, indulging in conversation. Doing that causes annoyance to the Prophet, though he is too reticent to tell you so, but God is not reticent with the truth. When you ask \[the wives of the Prophet\] for anything, ask them from behind a curtain. That will be purer for your hearts as well as their hearts. It is not right for you to cause annoyance to the Messenger of God or for you ever to marry his wives after him. Indeed that would be an enormity in the sight of God.
 
 # 3587
 
@@ -14370,11 +14370,11 @@ Those who annoy God and His Messenger shall be cursed by God in this world and i
 
 # 3591
 
-Those who affront believing men and believing women without their having deserved it [done any wrong] shall bear the weight of slander and flagrant sin.
+Those who affront believing men and believing women without their having deserved it \[done any wrong\] shall bear the weight of slander and flagrant sin.
 
 # 3592
 
-O Prophet! Tell your wives and your daughters and wives of the believers that they should draw over themselves some of their outer garments [when in public], so as to be recognized and not harmed. God is most forgiving and most merciful.
+O Prophet! Tell your wives and your daughters and wives of the believers that they should draw over themselves some of their outer garments \[when in public\], so as to be recognized and not harmed. God is most forgiving and most merciful.
 
 # 3593
 
@@ -14494,7 +14494,7 @@ For the people of Sheba there was a sign in their homeland: two gardens, one on 
 
 # 3622
 
-Yet they turned away [from the truth]. So We let loose on them a flood from the dam and replaced their two gardens by two others bearing bitter fruits, tamarisks, and a few lote trees.
+Yet they turned away \[from the truth\]. So We let loose on them a flood from the dam and replaced their two gardens by two others bearing bitter fruits, tamarisks, and a few lote trees.
 
 # 3623
 
@@ -14502,7 +14502,7 @@ We requited them in that way because of their ingratitude. We requite no one in 
 
 # 3624
 
-We had placed between them and the towns that We had blessed, other towns situated close to each other, and We fixed the stages [of journey] between them, saying, "Travel between them in safety by night and day,"
+We had placed between them and the towns that We had blessed, other towns situated close to each other, and We fixed the stages \[of journey\] between them, saying, "Travel between them in safety by night and day,"
 
 # 3625
 
@@ -14554,7 +14554,7 @@ Say, "A Day has already been appointed for you which you can neither delay nor a
 
 # 3637
 
-Those who deny the truth say, "We shall believe neither in this scripture nor in [any] that [came] before it." Could you but see when the wrongdoers will be made to stand before their Lord, casting blame on one another! Those who had been weak will say to the arrogant ones, "Had it not been for you, we should certainly have been believers!"
+Those who deny the truth say, "We shall believe neither in this scripture nor in \[any\] that \[came\] before it." Could you but see when the wrongdoers will be made to stand before their Lord, casting blame on one another! Those who had been weak will say to the arrogant ones, "Had it not been for you, we should certainly have been believers!"
 
 # 3638
 
@@ -14578,7 +14578,7 @@ Say to them, "My Lord increases the provision for whoever He pleases and decreas
 
 # 3643
 
-It is not your wealth or your children that will confer on you nearness to Us. It is those who believe and act righteously who will be doubly rewarded for their good deeds, and will dwell in peace in the high pavilions [of paradise],
+It is not your wealth or your children that will confer on you nearness to Us. It is those who believe and act righteously who will be doubly rewarded for their good deeds, and will dwell in peace in the high pavilions \[of paradise\],
 
 # 3644
 
@@ -14602,7 +14602,7 @@ Today you possess no power to benefit or harm one another. We shall say to the w
 
 # 3649
 
-Whenever Our messages are conveyed to them in all their clarity, they say, "This [Muhammad] is nothing but a man who wants to turn you away from what your forefathers worshipped." And they say, "This [Quran] is nothing but an invented falsehood." And they who are bent on denying the truth speak thus of the truth when it comes to them, "This is clearly nothing but plain sorcery!"
+Whenever Our messages are conveyed to them in all their clarity, they say, "This \[Muhammad\] is nothing but a man who wants to turn you away from what your forefathers worshipped." And they say, "This \[Quran\] is nothing but an invented falsehood." And they who are bent on denying the truth speak thus of the truth when it comes to them, "This is clearly nothing but plain sorcery!"
 
 # 3650
 
@@ -14622,7 +14622,7 @@ Say, "If I have asked you for any recompense, you can keep it. It is God alone w
 
 # 3654
 
-Say to them, "My Lord hurls forth the Truth [at falsehood] and He is the knower of hidden things."
+Say to them, "My Lord hurls forth the Truth \[at falsehood\] and He is the knower of hidden things."
 
 # 3655
 
@@ -14678,7 +14678,7 @@ Those who are bent on denying the truth will have a severe punishment, while tho
 
 # 3668
 
-Is he whose evil deeds are made alluring to him so that he looks upon them as good, [equal to the man who is rightly guided]? God leaves to stray whom He wills, and guides whom He wills. Do not destroy yourself with grief for them. God has full knowledge of all their actions.
+Is he whose evil deeds are made alluring to him so that he looks upon them as good, \[equal to the man who is rightly guided\]? God leaves to stray whom He wills, and guides whom He wills. Do not destroy yourself with grief for them. God has full knowledge of all their actions.
 
 # 3669
 
@@ -14702,7 +14702,7 @@ He makes the night pass into the day and He makes the day pass into the night. H
 
 # 3674
 
-if you invoke them, they do not hear your call; and even if they could hear, they would not respond to you. And on the Day of Resurrection they will disown your having associated them with God. No one can tell you [the Truth] like the One who is all knowing.
+if you invoke them, they do not hear your call; and even if they could hear, they would not respond to you. And on the Day of Resurrection they will disown your having associated them with God. No one can tell you \[the Truth\] like the One who is all knowing.
 
 # 3675
 
@@ -14774,7 +14774,7 @@ The Book which We have revealed to you is the truth confirming previous scriptur
 
 # 3692
 
-We have bestowed the Book on those of Our servants whom We have chosen. Some wrong their own souls, some keep half-way [between right and wrong]; some, by God's leave, excel others in good deeds. This is a great bounty of God:
+We have bestowed the Book on those of Our servants whom We have chosen. Some wrong their own souls, some keep half-way \[between right and wrong\]; some, by God's leave, excel others in good deeds. This is a great bounty of God:
 
 # 3693
 
@@ -14810,7 +14810,7 @@ Say, "Have you ever considered your associate gods whom you call on besides God?
 
 # 3701
 
-Surely, God holds the heavens and the earth, lest they should deviate [from their places]. Were they to deviate, none could hold them after Him. Surely, He is forbearing and most forgiving.
+Surely, God holds the heavens and the earth, lest they should deviate \[from their places\]. Were they to deviate, none could hold them after Him. Surely, He is forbearing and most forgiving.
 
 # 3702
 
@@ -14818,11 +14818,11 @@ They swore their most solemn oaths that if a warner should ever come to them, th
 
 # 3703
 
-and they behaved arrogantly in the land and plotted evil. But the plotting of evil only rebounds on those who plot. Are they but looking for the way the previous peoples [sinners] were dealt with? You will never find any change in the ways of God; nor will you ever find God's decree averted.
+and they behaved arrogantly in the land and plotted evil. But the plotting of evil only rebounds on those who plot. Are they but looking for the way the previous peoples \[sinners\] were dealt with? You will never find any change in the ways of God; nor will you ever find God's decree averted.
 
 # 3704
 
-Have they not travelled around the earth and seen the fate of those who preceded them? And they were far superior to them in strength. Nothing in the heavens or the earth can ever frustrate God's [plans]. He is all-knowing and all powerful.
+Have they not travelled around the earth and seen the fate of those who preceded them? And they were far superior to them in strength. Nothing in the heavens or the earth can ever frustrate God's \[plans\]. He is all-knowing and all powerful.
 
 # 3705
 
@@ -14882,7 +14882,7 @@ Recount to them the example of the people to whose town Our messengers came.
 
 # 3719
 
-When We sent them two messengers, they rejected them both, so We strengthened them with a third. They said, "Truly, we have been sent to you [by God] as messengers."
+When We sent them two messengers, they rejected them both, so We strengthened them with a third. They said, "Truly, we have been sent to you \[by God\] as messengers."
 
 # 3720
 
@@ -14962,7 +14962,7 @@ There is a sign for them in the lifeless earth. We revive it and We produce grai
 
 # 3739
 
-We have placed in it gardens of date palms and vines, and caused springs to gush [forth] from it,
+We have placed in it gardens of date palms and vines, and caused springs to gush \[forth\] from it,
 
 # 3740
 
@@ -14974,7 +14974,7 @@ Holy is He who created all things in pairs; of what the earth grows, and of them
 
 # 3742
 
-They have a sign in the night: We withdraw from it the [light of] day -- and they are left in darkness.
+They have a sign in the night: We withdraw from it the \[light of\] day -- and they are left in darkness.
 
 # 3743
 
@@ -14986,7 +14986,7 @@ We have ordained phases for the moon until finally it becomes like an old date-s
 
 # 3745
 
-The sun cannot overtake the moon, nor can the night outpace the day: each floats in [its own] orbit.
+The sun cannot overtake the moon, nor can the night outpace the day: each floats in \[its own\] orbit.
 
 # 3746
 
@@ -14998,7 +14998,7 @@ We have created for them the like of it in which they ride.
 
 # 3748
 
-If it were Our will, We could drown them: then there would be no helper [to hear their cry], nor could they be saved.
+If it were Our will, We could drown them: then there would be no helper \[to hear their cry\], nor could they be saved.
 
 # 3749
 
@@ -15006,7 +15006,7 @@ It is only by Our mercy that they are granted provision for a time.
 
 # 3750
 
-When they are told, "guard yourselves against what is before you and what is behind you, in order that you may be shown mercy," [they turn away].
+When they are told, "guard yourselves against what is before you and what is behind you, in order that you may be shown mercy," \[they turn away\].
 
 # 3751
 
@@ -15062,7 +15062,7 @@ They shall have fruits therein, and all that they ask for.
 
 # 3764
 
-[And God will say], "Separate yourselves from the righteous this Day, you criminals.
+\[And God will say\], "Separate yourselves from the righteous this Day, you criminals.
 
 # 3765
 
@@ -15106,7 +15106,7 @@ We have not taught him any poetry nor would it be fitting for him. This is merel
 
 # 3775
 
-to warn all who are truly alive, and to justify the word [God's verdict] against the deniers.
+to warn all who are truly alive, and to justify the word \[God's verdict\] against the deniers.
 
 # 3776
 
@@ -15162,11 +15162,11 @@ So glory be to Him who has control over all things. It is to Him that you will a
 
 # 3789
 
-By those [angels] who range themselves in close ranks
+By those \[angels\] who range themselves in close ranks
 
 # 3790
 
-and those who drive away [the wicked] with reproof
+and those who drive away \[the wicked\] with reproof
 
 # 3791
 
@@ -15198,7 +15198,7 @@ driven away, and will suffer eternal punishment.
 
 # 3798
 
-But if anyone does succeed in snatching a glimpse [of such knowledge], he shall be pursued by a piercing flame.
+But if anyone does succeed in snatching a glimpse \[of such knowledge\], he shall be pursued by a piercing flame.
 
 # 3799
 
@@ -15242,7 +15242,7 @@ They will say, "Woe to us! This is the Day of Reckoning."
 
 # 3809
 
-[It will be said], "This is the Day of Judgement which you have been denying."
+\[It will be said\], "This is the Day of Judgement which you have been denying."
 
 # 3810
 
@@ -15282,7 +15282,7 @@ we had no power over you; but you yourselves were a rebellious people.
 
 # 3819
 
-But now our Lord's word has come true against us: truly, we are bound to taste [the punishment].
+But now our Lord's word has come true against us: truly, we are bound to taste \[the punishment\].
 
 # 3820
 
@@ -15390,7 +15390,7 @@ If it had not been for the blessing of my Lord, I would also have been taken to 
 
 # 3846
 
-Then he will say [to his blessed companions], "Are we not going to die,
+Then he will say \[to his blessed companions\], "Are we not going to die,
 
 # 3847
 
@@ -15590,7 +15590,7 @@ We ransomed him with a great sacrifice,
 
 # 3896
 
-and left him thus to be succeeded by a group [of followers] among later generations:
+and left him thus to be succeeded by a group \[of followers\] among later generations:
 
 # 3897
 
@@ -15634,7 +15634,7 @@ and guided them to the straight path;
 
 # 3907
 
-and We left them thus to be succeeded by a group [of followers] among later generations:
+and We left them thus to be succeeded by a group \[of followers\] among later generations:
 
 # 3908
 
@@ -15654,7 +15654,7 @@ Elijah too was one of the messengers.
 
 # 3912
 
-He said to his people, "Have you no fear [of God?]
+He said to his people, "Have you no fear \[of God?\]
 
 # 3913
 
@@ -15674,7 +15674,7 @@ except the chosen servants of God.
 
 # 3917
 
-We left him thus to be succeeded by a group [of followers] among the following generations --
+We left him thus to be succeeded by a group \[of followers\] among the following generations --
 
 # 3918
 
@@ -15790,7 +15790,7 @@ Then produce your scriptures, if you are telling the truth.
 
 # 3946
 
-They claim that He has kinship with the jinn, yet the jinn themselves know that they will be produced before Him [for judgement].
+They claim that He has kinship with the jinn, yet the jinn themselves know that they will be produced before Him \[for judgement\].
 
 # 3947
 
@@ -15814,7 +15814,7 @@ except those who will burn in Hell.
 
 # 3952
 
-[The angels say], "Every single one of us has his place assigned:
+\[The angels say\], "Every single one of us has his place assigned:
 
 # 3953
 
@@ -15838,7 +15838,7 @@ we would surely have been God's chosen servants,"
 
 # 3958
 
-but they have rejected it, [the Quran] and they shall soon learn!
+but they have rejected it, \[the Quran\] and they shall soon learn!
 
 # 3959
 
@@ -15926,7 +15926,7 @@ Do they possess the treasures of the mercy of your Lord, the Mighty, the Great B
 
 # 3980
 
-Have they control over heavens and earth and whatever [lies] between them? Then let them climb up to heaven by ropes:
+Have they control over heavens and earth and whatever \[lies\] between them? Then let them climb up to heaven by ropes:
 
 # 3981
 
@@ -15946,7 +15946,7 @@ There was not one of them but treated their messengers as liars, so My punishmen
 
 # 3985
 
-they have only to wait for one single blast [of punishment]: it shall not be delayed by one whit.
+they have only to wait for one single blast \[of punishment\]: it shall not be delayed by one whit.
 
 # 3986
 
@@ -15982,7 +15982,7 @@ When they reached David, he took fright, but they said, "Do not be afraid. We ar
 
 # 3994
 
-David said, "He has certainly wronged you by demanding that your ewe be added to his ewes! Thus many partners wrong one another -- [all] save those who believe [in God] and do righteous deeds: but how few are they!" And [suddenly] David understood that We were only putting him to the test, and so he asked his Lord to forgive him his sins; he fell to his knees, and turned to Him in repentance.
+David said, "He has certainly wronged you by demanding that your ewe be added to his ewes! Thus many partners wrong one another -- \[all\] save those who believe \[in God\] and do righteous deeds: but how few are they!" And \[suddenly\] David understood that We were only putting him to the test, and so he asked his Lord to forgive him his sins; he fell to his knees, and turned to Him in repentance.
 
 # 3995
 
@@ -16002,7 +16002,7 @@ shall We treat those who believe and do good works the same as those who spread 
 
 # 3999
 
-This is a blessed Book which We sent down to you [Muhammad], for people to ponder over its messages, and for those with understanding to take heed.
+This is a blessed Book which We sent down to you \[Muhammad\], for people to ponder over its messages, and for those with understanding to take heed.
 
 # 4000
 
@@ -16014,15 +16014,15 @@ When well-bred horses, which were fleet of foot were paraded before him near the
 
 # 4002
 
-he said, "I have put the love of good things above the remembrance of my Lord," until [the sun] disappeared behind its veil and the horses disappeared from sight,
+he said, "I have put the love of good things above the remembrance of my Lord," until \[the sun\] disappeared behind its veil and the horses disappeared from sight,
 
 # 4003
 
-"Bring them back to me!" -- [he said] and began to stroke their legs and their necks.
+"Bring them back to me!" -- \[he said\] and began to stroke their legs and their necks.
 
 # 4004
 
-We tried Solomon by placing upon his throne a [lifeless] body; and thereupon he turned towards Us].
+We tried Solomon by placing upon his throne a \[lifeless\] body; and thereupon he turned towards Us\].
 
 # 4005
 
@@ -16070,7 +16070,7 @@ Remember Our servants Abraham, Isaac, and Jacob -- possessors of strength and vi
 
 # 4016
 
-We chose them for a special [purpose] -- proclaiming the message of the Hereafter:
+We chose them for a special \[purpose\] -- proclaiming the message of the Hereafter:
 
 # 4017
 
@@ -16078,7 +16078,7 @@ and, in Our sight they were indeed among the select, the truly good!
 
 # 4018
 
-Remember [Our servants] Ishmael, Elisha, and Dhu'l-Kifl. Each of them was among the just.
+Remember \[Our servants\] Ishmael, Elisha, and Dhu'l-Kifl. Each of them was among the just.
 
 # 4019
 
@@ -16122,7 +16122,7 @@ and other such torments.
 
 # 4029
 
-[And they will say to one another: "Do you see] this crowd of people rushing headlong to join you?" "No welcome to them! Indeed, they are headed for the fire!"
+\[And they will say to one another: "Do you see\] this crowd of people rushing headlong to join you?" "No welcome to them! Indeed, they are headed for the fire!"
 
 # 4030
 
@@ -16134,11 +16134,11 @@ adding, "Our Lord, give double punishment to those who brought this upon us."
 
 # 4032
 
-And they will say, "How is it that we do not see [here any of the] men whom we used to count among the wicked,
+And they will say, "How is it that we do not see \[here any of the\] men whom we used to count among the wicked,
 
 # 4033
 
-[and] whom we made the target of our derision? Or are they here, and our eyes have missed them?"
+\[and\] whom we made the target of our derision? Or are they here, and our eyes have missed them?"
 
 # 4034
 
@@ -16146,7 +16146,7 @@ All this is certainly true -- the inhabitants of the Fire will blame one another
 
 # 4035
 
-Say, [Prophet], "I am only a warner. There is no god but God, the One, the All-Powerful,
+Say, \[Prophet\], "I am only a warner. There is no god but God, the One, the All-Powerful,
 
 # 4036
 
@@ -16162,7 +16162,7 @@ yet you ignore it.
 
 # 4039
 
-I had no knowledge of the Exalted Assembly when they argued [against the creation of man]:
+I had no knowledge of the Exalted Assembly when they argued \[against the creation of man\]:
 
 # 4040
 
@@ -16186,7 +16186,7 @@ but not Satan, who was too proud. He became one of those who deny the truth.
 
 # 4045
 
-God said, "Satan, what prevented you from prostrating yourself to what I created with My own Hands? Were you overcome by arrogance, or are you of those who think [only] of themselves as exalted?"
+God said, "Satan, what prevented you from prostrating yourself to what I created with My own Hands? Were you overcome by arrogance, or are you of those who think \[only\] of themselves as exalted?"
 
 # 4046
 
@@ -16246,7 +16246,7 @@ This Book is sent down by God the Mighty, the Wise.
 
 # 4060
 
-It is We who sent down the Book to you [Prophet] with the Truth, so worship God with your total devotion:
+It is We who sent down the Book to you \[Prophet\] with the Truth, so worship God with your total devotion:
 
 # 4061
 
@@ -16254,7 +16254,7 @@ it is to God alone that sincere obedience is due. And those who take other guard
 
 # 4062
 
-If God had willed to take a son He could have chosen anyone He pleased out of His creation: but Glory be to Him! [He is above such things.] He is God, the One, the Omnipotent.
+If God had willed to take a son He could have chosen anyone He pleased out of His creation: but Glory be to Him! \[He is above such things.\] He is God, the One, the Omnipotent.
 
 # 4063
 
@@ -16266,7 +16266,7 @@ He created you from a single soul, then produced its spouse from it, and He has 
 
 # 4065
 
-If you are ungrateful, remember that God has no need of you. He is not pleased by ingratitude in His servants; if you are grateful, He is pleased [to see] it in you.  No soul shall bear another's burden. You will return to your Lord in the end and He will declare to you what you have done: He knows well what is in the hearts of men.
+If you are ungrateful, remember that God has no need of you. He is not pleased by ingratitude in His servants; if you are grateful, He is pleased \[to see\] it in you. No soul shall bear another's burden. You will return to your Lord in the end and He will declare to you what you have done: He knows well what is in the hearts of men.
 
 # 4066
 
@@ -16274,11 +16274,11 @@ When man suffers some affliction, he prays to his Lord and turns to Him in penit
 
 # 4067
 
-Is he who prays devoutly to God in the hours of the night, prostrating himself and standing in prayer, who is ever mindful of the life to come and hopes for the mercy of his Lord [like one who does not]? Say, "Are those who know equal to those who do not know?" Truly, only those endowed with understanding will take heed.
+Is he who prays devoutly to God in the hours of the night, prostrating himself and standing in prayer, who is ever mindful of the life to come and hopes for the mercy of his Lord \[like one who does not\]? Say, "Are those who know equal to those who do not know?" Truly, only those endowed with understanding will take heed.
 
 # 4068
 
-Say, "[God says] O My servants who have believed, fear your Lord. For those who do good in this world will have a good reward -- and God's earth is spacious. Truly, those who persevere patiently will be requited without measure."
+Say, "\[God says\] O My servants who have believed, fear your Lord. For those who do good in this world will have a good reward -- and God's earth is spacious. Truly, those who persevere patiently will be requited without measure."
 
 # 4069
 
@@ -16298,7 +16298,7 @@ Say, "It is God I serve, sincere in my faith in Him alone --
 
 # 4073
 
-as for yourselves, worship anything you please besides Him!" Say, "The real losers will be those who lose themselves and all their kith and kin on the Day of Resurrection. That is the [most] obvious loss.
+as for yourselves, worship anything you please besides Him!" Say, "The real losers will be those who lose themselves and all their kith and kin on the Day of Resurrection. That is the \[most\] obvious loss.
 
 # 4074
 
@@ -16382,7 +16382,7 @@ God will efface their worst deeds from their record and give them their reward i
 
 # 4094
 
-Is God not enough for His servant? Yet they try to frighten you with other [deities] besides Him! For such as God lets go astray, there will be no guide;
+Is God not enough for His servant? Yet they try to frighten you with other \[deities\] besides Him! For such as God lets go astray, there will be no guide;
 
 # 4095
 
@@ -16402,7 +16402,7 @@ who will suffer a humiliating torment and on whom will descend an everlasting pu
 
 # 4099
 
-[O Prophet!] We have sent down to you the Book for mankind with the truth. Then whoever adopts the right way, will do so for his own soul, and whoever goes astray, injures his own soul. You are not their custodian.
+\[O Prophet!\] We have sent down to you the Book for mankind with the truth. Then whoever adopts the right way, will do so for his own soul, and whoever goes astray, injures his own soul. You are not their custodian.
 
 # 4100
 
@@ -16442,7 +16442,7 @@ Those who preceded them said the same thing but they gained nothing from what th
 
 # 4109
 
-the very evil of their deeds recoiled upon them; today's wrongdoers shall also have the evil of their deeds recoil upon them: they will never be able to frustrate [Our plan].
+the very evil of their deeds recoiled upon them; today's wrongdoers shall also have the evil of their deeds recoil upon them: they will never be able to frustrate \[Our plan\].
 
 # 4110
 
@@ -16450,7 +16450,7 @@ Do they not know that God grants abundant sustenance to anyone He wishes and giv
 
 # 4111
 
-Say, [God says] "O My servants, who have committed excesses against their own souls, do not despair of God's mercy, for God surely forgives all sins. He is truly the Most Forgiving, the Most Merciful.
+Say, \[God says\] "O My servants, who have committed excesses against their own souls, do not despair of God's mercy, for God surely forgives all sins. He is truly the Most Forgiving, the Most Merciful.
 
 # 4112
 
@@ -16522,7 +16522,7 @@ Every soul will be repaid in full for what it has done. He is fully aware of all
 
 # 4129
 
-Those who rejected the truth will be led to Hell in throngs. When they reach it, its gates will be opened and its keepers will say to them, "Have messengers not come to you from among yourselves, who conveyed to you the revelations of your Lord and warned you about meeting [Him] on this Day?" They will answer, "Yes, they did come." But the decree of punishment has proved true against the deniers of the truth.
+Those who rejected the truth will be led to Hell in throngs. When they reach it, its gates will be opened and its keepers will say to them, "Have messengers not come to you from among yourselves, who conveyed to you the revelations of your Lord and warned you about meeting \[Him\] on this Day?" They will answer, "Yes, they did come." But the decree of punishment has proved true against the deniers of the truth.
 
 # 4130
 
@@ -16558,7 +16558,7 @@ Only those who deny the truth dispute God's signs. Do not let their activity in 
 
 # 4138
 
-The people of Noah and later factions also rejected the truth and every community plotted against the messenger sent to them, aiming to lay hands on him, and they contended [against his message] with fallacious arguments, so that they might defeat the truth, therefore I seized them. How terrible was My punishment.
+The people of Noah and later factions also rejected the truth and every community plotted against the messenger sent to them, aiming to lay hands on him, and they contended \[against his message\] with fallacious arguments, so that they might defeat the truth, therefore I seized them. How terrible was My punishment.
 
 # 4139
 
@@ -16574,7 +16574,7 @@ and admit them, Lord, to the Eternal Garden You have promised to them, together 
 
 # 4142
 
-Protect them from all evil deeds: those You protect from [the punishment for] evil deeds will receive Your mercy -- that is the supreme success."
+Protect them from all evil deeds: those You protect from \[the punishment for\] evil deeds will receive Your mercy -- that is the supreme success."
 
 # 4143
 
@@ -16582,11 +16582,11 @@ Those who deny the truth will be told, "God's abhorrence of you is greater than 
 
 # 4144
 
-They will say, "Our Lord! Twice You have made us die, and twice You have given us life! Now we have confessed our sins: is there any way out [of this]?"
+They will say, "Our Lord! Twice You have made us die, and twice You have given us life! Now we have confessed our sins: is there any way out \[of this\]?"
 
 # 4145
 
-[They will be told], "This is because when God alone was invoked you denied the truth, yet when others were associated with Him you believed in them." Judgement rests with God, the Most High, the Most Great.
+\[They will be told\], "This is because when God alone was invoked you denied the truth, yet when others were associated with Him you believed in them." Judgement rests with God, the Most High, the Most Great.
 
 # 4146
 
@@ -16602,7 +16602,7 @@ Exalted and throned on high, He lets the Spirit descend at His behest upon which
 
 # 4149
 
-the Day when they shall rise up [from their graves] and nothing about them will be hidden from God. "To whom shall the kingdom belong that Day?" It shall belong to God, the One, the All Powerful.
+the Day when they shall rise up \[from their graves\] and nothing about them will be hidden from God. "To whom shall the kingdom belong that Day?" It shall belong to God, the One, the All Powerful.
 
 # 4150
 
@@ -16610,15 +16610,15 @@ That Day every soul shall be requited for what it has earned. On that Day none s
 
 # 4151
 
-[O Prophet] forewarn them of the approaching Day, when hearts will leap up to the throats and choke them; when the wrongdoers will have no friend, nor any intercessor who will be listened to,
+\[O Prophet\] forewarn them of the approaching Day, when hearts will leap up to the throats and choke them; when the wrongdoers will have no friend, nor any intercessor who will be listened to,
 
 # 4152
 
-[for] He is aware of the [most] stealthy glance, and of all that the hearts conceal.
+\[for\] He is aware of the \[most\] stealthy glance, and of all that the hearts conceal.
 
 # 4153
 
-God will judge with [justice and] truth: but those whom they invoke besides Him, have no power to judge at all. Surely, God is all hearing, all seeing.
+God will judge with \[justice and\] truth: but those whom they invoke besides Him, have no power to judge at all. Surely, God is all hearing, all seeing.
 
 # 4154
 
@@ -16670,7 +16670,7 @@ My people, I fear for you the Day you will cry out to one another,
 
 # 4166
 
-the Day when you will [wish to] turn your backs and flee, having none to defend you against God: for he whom God lets go astray can never find any guide.
+the Day when you will \[wish to\] turn your backs and flee, having none to defend you against God: for he whom God lets go astray can never find any guide.
 
 # 4167
 
@@ -16686,7 +16686,7 @@ Pharaoh said, "O Haman, build for me a lofty building so that I may gain access
 
 # 4170
 
-to the heavens, so that I may look upon the God of Moses: I am convinced that he is a liar!" That is how Pharaoh's evil actions were made to look fair in the eyes of Pharoah, and he was turned away from the path [of truth]. Pharaoh's scheming led to nothing but ruin.
+to the heavens, so that I may look upon the God of Moses: I am convinced that he is a liar!" That is how Pharaoh's evil actions were made to look fair in the eyes of Pharoah, and he was turned away from the path \[of truth\]. Pharaoh's scheming led to nothing but ruin.
 
 # 4171
 
@@ -16714,7 +16714,7 @@ Surely that to which you call me has no say in this world or in the life to come
 
 # 4177
 
-Soon you will remember what I say to you! I shall entrust my affair to God, for God is observant of all [His] servants."
+Soon you will remember what I say to you! I shall entrust my affair to God, for God is observant of all \[His\] servants."
 
 # 4178
 
@@ -16722,7 +16722,7 @@ Thus, God delivered him from the evils which they plotted, and the companions of
 
 # 4179
 
-they will be brought before the Fire morning and evening. On the Day the Hour comes, [a voice will cry], "Mete out to Pharaoh's people the harshest punishment!"
+they will be brought before the Fire morning and evening. On the Day the Hour comes, \[a voice will cry\], "Mete out to Pharaoh's people the harshest punishment!"
 
 # 4180
 
@@ -16738,7 +16738,7 @@ Those in the Fire will say to its keepers, "Implore your Lord to relieve our tor
 
 # 4183
 
-but they will say, "Did not your messengers come to you with clear signs?" They will say, "Yes." The keepers will say, "Then pray [for help] yourselves." But the prayer of those who deny the truth is of no avail.
+but they will say, "Did not your messengers come to you with clear signs?" They will say, "Yes." The keepers will say, "Then pray \[for help\] yourselves." But the prayer of those who deny the truth is of no avail.
 
 # 4184
 
@@ -16786,7 +16786,7 @@ It is God who has given you the night in which to rest and the day in which to s
 
 # 4195
 
-Such is God, your Lord, the Creator of all things. There is no god but He. How then are you being turned away [from Him]?
+Such is God, your Lord, the Creator of all things. There is no god but He. How then are you being turned away \[from Him\]?
 
 # 4196
 
@@ -16798,7 +16798,7 @@ It is God who has given you the earth for a resting place and the heavens for a 
 
 # 4198
 
-He is the Living One. There is no deity save Him. So pray to Him, making religion pure for Him [only]. Praise be to God, the Lord of the Universe!
+He is the Living One. There is no deity save Him. So pray to Him, making religion pure for Him \[only\]. Praise be to God, the Lord of the Universe!
 
 # 4199
 
@@ -16830,11 +16830,11 @@ into the boiling water and then are thrown into the Fire,
 
 # 4206
 
-and then they will be asked, "Where are those whom you associated [with God]?"
+and then they will be asked, "Where are those whom you associated \[with God\]?"
 
 # 4207
 
-They will say, "They have been lost to us; nay, we did not invoke anything before [that had real existence]." Thus God leaves the deniers of the truth to stray;
+They will say, "They have been lost to us; nay, we did not invoke anything before \[that had real existence\]." Thus God leaves the deniers of the truth to stray;
 
 # 4208
 
@@ -16846,11 +16846,11 @@ Enter the gates of Hell to stay therein forever. The abode of the arrogant is ev
 
 # 4210
 
-So be patient [Prophet], for God's promise is true: whether We show you part of what We have promised them in this life, or cause you to die first, it is to Us that they will be recalled.
+So be patient \[Prophet\], for God's promise is true: whether We show you part of what We have promised them in this life, or cause you to die first, it is to Us that they will be recalled.
 
 # 4211
 
-Before your time We sent other messengers: of them there are some whose story We have related to you, and some whose story We have not related to you. It was not [possible] for any messenger to bring a sign except by the leave of God: but when the command of God was issued, the matter was decided in truth and justice. There and then, those who stood on falsehoods perished.
+Before your time We sent other messengers: of them there are some whose story We have related to you, and some whose story We have not related to you. It was not \[possible\] for any messenger to bring a sign except by the leave of God: but when the command of God was issued, the matter was decided in truth and justice. There and then, those who stood on falsehoods perished.
 
 # 4212
 
@@ -16886,7 +16886,7 @@ Ha Mim.
 
 # 4220
 
-A revelation from [God], the Most Gracious, the Most Merciful --
+A revelation from \[God\], the Most Gracious, the Most Merciful --
 
 # 4221
 
@@ -16914,7 +16914,7 @@ who do not pay the zakat, and who deny the Hereafter.
 
 # 4227
 
-Say, "What! Do you indeed deny Him who created the earth in two Days [periods] and do you set up equals with Him? He is the Lord of the Universe."
+Say, "What! Do you indeed deny Him who created the earth in two Days \[periods\] and do you set up equals with Him? He is the Lord of the Universe."
 
 # 4228
 
@@ -16926,7 +16926,7 @@ Then He turned to heaven when it was vapour and said to it and to the earth, "Co
 
 # 4230
 
-and in two Days He formed seven heavens, and revealed to each heaven its functions; and We adorned the lower heaven with brilliant lamps [stars] and guarded it. That is the decree of the Almighty, the All Knowing.
+and in two Days He formed seven heavens, and revealed to each heaven its functions; and We adorned the lower heaven with brilliant lamps \[stars\] and guarded it. That is the decree of the Almighty, the All Knowing.
 
 # 4231
 
@@ -16934,7 +16934,7 @@ If they turn away, then say, "I warn you of a lightning-bolt like the one which 
 
 # 4232
 
-when the messengers came to them from before them and behind them, saying, 'Worship none but God!" They said, "If our Lord had willed, He would have sent down angels [to us]. Therefore, we shall never believe in your message.'"
+when the messengers came to them from before them and behind them, saying, 'Worship none but God!" They said, "If our Lord had willed, He would have sent down angels \[to us\]. Therefore, we shall never believe in your message.'"
 
 # 4233
 
@@ -16962,7 +16962,7 @@ when they come close to it, their ears, eyes and skins will testify against them
 
 # 4239
 
-And they will ask their skins, "Why did you bear witness against us?" and their skins will reply, "God, who gives speech to all things, has given speech to us [as well], it was He who created you in the first instance and to Him you are [now] brought back,
+And they will ask their skins, "Why did you bear witness against us?" and their skins will reply, "God, who gives speech to all things, has given speech to us \[as well\], it was He who created you in the first instance and to Him you are \[now\] brought back,
 
 # 4240
 
@@ -16970,7 +16970,7 @@ you could not hide yourselves from your ears and your eyes and your skins to pre
 
 # 4241
 
-but these thoughts which you entertained concerning your Lord, have brought you to destruction, and [now] you are among the utterly lost!"
+but these thoughts which you entertained concerning your Lord, have brought you to destruction, and \[now\] you are among the utterly lost!"
 
 # 4242
 
@@ -16978,7 +16978,7 @@ Even if they are patient, the Fire will still be their homes. And if they pray t
 
 # 4243
 
-We assigned to them companions who made their doings appear fair to them. But the same decree [of punishment] proved true against them, which had proved true against nations of jinn and mankind who passed away before them. Surely they were the losers.
+We assigned to them companions who made their doings appear fair to them. But the same decree \[of punishment\] proved true against them, which had proved true against nations of jinn and mankind who passed away before them. Surely they were the losers.
 
 # 4244
 
@@ -16994,11 +16994,11 @@ that is the reward of the enemies of God, the Fire will be their everlasting hom
 
 # 4247
 
-Those  who deny the truth will say, "Our Lord, show us those jinn and men who misled us and we shall trample them underfoot, so that they may be among the lowest of the low."
+Those who deny the truth will say, "Our Lord, show us those jinn and men who misled us and we shall trample them underfoot, so that they may be among the lowest of the low."
 
 # 4248
 
-As for those who affirm, "Our Lord is God," and then remain steadfast, the angels will descend on them, saying, "Have no fear and do not grieve. Rejoice in the [good news of the] Garden that you have been promised.
+As for those who affirm, "Our Lord is God," and then remain steadfast, the angels will descend on them, saying, "Have no fear and do not grieve. Rejoice in the \[good news of the\] Garden that you have been promised.
 
 # 4249
 
@@ -17030,7 +17030,7 @@ Among His signs are the night and the day, and the sun and the moon. Do not pros
 
 # 4256
 
-If they grow arrogant, [remember that] those who are with your Lord glorify Him night and day and never grow tired.
+If they grow arrogant, \[remember that\] those who are with your Lord glorify Him night and day and never grow tired.
 
 # 4257
 
@@ -17042,7 +17042,7 @@ Those who distort the meaning of Our message are not concealed from Us. Who is b
 
 # 4259
 
-Those who reject the Reminder [the Quran] when it comes to them [are the losers] -- truly it is a mighty Book:
+Those who reject the Reminder \[the Quran\] when it comes to them \[are the losers\] -- truly it is a mighty Book:
 
 # 4260
 
@@ -17054,7 +17054,7 @@ Nothing is said to you but what was said indeed to the messengers before you; su
 
 # 4262
 
-Had We sent this as a Quran [in a language] other than Arabic, they would have said, "Why are its verses not clearly explained? What! An Arab Prophet, and a scripture in a foreign tongue?" Say, "It is a guide and a healing to those who believe; but for those who do not believe, there is a deafness in their ears, and a covering over their eyes: they are [as it were] being called from a very distant place."
+Had We sent this as a Quran \[in a language\] other than Arabic, they would have said, "Why are its verses not clearly explained? What! An Arab Prophet, and a scripture in a foreign tongue?" Say, "It is a guide and a healing to those who believe; but for those who do not believe, there is a deafness in their ears, and a covering over their eyes: they are \[as it were\] being called from a very distant place."
 
 # 4263
 
@@ -17066,11 +17066,11 @@ Whoever does what is just and right, does so for his own good; and whoever does 
 
 # 4265
 
-He alone has knowledge of the Hour [of Judgment]. And no fruit emerges from its husk, nor does any female become pregnant or give birth, without His knowledge. On the Day He will call out to them, "Where are My associates?" They will reply, "We declare to You that none of us can bear witness to them:"
+He alone has knowledge of the Hour \[of Judgment\]. And no fruit emerges from its husk, nor does any female become pregnant or give birth, without His knowledge. On the Day He will call out to them, "Where are My associates?" They will reply, "We declare to You that none of us can bear witness to them:"
 
 # 4266
 
-[the deities] they invoked before will have vanished; they will know that there is no escape.
+\[the deities\] they invoked before will have vanished; they will know that there is no escape.
 
 # 4267
 
@@ -17078,7 +17078,7 @@ Man never tires of asking for the good things of life; but if evil fortune befal
 
 # 4268
 
-When We give him a taste of some of Our mercy, after some adversity has touched him, he is sure to say, "This is my due. I do not think that the Hour is going to come. And even if I return to my Lord, He will surely reward me well." But truly We shall tell those who deny the truth [all] that they did, and shall make them suffer a hard punishment.
+When We give him a taste of some of Our mercy, after some adversity has touched him, he is sure to say, "This is my due. I do not think that the Hour is going to come. And even if I return to my Lord, He will surely reward me well." But truly We shall tell those who deny the truth \[all\] that they did, and shall make them suffer a hard punishment.
 
 # 4269
 
@@ -17118,11 +17118,11 @@ The heavens are almost split asunder from above as the angels sing their Lord's 
 
 # 4278
 
-And [as for] those who take protectors besides Him, God is watching them and you are not a guardian over them.
+And \[as for\] those who take protectors besides Him, God is watching them and you are not a guardian over them.
 
 # 4279
 
-Thus We revealed to you, this Arabic Quran so that you may warn the mother of cities [Makkah] and those around it, and warn them of the Day of Gathering which is sure to come: when some group will be in the Garden, and some will be in the Fire.
+Thus We revealed to you, this Arabic Quran so that you may warn the mother of cities \[Makkah\] and those around it, and warn them of the Day of Gathering which is sure to come: when some group will be in the Garden, and some will be in the Fire.
 
 # 4280
 
@@ -17134,7 +17134,7 @@ Have they taken for themselves protectors other than Him? But it is God who is t
 
 # 4282
 
-In whatever you may differ, [O believers] the verdict thereon rests with God. [Say, therefore], "Such is God, my Lord: in Him I have placed my trust, and to Him I always turn."
+In whatever you may differ, \[O believers\] the verdict thereon rests with God. \[Say, therefore\], "Such is God, my Lord: in Him I have placed my trust, and to Him I always turn."
 
 # 4283
 
@@ -17150,7 +17150,7 @@ God has ordained for you the same religion which He enjoined on Noah, and which 
 
 # 4286
 
-They became divided only after knowledge had reached them, out of mutual jealousy. Had it not been for a decree already passed by your Lord, [to reprieve them] till a specified period, the matter would surely have been decided between them. Those who inherited the Book after them are indeed in grave doubt, amounting to suspicion about it.
+They became divided only after knowledge had reached them, out of mutual jealousy. Had it not been for a decree already passed by your Lord, \[to reprieve them\] till a specified period, the matter would surely have been decided between them. Those who inherited the Book after them are indeed in grave doubt, amounting to suspicion about it.
 
 # 4287
 
@@ -17174,7 +17174,7 @@ God is most Gracious to His creatures: He provides sustenance for whoever He wil
 
 # 4292
 
-To him who desires a harvest in the life to come, We shall grant an increase in his harvest; whereas to him who desires [but] a harvest in this world, We [may] give something thereof -- but he will have no share in [the blessings of] the life to come.
+To him who desires a harvest in the life to come, We shall grant an increase in his harvest; whereas to him who desires \[but\] a harvest in this world, We \[may\] give something thereof -- but he will have no share in \[the blessings of\] the life to come.
 
 # 4293
 
@@ -17186,7 +17186,7 @@ You will see the wrongdoers fearful of the consequences of their deeds, which wi
 
 # 4295
 
-These are the glad tidings which God gives to His servants who believe and do righteous deeds. Say, "I do not ask of you any reward for it, except [that I am inviting you to God because of] love of kinship." Whoever earns a good deed, We shall increase its good for him; God is most forgiving, most appreciative.
+These are the glad tidings which God gives to His servants who believe and do righteous deeds. Say, "I do not ask of you any reward for it, except \[that I am inviting you to God because of\] love of kinship." Whoever earns a good deed, We shall increase its good for him; God is most forgiving, most appreciative.
 
 # 4296
 
@@ -17198,11 +17198,11 @@ He accepts repentance from His servants and pardons their sins. He knows everyth
 
 # 4298
 
-He responds to those who believe and do good deeds, and gives them more of His bounty; agonizing torment awaits the  deniers of the truth.
+He responds to those who believe and do good deeds, and gives them more of His bounty; agonizing torment awaits the deniers of the truth.
 
 # 4299
 
-If God were to grant His abundant provision to [all] His creatures, they would act insolently on earth, but He sends down in due measure whatever He will, for He is well aware of His servants and watchful over them:
+If God were to grant His abundant provision to \[all\] His creatures, they would act insolently on earth, but He sends down in due measure whatever He will, for He is well aware of His servants and watchful over them:
 
 # 4300
 
@@ -17278,15 +17278,15 @@ You will see them exposed to the Fire, abject in humiliation, glancing furtively
 
 # 4318
 
-they will have no allies to help them against God; there is no way [forward] for those whom God lets go astray.
+they will have no allies to help them against God; there is no way \[forward\] for those whom God lets go astray.
 
 # 4319
 
-Respond to your Lord before a Day arrives that will not be averted [against God's will]. You will not find any refuge from God on that Day, nor will you have [any opportunity] to deny your sins.
+Respond to your Lord before a Day arrives that will not be averted \[against God's will\]. You will not find any refuge from God on that Day, nor will you have \[any opportunity\] to deny your sins.
 
 # 4320
 
-Now if they turn away, We have not sent you [O Prophet] as their keeper: your responsibility is only to convey the message. Man is such that when We let him taste Our mercy, he exults in it, but if an evil befalls him which is his own doing, he becomes utterly ungrateful.
+Now if they turn away, We have not sent you \[O Prophet\] as their keeper: your responsibility is only to convey the message. Man is such that when We let him taste Our mercy, he exults in it, but if an evil befalls him which is his own doing, he becomes utterly ungrateful.
 
 # 4321
 
@@ -17302,7 +17302,7 @@ It is not granted to any human being that God should speak to him other than by 
 
 # 4324
 
-We have thus revealed a Spirit to you [Prophet] by Our command: you knew neither the Scripture nor the faith, but We made it a light, guiding with it whoever We will of Our servants. You are indeed guiding to the straight path,
+We have thus revealed a Spirit to you \[Prophet\] by Our command: you knew neither the Scripture nor the faith, but We made it a light, guiding with it whoever We will of Our servants. You are indeed guiding to the straight path,
 
 # 4325
 
@@ -17374,11 +17374,11 @@ Has He then taken daughters out of His own creation and chosen sons for you?
 
 # 4342
 
-When any of them is given the news of the very thing [i.e. a female child] which he himself has ascribed to the All Merciful, his face darkens and he is filled with grief --
+When any of them is given the news of the very thing \[i.e. a female child\] which he himself has ascribed to the All Merciful, his face darkens and he is filled with grief --
 
 # 4343
 
-["Do you ascribe to God] one who is brought up among ornaments and who cannot produce a cogent argument?"
+\["Do you ascribe to God\] one who is brought up among ornaments and who cannot produce a cogent argument?"
 
 # 4344
 
@@ -17406,7 +17406,7 @@ Each messenger said, "What if I should bring you better guidance than what you f
 
 # 4350
 
-So We wreaked Our vengeance on them: now see what was the end of those who rejected [the Truth]!
+So We wreaked Our vengeance on them: now see what was the end of those who rejected \[the Truth\]!
 
 # 4351
 
@@ -17414,15 +17414,15 @@ Call to mind when Abraham said to his father and his people, "I disown utterly t
 
 # 4352
 
-[I worship] only Him who created me, and He will certainly guide me,"
+\[I worship\] only Him who created me, and He will certainly guide me,"
 
 # 4353
 
-and he left these words to endure among his descendants, so that they might return [to God].
+and he left these words to endure among his descendants, so that they might return \[to God\].
 
 # 4354
 
-Yes, I gave the good things of this life to these [men] and their fathers, until the truth came to them, and a messenger expounding things clearly,
+Yes, I gave the good things of this life to these \[men\] and their fathers, until the truth came to them, and a messenger expounding things clearly,
 
 # 4355
 
@@ -17434,11 +17434,11 @@ They said, "Why was this Quran not sent down to one of the great men of the two 
 
 # 4357
 
-Is it they who apportion the mercy of your Lord? It is We who distribute among them their livelihood in the life of this world, and raise some of them above others in rank, so that they may take one another into service; and the mercy of your Lord is better than [the wealth] which they amass.
+Is it they who apportion the mercy of your Lord? It is We who distribute among them their livelihood in the life of this world, and raise some of them above others in rank, so that they may take one another into service; and the mercy of your Lord is better than \[the wealth\] which they amass.
 
 # 4358
 
-If it were not that all mankind might have become one community [of disbelievers], We could have given all those who deny the Lord of Mercy, houses with roofs of silver, silver staircases to ascend,
+If it were not that all mankind might have become one community \[of disbelievers\], We could have given all those who deny the Lord of Mercy, houses with roofs of silver, silver staircases to ascend,
 
 # 4359
 
@@ -17454,19 +17454,19 @@ As for one who turns away from the remembrance of the Gracious God, We appoint f
 
 # 4362
 
-Devils divert men from the [right] way, while they think that they are rightly guided.
+Devils divert men from the \[right\] way, while they think that they are rightly guided.
 
 # 4363
 
-When such a person comes to Us, he will say [to his comrade], "If only you had been as far away from me as east is from west. What an evil comrade!"
+When such a person comes to Us, he will say \[to his comrade\], "If only you had been as far away from me as east is from west. What an evil comrade!"
 
 # 4364
 
-It will be said [to such a person], "You have done wrong. Having partners in punishment will be of no avail to you today."
+It will be said \[to such a person\], "You have done wrong. Having partners in punishment will be of no avail to you today."
 
 # 4365
 
-Can you [Prophet] make the deaf hear? Or guide either the blind or those who are in manifest error?
+Can you \[Prophet\] make the deaf hear? Or guide either the blind or those who are in manifest error?
 
 # 4366
 
@@ -17482,7 +17482,7 @@ So, hold fast to the Book that has been revealed to you, you are surely on the r
 
 # 4369
 
-it is certainly a reminder to you and to your people and you will soon be  called to account.
+it is certainly a reminder to you and to your people and you will soon be called to account.
 
 # 4370
 
@@ -17498,7 +17498,7 @@ but when he came to them with Our signs, they ridiculed them,
 
 # 4373
 
-even though each sign We showed them was greater than the previous one. We afflicted them with torment so that they might return [to the right path].
+even though each sign We showed them was greater than the previous one. We afflicted them with torment so that they might return \[to the right path\].
 
 # 4374
 
@@ -17534,7 +17534,7 @@ We made them a precedent, an example for later peoples.
 
 # 4382
 
-When [Jesus] the son of Mary is held up as an example, your people raise an outcry on this,
+When \[Jesus\] the son of Mary is held up as an example, your people raise an outcry on this,
 
 # 4383
 
@@ -17614,7 +17614,7 @@ We have not wronged them; it was they who were the wrongdoers.
 
 # 4402
 
-They will cry, "Master, if only your Lord would put an end to us!" But he [the angel] will answer, "No! You are here to stay."
+They will cry, "Master, if only your Lord would put an end to us!" But he \[the angel\] will answer, "No! You are here to stay."
 
 # 4403
 
@@ -17626,7 +17626,7 @@ Have they determined upon a course? Then We too are determined.
 
 # 4405
 
-Do they imagine We do not hear their secret talk and their private counsels? On the contrary, Our messengers [angels] are at their sides, recording everything.
+Do they imagine We do not hear their secret talk and their private counsels? On the contrary, Our messengers \[angels\] are at their sides, recording everything.
 
 # 4406
 
@@ -17634,7 +17634,7 @@ Say, "If the All Merciful had a son, I would be the first to worship him."
 
 # 4407
 
-But -- exalted be the Lord of the heavens and earth, the Lord of the Throne -- He is far above their [false] descriptions.
+But -- exalted be the Lord of the heavens and earth, the Lord of the Throne -- He is far above their \[false\] descriptions.
 
 # 4408
 
@@ -17662,7 +17662,7 @@ The Prophet has said, "Lord! Truly they are a people who do not believe."
 
 # 4414
 
-Then bear with them [O Muhammad] and say, "Peace." They will soon come to know.
+Then bear with them \[O Muhammad\] and say, "Peace." They will soon come to know.
 
 # 4415
 
@@ -17742,7 +17742,7 @@ Do not set yourselves above God: I bring you clear authority.
 
 # 4434
 
-I have sought refuge with my Lord and your Lord lest you stone me [to death].
+I have sought refuge with my Lord and your Lord lest you stone me \[to death\].
 
 # 4435
 
@@ -17806,7 +17806,7 @@ there is nothing beyond our first death; we shall not be raised again.
 
 # 4450
 
-So bring our fathers [back], if what you say is true.
+So bring our fathers \[back\], if what you say is true.
 
 # 4451
 
@@ -17850,7 +17850,7 @@ like the boiling of hot water.
 
 # 4461
 
-[A voice will cry], "Seize him and drag him into the midst of Hell.
+\[A voice will cry\], "Seize him and drag him into the midst of Hell.
 
 # 4462
 
@@ -17918,7 +17918,7 @@ in your own creation and all the creatures He has spread about, there are signs 
 
 # 4478
 
-and in the succession of night and day, and in the means of subsistence which God sends down from the skies, giving life thereby to the earth after it had been lifeless, and in the circulation of the winds: [in all this] there are signs for people who use their reason.
+and in the succession of night and day, and in the means of subsistence which God sends down from the skies, giving life thereby to the earth after it had been lifeless, and in the circulation of the winds: \[in all this\] there are signs for people who use their reason.
 
 # 4479
 
@@ -17966,11 +17966,11 @@ We gave Scriptures, wisdom and prophethood to the Children of Israel, and provid
 
 # 4490
 
-We gave them clear arguments in matters [of religion]. It was only after knowledge came to them that they differed among themselves out of mutual rivalry. On the Day of Resurrection your Lord will judge between them regarding their differences.
+We gave them clear arguments in matters \[of religion\]. It was only after knowledge came to them that they differed among themselves out of mutual rivalry. On the Day of Resurrection your Lord will judge between them regarding their differences.
 
 # 4491
 
-Then We set you on a clear path [of religion]: so follow it, and do not yield to the desires of those who have no knowledge.
+Then We set you on a clear path \[of religion\]: so follow it, and do not yield to the desires of those who have no knowledge.
 
 # 4492
 
@@ -17978,7 +17978,7 @@ They can be of no avail to you against God. The wrongdoers are friends of one an
 
 # 4493
 
-This [Book] brings enlightenment and guidance to mankind, and is a blessing for those who have firm faith.
+This \[Book\] brings enlightenment and guidance to mankind, and is a blessing for those who have firm faith.
 
 # 4494
 
@@ -17990,7 +17990,7 @@ God has created the heavens and the earth for a true purpose, so that every soul
 
 # 4496
 
-[Prophet], consider the one who has taken his own desire as a deity, whom God allows to stray in the face of knowledge, sealing his ears and heart and covering his eyes -- who can guide such a person after God [has abandoned him]? Will you not take heed?
+\[Prophet\], consider the one who has taken his own desire as a deity, whom God allows to stray in the face of knowledge, sealing his ears and heart and covering his eyes -- who can guide such a person after God \[has abandoned him\]? Will you not take heed?
 
 # 4497
 
@@ -18010,7 +18010,7 @@ To God belongs the kingdom of the heavens and the earth; on the Day when the Hou
 
 # 4501
 
-You will see every people on their knees, every people shall be summoned to its Record [and a voice will say], "Today you will be requited for your deeds.
+You will see every people on their knees, every people shall be summoned to its Record \[and a voice will say\], "Today you will be requited for your deeds.
 
 # 4502
 
@@ -18022,7 +18022,7 @@ Those who believed and did good deeds will be admitted by their Lord into His me
 
 # 4504
 
-But those who rejected the truth [will be asked], "When My revelations were recited to you, were you not arrogant and did you not persist in wicked deeds?
+But those who rejected the truth \[will be asked\], "When My revelations were recited to you, were you not arrogant and did you not persist in wicked deeds?
 
 # 4505
 
@@ -18066,7 +18066,7 @@ Say, "Have you thought about those you call upon apart from God? Show me what th
 
 # 4515
 
-And who is more misguided than one who invokes, besides God, such as will not answer him until the Day of Resurrection, and who [in fact] are not even aware of his call,
+And who is more misguided than one who invokes, besides God, such as will not answer him until the Day of Resurrection, and who \[in fact\] are not even aware of his call,
 
 # 4516
 
@@ -18078,7 +18078,7 @@ And whenever Our clear revelations are recited to them and the Truth is brought 
 
 # 4518
 
-Do they mean to say that the Messenger himself has fabricated it? Say [O Muhammad], "If I have fabricated it myself, you will not be able to do anything to save me from God. He knows quite well what talk you indulge in. He is enough as a witness between me and you; and He is the Forgiving, the Merciful One."
+Do they mean to say that the Messenger himself has fabricated it? Say \[O Muhammad\], "If I have fabricated it myself, you will not be able to do anything to save me from God. He knows quite well what talk you indulge in. He is enough as a witness between me and you; and He is the Forgiving, the Merciful One."
 
 # 4519
 
@@ -18094,11 +18094,11 @@ Those who deny the truth say of the believers, "If there were any good in this Q
 
 # 4522
 
-Yet the scripture of Moses was revealed before it as a guide and a blessing; and this is a Book in the Arabic language, fulfilling [previous prophecies], to forewarn those who do evil and to bring good news to those who do good.
+Yet the scripture of Moses was revealed before it as a guide and a blessing; and this is a Book in the Arabic language, fulfilling \[previous prophecies\], to forewarn those who do evil and to bring good news to those who do good.
 
 # 4523
 
-Surely those who say, "Our Lord is God," and remain firm [on that path] shall feel no fear, nor shall they grieve:
+Surely those who say, "Our Lord is God," and remain firm \[on that path\] shall feel no fear, nor shall they grieve:
 
 # 4524
 
@@ -18142,19 +18142,19 @@ He said, "God alone knows when it will come, and I deliver to you the message wi
 
 # 4534
 
-So, when they saw it in the shape of a dense cloud approaching their valleys, they exclaimed, "This is only a heavy cloud which will bring us [welcome] rain!" [But Hud said]: "By no means! It is the very thing which you sought to hasten -- a wind bearing grievous suffering
+So, when they saw it in the shape of a dense cloud approaching their valleys, they exclaimed, "This is only a heavy cloud which will bring us \[welcome\] rain!" \[But Hud said\]: "By no means! It is the very thing which you sought to hasten -- a wind bearing grievous suffering
 
 # 4535
 
-which will destroy everything at its Lord's behest!" And in the morning there was nothing left to be seen save their [empty] dwellings: thus We repay the evil-doers.
+which will destroy everything at its Lord's behest!" And in the morning there was nothing left to be seen save their \[empty\] dwellings: thus We repay the evil-doers.
 
 # 4536
 
-We had empowered them to an extent which We have not empowered you, [O people of later times]; and We had endowed them with hearing, and sight, and hearts: but neither their hearing, nor their sight, nor their hearts were of the least avail to them, since they went on rejecting God's revelations; and they were overwhelmed by the very thing which they had been wont to deride.
+We had empowered them to an extent which We have not empowered you, \[O people of later times\]; and We had endowed them with hearing, and sight, and hearts: but neither their hearing, nor their sight, nor their hearts were of the least avail to them, since they went on rejecting God's revelations; and they were overwhelmed by the very thing which they had been wont to deride.
 
 # 4537
 
-We have also destroyed other towns that once [flourished] around you, We had given them various signs so that they might return [to the right path],
+We have also destroyed other towns that once \[flourished\] around you, We had given them various signs so that they might return \[to the right path\],
 
 # 4538
 
@@ -18174,7 +18174,7 @@ Our people, respond to the one who calls you to God. Believe in him! God will fo
 
 # 4542
 
-But he who does not respond to God's calls can never elude [Him] on earth, nor can he have any protector against Him. Such people have clearly gone far astray."
+But he who does not respond to God's calls can never elude \[Him\] on earth, nor can he have any protector against Him. Such people have clearly gone far astray."
 
 # 4543
 
@@ -18186,11 +18186,11 @@ On the Day when those who deny the truth will be brought before the Fire, they s
 
 # 4545
 
-Have patience, then, as had the steadfast Messengers before you; and be in no haste about them. On the Day when they see what they are threatened with, it will appear to them as though they had not tarried longer than an hour of a day. [Your responsibility is] to deliver the message: and none but the disobedient shall be destroyed.
+Have patience, then, as had the steadfast Messengers before you; and be in no haste about them. On the Day when they see what they are threatened with, it will appear to them as though they had not tarried longer than an hour of a day. \[Your responsibility is\] to deliver the message: and none but the disobedient shall be destroyed.
 
 # 4546
 
-God will bring to naught all the good deeds of those who are bent on denying the truth and bar [others] from the path of God.
+God will bring to naught all the good deeds of those who are bent on denying the truth and bar \[others\] from the path of God.
 
 # 4547
 
@@ -18202,7 +18202,7 @@ That is because the ones who deny the truth follow falsehood, while those who be
 
 # 4549
 
-When you meet those who deny the truth in battle, strike them in the neck, and once they are defeated, make [them] prisoners, and afterwards either set them free as an act of grace, or let them ransom [themselves] until the war is finally over. Thus you shall do; and if God had pleased, He would certainly have exacted retribution from them, but His purpose is to test some of you by means of others. As for those who are killed in God's cause, He will never let their deeds be in vain;
+When you meet those who deny the truth in battle, strike them in the neck, and once they are defeated, make \[them\] prisoners, and afterwards either set them free as an act of grace, or let them ransom \[themselves\] until the war is finally over. Thus you shall do; and if God had pleased, He would certainly have exacted retribution from them, but His purpose is to test some of you by means of others. As for those who are killed in God's cause, He will never let their deeds be in vain;
 
 # 4550
 
@@ -18218,7 +18218,7 @@ Believers! If you succour God, He will succour you and make your footsteps firm.
 
 # 4553
 
-But as for those who are bent on denying the truth, destruction will be their lot, and [God] will make their deeds come to nothing.
+But as for those who are bent on denying the truth, destruction will be their lot, and \[God\] will make their deeds come to nothing.
 
 # 4554
 
@@ -18250,7 +18250,7 @@ Here is a description of the Garden promised to the righteous: therein are river
 
 # 4561
 
-Among them are those who listen to you, but then, when they leave your presence, say to those who have been given knowledge [Scripture], "What was that he just said?" Such are those whose hearts God has sealed, and who follow their own base desires.
+Among them are those who listen to you, but then, when they leave your presence, say to those who have been given knowledge \[Scripture\], "What was that he just said?" Such are those whose hearts God has sealed, and who follow their own base desires.
 
 # 4562
 
@@ -18266,7 +18266,7 @@ Know then that there is no god except God. Ask forgiveness for your wrongdoing, 
 
 # 4565
 
-Those who believe ask why no chapter [about fighting] has been sent down. Yet when a decisive chapter that mentions fighting is sent down, you can see the sick of heart looking at you [Prophet] as if they were under the shadow of death. Therefore, woe to them!
+Those who believe ask why no chapter \[about fighting\] has been sent down. Yet when a decisive chapter that mentions fighting is sent down, you can see the sick of heart looking at you \[Prophet\] as if they were under the shadow of death. Therefore, woe to them!
 
 # 4566
 
@@ -18286,7 +18286,7 @@ Will they not, then, ponder over this Quran? Or are there locks upon their heart
 
 # 4570
 
-Surely, those who turn their backs [on this message] after guidance has been shown to them, [do it because] Satan has embellished their fancies and God gives them respite;
+Surely, those who turn their backs \[on this message\] after guidance has been shown to them, \[do it because\] Satan has embellished their fancies and God gives them respite;
 
 # 4571
 
@@ -18314,7 +18314,7 @@ Most certainly We will try you until We have discovered those among you who stri
 
 # 4577
 
-Surely, they who are bent on denying the truth and on barring [others] from the path of God, and oppose the Messenger when they have been shown guidance, cannot harm God in any way. He will cause all their deeds to come to nothing.
+Surely, they who are bent on denying the truth and on barring \[others\] from the path of God, and oppose the Messenger when they have been shown guidance, cannot harm God in any way. He will cause all their deeds to come to nothing.
 
 # 4578
 
@@ -18334,11 +18334,11 @@ The life of this world is only a game, a pastime, but if you believe and are min
 
 # 4582
 
-If He were to ask it [wealth] of you, and continued to press you, you would be niggardly, and this would show your ill-will.
+If He were to ask it \[wealth\] of you, and continued to press you, you would be niggardly, and this would show your ill-will.
 
 # 4583
 
-Behold! You are those who are called upon to spend for God's cause, but among you are those who are niggardly, and whoever stints does so against his own self. Indeed, God is self-sufficient, but you stand in need [of Him], and if you turn back, He will bring in your place another people, who will not be like you.
+Behold! You are those who are called upon to spend for God's cause, but among you are those who are niggardly, and whoever stints does so against his own self. Indeed, God is self-sufficient, but you stand in need \[of Him\], and if you turn back, He will bring in your place another people, who will not be like you.
 
 # 4584
 
@@ -18382,7 +18382,7 @@ Behold, all who pledge their allegiance to you indeed pledge their allegiance to
 
 # 4594
 
-Those desert Arabs who remained behind will say to you, "Our belongings and our families kept us occupied, so ask forgiveness for us." They will say with their tongues what is not in their hearts. Say, "Who then has any power at all [to intervene] on your behalf with God, if His will is to do you harm, or if He intends to do you good? Indeed, God is well aware of all that you do."
+Those desert Arabs who remained behind will say to you, "Our belongings and our families kept us occupied, so ask forgiveness for us." They will say with their tongues what is not in their hearts. Say, "Who then has any power at all \[to intervene\] on your behalf with God, if His will is to do you harm, or if He intends to do you good? Indeed, God is well aware of all that you do."
 
 # 4595
 
@@ -18398,7 +18398,7 @@ To God belongs the kingdom of the heavens and the earth. He forgives whom He ple
 
 # 4598
 
-When you [believers] set off to gather the spoils, those that stayed behind will say, "Let us come with you." They want to change God's word, but tell them, "You shall not follow us. God has declared this beforehand." Then they will say, "You are jealous of us." But how little they understand!
+When you \[believers\] set off to gather the spoils, those that stayed behind will say, "Let us come with you." They want to change God's word, but tell them, "You shall not follow us. God has declared this beforehand." Then they will say, "You are jealous of us." But how little they understand!
 
 # 4599
 
@@ -18410,7 +18410,7 @@ the blind, the lame, and the sick will not be blamed." God will admit anyone who
 
 # 4601
 
-God was pleased with the believers when they swore allegiance to you [Prophet] under the tree: He knew what was in their hearts and so He sent tranquillity down to them and rewarded them with a victory near at hand
+God was pleased with the believers when they swore allegiance to you \[Prophet\] under the tree: He knew what was in their hearts and so He sent tranquillity down to them and rewarded them with a victory near at hand
 
 # 4602
 
@@ -18422,7 +18422,7 @@ God has promised you many future gains, and He has given you these in advance; a
 
 # 4604
 
-And there are yet other [gains] which are still beyond your grasp, [but] which God has already encompassed [for you]: for God has power over all things.
+And there are yet other \[gains\] which are still beyond your grasp, \[but\] which God has already encompassed \[for you\]: for God has power over all things.
 
 # 4605
 
@@ -18438,11 +18438,11 @@ It is He who withheld their hands from you, and your hands from them in the vall
 
 # 4608
 
-It was they who were bent on denying the truth, and who debarred you from the Sacred Mosque and who prevented your offering from reaching its place of sacrifice. And had it not been for the believing men and believing women [in Makkah] whom you might unwittingly have trampled underfoot, and on whose account you might have, unknowingly, become guilty, [God would have commanded you to fight it out with them; but He ordained it thus] so that He may bring whoever He will into His mercy. If they [the believers] had been clearly separated, We would have punished those who were bent on denying the truth with a painful punishment.
+It was they who were bent on denying the truth, and who debarred you from the Sacred Mosque and who prevented your offering from reaching its place of sacrifice. And had it not been for the believing men and believing women \[in Makkah\] whom you might unwittingly have trampled underfoot, and on whose account you might have, unknowingly, become guilty, \[God would have commanded you to fight it out with them; but He ordained it thus\] so that He may bring whoever He will into His mercy. If they \[the believers\] had been clearly separated, We would have punished those who were bent on denying the truth with a painful punishment.
 
 # 4609
 
-While those who deny the truth made it a prestige issue [in their hearts], the bigotry of the days of ignorance, God sent His tranquillity down on to His Messenger and believers and firmly established in them the principle of righteousness, for they were indeed better entitled to it and more worthy of it. God has full knowledge of all things.
+While those who deny the truth made it a prestige issue \[in their hearts\], the bigotry of the days of ignorance, God sent His tranquillity down on to His Messenger and believers and firmly established in them the principle of righteousness, for they were indeed better entitled to it and more worthy of it. God has full knowledge of all things.
 
 # 4610
 
@@ -18450,7 +18450,7 @@ God has in all truth shown His Messenger a true vision in which He said, "God wi
 
 # 4611
 
-He is the One who has sent His Messenger with guidance and the true religion, so that He may have it prevail over all [other] religions. God suffices as a witness!
+He is the One who has sent His Messenger with guidance and the true religion, so that He may have it prevail over all \[other\] religions. God suffices as a witness!
 
 # 4612
 
@@ -18498,7 +18498,7 @@ Surely all believers are brothers. So make peace between your brothers, and fear
 
 # 4623
 
-Believers, let not some men among you ridicule others: it may be that the latter are better than the former: nor should some women laugh at others: it may be that the latter are better than the former: do not defame or be sarcastic to each other, or call each other by [offensive] nicknames. How bad it is to earn an evil reputation after accepting the faith! Those who do not repent are evil-doers.
+Believers, let not some men among you ridicule others: it may be that the latter are better than the former: nor should some women laugh at others: it may be that the latter are better than the former: do not defame or be sarcastic to each other, or call each other by \[offensive\] nicknames. How bad it is to earn an evil reputation after accepting the faith! Those who do not repent are evil-doers.
 
 # 4624
 
@@ -18522,7 +18522,7 @@ Say, "Do you presume to teach God your religion when God knows everything in the
 
 # 4629
 
-They think they have done you a favour by becoming Muslims! Say, "Do not consider your Islam a favour to me. No indeed! It is God who bestowed a favour on you by guiding you to the true faith. [Admit this], if you are telling the truth."
+They think they have done you a favour by becoming Muslims! Say, "Do not consider your Islam a favour to me. No indeed! It is God who bestowed a favour on you by guiding you to the true faith. \[Admit this\], if you are telling the truth."
 
 # 4630
 
@@ -18570,7 +18570,7 @@ and tall palm-trees with their thickly-clustered dates,
 
 # 4641
 
-as a provision for human beings; and by [all] this We bring dead land to life. Such shall be the Resurrection.
+as a provision for human beings; and by \[all\] this We bring dead land to life. Such shall be the Resurrection.
 
 # 4642
 
@@ -18606,11 +18606,11 @@ The trance of death will come revealing the truth: that is what you were trying 
 
 # 4650
 
-The trumpet will be sounded. This is the Day [you were] warned of.
+The trumpet will be sounded. This is the Day \[you were\] warned of.
 
 # 4651
 
-Each person will arrive attended by an [angel] to drive him on and another to bear witness.
+Each person will arrive attended by an \[angel\] to drive him on and another to bear witness.
 
 # 4652
 
@@ -18634,7 +18634,7 @@ who has set up another god besides God: cast him into severe punishment" --
 
 # 4657
 
-and his associate [Satan] will say, "Lord, I did not make him transgress, he had already gone far astray himself."
+and his associate \[Satan\] will say, "Lord, I did not make him transgress, he had already gone far astray himself."
 
 # 4658
 
@@ -18678,7 +18678,7 @@ There is truly a reminder in this for whoever has a heart, whoever listens atten
 
 # 4668
 
-We created the heavens, the earth, and everything between them in six days [periods] nor were We ever wearied.
+We created the heavens, the earth, and everything between them in six days \[periods\] nor were We ever wearied.
 
 # 4669
 
@@ -18694,7 +18694,7 @@ Hearken! The Day when the caller will call from near.
 
 # 4672
 
-The Day when men will hear the fateful cry, they will rise up [from their graves].
+The Day when men will hear the fateful cry, they will rise up \[from their graves\].
 
 # 4673
 
@@ -18702,7 +18702,7 @@ Truly, it is We who give life and cause death, and to Us shall all return
 
 # 4674
 
-on the Day the earth will be rent asunder over them, and from it they shall emerge in haste. To assemble them all is easy enough  for Us.
+on the Day the earth will be rent asunder over them, and from it they shall emerge in haste. To assemble them all is easy enough for Us.
 
 # 4675
 
@@ -18714,7 +18714,7 @@ By the winds that scatter the dust,
 
 # 4677
 
-and those that bear the burden [of the rain],
+and those that bear the burden \[of the rain\],
 
 # 4678
 
@@ -18738,11 +18738,11 @@ by the heaven full of tracks,
 
 # 4683
 
-surely you are deeply at variance [as to what to believe] --
+surely you are deeply at variance \[as to what to believe\] --
 
 # 4684
 
-he is turned away from [the truth] who is destined to be so turned away.
+he is turned away from \[the truth\] who is destined to be so turned away.
 
 # 4685
 
@@ -18806,7 +18806,7 @@ Have you heard the story of Abraham's honoured guests?
 
 # 4700
 
-When they came to him they said, "Peace!" He answered, "Peace!" [saying to himself]. "They are strangers."
+When they came to him they said, "Peace!" He answered, "Peace!" \[saying to himself\]. "They are strangers."
 
 # 4701
 
@@ -18866,11 +18866,11 @@ But he turned his back, he and his courtiers, and said, "This is a sorcerer or a
 
 # 4715
 
-Then We seized him and his army and cast them all into the sea: he himself [Pharaoh] was to blame.
+Then We seized him and his army and cast them all into the sea: he himself \[Pharaoh\] was to blame.
 
 # 4716
 
-There is another sign in the [tribe of] 'Ad, when We sent against them a life-destroying wind
+There is another sign in the \[tribe of\] 'Ad, when We sent against them a life-destroying wind
 
 # 4717
 
@@ -18878,7 +18878,7 @@ and it destroyed everything over which it passed and reduced it to dust.
 
 # 4718
 
-In the Thamud [there was another sign], when they were told, "Make the most of your lives for a while."
+In the Thamud \[there was another sign\], when they were told, "Make the most of your lives for a while."
 
 # 4719
 
@@ -18890,7 +18890,7 @@ they could not stand up again, nor could they defend themselves.
 
 # 4721
 
-[We destroyed] the people of Noah before them. They were certainly a sinful people.
+\[We destroyed\] the people of Noah before them. They were certainly a sinful people.
 
 # 4722
 
@@ -18942,7 +18942,7 @@ it is God who is the great Sustainer, the Mighty One, the Invincible.
 
 # 4734
 
-The wrongdoers will meet the same fate as their predecessors, let them not ask Me to hasten on [the punishment],
+The wrongdoers will meet the same fate as their predecessors, let them not ask Me to hasten on \[the punishment\],
 
 # 4735
 
@@ -19014,7 +19014,7 @@ Now enter it. Whether you behave patiently or impatiently will make no differenc
 
 # 4752
 
-Truly, the God-fearing will dwell [on that Day] in gardens and in bliss,
+Truly, the God-fearing will dwell \[on that Day\] in gardens and in bliss,
 
 # 4753
 
@@ -19070,11 +19070,11 @@ If they say, "He is but a poet; we are waiting for some misfortune to befall him
 
 # 4766
 
-say [to them], "Wait then: I too am waiting along with you!" --
+say \[to them\], "Wait then: I too am waiting along with you!" --
 
 # 4767
 
-is it their minds that prompt them [to say] this, or are they merely insolent people?
+is it their minds that prompt them \[to say\] this, or are they merely insolent people?
 
 # 4768
 
@@ -19118,7 +19118,7 @@ Do they want to hatch some plot? Those who deny the truth will be the victims of
 
 # 4778
 
-Or have they a god other than God? Exalted be God over what they ascribe as partners [to Him]!
+Or have they a god other than God? Exalted be God over what they ascribe as partners \[to Him\]!
 
 # 4779
 
@@ -19138,7 +19138,7 @@ Truly, for those who do wrong there is a punishment besides that, though most of
 
 # 4783
 
-So wait patiently for the Judgement of your Lord -- you are certainly under Our watchful eye. And glorify and celebrate the praises of your Lord when you rise up [from your sleep].
+So wait patiently for the Judgement of your Lord -- you are certainly under Our watchful eye. And glorify and celebrate the praises of your Lord when you rise up \[from your sleep\].
 
 # 4784
 
@@ -19158,11 +19158,11 @@ nor does he speak out of his own desire.
 
 # 4788
 
-It [the Quran] is nothing but revelation sent down to him.
+It \[the Quran\] is nothing but revelation sent down to him.
 
 # 4789
 
-He was taught by [an angel] who is mighty in power,
+He was taught by \[an angel\] who is mighty in power,
 
 # 4790
 
@@ -19186,7 +19186,7 @@ and revealed to God's servant what he revealed.
 
 # 4795
 
-The heart [of the Prophet] did not misconstrue what he saw.
+The heart \[of the Prophet\] did not misconstrue what he saw.
 
 # 4796
 
@@ -19202,7 +19202,7 @@ by the lote tree beyond which none may pass
 
 # 4799
 
-by the Garden of [Eternal] Repose,
+by the Garden of \[Eternal\] Repose,
 
 # 4800
 
@@ -19274,7 +19274,7 @@ As for those who refrain from committing grave sins and indecent acts, though th
 
 # 4817
 
-Have you [Prophet] considered the man who turned away,
+Have you \[Prophet\] considered the man who turned away,
 
 # 4818
 
@@ -19302,7 +19302,7 @@ and that man shall have only that for which he strives;
 
 # 4824
 
-and that [the fruit of] his striving shall soon be seen;
+and that \[the fruit of\] his striving shall soon be seen;
 
 # 4825
 
@@ -19354,7 +19354,7 @@ and before them the people of Noah who were even more unjust and insolent;
 
 # 4837
 
-and He overthrew the subverted cities [of Sodom and Gomorrah]
+and He overthrew the subverted cities \[of Sodom and Gomorrah\]
 
 # 4838
 
@@ -19398,7 +19398,7 @@ The Last Hour draws near and the moon is split asunder.
 
 # 4848
 
-Yet, when they see a sign they [who deny the truth] turn their backs and say, "The same old sorcery!"
+Yet, when they see a sign they \[who deny the truth\] turn their backs and say, "The same old sorcery!"
 
 # 4849
 
@@ -19426,7 +19426,7 @@ hastening towards the Crier. Those who deny the truth will cry, "This is such a 
 
 # 4855
 
-The people of Noah denied [the truth] before them. They belied Our messenger saying, "He is mad!" He was rebuffed,
+The people of Noah denied \[the truth\] before them. They belied Our messenger saying, "He is mad!" He was rebuffed,
 
 # 4856
 
@@ -19442,7 +19442,7 @@ and We caused the earth to burst with gushing springs: so that the waters met fo
 
 # 4859
 
-We bore him on an [ark] which, made of planks and nails,
+We bore him on an \[ark\] which, made of planks and nails,
 
 # 4860
 
@@ -19474,7 +19474,7 @@ It swept people away as if they were trunks of uprooted palm trees.
 
 # 4867
 
-How [dreadful] was My punishment and My warning!
+How \[dreadful\] was My punishment and My warning!
 
 # 4868
 
@@ -19490,19 +19490,19 @@ they said, "Are we to follow a man from amongst ourselves? We would surely then 
 
 # 4871
 
-Has the [Divine] message been revealed to him alone of all of us? No, he is a boastful liar."
+Has the \[Divine\] message been revealed to him alone of all of us? No, he is a boastful liar."
 
 # 4872
 
-[We said to him] "Tomorrow they shall know who is the boastful liar,
+\[We said to him\] "Tomorrow they shall know who is the boastful liar,
 
 # 4873
 
-for We are [going to] send the she-camel as a trial for them, so watch them and be patient.
+for We are \[going to\] send the she-camel as a trial for them, so watch them and be patient.
 
 # 4874
 
-And tell them that the water [of the well] is to be divided between them, and that each one should drink in turn."
+And tell them that the water \[of the well\] is to be divided between them, and that each one should drink in turn."
 
 # 4875
 
@@ -19510,7 +19510,7 @@ But they called their companion who took a sword and hamstrung her.
 
 # 4876
 
-How [terrible] were My punishment and My warnings!
+How \[terrible\] were My punishment and My warnings!
 
 # 4877
 
@@ -19654,7 +19654,7 @@ He has laid out the earth for His creatures.
 
 # 4912
 
-On it are fruits and palm-trees with sheathed clusters [of dates],
+On it are fruits and palm-trees with sheathed clusters \[of dates\],
 
 # 4913
 
@@ -19734,7 +19734,7 @@ Which of your Lord's wonders would you deny?
 
 # 4932
 
-Soon We shall attend to you -- two big groups [of jinn and mankind].
+Soon We shall attend to you -- two big groups \[of jinn and mankind\].
 
 # 4933
 
@@ -19742,7 +19742,7 @@ Which of your Lord's wonders would you deny?
 
 # 4934
 
-O company of jinn and men! If you have the power to go beyond the realms of the heavens and the earth, pass beyond them: you cannot pass out but with [Our] authority.
+O company of jinn and men! If you have the power to go beyond the realms of the heavens and the earth, pass beyond them: you cannot pass out but with \[Our\] authority.
 
 # 4935
 
@@ -19802,7 +19802,7 @@ Which of your Lord's wonders would you deny?
 
 # 4949
 
-[There will be two gardens with] spreading branches.
+\[There will be two gardens with\] spreading branches.
 
 # 4950
 
@@ -19842,7 +19842,7 @@ Which of your Lord's wonders would you deny?
 
 # 4959
 
-[There will be] maidens as fair as corals and rubies.
+\[There will be\] maidens as fair as corals and rubies.
 
 # 4960
 
@@ -19866,7 +19866,7 @@ Which of your Lord's wonders would you deny?
 
 # 4965
 
-Both [gardens] of the darkest green.
+Both \[gardens\] of the darkest green.
 
 # 4966
 
@@ -19898,7 +19898,7 @@ Which of your Lord's wonders would you deny?
 
 # 4973
 
-[There the blessed will live with their] pure companions sheltered in pavilions.
+\[There the blessed will live with their\] pure companions sheltered in pavilions.
 
 # 4974
 
@@ -19914,7 +19914,7 @@ Which of your Lord's wonders would you deny?
 
 # 4977
 
-[They will live in such a paradise] reclining upon green cushions and the finest carpets.
+\[They will live in such a paradise\] reclining upon green cushions and the finest carpets.
 
 # 4978
 
@@ -19950,7 +19950,7 @@ and become like scattered dust particles,
 
 # 4986
 
-[on that Day] you shall be divided into three groups.
+\[on that Day\] you shall be divided into three groups.
 
 # 4987
 
@@ -20154,7 +20154,7 @@ We have created you: why then do you not accept the truth?
 
 # 5037
 
-Have you thought about [the semen] that you discharge --
+Have you thought about \[the semen\] that you discharge --
 
 # 5038
 
@@ -20190,7 +20190,7 @@ If We so pleased, We could turn your harvest into chaff. Then you would start la
 
 # 5046
 
-nay, we are deprived [altogether]."
+nay, we are deprived \[altogether\]."
 
 # 5047
 
@@ -20258,7 +20258,7 @@ Why, then, when the soul of the dying man reaches the throat,
 
 # 5063
 
-and you are [at that moment] looking on [helplessly] --
+and you are \[at that moment\] looking on \[helplessly\] --
 
 # 5064
 
@@ -20274,7 +20274,7 @@ do you not cause the soul to return to him if you are truthful in your claim?
 
 # 5067
 
-But if he [the dying person] is one of those brought near to God,
+But if he \[the dying person\] is one of those brought near to God,
 
 # 5068
 
@@ -20290,7 +20290,7 @@ he will be greeted with, "Peace be to you," by those on the Right.
 
 # 5071
 
-But if he is one of those who rejected [the truth] and went astray,
+But if he is one of those who rejected \[the truth\] and went astray,
 
 # 5072
 
@@ -20322,7 +20322,7 @@ He is the First and the Last, the Outward and the Inward. He has knowledge of al
 
 # 5079
 
-It was He who created the heavens and earth in six Days [periods] and then ascended the throne. He knows what enters the earth and what comes out of it; what descends from the sky and what ascends to it. He is with you wherever you are; He sees all that you do;
+It was He who created the heavens and earth in six Days \[periods\] and then ascended the throne. He knows what enters the earth and what comes out of it; what descends from the sky and what ascends to it. He is with you wherever you are; He sees all that you do;
 
 # 5080
 
@@ -20354,7 +20354,7 @@ Who will offer God a generous loan? He will double it for him and give him a ric
 
 # 5087
 
-On the  Day, you [Prophet] shall see the faithful, both men and women, with their light streaming out before them and on their right hands, [and you shall hear a voice saying to them:] "Glad tidings for you today! You shall enter gardens with rivers flowing through them wherein you shall forever dwell. That is the supreme triumph."
+On the Day, you \[Prophet\] shall see the faithful, both men and women, with their light streaming out before them and on their right hands, \[and you shall hear a voice saying to them:\] "Glad tidings for you today! You shall enter gardens with rivers flowing through them wherein you shall forever dwell. That is the supreme triumph."
 
 # 5088
 
@@ -20362,7 +20362,7 @@ On that Day, the hypocrites, both men and women, will say to the faithful, "Wait
 
 # 5089
 
-The hypocrites will call out to the faithful: "Were we not on your side?" They will reply, "Yes, but you gave in to temptation, you wavered and doubted and were deceived by your wishful thinking until God's will was done; then the Deceiver [Satan] misled you about God."
+The hypocrites will call out to the faithful: "Were we not on your side?" They will reply, "Yes, but you gave in to temptation, you wavered and doubted and were deceived by your wishful thinking until God's will was done; then the Deceiver \[Satan\] misled you about God."
 
 # 5090
 
@@ -20414,7 +20414,7 @@ We sent forth Noah and Abraham and bestowed upon their offspring prophethood and
 
 # 5102
 
-Then, in their wake, We followed them up with [others of] Our messengers and after them Jesus, son of Mary. We gave him the Gospel and imbued the hearts of those who followed him with compassion and mercy. But We did not prescribe monasticism for them: that was their own innovation by which they sought to please God. But then, they did not observe it in the way that it should have been observed. So We rewarded only those who were truly faithful, for many of them were disobedient.
+Then, in their wake, We followed them up with \[others of\] Our messengers and after them Jesus, son of Mary. We gave him the Gospel and imbued the hearts of those who followed him with compassion and mercy. But We did not prescribe monasticism for them: that was their own innovation by which they sought to please God. But then, they did not observe it in the way that it should have been observed. So We rewarded only those who were truly faithful, for many of them were disobedient.
 
 # 5103
 
@@ -20474,7 +20474,7 @@ Believers, when you come to consult the Messenger privately, give something in c
 
 # 5117
 
-Do you fear that you will not [be able to] give in charity before your consultation? Then if you are unable to do so, [know that] God has turned to you in His mercy; then observe your prayers and pay the prescribed alms and obey God and His Messenger. God is aware of all that you do.
+Do you fear that you will not \[be able to\] give in charity before your consultation? Then if you are unable to do so, \[know that\] God has turned to you in His mercy; then observe your prayers and pay the prescribed alms and obey God and His Messenger. God is aware of all that you do.
 
 # 5118
 
@@ -20490,7 +20490,7 @@ They have used their oaths to cover up their misdeeds and have thus turned other
 
 # 5121
 
-Neither their wealth nor their children will be of the least avail [in protecting them] against God -- they are the inheritors of Hell, and there they shall remain forever.
+Neither their wealth nor their children will be of the least avail \[in protecting them\] against God -- they are the inheritors of Hell, and there they shall remain forever.
 
 # 5122
 
@@ -20502,7 +20502,7 @@ Satan has got the better of them and has caused them to forget the remembrance o
 
 # 5124
 
-those who oppose God and His Messenger will [on Judgement Day] be among the most abased.
+those who oppose God and His Messenger will \[on Judgement Day\] be among the most abased.
 
 # 5125
 
@@ -20546,11 +20546,11 @@ It is for the poor refugees who were driven from their homes and possessions, de
 
 # 5135
 
-Those who were already settled in the city [Madinah] and firmly rooted in faith, love those who migrated to them for refuge, and harbour no desire in their hearts for what has been given to the [latter]. They give them preference over themselves, even if they too are needy: those who are saved from their own souls' greed are truly successful.
+Those who were already settled in the city \[Madinah\] and firmly rooted in faith, love those who migrated to them for refuge, and harbour no desire in their hearts for what has been given to the \[latter\]. They give them preference over themselves, even if they too are needy: those who are saved from their own souls' greed are truly successful.
 
 # 5136
 
-Those who came [into the faith] after them say, "Our Lord, forgive us and our brothers who preceded us in the faith and leave no malice in our hearts towards those who believe. Lord, You are indeed compassionate and merciful."
+Those who came \[into the faith\] after them say, "Our Lord, forgive us and our brothers who preceded us in the faith and leave no malice in our hearts towards those who believe. Lord, You are indeed compassionate and merciful."
 
 # 5137
 
@@ -20586,7 +20586,7 @@ Believers! Fear God, and let every soul look to what it lays up for the future. 
 
 # 5145
 
-Do not be like those who forgot God, so that He caused them to forget their own souls [their own true interests]. It is they who are the rebellious ones.
+Do not be like those who forgot God, so that He caused them to forget their own souls \[their own true interests\]. It is they who are the rebellious ones.
 
 # 5146
 
@@ -20610,7 +20610,7 @@ He is God -- the Creator, the Originator, the Giver of Form. His are the most ex
 
 # 5151
 
-Believers! Do not offer friendship to those who are enemies of Mine and of yours. Would you show them affection when they have rejected the truth you have received; when they have driven you and the Messenger out [simply] because you believe in God, your Lord. If you have left your homes to strive for My cause and out of a desire to seek My goodwill, how can you secretly offer them friendship?  I know all that you conceal and all that you reveal. Whoever of you does this will surely stray from the right path.
+Believers! Do not offer friendship to those who are enemies of Mine and of yours. Would you show them affection when they have rejected the truth you have received; when they have driven you and the Messenger out \[simply\] because you believe in God, your Lord. If you have left your homes to strive for My cause and out of a desire to seek My goodwill, how can you secretly offer them friendship? I know all that you conceal and all that you reveal. Whoever of you does this will surely stray from the right path.
 
 # 5152
 
@@ -20622,7 +20622,7 @@ Neither your relatives nor your children will be of any help to you on the Day o
 
 # 5154
 
-Indeed you have an excellent example in Abraham and those who followed him, when they said to their people, "We disown you and whatever you worship besides God. We renounce you. Enmity and hatred shall endure between us and you, until you believe in the one God." [The exception was] when Abraham said to his father, "I shall indeed pray for [God"s] forgiveness for you; although I do not have it in my power to obtain anything from God on your behalf." They prayed, "O our Lord, in You we have placed our trust and to You we turn in repentance and to You is the final return.
+Indeed you have an excellent example in Abraham and those who followed him, when they said to their people, "We disown you and whatever you worship besides God. We renounce you. Enmity and hatred shall endure between us and you, until you believe in the one God." \[The exception was\] when Abraham said to his father, "I shall indeed pray for \[God"s\] forgiveness for you; although I do not have it in my power to obtain anything from God on your behalf." They prayed, "O our Lord, in You we have placed our trust and to You we turn in repentance and to You is the final return.
 
 # 5155
 
@@ -20646,11 +20646,11 @@ God only forbids you to make friends with those who have fought against you on a
 
 # 5160
 
-Believers! When believing women come to you as refugees, submit them to a test. Their faith is best known to God. Then if you find them to be true believers, do not send them back to those who deny the truth. These [women] are not lawful for them, nor are those who deny the truth lawful for these women. But hand back to those who deny the truth the dowers they gave them; nor is it an offence for you to marry such women, provided you give them their dowers. Do not maintain your marriages with those women who deny the truth: demand repayment of the dowers you have given them and let the disbelievers ask for the return of what they have spent. Such is God's judgement; He judges with justice between you. God is all knowing and all wise.
+Believers! When believing women come to you as refugees, submit them to a test. Their faith is best known to God. Then if you find them to be true believers, do not send them back to those who deny the truth. These \[women\] are not lawful for them, nor are those who deny the truth lawful for these women. But hand back to those who deny the truth the dowers they gave them; nor is it an offence for you to marry such women, provided you give them their dowers. Do not maintain your marriages with those women who deny the truth: demand repayment of the dowers you have given them and let the disbelievers ask for the return of what they have spent. Such is God's judgement; He judges with justice between you. God is all knowing and all wise.
 
 # 5161
 
-If any of your wives desert you to go over to the disbelievers, and you subsequently have your turn, [by the coming over of a woman from the other side] give to those  who have been deserted by their wives the equivalent of the dowers they gave them. Fear God in whom you believe.
+If any of your wives desert you to go over to the disbelievers, and you subsequently have your turn, \[by the coming over of a woman from the other side\] give to those who have been deserted by their wives the equivalent of the dowers they gave them. Fear God in whom you believe.
 
 # 5162
 
@@ -20710,7 +20710,7 @@ and He will forgive you your sins and admit you into Gardens with rivers flowing
 
 # 5176
 
-He will give you another blessing which you desire: help from God and imminent victory. Give good tidings [O Muhammad] to believers!
+He will give you another blessing which you desire: help from God and imminent victory. Give good tidings \[O Muhammad\] to believers!
 
 # 5177
 
@@ -20754,7 +20754,7 @@ Believers! When the call to prayer is made on the day of congregation, hasten to
 
 # 5187
 
-When the prayer is ended, disperse in the land and seek to obtain [something] of God's bounty; and remember God much, so that you may prosper.
+When the prayer is ended, disperse in the land and seek to obtain \[something\] of God's bounty; and remember God much, so that you may prosper.
 
 # 5188
 
@@ -20774,7 +20774,7 @@ that is because they believed and then rejected their faith: their hearts are se
 
 # 5192
 
-When you see them, their outward appearance pleases you; when they speak, you listen to what they say. But they are like propped up blocks of timber. They think that every shout is directed against them. They are the [real] enemies, so beware of them. The curse of God be upon them! How they turn away!
+When you see them, their outward appearance pleases you; when they speak, you listen to what they say. But they are like propped up blocks of timber. They think that every shout is directed against them. They are the \[real\] enemies, so beware of them. The curse of God be upon them! How they turn away!
 
 # 5193
 
@@ -20790,7 +20790,7 @@ They are the ones who say, "Give nothing to those who follow God's Messenger, un
 
 # 5196
 
-[and] they say, "Indeed, when we return to Madinah, [we] the ones most worthy of honour, will surely drive out from there the contemptible ones!" [referring to poor Muslims]. However, all honour belongs to God, and to His Messenger and those who believe [in God]: but of this the hypocrites are not aware.
+\[and\] they say, "Indeed, when we return to Madinah, \[we\] the ones most worthy of honour, will surely drive out from there the contemptible ones!" \[referring to poor Muslims\]. However, all honour belongs to God, and to His Messenger and those who believe \[in God\]: but of this the hypocrites are not aware.
 
 # 5197
 
@@ -20810,7 +20810,7 @@ All that is in the heavens and on the earth extols the glory of God. To Him belo
 
 # 5201
 
-It was He who created you; and some of you are those who deny this truth, and some who believe [in it]. God sees everything you do.
+It was He who created you; and some of you are those who deny this truth, and some who believe \[in it\]. God sees everything you do.
 
 # 5202
 
@@ -20858,7 +20858,7 @@ God! There is no god but He, so let the faithful put their trust in Him.
 
 # 5213
 
-Believers! [Even] among your wives and your children you have enemies: so beware of them. But if you overlook their offences and forgive and pardon them, then surely, God is most forgiving and merciful.
+Believers! \[Even\] among your wives and your children you have enemies: so beware of them. But if you overlook their offences and forgive and pardon them, then surely, God is most forgiving and merciful.
 
 # 5214
 
@@ -20882,7 +20882,7 @@ O Prophet! When any of you divorce your wives, divorce them during their period 
 
 # 5219
 
-And when their waiting term is ended, either keep them honourably or part with them in honour. Call to witness two reliable men from among you and bear true witness for God. This is an admonishment for those who believe in God and the Last Day. To one who fears God, He will grant a way out [of his difficulties],
+And when their waiting term is ended, either keep them honourably or part with them in honour. Call to witness two reliable men from among you and bear true witness for God. This is an admonishment for those who believe in God and the Last Day. To one who fears God, He will grant a way out \[of his difficulties\],
 
 # 5220
 
@@ -20890,7 +20890,7 @@ and God will provide for him from an unexpected source; God suffices for anyone 
 
 # 5221
 
-In the case of those of your wives who have passed the age of menstruation, if you have any doubt, know that their waiting period is three months; and that will apply likewise to those who have not yet menstruated; the waiting period of those who are pregnant will be until they deliver their burden [give birth]. God makes things easy for those who are mindful of Him.
+In the case of those of your wives who have passed the age of menstruation, if you have any doubt, know that their waiting period is three months; and that will apply likewise to those who have not yet menstruated; the waiting period of those who are pregnant will be until they deliver their burden \[give birth\]. God makes things easy for those who are mindful of Him.
 
 # 5222
 
@@ -20898,7 +20898,7 @@ Such is the commandment which God has revealed to you. He who fears God shall be
 
 # 5223
 
-Let the women [who are undergoing a waiting period] live in the same manner as you live yourselves, in accordance with your means; and do not harass them in order to make their lives difficult. If they are pregnant, maintain them until they give birth; if they suckle your infants, pay them for it; discuss things among yourselves in all decency -- if you cannot bear with each other, let another woman suckle for you --
+Let the women \[who are undergoing a waiting period\] live in the same manner as you live yourselves, in accordance with your means; and do not harass them in order to make their lives difficult. If they are pregnant, maintain them until they give birth; if they suckle your infants, pay them for it; discuss things among yourselves in all decency -- if you cannot bear with each other, let another woman suckle for you --
 
 # 5224
 
@@ -20922,7 +20922,7 @@ and a messenger who conveys to you God's clear messages, so that he might lead t
 
 # 5229
 
-It is God who created the seven heavens and the same number of earths. His commandment descends among them, so that you may know that God has power over all things;  and that He encompasses all things with His knowledge.
+It is God who created the seven heavens and the same number of earths. His commandment descends among them, so that you may know that God has power over all things; and that He encompasses all things with His knowledge.
 
 # 5230
 
@@ -20934,7 +20934,7 @@ God has already ordained that you be absolved of such oaths. God is your patron.
 
 # 5232
 
-The Prophet once told one of his wives something in confidence. She did not keep it secret and God informed him of this; he made known a part of it, and avoided [mentioning] part of it. When he spoke to his wife of this, she asked him who had told him about it. He replied, "The All Knowing, the All Aware One."
+The Prophet once told one of his wives something in confidence. She did not keep it secret and God informed him of this; he made known a part of it, and avoided \[mentioning\] part of it. When he spoke to his wife of this, she asked him who had told him about it. He replied, "The All Knowing, the All Aware One."
 
 # 5233
 
@@ -20942,7 +20942,7 @@ If only both of you would turn to God in repentance -- and your hearts are alrea
 
 # 5234
 
-Were he to divorce you, his Lord might well replace you with better wives -- submissive [to God], believing, pious, penitent, devout in worship, given to fasting -- previously married and virgins.
+Were he to divorce you, his Lord might well replace you with better wives -- submissive \[to God\], believing, pious, penitent, devout in worship, given to fasting -- previously married and virgins.
 
 # 5235
 
@@ -20970,7 +20970,7 @@ To the believers God has given the example of Pharaoh's wife who said: "My Lord,
 
 # 5241
 
-[God gave another example in the story of] Mary, 'Imran's daughter, who preserved her chastity and We breathed Our spirit into her; she testified to the words of her Lord and His Scriptures, and was truly devout.
+\[God gave another example in the story of\] Mary, 'Imran's daughter, who preserved her chastity and We breathed Our spirit into her; she testified to the words of her Lord and His Scriptures, and was truly devout.
 
 # 5242
 
@@ -21038,11 +21038,11 @@ Do you feel secure that He who is in heaven will not cause the earth to sink ben
 
 # 5258
 
-Do you feel secure that the One in heaven will not send against you a whirlwind to pelt you with stones, so that you will know how [true] My warning was?
+Do you feel secure that the One in heaven will not send against you a whirlwind to pelt you with stones, so that you will know how \[true\] My warning was?
 
 # 5259
 
-Those who went before them belied [the truth]: then how great was My rejection of them.
+Those who went before them belied \[the truth\]: then how great was My rejection of them.
 
 # 5260
 
@@ -21066,7 +21066,7 @@ Say, "It is He who brought you into being, and made ears and eyes and hearts for
 
 # 5265
 
-Say, "It is He who has scattered you on the earth; and it is to Him that you shall all be gathered [on the Day of Resurrection].
+Say, "It is He who has scattered you on the earth; and it is to Him that you shall all be gathered \[on the Day of Resurrection\].
 
 # 5266
 
@@ -21090,7 +21090,7 @@ Say, "He is the Most Gracious: we believe in Him and we put our trust in Him. Yo
 
 # 5271
 
-Say, "Have you considered if your water were to sink  into the ground, who could then bring you flowing water?"
+Say, "Have you considered if your water were to sink into the ground, who could then bring you flowing water?"
 
 # 5272
 
@@ -21222,7 +21222,7 @@ May be our Lord will give us a better orchard in its stead; we turn to Him."
 
 # 5304
 
-Such was their punishment, [in this life]. But the punishment of the life to come is much more severe, if only they knew it!
+Such was their punishment, \[in this life\]. But the punishment of the life to come is much more severe, if only they knew it!
 
 # 5305
 
@@ -21254,7 +21254,7 @@ Ask them, which of them will vouch for that!
 
 # 5312
 
-Or have they other partners [besides God]? Let them bring forth their other partners, if what they say be true.
+Or have they other partners \[besides God\]? Let them bring forth their other partners, if what they say be true.
 
 # 5313
 
@@ -21262,7 +21262,7 @@ On the Day when the truth shall be laid bare, they will be called upon to prostr
 
 # 5314
 
-Their eyes will be cast down and they will be covered in shame; they were bidden to prostrate themselves, when they were safe and sound [but they did not obey].
+Their eyes will be cast down and they will be covered in shame; they were bidden to prostrate themselves, when they were safe and sound \[but they did not obey\].
 
 # 5315
 
@@ -21366,7 +21366,7 @@ And the sky will be rent asunder, for on that Day it will be so frail.
 
 # 5340
 
-The angels will appear by its sides and, on that Day, eight [angels] will bear your Lord's throne above them.
+The angels will appear by its sides and, on that Day, eight \[angels\] will bear your Lord's throne above them.
 
 # 5341
 
@@ -21526,11 +21526,11 @@ by which the angels and the Spirit will ascend to Him in one Day which will last
 
 # 5380
 
-Therefore, [O believers] behave with seemly patience.
+Therefore, \[O believers\] behave with seemly patience.
 
 # 5381
 
-They see it [the Day of Judgement] to be far off,
+They see it \[the Day of Judgement\] to be far off,
 
 # 5382
 
@@ -21574,7 +21574,7 @@ stripping away his skin,
 
 # 5392
 
-and it will claim all those who turned their backs [on the true faith] and turned away [from the truth],
+and it will claim all those who turned their backs \[on the true faith\] and turned away \[from the truth\],
 
 # 5393
 
@@ -21606,7 +21606,7 @@ those who give a due share of their wealth
 
 # 5400
 
-to those who ask [for help] and to the destitute;
+to those who ask \[for help\] and to the destitute;
 
 # 5401
 
@@ -21626,7 +21626,7 @@ those who preserve their chastity
 
 # 5405
 
-except from their spouses and those whom they rightfully possess [through wedlock], for which they incur no blame --
+except from their spouses and those whom they rightfully possess \[through wedlock\], for which they incur no blame --
 
 # 5406
 
@@ -21690,11 +21690,11 @@ We sent Noah forth to his people, saying, "Warn your people before there comes u
 
 # 5421
 
-[Noah] said, "My people! I am but a plain warner to you,
+\[Noah\] said, "My people! I am but a plain warner to you,
 
 # 5422
 
-that you should worship God [alone] and be conscious of Him. Pay heed to me.
+that you should worship God \[alone\] and be conscious of Him. Pay heed to me.
 
 # 5423
 
@@ -21774,7 +21774,7 @@ and they have hatched a mighty plot,
 
 # 5442
 
-and they said [to their followers], "Do not ever abandon your deities: abandon neither Wadd, nor Suwa', and neither Yaghuth, nor Yauq nor Nasr!"
+and they said \[to their followers\], "Do not ever abandon your deities: abandon neither Wadd, nor Suwa', and neither Yaghuth, nor Yauq nor Nasr!"
 
 # 5443
 
@@ -21798,7 +21798,7 @@ Lord! Forgive me and my parents and every true believer who enters my house, for
 
 # 5448
 
-Say, "It has been revealed to me that a band of the jinn listened [to the Quran] and they said, "We have heard a really wonderful recital,
+Say, "It has been revealed to me that a band of the jinn listened \[to the Quran\] and they said, "We have heard a really wonderful recital,
 
 # 5449
 
@@ -21810,7 +21810,7 @@ and exalted is the majesty of our Lord, He has taken neither a wife nor a son.
 
 # 5451
 
-And [now we know] that the foolish among us have been saying outrageous things about God.
+And \[now we know\] that the foolish among us have been saying outrageous things about God.
 
 # 5452
 
@@ -21930,11 +21930,11 @@ For We are about to send down to you a message of considerable gravity.
 
 # 5481
 
-Surely, getting up at night [for worship] is the most potent means of subduing the self and most suitable for the word [of prayer].
+Surely, getting up at night \[for worship\] is the most potent means of subduing the self and most suitable for the word \[of prayer\].
 
 # 5482
 
-You have by day prolonged occupations [with Dawah work].
+You have by day prolonged occupations \[with Dawah work\].
 
 # 5483
 
@@ -22030,7 +22030,7 @@ It will not be easy for those who deny the truth.
 
 # 5506
 
-Leave Me alone [to deal] with him whom I have created alone,
+Leave Me alone \[to deal\] with him whom I have created alone,
 
 # 5507
 
@@ -22106,7 +22106,7 @@ it scorches the skin;
 
 # 5525
 
-there are nineteen [angels] in charge of it --
+there are nineteen \[angels\] in charge of it --
 
 # 5526
 
@@ -22174,7 +22174,7 @@ and we denied the Day of Judgement
 
 # 5542
 
-until the Inevitable End [death] overtook us."
+until the Inevitable End \[death\] overtook us."
 
 # 5543
 
@@ -22222,7 +22222,7 @@ and by the self-reproaching soul!
 
 # 5554
 
-Does man think that We cannot [resurrect him and] bring his bones together again?
+Does man think that We cannot \[resurrect him and\] bring his bones together again?
 
 # 5555
 
@@ -22238,7 +22238,7 @@ he asks, "When is this Day of Resurrection to be?"
 
 # 5558
 
-But [on that Day], when mortal sight is confounded,
+But \[on that Day\], when mortal sight is confounded,
 
 # 5559
 
@@ -22274,7 +22274,7 @@ in spite of all the excuses he may offer.
 
 # 5567
 
-[Prophet], do not move your tongue too fast in your attempt to learn this revelation:
+\[Prophet\], do not move your tongue too fast in your attempt to learn this revelation:
 
 # 5568
 
@@ -22314,7 +22314,7 @@ dreading some great affliction.
 
 # 5577
 
-But when [man's soul] reaches the throat,
+But when \[man's soul\] reaches the throat,
 
 # 5578
 
@@ -22326,7 +22326,7 @@ and he knows that it is the time of parting;
 
 # 5580
 
-when his legs are brought together [when affliction is combined with affliction];
+when his legs are brought together \[when affliction is combined with affliction\];
 
 # 5581
 
@@ -22346,11 +22346,11 @@ Then he went off to his people, swaggering.
 
 # 5585
 
-Woe to you, [O man!], yes, woe to you.
+Woe to you, \[O man!\], yes, woe to you.
 
 # 5586
 
-Again, woe to you, [O man!], yes, woe to you!
+Again, woe to you, \[O man!\], yes, woe to you!
 
 # 5587
 
@@ -22386,7 +22386,7 @@ We showed him the way, whether he be grateful or ungrateful.
 
 # 5595
 
-[Now,] behold, for those who deny the truth, We have prepared chains, iron collars and a blazing fire, but
+\[Now,\] behold, for those who deny the truth, We have prepared chains, iron collars and a blazing fire, but
 
 # 5596
 
@@ -22418,7 +22418,7 @@ Therefore, God will ward off from them the woes of that Day, and make them find 
 
 # 5603
 
-and their reward for being patient will be a Garden and silk [clothing].
+and their reward for being patient will be a Garden and silk \[clothing\].
 
 # 5604
 
@@ -22478,7 +22478,7 @@ and during the night prostrate ourself before Him, and extol His glory for a lon
 
 # 5618
 
-Those people [who are unmindful of God] aspire for immediate gains, and put behind them a Heavy Day.
+Those people \[who are unmindful of God\] aspire for immediate gains, and put behind them a Heavy Day.
 
 # 5619
 
@@ -22490,7 +22490,7 @@ This is a reminder. Let whoever wishes, take the right path to his Lord.
 
 # 5621
 
-But you cannot will it unless God wills [to show you that way] -- God is indeed all-knowing and wise --
+But you cannot will it unless God wills \[to show you that way\] -- God is indeed all-knowing and wise --
 
 # 5622
 
@@ -22578,7 +22578,7 @@ Did We not create you from a humble fluid,
 
 # 5643
 
-then placed it in a secure repository [the womb],
+then placed it in a secure repository \[the womb\],
 
 # 5644
 
@@ -22666,7 +22666,7 @@ and shall have fruits such as they desire;
 
 # 5665
 
-[They will be told], "Eat and drink with relish in return for what you did [in life]:
+\[They will be told\], "Eat and drink with relish in return for what you did \[in life\]:
 
 # 5666
 
@@ -22674,11 +22674,11 @@ this is how We reward those who do good."
 
 # 5667
 
-[But] woe on that Day to those who reject the truth!
+\[But\] woe on that Day to those who reject the truth!
 
 # 5668
 
-Eat [your fill] and enjoy your life for a little while, O you who are lost in sin.
+Eat \[your fill\] and enjoy your life for a little while, O you who are lost in sin.
 
 # 5669
 
@@ -22702,7 +22702,7 @@ What are they asking each other about?
 
 # 5674
 
-About the awesome tidings [of resurrection]
+About the awesome tidings \[of resurrection\]
 
 # 5675
 
@@ -22814,7 +22814,7 @@ but We have recorded everything in a Book.
 
 # 5702
 
-[So We shall say], "Taste, then, [the fruit of your evil doings,] for now We shall bestow on you nothing but more and more suffering!"
+\[So We shall say\], "Taste, then, \[the fruit of your evil doings,\] for now We shall bestow on you nothing but more and more suffering!"
 
 # 5703
 
@@ -22842,7 +22842,7 @@ all this will be a recompense, a gift, that will suffice them, from your Lord,
 
 # 5709
 
-the Sustainer of the heavens and the earth and all that lies between them, the most Gracious [and] none shall have it in their power to raise their voices to Him.
+the Sustainer of the heavens and the earth and all that lies between them, the most Gracious \[and\] none shall have it in their power to raise their voices to Him.
 
 # 5710
 
@@ -22854,11 +22854,11 @@ That Day is sure to come, so whoever wishes to, let him take the path that leads
 
 # 5712
 
-We have warned you of a chastisement which is near at hand, on the Day when man shall [clearly] see what his hands have sent ahead, and when he who has denied the truth shall say, "Oh, would that I were dust!"
+We have warned you of a chastisement which is near at hand, on the Day when man shall \[clearly\] see what his hands have sent ahead, and when he who has denied the truth shall say, "Oh, would that I were dust!"
 
 # 5713
 
-By [the winds] that pluck out vehemently
+By \[the winds\] that pluck out vehemently
 
 # 5714
 
@@ -22866,7 +22866,7 @@ and those that blow gently,
 
 # 5715
 
-and by [the clouds] that swim serenely and
+and by \[the clouds\] that swim serenely and
 
 # 5716
 
@@ -22878,11 +22878,11 @@ and by those who regulate events.
 
 # 5718
 
-On the Day when a violent convulsion will convulse [the world],
+On the Day when a violent convulsion will convulse \[the world\],
 
 # 5719
 
-to be followed by further [convulsions],
+to be followed by further \[convulsions\],
 
 # 5720
 
@@ -22922,7 +22922,7 @@ His Lord called out to him by the sacred valley of Tuwa:
 
 # 5729
 
-[saying], "Go to Pharaoh, he has exceeded all bounds,
+\[saying\], "Go to Pharaoh, he has exceeded all bounds,
 
 # 5730
 
@@ -22938,7 +22938,7 @@ Moses showed him the great sign,
 
 # 5733
 
-but he denied it and refused [the faith].
+but he denied it and refused \[the faith\].
 
 # 5734
 
@@ -22962,7 +22962,7 @@ surely there is in this a lesson for the God-fearing.
 
 # 5739
 
-[O Men!] Are you more difficult to create than the heaven which He has built,
+\[O Men!\] Are you more difficult to create than the heaven which He has built,
 
 # 5740
 
@@ -22986,7 +22986,7 @@ and making the mountains firm:
 
 # 5745
 
-[all this] as a means of sustenance for you and your animals?
+\[all this\] as a means of sustenance for you and your animals?
 
 # 5746
 
@@ -23022,7 +23022,7 @@ shall dwell in Paradise.
 
 # 5754
 
-They will ask you [Prophet] about the Hour, saying, "When it will come to pass?",
+They will ask you \[Prophet\] about the Hour, saying, "When it will come to pass?",
 
 # 5755
 
@@ -23054,7 +23054,7 @@ for how can you know that he might seek to purify himself,
 
 # 5762
 
-or take heed and derive benefit from [Our] warning?
+or take heed and derive benefit from \[Our\] warning?
 
 # 5763
 
@@ -23082,7 +23082,7 @@ you pay him no heed.
 
 # 5769
 
-Indeed, this [Quran] is an admonition.
+Indeed, this \[Quran\] is an admonition.
 
 # 5770
 
@@ -23110,7 +23110,7 @@ Woe to man! How ungrateful he is!
 
 # 5776
 
-Of what [stuff] has He created him?
+Of what \[stuff\] has He created him?
 
 # 5777
 
@@ -23262,7 +23262,7 @@ when Paradise is brought close:
 
 # 5814
 
-[then] each soul shall know what it has put forward.
+\[then\] each soul shall know what it has put forward.
 
 # 5815
 
@@ -23298,7 +23298,7 @@ Your companion is not one possessed:
 
 # 5823
 
-he truly beheld him [the angel] on the clear horizon.
+he truly beheld him \[the angel\] on the clear horizon.
 
 # 5824
 
@@ -23322,7 +23322,7 @@ to every one of you who wishes to tread the straight path.
 
 # 5829
 
-But you cannot will it unless God, the Lord of the Universe, so wills it [to show you that way].
+But you cannot will it unless God, the Lord of the Universe, so wills it \[to show you that way\].
 
 # 5830
 
@@ -23398,7 +23398,7 @@ Again: what will make you realize what the Day of Judgement will be?
 
 # 5848
 
-It will be a Day when no human being shall be of the least avail to any other human being, God [alone] will hold command on that Day.
+It will be a Day when no human being shall be of the least avail to any other human being, God \[alone\] will hold command on that Day.
 
 # 5849
 
@@ -23470,7 +23470,7 @@ and they will be told, "This is what you were wont to belie."
 
 # 5866
 
-But, the record of the righteous is [preserved] in the 'Illiyyin --
+But, the record of the righteous is \[preserved\] in the 'Illiyyin --
 
 # 5867
 
@@ -23526,7 +23526,7 @@ and when they returned to their own people, they would speak of them jestingly;
 
 # 5880
 
-and when they saw them, they said [scornfully], "These men have surely gone astray,"
+and when they saw them, they said \[scornfully\], "These men have surely gone astray,"
 
 # 5881
 
@@ -23534,7 +23534,7 @@ though they were not sent to be their keepers --
 
 # 5882
 
-so today those who believe shall [be able to] laugh at those who denied the truth
+so today those who believe shall \[be able to\] laugh at those who denied the truth
 
 # 5883
 
@@ -23542,7 +23542,7 @@ as they sit on couches, gazing around.
 
 # 5884
 
-Have those who deny the truth [not] been paid back for their deeds?
+Have those who deny the truth \[not\] been paid back for their deeds?
 
 # 5885
 
@@ -23598,7 +23598,7 @@ He used to be happy with his own people;
 
 # 5898
 
-for he never thought that he would have to return [to God].
+for he never thought that he would have to return \[to God\].
 
 # 5899
 
@@ -23694,7 +23694,7 @@ The grip of your Lord is indeed severe,
 
 # 5922
 
-it is He who begins and repeats [His creation],
+it is He who begins and repeats \[His creation\],
 
 # 5923
 
@@ -23746,7 +23746,7 @@ It is the shining star --
 
 # 5935
 
-[for] no human being has been left unguarded.
+\[for\] no human being has been left unguarded.
 
 # 5936
 
@@ -23770,7 +23770,7 @@ On the Day when secrets are disclosed,
 
 # 5941
 
-[man] will have no power, and no helper.
+\[man\] will have no power, and no helper.
 
 # 5942
 
@@ -23810,7 +23810,7 @@ who created all things and gave them due proportions,
 
 # 5951
 
-who determines the nature [of all that exists], and guided it accordingly;
+who determines the nature \[of all that exists\], and guided it accordingly;
 
 # 5952
 
@@ -23822,7 +23822,7 @@ then turns it into black stubble.
 
 # 5954
 
-[O Prophet!] We shall make you recite the Quran so that you will not forget any of it --
+\[O Prophet!\] We shall make you recite the Quran so that you will not forget any of it --
 
 # 5955
 
@@ -23838,7 +23838,7 @@ Remind, if the reminder can be of benefit.
 
 # 5958
 
-He who fears [God] will heed the reminder,
+He who fears \[God\] will heed the reminder,
 
 # 5959
 
@@ -23958,7 +23958,7 @@ and on the earth, how it is spread out?
 
 # 5988
 
-So, [O Prophet] exhort them: your task is only to exhort,
+So, \[O Prophet\] exhort them: your task is only to exhort,
 
 # 5989
 
@@ -24014,7 +24014,7 @@ the like of which has never been created in the land,
 
 # 6002
 
-and with the Thamud, who cut out [huge] rocks in the valley,
+and with the Thamud, who cut out \[huge\] rocks in the valley,
 
 # 6003
 
@@ -24086,7 +24086,7 @@ and none can bind with bonds like His!
 
 # 6020
 
-[But to the righteous, God will say], "O soul at peace,
+\[But to the righteous, God will say\], "O soul at peace,
 
 # 6021
 
@@ -24174,7 +24174,7 @@ Those who do so are the people of the right hand,
 
 # 6042
 
-and [as for] those who are bent on denying the truth of Our revelations, they are the people of the left hand,
+and \[as for\] those who are bent on denying the truth of Our revelations, they are the people of the left hand,
 
 # 6043
 
@@ -24242,7 +24242,7 @@ He did not fear the consequences.
 
 # 6059
 
-By the night as it veils [the earth] in darkness,
+By the night as it veils \[the earth\] in darkness,
 
 # 6060
 
@@ -24258,7 +24258,7 @@ O men, you truly strive towards the most diverse ends!
 
 # 6063
 
-As for one who gives [to others] and fears [God],
+As for one who gives \[to others\] and fears \[God\],
 
 # 6064
 
@@ -24282,7 +24282,7 @@ We shall pave his way to hardship,
 
 # 6069
 
-nor will his wealth profit him when he falls [into the pit].
+nor will his wealth profit him when he falls \[into the pit\].
 
 # 6070
 
@@ -24302,7 +24302,7 @@ none shall enter it but the most wicked,
 
 # 6074
 
-who denied [the truth], and turned away.
+who denied \[the truth\], and turned away.
 
 # 6075
 
@@ -24398,7 +24398,7 @@ So, when you are free, strive hard,
 
 # 6098
 
-and to your Lord turn [all] your attention.
+and to your Lord turn \[all\] your attention.
 
 # 6099
 
@@ -24438,7 +24438,7 @@ Read! In the name of your Lord, who created:
 
 # 6108
 
-created man from a clot [of blood].
+created man from a clot \[of blood\].
 
 # 6109
 
@@ -24510,7 +24510,7 @@ No indeed! Do not obey him, but prostrate yourself and come closer to God.
 
 # 6126
 
-We sent it [Quran] down on the Night of Destiny.
+We sent it \[Quran\] down on the Night of Destiny.
 
 # 6127
 
@@ -24650,7 +24650,7 @@ Would that you knew what the Clatterer is!
 
 # 6161
 
-[It is] a Day when mankind shall be like scattered moths
+\[It is\] a Day when mankind shall be like scattered moths
 
 # 6162
 
@@ -24682,7 +24682,7 @@ It is a blazing fire.
 
 # 6169
 
-Greed for more and more distracted you [from God]
+Greed for more and more distracted you \[from God\]
 
 # 6170
 

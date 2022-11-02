@@ -13682,7 +13682,7 @@ Have they not travelled in the earth and seen how was the end of those before th
 
 # 3419
 
-Then evil was the end of those who did evil, because they | rejected the communications of Allah and used to mock them.
+Then evil was the end of those who did evil, because they \| rejected the communications of Allah and used to mock them.
 
 # 3420
 

@@ -12,7 +12,7 @@ CheckUpdates: https://quranenc.com/check/spanish_montada_latin/v1.0.0-xml.1
 
 (Empiezo)[^2] con el nombre de Al-lah[^3], el Clemente, el Misericordioso[^4].
 
-[^2]: A pesar de que, tradicionalmente, el encabezamiento de cada sura, conocido como el basmalah, ha sido traducido como “En el nombre de Al-lah [...]”, la mayoría de los comentaristas opinan que debe sobrentenderse: “Empiezo la recitación del Corán con el nombre de Al-lah, buscando ayuda en Él, [...]”. Por este motivo esta traducción ha optado por una expresión más cercana a su significado real, pero abreviada. No hay un consenso acerca de si el basmalah constituye la primera aleya (o verso coránico) de esta sura o simplemente la encabeza como en el resto de los capítulos del Sagrado Corán —con la excepción de la sura 9 (At-Taubah), donde no aparece—, aunque la opinión más extendida es la de considerarla como la primera aleya de la sura Al Fatihah.
+[^2]: A pesar de que, tradicionalmente, el encabezamiento de cada sura, conocido como el basmalah, ha sido traducido como “En el nombre de Al-lah \[...\]”, la mayoría de los comentaristas opinan que debe sobrentenderse: “Empiezo la recitación del Corán con el nombre de Al-lah, buscando ayuda en Él, \[...\]”. Por este motivo esta traducción ha optado por una expresión más cercana a su significado real, pero abreviada. No hay un consenso acerca de si el basmalah constituye la primera aleya (o verso coránico) de esta sura o simplemente la encabeza como en el resto de los capítulos del Sagrado Corán —con la excepción de la sura 9 (At-Taubah), donde no aparece—, aunque la opinión más extendida es la de considerarla como la primera aleya de la sura Al Fatihah.
 
 [^3]: Al-lah es el nombre propio de Dios en árabe. A diferencia de la palabra “Dios”, el término “Al-lah” no tiene plural, por lo que no da pie a ambigüedades, y proviene del artículo árabe al más la palabra ilah (divinidad, el que es adorado); así pues, significa: el (único) que merece ser adorado. Cabe destacar que el nombre que Dios recibe en arameo es Al-laha, muy cercano a Al-lah; mientras que entre las palabras hebreas que más se utilizan para designar a Dios y que aparecen en la Biblia, se encuentran: Eloh, Elah y su plural mayestático Elohim. Al-lah aparece a veces escrito como “Allah” o transliterado al español como “Alá”; en cualquier caso hace referencia al Único y Verdadero Dios, que es el mismo Dios de los cristianos y judíos.
 
@@ -578,7 +578,7 @@ Y a Al-lah pertenece el Oriente y el Occidente (pues a Él pertenece el dominio 
 
 [^42]: Esta aleya fue revelada en la ciudad de Medina para permitir cualquier dirección como alquibla a quienes realizasen rezos voluntarios, a quienes se hallasen de viaje y tuviesen dificultad para encontrar o seguir la alquibla o en caso de miedo por la proximidad del enemigo. Otra opinión es que esta aleya fue revelada tras el cambio de alquibla de Jerusalén a la Kaaba, en La Meca.
 
-[^43]: A pesar de que hay aleyas quehablan del rostro o de las manos de Al-lah, sería erróneo y contrario al credo islámico imaginarnos Su rostro, por ejemplo, como algo semejante al nuestro, pues Al-lah, exaltado sea, no puede comparase con nada existente que el hombre pueda conocer. Afirmamos Sus nombres y Sus características, tal y como Él ha revelado, pero no sabemos cómo son ni nos corresponde intentar imaginárnoslos (“[...] no hay nada ni nadie parecido a Él –ni en Su naturaleza ni en Sus características ni en Sus acciones–; y Él oye y ve todas las cosas”; sura 42,aleya11).
+[^43]: A pesar de que hay aleyas quehablan del rostro o de las manos de Al-lah, sería erróneo y contrario al credo islámico imaginarnos Su rostro, por ejemplo, como algo semejante al nuestro, pues Al-lah, exaltado sea, no puede comparase con nada existente que el hombre pueda conocer. Afirmamos Sus nombres y Sus características, tal y como Él ha revelado, pero no sabemos cómo son ni nos corresponde intentar imaginárnoslos (“\[...\] no hay nada ni nadie parecido a Él –ni en Su naturaleza ni en Sus características ni en Sus acciones–; y Él oye y ve todas las cosas”; sura 42,aleya11).
 
 # 123
 
@@ -604,7 +604,7 @@ Los judíos y los cristianos no estarán (totalmente) satisfechos contigo (¡oh,
 
 Aquellos (de entre los judíos y cristianos) a quienes concedimos las Escrituras[^44] y las recitan como es debido (legalizando lo que Al-lah ha hecho lícito y prohibiendo lo que Al-lah ha hecho ilícito, sin distorsionar su contenido), esos creen verdaderamente en ellas (y creen en lo que te ha sido relevado a ti, ¡oh, Muhammad!). Y quienes no creen (en lo que te ha sido revelado), esos serán los perdedores.
 
-[^44]: También puede entenderse: “Aquellos (los compañeros de Muhammad) a quienes dimos el Libro (el Corán) y lo recitan como es debido [...]”.
+[^44]: También puede entenderse: “Aquellos (los compañeros de Muhammad) a quienes dimos el Libro (el Corán) y lo recitan como es debido \[...\]”.
 
 # 129
 
@@ -11010,7 +11010,7 @@ Y así es como hemos revelado el Corán en lengua árabe y hemos expuesto en él
 
 [^590]: Cuando el ángel Gabriel le revelaba nuevas aleyas por orden de Al-lah, el Profeta Muhammad —que Al-lah lo bendiga y le dé la paz— se apresuraba a repetirlas para no olvidarlas. Al-lah lo tranquiliza en esta aleya y le dice que a Él Le incumbe grabarlas en su mente y proteger la revelación.
 
-[^591]: La búsqueda del conocimiento provechoso, en concreto sobre la religión, es de suma importancia en el Islam, de hecho, uno de los dichos del Profeta —que Al-lah lo bendiga y le dé la paz— transmitido por Muslim, dice: “ [...] A quien emprenda un camino buscando en él conocimiento, Al-lah le facilitará un camino hacia el Paraíso [...]”. Asimismo, el Profeta —que Al-lah lo bendiga y le dé la paz— solía suplicar a Al-lah diciendo: “¡Oh, Al-lah!, busco refugio en Ti de un conocimiento que no sea beneficioso, de un corazón que no tiemble, de un ego no satisfecho y de una plegaria no aceptada”.
+[^591]: La búsqueda del conocimiento provechoso, en concreto sobre la religión, es de suma importancia en el Islam, de hecho, uno de los dichos del Profeta —que Al-lah lo bendiga y le dé la paz— transmitido por Muslim, dice: “ \[...\] A quien emprenda un camino buscando en él conocimiento, Al-lah le facilitará un camino hacia el Paraíso \[...\]”. Asimismo, el Profeta —que Al-lah lo bendiga y le dé la paz— solía suplicar a Al-lah diciendo: “¡Oh, Al-lah!, busco refugio en Ti de un conocimiento que no sea beneficioso, de un corazón que no tiemble, de un ego no satisfecho y de una plegaria no aceptada”.
 
 # 2463
 

@@ -14,7 +14,7 @@ In nome di Allah, il Compassionevole, il Misericordioso
 
 # 2
 
-La lode [appartiene] ad Allah, Signore dei mondi
+La lode \[appartiene\] ad Allah, Signore dei mondi
 
 # 3
 
@@ -34,7 +34,7 @@ Guidaci sulla retta via,
 
 # 7
 
-la via di coloro che hai colmato di grazia, non di coloro che [sono incorsi] nella [Tua] ira, né degli sviati.
+la via di coloro che hai colmato di grazia, non di coloro che \[sono incorsi\] nella \[Tua\] ira, né degli sviati.
 
 # 8
 
@@ -58,7 +58,7 @@ Quelli seguono la guida del loro Signore; quelli sono coloro che prospereranno.
 
 # 13
 
-In verità [per] quelli che non credono, non fa differenza che tu li avverta oppure no: non crederanno.
+In verità \[per\] quelli che non credono, non fa differenza che tu li avverta oppure no: non crederanno.
 
 # 14
 
@@ -110,7 +110,7 @@ Sordi, muti, ciechi, non possono ritornare.
 
 # 26
 
-[O come] una nuvola di pioggia nel cielo, gonfia di tenebre, di tuoni e di fulmini: mettono le loro dita nelle orecchie temendo la morte a causa dei fulmini. E Allah accerchia i miscredenti.
+\[O come\] una nuvola di pioggia nel cielo, gonfia di tenebre, di tuoni e di fulmini: mettono le loro dita nelle orecchie temendo la morte a causa dei fulmini. E Allah accerchia i miscredenti.
 
 # 27
 
@@ -122,7 +122,7 @@ O uomini, adorate il vostro Signore Che ha creato voi e quelli che vi hanno prec
 
 # 29
 
-[Egli è] Colui Che della terra ha fatto un letto e del cielo un edificio, e che dal cielo fa scendere l'acqua con la quale produce i frutti che sono il vostro cibo. Non attribuite consimili ad Allah ora che sapete.
+\[Egli è\] Colui Che della terra ha fatto un letto e del cielo un edificio, e che dal cielo fa scendere l'acqua con la quale produce i frutti che sono il vostro cibo. Non attribuite consimili ad Allah ora che sapete.
 
 # 30
 
@@ -138,7 +138,7 @@ E annuncia a coloro che credono e compiono il bene, che avranno i Giardini in cu
 
 # 33
 
-In verità, Allah non esita a prendere ad esempio un moscerino o qualsiasi altra cosa superiore. Coloro che credono sanno che si tratta della verità che proviene dal loro Signore; i miscredenti invece dicono: “Cosa vuol dire Allah con un simile esempio?”. [Con esso] ne allontana molti, e molti ne guida. Ma non allontana che gli iniqui,
+In verità, Allah non esita a prendere ad esempio un moscerino o qualsiasi altra cosa superiore. Coloro che credono sanno che si tratta della verità che proviene dal loro Signore; i miscredenti invece dicono: “Cosa vuol dire Allah con un simile esempio?”. \[Con esso\] ne allontana molti, e molti ne guida. Ma non allontana che gli iniqui,
 
 # 34
 
@@ -166,7 +166,7 @@ Essi dissero: “Gloria a Te. Non conosciamo se non quello che Tu ci hai insegna
 
 # 40
 
-Disse: “O Adamo, informali sui nomi di tutte [le cose]”. Dopo che li ebbe informati sui nomi, Egli disse: “Non vi avevo forse detto che conosco il segreto dei cieli e della terra e che conosco ciò che manifestate e ciò che nascondete?”.
+Disse: “O Adamo, informali sui nomi di tutte \[le cose\]”. Dopo che li ebbe informati sui nomi, Egli disse: “Non vi avevo forse detto che conosco il segreto dei cieli e della terra e che conosco ciò che manifestate e ciò che nascondete?”.
 
 # 41
 
@@ -182,11 +182,11 @@ Poi Iblîs li fece inciampare e scacciare dal luogo in cui si trovavano. E Noi d
 
 # 44
 
-Adamo ricevette parole dal suo Signore e Allah accolse il suo [pentimento]. In verità Egli è Colui Che accetta il pentimento, il Misericordioso.
+Adamo ricevette parole dal suo Signore e Allah accolse il suo \[pentimento\]. In verità Egli è Colui Che accetta il pentimento, il Misericordioso.
 
 # 45
 
-Dicemmo: “Andatevene via tutti [quanti]! Se mai vi giungerà una guida da parte Mia, coloro che la seguiranno non avranno nulla da temere e non saranno afflitti”.
+Dicemmo: “Andatevene via tutti \[quanti\]! Se mai vi giungerà una guida da parte Mia, coloro che la seguiranno non avranno nulla da temere e non saranno afflitti”.
 
 # 46
 
@@ -230,7 +230,7 @@ E temete il Giorno in cui nessun'anima potrà alcunché per un'altra, in cui non
 
 # 56
 
-E [ricordate] quando vi abbiamo liberato dalla gente di Faraone che vi infliggeva le torture più atroci!... Sgozzavano i vostri figli e lasciavano in vita le vostre femmine. In ciò vi fu un'immensa prova da [parte del] vostro Signore.
+E \[ricordate\] quando vi abbiamo liberato dalla gente di Faraone che vi infliggeva le torture più atroci!... Sgozzavano i vostri figli e lasciavano in vita le vostre femmine. In ciò vi fu un'immensa prova da \[parte del\] vostro Signore.
 
 # 57
 
@@ -238,7 +238,7 @@ E quando abbiamo diviso il mare per voi, quindi vi abbiamo tratti in salvo e abb
 
 # 58
 
-E quando stabilimmo con Mosè [un patto in] quaranta notti... e voi vi prendeste il Vitello e agiste da iniqui.
+E quando stabilimmo con Mosè \[un patto in\] quaranta notti... e voi vi prendeste il Vitello e agiste da iniqui.
 
 # 59
 
@@ -250,7 +250,7 @@ E quando abbiamo dato a Mosè il Libro e il Discrimine: forse sarete ben guidati
 
 # 61
 
-E quando Mosè disse al suo popolo: “O popol mio, invero vi siete fatti un grande torto prendendovi il Vitello. Pentitevi al vostro Creatore e datevi la morte: questa è la cosa migliore, di fronte al vostro Creatore”. Poi Allah accolse il vostro [pentimento]. In verità Egli accoglie sempre [il pentimento], è il Misericordioso
+E quando Mosè disse al suo popolo: “O popol mio, invero vi siete fatti un grande torto prendendovi il Vitello. Pentitevi al vostro Creatore e datevi la morte: questa è la cosa migliore, di fronte al vostro Creatore”. Poi Allah accolse il vostro \[pentimento\]. In verità Egli accoglie sempre \[il pentimento\], è il Misericordioso
 
 # 62
 
@@ -366,11 +366,11 @@ E coloro che hanno creduto e operato nel bene, sono i compagni del Paradiso e vi
 
 # 90
 
-E quando stringemmo il patto con i Figli di Israele [dicemmo]: “Non adorerete altri che Allah, vi comporterete bene con i genitori, i parenti, gli orfani e i poveri; userete buone parole con la gente, assolverete all'orazione e pagherete la decima!”. Ma dopo di ciò avete voltato le spalle, a parte qualcuno tra voi, e vi siete sottratti.
+E quando stringemmo il patto con i Figli di Israele \[dicemmo\]: “Non adorerete altri che Allah, vi comporterete bene con i genitori, i parenti, gli orfani e i poveri; userete buone parole con la gente, assolverete all'orazione e pagherete la decima!”. Ma dopo di ciò avete voltato le spalle, a parte qualcuno tra voi, e vi siete sottratti.
 
 # 91
 
-E quando accettammo la vostra alleanza [vi imponemmo]: “Non spargete il sangue tra voi e non scacciatevi l'un l'altro dalle vostre case!”. Accettaste il patto e ne foste testimoni.
+E quando accettammo la vostra alleanza \[vi imponemmo\]: “Non spargete il sangue tra voi e non scacciatevi l'un l'altro dalle vostre case!”. Accettaste il patto e ne foste testimoni.
 
 # 92
 
@@ -406,7 +406,7 @@ E certamente Mosè vi ha recato prove evidenti. Poi, in sua assenza, vi prendest
 
 # 100
 
-E [ricordate] quando stringemmo il Patto con voi ed elevammo il Monte. “Tenetevi saldamente a quello che vi abbiamo dato ed ascoltate!”, dissero: “Ascoltiamo ma disobbediamo”. E i loro cuori, per la miscredenza, si abbeverarono al Vitello. Di' loro: “Quanto è spregevole quel che vi ordina la vostra credenza, se davvero credete!”.
+E \[ricordate\] quando stringemmo il Patto con voi ed elevammo il Monte. “Tenetevi saldamente a quello che vi abbiamo dato ed ascoltate!”, dissero: “Ascoltiamo ma disobbediamo”. E i loro cuori, per la miscredenza, si abbeverarono al Vitello. Di' loro: “Quanto è spregevole quel che vi ordina la vostra credenza, se davvero credete!”.
 
 # 101
 
@@ -426,7 +426,7 @@ Di': “Chi è nemico di Gabriele, che con il permesso di Allah lo ha fatto scen
 
 # 105
 
-chi è nemico di Allah e dei Suoi Angeli e dei Suoi messaggeri e di Gabriele e di Michele, ebbene [sappia che] Allah è il nemico dei miscredenti.
+chi è nemico di Allah e dei Suoi Angeli e dei Suoi messaggeri e di Gabriele e di Michele, ebbene \[sappia che\] Allah è il nemico dei miscredenti.
 
 # 106
 
@@ -530,7 +530,7 @@ E temete il Giorno in cui nessun'anima potrà alcunché per un'altra, e non sar�
 
 # 131
 
-E Abramo!... Quando il suo Signore lo provò con i Suoi ordini ed egli li eseguì, [il Signore] disse: “Farò di te un imâm per gli uomini”. “E i miei discendenti?”. “Il Mio patto, disse [Allah], non riguarda quelli che prevaricano”.
+E Abramo!... Quando il suo Signore lo provò con i Suoi ordini ed egli li eseguì, \[il Signore\] disse: “Farò di te un imâm per gli uomini”. “E i miei discendenti?”. “Il Mio patto, disse \[Allah\], non riguarda quelli che prevaricano”.
 
 # 132
 
@@ -538,7 +538,7 @@ E quando facemmo della Casa un luogo di riunione e un rifugio per gli uomini. Pr
 
 # 133
 
-E quando Abramo disse: “Fanne una contrada sicura e provvedi di frutti la sua gente, quelli di loro che avranno creduto in Allah e nell'Ultimo Giorno”, disse [il Signore]: “E a chi sarà stato miscredente concederò un godimento illusorio e poi, lo destinerò al castigo del Fuoco. Che tristo avvenire!”.
+E quando Abramo disse: “Fanne una contrada sicura e provvedi di frutti la sua gente, quelli di loro che avranno creduto in Allah e nell'Ultimo Giorno”, disse \[il Signore\]: “E a chi sarà stato miscredente concederò un godimento illusorio e poi, lo destinerò al castigo del Fuoco. Che tristo avvenire!”.
 
 # 134
 
@@ -574,7 +574,7 @@ Questa è gente del passato. Avrà quello che ha meritato e voi avrete quello ch
 
 # 142
 
-Dicono: “Siate giudei o nazareni, sarete sulla retta via”. Di': “[Seguiamo] piuttosto la religione di Abramo, che era puro credente e non associatore”.
+Dicono: “Siate giudei o nazareni, sarete sulla retta via”. Di': “\[Seguiamo\] piuttosto la religione di Abramo, che era puro credente e non associatore”.
 
 # 143
 
@@ -666,7 +666,7 @@ Quelli saranno benedetti dal loro Signore e saranno ben guidati.
 
 # 165
 
-Safâ e Marwa sono veramente segni di Allah e non ci sarà male alcuno se coloro che fanno il Pellegrinaggio alla Casa o la Visita, correranno tra questi due [colli]. Allah sarà riconoscente a chi si sarà imposto volontariamente un'opera meritoria. Allah è grato, sapiente.
+Safâ e Marwa sono veramente segni di Allah e non ci sarà male alcuno se coloro che fanno il Pellegrinaggio alla Casa o la Visita, correranno tra questi due \[colli\]. Allah sarà riconoscente a chi si sarà imposto volontariamente un'opera meritoria. Allah è grato, sapiente.
 
 # 166
 
@@ -694,7 +694,7 @@ Nella creazione dei cieli e della terra, nell'alternarsi del giorno e della nott
 
 # 172
 
-E fra gli uomini vi sono coloro che attribuiscono ad Allah degli uguali e li amano come amano Allah. Ma coloro che credono hanno per Allah un amore ben più grande. Se gli empi potessero vedere, [come] quando vedranno il castigo, che tutta la forza è di Allah, e che Allah è implacabile nel castigo!
+E fra gli uomini vi sono coloro che attribuiscono ad Allah degli uguali e li amano come amano Allah. Ma coloro che credono hanno per Allah un amore ben più grande. Se gli empi potessero vedere, \[come\] quando vedranno il castigo, che tutta la forza è di Allah, e che Allah è implacabile nel castigo!
 
 # 173
 
@@ -750,7 +750,7 @@ O voi che credete, in materia di omicidio vi è stato prescritto il contrappasso
 
 # 186
 
-Nel contrappasso c'è una possibilità di vita, per voi che avete intelletto. Forse diventerete timorati [di Allah].
+Nel contrappasso c'è una possibilità di vita, per voi che avete intelletto. Forse diventerete timorati \[di Allah\].
 
 # 187
 
@@ -770,11 +770,11 @@ O voi che credete, vi è prescritto il digiuno come era stato prescritto a color
 
 # 191
 
-[digiunerete] per un determinato numero di giorni. Chi però è malato o è in viaggio, digiuni in seguito altrettanti giorni. Ma per coloro che [a stento] potrebbero sopportarlo, c'è un'espiazione: il nutrimento di un povero. E se qualcuno dà di più, è un bene per lui. Ma è meglio per voi digiunare, se lo sapeste!
+\[digiunerete\] per un determinato numero di giorni. Chi però è malato o è in viaggio, digiuni in seguito altrettanti giorni. Ma per coloro che \[a stento\] potrebbero sopportarlo, c'è un'espiazione: il nutrimento di un povero. E se qualcuno dà di più, è un bene per lui. Ma è meglio per voi digiunare, se lo sapeste!
 
 # 192
 
-É nel mese di Ramadân che abbiamo fatto scendere il Corano, guida per gli uomini e prova di retta direzione e distinzione. Chi di voi ne testimoni [l'inizio] digiuni. E chiunque è malato o in viaggio assolva [in seguito] altrettanti giorni. Allah vi vuole facilitare e non procurarvi disagio, affinché completiate il numero dei giorni e proclamiate la grandezza di Allah Che vi ha guidato. Forse sarete riconoscenti!
+É nel mese di Ramadân che abbiamo fatto scendere il Corano, guida per gli uomini e prova di retta direzione e distinzione. Chi di voi ne testimoni \[l'inizio\] digiuni. E chiunque è malato o in viaggio assolva \[in seguito\] altrettanti giorni. Allah vi vuole facilitare e non procurarvi disagio, affinché completiate il numero dei giorni e proclamiate la grandezza di Allah Che vi ha guidato. Forse sarete riconoscenti!
 
 # 193
 
@@ -806,7 +806,7 @@ Se però cessano, allora Allah è perdonatore, misericordioso.
 
 # 200
 
-Combatteteli finché non ci sia più persecuzione e il culto sia [reso solo] ad Allah. Se desistono, non ci sia ostilità, a parte contro coloro che prevaricano.
+Combatteteli finché non ci sia più persecuzione e il culto sia \[reso solo\] ad Allah. Se desistono, non ci sia ostilità, a parte contro coloro che prevaricano.
 
 # 201
 
@@ -818,7 +818,7 @@ Siate generosi sul sentiero di Allah, non gettatevi da soli nella perdizione, e 
 
 # 203
 
-E assolvete, per Allah, al Pellegrinaggio e alla Visita. Se siete impediti a ciò, [inviate] un'offerta di quel che potete e non rasatevi le teste prima che l'offerta sia giunta al luogo del sacrificio. Se però siete malati o avete un morbo alla testa, vi riscatterete con il digiuno, con un'elemosina o con offerta sacrificale. Quando poi sarete al sicuro, colui che si è desacralizzato tra la Visita e il Pellegrinaggio, deve fare un sacrificio a seconda delle sue possibilità. E chi non ne ha i mezzi digiuni per tre giorni durante il Pellegrinaggio e altri sette una volta tornato a casa sua, quindi in tutto dieci giorni. Questo per chi non ha famiglia nei pressi della Santa Moschea. Temete Allah e sappiate che Allah è severo nel castigo.
+E assolvete, per Allah, al Pellegrinaggio e alla Visita. Se siete impediti a ciò, \[inviate\] un'offerta di quel che potete e non rasatevi le teste prima che l'offerta sia giunta al luogo del sacrificio. Se però siete malati o avete un morbo alla testa, vi riscatterete con il digiuno, con un'elemosina o con offerta sacrificale. Quando poi sarete al sicuro, colui che si è desacralizzato tra la Visita e il Pellegrinaggio, deve fare un sacrificio a seconda delle sue possibilità. E chi non ne ha i mezzi digiuni per tre giorni durante il Pellegrinaggio e altri sette una volta tornato a casa sua, quindi in tutto dieci giorni. Questo per chi non ha famiglia nei pressi della Santa Moschea. Temete Allah e sappiate che Allah è severo nel castigo.
 
 # 204
 
@@ -870,7 +870,7 @@ O voi che credete! Entrate tutti nella Pace. Non seguite le tracce di Satana. In
 
 # 216
 
-Ma se cadete ancora [in errore], dopo che avete ricevuto le prove, sappiate allora che Allah è eccelso, saggio.
+Ma se cadete ancora \[in errore\], dopo che avete ricevuto le prove, sappiate allora che Allah è eccelso, saggio.
 
 # 217
 
@@ -918,7 +918,7 @@ su questa vita e sull'altra. E ti interrogano a proposito degli orfani. Di': “
 
 # 228
 
-Non sposate le [donne] associatrici, finché non avranno creduto, ché certamente una schiava credente è meglio di una associatrice, anche se questa vi piace. E non date spose agli associatori, finché non avranno creduto, ché, certamente, uno schiavo credente è meglio di un associatore, anche se questi vi piace. Costoro vi invitano al Fuoco, mentre Allah, per Sua grazia, vi invita al Paradiso e al perdono. E manifesta ai popoli i segni Suoi, affinché essi li ricordino.
+Non sposate le \[donne\] associatrici, finché non avranno creduto, ché certamente una schiava credente è meglio di una associatrice, anche se questa vi piace. E non date spose agli associatori, finché non avranno creduto, ché, certamente, uno schiavo credente è meglio di un associatore, anche se questi vi piace. Costoro vi invitano al Fuoco, mentre Allah, per Sua grazia, vi invita al Paradiso e al perdono. E manifesta ai popoli i segni Suoi, affinché essi li ricordino.
 
 # 229
 
@@ -954,7 +954,7 @@ Si può divorziare due volte. Dopo di che, trattenetele convenientemente o riman
 
 # 237
 
-Se divorzia da lei [per la terza volta] non sarà più lecita per lui, finché non abbia sposato un altro. E se questi divorzia da lei, allora non ci sarà peccato per nessuno dei due se si riprendono, purché pensino di poter osservare i limiti di Allah. Ecco i limiti di Allah, che Egli manifesta alle genti che comprendono.
+Se divorzia da lei \[per la terza volta\] non sarà più lecita per lui, finché non abbia sposato un altro. E se questi divorzia da lei, allora non ci sarà peccato per nessuno dei due se si riprendono, purché pensino di poter osservare i limiti di Allah. Ecco i limiti di Allah, che Egli manifesta alle genti che comprendono.
 
 # 238
 
@@ -962,7 +962,7 @@ Quando divorziate dalle vostre spose, e sia trascorso il ritiro, riprendetele se
 
 # 239
 
-Quando divorziate dalle vostre spose, e sia trascorso il termine, non impedite loro di risposarsi con i loro [ex] mariti, se si accordano secondo le buone consuetudini. Questa è l'ammonizione per coloro di voi che credono in Allah e nell'Ultimo giorno. Ciò è più decente per voi, e più puro. Allah sa e voi non sapete.
+Quando divorziate dalle vostre spose, e sia trascorso il termine, non impedite loro di risposarsi con i loro \[ex\] mariti, se si accordano secondo le buone consuetudini. Questa è l'ammonizione per coloro di voi che credono in Allah e nell'Ultimo giorno. Ciò è più decente per voi, e più puro. Allah sa e voi non sapete.
 
 # 240
 
@@ -970,7 +970,7 @@ Per coloro che vogliono completare l'allattamento, le madri allatteranno per due
 
 # 241
 
-E coloro di voi che muoiono lasciando delle spose, queste devono osservare un ritiro di quattro mesi e dieci [giorni]. Passato questo termine non sarete responsabili del modo in cui dispongono di loro stesse, secondo la buona consuetudine. Allah è ben informato di quello che fate.
+E coloro di voi che muoiono lasciando delle spose, queste devono osservare un ritiro di quattro mesi e dieci \[giorni\]. Passato questo termine non sarete responsabili del modo in cui dispongono di loro stesse, secondo la buona consuetudine. Allah è ben informato di quello che fate.
 
 # 242
 
@@ -990,11 +990,11 @@ Siate assidui alle orazioni e all'orazione mediana e, devotamente, state ritti d
 
 # 246
 
-Ma se siete in pericolo, [pregate] in piedi o a cavallo. Poi, quando sarete al sicuro, ricordatevi di Allah, ché Egli vi ha insegnato quello che non sapevate.
+Ma se siete in pericolo, \[pregate\] in piedi o a cavallo. Poi, quando sarete al sicuro, ricordatevi di Allah, ché Egli vi ha insegnato quello che non sapevate.
 
 # 247
 
-Quelli di voi che moriranno lasciando delle mogli, [stabiliscano] un testamento a loro favore, assegnando loro un anno di mantenimento e di residenza. Se esse vorranno andarsene, non sarete rimproverati per quello che faranno di sé in conformità alle buone consuetudini. Allah è potente e saggio. [Secondo alcuni commentatori il versetto sarebbe stato abrogato dal precedente vers. 234, in quanto prevederebbe un anno di ritiro della vedova e non i quattro mesi e dieci giorni di cui sopra. Altri invece, affermano che viene stabilito il diritto della vedova di rimanere almeno un anno nel domicilio coniugale, una specie di usufrutto temporaneo dell'abitazione. Naturalmente dopo l'idda prevista dal vers. 234, potranno risposarsi e di conseguenza abbandoneranno anzitempo il domicilio vedovile]
+Quelli di voi che moriranno lasciando delle mogli, \[stabiliscano\] un testamento a loro favore, assegnando loro un anno di mantenimento e di residenza. Se esse vorranno andarsene, non sarete rimproverati per quello che faranno di sé in conformità alle buone consuetudini. Allah è potente e saggio. \[Secondo alcuni commentatori il versetto sarebbe stato abrogato dal precedente vers. 234, in quanto prevederebbe un anno di ritiro della vedova e non i quattro mesi e dieci giorni di cui sopra. Altri invece, affermano che viene stabilito il diritto della vedova di rimanere almeno un anno nel domicilio coniugale, una specie di usufrutto temporaneo dell'abitazione. Naturalmente dopo l'idda prevista dal vers. 234, potranno risposarsi e di conseguenza abbandoneranno anzitempo il domicilio vedovile\]
 
 # 248
 
@@ -1014,7 +1014,7 @@ Combattete sulla via di Allah e sappiate che Allah è audiente, sapiente.
 
 # 252
 
-Chi fa ad Allah un prestito bello, Egli glielo raddoppia molte volte. È Allah che stringe [la mano e la] apre. A Lui sarete ricondotti.
+Chi fa ad Allah un prestito bello, Egli glielo raddoppia molte volte. È Allah che stringe \[la mano e la\] apre. A Lui sarete ricondotti.
 
 # 253
 
@@ -1066,15 +1066,15 @@ Allah è il patrono di coloro che credono, li trae dalle tenebre verso la luce. 
 
 # 265
 
-Non hai visto colui che per il fatto che Allah lo aveva fatto re, discuteva con Abramo a proposito del suo Signore? Quando Abramo disse: “Il mio Signore è Colui Che dà la vita e la morte”, rispose [l'altro]: “Sono io che do la vita e la morte!”. E Abramo: “Allah fa sorgere il sole da Oriente, fallo nascere da Occidente”. Restò confuso il miscredente: Allah non guida i popoli che prevaricano.
+Non hai visto colui che per il fatto che Allah lo aveva fatto re, discuteva con Abramo a proposito del suo Signore? Quando Abramo disse: “Il mio Signore è Colui Che dà la vita e la morte”, rispose \[l'altro\]: “Sono io che do la vita e la morte!”. E Abramo: “Allah fa sorgere il sole da Oriente, fallo nascere da Occidente”. Restò confuso il miscredente: Allah non guida i popoli che prevaricano.
 
 # 266
 
-O colui che passando presso una città in completa rovina [disse]: “Come potrà Allah ridarle la vita dopo che è morta?”. Allah allora lo fece morire per cento anni, poi lo resuscitò e gli chiese: “Quanto [tempo] sei rimasto?”. Rispose: “Rimasi un giorno o una parte di esso”. “No, disse Allah, sei rimasto cento anni. Guarda il tuo cibo e la tua acqua, sono intatti; poi guarda il tuo asino, [Ti mostriamo tutto ciò] affinché tu divenga un segno per gli uomini. Guarda come riuniamo le ossa e come le rivestiamo di carne.” Davanti all'evidenza disse: “So che Allah è onnipotente”.
+O colui che passando presso una città in completa rovina \[disse\]: “Come potrà Allah ridarle la vita dopo che è morta?”. Allah allora lo fece morire per cento anni, poi lo resuscitò e gli chiese: “Quanto \[tempo\] sei rimasto?”. Rispose: “Rimasi un giorno o una parte di esso”. “No, disse Allah, sei rimasto cento anni. Guarda il tuo cibo e la tua acqua, sono intatti; poi guarda il tuo asino, \[Ti mostriamo tutto ciò\] affinché tu divenga un segno per gli uomini. Guarda come riuniamo le ossa e come le rivestiamo di carne.” Davanti all'evidenza disse: “So che Allah è onnipotente”.
 
 # 267
 
-E quando Abramo disse: “Signore, mostrami come resusciti i morti”, Allah disse: “Ancora non credi?”. “Sì, disse Abramo, ma [fa] che il mio cuore si acquieti.” Disse Allah: “Prendi quattro uccelli e falli a pezzi, poi mettine una parte su ogni monte e chiamali: verranno da te con volo veloce. Sappi che Allah è eccelso e saggio”.
+E quando Abramo disse: “Signore, mostrami come resusciti i morti”, Allah disse: “Ancora non credi?”. “Sì, disse Abramo, ma \[fa\] che il mio cuore si acquieti.” Disse Allah: “Prendi quattro uccelli e falli a pezzi, poi mettine una parte su ogni monte e chiamali: verranno da te con volo veloce. Sappi che Allah è eccelso e saggio”.
 
 # 268
 
@@ -1098,11 +1098,11 @@ Coloro che invece elargiscono i loro averi per la soddisfazione di Allah e per r
 
 # 273
 
-Chi di voi vorrebbe possedere un giardino di palme e vigne, dove scorrono i ruscelli e dove crescono per lui ogni specie di frutti e, colto dalla vecchiaia con i figli ancora piccoli, [vorrebbe vedere] un uragano di fuoco investirlo e bruciarlo? Così Allah vi dichiara i Suoi segni, affinché meditiate.
+Chi di voi vorrebbe possedere un giardino di palme e vigne, dove scorrono i ruscelli e dove crescono per lui ogni specie di frutti e, colto dalla vecchiaia con i figli ancora piccoli, \[vorrebbe vedere\] un uragano di fuoco investirlo e bruciarlo? Così Allah vi dichiara i Suoi segni, affinché meditiate.
 
 # 274
 
-O voi che credete, elargite le cose migliori che vi siete guadagnati e di ciò che Noi abbiamo fatto spuntare per voi dalla terra. Non scegliete appositamente il peggio, ciò che [voi] accettereste soltanto chiudendo gli occhi. Sappiate che Allah è Colui Che non ha bisogno di nulla, il Degno di lode.
+O voi che credete, elargite le cose migliori che vi siete guadagnati e di ciò che Noi abbiamo fatto spuntare per voi dalla terra. Non scegliete appositamente il peggio, ciò che \[voi\] accettereste soltanto chiudendo gli occhi. Sappiate che Allah è Colui Che non ha bisogno di nulla, il Degno di lode.
 
 # 275
 
@@ -1118,7 +1118,7 @@ Quali che siano i beni che darete in elemosina, o i voti che avete fatto, Allah 
 
 # 278
 
-Se lasciate vedere le vostre elargizioni, è un bene; ma è ancora meglio per voi, se segretamente date ai bisognosi; [ciò] espierà una parte dei vostri peccati. Allah è ben informato su quello che fate.
+Se lasciate vedere le vostre elargizioni, è un bene; ma è ancora meglio per voi, se segretamente date ai bisognosi; \[ciò\] espierà una parte dei vostri peccati. Allah è ben informato su quello che fate.
 
 # 279
 
@@ -1126,7 +1126,7 @@ Non sta a te guidarli, ma è Allah che guida chi vuole. E tutto quello che daret
 
 # 280
 
-[Date] ai poveri che sono assediati per la causa di Allah, che non possono andare per il mondo a loro piacere. L'ignorante li crede agiati perché si astengono dalla mendicità. Li riconoscerai per questo segno, che non chiedono alla gente importunandola. E tutto ciò che elargirete nel bene, Allah lo conosce.
+\[Date\] ai poveri che sono assediati per la causa di Allah, che non possono andare per il mondo a loro piacere. L'ignorante li crede agiati perché si astengono dalla mendicità. Li riconoscerai per questo segno, che non chiedono alla gente importunandola. E tutto ciò che elargirete nel bene, Allah lo conosce.
 
 # 281
 
@@ -1206,7 +1206,7 @@ Nulla di quel che è sulla terra o nei cieli è nascosto ad Allah.
 
 # 300
 
-È Lui che ha fatto scendere il Libro su di te. Esso contiene versetti espliciti, che sono la Madre del Libro, e altri che si prestano ad interpretazioni diverse. Coloro che hanno una malattia nel cuore, che cercano la discordia e la [scorretta] interpretazione, seguono quello che è allegorico, mentre solo Allah ne conosce il significato. Coloro che sono radicati nella scienza dicono: “Noi crediamo: tutto viene dal nostro Signore”. Ma i soli a ricordarsene sempre, sono i dotati di intelletto.
+È Lui che ha fatto scendere il Libro su di te. Esso contiene versetti espliciti, che sono la Madre del Libro, e altri che si prestano ad interpretazioni diverse. Coloro che hanno una malattia nel cuore, che cercano la discordia e la \[scorretta\] interpretazione, seguono quello che è allegorico, mentre solo Allah ne conosce il significato. Coloro che sono radicati nella scienza dicono: “Noi crediamo: tutto viene dal nostro Signore”. Ma i soli a ricordarsene sempre, sono i dotati di intelletto.
 
 # 301
 
@@ -1234,7 +1234,7 @@ Vi fu certamente un segno nelle due schiere che si fronteggiavano: una combattev
 
 # 307
 
-Abbiamo abbellito, agli [occhi degli] uomini, le cose che essi desiderano: le donne, i figli, i tesori accumulati d'oro e d'argento, i cavalli marchiati, il bestiame e i campi coltivati; tutto ciò è solo godimento temporaneo della vita terrena, mentre verso Allah è il miglior ritorno.
+Abbiamo abbellito, agli \[occhi degli\] uomini, le cose che essi desiderano: le donne, i figli, i tesori accumulati d'oro e d'argento, i cavalli marchiati, il bestiame e i campi coltivati; tutto ciò è solo godimento temporaneo della vita terrena, mentre verso Allah è il miglior ritorno.
 
 # 308
 
@@ -1254,7 +1254,7 @@ Allah testimonia, e con Lui gli Angeli e i sapienti, che non c'è dio all'infuor
 
 # 312
 
-Invero, la religione presso Allah è l'Islàm. Quelli che ricevettero la Scrittura caddero nella discordia, nemici gli uni degli altri, solo dopo aver avuto la scienza. Ma chi rifiuta i segni di Allah, [sappia che] Allah è rapido al conto.
+Invero, la religione presso Allah è l'Islàm. Quelli che ricevettero la Scrittura caddero nella discordia, nemici gli uni degli altri, solo dopo aver avuto la scienza. Ma chi rifiuta i segni di Allah, \[sappia che\] Allah è rapido al conto.
 
 # 313
 
@@ -1314,7 +1314,7 @@ In verità, Allah ha eletto Adamo e Noè e la famiglia di Abramo e la famiglia d
 
 # 327
 
-[in quanto] discendenti gli uni degli altri. Allah è audiente, sapiente.
+\[in quanto\] discendenti gli uni degli altri. Allah è audiente, sapiente.
 
 # 328
 
@@ -1342,7 +1342,7 @@ Disse: “O mio Signore, come mai potrò avere un figlio? Già ho raggiunto la v
 
 # 334
 
-“Signore, disse Zaccaria, dammi un segno.” “Il tuo segno, disse [il Signore], sarà che per tre giorni potrai parlare alla gente solo a segni. Ma ricorda molto il tuo Signore e glorificaLo, al mattino e alla sera.”
+“Signore, disse Zaccaria, dammi un segno.” “Il tuo segno, disse \[il Signore\], sarà che per tre giorni potrai parlare alla gente solo a segni. Ma ricorda molto il tuo Signore e glorificaLo, al mattino e alla sera.”
 
 # 335
 
@@ -1374,11 +1374,11 @@ E Allah gli insegnerà il Libro e la saggezza, la Torâh e il Vangelo.
 
 # 342
 
-E [ne farà un] messaggero per i figli di Israele [che dirà loro]: In verità, vi reco un segno da parte del vostro Signore. Plasmo per voi un simulacro di uccello nella creta e poi vi soffio sopra e, con il permesso di Allah, diventa un uccello. E per volontà di Allah, guarisco il cieco nato e il lebbroso, e resuscito il morto. E vi informo di quel che mangiate e di quel che accumulate nelle vostre case. Certamente in ciò vi è un segno se siete credenti!
+E \[ne farà un\] messaggero per i figli di Israele \[che dirà loro\]: In verità, vi reco un segno da parte del vostro Signore. Plasmo per voi un simulacro di uccello nella creta e poi vi soffio sopra e, con il permesso di Allah, diventa un uccello. E per volontà di Allah, guarisco il cieco nato e il lebbroso, e resuscito il morto. E vi informo di quel che mangiate e di quel che accumulate nelle vostre case. Certamente in ciò vi è un segno se siete credenti!
 
 # 343
 
-[Sono stato mandato] a confermarvi la Torâh che mi ha preceduto e a rendervi lecito qualcosa che vi era stata vietata. Sono venuto a voi con un segno da parte del vostro Signore. Temete dunque Allah e obbeditemi.
+\[Sono stato mandato\] a confermarvi la Torâh che mi ha preceduto e a rendervi lecito qualcosa che vi era stata vietata. Sono venuto a voi con un segno da parte del vostro Signore. Temete dunque Allah e obbeditemi.
 
 # 344
 
@@ -1418,7 +1418,7 @@ In verità, per Allah Gesù è simile ad Adamo, che Egli creò dalla polvere, po
 
 # 353
 
-[Questa è] la verità [che proviene] dal tuo Signore. Non essere tra i dubbiosi.
+\[Questa è\] la verità \[che proviene\] dal tuo Signore. Non essere tra i dubbiosi.
 
 # 354
 
@@ -1434,7 +1434,7 @@ Se dunque volgono le spalle, invero Allah ben conosce i seminatori di discordia.
 
 # 357
 
-Di': “O gente della Scrittura, addivenite ad una dichiarazione comune tra noi e voi: [e cioè] che non adoreremo altri che Allah, senza nulla associarGli, e che non prenderemo alcuni di noi come signori all'infuori di Allah”. Se poi volgono le spalle, allora dite: “Testimoniate che noi siamo musulmani”.
+Di': “O gente della Scrittura, addivenite ad una dichiarazione comune tra noi e voi: \[e cioè\] che non adoreremo altri che Allah, senza nulla associarGli, e che non prenderemo alcuni di noi come signori all'infuori di Allah”. Se poi volgono le spalle, allora dite: “Testimoniate che noi siamo musulmani”.
 
 # 358
 
@@ -1450,7 +1450,7 @@ Abramo non era né giudeo, né nazareno, ma puro credente e musulmano. E non era
 
 # 361
 
-I più vicini ad Abramo sono quelli che lo hanno seguìto [così come hanno seguìto] questo Profeta e quelli che hanno creduto. Allah è il patrono dei credenti.
+I più vicini ad Abramo sono quelli che lo hanno seguìto \[così come hanno seguìto\] questo Profeta e quelli che hanno creduto. Allah è il patrono dei credenti.
 
 # 362
 
@@ -1470,7 +1470,7 @@ Una parte della gente della Scrittura dice così: “All'inizio del giorno crede
 
 # 366
 
-Credete solo a quelli che seguono la vostra religione”. Di': “In verità la guida è quella di Allah: Egli può dare a chi vuole quello che ha dato a voi. [E coloro che da Lui ricevono] dovrebbero forse polemizzare con voi, davanti al vostro Signore?”. Di': “In verità, la Grazia è nelle mani di Allah, che la dà a chi vuole. Allah è immenso, sapiente.
+Credete solo a quelli che seguono la vostra religione”. Di': “In verità la guida è quella di Allah: Egli può dare a chi vuole quello che ha dato a voi. \[E coloro che da Lui ricevono\] dovrebbero forse polemizzare con voi, davanti al vostro Signore?”. Di': “In verità, la Grazia è nelle mani di Allah, che la dà a chi vuole. Allah è immenso, sapiente.
 
 # 367
 
@@ -1510,7 +1510,7 @@ Quanto poi a chi volgerà le spalle, questi saranno i perversi.”
 
 # 376
 
-Desiderano altro che la religione di Allah, quando, per amore o per forza, tutto ciò che è nei cieli e sulla terra si sottomette a Lui e verso di Lui [tutti gli esseri] saranno ricondotti?
+Desiderano altro che la religione di Allah, quando, per amore o per forza, tutto ciò che è nei cieli e sulla terra si sottomette a Lui e verso di Lui \[tutti gli esseri\] saranno ricondotti?
 
 # 377
 
@@ -1530,7 +1530,7 @@ Loro ricompensa sarà la maledizione di Allah, degli angeli e di tutti gli uomin
 
 # 381
 
-[Rimarranno in essa] in perpetuo. Il castigo non sarà loro alleviato e non avranno alcuna dilazione,
+\[Rimarranno in essa\] in perpetuo. Il castigo non sarà loro alleviato e non avranno alcuna dilazione,
 
 # 382
 
@@ -1602,7 +1602,7 @@ E non siate come coloro che si sono divisi, opposti gli uni agli altri, dopo che
 
 # 399
 
-Il Giorno in cui alcuni volti si illumineranno e altri si anneriranno, a quelli che avranno i volti anneriti [sarà detto]: “Avete rinnegato dopo aver creduto? Gustate il castigo della miscredenza”.
+Il Giorno in cui alcuni volti si illumineranno e altri si anneriranno, a quelli che avranno i volti anneriti \[sarà detto\]: “Avete rinnegato dopo aver creduto? Gustate il castigo della miscredenza”.
 
 # 400
 
@@ -1690,7 +1690,7 @@ per fare a pezzi una parte di quelli che furono miscredenti, per umiliarli e far
 
 # 421
 
-Tu non hai nessuna parte in ciò, sia che [Allah] accetti il loro pentimento sia che li castighi, ché certamente sono degli iniqui.
+Tu non hai nessuna parte in ciò, sia che \[Allah\] accetti il loro pentimento sia che li castighi, ché certamente sono degli iniqui.
 
 # 422
 
@@ -1726,7 +1726,7 @@ Essi avranno in compenso il perdono del loro Signore e i Giardini in cui scorron
 
 # 430
 
-Certamente prima di voi avvennero molte cose. Percorrete la terra e vedrete che fine hanno fatto coloro che tacciavano di menzogna [gli inviati].
+Certamente prima di voi avvennero molte cose. Percorrete la terra e vedrete che fine hanno fatto coloro che tacciavano di menzogna \[gli inviati\].
 
 # 431
 
@@ -1786,11 +1786,11 @@ Ben presto getteremo lo sgomento nei cuori dei miscredenti, perché hanno associ
 
 # 445
 
-Allah ha mantenuto la promessa che vi aveva fatto, quando per volontà Sua li avete annientati, [e ciò] fino al momento in cui vi siete persi d'animo e avete discusso gli ordini. Disobbediste, quando intravedeste quello che desideravate. Tra di voi ci sono alcuni che desiderano i beni di questo mondo e ce ne sono altri che bramano quelli dell'altro. Allah vi ha fatto fuggire davanti a loro per mettervi alla prova e poi certamente vi ha perdonati. Allah possiede la grazia più grande per i credenti.
+Allah ha mantenuto la promessa che vi aveva fatto, quando per volontà Sua li avete annientati, \[e ciò\] fino al momento in cui vi siete persi d'animo e avete discusso gli ordini. Disobbediste, quando intravedeste quello che desideravate. Tra di voi ci sono alcuni che desiderano i beni di questo mondo e ce ne sono altri che bramano quelli dell'altro. Allah vi ha fatto fuggire davanti a loro per mettervi alla prova e poi certamente vi ha perdonati. Allah possiede la grazia più grande per i credenti.
 
 # 446
 
-Quando risalivate senza badare a nessuno, mentre alle vostre spalle il Messaggero vi richiamava Allora [Allah] vi ha compensato di un'angoscia con un'altra angoscia, affinché non vi affliggeste per quello che vi era sfuggito e per quello che vi era capitato. Allah è ben informato di quello che fate.
+Quando risalivate senza badare a nessuno, mentre alle vostre spalle il Messaggero vi richiamava Allora \[Allah\] vi ha compensato di un'angoscia con un'altra angoscia, affinché non vi affliggeste per quello che vi era sfuggito e per quello che vi era capitato. Allah è ben informato di quello che fate.
 
 # 447
 
@@ -1802,7 +1802,7 @@ Quanto a quelli di voi che volsero le spalle il giorno in cui le due schiere si 
 
 # 449
 
-O voi che credete, non siate come i miscredenti che, mentre i loro fratelli viaggiavano sulla terra o guerreggiavano, dissero: “Se fossero rimasti con noi non sarebbero morti, non sarebbero stati uccisi”. Allah ne voleva fare un [motivo di] rimpianto nei loro cuori. È Allah che dà la vita e la morte. Allah osserva quello che fate.
+O voi che credete, non siate come i miscredenti che, mentre i loro fratelli viaggiavano sulla terra o guerreggiavano, dissero: “Se fossero rimasti con noi non sarebbero morti, non sarebbero stati uccisi”. Allah ne voleva fare un \[motivo di\] rimpianto nei loro cuori. È Allah che dà la vita e la morte. Allah osserva quello che fate.
 
 # 450
 
@@ -1830,11 +1830,11 @@ E chi persegue il compiacimento di Allah, sarà come colui che ha meritato la Su
 
 # 456
 
-Vi sono [gradi] distinti presso Allah; Allah vede perfettamente quello che fanno.
+Vi sono \[gradi\] distinti presso Allah; Allah vede perfettamente quello che fanno.
 
 # 457
 
-Allah ha colmato [di grazia] i credenti, quando ha suscitato tra loro un Messaggero che recita i Suoi versetti, li purifica e insegna loro il Libro e la saggezza, mentre in precedenza erano in preda all'errore evidente.
+Allah ha colmato \[di grazia\] i credenti, quando ha suscitato tra loro un Messaggero che recita i Suoi versetti, li purifica e insegna loro il Libro e la saggezza, mentre in precedenza erano in preda all'errore evidente.
 
 # 458
 
@@ -1846,7 +1846,7 @@ Quello che vi toccò, il giorno in cui le due schiere si incontrarono, avvenne c
 
 # 460
 
-e riconoscesse gli ipocriti. Quando fu detto loro: “Venite a combattere sul sentiero di Allah o [almeno] difendetevi!”, dissero: “Vi seguiremmo certamente se sapessimo combattere!”. In quel giorno erano più vicini alla miscredenza che alla fede. Le loro bocche non dicevano quello che celavano nel cuore. Ma Allah conosce bene quello che nascondevano.
+e riconoscesse gli ipocriti. Quando fu detto loro: “Venite a combattere sul sentiero di Allah o \[almeno\] difendetevi!”, dissero: “Vi seguiremmo certamente se sapessimo combattere!”. In quel giorno erano più vicini alla miscredenza che alla fede. Le loro bocche non dicevano quello che celavano nel cuore. Ma Allah conosce bene quello che nascondevano.
 
 # 461
 
@@ -1914,7 +1914,7 @@ Sono quegli stessi che hanno detto: “Veramente Allah ha stabilito che non cred
 
 # 477
 
-Se ti trattano da bugiardo, [sappi che] trattarono da bugiardi i Profeti che vennero prima di te, che avevano portato prove chiarissime, il Salterio e il Libro che illumina.
+Se ti trattano da bugiardo, \[sappi che\] trattarono da bugiardi i Profeti che vennero prima di te, che avevano portato prove chiarissime, il Salterio e il Libro che illumina.
 
 # 478
 
@@ -1926,7 +1926,7 @@ Sarete certamente messi alla prova nei vostri beni e nelle vostre persone, e sub
 
 # 480
 
-Quando Allah accettò il patto di quelli cui era stata data la Scrittura [disse loro]: “Lo esporrete alle genti, senza nascondere nulla”. Invece se lo gettarono dietro le spalle e lo vendettero per un vile prezzo. Che cattivo affare hanno fatto!
+Quando Allah accettò il patto di quelli cui era stata data la Scrittura \[disse loro\]: “Lo esporrete alle genti, senza nascondere nulla”. Invece se lo gettarono dietro le spalle e lo vendettero per un vile prezzo. Che cattivo affare hanno fatto!
 
 # 481
 
@@ -1942,7 +1942,7 @@ In verità, nella creazione dei cieli e della terra e nell'alternarsi della nott
 
 # 484
 
-che in piedi, seduti o coricati su un fianco ricordano Allah e meditano sulla creazione dei cieli e della terra, [dicendo]: “Signore, non hai creato tutto questo invano. Gloria a Te! Preservaci dal castigo del Fuoco.
+che in piedi, seduti o coricati su un fianco ricordano Allah e meditano sulla creazione dei cieli e della terra, \[dicendo\]: “Signore, non hai creato tutto questo invano. Gloria a Te! Preservaci dal castigo del Fuoco.
 
 # 485
 
@@ -1950,7 +1950,7 @@ O Signore, colui che fai entrare nel Fuoco lo copri di ignominia e gli empi non 
 
 # 486
 
-Signore, abbiamo inteso un nunzio che invitava alla fede [dicendo]: Credete nel vostro Signore!" e abbiamo creduto. Signore, perdona i nostri peccati, cancella le nostre colpe e facci morire con i probi.
+Signore, abbiamo inteso un nunzio che invitava alla fede \[dicendo\]: Credete nel vostro Signore!" e abbiamo creduto. Signore, perdona i nostri peccati, cancella le nostre colpe e facci morire con i probi.
 
 # 487
 
@@ -2022,11 +2022,11 @@ In verità, coloro che consumano ingiustamente i beni degli orfani non fanno che
 
 # 504
 
-Ecco quello che Allah vi ordina a proposito dei vostri figli: al maschio la parte di due femmine. Se ci sono solo femmine e sono più di due, a loro [spettano] i due terzi dell'eredità, e se è una figlia sola, [ha diritto al] la metà. Ai genitori [del defunto] tocca un sesto, se [egli] ha lasciato un figlio. Se non ci sono figli e i genitori [sono gli unici] eredi, alla madre tocca un terzo. Se ci sono fratelli, la madre avrà un sesto dopo [l'esecuzione de]i legati e [il pagamento de]i debiti. Voi non sapete, se sono i vostri ascendenti o i vostri discendenti, ad esservi di maggior beneficio. Questo è il decreto di Allah. In verità Allah è saggio, sapiente.
+Ecco quello che Allah vi ordina a proposito dei vostri figli: al maschio la parte di due femmine. Se ci sono solo femmine e sono più di due, a loro \[spettano\] i due terzi dell'eredità, e se è una figlia sola, \[ha diritto al\] la metà. Ai genitori \[del defunto\] tocca un sesto, se \[egli\] ha lasciato un figlio. Se non ci sono figli e i genitori \[sono gli unici\] eredi, alla madre tocca un terzo. Se ci sono fratelli, la madre avrà un sesto dopo \[l'esecuzione de\]i legati e \[il pagamento de\]i debiti. Voi non sapete, se sono i vostri ascendenti o i vostri discendenti, ad esservi di maggior beneficio. Questo è il decreto di Allah. In verità Allah è saggio, sapiente.
 
 # 505
 
-A voi spetta la metà di quello che lasciano le vostre spose, se esse non hanno figli. Se li hanno, vi spetta un quarto di quello che lasciano, dopo aver dato seguito al testamento e [pagato] i debiti. E a loro spetterà un quarto di quello che lasciate, se non avete figli. Se invece ne avete, avranno un ottavo di quello che lasciate, dopo aver dato seguito al testamento e pagato i debiti. Se un uomo o una donna non hanno eredi, né ascendenti né discendenti, ma hanno un fratello o una sorella, a ciascuno di loro toccherà un sesto, mentre se sono più di due divideranno un terzo, dopo aver dato seguito al testamento e [pagato] i debiti senza far torto [a nessuno]. Questo è il comando di Allah. Allah è sapiente, saggio.
+A voi spetta la metà di quello che lasciano le vostre spose, se esse non hanno figli. Se li hanno, vi spetta un quarto di quello che lasciano, dopo aver dato seguito al testamento e \[pagato\] i debiti. E a loro spetterà un quarto di quello che lasciate, se non avete figli. Se invece ne avete, avranno un ottavo di quello che lasciate, dopo aver dato seguito al testamento e pagato i debiti. Se un uomo o una donna non hanno eredi, né ascendenti né discendenti, ma hanno un fratello o una sorella, a ciascuno di loro toccherà un sesto, mentre se sono più di due divideranno un terzo, dopo aver dato seguito al testamento e \[pagato\] i debiti senza far torto \[a nessuno\]. Questo è il comando di Allah. Allah è sapiente, saggio.
 
 # 506
 
@@ -2074,7 +2074,7 @@ Vi sono vietate le vostre madri, figlie, zie paterne e zie materne, le figlie di
 
 # 517
 
-e tra tutte le donne, quelle maritate, a meno che non siano vostre schiave. Questo è ciò che Allah vi prescrive. A parte ciò, vi è permesso cercare [mogli] utilizzando i vostri beni in modo onesto e senza abbandonarvi al libertinaggio. Così come godrete di esse, verserete loro la dote che è dovuta. Non ci sarà alcun male nell'accordo che farete tra voi, oltre questa prescrizione. Invero Allah è sapiente e saggio.
+e tra tutte le donne, quelle maritate, a meno che non siano vostre schiave. Questo è ciò che Allah vi prescrive. A parte ciò, vi è permesso cercare \[mogli\] utilizzando i vostri beni in modo onesto e senza abbandonarvi al libertinaggio. Così come godrete di esse, verserete loro la dote che è dovuta. Non ci sarà alcun male nell'accordo che farete tra voi, oltre questa prescrizione. Invero Allah è sapiente e saggio.
 
 # 518
 
@@ -2090,7 +2090,7 @@ Allah vuole accogliere il vostro pentimento, mentre coloro che seguono le passio
 
 # 521
 
-Allah vuole alleviare [i vostri obblighi], perché l'uomo è stato creato debole.
+Allah vuole alleviare \[i vostri obblighi\], perché l'uomo è stato creato debole.
 
 # 522
 
@@ -2102,7 +2102,7 @@ Chi commette questi peccati iniquamente e senza ragione, sarà gettato nel Fuoco
 
 # 524
 
-Se eviterete i peccati più gravi che vi sono stati proibiti, cancelleremo le altre colpe e vi faremo entrare con onore [in Paradiso].
+Se eviterete i peccati più gravi che vi sono stati proibiti, cancelleremo le altre colpe e vi faremo entrare con onore \[in Paradiso\].
 
 # 525
 
@@ -2114,11 +2114,11 @@ A ciascuno abbiamo indicato degli eredi cui spetta parte di quello che lasciano:
 
 # 527
 
-Gli uomini sono preposti alle donne, a causa della preferenza che Allah concede agli uni rispetto alle altre e perché spendono [per esse] i loro beni. Le [donne] virtuose sono le devote, che proteggono nel segreto quello che Allah ha preservato. Ammonite quelle di cui temete l'insubordinazione, lasciatele sole nei loro letti, battetele. Se poi vi obbediscono, non fate più nulla contro di esse. Allah è altissimo, grande.
+Gli uomini sono preposti alle donne, a causa della preferenza che Allah concede agli uni rispetto alle altre e perché spendono \[per esse\] i loro beni. Le \[donne\] virtuose sono le devote, che proteggono nel segreto quello che Allah ha preservato. Ammonite quelle di cui temete l'insubordinazione, lasciatele sole nei loro letti, battetele. Se poi vi obbediscono, non fate più nulla contro di esse. Allah è altissimo, grande.
 
 # 528
 
-Se temete la separazione di una coppia, convocate un arbitro della famiglia di lui e uno della famiglia di lei. Se [i coniugi] vogliono riconciliarsi, Allah ristabilirà l'intesa tra loro. Allah è saggio e ben informato.
+Se temete la separazione di una coppia, convocate un arbitro della famiglia di lui e uno della famiglia di lei. Se \[i coniugi\] vogliono riconciliarsi, Allah ristabilirà l'intesa tra loro. Allah è saggio e ben informato.
 
 # 529
 
@@ -2126,7 +2126,7 @@ Adorate Allah e non associateGli alcunché. Siate buoni con i genitori, i parent
 
 # 530
 
-[e neppure] coloro che sono avari e invitano all'avarizia e celano quello che Allah ha dato loro, della Sua Grazia. Abbiamo preparato un castigo doloroso per i miscredenti,
+\[e neppure\] coloro che sono avari e invitano all'avarizia e celano quello che Allah ha dato loro, della Sua Grazia. Abbiamo preparato un castigo doloroso per i miscredenti,
 
 # 531
 
@@ -2154,7 +2154,7 @@ O voi che credete! Non accostatevi all'orazione se siete ebbri finché non siate
 
 # 537
 
-Non hai visto [quel che hanno fatto] coloro ai quali fu data una parte della Scrittura? Comprano la perdizione e cercano di farvi allontanare dalla Retta via.
+Non hai visto \[quel che hanno fatto\] coloro ai quali fu data una parte della Scrittura? Comprano la perdizione e cercano di farvi allontanare dalla Retta via.
 
 # 538
 
@@ -2198,7 +2198,7 @@ Forse sono gelosi degli uomini a causa di ciò che Allah ha concesso per grazia 
 
 # 548
 
-Qualcuno di loro ha creduto e qualcun altro si è allontanato. L'Inferno sarà [per loro] una fornace sufficiente!
+Qualcuno di loro ha creduto e qualcun altro si è allontanato. L'Inferno sarà \[per loro\] una fornace sufficiente!
 
 # 549
 
@@ -2246,7 +2246,7 @@ Se avessimo ordinato loro: “Uccidetevi”; oppure: “Abbandonate le vostre ca
 
 # 560
 
-[inoltre] daremo loro una ricompensa immensa
+\[inoltre\] daremo loro una ricompensa immensa
 
 # 561
 
@@ -2286,7 +2286,7 @@ Coloro che credono combattono per la causa di Allah, mentre i miscredenti combat
 
 # 570
 
-Non hai visto coloro ai quali fu detto: “Abbassate le mani, eseguite l'orazione e pagate la decima”? Quando fu loro ordinato di combattere, ecco che una parte di loro fu presa da un timore per gli uomini, come timore di Allah o ancora maggiore, e dissero: “O Signor nostro, perché ci hai ordinato la lotta? Se potessi rinviarci il termine!” Di': “È infimo il godimento di questo mondo, l'Altra vita è migliore per chi è timorato [di Allah]. Non subirete neanche un danno grande come una pellicola di dattero.
+Non hai visto coloro ai quali fu detto: “Abbassate le mani, eseguite l'orazione e pagate la decima”? Quando fu loro ordinato di combattere, ecco che una parte di loro fu presa da un timore per gli uomini, come timore di Allah o ancora maggiore, e dissero: “O Signor nostro, perché ci hai ordinato la lotta? Se potessi rinviarci il termine!” Di': “È infimo il godimento di questo mondo, l'Altra vita è migliore per chi è timorato \[di Allah\]. Non subirete neanche un danno grande come una pellicola di dattero.
 
 # 571
 
@@ -2346,7 +2346,7 @@ Altri ne troverete che vogliono essere in buoni rapporti con voi e con la loro g
 
 # 585
 
-Il credente non deve uccidere il credente, se non per errore. Chi, involontariamente, uccide un credente, affranchi uno schiavo credente e versi alla famiglia [della vittima] il prezzo del sangue, a meno che essa non vi rinunci caritatevolmente. Se il morto, seppur credente, apparteneva a gente vostra nemica, venga affrancato uno schiavo credente. Se apparteneva a gente con la quale avete stipulato un patto, venga versato il prezzo del sangue alla [sua] famiglia e si affranchi uno schiavo credente. E chi non ne ha i mezzi, digiuni due mesi consecutivi per dimostrare il pentimento davanti ad Allah. Allah è sapiente, saggio.
+Il credente non deve uccidere il credente, se non per errore. Chi, involontariamente, uccide un credente, affranchi uno schiavo credente e versi alla famiglia \[della vittima\] il prezzo del sangue, a meno che essa non vi rinunci caritatevolmente. Se il morto, seppur credente, apparteneva a gente vostra nemica, venga affrancato uno schiavo credente. Se apparteneva a gente con la quale avete stipulato un patto, venga versato il prezzo del sangue alla \[sua\] famiglia e si affranchi uno schiavo credente. E chi non ne ha i mezzi, digiuni due mesi consecutivi per dimostrare il pentimento davanti ad Allah. Allah è sapiente, saggio.
 
 # 586
 
@@ -2362,11 +2362,11 @@ Non sono eguali i credenti che rimangono nelle loro case (eccetto coloro che son
 
 # 589
 
-gradi [di eccellenza che provengono] da Lui, perdono e misericordia, poiché Allah è perdonatore, misericordioso.
+gradi \[di eccellenza che provengono\] da Lui, perdono e misericordia, poiché Allah è perdonatore, misericordioso.
 
 # 590
 
-Gli angeli, quando faranno morire coloro che furono ingiusti nei loro stessi confronti, diranno: “Qual era la vostra condizione?”. Risponderanno: “Siamo stati oppressi sulla terra”. [Allora gli angeli] diranno: “La terra di Allah non era abbastanza vasta da permettervi di emigrare?”. Ecco coloro che avranno l'Inferno per dimora. Qual tristo rifugio.
+Gli angeli, quando faranno morire coloro che furono ingiusti nei loro stessi confronti, diranno: “Qual era la vostra condizione?”. Risponderanno: “Siamo stati oppressi sulla terra”. \[Allora gli angeli\] diranno: “La terra di Allah non era abbastanza vasta da permettervi di emigrare?”. Ecco coloro che avranno l'Inferno per dimora. Qual tristo rifugio.
 
 # 591
 
@@ -2390,7 +2390,7 @@ Quando sei tra loro e annunci l'orazione, un gruppo stia ritto dietro di te e te
 
 # 596
 
-Poi, dopo l'orazione, ricordatevi di Allah, in piedi, seduti o coricati su un fianco. Quando, poi, siete al sicuro eseguite l'orazione [normalmente]. In verità, per il credente, l'orazione è un obbligo in tempi ben determinati.
+Poi, dopo l'orazione, ricordatevi di Allah, in piedi, seduti o coricati su un fianco. Quando, poi, siete al sicuro eseguite l'orazione \[normalmente\]. In verità, per il credente, l'orazione è un obbligo in tempi ben determinati.
 
 # 597
 
@@ -2410,7 +2410,7 @@ Non discutere in nome di coloro che tradiscono loro stessi. In verità Allah non
 
 # 601
 
-Cercano di nascondersi agli uomini, ma non si nascondono ad Allah. Egli è al loro fianco, quando di notte pronunciano parole che Lui non gradisce. Allah abbraccia [nella Sua scienza tutto] quello che fanno.
+Cercano di nascondersi agli uomini, ma non si nascondono ad Allah. Egli è al loro fianco, quando di notte pronunciano parole che Lui non gradisce. Allah abbraccia \[nella Sua scienza tutto\] quello che fanno.
 
 # 602
 
@@ -2474,15 +2474,15 @@ Questo non dipende dai vostri desideri e neppure da quelli della Gente della Scr
 
 # 617
 
-Quanto a coloro che, uomini o donne, operano il bene e sono credenti, ecco coloro che entreranno nel Giardino e non subiranno alcun torto, foss'anche [del peso] di una fibra di dattero.
+Quanto a coloro che, uomini o donne, operano il bene e sono credenti, ecco coloro che entreranno nel Giardino e non subiranno alcun torto, foss'anche \[del peso\] di una fibra di dattero.
 
 # 618
 
-Chi [potrebbe scegliere] religione migliore di colui che sottomette ad Allah il suo volto, opera il bene e segue sinceramente la religione di Abramo il sincero? Allah prese Abramo per amico.
+Chi \[potrebbe scegliere\] religione migliore di colui che sottomette ad Allah il suo volto, opera il bene e segue sinceramente la religione di Abramo il sincero? Allah prese Abramo per amico.
 
 # 619
 
-Appartiene ad Allah tutto quello che c'è nei cieli e tutto quello che c'è sulla terra. Allah abbraccia [nella Sua scienza] tutte le cose.
+Appartiene ad Allah tutto quello che c'è nei cieli e tutto quello che c'è sulla terra. Allah abbraccia \[nella Sua scienza\] tutte le cose.
 
 # 620
 
@@ -2490,11 +2490,11 @@ Ti interpelleranno a proposito delle donne. Di': “Allah vi risponde a riguardo
 
 # 621
 
-Se una donna teme la disaffezione del marito o la sua avversione, non ci sarà colpa alcuna se si accorderanno tra loro. L'accordo è la soluzione migliore. Gli animi tendono all'avidità; ma se agite bene e temete [Allah sappiate che], Allah è ben informato di quello che fate.
+Se una donna teme la disaffezione del marito o la sua avversione, non ci sarà colpa alcuna se si accorderanno tra loro. L'accordo è la soluzione migliore. Gli animi tendono all'avidità; ma se agite bene e temete \[Allah sappiate che\], Allah è ben informato di quello che fate.
 
 # 622
 
-Non potrete mai essere equi con le vostre mogli anche se lo desiderate. Non seguite però la vostra inclinazione fino a lasciarne una come in sospeso. Se poi vi riconcilierete e temerete [Allah], ebbene Allah è perdonatore, misericordioso.
+Non potrete mai essere equi con le vostre mogli anche se lo desiderate. Non seguite però la vostra inclinazione fino a lasciarne una come in sospeso. Se poi vi riconcilierete e temerete \[Allah\], ebbene Allah è perdonatore, misericordioso.
 
 # 623
 
@@ -2518,7 +2518,7 @@ Chi desidera compenso terreno, ebbene il compenso terreno e l'altro, sono presso
 
 # 628
 
-O voi che credete, attenetevi alla giustizia e rendete testimonianza innanzi ad Allah, foss'anche contro voi stessi, i vostri genitori o i vostri parenti, si tratti di ricchi o di poveri! Allah è più vicino [di voi] agli uni e agli altri. Non abbandonatevi alle passioni, sì che possiate essere giusti. Se vi destreggerete o vi disinteresserete, ebbene Allah è ben informato di quello che fate.
+O voi che credete, attenetevi alla giustizia e rendete testimonianza innanzi ad Allah, foss'anche contro voi stessi, i vostri genitori o i vostri parenti, si tratti di ricchi o di poveri! Allah è più vicino \[di voi\] agli uni e agli altri. Non abbandonatevi alle passioni, sì che possiate essere giusti. Se vi destreggerete o vi disinteresserete, ebbene Allah è ben informato di quello che fate.
 
 # 629
 
@@ -2542,7 +2542,7 @@ Certamente nel Libro è già stato rivelato: “Quando sentite che vengono sment
 
 # 634
 
-Sono coloro che stanno a spiarvi e, se Allah vi dà vittoria, dicono: “Non eravamo con voi?”; e se invece i miscredenti hanno successo, dicono loro: “Non avevamo la possibilità di dominarvi? Non vi abbiamo difeso contro i credenti?”. Ebbene, Allah giudicherà tra di voi nel Giorno della Resurrezione. Allah non concederà ai miscredenti [alcun] mezzo [di vittoria] sui credenti.
+Sono coloro che stanno a spiarvi e, se Allah vi dà vittoria, dicono: “Non eravamo con voi?”; e se invece i miscredenti hanno successo, dicono loro: “Non avevamo la possibilità di dominarvi? Non vi abbiamo difeso contro i credenti?”. Ebbene, Allah giudicherà tra di voi nel Giorno della Resurrezione. Allah non concederà ai miscredenti \[alcun\] mezzo \[di vittoria\] sui credenti.
 
 # 635
 
@@ -2590,7 +2590,7 @@ Quanto invece a coloro che credono in Allah e nei Suoi Messaggeri e non fanno di
 
 # 646
 
-La gente della Scrittura pretende che tu faccia scendere un Libro dal cielo. A Mosè chiesero qualcosa ancora più enorme, quando gli dissero: “Facci vedere Allah apertamente”. E la folgore li colpì per la loro iniquità. Poi si presero il Vitello, dopo che ebbero le Prove. [Ciononostante] li perdonammo e demmo a Mosè autorità incontestabile.
+La gente della Scrittura pretende che tu faccia scendere un Libro dal cielo. A Mosè chiesero qualcosa ancora più enorme, quando gli dissero: “Facci vedere Allah apertamente”. E la folgore li colpì per la loro iniquità. Poi si presero il Vitello, dopo che ebbero le Prove. \[Ciononostante\] li perdonammo e demmo a Mosè autorità incontestabile.
 
 # 647
 
@@ -2598,11 +2598,11 @@ In segno dell'alleanza, elevammo il Monte sopra di loro e dicemmo: “Entrate da
 
 # 648
 
-In seguito [li abbiamo maledetti perché] ruppero il patto, negarono i segni di Allah, uccisero ingiustamente i Profeti e dissero: “I nostri cuori sono incirconcisi”. È Allah invece che ha sigillato i loro cuori per la loro miscredenza e, a parte pochi, essi non credono,
+In seguito \[li abbiamo maledetti perché\] ruppero il patto, negarono i segni di Allah, uccisero ingiustamente i Profeti e dissero: “I nostri cuori sono incirconcisi”. È Allah invece che ha sigillato i loro cuori per la loro miscredenza e, a parte pochi, essi non credono,
 
 # 649
 
-[li abbiamo maledetti] per via della loro miscredenza e perché dissero contro Maria calunnia immensa,
+\[li abbiamo maledetti\] per via della loro miscredenza e perché dissero contro Maria calunnia immensa,
 
 # 650
 
@@ -2638,7 +2638,7 @@ Ci sono messaggeri di cui ti abbiamo narrato e altri di cui non abbiamo fatto me
 
 # 658
 
-[Inviammo] messaggeri, come nunzi e ammonitori, affinché dopo di loro, gli uomini non avessero più argomenti davanti ad Allah. Allah è eccelso e saggio.
+\[Inviammo\] messaggeri, come nunzi e ammonitori, affinché dopo di loro, gli uomini non avessero più argomenti davanti ad Allah. Allah è eccelso e saggio.
 
 # 659
 
@@ -2658,11 +2658,11 @@ eccetto la via dell'Inferno dove rimarranno in perpetuo. E ciò è facile ad All
 
 # 663
 
-O uomini! Il Messaggero vi ha recato una verità (proveniente) dal vostro Signore. Credete dunque, questa è la cosa migliore per voi. E se non crederete, [sappiate] che ad Allah appartiene tutto ciò che è nei cieli e sulla terra. Allah è sapiente, saggio.
+O uomini! Il Messaggero vi ha recato una verità (proveniente) dal vostro Signore. Credete dunque, questa è la cosa migliore per voi. E se non crederete, \[sappiate\] che ad Allah appartiene tutto ciò che è nei cieli e sulla terra. Allah è sapiente, saggio.
 
 # 664
 
-O Gente della Scrittura, non eccedete nella vostra religione e non dite su Allah altro che la verità. Il Messia Gesù, figlio di Maria non è altro che un messaggero di Allah, una Sua parola che Egli pose in Maria, uno spirito da Lui [proveniente]. Credete dunque in Allah e nei Suoi Messaggeri. Non dite “Tre”, smettete! Sarà meglio per voi. Invero Allah è un dio unico. Avrebbe un figlio? Gloria a Lui! A Lui appartiene tutto quello che è nei cieli e tutto quello che è sulla terra. Allah è sufficiente come garante.
+O Gente della Scrittura, non eccedete nella vostra religione e non dite su Allah altro che la verità. Il Messia Gesù, figlio di Maria non è altro che un messaggero di Allah, una Sua parola che Egli pose in Maria, uno spirito da Lui \[proveniente\]. Credete dunque in Allah e nei Suoi Messaggeri. Non dite “Tre”, smettete! Sarà meglio per voi. Invero Allah è un dio unico. Avrebbe un figlio? Gloria a Lui! A Lui appartiene tutto quello che è nei cieli e tutto quello che è sulla terra. Allah è sufficiente come garante.
 
 # 665
 
@@ -2670,7 +2670,7 @@ Il Messia e gli Angeli più ravvicinati non disdegneranno mai di essere gli schi
 
 # 666
 
-Coloro che invece hanno creduto e compiuto il bene avranno per intero la loro ricompensa e aggiungerà [Allah] dalla Sua generosità. Coloro che disdegnano e sono gonfi d'orgoglio, saranno castigati con doloroso tormento. Non troveranno, oltre ad Allah, né patrono, né alleato.
+Coloro che invece hanno creduto e compiuto il bene avranno per intero la loro ricompensa e aggiungerà \[Allah\] dalla Sua generosità. Coloro che disdegnano e sono gonfi d'orgoglio, saranno castigati con doloroso tormento. Non troveranno, oltre ad Allah, né patrono, né alleato.
 
 # 667
 
@@ -2682,7 +2682,7 @@ Coloro che credono in Allah e a Lui si aggrappano, li farà entrare nella Sua mi
 
 # 669
 
-Ti chiederanno un parere. Di': “A proposito del defunto che non lascia eredi, [né ascendenti, né discendenti] Allah vi dice: Se qualcuno muore senza lasciare figli ma ha una sorella, ad essa toccherà la metà dell'eredità, mentre egli erediterebbe da lei tutto quanto se ella non avesse figli; se ci sono due sorelle, avranno i due terzi di quello che lascia; se ci sono due fratelli - maschi o femmine - al maschio la parte di due femmine”. Allah vi illumina affinché non erriate. Allah è l'Onnisciente.
+Ti chiederanno un parere. Di': “A proposito del defunto che non lascia eredi, \[né ascendenti, né discendenti\] Allah vi dice: Se qualcuno muore senza lasciare figli ma ha una sorella, ad essa toccherà la metà dell'eredità, mentre egli erediterebbe da lei tutto quanto se ella non avesse figli; se ci sono due sorelle, avranno i due terzi di quello che lascia; se ci sono due fratelli - maschi o femmine - al maschio la parte di due femmine”. Allah vi illumina affinché non erriate. Allah è l'Onnisciente.
 
 # 670
 
@@ -2694,7 +2694,7 @@ O voi che credete, non profanate i simboli di Allah, né il mese sacro, né l'of
 
 # 672
 
-Vi sono vietati gli animali morti, il sangue, la carne di porco e ciò su cui sia stato invocato altro nome che quello di Allah, l'animale soffocato, quello ucciso a bastonate, quello morto per una caduta, incornato o quello che sia stato sbranato da una belva feroce, a meno che non l'abbiate sgozzato [prima della morte] e quello che sia stato immolato su altari [idolatrici] e anche [vi è stato vietato] tirare a sorte con le freccette. Tutto ciò è iniquo. Oggi i miscredenti non sperano più di allontanarvi dalla vostra religione: non temeteli dunque, ma temete Me. Oggi ho reso perfetta la vostra religione, ho completato per voi la Mia grazia e Mi è piaciuto darvi per religione l'Islàm. Se qualcuno si trovasse nel bisogno della fame, senza l'intenzione di peccare, ebbene Allah è perdonatore, misericordioso.
+Vi sono vietati gli animali morti, il sangue, la carne di porco e ciò su cui sia stato invocato altro nome che quello di Allah, l'animale soffocato, quello ucciso a bastonate, quello morto per una caduta, incornato o quello che sia stato sbranato da una belva feroce, a meno che non l'abbiate sgozzato \[prima della morte\] e quello che sia stato immolato su altari \[idolatrici\] e anche \[vi è stato vietato\] tirare a sorte con le freccette. Tutto ciò è iniquo. Oggi i miscredenti non sperano più di allontanarvi dalla vostra religione: non temeteli dunque, ma temete Me. Oggi ho reso perfetta la vostra religione, ho completato per voi la Mia grazia e Mi è piaciuto darvi per religione l'Islàm. Se qualcuno si trovasse nel bisogno della fame, senza l'intenzione di peccare, ebbene Allah è perdonatore, misericordioso.
 
 # 673
 
@@ -2702,11 +2702,11 @@ Ti chiederanno quello che è loro permesso. Di': “Vi sono permesse tutte le co
 
 # 674
 
-“Oggi vi sono permesse le cose buone e vi è lecito anche il cibo di coloro ai quali è stata data la Scrittura, e il vostro cibo è lecito a loro. [Vi sono inoltre lecite] le donne credenti e caste, le donne caste di quelli cui fu data la Scrittura prima di voi, versando il dono nuziale - sposandole, non come debosciati libertini! Coloro che sono miscredenti vanificano le opere loro e nell'altra vita saranno tra i perdenti.”
+“Oggi vi sono permesse le cose buone e vi è lecito anche il cibo di coloro ai quali è stata data la Scrittura, e il vostro cibo è lecito a loro. \[Vi sono inoltre lecite\] le donne credenti e caste, le donne caste di quelli cui fu data la Scrittura prima di voi, versando il dono nuziale - sposandole, non come debosciati libertini! Coloro che sono miscredenti vanificano le opere loro e nell'altra vita saranno tra i perdenti.”
 
 # 675
 
-O voi che credete! Quando vi levate per la preghiera, lavatevi il volto, le mani [e gli avambracci] fino ai gomiti, passate le mani bagnate sulla testa e lavate i piedi fino alle caviglie. Se siete in stato di impurità, purificatevi. Se siete malati o in viaggio o uscendo da una latrina o dopo aver accostato le donne non trovate acqua, fate la lustrazione con terra pulita, passandola sul volto e sugli avambracci.
+O voi che credete! Quando vi levate per la preghiera, lavatevi il volto, le mani \[e gli avambracci\] fino ai gomiti, passate le mani bagnate sulla testa e lavate i piedi fino alle caviglie. Se siete in stato di impurità, purificatevi. Se siete malati o in viaggio o uscendo da una latrina o dopo aver accostato le donne non trovate acqua, fate la lustrazione con terra pulita, passandola sul volto e sugli avambracci.
 
 # 676
 
@@ -2758,7 +2758,7 @@ Giudei e nazareni dicono: “Siamo figli di Allah ed i suoi prediletti”. Di': 
 
 # 688
 
-O gente della Scrittura, il Nostro Messaggero vi è giunto dopo un'interruzione [nella successione] dei Profeti, affinché non diciate: “Non ci è giunto nunzio né ammonitore”. Ecco che vi è giunto un nunzio e un ammonitore! Allah è onnipotente.
+O gente della Scrittura, il Nostro Messaggero vi è giunto dopo un'interruzione \[nella successione\] dei Profeti, affinché non diciate: “Non ci è giunto nunzio né ammonitore”. Ecco che vi è giunto un nunzio e un ammonitore! Allah è onnipotente.
 
 # 689
 
@@ -2786,11 +2786,11 @@ Disse: “Signore, ho potere solo su me stesso e su mio fratello: separaci da qu
 
 # 695
 
-Disse [Allah]: “Ebbene, questo paese sarà loro vietato per quarant'anni ed essi erreranno sulla terra. Non ti affliggere per un popolo di iniqui”.
+Disse \[Allah\]: “Ebbene, questo paese sarà loro vietato per quarant'anni ed essi erreranno sulla terra. Non ti affliggere per un popolo di iniqui”.
 
 # 696
 
-Racconta loro, in tutta verità, la storia dei due figli di Adamo, quando offrirono [ad Allah] un sacrificio, ed ecco che l'offerta di uno fu accettata e quella dell'altro no. Questi disse: “Ti ucciderò certamente!”. Rispose il fratello: “Allah accetta solo da parte di coloro che Lo temono.
+Racconta loro, in tutta verità, la storia dei due figli di Adamo, quando offrirono \[ad Allah\] un sacrificio, ed ecco che l'offerta di uno fu accettata e quella dell'altro no. Questi disse: “Ti ucciderò certamente!”. Rispose il fratello: “Allah accetta solo da parte di coloro che Lo temono.
 
 # 697
 
@@ -2846,7 +2846,7 @@ Non sai che ad Allah appartiene il Regno dei cieli e della terra? Egli castiga c
 
 # 710
 
-O Messaggero, non ti affliggere per quelli che ricadono nella miscredenza, dopo che le loro bocche hanno detto: “Noi crediamo”, mentre i loro cuori non credevano affatto, e neppure a causa dei giudei, che ascoltano solo per calunniare, che ascoltano per altri che non sono mai venuti da te; stravolgono il senso delle parole e dicono: “Se vi è dato questo, accettatelo; altrimenti siate diffidenti!”. Se Allah vuole che un uomo cada nella tentazione, tu non puoi fare niente contro Allah [per proteggerlo].
+O Messaggero, non ti affliggere per quelli che ricadono nella miscredenza, dopo che le loro bocche hanno detto: “Noi crediamo”, mentre i loro cuori non credevano affatto, e neppure a causa dei giudei, che ascoltano solo per calunniare, che ascoltano per altri che non sono mai venuti da te; stravolgono il senso delle parole e dicono: “Se vi è dato questo, accettatelo; altrimenti siate diffidenti!”. Se Allah vuole che un uomo cada nella tentazione, tu non puoi fare niente contro Allah \[per proteggerlo\].
 
 # 711
 
@@ -2858,7 +2858,7 @@ Come mai potranno sceglierti come giudice, quando hanno la Torâh con il giudizi
 
 # 713
 
-Facemmo scendere la Torâh, fonte di guida e di luce. Con essa giudicavano tra i giudei, i profeti sottomessi ad Allah, e i rabbini e i dottori: [giudicavano] in base a quella parte dei precetti di Allah che era stata loro affidata e della quale erano testimoni. Non temete gli uomini, ma temete Me. E non svendete a vil prezzo i segni Miei. Coloro che non giudicano secondo quello che Allah ha fatto scendere, questi sono i miscredenti.
+Facemmo scendere la Torâh, fonte di guida e di luce. Con essa giudicavano tra i giudei, i profeti sottomessi ad Allah, e i rabbini e i dottori: \[giudicavano\] in base a quella parte dei precetti di Allah che era stata loro affidata e della quale erano testimoni. Non temete gli uomini, ma temete Me. E non svendete a vil prezzo i segni Miei. Coloro che non giudicano secondo quello che Allah ha fatto scendere, questi sono i miscredenti.
 
 # 714
 
@@ -2894,7 +2894,7 @@ Vedrai quelli che hanno una malattia nel cuore, correre verso di loro, dicendo: 
 
 # 722
 
-E i credenti diranno: “Questi sono coloro che giuravano [in nome] di Allah, con giuramento solenne, che erano con voi?”. Le loro opere si sono vanificate e saranno coloro che si perdono.
+E i credenti diranno: “Questi sono coloro che giuravano \[in nome\] di Allah, con giuramento solenne, che erano con voi?”. Le loro opere si sono vanificate e saranno coloro che si perdono.
 
 # 723
 
@@ -2910,7 +2910,7 @@ E colui che sceglie per alleati Allah e il Suo Messaggero e i credenti, in verit
 
 # 726
 
-O voi che credete, non sceglietevi alleati tra quelli ai quali fu data la Scrittura prima di voi, quelli che volgono in gioco e derisione la vostra religione e [neppure] tra i miscredenti. Temete Allah se siete credenti.
+O voi che credete, non sceglietevi alleati tra quelli ai quali fu data la Scrittura prima di voi, quelli che volgono in gioco e derisione la vostra religione e \[neppure\] tra i miscredenti. Temete Allah se siete credenti.
 
 # 727
 
@@ -3054,11 +3054,11 @@ Obbedite ad Allah e al Messaggero e state attenti. Se poi gli volgerete le spall
 
 # 762
 
-Per coloro che credono e operano il bene non ci sarà male alcuno in quello che avranno mangiato, purché abbiano temuto [Allah], abbiano creduto e compiuto il bene, temano [Allah], credano, e [sempre] temano [Allah] e operino al meglio. Allah ama i buoni.
+Per coloro che credono e operano il bene non ci sarà male alcuno in quello che avranno mangiato, purché abbiano temuto \[Allah\], abbiano creduto e compiuto il bene, temano \[Allah\], credano, e \[sempre\] temano \[Allah\] e operino al meglio. Allah ama i buoni.
 
 # 763
 
-O voi che credete! Allah certamente vi metterà alla prova con qualche [capo di selvaggina] che caccerete con le mani e con le lance. Così Allah riconoscerà chi Lo teme nel profondo di sé. Chi poi trasgredirà, avrà doloroso castigo!
+O voi che credete! Allah certamente vi metterà alla prova con qualche \[capo di selvaggina\] che caccerete con le mani e con le lance. Così Allah riconoscerà chi Lo teme nel profondo di sé. Chi poi trasgredirà, avrà doloroso castigo!
 
 # 764
 
@@ -3070,7 +3070,7 @@ Vi è lecita la pesca e il cibo che ne ricaverete: godetene con gli altri viaggi
 
 # 766
 
-Allah ha fatto della Ka’ba, della Santa Casa, un luogo di preghiera per gli uomini. [Lo stesso vale] per il mese sacro, l'offerta di animali e gli ornamenti delle vittime sacrificali. Ciò affinché sappiate che Allah conosce veramente tutto quello che vi è nei cieli e sulla terra. In verità Allah conosce ogni cosa.
+Allah ha fatto della Ka’ba, della Santa Casa, un luogo di preghiera per gli uomini. \[Lo stesso vale\] per il mese sacro, l'offerta di animali e gli ornamenti delle vittime sacrificali. Ciò affinché sappiate che Allah conosce veramente tutto quello che vi è nei cieli e sulla terra. In verità Allah conosce ogni cosa.
 
 # 767
 
@@ -3078,7 +3078,7 @@ Sappiate che, in verità, Allah è severo nel castigare e che è perdonatore, mi
 
 # 768
 
-Al Messaggero [incombe] solo l'onere della trasmissione. Allah conosce quello che manifestate e quello che tenete nascosto.
+Al Messaggero \[incombe\] solo l'onere della trasmissione. Allah conosce quello che manifestate e quello che tenete nascosto.
 
 # 769
 
@@ -3086,7 +3086,7 @@ Di': “Il cattivo e il buono non si equivalgono, anche se ti stupisce l'abbonda
 
 # 770
 
-O voi che credete, non fate domande su cose che, se vi fossero spiegate, vi dispiacerebbero. Se farete domande in proposito, vi saranno spiegate dopo che il Corano sarà disceso [per intero]. Allah vi perdonerà, poiché Allah è perdonatore, paziente.
+O voi che credete, non fate domande su cose che, se vi fossero spiegate, vi dispiacerebbero. Se farete domande in proposito, vi saranno spiegate dopo che il Corano sarà disceso \[per intero\]. Allah vi perdonerà, poiché Allah è perdonatore, paziente.
 
 # 771
 
@@ -3106,11 +3106,11 @@ O voi che credete, preoccupatevi di voi stessi! Se siete ben diretti, non potrà
 
 # 775
 
-O voi che credete, se state per morire e fate testamento, prendete come testimoni due uomini integri dei vostri; oppure, se siete in viaggio e vi giunga preavviso della morte, [due uomini] a voi estranei. Li tratterrete dopo l'orazione e, se avete dubbi, fateli giurare in nome di Allah: “Non rinnegheremo per nessuna somma, neanche a favore di un parente, e non nasconderemo la testimonianza di Allah, ché in tal caso saremmo peccatori”.
+O voi che credete, se state per morire e fate testamento, prendete come testimoni due uomini integri dei vostri; oppure, se siete in viaggio e vi giunga preavviso della morte, \[due uomini\] a voi estranei. Li tratterrete dopo l'orazione e, se avete dubbi, fateli giurare in nome di Allah: “Non rinnegheremo per nessuna somma, neanche a favore di un parente, e non nasconderemo la testimonianza di Allah, ché in tal caso saremmo peccatori”.
 
 # 776
 
-Se in seguito si scoprisse che hanno commesso un'infamità, siano sostituiti con altri due, scelti tra [i parenti prossimi] di quanti accampano diritti; entrambi giureranno in nome di Allah: “La nostra testimonianza è più sicura di quella di quei due. Noi non trasgrediremo. In tal caso saremmo tra gli ingiusti!”.
+Se in seguito si scoprisse che hanno commesso un'infamità, siano sostituiti con altri due, scelti tra \[i parenti prossimi\] di quanti accampano diritti; entrambi giureranno in nome di Allah: “La nostra testimonianza è più sicura di quella di quei due. Noi non trasgrediremo. In tal caso saremmo tra gli ingiusti!”.
 
 # 777
 
@@ -3150,7 +3150,7 @@ E quando Allah dirà: “O Gesù figlio di Maria, hai forse detto alla gente: "P
 
 # 786
 
-Ho detto loro solo quello che Tu mi avevi ordinato di dire: Adorate Allah, mio Signore e vostro Signore". Fui testimone di loro finché rimasi presso di loro; da quando mi hai elevato [a Te], Tu sei rimasto a sorvegliarli. Tu sei testimone di tutte le cose.
+Ho detto loro solo quello che Tu mi avevi ordinato di dire: Adorate Allah, mio Signore e vostro Signore". Fui testimone di loro finché rimasi presso di loro; da quando mi hai elevato \[a Te\], Tu sei rimasto a sorvegliarli. Tu sei testimone di tutte le cose.
 
 # 787
 
@@ -3166,7 +3166,7 @@ Appartiene ad Allah la sovranità dei cieli e della terra e di ciò che racchiud
 
 # 790
 
-La lode [appartiene] ad Allah che ha creato i cieli e la terra e ha regolato le tenebre e la luce; eppure i miscredenti attribuiscono consimili al loro Signore!
+La lode \[appartiene\] ad Allah che ha creato i cieli e la terra e ha regolato le tenebre e la luce; eppure i miscredenti attribuiscono consimili al loro Signore!
 
 # 791
 
@@ -3210,11 +3210,11 @@ Di': “Viaggiate sulla terra e vedrete cosa ne è stato di coloro che tacciavan
 
 # 801
 
-Di': “A chi [appartiene] quello che c'è nei cieli e sulla terra?”. Rispondi: “Ad Allah!”. Egli si è imposto la misericordia. Vi riunirà nel Giorno della Resurrezione, sul quale non v'è dubbio alcuno. Quelli che non credono preparano la loro stessa rovina.
+Di': “A chi \[appartiene\] quello che c'è nei cieli e sulla terra?”. Rispondi: “Ad Allah!”. Egli si è imposto la misericordia. Vi riunirà nel Giorno della Resurrezione, sul quale non v'è dubbio alcuno. Quelli che non credono preparano la loro stessa rovina.
 
 # 802
 
-A Lui [appartiene] quello che dimora nella notte e nel giorno. Egli è Colui Che tutto ascolta e conosce.
+A Lui \[appartiene\] quello che dimora nella notte e nel giorno. Egli è Colui Che tutto ascolta e conosce.
 
 # 803
 
@@ -3274,7 +3274,7 @@ Se li potessi vedere, quando saranno presentati al Fuoco! Diranno: “Piacesse a
 
 # 817
 
-Sì, verrà reso palese quello che nascondevano. Se anche li rimandassimo [sulla terra] rifarebbero quello che era loro vietato. In verità essi sono i bugiardi.
+Sì, verrà reso palese quello che nascondevano. Se anche li rimandassimo \[sulla terra\] rifarebbero quello che era loro vietato. In verità essi sono i bugiardi.
 
 # 818
 
@@ -3302,7 +3302,7 @@ Già i messaggeri che ti hanno preceduto, furono tacciati di menzogna. Sopportar
 
 # 824
 
-Se la loro indifferenza sarà per te un peso così grave, cercherai una galleria nella terra o una scala per il cielo, per portar loro un segno [ancora migliore di quello che hai portato]? Se Allah volesse, potrebbe metterli tutti sulla retta via. Non essere dunque fra gli ignoranti!
+Se la loro indifferenza sarà per te un peso così grave, cercherai una galleria nella terra o una scala per il cielo, per portar loro un segno \[ancora migliore di quello che hai portato\]? Se Allah volesse, potrebbe metterli tutti sulla retta via. Non essere dunque fra gli ignoranti!
 
 # 825
 
@@ -3310,7 +3310,7 @@ In verità, rispondono soltanto coloro che ascoltano. Allah risusciterà i morti
 
 # 826
 
-E dicono: “Perché non è stato fatto scendere su di lui un segno [da parte] del suo Signore?”. Di': “In verità Allah ha il potere di far scendere un segno, ma la maggior parte di loro non sa nulla”.
+E dicono: “Perché non è stato fatto scendere su di lui un segno \[da parte\] del suo Signore?”. Di': “In verità Allah ha il potere di far scendere un segno, ma la maggior parte di loro non sa nulla”.
 
 # 827
 
@@ -3318,11 +3318,11 @@ Non c'è essere che si muova sulla terra o uccello che voli con le sue ali, che 
 
 # 828
 
-Quelli che smentiscono i Nostri segni, sono come sordi e muti [immersi] nelle tenebre. Allah svia chi vuole e pone chi vuole sulla retta via.
+Quelli che smentiscono i Nostri segni, sono come sordi e muti \[immersi\] nelle tenebre. Allah svia chi vuole e pone chi vuole sulla retta via.
 
 # 829
 
-Di': “Pensate che, se vi giungesse il castigo di Allah o l'Ora, invochereste qualcun altro oltre ad Allah? [Ditelo], se siete sinceri!
+Di': “Pensate che, se vi giungesse il castigo di Allah o l'Ora, invochereste qualcun altro oltre ad Allah? \[Ditelo\], se siete sinceri!
 
 # 830
 
@@ -3330,7 +3330,7 @@ Senza dubbio è Lui che invochereste. Se vorrà, disperderà ciò che avete invo
 
 # 831
 
-Già inviammo [profeti] alle comunità che ti hanno preceduto, poi le colpimmo con avversità e afflizioni, affinché divenissero umili.
+Già inviammo \[profeti\] alle comunità che ti hanno preceduto, poi le colpimmo con avversità e afflizioni, affinché divenissero umili.
 
 # 832
 
@@ -3366,7 +3366,7 @@ Di': “Non vi dico che possiedo i tesori di Allah e neppure che conosco l'invis
 
 # 840
 
-Avverti [con il Corano] quelli che temono di essere radunati davanti ad Allah che non avranno, all'infuori di Lui, nessun altro patrono o intercessore. Forse [Lo] temeranno.
+Avverti \[con il Corano\] quelli che temono di essere radunati davanti ad Allah che non avranno, all'infuori di Lui, nessun altro patrono o intercessore. Forse \[Lo\] temeranno.
 
 # 841
 
@@ -3374,7 +3374,7 @@ Non scacciare quelli che al mattino e alla sera invocano il loro Signore. Braman
 
 # 842
 
-Li abbiamo messi alla prova così, gli uni con gli altri, affinché dicano: “Sono questi coloro fra noi che Allah ha favorito?”. Allah conosce meglio di ogni altro, coloro che [Gli] sono grati.
+Li abbiamo messi alla prova così, gli uni con gli altri, affinché dicano: “Sono questi coloro fra noi che Allah ha favorito?”. Allah conosce meglio di ogni altro, coloro che \[Gli\] sono grati.
 
 # 843
 
@@ -3398,7 +3398,7 @@ Di': “Se avessi potere su quello che volete affrettare, sarebbe già stato def
 
 # 848
 
-Egli possiede le chiavi dell'invisibile, che solo Lui conosce. E conosce quello che c'è nella terra e nei mari. Non cade una foglia senza che Egli non ne abbia conoscenza. Non c'è seme nelle tenebre della terra o cosa alcuna verde o secca, che non siano [citati] nel Libro chiarissimo.
+Egli possiede le chiavi dell'invisibile, che solo Lui conosce. E conosce quello che c'è nella terra e nei mari. Non cade una foglia senza che Egli non ne abbia conoscenza. Non c'è seme nelle tenebre della terra o cosa alcuna verde o secca, che non siano \[citati\] nel Libro chiarissimo.
 
 # 849
 
@@ -3406,7 +3406,7 @@ Nella notte è Lui che vi richiama, e sa quello che avete fatto durante il giorn
 
 # 850
 
-Egli è Colui Che domina i Suoi servi, e manda incontro a loro i custodi. E quando la morte si presenta a uno di voi, i Nostri angeli lo richiamano senza negligenza alcuna. [“manda incontro a loro i custodi”: gli angeli che registrano immediatamente le azioni degli uomini]
+Egli è Colui Che domina i Suoi servi, e manda incontro a loro i custodi. E quando la morte si presenta a uno di voi, i Nostri angeli lo richiamano senza negligenza alcuna. \[“manda incontro a loro i custodi”: gli angeli che registrano immediatamente le azioni degli uomini\]
 
 # 851
 
@@ -3418,7 +3418,7 @@ Di': “Chi vi salverebbe dalle tenebre della terra e del mare? InvocateLo umilm
 
 # 853
 
-Di': “Allah vi libererà da ciò e da tutte le angosce. Ciò nonostante [Gli] attribuite consimili!”.
+Di': “Allah vi libererà da ciò e da tutte le angosce. Ciò nonostante \[Gli\] attribuite consimili!”.
 
 # 854
 
@@ -3430,7 +3430,7 @@ Il tuo popolo taccia di menzogna quello che invece è la verità! Di': “Io non
 
 # 856
 
-Per ogni messaggio [verrà] il suo tempo e presto saprete.
+Per ogni messaggio \[verrà\] il suo tempo e presto saprete.
 
 # 857
 
@@ -3438,15 +3438,15 @@ Quando li vedi immersi in discussioni sui Nostri segni, allontanati finché non 
 
 # 858
 
-Non compete ai timorati chieder loro conto, ma solo ammonirli, chissà che non temano [Allah]?
+Non compete ai timorati chieder loro conto, ma solo ammonirli, chissà che non temano \[Allah\]?
 
 # 859
 
-Allontanati da quelli che considerano gioco e divertimento la loro religione e sono ingannati dalla vita terrena. Ammoniscili [con il Corano], affinché non perdano le anime loro con quello che avranno fatto. All'infuori di Allah non avranno alcun protettore, né intercessore. Qualunque sia il riscatto che offriranno, non sarà accettato. Ecco coloro che sono stati abbandonati alla perdizione per quel che avranno fatto. Saranno dissetati con acqua bollente e avranno un castigo doloroso per la loro miscredenza.
+Allontanati da quelli che considerano gioco e divertimento la loro religione e sono ingannati dalla vita terrena. Ammoniscili \[con il Corano\], affinché non perdano le anime loro con quello che avranno fatto. All'infuori di Allah non avranno alcun protettore, né intercessore. Qualunque sia il riscatto che offriranno, non sarà accettato. Ecco coloro che sono stati abbandonati alla perdizione per quel che avranno fatto. Saranno dissetati con acqua bollente e avranno un castigo doloroso per la loro miscredenza.
 
 # 860
 
-Di': “Invocheremo, in luogo di Allah, qualcuno che non può né favorirci, né nuocerci? Volgeremo le spalle dopo che Allah ci ha guidato, come colui che viene indotto a vagabondare sulla terra dai dèmoni, mentre i suoi compagni lo richiamano sulla giusta pista [gridandogli]: Vieni con noi!"”. Di': “La vera guida? Sì, è la guida di Allah. Ci è stato ordinato di sottometterci al Signore dei mondi,
+Di': “Invocheremo, in luogo di Allah, qualcuno che non può né favorirci, né nuocerci? Volgeremo le spalle dopo che Allah ci ha guidato, come colui che viene indotto a vagabondare sulla terra dai dèmoni, mentre i suoi compagni lo richiamano sulla giusta pista \[gridandogli\]: Vieni con noi!"”. Di': “La vera guida? Sì, è la guida di Allah. Ci è stato ordinato di sottometterci al Signore dei mondi,
 
 # 861
 
@@ -3454,7 +3454,7 @@ di assolvere all'orazione e temere Allah: sarete ricondotti a Lui”.
 
 # 862
 
-Egli è Colui Che ha creato i cieli e la terra secondo verità. Nel giorno in cui dice: “Sii”, è l'essere. La Sua parola è verità. A Lui [solo] apparterrà la sovranità, nel Giorno in cui sarà soffiato nella Tromba. Egli è il Conoscitore del palese e dell'invisibile, Egli è il Saggio, il Ben Informato. [“nel Giorno in cui sarà soffiato nella Tromba”: il Giorno della Resurrezione, in cui la Tromba (o il Corno) suonerà per scandire le fasi di quelle ore di angoscia che precederanno il Giudizio divino (vedi XXXIX, 68-69)]
+Egli è Colui Che ha creato i cieli e la terra secondo verità. Nel giorno in cui dice: “Sii”, è l'essere. La Sua parola è verità. A Lui \[solo\] apparterrà la sovranità, nel Giorno in cui sarà soffiato nella Tromba. Egli è il Conoscitore del palese e dell'invisibile, Egli è il Saggio, il Ben Informato. \[“nel Giorno in cui sarà soffiato nella Tromba”: il Giorno della Resurrezione, in cui la Tromba (o il Corno) suonerà per scandire le fasi di quelle ore di angoscia che precederanno il Giudizio divino (vedi XXXIX, 68-69)\]
 
 # 863
 
@@ -3482,11 +3482,11 @@ In tutta sincerità rivolgo il mio volto verso Colui Che ha creato i cieli e la 
 
 # 869
 
-La sua gente argomentò contro di lui, ma egli disse: “Volete polemizzare con me in merito ad Allah, quando è Lui che mi ha guidato? E non temo affatto i soci che Gli attribuite, ma [temo solo] ciò che vorrà il mio Signore. Il mio Signore abbraccia tutte le cose nella Sua scienza. Non rifletterete dunque?
+La sua gente argomentò contro di lui, ma egli disse: “Volete polemizzare con me in merito ad Allah, quando è Lui che mi ha guidato? E non temo affatto i soci che Gli attribuite, ma \[temo solo\] ciò che vorrà il mio Signore. Il mio Signore abbraccia tutte le cose nella Sua scienza. Non rifletterete dunque?
 
 # 870
 
-Come potrei temere i soci che Gli attribuite, quando voi non temete di associare ad Allah coloro, riguardo ai quali, non vi ha fatto scendere nessuna autorità? Quale dei due partiti è più nel giusto, [ditelo] se lo sapete.
+Come potrei temere i soci che Gli attribuite, quando voi non temete di associare ad Allah coloro, riguardo ai quali, non vi ha fatto scendere nessuna autorità? Quale dei due partiti è più nel giusto, \[ditelo\] se lo sapete.
 
 # 871
 
@@ -3498,15 +3498,15 @@ Questo è l'argomento che fornimmo ad Abramo contro la sua gente. Noi eleviamo i
 
 # 873
 
-Gli demmo Isacco e Giacobbe, e li guidammo entrambi. E in precedenza guidammo Noè; tra i suoi discendenti [guidammo]: Davide, Salomone, Giobbe, Giuseppe, Mosè e Aronne. Così Noi ricompensiamo quelli che fanno il bene.
+Gli demmo Isacco e Giacobbe, e li guidammo entrambi. E in precedenza guidammo Noè; tra i suoi discendenti \[guidammo\]: Davide, Salomone, Giobbe, Giuseppe, Mosè e Aronne. Così Noi ricompensiamo quelli che fanno il bene.
 
 # 874
 
-E [guidammo] Zaccaria, Giovanni, Gesù ed Elia. Era tutta gente del bene.
+E \[guidammo\] Zaccaria, Giovanni, Gesù ed Elia. Era tutta gente del bene.
 
 # 875
 
-E [guidammo] Ismaele, Eliseo, Giona e Lot. Concedemmo a tutti loro eccellenza sugli uomini.
+E \[guidammo\] Ismaele, Eliseo, Giona e Lot. Concedemmo a tutti loro eccellenza sugli uomini.
 
 # 876
 
@@ -3518,7 +3518,7 @@ Ecco la guida con la quale Allah dirige chi vuole tra i Suoi servi. Se avessero 
 
 # 878
 
-Essi sono coloro a cui demmo la Scrittura e la Saggezza e la Profezia. Se [altri] non credono in loro, ebbene li abbiamo affidati a gente che non è miscredente.
+Essi sono coloro a cui demmo la Scrittura e la Saggezza e la Profezia. Se \[altri\] non credono in loro, ebbene li abbiamo affidati a gente che non è miscredente.
 
 # 879
 
@@ -3526,15 +3526,15 @@ Essi sono coloro che Allah ha guidato: attieniti alla loro guida. Di': “Non vi
 
 # 880
 
-Non prestano ad Allah la considerazione che Gli spetta quando dicono: “Allah non ha fatto scendere nulla su di un uomo!”. Chiedi: “Chi ha fatto scendere la Scrittura su Mosè, come luce e guida per le genti? [Scrittura] che avete trascritta in volumi [diversi] divulgandone una parte e nascondendone una parte assai notevole e tramite la quale siete stati istruiti su cose che né voi, né i vostri antenati, conoscevate?”. Di': “Allah” e lascia che si divertano a discutere.
+Non prestano ad Allah la considerazione che Gli spetta quando dicono: “Allah non ha fatto scendere nulla su di un uomo!”. Chiedi: “Chi ha fatto scendere la Scrittura su Mosè, come luce e guida per le genti? \[Scrittura\] che avete trascritta in volumi \[diversi\] divulgandone una parte e nascondendone una parte assai notevole e tramite la quale siete stati istruiti su cose che né voi, né i vostri antenati, conoscevate?”. Di': “Allah” e lascia che si divertano a discutere.
 
 # 881
 
-Questo è un Libro benedetto, che abbiamo fatto scendere a conferma di quello che era [stato rivelato] prima di esso, affinché tu avverta la Madre delle città e le genti intorno. Coloro che credono nell'Ultimo Giorno, credono in esso e sono assidui all'orazione.
+Questo è un Libro benedetto, che abbiamo fatto scendere a conferma di quello che era \[stato rivelato\] prima di esso, affinché tu avverta la Madre delle città e le genti intorno. Coloro che credono nell'Ultimo Giorno, credono in esso e sono assidui all'orazione.
 
 # 882
 
-Chi è peggior prevaricatore di colui che inventa menzogne contro Allah e dice: “Ho ricevuto un'ispirazione!”, quando invece non gli è stato ispirato nulla? O colui che dice: “Farò scendere qualcosa di simile a quello che Allah ha rivelato”. Se vedessi gli ingiusti, negli spasimi della morte, quando gli angeli stenderanno le mani su di loro [e diranno]: “Rigettate le vostre anime! Oggi sarete compensati con un castigo umiliante per aver mentito contro Allah e per esservi allontanati, pieni di orgoglio, dai Suoi segni”.
+Chi è peggior prevaricatore di colui che inventa menzogne contro Allah e dice: “Ho ricevuto un'ispirazione!”, quando invece non gli è stato ispirato nulla? O colui che dice: “Farò scendere qualcosa di simile a quello che Allah ha rivelato”. Se vedessi gli ingiusti, negli spasimi della morte, quando gli angeli stenderanno le mani su di loro \[e diranno\]: “Rigettate le vostre anime! Oggi sarete compensati con un castigo umiliante per aver mentito contro Allah e per esservi allontanati, pieni di orgoglio, dai Suoi segni”.
 
 # 883
 
@@ -3546,7 +3546,7 @@ Allah schiude il seme e il nocciolo: dal morto trae il vivo e dal vivo il morto.
 
 # 885
 
-Fende [il cielo al] l'alba. Della notte fa un riposo, del sole e della luna una misura [del tempo]. Ecco il decreto dell'Eccelso, del Sapiente.
+Fende \[il cielo al\] l'alba. Della notte fa un riposo, del sole e della luna una misura \[del tempo\]. Ecco il decreto dell'Eccelso, del Sapiente.
 
 # 886
 
@@ -3554,7 +3554,7 @@ Egli è Colui Che ha fatto per voi le stelle, affinché per loro tramite vi diri
 
 # 887
 
-È Lui che vi ha fatto nascere da un solo individuo e [vi ha dato] un ricettacolo e un deposito. Certamente abbiamo dispiegato i segni per coloro che capiscono.
+È Lui che vi ha fatto nascere da un solo individuo e \[vi ha dato\] un ricettacolo e un deposito. Certamente abbiamo dispiegato i segni per coloro che capiscono.
 
 # 888
 
@@ -3578,7 +3578,7 @@ Gli sguardi non lo raggiungono, ma Egli scruta gli sguardi. È il Perspicace, il
 
 # 893
 
-[Di' loro]: “Da parte del vostro Signore vi sono giunti appelli alla lungimiranza. Chi dunque vede chiaro, è a suo vantaggio; chi resta cieco, è a suo danno. Io non sono il vostro custode”.
+\[Di' loro\]: “Da parte del vostro Signore vi sono giunti appelli alla lungimiranza. Chi dunque vede chiaro, è a suo vantaggio; chi resta cieco, è a suo danno. Io non sono il vostro custode”.
 
 # 894
 
@@ -3594,7 +3594,7 @@ Se Allah avesse voluto, non Gli avrebbero attribuito alcun consimile. Non ti abb
 
 # 897
 
-Non insultate coloro che essi invocano all'infuori di Allah, ché non insultino Allah per ostilità e ignoranza. Abbiamo reso belle, [agli occhi di ogni comunità], le loro proprie azioni. Ritorneranno poi verso il loro Signore ed Egli li renderà edotti sul loro comportamento.
+Non insultate coloro che essi invocano all'infuori di Allah, ché non insultino Allah per ostilità e ignoranza. Abbiamo reso belle, \[agli occhi di ogni comunità\], le loro proprie azioni. Ritorneranno poi verso il loro Signore ed Egli li renderà edotti sul loro comportamento.
 
 # 898
 
@@ -3626,7 +3626,7 @@ La Parola del tuo Signore è veritiera e giusta ed esauriente. Nessuno può camb
 
 # 905
 
-Se obbedisci alla maggior parte di quelli che sono sulla terra ti allontaneranno dal sentiero di Allah: seguono [solo] congetture e non fanno che mentire.
+Se obbedisci alla maggior parte di quelli che sono sulla terra ti allontaneranno dal sentiero di Allah: seguono \[solo\] congetture e non fanno che mentire.
 
 # 906
 
@@ -3674,7 +3674,7 @@ Avranno una dimora di Pace presso il loro Signore. Egli è il loro alleato per q
 
 # 917
 
-E il giorno in cui li radunerà tutti [dirà]: “O consesso di dèmoni troppo avete abusato degli uomini!”. E i loro amici tra gli uomini diranno: “O Signor nostro! Ci siamo serviti gli uni degli altri e abbiamo raggiunto il termine che avevi stabilito per noi”. Ed Egli dirà: “Il Fuoco è la vostra dimora e vi resterete in perpetuo, a meno che Allah voglia altrimenti”. In verità il tuo Signore è saggio, sapiente!
+E il giorno in cui li radunerà tutti \[dirà\]: “O consesso di dèmoni troppo avete abusato degli uomini!”. E i loro amici tra gli uomini diranno: “O Signor nostro! Ci siamo serviti gli uni degli altri e abbiamo raggiunto il termine che avevi stabilito per noi”. Ed Egli dirà: “Il Fuoco è la vostra dimora e vi resterete in perpetuo, a meno che Allah voglia altrimenti”. In verità il tuo Signore è saggio, sapiente!
 
 # 918
 
@@ -3706,7 +3706,7 @@ Di': “O popol mio, agite per vostro conto, anch'io agisco. Ben presto saprete 
 
 # 925
 
-E attribuiscono ad Allah una parte di quello che Lui ha prodotto dai campi e dai greggi, e dicono: “Questo per Allah - secondo le loro pretese - e questo per i nostri soci”. Ma quello che è per gli dèi non giunge ad Allah e, invece, quello che è per Allah, giunge ai loro dèi. Quale sciagurato giudizio! [Gli arabi pagani destinavano parte del prodotto dei loro campi e dei loro greggi al Dio (Allah) in cui vagamente credevano e un'altra parte agli dèi tribali, considerati numi tutelari del loro clan e più “vicini” alle loro necessità. Quando il raccolto andava a male o i greggi erano razziati o accadeva qualcosa che diminuiva la quota sacrificale, veniva prelevato sulla parte del Dio per compensare quella degli dèi. È in questo senso che va inteso “quello che è per Allah giunge ai loro soci”]
+E attribuiscono ad Allah una parte di quello che Lui ha prodotto dai campi e dai greggi, e dicono: “Questo per Allah - secondo le loro pretese - e questo per i nostri soci”. Ma quello che è per gli dèi non giunge ad Allah e, invece, quello che è per Allah, giunge ai loro dèi. Quale sciagurato giudizio! \[Gli arabi pagani destinavano parte del prodotto dei loro campi e dei loro greggi al Dio (Allah) in cui vagamente credevano e un'altra parte agli dèi tribali, considerati numi tutelari del loro clan e più “vicini” alle loro necessità. Quando il raccolto andava a male o i greggi erano razziati o accadeva qualcosa che diminuiva la quota sacrificale, veniva prelevato sulla parte del Dio per compensare quella degli dèi. È in questo senso che va inteso “quello che è per Allah giunge ai loro soci”\]
 
 # 926
 
@@ -3714,11 +3714,11 @@ Ed è così che i loro dèi hanno reso accettabile a molti politeisti l'assassin
 
 # 927
 
-E dicono: “Ecco i greggi e le messi consacrate: potranno cibarsene solo quelli che designeremo”. Quali pretese! e [designano] animali il cui dorso è tabù e animali sui quali non invocano il Nome di Allah. Forgiano menzogne contro di Lui! Presto [Allah] li compenserà delle loro menzogne.
+E dicono: “Ecco i greggi e le messi consacrate: potranno cibarsene solo quelli che designeremo”. Quali pretese! e \[designano\] animali il cui dorso è tabù e animali sui quali non invocano il Nome di Allah. Forgiano menzogne contro di Lui! Presto \[Allah\] li compenserà delle loro menzogne.
 
 # 928
 
-E dicono: “Quello che è contenuto nei ventri di queste bestie è per i nostri maschi ed è vietato alle nostre donne”. E se nasce morto, lo dividono fra tutti. Presto [Allah] li compenserà dei loro distinguo. Egli è saggio, sapiente.
+E dicono: “Quello che è contenuto nei ventri di queste bestie è per i nostri maschi ed è vietato alle nostre donne”. E se nasce morto, lo dividono fra tutti. Presto \[Allah\] li compenserà dei loro distinguo. Egli è saggio, sapiente.
 
 # 929
 
@@ -3726,7 +3726,7 @@ Sono certamente perduti quelli che, per idiozia e ignoranza, uccidono i loro fig
 
 # 930
 
-È Lui che ha creato giardini [di vigne] con pergolati e senza pergolati, palme e piante dai diversi frutti, l'olivo e il melograno, simili, ma dissimili; mangiatene i frutti e versatene quanto dovuto nel giorno stesso della raccolta, senza eccessi, ché Allah non ama chi eccede;
+È Lui che ha creato giardini \[di vigne\] con pergolati e senza pergolati, palme e piante dai diversi frutti, l'olivo e il melograno, simili, ma dissimili; mangiatene i frutti e versatene quanto dovuto nel giorno stesso della raccolta, senza eccessi, ché Allah non ama chi eccede;
 
 # 931
 
@@ -3778,11 +3778,11 @@ In verità, questa è la Mia retta via: seguitela e non seguite i sentieri che v
 
 # 943
 
-E poi demmo la Scrittura a Mosè, corollario [della Nostra Grazia], spiegazione chiara di tutte le cose, guida e misericordia, affinché credessero nell'incontro con il loro Signore.
+E poi demmo la Scrittura a Mosè, corollario \[della Nostra Grazia\], spiegazione chiara di tutte le cose, guida e misericordia, affinché credessero nell'incontro con il loro Signore.
 
 # 944
 
-Questo è un Libro Benedetto che Noi abbiamo fatto scendere, seguitelo allora e siate timorati [di Allah], sicché possiate essere oggetto di misericordia,
+Questo è un Libro Benedetto che Noi abbiamo fatto scendere, seguitelo allora e siate timorati \[di Allah\], sicché possiate essere oggetto di misericordia,
 
 # 945
 
@@ -3794,7 +3794,7 @@ O diciate: “Se la Scrittura fosse stata fatta scendere su di noi, saremmo stat
 
 # 947
 
-Aspettano forse che vengano gli angeli o che venga il tuo Signore o che si manifestino i segni del tuo Signore? Il giorno in cui sarà giunto uno dei segni del tuo Signore, all'anima non servirà a nulla la [professione di] fede che prima non aveva [fatto] e [essa] non sarà utile a chi non avrà acquisito un merito. Di': “Aspettate, ché anche noi aspettiamo!”.
+Aspettano forse che vengano gli angeli o che venga il tuo Signore o che si manifestino i segni del tuo Signore? Il giorno in cui sarà giunto uno dei segni del tuo Signore, all'anima non servirà a nulla la \[professione di\] fede che prima non aveva \[fatto\] e \[essa\] non sarà utile a chi non avrà acquisito un merito. Di': “Aspettate, ché anche noi aspettiamo!”.
 
 # 948
 
@@ -3850,7 +3850,7 @@ Certamente interrogheremo coloro a cui inviammo e certamente interrogheremo gli 
 
 # 961
 
-Poi riferiremo loro [le loro azioni] con perfetta conoscenza, poiché mai siamo stati assenti.
+Poi riferiremo loro \[le loro azioni\] con perfetta conoscenza, poiché mai siamo stati assenti.
 
 # 962
 
@@ -3870,7 +3870,7 @@ In verità vi abbiamo creati e plasmati, quindi dicemmo agli angeli: “Prostern
 
 # 966
 
-Disse [Allah]: “Cosa mai ti impedisce di prosternarti, nonostante il Mio ordine?”. Rispose: “Sono migliore di lui, mi hai creato dal fuoco, mentre creasti lui dalla creta”.
+Disse \[Allah\]: “Cosa mai ti impedisce di prosternarti, nonostante il Mio ordine?”. Rispose: “Sono migliore di lui, mi hai creato dal fuoco, mentre creasti lui dalla creta”.
 
 # 967
 
@@ -3894,15 +3894,15 @@ e li insidierò da davanti e da dietro, da destra e da sinistra, e la maggior pa
 
 # 972
 
-“Vattene - disse [Allah] - scacciato e coperto di abominio. Riempirò l'Inferno di tutti voi, tu e coloro che ti avranno seguito.”
+“Vattene - disse \[Allah\] - scacciato e coperto di abominio. Riempirò l'Inferno di tutti voi, tu e coloro che ti avranno seguito.”
 
 # 973
 
-[E disse]: “O Adamo, abita il Paradiso insieme con la tua sposa; mangiate a vostro piacere ma non avvicinatevi a questo albero, ché allora sareste tra gli ingiusti”.
+\[E disse\]: “O Adamo, abita il Paradiso insieme con la tua sposa; mangiate a vostro piacere ma non avvicinatevi a questo albero, ché allora sareste tra gli ingiusti”.
 
 # 974
 
-Satana li tentò per rendere palese [la nudità] che era loro nascosta. Disse: “Il vostro Signore vi ha proibito questo albero, affinché non diventiate angeli o esseri immortali”.
+Satana li tentò per rendere palese \[la nudità\] che era loro nascosta. Disse: “Il vostro Signore vi ha proibito questo albero, affinché non diventiate angeli o esseri immortali”.
 
 # 975
 
@@ -3910,7 +3910,7 @@ E giurò: “In verità sono per voi un consigliere sincero”.
 
 # 976
 
-Con l'inganno li fece cadere entrambi. Quando ebbero mangiato [dei frutti] dell'albero, si accorsero della loro nudità e cercarono di coprirsi con le foglie del Giardino. Li richiamò il loro Signore: “Non vi avevo vietato quell'albero, non vi avevo detto che Satana è il vostro dichiarato nemico?”.
+Con l'inganno li fece cadere entrambi. Quando ebbero mangiato \[dei frutti\] dell'albero, si accorsero della loro nudità e cercarono di coprirsi con le foglie del Giardino. Li richiamò il loro Signore: “Non vi avevo vietato quell'albero, non vi avevo detto che Satana è il vostro dichiarato nemico?”.
 
 # 977
 
@@ -3938,7 +3938,7 @@ Quando commettono qualcosa di turpe, dicono: “Così facevano i nostri avi, è 
 
 # 983
 
-Di': “Il mio Signore ha ordinato l'equità, di sollevare la testa in ogni luogo di preghiera, di invocarLo e di attribuirGli un culto puro. Ritornerete [a Lui] così come vi ha creati”.
+Di': “Il mio Signore ha ordinato l'equità, di sollevare la testa in ogni luogo di preghiera, di invocarLo e di attribuirGli un culto puro. Ritornerete \[a Lui\] così come vi ha creati”.
 
 # 984
 
@@ -3954,7 +3954,7 @@ Di': “Chi ha proibito gli ornamenti che Allah ha prodotto per i Suoi servi e i
 
 # 987
 
-Di': “Il mio Signore ha vietato solo le turpitudini palesi o nascoste, il peccato e la ribellione ingiusta, l'attribuire ad Allah consimili, a proposito dei quali [Egli] non ha concesso autorità alcuna e il dire contro Allah cose di cui non conoscete nulla”.
+Di': “Il mio Signore ha vietato solo le turpitudini palesi o nascoste, il peccato e la ribellione ingiusta, l'attribuire ad Allah consimili, a proposito dei quali \[Egli\] non ha concesso autorità alcuna e il dire contro Allah cose di cui non conoscete nulla”.
 
 # 988
 
@@ -3994,7 +3994,7 @@ Quanto a coloro che credono e compiono il bene - ché non obbligheremo nessuno o
 
 # 997
 
-Cancelleremo il rancore dai loro petti, mentre ai loro piedi scorreranno i ruscelli e diranno: “La lode [appartiene] ad Allah, Che ci ha guidati a ciò! Non saremmo stati guidati, se Allah non ci avesse guidato. I messaggeri del nostro Signore sono venuti con la verità”. Verrà affermato a gran voce: “Ecco, il Giardino vi è dato in eredità per quello che avete fatto”.
+Cancelleremo il rancore dai loro petti, mentre ai loro piedi scorreranno i ruscelli e diranno: “La lode \[appartiene\] ad Allah, Che ci ha guidati a ciò! Non saremmo stati guidati, se Allah non ci avesse guidato. I messaggeri del nostro Signore sono venuti con la verità”. Verrà affermato a gran voce: “Ecco, il Giardino vi è dato in eredità per quello che avete fatto”.
 
 # 998
 
@@ -4018,7 +4018,7 @@ E i compagni dell'Arâf chiameranno gli uomini che riconosceranno per il loro as
 
 # 1003
 
-Sono essi coloro che, giuravate, non sarebbero stati raggiunti dalla misericordia di Allah?”. [Verrà detto loro]: “Entrate nel Giardino! Non avrete niente da temere e non sarete afflitti”.
+Sono essi coloro che, giuravate, non sarebbero stati raggiunti dalla misericordia di Allah?”. \[Verrà detto loro\]: “Entrate nel Giardino! Non avrete niente da temere e non sarete afflitti”.
 
 # 1004
 
@@ -4034,11 +4034,11 @@ Facemmo loro giungere un Libro e lo abbiamo spiegato nei particolari, ché fosse
 
 # 1007
 
-Aspettano forse l'adempiersi [dell'evento]? Il Giorno in cui si sarà compiuto, coloro che prima lo smentivano diranno: “I messaggeri del nostro Signore erano venuti con la verità. Ci sono intercessori che possano intercedere per noi, o potremo ritornare, per agire diversamente da come abbiamo agito?”. Si sono rovinati da loro stessi e quello che inventavano li ha abbandonati.
+Aspettano forse l'adempiersi \[dell'evento\]? Il Giorno in cui si sarà compiuto, coloro che prima lo smentivano diranno: “I messaggeri del nostro Signore erano venuti con la verità. Ci sono intercessori che possano intercedere per noi, o potremo ritornare, per agire diversamente da come abbiamo agito?”. Si sono rovinati da loro stessi e quello che inventavano li ha abbandonati.
 
 # 1008
 
-Allah è il vostro Signore, Colui Che in sei giorni ha creato i cieli e la terra e poi si è innalzato sul Trono. Ha coperto il giorno con la notte ed essi si susseguono instancabilmente. Il sole e la luna e le stelle sono sottomesse ai Suoi comandi. Non è a Lui che appartengono la creazione e l'ordine? La lode [appartiene] ad Allah Signore dei mondi!
+Allah è il vostro Signore, Colui Che in sei giorni ha creato i cieli e la terra e poi si è innalzato sul Trono. Ha coperto il giorno con la notte ed essi si susseguono instancabilmente. Il sole e la luna e le stelle sono sottomesse ai Suoi comandi. Non è a Lui che appartengono la creazione e l'ordine? La lode \[appartiene\] ad Allah Signore dei mondi!
 
 # 1009
 
@@ -4050,7 +4050,7 @@ Non spargete la corruzione sulla terra, dopo che è stata resa prospera. Invocat
 
 # 1011
 
-Egli è Colui Che invia i venti, annunciatori e precursori della Sua misericordia. Quando poi recano una nuvola pesante, la dirigiamo verso una terra morta e ne facciamo discendere l'acqua, con la quale suscitiamo ogni tipo di frutti. Così resusciteremo i morti. Forse rifletterete [in proposito].
+Egli è Colui Che invia i venti, annunciatori e precursori della Sua misericordia. Quando poi recano una nuvola pesante, la dirigiamo verso una terra morta e ne facciamo discendere l'acqua, con la quale suscitiamo ogni tipo di frutti. Così resusciteremo i morti. Forse rifletterete \[in proposito\].
 
 # 1012
 
@@ -4074,7 +4074,7 @@ Vi riferisco i messaggi del mio Signore, vi dò sinceri consigli e ho ricevuto d
 
 # 1017
 
-Vi stupite, forse, che vi giunga un richiamo da parte del vostro Signore tramite uno dei vostri uomini, che vi avverta e vi esorti al timor [di Allah], affinché possiate godere della [Sua] misericordia?”.
+Vi stupite, forse, che vi giunga un richiamo da parte del vostro Signore tramite uno dei vostri uomini, che vi avverta e vi esorti al timor \[di Allah\], affinché possiate godere della \[Sua\] misericordia?”.
 
 # 1018
 
@@ -4082,7 +4082,7 @@ Lo tacciarono di menzogna. Salvammo lui e coloro che stavano con lui nell'Arca e
 
 # 1019
 
-E agli Âd [inviammo] il loro fratello Hûd: “O popol mio, disse, adorate Allah. Per voi non c'è altro dio che Lui. Non Lo temerete?”.
+E agli Âd \[inviammo\] il loro fratello Hûd: “O popol mio, disse, adorate Allah. Per voi non c'è altro dio che Lui. Non Lo temerete?”.
 
 # 1020
 
@@ -4114,11 +4114,11 @@ Abbiamo salvato lui e coloro che erano con lui, per Nostra misericordia, e cance
 
 # 1027
 
-E ai Thamûd [inviammo] il loro fratello Sâlih. [Disse]: “O popol mio, adorate Allah. Per voi non c'è altro dio all'infuori di Lui. Ecco che vi è giunta una prova da parte del vostro Signore: ecco la cammella di Allah, un segno per voi. Lasciatela pascolare sulla terra di Allah e non le fate alcun male: scontereste un doloroso castigo.
+E ai Thamûd \[inviammo\] il loro fratello Sâlih. \[Disse\]: “O popol mio, adorate Allah. Per voi non c'è altro dio all'infuori di Lui. Ecco che vi è giunta una prova da parte del vostro Signore: ecco la cammella di Allah, un segno per voi. Lasciatela pascolare sulla terra di Allah e non le fate alcun male: scontereste un doloroso castigo.
 
 # 1028
 
-E ricordatevi di quando, dopo gli Âd, vi costituì loro successori e vi stabilì sulla terra: costruiste castelli nelle pianure e scavaste case nelle montagne. Ricordatevi dei benefici di Allah e non contaminate la terra [comportandovi da] corruttori”.
+E ricordatevi di quando, dopo gli Âd, vi costituì loro successori e vi stabilì sulla terra: costruiste castelli nelle pianure e scavaste case nelle montagne. Ricordatevi dei benefici di Allah e non contaminate la terra \[comportandovi da\] corruttori”.
 
 # 1029
 
@@ -4138,7 +4138,7 @@ Li colse il cataclisma e al mattino giacquero bocconi nelle loro dimore.
 
 # 1033
 
-Allora [Sâlih] si allontanò da loro e disse: “O popol mio, vi avevo trasmesso il messaggio del mio Signore, e vi avevo dato consigli sinceri, ma voi non amate i consiglieri sinceri”.
+Allora \[Sâlih\] si allontanò da loro e disse: “O popol mio, vi avevo trasmesso il messaggio del mio Signore, e vi avevo dato consigli sinceri, ma voi non amate i consiglieri sinceri”.
 
 # 1034
 
@@ -4162,7 +4162,7 @@ Facemmo piovere su di loro una pioggia... Guarda cosa è avvenuto ai perversi.
 
 # 1039
 
-Agli abitanti di Madyan [inviammo] il loro fratello Shuayb! Disse: “O popol mio, adorate Allah. Per voi non c'è altro dio che Lui. Vi è giunta una prova da parte del vostro Signore. Riempite la misura e date il giusto peso e non danneggiate gli uomini nei loro beni. Non corrompete la terra dopo che Allah la creò pura: ciò è meglio per voi, se siete credenti.
+Agli abitanti di Madyan \[inviammo\] il loro fratello Shuayb! Disse: “O popol mio, adorate Allah. Per voi non c'è altro dio che Lui. Vi è giunta una prova da parte del vostro Signore. Riempite la misura e date il giusto peso e non danneggiate gli uomini nei loro beni. Non corrompete la terra dopo che Allah la creò pura: ciò è meglio per voi, se siete credenti.
 
 # 1040
 
@@ -4246,11 +4246,11 @@ Non dirò, su Allah, altro che la verità. Son giunto con una prova da parte del
 
 # 1060
 
-“Se hai recato una prova con te, disse [Faraone], allora mostrala, se sei uno che dice la verità.”
+“Se hai recato una prova con te, disse \[Faraone\], allora mostrala, se sei uno che dice la verità.”
 
 # 1061
 
-Gettò il bastone, ed ecco che si trasformò in un serpente [ben] evidente.
+Gettò il bastone, ed ecco che si trasformò in un serpente \[ben\] evidente.
 
 # 1062
 
@@ -4326,7 +4326,7 @@ Dissero: “In verità siamo pronti a tornare al nostro Signore;
 
 # 1080
 
-ti vendichi su di noi, solo perché abbiamo creduto ai segni del nostro Signore, quando essi ci sono giunti. O Signore, concedici la sopportazione e facci morire [a Te] sottomessi”.
+ti vendichi su di noi, solo perché abbiamo creduto ai segni del nostro Signore, quando essi ci sono giunti. O Signore, concedici la sopportazione e facci morire \[a Te\] sottomessi”.
 
 # 1081
 
@@ -4334,7 +4334,7 @@ I notabili, del popolo di Faraone, dissero: “Lascerai che Mosè e il suo popol
 
 # 1082
 
-Disse Mosè al suo popolo: “Chiedete aiuto ad Allah e sopportate con pazienza: la terra è di Allah, ed Egli ne fa erede colui che sceglie tra i Suoi servi. L'esito felice sarà per coloro che [Lo] temono”.
+Disse Mosè al suo popolo: “Chiedete aiuto ad Allah e sopportate con pazienza: la terra è di Allah, ed Egli ne fa erede colui che sceglie tra i Suoi servi. L'esito felice sarà per coloro che \[Lo\] temono”.
 
 # 1083
 
@@ -4398,7 +4398,7 @@ E quando Mosè venne al Nostro luogo di convegno, e il suo Signore gli ebbe parl
 
 # 1098
 
-Disse [Allah]: “O Mosè, ti ho eletto al di sopra degli uomini per [affidarti] i Miei messaggi e le Mie parole. Prendi ciò che ti do e sii riconoscente”.
+Disse \[Allah\]: “O Mosè, ti ho eletto al di sopra degli uomini per \[affidarti\] i Miei messaggi e le Mie parole. Prendi ciò che ti do e sii riconoscente”.
 
 # 1099
 
@@ -4422,7 +4422,7 @@ Quando li si convinse di ciò e si accorsero che si erano traviati, dissero: “
 
 # 1104
 
-Quando Mosè, adirato e contrito, ritornò presso il suo popolo, disse: “Che infamità avete commesso in mia assenza! Volevate affrettare il decreto del vostro Signore?”. Scagliò [in terra] le tavole e afferrò per la testa suo fratello e lo trasse a sé: “O figlio di mia madre _ disse quello _ il popolo ha preso il sopravvento su di me e c'è mancato poco che mi uccidessero. Non permettere che i nemici si rallegrino [della mia sorte] e non annoverarmi tra gli ingiusti”.
+Quando Mosè, adirato e contrito, ritornò presso il suo popolo, disse: “Che infamità avete commesso in mia assenza! Volevate affrettare il decreto del vostro Signore?”. Scagliò \[in terra\] le tavole e afferrò per la testa suo fratello e lo trasse a sé: “O figlio di mia madre \_ disse quello \_ il popolo ha preso il sopravvento su di me e c'è mancato poco che mi uccidessero. Non permettere che i nemici si rallegrino \[della mia sorte\] e non annoverarmi tra gli ingiusti”.
 
 # 1105
 
@@ -4430,7 +4430,7 @@ E Mosè: “O Signore mio, perdona a me e a mio fratello e facci entrare nella T
 
 # 1106
 
-Coloro che si scelsero il vitello [come divinità] saranno ben presto sopraffatti dalla collera del loro Signore e dalla vergogna, nella vita terrena. In tal modo ricompensiamo i mentitori.
+Coloro che si scelsero il vitello \[come divinità\] saranno ben presto sopraffatti dalla collera del loro Signore e dalla vergogna, nella vita terrena. In tal modo ricompensiamo i mentitori.
 
 # 1107
 
@@ -4446,7 +4446,7 @@ Mosè scelse settanta uomini del suo popolo, per il Nostro luogo di convegno. Do
 
 # 1110
 
-Annoveraci un bene in questa vita terrena e un bene nell'Altra vita. Ecco che, pentiti, ritorniamo a Te”. E [Allah] disse: “Farò sì che il Mio castigo colpisca chi voglio, ma la Mia misericordia abbraccia ogni cosa: la riserverò a coloro che [Mi] temono e pagano la decima, a coloro che credono nei Nostri segni,
+Annoveraci un bene in questa vita terrena e un bene nell'Altra vita. Ecco che, pentiti, ritorniamo a Te”. E \[Allah\] disse: “Farò sì che il Mio castigo colpisca chi voglio, ma la Mia misericordia abbraccia ogni cosa: la riserverò a coloro che \[Mi\] temono e pagano la decima, a coloro che credono nei Nostri segni,
 
 # 1111
 
@@ -4474,11 +4474,11 @@ Quelli di loro che erano ingiusti, sostituirono un'altra parola a quella che era
 
 # 1117
 
-Chiedi loro a proposito della città sul mare in cui veniva trasgredito il sabato, [chiedi] dei pesci che salivano alla superficie nel giorno del sabato e che invece non affioravano negli altri giorni! Così li mettemmo alla prova, perché dimostrassero la loro empietà.
+Chiedi loro a proposito della città sul mare in cui veniva trasgredito il sabato, \[chiedi\] dei pesci che salivano alla superficie nel giorno del sabato e che invece non affioravano negli altri giorni! Così li mettemmo alla prova, perché dimostrassero la loro empietà.
 
 # 1118
 
-E quando alcuni di loro dissero: “Perché ammonite un popolo che Allah distruggerà o punirà con duro castigo?”. Risposero: “Per avere una scusa di fronte al vostro Signore e affinché [Lo] temano!”.
+E quando alcuni di loro dissero: “Perché ammonite un popolo che Allah distruggerà o punirà con duro castigo?”. Risposero: “Per avere una scusa di fronte al vostro Signore e affinché \[Lo\] temano!”.
 
 # 1119
 
@@ -4494,7 +4494,7 @@ E il tuo Signore annunciò che avrebbe inviato contro di loro qualcuno che li av
 
 # 1122
 
-Li dividemmo sulla terra in comunità diverse. Tra loro ci sono genti del bene e altre [che non lo sono]. Li mettemmo alla prova con prosperità e avversità, affinché ritornassero [sulla retta via].
+Li dividemmo sulla terra in comunità diverse. Tra loro ci sono genti del bene e altre \[che non lo sono\]. Li mettemmo alla prova con prosperità e avversità, affinché ritornassero \[sulla retta via\].
 
 # 1123
 
@@ -4506,11 +4506,11 @@ Quanto a coloro che si attengono saldamente al Libro ed eseguono l'orazione, cer
 
 # 1125
 
-E quando elevammo il Monte sopra di loro, come fosse un baldacchino, e temevano che sarebbe rovinato loro addosso, [dicemmo]: “Afferrate con forza ciò che vi abbiamo dato e ricordatevi di quel che contiene. Forse sarete timorati”.
+E quando elevammo il Monte sopra di loro, come fosse un baldacchino, e temevano che sarebbe rovinato loro addosso, \[dicemmo\]: “Afferrate con forza ciò che vi abbiamo dato e ricordatevi di quel che contiene. Forse sarete timorati”.
 
 # 1126
 
-E quando il Signore trasse, dai lombi dei figli di Adamo, tutti i loro discendenti e li fece testimoniare contro loro stessi [disse]: “Non sono il vostro Signore?”. Risposero: “Sì, lo attestiamo”, [Lo facemmo] perché nel Giorno della Resurrezione non diciate: “Veramente eravamo incoscienti”;
+E quando il Signore trasse, dai lombi dei figli di Adamo, tutti i loro discendenti e li fece testimoniare contro loro stessi \[disse\]: “Non sono il vostro Signore?”. Risposero: “Sì, lo attestiamo”, \[Lo facemmo\] perché nel Giorno della Resurrezione non diciate: “Veramente eravamo incoscienti”;
 
 # 1127
 
@@ -4518,7 +4518,7 @@ o diciate: “I nostri antenati erano associatori e noi siamo i loro discendenti
 
 # 1128
 
-Così spieghiamo i Nostri segni. Forse ritorneranno [a Noi].
+Così spieghiamo i Nostri segni. Forse ritorneranno \[a Noi\].
 
 # 1129
 
@@ -4550,7 +4550,7 @@ Tra le Nostre creature c'è una comunità che guida secondo verità e con essa e
 
 # 1136
 
-Condurremo [alla rovina] coloro che tacciano di menzogna i Nostri segni e non sapranno donde viene.
+Condurremo \[alla rovina\] coloro che tacciano di menzogna i Nostri segni e non sapranno donde viene.
 
 # 1137
 
@@ -4578,11 +4578,11 @@ Di': “Non dispongo, da parte mia, né di ciò che mi giova, né di ciò che mi
 
 # 1143
 
-Egli è Colui Che vi ha creati da un solo individuo, e che da esso ha tratto la sua sposa affinché riposasse presso di lei. Dopo che si unì a lei, ella fu gravida di un peso leggero, con il quale camminava [senza pena]. Quando poi si appesantì, entrambi invocarono il loro Signore Allah: “Se ci darai un [figlio] probo, Ti saremo certamente riconoscenti”.
+Egli è Colui Che vi ha creati da un solo individuo, e che da esso ha tratto la sua sposa affinché riposasse presso di lei. Dopo che si unì a lei, ella fu gravida di un peso leggero, con il quale camminava \[senza pena\]. Quando poi si appesantì, entrambi invocarono il loro Signore Allah: “Se ci darai un \[figlio\] probo, Ti saremo certamente riconoscenti”.
 
 # 1144
 
-Ma quando diede loro un [figlio] probo, essi attribuirono ad Allah associati in ciò che Egli aveva loro donato. Ma Allah è ben superiore a quello che Gli viene associato.
+Ma quando diede loro un \[figlio\] probo, essi attribuirono ad Allah associati in ciò che Egli aveva loro donato. Ma Allah è ben superiore a quello che Gli viene associato.
 
 # 1145
 
@@ -4598,7 +4598,7 @@ Se li invitate alla retta via, non vi seguiranno. Sia che li invitiate o che tac
 
 # 1148
 
-In verità coloro che invocate all'infuori di Allah, sono [Suoi] servi come voi. Invocateli dunque e che vi rispondano, se siete sinceri!
+In verità coloro che invocate all'infuori di Allah, sono \[Suoi\] servi come voi. Invocateli dunque e che vi rispondano, se siete sinceri!
 
 # 1149
 
@@ -4626,7 +4626,7 @@ E se ti coglie una tentazione di Satana, rifugiati in Allah. Egli è Colui Che t
 
 # 1155
 
-In verità coloro che temono [Allah], quando li coglie una tentazione, Lo ricordano ed eccoli di nuovo lucidi.
+In verità coloro che temono \[Allah\], quando li coglie una tentazione, Lo ricordano ed eccoli di nuovo lucidi.
 
 # 1156
 
@@ -4634,7 +4634,7 @@ Ma i loro fratelli li sospingono ancor più nella aberrazione, senza che poi, ma
 
 # 1157
 
-E quando non rechi loro qualche versetto, dicono: “Non l'hai ancora scelto?”. Di': “In verità non seguo altro che quello che mi ha rivelato il mio Signore”. Ecco [venirvi] dal vostro Signore un invito alla visione chiara: una direzione, una misericordia per coloro che credono.
+E quando non rechi loro qualche versetto, dicono: “Non l'hai ancora scelto?”. Di': “In verità non seguo altro che quello che mi ha rivelato il mio Signore”. Ecco \[venirvi\] dal vostro Signore un invito alla visione chiara: una direzione, una misericordia per coloro che credono.
 
 # 1158
 
@@ -4654,7 +4654,7 @@ Ti interrogheranno a proposito del bottino. Di': “Il bottino appartiene ad All
 
 # 1162
 
-In verità i [veri] credenti sono quelli i cui cuori tremano quando viene menzionato Allah e che, quando vengono recitati i Suoi versetti, accrescono la loro fede. Nel Signore confidano,
+In verità i \[veri\] credenti sono quelli i cui cuori tremano quando viene menzionato Allah e che, quando vengono recitati i Suoi versetti, accrescono la loro fede. Nel Signore confidano,
 
 # 1163
 
@@ -4662,11 +4662,11 @@ quelli stessi che eseguono l'orazione e donano di quello di cui li abbiamo provv
 
 # 1164
 
-Sono questi i veri credenti: avranno gradi [d'onore] presso il loro Signore, il perdono e generoso sostentamento.
+Sono questi i veri credenti: avranno gradi \[d'onore\] presso il loro Signore, il perdono e generoso sostentamento.
 
 # 1165
 
-Così fu, nel nome della Verità, che il tuo Signore ti fece uscire dalla tua casa, nonostante che una parte dei credenti ne avesse avversione. [Il versetto allude alla battaglia di Badr. L'idea di dover combattere era dispiaciuta a qualcuno, nonostante che (vedi vers. 7) Allah, tramite il Suo Inviato, avesse promesso la vittoria ai credenti]
+Così fu, nel nome della Verità, che il tuo Signore ti fece uscire dalla tua casa, nonostante che una parte dei credenti ne avesse avversione. \[Il versetto allude alla battaglia di Badr. L'idea di dover combattere era dispiaciuta a qualcuno, nonostante che (vedi vers. 7) Allah, tramite il Suo Inviato, avesse promesso la vittoria ai credenti\]
 
 # 1166
 
@@ -4674,7 +4674,7 @@ Polemizzano con te dopo che la verità è stata resa manifesta, come se fossero 
 
 # 1167
 
-[E ricordate] quando Allah vi promise che una delle due schiere [sarebbe stata] in vostro potere; avreste voluto che fosse quella disarmata! Invece Allah voleva che si dimostrasse la verità [delle Sue parole] e [voleva] sbaragliare i miscredenti fino all'ultimo,
+\[E ricordate\] quando Allah vi promise che una delle due schiere \[sarebbe stata\] in vostro potere; avreste voluto che fosse quella disarmata! Invece Allah voleva che si dimostrasse la verità \[delle Sue parole\] e \[voleva\] sbaragliare i miscredenti fino all'ultimo,
 
 # 1168
 
@@ -4682,7 +4682,7 @@ per far trionfare la verità e annientare la menzogna a scapito degli empi.
 
 # 1169
 
-E [ricordate] quando imploraste il soccorso del vostro Signore! Vi rispose: “Vi aiuterò con un migliaio di angeli a ondate successive”.
+E \[ricordate\] quando imploraste il soccorso del vostro Signore! Vi rispose: “Vi aiuterò con un migliaio di angeli a ondate successive”.
 
 # 1170
 
@@ -4710,7 +4710,7 @@ O voi che credete, quando incontrerete i miscredenti in ordine di battaglia non 
 
 # 1176
 
-Chi in quel giorno volgerà loro le spalle - eccetto il caso di stratagemma per [meglio] combattere o per raggiungere un altro gruppo - incorrerà nella collera di Allah e il suo rifugio sarà l'Inferno. Qual triste rifugio!
+Chi in quel giorno volgerà loro le spalle - eccetto il caso di stratagemma per \[meglio\] combattere o per raggiungere un altro gruppo - incorrerà nella collera di Allah e il suo rifugio sarà l'Inferno. Qual triste rifugio!
 
 # 1177
 
@@ -4718,7 +4718,7 @@ Non siete certo voi che li avete uccisi: è Allah che li ha uccisi. Quando tirav
 
 # 1178
 
-Ecco [quello che avvenne]: Allah vanificò l'astuzia dei miscredenti.
+Ecco \[quello che avvenne\]: Allah vanificò l'astuzia dei miscredenti.
 
 # 1179
 
@@ -4762,11 +4762,11 @@ Sappiate, che i vostri beni e i vostri figli non son altro che una tentazione. P
 
 # 1189
 
-O voi che credete! Se temete Allah, vi concederà la capacità di distinguere [il bene dal male], cancellerà le vostre colpe e vi perdonerà. Allah è dotato di grazia immensa.
+O voi che credete! Se temete Allah, vi concederà la capacità di distinguere \[il bene dal male\], cancellerà le vostre colpe e vi perdonerà. Allah è dotato di grazia immensa.
 
 # 1190
 
-E [ricorda] quando i miscredenti tramavano contro di te per tenerti prigioniero o ucciderti o esiliarti! Essi tramavano intrighi e Allah tesseva strategie. Allah è il migliore degli strateghi.
+E \[ricorda\] quando i miscredenti tramavano contro di te per tenerti prigioniero o ucciderti o esiliarti! Essi tramavano intrighi e Allah tesseva strategie. Allah è il migliore degli strateghi.
 
 # 1191
 
@@ -4782,7 +4782,7 @@ Certamente Allah non li castigherà finché tu starai in mezzo a loro. Allah non
 
 # 1194
 
-Ma perché mai Allah non li dovrebbe punire? Impediscono [ai credenti l'accesso al]la Santa Moschea, anche se non ne sono affatto i custodi. Solo i timorati [di Allah] ne sono [i veri] custodi, ma la maggior parte di loro lo ignora.
+Ma perché mai Allah non li dovrebbe punire? Impediscono \[ai credenti l'accesso al\]la Santa Moschea, anche se non ne sono affatto i custodi. Solo i timorati \[di Allah\] ne sono \[i veri\] custodi, ma la maggior parte di loro lo ignora.
 
 # 1195
 
@@ -4790,7 +4790,7 @@ La loro adorazione presso la Casa, non è altro che sibili e battimani: “Prove
 
 # 1196
 
-I miscredenti dilapidano i loro beni per distogliere [le genti] dal sentiero di Allah. Li dilapideranno, poi li rimpiangeranno e infine soccomberanno. I miscredenti saranno radunati nell'Inferno,
+I miscredenti dilapidano i loro beni per distogliere \[le genti\] dal sentiero di Allah. Li dilapideranno, poi li rimpiangeranno e infine soccomberanno. I miscredenti saranno radunati nell'Inferno,
 
 # 1197
 
@@ -4826,7 +4826,7 @@ Al momento dello scontro li fece apparire pochi ai vostri occhi, come vi mostrò
 
 # 1205
 
-O voi che credete, quando incontrate una schiera [nemica] state saldi e menzionate incessantemente il nome di Allah, affinché possiate prosperare.
+O voi che credete, quando incontrate una schiera \[nemica\] state saldi e menzionate incessantemente il nome di Allah, affinché possiate prosperare.
 
 # 1206
 
@@ -4834,11 +4834,11 @@ Obbedite ad Allah e al Suo Messaggero. Non siate discordi, ché altrimenti vi sc
 
 # 1207
 
-E non siate come quelli che uscirono dalle loro case con insolenza e ostentazione di fronte alla gente e che mettevano ostacoli sul sentiero di Allah. Allah abbraccia [nel Suo sapere] tutto quello che fanno.
+E non siate come quelli che uscirono dalle loro case con insolenza e ostentazione di fronte alla gente e che mettevano ostacoli sul sentiero di Allah. Allah abbraccia \[nel Suo sapere\] tutto quello che fanno.
 
 # 1208
 
-Satana rese belle [ai loro occhi] le azioni loro, e disse: “Oggi nessuno può sconfiggervi. Sono io il vostro patrono!”. Quando poi le due schiere si trovarono di fronte, voltò le spalle e disse: “Io vi sconfesso! Vedo cose che voi non vedete; io temo Allah, Allah è severo nel castigo”.
+Satana rese belle \[ai loro occhi\] le azioni loro, e disse: “Oggi nessuno può sconfiggervi. Sono io il vostro patrono!”. Quando poi le due schiere si trovarono di fronte, voltò le spalle e disse: “Io vi sconfesso! Vedo cose che voi non vedete; io temo Allah, Allah è severo nel castigo”.
 
 # 1209
 
@@ -4846,7 +4846,7 @@ Gli ipocriti e quelli nei cui cuori c'è una malattia dicevano: “Quella gente 
 
 # 1210
 
-Se potessi vedere quando gli Angeli finiranno i miscredenti! Li colpiranno nel volto e tra le spalle e [diranno]: “Assaggiate il castigo dell’Incendio
+Se potessi vedere quando gli Angeli finiranno i miscredenti! Li colpiranno nel volto e tra le spalle e \[diranno\]: “Assaggiate il castigo dell’Incendio
 
 # 1211
 
@@ -4862,7 +4862,7 @@ Allah non cambia la grazia che ha concesso ad un popolo, fintanto che questo non
 
 # 1214
 
-Così [avvenne] per la gente di Faraone e per quelli che, già in precedenza, smentirono i segni del loro Signore. Li facemmo perire per i loro peccati. Facemmo annegare quelli di Faraone, perché erano oppressori.
+Così \[avvenne\] per la gente di Faraone e per quelli che, già in precedenza, smentirono i segni del loro Signore. Li facemmo perire per i loro peccati. Facemmo annegare quelli di Faraone, perché erano oppressori.
 
 # 1215
 
@@ -4870,7 +4870,7 @@ Di fronte ad Allah non ci sono bestie peggiori di coloro che sono miscredenti e 
 
 # 1216
 
-coloro con i quali stipulasti un patto e che continuamente lo violano e non sono timorati [di Allah].
+coloro con i quali stipulasti un patto e che continuamente lo violano e non sono timorati \[di Allah\].
 
 # 1217
 
@@ -4886,7 +4886,7 @@ E non credano di vincere, i miscredenti. Non potranno ridurCi all'impotenza.
 
 # 1220
 
-Preparate, contro di loro, tutte le forze che potrete [raccogliere] e i cavalli addestrati, per terrorizzare il nemico di Allah e il vostro e altri ancora che voi non conoscete, ma che Allah conosce. Tutto quello che spenderete per la causa di Allah vi sarà restituito e non sarete danneggiati.
+Preparate, contro di loro, tutte le forze che potrete \[raccogliere\] e i cavalli addestrati, per terrorizzare il nemico di Allah e il vostro e altri ancora che voi non conoscete, ma che Allah conosce. Tutto quello che spenderete per la causa di Allah vi sarà restituito e non sarete danneggiati.
 
 # 1221
 
@@ -4894,7 +4894,7 @@ Se inclinano alla pace, inclina anche tu ad essa e riponi la tua fiducia in Alla
 
 # 1222
 
-Se vogliono ingannarti, ti basti Allah. È Lui che ti ha soccorso con il Suo aiuto [e l'appoggio de]i credenti,
+Se vogliono ingannarti, ti basti Allah. È Lui che ti ha soccorso con il Suo aiuto \[e l'appoggio de\]i credenti,
 
 # 1223
 
@@ -4910,11 +4910,11 @@ O Profeta, incita i credenti alla lotta. Venti di voi, pazienti, ne domineranno 
 
 # 1226
 
-Ora Allah vi ha alleggerito [l'ordine], Egli conosce l'inadeguatezza che è in voi. Cento di voi, perseveranti, ne domineranno duecento; e se sono mille, con il permesso di Allah, avranno il sopravvento su duemila. Allah è con coloro che perseverano.
+Ora Allah vi ha alleggerito \[l'ordine\], Egli conosce l'inadeguatezza che è in voi. Cento di voi, perseveranti, ne domineranno duecento; e se sono mille, con il permesso di Allah, avranno il sopravvento su duemila. Allah è con coloro che perseverano.
 
 # 1227
 
-Non si addice ad un profeta prendere prigionieri, finché non avrà completamente soggiogato la terra. Voi cercate il bene terreno, mentre Allah vuole [darvi] quello dell'altra vita. Allah è eccelso, saggio.
+Non si addice ad un profeta prendere prigionieri, finché non avrà completamente soggiogato la terra. Voi cercate il bene terreno, mentre Allah vuole \[darvi\] quello dell'altra vita. Allah è eccelso, saggio.
 
 # 1228
 
@@ -4962,7 +4962,7 @@ Ecco, da parte di Allah e del Suo Messaggero, un proclama alle genti nel giorno 
 
 # 1239
 
-Fanno eccezione quei politeisti con i quali concludeste un patto, che non lo violarono in nulla e non aiutarono nessuno contro di voi: rispettate il patto fino alla sua scadenza. Allah ama coloro che [Lo] temono.
+Fanno eccezione quei politeisti con i quali concludeste un patto, che non lo violarono in nulla e non aiutarono nessuno contro di voi: rispettate il patto fino alla sua scadenza. Allah ama coloro che \[Lo\] temono.
 
 # 1240
 
@@ -4978,7 +4978,7 @@ Come potrebbe esserci un patto tra Allah e il Suo Messaggero e i politeisti, ad 
 
 # 1243
 
-Come [ci può essere un patto], quando hanno il sopravvento su di voi, non vi rispettano né per la parentela, né per i giuramenti? A parole vi compiaceranno, ma nel loro cuore vi rinnegano. La maggior parte di loro è ingiusta.
+Come \[ci può essere un patto\], quando hanno il sopravvento su di voi, non vi rispettano né per la parentela, né per i giuramenti? A parole vi compiaceranno, ma nel loro cuore vi rinnegano. La maggior parte di loro è ingiusta.
 
 # 1244
 
@@ -4994,7 +4994,7 @@ Se poi si pentono, eseguono l'orazione e pagano la decima, siano vostri fratelli
 
 # 1247
 
-E se dopo il patto mancano ai loro giuramenti e vi attaccano [a causa del]la vostra religione, combattete i capi della miscredenza. Non ci sono giuramenti [validi] per loro: forse così desisteranno.
+E se dopo il patto mancano ai loro giuramenti e vi attaccano \[a causa del\]la vostra religione, combattete i capi della miscredenza. Non ci sono giuramenti \[validi\] per loro: forse così desisteranno.
 
 # 1248
 
@@ -5090,7 +5090,7 @@ nel Giorno in cui queste ricchezze saranno rese incandescenti dal fuoco dell'Inf
 
 # 1271
 
-Presso Allah il computo dei mesi è di dodici mesi [lunari] nel Suo Libro, sin dal giorno in cui creò i cieli e la terra. Quattro di loro sono sacri. Questa è la religione retta. In questi mesi non opprimete voi stessi, ma combattete tutti assieme i politeisti, come essi vi combattono tutti assieme. Sappiate che Allah è con coloro che [Lo] temono.
+Presso Allah il computo dei mesi è di dodici mesi \[lunari\] nel Suo Libro, sin dal giorno in cui creò i cieli e la terra. Quattro di loro sono sacri. Questa è la religione retta. In questi mesi non opprimete voi stessi, ma combattete tutti assieme i politeisti, come essi vi combattono tutti assieme. Sappiate che Allah è con coloro che \[Lo\] temono.
 
 # 1272
 
@@ -5098,7 +5098,7 @@ In verità, il mese intercalare non è altro che un sovrappiù di miscredenza, a
 
 # 1273
 
-O voi che credete! Perché quando vi si dice: “Lanciatevi [in campo] per la causa di Allah”, siete [come] inchiodati alla terra? La vita terrena vi attira di più di quella ultima? Di fronte all'altra vita, il godimento di quella terrena è ben poca cosa.
+O voi che credete! Perché quando vi si dice: “Lanciatevi \[in campo\] per la causa di Allah”, siete \[come\] inchiodati alla terra? La vita terrena vi attira di più di quella ultima? Di fronte all'altra vita, il godimento di quella terrena è ben poca cosa.
 
 # 1274
 
@@ -5114,15 +5114,15 @@ Leggeri o pesanti, lanciatevi nella missione e lottate con i vostri beni e le vo
 
 # 1277
 
-Se fosse stato un affare immediato e un viaggio breve, ti avrebbero seguìto; ma la distanza parve loro eccessiva. E allora si misero a giurare [in nome di Allah]: “Se avessimo potuto saremmo venuti con voi”. Si perdono da loro stessi, ma Allah sa perfettamente che sono dei bugiardi.
+Se fosse stato un affare immediato e un viaggio breve, ti avrebbero seguìto; ma la distanza parve loro eccessiva. E allora si misero a giurare \[in nome di Allah\]: “Se avessimo potuto saremmo venuti con voi”. Si perdono da loro stessi, ma Allah sa perfettamente che sono dei bugiardi.
 
 # 1278
 
-Che Allah ti perdoni: perché li hai dispensati [dal combattere], prima che tu potessi distinguere chi diceva il vero e chi era bugiardo?
+Che Allah ti perdoni: perché li hai dispensati \[dal combattere\], prima che tu potessi distinguere chi diceva il vero e chi era bugiardo?
 
 # 1279
 
-Coloro che credono in Allah e nell'Ultimo Giorno non ti chiedono dispensa, quando si tratta di lottare con i loro beni e le loro vite. Allah conosce coloro che [Lo] temono.
+Coloro che credono in Allah e nell'Ultimo Giorno non ti chiedono dispensa, quando si tratta di lottare con i loro beni e le loro vite. Allah conosce coloro che \[Lo\] temono.
 
 # 1280
 
@@ -5130,7 +5130,7 @@ Soltanto coloro che non credono in Allah e nell'Ultimo Giorno ti chiedono dispen
 
 # 1281
 
-Se avessero voluto, si sarebbero ben preparati a partire; ma Allah ha disdegnato la loro partenza: li ha impigriti. Venne detto loro: “Statevene in compagnia di quelli che rimangono [a casa]”.
+Se avessero voluto, si sarebbero ben preparati a partire; ma Allah ha disdegnato la loro partenza: li ha impigriti. Venne detto loro: “Statevene in compagnia di quelli che rimangono \[a casa\]”.
 
 # 1282
 
@@ -5186,15 +5186,15 @@ Se davvero fossero soddisfatti di quello che ricevono da Allah e dal Suo Messagg
 
 # 1295
 
-Le elemosine sono per i bisognosi, per i poveri, per quelli incaricati di raccoglierle, per quelli di cui bisogna conquistarsi i cuori, per il riscatto degli schiavi, per quelli pesantemente indebitati, per [la lotta sul] sentiero di Allah e per il viandante. Decreto di Allah! Allah è saggio, sapiente.
+Le elemosine sono per i bisognosi, per i poveri, per quelli incaricati di raccoglierle, per quelli di cui bisogna conquistarsi i cuori, per il riscatto degli schiavi, per quelli pesantemente indebitati, per \[la lotta sul\] sentiero di Allah e per il viandante. Decreto di Allah! Allah è saggio, sapiente.
 
 # 1296
 
-Tra loro ci sono quelli che dileggiano il Profeta e dicono: “È tutto orecchi”. Di': “È tutto orecchi per il vostro bene, crede in Allah e ha fiducia nei credenti, ed è una [testimonianza di] misericordia per coloro, fra voi, che credono. Quelli che tormentano il Messaggero di Allah, avranno doloroso castigo”.
+Tra loro ci sono quelli che dileggiano il Profeta e dicono: “È tutto orecchi”. Di': “È tutto orecchi per il vostro bene, crede in Allah e ha fiducia nei credenti, ed è una \[testimonianza di\] misericordia per coloro, fra voi, che credono. Quelli che tormentano il Messaggero di Allah, avranno doloroso castigo”.
 
 # 1297
 
-Giurano [in nome di] Allah per compiacervi; ma se sono credenti, [sappiano] che Allah e il Suo Messaggero hanno maggior diritto di essere compiaciuti.
+Giurano \[in nome di\] Allah per compiacervi; ma se sono credenti, \[sappiano\] che Allah e il Suo Messaggero hanno maggior diritto di essere compiaciuti.
 
 # 1298
 
@@ -5202,7 +5202,7 @@ Non sanno, dunque, che chi si oppone ad Allah e al Suo Messaggero, avrà come di
 
 # 1299
 
-Gli ipocriti temono che venga rivelata una sura che sveli quello che c'è nei loro cuori. Di': “Schernite pure! Allah paleserà quello che temete [venga reso noto]”.
+Gli ipocriti temono che venga rivelata una sura che sveli quello che c'è nei loro cuori. Di': “Schernite pure! Allah paleserà quello che temete \[venga reso noto\]”.
 
 # 1300
 
@@ -5222,7 +5222,7 @@ Agli ipocriti, maschi e femmine, e ai miscredenti, Allah ha promesso il Fuoco de
 
 # 1304
 
-Così [avvenne] a quelli che vennero prima di voi, che erano più potenti e più ricchi di beni e di figli! Godettero della loro parte e voi godete della vostra, come quelli che vennero prima di voi godettero della loro. Voi polemizzate come essi polemizzarono. Essi sono coloro le cui opere sono rese vane in questa vita e nell'altra, essi sono i perdenti.
+Così \[avvenne\] a quelli che vennero prima di voi, che erano più potenti e più ricchi di beni e di figli! Godettero della loro parte e voi godete della vostra, come quelli che vennero prima di voi godettero della loro. Voi polemizzate come essi polemizzarono. Essi sono coloro le cui opere sono rese vane in questa vita e nell'altra, essi sono i perdenti.
 
 # 1305
 
@@ -5242,7 +5242,7 @@ O Profeta, combatti i miscredenti e gli ipocriti, e sii severo con loro. Il loro
 
 # 1309
 
-Giurano [in nome di Allah] che non hanno detto quello che in realtà hanno detto, un'espressione di miscredenza; hanno negato dopo [aver accettato] l'Islàm e hanno agognato quel che non hanno [potuto] ottenere. Non hanno altra recriminazione se non che Allah col Suo Messaggero li ha arricchiti della Sua grazia. Se si pentono sarà meglio per loro; se invece volgono le spalle, Allah li castigherà con doloroso castigo in questa vita e nell'altra; e sulla terra, non avranno né alleato, né patrono.
+Giurano \[in nome di Allah\] che non hanno detto quello che in realtà hanno detto, un'espressione di miscredenza; hanno negato dopo \[aver accettato\] l'Islàm e hanno agognato quel che non hanno \[potuto\] ottenere. Non hanno altra recriminazione se non che Allah col Suo Messaggero li ha arricchiti della Sua grazia. Se si pentono sarà meglio per loro; se invece volgono le spalle, Allah li castigherà con doloroso castigo in questa vita e nell'altra; e sulla terra, non avranno né alleato, né patrono.
 
 # 1310
 
@@ -5254,11 +5254,11 @@ Quando poi Egli dà loro della Sua grazia, diventano avari e volgono le spalle e
 
 # 1312
 
-[Per questo] l'ipocrisia si stabilisce nei loro cuori, fino al Giorno in cui Lo incontreranno, perché mancarono alla promessa ad Allah e perché mentirono!
+\[Per questo\] l'ipocrisia si stabilisce nei loro cuori, fino al Giorno in cui Lo incontreranno, perché mancarono alla promessa ad Allah e perché mentirono!
 
 # 1313
 
-Non sanno che Allah conosce i loro segreti e i loro conciliaboli e che Allah è il supremo conoscitore delle [cose] invisibili?
+Non sanno che Allah conosce i loro segreti e i loro conciliaboli e che Allah è il supremo conoscitore delle \[cose\] invisibili?
 
 # 1314
 
@@ -5266,11 +5266,11 @@ Diffamano i credenti che donano spontaneamente e scherniscono quelli che non tro
 
 # 1315
 
-Che tu chieda perdono per loro o che tu non lo chieda, [è la stessa cosa], anche se chiedessi settanta volte perdono per loro, Allah non li perdonerà, perché hanno negato Allah e il Suo Messaggero e Allah non guida il popolo degli empi.
+Che tu chieda perdono per loro o che tu non lo chieda, \[è la stessa cosa\], anche se chiedessi settanta volte perdono per loro, Allah non li perdonerà, perché hanno negato Allah e il Suo Messaggero e Allah non guida il popolo degli empi.
 
 # 1316
 
-Coloro che sono rimasti indietro, felici di restare nelle loro case, [opponendosi così] al Messaggero di Allah e disdegnando la lotta per la causa di Allah con i loro beni e le loro vite, dicono: “Non andate in missione con questo caldo!”. Di': “Il fuoco dell'Inferno è ancora più caldo”. Se solo comprendessero!
+Coloro che sono rimasti indietro, felici di restare nelle loro case, \[opponendosi così\] al Messaggero di Allah e disdegnando la lotta per la causa di Allah con i loro beni e le loro vite, dicono: “Non andate in missione con questo caldo!”. Di': “Il fuoco dell'Inferno è ancora più caldo”. Se solo comprendessero!
 
 # 1317
 
@@ -5282,11 +5282,11 @@ Se poi Allah riconduce a te un gruppo di costoro ed essi ti chiedono il permesso
 
 # 1319
 
-Non pregare per nessuno di loro quando muoiono e non star ritto [in preghiera] davanti alla loro tomba. Rinnegarono Allah e il Suo Messaggero e sono morti nell'empietà.
+Non pregare per nessuno di loro quando muoiono e non star ritto \[in preghiera\] davanti alla loro tomba. Rinnegarono Allah e il Suo Messaggero e sono morti nell'empietà.
 
 # 1320
 
-I loro beni e i loro figli non ti stupiscano. Con quelli Allah vuole castigarli in questa vita e [far sì] che periscano penosamente nella miscredenza.
+I loro beni e i loro figli non ti stupiscano. Con quelli Allah vuole castigarli in questa vita e \[far sì\] che periscano penosamente nella miscredenza.
 
 # 1321
 
@@ -5294,7 +5294,7 @@ E quando è stata fatta scendere una sura che dice: “Credete in Allah e combat
 
 # 1322
 
-Hanno preferito rimanere con [le donne] lasciate a casa. I loro cuori sono stati sigillati e non comprenderanno.
+Hanno preferito rimanere con \[le donne\] lasciate a casa. I loro cuori sono stati sigillati e non comprenderanno.
 
 # 1323
 
@@ -5314,7 +5314,7 @@ Non saranno ritenuti colpevoli i deboli, i malati e coloro che non dispongono di
 
 # 1327
 
-E neppure [avranno colpa] coloro che ti vengono a chiedere un mezzo di trasporto e ai quali rispondi: “Non trovo mezzi con cui trasportarvi”, e che se ne vanno con le lacrime che scendono dai loro occhi, tristi di non avere risorse da impiegare [per la causa di Allah].
+E neppure \[avranno colpa\] coloro che ti vengono a chiedere un mezzo di trasporto e ai quali rispondi: “Non trovo mezzi con cui trasportarvi”, e che se ne vanno con le lacrime che scendono dai loro occhi, tristi di non avere risorse da impiegare \[per la causa di Allah\].
 
 # 1328
 
@@ -5326,7 +5326,7 @@ Quando ritornate da loro verranno a scusarsi. Di': “Non scusatevi, non vi cred
 
 # 1330
 
-Quando ritornerete vi scongiureranno, [in nome di Allah], di lasciarli stare. Allontanatevi da loro, sono sozzura e il loro rifugio sarà l'Inferno, compenso per quello che hanno fatto.
+Quando ritornerete vi scongiureranno, \[in nome di Allah\], di lasciarli stare. Allontanatevi da loro, sono sozzura e il loro rifugio sarà l'Inferno, compenso per quello che hanno fatto.
 
 # 1331
 
@@ -5342,7 +5342,7 @@ Ci sono beduini che considerano una grave imposizione quello che spendono e atte
 
 # 1334
 
-Ci sono altri beduini, che credono in Allah e nell'Ultimo Giorno e considerano quello che spendono come un modo di avvicinarsi ad Allah e ottenere le benedizioni del Messaggero. Sono di certo un mezzo per avvicinarsi [ad Allah]. Presto Allah li farà entrare nella Sua misericordia. In verità Allah è perdonatore misericordioso!
+Ci sono altri beduini, che credono in Allah e nell'Ultimo Giorno e considerano quello che spendono come un modo di avvicinarsi ad Allah e ottenere le benedizioni del Messaggero. Sono di certo un mezzo per avvicinarsi \[ad Allah\]. Presto Allah li farà entrare nella Sua misericordia. In verità Allah è perdonatore misericordioso!
 
 # 1335
 
@@ -5366,7 +5366,7 @@ Non sanno dunque che è Allah Che accetta il pentimento dei Suoi servi e Che acc
 
 # 1340
 
-Di': “Agite, Allah osserverà le vostre opere e [le osserveranno] anche il Suo Messaggero e i credenti. Presto sarete ricondotti verso Colui Che conosce il visibile e l'invisibile ed Egli vi informerà di quello che avete fatto”.
+Di': “Agite, Allah osserverà le vostre opere e \[le osserveranno\] anche il Suo Messaggero e i credenti. Presto sarete ricondotti verso Colui Che conosce il visibile e l'invisibile ed Egli vi informerà di quello che avete fatto”.
 
 # 1341
 
@@ -5374,7 +5374,7 @@ Altri sono lasciati in attesa del decreto di Allah: li punirà o accoglierà il 
 
 # 1342
 
-Quanto a coloro che hanno costruito una moschea per recar danno, per miscredenza, per [provocare] scisma tra i credenti, [per tendere] un agguato a favore di colui che, già in passato, mosse la guerra contro Allah e il Suo Messaggero, quelli certamente giurano: “Non abbiamo cercato altro che il bene!”. Allah testimonia che sono dei bugiardi.
+Quanto a coloro che hanno costruito una moschea per recar danno, per miscredenza, per \[provocare\] scisma tra i credenti, \[per tendere\] un agguato a favore di colui che, già in passato, mosse la guerra contro Allah e il Suo Messaggero, quelli certamente giurano: “Non abbiamo cercato altro che il bene!”. Allah testimonia che sono dei bugiardi.
 
 # 1343
 
@@ -5390,11 +5390,11 @@ L'edificio che hanno costruito non smetterà di essere un'inquietudine nei loro 
 
 # 1346
 
-Allah ha comprato dai credenti le loro persone e i loro beni [dando] in cambio il Giardino, [poiché] combattono sul sentiero di Allah, uccidono e sono uccisi. Promessa autentica per Lui vincolante, presente nella Torâh, nel Vangelo e nel Corano. Chi, più di Allah, rispetta i patti? Rallegratevi del baratto che avete fatto. Questo è il successo più grande.
+Allah ha comprato dai credenti le loro persone e i loro beni \[dando\] in cambio il Giardino, \[poiché\] combattono sul sentiero di Allah, uccidono e sono uccisi. Promessa autentica per Lui vincolante, presente nella Torâh, nel Vangelo e nel Corano. Chi, più di Allah, rispetta i patti? Rallegratevi del baratto che avete fatto. Questo è il successo più grande.
 
 # 1347
 
-[Lo avranno] coloro che si pentono, che adorano, che lodano, che peregrinano, che si inchinano, che si prosternano, che raccomandano le buone consuetudini e proibiscono ciò che è riprovevole, coloro che si attengono ai limiti di Allah. Dai la buona novella ai credenti.
+\[Lo avranno\] coloro che si pentono, che adorano, che lodano, che peregrinano, che si inchinano, che si prosternano, che raccomandano le buone consuetudini e proibiscono ciò che è riprovevole, coloro che si attengono ai limiti di Allah. Dai la buona novella ai credenti.
 
 # 1348
 
@@ -5402,7 +5402,7 @@ Non è bene che il Profeta e i credenti chiedano il perdono per i politeisti - f
 
 # 1349
 
-Abramo chiese perdono in favore di suo padre, soltanto a causa di una promessa che gli aveva fatto; ma quando fu evidente che egli era un nemico di Allah, si dissociò da lui; [eppure] Abramo era tenero e premuroso [nei confronti del padre].
+Abramo chiese perdono in favore di suo padre, soltanto a causa di una promessa che gli aveva fatto; ma quando fu evidente che egli era un nemico di Allah, si dissociò da lui; \[eppure\] Abramo era tenero e premuroso \[nei confronti del padre\].
 
 # 1350
 
@@ -5414,7 +5414,7 @@ Ad Allah appartiene la sovranità sui cieli e sulla terra. Egli dà la vita e d�
 
 # 1352
 
-Allah si è volto [con favore] al Profeta, agli Emigrati e agli Ausiliari, che lo seguirono nel momento della difficoltà. Dopo che i cuori di una parte di loro erano sul punto di perdersi, Egli accolse il loro pentimento: in verità Egli è dolce e misericordioso nei loro confronti.
+Allah si è volto \[con favore\] al Profeta, agli Emigrati e agli Ausiliari, che lo seguirono nel momento della difficoltà. Dopo che i cuori di una parte di loro erano sul punto di perdersi, Egli accolse il loro pentimento: in verità Egli è dolce e misericordioso nei loro confronti.
 
 # 1353
 
@@ -5442,7 +5442,7 @@ O voi che credete, combattete i miscredenti che vi stanno attorno, che trovino d
 
 # 1359
 
-Quando viene fatta scendere una sura, alcuni di loro dicono: “A chi di voi [questa sura] ha fatto accrescere la fede?”. Quanto a coloro che credono, essa accresce la loro fede ed essi se ne rallegrano.
+Quando viene fatta scendere una sura, alcuni di loro dicono: “A chi di voi \[questa sura\] ha fatto accrescere la fede?”. Quanto a coloro che credono, essa accresce la loro fede ed essi se ne rallegrano.
 
 # 1360
 
@@ -5454,7 +5454,7 @@ Non si accorgono che ogni anno sono tentati una o due volte, quindi non si pento
 
 # 1362
 
-Quando scende una sura, si guardano tra loro [e dicono]: “Forse che qualcuno vi vede?” e poi si allontanano. Allontani Allah i cuori loro, ché in verità sono un popolo che non capisce.
+Quando scende una sura, si guardano tra loro \[e dicono\]: “Forse che qualcuno vi vede?” e poi si allontanano. Allontani Allah i cuori loro, ché in verità sono un popolo che non capisce.
 
 # 1363
 
@@ -5474,7 +5474,7 @@ Perché la gente si stupisce se abbiamo fatto scendere la rivelazione a uno dei 
 
 # 1367
 
-In verità, il vostro Signore è Allah, Colui Che in sei giorni creò i cieli e la terra, quindi Si innalzò sul trono a governare ogni cosa. Non vi è alcun intercessore, senza il Suo permesso. Questi è Allah, il vostro Signore: adorateLo. Rifletterete [in proposito]?
+In verità, il vostro Signore è Allah, Colui Che in sei giorni creò i cieli e la terra, quindi Si innalzò sul trono a governare ogni cosa. Non vi è alcun intercessore, senza il Suo permesso. Questi è Allah, il vostro Signore: adorateLo. Rifletterete \[in proposito\]?
 
 # 1368
 
@@ -5486,7 +5486,7 @@ A Lui tutti ritornerete, promessa di Allah veritiera. È Lui che ha iniziato la 
 
 # 1370
 
-In verità, nell'alternarsi del giorno e della notte e in ciò che Allah ha creato nei cieli e sulla terra, ci sono segni per genti che [Lo] temono.
+In verità, nell'alternarsi del giorno e della notte e in ciò che Allah ha creato nei cieli e sulla terra, ci sono segni per genti che \[Lo\] temono.
 
 # 1371
 
@@ -5502,11 +5502,11 @@ Coloro che credono e compiono il bene, Allah li guiderà grazie alla loro fede: 
 
 # 1374
 
-Colà la loro invocazione sarà: “Gloria a Te, Allah”; il loro saluto: “Pace”; e l'ultima delle loro invocazioni [sarà]: “La lode appartiene ad Allah, Signore dei mondi”.
+Colà la loro invocazione sarà: “Gloria a Te, Allah”; il loro saluto: “Pace”; e l'ultima delle loro invocazioni \[sarà\]: “La lode appartiene ad Allah, Signore dei mondi”.
 
 # 1375
 
-Se Allah affrettasse la disgrazia degli uomini con la stessa fretta con cui essi cercano il benessere, il loro termine sarebbe compiuto. Lasciamo [invece] procedere alla cieca, nella loro ribellione, coloro che non sperano nel Nostro incontro.
+Se Allah affrettasse la disgrazia degli uomini con la stessa fretta con cui essi cercano il benessere, il loro termine sarebbe compiuto. Lasciamo \[invece\] procedere alla cieca, nella loro ribellione, coloro che non sperano nel Nostro incontro.
 
 # 1376
 
@@ -5550,11 +5550,11 @@ Quando usiamo misericordia agli uomini dopo che li ha colpiti una disgrazia, ess
 
 # 1386
 
-Egli è Colui Che vi fa viaggiare per terra e per mare. Quando siete su battelli che navigano col buon vento, [gli uomini] esultano. Quando sorge un vento impetuoso e le onde si alzano da ogni parte, invocano Allah e Gli rendono un culto puro - : “Se ci salvi, saremo certamente riconoscenti!...”.
+Egli è Colui Che vi fa viaggiare per terra e per mare. Quando siete su battelli che navigano col buon vento, \[gli uomini\] esultano. Quando sorge un vento impetuoso e le onde si alzano da ogni parte, invocano Allah e Gli rendono un culto puro - : “Se ci salvi, saremo certamente riconoscenti!...”.
 
 # 1387
 
-Quando poi Allah li ha salvati, ecco che si mostrano ribelli sulla terra! - O uomini, invero la vostra ribellione è contro voi stessi, [avrete] gioia effimera nella vita terrena e poi sarete ricondotti verso di Noi, e allora vi informeremo circa il vostro operato.
+Quando poi Allah li ha salvati, ecco che si mostrano ribelli sulla terra! - O uomini, invero la vostra ribellione è contro voi stessi, \[avrete\] gioia effimera nella vita terrena e poi sarete ricondotti verso di Noi, e allora vi informeremo circa il vostro operato.
 
 # 1388
 
@@ -5582,11 +5582,11 @@ Ci sia Allah sufficiente testimone, che non ci siamo mai curati della vostra ado
 
 # 1394
 
-Colà ogni anima subirà le conseguenze di] quello che già fece. E saranno ricondotti ad Allah, il loro vero Padrone, mentre ciò che avevano inventato li abbandonerà.
+Colà ogni anima subirà le conseguenze di\] quello che già fece. E saranno ricondotti ad Allah, il loro vero Padrone, mentre ciò che avevano inventato li abbandonerà.
 
 # 1395
 
-Di': “Chi vi provvede il cibo dal cielo e dalla terra, chi domina l'udito e la vista, chi trae il vivo dal morto e il morto dal vivo, chi governa ogni cosa?”. Risponderanno: “Allah”. Allora di': “Non [Lo] temerete dunque?”.
+Di': “Chi vi provvede il cibo dal cielo e dalla terra, chi domina l'udito e la vista, chi trae il vivo dal morto e il morto dal vivo, chi governa ogni cosa?”. Risponderanno: “Allah”. Allora di': “Non \[Lo\] temerete dunque?”.
 
 # 1396
 
@@ -5614,7 +5614,7 @@ Questo Corano non può essere forgiato da altri che Allah! Ed anzi è la conferm
 
 # 1402
 
-Oppure diranno: “È lui che lo ha inventato”. Di': “Portate una sura simile a questa e chiamate [a collaborare] chi potrete all'infuori di Allah, se siete veritieri”.
+Oppure diranno: “È lui che lo ha inventato”. Di': “Portate una sura simile a questa e chiamate \[a collaborare\] chi potrete all'infuori di Allah, se siete veritieri”.
 
 # 1403
 
@@ -5654,7 +5654,7 @@ Ogni comunità ha un messaggero. Dopo che il messaggero sarà venuto, verrà giu
 
 # 1412
 
-E dicono: “Quando [si realizzerà] questa promessa, se siete sinceri?”.
+E dicono: “Quando \[si realizzerà\] questa promessa, se siete sinceri?”.
 
 # 1413
 
@@ -5666,7 +5666,7 @@ Di': “Se il Suo castigo vi colpisse di notte o nella giornata, gli empi potreb
 
 # 1415
 
-Quando ciò avverrà, crederete? [Verrà detto loro:] “Solo ora [ci credete] mentre prima volevate affrettarlo?”.
+Quando ciò avverrà, crederete? \[Verrà detto loro:\] “Solo ora \[ci credete\] mentre prima volevate affrettarlo?”.
 
 # 1416
 
@@ -5674,7 +5674,7 @@ Poi verrà detto a coloro che sono stati ingiusti: “Gustate il castigo perpetu
 
 # 1417
 
-Ti chiederanno: “È vero?”. Di': “Sì, lo giuro [in Nome del] mio Signore, è la verità, e non potrete sottrarvi alla potenza di Allah”.
+Ti chiederanno: “È vero?”. Di': “Sì, lo giuro \[in Nome del\] mio Signore, è la verità, e non potrete sottrarvi alla potenza di Allah”.
 
 # 1418
 
@@ -5706,7 +5706,7 @@ Cosa penseranno, nel Giorno della Resurrezione, coloro che inventano menzogne co
 
 # 1425
 
-In qualunque situazione ti trovi, qualunque brano del Corano reciti e qualunque cosa facciate, Noi siamo testimoni al momento stesso in cui la fate. Al tuo Signore non sfugge neanche il peso di un atomo sulla terra o nel cielo; non c'è cosa alcuna, più piccola o più grande di ciò, che non sia [registrata] in un Libro esplicito.
+In qualunque situazione ti trovi, qualunque brano del Corano reciti e qualunque cosa facciate, Noi siamo testimoni al momento stesso in cui la fate. Al tuo Signore non sfugge neanche il peso di un atomo sulla terra o nel cielo; non c'è cosa alcuna, più piccola o più grande di ciò, che non sia \[registrata\] in un Libro esplicito.
 
 # 1426
 
@@ -5746,7 +5746,7 @@ avranno gioia effimera nella vita terrena, quindi ritorneranno a Noi e faremo gu
 
 # 1435
 
-Racconta loro la storia di Noè, quando disse al suo popolo: “O popol mio, se la mia presenza e il mio richiamo ai segni di Allah vi sono insopportabili, io mi affido ad Allah. Prendete le vostre decisioni insieme coi vostri consoci e non abbiate scrupoli [nei miei confronti]. Stabilite quello che volete fare di me, senza porre indugi.
+Racconta loro la storia di Noè, quando disse al suo popolo: “O popol mio, se la mia presenza e il mio richiamo ai segni di Allah vi sono insopportabili, io mi affido ad Allah. Prendete le vostre decisioni insieme coi vostri consoci e non abbiate scrupoli \[nei miei confronti\]. Stabilite quello che volete fare di me, senza porre indugi.
 
 # 1436
 
@@ -5758,7 +5758,7 @@ Lo trattarono da bugiardo. Noi lo salvammo, lui e coloro che erano nell'Arca con
 
 # 1438
 
-Dopo di lui, mandammo altri messaggeri ai loro popoli. Vennero loro con le prove, ma [la gente] non volle credere a ciò che, in principio, aveva tacciato di menzogna. Così suggelliamo i cuori dei trasgressori.
+Dopo di lui, mandammo altri messaggeri ai loro popoli. Vennero loro con le prove, ma \[la gente\] non volle credere a ciò che, in principio, aveva tacciato di menzogna. Così suggelliamo i cuori dei trasgressori.
 
 # 1439
 
@@ -5822,11 +5822,11 @@ Allah disse: “La vostra richiesta è esaudita. State saldi entrambi e non segu
 
 # 1454
 
-E facemmo attraversare il mare ai Figli di Israele. Faraone e le sue armate li inseguirono per accanimento e ostilità. Poi, quando fu sul punto di annegare, [Faraone] disse: “Credo che non c'è altro dio, all'infuori di Colui in cui credono i Figli di Israele e sono tra coloro che si sottomettono”.
+E facemmo attraversare il mare ai Figli di Israele. Faraone e le sue armate li inseguirono per accanimento e ostilità. Poi, quando fu sul punto di annegare, \[Faraone\] disse: “Credo che non c'è altro dio, all'infuori di Colui in cui credono i Figli di Israele e sono tra coloro che si sottomettono”.
 
 # 1455
 
-[Disse Allah]: “Ora ti penti, quando prima hai disobbedito ed eri uno dei corruttori?
+\[Disse Allah\]: “Ora ti penti, quando prima hai disobbedito ed eri uno dei corruttori?
 
 # 1456
 
@@ -5878,11 +5878,11 @@ Infine salveremo i Nostri messaggeri e coloro che credono. Salvare i credenti è
 
 # 1468
 
-Di': “O uomini! Se avete qualche dubbio sulla mia religione, [confermo che] io non adoro quello che voi adorate all'infuori di Allah, ma adoro Allah che vi farà morire. Mi è stato ordinato di essere uno di coloro che credono”.
+Di': “O uomini! Se avete qualche dubbio sulla mia religione, \[confermo che\] io non adoro quello che voi adorate all'infuori di Allah, ma adoro Allah che vi farà morire. Mi è stato ordinato di essere uno di coloro che credono”.
 
 # 1469
 
-E [mi è stato ordinato]: “Sii sincero nella religione, non essere un associatore,
+E \[mi è stato ordinato\]: “Sii sincero nella religione, non essere un associatore,
 
 # 1470
 
@@ -5902,7 +5902,7 @@ Segui ciò che ti è stato rivelato e sopporta con pazienza, finché Allah giudi
 
 # 1474
 
-Alif, Lâm, Râ. [Ecco un] Libro i cui segni sono stati confermati e quindi esplicati da un Saggio ben informato.
+Alif, Lâm, Râ. \[Ecco un\] Libro i cui segni sono stati confermati e quindi esplicati da un Saggio ben informato.
 
 # 1475
 
@@ -5910,7 +5910,7 @@ Alif, Lâm, Râ. [Ecco un] Libro i cui segni sono stati confermati e quindi espl
 
 # 1476
 
-Se chiedete perdono al vostro Signore e tornate a Lui pentiti, vi darà piena soddisfazione [in questa vita] fino al termine prescritto e darà ad ogni meritevole il merito suo. Se invece volgerete le spalle, temo per voi il castigo di un gran Giorno.
+Se chiedete perdono al vostro Signore e tornate a Lui pentiti, vi darà piena soddisfazione \[in questa vita\] fino al termine prescritto e darà ad ogni meritevole il merito suo. Se invece volgerete le spalle, temo per voi il castigo di un gran Giorno.
 
 # 1477
 
@@ -5918,15 +5918,15 @@ Ad Allah ritornerete. Egli è onnipotente.
 
 # 1478
 
-È per nascondersi a Lui, che si ripiegano su se stessi? Anche se cercano di nascondersi sotto i loro vestiti, Egli conosce quello che celano e quello che fanno apertamente! In verità, [Egli] conosce il profondo dei cuori.
+È per nascondersi a Lui, che si ripiegano su se stessi? Anche se cercano di nascondersi sotto i loro vestiti, Egli conosce quello che celano e quello che fanno apertamente! In verità, \[Egli\] conosce il profondo dei cuori.
 
 # 1479
 
-Non c'è animale sulla terra, cui Allah non provveda il cibo; Egli conosce la sua tana e il suo rifugio, poiché tutto [è scritto] nel Libro chiarissimo.
+Non c'è animale sulla terra, cui Allah non provveda il cibo; Egli conosce la sua tana e il suo rifugio, poiché tutto \[è scritto\] nel Libro chiarissimo.
 
 # 1480
 
-È Lui Che ha creato i cieli e la terra in sei giorni - allora [stava] sulle acque il Suo Trono -, per vagliare chi di voi agirà per il bene. E se dici: “Sarete resuscitati dopo la morte”, coloro che sono miscredenti certamente diranno: “Questa è magia evidente”.
+È Lui Che ha creato i cieli e la terra in sei giorni - allora \[stava\] sulle acque il Suo Trono -, per vagliare chi di voi agirà per il bene. E se dici: “Sarete resuscitati dopo la morte”, coloro che sono miscredenti certamente diranno: “Questa è magia evidente”.
 
 # 1481
 
@@ -5942,7 +5942,7 @@ Se gli facciamo gustare una grazia dopo la sventura, dirà certamente: “I mali
 
 # 1484
 
-[tutti si comportano così] eccetto coloro che perseverano e compiono il bene. Essi avranno perdono e mercede grande.
+\[tutti si comportano così\] eccetto coloro che perseverano e compiono il bene. Essi avranno perdono e mercede grande.
 
 # 1485
 
@@ -5950,15 +5950,15 @@ Forse, vorresti tralasciare una parte di ciò che ti è stato rivelato e forse, 
 
 # 1486
 
-Oppure diranno: “Lo ha inventato”. Di': “Portatemi dieci sure inventate [da voi] simili a questa: e chiamate chi potete, all'infuori di Allah, se siete sinceri”.
+Oppure diranno: “Lo ha inventato”. Di': “Portatemi dieci sure inventate \[da voi\] simili a questa: e chiamate chi potete, all'infuori di Allah, se siete sinceri”.
 
 # 1487
 
-E se non vi risponderanno, sappiate che [esso] è stato rivelato con la scienza di Allah e che non c'è dio all'infuori di Lui. Sarete musulmani?
+E se non vi risponderanno, sappiate che \[esso\] è stato rivelato con la scienza di Allah e che non c'è dio all'infuori di Lui. Sarete musulmani?
 
 # 1488
 
-Coloro che bramano gli agi della vita terrena, [sappiano che] in essa compenseremo le opere loro e nessuno sarà defraudato.
+Coloro che bramano gli agi della vita terrena, \[sappiano che\] in essa compenseremo le opere loro e nessuno sarà defraudato.
 
 # 1489
 
@@ -5966,7 +5966,7 @@ Per loro, nell'altra vita non ci sarà altro che il Fuoco e saranno vanificate l
 
 # 1490
 
-[Cosa dire allora di] colui che si basa su una prova proveniente dal suo Signore e che un testimone da Lui inviato [gli] recita? Prima di esso c'era stata la Scrittura di Mosè, guida e misericordia, alla quale essi credono! E quelli delle fazioni che non ci credono, si incontreranno nel Fuoco. Non essere in dubbio al riguardo. È la verità che proviene dal tuo Signore, ma la maggior parte della gente non crede.
+\[Cosa dire allora di\] colui che si basa su una prova proveniente dal suo Signore e che un testimone da Lui inviato \[gli\] recita? Prima di esso c'era stata la Scrittura di Mosè, guida e misericordia, alla quale essi credono! E quelli delle fazioni che non ci credono, si incontreranno nel Fuoco. Non essere in dubbio al riguardo. È la verità che proviene dal tuo Signore, ma la maggior parte della gente non crede.
 
 # 1491
 
@@ -6022,7 +6022,7 @@ O popol mio, chi mi verrà in soccorso contro Allah, se li scacciassi? Non rifle
 
 # 1504
 
-Non vi dico di possedere i tesori di Allah, non conosco l'invisibile e neanche dico di essere un angelo. Non dico a coloro che i vostri occhi disprezzano, che mai Allah concederà loro il bene. Allah conosce quello che c'è nelle loro anime. [Se dicessi ciò] certo sarei un ingiusto!”.
+Non vi dico di possedere i tesori di Allah, non conosco l'invisibile e neanche dico di essere un angelo. Non dico a coloro che i vostri occhi disprezzano, che mai Allah concederà loro il bene. Allah conosce quello che c'è nelle loro anime. \[Se dicessi ciò\] certo sarei un ingiusto!”.
 
 # 1505
 
@@ -6058,23 +6058,23 @@ E ben presto saprete su chi si abbatterà un castigo ignominioso, su chi verrà 
 
 # 1513
 
-Quando giunse il Nostro Decreto e il forno buttò fuori, dicemmo: “Fai salire una coppia per ogni specie e la tua famiglia, eccetto colui del quale è già stata decisa la sorte, e coloro che credono”. [“il forno buttò fuori”: il “forno” viene per lo più inteso come un riferimento alla superficie terrestre, e sembra voler dare l'idea che non si trattò di pioggia diluviale, ma di una catastrofe provocata dalla fuoriuscita di acque dalle profondità della terra] Coloro che avevano creduto insieme con lui, erano veramente pochi.
+Quando giunse il Nostro Decreto e il forno buttò fuori, dicemmo: “Fai salire una coppia per ogni specie e la tua famiglia, eccetto colui del quale è già stata decisa la sorte, e coloro che credono”. \[“il forno buttò fuori”: il “forno” viene per lo più inteso come un riferimento alla superficie terrestre, e sembra voler dare l'idea che non si trattò di pioggia diluviale, ma di una catastrofe provocata dalla fuoriuscita di acque dalle profondità della terra\] Coloro che avevano creduto insieme con lui, erano veramente pochi.
 
 # 1514
 
-Disse allora [Noè]: “Salite, il viaggio e l'ormeggio sono in nome di Allah. In verità il mio Signore è perdonatore misericordioso”.
+Disse allora \[Noè\]: “Salite, il viaggio e l'ormeggio sono in nome di Allah. In verità il mio Signore è perdonatore misericordioso”.
 
 # 1515
 
-[E l'Arca] navigò, portandoli tra onde [alte] come montagne. Noè chiamò suo figlio, che era rimasto in disparte: “Figlio mio, sali insieme con noi, non rimanere con i miscredenti”.
+\[E l'Arca\] navigò, portandoli tra onde \[alte\] come montagne. Noè chiamò suo figlio, che era rimasto in disparte: “Figlio mio, sali insieme con noi, non rimanere con i miscredenti”.
 
 # 1516
 
-Rispose: “Mi rifugerò su un monte che mi proteggerà dall'acqua”. Disse [Noè]: “Oggi non c'è nessun riparo contro il decreto di Allah, eccetto [per] colui che gode della [Sua] misericordia”. Si frapposero le onde tra i due e fu tra gli annegati.
+Rispose: “Mi rifugerò su un monte che mi proteggerà dall'acqua”. Disse \[Noè\]: “Oggi non c'è nessun riparo contro il decreto di Allah, eccetto \[per\] colui che gode della \[Sua\] misericordia”. Si frapposero le onde tra i due e fu tra gli annegati.
 
 # 1517
 
-E fu detto: “O terra, inghiotti le tue acque; o cielo, cessa!”. Fu risucchiata l'acqua, il decreto fu compiuto e quando [l'Arca] si posò sul [monte] al-Jûdî, fu detto: “Scompaiano gli empi!”.
+E fu detto: “O terra, inghiotti le tue acque; o cielo, cessa!”. Fu risucchiata l'acqua, il decreto fu compiuto e quando \[l'Arca\] si posò sul \[monte\] al-Jûdî, fu detto: “Scompaiano gli empi!”.
 
 # 1518
 
@@ -6082,7 +6082,7 @@ Noè invocò il suo Signore dicendo: “Signore, mio figlio appartiene alla mia 
 
 # 1519
 
-Disse [Allah]: “O Noè, egli non fa parte della tua famiglia, è [frutto di] qualcosa di empio. Non domandarmi cose di cui non hai alcuna scienza. Ti ammonisco, affinché tu non sia tra coloro che ignorano”.
+Disse \[Allah\]: “O Noè, egli non fa parte della tua famiglia, è \[frutto di\] qualcosa di empio. Non domandarmi cose di cui non hai alcuna scienza. Ti ammonisco, affinché tu non sia tra coloro che ignorano”.
 
 # 1520
 
@@ -6090,15 +6090,15 @@ Disse: “Mi rifugio in Te, o Signore, dal chiederti cose sulle quali non ho sci
 
 # 1521
 
-Fu detto: “O Noè, sbarca con la Nostra pace, e siate benedetti tu e le comunità [che discenderanno] da coloro che sono con te. [Anche] ad altre comunità concederemo gioia effimera e poi verrà loro, da parte Nostra, un doloroso castigo.
+Fu detto: “O Noè, sbarca con la Nostra pace, e siate benedetti tu e le comunità \[che discenderanno\] da coloro che sono con te. \[Anche\] ad altre comunità concederemo gioia effimera e poi verrà loro, da parte Nostra, un doloroso castigo.
 
 # 1522
 
-Questa è una delle notizie dell'ignoto, che ti riveliamo. Tu non le conoscevi e neppure il tuo popolo prima di ora. Sopporta dunque con pazienza. In verità, i timorati [di Allah] avranno il buon esito”.
+Questa è una delle notizie dell'ignoto, che ti riveliamo. Tu non le conoscevi e neppure il tuo popolo prima di ora. Sopporta dunque con pazienza. In verità, i timorati \[di Allah\] avranno il buon esito”.
 
 # 1523
 
-Agli Âd [mandammo] il loro fratello Hûd. Disse: “O popol mio, adorate Allah, non c'è dio all'infuori di Lui. Voi siete degli inventori di menzogne.
+Agli Âd \[mandammo\] il loro fratello Hûd. Disse: “O popol mio, adorate Allah, non c'è dio all'infuori di Lui. Voi siete degli inventori di menzogne.
 
 # 1524
 
@@ -6126,7 +6126,7 @@ Invero, io confido in Allah, mio Signore e vostro Signore. Non c'è creatura che
 
 # 1530
 
-[Anche] se volgerete le spalle, io vi ho comunicato quello per cui vi sono stato inviato. Il mio Signore sostituirà il vostro popolo con un altro, mentre voi non potrete nuocerGli in nulla. In verità, il mio Signore è il Custode di tutte le cose.
+\[Anche\] se volgerete le spalle, io vi ho comunicato quello per cui vi sono stato inviato. Il mio Signore sostituirà il vostro popolo con un altro, mentre voi non potrete nuocerGli in nulla. In verità, il mio Signore è il Custode di tutte le cose.
 
 # 1531
 
@@ -6142,11 +6142,11 @@ Furono perseguitati da una maledizione in questo mondo e nel Giorno della Resurr
 
 # 1534
 
-E [mandammo] ai Thamûd, il loro fratello Sâlih. Disse loro: “O popol mio, adorate Allah. Non c'è dio all'infuori di Lui. Vi creò dalla terra e ha fatto sì che la colonizzaste. Implorate il Suo perdono e tornate a Lui. Il mio Signore è vicino e pronto a rispondere”.
+E \[mandammo\] ai Thamûd, il loro fratello Sâlih. Disse loro: “O popol mio, adorate Allah. Non c'è dio all'infuori di Lui. Vi creò dalla terra e ha fatto sì che la colonizzaste. Implorate il Suo perdono e tornate a Lui. Il mio Signore è vicino e pronto a rispondere”.
 
 # 1535
 
-Dissero: “O Sâlih, finora avevamo grandi speranze su di te. [Ora] ci vorresti interdire l'adorazione di quel che adoravano i padri nostri? Ecco che siamo in dubbio in merito a ciò verso cui ci chiami!”.
+Dissero: “O Sâlih, finora avevamo grandi speranze su di te. \[Ora\] ci vorresti interdire l'adorazione di quel che adoravano i padri nostri? Ecco che siamo in dubbio in merito a ciò verso cui ci chiami!”.
 
 # 1536
 
@@ -6158,7 +6158,7 @@ O popol mio, ecco la cammella di Allah, un segno per voi. Lasciatela pascolare s
 
 # 1538
 
-Le tagliarono i garretti. Disse: “Godetevi le vostre dimore [ancora per] tre giorni, ecco una promessa non mendace!”.
+Le tagliarono i garretti. Disse: “Godetevi le vostre dimore \[ancora per\] tre giorni, ecco una promessa non mendace!”.
 
 # 1539
 
@@ -6194,7 +6194,7 @@ Dissero: “Ti stupisci dell'ordine di Allah? La misericordia di Allah e le Sue 
 
 # 1547
 
-Quando Abramo fu rassicurato e apprese la lieta novella, cercò di disputare con Noi, [a favore] del popolo di Lot.
+Quando Abramo fu rassicurato e apprese la lieta novella, cercò di disputare con Noi, \[a favore\] del popolo di Lot.
 
 # 1548
 
@@ -6210,7 +6210,7 @@ E quando i Nostri angeli si recarono da Lot, egli ne ebbe pena e si rammaricò d
 
 # 1551
 
-La gente del suo popolo andò da lui tutta eccitata. Già avevano commesso azioni empie. Disse [loro]: “O popol mio, ecco le mie figlie, sono più pure per voi. Temete Allah e non svergognatemi davanti ai miei ospiti. Non c'è, fra voi, un uomo di coscienza?”.
+La gente del suo popolo andò da lui tutta eccitata. Già avevano commesso azioni empie. Disse \[loro\]: “O popol mio, ecco le mie figlie, sono più pure per voi. Temete Allah e non svergognatemi davanti ai miei ospiti. Non c'è, fra voi, un uomo di coscienza?”.
 
 # 1552
 
@@ -6222,7 +6222,7 @@ Disse: “Se potessi disporre di forza contro di voi, se solo potessi trovare sa
 
 # 1554
 
-[Gli angeli] dissero: “O Lot, noi siamo i messaggeri del tuo Signore. Costoro non potranno toccarti. Fa' partire la tua gente sul finire della notte, e nessuno di voi guardi indietro (eccetto tua moglie, ché in verità, ciò che accadrà a loro, accadrà anche a lei).nIn verità, la scadenza è l'alba; non è forse vicina l'alba?”.
+\[Gli angeli\] dissero: “O Lot, noi siamo i messaggeri del tuo Signore. Costoro non potranno toccarti. Fa' partire la tua gente sul finire della notte, e nessuno di voi guardi indietro (eccetto tua moglie, ché in verità, ciò che accadrà a loro, accadrà anche a lei).nIn verità, la scadenza è l'alba; non è forse vicina l'alba?”.
 
 # 1555
 
@@ -6234,11 +6234,11 @@ contrassegnate dal tuo Signore. Ed esse non son mai lontane dagli iniqui!
 
 # 1557
 
-E ai Madianiti [mandammo] il loro fratello Shuayb. Disse: “O popol mio, adorate Allah. Non avete altro dio, all'infuori di Lui. Non truffate sul peso e sulla misura. Vi vedo in agiatezza, ma temo per voi il castigo di un Giorno che avvolgerà.
+E ai Madianiti \[mandammo\] il loro fratello Shuayb. Disse: “O popol mio, adorate Allah. Non avete altro dio, all'infuori di Lui. Non truffate sul peso e sulla misura. Vi vedo in agiatezza, ma temo per voi il castigo di un Giorno che avvolgerà.
 
 # 1558
 
-O popol mio, riempite la misura e [date] il peso con esattezza, non defraudate la gente dei loro beni e non spargete disordine sulla terra, da corruttori.
+O popol mio, riempite la misura e \[date\] il peso con esattezza, non defraudate la gente dei loro beni e non spargete disordine sulla terra, da corruttori.
 
 # 1559
 
@@ -6254,7 +6254,7 @@ Disse: “O popol mio, cosa pensate se mi baso su una prova evidente giuntami da
 
 # 1562
 
-O popol mio, non vi spinga nell'abiezione il contrasto con me, [al punto che] vi colpisca ciò che colpì il popolo di Noè, la gente di Hûd e il popolo di Salih; il popolo di Lot non è lontano da voi.
+O popol mio, non vi spinga nell'abiezione il contrasto con me, \[al punto che\] vi colpisca ciò che colpì il popolo di Noè, la gente di Hûd e il popolo di Salih; il popolo di Lot non è lontano da voi.
 
 # 1563
 
@@ -6266,11 +6266,11 @@ Dissero: “O Shuayb, non capiamo molto di quello che dici e invero ti consideri
 
 # 1565
 
-Disse: “O popol mio, il mio clan vi sembra più potente di Allah, al Quale voltate apertamente le spalle? In verità, il mio Signore abbraccia [nella Sua scienza] tutto quello che fate.
+Disse: “O popol mio, il mio clan vi sembra più potente di Allah, al Quale voltate apertamente le spalle? In verità, il mio Signore abbraccia \[nella Sua scienza\] tutto quello che fate.
 
 # 1566
 
-O popol mio, fa' [pure] quello che vuoi, ché anch'io lo farò: ben presto saprete chi sarà precipitato nel castigo abominevole, chi sarà [stato] il mendace. Aspettate! Ché anch'io aspetterò insieme con voi”.
+O popol mio, fa' \[pure\] quello che vuoi, ché anch'io lo farò: ben presto saprete chi sarà precipitato nel castigo abominevole, chi sarà \[stato\] il mendace. Aspettate! Ché anch'io aspetterò insieme con voi”.
 
 # 1567
 
@@ -6350,7 +6350,7 @@ Sii dunque retto come ti è stato ordinato, tu e coloro che si sono convertiti i
 
 # 1586
 
-Non cercate il sostegno degli ingiusti: [in tal caso] il Fuoco vi colpirebbe, non avrete alcun alleato contro Allah e non sarete soccorsi.
+Non cercate il sostegno degli ingiusti: \[in tal caso\] il Fuoco vi colpirebbe, non avrete alcun alleato contro Allah e non sarete soccorsi.
 
 # 1587
 
@@ -6378,7 +6378,7 @@ eccetto coloro ai quali il tuo Signore ha concesso la Sua misericordia. Per ques
 
 # 1593
 
-Ti raccontiamo tutte queste storie sui messaggeri, affinché il tuo cuore si rafforzi. In questa [sura] ti è giunta la verità insieme con un ammonimento ed un monito per i credenti.
+Ti raccontiamo tutte queste storie sui messaggeri, affinché il tuo cuore si rafforzi. In questa \[sura\] ti è giunta la verità insieme con un ammonimento ed un monito per i credenti.
 
 # 1594
 
@@ -6406,7 +6406,7 @@ Grazie a ciò che ti ispiriamo in questo Corano, Noi ti raccontiamo la più bell
 
 # 1600
 
-Quando Giuseppe disse a suo padre: “O padre mio, ho visto [in sogno] undici stelle, il sole e la luna. Li ho visti prosternarsi davanti a me”,
+Quando Giuseppe disse a suo padre: “O padre mio, ho visto \[in sogno\] undici stelle, il sole e la luna. Li ho visti prosternarsi davanti a me”,
 
 # 1601
 
@@ -6422,7 +6422,7 @@ Certamente, in Giuseppe e nei suoi fratelli ci sono segni per coloro che interro
 
 # 1604
 
-Quando [essi] dissero: “Giuseppe e suo fratello sono più cari a nostro padre, anche se noi siamo un gruppo capace. Invero, nostro padre è in palese errore.
+Quando \[essi\] dissero: “Giuseppe e suo fratello sono più cari a nostro padre, anche se noi siamo un gruppo capace. Invero, nostro padre è in palese errore.
 
 # 1605
 
@@ -6442,7 +6442,7 @@ Lascia che venga con noi, domani, a divertirsi e a giocare; veglieremo su di lui
 
 # 1609
 
-Disse: “Mi rattrista che lo conduciate [con voi]; temo che il lupo lo divori, mentre non badate a lui”.
+Disse: “Mi rattrista che lo conduciate \[con voi\]; temo che il lupo lo divori, mentre non badate a lui”.
 
 # 1610
 
@@ -6462,7 +6462,7 @@ Dissero: “Abbiamo fatto una gara di corsa, abbiamo lasciato Giuseppe a guardia
 
 # 1614
 
-Gli presentarono la sua camicia, macchiata di un sangue che non era il suo. Disse [Giacobbe]: “I vostri animi vi hanno suggerito un misfatto. Bella pazienza... mi rivolgo ad Allah, contro quello che raccontate”.
+Gli presentarono la sua camicia, macchiata di un sangue che non era il suo. Disse \[Giacobbe\]: “I vostri animi vi hanno suggerito un misfatto. Bella pazienza... mi rivolgo ad Allah, contro quello che raccontate”.
 
 # 1615
 
@@ -6490,11 +6490,11 @@ Certamente ella lo desiderava ed egli l'avrebbe respinta con violenza, se non av
 
 # 1621
 
-Entrambi corsero verso la porta, [lei] gli strappò la camicia da dietro. Alla porta incontrarono il marito di lei. Disse [la donna]: “Cosa merita colui che ha voluto male a tua moglie? Nient'altro che la prigione o un doloroso castigo!”.
+Entrambi corsero verso la porta, \[lei\] gli strappò la camicia da dietro. Alla porta incontrarono il marito di lei. Disse \[la donna\]: “Cosa merita colui che ha voluto male a tua moglie? Nient'altro che la prigione o un doloroso castigo!”.
 
 # 1622
 
-Disse [Giuseppe]: “È lei che voleva sedurmi”. Un testimone della famiglia di lei intervenne: “Se la camicia è strappata davanti, è lei che dice la verità e lui è un mentitore;
+Disse \[Giuseppe\]: “È lei che voleva sedurmi”. Un testimone della famiglia di lei intervenne: “Se la camicia è strappata davanti, è lei che dice la verità e lui è un mentitore;
 
 # 1623
 
@@ -6502,11 +6502,11 @@ se invece la camicia è strappata sul dietro, ella mente ed egli dice la verità
 
 # 1624
 
-Vista la camicia che era strappata sul dietro, disse: “È certamente un'astuzia di femmine! La vostra astuzia [o donne] è davvero grande!
+Vista la camicia che era strappata sul dietro, disse: “È certamente un'astuzia di femmine! La vostra astuzia \[o donne\] è davvero grande!
 
 # 1625
 
-Vai pure, Giuseppe. E [tu donna], implora perdono per la tua colpa, ché in verità sei colpevole!”.
+Vai pure, Giuseppe. E \[tu donna\], implora perdono per la tua colpa, ché in verità sei colpevole!”.
 
 # 1626
 
@@ -6514,7 +6514,7 @@ Le donne in città malignavano: “La moglie del principe ha cercato di sedurre 
 
 # 1627
 
-Avendo sentito i loro discorsi, inviò loro qualcuno e preparò i cuscini [giunte che furono], diede a ciascuna un coltello quindi disse [a Giuseppe]: “Entra al loro cospetto”. Quando lo videro, lo trovarono talmente bello, che si tagliuzzarono le mani dicendo: “Che Allah ci protegga! Questo non è un essere umano, ma un angelo nobilissimo!”.
+Avendo sentito i loro discorsi, inviò loro qualcuno e preparò i cuscini \[giunte che furono\], diede a ciascuna un coltello quindi disse \[a Giuseppe\]: “Entra al loro cospetto”. Quando lo videro, lo trovarono talmente bello, che si tagliuzzarono le mani dicendo: “Che Allah ci protegga! Questo non è un essere umano, ma un angelo nobilissimo!”.
 
 # 1628
 
@@ -6522,7 +6522,7 @@ Disse: “Questi è colui per il quale mi avete biasimato. Ho cercato di sedurlo
 
 # 1629
 
-Disse: “O mio Signore, preferisco la prigione a ciò cui mi invitano; ma se Tu non allontani da me le loro arti, cederò loro e sarò uno di quelli che disconoscono [la Tua legge]”.
+Disse: “O mio Signore, preferisco la prigione a ciò cui mi invitano; ma se Tu non allontani da me le loro arti, cederò loro e sarò uno di quelli che disconoscono \[la Tua legge\]”.
 
 # 1630
 
@@ -6530,15 +6530,15 @@ Lo esaudì il suo Signore e allontanò da lui le loro arti. In verità Egli è C
 
 # 1631
 
-E così, nonostante avessero avuto le prove, credettero [fosse bene] imprigionarlo per un certo periodo.
+E così, nonostante avessero avuto le prove, credettero \[fosse bene\] imprigionarlo per un certo periodo.
 
 # 1632
 
-Insieme con lui, entrarono in prigione due giovani. Uno di loro disse: “Mi sono visto [in sogno] mentre schiacciavo dell'uva...”. Disse l'altro: “Mi sono visto mentre portavo sulla testa del pane e gli uccelli ne mangiavano. Dacci l'interpretazione di tutto ciò. Invero, vediamo che sei uno di coloro che compiono il bene”.
+Insieme con lui, entrarono in prigione due giovani. Uno di loro disse: “Mi sono visto \[in sogno\] mentre schiacciavo dell'uva...”. Disse l'altro: “Mi sono visto mentre portavo sulla testa del pane e gli uccelli ne mangiavano. Dacci l'interpretazione di tutto ciò. Invero, vediamo che sei uno di coloro che compiono il bene”.
 
 # 1633
 
-[Rispose Giuseppe]: “Non vi sarà distribuito cibo prima che vi abbia reso edotti sulla loro interpretazione. Ciò è parte di quel che il mio Signore mi ha insegnato. In verità, ho abbandonato la religione di un popolo che non crede in Allah e disconosce l'altra vita
+\[Rispose Giuseppe\]: “Non vi sarà distribuito cibo prima che vi abbia reso edotti sulla loro interpretazione. Ciò è parte di quel che il mio Signore mi ha insegnato. In verità, ho abbandonato la religione di un popolo che non crede in Allah e disconosce l'altra vita
 
 # 1634
 
@@ -6562,7 +6562,7 @@ E disse a quello dei due che, a suo avviso, si sarebbe salvato: “Ricordami pre
 
 # 1639
 
-Disse il re: “Invero, vidi [in sogno] sette vacche grasse che sette vacche magre divoravano, e sette spighe verdi e sette altre secche. O notabili, interpretatemi la mia visione, se siete capaci di interpretare i sogni!”.
+Disse il re: “Invero, vidi \[in sogno\] sette vacche grasse che sette vacche magre divoravano, e sette spighe verdi e sette altre secche. O notabili, interpretatemi la mia visione, se siete capaci di interpretare i sogni!”.
 
 # 1640
 
@@ -6574,7 +6574,7 @@ Quello dei due che era stato liberato, si ricordò infine di lui ed esclamò: �
 
 # 1642
 
-[Disse]: “O Giuseppe, o veridico, spiegaci [il significato] di sette vacche grasse che sette magre divorano, e di sette spighe verdi e di sette altre secche. Ché io possa tornare a quella gente, ed essi possano sapere”.
+\[Disse\]: “O Giuseppe, o veridico, spiegaci \[il significato\] di sette vacche grasse che sette magre divorano, e di sette spighe verdi e di sette altre secche. Ché io possa tornare a quella gente, ed essi possano sapere”.
 
 # 1643
 
@@ -6590,19 +6590,19 @@ Dopo di ciò verrà un'annata in cui gli uomini saranno soccorsi e andranno al f
 
 # 1646
 
-Disse il re: “Conducetemelo”. Quando giunse il messaggero [Giuseppe] disse: “Ritorna presso il tuo signore e chiedigli: "Cosa volevano le donne che si tagliuzzarono le mani?". Invero, il mio Signore ben conosce le loro astuzie”.
+Disse il re: “Conducetemelo”. Quando giunse il messaggero \[Giuseppe\] disse: “Ritorna presso il tuo signore e chiedigli: "Cosa volevano le donne che si tagliuzzarono le mani?". Invero, il mio Signore ben conosce le loro astuzie”.
 
 # 1647
 
-Chiese allora [il re alle donne]: “Qual era la vostra intenzione quando volevate sedurre Giuseppe?”. Risposero: “Allah, ce ne guardi! Non conosciamo male alcuno a suo riguardo”. La moglie del principe disse: “Ormai la verità è manifesta: ero io che cercavo di sedurlo. In verità, egli è uno di coloro che dicono il vero”.
+Chiese allora \[il re alle donne\]: “Qual era la vostra intenzione quando volevate sedurre Giuseppe?”. Risposero: “Allah, ce ne guardi! Non conosciamo male alcuno a suo riguardo”. La moglie del principe disse: “Ormai la verità è manifesta: ero io che cercavo di sedurlo. In verità, egli è uno di coloro che dicono il vero”.
 
 # 1648
 
-[Disse Giuseppe]: “[Ho sollecitato] questa [inchiesta], affinché il mio padrone sappia che non l' ho tradito in segreto, ché in verità Allah non guida le astuzie dei traditori.
+\[Disse Giuseppe\]: “\[Ho sollecitato\] questa \[inchiesta\], affinché il mio padrone sappia che non l' ho tradito in segreto, ché in verità Allah non guida le astuzie dei traditori.
 
 # 1649
 
-Non voglio assolvere me stesso! In verità, l'anima è propensa al male, a meno che il mio Signore per la misericordia [non la preservi dal peccato]. In verità, il mio Signore è perdonatore, misericordioso”.
+Non voglio assolvere me stesso! In verità, l'anima è propensa al male, a meno che il mio Signore per la misericordia \[non la preservi dal peccato\]. In verità, il mio Signore è perdonatore, misericordioso”.
 
 # 1650
 
@@ -6618,7 +6618,7 @@ Così demmo a Giuseppe autorità su quella terra e dimorava dove voleva. Facciam
 
 # 1653
 
-E il compenso dell'altra vita è migliore per coloro che credono e hanno timor [di Allah].
+E il compenso dell'altra vita è migliore per coloro che credono e hanno timor \[di Allah\].
 
 # 1654
 
@@ -6638,7 +6638,7 @@ Dissero: “Cercheremo di convincere suo padre e certamente ci riusciremo”.
 
 # 1658
 
-Disse [poi] ai suoi garzoni: “Nascondete le loro merci nei loro bagagli, ché le riconoscano quando saranno giunti presso la loro gente e forse ritorneranno”.
+Disse \[poi\] ai suoi garzoni: “Nascondete le loro merci nei loro bagagli, ché le riconoscano quando saranno giunti presso la loro gente e forse ritorneranno”.
 
 # 1659
 
@@ -6654,7 +6654,7 @@ Quando poi disfecero i bagagli, scoprirono che gli erano state rese le loro merc
 
 # 1662
 
-Disse [Giacobbe]: “Non lo manderò con voi, finché non giurerete su Allah che me lo riporterete, a meno che non siate del tutto sopraffatti”. Poi, dopo che ebbero giurato, disse loro: “Allah è il garante di quello che abbiamo detto”.
+Disse \[Giacobbe\]: “Non lo manderò con voi, finché non giurerete su Allah che me lo riporterete, a meno che non siate del tutto sopraffatti”. Poi, dopo che ebbero giurato, disse loro: “Allah è il garante di quello che abbiamo detto”.
 
 # 1663
 
@@ -6666,7 +6666,7 @@ Pur essendo entrati nel modo che loro padre aveva raccomandato, ciò non li avre
 
 # 1665
 
-E quando furono introdotti da Giuseppe, questi trasse in disparte suo fratello [Beniamino] e gli disse: “Io sono tuo fratello, non essere dunque triste per quello che mi hanno fatto”.
+E quando furono introdotti da Giuseppe, questi trasse in disparte suo fratello \[Beniamino\] e gli disse: “Io sono tuo fratello, non essere dunque triste per quello che mi hanno fatto”.
 
 # 1666
 
@@ -6686,7 +6686,7 @@ Dissero: “Per Allah, sapete bene che non siamo venuti a spargere la corruzione
 
 # 1670
 
-“Quale sarà la sanzione se mentite?”, dissero [gli Egiziani].
+“Quale sarà la sanzione se mentite?”, dissero \[gli Egiziani\].
 
 # 1671
 
@@ -6694,11 +6694,11 @@ Risposero: “Il riscatto? Colui nei cui bagagli troverete la coppa, sarà egli 
 
 # 1672
 
-[Giuseppe] iniziò dai sacchi degli altri prima che da quello di suo fratello, e infine la trasse dai bagagli di quest'ultimo. Suggerimmo Noi quest'astuzia a Giuseppe, ché altrimenti non avrebbe potuto trattenere suo fratello nel rispetto della legge del re, a meno che Allah non l'avesse voluto. Eleviamo il rango di chi vogliamo, e sopra ogni sapiente c'è l'Onnisciente.
+\[Giuseppe\] iniziò dai sacchi degli altri prima che da quello di suo fratello, e infine la trasse dai bagagli di quest'ultimo. Suggerimmo Noi quest'astuzia a Giuseppe, ché altrimenti non avrebbe potuto trattenere suo fratello nel rispetto della legge del re, a meno che Allah non l'avesse voluto. Eleviamo il rango di chi vogliamo, e sopra ogni sapiente c'è l'Onnisciente.
 
 # 1673
 
-Disse: “Se ha rubato, già uno dei suoi fratelli aveva rubato”. Giuseppe nascose [il sentimento] nel suo cuore, senza mostrare loro nulla. Disse: “Invero, la vostra situazione è peggiore, e Allah sa cosa affermate!”.
+Disse: “Se ha rubato, già uno dei suoi fratelli aveva rubato”. Giuseppe nascose \[il sentimento\] nel suo cuore, senza mostrare loro nulla. Disse: “Invero, la vostra situazione è peggiore, e Allah sa cosa affermate!”.
 
 # 1674
 
@@ -6710,7 +6710,7 @@ Disse: “Ci guardi Allah, dal prendere altri che colui presso il quale abbiamo 
 
 # 1676
 
-Quando persero la speranza [di riaverlo], discussero [tra loro] in segreto. Disse il maggiore: “Non ricordate, che vostro padre vi chiese di giurare davanti ad Allah? E come, già una volta, mancaste nei confronti di Giuseppe? Non lascerò questo territorio, senza che mio padre me ne dia il permesso o [senza] che Allah abbia giudicato in mio favore. Egli è il migliore dei giudici.
+Quando persero la speranza \[di riaverlo\], discussero \[tra loro\] in segreto. Disse il maggiore: “Non ricordate, che vostro padre vi chiese di giurare davanti ad Allah? E come, già una volta, mancaste nei confronti di Giuseppe? Non lascerò questo territorio, senza che mio padre me ne dia il permesso o \[senza\] che Allah abbia giudicato in mio favore. Egli è il migliore dei giudici.
 
 # 1677
 
@@ -6718,11 +6718,11 @@ Tornate dal padre vostro e ditegli: “O padre, tuo figlio ha rubato. Non abbiam
 
 # 1678
 
-Chiedi pure [agli abitanti della] città e a quelli della carovana con la quale siamo tornati. Davvero siamo sinceri!”.
+Chiedi pure \[agli abitanti della\] città e a quelli della carovana con la quale siamo tornati. Davvero siamo sinceri!”.
 
 # 1679
 
-Disse [Giacobbe]: “Sono piuttosto le vostre passioni che vi hanno ispirato qualcosa. Bella pazienza! Chissà che Allah, me li restituisca tutti quanti! In verità, Egli è il Sapiente, il Saggio”.
+Disse \[Giacobbe\]: “Sono piuttosto le vostre passioni che vi hanno ispirato qualcosa. Bella pazienza! Chissà che Allah, me li restituisca tutti quanti! In verità, Egli è il Sapiente, il Saggio”.
 
 # 1680
 
@@ -6742,7 +6742,7 @@ Andate figli miei, cercate Giuseppe e suo fratello e non disperate del soccorso 
 
 # 1684
 
-Quando poi entrarono [ancora una volta] al cospetto di lui, dissero: “O principe, ci ha colpiti la disgrazia, noi e la nostra famiglia. Abbiamo recato merce di scarso valore. Riempici comunque la misura e facci la carità, ché Allah compensa i caritatevoli”.
+Quando poi entrarono \[ancora una volta\] al cospetto di lui, dissero: “O principe, ci ha colpiti la disgrazia, noi e la nostra famiglia. Abbiamo recato merce di scarso valore. Riempici comunque la misura e facci la carità, ché Allah compensa i caritatevoli”.
 
 # 1685
 
@@ -6750,7 +6750,7 @@ Rispose: “Non ricordate quello che faceste a Giuseppe e a suo fratello nella v
 
 # 1686
 
-Dissero: “Sei tu proprio, Giuseppe?”. Disse: “Io sono Giuseppe e questi è mio fratello. In verità Allah ci ha colmato di favori! Chi è timorato e paziente, [sappia che] in verità, Allah non trascura di compensare chi fa il bene”.
+Dissero: “Sei tu proprio, Giuseppe?”. Disse: “Io sono Giuseppe e questi è mio fratello. In verità Allah ci ha colmato di favori! Chi è timorato e paziente, \[sappia che\] in verità, Allah non trascura di compensare chi fa il bene”.
 
 # 1687
 
@@ -6774,7 +6774,7 @@ Gli risposero: “Per Allah, sei ancora in preda alla tua vecchia fissazione”.
 
 # 1692
 
-Quando giunse il latore della buona novella, pose la camicia sul volto di [Giacobbe]. Egli riacquistò la vista e disse: “Non vi avevo appunto detto che grazie ad Allah, conosco cose che voi non sapete?”.
+Quando giunse il latore della buona novella, pose la camicia sul volto di \[Giacobbe\]. Egli riacquistò la vista e disse: “Non vi avevo appunto detto che grazie ad Allah, conosco cose che voi non sapete?”.
 
 # 1693
 
@@ -6790,7 +6790,7 @@ Quando furono introdotti alla presenza di Giuseppe, questi accolse il padre e la
 
 # 1696
 
-Fece salire i suoi genitori sul suo trono e [tutti] caddero in prosternazione. Disse: “O padre, ecco il significato del mio sogno di un tempo. Il mio Signore lo ha avverato. Egli è stato buono con me quando mi ha tratto dalla prigione, e vi ha condotti qui dal deserto, dopo che Satana si era intromesso tra me e i miei fratelli. In verità, il mio Signore è dolcissimo in quello che vuole, Egli è il Sapiente, il Saggio.
+Fece salire i suoi genitori sul suo trono e \[tutti\] caddero in prosternazione. Disse: “O padre, ecco il significato del mio sogno di un tempo. Il mio Signore lo ha avverato. Egli è stato buono con me quando mi ha tratto dalla prigione, e vi ha condotti qui dal deserto, dopo che Satana si era intromesso tra me e i miei fratelli. In verità, il mio Signore è dolcissimo in quello che vuole, Egli è il Sapiente, il Saggio.
 
 # 1697
 
@@ -6806,7 +6806,7 @@ La maggior parte degli uomini non crederanno, nonostante il tuo ardente desideri
 
 # 1700
 
-Eppure non chiedi loro alcun compenso. [Questo Corano] non è che un monito per i mondi.
+Eppure non chiedi loro alcun compenso. \[Questo Corano\] non è che un monito per i mondi.
 
 # 1701
 
@@ -6826,7 +6826,7 @@ Di': “Ecco la mia via: invito ad Allah in tutta chiarezza, io stesso e coloro 
 
 # 1705
 
-Non inviammo prima di te, altro che uomini abitanti delle città e che Noi ispirammo. Non viaggiano forse sulla terra e non vedono quale è stata la fine di coloro che furono prima di loro? Certo la dimora dell'altra vita è migliore per quelli che temono [Allah]. Non capite dunque?
+Non inviammo prima di te, altro che uomini abitanti delle città e che Noi ispirammo. Non viaggiano forse sulla terra e non vedono quale è stata la fine di coloro che furono prima di loro? Certo la dimora dell'altra vita è migliore per quelli che temono \[Allah\]. Non capite dunque?
 
 # 1706
 
@@ -6834,7 +6834,7 @@ Quando poi i messaggeri stavano per perdere la speranza, ritenendo che sarebbero
 
 # 1707
 
-Nelle loro storie c'è una lezione per coloro che hanno intelletto. Questo [Corano] non è certo un discorso inventato, ma è la conferma di ciò che lo precede, una spiegazione dettagliata di ogni cosa, una guida e una misericordia per coloro che credono.
+Nelle loro storie c'è una lezione per coloro che hanno intelletto. Questo \[Corano\] non è certo un discorso inventato, ma è la conferma di ciò che lo precede, una spiegazione dettagliata di ogni cosa, una guida e una misericordia per coloro che credono.
 
 # 1708
 
@@ -6866,7 +6866,7 @@ Dicono i miscredenti: “Perché non è stato fatto scendere su di lui un segno,
 
 # 1715
 
-Allah conosce quello che cela ogni femmina, [conosce] la diminuzione degli uteri e il loro aumento. Ogni cosa ha giusta misura presso di Lui,
+Allah conosce quello che cela ogni femmina, \[conosce\] la diminuzione degli uteri e il loro aumento. Ogni cosa ha giusta misura presso di Lui,
 
 # 1716
 
@@ -6878,7 +6878,7 @@ Per Lui non c'è differenza tra chi mantiene un segreto e chi lo divulga, tra ch
 
 # 1718
 
-Ci sono [angeli] davanti e dietro [ogni uomo] e vegliano su di lui, per ordine di Allah. In verità, Allah non modifica la realtà di un popolo, finché esso non muta nel suo intimo. Quando Allah vuole un male per un popolo, nessuno può allontanarlo; né avranno, all'infuori di Lui, alcun protettore.
+Ci sono \[angeli\] davanti e dietro \[ogni uomo\] e vegliano su di lui, per ordine di Allah. In verità, Allah non modifica la realtà di un popolo, finché esso non muta nel suo intimo. Quando Allah vuole un male per un popolo, nessuno può allontanarlo; né avranno, all'infuori di Lui, alcun protettore.
 
 # 1719
 
@@ -6890,7 +6890,7 @@ Il tuono Lo glorifica e Lo loda, e così gli angeli insieme, nel timore di Lui. 
 
 # 1721
 
-A Lui [spetta] la vera invocazione! Quelli che invocano all'infuori di Lui, non rispondono loro in alcunché, sono come colui che tende le mani verso l'acqua affinché giunga alla sua bocca, ma essa non vi giunge: vana è l'invocazione dei miscredenti.
+A Lui \[spetta\] la vera invocazione! Quelli che invocano all'infuori di Lui, non rispondono loro in alcunché, sono come colui che tende le mani verso l'acqua affinché giunga alla sua bocca, ma essa non vi giunge: vana è l'invocazione dei miscredenti.
 
 # 1722
 
@@ -6902,11 +6902,11 @@ Di': “Chi è il Signore dei cieli e della terra?”. Rispondi: “Allah!”. D
 
 # 1724
 
-Fa scendere l'acqua dal cielo, e le valli si inondano secondo la loro capienza, e la corrente trasporta schiuma gorgogliante, una schiuma simile a ciò che si fonde sul fuoco, per trarne gioielli e utensili. Così Allah propone a metafora del vero e del falso: si perde la schiuma e resta sulla terra ciò che è utile agli uomini. Così Allah propone le metafore. [Paragonando la Rivelazione all'acqua che scende dal cielo, il Corano afferma che ogni uomo ne potrà ricevere nella misura della sua ricettività spirituale. L'acqua vivifica la terra, mentre la schiuma si perde, come la schiuma del metallo fuso sparisce e rimangono gli oggetti formati in quella fusione. Il fatto che inizialmente tali oggetti siano nascosti dalla schiuma può essere metafora della realtà magmatica e confusa della ricerca della fede, tensione all’interno della quale, il dono dell'Islàm, forgia le migliori qualità personali e i più alti valori sociali, solide caratteristiche destinate a durare nelle avversità e nel tempo]
+Fa scendere l'acqua dal cielo, e le valli si inondano secondo la loro capienza, e la corrente trasporta schiuma gorgogliante, una schiuma simile a ciò che si fonde sul fuoco, per trarne gioielli e utensili. Così Allah propone a metafora del vero e del falso: si perde la schiuma e resta sulla terra ciò che è utile agli uomini. Così Allah propone le metafore. \[Paragonando la Rivelazione all'acqua che scende dal cielo, il Corano afferma che ogni uomo ne potrà ricevere nella misura della sua ricettività spirituale. L'acqua vivifica la terra, mentre la schiuma si perde, come la schiuma del metallo fuso sparisce e rimangono gli oggetti formati in quella fusione. Il fatto che inizialmente tali oggetti siano nascosti dalla schiuma può essere metafora della realtà magmatica e confusa della ricerca della fede, tensione all’interno della quale, il dono dell'Islàm, forgia le migliori qualità personali e i più alti valori sociali, solide caratteristiche destinate a durare nelle avversità e nel tempo\]
 
 # 1725
 
-Coloro che rispondono all'appello del loro Signore, avranno la migliore [ricompensa]. Quanto a coloro che non avranno risposto, se possedessero tutto ciò che è sulla terra e ancora altrettanto, lo offrirebbero per riscattarsi. Avranno il peggiore dei bilanci e l'Inferno sarà il loro rifugio. Qual tristo giaciglio!
+Coloro che rispondono all'appello del loro Signore, avranno la migliore \[ricompensa\]. Quanto a coloro che non avranno risposto, se possedessero tutto ciò che è sulla terra e ancora altrettanto, lo offrirebbero per riscattarsi. Avranno il peggiore dei bilanci e l'Inferno sarà il loro rifugio. Qual tristo giaciglio!
 
 # 1726
 
@@ -6930,7 +6930,7 @@ i Giardini dell'Eden, in cui entreranno insieme ai probi tra i loro padri, le lo
 
 # 1731
 
-[e diranno]: “Pace su di voi, poiché siete stati perseveranti. Com'è bella la vostra Ultima Dimora”.
+\[e diranno\]: “Pace su di voi, poiché siete stati perseveranti. Com'è bella la vostra Ultima Dimora”.
 
 # 1732
 
@@ -6958,15 +6958,15 @@ Così ti inviammo ad una comunità, dopo che altre comunità erano passate, affi
 
 # 1738
 
-Se ci fosse una recitazione che smuovesse le montagne, fendesse la terra e facesse parlare i morti... Invero l'ordine di tutte le cose appartiene ad Allah! Non vedono i credenti che Allah, se volesse, potrebbe guidare tutti gli uomini sulla retta via? E i miscredenti saranno colpiti da un cataclisma, compenso del loro agire, o [la disgrazia] sarà prossima alle loro case, finché si realizzi la promessa di Allah. In verità Allah non manca alla promessa.
+Se ci fosse una recitazione che smuovesse le montagne, fendesse la terra e facesse parlare i morti... Invero l'ordine di tutte le cose appartiene ad Allah! Non vedono i credenti che Allah, se volesse, potrebbe guidare tutti gli uomini sulla retta via? E i miscredenti saranno colpiti da un cataclisma, compenso del loro agire, o \[la disgrazia\] sarà prossima alle loro case, finché si realizzi la promessa di Allah. In verità Allah non manca alla promessa.
 
 # 1739
 
-Certamente i messaggeri che ti hanno preceduto sono stati scherniti, ma ho concesso una tregua ai miscredenti, quindi li ho afferrati. Come fu [duro] allora il [Mio] castigo!
+Certamente i messaggeri che ti hanno preceduto sono stati scherniti, ma ho concesso una tregua ai miscredenti, quindi li ho afferrati. Come fu \[duro\] allora il \[Mio\] castigo!
 
 # 1740
 
-Colui Che sorveglia ciò che ogni anima acquisisce [è forse simile alle vostre divinità]? Eppure Gli attribuiscono consoci. Di': “Nominateli [dunque]! Vorreste insegnarGli, quello che ignora della terra? Oppure [il vostro] è solo un modo di dire?”. Sì, la perfidia dei miscredenti è stata resa bella agli occhi loro ed essi sono stati allontanati dalla retta via. Chi è sviato da Allah, non avrà guida alcuna.
+Colui Che sorveglia ciò che ogni anima acquisisce \[è forse simile alle vostre divinità\]? Eppure Gli attribuiscono consoci. Di': “Nominateli \[dunque\]! Vorreste insegnarGli, quello che ignora della terra? Oppure \[il vostro\] è solo un modo di dire?”. Sì, la perfidia dei miscredenti è stata resa bella agli occhi loro ed essi sono stati allontanati dalla retta via. Chi è sviato da Allah, non avrà guida alcuna.
 
 # 1741
 
@@ -6974,7 +6974,7 @@ Saranno castigati in questa vita, ma il castigo dell'altra vita sarà schiaccian
 
 # 1742
 
-È questo il Giardino che è stato promesso ai pii: vi scorrono ruscelli, perennemente vi sono frutti e ombra. Ecco il destino dei timorati [di Allah], mentre il destino dei miscredenti è il Fuoco.
+È questo il Giardino che è stato promesso ai pii: vi scorrono ruscelli, perennemente vi sono frutti e ombra. Ecco il destino dei timorati \[di Allah\], mentre il destino dei miscredenti è il Fuoco.
 
 # 1743
 
@@ -6986,7 +6986,7 @@ E così abbiamo fatto scendere una norma in arabo. Se segui i loro desideri dopo
 
 # 1745
 
-In verità, prima di te inviammo altri messaggeri e provvedemmo loro spose e progenie, ma nessun messaggero recò alcun segno se non con il permesso di Allah. Ogni epoca [ha avuto] la sua Scrittura.
+In verità, prima di te inviammo altri messaggeri e provvedemmo loro spose e progenie, ma nessun messaggero recò alcun segno se non con il permesso di Allah. Ogni epoca \[ha avuto\] la sua Scrittura.
 
 # 1746
 
@@ -7014,11 +7014,11 @@ Alif, Lâm, Râ. Abbiamo fatto scendere su di te un Libro, affinché, con il per
 
 # 1752
 
-[la via di] Allah, Cui appartiene quel che è nei cieli e sulla terra. Guai a coloro che non credono: subiranno un severo castigo;
+\[la via di\] Allah, Cui appartiene quel che è nei cieli e sulla terra. Guai a coloro che non credono: subiranno un severo castigo;
 
 # 1753
 
-[essi] amano questa vita più dell'altra, frappongono ostacoli sul sentiero di Allah e cercano di renderlo tortuoso! Sono infossati nell'errore.
+\[essi\] amano questa vita più dell'altra, frappongono ostacoli sul sentiero di Allah e cercano di renderlo tortuoso! Sono infossati nell'errore.
 
 # 1754
 
@@ -7026,7 +7026,7 @@ Non inviammo alcun messaggero se non nella lingua del suo popolo, affinché li i
 
 # 1755
 
-Già mandammo Mosè con i Nostri segni: “Fa' uscire la tua gente dalle tenebre alla luce e ricorda loro i giorni di Allah”. Ecco dei segni per ogni [uomo] paziente e grato.
+Già mandammo Mosè con i Nostri segni: “Fa' uscire la tua gente dalle tenebre alla luce e ricorda loro i giorni di Allah”. Ecco dei segni per ogni \[uomo\] paziente e grato.
 
 # 1756
 
@@ -7034,19 +7034,19 @@ E quando Mosè disse al suo popolo: “Ricordate i favori che Allah vi ha elargi
 
 # 1757
 
-E quando il vostro Signore proclamò: “Se sarete riconoscenti, accrescerò [la Mia grazia]. Se sarete ingrati, in verità il Mio castigo è severo!”,
+E quando il vostro Signore proclamò: “Se sarete riconoscenti, accrescerò \[la Mia grazia\]. Se sarete ingrati, in verità il Mio castigo è severo!”,
 
 # 1758
 
-disse Mosè: “Se sarete ingrati, voi e tutti quelli che sono sulla terra, Allah [sappiatelo] di nulla abbisogna, è il Degno di lode”.
+disse Mosè: “Se sarete ingrati, voi e tutti quelli che sono sulla terra, Allah \[sappiatelo\] di nulla abbisogna, è il Degno di lode”.
 
 # 1759
 
-Non vi è giunta notizia di quelli [che vissero] prima di voi, del popolo di Noè, degli Âd e dei Thamûd, e di quelli che vennero dopo e che Allah solo conosce? Vennero i loro profeti con prove chiarissime, ma essi dissero, portandosi le mani alla bocca: “Non crediamo in quello con cui siete stati inviati. E siamo in dubbio profondissimo circa quello che ci proponete”.
+Non vi è giunta notizia di quelli \[che vissero\] prima di voi, del popolo di Noè, degli Âd e dei Thamûd, e di quelli che vennero dopo e che Allah solo conosce? Vennero i loro profeti con prove chiarissime, ma essi dissero, portandosi le mani alla bocca: “Non crediamo in quello con cui siete stati inviati. E siamo in dubbio profondissimo circa quello che ci proponete”.
 
 # 1760
 
-Dissero loro i profeti: “Come può esservi dubbio a proposito di Allah, il Creatore dei cieli e della terra, Colui Che vi Si rivolge per perdonarvi parte delle vostre colpe e rinviarvi fino al termine prestabilito?”. [Risposero] i miscredenti: “Non siete altro che uomini come noi. Volete distoglierci da quello che adoravano i nostri avi? Recateci una prova inequivocabile!”.
+Dissero loro i profeti: “Come può esservi dubbio a proposito di Allah, il Creatore dei cieli e della terra, Colui Che vi Si rivolge per perdonarvi parte delle vostre colpe e rinviarvi fino al termine prestabilito?”. \[Risposero\] i miscredenti: “Non siete altro che uomini come noi. Volete distoglierci da quello che adoravano i nostri avi? Recateci una prova inequivocabile!”.
 
 # 1761
 
@@ -7054,7 +7054,7 @@ Dissero loro i profeti: “Certamente siamo uomini come voi, ma Allah favorisce 
 
 # 1762
 
-E come potremmo non confidare in Allah, quand'Egli ci ha guidati sui nostri sentieri? Sopporteremo con pazienza [le persecuzioni] di cui ci farete oggetto. Confidino in Allah coloro che confidano”.
+E come potremmo non confidare in Allah, quand'Egli ci ha guidati sui nostri sentieri? Sopporteremo con pazienza \[le persecuzioni\] di cui ci farete oggetto. Confidino in Allah coloro che confidano”.
 
 # 1763
 
@@ -7062,7 +7062,7 @@ Coloro che non credevano dissero ai loro profeti: “Vi cacceremo senza fallo da
 
 # 1764
 
-e vi faremo dimorare sulla terra dopo di loro. Questa è [la ricompensa] per chi teme la Mia presenza e teme la Mia minaccia”.
+e vi faremo dimorare sulla terra dopo di loro. Questa è \[la ricompensa\] per chi teme la Mia presenza e teme la Mia minaccia”.
 
 # 1765
 
@@ -7090,11 +7090,11 @@ Ciò non è difficile per Allah.
 
 # 1771
 
-Tutti compariranno davanti ad Allah. E i deboli diranno a coloro che erano tronfi d'orgoglio: “Noi vi seguivamo. Potete [ora] esserci utili contro il castigo di Allah?”. Risponderanno [gli altri]: “Se Allah ci avesse guidati, certamente vi avremmo guidati. Lamento o sopportazione [ormai] sono uguali: per noi non c'è rifugio”.
+Tutti compariranno davanti ad Allah. E i deboli diranno a coloro che erano tronfi d'orgoglio: “Noi vi seguivamo. Potete \[ora\] esserci utili contro il castigo di Allah?”. Risponderanno \[gli altri\]: “Se Allah ci avesse guidati, certamente vi avremmo guidati. Lamento o sopportazione \[ormai\] sono uguali: per noi non c'è rifugio”.
 
 # 1772
 
-Quando tutto sarà concluso, dirà Satana: “Allah vi aveva fatto promessa sincera, mentre io vi ho fatto una promessa che non ho mantenuto. Qual potere avevo mai su di voi, se non quello di chiamarvi? E voi mi avete risposto. Non rimproverate me; rimproverate voi stessi. Io non posso esservi d'aiuto e voi non potete essermi d'aiuto. Rifiuto l'atto con cui mi avete associato ad Allah in precedenza”. In verità, gli iniqui [avranno] doloroso castigo.
+Quando tutto sarà concluso, dirà Satana: “Allah vi aveva fatto promessa sincera, mentre io vi ho fatto una promessa che non ho mantenuto. Qual potere avevo mai su di voi, se non quello di chiamarvi? E voi mi avete risposto. Non rimproverate me; rimproverate voi stessi. Io non posso esservi d'aiuto e voi non potete essermi d'aiuto. Rifiuto l'atto con cui mi avete associato ad Allah in precedenza”. In verità, gli iniqui \[avranno\] doloroso castigo.
 
 # 1773
 
@@ -7102,7 +7102,7 @@ Coloro che invece credono e operano il bene li faremo entrare nei Giardini dove 
 
 # 1774
 
-Non hai visto a cosa Allah paragona la buona parola? Essa è come un buon albero, la cui radice è salda e i cui rami [sono] nel cielo,
+Non hai visto a cosa Allah paragona la buona parola? Essa è come un buon albero, la cui radice è salda e i cui rami \[sono\] nel cielo,
 
 # 1775
 
@@ -7126,11 +7126,11 @@ nell'Inferno in cui cadranno? Qual trista dimora!
 
 # 1780
 
-Attribuirono consimili ad Allah per sviare [la gente] dal Suo sentiero. Dì: “Godete pure: la vostra destinazione è il Fuoco!”.
+Attribuirono consimili ad Allah per sviare \[la gente\] dal Suo sentiero. Dì: “Godete pure: la vostra destinazione è il Fuoco!”.
 
 # 1781
 
-Di' ai Miei servi credenti, che assolvano l'orazione e diano in pubblico e in privato [parte] dei beni che abbiamo loro concesso, prima che giunga il Giorno in cui non ci sarà più né commercio, né amicizia.
+Di' ai Miei servi credenti, che assolvano l'orazione e diano in pubblico e in privato \[parte\] dei beni che abbiamo loro concesso, prima che giunga il Giorno in cui non ci sarà più né commercio, né amicizia.
 
 # 1782
 
@@ -7142,11 +7142,11 @@ Vi ha messo a disposizione il sole e la luna che gravitano con regolarità, e vi
 
 # 1784
 
-E vi ha dato [parte] di tutto quel che Gli avete chiesto: se voleste contare i doni di Allah, non potreste enumerarli. In verità, l'uomo è ingiusto, ingrato.
+E vi ha dato \[parte\] di tutto quel che Gli avete chiesto: se voleste contare i doni di Allah, non potreste enumerarli. In verità, l'uomo è ingiusto, ingrato.
 
 # 1785
 
-E [ricorda] quando Abramo disse: “O mio Signore, rendi sicura questa contrada e preserva me e i miei figli dall'adorazione degli idoli.
+E \[ricorda\] quando Abramo disse: “O mio Signore, rendi sicura questa contrada e preserva me e i miei figli dall'adorazione degli idoli.
 
 # 1786
 
@@ -7154,7 +7154,7 @@ O mio Signore, in verità essi già hanno traviato molti uomini. Chi mi seguirà
 
 # 1787
 
-O Signor nostro, ho stabilito una parte della mia progenie in una valle sterile, nei pressi della Tua Sacra Casa, affinché, o Signor nostro, assolvano all'orazione. Fai che i cuori, di una parte dell'umanità, tendano a loro; concedi loro [ogni specie] di frutti. Forse Ti saranno riconoscenti.
+O Signor nostro, ho stabilito una parte della mia progenie in una valle sterile, nei pressi della Tua Sacra Casa, affinché, o Signor nostro, assolvano all'orazione. Fai che i cuori, di una parte dell'umanità, tendano a loro; concedi loro \[ogni specie\] di frutti. Forse Ti saranno riconoscenti.
 
 # 1788
 
@@ -7182,7 +7182,7 @@ Verranno umiliati, la testa immobile, gli occhi fissi, il cuore smarrito.
 
 # 1794
 
-Avverti le genti [a proposito] del Giorno in cui li colpirà il castigo. [Allora] coloro che saranno stati ingiusti diranno: “O Signor nostro, concedici una breve dilazione: risponderemo al Tuo appello e seguiremo i messaggeri”. “Non giuravate dianzi, che per voi non ci sarebbe stato declino?
+Avverti le genti \[a proposito\] del Giorno in cui li colpirà il castigo. \[Allora\] coloro che saranno stati ingiusti diranno: “O Signor nostro, concedici una breve dilazione: risponderemo al Tuo appello e seguiremo i messaggeri”. “Non giuravate dianzi, che per voi non ci sarebbe stato declino?
 
 # 1795
 
@@ -7198,7 +7198,7 @@ Non credere che Allah manchi alla promessa fatta ai Suoi messaggeri. Allah è l'
 
 # 1798
 
-[Avverrà ciò] nel Giorno in cui la terra sarà trasformata e [parimenti] i cieli, in cui gli uomini compariranno di fronte ad Allah, l'Unico, il Supremo Dominatore.
+\[Avverrà ciò\] nel Giorno in cui la terra sarà trasformata e \[parimenti\] i cieli, in cui gli uomini compariranno di fronte ad Allah, l'Unico, il Supremo Dominatore.
 
 # 1799
 
@@ -7210,7 +7210,7 @@ con vesti di catrame e i volti in fiamme.
 
 # 1801
 
-[Così] Allah compenserà ogni anima per ciò che si è meritata, ché in verità Allah è rapido nel conto.
+\[Così\] Allah compenserà ogni anima per ciò che si è meritata, ché in verità Allah è rapido nel conto.
 
 # 1802
 
@@ -7246,7 +7246,7 @@ Perché, se sei sincero, non sei accompagnato dagli angeli?”.
 
 # 1810
 
-Non faremo scendere gli angeli se non con la verità e a quella gente [in quel Giorno] non sarà dato scampo.
+Non faremo scendere gli angeli se non con la verità e a quella gente \[in quel Giorno\] non sarà dato scampo.
 
 # 1811
 
@@ -7306,7 +7306,7 @@ I venti mandammo, portatori di fertilità, e dal cielo facemmo scendere l'acqua 
 
 # 1825
 
-In verità, Noi facciamo vivere e facciamo morire e Noi siamo l'Erede [ultimo di ogni cosa].
+In verità, Noi facciamo vivere e facciamo morire e Noi siamo l'Erede \[ultimo di ogni cosa\].
 
 # 1826
 
@@ -7314,7 +7314,7 @@ Noi conosciamo quelli che vi furono precursori e conosciamo quelli che ancora ta
 
 # 1827
 
-In verità, il tuo Signore tutti] li riunirà, Egli è saggio, sapiente.
+In verità, il tuo Signore tutti\] li riunirà, Egli è saggio, sapiente.
 
 # 1828
 
@@ -7342,7 +7342,7 @@ eccetto Iblîs, che rifiutò di essere insieme ai prosternati.
 
 # 1834
 
-Allah] disse: “O Iblîs, perché non sei tra coloro che si prosternano?”.
+Allah\] disse: “O Iblîs, perché non sei tra coloro che si prosternano?”.
 
 # 1835
 
@@ -7350,7 +7350,7 @@ Rispose: “Non devo prosternarmi di fronte a un mortale che hai creato di argil
 
 # 1836
 
-Allah] disse: “Fuori di qui, che tu sia bandito.
+Allah\] disse: “Fuori di qui, che tu sia bandito.
 
 # 1837
 
@@ -7362,7 +7362,7 @@ Disse: “O Signor mio, concedimi una dilazione fino al Giorno in cui saranno re
 
 # 1839
 
-[Allah] disse: “Che tu sia fra coloro a cui è concessa la dilazione,
+\[Allah\] disse: “Che tu sia fra coloro a cui è concessa la dilazione,
 
 # 1840
 
@@ -7378,7 +7378,7 @@ eccetto i Tuoi servi sinceri”.
 
 # 1843
 
-[Allah] disse: “Questa sarà la Retta Via da Me [custodita]:
+\[Allah\] disse: “Questa sarà la Retta Via da Me \[custodita\]:
 
 # 1844
 
@@ -7390,19 +7390,19 @@ e l'Inferno sarà certo il loro ritrovo;
 
 # 1846
 
-[esso] ha sette porte, e ciascuna ne avrà dinnanzi un gruppo”.
+\[esso\] ha sette porte, e ciascuna ne avrà dinnanzi un gruppo”.
 
 # 1847
 
-I timorati [invece] saranno tra giardini e fonti,
+I timorati \[invece\] saranno tra giardini e fonti,
 
 # 1848
 
-[sarà detto loro]: “Entratevi in pace e sicurezza!”.
+\[sarà detto loro\]: “Entratevi in pace e sicurezza!”.
 
 # 1849
 
-Monderemo il loro petto da ogni risentimento e staranno fraternamente su troni, [gli uni] di fronte [agli altri].
+Monderemo il loro petto da ogni risentimento e staranno fraternamente su troni, \[gli uni\] di fronte \[agli altri\].
 
 # 1850
 
@@ -7410,7 +7410,7 @@ Non proveranno fatica alcuna e mai verranno espulsi.
 
 # 1851
 
-[O Muhammad], annuncia ai Miei servi che, in verità, Io sono il Perdonatore, il Misericordioso,
+\[O Muhammad\], annuncia ai Miei servi che, in verità, Io sono il Perdonatore, il Misericordioso,
 
 # 1852
 
@@ -7442,7 +7442,7 @@ Disse: “Chi mai dispera della misericordia del suo Signore, se non gli sviati?
 
 # 1859
 
-Disse [ancora]: “Qual è la vostra missione, o inviati?”.
+Disse \[ancora\]: “Qual è la vostra missione, o inviati?”.
 
 # 1860
 
@@ -7462,11 +7462,11 @@ Quando poi gli inviati giunsero presso la famiglia di Lot,
 
 # 1864
 
-[questi] disse loro: “Invero siete gente che non conosciamo”.
+\[questi\] disse loro: “Invero siete gente che non conosciamo”.
 
 # 1865
 
-Risposero: “Anzi, siamo venuti a te [per recare] ciò di cui dubitano.
+Risposero: “Anzi, siamo venuti a te \[per recare\] ciò di cui dubitano.
 
 # 1866
 
@@ -7478,15 +7478,15 @@ Fai partire la tua gente quando è ancora notte e stai in retroguardia, e che ne
 
 # 1868
 
-Questo decidemmo nei suoi confronti: ché in verità tutti gli altri al mattino [seguente] sarebbero stati annientati.
+Questo decidemmo nei suoi confronti: ché in verità tutti gli altri al mattino \[seguente\] sarebbero stati annientati.
 
 # 1869
 
-Vennero [infatti] gli abitanti della città, rallegrandosi.
+Vennero \[infatti\] gli abitanti della città, rallegrandosi.
 
 # 1870
 
-Disse [Lot]: “Sono i miei ospiti, non disonoratemi!
+Disse \[Lot\]: “Sono i miei ospiti, non disonoratemi!
 
 # 1871
 
@@ -7494,7 +7494,7 @@ Temete Allah e non copritemi di vergogna”.
 
 # 1872
 
-Risposero: “Già ti abbiamo proibito [di proteggere] chicchessia!”.
+Risposero: “Già ti abbiamo proibito \[di proteggere\] chicchessia!”.
 
 # 1873
 
@@ -7502,7 +7502,7 @@ Disse: “Ecco le mie figlie, se proprio volete farlo”.
 
 # 1874
 
-Per la tua vita, [o Muhammad,] erano accecati dalla loro lussuria.
+Per la tua vita, \[o Muhammad,\] erano accecati dalla loro lussuria.
 
 # 1875
 
@@ -7518,7 +7518,7 @@ In verità in ciò vi è un segno per coloro che ne tengono conto.
 
 # 1878
 
-In verità essa [si trovava] su una strada ben nota.
+In verità essa \[si trovava\] su una strada ben nota.
 
 # 1879
 
@@ -7542,7 +7542,7 @@ Demmo loro i Nostri segni, ma rimasero indifferenti.
 
 # 1884
 
-Scavavano nelle montagne [le loro] case sicure,
+Scavavano nelle montagne \[le loro\] case sicure,
 
 # 1885
 
@@ -7566,11 +7566,11 @@ Ti abbiamo dato i sette ripetuti e il Sublime Corano.
 
 # 1890
 
-Non volgere gli occhi con invidia, all'effimero benessere che abbiamo concesso ad alcuni di loro e [neppure devi] rattristarti per loro.Abbassa però la tua ala verso i credenti.
+Non volgere gli occhi con invidia, all'effimero benessere che abbiamo concesso ad alcuni di loro e \[neppure devi\] rattristarti per loro.Abbassa però la tua ala verso i credenti.
 
 # 1891
 
-Di': “Sono nunzio evidente [di un castigo]”.
+Di': “Sono nunzio evidente \[di un castigo\]”.
 
 # 1892
 
@@ -7598,7 +7598,7 @@ Noi ti bastiamo contro chi ti schernisce,
 
 # 1898
 
-[contro] coloro che affiancano ad Allah un'altra divinità. Presto sapranno.
+\[contro\] coloro che affiancano ad Allah un'altra divinità. Presto sapranno.
 
 # 1899
 
@@ -7614,11 +7614,11 @@ e adora il tuo Signore fin che non ti giunga l'ultima certezza.
 
 # 1902
 
-Giunge l'ordine di Allah: non [cercate] di affrettarlo. Gloria a Lui! Egli è ben più alto di ciò che Gli associano.
+Giunge l'ordine di Allah: non \[cercate\] di affrettarlo. Gloria a Lui! Egli è ben più alto di ciò che Gli associano.
 
 # 1903
 
-Per ordine Suo scendono gli angeli con la Rivelazione, su chi Egli vuole tra i Suoi servi: “Ammonite [le genti] che non c'è altro dio all'infuori di Me. TemeteMi dunque”.
+Per ordine Suo scendono gli angeli con la Rivelazione, su chi Egli vuole tra i Suoi servi: “Ammonite \[le genti\] che non c'è altro dio all'infuori di Me. TemeteMi dunque”.
 
 # 1904
 
@@ -7634,7 +7634,7 @@ Creò le greggi da cui traete calore e altri vantaggi e di cui vi cibate.
 
 # 1907
 
-E come è bello per voi, quando le riconducete [all'ovile] e quando uscite al pascolo.
+E come è bello per voi, quando le riconducete \[all'ovile\] e quando uscite al pascolo.
 
 # 1908
 
@@ -7642,11 +7642,11 @@ Trasportano i vostri pesi verso contrade che non potreste raggiungere, se non co
 
 # 1909
 
-E [vi ha dato] i cavalli, i muli e gli asini, perché li montiate e per ornamento. E crea cose che voi non conoscete.
+E \[vi ha dato\] i cavalli, i muli e gli asini, perché li montiate e per ornamento. E crea cose che voi non conoscete.
 
 # 1910
 
-Guidarvi sulla retta via è prerogativa di Allah, poiché altre [vie] se ne allontanano. Se volesse vi guiderebbe tutti.
+Guidarvi sulla retta via è prerogativa di Allah, poiché altre \[vie\] se ne allontanano. Se volesse vi guiderebbe tutti.
 
 # 1911
 
@@ -7670,11 +7670,11 @@ Egli è Colui Che vi ha messo a disposizione il mare, affinché possiate mangiar
 
 # 1916
 
-Ha infisso sulla terra le montagne, affinché non oscilli sotto di voi e [ha disposto] fiumi e sentieri, affinché non vi smarriate.
+Ha infisso sulla terra le montagne, affinché non oscilli sotto di voi e \[ha disposto\] fiumi e sentieri, affinché non vi smarriate.
 
 # 1917
 
-E [ha stabilito] punti di riferimento: le stelle che vi fanno da guida.
+E \[ha stabilito\] punti di riferimento: le stelle che vi fanno da guida.
 
 # 1918
 
@@ -7694,7 +7694,7 @@ Coloro che essi invocano all'infuori di Allah, nulla creano, ché anzi loro stes
 
 # 1922
 
-[Essi sono] morti e non vivi, e non sanno affatto quando saranno resuscitati.
+\[Essi sono\] morti e non vivi, e non sanno affatto quando saranno resuscitati.
 
 # 1923
 
@@ -7702,7 +7702,7 @@ Il vostro Allah è un Dio Unico. Coloro che non credono nell'altra vita hanno la
 
 # 1924
 
-Senza dubbio Allah conosce quello che celano e quello che palesano. In verità [Egli] non ama quelli che sono tronfi d'orgoglio.
+Senza dubbio Allah conosce quello che celano e quello che palesano. In verità \[Egli\] non ama quelli che sono tronfi d'orgoglio.
 
 # 1925
 
@@ -7722,7 +7722,7 @@ Nel Giorno della Resurrezione li coprirà di abominio e dirà loro: “Dove sono
 
 # 1929
 
-[quelli] che gli angeli [della morte] coglieranno ancora ingiusti verso se stessi”. Allora faranno atto di sottomissione [dicendo]: “Non commettemmo male alcuno”. “Invece Allah conosce perfettamente quello che facevate.
+\[quelli\] che gli angeli \[della morte\] coglieranno ancora ingiusti verso se stessi”. Allora faranno atto di sottomissione \[dicendo\]: “Non commettemmo male alcuno”. “Invece Allah conosce perfettamente quello che facevate.
 
 # 1930
 
@@ -7734,11 +7734,11 @@ Verrà chiesto a quelli che temevano Allah: “Cos'è quel che ha fatto scendere
 
 # 1932
 
-entreranno nei Giardini dell'Eden dove scorrono i ruscelli e avranno quello che desidereranno. Così Allah compensa coloro che [Lo] temono,
+entreranno nei Giardini dell'Eden dove scorrono i ruscelli e avranno quello che desidereranno. Così Allah compensa coloro che \[Lo\] temono,
 
 # 1933
 
-[coloro] che gli angeli coglieranno nella purezza, dicendo loro: “Pace su di voi! Entrate nel Paradiso, compenso per quel che avete fatto”.
+\[coloro\] che gli angeli coglieranno nella purezza, dicendo loro: “Pace su di voi! Entrate nel Paradiso, compenso per quel che avete fatto”.
 
 # 1934
 
@@ -7754,7 +7754,7 @@ Dicono gli idolatri: “Se Allah avesse voluto, non avremmo adorato nulla oltre 
 
 # 1937
 
-Ad ogni comunità inviammo un profeta [che dicesse]: “Adorate Allah e fuggite gli idoli!”. Allah guidò alcuni di essi e altri si persero, sviati. Percorrete la terra e vedrete cosa accadde a coloro che accusarono di menzogna [i messaggeri].
+Ad ogni comunità inviammo un profeta \[che dicesse\]: “Adorate Allah e fuggite gli idoli!”. Allah guidò alcuni di essi e altri si persero, sviati. Percorrete la terra e vedrete cosa accadde a coloro che accusarono di menzogna \[i messaggeri\].
 
 # 1938
 
@@ -7762,11 +7762,11 @@ Anche se brami dirigerli, sappi che Allah non guida gli sviati e non avranno nes
 
 # 1939
 
-Giurano su Allah, con il più solenne dei giuramenti: “Allah non risusciterà il morto”. E invece sì! Vera promessa che Egli [si assume], ma la maggior parte degli uomini nulla conosce;
+Giurano su Allah, con il più solenne dei giuramenti: “Allah non risusciterà il morto”. E invece sì! Vera promessa che Egli \[si assume\], ma la maggior parte degli uomini nulla conosce;
 
 # 1940
 
-[promessa che realizzerà] per mostrar loro con chiarezza ciò a proposito di cui divergevano e affinché i miscredenti sappiano di essere stati bugiardi
+\[promessa che realizzerà\] per mostrar loro con chiarezza ciò a proposito di cui divergevano e affinché i miscredenti sappiano di essere stati bugiardi
 
 # 1941
 
@@ -7774,7 +7774,7 @@ Quando vogliamo una cosa, Ci basta dire “Sii!” ed essa è.
 
 # 1942
 
-Quanto a coloro che sono emigrati [per la causa di] Allah dopo aver subito la persecuzione, daremo loro una bella dimora in questa vita; ma il compenso dell'altra vita è ben più grande. Se solo lo sapessero.
+Quanto a coloro che sono emigrati \[per la causa di\] Allah dopo aver subito la persecuzione, daremo loro una bella dimora in questa vita; ma il compenso dell'altra vita è ben più grande. Se solo lo sapessero.
 
 # 1943
 
@@ -7786,11 +7786,11 @@ Prima di te non inviammo che uomini da Noi ispirati. Chiedete alla gente della S
 
 # 1945
 
-[Li inviammo] con prove e con Salmi! E su di te abbiamo fatto scendere il Monito, affinché tu spieghi agli uomini ciò che è stato loro rivelato e affinché possano riflettervi.
+\[Li inviammo\] con prove e con Salmi! E su di te abbiamo fatto scendere il Monito, affinché tu spieghi agli uomini ciò che è stato loro rivelato e affinché possano riflettervi.
 
 # 1946
 
-Coloro che tramavano crimini, sono forse al sicuro [dal fatto] che Allah li faccia sprofondare nella terra o che giunga loro il castigo da dove non se lo aspettano?
+Coloro che tramavano crimini, sono forse al sicuro \[dal fatto\] che Allah li faccia sprofondare nella terra o che giunga loro il castigo da dove non se lo aspettano?
 
 # 1947
 
@@ -7830,7 +7830,7 @@ Quando poi l'allontana da voi, ecco che alcuni associano divinità al loro Signo
 
 # 1956
 
-disconoscendo quello che abbiamo dato loro. Godete pure [per un periodo], ché ben presto saprete.
+disconoscendo quello che abbiamo dato loro. Godete pure \[per un periodo\], ché ben presto saprete.
 
 # 1957
 
@@ -7842,7 +7842,7 @@ Attribuiscono figlie ad Allah - Gloria a Lui! - e a loro stessi quello che più 
 
 # 1959
 
-Quando si annuncia ad uno di loro la nascita di una figlia, il suo volto si adombra e soffoca [in sé la sua ira].
+Quando si annuncia ad uno di loro la nascita di una figlia, il suo volto si adombra e soffoca \[in sé la sua ira\].
 
 # 1960
 
@@ -7854,7 +7854,7 @@ A quelli che non credono nell'altra vita si applica la metafora stessa del male,
 
 # 1962
 
-Se Allah [volesse] punire [tutti] gli uomini delle loro colpe, non lascerebbe alcun essere vivente sulla terra. Li rimanda fino al termine stabilito. Quando poi giunge il termine, non potranno ritardarlo di un'ora, né anticiparlo.
+Se Allah \[volesse\] punire \[tutti\] gli uomini delle loro colpe, non lascerebbe alcun essere vivente sulla terra. Li rimanda fino al termine stabilito. Quando poi giunge il termine, non potranno ritardarlo di un'ora, né anticiparlo.
 
 # 1963
 
@@ -7862,11 +7862,11 @@ Attribuiscono ad Allah ciò che essi detestano e le loro lingue proferiscono men
 
 # 1964
 
-Per Allah, certamente abbiamo inviato [messaggeri] alle comunità che ti hanno preceduto, ma Satana abbellì [ai loro occhi] le azioni loro. Bene! Oggi egli è il loro patrono, ma avranno doloroso castigo.
+Per Allah, certamente abbiamo inviato \[messaggeri\] alle comunità che ti hanno preceduto, ma Satana abbellì \[ai loro occhi\] le azioni loro. Bene! Oggi egli è il loro patrono, ma avranno doloroso castigo.
 
 # 1965
 
-Abbiamo fatto scendere il Libro su di te, affinché tu renda esplicito quello su cui divergono [e affinché esso sia] guida e misericordia per coloro che credono.
+Abbiamo fatto scendere il Libro su di te, affinché tu renda esplicito quello su cui divergono \[e affinché esso sia\] guida e misericordia per coloro che credono.
 
 # 1966
 
@@ -7878,7 +7878,7 @@ E invero dai vostri greggi trarrete un insegnamento: vi dissetiamo con quello ch
 
 # 1968
 
-[Pure] dai frutti dei palmeti e delle vigne ricavate bevanda inebriante e cibo eccellente. Ecco un segno per coloro che capiscono.
+\[Pure\] dai frutti dei palmeti e delle vigne ricavate bevanda inebriante e cibo eccellente. Ecco un segno per coloro che capiscono.
 
 # 1969
 
@@ -7894,7 +7894,7 @@ Allah vi ha creato, poi vi farà morire. Qualcuno di voi sarà condotto fino all
 
 # 1972
 
-Allah ha favorito alcuni di voi, al di sopra di altri, nelle risorse materiali. Coloro che sono stati favoriti, le divideranno forse con i loro servi, sì da renderli [a loro] uguali? Negherebbero a tal punto la benevolenza di Allah?
+Allah ha favorito alcuni di voi, al di sopra di altri, nelle risorse materiali. Coloro che sono stati favoriti, le divideranno forse con i loro servi, sì da renderli \[a loro\] uguali? Negherebbero a tal punto la benevolenza di Allah?
 
 # 1973
 
@@ -7914,7 +7914,7 @@ Allah vi propone la metafora di un servo, uno schiavo senza alcun potere, e di u
 
 # 1977
 
-E Allah vi propone la metafora di due uomini: uno di loro è muto, buono a nulla, a carico del suo padrone e ovunque lo si invii non combina niente di buono. È forse uguale a chi comanda con giustizia [e cammina] sulla retta via?
+E Allah vi propone la metafora di due uomini: uno di loro è muto, buono a nulla, a carico del suo padrone e ovunque lo si invii non combina niente di buono. È forse uguale a chi comanda con giustizia \[e cammina\] sulla retta via?
 
 # 1978
 
@@ -7926,11 +7926,11 @@ Allah vi fa uscire dai ventri delle vostre madri sprovvisti di ogni scienza e vi
 
 # 1980
 
-Non hanno visto gli uccelli sottomessi [ad Allah] nello spazio del cielo, dove solo Allah li sostiene? In ciò sono segni per coloro che credono.
+Non hanno visto gli uccelli sottomessi \[ad Allah\] nello spazio del cielo, dove solo Allah li sostiene? In ciò sono segni per coloro che credono.
 
 # 1981
 
-Allah vi ha concesso riparo nelle vostre case, come vi ha concesso dimore fatte con le pelli dei greggi, tende che vi sono leggere quando vi spostate e quando posate il campo. Con la loro lana, il loro crine e il loro pelo [fabbricate] suppellettili e oggetti di cui vi servite per un [certo] tempo.
+Allah vi ha concesso riparo nelle vostre case, come vi ha concesso dimore fatte con le pelli dei greggi, tende che vi sono leggere quando vi spostate e quando posate il campo. Con la loro lana, il loro crine e il loro pelo \[fabbricate\] suppellettili e oggetti di cui vi servite per un \[certo\] tempo.
 
 # 1982
 
@@ -7938,7 +7938,7 @@ Con quel che ha creato, Allah vi ha dato l'ombra e ha fatto per voi rifugi nelle
 
 # 1983
 
-Se poi volteranno le spalle, [sappi] che a te incombe [solo] l'obbligo della comunicazione esplicita.
+Se poi volteranno le spalle, \[sappi\] che a te incombe \[solo\] l'obbligo della comunicazione esplicita.
 
 # 1984
 
@@ -7950,11 +7950,11 @@ Il Giorno in cui susciteremo un testimone da ogni comunità, ai miscredenti non 
 
 # 1986
 
-E quando gli ingiusti vedranno il castigo, [esso] non verrà in nulla alleviato e non avranno dilazione.
+E quando gli ingiusti vedranno il castigo, \[esso\] non verrà in nulla alleviato e non avranno dilazione.
 
 # 1987
 
-Quando coloro che erano associatori vedranno quello che associavano [ad Allah], diranno: “O Signor nostro, ecco le divinità che invocavamo all'infuori di Te”. E questi replicheranno: “In verità siete bugiardi!”.
+Quando coloro che erano associatori vedranno quello che associavano \[ad Allah\], diranno: “O Signor nostro, ecco le divinità che invocavamo all'infuori di Te”. E questi replicheranno: “In verità siete bugiardi!”.
 
 # 1988
 
@@ -7966,7 +7966,7 @@ Quanto ai miscredenti che distolgono le genti dal sentiero di Allah, aggiungerem
 
 # 1990
 
-E il Giorno in cui susciteremo in ogni comunità un testimone scelto tra loro e a carico loro, ti chiameremo [o Muhammad] come testimone nei loro confronti. Abbiamo fatto scendere su di te il Libro, che spiegasse ogni cosa, guida e misericordia e lieta novella per i musulmani.
+E il Giorno in cui susciteremo in ogni comunità un testimone scelto tra loro e a carico loro, ti chiameremo \[o Muhammad\] come testimone nei loro confronti. Abbiamo fatto scendere su di te il Libro, che spiegasse ogni cosa, guida e misericordia e lieta novella per i musulmani.
 
 # 1991
 
@@ -7986,7 +7986,7 @@ Se Allah avesse voluto, avrebbe fatto di voi una sola comunità. Invece, Egli tr
 
 # 1995
 
-Non fate dei vostri giuramenti mezzi di reciproco inganno, ché altrimenti scivolerebbero i vostri piedi, dopo che erano stati saldi e proverete la sventura per aver allontanato [le genti] dal sentiero di Allah. Subirete un castigo terribile.
+Non fate dei vostri giuramenti mezzi di reciproco inganno, ché altrimenti scivolerebbero i vostri piedi, dopo che erano stati saldi e proverete la sventura per aver allontanato \[le genti\] dal sentiero di Allah. Subirete un castigo terribile.
 
 # 1996
 
@@ -8018,7 +8018,7 @@ Quando sostituiamo un versetto con un altro - e Allah ben conosce quello che fa 
 
 # 2003
 
-Di': “Lo ha fatto scendere lo Spirito Puro con la verità [inviata] dal tuo Signore, per rafforzare coloro che credono, come guida e buona novella per i musulmani”.
+Di': “Lo ha fatto scendere lo Spirito Puro con la verità \[inviata\] dal tuo Signore, per rafforzare coloro che credono, come guida e buona novella per i musulmani”.
 
 # 2004
 
@@ -8050,7 +8050,7 @@ Senza alcun dubbio, nell'altra vita saranno i perdenti.
 
 # 2011
 
-Ma in verità, il tuo Signore è perdonatore e misericordioso nei confronti di coloro che sono emigrati dopo aver subìto la persecuzione e quindi hanno lottato e hanno resistito [per la Sua Causa].
+Ma in verità, il tuo Signore è perdonatore e misericordioso nei confronti di coloro che sono emigrati dopo aver subìto la persecuzione e quindi hanno lottato e hanno resistito \[per la Sua Causa\].
 
 # 2012
 
@@ -8058,7 +8058,7 @@ Il Giorno in cui ogni anima verrà a difendere se stessa, in cui ogni anima sar�
 
 # 2013
 
-Allah vi propone la metafora di una città: viveva in pace e sicurezza, da ogni parte le venivano approvvigionamenti. Poi rinnegò i favori di Allah e Allah le fece provare la fame e la paura, [punizione] per quello che avevano fatto.
+Allah vi propone la metafora di una città: viveva in pace e sicurezza, da ogni parte le venivano approvvigionamenti. Poi rinnegò i favori di Allah e Allah le fece provare la fame e la paura, \[punizione\] per quello che avevano fatto.
 
 # 2014
 
@@ -8070,7 +8070,7 @@ Mangiate le cose buone e lecite che Allah vi ha concesso e rendeteGli grazie del
 
 # 2016
 
-[Allah] vi ha proibito la carogna, il sangue e la carne di maiale e l'animale sul quale sia stato invocato altro nome, che quello di Allah. Quanto a colui che vi sia costretto senza essere né ribelle, né trasgressore, in verità Allah è perdonatore, misericordioso.
+\[Allah\] vi ha proibito la carogna, il sangue e la carne di maiale e l'animale sul quale sia stato invocato altro nome, che quello di Allah. Quanto a colui che vi sia costretto senza essere né ribelle, né trasgressore, in verità Allah è perdonatore, misericordioso.
 
 # 2017
 
@@ -8110,15 +8110,15 @@ In verità il Sabato fu istituito solo per coloro che divergevano in proposito. 
 
 # 2026
 
-Chiama al sentiero del tuo Signore con la saggezza e la buona parola e discuti con loro nella maniera migliore. In verità il tuo Signore conosce meglio [di ogni altro] chi si allontana dal Suo sentiero e conosce meglio [di ogni altro] coloro che sono ben guidati.
+Chiama al sentiero del tuo Signore con la saggezza e la buona parola e discuti con loro nella maniera migliore. In verità il tuo Signore conosce meglio \[di ogni altro\] chi si allontana dal Suo sentiero e conosce meglio \[di ogni altro\] coloro che sono ben guidati.
 
 # 2027
 
-Se punite, fatelo nella misura del torto subìto. Se sopporterete con pazienza, ciò sarà [ancora] meglio per coloro che sono stati pazienti.
+Se punite, fatelo nella misura del torto subìto. Se sopporterete con pazienza, ciò sarà \[ancora\] meglio per coloro che sono stati pazienti.
 
 # 2028
 
-Sii paziente! La tua pazienza [non viene da altri] se non da Allah. Non ti affliggere per loro e non farti angosciare dalle loro trame.
+Sii paziente! La tua pazienza \[non viene da altri\] se non da Allah. Non ti affliggere per loro e non farti angosciare dalle loro trame.
 
 # 2029
 
@@ -8130,11 +8130,11 @@ Gloria a Colui Che di notte trasportò il Suo servo dalla Santa Moschea alla Mos
 
 # 2031
 
-Demmo a Mosè la Scrittura e ne facemmo la Guida per i Figli di Israele [dicendo loro]: “Non prendete altro protettore che Me!”.
+Demmo a Mosè la Scrittura e ne facemmo la Guida per i Figli di Israele \[dicendo loro\]: “Non prendete altro protettore che Me!”.
 
 # 2032
 
-[Egli era un] discendente di coloro che portammo insieme a Noè. In verità era un servo riconoscente.
+\[Egli era un\] discendente di coloro che portammo insieme a Noè. In verità era un servo riconoscente.
 
 # 2033
 
@@ -8142,7 +8142,7 @@ Decretammo nella Scrittura, contro i Figli di Israele: “Per due volte porteret
 
 # 2034
 
-Quando si realizzò la prima [delle Nostre promesse], mandammo contro di voi servi Nostri, di implacabile valore, che penetrarono nelle vostre contrade: la promessa è stata mantenuta.
+Quando si realizzò la prima \[delle Nostre promesse\], mandammo contro di voi servi Nostri, di implacabile valore, che penetrarono nelle vostre contrade: la promessa è stata mantenuta.
 
 # 2035
 
@@ -8170,7 +8170,7 @@ L'uomo invoca il male, come invoca il bene. In verità l'uomo è frettoloso.
 
 # 2041
 
-Abbiamo fatto la notte e il giorno come segni: è oscuro il segno della notte, mentre è chiaro il segno del giorno, affinché in essi cerchiate la grazia del vostro Signore e conosciate lo scorrere degli anni e il computo [del tempo]. Ed ogni cosa l'abbiamo esposta in dettaglio.
+Abbiamo fatto la notte e il giorno come segni: è oscuro il segno della notte, mentre è chiaro il segno del giorno, affinché in essi cerchiate la grazia del vostro Signore e conosciate lo scorrere degli anni e il computo \[del tempo\]. Ed ogni cosa l'abbiamo esposta in dettaglio.
 
 # 2042
 
@@ -8178,7 +8178,7 @@ Al collo di ogni uomo abbiamo attaccato il suo destino e nel Giorno della Resurr
 
 # 2043
 
-[Gli sarà detto:] “Leggi il tuo scritto: oggi sarai il contabile di te stesso”.
+\[Gli sarà detto:\] “Leggi il tuo scritto: oggi sarai il contabile di te stesso”.
 
 # 2044
 
@@ -8186,7 +8186,7 @@ Chi segue la retta via, la segue a suo vantaggio; e chi si svia lo fa a suo dann
 
 # 2045
 
-Quando vogliamo distruggere una città, ordiniamo [il bene] ai suoi ricchi, ma presto trasgrediscono.Si realizza allora il Decreto e la distruggiamo completamente.
+Quando vogliamo distruggere una città, ordiniamo \[il bene\] ai suoi ricchi, ma presto trasgrediscono.Si realizza allora il Decreto e la distruggiamo completamente.
 
 # 2046
 
@@ -8226,7 +8226,7 @@ Il vostro Signore ben conosce quello che c'è nell'animo vostro. Se siete giusti
 
 # 2055
 
-Rendi il loro diritto ai parenti, ai poveri e al viandante, senza [per questo] essere prodigo,
+Rendi il loro diritto ai parenti, ai poveri e al viandante, senza \[per questo\] essere prodigo,
 
 # 2056
 
@@ -8234,7 +8234,7 @@ ché in verità i prodighi sono fratelli dei diavoli e Satana è molto ingrato n
 
 # 2057
 
-Se volti loro le spalle [perché nulla hai da dare], pur sperando nella misericordia del tuo Signore, di' loro una parola di bontà.
+Se volti loro le spalle \[perché nulla hai da dare\], pur sperando nella misericordia del tuo Signore, di' loro una parola di bontà.
 
 # 2058
 
@@ -8246,7 +8246,7 @@ In verità il tuo Signore concede, con larghezza o parsimonia, la Sua provvidenz
 
 # 2060
 
-Non uccidete i vostri figli per timore della miseria: siamo Noi a provvederli di cibo, come [provvediamo] a voi stessi. Ucciderli è veramente un peccato gravissimo.
+Non uccidete i vostri figli per timore della miseria: siamo Noi a provvederli di cibo, come \[provvediamo\] a voi stessi. Ucciderli è veramente un peccato gravissimo.
 
 # 2061
 
@@ -8254,11 +8254,11 @@ Non ti avvicinare alla fornicazione. È davvero cosa turpe e un tristo sentiero.
 
 # 2062
 
-E non uccidete, senza valida ragione, coloro che Allah vi ha proibito di uccidere. Se qualcuno viene ucciso ingiustamente, diamo autorità al suo rappresentante; che questi però non commetta eccessi [nell'uccisione] e sarà assistito.
+E non uccidete, senza valida ragione, coloro che Allah vi ha proibito di uccidere. Se qualcuno viene ucciso ingiustamente, diamo autorità al suo rappresentante; che questi però non commetta eccessi \[nell'uccisione\] e sarà assistito.
 
 # 2063
 
-Non toccate i beni dell'orfano se non a suo vantaggio e [solo] fino a quando non raggiunga la maggiore età. Rispettate il patto, ché in verità vi sarà chiesto di darne conto.
+Non toccate i beni dell'orfano se non a suo vantaggio e \[solo\] fino a quando non raggiunga la maggiore età. Rispettate il patto, ché in verità vi sarà chiesto di darne conto.
 
 # 2064
 
@@ -8286,11 +8286,11 @@ Il vostro Signore vi avrebbe riservato dei maschi e avrebbe preso femmine tra gl
 
 # 2070
 
-In verità abbiamo esposto [la dottrina] in questo Corano perché [i miscredenti] dessero ascolto, ma ciò non fa che aumentare la loro avversione.
+In verità abbiamo esposto \[la dottrina\] in questo Corano perché \[i miscredenti\] dessero ascolto, ma ciò non fa che aumentare la loro avversione.
 
 # 2071
 
-Di': “Se ci fossero dèi assieme a Lui, come dicono alcuni, [tali dèi] cercherebbero una via per giungere fino al padrone del Trono [celeste]”.
+Di': “Se ci fossero dèi assieme a Lui, come dicono alcuni, \[tali dèi\] cercherebbero una via per giungere fino al padrone del Trono \[celeste\]”.
 
 # 2072
 
@@ -8346,7 +8346,7 @@ Il tuo Signore ben conosce quel che c'è nei cieli e sulla terra. Ad alcuni prof
 
 # 2085
 
-Di' [loro]: “Invocate quelli che pretendete [essere dèi] all'infuori di Lui. Essi non sono in grado di evitarvi la sventura e neppure di allontanarla”.
+Di' \[loro\]: “Invocate quelli che pretendete \[essere dèi\] all'infuori di Lui. Essi non sono in grado di evitarvi la sventura e neppure di allontanarla”.
 
 # 2086
 
@@ -8358,11 +8358,11 @@ Non v'è città che non distruggeremo prima del Giorno della Resurrezione o che 
 
 # 2088
 
-Nulla ci impedisce di inviare i segni, se non [il fatto] che gli antichi li tacciarono di menzogna. Come segno tangibile demmo la cammella ai Thamûd, ma essi le fecero torto. Inviamo i segni solo per incutere sgomento.
+Nulla ci impedisce di inviare i segni, se non \[il fatto\] che gli antichi li tacciarono di menzogna. Come segno tangibile demmo la cammella ai Thamûd, ma essi le fecero torto. Inviamo i segni solo per incutere sgomento.
 
 # 2089
 
-[Ricorda] quando dicemmo: “In verità il tuo Signore ti proteggerà dagli uomini. E la visione che ti abbiamo dato, altro non è che una tentazione per le genti - come del resto l'albero maledetto nel Corano”. Noi minacciamo, ma [ciò] non serve che ad accrescere la loro ribellione.
+\[Ricorda\] quando dicemmo: “In verità il tuo Signore ti proteggerà dagli uomini. E la visione che ti abbiamo dato, altro non è che una tentazione per le genti - come del resto l'albero maledetto nel Corano”. Noi minacciamo, ma \[ciò\] non serve che ad accrescere la loro ribellione.
 
 # 2090
 
@@ -8374,7 +8374,7 @@ E disse ancora: “Che? Questo è l'essere che hai onorato più di me? Se mi dar
 
 # 2092
 
-[Allah] disse: “Vattene! E chiunque di loro ti seguirà, avrà l'Inferno per compenso, abbondante compenso.
+\[Allah\] disse: “Vattene! E chiunque di loro ti seguirà, avrà l'Inferno per compenso, abbondante compenso.
 
 # 2093
 
@@ -8398,7 +8398,7 @@ Siete forse certi che non vi faccia inghiottire da un baratro della terra o non 
 
 # 2098
 
-O siete forse certi che non vi conduca un'altra volta [sul mare], mandi contro di voi un ciclone e vi faccia annegare per la vostra miscredenza, senza che possiate trovare chi vi difenda contro di Noi?
+O siete forse certi che non vi conduca un'altra volta \[sul mare\], mandi contro di voi un ciclone e vi faccia annegare per la vostra miscredenza, senza che possiate trovare chi vi difenda contro di Noi?
 
 # 2099
 
@@ -8414,7 +8414,7 @@ E colui che sarà stato cieco in questa vita, lo sarà nell'altra e più traviat
 
 # 2102
 
-Intendevano infatti sviarti da ciò che ti abbiamo rivelato, nella speranza che Ci attribuissi, inventandolo, altro che questo [Corano]. E allora ti avrebbero preso come amico.
+Intendevano infatti sviarti da ciò che ti abbiamo rivelato, nella speranza che Ci attribuissi, inventandolo, altro che questo \[Corano\]. E allora ti avrebbero preso come amico.
 
 # 2103
 
@@ -8422,7 +8422,7 @@ E se non ti avessimo rafforzato, avresti inclinato un po' verso di loro.
 
 # 2104
 
-[E allora] ti avremmo fatto soffrire un doppio [supplizio] nella vita e un doppio [supplizio] nella morte, quindi non avresti trovato chi ti sarebbe stato d'ausilio contro di Noi.
+\[E allora\] ti avremmo fatto soffrire un doppio \[supplizio\] nella vita e un doppio \[supplizio\] nella morte, quindi non avresti trovato chi ti sarebbe stato d'ausilio contro di Noi.
 
 # 2105
 
@@ -8430,15 +8430,15 @@ Poco mancò che non ti spingessero ad abbandonare questa regione, esiliandoti; i
 
 # 2106
 
-[poiché questo è il Nostro] modo di agire nei confronti degli inviati che mandammo prima di te e non c'è cambiamento nel Nostro agire.
+\[poiché questo è il Nostro\] modo di agire nei confronti degli inviati che mandammo prima di te e non c'è cambiamento nel Nostro agire.
 
 # 2107
 
-Esegui l'orazione, dal declino del sole fino alla caduta delle tenebre, [e fa'] la Recitazione dell'alba, ché la Recitazione dell'alba è testimoniata.
+Esegui l'orazione, dal declino del sole fino alla caduta delle tenebre, \[e fa'\] la Recitazione dell'alba, ché la Recitazione dell'alba è testimoniata.
 
 # 2108
 
-Veglia [in preghiera] parte della notte, sarà per te un'opera supererogatoria; presto il tuo Signore ti risusciterà ad una stazione lodata.
+Veglia \[in preghiera\] parte della notte, sarà per te un'opera supererogatoria; presto il tuo Signore ti risusciterà ad una stazione lodata.
 
 # 2109
 
@@ -8462,7 +8462,7 @@ Di': “Ognuno agisce secondo la sua disposizione e il vostro Signore ben conosc
 
 # 2114
 
-Ti interrogheranno a proposito dello Spirito. Rispondi: “Lo Spirito procede dall'ordine del mio Signore e non avete ricevuto che ben poca scienza [a riguardo].
+Ti interrogheranno a proposito dello Spirito. Rispondi: “Lo Spirito procede dall'ordine del mio Signore e non avete ricevuto che ben poca scienza \[a riguardo\].
 
 # 2115
 
@@ -8470,7 +8470,7 @@ Se volessimo, potremmo ritirare quello che ti abbiamo rivelato e allora non potr
 
 # 2116
 
-se non [lo facciamo è] per una misericordia del tuo Signore, poiché in verità, la Sua grazia su di te è grande”.
+se non \[lo facciamo è\] per una misericordia del tuo Signore, poiché in verità, la Sua grazia su di te è grande”.
 
 # 2117
 
@@ -8478,7 +8478,7 @@ Di': “Se anche si riunissero gli uomini e dèmoni per produrre qualcosa di sim
 
 # 2118
 
-In questo Corano abbiamo proposto agli uomini ogni specie di metafora. La maggior parte di loro rifiuta [tutto quanto], eccetto la miscredenza.
+In questo Corano abbiamo proposto agli uomini ogni specie di metafora. La maggior parte di loro rifiuta \[tutto quanto\], eccetto la miscredenza.
 
 # 2119
 
@@ -8494,7 +8494,7 @@ o non avrai fatto cadere, come pretendi, il cielo in pezzi su di noi; o non avra
 
 # 2122
 
-Oppure: “[finché] non avrai una casa d'oro”; o: “[finché] non sarai asceso al cielo, e comunque non crederemo alla tua ascesa al cielo, finché non farai scendere su di noi un Libro che possiamo leggere”. Rispondi: “Gloria al mio Signore: non sono altro che un uomo, un messaggero”.
+Oppure: “\[finché\] non avrai una casa d'oro”; o: “\[finché\] non sarai asceso al cielo, e comunque non crederemo alla tua ascesa al cielo, finché non farai scendere su di noi un Libro che possiamo leggere”. Rispondi: “Gloria al mio Signore: non sono altro che un uomo, un messaggero”.
 
 # 2123
 
@@ -8510,7 +8510,7 @@ Di': “Allah è testimone sufficiente tra me e voi”. In verità Egli è ben i
 
 # 2126
 
-Colui che Allah guida è ben diretto; ma, quanto a coloro che Allah svia, non troverai per loro patroni all'infuori di Lui, e nel Giorno della Resurrezione li riuniremo [trascinandoli] sui loro volti, ciechi, muti e sordi. L'Inferno sarà la loro dimora e ogni volta che si raffredderà, ne ravviveremo le fiamme.
+Colui che Allah guida è ben diretto; ma, quanto a coloro che Allah svia, non troverai per loro patroni all'infuori di Lui, e nel Giorno della Resurrezione li riuniremo \[trascinandoli\] sui loro volti, ciechi, muti e sordi. L'Inferno sarà la loro dimora e ogni volta che si raffredderà, ne ravviveremo le fiamme.
 
 # 2127
 
@@ -8530,11 +8530,11 @@ In verità abbiamo dato a Mosè nove segni evidenti.
 
 # 2131
 
-Disse: “Sai bene, che non ha fatto scendere questi segni, altri che il Signore dei cieli e della terra, prove inequivocabili [della mia missione]. Io credo, Faraone, che tu sia perduto!”.
+Disse: “Sai bene, che non ha fatto scendere questi segni, altri che il Signore dei cieli e della terra, prove inequivocabili \[della mia missione\]. Io credo, Faraone, che tu sia perduto!”.
 
 # 2132
 
-[Faraone] voleva scacciarli dalla terra, ma Noi li facemmo annegare, lui e quelli che erano con lui.
+\[Faraone\] voleva scacciarli dalla terra, ma Noi li facemmo annegare, lui e quelli che erano con lui.
 
 # 2133
 
@@ -8542,7 +8542,7 @@ Dicemmo poi ai Figli di Israele: “Abitate la terra!”. Quando si compì l'ult
 
 # 2134
 
-Con la verità abbiamo fatto scendere [il Corano] e con la verità è sceso: non ti inviammo se non come annunciatore di buona novella e come ammonitore.
+Con la verità abbiamo fatto scendere \[il Corano\] e con la verità è sceso: non ti inviammo se non come annunciatore di buona novella e come ammonitore.
 
 # 2135
 
@@ -8570,11 +8570,11 @@ E di': “La lode appartiene ad Allah, Che non ha figlio alcuno, Che non ha asso
 
 # 2141
 
-La lode [appartiene] ad Allah, Che ha fatto scendere il Libro sul Suo schiavo senza porvi alcuna tortuosità.
+La lode \[appartiene\] ad Allah, Che ha fatto scendere il Libro sul Suo schiavo senza porvi alcuna tortuosità.
 
 # 2142
 
-[Un Libro] retto, per avvertire di un rigore proveniente da parte di Allah, per annunciare ai credenti che compiono il bene, una ricompensa bella,
+\[Un Libro\] retto, per avvertire di un rigore proveniente da parte di Allah, per annunciare ai credenti che compiono il bene, una ricompensa bella,
 
 # 2143
 
@@ -8610,7 +8610,7 @@ Quando quei giovani si rifugiarono nella caverna, dissero: “Signor nostro, con
 
 # 2151
 
-Rendemmo sorde le loro orecchie, [rimasero] nella caverna per molti anni.
+Rendemmo sorde le loro orecchie, \[rimasero\] nella caverna per molti anni.
 
 # 2152
 
@@ -8662,7 +8662,7 @@ Non dire mai di nessuna cosa: “Sicuramente domani farò questo...”
 
 # 2164
 
-senza dire “se Allah vuole”. Ricordati del tuo Signore quando avrai dimenticato [di dirlo] e di': “Spero che il mio Signore mi guidi in una direzione ancora migliore”.
+senza dire “se Allah vuole”. Ricordati del tuo Signore quando avrai dimenticato \[di dirlo\] e di': “Spero che il mio Signore mi guidi in una direzione ancora migliore”.
 
 # 2165
 
@@ -8682,7 +8682,7 @@ E persevera insieme con coloro che invocano il loro Signore al mattino e alla se
 
 # 2169
 
-Di': “La verità [proviene] dal vostro Signore: creda chi vuole e chi vuole neghi”. In verità abbiamo preparato per gli ingiusti un fuoco le cui fiamme li circonderanno, e quando imploreranno da bere, saranno abbeverati da un'acqua simile a metallo fuso, che ustionerà i loro volti. Che terribile bevanda, che atroce dimora!
+Di': “La verità \[proviene\] dal vostro Signore: creda chi vuole e chi vuole neghi”. In verità abbiamo preparato per gli ingiusti un fuoco le cui fiamme li circonderanno, e quando imploreranno da bere, saranno abbeverati da un'acqua simile a metallo fuso, che ustionerà i loro volti. Che terribile bevanda, che atroce dimora!
 
 # 2170
 
@@ -8742,7 +8742,7 @@ E non ci fu schiera che potesse essergli d'aiuto contro Allah ed egli stesso non
 
 # 2184
 
-Ché in tal caso [spetta] ad Allah, il Vero, la protezione. Egli è il migliore nella ricompensa e nel [giusto] esito.
+Ché in tal caso \[spetta\] ad Allah, il Vero, la protezione. Egli è il migliore nella ricompensa e nel \[giusto\] esito.
 
 # 2185
 
@@ -8750,7 +8750,7 @@ Proponi loro la metafora di questa vita: è simile ad un'acqua che facciamo scen
 
 # 2186
 
-Ricchezze e figli sono l'ornamento di questa vita. Tuttavia le buone tracce che restano, sono, presso Allah, le migliori quanto a ricompensa e [suscitano] una bella speranza.
+Ricchezze e figli sono l'ornamento di questa vita. Tuttavia le buone tracce che restano, sono, presso Allah, le migliori quanto a ricompensa e \[suscitano\] una bella speranza.
 
 # 2187
 
@@ -8786,7 +8786,7 @@ Certamente, in questo Corano, abbiamo offerto alle genti ogni sorta di esempi. C
 
 # 2195
 
-Cosa mai impedisce agli uomini di credere, dopo che è giunta loro la Guida, e di chiedere perdono al loro Signore? [Vogliono] subire il destino dei loro avi e [che] li colpisca in pieno il castigo?
+Cosa mai impedisce agli uomini di credere, dopo che è giunta loro la Guida, e di chiedere perdono al loro Signore? \[Vogliono\] subire il destino dei loro avi e \[che\] li colpisca in pieno il castigo?
 
 # 2196
 
@@ -8802,11 +8802,11 @@ Il tuo Signore è il Perdonatore, Colui Che detiene la misericordia. Se consider
 
 # 2199
 
-Quelle città le facemmo perire quando [i loro abitanti] furono ingiusti; per ognuna avevamo stabilito un termine per la loro distruzione.
+Quelle città le facemmo perire quando \[i loro abitanti\] furono ingiusti; per ognuna avevamo stabilito un termine per la loro distruzione.
 
 # 2200
 
-[Ricorda] quando Mosè disse al suo garzone: “Non avrò pace, finché non avrò raggiunto la confluenza dei due mari, dovessi anche camminare per degli anni!”.
+\[Ricorda\] quando Mosè disse al suo garzone: “Non avrò pace, finché non avrò raggiunto la confluenza dei due mari, dovessi anche camminare per degli anni!”.
 
 # 2201
 
@@ -8818,11 +8818,11 @@ Quando poi furono andati oltre, disse al suo garzone: “Tira fuori il nostro pr
 
 # 2203
 
-Rispose: “Vedi un po' [cos'è accaduto], quando ci siamo rifugiati vicino alla roccia, ho dimenticato il pesce - solo Satana mi ha fatto scordare di dirtelo - e miracolosamente ha ripreso la sua via nel mare.
+Rispose: “Vedi un po' \[cos'è accaduto\], quando ci siamo rifugiati vicino alla roccia, ho dimenticato il pesce - solo Satana mi ha fatto scordare di dirtelo - e miracolosamente ha ripreso la sua via nel mare.
 
 # 2204
 
-Disse [Mosè]: “Questo è quello che cercavamo”. Poi entrambi ritornarono sui loro passi.
+Disse \[Mosè\]: “Questo è quello che cercavamo”. Poi entrambi ritornarono sui loro passi.
 
 # 2205
 
@@ -8830,7 +8830,7 @@ Incontrarono uno dei Nostri servi, al quale avevamo concesso misericordia da par
 
 # 2206
 
-Chiese [Mosè]: “Posso seguirti per imparare quello che ti è stato insegnato [a proposito] della retta via?”.
+Chiese \[Mosè\]: “Posso seguirti per imparare quello che ti è stato insegnato \[a proposito\] della retta via?”.
 
 # 2207
 
@@ -8842,15 +8842,15 @@ Come potresti resistere dinnanzi a fatiche, che non potrai comprendere?”.
 
 # 2209
 
-Disse [Mosè]: “Se Allah vuole sarò paziente e non disobbedirò ai tuoi ordini”;
+Disse \[Mosè\]: “Se Allah vuole sarò paziente e non disobbedirò ai tuoi ordini”;
 
 # 2210
 
-[e l'altro] ribadì: “Se vuoi seguirmi, non dovrai interrogarmi su alcunchè, prima che io te ne parli”.
+\[e l'altro\] ribadì: “Se vuoi seguirmi, non dovrai interrogarmi su alcunchè, prima che io te ne parli”.
 
 # 2211
 
-Partirono entrambi e, dopo essere saliti su una nave, quello vi produsse una falla. Chiese [Mosè]: “Hai prodotto la falla per far annegare tutti quanti? Hai certo commesso qualcosa di atroce!”.
+Partirono entrambi e, dopo essere saliti su una nave, quello vi produsse una falla. Chiese \[Mosè\]: “Hai prodotto la falla per far annegare tutti quanti? Hai certo commesso qualcosa di atroce!”.
 
 # 2212
 
@@ -8862,7 +8862,7 @@ Disse: “Non essere in collera per la mia dimenticanza e non impormi una prova 
 
 # 2214
 
-Continuarono insieme e incontrarono un giovanetto che [quello] uccise. Insorse [Mosè]: “Hai ucciso un incolpevole, senza ragione di giustizia? Hai certo commesso un'azione orribile”.
+Continuarono insieme e incontrarono un giovanetto che \[quello\] uccise. Insorse \[Mosè\]: “Hai ucciso un incolpevole, senza ragione di giustizia? Hai certo commesso un'azione orribile”.
 
 # 2215
 
@@ -8870,11 +8870,11 @@ Rispose: “Non ti avevo detto, che non avresti avuto pazienza insieme con me?�
 
 # 2216
 
-Disse [Mosè]: “Se dopo di ciò ancora ti interrogherò, non mi tenere più insieme con te. Ti prego di scusarmi”.
+Disse \[Mosè\]: “Se dopo di ciò ancora ti interrogherò, non mi tenere più insieme con te. Ti prego di scusarmi”.
 
 # 2217
 
-Continuarono insieme e giunsero nei pressi di un abitato. Chiesero da mangiare agli abitanti, ma costoro rifiutarono l'ospitalità. S'imbatterono poi in un muro che minacciava di crollare e [quello] lo raddrizzò. Disse [Mosè]: “Potresti ben chiedere un salario per quello che hai fatto”.
+Continuarono insieme e giunsero nei pressi di un abitato. Chiesero da mangiare agli abitanti, ma costoro rifiutarono l'ospitalità. S'imbatterono poi in un muro che minacciava di crollare e \[quello\] lo raddrizzò. Disse \[Mosè\]: “Potresti ben chiedere un salario per quello che hai fatto”.
 
 # 2218
 
@@ -8890,7 +8890,7 @@ Il giovane aveva padre e madre credenti, abbiamo voluto impedire che imponesse l
 
 # 2221
 
-e abbiamo voluto che il loro Signore desse loro in cambio [un figlio] più puro e più degno di affetto.
+e abbiamo voluto che il loro Signore desse loro in cambio \[un figlio\] più puro e più degno di affetto.
 
 # 2222
 
@@ -8910,7 +8910,7 @@ Egli seguì una via.
 
 # 2226
 
-Quando giunse all'[estremo] occidente, vide il sole che tramontava in una sorgente ribollente e nei pressi c'era un popolo. Dicemmo: “O Bicorne, puoi punirli oppure esercitare benevolenza nei loro confronti”.
+Quando giunse all'\[estremo\] occidente, vide il sole che tramontava in una sorgente ribollente e nei pressi c'era un popolo. Dicemmo: “O Bicorne, puoi punirli oppure esercitare benevolenza nei loro confronti”.
 
 # 2227
 
@@ -8950,7 +8950,7 @@ Disse: “Ciò che il mio Signore mi ha concesso è assai migliore. Voi aiutatem
 
 # 2236
 
-Portatemi masse di ferro”. Quando poi ne ebbe colmato il valico [tra le due montagne] disse: “Soffiate!”. Quando fu incandescente, disse: “Portatemi rame, affinché io lo versi sopra”.
+Portatemi masse di ferro”. Quando poi ne ebbe colmato il valico \[tra le due montagne\] disse: “Soffiate!”. Quando fu incandescente, disse: “Portatemi rame, affinché io lo versi sopra”.
 
 # 2237
 
@@ -9014,7 +9014,7 @@ Kâf, Hâ', Ya', Aîn, Sâd.
 
 # 2252
 
-[Questo è il] racconto della Misericordia del tuo Signore verso il Suo servo Zaccaria,
+\[Questo è il\] racconto della Misericordia del tuo Signore verso il Suo servo Zaccaria,
 
 # 2253
 
@@ -9026,7 +9026,7 @@ dicendo: “O Signor mio, già sono stanche le mie ossa e sul mio capo brilla la
 
 # 2255
 
-Mia moglie è sterile e temo [il comportamento] dei miei parenti dopo di me: concedimi, da parte Tua, un erede
+Mia moglie è sterile e temo \[il comportamento\] dei miei parenti dopo di me: concedimi, da parte Tua, un erede
 
 # 2256
 
@@ -9046,11 +9046,11 @@ Rispose: “È così! Il tuo Signore ha detto: "Ciò è facile per me: già una 
 
 # 2260
 
-Disse [Zaccaria]: “Dammi un segno, mio Signore!”. Rispose: “Il tuo segno sarà che, pur essendo sano, non potrai parlare alla gente per tre notti”.
+Disse \[Zaccaria\]: “Dammi un segno, mio Signore!”. Rispose: “Il tuo segno sarà che, pur essendo sano, non potrai parlare alla gente per tre notti”.
 
 # 2261
 
-Uscì dall'oratorio verso la sua gente e indicò loro di rendere gloria [al Signore] al mattino e alla sera.
+Uscì dall'oratorio verso la sua gente e indicò loro di rendere gloria \[al Signore\] al mattino e alla sera.
 
 # 2262
 
@@ -9066,7 +9066,7 @@ amorevole con i suoi genitori, né violento, né disobbediente.
 
 # 2265
 
-Pace su di lui, nel giorno in cui nacque, in quello della sua morte e nel Giorno in cui sarà risuscitato a [nuova] vita.
+Pace su di lui, nel giorno in cui nacque, in quello della sua morte e nel Giorno in cui sarà risuscitato a \[nuova\] vita.
 
 # 2266
 
@@ -9078,7 +9078,7 @@ Tese una cortina tra sé e gli altri. Le inviammo il Nostro Spirito che assunse 
 
 # 2268
 
-Disse [Maria]: “Mi rifugio contro di te presso il Compassionevole, se sei [di Lui] timorato!”.
+Disse \[Maria\]: “Mi rifugio contro di te presso il Compassionevole, se sei \[di Lui\] timorato!”.
 
 # 2269
 
@@ -9114,7 +9114,7 @@ Mangia, bevi e rinfrancati. Se poi incontrerai qualcuno, di': "Ho fatto un voto 
 
 # 2277
 
-Tornò dai suoi portando [il bambino]. Dissero: “O Maria, hai commesso un abominio!
+Tornò dai suoi portando \[il bambino\]. Dissero: “O Maria, hai commesso un abominio!
 
 # 2278
 
@@ -9122,11 +9122,11 @@ O sorella di Aronne, tuo padre non era un empio, né tua madre una libertina”.
 
 # 2279
 
-Maria indicò loro [il bambino]. Dissero: “Come potremmo parlare con un infante nella culla?”,
+Maria indicò loro \[il bambino\]. Dissero: “Come potremmo parlare con un infante nella culla?”,
 
 # 2280
 
-[Ma Gesù] disse: “In verità, sono un servo di Allah. Mi ha dato la Scrittura e ha fatto di me un profeta.
+\[Ma Gesù\] disse: “In verità, sono un servo di Allah. Mi ha dato la Scrittura e ha fatto di me un profeta.
 
 # 2281
 
@@ -9238,7 +9238,7 @@ Lo elevammo in alto luogo.
 
 # 2308
 
-Essi sono coloro che Allah ha colmato [della Sua grazia] tra i profeti discendenti di Adamo, tra coloro che portammo con Noè, tra i discendenti di Abramo e di Israele e tra coloro che abbiamo guidato e scelto. Quando venivano recitati loro i segni del Compassionevole, cadevano in prosternazione, piangendo.
+Essi sono coloro che Allah ha colmato \[della Sua grazia\] tra i profeti discendenti di Adamo, tra coloro che portammo con Noè, tra i discendenti di Abramo e di Israele e tra coloro che abbiamo guidato e scelto. Quando venivano recitati loro i segni del Compassionevole, cadevano in prosternazione, piangendo.
 
 # 2309
 
@@ -9250,7 +9250,7 @@ Coloro che invece si pentono, credono e compiono il bene, entreranno nel Giardin
 
 # 2311
 
-nei Giardini di Eden, che il Compassionevole ha promesso ai Suoi servi che [hanno creduto] nell'invisibile, ai Suoi servi, ché la Sua promessa è imminente;
+nei Giardini di Eden, che il Compassionevole ha promesso ai Suoi servi che \[hanno creduto\] nell'invisibile, ai Suoi servi, ché la Sua promessa è imminente;
 
 # 2312
 
@@ -9306,7 +9306,7 @@ Quante generazioni abbiamo annientato prima di loro, più ricche di beni e di pr
 
 # 2325
 
-Di': “Che il Compassionevole prolunghi [la vita] di coloro che sono sviati, finché non vedranno il castigo e l'Ora che li minaccia. Sapranno allora chi si trova nella peggiore situazione e [chi ha] la compagine più debole”.
+Di': “Che il Compassionevole prolunghi \[la vita\] di coloro che sono sviati, finché non vedranno il castigo e l'Ora che li minaccia. Sapranno allora chi si trova nella peggiore situazione e \[chi ha\] la compagine più debole”.
 
 # 2326
 
@@ -9330,7 +9330,7 @@ Saremo Noi ad ereditare ciò di cui parla, e si presenterà da solo dinnanzi a N
 
 # 2331
 
-Si sono presi dèi, all'infuori di Allah, [sperando] che fossero loro d'aiuto.
+Si sono presi dèi, all'infuori di Allah, \[sperando\] che fossero loro d'aiuto.
 
 # 2332
 
@@ -9350,7 +9350,7 @@ Il Giorno in cui riuniremo i timorati presso il Compassionevole, come invitati d
 
 # 2336
 
-e spingeremo i malvagi nell'Inferno, come [bestie] all'abbeveratoio,
+e spingeremo i malvagi nell'Inferno, come \[bestie\] all'abbeveratoio,
 
 # 2337
 
@@ -9410,7 +9410,7 @@ Non abbiamo fatto scendere il Corano su di te per renderti infelice,
 
 # 2351
 
-ma come Monito per chi ha timore [di Allah],
+ma come Monito per chi ha timore \[di Allah\],
 
 # 2352
 
@@ -9426,7 +9426,7 @@ Appartiene a Lui quello che è nei cieli e quello che sta sulla terra, quello ch
 
 # 2355
 
-[È inutile che] parli ad alta voce, ché in verità Egli conosce il segreto, anche il più nascosto.
+\[È inutile che\] parli ad alta voce, ché in verità Egli conosce il segreto, anche il più nascosto.
 
 # 2356
 
@@ -9438,7 +9438,7 @@ Ti è giunta la storia di Mosè?
 
 # 2358
 
-Quando vide un fuoco, disse alla sua famiglia: “Aspettate! Ho avvistato un fuoco, forse [potrò] portarvene un tizzone o trovare nei suoi pressi una guida”.
+Quando vide un fuoco, disse alla sua famiglia: “Aspettate! Ho avvistato un fuoco, forse \[potrò\] portarvene un tizzone o trovare nei suoi pressi una guida”.
 
 # 2359
 
@@ -9470,11 +9470,11 @@ O Mosè, cosa tieni nella tua mano destra?”.
 
 # 2366
 
-Disse: “È il mio bastone, mi ci appoggio, e faccio cadere foglie [degli alberi] per i miei montoni e mi serve anche per altre cose”.
+Disse: “È il mio bastone, mi ci appoggio, e faccio cadere foglie \[degli alberi\] per i miei montoni e mi serve anche per altre cose”.
 
 # 2367
 
-Disse [Allah]: “Gettalo, Mosè”.
+Disse \[Allah\]: “Gettalo, Mosè”.
 
 # 2368
 
@@ -9482,7 +9482,7 @@ Lo gettò ed ecco che divenne un serpente che strisciava veloce.
 
 # 2369
 
-Disse [Allah]: “Afferralo e non temere: gli daremo la sua forma originaria.
+Disse \[Allah\]: “Afferralo e non temere: gli daremo la sua forma originaria.
 
 # 2370
 
@@ -9554,7 +9554,7 @@ quando ispirammo a tua madre quello che le fu ispirato:
 
 # 2387
 
-"Mettilo in una cesta e gettala nell'acqua, così che le onde la riportino a riva ove lo raccoglierà un Mio e suo nemico". Ho posto su di te il Mio [sguardo] amorevole, affinché tu venissi allevato sotto il Mio occhio.
+"Mettilo in una cesta e gettala nell'acqua, così che le onde la riportino a riva ove lo raccoglierà un Mio e suo nemico". Ho posto su di te il Mio \[sguardo\] amorevole, affinché tu venissi allevato sotto il Mio occhio.
 
 # 2388
 
@@ -9574,7 +9574,7 @@ Andate da Faraone: in verità si è ribellato!
 
 # 2392
 
-Parlategli con dolcezza. Forse ricorderà o temerà [Allah]”.
+Parlategli con dolcezza. Forse ricorderà o temerà \[Allah\]”.
 
 # 2393
 
@@ -9582,7 +9582,7 @@ Dissero: “O Signor nostro, temiamo che si scagli contro di noi o che accresca 
 
 # 2394
 
-Rispose: “Non temete. Io sono con voi: [tutto] odo e vedo.
+Rispose: “Non temete. Io sono con voi: \[tutto\] odo e vedo.
 
 # 2395
 
@@ -9594,7 +9594,7 @@ In verità ci è stato rivelato, che il castigo sarà per chi nega e volge le sp
 
 # 2397
 
-Disse [Faraone]: “O Mosè, chi è il vostro Signore?”.
+Disse \[Faraone\]: “O Mosè, chi è il vostro Signore?”.
 
 # 2398
 
@@ -9646,7 +9646,7 @@ Disse Mosè: “Guai a voi, non inventate menzogne contro Allah: vi annienterebb
 
 # 2410
 
-Discussero in proposito [i maghi], in segreti conciliaboli.
+Discussero in proposito \[i maghi\], in segreti conciliaboli.
 
 # 2411
 
@@ -9682,7 +9682,7 @@ I maghi caddero in prosternazione e dissero: “Crediamo nel Signore di Aronne e
 
 # 2419
 
-Disse [Faraone]: “Crederete in lui, prima che io ve lo permetta? È certo lui il vostro maestro che vi ha insegnato la magia. Vi farò tagliare mani e piedi alternati e vi farò crocifiggere a tronchi di palma e capirete chi di noi è più duro e pertinace nel castigo”.
+Disse \[Faraone\]: “Crederete in lui, prima che io ve lo permetta? È certo lui il vostro maestro che vi ha insegnato la magia. Vi farò tagliare mani e piedi alternati e vi farò crocifiggere a tronchi di palma e capirete chi di noi è più duro e pertinace nel castigo”.
 
 # 2420
 
@@ -9698,7 +9698,7 @@ Chi si presenterà empio al suo Signore, certamente avrà l'Inferno dove non mor
 
 # 2423
 
-Chi [invece] si presenterà a Lui credente, e avrà compiuto opere buone... ecco coloro che avranno l'onore più grande,
+Chi \[invece\] si presenterà a Lui credente, e avrà compiuto opere buone... ecco coloro che avranno l'onore più grande,
 
 # 2424
 
@@ -9714,7 +9714,7 @@ Li inseguì Faraone con i suoi armati e furono sommersi dalle onde.
 
 # 2427
 
-Faraone sviò la sua gente e non la guidò [al bene].
+Faraone sviò la sua gente e non la guidò \[al bene\].
 
 # 2428
 
@@ -9742,7 +9742,7 @@ Disse: “In tua assenza abbiamo tentato la tua gente e il Sâmirî li ha travia
 
 # 2434
 
-Ritornò Mosè al suo popolo pieno di collera e dispiacere, disse: “O popol mio, non vi ha fatto il vostro Signore una bella promessa? [L'attesa] del patto era troppo lunga per voi? Avete voluto che fosse su di voi la collera del vostro Signore e così avete mancato alla promessa che mi avevate fatto?”.
+Ritornò Mosè al suo popolo pieno di collera e dispiacere, disse: “O popol mio, non vi ha fatto il vostro Signore una bella promessa? \[L'attesa\] del patto era troppo lunga per voi? Avete voluto che fosse su di voi la collera del vostro Signore e così avete mancato alla promessa che mi avevate fatto?”.
 
 # 2435
 
@@ -9750,7 +9750,7 @@ Dissero: “Non è per nostra volontà che abbiamo mancato alla promessa. Eravam
 
 # 2436
 
-e ne ha tratto un vitello dal corpo mugghiante”. E [tutti] dissero: “È il vostro dio, il dio di Mosè. [Mosè] ha dimenticato [di informarvene]!”.
+e ne ha tratto un vitello dal corpo mugghiante”. E \[tutti\] dissero: “È il vostro dio, il dio di Mosè. \[Mosè\] ha dimenticato \[di informarvene\]!”.
 
 # 2437
 
@@ -9766,7 +9766,7 @@ Risposero: “Non cesseremo di adorarlo, finché Mosè non sarà di ritorno”.
 
 # 2440
 
-Disse [Mosè]: “O Aronne, cosa ti ha impedito, quando li hai visti sviarsi?
+Disse \[Mosè\]: “O Aronne, cosa ti ha impedito, quando li hai visti sviarsi?
 
 # 2441
 
@@ -9778,7 +9778,7 @@ Rispose: “O figlio di mia madre, non prendermi per la barba o per i capelli. T
 
 # 2443
 
-Disse [Mosè]: “E tu, Sâmirî, qual era il tuo disegno?”.
+Disse \[Mosè\]: “E tu, Sâmirî, qual era il tuo disegno?”.
 
 # 2444
 
@@ -9786,7 +9786,7 @@ Rispose: “Ho visto quello che non hanno visto, ho preso un pugno di polvere da
 
 # 2445
 
-“Vattene - disse [Mosè] - "Per [tutta] la vita dovrai avvertire: Non toccatemi". Sei destinato ad un incontro cui non potrai mancare! Guarda il dio che hai adorato assiduamente: lo bruceremo e disperderemo [le ceneri] nel mare.
+“Vattene - disse \[Mosè\] - "Per \[tutta\] la vita dovrai avvertire: Non toccatemi". Sei destinato ad un incontro cui non potrai mancare! Guarda il dio che hai adorato assiduamente: lo bruceremo e disperderemo \[le ceneri\] nel mare.
 
 # 2446
 
@@ -9806,19 +9806,19 @@ resteranno perpetuamente in quello stato. Che atroce fardello, nel Giorno della 
 
 # 2450
 
-Nel Giorno in cui sarà soffiato nel Corno, riuniremo in quel Giorno i malvagi, [e avranno] gli occhi bluastri.
+Nel Giorno in cui sarà soffiato nel Corno, riuniremo in quel Giorno i malvagi, \[e avranno\] gli occhi bluastri.
 
 # 2451
 
-Bisbiglieranno tra loro: “Non siete rimasti [nella tomba] che dieci [giorni]”.
+Bisbiglieranno tra loro: “Non siete rimasti \[nella tomba\] che dieci \[giorni\]”.
 
 # 2452
 
-Conosciamo meglio [di chiunque altro] quello che diranno, quando il più ragionevole di loro, dirà: “Siete rimasti solo un giorno”.
+Conosciamo meglio \[di chiunque altro\] quello che diranno, quando il più ragionevole di loro, dirà: “Siete rimasti solo un giorno”.
 
 # 2453
 
-Ti chiederanno [a proposito] delle montagne; di': “Il mio Signore le ridurrà in polvere
+Ti chiederanno \[a proposito\] delle montagne; di': “Il mio Signore le ridurrà in polvere
 
 # 2454
 
@@ -9850,7 +9850,7 @@ e chi sarà stato credente e avrà compiuto il bene, non temerà alcun danno o i
 
 # 2461
 
-Lo facemmo scendere [sotto forma di] Corano arabo, nel quale formulammo esplicite minacce. Chissà che non divengano timorati o che sia per essi un monito.
+Lo facemmo scendere \[sotto forma di\] Corano arabo, nel quale formulammo esplicite minacce. Chissà che non divengano timorati o che sia per essi un monito.
 
 # 2462
 
@@ -9870,7 +9870,7 @@ Dicemmo: “O Adamo, in verità quello è un nemico manifesto, per te e per la t
 
 # 2466
 
-[Ti promettiamo che qui] non avrai mai fame e non sarai nudo,
+\[Ti promettiamo che qui\] non avrai mai fame e non sarai nudo,
 
 # 2467
 
@@ -9902,7 +9902,7 @@ Dirà: “Signore! Perché mi hai resuscitato cieco quando prima ero vedente?”
 
 # 2474
 
-[Allah] Risponderà: “Ecco, ti giunsero i Nostri segni e li dimenticasti; alla stessa maniera oggi sei dimenticato”.
+\[Allah\] Risponderà: “Ecco, ti giunsero i Nostri segni e li dimenticasti; alla stessa maniera oggi sei dimenticato”.
 
 # 2475
 
@@ -9914,7 +9914,7 @@ Non è servito loro da lezione che facemmo perire le generazioni, nelle cui dimo
 
 # 2477
 
-Se non fosse stato per una precedente parola del tuo Signore e per un termine già stabilito, già [tutto questo] sarebbe avvenuto.
+Se non fosse stato per una precedente parola del tuo Signore e per un termine già stabilito, già \[tutto questo\] sarebbe avvenuto.
 
 # 2478
 
@@ -9930,7 +9930,7 @@ Comanda la preghiera alla tua gente e assiduamente assolvila. Non ti chiediamo a
 
 # 2481
 
-Dicono: “Perché mai non ci porta un segno da parte del suo Signore?”. Non è forse giunta a loro la Prova che era [annunciata] nelle antiche scritture?
+Dicono: “Perché mai non ci porta un segno da parte del suo Signore?”. Non è forse giunta a loro la Prova che era \[annunciata\] nelle antiche scritture?
 
 # 2482
 
@@ -9954,11 +9954,11 @@ con i cuori distratti, mentre gli ingiusti tengono tra loro segreti conciliaboli
 
 # 2487
 
-Disse: “Il mio Signore conosce [ogni] parola [pronunciata] nel cielo e sulla terra, Egli tutto ascolta e conosce”.
+Disse: “Il mio Signore conosce \[ogni\] parola \[pronunciata\] nel cielo e sulla terra, Egli tutto ascolta e conosce”.
 
 # 2488
 
-Dissero: “Sono invece incubi confusi! O è lui che li ha inventati. Non è che un poeta! Ci mostri piuttosto un segno, come quelli che furono inviati agli antichi [profeti]”.
+Dissero: “Sono invece incubi confusi! O è lui che li ha inventati. Non è che un poeta! Ci mostri piuttosto un segno, come quelli che furono inviati agli antichi \[profeti\]”.
 
 # 2489
 
@@ -10022,7 +10022,7 @@ Lo glorificano notte e giorno, ininterrottamente,
 
 # 2504
 
-[oppure] han tratto dalla terra divinità che risuscitano?
+\[oppure\] han tratto dalla terra divinità che risuscitano?
 
 # 2505
 
@@ -10090,7 +10090,7 @@ L'uomo è stato creato di impazienza. Vi mostrerò i Miei segni. Non chiedeteMi 
 
 # 2521
 
-Dicono: “Quando [si realizzerà] questa promessa? [Ditecelo] se siete veritieri”.
+Dicono: “Quando \[si realizzerà\] questa promessa? \[Ditecelo\] se siete veritieri”.
 
 # 2522
 
@@ -10166,7 +10166,7 @@ Disse: “Certo che no! Il vostro Signore è il Signore dei cieli e della terra,
 
 # 2540
 
-E [giuro] per Allah che tramerò contro i vostri idoli, non appena volterete le spalle!”.
+E \[giuro\] per Allah che tramerò contro i vostri idoli, non appena volterete le spalle!”.
 
 # 2541
 
@@ -10178,7 +10178,7 @@ Dissero: “Chi ha fatto questo ai nostri dèi, è certo un iniquo!”.
 
 # 2543
 
-Disse [qualcuno di loro]: “Abbiamo sentito un giovane che li disprezzava: si chiama Abramo”.
+Disse \[qualcuno di loro\]: “Abbiamo sentito un giovane che li disprezzava: si chiama Abramo”.
 
 # 2544
 
@@ -10198,7 +10198,7 @@ Si avvidero del loro imbarazzo e dissero tra loro: “Davvero siete stati ingius
 
 # 2548
 
-Fecero un voltafaccia [e dissero]: “Ben sai, che essi non parlano!”.
+Fecero un voltafaccia \[e dissero\]: “Ben sai, che essi non parlano!”.
 
 # 2549
 
@@ -10210,7 +10210,7 @@ Vergognatevi di voi stessi e di ciò che adorate all'infuori di Allah! Non ragio
 
 # 2551
 
-Dissero: “Bruciatelo e andate in aiuto dei vostri dèi, se siete [in grado] di farlo”.
+Dissero: “Bruciatelo e andate in aiuto dei vostri dèi, se siete \[in grado\] di farlo”.
 
 # 2552
 
@@ -10222,7 +10222,7 @@ Tramarono contro di lui, ma facemmo sì che fossero loro i perdenti.
 
 # 2554
 
-Salvammo lui e Lot e [li guidammo] verso una terra che colmammo di benedizione per i popoli.
+Salvammo lui e Lot e \[li guidammo\] verso una terra che colmammo di benedizione per i popoli.
 
 # 2555
 
@@ -10254,7 +10254,7 @@ Davide e Salomone giudicarono a proposito di un campo coltivato che un gregge di
 
 # 2562
 
-Facemmo sì che Salomone comprendesse [correttamente]. Demmo ad entrambi saggezza e scienza. Costringemmo le montagne a rendere gloria insieme con Davide e gli uccelli insieme. Siamo Noi che lo abbiamo fatto.
+Facemmo sì che Salomone comprendesse \[correttamente\]. Demmo ad entrambi saggezza e scienza. Costringemmo le montagne a rendere gloria insieme con Davide e gli uccelli insieme. Siamo Noi che lo abbiamo fatto.
 
 # 2563
 
@@ -10262,7 +10262,7 @@ Gli insegnammo, a vostro vantaggio, la fabbricazione delle cotte di maglia, affi
 
 # 2564
 
-E [sottomettemmo] il vento impetuoso a Salomone: al suo ordine soffiava sulla terra che abbiamo benedetta. Noi conosciamo ogni cosa.
+E \[sottomettemmo\] il vento impetuoso a Salomone: al suo ordine soffiava sulla terra che abbiamo benedetta. Noi conosciamo ogni cosa.
 
 # 2565
 
@@ -10274,7 +10274,7 @@ E si rivolse Giobbe al suo Signore: “Il male mi ha colpito, ma Tu sei il più 
 
 # 2567
 
-Gli rispondemmo e lo sollevammo dal male che lo affliggeva e gli restituimmo la sua famiglia e un'altra ancora, segno di misericordia da parte Nostra e Monito per coloro che [Ci] adorano.
+Gli rispondemmo e lo sollevammo dal male che lo affliggeva e gli restituimmo la sua famiglia e un'altra ancora, segno di misericordia da parte Nostra e Monito per coloro che \[Ci\] adorano.
 
 # 2568
 
@@ -10302,7 +10302,7 @@ Lo esaudimmo e gli demmo Giovanni e sanammo la sua sposa. In verità tendevano a
 
 # 2574
 
-E [ricorda] colei che ha mantenuto la sua castità! Insufflammo in essa del Nostro Spirito e facemmo di lei e di suo figlio un segno per i mondi
+E \[ricorda\] colei che ha mantenuto la sua castità! Insufflammo in essa del Nostro Spirito e facemmo di lei e di suo figlio un segno per i mondi
 
 # 2575
 
@@ -10318,7 +10318,7 @@ Chi compie il bene ed è credente non vedrà disconosciuto il suo sforzo, ché N
 
 # 2578
 
-[Agli abitanti] delle città che facemmo perire è vietato ritornare [al mondo],
+\[Agli abitanti\] delle città che facemmo perire è vietato ritornare \[al mondo\],
 
 # 2579
 
@@ -10398,7 +10398,7 @@ Il Giorno in cui la vedrete, ogni nutrice dimenticherà il suo lattante e ogni f
 
 # 2598
 
-C'è gente che polemizza a proposito di Allah, senza [alcuna] scienza e seguono ogni diavolo ribelle,
+C'è gente che polemizza a proposito di Allah, senza \[alcuna\] scienza e seguono ogni diavolo ribelle,
 
 # 2599
 
@@ -10406,7 +10406,7 @@ del quale è scritto che travierà e guiderà verso il castigo della Fiamma, chi
 
 # 2600
 
-O uomini, se dubitate della Resurrezione, sappiate che vi creammo da polvere e poi da sperma e poi da un'aderenza e quindi da un pezzetto di carne, formata e non formata - così Noi vi spieghiamo - e poniamo nell'utero quello che vogliamo fino a un termine stabilito. Vi facciamo uscire lattanti, per condurvi poi alla pubertà. Qualcuno di voi muore e altri portiamo fino all'età decrepita, tanto che non sanno più nulla, dopo aver saputo. Vedrai [alla stessa maniera] la terra disseccata che freme e si gonfia quando vi facciamo scendere l'acqua e lascia spuntare ogni splendida specie di piante.
+O uomini, se dubitate della Resurrezione, sappiate che vi creammo da polvere e poi da sperma e poi da un'aderenza e quindi da un pezzetto di carne, formata e non formata - così Noi vi spieghiamo - e poniamo nell'utero quello che vogliamo fino a un termine stabilito. Vi facciamo uscire lattanti, per condurvi poi alla pubertà. Qualcuno di voi muore e altri portiamo fino all'età decrepita, tanto che non sanno più nulla, dopo aver saputo. Vedrai \[alla stessa maniera\] la terra disseccata che freme e si gonfia quando vi facciamo scendere l'acqua e lascia spuntare ogni splendida specie di piante.
 
 # 2601
 
@@ -10446,11 +10446,11 @@ In verità, coloro che credono e operano il bene, Allah li farà entrare nei Gia
 
 # 2610
 
-Chi pensa che Allah non darà la vittoria [al Suo Inviato] in questa vita e nell'Altra, tenda una corda al soffitto, fino a soffocarsi. Vedrà così, se il suo artificio farà sparire ciò che lo fa andare in collera.
+Chi pensa che Allah non darà la vittoria \[al Suo Inviato\] in questa vita e nell'Altra, tenda una corda al soffitto, fino a soffocarsi. Vedrà così, se il suo artificio farà sparire ciò che lo fa andare in collera.
 
 # 2611
 
-Così lo facemmo scendere dal cielo in versetti espliciti. In verità, Allah guida chi vuole! [Il pronome si riferisce al Corano]
+Così lo facemmo scendere dal cielo in versetti espliciti. In verità, Allah guida chi vuole! \[Il pronome si riferisce al Corano\]
 
 # 2612
 
@@ -10458,7 +10458,7 @@ E certamente, nel Giorno della Resurrezione, Allah giudicherà tra coloro che ha
 
 # 2613
 
-Non vedi, dunque, che è davanti ad Allah che si prosternano tutti coloro che sono nei cieli e tutti coloro che sono sulla terra e il sole e la luna e le stelle e le montagne e gli alberi e gli animali e molti tra gli uomini? Contro molti [altri] si realizzerà il castigo. E chi sarà disprezzato da Allah, non sarà onorato da nessuno. Allah fa quello che vuole.
+Non vedi, dunque, che è davanti ad Allah che si prosternano tutti coloro che sono nei cieli e tutti coloro che sono sulla terra e il sole e la luna e le stelle e le montagne e gli alberi e gli animali e molti tra gli uomini? Contro molti \[altri\] si realizzerà il castigo. E chi sarà disprezzato da Allah, non sarà onorato da nessuno. Allah fa quello che vuole.
 
 # 2614
 
@@ -10486,11 +10486,11 @@ Saranno guidati alla Parola migliore, saranno guidati alla via del Degno di lode
 
 # 2620
 
-Quanto ai miscredenti che distolgono [le genti] dalla via di Allah e dalla Santa Moschea, che abbiamo istituito per gli uomini... e, chi vi risiede e chi vi si reca, sono uguali - e a chiunque insolentemente la profana, faremo provare un doloroso castigo.
+Quanto ai miscredenti che distolgono \[le genti\] dalla via di Allah e dalla Santa Moschea, che abbiamo istituito per gli uomini... e, chi vi risiede e chi vi si reca, sono uguali - e a chiunque insolentemente la profana, faremo provare un doloroso castigo.
 
 # 2621
 
-Stabilimmo per Abramo il sito della Casa (dicendogli): “Non associare a Me alcunché, mantieni pura la Mia Casa per coloro che vi girano attorno, per coloro che si tengono ritti [in preghiera], per coloro che si inchinano e si prosternano.
+Stabilimmo per Abramo il sito della Casa (dicendogli): “Non associare a Me alcunché, mantieni pura la Mia Casa per coloro che vi girano attorno, per coloro che si tengono ritti \[in preghiera\], per coloro che si inchinano e si prosternano.
 
 # 2622
 
@@ -10514,7 +10514,7 @@ Siate sinceri nei confronti di Allah e non associateGli alcunché. Chi attribuis
 
 # 2627
 
-Questo è quanto [vi è stato prescritto], e chi rispetta i sacri simboli di Allah, sa che ciò scaturisce dal timore del cuore.
+Questo è quanto \[vi è stato prescritto\], e chi rispetta i sacri simboli di Allah, sa che ciò scaturisce dal timore del cuore.
 
 # 2628
 
@@ -10530,11 +10530,11 @@ coloro i cui cuori fremono al ricordo di Allah, coloro che sopportano con costan
 
 # 2631
 
-E le [vittime sacrificali] imponenti ve le indicammo come elementi rituali. In ciò vi è un bene per voi! Menzionate su di loro il Nome di Allah quando le apprestate [al sacrificio], poi, quando giacciono [senza vita] sul fianco, mangiatene e nutrite chi è discreto nel bisogno e chi chiede l'elemosina. Così ve le assoggettammo, affinché siate riconoscenti.
+E le \[vittime sacrificali\] imponenti ve le indicammo come elementi rituali. In ciò vi è un bene per voi! Menzionate su di loro il Nome di Allah quando le apprestate \[al sacrificio\], poi, quando giacciono \[senza vita\] sul fianco, mangiatene e nutrite chi è discreto nel bisogno e chi chiede l'elemosina. Così ve le assoggettammo, affinché siate riconoscenti.
 
 # 2632
 
-Le loro carni e il loro sangue non giungono ad Allah, vi giunge invece il vostro timor [di Lui]. Così ve le ha assoggettate, affinché proclamiate la grandezza di Allah Che vi ha guidato. Danne la lieta novella a coloro che operano il bene.
+Le loro carni e il loro sangue non giungono ad Allah, vi giunge invece il vostro timor \[di Lui\]. Così ve le ha assoggettate, affinché proclamiate la grandezza di Allah Che vi ha guidato. Danne la lieta novella a coloro che operano il bene.
 
 # 2633
 
@@ -10542,19 +10542,19 @@ In verità, Allah difende coloro che credono. Allah non ama il traditore ingrato
 
 # 2634
 
-A coloro che sono stati aggrediti è data l'autorizzazione [di difendersi], perché certamente sono stati oppressi e, in verità, Allah ha la potenza di soccorrerli;
+A coloro che sono stati aggrediti è data l'autorizzazione \[di difendersi\], perché certamente sono stati oppressi e, in verità, Allah ha la potenza di soccorrerli;
 
 # 2635
 
-a coloro che senza colpa sono stati scacciati dalle loro case, solo perché dicevano: “Allah è il nostro Signore”. Se Allah non respingesse gli uni per mezzo degli altri, sarebbero ora distrutti monasteri e chiese, sinagoghe e moschee nei quali il Nome di Allah è spesso menzionato. Allah verrà in aiuto di coloro che sostengono [la Sua religione]. In verità, Allah è forte e possente.
+a coloro che senza colpa sono stati scacciati dalle loro case, solo perché dicevano: “Allah è il nostro Signore”. Se Allah non respingesse gli uni per mezzo degli altri, sarebbero ora distrutti monasteri e chiese, sinagoghe e moschee nei quali il Nome di Allah è spesso menzionato. Allah verrà in aiuto di coloro che sostengono \[la Sua religione\]. In verità, Allah è forte e possente.
 
 # 2636
 
-[Essi sono] coloro che quando diamo loro potere sulla terra, assolvono all'orazione, versano la decima, raccomandano le buone consuetudini e proibiscono ciò che è riprovevole. Appartiene ad Allah l'esito di tutte le cose.
+\[Essi sono\] coloro che quando diamo loro potere sulla terra, assolvono all'orazione, versano la decima, raccomandano le buone consuetudini e proibiscono ciò che è riprovevole. Appartiene ad Allah l'esito di tutte le cose.
 
 # 2637
 
-E se ti considerano un impostore, ebbene [sappi che] prima di loro tacciarono di menzogna [i loro profeti] il popolo di Noè, gli Âd, i Thamûd,
+E se ti considerano un impostore, ebbene \[sappi che\] prima di loro tacciarono di menzogna \[i loro profeti\] il popolo di Noè, gli Âd, i Thamûd,
 
 # 2638
 
@@ -10590,7 +10590,7 @@ Coloro che credono e operano il bene avranno il perdono e premio generoso.
 
 # 2646
 
-Quelli che [invece] si adoperano contro i Nostri segni, quelli sono i compagni della Fornace.
+Quelli che \[invece\] si adoperano contro i Nostri segni, quelli sono i compagni della Fornace.
 
 # 2647
 
@@ -10598,11 +10598,11 @@ Non inviammo prima di te nessun messaggero e nessun profeta, senza che Satana si
 
 # 2648
 
-[Allah] fa sì che i suggerimenti di Satana siano una tentazione per coloro che hanno una malattia nel cuore, per coloro che hanno i cuori induriti. In verità, gli ingiusti sono immersi nella discordia.
+\[Allah\] fa sì che i suggerimenti di Satana siano una tentazione per coloro che hanno una malattia nel cuore, per coloro che hanno i cuori induriti. In verità, gli ingiusti sono immersi nella discordia.
 
 # 2649
 
-Coloro che [invece] hanno ricevuto la scienza sanno che questa è la Verità che viene dal tuo Signore, credono in essa e i loro cuori vi si sottomettono umilmente. In verità, Allah dirige sulla retta via coloro che credono.
+Coloro che \[invece\] hanno ricevuto la scienza sanno che questa è la Verità che viene dal tuo Signore, credono in essa e i loro cuori vi si sottomettono umilmente. In verità, Allah dirige sulla retta via coloro che credono.
 
 # 2650
 
@@ -10610,7 +10610,7 @@ I miscredenti non smetteranno di essere nel dubbio, finché non giunga improvvis
 
 # 2651
 
-In quel Giorno la sovranità apparterrà ad Allah, ed Egli giudicherà tra di loro. Poi, quelli che avranno creduto e ben operato [andranno] nei Giardini delle delizie;
+In quel Giorno la sovranità apparterrà ad Allah, ed Egli giudicherà tra di loro. Poi, quelli che avranno creduto e ben operato \[andranno\] nei Giardini delle delizie;
 
 # 2652
 
@@ -10642,7 +10642,7 @@ Non hai visto come Allah fa scendere dal cielo un'acqua che rinverdisce la terra
 
 # 2659
 
-A Lui [appartiene] ciò che è nei cieli e ciò che sta sulla terra. Allah è certamente Colui che basta a Se stesso, è il Degno di lode.
+A Lui \[appartiene\] ciò che è nei cieli e ciò che sta sulla terra. Allah è certamente Colui che basta a Se stesso, è il Degno di lode.
 
 # 2660
 
@@ -10666,7 +10666,7 @@ Allah giudicherà tra di voi, nel Giorno della Resurrezione, a proposito delle v
 
 # 2665
 
-Non sai che Allah conosce ciò che c'è nei cieli e sulla terra? Tutto ciò [è racchiuso] in un Libro; ciò è facile per Allah!
+Non sai che Allah conosce ciò che c'è nei cieli e sulla terra? Tutto ciò \[è racchiuso\] in un Libro; ciò è facile per Allah!
 
 # 2666
 
@@ -10698,7 +10698,7 @@ O voi che credete, inchinatevi, prosternatevi e adorate il vostro Signore e oper
 
 # 2673
 
-Lottate per Allah come Egli ha diritto [che si lotti]. Egli vi ha scelti e non ha posto nulla di gravoso nella religione, quella del vostro padre Abramo che vi ha chiamati “musulmani”. Già allora e qui ancora, sì che il Messaggero testimoni nei vostri confronti e voi testimoniate nei confronti delle genti. Assolvete all'orazione e versate la decima e aggrappatevi ad Allah: Egli è il vostro patrono. Qual miglior patrono, qual miglior alleato!.
+Lottate per Allah come Egli ha diritto \[che si lotti\]. Egli vi ha scelti e non ha posto nulla di gravoso nella religione, quella del vostro padre Abramo che vi ha chiamati “musulmani”. Già allora e qui ancora, sì che il Messaggero testimoni nei vostri confronti e voi testimoniate nei confronti delle genti. Assolvete all'orazione e versate la decima e aggrappatevi ad Allah: Egli è il vostro patrono. Qual miglior patrono, qual miglior alleato!.
 
 # 2674
 
@@ -10750,7 +10750,7 @@ In verità creammo l'uomo da un estratto di argilla.
 
 # 2686
 
-Poi ne facemmo una goccia di sperma [posta] in un sicuro ricettacolo,
+Poi ne facemmo una goccia di sperma \[posta\] in un sicuro ricettacolo,
 
 # 2687
 
@@ -10774,7 +10774,7 @@ E facemmo scendere l'acqua dal cielo in quantità misurata e la mantenemmo sulla
 
 # 2692
 
-E per suo tramite, produciamo per voi palmeti e vigneti in cui [trovate] i molti frutti che mangiate,
+E per suo tramite, produciamo per voi palmeti e vigneti in cui \[trovate\] i molti frutti che mangiate,
 
 # 2693
 
@@ -10782,7 +10782,7 @@ come quest'albero che sorge dal monte Sinai, che vi offre olio e condimento per 
 
 # 2694
 
-Invero, anche nel bestiame vi è argomento [di meditazione]: vi diamo da bere di ciò che è nel loro ventre e ne traete molti vantaggi; e di loro vi cibate;
+Invero, anche nel bestiame vi è argomento \[di meditazione\]: vi diamo da bere di ciò che è nel loro ventre e ne traete molti vantaggi; e di loro vi cibate;
 
 # 2695
 
@@ -10794,7 +10794,7 @@ Già inviammo Noè al suo popolo. Disse loro: “O popolo mio, adorate Allah. Pe
 
 # 2697
 
-Allora i notabili della sua gente, che erano miscredenti, dissero: “Costui non è che un uomo come voi! Vuole [solo] elevarsi sopra di voi. Se Allah avesse voluto [che credessimo] avrebbe fatto scendere degli angeli. Ma di questo non abbiamo mai avuto notizia, [neppure] dai nostri antenati più lontani.
+Allora i notabili della sua gente, che erano miscredenti, dissero: “Costui non è che un uomo come voi! Vuole \[solo\] elevarsi sopra di voi. Se Allah avesse voluto \[che credessimo\] avrebbe fatto scendere degli angeli. Ma di questo non abbiamo mai avuto notizia, \[neppure\] dai nostri antenati più lontani.
 
 # 2698
 
@@ -10802,7 +10802,7 @@ Certo costui non è che un uomo posseduto. Osservatelo per un po' di tempo...”
 
 # 2699
 
-Disse [Noè]: “Signore, aiutami, mi trattano da impostore”.
+Disse \[Noè\]: “Signore, aiutami, mi trattano da impostore”.
 
 # 2700
 
@@ -10838,7 +10838,7 @@ Se obbedirete ad un vostro simile, sarete certo tra i perdenti!
 
 # 2708
 
-Davvero vi promette che quando sarete morti, [ridotti a] polvere e ossa, sarete risuscitati?
+Davvero vi promette che quando sarete morti, \[ridotti a\] polvere e ossa, sarete risuscitati?
 
 # 2709
 
@@ -10854,11 +10854,11 @@ Non è altro che un uomo che ha inventato menzogne contro Allah e noi non gli pr
 
 # 2712
 
-Disse [Noè]: “Signore, aiutami, mi trattano da impostore”.
+Disse \[Noè\]: “Signore, aiutami, mi trattano da impostore”.
 
 # 2713
 
-Rispose [Allah]: “Ben presto se ne pentiranno, è certo!”.
+Rispose \[Allah\]: “Ben presto se ne pentiranno, è certo!”.
 
 # 2714
 
@@ -10874,7 +10874,7 @@ Nessuna comunità anticiperà o ritarderà il termine suo.
 
 # 2717
 
-Inviammo i nostri messaggeri, in successione. Ogni volta che un messaggero giunse a una comunità, lo trattarono da impostore. Facemmo sì che succedessero le une alle altre e ne facemmo [argomento di] leggende. Periscano per sempre le genti che non credono!
+Inviammo i nostri messaggeri, in successione. Ogni volta che un messaggero giunse a una comunità, lo trattarono da impostore. Facemmo sì che succedessero le une alle altre e ne facemmo \[argomento di\] leggende. Periscano per sempre le genti che non credono!
 
 # 2718
 
@@ -10914,7 +10914,7 @@ Ma essi si divisero in sette e ogni fazione si gloria di ciò che possiede.
 
 # 2727
 
-Lasciali immersi [nella loro situazione] per un certo periodo.
+Lasciali immersi \[nella loro situazione\] per un certo periodo.
 
 # 2728
 
@@ -10922,7 +10922,7 @@ Credono forse che tutto ciò che concediamo loro, beni e prole,
 
 # 2729
 
-[sia un anticipo] sulle buone cose [della vita futura]? Certo che no! Sono del tutto incoscienti.
+\[sia un anticipo\] sulle buone cose \[della vita futura\]? Certo che no! Sono del tutto incoscienti.
 
 # 2730
 
@@ -10950,7 +10950,7 @@ Non carichiamo nessuna anima oltre ciò che può portare. Presso di Noi c'è un 
 
 # 2736
 
-Ma a proposito [di questo Corano] i loro cuori sono distratti. Ci sono azioni verso le quali gli iniqui andranno inevitabilmente.
+Ma a proposito \[di questo Corano\] i loro cuori sono distratti. Ci sono azioni verso le quali gli iniqui andranno inevitabilmente.
 
 # 2737
 
@@ -10970,7 +10970,7 @@ gonfi d'orgoglio li denigravate nelle vostre veglie”.
 
 # 2741
 
-Non ne hanno dunque meditato le parole [di Allah]? Forse è giunto loro qualche cosa che mai era pervenuta ai loro antenati?
+Non ne hanno dunque meditato le parole \[di Allah\]? Forse è giunto loro qualche cosa che mai era pervenuta ai loro antenati?
 
 # 2742
 
@@ -11006,7 +11006,7 @@ Già li colpimmo col castigo, ma non si sono arresi al loro Signore, non si sono
 
 # 2750
 
-[E non lo faranno] fino a quando non apriremo su di loro la porta del castigo terribile, e allora saranno disperati.
+\[E non lo faranno\] fino a quando non apriremo su di loro la porta del castigo terribile, e allora saranno disperati.
 
 # 2751
 
@@ -11018,7 +11018,7 @@ Egli è Colui Che vi ha distribuito sulla terra e presso di Lui sarete riuniti.
 
 # 2753
 
-Egli è Colui Che dà la vita e dà la morte, a Lui [appartiene] l'alternarsi del giorno e della notte. Non capite dunque?
+Egli è Colui Che dà la vita e dà la morte, a Lui \[appartiene\] l'alternarsi del giorno e della notte. Non capite dunque?
 
 # 2754
 
@@ -11030,11 +11030,11 @@ Dicono: “Quando saremo morti e ridotti in polvere e ossa, davvero saremo resus
 
 # 2756
 
-Ci viene promesso questo, come già [fu promesso] ai nostri avi: non sono altro che vecchie storie”.
+Ci viene promesso questo, come già \[fu promesso\] ai nostri avi: non sono altro che vecchie storie”.
 
 # 2757
 
-Di': “A chi [appartiene] la terra e ciò che contiene? [Ditelo] se lo sapete!”.
+Di': “A chi \[appartiene\] la terra e ciò che contiene? \[Ditelo\] se lo sapete!”.
 
 # 2758
 
@@ -11050,7 +11050,7 @@ Risponderanno: “Allah”. Di': “Non Lo temerete dunque?”.
 
 # 2761
 
-Di': “Chi [tiene] nella Sua mano il regno di tutte le cose? Chi è Colui che protegge e contro il Quale nessuno può essere protetto? [Ditelo] se lo sapete!”.
+Di': “Chi \[tiene\] nella Sua mano il regno di tutte le cose? Chi è Colui che protegge e contro il Quale nessuno può essere protetto? \[Ditelo\] se lo sapete!”.
 
 # 2762
 
@@ -11062,11 +11062,11 @@ Abbiamo dato loro la verità, ma essi sono dei bugiardi.
 
 # 2764
 
-Allah non Si è preso figlio alcuno e non esiste alcun dio al Suo fianco; ché altrimenti ogni dio se ne sarebbe andato con ciò che ha creato e ognuno [di loro] avrebbe cercato di prevalere sugli altri. Gloria ad Allah, ben oltre quello che affermano!
+Allah non Si è preso figlio alcuno e non esiste alcun dio al Suo fianco; ché altrimenti ogni dio se ne sarebbe andato con ciò che ha creato e ognuno \[di loro\] avrebbe cercato di prevalere sugli altri. Gloria ad Allah, ben oltre quello che affermano!
 
 # 2765
 
-[Egli è il] Conoscitore del visibile e dell'invisibile. Egli è ben più alto di quanto [Gli] associano!
+\[Egli è il\] Conoscitore del visibile e dell'invisibile. Egli è ben più alto di quanto \[Gli\] associano!
 
 # 2766
 
@@ -11098,7 +11098,7 @@ Quando poi si presenta la morte a uno di loro, egli dice: “Mio Signore! Fatemi
 
 # 2773
 
-Che io possa fare il bene che ho omesso”. No! Non è altro che la [vana] parola che [egli] pronuncia e dietro di loro sarà eretta una barriera fino al Giorno della Resurrezione.
+Che io possa fare il bene che ho omesso”. No! Non è altro che la \[vana\] parola che \[egli\] pronuncia e dietro di loro sarà eretta una barriera fino al Giorno della Resurrezione.
 
 # 2774
 
@@ -11126,7 +11126,7 @@ Risponderanno: “Nostro Signore, ha vinto la disgrazia, eravamo gente traviata.
 
 # 2780
 
-Signore, facci uscire di qui! Se poi persisteremo [nel peccato], saremo, allora, davvero ingiusti”.
+Signore, facci uscire di qui! Se poi persisteremo \[nel peccato\], saremo, allora, davvero ingiusti”.
 
 # 2781
 
@@ -11142,7 +11142,7 @@ E invece li avete scherniti al punto da perdere il Ricordo di Me, mentre di essi
 
 # 2784
 
-In verità, oggi li ho compensati di ciò che hanno sopportato con pazienza; essi sono coloro che hanno conseguito [la beatitudine].
+In verità, oggi li ho compensati di ciò che hanno sopportato con pazienza; essi sono coloro che hanno conseguito \[la beatitudine\].
 
 # 2785
 
@@ -11174,11 +11174,11 @@ E di': “Signore, perdona e usaci misericordia, Tu sei il Migliore dei miserico
 
 # 2792
 
-[Questa è] una sura che abbiamo rivelato e imposto e per mezzo della quale abbiamo fatto scendere segni inequivocabili, perché possiate comprendere.
+\[Questa è\] una sura che abbiamo rivelato e imposto e per mezzo della quale abbiamo fatto scendere segni inequivocabili, perché possiate comprendere.
 
 # 2793
 
-Flagellate la fornicatrice e il fornicatore, ciascuno con cento colpi di frusta e non vi impietosite [nell'applicazione] della Religione di Allah, se credete in Lui e nell'Ultimo Giorno, e che un gruppo di credenti sia presente alla punizione.
+Flagellate la fornicatrice e il fornicatore, ciascuno con cento colpi di frusta e non vi impietosite \[nell'applicazione\] della Religione di Allah, se credete in Lui e nell'Ultimo Giorno, e che un gruppo di credenti sia presente alla punizione.
 
 # 2794
 
@@ -11194,19 +11194,19 @@ eccetto coloro che in seguito si saranno pentiti ed emendati. In verità, Allah 
 
 # 2797
 
-Quanto a coloro che accusano le loro spose, senza aver altri testimoni che se stessi, la loro testimonianza sia una quadruplice attestazione [in Nome] di Allah, testimoniante la loro veridicità,
+Quanto a coloro che accusano le loro spose, senza aver altri testimoni che se stessi, la loro testimonianza sia una quadruplice attestazione \[in Nome\] di Allah, testimoniante la loro veridicità,
 
 # 2798
 
-e con la quinta [attestazione invochi] la maledizione di Allah su se stesso, se è tra i mentitori.
+e con la quinta \[attestazione invochi\] la maledizione di Allah su se stesso, se è tra i mentitori.
 
 # 2799
 
-E sia risparmiata [la punizione alla moglie], se ella attesta quattro volte, in Nome di Allah, che egli è tra i mentitori,
+E sia risparmiata \[la punizione alla moglie\], se ella attesta quattro volte, in Nome di Allah, che egli è tra i mentitori,
 
 # 2800
 
-e la quinta [attestazione invocando] l'ira di Allah su se stessa, se egli è tra i veritieri.
+e la quinta \[attestazione invocando\] l'ira di Allah su se stessa, se egli è tra i veritieri.
 
 # 2801
 
@@ -11218,11 +11218,11 @@ Invero, molti di voi sono stati propalatori della calunnia. Non consideratelo un
 
 # 2803
 
-Perché, quando ne sentirono [parlare], i credenti e le credenti non pensarono al bene in loro stessi e non dissero: “Questa è una palese calunnia?”.
+Perché, quando ne sentirono \[parlare\], i credenti e le credenti non pensarono al bene in loro stessi e non dissero: “Questa è una palese calunnia?”.
 
 # 2804
 
-Perché non produssero quattro testimoni in proposito? Se non portano i [quattro] testimoni, allora davanti ad Allah, sono essi i bugiardi.
+Perché non produssero quattro testimoni in proposito? Se non portano i \[quattro\] testimoni, allora davanti ad Allah, sono essi i bugiardi.
 
 # 2805
 
@@ -11234,7 +11234,7 @@ quando con le vostre lingue riportaste e con le vostre bocche diceste cose, di c
 
 # 2807
 
-Perché quando ne sentiste parlare non diceste: “Perché mai dovremmo parlarne? Gloria a Te o Signore]! È una calunnia immensa”?
+Perché quando ne sentiste parlare non diceste: “Perché mai dovremmo parlarne? Gloria a Te o Signore\]! È una calunnia immensa”?
 
 # 2808
 
@@ -11262,7 +11262,7 @@ Coloro di voi che godono di favore e agiatezza, non giurino di non darne ai pare
 
 # 2814
 
-Coloro che calunniano le [donne] oneste, distratte [ma] credenti, sono maledetti in questa vita e nell'altra e toccherà loro castigo immenso,
+Coloro che calunniano le \[donne\] oneste, distratte \[ma\] credenti, sono maledetti in questa vita e nell'altra e toccherà loro castigo immenso,
 
 # 2815
 
@@ -11278,7 +11278,7 @@ Le malvagie ai malvagi e i malvagi alle malvagie. Le buone ai buoni e i buoni al
 
 # 2818
 
-O voi che credete, non entrate in case che non siano le vostre, senza aver chiesto il permesso e aver salutato la gente [che le abita]; questo è meglio per voi. Ve ne ricorderete?
+O voi che credete, non entrate in case che non siano le vostre, senza aver chiesto il permesso e aver salutato la gente \[che le abita\]; questo è meglio per voi. Ve ne ricorderete?
 
 # 2819
 
@@ -11302,7 +11302,7 @@ Unite in matrimonio quelli tra voi che non sono sposati e i vostri schiavi, masc
 
 # 2824
 
-E coloro che non hanno [i mezzi] per sposarsi cerchino la castità, finché Allah non li arricchisca con la Sua Grazia. Ai vostri schiavi, che ve lo chiedano, concedete l'affrancamento contrattuale, se sapete che in essi c'è del bene, e date loro parte dei beni che Allah ha dato a voi. Per brama dei beni di questa vita, non costringete a prostituirsi le vostre schiave che vogliono mantenersi caste. E se vi sono costrette, ebbene a causa di tale costrizione Allah concederà il Suo perdono e la Sua misericordia.
+E coloro che non hanno \[i mezzi\] per sposarsi cerchino la castità, finché Allah non li arricchisca con la Sua Grazia. Ai vostri schiavi, che ve lo chiedano, concedete l'affrancamento contrattuale, se sapete che in essi c'è del bene, e date loro parte dei beni che Allah ha dato a voi. Per brama dei beni di questa vita, non costringete a prostituirsi le vostre schiave che vogliono mantenersi caste. E se vi sono costrette, ebbene a causa di tale costrizione Allah concederà il Suo perdono e la Sua misericordia.
 
 # 2825
 
@@ -11314,7 +11314,7 @@ Allah è la luce dei cieli e della terra. La Sua luce è come quella di una nicc
 
 # 2827
 
-[E si trova questa luce] nelle case che Allah ha permesso di innalzare, in cui il Suo Nome viene menzionato, in cui al mattino e alla sera, Egli è glorificato
+\[E si trova questa luce\] nelle case che Allah ha permesso di innalzare, in cui il Suo Nome viene menzionato, in cui al mattino e alla sera, Egli è glorificato
 
 # 2828
 
@@ -11330,11 +11330,11 @@ Quanto a coloro che sono miscredenti, le loro opere sono come un miraggio in una
 
 # 2831
 
-Oppure [le loro opere sono paragonabili] a tenebre di un mare profondo, le onde lo coprono, [onde] al di sopra delle quali si ergono [altre] onde, sulle quali vi sono le nuvole. [Ammassi di] tenebre le une sulle altre, dove l'uomo che stende la mano quasi non può vederla. Per colui cui Allah non ha dato la luce, non c'è alcuna luce.
+Oppure \[le loro opere sono paragonabili\] a tenebre di un mare profondo, le onde lo coprono, \[onde\] al di sopra delle quali si ergono \[altre\] onde, sulle quali vi sono le nuvole. \[Ammassi di\] tenebre le une sulle altre, dove l'uomo che stende la mano quasi non può vederla. Per colui cui Allah non ha dato la luce, non c'è alcuna luce.
 
 # 2832
 
-Non vedi come Allah è glorificato da tutti coloro che sono nei cieli e sulla terra e gli uccelli che dispiegano [le ali]? Ciascuno conosce come adorarLo e renderGli gloria. Allah ben conosce quello che fanno.
+Non vedi come Allah è glorificato da tutti coloro che sono nei cieli e sulla terra e gli uccelli che dispiegano \[le ali\]? Ciascuno conosce come adorarLo e renderGli gloria. Allah ben conosce quello che fanno.
 
 # 2833
 
@@ -11342,11 +11342,11 @@ Appartiene ad Allah la sovranità sui cieli e sulla terra. Verso Allah è il rit
 
 # 2834
 
-Non vedi che Allah spinge le nuvole e poi le raduna per farne ammassi? E vedi la pioggia scaturire dai loro recessi. E fa scendere dal cielo montagne gonfie di grandine. Colpisce con esse chi vuole e ne preserva chi vuole e per poco, il lampo della folgore [che le accompagna], non rapisce la vista.
+Non vedi che Allah spinge le nuvole e poi le raduna per farne ammassi? E vedi la pioggia scaturire dai loro recessi. E fa scendere dal cielo montagne gonfie di grandine. Colpisce con esse chi vuole e ne preserva chi vuole e per poco, il lampo della folgore \[che le accompagna\], non rapisce la vista.
 
 # 2835
 
-Allah alterna la notte e il giorno. Questa è certamente una lezione per coloro che hanno occhi per vedere].
+Allah alterna la notte e il giorno. Questa è certamente una lezione per coloro che hanno occhi per vedere\].
 
 # 2836
 
@@ -11382,15 +11382,15 @@ Coloro che obbediscono ad Allah e al Suo Inviato paventano Allah e Lo temono. Es
 
 # 2844
 
-Giurano in [Nome di] Allah con solenni dichiarazioni che se tu dessi loro l'ordine, uscirebbero [a combattere]. Di': “Non giurate. La vostra obbedienza [verbale] è ben nota! Allah ben conosce quello che fate”.
+Giurano in \[Nome di\] Allah con solenni dichiarazioni che se tu dessi loro l'ordine, uscirebbero \[a combattere\]. Di': “Non giurate. La vostra obbedienza \[verbale\] è ben nota! Allah ben conosce quello che fate”.
 
 # 2845
 
-Di': “Obbedite ad Allah e obbedite all'Inviato”. Se poi volgete le spalle, [sappiate che] a lui incomberà il suo peso e a voi il vostro. Se obbedirete, sarete ben guidati. L'Inviato non deve che trasmettere in modo esplicito [il Messaggio].
+Di': “Obbedite ad Allah e obbedite all'Inviato”. Se poi volgete le spalle, \[sappiate che\] a lui incomberà il suo peso e a voi il vostro. Se obbedirete, sarete ben guidati. L'Inviato non deve che trasmettere in modo esplicito \[il Messaggio\].
 
 # 2846
 
-Allah ha promesso a coloro che credono e compiono il bene di farne [Suoi] vicari sulla terra, come già fu per quelli che li precedettero, di rafforzarli nella religione che Gli piacque dar loro e di trasformare in sicurezza il loro timore. Mi adoreranno senza associarMi alcunché. Quanto a colui che dopo di ciò, ancora sarà miscredente... Ecco quelli che sono iniqui!
+Allah ha promesso a coloro che credono e compiono il bene di farne \[Suoi\] vicari sulla terra, come già fu per quelli che li precedettero, di rafforzarli nella religione che Gli piacque dar loro e di trasformare in sicurezza il loro timore. Mi adoreranno senza associarMi alcunché. Quanto a colui che dopo di ciò, ancora sarà miscredente... Ecco quelli che sono iniqui!
 
 # 2847
 
@@ -11398,15 +11398,15 @@ Eseguite l'orazione, versate la decima e obbedite all'Inviato, sì che possiate 
 
 # 2848
 
-Non crediate che i miscredenti possano opporsi alla potenza [di Allah] sulla terra. Il Fuoco sarà il loro asilo; qual tristo destino!
+Non crediate che i miscredenti possano opporsi alla potenza \[di Allah\] sulla terra. Il Fuoco sarà il loro asilo; qual tristo destino!
 
 # 2849
 
-O voi che credete, vi chiedano il permesso [di entrare] i vostri servi e quelli che ancora sono impuberi, in tre momenti [del giorno]: prima dell'orazione dell'alba, quando vi spogliate dei vostri abiti a mezzogiorno e dopo l'orazione della notte. Questi sono tre momenti di riservatezza per voi. A parte ciò, non ci sarà alcun male né per voi, né per loro, se andrete e verrete gli uni presso gli altri. Così Allah vi spiega i segni, e Allah è sapiente, saggio.
+O voi che credete, vi chiedano il permesso \[di entrare\] i vostri servi e quelli che ancora sono impuberi, in tre momenti \[del giorno\]: prima dell'orazione dell'alba, quando vi spogliate dei vostri abiti a mezzogiorno e dopo l'orazione della notte. Questi sono tre momenti di riservatezza per voi. A parte ciò, non ci sarà alcun male né per voi, né per loro, se andrete e verrete gli uni presso gli altri. Così Allah vi spiega i segni, e Allah è sapiente, saggio.
 
 # 2850
 
-E quando i vostri figli raggiungono la pubertà, chiedano [il permesso di entrare], come fanno quelli che prima [la raggiunsero]. Così Allah vi spiega Suoi segni, Allah è sapiente, saggio.
+E quando i vostri figli raggiungono la pubertà, chiedano \[il permesso di entrare\], come fanno quelli che prima \[la raggiunsero\]. Così Allah vi spiega Suoi segni, Allah è sapiente, saggio.
 
 # 2851
 
@@ -11414,11 +11414,11 @@ Quanto alle donne in menopausa, che non sperano più di sposarsi, non avranno co
 
 # 2852
 
-Non ci sarà colpa per il cieco, né per lo storpio, né per il malato, né per voi stessi, se mangerete nelle vostre case, o nelle case dei vostri padri, o nelle case delle vostre madri, o nelle case dei vostri fratelli, o nelle case delle vostre sorelle, o nelle case dei vostri zii paterni, o nelle case delle vostre zie paterne, o nelle case dei vostri zii materni, o nelle case delle vostre zie materne o in [altre] case di cui possediate le chiavi, o presso un vostro amico. E nessuna colpa se mangerete in compagnia o da soli. Quando entrate nelle case datevi il saluto, benedetto e puro, che viene da Allah.
+Non ci sarà colpa per il cieco, né per lo storpio, né per il malato, né per voi stessi, se mangerete nelle vostre case, o nelle case dei vostri padri, o nelle case delle vostre madri, o nelle case dei vostri fratelli, o nelle case delle vostre sorelle, o nelle case dei vostri zii paterni, o nelle case delle vostre zie paterne, o nelle case dei vostri zii materni, o nelle case delle vostre zie materne o in \[altre\] case di cui possediate le chiavi, o presso un vostro amico. E nessuna colpa se mangerete in compagnia o da soli. Quando entrate nelle case datevi il saluto, benedetto e puro, che viene da Allah.
 
 # 2853
 
-I veri] credenti sono coloro che credono in Allah e nel Suo Inviato e che, quando sono presso di lui per una questione che li accomuna, non se ne vanno senza chiedere il permesso [di congedarsi]. Coloro che chiedono il permesso, sono coloro che credono in Allah e nel Suo Inviato. Se dunque ti chiedono il permesso per qualcosa che preme loro, concedilo a chi vuoi e chiedi ad Allah di perdonarli. In verità Allah è perdonatore, misericordioso.
+I veri\] credenti sono coloro che credono in Allah e nel Suo Inviato e che, quando sono presso di lui per una questione che li accomuna, non se ne vanno senza chiedere il permesso \[di congedarsi\]. Coloro che chiedono il permesso, sono coloro che credono in Allah e nel Suo Inviato. Se dunque ti chiedono il permesso per qualcosa che preme loro, concedilo a chi vuoi e chiedi ad Allah di perdonarli. In verità Allah è perdonatore, misericordioso.
 
 # 2854
 
@@ -11426,7 +11426,7 @@ Non rivolgetevi all'Inviato nello stesso modo in cui vi rivolgete gli uni agli a
 
 # 2855
 
-In verità, ad Allah appartiene] tutto ciò che è nei cieli e sulla terra. Egli conosce le vostre condizioni e nel Giorno in cui li ricondurrà a Sé li informerà a proposito del loro agire. Allah conosce ogni cosa.
+In verità, ad Allah appartiene\] tutto ciò che è nei cieli e sulla terra. Egli conosce le vostre condizioni e nel Giorno in cui li ricondurrà a Sé li informerà a proposito del loro agire. Allah conosce ogni cosa.
 
 # 2856
 
@@ -11434,7 +11434,7 @@ Benedetto Colui Che ha fatto scendere il Discrimine sul Suo servo, affinché pot
 
 # 2857
 
-Colui Cui [appartiene] la sovranità dei cieli e della terra, Che non si è preso figlio alcuno, Che non ha consoci nella sovranità, Che ha creato ogni cosa e le ha dato giusta misura.
+Colui Cui \[appartiene\] la sovranità dei cieli e della terra, Che non si è preso figlio alcuno, Che non ha consoci nella sovranità, Che ha creato ogni cosa e le ha dato giusta misura.
 
 # 2858
 
@@ -11458,11 +11458,11 @@ E dicono: “Ma che Inviato è costui, che mangia cibo e cammina nei mercati? Pe
 
 # 2863
 
-Perché non gli viene lanciato un tesoro [dal cielo]? Non ha neppure un suo giardino di cui mangiare [i frutti]?”. Dicono gli ingiusti: “Voi seguite un uomo stregato!”.
+Perché non gli viene lanciato un tesoro \[dal cielo\]? Non ha neppure un suo giardino di cui mangiare \[i frutti\]?”. Dicono gli ingiusti: “Voi seguite un uomo stregato!”.
 
 # 2864
 
-Guarda in che maniera ti considerano! Si sono sviati e non potranno [trovare] il sentiero.
+Guarda in che maniera ti considerano! Si sono sviati e non potranno \[trovare\] il sentiero.
 
 # 2865
 
@@ -11482,11 +11482,11 @@ E quando, legati insieme, saranno gettati in uno spazio angusto, invocheranno l'
 
 # 2869
 
-[Sarà detto loro]: “Oggi non invocate l'annientamento una sola volta, ma invocatelo molte volte”.
+\[Sarà detto loro\]: “Oggi non invocate l'annientamento una sola volta, ma invocatelo molte volte”.
 
 # 2870
 
-Di': “È forse meglio questa [Fiamma] o il Giardino perpetuo che è stato promesso ai timorati come premio e ultima destinazione?
+Di': “È forse meglio questa \[Fiamma\] o il Giardino perpetuo che è stato promesso ai timorati come premio e ultima destinazione?
 
 # 2871
 
@@ -11494,15 +11494,15 @@ Avranno colà tutto ciò che desidereranno e perpetua dimora”. Promessa che il
 
 # 2872
 
-Il Giorno in cui saranno riuniti, essi e coloro che adoravano all'infuori di Allah, [Egli] dirà [a questi ultimi]: “Siete voi che avete sviato questi Miei servi o hanno smarrito la via da soli?”.
+Il Giorno in cui saranno riuniti, essi e coloro che adoravano all'infuori di Allah, \[Egli\] dirà \[a questi ultimi\]: “Siete voi che avete sviato questi Miei servi o hanno smarrito la via da soli?”.
 
 # 2873
 
-Risponderanno: “Gloria a Te! Che vantaggio avremmo avuto a scegliere alleati e protettori all'infuori di Te? Ma Tu colmasti loro e i loro avi di [tanta ricchezza di] beni, [che] dimenticarono il Ricordo [di Te] e furono uomini perduti”.
+Risponderanno: “Gloria a Te! Che vantaggio avremmo avuto a scegliere alleati e protettori all'infuori di Te? Ma Tu colmasti loro e i loro avi di \[tanta ricchezza di\] beni, \[che\] dimenticarono il Ricordo \[di Te\] e furono uomini perduti”.
 
 # 2874
 
-“Già hanno smentito quello che dite. Non potrete sfuggire [al castigo], né avrete soccorso alcuno. A tutti gli ingiusti daremo un grande castigo.”
+“Già hanno smentito quello che dite. Non potrete sfuggire \[al castigo\], né avrete soccorso alcuno. A tutti gli ingiusti daremo un grande castigo.”
 
 # 2875
 
@@ -11510,7 +11510,7 @@ Prima di te non inviammo alcun Messaggero che non mangiasse cibo e non camminass
 
 # 2876
 
-E coloro che non sperano di incontrarCi dicono: “Perché non sono stati fatti scendere angeli su di noi, [perché] non vediamo il nostro Signore?”. Hanno riempito di orgoglio le anime loro e travalicato i limiti dell'arroganza.
+E coloro che non sperano di incontrarCi dicono: “Perché non sono stati fatti scendere angeli su di noi, \[perché\] non vediamo il nostro Signore?”. Hanno riempito di orgoglio le anime loro e travalicato i limiti dell'arroganza.
 
 # 2877
 
@@ -11530,7 +11530,7 @@ Il Giorno in cui le nuvole del cielo si apriranno e scenderanno di discesa gli a
 
 # 2881
 
-in quel Giorno la vera sovranità [apparterrà] al Compassionevole e sarà un Giorno difficile per i miscredenti.
+in quel Giorno la vera sovranità \[apparterrà\] al Compassionevole e sarà un Giorno difficile per i miscredenti.
 
 # 2882
 
@@ -11554,11 +11554,11 @@ Ad ogni profeta assegnammo un nemico scelto tra i malvagi. Ti basti il tuo Signo
 
 # 2887
 
-I miscredenti dicono: “Perché il Corano non è stato fatto scendere su di lui in un'unica soluzione!”. [Lo abbiamo invece rivelato] in questo modo per rafforzare il tuo cuore. E te lo facciamo recitare con cura.
+I miscredenti dicono: “Perché il Corano non è stato fatto scendere su di lui in un'unica soluzione!”. \[Lo abbiamo invece rivelato\] in questo modo per rafforzare il tuo cuore. E te lo facciamo recitare con cura.
 
 # 2888
 
-Non proporranno alcun interrogativo, senza che [Noi] ti forniamo la verità [in proposito] e la migliore spiegazione.
+Non proporranno alcun interrogativo, senza che \[Noi\] ti forniamo la verità \[in proposito\] e la migliore spiegazione.
 
 # 2889
 
@@ -11578,7 +11578,7 @@ E il popolo di Noè, quando tacciarono di menzogna i messaggeri, li annegammo e 
 
 # 2893
 
-[Ricorda] gli Âd, i Thamûd e le genti di ar-Rass e molte altre generazioni intermedie!
+\[Ricorda\] gli Âd, i Thamûd e le genti di ar-Rass e molte altre generazioni intermedie!
 
 # 2894
 
@@ -11594,7 +11594,7 @@ Quando ti vedono non fanno altro che schernirti: “È costui, che Allah ha mand
 
 # 2897
 
-C'è mancato poco che non ci sviasse dai nostri dèi, se solo non fossimo rimasti perseveranti”. Ma presto sapranno, quando vedranno il castigo, chi è il più sviato dalla [retta] via.
+C'è mancato poco che non ci sviasse dai nostri dèi, se solo non fossimo rimasti perseveranti”. Ma presto sapranno, quando vedranno il castigo, chi è il più sviato dalla \[retta\] via.
 
 # 2898
 
@@ -11602,7 +11602,7 @@ Non ha visto quello che ha elevato a divinità le sue passioni? Vuoi forse esser
 
 # 2899
 
-Credi che la maggior parte di loro ascolti e comprenda? Non son altro che animali, e ancora più sviati dalla [retta] via.
+Credi che la maggior parte di loro ascolti e comprenda? Non son altro che animali, e ancora più sviati dalla \[retta\] via.
 
 # 2900
 
@@ -11610,7 +11610,7 @@ Non hai visto come distende l'ombra, il tuo Signore? E se avesse voluto l'avrebb
 
 # 2901
 
-e poi la prendiamo [per ricondurla] a Noi con facilità.
+e poi la prendiamo \[per ricondurla\] a Noi con facilità.
 
 # 2902
 
@@ -11654,7 +11654,7 @@ Ebbene, Noi ti abbiamo inviato solo come nunzio e ammonitore.
 
 # 2912
 
-Di': “Non vi chiedo ricompensa alcuna, ma solo che, chi lo voglia, segua la via [che conduce] al suo Signore”.
+Di': “Non vi chiedo ricompensa alcuna, ma solo che, chi lo voglia, segua la via \[che conduce\] al suo Signore”.
 
 # 2913
 
@@ -11714,7 +11714,7 @@ chi si pente e opera il bene, il suo pentimento è verso Allah.
 
 # 2927
 
-[E sono coloro] che non rendono falsa testimonianza e quando passano nei pressi della futilità, se ne allontanano con dignità;
+\[E sono coloro\] che non rendono falsa testimonianza e quando passano nei pressi della futilità, se ne allontanano con dignità;
 
 # 2928
 
@@ -11722,11 +11722,11 @@ coloro che, quando vengono ammoniti con i versetti del loro Signore, non sono n�
 
 # 2929
 
-e dicono: “Signore, dacci conforto nelle nostre spose e nei nostri figli e fai di noi una guida per i timorati [di Allah]”.
+e dicono: “Signore, dacci conforto nelle nostre spose e nei nostri figli e fai di noi una guida per i timorati \[di Allah\]”.
 
 # 2930
 
-Per la loro costanza saranno compensati con il livello più alto [del Paradiso] e saranno ricevuti con l'augurio di pace,
+Per la loro costanza saranno compensati con il livello più alto \[del Paradiso\] e saranno ricevuti con l'augurio di pace,
 
 # 2931
 
@@ -11734,7 +11734,7 @@ per rimanervi in perpetuo. Quale splendido rifugio e soggiorno!
 
 # 2932
 
-Di': “Il mio Signore non si curerà affatto di voi se non Lo invocherete. [Ma] già tacciaste di menzogna [la Sua Rivelazione] e presto [ne subirete] le inevitabili [conseguenze]”.
+Di': “Il mio Signore non si curerà affatto di voi se non Lo invocherete. \[Ma\] già tacciaste di menzogna \[la Sua Rivelazione\] e presto \[ne subirete\] le inevitabili \[conseguenze\]”.
 
 # 2933
 
@@ -11774,11 +11774,11 @@ Sì, il tuo Signore è l'Eccelso, il Misericordioso.
 
 # 2942
 
-[Ricorda] quando il tuo Signore chiamò Mosè: “Recati presso il popolo degli oppressori,
+\[Ricorda\] quando il tuo Signore chiamò Mosè: “Recati presso il popolo degli oppressori,
 
 # 2943
 
-presso il popolo di Faraone: non avranno timore di [Me]?”.
+presso il popolo di Faraone: non avranno timore di \[Me\]?”.
 
 # 2944
 
@@ -11818,7 +11818,7 @@ Disse: “Ho fatto ciò quando ancora ero uno degli smarriti.
 
 # 2953
 
-Sono fuggito da voi perché ho avuto paura di voi. [Ora] il mio Signore mi ha dato il discernimento e ha fatto di me uno dei [Suoi] Messaggeri.
+Sono fuggito da voi perché ho avuto paura di voi. \[Ora\] il mio Signore mi ha dato il discernimento e ha fatto di me uno dei \[Suoi\] Messaggeri.
 
 # 2954
 
@@ -11834,19 +11834,19 @@ Rispose: “Il Signore dei cieli e della terra e di ciò che vi è tra essi. Se 
 
 # 2957
 
-Disse [Faraone] a quelli che lo attorniavano: “Non avete sentito?”.
+Disse \[Faraone\] a quelli che lo attorniavano: “Non avete sentito?”.
 
 # 2958
 
-Disse [Mosè]: “È il vostro Signore, il Signore dei vostri antenati più lontani!”.
+Disse \[Mosè\]: “È il vostro Signore, il Signore dei vostri antenati più lontani!”.
 
 # 2959
 
-Disse [Faraone]: “Davvero il messaggero che vi è stato inviato è un folle”.
+Disse \[Faraone\]: “Davvero il messaggero che vi è stato inviato è un folle”.
 
 # 2960
 
-Disse [Mosè]: “[È] il Signore dell'Oriente e dell'Occidente, e di ciò che vi è frammezzo, se solo lo capiste”.
+Disse \[Mosè\]: “\[È\] il Signore dell'Oriente e dell'Occidente, e di ciò che vi è frammezzo, se solo lo capiste”.
 
 # 2961
 
@@ -11854,7 +11854,7 @@ Disse: “Se prenderai un dio dall'infuori di me, certamente farò di te un prig
 
 # 2962
 
-Rispose [Mosè]: “Anche se ti portassi una prova evidente?”.
+Rispose \[Mosè\]: “Anche se ti portassi una prova evidente?”.
 
 # 2963
 
@@ -11862,15 +11862,15 @@ Disse: “Portala dunque, se sei fra i veritieri”.
 
 # 2964
 
-Gettò il suo bastone, ed ecco che [divenne] palesemente un serpente.
+Gettò il suo bastone, ed ecco che \[divenne\] palesemente un serpente.
 
 # 2965
 
-Trasse la sua mano, ed essa [apparve] bianca a coloro che guardavano.
+Trasse la sua mano, ed essa \[apparve\] bianca a coloro che guardavano.
 
 # 2966
 
-Disse [Faraone] ai notabili che lo attorniavano: “È davvero un mago sapiente,
+Disse \[Faraone\] ai notabili che lo attorniavano: “È davvero un mago sapiente,
 
 # 2967
 
@@ -11930,7 +11930,7 @@ il Signore di Mosè e di Aronne”.
 
 # 2981
 
-Disse [Faraone]: “Crederete in Lui prima che io ve lo permetta? In verità, è lui il vostro gran maestro, colui che vi ha insegnato la magia! Presto imparerete [a vostre spese]: vi farò tagliare mani e piedi alternati e vi farò crocifiggere tutti quanti”.
+Disse \[Faraone\]: “Crederete in Lui prima che io ve lo permetta? In verità, è lui il vostro gran maestro, colui che vi ha insegnato la magia! Presto imparerete \[a vostre spese\]: vi farò tagliare mani e piedi alternati e vi farò crocifiggere tutti quanti”.
 
 # 2982
 
@@ -11950,7 +11950,7 @@ Faraone mandò messi in tutte le città:
 
 # 2986
 
-[perché dicessero:] “Invero, sono un gruppo esiguo,
+\[perché dicessero:\] “Invero, sono un gruppo esiguo,
 
 # 2987
 
@@ -11970,7 +11970,7 @@ tesori e graziose dimore.
 
 # 2991
 
-Così fu, e [tutto] demmo in eredità ai Figli di Israele.
+Così fu, e \[tutto\] demmo in eredità ai Figli di Israele.
 
 # 2992
 
@@ -11982,11 +11982,11 @@ Quando le due schiere si avvistarono, i compagni di Mosè dissero: “Saremo rag
 
 # 2994
 
-Disse [Mosè]: “Giammai, il mio Signore è con me e mi guiderà”.
+Disse \[Mosè\]: “Giammai, il mio Signore è con me e mi guiderà”.
 
 # 2995
 
-Rivelammo a Mosè: “Colpisci il mare con il tuo bastone”. Subito si aprì e ogni parte [dell'acqua] fu come una montagna enorme.
+Rivelammo a Mosè: “Colpisci il mare con il tuo bastone”. Subito si aprì e ogni parte \[dell'acqua\] fu come una montagna enorme.
 
 # 2996
 
@@ -12022,7 +12022,7 @@ Risposero: “Adoriamo gli idoli e resteremo fedeli a loro”.
 
 # 3004
 
-Disse [Abramo]: “Vi ascoltano, quando li invocate?
+Disse \[Abramo\]: “Vi ascoltano, quando li invocate?
 
 # 3005
 
@@ -12082,7 +12082,7 @@ e perdona a mio padre: davvero è stato uno degli sviati.
 
 # 3019
 
-E non coprirmi di abominio nel Giorno in cui [gli uomini] saranno resuscitati,
+E non coprirmi di abominio nel Giorno in cui \[gli uomini\] saranno resuscitati,
 
 # 3020
 
@@ -12142,7 +12142,7 @@ e neppure un amico cordiale.
 
 # 3034
 
-Se solo ci fosse [possibile] un ritorno, saremmo allora tra i credenti”.
+Se solo ci fosse \[possibile\] un ritorno, saremmo allora tra i credenti”.
 
 # 3035
 
@@ -12158,7 +12158,7 @@ Il popolo di Noè tacciò di menzogna gli inviati.
 
 # 3038
 
-[Ricorda] quando il loro fratello Noè disse loro: “Non sarete dunque timorati?
+\[Ricorda\] quando il loro fratello Noè disse loro: “Non sarete dunque timorati?
 
 # 3039
 
@@ -12178,11 +12178,11 @@ Temete Allah e obbeditemi”.
 
 # 3043
 
-Risposero: “Dovremmo credere in te, nonostante che siano i più miserabili [di noi] a seguirti?”.
+Risposero: “Dovremmo credere in te, nonostante che siano i più miserabili \[di noi\] a seguirti?”.
 
 # 3044
 
-Disse [Noè]: “Io non conosco il loro operato.
+Disse \[Noè\]: “Io non conosco il loro operato.
 
 # 3045
 
@@ -12230,7 +12230,7 @@ Gli Âd smentirono gli inviati.
 
 # 3056
 
-[Ricorda] quando il loro fratello Hûd, disse loro: “Non sarete dunque timorati?
+\[Ricorda\] quando il loro fratello Hûd, disse loro: “Non sarete dunque timorati?
 
 # 3057
 
@@ -12246,7 +12246,7 @@ Non vi chiedo ricompensa alcuna, ché la mia ricompensa è presso il Signore dei
 
 # 3060
 
-Eleverete un edificio su ogni collina, [solo] per futilità?
+Eleverete un edificio su ogni collina, \[solo\] per futilità?
 
 # 3061
 
@@ -12286,7 +12286,7 @@ Questi nostri costumi non sono che quelli degli antichi:
 
 # 3070
 
-[pertanto] non saremo certo puniti”.
+\[pertanto\] non saremo certo puniti”.
 
 # 3071
 
@@ -12378,7 +12378,7 @@ Il popolo di Lot accusò di menzogna gli inviati.
 
 # 3093
 
-Quando il loro fratello Lot, disse loro: “Non sarete dunque timorati [di Allah]?
+Quando il loro fratello Lot, disse loro: “Non sarete dunque timorati \[di Allah\]?
 
 # 3094
 
@@ -12426,7 +12426,7 @@ Quindi annientammo tutti gli altri:
 
 # 3105
 
-facemmo scendere su di loro una pioggia, una pioggia orribile su coloro che erano stati [invano] avvertiti.
+facemmo scendere su di loro una pioggia, una pioggia orribile su coloro che erano stati \[invano\] avvertiti.
 
 # 3106
 
@@ -12442,7 +12442,7 @@ Il popolo di al-Aykah accusò di menzogna gli inviati.
 
 # 3109
 
-Quando Shu'ayb disse loro: “Non sarete dunque timorati [di Allah]?
+Quando Shu'ayb disse loro: “Non sarete dunque timorati \[di Allah\]?
 
 # 3110
 
@@ -12578,7 +12578,7 @@ Non sono i diavoli che l' hanno fatto scendere:
 
 # 3143
 
-ché Esso non si addice loro, e neppure avrebbero potuto [produrlo],
+ché Esso non si addice loro, e neppure avrebbero potuto \[produrlo\],
 
 # 3144
 
@@ -12606,11 +12606,11 @@ E confida nell'Eccelso, nel Misericordioso,
 
 # 3150
 
-che ti vede quando ti alzi [per l'orazione],
+che ti vede quando ti alzi \[per l'orazione\],
 
 # 3151
 
-e [vede] i tuoi movimenti tra coloro che si prosternano.
+e \[vede\] i tuoi movimenti tra coloro che si prosternano.
 
 # 3152
 
@@ -12618,7 +12618,7 @@ In verità Egli è Colui che tutto ascolta e conosce.
 
 # 3153
 
-[Volete che]vi indichi quelli sui quali scendono i diavoli?
+\[Volete che\]vi indichi quelli sui quali scendono i diavoli?
 
 # 3154
 
@@ -12658,11 +12658,11 @@ che assolvono all'orazione, pagano la decima e credono con fermezza all'altra vi
 
 # 3163
 
-Quanto a coloro che non credono nell'altra vita, facemmo [sembrar] belle le loro azioni, sì che procedessero alla cieca.
+Quanto a coloro che non credono nell'altra vita, facemmo \[sembrar\] belle le loro azioni, sì che procedessero alla cieca.
 
 # 3164
 
-[Appartiene] a loro il peggiore dei castighi e nell'altra vita saranno i più grandi perdenti.
+\[Appartiene\] a loro il peggiore dei castighi e nell'altra vita saranno i più grandi perdenti.
 
 # 3165
 
@@ -12670,7 +12670,7 @@ Certo, tu ricevi il Corano da parte di un Saggio, un Sapiente.
 
 # 3166
 
-[Ricorda] quando Mosè disse alla sua famiglia: “Ho visto un fuoco, vi porterò notizie di esso o tornerò con un tizzone acceso, affinché vi possiate riscaldare!”
+\[Ricorda\] quando Mosè disse alla sua famiglia: “Ho visto un fuoco, vi porterò notizie di esso o tornerò con un tizzone acceso, affinché vi possiate riscaldare!”
 
 # 3167
 
@@ -12686,11 +12686,11 @@ Getta il tuo bastone!” Quando lo vide contorcersi come fosse un serpente, vols
 
 # 3170
 
-[Hanno da temere] soltanto coloro che sono stati ingiusti. Ma per coloro che sostituiscono il male con il bene, in verità Io sono perdonatore, misericordioso!
+\[Hanno da temere\] soltanto coloro che sono stati ingiusti. Ma per coloro che sostituiscono il male con il bene, in verità Io sono perdonatore, misericordioso!
 
 # 3171
 
-Infila la tua mano nell'apertura della tua tunica, la trarrai bianca senza male alcuno, è uno dei nove segni [destinati] a Faraone e al suo popolo; essi sono davvero un popolo di empi!”
+Infila la tua mano nell'apertura della tua tunica, la trarrai bianca senza male alcuno, è uno dei nove segni \[destinati\] a Faraone e al suo popolo; essi sono davvero un popolo di empi!”
 
 # 3172
 
@@ -12718,7 +12718,7 @@ Quando giunsero alla valle delle formiche, una formica disse: “O formiche, rie
 
 # 3178
 
-[Salomone] sorrise a queste sue parole e disse: “Concedimi, o Signore, di esserTi grato per il favore che hai concesso a me, a mio padre e a mia madre e [concedimi] di compiere il bene che Tu gradisci e, per la Tua misericordia, fammi entrare tra i Tuoi virtuosi servitori”.
+\[Salomone\] sorrise a queste sue parole e disse: “Concedimi, o Signore, di esserTi grato per il favore che hai concesso a me, a mio padre e a mia madre e \[concedimi\] di compiere il bene che Tu gradisci e, per la Tua misericordia, fammi entrare tra i Tuoi virtuosi servitori”.
 
 # 3179
 
@@ -12750,7 +12750,7 @@ Allah! Non c'è dio all'infuori di Lui, il Signore del Trono immenso”.
 
 # 3186
 
-Disse [Salomone]: “Presto vedremo se hai detto la verità o se hai mentito.
+Disse \[Salomone\]: “Presto vedremo se hai detto la verità o se hai mentito.
 
 # 3187
 
@@ -12758,11 +12758,11 @@ Va' con questa mia lettera e falla cadere su di loro; mettiti poi in disparte e 
 
 # 3188
 
-Disse [la regina]: “O notabili, mi è stata fatta pervenire una nobile lettera.
+Disse \[la regina\]: “O notabili, mi è stata fatta pervenire una nobile lettera.
 
 # 3189
 
-Giunge da Salomone, [dice]: In nome di Allah, il Compassionevole, il Misericordioso,
+Giunge da Salomone, \[dice\]: In nome di Allah, il Compassionevole, il Misericordioso,
 
 # 3190
 
@@ -12786,7 +12786,7 @@ Io gli invierò un dono e valuterò ciò che i messi riporteranno”.
 
 # 3195
 
-Quando giunsero presso Salomone, [egli] disse: “Volete forse lusingarmi con le ricchezze? Ciò che Allah mi ha concesso è meglio di quello che ha concesso a voi. No, siete voi che vi gloriate del vostro dono.
+Quando giunsero presso Salomone, \[egli\] disse: “Volete forse lusingarmi con le ricchezze? Ciò che Allah mi ha concesso è meglio di quello che ha concesso a voi. No, siete voi che vi gloriate del vostro dono.
 
 # 3196
 
@@ -12794,7 +12794,7 @@ Ritornate dai vostri. Marceremo contro di loro con armate alle quali non potrann
 
 # 3197
 
-Disse [Salomone]: “O notabili, chi di voi mi porterà il suo trono prima che vengano a me sottomessi?”.
+Disse \[Salomone\]: “O notabili, chi di voi mi porterà il suo trono prima che vengano a me sottomessi?”.
 
 # 3198
 
@@ -12802,7 +12802,7 @@ Un ifrit tra i dèmoni, disse: “Te lo porterò prima ancora che tu ti sia alza
 
 # 3199
 
-Uno, che aveva conoscenza del Libro, disse: “Te lo porterò prima ancora che tu possa battere ciglio”. Quando poi [Salomone] lo vide posarsi presso di sé, disse: “Questo è parte della grazia del mio Signore per mettermi alla prova, [e vedere] se sarò riconoscente o ingrato. Quanto a chi è riconoscente, lo è per se stesso, e chi è ingrato... [sappia che] il mio Signore basta a Se Stesso ed è generoso”.
+Uno, che aveva conoscenza del Libro, disse: “Te lo porterò prima ancora che tu possa battere ciglio”. Quando poi \[Salomone\] lo vide posarsi presso di sé, disse: “Questo è parte della grazia del mio Signore per mettermi alla prova, \[e vedere\] se sarò riconoscente o ingrato. Quanto a chi è riconoscente, lo è per se stesso, e chi è ingrato... \[sappia che\] il mio Signore basta a Se Stesso ed è generoso”.
 
 # 3200
 
@@ -12810,7 +12810,7 @@ E disse: “Rendetele irriconoscibile il suo trono: vedremo se lo riconoscerà o
 
 # 3201
 
-Quando giunse, le fu detto: “È questo il tuo trono?”. Rispose: “Sembrerebbe che lo sia”. [Disse Salomone]: “Già ci fu data la scienza e già fummo sottomessi ad Allah”.
+Quando giunse, le fu detto: “È questo il tuo trono?”. Rispose: “Sembrerebbe che lo sia”. \[Disse Salomone\]: “Già ci fu data la scienza e già fummo sottomessi ad Allah”.
 
 # 3202
 
@@ -12818,11 +12818,11 @@ Ciò che adorava all'infuori di Allah, l'aveva distolta. Invero faceva parte di 
 
 # 3203
 
-Le fu detto: “Entra nel palazzo”. Quando lo vide, credette che fosse un'acqua profonda e si scoprì le gambe. [Allora Salomone] disse: “È un palazzo lastricato di cristallo”. Disse [quella]: “Signore! Sono stata ingiusta nei miei stessi confronti. Mi sottometto con Salomone ad Allah, Signore dei mondi”.
+Le fu detto: “Entra nel palazzo”. Quando lo vide, credette che fosse un'acqua profonda e si scoprì le gambe. \[Allora Salomone\] disse: “È un palazzo lastricato di cristallo”. Disse \[quella\]: “Signore! Sono stata ingiusta nei miei stessi confronti. Mi sottometto con Salomone ad Allah, Signore dei mondi”.
 
 # 3204
 
-Ai Thamûd inviammo il loro fratello Sâlih: [disse] “Adorate Allah”. Invece si divisero in due gruppi in discordia tra loro.
+Ai Thamûd inviammo il loro fratello Sâlih: \[disse\] “Adorate Allah”. Invece si divisero in due gruppi in discordia tra loro.
 
 # 3205
 
@@ -12838,7 +12838,7 @@ Nella città, c'era una banda di nove persone che spargevano corruzione sulla te
 
 # 3208
 
-Dissero, giurando fra loro [in nome di] Allah: “Attaccheremo di notte, lui e la sua famiglia. Poi diremo a chi vorrà vendicarlo: Non siamo stati testimoni dello sterminio della sua famiglia. Davvero siamo sinceri"”.
+Dissero, giurando fra loro \[in nome di\] Allah: “Attaccheremo di notte, lui e la sua famiglia. Poi diremo a chi vorrà vendicarlo: Non siamo stati testimoni dello sterminio della sua famiglia. Davvero siamo sinceri"”.
 
 # 3209
 
@@ -12858,7 +12858,7 @@ E salvammo coloro che avevano creduto ed erano timorati.
 
 # 3213
 
-[E ricorda] Lot, quando disse al suo popolo: “Vi darete alla turpitudine pur riconoscendola?
+\[E ricorda\] Lot, quando disse al suo popolo: “Vi darete alla turpitudine pur riconoscendola?
 
 # 3214
 
@@ -12874,7 +12874,7 @@ Lo salvammo insieme con la sua famiglia, eccetto sua moglie, per la quale decide
 
 # 3217
 
-Facemmo scendere su di loro una pioggia, una pioggia orribile su coloro che erano stati [invano] avvertiti.
+Facemmo scendere su di loro una pioggia, una pioggia orribile su coloro che erano stati \[invano\] avvertiti.
 
 # 3218
 
@@ -12882,7 +12882,7 @@ Di': “Lode ad Allah e pace sui Suoi servi che ha prescelti!”. È migliore Al
 
 # 3219
 
-Egli è Colui Che ha creato i cieli e la terra; e dal cielo ha fatto scendere per voi un'acqua, per mezzo della quale Noi abbiamo fatto germogliare giardini rigogliosi; i cui alberi voi non sapreste far germogliare. Vi è forse un'altra divinità assieme ad Allah? No, quella è gente che attribuisce eguali [ad Allah].
+Egli è Colui Che ha creato i cieli e la terra; e dal cielo ha fatto scendere per voi un'acqua, per mezzo della quale Noi abbiamo fatto germogliare giardini rigogliosi; i cui alberi voi non sapreste far germogliare. Vi è forse un'altra divinità assieme ad Allah? No, quella è gente che attribuisce eguali \[ad Allah\].
 
 # 3220
 
@@ -12894,7 +12894,7 @@ Non è Lui Che risponde quando l'affranto Lo invoca, Che libera dal male e Che h
 
 # 3222
 
-Non è Lui Che vi guida nelle tenebre della terra e del mare, Colui Che invia i venti nunzi della buona novella, che precedono la Sua misericordia? Vi è forse un'altra divinità, assieme ad Allah? Allah è ben più Alto, di ciò che [Gli] associano.
+Non è Lui Che vi guida nelle tenebre della terra e del mare, Colui Che invia i venti nunzi della buona novella, che precedono la Sua misericordia? Vi è forse un'altra divinità, assieme ad Allah? Allah è ben più Alto, di ciò che \[Gli\] associano.
 
 # 3223
 
@@ -12906,7 +12906,7 @@ Di': “Nessuno di coloro che sono nei cieli e sulla terra conosce l'invisibile,
 
 # 3225
 
-La loro conoscenza dell'altra vita [è nulla]. Sono in preda ai dubbi, sono del tutto ciechi [in proposito].
+La loro conoscenza dell'altra vita \[è nulla\]. Sono in preda ai dubbi, sono del tutto ciechi \[in proposito\].
 
 # 3226
 
@@ -12926,7 +12926,7 @@ Non ti affliggere per loro, non essere angosciato per le loro trame.
 
 # 3230
 
-Dicono: “Quando [si realizzerà] questa promessa, se siete veridici?”.
+Dicono: “Quando \[si realizzerà\] questa promessa, se siete veridici?”.
 
 # 3231
 
@@ -12970,7 +12970,7 @@ E neppure potrai trarre i ciechi dal loro sviamento. Solo ti potrai far ascoltar
 
 # 3241
 
-Quando il Decreto cadrà loro addosso, faremo uscire, per loro, una bestia dalla terra. [Essa] proclamerà che gli uomini non erano convinti della verità dei Nostri segni.
+Quando il Decreto cadrà loro addosso, faremo uscire, per loro, una bestia dalla terra. \[Essa\] proclamerà che gli uomini non erano convinti della verità dei Nostri segni.
 
 # 3242
 
@@ -12978,11 +12978,11 @@ In quel Giorno riuniremo, da ogni comunità, una massa di coloro che tacciarono 
 
 # 3243
 
-Quando saranno colà, [Allah] dirà: “Avete tacciato di menzogna i Miei segni senza neppure conoscerli? Che cosa dunque avete fatto?”.
+Quando saranno colà, \[Allah\] dirà: “Avete tacciato di menzogna i Miei segni senza neppure conoscerli? Che cosa dunque avete fatto?”.
 
 # 3244
 
-Il Decreto cadrà loro addosso, perché furono ingiusti e non parleranno [più].
+Il Decreto cadrà loro addosso, perché furono ingiusti e non parleranno \[più\].
 
 # 3245
 
@@ -13006,7 +13006,7 @@ E coloro che verranno con il male, avranno i volti gettati nel Fuoco: “Siete c
 
 # 3250
 
-In verità non mi è stato solo ordinato di adorare il Signore di questa città che Egli ha resa inviolabile. A Lui tutto [appartiene] e mi ha comandato di essere uno dei musulmani
+In verità non mi è stato solo ordinato di adorare il Signore di questa città che Egli ha resa inviolabile. A Lui tutto \[appartiene\] e mi ha comandato di essere uno dei musulmani
 
 # 3251
 
@@ -13038,7 +13038,7 @@ Invece Noi volevamo colmare di favore quelli che erano stati oppressi, farne del
 
 # 3258
 
-[Volevamo] consolidarli sulla terra e, loro tramite, far vedere a Faraone e Hâmân e alle loro armate quello che paventavano.
+\[Volevamo\] consolidarli sulla terra e, loro tramite, far vedere a Faraone e Hâmân e alle loro armate quello che paventavano.
 
 # 3259
 
@@ -13050,7 +13050,7 @@ Lo raccolse la gente di Faraone, sì che potesse diventare loro nemico e causa d
 
 # 3261
 
-Disse la moglie di Faraone: “[Questo bambino sarà] la gioia dei miei occhi e dei tuoi! Non lo uccidete! Forse ci sarà utile, o lo adotteremo come un figlio”. Non avevano alcun sospetto.
+Disse la moglie di Faraone: “\[Questo bambino sarà\] la gioia dei miei occhi e dei tuoi! Non lo uccidete! Forse ci sarà utile, o lo adotteremo come un figlio”. Non avevano alcun sospetto.
 
 # 3262
 
@@ -13062,7 +13062,7 @@ Disse alla di lui sorella: “Seguilo”, e quella lo osservò di nascosto. Non 
 
 # 3264
 
-E Noi gli interdicemmo ogni nutrice. Allora [la sorella] disse: “Posso indicarvi la gente di una casa, che potrà occuparsene per conto vostro e che gli sarà benevola?”.
+E Noi gli interdicemmo ogni nutrice. Allora \[la sorella\] disse: “Posso indicarvi la gente di una casa, che potrà occuparsene per conto vostro e che gli sarà benevola?”.
 
 # 3265
 
@@ -13074,7 +13074,7 @@ Quando raggiunse l'età adulta e il pieno del suo sviluppo, gli demmo discernime
 
 # 3267
 
-Avvenne che, entrando in città in un momento di disattenzione dei suoi abitanti, trovò due uomini che si battevano, uno era dei suoi e l'altro uno degli avversari. Quello che era dei suoi gli chiese aiuto contro l'altro dell'avversa fazione: Mosè lo colpì con un pugno e lo uccise. Disse [Mosè]: “Questa è certamente opera di Satana! È davvero un nemico, uno che svia gli uomini”.
+Avvenne che, entrando in città in un momento di disattenzione dei suoi abitanti, trovò due uomini che si battevano, uno era dei suoi e l'altro uno degli avversari. Quello che era dei suoi gli chiese aiuto contro l'altro dell'avversa fazione: Mosè lo colpì con un pugno e lo uccise. Disse \[Mosè\]: “Questa è certamente opera di Satana! È davvero un nemico, uno che svia gli uomini”.
 
 # 3268
 
@@ -13106,7 +13106,7 @@ Dirigendosi verso Madian disse: “Spero che il mio Signore mi guidi sulla retta
 
 # 3275
 
-Quando giunse all'acqua di Madian, vi trovò una moltitudine di uomini che abbeverava e scorse due donne che si tenevano in disparte trattenendo [i loro animali]. Disse: “Cosa vi succede?”. Risposero: “Non abbevereremo finché i pastori non saranno partiti; nostro padre è molto vecchio”.
+Quando giunse all'acqua di Madian, vi trovò una moltitudine di uomini che abbeverava e scorse due donne che si tenevano in disparte trattenendo \[i loro animali\]. Disse: “Cosa vi succede?”. Risposero: “Non abbevereremo finché i pastori non saranno partiti; nostro padre è molto vecchio”.
 
 # 3276
 
@@ -13114,7 +13114,7 @@ Abbeverò per loro, poi si mise all'ombra e disse: “Davvero, Signore, ho molto
 
 # 3277
 
-Una delle due donne gli si avvicinò timidamente. Disse: “Mio padre ti invita, per ricompensarti di aver abbeverato per noi”. Quando giunse al suo cospetto e gli raccontò la sua storia, disse [il vecchio]: “Non temere, sei sfuggito a gente ingiusta”.
+Una delle due donne gli si avvicinò timidamente. Disse: “Mio padre ti invita, per ricompensarti di aver abbeverato per noi”. Quando giunse al suo cospetto e gli raccontò la sua storia, disse \[il vecchio\]: “Non temere, sei sfuggito a gente ingiusta”.
 
 # 3278
 
@@ -13122,11 +13122,11 @@ Una di quelle disse: “O padre mio, assumilo: è davvero il migliore che tu pos
 
 # 3279
 
-Disse: “Vorrei sposarti ad una di queste mie figlie, a condizione che tu mi serva per otto anni. Se vorrai restare dieci [anni], sarà di tua spontanea volontà. Non ti imporrò nulla di gravoso e, se Allah vuole, troverai che sono un uomo del bene”.
+Disse: “Vorrei sposarti ad una di queste mie figlie, a condizione che tu mi serva per otto anni. Se vorrai restare dieci \[anni\], sarà di tua spontanea volontà. Non ti imporrò nulla di gravoso e, se Allah vuole, troverai che sono un uomo del bene”.
 
 # 3280
 
-Rispose: “Questo [sarà] tra me e te. Qualunque dei due termini compirò, nessuna colpa mi sarà rinfacciata. Allah sia garante di quello che diciamo”.
+Rispose: “Questo \[sarà\] tra me e te. Qualunque dei due termini compirò, nessuna colpa mi sarà rinfacciata. Allah sia garante di quello che diciamo”.
 
 # 3281
 
@@ -13154,7 +13154,7 @@ Mio fratello Aronne ha lingua più eloquente della mia. Mandalo insieme con me, 
 
 # 3287
 
-Disse [Allah]: “Rafforzeremo il tuo braccio con tuo fratello e daremo ad entrambi autorità: non potranno toccarvi grazie ai Nostri segni. Voi due e quelli che vi seguiranno sarete vittoriosi”.
+Disse \[Allah\]: “Rafforzeremo il tuo braccio con tuo fratello e daremo ad entrambi autorità: non potranno toccarvi grazie ai Nostri segni. Voi due e quelli che vi seguiranno sarete vittoriosi”.
 
 # 3288
 
@@ -13194,11 +13194,11 @@ Tu non eri sul lato occidentale, quando demmo l'ordine a Mosè, tu non eri fra i
 
 # 3297
 
-Abbiamo creato generazioni la cui vita si prolungò; tu non dimoravi tra la gente di Madian per recitare loro i Nostri segni: siamo stati Noi a inviare [i messaggeri].
+Abbiamo creato generazioni la cui vita si prolungò; tu non dimoravi tra la gente di Madian per recitare loro i Nostri segni: siamo stati Noi a inviare \[i messaggeri\].
 
 # 3298
 
-E non eri sul fianco del Monte quando chiamammo. Ma [sei giunto come] una misericordia da parte del tuo Signore, affinché tu ammonisca un popolo al quale non giunse alcun ammonitore prima di te.
+E non eri sul fianco del Monte quando chiamammo. Ma \[sei giunto come\] una misericordia da parte del tuo Signore, affinché tu ammonisca un popolo al quale non giunse alcun ammonitore prima di te.
 
 # 3299
 
@@ -13206,15 +13206,15 @@ Se una disgrazia li colpisce, per quel che le loro mani hanno commesso, dicono: 
 
 # 3300
 
-Ma quando giunse loro la verità da parte Nostra, hanno detto: “Perché non gli è stato dato quello che è stato dato a Mosè?”. Ma già non furono increduli di quello che fu dato a Mosè? Dicono: “Due magie che si sostengono a vicenda”. E dicono: “Sì, non crediamo in nessuna”. [La polemica dei miscredenti arriva alla blasfemia che qualifica come magie (“siharâni) la Torâh e il Corano. Con un'altra lettura: “sâhirâni”, essi qualificano maghi Mosè e Muhammad (pace su di loro)]
+Ma quando giunse loro la verità da parte Nostra, hanno detto: “Perché non gli è stato dato quello che è stato dato a Mosè?”. Ma già non furono increduli di quello che fu dato a Mosè? Dicono: “Due magie che si sostengono a vicenda”. E dicono: “Sì, non crediamo in nessuna”. \[La polemica dei miscredenti arriva alla blasfemia che qualifica come magie (“siharâni) la Torâh e il Corano. Con un'altra lettura: “sâhirâni”, essi qualificano maghi Mosè e Muhammad (pace su di loro)\]
 
 # 3301
 
-Di': “Portate, da parte di Allah, un Libro che sia migliore guida di entrambi, ché lo possa seguire, [portatelo] se siete veridici!”.
+Di': “Portate, da parte di Allah, un Libro che sia migliore guida di entrambi, ché lo possa seguire, \[portatelo\] se siete veridici!”.
 
 # 3302
 
-E se non ti rispondono, sappi allora che seguono [solo] le loro passioni, niente di più. Chi è più sviato di chi segue la sua passione senza guida alcuna da parte di Allah? In verità Allah non guida gli ingiusti.
+E se non ti rispondono, sappi allora che seguono \[solo\] le loro passioni, niente di più. Chi è più sviato di chi segue la sua passione senza guida alcuna da parte di Allah? In verità Allah non guida gli ingiusti.
 
 # 3303
 
@@ -13246,11 +13246,11 @@ E dicono: “Se seguissimo la Guida insieme con te, saremmo scacciati dalla nost
 
 # 3310
 
-E quante città abbiamo distrutto che erano ingrate [pur vivendo nell'abbondanza]! Ecco le loro case che non sono più abitate, o quasi. Siamo Noi l'Erede finale.
+E quante città abbiamo distrutto che erano ingrate \[pur vivendo nell'abbondanza\]! Ecco le loro case che non sono più abitate, o quasi. Siamo Noi l'Erede finale.
 
 # 3311
 
-Non si addice al tuo Signore distruggere una comunità prima di aver suscitato nella Madre [delle città] un inviato che reciti loro i Nostri segni. Noi distruggiamo le città, solo quando i suoi abitanti sono ingiusti.
+Non si addice al tuo Signore distruggere una comunità prima di aver suscitato nella Madre \[delle città\] un inviato che reciti loro i Nostri segni. Noi distruggiamo le città, solo quando i suoi abitanti sono ingiusti.
 
 # 3312
 
@@ -13258,11 +13258,11 @@ Tutti i beni che vi sono stati concessi non sono che un prestito di questa vita,
 
 # 3313
 
-Colui al quale facemmo una bella promessa e che la incontrerà, è forse paragonabile a colui cui diamo godimento effimero in questa vita e che, nel Giorno della Resurrezione, sarà di quelli che saranno condotti [al fuoco]?
+Colui al quale facemmo una bella promessa e che la incontrerà, è forse paragonabile a colui cui diamo godimento effimero in questa vita e che, nel Giorno della Resurrezione, sarà di quelli che saranno condotti \[al fuoco\]?
 
 # 3314
 
-[Allah] dirà loro, il Giorno che li chiamerà: “Dove sono coloro che pretendevate essere Miei consoci?”.
+\[Allah\] dirà loro, il Giorno che li chiamerà: “Dove sono coloro che pretendevate essere Miei consoci?”.
 
 # 3315
 
@@ -13274,7 +13274,7 @@ Verrà detto: “Invocate i vostri associati. Li chiameranno, ma essi non rispon
 
 # 3317
 
-[Allah] dirà loro il Giorno che li chiamerà: “Che cosa avete risposto agli inviati?”.
+\[Allah\] dirà loro il Giorno che li chiamerà: “Che cosa avete risposto agli inviati?”.
 
 # 3318
 
@@ -13286,7 +13286,7 @@ Chi invece si sarà pentito, avrà creduto e compiuto il bene, forse sarà tra c
 
 # 3320
 
-Il tuo Signore crea ciò che vuole e sceglie [ciò che vuole]; a loro invece non appartiene la scelta. Gloria ad Allah! Egli è ben più alto di quello che Gli associano!
+Il tuo Signore crea ciò che vuole e sceglie \[ciò che vuole\]; a loro invece non appartiene la scelta. Gloria ad Allah! Egli è ben più alto di quello che Gli associano!
 
 # 3321
 
@@ -13294,7 +13294,7 @@ Il tuo Signore conosce ciò che celano i loro cuori e quello che palesano.
 
 # 3322
 
-Egli è Allah, non c'è dio all'infuori di Lui. Sia lodato in questo mondo e nell'altro. A Lui [appartiene] il giudizio e a Lui sarete ricondotti.
+Egli è Allah, non c'è dio all'infuori di Lui. Sia lodato in questo mondo e nell'altro. A Lui \[appartiene\] il giudizio e a Lui sarete ricondotti.
 
 # 3323
 
@@ -13310,7 +13310,7 @@ Di': “Cosa credete? Se Allah vi desse il giorno continuo, fino al Giorno della
 
 # 3326
 
-[Allah] dirà loro il Giorno che li chiamerà: “Dove sono coloro che pretendevate essere Miei associati?”.
+\[Allah\] dirà loro il Giorno che li chiamerà: “Dove sono coloro che pretendevate essere Miei associati?”.
 
 # 3327
 
@@ -13330,7 +13330,7 @@ Rispose: “Ho ottenuto tutto ciò grazie alla scienza che possiedo”. Ignorava
 
 # 3331
 
-Poi uscì, [mostrandosi] al suo popolo in tutta la sua pompa. Coloro che bramavano questa vita, dissero: “Disgraziati noi, se avessimo quello che è stato dato a Qarûn! Gli è stata certo data immensa fortuna!”.
+Poi uscì, \[mostrandosi\] al suo popolo in tutta la sua pompa. Coloro che bramavano questa vita, dissero: “Disgraziati noi, se avessimo quello che è stato dato a Qarûn! Gli è stata certo data immensa fortuna!”.
 
 # 3332
 
@@ -13346,11 +13346,11 @@ E coloro che la vigilia si auguravano di essere al posto suo, dissero: “Ah! È
 
 # 3335
 
-Questa Dimora Ultima la riserviamo a coloro che non vogliono essere superbi sulla terra e non seminano corruzione. L'esito finale appartiene ai timorati [di Allah].
+Questa Dimora Ultima la riserviamo a coloro che non vogliono essere superbi sulla terra e non seminano corruzione. L'esito finale appartiene ai timorati \[di Allah\].
 
 # 3336
 
-Chi verrà con il bene, avrà meglio ancora; chi verrà con il male, [sappia che] coloro che avranno commesso il male, saranno ricompensati per ciò che avranno fatto.
+Chi verrà con il bene, avrà meglio ancora; chi verrà con il male, \[sappia che\] coloro che avranno commesso il male, saranno ricompensati per ciò che avranno fatto.
 
 # 3337
 
@@ -13386,7 +13386,7 @@ O forse coloro che commettono cattive azioni credono di poterci sfuggire? Quanto
 
 # 3345
 
-Chi spera di incontrare Allah [sappia che] in verità, il termine di Allah si avvicina. Egli è Colui che tutto ascolta e conosce.
+Chi spera di incontrare Allah \[sappia che\] in verità, il termine di Allah si avvicina. Egli è Colui che tutto ascolta e conosce.
 
 # 3346
 
@@ -13406,7 +13406,7 @@ E coloro che credono e compiono il bene, li faremo entrare tra i devoti.
 
 # 3350
 
-Fra gli uomini vi è chi dice: “Noi crediamo in Allah”; ma non appena soffrono[per la causa di] Allah, considerano la persecuzione degli uomini un castigo di Allah. Quando giunge poi l'ausilio del loro Signore, dicono: “Noi eravamo con voi!”. Forse, che Allah non conosce meglio cosa c'è nei petti delle creature?
+Fra gli uomini vi è chi dice: “Noi crediamo in Allah”; ma non appena soffrono\[per la causa di\] Allah, considerano la persecuzione degli uomini un castigo di Allah. Quando giunge poi l'ausilio del loro Signore, dicono: “Noi eravamo con voi!”. Forse, che Allah non conosce meglio cosa c'è nei petti delle creature?
 
 # 3351
 
@@ -13414,7 +13414,7 @@ Allah conosce perfettamente i credenti e perfettamente conosce gli ipocriti.
 
 # 3352
 
-I miscredenti dicono a coloro che credono: “Seguite il nostro sentiero: porteremo noi [il peso del]le vostre colpe”. Ma non porteranno affatto il peso delle loro colpe. In verità sono dei bugiardi.
+I miscredenti dicono a coloro che credono: “Seguite il nostro sentiero: porteremo noi \[il peso del\]le vostre colpe”. Ma non porteranno affatto il peso delle loro colpe. In verità sono dei bugiardi.
 
 # 3353
 
@@ -13430,7 +13430,7 @@ Salvammo lui e i compagni dell'Arca. Ne facemmo un segno per i mondi.
 
 # 3356
 
-E [ricorda] Abramo, quando disse al suo popolo: “Adorate Allah e temeteLo. È il bene per voi, se lo sapeste!”.
+E \[ricorda\] Abramo, quando disse al suo popolo: “Adorate Allah e temeteLo. È il bene per voi, se lo sapeste!”.
 
 # 3357
 
@@ -13438,7 +13438,7 @@ Voi adorate idoli in luogo di Allah e inventate una menzogna. Coloro che adorate
 
 # 3358
 
-E se tacciate di menzogna, già altre comunità lo fecero prima di voi. Al Messaggero non [incombe] che la trasmissione esplicita.
+E se tacciate di menzogna, già altre comunità lo fecero prima di voi. Al Messaggero non \[incombe\] che la trasmissione esplicita.
 
 # 3359
 
@@ -13474,7 +13474,7 @@ Lot credette in lui e disse: “Sì, emigro verso il mio Signore; Egli è l'Ecce
 
 # 3367
 
-Concedemmo [ad Abramo] Isacco e Giacobbe e nella sua progenie stabilimmo la profezia e il Libro. Gli pagammo la sua mercede in questa vita e nell'altra sarà tra i giusti.
+Concedemmo \[ad Abramo\] Isacco e Giacobbe e nella sua progenie stabilimmo la profezia e il Libro. Gli pagammo la sua mercede in questa vita e nell'altra sarà tra i giusti.
 
 # 3368
 
@@ -13490,7 +13490,7 @@ Disse: “Mio Signore, dammi la vittoria su questo popolo di perversi!”.
 
 # 3371
 
-Quando i Nostri angeli portarono ad Abramo la lieta novella, dissero: “Sì, [abbiamo l'incarico di] annientare gli abitanti di questa città, poiché in verità sono ingiusti”.
+Quando i Nostri angeli portarono ad Abramo la lieta novella, dissero: “Sì, \[abbiamo l'incarico di\] annientare gli abitanti di questa città, poiché in verità sono ingiusti”.
 
 # 3372
 
@@ -13502,7 +13502,7 @@ Quando i Nostri angeli giunsero presso Lot, egli ebbe pena per loro e si sentì 
 
 # 3374
 
-In verità, siamo [mandati] per far cadere dal cielo un castigo sugli abitanti di questa città, per la loro turpitudine”.
+In verità, siamo \[mandati\] per far cadere dal cielo un castigo sugli abitanti di questa città, per la loro turpitudine”.
 
 # 3375
 
@@ -13510,7 +13510,7 @@ Già ne abbiamo fatto un segno evidente per coloro che capiscono.
 
 # 3376
 
-E ai Madianiti [mandammo] il loro fratello Shuayb, che disse loro: “O popol mio, adorate Allah e sperate nell'Ultimo Giorno, non commettete crimini sulla terra, non siate malfattori”.
+E ai Madianiti \[mandammo\] il loro fratello Shuayb, che disse loro: “O popol mio, adorate Allah e sperate nell'Ultimo Giorno, non commettete crimini sulla terra, non siate malfattori”.
 
 # 3377
 
@@ -13518,11 +13518,11 @@ Lo trattarono da bugiardo. Li colpì il cataclisma e il mattino li trovò che gi
 
 # 3378
 
-Ugualmente [accadde] agli Âd e i Thamûd; prova ne siano, per voi, le loro abitazioni. Satana abbellì agli occhi loro le loro azioni e li sviò dalla retta via, nonostante fossero stati invitati ad essere lucidi.
+Ugualmente \[accadde\] agli Âd e i Thamûd; prova ne siano, per voi, le loro abitazioni. Satana abbellì agli occhi loro le loro azioni e li sviò dalla retta via, nonostante fossero stati invitati ad essere lucidi.
 
 # 3379
 
-Ugualmente [accadde] a Qârûn e Faraone e Hâmân, quando Mosè portò loro le prove, ma furono superbi sulla terra. Non poterono sfuggirci.
+Ugualmente \[accadde\] a Qârûn e Faraone e Hâmân, quando Mosè portò loro le prove, ma furono superbi sulla terra. Non poterono sfuggirci.
 
 # 3380
 
@@ -13550,7 +13550,7 @@ Recita quello che ti è stato rivelato del Libro ed esegui l'orazione. In verit�
 
 # 3386
 
-Dialogate con belle maniere con la gente della Scrittura, eccetto quelli di loro che sono ingiusti. Dite [loro]: “Crediamo in quello che è stato fatto scendere su di noi e in quello che è stato fatto scendere su di voi, il nostro Dio e il vostro sono lo stesso Dio ed è a Lui che ci sottomettiamo”.
+Dialogate con belle maniere con la gente della Scrittura, eccetto quelli di loro che sono ingiusti. Dite \[loro\]: “Crediamo in quello che è stato fatto scendere su di noi e in quello che è stato fatto scendere su di voi, il nostro Dio e il vostro sono lo stesso Dio ed è a Lui che ci sottomettiamo”.
 
 # 3387
 
@@ -13558,11 +13558,11 @@ Così abbiamo fatto scendere su di te il Libro. Coloro ai quali abbiamo dato il 
 
 # 3388
 
-Prima di questo non recitavi alcun Libro e non scrivevi con la tua destra; [ché altrimenti] coloro che negano la verità avrebbero avuto dubbi.
+Prima di questo non recitavi alcun Libro e non scrivevi con la tua destra; \[ché altrimenti\] coloro che negano la verità avrebbero avuto dubbi.
 
 # 3389
 
-Sono invece chiari segni [custoditi] nei cuori di coloro ai quali è stata data la scienza. Solo gli ingiusti negano i Nostri segni.
+Sono invece chiari segni \[custoditi\] nei cuori di coloro ai quali è stata data la scienza. Solo gli ingiusti negano i Nostri segni.
 
 # 3390
 
@@ -13586,7 +13586,7 @@ Cercano di farti affrettare il castigo... Sarà l'Inferno a circondare i miscred
 
 # 3395
 
-nel Giorno in cui il castigo li avvolgerà da sopra e da sotto i piedi e dirà loro: “Gustate [le conseguenze di] quello che avete fatto!”.
+nel Giorno in cui il castigo li avvolgerà da sopra e da sotto i piedi e dirà loro: “Gustate \[le conseguenze di\] quello che avete fatto!”.
 
 # 3396
 
@@ -13598,7 +13598,7 @@ Ogni anima dovrà provare la morte e poi sarete ricondotti verso di Noi.
 
 # 3398
 
-Quanto a coloro che credono e operano il bene, li porremo in alti luoghi del Paradiso sotto i quali scorrono i ruscelli e vi rimarranno in perpetuo. Quanto è meraviglioso il premio di chi opera [il bene],
+Quanto a coloro che credono e operano il bene, li porremo in alti luoghi del Paradiso sotto i quali scorrono i ruscelli e vi rimarranno in perpetuo. Quanto è meraviglioso il premio di chi opera \[il bene\],
 
 # 3399
 
@@ -13610,7 +13610,7 @@ Quanti esseri viventi non si preoccupano del loro nutrimento! È Allah che nutre
 
 # 3401
 
-“Chi ha creato i cieli e la terra e ha sottomesso il sole e la luna?”. Certamente risponderanno: “Allah”. Perché poi si distolgono [dalla retta via]?
+“Chi ha creato i cieli e la terra e ha sottomesso il sole e la luna?”. Certamente risponderanno: “Allah”. Perché poi si distolgono \[dalla retta via\]?
 
 # 3402
 
@@ -13622,7 +13622,7 @@ Se domandi loro: “Chi fa scendere l'acqua dal cielo e ridà vita alla terra ch
 
 # 3404
 
-Questa vita terrena non è altro che gioco e trastullo. La dimora ultima è la [vera] vita, se solo lo sapessero!
+Questa vita terrena non è altro che gioco e trastullo. La dimora ultima è la \[vera\] vita, se solo lo sapessero!
 
 # 3405
 
@@ -13634,7 +13634,7 @@ per disconoscere quel che Noi abbiamo concesso loro e per effimeri godimenti: be
 
 # 3407
 
-Non vedono forse che abbiamo dato loro un [territorio] inviolabile, mentre tutt'attorno la gente è depredata? Crederanno dunque al falso e disconosceranno i favori di Allah?
+Non vedono forse che abbiamo dato loro un \[territorio\] inviolabile, mentre tutt'attorno la gente è depredata? Crederanno dunque al falso e disconosceranno i favori di Allah?
 
 # 3408
 
@@ -13670,7 +13670,7 @@ Promessa di Allah. Allah non manca alla Sua promessa, ma la maggior parte degli 
 
 # 3416
 
-essi conoscono [solo] l'apparenza della vita terrena e non si curano affatto dell'altra vita.
+essi conoscono \[solo\] l'apparenza della vita terrena e non si curano affatto dell'altra vita.
 
 # 3417
 
@@ -13694,7 +13694,7 @@ Il Giorno in cui si leverà l'Ora, saranno disperati i colpevoli.
 
 # 3422
 
-E non avranno più intercessori tra coloro che associavano [ad Allah], ma rinnegheranno le loro stesse divinità.
+E non avranno più intercessori tra coloro che associavano \[ad Allah\], ma rinnegheranno le loro stesse divinità.
 
 # 3423
 
@@ -13722,7 +13722,7 @@ Dal morto trae il vivo e dal vivo trae il morto e ridà vita alla terra che già
 
 # 3429
 
-Fa parte dei Suoi segni l'avervi creati dalla polvere, ed eccovi uomini che si distribuiscono [sulla terra].
+Fa parte dei Suoi segni l'avervi creati dalla polvere, ed eccovi uomini che si distribuiscono \[sulla terra\].
 
 # 3430
 
@@ -13742,7 +13742,7 @@ E fa parte dei Suoi segni farvi scorgere il lampo, con timore e brama, e il far 
 
 # 3434
 
-E fa parte dei Suoi segni che il cielo e la terra si tengano ritti per ordine Suo. Quando poi vi chiamerà d'un solo richiamo, ecco che sorgerete [dalle tombe].
+E fa parte dei Suoi segni che il cielo e la terra si tengano ritti per ordine Suo. Quando poi vi chiamerà d'un solo richiamo, ecco che sorgerete \[dalle tombe\].
 
 # 3435
 
@@ -13754,7 +13754,7 @@ Egli è Colui Che inizia la creazione e la reitera e ciò Gli è facile. A lui a
 
 # 3437
 
-Da voi stessi, trae una similitudine: ci sono, tra gli schiavi che possedete, alcuni che fate vostri soci, alla pari, in ciò che Allah vi ha concesso? Li temete forse quanto vi temete [a vicenda]? Così esplicitiamo i Nostri segni per coloro che ragionano.
+Da voi stessi, trae una similitudine: ci sono, tra gli schiavi che possedete, alcuni che fate vostri soci, alla pari, in ciò che Allah vi ha concesso? Li temete forse quanto vi temete \[a vicenda\]? Così esplicitiamo i Nostri segni per coloro che ragionano.
 
 # 3438
 
@@ -13770,7 +13770,7 @@ Ritornate a Lui, temeteLo, assolvete all'orazione e non siate associatori.
 
 # 3441
 
-E neppure [siate tra] coloro che hanno scisso la loro religione e hanno formato sette, ognuna delle quali è tronfia di quello che afferma.
+E neppure \[siate tra\] coloro che hanno scisso la loro religione e hanno formato sette, ognuna delle quali è tronfia di quello che afferma.
 
 # 3442
 
@@ -13806,7 +13806,7 @@ Allah è Colui Che vi ha creati, poi vi ha nutriti, poi vi darà la morte e quin
 
 # 3450
 
-La corruzione è apparsa sulla terra e nel mare a causa di ciò che hanno commesso le mani degli uomini, affinché Allah faccia gustare parte di quello che hanno fatto. Forse ritorneranno [sui loro passi]?
+La corruzione è apparsa sulla terra e nel mare a causa di ciò che hanno commesso le mani degli uomini, affinché Allah faccia gustare parte di quello che hanno fatto. Forse ritorneranno \[sui loro passi\]?
 
 # 3451
 
@@ -13846,7 +13846,7 @@ Considera le tracce della misericordia di Allah, come Egli ridà la vita ad una 
 
 # 3460
 
-Se inviassimo loro un vento che ingiallisse [le coltivazioni], rimarrebbero ingrati.
+Se inviassimo loro un vento che ingiallisse \[le coltivazioni\], rimarrebbero ingrati.
 
 # 3461
 
@@ -13862,11 +13862,11 @@ Allah è Colui Che vi ha creati deboli, e quindi dopo la debolezza vi ha dato la
 
 # 3464
 
-Il Giorno in cui sorgerà l'Ora, giureranno i criminali di non essere rimasti che un'ora. Già mentivano [sulla terra].
+Il Giorno in cui sorgerà l'Ora, giureranno i criminali di non essere rimasti che un'ora. Già mentivano \[sulla terra\].
 
 # 3465
 
-Mentre coloro cui fu data la scienza e la fede diranno: “Voi rimaneste, [com'è stabilito] nel Libro di Allah, fino al Giorno della Resurrezione: ecco il Giorno della Resurrezione, ma voi nulla sapete”.
+Mentre coloro cui fu data la scienza e la fede diranno: “Voi rimaneste, \[com'è stabilito\] nel Libro di Allah, fino al Giorno della Resurrezione: ecco il Giorno della Resurrezione, ma voi nulla sapete”.
 
 # 3466
 
@@ -13882,7 +13882,7 @@ Così Allah sigilla i cuori di coloro che nulla conoscono.
 
 # 3469
 
-Sopporta dunque con pazienza [o Muhammad]. La promessa di Allah è veritiera e non ti rendano leggero, coloro che non hanno certezza.
+Sopporta dunque con pazienza \[o Muhammad\]. La promessa di Allah è veritiera e non ti rendano leggero, coloro che non hanno certezza.
 
 # 3470
 
@@ -13922,11 +13922,11 @@ dove rimarranno in perpetuo: questa in verità la promessa di Allah. Egli è l'E
 
 # 3479
 
-Ha creato i cieli senza pilastri che possiate vedere, ha infisso le montagne sulla terra, ché altrimenti si sarebbe mossa e voi con essa e l'ha popolata di animali di tutte le specie. Abbiamo fatto scendere un'acqua [dal cielo] e abbiamo fatto germogliare ogni tipo di magnifica specie [di piante].
+Ha creato i cieli senza pilastri che possiate vedere, ha infisso le montagne sulla terra, ché altrimenti si sarebbe mossa e voi con essa e l'ha popolata di animali di tutte le specie. Abbiamo fatto scendere un'acqua \[dal cielo\] e abbiamo fatto germogliare ogni tipo di magnifica specie \[di piante\].
 
 # 3480
 
-Questa la creazione di Allah. Mostratemi allora quello che hanno creato gli altri [che adorate] all'infuori di Lui. No, gli ingiusti sono in errore palese.
+Questa la creazione di Allah. Mostratemi allora quello che hanno creato gli altri \[che adorate\] all'infuori di Lui. No, gli ingiusti sono in errore palese.
 
 # 3481
 
@@ -13934,7 +13934,7 @@ Certamente fummo Noi a dare la saggezza a Luqmân: “Sii riconoscente ad Allah:
 
 # 3482
 
-E [ricorda] quando Luqmân disse a suo figlio: “Figlio mio, non attribuire ad Allah associati. Attribuirgli associati è un'enorme ingiustizia”.
+E \[ricorda\] quando Luqmân disse a suo figlio: “Figlio mio, non attribuire ad Allah associati. Attribuirgli associati è un'enorme ingiustizia”.
 
 # 3483
 
@@ -13966,7 +13966,7 @@ Non vedete come Allah vi ha sottomesso quel che è nei cieli e sulla terra e ha 
 
 # 3490
 
-E quando si dice loro: “Seguite quello che Allah ha rivelato”, rispondono: “Seguiremo invece quello che abbiamo trovato presso i nostri avi!”. [Insisterebbero così] anche se Satana li chiamasse al castigo della Fiamma?
+E quando si dice loro: “Seguite quello che Allah ha rivelato”, rispondono: “Seguiremo invece quello che abbiamo trovato presso i nostri avi!”. \[Insisterebbero così\] anche se Satana li chiamasse al castigo della Fiamma?
 
 # 3491
 
@@ -13986,19 +13986,19 @@ Se domandi loro: “Chi ha creato i cieli e la terra?”, certamente risponderan
 
 # 3495
 
-[Appartiene] ad Allah tutto quello che è nei cieli e sulla terra. Allah basta a Se Stesso, è il Degno di lode.
+\[Appartiene\] ad Allah tutto quello che è nei cieli e sulla terra. Allah basta a Se Stesso, è il Degno di lode.
 
 # 3496
 
-Anche se tutti gli alberi della terra diventassero calami, e il mare e altri sette mari ancora [fossero inchiostro], non potrebbero esaurire le parole di Allah. In verità Allah è eccelso, saggio.
+Anche se tutti gli alberi della terra diventassero calami, e il mare e altri sette mari ancora \[fossero inchiostro\], non potrebbero esaurire le parole di Allah. In verità Allah è eccelso, saggio.
 
 # 3497
 
-La vostra creazione e resurrezione [per Allah] è [facile] come quella di una sola anima. Allah è l'Audiente, Colui Che tutto osserva.
+La vostra creazione e resurrezione \[per Allah\] è \[facile\] come quella di una sola anima. Allah è l'Audiente, Colui Che tutto osserva.
 
 # 3498
 
-Non hai visto come Allah ha fatto sì che la notte compenetri il giorno e il giorno compenetri la notte? E [come] ha sottomesso il sole e la luna, ciascuno dei quali procede [nel suo corso] fino a un termine stabilito?
+Non hai visto come Allah ha fatto sì che la notte compenetri il giorno e il giorno compenetri la notte? E \[come\] ha sottomesso il sole e la luna, ciascuno dei quali procede \[nel suo corso\] fino a un termine stabilito?
 
 # 3499
 
@@ -14010,7 +14010,7 @@ Non hai visto che è per grazia di Allah che la nave solca il mare, affinché vi
 
 # 3501
 
-Quando li copre un'onda come fosse tenebra, invocano Allah e Gli rendono un culto puro; quando poi [Allah] li mette al sicuro sulla terra ferma, alcuni di loro seguono una via intermedia. Solo il peggior traditore, il peggior ingrato rinnegherà i Nostri segni.
+Quando li copre un'onda come fosse tenebra, invocano Allah e Gli rendono un culto puro; quando poi \[Allah\] li mette al sicuro sulla terra ferma, alcuni di loro seguono una via intermedia. Solo il peggior traditore, il peggior ingrato rinnegherà i Nostri segni.
 
 # 3502
 
@@ -14026,11 +14026,11 @@ Alif, Lâm, Mîm.
 
 # 3505
 
-La rivelazione del Libro [proviene] senza alcun dubbio dal Signore dei mondi.
+La rivelazione del Libro \[proviene\] senza alcun dubbio dal Signore dei mondi.
 
 # 3506
 
-Diranno: “L'ha inventato?”. È invece una verità che [proviene] dal tuo Signore, affinché tu ammonisca un popolo a cui non giunse, prima di te, alcun ammonitore, affinché si lascino guidare.
+Diranno: “L'ha inventato?”. È invece una verità che \[proviene\] dal tuo Signore, affinché tu ammonisca un popolo a cui non giunse, prima di te, alcun ammonitore, affinché si lascino guidare.
 
 # 3507
 
@@ -14066,7 +14066,7 @@ Di': “L'angelo della morte che si occuperà di voi, vi farà morire e poi sare
 
 # 3515
 
-Se allora potessi vedere i malvagi, [dire col] capo chino davanti al loro Signore: “Nostro Signore, abbiamo visto e sentito, lasciaci tornare, sì che possiamo fare il bene; [ora] crediamo con certezza”.
+Se allora potessi vedere i malvagi, \[dire col\] capo chino davanti al loro Signore: “Nostro Signore, abbiamo visto e sentito, lasciaci tornare, sì che possiamo fare il bene; \[ora\] crediamo con certezza”.
 
 # 3516
 
@@ -14074,7 +14074,7 @@ Se allora potessi vedere i malvagi, [dire col] capo chino davanti al loro Signor
 
 # 3517
 
-Gustate allora [il castigo] per aver dimenticato l'incontro di questo Giorno. In verità [anche] Noi vi dimentichiamo. Gustate il castigo perpetuo per quello che avete fatto!”
+Gustate allora \[il castigo\] per aver dimenticato l'incontro di questo Giorno. In verità \[anche\] Noi vi dimentichiamo. Gustate il castigo perpetuo per quello che avete fatto!”
 
 # 3518
 
@@ -14102,7 +14102,7 @@ mentre coloro che saranno stati empi avranno per rifugio il fuoco. Ogni volta ch
 
 # 3524
 
-Daremo loro un castigo immediato prima del castigo più grande, affinché ritornino [sulla retta via].
+Daremo loro un castigo immediato prima del castigo più grande, affinché ritornino \[sulla retta via\].
 
 # 3525
 
@@ -14110,11 +14110,11 @@ Chi è peggior ingiusto di colui che si distoglie dai segni di Allah dopo che gl
 
 # 3526
 
-Già demmo il Libro a Mosè [dicendogli]: “Non dubitare circa il Suo incontro”. Ne facemmo una guida per i Figli di Israele.
+Già demmo il Libro a Mosè \[dicendogli\]: “Non dubitare circa il Suo incontro”. Ne facemmo una guida per i Figli di Israele.
 
 # 3527
 
-E [finché] furono perseveranti e credettero con fermezza nei Nostri segni, scegliemmo tra loro dei capi che li dirigessero secondo il Nostro comando.
+E \[finché\] furono perseveranti e credettero con fermezza nei Nostri segni, scegliemmo tra loro dei capi che li dirigessero secondo il Nostro comando.
 
 # 3528
 
@@ -14122,7 +14122,7 @@ In verità il tuo Signore nel Giorno della Resurrezione giudicherà tra loro, a 
 
 # 3529
 
-Non è servito loro da lezione che prima di loro abbiamo fatto perire tante generazioni, nelle cui case [in rovina] si aggirano? In verità in ciò vi sono segni. Non ascolteranno dunque?
+Non è servito loro da lezione che prima di loro abbiamo fatto perire tante generazioni, nelle cui case \[in rovina\] si aggirano? In verità in ciò vi sono segni. Non ascolteranno dunque?
 
 # 3530
 
@@ -14154,7 +14154,7 @@ Riponi fiducia in Allah: Allah è sufficiente patrono.
 
 # 3537
 
-Allah non ha posto due cuori nel petto di nessun uomo, né ha fatto vostre madri le spose che paragonate alla schiena delle vostre madri, e neppure ha fatto vostri figli i figli adottivi. Tutte queste non son altro che parole delle vostre bocche; invece Allah dice la verità, è Lui che guida sulla [retta] via.
+Allah non ha posto due cuori nel petto di nessun uomo, né ha fatto vostre madri le spose che paragonate alla schiena delle vostre madri, e neppure ha fatto vostri figli i figli adottivi. Tutte queste non son altro che parole delle vostre bocche; invece Allah dice la verità, è Lui che guida sulla \[retta\] via.
 
 # 3538
 
@@ -14162,11 +14162,11 @@ Date loro il nome dei loro padri: ciò è più giusto davanti ad Allah. Ma se no
 
 # 3539
 
-Il Profeta è più vicino ai credenti di loro stessi e le sue spose sono le loro madri. Secondo il Libro di Allah, [nella successione] i legami parentali hanno priorità su quelli tra i credenti e tra gli immigrati, a meno che non vogliate lasciare un legato a favore dei vostri fratelli nella religione. Questo è scritto nel Libro [di Allah].
+Il Profeta è più vicino ai credenti di loro stessi e le sue spose sono le loro madri. Secondo il Libro di Allah, \[nella successione\] i legami parentali hanno priorità su quelli tra i credenti e tra gli immigrati, a meno che non vogliate lasciare un legato a favore dei vostri fratelli nella religione. Questo è scritto nel Libro \[di Allah\].
 
 # 3540
 
-[Ricorda] quando accettammo il patto dei profeti: il tuo, quello di Noè, di Abramo, di Mosè e di Gesù figlio di Maria; concludemmo con loro un patto solenne,
+\[Ricorda\] quando accettammo il patto dei profeti: il tuo, quello di Noè, di Abramo, di Mosè e di Gesù figlio di Maria; concludemmo con loro un patto solenne,
 
 # 3541
 
@@ -14186,7 +14186,7 @@ Furono messi alla prova i credenti e turbati da un urto violento.
 
 # 3545
 
-E [ricorda] quando gli ipocriti e coloro che hanno una malattia nel cuore dicevano: “Allah e il Suo Messaggero ci hanno fatto promesse per ingannarci!”
+E \[ricorda\] quando gli ipocriti e coloro che hanno una malattia nel cuore dicevano: “Allah e il Suo Messaggero ci hanno fatto promesse per ingannarci!”
 
 # 3546
 
@@ -14194,7 +14194,7 @@ E un gruppo di loro disse: “Gente di Yatrib! Non potrete resistere, desistete�
 
 # 3547
 
-Se fosse stata fatta un'incursione dai limiti esterni [della città] e se fosse stato chiesto loro di abiurare, lo avrebbero fatto senza indugio
+Se fosse stata fatta un'incursione dai limiti esterni \[della città\] e se fosse stato chiesto loro di abiurare, lo avrebbero fatto senza indugio
 
 # 3548
 
@@ -14202,11 +14202,11 @@ anche se prima avevano stretto con Allah il patto di non voltare le spalle. Sara
 
 # 3549
 
-Di' [loro]: “La fuga non vi sarà utile. Se fuggite la morte o l'essere uccisi, non avrete altro che breve gioia”.
+Di' \[loro\]: “La fuga non vi sarà utile. Se fuggite la morte o l'essere uccisi, non avrete altro che breve gioia”.
 
 # 3550
 
-Di': “Chi mai vi porrà oltre la portata di Allah, se [Egli] vuole un male per voi o se per voi vuole una misericordia?”. Non troveranno, all'infuori di Allah, alcun patrono o soccorritore.
+Di': “Chi mai vi porrà oltre la portata di Allah, se \[Egli\] vuole un male per voi o se per voi vuole una misericordia?”. Non troveranno, all'infuori di Allah, alcun patrono o soccorritore.
 
 # 3551
 
@@ -14214,7 +14214,7 @@ Certamente Allah conosce quali di voi frappongono ostacoli e quali dicono ai lor
 
 # 3552
 
-sono avari verso di voi. Quando li prende il panico, li vedrai guardarti con gli occhi allucinati di chi è svenuto per paura della morte. [Poi], appena passata la paura, vi investono con toni esacerbati, avidi di bottino. Costoro non sono affatto credenti e Allah vanificherà le loro azioni. Ciò è facile per Allah.
+sono avari verso di voi. Quando li prende il panico, li vedrai guardarti con gli occhi allucinati di chi è svenuto per paura della morte. \[Poi\], appena passata la paura, vi investono con toni esacerbati, avidi di bottino. Costoro non sono affatto credenti e Allah vanificherà le loro azioni. Ciò è facile per Allah.
 
 # 3553
 
@@ -14254,7 +14254,7 @@ O Profeta, di' alle tue spose: “Se bramate il fasto di questa vita, venite: vi
 
 # 3562
 
-Se invece bramate Allah e il Suo Inviato e la Dimora Ultima, [sappiate] che Allah ha preparato una ricompensa enorme per quelle di voi che fanno il bene”.
+Se invece bramate Allah e il Suo Inviato e la Dimora Ultima, \[sappiate\] che Allah ha preparato una ricompensa enorme per quelle di voi che fanno il bene”.
 
 # 3563
 
@@ -14286,15 +14286,15 @@ Quando Allah e il Suo Inviato hanno decretato qualcosa, non è bene che il crede
 
 # 3570
 
-[Ricorda] quando dicevi a colui che Allah aveva gradito e che tu stesso avevi favorito: “Tieni per te la tua sposa e temi Allah”, mentre nel tuo cuore tenevi celato quel che Allah avrebbe reso pubblico. Temevi gli uomini, mentre Allah ha più diritto ad essere temuto. Quando poi Zayd non ebbe più relazione con lei, te l'abbiamo data in sposa, cosicché non ci fosse più, per i credenti, alcun impedimento verso le spose dei figli adottivi, quando essi non abbiano più alcuna relazione con loro. L'ordine di Allah deve essere eseguito.
+\[Ricorda\] quando dicevi a colui che Allah aveva gradito e che tu stesso avevi favorito: “Tieni per te la tua sposa e temi Allah”, mentre nel tuo cuore tenevi celato quel che Allah avrebbe reso pubblico. Temevi gli uomini, mentre Allah ha più diritto ad essere temuto. Quando poi Zayd non ebbe più relazione con lei, te l'abbiamo data in sposa, cosicché non ci fosse più, per i credenti, alcun impedimento verso le spose dei figli adottivi, quando essi non abbiano più alcuna relazione con loro. L'ordine di Allah deve essere eseguito.
 
 # 3571
 
-Pertanto nessuna colpa al Profeta per ciò che Allah gli ha imposto: questa è stata la norma di Allah [anche] per coloro che vissero in precedenza. L'ordine di Allah è decreto immutabile.
+Pertanto nessuna colpa al Profeta per ciò che Allah gli ha imposto: questa è stata la norma di Allah \[anche\] per coloro che vissero in precedenza. L'ordine di Allah è decreto immutabile.
 
 # 3572
 
-[Essi] trasmettevano i messaggi di Allah, Lo temevano e non temevano altri che Allah. Allah è il più esauriente dei contabili.
+\[Essi\] trasmettevano i messaggi di Allah, Lo temevano e non temevano altri che Allah. Allah è il più esauriente dei contabili.
 
 # 3573
 
@@ -14350,7 +14350,7 @@ D'ora in poi non ti è più permesso di prendere altre mogli e neppure di cambia
 
 # 3586
 
-O credenti, non entrate nelle case del Profeta, a meno che non siate invitati per un pasto, e dopo aver atteso che il pasto sia pronto. Quando poi siete invitati, entrate; e dopo aver mangiato andatevene senza cercare di rimanere a chiacchierare familiarmente. Ciò è offensivo per il Profeta, ma ha vergogna di [dirlo a] voi, mentre Allah non ha vergogna della verità. Quando chiedete ad esse un qualche oggetto, chiedetelo da dietro una cortina: ciò è più puro per i vostri cuori e per i loro. Non dovete mai offendere il Profeta e neppure sposare una delle sue mogli dopo di lui: sarebbe un'ignominia nei confronti di Allah.
+O credenti, non entrate nelle case del Profeta, a meno che non siate invitati per un pasto, e dopo aver atteso che il pasto sia pronto. Quando poi siete invitati, entrate; e dopo aver mangiato andatevene senza cercare di rimanere a chiacchierare familiarmente. Ciò è offensivo per il Profeta, ma ha vergogna di \[dirlo a\] voi, mentre Allah non ha vergogna della verità. Quando chiedete ad esse un qualche oggetto, chiedetelo da dietro una cortina: ciò è più puro per i vostri cuori e per i loro. Non dovete mai offendere il Profeta e neppure sposare una delle sue mogli dopo di lui: sarebbe un'ignominia nei confronti di Allah.
 
 # 3587
 
@@ -14358,7 +14358,7 @@ Sia che rendiate palese qualcosa o la nascondiate, in verità Allah conosce ogni
 
 # 3588
 
-Nessuna colpa [per le spose del Profeta, se si mostreranno] ai loro padri, ai loro figli, ai figli dei loro fratelli, ai figli delle loro sorelle, alle loro donne o alle loro schiave. E temano Allah, Allah è testimone di ogni cosa.
+Nessuna colpa \[per le spose del Profeta, se si mostreranno\] ai loro padri, ai loro figli, ai figli dei loro fratelli, ai figli delle loro sorelle, alle loro donne o alle loro schiave. E temano Allah, Allah è testimone di ogni cosa.
 
 # 3589
 
@@ -14366,7 +14366,7 @@ In verità Allah e i Suoi angeli benedicono il Profeta. O voi che credete, bened
 
 # 3590
 
-Coloro che offendono Allah e il Suo Messaggero sono maledetti da Allah in questa vita e nell'altra: [Allah] ha preparato per loro un castigo avvilente.
+Coloro che offendono Allah e il Suo Messaggero sono maledetti da Allah in questa vita e nell'altra: \[Allah\] ha preparato per loro un castigo avvilente.
 
 # 3591
 
@@ -14406,7 +14406,7 @@ Il Giorno in cui i loro volti saranno rivoltati nel Fuoco, diranno: “Ahi noi, 
 
 # 3600
 
-E diranno: “Nostro Signore, noi abbiamo obbedito ai nostri capi e ai nostri notabili. Sono loro che ci hanno sviato dalla [retta] via.
+E diranno: “Nostro Signore, noi abbiamo obbedito ai nostri capi e ai nostri notabili. Sono loro che ci hanno sviato dalla \[retta\] via.
 
 # 3601
 
@@ -14426,11 +14426,11 @@ sì che corregga il vostro comportamento e perdoni i vostri peccati. Chi obbedis
 
 # 3605
 
-In verità proponemmo ai cieli, alla terra e alle montagne la responsabilità [della fede] ma rifiutarono e ne ebbero paura, mentre l'uomo se ne fece carico. In verità egli è ingiusto e ignorante.
+In verità proponemmo ai cieli, alla terra e alle montagne la responsabilità \[della fede\] ma rifiutarono e ne ebbero paura, mentre l'uomo se ne fece carico. In verità egli è ingiusto e ignorante.
 
 # 3606
 
-[Ed è così affinché] Allah castighi gli ipocriti e le ipocrite, gli associatori e le associatrici e accolga Allah il pentimento dei credenti e delle credenti. Allah è perdonatore, misericordioso.
+\[Ed è così affinché\] Allah castighi gli ipocriti e le ipocrite, gli associatori e le associatrici e accolga Allah il pentimento dei credenti e delle credenti. Allah è perdonatore, misericordioso.
 
 # 3607
 
@@ -14442,11 +14442,11 @@ conosce quello che penetra nella terra e quel che ne esce, quel che scende dal c
 
 # 3609
 
-I miscredenti dicono: “Non ci raggiungerà l'Ora”. Di' [loro]: “No, per il mio Signore: certamente giungerà a voi, per Colui Che conosce l'invisibile”, Colui al quale non sfugge il peso di un atomo, nei cieli e sulla terra, e non c'è nulla di più grande o più piccolo che non sia in un Libro chiarissimo,
+I miscredenti dicono: “Non ci raggiungerà l'Ora”. Di' \[loro\]: “No, per il mio Signore: certamente giungerà a voi, per Colui Che conosce l'invisibile”, Colui al quale non sfugge il peso di un atomo, nei cieli e sulla terra, e non c'è nulla di più grande o più piccolo che non sia in un Libro chiarissimo,
 
 # 3610
 
-affinché [Allah] ricompensi coloro che credono e compiono il bene. Saranno perdonati e avranno un dono generoso.
+affinché \[Allah\] ricompensi coloro che credono e compiono il bene. Saranno perdonati e avranno un dono generoso.
 
 # 3611
 
@@ -14462,27 +14462,27 @@ Dicono i miscredenti: “Volete che vi mostriamo un uomo che vi predirà una nuo
 
 # 3614
 
-Ha inventato menzogne contro Allah? O forse è posseduto?”. No, coloro che non credono nell'altra vita [sono destinati] al castigo e ad errare lontano.
+Ha inventato menzogne contro Allah? O forse è posseduto?”. No, coloro che non credono nell'altra vita \[sono destinati\] al castigo e ad errare lontano.
 
 # 3615
 
-Non vedono forse quel che di cielo e di terra c'è davanti a loro e dietro di loro? Se volessimo, li faremmo inghiottire dalla terra o [faremmo] cadere su di loro brandelli di cielo! In verità in ciò vi è un segno per ogni servo [che torna a Lui] pentito.
+Non vedono forse quel che di cielo e di terra c'è davanti a loro e dietro di loro? Se volessimo, li faremmo inghiottire dalla terra o \[faremmo\] cadere su di loro brandelli di cielo! In verità in ciò vi è un segno per ogni servo \[che torna a Lui\] pentito.
 
 # 3616
 
-Già concedemmo a Davide una grazia [speciale]: “Glorificate, oh montagne! E anche voi uccelli insieme con lui!”. E gli rendemmo malleabile il ferro.
+Già concedemmo a Davide una grazia \[speciale\]: “Glorificate, oh montagne! E anche voi uccelli insieme con lui!”. E gli rendemmo malleabile il ferro.
 
 # 3617
 
-[dicendogli]: “Fabbrica cotte di maglia e stringi bene le maglie”. Agite bene: in verità Io osservo quello che fate.
+\[dicendogli\]: “Fabbrica cotte di maglia e stringi bene le maglie”. Agite bene: in verità Io osservo quello che fate.
 
 # 3618
 
-[Sottomettemmo] a Salomone il vento che percorre un mese [di marcia] il mattino e un mese la sera e facemmo scorrere la fonte di rame. Lavoravano i dèmoni sotto di lui, col permesso del suo Signore. Se uno qualunque di loro si fosse allontanato dal Nostro ordine, gli avremmo fatto provare il castigo della Fiamma.
+\[Sottomettemmo\] a Salomone il vento che percorre un mese \[di marcia\] il mattino e un mese la sera e facemmo scorrere la fonte di rame. Lavoravano i dèmoni sotto di lui, col permesso del suo Signore. Se uno qualunque di loro si fosse allontanato dal Nostro ordine, gli avremmo fatto provare il castigo della Fiamma.
 
 # 3619
 
-Costruivano per lui quel che voleva: templi e statue, vassoi [grandi] come abbeveratoi e caldaie ben stabili. “O famiglia di Davide, lavorate con gratitudine!” E invece sono ben pochi i Miei servi riconoscenti.
+Costruivano per lui quel che voleva: templi e statue, vassoi \[grandi\] come abbeveratoi e caldaie ben stabili. “O famiglia di Davide, lavorate con gratitudine!” E invece sono ben pochi i Miei servi riconoscenti.
 
 # 3620
 
@@ -14490,11 +14490,11 @@ Quando poi decidemmo che morisse, fu solo la “bestia della terra” che li avv
 
 # 3621
 
-C'era invero, per la gente di Sabâ', un segno nella loro terra: due giardini, uno a destra e uno a sinistra. “Mangiate quel che il vostro Signore vi ha concesso e siateGli riconoscenti: [avete] una buona terra e un Signore che perdona!”
+C'era invero, per la gente di Sabâ', un segno nella loro terra: due giardini, uno a destra e uno a sinistra. “Mangiate quel che il vostro Signore vi ha concesso e siateGli riconoscenti: \[avete\] una buona terra e un Signore che perdona!”
 
 # 3622
 
-Si allontanarono [da Noi] e allora inviammo contro di loro lo straripamento delle dighe e trasformammo i loro due giardini in due giardini di frutti amari, tamarischi e qualche loto.
+Si allontanarono \[da Noi\] e allora inviammo contro di loro lo straripamento delle dighe e trasformammo i loro due giardini in due giardini di frutti amari, tamarischi e qualche loto.
 
 # 3623
 
@@ -14502,7 +14502,7 @@ Così li ricompensammo per la loro miscredenza. Castighiamo in tal modo altri, c
 
 # 3624
 
-Situammo tra loro e le città che avevamo benedetto, altre città visibili [l'una dall'altra] e calcolammo la distanza tra loro. “Viaggiate di notte e di giorno, in sicurezza.”
+Situammo tra loro e le città che avevamo benedetto, altre città visibili \[l'una dall'altra\] e calcolammo la distanza tra loro. “Viaggiate di notte e di giorno, in sicurezza.”
 
 # 3625
 
@@ -14518,11 +14518,11 @@ Non aveva su di loro alcun potere, eccetto per il fatto che volevamo distinguere
 
 # 3628
 
-Di': “Invocate coloro che pretendete [essere divinità] all'infuori di Allah. Non sono padroni neppure del peso di un atomo nei cieli e sulla terra: in quelli e in questa non hanno parte alcuna [con Allah] e in loro Egli non ha nessun sostegno.
+Di': “Invocate coloro che pretendete \[essere divinità\] all'infuori di Allah. Non sono padroni neppure del peso di un atomo nei cieli e sulla terra: in quelli e in questa non hanno parte alcuna \[con Allah\] e in loro Egli non ha nessun sostegno.
 
 # 3629
 
-Nessuna intercessione varrà presso di Lui, eccetto per colui al quale [Egli] lo avrà permesso”. Quando poi il terrore avrà lasciato i loro cuori, verranno interrogati: “Cosa diceva il vostro Signore?”. Risponderanno: “La verità”. Egli è l'Altissimo, il Grande.
+Nessuna intercessione varrà presso di Lui, eccetto per colui al quale \[Egli\] lo avrà permesso”. Quando poi il terrore avrà lasciato i loro cuori, verranno interrogati: “Cosa diceva il vostro Signore?”. Risponderanno: “La verità”. Egli è l'Altissimo, il Grande.
 
 # 3630
 
@@ -14546,7 +14546,7 @@ Non ti abbiamo mandato se non come nunzio ed ammonitore per tutta l'umanità, ma
 
 # 3635
 
-E dicono: “Quando si realizzerà questa promessa? [Ditecelo], se siete veridici!”.
+E dicono: “Quando si realizzerà questa promessa? \[Ditecelo\], se siete veridici!”.
 
 # 3636
 
@@ -14558,11 +14558,11 @@ I miscredenti dicono: “Non crederemo mai in questo Corano e neppure a ciò che
 
 # 3638
 
-E quelli che erano tronfi d'orgoglio diranno a coloro che consideravano deboli: “Vi abbiamo forse impedito [di seguire] la retta via dopo che essa vi giunse? No, anche voi siete stati colpevoli”.
+E quelli che erano tronfi d'orgoglio diranno a coloro che consideravano deboli: “Vi abbiamo forse impedito \[di seguire\] la retta via dopo che essa vi giunse? No, anche voi siete stati colpevoli”.
 
 # 3639
 
-E coloro che erano considerati deboli diranno a quelli che erano tronfi d'orgoglio: “No, furono le vostre perfidie, di giorno e di notte, quando ci ordinavate di disconoscere Allah e attribuirGli consimili!”. Celeranno il loro rimorso quando vedranno il castigo, [perché] porremo i gioghi al collo dei miscredenti. Saranno compensati per altro che per le opere loro?
+E coloro che erano considerati deboli diranno a quelli che erano tronfi d'orgoglio: “No, furono le vostre perfidie, di giorno e di notte, quando ci ordinavate di disconoscere Allah e attribuirGli consimili!”. Celeranno il loro rimorso quando vedranno il castigo, \[perché\] porremo i gioghi al collo dei miscredenti. Saranno compensati per altro che per le opere loro?
 
 # 3640
 
@@ -14578,7 +14578,7 @@ Di': “In verità il mio Signore concede generosamente a chi vuole e lesina a c
 
 # 3643
 
-I vostri beni e i vostri figli non vi potranno avvicinare a Noi, eccetto per chi crede e compie il bene: essi sono coloro che avranno ricompensa raddoppiata per quel che facevano: saranno al sicuro negli alti livelli [del Paradiso].
+I vostri beni e i vostri figli non vi potranno avvicinare a Noi, eccetto per chi crede e compie il bene: essi sono coloro che avranno ricompensa raddoppiata per quel che facevano: saranno al sicuro negli alti livelli \[del Paradiso\].
 
 # 3644
 
@@ -14610,11 +14610,11 @@ In passato non demmo loro libri da studiare, né prima di te inviammo loro un am
 
 # 3651
 
-Coloro che li precedettero già tacciarono di menzogna [le rivelazioni], mentre essi non hanno raggiunto nemmeno un decimo di quello [splendore] che concedemmo a quegli altri. Trattarono da bugiardi i Miei messaggeri. Quale riprovazione fu la Mia!
+Coloro che li precedettero già tacciarono di menzogna \[le rivelazioni\], mentre essi non hanno raggiunto nemmeno un decimo di quello \[splendore\] che concedemmo a quegli altri. Trattarono da bugiardi i Miei messaggeri. Quale riprovazione fu la Mia!
 
 # 3652
 
-Di': “Ad una sola [cosa] vi esorto: state ritti per Allah, a coppie o singolarmente e riflettete: non c'è alcun demone nel vostro compagno, egli per voi non è altro che un ammonitore che precede un severo castigo”.
+Di': “Ad una sola \[cosa\] vi esorto: state ritti per Allah, a coppie o singolarmente e riflettete: non c'è alcun demone nel vostro compagno, egli per voi non è altro che un ammonitore che precede un severo castigo”.
 
 # 3653
 
@@ -14638,7 +14638,7 @@ Se li vedessi quando saranno atterriti, senza nessuna via d'uscita e afferrati d
 
 # 3658
 
-Allora diranno: “Crediamo in Lui”. Ma come raggiungeranno [la fede] da così lontano
+Allora diranno: “Crediamo in Lui”. Ma come raggiungeranno \[la fede\] da così lontano
 
 # 3659
 
@@ -14646,7 +14646,7 @@ quando in precedenza erano miscredenti e da lontano rifiutavano l'invisibile?
 
 # 3660
 
-Si porrà [un ostacolo] tra loro e quel che desiderano, come già avvenne per i loro emuli, che rimasero in preda al dubbio e all'incertezza.
+Si porrà \[un ostacolo\] tra loro e quel che desiderano, come già avvenne per i loro emuli, che rimasero in preda al dubbio e all'incertezza.
 
 # 3661
 
@@ -14658,15 +14658,15 @@ Nessuno può trattenere ciò che Allah concede agli uomini in misericordia e nes
 
 # 3663
 
-O uomini, ricordate il favore che Allah vi ha concesso. All'infuori di Lui c'è forse un creatore che vi nutra dal cielo e dalla terra? Non c'è altro dio all'infuori di Lui. Come potete allontanarvi [da Lui]?
+O uomini, ricordate il favore che Allah vi ha concesso. All'infuori di Lui c'è forse un creatore che vi nutra dal cielo e dalla terra? Non c'è altro dio all'infuori di Lui. Come potete allontanarvi \[da Lui\]?
 
 # 3664
 
-E se ti trattano da bugiardo, [sappi] che già trattarono da bugiardi i messaggeri che ti precedettero. Tutto quanto ritorna ad Allah.
+E se ti trattano da bugiardo, \[sappi\] che già trattarono da bugiardi i messaggeri che ti precedettero. Tutto quanto ritorna ad Allah.
 
 # 3665
 
-O uomini, la promessa di Allah è verità. [Badate] che non vi inganni la vita terrena e l'Ingannatore vi distolga da Allah.
+O uomini, la promessa di Allah è verità. \[Badate\] che non vi inganni la vita terrena e l'Ingannatore vi distolga da Allah.
 
 # 3666
 
@@ -14678,19 +14678,19 @@ I miscredenti avranno un duro castigo, mentre coloro che credono e compiono il b
 
 # 3668
 
-[Cosa ne sarà di] colui al quale è stata edulcorata la nefandezza della sua azione al punto che la considera buona? Ma Allah svia chi vuole e guida chi vuole. Quindi non ti affliggere per causa loro: Allah ben conosce quello che hanno operato.
+\[Cosa ne sarà di\] colui al quale è stata edulcorata la nefandezza della sua azione al punto che la considera buona? Ma Allah svia chi vuole e guida chi vuole. Quindi non ti affliggere per causa loro: Allah ben conosce quello che hanno operato.
 
 # 3669
 
-Allah è Colui Che manda i venti: essi sollevano nuvole che spingiamo verso una contrada morta; quindi ridiamo la vita alla terra dopo che era morta. Allo stesso modo [avverrà] la Resurrezione!
+Allah è Colui Che manda i venti: essi sollevano nuvole che spingiamo verso una contrada morta; quindi ridiamo la vita alla terra dopo che era morta. Allo stesso modo \[avverrà\] la Resurrezione!
 
 # 3670
 
-E chi desidera potenza... [sappia che] tutta la potenza [appartiene] ad Allah: ascende a Lui la buona parola ed Egli eleva alta l'azione devota. Coloro che invece tramano le azioni malvagie, avranno un castigo severo. La loro trama è destinata al fallimento.
+E chi desidera potenza... \[sappia che\] tutta la potenza \[appartiene\] ad Allah: ascende a Lui la buona parola ed Egli eleva alta l'azione devota. Coloro che invece tramano le azioni malvagie, avranno un castigo severo. La loro trama è destinata al fallimento.
 
 # 3671
 
-Allah vi ha creati dalla terra e poi da una goccia di sperma e quindi vi ha disposti a coppie. Non c'è femmina che sia gravida o partorisca a Sua insaputa. A nessuno sarà prolungata o abbreviata la vita senza che ciò non sia [scritto] in un Libro. In verità ciò è facile per Allah.
+Allah vi ha creati dalla terra e poi da una goccia di sperma e quindi vi ha disposti a coppie. Non c'è femmina che sia gravida o partorisca a Sua insaputa. A nessuno sarà prolungata o abbreviata la vita senza che ciò non sia \[scritto\] in un Libro. In verità ciò è facile per Allah.
 
 # 3672
 
@@ -14750,7 +14750,7 @@ E se ti trattano da bugiardo, già coloro che li precedettero tacciarono di menz
 
 # 3686
 
-poi afferrai i miscredenti e quanto [grande] fu la Mia riprovazione.
+poi afferrai i miscredenti e quanto \[grande\] fu la Mia riprovazione.
 
 # 3687
 
@@ -14794,7 +14794,7 @@ Coloro che invece non credono, avranno il fuoco dell'Inferno: giammai sarà deci
 
 # 3697
 
-E colà grideranno: “Signore, facci uscire, affinché possiamo compiere il bene, invece di quel che già abbiamo fatto!”. [Verrà loro risposto]: “Non vi abbiamo dato una vita abbastanza lunga, tale che potesse ricordarsi chi avesse voluto ricordare? Eppure vi era giunto l'ammonitore! Gustate dunque il castigo, ché per gli ingiusti non ci sarà soccorritore”.
+E colà grideranno: “Signore, facci uscire, affinché possiamo compiere il bene, invece di quel che già abbiamo fatto!”. \[Verrà loro risposto\]: “Non vi abbiamo dato una vita abbastanza lunga, tale che potesse ricordarsi chi avesse voluto ricordare? Eppure vi era giunto l'ammonitore! Gustate dunque il castigo, ché per gli ingiusti non ci sarà soccorritore”.
 
 # 3698
 
@@ -14806,7 +14806,7 @@ Egli è Colui Che vi ha fatti eredi della terra. Quanto a chi sarà miscredente,
 
 # 3700
 
-Di': “Cosa ne pensate dei vostri associati che invocate all'infuori di Allah? Mostratemi quel che della terra hanno creato. Oppure è nella creazione dei cieli che sono associati [ad Allah]? O forse demmo loro un Libro affinché [si appoggino] ad una prova?”. No, quel che gli ingiusti si promettono a vicenda non è che frode.
+Di': “Cosa ne pensate dei vostri associati che invocate all'infuori di Allah? Mostratemi quel che della terra hanno creato. Oppure è nella creazione dei cieli che sono associati \[ad Allah\]? O forse demmo loro un Libro affinché \[si appoggino\] ad una prova?”. No, quel che gli ingiusti si promettono a vicenda non è che frode.
 
 # 3701
 
@@ -14814,19 +14814,19 @@ Allah trattiene i cieli e la terra affinché non sprofondino, ché, se sprofonda
 
 # 3702
 
-Giurano [in nome] di Allah, con solenni giuramenti, che se giungesse loro un ammonitore, agirebbero più rettamente di qualsiasi altra comunità. Poi, quando giunge loro un ammonitore, ciò non fa che accrescere la loro avversione,
+Giurano \[in nome\] di Allah, con solenni giuramenti, che se giungesse loro un ammonitore, agirebbero più rettamente di qualsiasi altra comunità. Poi, quando giunge loro un ammonitore, ciò non fa che accrescere la loro avversione,
 
 # 3703
 
-la loro superbia sulla terra e le loro trame malvagie. Ma la trama malvagia non fa che avvolgere i suoi artefici. Si aspettano un'altra consuetudine [diversa] da quella che fu adottata per i loro avi? Non troverai mai un cambiamento nella consuetudine di Allah, non troverai deviazione alcuna nella consuetudine di Allah.
+la loro superbia sulla terra e le loro trame malvagie. Ma la trama malvagia non fa che avvolgere i suoi artefici. Si aspettano un'altra consuetudine \[diversa\] da quella che fu adottata per i loro avi? Non troverai mai un cambiamento nella consuetudine di Allah, non troverai deviazione alcuna nella consuetudine di Allah.
 
 # 3704
 
-Non hanno viaggiato sulla terra? Non hanno visto ciò che è avvenuto a coloro che li precedettero, che [pure] erano più forti di loro? Nulla, nei cieli e sulla terra, potrebbe annullare [la potenza di] Allah. In verità Egli è sapiente, potente.
+Non hanno viaggiato sulla terra? Non hanno visto ciò che è avvenuto a coloro che li precedettero, che \[pure\] erano più forti di loro? Nulla, nei cieli e sulla terra, potrebbe annullare \[la potenza di\] Allah. In verità Egli è sapiente, potente.
 
 # 3705
 
-Se Allah punisse gli uomini per ciò che si meritano, non lascerebbe alcun essere vivente sulla terra. Ma Egli li rinvia fino ad un termine stabilito. Poi, quando giungerà il termine loro... [sapranno che] Allah osserva attentamente i Suoi servi.
+Se Allah punisse gli uomini per ciò che si meritano, non lascerebbe alcun essere vivente sulla terra. Ma Egli li rinvia fino ad un termine stabilito. Poi, quando giungerà il termine loro... \[sapranno che\] Allah osserva attentamente i Suoi servi.
 
 # 3706
 
@@ -14902,7 +14902,7 @@ Dissero: “Siete di malaugurio. Se non desistete vi lapideremo, e vi faremo sub
 
 # 3724
 
-Risposero: “Il malaugurio è su di voi. [È così che vi comportate] quando siete esortati? Siete gente perversa”.
+Risposero: “Il malaugurio è su di voi. \[È così che vi comportate\] quando siete esortati? Siete gente perversa”.
 
 # 3725
 
@@ -14946,11 +14946,11 @@ Non ci fu altro che il Grido, uno solo e furono spenti.
 
 # 3735
 
-Oh, miseria sui servi [di Allah]! Non giunge loro un messaggero che essi non lo scherniscano.
+Oh, miseria sui servi \[di Allah\]! Non giunge loro un messaggero che essi non lo scherniscano.
 
 # 3736
 
-Non hanno visto quante generazioni abbiamo fatto perire prima di loro? Esse non torneranno mai più [sulla terra].
+Non hanno visto quante generazioni abbiamo fatto perire prima di loro? Esse non torneranno mai più \[sulla terra\].
 
 # 3737
 
@@ -15018,7 +15018,7 @@ E quando si dice loro: “Siate generosi di ciò che Allah vi ha concesso”, i 
 
 # 3753
 
-E dicono: “Quando [si realizzerà] questa promessa se siete veridici?”.
+E dicono: “Quando \[si realizzerà\] questa promessa se siete veridici?”.
 
 # 3754
 
@@ -15058,11 +15058,11 @@ Colà avranno frutta e tutto ciò che desidereranno.
 
 # 3763
 
-E “Pace” sarà il saluto [rivolto loro] da un Signore misericordioso.
+E “Pace” sarà il saluto \[rivolto loro\] da un Signore misericordioso.
 
 # 3764
 
-E [sarà detto]: “Tenetevi in disparte in quel Giorno, o iniqui!
+E \[sarà detto\]: “Tenetevi in disparte in quel Giorno, o iniqui!
 
 # 3765
 
@@ -15102,7 +15102,7 @@ Noi incurviamo la statura di tutti coloro ai quali concediamo una lunga vita. No
 
 # 3774
 
-Non gli abbiamo insegnato la poesia, non è cosa che gli si addice; questa [rivelazione] non è che un Monito e un Corano chiarissimo,
+Non gli abbiamo insegnato la poesia, non è cosa che gli si addice; questa \[rivelazione\] non è che un Monito e un Corano chiarissimo,
 
 # 3775
 
@@ -15138,7 +15138,7 @@ Non vede l'uomo che lo abbiamo creato da una goccia di sperma? Ed eccolo in spud
 
 # 3783
 
-Ci propone un luogo comune e, dimentico della sua creazione, [dice]: “Chi ridarà la vita ad ossa polverizzate?”.
+Ci propone un luogo comune e, dimentico della sua creazione, \[dice\]: “Chi ridarà la vita ad ossa polverizzate?”.
 
 # 3784
 
@@ -15210,7 +15210,7 @@ Tu stupisci e loro scherniscono!
 
 # 3801
 
-Quando viene loro ricordato [il Monito], non vi badano affatto;
+Quando viene loro ricordato \[il Monito\], non vi badano affatto;
 
 # 3802
 
@@ -15222,11 +15222,11 @@ e dicono: “Questa è evidente magia.
 
 # 3804
 
-Quando saremo morti, [ridotti] a polvere e ossa, saremo resuscitati?
+Quando saremo morti, \[ridotti\] a polvere e ossa, saremo resuscitati?
 
 # 3805
 
-E così [pure] i nostri avi?”.
+E così \[pure\] i nostri avi?”.
 
 # 3806
 
@@ -15282,7 +15282,7 @@ non avevamo alcuna autorità su di voi! Eravate gente ribelle:
 
 # 3819
 
-[perciò] la promessa di Allah si è realizzata contro di noi e ne avremo esperienza.
+\[perciò\] la promessa di Allah si è realizzata contro di noi e ne avremo esperienza.
 
 # 3820
 
@@ -15306,7 +15306,7 @@ e dicevano: “Dovremmo abbandonare i nostri dèi per un poeta posseduto?”.
 
 # 3825
 
-Sì, è venuto con la verità, e ha confermato gli inviati [che lo hanno preceduto].
+Sì, è venuto con la verità, e ha confermato gli inviati \[che lo hanno preceduto\].
 
 # 3826
 
@@ -15338,7 +15338,7 @@ su giacigli rivolti gli uni verso gli altri.
 
 # 3833
 
-Girerà tra loro una coppa di [bevanda] sorgiva,
+Girerà tra loro una coppa di \[bevanda\] sorgiva,
 
 # 3834
 
@@ -15366,11 +15366,11 @@ Uno di loro dirà: “Avevo un compagno
 
 # 3840
 
-che [mi] diceva: "Sei uno di quelli che credono?
+che \[mi\] diceva: "Sei uno di quelli che credono?
 
 # 3841
 
-Quando saremo morti, [ridotti a] polvere ed ossa, dovremo rendere conto?"”.
+Quando saremo morti, \[ridotti a\] polvere ed ossa, dovremo rendere conto?"”.
 
 # 3842
 
@@ -15406,7 +15406,7 @@ A tal fine agiscano coloro che agiscono.
 
 # 3850
 
-Questa è miglior accoglienza, oppure [i frutti del]l'albero di Zaqqûm?
+Questa è miglior accoglienza, oppure \[i frutti del\]l'albero di Zaqqûm?
 
 # 3851
 
@@ -15470,7 +15470,7 @@ e facemmo della sua progenie, i superstiti.
 
 # 3866
 
-Lasciammo [il ricordo] di lui ai posteri.
+Lasciammo \[il ricordo\] di lui ai posteri.
 
 # 3867
 
@@ -15558,7 +15558,7 @@ Disse: “In verità vado verso il mio Signore, Egli mi guiderà.
 
 # 3888
 
-Signore, donami un [figlio] devoto”.
+Signore, donami un \[figlio\] devoto”.
 
 # 3889
 
@@ -15566,7 +15566,7 @@ Gli demmo la lieta novella di un figlio magnanimo.
 
 # 3890
 
-Poi, quando raggiunse l'età per accompagnare [suo padre questi] gli disse: “Figlio mio, mi sono visto in sogno, in procinto di immolarti. Dimmi cosa ne pensi”. Rispose: “Padre mio, fai quel che ti è stato ordinato: se Allah vuole, sarò rassegnato”.
+Poi, quando raggiunse l'età per accompagnare \[suo padre questi\] gli disse: “Figlio mio, mi sono visto in sogno, in procinto di immolarti. Dimmi cosa ne pensi”. Rispose: “Padre mio, fai quel che ti è stato ordinato: se Allah vuole, sarò rassegnato”.
 
 # 3891
 
@@ -15610,7 +15610,7 @@ E gli demmo la lieta novella di Isacco, profeta tra i buoni.
 
 # 3901
 
-Elargimmo su di lui e su Isacco [la pienezza della benedizione]. Tra i loro discendenti c'è il virtuoso e colui che è palesemente ingiusto nei suoi stessi confronti.
+Elargimmo su di lui e su Isacco \[la pienezza della benedizione\]. Tra i loro discendenti c'è il virtuoso e colui che è palesemente ingiusto nei suoi stessi confronti.
 
 # 3902
 
@@ -15654,7 +15654,7 @@ In verità Elia era uno degli Inviati.
 
 # 3912
 
-Disse al suo popolo: “Non sarete timorati [di Allah]?”.
+Disse al suo popolo: “Non sarete timorati \[di Allah\]?”.
 
 # 3913
 
@@ -15666,7 +15666,7 @@ Allah, il vostro Signore e il Signore dei vostri avi più antichi?
 
 # 3915
 
-Lo trattarono da bugiardo. Infine saranno condotti [al castigo],
+Lo trattarono da bugiardo. Infine saranno condotti \[al castigo\],
 
 # 3916
 
@@ -15698,7 +15698,7 @@ lo salvammo insieme con tutta la sua famiglia,
 
 # 3923
 
-eccetto una vecchia [che fu] tra coloro che restarono indietro,
+eccetto una vecchia \[che fu\] tra coloro che restarono indietro,
 
 # 3924
 
@@ -15722,7 +15722,7 @@ Fuggì sulla nave stipata.
 
 # 3929
 
-Quando tirarono a sorte, fu colui che doveva essere gettato [in mare].
+Quando tirarono a sorte, fu colui che doveva essere gettato \[in mare\].
 
 # 3930
 
@@ -15746,7 +15746,7 @@ e facemmo crescere su di lui una pianta di zucca.
 
 # 3935
 
-Lo inviammo a centomila [uomini], o ancor di più.
+Lo inviammo a centomila \[uomini\], o ancor di più.
 
 # 3936
 
@@ -15806,7 +15806,7 @@ In verità né voi, né ciò che adorate,
 
 # 3950
 
-potreste tentare [nessuno],
+potreste tentare \[nessuno\],
 
 # 3951
 
@@ -15830,7 +15830,7 @@ Anche se dicevano:
 
 # 3956
 
-“Se avessimo avuto un monito [tramandatoci] dagli antichi,
+“Se avessimo avuto un monito \[tramandatoci\] dagli antichi,
 
 # 3957
 
@@ -15890,7 +15890,7 @@ e lode ad Allah, Signore dei mondi.
 
 # 3971
 
-Sâd. Per il Corano [che contiene] il Monito.
+Sâd. Per il Corano \[che contiene\] il Monito.
 
 # 3972
 
@@ -15898,7 +15898,7 @@ Sono i miscredenti ad essere nell'orgoglio e nello scisma!
 
 # 3973
 
-Quante generazioni abbiamo annientato prima di loro! Lanciarono grida [d'aiuto] quando non c'era più tempo per sfuggire [al castigo].
+Quante generazioni abbiamo annientato prima di loro! Lanciarono grida \[d'aiuto\] quando non c'era più tempo per sfuggire \[al castigo\].
 
 # 3974
 
@@ -15910,15 +15910,15 @@ Ridurrà forse gli dèi ad un Dio unico? Questa è davvero una cosa strana”.
 
 # 3976
 
-E i notabili se ne andarono [dicendo]: “Andatevene e rimanete fedeli ai vostri dèi: questa è davvero la cosa più augurabile.
+E i notabili se ne andarono \[dicendo\]: “Andatevene e rimanete fedeli ai vostri dèi: questa è davvero la cosa più augurabile.
 
 # 3977
 
-Non sentimmo niente di ciò nell'ultima religione, si tratta di [pura] invenzione.
+Non sentimmo niente di ciò nell'ultima religione, si tratta di \[pura\] invenzione.
 
 # 3978
 
-È [solo] su di lui che sarebbe stato fatto scendere il Monito?”. Sono perplessi a proposito del Mio Monito. Non hanno ancora gustato il [Mio] castigo!
+È \[solo\] su di lui che sarebbe stato fatto scendere il Monito?”. Sono perplessi a proposito del Mio Monito. Non hanno ancora gustato il \[Mio\] castigo!
 
 # 3979
 
@@ -15934,7 +15934,7 @@ Un'armata di fazioni alleate che saranno annientate in questo stesso luogo.
 
 # 3982
 
-Prima di loro accusarono di menzogna [gli Inviati] il popolo di Noè, gli Âd e Faraone, il Signore dei pali,
+Prima di loro accusarono di menzogna \[gli Inviati\] il popolo di Noè, gli Âd e Faraone, il Signore dei pali,
 
 # 3983
 
@@ -15962,7 +15962,7 @@ Obbligammo le montagne a renderCi gloria con lui, alla sera e al mattino;
 
 # 3989
 
-e, insieme, gli uccelli riuniti [attorno a lui]. Tutto Gli obbedisce.
+e, insieme, gli uccelli riuniti \[attorno a lui\]. Tutto Gli obbedisce.
 
 # 3990
 
@@ -15982,7 +15982,7 @@ Questi è mio fratello, possiede novantanove pecore, mentre io non ne possiedo c
 
 # 3994
 
-Disse: “Certamente ha mancato nei tuoi confronti, chiedendoti la tua pecora in aggiunta alle sue. In verità molti associati [in un affare] si fanno torto a vicenda, eccetto coloro che credono e compiono il bene, ma essi sono ben pochi!”. Davide capì che lo avevamo messo alla prova, implorò il perdono del suo Signore, cadde in prosternazione e si pentì.
+Disse: “Certamente ha mancato nei tuoi confronti, chiedendoti la tua pecora in aggiunta alle sue. In verità molti associati \[in un affare\] si fanno torto a vicenda, eccetto coloro che credono e compiono il bene, ma essi sono ben pochi!”. Davide capì che lo avevamo messo alla prova, implorò il perdono del suo Signore, cadde in prosternazione e si pentì.
 
 # 3995
 
@@ -15994,7 +15994,7 @@ Allora lo perdonammo. Egli ha un posto vicino a Noi e buon luogo di ritorno.
 
 # 3997
 
-Non creammo invano il cielo e la terra e quello che vi è frammezzo. Questo è ciò che pensano i miscredenti. Guai ai miscredenti per il fuoco [che li attende]!
+Non creammo invano il cielo e la terra e quello che vi è frammezzo. Questo è ciò che pensano i miscredenti. Guai ai miscredenti per il fuoco \[che li attende\]!
 
 # 3998
 
@@ -16002,11 +16002,11 @@ Tratteremo forse coloro che credono e fanno il bene alla stessa stregua di color
 
 # 3999
 
-[Ecco] un Libro benedetto che abbiamo fatto scendere su di te, affinché gli uomini meditino sui suoi versetti e ne traggano un monito i savi.
+\[Ecco\] un Libro benedetto che abbiamo fatto scendere su di te, affinché gli uomini meditino sui suoi versetti e ne traggano un monito i savi.
 
 # 4000
 
-Abbiamo dato a Davide, Salomone, un servo eccellente [di Allah], pronto al pentimento.
+Abbiamo dato a Davide, Salomone, un servo eccellente \[di Allah\], pronto al pentimento.
 
 # 4001
 
@@ -16014,7 +16014,7 @@ Una sera, dopo che gli furono esibiti alcuni magnifici cavalli, ritti su tre zam
 
 # 4002
 
-disse: “In verità ho amato i beni [terreni] più che il Ricordo del mio Signore, finché non sparì [il sole] dietro il velo [della notte].
+disse: “In verità ho amato i beni \[terreni\] più che il Ricordo del mio Signore, finché non sparì \[il sole\] dietro il velo \[della notte\].
 
 # 4003
 
@@ -16030,11 +16030,11 @@ e disse: “Signore, perdonami e concedimi una sovranità che nessun altro avrà
 
 # 4006
 
-Gli assoggettammo il vento, soffiava al suo comando [fin] dove voleva inviarlo,
+Gli assoggettammo il vento, soffiava al suo comando \[fin\] dove voleva inviarlo,
 
 # 4007
 
-e [gli asservimmo] tutti i dèmoni, costruttori e nuotatori di ogni specie.
+e \[gli asservimmo\] tutti i dèmoni, costruttori e nuotatori di ogni specie.
 
 # 4008
 
@@ -16042,7 +16042,7 @@ E altri ancora incatenati a coppie.
 
 # 4009
 
-“Questo è il Nostro dono, dispensa o tesaurizza, senza [doverne] rendere conto.”
+“Questo è il Nostro dono, dispensa o tesaurizza, senza \[doverne\] rendere conto.”
 
 # 4010
 
@@ -16058,11 +16058,11 @@ E ricorda il Nostro servo Giobbe, quando chiamò il suo Signore: “Satana mi ha
 
 # 4013
 
-Gli restituimmo la sua famiglia e con essa un'altra simile, [segno di] misericordia da parte Nostra e Monito per coloro che sono dotati di intelletto.
+Gli restituimmo la sua famiglia e con essa un'altra simile, \[segno di\] misericordia da parte Nostra e Monito per coloro che sono dotati di intelletto.
 
 # 4014
 
-[Gli ordinammo:] “Stringi nella tua mano una manciata d'erba, colpisci con quella e non mancare al tuo giuramento”. Lo trovammo perseverante, un servo ottimo, pronto al pentimento.
+\[Gli ordinammo:\] “Stringi nella tua mano una manciata d'erba, colpisci con quella e non mancare al tuo giuramento”. Lo trovammo perseverante, un servo ottimo, pronto al pentimento.
 
 # 4015
 
@@ -16070,7 +16070,7 @@ E ricorda i Nostri servi Abramo, Isacco e Giacobbe, forti e lungimiranti.
 
 # 4016
 
-Ne facemmo degli eletti, [affinché fossero] il monito della Dimora [ultima].
+Ne facemmo degli eletti, \[affinché fossero\] il monito della Dimora \[ultima\].
 
 # 4017
 
@@ -16134,7 +16134,7 @@ Diranno: “Signore, raddoppia il castigo nel Fuoco a chiunque ce lo abbia prepa
 
 # 4032
 
-Diranno: “Perché mai non vediamo [tra noi] quegli uomini che consideravamo miserabili,
+Diranno: “Perché mai non vediamo \[tra noi\] quegli uomini che consideravamo miserabili,
 
 # 4033
 
@@ -16170,7 +16170,7 @@ mi è stato solo rivelato che non sono che un ammonitore esplicito”.
 
 # 4041
 
-[Ricorda] quando il tuo Signore disse agli angeli: “Creerò un essere umano con l'argilla.
+\[Ricorda\] quando il tuo Signore disse agli angeli: “Creerò un essere umano con l'argilla.
 
 # 4042
 
@@ -16186,7 +16186,7 @@ eccetto Iblis, che si inorgoglì e divenne uno dei miscredenti.
 
 # 4045
 
-[Allah] disse: “O Iblis, cosa ti impedisce di prosternarti davanti a ciò che ho creato con le Mie mani? Ti gonfi d'orgoglio? Ti ritieni forse uno dei più elevati?”.
+\[Allah\] disse: “O Iblis, cosa ti impedisce di prosternarti davanti a ciò che ho creato con le Mie mani? Ti gonfi d'orgoglio? Ti ritieni forse uno dei più elevati?”.
 
 # 4046
 
@@ -16194,7 +16194,7 @@ Rispose: “Sono migliore di lui: mi hai creato dal fuoco, mentre creasti lui da
 
 # 4047
 
-[Allah] disse: “Esci di qui, in verità sei maledetto;
+\[Allah\] disse: “Esci di qui, in verità sei maledetto;
 
 # 4048
 
@@ -16206,7 +16206,7 @@ Disse: “Signore, concedimi una dilazione fino al Giorno in cui saranno resusci
 
 # 4050
 
-Rispose [Allah]: “Tu sei fra coloro cui è concessa dilazione
+Rispose \[Allah\]: “Tu sei fra coloro cui è concessa dilazione
 
 # 4051
 
@@ -16222,7 +16222,7 @@ eccetto quelli, fra loro, che sono Tuoi servi protetti”.
 
 # 4054
 
-[Allah] disse: “[Questa è] la Verità, Io dico in Verità,
+\[Allah\] disse: “\[Questa è\] la Verità, Io dico in Verità,
 
 # 4055
 
@@ -16242,7 +16242,7 @@ E tra qualche tempo ne avrete certamente notizia”.
 
 # 4059
 
-La rivelazione del Libro [proviene] da Allah, l'Eccelso, il Saggio.
+La rivelazione del Libro \[proviene\] da Allah, l'Eccelso, il Saggio.
 
 # 4060
 
@@ -16250,7 +16250,7 @@ In verità ti abbiamo rivelato il Libro con la Verità; adora dunque Allah e ren
 
 # 4061
 
-Non appartiene forse ad Allah il culto sincero? Coloro che si prendono padroni all'infuori di Lui [si giustificano dicendo]: “Li adoriamo solo perché ci avvicinano ad Allah”. Giudicherà tra loro Allah, in merito alle loro divergenze. Allah non guida chi è bugiardo, ingrato.
+Non appartiene forse ad Allah il culto sincero? Coloro che si prendono padroni all'infuori di Lui \[si giustificano dicendo\]: “Li adoriamo solo perché ci avvicinano ad Allah”. Giudicherà tra loro Allah, in merito alle loro divergenze. Allah non guida chi è bugiardo, ingrato.
 
 # 4062
 
@@ -16258,19 +16258,19 @@ Se Allah avesse voluto darSi un figlio, avrebbe scelto chi voleva tra ciò che h
 
 # 4063
 
-Ha creato i cieli e la terra in tutta verità. Arrotola la notte sul giorno e il giorno sulla notte, e il sole e la luna ha costretto [a orbitare] fino ad un termine stabilito. Non è forse Lui l'Eccelso, il Perdonatore?
+Ha creato i cieli e la terra in tutta verità. Arrotola la notte sul giorno e il giorno sulla notte, e il sole e la luna ha costretto \[a orbitare\] fino ad un termine stabilito. Non è forse Lui l'Eccelso, il Perdonatore?
 
 # 4064
 
-Vi ha creati da un solo essere, da cui ha tratto la sua sposa. Del bestiame vi diede otto coppie, Vi crea nel ventre delle vostre madri, creazione dopo creazione, in tre tenebre [successive]. Questi è Allah, il vostro Signore!
+Vi ha creati da un solo essere, da cui ha tratto la sua sposa. Del bestiame vi diede otto coppie, Vi crea nel ventre delle vostre madri, creazione dopo creazione, in tre tenebre \[successive\]. Questi è Allah, il vostro Signore!
 
 # 4065
 
-Se siete miscredenti, [sappiate che] Allah è Colui Che basta a Se Stesso, ma non accetta la miscredenza dei Suoi servi. Se invece siete credenti Se ne compiace. Nessuno porterà il peso di un altro. Ritornerete poi al vostro Signore ed Egli vi informerà in merito a ciò che avrete fatto, poiché Egli conosce quello che c'è nei petti.
+Se siete miscredenti, \[sappiate che\] Allah è Colui Che basta a Se Stesso, ma non accetta la miscredenza dei Suoi servi. Se invece siete credenti Se ne compiace. Nessuno porterà il peso di un altro. Ritornerete poi al vostro Signore ed Egli vi informerà in merito a ciò che avrete fatto, poiché Egli conosce quello che c'è nei petti.
 
 # 4066
 
-Quando una sventura lo coglie, l'uomo invoca il suo Signore e si volge a Lui pentito. Poi, quando Allah gli concede una grazia, dimentica la ragione per cui si raccomandava e attribuisce ad Allah consimili per allontanare gli altri dalla Sua via. Di' [a codesto uomo]: “Goditi la tua miscredenza! In verità sei tra i compagni del Fuoco”.
+Quando una sventura lo coglie, l'uomo invoca il suo Signore e si volge a Lui pentito. Poi, quando Allah gli concede una grazia, dimentica la ragione per cui si raccomandava e attribuisce ad Allah consimili per allontanare gli altri dalla Sua via. Di' \[a codesto uomo\]: “Goditi la tua miscredenza! In verità sei tra i compagni del Fuoco”.
 
 # 4067
 
@@ -16278,7 +16278,7 @@ Ma come? Chi passa in devozione le ore della notte, prosternato e ritto, timorat
 
 # 4068
 
-Di': “O Miei servi che credete, temete il vostro Signore!”. Coloro che in questa vita fanno il bene, [avranno] un bene. Vasta è la terra di Allah. Coloro che sono perseveranti riceveranno la loro incalcolabile ricompensa.
+Di': “O Miei servi che credete, temete il vostro Signore!”. Coloro che in questa vita fanno il bene, \[avranno\] un bene. Vasta è la terra di Allah. Coloro che sono perseveranti riceveranno la loro incalcolabile ricompensa.
 
 # 4069
 
@@ -16298,7 +16298,7 @@ Di': “È Allah che adoro e Gli rendo un culto puro.
 
 # 4073
 
-Adorate [pure] ciò che volete all'infuori di Lui!”. Di': “Coloro che nel Giorno della Resurrezione [constateranno] la rovina delle loro persone e delle loro famiglie, saranno i [veri] perdenti”. Non è forse questa la perdita palese?
+Adorate \[pure\] ciò che volete all'infuori di Lui!”. Di': “Coloro che nel Giorno della Resurrezione \[constateranno\] la rovina delle loro persone e delle loro famiglie, saranno i \[veri\] perdenti”. Non è forse questa la perdita palese?
 
 # 4074
 
@@ -16306,11 +16306,11 @@ Avranno sopra di loro nuvole di fuoco, e nuvole di fuoco sotto di loro. Ecco la 
 
 # 4075
 
-[Annuncia] la lieta novella a coloro che si separano dagli idoli per non adorarli e si inchinano ad Allah. Annuncia la lieta novella ai Miei servi,
+\[Annuncia\] la lieta novella a coloro che si separano dagli idoli per non adorarli e si inchinano ad Allah. Annuncia la lieta novella ai Miei servi,
 
 # 4076
 
-che ascoltano [attenti] la Parola e obbediscono a quanto di meglio essa contiene. Essi sono coloro che Allah ha guidato, sono i dotati di intelletto.
+che ascoltano \[attenti\] la Parola e obbediscono a quanto di meglio essa contiene. Essi sono coloro che Allah ha guidato, sono i dotati di intelletto.
 
 # 4077
 
@@ -16318,7 +16318,7 @@ Ma come? Quello il cui castigo è già deciso... Potrai salvarlo dal Fuoco?
 
 # 4078
 
-Coloro che temono il loro Signore [abiteranno agli alti] piani, al di sopra dei quali sono stati costruiti altri piani e sotto di loro scorreranno i ruscelli. Promessa di Allah! Allah non manca alla Sua promessa.
+Coloro che temono il loro Signore \[abiteranno agli alti\] piani, al di sopra dei quali sono stati costruiti altri piani e sotto di loro scorreranno i ruscelli. Promessa di Allah! Allah non manca alla Sua promessa.
 
 # 4079
 
@@ -16330,7 +16330,7 @@ Colui cui Allah apre il cuore all'Islàm e che possiede una luce che proviene da
 
 # 4081
 
-Allah ha fatto scendere il più bello dei racconti, un Libro coerente e reiterante, [alla lettura del quale] rabbrividisce la pelle di coloro che temono il loro Signore e poi si distende la pelle, insieme coi cuori, al Ricordo di Allah. Questa è la Guida di Allah con cui Egli guida chi vuole. E coloro che Allah svia, non avranno direzione.
+Allah ha fatto scendere il più bello dei racconti, un Libro coerente e reiterante, \[alla lettura del quale\] rabbrividisce la pelle di coloro che temono il loro Signore e poi si distende la pelle, insieme coi cuori, al Ricordo di Allah. Questa è la Guida di Allah con cui Egli guida chi vuole. E coloro che Allah svia, non avranno direzione.
 
 # 4082
 
@@ -16350,11 +16350,11 @@ Già in questo Corano abbiamo proposto agli uomini parabole di ogni genere, affi
 
 # 4086
 
-[Abbiamo dato loro] un Corano arabo, esente da tortuosità, affinché temano [Allah].
+\[Abbiamo dato loro\] un Corano arabo, esente da tortuosità, affinché temano \[Allah\].
 
 # 4087
 
-Allah vi propone la metafora di un uomo che dipende da soci in lite tra loro e di un altro che sottostà ad un [unico] padrone. Sono forse nella stessa condizione? Lode ad Allah, ma la maggior parte degli uomini non sanno.
+Allah vi propone la metafora di un uomo che dipende da soci in lite tra loro e di un altro che sottostà ad un \[unico\] padrone. Sono forse nella stessa condizione? Lode ad Allah, ma la maggior parte degli uomini non sanno.
 
 # 4088
 
@@ -16362,11 +16362,11 @@ In verità dovrai morire ed essi dovranno morire;
 
 # 4089
 
-poi, nel Giorno della Resurrezione, polemizzerete [tra voi] davanti al vostro Signore.
+poi, nel Giorno della Resurrezione, polemizzerete \[tra voi\] davanti al vostro Signore.
 
 # 4090
 
-Chi è più ingiusto di colui che inventa menzogne contro Allah e smentisce la verità quando essa [gli] giunge? Nell'Inferno non c'è forse una dimora per i miscredenti?
+Chi è più ingiusto di colui che inventa menzogne contro Allah e smentisce la verità quando essa \[gli\] giunge? Nell'Inferno non c'è forse una dimora per i miscredenti?
 
 # 4091
 
@@ -16382,7 +16382,7 @@ Infatti Allah cancellerà le loro azioni peggiori e li compenserà per ciò che 
 
 # 4094
 
-Non basta forse Allah al Suo servo, quando gli uomini ti minacciano [con le sanzioni] di coloro [che adorano] all'infuori di Allah? E coloro che Allah svia non avranno direzione.
+Non basta forse Allah al Suo servo, quando gli uomini ti minacciano \[con le sanzioni\] di coloro \[che adorano\] all'infuori di Allah? E coloro che Allah svia non avranno direzione.
 
 # 4095
 
@@ -16394,7 +16394,7 @@ Se domandassi loro: “Chi ha creato i cieli e la terra?”, certamente risponde
 
 # 4097
 
-Di': “O popol mio, agite alla vostra maniera, io agirò [alla mia]”. Quanto prima saprete
+Di': “O popol mio, agite alla vostra maniera, io agirò \[alla mia\]”. Quanto prima saprete
 
 # 4098
 
@@ -16410,15 +16410,15 @@ Allah accoglie le anime al momento della morte e durante il sonno. Trattiene poi
 
 # 4101
 
-Si sono presi intercessori all'infuori di Allah? Di': “Anche se non possiedono niente? [Anche se] non comprendono niente?”.
+Si sono presi intercessori all'infuori di Allah? Di': “Anche se non possiedono niente? \[Anche se\] non comprendono niente?”.
 
 # 4102
 
-Di': “Tutta l'intercessione [appartiene] ad Allah. [Appartiene] a Lui la sovranità dei cieli e della terra. A Lui sarete ricondotti”.
+Di': “Tutta l'intercessione \[appartiene\] ad Allah. \[Appartiene\] a Lui la sovranità dei cieli e della terra. A Lui sarete ricondotti”.
 
 # 4103
 
-Quando viene menzionato il Nome di Allah l'Unico, si crucciano i cuori di coloro che non credono nell'altra vita; quando invece vengono menzionati quelli [che essi adorano] all'infuori di Lui, ecco che se ne rallegrano.
+Quando viene menzionato il Nome di Allah l'Unico, si crucciano i cuori di coloro che non credono nell'altra vita; quando invece vengono menzionati quelli \[che essi adorano\] all'infuori di Lui, ecco che se ne rallegrano.
 
 # 4104
 
@@ -16442,7 +16442,7 @@ Quando una disgrazia lo colpisce, l'uomo Ci invoca. Poi, quando gli concediamo u
 
 # 4109
 
-li colpì il male che avevano fatto. Quelli di loro che sono stati ingiusti presto saranno colpiti dai mali che avranno commesso e non potranno ridurre [Allah] all'impotenza.
+li colpì il male che avevano fatto. Quelli di loro che sono stati ingiusti presto saranno colpiti dai mali che avranno commesso e non potranno ridurre \[Allah\] all'impotenza.
 
 # 4110
 
@@ -16462,15 +16462,15 @@ Seguite dunque la meravigliosa rivelazione del vostro Signore prima che, all'imp
 
 # 4114
 
-[prima] che un'anima dica: "Ahimè, quanto sono stata negligente nei confronti di Allah! Certo sono stato fra coloro che schernivano";
+\[prima\] che un'anima dica: "Ahimè, quanto sono stata negligente nei confronti di Allah! Certo sono stato fra coloro che schernivano";
 
 # 4115
 
-o [prima che] dica: "Se Allah mi avesse guidato sarei stato certamente uno dei timorati",
+o \[prima che\] dica: "Se Allah mi avesse guidato sarei stato certamente uno dei timorati",
 
 # 4116
 
-o [ancora] dica vedendo il castigo: "Se solo potessi tornare [sulla terra], sarei uno di coloro che fanno il bene"”.
+o \[ancora\] dica vedendo il castigo: "Se solo potessi tornare \[sulla terra\], sarei uno di coloro che fanno il bene"”.
 
 # 4117
 
@@ -16498,7 +16498,7 @@ Di': “O ignoranti, vorreste forse ordinarmi di adorare altri che Allah?”.
 
 # 4123
 
-Invero a te e a coloro che ti precedettero è stato rivelato: “Se attribuirai associati [ad Allah], saranno vane le opere tue e sarai tra i perdenti.
+Invero a te e a coloro che ti precedettero è stato rivelato: “Se attribuirai associati \[ad Allah\], saranno vane le opere tue e sarai tra i perdenti.
 
 # 4124
 
@@ -16530,15 +16530,15 @@ Verrà detto loro: “Entrate per le porte dell'Inferno per rimanervi in perpetu
 
 # 4131
 
-E coloro che avranno temuto il loro Signore saranno condotti in gruppi al Paradiso. Quando vi giungeranno, saranno aperte le sue porte e i suoi guardiani diranno [loro]: “Pace su di voi! Siete stati buoni; entrate qui per rimanervi in perpetuo”.
+E coloro che avranno temuto il loro Signore saranno condotti in gruppi al Paradiso. Quando vi giungeranno, saranno aperte le sue porte e i suoi guardiani diranno \[loro\]: “Pace su di voi! Siete stati buoni; entrate qui per rimanervi in perpetuo”.
 
 # 4132
 
-Risponderanno: “Lode ad Allah, Che ha mantenuto la Sua promessa nei nostri confronti e ci ha fatto eredi della terra. Abiteremo nel Paradiso ovunque vorremo”. Quant'è magnifica la ricompensa di coloro che hanno [ben] operato!
+Risponderanno: “Lode ad Allah, Che ha mantenuto la Sua promessa nei nostri confronti e ci ha fatto eredi della terra. Abiteremo nel Paradiso ovunque vorremo”. Quant'è magnifica la ricompensa di coloro che hanno \[ben\] operato!
 
 # 4133
 
-In quel Giorno] vedrai gli angeli circondare il Trono e rendere gloria e lode al loro Signore. Sarà giudicato tra loro con equità e sarà detto: “La lode appartiene ad Allah, Signore dei mondi”.
+In quel Giorno\] vedrai gli angeli circondare il Trono e rendere gloria e lode al loro Signore. Sarà giudicato tra loro con equità e sarà detto: “La lode appartiene ad Allah, Signore dei mondi”.
 
 # 4134
 
@@ -16546,7 +16546,7 @@ Hâ', Mîm
 
 # 4135
 
-La Rivelazione del Libro [proviene] da Allah, l'Eccelso, il Sapiente,
+La Rivelazione del Libro \[proviene\] da Allah, l'Eccelso, il Sapiente,
 
 # 4136
 
@@ -16558,7 +16558,7 @@ solo i miscredenti polemizzano sui segni di Allah. Non ti lasciar suggestionare 
 
 # 4138
 
-Prima di loro il popolo di Noè tacciò di menzogna e dopo di loro [lo fecero] i coalizzati. Ogni comunità tramò contro il suo messaggero, cercando di impadronirsene. Polemizzarono con falsi [argomenti] per respingere la verità. Li afferrai infine, e quale fu la Mia sanzione!
+Prima di loro il popolo di Noè tacciò di menzogna e dopo di loro \[lo fecero\] i coalizzati. Ogni comunità tramò contro il suo messaggero, cercando di impadronirsene. Polemizzarono con falsi \[argomenti\] per respingere la verità. Li afferrai infine, e quale fu la Mia sanzione!
 
 # 4139
 
@@ -16586,11 +16586,11 @@ Diranno: “Nostro Signore, due volte ci hai fatti morire e due volte ci hai fat
 
 # 4145
 
-“Questo [avviene] perché quando Allah, l'Unico, era invocato, restavate increduli e quando invece Gli attribuivano associati credevate [in essi]. Il Giudizio appartiene ad Allah, l'Altissimo, il Grande.”
+“Questo \[avviene\] perché quando Allah, l'Unico, era invocato, restavate increduli e quando invece Gli attribuivano associati credevate \[in essi\]. Il Giudizio appartiene ad Allah, l'Altissimo, il Grande.”
 
 # 4146
 
-Egli è Colui Che vi mostra i Suoi segni e vi fa scendere dal cielo una provvidenza. [Ma] se ne ricorda solo chi torna a Lui pentito.
+Egli è Colui Che vi mostra i Suoi segni e vi fa scendere dal cielo una provvidenza. \[Ma\] se ne ricorda solo chi torna a Lui pentito.
 
 # 4147
 
@@ -16610,7 +16610,7 @@ In quel Giorno ciascuno sarà compensato per quello che avrà meritato: in quel 
 
 # 4151
 
-Avvertili [o Muhammad] del Giorno che si avvicina, quando angosciati avranno i cuori in gola. Gli ingiusti non avranno né amici solleciti, né intercessori ascoltati.
+Avvertili \[o Muhammad\] del Giorno che si avvicina, quando angosciati avranno i cuori in gola. Gli ingiusti non avranno né amici solleciti, né intercessori ascoltati.
 
 # 4152
 
@@ -16622,11 +16622,11 @@ Allah decide con equità, mentre coloro che essi invocano all'infuori di Lui, no
 
 # 4154
 
-Non hanno viaggiato sulla terra e osservato quel che avvenne a coloro che li precedettero, che pure erano più potenti di loro e [lasciarono] maggiori vestigia sulla terra? Li afferrò Allah a causa dei loro peccati e non ebbero protettore alcuno contro Allah.
+Non hanno viaggiato sulla terra e osservato quel che avvenne a coloro che li precedettero, che pure erano più potenti di loro e \[lasciarono\] maggiori vestigia sulla terra? Li afferrò Allah a causa dei loro peccati e non ebbero protettore alcuno contro Allah.
 
 # 4155
 
-Così [avvenne] perché non credettero nonostante i loro messaggeri avessero recato loro prove inequivocabili. Allora Allah li afferrò. In verità Egli è il Forte, il Severo nel castigo.
+Così \[avvenne\] perché non credettero nonostante i loro messaggeri avessero recato loro prove inequivocabili. Allora Allah li afferrò. In verità Egli è il Forte, il Severo nel castigo.
 
 # 4156
 
@@ -16638,7 +16638,7 @@ a Faraone, Hâmân e Qârûn. Essi dissero: “È un mago, un impostore”.
 
 # 4158
 
-Quando poi portò loro la verità che veniva da Noi, ordinarono: “Vengano uccisi i figli di coloro che credono insieme con lui e lasciate in vita [solo] le femmine”. La trama dei miscredenti non conduce a buon fine.
+Quando poi portò loro la verità che veniva da Noi, ordinarono: “Vengano uccisi i figli di coloro che credono insieme con lui e lasciate in vita \[solo\] le femmine”. La trama dei miscredenti non conduce a buon fine.
 
 # 4159
 
@@ -16650,7 +16650,7 @@ Disse Mosè: “Mi rifugio nel mio e vostro Signore contro ogni arrogante che no
 
 # 4161
 
-Un credente che apparteneva alla famiglia di Faraone e che celava la sua fede, disse: “Uccidereste un uomo [solo] perché ha detto: "Allah è il mio Signore" e [nonostante sia] giunto a voi con prove provenienti dal vostro Signore? Se mente, la sua menzogna [ricadrà] su di lui; se invece è sincero, subirete parte di ciò di cui vi minaccia. Allah non guida chi è iniquo e bugiardo.
+Un credente che apparteneva alla famiglia di Faraone e che celava la sua fede, disse: “Uccidereste un uomo \[solo\] perché ha detto: "Allah è il mio Signore" e \[nonostante sia\] giunto a voi con prove provenienti dal vostro Signore? Se mente, la sua menzogna \[ricadrà\] su di lui; se invece è sincero, subirete parte di ciò di cui vi minaccia. Allah non guida chi è iniquo e bugiardo.
 
 # 4162
 
@@ -16662,7 +16662,7 @@ E colui che credeva disse: “O popol mio, pavento per voi un giorno come quello
 
 # 4164
 
-come quello del popolo di Noè, degli Âd e dei Thamûd, o di quelli [che vissero] dopo di loro: Allah non accetta che i Suoi servi [subiscano] ingiustizia.
+come quello del popolo di Noè, degli Âd e dei Thamûd, o di quelli \[che vissero\] dopo di loro: Allah non accetta che i Suoi servi \[subiscano\] ingiustizia.
 
 # 4165
 
@@ -16678,7 +16678,7 @@ Già in precedenza Giuseppe vi recò prove evidenti, ma non smetteste di dubitar
 
 # 4168
 
-Coloro che polemizzano sui segni di Allah, senza aver ricevuto nessuna autorità [per farlo], suscitano l'avversione di Allah e dei credenti. In tal modo Allah pone un suggello sul cuore di ogni orgoglioso tiranno”.
+Coloro che polemizzano sui segni di Allah, senza aver ricevuto nessuna autorità \[per farlo\], suscitano l'avversione di Allah e dei credenti. In tal modo Allah pone un suggello sul cuore di ogni orgoglioso tiranno”.
 
 # 4169
 
@@ -16686,7 +16686,7 @@ Disse Faraone: “O Hâmân, costruiscimi una torre: forse potrò raggiungere le
 
 # 4170
 
-le vie dei cieli, e ascenderò al Dio di Mosè, nonostante lo ritenga un bugiardo”. Così la peggior azione di Faraone fu resa bella ai suoi occhi. Fu sviato dalla [retta] via. L'astuzia di Faraone non fu destinata che al fallimento.
+le vie dei cieli, e ascenderò al Dio di Mosè, nonostante lo ritenga un bugiardo”. Così la peggior azione di Faraone fu resa bella ai suoi occhi. Fu sviato dalla \[retta\] via. L'astuzia di Faraone non fu destinata che al fallimento.
 
 # 4171
 
@@ -16714,19 +16714,19 @@ Non c'è dubbio che mi chiamate a chi non può essere invocato né in questa vit
 
 # 4177
 
-[Ben presto] vi ricorderete di quel che vi dico. Io rimetto ad Allah la mia sorte. In verità Allah osserva bene i Suoi servi”.
+\[Ben presto\] vi ricorderete di quel che vi dico. Io rimetto ad Allah la mia sorte. In verità Allah osserva bene i Suoi servi”.
 
 # 4178
 
-Allah lo protesse dai mali che tramavano [contro di lui] e il peggiore dei castighi avvolse la gente di Faraone:
+Allah lo protesse dai mali che tramavano \[contro di lui\] e il peggiore dei castighi avvolse la gente di Faraone:
 
 # 4179
 
-vengono esposti al Fuoco, al mattino e alla sera. Il Giorno in cui sorgerà l'Ora, [sarà detto]: “Introducete la gente di Faraone nel più severo dei castighi!”.
+vengono esposti al Fuoco, al mattino e alla sera. Il Giorno in cui sorgerà l'Ora, \[sarà detto\]: “Introducete la gente di Faraone nel più severo dei castighi!”.
 
 # 4180
 
-E quando [i dannati] disputeranno tra loro nel Fuoco, diranno i deboli a coloro che erano superbi: “Noi vi seguivamo, potresti darci un po' di riparo da [questo] Fuoco?”.
+E quando \[i dannati\] disputeranno tra loro nel Fuoco, diranno i deboli a coloro che erano superbi: “Noi vi seguivamo, potresti darci un po' di riparo da \[questo\] Fuoco?”.
 
 # 4181
 
@@ -16734,7 +16734,7 @@ E coloro che erano stati superbi diranno: “In verità tutti noi ci siamo dentr
 
 # 4182
 
-Coloro che saranno nel Fuoco diranno ai guardiani dell'Inferno: “Pregate il vostro Signore, ché ci sollevi dal castigo, [anche] di un [solo] giorno”.
+Coloro che saranno nel Fuoco diranno ai guardiani dell'Inferno: “Pregate il vostro Signore, ché ci sollevi dal castigo, \[anche\] di un \[solo\] giorno”.
 
 # 4183
 
@@ -16746,7 +16746,7 @@ Aiuteremo i Nostri inviati e coloro che credono, in questa vita e nel Giorno in 
 
 # 4185
 
-nel Giorno in cui nessuna scusa sarà utile agli ingiusti, [saranno] maledetti e avranno la peggiore delle dimore.
+nel Giorno in cui nessuna scusa sarà utile agli ingiusti, \[saranno\] maledetti e avranno la peggiore delle dimore.
 
 # 4186
 
@@ -16762,11 +16762,11 @@ Sii paziente, ché la promessa di Allah è verità. Chiedi perdono per il tuo pe
 
 # 4189
 
-Coloro che polemizzano sui segni di Allah, senza aver ricevuto nessuna autorità [per farlo], non hanno altro che invidia nei loro petti: non raggiungeranno il loro scopo. Implora dunque la protezione di Allah. Egli è Colui Che tutto ascolta e osserva.
+Coloro che polemizzano sui segni di Allah, senza aver ricevuto nessuna autorità \[per farlo\], non hanno altro che invidia nei loro petti: non raggiungeranno il loro scopo. Implora dunque la protezione di Allah. Egli è Colui Che tutto ascolta e osserva.
 
 # 4190
 
-La creazione dei cieli e della terra è [certamente] più grandiosa di quella degli uomini, ma la maggior parte di loro non sa nulla.
+La creazione dei cieli e della terra è \[certamente\] più grandiosa di quella degli uomini, ma la maggior parte di loro non sa nulla.
 
 # 4191
 
@@ -16806,7 +16806,7 @@ Di': “Dopo che mi sono giunte le prove da parte del mio Signore, mi è stato v
 
 # 4200
 
-Egli è Colui Che vi ha creati dalla terra, poi da una goccia di sperma e poi da una aderenza. Vi ha fatto uscire neonati [dal grembo materno] perché possiate poi raggiungere la pienezza e poi la vecchiaia - ma qualcuno di voi muore prima - affinché giungiate ad un termine stabilito. Rifletterete dunque?
+Egli è Colui Che vi ha creati dalla terra, poi da una goccia di sperma e poi da una aderenza. Vi ha fatto uscire neonati \[dal grembo materno\] perché possiate poi raggiungere la pienezza e poi la vecchiaia - ma qualcuno di voi muore prima - affinché giungiate ad un termine stabilito. Rifletterete dunque?
 
 # 4201
 
@@ -16814,7 +16814,7 @@ Egli è Colui Che dà la vita e dà la morte. Quando decide una cosa, dice solo:
 
 # 4202
 
-Non hai visto coloro che polemizzano a proposito dei segni di Allah, come si sono allontanati [da Lui]?
+Non hai visto coloro che polemizzano a proposito dei segni di Allah, come si sono allontanati \[da Lui\]?
 
 # 4203
 
@@ -16830,7 +16830,7 @@ nell'acqua bollente e poi precipitati nel Fuoco.
 
 # 4206
 
-Sarà detto loro: “Dove sono coloro che avete associato [nel culto]
+Sarà detto loro: “Dove sono coloro che avete associato \[nel culto\]
 
 # 4207
 
@@ -16858,7 +16858,7 @@ Allah è Colui Che vi ha dato il bestiame, affinché alcuni animali siano cavalc
 
 # 4213
 
-e [affinché] ne traiate altri vantaggi e conseguiate, loro tramite, qualche desiderio che vi sta a cuore. Vi servono inoltre da mezzo di trasporto, al pari delle navi.
+e \[affinché\] ne traiate altri vantaggi e conseguiate, loro tramite, qualche desiderio che vi sta a cuore. Vi servono inoltre da mezzo di trasporto, al pari delle navi.
 
 # 4214
 
@@ -16874,11 +16874,11 @@ Quando i loro messaggeri recarono le prove evidenti, si rallegravano della scien
 
 # 4217
 
-Poi, quando videro la Nostra severità, gridarono: “Crediamo in Allah, l'Unico, e rinneghiamo coloro che [Gli] avevamo associato”.
+Poi, quando videro la Nostra severità, gridarono: “Crediamo in Allah, l'Unico, e rinneghiamo coloro che \[Gli\] avevamo associato”.
 
 # 4218
 
-Ma la loro [tardiva] fede non fu loro di nessuna utilità, dopo che ebbero visto la Nostra severità. Questa è la consuetudine di Allah nei confronti dei Suoi servi. Saranno perduti i miscredenti!
+Ma la loro \[tardiva\] fede non fu loro di nessuna utilità, dopo che ebbero visto la Nostra severità. Questa è la consuetudine di Allah nei confronti dei Suoi servi. Saranno perduti i miscredenti!
 
 # 4219
 
@@ -16898,7 +16898,7 @@ annunzio e monito; ma la maggior parte di loro si sottrae, senza ascoltare.
 
 # 4223
 
-Dicono: “I nostri cuori sono avviluppati [in qualcosa che li isola] da ciò cui ci inviti, e c'è un peso nelle nostre orecchie. C'è un velo tra noi e te. Fai pure [quello che vuoi] e noi [faremo] quello che vogliamo!”.
+Dicono: “I nostri cuori sono avviluppati \[in qualcosa che li isola\] da ciò cui ci inviti, e c'è un peso nelle nostre orecchie. C'è un velo tra noi e te. Fai pure \[quello che vuoi\] e noi \[faremo\] quello che vogliamo!”.
 
 # 4224
 
@@ -16914,11 +16914,11 @@ In verità coloro che credono e compiono il bene avranno una ricompensa che non 
 
 # 4227
 
-Di': “Vorreste forse rinnegare Colui Che in due giorni ha creato la terra [e vorreste] attribuirGli consimili? Egli è il Signore dei mondi.
+Di': “Vorreste forse rinnegare Colui Che in due giorni ha creato la terra \[e vorreste\] attribuirGli consimili? Egli è il Signore dei mondi.
 
 # 4228
 
-Ha infisso [sulla terra] le montagne, l' ha benedetta e in quattro giorni di uguale durata ha distribuito gli alimenti”; [questa è la risposta] a coloro che interrogano.
+Ha infisso \[sulla terra\] le montagne, l' ha benedetta e in quattro giorni di uguale durata ha distribuito gli alimenti”; \[questa è la risposta\] a coloro che interrogano.
 
 # 4229
 
@@ -16930,11 +16930,11 @@ Stabilì in due giorni i sette cieli e ad ogni cielo assegnò la sua funzione. E
 
 # 4231
 
-Se si allontanano, di' loro: “Vi dò l'avvertimento di una folgore, uguale alla folgore [che colpì] gli Âd e i Thamûd”.
+Se si allontanano, di' loro: “Vi dò l'avvertimento di una folgore, uguale alla folgore \[che colpì\] gli Âd e i Thamûd”.
 
 # 4232
 
-Quando da ogni parte giunsero loro i messaggeri dicendo: “Non adorate altri che Allah”, risposero: “Se il nostro Signore avesse voluto [che credessimo], avrebbe certamente fatto scendere gli angeli. Dunque non crediamo a ciò con cui siete stati inviati”.
+Quando da ogni parte giunsero loro i messaggeri dicendo: “Non adorate altri che Allah”, risposero: “Se il nostro Signore avesse voluto \[che credessimo\], avrebbe certamente fatto scendere gli angeli. Dunque non crediamo a ciò con cui siete stati inviati”.
 
 # 4233
 
@@ -16950,11 +16950,11 @@ Guidammo i Thamûd, ma preferirono l'accecamento, alla guida. La folgore del cas
 
 # 4236
 
-Salvammo [solo] coloro che credevano ed erano timorati [di Allah].
+Salvammo \[solo\] coloro che credevano ed erano timorati \[di Allah\].
 
 # 4237
 
-Il Giorno in cui i nemici di Allah saranno riuniti [e condotti] verso il Fuoco, saranno divisi [in gruppi].
+Il Giorno in cui i nemici di Allah saranno riuniti \[e condotti\] verso il Fuoco, saranno divisi \[in gruppi\].
 
 # 4238
 
@@ -16962,7 +16962,7 @@ Quando vi giungeranno, il loro udito, i loro occhi e le loro pelli renderanno te
 
 # 4239
 
-E diranno alle loro pelli: “Perché avete testimoniato contro di noi?”. Risponderanno: “È stato Allah a farci parlare, [Egli è] Colui Che fa parlare tutte le cose. Egli è Colui Che ci ha creati la prima volta e a Lui sarete ricondotti”.
+E diranno alle loro pelli: “Perché avete testimoniato contro di noi?”. Risponderanno: “È stato Allah a farci parlare, \[Egli è\] Colui Che fa parlare tutte le cose. Egli è Colui Che ci ha creati la prima volta e a Lui sarete ricondotti”.
 
 # 4240
 
@@ -16978,7 +16978,7 @@ Se insistono, il Fuoco sarà il loro asilo; quand'anche accampino scuse, non sar
 
 # 4243
 
-Demmo loro compagni che abbellirono [agli occhi loro] il loro futuro e il loro passato. Si realizzò su di loro la sentenza che già era stata pronunziata contro altre comunità di dèmoni e di uomini che li precedettero. Invero furono tra i perdenti.
+Demmo loro compagni che abbellirono \[agli occhi loro\] il loro futuro e il loro passato. Si realizzò su di loro la sentenza che già era stata pronunziata contro altre comunità di dèmoni e di uomini che li precedettero. Invero furono tra i perdenti.
 
 # 4244
 
@@ -16990,7 +16990,7 @@ Certamente faremo gustare un duro castigo ai miscredenti, e li compenseremo in b
 
 # 4246
 
-Così il compenso dei nemici di Allah sarà il Fuoco, in cui rimarranno in perpetuo: [punizione] per aver smentito i Nostri segni.
+Così il compenso dei nemici di Allah sarà il Fuoco, in cui rimarranno in perpetuo: \[punizione\] per aver smentito i Nostri segni.
 
 # 4247
 
@@ -16998,7 +16998,7 @@ Diranno i miscredenti: “Signore, mostraci coloro tra i dèmoni e gli uomini ch
 
 # 4248
 
-Gli angeli scendono su coloro che dicono: “Il nostro Signore è Allah”, e che perseverano [sulla retta via]. [Dicono loro:] “Non abbiate paura e non affliggetevi; gioite per il Giardino che vi è stato promesso.
+Gli angeli scendono su coloro che dicono: “Il nostro Signore è Allah”, e che perseverano \[sulla retta via\]. \[Dicono loro:\] “Non abbiate paura e non affliggetevi; gioite per il Giardino che vi è stato promesso.
 
 # 4249
 
@@ -17014,11 +17014,11 @@ Chi mai proferisce parola migliore di colui che invita ad Allah, e compie il ben
 
 # 4252
 
-Non sono certo uguali la cattiva [azione] e quella buona. Respingi quella con qualcosa che sia migliore: colui dal quale ti divideva l'inimicizia, diventerà un amico affettuoso.
+Non sono certo uguali la cattiva \[azione\] e quella buona. Respingi quella con qualcosa che sia migliore: colui dal quale ti divideva l'inimicizia, diventerà un amico affettuoso.
 
 # 4253
 
-Ma ricevono questa [facoltà] solo coloro che pazientemente perseverano; ciò accade solo a chi già possiede un dono immenso.
+Ma ricevono questa \[facoltà\] solo coloro che pazientemente perseverano; ciò accade solo a chi già possiede un dono immenso.
 
 # 4254
 
@@ -17030,7 +17030,7 @@ La notte e il giorno, il sole e la luna sono fra i Suoi segni: non prosternatevi
 
 # 4256
 
-Se si mostrano protervi, [sappiano che] quelli che sono presso il Tuo Signore Lo glorificano notte e giorno, senza mai stancarsi.
+Se si mostrano protervi, \[sappiano che\] quelli che sono presso il Tuo Signore Lo glorificano notte e giorno, senza mai stancarsi.
 
 # 4257
 
@@ -17054,11 +17054,11 @@ Non ti sarà detto altro che quel che fu detto ai messaggeri che ti precedettero
 
 # 4262
 
-Se ne avessimo fatto un Corano in una lingua straniera, avrebbero detto: “Perché non sono stati espressi chiaramente i suoi versetti? Un [messaggio in un] idioma straniero ad un [Messaggero] arabo?”. Di': “Esso è guida e panacea per coloro che credono”. Coloro che invece non credono, sono colpiti da sordità e accecamento, [ed è come se fossero] chiamati da un luogo remoto.
+Se ne avessimo fatto un Corano in una lingua straniera, avrebbero detto: “Perché non sono stati espressi chiaramente i suoi versetti? Un \[messaggio in un\] idioma straniero ad un \[Messaggero\] arabo?”. Di': “Esso è guida e panacea per coloro che credono”. Coloro che invece non credono, sono colpiti da sordità e accecamento, \[ed è come se fossero\] chiamati da un luogo remoto.
 
 # 4263
 
-Già demmo a Mosè il Libro su cui polemizzarono. Se non fosse per una precedente Parola del tuo Signore, sarebbe già stato deciso tra di loro; sono invece immersi nel dubbio [a proposito del Corano].
+Già demmo a Mosè il Libro su cui polemizzarono. Se non fosse per una precedente Parola del tuo Signore, sarebbe già stato deciso tra di loro; sono invece immersi nel dubbio \[a proposito del Corano\].
 
 # 4264
 
@@ -17066,7 +17066,7 @@ Chi fa il bene lo fa a suo vantaggio, e chi fa il male lo fa a suo danno. Il tuo
 
 # 4265
 
-[Appartiene] a Lui la scienza dell'Ora e non c'è frutto che esca dal suo involucro o femmina gestante o partoriente di cui non abbia conoscenza. Nel Giorno in cui li convocherà [dirà]: “Dove sono coloro che Mi associavate?”; risponderanno: “Ti informiamo che tra noi non c'è nessuno che lo testimoni”.
+\[Appartiene\] a Lui la scienza dell'Ora e non c'è frutto che esca dal suo involucro o femmina gestante o partoriente di cui non abbia conoscenza. Nel Giorno in cui li convocherà \[dirà\]: “Dove sono coloro che Mi associavate?”; risponderanno: “Ti informiamo che tra noi non c'è nessuno che lo testimoni”.
 
 # 4266
 
@@ -17086,7 +17086,7 @@ Quando colmiamo di favore l'uomo, egli si sottrae e si allontana. Quando invece 
 
 # 4270
 
-Di': “Non vedete? Se [questo Corano] viene da Allah e voi lo rinnegate, chi sarà più traviato di chi si allontana nello scisma?
+Di': “Non vedete? Se \[questo Corano\] viene da Allah e voi lo rinnegate, chi sarà più traviato di chi si allontana nello scisma?
 
 # 4271
 
@@ -17094,7 +17094,7 @@ Mostreremo loro i Nostri segni nell'universo e nelle loro stesse persone, finch�
 
 # 4272
 
-Non è forse vero che dubitano dell'incontro con il loro Signore, mentre in verità Egli abbraccia ogni cosa [nella Sua Scienza]?
+Non è forse vero che dubitano dell'incontro con il loro Signore, mentre in verità Egli abbraccia ogni cosa \[nella Sua Scienza\]?
 
 # 4273
 
@@ -17110,7 +17110,7 @@ Ciò in quanto Allah, l'Eccelso, il Saggio rivela a te e a coloro che ti precede
 
 # 4276
 
-[Appartiene] a Lui tutto quello che è nei cieli e tutto quello che è sulla terra. Egli è l'Altissimo, il Sublime.
+\[Appartiene\] a Lui tutto quello che è nei cieli e tutto quello che è sulla terra. Egli è l'Altissimo, il Sublime.
 
 # 4277
 
@@ -17122,11 +17122,11 @@ Allah osserva coloro che si sono presi patroni all'infuori di Lui. Tu non sei re
 
 # 4279
 
-In tal modo Ti abbiamo rivelato un Corano arabo, affinché tu ammonisca la Madre delle città e coloro che [le abitano] attorno, e a finché tu avverta del Giorno della Riunione, sul quale non c'è dubbio alcuno: una parte [di loro] sarà nel Giardino, un'altra parte nella Fiamma.
+In tal modo Ti abbiamo rivelato un Corano arabo, affinché tu ammonisca la Madre delle città e coloro che \[le abitano\] attorno, e a finché tu avverta del Giorno della Riunione, sul quale non c'è dubbio alcuno: una parte \[di loro\] sarà nel Giardino, un'altra parte nella Fiamma.
 
 # 4280
 
-Se Allah avesse voluto, avrebbe fatto [degli uomini] un'unica comunità. Ma Egli lascia entrare chi vuole nella Sua misericordia. Gli ingiusti non avranno né patrono né alleato.
+Se Allah avesse voluto, avrebbe fatto \[degli uomini\] un'unica comunità. Ma Egli lascia entrare chi vuole nella Sua misericordia. Gli ingiusti non avranno né patrono né alleato.
 
 # 4281
 
@@ -17134,31 +17134,31 @@ Prenderanno forse patroni all'infuori di Lui? Allah, Egli è il solo patrono. Co
 
 # 4282
 
-Su tutte le vostre controversie, il giudizio [appartiene] ad Allah. Questi è Allah, il mio Signore: a lui mi affido e a Lui mi volgo pentito.
+Su tutte le vostre controversie, il giudizio \[appartiene\] ad Allah. Questi è Allah, il mio Signore: a lui mi affido e a Lui mi volgo pentito.
 
 # 4283
 
-È il Creatore dei cieli e della terra. Da voi stessi ha tratto le vostre spose, e [vi ha dato] il bestiame a coppie. Così vi moltiplica. Niente è simile a Lui. Egli è l'Audiente, Colui Che tutto osserva.
+È il Creatore dei cieli e della terra. Da voi stessi ha tratto le vostre spose, e \[vi ha dato\] il bestiame a coppie. Così vi moltiplica. Niente è simile a Lui. Egli è l'Audiente, Colui Che tutto osserva.
 
 # 4284
 
-[Appartengono] a Lui le chiavi dei cieli e della terra. Elargisce generosamente a chi vuole e a chi vuole lesina. In verità Egli è onnisciente.
+\[Appartengono\] a Lui le chiavi dei cieli e della terra. Elargisce generosamente a chi vuole e a chi vuole lesina. In verità Egli è onnisciente.
 
 # 4285
 
-[Egli] ha stabilito per voi, nella religione, la stessa via che aveva raccomandato a Noè, quella che riveliamo a Te, [o Muhammad,] e che imponemmo ad Abramo, a Mosè e a Gesù: “Assolvete al culto e non fatene motivo di divisione”. Ciò a cui li inviti è invero gravoso per gli associatori: Allah sceglie e avvicina a Sé chi vuole e a Sé guida chi Gli si rivolge [pentito].
+\[Egli\] ha stabilito per voi, nella religione, la stessa via che aveva raccomandato a Noè, quella che riveliamo a Te, \[o Muhammad,\] e che imponemmo ad Abramo, a Mosè e a Gesù: “Assolvete al culto e non fatene motivo di divisione”. Ciò a cui li inviti è invero gravoso per gli associatori: Allah sceglie e avvicina a Sé chi vuole e a Sé guida chi Gli si rivolge \[pentito\].
 
 # 4286
 
-Non si divisero, opponendosi gli uni agli altri, se non dopo che giunse loro la conoscenza [della Verità]. Se non fosse per una precedente Parola del tuo Signore, già sarebbe stato deciso tra loro. In verità coloro che ricevettero la Scrittura dopo di loro, sono immersi nel dubbio in proposito.
+Non si divisero, opponendosi gli uni agli altri, se non dopo che giunse loro la conoscenza \[della Verità\]. Se non fosse per una precedente Parola del tuo Signore, già sarebbe stato deciso tra loro. In verità coloro che ricevettero la Scrittura dopo di loro, sono immersi nel dubbio in proposito.
 
 # 4287
 
-Invitali dunque [alla fede], procedi con rettitudine come ti è stato ordinato e non seguire le loro passioni. Di': “Credo in tutta la Scrittura che Allah ha rivelato. Mi è stato ordinato di giudicare con equità tra voi. Allah è il nostro Signore e il vostro Signore. A noi le nostre azioni, a voi le vostre. Nessuna polemica tra noi e voi. Ci riunirà Allah e verso Lui è la meta [ultima]”.
+Invitali dunque \[alla fede\], procedi con rettitudine come ti è stato ordinato e non seguire le loro passioni. Di': “Credo in tutta la Scrittura che Allah ha rivelato. Mi è stato ordinato di giudicare con equità tra voi. Allah è il nostro Signore e il vostro Signore. A noi le nostre azioni, a voi le vostre. Nessuna polemica tra noi e voi. Ci riunirà Allah e verso Lui è la meta \[ultima\]”.
 
 # 4288
 
-Coloro che polemizzano a proposito di Allah, dopo che già è stato risposto al suo appello, hanno argomenti che non hanno alcun valore presso Allah. Su di loro [si abbatterà] la [Sua] collera e avranno un severo castigo.
+Coloro che polemizzano a proposito di Allah, dopo che già è stato risposto al suo appello, hanno argomenti che non hanno alcun valore presso Allah. Su di loro \[si abbatterà\] la \[Sua\] collera e avranno un severo castigo.
 
 # 4289
 
@@ -17174,7 +17174,7 @@ Allah è dolce con i Suoi servi e concede a chi vuole. Egli è il Forte, l'Eccel
 
 # 4292
 
-A chi avrà voluto arare [il campo del]l'altra vita, accresceremo la sua aratura mentre a chi avrà voluto arare [il campo di] questa vita, concederemo una parte [dei frutti], ma non avrà parte alcuna dell'altra vita.
+A chi avrà voluto arare \[il campo del\]l'altra vita, accresceremo la sua aratura mentre a chi avrà voluto arare \[il campo di\] questa vita, concederemo una parte \[dei frutti\], ma non avrà parte alcuna dell'altra vita.
 
 # 4293
 
@@ -17186,7 +17186,7 @@ Vedrai gli ingiusti impauriti di ciò che avranno meritato e che ricadrà su di 
 
 # 4295
 
-Questa è la [buona] novella che Allah dà ai Suoi servi che credono e compiono il bene. Di': “Non vi chiedo alcuna ricompensa, oltre all'amore per i parenti”. A chi compie una buona azione, Noi daremo qualcosa di migliore. In verità Allah è perdonatore, riconoscente.
+Questa è la \[buona\] novella che Allah dà ai Suoi servi che credono e compiono il bene. Di': “Non vi chiedo alcuna ricompensa, oltre all'amore per i parenti”. A chi compie una buona azione, Noi daremo qualcosa di migliore. In verità Allah è perdonatore, riconoscente.
 
 # 4296
 
@@ -17214,19 +17214,19 @@ Fra i Suoi segni vi è la creazione dei cieli e della terra e degli esseri viven
 
 # 4302
 
-Qualunque sventura vi colpisca, sarà conseguenza di quello che avranno fatto le vostre mani, ma [Allah] molto perdona.
+Qualunque sventura vi colpisca, sarà conseguenza di quello che avranno fatto le vostre mani, ma \[Allah\] molto perdona.
 
 # 4303
 
-Non potrete opporvi [alla Sua potenza] sulla terra e, all'infuori di Allah, non avrete né patrono, né alleato.
+Non potrete opporvi \[alla Sua potenza\] sulla terra e, all'infuori di Allah, non avrete né patrono, né alleato.
 
 # 4304
 
-Fra i Suoi segni vi sono le navi, [salde] come montagne sul mare.
+Fra i Suoi segni vi sono le navi, \[salde\] come montagne sul mare.
 
 # 4305
 
-Se vuole, calma i venti ed ecco che stanno immobili sulla superficie [marina]. In verità in ciò vi sono segni per tutti i pazienti e i riconoscenti.
+Se vuole, calma i venti ed ecco che stanno immobili sulla superficie \[marina\]. In verità in ciò vi sono segni per tutti i pazienti e i riconoscenti.
 
 # 4306
 
@@ -17238,7 +17238,7 @@ Coloro che polemizzano sui Nostri segni, sappiano di non avere nessuna via d'usc
 
 # 4308
 
-Tutto ciò che vi è stato concesso non è che godimento effimero di questa vita, mentre quel che è presso Allah è migliore e duraturo; [lo avranno] coloro che credono e confidano nel loro Signore,
+Tutto ciò che vi è stato concesso non è che godimento effimero di questa vita, mentre quel che è presso Allah è migliore e duraturo; \[lo avranno\] coloro che credono e confidano nel loro Signore,
 
 # 4309
 
@@ -17278,7 +17278,7 @@ Li vedrai, ad esso esposti, umiliati e impotenti, lanciarsi sguardi furtivi, men
 
 # 4318
 
-Non avranno patroni che li aiuteranno contro Allah. Colui che Allah svia non ha nessuna via [di salvezza].
+Non avranno patroni che li aiuteranno contro Allah. Colui che Allah svia non ha nessuna via \[di salvezza\].
 
 # 4319
 
@@ -17286,7 +17286,7 @@ Rispondete al vostro Signore, prima che venga un Giorno il cui termine Allah non
 
 # 4320
 
-Se volgono le spalle, [sappi] che non ti inviammo loro affinché li custodissi: tu devi solo trasmettere [il messaggio]. Quando facciamo gustare all'uomo una misericordia che proviene da Noi, egli se ne rallegra; se lo coglie invece una sventura, per ciò che le sue mani hanno commesso, subito l'uomo diventa ingrato.
+Se volgono le spalle, \[sappi\] che non ti inviammo loro affinché li custodissi: tu devi solo trasmettere \[il messaggio\]. Quando facciamo gustare all'uomo una misericordia che proviene da Noi, egli se ne rallegra; se lo coglie invece una sventura, per ciò che le sue mani hanno commesso, subito l'uomo diventa ingrato.
 
 # 4321
 
@@ -17302,7 +17302,7 @@ Non è dato all'uomo che Allah gli parli, se non per ispirazione o da dietro un 
 
 # 4324
 
-Ed è così che ti abbiamo rivelato uno spirito [che procede] dal Nostro ordine. Tu non conoscevi né la Scrittura, né la fede. Ne abbiamo fatto una luce per mezzo della quale guidiamo chi vogliamo, tra i Nostri servi. In verità tu guiderai sulla retta via,
+Ed è così che ti abbiamo rivelato uno spirito \[che procede\] dal Nostro ordine. Tu non conoscevi né la Scrittura, né la fede. Ne abbiamo fatto una luce per mezzo della quale guidiamo chi vogliamo, tra i Nostri servi. In verità tu guiderai sulla retta via,
 
 # 4325
 
@@ -17366,7 +17366,7 @@ In verità noi ritorneremo verso il nostro Signore”.
 
 # 4340
 
-Gli hanno ascritto i Suoi servi come fossero una parte [di Lui]. L'uomo è davvero ingrato.
+Gli hanno ascritto i Suoi servi come fossero una parte \[di Lui\]. L'uomo è davvero ingrato.
 
 # 4341
 
@@ -17402,7 +17402,7 @@ Mai inviammo prima di te alcun ammonitore ad una città, senza che quelli che vi
 
 # 4349
 
-Diceva [l'ammonitore]: “Anche se vi portassi una Guida migliore di quella che seguivano i vostri avi?”. Rispondevano: “Invero non crediamo in quello con cui siete stati inviati”.
+Diceva \[l'ammonitore\]: “Anche se vi portassi una Guida migliore di quella che seguivano i vostri avi?”. Rispondevano: “Invero non crediamo in quello con cui siete stati inviati”.
 
 # 4350
 
@@ -17410,7 +17410,7 @@ Ci vendicammo di loro. Considera perciò quel che subirono quanti tacciavano di 
 
 # 4351
 
-E [ricorda] quando Abramo disse a suo padre e al suo popolo: “Io rinnego tutto quello che voi adorate,
+E \[ricorda\] quando Abramo disse a suo padre e al suo popolo: “Io rinnego tutto quello che voi adorate,
 
 # 4352
 
@@ -17418,7 +17418,7 @@ eccetto Colui Che mi ha creato, poiché è Lui che mi guiderà”.
 
 # 4353
 
-E di ciò fece una parola che doveva perpetuarsi nella sua discendenza: forse ritorneranno [ad Allah].
+E di ciò fece una parola che doveva perpetuarsi nella sua discendenza: forse ritorneranno \[ad Allah\].
 
 # 4354
 
@@ -17434,15 +17434,15 @@ E dicono: “Perché questo Corano non è stato rivelato ad un maggiorente di un
 
 # 4357
 
-Sono forse loro i dispensatori della misericordia del tuo Signore? Siamo Noi che distribuiamo tra loro la sussistenza in questa vita, che innalziamo alcuni di loro sugli altri, in modo che gli uni prendano gli altri a loro servizio. La misericordia del tuo Signore è però [di gran lunga] migliore di quello che accumulano.
+Sono forse loro i dispensatori della misericordia del tuo Signore? Siamo Noi che distribuiamo tra loro la sussistenza in questa vita, che innalziamo alcuni di loro sugli altri, in modo che gli uni prendano gli altri a loro servizio. La misericordia del tuo Signore è però \[di gran lunga\] migliore di quello che accumulano.
 
 # 4358
 
-Se non fosse per il fatto che [in tal modo] gli uomini sarebbero diventati una sola comunità [di miscredenti], avremmo fatto d'argento i tetti delle case di coloro che non credono al Compassionevole, e scale per accedervi.
+Se non fosse per il fatto che \[in tal modo\] gli uomini sarebbero diventati una sola comunità \[di miscredenti\], avremmo fatto d'argento i tetti delle case di coloro che non credono al Compassionevole, e scale per accedervi.
 
 # 4359
 
-[Ugualmente avremmo fatto] per le loro case, porte e divani [d'argento] sui quali distendersi,
+\[Ugualmente avremmo fatto\] per le loro case, porte e divani \[d'argento\] sui quali distendersi,
 
 # 4360
 
@@ -17454,11 +17454,11 @@ Assegneremo la compagnia inseparabile di un diavolo a chi si distoglie dal Monit
 
 # 4362
 
-In verità [i diavoli] frappongono ostacoli sulla via di Allah e [gli uomini] credono di essere sulla buona strada.
+In verità \[i diavoli\] frappongono ostacoli sulla via di Allah e \[gli uomini\] credono di essere sulla buona strada.
 
 # 4363
 
-Quando poi [un tal uomo] verrà a Noi, dirà: “Ahimè, quanto vorrei che tra te e me ci fosse la distanza che separa i due Orienti!” Che detestabile compagno!
+Quando poi \[un tal uomo\] verrà a Noi, dirà: “Ahimè, quanto vorrei che tra te e me ci fosse la distanza che separa i due Orienti!” Che detestabile compagno!
 
 # 4364
 
@@ -17482,7 +17482,7 @@ Stringi con forza quello che ti è stato rivelato. Tu sei sulla retta via.
 
 # 4369
 
-In verità questo è un Monito per te e per il tuo popolo; presto sarete interrogati [in proposito].
+In verità questo è un Monito per te e per il tuo popolo; presto sarete interrogati \[in proposito\].
 
 # 4370
 
@@ -17506,7 +17506,7 @@ Dissero: “O mago, implora per noi il tuo Signore, in nome del patto che ha str
 
 # 4375
 
-Quando poi allontanammo il castigo da loro, vennero meno [al giuramento].
+Quando poi allontanammo il castigo da loro, vennero meno \[al giuramento\].
 
 # 4376
 
@@ -17518,7 +17518,7 @@ Non son forse migliore di questo miserabile che sa appena esprimersi?
 
 # 4378
 
-Perché non gli sono stati lanciati braccialetti d'oro [dal cielo], perché non lo accompagnano schiere di angeli?”.
+Perché non gli sono stati lanciati braccialetti d'oro \[dal cielo\], perché non lo accompagnano schiere di angeli?”.
 
 # 4379
 
@@ -17578,11 +17578,11 @@ In quel Giorno gli amici saranno nemici gli uni degli altri, eccetto i timorati.
 
 # 4393
 
-[Verrà loro detto:] “O Miei servi, oggi non avrete paura e non sarete afflitti,
+\[Verrà loro detto:\] “O Miei servi, oggi non avrete paura e non sarete afflitti,
 
 # 4394
 
-[poiché siete] coloro che credono nei Miei segni e sono sottomessi:
+\[poiché siete\] coloro che credono nei Miei segni e sono sottomessi:
 
 # 4395
 
@@ -17658,11 +17658,11 @@ Se chiedi loro chi li abbia creati, risponderanno certamente: “Allah”. Come 
 
 # 4413
 
-E [a] quel grido [del Profeta]: “O Signore! Questo è un popolo che non crede!”,
+E \[a\] quel grido \[del Profeta\]: “O Signore! Questo è un popolo che non crede!”,
 
 # 4414
 
-[risponderà Allah]: “Allontanati da loro [o Muhammad] e di': "Pace". Presto sapranno”.
+\[risponderà Allah\]: “Allontanati da loro \[o Muhammad\] e di': "Pace". Presto sapranno”.
 
 # 4415
 
@@ -17682,11 +17682,11 @@ durante la quale è stabilito ogni saggio decreto,
 
 # 4419
 
-decreto che emana da Noi. Siamo Noi ad inviare [i messaggeri],
+decreto che emana da Noi. Siamo Noi ad inviare \[i messaggeri\],
 
 # 4420
 
-[segno della] misericordia del tuo Signore: Egli è audiente, sapiente,
+\[segno della\] misericordia del tuo Signore: Egli è audiente, sapiente,
 
 # 4421
 
@@ -17710,7 +17710,7 @@ che avvolgerà gli uomini. Ecco un castigo doloroso!
 
 # 4426
 
-[Diranno]: “Signore, allontana da noi il castigo, perché [ora] crediamo”.
+\[Diranno\]: “Signore, allontana da noi il castigo, perché \[ora\] crediamo”.
 
 # 4427
 
@@ -17734,7 +17734,7 @@ Prima di loro mettemmo alla prova il popolo di Faraone, quando giunse loro un no
 
 # 4432
 
-[che disse]: “Datemi i servi di Allah! Io sono per voi un messaggero affidabile!
+\[che disse\]: “Datemi i servi di Allah! Io sono per voi un messaggero affidabile!
 
 # 4433
 
@@ -17754,7 +17754,7 @@ Invocò poi il suo Signore: “In verità sono un popolo di malvagi”.
 
 # 4437
 
-[Disse il Signore]: “Fai viaggiare di notte i Miei servi: sarete inseguiti.
+\[Disse il Signore\]: “Fai viaggiare di notte i Miei servi: sarete inseguiti.
 
 # 4438
 
@@ -17842,7 +17842,7 @@ In verità l'albero di Zaqqûm,
 
 # 4459
 
-Ribollirà nel [suo] ventre come metallo liquefatto,
+Ribollirà nel \[suo\] ventre come metallo liquefatto,
 
 # 4460
 
@@ -17858,7 +17858,7 @@ e gli si versi sul capo il castigo dell'acqua bollente.
 
 # 4463
 
-Gusta [questo]: sei forse tu l'eccelso, il nobile?”
+Gusta \[questo\]: sei forse tu l'eccelso, il nobile?”
 
 # 4464
 
@@ -17886,7 +17886,7 @@ Colà chiederanno senza timore ogni tipo di frutto.
 
 # 4470
 
-E non proveranno altra morte oltre a quella prima morte [terrena]. [Allah] li ha preservati dal tormento della Fornace,
+E non proveranno altra morte oltre a quella prima morte \[terrena\]. \[Allah\] li ha preservati dal tormento della Fornace,
 
 # 4471
 
@@ -17894,7 +17894,7 @@ per grazia del tuo Signore: questa è la più grande beatitudine.
 
 # 4472
 
-Abbiamo reso facile questo [Corano], nel tuo idioma, affinché riflettano.
+Abbiamo reso facile questo \[Corano\], nel tuo idioma, affinché riflettano.
 
 # 4473
 
@@ -17914,7 +17914,7 @@ In verità nei cieli e sulla terra ci sono segni per coloro che credono,
 
 # 4477
 
-nella vostra creazione e negli animali che dissemina [sulla terra], ci sono segni per coloro che credono con fermezza.
+nella vostra creazione e negli animali che dissemina \[sulla terra\], ci sono segni per coloro che credono con fermezza.
 
 # 4478
 
@@ -17922,7 +17922,7 @@ Nell'alternarsi della notte e del giorno, nell'acqua che Allah fa scendere dal c
 
 # 4479
 
-Ecco i versetti di Allah, che noi ti recitiamo in tutta verità. In quale discorso e in quali segni potranno credere, oltre a [quelli] di Allah?
+Ecco i versetti di Allah, che noi ti recitiamo in tutta verità. In quale discorso e in quali segni potranno credere, oltre a \[quelli\] di Allah?
 
 # 4480
 
@@ -17950,11 +17950,11 @@ Allah è Colui Che ha messo il mare al vostro servizio, affinché vi scivoli la 
 
 # 4486
 
-E vi ha sottomesso tutto quello che è nei cieli e sulla terra: tutto [proviene] da Lui. In verità in ciò vi sono segni per coloro che riflettono.
+E vi ha sottomesso tutto quello che è nei cieli e sulla terra: tutto \[proviene\] da Lui. In verità in ciò vi sono segni per coloro che riflettono.
 
 # 4487
 
-Di' ai credenti di perdonare coloro che non sperano nei Giorni di Allah: [Egli] compenserà ogni popolo per quello che si è meritato.
+Di' ai credenti di perdonare coloro che non sperano nei Giorni di Allah: \[Egli\] compenserà ogni popolo per quello che si è meritato.
 
 # 4488
 
@@ -17966,7 +17966,7 @@ Già abbiamo dato ai Figli di Israele la Scrittura, la saggezza e la profezia. C
 
 # 4490
 
-Demmo loro prove evidenti del [Nostro] Ordine; non si divisero, astiosi gli uni con gli altri se non dopo che giunse loro la scienza. In verità nel Giorno della Resurrezione il tuo Signore giudicherà tra di loro, a proposito delle loro divergenze.
+Demmo loro prove evidenti del \[Nostro\] Ordine; non si divisero, astiosi gli uni con gli altri se non dopo che giunse loro la scienza. In verità nel Giorno della Resurrezione il tuo Signore giudicherà tra di loro, a proposito delle loro divergenze.
 
 # 4491
 
@@ -17978,7 +17978,7 @@ Non potranno giovarti in nulla contro Allah. In verità gli ingiusti sono alleat
 
 # 4493
 
-Questo [Corano] per gli uomini, è un appello al veder chiaro, una guida e una misericordia per coloro che credono fermamente.
+Questo \[Corano\] per gli uomini, è un appello al veder chiaro, una guida e una misericordia per coloro che credono fermamente.
 
 # 4494
 
@@ -17990,7 +17990,7 @@ Allah creò in tutta verità i cieli e la terra, affinché ogni uomo sia compens
 
 # 4496
 
-Non ha visto quello che assume a divinità le sue passioni? Allah scientemente lo allontana, suggella il suo udito e il suo cuore e stende un velo sui suoi occhi. Chi lo potrà dirigere dopo che Allah [lo ha sviato]? Non rifletterete dunque?
+Non ha visto quello che assume a divinità le sue passioni? Allah scientemente lo allontana, suggella il suo udito e il suo cuore e stende un velo sui suoi occhi. Chi lo potrà dirigere dopo che Allah \[lo ha sviato\]? Non rifletterete dunque?
 
 # 4497
 
@@ -18006,7 +18006,7 @@ Di': “Allah vi dà la vita e poi vi dà la morte, quindi vi riunirà nel Giorn
 
 # 4500
 
-[Appartiene] ad Allah la sovranità dei cieli e della terra; e nel Giorno in cui scoccherà l'Ora, saranno perduti i seguaci della falsità.
+\[Appartiene\] ad Allah la sovranità dei cieli e della terra; e nel Giorno in cui scoccherà l'Ora, saranno perduti i seguaci della falsità.
 
 # 4501
 
@@ -18014,7 +18014,7 @@ E vedrai ogni comunità genuflessa. Ogni comunità sarà convocata davanti al su
 
 # 4502
 
-Ecco il Nostro Libro che rivela la verità su di voi: sì, abbiamo tenuto nota di [tutto] ciò che facevate.
+Ecco il Nostro Libro che rivela la verità su di voi: sì, abbiamo tenuto nota di \[tutto\] ciò che facevate.
 
 # 4503
 
@@ -18022,7 +18022,7 @@ Quanto a coloro che avranno creduto e compiuto il bene, il Signore li accoglier�
 
 # 4504
 
-A coloro che invece non avranno creduto [sarà detto]: “Non vi sono stati recitati i Miei versetti? Ma eravate superbi ed eravate un popolo di malvagi”.
+A coloro che invece non avranno creduto \[sarà detto\]: “Non vi sono stati recitati i Miei versetti? Ma eravate superbi ed eravate un popolo di malvagi”.
 
 # 4505
 
@@ -18030,7 +18030,7 @@ Quando si diceva: “In verità la promessa di Allah è veritiera e non c'è dub
 
 # 4506
 
-Appariranno loro [le conseguenze] di quel che avranno fatto e ciò di cui si burlavano li avvolgerà.
+Appariranno loro \[le conseguenze\] di quel che avranno fatto e ciò di cui si burlavano li avvolgerà.
 
 # 4507
 
@@ -18046,7 +18046,7 @@ La lode appartiene ad Allah, Signore dei cieli e della terra, Signore dei mondi.
 
 # 4510
 
-[Appartiene] a Lui la magnificenza dei cieli e della terra. Egli è l'Eccelso, il Saggio.
+\[Appartiene\] a Lui la magnificenza dei cieli e della terra. Egli è l'Eccelso, il Saggio.
 
 # 4511
 
@@ -18062,7 +18062,7 @@ Non creammo i cieli e la terra e quel che vi è frammezzo se non con verità e f
 
 # 4514
 
-Di': “Guardate coloro che invocate all'infuori di Allah? Mostratemi quel che hanno creato della terra. Oppure è nei cieli che sono associati [ad Allah]? Se siete sinceri, portate una Scrittura anteriore a questa, o una traccia di scienza”.
+Di': “Guardate coloro che invocate all'infuori di Allah? Mostratemi quel che hanno creato della terra. Oppure è nei cieli che sono associati \[ad Allah\]? Se siete sinceri, portate una Scrittura anteriore a questa, o una traccia di scienza”.
 
 # 4515
 
@@ -18078,7 +18078,7 @@ Quando vengono recitati loro i Nostri versetti espliciti, i miscredenti dicono d
 
 # 4518
 
-Oppure dicono: “L'ha inventato lui”. Di': “Se l'avessi inventato io, non potreste fare nulla per me contro [la punizione di] Allah. Egli ben conosce quello che propalate ed è testimone sufficiente tra me e voi”. Egli è il Perdonatore, il Misericordioso.
+Oppure dicono: “L'ha inventato lui”. Di': “Se l'avessi inventato io, non potreste fare nulla per me contro \[la punizione di\] Allah. Egli ben conosce quello che propalate ed è testimone sufficiente tra me e voi”. Egli è il Perdonatore, il Misericordioso.
 
 # 4519
 
@@ -18110,23 +18110,23 @@ Abbiamo ordinato all'uomo la bontà verso i genitori: sua madre lo ha portato co
 
 # 4526
 
-Accetteremo le loro azioni più belle e sorvoleremo sui loro misfatti. [Saranno] tra i compagni del Giardino. Promessa veritiera fatta a loro.
+Accetteremo le loro azioni più belle e sorvoleremo sui loro misfatti. \[Saranno\] tra i compagni del Giardino. Promessa veritiera fatta a loro.
 
 # 4527
 
-Quanto invece a colui che dice ai suoi genitori: “Uffa a voi; vorreste promettermi che sarò fatto risorgere, quando già passarono molte generazioni prima di me?”, essi invocheranno l'ausilio di Allah [dicendo]: “Guai a te! Credi, ché la promessa di Allah è veritiera”.
+Quanto invece a colui che dice ai suoi genitori: “Uffa a voi; vorreste promettermi che sarò fatto risorgere, quando già passarono molte generazioni prima di me?”, essi invocheranno l'ausilio di Allah \[dicendo\]: “Guai a te! Credi, ché la promessa di Allah è veritiera”.
 
 # 4528
 
-Essi sono coloro contro i quali si realizza la sentenza, [come si realizzò] fra le comunità di uomini e di dèmoni che li precedettero: in verità saranno i perdenti.
+Essi sono coloro contro i quali si realizza la sentenza, \[come si realizzò\] fra le comunità di uomini e di dèmoni che li precedettero: in verità saranno i perdenti.
 
 # 4529
 
-Ci saranno gradi [di merito] per ciascuno di loro in base a quello che avranno fatto. [Allah] li compenserà pienamente delle loro opere e non subiranno alcun torto.
+Ci saranno gradi \[di merito\] per ciascuno di loro in base a quello che avranno fatto. \[Allah\] li compenserà pienamente delle loro opere e non subiranno alcun torto.
 
 # 4530
 
-Nel Giorno in cui i miscredenti saranno condotti al Fuoco, [sarà detto loro]: “Avete dissipato i vostri beni nella vita terrena e ne avete goduto. Oggi siete compensati con un castigo avvilente, per l'orgoglio che, senza alcun diritto, manifestavate sulla terra e per la vostra perversione.
+Nel Giorno in cui i miscredenti saranno condotti al Fuoco, \[sarà detto loro\]: “Avete dissipato i vostri beni nella vita terrena e ne avete goduto. Oggi siete compensati con un castigo avvilente, per l'orgoglio che, senza alcun diritto, manifestavate sulla terra e per la vostra perversione.
 
 # 4531
 
@@ -18146,7 +18146,7 @@ Quando videro una densa nuvola dirigersi verso le loro valli, dissero: “Ecco u
 
 # 4535
 
-che tutto distruggerà per ordine del suo Signore. Al mattino non erano visibili che [i resti delle] loro case. Così compensiamo i malvagi.
+che tutto distruggerà per ordine del suo Signore. Al mattino non erano visibili che \[i resti delle\] loro case. Così compensiamo i malvagi.
 
 # 4536
 
@@ -18154,7 +18154,7 @@ Avevamo dato loro mezzi che a voi non abbiamo dato. Avevamo donato loro l'udito,
 
 # 4537
 
-Già annientammo le città attorno a voi, eppure avevamo mostrato loro i Nostri segni affinché ritornassero [a Noi pentiti].
+Già annientammo le città attorno a voi, eppure avevamo mostrato loro i Nostri segni affinché ritornassero \[a Noi pentiti\].
 
 # 4538
 
@@ -18162,19 +18162,19 @@ Perché mai non li soccorsero coloro che si erano presi come intermediari e dèi
 
 # 4539
 
-E [ricorda] quando ti conducemmo una schiera di dèmoni affinché ascoltassero il Corano; si presentarono dicendosi: “[Ascoltate in] silenzio”. Quando poi [la lettura] fu conclusa, fecero ritorno al loro popolo per avvertirlo.
+E \[ricorda\] quando ti conducemmo una schiera di dèmoni affinché ascoltassero il Corano; si presentarono dicendosi: “\[Ascoltate in\] silenzio”. Quando poi \[la lettura\] fu conclusa, fecero ritorno al loro popolo per avvertirlo.
 
 # 4540
 
-Dissero: “O popolo nostro, in verità abbiamo sentito [la recitazione] di un Libro rivelato dopo [quello di] Mosè, a conferma di quello che lo precede: guida alla verità e alla retta via.
+Dissero: “O popolo nostro, in verità abbiamo sentito \[la recitazione\] di un Libro rivelato dopo \[quello di\] Mosè, a conferma di quello che lo precede: guida alla verità e alla retta via.
 
 # 4541
 
-O popolo nostro, rispondete all'Araldo di Allah e credete in Lui, affinché Egli vi perdoni una [parte dei] vostri peccati e vi preservi dal doloroso castigo.
+O popolo nostro, rispondete all'Araldo di Allah e credete in Lui, affinché Egli vi perdoni una \[parte dei\] vostri peccati e vi preservi dal doloroso castigo.
 
 # 4542
 
-Quanto a colui che non risponde all'Araldo di Allah, non potrà diminuire [la Sua potenza] sulla terra e non avrà patroni all'infuori di Lui. Costoro sono in manifesto errore.
+Quanto a colui che non risponde all'Araldo di Allah, non potrà diminuire \[la Sua potenza\] sulla terra e non avrà patroni all'infuori di Lui. Costoro sono in manifesto errore.
 
 # 4543
 
@@ -18182,11 +18182,11 @@ Non vedono che Allah ha creato i cieli e la terra, che non Si è stancato della 
 
 # 4544
 
-E il Giorno in cui i miscredenti saranno condotti al Fuoco [verrà chiesto loro]: “Non è questa la verità?”. Diranno: “Sì, per il nostro Signore!”. Dirà [Allah]: “Gustate allora il castigo della vostra miscredenza”.
+E il Giorno in cui i miscredenti saranno condotti al Fuoco \[verrà chiesto loro\]: “Non è questa la verità?”. Diranno: “Sì, per il nostro Signore!”. Dirà \[Allah\]: “Gustate allora il castigo della vostra miscredenza”.
 
 # 4545
 
-Sopporta con pazienza, come sopportarono i messaggeri risoluti. Non cercare di affrettare alcunché per loro. Il Giorno in cui vedranno quel che è stato promesso loro, sarà come se fossero rimasti solo un'ora del giorno. [Questo è solo un] annuncio: chi altri sarà annientato se non i perversi?
+Sopporta con pazienza, come sopportarono i messaggeri risoluti. Non cercare di affrettare alcunché per loro. Il Giorno in cui vedranno quel che è stato promesso loro, sarà come se fossero rimasti solo un'ora del giorno. \[Questo è solo un\] annuncio: chi altri sarà annientato se non i perversi?
 
 # 4546
 
@@ -18198,11 +18198,11 @@ Rimetterà i peccati e volgerà al bene lo spirito di coloro che credono e compi
 
 # 4548
 
-perché i miscredenti seguono il falso, mentre i credenti seguono la verità [proveniente] dal loro Signore. Così Allah propone il loro esempio agli uomini.
+perché i miscredenti seguono il falso, mentre i credenti seguono la verità \[proveniente\] dal loro Signore. Così Allah propone il loro esempio agli uomini.
 
 # 4549
 
-Quando [in combattimento] incontrate i miscredenti, colpiteli al collo finché non li abbiate soggiogati, poi legateli strettamente. In seguito liberateli graziosamente o in cambio di un riscatto, finché la guerra non abbia fine. Questo è [l'ordine di Allah]. Se Allah avesse voluto, li avrebbe sconfitti, ma ha voluto mettervi alla prova, gli uni contro gli altri. E farà sì che non vadano perdute le opere di coloro che saranno stati uccisi sulla via di Allah:
+Quando \[in combattimento\] incontrate i miscredenti, colpiteli al collo finché non li abbiate soggiogati, poi legateli strettamente. In seguito liberateli graziosamente o in cambio di un riscatto, finché la guerra non abbia fine. Questo è \[l'ordine di Allah\]. Se Allah avesse voluto, li avrebbe sconfitti, ma ha voluto mettervi alla prova, gli uni contro gli altri. E farà sì che non vadano perdute le opere di coloro che saranno stati uccisi sulla via di Allah:
 
 # 4550
 
@@ -18214,7 +18214,7 @@ e li introdurrà nel Paradiso di cui li ha resi edotti.
 
 # 4552
 
-O credenti, se farete trionfare [la causa di] Allah, Egli vi soccorrerà e renderà saldi i vostri passi,
+O credenti, se farete trionfare \[la causa di\] Allah, Egli vi soccorrerà e renderà saldi i vostri passi,
 
 # 4553
 
@@ -18246,7 +18246,7 @@ Colui che si basa su una prova del suo Signore è forse eguale a colui cui è st
 
 # 4560
 
-[Ecco] la descrizione del Giardino che è stata promessa ai timorati [di Allah]: ci saranno ruscelli di un'acqua che mai sarà malsana e ruscelli di latte dal gusto inalterabile e ruscelli di un vino delizioso a bersi, e ruscelli di miele purificato. E ci saranno, per loro, ogni sorta di frutta e il perdono del loro Signore. Essi sono forse simili a coloro che rimangono in perpetuo nel Fuoco e che verranno abbeverati di un'acqua bollente che devasterà le loro viscere?
+\[Ecco\] la descrizione del Giardino che è stata promessa ai timorati \[di Allah\]: ci saranno ruscelli di un'acqua che mai sarà malsana e ruscelli di latte dal gusto inalterabile e ruscelli di un vino delizioso a bersi, e ruscelli di miele purificato. E ci saranno, per loro, ogni sorta di frutta e il perdono del loro Signore. Essi sono forse simili a coloro che rimangono in perpetuo nel Fuoco e che verranno abbeverati di un'acqua bollente che devasterà le loro viscere?
 
 # 4561
 
@@ -18254,11 +18254,11 @@ Fra loro ci sono quelli che fanno finta di ascoltarti, ma, quando sono usciti da
 
 # 4562
 
-Quanto invece a coloro che si sono aperti alla guida, Egli accresce la loro guida e ispira loro il timore [di Allah].
+Quanto invece a coloro che si sono aperti alla guida, Egli accresce la loro guida e ispira loro il timore \[di Allah\].
 
 # 4563
 
-Cos'altro aspettano [i miscredenti], se non che venga improvvisa l'Ora? Già i segni precursori son giunti, ma quando Essa sarà giunta, a che cosa mai servirà loro il ricordarsi [di Allah]?
+Cos'altro aspettano \[i miscredenti\], se non che venga improvvisa l'Ora? Già i segni precursori son giunti, ma quando Essa sarà giunta, a che cosa mai servirà loro il ricordarsi \[di Allah\]?
 
 # 4564
 
@@ -18298,7 +18298,7 @@ Cosa faranno, quando gli angeli li finiranno colpendo i loro volti e le loro sch
 
 # 4573
 
-Ciò [avverrà] perché perseguono quello che suscita l'ira di Allah e hanno in odio ciò di cui Egli Si compiace, sicché [Allah] renderà vane le opere loro.
+Ciò \[avverrà\] perché perseguono quello che suscita l'ira di Allah e hanno in odio ciò di cui Egli Si compiace, sicché \[Allah\] renderà vane le opere loro.
 
 # 4574
 
@@ -18326,7 +18326,7 @@ In verità Allah non perdonerà mai coloro che non credono, distolgono dalla Via
 
 # 4580
 
-Non siate dunque deboli e non proponete l'armistizio mentre siete preponderanti. Allah è con voi e non diminuirà [il valore del]le vostre azioni.
+Non siate dunque deboli e non proponete l'armistizio mentre siete preponderanti. Allah è con voi e non diminuirà \[il valore del\]le vostre azioni.
 
 # 4581
 
@@ -18354,11 +18354,11 @@ e affinché Allah ti presti ausilio possente.
 
 # 4587
 
-Egli è Colui Che ha fatto scendere la Pace nel cuore dei credenti, affinché possano accrescere la loro fede: [appartengono] ad Allah le armate dei cieli e della terra, Allah è sapiente, saggio.
+Egli è Colui Che ha fatto scendere la Pace nel cuore dei credenti, affinché possano accrescere la loro fede: \[appartengono\] ad Allah le armate dei cieli e della terra, Allah è sapiente, saggio.
 
 # 4588
 
-[Lo ha fatto] per far entrare i credenti e le credenti nei Giardini in cui scorrono i ruscelli, dove rimarranno in perpetuo, per mondarli dei loro peccati - questo è successo enorme presso Allah -
+\[Lo ha fatto\] per far entrare i credenti e le credenti nei Giardini in cui scorrono i ruscelli, dove rimarranno in perpetuo, per mondarli dei loro peccati - questo è successo enorme presso Allah -
 
 # 4589
 
@@ -18366,7 +18366,7 @@ e per castigare gli ipocriti e le ipocrite, gli associatori e le associatrici ch
 
 # 4590
 
-[Appartengono] ad Allah le armate dei cieli e della terra, Allah è eccelso, saggio.
+\[Appartengono\] ad Allah le armate dei cieli e della terra, Allah è eccelso, saggio.
 
 # 4591
 
@@ -18378,7 +18378,7 @@ affinché crediate in Allah e nel Suo Messaggero e affinché Lo assistiate, Lo o
 
 # 4593
 
-In verità coloro che prestano giuramento [di fedeltà], è ad Allah che lo prestano: la mano di Allah è sopra le loro mani. Chi mancherà al giuramento lo farà solo a suo danno; a chi invece si atterrà al patto con Allah, Egli concederà una ricompensa immensa.
+In verità coloro che prestano giuramento \[di fedeltà\], è ad Allah che lo prestano: la mano di Allah è sopra le loro mani. Chi mancherà al giuramento lo farà solo a suo danno; a chi invece si atterrà al patto con Allah, Egli concederà una ricompensa immensa.
 
 # 4594
 
@@ -18394,7 +18394,7 @@ Abbiamo preparato la Fiamma per i miscredenti, per coloro che non credono in All
 
 # 4597
 
-[Appartiene] ad Allah la sovranità sui cieli e sulla terra. Egli perdona chi vuole e castiga chi vuole. Allah è perdonatore, misericordioso.
+\[Appartiene\] ad Allah la sovranità sui cieli e sulla terra. Egli perdona chi vuole e castiga chi vuole. Allah è perdonatore, misericordioso.
 
 # 4598
 
@@ -18402,7 +18402,7 @@ Coloro che sono rimasti indietro, quando vi metterete in marcia per impadronirvi
 
 # 4599
 
-Di' a quei beduini che sono rimasti indietro: “Presto sarete chiamati [a combattere] contro gente di grande valore: dovrete combatterli finché non si sottomettono. Se obbedirete, Allah vi darà una bella ricompensa; se invece volgerete le spalle come già le avete voltate, vi punirà con un doloroso castigo”.
+Di' a quei beduini che sono rimasti indietro: “Presto sarete chiamati \[a combattere\] contro gente di grande valore: dovrete combatterli finché non si sottomettono. Se obbedirete, Allah vi darà una bella ricompensa; se invece volgerete le spalle come già le avete voltate, vi punirà con un doloroso castigo”.
 
 # 4600
 
@@ -18410,7 +18410,7 @@ Non ci sarà colpa per il cieco, né per lo storpio, né per il malato. Quanto a
 
 # 4601
 
-Già Allah si è compiaciuto dei credenti quando ti giurarono [fedeltà] sotto l'albero. Sapeva quello che c'era nei loro cuori e fece scendere su di loro la Pace: li ha ricompensati con un'imminente vittoria.
+Già Allah si è compiaciuto dei credenti quando ti giurarono \[fedeltà\] sotto l'albero. Sapeva quello che c'era nei loro cuori e fece scendere su di loro la Pace: li ha ricompensati con un'imminente vittoria.
 
 # 4602
 
@@ -18418,11 +18418,11 @@ e con l'abbondante bottino che raccoglieranno. Allah è eccelso, saggio.
 
 # 4603
 
-Allah vi promette l'abbondante bottino che raccoglierete, ha propiziato questa [tregua] e ha trattenuto le mani di [quegli] uomini, affinché questo sia un segno per i credenti e per guidarvi sulla Retta via.
+Allah vi promette l'abbondante bottino che raccoglierete, ha propiziato questa \[tregua\] e ha trattenuto le mani di \[quegli\] uomini, affinché questo sia un segno per i credenti e per guidarvi sulla Retta via.
 
 # 4604
 
-[Vi ha promesso] altre [vittorie] che allora non erano alla vostra portata, ma Allah li ha soverchiati. Allah è onnipotente.
+\[Vi ha promesso\] altre \[vittorie\] che allora non erano alla vostra portata, ma Allah li ha soverchiati. Allah è onnipotente.
 
 # 4605
 
@@ -18438,15 +18438,15 @@ Egli è Colui Che nella valle della Mecca ha trattenuto da voi le loro mani e da
 
 # 4608
 
-Sono i miscredenti che hanno ostruito la via [per raggiungere] la Santa Moschea e hanno impedito che le vittime sacrificali giungessero al luogo del sacrificio. Se non ci fossero stati uomini credenti e donne credenti che voi non conoscevate e che avreste potuto calpestar inconsapevolmente, rendendovi così colpevoli di una guerra contro di loro... Così Allah farà entrare chi vuole nella Sua misericordia. Se [i credenti] si fossero fatti riconoscere, certamente avremmo colpito con doloroso castigo coloro che non credevano.
+Sono i miscredenti che hanno ostruito la via \[per raggiungere\] la Santa Moschea e hanno impedito che le vittime sacrificali giungessero al luogo del sacrificio. Se non ci fossero stati uomini credenti e donne credenti che voi non conoscevate e che avreste potuto calpestar inconsapevolmente, rendendovi così colpevoli di una guerra contro di loro... Così Allah farà entrare chi vuole nella Sua misericordia. Se \[i credenti\] si fossero fatti riconoscere, certamente avremmo colpito con doloroso castigo coloro che non credevano.
 
 # 4609
 
-E quando i miscredenti riempirono di furore i loro cuori, il furore dell'ignoranza, Allah fece scendere la Sua Pace sul Suo Messaggero e sui credenti e li volse all'espressione del timore [di Allah], di cui erano più degni e più vicini. Allah conosce tutte le cose.
+E quando i miscredenti riempirono di furore i loro cuori, il furore dell'ignoranza, Allah fece scendere la Sua Pace sul Suo Messaggero e sui credenti e li volse all'espressione del timore \[di Allah\], di cui erano più degni e più vicini. Allah conosce tutte le cose.
 
 # 4610
 
-Allah mostrerà la veridicità della visione [concessa] al Suo Messaggero: se Allah vuole, entrerete in sicurezza nella Santa Moschea, le teste rasate [o] i capelli accorciati, senza più avere timore alcuno. Egli conosce quello che voi non conoscete e già ha decretato oltre a ciò una prossima vittoria.
+Allah mostrerà la veridicità della visione \[concessa\] al Suo Messaggero: se Allah vuole, entrerete in sicurezza nella Santa Moschea, le teste rasate \[o\] i capelli accorciati, senza più avere timore alcuno. Egli conosce quello che voi non conoscete e già ha decretato oltre a ciò una prossima vittoria.
 
 # 4611
 
@@ -18466,7 +18466,7 @@ O credenti, non alzate la vostra voce al di sopra di quella del Profeta, e non a
 
 # 4615
 
-Coloro che abbassano la voce davanti all'Inviato di Allah, sono quelli cui Allah ha disposto il cuore al timore [di Lui]. Avranno il perdono e ricompensa immensa.
+Coloro che abbassano la voce davanti all'Inviato di Allah, sono quelli cui Allah ha disposto il cuore al timore \[di Lui\]. Avranno il perdono e ricompensa immensa.
 
 # 4616
 
@@ -18482,15 +18482,15 @@ O credenti, se un malvagio vi reca una notizia, verificatela, affinché non port
 
 # 4619
 
-E sappiate che il Messaggero di Allah è tra voi. Se in molte questioni accondiscendesse ai vostri [desideri], voi sareste in gravi difficoltà; ma Allah vi ha fatto amare la fede e l'ha resa bella ai vostri cuori, così come vi ha fatto detestare la miscredenza, la malvagità e la disobbedienza. Essi sono i ben diretti;
+E sappiate che il Messaggero di Allah è tra voi. Se in molte questioni accondiscendesse ai vostri \[desideri\], voi sareste in gravi difficoltà; ma Allah vi ha fatto amare la fede e l'ha resa bella ai vostri cuori, così come vi ha fatto detestare la miscredenza, la malvagità e la disobbedienza. Essi sono i ben diretti;
 
 # 4620
 
-[questa] è la grazia di Allah e il Suo favore. Allah è sapiente, saggio.
+\[questa\] è la grazia di Allah e il Suo favore. Allah è sapiente, saggio.
 
 # 4621
 
-Se due gruppi di credenti combattono tra loro, riconciliateli. Se poi [ancora] uno di loro commettesse degli eccessi, combattete quello che eccede, finché non si pieghi all'Ordine di Allah. Quando si sarà piegato, ristabilite, con giustizia, la concordia tra di loro e siate equi, poiché Allah ama coloro che giudicano con equità.
+Se due gruppi di credenti combattono tra loro, riconciliateli. Se poi \[ancora\] uno di loro commettesse degli eccessi, combattete quello che eccede, finché non si pieghi all'Ordine di Allah. Quando si sarà piegato, ristabilite, con giustizia, la concordia tra di loro e siate equi, poiché Allah ama coloro che giudicano con equità.
 
 # 4622
 
@@ -18510,7 +18510,7 @@ O uomini, vi abbiamo creato da un maschio e una femmina e abbiamo fatto di voi p
 
 # 4626
 
-I Beduini hanno detto: “Crediamo”. Di': “Voi non credete. Dite piuttosto ci sottomettiamo", poiché la fede non è ancora penetrata nei vostri cuori. Se obbedirete ad Allah e al Suo Inviato, Egli non trascurerà nessuna delle vostre [buone] azioni. In verità Allah è perdonatore, misericordioso”.
+I Beduini hanno detto: “Crediamo”. Di': “Voi non credete. Dite piuttosto ci sottomettiamo", poiché la fede non è ancora penetrata nei vostri cuori. Se obbedirete ad Allah e al Suo Inviato, Egli non trascurerà nessuna delle vostre \[buone\] azioni. In verità Allah è perdonatore, misericordioso”.
 
 # 4627
 
@@ -18522,7 +18522,7 @@ Di': “Sareste forse voi ad istruire Allah sulla vostra religione, mentre Allah
 
 # 4629
 
-Vantano questa sottomissione, come fosse un favore da parte loro. Di': “Non rinfacciatemi il vostro Islàm come se fosse un favore. È piuttosto Allah Che vi ricorda il Suo favore di avervi guidati verso la fede, [che otterrete] se siete sinceri.
+Vantano questa sottomissione, come fosse un favore da parte loro. Di': “Non rinfacciatemi il vostro Islàm come se fosse un favore. È piuttosto Allah Che vi ricorda il Suo favore di avervi guidati verso la fede, \[che otterrete\] se siete sinceri.
 
 # 4630
 
@@ -18542,7 +18542,7 @@ Ma come, quando saremo morti e ridotti in polvere...? Sarebbe tornare da lontano
 
 # 4634
 
-Ben sappiamo quel che la terra divorerà, presso di Noi c'è un Libro che conserva [ogni cosa].
+Ben sappiamo quel che la terra divorerà, presso di Noi c'è un Libro che conserva \[ogni cosa\].
 
 # 4635
 
@@ -18558,7 +18558,7 @@ E la terra l'abbiamo distesa, vi infiggemmo le montagne e vi facemmo crescere og
 
 # 4638
 
-invito [questo] alla riflessione e monito per ogni servo penitente.
+invito \[questo\] alla riflessione e monito per ogni servo penitente.
 
 # 4639
 
@@ -18570,11 +18570,11 @@ e palme slanciate dalle spate sovrapposte,
 
 # 4641
 
-sostentamento dei [Nostri] servi. Per suo tramite rivivifichiamo una terra che era morta, e in egual maniera [avverrà] la Resurrezione.
+sostentamento dei \[Nostri\] servi. Per suo tramite rivivifichiamo una terra che era morta, e in egual maniera \[avverrà\] la Resurrezione.
 
 # 4642
 
-Prima di loro tacciarono di menzogna [i Nostri segni] il popolo di Noè e quelli di ar-Rass, i Thamûd
+Prima di loro tacciarono di menzogna \[i Nostri segni\] il popolo di Noè e quelli di ar-Rass, i Thamûd
 
 # 4643
 
@@ -18586,7 +18586,7 @@ e le genti di al-'Aykah e il popolo di Tubba: tutti quanti accusarono di menzogn
 
 # 4645
 
-Saremmo forse spossati dalla prima creazione? No, sono invece loro ad essere confusi [a proposito] della nuova creazione.
+Saremmo forse spossati dalla prima creazione? No, sono invece loro ad essere confusi \[a proposito\] della nuova creazione.
 
 # 4646
 
@@ -18594,11 +18594,11 @@ In verità siamo stati Noi ad aver creato l'uomo e conosciamo ciò che gli sussu
 
 # 4647
 
-Quando i due che registrano seduti alla sua destra e alla sua sinistra, raccoglieranno [il suo dire],
+Quando i due che registrano seduti alla sua destra e alla sua sinistra, raccoglieranno \[il suo dire\],
 
 # 4648
 
-[l'uomo] non pronuncerà nessuna parola senza che presso di lui ci sia un osservatore solerte.
+\[l'uomo\] non pronuncerà nessuna parola senza che presso di lui ci sia un osservatore solerte.
 
 # 4649
 
@@ -18614,7 +18614,7 @@ Ogni anima verrà accompagnata da una guida e da un testimone.
 
 # 4652
 
-[Uno dirà]: “Davvero trascuravi tutto ciò: [ora] abbiamo sollevato il tuo velo e quindi oggi la tua vista è acuta”.
+\[Uno dirà\]: “Davvero trascuravi tutto ciò: \[ora\] abbiamo sollevato il tuo velo e quindi oggi la tua vista è acuta”.
 
 # 4653
 
@@ -18638,7 +18638,7 @@ Dirà il suo compagno: “Signore, non sono stato io ad incitarlo alla ribellion
 
 # 4658
 
-Dirà [Allah]: “Non polemizzate al Mio cospetto: già vi resi nota la minaccia.
+Dirà \[Allah\]: “Non polemizzate al Mio cospetto: già vi resi nota la minaccia.
 
 # 4659
 
@@ -18646,7 +18646,7 @@ Di fronte a Me la sentenza non cambia, né sono ingiusto verso i Miei servi”.
 
 # 4660
 
-Il Giorno in cui diremo all'Inferno: “Sei pieno?”, esso risponderà: “C'è altro [da aggiungere]?”.
+Il Giorno in cui diremo all'Inferno: “Sei pieno?”, esso risponderà: “C'è altro \[da aggiungere\]?”.
 
 # 4661
 
@@ -18654,11 +18654,11 @@ Il Giardino sarà avvicinato ai timorati,
 
 # 4662
 
-“Ecco quel che vi è stato promesso, a [voi e a] chi è pentito, a chi si preserva [dal peccato],
+“Ecco quel che vi è stato promesso, a \[voi e a\] chi è pentito, a chi si preserva \[dal peccato\],
 
 # 4663
 
-a chi teme il Compassionevole nell'invisibile e ritorna [a Lui] con cuore contrito.
+a chi teme il Compassionevole nell'invisibile e ritorna \[a Lui\] con cuore contrito.
 
 # 4664
 
@@ -18670,7 +18670,7 @@ colà avranno tutto quel che vorranno e presso di Noi c'è ancora di più.
 
 # 4666
 
-Quante generazioni sterminammo prima di loro, che pure erano più potenti di loro e che inutilmente cercarono, percorrendo le contrade, di sfuggire [al castigo]!
+Quante generazioni sterminammo prima di loro, che pure erano più potenti di loro e che inutilmente cercarono, percorrendo le contrade, di sfuggire \[al castigo\]!
 
 # 4667
 
@@ -18762,7 +18762,7 @@ Il Giorno in cui saranno messi alla prova del Fuoco
 
 # 4689
 
-[sarà detto loro]: “Gustate la vostra prova! Ecco quello che volevate affrettare!”.
+\[sarà detto loro\]: “Gustate la vostra prova! Ecco quello che volevate affrettare!”.
 
 # 4690
 
@@ -18814,7 +18814,7 @@ Poi andò discretamente dai suoi e tornò con un vitello grasso,
 
 # 4702
 
-e l'offrì loro... [Disse]: “Non mangiate nulla?”.
+e l'offrì loro... \[Disse\]: “Non mangiate nulla?”.
 
 # 4703
 
@@ -18830,7 +18830,7 @@ Dissero: “Così ha comandato il tuo Signore. In verità Egli è il Saggio, il 
 
 # 4706
 
-Disse [Abramo]: “O inviati, qual è la vostra missione?”.
+Disse \[Abramo\]: “O inviati, qual è la vostra missione?”.
 
 # 4707
 
@@ -18870,7 +18870,7 @@ Afferrammo lui e le sue truppe e li gettammo nei flutti, per il suo comportament
 
 # 4716
 
-E [ci fu segno] negli Âd, quando inviammo contro di loro il vento devastante
+E \[ci fu segno\] negli Âd, quando inviammo contro di loro il vento devastante
 
 # 4717
 
@@ -18878,7 +18878,7 @@ che nulla lasciava sul suo percorso senza ridurlo in polvere.
 
 # 4718
 
-E [ci fu segno] nei Thamûd, quando fu detto loro: “Godete per un periodo”.
+E \[ci fu segno\] nei Thamûd, quando fu detto loro: “Godete per un periodo”.
 
 # 4719
 
@@ -18890,11 +18890,11 @@ e non poterono restare in piedi né essere soccorsi.
 
 # 4721
 
-Già [distruggemmo] il popolo di Noè: erano gente malvagia.
+Già \[distruggemmo\] il popolo di Noè: erano gente malvagia.
 
 # 4722
 
-Il cielo lo abbiamo costruito con la Nostra potenza e [costantemente] lo estendiamo nell'immensità;
+Il cielo lo abbiamo costruito con la Nostra potenza e \[costantemente\] lo estendiamo nell'immensità;
 
 # 4723
 
@@ -19002,7 +19002,7 @@ Il Giorno in cui saranno spinti brutalmente nel fuoco dell'Inferno,
 
 # 4749
 
-[sarà detto loro]: “Ecco il fuoco che tacciavate di menzogna!
+\[sarà detto loro\]: “Ecco il fuoco che tacciavate di menzogna!
 
 # 4750
 
@@ -19022,11 +19022,11 @@ a godersi quello che il loro Signore avrà dato loro. Il loro Signore li avrà p
 
 # 4754
 
-[Sarà detto loro]: “Mangiate e bevete in serenità, [ricompensa questa] per quel che avete fatto!”.
+\[Sarà detto loro\]: “Mangiate e bevete in serenità, \[ricompensa questa\] per quel che avete fatto!”.
 
 # 4755
 
-[Staranno] appoggiati su divani disposti in ranghi e daremo loro in spose le fanciulle dai grandi occhi neri.
+\[Staranno\] appoggiati su divani disposti in ranghi e daremo loro in spose le fanciulle dai grandi occhi neri.
 
 # 4756
 
@@ -19050,7 +19050,7 @@ Si andranno vicendevolmente incontro, interpellandosi.
 
 # 4761
 
-Diranno: “Vivevamo tra la nostra gente nel timore [di Allah]
+Diranno: “Vivevamo tra la nostra gente nel timore \[di Allah\]
 
 # 4762
 
@@ -19078,7 +19078,7 @@ Di': “Aspettate, ché anch'io aspetterò con voi”.
 
 # 4768
 
-Diranno: “Lo ha inventato lui stesso”. Piuttosto [sono loro che] non vogliono credere.
+Diranno: “Lo ha inventato lui stesso”. Piuttosto \[sono loro che\] non vogliono credere.
 
 # 4769
 
@@ -19102,11 +19102,11 @@ Hanno forse una scala per ascoltare? Chi ascolta per conto loro, lo provi irrefu
 
 # 4774
 
-[Allah] avrebbe forse figlie e voi figli?
+\[Allah\] avrebbe forse figlie e voi figli?
 
 # 4775
 
-Forse chiedi loro un compenso, [tale] che si sentano gravati da un peso insopportabile?
+Forse chiedi loro un compenso, \[tale\] che si sentano gravati da un peso insopportabile?
 
 # 4776
 
@@ -19118,7 +19118,7 @@ Vogliono tramare un'insidia? Saranno piuttosto i miscredenti ad essere ingannati
 
 # 4778
 
-Oppure hanno un altro dio all'infuori di Allah? Gloria a Lui, Egli è ben al di sopra di quanto [Gli] associano.
+Oppure hanno un altro dio all'infuori di Allah? Gloria a Lui, Egli è ben al di sopra di quanto \[Gli\] associano.
 
 # 4779
 
@@ -19126,7 +19126,7 @@ Se vedessero cadere un pezzo di cielo, direbbero: “È un cumulo di nuvole”.
 
 # 4780
 
-Lasciali [stare] dunque, finché non incontreranno quel loro Giorno in cui saranno folgorati,
+Lasciali \[stare\] dunque, finché non incontreranno quel loro Giorno in cui saranno folgorati,
 
 # 4781
 
@@ -19170,7 +19170,7 @@ di saggezza dotato, che compostamente comparve:
 
 # 4791
 
-[si trovava] all'orizzonte più elevato,
+\[si trovava\] all'orizzonte più elevato,
 
 # 4792
 
@@ -19178,7 +19178,7 @@ poi s'avvicinò scendendo ancora più in basso,
 
 # 4793
 
-[finché] fu alla distanza di due archi o meno.
+\[finché\] fu alla distanza di due archi o meno.
 
 # 4794
 
@@ -19270,7 +19270,7 @@ Appartiene ad Allah tutto quello che c'è nei cieli e tutto quello che c'è sull
 
 # 4816
 
-Essi sono coloro che evitano i peccati più gravi e le perversità e non commettono che le colpe più lievi. Invero il perdono del tuo Signore è immenso. Egli vi conosce meglio [di chiunque altro] quando vi ha prodotti dalla terra e quando eravate ancora embrioni nel ventre delle vostre madri. Non vantatevi di essere puri : Egli conosce meglio [di chiunque altro] coloro che[Lo] temono.
+Essi sono coloro che evitano i peccati più gravi e le perversità e non commettono che le colpe più lievi. Invero il perdono del tuo Signore è immenso. Egli vi conosce meglio \[di chiunque altro\] quando vi ha prodotti dalla terra e quando eravate ancora embrioni nel ventre delle vostre madri. Non vantatevi di essere puri : Egli conosce meglio \[di chiunque altro\] coloro che\[Lo\] temono.
 
 # 4817
 
@@ -19278,7 +19278,7 @@ Hai visto colui che ti volge le spalle,
 
 # 4818
 
-che dà poco e poi smette [di dare]?
+che dà poco e poi smette \[di dare\]?
 
 # 4819
 
@@ -19298,11 +19298,11 @@ Che nessuno porterà il fardello di un altro,
 
 # 4823
 
-e che invero, l'uomo non ottiene che il [frutto dei] suoi sforzi ;
+e che invero, l'uomo non ottiene che il \[frutto dei\] suoi sforzi ;
 
 # 4824
 
-e che il suo sforzo gli sarà presentato [nel Giorno del Giudizio]
+e che il suo sforzo gli sarà presentato \[nel Giorno del Giudizio\]
 
 # 4825
 
@@ -19350,11 +19350,11 @@ e i Thamûd, sì che non ne rimase nessuno,
 
 # 4836
 
-come già [accadde] alla gente di Noè, che era ancora più ingiusta e più ribelle,
+come già \[accadde\] alla gente di Noè, che era ancora più ingiusta e più ribelle,
 
 # 4837
 
-e come già annientò le [città] sovvertite :
+e come già annientò le \[città\] sovvertite :
 
 # 4838
 
@@ -19406,15 +19406,15 @@ Tacciano di menzogna e seguono le loro passioni, ma ogni Decreto è prefissato.
 
 # 4850
 
-Certamente sono giunte a loro storie che dovrebbero dissuaderli [dal male],
+Certamente sono giunte a loro storie che dovrebbero dissuaderli \[dal male\],
 
 # 4851
 
-consolidata saggezza. Ma gli avvertimenti non giovano [loro].
+consolidata saggezza. Ma gli avvertimenti non giovano \[loro\].
 
 # 4852
 
-Distogliti da loro [o Muhammad]. Il Giorno in cui l'Araldo chiamerà a qualcosa di orribile,
+Distogliti da loro \[o Muhammad\]. Il Giorno in cui l'Araldo chiamerà a qualcosa di orribile,
 
 # 4853
 
@@ -19426,7 +19426,7 @@ e si precipiteranno impauriti verso l'Araldo. Diranno i miscredenti: “Ecco un 
 
 # 4855
 
-Prima di loro il popolo di Noè già tacciò di menzogna. Tacciarono di menzogna il Nostro servo e dissero: “È un pazzo”. Lo diffidarono [dal predicare].
+Prima di loro il popolo di Noè già tacciò di menzogna. Tacciarono di menzogna il Nostro servo e dissero: “È un pazzo”. Lo diffidarono \[dal predicare\].
 
 # 4856
 
@@ -19442,7 +19442,7 @@ e da tutta la terra scaturirono sorgenti e le acque si mescolarono in un ordine 
 
 # 4859
 
-E lo portammo su [quella fatta di] tavole e chiodi.
+E lo portammo su \[quella fatta di\] tavole e chiodi.
 
 # 4860
 
@@ -19458,7 +19458,7 @@ Quale fu il Mio castigo, quali i Miei moniti !
 
 # 4863
 
-Invero abbiamo reso facile il Corano, che vi servisse da Monito. C'è qualcuno che rifletta [su di esso]?
+Invero abbiamo reso facile il Corano, che vi servisse da Monito. C'è qualcuno che rifletta \[su di esso\]?
 
 # 4864
 
@@ -19478,7 +19478,7 @@ Quale fu il Mio castigo! Quali i Miei moniti!
 
 # 4868
 
-Invero abbiamo reso facile il Corano, che vi servisse da Monito. C'è qualcuno che rifletta [su di esso]?
+Invero abbiamo reso facile il Corano, che vi servisse da Monito. C'è qualcuno che rifletta \[su di esso\]?
 
 # 4869
 
@@ -19490,7 +19490,7 @@ dissero: “Dovremmo seguire un solo mortale fra di noi? Davvero in tal caso sar
 
 # 4871
 
-Ma come? Il Monito è stato affidato solo a lui tra [tutti] noi? È un gran bugiardo, uno sfrontato!”.
+Ma come? Il Monito è stato affidato solo a lui tra \[tutti\] noi? È un gran bugiardo, uno sfrontato!”.
 
 # 4872
 
@@ -19502,11 +19502,11 @@ Manderemo loro la cammella come tentazione: osservali e sii paziente.
 
 # 4874
 
-Informali che devono dividere l'acqua [con la cammella]: ognuno il suo turno per bere.
+Informali che devono dividere l'acqua \[con la cammella\]: ognuno il suo turno per bere.
 
 # 4875
 
-Chiamarono uno dei loro che impugnò [la spada] e le tagliò i garretti.
+Chiamarono uno dei loro che impugnò \[la spada\] e le tagliò i garretti.
 
 # 4876
 
@@ -19518,7 +19518,7 @@ Mandammo contro di loro un solo Grido, rimasero come erba disseccata per gli sta
 
 # 4878
 
-Invero abbiamo reso facile il Corano, che vi servisse da Monito. C'e qualcuno che rifletta [su di esso]?
+Invero abbiamo reso facile il Corano, che vi servisse da Monito. C'e qualcuno che rifletta \[su di esso\]?
 
 # 4879
 
@@ -19538,7 +19538,7 @@ Egli li aveva avvisati del Nostro castigo, ma dubitarono di questi moniti.
 
 # 4883
 
-Pretendevano i suoi ospiti, ma accecammo i loro occhi [dicendo]: “Provate allora il Mio castigo e [la veridicità de] i Miei moniti!”.
+Pretendevano i suoi ospiti, ma accecammo i loro occhi \[dicendo\]: “Provate allora il Mio castigo e \[la veridicità de\] i Miei moniti!”.
 
 # 4884
 
@@ -19546,11 +19546,11 @@ E invero di buon'ora li sorprese un durevole castigo.
 
 # 4885
 
-Provate allora il Mio castigo e [la veridicità de]i Miei moniti!
+Provate allora il Mio castigo e \[la veridicità de\]i Miei moniti!
 
 # 4886
 
-Invero abbiamo reso facile il Corano, che vi servisse da monito. C'e qualcuno che rifletta [su di esso]?
+Invero abbiamo reso facile il Corano, che vi servisse da monito. C'e qualcuno che rifletta \[su di esso\]?
 
 # 4887
 
@@ -19562,7 +19562,7 @@ Smentirono tutti quanti i Nostri segni, perciò Li afferrammo con la presa di un
 
 # 4889
 
-I vostri miscredenti [o meccani] sono migliori di quelli? Ci son forse nelle Scritture delle immunità a vostro favore?
+I vostri miscredenti \[o meccani\] sono migliori di quelli? Ci son forse nelle Scritture delle immunità a vostro favore?
 
 # 4890
 
@@ -19582,7 +19582,7 @@ In verità i malvagi sono nello smarrimento e nella follia.
 
 # 4894
 
-Il Giorno in cui saranno trascinati sui loro volti fino al Fuoco [sarà detto loro]: “Gustate il contatto del Calore che brucia!”.
+Il Giorno in cui saranno trascinati sui loro volti fino al Fuoco \[sarà detto loro\]: “Gustate il contatto del Calore che brucia!”.
 
 # 4895
 
@@ -19590,7 +19590,7 @@ Ogni cosa creammo in giusta misura,
 
 # 4896
 
-e il Nostro ordine è una sola parola, [istantaneo] come battito di ciglia.
+e il Nostro ordine è una sola parola, \[istantaneo\] come battito di ciglia.
 
 # 4897
 
@@ -19630,7 +19630,7 @@ e gli ha insegnato ad esprimersi.
 
 # 4906
 
-Il sole e la luna [si muovono] secondo calcolo [preciso].
+Il sole e la luna \[si muovono\] secondo calcolo \[preciso\].
 
 # 4907
 
@@ -19690,7 +19690,7 @@ Ha lasciato liberi mari affinché si incontrassero,
 
 # 4921
 
-[ma] fra loro vi è una barriera che non possono oltrepassare.
+\[ma\] fra loro vi è una barriera che non possono oltrepassare.
 
 # 4922
 
@@ -19706,7 +19706,7 @@ Quale dunque dei benefici del vostro Signore negherete?
 
 # 4925
 
-A Lui [appartengono] le navi, alte sul mare come colline.
+A Lui \[appartengono\] le navi, alte sul mare come colline.
 
 # 4926
 
@@ -19718,7 +19718,7 @@ Tutto quel che è sulla terra è destinato a perire,
 
 # 4928
 
-[solo] rimarrà il Volto del tuo Signore, pieno di Maestà e di Magnificenza.
+\[solo\] rimarrà il Volto del tuo Signore, pieno di Maestà e di Magnificenza.
 
 # 4929
 
@@ -19726,7 +19726,7 @@ Quale dunque dei benefici del vostro Signore negherete?
 
 # 4930
 
-Lo invocano tutti quelli che sono nei cieli e sulla terra. È ogni giorno in [nuova] opera.
+Lo invocano tutti quelli che sono nei cieli e sulla terra. È ogni giorno in \[nuova\] opera.
 
 # 4931
 
@@ -19742,7 +19742,7 @@ Quale dunque dei benefici del vostro Signore negherete?
 
 # 4934
 
-O consesso dei dèmoni e degli uomini, se potrete varcare i limiti dei cieli e della terra, fatelo. Non fuggirete senza un'autorità [proveniente da Allah].
+O consesso dei dèmoni e degli uomini, se potrete varcare i limiti dei cieli e della terra, fatelo. Non fuggirete senza un'autorità \[proveniente da Allah\].
 
 # 4935
 
@@ -19782,7 +19782,7 @@ Quale dunque dei benefici del vostro Signore negherete?
 
 # 4944
 
-[Sarà detto loro:] “Ecco l'Inferno che i colpevoli negavano!”
+\[Sarà detto loro:\] “Ecco l'Inferno che i colpevoli negavano!”
 
 # 4945
 
@@ -19794,7 +19794,7 @@ Quale dunque dei benefici del vostro Signore negherete?
 
 # 4947
 
-Per chi avrà temuto di presentarsi [al cospetto] del suo Signore ci saranno due Giardini.
+Per chi avrà temuto di presentarsi \[al cospetto\] del suo Signore ci saranno due Giardini.
 
 # 4948
 
@@ -19826,7 +19826,7 @@ Quale dunque dei benefici del vostro Signore negherete?
 
 # 4955
 
-Saranno appoggiati, [i loro ospiti], su divani rivestiti internamente di broccato, e i frutti dei due giardini saranno a portata di mano.
+Saranno appoggiati, \[i loro ospiti\], su divani rivestiti internamente di broccato, e i frutti dei due giardini saranno a portata di mano.
 
 # 4956
 
@@ -19858,7 +19858,7 @@ Quale dunque dei benefici del vostro Signore negherete?
 
 # 4963
 
-E [ci saranno] altri due giardini oltre a quelli.
+E \[ci saranno\] altri due giardini oltre a quelli.
 
 # 4964
 
@@ -19890,7 +19890,7 @@ Quale dunque dei benefici del vostro Signore negherete?
 
 # 4971
 
-E [fanciulle] pie e belle.
+E \[fanciulle\] pie e belle.
 
 # 4972
 
@@ -19934,7 +19934,7 @@ la cui venuta nessuno potrà negare,
 
 # 4982
 
-abbasserà [qualcuno e altri] innalzerà!
+abbasserà \[qualcuno e altri\] innalzerà!
 
 # 4983
 
@@ -19950,7 +19950,7 @@ saranno polvere dispersa,
 
 # 4986
 
-sarete allora [divisi] in tre gruppi:
+sarete allora \[divisi\] in tre gruppi:
 
 # 4987
 
@@ -19966,7 +19966,7 @@ i primi... sono davvero i primi!
 
 # 4990
 
-Saranno i ravvicinati [ad Allah],
+Saranno i ravvicinati \[ad Allah\],
 
 # 4991
 
@@ -19994,7 +19994,7 @@ Vagheranno tra loro fanciulli di eterna giovinezza,
 
 # 4997
 
-[recanti] coppe, brocche e calici di bevanda sorgiva,
+\[recanti\] coppe, brocche e calici di bevanda sorgiva,
 
 # 4998
 
@@ -20010,7 +20010,7 @@ e le carni d'uccello che desidereranno.
 
 # 5001
 
-E [ci saranno colà] le fanciulle dai grandi occhi neri,
+E \[ci saranno colà\] le fanciulle dai grandi occhi neri,
 
 # 5002
 
@@ -20034,7 +20034,7 @@ E i compagni della destra; chi sono i compagni della destra?
 
 # 5007
 
-[Saranno] tra i loti senza spine,
+\[Saranno\] tra i loti senza spine,
 
 # 5008
 
@@ -20090,7 +20090,7 @@ E i compagni della sinistra, chi sono i compagni della sinistra?
 
 # 5021
 
-[saranno esposti a] un vento bruciante, all'acqua bollente,
+\[saranno esposti a\] un vento bruciante, all'acqua bollente,
 
 # 5022
 
@@ -20114,7 +20114,7 @@ e dicevano: “Dopo che saremo morti e ridotti in polvere ed ossa, saremo forse 
 
 # 5027
 
-E [così pure] i nostri avi?”.
+E \[così pure\] i nostri avi?”.
 
 # 5028
 
@@ -20166,7 +20166,7 @@ Abbiamo decretato per voi la morte e non potremo essere sopravanzati
 
 # 5040
 
-nel sostituirvi con altri simili a voi e nel farvi rinascere [in forme] che ancora non conoscete.
+nel sostituirvi con altri simili a voi e nel farvi rinascere \[in forme\] che ancora non conoscete.
 
 # 5041
 
@@ -20182,7 +20182,7 @@ siete voi a seminare o siamo Noi i Seminatori?
 
 # 5044
 
-Certamente se volessimo ne faremmo paglia secca e allora stupireste [e direste]:
+Certamente se volessimo ne faremmo paglia secca e allora stupireste \[e direste\]:
 
 # 5045
 
@@ -20210,7 +20210,7 @@ Non riflettete sul fuoco che ottenete sfregando,
 
 # 5051
 
-siete stati voi a far crescere l'albero [che lo alimenta] o siamo stati Noi?
+siete stati voi a far crescere l'albero \[che lo alimenta\] o siamo stati Noi?
 
 # 5052
 
@@ -20226,7 +20226,7 @@ Lo giuro per il declino delle stelle
 
 # 5055
 
-- e questo è giuramento solenne, se lo sapeste -
+\- e questo è giuramento solenne, se lo sapeste -
 
 # 5056
 
@@ -20234,7 +20234,7 @@ che questo è in verità un Corano nobilissimo,
 
 # 5057
 
-[contenuto] in un Libro custodito
+\[contenuto\] in un Libro custodito
 
 # 5058
 
@@ -20254,7 +20254,7 @@ La vostra riconoscenza sarà tacciarlo di menzogna?
 
 # 5062
 
-Perché mai, quando [l'anima] risale alla gola
+Perché mai, quando \[l'anima\] risale alla gola
 
 # 5063
 
@@ -20274,7 +20274,7 @@ e se siete sinceri, non la ricondurrete ?
 
 # 5067
 
-Se [il morente] fa parte dei ravvicinati [ad Allah],
+Se \[il morente\] fa parte dei ravvicinati \[ad Allah\],
 
 # 5068
 
@@ -20286,7 +20286,7 @@ Se è stato uno dei compagni della destra,
 
 # 5070
 
-[gli sarà detto:] “Pace da parte dei compagni della destra!”.
+\[gli sarà detto:\] “Pace da parte dei compagni della destra!”.
 
 # 5071
 
@@ -20334,11 +20334,11 @@ Fa penetrare la notte nel giorno e il giorno nella notte e conosce perfettamente
 
 # 5082
 
-Credete in Allah e nel Suo Messaggero e date [una parte] di ciò di cui Allah vi ha fatto vicari. Per coloro che credono e saranno generosi, ci sarà ricompensa grande.
+Credete in Allah e nel Suo Messaggero e date \[una parte\] di ciò di cui Allah vi ha fatto vicari. Per coloro che credono e saranno generosi, ci sarà ricompensa grande.
 
 # 5083
 
-Perché mai non credete in Allah, nonostante che il Messaggero vi esorti a credere nel vostro Signore? Egli ha accettato il vostro patto, [rispettatelo] se siete credenti.
+Perché mai non credete in Allah, nonostante che il Messaggero vi esorti a credere nel vostro Signore? Egli ha accettato il vostro patto, \[rispettatelo\] se siete credenti.
 
 # 5084
 
@@ -20346,7 +20346,7 @@ Egli è Colui Che ha fatto scendere sul Suo servo segni evidenti, per trarvi dal
 
 # 5085
 
-Perché non siete generosi per la causa di Allah, quando ad Allah [appartiene] l'eredità dei cieli e della terra? Non sono eguali coloro di voi che sono stati generosi e hanno combattuto prima della Vittoria, essi godranno di un livello più alto - e quelli che saranno generosi e combatteranno dopo. Comunque, a ciascuno di loro Allah ha promesso il meglio. Allah è ben informato di quello che fate.
+Perché non siete generosi per la causa di Allah, quando ad Allah \[appartiene\] l'eredità dei cieli e della terra? Non sono eguali coloro di voi che sono stati generosi e hanno combattuto prima della Vittoria, essi godranno di un livello più alto - e quelli che saranno generosi e combatteranno dopo. Comunque, a ciascuno di loro Allah ha promesso il meglio. Allah è ben informato di quello che fate.
 
 # 5086
 
@@ -20362,7 +20362,7 @@ Il Giorno in cui gli ipocriti e le ipocrite diranno ai credenti: “Aspettateci,
 
 # 5089
 
-“Non eravamo con voi?” grideranno. “Sì - risponderanno _ ma seduceste voi stessi, indugiaste e dubitaste, e vi lasciaste ingannare dalle vostre passioni finché non si realizzò il Decreto di Allah. Vi ingannò a proposito di Allah l'Ingannatore.”
+“Non eravamo con voi?” grideranno. “Sì - risponderanno \_ ma seduceste voi stessi, indugiaste e dubitaste, e vi lasciaste ingannare dalle vostre passioni finché non si realizzò il Decreto di Allah. Vi ingannò a proposito di Allah l'Ingannatore.”
 
 # 5090
 
@@ -20370,7 +20370,7 @@ Quest'oggi non sarà accettato riscatto né da voi, né da coloro che non credet
 
 # 5091
 
-Non è forse giunto, per i credenti, il momento in cui rendere umili i loro cuori nel ricordo di Allah e nella verità che è stata rivelata, e di differenziarsi da quelli che ricevettero la Scrittura in precedenza e che furono tollerati a lungo [da Allah]? I loro cuori si indurirono e molti di loro divennero perversi.
+Non è forse giunto, per i credenti, il momento in cui rendere umili i loro cuori nel ricordo di Allah e nella verità che è stata rivelata, e di differenziarsi da quelli che ricevettero la Scrittura in precedenza e che furono tollerati a lungo \[da Allah\]? I loro cuori si indurirono e molti di loro divennero perversi.
 
 # 5092
 
@@ -20386,7 +20386,7 @@ Coloro che credono in Allah e nei Suoi Messaggeri, essi sono i veridici, i testi
 
 # 5095
 
-Sappiate che questa vita non è altro che gioco e svago, apparenza e reciproca iattanza, vana contesa di beni e progenie. [Essa è] come una pioggia: la vegetazione che suscita, conforta i seminatori, poi appassisce, la vedi ingiallire e quindi diventa stoppia. Nell'altra vita c'è un severo castigo, ma anche perdono e compiacimento da parte di Allah. La vita terrena non è altro che godimento effimero.
+Sappiate che questa vita non è altro che gioco e svago, apparenza e reciproca iattanza, vana contesa di beni e progenie. \[Essa è\] come una pioggia: la vegetazione che suscita, conforta i seminatori, poi appassisce, la vedi ingiallire e quindi diventa stoppia. Nell'altra vita c'è un severo castigo, ma anche perdono e compiacimento da parte di Allah. La vita terrena non è altro che godimento effimero.
 
 # 5096
 
@@ -20394,7 +20394,7 @@ Affrettatevi al perdono del vostro Signore e al Giardino vasto come il cielo e l
 
 # 5097
 
-Non sopravviene sventura né alla terra né a voi stessi, che già non sia scritta in un Libro prima ancora che [Noi] la produciamo; in verità ciò è facile per Allah.
+Non sopravviene sventura né alla terra né a voi stessi, che già non sia scritta in un Libro prima ancora che \[Noi\] la produciamo; in verità ciò è facile per Allah.
 
 # 5098
 
@@ -20402,7 +20402,7 @@ E ciò affinché non abbiate a disperarvi per quello che vi sfugge e non esultia
 
 # 5099
 
-[e] gli avari che impongono agli altri l'avarizia. Quanto a chi volge le spalle, [sappia che] Allah basta a Se stesso, è il Degno di lode.
+\[e\] gli avari che impongono agli altri l'avarizia. Quanto a chi volge le spalle, \[sappia che\] Allah basta a Se stesso, è il Degno di lode.
 
 # 5100
 
@@ -20426,11 +20426,11 @@ La gente della Scrittura sappia che non ha alcun potere sulla Grazia di Allah. I
 
 # 5105
 
-Allah ha udito il discorso di colei che discuteva con te a proposito del suo sposo e si lamentava [davanti] ad Allah. Allah ascoltava il vostro colloquio. Allah è audiente e vede con chiarezza.
+Allah ha udito il discorso di colei che discuteva con te a proposito del suo sposo e si lamentava \[davanti\] ad Allah. Allah ascoltava il vostro colloquio. Allah è audiente e vede con chiarezza.
 
 # 5106
 
-Quanti fra voi che ripudiano le loro mogli dicendo: “Sii per me come la schiena di mia madre” [sappiano che] esse non sono affatto le loro madri. Le loro madri sono quelle che li hanno partoriti. In verità proferiscono qualcosa di riprovevole e una menzogna. Tuttavia Allah è indulgente, perdonatore.
+Quanti fra voi che ripudiano le loro mogli dicendo: “Sii per me come la schiena di mia madre” \[sappiano che\] esse non sono affatto le loro madri. Le loro madri sono quelle che li hanno partoriti. In verità proferiscono qualcosa di riprovevole e una menzogna. Tuttavia Allah è indulgente, perdonatore.
 
 # 5107
 
@@ -20438,7 +20438,7 @@ Coloro che paragonano le loro mogli alla schiena delle loro madri e poi si pento
 
 # 5108
 
-E colui che non ne abbia i mezzi, digiuni [allora] per due mesi consecutivi prima di riprendere i rapporti coniugali. E chi non ne abbia la possibilità nutra sessanta poveri. Ciò [vi è imposto] affinché crediate in Allah e nel Suo Inviato. Questi sono i limiti di Allah. I miscredenti avranno un doloroso castigo.
+E colui che non ne abbia i mezzi, digiuni \[allora\] per due mesi consecutivi prima di riprendere i rapporti coniugali. E chi non ne abbia la possibilità nutra sessanta poveri. Ciò \[vi è imposto\] affinché crediate in Allah e nel Suo Inviato. Questi sono i limiti di Allah. I miscredenti avranno un doloroso castigo.
 
 # 5109
 
@@ -20454,7 +20454,7 @@ Non vedi che Allah conosce quel che è nei cieli e sulla terra ? Non c'è concil
 
 # 5112
 
-Non hai visto coloro ai quali sono stati vietati i conciliaboli? Hanno ricominciato [a fare] quel che era stato loro vietato e tengono conciliaboli peccaminosi, ostili e di disobbedienza nei confronti dell'Inviato.
+Non hai visto coloro ai quali sono stati vietati i conciliaboli? Hanno ricominciato \[a fare\] quel che era stato loro vietato e tengono conciliaboli peccaminosi, ostili e di disobbedienza nei confronti dell'Inviato.
 
 # 5113
 
@@ -20466,7 +20466,7 @@ Il conciliabolo non è altro che opera di Satana, per affliggere i credenti; ma 
 
 # 5115
 
-O credenti, quando vi si dice: “Fate spazio [agli altri] nelle assemblee”, allora fatelo: Allah vi farà spazio [in Paradiso]. E quando vi si dice: “Alzatevi”, fatelo. Allah innalzerà il livello di coloro che credono e che hanno ricevuto la scienza. Allah è ben informato di quel che fate.
+O credenti, quando vi si dice: “Fate spazio \[agli altri\] nelle assemblee”, allora fatelo: Allah vi farà spazio \[in Paradiso\]. E quando vi si dice: “Alzatevi”, fatelo. Allah innalzerà il livello di coloro che credono e che hanno ricevuto la scienza. Allah è ben informato di quel che fate.
 
 # 5116
 
@@ -20474,7 +20474,7 @@ O credenti! Quando desiderate un incontro privato con il Messaggero, fate preced
 
 # 5117
 
-Forse temete [di cadere in miseria] se farete precedere un'elemosina ai vostri incontri privati [con l'Inviato]? Se non lo avrete fatto - e che Allah accolga il vostro pentimento - eseguite l'orazione, versate la decima e obbedite ad Allah e al Suo Inviato. Allah è ben informato di quello che fate.
+Forse temete \[di cadere in miseria\] se farete precedere un'elemosina ai vostri incontri privati \[con l'Inviato\]? Se non lo avrete fatto - e che Allah accolga il vostro pentimento - eseguite l'orazione, versate la decima e obbedite ad Allah e al Suo Inviato. Allah è ben informato di quello che fate.
 
 # 5118
 
@@ -20494,7 +20494,7 @@ I loro beni e la loro progenie non gioveranno loro in alcun modo contro Allah. S
 
 # 5122
 
-Il Giorno in cui Allah li resusciterà tutti, giureranno [davanti] a Lui come giuravano [davanti] a voi, credendo di basarsi su qualcosa [di vero]. Non sono forse loro i bugiardi?
+Il Giorno in cui Allah li resusciterà tutti, giureranno \[davanti\] a Lui come giuravano \[davanti\] a voi, credendo di basarsi su qualcosa \[di vero\]. Non sono forse loro i bugiardi?
 
 # 5123
 
@@ -20534,19 +20534,19 @@ Tutte le palme che abbatteste e quelle che lasciaste ritte sulle loro radici, fu
 
 # 5132
 
-Il bottino che Allah concesse [spetta] al Suo Inviato; non faceste correre [per conquistarlo] né cavalli, né cammelli. Allah fa trionfare i Suoi Inviati su chi vuole, e Allah è onnipotente.
+Il bottino che Allah concesse \[spetta\] al Suo Inviato; non faceste correre \[per conquistarlo\] né cavalli, né cammelli. Allah fa trionfare i Suoi Inviati su chi vuole, e Allah è onnipotente.
 
 # 5133
 
-Il bottino che Allah concesse al Suo Inviato, sugli abitanti delle città, appartiene ad Allah e al Suo Inviato, ai [suoi] familiari, agli orfani, ai poveri e al viandante diseredato, cosicché non sia diviso tra i ricchi fra di voi. Prendete quello che il Messaggero vi dà e astenetevi da quel che vi nega e temete Allah. In verità Allah è severo nel castigo.
+Il bottino che Allah concesse al Suo Inviato, sugli abitanti delle città, appartiene ad Allah e al Suo Inviato, ai \[suoi\] familiari, agli orfani, ai poveri e al viandante diseredato, cosicché non sia diviso tra i ricchi fra di voi. Prendete quello che il Messaggero vi dà e astenetevi da quel che vi nega e temete Allah. In verità Allah è severo nel castigo.
 
 # 5134
 
-[Appartiene] inoltre agli emigrati bisognosi che sono stati scacciati dalle loro case e dai loro beni poiché bramavano la grazia e il compiacimento di Allah, ausiliari di Allah e del Suo Inviato: essi sono i sinceri;
+\[Appartiene\] inoltre agli emigrati bisognosi che sono stati scacciati dalle loro case e dai loro beni poiché bramavano la grazia e il compiacimento di Allah, ausiliari di Allah e del Suo Inviato: essi sono i sinceri;
 
 # 5135
 
-e [appartiene] a quanti prima di loro abitavano il paese e [vivevano] nella fede, che amano quelli che emigrarono presso di loro e non provano in cuore invidia alcuna per ciò che hanno ricevuto e che [li] preferiscono a loro stessi nonostante siano nel bisogno. Coloro che si preservano dalla loro stessa avidità, questi avranno successo.
+e \[appartiene\] a quanti prima di loro abitavano il paese e \[vivevano\] nella fede, che amano quelli che emigrarono presso di loro e non provano in cuore invidia alcuna per ciò che hanno ricevuto e che \[li\] preferiscono a loro stessi nonostante siano nel bisogno. Coloro che si preservano dalla loro stessa avidità, questi avranno successo.
 
 # 5136
 
@@ -20574,7 +20574,7 @@ Sono simili a coloro che di poco li precedettero: subirono le conseguenze del lo
 
 # 5142
 
-[Furono traditi] come quando Satana disse all'uomo: “Non credere”; ma quando questo fu miscredente gli disse: “Ti sconfesso, io temo Allah, il Signore dei mondi”.
+\[Furono traditi\] come quando Satana disse all'uomo: “Non credere”; ma quando questo fu miscredente gli disse: “Ti sconfesso, io temo Allah, il Signore dei mondi”.
 
 # 5143
 
@@ -20606,11 +20606,11 @@ Egli è Allah, Colui all'infuori del Quale non c'è altro dio, il Re, il Santo, 
 
 # 5150
 
-Egli è Allah, il Creatore, Colui Che dà inizio a tutte le cose, Colui Che dà forma a tutte le cose. A Lui [appartengono] i nomi più belli. Tutto ciò che è nei cieli e sulla terra rende gloria a Lui. Egli è l'Eccelso, il Saggio.
+Egli è Allah, il Creatore, Colui Che dà inizio a tutte le cose, Colui Che dà forma a tutte le cose. A Lui \[appartengono\] i nomi più belli. Tutto ciò che è nei cieli e sulla terra rende gloria a Lui. Egli è l'Eccelso, il Saggio.
 
 # 5151
 
-O credenti, non prendetevi per alleati il Mio nemico e il vostro, dimostrando loro amicizia, mentre essi non hanno creduto alla verità che vi è giunta e hanno scacciato l'Inviato e voi stessi, solo perché credete in Allah vostro Signore. Se siete usciti in combattimento per la Mia causa, bramando il Mio compiacimento, pensate di poter mantenere segreta la vostra relazione con loro, mentre Io conosco meglio [di chiunque altro] quel che celate e quel che palesate? Chi di voi agisse in questo modo si allontanerebbe dalla retta via.
+O credenti, non prendetevi per alleati il Mio nemico e il vostro, dimostrando loro amicizia, mentre essi non hanno creduto alla verità che vi è giunta e hanno scacciato l'Inviato e voi stessi, solo perché credete in Allah vostro Signore. Se siete usciti in combattimento per la Mia causa, bramando il Mio compiacimento, pensate di poter mantenere segreta la vostra relazione con loro, mentre Io conosco meglio \[di chiunque altro\] quel che celate e quel che palesate? Chi di voi agisse in questo modo si allontanerebbe dalla retta via.
 
 # 5152
 
@@ -20618,11 +20618,11 @@ Se vi incontrano in qualche luogo, saranno vostri nemici, vi aggrediranno con le
 
 # 5153
 
-I vostri parenti e i vostri figli non vi saranno utili e nel Giorno della Resurrezione [Allah] deciderà tra di voi; Allah osserva quello che fate.
+I vostri parenti e i vostri figli non vi saranno utili e nel Giorno della Resurrezione \[Allah\] deciderà tra di voi; Allah osserva quello che fate.
 
 # 5154
 
-Avete avuto un bell'esempio in Abramo e in coloro che erano con lui, quando dissero alla loro gente: “Noi ci dissociamo da voi e da quel che adorate all'infuori di Allah: vi rinneghiamo. Tra noi e voi è sorta inimicizia e odio [che continueranno] ininterrotti, finché non crederete in Allah, l'Unico”, eccezion fatta per quanto Abramo disse a suo padre : “Implorerò perdono per te, anche se è certo che non ho alcun potere in tuo favore presso Allah!”. - “Signore a Te ci affidiamo, a Te ci volgiamo pentiti e verso di Te è il divenire.
+Avete avuto un bell'esempio in Abramo e in coloro che erano con lui, quando dissero alla loro gente: “Noi ci dissociamo da voi e da quel che adorate all'infuori di Allah: vi rinneghiamo. Tra noi e voi è sorta inimicizia e odio \[che continueranno\] ininterrotti, finché non crederete in Allah, l'Unico”, eccezion fatta per quanto Abramo disse a suo padre : “Implorerò perdono per te, anche se è certo che non ho alcun potere in tuo favore presso Allah!”. - “Signore a Te ci affidiamo, a Te ci volgiamo pentiti e verso di Te è il divenire.
 
 # 5155
 
@@ -20650,15 +20650,15 @@ O voi che credete, quando giungono a voi le credenti che sono emigrate, esaminat
 
 # 5161
 
-Se qualcuna delle vostre spose fugge verso i miscredenti, quando avete la meglio [su di loro] date a quelli le cui spose sono fuggite, quanto avevano versato. Temete Allah nel Quale credete.
+Se qualcuna delle vostre spose fugge verso i miscredenti, quando avete la meglio \[su di loro\] date a quelli le cui spose sono fuggite, quanto avevano versato. Temete Allah nel Quale credete.
 
 # 5162
 
-O Profeta, quando vengono a te le credenti a stringere il patto, [giurando] che non assoceranno ad Allah alcunché, che non ruberanno, che non fornicheranno, che non uccideranno i loro figli, che non commetteranno infamie con le loro mani o con i loro piedi e che non ti disobbediranno in quel che è reputato conveniente, stringi il patto con loro e implora Allah di perdonarle. Allah è perdonatore, misericordioso.
+O Profeta, quando vengono a te le credenti a stringere il patto, \[giurando\] che non assoceranno ad Allah alcunché, che non ruberanno, che non fornicheranno, che non uccideranno i loro figli, che non commetteranno infamie con le loro mani o con i loro piedi e che non ti disobbediranno in quel che è reputato conveniente, stringi il patto con loro e implora Allah di perdonarle. Allah è perdonatore, misericordioso.
 
 # 5163
 
-O credenti, non prendetevi per alleati gente contro la quale Allah è adirato e che non hanno la speranza dell'altra vita, come i miscredenti che disperano [di rivedere] la gente delle tombe.
+O credenti, non prendetevi per alleati gente contro la quale Allah è adirato e che non hanno la speranza dell'altra vita, come i miscredenti che disperano \[di rivedere\] la gente delle tombe.
 
 # 5164
 
@@ -20678,11 +20678,11 @@ In verità Allah ama coloro che combattono per la Sua causa in ranghi serrati co
 
 # 5168
 
-[Ricorda] quando Mosè disse al suo popolo: “O popolo mio, perché mi tormentate nonostante sappiate che sono veramente il Messaggero di Allah a voi [inviato]?”. Quando poi deviarono, Allah fece deviare i loro cuori.bAllah non guida la gente malvagia.
+\[Ricorda\] quando Mosè disse al suo popolo: “O popolo mio, perché mi tormentate nonostante sappiate che sono veramente il Messaggero di Allah a voi \[inviato\]?”. Quando poi deviarono, Allah fece deviare i loro cuori.bAllah non guida la gente malvagia.
 
 # 5169
 
-E quando Gesù figlio di Maria disse: “O Figli di Israele, io sono veramente un Messaggero di Allah a voi [inviato], per confermare la Torâh che mi ha preceduto, e per annunciarvi un Messaggero che verrà dopo di me, il cui nome sarà Ahmad”. Ma quando questi giunse loro con le prove incontestabili, dissero: “Questa è magia evidente”.
+E quando Gesù figlio di Maria disse: “O Figli di Israele, io sono veramente un Messaggero di Allah a voi \[inviato\], per confermare la Torâh che mi ha preceduto, e per annunciarvi un Messaggero che verrà dopo di me, il cui nome sarà Ahmad”. Ma quando questi giunse loro con le prove incontestabili, dissero: “Questa è magia evidente”.
 
 # 5170
 
@@ -20698,7 +20698,7 @@ Egli è Colui Che ha inviato il Suo Messaggero con la Guida e la Religione della
 
 # 5173
 
-O voi che credete, [volete che] vi indichi una transazione che vi salverà da un doloroso castigo?
+O voi che credete, \[volete che\] vi indichi una transazione che vi salverà da un doloroso castigo?
 
 # 5174
 
@@ -20706,15 +20706,15 @@ Credete in Allah e nel Suo Inviato e lottate con i vostri beni e le vostre perso
 
 # 5175
 
-[Allah] perdonerà i vostri peccati e vi farà entrare nei Giardini dove scorrono i ruscelli e nelle piacevoli dimore dei Giardini di Eden. Ecco il più grande successo!
+\[Allah\] perdonerà i vostri peccati e vi farà entrare nei Giardini dove scorrono i ruscelli e nelle piacevoli dimore dei Giardini di Eden. Ecco il più grande successo!
 
 # 5176
 
-E [vi darà] un'altra cosa che avete desiderato: l'aiuto di Allah e una rapida vittoria. Danne [o Muhammad] la lieta novella ai credenti.
+E \[vi darà\] un'altra cosa che avete desiderato: l'aiuto di Allah e una rapida vittoria. Danne \[o Muhammad\] la lieta novella ai credenti.
 
 # 5177
 
-O credenti, siate gli ausiliari di Allah, così come Gesù figlio di Maria chiedeva agli apostoli: “Chi sono i miei ausiliari [nella causa di] Allah?”. Risposero gli apostoli: “Noi siamo gli ausiliari di Allah”. Una parte dei Figli di Israele credette, mentre un'altra parte non credette. Aiutammo coloro che credettero contro il loro nemico ed essi prevalsero.
+O credenti, siate gli ausiliari di Allah, così come Gesù figlio di Maria chiedeva agli apostoli: “Chi sono i miei ausiliari \[nella causa di\] Allah?”. Risposero gli apostoli: “Noi siamo gli ausiliari di Allah”. Una parte dei Figli di Israele credette, mentre un'altra parte non credette. Aiutammo coloro che credettero contro il loro nemico ed essi prevalsero.
 
 # 5178
 
@@ -20726,7 +20726,7 @@ Egli è Colui Che ha inviato tra gli illetterati un Messaggero della loro gente,
 
 # 5180
 
-e ad altri che ancora non li hanno raggiunti [nella fede]. Egli è l' Eccelso, il Saggio.
+e ad altri che ancora non li hanno raggiunti \[nella fede\]. Egli è l' Eccelso, il Saggio.
 
 # 5181
 
@@ -20746,7 +20746,7 @@ Giammai se la augureranno, a causa di quel che hanno commesso le loro mani. Alla
 
 # 5185
 
-Di' [loro, o Muhammad]: “Invero, la morte che fuggite vi verrà incontro, quindi sarete ricondotti a Colui Che conosce l'invisibile e il palese, e vi informerà a proposito di quel che avrete fatto”.
+Di' \[loro, o Muhammad\]: “Invero, la morte che fuggite vi verrà incontro, quindi sarete ricondotti a Colui Che conosce l'invisibile e il palese, e vi informerà a proposito di quel che avrete fatto”.
 
 # 5186
 
@@ -20826,7 +20826,7 @@ Non vi è giunta notizia di coloro che furono miscredenti in passato? Gustarono 
 
 # 5205
 
-E ciò in quanto vennero ad essi con le prove i loro messaggeri, ma dissero: “Sarà un uomo a guidarci?”. Non credettero e voltarono le spalle, ma Allah non ha bisogno [di loro]. Allah basta a Se Stesso ed è il Degno di lode.
+E ciò in quanto vennero ad essi con le prove i loro messaggeri, ma dissero: “Sarà un uomo a guidarci?”. Non credettero e voltarono le spalle, ma Allah non ha bisogno \[di loro\]. Allah basta a Se Stesso ed è il Degno di lode.
 
 # 5206
 
@@ -20846,11 +20846,11 @@ Coloro invece che non credono e tacciano di menzogna i Nostri segni, saranno i c
 
 # 5210
 
-Nessuna sventura colpisce [l'uomo] senza il permesso di Allah. Allah guida il cuore di chi crede in Lui. Allah è l'Onnisciente.
+Nessuna sventura colpisce \[l'uomo\] senza il permesso di Allah. Allah guida il cuore di chi crede in Lui. Allah è l'Onnisciente.
 
 # 5211
 
-Obbedite dunque ad Allah e obbedite al Messaggero. Se poi volgerete le spalle, [sappiate che] al Nostro Messaggero [incombe] solo la trasmissione esplicita.
+Obbedite dunque ad Allah e obbedite al Messaggero. Se poi volgerete le spalle, \[sappiate che\] al Nostro Messaggero \[incombe\] solo la trasmissione esplicita.
 
 # 5212
 
@@ -20858,7 +20858,7 @@ Allah, non v'è dio all'infuori di Lui! Confidino dunque in Allah i credenti.
 
 # 5213
 
-O voi che credete, nelle vostre spose e nei vostri figli c'è [talvolta] un nemico per voi. State in guardia. Se dimenticherete, lascerete cadere e perdonerete; in verità Allah è perdonatore, misericordioso.
+O voi che credete, nelle vostre spose e nei vostri figli c'è \[talvolta\] un nemico per voi. State in guardia. Se dimenticherete, lascerete cadere e perdonerete; in verità Allah è perdonatore, misericordioso.
 
 # 5214
 
@@ -20934,15 +20934,15 @@ Eppure Allah vi ha prescritto un modo per sciogliere i vostri giuramenti. Allah 
 
 # 5232
 
-Quando il Profeta confidò un segreto ad una delle sue spose, e questa lo andò a riferire [ad un'altra], Allah lo informò [ed egli] ne confermò una parte tenendone nascosta un'altra. Quando le chiese conto della sua indiscrezione, ella disse: “Chi te ne ha dato notizia?”. Rispose: “Il Sapiente, il Ben informato me ne ha dato notizia”.
+Quando il Profeta confidò un segreto ad una delle sue spose, e questa lo andò a riferire \[ad un'altra\], Allah lo informò \[ed egli\] ne confermò una parte tenendone nascosta un'altra. Quando le chiese conto della sua indiscrezione, ella disse: “Chi te ne ha dato notizia?”. Rispose: “Il Sapiente, il Ben informato me ne ha dato notizia”.
 
 # 5233
 
-Se entrambe ritornerete ad Allah, è segno che i vostri cuori si sono pentiti; se invece vi sosterrete a vicenda contro il Profeta, [sappiate] allora che il suo Padrone è Allah e che Gabriele e i devoti tra i credenti e gli angeli saranno il suo sostegno.
+Se entrambe ritornerete ad Allah, è segno che i vostri cuori si sono pentiti; se invece vi sosterrete a vicenda contro il Profeta, \[sappiate\] allora che il suo Padrone è Allah e che Gabriele e i devoti tra i credenti e gli angeli saranno il suo sostegno.
 
 # 5234
 
-Se vi ripudiasse, certamente il suo Signore vi sostituirebbe con delle spose migliori di voi, sottomesse ad Allah, credenti, devote, penitenti, adoranti, osservanti il digiuno, già sposate [in precedenza] o vergini.
+Se vi ripudiasse, certamente il suo Signore vi sostituirebbe con delle spose migliori di voi, sottomesse ad Allah, credenti, devote, penitenti, adoranti, osservanti il digiuno, già sposate \[in precedenza\] o vergini.
 
 # 5235
 
@@ -21050,7 +21050,7 @@ Non hanno visto, sopra di loro, gli uccelli spiegare e ripiegare le ali? Non li 
 
 # 5261
 
-Chi potrebbe costituire un esercito per voi, e [chi potrebbe] soccorrervi all'infuori del Compassionevole? I miscredenti sono in preda all'inganno.
+Chi potrebbe costituire un esercito per voi, e \[chi potrebbe\] soccorrervi all'infuori del Compassionevole? I miscredenti sono in preda all'inganno.
 
 # 5262
 
@@ -21070,11 +21070,11 @@ Di': “Egli è Colui Che vi ha sparsi sulla terra e verso di Lui sarete riuniti
 
 # 5266
 
-Dicono: “A quando questa promessa? [Ditecelo,] se siete veridici”.
+Dicono: “A quando questa promessa? \[Ditecelo,\] se siete veridici”.
 
 # 5267
 
-Di': “La conoscenza [di ciò] appartiene ad Allah. Io non sono altro che un ammonitore esplicito”.
+Di': “La conoscenza \[di ciò\] appartiene ad Allah. Io non sono altro che un ammonitore esplicito”.
 
 # 5268
 
@@ -21090,7 +21090,7 @@ Di': “Egli è il Compassionevole! Crediamo in Lui e in Lui confidiamo. Presto 
 
 # 5271
 
-Di': “Cosa credete? Se la vostra acqua rientrasse nelle profondità [della terra] chi vi procurerebbe acqua sorgiva?”.
+Di': “Cosa credete? Se la vostra acqua rientrasse nelle profondità \[della terra\] chi vi procurerebbe acqua sorgiva?”.
 
 # 5272
 
@@ -21146,7 +21146,7 @@ arrogante e persino bastardo.
 
 # 5285
 
-[Non dargli ascolto,] anche se possiede ricchezze e progenie.
+\[Non dargli ascolto,\] anche se possiede ricchezze e progenie.
 
 # 5286
 
@@ -21170,7 +21170,7 @@ Venne un uragano, proveniente dal tuo Signore, mentre dormivano:
 
 # 5291
 
-e al mattino fu come se [il giardino] fosse stato falciato.
+e al mattino fu come se \[il giardino\] fosse stato falciato.
 
 # 5292
 
@@ -21190,15 +21190,15 @@ Andarono parlando tra loro a bassa voce:
 
 # 5296
 
-Uscirono di buon'ora, in preda all'avarizia, pur avendo i mezzi [per fare l'elemosina].
+Uscirono di buon'ora, in preda all'avarizia, pur avendo i mezzi \[per fare l'elemosina\].
 
 # 5297
 
-Quando poi videro [quel che era avvenuto], dissero: “Davvero abbiamo sbagliato [strada]!
+Quando poi videro \[quel che era avvenuto\], dissero: “Davvero abbiamo sbagliato \[strada\]!
 
 # 5298
 
-[Ma poi convennero:] Siamo rovinati”.
+\[Ma poi convennero:\] Siamo rovinati”.
 
 # 5299
 
@@ -21254,7 +21254,7 @@ Interpellali su chi di loro se ne faccia garante.
 
 # 5312
 
-Oppure, hanno forse degli [dèi] associati? Allora facciano venire i loro associati, se sono sinceri.
+Oppure, hanno forse degli \[dèi\] associati? Allora facciano venire i loro associati, se sono sinceri.
 
 # 5313
 
@@ -21298,7 +21298,7 @@ Manca poco che i miscredenti ti trapassino con gli sguardi, quando sentono il Mo
 
 # 5323
 
-Ma questo [Corano] non è che un Monito per il Creato.
+Ma questo \[Corano\] non è che un Monito per il Creato.
 
 # 5324
 
@@ -21334,7 +21334,7 @@ Ne vedi forse uno sopravvissuto?
 
 # 5332
 
-Anche Faraone e coloro che lo precedettero e le [città] stravolte commisero peccati.
+Anche Faraone e coloro che lo precedettero e le \[città\] stravolte commisero peccati.
 
 # 5333
 
@@ -21366,11 +21366,11 @@ e si spaccherà il cielo, così fragile in quel Giorno.
 
 # 5340
 
-Staranno gli angeli ai suoi orizzonti e in quel Giorno otto [di loro] porteranno il Trono del tuo Signore.
+Staranno gli angeli ai suoi orizzonti e in quel Giorno otto \[di loro\] porteranno il Trono del tuo Signore.
 
 # 5341
 
-Sfilerete [davanti ad Allah] in quel Giorno e niente di quel che celate potrà essere nascosto.
+Sfilerete \[davanti ad Allah\] in quel Giorno e niente di quel che celate potrà essere nascosto.
 
 # 5342
 
@@ -21418,7 +21418,7 @@ Ho perso il mio potere”.
 
 # 5353
 
-[Diranno:] “Afferratelo e mettetelo nei ceppi,
+\[Diranno:\] “Afferratelo e mettetelo nei ceppi,
 
 # 5354
 
@@ -21462,11 +21462,11 @@ Questa è in verità la parola di un Messaggero nobilissimo;
 
 # 5364
 
-non è la parola di un poeta - [credetelo] per quanto poco crediate-
+non è la parola di un poeta - \[credetelo\] per quanto poco crediate-
 
 # 5365
 
-e neanche la parola di un indovino _ per quanto poco riflettiate!
+e neanche la parola di un indovino \_ per quanto poco riflettiate!
 
 # 5366
 
@@ -21474,7 +21474,7 @@ e neanche la parola di un indovino _ per quanto poco riflettiate!
 
 # 5367
 
-Se [Muhammad] Ci avesse mendacemente attribuito qualche discorso,
+Se \[Muhammad\] Ci avesse mendacemente attribuito qualche discorso,
 
 # 5368
 
@@ -21490,7 +21490,7 @@ e nessuno di voi avrebbe potuto impedirCelo.
 
 # 5371
 
-In verità questo è un Monito per i timorati [di Allah]!
+In verità questo è un Monito per i timorati \[di Allah\]!
 
 # 5372
 
@@ -21518,7 +21518,7 @@ Per i miscredenti nessuno potrà impedirlo
 
 # 5378
 
-[poiché proviene] da Allah, il Signore delle Vie dell'Ascesa.
+\[poiché proviene\] da Allah, il Signore delle Vie dell'Ascesa.
 
 # 5379
 
@@ -21542,7 +21542,7 @@ Il Giorno in cui il cielo sarà come metallo fuso
 
 # 5384
 
-e le montagne come [fiocchi] di lana,
+e le montagne come \[fiocchi\] di lana,
 
 # 5385
 
@@ -21566,7 +21566,7 @@ e tutto quel che è sulla terra, ogni cosa che potesse salvarlo.
 
 # 5390
 
-Niente [lo salverà]: sarà una fiammata
+Niente \[lo salverà\]: sarà una fiammata
 
 # 5391
 
@@ -21578,7 +21578,7 @@ Essa chiamerà chi avrà volto le spalle e se ne sarà andato
 
 # 5393
 
-[chi] accumulava e tesaurizzava.
+\[chi\] accumulava e tesaurizzava.
 
 # 5394
 
@@ -21654,7 +21654,7 @@ Cos'hanno mai da affrettarsi verso di te coloro che non credono,
 
 # 5412
 
-[venendo] in gruppi da destra e da sinistra?
+\[venendo\] in gruppi da destra e da sinistra?
 
 # 5413
 
@@ -21670,7 +21670,7 @@ Lo giuro per il Signore degli Orienti e degli Occidenti, in verità abbiamo il p
 
 # 5416
 
-di sostituirli con [altri] migliori di loro e nessuno potrebbe precederCi.
+di sostituirli con \[altri\] migliori di loro e nessuno potrebbe precederCi.
 
 # 5417
 
@@ -21698,7 +21698,7 @@ adorate Allah, temeteLo e obbeditemi,
 
 # 5423
 
-affinché perdoni una parte dei vostri peccati e vi conceda dilazione fino a un termine stabilito; ma quando giungerà il termine di Allah non potrà essere rimandato, se [solo] lo sapeste”.
+affinché perdoni una parte dei vostri peccati e vi conceda dilazione fino a un termine stabilito; ma quando giungerà il termine di Allah non potrà essere rimandato, se \[solo\] lo sapeste”.
 
 # 5424
 
@@ -21754,7 +21754,7 @@ e della luna ha fatto una luce e del sole un luminare.
 
 # 5437
 
-Poi vi rimanderà [ad essa] e vi farà risorgere.
+Poi vi rimanderà \[ad essa\] e vi farà risorgere.
 
 # 5438
 
@@ -21778,7 +21778,7 @@ e hanno detto: Non abbandonate i vostri dèi, non abbandonate né Wadd, né Suw�
 
 # 5443
 
-Essi ne hanno traviati molti; [Signore,] non accrescere gli ingiusti altro che nella perdizione”.
+Essi ne hanno traviati molti; \[Signore,\] non accrescere gli ingiusti altro che nella perdizione”.
 
 # 5444
 
@@ -21806,7 +21806,7 @@ che conduce sulla retta via; abbiamo creduto in essa e non assoceremo nessuno al
 
 # 5450
 
-In verità Egli _ esaltata sia la Sua Maestà - non si è preso né compagna, né figlio.
+In verità Egli \_ esaltata sia la Sua Maestà - non si è preso né compagna, né figlio.
 
 # 5451
 
@@ -21830,11 +21830,11 @@ Invero abbiamo sfiorato il cielo, ma lo abbiamo trovato munito di temibili guard
 
 # 5456
 
-Ci sedevamo [un tempo] in sedi appropriate, per ascoltare. Ma ora chi vuole origliare trova un bolide fiammeggiante in agguato.
+Ci sedevamo \[un tempo\] in sedi appropriate, per ascoltare. Ma ora chi vuole origliare trova un bolide fiammeggiante in agguato.
 
 # 5457
 
-Noi non sappiamo se sia stata decretata una sventura per coloro che stanno sulla terra, o se il loro Signore li voglia guidare [al bene].
+Noi non sappiamo se sia stata decretata una sventura per coloro che stanno sulla terra, o se il loro Signore li voglia guidare \[al bene\].
 
 # 5458
 
@@ -21842,7 +21842,7 @@ Tra noi ci sono dei giusti e altri che non lo sono: siamo in diverse sette.
 
 # 5459
 
-Pensavamo che mai avremmo potuto annullare [la potenza di] Allah sulla terra e che non avremmo mai potuto sfuggire [a Lui].
+Pensavamo che mai avremmo potuto annullare \[la potenza di\] Allah sulla terra e che non avremmo mai potuto sfuggire \[a Lui\].
 
 # 5460
 
@@ -21850,7 +21850,7 @@ Quando udimmo la Guida, credemmo; e chi crede nel suo Signore non teme danno, n�
 
 # 5461
 
-[Ora] tra noi ci sono i musulmani e i ribelli. I musulmani sono quelli che hanno scelto la Retta via. [“musulmani”: cioè sottomessi alla volontà di Allah (gloria a Lui l'Altissimo)]
+\[Ora\] tra noi ci sono i musulmani e i ribelli. I musulmani sono quelli che hanno scelto la Retta via. \[“musulmani”: cioè sottomessi alla volontà di Allah (gloria a Lui l'Altissimo)\]
 
 # 5462
 
@@ -21870,7 +21870,7 @@ Le moschee appartengono ad Allah: non invocate nessuno insieme con Lui.
 
 # 5466
 
-Quando il servo di Allah si levò per invocarLo, poco mancò che lo stringessero [fino a soffocarlo]!”
+Quando il servo di Allah si levò per invocarLo, poco mancò che lo stringessero \[fino a soffocarlo\]!”
 
 # 5467
 
@@ -21890,7 +21890,7 @@ se non comunicando, in Nome di Allah, i Suoi messaggi”. Coloro che disobbedira
 
 # 5471
 
-Quando poi vedranno quello che è stato promesso loro, allora sapranno chi avrà avuto l'alleato più debole e [chi sarà stato] numericamente esiguo!
+Quando poi vedranno quello che è stato promesso loro, allora sapranno chi avrà avuto l'alleato più debole e \[chi sarà stato\] numericamente esiguo!
 
 # 5472
 
@@ -21898,19 +21898,19 @@ Di': “Io non so se quello che vi è stato promesso è imminente o se il mio Si
 
 # 5473
 
-[Egli è] Colui Che conosce l'invisibile e non lo mostra a nessuno,
+\[Egli è\] Colui Che conosce l'invisibile e non lo mostra a nessuno,
 
 # 5474
 
-se non a un messaggero di cui si compiace, che fa precedere e seguire da una guardia [angelica],
+se non a un messaggero di cui si compiace, che fa precedere e seguire da una guardia \[angelica\],
 
 # 5475
 
-per sapere se [i profeti] hanno trasmesso i messaggi del loro Signore. Gli è ben noto tutto ciò che li concerne e tiene il conto di tutte le cose”.
+per sapere se \[i profeti\] hanno trasmesso i messaggi del loro Signore. Gli è ben noto tutto ciò che li concerne e tiene il conto di tutte le cose”.
 
 # 5476
 
-O tu l'avvolto [nelle tue vesti],
+O tu l'avvolto \[nelle tue vesti\],
 
 # 5477
 
@@ -21978,7 +21978,7 @@ Come vi difenderete, voi che già non credeste nel Giorno che trasformerà i bam
 
 # 5493
 
-[nel Giorno in cui] si spaccherà il cielo? La promessa [di Allah] si realizzerà.
+\[nel Giorno in cui\] si spaccherà il cielo? La promessa \[di Allah\] si realizzerà.
 
 # 5494
 
@@ -21986,7 +21986,7 @@ In verità questo è un Monito. Chi vuole, intraprenda dunque la via che conduce
 
 # 5495
 
-In verità il tuo Signore sa che stai ritto [in preghiera] per quasi due terzi della notte, o la metà, o un terzo e che lo stesso [fanno] una parte di coloro che sono con te. Allah ha stabilito la notte e il giorno. Egli già sapeva che non avreste potuto passare tutta la notte in preghiera ed è stato indulgente verso di voi. Recitate dunque, del Corano, quello che vi sarà agevole. Egli già sapeva che ci sarebbero stati tra voi i malati ed altri che avrebbero viaggiato sulla terra in cerca della grazia di Allah ed altri ancora che avrebbero lottato per la Sua causa. Recitatene dunque quello che vi sarà agevole. Assolvete all'orazione e versate la decima e fate ad Allah un prestito bello. Tutto il bene che avrete compiuto, lo ritroverete presso Allah, migliore e maggiore ricompensa. Implorate il perdono di Allah. In verità Allah è perdonatore, misericordioso.
+In verità il tuo Signore sa che stai ritto \[in preghiera\] per quasi due terzi della notte, o la metà, o un terzo e che lo stesso \[fanno\] una parte di coloro che sono con te. Allah ha stabilito la notte e il giorno. Egli già sapeva che non avreste potuto passare tutta la notte in preghiera ed è stato indulgente verso di voi. Recitate dunque, del Corano, quello che vi sarà agevole. Egli già sapeva che ci sarebbero stati tra voi i malati ed altri che avrebbero viaggiato sulla terra in cerca della grazia di Allah ed altri ancora che avrebbero lottato per la Sua causa. Recitatene dunque quello che vi sarà agevole. Assolvete all'orazione e versate la decima e fate ad Allah un prestito bello. Tutto il bene che avrete compiuto, lo ritroverete presso Allah, migliore e maggiore ricompensa. Implorate il perdono di Allah. In verità Allah è perdonatore, misericordioso.
 
 # 5496
 
@@ -22106,7 +22106,7 @@ carbonizza gli uomini.
 
 # 5525
 
-Gli stanno a guardia diciannove [angeli].
+Gli stanno a guardia diciannove \[angeli\].
 
 # 5526
 
@@ -22126,7 +22126,7 @@ e per l'aurora quando si mostra,
 
 # 5530
 
-[il Calore è davvero uno dei segni più grandi,
+\[il Calore è davvero uno dei segni più grandi,
 
 # 5531
 
@@ -22134,7 +22134,7 @@ un monito per gli uomini,
 
 # 5532
 
-per chi di voi vuole avanzare [nella fede] o indietreggiare.
+per chi di voi vuole avanzare \[nella fede\] o indietreggiare.
 
 # 5533
 
@@ -22146,7 +22146,7 @@ eccetto i compagni della destra;
 
 # 5535
 
-[saranno] nei Giardini e si interpelleranno a vicenda
+\[saranno\] nei Giardini e si interpelleranno a vicenda
 
 # 5536
 
@@ -22282,7 +22282,7 @@ invero spetta a Noi la sua riunione e la sua recitazione.
 
 # 5569
 
-Quando lo recitiamo, ascolta [attento] la recitazione.
+Quando lo recitiamo, ascolta \[attento\] la recitazione.
 
 # 5570
 
@@ -22290,7 +22290,7 @@ Poi spetterà a Noi la sua spiegazione.
 
 # 5571
 
-No, voi amate l'effimero [della vita terrena],
+No, voi amate l'effimero \[della vita terrena\],
 
 # 5572
 
@@ -22314,7 +22314,7 @@ al pensiero di subire un castigo terribile.
 
 # 5577
 
-No, quando [l'anima] sarà giunta alle clavicole,
+No, quando \[l'anima\] sarà giunta alle clavicole,
 
 # 5578
 
@@ -22362,7 +22362,7 @@ Già non fu che una goccia di sperma eiaculata,
 
 # 5589
 
-quindi un'aderenza, poi [Allah] lo creò e gli diede forma armoniosa;
+quindi un'aderenza, poi \[Allah\] lo creò e gli diede forma armoniosa;
 
 # 5590
 
@@ -22370,7 +22370,7 @@ poi ne trasse una coppia, il maschio e la femmina.
 
 # 5591
 
-Colui [che ha fatto tutto questo] non sarebbe dunque capace di far risorgere i morti?
+Colui \[che ha fatto tutto questo\] non sarebbe dunque capace di far risorgere i morti?
 
 # 5592
 
@@ -22390,11 +22390,11 @@ In verità abbiamo preparato per i miscredenti catene, gioghi e la Fiamma.
 
 # 5596
 
-In verità i giusti berranno da una coppa in cui è un miscuglio di [acqua e di] Kafûr,
+In verità i giusti berranno da una coppa in cui è un miscuglio di \[acqua e di\] Kafûr,
 
 # 5597
 
-[attinta da una] fonte da cui berranno i servi di Allah, che la faranno fluire con abbondanza,
+\[attinta da una\] fonte da cui berranno i servi di Allah, che la faranno fluire con abbondanza,
 
 # 5598
 
@@ -22402,11 +22402,11 @@ coloro che assolvono ai loro voti e temono il giorno il cui male si propagherà 
 
 # 5599
 
-[loro] che, nonostante il loro bisogno, nutrono il povero, l'orfano e il prigioniero;
+\[loro\] che, nonostante il loro bisogno, nutrono il povero, l'orfano e il prigioniero;
 
 # 5600
 
-[e interiormente affermano:] “È solo per il volto di Allah, che vi nutriamo; non ci aspettiamo da voi né ricompensa, né gratitudine.
+\[e interiormente affermano:\] “È solo per il volto di Allah, che vi nutriamo; non ci aspettiamo da voi né ricompensa, né gratitudine.
 
 # 5601
 
@@ -22442,7 +22442,7 @@ E berranno colà, da una coppa contenente una mistura di zenzero,
 
 # 5609
 
-[attinta] da una fonte di quel luogo chiamata Salsabîl.
+\[attinta\] da una fonte di quel luogo chiamata Salsabîl.
 
 # 5610
 
@@ -22466,7 +22466,7 @@ In verità siamo stati Noi a far scendere gradualmente il Corano su di te.
 
 # 5615
 
-Sii paziente [nell'attesa] del Decreto del tuo Signore e non obbedire al peccatore e all'ingrato dei loro.
+Sii paziente \[nell'attesa\] del Decreto del tuo Signore e non obbedire al peccatore e all'ingrato dei loro.
 
 # 5616
 
@@ -22518,7 +22518,7 @@ e per quelle che lanciano un monito
 
 # 5628
 
-[a guisa] di scusa o di avvertimento!
+\[a guisa\] di scusa o di avvertimento!
 
 # 5629
 
@@ -22586,7 +22586,7 @@ per un tempo stabilito?
 
 # 5645
 
-Siamo Noi che lo stabiliamo. Siamo i migliori nello stabilire [tutte le cose].
+Siamo Noi che lo stabiliamo. Siamo i migliori nello stabilire \[tutte le cose\].
 
 # 5646
 
@@ -22610,7 +22610,7 @@ Guai, in quel Giorno, a coloro che tacciano di menzogna!
 
 # 5651
 
-[Sarà detto ai miscredenti] “Andate verso quel che tacciavate di menzogna!
+\[Sarà detto ai miscredenti\] “Andate verso quel che tacciavate di menzogna!
 
 # 5652
 
@@ -22618,11 +22618,11 @@ Andate verso un'ombra di tre colonne
 
 # 5653
 
-che non ombreggia e non ripara dalla vampa [infernale]
+che non ombreggia e non ripara dalla vampa \[infernale\]
 
 # 5654
 
-che proietta scintille [grandi] come tronchi,
+che proietta scintille \[grandi\] come tronchi,
 
 # 5655
 
@@ -22658,7 +22658,7 @@ Guai, in quel Giorno, a coloro che tacciano di menzogna!
 
 # 5663
 
-I timorati [di Allah] saranno tra ombre e sorgenti,
+I timorati \[di Allah\] saranno tra ombre e sorgenti,
 
 # 5664
 
@@ -22666,7 +22666,7 @@ e frutti che brameranno.
 
 # 5665
 
-[Sarà detto loro]: “Mangiate e bevete in pace, [compenso] per quello che avete fatto”.
+\[Sarà detto loro\]: “Mangiate e bevete in pace, \[compenso\] per quello che avete fatto”.
 
 # 5666
 
@@ -22678,7 +22678,7 @@ Guai, in quel Giorno, a coloro che tacciano di menzogna!
 
 # 5668
 
-[Sarà detto loro]: “Mangiate e godete un poco, voi che siete criminali”.
+\[Sarà detto loro\]: “Mangiate e godete un poco, voi che siete criminali”.
 
 # 5669
 
@@ -22742,7 +22742,7 @@ e del giorno un mezzo per le incombenze della vita.
 
 # 5684
 
-Costruimmo sopra di voi sette solidi [cieli]
+Costruimmo sopra di voi sette solidi \[cieli\]
 
 # 5685
 
@@ -22770,7 +22770,7 @@ Il Giorno in cui verrà soffiato nel Corno, accorrerete a frotte;
 
 # 5691
 
-sarà spalancato il cielo e [sarà tutto] porte,
+sarà spalancato il cielo e \[sarà tutto\] porte,
 
 # 5692
 
@@ -22786,7 +22786,7 @@ asilo per i ribelli.
 
 # 5695
 
-Vi dimoreranno per [intere] generazioni,
+Vi dimoreranno per \[intere\] generazioni,
 
 # 5696
 
@@ -22802,7 +22802,7 @@ Giusto compenso,
 
 # 5699
 
-[poiché] non si aspettavano il rendiconto;
+\[poiché\] non si aspettavano il rendiconto;
 
 # 5700
 
@@ -22814,7 +22814,7 @@ mentre di ogni cosa abbiamo tenuto conto per iscritto.
 
 # 5702
 
-E allora gustate [il tormento]! A voi non accresceremo null'altro che il castigo.
+E allora gustate \[il tormento\]! A voi non accresceremo null'altro che il castigo.
 
 # 5703
 
@@ -22850,7 +22850,7 @@ Il Giorno in cui lo Spirito e gli angeli si ergeranno in schiere, nessuno oserà
 
 # 5711
 
-Quel Giorno [verrà] ineluttabilmente. Si rifugi quindi presso il suo Signore chi vuole.
+Quel Giorno \[verrà\] ineluttabilmente. Si rifugi quindi presso il suo Signore chi vuole.
 
 # 5712
 
@@ -22858,31 +22858,31 @@ In verità vi abbiamo avvertito di un castigo imminente, il Giorno in cui l'uomo
 
 # 5713
 
-Per gli strappanti violenti! [La maggior parte degli esegeti ritiene che i soggetti dell'invocazione espressa nei primi cinque versetti siano gli angeli incaricati di prendere le anime dei moribondi. In base a questa ipotesi sarà possibile formulare la traduzione interpretativa con parole molto diverse da quelle del testo coranico. Lo faremo nelle note per proporre al lettore il significato comunemente accettato dall'esegesi islamica] [“Per gli angeli che strappano le anime degli empi con violenza!”]
+Per gli strappanti violenti! \[La maggior parte degli esegeti ritiene che i soggetti dell'invocazione espressa nei primi cinque versetti siano gli angeli incaricati di prendere le anime dei moribondi. In base a questa ipotesi sarà possibile formulare la traduzione interpretativa con parole molto diverse da quelle del testo coranico. Lo faremo nelle note per proporre al lettore il significato comunemente accettato dall'esegesi islamica\] \[“Per gli angeli che strappano le anime degli empi con violenza!”\]
 
 # 5714
 
-Per i correnti veloci! [“Per gli angeli che delicatamente ritirano le anime dei credenti!”]
+Per i correnti veloci! \[“Per gli angeli che delicatamente ritirano le anime dei credenti!”\]
 
 # 5715
 
-Per i nuotanti leggeri! [“Per gli angeli che fluttuano liberamente nello spazio!”]
+Per i nuotanti leggeri! \[“Per gli angeli che fluttuano liberamente nello spazio!”\]
 
 # 5716
 
-Per i sopravanzanti con foga [“Per gli angeli che energicamente precedono le anime dei beati!”]
+Per i sopravanzanti con foga \[“Per gli angeli che energicamente precedono le anime dei beati!”\]
 
 # 5717
 
-per sistemare ogni cosa! [“Per gli angeli che fanno applicare i decreti di Allah!”]
+per sistemare ogni cosa! \[“Per gli angeli che fanno applicare i decreti di Allah!”\]
 
 # 5718
 
-Il Giorno in cui risuonerà il Risuonante, [“il Risuonante”: il Corno del Giudizio fa risuonare il primo dei tre squilli fatidici. Si potrebbe anche tradurre: “il Giorno in cui la terra tremerà violentemente”]
+Il Giorno in cui risuonerà il Risuonante, \[“il Risuonante”: il Corno del Giudizio fa risuonare il primo dei tre squilli fatidici. Si potrebbe anche tradurre: “il Giorno in cui la terra tremerà violentemente”\]
 
 # 5719
 
-al quale seguirà il successivo, [“seguirà il successivo”: il secondo squillo del Corno, quello a cui risponderanno i morti, alzandosi dalle loro tombe, oppure “e sarà reiterata la scossa”]
+al quale seguirà il successivo, \[“seguirà il successivo”: il secondo squillo del Corno, quello a cui risponderanno i morti, alzandosi dalle loro tombe, oppure “e sarà reiterata la scossa”\]
 
 # 5720
 
@@ -22894,7 +22894,7 @@ e saranno abbassati gli sguardi.
 
 # 5722
 
-Dicono: “Saremo ricondotti [sulla terra]
+Dicono: “Saremo ricondotti \[sulla terra\]
 
 # 5723
 
@@ -22910,11 +22910,11 @@ Ci sarà un solo grido,
 
 # 5726
 
-ed eccoli risvegliati, sulla superficie [della terra].
+ed eccoli risvegliati, sulla superficie \[della terra\].
 
 # 5727
 
-Non ti giunse [o Muhammad] la storia di Mosè?
+Non ti giunse \[o Muhammad\] la storia di Mosè?
 
 # 5728
 
@@ -22930,7 +22930,7 @@ E digli: Sei disposto a purificarti,
 
 # 5731
 
-sicché io ti guidi verso il tuo Signore e tu [Lo] tema?".
+sicché io ti guidi verso il tuo Signore e tu \[Lo\] tema?".
 
 # 5732
 
@@ -22946,7 +22946,7 @@ poi volse le spalle e si distolse.
 
 # 5735
 
-Convocò [i notabili] e proclamò:
+Convocò \[i notabili\] e proclamò:
 
 # 5736
 
@@ -22958,11 +22958,11 @@ Lo colpì Allah con il castigo nell'altra vita e in questa.
 
 # 5738
 
-In ciò vi è motivo di riflessione per chi è timorato [di Allah].
+In ciò vi è motivo di riflessione per chi è timorato \[di Allah\].
 
 # 5739
 
-Sareste voi più difficili da creare o il cielo che [Egli] ha edificato?
+Sareste voi più difficili da creare o il cielo che \[Egli\] ha edificato?
 
 # 5740
 
@@ -23026,7 +23026,7 @@ T'interpellano a proposito dell'Ora: “Quando giungerà?”.
 
 # 5755
 
-Che [scienza] ne hai per informarli?
+Che \[scienza\] ne hai per informarli?
 
 # 5756
 
@@ -23038,7 +23038,7 @@ Tu non sei che un ammonitore per coloro che la paventano.
 
 # 5758
 
-Il Giorno in cui la vedranno, sarà come se fossero rimasti [sulla terra] una sera o un mattino.
+Il Giorno in cui la vedranno, sarà come se fossero rimasti \[sulla terra\] una sera o un mattino.
 
 # 5759
 
@@ -23074,7 +23074,7 @@ Quanto a colui che ti viene incontro pieno di zelo,
 
 # 5767
 
-essendo timorato [di Allah],
+essendo timorato \[di Allah\],
 
 # 5768
 
@@ -23090,7 +23090,7 @@ se ne ricordi, dunque, chi vuole.
 
 # 5771
 
-[È contenuto] in Fogli onorati,
+\[È contenuto\] in Fogli onorati,
 
 # 5772
 
@@ -23114,7 +23114,7 @@ Da cosa l'ha creato Allah?
 
 # 5777
 
-Da una goccia di sperma. Lo ha creato e ha stabilito [il suo destino],
+Da una goccia di sperma. Lo ha creato e ha stabilito \[il suo destino\],
 
 # 5778
 
@@ -23130,7 +23130,7 @@ infine lo resusciterà quando lo vorrà!
 
 # 5781
 
-No, non ha adempiuto a quello [che Allah] gli ha comandato.
+No, non ha adempiuto a quello \[che Allah\] gli ha comandato.
 
 # 5782
 
@@ -23198,7 +23198,7 @@ sorridenti e lieti.
 
 # 5798
 
-E ci saranno, in quel Giorno, [anche] volti terrei
+E ci saranno, in quel Giorno, \[anche\] volti terrei
 
 # 5799
 
@@ -23238,7 +23238,7 @@ e divise in gruppi le anime,
 
 # 5808
 
-e quando verrà chiesto alla [neonata] sepolta viva
+e quando verrà chiesto alla \[neonata\] sepolta viva
 
 # 5809
 
@@ -23362,7 +23362,7 @@ No, voi tacciate di menzogna il Giudizio,
 
 # 5839
 
-nonostante [veglino] su di voi dei custodi,
+nonostante \[veglino\] su di voi dei custodi,
 
 # 5840
 
@@ -23398,7 +23398,7 @@ E ancora, chi mai ti farà comprendere cos'è il Giorno del Giudizio?
 
 # 5848
 
-Il Giorno in cui nessun' anima potrà giovare ad un'[altra] anima in alcunché. In quel Giorno [tutto] il potere apparterrà ad Allah.
+Il Giorno in cui nessun' anima potrà giovare ad un'\[altra\] anima in alcunché. In quel Giorno \[tutto\] il potere apparterrà ad Allah.
 
 # 5849
 
@@ -23490,7 +23490,7 @@ I giusti saranno nella delizia,
 
 # 5871
 
-[appoggiati] su alti divani guarderanno.
+\[appoggiati\] su alti divani guarderanno.
 
 # 5872
 
@@ -23506,7 +23506,7 @@ con suggello di muschio - che vi aspirino coloro che ne sono degni -
 
 # 5875
 
-[un nettare] mescolato con Tasnîm,
+\[un nettare\] mescolato con Tasnîm,
 
 # 5876
 
@@ -23538,7 +23538,7 @@ Oggi invece sono i credenti a ridere dei miscredenti:
 
 # 5883
 
-[appoggiati] su alti divani guarderanno.
+\[appoggiati\] su alti divani guarderanno.
 
 # 5884
 
@@ -23598,7 +23598,7 @@ Si rallegrava in mezzo ai suoi,
 
 # 5898
 
-e pensava che mai sarebbe ritornato [ad Allah].
+e pensava che mai sarebbe ritornato \[ad Allah\].
 
 # 5899
 
@@ -23654,7 +23654,7 @@ per il Giorno promesso,
 
 # 5912
 
-per il testimone e la [sua] testimonianza!
+per il testimone e la \[sua\] testimonianza!
 
 # 5913
 
@@ -23706,7 +23706,7 @@ il Signore del Trono glorioso,
 
 # 5925
 
-Colui Che fa [tutto] ciò che vuole.
+Colui Che fa \[tutto\] ciò che vuole.
 
 # 5926
 
@@ -23730,7 +23730,7 @@ Questo è invece un Corano glorioso,
 
 # 5931
 
-[impresso] su di una Tavola protetta.
+\[impresso\] su di una Tavola protetta.
 
 # 5932
 
@@ -23746,7 +23746,7 @@ e chi mai ti dirà cos'è l'astro notturno?
 
 # 5935
 
-Non c'è anima alcuna che non abbia su di sé un [angelo] guardiano.
+Non c'è anima alcuna che non abbia su di sé un \[angelo\] guardiano.
 
 # 5936
 
@@ -23762,7 +23762,7 @@ che esce di tra i lombi e le costole.
 
 # 5939
 
-[Allah] è certo capace di ricondurlo,
+\[Allah\] è certo capace di ricondurlo,
 
 # 5940
 
@@ -23770,7 +23770,7 @@ nel Giorno in cui i segreti saranno svelati,
 
 # 5941
 
-e [l'uomo] non avrà più né forza, né ausilio.
+e \[l'uomo\] non avrà più né forza, né ausilio.
 
 # 5942
 
@@ -23822,7 +23822,7 @@ e ne fa poi fieno scuro.
 
 # 5954
 
-Ti faremo recitare [il Corano] e non dimenticherai
+Ti faremo recitare \[il Corano\] e non dimenticherai
 
 # 5955
 
@@ -23830,7 +23830,7 @@ se non ciò che Allah vuole. Egli conosce il palese e l'occulto.
 
 # 5956
 
-Ti faciliteremo la [via] più facile.
+Ti faciliteremo la \[via\] più facile.
 
 # 5957
 
@@ -23838,7 +23838,7 @@ Ricorda, ché il Ricordo è utile:
 
 # 5958
 
-se ne ricorderà chi teme [Allah]
+se ne ricorderà chi teme \[Allah\]
 
 # 5959
 
@@ -23930,7 +23930,7 @@ colà alti divani,
 
 # 5981
 
-e coppe poste [a portata di mano]
+e coppe poste \[a portata di mano\]
 
 # 5982
 
@@ -23978,7 +23978,7 @@ In verità a Noi ritorneranno,
 
 # 5993
 
-e allora spetterà a Noi chieder loro conto [delle loro azioni].
+e allora spetterà a Noi chieder loro conto \[delle loro azioni\].
 
 # 5994
 
@@ -24022,7 +24022,7 @@ e Faraone, quello dei pali?
 
 # 6004
 
-[Tutti] costoro furono ribelli nel mondo
+\[Tutti\] costoro furono ribelli nel mondo
 
 # 6005
 
@@ -24074,7 +24074,7 @@ in quel Giorno sarà avvicinata l'Inferno, in quel Giorno l'uomo si rammenterà.
 
 # 6017
 
-Dirà: “Ahimè! Se avessi mandato avanti qualcosa per la mia vita [futura]!”.
+Dirà: “Ahimè! Se avessi mandato avanti qualcosa per la mia vita \[futura\]!”.
 
 # 6018
 
@@ -24162,7 +24162,7 @@ un parente orfano
 
 # 6039
 
-o un povero prostrato [dalla miseria],
+o un povero prostrato \[dalla miseria\],
 
 # 6040
 
@@ -24190,7 +24190,7 @@ per la luna quando lo segue,
 
 # 6046
 
-per il giorno quando rischiara [la terra],
+per il giorno quando rischiara \[la terra\],
 
 # 6047
 
@@ -24230,7 +24230,7 @@ quando si alzò il più miserabile di loro.
 
 # 6056
 
-Il Messaggero di Allah aveva detto loro: “[Questa] è la cammella di Allah, [abbia] il suo turno per bere”. [Il profeta Sâlih_ aveva stabilito che la cammella, che Allah (gloria a Lui l'Altissimo) aveva miracolosamente tratto da una roccia, avesse diritto di bere, un giorno su due, all'unica fonte di cui disponevano i Thamûd. In seguito, però, quelli rinnegarono il patto e uccisero la cammella, suscitando la collera e il castigo di Allah. (Vedi anche XI, 64)]
+Il Messaggero di Allah aveva detto loro: “\[Questa\] è la cammella di Allah, \[abbia\] il suo turno per bere”. \[Il profeta Sâlih\_ aveva stabilito che la cammella, che Allah (gloria a Lui l'Altissimo) aveva miracolosamente tratto da una roccia, avesse diritto di bere, un giorno su due, all'unica fonte di cui disponevano i Thamûd. In seguito, però, quelli rinnegarono il patto e uccisero la cammella, suscitando la collera e il castigo di Allah. (Vedi anche XI, 64)\]
 
 # 6057
 
@@ -24238,11 +24238,11 @@ Lo tacciarono di impostura e le tagliarono i garetti: li annientò il loro Signo
 
 # 6058
 
-senza temere [di ciò] alcuna conseguenza.
+senza temere \[di ciò\] alcuna conseguenza.
 
 # 6059
 
-Per la notte quando avvolge [con le sue tenebre],
+Per la notte quando avvolge \[con le sue tenebre\],
 
 # 6060
 
@@ -24282,7 +24282,7 @@ faciliteremo il difficile.
 
 # 6069
 
-Quando precipiterà [nell'abisso], a nulla gli serviranno i suoi beni!
+Quando precipiterà \[nell'abisso\], a nulla gli serviranno i suoi beni!
 
 # 6070
 
@@ -24342,7 +24342,7 @@ e per te l'altra vita sarà migliore della precedente.
 
 # 6084
 
-Il tuo Signore ti darà [in abbondanza] e ne sarai soddisfatto.
+Il tuo Signore ti darà \[in abbondanza\] e ne sarai soddisfatto.
 
 # 6085
 
@@ -24370,7 +24370,7 @@ e proclama la grazia del tuo Signore.
 
 # 6091
 
-Non ti abbiamo forse aperto il petto [alla fede]?
+Non ti abbiamo forse aperto il petto \[alla fede\]?
 
 # 6092
 
@@ -24382,7 +24382,7 @@ che gravava sulle tue spalle?
 
 # 6094
 
-[Non abbiamo] innalzato la tua fama?
+\[Non abbiamo\] innalzato la tua fama?
 
 # 6095
 
@@ -24478,7 +24478,7 @@ Pensi che segua la guida,
 
 # 6118
 
-che comandi il timore [di Allah]?
+che comandi il timore \[di Allah\]?
 
 # 6119
 
@@ -24522,7 +24522,7 @@ La Notte del Destino è migliore di mille mesi.
 
 # 6129
 
-In essa discendono gli angeli e lo Spirito, con il permesso del loro Signore, per [fissare] ogni decreto.
+In essa discendono gli angeli e lo Spirito, con il permesso del loro Signore, per \[fissare\] ogni decreto.
 
 # 6130
 
@@ -24558,7 +24558,7 @@ Quelli che invece credono e compiono il bene sono i migliori di tutta la creazio
 
 # 6138
 
-Presso il loro Signore, la loro ricompensa saranno i Giardini di Eden, dove scorrono i ruscelli, in cui rimarranno in perpetuo. Allah si compiace di loro e loro si compiacciono di Lui. Ecco [cosa è riservato] a chi teme il suo Signore.
+Presso il loro Signore, la loro ricompensa saranno i Giardini di Eden, dove scorrono i ruscelli, in cui rimarranno in perpetuo. Allah si compiace di loro e loro si compiacciono di Lui. Ecco \[cosa è riservato\] a chi teme il suo Signore.
 
 # 6139
 
@@ -24586,11 +24586,11 @@ In quel Giorno gli uomini usciranno in gruppi, affinché siano mostrate loro le 
 
 # 6145
 
-Chi avrà fatto [anche solo] il peso di un atomo di bene lo vedrà,
+Chi avrà fatto \[anche solo\] il peso di un atomo di bene lo vedrà,
 
 # 6146
 
-e chi avrà fatto [anche solo] il peso di un atomo di male lo vedrà.
+e chi avrà fatto \[anche solo\] il peso di un atomo di male lo vedrà.
 
 # 6147
 
@@ -24610,7 +24610,7 @@ che fanno volare la polvere,
 
 # 6151
 
-che irrompono in mezzo [al nemico].
+che irrompono in mezzo \[al nemico\].
 
 # 6152
 
@@ -24746,7 +24746,7 @@ E chi mai ti farà comprendere cos’è la Voragine?
 
 # 6185
 
-[È] il Fuoco attizzato di Allah,
+\[È\] il Fuoco attizzato di Allah,
 
 # 6186
 
@@ -24754,7 +24754,7 @@ che consuma i cuori.
 
 # 6187
 
-Invero [si chiuderà] su di loro,
+Invero \[si chiuderà\] su di loro,
 
 # 6188
 
@@ -24794,7 +24794,7 @@ Adorino dunque il Signore di questa Casa,
 
 # 6197
 
-Colui Che li ha preservati dalla fame e li ha messi al riparo da [ogni] timore.
+Colui Che li ha preservati dalla fame e li ha messi al riparo da \[ogni\] timore.
 
 # 6198
 
@@ -24950,5 +24950,5 @@ che soffia il male nei cuori degli uomini,
 
 # 6236
 
-che [venga] dai dèmoni o dagli uomini”.
+che \[venga\] dai dèmoni o dagli uomini”.
 
