@@ -12406,8 +12406,7 @@ Dediler ki: "Ey Lut! Eğer sen (bu işe) son vermezsen muhakkak ki (buradan) ç�
 
 # 3100
 
-(Lut) dedi ki: "Doğrusu ben sizin yaptığınıza çok kızanlardanım.
-"
+(Lut) dedi ki: "Doğrusu ben sizin yaptığınıza çok kızanlardanım. "
 
 # 3101
 
@@ -17363,8 +17362,7 @@ Ta ki onların üstüne binerken Rabbinizin nimetini hatırlayasınız ve şöyl
 
 # 4339
 
-Ve biz elbette Rabbimize döneceğiz."
-(diyesiniz)
+Ve biz elbette Rabbimize döneceğiz." (diyesiniz)
 
 # 4340
 

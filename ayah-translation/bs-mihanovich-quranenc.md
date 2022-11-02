@@ -1174,8 +1174,7 @@ Allahu pripada sve što je na nebesima i što je na Zemlji. Pokazivali vi šta j
 
 # 292
 
-Poslanik vjeruje u ono što mu se objavljuje od Gospodara njegova, a i vjernici, svaki od njih vjeruje u Allaha, i meleke Njegove, i Knjige Njegove, i poslanike Njegove:
-"Mi među poslanicima Njegovim ne pravimo razliku!" I govore: "Čujemo i pokoravamo se! Molimo Te za oprost, Gospodaru naš, a kod Tebe je konačno odredište!"
+Poslanik vjeruje u ono što mu se objavljuje od Gospodara njegova, a i vjernici, svaki od njih vjeruje u Allaha, i meleke Njegove, i Knjige Njegove, i poslanike Njegove: "Mi među poslanicima Njegovim ne pravimo razliku!" I govore: "Čujemo i pokoravamo se! Molimo Te za oprost, Gospodaru naš, a kod Tebe je konačno odredište!"
 
 # 293
 
@@ -2759,8 +2758,7 @@ Jevreji i kršćani kažu: "Mi smo djeca Božija i miljenici Njegovi." Reci: "Pa
 
 # 688
 
-O vi kojima je data Knjiga, došao vam je Poslanik Naš- nakon što je neko vrijeme prekinuto slanje poslanika - da vam objasni, da ne biste rekli:
-"Nije nam dolazio ni onaj koji donosi radosne vijesti ni onaj koji upozorava!" Pa, došao vam je, eto, onaj koji donosi radosne vijesti i koji upozorava. A Allah nad svime ima moć.
+O vi kojima je data Knjiga, došao vam je Poslanik Naš- nakon što je neko vrijeme prekinuto slanje poslanika - da vam objasni, da ne biste rekli: "Nije nam dolazio ni onaj koji donosi radosne vijesti ni onaj koji upozorava!" Pa, došao vam je, eto, onaj koji donosi radosne vijesti i koji upozorava. A Allah nad svime ima moć.
 
 # 689
 
@@ -8152,8 +8150,7 @@ Zatim ćemo vam dati pobjedu protiv njih i povećati vam imetke i sinove i učin
 
 # 2036
 
-Pa, ako dobro budete činili - sebi ste ga činili, a ako zlo budete činili - protiv
-sebe ste ga činili! A kad dođe vrijeme drugog nereda, poslat ćemo ih da na licima vašim tugu i jad ostave i da u Mesdžid uđu, kao što su u njega ušli i prvi put, i da do temelja, sve nad čime zavladaju, poruše.
+Pa, ako dobro budete činili - sebi ste ga činili, a ako zlo budete činili - protiv sebe ste ga činili! A kad dođe vrijeme drugog nereda, poslat ćemo ih da na licima vašim tugu i jad ostave i da u Mesdžid uđu, kao što su u njega ušli i prvi put, i da do temelja, sve nad čime zavladaju, poruše.
 
 # 2037
 
@@ -9053,8 +9050,7 @@ da naslijedi mene i porodicu Jakubovu, i učini, Gospodaru moj, da se s njime bu
 
 # 2261
 
-I on izađe iz odaje svoje u kojoj se molio pred narod svoj i znakom im dade na znanje:
-"Veličajte Ga i slavite ujutro i navečer."
+I on izađe iz odaje svoje u kojoj se molio pred narod svoj i znakom im dade na znanje: "Veličajte Ga i slavite ujutro i navečer."
 
 # 2262
 
@@ -14364,8 +14360,7 @@ iznosili vi o tome šta u javnost ili to u sebi krili, pa, Allah sve dobro zna.
 
 # 3588
 
-Njima nije grijeh da budu otkrivene pred očevima svojim, i sinovima svojim, i braćom
-svojom, i sinovima braće svoje, i sinovima sestara svoj ih, i ženama vjernicama, i pred onima koje su u vlasništvu njihovu. I Allaha se bojte! Allah, je, doista, svjedok svemu.
+Njima nije grijeh da budu otkrivene pred očevima svojim, i sinovima svojim, i braćom svojom, i sinovima braće svoje, i sinovima sestara svoj ih, i ženama vjernicama, i pred onima koje su u vlasništvu njihovu. I Allaha se bojte! Allah, je, doista, svjedok svemu.
 
 # 3589
 
@@ -18921,8 +18916,7 @@ I ne pripisujte uz Allaha boga drugoga! Ja sam vam Njegov upozoritelj jasni!
 
 # 4727
 
-I tako je bilo: ni onima prije ovih nije došao nijedan poslanik, a da nisu rekli:
-"Čarobnjak je!" ili: "Lud je!"
+I tako je bilo: ni onima prije ovih nije došao nijedan poslanik, a da nisu rekli: "Čarobnjak je!" ili: "Lud je!"
 
 # 4728
 
@@ -20546,8 +20540,7 @@ A vi niste kasom tjerali konje ni kamile zbog onoga što je Allah od njih, kao p
 
 # 5133
 
-Plijen od stanovnika sela i gradova koji Allah Poslaniku Svome daruje pripada:
-Allahu i Poslaniku Njegovu, i bližnjima njegovim, i siročadi, i siromašnim, i putnicima namjernicima - da ne bi prelazio samo iz ruku u ruke bogataša vaših; ono što vam Poslanik da, to prihvatite, a ono što vam zabrani - ostavite, i bojte se Allaha. Allah, zaista, žestoko kažnjava.
+Plijen od stanovnika sela i gradova koji Allah Poslaniku Svome daruje pripada: Allahu i Poslaniku Njegovu, i bližnjima njegovim, i siročadi, i siromašnim, i putnicima namjernicima - da ne bi prelazio samo iz ruku u ruke bogataša vaših; ono što vam Poslanik da, to prihvatite, a ono što vam zabrani - ostavite, i bojte se Allaha. Allah, zaista, žestoko kažnjava.
 
 # 5134
 

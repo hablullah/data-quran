@@ -1348,8 +1348,7 @@ Kada Imranova žena reče: "Gospodaru moj, ovo što je u trbuhu mome ja, zaista,
 
 # 329
 
-A nakon što je rodila, ona reče: “Gospodaru moj, rodila sam žensko!” – a Allah najbolje zna šta je ona rodila, a muško nije kao žensko. “Dala
-sam joj ime Merjem. Ja nju i porod njezin stavljam pod Tvoju zaštitu od prokletog šejtana.”
+A nakon što je rodila, ona reče: “Gospodaru moj, rodila sam žensko!” – a Allah najbolje zna šta je ona rodila, a muško nije kao žensko. “Dala sam joj ime Merjem. Ja nju i porod njezin stavljam pod Tvoju zaštitu od prokletog šejtana.”
 
 # 330
 
@@ -4479,8 +4478,7 @@ A kad se Musa, srdit i bijesan, narodu svome vrati, povika: "Kako ste tako ružn
 
 # 1106
 
-One koji su tele prihvatili stići će, doista, srdžba Gospodara njihova i poniženje još na ovom svijetu. Tako Mi kažnjavamo one koji kuju
-laži.
+One koji su tele prihvatili stići će, doista, srdžba Gospodara njihova i poniženje još na ovom svijetu. Tako Mi kažnjavamo one koji kuju laži.
 
 # 1107
 
@@ -4548,8 +4546,7 @@ I Mi smo ih po Zemlji kao narode raspodijelili: bilo je među njima dobrih, a i 
 
 # 1123
 
-I poslije njih ostala su pokoljenja koja su Knjigu naslijedila i koja su uzimala prolazna dobra ovoga nižeg svijeta, i govorila: "Bit će nam oprošteno!" A ako bi im opet dopalo šaka tako nešto, opet bi to prihvatili. Zar od njih nije uzet zavjet u Knjizi da će o Allahu samo istinu govoriti - a oni čitaju ono što je u njoj. Onaj svijet je bolji za one
-koji se zabranjenog čuvaju; pa zar ne razumijete?!
+I poslije njih ostala su pokoljenja koja su Knjigu naslijedila i koja su uzimala prolazna dobra ovoga nižeg svijeta, i govorila: "Bit će nam oprošteno!" A ako bi im opet dopalo šaka tako nešto, opet bi to prihvatili. Zar od njih nije uzet zavjet u Knjizi da će o Allahu samo istinu govoriti - a oni čitaju ono što je u njoj. Onaj svijet je bolji za one koji se zabranjenog čuvaju; pa zar ne razumijete?!
 
 # 1124
 
@@ -7099,8 +7096,7 @@ Zar do vas nije doprla vijest o onima prije vas, o narodu Nuhovu, i o Adu, i o S
 
 # 1760
 
-Poslanici su njihovi govorili: “Zar se može sumnjati u Allaha, Koji je nebesa i Zemlju bez prethodnog primjera – iz ničega stvorio? On vas poziva da bi vam neke grijehe oprostio i da bi vas do roka određenog ostavio.” Oni su odgovorili: “Vi ste ljudi kao i mi; hoćete da nas odvratite od onih koje su naši preci obožavali – pa, donesite
-nam dokaz očevidni.”
+Poslanici su njihovi govorili: “Zar se može sumnjati u Allaha, Koji je nebesa i Zemlju bez prethodnog primjera – iz ničega stvorio? On vas poziva da bi vam neke grijehe oprostio i da bi vas do roka određenog ostavio.” Oni su odgovorili: “Vi ste ljudi kao i mi; hoćete da nas odvratite od onih koje su naši preci obožavali – pa, donesite nam dokaz očevidni.”
 
 # 1761
 
@@ -14402,8 +14398,7 @@ O vjernici, kad se vjernicama oženite, a onda ih, prije stupanja u bračni odno
 
 # 3583
 
-O Vjerovjesniče, Mi smo ti dozvolili da budu žene tvoje one kojima si dao vjenčane darove njihove, i one u vlasti tvojoj koje ti je Allah dao iz plijena, i kćeri amidža tvojih, i kćeri tetaka tvojih po ocu, i kćeri daidža tvojih, i kćeri tetaka tvojih po majci koje su se s tobom iselile, i ženu – vjernicu koja sebe pokloni Vjerovjesniku ako Vjerovjesnik
-hoće da se njome oženi, samo tebi, a ne ostalim vjernicima. Mi znamo šta smo propisali vjernicima u vezi sa suprugama njihovim i onima koje su u vlasništvu njihovu, a i da ti ne bi bilo teško. A Allah je Onaj Koji oprašta grijehe i milostiv je.
+O Vjerovjesniče, Mi smo ti dozvolili da budu žene tvoje one kojima si dao vjenčane darove njihove, i one u vlasti tvojoj koje ti je Allah dao iz plijena, i kćeri amidža tvojih, i kćeri tetaka tvojih po ocu, i kćeri daidža tvojih, i kćeri tetaka tvojih po majci koje su se s tobom iselile, i ženu – vjernicu koja sebe pokloni Vjerovjesniku ako Vjerovjesnik hoće da se njome oženi, samo tebi, a ne ostalim vjernicima. Mi znamo šta smo propisali vjernicima u vezi sa suprugama njihovim i onima koje su u vlasništvu njihovu, a i da ti ne bi bilo teško. A Allah je Onaj Koji oprašta grijehe i milostiv je.
 
 # 3584
 
@@ -14627,8 +14622,7 @@ A oni koji ne vjeruju govore: “Mi nećemo vjerovati u ovaj Kur’an niti u one
 
 # 3639
 
-“Nije bilo tako”, odgovorit će oni koji su bili tlačeni onima koji su bili oholi, “nego ste danju i noću spletkarili kad ste od nas tražili da u Allaha ne vjerujemo i da Mu druge jednakim smatramo.” I prikrit će kajanje kad vide da će kažnjeni biti, a mi ćemo na vratove nevjernika sindžire staviti; zar će biti kažnjeni drukčije nego prema onome kako
-su radili?!
+“Nije bilo tako”, odgovorit će oni koji su bili tlačeni onima koji su bili oholi, “nego ste danju i noću spletkarili kad ste od nas tražili da u Allaha ne vjerujemo i da Mu druge jednakim smatramo.” I prikrit će kajanje kad vide da će kažnjeni biti, a mi ćemo na vratove nevjernika sindžire staviti; zar će biti kažnjeni drukčije nego prema onome kako su radili?!
 
 # 3640
 
@@ -20706,9 +20700,7 @@ Ni rodbina vaša ni djeca vaša neće vam biti od koristi, na Kijametskom danu O
 
 # 5154
 
-Imali ste dobar uzor u Ibrahimu i u onima koji su s njim kad su narodu svome rekli: "Mi s vama nemamo ništa, a ni s onim što vi, umjesto Allaha, obožavate, mi vas
-se odričemo, i neprijateljstvo i mržnja između nas stalno će se javljati sve dok ne budete u Allaha, Njega Jedinog, vjerovali!", ali ne i u Ibrahimovim riječima ocu svome: "Ja
-ću za tebe moliti oprost, ali te ne mogu od Allaha odbraniti. Gospodaru naš, na Tebe se oslanjamo, Tebi se obraćamo i kod Tebe je krajnje odredište.
+Imali ste dobar uzor u Ibrahimu i u onima koji su s njim kad su narodu svome rekli: "Mi s vama nemamo ništa, a ni s onim što vi, umjesto Allaha, obožavate, mi vas se odričemo, i neprijateljstvo i mržnja između nas stalno će se javljati sve dok ne budete u Allaha, Njega Jedinog, vjerovali!", ali ne i u Ibrahimovim riječima ocu svome: "Ja ću za tebe moliti oprost, ali te ne mogu od Allaha odbraniti. Gospodaru naš, na Tebe se oslanjamo, Tebi se obraćamo i kod Tebe je krajnje odredište.
 
 # 5155
 
@@ -20744,8 +20736,7 @@ O vjerovjesniče, kada ti dođu vjernice da ti polože prisegu: da neće Allahu 
 
 # 5163
 
-O vi koji vjerujete, ne uzimajte za prisne prijatelje i zaštitnike ljude na koje se Allah rasrdio; oni su izgubili nadu da će bilo kakvu nagradu na ahiretu imati, isto kao što su
-nevjernici izgubili nadu u vezi s onim koji su u grobovima.
+O vi koji vjerujete, ne uzimajte za prisne prijatelje i zaštitnike ljude na koje se Allah rasrdio; oni su izgubili nadu da će bilo kakvu nagradu na ahiretu imati, isto kao što su nevjernici izgubili nadu u vezi s onim koji su u grobovima.
 
 # 5164
 
@@ -21881,8 +21872,7 @@ jer ako ih ostaviš, oni će robove Tvoje u zabludu zavoditi i samo će griješn
 
 # 5447
 
-Gospodaru moj, oprosti meni, i roditeljima mojim, i onome koji kao vjernik u dom moj uđe, i vjernicima i vjernicama, a nepravednima samo
-propast povećaj!”
+Gospodaru moj, oprosti meni, i roditeljima mojim, i onome koji kao vjernik u dom moj uđe, i vjernicima i vjernicama, a nepravednima samo propast povećaj!”
 
 # 5448
 

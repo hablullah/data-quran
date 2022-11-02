@@ -978,8 +978,7 @@ Sizden ölenlerin, geride bıraktıkları eşleri, kendi başlarına (evlenmeden
 
 # 243
 
-Nikâhtan sonra henüz dokunmadan veya onlar için belli bir mehir tayin etmeden kadınları boşarsanız bunda size herhangi bir günah yoktur.Bu durumda onlara hediye cinsinden bir şeyler verin. Zengin olan durumuna göre, fakir de durumuna göre vermelidir.
-Bu iyi davrananların şanına yakışır bir borçtur.
+Nikâhtan sonra henüz dokunmadan veya onlar için belli bir mehir tayin etmeden kadınları boşarsanız bunda size herhangi bir günah yoktur.Bu durumda onlara hediye cinsinden bir şeyler verin. Zengin olan durumuna göre, fakir de durumuna göre vermelidir. Bu iyi davrananların şanına yakışır bir borçtur.
 
 # 244
 

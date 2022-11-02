@@ -2538,8 +2538,7 @@ Verkünde den Heuchlern, daß es für sie schmerzhafte Strafe geben wird,
 
 # 633
 
-Er hat euch (doch) bereits im Buch offenbart: Wenn ihr hört, daß man Allahs Zeichen verleugnet und sich über sie lustig macht, dann sitzt nicht mit ihnen
-(zusammen), bis sie auf ein anderes Gespräch eingehen. Sonst seid ihr ihnen gleich. Gewiß, Allah wird die Heuchler und die Ungläubigen alle in der Hölle versammeln,
+Er hat euch (doch) bereits im Buch offenbart: Wenn ihr hört, daß man Allahs Zeichen verleugnet und sich über sie lustig macht, dann sitzt nicht mit ihnen (zusammen), bis sie auf ein anderes Gespräch eingehen. Sonst seid ihr ihnen gleich. Gewiß, Allah wird die Heuchler und die Ungläubigen alle in der Hölle versammeln,
 
 # 634
 

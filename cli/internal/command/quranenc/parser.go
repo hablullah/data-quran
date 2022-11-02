@@ -7,9 +7,12 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+	"regexp"
 
 	"github.com/sirupsen/logrus"
 )
+
+var rxTransNewLines = regexp.MustCompile(`\s*\n+\s*`)
 
 type Metadata struct {
 	Title        string `xml:"title"`
@@ -104,6 +107,9 @@ func parseFile(path string) (*FlattenedData, bool, error) {
 			// Normalize text
 			translation := norm.NormalizeUnicode(ayah.Translation)
 			footnotes := norm.NormalizeUnicode(ayah.Footnotes)
+
+			// Remove newlines in translation
+			translation = rxTransNewLines.ReplaceAllString(translation, " ")
 
 			// Make it safe for markdown
 			translation = util.MarkdownText(translation)

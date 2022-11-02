@@ -7942,8 +7942,7 @@ Indeed in their stories, there is a lesson for men of understanding. It (the Qur
 
 # 1708
 
-Alif-Lâm-Mîm-Râ.
-\[These letters are one of the miracles of the Qur’an; and none but Allah (Alone) knows their meanings\].These are the Verses of the Book (the Qur’an), and that which has been revealed unto you (Muhammad صلى الله عليه وسلم) from your Lord is the truth, out most men believe not.
+Alif-Lâm-Mîm-Râ. \[These letters are one of the miracles of the Qur’an; and none but Allah (Alone) knows their meanings\].These are the Verses of the Book (the Qur’an), and that which has been revealed unto you (Muhammad صلى الله عليه وسلم) from your Lord is the truth, out most men believe not.
 
 # 1709
 
@@ -17625,8 +17624,7 @@ And all the praises and thanks be to Allâh, Lord of the ‘Âlamîn (mankind, j
 
 # 3971
 
-Sâd.
-\[These letters (Sâd etc.) are one of the miracles of the Quran and none but Allah (Alone) knows their meanings\]. By the Quran full of reminding.
+Sâd. \[These letters (Sâd etc.) are one of the miracles of the Quran and none but Allah (Alone) knows their meanings\]. By the Quran full of reminding.
 
 # 3972
 
@@ -23288,9 +23286,7 @@ Say (O Muhammad صلى الله عليه وسلم): "Tell me! If (all) your wate
 
 # 5272
 
-Nûn.
-\[These letters (Nun, etc.) are one of the miracles of the Qur’an, and none but Allah (Alone) knows their meanings\].
-By the pen and by what they (the angels) write (in the Records of men).
+Nûn. \[These letters (Nun, etc.) are one of the miracles of the Qur’an, and none but Allah (Alone) knows their meanings\]. By the pen and by what they (the angels) write (in the Records of men).
 
 # 5273
 

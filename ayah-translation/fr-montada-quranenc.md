@@ -5026,8 +5026,7 @@ Ceux qui se trouvent auprès de ton Seigneur ne refusent pas, par orgueil, de L�
 
 # 1161
 
-Ils t’interrogent sur le butin. Dis : « Le butin revient à Allah et à Son Messager. »
-Craignez donc Allah, arrangez-vous à l’amiable dans vos rapports, obéissez à Allah et à Son Messager, si vous êtes croyants.
+Ils t’interrogent sur le butin. Dis : « Le butin revient à Allah et à Son Messager. » Craignez donc Allah, arrangez-vous à l’amiable dans vos rapports, obéissez à Allah et à Son Messager, si vous êtes croyants.
 
 # 1162
 

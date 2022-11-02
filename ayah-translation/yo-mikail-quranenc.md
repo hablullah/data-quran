@@ -252,8 +252,7 @@ Báwo ni ẹ ṣe ń ṣàì gbàgbọ́ nínú Allāhu ná! Bẹ́ẹ̀ sì ni 
 
 # 38
 
-Allāhu fi gbogbo àwọn orúkọ náà mọ Ādam. Lẹ́yìn náà, Ó kó wọn síwájú àwọn mọlāika, Ó sì sọ pé: “Ẹ sọ
- àwọn orúkọ ìwọ̀nyí fún Mi, tí ẹ bá jẹ́ olódodo.”
+Allāhu fi gbogbo àwọn orúkọ náà mọ Ādam. Lẹ́yìn náà, Ó kó wọn síwájú àwọn mọlāika, Ó sì sọ pé: “Ẹ sọ àwọn orúkọ ìwọ̀nyí fún Mi, tí ẹ bá jẹ́ olódodo.”
 
 # 39
 
