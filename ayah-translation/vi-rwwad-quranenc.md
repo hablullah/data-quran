@@ -4,8 +4,8 @@ Language    : Vietnamese
 ID          : vietnamese_rwwad
 Source      : https://quranenc.com
 URL         : https://quranenc.com/en/browse/vietnamese_rwwad
-UpdatedAt   : 2021-08-19 11:54:00 (v1.0.4-xml.1)
-CheckUpdates: https://quranenc.com/check/vietnamese_rwwad/v1.0.4-xml.1
+UpdatedAt   : 2022-12-06 23:04:30 (v1.0.5-xml.1)
+CheckUpdates: https://quranenc.com/check/vietnamese_rwwad/v1.0.5-xml.1
 -->
 
 # 1
@@ -1120,7 +1120,7 @@ Ngươi (hỡi Thiên Sứ Muhammad) có thấy kẻ đã tranh luận với Ibr
 
 # 266
 
-Hoặc (Ngươi có thấy ai) giống như kẻ (‘Uzair)[^26] đã đi ngang qua một ngôi làng tan hoang và điêu tàn, y bảo: “Làm thế nào Allah có thể dựng sống lại ngôi làng này sau khi nó đã chết?” Thế là Allah đã làm cho y chết trong thời gian một trăm năm rồi sau đó dựng y sống lại. Ngài hỏi Y: “Ngươi đã ngủ bao lâu rồi?” Y đáp: “Thưa, bề tôi chỉ ngủ một ngày hay một buổi gì đó.” Ngài bảo Y: “Không, ngươi đã ngủ cả một trăm năm rồi đấy. Ngươi hãy nhìn vào thức ăn và thức uống của mình đi, tất cả vẫn còn nguyên vẹn không bị ôi thiu với ngần ấy thời gian. Ngươi hãy nhìn vào con lừa của ngươi (nó đã chết thành đóng xương khô), TA lấy ngươi làm một dấu hiệu lạ cho nhân loại, ngươi hãy nhìn vào những khúc xương xem TA sắp xếp chúng rồi làm cho thịt bao chúng lại như thế nào.” Do đó, sau khi mọi thứ đã được phô bày một cách rõ ràng cho y (Y đã nhận thức được thực tại), y liền thốt lên: “Giờ đây bề tôi đã biết rõ Allah toàn năng trên tất cả mọi thứ.”
+Hoặc (Ngươi có thấy ai) giống như kẻ (‘Uzair)[^26] đã đi ngang qua một ngôi làng tan hoang và điêu tàn, y bảo: “Làm thế nào Allah có thể dựng sống lại ngôi làng này sau khi nó đã chết?” Thế là Allah đã làm cho y chết trong thời gian một trăm năm rồi sau đó dựng y sống lại. Ngài hỏi Y: “Ngươi đã ngủ bao lâu rồi?” Y đáp: “Thưa, bề tôi chỉ ngủ một ngày hay một buổi gì đó.” Ngài bảo Y: “Không, ngươi đã ngủ cả một trăm năm rồi đấy. Ngươi hãy nhìn vào thức ăn và thức uống của mình đi, tất cả vẫn còn nguyên vẹn không bị ôi thiu với ngần ấy thời gian. Ngươi hãy nhìn vào con lừa của ngươi (nó đã chết thành đống xương khô), TA lấy ngươi làm một dấu hiệu lạ cho nhân loại, ngươi hãy nhìn vào những khúc xương xem TA sắp xếp chúng rồi làm cho thịt bao chúng lại như thế nào.” Do đó, sau khi mọi thứ đã được phô bày một cách rõ ràng cho y (Y đã nhận thức được thực tại), y liền thốt lên: “Giờ đây bề tôi đã biết rõ Allah toàn năng trên tất cả mọi thứ.”
 
 [^26]: Đại đa số học giả chuyên giảng giải Qur’an cho rằng người đàn ông trong câu Kinh này là ‘Uzair, một số học giả thì bảo đó là ông Al-Khudhir và một số khác thì bảo rằng đó là người khác. (trích từ Tafsir Ibnu Al-Kathir).
 
@@ -1214,7 +1214,7 @@ Các ngươi hãy sợ Ngày mà các ngươi được đưa trở về trình d
 
 # 289
 
-Hỡi những người có đức tin, khi các ngươi mượn tiền bạc của nhau đến một thời hạn ấn định thì các ngươi hãy viết khoản nợ đó ra (thành một văn bản rõ ràng), các ngươi hãy tìm một người ghi chép viết lại (đầy đủ các điều khoản thỏa thuận) giữa các ngươi với nhau một cách công bằng. Bản thân người ghi chép không được từ chối viết giống như những gì Allah đã dạy y. Cho nên, người ghi chép hãy viết, còn người mắc nợ hãy đọc ra khoản nợ (một cách chính xác), y hãy kính sợ Allah, Thượng Đế của y, và không được bớt đi bất cứ thứ gì từ khoản nợ đó. Nếu người mắc nợ là người khờ khạo hoặc nhỏ tuổi (hay già yếu) hoặc không có khả năng (đọc ra khoản nợ) thì người giám hộ của y sẽ là người đại diện đọc ra khoản nợ theo đúng sự thật và công bằng. Các ngươi hãy tìm hai người đàn ông trong các ngươi đứng ra làm nhân chứng cho giấy nợ đó, nếu không có đủ hai người đàn ông thì các ngươi tìm một người đàn ông và hai người phụ nữ mà các ngươi hài lòng để họ làm nhân chứng, (mục đích) để người phụ nữ này nhắc người phụ nữ kia (nếu một trong hai có người sai sót hay nhầm lẫn). Những người được mời làm nhân chứng không được từ chối. Các ngươi chớ ái ngại việc phải viết khoản nợ đó ra (thành văn bản) dù nó ít hay nhiều sau khi (đôi bên) đã thống nhất đến kỳ hạn. Đối với Allah (việc viết giấy nợ) là lẽ công bằng và chính xác nhất khi được đưa ra làm chứng và nhằm để ngăn chặn việc tranh chấp sau này. Trừ trường hợp các ngươi trao đổi mua bán tại chỗ (bằng tiền mặt) thì các ngươi không bị tội nếu các ngươi không viết nó ra (thành văn bản) cũng như không gọi người đứng ra làm chứng khi các ngươi thỏa thuận mua bán. Các ngươi không được làm hại đến người viết (giấy nợ) cũng như người làm chứng; nếu các ngươi làm thế thì chắc chắn đó là một hành động xấu xa và tội lỗi của các ngươi. Các ngươi hãy kính sợ Allah, Allah dạy các ngươi (những điều tốt đẹp), và Allah luôn biết rõ tất cả mọi sự việc.
+Hỡi những người có đức tin, khi các ngươi mượn tiền bạc của nhau đến một thời hạn ấn định thì các ngươi hãy viết khoản nợ đó ra (thành một văn bản rõ ràng), các ngươi hãy tìm một người ghi chép viết lại (đầy đủ các điều khoản thỏa thuận) giữa các ngươi với nhau một cách công bằng. Bản thân người ghi chép không được từ chối viết giống như những gì Allah đã dạy y. Cho nên, người ghi chép hãy viết, còn người mắc nợ hãy đọc ra khoản nợ (một cách chính xác), y hãy kính sợ Allah, Thượng Đế của y, và không được bớt đi bất cứ thứ gì từ khoản nợ đó. Nếu người mắc nợ là người khờ khạo hoặc nhỏ tuổi (hay già yếu) hoặc không có khả năng (đọc ra khoản nợ) thì người giám hộ của y sẽ là người đại diện đọc ra khoản nợ theo đúng sự thật và công bằng. Các ngươi hãy tìm hai người đàn ông trong các ngươi đứng ra làm nhân chứng cho giấy nợ đó, nếu không có đủ hai người đàn ông thì các ngươi tìm một người đàn ông và hai người phụ nữ mà các ngươi hài lòng để họ làm nhân chứng, (mục đích) để người phụ nữ này nhắc người phụ nữ kia (nếu một trong hai có người sai sót hay nhầm lẫn). Những người được mời làm nhân chứng không được từ chối. Các ngươi chớ ái ngại việc phải viết khoản nợ đó ra (thành văn bản) dù nó ít hay nhiều sau khi (đôi bên) đã thống nhất đến kỳ hạn. Đối với Allah (việc viết giấy nợ) là lẽ công bằng và chính xác nhất khi được đưa ra làm chứng và nhằm để ngăn chặn việc tranh chấp sau này. Trừ trường hợp các ngươi trao đổi mua bán tại chỗ (bằng tiền mặt) thì các ngươi không bị tội nếu các ngươi không viết nó ra (thành văn bản) cũng như không gọi người đứng ra làm chứng khi các ngươi thỏa thuận mua bán. Tuy nhiên, các ngươi hãy gọi nhân chứng khi thương lượng mua bán. Các ngươi không được làm hại đến người viết (giấy nợ) cũng như người làm chứng; nếu các ngươi làm thế thì chắc chắn đó là một hành động xấu xa và tội lỗi của các ngươi. Các ngươi hãy kính sợ Allah, Allah dạy các ngươi (những điều tốt đẹp), và Allah luôn biết rõ tất cả mọi sự việc.
 
 # 290
 
@@ -1622,7 +1622,7 @@ Ngươi (Thiên Sứ Muhammad) hãy nói với họ: “Allah đã phán sự th
 
 # 389
 
-Quả thật, ngôi đền đầu tiên được xây dựng cho nhân loại (để thờ phượng Allah) là Ngôi Đền tại Bakkah (Makkah) hồng phúc và là sự chỉ đạo cho toàn vũ trụ và muôn loài.
+Quả thật, ngôi đền đầu tiên được xây dựng cho nhân loại (để thờ phượng Allah) là Ngôi Đền tại Bakkah (Makkah) hồng phúc và là sự chỉ đạo cho toàn vũ trụ và vạn vật.
 
 # 390
 
@@ -2448,7 +2448,7 @@ Bọn họ (những người giả tạo đức tin) đã ao ước giá như c�
 
 # 583
 
-Ngoại trừ những ai đã kịp hội nhập vào nhóm người mà giữa các ngươi và họ có hiệp ước (ngừng chiến) hoặc những ai chủ động tìm đến các ngươi với tấm lòng (không muốn) chiến đấu với các ngươi hoặc chiến đấu với nhóm (đa thần) của họ nữa. Và nếu muốn, Allah đã để họ khống chế các ngươi. Tuy nhiên, nếu họ tự động lui quân, không đánh các ngươi nữa và đề nghị hòa bình với các ngươi thì Allah không cho các ngươi lý do nào chiến đấu với họ.
+Ngoại trừ những ai đã kịp hội nhập vào nhóm người mà giữa các ngươi và họ có hiệp ước (ngừng chiến) hoặc những ai chủ động tìm đến các ngươi với tấm lòng (không muốn) chiến đấu với các ngươi hoặc chiến đấu với nhóm (đa thần) của họ nữa. Và nếu muốn, Allah đã để họ khống chế các ngươi, là họ đã giết các ngươi. Tuy nhiên, nếu họ tự động lui quân, không đánh các ngươi nữa và đề nghị hòa bình với các ngươi thì Allah không cho các ngươi lý do nào chiến đấu với họ.
 
 # 584
 
@@ -3830,7 +3830,7 @@ Cứ mỗi khi có một dấu hiệu nào đó được mang đến trình bày
 
 # 914
 
-Do đó, người nào mà Allah muốn hướng dẫn y thì Ngài sẽ mở lòng ngực của y để y tiếp nhận Islam còn người nào mà Ngài muốn làm cho y lầm lạc thì Ngài sẽ làm cho lòng ngực của y trở nên chặt cứng và khó khăn như thể y đang đi lên trời. Allah đặt sự ô uế lên những kẻ vô đức tin như thế đấy.
+Do đó, người nào mà Allah muốn hướng dẫn y thì Ngài sẽ mở lồng ngực của y để y tiếp nhận Islam còn người nào mà Ngài muốn làm cho y lầm lạc thì Ngài sẽ làm cho lồng ngực của y trở nên chặt cứng và khó khăn như thể y đang đi lên trời. Allah đặt sự ô uế lên những kẻ vô đức tin như thế đấy.
 
 # 915
 
@@ -4004,7 +4004,7 @@ Alif. Lam. Mim. Sad
 
 # 956
 
-Kinh (Qur’an) đã được ban xuống cho Ngươi (hỡi Thiên Sứ). Vì vậy, chớ đừng để lòng ngực của Ngươi có sự khó khăn (hay sự hoài nghi) về Nó. (Nó được bạn xuống cho Ngươi) là để Ngươi cảnh báo (nhân loại) và nhắc nhở những người có đức tin.
+Kinh (Qur’an) đã được ban xuống cho Ngươi (hỡi Thiên Sứ). Vì vậy, chớ đừng để lồng ngực của Ngươi có sự khó khăn (hay sự hoài nghi) về Nó. (Nó được bạn xuống cho Ngươi) là để Ngươi cảnh báo (nhân loại) và nhắc nhở những người có đức tin.
 
 # 957
 
@@ -4276,7 +4276,7 @@ Những tên lãnh đạo và cầm quyền trong đám dân của (Hud) bảo Y
 
 # 1023
 
-“Phải chăng các người ngạc nhiên về việc lời nhắc nhở của Thượng Đế của các người do một người xuất thân từ các người mang đến cảnh báo các người ư? Các người hãy nhớ lại khi Ngài làm cho các người kế vị sau người dân của Nuh và ban thêm cho các người (ân huệ) qua việc tạo cho các ngươi có dáng vóc to lớn và vạm vỡ. Các người hãy nhớ đến hồng phúc mà Allah đã ban cho các người hi vọng các người là những người thành đạt.”
+“Phải chăng các người ngạc nhiên về việc lời nhắc nhở của Thượng Đế của các người do một người xuất thân từ các người mang đến cảnh báo các người ư? Các người hãy nhớ lại khi Ngài làm cho các người kế vị sau người dân của Nuh và ban thêm cho các người (ân huệ) qua việc tạo cho các người có dáng vóc to lớn và vạm vỡ. Các người hãy nhớ đến hồng phúc mà Allah đã ban cho các người hi vọng các người là những người thành đạt.”
 
 # 1024
 
@@ -4284,7 +4284,7 @@ Những tên lãnh đạo và cầm quyền trong đám dân của (Hud) bảo Y
 
 # 1025
 
-(Nuh) nói: “Chắc chắn sự trừng phạt và cơn thịnh nộ của Thượng Đế của các người sẽ giáng xuống các người. Lẽ nào các người lại tranh luận với ta về những cái tên (thần linh) do chính các người và tổ tiên của các người bịa ra chứ Allah không hề ban cho bất cứ thẩm quyền nào? Vậy thì các người hãy chờ xem, Ta cũng sẽ chờ xem cùng với các người.”
+(Hud) nói: “Chắc chắn sự trừng phạt và cơn thịnh nộ của Thượng Đế của các người sẽ giáng xuống các người. Lẽ nào các người lại tranh luận với Ta về những cái tên (thần linh) do chính các người và tổ tiên của các người bịa ra chứ Allah không hề ban cho bất cứ thẩm quyền nào? Vậy thì các người hãy chờ xem, Ta cũng sẽ chờ xem cùng với các người.”
 
 # 1026
 
@@ -4348,7 +4348,7 @@ Về người dân Madyan (Madian), (TA đã cử) Shu’aib, người anh em c�
 
 # 1041
 
-“Nếu như một nhóm trong các người đã tin tưởng vào điều mà Ta mang đến và nhóm còn lại thì không tin tưởng thì các người (những người vô đức tin) hãy kiên nhẫn cho đến khi Allah phân xử giữa chúng ta, bởi lẽ Ngài là vị Thẩm Phán Ưu Việt.”
+“Nếu như một nhóm trong các người đã tin tưởng vào điều mà Ta mang đến và nhóm còn lại không tin tưởng thì các người (những người vô đức tin) hãy kiên nhẫn cho đến khi Allah phân xử giữa chúng ta, bởi lẽ Ngài là vị Thẩm Phán Ưu Việt.”
 
 # 1042
 
@@ -5310,7 +5310,7 @@ Các ngươi (hỡi những người có đức tin) hãy ra đi chinh chiến d
 
 # 1277
 
-Nếu (những kẻ giả tạo đức tin) thấy có một mối lợi gần kề trước mắt và một chuyến đi dễ dàng thì chúng đã theo Ngươi (hỡi Thiên Sứ Muhammad), nhưng quảng đường viễn chinh (đến Tabuk) quá xa (và chông gai) đối với chúng. Chúng sẽ thề thốt nhân danh Allah, nói: “Nếu chúng tôi có khả năng chắc chắn chúng tôi đã ra đi chinh chiến cùng các người”. Chúng đã hủy hoại đi linh hồn của chúng (bằng sự thề thốt đó của chúng) bởi Allah biết rõ chúng là những kẻ nói dối.
+Nếu (những kẻ giả tạo đức tin) thấy có một mối lợi gần kề trước mắt và một chuyến đi dễ dàng thì chúng đã theo Ngươi (hỡi Thiên Sứ Muhammad), nhưng quảng đường viễn chinh (đến Tabuk) quá xa (và chông gai) đối với chúng. Chúng sẽ thề thốt nhân danh Allah, nói: “Nếu chúng tôi có khả năng chắc chắn chúng tôi đã ra đi chinh chiến cùng các người”. Chúng đã hủy hoại linh hồn của chúng (bằng sự thề thốt đó của chúng) bởi Allah biết rõ chúng là những kẻ nói dối.
 
 # 1278
 
@@ -5318,7 +5318,7 @@ Allah đã tha thứ cho Ngươi (Thiên Sứ Muhammad). (Nhưng) tại sao Ngư
 
 # 1279
 
-Những người (thực sự) có đức tin nơi Allah và Đời Sau sẽ không xin phép Ngươi (Thiên Sứ Muhammad) được miễn tham gia chinh chiến bằng tài sản và sinh mang của họ. Thật vậy, Allah biết rõ những người ngoan đạo.
+Những người (thực sự) có đức tin nơi Allah và Đời Sau sẽ không xin phép Ngươi (Thiên Sứ Muhammad) được miễn tham gia chinh chiến bằng tài sản và sinh mạng của họ. Thật vậy, Allah biết rõ những người ngoan đạo.
 
 # 1280
 
@@ -6076,7 +6076,7 @@ Sau khi (hình phạt giáng xuống), TA đã giải cứu các Sứ Giả củ
 
 # 1468
 
-Ngươi (hỡi Thiên Sứ Muhammad) hãy nói: “Hỡi nhân loại, nếu các ngươi hoài nghi về tôn giáo của Ta, Ta không thờ phượng các thần linh mà các ngươi thờ phượng ngoài Allah. Ta chỉ thờ phượng một mình Allah, Đấng làm cho các người chết, và Ta được lệnh phải trở thành một người có đức tin.”
+Ngươi (hỡi Thiên Sứ Muhammad) hãy nói: “Hỡi nhân loại, nếu các ngươi hoài nghi về tôn giáo của Ta, Ta không thờ phượng các thần linh mà các ngươi thờ phượng ngoài Allah. Ta chỉ thờ phượng một mình Allah, Đấng làm cho các ngươi chết, và Ta được lệnh phải trở thành một người có đức tin.”
 
 # 1469
 
@@ -6448,7 +6448,7 @@ Người dân Madyan, (TA đã cử) Shu’aib, người anh em của chúng đ�
 
 # 1561
 
-(Shu’aib) nói: “Hỡi người dân của Ta! Các ngươi có xem xét: nếu Ta có bằng chứng rõ ràng từ nơi Thượng Đế của Ta và Ngài ban cho Ta bổng lộc tốt đẹp từ nơi Ngài. Ta không muốn làm khác với các ngươi cũng như không muốn cấm cản các người bất cứ gì, Ta chỉ muốn cải thiện các ngươi hết sức có thể. Và sự thành công của Ta đều là nhờ Allah, Ta phó thác cho Ngài và quay về sám hối với Ngài.”
+(Shu’aib) nói: “Hỡi người dân của Ta! Các ngươi có xem xét: nếu Ta có bằng chứng rõ ràng từ nơi Thượng Đế của Ta và Ngài ban cho Ta bổng lộc tốt đẹp từ nơi Ngài. Ta không muốn làm khác với các ngươi cũng như không muốn cấm cản các ngươi bất cứ gì, Ta chỉ muốn cải thiện các ngươi hết sức có thể. Và sự thành công của Ta đều là nhờ Allah, Ta phó thác cho Ngài và quay về sám hối với Ngài.”
 
 # 1562
 
@@ -6738,7 +6738,7 @@ Và có hai thanh niên cùng vào tù với (Yusuf). Một trong hai nói: “Q
 
 # 1633
 
-(Yusuf) nói: “Trước khi thức ăn được mang đến cho hai cậu, tôi sẽ cho hai người biết ý nghĩa của hai giấc mơ đó. (Sở dĩ, tôi biết cách giải mã giấc mơ không phải là do tôi sử dụng bùa thuật) mà là do Thượng Đế của tôi đã dạy, và do tôi đã từ bỏ tín ngưỡng của cộng đồng không có đức tin nơi Allah và nơi Đời Sau.”
+(Yusuf) nói: “Trước khi thức ăn được mang đến cho hai người, tôi sẽ cho hai người biết ý nghĩa của hai giấc mơ đó. (Sở dĩ, tôi biết cách giải mã giấc mơ không phải là do tôi sử dụng bùa thuật) mà là do Thượng Đế của tôi đã dạy, và do tôi đã từ bỏ tín ngưỡng của cộng đồng không có đức tin nơi Allah và nơi Đời Sau.”
 
 # 1634
 
@@ -7034,7 +7034,7 @@ Tất cả Thiên Sứ mà TA (Allah) đã cử phái trước Ngươi (hỡi Th
 
 # 1707
 
-Quả thât, trong các câu chuyện của (Yusuf và các Sứ Giả khác) là những bài học cho những người thông hiểu. (Qur’an) không phải là lời bịa đặt mà là một sự xác nhận lại những điều đã xảy ra trước Nó và là một sự trình bày chi tiết (về các giới luật và giáo điều), là một chỉ đạo và hồng ân cho những người có đức tin.
+Quả thật, trong các câu chuyện của (Yusuf và các Sứ Giả khác) là những bài học cho những người thông hiểu. (Qur’an) không phải là lời bịa đặt mà là một sự xác nhận lại những điều đã xảy ra trước Nó và là một sự trình bày chi tiết (về các giới luật và giáo điều), là một chỉ đạo và hồng ân cho những người có đức tin.
 
 # 1708
 
@@ -7242,7 +7242,7 @@ Và Musa nói: “Nếu các ngươi và tất cả loài người trên trái �
 
 # 1759
 
-(Hỡi những kẻ vô đức tin!) Lẽ nào các ngươi chưa nghe thông tin về các thế hệ trước các ngươi? Đám dân của Nuh, đám dân ‘Ad (của Hud), đám dân Thamud (của Saleh) và những ai sau chúng? Allah biết rõ về họ hơn ai hết. Khi các Sứ Giả của chúng đến gặp chúng cùng với các bằng chứng rõ ràng thì chúng lại đưa tay lên miệng, nói: “Quả thật, bọn ta không tin vào điều mà các ngươi được cử phái đến, và bọn ta thực sự hoài nghi về điều mà các ngươi kêu gọi bọn ta đến với nó.”
+(Hỡi những kẻ vô đức tin!) Lẽ nào các ngươi chưa nghe thông tin về các thế hệ trước các ngươi? Đám dân của Nuh, đám dân ‘Ad (của Hud), đám dân Thamud (của Saleh) và những ai sau chúng? Allah biết rõ về chúng hơn ai hết. Khi các Sứ Giả của chúng đến gặp chúng cùng với các bằng chứng rõ ràng thì chúng lại đưa tay lên miệng, nói: “Quả thật, bọn ta không tin vào điều mà các ngươi được cử phái đến, và bọn ta thực sự hoài nghi về điều mà các ngươi kêu gọi bọn ta đến với nó.”
 
 # 1760
 
@@ -8238,7 +8238,7 @@ Những kẻ đã không tin tưởng vào những Lời Mặc Khải của Alla
 
 # 2007
 
-Bất cứ ai không tin vào Allah sau khi đã tin tưởng do bị cưỡng ép nhưng trong tâm y vẫn hãy còn đức tin vững chắc (thì y vẫn là một người có đức tin). Tuy nhiên, những ai mà lòng ngực của họ sẵn sàng chấp nhận sự vô đức tin thì sẽ phải gánh chịu cơn thịnh nộ của Allah và sẽ phải đối mặt với một sự trừng phạt khủng khiếp.
+Bất cứ ai không tin vào Allah sau khi đã tin tưởng do bị cưỡng ép nhưng trong tâm y vẫn hãy còn đức tin vững chắc (thì y vẫn là một người có đức tin). Tuy nhiên, những ai mà lồng ngực của họ sẵn sàng chấp nhận sự vô đức tin thì sẽ phải gánh chịu cơn thịnh nộ của Allah và sẽ phải đối mặt với một sự trừng phạt khủng khiếp.
 
 # 2008
 
@@ -9722,7 +9722,7 @@ Musa ném chiếc gậy xuống, nó liền biến thành một con rắn bò nh
 
 # 2373
 
-(Musa) thưa: “Lạy Thượng Đế của bề tôi! Xin Ngài nới rộng lòng ngực của bề tôi.”
+(Musa) thưa: “Lạy Thượng Đế của bề tôi! Xin Ngài nới rộng lồng ngực của bề tôi.”
 
 # 2374
 
@@ -10590,11 +10590,11 @@ Quả thật, trong cái này (Qur’an) là một Thông Điệp gởi đến n
 
 # 2590
 
-TA (Allah) cử Ngươi (hỡi Thiên Sứ) đến chỉ để mang lại hồng phúc cho vũ trụ và muôn loài.
+TA (Allah) cử Ngươi (hỡi Thiên Sứ) đến chỉ để mang lại hồng phúc cho vũ trụ và vạn vật.
 
 # 2591
 
-Ngươi hãy bảo họ: “Quả thật Ta được mặc khải cho biết Thượng Đế của các người chỉ là một Thượng Đế duy nhất. Thế các người sẽ không là những người thần phục Ngài sao?”
+Ngươi hãy bảo họ: “Quả thật Ta được mặc khải cho biết Thượng Đế của các người chỉ là một Thượng Đế duy nhất. Thế các người sẽ không là những người Muslim (thần phục Ngài) sao?”
 
 # 2592
 
@@ -12032,7 +12032,7 @@ Quả thật, Thượng Đế của Ngươi (hỡi Thiên Sứ Muhammad) là Đ�
 
 # 2948
 
-“Hai Ngươi cứ đi gặp Pha-ra-ông, hai ngươi hãy nói với y: Chúng tôi là Thiên Sứ của Thượng Đế của vũ trụ và muôn loài.”
+“Hai Ngươi cứ đi gặp Pha-ra-ông, hai ngươi hãy nói với y: Chúng tôi là Thiên Sứ của Thượng Đế của vũ trụ và vạn vật.”
 
 # 2949
 
@@ -12060,7 +12060,7 @@ Quả thật, Thượng Đế của Ngươi (hỡi Thiên Sứ Muhammad) là Đ�
 
 # 2955
 
-Pha-ra-ông hỏi (Musa): “Thế Thượng Đế của vũ trụ và muôn loài là gì?”
+Pha-ra-ông hỏi (Musa): “Thế Thượng Đế của vũ trụ và vạn vật là gì?”
 
 # 2956
 
@@ -12156,7 +12156,7 @@ Lúc đó, những tên phù thủy liền cúi xuống quỳ lạy.
 
 # 2979
 
-Họ nói: “Chúng tôi đã có đức tin nơi Thượng Đế của vũ trụ và muôn loài.”
+Họ nói: “Chúng tôi đã có đức tin nơi Thượng Đế của vũ trụ và vạn vật.”
 
 # 2980
 
@@ -12276,7 +12276,7 @@ Họ đáp: “Không, nhưng bọn ta thấy cha mẹ của bọn ta đã làm 
 
 # 3009
 
-“Đều là kẻ thù của Ta ngoại trừ Thượng Đế của vũ trụ và muôn loài.”
+“Đều là kẻ thù của Ta ngoại trừ Thượng Đế của vũ trụ và vạn vật.”
 
 # 3010
 
@@ -12360,7 +12360,7 @@ Và trong lúc cãi vã nhau trong (Hỏa Ngục), họ sẽ nói:
 
 # 3030
 
-“Khi mà chúng tôi đã suy tôn các ngươi ngang vai với Thượng Đế của vũ trụ và muôn loài.”
+“Khi mà chúng tôi đã suy tôn các ngươi ngang vai với Thượng Đế của vũ trụ và vạn vật.”
 
 # 3031
 
@@ -12404,7 +12404,7 @@ Khi Nuh, người anh em của họ bảo họ: “Các người không sợ (Al
 
 # 3041
 
-“Ta không đòi các người trả thù lao cho việc đó mà chính Thượng Đế của vũ trụ và muôn loài sẽ ân thưởng cho Ta.”
+“Ta không đòi các người trả thù lao cho việc đó mà chính Thượng Đế của vũ trụ và vạn vật sẽ ân thưởng cho Ta.”
 
 # 3042
 
@@ -12478,11 +12478,11 @@ Khi Hud, người anh em của họ bảo họ: “Các người không sợ (Al
 
 # 3059
 
-“Ta không đòi các người trả thù lao cho việc đó mà chính Thượng Đế của vũ trụ và muôn loài sẽ ân thưởng cho Ta.”
+“Ta không đòi các người trả thù lao cho việc đó mà chính Thượng Đế của vũ trụ và vạn vật loài sẽ ân thưởng cho Ta.”
 
 # 3060
 
-“Phải chăng các người đã xây cất trên cao (những ngôi nhà kiêng cố) để khoe khoang ư?”
+“Phải chăng các người đã xây cất trên cao (những ngôi nhà kiên cố) để khoe khoang ư?”
 
 # 3061
 
@@ -12550,7 +12550,7 @@ Khi Saleh, người anh em của họ bảo họ: “Các người không sợ (
 
 # 3077
 
-“Ta không đòi các người trả thù lao cho việc đó mà chính Thượng Đế của vũ trụ và muôn loài sẽ ân thưởng cho Ta.”
+“Ta không đòi các người trả thù lao cho việc đó mà chính Thượng Đế của vũ trụ và vạn vật sẽ ân thưởng cho Ta.”
 
 # 3078
 
@@ -12626,7 +12626,7 @@ Khi Lut, người anh em của họ bảo họ: “Các người không sợ (Al
 
 # 3096
 
-“Ta không đòi các người trả thù lao cho việc đó mà chính Thượng Đế của vũ trụ và muôn loài sẽ ân thưởng cho Ta.”
+“Ta không đòi các người trả thù lao cho việc đó mà chính Thượng Đế của vũ trụ và vạn vật sẽ ân thưởng cho Ta.”
 
 # 3097
 
@@ -12690,7 +12690,7 @@ Khi Shu’aib bảo họ: “Các người không sợ (Allah) sao?”
 
 # 3112
 
-“Ta không đòi các người trả thù lao cho việc đó mà chính Thượng Đế của vũ trụ và muôn loài sẽ ân thưởng cho Ta.”
+“Ta không đòi các người trả thù lao cho việc đó mà chính Thượng Đế của vũ trụ và vạn vật loài sẽ ân thưởng cho Ta.”
 
 # 3113
 
@@ -12912,7 +12912,7 @@ Quả thật Ngươi (Thiên Sứ Muhammad) đã tiếp thu Qur’an từ Đấn
 
 # 3167
 
-Rồi khi (Musa) đến chỗ ngọn lửa thì có tiếng gọi, bảo: “Phúc cho ai đang ở gần lửa và cho ai đang ở xung quanh nó; và quang vinh và trong sạch thay Allah, Thượng Đế của toàn vũ trụ và muôn loài.”
+Rồi khi (Musa) đến chỗ ngọn lửa thì có tiếng gọi, bảo: “Phúc cho ai đang ở gần lửa và cho ai đang ở xung quanh nó; và quang vinh và trong sạch thay Allah, Thượng Đế của toàn vũ trụ và vạn vật.”
 
 # 3168
 
@@ -12928,7 +12928,7 @@ Rồi khi (Musa) đến chỗ ngọn lửa thì có tiếng gọi, bảo: “Ph�
 
 # 3171
 
-“Ngươi hãy cho bàn tay Ngươi vào lòng ngực mình, khi rút ra bàn tay Ngươi sẽ trở nên trắng toát nhưng không phải là bệnh. Đó là một trong số chín phép lạ[^1], Ngươi hãy mang đi trình bày cho Pha-ra-ông và đám thuộc hạ của hắn. Quả thật chúng là một đám người ương ngạnh, đại nghịch và bất tuân.”
+“Ngươi hãy cho bàn tay Ngươi vào lồng ngực mình, khi rút ra bàn tay Ngươi sẽ trở nên trắng toát nhưng không phải là bệnh. Đó là một trong số chín phép lạ[^1], Ngươi hãy mang đi trình bày cho Pha-ra-ông và đám thuộc hạ của hắn. Quả thật chúng là một đám người ương ngạnh, đại nghịch và bất tuân.”
 
 [^1]: Những phép lạ còn lại là hạn hán, mất mùa, lũ lụt, nạn cào cào, nạn chấy rận, nạn ếch nhái và máu.
 
@@ -12984,7 +12984,7 @@ Không dám chậm trễ, con chim liền vội vàng bay về thưa (với Sula
 
 # 3184
 
-“Để họ không quỳ lạy Allah, Đấng trưng bày những điều bí mật trong các tầng trời và đất, Đấng biết rõ mọi điều quí ngài giấu kín cũng như những điều quí ngài phơi bày.”
+“Để họ không quỳ lạy Allah, Đấng trưng bày những điều bí mật trong các tầng trời và trái đất, Đấng biết rõ mọi điều quí ngài giấu kín cũng như những điều quí ngài phơi bày.”
 
 # 3185
 
@@ -13016,7 +13016,7 @@ Không dám chậm trễ, con chim liền vội vàng bay về thưa (với Sula
 
 # 3192
 
-(Các quân thần) tâu: “Chúng ta vốn hùng mạnh, dày dặn kinh nghiệm chinh chiến, tuy nhiên, quyền quyết định là ở nơi bệ hạ. Xin bệ hạ xem xét mà ra lệnh.”
+(Các quần thần) tâu: “Chúng ta vốn hùng mạnh, dày dặn kinh nghiệm chinh chiến, tuy nhiên, quyền quyết định là ở nơi bệ hạ. Xin bệ hạ xem xét mà ra lệnh.”
 
 # 3193
 
@@ -13062,7 +13062,7 @@ Quả thật những thứ mà nữ vương này đã từng thờ phượng ngo
 
 # 3203
 
-Rồi có lời nghinh đón nữ ta: “Xin mời nữ vương bước vào cung điện.” Khi nhìn thấy (phần nền của cung điện), nữ ta cứ ngỡ đó là một hồ nước nên đã vén váy lên làm lộ ra cẳng chân của mình. (Sulayman) bảo: “Đây là một cung điện được lót bằng pha lê.” Nữ ta thốt lên: “Lạy Thượng Đế của bề tôi, bề tôi đã bất công với chính bản thân mình, giờ bề tôi xin nguyện cùng với Sulayman thần phục Allah, Thượng Đế của vũ trụ và muôn loài.”
+Rồi có lời nghinh đón nữ ta: “Xin mời nữ vương bước vào cung điện.” Khi nhìn thấy (phần nền của cung điện), nữ ta cứ ngỡ đó là một hồ nước nên đã vén váy lên làm lộ ra cẳng chân của mình. (Sulayman) bảo: “Đây là một cung điện được lót bằng pha lê.” Nữ ta thốt lên: “Lạy Thượng Đế của bề tôi, bề tôi đã bất công với chính bản thân mình, giờ bề tôi xin nguyện cùng với Sulayman thần phục Allah, Thượng Đế của vũ trụ và vạn vật.”
 
 # 3204
 
@@ -13386,7 +13386,7 @@ Rồi khi đến chỗ của ngọn lửa, có tiếng gọi từ phía bên ph�
 
 # 3284
 
-“Ngươi hãy áp bàn tay của Ngươi vào lòng ngực của mình, nó sẽ trở thành trắng toát khi Ngươi rút tay ra nhưng chắc chắn không hề đau đớn gì và Ngươi hãy áp cánh tay của Ngươi vào cạnh sườn của mình để khỏi sợ. Đấy là hai dấu hiệu từ Thượng Đế của Ngươi mang đến trình bày cho Pha-ra-ông và các quan thần của hắn. Bọn họ quả thật là một đám người đại nghịch (với Allah).”
+“Ngươi hãy áp bàn tay của Ngươi vào lồng ngực của mình, nó sẽ trở thành trắng toát khi Ngươi rút tay ra nhưng chắc chắn không hề đau đớn gì và Ngươi hãy áp cánh tay của Ngươi vào cạnh sườn của mình để khỏi sợ. Đấy là hai dấu hiệu từ Thượng Đế của Ngươi mang đến trình bày cho Pha-ra-ông và các quan thần của hắn. Bọn họ quả thật là một đám người đại nghịch (với Allah).”
 
 # 3285
 
@@ -15998,7 +15998,7 @@ Khi (Yunus) bỏ chạy đến một chiếc tàu chở đầy (người và đ�
 
 # 3930
 
-Rồi một con cá đã nuốt chửng Y vì Y đã phạm một điều đáng trách.[^2]
+Rồi một con cá voi đã nuốt chửng Y vì Y đã phạm một điều đáng trách.[^2]
 
 [^2]: Xem câu 87 chương 21 – Al-Ambiya’.
 
@@ -17198,7 +17198,7 @@ Ngài đã đặt trên bề mặt của trái đất những quả núi vững 
 
 # 4229
 
-Sau đó, Ngài hướng về bầu trời (lúc đó) chỉ là một lớp khói, Ngài phán bảo nó và trái đất: “Hai ngươi hãy đến (thành theo lệnh), thuận hay không thuận?” Cả hải cùng thưa: “Bầy tôi xin thuận đến (thành theo lệnh Ngài).”
+Sau đó, Ngài hướng về bầu trời (lúc đó) chỉ là một lớp khói, Ngài phán bảo nó và trái đất: “Hai ngươi hãy đến (thành theo lệnh), thuận hay không thuận?” Cả hai cùng thưa: “Bầy tôi xin thuận đến (thành theo lệnh Ngài).”
 
 # 4230
 
@@ -17764,11 +17764,11 @@ Quả thật, Nó (Qur’an) là sự nhắc nhở dành cho Ngươi và ngườ
 
 # 4370
 
-Ngươi hãy hỏi những Sứ Giả mà TA đã cử đến trước Ngươi xem TA có chỉ định những thần linh được tôn thờ ngoài Đấng Al-Rahman không?
+Ngươi hãy hỏi những Sứ Giả mà TA đã cử đến trước Ngươi xem TA có chỉ định những thần linh được tôn thờ ngoài Đấng Ar-Rahman không?
 
 # 4371
 
-Quả thật, TA đã cử Musa mang những phép lạ của TA đến gặp Pha-ra-ông và các thủ lĩnh của hắn, Musa nói với chúng: “Ta đích thực là Sứ Giả của Thượng Đế của vũ trụ và muôn loài.”
+Quả thật, TA đã cử Musa mang những phép lạ của TA đến gặp Pha-ra-ông và các thủ lĩnh của hắn, Musa nói với chúng: “Ta đích thực là Sứ Giả của Thượng Đế của vũ trụ và vạn vật.”
 
 # 4372
 
@@ -18270,7 +18270,7 @@ Allah tạo hóa các tầng trời và trái đất là vì chân lý. (Ngài t
 
 # 4496
 
-Ngươi (Thiên Sứ Muhammad) có thấy kẻ đã lấy dục vọng của bản thân làm thần linh của mình không? (Quả thật), Allah đã để y lầm lạc, Ngài đã niêm kín thính giác và quả tim của y và Ngài đã lấy tấm màn che mắt của y lại. Vậy, sau khi y chối bỏ Allah thì ai sẽ hướng dẫn y? Lẽ nào các ngươi không lưu tâm?
+Ngươi (Thiên Sứ Muhammad) hãy nhìn xem kẻ đã lấy dục vọng của bản thân làm thần linh của y! (Quả thật), Allah đã để y lầm lạc, Ngài đã niêm kín thính giác và quả tim của y và Ngài đã lấy tấm màn che mắt của y lại. Vậy, sau khi y chối bỏ Allah thì ai sẽ hướng dẫn y? Lẽ nào các ngươi không lưu tâm?
 
 # 4497
 
@@ -23612,7 +23612,7 @@ Quả thật, (Qur’an) chỉ là lời nhắc nhở cho muôn loài.
 
 # 5829
 
-Tuy nhiên, những gì các ngươi muốn sẽ không thành trừ phi Thượng Đế của vũ trụ và muôn loài muốn và chấp thuận.
+Tuy nhiên, những gì các ngươi muốn sẽ không thành trừ phi Thượng Đế của vũ trụ và vạn vật và chấp thuận.
 
 # 5830
 
@@ -24664,7 +24664,7 @@ Và đối với ân huệ Thượng Đế của Ngươi, Ngươi hãy công kha
 
 # 6091
 
-(Hỡi Thiên Sứ Muhammad!) Chẳng phải TA (Allah) đã không mở rộng lòng ngực của Ngươi ư?
+(Hỡi Thiên Sứ Muhammad!) Chẳng phải TA (Allah) đã không mở rộng lồng ngực của Ngươi ư?
 
 # 6092
 

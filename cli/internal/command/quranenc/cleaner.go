@@ -46,6 +46,8 @@ var cleanerList = map[string]fnCleaner{
 	"yoruba_mikail":         cleanYorubaMikail,
 	"gujarati_omari":        cleanGujaratiOmari,
 	"somali_yacob":          cleanSomaliYacob,
+	"tamil_omar":            cleanTamilOmar,
+	"lingala_zakaria":       cleanLingalaZakaria,
 }
 
 var rxNewline = regexp.MustCompile(`\n{1,}`)
@@ -424,6 +426,28 @@ func cleanSomaliYacob(data FlattenedData) FlattenedData {
 	rxAyahNumber := regexp.MustCompile(`^\d+\\*\.?\s*`)
 	rxTransFn := regexp.MustCompile(`(\d+)(\s*)`)
 	rxFootFn := regexp.MustCompile(`^(\d+)\s*\\*\.?(\s*)`)
+	data = removeAyahNumber(data, rxAyahNumber)
+	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
+	return data
+}
+
+func cleanTamilOmar(data FlattenedData) FlattenedData {
+	rxTransFn := regexp.MustCompile(`\\+\*+`)
+	rxFootFn := regexp.MustCompile(`^\\+\*+\s*`)
+
+	for i, ayah := range data.AyahList {
+		ayah.Translation = rxTransFn.ReplaceAllString(ayah.Translation, "[^*]")
+		ayah.Footnotes = rxFootFn.ReplaceAllString(ayah.Footnotes, "[^*]: ")
+		data.AyahList[i] = ayah
+	}
+
+	return data
+}
+
+func cleanLingalaZakaria(data FlattenedData) FlattenedData {
+	rxAyahNumber := regexp.MustCompile(`^\d+\\*\.\s*`)
+	rxTransFn := regexp.MustCompile(`\((\d+)\)(\s*)`)
+	rxFootFn := regexp.MustCompile(`^(\d+)(\s*)`)
 	data = removeAyahNumber(data, rxAyahNumber)
 	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
 	return data
