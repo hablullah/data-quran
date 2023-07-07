@@ -11,6 +11,7 @@ This repository is collection of free dataset for everything related to Quran: f
   - [Rejected Formats](#rejected-formats)
 - [Repository Structure](#repository-structure)
 - [Contributions](#contributions)
+- [Legality](#legality)
 - [License](#license)
 
 ## Goals
@@ -149,9 +150,13 @@ This repository is composed by several directories:
 
 Like other open source projects, we are open to suggestions and corrections. Feel free to submit your issues if there are any error in the dataset. However, there is a special rule for pull requests.
 
-In this repository, every data scraped using `cli` from the sources using their official page or APIs. This is done to make sure data in this repository is exactly the same as the one in the original source. Therefore, **any PR that want to modify the data will be rejected**.
+In this repository, every data scraped using `cli` from the sources using their official page or APIs. This is done to make sure data in this repository is same as the one in the original source. Therefore, **any PR that want to modify the data will be rejected**.
 
 If you found a problem with the data, you should contact the original source and ask them to correct it. Once they make the correction upstream, we will update the data in this repository.
+
+## Legality
+
+Data in this repository are collected from various sources, either by using the official download links, accessing their API, or scraping their web pages. Since scraping public information are considered legal in most countries, we hope this collection can be considered as fair use. Besides that, some source also have their own term of use which we try to fulfill.
 
 ## License
 
