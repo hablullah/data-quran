@@ -113,5 +113,16 @@ func cliAction(c *cli.Context) error {
 		}
 	}
 
+	// Parse and write overviews
+	overviews, err := parseOverviews(cacheDir)
+	if err != nil {
+		return err
+	}
+
+	err = writeOverviews(dstDir, overviews)
+	if err != nil {
+		return err
+	}
+
 	return nil
 }

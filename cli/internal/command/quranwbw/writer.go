@@ -6,6 +6,7 @@ import (
 	"io/fs"
 	"os"
 	"path/filepath"
+	"strconv"
 	"strings"
 
 	"github.com/sirupsen/logrus"
@@ -137,6 +138,52 @@ func writeTranslations(dstDir string, language, languageID string, translations 
 	err := util.EncodeSortedKeyJson(dstPath, &output)
 	if err != nil {
 		return fmt.Errorf("create file for trans %s failed: %w", language, err)
+	}
+
+	return nil
+}
+
+func writeOverviews(dstDir string, overviews map[int]string) error {
+	logrus.Println("writing surah overviews")
+
+	// Prepare destination dir
+	dstDir = filepath.Join(dstDir, "surah-info")
+	os.MkdirAll(dstDir, os.ModePerm)
+
+	// Open destination file
+	dstPath := filepath.Join(dstDir, "en-quranwbw.md")
+	f, err := os.Create(dstPath)
+	if err != nil {
+		return fmt.Errorf("create file for surah overview: %w", err)
+	}
+	defer f.Close()
+
+	// Write metadata
+	f.WriteString("<!--\n")
+	f.WriteString("Language: english\n")
+	f.WriteString("Source  : QuranWbW.com\n")
+	f.WriteString("-->\n\n")
+
+	// Write each info
+	for surah := 1; surah <= 114; surah++ {
+		f.WriteString("# ")
+		f.WriteString(strconv.Itoa(surah))
+		f.WriteString("\n\n")
+
+		text := overviews[surah]
+		if text == "" {
+			f.WriteString("<!-- TODO:MISSING -->\n\n")
+			continue
+		}
+
+		f.WriteString(text)
+		f.WriteString("\n\n")
+	}
+
+	// Flush the data
+	err = f.Sync()
+	if err != nil {
+		return fmt.Errorf("write file for surah overview failed: %w", err)
 	}
 
 	return nil
