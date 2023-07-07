@@ -16,7 +16,7 @@ func cleanDstDir(dstDir string) error {
 		// Remove all file suffixed with "-tanzil.md"
 		// that located in of the three directories
 		dName := d.Name()
-		if d.IsDir() || !strings.HasSuffix(dName, ".md") {
+		if d.IsDir() || !strings.HasSuffix(dName, "-tanzil.md") {
 			return nil
 		}
 
@@ -45,7 +45,7 @@ func writeText(dstDir string, data TextData) error {
 	dstDir = filepath.Join(dstDir, "ayah-text")
 	os.MkdirAll(dstDir, os.ModePerm)
 
-	dstPath := data.FileName + ".md"
+	dstPath := data.FileName + "-tanzil.md"
 	dstPath = filepath.Join(dstDir, dstPath)
 
 	// Open destination file
