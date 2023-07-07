@@ -149,17 +149,9 @@ This repository is composed by several directories:
 
 Like other open source projects, we are open to suggestions and corrections. Feel free to submit your issues if there are any error in the dataset. However, there is a special rule for pull requests.
 
-**Every pull requests that modifies data must be done following the terms of use from the original source**. So, there are two cases:
+In this repository, every data scraped using `cli` from the sources using their official page or APIs. This is done to make sure data in this repository is exactly the same as the one in the original source. Therefore, **any PR that want to modify the data will be rejected**.
 
-1. **The original source allows data modification.**
-
-   For example, Tanzil released their translations for free and their terms of use doesn't disallow data modification. In this case, PRs for translations from Tanzil are allowed.
-
-2. **The original source prohibits data modification.**
-
-   For example, Tanzil released their Quran texts for free, but they explicitly state that changing the Quran texts are not allowed. In this case, any PRs that modifies the Quran texts from Tanzil are not allowed and will never be accepted.
-
-   If you found an issue but the source doesn't allow data modifications, you should contact the original source and ask them to correct their data. Once they make the correction upstream, we will update the data in this repository.
+If you found a problem with the data, you should contact the original source and ask them to correct it. Once they make the correction upstream, we will update the data in this repository.
 
 ## License
 
