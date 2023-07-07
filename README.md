@@ -1,6 +1,21 @@
 # Data Quran [![License: CC BY-NC-ND 4.0][cc-badge]][cc-url]
 
-This repository is collection of free dataset for everything related to Quran: from the text, translation, word-by-word, and tafsir. There are several reasons why this repository created:
+This repository is collection of free dataset for everything related to Quran: from the text, translation, word-by-word, and tafsir.
+
+## Table of Contents
+ 
+- [Goals](#goals)
+- [Data Format](#data-format)
+  - [Criteria](#criteria)
+  - [Chosen Formats](#chosen-formats)
+  - [Rejected Formats](#rejected-formats)
+- [Repository Structure](#repository-structure)
+- [Contributions](#contributions)
+- [License](#license)
+
+## Goals
+ 
+There are several reasons why this repository created:
 
 1. **To centralize all Quran dataset in one place.**
 
@@ -14,11 +29,7 @@ This repository is collection of free dataset for everything related to Quran: f
 
    There are several useful Quranic website that went down after being inactive for several years. There are also cases where governments decided to ban Quranic apps from app stores. Hopefully this repository can be used as archive so those useful data doesn't vanish even after the original websites are gone.
 
-4. **To make sure all dataset are legal and not infringing copyright.**
-
-   In some countries, Quran translations are protected by copyright. Since copyright are recognized by Islam, in this repository all dataset must be collected from valid and legal source, both according to government law and Islamic law.
-
-5. **To give proper attributions and explanation on how the data collected.**
+4. **To give proper attributions and explanation on how the data collected.**
 
    There are several other repositories that also collects the Quranic data. However, as far as I know all of them doesn't really mention the source and how the data are collected.
 
@@ -35,22 +46,23 @@ When choosing format for this repository, there are several criterias that must 
 5. It must be easy to read and write even for non-programmers.
 6. It must be usable with Git, and the diff must be easy to read.
 
-### Chosen Format
+### Chosen Formats
 
-There are two format that chosen for this repository.
+There are two formats that used in this repository:
 
-The first is `json` which is the universal data format across all programming language. It's used for all Quranic data where the value are short, i.e. Quran metadata, surah, and word-by-word translation. The reason it's chosen are:
+1. JSON
+2. Markdown
+
+**JSON** is the universal data format across all programming language. It's used for all Quranic data where the value are short, i.e. Quran metadata, surah, and word-by-word translation. The reason it's chosen are:
 
 1. Every programming languages support JSON, and most of them include JSON parser and decoder in standard library.
 2. It can be opened and edited by every text editor in every operating system.
-3. The properly formatted JSON files are easy to read and write, ever for common people.
+3. The properly formatted JSON files are easy to read and write, even for common people.
 4. Since it's just a text file, it's trackable using Git.
 
 The only downside for JSON is we can't easily put multi-line or rich-text content as JSON value. While it's doable, it's not really easy to read and common people usually don't know how. This is why we only use it for Quranic data with short values.
 
----
-
-The second format is `markdown` which is used for all Quranic data where the values are a long or multi line strings. This include the Quran text, translation, transliteration and tafseer. The reason it's chosen are:
+**Markdown** is used for all Quranic data where the values are a long or multi line strings. This include the Quran text, translation, transliteration and tafseer. The reason it's chosen are:
 
 1. Most programming languages have third-party library for encoding and decoding markdown languages.
 2. It can be opened and edited by every text editor in every operating system.
@@ -75,11 +87,15 @@ The content for this verse.
 The content for this verse.
 ```
 
-### Why Not \[Other Format\]
+### Rejected Formats
 
-There are several other formats that considered to be used in this repository.
+There are three formats that was considered, but eventually rejected:
 
-The first is **plain text**. In this format, each verse only use one line, which make it compact and easy to read and write.
+1. Plain text
+2. CSV
+3. XML
+
+**Plain text** was considered because it's used in Tanzil dataset. In this format, each verse only use one line, which make it compact and easy to read and write.
 
 Pros:
 
@@ -93,9 +109,7 @@ Cons:
 - It doesn't support rich-text formatting and footnotes.
 - We can force it to support multi-line and rich-text format by using HTML tags like `<br>`, `<u>`, and `<b>`. However, by doing so, now it's hard to read and write by common people (which remove the pros of this format).
 
----
-
-The second candidate is **CSV** format.
+The second candidate is **CSV** format, which was considered because it's used in QuranEnc dataset.
 
 Pros:
 
@@ -110,23 +124,26 @@ Cons:
 - It doesn't support rich-text formatting and footnotes.
 - We can force it to support multi-line and rich-text format by using HTML tags. However, by doing so, now it's hard to read and write by common people.
 
----
-
-We also considered using **XML** format, but it's immediately rejected because it's hard to read and write by common people.
+The last format is **XML**, but it's immediately rejected because it's hard to read and write by common people.
 
 ## Repository Structure
 
 This repository is composed by several directories:
 
 - [`meta`](meta) contains metadata that used in Quran.
-- [`ayah-text`](ayah-text) contains Arabic text that used in Quran.
-- [`ayah-transliteration`](ayah-transliteration) contains transliteration from Arabic to Latin scripts for each verse. Useful for those starting to learn how to read Quran.
-- [`ayah-translation`](ayah-translation) contains the translations for each verse in Quran.
-- [`ayah-tafsir`](ayah-tafsir) contains additional explanation for each verse in Quran.
 - [`surah`](surah) contains Arabic name, data and ayah range for each surah in Quran.
 - [`surah-info`](surah-info) contains descriptions and additional info for each surah in Quran.
 - [`surah-translation`](surah-translation) contains the translation from Arabic name of each surah.
+- [`ayah-text`](ayah-text) contains Arabic text that used in Quran.
+- [`ayah-tafsir`](ayah-tafsir) contains additional explanation for each verse in Quran.
+- [`ayah-translation`](ayah-translation) contains the translations for each verse in Quran.
+- [`ayah-transliteration`](ayah-transliteration) contains transliteration from Arabic to Latin scripts for each verse. Useful for those starting to learn how to read Quran.
+- [`word`](word) contains id and position of each word in Quran.
+- [`word-text`](word-text) contains Arabic text for each word in Quran.
+- [`word-translation`](word-translation) contains the translations for each word in Quran.
+- [`word-transliteration`](word-transliteration) contains transliteration from Arabic to Latin scripts for each word.
 - [`source`](source) contains the explanation on where and how data in this repository collected.
+- [`cli`](cli) contains Go application that used to download and generate data for this repository.
 
 ## Contributions
 
