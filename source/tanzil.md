@@ -176,6 +176,7 @@ All translations from Tanzil are prefixed with `*-tanzil.md`. For more detail, h
 | pt.elhayek         | June 4, 2010       | `ayah-translation/pt-elhayek-tanzil.md`                                   |
 | ro.grigore         | August 16, 2010    | `ayah-translation/ro-grigore-tanzil.md`                                   |
 | ru.abuadel         | September 15, 2010 | `ayah-translation/ru-abuadel-tanzil.md`                                   |
+| ru.kalam           | April 12, 2023     | `ayah-translation/ru-kalam-tanzil.md`                                     |
 | ru.krachkovsky     | September 20, 2010 | `ayah-translation/ru-krachkovsky-tanzil.md`                               |
 | ru.kuliev          | May 29, 2011       | `ayah-translation/ru-kuliev-tanzil.md`                                    |
 | ru.osmanov         | August 16, 2010    | `ayah-translation/ru-osmanov-tanzil.md`                                   |
