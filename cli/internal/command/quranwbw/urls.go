@@ -16,11 +16,12 @@ var languages = map[string]string{
 	"german":     "de",
 	"russian":    "ru",
 	"ingush":     "inh",
+	"tamil":      "ta",
 }
 
 func createDownloadRequests() []dl.Request {
 	var requests []dl.Request
-	baseURL := "https://quranwbw.com/assets/data/%d/word-translations/%s.json?v=30"
+	baseURL := "https://data.quranwbw.com/%d/word-translations/%s.json?v1680114261"
 
 	for lang := range languages {
 		for surah := 1; surah <= 114; surah++ {

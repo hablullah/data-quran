@@ -38,7 +38,7 @@ func cleanDstDir(dstDir string) error {
 	})
 }
 
-func writeData(dstDir string, arabicDataList []ArabicData) error {
+func writeData(dstDir string, arabicDataList []ArabicOutput) error {
 	logrus.Printf("writing data")
 
 	// Prepare destination path
@@ -72,7 +72,7 @@ func writeData(dstDir string, arabicDataList []ArabicData) error {
 	return nil
 }
 
-func writeTexts(dstDir string, arabicDataList []ArabicData, textType string) error {
+func writeTexts(dstDir string, arabicDataList []ArabicOutput, textType string) error {
 	logrus.Printf("writing text for %s", textType)
 
 	// Prepare destination dir and path
