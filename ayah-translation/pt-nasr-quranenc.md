@@ -4,8 +4,8 @@ Language    : Portuguese
 ID          : portuguese_nasr
 Source      : https://quranenc.com
 URL         : https://quranenc.com/en/browse/portuguese_nasr
-UpdatedAt   : 2020-09-22 (v1.3.1-xml.1)
-CheckUpdates: https://quranenc.com/check/portuguese_nasr/v1.3.1-xml.1
+UpdatedAt   : 2023-04-15 15:38:54 (v1.3.2-xml.1)
+CheckUpdates: https://quranenc.com/check/portuguese_nasr/v1.3.2-xml.1
 -->
 
 # 1
@@ -17674,7 +17674,7 @@ Pelo Livro explícito!
 
 # 4417
 
-Surat Ad-Dukhan. Por certo, Nós o fizemos descer em uma noite bendita, por certo, somos Admoestadores.
+Por certo, Nós o fizemos descer em uma noite bendita, por certo, somos Admoestadores.
 
 # 4418
 

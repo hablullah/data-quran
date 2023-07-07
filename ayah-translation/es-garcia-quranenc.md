@@ -4,7 +4,7 @@ Language    : Spanish
 ID          : spanish_garcia
 Source      : https://quranenc.com
 URL         : https://quranenc.com/en/browse/spanish_garcia
-UpdatedAt   : 2021-03-15 (v1.0.0-xml.1)
+UpdatedAt   : 2023-04-15 15:13:38 (v1.0.0-xml.1)
 CheckUpdates: https://quranenc.com/check/spanish_garcia/v1.0.0-xml.1
 -->
 
@@ -2372,9 +2372,7 @@ Cada uno de ustedes tiene derecho a heredar de lo que dejen sus padres y sus par
 
 # 527
 
-Los hombres son responsables del cuidado de las mujeres debido a las diferencias \[físicas\] que Dios ha puesto entre ellos, y por su obligación de mantenerlas con sus bienes materiales. Las mujeres piadosas e íntegras obedecen a Dios y en ausencia de su marido se mantienen fieles, tal como Dios manda. A aquellas de quienes teman maltrato y animadversión, exhórtenlas, tomen distancia no compartiendo el lecho, y por último pongan un límite físico[^1]; si les obedecen \[en lo que Dios ordena\], no les reclamen ni recriminen más. Dios es Sublime, Grande.
-
-[^1]: Iniciando una separación de hecho por un tiempo, para que ambos tengan posibilidad de reflexionar.
+<!-- TODO:MISSING -->
 
 # 528
 

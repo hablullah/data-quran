@@ -123,6 +123,10 @@ func createFileName(id string) string {
 		lang = "Bambara"
 	case "Sinhalese":
 		lang = "Sinhala"
+	case "Azeri":
+		lang = "Azerbaijani"
+	case "Punjabi":
+		lang = "Panjabi"
 	}
 
 	// Get language code

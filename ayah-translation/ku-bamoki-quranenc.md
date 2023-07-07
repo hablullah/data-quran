@@ -4,8 +4,8 @@ Language    : Kurdish
 ID          : kurdish_bamoki
 Source      : https://quranenc.com
 URL         : https://quranenc.com/en/browse/kurdish_bamoki
-UpdatedAt   : 2019-12-28 (v1.1.0-xml.1)
-CheckUpdates: https://quranenc.com/check/kurdish_bamoki/v1.1.0-xml.1
+UpdatedAt   : 2023-02-16 11:14:18 (v1.1.1-xml.1)
+CheckUpdates: https://quranenc.com/check/kurdish_bamoki/v1.1.1-xml.1
 -->
 
 # 1
@@ -3904,7 +3904,7 @@ CheckUpdates: https://quranenc.com/check/kurdish_bamoki/v1.1.0-xml.1
 
 # 974
 
-وە (ووتمان) ئەی ئادەم تۆو ھاوسەرەکەت نیشتەجێی بەھەشت بن بخۆن لەھەرچی کەویست و حەزتان لێ بوو بەڵام نزیکی ئەو درەختە مەکەونەوە ئەگینا لەستەمکاران دەبن
+وشەیتان لە دەرەوەى بەهەشت بوو و وەسوەسەی بۆ کردن تا ئەوەى کە عەورەتی خۆیانیان پێ داپۆشیبوو ویستی عەورەتیان دەربخات و پێی ووتن خواى گەورە قەدەغەى لەئێوە نەکردووە لە ئەم دارە نەخۆن تەنها بۆ ئەوە نەبێ ئەگەر لەو دارە بخۆن دەبن بە دوو فریشتە و بەهەمیشەیی لە بەهەشتدا دەمێننەوە ونامرن.
 
 # 975
 

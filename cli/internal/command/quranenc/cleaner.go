@@ -48,6 +48,8 @@ var cleanerList = map[string]fnCleaner{
 	"somali_yacob":          cleanSomaliYacob,
 	"tamil_omar":            cleanTamilOmar,
 	"lingala_zakaria":       cleanLingalaZakaria,
+	"kyrgyz_hakimov":        cleanKyrgyzHakimov,
+	"punjabi_arif":          cleanPunjabiArif,
 }
 
 var rxNewline = regexp.MustCompile(`\n{1,}`)
@@ -450,6 +452,79 @@ func cleanLingalaZakaria(data FlattenedData) FlattenedData {
 	rxFootFn := regexp.MustCompile(`^(\d+)(\s*)`)
 	data = removeAyahNumber(data, rxAyahNumber)
 	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
+	return data
+}
+
+func cleanKyrgyzHakimov(data FlattenedData) FlattenedData {
+	// This one is exactly same as Hausa Gummi
+	// Convert stars to marker number
+	rxStars := regexp.MustCompile(`(\\*\*)+`)
+	for i, ayah := range data.AyahList {
+		ayah.Translation = rxStars.ReplaceAllStringFunc(ayah.Translation, func(s string) string {
+			nStar := strings.Count(s, "*")
+			return fmt.Sprintf("[%d]", nStar)
+		})
+
+		ayah.Footnotes = rxStars.ReplaceAllStringFunc(ayah.Footnotes, func(s string) string {
+			nStar := strings.Count(s, "*")
+			return fmt.Sprintf("\n[%d]", nStar)
+		})
+
+		data.AyahList[i] = ayah
+	}
+
+	// Normalize number
+	rxTransFn := regexp.MustCompile(`\[(\d+)\](\s*)`)
+	rxFootFn := regexp.MustCompile(`^\[(\d+)\](\s*)`)
+	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
+	return data
+}
+
+func cleanPunjabiArif(data FlattenedData) FlattenedData {
+	// Remove Ayah number
+	rxAyahNumber := regexp.MustCompile(`^\d+\x{0A3C}?\s+`)
+	data = removeAyahNumber(data, rxAyahNumber)
+
+	// Replace footnote number, similar with Japanes Saeed Sato
+	rxFn := regexp.MustCompile(`\s*(\d+)[॥-]?(\s*)`)
+	for i, ayah := range data.AyahList {
+		// Extract fn numbers in translation
+		transNumbers := mapset.New[string]()
+		matches := rxFn.FindAllStringSubmatch(ayah.Translation, -1)
+		for _, m := range matches {
+			transNumbers.Put(m[1])
+		}
+
+		// Replace fn numbers in footnotes
+		footNumbers := mapset.New[string]()
+		ayah.Footnotes = rxFn.ReplaceAllStringFunc(ayah.Footnotes, func(s string) string {
+			parts := rxFn.FindStringSubmatch(s)
+			if transNumbers.Has(parts[1]) && !footNumbers.Has(parts[1]) {
+				footNumbers.Put(parts[1])
+				return fmt.Sprintf("\n[%s]%s", parts[1], parts[2])
+			} else {
+				return s
+			}
+		})
+
+		// Replace fn numbers in transation
+		ayah.Translation = rxFn.ReplaceAllStringFunc(ayah.Translation, func(s string) string {
+			parts := rxFn.FindStringSubmatch(s)
+			if footNumbers.Has(parts[1]) {
+				return fmt.Sprintf("[%s]%s", parts[1], parts[2])
+			} else {
+				return s
+			}
+		})
+
+		data.AyahList[i] = ayah
+	}
+
+	// Normalize number
+	rxTransFn := regexp.MustCompile(`\[(\d+)\](\s*)`)
+	rxFootFn := regexp.MustCompile(`^\[(\d+)\](\s*)`)
+	data = normalizeFootnoteNumber(data, rxTransFn, rxFootFn)
+
 	return data
 }
 

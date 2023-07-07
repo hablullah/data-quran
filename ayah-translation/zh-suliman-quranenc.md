@@ -4,8 +4,8 @@ Language    : Chinese
 ID          : chinese_suliman
 Source      : https://quranenc.com
 URL         : https://quranenc.com/en/browse/chinese_suliman
-UpdatedAt   : 2022-10-19 08:18:06 (v1.0.2-xml.1)
-CheckUpdates: https://quranenc.com/check/chinese_suliman/v1.0.2-xml.1
+UpdatedAt   : 2023-01-16 22:52:34 (v1.0.3-xml.1)
+CheckUpdates: https://quranenc.com/check/chinese_suliman/v1.0.3-xml.1
 -->
 
 # 1
@@ -6482,7 +6482,7 @@ CheckUpdates: https://quranenc.com/check/chinese_suliman/v1.0.2-xml.1
 
 # 1619
 
-他的女主人,把所有的门都紧紧地关闭起来,然后,勾引他说:“快来〔拥抱〕我啊!”他说:“求安拉保佑我!他是我的养主,他已优待了我。不义的人必定不会成功。”
+他的女主人,把所有的门都紧紧地关闭起来,然后,勾引他说:“快来〔拥抱〕我啊!”他说:“求安拉保佑我!他是我的主人,他已优待了我。不义的人必定不会成功。”
 
 # 1620
 
@@ -6842,7 +6842,7 @@ CheckUpdates: https://quranenc.com/check/chinese_suliman/v1.0.2-xml.1
 
 # 1709
 
-安拉建立诸天,而不用你们所能看见的支柱。随后他升上宝座,制服日月,使其各自运行到一个定期。他处理万事,解释迹象,以便你们确信将与你们的养主相会。
+安拉建立诸天,而不用你们所能看见的支柱。随后他升上宝座,他制服日月,各自为预定的期限运行。他处理万事,详解一切经文,以便你们确信将与你们的养主相会。
 
 # 1710
 
@@ -6922,7 +6922,7 @@ CheckUpdates: https://quranenc.com/check/chinese_suliman/v1.0.2-xml.1
 
 # 1729
 
-他们是为求得他们养主的喜悦而坚忍的,是谨守拜功的,是秘密地和公开地分舍我所赐给他们的财物的,是以德报怨的。这等人得吃后世的善果——
+他们是为求得他们养主的喜悦而坚忍的,是谨守拜功的,是秘密地和公开地分舍我所赐给他们的财物的,是以德报怨的。这等人得〔 吃 〕后世的善果——
 
 # 1730
 
@@ -6934,7 +6934,7 @@ CheckUpdates: https://quranenc.com/check/chinese_suliman/v1.0.2-xml.1
 
 # 1732
 
-与安拉缔约,然后加以破坏的,断绝安拉命人连结者的,在地方上进行破坏的,这等人将被诅咒,将吃后世的恶果。
+与安拉缔约,然后加以破坏的,断绝安拉命人连结者的,在地方上进行破坏的,这等人将被诅咒,将〔 吃 〕后世的恶果。
 
 # 1733
 
@@ -8034,7 +8034,7 @@ CheckUpdates: https://quranenc.com/check/chinese_suliman/v1.0.2-xml.1
 
 # 2007
 
-既信安拉之后,又表示不信者——除非被迫宣称不信、内心却为信仰而坚定者——但为不信而心情舒畅者将遭天谴,并受重大的刑罚。
+既信安拉之后,又表示不信者——除非被迫宣称不信、内心却为信仰而坚定者——但为不信而心情舒畅者,他们将遭安拉的谴怒,并受重大的刑罚。
 
 # 2008
 
@@ -11662,7 +11662,7 @@ CheckUpdates: https://quranenc.com/check/chinese_suliman/v1.0.2-xml.1
 
 # 2914
 
-他在六日内创造天地万物,然后升上宝座,他是至仁的主。你应当以他请教精明者。
+他在六日内创造天地万物,然后升上宝座,他是至仁的主。你应当向彻知的他请教。
 
 # 2915
 
@@ -15006,7 +15006,7 @@ CheckUpdates: https://quranenc.com/check/chinese_suliman/v1.0.2-xml.1
 
 # 3750
 
-如果有人他们说:“你们当畏惧在你们之前的,和在你们之后的,以便你们蒙主的怜悯。”
+如果有人对他们说:“你们当畏惧在你们之前的,和在你们之后的,以便你们蒙受怜悯。”
 
 # 3751
 
@@ -21162,7 +21162,7 @@ CheckUpdates: https://quranenc.com/check/chinese_suliman/v1.0.2-xml.1
 
 # 5289
 
-并不留一部分给贫民。
+他们未加思量〔他们没有念安拉若意欲〕。
 
 # 5290
 
