@@ -149,8 +149,6 @@ Besides that, `id.muntakhab` also missing info for 2 surah: An-Nisaa and Ibrahim
 
 While there are some missing translations, we believe majority of Tanzil translations are good enough to use. With that said, please use them at your own discretion.
 
-[badge-collect]: https://img.shields.io/badge/collected-Aug%202022-lightgrey?style=flat-square
-[badge-legal]: https://img.shields.io/badge/legality-not--ok-red?style=flat-square
 [tanzil]: https://tanzil.net
 [tanzil-updates]: http://tanzil.net/updates/
 [tanzil-text]: https://tanzil.net/download/
