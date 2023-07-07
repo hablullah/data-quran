@@ -2,7 +2,7 @@
 PLEASE DO NOT REMOVE OR CHANGE THIS COPYRIGHT BLOCK
 
 Tanzil Quran Text (Uthmani Minimal, Version 1.1)
-Copyright (C) 2007-2022 Tanzil Project
+Copyright (C) 2007-2023 Tanzil Project
 License: Creative Commons Attribution 3.0
 
 This copy of the Quran text is carefully produced, highly
