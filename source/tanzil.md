@@ -1,4 +1,4 @@
-# Tanzil ![Collected: August 2022][badge-collect] ![Legal Status: Not OK][badge-legal]
+# Tanzil
 
 [Tanzil][tanzil] is an international Quranic project aimed at providing a highly verified precise Quran text in Unicode. It was started back in 2007 and still [active][tanzil-updates] until now. Currently it's the most precise and accurate Quran texts available in internet. If you ever use Quranic apps, chance it uses texts from Tanzil.
 
