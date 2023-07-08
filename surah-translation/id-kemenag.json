@@ -1,34 +1,34 @@
 {
 	"1": {
-		"name": "Al-Fātiḥah",
-		"translation": "Pembukaan"
+		"name": "Al-Fatihah",
+		"translation": "Pembuka"
 	},
 	"2": {
 		"name": "Al-Baqarah",
 		"translation": "Sapi"
 	},
 	"3": {
-		"name": "Āli 'Imrān",
+		"name": "Ali ‘Imran",
 		"translation": "Keluarga Imran"
 	},
 	"4": {
-		"name": "An-Nisā'",
-		"translation": "Wanita"
+		"name": "An-Nisa'",
+		"translation": "Perempuan"
 	},
 	"5": {
-		"name": "Al-Mā'idah",
+		"name": "Al-Ma'idah",
 		"translation": "Hidangan"
 	},
 	"6": {
-		"name": "Al-An'ām",
+		"name": "Al-An‘am",
 		"translation": "Binatang Ternak"
 	},
 	"7": {
-		"name": "Al-A'rāf",
+		"name": "Al-A‘raf",
 		"translation": "Tempat Tertinggi"
 	},
 	"8": {
-		"name": "Al-Anfāl",
+		"name": "Al-Anfal",
 		"translation": "Rampasan Perang"
 	},
 	"9": {
@@ -36,36 +36,36 @@
 		"translation": "Pengampunan"
 	},
 	"10": {
-		"name": "Yūnus",
+		"name": "Yunus",
 		"translation": "Yunus"
 	},
 	"11": {
-		"name": "Hūd",
+		"name": "Hud",
 		"translation": "Hud"
 	},
 	"12": {
-		"name": "Yūsuf",
+		"name": "Yusuf",
 		"translation": "Yusuf"
 	},
 	"13": {
-		"name": "Ar-Ra'd",
+		"name": "Ar-Ra‘d",
 		"translation": "Guruh"
 	},
 	"14": {
-		"name": "Ibrāhīm",
+		"name": "Ibrahim",
 		"translation": "Ibrahim"
 	},
 	"15": {
-		"name": "Al-Ḥijr",
+		"name": "Al-Hijr",
 		"translation": "Hijr"
 	},
 	"16": {
-		"name": "An-Naḥl",
+		"name": "An-Nahl",
 		"translation": "Lebah"
 	},
 	"17": {
-		"name": "Al-Isrā'",
-		"translation": "Memperjalankan Malam Hari"
+		"name": "Al-Isra'",
+		"translation": "Memperjalankan di Malam Hari"
 	},
 	"18": {
 		"name": "Al-Kahf",
@@ -76,31 +76,31 @@
 		"translation": "Maryam"
 	},
 	"20": {
-		"name": "Ṭāhā",
+		"name": "Taha",
 		"translation": "Taha"
 	},
 	"21": {
-		"name": "Al-Anbiyā'",
+		"name": "Al-Anbiya'",
 		"translation": "Para Nabi"
 	},
 	"22": {
-		"name": "Al-Ḥajj",
+		"name": "Al-Hajj",
 		"translation": "Haji"
 	},
 	"23": {
-		"name": "Al-Mu'minūn",
+		"name": "Al-Mu'minun",
 		"translation": "Orang-Orang Mukmin"
 	},
 	"24": {
-		"name": "An-Nūr",
+		"name": "An-Nur",
 		"translation": "Cahaya"
 	},
 	"25": {
-		"name": "Al-Furqān",
+		"name": "Al-Furqan",
 		"translation": "Pembeda"
 	},
 	"26": {
-		"name": "Asy-Syu'arā'",
+		"name": "Asy-Syu‘ara'",
 		"translation": "Para Penyair"
 	},
 	"27": {
@@ -108,19 +108,19 @@
 		"translation": "Semut"
 	},
 	"28": {
-		"name": "Al-Qaṣaṣ",
-		"translation": "Kisah"
+		"name": "Al-Qasas",
+		"translation": "Kisah-Kisah"
 	},
 	"29": {
-		"name": "Al-'Ankabūt",
+		"name": "Al-‘Ankabut",
 		"translation": "Laba-Laba"
 	},
 	"30": {
-		"name": "Ar-Rūm",
+		"name": "Ar-Rum",
 		"translation": "Romawi"
 	},
 	"31": {
-		"name": "Luqmān",
+		"name": "Luqman",
 		"translation": "Luqman"
 	},
 	"32": {
@@ -128,7 +128,7 @@
 		"translation": "Sajdah"
 	},
 	"33": {
-		"name": "Al-Aḥzāb",
+		"name": "Al-Ahzab",
 		"translation": "Golongan Yang Bersekutu"
 	},
 	"34": {
@@ -136,76 +136,76 @@
 		"translation": "Saba'"
 	},
 	"35": {
-		"name": "Fāṭir",
-		"translation": "Maha Pencipta"
+		"name": "Fatir",
+		"translation": "Pencipta"
 	},
 	"36": {
-		"name": "Yāsīn",
+		"name": "Yasin",
 		"translation": "Yasin"
 	},
 	"37": {
-		"name": "Aṣ-Ṣāffāt",
-		"translation": "Yang Berbaris-baris"
+		"name": "As-Saffat",
+		"translation": "Barisan-Barisan"
 	},
 	"38": {
-		"name": "Ṣād",
-		"translation": "Sad"
+		"name": "Sad",
+		"translation": "Ṣād"
 	},
 	"39": {
 		"name": "Az-Zumar",
 		"translation": "Rombongan"
 	},
 	"40": {
-		"name": "Gāfir",
+		"name": "Gafir",
 		"translation": "Maha Pengampun"
 	},
 	"41": {
-		"name": "Fuṣṣilat",
-		"translation": "Yang Dijelaskan"
+		"name": "Fussilat",
+		"translation": "Dijelaskan"
 	},
 	"42": {
-		"name": "Asy-Syūrā",
+		"name": "Asy-Syura",
 		"translation": "Musyawarah"
 	},
 	"43": {
 		"name": "Az-Zukhruf",
-		"translation": "Perhiasan"
+		"translation": "Perhiasan dari Emas"
 	},
 	"44": {
-		"name": "Ad-Dukhān",
-		"translation": "Kabut"
+		"name": "Ad-Dukhan",
+		"translation": "Kabut Asap"
 	},
 	"45": {
-		"name": "Al-Jāṡiyah",
+		"name": "Al-Jasiyah",
 		"translation": "Berlutut"
 	},
 	"46": {
-		"name": "Al-Aḥqāf",
-		"translation": "Bukit Pasir"
+		"name": "Al-Ahqaf",
+		"translation": "Ahqaf"
 	},
 	"47": {
-		"name": "Muḥammad",
-		"translation": "Muhammad"
+		"name": "Muhammad",
+		"translation": "Nabi Muhammad"
 	},
 	"48": {
-		"name": "Al-Fatḥ",
+		"name": "Al-Fath",
 		"translation": "Kemenangan"
 	},
 	"49": {
-		"name": "Al-Ḥujurāt",
+		"name": "Al-Hujurat",
 		"translation": "Kamar-Kamar"
 	},
 	"50": {
-		"name": "Qāf",
+		"name": "Qaf",
 		"translation": "Qaf"
 	},
 	"51": {
-		"name": "Aż-Żāriyāt",
-		"translation": "Angin yang Menerbangkan"
+		"name": "Az-Zariyat",
+		"translation": "Yang Menerbangkan"
 	},
 	"52": {
-		"name": "At-Ṭūr",
-		"translation": "Bukit Tursina"
+		"name": "At-Tur",
+		"translation": "Gunung"
 	},
 	"53": {
 		"name": "An-Najm",
@@ -216,51 +216,51 @@
 		"translation": "Bulan"
 	},
 	"55": {
-		"name": "Ar-Raḥmān",
-		"translation": "Maha Pengasih"
+		"name": "Ar-Rahman",
+		"translation": "Yang Maha Pengasih"
 	},
 	"56": {
-		"name": "Al-Wāqi'ah",
+		"name": "Al-Waqi‘ah",
 		"translation": "Hari Kiamat Yang Pasti Terjadi"
 	},
 	"57": {
-		"name": "Al-Ḥadīd",
+		"name": "Al-Hadid",
 		"translation": "Besi"
 	},
 	"58": {
-		"name": "Al-Mujādalah",
+		"name": "Al-Mujadalah",
 		"translation": "Gugatan"
 	},
 	"59": {
-		"name": "Al-Ḥasyr",
+		"name": "Al-Hasyr",
 		"translation": "Pengusiran"
 	},
 	"60": {
-		"name": "Al-Mumtaḥanah",
+		"name": "Al-Mumtahanah",
 		"translation": "Wanita Yang Diuji"
 	},
 	"61": {
-		"name": "Aṣ-Ṣaff",
+		"name": "As-Saff",
 		"translation": "Barisan"
 	},
 	"62": {
-		"name": "Al-Jumu'ah",
+		"name": "Al-Jumu‘ah",
 		"translation": "Jumat"
 	},
 	"63": {
-		"name": "Al-Munāfiqūn",
+		"name": "Al-Munafiqun",
 		"translation": "Orang-Orang Munafik"
 	},
 	"64": {
-		"name": "At-Tagābun",
+		"name": "At-Tagabun",
 		"translation": "Pengungkapan Kesalahan"
 	},
 	"65": {
-		"name": "At-Talāq",
+		"name": "At-Talaq",
 		"translation": "Talak"
 	},
 	"66": {
-		"name": "At-Taḥrīm",
+		"name": "At-tahrim",
 		"translation": "Pengharaman"
 	},
 	"67": {
@@ -272,15 +272,15 @@
 		"translation": "Pena"
 	},
 	"69": {
-		"name": "Al-Ḥāqqah",
-		"translation": "Hari Kiamat Yang Pasti Datang"
+		"name": "Al-Haqqah",
+		"translation": "Hari Kiamat Yang Pasti Terjadi"
 	},
 	"70": {
-		"name": "Al-Ma'ārij",
+		"name": "Al-Ma‘arij",
 		"translation": "Tempat-Tempat Naik"
 	},
 	"71": {
-		"name": "Nūḥ",
+		"name": "Nuh",
 		"translation": "Nuh"
 	},
 	"72": {
@@ -292,19 +292,19 @@
 		"translation": "Orang Berkelumun"
 	},
 	"74": {
-		"name": "Al-Muddaṡṡir",
+		"name": "Al-Muddassir",
 		"translation": "Orang Berselimut"
 	},
 	"75": {
-		"name": "Al-Qiyāmah",
+		"name": "Al-Qiyamah",
 		"translation": "Hari Kiamat"
 	},
 	"76": {
-		"name": "Al-Insān",
+		"name": "Al-Insan",
 		"translation": "Manusia"
 	},
 	"77": {
-		"name": "Al-Mursalāt",
+		"name": "Al-Mursalat",
 		"translation": "Malaikat Yang Diutus"
 	},
 	"78": {
@@ -312,43 +312,43 @@
 		"translation": "Berita"
 	},
 	"79": {
-		"name": "An-Nāzi'āt",
+		"name": "An-Nazi‘at",
 		"translation": "Yang Mencabut Dengan Keras"
 	},
 	"80": {
-		"name": "'Abasa",
-		"translation": "Bermuka Masam"
+		"name": "‘Abasa",
+		"translation": "Berwajah Masam"
 	},
 	"81": {
-		"name": "At-Takwīr",
+		"name": "At-Takwir",
 		"translation": "Penggulungan"
 	},
 	"82": {
-		"name": "Al-Infiṭār",
+		"name": "Al-Infitar",
 		"translation": "Terbelah"
 	},
 	"83": {
-		"name": "Al-Muṭaffifīn",
+		"name": "Al-Mutaffifin",
 		"translation": "Orang-Orang Yang Curang"
 	},
 	"84": {
-		"name": "Al-Insyiqāq",
+		"name": "Al-Insyiqaq",
 		"translation": "Terbelah"
 	},
 	"85": {
-		"name": "Al-Burūj",
+		"name": "Al-Buruj",
 		"translation": "Gugusan Bintang"
 	},
 	"86": {
-		"name": "At-Ṭāriq",
+		"name": "At-Tariq",
 		"translation": "Yang Datang Pada Malam Hari"
 	},
 	"87": {
-		"name": "Al-A'lā",
-		"translation": "Maha Tinggi"
+		"name": "Al-A‘la",
+		"translation": "Yang Maha Tinggi"
 	},
 	"88": {
-		"name": "Al-Gāsyiyah",
+		"name": "Al-Gasyiyah",
 		"translation": "Hari Kiamat Yang Menghilangkan Kesadaran"
 	},
 	"89": {
@@ -368,24 +368,24 @@
 		"translation": "Malam"
 	},
 	"93": {
-		"name": "Ad-Duḥā",
+		"name": "Ad-Duha",
 		"translation": "Duha"
 	},
 	"94": {
-		"name": "Asy-Syarḥ",
+		"name": "Asy-Syarh",
 		"translation": "Pelapangan"
 	},
 	"95": {
-		"name": "At-Tīn",
+		"name": "At-Tin",
 		"translation": "Buah Tin"
 	},
 	"96": {
-		"name": "Al-'Alaq",
+		"name": "Al-‘Alaq",
 		"translation": "Segumpal Darah"
 	},
 	"97": {
 		"name": "Al-Qadr",
-		"translation": "Kemuliaan"
+		"translation": "Al-Qadar"
 	},
 	"98": {
 		"name": "Al-Bayyinah",
@@ -396,47 +396,47 @@
 		"translation": "Guncangan"
 	},
 	"100": {
-		"name": "Al-'Adiyāt",
+		"name": "Al-‘Adiyat",
 		"translation": "Kuda Perang Yang Berlari Kencang"
 	},
 	"101": {
-		"name": "Al-Qāri'ah",
-		"translation": "Hari Kiamat Yang Menggetarkan"
+		"name": "Al-Qari‘ah",
+		"translation": "Al-Qāri‘ah"
 	},
 	"102": {
-		"name": "At-Takāṡur",
-		"translation": "Bermegah-Megahan"
+		"name": "At-Takasur",
+		"translation": "Berbangga-Bangga Dalam Memperbanyak Dunia"
 	},
 	"103": {
-		"name": "Al-'Aṣr",
-		"translation": "Asar"
+		"name": "Al-‘Asr",
+		"translation": "Masa"
 	},
 	"104": {
 		"name": "Al-Humazah",
 		"translation": "Pengumpat"
 	},
 	"105": {
-		"name": "Al-Fīl",
+		"name": "Al-Fil",
 		"translation": "Gajah"
 	},
 	"106": {
 		"name": "Quraisy",
-		"translation": "Quraisy"
+		"translation": "Orang Quraisy"
 	},
 	"107": {
-		"name": "Al-Mā'ūn",
+		"name": "Al-Ma‘un",
 		"translation": "Bantuan"
 	},
 	"108": {
-		"name": "Al-Kauṡar",
+		"name": "Al-Kausar",
 		"translation": "Nikmat Yang Banyak"
 	},
 	"109": {
-		"name": "Al-Kāfirūn",
+		"name": "Al-Kafirun",
 		"translation": "Orang-Orang kafir"
 	},
 	"110": {
-		"name": "An-Naṣr",
+		"name": "An-Nasr",
 		"translation": "Pertolongan"
 	},
 	"111": {
@@ -444,7 +444,7 @@
 		"translation": "Gejolak Api"
 	},
 	"112": {
-		"name": "Al-Ikhlāṣ",
+		"name": "Al-Ikhlas",
 		"translation": "Ikhlas"
 	},
 	"113": {
@@ -452,7 +452,7 @@
 		"translation": "Fajar"
 	},
 	"114": {
-		"name": "An-Nās",
+		"name": "An-Nas",
 		"translation": "Manusia"
 	}
 }

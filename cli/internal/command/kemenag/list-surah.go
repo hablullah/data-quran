@@ -7,64 +7,63 @@ import (
 	"fmt"
 	"os"
 	"path/filepath"
+	"strings"
 
 	"github.com/sirupsen/logrus"
 )
 
-type ListSurahContainer struct {
-	Msg  string `json:"msg"`
-	Data []struct {
-		ID              int    `json:"id"`
-		SuratName       string `json:"surat_name"`
-		SuratText       string `json:"surat_text"`
-		SuratTerjemahan string `json:"surat_terjemahan"`
-		GolonganSurah   string `json:"golongan_surah"`
-		CountAyat       int    `json:"count_ayat"`
-	} `json:"data"`
-}
-
-type SurahOutput struct {
-	Name        string `json:"name"`
-	Translation string `json:"translation"`
-}
-
 func parseAndWriteListSurah(cacheDir, dstDir string) error {
-	logrus.Println("parse and write list surah")
+	listSurah, err := parseListSurah(cacheDir)
+	if err != nil {
+		return err
+	}
 
-	// Open and decode source file
+	return writeListSurah(dstDir, listSurah)
+}
+
+func parseListSurah(cacheDir string) ([]Surah, error) {
+	logrus.Printf("parsing list surah")
+
+	// Open file
 	srcPath := filepath.Join(cacheDir, "list-surah.json")
-	src, err := os.Open(srcPath)
+	f, err := os.Open(srcPath)
 	if err != nil {
-		return fmt.Errorf("failed to open list-surah: %w", err)
+		return nil, fmt.Errorf("failed to read list surah: %w", err)
 	}
-	defer src.Close()
+	defer f.Close()
 
-	var srcData ListSurahContainer
-	err = json.NewDecoder(src).Decode(&srcData)
+	// Decode JSON
+	var listSurah struct {
+		Data []Surah `json:"data"`
+	}
+
+	r := norm.NormalizeReader(f)
+	err = json.NewDecoder(r).Decode(&listSurah)
 	if err != nil {
-		return fmt.Errorf("failed to decode list-surah: %w", err)
+		return nil, fmt.Errorf("failed to decode list surah: %w", err)
 	}
 
-	// Normalize and convert the data
-	output := map[string]SurahOutput{}
-	for i, d := range srcData.Data {
-		key := fmt.Sprintf("%03d", i+1)
-		output[key] = SurahOutput{
-			Name:        norm.NormalizeUnicode(d.SuratName),
-			Translation: norm.NormalizeUnicode(d.SuratTerjemahan),
+	return listSurah.Data, nil
+}
+
+func writeListSurah(dstDir string, listSurah []Surah) error {
+	logrus.Printf("writing list surah")
+
+	// Prepare data
+	data := make(map[string]ListSurahEntry)
+	for i, s := range listSurah {
+		ayahId := fmt.Sprintf("%04d", i+1)
+		data[ayahId] = ListSurahEntry{
+			Name:        strings.TrimSpace(s.Transliteration),
+			Translation: strings.TrimSpace(s.Translation),
 		}
 	}
 
-	// Save as json
-	dstDir = filepath.Join(dstDir, "surah-translation")
-	if err = os.MkdirAll(dstDir, os.ModePerm); err != nil {
-		return fmt.Errorf("failed to create list-surah dir: %w", err)
-	}
-
-	dstPath := filepath.Join(dstDir, "id-kemenag.json")
-	err = util.EncodeSortedKeyJson(dstPath, &output)
+	// Write to file
+	dstPath := filepath.Join(dstDir, "surah-translation", "id-kemenag.json")
+	err := util.EncodeSortedKeyJson(dstPath, &data)
 	if err != nil {
-		return fmt.Errorf("failed to write list-surah: %w", err)
+		return fmt.Errorf("failed to write list surah: %w", err)
 	}
 
 	return nil

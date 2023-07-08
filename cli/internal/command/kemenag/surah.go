@@ -2,6 +2,7 @@ package kemenag
 
 import (
 	"data-quran-cli/internal/norm"
+	"data-quran-cli/internal/util"
 	"encoding/json"
 	"fmt"
 	"os"
@@ -10,182 +11,231 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/go-shiori/dom"
 	"github.com/sirupsen/logrus"
 )
 
-type Ayah struct {
-	IDAyat       int    `json:"id_ayat"`
-	NoSurah      int    `json:"no_surah"`
-	NoAyat       int    `json:"no_ayat"`
-	TeksAyat     string `json:"teks_ayat"`
-	Tema         string `json:"tema"`
-	TeksTerjemah string `json:"teks_terjemah"`
-	NoFn         string `json:"no_fn"`
-	TeksFn       string `json:"teks_fn"`
+type BasicDataField uint8
+
+func (f BasicDataField) String() string {
+	switch f {
+	case TextArabic:
+		return "Text Arabic"
+	case Transliteration:
+		return "Transliteration"
+	case TafsirWajiz:
+		return "Tafsir Wajiz"
+	case TafsirTahlili:
+		return "Tafsir Tahlili"
+	default:
+		return ""
+	}
 }
 
-type Surah struct {
-	Data []Ayah `json:"data"`
-}
-
-type AyahOutput struct {
-	Number      int
-	Translation string
-	Footnotes   string
-	Duplicated  bool
-}
-
-var (
-	rxNumberOnly     = regexp.MustCompile(`\d+`)
-	rxFootnoteNumber = regexp.MustCompile(`(?m)^(\d+)\)\s*`)
+const (
+	TextArabic BasicDataField = iota + 1
+	Transliteration
+	TafsirWajiz
+	TafsirTahlili
 )
 
-func parseAndWriteAllSurah(cacheDir, dstDir string) error {
-	listAyah, err := parseAllSurah(cacheDir)
-	if err != nil {
-		return err
-	}
+var (
+	rxNewlines        = regexp.MustCompile(`\n+`)
+	rxTafsirNumber    = regexp.MustCompile(`(?m)^\s*([\d\-]+)\s*\\?\.?\s*`)
+	rxTrimTafsirSpace = regexp.MustCompile(`(?m)^[^\S\n]+|[^\S\n]+$`)
+	rxWajizBracket    = regexp.MustCompile(`\s*\\\[\s*\\\]\s*`)
 
-	err = writeAllSurah(dstDir, listAyah)
-	return err
-}
+	rxTransAyahNumber = regexp.MustCompile(`^\s*([\d\-]+)\s*\\?\.?\s*`)
+	rxTransFnNumber   = regexp.MustCompile(`\s*(\d+)\s*\)(\s*)`)
+	rxFootFnNumber    = regexp.MustCompile(`(?m)^\s*(\d+)\s*\)\s*`)
+)
 
-func parseAllSurah(cacheDir string) ([]AyahOutput, error) {
-	// Get list of file in cache dir
-	dirItems, err := os.ReadDir(cacheDir)
-	if err != nil {
-		return nil, fmt.Errorf("read dir for surah failed: %w", err)
-	}
-
-	var files []string
-	for _, item := range dirItems {
-		name := item.Name()
-		ext := filepath.Ext(name)
-		if !item.IsDir() && strings.HasPrefix(name, "surah-") && ext == ".json" {
-			files = append(files, name)
-		}
-	}
-
-	// Parse each file
-	var outputs []AyahOutput
-	for _, f := range files {
-		logrus.Printf("parsing %s", f)
-		srcPath := filepath.Join(cacheDir, f)
-		surahOutputs, err := parseSurah(srcPath)
+func parseAllSurah(cacheDir string) ([]Ayah, error) {
+	allAyah := make([]Ayah, 0, 6236)
+	for surah := 1; surah <= 114; surah++ {
+		listAyah, err := parseSurah(cacheDir, surah)
 		if err != nil {
 			return nil, err
 		}
-
-		outputs = append(outputs, surahOutputs...)
+		allAyah = append(allAyah, listAyah...)
 	}
 
-	return outputs, nil
+	// Make sure there are 6236 ayah
+	if nAyah := len(allAyah); nAyah != 6236 {
+		return nil, fmt.Errorf("n ayah %d != 6236", nAyah)
+	}
+
+	return allAyah, nil
 }
 
-func parseSurah(srcPath string) ([]AyahOutput, error) {
-	// Open and decode source file
-	srcName := filepath.Base(srcPath)
-	src, err := os.Open(srcPath)
+func parseSurah(cacheDir string, surah int) ([]Ayah, error) {
+	logrus.Printf("parsing surah %d", surah)
+
+	// Open file
+	srcPath := fmt.Sprintf("surah-%03d.json", surah)
+	srcPath = filepath.Join(cacheDir, srcPath)
+	f, err := os.Open(srcPath)
 	if err != nil {
-		return nil, fmt.Errorf("failed to open %s: %w", srcName, err)
-	}
-	defer src.Close()
-
-	var srcData Surah
-	err = json.NewDecoder(src).Decode(&srcData)
-	if err != nil {
-		return nil, fmt.Errorf("failed to decode %s: %w", srcName, err)
-	}
-
-	// Convert the data
-	div := dom.CreateElement("div")
-	outputs := make([]AyahOutput, len(srcData.Data))
-	for i, d := range srcData.Data {
-		// Normalize unicode
-		trans := norm.NormalizeUnicode(d.TeksTerjemah)
-		footnote := norm.NormalizeUnicode(d.TeksFn)
-
-		// Convert HTML tags in translation
-		dom.SetInnerHTML(div, trans)
-		for _, sup := range dom.QuerySelectorAll(div, "sup") {
-			supText := dom.TextContent(sup)
-			fnNumber := rxNumberOnly.FindString(supText)
-			fnNode := dom.CreateTextNode("[^" + fnNumber + "]")
-			dom.ReplaceChild(div, fnNode, sup)
-		}
-		trans = dom.TextContent(div)
-
-		// Convert HTML tags in footnote
-		dom.SetInnerHTML(div, footnote)
-		for _, br := range dom.QuerySelectorAll(div, "br") {
-			newlineNode := dom.CreateTextNode("\n\n")
-			dom.ReplaceChild(div, newlineNode, br)
-		}
-
-		footnote = dom.TextContent(div)
-		footnote = rxFootnoteNumber.ReplaceAllString(footnote, "[^$1]: ")
-
-		outputs[i] = AyahOutput{
-			Number:      d.IDAyat,
-			Translation: strings.TrimSpace(trans),
-			Footnotes:   strings.TrimSpace(footnote),
-		}
-	}
-
-	// Mark for duplicate
-	for i := 1; i < len(outputs); i++ {
-		current := outputs[i].Translation
-		previous := outputs[i-1].Translation
-		outputs[i].Duplicated = current == previous
-	}
-
-	return outputs, nil
-}
-
-func writeAllSurah(dstDir string, listAyah []AyahOutput) error {
-	logrus.Println("writing surah translation")
-
-	// Prepare destination path
-	dstDir = filepath.Join(dstDir, "ayah-translation")
-	os.MkdirAll(dstDir, os.ModePerm)
-
-	// Open destination file
-	dstPath := filepath.Join(dstDir, "id-kemenag.md")
-	f, err := os.Create(dstPath)
-	if err != nil {
-		return fmt.Errorf("create file for all surah failed: %w", err)
+		return nil, fmt.Errorf("failed to read surah %d: %w", surah, err)
 	}
 	defer f.Close()
 
-	// Write each ayah
-	for _, ayah := range listAyah {
-		f.WriteString("# ")
-		f.WriteString(strconv.Itoa(ayah.Number))
-		f.WriteString("\n\n")
+	// Decode JSON
+	var listAyah []Ayah
+	r := norm.NormalizeReader(f)
+	err = json.NewDecoder(r).Decode(&listAyah)
+	if err != nil {
+		return nil, fmt.Errorf("failed to decode surah %d: %w", surah, err)
+	}
 
-		if ayah.Translation == "" {
-			f.WriteString("<!-- TODO:MISSING -->\n\n")
-			continue
+	return listAyah, nil
+}
+
+func writeQuranBasicData(dstDir string, listAyah []Ayah, field BasicDataField) error {
+	logrus.Printf("writing quran data: %s", field)
+
+	// Prepare data
+	var title string
+	var dstPath string
+	var fnValue func(Ayah) string
+	fnCleanTafsir := func(s string) string {
+		s = util.MarkdownText(s)
+		s = rxTafsirNumber.ReplaceAllString(s, "${1}. ")
+		s = rxTrimTafsirSpace.ReplaceAllString(s, "")
+		s = rxNewlines.ReplaceAllString(s, "\n\n")
+		return s
+	}
+
+	switch field {
+	case TextArabic:
+		title = "Quran Kemenag"
+		fnValue = func(a Ayah) string { return util.MarkdownText(a.Arabic) }
+		dstPath = filepath.Join(dstDir, "ayah-text", "mishbah-kemenag.md")
+	case Transliteration:
+		title = "Quran Kemenag"
+		fnValue = func(a Ayah) string { return util.MarkdownText(a.Latin) }
+		dstPath = filepath.Join(dstDir, "ayah-transliteration", "id-transliteration-kemenag.md")
+	case TafsirWajiz:
+		title = "Tafsir Wajiz (Ringkas) Kemenag"
+		dstPath = filepath.Join(dstDir, "ayah-tafsir", "id-wajiz-kemenag.md")
+		fnValue = func(a Ayah) string {
+			s := fnCleanTafsir(a.Tafsir.Wajiz)
+			s = rxWajizBracket.ReplaceAllString(s, "")
+			return s
 		}
-
-		if ayah.Duplicated {
-			f.WriteString("<!-- TODO:DUPLICATE -->\n\n")
-		}
-
-		f.WriteString(ayah.Translation)
-		f.WriteString("\n\n")
-
-		if ayah.Footnotes != "" {
-			f.WriteString(ayah.Footnotes)
-			f.WriteString("\n\n")
+	case TafsirTahlili:
+		title = "Tafsir Tahlili Kemenag"
+		dstPath = filepath.Join(dstDir, "ayah-tafsir", "id-tahlili-kemenag.md")
+		fnValue = func(a Ayah) string {
+			s := fnCleanTafsir(a.Tafsir.Tahlili)
+			return s
 		}
 	}
 
-	// Flush the data
-	err = f.Sync()
+	// Write metadata
+	var sb strings.Builder
+	sb.WriteString("<!--\n")
+	sb.WriteString("Title : " + title + "\n")
+	sb.WriteString("Source: https://quran.kemenag.go.id\n")
+	if field == TextArabic {
+		sb.WriteString("Best used with font LPMQ Isep Mishbah: https://lajnah.kemenag.go.id/unduhan/quran-kemenag.html\n")
+	}
+	sb.WriteString("-->\n\n")
+
+	// Write each ayah
+	for i, ayah := range listAyah {
+		sb.WriteString("# ")
+		sb.WriteString(strconv.Itoa(i + 1))
+		sb.WriteString("\n\n")
+
+		value := strings.TrimSpace(fnValue(ayah))
+		if value == "" {
+			sb.WriteString("<!-- TODO:MISSING -->\n\n")
+			continue
+		}
+
+		if i > 0 {
+			prevAyah := listAyah[i-1]
+			prevValue := strings.TrimSpace(fnValue(prevAyah))
+			if value == prevValue {
+				sb.WriteString("<!-- TODO:DUPLICATE -->\n\n")
+			}
+		}
+
+		sb.WriteString(value)
+		sb.WriteString("\n\n")
+	}
+
+	// Write to file
+	err := os.WriteFile(dstPath, []byte(sb.String()), os.ModePerm)
 	if err != nil {
-		return fmt.Errorf("write file for all surah failed: %w", err)
+		return fmt.Errorf("failed to write data %q: %w", field, err)
+	}
+
+	return nil
+}
+
+func writeQuranTranslation(dstDir string, listAyah []Ayah) error {
+	logrus.Printf("writing quran translation")
+
+	// Write metadata
+	var sb strings.Builder
+	sb.WriteString("<!--\n")
+	sb.WriteString("Title : Terjemah Quran Kemenag\n")
+	sb.WriteString("Source: https://quran.kemenag.go.id\n")
+	sb.WriteString("-->\n\n")
+
+	// Write each ayah
+	for i, ayah := range listAyah {
+		sb.WriteString("# ")
+		sb.WriteString(strconv.Itoa(i + 1))
+		sb.WriteString("\n\n")
+
+		// Check translation
+		translation := strings.TrimSpace(ayah.Translation)
+		translation = util.MarkdownText(translation)
+		translation = rxTransAyahNumber.ReplaceAllString(translation, "")
+		translation = rxNewlines.ReplaceAllString(translation, " ")
+
+		if translation == "" {
+			sb.WriteString("<!-- TODO:MISSING -->\n\n")
+			continue
+		}
+
+		if i > 0 {
+			prevAyah := listAyah[i-1]
+			prevTranslation := strings.TrimSpace(prevAyah.Translation)
+			if translation == prevTranslation {
+				sb.WriteString("<!-- TODO:DUPLICATE -->\n\n")
+			}
+		}
+
+		// Prepare footnote
+		footnote := strings.TrimSpace(ayah.Footnotes.String)
+		footnote = util.MarkdownText(footnote)
+
+		// If there are no footnote, continue to the next
+		if footnote == "" {
+			sb.WriteString(translation)
+			sb.WriteString("\n\n")
+		} else {
+			translation = rxTransFnNumber.ReplaceAllString(translation, "[^${1}]${2}")
+			translation = strings.ReplaceAll(translation, "\\[[^", "[^")
+			footnote = rxFootFnNumber.ReplaceAllString(footnote, "\n\n[^${1}]: ")
+			footnote = rxNewlines.ReplaceAllString(footnote, "\n\n")
+			footnote = strings.TrimSpace(footnote)
+
+			sb.WriteString(translation)
+			sb.WriteString("\n\n")
+			sb.WriteString(footnote)
+			sb.WriteString("\n\n")
+		}
+	}
+
+	// Write to file
+	dstPath := filepath.Join(dstDir, "ayah-translation", "id-kemenag.md")
+	err := os.WriteFile(dstPath, []byte(sb.String()), os.ModePerm)
+	if err != nil {
+		return fmt.Errorf("failed to write translation: %w", err)
 	}
 
 	return nil

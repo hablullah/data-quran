@@ -1,12 +1,8 @@
 package kemenag
 
 import (
-	"context"
-	"data-quran-cli/internal/dl"
-	"data-quran-cli/internal/util"
 	"os"
 	"path/filepath"
-	"time"
 
 	"github.com/urfave/cli/v2"
 )
@@ -41,71 +37,52 @@ func cliAction(c *cli.Context) error {
 	}
 	os.MkdirAll(cacheDir, os.ModePerm)
 
-	// Create download URLs
-	downloadRequests := createDownloadRequests()
-
-	// Filter download request that not cached
-	var requests []dl.Request
-	for _, r := range downloadRequests {
-		dstPath := filepath.Join(cacheDir, r.FileName)
-		if !util.FileExist(dstPath) {
-			requests = append(requests, r)
-		}
-	}
-
-	// Batch download the request
-	ctx := context.Background()
-	opts := dl.BatchOption{NWorker: 1, Delay: time.Second}
-	err := dl.BatchDownload(ctx, cacheDir, requests, &opts)
+	// Download data
+	err := downloadListSurah(cacheDir)
 	if err != nil {
 		return err
 	}
 
-	// Clean dst dir
-	if err = cleanDstDir(dstDir); err != nil {
+	err = downladAllTafsir(cacheDir)
+	if err != nil {
 		return err
 	}
 
-	// Parse and write list surah translation
+	// Parse and write list surah
 	err = parseAndWriteListSurah(cacheDir, dstDir)
 	if err != nil {
 		return err
 	}
 
-	// Parse surah and write all ayah translation
-	err = parseAndWriteAllSurah(cacheDir, dstDir)
+	// Parse each surah to extract text, trans and tafsirs
+	listAyah, err := parseAllSurah(cacheDir)
 	if err != nil {
 		return err
 	}
 
-	// Parse all tafsir
-	tafsirs, err := parseAllTafsir(cacheDir)
+	err = writeQuranBasicData(dstDir, listAyah, TextArabic)
 	if err != nil {
 		return err
 	}
 
-	// Split tahlili and wajiz tafsir
-	wajizTafsirs := make([]string, len(tafsirs))
-	tahliliTafsirs := make([]string, len(tafsirs))
-	for i, t := range tafsirs {
-		wajizTafsirs[i] = t.TafsirWajiz
-		tahliliTafsirs[i] = t.TafsirTahlili
+	err = writeQuranBasicData(dstDir, listAyah, Transliteration)
+	if err != nil {
+		return err
 	}
 
-	// Write tafsir
-	tafsirNames := map[string][]string{
-		"id-ringkas-kemenag": wajizTafsirs,
-
-		// TODO: for now we don't generate tafsir tahlili because
-		// it still has a lot of typos and weird unicode errors.
-		// "id-tahlili-kemenag": tahliliTafsirs,
+	err = writeQuranBasicData(dstDir, listAyah, TafsirWajiz)
+	if err != nil {
+		return err
 	}
 
-	for name, tafsirs := range tafsirNames {
-		err = writeTafsir(dstDir, name, tafsirs)
-		if err != nil {
-			return err
-		}
+	err = writeQuranBasicData(dstDir, listAyah, TafsirTahlili)
+	if err != nil {
+		return err
+	}
+
+	err = writeQuranTranslation(dstDir, listAyah)
+	if err != nil {
+		return err
 	}
 
 	return nil
