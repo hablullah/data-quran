@@ -173,7 +173,7 @@ func parseChapterInfo(cacheDir, lang string, surah int) (*ChapterInfoOutput, err
 		return nil, fmt.Errorf("failed to decode chapter info for %s %d: %w", lang, surah, err)
 	}
 
-	// If language is not english, but we got one in neglish, remove it
+	// If language is not english, but we got one in english, remove it
 	srcText := src.ChapterInfo.Text
 	if lang != "en" && src.ChapterInfo.LanguageName == "english" {
 		srcText = ""

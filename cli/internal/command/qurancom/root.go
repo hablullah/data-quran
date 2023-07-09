@@ -52,5 +52,11 @@ func cliAction(c *cli.Context) error {
 		return err
 	}
 
+	// Process chapter names
+	err = processChapterList(ctx, cacheDir, dstDir)
+	if err != nil {
+		return err
+	}
+
 	return nil
 }
