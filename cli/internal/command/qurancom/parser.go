@@ -10,25 +10,6 @@ import (
 	"github.com/sirupsen/logrus"
 )
 
-type ListSurahSource struct {
-	Chapters []struct {
-		ID              int    `json:"id"`
-		RevelationPlace string `json:"revelation_place"`
-		RevelationOrder int    `json:"revelation_order"`
-		BismillahPre    bool   `json:"bismillah_pre"`
-		NameSimple      string `json:"name_simple"`
-		NameComplex     string `json:"name_complex"`
-		NameArabic      string `json:"name_arabic"`
-		VersesCount     int    `json:"verses_count"`
-		Pages           []int  `json:"pages"`
-		ChapterNumber   int    `json:"chapter_number"`
-		TranslatedName  struct {
-			LanguageName string `json:"language_name"`
-			Name         string `json:"name"`
-		} `json:"translated_name"`
-	} `json:"chapters"`
-}
-
 type WordSource struct {
 	Verses []struct {
 		ID              int         `json:"id"`
@@ -76,59 +57,10 @@ type WordSource struct {
 	} `json:"pagination"`
 }
 
-type ListSurahOutput struct {
-	Name        string `json:"name"`
-	Translation string `json:"translation"`
-}
-
 type WordText struct {
 	Indopak         string
 	Madani          string
 	Transliteration string
-}
-
-func parseListSurah(cacheDir string, language string) (map[string]ListSurahOutput, error) {
-	// Open file
-	path := fmt.Sprintf("list-%s.json", language)
-	path = filepath.Join(cacheDir, path)
-
-	f, err := os.Open(path)
-	if err != nil {
-		return nil, fmt.Errorf("fail to open surah list for %s: %w", language, err)
-	}
-	defer f.Close()
-
-	// Decode data
-	var srcData ListSurahSource
-	err = json.NewDecoder(f).Decode(&srcData)
-	if err != nil {
-		return nil, fmt.Errorf("fail to decode surah list for %s: %w", language, err)
-	}
-
-	// Generate output
-	output := map[string]ListSurahOutput{}
-	for _, chapter := range srcData.Chapters {
-		// In Quran.com, if data for a language not exist, they will
-		// fallback into using English language. In this case, we
-		// will just skip it.
-		if language != "en" && chapter.TranslatedName.LanguageName == "english" {
-			continue
-		}
-
-		key := fmt.Sprintf("%03d", chapter.ChapterNumber)
-		output[key] = ListSurahOutput{
-			Name:        norm.NormalizeUnicode(chapter.NameSimple),
-			Translation: norm.NormalizeUnicode(chapter.TranslatedName.Name),
-		}
-	}
-
-	// Check if translation complete
-	if n := len(output); n != 114 {
-		logrus.Warnf("surah list for %s: want 114 got %d", language, n)
-		return nil, nil
-	}
-
-	return output, nil
 }
 
 func parseAllWordTranslations(cacheDir, language string) (map[string]string, error) {

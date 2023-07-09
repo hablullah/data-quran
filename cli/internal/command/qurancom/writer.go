@@ -33,30 +33,6 @@ func cleanDstDir(dstDir string) error {
 	})
 }
 
-func writeListSurah(dstDir string, language string, data map[string]ListSurahOutput) error {
-	// If data is empty, stop
-	if len(data) == 0 {
-		return nil
-	}
-
-	logrus.Printf("writing surah list for %s", language)
-
-	// Prepare destination path
-	dstDir = filepath.Join(dstDir, "surah-translation")
-	os.MkdirAll(dstDir, os.ModePerm)
-
-	dstPath := fmt.Sprintf("%s-qurancom.json", language)
-	dstPath = filepath.Join(dstDir, dstPath)
-
-	// Encode data
-	err := util.EncodeSortedKeyJson(dstPath, &data)
-	if err != nil {
-		return fmt.Errorf("fail to write surah list for %s: %w", language, err)
-	}
-
-	return nil
-}
-
 func writeWordTranslations(dstDir string, language string, translations map[string]string) error {
 	// If data is empty, stop
 	if len(translations) == 0 {

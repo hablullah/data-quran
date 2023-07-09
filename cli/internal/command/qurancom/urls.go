@@ -16,10 +16,6 @@ var (
 		"bg", "fa", "tt", "zgh", "prs", "am", "ce", "cs", "dv", "fi", "gu", "he", "ka", "kn", "lg", "mk", "mr", "mrn",
 		"ne", "no", "om", "pl", "ps", "rw", "sd", "se", "si", "sr", "sq", "sv", "te", "yo", "ug", "uk",
 	}
-
-	languagesForWord = []string{
-		"en", "ur", "id", "bn", "tr", "fa", "ru", "hi", "de", "ta", "inh",
-	}
 )
 
 func createDownloadRequests() []dl.Request {

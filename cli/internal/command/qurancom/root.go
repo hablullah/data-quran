@@ -58,5 +58,16 @@ func cliAction(c *cli.Context) error {
 		return err
 	}
 
+	// Download words
+	err = downloadAllWords(ctx, cacheDir)
+	if err != nil {
+		return err
+	}
+
+	err = parseAndWriteWordText(cacheDir, dstDir)
+	if err != nil {
+		return err
+	}
+
 	return nil
 }
