@@ -240,3 +240,77 @@ func writeQuranTranslation(dstDir string, listAyah []Ayah) error {
 
 	return nil
 }
+
+func writeSurahInfo(dstDir string, listAyah []Ayah) error {
+	logrus.Printf("writing surah info")
+
+	fnClean := func(s string) string {
+		s = util.MarkdownText(s)
+		s = rxTafsirNumber.ReplaceAllString(s, "${1}. ")
+		s = rxTrimTafsirSpace.ReplaceAllString(s, "")
+		s = rxNewlines.ReplaceAllString(s, "\n\n")
+		return s
+	}
+
+	// Write metadata
+	var sb strings.Builder
+	sb.WriteString("<!--\n")
+	sb.WriteString("Title : Penjelasan Surah dari Quran Kemenag\n")
+	sb.WriteString("Source: https://quran.kemenag.go.id\n")
+	sb.WriteString("-->\n\n")
+
+	// Write each ayah
+	for surah := 1; surah <= 114; surah++ {
+		// Fetch data
+		surahData := util.ListSurah[surah]
+		lastAyahIdx := surahData.Start + surahData.NAyah - 1 - 1
+		lastAyah := listAyah[lastAyahIdx]
+		outro := fnClean(lastAyah.Tafsir.OutroSurah.String)
+		intro := fnClean(lastAyah.Tafsir.IntroSurah.String)
+
+		var surahRelation string
+		firstAyahOfNextSurahIdx := lastAyahIdx + 1
+		if firstAyahOfNextSurahIdx < 6236 {
+			firstAyahOfNextSurah := listAyah[firstAyahOfNextSurahIdx]
+			surahRelation = firstAyahOfNextSurah.Tafsir.MunasabahPrevSurah.String
+			surahRelation = fnClean(surahRelation)
+		} else {
+			surahRelation = lastAyah.Tafsir.MunasabahPrevSurah.String
+			surahRelation = fnClean(surahRelation)
+		}
+
+		// Merge info into one
+		var info []string
+		if intro != "" {
+			info = append(info, intro)
+		}
+		if outro != "" {
+			info = append(info, outro)
+		}
+		if surahRelation != "" {
+			info = append(info, surahRelation)
+		}
+
+		// Write info
+		sb.WriteString("# ")
+		sb.WriteString(strconv.Itoa(surah))
+		sb.WriteString("\n\n")
+
+		if len(info) == 0 {
+			sb.WriteString("<!-- TODO:MISSING -->\n\n")
+			continue
+		} else {
+			sb.WriteString(strings.Join(info, "\n\n"))
+			sb.WriteString("\n\n")
+		}
+	}
+
+	// Write to file
+	dstPath := filepath.Join(dstDir, "surah-info", "id-kemenag.md")
+	err := os.WriteFile(dstPath, []byte(sb.String()), os.ModePerm)
+	if err != nil {
+		return fmt.Errorf("failed to write info: %w", err)
+	}
+
+	return nil
+}

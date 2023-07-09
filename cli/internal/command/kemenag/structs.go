@@ -16,7 +16,7 @@ type Surah struct {
 type Tafsir struct {
 	Wajiz              string      `json:"wajiz"`
 	Tahlili            string      `json:"tahlili"`
-	IntroSurah         string      `json:"intro_surah"`
+	IntroSurah         null.String `json:"intro_surah"`
 	OutroSurah         null.String `json:"outro_surah"`
 	MunasabahPrevSurah null.String `json:"munasabah_prev_surah"`
 	MunasabahPrevTheme null.String `json:"munasabah_prev_theme"`

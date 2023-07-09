@@ -85,5 +85,10 @@ func cliAction(c *cli.Context) error {
 		return err
 	}
 
+	err = writeSurahInfo(dstDir, listAyah)
+	if err != nil {
+		return err
+	}
+
 	return nil
 }
