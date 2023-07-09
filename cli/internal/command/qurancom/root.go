@@ -2,13 +2,13 @@ package qurancom
 
 import (
 	"context"
+	"io/fs"
 	"os"
 	"path/filepath"
+	"strings"
 
 	"github.com/urfave/cli/v2"
 )
-
-var nWords = 77_429
 
 func Command() *cli.Command {
 	return &cli.Command{
@@ -58,21 +58,33 @@ func cliAction(c *cli.Context) error {
 		return err
 	}
 
-	// Download words
-	err = downloadAllWords(ctx, cacheDir)
-	if err != nil {
-		return err
-	}
-
-	err = parseAndWriteWordText(cacheDir, dstDir)
-	if err != nil {
-		return err
-	}
-
-	err = parseAndWriteWordTransliteration(cacheDir, dstDir)
+	// Process words
+	err = processWords(ctx, cacheDir, dstDir)
 	if err != nil {
 		return err
 	}
 
 	return nil
+}
+
+func cleanDstDir(dstDir string) error {
+	return filepath.WalkDir(dstDir, func(path string, d fs.DirEntry, err error) error {
+		// Remove all file suffixed with "-qurancom.json"
+		dName := d.Name()
+		if d.IsDir() || !strings.HasSuffix(dName, "-qurancom.json") {
+			return nil
+		}
+
+		dDir := filepath.Base(filepath.Dir(path))
+		switch dDir {
+		case "surah-info",
+			"surah-translation",
+			"word-text",
+			"word-translation",
+			"word-transliteration":
+			return os.Remove(path)
+		}
+
+		return nil
+	})
 }

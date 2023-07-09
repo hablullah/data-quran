@@ -56,7 +56,19 @@ type WordResponse struct {
 }
 
 var (
-	languagesForWord = []string{"en", "ur", "id", "bn", "tr", "fa", "ru", "hi", "de", "ta", "inh"}
+	languagesForWord = map[string]string{
+		"en":  "english",
+		"ur":  "urdu",
+		"id":  "indonesian",
+		"bn":  "bengali",
+		"tr":  "turkish",
+		"fa":  "persian",
+		"ru":  "russian",
+		"hi":  "hindi",
+		"de":  "german",
+		"ta":  "tamil",
+		"inh": "ingush",
+	}
 )
 
 func urlWord(surah int, language string) string {
@@ -70,6 +82,34 @@ func urlWord(surah int, language string) string {
 	url, _ := nurl.ParseRequestURI(rawURL)
 	url.RawQuery = query.Encode()
 	return url.String()
+}
+
+func processWords(ctx context.Context, cacheDir, dstDir string) error {
+	// Download all words data
+	err := downloadAllWords(ctx, cacheDir)
+	if err != nil {
+		return err
+	}
+
+	// Process word text
+	err = parseAndWriteWordText(cacheDir, dstDir)
+	if err != nil {
+		return err
+	}
+
+	// Process word transliteration
+	err = parseAndWriteWordTransliteration(cacheDir, dstDir)
+	if err != nil {
+		return err
+	}
+
+	// Process word translation
+	err = parseAndWriteAllWordTranslation(cacheDir, dstDir)
+	if err != nil {
+		return err
+	}
+
+	return nil
 }
 
 func downloadWords(ctx context.Context, cacheDir string, language string) error {
@@ -97,7 +137,7 @@ func downloadWords(ctx context.Context, cacheDir string, language string) error 
 }
 
 func downloadAllWords(ctx context.Context, cacheDir string) error {
-	for _, lang := range languagesForWord {
+	for lang := range languagesForWord {
 		err := downloadWords(ctx, cacheDir, lang)
 		if err != nil {
 			return err
@@ -233,5 +273,67 @@ func parseAndWriteWordTransliteration(cacheDir, dstDir string) error {
 		return fmt.Errorf("failed to write word transliteration: %w", err)
 	}
 
+	return nil
+}
+
+func parseAndWriteWordTranslation(cacheDir, dstDir, language string) error {
+	// Parse each surah
+	var wordIdx int
+	languageName := languagesForWord[language]
+	allTranslation := make(map[string]string)
+
+	for surah := 1; surah <= 114; surah++ {
+		srcPath := fmt.Sprintf("word-%s-%03d.json", language, surah)
+		srcPath = filepath.Join(cacheDir, srcPath)
+
+		var src WordResponse
+		err := util.DecodeJsonFile(srcPath, &src)
+		if err != nil {
+			return fmt.Errorf("failed to decode %q word trans %d: %w", language, surah, err)
+		}
+
+		for _, verse := range src.Verses {
+			for _, w := range verse.Words {
+				if w.CharTypeName == "word" {
+					wordIdx++
+					strWordIdx := fmt.Sprintf("%05d", wordIdx)
+					trans := strings.TrimSpace(w.Translation.Text)
+					if trans == "" || w.Translation.LanguageName != languageName {
+						trans = "[[MISSING]]"
+					}
+					allTranslation[strWordIdx] = trans
+				}
+			}
+		}
+	}
+
+	// Make sure word count is 77429
+	if wordIdx != 77429 {
+		return fmt.Errorf("word translation %q count 77529 != %d", language, wordIdx)
+	}
+
+	// Prepare directory
+	logrus.Printf("writing word translation for %q", language)
+	dstDir = filepath.Join(dstDir, "word-translation")
+	os.MkdirAll(dstDir, os.ModePerm)
+
+	// Write
+	dstPath := fmt.Sprintf("%s-qurancom.json", language)
+	dstPath = filepath.Join(dstDir, dstPath)
+	err := util.EncodeSortedKeyJson(dstPath, &allTranslation)
+	if err != nil {
+		return fmt.Errorf("failed to write word translation %q: %w", language, err)
+	}
+
+	return nil
+}
+
+func parseAndWriteAllWordTranslation(cacheDir, dstDir string) error {
+	for lang := range languagesForWord {
+		err := parseAndWriteWordTranslation(cacheDir, dstDir, lang)
+		if err != nil {
+			return err
+		}
+	}
 	return nil
 }
