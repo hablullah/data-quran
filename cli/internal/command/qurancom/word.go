@@ -185,3 +185,53 @@ func parseAndWriteWordText(cacheDir, dstDir string) error {
 
 	return nil
 }
+
+func parseAndWriteWordTransliteration(cacheDir, dstDir string) error {
+	// Parse each surah
+	var wordIdx int
+	allTransliteration := make(map[string]string)
+
+	for surah := 1; surah <= 114; surah++ {
+		srcPath := fmt.Sprintf("word-en-%03d.json", surah)
+		srcPath = filepath.Join(cacheDir, srcPath)
+
+		var src WordResponse
+		err := util.DecodeJsonFile(srcPath, &src)
+		if err != nil {
+			return fmt.Errorf("failed to decode word transliteration %d: %w", surah, err)
+		}
+
+		for _, verse := range src.Verses {
+			for _, w := range verse.Words {
+				if w.CharTypeName == "word" {
+					wordIdx++
+					strWordIdx := fmt.Sprintf("%05d", wordIdx)
+					translit := strings.TrimSpace(w.Transliteration.Text)
+					if translit == "" {
+						translit = "[[MISSING]]"
+					}
+					allTransliteration[strWordIdx] = translit
+				}
+			}
+		}
+	}
+
+	// Make sure word count is 77429
+	if wordIdx != 77429 {
+		return fmt.Errorf("word transliteration count 77529 != %d", wordIdx)
+	}
+
+	// Prepare directory
+	logrus.Printf("writing word transliteration")
+	dstDir = filepath.Join(dstDir, "word-transliteration")
+	os.MkdirAll(dstDir, os.ModePerm)
+
+	// Write
+	dstPath := filepath.Join(dstDir, "en-qurancom.json")
+	err := util.EncodeSortedKeyJson(dstPath, &allTransliteration)
+	if err != nil {
+		return fmt.Errorf("failed to write word transliteration: %w", err)
+	}
+
+	return nil
+}

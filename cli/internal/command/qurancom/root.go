@@ -69,5 +69,10 @@ func cliAction(c *cli.Context) error {
 		return err
 	}
 
+	err = parseAndWriteWordTransliteration(cacheDir, dstDir)
+	if err != nil {
+		return err
+	}
+
 	return nil
 }
