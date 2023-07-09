@@ -2,14 +2,11 @@ package qurancom
 
 import (
 	"data-quran-cli/internal/norm"
-	"data-quran-cli/internal/util"
 	"encoding/json"
 	"fmt"
 	"os"
 	"path/filepath"
-	"strings"
 
-	"github.com/go-shiori/dom"
 	"github.com/sirupsen/logrus"
 )
 
@@ -30,16 +27,6 @@ type ListSurahSource struct {
 			Name         string `json:"name"`
 		} `json:"translated_name"`
 	} `json:"chapters"`
-}
-
-type SurahInfoSource struct {
-	ChapterInfo struct {
-		ChapterID    int    `json:"chapter_id"`
-		LanguageName string `json:"language_name"`
-		ShortText    string `json:"short_text"`
-		Source       string `json:"source"`
-		Text         string `json:"text"`
-	} `json:"chapter_info"`
 }
 
 type WordSource struct {
@@ -94,19 +81,6 @@ type ListSurahOutput struct {
 	Translation string `json:"translation"`
 }
 
-type SurahInfoOutput struct {
-	Number   int
-	Language string
-	Source   string
-	Text     string
-}
-
-type AllSurahInfoOutput struct {
-	Language string
-	Source   string
-	Texts    map[int]string
-}
-
 type WordText struct {
 	Indopak         string
 	Madani          string
@@ -155,105 +129,6 @@ func parseListSurah(cacheDir string, language string) (map[string]ListSurahOutpu
 	}
 
 	return output, nil
-}
-
-func parseAllSurahInfo(cacheDir, language string) (*AllSurahInfoOutput, error) {
-	// Extract each surah in this language
-	mapInfo := map[int]string{}
-	var languageName, source string
-
-	for surah := 1; surah <= 114; surah++ {
-		output, err := parseSurahInfo(cacheDir, language, surah)
-		if err != nil {
-			return nil, err
-		} else if output == nil {
-			continue
-		}
-
-		if languageName == "" || source == "" {
-			source = output.Source
-			languageName = output.Language
-		}
-
-		mapInfo[surah] = output.Text
-	}
-
-	// Check if info complete
-	if n := len(mapInfo); n != 114 {
-		logrus.Warnf("surah info for %s: want 114 got %d", language, n)
-		if n == 0 {
-			return nil, nil
-		}
-	}
-
-	return &AllSurahInfoOutput{
-		Source:   source,
-		Language: languageName,
-		Texts:    mapInfo,
-	}, nil
-}
-
-func parseSurahInfo(cacheDir, language string, surah int) (*SurahInfoOutput, error) {
-	// Open file
-	path := fmt.Sprintf("info-%s-%03d.json", language, surah)
-	path = filepath.Join(cacheDir, path)
-
-	f, err := os.Open(path)
-	if err != nil {
-		return nil, fmt.Errorf("fail to open surah info for %s %d: %w", language, surah, err)
-	}
-	defer f.Close()
-
-	// Decode data
-	var srcData SurahInfoSource
-	err = json.NewDecoder(f).Decode(&srcData)
-	if err != nil {
-		return nil, fmt.Errorf("fail to decode surah info for %s %d: %w", language, surah, err)
-	}
-
-	// In Quran.com, if data for a language not exist, they will
-	// fallback into using English language. In this case, we
-	// will just skip it.
-	if language != "en" && srcData.ChapterInfo.LanguageName == "english" {
-		return nil, nil
-	}
-
-	// If text is empty, just stop
-	srcText := norm.NormalizeUnicode(srcData.ChapterInfo.Text)
-	if srcText == "" {
-		return nil, nil
-	}
-
-	// Convert text to html.Node document
-	doc, err := dom.FastParse(strings.NewReader(srcText))
-	if err != nil {
-		return nil, fmt.Errorf("fail to parse surah info HTML for %s %d: %w", language, surah, err)
-	}
-
-	// Replace all H1 to H2, and so on
-	if len(dom.GetElementsByTagName(doc, "h1")) > 0 {
-		for hLevel := 5; hLevel >= 1; hLevel-- {
-			tagName := fmt.Sprintf("h%d", hLevel)
-			newTagName := fmt.Sprintf("h%d", hLevel+1)
-			hNodes := dom.GetElementsByTagName(doc, tagName)
-			for _, node := range hNodes {
-				node.Data = newTagName
-			}
-		}
-	}
-
-	// Return back doc to text
-	docHTML := dom.InnerHTML(doc)
-
-	// Convert text to markdown
-
-	// Return output
-	return &SurahInfoOutput{
-		Text:     util.MarkdownText(docHTML),
-		Number:   srcData.ChapterInfo.ChapterID,
-		Source:   norm.NormalizeUnicode(srcData.ChapterInfo.Source),
-		Language: norm.NormalizeUnicode(srcData.ChapterInfo.LanguageName),
-	}, nil
 }
 
 func parseAllWordTranslations(cacheDir, language string) (map[string]string, error) {
