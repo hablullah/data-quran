@@ -1,6 +1,7 @@
 package kemenag
 
 import (
+	"context"
 	"os"
 	"path/filepath"
 
@@ -37,55 +38,15 @@ func cliAction(c *cli.Context) error {
 	}
 	os.MkdirAll(cacheDir, os.ModePerm)
 
-	// Download data
-	err := downloadListSurah(cacheDir)
+	// Process list surah
+	ctx := context.Background()
+	err := processListSurah(ctx, cacheDir, dstDir)
 	if err != nil {
 		return err
 	}
 
-	err = downladAllTafsir(cacheDir)
-	if err != nil {
-		return err
-	}
-
-	// Parse and write list surah
-	err = parseAndWriteListSurah(cacheDir, dstDir)
-	if err != nil {
-		return err
-	}
-
-	// Parse each surah to extract text, trans and tafsirs
-	listAyah, err := parseAllSurah(cacheDir)
-	if err != nil {
-		return err
-	}
-
-	err = writeQuranBasicData(dstDir, listAyah, TextArabic)
-	if err != nil {
-		return err
-	}
-
-	err = writeQuranBasicData(dstDir, listAyah, Transliteration)
-	if err != nil {
-		return err
-	}
-
-	err = writeQuranBasicData(dstDir, listAyah, TafsirWajiz)
-	if err != nil {
-		return err
-	}
-
-	err = writeQuranBasicData(dstDir, listAyah, TafsirTahlili)
-	if err != nil {
-		return err
-	}
-
-	err = writeQuranTranslation(dstDir, listAyah)
-	if err != nil {
-		return err
-	}
-
-	err = writeSurahInfo(dstDir, listAyah)
+	// Process tafsirs for each surah
+	err = processTafsir(cacheDir, dstDir)
 	if err != nil {
 		return err
 	}

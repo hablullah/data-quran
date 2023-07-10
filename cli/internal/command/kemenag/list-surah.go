@@ -1,44 +1,63 @@
 package kemenag
 
 import (
-	"data-quran-cli/internal/norm"
+	"context"
+	"data-quran-cli/internal/dl"
 	"data-quran-cli/internal/util"
-	"encoding/json"
 	"fmt"
-	"os"
+	"net/http"
 	"path/filepath"
 	"strings"
 
 	"github.com/sirupsen/logrus"
 )
 
-func parseAndWriteListSurah(cacheDir, dstDir string) error {
+var (
+	urlListSurah = "https://web-api.qurankemenag.net/quran-surah"
+)
+
+func processListSurah(ctx context.Context, cacheDir, dstDir string) error {
+	err := downloadListSurah(ctx, cacheDir)
+	if err != nil {
+		return err
+	}
+
 	listSurah, err := parseListSurah(cacheDir)
 	if err != nil {
 		return err
 	}
 
-	return writeListSurah(dstDir, listSurah)
+	err = writeListSurah(dstDir, listSurah)
+	if err != nil {
+		return err
+	}
+
+	return nil
+}
+
+func downloadListSurah(ctx context.Context, cacheDir string) error {
+	logrus.Printf("downloading list surah")
+	dstPath := filepath.Join(cacheDir, "list-surah.json")
+
+	if !util.FileExist(dstPath) {
+		req := dl.Request{URL: urlListSurah}
+		err := dl.Download(ctx, http.DefaultClient, dstPath, req)
+		if err != nil {
+			return fmt.Errorf("failed to download list surah: %w", err)
+		}
+	}
+
+	return nil
 }
 
 func parseListSurah(cacheDir string) ([]Surah, error) {
 	logrus.Printf("parsing list surah")
-
-	// Open file
-	srcPath := filepath.Join(cacheDir, "list-surah.json")
-	f, err := os.Open(srcPath)
-	if err != nil {
-		return nil, fmt.Errorf("failed to read list surah: %w", err)
-	}
-	defer f.Close()
-
-	// Decode JSON
 	var listSurah struct {
 		Data []Surah `json:"data"`
 	}
 
-	r := norm.NormalizeReader(f)
-	err = json.NewDecoder(r).Decode(&listSurah)
+	srcPath := filepath.Join(cacheDir, "list-surah.json")
+	err := util.DecodeJsonFile(srcPath, &listSurah)
 	if err != nil {
 		return nil, fmt.Errorf("failed to decode list surah: %w", err)
 	}

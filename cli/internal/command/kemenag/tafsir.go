@@ -2,7 +2,9 @@ package kemenag
 
 import (
 	"data-quran-cli/internal/util"
+	"encoding/json"
 	"fmt"
+	"net/http"
 	"os"
 	"path/filepath"
 	"regexp"
@@ -37,6 +39,8 @@ const (
 )
 
 var (
+	urlQuranTafsir = "https://web-api.qurankemenag.net/quran-tafsir/%d"
+
 	rxNewlines        = regexp.MustCompile(`\n+`)
 	rxTafsirNumber    = regexp.MustCompile(`(?m)^\s*([\d\-]+)\s*\\?\.?\s*`)
 	rxTrimTafsirSpace = regexp.MustCompile(`(?m)^[^\S\n]+|[^\S\n]+$`)
@@ -47,10 +51,121 @@ var (
 	rxFootFnNumber    = regexp.MustCompile(`(?m)^\s*(\d+)\s*\)\s*`)
 )
 
-func parseAllSurah(cacheDir string) ([]Ayah, error) {
+func processTafsir(cacheDir, dstDir string) error {
+	// Download tafsirs
+	err := downladAllTafsir(cacheDir)
+	if err != nil {
+		return err
+	}
+
+	// Parse each surah to extract text, trans and tafsirs
+	listAyah, err := parseAllTafsir(cacheDir)
+	if err != nil {
+		return err
+	}
+
+	// Save surah data
+	err = writeQuranBasicData(dstDir, listAyah, TextArabic)
+	if err != nil {
+		return err
+	}
+
+	err = writeQuranBasicData(dstDir, listAyah, Transliteration)
+	if err != nil {
+		return err
+	}
+
+	err = writeQuranBasicData(dstDir, listAyah, TafsirWajiz)
+	if err != nil {
+		return err
+	}
+
+	err = writeQuranBasicData(dstDir, listAyah, TafsirTahlili)
+	if err != nil {
+		return err
+	}
+
+	err = writeQuranTranslation(dstDir, listAyah)
+	if err != nil {
+		return err
+	}
+
+	err = writeSurahInfo(dstDir, listAyah)
+	if err != nil {
+		return err
+	}
+
+	return nil
+}
+
+func downladAllTafsir(cacheDir string) error {
+	for surah := 1; surah <= 114; surah++ {
+		err := downloadTafsir(cacheDir, surah)
+		if err != nil {
+			return err
+		}
+	}
+
+	return nil
+}
+
+func downloadTafsir(cacheDir string, surah int) error {
+	// Prepare destination path
+	dstName := fmt.Sprintf("surah-%03d.json", surah)
+	dstPath := filepath.Join(cacheDir, dstName)
+	if util.FileExist(dstPath) {
+		return nil
+	}
+
+	// Prepare http client
+	client := &http.Client{}
+
+	// Download each tafsir
+	surahData := util.ListSurah[surah]
+	tafsirs := make([]Ayah, surahData.NAyah)
+
+	for idx := 1; idx <= surahData.NAyah; idx++ {
+		ayah := surahData.Start + idx - 1
+		err := func() error {
+			logrus.Printf("downloading tafsir for %d:%d", surah, idx)
+
+			// Download page
+			url := fmt.Sprintf(urlQuranTafsir, ayah)
+			resp, err := client.Get(url)
+			if err != nil {
+				return fmt.Errorf("failed to download tafsir for %d:%d, %w", surah, idx, err)
+			}
+			defer resp.Body.Close()
+
+			// Decode data
+			var respData RespDownloadTafsir
+			err = json.NewDecoder(resp.Body).Decode(&respData)
+			if err != nil {
+				return fmt.Errorf("failed to decode tafsir for %d:%d %w", surah, idx, err)
+			}
+
+			// Save to slice
+			tafsirs[idx-1] = respData.Data
+			return nil
+		}()
+		if err != nil {
+			return err
+		}
+	}
+
+	// Write tafsirs to file
+	bt, err := json.MarshalIndent(tafsirs, "", "\t")
+	if err != nil {
+		return fmt.Errorf("failed to save tafsir for surah %d: %w", surah, err)
+	}
+
+	return os.WriteFile(dstPath, bt, os.ModePerm)
+}
+
+func parseAllTafsir(cacheDir string) ([]Ayah, error) {
 	allAyah := make([]Ayah, 0, 6236)
 	for surah := 1; surah <= 114; surah++ {
-		listAyah, err := parseSurah(cacheDir, surah)
+		listAyah, err := parseTafsirInSurah(cacheDir, surah)
 		if err != nil {
 			return nil, err
 		}
@@ -65,7 +180,7 @@ func parseAllSurah(cacheDir string) ([]Ayah, error) {
 	return allAyah, nil
 }
 
-func parseSurah(cacheDir string, surah int) ([]Ayah, error) {
+func parseTafsirInSurah(cacheDir string, surah int) ([]Ayah, error) {
 	logrus.Printf("parsing surah %d", surah)
 
 	// Prepare path
