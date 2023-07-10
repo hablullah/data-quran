@@ -1,9 +1,7 @@
 package kemenag
 
 import (
-	"data-quran-cli/internal/norm"
 	"data-quran-cli/internal/util"
-	"encoding/json"
 	"fmt"
 	"os"
 	"path/filepath"
@@ -70,19 +68,13 @@ func parseAllSurah(cacheDir string) ([]Ayah, error) {
 func parseSurah(cacheDir string, surah int) ([]Ayah, error) {
 	logrus.Printf("parsing surah %d", surah)
 
-	// Open file
+	// Prepare path
 	srcPath := fmt.Sprintf("surah-%03d.json", surah)
 	srcPath = filepath.Join(cacheDir, srcPath)
-	f, err := os.Open(srcPath)
-	if err != nil {
-		return nil, fmt.Errorf("failed to read surah %d: %w", surah, err)
-	}
-	defer f.Close()
 
 	// Decode JSON
 	var listAyah []Ayah
-	r := norm.NormalizeReader(f)
-	err = json.NewDecoder(r).Decode(&listAyah)
+	err := util.DecodeJsonFile(srcPath, &listAyah)
 	if err != nil {
 		return nil, fmt.Errorf("failed to decode surah %d: %w", surah, err)
 	}

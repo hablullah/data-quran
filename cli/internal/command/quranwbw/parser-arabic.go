@@ -1,11 +1,8 @@
 package quranwbw
 
 import (
-	"data-quran-cli/internal/norm"
 	"data-quran-cli/internal/util"
-	"encoding/json"
 	"fmt"
-	"os"
 	"path/filepath"
 	"strings"
 )
@@ -54,17 +51,10 @@ func parseAllArabic(cacheDir string) ([]ArabicOutput, map[string]int, error) {
 }
 
 func parseArabic(srcPath string, surah int) ([]ArabicOutput, map[string]int, error) {
-	// Open file
-	srcName := filepath.Base(srcPath)
-	src, err := os.Open(srcPath)
-	if err != nil {
-		return nil, nil, fmt.Errorf("failed to open %s: %w", srcName, err)
-	}
-	defer src.Close()
-
 	// Decode source file
 	var srcData map[int]ArabicInput
-	err = json.NewDecoder(src).Decode(&srcData)
+	srcName := filepath.Base(srcPath)
+	err := util.DecodeJsonFile(srcPath, &srcData)
 	if err != nil {
 		return nil, nil, fmt.Errorf("failed to decode %s: %w", srcName, err)
 	}
@@ -76,7 +66,6 @@ func parseArabic(srcPath string, surah int) ([]ArabicOutput, map[string]int, err
 
 	for ayah := 1; ayah <= nAyah; ayah++ {
 		str := srcData[ayah].W
-		str = norm.NormalizeUnicode(str)
 		words := strings.Split(str, "|")
 
 		for pos, word := range words {
