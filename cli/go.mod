@@ -7,6 +7,7 @@ require (
 	github.com/agext/levenshtein v1.2.3
 	github.com/emvi/iso-639-1 v1.1.0
 	github.com/go-shiori/dom v0.0.0-20230515143342-73569d674e1c
+	github.com/iancoleman/strcase v0.2.0
 	github.com/sirupsen/logrus v1.9.3
 	github.com/urfave/cli/v2 v2.25.7
 	github.com/zyedidia/generic v1.2.1

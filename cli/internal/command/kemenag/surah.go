@@ -166,6 +166,7 @@ func writeQuranBasicData(dstDir string, listAyah []Ayah, field BasicDataField) e
 	}
 
 	// Write to file
+	os.MkdirAll(filepath.Dir(dstPath), os.ModePerm)
 	err := os.WriteFile(dstPath, []byte(sb.String()), os.ModePerm)
 	if err != nil {
 		return fmt.Errorf("failed to write data %q: %w", field, err)

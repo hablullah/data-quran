@@ -64,6 +64,19 @@ func cliAction(c *cli.Context) error {
 		return err
 	}
 
+	// Process ayah text
+	err = downloadAllAyahText(ctx, cacheDir)
+	if err != nil {
+		return err
+	}
+
+	for _, name := range ayahTextNames {
+		err = parseAndWriteAyahText(cacheDir, dstDir, name)
+		if err != nil {
+			return err
+		}
+	}
+
 	return nil
 }
 
