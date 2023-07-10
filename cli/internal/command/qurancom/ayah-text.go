@@ -46,6 +46,22 @@ var (
 	}
 )
 
+func processAyahText(ctx context.Context, cacheDir, dstDir string) error {
+	err := downloadAllAyahText(ctx, cacheDir)
+	if err != nil {
+		return err
+	}
+
+	for _, name := range ayahTextNames {
+		err = parseAndWriteAyahText(cacheDir, dstDir, name)
+		if err != nil {
+			return err
+		}
+	}
+
+	return nil
+}
+
 func downloadAllAyahText(ctx context.Context, cacheDir string) error {
 	logrus.Printf("downloading all ayah text")
 

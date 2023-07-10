@@ -65,13 +65,34 @@ func cliAction(c *cli.Context) error {
 	}
 
 	// Process ayah text
-	err = downloadAllAyahText(ctx, cacheDir)
+	err = processAyahText(ctx, cacheDir, dstDir)
 	if err != nil {
 		return err
 	}
 
-	for _, name := range ayahTextNames {
-		err = parseAndWriteAyahText(cacheDir, dstDir, name)
+	// Process tafsirs
+	err = downloadTafsirList(ctx, cacheDir)
+	if err != nil {
+		return err
+	}
+
+	tafsirs, err := parseTafsirList(cacheDir)
+	if err != nil {
+		return err
+	}
+
+	err = downloadAllTafsirs(ctx, cacheDir, tafsirs)
+	if err != nil {
+		return err
+	}
+
+	for _, t := range tafsirs {
+		listAyah, err := parseTafsir(cacheDir, t)
+		if err != nil {
+			return err
+		}
+
+		err = writeTafsir(dstDir, listAyah, t)
 		if err != nil {
 			return err
 		}
@@ -94,7 +115,9 @@ func cleanDstDir(dstDir string) error {
 			"surah-translation",
 			"word-text",
 			"word-translation",
-			"word-transliteration":
+			"word-transliteration",
+			"ayah-text",
+			"ayah-tafsir":
 			return os.Remove(path)
 		}
 
